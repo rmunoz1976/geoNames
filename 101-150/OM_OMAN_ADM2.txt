@@ -1,0 +1,61 @@
+﻿11748046	Madha	Madha		25.28164	56.31592	A	ADM2	OM		07	11748046			0		94	Asia/Muscat	2017-10-26
+12215903	Masqaţ	Masqat	Masqat,Masqaţ,msqt,مسقط	23.453	58.673	A	ADM2	OM		06	12215903			0		91	Asia/Muscat	2021-02-11
+12215904	Muţrah	Mutrah	Mutrah,Muţrah,mtrh,مطرح	23.6	58.522	A	ADM2	OM		06	12215904			0		40	Asia/Muscat	2021-02-11
+12215905	Al ‘Āmirāt	Al `Amirat	Al `Amirat,Al ‘Āmirāt,العامرات	23.358	58.48	A	ADM2	OM		06	12215905			0		214	Asia/Muscat	2021-02-11
+12215906	Bawshar	Bawshar	Bawshar,bwshr,بوشر	23.513	58.321	A	ADM2	OM		06	12215906			0		94	Asia/Muscat	2021-02-11
+12215907	As Sīb	As Sib	As Sib,As Sīb,alsyb,السيب	23.583	58.17	A	ADM2	OM		06	12215907			0		53	Asia/Muscat	2021-02-11
+12215908	Qurayyāt	Qurayyat	Qurayyat,Qurayyāt,qryat,قريات	23.106	58.925	A	ADM2	OM		06	12215908			0		217	Asia/Muscat	2021-02-11
+12215909	Şalālah	Salalah	Salalah,slalt,Şalālah,صلالة	17.073	53.861	A	ADM2	OM		08	12215909			0		943	Asia/Muscat	2021-02-11
+12215910	Ţāqah	Taqah	Taqah,taqt,Ţāqah,طاقة	17.181	54.419	A	ADM2	OM		08	12215910			0		744	Asia/Muscat	2021-02-11
+12215911	Mirbāţ	Mirbat	Mirbat,Mirbāţ,mrbat,مرباط	17.073	54.667	A	ADM2	OM		08	12215911			0		1043	Asia/Muscat	2021-02-11
+12215912	Rakhyūt	Rakhyut	Rakhyut,Rakhyūt,rkhywt,رخيوت	16.902	53.427	A	ADM2	OM		08	12215912			0		946	Asia/Muscat	2021-02-11
+12215913	Thumrayt	Thumrayt	Thumrayt,thmryt,ثمريت	18.328	53.752	A	ADM2	OM		08	12215913			0		273	Asia/Muscat	2021-02-11
+12215914	Ḑalkūt	Dalkut	Dalkut,dlkwt,ضلكوت,Ḑalkūt	16.84	53.055	A	ADM2	OM		08	12215914			0		959	Asia/Muscat	2021-02-11
+12215915	Al Mazyūnah	Al Mazyunah	Al Mazyunah,Al Mazyūnah,almzywnt,المزيونة	18.243	52.706	A	ADM2	OM		08	12215915			0		407	Asia/Muscat	2021-02-11
+12215947	Muqshin	Muqshin	Muqshin,mqshn,مقشن	19.297	54.775	A	ADM2	OM		08	12215947			0		186	Asia/Muscat	2021-02-11
+12215948	Shalīm wa Juzur al Ḩallāniyāt	Shalim wa Juzur al Hallaniyat	Shalim wa Juzur al Hallaniyat,Shalīm wa Juzur al Ḩallāniyāt,shlym wjzr alhlanyat,شليم وجزر الحلانيات	18.212	55.333	A	ADM2	OM		08	12215948			0		290	Asia/Muscat	2021-02-11
+12215949	Sadaḩ	Sadah	Sadah,Sadaḩ,sdh,سدح	17.259	55	A	ADM2	OM		08	12215949			0		1332	Asia/Muscat	2021-02-11
+12215950	Al Buraymī	Al Buraymi	Al Buraymi,Al Buraymī,albrymy,البريمي	24.257	55.86	A	ADM2	OM		10	12215950			0		330	Asia/Muscat	2021-02-11
+12215951	Maḩḑah	Mahdah	Mahdah,Maḩḑah,mhdt,محضة	24.486	56.007	A	ADM2	OM		10	12215951			0		492	Asia/Muscat	2021-02-11
+12215952	As Sunaynah	As Sunaynah	As Sunaynah,alsnynt,السنينة	23.703	55.787	A	ADM2	OM		10	12215952			0		220	Asia/Muscat	2021-02-11
+12215953	Şuḩār	Suhar	Suhar,shar,Şuḩār,صحار	24.183	56.531	A	ADM2	OM		11	12215953			0		234	Asia/Muscat	2021-02-11
+12215954	Shināş	Shinas	Shinas,Shināş,shnas,شناص	24.726	56.352	A	ADM2	OM		11	12215954			0		138	Asia/Muscat	2021-02-11
+12215955	Liwá	Liwa	Liwa,Liwá,lwy,لوى	24.459	56.403	A	ADM2	OM		11	12215955			0		201	Asia/Muscat	2021-02-11
+12215956	Şaḩam	Saham	Saham,shm,Şaḩam,صحم	23.846	56.848	A	ADM2	OM		11	12215956			0		233	Asia/Muscat	2021-02-11
+12215957	Al Khābūrah	Al Khaburah	Al Khaburah,Al Khābūrah,alkhabwrt,الخابورة	23.804	57.023	A	ADM2	OM		11	12215957			0		172	Asia/Muscat	2021-02-11
+12215958	As Suwayq	As Suwayq	As Suwayq,alswyq,السويق	23.78	57.25	A	ADM2	OM		11	12215958			0		73	Asia/Muscat	2021-02-11
+12215959	Ar Rustāq	Ar Rustaq	Ar Rustaq,Ar Rustāq,alrstaq,الرستاق	23.424	57.317	A	ADM2	OM		02	12215959			0		489	Asia/Muscat	2021-02-11
+12215960	Al ‘Awābī	Al `Awabi	Al `Awabi,Al ‘Awābī,العوابي	23.261	57.54	A	ADM2	OM		02	12215960			0		1551	Asia/Muscat	2021-02-11
+12215961	Nakhal	Nakhal	Nakhal,nkhl,نخل	23.412	57.858	A	ADM2	OM		02	12215961			0		460	Asia/Muscat	2021-02-11
+12215962	Wadī al Ma‘āwil	Wadi al Ma`awil	Wadi al Ma`awil,Wadī al Ma‘āwil,وادي المعاول	23.649	57.858	A	ADM2	OM		02	12215962			0		26	Asia/Muscat	2021-02-11
+12215963	Barkā’	Barka'	Barka',Barkā’,بركاء	23.681	57.575	A	ADM2	OM		02	12215963			0		42	Asia/Muscat	2021-02-11
+12215964	Al Muşanna‘ah	Al Musanna`ah	Al Musanna`ah,Al Muşanna‘ah,المصنعة	23.687	57.582	A	ADM2	OM		02	12215964			0		35	Asia/Muscat	2021-02-11
+12215965	Şūr	Sur	Sur,swr,Şūr,صور	22.614	59.293	A	ADM2	OM		04	12215965			0		505	Asia/Muscat	2021-02-11
+12215966	Al Kāmil wa al Wāfī	Al Kamil wa al Wafi	Al Kamil wa al Wafi,Al Kāmil wa al Wāfī,alkaml w alwafy,الكامل و الوافي	22.37	59.197	A	ADM2	OM		04	12215966			0		226	Asia/Muscat	2021-02-11
+12215967	Ja‘lān Banī Bū Ḩasan	Ja`lan Bani Bu Hasan	Ja`lan Bani Bu Hasan,Ja‘lān Banī Bū Ḩasan,جعلان بني بوحسن	21.955	59.476	A	ADM2	OM		04	12215967			0		40	Asia/Muscat	2021-02-11
+12215968	Ja‘lān Banī Bū ‘Alī	Ja`lanBaniBu`Ali	Ja`lanBaniBu`Ali,Ja‘lān Banī Bū ‘Alī,جعلان بني بو علي	21.579	59.061	A	ADM2	OM		04	12215968			0		137	Asia/Muscat	2022-02-19
+12215969	Maşīrah	Masirah	Masirah,Maşīrah,msyrt,مصيرة	20.386	58.794	A	ADM2	OM		04	12215969			0		28	Asia/Muscat	2021-02-11
+12215970	Ibrā’	Ibra'	Ibra',Ibrā’,ابراء	22.785	58.445	A	ADM2	OM		12	12215970			0		529	Asia/Muscat	2021-02-11
+12215971	Al Muḑaybī	Al Mudaybi	Al Mudaybi,Al Muḑaybī,almdyby,المضيبي	22.118	58.22	A	ADM2	OM		12	12215971			0		234	Asia/Muscat	2021-02-11
+12215972	Bidīyah	Bidiyah	Bidiyah,Bidīyah,bdyt,بدية	22.141	58.825	A	ADM2	OM		12	12215972			0		336	Asia/Muscat	2021-02-11
+12215973	Al Qābil	Al Qabil	Al Qabil,Al Qābil,alqabl,القابل	22.661	58.666	A	ADM2	OM		12	12215973			0		374	Asia/Muscat	2021-02-11
+12215974	Wādī Banī Khālid	Wadi Bani Khalid	Wadi Bani Khalid,Wādī Banī Khālid,wady bny khald,وادي بني خالد	22.649	58.972	A	ADM2	OM		12	12215974			0		511	Asia/Muscat	2021-02-11
+12215975	Damā’ wa aţ Ţā’īyīn	Dama' wa at Ta'iyin	Dama' wa at Ta'iyin,Damā’ wa aţ Ţā’īyīn,دماء والطائيين	23.033	58.689	A	ADM2	OM		12	12215975			0		315	Asia/Muscat	2021-02-11
+12215976	‘Ibrī	`Ibri	`Ibri,عبري,‘Ibrī	22.75	56.174	A	ADM2	OM		09	12215976			0		176	Asia/Muscat	2021-02-11
+12215977	Yanqul	Yanqul	Yanqul,ynql,ينقل	23.753	56.399	A	ADM2	OM		09	12215977			0		726	Asia/Muscat	2021-02-11
+12215978	Ḑanak	Danak	Danak,dnk,ضنك,Ḑanak	23.711	56.155	A	ADM2	OM		09	12215978			0		396	Asia/Muscat	2021-02-11
+12215979	Haymā	Hayma	Hayma,Haymā,hyma,هيما	20.243	56.267	A	ADM2	OM		03	12215979			0		140	Asia/Muscat	2021-02-11
+12215980	Maḩūt	Mahut	Mahut,Maḩūt,mhwt,محوت	20.7	57.922	A	ADM2	OM		03	12215980			0		40	Asia/Muscat	2021-02-11
+12215981	Ad Duqm	Ad Duqm	Ad Duqm,aldqm,الدقم	19.223	57.445	A	ADM2	OM		03	12215981			0		90	Asia/Muscat	2021-02-11
+12215982	Al Jāzir	Al Jazir	Al Jazir,Al Jāzir,aljazr,الجازر	18.545	56.36	A	ADM2	OM		03	12215982			0		144	Asia/Muscat	2021-02-11
+12215983	Nizwá	Nizwa	Nizwa,Nizwá,nzwy,نزوى	22.982	57.545	A	ADM2	OM		01	12215983			0		539	Asia/Muscat	2021-02-11
+12215984	Bahlā’	Bahla'	Bahla',Bahlā’,بهلاء	22.746	57.174	A	ADM2	OM		01	12215984			0		600	Asia/Muscat	2021-02-11
+12215985	Manaḩ	Manah	Manah,Manaḩ,mnh,منح	22.688	57.581	A	ADM2	OM		01	12215985			0		378	Asia/Muscat	2021-02-11
+12215986	Al Ḩamrā’	Al Hamra'	Al Hamra',Al Ḩamrā’,الحمراء	23.157	57.224	A	ADM2	OM		01	12215986			0		1061	Asia/Muscat	2021-02-11
+12215987	Adam	Adam	Adam,adm,أدم	21.727	57.282	A	ADM2	OM		01	12215987			0		167	Asia/Muscat	2021-02-11
+12215988	Izkī	Izki	Izki,Izkī,azky,إزكي	22.761	57.802	A	ADM2	OM		01	12215988			0		427	Asia/Muscat	2021-02-11
+12215989	Samā’il	Sama'il	Sama'il,Samā’il,smayyl,سمائيل	23.191	58.001	A	ADM2	OM		01	12215989			80538		751	Asia/Muscat	2022-11-24
+12215990	Bidbid	Bidbid	Bidbid,bdbd,بدبد	23.306	58.239	A	ADM2	OM		01	12215990			0		545	Asia/Muscat	2021-02-11
+12215991	Khaşab	Khasab	Khasab,Khaşab,khsb,خصب	26.034	56.285	A	ADM2	OM		07	12215991			0		608	Asia/Muscat	2024-10-25
+12215992	Dibbā	Dibba	Dibba,Dibbā,dba,دبا	25.741	56.224	A	ADM2	OM		07	12215992			0		1318	Asia/Muscat	2021-02-11
+12215993	Bukhā	Bukha	Bukha,Bukhā,bkha,بخا	26.107	56.141	A	ADM2	OM		07	12215993			0		23	Asia/Muscat	2021-02-11

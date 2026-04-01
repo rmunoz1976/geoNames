@@ -1,0 +1,183 @@
+﻿8987088	Munda	Munda		-8.32798	157.26843	A	ADM2	SB		11	0215			3797		9	Pacific/Guadalcanal	2025-10-18
+9035073	Noro	Noro		-8.22274	157.19978	A	ADM2	SB		11	0225			7204		11	Pacific/Guadalcanal	2025-10-18
+12041744	Nggosi	Nggosi		-9.43205	159.9285	A	ADM2	SB		14	1001			26009		42	Pacific/Guadalcanal	2025-10-18
+12041745	Waghina	Waghina		-7.43408	157.76649	A	ADM2	SB		12	0101			1782		13	Pacific/Guadalcanal	2025-10-18
+12041746	Mbumburu	Mbumburu		-9.43801	159.9443	A	ADM2	SB		14	1002			5806		65	Pacific/Guadalcanal	2025-10-18
+12041747	Rove - Lengakiki	Rove - Lengakiki		-9.43164	159.94492	A	ADM2	SB		14	1003			4244		37	Pacific/Guadalcanal	2025-10-18
+12041748	Cruz	Cruz		-9.43112	159.95447	A	ADM2	SB		14	1004			394		8	Pacific/Guadalcanal	2025-10-18
+12041749	Katupika	Katupika		-7.33536	157.2689	A	ADM2	SB		12	0102			2318		220	Pacific/Guadalcanal	2025-10-18
+12041750	Vasiduki	Vasiduki		-7.21221	157.02558	A	ADM2	SB		12	0103			1952		155	Pacific/Guadalcanal	2025-10-18
+12041751	Kukum	Kukum		-9.43497	159.97948	A	ADM2	SB		14	1009			2541		20	Pacific/Guadalcanal	2025-10-18
+12041752	Naha	Naha		-9.43303	159.98186	A	ADM2	SB		14	1010			464		11	Pacific/Guadalcanal	2025-10-18
+12041753	Batava	Batava		-6.71602	156.47705	A	ADM2	SB		12	0107			5677		326	Pacific/Guadalcanal	2025-10-18
+12041754	Tavula	Tavula		-6.66884	156.56033	A	ADM2	SB		12	0108			2751		120	Pacific/Guadalcanal	2025-10-18
+12041755	Susuka	Susuka		-6.92376	156.89735	A	ADM2	SB		12	0111			1939		351	Pacific/Guadalcanal	2025-10-18
+12041756	Senga	Senga		-7.00356	157.00019	A	ADM2	SB		12	0112			2117		218	Pacific/Guadalcanal	2025-10-18
+12041757	Kirugela	Kirugela		-7.24563	157.24007	A	ADM2	SB		12	0114			1465		414	Pacific/Guadalcanal	2025-10-18
+12041758	Outer Shortlands	Outer Shortlands		-7.36478	155.56375	A	ADM2	SB		11	0201			1444		332	Pacific/Guadalcanal	2025-10-18
+12041759	Inner Shortlands	Inner Shortlands		-7.03585	155.77229	A	ADM2	SB		11	0202			3023		118	Pacific/Guadalcanal	2025-10-18
+12041760	Simbo	Simbo		-8.27687	156.53815	A	ADM2	SB		11	0203			1782		71	Pacific/Guadalcanal	2025-10-18
+12041761	Central Ranongga	Central Ranongga		-7.9946	156.56233	A	ADM2	SB		11	0205			2832		212	Pacific/Guadalcanal	2025-10-18
+12041762	South Ranongga	South Ranongga		-8.10755	156.5767	A	ADM2	SB		11	0206			3358		443	Pacific/Guadalcanal	2025-10-18
+12041763	Vonunu	Vonunu		-7.87575	156.66383	A	ADM2	SB		11	0207			3924		317	Pacific/Guadalcanal	2025-10-18
+12041764	Bilua	Bilua		-7.79319	156.68667	A	ADM2	SB		11	0208			4502		211	Pacific/Guadalcanal	2025-10-18
+12041765	North Kolombangara	North Kolombangara		-7.95548	157.00704	A	ADM2	SB		11	0226			2922		393	Pacific/Guadalcanal	2025-10-18
+12041766	Malango	Malango		-9.55598	159.9985	A	ADM2	SB		06	0620			24649		848	Pacific/Guadalcanal	2025-10-18
+12041767	Roviana Lagoon	Roviana Lagoon		-8.32063	157.59276	A	ADM2	SB		11	0217			5206		115	Pacific/Guadalcanal	2025-10-18
+12041768	South Rendova	South Rendova		-8.74758	157.56274	A	ADM2	SB		11	0218			2643		194	Pacific/Guadalcanal	2025-10-18
+12041769	North Rendova	North Rendova		-8.52487	157.25937	A	ADM2	SB		11	0219			1907		432	Pacific/Guadalcanal	2025-10-18
+12041770	Kolombaghea	Kolombaghea		-8.12925	157.57541	A	ADM2	SB		11	0220			3565		64	Pacific/Guadalcanal	2025-10-18
+12041771	Buini Tusu	Buini Tusu		-8.40426	157.75654	A	ADM2	SB		11	0221			3799		432	Pacific/Guadalcanal	2025-10-18
+12041772	Nono	Nono		-8.68568	157.93256	A	ADM2	SB		11	0222			4065		286	Pacific/Guadalcanal	2025-10-18
+12041773	Nggatokae	Nggatokae		-8.75316	158.17752	A	ADM2	SB		11	0223			3434		124	Pacific/Guadalcanal	2025-10-18
+12041774	North Vangunu	North Vangunu		-8.56912	158.04499	A	ADM2	SB		11	0224			3211		171	Pacific/Guadalcanal	2025-10-18
+12041775	Kokota	Kokota		-7.98872	159.18983	A	ADM2	SB		07	0303			1671		172	Pacific/Guadalcanal	2025-10-18
+12041776	Nipua-Nopoli	Nipua-Nopoli		-10.26863	166.33072	A	ADM2	SB		09	0903			912		25	Pacific/Guadalcanal	2025-10-18
+12041777	Vavaea	Vavaea		-9.43496	159.95695	A	ADM2	SB		14	1005			10813		37	Pacific/Guadalcanal	2025-10-18
+12041778	Vuhokesa	Vuhokesa		-9.43574	159.96443	A	ADM2	SB		14	1006			1328		7	Pacific/Guadalcanal	2025-10-18
+12041779	East Te Nggano	East Te Nggano		-11.78913	160.51477	A	ADM2	SB		13	0501			0		0	Pacific/Guadalcanal	2019-05-02
+12041780	Tatamba	Tatamba		-8.36145	159.75183	A	ADM2	SB		07	0310			1649		153	Pacific/Guadalcanal	2025-10-18
+12041781	Sigana	Sigana		-8.48687	159.83112	A	ADM2	SB		07	0311			2691		182	Pacific/Guadalcanal	2025-10-18
+12041782	Japuana	Japuana		-8.47259	159.583	A	ADM2	SB		07	0312			2597		261	Pacific/Guadalcanal	2025-10-18
+12041783	Kolomola	Kolomola		-8.30422	159.58223	A	ADM2	SB		07	0313			1164		248	Pacific/Guadalcanal	2025-10-18
+12041784	Kolotubi	Kolotubi		-8.3375	159.53257	A	ADM2	SB		07	0314			1980		74	Pacific/Guadalcanal	2025-10-18
+12041785	Susubona	Susubona		-8.20763	159.39863	A	ADM2	SB		07	0315			2342		168	Pacific/Guadalcanal	2025-10-18
+12041786	Samasodu	Samasodu		-7.93296	158.9323	A	ADM2	SB		07	0316			2485		246	Pacific/Guadalcanal	2025-10-18
+12041787	Sandfly-Buenavista	Sandfly-Buenavista		-8.90103	160.03004	A	ADM2	SB		10	0401			3729		161	Pacific/Guadalcanal	2025-10-18
+12041788	West Gela	West Gela		-9.04623	160.13981	A	ADM2	SB		10	0402			2588		80	Pacific/Guadalcanal	2025-10-18
+12041789	East Gela	East Gela		-9.06087	160.19794	A	ADM2	SB		10	0403			2494		190	Pacific/Guadalcanal	2025-10-18
+12041790	South West Gela	South West Gela		-9.12656	160.26259	A	ADM2	SB		10	0405			3154		13	Pacific/Guadalcanal	2025-10-18
+12041791	South East Gela	South East Gela		-9.153	160.34098	A	ADM2	SB		10	0406			1819		36	Pacific/Guadalcanal	2025-10-18
+12041792	North East Gela	North East Gela		-9.10209	160.32303	A	ADM2	SB		10	0407			2567		112	Pacific/Guadalcanal	2025-10-18
+12041793	North West Gela	North West Gela		-9.06274	160.26156	A	ADM2	SB		10	0408			2030		216	Pacific/Guadalcanal	2025-10-18
+12041794	Mbanika	Mbanika		-9.08035	159.19033	A	ADM2	SB		10	0409			2115		8	Pacific/Guadalcanal	2025-10-18
+12041795	Pavuvu	Pavuvu		-9.06019	159.12111	A	ADM2	SB		10	0410			2051		18	Pacific/Guadalcanal	2025-10-18
+12041796	Lovukol	Lovukol		-9.02124	158.74129	A	ADM2	SB		10	0411			2576		38	Pacific/Guadalcanal	2025-10-18
+12041797	Tirotonga	Tirotonga		-8.18909	159.54228	A	ADM2	SB		07	0306			693		745	Pacific/Guadalcanal	2025-10-18
+12041798	Lughu	Lughu		-11.66063	160.23242	A	ADM2	SB		13	0503			0		50	Pacific/Guadalcanal	2019-05-02
+12041799	Kangava	Kangava		-11.59823	160.15579	A	ADM2	SB		13	0504			0		23	Pacific/Guadalcanal	2019-05-02
+12041800	West Ghongau	West Ghongau		-11.2938	159.77921	A	ADM2	SB		13	0509			0		20	Pacific/Guadalcanal	2019-05-02
+12041801	Tandai	Tandai		-9.45238	159.82692	A	ADM2	SB		06	0601			33056		278	Pacific/Guadalcanal	2025-10-18
+12041802	Mataniko	Mataniko		-9.44554	159.95909	A	ADM2	SB		14	1007			5722		10	Pacific/Guadalcanal	2025-10-18
+12041803	Kola'A	Kola'A		-9.44599	159.96982	A	ADM2	SB		14	1008			20783		46	Pacific/Guadalcanal	2025-10-18
+12041804	Tangarare	Tangarare		-9.56939	159.72981	A	ADM2	SB		06	0604			3852		660	Pacific/Guadalcanal	2025-10-18
+12041805	Vura	Vura		-9.44432	159.98456	A	ADM2	SB		14	1011			18753		36	Pacific/Guadalcanal	2025-10-18
+12041806	Paripao	Paripao		-9.57256	160.32545	A	ADM2	SB		06	0617			3842		130	Pacific/Guadalcanal	2025-10-18
+12041807	Sulufou - Kwarande	Sulufou - Kwarande		-8.49244	160.88738	A	ADM2	SB		03	0713			2747		1	Pacific/Guadalcanal	2025-10-18
+12041808	Fenualoa	Fenualoa		-10.24018	166.30834	A	ADM2	SB		09	0901			1262		20	Pacific/Guadalcanal	2025-10-18
+12041809	East Ghaobata	East Ghaobata		-9.47692	160.20208	A	ADM2	SB		06	0622			6222		20	Pacific/Guadalcanal	2025-10-18
+12041810	Takwa	Takwa		-8.40319	160.77133	A	ADM2	SB		03	0710			12445		170	Pacific/Guadalcanal	2025-10-18
+12041811	East Baegu	East Baegu		-8.49989	160.83434	A	ADM2	SB		03	0711			6784		525	Pacific/Guadalcanal	2025-10-18
+12041812	Fouenda	Fouenda		-8.31326	160.79704	A	ADM2	SB		03	0712			2381		50	Pacific/Guadalcanal	2025-10-18
+12041813	Sububenu- Burianias	Sububenu- Burianias		-8.62494	160.9088	A	ADM2	SB		03	0714			4450		409	Pacific/Guadalcanal	2025-10-18
+12041814	Nafinua	Nafinua		-8.73865	160.88777	A	ADM2	SB		03	0715			4593		85	Pacific/Guadalcanal	2025-10-18
+12041815	Gulalafou	Gulalafou		-8.89125	160.93576	A	ADM2	SB		03	0717			8609		438	Pacific/Guadalcanal	2025-10-18
+12041816	Waneagu - Taelanasin	Waneagu - Taelanasin		-8.9589	161.04117	A	ADM2	SB		03	0718			3682		461	Pacific/Guadalcanal	2025-10-18
+12041817	Siesie	Siesie		-9.02972	160.88953	A	ADM2	SB		03	0727			4508		242	Pacific/Guadalcanal	2025-10-18
+12041818	Kwaimela - Radefasu	Kwaimela - Radefasu		-8.84284	160.79385	A	ADM2	SB		03	0729			11621		399	Pacific/Guadalcanal	2025-10-18
+12041819	Langalanga	Langalanga		-8.79654	160.71189	A	ADM2	SB		03	0730			3113		17	Pacific/Guadalcanal	2025-10-18
+12041820	Luaniua	Luaniua		-5.52559	159.56773	A	ADM2	SB		03	0731			1965		12	Pacific/Guadalcanal	2025-10-18
+12041821	Pelau	Pelau		-5.09562	159.40368	A	ADM2	SB		03	0732			1041		16	Pacific/Guadalcanal	2025-10-18
+12041822	North Ulawa	North Ulawa		-9.74556	161.96828	A	ADM2	SB		08	0801			1428		-9999	Pacific/Guadalcanal	2025-10-18
+12041823	South Ulawa	South Ulawa		-9.82091	161.97462	A	ADM2	SB		08	0802			1499		1	Pacific/Guadalcanal	2025-10-18
+12041824	Ugi And Pio	Ugi And Pio		-10.25612	161.74272	A	ADM2	SB		08	0804			1598		143	Pacific/Guadalcanal	2025-10-18
+12041825	Arosi South	Arosi South		-10.31791	161.37588	A	ADM2	SB		08	0805			3169		105	Pacific/Guadalcanal	2025-10-18
+12041826	Bauro West	Bauro West		-10.46818	161.75452	A	ADM2	SB		08	0809			5221		301	Pacific/Guadalcanal	2025-10-18
+12041827	Bauro Central	Bauro Central		-10.54273	161.89979	A	ADM2	SB		08	0810			5557		649	Pacific/Guadalcanal	2025-10-18
+12041828	Panatina	Panatina		-9.43587	159.99591	A	ADM2	SB		14	1012			32712		12	Pacific/Guadalcanal	2025-10-18
+12041829	Star Harbour South	Star Harbour South		-10.74266	162.10186	A	ADM2	SB		08	0817			1561		166	Pacific/Guadalcanal	2025-10-18
+12041830	Rawo	Rawo		-10.69153	161.97086	A	ADM2	SB		08	0818			934		540	Pacific/Guadalcanal	2025-10-18
+12041831	Weather Coast	Weather Coast		-10.66731	161.80192	A	ADM2	SB		08	0819			2354		443	Pacific/Guadalcanal	2025-10-18
+12041832	Star Harbour North	Star Harbour North		-10.71928	162.20147	A	ADM2	SB		08	0814			4106		76	Pacific/Guadalcanal	2025-10-18
+12041833	North East Santa Cruz	North East Santa Cruz		-10.68134	165.99	A	ADM2	SB		09	0911			2178		339	Pacific/Guadalcanal	2025-10-18
+12041834	Dovele	Dovele		-7.68822	156.63936	A	ADM2	SB		11	0209			2057		544	Pacific/Guadalcanal	2025-10-18
+12041835	Iringgila	Iringgila		-7.67653	156.54316	A	ADM2	SB		11	0210			3300		161	Pacific/Guadalcanal	2025-10-18
+12041836	Gizo	Gizo		-8.07497	156.78768	A	ADM2	SB		11	0211			9455		120	Pacific/Guadalcanal	2025-10-18
+12041837	South Kolombangara	South Kolombangara		-8.00463	157.1079	A	ADM2	SB		11	0212			4934		414	Pacific/Guadalcanal	2025-10-18
+12041838	Vonavona	Vonavona		-8.2183	157.15096	A	ADM2	SB		11	0213			6398		26	Pacific/Guadalcanal	2025-10-18
+12041839	Kusaghe	Kusaghe		-8.04409	157.43918	A	ADM2	SB		11	0214			2508		216	Pacific/Guadalcanal	2025-10-18
+12041840	Nusa Roviana	Nusa Roviana		-8.31924	157.28524	A	ADM2	SB		11	0216			2284		47	Pacific/Guadalcanal	2025-10-18
+12041841	Kia	Kia		-7.62079	158.57693	A	ADM2	SB		07	0301			1909		97	Pacific/Guadalcanal	2025-10-18
+12041842	Havulei	Havulei		-7.73701	158.80949	A	ADM2	SB		07	0302			1808		249	Pacific/Guadalcanal	2025-10-18
+12041843	Matangi	Matangi		-11.30502	159.81727	A	ADM2	SB		13	0507			0		51	Pacific/Guadalcanal	2019-05-02
+12041844	East Ghongau	East Ghongau		-11.30054	159.79501	A	ADM2	SB		13	0508			0		17	Pacific/Guadalcanal	2019-05-02
+12041845	Mareho	Mareho		-9.4639	161.28276	A	ADM2	SB		03	0724			2820		200	Pacific/Guadalcanal	2025-10-18
+12041846	Tai	Tai		-9.23517	161.04442	A	ADM2	SB		03	0725			5188		570	Pacific/Guadalcanal	2025-10-18
+12041847	Aiaisi	Aiaisi		-9.11637	161.12837	A	ADM2	SB		03	0719			4190		161	Pacific/Guadalcanal	2025-10-18
+12041848	Areare	Areare		-9.37715	161.26307	A	ADM2	SB		03	0720			4009		231	Pacific/Guadalcanal	2025-10-18
+12041849	Raroisuu	Raroisuu		-9.44949	161.42479	A	ADM2	SB		03	0721			6049		167	Pacific/Guadalcanal	2025-10-18
+12041850	Aba - Asimeuru	Aba - Asimeuru		-9.61051	161.53613	A	ADM2	SB		03	0722			5929		23	Pacific/Guadalcanal	2025-10-18
+12041851	Asimae	Asimae		-9.62686	161.4658	A	ADM2	SB		03	0723			4168		20	Pacific/Guadalcanal	2025-10-18
+12041852	Sikaiana	Sikaiana		-8.41117	162.94147	A	ADM2	SB		03	0733			359		-9999	Pacific/Guadalcanal	2025-10-18
+12041853	Santa Catalina	Santa Catalina		-10.89119	162.44619	A	ADM2	SB		08	0816			1015		25	Pacific/Guadalcanal	2025-10-18
+12041854	Haununu	Haununu		-10.50314	161.59455	A	ADM2	SB		08	0820			3237		170	Pacific/Guadalcanal	2025-10-18
+12041855	Faumamanu - Kwai	Faumamanu - Kwai		-8.81589	160.88547	A	ADM2	SB		03	0716			3700		537	Pacific/Guadalcanal	2025-10-18
+12041856	Nanggu-Lord Howe	Nanggu-Lord Howe		-10.75582	166.05137	A	ADM2	SB		09	0912			2144		227	Pacific/Guadalcanal	2025-10-18
+12041857	Duff Islands	Duff Islands		-9.87819	167.17786	A	ADM2	SB		09	0913			493		188	Pacific/Guadalcanal	2025-10-18
+12041858	Utupua	Utupua		-11.26233	166.54582	A	ADM2	SB		09	0914			1356		35	Pacific/Guadalcanal	2025-10-18
+12041859	Vanikoro	Vanikoro		-11.65555	166.86871	A	ADM2	SB		09	0915			1670		408	Pacific/Guadalcanal	2025-10-18
+12041860	West Ulawa	West Ulawa		-9.77791	161.96208	A	ADM2	SB		08	0803			1064		1	Pacific/Guadalcanal	2025-10-18
+12041861	Graciosa Bay	Graciosa Bay		-10.74119	165.86112	A	ADM2	SB		09	0909			1451		114	Pacific/Guadalcanal	2025-10-18
+12041862	Nevenema	Nevenema		-10.77153	165.77357	A	ADM2	SB		09	0907			1081		142	Pacific/Guadalcanal	2025-10-18
+12041863	Viviru	Viviru		-7.08575	156.89181	A	ADM2	SB		12	0104			1615		434	Pacific/Guadalcanal	2025-10-18
+12041864	Tetau Nangoto	Tetau Nangoto		-11.55733	160.06801	A	ADM2	SB		13	0505			0		10	Pacific/Guadalcanal	2019-05-02
+12041865	Babatana	Babatana		-6.98399	156.79477	A	ADM2	SB		12	0105			2031		176	Pacific/Guadalcanal	2025-10-18
+12041866	Sa'Aiho	Sa'Aiho		-11.28491	159.7667	A	ADM2	SB		13	0510			0		27	Pacific/Guadalcanal	2019-05-02
+12041867	Tepakaza	Tepakaza		-6.86894	156.66346	A	ADM2	SB		12	0106			2274		223	Pacific/Guadalcanal	2025-10-18
+12041868	Polo	Polo		-6.74982	156.6537	A	ADM2	SB		12	0109			2003		141	Pacific/Guadalcanal	2025-10-18
+12041869	Bangara	Bangara		-6.84684	156.7794	A	ADM2	SB		12	0110			1603		448	Pacific/Guadalcanal	2025-10-18
+12041870	Koviloko	Koviloko		-8.22132	159.63012	A	ADM2	SB		07	0307			1144		494	Pacific/Guadalcanal	2025-10-18
+12041871	Kerepangara	Kerepangara		-7.09675	157.07317	A	ADM2	SB		12	0113			1248		147	Pacific/Guadalcanal	2025-10-18
+12041872	North Savo	North Savo		-9.12231	159.80322	A	ADM2	SB		10	0412			1564		196	Pacific/Guadalcanal	2025-10-18
+12041873	Aimela	Aimela		-8.7535	160.75068	A	ADM2	SB		03	0702			8734		93	Pacific/Guadalcanal	2025-10-18
+12041874	North Ranongga	North Ranongga		-8.01246	156.5425	A	ADM2	SB		11	0204			552		153	Pacific/Guadalcanal	2025-10-18
+12041875	Hovukoilo	Hovukoilo		-8.10856	159.44962	A	ADM2	SB		07	0304			2462		211	Pacific/Guadalcanal	2025-10-18
+12041876	Vulolo	Vulolo		-9.61781	160.18297	A	ADM2	SB		06	0619			6265		641	Pacific/Guadalcanal	2025-10-18
+12041877	Buala	Buala		-8.1442	159.5608	A	ADM2	SB		07	0305			3369		212	Pacific/Guadalcanal	2025-10-18
+12041878	Auki	Auki		-8.76577	160.69419	A	ADM2	SB		03	0701			7020		13	Pacific/Guadalcanal	2025-10-18
+12041879	Kmaga	Kmaga		-8.28557	159.70336	A	ADM2	SB		07	0308			2218		121	Pacific/Guadalcanal	2025-10-18
+12041880	South Savo	South Savo		-9.13775	159.8208	A	ADM2	SB		10	0413			2150		371	Pacific/Guadalcanal	2025-10-18
+12041881	Nenumpo	Nenumpo		-10.30669	166.31625	A	ADM2	SB		09	0906			1079		21	Pacific/Guadalcanal	2025-10-18
+12041882	Luva Station	Luva Station		-10.73007	165.78969	A	ADM2	SB		09	0908			1953		46	Pacific/Guadalcanal	2025-10-18
+12041883	Kaloka	Kaloka		-8.31718	159.80226	A	ADM2	SB		07	0309			1238		226	Pacific/Guadalcanal	2025-10-18
+12041884	Polynesian Outer Islands	Polynesian Outer Islands		-10.08142	166.05028	A	ADM2	SB		09	0902			283		15	Pacific/Guadalcanal	2025-10-18
+12041885	Wainoni West	Wainoni West		-10.58147	162.06989	A	ADM2	SB		08	0812			3242		508	Pacific/Guadalcanal	2025-10-18
+12041886	Vatukulau	Vatukulau		-9.76498	160.10188	A	ADM2	SB		06	0607			2534		1274	Pacific/Guadalcanal	2025-10-18
+12041887	Tulagi	Tulagi		-9.10154	160.1466	A	ADM2	SB		10	0404			1481		-24	Pacific/Guadalcanal	2025-10-18
+12041888	Birao	Birao		-9.81168	160.74191	A	ADM2	SB		06	0612			4043		237	Pacific/Guadalcanal	2025-10-18
+12041889	West Te Nggano	West Te Nggano		-11.70814	160.38869	A	ADM2	SB		13	0502			0		31	Pacific/Guadalcanal	2019-05-02
+12041890	Arosi West	Arosi West		-10.25169	161.30493	A	ADM2	SB		08	0806			2425		31	Pacific/Guadalcanal	2025-10-18
+12041891	Arosi North	Arosi North		-10.24367	161.3929	A	ADM2	SB		08	0807			2820		155	Pacific/Guadalcanal	2025-10-18
+12041892	Arosi East	Arosi East		-10.28054	161.49127	A	ADM2	SB		08	0808			2746		230	Pacific/Guadalcanal	2025-10-18
+12041893	Santa Ana	Santa Ana		-10.83137	162.47004	A	ADM2	SB		08	0815			1939		60	Pacific/Guadalcanal	2025-10-18
+12041894	Bauro East	Bauro East		-10.56048	161.98071	A	ADM2	SB		08	0811			2418		483	Pacific/Guadalcanal	2025-10-18
+12041895	Manuopo	Manuopo		-10.28315	166.32957	A	ADM2	SB		09	0905			1112		25	Pacific/Guadalcanal	2025-10-18
+12041896	Wainoni East	Wainoni East		-10.59236	162.12676	A	ADM2	SB		08	0813			3254		454	Pacific/Guadalcanal	2025-10-18
+12041897	Nea-Noole	Nea-Noole		-10.82371	165.79602	A	ADM2	SB		09	0910			1837		180	Pacific/Guadalcanal	2025-10-18
+12041898	Tikopia	Tikopia		-12.29493	168.83312	A	ADM2	SB		09	0916			1060		1	Pacific/Guadalcanal	2025-10-18
+12041899	Mugihenua	Mugihenua		-11.52777	160.01529	A	ADM2	SB		13	0506			0		26	Pacific/Guadalcanal	2019-05-02
+12041900	Saghalu	Saghalu		-9.3276	159.72899	A	ADM2	SB		06	0602			11030		254	Pacific/Guadalcanal	2025-10-18
+12041901	Savulei	Savulei		-9.37747	159.6426	A	ADM2	SB		06	0603			4331		198	Pacific/Guadalcanal	2025-10-18
+12041902	Wanderer Bay	Wanderer Bay		-9.70761	159.78715	A	ADM2	SB		06	0605			4016		228	Pacific/Guadalcanal	2025-10-18
+12041903	Valasi	Valasi		-9.67687	160.54929	A	ADM2	SB		06	0613			2070		228	Pacific/Guadalcanal	2025-10-18
+12041904	Kolokarako	Kolokarako		-9.64119	160.40581	A	ADM2	SB		06	0614			2647		348	Pacific/Guadalcanal	2025-10-18
+12041905	Duidui	Duidui		-9.73564	159.95367	A	ADM2	SB		06	0606			5300		1129	Pacific/Guadalcanal	2025-10-18
+12041906	Lipe-Temua	Lipe-Temua		-10.27252	166.35281	A	ADM2	SB		09	0904			747		29	Pacific/Guadalcanal	2025-10-18
+12041907	Aola	Aola		-9.52456	160.43522	A	ADM2	SB		06	0616			6377		16	Pacific/Guadalcanal	2025-10-18
+12041908	Buma	Buma		-8.70015	160.74966	A	ADM2	SB		03	0703			8122		438	Pacific/Guadalcanal	2025-10-18
+12041909	Talise	Talise		-9.76406	160.21997	A	ADM2	SB		06	0608			2628		579	Pacific/Guadalcanal	2025-10-18
+12041910	Avuavu	Avuavu		-9.79364	160.39881	A	ADM2	SB		06	0609			2913		444	Pacific/Guadalcanal	2025-10-18
+12041911	Moli	Moli		-9.8703	160.49516	A	ADM2	SB		06	0610			4507		369	Pacific/Guadalcanal	2025-10-18
+12041912	Tetekanji	Tetekanji		-9.82895	160.60166	A	ADM2	SB		06	0611			1602		1155	Pacific/Guadalcanal	2025-10-18
+12041913	Longgu	Longgu		-9.6364	160.6214	A	ADM2	SB		06	0615			4597		33	Pacific/Guadalcanal	2025-10-18
+12041914	East Tasimboko	East Tasimboko		-9.48823	160.28597	A	ADM2	SB		06	0618			10088		30	Pacific/Guadalcanal	2025-10-18
+12041915	West Ghaobata	West Ghaobata		-9.46018	160.14425	A	ADM2	SB		06	0621			7453		17	Pacific/Guadalcanal	2025-10-18
+12041916	Fauabu	Fauabu		-8.63071	160.73814	A	ADM2	SB		03	0704			9926		342	Pacific/Guadalcanal	2025-10-18
+12041917	Foondo - Gwaiau	Foondo - Gwaiau		-8.39808	160.63275	A	ADM2	SB		03	0707			6588		652	Pacific/Guadalcanal	2025-10-18
+12041918	Kwarekwareo	Kwarekwareo		-9.12568	160.93516	A	ADM2	SB		03	0726			2785		362	Pacific/Guadalcanal	2025-10-18
+12041919	Malu'U	Malu'U		-8.35738	160.64595	A	ADM2	SB		03	0708			5672		21	Pacific/Guadalcanal	2025-10-18
+12041920	Mandalua - Folotana	Mandalua - Folotana		-8.46712	160.71085	A	ADM2	SB		03	0706			3940		492	Pacific/Guadalcanal	2025-10-18
+12041921	Matakwalao	Matakwalao		-8.39165	160.69442	A	ADM2	SB		03	0709			3563		152	Pacific/Guadalcanal	2025-10-18
+12041922	Neo	Neo		-10.67696	165.80968	A	ADM2	SB		09	0917			1701		58	Pacific/Guadalcanal	2025-10-18
+12041923	Weagu Silana Sina	Weagu Silana Sina		-8.93023	160.84064	A	ADM2	SB		03	0728			5819		388	Pacific/Guadalcanal	2025-10-18
+12041924	West Baegu - Fatale	West Baegu - Fatale		-8.5651	160.77389	A	ADM2	SB		03	0705			6220		159	Pacific/Guadalcanal	2025-10-18

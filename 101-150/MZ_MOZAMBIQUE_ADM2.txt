@@ -1,0 +1,164 @@
+﻿1027397	Circunscrição de Sanga	Circunscricao de Sanga		-12.1773	35.55983	A	ADM2	MZ		07	1027397			0		749	Africa/Maputo	2014-07-21
+1028315	Circunscrição da Quissanga	Circunscricao da Quissanga		-12.5727	40.32275	A	ADM2	MZ		01	1028315			0		46	Africa/Maputo	2014-07-21
+1028433	Concelho de Quelimane	Concelho de Quelimane		-17.8607	36.91544	A	ADM2	MZ		09	1028433			0		9	Africa/Maputo	2014-09-13
+1029247	Circunscrição de Palma	Circunscricao de Palma	Circunscricao de Palma,Circunscrição de Palma,District de Palma,Palma,Palma District,Tungue	-10.86432	40.31977	A	ADM2	MZ		01	1029247			0		114	Africa/Maputo	2023-07-26
+1033355	Distrito de Rapale	Distrito de Rapale	Angonia District,Angónia District,Concelho de Nampula,Distrito de Nampula,Distrito de Rapale,Nampula,Nampula-Rapale,Rapale	-15.12842	39.09403	A	ADM2	MZ		06	1033355			0		352	Africa/Maputo	2023-07-26
+1035018	Nacala-a-Velha	Nacala-a-Velha	Circunscricao de Nacala-a-Velha,Circunscrição de Nacala-a-Velha,Nacala,Nacala Velha,Nacala-a-Velha,Nacala-a-Velha District	-14.56239	40.48347	A	ADM2	MZ		06	1035018			0		122	Africa/Maputo	2019-04-28
+1035304	Circunscrição da Mutarara	Circunscricao da Mutarara	Circunscricao da Mutarara,Circunscrição da Mutarara,Mutaraba	-16.86781	34.77309	A	ADM2	MZ		08	1035304			0		74	Africa/Maputo	2014-07-21
+1035470	Circunscrição de Murrupula	Circunscricao de Murrupula		-15.40069	38.66117	A	ADM2	MZ		06	1035470			0		451	Africa/Maputo	2014-07-21
+1035732	Guro	Guro	Circunscricao de Mungari,Circunscrição de Mungári,Distrito de Guro,Guro	-16.95262	33.51865	A	ADM2	MZ		10	1035732			0		476	Africa/Maputo	2015-09-06
+1037018	Circunscrição de Mossurize	Circunscricao de Mossurize	Circunscricao de Mossurize,Circunscrição de Mossurize	-20.51262	32.94367	A	ADM2	MZ		10	1037018			0		459	Africa/Maputo	2014-07-21
+1037020	Mossuril	Mossuril	Mossuril District	-15.06176	40.51438	A	ADM2	MZ		06	1037020			0		64	Africa/Maputo	2019-04-28
+1037178	Concelho de Monapo	Concelho de Monapo		-14.7919	40.13534	A	ADM2	MZ		06	1037178			0		134	Africa/Maputo	2014-07-21
+1037222	Distrito de Moma	Distrito de Moma	Circunscricao de Moma,Circunscrição de Moma,Distrito de Moma,Moma	-16.31243	39.21253	A	ADM2	MZ		06	1037222			0		63	Africa/Maputo	2016-03-10
+1037282	Circunscrìção de Mogovolas	Circunscricao de Mogovolas		-15.7376	39.25971	A	ADM2	MZ		06	1037282			0		165	Africa/Maputo	2014-07-21
+1037286	Circunscrìção do Mogincual	Circunscricao do Mogincual	Circunscricao do Mogincual,Circunscrìção do Mogincual,Mongincual	-15.53917	40.08735	A	ADM2	MZ		06	1037286			0		70	Africa/Maputo	2014-07-21
+1037368	Mocimboa da Praia	Mocimboa da Praia	Mocimboa da Praia District,Mocímboa da Praia District	-11.43399	40.16517	A	ADM2	MZ		01	1037368			0		126	Africa/Maputo	2023-07-25
+1037394	Moatize	Moatize		-15.97317	34.00248	A	ADM2	MZ		08	1037394			0		419	Africa/Maputo	2014-07-21
+1038879	Memba	Memba	Memba District	-13.96591	40.39437	A	ADM2	MZ		06	1038879			0		132	Africa/Maputo	2023-07-26
+1039135	Mecula	Mecula	Mecula District	-11.95788	37.56548	A	ADM2	MZ		07	1039135			0		393	Africa/Maputo	2023-07-26
+1039148	Mecufi	Mecufi	Circunscricao de Mecufi,Circunscriçāo de Mecúfi,Lurio,Lúrio,Mecufi District,Mecúfi District	-13.2385	40.40332	A	ADM2	MZ		01	1039148			0		106	Africa/Maputo	2023-07-26
+1039205	Meconta	Meconta	Meconta District	-15.28191	39.64661	A	ADM2	MZ		06	1039205			0		221	Africa/Maputo	2023-07-26
+1039852	Concelho de Matola	Concelho de Matola		-25.83472	32.49516	A	ADM2	MZ		04	1039852			0		48	Africa/Maputo	2014-09-13
+1040396	Circunscrição de Marromeu	Circunscricao de Marromeu	Marromeu District	-18.42526	35.74098	A	ADM2	MZ		05	1040396			0		8	Africa/Maputo	2023-07-25
+1040587	Circunscrição de Marávia	Circunscricao de Maravia	Maravia District,Marávia District	-15.0931	32.06545	A	ADM2	MZ		08	1040587			0		962	Africa/Maputo	2023-07-25
+1040936	Mandlakaze	Mandlakaze	Distrito de Mandlakaze,Distrito de Mandlakazi,Distrito de Manjacaze,Distrito de Manjacaze-Dingane,Distrito de Muchopes,Inchope,Mandlakaze,Mandlakazi,Manjacaze,Manjacaze District,Manjacaze-Dingane	-24.59366	33.99219	A	ADM2	MZ		02	1040936			0		49	Africa/Maputo	2023-07-26
+1040948	Concelho de Manica	Concelho de Manica		-18.94857	32.89509	A	ADM2	MZ		10	1040948			0		758	Africa/Maputo	2014-03-21
+1041189	Circunscrição de Mandimba	Circunscricao de Mandimba	Mandimba District	-14.20394	35.9044	A	ADM2	MZ		07	1041189			0		668	Africa/Maputo	2023-07-25
+1041912	Circunscrição de Màgoé	Circunscricao de Magoe	Circunscricao de Magoe,Circunscrição de Màgoé	-15.90349	31.36636	A	ADM2	MZ		08	1041912			0		387	Africa/Maputo	2014-09-13
+1042455	Circunscrição de Macomia	Circunscricao de Macomia	Circunscricao de Macomia,Circunscrição de Macomia,Macomia District,Mucojo	-12.06315	40.19088	A	ADM2	MZ		01	1042455			0		126	Africa/Maputo	2023-07-25
+1042871	Circunscrição da Macanga	Circunscricao da Macanga	Macanga District	-14.80209	33.53494	A	ADM2	MZ		08	1042871			0		1000	Africa/Maputo	2023-07-26
+1045351	Circunscrição do Ile	Circunscricao do Ile		-16.18038	37.46609	A	ADM2	MZ		09	1045351			0		336	Africa/Maputo	2014-09-13
+1045383	Concelho do Ibo	Concelho do Ibo		-12.3399	40.60634	A	ADM2	MZ		01	1045383			0		9	Africa/Maputo	2019-04-27
+1045762	Circunscrição do Govuro	Circunscricao do Govuro	Circunscricao do Govuro,Circunscrição do Govuro,Covuro,Govuro District	-21.2777	34.74083	A	ADM2	MZ		03	1045762			0		67	Africa/Maputo	2023-07-26
+1045789	Gorongosa District	Gorongosa District	Circunscricao da Gorongosa,Circunscrição da Gorongosa,Distretto di Gorongosa,District de Gorongosa,Distrikt Gorongosa,Dystrykt Gorongosa,Gorongosa,Gorongosa District,Gorongosa Koan,Gorongosa Koān,Gorongosa distrikt,Gorongosan piiri,Gorongoza,districte de Gorongosa,ge long ge sa qu,gorongoza jun,nahyt kwrwnkwst,ناحية كورونكوسة,ゴロンゴーザ郡,戈龍戈薩區	-18.609	34.238	A	ADM2	MZ		05	1045789			0		310	Africa/Maputo	2013-12-16
+1046627	Circunscrição do Eráti	Circunscricao do Erati	Erati District,Eráti District	-13.91862	39.77306	A	ADM2	MZ		06	1046627			0		325	Africa/Maputo	2023-07-25
+1049181	Concelho do Chinde	Concelho do Chinde	Chinde District	-18.39491	36.32268	A	ADM2	MZ		09	1049181			0		4	Africa/Maputo	2023-07-25
+1049260	Concelho do Chimoio	Concelho do Chimoio		-19.12704	33.45627	A	ADM2	MZ		10	1049260			0		681	Africa/Maputo	2014-09-13
+1049858	Distrito de Chibuto	Distrito de Chibuto	Chibuto,Chibuto District,Concelho do Chibuto,Distrito de Chibuto	-24.28852	33.5983	A	ADM2	MZ		02	1049858			0		12	Africa/Maputo	2023-07-25
+1051852	Concelho do Búzi	Concelho do Buzi	Buzi District	-20.03925	34.37237	A	ADM2	MZ		05	1051852			0		70	Africa/Maputo	2023-07-25
+1052372	Concelho da Beira	Concelho da Beira		-19.71628	34.93301	A	ADM2	MZ		05	1052372			0		13	Africa/Maputo	2014-09-13
+1052446	Barue District	Barue District	Barue,Circunscricao do Barue,Circunscrição do Báruè	-17.81047	33.17267	A	ADM2	MZ		10	1052446			0		651	Africa/Maputo	2013-12-16
+1053142	Alto Molócuè	Alto Molocue	Alto Molocue District	-15.64932	37.66384	A	ADM2	MZ		09	1053142			278064		564	Africa/Maputo	2023-07-26
+1090080	Manhica	Manhica	Manhica District,Manhiça District	-25.34035	32.84234	A	ADM2	MZ		04	1090080			0		7	Africa/Maputo	2023-07-26
+7646374	Gondola District	Gondola District	Gondola	-19.15	33.66	A	ADM2	MZ		10	7646374			0		485	Africa/Maputo	2012-05-28
+7670754	Vilankulos District	Vilankulos District	Vilanculos,Vilanculos District,Vilankulo District	-22.268	35.14948	A	ADM2	MZ		03	7670754			0		40	Africa/Maputo	2015-03-12
+7670756	Matutiune District	Matutiune District		-26.43418	32.5882	A	ADM2	MZ		04	7670756			0		42	Africa/Maputo	2015-03-12
+7670758	Sussundenga District	Sussundenga District		-19.69082	33.27154	A	ADM2	MZ		10	7670758			0		407	Africa/Maputo	2015-03-12
+7670759	Chicualacuala	Chicualacuala	Chicualacuala District	-22.76516	32.10983	A	ADM2	MZ		02	7670759			0		237	Africa/Maputo	2023-07-25
+7670767	Massingir	Massingir	Massingir District	-23.8236	32.05218	A	ADM2	MZ		02	7670767			0		158	Africa/Maputo	2023-07-25
+7670768	Mabote	Mabote	Mabote District	-22.02266	33.81786	A	ADM2	MZ		03	7670768			0		195	Africa/Maputo	2023-07-25
+7670771	Massangena	Massangena	Massangena District	-21.742	32.65664	A	ADM2	MZ		02	7670771			0		207	Africa/Maputo	2023-07-25
+7670772	Chigubo	Chigubo	Chigubo District	-22.94503	33.29711	A	ADM2	MZ		02	7670772			0		72	Africa/Maputo	2023-07-25
+7670774	Mabalane	Mabalane	Mabalane District	-23.49586	32.72707	A	ADM2	MZ		02	7670774			0		115	Africa/Maputo	2023-07-25
+7701205	Aeroporto	Aeroporto		-25.90857	32.58043	A	ADM2	MZ		04	7701205			0		42	Africa/Maputo	2020-09-12
+7732033	Cuamba	Cuamba	Cuamba District	-14.73292	36.54218	A	ADM2	MZ		07	7732033			0		609	Africa/Maputo	2023-07-25
+7732034	Malema	Malema	Malema District	-14.79377	37.40922	A	ADM2	MZ		06	7732034			0		615	Africa/Maputo	2023-07-26
+7732035	Ribaue	Ribaue	Ribaue District,Ribáuè District	-15.01897	38.21248	A	ADM2	MZ		06	7732035			0		600	Africa/Maputo	2023-07-26
+7732036	Nampula	Nampula	Nampula District	-15.1307	39.13302	A	ADM2	MZ		06	7732036			0		416	Africa/Maputo	2023-07-26
+7732037	Mecuburi	Mecuburi	Mecuburi District,Mecubúri District	-14.49321	38.92905	A	ADM2	MZ		06	7732037			0		463	Africa/Maputo	2023-07-26
+7732038	Cidade de Nampula	Cidade de Nampula		-15.09974	39.26751	A	ADM2	MZ		06	7732038			0		400	Africa/Maputo	2011-03-24
+7873976	Magude District	Magude District	Distretto di Magude,District de Magude,Distrikt Magude,Magude,Magude District,Magude Koan,Magude Koān,districte de Magude,ma gu de qu,magude jun,magudis raioni,მაგუდის რაიონი,マグデ郡,馬古德區	-25.02389	32.6515	A	ADM2	MZ		04	7873976			0		45	Africa/Maputo	2011-06-28
+7873980	Moamba District	Moamba District	Distretto di Moamba,District de Moamba,Distrikt Moamba,Moamba,Moamba District,Moamba Koan,Moamba Koān,districte de Moamba,mo an ba qu,moambis raioni,moanba jun,მოამბის რაიონი,モアンバ郡,莫安巴區	-25.60934	32.24321	A	ADM2	MZ		04	7873980			0		109	Africa/Maputo	2015-03-12
+7873983	Boane District	Boane District	Boane,Boane District,Boane Koan,Boane Koān,Distretto di Boane,District de Boane,Distrikt Boane,bo a nei qu,boane jun,boanis raioni,districte de Boane,ბოანის რაიონი,ボアネ郡,博阿內區	-26.029	32.389	A	ADM2	MZ		04	7873983			0		15	Africa/Maputo	2015-03-12
+7873984	Nhamatanda District	Nhamatanda District	Distretto di Nhamatanda,District de Nhamatanda,Distrikt Nhamatanda,Nhamatanda,Nhamatanda District,Nhamatanda Koan,Nhamatanda Koān,Nhamatandan piiri,districte de Nhamatanda,en ya ma tan da qu,nyamatanda jun,ニャマタンダ郡,恩雅馬坦達區	-19.349	34.268	A	ADM2	MZ		05	7873984			0		35	Africa/Maputo	2012-05-28
+7873985	Chibabava District	Chibabava District	Chibabava,Chibabava District,Chibabava Koan,Chibabava Koān,Chibabava distrikt,Distretto di Chibabava,District de Chibabava,Distrikt Chibabava,districte de Chibabava,nahyt shybabafa,shibabavua jun,xi ba ba wa qu,ناحية شيبابافا,シババーヴァ郡,希巴巴瓦區	-20.292	33.531	A	ADM2	MZ		05	7873985			0		151	Africa/Maputo	2015-03-11
+7873986	Dondo District	Dondo District	Distretto di Dondo,District de Dondo,Distrikt Dondo,Dondo,Dondo District,Dondo Koan,Dondo Koān,Dondon piiri,districte de Dondo,dondo jun,dong duo qu,ドンド郡,棟多區	-19.522	34.799	A	ADM2	MZ		05	7873986			0		51	Africa/Maputo	2012-05-28
+7873988	Nicodala District	Nicodala District	Nicoadala	-17.603	36.81399	A	ADM2	MZ		09	7873988			0		20	Africa/Maputo	2015-03-12
+7873991	Gurue District	Gurue District		-15.46358	36.98167	A	ADM2	MZ		09	7873991			0		734	Africa/Maputo	2011-06-28
+7873993	Morrumbala District	Morrumbala District	Distretto di Morrumbala,District de Morrumbala,Distrikt Morrumbala,Morrumbala,Morrumbala District,Morrumbala Koan,Morrumbala Koān,Morrumbalan piiri,districte de Morrumbala,mo lun ba la qu,morunbara jun,モルンバラ郡,莫倫巴拉區	-17.329	35.591	A	ADM2	MZ		09	7873993			0		420	Africa/Maputo	2015-03-12
+7874045	Guro District	Guro District	Guro	-16.964	33.569	A	ADM2	MZ		10	7874045			0		526	Africa/Maputo	2012-05-28
+7874046	Caia District	Caia District	Caia,Caia District,Caia Koan,Caia Koān,Distretto di Caia,District de Caia,Distrikt Caia,districte de Caia,ka ya qu,kaia jun,rajon Kajja,район Кайя,カイア郡,卡亞區	-17.769	35.058	A	ADM2	MZ		05	7874046			0		52	Africa/Maputo	2012-05-28
+7874104	Chokwe District	Chokwe District		-24.52248	33.00457	A	ADM2	MZ		02	7874104			0		41	Africa/Maputo	2015-03-12
+7874106	Tsangano District	Tsangano District	Distretto di Tsangano,District de Tsangano,Distrikt Tsangano,Tsangano,Tsangano District,Tsangano Koan,Tsangano Koān,districte de Tsangano,sang jia nuo qu,tsuangano jun,ツァンガノ郡,桑加諾區	-15.20012	34.32685	A	ADM2	MZ		08	7874106			0		1220	Africa/Maputo	2015-03-12
+7874115	Lichinga District	Lichinga District	Distretto di Lichinga,Distrikt Lichinga,Lichinga,Lichinga District,Lichinga Koan,Lichinga Koān,district de Lichinga,li xin jia qu,rishinga jun,リシンガ郡,利辛加區	-13.37184	35.14302	A	ADM2	MZ		07	7874115			0		998	Africa/Maputo	2019-04-27
+7874117	Majune District	Majune District	Distretto di Majune,District de Majune,Distrikt Majune,Majune,Majune District,Majune Koan,Majune Koān,districte de Majune,ma wu nei qu,majune jun,マジュネ郡,馬烏內區	-13.316	36.472	A	ADM2	MZ		07	7874117			0		572	Africa/Maputo	2015-03-12
+7874119	Balama District	Balama District	Balama,Balama District,Balama Koan,Balama Koān,Distretto di Balama,Districte de Balama,Distrikt Balama,Synoikia Balama,Wilaya ya Balama,ba la ma qu,balama jilla,balamash raioni,balamis raioni,barama jun,district de Balama,Συνοικία Μπαλάμα,ബാലാമ ജില്ല,ბალამაშ რაიონი,ბალამის რაიონი,バラマ郡,巴拉馬區	-13.469	38.407	A	ADM2	MZ		01	7874119			0		573	Africa/Maputo	2012-05-18
+7874406	Angoche District	Angoche District	Angoche,Angoche District,Angoche Koan,Angoche Koān,Angochen piiri,Distretto di Angoche,District d'Angoche,Distrikt Angoche,Distrito de Angoche,an ge xie qu,angoshe jun,districte d'Angoche,アンゴシェ郡,安戈謝區	-16.23272	39.91106	A	ADM2	MZ		06	7874406			0		4	Africa/Maputo	2015-03-12
+7874408	Lalaua District	Lalaua District	Distretto di Lalaua,District de Lalaua,Distrikt Lalaua,Lalaua,Lalaua District,Lalaua Koan,Lalaua Koān,districte de Lalaua,la la wei qu,lalauis raioni,raraua jun,ლალაუის რაიონი,ララウア郡,拉拉韋區	-14.38646	38.34915	A	ADM2	MZ		06	7874408			0		379	Africa/Maputo	2011-07-06
+7874410	Muecate District	Muecate District	Distretto di Muecate,District de Muecate,Distrikt Muecate,Distrito de Muecate,Muecate,Muecate District,Muecate Koan,Muecate Koān,districte de Muecate,mu ai ka tai qu,muekate jun,მუეკატის რაიონი,ムエカテ郡,穆埃卡泰區	-14.8864	39.62734	A	ADM2	MZ		06	7874410			0		260	Africa/Maputo	2011-07-06
+7874411	Nacaroa District	Nacaroa District		-14.36917	39.92466	A	ADM2	MZ		06	7874411			0		309	Africa/Maputo	2011-07-06
+7874414	Lago District	Lago District		-12.28278	34.89984	A	ADM2	MZ		07	7874414			0		736	Africa/Maputo	2019-04-27
+7874416	Maúa District	Maua District		-13.87208	37.16606	A	ADM2	MZ		07	7874416			0		584	Africa/Maputo	2015-03-12
+7874417	Mecanhelas District	Mecanhelas District	Distretto di Mecanhelas,District de Mecenhelas,Distrikt Mecanhelas,Mecanhelas,Mecanhelas District,Mecanhelas Koan,Mecanhelas Koān,districte de Mecanhelas,mei kang ye la qu,mekanyerasu jun,メカニェラス郡,梅康耶拉區	-15.19889	35.88487	A	ADM2	MZ		07	7874417			0		638	Africa/Maputo	2015-03-12
+7874418	Metarica District	Metarica District	Distretto di Metarica,District de Metarica,Distrikt Metarica,Metarica,Metarica District,Metarica Koan,Metarica Koān,districte de Metarica,mei ta li ka qu,metarika jun,メタリカ郡,梅塔里卡區	-14.32926	36.80351	A	ADM2	MZ		07	7874418			0		616	Africa/Maputo	2015-03-12
+7874419	Muembe District	Muembe District	Distretto di Muembe,District de Muembe,Distrikt Muembe,Muembe,Muembe District,Muembe Koan,Muembe Koān,districte de Muembe,mu an bei qu,muenbe jun,ムエンベ郡,穆安貝區	-13.08416	35.64892	A	ADM2	MZ		07	7874419			0		1079	Africa/Maputo	2015-03-12
+7874420	Ngauma District	Ngauma District		-13.90632	35.29967	A	ADM2	MZ		07	7874420			0		1311	Africa/Maputo	2015-03-12
+7874421	Nipepe District	Nipepe District	Distretto di Nipepe,District de Nipepe,Distrikt Nipepe,Nipepe,Nipepe District,Nipepe Koan,Nipepe Koān,districte de Nipepe,ni pei pei qu,nipepe jun,ニペペ郡,尼佩佩區	-14.02135	37.86232	A	ADM2	MZ		07	7874421			0		535	Africa/Maputo	2015-03-12
+7874471	Chemba District	Chemba District	Chemba,Chemba District,Chemba Koan,Chemba Koān,Distretto di Chemba,District de Chemba,Distrikt Chemba,districte de Chemba,shang ba qu,shenba jun,シェンバ郡,尚巴區	-17.16474	34.88777	A	ADM2	MZ		05	7874471			0		64	Africa/Maputo	2015-03-11
+7874472	Muanza District	Muanza District	Distretto di Muanza,District de Muanza,Distrikt Muanza,Muanza,Muanza District,Muanza Koan,Muanza Koān,Muanzan piiri,districte de Muanza,mu an zha qu,muanza jun,ムアンザ郡,姆安扎區	-18.89955	34.79679	A	ADM2	MZ		05	7874472			0		246	Africa/Maputo	2015-03-11
+7874473	Maringué District	Maringue District		-17.96355	34.39219	A	ADM2	MZ		05	7874473			0		207	Africa/Maputo	2015-03-11
+7874474	Machanga District	Machanga District	Distretto di Machanga,District de Machanga,Distrikt Machanga,Machanga,Machanga District,Machanga Koan,Machanga Koān,Machanga tumani,districte de Machanga,ma shang jia qu,mashanga jun,マシャンガ郡,馬尚加區	-20.96929	34.99738	A	ADM2	MZ		05	7874474			0		5	Africa/Maputo	2011-07-06
+7874614	Cheringoma District	Cheringoma District	Cheringoma,Cheringoma District,Cheringoma Koan,Cheringoma Koān,Cheringoman piiri,Distretto di Cheringoma,Distrikt Cheringoma,district de Cheringoma,districte de Cheringoma,sheringoma jun,xie lin ge ma qu,シェリンゴマ郡,謝林戈馬區	-18.53268	35.3183	A	ADM2	MZ		05	7874614			0		166	Africa/Maputo	2015-03-11
+7874620	Machaze District	Machaze District		-20.8021	33.41389	A	ADM2	MZ		10	7874620			0		258	Africa/Maputo	2015-03-12
+7874622	Macossa District	Macossa District		-17.89152	33.93694	A	ADM2	MZ		10	7874622			0		490	Africa/Maputo	2015-03-12
+7874624	Tambara District	Tambara District		-16.72359	34.25571	A	ADM2	MZ		10	7874624			0		97	Africa/Maputo	2015-03-12
+7874708	Gilé District	Gile District		-16.14411	38.36752	A	ADM2	MZ		09	7874708			0		201	Africa/Maputo	2015-03-12
+7874710	Lugela District	Lugela District		-16.41699	36.72558	A	ADM2	MZ		09	7874710			0		297	Africa/Maputo	2011-07-08
+7874711	Maganja da Costa District	Maganja da Costa District	Distretto di Maganja da Costa,District de Maganja da Costa,Distrikt Maganja da Costa,MJS,Maganja da Costa,Maganja da Costa District,Maganja da Costa Koan,Maganja da Costa Koān,Maganja da Costan piiri,bin hai ma rang ya qu,districte de Maganja da Costa,マガンジャ・ダ・コスタ郡,濱海馬讓雅區	-17.30729	37.50535	A	ADM2	MZ		09	7874711			0		56	Africa/Maputo	2017-08-30
+7874712	Milange District	Milange District	Distretto di Milange,District de Milange,Distrikt Milange,Milange,Milange District,Milange Koan,Milange Koān,Milangen piiri,districte de Milange,mi lan re qu,miranje jun,ミランジェ郡,米蘭熱區	-16.09992	35.77578	A	ADM2	MZ		09	7874712			0		695	Africa/Maputo	2011-07-08
+7874724	Namarroi District	Namarroi District		-15.95275	36.87063	A	ADM2	MZ		09	7874724			0		585	Africa/Maputo	2015-03-12
+7874726	Pebane District	Pebane District	Distretto di Pebane,District de Pebane,Distrikt Pebane,Pebane,Pebane District,Pebane Koan,Pebane Koān,Pebanen piiri,districte de Pebane,pebane jun,pei ba nei qu,ペバネ郡,佩巴內區	-17.26378	38.13698	A	ADM2	MZ		09	7874726			0		31	Africa/Maputo	2015-03-12
+7880951	Mocuba District	Mocuba District	Distretto di Mocuba,District de Mocuba,Distrikt Mocuba,Mocuba,Mocuba District,Mocuba Koan,Mocuba Koān,Mocuban piiri,districte de Mocuba,mo ku ba qu,mokuba de qu,モクバ地区,莫庫巴區	-16.83683	36.9871	A	ADM2	MZ		09	7880951			0		145	Africa/Maputo	2011-07-11
+7905000	Changara District	Changara District		-16.21651	33.17113	A	ADM2	MZ		08	7905000			0		353	Africa/Maputo	2015-03-12
+7905199	Chifunde District	Chifunde District	Chifunde,Chifunde District,Chifunde Koan,Chifunde Koān,Distretto di Chifunde,District de Chifunde,Distrikt Chifunde,chifunde jun,districte de Chifunde,xi fang dai qu,チフンデ郡,希芳代區	-14.81794	32.83331	A	ADM2	MZ		08	7905199			0		459	Africa/Maputo	2015-03-12
+7905529	Chiuta District	Chiuta District	Chiuta,Chiuta District,Chiuta Koan,Chiuta Koān,Distretto di Chiuta,District de Chiuta,Distrikt Chiuta,chiuta jun,districte de Chiuta,xi wu ta qu,チウタ郡,希烏塔區	-15.564	33.302	A	ADM2	MZ		08	7905529			0		867	Africa/Maputo	2011-07-11
+7909704	Inhassunge District	Inhassunge District	Distretto di Inhassunge,Distrikt Inhassunge,Inhassunge,Inhassunge District,Inhassunge Koan,Inhassunge Koān,district d'Inhassunge,districte d'Inhassunge,inyassunje jun,yi ni ya song re qu,イニャッスンジェ郡,伊尼亞松熱區	-18.03306	36.82363	A	ADM2	MZ		09	7909704			0		7	Africa/Maputo	2015-03-12
+7909714	Zavala District	Zavala District	Distretto di Zavala,District de Zavala,Distrikt Zavala,Zavala,Zavala District,Zavala Koan,Zavala Koān,districte de Zavala,zabara jun,zavalis raioni,zha ba la qu,ზავალის რაიონი,ザバラ郡,扎巴拉區	-24.67289	34.6926	A	ADM2	MZ		03	7909714			0		63	Africa/Maputo	2015-03-11
+7909715	Massinga District	Massinga District	Distretto di Massinga,District de Massinga,Distrikt Massinga,Distrito de Massinga,Massinga,Massinga District,Massinga Koan,Massinga Koān,ma xin jia qu,mashinga jun,masingis raioni,მასინგის რაიონი,マシンガ郡,馬辛加區	-23.03229	35.26166	A	ADM2	MZ		03	7909715			0		101	Africa/Maputo	2015-03-11
+7909780	Funhalouro District	Funhalouro District	Distretto di Funhalouro,District de Funhalouro,Districte de Funhalouro,Distrikt Funhalouro,Funhalouro,Funhalouro District,Funhalouro Koan,Funhalouro Koān,fang a lu luo qu,funyarouro jun,punialourus raioni,ფუნიალოურუს რაიონი,フニャロウロ郡,芳阿盧羅區	-23.08731	34.3915	A	ADM2	MZ		03	7909780			0		126	Africa/Maputo	2015-03-11
+7909781	Inhassoro District	Inhassoro District	Distretto di Inhassoro,District de Inhassoro,Distrikt Inhassoro,Inhassoro,Inhassoro District,Inhassoro Koan,Inhassoro Koān,districte d'Inhassoro,iniasorus raioni,inyasoro jun,yi ni ya suo luo qu,ინიასორუს რაიონი,イニャソロ郡,伊尼雅索羅區	-21.53652	35.20105	A	ADM2	MZ		03	7909781			0		26	Africa/Maputo	2013-06-19
+7909783	Inharrime District	Inharrime District	Distretto di Inharrime,District de Inharrime,Distrikt Inharrime,Inharrime,Inharrime District,Inharrime Koan,Inharrime Koān,districte d'Inharrime,iniarimis raioni,inyarime jun,yi ni ya li mei qu,ინიარიმის რაიონი,イニャリメ郡,伊尼雅利梅區	-24.46955	35.03957	A	ADM2	MZ		03	7909783			0		48	Africa/Maputo	2011-07-13
+7909784	Jangamo District	Jangamo District	Distretto di Jangamo,District de Jangamo,Distrikt Jangamo,Jangamo,Jangamo District,Jangamo Koan,Jangamo Koān,districte de Jangamo,jangamo jun,rang jia mo qu,zhangamus raioni,ჟანგამუს რაიონი,ジャンガモ郡,讓加莫區	-24.11377	35.31971	A	ADM2	MZ		03	7909784			0		53	Africa/Maputo	2015-03-11
+7909785	Homoine District	Homoine District	Distretto di Homoine,District de Homoine,Districte de Homoine,Districte de Homoíne,Distrikt Homoine,Distrikt Homoíne,Homoine,Homoine District,Homoine Koan,Homoine Koān,Homoíne,homoine jun,omoinis raioni,yue mo yi nei qu,הומואין,ომოინის რაიონი,ホモイネ郡,約莫伊內區	-23.95184	35.19396	A	ADM2	MZ		03	7909785			0		40	Africa/Maputo	2015-03-11
+7909786	Morrumbene District	Morrumbene District	Distretto di Morrumbene,District de Morrumbene,Distrikt Morrumbene,Morrumbene,Morrumbene District,Morrumbene Koan,Morrumbene Koān,districte de Morrumbene,mo lin bei nei,moranben jun,morumbinis raioni,მორუმბინის რაიონი,モランベン郡,莫林貝內	-23.61747	35.32356	A	ADM2	MZ		03	7909786			0		32	Africa/Maputo	2015-03-11
+7909828	Cahora Bassa District	Cahora Bassa District		-15.70766	32.67334	A	ADM2	MZ		08	7909828			0		377	Africa/Maputo	2015-03-12
+7909845	Mueda District	Mueda District	Distretto di Mueda,Districte de Mueda,Distrikt Mueda,Mueda,Mueda District,Mueda Koan,Mueda Koān,Muedan piiri,Wilaya ya Mueda,district de Mueda,mu ai da qu,mueda jun,muedash raioni,muedis raioni,Муеда,מחוז מואדה,მუედაშ რაიონი,მუედის რაიონი,ムエダ郡,穆埃達區	-11.66237	39.5534	A	ADM2	MZ		01	7909845			0		847	Africa/Maputo	2011-07-14
+7909876	Ancuabe District	Ancuabe District	Ancuabe,Ancuabe District,Ancuabe Koan,Ancuabe Koān,Distretto di Ancuabe,District d'Ancuabe,Districte d'Ancuabe,Distrikt Ancuabe,Synoikia An'kouampe,Wilaya ya Ancuabe,an kua bei qu,ankuabe jun,bkhsh ankwab,Συνοικία Ανκουάμπε,بخش انکواب,അൻകുവാബെ ജില്ല,ანკუაბის რაიონი,ანკუაბიშ რაიონი,アンクアベ郡,安夸貝區	-12.98925	39.89817	A	ADM2	MZ		01	7909876			0		310	Africa/Maputo	2011-07-15
+7911292	Namuno District	Namuno District	Distretto di Namuno,District de Namuno,Districte de Namuno,Distrikt Namuno,Namuno,Namuno District,Namuno Koan,Namuno Koān,Wilaya ya Namuno,na mu nuo qu,namuno jun,namunus raioni,namunush raioni,ნამუნუს რაიონი,ნამუნუშ რაიონი,ナムノ郡,納穆諾區	-13.621	38.819	A	ADM2	MZ		01	7911292			0		483	Africa/Maputo	2015-03-11
+8299276	Marrupa District	Marrupa District	Distretto di Marrupa,District de Marrupa,Distrikt Marrupa,Marrupa,Marrupa District,Marrupa Koan,Marrupa Koān,Marrupan piiri,districte de Marrupa,ma lu pa qu,marupa jun,マルパ郡,馬魯帕區	-13.016	37.543	A	ADM2	MZ		07	8299276			0		619	Africa/Maputo	2012-05-18
+8299277	Montepuez District	Montepuez District	Distretto di Montepuez,District de Montepuez,Districte de Montepuez,Distrikt Montepuez,Montepuez,Montepuez District,Montepuez Koan,Montepuez Koān,Montepuezin piiri,Wilaya ya Montepuez,meng te pu ai zi qu,montepuesu jun,მონტეპუეზის რაიონი,მონტეპუეზიშ რაიონი,モンテプエス郡,蒙特普埃茲區	-12.537	38.766	A	ADM2	MZ		01	8299277			0		384	Africa/Maputo	2012-05-18
+8301113	Namaacha District	Namaacha District	Distretto di Namaacha,District de Namaacha,Distrikt Namaacha,Namaacha,Namaacha District,Namaacha Koan,Namaacha Koān,districte de Namaacha,na ma sha qu,namaashis raioni,namacha jun,ნამააშის რაიონი,ナマチャ郡,納馬沙區	-26.109	32.18	A	ADM2	MZ		04	8301113			0		68	Africa/Maputo	2012-06-06
+8693192	Marracuene District	Marracuene District	Distretto di Marracuene,District de Marracuene,Distrikt Marracuene,Marracuene,Marracuene District,Marracuene Koan,Marracuene Koān,districte de Marracuene,ma la kua nei qu,marakuene jun,მარაკუენის რაიონი,マラクエネ郡,馬拉夸內區	-25.73938	32.67436	A	ADM2	MZ		04	8693192			0		33	Africa/Maputo	2015-03-12
+8714615	Namacurra District	Namacurra District	Distretto di Namacurra,District de Namacurra,Distrikt Namacurra,Namacurra,Namacurra District,Namacurra Koan,Namacurra Koān,Namacurran piiri,districte de Namacurra,na ma ku la qu,namakura jun,perifereia Namakoura,περιφέρεια Ναμακούρα,ナマクラ郡,納馬庫拉區	-17.49137	37.02607	A	ADM2	MZ		09	8714615			0		18	Africa/Maputo	2015-03-12
+9072697	Nacala-Porto	Nacala-Porto		-14.54278	40.67278	A	ADM2	MZ		06	9072697			0		22	Africa/Maputo	2019-04-28
+9072735	Bilene Macia District	Bilene Macia District	Bilene,Bilene Macia,Bilene Macia District,Bilene Macia Koan,Bilene Macia Koān,Distretto di Bilene Macia,District de Bilene Macia,Districte de Bilene Macia,Distrikt Bilene-Macia,bi lun nei ma xi ya qu,bileni-masiis raioni,birenmashia jun,ბილენი-მასიის რაიონი,ビレンマシア郡,比倫內馬希亞區	-25.01612	33.16889	A	ADM2	MZ		02	9072735			0		74	Africa/Maputo	2015-03-12
+9252721	Mavago	Mavago		-12.23525	36.40638	A	ADM2	MZ		07	9252721			0		676	Africa/Maputo	2014-07-21
+9252722	Maxixe	Maxixe		-23.88167	35.30948	A	ADM2	MZ		03	9252722			0		138	Africa/Maputo	2014-07-21
+9252727	Meluco	Meluco	Meluco District	-12.46532	39.62391	A	ADM2	MZ		01	9252727			0		361	Africa/Maputo	2023-07-25
+9252728	Guija	Guija	Guija District,Guijá District	-24.1672	33.1214	A	ADM2	MZ		02	9252728			0		48	Africa/Maputo	2023-07-25
+9252729	Chiure	Chiure	Chiure District,Chiúre District	-13.46665	39.70317	A	ADM2	MZ		01	9252729			0		284	Africa/Maputo	2023-07-25
+9252730	Ilha de Mocambique	Ilha de Mocambique	Ile de Mozambique,Ilha de Mocambique,Ilha de Moçambique,Island of Mozambique,Île de Mozambique	-15.03532	40.73236	A	ADM2	MZ		06	9252730			0		12	Africa/Maputo	2019-06-06
+9252731	Cidade de Tete	Cidade de Tete		-16.13858	33.56715	A	ADM2	MZ		08	9252731			0		126	Africa/Maputo	2014-07-21
+9252732	Luenha	Luenha		-16.86756	33.11862	A	ADM2	MZ		08	9252732			0		445	Africa/Maputo	2014-07-21
+9252733	Cidade de Inhambane	Cidade de Inhambane		-23.88656	35.46795	A	ADM2	MZ		03	9252733			0		14	Africa/Maputo	2014-07-21
+9252735	Muidumbe	Muidumbe	Muidumbe District	-11.83378	39.83689	A	ADM2	MZ		01	9252735			0		401	Africa/Maputo	2023-07-25
+9252736	Nangade	Nangade	Nangade District	-11.15739	39.77548	A	ADM2	MZ		01	9252736			0		188	Africa/Maputo	2023-07-25
+9252738	Panda	Panda	Panda District	-24.01451	34.40154	A	ADM2	MZ		03	9252738			0		46	Africa/Maputo	2023-07-25
+9252739	Zumbu	Zumbu		-15.22929	30.93412	A	ADM2	MZ		08	9252739			0		736	Africa/Maputo	2015-03-12
+9408663	Xai-Xai District	Xai-Xai District	Distretto di Xai-Xai,District de Xai-Xai,Districte de Xai-Xai,Distrik Xai-Xai,Distrikt Xai-Xai,Xai-Xai,Xai-Xai District,Xai-Xai Koan,Xai-Xai Koān,sai sai qu,shai-shais raioni,shaishai jun,შაი-შაის რაიონი,シャイシャイ郡,賽賽區	-25.02526	33.74983	A	ADM2	MZ		02	9408663			0		35	Africa/Maputo	2019-04-27
+10651614	Cidade de Lichinga	Cidade de Lichinga	Cidade de Lichinga,Distrito de Cidade de Lichinga	-13.29426	35.2479	A	ADM2	MZ		07	10651614			0		1344	Africa/Maputo	2015-09-08
+10668849	Cidade de Xai-Xai	Cidade de Xai-Xai	Cidade de Xai-Xai,Distrito de Cidade de Xai-Xai	-25.05217	33.65565	A	ADM2	MZ		02	10668849			0		31	Africa/Maputo	2015-09-08
+10683815	KaMubukwana	KaMubukwana	Distrito Municipal 5,Distrito Municipal KaMubukwana,Distrito Urbano KaMubukwana,Distrito de Ka Mabukwana,Ka Mabukwana,KaMubukwana	-25.8868	32.57261	A	ADM2	MZ		11	10683815			0		37	Africa/Maputo	2020-08-10
+10685827	KaMavota	KaMavota	Distrito Municipal 4,Distrito Municipal KaMavota,Distrito Urbano KaMavota,Distrito de Ka Mavota,Ka Mavota,KaMavota	-25.88719	32.63601	A	ADM2	MZ		11	10685827			0		7	Africa/Maputo	2020-08-09
+10685828	Nhlamankulo	Nhlamankulo	Distrito Municipal 2,Distrito Municipal Nlhamankulu,Distrito Urbano Nhlamankulo,Distrito de Ka Lhamankulu,Ka Lhamankulu,Nhlamankulo,Nhlamankulu,Nlhamankulu	-25.94516	32.5572	A	ADM2	MZ		11	10685828			0		35	Africa/Maputo	2019-04-20
+10685829	KaMaxakeni	KaMaxakeni	Distrito Municipal 3,Distrito Municipal KaMaxaquene,Distrito Urbano KaMaxakeni,Distrito de Ka Maxakeni,Ka Maxakeni,KaMaxakeni,KaMaxaquene,KaMaxaqueni	-25.93797	32.59732	A	ADM2	MZ		11	10685829			0		53	Africa/Maputo	2019-04-20
+10685830	KaMpfumo	KaMpfumo	Distrito Municipal 1,Distrito Municipal KaMpfumo,Distrito Urbano KaMpfumo,Distrito de Ka Mpfumu,Ka Mpfumu,KaMpfumo,KaMpfumu	-25.9654	32.58295	A	ADM2	MZ		11	10685830			0		70	Africa/Maputo	2020-08-24
+10685831	KaTembe	KaTembe	Catembe,Distrito Municipal KaTembe,Distrito Urbano KaTembe,Distrito de Ka Tembe,Ka Tembe,KaTembe	-26.02985	32.53204	A	ADM2	MZ		11	10685831			0		33	Africa/Maputo	2020-08-11
+10685832	KaNyaka	KaNyaka	Distrito Municipal KaNyaka,Distrito Urbano KaNyaka,Distrito de Ka Nyaka,Ka Nyaka,KaNyaka	-26.01731	32.94305	A	ADM2	MZ		11	10685832			0		26	Africa/Maputo	2015-09-08
+10701340	Distrito de Vanduzi	Distrito de Vanduzi	Distrito de Vanduzi,Vanduzi,Vanduzi District,Vandúzi	-18.83573	33.26348	A	ADM2	MZ		10	10701340			0		739	Africa/Maputo	2023-07-26
+10701341	Distrito de Macate	Distrito de Macate	Distrito de Macate,Macate	-19.38915	33.56895	A	ADM2	MZ		10	10701341			0		401	Africa/Maputo	2015-09-08
+10701342	Distrito de Mulevala	Distrito de Mulevala	Distrito de Mulevala,Mulevala,Mulevala District	-16.36994	37.61927	A	ADM2	MZ		09	10701342			0		258	Africa/Maputo	2023-07-26
+10701343	Distrito de Mocubela	Distrito de Mocubela	Distrito de Mocubela,Mocubela,Mocubela District	-16.874	37.69024	A	ADM2	MZ		09	10701343			0		108	Africa/Maputo	2023-07-26
+10701344	Distrito de Derre	Distrito de Derre	Derre,Derre District,Distrito de Derre	-17.05967	36.12696	A	ADM2	MZ		09	10701344			0		232	Africa/Maputo	2023-07-26
+10702916	Distrito de Molumbo	Distrito de Molumbo	Distrito de Molumbo,Molumbo,Molumbo Dsitrict	-15.66479	36.17695	A	ADM2	MZ		09	10702916			0		793	Africa/Maputo	2023-07-26
+10703116	Distrito de Luabo	Distrito de Luabo	Distrito de Luabo,Luabo,Luabo District	-18.30805	36.12385	A	ADM2	MZ		09	10703116			0		6	Africa/Maputo	2023-07-26
+10703925	Distrito de Dôa	Distrito de Doa	Distrito de Doa,Distrito de Dôa,Doa,Doa District,Dôa,Dôa District	-16.58312	34.53282	A	ADM2	MZ		08	10703925			0		235	Africa/Maputo	2023-07-26
+10703926	Distrito de Larde	Distrito de Larde	Distrito de Larde,Larde	-16.47958	39.5866	A	ADM2	MZ		06	10703926			0		8	Africa/Maputo	2015-09-08
+10703927	Distrito de Liúpo	Distrito de Liupo	Distrito de Liupo,Distrito de Liúpo,Liupo,Liúpo	-15.60871	39.94604	A	ADM2	MZ		06	10703927			0		130	Africa/Maputo	2015-09-08
+10704473	Distrito de Marara	Distrito de Marara	Distrito de Marara,Marara,Marara District	-16.03804	33.18387	A	ADM2	MZ		08	10704473			0		369	Africa/Maputo	2023-07-26
+11189152	Mopeia District	Mopeia District	Distretto di Mopeia,District de Mopeia,Distrikt Mopeia,Mopeia,Mopeia District,Mopeia Koan,Mopeia Koān,districte de Mopeia,mo pei ya qu,mopeia jun,モペイア郡,莫佩亞區	-17.98	35.715	A	ADM2	MZ		09	11189152			0		31	Africa/Maputo	2016-07-05
+11204389	Angónia District	Angonia District		-14.717	34.367	A	ADM2	MZ		08	11204389			0		1258	Africa/Maputo	2016-07-18
+12041484	Cidade de Pemba	Cidade de Pemba	Municipio de Cidade de Pemba,Município de Cidade de Pemba	-12.99402	40.54979	A	ADM2	MZ		01	12041484			0		30	Africa/Maputo	2019-04-20
+12041485	Cidade de Manhiça	Cidade de Manhica		-25.39851	32.79563	A	ADM2	MZ		04	12041485			0		33	Africa/Maputo	2019-04-20
+12041567	Metuge District	Metuge District		-12.98371	40.36977	A	ADM2	MZ		01	12041567			0		21	Africa/Maputo	2019-04-27

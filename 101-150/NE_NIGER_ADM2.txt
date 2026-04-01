@@ -1,0 +1,67 @@
+﻿2438821	Département de Tessaoua	Departement de Tessaoua	Tessaoua	13.6	7.9	A	ADM2	NE		04	2438821			0		410	Africa/Niamey	2019-01-08
+2438973	Département de Tchin-Tabaraden	Departement de Tchin-Tabaraden	Tchintabaraden	15.86694	5.71042	A	ADM2	NE		06	2438973			0		440	Africa/Niamey	2019-01-12
+2439154	Département de Tânout	Departement de Tanout	Tanout	14.75	8.33333	A	ADM2	NE		07	2439154			0		462	Africa/Niamey	2019-01-08
+2439375	Département de Tahoua	Departement de Tahoua	Tahoua	14.8	4.8	A	ADM2	NE		06	2439375			0		332	Africa/Niamey	2019-01-08
+2439811	Département de Say	Departement de Say	Say	13.03579	2.22112	A	ADM2	NE		09	2439811			0		247	Africa/Niamey	2019-01-13
+2440370	Département de Ouallam	Departement de Ouallam	Ouallam	14.63333	2.25	A	ADM2	NE		09	2440370			0		236	Africa/Niamey	2019-01-10
+2440482	Ville de Niamey	Ville de Niamey	Ville de Niamey	13.53333	2.2	A	ADM2	NE		08	2440482			0		206	Africa/Niamey	2019-01-08
+2440494	Département de Nguigmi	Departement de Nguigmi	N'Guigmi	14.20753	13.12177	A	ADM2	NE		02	2440494			0		279	Africa/Niamey	2019-01-12
+2441193	Département de Mayahi	Departement de Mayahi	Mayahi	14.1	7.6	A	ADM2	NE		04	2441193			0		424	Africa/Niamey	2019-01-08
+2441216	Département de Kantché	Departement de Kantche	Kantche,Kantché,Matameye,Matamèye	13.4	8.6	A	ADM2	NE		07	2441216			0		440	Africa/Niamey	2019-01-11
+2441290	Ville de Maradi	Ville de Maradi	Ville de Maradi	13.49466	7.11512	A	ADM2	NE		04	2441290			0		374	Africa/Niamey	2019-01-12
+2441446	Département de Maïné-Soroa	Departement de Maine-Soroa	Maine Soroa,Maïné Soroa	13.31206	12.08321	A	ADM2	NE		02	2441446			0		334	Africa/Niamey	2019-01-12
+2441528	Département de Madaoua	Departement de Madaoua	Madaoua	13.99988	6.10012	A	ADM2	NE		06	2441528			0		367	Africa/Niamey	2019-01-08
+2441629	Département de Loga	Departement de Loga	Loga	13.63333	3.5	A	ADM2	NE		03	2441629			0		261	Africa/Niamey	2019-01-08
+2442477	Département de Keïta	Departement de Keita	Keita	14.8	6	A	ADM2	NE		06	2442477			0		442	Africa/Niamey	2019-01-08
+2443303	Département d' Illéla	Departement d' Illela	Illela,Illéla	14.25	5	A	ADM2	NE		06	2443303			0		284	Africa/Niamey	2019-01-08
+2444218	Département de Gouré	Departement de Goure	Goure,Gouré	14.01618	10.14722	A	ADM2	NE		07	2444218			0		447	Africa/Niamey	2019-01-12
+2444487	Département de Gaya	Departement de Gaya	Gaya	11.9597	3.46045	A	ADM2	NE		03	2444487			0		220	Africa/Niamey	2019-01-12
+2444994	Département de Filingué	Departement de Filingue	Filingue,Filingué	14.31645	3.23611	A	ADM2	NE		09	2444994			0		253	Africa/Niamey	2019-01-13
+2445487	Département de Dosso	Departement de Dosso	Dosso	12.83333	3.33333	A	ADM2	NE		03	2445487			0		231	Africa/Niamey	2019-01-08
+2445552	Département de Dogondoutchi	Departement de Dogondoutchi	Dogondoutchi	13.5	4	A	ADM2	NE		03	2445552			0		238	Africa/Niamey	2019-01-08
+2445703	Département de Diffa	Departement de Diffa	Diffa	13.66667	12.5	A	ADM2	NE		02	2445703			0		313	Africa/Niamey	2019-01-08
+2446266	Département de Dakoro	Departement de Dakoro	Dakoro	14.75	7	A	ADM2	NE		04	2446266			0		389	Africa/Niamey	2019-01-08
+2446465	Département de Bouza	Departement de Bouza	Bouza	14.43333	6	A	ADM2	NE		06	2446465			0		537	Africa/Niamey	2019-01-08
+2446752	Département de Birni Nkonni	Departement de Birni Nkonni	Birni N'Konni	13.9	5.25	A	ADM2	NE		06	2446752			0		283	Africa/Niamey	2019-01-08
+2446795	Département de Bilma	Departement de Bilma	Bilma,bylma,بيلما	20.5	13.25	A	ADM2	NE		01	2446795			0		507	Africa/Niamey	2019-03-09
+8299475	Guidan Roumdji Department	Guidan Roumdji Department	Departamento de Groumdji,Departamentul Guidan Roumdji,Dipartimento di Guidan Roumdji,Gidan-Rumdzhi,Groumdji,Guidan Roumdji,Guidan Roumdji Department,Guidan Roumdji ili,Guidan-Roumdji,bkhsh gwdan rwmjy,gurumuji xian,ji dan lu mu ji sheng,Гидан-Румджи,بخش گودان رومجی,گویدان رؤمدجی محکمہ,グルームジ県,吉丹魯姆吉省	13.6575	6.69583	A	ADM2	NE		04	8299475			0		327	Africa/Niamey	2019-01-08
+8334576	Tillaberi Department	Tillaberi Department	Tillaberi,Tillabéri	14.516	1.443	A	ADM2	NE		09	8334576			0		278	Africa/Niamey	2019-01-10
+8334577	Tera Department	Tera Department	Tera,Téra	14.186	0.843	A	ADM2	NE		09	8334577			0		250	Africa/Niamey	2019-01-10
+8334578	Kollo Department	Kollo Department	Departamento de Kollo,Departamentul Kollo,Dipartimento di Kollo,Kollo,Kollo Department,Kollo ili,ke luo sheng,koro xian,kwlw,Колло,كولو,کولو محکمہ,コロ県,科洛省	13.576	2.452	A	ADM2	NE		09	8334578			0		264	Africa/Niamey	2019-01-10
+8624000	Arlit	Arlit	Arli,Arlit,Arlit Department,Departamentul Arlit,Departement d'Arlit,Dipartimento di Arlit,Département d’Arlit,arlyt,Арли,أرليت,ارلیت محکمہ	18.83409	7.43327	A	ADM2	NE		01	8624000			0		433	Africa/Niamey	2019-03-09
+8624001	Département de Tchirozérine	Departement de Tchirozerine	Departement de Tchigozerine,Departement de Tchirozerine,Département de Tchigozérine,Département de Tchirozérine,Tchirozerine,Tchirozérine	17.43293	7.89321	A	ADM2	NE		01	8624001			0		524	Africa/Niamey	2019-01-12
+8624179	Département d’ Aguié	Departementd'Aguie	Aguie,Aguié,Departementd'Aguie,Département d’ Aguié	13.46976	7.74219	A	ADM2	NE		04	8624179			0		438	Africa/Niamey	2022-02-18
+8624180	Madarounfa	Madarounfa	Departement de Madarounfa,Département de Madarounfa,Madarounfa	13.28253	7.15495	A	ADM2	NE		04	8624180			0		375	Africa/Niamey	2019-01-08
+8624181	Abalak	Abalak	Abalak,Departementd'Abalak,Département d’ Abalak	15.41618	6.16975	A	ADM2	NE		06	8624181			0		436	Africa/Niamey	2022-02-18
+10943048	Mirriah Department	Mirriah Department	Mirriah	13.70722	9.15	A	ADM2	NE		07	10943048			0		407	Africa/Niamey	2019-01-08
+11204206	Magaria Department	Magaria Department	Magaria	12.99806	8.90972	A	ADM2	NE		07	11204206			0		396	Africa/Niamey	2019-01-08
+11204211	Boboye Department	Boboye Department	Boboe,Boboye,Boboye Department,Boboye ili,Departamento de Boboye,Departamentul Boboye,Departma Boboye,Dipartimento di Boboye,bo bo ye sheng,boboi xian,bwbwy,Бобое,بوبوي,بوبویے محکمہ,ボボイ県,博博耶省	13.08167	2.91083	A	ADM2	NE		03	11204211			0		193	Africa/Niamey	2019-01-08
+11996004	Bermo	Bermo	Bermo	15.08252	6.95091	A	ADM2	NE		04	11996004			0		417	Africa/Niamey	2019-01-08
+11996005	Bankilaré	Bankilare	Bankilare,Bankilaré	14.50835	0.6647	A	ADM2	NE		09	11996005			0		266	Africa/Niamey	2019-01-08
+11996006	Gazaoua	Gazaoua	Gazaoua	13.42134	7.94439	A	ADM2	NE		04	11996006			0		414	Africa/Niamey	2019-01-08
+11996007	Ingall	Ingall	Ingall	17.73018	6.07794	A	ADM2	NE		01	11996007			0		367	Africa/Niamey	2019-01-08
+11996008	Dioundiou	Dioundiou	Dioundiou	12.62923	3.59526	A	ADM2	NE		03	11996008			0		184	Africa/Niamey	2019-01-08
+11996009	Aderbissinat	Aderbissinat	Aderbissinat	16.51446	8.92298	A	ADM2	NE		01	11996009			0		481	Africa/Niamey	2019-01-08
+11996010	Goudoumaria	Goudoumaria	Goudoumaria	13.74631	11.24735	A	ADM2	NE		02	11996010			0		345	Africa/Niamey	2019-01-08
+11996011	Ville de Zinder	Ville de Zinder	Ville de Zinder	13.75504	8.98829	A	ADM2	NE		07	11996011			0		452	Africa/Niamey	2019-01-08
+11996013	Banibangou	Banibangou	Banibangou	15.10622	2.47141	A	ADM2	NE		09	11996013			0		307	Africa/Niamey	2019-01-08
+11996014	Belbedji	Belbedji	Belbedji	15.10053	7.86004	A	ADM2	NE		07	11996014			0		456	Africa/Niamey	2019-01-08
+11996015	Abala	Abala	Abala	14.97388	3.64693	A	ADM2	NE		09	11996015			0		273	Africa/Niamey	2019-01-08
+11996016	Ayerou	Ayerou	Ayerou	14.93911	1.17264	A	ADM2	NE		09	11996016			0		249	Africa/Niamey	2019-01-08
+11996017	Damagaram Takaya	Damagaram Takaya	Damagaram Takaya	14.09444	9.48167	A	ADM2	NE		07	11996017			0		443	Africa/Niamey	2019-01-08
+11996018	Dungass	Dungass	Dungass	13.11505	9.48423	A	ADM2	NE		07	11996018			0		371	Africa/Niamey	2019-01-08
+11996019	Bosso	Bosso	Bosso	13.73711	13.28375	A	ADM2	NE		02	11996019			0		290	Africa/Niamey	2019-01-08
+11996020	Falmey	Falmey	Falmey	12.59947	2.81074	A	ADM2	NE		03	11996020			0		195	Africa/Niamey	2019-01-08
+11996021	Gothèye	Gotheye	Gotheye,Gothèye	13.80436	1.43588	A	ADM2	NE		09	11996021			0		226	Africa/Niamey	2019-01-12
+11996022	Iferouane	Iferouane	Iferouane	20.08481	9.62308	A	ADM2	NE		01	11996022			0		617	Africa/Niamey	2019-01-08
+11996023	Takeita	Takeita	Takeita	13.91594	8.72559	A	ADM2	NE		07	11996023			0		482	Africa/Niamey	2019-01-08
+11996024	N'Gourti	N'Gourti	N'Gourti	16.43998	13.49918	A	ADM2	NE		02	11996024			0		376	Africa/Niamey	2019-01-08
+11996025	Tassara	Tassara	Tassara	17.24358	4.92602	A	ADM2	NE		06	11996025			0		339	Africa/Niamey	2019-01-08
+11996026	Tesker	Tesker	Tesker	15.71338	10.98349	A	ADM2	NE		07	11996026			0		415	Africa/Niamey	2019-01-08
+11996027	Tibiri	Tibiri	Tibiri	13.07884	3.89864	A	ADM2	NE		03	11996027			0		233	Africa/Niamey	2019-01-08
+11996028	Tillia	Tillia	Tillia	15.90023	4.55747	A	ADM2	NE		06	11996028			0		322	Africa/Niamey	2019-01-08
+11996029	Torodi	Torodi	Torodi	13.12077	1.49376	A	ADM2	NE		09	11996029			0		243	Africa/Niamey	2019-01-08
+11996030	Ville de Tahoua	Ville de Tahoua	Ville de Tahoua	14.88589	5.23643	A	ADM2	NE		06	11996030			0		384	Africa/Niamey	2019-01-08
+11996031	Balleyara	Balleyara	Balleyara	13.72848	2.87503	A	ADM2	NE		09	11996031			0		210	Africa/Niamey	2019-01-08
+11996032	Bagaroua	Bagaroua	Bagaroua	14.35335	4.62348	A	ADM2	NE		06	11996032			0		297	Africa/Niamey	2019-01-08
+11996034	Malbaza	Malbaza	Malbaza	14.04086	5.55938	A	ADM2	NE		06	11996034			0		354	Africa/Niamey	2019-01-08

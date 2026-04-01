@@ -1,0 +1,25 @@
+﻿7581582	Bor	Bor	Bor,Bor District,Borski Okrug	44.36667	22.25	A	ADM2	RS		SE	14			101100		457	Europe/Belgrade	2025-05-29
+7581794	Branicevo	Branicevo	Branicevo,Branicevo District,Branicevski Okrug,Braničevski Okrug	44.48028	21.58611	A	ADM2	RS		SE	11			156367		448	Europe/Belgrade	2025-05-29
+7581795	Jablanica	Jablanica	Jablanicki Okrug,Jablanički Okrug	42.99528	21.91778	A	ADM2	RS		SE	23			184502		228	Europe/Belgrade	2025-05-29
+7581796	South Bačka	South Backa	Juznobacki Okrug,Južnobački Okrug	45.40861	19.88917	A	ADM2	RS		VO	6			607178		81	Europe/Belgrade	2025-05-29
+7581797	South Banat	South Banat	Juznobanatski Okrug,Južnobanatski Okrug	45.08083	20.96583	A	ADM2	RS		VO	4			260244		84	Europe/Belgrade	2025-05-29
+7581798	Kolubara	Kolubara	Kolubarski Okrug	44.26333	19.8875	A	ADM2	RS		SE	9			174513		221	Europe/Belgrade	2017-11-19
+7581799	Mačva	Macva	Macvanski Okrug,Mačvanski Okrug	44.61472	19.47222	A	ADM2	RS		SE	8			268096		512	Europe/Belgrade	2025-05-29
+7581800	Morava	Morava	Moravicki Okrug,Moravički Okrug	43.80389	20.17806	A	ADM2	RS		SE	17			189281		340	Europe/Belgrade	2025-05-29
+7581801	Nišava	Nisava	Nisavski Okrug,Nišavski Okrug	43.32306	21.89444	A	ADM2	RS		SE	20			343950		194	Europe/Belgrade	2025-05-29
+7581802	Pčinja	Pcinja	Pcinjski Okrug,Pčinjski Okrug	42.56278	21.8825	A	ADM2	RS		SE	24			193802		698	Europe/Belgrade	2025-05-29
+7581803	Pirot	Pirot	Pirotski Okrug	43.17528	22.59278	A	ADM2	RS		SE	22			76700		460	Europe/Belgrade	2025-05-29
+7581804	Podunavlje District	Podunavlje District	Podunavlje,Podunavlje District,Podunavski Okrug	44.48417	20.91167	A	ADM2	RS		SE	10			176935		126	Europe/Belgrade	2025-05-29
+7581805	Pomoravlje	Pomoravlje	Pomoravski Okrug	43.93667	21.40222	A	ADM2	RS		SE	13			182047		140	Europe/Belgrade	2025-05-29
+7581806	Rasina	Rasina	Rasinski Okrug	43.55917	21.21472	A	ADM2	RS		SE	19			273247		193	Europe/Belgrade	2017-11-19
+7581807	Raška	Raska	Raski Okrug,Raški Okrug	43.26694	20.65278	A	ADM2	RS		SE	18			296532		410	Europe/Belgrade	2025-05-29
+7581808	North Bačka	North Backa	North Backa,North Backa District,North Bačka,North Bačka District,Severnobacki Okrug,Severnobački Okrug	45.815	19.63611	A	ADM2	RS		VO	1			0		98	Europe/Belgrade	2016-11-03
+7581905	North Banat	North Banat	North Banat,North Banat District,Severnobanatski Okrug,Severnobanatski okrug,Севернобанатски округ	45.9425	20.14333	A	ADM2	RS		VO	3			176935		79	Europe/Belgrade	2025-05-29
+7581906	Central Banat	Central Banat	Central Banat,Central Banat District,Srednjebanatski Okrug	45.38361	20.38194	A	ADM2	RS		VO	2			157711		81	Europe/Belgrade	2025-05-29
+7581907	Srem	Srem	Sremski Okrug	44.92167	19.82556	A	ADM2	RS		VO	7			282547		79	Europe/Belgrade	2025-05-29
+7581908	Šumadija	Sumadija	Sumadijski Okrug,Umadijski,Šumadijski Okrug	44.00222	20.91778	A	ADM2	RS		SE	12			269728		197	Europe/Belgrade	2025-05-29
+7581909	Toplica	Toplica	Toplicki Okrug,Toplički Okrug	43.14194	21.27806	A	ADM2	RS		SE	21			77341		395	Europe/Belgrade	2025-05-29
+7581910	Zaječar	Zajecar	Zajecarski Okrug,Zaječarski Okrug	43.69917	21.98778	A	ADM2	RS		SE	15			96715		623	Europe/Belgrade	2025-05-29
+7581911	West Bačka	West Backa	West Backa,West Backa District,West Bačka,West Bačka District,Westliche Batschka,Zapadnobacki Okrug,Zapadnobački Okrug	45.77417	19.11222	A	ADM2	RS		VO	5			154491		89	Europe/Belgrade	2025-05-29
+7581912	Zlatibor	Zlatibor	Zlatiborski Okrug	43.70917	19.67306	A	ADM2	RS		SE	16			254659		1027	Europe/Belgrade	2025-05-29
+8199669	Belgrade	Belgrade		44.79743	20.47302	A	ADM2	RS		SE	0			1197714		144	Europe/Belgrade	2025-05-29

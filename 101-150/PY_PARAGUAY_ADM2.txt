@@ -1,0 +1,246 @@
+﻿10293321	Minga Pora District	Minga Pora District		-24.86667	-54.91667	A	ADM2	PY		01	1016			0		310	America/Asuncion	2015-05-29
+11839927	San Cosme y Damian	San Cosme y Damian		-27.35494	-56.50419	A	ADM2	PY		11	0719			0		75	America/Asuncion	2018-04-08
+11839928	San Estanislao	San Estanislao	San Estanislao District	-24.64582	-56.39245	A	ADM2	PY		17	0208			0		206	America/Asuncion	2023-08-13
+11839929	Villa Hayes	Villa Hayes		-23.78075	-58.04735	A	ADM2	PY		16	1504			0		90	America/Asuncion	2018-04-08
+11839930	San Patricio	San Patricio		-26.99545	-56.82939	A	ADM2	PY		12	0805			0		167	America/Asuncion	2018-04-08
+11839931	Isla Pucu	Isla Pucu	Isla Pucu District,Isla Pucú District	-25.30084	-56.8961	A	ADM2	PY		08	0308			0		158	America/Asuncion	2023-08-13
+11839932	Paso De Patria	Paso De Patria		-27.22734	-58.51454	A	ADM2	PY		13	1211			0		58	America/Asuncion	2018-04-08
+11839933	Alberdi	Alberdi		-26.18992	-58.0709	A	ADM2	PY		13	1202			0		57	America/Asuncion	2018-04-08
+11839934	Quyquyho	Quyquyho		-26.25274	-57.01044	A	ADM2	PY		15	0911			0		116	America/Asuncion	2018-04-08
+11839935	Villarrica	Villarrica		-25.83098	-56.40837	A	ADM2	PY		10	0401			0		163	America/Asuncion	2018-04-08
+11839936	Domingo Martinez De Irala	Domingo Martinez De Irala		-25.85822	-54.69024	A	ADM2	PY		01	1003			0		254	America/Asuncion	2018-04-08
+11839937	San Salvador	San Salvador		-25.95765	-56.42684	A	ADM2	PY		10	0414			0		145	America/Asuncion	2018-04-08
+11839938	Jesus	Jesus		-27.05364	-55.77418	A	ADM2	PY		11	0715			6363		193	America/Asuncion	2022-04-03
+11839939	San Antonio	San Antonio	San Antonio District	-25.41834	-57.56195	A	ADM2	PY		06	1113			62663		103	America/Asuncion	2023-08-13
+11839940	Villa Del Rosario	Villa Del Rosario		-24.56109	-57.07704	A	ADM2	PY		17	0213			0		67	America/Asuncion	2018-04-08
+11839941	R.I. 3 Corrales	R.I. 3 Corrales	Regimiento de Infanteria Tres Corrales,Regimiento de Infantería Tres Corrales	-25.3536	-56.21978	A	ADM2	PY		04	0513			0		153	America/Asuncion	2020-06-19
+11839942	Obligado	Obligado		-26.92183	-55.70839	A	ADM2	PY		11	0717			0		238	America/Asuncion	2018-04-08
+11839943	Abai	Abai		-25.88262	-55.70886	A	ADM2	PY		05	0602			0		293	America/Asuncion	2018-04-08
+11839944	Los Cedrales	Los Cedrales	Los Cedrales District	-25.68602	-54.75132	A	ADM2	PY		01	1010			0		232	America/Asuncion	2023-08-13
+11839945	Capiata	Capiata		-25.37722	-57.4519	A	ADM2	PY		06	1102			224152		119	America/Asuncion	2022-04-03
+11839946	Union	Union	Union District,Unión District	-24.8699	-56.5309	A	ADM2	PY		17	0211			0		122	America/Asuncion	2023-08-13
+11839947	Simon Bolivar	Simon Bolivar		-25.03319	-56.34959	A	ADM2	PY		04	0519			0		200	America/Asuncion	2018-04-08
+11839948	Saltos Del Guaira	Saltos Del Guaira		-24.18629	-54.46661	A	ADM2	PY		19	1401			0		310	America/Asuncion	2018-04-08
+11839949	San Pedro Del Parana	San Pedro Del Parana		-26.73011	-56.00858	A	ADM2	PY		11	0720			0		119	America/Asuncion	2018-04-08
+11839950	Cecilio Baez	Cecilio Baez		-25.08912	-56.23085	A	ADM2	PY		04	0504			0		176	America/Asuncion	2018-04-08
+11839951	Coronel Bogado	Coronel Bogado		-27.18629	-56.27949	A	ADM2	PY		11	0708			0		78	America/Asuncion	2018-04-08
+11839952	San Alberto	San Alberto		-24.97604	-54.90623	A	ADM2	PY		01	1018			0		339	America/Asuncion	2018-04-11
+11839953	Mbaracayu	Mbaracayu		-25.01529	-54.68915	A	ADM2	PY		01	1017			0		244	America/Asuncion	2018-04-08
+11839954	Tacuaras	Tacuaras		-26.90378	-57.7497	A	ADM2	PY		13	1213			0		64	America/Asuncion	2018-04-08
+11839955	Carapegua	Carapegua	Carapegua District,Carapeguá District,Karapegua	-25.75907	-57.32885	A	ADM2	PY		15	0905			0		115	America/Asuncion	2023-08-13
+11839956	Francisco Caballero Alvarez	Francisco Caballero Alvarez		-24.15653	-54.71145	A	ADM2	PY		19	1407			0		330	America/Asuncion	2018-04-08
+11839957	Repatriacion	Repatriacion		-25.58395	-55.80308	A	ADM2	PY		04	0507			0		235	America/Asuncion	2018-04-08
+11839958	General Diaz	General Diaz		-27.1679	-58.34399	A	ADM2	PY		13	1205			0		61	America/Asuncion	2018-04-08
+11839959	Desmochados	Desmochados		-27.08796	-58.12406	A	ADM2	PY		13	1204			0		61	America/Asuncion	2018-04-08
+11839960	Coronel Oviedo	Coronel Oviedo		-25.48658	-56.42111	A	ADM2	PY		04	0501			0		149	America/Asuncion	2018-04-08
+11839961	San Juan del Parana	San Juan del Parana		-27.30785	-55.971	A	ADM2	PY		11	0728			0		117	America/Asuncion	2018-04-08
+11839969	Capiibary	Capiibary		-24.74588	-55.9916	A	ADM2	PY		17	0217			0		213	America/Asuncion	2018-04-08
+11839970	Nueva Germania	Nueva Germania	Nueva Germania District	-23.85997	-56.67184	A	ADM2	PY		17	0207			0		135	America/Asuncion	2023-08-13
+11839971	Mbuyapey	Mbuyapey		-26.28711	-56.81099	A	ADM2	PY		15	0908			0		112	America/Asuncion	2018-04-08
+11839972	Nueva Esperanza	Nueva Esperanza		-24.58166	-54.65388	A	ADM2	PY		19	1410			0		348	America/Asuncion	2018-04-08
+11839973	Isla Umbu	Isla Umbu		-26.97827	-58.31763	A	ADM2	PY		13	1208			0		59	America/Asuncion	2018-04-08
+11839974	Loma Plata	Loma Plata		-22.30512	-59.6906	A	ADM2	PY		24	1605			0		129	America/Asuncion	2018-04-08
+11839975	Santa Fe Del Parana	Santa Fe Del Parana		-25.18908	-54.62833	A	ADM2	PY		01	1020			0		313	America/Asuncion	2018-04-08
+11839976	Tobati	Tobati	Tobati District,Tobatí District	-25.21599	-57.04655	A	ADM2	PY		08	0318			0		86	America/Asuncion	2023-08-13
+11839977	Curuguaty	Curuguaty		-24.33618	-55.77463	A	ADM2	PY		19	1403			0		285	America/Asuncion	2018-04-08
+11839978	Itanara	Itanara		-23.75892	-55.65763	A	ADM2	PY		19	1405			0		229	America/Asuncion	2018-04-08
+11839979	Ype Jhu	Ype Jhu		-23.92806	-55.76758	A	ADM2	PY		19	1406			0		204	America/Asuncion	2018-04-08
+11839980	Natalicio Talavera	Natalicio Talavera		-25.66439	-56.28446	A	ADM2	PY		10	0412			0		176	America/Asuncion	2018-04-08
+11839981	Santa Rosa Del Mbutuy	Santa Rosa Del Mbutuy		-24.93261	-56.25358	A	ADM2	PY		04	0505			0		239	America/Asuncion	2018-04-08
+11839982	Alto Vera	Alto Vera		-26.5883	-55.74206	A	ADM2	PY		11	0725			0		207	America/Asuncion	2018-04-08
+11839983	Yvycui	Yvycui		-26.03839	-56.93766	A	ADM2	PY		15	0916			0		155	America/Asuncion	2018-04-08
+11839984	Mauricio Jose Troche	Mauricio Jose Troche		-25.62137	-56.1542	A	ADM2	PY		10	0403			0		211	America/Asuncion	2018-04-08
+11839985	San Roque Gonzalez	San Roque Gonzalez		-25.87559	-57.29751	A	ADM2	PY		15	0912			0		134	America/Asuncion	2018-04-08
+11839986	Acahay	Acahay		-25.88932	-57.07659	A	ADM2	PY		15	0902			0		186	America/Asuncion	2018-04-08
+11839987	Ñemby	Nemby		-25.39696	-57.53774	A	ADM2	PY		06	1112			126817		106	America/Asuncion	2022-04-03
+11839988	Aregua	Aregua		-25.29391	-57.38634	A	ADM2	PY		06	1101			0		72	America/Asuncion	2018-04-08
+11839989	Capitan Bado	Capitan Bado		-23.42418	-55.81292	A	ADM2	PY		02	1303			0		346	America/Asuncion	2018-04-08
+11839990	Tte. Esteban Martinez	Tte. Esteban Martinez	Teniente Esteban Martinez,Teniente Esteban Martínez	-23.91269	-59.74379	A	ADM2	PY		16	1508			0		118	America/Asuncion	2020-06-16
+11839991	Nueva Colombia	Nueva Colombia		-25.15943	-57.27208	A	ADM2	PY		08	0313			0		131	America/Asuncion	2018-04-08
+11839992	Juan De Mena	Juan De Mena		-24.99495	-56.77291	A	ADM2	PY		08	0310			0		72	America/Asuncion	2018-04-08
+11839993	Jose Domingo Ocampos	Jose Domingo Ocampos		-25.44037	-55.43764	A	ADM2	PY		04	0515			0		273	America/Asuncion	2018-04-08
+11839994	Jose Falcon	Jose Falcon		-24.90969	-58.1241	A	ADM2	PY		16	1506			0		76	America/Asuncion	2018-04-08
+11839995	Encarnacion	Encarnacion		-27.26225	-55.89523	A	ADM2	PY		11	0701			0		141	America/Asuncion	2018-04-08
+11839996	Caraguatay	Caraguatay	Caraguatay District	-25.2151	-56.77737	A	ADM2	PY		08	0305			0		70	America/Asuncion	2023-08-13
+11839997	Piribebuy	Piribebuy		-25.49637	-57.04219	A	ADM2	PY		08	0314			0		269	America/Asuncion	2018-04-08
+11839998	Ñumi	Numi		-25.91664	-56.31439	A	ADM2	PY		10	0413			0		159	America/Asuncion	2018-04-08
+11839999	Katuete	Katuete		-24.3429	-54.79242	A	ADM2	PY		19	1408			0		349	America/Asuncion	2018-04-08
+11840000	Leandro Oviedo	Leandro Oviedo		-26.74776	-56.22912	A	ADM2	PY		11	0716			0		128	America/Asuncion	2018-04-08
+11840001	Cambyreta	Cambyreta		-27.35643	-55.76349	A	ADM2	PY		11	0703			55000		196	America/Asuncion	2022-04-03
+11840002	Mcal. Francisco Solano Lopez	Mcal. Francisco Solano Lopez		-25.17948	-55.18013	A	ADM2	PY		04	0516			0		267	America/Asuncion	2018-04-08
+11840003	Liberacion	Liberacion		-24.1964	-56.37838	A	ADM2	PY		17	0220			0		141	America/Asuncion	2018-04-08
+11840004	Hohenau	Hohenau	Hohenau,Oehnau,ao ai nao,hwhynaw,Оэнау,هوهيناو,奧埃瑙	-27.0869	-55.64417	A	ADM2	PY		11	0714			15100		166	America/Asuncion	2022-04-14
+11840005	Moises Bertoni	Moises Bertoni		-26.38182	-56.59458	A	ADM2	PY		05	0604			0		90	America/Asuncion	2018-04-08
+11840006	San Miguel	San Miguel		-26.58091	-56.96765	A	ADM2	PY		12	0804			0		76	America/Asuncion	2018-04-08
+11840007	Sgto. Jose Felix Lopez	Sgto. Jose Felix Lopez		-22.53258	-56.94168	A	ADM2	PY		07	0109			0		186	America/Asuncion	2018-04-08
+11840008	Yataity Del Norte	Yataity Del Norte		-24.83738	-56.32904	A	ADM2	PY		17	0215			0		232	America/Asuncion	2018-04-08
+11840009	Filadelfia	Filadelfia		-21.4374	-60.17867	A	ADM2	PY		24	1604			0		151	America/Asuncion	2018-04-08
+11840010	Santa Rita	Santa Rita		-25.77466	-55.13601	A	ADM2	PY		01	1013			0		284	America/Asuncion	2018-04-08
+11840011	San Jose De Los Arroyos	San Jose De Los Arroyos		-25.53943	-56.69861	A	ADM2	PY		04	0510			0		122	America/Asuncion	2018-04-08
+11840012	Altos	Altos	Altos District	-25.24593	-57.22165	A	ADM2	PY		08	0302			0		152	America/Asuncion	2023-08-13
+11840013	Zanja Pyta	Zanja Pyta		-22.7719	-55.70878	A	ADM2	PY		02	1304			0		419	America/Asuncion	2018-04-08
+11840014	Pirayu	Pirayu	Pirayu District,Pirayú District	-25.47717	-57.21446	A	ADM2	PY		15	0909			17601		92	America/Asuncion	2023-08-13
+11840015	Buena Vista	Buena Vista		-26.22098	-56.08279	A	ADM2	PY		05	0603			0		117	America/Asuncion	2018-04-08
+11840016	San Juan Nepomuceno	San Juan Nepomuceno		-26.23146	-55.90066	A	ADM2	PY		05	0607			0		210	America/Asuncion	2018-04-08
+11840017	San Ignacio	San Ignacio		-26.9589	-57.14557	A	ADM2	PY		12	0803			0		72	America/Asuncion	2018-04-08
+11840018	Humaita	Humaita		-27.10975	-58.50556	A	ADM2	PY		13	1207			0		59	America/Asuncion	2018-04-08
+11840019	Carmelo Peralta	Carmelo Peralta		-21.64999	-58.28077	A	ADM2	PY		23	1705			0		95	America/Asuncion	2018-04-08
+11840020	Tomas Romero Pereira	Tomas Romero Pereira		-26.47347	-55.28248	A	ADM2	PY		11	0724			0		341	America/Asuncion	2018-04-08
+11840021	Yguazu	Yguazu		-25.41779	-55.10024	A	ADM2	PY		01	1009			0		277	America/Asuncion	2018-04-08
+11840022	Paraguari	Paraguari		-25.67994	-57.1421	A	ADM2	PY		15	0901			0		90	America/Asuncion	2018-04-08
+11840023	Guajayvi	Guajayvi		-24.40787	-56.34811	A	ADM2	PY		17	0216			0		163	America/Asuncion	2018-04-08
+11840024	Yvy Ya´U	Yvy Ya'U		-22.99614	-56.38143	A	ADM2	PY		07	0107			0		313	America/Asuncion	2018-04-08
+11840025	25 De Diciembre	25 De Diciembre		-24.77256	-56.80126	A	ADM2	PY		17	0212			0		72	America/Asuncion	2018-04-08
+11840026	Loma Grande	Loma Grande		-25.1485	-57.20921	A	ADM2	PY		08	0311			0		101	America/Asuncion	2018-04-08
+11840027	General Bernardino Caballero	General Bernardino Caballero		-25.76005	-56.88613	A	ADM2	PY		15	0904			7223		248	America/Asuncion	2022-04-03
+11840028	Santa Maria	Santa Maria		-26.73927	-56.88897	A	ADM2	PY		12	0806			0		105	America/Asuncion	2018-04-08
+11840029	Tte 1ro Manuel Irala Fernandez	Tte 1ro Manuel Irala Fernandez		-23.03236	-59.6142	A	ADM2	PY		16	1507			0		122	America/Asuncion	2018-04-08
+11840030	Caaguazu	Caaguazu		-25.41922	-56.05173	A	ADM2	PY		04	0502			127328		312	America/Asuncion	2022-04-03
+11840031	General Eugenio A. Garay	General Eugenio A. Garay		-25.94156	-56.1976	A	ADM2	PY		10	0406			0		231	America/Asuncion	2018-04-08
+11840032	Fram	Fram		-27.07413	-56.01183	A	ADM2	PY		11	0711			0		181	America/Asuncion	2018-04-08
+11840033	Tebicuary	Tebicuary		-25.79857	-56.65414	A	ADM2	PY		10	0418			0		119	America/Asuncion	2018-04-08
+11840034	Fernando De La Mora	Fernando De La Mora		-25.32782	-57.55071	A	ADM2	PY		06	1103			0		151	America/Asuncion	2018-04-08
+11840035	Tavai	Tavai		-26.18824	-55.52995	A	ADM2	PY		05	0608			0		170	America/Asuncion	2018-04-08
+11840036	Benjamin Aceval	Benjamin Aceval		-24.39616	-58.04525	A	ADM2	PY		16	1502			0		82	America/Asuncion	2018-04-08
+11840037	Capitan Meza	Capitan Meza		-26.82882	-55.29086	A	ADM2	PY		11	0704			0		204	America/Asuncion	2018-04-08
+11840038	Guarambare	Guarambare		-25.48865	-57.45182	A	ADM2	PY		06	1104			33208		131	America/Asuncion	2022-04-03
+11840039	Mariscal Estigarribia	Mariscal Estigarribia		-21.96421	-61.28682	A	ADM2	PY		24	1602			0		205	America/Asuncion	2018-04-08
+11840040	Yaguaron	Yaguaron		-25.59869	-57.27476	A	ADM2	PY		15	0915			0		99	America/Asuncion	2018-04-08
+11840041	Jose Fassardi	Jose Fassardi		-25.9285	-56.09385	A	ADM2	PY		10	0410			0		260	America/Asuncion	2018-04-08
+11840042	Concepcion	Concepcion		-22.87931	-57.36778	A	ADM2	PY		07	0101			0		113	America/Asuncion	2018-04-08
+11840043	Villa Florida	Villa Florida		-26.46689	-57.12291	A	ADM2	PY		12	0809			0		71	America/Asuncion	2018-04-08
+11840044	San Juan Bautista De Ñeembucu	San Juan Bautista De Neembucu		-26.61016	-57.85772	A	ADM2	PY		13	1212			0		67	America/Asuncion	2018-04-08
+11840045	Los Laureles	Los Laureles		-27.17636	-57.58299	A	ADM2	PY		13	1209			0		65	America/Asuncion	2018-04-08
+11840046	Ypane	Ypane		-25.4604	-57.50929	A	ADM2	PY		06	1118			0		107	America/Asuncion	2018-04-08
+11840047	Lima	Lima		-23.97833	-56.56935	A	ADM2	PY		17	0206			0		115	America/Asuncion	2018-04-08
+11840048	Villa Elisa	Villa Elisa		-25.37376	-57.58744	A	ADM2	PY		06	1115			75933		152	America/Asuncion	2022-04-03
+11840049	Paso Yobai	Paso Yobai		-25.73917	-55.91326	A	ADM2	PY		10	0417			0		285	America/Asuncion	2018-04-08
+11840050	General Artigas	General Artigas		-26.90516	-56.37593	A	ADM2	PY		11	0712			0		93	America/Asuncion	2018-04-08
+11840051	Emboscada	Emboscada		-25.12883	-57.36295	A	ADM2	PY		08	0306			0		170	America/Asuncion	2018-04-08
+11840052	San Jose Obrero	San Jose Obrero		-25.11626	-56.87837	A	ADM2	PY		08	0320			0		68	America/Asuncion	2018-04-08
+11840053	General Jose Maria Bruguez	General Jose Maria Bruguez		-24.31207	-58.87526	A	ADM2	PY		16	1509			0		98	America/Asuncion	2018-04-08
+11840054	Valenzuela	Valenzuela		-25.58852	-56.87065	A	ADM2	PY		08	0319			0		158	America/Asuncion	2018-04-08
+11840055	Tebicuary-Mi	Tebicuary-Mi		-25.91802	-56.67478	A	ADM2	PY		15	0914			0		137	America/Asuncion	2018-04-08
+11840056	Caapucu	Caapucu		-26.33745	-57.3845	A	ADM2	PY		15	0903			0		64	America/Asuncion	2018-04-08
+11840057	General Higinio Morinigo	General Higinio Morinigo		-26.04084	-56.08235	A	ADM2	PY		05	0605			0		148	America/Asuncion	2018-04-08
+11840058	Luque	Luque		-25.25053	-57.45708	A	ADM2	PY		06	1109			263604		114	America/Asuncion	2022-04-03
+11840059	Edelira	Edelira		-26.58082	-55.38199	A	ADM2	PY		11	0723			0		247	America/Asuncion	2018-04-08
+11840060	Villa Ygatimí	Villa Ygatimi		-24.13346	-55.48191	A	ADM2	PY		19	1404			0		186	America/Asuncion	2018-04-08
+11840061	Asuncion	Asuncion		-25.29121	-57.60494	A	ADM2	PY		22	0000			0		120	America/Asuncion	2018-04-08
+11840062	La Paloma	La Paloma		-24.1938	-54.562	A	ADM2	PY		19	1409			0		351	America/Asuncion	2018-04-08
+11840063	Mayor Martinez	Mayor Martinez		-27.20089	-58.14559	A	ADM2	PY		13	1210			0		58	America/Asuncion	2018-04-08
+11840064	Dr. Raul Peña	Dr. Raul Pena	Doctor Raul Pena,Doctor Raúl Peña	-26.13495	-55.22489	A	ADM2	PY		01	1022			0		261	America/Asuncion	2020-06-18
+11840065	Ayolas	Ayolas		-27.37014	-56.9749	A	ADM2	PY		12	0802			0		72	America/Asuncion	2018-04-08
+11840066	Nueva Toledo	Nueva Toledo		-24.97421	-55.49037	A	ADM2	PY		04	0522			0		278	America/Asuncion	2018-04-08
+11840067	Borja	Borja		-26.03433	-56.61027	A	ADM2	PY		10	0402			0		144	America/Asuncion	2018-04-08
+11840068	Yasy Kañy	Yasy Kany		-24.56255	-55.86979	A	ADM2	PY		19	1411			0		228	America/Asuncion	2018-04-08
+11840069	Belen	Belen		-23.4278	-57.23169	A	ADM2	PY		07	0102			0		128	America/Asuncion	2018-04-08
+11840070	Coronel Martinez	Coronel Martinez		-25.74215	-56.60203	A	ADM2	PY		10	0404			0		134	America/Asuncion	2018-04-08
+11840071	La Colmena	La Colmena		-25.90225	-56.82312	A	ADM2	PY		15	0907			0		171	America/Asuncion	2018-04-08
+11840072	J Eulogio Estigarribia	J Eulogio Estigarribia		-25.40286	-55.59406	A	ADM2	PY		04	0512			0		274	America/Asuncion	2018-04-08
+11840073	Nanawa	Nanawa		-25.28283	-57.70058	A	ADM2	PY		16	1505			0		64	America/Asuncion	2018-04-08
+11840074	J Augusto Saldivar	J Augusto Saldivar		-25.43268	-57.43389	A	ADM2	PY		06	1119			0		150	America/Asuncion	2018-04-08
+11840075	Lambare	Lambare		-25.35362	-57.61576	A	ADM2	PY		06	1107			170851		138	America/Asuncion	2022-04-03
+11840076	San Bernardino	San Bernardino		-25.29314	-57.29328	A	ADM2	PY		08	0316			20491		126	America/Asuncion	2022-04-03
+11840077	Bella Vista	Bella Vista		-26.99528	-55.54513	A	ADM2	PY		11	0702			13873		199	America/Asuncion	2022-04-03
+11840078	Dr. Bottrell	Dr. Bottrell		-25.60086	-56.36379	A	ADM2	PY		10	0416			0		133	America/Asuncion	2018-04-08
+11840079	Naranjal	Naranjal		-25.95662	-55.2035	A	ADM2	PY		01	1014			0		301	America/Asuncion	2018-04-08
+11840080	Bahia Negra	Bahia Negra		-19.89315	-59.96512	A	ADM2	PY		23	1704			0		156	America/Asuncion	2018-04-08
+11840081	Loreto	Loreto		-23.18896	-57.15119	A	ADM2	PY		07	0104			0		96	America/Asuncion	2018-04-08
+11840082	General Resquin	General Resquin		-24.00518	-56.20818	A	ADM2	PY		17	0214			0		198	America/Asuncion	2018-04-08
+11840083	Tavapy	Tavapy		-25.62452	-55.07143	A	ADM2	PY		01	1021			0		224	America/Asuncion	2018-04-08
+11840084	Trinidad	Trinidad		-27.13435	-55.73089	A	ADM2	PY		11	0722			0		129	America/Asuncion	2018-04-08
+11840085	Santiago	Santiago		-27.12983	-56.78376	A	ADM2	PY		12	0808			0		129	America/Asuncion	2018-04-08
+11840086	Carmen Del Parana	Carmen Del Parana		-27.20845	-56.09826	A	ADM2	PY		11	0707			0		128	America/Asuncion	2018-04-08
+11840087	Yabebyry	Yabebyry		-27.25628	-57.14304	A	ADM2	PY		12	0810			0		72	America/Asuncion	2018-04-08
+11840088	Villa Franca	Villa Franca		-26.34735	-57.96024	A	ADM2	PY		13	1214			0		61	America/Asuncion	2018-04-08
+11840089	San Rafael Del Parana	San Rafael Del Parana		-26.43968	-55.10063	A	ADM2	PY		11	0721			0		274	America/Asuncion	2018-04-08
+11840090	Chore	Chore		-24.18431	-56.63288	A	ADM2	PY		17	0203			0		200	America/Asuncion	2018-04-08
+11840091	Primero De Marzo	Primero De Marzo		-25.12713	-56.97094	A	ADM2	PY		08	0315			0		105	America/Asuncion	2018-04-08
+11840092	Itapua Poty	Itapua Poty		-26.56135	-55.54526	A	ADM2	PY		11	0730			0		285	America/Asuncion	2018-04-08
+11840093	Yuty	Yuty		-26.60724	-56.33523	A	ADM2	PY		05	0610			0		83	America/Asuncion	2018-04-08
+11840094	Mayor Otaño	Mayor Otano		-26.27843	-54.76885	A	ADM2	PY		11	0718			0		185	America/Asuncion	2018-04-08
+11840095	Villa Oliva	Villa Oliva		-26.04415	-57.72756	A	ADM2	PY		13	1215			0		59	America/Asuncion	2018-04-08
+11840096	San Juan Bautista	San Juan Bautista		-26.7122	-57.40589	A	ADM2	PY		12	0801			0		73	America/Asuncion	2018-04-08
+11840097	Eusebio Ayala	Eusebio Ayala		-25.36119	-56.97145	A	ADM2	PY		08	0307			0		128	America/Asuncion	2018-04-08
+11840098	Azotey	Azotey		-23.32344	-56.50114	A	ADM2	PY		07	0108			0		262	America/Asuncion	2018-04-08
+11840099	Pedro Juan Caballero	Pedro Juan Caballero		-22.79291	-55.98344	A	ADM2	PY		02	1301			0		309	America/Asuncion	2018-04-08
+11840100	Fulgencio Yegros	Fulgencio Yegros		-26.54205	-56.56201	A	ADM2	PY		05	0609			0		88	America/Asuncion	2018-04-08
+11840101	Mariano Roque Alonso	Mariano Roque Alonso		-25.20126	-57.53121	A	ADM2	PY		06	1110			97585		82	America/Asuncion	2022-04-03
+11840102	Nueva Alborada	Nueva Alborada		-27.26343	-55.65323	A	ADM2	PY		11	0706			0		147	America/Asuncion	2018-04-08
+11840103	Quiindy	Quiindy		-26.01315	-57.31466	A	ADM2	PY		15	0910			0		107	America/Asuncion	2018-04-08
+11840104	San Joaquin	San Joaquin		-25.04491	-56.05025	A	ADM2	PY		04	0509			0		305	America/Asuncion	2018-04-08
+11840105	Presidente Franco	Presidente Franco		-25.59666	-54.6415	A	ADM2	PY		01	1002			104677		191	America/Asuncion	2022-04-03
+11840106	San Cristobal	San Cristobal		-25.78346	-55.38483	A	ADM2	PY		01	1012			0		289	America/Asuncion	2018-04-08
+11840107	San Pablo	San Pablo		-24.13809	-56.91929	A	ADM2	PY		17	0209			0		80	America/Asuncion	2018-04-08
+11840108	Cerrito	Cerrito		-27.32128	-57.54116	A	ADM2	PY		13	1203			0		71	America/Asuncion	2018-04-08
+11840109	San Lazaro	San Lazaro		-22.24718	-57.73504	A	ADM2	PY		07	0106			0		90	America/Asuncion	2018-04-08
+11840110	Mbocayaty Del Yhaguy	Mbocayaty Del Yhaguy		-25.31918	-56.69231	A	ADM2	PY		08	0312			0		80	America/Asuncion	2018-04-08
+11840111	Iruña	Iruna		-26.13283	-55.03345	A	ADM2	PY		01	1019			0		319	America/Asuncion	2018-04-08
+11840112	Nueva Londres	Nueva Londres		-25.41999	-56.56605	A	ADM2	PY		04	0508			0		103	America/Asuncion	2018-04-08
+11840113	Itakyry	Itakyry		-24.81418	-55.15267	A	ADM2	PY		01	1006			0		305	America/Asuncion	2018-04-08
+11840114	San Carlos	San Carlos		-22.39295	-57.29779	A	ADM2	PY		07	0105			0		143	America/Asuncion	2018-04-08
+11840115	Maciel	Maciel		-26.22056	-56.51332	A	ADM2	PY		05	0606			0		103	America/Asuncion	2018-04-08
+11840116	Itacurubi Del Rosario	Itacurubi Del Rosario		-24.58239	-56.81959	A	ADM2	PY		17	0205			0		104	America/Asuncion	2018-04-08
+11840117	San Lorenzo	San Lorenzo		-25.35072	-57.51094	A	ADM2	PY		06	1114			0		149	America/Asuncion	2018-04-08
+11840118	Tacuati	Tacuati		-23.5425	-56.59278	A	ADM2	PY		17	0210			0		217	America/Asuncion	2018-04-08
+11840119	Yatytay	Yatytay		-26.67186	-55.05177	A	ADM2	PY		11	0727			0		214	America/Asuncion	2018-04-08
+11840120	Colonia Independencia	Colonia Independencia		-25.76195	-56.16739	A	ADM2	PY		10	0407			0		172	America/Asuncion	2018-04-08
+11840121	Juan E. O´Leary	Juan E. O'Leary		-25.48006	-55.36511	A	ADM2	PY		01	1007			0		259	America/Asuncion	2018-04-08
+11840122	Santa Elena	Santa Elena		-25.39551	-56.78063	A	ADM2	PY		08	0317			0		96	America/Asuncion	2018-04-08
+11840123	Capitan Miranda	Capitan Miranda		-27.18966	-55.81169	A	ADM2	PY		11	0705			0		226	America/Asuncion	2018-04-08
+11840124	Ciudad Del Este	Ciudad Del Este		-25.49796	-54.67974	A	ADM2	PY		01	1001			0		220	America/Asuncion	2018-04-08
+11840125	Corpus Christi	Corpus Christi		-24.11047	-55.00993	A	ADM2	PY		19	1402			0		328	America/Asuncion	2018-04-08
+11840126	Atyra	Atyra		-25.25993	-57.15459	A	ADM2	PY		08	0304			0		139	America/Asuncion	2018-04-08
+11840127	General Elizardo Aquino	General Elizardo Aquino		-24.38336	-56.79333	A	ADM2	PY		17	0204			0		95	America/Asuncion	2018-04-08
+11840128	Villalbin	Villalbin		-27.17859	-57.91511	A	ADM2	PY		13	1216			0		65	America/Asuncion	2018-04-08
+11840129	Minga Guazu	Minga Guazu		-25.50339	-54.84146	A	ADM2	PY		01	1011			0		255	America/Asuncion	2018-04-08
+11840130	Tembiapora	Tembiapora		-25.25878	-55.39049	A	ADM2	PY		04	0521			0		263	America/Asuncion	2018-04-08
+11840131	Escobar	Escobar		-25.66867	-57.02575	A	ADM2	PY		15	0906			0		114	America/Asuncion	2018-04-08
+11840132	Sapucai	Sapucai		-25.67277	-56.95827	A	ADM2	PY		15	0913			0		175	America/Asuncion	2018-04-11
+11840133	San Pedro Del Ykuamandiyu	San Pedro Del Ykuamandiyu		-23.77219	-57.05951	A	ADM2	PY		17	0201			0		87	America/Asuncion	2018-04-08
+11840134	Ybyrarobana	Ybyrarobana		-24.3509	-55.1162	A	ADM2	PY		19	1412			0		280	America/Asuncion	2018-04-08
+11840135	Mbocayaty	Mbocayaty		-25.70773	-56.36579	A	ADM2	PY		10	0411			0		155	America/Asuncion	2018-04-08
+11840136	Puerto Casado	Puerto Casado		-21.66691	-58.97986	A	ADM2	PY		23	1702			0		109	America/Asuncion	2018-04-08
+11840137	3 De Febrero	3 De Febrero		-25.21261	-55.80808	A	ADM2	PY		04	0518			0		290	America/Asuncion	2018-04-08
+11840138	Dr. Juan Leon Mallorquin	Dr. Juan Leon Mallorquin	Doctor Juan Leon Mallorquin,Doctor Juan León Mallorquín	-25.48375	-55.25453	A	ADM2	PY		01	1004			0		222	America/Asuncion	2020-06-16
+11840139	Horqueta	Horqueta		-23.25651	-56.838	A	ADM2	PY		07	0103			0		257	America/Asuncion	2018-04-08
+11840140	Yvytimi	Yvytimi		-25.78094	-56.76705	A	ADM2	PY		15	0917			0		151	America/Asuncion	2018-04-08
+11840141	Nueva Italia	Nueva Italia		-25.77312	-57.4769	A	ADM2	PY		06	1111			0		66	America/Asuncion	2018-04-08
+11840142	Carayao	Carayao		-25.18748	-56.32904	A	ADM2	PY		04	0503			0		154	America/Asuncion	2018-04-08
+11840143	Yryvu Cua	Yryvu Cua		-24.50473	-56.13708	A	ADM2	PY		17	0219			0		235	America/Asuncion	2018-04-08
+11840144	Itape	Itape		-25.85451	-56.56678	A	ADM2	PY		10	0408			0		149	America/Asuncion	2018-04-08
+11840145	Pilar	Pilar		-26.90314	-58.2168	A	ADM2	PY		13	1201			0		58	America/Asuncion	2018-04-08
+11840146	Santa Rosa Del Monday	Santa Rosa Del Monday		-25.84562	-54.92318	A	ADM2	PY		01	1015			0		262	America/Asuncion	2018-04-08
+11840147	Ita	Ita		-25.52973	-57.37439	A	ADM2	PY		06	1105			0		103	America/Asuncion	2018-04-08
+11840148	Dr. Juan Manuel Frutos	Dr. Juan Manuel Frutos		-25.36211	-55.82163	A	ADM2	PY		04	0506			0		314	America/Asuncion	2018-04-08
+11840149	Raul Arsenio Oviedo	Raul Arsenio Oviedo		-25.15375	-55.57547	A	ADM2	PY		04	0514			0		224	America/Asuncion	2018-04-08
+11840150	Felix Perez Cardozo	Felix Perez Cardozo		-25.71215	-56.53142	A	ADM2	PY		10	0405			0		140	America/Asuncion	2018-04-08
+11840151	Carlos Antonio Lopez	Carlos Antonio Lopez		-26.35738	-54.9257	A	ADM2	PY		11	0709			0		287	America/Asuncion	2018-04-08
+11840152	Villeta	Villeta		-25.71155	-57.60714	A	ADM2	PY		06	1116			0		64	America/Asuncion	2018-04-08
+11840153	Guazu Cua	Guazu Cua		-26.92643	-57.99032	A	ADM2	PY		13	1206			0		63	America/Asuncion	2018-04-08
+11840154	La Pastora	La Pastora		-25.2508	-56.5502	A	ADM2	PY		04	0517			0		124	America/Asuncion	2018-04-08
+11840155	Limpio	Limpio		-25.15747	-57.47505	A	ADM2	PY		06	1108			0		90	America/Asuncion	2018-04-08
+11840156	Fuerte Olimpo	Fuerte Olimpo		-20.70205	-58.96212	A	ADM2	PY		23	1701			0		106	America/Asuncion	2018-04-08
+11840157	Caacupe	Caacupe		-25.38041	-57.12673	A	ADM2	PY		08	0301			56864		167	America/Asuncion	2022-04-03
+11840158	Antequera	Antequera		-24.09076	-57.16917	A	ADM2	PY		17	0202			0		71	America/Asuncion	2018-04-08
+11840159	Ñacunday	Nacunday		-26.06949	-54.78158	A	ADM2	PY		01	1008			0		246	America/Asuncion	2018-04-08
+11840160	3 De Mayo	3 De Mayo		-26.40549	-56.06766	A	ADM2	PY		05	0611			0		153	America/Asuncion	2018-04-08
+11840161	Santa Rosa	Santa Rosa		-26.87136	-56.79426	A	ADM2	PY		12	0807			0		162	America/Asuncion	2018-04-08
+11840162	Caazapa	Caazapa		-26.17881	-56.28831	A	ADM2	PY		05	0601			0		109	America/Asuncion	2018-04-08
+11840163	Arroyos Y Esteros	Arroyos Y Esteros		-25.04278	-57.16247	A	ADM2	PY		08	0303			0		156	America/Asuncion	2018-04-08
+11840164	Yataity	Yataity		-25.66625	-56.47535	A	ADM2	PY		10	0415			0		125	America/Asuncion	2018-04-08
+11840165	Yhu	Yhu		-25.05949	-55.90861	A	ADM2	PY		04	0511			0		319	America/Asuncion	2018-04-11
+11840166	Ypacarai	Ypacarai		-25.39331	-57.26419	A	ADM2	PY		06	1117			0		70	America/Asuncion	2018-04-08
+11840167	Puerto Pinasco	Puerto Pinasco		-22.75881	-58.49017	A	ADM2	PY		16	1503			0		95	America/Asuncion	2018-04-08
+11840168	Natalio	Natalio		-26.73436	-55.13926	A	ADM2	PY		11	0710			0		231	America/Asuncion	2018-04-08
+11840169	Pirapo	Pirapo		-26.83341	-55.51474	A	ADM2	PY		11	0729			9069		210	America/Asuncion	2022-04-03
+11840170	Santa Rosa Del Aguaray	Santa Rosa Del Aguaray		-23.75906	-56.27188	A	ADM2	PY		17	0218			0		236	America/Asuncion	2018-04-08
+11840171	Hernandarias	Hernandarias		-25.31506	-54.77781	A	ADM2	PY		01	1005			0		246	America/Asuncion	2018-04-08
+11840172	Bella Vista	Bella Vista		-22.47083	-56.45479	A	ADM2	PY		02	1302			0		237	America/Asuncion	2018-04-08
+11840173	Vaqueria	Vaqueria	San Blas,San Blás	-24.97494	-55.76291	A	ADM2	PY		04	0520			0		287	America/Asuncion	2018-04-11
+11840174	La Paz	La Paz		-26.97791	-55.89728	A	ADM2	PY		11	0726			0		211	America/Asuncion	2018-04-08
+11840175	Iturbe	Iturbe		-26.07228	-56.47103	A	ADM2	PY		10	0409			0		132	America/Asuncion	2018-04-08
+11840176	Itacurubi De La Cordillera	Itacurubi De La Cordillera		-25.45227	-56.86402	A	ADM2	PY		08	0309			0		162	America/Asuncion	2018-04-08
+11840177	Itaugua	Itaugua		-25.3936	-57.35327	A	ADM2	PY		06	1106			100456		142	America/Asuncion	2022-04-03
+11840178	General Delgado	General Delgado		-27.05952	-56.5522	A	ADM2	PY		11	0713			0		97	America/Asuncion	2018-04-08

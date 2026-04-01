@@ -1,0 +1,133 @@
+﻿243701	Harazé Mangueigne	Haraze Mangueigne	Haraze,Haraze Mangueigne,Harazé Mangueigne	9.91667	20.8	A	ADM2	TD		13	243701			0		414	Africa/Ndjamena	2015-08-03
+7670580	Baguirmi	Baguirmi		11.42147	16.34638	A	ADM2	TD		15	7670580			0		332	Africa/Ndjamena	2011-03-01
+7670581	Dababa	Dababa		12.81276	16.72346	A	ADM2	TD		15	7670581			0		299	Africa/Ndjamena	2011-03-01
+7670584	Mayo-Boneye	Mayo-Boneye		10.4113	15.59434	A	ADM2	TD		16	7670584			0		327	Africa/Ndjamena	2012-04-07
+7670586	Tandjilé Est	Tandjile Est		9.66257	16.72346	A	ADM2	TD		14	7670586			0		346	Africa/Ndjamena	2011-03-01
+7731692	Barh Köh	Barh Koeh		9.27341	18.24626	A	ADM2	TD		17	7731692			0		360	Africa/Ndjamena	2012-04-07
+7731693	Monts de Lam	Monts de Lam		7.90822	15.89286	A	ADM2	TD		09	7731693			0		480	Africa/Ndjamena	2012-04-07
+7731694	Nya Pendé	Nya Pende		8.16929	16.43508	A	ADM2	TD		09	7731694			0		485	Africa/Ndjamena	2011-03-19
+7731695	Lanya	Lanya		8.57856	16.65847	A	ADM2	TD		09	7731695			0		396	Africa/Ndjamena	2011-03-19
+7731696	Pendé	Pende		8.62412	16.95869	A	ADM2	TD		09	7731696			0		389	Africa/Ndjamena	2011-03-19
+7731697	Mandoul Oriental	Mandoul Oriental		9.17399	17.63065	A	ADM2	TD		17	7731697			0		451	Africa/Ndjamena	2012-04-07
+7732962	Koumra	Koumra		8.84759	17.49388	A	ADM2	TD		17	7732962			0		412	Africa/Ndjamena	2011-04-06
+7732963	Bessada	Bessada		9.04301	17.78327	A	ADM2	TD		17	7732963			0		555	Africa/Ndjamena	2011-04-06
+7732972	Bedaya	Bedaya		9.03717	17.99021	A	ADM2	TD		17	7732972			0		443	Africa/Ndjamena	2011-04-06
+7732974	Djoli	Djoli		9.32257	18.02946	A	ADM2	TD		17	7732974			0		400	Africa/Ndjamena	2011-04-06
+7732975	Balimba	Balimba		8.95817	18.18651	A	ADM2	TD		17	7732975			0		369	Africa/Ndjamena	2011-04-06
+7732978	Sarh	Sarh	sar,sarh,sart,سار,سارة,ساره,صارح	9.14633	18.39008	A	ADM2	TD		17	7732978			0		375	Africa/Ndjamena	2019-03-08
+7732980	Doba	Doba		8.6505	16.94294	A	ADM2	TD		09	7732980			0		390	Africa/Ndjamena	2011-04-06
+7871202	Lac Wey	Lac Wey		8.70502	15.98303	A	ADM2	TD		08	7871202			0		469	Africa/Ndjamena	2011-06-21
+8250831	Dodje	Dodje		8.7	15.53	A	ADM2	TD		08	8250831			0		411	Africa/Ndjamena	2012-04-07
+8250832	Ngourkosso	Ngourkosso		8.97	16.38	A	ADM2	TD		08	8250832			0		441	Africa/Ndjamena	2012-04-07
+8250833	La Nya Pende	La Nya Pende		7.99	16.55	A	ADM2	TD		09	8250833			0		456	Africa/Ndjamena	2012-04-07
+8250834	Lac Iro	Lac Iro		9.59	19.23	A	ADM2	TD		17	8250834			0		382	Africa/Ndjamena	2012-04-07
+8250835	Grande Sido	Grande Sido		8.43	18.58	A	ADM2	TD		17	8250835			0		393	Africa/Ndjamena	2012-04-07
+8250836	Mandoul Occidental	Mandoul Occidental		8.66	17.31	A	ADM2	TD		17	8250836			0		428	Africa/Ndjamena	2012-04-07
+8250837	Barh Sara	Barh Sara		8.34	17.72	A	ADM2	TD		17	8250837			0		388	Africa/Ndjamena	2012-04-07
+8250838	Tandjile Ouest	Tandjile Ouest		9.36	15.79	A	ADM2	TD		14	8250838			0		369	Africa/Ndjamena	2012-04-07
+8335048	Mansaba	Mansaba		12.29	-15.18	A	ADM2	TD		15	8335048			0		34	Africa/Ndjamena	2012-06-13
+8659322	Batha	Batha		13.28972	19.69028	A	ADM2	TD		01	8659322			0		398	Africa/Ndjamena	2014-01-16
+8659323	Ouara	Ouara		14.18333	20.7	A	ADM2	TD		12	8659323			0		510	Africa/Ndjamena	2014-01-16
+8693069	Dagana District	Dagana District		12.99528	15.7325	A	ADM2	TD		15	8693069			0		287	Africa/Ndjamena	2014-02-01
+8693073	Rig-Rig	Rig-Rig		14.26471	14.35216	A	ADM2	TD		06	8693073			0		307	Africa/Ndjamena	2014-02-01
+8693074	Mamdi Department	Mamdi Department		13.4741	14.70529	A	ADM2	TD		09	8693074			0		279	Africa/Ndjamena	2014-02-01
+9072808	Loug Chari	Loug Chari		10.57861	16.76788	A	ADM2	TD		15	9072808			0		337	Africa/Ndjamena	2014-06-05
+9166522	Barh Signaka	Barh Signaka		10.93677	18.6171	A	ADM2	TD		05	9166522			0		482	Africa/Ndjamena	2014-06-20
+9166643	Fitri	Fitri		12.86047	17.53418	A	ADM2	TD		01	9166643			0		293	Africa/Ndjamena	2014-06-20
+9166667	Chari	Chari	shary,شاري	12.05	15.3	A	ADM2	TD		15	9166667			0		298	Africa/Ndjamena	2025-07-27
+10377074	Kobé	Kobe	Kobe	15.12806	22.24972	A	ADM2	TD		02	10377074			0		940	Africa/Ndjamena	2015-07-16
+10377165	Assoungha Department	Assoungha Department	Assongha	13.66237	21.91554	A	ADM2	TD		12	10377165			0		901	Africa/Ndjamena	2015-07-17
+10399865	Barh Azoum	Barh Azoum		11.05	20.28	A	ADM2	TD		13	10399865			0		437	Africa/Ndjamena	2015-07-22
+10400441	Wayi	Wayi		13.64278	15.36861	A	ADM2	TD		07	10400441			0		300	Africa/Ndjamena	2015-07-27
+10400446	Abtouyour	Abtouyour		11.9811	18.21258	A	ADM2	TD		05	10400446			0		467	Africa/Ndjamena	2015-07-27
+12180662	Septième Arrondissement	Septieme Arrondissement	7eme Arrondissement,7ème Arrondissement,Septieme Arrondissement,Septième Arrondissement,الدائرة السابعة	12.09772	15.15023	A	ADM2	TD		21	12180662			0		296	Africa/Ndjamena	2020-08-15
+12180663	Huitième Arrondissement	Huitieme Arrondissement	8eme Arrondissement,8ème Arrondissement,Huitieme Arrondissement,Huitième Arrondissement,aldayrt althamnt,الدائرة الثامنة	12.14846	15.10404	A	ADM2	TD		21	12180663			0		296	Africa/Ndjamena	2020-08-15
+12180683	Premier Arrondissement	Premier Arrondissement	1er Arrondissement,Premier Arrondissement,aldayrt alawly,الدائرة الأولى	12.14771	15.0099	A	ADM2	TD		21	12180683			0		294	Africa/Ndjamena	2020-08-15
+12180684	Deuxième Arrondissement	Deuxieme Arrondissement	2eme Arrondissement,2ème Arrondissement,Deuxieme Arrondissement,Deuxième Arrondissement,aldayrt althanyt,الدائرة الثانية	12.1381	15.03771	A	ADM2	TD		21	12180684			0		294	Africa/Ndjamena	2020-08-15
+12180685	Troisième Arrondissement	Troisieme Arrondissement	3eme Arrondissement,3ème Arrondissement,Troisieme Arrondissement,Troisième Arrondissement,aldayrt althaltht,الدائرة الثالثة	12.10062	15.05202	A	ADM2	TD		21	12180685			0		301	Africa/Ndjamena	2020-08-15
+12180686	Quatrième Arrondissement	Quatrieme Arrondissement	4eme Arrondissement,4ème Arrondissement,Quatrieme Arrondissement,Quatrième Arrondissement,الدائرة الرابعة	12.12815	15.0569	A	ADM2	TD		21	12180686			0		297	Africa/Ndjamena	2020-08-15
+12180687	Cinquième Arrondissement	Cinquieme Arrondissement	5eme Arrondissement,5ème Arrondissement,Cinquieme Arrondissement,Cinquième Arrondissement,aldayrt alkhamst,الدائرة الخامسة	12.11911	15.06997	A	ADM2	TD		21	12180687			0		297	Africa/Ndjamena	2020-08-15
+12180688	Sixième Arrondissement	Sixieme Arrondissement	6eme Arrondissement,6ème Arrondissement,Sixieme Arrondissement,Sixième Arrondissement,aldayrt alsadst,الدائرة السادسة	12.09851	15.07394	A	ADM2	TD		21	12180688			0		298	Africa/Ndjamena	2020-08-15
+12180689	Neuvième Arrondissement	Neuvieme Arrondissement	9eme Arrondissement,9ème Arrondissement,Neuvieme Arrondissement,Neuvième Arrondissement,الدائرة التاسعة	12.04925	15.0919	A	ADM2	TD		21	12180689			0		295	Africa/Ndjamena	2020-08-15
+12180690	Dixième Arrondissement	Dixieme Arrondissement	10eme Arrondissement,10ème Arrondissement,Dixieme Arrondissement,Dixième Arrondissement,الدائرة العاشرة	12.18235	15.06609	A	ADM2	TD		21	12180690			0		293	Africa/Ndjamena	2020-08-15
+12186503	El Ouaya	El Ouaya	Departement d'El Ouaya,Département d'El Ouaya,El Ouaya,alwaya,mhafzt alwaya,الوايا,محافظة الوايا	9.54314	14.44799	A	ADM2	TD		20	12186503			0		318	Africa/Ndjamena	2020-09-16
+12186504	Kimiti	Kimiti	Departement de Kimiti,Département de Kimiti,Kimiti,Kimitini,kymty,mhafzt kymty,كيمتي,محافظة كيمتي	12.0101	21.35168	A	ADM2	TD		25	12186504			0		503	Africa/Ndjamena	2020-09-16
+12186505	Tissi	Tissi	Departement de Tissi,Département de Tissi,Tissi,mhafzt tysy,tysy,تيسي,محافظة تيسي	11.11128	22.78111	A	ADM2	TD		25	12186505			0		530	Africa/Ndjamena	2020-09-16
+12186506	Lac Léré	Lac Lere	Departement du Lac Lere,Département du Lac Léré,Lac Lere,Lac Léré,Lac-Lere,Lac-Leré,Lac-Léré,bhyrt lyry,mhafzt bhyrt lyry,بحيرة ليري,محافظة بحيرة ليري	9.72893	14.16046	A	ADM2	TD		20	12186506			0		310	Africa/Ndjamena	2020-09-16
+12186513	Adé	Ade	Ade,Adé,Departement d'Ade,Département d'Adé,ady,mhafzt ady,آدي,محافظة آدي	12.45615	22.24073	A	ADM2	TD		25	12186513			0		688	Africa/Ndjamena	2020-09-16
+12186514	Koukou-Angarana	Koukou-Angarana	Departement de Koukou-Angarana,Département de Koukou-Angarana,Koukou Angarana,Koukou-Angarana,kwkw anqrarna,mhafzt kwkw anqrarna,كوكو انقرارنا,محافظة كوكو انقرارنا	11.99663	21.69174	A	ADM2	TD		25	12186514			0		515	Africa/Ndjamena	2020-09-16
+12186525	Mayo-Dallah	Mayo-Dallah	Departement du Mayo-Dallah,Département du Mayo-Dallah,Mayo Dallah,Mayo-Dallah,mayw-dala,mhafzt mayw-dala,مايو-دالّا,محافظة مايو-دالّا	9.3425	14.84337	A	ADM2	TD		20	12186525			0		434	Africa/Ndjamena	2020-09-16
+12186526	Mayo-Binder	Mayo-Binder	Departement du Mayo-Binder,Département du Mayo-Binder,Mayo Binder,Mayo-Binder,mayw bndyr,mhafzt mayw bndyr,مايو بندير,محافظة مايو بندير	9.88567	14.49425	A	ADM2	TD		20	12186526			0		398	Africa/Ndjamena	2020-09-16
+12186527	Gagal	Gagal	Departement de Gagal,Département de Gagal,Gagal,mhafzt qaqal,qaqal,قاقال,محافظة قاقال	8.89758	15.19348	A	ADM2	TD		20	12186527			0		450	Africa/Ndjamena	2020-09-16
+12186528	Guéni	Gueni	Departement de Gueni,Département de Gueni,Département de Guéni,Gueni,Guéni,mhafzt qyny,qyny,قيني,محافظة قيني	8.99229	15.87424	A	ADM2	TD		08	12186528			0		412	Africa/Ndjamena	2020-09-16
+12186529	Kouh-Est	Kouh-Est	Departement de Kouh-Est,Departement du Kouh-Est,Département de Kouh-Est,Département du Kouh-Est,Kouh-Est,kwh alshrqyt,mhafzt kwh alshrqyt,كوه الشرقية,محافظة كوه الشرقية	8.41425	17.06593	A	ADM2	TD		09	12186529			0		400	Africa/Ndjamena	2020-09-16
+12186530	Kouh-Ouest	Kouh-Ouest	Departement de Kouh-Ouest,Departement du Kouh Ouest,Département de Kouh-Ouest,Département du Kouh Ouest,Kouh Ouest,Kouh-Ouest,kwh alghrbyt,mhafzt kwh alghrbyt,كوه الغربية,محافظة كوه الغربية	8.15544	16.87436	A	ADM2	TD		09	12186530			0		482	Africa/Ndjamena	2020-09-16
+12186531	La Pendé	La Pende	Departement de la Pende,Département de la Pendé,La Pende,La Pendé,la byndy,mhafzt la byndy,لا بيندي,محافظة لا بيندي	8.91331	16.88354	A	ADM2	TD		09	12186531			0		379	Africa/Ndjamena	2020-09-16
+12186532	Tandjilé-Centre	Tandjile-Centre	Departement de la Tandjile-Centre,Département de la Tandjilé-Centre,Tandjile Centre,Tandjile-Centre,Tandjilé Centre,Tandjilé-Centre,mhafzt tanjyly wst,tanjyly wst,تانجيلي وسط,محافظة تانجيلي وسط	9.26066	16.14053	A	ADM2	TD		14	12186532			0		368	Africa/Ndjamena	2020-09-16
+12186533	Manga	Manga	Departement de Manga,Département de Manga,Manga,manqa,mhafzt manqa,مانقا,محافظة مانقا	9.46984	17.03106	A	ADM2	TD		14	12186533			0		346	Africa/Ndjamena	2020-09-16
+12186534	Manbagué	Manbague	Departement de Manbague,Département de Manbagué,Manbague,Manbagué,manbaqyh,mhafzt manbaqyh,مانباقيه,محافظة مانباقيه	9.16808	15.5311	A	ADM2	TD		14	12186534			0		423	Africa/Ndjamena	2020-09-16
+12186535	Goundi	Goundi	Departement de Goundi,Département de Goundi,Goundi,mhafzt qndy,qndy,قُندي,محافظة قُندي	9.41251	17.37201	A	ADM2	TD		19	12186535			0		368	Africa/Ndjamena	2020-09-16
+12186536	Taralnass	Taralnass	Departement de Taralnass,Département de Taralnass,Taralnass,mhafzt taralnas,taralnas,تارالناس,محافظة تارالناس	9.04555	17.27809	A	ADM2	TD		19	12186536			0		379	Africa/Ndjamena	2020-09-16
+12186537	La Moula	La Moula	Departement de la Moula,Département de la Moula,La Moula,Moula,la mwla,mhafzt la mwla,لا مولا,محافظة لا مولا	8.1679	18.03629	A	ADM2	TD		19	12186537			0		394	Africa/Ndjamena	2020-09-16
+12186538	Kabia	Kabia	Departement de la Kabbia,Departement de la Kabia,Département de la Kabbia,Département de la Kabia,Kabbia,Kabia,kabya,mhafzt kabya,كابيا,محافظة كابيا	9.47255	15.41599	A	ADM2	TD		16	12186538			0		381	Africa/Ndjamena	2020-09-16
+12186539	Mayo-Lemié	Mayo-Lemie	Departement du Mayo-Lemie,Département du Mayo-Lemié,Mayo Lemie,Mayo Lemié,Mayo-Lemie,Mayo-Lemié,Mayo-Lémié,mayw-lymy,mhafzt mayw-lymy,مايو-ليمي,محافظة مايو-ليمي	10.86201	15.5335	A	ADM2	TD		16	12186539			0		317	Africa/Ndjamena	2020-09-16
+12186540	Mont-Illi	Mont-Illi	Departement de Mont-Illi,Département de Mont-Illi,Mont Illi,Mont-Illi,mhafzt mwn ayly,mwn ayly,محافظة مون إيلي,مون إيلي	9.87026	15.15404	A	ADM2	TD		16	12186540			0		322	Africa/Ndjamena	2020-09-16
+12186541	Dourbali	Dourbali	Departement de Dourbali,Dourbali,Département de Dourbali,drbaly,mhafzt drbaly,دُربالي,محافظة دُربالي	11.92867	15.62867	A	ADM2	TD		15	12186541			0		300	Africa/Ndjamena	2020-09-16
+12186542	Korbol	Korbol	Departement de Korbol,Département de Korbol,Korbol,kwrbwl,mhafzt kwrbwl,كوربول,محافظة كوربول	9.97868	18.00894	A	ADM2	TD		17	12186542			0		369	Africa/Ndjamena	2020-09-16
+12186543	Mangalmé	Mangalme	Departement de Mangalme,Département de Mangalmé,Mangalme,Mangalmé,mhafzt mnqlmy,mnqlmy,محافظة منقلمي,منقلمي	12.53652	19.60839	A	ADM2	TD		05	12186543			0		444	Africa/Ndjamena	2020-09-16
+12186544	Garada	Garada	Departement de Garada,Département de Garada,Garada,mhafzt qrda,qrda,قرضا,محافظة قرضا	11.30114	17.95914	A	ADM2	TD		05	12186544			0		390	Africa/Ndjamena	2020-09-16
+12186545	Aboudeia	Aboudeia	Aboudeia,Aboudeïa,Departement d'Aboudeia,Département d'Aboudeia,abw dya,mhafzt abw dya,أبو ديا,محافظة أبو ديا	11.56564	19.59283	A	ADM2	TD		13	12186545			0		453	Africa/Ndjamena	2020-09-16
+12186546	Abdi	Abdi	Abdi,Departement d'Abdi,Département d'Abdi,abdy,mhafzt abdy,أبدي,محافظة أبدي	12.90371	21.23896	A	ADM2	TD		12	12186546			0		510	Africa/Ndjamena	2020-09-16
+12186547	Djourf-Al-Ahmar	Djourf-Al-Ahmar	Departement du Djourf-Al-Ahmar,Djourf-Al-Ahmar,Djourouf Al Ahmar,Département du Djourf-Al-Ahmar,aljrf alahmr,mhafzt aljrf alahmr,الجرف الأحمر,محافظة الجرف الأحمر	12.6438	20.55689	A	ADM2	TD		25	12186547			0		463	Africa/Ndjamena	2020-09-16
+12186831	Abougoudam	Abougoudam	Abougoudam,Departement d'Aboudgoudam,Département d'Aboudgoudam,abw qdam,mhafzt abw qdam,أبو قدام,محافظة أبو قدام	13.54752	20.64976	A	ADM2	TD		12	12186831			0		491	Africa/Ndjamena	2020-09-16
+12186832	Biltine	Biltine	Biltine,Departement de Biltine,Département de Biltine,bltn,mhafzt bltn,بلتن,محافظة بلتن	14.58445	20.89073	A	ADM2	TD		02	12186832			0		502	Africa/Ndjamena	2020-09-16
+12186833	Dar-Tama	Dar-Tama	Dar Tama,Dar-Tama,Departement de Dar-Tama,Département de Dar-Tama,dar tama,mhafzt dar tama,دار تاما,محافظة دار تاما	14.45032	21.98413	A	ADM2	TD		02	12186833			0		988	Africa/Ndjamena	2020-09-16
+12186834	Mégri	Megri	Departement de Megri,Departement du Megri,Département de Mégri,Département du Mégri,Megri,Mégri,mhafzt myqry,myqry,محافظة ميقري,ميقري	15.53558	21.85406	A	ADM2	TD		02	12186834			0		653	Africa/Ndjamena	2020-09-16
+12186848	Iriba	Iriba	Departement d'Iriba,Département d'Iriba,Iriba,aryba,mhafzt aryba,إريبا,محافظة إريبا,هرباء	15.12854	22.42217	A	ADM2	TD		02	12186848			0		915	Africa/Ndjamena	2020-09-16
+12186849	Al-Biher	Al-Biher	Al-Biher,Departement d'Al-Biher,Département d'Al-Biher,albhyr,mhafzt albhyr,البحير,محافظة البحير	14.98051	20.6262	A	ADM2	TD		02	12186849			0		452	Africa/Ndjamena	2020-09-16
+12186850	Dar-Alfawakih	Dar-Alfawakih	Dar-Alfawakih,Departement de Dar-Alfawakih,Département de Dar-Alfawakih,dar alfwakh,mhafzt dar alfwakh,دار الفواكه,محافظة دار الفواكه	14.3296	21.28146	A	ADM2	TD		02	12186850			0		834	Africa/Ndjamena	2020-09-16
+12186851	Amdjarass	Amdjarass	Amdjarass,Departement d'Amdjarass,Département d'Amdjarass,am jrs,mhafzt am jrs,أم جرس,محافظة أم جرس	16.05282	22.73362	A	ADM2	TD		27	12186851			0		880	Africa/Ndjamena	2020-09-16
+12186852	Wadi-Hawar	Wadi-Hawar	Departement de Wadi Hawar,Departement du Wadi-Hawar,Département de Wadi Hawar,Département du Wadi-Hawar,Wadi Hawar,Wadi-Hawar,mhafzt wady hwar,wady hwar,محافظة وادي حوار,وادي حوار	15.58729	22.93016	A	ADM2	TD		02	12186852			0		800	Africa/Ndjamena	2020-09-16
+12186853	Itou	Itou	Departement d'Itou,Département d'Itou,Itou,aytw,mhafzt aytw,إيتو,محافظة إيتو	16.54055	22.38657	A	ADM2	TD		27	12186853			0		916	Africa/Ndjamena	2020-09-16
+12186854	Bao	Bao	Bao,Departement de Bao,Département de Bao,baw,mhafzt baw,باو,محافظة باو	16.50826	23.02653	A	ADM2	TD		27	12186854			0		949	Africa/Ndjamena	2020-09-16
+12186855	Mourdi	Mourdi	Departement de Mourdi,Département de Mourdi,Mourdi,mhafzt mwrdy,mwrdy,محافظة موردي,موردي	17.82948	22.56873	A	ADM2	TD		27	12186855			0		564	Africa/Ndjamena	2020-09-16
+12186856	Fada	Fada	Departement de Fada,Département de Fada,Fada,fda,mhafzt fda,فدا,محافظة فدا	17.15212	21.4996	A	ADM2	TD		28	12186856			0		550	Africa/Ndjamena	2020-09-16
+12186857	Mourtcha	Mourtcha	Departement du Mourtcha,Département du Mourtcha,Mourtcha,mhafzt mrtsha,mrtsha,محافظة مُرتشا,مُرتشا	15.94391	20.85132	A	ADM2	TD		28	12186857			0		478	Africa/Ndjamena	2020-09-16
+12186858	Lac-Ounianga	Lac-Ounianga	Departement du Lac-Ounianga,Département du Lac-Ounianga,Lac-Ounianga,bhyrt awnyangha,mhafzt bhyrt awnyangha,بحيرة أونيانغا,محافظة بحيرة أونيانغا	18.99986	20.67433	A	ADM2	TD		28	12186858			0		447	Africa/Ndjamena	2020-09-16
+12186859	Gouro	Gouro	Departement de Gouro,Département de Gouro,Gouro,mhafzt qwrw,qwrw,قورو,محافظة قورو	19.53033	19.62077	A	ADM2	TD		23	12186859			0		571	Africa/Ndjamena	2020-09-16
+12186860	Tebi	Tebi	Departement de Tebi,Département de Tebi,Tebi,mhafzt tyby,tyby,تيبي,محافظة تيبي	17.11418	21.97198	A	ADM2	TD		28	12186860			0		877	Africa/Ndjamena	2020-09-16
+12186861	Torbol	Torbol	Departement de Torbol,Département de Torbol,Torbol,mhafzt twrbwl,twrbwl,توربول,محافظة توربول	15.99752	21.71246	A	ADM2	TD		28	12186861			0		577	Africa/Ndjamena	2020-09-16
+12186862	Borkou	Borkou	Borkou,Departement de Borkou,Département de Borkou,bwrkw,mhafzt bwrkw,بوركو,محافظة بوركو	17.08095	19.90589	A	ADM2	TD		23	12186862			0		367	Africa/Ndjamena	2020-09-16
+12186863	Borkou-Yala	Borkou-Yala	Borkou-Yala,Departement de Borkou-Yala,Département de Borkou-Yala,bwrkw-yala,mhafzt bwrkw-yala,بوركو-يالا,محافظة بوركو-يالا	18.40284	18.39738	A	ADM2	TD		23	12186863			0		413	Africa/Ndjamena	2020-09-16
+12186864	Kouba	Kouba	Departement de Kouba,Département de Kouba,Kouba,kba,mhafzt kba,كُبا,محافظة كُبا	15.70289	18.27523	A	ADM2	TD		23	12186864			0		264	Africa/Ndjamena	2020-09-16
+12186865	Emi-Koussi	Emi-Koussi	Departement d'Emi-Koussi,Département d'Emi-Koussi,Emi-Koussi,aymy kwsy,mhafzt aymy kwsy,إيمي كوسي,محافظة إيمي كوسي	20.36159	18.14312	A	ADM2	TD		23	12186865			0		1143	Africa/Ndjamena	2020-09-16
+12186866	Tibesti-Est	Tibesti-Est	Bardai,Bardaï,Departement du Tibesti-Est,Département du Tibesti-Est,Tibesti Est,Tibesti-Est,mhafzt tbsty alshrqyt,tbsty alshrqyt,tybsty alshrqyt,تبستي الشرقية,تيبستي الشرقية,محافظة تبستي الشرقية	21.27231	17.1662	A	ADM2	TD		26	12186866			0		1174	Africa/Ndjamena	2020-09-16
+12186867	Tibesti-Ouest	Tibesti-Ouest	Departement de Tibesti-Ouest,Departement du Tibesti-Ouest,Département de Tibesti-Ouest,Département du Tibesti-Ouest,Tibesti Ouest,Tibesti-Ouest,Zouar,mhafzt tbsty alghrbyt,tbsty alghrbyt,tbysty alghrbyt,تبستي الغربية,تبيستي الغربية,محافظة تبستي الغربية	20.47649	16.58563	A	ADM2	TD		26	12186867			0		817	Africa/Ndjamena	2020-09-16
+12186887	Wour	Wour	Departement de Wour,Département de Wour,Wour,mhafzt wwr,wwr,محافظة وور,وور	21.36156	16.0343	A	ADM2	TD		26	12186887			0		826	Africa/Ndjamena	2020-09-16
+12186889	Aouzou	Aouzou	Aouzou,Departement d'Aouzou,Département d'Aouzou,awzw,mhafzt awzw,أوزو,محافظة أوزو	21.84688	17.45113	A	ADM2	TD		26	12186889			0		1091	Africa/Ndjamena	2020-09-16
+12186890	Batha-Est	Batha-Est	Batha-Est,Departement du Batha-Est,Département du Batha-Est,البطحاء الشرقية,محافظة البطحاء الشرقية	13.3972	20.01464	A	ADM2	TD		01	12186890			0		421	Africa/Ndjamena	2020-09-16
+12186891	Batha-Ouest	Batha-Ouest	Batha-Ouest,Departement du Batha-Ouest,Département du Batha-Ouest,البطحاء الغربية,محافظة البطحاء الغربية	12.9889	18.34964	A	ADM2	TD		01	12186891			0		337	Africa/Ndjamena	2020-09-16
+12186892	Ouadi Rimé	Ouadi Rime	Departement de Ouadi Rime,Département de Ouadi Rimé,Ouadi Rime,Ouadi Rimé,mhafzt wady rymh,wady rymh,محافظة وادي ريمه,وادي ريمه	13.55516	19.05309	A	ADM2	TD		01	12186892			0		360	Africa/Ndjamena	2020-09-16
+12186894	Assinet	Assinet	Assinet,Departement d'Assinet,Département d'Assinet,alsnyt,mhafzt alsnyt,الصنيط,محافظة الصنيط	13.17636	19.20461	A	ADM2	TD		01	12186894			0		370	Africa/Ndjamena	2020-09-16
+12186897	Haraze	Haraze	Departement de Haraze,Département de Haraze,Haraze,hraz,mhafzt hraz,حراز,محافظة حراز	13.94612	19.48059	A	ADM2	TD		01	12186897			0		375	Africa/Ndjamena	2020-09-16
+12186898	Barh-El-Gazel Nord	Barh-El-Gazel Nord	Barh-El-Gazel Nord,Departement du Barh-El-Gazel Nord,Département du Barh-El-Gazel Nord,bhr alghzal shmal,mhafzt bhr alghzal shmal,بحر الغزال شمال,محافظة بحر الغزال شمال	14.87011	17.11449	A	ADM2	TD		22	12186898			0		282	Africa/Ndjamena	2020-09-16
+12186899	Barh-El-Gazel Sud	Barh-El-Gazel Sud	Barh-El-Gazel Sud,Departement du Barh-El-Gazel Sud,Département du Barh-El-Gazel Sud,bhr alghzal jnwb,mhafzt bhr alghzal jnwb,بحر الغزال جنوب,محافظة بحر الغزال جنوب	13.49022	16.73029	A	ADM2	TD		22	12186899			0		305	Africa/Ndjamena	2020-09-16
+12186900	Barh-El-Gazel Ouest	Barh-El-Gazel Ouest	Barh-El-Gazel Ouest,Departement du Barh-El-Gazel Ouest,Département du Barh-El-Gazel Ouest,bhr alghzal ghrb,mhafzt bhr alghzal ghrb,بحر الغزال غرب,محافظة بحر الغزال غرب	13.40905	16.19186	A	ADM2	TD		22	12186900			0		298	Africa/Ndjamena	2020-09-16
+12186902	Kléta	Kleta	Departement de Kleta,Département de Kléta,Kleta,Kléta,klyta,mhafzt klyta,كليتا,محافظة كليتا	13.82076	15.77347	A	ADM2	TD		22	12186902			0		285	Africa/Ndjamena	2020-09-16
+12186903	Nord-Kanem	Nord-Kanem	Departement du Nord-Kanem,Département du Nord-Kanem,Nord Kanem,Nord-Kanem,mhafzt shmal kanm,shmal kanm,شمال كانم,محافظة شمال كانم	15.40132	15.25958	A	ADM2	TD		06	12186903			0		308	Africa/Ndjamena	2020-09-16
+12186904	Sud-Kanem	Sud-Kanem	Departement du Sud-Kanem,Département du Sud-Kanem,Sud-Kanem,jnwb kanm,mhafzt jnwb kanm,جنوب كانم,محافظة جنوب كانم	13.50096	15.68887	A	ADM2	TD		06	12186904			0		297	Africa/Ndjamena	2020-09-16
+12186905	Kouloudia	Kouloudia	Departement de Kouloudia,Doum-Doum,Département de Kouloudia,Kouloudia,dwm dwm,kwlwdya,mhafzt kwlwdya,دوم دوم,كولوديا,محافظة كولوديا	13.32736	15.22632	A	ADM2	TD		07	12186905			0		283	Africa/Ndjamena	2020-09-16
+12186906	Kaya	Kaya	Departement de Kaya,Département de Kaya,Kaya,kaya,mhafzt kaya,كايا,محافظة كايا	13.5752	14.31265	A	ADM2	TD		07	12186906			0		277	Africa/Ndjamena	2020-09-16
+12186907	Fouli	Fouli	Departement de Fouli,Département de Fouli,Fouli,fwly,mhafzt fwly,فولي,محافظة فولي	14.08388	13.91372	A	ADM2	TD		07	12186907			0		275	Africa/Ndjamena	2020-09-16
+12186908	Dababa	Dababa	Dababa,Departement de Dababa,Département de Dababa,dbabt,mhafzt dbabt,دبابة,محافظة دبابة	12.03844	17.19963	A	ADM2	TD		18	12186908			0		315	Africa/Ndjamena	2020-09-16
+12186909	Ngoura	Ngoura	Departement de Ngoura,Département de Ngoura,Ngoura,anqwra,mhafzt anqwra,انقورا,محافظة انقورا	12.73331	16.51456	A	ADM2	TD		18	12186909			0		289	Africa/Ndjamena	2020-09-16
+12186910	Haraz-Al-Biar	Haraz-Al-Biar	Departement de Haraz-Al-Biar,Département de Haraz-Al-Biar,Haraz Al-Biar,Haraz-Al-Biar,Haraz-Albiar,Haraze Al Biar,Haraze Al-Biar,hraz albyar,mhafzt hraz albyar,حراز البيار,محافظة حراز البيار	12.47151	15.38418	A	ADM2	TD		18	12186910			0		295	Africa/Ndjamena	2020-09-16
+13448894	La Nya	La Nya	Departement de la Nya,Departement du Nya,Département de la Nya,Département du Nya,La Nya,la nya,mhafzt la nya,لا نيا,محافظة لا نيا	8.63119	16.61175	A	ADM2	TD		09	13448894			0		404	Africa/Ndjamena	2025-07-19
+13448895	Tandjilé-Est	Tandjile-Est	Departement de la Tandjile-Est,Département de la Tandjilé-Est,Tandjile-Est,Tandjilé-Est,mhafzt tanjyly alshrqyt,tanjyly alshrqyt,تانجيلي الشرقية,محافظة تانجيلي الشرقية	9.58195	16.32644	A	ADM2	TD		14	13448895			0		354	Africa/Ndjamena	2025-07-19
+13448897	Barh-Koh	Barh-Koh	Bahr-Ko,Bahr-Kô,Barh-Koh,Departement de Barh-Koh,Departement du Barh-Koh,Département de Barh-Koh,Département du Barh-Koh,bhr-kwh,mhafzt bhr-kwh,بحر-كوه,محافظة بحر-كوه	8.98459	18.45481	A	ADM2	TD		17	13448897			0		347	Africa/Ndjamena	2025-07-19
+13448898	Barh-Signaka	Barh-Signaka	Bahr Signaka,Barh-Signaka,Departement de Barh-Signaka,Departement du Bahr Signaka,Département de Barh-Signaka,Département du Bahr Signaka,bhr-snjaka,mhafzt bhr-snjaka,بحر-سنجاكا,محافظة بحر-سنجاكا	10.62899	18.91135	A	ADM2	TD		05	13448898			0		454	Africa/Ndjamena	2025-07-19
+13448899	Guéra	Guera	Departement du Guera,Département du Guéra,Guera,Guéra,mhafzt qyra,qyra,قيرا,محافظة قيرا	12.13199	18.82111	A	ADM2	TD		05	13448899			0		1023	Africa/Ndjamena	2025-07-19
+13448900	Haraze-Mangueigne	Haraze-Mangueigne	Departement de Haraze-Mangueigne,Département de Haraze-Mangueigne,Haraze Mangueigne,Haraze-Mangueigne,hraz-mnqnj,mhafzt hraz-mnqnj,حراز-منقنج,محافظة حراز-منقنج	10.32715	21.23274	A	ADM2	TD		13	13448900			0		413	Africa/Ndjamena	2025-07-19
+13448908	Kanem	Kanem	Departement du Kanem,Département du Kanem,Kanem,kanm,mhafzt kanm,كانم,محافظة كانم	14.04961	15.17237	A	ADM2	TD		06	13448908			0		303	Africa/Ndjamena	2025-07-19
+13448909	Mamdi	Mamdi	Departement de Mamdi,Departement du Mamdi,Département de Mamdi,Département du Mamdi,Mamdi,mamdy,mhafzt mamdy,مامدي,محافظة مامدي	13.36048	14.80603	A	ADM2	TD		07	13448909			0		291	Africa/Ndjamena	2025-07-19
+13448910	Dagana	Dagana	Dagana,Departement de Dagana,Département de Dagana,aldqna,mhafzt aldqna,الدقنا,محافظة الدقنا	12.82384	15.35972	A	ADM2	TD		18	13448910			0		289	Africa/Ndjamena	2025-07-19

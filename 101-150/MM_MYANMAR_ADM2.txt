@@ -1,0 +1,73 @@
+﻿1285898	Yamethin District	Yamethin District	Yamethin,Yamethin District,Yamethinn	20.5022	96.11984	A	ADM2	MM		08	MMR010D006			0		199	Asia/Yangon	2016-06-05
+1290189	Mawlaik District	Mawlaik District	Mawlaik,Mawlaik District,Mawleik,Upper Chindwa District,Upper Chindwin District	23.92764	94.71738	A	ADM2	MM		10	MMR005D007			0		335	Asia/Yangon	2016-06-05
+1290595	Taungoo District	Taungoo District	Taungngu,Taungoo,Taungoo District,Taunngu,Toungoo,Toungoo District,districte de Taungoo,dong xu xian,dong yu xian,taungu jun,Тауннгу,တောင်ငူခရိုင်,တောင်ႏအူခရဲင်ႏ,တံင်အူခြိုင့်,တွင်ႇငူႇ၊ ၸႄႈတွၼ်ႈ,タウングー郡,東吁縣,東籲縣	18.62987	96.4164	A	ADM2	MM		16	MMR007D002			0		41	Asia/Yangon	2016-06-05
+1292036	Thayet District	Thayet District	Thayet,Thayet District,Thayetmo,Thayetmyo District,Thyatmyo	19.41673	95.06472	A	ADM2	MM		15	MMR009D003			0		123	Asia/Yangon	2016-06-05
+1292287	Thaton District	Thaton District	Tha-tun,Thadon,Thadôn,Thaton,Thaton District	17.1325	97.2747	A	ADM2	MM		13	MMR011D002			0		10	Asia/Yangon	2016-06-05
+1292312	Thayarwady District	Thayarwady District	Tharrawaddy District,Thayarwady,Thayarwady District	18	95.5	A	ADM2	MM		16	MMR008D002			0		18	Asia/Yangon	2016-05-30
+1293624	Dawei District	Dawei District	Dawei,Dawei District,Distrito de Dawei,Htawei,Tavoy District,dauei xian,districte de Dawei,tu wa xian,ထဝႄႇ၊ ၸႄႈတွၼ်ႈ,ထားဝယ်ခရိုင်,ダウェイ県,土瓦縣	14.09106	98.47457	A	ADM2	MM		12	MMR006D001			0		275	Asia/Yangon	2016-06-05
+1296732	Shwebo District	Shwebo District	Shwebo,Shwebo District,districte de Shwebo,rui bo xian,shuuebo xian,ရွှေဘိုခရိုင်,シュウェボ県,瑞波縣	23.00712	95.44818	A	ADM2	MM		10	MMR005D002			0		120	Asia/Yangon	2016-06-05
+1298070	Thandwe District	Thandwe District	Arakan District,Sandoway District,Thandway District,Thandwe,Thandwe District	18.51281	94.51979	A	ADM2	MM		01	MMR012D004			0		293	Asia/Yangon	2016-06-05
+1298481	Sagaing District	Sagaing District	Sagaing,Sagaing District,Sagaing-distriktet,Sikajn,Sikong,Sitkaing,Sugaing,districte de Sagaing,shi jie xian,zagain xian,Сікайн,سگینگ ضلع,စစ်ကိုင်းခရိုင်,ၸႄႈၵႅင်း၊ ၸႄႈတွၼ်ႈ,ザガイン県,實皆縣	21.99422	95.61831	A	ADM2	MM		10	MMR005D001			0		78	Asia/Yangon	2016-06-05
+1299235	Pyapon District	Pyapon District	Pyabon,Pyabôn,Pyapon,Pyapon District	16.18031	95.55134	A	ADM2	MM		03	MMR017D006			0		4	Asia/Yangon	2016-06-05
+1299531	Pyay District	Pyay District	P'i,Prome District,Pyay,Pyay District,Pye,bei miu xian,districte de Prome,pii xian,Пьи,ပျီႇ၊ ၸႄႈတွၼ်ႈ,ပြည်ခရိုင်,ピイ県,卑謬縣	18.69254	95.37032	A	ADM2	MM		16	MMR008D001			0		24	Asia/Yangon	2016-06-05
+1302438	Pakokku District	Pakokku District	Pagukku,Pakkoku,Pakokku,Pakokku District	21.55903	94.52089	A	ADM2	MM		15	MMR009D004			0		255	Asia/Yangon	2016-06-05
+1307521	Hkamti District	Hkamti District	Hkamti,Hkamti District,Kanti,Khamti District,Naga,Naga District,Naga Hills District,Singkaling Hkamti,Singkawng,Zingkaling Hkamti,distretto di Hkamti,kamuti xian,rajon Kkhamti,район Кхамти,ခန္တီးခရိုင်,ၶမ်းတီႈ၊ ၸႄႈတွၼ်ႈ,カムティ県	25.42555	95.52721	A	ADM2	MM		10	MMR005D008			0		231	Asia/Yangon	2016-06-05
+1307740	Myitkyinā District	Myitkyina District	Myitkyina,Myitkyina District,Myitkyinā,Myitkyinā District	25.78552	97.14527	A	ADM2	MM		04	MMR001D001			0		586	Asia/Yangon	2020-06-11
+1307834	Myingyan District	Myingyan District	Myingan,Myingyan,Myingyan District,Myingyin	21.27763	95.48423	A	ADM2	MM		08	MMR010D004			0		167	Asia/Yangon	2016-06-05
+1308077	Myaungmya District	Myaungmya District	Myaungmya,Myaungmya District,Myoungmya District	16.63724	95.09575	A	ADM2	MM		03	MMR017D003			0		4	Asia/Yangon	2016-06-05
+1309286	Minbu District	Minbu District	Minbu District	20.37964	94.49025	A	ADM2	MM		15	MMR009D002			0		152	Asia/Yangon	2016-06-05
+1309609	Myeik District	Myeik District	Distrito de Myeik,Mergui District,Myeik,Myeik District,Myeik Kayaing,bei xian,dan lao xian,districte de Mergui,မျဵၵ်ႉ၊ ၸႄႈတွၼ်ႈ,မြိတ်ခရိုင်,ベイ県,丹老縣	12.42405	99.05346	A	ADM2	MM		12	MMR006D002			0		98	Asia/Yangon	2016-06-05
+1309790	Meiktila District	Meiktila District	Meiktila,Meiktila District,Miktila,districte de Meiktila,me'ikatila jela,meittira xian,mi tie la xian,মেইকটিলা জেলা,မိတ္ထီလာခရိုင်,မဲ့ထီလင်ꩻခရဲင်ႏ,မဵၵ်ႉထီႇလႃႇ၊ ၸႄႈတွၼ်ႈ,メイッティーラ県,密鐵拉縣	20.95695	95.95621	A	ADM2	MM		08	MMR010D007			0		186	Asia/Yangon	2016-06-05
+1310354	Ma-ubin District	Ma-ubin District	Ma-ubin,Ma-ubin District,Maubin,Maubin District	16.96037	95.55621	A	ADM2	MM		03	MMR017D005			0		6	Asia/Yangon	2016-06-05
+1311872	Mandalay District	Mandalay District	Distrik Mandalay,Mandalaj,Mandalajsky okres,Mandalajský okres,Mandalay,Mandalay District,districte de Mandalay,distritu de Mandalay,man de lei xian,mandalaya jela,mandare xian,মান্দালয় জেলা,တႃႈလိူဝ်ႇ၊ ၸႄႈတွၼ်ႈ,မန္တလေးခရိုင်,マンダレー県,曼德勒縣	21.94941	96.1235	A	ADM2	MM		08	MMR010D001			0		79	Asia/Yangon	2016-06-06
+1312605	Magway District	Magway District	Magway,Magway District,Magwe District	20.25	95.25	A	ADM2	MM		15	MMR009D001			0		202	Asia/Yangon	2016-06-05
+1316697	Kyaukse District	Kyaukse District	Chzhauskhi,Distretto di Kyaukse,Kyaukse,Kyaukse District,cheuse xian,districte de Kyaukse,jiao ke xi xian,ki'ukase jela,Чжаусхи,Чжаўсхі,কিউকসে জেলা,จังหวัดเจาะแซ,ကျုက်ဆယ်ခြိုင့်,ကျောက်ဆည်ခရိုင်,ကျောက်သယ်ခရဲင်ႏ,ၵျွၵ်ႉသႄႇ၊ ၸႄႈတွၼ်ႈ,チェウセ県,皎克西縣	21.60502	96.24675	A	ADM2	MM		08	MMR010D003			0		125	Asia/Yangon	2016-06-05
+1316745	Kyaunkpyu District	Kyaunkpyu District	Kyaukpyu District,Kyaunkpyu,Kyaunkpyu District	19.91773	94.03112	A	ADM2	MM		01	MMR012D003			0		190	Asia/Yangon	2016-06-05
+1320151	Katha District	Katha District	Katha District	24.11362	95.84976	A	ADM2	MM		10	MMR005D004			0		241	Asia/Yangon	2019-02-22
+1325210	Hinthada District	Hinthada District	Henzada District,Hinthada,Hinthada District	17.8532	95.20172	A	ADM2	MM		03	MMR017D002			0		13	Asia/Yangon	2016-06-05
+1325361	Bago District	Bago District	Bago District,Distrito Bago,Hanthawaddy District,bago xian,bo gu xian,districte de Bago,ပဲခူးခရိုင်,ပႃႇၵိူဝ်၊ ၸႄႈတွၼ်ႈ,バゴー県,勃固縣	17.31918	96.5506	A	ADM2	MM		16	MMR007D001			0		7	Asia/Yangon	2016-06-01
+1328217	Bhamo District	Bhamo District	Banmaw,Banmo,Banmskij rajon,Bhamo,Bhamo District,District de Bhamo,Hsinkai,ba mo xian,bamo xian,district Bhamo,districte de Bhamo,Банмский район,ဗန်းမော်ခရိုင်,မၢၼ်ႈမေႃႇ၊ ၸႄႈတွၼ်ႈ,バーモ県,八莫县	24.26023	97.17882	A	ADM2	MM		04	MMR001D003			0		107	Asia/Yangon	2016-06-05
+1328420	Pathein District	Pathein District	Bassein District,Pathein,Pathein District	16.87954	94.71487	A	ADM2	MM		03	MMR017D001			0		5	Asia/Yangon	2016-06-05
+1329415	Sittwe District	Sittwe District	Akyab District,Sittway District,Sittwe,Sittwe District	20.20035	92.86743	A	ADM2	MM		01	MMR012D001			0		0	Asia/Yangon	2016-06-06
+8238605	Maungdaw District	Maungdaw District	Maungdaw,Maungdaw District	21.00382	92.37624	A	ADM2	MM		01	MMR012D002			0		56	Asia/Yangon	2016-05-29
+8238693	Labutta District	Labutta District	Labuta District,Labutta,Labutta District,Laputta District	16.25406	95.04221	A	ADM2	MM		03	MMR017D004			0		7	Asia/Yangon	2016-05-29
+8238707	Putao District	Putao District	Fort Hertz,Hkamti,Hkamti Patau,Kamde,Pudao,Putao,Putao District	27.26892	97.78238	A	ADM2	MM		04	MMR001D004			0		929	Asia/Yangon	2016-05-29
+8238708	Mohnyin District	Mohnyin District	District de Mohnyin,Mohnyin,Mohnyin District,Mohnyin Distrikt,canghwad mo yi n,mo ning xian,moniin xian,จังหวัดโม่ญี่น,မိုးညှင်းခရိုင်,မိူင်းယၢင်း၊ ၸႄႈတွၼ်ႈ,モーニイン県,莫寧縣	25.19508	96.59766	A	ADM2	MM		04	MMR001D002			0		680	Asia/Yangon	2016-05-29
+8238709	Hpa-an District	Hpa-an District	Hpa-an,Hpa-an District,Pa-an	16.87289	97.7179	A	ADM2	MM		05	MMR003D001			0		13	Asia/Yangon	2016-06-01
+8238710	Myawaddy District	Myawaddy District	Distretto di Myawaddy,Miavaddi,Myawaddy,Myawaddy District,Myawadi,district de Myawaddy,miao wa di xian,myawadi xian,Міавадді,မျႃႉဝတီႇ၊ ၸႄႈတွၼ်ႈ,မြဝတီခရိုင်,ミャワディー県,苗瓦迪縣	16.54108	98.52983	A	ADM2	MM		05	MMR003D002			0		367	Asia/Yangon	2016-05-29
+8238711	Kawkareik District	Kawkareik District	Kawkareik,Kawkareik District,Kawkareit,Kawkayeik,district de Kawkareik,gao jia li xian,kokarei xian,ကော့ကရိတ်ခရိုင်,ၵေႃႉၵရဵၵ်ႉ၊ ၸႄႈတွၼ်ႈ,コーカレイ県,高加力縣	16.41501	98.23975	A	ADM2	MM		05	MMR003D003			0		11	Asia/Yangon	2016-06-01
+8238712	Bawlakhe District	Bawlakhe District	Bawlake,Bawlakhe,Bawlakhe District	18.92128	97.42915	A	ADM2	MM		06	MMR002D002			0		449	Asia/Yangon	2016-05-29
+8238713	Loikaw District	Loikaw District	Loi-kaw,Loikaw,Loikaw District,Luykau	19.49125	97.34175	A	ADM2	MM		06	MMR002D001			0		690	Asia/Yangon	2016-05-29
+8238735	Nyaung-U District	Nyaung-U District	Nyaung-U,Nyaung-U District,Nyaungoo,Nyaungu,Nyoungoo	21.0881	95.03638	A	ADM2	MM		08	MMR010D005			0		334	Asia/Yangon	2016-05-29
+8238738	Pyin Oo Lwin District	Pyin Oo Lwin District	Maymyo,Meimyu,Pyin Oo Lwin,Pyin Oo Lwin District,Pyin U Lwin,bin wu lun xian,ပိဉ်အူးလွီင်ခရဲင်ႏ,ပြင်ဦးလွင်ခရိုင်,ပၢင်ႇဢူး၊ ၸႄႈတွၼ်ႈ,ピン・ウー・ルウィン県,彬乌伦县	22.80987	96.18107	A	ADM2	MM		08	MMR010D002			0		549	Asia/Yangon	2016-05-29
+8238743	Kale District	Kale District	Kale District,Kalemyo District	23.05571	94.41054	A	ADM2	MM		10	MMR005D005			0		122	Asia/Yangon	2016-05-29
+8238747	Tamu District	Tamu District	Tamu District,Tuimu District	24.21907	94.40602	A	ADM2	MM		10	MMR005D006			0		145	Asia/Yangon	2016-05-29
+8238751	Taunggyi District	Taunggyi District	Distrikto Taunggyi,Taunggye,Taunggyi,Taunggyi District,Taunggyi barrutia,canghwad txng ci,dong zhi xian,taunji xian,จังหวัดตองจี,တူၼ်ႈတီး၊ ၸႄႈတွၼ်ႈ,တောင်ကြီးခရိုင်,တောင်ႏကီꩻခရဲင်ႏ,タウンジー県,東枝縣	20.49485	96.93972	A	ADM2	MM		11	MMR014D001			0		948	Asia/Yangon	2016-05-29
+8238752	Tachileik District	Tachileik District	Tachileik,Tachileik District,Tachilek,Tha Chaleak,Tha Chi Lek	20.67855	100.0341	A	ADM2	MM		11	MMR016D003			0		589	Asia/Yangon	2016-05-29
+8238772	Mong Hsat District	Mong Hsat District	Distrikto Mong Hsat,Maingsat,Mong Hsat,Mong Hsat District,Mong Hsat Distrikt,Muang Sat,meng sa xian,monsatsu xian,မိုင်းဆတ်ခရိုင်,မိူင်းသၢတ်ႇ၊ ၸႄႈတွၼ်ႈ,မွိုင်ꩻသတ်ခရဲင်ႏ,モンサッ県,孟萨县	20.37521	99.05618	A	ADM2	MM		11	MMR016D002			0		1066	Asia/Yangon	2016-06-23
+8238774	Kyaukme District	Kyaukme District	Distrikto Kyaukme,Kyaukme,Kyaukme District,chaumme xian,jiao mei qu,jiao mei xian,ကျောက်မဲခရိုင်,ကျောက်မဲးခရဲင်ႏ,ၵျွၵ်းမႄး၊ ၸႄႈတွၼ်ႈ,チャウッメー県,皎梅区,皎梅县,皎梅縣	22.89804	97.0074	A	ADM2	MM		11	MMR015D003			0		1408	Asia/Yangon	2016-05-29
+8238775	Mu Se District	Mu Se District	Mu Se,Mu Se District	23.70528	98.03429	A	ADM2	MM		11	MMR015D002			0		1343	Asia/Yangon	2016-05-29
+8238776	Loilem District	Loilem District	Loi-lem,Loi-leng,Loilem,Loilem District,Loilen	21.31359	97.92655	A	ADM2	MM		11	MMR014D002			0		1219	Asia/Yangon	2016-05-29
+8238777	Langhko District	Langhko District	Distrikto Langhko,Langhko,Langhko District,lang ke xian,ranguko xian,လင်းခေးခရိုင်,လင်ꩻခွိုꩻခရဲင်ႏ,လၢင်းၶိူဝ်း၊ ၸႄႈတွၼ်ႈ,ラングーコ県,朗科縣	20.23979	97.99691	A	ADM2	MM		11	MMR014D003			0		1073	Asia/Yangon	2016-05-29
+8238778	Kengtung District	Kengtung District	Distrikto Kengtung,Kengtong,Kengtung,Kengtung District,Kentung,Kyaingdon,canghwad cheiyng tung,jing dong xian,kentsun xian,จังหวัดเชียงตุง,ကိင်ꩻတွုံခရဲင်ႏ,ကျိုင်းတုံခရိုင်,ၵဵင်းတုင်၊ ၸႄႈတွၼ်ႈ,ケンツン県,景栋县,景棟縣	21.58298	99.5889	A	ADM2	MM		11	MMR016D001			0		1906	Asia/Yangon	2016-05-29
+8238779	Lashio District	Lashio District	Distrikto Lashio,Lashio District,Lasho,la shu xian,nahyh lashyw,rasho xian,Лашо,ناحیه لاشیو,လားရှိုးခရိုင်,လားသျိုးခရဲင်ႏ,လႃႈသဵဝ်ႈ၊ ၸႄႈတွၼ်ႈ,ラーショー県,臘戍縣	22.83083	98.15008	A	ADM2	MM		11	MMR015D001			0		701	Asia/Yangon	2016-05-29
+8238821	Kawthaung District	Kawthaung District	Distrik Kawthaung,Distrito de Kawthaung,Kau Saung,Kawsung,Kawthaung,Kawthaung District,Pulodua,Victoria Point,gao dang xian,kawatawng,kotaun xian,کاواتاونگ,ကော့သောင်ခရိုင်,ၵေႃႉတွင်း၊ ၸႄႈတွၼ်ႈ,コータウン県,高當縣	11.04972	98.84735	A	ADM2	MM		12	MMR006D003			0		283	Asia/Yangon	2016-05-29
+8238822	Mawlamyine District	Mawlamyine District	Mawlamyaing,Mawlamyine,Mawlamyine District,Moulmein,Moulmein District	15.76141	97.85175	A	ADM2	MM		13	MMR011D001			0		163	Asia/Yangon	2016-05-29
+8238823	Gangaw District	Gangaw District	Gangaw District	21.79498	94.17954	A	ADM2	MM		15	MMR009D005			0		400	Asia/Yangon	2016-05-29
+8239356	Yangon South District	Yangon South District	Yangon South District,yang guang nan qu,ရန်ကုန်တောင်ပိုင်းခရိုင်,仰光南區	16.74051	96.49989	A	ADM2	MM		17	MMR013D003			0		7	Asia/Yangon	2024-03-11
+8239357	West Yangon District	West Yangon District	West Yangon District	16.87171	96.12894	A	ADM2	MM		17	MMR013D004			0		16	Asia/Yangon	2024-07-12
+11154013	Hopang	Hopang		23.02599	98.96849	A	ADM2	MM		11	MMR015D006			0		1160	Asia/Yangon	2016-05-31
+11154014	Falam	Falam		23.42199	93.71488	A	ADM2	MM		02	MMR004D001			0		847	Asia/Yangon	2016-05-31
+11154015	Hakha	Hakha		22.51244	93.56355	A	ADM2	MM		02	MMR004D003			0		1507	Asia/Yangon	2016-05-31
+11154016	Mindat	Mindat		21.48455	93.39837	A	ADM2	MM		02	MMR004D002			0		1327	Asia/Yangon	2016-05-31
+11154017	Hpapun	Hpapun	ဖာပနမြနယ,ဖာပွန်မြို့နယ်	18.07659	97.36866	A	ADM2	MM		05	MMR003D004			0		152	Asia/Yangon	2016-06-03
+11154018	Nay Pyi Taw (South)	Nay Pyi Taw (South)		19.6402	96.16847	A	ADM2	MM		18	MMR018D002			0		92	Asia/Yangon	2016-05-31
+11154019	Mrauk-U	Mrauk-U		20.47661	93.35497	A	ADM2	MM		01	MMR012D005			0		6	Asia/Yangon	2016-05-31
+11154020	Monywa	Monywa		22.2573	95.26376	A	ADM2	MM		10	MMR005D003			0		184	Asia/Yangon	2016-05-31
+11154021	East Yangon District	East Yangon District	East Yangon,East Yangon District	16.89793	96.24799	A	ADM2	MM		17	MMR013D002			0		7	Asia/Yangon	2024-07-12
+11154022	Yangon (North)	Yangon (North)	North Yangon District,Yangon North	17.26922	96.03035	A	ADM2	MM		17	MMR013D001			0		32	Asia/Yangon	2024-07-10
+11154023	Nay Pyi Taw (North)	Nay Pyi Taw (North)		20.04775	96.1384	A	ADM2	MM		18	MMR018D001			0		193	Asia/Yangon	2016-05-31
+11154024	Yinmabin	Yinmabin		22.24864	94.71565	A	ADM2	MM		10	MMR005D009			0		182	Asia/Yangon	2016-05-31
+11154025	Laukkaing	Laukkaing		23.83377	98.654	A	ADM2	MM		11	MMR015D005			0		1305	Asia/Yangon	2016-05-31
+11154026	Matman	Matman		22.26535	98.89604	A	ADM2	MM		11	MMR015D007			0		815	Asia/Yangon	2016-05-31
+11154027	Mongmit	Mongmit		23.45728	96.66043	A	ADM2	MM		11	MMR015D008			0		132	Asia/Yangon	2016-05-31

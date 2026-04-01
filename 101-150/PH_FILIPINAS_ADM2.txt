@@ -1,0 +1,87 @@
+﻿1679428	Province of Zamboanga del Sur	Province of Zamboanga del Sur	Habagatang Zamboanga,Pagabatan Sambuanga,Timog Zamboanga,Zamboanga del Sur	7.9043	123.3194	A	ADM2	PH		09	66			1045126		216	Asia/Manila	2025-08-06
+1679429	Province of Zamboanga del Norte	Province of Zamboanga del Norte	Amihanang Zamboanga,Hilagang Zamboanga,Province of Zamboanga,Zamboanga,Zamboanga City,Zamboanga del Norte	8	122.66667	A	ADM2	PH		09	65			1067067		184	Asia/Manila	2025-08-06
+1679435	Province of Zambales	Province of Zambales	Zambales	15.33333	120.16667	A	ADM2	PH		03	64			909932		755	Asia/Manila	2025-08-06
+1682671	Province of Tawi-Tawi	Province of Tawi-Tawi	Jauih Jauih,Jawi Jawi,Lalawigan ng Tawi-Tawi,Tawi-Tawi,Wilaya' sin Tawi-Tawi	5.2057	120.0265	A	ADM2	PH		14	72			482645		45	Asia/Manila	2025-08-06
+1682811	Province of Tarlac	Province of Tarlac	Lalawigan ng Tarlac,Probinsia ti Tarlac,Tarlac	15.5	120.5	A	ADM2	PH		03	63			1568162		126	Asia/Manila	2025-08-06
+1685214	Province of Surigao del Sur	Province of Surigao del Sur	Habagatang Surigao,Probinsya nan Surigao del Sur,Province of Surigao,Surigao,Surigao del Sur,Surigoa del Sur,Timog Surigao	8.80908	126.12854	A	ADM2	PH		13	62			648858		447	Asia/Manila	2025-08-05
+1685215	Province of Surigao del Norte	Province of Surigao del Norte	Amihanang Surigao,Hilagang Surigao,Probinsya nan Surigao del Norte,Surigao del Norte	9.66303	125.52704	A	ADM2	PH		13	61			565644		36	Asia/Manila	2025-08-05
+1685370	Province of Sulu	Province of Sulu	Lalawigan ng Sulu,Sulu,Wilaya sin Lupa' Sug,Wilāya sin Lupa' Sūg	6	121	A	ADM2	PH		14	60			1146097		114	Asia/Manila	2025-08-06
+1685377	Province of Sultan Kudarat	Province of Sultan Kudarat	Dairat nu Sultan Kudarat,Kapuoran sang Sultan Kudarat,Lalawigan sa Sultan,Sultan Kudarat	6.55	124.28333	A	ADM2	PH		12	71			863651		851	Asia/Manila	2025-08-05
+1685725	Province of Southern Leyte	Province of Southern Leyte	Abagatan a Leyte,Habagatang Leyte,Katimogang Leyte,Southern Leyte,layty aljnwbyt,nanreite zhou,لايتي الجنوبية,南レイテ州	10.33333	125.08333	A	ADM2	PH		08	59			434372		764	Asia/Manila	2025-08-06
+1685731	Province of South Cotabato	Province of South Cotabato	Cotabato del Sur,Province of South Cotabato,South Cotabato	6.25218	125.0006	A	ADM2	PH		12	70			1010009		363	Asia/Manila	2025-08-06
+1685754	Province of Sorsogon	Province of Sorsogon	Lalawigan ng Sorsogon,Probinsya han Sorsogon,Probinsya kan Sorsogon,Sorsogon	12.83333	123.91667	A	ADM2	PH		05	58			845066		28	Asia/Manila	2025-08-06
+1686065	Province of Siquijor	Province of Siquijor	Lalawigan ng Siquijor,Lalawigan sa Siquijor,Siquijor,Subprovince of Siquijor	9.18333	123.56667	A	ADM2	PH		07	69			107642		486	Asia/Manila	2025-08-06
+1690649	Province of Samar	Province of Samar	Lalawigan ng Samar,Samar,Samar Occidental,Western Samar	11.83333	125	A	ADM2	PH		08	55			806179		291	Asia/Manila	2025-08-06
+1691537	Province of Romblon	Province of Romblon	Romblon,Romblon Province	12.55499	122.28206	A	ADM2	PH		41	54			302824		257	Asia/Manila	2025-08-05
+1691591	Province of Rizal	Province of Rizal	Lalawigan ng Rizal,Rizal	14.58333	121.16667	A	ADM2	PH		40	53			3330143		215	Asia/Manila	2025-08-05
+1691975	Province of Quirino	Province of Quirino	Lalawigan ng Quirino,Quirino	16.28333	121.58333	A	ADM2	PH		02	68			210841		683	Asia/Manila	2025-08-06
+1692194	Province of Quezon	Province of Quezon	Lalawigan ng Quezon,Province of Tayabas,Quezon,Tayabas	14.66667	121.5	A	ADM2	PH		40	H2			1980338		351	Asia/Manila	2025-08-05
+1695357	Province of Pangasinan	Province of Pangasinan	Lalawigan ng Pangasinan,Pangasian,Pangasinan,Probinsia ti Pangasinan	15.91667	120.33333	A	ADM2	PH		01	51			3188540		9	Asia/Manila	2025-08-05
+1695848	Province of Pampanga	Province of Pampanga	Lalawigan ng Pampanga,Pampanga,Probinsia ti Pampanga	15.06667	120.66667	A	ADM2	PH		03	50			2586446		21	Asia/Manila	2025-08-06
+1696177	Province of Palawan	Province of Palawan	Palawan	10	118.75	A	ADM2	PH		41	49			968795		149	Asia/Manila	2025-08-05
+1697456	Province of Nueva Vizcaya	Province of Nueva Vizcaya	Lalawigan ng Nueva Vizcaya,Nueva Vizcaya,Probinsia ti Nueva Vizcaya	16.33333	121.33333	A	ADM2	PH		02	48			530106		842	Asia/Manila	2025-08-06
+1697473	Province of Nueva Ecija	Province of Nueva Ecija	Lalawigan ng Nueva Ecija,Nueva Ecija,Probinsia ti Nueva Ecija	15.58333	121	A	ADM2	PH		03	47			2395816		49	Asia/Manila	2025-08-06
+1697549	Province of Northern Samar	Province of Northern Samar	Amianan a Samar,Amihanang Samar,Hilagang Samar,Northern Samar,Samar del Norte,beisamaru zhou,北サマル州	12.33333	124.66667	A	ADM2	PH		08	67			645789		29	Asia/Manila	2025-08-06
+1697559	Cotabato	Cotabato	Amihanang Cotabato,Aminhan Cotabato,Cotabato,Hilagang Cotabato,North Cotabato,Pangutaran Kutawatu,Province of Cotabato	7.01667	125.08333	A	ADM2	PH		12	57			1286142		260	Asia/Manila	2025-08-05
+1697806	Province of Negros Oriental	Province of Negros Oriental	Negros Oriental,Oriental Negros,Sidlakang Negros,Silangang Negros	9.75	123	A	ADM2	PH		07	46			1492038		780	Asia/Manila	2025-08-06
+1697808	Province of Negros Occidental	Province of Negros Occidental	Kanlurang Negros,Nakatungdang Negros,Negros Occidental,Occidental Negros	10.41667	123	A	ADM2	PH		06	H3			2680477		150	Asia/Manila	2025-08-06
+1699175	Mountain Province	Mountain Province	Mountain,Mountain Province,maunten zhou,マウンテン州	17.08333	121.16667	A	ADM2	PH		15	44			149775		1690	Asia/Manila	2025-08-06
+1699492	Province of Misamis Oriental	Province of Misamis Oriental	Misamis Oriental,Misamis Oriental Province,Sidlakang Misamis,Silangang Misamis	8.75	125	A	ADM2	PH		10	43			988065		2072	Asia/Manila	2025-08-05
+1699493	Province of Misamis Occidental	Province of Misamis Occidental	Kanlurang Misamis,Kasadpang Misamis,Misamis Occidental,Misamis Occidental Province,Sindepan Mis'samis	8.33333	123.7	A	ADM2	PH		10	42			621993		1104	Asia/Manila	2025-08-06
+1699585	Oriental Mindoro	Oriental Mindoro	Mindoro Oriental,Oriental Mindoro,Silangang Mindoro	13.15555	121.26803	A	ADM2	PH		41	41			919504		34	Asia/Manila	2025-08-05
+1699586	Occidental Mindoro	Occidental Mindoro	Kanlurang Mindoro,Mindoro Occidental,Occidental Mindoro	13	120.91667	A	ADM2	PH		41	40			511417		66	Asia/Manila	2025-08-05
+1700711	Province of Masbate	Province of Masbate	Lalawigan ng Masbate,Masbate,Probinsya san Masbate	12.16667	123.58333	A	ADM2	PH		05	39			910813		11	Asia/Manila	2025-08-05
+1700902	Province of Marinduque	Province of Marinduque	Marinduque	13.41667	121.95	A	ADM2	PH		41	38			226522		145	Asia/Manila	2025-08-05
+1706800	Province of Leyte	Province of Leyte	Leyte	11.08138	124.82666	A	ADM2	PH		08	37			2626970		239	Asia/Manila	2025-08-06
+1707052	Province of La Union	Province of La Union	La Union,Lalawigan ng La Union,Probinsia ti La Union	16.5	120.41667	A	ADM2	PH		01	36			825072		24	Asia/Manila	2025-08-06
+1707667	Province of Lanao del Sur	Province of Lanao del Sur	Lanao del Sur,Timog Lanao	7.8525	124.45862	A	ADM2	PH		14	35			1368137		955	Asia/Manila	2025-08-06
+1707668	Province of Lanao del Norte	Province of Lanao del Norte	Amihanang Lanao,Hilagang Lanao,Lanao del Norte	8	124	A	ADM2	PH		10	34			761725		592	Asia/Manila	2025-08-06
+1708026	Province of Laguna	Province of Laguna	Laguna,Lalawigan ng Laguna	14.16667	121.33333	A	ADM2	PH		40	33			3687345		19	Asia/Manila	2025-08-05
+1710515	Province of Isabela	Province of Isabela	Isabela,Lalawigan ng Isabela,Probinsia ti Isabela	17	122	A	ADM2	PH		02	31			1733048		78	Asia/Manila	2025-08-05
+1711004	Province of Iloilo	Province of Iloilo	Iloilo,Lalawigan ng Iloilo	11	122.66667	A	ADM2	PH		06	30			2082616		24	Asia/Manila	2025-08-06
+1711032	Province of Ilocos Sur	Province of Ilocos Sur	Ilocos Sur,Ilocos Sur Province,Lalawigan ng Ilocos Sur,Probinsia ti Ilocos Sur	17.19852	120.54199	A	ADM2	PH		01	29			709991		222	Asia/Manila	2025-08-06
+1711034	Province of Ilocos Norte	Province of Ilocos Norte	Ilocos Norte,Lalawigan ng Ilocos Norte,Probinsia ti Ilocos Norte	18.16667	120.75	A	ADM2	PH		01	28			618850		42	Asia/Manila	2025-08-06
+1711331	Province of Ifugao	Province of Ifugao	Ifugao,Lalawigan ng Ifugao,Probinsia ti Ifugao,Subprovince of Ifugao	16.83333	121.16667	A	ADM2	PH		15	27			208668		608	Asia/Manila	2025-08-06
+1713986	Province of Eastern Samar	Province of Eastern Samar	Aust-Samar,Daya a Samar,Eastern Samar,Ost-Samar,Samar Oriental,Sidlakang Samar,Silangang Samar,dongsamaru zhou,Øst-Samar,東サマル州	11.53054	125.47647	A	ADM2	PH		08	23			472683		16	Asia/Manila	2025-08-06
+1714796	Dinagat Islands	Dinagat Islands	Dinagat Islands,Mga Islang Dinagat,Mga Pulo sa Dinagat,Mga Puro han Dinagat,Mga Purô han Dinagat,Mga Puyo nan Dinagat,Mga Puyo san Dinagat,Province of Dinagat Islands	10.12301	125.55725	A	ADM2	PH		13	I9			120533		152	Asia/Manila	2025-08-05
+1715342	Province of Davao Oriental	Province of Davao Oriental	Davao Oriental,Sidlakang Dabaw,Silangang Davao	7.16667	126.33333	A	ADM2	PH		11	26			590042		1085	Asia/Manila	2025-08-06
+1715345	Province of Davao del Sur	Province of Davao del Sur	Davao del Sur,Habagatang Dabaw,Timog Davao	6.79281	125.30182	A	ADM2	PH		11	25			7051291		104	Asia/Manila	2025-11-03
+1715347	Province of Davao del Norte	Province of Davao del Norte	Amihanang Dabaw,Davao,Davao Province,Davao del Norte,Hilagang Davao,Province of Davao,Province of Davao del Norte	7.45099	125.81543	A	ADM2	PH		11	I7			1143931		30	Asia/Manila	2025-11-03
+1716770	Cotabato City	Cotabato City	Bandar a Kotawato,Cotabato,Kuta nu Kutawatu,Lungsod ng Cotabato,Lungsod ng Kutabato	7.21667	124.25	A	ADM2	PH		12	B8			383383		7	Asia/Manila	2025-08-05
+1717055	Davao de Oro	Davao de Oro	Compostela Valley,Davao de Oro,Kawalogang Kompostela,Lalawigan ng Davao de Oro,Lalawigan sa Davao de Oro,Lambak ng Compostela,Province of Compostela Valley,Province of Davao de Oro	7.68333	126.11667	A	ADM2	PH		11	I6			783775		86	Asia/Manila	2025-08-06
+1717511	Province of Cebu	Province of Cebu	Cebu,Cebu Province,Lalawigan ng Cebu,Lalawigan sa Sugbo	10.39597	123.78021	A	ADM2	PH		07	21			1412726		511	Asia/Manila	2025-08-06
+1717639	Province of Cavite	Province of Cavite	Cavite,Lalawigan ng Kabite,Provincia de Cavite	14.25	120.83333	A	ADM2	PH		40	20			4573884		126	Asia/Manila	2025-08-05
+1717952	Province of Catanduanes	Province of Catanduanes	Catanduanes,Subprovince of Catanduanes	13.83333	124.25	A	ADM2	PH		05	19			261169		208	Asia/Manila	2025-08-06
+1718641	Province of Capiz	Province of Capiz	Capiz,Lalawigan ng Capiz	11.4	122.56667	A	ADM2	PH		06	18			835098		23	Asia/Manila	2025-08-06
+1719694	Province of Camiguin	Province of Camiguin	Camiguin,Lalawigan ng Camiguin,Probinsya sa Camiguin	9.16667	124.75	A	ADM2	PH		10	17			94892		759	Asia/Manila	2025-08-06
+1719845	Province of Camarines Sur	Province of Camarines Sur	Camarines Sur,Habagatan na Camarines,Timog Camarines	13.66667	123.33333	A	ADM2	PH		05	16			2063314		465	Asia/Manila	2025-08-05
+1719846	Province of Camarines Norte	Province of Camarines Norte	Amihanan na Camarines,Camarines Norte,Hilagang Camarines	14.16667	122.75	A	ADM2	PH		05	15			604666		42	Asia/Manila	2025-08-06
+1721086	Province of Cagayan	Province of Cagayan	Cagayan,Cagayan Province,Lalawigan ng Cagayan,Probinsia ti Cagayan	18	121.83333	A	ADM2	PH		02	14			1284676		60	Asia/Manila	2025-08-05
+1723064	Province of Bulacan	Province of Bulacan	Bulacan,Lalawigan ng Bulacan	15	121.08333	A	ADM2	PH		03	13			3876806		184	Asia/Manila	2025-08-06
+1723105	Province of Bukidnon	Province of Bukidnon	Bukidnon,Lalawigan ng Bukidnon,Lalawigan sa Bukidnon	8	125	A	ADM2	PH		10	12			1601902		664	Asia/Manila	2025-08-05
+1724395	Bohol	Bohol	Bohol,Bokhol',TAG,bao he sheng,bohoru zhou,Бохоль,ボホール州,保和省	9.83333	124.16667	A	ADM2	PH		07	11			3400522		191	Asia/Manila	2025-08-06
+1725260	Biliran	Biliran	Biliran	11.48333	124.48333	A	ADM2	PH		08	H9			184095		88	Asia/Manila	2025-08-06
+1725582	Province of Benguet	Province of Benguet	Benguet,Lalawigan ng Benguet,Probinsia ti Benguet,Subprovince of Benguet	16.5	120.66667	A	ADM2	PH		15	10			473190		1695	Asia/Manila	2025-08-06
+1726279	Province of Batangas	Province of Batangas	Balangas,Batangas,Lalawigan ng Batangas	13.91667	121.08333	A	ADM2	PH		40	09			2994795		369	Asia/Manila	2025-08-05
+1726302	Province of Batanes	Province of Batanes	Batanes,Lalawigan ng Batanes,Provinsiya nu Batanes	20.45798	121.9941	A	ADM2	PH		02	08			18937		211	Asia/Manila	2025-08-05
+1726347	Province of Bataan	Province of Bataan	Bataan,Bataan Province,Lalawigan ng Bataan	14.66667	120.41667	A	ADM2	PH		03	07			891440		438	Asia/Manila	2025-08-05
+1726404	Province of Basilan	Province of Basilan	Basilan,Lalawigan ng Basilan,Provincia de Basilan,Wilayah Basilanin	6.54729	122.11853	A	ADM2	PH		14	22			556586		270	Asia/Manila	2025-08-06
+1729926	Province of Aurora	Province of Aurora	Aurora,Lalawigan ng Aurora,Probinsia ti Aurora	15.98773	121.5802	A	ADM2	PH		03	G8			240824		694	Asia/Manila	2025-08-05
+1730491	Province of Antique	Province of Antique	Antique,EUQ,Probinsya ng Antique,Probinsya sang Antique	11.16667	122.08333	A	ADM2	PH		06	06			643173		90	Asia/Manila	2025-08-06
+1731616	Province of Albay	Province of Albay	Albay,Albay Province,Lalawigan ng Albay,Probinsya kan Albay	13.21667	123.55	A	ADM2	PH		05	05			1379398		67	Asia/Manila	2025-08-06
+1731758	Province of Aklan	Province of Aklan	Aklan,Lalawigan ng Aklan,Probinsya it Akean [ak'ɣan	11.66667	122.33333	A	ADM2	PH		06	04			634422		9	Asia/Manila	2025-08-06
+1731818	Province of Agusan del Sur	Province of Agusan del Sur	Agusan del Sur,Habagatang Agusan,Probinsya hong Agusan del Sur,Timog Agusan	8.5	125.83333	A	ADM2	PH		13	03			740531		60	Asia/Manila	2025-08-05
+1731819	Province of Agusan del Norte	Province of Agusan del Norte	Agusan del Norte,Amihanang Agusan,Hilagang Agusan,Probinsya hong Agusan del Norte	8.9936	125.57098	A	ADM2	PH		13	02			404100		8	Asia/Manila	2025-08-05
+1732380	Province of Abra	Province of Abra	Abra,Abra Province,Probinsia ti Abra	17.58333	120.75	A	ADM2	PH		15	01			246948		81	Asia/Manila	2025-08-06
+7115730	Kalinga	Kalinga		17.42599	121.41609	A	ADM2	PH		15	32			235391		214	Asia/Manila	2025-08-06
+7115731	Apayao	Apayao		18.03359	121.1792	A	ADM2	PH		15	H6			126587		98	Asia/Manila	2025-08-06
+7115981	Province of Zamboanga Sibugay	Province of Zamboanga Sibugay	Lalawigan ng Zamboanga Sibugay,Lalawigan sa Zamboanga Sibugay,Provincia de Zamboanga Sibugay	7.7627	122.54356	A	ADM2	PH		09	ZSI			661498		27	Asia/Manila	2025-08-06
+7602867	Province of Guimaras	Province of Guimaras	Kapuoran sang Guimaras,Lalawigan ng Guimaras	10.58092	122.62621	A	ADM2	PH		06	J3			192874		138	Asia/Manila	2025-08-06
+7671047	Province of Sarangani	Province of Sarangani	Kapuoran sang Sarangani,Lalawigan ng Sarangani,Province of Sarangani,Sarangani	5.87472	125.27528	A	ADM2	PH		12	M9			580915		299	Asia/Manila	2025-08-05
+11189141	Davao Occidental	Davao Occidental	Kasadpang Dabaw	6.08	125.67	A	ADM2	PH		11	P3			317159		152	Asia/Manila	2022-11-22
+11395835	Capital District	Capital District	First District	14.5982	120.98986	A	ADM2	PH		NCR	133900000			0		8	Asia/Manila	2016-12-20
+11395836	Eastern Manila District	Eastern Manila District	Second District	14.58043	121.08376	A	ADM2	PH		NCR	137400000			0		10	Asia/Manila	2016-12-20
+11395837	Northern Manila District	Northern Manila District	CAMANAVA,Third District	14.73421	121.01337	A	ADM2	PH		NCR	137500000			0		40	Asia/Manila	2016-12-20
+11395838	Southern Manila District	Southern Manila District	Fourth District	14.51845	121.02882	A	ADM2	PH		NCR	137600000			0		19	Asia/Manila	2016-12-20
+13308207	Maguindanao del Sur	Maguindanao del Sur		6.93597	124.49211	A	ADM2	PH		14	MGS			832993		14	Asia/Manila	2025-08-06
+13308209	Maguindanao del Norte	Maguindanao del Norte		7.34477	124.31359	A	ADM2	PH		14	MGN			926037		71	Asia/Manila	2025-08-06

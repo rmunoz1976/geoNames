@@ -1,0 +1,342 @@
+﻿2743476	Gemeente Zwolle	Gemeente Zwolle	Zwolle	52.51264	6.09359	A	ADM2	NL		15	0193			129840		9	Europe/Amsterdam	2025-10-26
+2743492	Gemeente Zwijndrecht	Gemeente Zwijndrecht	Gemeente Zwijndrecht,Zwijndrecht	51.82399	4.61258	A	ADM2	NL		11	0642			44775		-2	Europe/Amsterdam	2023-01-31
+2743607	Gemeente Zutphen	Gemeente Zutphen	Gemeente Zutphen,Zutphen	52.13145	6.23132	A	ADM2	NL		03	0301			47537		8	Europe/Amsterdam	2019-01-19
+2743618	Gemeente Zundert	Gemeente Zundert	Gemeente Zundert,Zundert	51.47352	4.6418	A	ADM2	NL		06	0879			21988		7	Europe/Amsterdam	2023-01-31
+2743852	Gemeente Zoeterwoude	Gemeente Zoeterwoude	Gemeente Zoeterwoude,Zoeterwoude	52.1141	4.51142	A	ADM2	NL		11	0638			8843		-3	Europe/Amsterdam	2023-01-31
+2743855	Gemeente Zoetermeer	Gemeente Zoetermeer	Gemeente Zoetermeer,Zoetermeer	52.05954	4.48832	A	ADM2	NL		11	0637			125267		-1	Europe/Amsterdam	2023-01-31
+2743948	Gemeente Zevenaar	Gemeente Zevenaar	Gemeente Zevenaar,Zevenaar	51.95376	6.07727	A	ADM2	NL		03	0299			44096		9	Europe/Amsterdam	2023-01-31
+2743976	Gemeente Zeist	Gemeente Zeist	Zeist	52.08847	5.23275	A	ADM2	NL		09	0355			51385		6	Europe/Amsterdam	2025-10-26
+2743996	Gemeente Zeewolde	Gemeente Zeewolde	Gemeente Zeewolde,Zeewolde	52.3442	5.45904	A	ADM2	NL		16	0050			22879		-5	Europe/Amsterdam	2025-10-26
+2744040	Gemeente Zandvoort	Gemeente Zandvoort	Gemeente Zandvoort,Zandvoort	52.35769	4.54388	A	ADM2	NL		07	0473			17168		7	Europe/Amsterdam	2023-01-30
+2744101	Gemeente Zaltbommel	Gemeente Zaltbommel	Gemeente Zaltbommel,Zaltbommel	51.7868	5.15254	A	ADM2	NL		03	0297			29447		1	Europe/Amsterdam	2023-01-30
+2744113	Gemeente Zaanstad	Gemeente Zaanstad	Zaanstad,Zanstad,Занстад	52.45308	4.81253	A	ADM2	NL		07	0479			156901		3	Europe/Amsterdam	2023-01-30
+2744162	Gemeente Woudenberg	Gemeente Woudenberg	Gemeente Woudenberg,Woudenberg	52.08055	5.3981	A	ADM2	NL		09	0351			13639		2	Europe/Amsterdam	2025-10-26
+2744247	Gemeente Woerden	Gemeente Woerden	Gemeente Woerden,Woerden	52.10675	4.90066	A	ADM2	NL		09	0632			52197		-3	Europe/Amsterdam	2022-12-03
+2744256	Gemeente Woensdrecht	Gemeente Woensdrecht	Gemeente Woensdrecht,Woensdrecht	51.40948	4.33512	A	ADM2	NL		06	0873			22028		25	Europe/Amsterdam	2023-01-30
+2744331	Gemeente Winterswijk	Gemeente Winterswijk	Gemeente Winterswijk,Winterswijk	51.97226	6.72544	A	ADM2	NL		03	0294			29022		36	Europe/Amsterdam	2023-01-30
+2744482	Gemeente Wijk bij Duurstede	Gemeente Wijk bij Duurstede	Wijk bij Duurstede	51.97452	5.33661	A	ADM2	NL		09	0352			23925		6	Europe/Amsterdam	2023-01-30
+2744513	Gemeente Wijchen	Gemeente Wijchen	Gemeente Wijchen,Wijchen	51.81884	5.69862	A	ADM2	NL		03	0296			41261		8	Europe/Amsterdam	2023-01-30
+2744548	Gemeente Wierden	Gemeente Wierden	Gemeente Wierden,Wierden	52.34247	6.55795	A	ADM2	NL		15	0189			24351		12	Europe/Amsterdam	2022-12-03
+2744609	Gemeente Weststellingwerf	Gemeente Weststellingwerf	Gemeente Weststellingwerf,Weststellingwerf,Weststellingwerf Municipality	52.87647	6.01998	A	ADM2	NL		02	0098			26130		-1	Europe/Amsterdam	2023-08-09
+2744674	Gemeente Westervoort	Gemeente Westervoort	Gemeente Westervoort,Westervoort	51.95949	5.97435	A	ADM2	NL		03	0293			15014		10	Europe/Amsterdam	2023-01-30
+2744721	Westerkwartier	Westerkwartier	Westerkwartier	53.2	6.3	A	ADM2	NL		04	1969			0		-3	Europe/Amsterdam	2019-01-20
+2744910	Gemeente Weert	Gemeente Weert	Gemeente Weert,Weert	51.23418	5.69067	A	ADM2	NL		05	0988			49842		33	Europe/Amsterdam	2022-12-03
+2744989	Gemeente Wassenaar	Gemeente Wassenaar	Gemeente Wassenaar,Wassenaar	52.13791	4.37546	A	ADM2	NL		11	0629			26949		14	Europe/Amsterdam	2023-01-30
+2745087	Gemeente Wageningen	Gemeente Wageningen	Gemeente Wageningen,Wageningen	51.96876	5.66675	A	ADM2	NL		03	0289			39635		14	Europe/Amsterdam	2023-01-30
+2745095	Gemeente Waddinxveen	Gemeente Waddinxveen	Gemeente Waddinxveen,Waddinxveen	52.04247	4.64486	A	ADM2	NL		11	0627			30479		-5	Europe/Amsterdam	2023-01-30
+2745122	Gemeente Waalwijk	Gemeente Waalwijk	Gemeente Waalwijk,Waalwijk	51.6897	5.01721	A	ADM2	NL		06	0867			48815		1	Europe/Amsterdam	2023-01-30
+2745126	Gemeente Waalre	Gemeente Waalre	Gemeente Waalre,Waalre	51.38757	5.4638	A	ADM2	NL		06	0866			17544		29	Europe/Amsterdam	2023-01-30
+2745153	Gemeente Vught	Gemeente Vught	Gemeente Vught,Vught	51.65822	5.26746	A	ADM2	NL		06	0865			26418		12	Europe/Amsterdam	2019-01-19
+2745295	Gemeente Voorst	Gemeente Voorst	Gemeente Voorst,Voorst	52.22965	6.09992	A	ADM2	NL		03	0285			24310		6	Europe/Amsterdam	2019-01-19
+2745300	Gemeente Voorschoten	Gemeente Voorschoten	Gemeente Voorschoten,Voorschoten	52.12533	4.44014	A	ADM2	NL		11	0626			25650		1	Europe/Amsterdam	2023-01-30
+2745368	Gemeente Voerendaal	Gemeente Voerendaal	Gemeente Voerendaal,Voerendaal	50.87117	5.91495	A	ADM2	NL		05	0986			12452		127	Europe/Amsterdam	2022-12-03
+2745391	Gemeente Vlissingen	Gemeente Vlissingen	Gemeente Vlissingen,Vlissingen,bldyt flsnqn,flsnqn,بلدية فلسنقن,فلسنقن	51.45914	3.62325	A	ADM2	NL		10	0718			44358		-3	Europe/Amsterdam	2023-01-30
+2745417	Gemeente Vlieland	Gemeente Vlieland	Gemeente Vlieland,Vlieland,Vlieland Municipality	53.2532	4.95071	A	ADM2	NL		02	0096			1194		1	Europe/Amsterdam	2023-08-08
+2745466	Gemeente Vlaardingen	Gemeente Vlaardingen	Gemeente Vlaardingen,Vlaardingen	51.91754	4.3257	A	ADM2	NL		11	0622			73924		-1	Europe/Amsterdam	2023-01-30
+2745538	Vijfheerenlanden	Vijfheerenlanden	Vijfheerenlanden,Vijfheerenlanden Municipality,Vijfherenlanden	51.91667	5.08333	A	ADM2	NL		09	1961			0		-1	Europe/Amsterdam	2023-08-07
+2745633	Gemeente Venray	Gemeente Venray	Gemeente Venray,Venraij,Venray,Venray Municipality	51.51412	5.95927	A	ADM2	NL		05	0984			43326		30	Europe/Amsterdam	2023-08-07
+2745640	Gemeente Venlo	Gemeente Venlo	Gemeente Venlo,Venlo,Venlo Municipality	51.39277	6.16041	A	ADM2	NL		05	0983			101603		16	Europe/Amsterdam	2023-08-07
+2745675	Gemeente Velsen	Gemeente Velsen	Velsen,Velsen Municipality,Velzen	52.45182	4.63211	A	ADM2	NL		07	0453			68617		8	Europe/Amsterdam	2023-08-07
+2745704	Gemeente Veldhoven	Gemeente Veldhoven	Gemeente Veldhoven,Veldhoven,Veldhoven Municipality	51.41253	5.38052	A	ADM2	NL		06	0861			45500		22	Europe/Amsterdam	2023-08-10
+2745738	Gemeente Veere	Gemeente Veere	Gemeente Veere,Veere,Veere Municipality	51.53902	3.55688	A	ADM2	NL		10	0717			21953		-2	Europe/Amsterdam	2023-08-07
+2745773	Gemeente Veenendaal	Gemeente Veenendaal	Gemeente Veenendaal,Veenendaal,Veenendaal Municipality	52.02459	5.55562	A	ADM2	NL		09	0345			65589		10	Europe/Amsterdam	2023-08-07
+2745782	Gemeente Veendam	Gemeente Veendam	Gemeente Veendam,Veendam,Veendam Municipality	53.08951	6.87923	A	ADM2	NL		04	0047			27491		0	Europe/Amsterdam	2023-08-07
+2745859	Gemeente Valkenswaard	Gemeente Valkenswaard	Gemeente Valkenswaard,Valkenswaard,Valkenswaard Municipality	51.32575	5.45323	A	ADM2	NL		06	0858			31221		30	Europe/Amsterdam	2023-08-10
+2745904	Gemeente Vaals	Gemeente Vaals	Gemeente Vaals,Vaals,Vaals Municipality	50.77848	5.97674	A	ADM2	NL		05	0981			10092		202	Europe/Amsterdam	2023-08-06
+2745911	Gemeente Utrecht	Gemeente Utrecht	Utrecht	52.09675	5.03708	A	ADM2	NL		09	0344			347483		-1	Europe/Amsterdam	2019-01-19
+2745931	Gemeente Urk	Gemeente Urk	Urk,Urk Municipality	52.66585	5.62371	A	ADM2	NL		16	0184			20776		-2	Europe/Amsterdam	2023-08-07
+2745972	Gemeente Uithoorn	Gemeente Uithoorn	Uithoorn,Uithoorn Municipality	52.23999	4.83072	A	ADM2	NL		07	0451			30206		-5	Europe/Amsterdam	2023-08-07
+2745977	Gemeente Uitgeest	Gemeente Uitgeest	Uitgeest,Uitgeest Municipality	52.52855	4.71176	A	ADM2	NL		07	0450			13632		3	Europe/Amsterdam	2023-08-07
+2746132	Gemeente Tubbergen	Gemeente Tubbergen	Gemeente Tubbergen,Tubbergen,Tubbergen Municipality	52.40451	6.78241	A	ADM2	NL		15	0183			21315		23	Europe/Amsterdam	2023-08-07
+2746300	Gemeente Tilburg	Gemeente Tilburg	Gemeente Tilburg,Tilburg,Tilburg Municipality	51.57787	5.06555	A	ADM2	NL		06	0855			215521		14	Europe/Amsterdam	2023-08-10
+2746330	Gemeente Tiel	Gemeente Tiel	Gemeente Tiel,Tiel,Tiel Municipality	51.88463	5.40429	A	ADM2	NL		03	0281			41920		5	Europe/Amsterdam	2023-08-07
+2746350	Gemeente Tholen	Gemeente Tholen	Gemeente Tholen,Tholen,Tholen Municipality	51.58336	4.13373	A	ADM2	NL		10	0716			26085		-5	Europe/Amsterdam	2023-08-07
+2746383	Gemeente Texel	Gemeente Texel	Gemeente Texel,Texel,Texel Municipality	53.07883	4.81166	A	ADM2	NL		07	0448			13656		-2	Europe/Amsterdam	2023-08-07
+2746412	Gemeente Terschelling	Gemeente Terschelling	Gemeente Skylge,Gemeente Terschelling,Skylge,Terschelling,Terschelling Municipality	53.4	5.35	A	ADM2	NL		02	0093			4870		1	Europe/Amsterdam	2023-08-10
+2746421	Gemeente Terneuzen	Gemeente Terneuzen	Gemeente Stoppeldijk,Gemeente Terneusen,Gemeente Terneuzen,Stoppeldijk,Terneuzen,Vogelwaarde	51.2855	3.82817	A	ADM2	NL		10	0715			54440		1	Europe/Amsterdam	2019-01-19
+2746746	Gemeente Stein	Gemeente Stein	Gemeente Stein,Stein	50.97358	5.76126	A	ADM2	NL		05	0971			24875		53	Europe/Amsterdam	2023-01-30
+2746801	Gemeente Steenbergen	Gemeente Steenbergen	Gemeente Steenbergen,Steenbergen,Steenbergen Municipality	51.60081	4.32077	A	ADM2	NL		06	0851			24310		0	Europe/Amsterdam	2023-08-10
+2746837	Gemeente Staphorst	Gemeente Staphorst	Gemeente Staphorst,Staphorst,Staphorst Municipality	52.63241	6.20737	A	ADM2	NL		15	0180			17261		1	Europe/Amsterdam	2023-08-07
+2746859	Gemeente Stadskanaal	Gemeente Stadskanaal	Gemeente Stadskanaal,Stadskanaal,Stadskanaal Municipality	53.00005	6.98906	A	ADM2	NL		04	0037			31754		3	Europe/Amsterdam	2023-08-08
+2747009	Gemeente Son en Breugel	Gemeente Son en Breugel	Son,Son en Breugel,Son en Breugel Municipality	51.5097	5.49934	A	ADM2	NL		06	0848			17552		13	Europe/Amsterdam	2023-08-10
+2747020	Gemeente Someren	Gemeente Someren	Someren,Someren Municipality	51.38233	5.71049	A	ADM2	NL		06	0847			19428		27	Europe/Amsterdam	2023-08-10
+2747033	Gemeente Soest	Gemeente Soest	Gemeente Soest,Soest,Soest Municipality	52.15636	5.29854	A	ADM2	NL		09	0342			46906		14	Europe/Amsterdam	2023-08-07
+2747091	Gemeente Smallingerland	Gemeente Smallingerland	Gemeente Smallingerland,Gemeente Smellingerlan,Gemeente Smellingerlân,Smallingerland,Smallingerland Municipality,Smellingerlan,Smellingerlân	53.11667	6.03333	A	ADM2	NL		02	0090			56040		0	Europe/Amsterdam	2023-08-10
+2747114	Gemeente Sluis	Gemeente Sluis	Sluis,Sluis Municipality	51.3349	3.51974	A	ADM2	NL		10	1714			23166		0	Europe/Amsterdam	2023-08-08
+2747168	Gemeente Sliedrecht	Gemeente Sliedrecht	Gemeente Sliedrecht,Sliedrecht,Sliedrecht Municipality	51.82999	4.77191	A	ADM2	NL		11	0610			25597		-2	Europe/Amsterdam	2023-08-10
+2747233	Gemeente Sint-Michielsgestel	Gemeente Sint-Michielsgestel	Gemeente Sint-Michielsgestel,Sint-Michielsgestel,Sint-Michielsgestel Municipality	51.66076	5.37851	A	ADM2	NL		06	0845			28673		4	Europe/Amsterdam	2023-08-10
+2747311	Gemeente Simpelveld	Gemeente Simpelveld	Gemeente Simpelveld,Simpelveld,Simpelveld Municipality	50.82901	5.9841	A	ADM2	NL		05	0965			10477		156	Europe/Amsterdam	2023-08-07
+2747350	Gemeente 's-Hertogenbosch	Gemeente 's-Hertogenbosch	's-Hertogenbosch,Bois le Duc,Den Bosch	51.68267	5.30056	A	ADM2	NL		06	0796			153434		4	Europe/Amsterdam	2019-01-19
+2747372	Gemeente Den Haag	Gemeente Den Haag	's-Gravenhage,Den Haag,Gemeente 's-Gravenhage,Gemeente Den Haag,Gemeente ’s-Gravenhage,Leidschenveen,’s-Gravenhage	52.06866	4.28635	A	ADM2	NL		11	0518			532561		4	Europe/Amsterdam	2020-08-31
+2747589	Gemeente Schiermonnikoog	Gemeente Schiermonnikoog	Gemeente Schiermonnikoog,Gemeente Skiermuntseach,Gemeente Skiermûntseach,Schiermonnikoog,Schiermonnikoog Municipality,Skiermuntseach,Skiermûntseach	53.48707	6.22917	A	ADM2	NL		02	0088			931		0	Europe/Amsterdam	2023-08-10
+2747595	Gemeente Schiedam	Gemeente Schiedam	Gemeente Schiedam,Schiedam,Schiedam Municipality	51.9265	4.38675	A	ADM2	NL		11	0606			79279		-2	Europe/Amsterdam	2023-08-10
+2747605	Gemeente Scherpenzeel	Gemeente Scherpenzeel	Scherpenzeel,Scherpenzeel Municipality	52.08773	5.48698	A	ADM2	NL		03	0279			10128		8	Europe/Amsterdam	2023-08-08
+2747719	Gemeente Schagen	Gemeente Schagen	Gemeente Schagen,Schagen,Schagen Municipality	52.78823	4.79965	A	ADM2	NL		07	0441			46379		3	Europe/Amsterdam	2023-08-08
+2747857	Gemeente Rucphen	Gemeente Rucphen	Gemeente Rucphen,Rucphen,Rucphen Municipality	51.52357	4.56586	A	ADM2	NL		06	0840			23080		11	Europe/Amsterdam	2023-08-10
+2747863	Gemeente Rozendaal	Gemeente Rozendaal	Rozendaal,Rozendaal Municipality	52.03913	5.97268	A	ADM2	NL		03	0277			1726		87	Europe/Amsterdam	2023-08-08
+2747890	Rotterdam	Rotterdam	Gemeente Rotterdam,Rotterdam,Rotterdam Municipality	51.88246	4.28784	A	ADM2	NL		11	0599			651157		4	Europe/Amsterdam	2023-08-10
+2747929	Roosendaal	Roosendaal	Gemeente Roosendaal,Gemeente Roosendaal en Nispen,Roosendaal,Roosendaal Municipality,Roosendaal en Nispen,Rozendaal	51.51149	4.4226	A	ADM2	NL		06	1674			77200		6	Europe/Amsterdam	2023-08-10
+2747999	Gemeente Roermond	Gemeente Roermond	Gemeente Roermond,Roermond,Roermond Municipality	51.19999	6.009	A	ADM2	NL		05	0957			58763		24	Europe/Amsterdam	2025-10-26
+2748075	Gemeente Rijswijk	Gemeente Rijswijk	Gemeente Rijswijk,Rijswijk,Rijswijk Municipality	52.0349	4.32785	A	ADM2	NL		11	0603			55220		-1	Europe/Amsterdam	2023-08-10
+2748171	Gemeente Ridderkerk	Gemeente Ridderkerk	Gemeente Ridderkerk,Ridderkerk,Ridderkerk Municipality	51.86969	4.59785	A	ADM2	NL		11	0597			46671		0	Europe/Amsterdam	2023-08-10
+2748184	Gemeente Rhenen	Gemeente Rhenen	Rhenen,Rhenen Municipality	51.96151	5.57058	A	ADM2	NL		09	0340			20203		48	Europe/Amsterdam	2023-08-07
+2748200	Gemeente Rheden	Gemeente Rheden	Gemeente Rheden,Rheden,Rheden Municipality	52.03386	6.04547	A	ADM2	NL		03	0275			43525		82	Europe/Amsterdam	2023-08-08
+2748227	Gemeente Renswoude	Gemeente Renswoude	Gemeente Renswoude,Renswoude,Renswoude Municipality	52.07294	5.53352	A	ADM2	NL		09	0339			5556		9	Europe/Amsterdam	2023-08-07
+2748235	Gemeente Renkum	Gemeente Renkum	Gemeente Renkum,Renkum,Renkum Municipality	51.99036	5.78723	A	ADM2	NL		03	0274			31417		25	Europe/Amsterdam	2023-08-08
+2748254	Gemeente Reimerswaal	Gemeente Reimerswaal	Gemeente Reimerswaal,Reimerswaal,Reimerswaal Municipality,Reimerswall,Rilland-Bath	51.4204	4.13169	A	ADM2	NL		10	0703			22896		1	Europe/Amsterdam	2023-08-08
+2748370	Gemeente Raalte	Gemeente Raalte	Gemeente Raalte,Raalte,Raalte Municipality	52.40299	6.28773	A	ADM2	NL		15	0177			37911		4	Europe/Amsterdam	2023-08-07
+2748391	Gemeente Putten	Gemeente Putten	Gemeente Putten,Putten,Putten Municipality	52.24438	5.57827	A	ADM2	NL		03	0273			24365		8	Europe/Amsterdam	2023-08-08
+2748412	Gemeente Purmerend	Gemeente Purmerend	Purmerend,Purmerend Municipality	52.50515	4.95243	A	ADM2	NL		07	0439			81683		4	Europe/Amsterdam	2023-08-08
+2748728	Gemeente Papendrecht	Gemeente Papendrecht	Papendrecht,Papendrecht Municipality	51.83175	4.69125	A	ADM2	NL		11	0590			32171		0	Europe/Amsterdam	2023-08-10
+2748978	Gemeente Oudewater	Gemeente Oudewater	Gemeente Oudewater,Oudewater,Oudewater Municipality	52.0284	4.86243	A	ADM2	NL		09	0589			10138		-2	Europe/Amsterdam	2023-08-07
+2749027	Gemeente Ouder-Amstel	Gemeente Ouder-Amstel	Ouder-Amstel,Ouder-Amstel Municipality	52.30659	4.91432	A	ADM2	NL		07	0437			14125		-2	Europe/Amsterdam	2023-08-10
+2749233	Gemeente Oss	Gemeente Oss	Gemeente Oss,Oss,Oss Municipality	51.78103	5.58111	A	ADM2	NL		06	0828			92526		5	Europe/Amsterdam	2023-08-10
+2749277	Gemeente Opsterland	Gemeente Opsterland	Gemeente Opsterlan,Gemeente Opsterland,Gemeente Opsterlân,Opsterlan,Opsterland,Opsterland Municipality,Opsterlân	53.04849	6.12128	A	ADM2	NL		02	0086			29812		0	Europe/Amsterdam	2023-08-08
+2749285	Gemeente Opmeer	Gemeente Opmeer	Gemeente Opmeer,Opmeer,Opmeer Municipality	52.71468	4.95334	A	ADM2	NL		07	0432			12009		-4	Europe/Amsterdam	2023-08-08
+2749319	Gemeente Oostzaan	Gemeente Oostzaan	Oostzaan,Oostzaan Municipality	52.4378	4.87604	A	ADM2	NL		07	0431			9689		0	Europe/Amsterdam	2023-08-08
+2749339	Gemeente Ooststellingwerf	Gemeente Ooststellingwerf	Gemeente Ooststellingwerf,Ooststellingwerf,Ooststellingwerf Municipality	52.98264	6.27515	A	ADM2	NL		02	0085			25464		6	Europe/Amsterdam	2023-08-08
+2749447	Gemeente Oosterhout	Gemeente Oosterhout	Gemeente Oosterhout,Oosterhout,Oosterhout Municipality	51.63435	4.86399	A	ADM2	NL		06	0826			56206		6	Europe/Amsterdam	2023-08-10
+2749611	Gemeente Ommen	Gemeente Ommen	Gemeente Ommen,Ommen,Ommen Municipality	52.51659	6.45631	A	ADM2	NL		15	0175			18295		5	Europe/Amsterdam	2023-08-07
+2749643	Gemeente Oldenzaal	Gemeente Oldenzaal	Gemeente Oldenzaal,Oldenzaal,Oldenzaal Municipality	52.3075	6.9075	A	ADM2	NL		15	0173			31701		35	Europe/Amsterdam	2023-08-07
+2749667	Gemeente Oldebroek	Gemeente Oldebroek	Oldebroek	52.44502	5.90086	A	ADM2	NL		03	0269			23760		3	Europe/Amsterdam	2023-01-31
+2749679	Gemeente Oisterwijk	Gemeente Oisterwijk	Gemeente Oisterwijk,Oisterwijk,Oisterwijk Municipality	51.55289	5.20188	A	ADM2	NL		06	0824			32373		12	Europe/Amsterdam	2023-08-10
+2749682	Gemeente Oirschot	Gemeente Oirschot	Gemeente Oirschot,Oirschot,Oirschot Municipality	51.49062	5.28959	A	ADM2	NL		06	0823			18842		15	Europe/Amsterdam	2023-08-10
+2749722	Gemeente Oegstgeest	Gemeente Oegstgeest	Gemeente Oegstgeest,Oegstgeest,Oegstgeest Municipality	52.18256	4.46676	A	ADM2	NL		11	0579			25064		9	Europe/Amsterdam	2023-08-10
+2749754	Gemeente Nunspeet	Gemeente Nunspeet	Gemeente Nunspeet,Nunspeet,Nunspeet Municipality	52.33524	5.78771	A	ADM2	NL		03	0302			28021		30	Europe/Amsterdam	2023-08-08
+2749779	Gemeente Nuenen, Gerwen en Nederwetten	Gemeente Nuenen, Gerwen en Nederwetten	Nuenen,Nuenen  Gerwen en Nederwetten,Nuenen  Gerwen en Nederwetten Municipality,ヌエーネン・ヘルヴェン・エン・ネーデルヴェテン	51.46667	5.53333	A	ADM2	NL		06	0820			23702		16	Europe/Amsterdam	2023-08-21
+2749814	Gemeente Noordwijk	Gemeente Noordwijk	Gemeente Noordwijk,Noordwijk	52.26953	4.46354	A	ADM2	NL		11	0575			44062		20	Europe/Amsterdam	2023-01-30
+2749851	Gemeente Noordoostpolder	Gemeente Noordoostpolder	Gemeente Noordoostpolder,Noordoostpolder,Noordoostpolder Municipality	52.71703	5.77248	A	ADM2	NL		16	0171			47583		-3	Europe/Amsterdam	2023-08-08
+2750052	Gemeente Nijmegen	Gemeente Nijmegen	Gemeente Nijmegen,Nijmegen,Nijmegen Municipality	51.84168	5.83813	A	ADM2	NL		03	0268			175948		14	Europe/Amsterdam	2023-08-08
+2750064	Gemeente Nijkerk	Gemeente Nijkerk	Hoogland,Hoogland Municipality,Nijkerk	52.217	5.483	A	ADM2	NL		03	0267			42307		2	Europe/Amsterdam	2023-08-08
+2750186	Gemeente Nieuwkoop	Gemeente Nieuwkoop	Gemeente Nieuwkoop,Nieuwkoop,Nieuwkoop Municipality	52.17198	4.78006	A	ADM2	NL		11	0569			29151		-6	Europe/Amsterdam	2023-08-12
+2750324	Gemeente Nieuwegein	Gemeente Nieuwegein	Gemeente Nieuwegein,Nieuwegein,Nieuwegein Municipality	52.02843	5.09539	A	ADM2	NL		09	0356			63036		1	Europe/Amsterdam	2023-08-08
+2750466	Gemeente Nederweert	Gemeente Nederweert	Gemeente Nederweert,Nederweert,Nederweert Municipality	51.28813	5.77157	A	ADM2	NL		05	0946			17001		31	Europe/Amsterdam	2023-08-07
+2750620	Gemeente Mook en Middelaar	Gemeente Mook en Middelaar	Mook en Middelaar,Mook en Middelaar Municipality	51.74777	5.902	A	ADM2	NL		05	0944			7909		46	Europe/Amsterdam	2023-08-08
+2750625	Gemeente Montfoort	Gemeente Montfoort	Gemeente Montfoort,Montfoort,Montfoort Municipality	52.04767	4.94844	A	ADM2	NL		09	0335			13996		1	Europe/Amsterdam	2023-08-07
+2750894	Gemeente Middelburg	Gemeente Middelburg	Gemeente Middelburg,Middelburg,bldyt mdlbwrkh,mdlbwrkh,بلدية مدلبورخ,مدلبورخ	51.49719	3.65459	A	ADM2	NL		10	0687			48303		0	Europe/Amsterdam	2020-04-12
+2750946	Gemeente Meppel	Gemeente Meppel	Gemeente Meppel,Giethoorn,Meppel,Meppel Municipality,Wanneperveen	52.70885	6.19727	A	ADM2	NL		01	0119			33410		1	Europe/Amsterdam	2023-08-08
+2751036	Gemeente Meerssen	Gemeente Meerssen	Gemeente Meerssen,Meerssen,Meerssen Municipality	50.89518	5.75711	A	ADM2	NL		05	0938			18923		107	Europe/Amsterdam	2023-08-07
+2751072	Gemeente Medemblik	Gemeente Medemblik	Gemeente Medemblik,Medemblik,Medemblik Municipality	52.72496	5.12204	A	ADM2	NL		07	0420			45165		-5	Europe/Amsterdam	2023-08-08
+2751271	Gemeente Drimmelen	Gemeente Drimmelen	Drimmelen,Drimmelen Municipality	51.66667	4.78333	A	ADM2	NL		06	1719			27325		4	Europe/Amsterdam	2023-08-12
+2751282	Gemeente Maastricht	Gemeente Maastricht	Maastricht,Maastricht Municipality	50.85	5.7	A	ADM2	NL		05	0935			122723		52	Europe/Amsterdam	2023-08-07
+2751284	Gemeente Maassluis	Gemeente Maassluis	Gemeente Maassluis,Maassluis,Maassluis Municipality	51.92332	4.24722	A	ADM2	NL		11	0556			33567		2	Europe/Amsterdam	2023-08-10
+2751295	Gemeente Maasdriel	Gemeente Maasdriel	Driel,Gemeente Maasdriel,Maafdriel,Maasdriel,Maasdriel Municipality	51.77337	5.29711	A	ADM2	NL		03	0263			25452		2	Europe/Amsterdam	2023-08-08
+2751423	Gemeente Losser	Gemeente Losser	Gemeente Losser,Losser,Losser Municipality	52.29819	7.00106	A	ADM2	NL		15	0168			22888		35	Europe/Amsterdam	2023-08-07
+2751435	Gemeente Lopik	Gemeente Lopik	Gemeente Lopik,Lopik	51.98991	4.94851	A	ADM2	NL		09	0331			14456		-2	Europe/Amsterdam	2023-01-30
+2751455	Gemeente Loon op Zand	Gemeente Loon op Zand	Gemeente Loon op Zand,Loon op Zand,Loon op Zand Municipality	51.63782	5.0486	A	ADM2	NL		06	0809			23504		15	Europe/Amsterdam	2023-08-10
+2751536	Gemeente Lochem	Gemeente Lochem	Gemeente Lochem,Lochem,Lochem Municipality	52.18478	6.337	A	ADM2	NL		03	0262			33948		11	Europe/Amsterdam	2023-08-08
+2751546	Gemeente Lisse	Gemeente Lisse	Gemeente Lisse,Lisse,Lisse Municipality	52.25601	4.54526	A	ADM2	NL		11	0553			22982		-1	Europe/Amsterdam	2023-08-10
+2751688	Gemeente Leusden	Gemeente Leusden	Gemeente Leusden,Leusden	52.12418	5.41245	A	ADM2	NL		09	0327			30544		2	Europe/Amsterdam	2023-01-30
+2751737	Gemeente Lelystad	Gemeente Lelystad	Gemeente Lelystad,Lelystad	52.47542	5.43811	A	ADM2	NL		16	0995			79811		-3	Europe/Amsterdam	2023-01-30
+2751770	Gemeente Leiderdorp	Gemeente Leiderdorp	Gemeente Leiderdorp,Leiderdorp,Leiderdorp Municipality	52.15707	4.54318	A	ADM2	NL		11	0547			27197		3	Europe/Amsterdam	2023-08-10
+2751772	Gemeente Leiden	Gemeente Leiden	Gemeente Leiden,Leiden,Leiden Municipality	52.15274	4.4836	A	ADM2	NL		11	0546			124306		3	Europe/Amsterdam	2023-08-10
+2751791	Gemeente Leeuwarden	Gemeente Leeuwarden	Gemeente Leeuwarden,Gemeente Ljouwert,Leeuwarden,Leeuwarden Municipality,Ljouwert	53.18602	5.81111	A	ADM2	NL		02	0080			12448		1	Europe/Amsterdam	2023-08-08
+2751873	Gemeente Laren	Gemeente Laren	Gemeente Laren,Laren,Laren Municipality	52.24518	5.21701	A	ADM2	NL		07	0417			11146		16	Europe/Amsterdam	2023-08-08
+2751979	Gemeente Landsmeer	Gemeente Landsmeer	Landsmeer,Landsmeer Municipality	52.431	4.9157	A	ADM2	NL		07	0415			11565		2	Europe/Amsterdam	2023-08-08
+2752263	Gemeente Krimpen aan den IJssel	Gemeente Krimpen aan den IJssel	Gemeente Krimpen a/d IJssel,Gemeente Krimpen aan de IJssel,Krimpen aan den IJssel	51.91458	4.58819	A	ADM2	NL		11	0542			29410		0	Europe/Amsterdam	2023-01-31
+2752922	Gemeente Kerkrade	Gemeente Kerkrade	Gemeente Kerkrade,Holz-Kerkrade,Kerkrade,Kerkrade Municipality,Kirchroa	50.87337	6.04876	A	ADM2	NL		05	0928			45442		120	Europe/Amsterdam	2023-08-08
+2753012	Gemeente Katwijk	Gemeente Katwijk	Gemeente Katwijk,Katwijk,Katwijk (Zuid-Holland),Katwijk Municipalty,Katwijk  zh	52.19029	4.42129	A	ADM2	NL		11	0537			65929		2	Europe/Amsterdam	2023-08-10
+2753069	Gemeente Kapelle	Gemeente Kapelle	Gemeente Kapelle,Kapelle,Kapelle Municipality	51.48223	3.96524	A	ADM2	NL		10	0678			12882		1	Europe/Amsterdam	2023-08-08
+2753104	Gemeente Kampen	Gemeente Kampen	Gemeente Kampen,Kampen	52.56181	5.91535	A	ADM2	NL		15	0166			54474		0	Europe/Amsterdam	2023-01-29
+2753354	Gemeente IJsselstein	Gemeente IJsselstein	Gemeente IJsselstein,IJsselstein	52.02912	5.02868	A	ADM2	NL		09	0353			33819		1	Europe/Amsterdam	2025-10-26
+2753437	Gemeente Hulst	Gemeente Hulst	Gemeente Hulst,Hulst,Hulst Municipality	51.31897	4.0869	A	ADM2	NL		10	0677			27575		0	Europe/Amsterdam	2023-08-08
+2753467	Gemeente Huizen	Gemeente Huizen	Gemeente Huizen,Huizen,Huizen Municipality	52.29664	5.24132	A	ADM2	NL		07	0406			41090		4	Europe/Amsterdam	2023-08-08
+2753556	Gemeente Houten	Gemeente Houten	Houten	52.02683	5.16941	A	ADM2	NL		09	0321			50223		3	Europe/Amsterdam	2023-01-29
+2753635	Gemeente Hoorn	Gemeente Hoorn	Hoorn,Hoorn Municipality	52.64312	5.05779	A	ADM2	NL		07	0405			73619		2	Europe/Amsterdam	2023-08-08
+2753718	Gemeente Hoogeveen	Gemeente Hoogeveen	Gemeente Hoogeveen,Hoogeveen	52.7182	6.51803	A	ADM2	NL		01	0118			55603		12	Europe/Amsterdam	2025-10-26
+2754014	Hoeksche Waard	Hoeksche Waard	Hoeksche Waard,Hoekse Waard,Hoeksewaard	51.76667	4.48333	A	ADM2	NL		11	1963			0		0	Europe/Amsterdam	2019-01-20
+2754063	Gemeente Hilversum	Gemeente Hilversum	Gemeente Hilversum,Hilversum,Hilversum Municipality	52.22252	5.16789	A	ADM2	NL		07	0402			90261		16	Europe/Amsterdam	2023-08-07
+2754065	Gemeente Hilvarenbeek	Gemeente Hilvarenbeek	Gemeente Hilvarenbeek,Hilvarenbeek	51.47772	5.14778	A	ADM2	NL		06	0798			15366		14	Europe/Amsterdam	2019-01-19
+2754072	Gemeente Hillegom	Gemeente Hillegom	Gemeente Hillegom,Hillegom	52.29616	4.57822	A	ADM2	NL		11	0534			22197		2	Europe/Amsterdam	2023-01-30
+2754134	Gemeente Heusden	Gemeente Heusden	Gemeente Heusden,Heusden	51.69975	5.16598	A	ADM2	NL		06	0797			43723		7	Europe/Amsterdam	2019-01-19
+2754146	Gemeente Heumen	Gemeente Heumen	Gemeente Heumen,Heumen,Heumen Municipality	51.77438	5.81312	A	ADM2	NL		03	0252			16569		12	Europe/Amsterdam	2023-08-07
+2754392	Gemeente Hengelo	Gemeente Hengelo	Gemeente Hengelo,Hengelo,Hengelo Municipality	52.2591	6.77876	A	ADM2	NL		15	0164			102773		18	Europe/Amsterdam	2023-08-06
+2754407	Gemeente Hendrik-Ido-Ambacht	Gemeente Hendrik-Ido-Ambacht	Gemeente Hendrik-Ido-Ambacht,Hendrik-Ido-Ambacht	51.84273	4.63975	A	ADM2	NL		11	0531			30677		-1	Europe/Amsterdam	2019-01-19
+2754446	Gemeente Helmond	Gemeente Helmond	Gemeente Helmond,Helmond	51.47968	5.65559	A	ADM2	NL		06	0794			90903		21	Europe/Amsterdam	2019-01-19
+2754456	Gemeente Hellendoorn	Gemeente Hellendoorn	Gemeente Hellendoorn,Hellendoorn,Hellendoorn Municipality	52.39022	6.46434	A	ADM2	NL		15	0163			35932		7	Europe/Amsterdam	2023-08-06
+2754515	Gemeente Heiloo	Gemeente Heiloo	Gemeente Heiloo,Heiloo,Heiloo Municipality	52.60122	4.70945	A	ADM2	NL		07	0399			24144		6	Europe/Amsterdam	2023-08-07
+2754651	Gemeente Heerlen	Gemeente Heerlen	Gemeente Heerlen,Heerlen	50.88777	5.97407	A	ADM2	NL		05	0917			86762		111	Europe/Amsterdam	2019-01-19
+2754668	Gemeente Heerenveen	Gemeente Heerenveen	Gemeente Heerenveen,Gemeente It Hearrenfean,Heerenveen,Heerenveen Municipality,It Hearrenfean	52.9422	6.0441	A	ADM2	NL		02	0074			50650		4	Europe/Amsterdam	2023-08-10
+2754680	Gemeente Heerde	Gemeente Heerde	Heerde,Heerde Municipality	52.38833	6.03889	A	ADM2	NL		03	0246			18776		9	Europe/Amsterdam	2023-08-07
+2754691	Gemeente Heemstede	Gemeente Heemstede	Heemstede	52.34719	4.61838	A	ADM2	NL		07	0397			27545		5	Europe/Amsterdam	2023-01-30
+2754696	Gemeente Heemskerk	Gemeente Heemskerk	Gemeente Heemskerk,Heemskerk	52.50945	4.65386	A	ADM2	NL		07	0396			39191		3	Europe/Amsterdam	2023-01-30
+2754767	Gemeente Hattem	Gemeente Hattem	Gemeente Hattem,Hattem	52.47566	6.05195	A	ADM2	NL		03	0244			12228		4	Europe/Amsterdam	2023-01-30
+2754816	Gemeente Harlingen	Gemeente Harlingen	Harlingen	53.17525	5.41806	A	ADM2	NL		02	0072			15783		4	Europe/Amsterdam	2019-01-19
+2754843	Gemeente Hardinxveld-Giessendam	Gemeente Hardinxveld-Giessendam	Gemeente Hardinxveld-Giessendam,Giessendam Neder-Hardinxveld,Hardinxveld-Giessendam	51.82594	4.86428	A	ADM2	NL		11	0523			17958		-2	Europe/Amsterdam	2019-01-19
+2754846	Gemeente Harderwijk	Gemeente Harderwijk	Gemeente Harderwijk,Harderwijk	52.3454	5.63948	A	ADM2	NL		03	0243			48726		5	Europe/Amsterdam	2023-01-30
+2754858	Gemeente Hardenberg	Gemeente Hardenberg	Gemeente Hardenberg,Hardenberg,Stad-Hardenberg	52.59312	6.53476	A	ADM2	NL		15	0160			61357		4	Europe/Amsterdam	2023-01-29
+2754999	Gemeente Haarlemmermeer	Gemeente Haarlemmermeer	Gemeente Haarlemmermeer,Haarlemermeer,Haarlemmermeer	52.30623	4.68418	A	ADM2	NL		07	0394			157789		-1	Europe/Amsterdam	2023-01-30
+2755002	Gemeente Haarlem	Gemeente Haarlem	Gemeente Haarlem,Haarlem	52.38074	4.644	A	ADM2	NL		07	0392			162543		2	Europe/Amsterdam	2023-01-30
+2755031	Gemeente Haaksbergen	Gemeente Haaksbergen	Gemeente Haaksbergen,Haaksbergen	52.15514	6.75404	A	ADM2	NL		15	0158			24229		29	Europe/Amsterdam	2023-01-29
+2755250	Gemeente Groningen	Gemeente Groningen	Gemeente Groningen,Groningen,Groningen. Municipality	53.22369	6.56479	A	ADM2	NL		04	0014			233218		3	Europe/Amsterdam	2023-08-06
+2755270	Gemeente Berg en Dal	Gemeente Berg en Dal	Berg en Dal,Berg en Dal Municipality,Gemeente Groesbeek,Groesbeek	51.78412	5.92968	A	ADM2	NL		03	1945			35010		57	Europe/Amsterdam	2023-08-10
+2755419	Gemeente Gouda	Gemeente Gouda	Gemeente Gouda,Gouda,bldyt ghwda,bldyt ghwdt,ghwda,ghwdt,بلدية غودا,بلدية غودة,غودا,غودة	52.01917	4.7079	A	ADM2	NL		11	0513			72700		2	Europe/Amsterdam	2020-03-12
+2755433	Gemeente Gorinchem	Gemeente Gorinchem	Gemeente Gorinchem,Gorinchem	51.83873	4.97713	A	ADM2	NL		11	0512			36284		2	Europe/Amsterdam	2019-01-19
+2755463	Gemeente Goirle	Gemeente Goirle	Gemeente Goirle,Goirle	51.50875	5.03381	A	ADM2	NL		06	0785			23621		16	Europe/Amsterdam	2019-01-19
+2755475	Gemeente Goes	Gemeente Goes	Gemeente Goes,Gemeente Wolfaartsdijk,Goes,Wolphaartsdijk	51.515	3.83949	A	ADM2	NL		10	0664			38594		0	Europe/Amsterdam	2023-01-30
+2755506	Gemeente Gilze en Rijen	Gemeente Gilze en Rijen	Gemeente Gilze en Rijen,Gilz Rijen,Gilze en Reijen,Gilze en Rijen,Gilze en Rijen Municipality	51.55656	4.91253	A	ADM2	NL		06	0784			26723		12	Europe/Amsterdam	2023-08-10
+2755583	Gemeente Gennep	Gemeente Gennep	Gemeente Gennep,Gennep,Gennep Municipality	51.70063	5.98447	A	ADM2	NL		05	0907			17035		9	Europe/Amsterdam	2023-08-06
+2755668	Gemeente Geertruidenberg	Gemeente Geertruidenberg	Geertruidenberg,Geertruidenberg Municipality,Gemeente Geertruidenberg	51.69634	4.87836	A	ADM2	NL		06	0779			21770		2	Europe/Amsterdam	2023-08-10
+2755994	Gemeente Etten-Leur	Gemeente Etten-Leur	Etten-Leur,Etten-Leur Municipality,Etten-Leurs,Gemeente Etten-Leur	51.57711	4.64253	A	ADM2	NL		06	0777			43869		5	Europe/Amsterdam	2023-08-10
+2756038	Gemeente Ermelo	Gemeente Ermelo	Emelo,Ermelo,Gemeente Ermelo	52.28826	5.65538	A	ADM2	NL		03	0233			26793		30	Europe/Amsterdam	2023-01-30
+2756058	Gemeente Epe	Gemeente Epe	Epe,Gemeente Epe	52.33394	5.96175	A	ADM2	NL		03	0232			32863		15	Europe/Amsterdam	2023-01-30
+2756070	Gemeente Enschede	Gemeente Enschede	Enschede,Enschede Municipality,Gemeente Enschede	52.21909	6.88041	A	ADM2	NL		15	0153			158261		39	Europe/Amsterdam	2023-08-07
+2756076	Gemeente Enkhuizen	Gemeente Enkhuizen	Enkhuizen,Gemeente Enkhuizen	52.71653	5.27615	A	ADM2	NL		07	0388			18637		-3	Europe/Amsterdam	2023-01-30
+2756134	Gemeente Emmen	Gemeente Emmen	Emmen,Gemeente Emmen,amn,bldyt amn,إمن,بلدية إمن	52.75243	6.95938	A	ADM2	NL		01	0114			107024		19	Europe/Amsterdam	2023-01-30
+2756231	Gemeente Elburg	Gemeente Elburg	Elburg,Gemeente Elburg	52.41487	5.84868	A	ADM2	NL		03	0230			23429		5	Europe/Amsterdam	2023-01-31
+2756252	Gemeente Eindhoven	Gemeente Eindhoven	Eindhoven,Eindhoven Municipality,Gemeente Eindhoven	51.45037	5.45279	A	ADM2	NL		06	0772			229126		21	Europe/Amsterdam	2023-08-10
+2756341	Gemeente Eersel	Gemeente Eersel	Eersel,Eersel Municipality,Gemeente Eersel	51.39579	5.31956	A	ADM2	NL		06	0770			19528		27	Europe/Amsterdam	2023-08-10
+2756393	Gemeente Eemnes	Gemeente Eemnes	Eemnes,Gemeente Eemnes	52.25253	5.28391	A	ADM2	NL		09	0317			9362		-1	Europe/Amsterdam	2023-01-29
+2756428	Gemeente Ede	Gemeente Ede	Ede,Ede Municipality,Gemeente Ede	52.08118	5.7449	A	ADM2	NL		03	0228			118530		31	Europe/Amsterdam	2023-08-10
+2756430	Gemeente Edam-Volendam	Gemeente Edam-Volendam	Edam,Edam-Volendam	52.50556	5.0592	A	ADM2	NL		07	0385			36268		-1	Europe/Amsterdam	2023-01-30
+2756443	Gemeente Echt-Susteren	Gemeente Echt-Susteren	Echt-Susteren,Gemeente Echt	51.1	5.86667	A	ADM2	NL		05	1711			31751		31	Europe/Amsterdam	2019-01-19
+2756506	Gemeente Duiven	Gemeente Duiven	Duiven,Gemeente Duiven	51.9474	6.0172	A	ADM2	NL		03	0226			25066		10	Europe/Amsterdam	2023-01-30
+2756538	Gemeente Druten	Gemeente Druten	Druten,Gemeente Druten	51.87184	5.61322	A	ADM2	NL		03	0225			18991		7	Europe/Amsterdam	2023-01-30
+2756558	Gemeente Dronten	Gemeente Dronten	Dronten,Dronten Municipality,Gemeente Dronten	52.5	5.71667	A	ADM2	NL		16	0303			42432		-5	Europe/Amsterdam	2023-08-07
+2756668	Gemeente Dordrecht	Gemeente Dordrecht	Dordrecht,Dordrecht Municipality,Dordreque,Gemeente Dordrecht	51.79901	4.74159	A	ADM2	NL		11	0505			118426		-2	Europe/Amsterdam	2023-08-10
+2756685	Gemeente Utrechtse Heuvelrug	Gemeente Utrechtse Heuvelrug	Utrechtse Heuvelrug	52.03486	5.35738	A	ADM2	NL		09	1581			49946		27	Europe/Amsterdam	2023-01-30
+2756722	Gemeente Dongen	Gemeente Dongen	Dongen,Dongen Municipality,Gemeente Dongen	51.63754	4.95361	A	ADM2	NL		06	0766			25777		1	Europe/Amsterdam	2023-08-10
+2756766	Gemeente Doetinchem	Gemeente Doetinchem	Doetinchem,Doetinchem Municipality,Gemeente Doetinchem	51.96216	6.27955	A	ADM2	NL		03	0222			58270		12	Europe/Amsterdam	2023-08-07
+2756770	Gemeente Doesburg	Gemeente Doesburg	Doesburg,Doesburg Municipality,Gemeente Doesburg	52.01935	6.14855	A	ADM2	NL		03	0221			11064		9	Europe/Amsterdam	2023-08-07
+2756887	Gemeente Diemen	Gemeente Diemen	Diemen,Diemen Municipality	52.34163	4.96805	A	ADM2	NL		07	0384			31334		2	Europe/Amsterdam	2023-08-07
+2756986	Gemeente Deventer	Gemeente Deventer	Deventer,Deventer Municipality,Gemeente Deventer	52.26927	6.23795	A	ADM2	NL		15	0150			101236		5	Europe/Amsterdam	2023-08-07
+2757008	Gemeente Deurne	Gemeente Deurne	Deurne,Deurne Municipality,Gemeente Deurne	51.43701	5.82245	A	ADM2	NL		06	0762			32437		27	Europe/Amsterdam	2023-08-10
+2757219	Gemeente Den Helder	Gemeente Den Helder	Den Helder,Den Helder Municipality,Gemeente Den Helder	52.92366	4.75793	A	ADM2	NL		07	0400			56369		0	Europe/Amsterdam	2023-08-10
+2757344	Gemeente Delft	Gemeente Delft	Delft,Delft Municipality,Gemeente Delft	51.99968	4.36405	A	ADM2	NL		11	0503			102253		1	Europe/Amsterdam	2023-08-10
+2757782	Gemeente De Bilt	Gemeente De Bilt	De Bilt,De Bilt Municipality,Gemeente De Bilt	52.14137	5.16828	A	ADM2	NL		09	0310			43384		-1	Europe/Amsterdam	2023-08-07
+2757834	Gemeente Dantumadiel	Gemeente Dantumadiel	Dantumadeel,Dantumadiel,Dantumadiel Municipality	53.29113	5.99545	A	ADM2	NL		02	1891			18943		2	Europe/Amsterdam	2023-08-10
+2757849	Gemeente Dalfsen	Gemeente Dalfsen	Dalfsen,Dalfsen Municipality,Gemeente Dalfsen	52.52461	6.27214	A	ADM2	NL		15	0148			28901		14	Europe/Amsterdam	2023-08-07
+2757871	Gemeente Culemborg	Gemeente Culemborg	Culemborg,Culemborg Municipality,Gemeente Culemborg	51.94465	5.20946	A	ADM2	NL		03	0216			29121		2	Europe/Amsterdam	2023-08-07
+2757936	Gemeente Coevorden	Gemeente Coevorden	Coevorden,Coevorden Municipality,Gemeente Coevorden,Koevorden	52.74344	6.72487	A	ADM2	NL		01	0109			35317		14	Europe/Amsterdam	2025-07-05
+2757990	Gemeente Castricum	Gemeente Castricum	Castricum,Castricum Municipality,Gemeente Castricum	52.55577	4.68945	A	ADM2	NL		07	0383			36086		2	Europe/Amsterdam	2023-08-07
+2758011	Gemeente Capelle aan den IJssel	Gemeente Capelle aan den IJssel	Capelle aan den IJssel,Gemeente Capelle a/d IJssel,Gemeente Capelle a/d Yssel,Gemeente Capelle aan de IJssel,Gemeente Capelle aan de Yssel,Gemeente Capelle aan den IJssel	51.93567	4.57819	A	ADM2	NL		11	0502			67319		-2	Europe/Amsterdam	2023-01-31
+2758095	Gemeente Buren	Gemeente Buren	Buren,Buren Municipality	51.90901	5.33403	A	ADM2	NL		03	0214			27009		5	Europe/Amsterdam	2023-08-07
+2758103	Gemeente Bunschoten	Gemeente Bunschoten	Bunschoten,Gemeente Bunschoten	52.24249	5.35837	A	ADM2	NL		09	0313			22019		-2	Europe/Amsterdam	2023-01-31
+2758105	Gemeente Bunnik	Gemeente Bunnik	Bunnik,Bunnik Municipality,Gemeente Bunnik	52.04228	5.21664	A	ADM2	NL		09	0312			15341		1	Europe/Amsterdam	2023-08-06
+2758173	Gemeente Brunssum	Gemeente Brunssum	Brunssum,Brunssum Municipality,Gemeente Brunssum	50.94451	5.97618	A	ADM2	NL		05	0899			27670		79	Europe/Amsterdam	2023-08-06
+2758176	Gemeente Brummen	Gemeente Brummen	Brummen,Brummen Municipality,Gemeente Brummen	52.11063	6.11791	A	ADM2	NL		03	0213			20884		8	Europe/Amsterdam	2023-08-07
+2758257	Gemeente Waterland	Gemeente Waterland	Broek in Waterland,Waterland	52.4376	5.01371	A	ADM2	NL		07	0852			17259		-3	Europe/Amsterdam	2019-01-19
+2758400	Gemeente Breda	Gemeente Breda	Breda,Breda Municipality,Gemeente Breda	51.5779	4.76039	A	ADM2	NL		06	0758			183448		5	Europe/Amsterdam	2023-08-10
+2758459	Gemeente Boxtel	Gemeente Boxtel	Boxtel,Boxtel Municipality,Gemeente Boxtel	51.58472	5.32654	A	ADM2	NL		06	0757			32973		8	Europe/Amsterdam	2023-08-10
+2758588	Gemeente Borsele	Gemeente Borsele	Borsele,Borsele Municipality,Borssele,Gemeente Borsele	51.44191	3.81127	A	ADM2	NL		10	0654			22818		0	Europe/Amsterdam	2023-08-07
+2758597	Gemeente Borne	Gemeente Borne	Borne,Borne Municipality,Gemeente Borne	52.3112	6.74404	A	ADM2	NL		15	0147			23877		12	Europe/Amsterdam	2023-08-06
+2758619	Gemeente Borger-Odoorn	Gemeente Borger-Odoorn	Borger-Odoorn,Borger-Odoorn Municipality,Gemeente Borger,Gemeente Borger-Odoorn	52.90501	6.88042	A	ADM2	NL		01	1681			25598		5	Europe/Amsterdam	2023-08-07
+2758757	Gemeente Boekel	Gemeente Boekel	Boekel,Boekel Municipality,Gemeente Boekel	51.60489	5.69357	A	ADM2	NL		06	0755			10959		20	Europe/Amsterdam	2023-08-10
+2758802	Gemeente Bloemendaal	Gemeente Bloemendaal	Bloemendaal,Gemeente Bloemendaal	52.3623	4.58968	A	ADM2	NL		07	0377			23478		12	Europe/Amsterdam	2023-01-31
+2758867	Gemeente Blaricum	Gemeente Blaricum	Blaricum,Blaricum Municipality,Gemeente Blaricum	52.28548	5.2683	A	ADM2	NL		07	0376			11954		4	Europe/Amsterdam	2023-08-07
+2758877	Gemeente Bladel	Gemeente Bladel	Bladel,Bladel Municipality,Bladel en Netersel,Gemeente Bladel	51.35	5.21667	A	ADM2	NL		06	1728			20144		33	Europe/Amsterdam	2023-08-10
+2758997	Gemeente Beverwijk	Gemeente Beverwijk	Beverwijk,Beverwijk Municipality,Gemeente Beverwijk	52.48273	4.65468	A	ADM2	NL		07	0375			41863		5	Europe/Amsterdam	2023-08-07
+2759014	Gemeente Beuningen	Gemeente Beuningen	Beuningen,Beuningen Municipality,Gemeente Beuningen	51.8595	5.74362	A	ADM2	NL		03	0209			26157		8	Europe/Amsterdam	2023-08-07
+2759039	Gemeente Best	Gemeente Best	Best,Best Municipality,Gemeente Best	51.5	5.38333	A	ADM2	NL		06	0753			30216		18	Europe/Amsterdam	2023-08-10
+2759131	Bergeijk	Bergeijk	Bergeijk,Bergeijk Municipality,Bergeyk,Gemeente Bergeijk,Gemeente Bergeyk,byrkh ayk,بيرخ آيك	51.30182	5.33946	A	ADM2	NL		06	1724			18754		32	Europe/Amsterdam	2023-08-10
+2759144	Gemeente Bergen op Zoom	Gemeente Bergen op Zoom	Bergen op Zoom,Bergen op Zoom Municipality,Gemeente Bergen op Zoom	51.50451	4.29108	A	ADM2	NL		06	0748			67514		6	Europe/Amsterdam	2023-08-10
+2759151	Gemeente Bergen	Gemeente Bergen	Bergen,Bergen (NH.),Gemeente Bergen,Gemeente Bergen Lb.	52.65783	4.6761	A	ADM2	NL		07	0373			29715		0	Europe/Amsterdam	2023-01-30
+2759152	Gemeente Bergen	Gemeente Bergen	Bergen,Bergen (L.),Bergen Municipality,Gemeente Bergen,Gemeente Bergen NH	51.57717	6.09014	A	ADM2	NL		05	0893			13108		15	Europe/Amsterdam	2023-08-07
+2759285	Gemeente Beesel	Gemeente Beesel	Beesel,Beesel Municipality,Gemeente Beesel	51.27016	6.06771	A	ADM2	NL		05	0889			13519		24	Europe/Amsterdam	2023-08-06
+2759343	Gemeente Beek	Gemeente Beek	Beek,Beek Municipality,Gemeente Beek	50.93237	5.80587	A	ADM2	NL		05	0888			15929		101	Europe/Amsterdam	2023-08-06
+2759406	Gemeente Barneveld	Gemeente Barneveld	Barneveld,Barneveld Municipality,Gemeente Barneveld	52.1688	5.63985	A	ADM2	NL		03	0203			57339		15	Europe/Amsterdam	2023-08-07
+2759425	Gemeente Barendrecht	Gemeente Barendrecht	Barendrecht,Barendrecht Municipality,Gemeente Barendrecht	51.84974	4.5254	A	ADM2	NL		11	0489			48643		0	Europe/Amsterdam	2023-08-09
+2759543	Gemeente Baarn	Gemeente Baarn	Baarn,Baarn Municipality,Gemeente Baarn	52.20602	5.27144	A	ADM2	NL		09	0308			24767		18	Europe/Amsterdam	2023-08-06
+2759553	Gemeente Baarle-Nassau	Gemeente Baarle-Nassau	Baarle-Nassau,Baarle-Nassau Municipality,Gemeente Baarle-Nassau	51.43544	4.9118	A	ADM2	NL		06	0744			6899		28	Europe/Amsterdam	2023-08-09
+2759619	Gemeente Asten	Gemeente Asten	Asten,Asten Municipality,Gemeente Asten	51.39231	5.7791	A	ADM2	NL		06	0743			16817		23	Europe/Amsterdam	2023-08-10
+2759632	Gemeente Assen	Gemeente Assen	Assen,Assen Municipality,Gemeente Assen	52.99635	6.55255	A	ADM2	NL		01	0106			67963		11	Europe/Amsterdam	2023-08-06
+2759660	Gemeente Arnhem	Gemeente Arnhem	Arnhem,Arnhem Municipality,Gemeente Arnhem	52.00113	5.89641	A	ADM2	NL		03	0202			157223		80	Europe/Amsterdam	2023-08-07
+2759705	Gemeente Apeldoorn	Gemeente Apeldoorn	Apeldoorn,Apeldoorn Municipality,Gemeente Apeldoorn	52.18722	5.91969	A	ADM2	NL		03	0200			161156		39	Europe/Amsterdam	2023-11-06
+2759793	Gemeente Amsterdam	Gemeente Amsterdam	Amsterdam,Gemeente Amsterdam	52.37302	4.89856	A	ADM2	NL		07	0363			854047	-2	11	Europe/Amsterdam	2019-01-19
+2759797	Gemeente Amstelveen	Gemeente Amstelveen	Amstelveen,Amstelveen Municipality,Nieuwer Amstel	52.2984	4.85767	A	ADM2	NL		07	0362			90829		-2	Europe/Amsterdam	2023-08-07
+2759820	Gemeente Amersfoort	Gemeente Amersfoort	Amersfoort,Amersfoort Municipality,Gemeente Amersfoort	52.17375	5.38954	A	ADM2	NL		09	0307			156286		5	Europe/Amsterdam	2023-08-07
+2759844	Gemeente Ameland	Gemeente Ameland	Ameland,Ameland Municipalitye,Gemeente Ameland,Gemeente It Amelan,Gemeente It Amelân,It Amelan,It Amelân	53.45024	5.78277	A	ADM2	NL		02	0060			3654		2	Europe/Amsterdam	2023-08-10
+2759874	Gemeente Alphen aan den Rijn	Gemeente Alphen aan den Rijn	Alphen aan den Rijn,Gemeente Alphen a/d Rijn,Gemeente Alphen aan de Rijn,Gemeente Alphen aan den Rijn	52.12974	4.68892	A	ADM2	NL		11	0484			112587		-4	Europe/Amsterdam	2023-01-31
+2759886	Gemeente Almelo	Gemeente Almelo	Almelo,Almelo Municipality,Almeloo,Gemeente Almelo	52.34463	6.65942	A	ADM2	NL		15	0141			72849		13	Europe/Amsterdam	2023-08-06
+2759898	Gemeente Alkmaar	Gemeente Alkmaar	Alkmaar,Alkmaar Municipality	52.6289	4.74403	A	ADM2	NL		07	0361			111766		5	Europe/Amsterdam	2023-08-07
+2759914	Gemeente Alblasserdam	Gemeente Alblasserdam	Alblasserdam,Alblasserdam Municipality,Gemeente Alblasserdam	51.85985	4.66321	A	ADM2	NL		11	0482			20136		-1	Europe/Amsterdam	2023-08-09
+2759982	Gemeente Achtkarspelen	Gemeente Achtkarspelen	Achtkarspelen,Achtkerspelen,Gemeente Achtkarspelen	53.21167	6.13776	A	ADM2	NL		02	0059			27900		-2	Europe/Amsterdam	2023-01-30
+2760122	Gemeente Aalten	Gemeente Aalten	Aalten,Aalten Municipality,Gemeente Aalten	51.9242	6.56574	A	ADM2	NL		03	0197			27120		23	Europe/Amsterdam	2023-08-07
+2760133	Gemeente Aalsmeer	Gemeente Aalsmeer	Aalsmeer,Aalsmeer Municipality	52.26406	4.76532	A	ADM2	NL		07	0358			31991		-4	Europe/Amsterdam	2023-08-07
+3345301	Gemeente Wijdemeren	Gemeente Wijdemeren	Gemeente Wijdemeren,Wijdemeren,Wijdemeren Municipality	52.22756	5.08445	A	ADM2	NL		07	1696			24463		-1	Europe/Amsterdam	2023-08-10
+6251995	Gemeente Moerdijk	Gemeente Moerdijk	Moerdijk,Moerdijk Municipality	51.63933	4.56379	A	ADM2	NL		06	1709			37185	0	-1	Europe/Amsterdam	2023-08-10
+6544220	Gemeente Koggenland	Gemeente Koggenland	Koggenland,Koggenland Municipality	52.64163	4.94909	A	ADM2	NL		07	1598			22940		-2	Europe/Amsterdam	2023-08-08
+6544221	Gemeente Pijnacker-Nootdorp	Gemeente Pijnacker-Nootdorp	Pijnacker-Nootdorp,Pijnacker-Nootdorp Municipality	52.02615	4.41944	A	ADM2	NL		11	1926			55674		-6	Europe/Amsterdam	2023-08-10
+6544222	Oude IJsselstreek	Oude IJsselstreek	Oude IJsselstreek	51.89963	6.38078	A	ADM2	NL		03	1509			39346		12	Europe/Amsterdam	2023-01-31
+6544223	Gemeente Kaag en Braassem	Gemeente Kaag en Braassem	Kaag en Braassem,Kaag en Braassem  Municipality	52.19393	4.65516	A	ADM2	NL		11	1884			27541		-3	Europe/Amsterdam	2023-08-10
+6544225	Gulpen-Wittem	Gulpen-Wittem	Gulpen,Gulpen-Wittem	50.81374	5.89296	A	ADM2	NL		05	1729			14206		104	Europe/Amsterdam	2023-01-31
+6544226	Gemeente Leudal	Gemeente Leudal	Leudal	51.24371	5.89815	A	ADM2	NL		05	1640			36045		29	Europe/Amsterdam	2023-01-31
+6544227	Gemeente De Wolden	Gemeente De Wolden	De Wolden	52.70102	6.37277	A	ADM2	NL		01	1690			24374		7	Europe/Amsterdam	2023-01-31
+6544228	Oost Gelre	Oost Gelre	Oost Gelre	52.00425	6.54958	A	ADM2	NL		03	1586			29574		20	Europe/Amsterdam	2023-01-31
+6544230	Gemeente Rijssen-Holten	Gemeente Rijssen-Holten	Rijssen-Holten	52.29	6.42515	A	ADM2	NL		15	1742			38204		36	Europe/Amsterdam	2023-01-31
+6544232	Gemeente Geldrop-Mierlo	Gemeente Geldrop-Mierlo	Geldrop-Mierlo,Geldrop-Mierlo Municipality	51.43372	5.59926	A	ADM2	NL		06	1771			40066		25	Europe/Amsterdam	2023-08-10
+6544233	Gemeente Horst aan de Maas	Gemeente Horst aan de Maas	Horst aan de Maas,Horst aan de Maas Municipality	51.45931	6.10254	A	ADM2	NL		05	1507			42487		23	Europe/Amsterdam	2023-08-10
+6544234	Gemeente Pekela	Gemeente Pekela	Pekela	53.05969	6.9651	A	ADM2	NL		04	0765			12176		0	Europe/Amsterdam	2023-01-31
+6544235	Gemeente Steenwijkerland	Gemeente Steenwijkerland	Gemeente Steenwijk,Steenwijkerland	52.75587	6.04028	A	ADM2	NL		15	1708			44341		-2	Europe/Amsterdam	2023-01-31
+6544236	Gemeente Lingewaard	Gemeente Lingewaard	Lingewaard	51.89558	5.94577	A	ADM2	NL		03	1705			46625		8	Europe/Amsterdam	2023-01-31
+6544238	Gemeente Stede Broec	Gemeente Stede Broec	Stede Broec,Stede Broec Municipality	52.69617	5.22389	A	ADM2	NL		07	0532			21743		-2	Europe/Amsterdam	2023-08-08
+6544239	Gemeente Westerveld	Gemeente Westerveld	Westerveld	52.827	6.2906	A	ADM2	NL		01	1701			19661		6	Europe/Amsterdam	2023-01-31
+6544242	Gemeente Albrandswaard	Gemeente Albrandswaard	Albrandswaard,Albrandswaard Municipality	51.85792	4.40833	A	ADM2	NL		11	0613			25814		0	Europe/Amsterdam	2023-08-10
+6544244	Gemeente Maasgouw	Gemeente Maasgouw	Maasgouw	51.15426	5.87712	A	ADM2	NL		05	1641			23947		19	Europe/Amsterdam	2023-01-31
+6544245	Gemeente Twenterand	Gemeente Twenterand	Twenterand	52.44974	6.56122	A	ADM2	NL		15	1700			33699		8	Europe/Amsterdam	2023-01-31
+6544248	Gemeente Olst-Wijhe	Gemeente Olst-Wijhe	Olst-Wijhe	52.35734	6.13481	A	ADM2	NL		15	1773			18361		2	Europe/Amsterdam	2023-01-31
+6544249	Gemeente Alphen-Chaam	Gemeente Alphen-Chaam	Alphen-Chaam,Alphen-Chaam Municipality	51.50341	4.88013	A	ADM2	NL		06	1723			10373		13	Europe/Amsterdam	2023-08-10
+6544250	Gemeente De Ronde Venen	Gemeente De Ronde Venen	De Ronde Venen	52.21515	4.90123	A	ADM2	NL		09	0736			44720		-6	Europe/Amsterdam	2023-01-31
+6544251	Schouwen-Duiveland	Schouwen-Duiveland	Gemeente Schouwen-Duiveland,Schouwen-Duiveland,Schouwen-Duiveland Municipality,Schouwen-Duveland,Skhauven-Djojveland,Sxauven-Dauveland,Схаувен-Дёйвеланд,Շխաուվեն-Դաուվելանդ	51.69294	3.88676	A	ADM2	NL		10	1676			34065		-1	Europe/Amsterdam	2023-08-10
+6544252	Gemeente Leidschendam-Voorburg	Gemeente Leidschendam-Voorburg	Leidschendam-Voorburg,Leidschendam-Voorburg Municipality	52.07833	4.40139	A	ADM2	NL		11	1916			76433		-1	Europe/Amsterdam	2023-08-10
+6544253	Gemeente Noord-Beveland	Gemeente Noord-Beveland	Noord-Beveland	51.57226	3.78353	A	ADM2	NL		10	1695			7581		0	Europe/Amsterdam	2023-01-31
+6544254	Gemeente Drechterland	Gemeente Drechterland	Drechterland	52.66454	5.16569	A	ADM2	NL		07	0498			19838		-3	Europe/Amsterdam	2023-01-31
+6544255	Gemeente Sittard-Geleen	Gemeente Sittard-Geleen	Sittard-Geleen	51.01074	5.82288	A	ADM2	NL		05	1883			92956		48	Europe/Amsterdam	2019-01-19
+6544256	Gemeente Montferland	Gemeente Montferland	Montferland	51.91925	6.21333	A	ADM2	NL		03	1955			36031		27	Europe/Amsterdam	2023-01-31
+6544258	Landgraaf	Landgraaf	Landgraaf,Landgraf,Landxraf,Lankgraaf,lan de he la fu,landkhraf,Ландграф,Լանդխրաֆ,لاندخراف,لینڈگراف,蘭德赫拉夫	50.91333	6.05722	A	ADM2	NL		05	0882			37262		136	Europe/Amsterdam	2023-01-31
+6544259	Gemeente Almere	Gemeente Almere	Almere	52.36861	5.2375	A	ADM2	NL		16	0034			214715		-4	Europe/Amsterdam	2023-01-31
+6544260	Gemeente Zwartewaterland	Gemeente Zwartewaterland	Zwartewaterland	52.6024	6.07402	A	ADM2	NL		15	1896			22823		-2	Europe/Amsterdam	2023-01-31
+6544261	Gemeente Westland	Gemeente Westland	Westland,Westland Municipality	51.99671	4.22729	A	ADM2	NL		11	1783			111382		9	Europe/Amsterdam	2023-08-10
+6544262	Gemeente Midden-Delfland	Gemeente Midden-Delfland	Midden-Delfland,Midden-Delfland Municipality	51.96528	4.30525	A	ADM2	NL		11	1842			19414		-3	Europe/Amsterdam	2023-08-10
+6544263	Gemeente Wormerland	Gemeente Wormerland	Wormerland	52.497	4.83364	A	ADM2	NL		07	0880			15995		-3	Europe/Amsterdam	2019-01-19
+6544264	Gemeente Roerdalen	Gemeente Roerdalen	Roerdalen	51.13492	6.03542	A	ADM2	NL		05	1669			20580		36	Europe/Amsterdam	2023-01-31
+6544265	Gemeente West Maas en Waal	Gemeente West Maas en Waal	West Maas en Waal,West Maas en Waal Municipality	51.84494	5.51074	A	ADM2	NL		03	0668			19581		5	Europe/Amsterdam	2023-08-09
+6544266	Gemeente Laarbeek	Gemeente Laarbeek	Laarbeek,Laarbeek Municipality	51.52643	5.61283	A	ADM2	NL		06	1659			22805		13	Europe/Amsterdam	2023-08-10
+6544268	Gemeente Bernheze	Gemeente Bernheze	Bernheze	51.68556	5.52378	A	ADM2	NL		06	1721			31455		7	Europe/Amsterdam	2023-01-31
+6544269	Gemeente Neder-Betuwe	Gemeente Neder-Betuwe	Neder-Betuwe,Neder-Betuwe Municipality	51.91442	5.57147	A	ADM2	NL		03	1740			24648		8	Europe/Amsterdam	2023-08-09
+6544271	Gemeente Halderberge	Gemeente Halderberge	Halderberge	51.58925	4.50597	A	ADM2	NL		06	1655			30430		1	Europe/Amsterdam	2023-01-31
+6544276	Gemeente Overbetuwe	Gemeente Overbetuwe	Overbetuwe	51.91843	5.78686	A	ADM2	NL		03	1734			47481		6	Europe/Amsterdam	2019-01-19
+6544277	Gemeente Heeze-Leende	Gemeente Heeze-Leende	Heeze-Leende	51.36404	5.5587	A	ADM2	NL		06	1658			16243		23	Europe/Amsterdam	2023-01-31
+6544279	Gemeente Gemert-Bakel	Gemeente Gemert-Bakel	Gemert-Bakel	51.52554	5.72802	A	ADM2	NL		06	1652			30760		20	Europe/Amsterdam	2023-01-31
+6544280	Gemeente Reusel-De Mierden	Gemeente Reusel-De Mierden	Reusel-De Mierden	51.38047	5.1579	A	ADM2	NL		06	1667			13127		32	Europe/Amsterdam	2023-01-31
+6544282	Gemeente Tynaarlo	Gemeente Tynaarlo	Tynaarlo	53.10417	6.60271	A	ADM2	NL		01	1730			33978		4	Europe/Amsterdam	2023-01-31
+6544285	Gemeente Dinkelland	Gemeente Dinkelland	Dinkelland	52.37108	6.89294	A	ADM2	NL		15	1774			26606		22	Europe/Amsterdam	2023-01-31
+6544286	Berkelland	Berkelland	Berkeland,Berkelland,byrkyland,Беркелланд,Բերկելանդ,بيركيلاند	52.10606	6.56748	A	ADM2	NL		03	1859			43846		18	Europe/Amsterdam	2023-01-30
+6544287	Gemeente Noordenveld	Gemeente Noordenveld	Noordenveld	53.11494	6.44622	A	ADM2	NL		01	1699			31214		1	Europe/Amsterdam	2023-01-31
+6544288	Gemeente Cranendonck	Gemeente Cranendonck	Cranendonck	51.27746	5.58373	A	ADM2	NL		06	1706			21001		31	Europe/Amsterdam	2023-01-31
+6544289	Gemeente Hof van Twente	Gemeente Hof van Twente	Hof van Twente	52.24341	6.59749	A	ADM2	NL		15	1735			35040		14	Europe/Amsterdam	2023-01-30
+6544290	Gemeente Bronckhorst	Gemeente Bronckhorst	Bronckhorst	52.04401	6.30378	A	ADM2	NL		03	1876			36087		14	Europe/Amsterdam	2023-01-30
+6544291	Gemeente Lansingerland	Gemeente Lansingerland	Lansingerland	52.00389	4.51088	A	ADM2	NL		11	1621			63363		-6	Europe/Amsterdam	2023-01-31
+6544293	Gemeente Teylingen	Gemeente Teylingen	Teylingen	52.21556	4.50648	A	ADM2	NL		11	1525			37791		2	Europe/Amsterdam	2023-01-31
+6544296	Gemeente Aa en Hunze	Gemeente Aa en Hunze	Aa en Hunze	53.00445	6.74908	A	ADM2	NL		01	1680			25399		16	Europe/Amsterdam	2023-01-30
+6544297	Gemeente Midden-Drenthe	Gemeente Midden-Drenthe	Midden-Drenthe	52.86716	6.5384	A	ADM2	NL		01	1731			33381		13	Europe/Amsterdam	2023-01-30
+6544299	Valkenburg aan de Geul	Valkenburg aan de Geul	Valkenburg aan de Geul	50.85711	5.83489	A	ADM2	NL		05	0994			16365		100	Europe/Amsterdam	2023-01-30
+6544304	Gemeente Tytsjerksteradiel	Gemeente Tytsjerksteradiel	Tietjerksteradeel,Tytsjerksteradiel,Tytsjerksteradiel Municipality	53.19966	5.95802	A	ADM2	NL		02	0737			32060		-2	Europe/Amsterdam	2023-08-09
+7535498	Gemeente Oldambt	Gemeente  Oldambt	Oldambt,Oldambt Municipality	53.16859	7.04224	A	ADM2	NL		04	1895			38277		-1	Europe/Amsterdam	2023-08-08
+7535501	Gemeente Zuidplas	Gemeente Zuidplas	Zuidplas	52.01574	4.61048	A	ADM2	NL		11	1892			45064		-7	Europe/Amsterdam	2023-01-31
+7535502	Gemeente Peel en Maas	Gemeente Peel en Maas	Peel en Maas,Peel en Maas Municipality	51.32353	5.97261	A	ADM2	NL		05	1894			43660		35	Europe/Amsterdam	2023-08-08
+8260046	Eijsden-Margraten	Eijsden-Margraten	Eesjde-Mergraote,Eijsden-Margraten,Eijsden-Margraten Municipality,Eysden-Marxraten,Èèsjde-Mergraote,Էյսդեն-Մարխրատեն	50.8009	5.77408	A	ADM2	NL		05	1903			25900		138	Europe/Amsterdam	2023-08-08
+8260047	Stichtse Vecht	Stichtse Vecht	Stichtse Vecht,Stixtse Vext,Ստիխտսե Վեխտ	52.17679	5.01259	A	ADM2	NL		09	1904			65108		-2	Europe/Amsterdam	2023-01-30
+8260049	Sûdwest Fryslân	Sudwest Fryslan	Southwest Friesland,Sudwest-Fryslan,Súdwest-Fryslân	53.01056	5.5258	A	ADM2	NL		02	1900			89999		-2	Europe/Amsterdam	2024-06-18
+8260050	Bodegraven-Reeuwijk	Bodegraven-Reeuwijk	Bodegraven-Reeuwijk	52.06541	4.76634	A	ADM2	NL		11	1901			35278		-2	Europe/Amsterdam	2023-01-31
+8426240	Gemeente Hollands Kroon	Gemeente Hollands Kroon	Hollands Kroon,Hollands Kroon Municipality	52.84882	4.90711	A	ADM2	NL		07	1911			47681		-3	Europe/Amsterdam	2023-08-09
+8549513	Gemeente Goeree-Overflakkee	Gemeente Goeree-Overflakkee	Gemeente Goeree-Overflakkee,Goeree-Overflakkee	51.75351	4.11264	A	ADM2	NL		11	1924			50589		1	Europe/Amsterdam	2024-05-31
+10287303	De Fryske Marren	De Fryske Marren	De Friese Meren,De Fryske Marren,De Fryske Marren Municipality	52.96906	5.77246	A	ADM2	NL		02	1940			51778		-2	Europe/Amsterdam	2023-08-09
+10287316	Krimpenerwaard	Krimpenerwaard		51.98171	4.77828	A	ADM2	NL		11	1931			55644		-3	Europe/Amsterdam	2019-01-19
+10287324	Nissewaard	Nissewaard		51.83716	4.2754	A	ADM2	NL		11	1930			85440		-3	Europe/Amsterdam	2023-01-31
+11189015	Gooise Meren	Gooise Meren		52.29735	5.13371	A	ADM2	NL		07	1942			58524		1	Europe/Amsterdam	2023-01-30
+11669500	Meierijstad	Meierijstad		51.59968	5.50278	A	ADM2	NL		06	1948			79633		9	Europe/Amsterdam	2023-01-31
+12022123	Waadhoeke	Waadhoeke		53.18947	5.50793	A	ADM2	NL		02	1949			46112		-2	Europe/Amsterdam	2019-01-19
+12022124	Westerwolde	Westerwolde	Westerwolde Municipality	53.028	7.15671	A	ADM2	NL		04	1950			24684		1	Europe/Amsterdam	2023-08-07
+12022125	Midden-Groningen	Midden-Groningen	Midden-Groningen Municipality	53.15113	6.83313	A	ADM2	NL		04	1952			60953		-3	Europe/Amsterdam	2023-08-07
+12022126	Het Hogeland	Het Hogeland		53.37587	6.52876	A	ADM2	NL		04	1966			0		1	Europe/Amsterdam	2019-01-19
+12022127	West Betuwe	West Betuwe		51.86158	5.20935	A	ADM2	NL		03	1960			0		2	Europe/Amsterdam	2019-01-19
+12022128	Altena	Altena		51.76564	4.94592	A	ADM2	NL		06	1959			0		-2	Europe/Amsterdam	2019-01-19
+12022129	Beekdaelen	Beekdaelen		50.93673	5.89717	A	ADM2	NL		05	1954			0		86	Europe/Amsterdam	2019-01-19
+12022130	Molenlanden	Molenlanden		51.88465	4.84521	A	ADM2	NL		11	1978			0		-3	Europe/Amsterdam	2019-01-19
+12022131	Noardeast-Fryslân	Noardeast-Fryslan	Nordostfriesland,Northeast Friesland	53.33212	6.02098	A	ADM2	NL		02	1970			45181		-1	Europe/Amsterdam	2024-06-18
+12253550	Eemsdelta	Eemsdelta	Eemsdelta Municipality	53.3307	6.8697	A	ADM2	NL		04	1979			45609		-1	Europe/Amsterdam	2023-08-07
+12494993	Land van Cuijk	Land van Cuijk	Land van Cuijk	51.72016	5.84693	A	ADM2	NL		06	1982			90000		10	Europe/Amsterdam	2022-10-03
+12494996	Maashorst	Maashorst		51.69193	5.63469	A	ADM2	NL		06	1991			58383		20	Europe/Amsterdam	2022-09-30
+12494997	Dijk en Waard	Dijk en Waard		52.68423	4.81908	A	ADM2	NL		07	1980			88786		-2	Europe/Amsterdam	2023-01-30
+13192441	Voorne aan Zee	Voorne aan Zee		51.87738	4.11512	A	ADM2	NL		11	1992			73873		1	Europe/Amsterdam	2025-01-29

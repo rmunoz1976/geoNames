@@ -1,0 +1,8 @@
+﻿12746827	Alarm Forest	Alarm Forest		-15.93434	-5.71809	A	ADM2	SH		02	12746827			394		304	Atlantic/St_Helena	2024-03-04
+12746828	Blue Hill	Blue Hill		-15.98381	-5.75013	A	ADM2	SH		02	12746828			174		420	Atlantic/St_Helena	2024-03-04
+12746829	Half Tree Hollow	Half Tree Hollow		-15.93903	-5.71816	A	ADM2	SH		02	12746829			1034		304	Atlantic/St_Helena	2024-03-04
+12746830	Jamestown	Jamestown		-15.93925	-5.71568	A	ADM2	SH		02	12746830			629		293	Atlantic/St_Helena	2024-03-04
+12746831	Levelwood	Levelwood		-15.96683	-5.68223	A	ADM2	SH		02	12746831			369		326	Atlantic/St_Helena	2024-03-04
+12746832	Longwood	Longwood		-15.95091	-5.68756	A	ADM2	SH		02	12746832			765		472	Atlantic/St_Helena	2024-03-04
+12746833	Sandy Bay	Sandy Bay		-15.9836	-5.71766	A	ADM2	SH		02	12746833			177		234	Atlantic/St_Helena	2024-03-04
+12746834	Saint Paul's	Saint Paul's		-15.94994	-5.71877	A	ADM2	SH		02	12746834			928		330	Atlantic/St_Helena	2024-03-04

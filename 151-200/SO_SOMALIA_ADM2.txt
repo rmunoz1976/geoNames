@@ -1,0 +1,87 @@
+﻿65061	Degmada Badhaadhe	Degmada Badhaadhe	Bad Adda,Badade District,Degmada Badhaadhe	-1.00207	41.66144	A	ADM2	SO		09	65061			0		29	Africa/Mogadishu	2018-01-02
+8261487	El Wak District	El Wak District	Ceel Waaq,Ceelwaaq,El Wak	2.656	41.411	A	ADM2	SO		06	8261487			0		344	Africa/Mogadishu	2012-05-03
+9179613	Xarardheere	Xarardheere	Degmada Xarardheere,Harardhere District	4.79177	47.83519	A	ADM2	SO		10	9179613			0		339	Africa/Mogadishu	2014-10-26
+9179614	Baki	Baki		10.28595	43.73256	A	ADM2	SO		21	9179614			148702		376	Africa/Mogadishu	2023-11-28
+9179615	Qansax Dheere	Qansax Dheere		2.81513	42.84011	A	ADM2	SO		04	9179615			0		380	Africa/Mogadishu	2014-07-03
+9179616	Borama District	Borama District	Boramo,Degmada Borama	10.18763	43.17024	A	ADM2	SO		21	9179616			0		1289	Africa/Mogadishu	2014-07-06
+9179617	Burtinle	Burtinle		7.8022	48.39912	A	ADM2	SO		18	9179617			0		575	Africa/Mogadishu	2014-07-03
+9179618	Baraawe	Baraawe	Barawa District,Degmada Baraawe	1.10836	43.84487	A	ADM2	SO		14	9179618			0		47	Africa/Mogadishu	2014-10-26
+9179619	Lughaya District	Lughaya District	Degmada Lughaya,Lughaye	10.64771	43.57897	A	ADM2	SO		21	9179619			0		139	Africa/Mogadishu	2014-07-05
+9179620	Eyl	Eyl	Degmada Eyl,Eyl District	8.09189	49.56549	A	ADM2	SO		18	9179620			0		173	Africa/Mogadishu	2014-10-26
+9179621	Banadir	Banadir		2.10718	45.42684	A	ADM2	SO		02	9179621			0		32	Africa/Mogadishu	2014-07-03
+9179622	Kurtunwaarey	Kurtunwaarey	Degmada Kurtunwarey,Kurtunwarey District	1.67461	44.06695	A	ADM2	SO		14	9179622			0		58	Africa/Mogadishu	2014-10-22
+9179623	Zeila District	Zeila District	Degmada Saylac,Zeylac	10.89415	43.16889	A	ADM2	SO		21	9179623			0		253	Africa/Mogadishu	2014-07-05
+9179624	Garoowe	Garoowe	Degmada Garoowe,Garowe District	8.4704	48.78639	A	ADM2	SO		18	9179624			0		363	Africa/Mogadishu	2014-10-26
+9179625	Marka	Marka	Degmada Merka,Merca District	1.74022	44.72234	A	ADM2	SO		14	9179625			0		67	Africa/Mogadishu	2014-10-22
+9179626	Cabudwaaq	Cabudwaaq	Abudwak District,Degmada Cabudwaaq	5.82608	46.125	A	ADM2	SO		05	9179626			120000		316	Africa/Mogadishu	2023-01-03
+9179627	Ceel Barde	Ceel Barde	Degmada Ceel-Barde,El Barde District	4.67388	43.99833	A	ADM2	SO		01	9179627			0		653	Africa/Mogadishu	2014-10-26
+9179628	Laasqoray	Laasqoray	Las Khorey District	10.53683	48.69568	A	ADM2	SO		12	9179628			0		844	Africa/Mogadishu	2014-10-26
+9179629	Qoryooley	Qoryooley	Degmada Qoriyoley,Qoriyoley District	1.93456	44.44943	A	ADM2	SO		14	9179629			0		66	Africa/Mogadishu	2014-10-22
+9179630	Rab Dhuure	Rab Dhuure	Degmada Rabdhuure,Rabdhure District	4.24328	43.21162	A	ADM2	SO		01	9179630			0		366	Africa/Mogadishu	2014-10-26
+9179631	Cadaado	Cadaado		6.13069	47.03673	A	ADM2	SO		10	9179631			0		255	Africa/Mogadishu	2014-07-03
+9179632	Ceel Afweyn	Ceel Afweyn	Elafweyn	10.14761	46.68854	A	ADM2	SO		12	9179632			0		575	Africa/Mogadishu	2014-07-08
+9179633	Sablaale	Sablaale	Degmada Sablaale,Sablale District	1.38326	43.52054	A	ADM2	SO		14	9179633			0		50	Africa/Mogadishu	2014-10-22
+9179634	Tayeeglow	Tayeeglow	Degmada Tayeeglow,Tiyeglow District	3.83594	44.52907	A	ADM2	SO		01	9179634			0		402	Africa/Mogadishu	2014-10-26
+9179635	Wanla Weyn	Wanla Weyn	Wanlaweyn District	2.79164	44.90647	A	ADM2	SO		14	9179635			0		100	Africa/Mogadishu	2014-10-22
+9179636	Ceerigaabo	Ceerigaabo	Degmada Ceerigaabo,Erigabo,Erigavo District	10.29004	47.8076	A	ADM2	SO		12	9179636			0		1167	Africa/Mogadishu	2014-10-26
+9179637	Waajid	Waajid	Degmada Waajid,Wajid District	3.81645	43.43285	A	ADM2	SO		01	9179637			0		431	Africa/Mogadishu	2014-10-26
+9179638	Bu'aale	Bu'aale	Bu'ale District,Degmada Bu'aale	1.19798	42.7408	A	ADM2	SO		08	9179638			0		53	Africa/Mogadishu	2014-10-22
+9179639	Caynabo	Caynabo	Aynabo	9.28238	46.49009	A	ADM2	SO		22	9179639			30702		685	Africa/Mogadishu	2015-05-19
+9179640	Xudur	Xudur		4.18891	43.90622	A	ADM2	SO		01	9179640			0		512	Africa/Mogadishu	2014-07-03
+9179641	Ceel Buur	Ceel Buur		4.76049	46.84157	A	ADM2	SO		05	9179641			0		154	Africa/Mogadishu	2014-07-03
+9179642	Jilib	Jilib	Degmada Jilib,Jilib District	0.64467	43.05657	A	ADM2	SO		08	9179642			0		25	Africa/Mogadishu	2014-10-26
+9179643	Laas Caanood	Laas Caanood	Degmada Laascaanood,Lasnod,Lasnood	8.43801	47.63642	A	ADM2	SO		22	9179643			0		658	Africa/Mogadishu	2014-07-10
+9179644	Bandarbeyla	Bandarbeyla		9.23024	50.32926	A	ADM2	SO		03	9179644			0		237	Africa/Mogadishu	2014-07-03
+9179645	Saakow	Saakow	Degmada Saakow,Sakow District	1.62863	42.06274	A	ADM2	SO		08	9179645			0		125	Africa/Mogadishu	2014-10-26
+9179646	Ceel Dheer	Ceel Dheer		4.0519	47.05096	A	ADM2	SO		05	9179646			0		295	Africa/Mogadishu	2014-07-03
+9179647	Taleh District	Taleh District	Taleex,Taleh District	9.17946	48.54122	A	ADM2	SO		22	9179647			0		677	Africa/Mogadishu	2014-07-05
+9179649	Adan Yabaal	Adan Yabaal	Adan Yabal District,Degmada Aadan Yabaal	3.5484	46.54585	A	ADM2	SO		13	9179649			0		271	Africa/Mogadishu	2014-10-22
+9179650	Dhuusamarreeb	Dhuusamarreeb	Degmada Dhuusamareeb,Dhusamareb District	5.44113	46.68405	A	ADM2	SO		05	9179650			0		231	Africa/Mogadishu	2014-10-22
+9179651	Balcad	Balcad	Balad District,Degmada Balcad	2.48779	45.6592	A	ADM2	SO		13	9179651			0		187	Africa/Mogadishu	2014-10-22
+9179652	Xudun District	Xudun District	Degmada Xudun	9.14164	47.50747	A	ADM2	SO		22	9179652			0		636	Africa/Mogadishu	2014-07-05
+9179653	Caluula	Caluula	Alula District,Caluula District	11.66722	50.79346	A	ADM2	SO		03	9179653			0		332	Africa/Mogadishu	2014-10-25
+9179654	Cadale	Cadale	Adale District,Degmada Cadale	3.09074	46.26398	A	ADM2	SO		13	9179654			0		233	Africa/Mogadishu	2014-10-22
+9179655	Baardheere	Baardheere		2.10205	41.70671	A	ADM2	SO		08	9179655			0		211	Africa/Mogadishu	2014-07-03
+9179656	Burao	Burao		9.14134	45.75868	A	ADM2	SO		19	9179656			0		1004	Africa/Mogadishu	2014-08-04
+9179657	Iskushuban	Iskushuban	Degmada Iskushuban,Iskushuban District	10.55099	50.50476	A	ADM2	SO		03	9179657			0		300	Africa/Mogadishu	2014-10-25
+9179658	Jowhar	Jowhar	Degmada Jowhar,Jowhar District	2.99337	45.56808	A	ADM2	SO		13	9179658			0		112	Africa/Mogadishu	2014-10-22
+9179659	Buuhoodle	Buuhoodle	Buhoodle District,Degmada Buuhoodle	8.46016	46.66129	A	ADM2	SO		19	9179659			0		777	Africa/Mogadishu	2014-10-25
+9179660	Belet Xaawo	Belet Xaawo	Beled Hawo District,Degmada Beled Xaawo	3.43559	41.7337	A	ADM2	SO		06	9179660			225000		488	Africa/Mogadishu	2021-01-19
+9179661	Gaalkacyo	Gaalkacyo	Degmada Gaalkacyo,Galkayo District	6.93523	47.68801	A	ADM2	SO		10	9179661			0		305	Africa/Mogadishu	2014-10-25
+9179662	Qandala	Qandala	Degmada Qandala,Qandala District	11.05864	50.08917	A	ADM2	SO		03	9179662			0		1066	Africa/Mogadishu	2014-10-25
+9179663	Owdweyne	Owdweyne	Degmada Oodweyne,Oodweyne District	9.25739	45.01097	A	ADM2	SO		19	9179663			0		969	Africa/Mogadishu	2014-10-25
+9179664	Doolow	Doolow	Degmada Doolow,Dolow District	4.00253	42.14079	A	ADM2	SO		06	9179664			0		212	Africa/Mogadishu	2014-10-25
+9179665	Sheikh	Sheikh	Sheikh District	9.99245	45.42914	A	ADM2	SO		19	9179665			0		1543	Africa/Mogadishu	2014-10-25
+9179666	Qardho	Qardho	Degmada Qardho,Qardho District	9.50209	49.50765	A	ADM2	SO		03	9179666			0		671	Africa/Mogadishu	2014-10-25
+9179667	Galdogob	Galdogob	Degmada Galdogob,Galdogob District	7.03917	47.22166	A	ADM2	SO		10	9179667			0		365	Africa/Mogadishu	2014-10-25
+9179668	Garbahaarey	Garbahaarey	Degmada Garbahaarey,Garbaharey District	3.206	42.35912	A	ADM2	SO		06	9179668			0		186	Africa/Mogadishu	2014-10-25
+9179669	Berbera	Berbera	Berbera District,Degmada Berbera	10.35936	45.28539	A	ADM2	SO		20	9179669			0		345	Africa/Mogadishu	2014-10-25
+9179670	Hobyo	Hobyo	Degmada Hobyo,Hobyo District	5.97081	48.20473	A	ADM2	SO		10	9179670			0		114	Africa/Mogadishu	2014-10-25
+9179671	Baydhaba	Baydhaba	Baidoa District,Degmada Baydhaba	3.26636	43.63929	A	ADM2	SO		04	9179671			0		512	Africa/Mogadishu	2014-10-25
+9179672	Gebiley	Gebiley	Degmada Gabiley,Gabiley District	9.85957	43.68093	A	ADM2	SO		20	9179672			0		1375	Africa/Mogadishu	2014-10-25
+9179673	Luuq	Luuq	Degmada Luuq,Luuq District	3.79293	42.6976	A	ADM2	SO		06	9179673			0		219	Africa/Mogadishu	2014-10-25
+9179674	Jariiban	Jariiban	Degmada Jariiban,Jariban District	7.16241	49.00102	A	ADM2	SO		10	9179674			0		138	Africa/Mogadishu	2014-10-25
+9179675	Hargeysa	Hargeysa	Degmada Hargeysa,Hargeisa District	9.52163	44.28073	A	ADM2	SO		20	9179675			0		1247	Africa/Mogadishu	2014-10-25
+9179676	Buur Hakaba	Buur Hakaba	Burhakaba District,Degmada Buurhakaba	2.48537	44.00688	A	ADM2	SO		04	9179676			0		154	Africa/Mogadishu	2014-10-22
+9179677	Diinsoor	Diinsoor	Degmada Diinsoor,Dinsoor District	2.40941	42.97458	A	ADM2	SO		04	9179677			0		315	Africa/Mogadishu	2021-01-20
+9179678	Belet Weyne	Belet Weyne	Beledweyne District,Degmada Beledweyne	4.72434	45.37964	A	ADM2	SO		07	9179678			0		276	Africa/Mogadishu	2014-10-22
+9179679	Bulo Burto	Bulo Burto	Buloburde District,Degmada Buulo-Burte	3.90006	45.53233	A	ADM2	SO		07	9179679			0		152	Africa/Mogadishu	2014-10-22
+9179680	Jalalaqsi	Jalalaqsi	Degmada Jalalaqsi,Jalalaqsi District	3.40329	45.61273	A	ADM2	SO		07	9179680			0		131	Africa/Mogadishu	2014-10-26
+9179681	Afmadow	Afmadow	Afmadow District	0.5909	41.78618	A	ADM2	SO		09	9179681			0		31	Africa/Mogadishu	2014-10-22
+9179682	Jamaame	Jamaame	Degmada Jamaame,Jamame District	0.12306	42.80327	A	ADM2	SO		09	9179682			0		12	Africa/Mogadishu	2014-10-26
+9179683	Kismaayo	Kismaayo	Degmada Kismayo,Kismayo District	-0.37668	42.00935	A	ADM2	SO		09	9179683			0		19	Africa/Mogadishu	2014-10-26
+9179684	Afgooye	Afgooye	Afgooye District	2.23547	45.07702	A	ADM2	SO		14	9179684			0		83	Africa/Mogadishu	2014-10-26
+9179981	Armo	Armo		10.56689	49.06121	A	ADM2	SO		03	9179981			0		676	Africa/Mogadishu	2014-07-08
+9179982	Adado	Adado	Adado District,Degmada Cadaado	6.137	46.6259	A	ADM2	SO		05	9179982			0		311	Africa/Mogadishu	2017-05-04
+9179984	Darkenley	Darkenley		2.48017	45.26468	A	ADM2	SO		14	9179984			0		95	Africa/Mogadishu	2014-07-08
+9179985	Jamame	Jamame		0.06686	42.74957	A	ADM2	SO		09	9179985			0		9	Africa/Mogadishu	2014-07-08
+9179986	Baidoa	Baidoa		3.11667	43.65	A	ADM2	SO		04	9179986			0		445	Africa/Mogadishu	2014-07-08
+9179988	Hudur	Hudur	Hudur District	4.12	43.88778	A	ADM2	SO		01	9179988			0		493	Africa/Mogadishu	2014-10-22
+9179989	Elafweyn	Elafweyn	El Afweyn District	9.93128	47.21727	A	ADM2	SO		12	9179989			0		1078	Africa/Mogadishu	2014-10-22
+9180000	Xarfo District	Xarfo District		8.58389	47.94639	A	ADM2	SO		10	9180000			0		513	Africa/Mogadishu	2014-08-02
+9180002	Badhan District	Badhan District	Badhan District,Degmada Badhan	10.71413	48.33384	A	ADM2	SO		12	9180002			0		1107	Africa/Mogadishu	2014-10-22
+9180013	Ceelbuur	Ceelbuur	Degmada Ceelbu,El Buur District	4.68457	46.61956	A	ADM2	SO		05	9180013			0		152	Africa/Mogadishu	2014-10-22
+9180017	Hodan	Hodan	Degmada Hodan,Hodan District	2.03333	45.35	A	ADM2	SO		02	9180017			0		1	Africa/Mogadishu	2014-10-22
+9180027	Bossaso	Bossaso	Bosaso District,Degmada Boosaaso	10.92131	49.39993	A	ADM2	SO		03	9180027			0		1208	Africa/Mogadishu	2014-10-22
+9180028	Burdhubo	Burdhubo		2.48333	43.31667	A	ADM2	SO		04	9180028			0		309	Africa/Mogadishu	2014-07-09
+9259236	Diila District	Diila District		9.77889	43.346	A	ADM2	SO		21	9259236			0		1593	Africa/Mogadishu	2014-08-13

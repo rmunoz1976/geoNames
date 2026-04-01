@@ -1,0 +1,973 @@
+﻿436186	Karkamış İlçesi	Karkamis Ilcesi	Karkamis,Karkamis Ilcesi,Karkamış,Karkamış İlçesi	36.86417	37.92222	A	ADM2	TR		83	436186			10832		414	Europe/Istanbul	2014-09-17
+436187	Oğuzeli İlçesi	Oguzeli Ilcesi	Oguzeli,Oguzeli Ilcesi,Oğuzeli,Oğuzeli İlçesi	36.88167	37.56278	A	ADM2	TR		83	436187			33397		604	Europe/Istanbul	2025-04-18
+436459	Akçakale İlçesi	Akcakale Ilcesi	Akcakale,Akcakale Ilcesi,Akçakale,Akçakale İlçesi	36.76139	38.96944	A	ADM2	TR		63	436459			95709		355	Europe/Istanbul	2014-09-17
+436926	Erzin İlçesi	Erzin Ilcesi	Erzin,Erzin Ilcesi,Erzin İlçesi	36.95235	36.19616	A	ADM2	TR		31	436926			41297		161	Europe/Istanbul	2020-06-11
+436927	Dörtyol İlçesi	Doertyol Ilcesi	Dortyol,Dortyol Ilcesi,Dörtyol,Dörtyol İlçesi	36.83421	36.22773	A	ADM2	TR		31	436927			128941		73	Europe/Istanbul	2025-04-18
+436928	Hassa İlçesi	Hassa Ilcesi	Hassa,Hassa Ilcesi,Hassa İlçesi	36.79805	36.52135	A	ADM2	TR		31	436928			56675		420	Europe/Istanbul	2025-04-18
+437215	Kumlu İlçesi	Kumlu Ilcesi	Kumlu,Kumlu Ilcesi,Kumlu İlçesi	36.36508	36.45526	A	ADM2	TR		31	437215			13333		91	Europe/Istanbul	2025-04-18
+437251	Musabeyli İlçesi	Musabeyli Ilcesi	Musabeyli,Musabeyli Ilcesi,Musabeyli İlçesi	36.90472	36.96278	A	ADM2	TR		90	437251			12390		694	Europe/Istanbul	2025-04-21
+437252	İslahiye İlçesi	Islahiye Ilcesi	Islahiye,Islahiye Ilcesi,İslahiye,İslahiye İlçesi	36.96528	36.70972	A	ADM2	TR		83	437252			67650		428	Europe/Istanbul	2025-04-21
+437627	Polateli İlçesi	Polateli Ilcesi	Polateli,Polateli Ilcesi,Polateli İlçesi	36.83694	37.15083	A	ADM2	TR		90	437627			5431		869	Europe/Istanbul	2020-06-11
+437628	Kilis Merkez	Kilis Merkez	Kilis,Kilis Ilcesi,Kilis İlçesi	36.71522	37.12349	A	ADM2	TR		90	437628			0		650	Europe/Istanbul	2017-12-09
+437629	Elbeyli İlçesi	Elbeyli Ilcesi	Elbeyli,Elbeyli Ilcesi,Elbeyli İlçesi	36.72556	37.44	A	ADM2	TR		90	437629			5594		555	Europe/Istanbul	2025-04-21
+437630	Şahinbey İlçesi	Sahinbey Ilcesi	Sahinbey,Sahinbey Ilcesi,Şahinbey,Şahinbey İlçesi	37.03741	37.37822	A	ADM2	TR		83	437630			817258		856	Europe/Istanbul	2015-10-05
+437928	İskenderun İlçesi	Iskenderun Ilcesi	Iskenderun,Iskenderun Ilcesi,İskenderun,İskenderun İlçesi	36.62235	36.261	A	ADM2	TR		31	437928			251682		644	Europe/Istanbul	2025-05-25
+437929	Kırıkhan İlçesi	Kirikhan Ilcesi	Kirikhan,Kirikhan Ilcesi,Kırıkhan,Kırıkhan İlçesi	36.52444	36.43639	A	ADM2	TR		31	437929			121028		87	Europe/Istanbul	2025-04-21
+437930	Belen İlçesi	Belen Ilcesi	Belen,Belen Ilcesi,Belen İlçesi	36.49222	36.19342	A	ADM2	TR		31	437930			34449		498	Europe/Istanbul	2025-04-21
+438417	Antakya İlçesi	Antakya Ilcesi	Antakya,Antakya Ilcesi,Antakya İlçesi	36.24444	36.20111	A	ADM2	TR		31	438417			399045		83	Europe/Istanbul	2025-04-21
+438418	Altınözü İlçesi	Altinoezue Ilcesi	Altinozu,Altinozu Ilcesi,Altınözü,Altınözü İlçesi	36.11536	36.24688	A	ADM2	TR		31	438418			60344		270	Europe/Istanbul	2025-04-21
+438427	Yayladağı İlçesi	Yayladagi Ilcesi	Yayladagi,Yayladagi Ilcesi,Yayladağı,Yayladağı İlçesi	35.95167	36.0975	A	ADM2	TR		31	438427			36803		791	Europe/Istanbul	2025-04-21
+438432	Reyhanlı İlçesi	Reyhanli Ilcesi	Reyhanli,Reyhanli Ilcesi,Reyhanlı,Reyhanlı İlçesi	36.26359	36.56843	A	ADM2	TR		31	438432			108092		159	Europe/Istanbul	2025-04-21
+438519	Tillo İlçesi	Tillo Ilcesi	Aydinlar,Aydinlar Ilcesi,Aydınlar,Aydınlar İlçesi,Tillo,Tillo Ilcesi,Tillo İlçesi	37.94962	42.01147	A	ADM2	TR		74	438519			4048		1194	Europe/Istanbul	2025-04-21
+438624	Pervari İlçesi	Pervari Ilcesi	Pervari,Pervari Ilcesi,Pervari İlçesi	37.87222	42.57111	A	ADM2	TR		74	438624			33505		1889	Europe/Istanbul	2025-04-21
+438700	Çatak İlçesi	Catak Ilcesi	Catak Ilcesi,Çatak İlçesi	38.0078	43.06195	A	ADM2	TR		65	438700			23440		1507	Europe/Istanbul	2014-11-06
+438773	Şırnak İlçesi	Sirnak Ilcesi	Sirnak,Sirnak Ilcesi,Şırnak,Şırnak İlçesi	37.53278	42.38917	A	ADM2	TR		80	438773			63298		908	Europe/Istanbul	2025-04-21
+438774	Cizre İlçesi	Cizre Ilcesi	Cizre,Cizre Ilcesi,Cizre İlçesi	37.32785	42.18721	A	ADM2	TR		80	438774			130916		374	Europe/Istanbul	2025-04-21
+438878	Uludere İlçesi	Uludere Ilcesi	Uludere,Uludere Ilcesi,Uludere İlçesi	37.44615	42.85222	A	ADM2	TR		80	438878			46740		1217	Europe/Istanbul	2025-04-21
+438958	Beytüşşebap	Beytuessebap	Beytussebap,Beytüşşebap	37.57144	43.16515	A	ADM2	TR		80	438958			16056		1559	Europe/Istanbul	2025-04-21
+438989	Silopi İlçesi	Silopi Ilcesi	Silopi,Silopi Ilcesi,Silopi İlçesi	37.24978	42.47173	A	ADM2	TR		80	438989			117665		519	Europe/Istanbul	2025-04-21
+439166	Harran İlçesi	Harran Ilcesi	Harran,Harran Ilcesi,Harran İlçesi	36.84306	39.21833	A	ADM2	TR		63	439166			75742		489	Europe/Istanbul	2020-06-11
+439201	Ceylanpınar İlçesi	Ceylanpinar Ilcesi	Ceylanpinar,Ceylanpinar Ilcesi,Ceylanpınar,Ceylanpınar İlçesi	36.91944	39.905	A	ADM2	TR		63	439201			90440		417	Europe/Istanbul	2023-12-12
+439825	Bismil İlçesi	Bismil Ilcesi	Bismil,Bismil Ilcesi,Bismil İlçesi	37.86528	40.77722	A	ADM2	TR		21	439825			118698		573	Europe/Istanbul	2023-12-12
+440476	Beşiri İlçesi	Besiri Ilcesi	Besiri,Besiri Ilcesi,Beşiri,Beşiri İlçesi	37.85722	41.39306	A	ADM2	TR		76	440476			30928		658	Europe/Istanbul	2025-04-21
+440905	Hasankeyf İlçesi	Hasankeyf Ilcesi	Hasankeyf,Hasankeyf Ilcesi,Hasankeyf İlçesi	37.69694	41.49972	A	ADM2	TR		76	440905			7496		781	Europe/Istanbul	2025-04-21
+440906	Kurtalan İlçesi	Kurtalan Ilcesi	Kurtalan,Kurtalan Ilcesi,Kurtalan İlçesi	37.9244	41.70083	A	ADM2	TR		74	440906			36273		711	Europe/Istanbul	2025-04-19
+440907	Siirt Merkez	Siirt Merkez	Sert,Sgerd,Siirt,Siirt Ilcesi,Siirt İlçesi,Sêrt,siʿird,sʿrd‎,Սղերդ,سعرد‎,سِعِرْد	37.92028	41.91472	A	ADM2	TR		74	440907			160340		839	Europe/Istanbul	2025-04-21
+441186	Savur İlçesi	Savur Ilcesi	Savur,Savur Ilcesi,Savur İlçesi	37.53684	40.88886	A	ADM2	TR		72	441186			24821		883	Europe/Istanbul	2025-04-18
+441187	Yeşilli İlçesi	Yesilli Ilcesi	Yesilli,Yesilli Ilcesi,Yeşilli,Yeşilli İlçesi	37.33944	40.82605	A	ADM2	TR		72	441187			13621		821	Europe/Istanbul	2025-04-21
+441188	Ömerli İlçesi	OEmerli Ilcesi	Omerli Ilcesi,Ömerli İlçesi	37.37944	40.99472	A	ADM2	TR		72	441188			13740		1053	Europe/Istanbul	2025-04-18
+441468	Gercüş İlçesi	Gercues Ilcesi	Gercus,Gercus Ilcesi,Gercüş,Gercüş İlçesi	37.59139	41.33278	A	ADM2	TR		76	441468			21840		891	Europe/Istanbul	2014-10-02
+441469	Midyat İlçesi	Midyat Ilcesi	Midyat,Midyat Ilcesi,Midyat İlçesi	37.40056	41.375	A	ADM2	TR		72	441469			120069		932	Europe/Istanbul	2025-04-18
+441645	Güçlükonak İlçesi	Guecluekonak Ilcesi	Guclukonak,Guclukonak Ilcesi,Güçlükonak,Güçlükonak İlçesi	37.47133	41.91298	A	ADM2	TR		80	441645			11692		789	Europe/Istanbul	2015-06-08
+441646	Dargeçit İlçesi	Dargecit Ilcesi	Dargecit,Dargecit Ilcesi,Dargeçit,Dargeçit İlçesi	37.54644	41.72415	A	ADM2	TR		72	441646			27147		901	Europe/Istanbul	2025-04-21
+441966	Nusaybin İlçesi	Nusaybin Ilcesi	Nusaybin,Nusaybin Ilcesi,Nusaybin İlçesi	37.15694	41.34139	A	ADM2	TR		72	441966			115586		749	Europe/Istanbul	2025-04-18
+442034	İdil İlçesi	Idil Ilcesi	Idil,Idil Ilcesi,İdil,İdil İlçesi	37.34178	41.88824	A	ADM2	TR		80	442034			77105		778	Europe/Istanbul	2025-04-21
+6544214	Karakoçan	Karakocan		38.95527	40.04053	A	ADM2	TR		23	6544214			29061		1096	Europe/Istanbul	2025-05-04
+7732059	Ceyhan	Ceyhan		37.07496	35.83629	A	ADM2	TR		81	7732059			158922		24	Europe/Istanbul	2025-04-21
+7732063	Seyhan	Seyhan		36.9554	35.21637	A	ADM2	TR		81	7732063			771947		12	Europe/Istanbul	2014-09-17
+7732065	Yüreğir	Yueregir		36.88843	35.44285	A	ADM2	TR		81	7732065			421455		13	Europe/Istanbul	2025-05-26
+7732069	Adıyaman	Adiyaman		37.74454	38.26801	A	ADM2	TR		02	7732069			279037		665	Europe/Istanbul	2025-12-10
+7732070	Afyonkarahisar	Afyonkarahisar		38.79698	30.51951	A	ADM2	TR		03	7732070			328319		1007	Europe/Istanbul	2025-12-28
+7732071	İscehisar	Iscehisar	Iscehisar District,İscehisar District	38.939	30.75002	A	ADM2	TR		03	7732071			24363		1393	Europe/Istanbul	2023-12-11
+7732073	Aksaray	Aksaray		38.3706	34.02843	A	ADM2	TR		75	7732073			201597		981	Europe/Istanbul	2025-05-04
+7732078	Amasya	Amasya		40.61939	35.87016	A	ADM2	TR		05	7732078			134434		839	Europe/Istanbul	2025-05-04
+7732081	Altındağ	Altindag		40.0011	32.97022	A	ADM2	TR		68	7732081			359597		1112	Europe/Istanbul	2014-09-17
+7732084	Çankaya	Cankaya		39.86093	32.84176	A	ADM2	TR		68	7732084			914501		1099	Europe/Istanbul	2014-09-17
+7732107	Gölbaşı	Goelbasi		39.80748	32.79419	A	ADM2	TR		68	7732107			115924		1071	Europe/Istanbul	2014-09-17
+7732167	Kahramankazan	Kahramankazan	Kahramankazan,Kazan	40.16502	32.63904	A	ADM2	TR		68	7732167			45879		868	Europe/Istanbul	2017-12-12
+7732180	Polatlı	Polatli		39.47995	32.15507	A	ADM2	TR		68	7732180			128378		829	Europe/Istanbul	2025-04-21
+7732181	Sincan İlçesi	Sincan Ilcesi		39.95943	32.49567	A	ADM2	TR		68	7732181			484694		790	Europe/Istanbul	2015-04-08
+7732184	Yenimahalle	Yenimahalle	Yenimahalle	39.99043	32.69555	A	ADM2	TR		68	7732184			704652		877	Europe/Istanbul	2025-04-21
+7732185	Alanya	Alanya		36.56173	32.02309	A	ADM2	TR		07	7732185			364180		143	Europe/Istanbul	2025-04-21
+7732189	Finike	Finike		36.42355	30.06645	A	ADM2	TR		07	7732189			49720		920	Europe/Istanbul	2025-04-21
+7732191	Kemer İlçesi	Kemer Ilcesi	Kemer,Kemeras,kai mei er,kmr,Кемер,کمر,凱梅爾	36.60249	30.48039	A	ADM2	TR		07	7732191			49383		252	Europe/Istanbul	2025-04-21
+7732193	Manavgat İlçesi	Manavgat Ilcesi		36.79008	31.46286	A	ADM2	TR		07	7732193			252941	9	17	Europe/Istanbul	2025-04-21
+7732195	Serik	Serik		37.07743	31.00677	A	ADM2	TR		07	7732195			139545		186	Europe/Istanbul	2025-04-21
+7732198	Hopa İlçesi	Hopa Ilcesi		41.40128	41.44798	A	ADM2	TR		08	7732198			33724		188	Europe/Istanbul	2015-04-11
+7732201	Bandırma İlçesi	Bandirma Ilcesi	Bandirma,Bandurma,Bandyrma,Gorad Bandyrma,Panormos Kyzikou,ban de er ma,bandrmt,bandyrma,Πάνορμος Κυζίκου,Бандирма,Бандърма,Бандырма,Горад Бандырма,باندرمة,باندیرما,بینڈرما,班德爾馬	40.27282	27.9638	A	ADM2	TR		10	7732201			143117		66	Europe/Istanbul	2015-04-11
+7732202	Batman	Batman		37.84362	41.18341	A	ADM2	TR		76	7732202			147323		624	Europe/Istanbul	2025-05-04
+7732205	Bingol	Bingol		38.95025	40.52802	A	ADM2	TR		12	7732205			143624		1600	Europe/Istanbul	2025-05-04
+7732206	Bitlis	Bitlis		38.31702	42.10065	A	ADM2	TR		13	7732206			66095		1663	Europe/Istanbul	2025-05-04
+7732207	Burdur	Burdur		37.62762	30.20408	A	ADM2	TR		15	7732207			98743		1159	Europe/Istanbul	2025-05-04
+7732330	Gemlik	Gemlik		40.43468	29.18966	A	ADM2	TR		16	7732330			120245		174	Europe/Istanbul	2025-05-29
+7732331	Gürsu	Guersu		40.25498	29.21183	A	ADM2	TR		16	7732331			102601		154	Europe/Istanbul	2025-04-21
+7732332	İnegöl	Inegoel		40.01193	29.53678	A	ADM2	TR		16	7732332			294485		634	Europe/Istanbul	2025-04-21
+7732333	Kestel İlçesi	Kestel Ilcesi		40.18218	29.28916	A	ADM2	TR		16	7732333			51872		394	Europe/Istanbul	2015-04-11
+7732334	Mudanya	Mudanya	Mudanya District	40.33342	28.77218	A	ADM2	TR		16	7732334			108011		145	Europe/Istanbul	2025-04-21
+7732336	Nilüfer	Niluefer		40.21375	28.98464	A	ADM2	TR		16	7732336			358265		119	Europe/Istanbul	2014-09-17
+7732338	Osmangazi	Osmangazi	Osmangazi District	40.14132	29.01827	A	ADM2	TR		16	7732338			891250		964	Europe/Istanbul	2025-05-26
+7732341	Yıldırım İlçesi	Yildirim Ilcesi		40.2049	29.12715	A	ADM2	TR		16	7732341			637888		111	Europe/Istanbul	2025-05-26
+7732343	Biga	Biga		40.26921	27.20841	A	ADM2	TR		17	7732343			85225		25	Europe/Istanbul	2014-09-17
+7732344	Canakkale	Canakkale		40.05093	26.49489	A	ADM2	TR		17	7732344			149881		209	Europe/Istanbul	2025-05-04
+7732348	Corum	Corum		40.50905	34.85791	A	ADM2	TR		19	7732348			270864		862	Europe/Istanbul	2025-05-04
+7732349	Osmancık	Osmancik		41.0024	34.78243	A	ADM2	TR		19	7732349			44121		529	Europe/Istanbul	2025-04-21
+7732351	Sungurlu	Sungurlu		40.18213	34.28217	A	ADM2	TR		19	7732351			54099		737	Europe/Istanbul	2025-04-21
+7732353	Çardak	Cardak		37.77485	29.70593	A	ADM2	TR		20	7732353			8452		854	Europe/Istanbul	2025-04-21
+7732360	Honaz	Honaz		37.77146	29.34466	A	ADM2	TR		20	7732360			34074		579	Europe/Istanbul	2025-04-21
+7732370	Elazig	Elazig		38.6679	39.21567	A	ADM2	TR		23	7732370			398108		1039	Europe/Istanbul	2025-05-04
+7732373	Şehitkamil	Sehitkamil		37.17217	37.36974	A	ADM2	TR		83	7732373			857167		962	Europe/Istanbul	2025-04-21
+7732374	Giresun	Giresun		40.8266	38.36085	A	ADM2	TR		28	7732374			124144		702	Europe/Istanbul	2025-05-04
+7732375	Gumushane	Gumushane		40.46843	39.67441	A	ADM2	TR		69	7732375			48690		1850	Europe/Istanbul	2025-05-04
+7732454	Avcılar	Avcilar	Avdzhular,Avdzhylar,Avdzilaras rajons,Avdžilaras rajons,awjlar,Авджълар,Авджылар,آوجی‌لار,اوجلار	41.02355	28.7186	A	ADM2	TR		34	7732454			407240		-2	Europe/Istanbul	2014-09-17
+7732455	Büyükçekmece	Bueyuekcekmece	Bijikcekmedzes rajons,Bjujukchekmedzhe,Bujukchekmedze,Bujukchekmedzhe,Bījīkčekmedžes rajons,Бујукчекмеџе,Бююкчекмедже,Бөйөкчекмедже,Бӱйӱкчекмедже,بویوک چکمہجے,بویوک‌چکمجه	41.04521	28.59573	A	ADM2	TR		34	7732455			211		42	Europe/Istanbul	2014-09-17
+7732457	Bahçelievler	Bahcelievler	Bahcelievleras rajons,Bahčelievleras rajons,Bakhcheliehvler,baghlywlr,Бахчелиэвлер,باغلیولر,باغچه‌لی‌اولر,باغچہ لیولر	41.00652	28.84099	A	ADM2	TR		34	7732457			602931		55	Europe/Istanbul	2014-09-17
+7732459	Bayrampaşa	Bayrampasa	Bajrampasa rajons,Bajrampasha,Bajrampašā rajons,Bayrampasa,bayram pasha,byrampasha,byrm basha,byrm pasha,Байрампаша,بایرام پاشا,بيرم باشا,بیرامپاشا,بیرم پاشا	41.04691	28.90278	A	ADM2	TR		34	7732459			269677		86	Europe/Istanbul	2019-03-08
+7732460	Bağcılar	Bagcilar		41.04275	28.83625	A	ADM2	TR		34	7732460			740069		84	Europe/Istanbul	2025-04-21
+7732461	Bakırköy	Bakirkoey	Bakirkejas rajons,Bakirkoey,Bakirkoj,Bakirkējas rajons,Bakyrkjoj,Bakyrkoj,Bakırköy,baqrkwy,Бакирќој,Бакыркёй,Бакыркӧй,باقر کوئے,باقرکوی,باکرکوۓ	40.98388	28.83541	A	ADM2	TR		34	7732461			220974		3	Europe/Istanbul	2015-04-02
+7732462	Beyoğlu	Beyoglu		41.03786	28.96767	A	ADM2	TR		34	7732462			225920		9	Europe/Istanbul	2025-04-21
+7732464	Çatalca	Catalca		41.29651	28.45419	A	ADM2	TR		34	7732464			77468		121	Europe/Istanbul	2025-04-21
+7732467	Esenler	Esenler	Ehsen'ler,Ehsenler,Esenleras rajons,asnlr,Эсенлер,Эсеньлер,اسنلر	41.07925	28.85235	A	ADM2	TR		34	7732467			461621		118	Europe/Istanbul	2014-09-17
+7732469	Eyüpsultan	Eyuepsultan	Eyuep,Eyuepsultan,Eyüp,Eyüpsultan	41.19904	28.88667	A	ADM2	TR		34	7732469			422913		128	Europe/Istanbul	2025-04-21
+7732471	Gaziosmanpaşa	Gaziosmanpasa	Gaziosmanpasa rajons,Gaziosmanpasha,Gāziosmanpašā rajons,Газиосманпаша,غازي عثمان باشا,غازی عثمان پاشا,غازیعثمانپاشا,قاضی عثمان پاشا	41.07857	28.89679	A	ADM2	TR		34	7732471			495006		83	Europe/Istanbul	2014-09-17
+7732474	Güngören	Guengoeren		41.01787	28.87882	A	ADM2	TR		34	7732474			282692		29	Europe/Istanbul	2025-04-21
+7732501	Kadıköy	Kadikoey		40.98229	29.09032	A	ADM2	TR		34	7732501			467919		60	Europe/Istanbul	2025-04-21
+7732504	Kâğıthane	Kagithane		41.08319	28.97826	A	ADM2	TR		34	7732504			455943		10	Europe/Istanbul	2025-04-21
+7732506	Kartal	Kartal	Kartal,Kartalas rajons,kartal,Картал,کارتال	40.91197	29.2119	A	ADM2	TR		34	7732506			483418		116	Europe/Istanbul	2025-04-21
+7732569	Küçükçekmece	Kuecuekcekmece	Kicikcekmedzes rajons,Kjuchjukchekmedzhe,Kjuchukchekmedzhe,Kuchukchekmedzhe,Kīčīkčekmedžes rajons,kwjk jkmjt,kywshykmyj,Кючукчекмедже,Кючюкчекмедже,Кӱчӱкчекмедже,كوجك جكمجة,کوچک چکمہجے,کوچک‌چکمجه,کیوشیکمیج	41.04004	28.77736	A	ADM2	TR		34	7732569			740090		107	Europe/Istanbul	2025-05-23
+7732579	Pendik	Pendik		40.94577	29.33019	A	ADM2	TR		34	7732579			750435		158	Europe/Istanbul	2025-04-22
+7732582	Silivri	Silivri		41.18116	28.1989	A	ADM2	TR		34	7732582			217163		151	Europe/Istanbul	2025-04-22
+7732583	Sultanbeyli	Sultanbeyli	Sultanbeilis,Sultanbejli,Sultanbejli rajons,sltanbyly,surutanbeiri,Султанбейли,Султанбејли,سلطان بے لی,سلطانبیلی,سلطان‌بیلی,スルタンベイリ	40.95264	29.26797	A	ADM2	TR		34	7732583			309347		204	Europe/Istanbul	2014-09-17
+7732587	Tuzla	Tuzla		40.86368	29.31942	A	ADM2	TR		34	7732587			288878		87	Europe/Istanbul	2025-04-22
+7732588	Ümraniye	UEmraniye		41.03482	29.10896	A	ADM2	TR		34	7732588			723760		121	Europe/Istanbul	2025-04-22
+7732589	Üsküdar	UEskuedar		41.02841	29.05979	A	ADM2	TR		34	7732589			524452		116	Europe/Istanbul	2025-04-22
+7732593	Zeytinburnu	Zeytinburnu		41.00824	28.90952	A	ADM2	TR		34	7732593			292616		47	Europe/Istanbul	2025-04-22
+7732607	Çorlu	Corlu		41.1418	27.81529	A	ADM2	TR		59	7732607			300296		129	Europe/Istanbul	2025-05-26
+7732636	Gebze	Gebze		40.89757	29.55055	A	ADM2	TR		41	7732636			407019		249	Europe/Istanbul	2025-04-22
+7732652	Gerede	Gerede		40.71364	32.31263	A	ADM2	TR		14	7732652			23547		1285	Europe/Istanbul	2025-04-22
+7732660	Sarayköy	Saraykoey		37.9158	28.87999	A	ADM2	TR		20	7732660			30834		165	Europe/Istanbul	2025-04-22
+7732689	Yalova	Yalova		40.60665	29.26346	A	ADM2	TR		92	7732689			0		135	Europe/Istanbul	2025-05-04
+7732711	Bornova	Bornova	Bornova District	38.48492	27.25235	A	ADM2	TR		35	7732711			454470		205	Europe/Istanbul	2025-04-22
+7732712	Aliağa	Aliaga	Aliaga District,Aliağa District	38.80078	27.04375	A	ADM2	TR		35	7732712			104828		6	Europe/Istanbul	2025-04-22
+7732714	Çiğli	Cigli	Cigli District,Çiğli District	38.48802	26.96596	A	ADM2	TR		35	7732714			214065		3	Europe/Istanbul	2023-12-15
+7732715	Bayraklı	Bayrakli	Bayrakli District,Bayraklı District	38.46222	27.16667	A	ADM2	TR		35	7732715			299859		6	Europe/Istanbul	2025-04-22
+7732716	Bergama	Bergama	Bergama District	39.17088	27.18918	A	ADM2	TR		35	7732716			105754		219	Europe/Istanbul	2025-04-22
+7732718	Buca	Buca	Buca District	38.34813	27.25053	A	ADM2	TR		35	7732718			522404		245	Europe/Istanbul	2025-04-22
+7732720	Gaziemir	Gaziemir	Gaziemir District	38.31098	27.15178	A	ADM2	TR		35	7732720			137754		128	Europe/Istanbul	2025-04-22
+7732724	Kemalpaşa	Kemalpasa		38.40883	27.491	A	ADM2	TR		35	7732724			114250		171	Europe/Istanbul	2025-04-22
+7732725	Konak	Konak		38.41448	27.14412	A	ADM2	TR		35	7732725			332277		165	Europe/Istanbul	2025-04-22
+7732726	Menderes	Menderes	Menderes District	38.15525	27.11896	A	ADM2	TR		35	7732726			106173		52	Europe/Istanbul	2023-12-15
+7732727	Menemen	Menemen	Menemen District	38.61608	27.06315	A	ADM2	TR		35	7732727			200904		9	Europe/Istanbul	2025-04-22
+7732732	Seferihisar	Seferihisar	Seferihisar District	38.18144	26.88877	A	ADM2	TR		35	7732732			60914		206	Europe/Istanbul	2025-04-22
+7732733	Tire	Tire	Tire District	38.06582	27.7273	A	ADM2	TR		35	7732733			87462		580	Europe/Istanbul	2025-04-22
+7732734	Torbalı	Torbali	Torbali District,Torbalı District	38.17603	27.37182	A	ADM2	TR		35	7732734			207840		50	Europe/Istanbul	2025-04-22
+7732736	Cide	Cide		41.85583	33.03977	A	ADM2	TR		37	7732736			20616		466	Europe/Istanbul	2014-09-17
+7732925	Develi	Develi		38.26789	35.59161	A	ADM2	TR		38	7732925			66840		1326	Europe/Istanbul	2025-04-22
+7732928	Melikgazi	Melikgazi		38.77933	35.66076	A	ADM2	TR		38	7732928			594344		1329	Europe/Istanbul	2025-04-22
+7732929	Kocasinan	Kocasinan	Kocasinan Ilcesi,Kocasinan İlçesi	38.87959	35.3554	A	ADM2	TR		38	7732929			409005		1109	Europe/Istanbul	2025-04-22
+7732931	Dilovası	Dilovasi		40.77972	29.535	A	ADM2	TR		41	7732931			53416		7	Europe/Istanbul	2025-04-22
+7732933	Selcuklu	Selcuklu		38.05761	32.54088	A	ADM2	TR		71	7732933			690667		1122	Europe/Istanbul	2025-04-22
+7732935	Karatay	Karatay		37.94001	32.99828	A	ADM2	TR		71	7732935			286355		1213	Europe/Istanbul	2014-09-17
+7732936	Battalgazi	Battalgazi		38.43932	38.45764	A	ADM2	TR		44	7732936			297806		738	Europe/Istanbul	2014-09-17
+7732938	Saruhanlı	Saruhanli		38.76778	27.64714	A	ADM2	TR		45	7732938			53821		53	Europe/Istanbul	2014-09-17
+7732939	Tarsus	Tarsus	Tarsus Ilcesi,Tarsus İlçesi	37.07328	34.8549	A	ADM2	TR		32	7732939			350732		414	Europe/Istanbul	2025-04-22
+7732940	Fethiye	Fethiye		36.65483	29.12682	A	ADM2	TR		48	7732940			177702		10	Europe/Istanbul	2025-04-22
+7732941	Kavaklıdere	Kavaklidere		37.43929	28.38402	A	ADM2	TR		48	7732941			10909		1223	Europe/Istanbul	2025-04-22
+7732942	Marmaris	Marmaris		36.81054	28.17907	A	ADM2	TR		48	7732942			97818		113	Europe/Istanbul	2025-04-22
+7732943	Yatağan	Yatagan		37.35864	28.11441	A	ADM2	TR		48	7732943			45283		542	Europe/Istanbul	2025-04-22
+7732944	Mus	Mus		38.83793	41.48332	A	ADM2	TR		49	7732944			182883		1249	Europe/Istanbul	2025-05-04
+7732945	Nevsehir	Nevsehir		38.60039	34.68537	A	ADM2	TR		50	7732945			126327		1314	Europe/Istanbul	2025-05-04
+7732946	Ürgüp	UErguep		38.57342	34.9402	A	ADM2	TR		50	7732946			36695		1325	Europe/Istanbul	2025-04-22
+7732948	Nigde	Nigde		38.10332	34.80184	A	ADM2	TR		73	7732948			0		1343	Europe/Istanbul	2025-05-04
+7732956	Bafra	Bafra		41.46082	35.84435	A	ADM2	TR		55	7732956			143109		60	Europe/Istanbul	2025-04-22
+7732989	Sivas	Sivas		39.71613	36.97695	A	ADM2	TR		58	7732989			348623		1255	Europe/Istanbul	2025-05-04
+7732990	Zara	Zara		39.82406	37.77499	A	ADM2	TR		58	7732990			23873		1431	Europe/Istanbul	2025-04-22
+7732991	Çerkezköy	Cerkezkoey		41.28616	27.99969	A	ADM2	TR		59	7732991			206829		162	Europe/Istanbul	2025-04-22
+7732992	Erbaa	Erbaa	Erbaa District	40.7139	36.59364	A	ADM2	TR		60	7732992			100382		228	Europe/Istanbul	2025-04-22
+7732993	Arsin	Arsin		40.86743	39.92938	A	ADM2	TR		61	7732993			30911		894	Europe/Istanbul	2025-04-23
+7732995	Çarşıbaşı	Carsibasi		41.04203	39.40035	A	ADM2	TR		61	7732995			15227		502	Europe/Istanbul	2025-04-23
+7732997	Vakfıkebir	Vakfikebir		40.99562	39.32627	A	ADM2	TR		61	7732997			27060		540	Europe/Istanbul	2025-04-22
+7732998	Tunceli	Tunceli		39.17114	39.5557	A	ADM2	TR		62	7732998			36143		1599	Europe/Istanbul	2025-05-04
+7732999	Usak	Usak		38.68463	29.29455	A	ADM2	TR		64	7732999			226583		844	Europe/Istanbul	2025-05-04
+7733001	Edremit	Edremit	Ertemetan,Ertemêtan	38.37889	43.29717	A	ADM2	TR		65	7733001			127819		2090	Europe/Istanbul	2025-04-22
+7733002	Erciş	Ercis		39.15123	43.33705	A	ADM2	TR		65	7733002			171000		1824	Europe/Istanbul	2025-04-22
+7733004	Sarıkaya	Sarikaya		39.4985	35.39262	A	ADM2	TR		66	7733004			32175		1156	Europe/Istanbul	2025-04-22
+7733006	Ereğli	Eregli	Eregli Ilcesi,Ereğli İlçesi	41.23807	31.60581	A	ADM2	TR		85	7733006			175309		117	Europe/Istanbul	2025-04-23
+7733028	Sinop	Sinop		41.91835	35.00687	A	ADM2	TR		57	7733028			58005		76	Europe/Istanbul	2025-05-04
+7733221	Keçiören	Kecioeren		40.02106	32.83102	A	ADM2	TR		68	7733221			939279		1026	Europe/Istanbul	2025-04-22
+7733225	Marmara İlçesi	Marmara Ilcesi		40.60123	27.58355	A	ADM2	TR		10	7733225			0		366	Europe/Istanbul	2025-05-23
+7733226	Şabanözü	Sabanoezue		40.48333	33.28333	A	ADM2	TR		82	7733226			10891		1034	Europe/Istanbul	2014-09-17
+7733228	Ağın	Agin		38.93846	38.67253	A	ADM2	TR		23	7733228			2746		1147	Europe/Istanbul	2025-04-23
+7733230	Araban	Araban		37.42559	37.78175	A	ADM2	TR		83	7733230			32933		535	Europe/Istanbul	2025-04-23
+7733232	Yüksekova	Yueksekova	Gever,Juksekova,yu ke sai ke wa,Йӱксекова,Юксекова,ضلع یکسیکووا,گەڤەر,یوک‌سکوا,于克塞科瓦	37.54627	44.25827	A	ADM2	TR		70	7733232			116327		1856	Europe/Istanbul	2014-09-17
+7733234	Beşiktaş	Besiktas	Beshiktash,Besiktas,Besiktasas rajons,Bešiktašas rajons,beshikutashu,bshktash,bshyktash,byshktash,Μπεσίκτας,Бешикташ,بشكطاش,بشیکتاش,بیشکتاش,بەشىكتاش,ベシクタシュ	41.07122	29.02321	A	ADM2	TR		34	7733234			186570		110	Europe/Istanbul	2014-09-17
+7733235	Beykoz	Beykoz	Bejkoz,Bejkozas rajons,Distretto di Beykoz,bykwz,Бейкоз,بیکوز	41.13774	29.16932	A	ADM2	TR		34	7733235			248056		120	Europe/Istanbul	2014-09-17
+7733237	Fatih	Fatih	Fatich,Fatihas rajons,Fatikh,FatikhI,alfath,fa di he,fath,patiheu,Φατίχ,Фатих,ФатихІ,الفاتح,ضلع فاتح,فاتح,法蒂赫,파티흐	41.01746	28.94053	A	ADM2	TR		34	7733237			425875		24	Europe/Istanbul	2014-09-17
+7733238	Maltepe	Maltepe		40.9589	29.17866	A	ADM2	TR		34	7733238			528544		196	Europe/Istanbul	2025-04-23
+7733239	Beydağ	Beydag		38.08241	28.21609	A	ADM2	TR		35	7733239			12030		250	Europe/Istanbul	2025-04-23
+7733242	Bodrum	Bodrum		37.065	27.49819	A	ADM2	TR		48	7733242			140716		331	Europe/Istanbul	2014-09-17
+7733243	Tekkeköy	Tekkekoey		41.14493	36.46205	A	ADM2	TR		55	7733243			56318		468	Europe/Istanbul	2025-04-22
+7910463	Toprakkale	Toprakkale		37.05037	36.11994	A	ADM2	TR		91	7910463			20674		80	Europe/Istanbul	2025-04-21
+7910465	Ulukisla	Ulukisla		37.54592	34.58737	A	ADM2	TR		73	7910465			18983		1413	Europe/Istanbul	2025-04-21
+7910467	Bor	Bor		37.8354	34.50313	A	ADM2	TR		73	7910467			60948		1078	Europe/Istanbul	2025-04-21
+7910468	Yesilhisar	Yesilhisar	Yesilhisar,Yeşilhisar	38.33475	35.11795	A	ADM2	TR		38	7910468			15531		1102	Europe/Istanbul	2025-04-21
+7910469	Incesu	Incesu		38.63789	35.19394	A	ADM2	TR		38	7910469			24315		1078	Europe/Istanbul	2014-09-17
+7910589	Kula	Kula		38.56775	28.64146	A	ADM2	TR		45	7910589			45892		690	Europe/Istanbul	2014-09-17
+7910603	Dursunbey İlçesi	Dursunbey Ilcesi		39.52907	28.65306	A	ADM2	TR		10	7910603			40572		460	Europe/Istanbul	2015-04-11
+7910604	Mut	Mut	Distretto di Mut,Mut,Mut i Tyrkia,mu te,mwt  mrsyn,Мут,ضلع مٹ,موت، مرسین,穆特	36.71842	33.38718	A	ADM2	TR		32	7910604			62874		394	Europe/Istanbul	2025-04-21
+7910611	Beypazari	Beypazari	Beypazari Ilcesi,Beypazarı İlçesi	40.14695	31.91911	A	ADM2	TR		68	7910611			4835		613	Europe/Istanbul	2025-04-21
+7910944	Bozcaada	Bozcaada		39.82409	26.04069	A	ADM2	TR		17	7910944			2643		38	Europe/Istanbul	2014-09-17
+7910945	Gökçeada	Goekceada		40.16523	25.85907	A	ADM2	TR		17	7910945			10721		95	Europe/Istanbul	2025-04-22
+7910998	Araklı	Arakli	Arakli Ilcesi,Araklı İlçesi	40.74	39.96	A	ADM2	TR		61	7910998			48581		940	Europe/Istanbul	2025-04-22
+7911018	Çanakçı	Canakci		40.86	39.05	A	ADM2	TR		28	7911018			6959		960	Europe/Istanbul	2014-09-17
+7911029	Kalkandere	Kalkandere	Kalkandere District	40.92143	40.43999	A	ADM2	TR		53	7911029			13511		207	Europe/Istanbul	2025-04-22
+7911030	Maçka	Macka		40.72127	39.59786	A	ADM2	TR		61	7911030			24709		876	Europe/Istanbul	2025-04-22
+7911034	Akkuş	Akkus		40.81	36.96	A	ADM2	TR		52	7911034			21258		1033	Europe/Istanbul	2025-04-22
+7911035	Niksar	Niksar	Niksar District	40.60509	36.97174	A	ADM2	TR		60	7911035			62052		599	Europe/Istanbul	2025-04-22
+7911036	Reşadiye	Resadiye	Resadiye District,Reşadiye District	40.43284	37.37652	A	ADM2	TR		60	7911036			32600		887	Europe/Istanbul	2025-04-22
+7911037	Dereli	Dereli		40.613	38.39	A	ADM2	TR		28	7911037			20870		1692	Europe/Istanbul	2025-04-22
+7911038	Kumluca	Kumluca	Kumluca Ilcesi,Kumluca İlçesi	36.58	30.3	A	ADM2	TR		07	7911038			73496		528	Europe/Istanbul	2025-04-22
+7911042	Muradiye / Berkri	Muradiye / Berkri	Begiri‎,Berkri],Bêgirî‎,Muradiye,Muradiye / Berkri,Բերկրի]	38.97889	43.75374	A	ADM2	TR		65	7911042			51340		1683	Europe/Istanbul	2019-11-29
+7911054	Ayancık	Ayancik		41.83	34.6	A	ADM2	TR		57	7911054			22611		861	Europe/Istanbul	2025-04-22
+7911055	Kozan	Kozan	Kozan,Kozan ,Kuozan,ke zan,qwzan,Κοζάν,Козан,Къозан,ضلع کوزان,قوزان,科贊	37.5	35.75	A	ADM2	TR		81	7911055			132703		367	Europe/Istanbul	2025-04-22
+7932392	Cihanbeyli District	Cihanbeyli District		38.67131	32.92522	A	ADM2	TR		71	7932392			56234		984	Europe/Istanbul	2014-09-17
+7932395	Yahyali	Yahyali	Yahyali,Yahyalı	37.9666	35.44012	A	ADM2	TR		38	7932395			35481		1874	Europe/Istanbul	2025-04-21
+8521527	Adalar	Adalar	Adalar,Prince Islands,Prinkiponnisa,Prinkiponnisoi,Πριγκηπόννησα,Πριγκηπόννησοι	40.86913	29.12064	A	ADM2	TR		34	8521527			16166		66	Europe/Istanbul	2016-07-25
+8521528	Arnavutköy	Arnavutkoey		41.19674	28.73405	A	ADM2	TR		34	8521528			326452		137	Europe/Istanbul	2023-12-13
+8521529	Ataşehir	Atasehir	Arreyasehir,Arreyaşehir,Atashekhir,atashhr,Аташехир,آتاشهر,اتاشہر,عطا شہر	40.99104	29.13471	A	ADM2	TR		34	8521529			405974		102	Europe/Istanbul	2015-04-02
+8521530	Başakşehir	Basaksehir		41.09203	28.80203	A	ADM2	TR		34	8521530			333047		118	Europe/Istanbul	2014-09-17
+8521531	Beylikdüzü	Beylikduezue		41.00322	28.64067	A	ADM2	TR		34	8521531			244760		166	Europe/Istanbul	2014-09-17
+8521532	Çekmeköy	Cekmekoey		41.03819	29.20029	A	ADM2	TR		34	8521532			296066		186	Europe/Istanbul	2023-12-13
+8521533	Esenyurt	Esenyurt		41.04	28.66161	A	ADM2	TR		34	8521533			983571		88	Europe/Istanbul	2023-12-13
+8521534	Sancaktepe	Sancaktepe		40.98949	29.2432	A	ADM2	TR		34	8521534			489848		98	Europe/Istanbul	2023-12-13
+8521535	Sarıyer	Sariyer	Distretto di Sariyer,Distretto di Sarıyer,Sarijer,Sarijeras rajons,Saryer,saryyr,Саријер,Сарыер,سارئیر,سارییر,ساری‌یر	41.21482	29.05678	A	ADM2	TR		34	8521535			335598		72	Europe/Istanbul	2014-09-17
+8521536	Sultangazi	Sultangazi		41.11601	28.87632	A	ADM2	TR		34	8521536			542531		105	Europe/Istanbul	2025-05-26
+8521537	Şile	Sile	Chili,Distretto di Sile,Distretto di Şile,Shile,Siles rajons,shayl,shylh,Šiles rajons,Χηλή,Шиле,شائل,شیله,شیلے	41.12902	29.61845	A	ADM2	TR		34	8521537			41627		110	Europe/Istanbul	2025-11-26
+8521538	Şişli	Sisli	Shishli,Sisli,Sisli rajons,shyshly,Šišli rajons,Шишли,Շիշլի,شيشلي,شیشلی	41.06024	28.99428	A	ADM2	TR		34	8521538			274420		96	Europe/Istanbul	2025-05-25
+8630759	Nizip İlçesi	Nizip Ilcesi	Nizip Ilcesi,Nizip İlçesi	37.011	37.79496	A	ADM2	TR		83	8630759			135588		525	Europe/Istanbul	2014-09-17
+8630760	Yavuzeli İlçesi	Yavuzeli Ilcesi	Yavuzeli Ilcesi,Yavuzeli İlçesi	37.32339	37.56956	A	ADM2	TR		83	8630760			21347		574	Europe/Istanbul	2014-09-17
+8630785	Nurdağı İlçesi	Nurdagi Ilcesi	Nurdagi Ilcesi,Nurdağı İlçesi	37.18402	36.73595	A	ADM2	TR		83	8630785			37620		531	Europe/Istanbul	2015-09-07
+8630788	Viranşehir İlçesi	Viransehir Ilcesi	Viransehir Ilcesi,Viranşehir İlçesi	37.23103	39.76247	A	ADM2	TR		63	8630788			207315		569	Europe/Istanbul	2023-12-12
+8630789	Suruç İlçesi	Suruc Ilcesi	Suruc Ilcesi,Suruç İlçesi	36.97681	38.4262	A	ADM2	TR		63	8630789			100961		496	Europe/Istanbul	2023-12-12
+8630791	Siverek İlçesi	Siverek Ilcesi	Siverek Ilcesi,Siverek İlçesi	37.76186	39.32024	A	ADM2	TR		63	8630791			267942		804	Europe/Istanbul	2023-12-12
+8630792	Hilvan İlçesi	Hilvan Ilcesi	Hilvan Ilcesi,Hilvan İlçesi	37.59383	38.96	A	ADM2	TR		63	8630792			42218		605	Europe/Istanbul	2023-12-12
+8630793	Birecik İlçesi	Birecik Ilcesi	Birecik District,Birecik Ilcesi,Birecik İlçesi	37.03387	37.99658	A	ADM2	TR		63	8630793			93613		463	Europe/Istanbul	2023-12-12
+8630794	Bozova İlçesi	Bozova Ilcesi	Bozova District,Bozova Ilcesi,Bozova İlçesi	37.37074	38.53343	A	ADM2	TR		63	8630794			52680		592	Europe/Istanbul	2023-12-12
+8630795	Halfeti İlçesi	Halfeti Ilcesi	Halfeti District,Halfeti Ilcesi,Halfeti İlçesi	37.25397	37.8794	A	ADM2	TR		63	8630795			38737		479	Europe/Istanbul	2023-12-12
+8630814	Kızıltepe İlçesi	Kiziltepe Ilcesi	Kiziltepe Ilcesi,Kızıltepe İlçesi	37.19268	40.58327	A	ADM2	TR		72	8630814			225888		484	Europe/Istanbul	2015-11-09
+8630815	Mazıdağı İlçesi	Mazidagi Ilcesi	Mazidagi,Mazidagi Ilcesi,Mazıdağı,Mazıdağı İlçesi	37.48542	40.4985	A	ADM2	TR		72	8630815			33083		1044	Europe/Istanbul	2015-02-07
+8630817	Derik İlçesi	Derik Ilcesi	Derik Ilcesi,Derik İlçesi	37.36431	40.26883	A	ADM2	TR		72	8630817			61226		819	Europe/Istanbul	2015-02-07
+8630819	Sason İlçesi	Sason Ilcesi	Sason Ilcesi,Sason İlçesi	38.3346	41.41993	A	ADM2	TR		76	8630819			31682		876	Europe/Istanbul	2015-02-07
+8630820	Kozluk İlçesi	Kozluk Ilcesi	Kozluk Ilcesi,Kozluk İlçesi	38.19249	41.48705	A	ADM2	TR		76	8630820			61129		885	Europe/Istanbul	2015-02-07
+8630826	Çınar İlçesi	Cinar Ilcesi	Cinar Ilcesi,Çınar İlçesi	37.72562	40.41484	A	ADM2	TR		21	8630826			76966		676	Europe/Istanbul	2023-12-12
+8630827	Hazro İlçesi	Hazro Ilcesi	Hazro District,Hazro Ilcesi,Hazro İlçesi	38.25412	40.77866	A	ADM2	TR		21	8630827			16093		1010	Europe/Istanbul	2023-12-12
+8630828	Dicle İlçesi	Dicle Ilcesi	Dicle District,Dicle Ilcesi,Dicle İlçesi	38.37138	40.07086	A	ADM2	TR		21	8630828			36114		939	Europe/Istanbul	2023-12-12
+8630829	Çermik İlçesi	Cermik Ilcesi	Cermik District,Cermik Ilcesi,Çermik District,Çermik İlçesi	38.13604	39.4524	A	ADM2	TR		21	8630829			49644		685	Europe/Istanbul	2023-12-12
+8630830	Ergani İlçesi	Ergani Ilcesi	Ergani District,Ergani Ilcesi,Ergani İlçesi	38.26521	39.75965	A	ADM2	TR		21	8630830			121072		915	Europe/Istanbul	2023-12-12
+8630831	Silvan İlçesi	Silvan Ilcesi	Silvan District,Silvan Ilcesi,Silvan İlçesi	38.14134	41.01261	A	ADM2	TR		21	8630831			86161		842	Europe/Istanbul	2023-12-12
+8630832	Lice İlçesi	Lice Ilcesi	Lice District,Lice Ilcesi,Lice İlçesi	38.46131	40.64714	A	ADM2	TR		21	8630832			24364		997	Europe/Istanbul	2023-12-12
+8630833	Kocaköy İlçesi	Kocakoey Ilcesi	Kocakoy Ilcesi,Kocaköy İlçesi	38.28801	40.49845	A	ADM2	TR		21	8630833			15355		898	Europe/Istanbul	2023-12-12
+8630834	Hani İlçesi	Hani Ilcesi	Hani Ilcesi,Hani İlçesi	38.41143	40.39634	A	ADM2	TR		21	8630834			32814		900	Europe/Istanbul	2015-07-04
+8630835	Eğil İlçesi	Egil Ilcesi	Egil Ilcesi,Eğil İlçesi	38.25688	40.08345	A	ADM2	TR		21	8630835			23066		841	Europe/Istanbul	2015-07-04
+8630836	Çüngüş İlçesi	Cuengues Ilcesi	Cungus Ilcesi,Çüngüş İlçesi	38.2118	39.28824	A	ADM2	TR		21	8630836			13097		973	Europe/Istanbul	2015-11-09
+8630837	Kulp İlçesi	Kulp Ilcesi	Kulp District,Kulp Ilcesi,Kulp İlçesi	38.49709	41.01073	A	ADM2	TR		21	8630837			36796		977	Europe/Istanbul	2023-12-12
+8630838	Eruh İlçesi	Eruh Ilcesi	Dih,Eruh,Eruh District,Eruh Ilcesi,Eruh İlçesi,Navceya Dihe,Navçeya Dihê	37.74606	42.17507	A	ADM2	TR		74	8630838			19862		1157	Europe/Istanbul	2016-07-09
+8630839	Baykan İlçesi	Baykan Ilcesi	Baykan Ilcesi,Baykan İlçesi	38.16315	41.78407	A	ADM2	TR		74	8630839			27809		719	Europe/Istanbul	2015-08-08
+8630840	Şirvan İlçesi	Sirvan Ilcesi	Sirvan Ilcesi,Şirvan İlçesi	38.06289	42.02778	A	ADM2	TR		74	8630840			24045		986	Europe/Istanbul	2015-08-08
+8630841	Başkale İlçesi	Baskale Ilcesi	Baskale Ilcesi,Başkale İlçesi	38.05305	44.02163	A	ADM2	TR		65	8630841			58963		2312	Europe/Istanbul	2014-09-17
+8630842	Çaldıran İlçesi	Caldiran Ilcesi	Caldiran Ilcesi,Çaldıran İlçesi	39.15053	43.91415	A	ADM2	TR		65	8630842			66624		2049	Europe/Istanbul	2014-09-17
+8630843	Bahçesaray İlçesi	Bahcesaray Ilcesi	Bahcesaray Ilcesi,Bahçesaray İlçesi	38.12635	42.80493	A	ADM2	TR		65	8630843			16819		1639	Europe/Istanbul	2015-03-09
+8630844	Gevaş İlçesi	Gevas Ilcesi	Gevas Ilcesi,Gevaş İlçesi	38.2939	43.1053	A	ADM2	TR		65	8630844			26597		1701	Europe/Istanbul	2025-12-19
+8630845	Gürpınar İlçesi	Guerpinar Ilcesi	Gurpinar Ilcesi,Gürpınar İlçesi	38.32396	43.41036	A	ADM2	TR		65	8630845			38811		1749	Europe/Istanbul	2015-03-09
+8630846	Saray İlçesi	Saray Ilcesi	Saray Ilcesi,Saray İlçesi	38.65513	44.17731	A	ADM2	TR		65	8630846			22793		2091	Europe/Istanbul	2014-09-17
+8630847	Özalp İlçesi	OEzalp Ilcesi	Ozalp Ilcesi,Özalp İlçesi	38.66283	43.99603	A	ADM2	TR		65	8630847			73013		2023	Europe/Istanbul	2014-09-17
+8630849	Şemdinni İlçesi	Semdinni Ilcesi	Semdinni Ilcesi,Şemdinni İlçesi	37.31325	44.58016	A	ADM2	TR		70	8630849			67173		1529	Europe/Istanbul	2014-08-07
+8630851	Çukurca İlçesi	Cukurca Ilcesi	Cukurca Ilcesi,Çukurca İlçesi	37.25492	43.62121	A	ADM2	TR		70	8630851			15601		1366	Europe/Istanbul	2014-09-17
+8630852	Güroymak İlçesi	Gueroymak Ilcesi	Guroymak Ilcesi,Güroymak İlçesi	38.57743	42.01997	A	ADM2	TR		13	8630852			45899		1308	Europe/Istanbul	2015-08-08
+8630853	Hizan İlçesi	Hizan Ilcesi	Hizan Ilcesi,Hizan İlçesi	38.226	42.42491	A	ADM2	TR		13	8630853			37922		1479	Europe/Istanbul	2015-08-08
+8630854	Tatvan İlçesi	Tatvan Ilcesi	Tatvan Ilcesi,Tatvan İlçesi	38.49535	42.28578	A	ADM2	TR		13	8630854			84163		1663	Europe/Istanbul	2015-08-08
+8630855	Ahlat İlçesi	Ahlat Ilcesi	Ahlat Ilcesi,Ahlat İlçesi	38.75452	42.48809	A	ADM2	TR		13	8630855			37872		1709	Europe/Istanbul	2015-08-08
+8630856	Adilcevaz İlçesi	Adilcevaz Ilcesi	Adilcevaz Ilcesi,Adilcevaz İlçesi	38.80582	42.73654	A	ADM2	TR		13	8630856			31365		1682	Europe/Istanbul	2015-03-09
+8630857	Mutki İlçesi	Mutki Ilcesi	Mutki Ilcesi,Mutki İlçesi	38.40978	41.92298	A	ADM2	TR		13	8630857			33840		1465	Europe/Istanbul	2015-08-08
+8630858	Malazgirt İlçesi	Malazgirt Ilcesi	Malazgirt Ilcesi,Malazgirt İlçesi	39.15089	42.54543	A	ADM2	TR		49	8630858			57934		1532	Europe/Istanbul	2014-09-17
+8630859	Bulanık İlçesi	Bulanik Ilcesi	Bulanik Ilcesi,Bulanık İlçesi	39.09285	42.27316	A	ADM2	TR		49	8630859			84128		1484	Europe/Istanbul	2015-04-09
+8630861	Varto İlçesi	Varto Ilcesi	Varto Ilcesi,Varto İlçesi	39.1709	41.4544	A	ADM2	TR		49	8630861			33186		1517	Europe/Istanbul	2015-06-09
+8630862	Korkut İlçesi	Korkut Ilcesi	Korkut Ilcesi,Korkut İlçesi	38.73826	41.78689	A	ADM2	TR		49	8630862			26833		1313	Europe/Istanbul	2015-08-08
+8630863	Hasköy İlçesi	Haskoey Ilcesi	Haskoy Ilcesi,Hasköy İlçesi	38.68464	41.68831	A	ADM2	TR		49	8630863			27589		1276	Europe/Istanbul	2015-08-08
+8630864	Doğubayazıt İlçesi	Dogubayazit Ilcesi	Dogubayazit District,Dogubayazit Ilcesi,Doğubayazıt District,Doğubayazıt İlçesi	39.55601	44.08912	A	ADM2	TR		04	8630864			119614		1572	Europe/Istanbul	2023-12-12
+8630865	Diyadin İlçesi	Diyadin Ilcesi	Diyadin District,Diyadin Ilcesi,Diyadin İlçesi	39.5488	43.6749	A	ADM2	TR		04	8630865			45395		1938	Europe/Istanbul	2023-12-12
+8630866	Eleşkirt İlçesi	Eleskirt Ilcesi	Eleskirt Ilcesi,Eleşkirt İlçesi	39.81242	42.67955	A	ADM2	TR		04	8630866			38156		1891	Europe/Istanbul	2023-12-15
+8630867	Taşlıçay İlçesi	Taslicay Ilcesi	Taslicay District,Taslicay Ilcesi,Taşlıçay District,Taşlıçay İlçesi	39.64294	43.37683	A	ADM2	TR		04	8630867			22193		1777	Europe/Istanbul	2023-12-15
+8630868	Patnos İlçesi	Patnos Ilcesi	Patnos District,Patnos Ilcesi,Patnos İlçesi	39.24297	42.86736	A	ADM2	TR		04	8630868			125736		1658	Europe/Istanbul	2023-12-12
+8630869	Tutak İlçesi	Tutak Ilcesi	Tutak Ilcesi,Tutak İlçesi	39.55042	42.77572	A	ADM2	TR		04	8630869			33795		1599	Europe/Istanbul	2023-12-12
+8630870	Hamur İlçesi	Hamur Ilcesi	Hamur Ilcesi,Hamur İlçesi	39.61917	42.9928	A	ADM2	TR		04	8630870			20931		1690	Europe/Istanbul	2023-12-12
+8630872	Aralık İlçesi	Aralik Ilcesi	Aralik Ilcesi,Aralık İlçesi	39.88314	44.5233	A	ADM2	TR		88	8630872			20133		815	Europe/Istanbul	2025-05-18
+8630873	Tuzluca İlçesi	Tuzluca Ilcesi	Tuzluca Ilcesi,Tuzluca İlçesi	40.03863	43.65212	A	ADM2	TR		88	8630873			24393		1120	Europe/Istanbul	2015-02-07
+8630874	Karakoyunlu İlçesi	Karakoyunlu Ilcesi	Karakoyunlu Ilcesi,Karakoyunlu İlçesi	39.98929	44.19809	A	ADM2	TR		88	8630874			14016		850	Europe/Istanbul	2025-05-25
+8631364	Digor İlçesi	Digor Ilcesi	Digor Ilcesi,Digor İlçesi	40.37515	43.41361	A	ADM2	TR		84	8631364			25828		1641	Europe/Istanbul	2015-04-09
+8631365	Kağızman İlçesi	Kagizman Ilcesi	Kagizman Ilcesi,Kağızman İlçesi	40.14026	43.12003	A	ADM2	TR		84	8631365			47445		1417	Europe/Istanbul	2015-04-09
+8631366	Akyaka İlçesi	Akyaka Ilcesi	Akyaka Ilcesi,Akyaka İlçesi	40.74093	43.61432	A	ADM2	TR		84	8631366			9977		1502	Europe/Istanbul	2023-12-10
+8631367	Arpaçay İlçesi	Arpacay Ilcesi	Arpacay Ilcesi,Arpaçay İlçesi	40.84601	43.32878	A	ADM2	TR		84	8631367			19302		1695	Europe/Istanbul	2015-04-09
+8631368	Susuz İlçesi	Susuz Ilcesi	Susuz Ilcesi,Susuz İlçesi	40.77929	43.13089	A	ADM2	TR		84	8631368			11820		1753	Europe/Istanbul	2015-04-09
+8631369	Selim İlçesi	Selim Ilcesi	Selim Ilcesi,Selim İlçesi	40.46439	42.7896	A	ADM2	TR		84	8631369			25826		1857	Europe/Istanbul	2023-12-10
+8631370	Sarıkamış İlçesi	Sarikamis Ilcesi	Sarikamis Ilcesi,Sarıkamış İlçesi	40.33139	42.59014	A	ADM2	TR		84	8631370			48354		2098	Europe/Istanbul	2023-12-10
+8631373	Şenkaya İlçesi	Senkaya Ilcesi	Senkaya Ilcesi,Şenkaya İlçesi	40.56221	42.34524	A	ADM2	TR		25	8631373			20771		1862	Europe/Istanbul	2014-11-06
+8631375	Olur İlçesi	Olur Ilcesi	Olur Ilcesi,Olur İlçesi	40.82661	42.13229	A	ADM2	TR		25	8631375			7181		1330	Europe/Istanbul	2014-11-06
+8631376	Horasan İlçesi	Horasan Ilcesi	Horasan Ilcesi,Horasan İlçesi	40.04228	42.16723	A	ADM2	TR		25	8631376			42403		1557	Europe/Istanbul	2014-11-06
+8631377	Narman İlçesi	Narman Ilcesi	Narman Ilcesi,Narman İlçesi	40.34492	41.87003	A	ADM2	TR		25	8631377			15336		1635	Europe/Istanbul	2014-11-06
+8631378	Uzundere İlçesi	Uzundere Ilcesi	Uzundere Ilcesi,Uzundere İlçesi	40.53175	41.54826	A	ADM2	TR		25	8631378			8347		1099	Europe/Istanbul	2014-11-06
+8631379	Köprüköy İlçesi	Koepruekoey Ilcesi	Koprukoy Ilcesi,Köprüköy İlçesi	39.97178	41.86804	A	ADM2	TR		25	8631379			17721		1625	Europe/Istanbul	2015-04-09
+8631380	Tortum İlçesi	Tortum Ilcesi	Tortum Ilcesi,Tortum İlçesi	40.29699	41.55084	A	ADM2	TR		25	8631380			18819		1614	Europe/Istanbul	2014-11-06
+8631381	Oltu İlçesi	Oltu Ilcesi	Oltu Ilcesi,Oltu İlçesi	40.54562	41.99582	A	ADM2	TR		25	8631381			31346		1273	Europe/Istanbul	2014-11-06
+8631382	Pasinler İlçesi	Pasinler Ilcesi	Pasinler Ilcesi,Pasinler İlçesi	39.97735	41.67848	A	ADM2	TR		25	8631382			31581		1662	Europe/Istanbul	2015-04-09
+8631384	Tekman İlçesi	Tekman Ilcesi	Tekman Ilcesi,Tekman İlçesi	39.64998	41.5116	A	ADM2	TR		25	8631384			28772		1971	Europe/Istanbul	2015-04-09
+8631386	Karayazı İlçesi	Karayazi Ilcesi	Karayazi Ilcesi,Karayazı İlçesi	39.70292	42.14503	A	ADM2	TR		25	8631386			31747		2291	Europe/Istanbul	2015-04-09
+8631387	Hınıs İlçesi	Hinis Ilcesi	Hinis Ilcesi,Hınıs İlçesi	39.36104	41.69717	A	ADM2	TR		25	8631387			29165		1709	Europe/Istanbul	2015-04-09
+8631388	Karaçoban İlçesi	Karacoban Ilcesi	Karacoban Ilcesi,Karaçoban İlçesi	39.35157	42.1097	A	ADM2	TR		25	8631388			24968		1552	Europe/Istanbul	2015-04-09
+8631389	Çat İlçesi	Cat Ilcesi	Cat Ilcesi,Çat İlçesi	39.61055	40.97851	A	ADM2	TR		25	8631389			19192		1917	Europe/Istanbul	2015-06-09
+8631390	Aşkale İlçesi	Askale Ilcesi	Askale Ilcesi,Aşkale İlçesi	39.93082	40.68718	A	ADM2	TR		25	8631390			24270		1696	Europe/Istanbul	2015-06-09
+8631391	Pazaryolu İlçesi	Pazaryolu Ilcesi	Pazaryolu Ilcesi,Pazaryolu İlçesi	40.41377	40.77253	A	ADM2	TR		25	8631391			4178		1491	Europe/Istanbul	2015-05-07
+8631392	İspir İlçesi	Ispir Ilcesi	Ispir Ilcesi,İspir İlçesi	40.48305	40.99837	A	ADM2	TR		25	8631392			16248		1173	Europe/Istanbul	2015-05-07
+8631395	Çıldır İlçesi	Cildir Ilcesi	Cildir Ilcesi,Çıldır İlçesi	41.13783	43.14169	A	ADM2	TR		86	8631395			10476		2156	Europe/Istanbul	2014-09-17
+8631396	Göle İlçesi	Goele Ilcesi	Gole Ilcesi,Göle İlçesi	40.79404	42.60993	A	ADM2	TR		86	8631396			28032		2016	Europe/Istanbul	2015-04-09
+8631397	Damal İlçesi	Damal Ilcesi	Damal Ilcesi,Damal İlçesi	41.3501	42.84582	A	ADM2	TR		86	8631397			5897		2163	Europe/Istanbul	2014-09-17
+8631398	Hanak İlçesi	Hanak Ilcesi	Hanak Ilcesi,Hanak İlçesi	41.24365	42.85189	A	ADM2	TR		86	8631398			9804		1851	Europe/Istanbul	2014-09-17
+8631399	Posof İlçesi	Posof Ilcesi	Posof Ilcesi,Posof İlçesi	41.52131	42.73126	A	ADM2	TR		86	8631399			7699		1754	Europe/Istanbul	2014-09-17
+8631400	Şavşat İlçesi	Savsat Ilcesi	Savsat Ilcesi,Şavşat İlçesi	41.24941	42.36936	A	ADM2	TR		08	8631400			17507		1336	Europe/Istanbul	2014-09-17
+8631401	Ardanuç İlçesi	Ardanuc Ilcesi	Ardanuc Ilcesi,Ardanuç İlçesi	41.13782	42.06668	A	ADM2	TR		08	8631401			11366		561	Europe/Istanbul	2014-09-17
+8631402	Yusufeli İlçesi	Yusufeli Ilcesi	Yusufeli Ilcesi,Yusufeli İlçesi	40.82024	41.54234	A	ADM2	TR		08	8631402			22093		613	Europe/Istanbul	2014-11-06
+8631447	Murgul İlçesi	Murgul Ilcesi	Murgul Ilcesi,Murgul İlçesi	41.27934	41.56288	A	ADM2	TR		08	8631447			6668		424	Europe/Istanbul	2016-07-05
+8631448	Borçka İlçesi	Borcka Ilcesi	Borcka Ilcesi,Borçka İlçesi	41.3594	41.67631	A	ADM2	TR		08	8631448			24662		113	Europe/Istanbul	2016-07-05
+8631449	Arhavi İlçesi	Arhavi Ilcesi	Arhavi Ilcesi,Arhavi İlçesi	41.34829	41.3195	A	ADM2	TR		08	8631449			19899		164	Europe/Istanbul	2014-09-17
+8631450	İkizdere İlçesi	Ikizdere Ilcesi	Ikizdere Ilcesi,İkizdere İlçesi	40.77713	40.56076	A	ADM2	TR		53	8631450			6936		544	Europe/Istanbul	2023-12-10
+8631451	Güneysu İlçesi	Gueneysu Ilcesi	Guneysu Ilcesi,Güneysu İlçesi	40.97526	40.60757	A	ADM2	TR		53	8631451			13879		352	Europe/Istanbul	2023-12-10
+8631452	Hemşin İlçesi	Hemsin Ilcesi	Hemsin Ilcesi,Hemşin İlçesi	41.05922	40.9014	A	ADM2	TR		53	8631452			2281		476	Europe/Istanbul	2023-12-10
+8631453	Pazar İlçesi	Pazar Ilcesi	Pazar Ilcesi,Pazar İlçesi	41.17286	40.88398	A	ADM2	TR		53	8631453			30509		92	Europe/Istanbul	2023-12-10
+8631454	Çamlıhemşin İlçesi	Camlihemsin Ilcesi	Camlihemsin Ilcesi,Çamlıhemşin İlçesi	41.04088	41.02071	A	ADM2	TR		53	8631454			6563		567	Europe/Istanbul	2023-12-11
+8631455	Derepazarı İlçesi	Derepazari Ilcesi	Derepazari Ilcesi,Derepazarı İlçesi	41.02212	40.43876	A	ADM2	TR		53	8631455			8116		159	Europe/Istanbul	2023-12-11
+8631456	Çaykara İlçesi	Caykara Ilcesi	Caykara Ilcesi,Çaykara İlçesi	40.74564	40.24191	A	ADM2	TR		61	8631456			14384		310	Europe/Istanbul	2015-02-07
+8631457	Hayrat İlçesi	Hayrat Ilcesi	Hayrat Ilcesi,Hayrat İlçesi	40.89137	40.3676	A	ADM2	TR		61	8631457			7446		193	Europe/Istanbul	2015-02-07
+8631458	Of İlçesi	Of Ilcesi	Of Ilcesi,Of İlçesi	40.94694	40.26938	A	ADM2	TR		61	8631458			41649		17	Europe/Istanbul	2015-02-07
+8631459	Dernekpazarı İlçesi	Dernekpazari Ilcesi	Dernekpazari Ilcesi,Dernekpazarı İlçesi	40.79913	40.24725	A	ADM2	TR		61	8631459			3859		202	Europe/Istanbul	2015-02-07
+8631460	Köprübaşı İlçesi	Koepruebasi Ilcesi	Koepruebasi Ilcesi,Köprübaşı İlçesi	40.80845	40.1228	A	ADM2	TR		61	8631460			5212		324	Europe/Istanbul	2015-02-07
+8631461	Sürmene İlçesi	Suermene Ilcesi	Surmene Ilcesi,Sürmene İlçesi	40.91102	40.12009	A	ADM2	TR		61	8631461			26493		11	Europe/Istanbul	2015-02-07
+8631463	Şalpazarı İlçesi	Salpazari Ilcesi	Salpazari Ilcesi,Şalpazarı İlçesi	40.94614	39.17804	A	ADM2	TR		61	8631463			11546		484	Europe/Istanbul	2015-02-07
+8631464	Tonya İlçesi	Tonya Ilcesi	Tonya Ilcesi,Tonya İlçesi	40.88523	39.28992	A	ADM2	TR		61	8631464			15620		743	Europe/Istanbul	2015-02-07
+8631465	Düzköy İlçesi	Duezkoey Ilcesi	Duzkoy Ilcesi,Düzköy İlçesi	40.87241	39.42587	A	ADM2	TR		61	8631465			14804		796	Europe/Istanbul	2015-02-07
+8631466	Yomra İlçesi	Yomra Ilcesi	Yomra Ilcesi,Yomra İlçesi	40.9549	39.86567	A	ADM2	TR		61	8631466			31746		9	Europe/Istanbul	2015-02-07
+8631467	Düziçi İlçesi	Duezici Ilcesi	Duzici Ilcesi,Düziçi İlçesi	37.25062	36.47051	A	ADM2	TR		91	8631467			79450		477	Europe/Istanbul	2014-09-17
+8631468	Bahçe İlçesi	Bahce Ilcesi	Bahce Ilcesi,Bahçe İlçesi	37.20105	36.57687	A	ADM2	TR		91	8631468			21077		602	Europe/Istanbul	2015-09-07
+8631469	Hasanbeyli İlçesi	Hasanbeyli Ilcesi	Hasanbeyli Ilcesi,Hasanbeyli İlçesi	37.13182	36.55611	A	ADM2	TR		91	8631469			4388		758	Europe/Istanbul	2015-09-07
+8631470	Kadirli İlçesi	Kadirli Ilcesi	Kadirli Ilcesi,Kadirli İlçesi	37.38406	36.10284	A	ADM2	TR		91	8631470			118119		129	Europe/Istanbul	2014-09-17
+8631471	Sumbas İlçesi	Sumbas Ilcesi	Sumbas Ilcesi,Sumbas İlçesi	37.46169	36.02914	A	ADM2	TR		91	8631471			15130		141	Europe/Istanbul	2014-09-17
+8631472	Pazarcık İlçesi	Pazarcik Ilcesi	Pazarcik Ilcesi,Pazarcık İlçesi	37.42073	37.29833	A	ADM2	TR		46	8631472			68843		1027	Europe/Istanbul	2025-05-25
+8631473	Nurhak İlçesi	Nurhak Ilcesi	Nurhak Ilcesi,Nurhak İlçesi	37.96638	37.44107	A	ADM2	TR		46	8631473			13414		1418	Europe/Istanbul	2015-09-07
+8631474	Çağlayancerit İlçesi	Caglayancerit Ilcesi	Caglayancerit Ilcesi,Çağlayancerit İlçesi	37.74976	37.29033	A	ADM2	TR		46	8631474			25276		1100	Europe/Istanbul	2015-09-07
+8631475	Türkoğlu İlçesi	Tuerkoglu Ilcesi	Turkoglu Ilcesi,Türkoğlu İlçesi	37.38417	36.84626	A	ADM2	TR		46	8631475			67886		490	Europe/Istanbul	2015-09-07
+8631476	Elbistan İlçesi	Elbistan Ilcesi	Elbistan Ilcesi,Elbistan İlçesi	38.21542	37.20463	A	ADM2	TR		46	8631476			140493		1138	Europe/Istanbul	2024-09-21
+8631477	Ekinözü İlçesi	Ekinoezue Ilcesi	Ekinozu Ilcesi,Ekinözü İlçesi	38.07007	37.19414	A	ADM2	TR		46	8631477			13461		1317	Europe/Istanbul	2014-09-17
+8631478	Andırın İlçesi	Andirin Ilcesi	Andirin Ilcesi,Andırın İlçesi	37.58791	36.36112	A	ADM2	TR		46	8631478			35943		1131	Europe/Istanbul	2014-09-17
+8631479	Göksun İlçesi	Goeksun Ilcesi	Goksun Ilcesi,Göksun İlçesi	38.03089	36.50239	A	ADM2	TR		46	8631479			53157		1341	Europe/Istanbul	2014-09-17
+8631480	Afşin İlçesi	Afsin Ilcesi	Afsin Ilcesi,Afşin İlçesi	38.25795	36.91897	A	ADM2	TR		46	8631480			82662		1232	Europe/Istanbul	2014-09-17
+8631554	Yayladere İlçesi	Yayladere Ilcesi	Yayladere Ilcesi,Yayladere İlçesi	39.19878	40.09336	A	ADM2	TR		12	8631554			2144		1349	Europe/Istanbul	2025-05-25
+8631555	Yedisu İlçesi	Yedisu Ilcesi	Yedisu Ilcesi,Yedisu İlçesi	39.43404	40.54482	A	ADM2	TR		12	8631555			3096		1516	Europe/Istanbul	2015-06-09
+8631556	Adaklı İlçesi	Adakli Ilcesi	Adakli Ilcesi,Adaklı İlçesi	39.2287	40.48252	A	ADM2	TR		12	8631556			9445		1501	Europe/Istanbul	2015-02-07
+8631557	Solhan İlçesi	Solhan Ilcesi	Solhan Ilcesi,Solhan İlçesi	38.96965	41.05604	A	ADM2	TR		12	8631557			33535		1399	Europe/Istanbul	2015-02-07
+8631558	Karlıova İlçesi	Karliova Ilcesi	Karliova Ilcesi,Karlıova İlçesi	39.2978	41.01342	A	ADM2	TR		12	8631558			32212		1818	Europe/Istanbul	2015-06-09
+8631559	Genç İlçesi	Genc Ilcesi	Genc Ilcesi,Genç İlçesi	38.75972	40.56639	A	ADM2	TR		12	8631559			35958		992	Europe/Istanbul	2014-09-17
+8631560	Kiğı İlçesi	Kigi Ilcesi	Kigi Ilcesi,Kiğı İlçesi	39.30894	40.34995	A	ADM2	TR		12	8631560			5500		1520	Europe/Istanbul	2015-02-07
+8631561	Baskil İlçesi	Baskil Ilcesi	Baskil Ilcesi,Baskil İlçesi	38.56695	38.82357	A	ADM2	TR		23	8631561			17361		1207	Europe/Istanbul	2023-12-12
+8631562	Kovancılar İlçesi	Kovancilar Ilcesi	Kovancilar District,Kovancilar Ilcesi,Kovancılar District,Kovancılar İlçesi	38.71883	39.8652	A	ADM2	TR		23	8631562			40094		965	Europe/Istanbul	2023-12-12
+8631563	Sivrice İlçesi	Sivrice Ilcesi	Sivrice Ilcesi,Sivrice İlçesi	38.44921	39.30582	A	ADM2	TR		23	8631563			11034		1271	Europe/Istanbul	2023-12-12
+8631564	Maden İlçesi	Maden Ilcesi	Maden,Maden Ilcesi,Maden İlçesi	38.39354	39.67252	A	ADM2	TR		23	8631564			15665		976	Europe/Istanbul	2024-09-24
+8631565	Arıcak İlçesi	Aricak Ilcesi	Aricak Ilcesi,Arıcak İlçesi	38.56421	40.13506	A	ADM2	TR		23	8631565			15691		1096	Europe/Istanbul	2023-12-12
+8631566	Alacakaya İlçesi	Alacakaya Ilcesi	Alacakaya District,Alacakaya Ilcesi,Alacakaya İlçesi,Alacakayal Ilcesi,Alacakayal İlçesi	38.46326	39.85514	A	ADM2	TR		23	8631566			7154		1044	Europe/Istanbul	2025-05-18
+8631570	Palu İlçesi	Palu Ilcesi	Palu Ilcesi,Palu İlçesi	38.69286	39.92652	A	ADM2	TR		23	8631570			23066		872	Europe/Istanbul	2015-07-04
+8631574	Keban İlçesi	Keban Ilcesi	Keban Ilcesi,Keban İlçesi	38.79438	38.73773	A	ADM2	TR		23	8631574			8132		760	Europe/Istanbul	2023-12-12
+8631575	Ovacık İlçesi	Ovacik Ilcesi	Ovacik Ilcesi,Ovacık İlçesi	39.35783	39.21628	A	ADM2	TR		62	8631575			6550		1255	Europe/Istanbul	2025-04-22
+8631576	Hozat İlçesi	Hozat Ilcesi	Hozat Ilcesi,Hozat İlçesi	39.1078	39.2188	A	ADM2	TR		62	8631576			3634		1523	Europe/Istanbul	2025-04-22
+8631578	Pertek İlçesi	Pertek Ilcesi	Pertek Ilcesi,Pertek İlçesi	38.86503	39.32734	A	ADM2	TR		62	8631578			11934		1092	Europe/Istanbul	2025-04-22
+8631579	Pülümür İlçesi	Pueluemuer Ilcesi	Pulumur Ilcesi,Pülümür İlçesi	39.48662	39.89874	A	ADM2	TR		62	8631579			3580		1525	Europe/Istanbul	2025-04-22
+8631580	Nazımiye İlçesi	Nazimiye Ilcesi	Nazimiye Ilcesi,Nazımiye İlçesi	39.17952	39.82805	A	ADM2	TR		62	8631580			3011		1512	Europe/Istanbul	2025-04-22
+8631581	Mazgirt İlçesi	Mazgirt Ilcesi	Mazgirt Ilcesi,Mazgirt İlçesi	39.01913	39.60473	A	ADM2	TR		62	8631581			8683		1414	Europe/Istanbul	2025-04-22
+8631582	Çemişgezek İlçesi	Cemisgezek Ilcesi	Cemisgezek Ilcesi,Çemişgezek İlçesi	39.06234	38.914	A	ADM2	TR		62	8631582			3009		1016	Europe/Istanbul	2025-04-22
+8631583	Çayırlı İlçesi	Cayirli Ilcesi	Cayirli Ilcesi,Çayırlı İlçesi	39.80454	40.03724	A	ADM2	TR		24	8631583			8383		1524	Europe/Istanbul	2025-04-22
+8631584	Otlukbeli İlçesi	Otlukbeli Ilcesi	Otlukbeli Ilcesi,Otlukbeli İlçesi	39.97213	40.02139	A	ADM2	TR		24	8631584			2036		1749	Europe/Istanbul	2025-04-22
+8631605	Tercan İlçesi	Tercan Ilcesi	Tercan Ilcesi,Tercan İlçesi	39.77812	40.38505	A	ADM2	TR		24	8631605			4846		1439	Europe/Istanbul	2025-04-22
+8631606	Üzümlü İlçesi	UEzuemlue Ilcesi	Uzumlu Ilcesi,Üzümlü İlçesi	39.70943	39.70125	A	ADM2	TR		24	8631606			8325		1429	Europe/Istanbul	2025-04-22
+8631607	Kemaliye İlçesi	Kemaliye Ilcesi	Kemaliye Ilcesi,Kemaliye İlçesi	39.27163	38.50588	A	ADM2	TR		24	8631607			5044		1174	Europe/Istanbul	2014-09-17
+8631608	İliç İlçesi	Ilic Ilcesi	Ilic Ilcesi,İliç İlçesi	39.45587	38.56409	A	ADM2	TR		24	8631608			7367		1105	Europe/Istanbul	2025-04-23
+8631609	Refahiye İlçesi	Refahiye Ilcesi	Refahiye Ilcesi,Refahiye İlçesi	39.90132	38.76745	A	ADM2	TR		24	8631609			10988		1584	Europe/Istanbul	2025-04-23
+8631610	Kemah İlçesi	Kemah Ilcesi	Ani-Kamakh,Ani-Kamax,Kemah Ilcesi,Kemah İlçesi,Անի-Կամախ	39.60123	39.03422	A	ADM2	TR		24	8631610			7363		1075	Europe/Istanbul	2025-04-23
+8631613	Demirözü İlçesi	Demiroezue Ilcesi	Demirozu Ilcesi,Demirözü İlçesi	40.1656	39.89343	A	ADM2	TR		77	8631613			8531		1686	Europe/Istanbul	2025-04-23
+8631614	Aydıntepe İlçesi	Aydintepe Ilcesi	Aydintepe Ilcesi,Aydıntepe İlçesi	40.39137	40.14729	A	ADM2	TR		77	8631614			6234		1631	Europe/Istanbul	2025-04-23
+8631615	Köse İlçesi	Koese Ilcesi	Koese District,Kose Ilcesi,Köse District,Köse İlçesi	40.21025	39.65402	A	ADM2	TR		69	8631615			7351		1583	Europe/Istanbul	2023-12-12
+8631616	Torul İlçesi	Torul Ilcesi	Torul Ilcesi,Torul İlçesi	40.56034	39.29671	A	ADM2	TR		69	8631616			10760		930	Europe/Istanbul	2025-04-23
+8631617	Kürtün İlçesi	Kuertuen Ilcesi	Kurtun Ilcesi,Kürtün İlçesi	40.69966	39.09801	A	ADM2	TR		69	8631617			13659		768	Europe/Istanbul	2023-12-12
+8631618	Şiran İlçesi	Siran Ilcesi	Siran Ilcesi,Şiran İlçesi	40.19084	39.12484	A	ADM2	TR		69	8631618			18106		1404	Europe/Istanbul	2023-12-11
+8631619	Kelkit İlçesi	Kelkit Ilcesi	Kelkit Ilcesi,Kelkit İlçesi	40.12952	39.4371	A	ADM2	TR		69	8631619			41554		1407	Europe/Istanbul	2023-12-10
+8631620	Güce İlçesi	Guece Ilcesi	Guce Ilcesi,Güce İlçesi	40.89368	38.80855	A	ADM2	TR		28	8631620			8354		347	Europe/Istanbul	2015-02-07
+8631621	Doğankent İlçesi	Dogankent Ilcesi	Dogankent Ilcesi,Doğankent İlçesi	40.80802	38.91695	A	ADM2	TR		28	8631621			6943		195	Europe/Istanbul	2015-02-07
+8631622	Görele İlçesi	Goerele Ilcesi	Gorele Ilcesi,Görele İlçesi	41.02636	39.00724	A	ADM2	TR		28	8631622			29713		77	Europe/Istanbul	2014-09-17
+8631623	Eynesil İlçesi	Eynesil Ilcesi	Eynesil Ilcesi,Eynesil İlçesi	41.06331	39.15904	A	ADM2	TR		28	8631623			13399		120	Europe/Istanbul	2014-09-17
+8631624	Espiye İlçesi	Espiye Ilcesi	Espiye Ilcesi,Espiye İlçesi	40.9485	38.70734	A	ADM2	TR		28	8631624			31794		13	Europe/Istanbul	2015-02-07
+8631625	Yağlıdere İlçesi	Yaglidere Ilcesi	Yaglidere Ilcesi,Yağlıdere İlçesi	40.85711	38.63242	A	ADM2	TR		28	8631625			16833		267	Europe/Istanbul	2015-02-07
+8631626	Şebin Karahisar İlçesi	Sebin Karahisar Ilcesi	Sebin Karahisar Ilcesi,Sebinkarahisar Ilcesi,Şebin Karahisar İlçesi,Şebinkarahisar İlçesi	40.29456	38.4145	A	ADM2	TR		28	8631626			23193		1497	Europe/Istanbul	2015-08-08
+8631628	Bulancak İlçesi	Bulancak Ilcesi	Bulancak Ilcesi,Bulancak İlçesi	40.93805	38.23148	A	ADM2	TR		28	8631628			61833		12	Europe/Istanbul	2015-08-08
+8631629	Piraziz İlçesi	Piraziz Ilcesi	Piraziz Ilcesi,Piraziz İlçesi	40.95643	38.11667	A	ADM2	TR		28	8631629			13587		6	Europe/Istanbul	2025-05-18
+8631630	Alucra İlçesi	Alucra Ilcesi	Alucra Ilcesi,Alucra İlçesi	40.31924	38.76528	A	ADM2	TR		28	8631630			9170		1480	Europe/Istanbul	2015-02-07
+8631631	Çamoluk İlçesi	Camoluk Ilcesi	Camoluk Ilcesi,Çamoluk İlçesi	40.13418	38.73389	A	ADM2	TR		28	8631631			7495		1065	Europe/Istanbul	2015-02-07
+8631632	Kabadüz İlçesi	Kabaduez Ilcesi	Kabaduz Ilcesi,Kabadüz İlçesi	40.85712	37.90597	A	ADM2	TR		52	8631632			8312		574	Europe/Istanbul	2015-08-08
+8631633	Gülyalı İlçesi	Guelyali Ilcesi	Gulyali Ilcesi,Gülyalı İlçesi	40.96682	38.05679	A	ADM2	TR		52	8631633			9116		11	Europe/Istanbul	2015-08-08
+8631634	Gölköy İlçesi	Goelkoey Ilcesi	Golkoy Ilcesi,Gölköy İlçesi	40.68726	37.6166	A	ADM2	TR		52	8631634			32832		814	Europe/Istanbul	2015-08-08
+8631635	Ulubey İlçesi	Ulubey Ilcesi	Ulubey Ilcesi,Ulubey İlçesi	40.87352	37.7589	A	ADM2	TR		52	8631635			20868		601	Europe/Istanbul	2015-08-08
+8631636	Gürgentepe İlçesi	Guergentepe Ilcesi	Gurgentepe Ilcesi,Gürgentepe İlçesi	40.77452	37.57579	A	ADM2	TR		52	8631636			16232		1031	Europe/Istanbul	2015-08-08
+8631637	Perşembe İlçesi	Persembe Ilcesi	Persembe Ilcesi,Perşembe İlçesi	41.06068	37.76384	A	ADM2	TR		52	8631637			32131		88	Europe/Istanbul	2014-09-17
+8631638	Çamaş İlçesi	Camas Ilcesi	Camas Ilcesi,Çamaş İlçesi	40.9084	37.52162	A	ADM2	TR		52	8631638			7755		492	Europe/Istanbul	2015-08-08
+8631639	Fatsa İlçesi	Fatsa Ilcesi	Fatsa Ilcesi,Fatsa İlçesi	41.02211	37.49196	A	ADM2	TR		52	8631639			105960		96	Europe/Istanbul	2014-09-17
+8631640	Çatalpınar İlçesi	Catalpinar Ilcesi	Catalpinar Ilcesi,Çatalpınar İlçesi	40.88678	37.44329	A	ADM2	TR		52	8631640			14669		189	Europe/Istanbul	2014-09-17
+8631641	Kumru İlçesi	Kumru Ilcesi	Kumru Ilcesi,Kumru İlçesi	40.88372	37.2761	A	ADM2	TR		52	8631641			32268		458	Europe/Istanbul	2014-09-17
+8631642	Mesudiye İlçesi	Mesudiye Ilcesi	Mesudiye Ilcesi,Mesudiye İlçesi	40.46419	37.77419	A	ADM2	TR		52	8631642			16975		1120	Europe/Istanbul	2015-08-08
+8631643	Korgan İlçesi	Korgan Ilcesi	Korgan Ilcesi,Korgan İlçesi	40.83503	37.35319	A	ADM2	TR		52	8631643			32370		714	Europe/Istanbul	2014-09-17
+8631644	Aybastı İlçesi	Aybasti Ilcesi	Aybasti Ilcesi,Aybastı İlçesi	40.6969	37.40794	A	ADM2	TR		52	8631644			24247		735	Europe/Istanbul	2014-09-17
+8631645	Kabataş İlçesi	Kabatas Ilcesi	Kabatas Ilcesi,Kabataş İlçesi	40.75996	37.45875	A	ADM2	TR		52	8631645			12281		568	Europe/Istanbul	2014-09-17
+8631646	Ünye İlçesi	UEnye Ilcesi	Unye Ilcesi,Ünye İlçesi	41.13921	37.27246	A	ADM2	TR		52	8631646			118201		63	Europe/Istanbul	2014-09-17
+8631647	İkizce İlçesi	Ikizce Ilcesi	Ikizce Ilcesi,İkizce İlçesi	41.06793	37.08571	A	ADM2	TR		52	8631647			16745		198	Europe/Istanbul	2014-09-17
+8631648	Çaybaşı İlçesi	Caybasi Ilcesi	Caybasi Ilcesi,Çaybaşı İlçesi	41.02532	37.10867	A	ADM2	TR		52	8631648			15163		515	Europe/Istanbul	2014-09-17
+8631649	Gürün İlçesi	Gueruen Ilcesi	Gurun Ilcesi,Gürün İlçesi	38.73288	37.27516	A	ADM2	TR		58	8631649			19954		1545	Europe/Istanbul	2014-09-17
+8631651	Suşehri İlçesi	Susehri Ilcesi	Susehri Ilcesi,Suşehri İlçesi	40.16338	38.08926	A	ADM2	TR		58	8631651			26053		1066	Europe/Istanbul	2015-08-08
+8631652	Koyulhisar İlçesi	Koyulhisar Ilcesi	Koyulhisar Ilcesi,Koyulhisar İlçesi	40.30113	37.83311	A	ADM2	TR		58	8631652			14274		951	Europe/Istanbul	2015-08-08
+8631653	Doğanşar İlçesi	Dogansar Ilcesi	Dogansar Ilcesi,Doğanşar İlçesi	40.21408	37.53599	A	ADM2	TR		58	8631653			2881		1308	Europe/Istanbul	2015-08-08
+8631654	Altınyayla İlçesi	Altinyayla Ilcesi	Altinyayla Ilcesi,Altınyayla İlçesi	39.28233	36.75681	A	ADM2	TR		58	8631654			9736		1442	Europe/Istanbul	2014-09-17
+8631656	Şarkışla İlçesi	Sarkisla Ilcesi	Sarkisla Ilcesi,Şarkışla İlçesi	39.36171	36.41827	A	ADM2	TR		58	8631656			38094		1261	Europe/Istanbul	2014-09-17
+8631657	Gemerek İlçesi	Gemerek Ilcesi	Gemerek Ilcesi,Gemerek İlçesi	39.19397	36.07783	A	ADM2	TR		58	8631657			26157		1167	Europe/Istanbul	2014-09-17
+8631658	Yıldızeli İlçesi	Yildizeli Ilcesi	Yildizeli Ilcesi,Yıldızeli İlçesi	39.87601	36.60652	A	ADM2	TR		58	8631658			40540		1377	Europe/Istanbul	2014-09-17
+8631659	Gölova İlçesi	Goelova Ilcesi	Golova Ilcesi,Gölova İlçesi	40.0607	38.6084	A	ADM2	TR		58	8631659			3532		1327	Europe/Istanbul	2015-02-07
+8631660	Akıncılar İlçesi	Akincilar Ilcesi	Akincilar Ilcesi,Akıncılar İlçesi	40.07866	38.34618	A	ADM2	TR		58	8631660			5300		1072	Europe/Istanbul	2015-08-08
+8631661	İmranlı İlçesi	Imranli Ilcesi	Imranli Ilcesi,İmranlı İlçesi	39.88524	38.12015	A	ADM2	TR		58	8631661			7975		1700	Europe/Istanbul	2014-09-17
+8631662	Kangal İlçesi	Kangal Ilcesi	Kangal Ilcesi,Kangal İlçesi	39.24324	37.39731	A	ADM2	TR		58	8631662			23089		1507	Europe/Istanbul	2014-09-17
+8631663	Divriği İlçesi	Divrigi Ilcesi	Divrigi Ilcesi,Divriği İlçesi	39.37924	38.12144	A	ADM2	TR		58	8631663			16128		987	Europe/Istanbul	2014-09-17
+8631664	Ulaş İlçesi	Ulas Ilcesi	Ulas Ilcesi,Ulaş İlçesi	39.45456	37.04541	A	ADM2	TR		58	8631664			9584		1381	Europe/Istanbul	2014-09-17
+8631665	Hafik İlçesi	Hafik Ilcesi	Hafik Ilcesi,Hafik İlçesi	39.86693	37.3972	A	ADM2	TR		58	8631665			9438		1289	Europe/Istanbul	2014-09-17
+8631666	Yeşilyurt İlçesi	Yesilyurt Ilcesi	Yesilyurt Ilcesi,Yeşilyurt İlçesi	38.29814	38.24698	A	ADM2	TR		44	8631666			267365		1000	Europe/Istanbul	2015-08-08
+8631667	Kale İlçesi	Kale Ilcesi	Kale Ilcesi,Kale İlçesi	38.39773	38.74406	A	ADM2	TR		44	8631667			5975		742	Europe/Istanbul	2015-11-09
+8631668	Arapgir İlçesi	Arapgir Ilcesi	Arapgir Ilcesi,Arapgir İlçesi	39.05029	38.50255	A	ADM2	TR		44	8631668			11041		1156	Europe/Istanbul	2014-09-17
+8631669	Yazıhan İlçesi	Yazihan Ilcesi	Yazihan Ilcesi,Yazıhan İlçesi	38.59567	38.17967	A	ADM2	TR		44	8631669			15297		827	Europe/Istanbul	2015-08-08
+8631670	Hekimhan İlçesi	Hekimhan Ilcesi	Hekimhan Ilcesi,Hekimhan İlçesi	38.81627	37.93134	A	ADM2	TR		44	8631670			22181		1126	Europe/Istanbul	2015-08-08
+8631672	Akçadağ İlçesi	Akcadag Ilcesi	Akcadag Ilcesi,Akçadağ İlçesi	38.34403	37.97409	A	ADM2	TR		44	8631672			32260		1044	Europe/Istanbul	2015-08-08
+8631673	Doğanşehir İlçesi	Dogansehir Ilcesi	Dogansehir Ilcesi,Doğanşehir İlçesi	38.09134	37.87687	A	ADM2	TR		44	8631673			41006		1231	Europe/Istanbul	2015-08-08
+8631674	Darende İlçesi	Darende Ilcesi	Darende Ilcesi,Darende İlçesi	38.55585	37.51378	A	ADM2	TR		44	8631674			28978		1219	Europe/Istanbul	2014-09-17
+8631676	Kuluncak İlçesi	Kuluncak Ilcesi	Kuluncak Ilcesi,Kuluncak İlçesi	38.88244	37.67181	A	ADM2	TR		44	8631676			8885		1288	Europe/Istanbul	2015-08-08
+8631677	Gerger İlçesi	Gerger Ilcesi	Gerger Ilcesi,Gerger İlçesi	38.02856	39.03281	A	ADM2	TR		02	8631677			16416		772	Europe/Istanbul	2023-12-10
+8631678	Samsat İlçesi	Samsat Ilcesi	Samsat Ilcesi,Samsat İlçesi	37.58565	38.48946	A	ADM2	TR		02	8631678			9180		592	Europe/Istanbul	2023-12-11
+8631679	Kâhta İlçesi	Kahta Ilcesi	Kahta Ilcesi,Kâhta İlçesi	37.79477	38.63119	A	ADM2	TR		02	8631679			117865		728	Europe/Istanbul	2023-12-11
+8631680	Çelikhan İlçesi	Celikhan Ilcesi	Celikhan Ilcesi,Çelikhan İlçesi	38.03275	38.23705	A	ADM2	TR		02	8631680			15387		1401	Europe/Istanbul	2023-12-11
+8631681	Besni İlçesi	Besni Ilcesi	Besni Ilcesi,Besni İlçesi	37.70142	37.87086	A	ADM2	TR		02	8631681			77404		818	Europe/Istanbul	2023-12-11
+8631682	Tut İlçesi	Tut Ilcesi	Tut Ilcesi,Tut İlçesi	37.80528	37.92296	A	ADM2	TR		02	8631682			10697		1239	Europe/Istanbul	2023-12-11
+8631683	Sincik İlçesi	Sincik Ilcesi	Sincik Ilcesi,Sincik İlçesi	38.03373	38.61319	A	ADM2	TR		02	8631683			18750		1310	Europe/Istanbul	2023-12-11
+8631684	Gölbaşı İlçesi	Goelbasi Ilcesi	Golbasi Ilcesi,Gölbaşı İlçesi	37.79	37.64989	A	ADM2	TR		02	8631684			47406		892	Europe/Istanbul	2023-12-12
+8631685	Vezirköprü İlçesi	Vezirkoeprue Ilcesi	Vezirkopru Ilcesi,Vezirköprü İlçesi	41.15193	35.4623	A	ADM2	TR		55	8631685			101715		307	Europe/Istanbul	2014-09-17
+8631686	Havza İlçesi	Havza Ilcesi	Havza Ilcesi,Havza İlçesi	40.97972	35.67107	A	ADM2	TR		55	8631686			42791		717	Europe/Istanbul	2014-09-17
+8631687	Ladik İlçesi	Ladik Ilcesi	Ladik Ilcesi,Ladik İlçesi	40.92025	35.90095	A	ADM2	TR		55	8631687			17230		902	Europe/Istanbul	2014-09-17
+8631689	Kavak İlçesi	Kavak Ilcesi	Kavak Ilcesi,Kavak İlçesi	41.08777	36.05183	A	ADM2	TR		55	8631689			20604		688	Europe/Istanbul	2014-09-17
+8631690	Asarcık İlçesi	Asarcik Ilcesi	Asarcik Ilcesi,Asarcık İlçesi	41.04687	36.20732	A	ADM2	TR		55	8631690			17783		833	Europe/Istanbul	2015-07-04
+8631691	Alaçam İlçesi	Alacam Ilcesi	Alacam Ilcesi,Alaçam İlçesi	41.61563	35.60632	A	ADM2	TR		55	8631691			28162		26	Europe/Istanbul	2014-09-17
+8631692	Yakakent İlçesi	Yakakent Ilcesi	Yakakent Ilcesi,Yakakent İlçesi	41.61824	35.52014	A	ADM2	TR		55	8631692			9074		47	Europe/Istanbul	2014-09-17
+8631693	Terme İlçesi	Terme Ilcesi	Terme Ilcesi,Terme İlçesi	41.21876	36.98263	A	ADM2	TR		55	8631693			73615		5	Europe/Istanbul	2014-09-17
+8631695	Salıpazarı İlçesi	Salipazari Ilcesi	Salipazari Ilcesi,Salıpazarı İlçesi	41.09352	36.81718	A	ADM2	TR		55	8631695			19623		83	Europe/Istanbul	2014-09-17
+8631696	Ayvacık İlçesi	Ayvacik Ilcesi	Ayvacik Ilcesi,Ayvacık İlçesi	41.00237	36.63706	A	ADM2	TR		55	8631696			22444		65	Europe/Istanbul	2014-09-17
+8631698	Çarşamba İlçesi	Carsamba Ilcesi	Carsamba Ilcesi,Çarşamba İlçesi	41.2105	36.73204	A	ADM2	TR		55	8631698			136184		22	Europe/Istanbul	2014-09-17
+8631699	Ondokuzmayıs İlçesi	Ondokuzmayis Ilcesi	19 Mayis,19 Mayıs,19. Mayis Ilcesi,19. Mayıs İlçesi,Ondokuzmayis Ilcesi,Ondokuzmayıs İlçesi	41.51188	36.07298	A	ADM2	TR		55	8631699			24454		7	Europe/Istanbul	2017-12-09
+8631703	Taşova İlçesi	Tasova Ilcesi	Tasova Ilcesi,Taşova İlçesi	40.76998	36.33092	A	ADM2	TR		05	8631703			31631		374	Europe/Istanbul	2014-09-17
+8631704	Göynücek İlçesi	Goeynuecek Ilcesi	Goynucek Ilcesi,Göynücek İlçesi	40.41008	35.53104	A	ADM2	TR		05	8631704			11390		596	Europe/Istanbul	2014-09-17
+8631705	Gümüşhacıköy İlçesi	Guemueshacikoey Ilcesi	Gumushacikoy Ilcesi,Gümüşhacıköy İlçesi	40.88365	35.22111	A	ADM2	TR		05	8631705			23463		840	Europe/Istanbul	2014-09-17
+8631706	Suluova İlçesi	Suluova Ilcesi	Suluova Ilcesi,Suluova İlçesi	40.84202	35.65922	A	ADM2	TR		05	8631706			46496		592	Europe/Istanbul	2014-09-17
+8631707	Merzifon İlçesi	Merzifon Ilcesi	Merzifon Ilcesi,Merzifon İlçesi	40.88348	35.47116	A	ADM2	TR		05	8631707			70297		751	Europe/Istanbul	2014-09-17
+8631708	Hamamözü İlçesi	Hamamoezue Ilcesi	Hamamozu Ilcesi,Hamamözü İlçesi	40.79539	35.03367	A	ADM2	TR		05	8631708			4266		730	Europe/Istanbul	2014-09-17
+8631714	Başçiftlik İlçesi	Basciftlik Ilcesi	Basciftlik District,Basciftlik Ilcesi,Başçiftlik District,Başçiftlik İlçesi	40.55728	37.17674	A	ADM2	TR		60	8631714			6081		1398	Europe/Istanbul	2023-12-11
+8631716	Kadışehri İlçesi	Kadisehri Ilcesi	Kadisehri Ilcesi,Kadışehri İlçesi	40.00551	35.798	A	ADM2	TR		66	8631716			14578		1065	Europe/Istanbul	2014-09-17
+8631717	Sulusaray İlçesi	Sulusaray Ilcesi	Sulusaray District,Sulusaray Ilcesi,Sulusaray İlçesi	40.00491	36.08976	A	ADM2	TR		60	8631717			8455		1030	Europe/Istanbul	2023-12-11
+8631738	Yeşilyurt İlçesi	Yesilyurt Ilcesi	Yesilyurt District,Yesilyurt Ilcesi,Yeşilyurt District,Yeşilyurt İlçesi	39.99916	36.23479	A	ADM2	TR		60	8631738			11458		1168	Europe/Istanbul	2023-12-11
+8631740	Artova İlçesi	Artova Ilcesi	Artova Ilcesi,Artova İlçesi	40.12681	36.30728	A	ADM2	TR		60	8631740			9384		1187	Europe/Istanbul	2014-09-17
+8631741	Pazar İlçesi	Pazar Ilcesi	Pazar District,Pazar Ilcesi,Pazar İlçesi	40.28704	36.29192	A	ADM2	TR		60	8631741			14712		552	Europe/Istanbul	2023-12-11
+8631742	Turhal İlçesi	Turhal Ilcesi	Turhal Ilcesi,Turhal İlçesi	40.39839	36.08736	A	ADM2	TR		60	8631742			83036		534	Europe/Istanbul	2023-12-11
+8631743	Almus İlçesi	Almus Ilcesi	Almus Ilcesi,Almus İlçesi	40.38643	36.91284	A	ADM2	TR		60	8631743			27065		829	Europe/Istanbul	2023-12-11
+8631744	Zile İlçesi	Zile Ilcesi	Zile District,Zile Ilcesi,Zile İlçesi	40.31426	35.89399	A	ADM2	TR		60	8631744			59744		762	Europe/Istanbul	2023-12-14
+8631745	Çekerek İlçesi	Cekerek Ilcesi	Cekerek Ilcesi,Çekerek İlçesi	40.08331	35.49869	A	ADM2	TR		66	8631745			23699		1057	Europe/Istanbul	2014-08-10
+8631748	Saraykent İlçesi	Saraykent Ilcesi	Saraykent Ilcesi,Saraykent İlçesi	39.70389	35.51628	A	ADM2	TR		66	8631748			15134		1131	Europe/Istanbul	2014-09-17
+8631749	Akdağmadeni İlçesi	Akdagmadeni Ilcesi	Akdagmadeni Ilcesi,Akdağmadeni İlçesi	39.66404	35.89747	A	ADM2	TR		66	8631749			48249		1399	Europe/Istanbul	2014-09-17
+8631750	Aydıncık İlçesi	Aydincik Ilcesi	Aydincik Ilcesi,Aydıncık İlçesi	40.13734	35.29459	A	ADM2	TR		66	8631750			12585		822	Europe/Istanbul	2014-09-17
+8631751	Sorgun İlçesi	Sorgun Ilcesi	Sorgun Ilcesi,Sorgun İlçesi	39.82022	35.19205	A	ADM2	TR		66	8631751			81231		1098	Europe/Istanbul	2014-09-17
+8631752	Şefaatli İlçesi	Sefaatli Ilcesi	Sefaatli Ilcesi,Şefaatli İlçesi	39.5008	34.76388	A	ADM2	TR		66	8631752			16234		905	Europe/Istanbul	2014-09-17
+8631753	Çandır İlçesi	Candir Ilcesi	Candir Ilcesi,Çandır İlçesi	39.25445	35.52284	A	ADM2	TR		66	8631753			4835		1240	Europe/Istanbul	2014-09-17
+8631754	Çayıralan İlçesi	Cayiralan Ilcesi	Cayiralan Ilcesi,Çayıralan İlçesi	39.31377	35.6516	A	ADM2	TR		66	8631754			14985		1404	Europe/Istanbul	2014-09-17
+8631755	Yenifakılı İlçesi	Yenifakili Ilcesi	Yenifakili Ilcesi,Yenifakılı İlçesi	39.21073	35.01459	A	ADM2	TR		66	8631755			5845		1007	Europe/Istanbul	2014-09-17
+8631769	Boğazlıyan İlçesi	Bogazliyan Ilcesi	Bogazliyan Ilcesi,Boğazlıyan İlçesi	39.19627	35.2542	A	ADM2	TR		66	8631769			34925		1066	Europe/Istanbul	2014-09-17
+8631771	Yerköy İlçesi	Yerkoey Ilcesi	Yerkoy Ilcesi,Yerköy İlçesi	39.64415	34.48386	A	ADM2	TR		66	8631771			38687		763	Europe/Istanbul	2014-08-10
+8631773	Akkışla İlçesi	Akkisla Ilcesi	Akkisla Ilcesi,Akkışla İlçesi	39.01218	36.17905	A	ADM2	TR		38	8631773			6663		1494	Europe/Istanbul	2014-09-17
+8631774	Sarız İlçesi	Sariz Ilcesi	Sariz Ilcesi,Sarız İlçesi	38.48015	36.51488	A	ADM2	TR		38	8631774			10626		1615	Europe/Istanbul	2014-09-17
+8631775	Tomarza İlçesi	Tomarza Ilcesi	Tomarza Ilcesi,Tomarza İlçesi	38.4578	35.80465	A	ADM2	TR		38	8631775			24996		1402	Europe/Istanbul	2014-09-17
+8631781	Pınarbaşı İlçesi	Pinarbasi Ilcesi	Pinarbasi Ilcesi,Pınarbaşı İlçesi	38.73231	36.38219	A	ADM2	TR		38	8631781			26559		1498	Europe/Istanbul	2014-09-17
+8631782	Bünyan İlçesi	Buenyan Ilcesi	Bunyan Ilcesi,Bünyan İlçesi	38.85461	35.85195	A	ADM2	TR		38	8631782			29120		1337	Europe/Istanbul	2014-09-17
+8631783	Sarıoğlan İlçesi	Sarioglan Ilcesi	Sarioglan Ilcesi,Sarıoğlan İlçesi	39.08765	35.97445	A	ADM2	TR		38	8631783			14977		1145	Europe/Istanbul	2014-09-17
+8631784	Talas İlçesi	Talas Ilcesi	Talas Ilcesi,Talas İlçesi	38.70161	35.56056	A	ADM2	TR		38	8631784			119810		1145	Europe/Istanbul	2014-09-17
+8631787	Hacılar İlçesi	Hacilar Ilcesi	Hacilar Ilcesi,Hacılar İlçesi	38.6571	35.45832	A	ADM2	TR		38	8631787			12376		1291	Europe/Istanbul	2017-09-06
+8631788	Felahiye İlçesi	Felahiye Ilcesi	Felahiye Ilcesi,Felahiye İlçesi	39.10166	35.57162	A	ADM2	TR		38	8631788			7013		1372	Europe/Istanbul	2014-09-17
+8631789	Özvatan İlçesi	OEzvatan Ilcesi	Ozvatan Ilcesi,Özvatan İlçesi	39.11737	35.71149	A	ADM2	TR		38	8631789			4542		1346	Europe/Istanbul	2014-09-17
+8631795	Yumurtalık	Yumurtalik	Yumurtalik Ilcesi,Yumurtalık İlçesi	36.78245	35.79949	A	ADM2	TR		81	8631795			18463		50	Europe/Istanbul	2017-12-14
+8631903	Saimbeyli	Saimbeyli	Saimbeyli Ilcesi,Saimbeyli İlçesi	37.99615	36.09909	A	ADM2	TR		81	8631903			16572		1338	Europe/Istanbul	2017-12-14
+8631904	Tufanbeyli	Tufanbeyli	Tufanbeyli Ilcesi,Tufanbeyli İlçesi	38.27343	36.22731	A	ADM2	TR		81	8631904			18234		1521	Europe/Istanbul	2017-12-14
+8631905	Feke	Feke	Feke Ilcesi,Feke İlçesi	37.82405	35.91826	A	ADM2	TR		81	8631905			18534		859	Europe/Istanbul	2017-12-14
+8631906	Aladağ	Aladag	Aladag,Aladağ	37.55854	35.40196	A	ADM2	TR		81	8631906			17221		919	Europe/Istanbul	2017-12-14
+8631907	Pozantı	Pozanti	Pozanti Ilcesi,Pozantı İlçesi	37.43671	34.88057	A	ADM2	TR		81	8631907			20954		798	Europe/Istanbul	2017-12-14
+8631908	İmamoğlu	Imamoglu	Imamoglu Ilcesi,İmamoğlu İlçesi	37.275	35.66649	A	ADM2	TR		81	8631908			29748		75	Europe/Istanbul	2017-12-14
+8631909	Karaisalı	Karaisali	Karaisali Ilcesi,Karaisalı İlçesi	37.26655	35.05033	A	ADM2	TR		81	8631909			22230		274	Europe/Istanbul	2017-12-14
+8631910	Karataş	Karatas	Karatas Ilcesi,Karataş İlçesi	36.57186	35.36784	A	ADM2	TR		81	8631910			21862		33	Europe/Istanbul	2017-12-14
+8631911	Altunhisar İlçesi	Altunhisar Ilcesi	Altunhisar District,Altunhisar Ilcesi,Altunhisar İlçesi	38.00044	34.36067	A	ADM2	TR		73	8631911			14498		1188	Europe/Istanbul	2023-12-12
+8631912	Çamardı İlçesi	Camardi Ilcesi	Camardi District,Camardi Ilcesi,Çamardı District,Çamardı İlçesi	37.84157	34.99005	A	ADM2	TR		73	8631912			15728		1570	Europe/Istanbul	2023-12-14
+8631913	Çiftlik İlçesi	Ciftlik Ilcesi	Ciftlik District,Ciftlik Ilcesi,Çiftlik District,Çiftlik İlçesi	38.18584	34.47465	A	ADM2	TR		73	8631913			29596		1534	Europe/Istanbul	2023-12-11
+8631917	Eskil İlçesi	Eskil Ilcesi	Eskil Ilcesi,Eskil İlçesi	38.41158	33.41994	A	ADM2	TR		75	8631917			26178		934	Europe/Istanbul	2014-09-17
+8631919	Sarıyahşi İlçesi	Sariyahsi Ilcesi	Sariyahsi Ilcesi,Sarıyahşi İlçesi	38.99292	33.84676	A	ADM2	TR		75	8631919			5615		916	Europe/Istanbul	2014-09-17
+8631920	Ağaçören İlçesi	Agacoeren Ilcesi	Agacoren Ilcesi,Ağaçören İlçesi	38.88454	33.92421	A	ADM2	TR		75	8631920			9269		1184	Europe/Istanbul	2014-09-17
+8631922	Ortaköy İlçesi	Ortakoey Ilcesi	Ortakoy Ilcesi,Ortaköy İlçesi	38.7477	34.04351	A	ADM2	TR		75	8631922			34792		1207	Europe/Istanbul	2014-09-17
+8631923	Gülağaç İlçesi	Guelagac Ilcesi	Gulagac Ilcesi,Gülağaç İlçesi	38.40641	34.35071	A	ADM2	TR		75	8631923			20408		1179	Europe/Istanbul	2014-09-17
+8631925	Güzelyurt İlçesi	Guezelyurt Ilcesi	Guzelyurt Ilcesi,Güzelyurt İlçesi	38.28628	34.3619	A	ADM2	TR		75	8631925			12545		1429	Europe/Istanbul	2014-09-17
+8631927	Acıgöl İlçesi	Acigoel Ilcesi	Acigoel District,Acigol Ilcesi,Acıgöl District,Acıgöl İlçesi	38.56101	34.5173	A	ADM2	TR		50	8631927			19733		1239	Europe/Istanbul	2023-12-11
+8631929	Gülşehir İlçesi	Guelsehir Ilcesi	Gulsehir Ilcesi,Gülşehir İlçesi	38.75561	34.62993	A	ADM2	TR		50	8631929			22722		916	Europe/Istanbul	2023-12-11
+8631930	Avanos İlçesi	Avanos Ilcesi	Avanos District,Avanos Ilcesi,Avanos İlçesi	38.72396	34.85313	A	ADM2	TR		50	8631930			34015		963	Europe/Istanbul	2023-12-11
+8631932	Derinkuyu İlçesi	Derinkuyu Ilcesi	Derinkuyu District,Derinkuyu Ilcesi,Derinkuyu İlçesi	38.34622	34.7384	A	ADM2	TR		50	8631932			21425		1330	Europe/Istanbul	2023-12-11
+8631933	Kozaklı İlçesi	Kozakli Ilcesi	Kozakli Ilcesi,Kozaklı İlçesi	39.23204	34.85585	A	ADM2	TR		50	8631933			14730		1013	Europe/Istanbul	2023-12-11
+8631934	Hacıbektaş İlçesi	Hacibektas Ilcesi	Hacibektas District,Hacibektas Ilcesi,Hacıbektaş District,Hacıbektaş İlçesi	38.95079	34.56283	A	ADM2	TR		50	8631934			11480		1291	Europe/Istanbul	2023-12-11
+8631935	Akçakent İlçesi	Akcakent Ilcesi	Akcakent Ilcesi,Akçakent İlçesi	39.63184	34.08468	A	ADM2	TR		40	8631935			4466		1343	Europe/Istanbul	2014-09-17
+8631936	Çiçekdağı İlçesi	Cicekdagi Ilcesi	Cicekdagi Ilcesi,Çiçekdağı İlçesi	39.61643	34.41834	A	ADM2	TR		40	8631936			15500		861	Europe/Istanbul	2014-09-17
+8631937	Akpınar İlçesi	Akpinar Ilcesi	Akpinar Ilcesi,Akpınar İlçesi	39.45879	33.96975	A	ADM2	TR		40	8631937			8156		1153	Europe/Istanbul	2014-09-17
+8631938	Kaman İlçesi	Kaman Ilcesi	Kaman Ilcesi,Kaman İlçesi	39.36717	33.72784	A	ADM2	TR		40	8631938			39231		1094	Europe/Istanbul	2014-09-17
+8631939	Boztepe İlçesi	Boztepe Ilcesi	Boztepe Ilcesi,Boztepe İlçesi	39.27979	34.26657	A	ADM2	TR		40	8631939			5500		1154	Europe/Istanbul	2014-09-17
+8631940	Mucur İlçesi	Mucur Ilcesi	Mucur Ilcesi,Mucur İlçesi	39.07146	34.3867	A	ADM2	TR		40	8631940			18648		1086	Europe/Istanbul	2014-09-17
+8631941	Yahşihan İlçesi	Yahsihan Ilcesi	Yahsihan Ilcesi,Yahşihan İlçesi	39.85992	33.45615	A	ADM2	TR		79	8631941			19460		737	Europe/Istanbul	2014-09-17
+8631942	Bahşılı İlçesi	Bahsili Ilcesi	Bahsili Ilcesi,Bahşili İlçesi,Bahşılı İlçesi	39.80979	33.4408	A	ADM2	TR		79	8631942			7032		895	Europe/Istanbul	2015-11-09
+8631943	Balışeyh İlçesi	Baliseyh Ilcesi	Baliseyh Ilcesi,Balışeyh İlçesi	39.92129	33.73186	A	ADM2	TR		79	8631943			6633		908	Europe/Istanbul	2014-09-17
+8631944	Delice İlçesi	Delice Ilcesi	Delice Ilcesi,Delice İlçesi	39.96452	34.03088	A	ADM2	TR		79	8631944			10131		865	Europe/Istanbul	2014-09-17
+8631945	Sulakyurt İlçesi	Sulakyurt Ilcesi	Sulakyurt Ilcesi,Sulakyurt İlçesi	40.16751	33.72053	A	ADM2	TR		79	8631945			7773		839	Europe/Istanbul	2014-09-17
+8631946	Keskin İlçesi	Keskin Ilcesi	Keskin Ilcesi,Keskin İlçesi	39.68273	33.61841	A	ADM2	TR		79	8631946			20054		1131	Europe/Istanbul	2014-09-17
+8631949	Bucak İlçesi	Bucak Ilcesi	Bucak Ilcesi,Bucak İlçesi	37.47032	30.59956	A	ADM2	TR		15	8631949			64188		946	Europe/Istanbul	2014-09-17
+8631950	Çeltikçi İlçesi	Celtikci Ilcesi	Celtikci Ilcesi,Çeltikçi İlçesi	37.53885	30.46823	A	ADM2	TR		15	8631950			5574		949	Europe/Istanbul	2014-09-17
+8631951	Ağlasun İlçesi	Aglasun Ilcesi	Aglasun Ilcesi,Ağlasun İlçesi	37.65962	30.53833	A	ADM2	TR		15	8631951			8889		1205	Europe/Istanbul	2014-09-17
+8631952	Kemer İlçesi	Kemer Ilcesi	Kemer Ilcesi,Kemer İlçesi	37.36333	30.06748	A	ADM2	TR		15	8631952			3786		1152	Europe/Istanbul	2014-09-17
+8631953	Çavdır İlçesi	Cavdir Ilcesi	Cavdir Ilcesi,Çavdır İlçesi	37.16483	29.69937	A	ADM2	TR		15	8631953			13052		1123	Europe/Istanbul	2014-09-17
+8631954	Tefenni İlçesi	Tefenni Ilcesi	Tefenni Ilcesi,Tefenni İlçesi	37.32038	29.78034	A	ADM2	TR		15	8631954			10144		1154	Europe/Istanbul	2014-09-17
+8631955	Karamanlı İlçesi	Karamanli Ilcesi	Karamanli Ilcesi,Karamanlı İlçesi	37.38401	29.82777	A	ADM2	TR		15	8631955			8084		1184	Europe/Istanbul	2014-09-17
+8631956	Gölhisar İlçesi	Goelhisar Ilcesi	Golhisar Ilcesi,Gölhisar İlçesi	37.15628	29.51406	A	ADM2	TR		15	8631956			21981		1002	Europe/Istanbul	2014-09-17
+8631957	Altınyayla İlçesi	Altinyayla Ilcesi	Altinyayla Ilcesi,Altınyayla İlçesi	37.0072	29.5505	A	ADM2	TR		15	8631957			5853		1384	Europe/Istanbul	2014-09-17
+8631958	Yeşilova İlçesi	Yesilova Ilcesi	Yesilova Ilcesi,Yeşilova İlçesi	37.51831	29.75859	A	ADM2	TR		15	8631958			16973		1178	Europe/Istanbul	2014-09-17
+8631959	Dalaman	Dalaman	Dalaman,Dalaman Ilcesi,Dalaman İlçesi	36.81691	28.87815	A	ADM2	TR		48	8631959			35362		256	Europe/Istanbul	2015-05-07
+8631960	Ortaca İlçesi	Ortaca Ilcesi	Ortaca Ilcesi,Ortaca İlçesi	36.8389	28.7773	A	ADM2	TR		48	8631960			44227		63	Europe/Istanbul	2014-09-17
+8631961	Köyceğiz İlçesi	Koeycegiz Ilcesi	Koycegiz Ilcesi,Köyceğiz İlçesi	36.97798	28.72418	A	ADM2	TR		48	8631961			33777		63	Europe/Istanbul	2014-09-17
+8631962	Ula İlçesi	Ula Ilcesi	Ula Ilcesi,Ula İlçesi	37.11514	28.42732	A	ADM2	TR		48	8631962			23418		820	Europe/Istanbul	2014-09-17
+8631963	Datça İlçesi	Datca Ilcesi	Datca Ilcesi,Datça İlçesi	36.76885	27.66295	A	ADM2	TR		48	8631963			17983		87	Europe/Istanbul	2014-09-17
+8631964	Karakeçili İlçesi	Karakecili Ilcesi	Karakecili Ilcesi,Karakeçili İlçesi	39.60471	33.38263	A	ADM2	TR		79	8631964			4371		871	Europe/Istanbul	2014-09-17
+8631965	Çelebi İlçesi	Celebi Ilcesi	Celebi Ilcesi,Çelebi İlçesi	39.4747	33.52895	A	ADM2	TR		79	8631965			3233		1179	Europe/Istanbul	2014-09-17
+8631966	Eldivan İlçesi	Eldivan Ilcesi	Eldivan Ilcesi,Eldivan İlçesi	40.53921	33.50574	A	ADM2	TR		82	8631966			6607		917	Europe/Istanbul	2014-09-17
+8631967	Kızılırmak İlçesi	Kizilirmak Ilcesi	Kizilirmak Ilcesi,Kızılırmak İlçesi	40.35504	33.99317	A	ADM2	TR		82	8631967			7965		549	Europe/Istanbul	2014-09-17
+8631969	Çerkeş İlçesi	Cerkes Ilcesi	Cerkes Ilcesi,Çerkeş İlçesi	40.82165	32.90005	A	ADM2	TR		82	8631969			16255		1155	Europe/Istanbul	2014-09-17
+8631971	Atkaracalar İlçesi	Atkaracalar Ilcesi	Atkaracalar Ilcesi,Atkaracalar İlçesi	40.8256	33.08202	A	ADM2	TR		82	8631971			5790		1278	Europe/Istanbul	2014-09-17
+8631972	Orta İlçesi	Orta Ilcesi	Orta Ilcesi,Orta İlçesi	40.63413	33.11458	A	ADM2	TR		82	8631972			19588		1249	Europe/Istanbul	2014-09-17
+8631973	Korgun İlçesi	Korgun Ilcesi	Korgun Ilcesi,Korgun İlçesi	40.7456	33.52411	A	ADM2	TR		82	8631973			4134		947	Europe/Istanbul	2014-09-17
+8631974	Bayramören İlçesi	Bayramoeren Ilcesi	Bayramoren Ilcesi,Bayramören İlçesi	40.95121	33.20992	A	ADM2	TR		82	8631974			2816		764	Europe/Istanbul	2014-09-17
+8631975	Ilgaz İlçesi	Ilgaz Ilcesi	Ilgaz Ilcesi,Ilgaz İlçesi	40.93351	33.61542	A	ADM2	TR		82	8631975			14273		982	Europe/Istanbul	2014-09-17
+8631976	Kurşunlu İlçesi	Kursunlu Ilcesi	Kursunlu Ilcesi,Kurşunlu İlçesi	40.84739	33.2735	A	ADM2	TR		82	8631976			8878		1131	Europe/Istanbul	2014-09-17
+8631977	Yapraklı İlçesi	Yaprakli Ilcesi	Yaprakli Ilcesi,Yapraklı İlçesi	40.76858	33.78379	A	ADM2	TR		82	8631977			8639		1272	Europe/Istanbul	2014-09-17
+8631978	Taşköprü İlçesi	Taskoeprue Ilcesi	Taskopru Ilcesi,Taşköprü İlçesi	41.51834	34.20272	A	ADM2	TR		37	8631978			39400		559	Europe/Istanbul	2014-09-17
+8631979	Hanönü İlçesi	Hanoenue Ilcesi	Hanonu Ilcesi,Hanönü İlçesi	41.63731	34.4779	A	ADM2	TR		37	8631979			4112		518	Europe/Istanbul	2014-09-17
+8631980	Tosya İlçesi	Tosya Ilcesi	Tosya Ilcesi,Tosya İlçesi	41.02639	34.04442	A	ADM2	TR		37	8631980			40528		894	Europe/Istanbul	2014-09-17
+8631981	Araç İlçesi	Arac Ilcesi	Arac Ilcesi,Araç İlçesi	41.25152	33.33729	A	ADM2	TR		37	8631981			19214		726	Europe/Istanbul	2014-09-17
+8631983	İhsangazi İlçesi	Ihsangazi Ilcesi	Ihsangazi Ilcesi,İhsangazi İlçesi	41.20901	33.56968	A	ADM2	TR		37	8631983			5984		897	Europe/Istanbul	2014-09-17
+8631984	Pınarbaşı İlçesi	Pinarbasi Ilcesi	Pinarbasi Ilcesi,Pınarbaşı İlçesi	41.61508	33.11306	A	ADM2	TR		37	8631984			6231		694	Europe/Istanbul	2014-09-17
+8631986	Daday İlçesi	Daday Ilcesi	Daday Ilcesi,Daday İlçesi	41.48714	33.45798	A	ADM2	TR		37	8631986			9896		934	Europe/Istanbul	2014-09-17
+8631987	Azdavay İlçesi	Azdavay Ilcesi	Azdavay Ilcesi,Azdavay İlçesi	41.65322	33.3098	A	ADM2	TR		37	8631987			7462		1080	Europe/Istanbul	2014-09-17
+8631988	Şenpazar İlçesi	Senpazar Ilcesi	Senpazar Ilcesi,Şenpazar İlçesi	41.81651	33.21766	A	ADM2	TR		37	8631988			5081		565	Europe/Istanbul	2014-09-17
+8631989	Doğanyurt İlçesi	Doganyurt Ilcesi	Doganyurt Ilcesi,Doğanyurt İlçesi	42.00051	33.47343	A	ADM2	TR		37	8631989			6756		249	Europe/Istanbul	2014-09-17
+8631990	Devrekani İlçesi	Devrekani Ilcesi	Devrekani Ilcesi,Devrekani İlçesi	41.61355	33.84603	A	ADM2	TR		37	8631990			13042		1063	Europe/Istanbul	2014-09-17
+8631991	Seydiler İlçesi	Seydiler Ilcesi	Seydiler Ilcesi,Seydiler İlçesi	41.6192	33.73254	A	ADM2	TR		37	8631991			4109		1032	Europe/Istanbul	2014-09-17
+8631992	Ağlı İlçesi	Agli Ilcesi	Agli Ilcesi,Ağlı İlçesi	41.69283	33.54487	A	ADM2	TR		37	8631992			2971		1200	Europe/Istanbul	2014-09-17
+8631993	İnebolu İlçesi	Inebolu Ilcesi	Inebolu Ilcesi,İnebolu İlçesi	41.96616	33.76566	A	ADM2	TR		37	8631993			22841		249	Europe/Istanbul	2014-09-17
+8631994	Küre İlçesi	Kuere Ilcesi	Kure Ilcesi,Küre İlçesi	41.81643	33.71606	A	ADM2	TR		37	8631994			6792		902	Europe/Istanbul	2014-09-17
+8631995	Abana İlçesi	Abana Ilcesi	Abana Ilcesi,Abana İlçesi	41.97738	34.01428	A	ADM2	TR		37	8631995			3997		1	Europe/Istanbul	2025-05-04
+8631996	Bozkurt İlçesi	Bozkurt Ilcesi	Bozkurt Ilcesi,Bozkurt İlçesi	41.95868	34.00441	A	ADM2	TR		37	8631996			9337		72	Europe/Istanbul	2025-05-04
+8631997	Çatalzeytin İlçesi	Catalzeytin Ilcesi	Catalzeytin Ilcesi,Çatalzeytin İlçesi	41.93795	34.20285	A	ADM2	TR		37	8631997			7014		300	Europe/Istanbul	2015-06-09
+8631998	Dodurga İlçesi	Dodurga Ilcesi	Dodurga Ilcesi,Dodurga İlçesi	40.86324	34.81455	A	ADM2	TR		19	8631998			6658		617	Europe/Istanbul	2014-09-17
+8631999	Ortaköy İlçesi	Ortakoey Ilcesi	Ortakoy Ilcesi,Ortaköy İlçesi	40.28295	35.25879	A	ADM2	TR		19	8631999			8430		852	Europe/Istanbul	2014-09-17
+8632000	Mecitözü İlçesi	Mecitoezue Ilcesi	Mecitozu Ilcesi,Mecitözü İlçesi	40.52774	35.2877	A	ADM2	TR		19	8632000			16943		829	Europe/Istanbul	2014-09-17
+8632021	Laçin İlçesi	Lacin Ilcesi	Lacin Ilcesi,Laçin İlçesi	40.77792	34.90625	A	ADM2	TR		19	8632021			5334		656	Europe/Istanbul	2014-09-17
+8632022	Oğuzlar İlçesi	Oguzlar Ilcesi	Oguzlar Ilcesi,Oğuzlar İlçesi	40.76323	34.70813	A	ADM2	TR		19	8632022			6375		840	Europe/Istanbul	2014-09-17
+8632023	Kargı İlçesi	Kargi Ilcesi	Kargi Ilcesi,Kargı İlçesi	41.14377	34.49342	A	ADM2	TR		19	8632023			15971		540	Europe/Istanbul	2014-09-17
+8632024	Boğazkale İlçesi	Bogazkale Ilcesi	Bogazkale Ilcesi,Boğazkale İlçesi	40.03031	34.61745	A	ADM2	TR		19	8632024			4308		1051	Europe/Istanbul	2014-09-17
+8632025	Alaca İlçesi	Alaca Ilcesi	Alaca Ilcesi,Alaca İlçesi	40.17835	34.84968	A	ADM2	TR		19	8632025			34677		913	Europe/Istanbul	2014-09-17
+8632026	Uğurludağ İlçesi	Ugurludag Ilcesi	Ugurludag Ilcesi,Uğurludağ İlçesi	40.45567	34.45627	A	ADM2	TR		19	8632026			7756		941	Europe/Istanbul	2014-09-17
+8632027	Bayat İlçesi	Bayat Ilcesi	Bayat Ilcesi,Bayat İlçesi	40.6559	34.26433	A	ADM2	TR		19	8632027			20048		928	Europe/Istanbul	2014-09-17
+8632028	İskilip İlçesi	Iskilip Ilcesi	Iskilip Ilcesi,İskilip İlçesi	40.74363	34.47911	A	ADM2	TR		19	8632028			36496		856	Europe/Istanbul	2014-09-17
+8632029	Gerze İlçesi	Gerze Ilcesi	Gerze Ilcesi,Gerze İlçesi	41.80997	35.19035	A	ADM2	TR		57	8632029			21924		46	Europe/Istanbul	2014-09-17
+8632030	Dikmen İlçesi	Dikmen Ilcesi	Dikmen Ilcesi,Dikmen İlçesi	41.65994	35.27048	A	ADM2	TR		57	8632030			6138		346	Europe/Istanbul	2014-09-17
+8632031	Durağan İlçesi	Duragan Ilcesi	Duragan Ilcesi,Durağan İlçesi	41.42556	35.05791	A	ADM2	TR		57	8632031			20562		243	Europe/Istanbul	2014-09-17
+8632032	Saraydüzü İlçesi	Sarayduezue Ilcesi	Sarayduzu Ilcesi,Saraydüzü İlçesi	41.33732	34.85369	A	ADM2	TR		57	8632032			5617		390	Europe/Istanbul	2014-09-17
+8632033	Erfelek İlçesi	Erfelek Ilcesi	Erfelek Ilcesi,Erfelek İlçesi	41.88907	34.92652	A	ADM2	TR		57	8632033			11490		277	Europe/Istanbul	2014-09-17
+8632034	Boyabat İlçesi	Boyabat Ilcesi	Boyabat Ilcesi,Boyabat İlçesi	41.47914	34.77175	A	ADM2	TR		57	8632034			43838		372	Europe/Istanbul	2014-09-17
+8632035	Türkeli İlçesi	Tuerkeli Ilcesi	Turkeli Ilcesi,Türkeli İlçesi	41.94197	34.34821	A	ADM2	TR		57	8632035			14383		148	Europe/Istanbul	2014-09-17
+8632037	Evren İlçesi	Evren Ilcesi	Evren Ilcesi,Evren İlçesi	39.03001	33.79767	A	ADM2	TR		68	8632037			2995		890	Europe/Istanbul	2014-09-17
+8632039	Elmadağ İlçesi	Elmadag Ilcesi	Elmadag Ilcesi,Elmadağ İlçesi	39.93117	33.23812	A	ADM2	TR		68	8632039			44379		1120	Europe/Istanbul	2023-12-13
+8632041	Kalecik İlçesi	Kalecik Ilcesi	Kalecik District,Kalecik Ilcesi,Kalecik İlçesi	40.10634	33.41973	A	ADM2	TR		68	8632041			12794		700	Europe/Istanbul	2023-12-13
+8632043	Akyurt İlçesi	Akyurt Ilcesi	Akyurt Ilcesi,Akyurt İlçesi	40.1414	33.09743	A	ADM2	TR		68	8632043			28349		1073	Europe/Istanbul	2014-09-17
+8632045	Çubuk İlçesi	Cubuk Ilcesi	Cubuk District,Cubuk Ilcesi,Çubuk District,Çubuk İlçesi	40.23985	33.04706	A	ADM2	TR		68	8632045			83449		1022	Europe/Istanbul	2023-12-13
+8632046	Mamak İlçesi	Mamak Ilcesi	Mamak Ilcesi,Mamak İlçesi	39.94587	32.90811	A	ADM2	TR		68	8632046			568396		953	Europe/Istanbul	2014-09-17
+8632047	Bala İlçesi	Bala Ilcesi	Bala Ilcesi,Bala İlçesi	39.56374	33.12962	A	ADM2	TR		68	8632047			23138		1380	Europe/Istanbul	2014-09-17
+8632050	Şereflikoçhisar İlçesi	Sereflikochisar Ilcesi	Sereflikochisar Ilcesi,Şereflikoçhisar İlçesi	38.9545	33.54801	A	ADM2	TR		68	8632050			34577		1019	Europe/Istanbul	2014-09-17
+8632052	Nallıhan İlçesi	Nallihan Ilcesi	Nallihan Ilcesi,Nallıhan İlçesi	40.19436	31.36316	A	ADM2	TR		68	8632052			29797		709	Europe/Istanbul	2014-09-17
+8632056	Güdül İlçesi	Gueduel Ilcesi	Gudul Ilcesi,Güdül İlçesi	40.21954	32.24885	A	ADM2	TR		68	8632056			8921		740	Europe/Istanbul	2014-09-17
+8632057	Haymana İlçesi	Haymana Ilcesi	Haymana Ilcesi,Haymana İlçesi	39.44015	32.48852	A	ADM2	TR		68	8632057			42566		1122	Europe/Istanbul	2014-09-17
+8632058	Etimesgut İlçesi	Etimesgut Ilcesi	Etimesgut Ilcesi,Etimesgut İlçesi	39.96335	32.63744	A	ADM2	TR		68	8632058			469626		798	Europe/Istanbul	2014-09-17
+8632061	Ayaş İlçesi	Ayas Ilcesi	Ayas Ilcesi,Ayaş İlçesi	40.02484	32.34089	A	ADM2	TR		68	8632061			12997		1051	Europe/Istanbul	2014-09-17
+8632062	Çamlıdere İlçesi	Camlidere Ilcesi	Camlidere Ilcesi,Çamlıdere İlçesi	40.49994	32.47986	A	ADM2	TR		68	8632062			7181		1295	Europe/Istanbul	2014-09-17
+8632063	Kızılcahamam İlçesi	Kizilcahamam Ilcesi	Kizilcahamam Ilcesi,Kızılcahamam İlçesi	40.48011	32.65546	A	ADM2	TR		68	8632063			26694		950	Europe/Istanbul	2014-09-17
+8632065	Hadim İlçesi	Hadim Ilcesi	Hadim Ilcesi,Hadim İlçesi	36.99794	32.46117	A	ADM2	TR		71	8632065			13572		1553	Europe/Istanbul	2014-09-17
+8632066	Ereğli İlçesi	Eregli Ilcesi	Eregli Ilcesi,Ereğli İlçesi	37.52305	34.05553	A	ADM2	TR		71	8632066			137837		1047	Europe/Istanbul	2014-09-17
+8632068	Halkapınar İlçesi	Halkapinar Ilcesi	Halkapinar Ilcesi,Halkapınar İlçesi	37.44361	34.19336	A	ADM2	TR		71	8632068			4739		1234	Europe/Istanbul	2014-09-17
+8632069	Emirgazi İlçesi	Emirgazi Ilcesi	Emirgazi Ilcesi,Emirgazi İlçesi	37.91229	33.84666	A	ADM2	TR		71	8632069			9324		1110	Europe/Istanbul	2014-09-17
+8632070	Karapınar İlçesi	Karapinar Ilcesi	Karapinar Ilcesi,Karapınar İlçesi	37.72637	33.55759	A	ADM2	TR		71	8632070			48665		990	Europe/Istanbul	2014-09-17
+8632092	Kulu İlçesi	Kulu Ilcesi	Kulu Ilcesi,Kulu İlçesi	39.10536	33.08858	A	ADM2	TR		71	8632092			51314		993	Europe/Istanbul	2014-09-17
+8632094	Sarayönü İlçesi	Sarayoenue Ilcesi	Sarayonu Ilcesi,Sarayönü İlçesi	38.2703	32.41188	A	ADM2	TR		71	8632094			27059		1058	Europe/Istanbul	2014-09-17
+8632095	Altınekin İlçesi	Altinekin Ilcesi	Altinekin Ilcesi,Altınekin İlçesi	38.31787	32.87447	A	ADM2	TR		71	8632095			14528		970	Europe/Istanbul	2014-09-17
+8632096	Kadınhanı İlçesi	Kadinhani Ilcesi	Kadinhani Ilcesi,Kadınhanı İlçesi	38.24958	32.2173	A	ADM2	TR		71	8632096			33382		1140	Europe/Istanbul	2014-09-17
+8632098	Derbent İlçesi	Derbent Ilcesi	Derbent Ilcesi,Derbent İlçesi	38.02403	32.02463	A	ADM2	TR		71	8632098			4783		1502	Europe/Istanbul	2014-09-17
+8632099	Beyşehir İlçesi	Beysehir Ilcesi	Beysehir Ilcesi,Beyşehir İlçesi	37.68668	31.73051	A	ADM2	TR		71	8632099			70297		1128	Europe/Istanbul	2014-09-17
+8632100	Seydişehir İlçesi	Seydisehir Ilcesi	Seydisehir Ilcesi,Seydişehir İlçesi	37.4293	31.85046	A	ADM2	TR		71	8632100			63628		1119	Europe/Istanbul	2014-09-17
+8632102	Yalıhüyük İlçesi	Yalihueyuek Ilcesi	Yalihuyuk Ilcesi,Yalıhüyük İlçesi	37.3111	32.08924	A	ADM2	TR		71	8632102			1830		1094	Europe/Istanbul	2014-09-17
+8632103	Ahırlı İlçesi	Ahirli Ilcesi	Ahirli Ilcesi,Ahırlı İlçesi	37.24828	32.12419	A	ADM2	TR		71	8632103			4765		1196	Europe/Istanbul	2014-09-17
+8632104	Akören İlçesi	Akoeren Ilcesi	Akoren Ilcesi,Akören İlçesi	37.46265	32.37489	A	ADM2	TR		71	8632104			6740		1093	Europe/Istanbul	2014-09-17
+8632105	Bozkır İlçesi	Bozkir Ilcesi	Bozkir Ilcesi,Bozkır İlçesi	37.19978	32.25234	A	ADM2	TR		71	8632105			28152		1121	Europe/Istanbul	2014-09-17
+8632106	Taşkent İlçesi	Taskent Ilcesi	Taskent Ilcesi,Taşkent İlçesi	36.93392	32.49529	A	ADM2	TR		71	8632106			7094		1637	Europe/Istanbul	2014-09-17
+8632107	Ilgın İlçesi	Ilgin Ilcesi	Ilgin Ilcesi,Ilgın İlçesi	38.28942	31.91916	A	ADM2	TR		71	8632107			56452		1030	Europe/Istanbul	2014-09-17
+8632108	Derebucak İlçesi	Derebucak Ilcesi	Derebucak Ilcesi,Derebucak İlçesi	37.4018	31.51665	A	ADM2	TR		71	8632108			7576		1329	Europe/Istanbul	2014-09-17
+8632109	Tuzlukçu İlçesi	Tuzlukcu Ilcesi	Tuzlukcu Ilcesi,Tuzlukçu İlçesi	38.48788	31.63047	A	ADM2	TR		71	8632109			7111		992	Europe/Istanbul	2014-09-17
+8632110	Yunak İlçesi	Yunak Ilcesi	Yunak Ilcesi,Yunak İlçesi	38.82374	31.73748	A	ADM2	TR		71	8632110			24919		1124	Europe/Istanbul	2014-09-17
+8632111	Çeltik İlçesi	Celtik Ilcesi	Celtik Ilcesi,Çeltik İlçesi	39.03388	31.79408	A	ADM2	TR		71	8632111			10396		843	Europe/Istanbul	2014-09-17
+8632112	Doğanhisar İlçesi	Doganhisar Ilcesi	Doganhisar Ilcesi,Doğanhisar İlçesi	38.1565	31.68226	A	ADM2	TR		71	8632112			18193		1179	Europe/Istanbul	2014-09-17
+8632113	Güneysınır İlçesi	Gueneysinir Ilcesi	Guneysinir Ilcesi,Güneysınır İlçesi	37.27977	32.73735	A	ADM2	TR		71	8632113			9928		1084	Europe/Istanbul	2014-09-17
+8632115	Meram İlçesi	Meram Ilcesi	Meram Ilcesi,Meram İlçesi	37.83984	32.47111	A	ADM2	TR		71	8632115			333988		1031	Europe/Istanbul	2014-09-17
+8632116	Çumra İlçesi	Cumra Ilcesi	Cumra Ilcesi,Çumra İlçesi	37.58165	32.77971	A	ADM2	TR		71	8632116			64619		1013	Europe/Istanbul	2014-09-17
+8632117	Hüyük İlçesi	Hueyuek Ilcesi	Huyuk Ilcesi,Hüyük İlçesi	37.96331	31.6001	A	ADM2	TR		71	8632117			16769		1281	Europe/Istanbul	2014-09-17
+8632118	Akşehir İlçesi	Aksehir Ilcesi	Aksehir Ilcesi,Akşehir İlçesi	38.3673	31.41983	A	ADM2	TR		71	8632118			93883		1010	Europe/Istanbul	2014-09-17
+8632131	Sarıveliler İlçesi	Sariveliler Ilcesi	Sariveliler Ilcesi,Sarıveliler İlçesi	36.70177	32.62647	A	ADM2	TR		78	8632131			12876		1570	Europe/Istanbul	2014-09-17
+8632132	Başyayla İlçesi	Basyayla Ilcesi	Basyayla Ilcesi,Başyayla İlçesi	36.76219	32.68863	A	ADM2	TR		78	8632132			4102		1507	Europe/Istanbul	2014-09-17
+8632133	Kazımkarabekir İlçesi	Kazimkarabekir Ilcesi	Kazimkarabekir Ilcesi,Kazımkarabekir İlçesi	37.24035	32.96413	A	ADM2	TR		78	8632133			4278		1057	Europe/Istanbul	2014-09-17
+8632134	Ayrancı İlçesi	Ayranci Ilcesi	Ayranci Ilcesi,Ayrancı İlçesi	37.37111	33.69291	A	ADM2	TR		78	8632134			8934		1131	Europe/Istanbul	2014-09-17
+8632136	Ermenek İlçesi	Ermenek Ilcesi	Ermenek Ilcesi,Ermenek İlçesi	36.65058	32.89698	A	ADM2	TR		78	8632136			30064		1457	Europe/Istanbul	2014-09-17
+8632138	Bozyazı İlçesi	Bozyazi Ilcesi	Bozyazi Ilcesi,Bozyazı İlçesi	36.11329	32.97886	A	ADM2	TR		32	8632138			26595		11	Europe/Istanbul	2014-09-17
+8632141	Çamlıyayla İlçesi	Camliyayla Ilcesi	Camliyayla Ilcesi,Çamlıyayla İlçesi	37.18	34.60678	A	ADM2	TR		32	8632141			8781		1153	Europe/Istanbul	2014-09-17
+8632142	Mezitli İlçesi	Mezitli Ilcesi	Mezitli Ilcesi,Mezitli İlçesi	36.894	34.42987	A	ADM2	TR		32	8632142			158482		803	Europe/Istanbul	2015-11-09
+8632144	Gülnar İlçesi	Guelnar Ilcesi	Gulnar Ilcesi,Gülnar İlçesi	36.3529	33.40308	A	ADM2	TR		32	8632144			26451		1049	Europe/Istanbul	2014-09-17
+8632145	Aydıncık İlçesi	Aydincik Ilcesi	Aydincik Ilcesi,Aydıncık İlçesi	36.15358	33.30397	A	ADM2	TR		32	8632145			11473		324	Europe/Istanbul	2014-09-17
+8632146	Anamur İlçesi	Anamur Ilcesi	Anamur Ilcesi,Anamur İlçesi	36.08361	32.82615	A	ADM2	TR		32	8632146			63059		110	Europe/Istanbul	2014-09-17
+8632148	Silifke İlçesi	Silifke Ilcesi	Silifke Ilcesi,Silifke İlçesi	36.38869	33.94072	A	ADM2	TR		32	8632148			114675		15	Europe/Istanbul	2014-09-17
+8632149	Erdemli İlçesi	Erdemli Ilcesi	Erdemli Ilcesi,Erdemli İlçesi	36.61383	34.29601	A	ADM2	TR		32	8632149			130226		41	Europe/Istanbul	2014-09-17
+8632151	Gazipaşa İlçesi	Gazipasa Ilcesi	Gazipasa Ilcesi,Gazipaşa İlçesi	36.28012	32.3057	A	ADM2	TR		07	8632151			48134		26	Europe/Istanbul	2014-09-17
+8632153	Gündoğmuş İlçesi	Guendogmus Ilcesi	Gundogmus Ilcesi,Gündoğmuş İlçesi	36.82446	32.00679	A	ADM2	TR		07	8632153			8162		977	Europe/Istanbul	2014-09-17
+8632154	Akseki İlçesi	Akseki Ilcesi	Akseki Ilcesi,Akseki İlçesi	37.0582	31.80153	A	ADM2	TR		07	8632154			13083		1332	Europe/Istanbul	2014-09-17
+8632156	İbradı İlçesi	Ibradi Ilcesi	Ibradi Ilcesi,İbradı İlçesi	37.10757	31.60969	A	ADM2	TR		07	8632156			2865		1246	Europe/Istanbul	2014-09-17
+8632162	Demre İlçesi	Demre Ilcesi	Demre Ilcesi,Demre İlçesi	36.2551	29.99788	A	ADM2	TR		07	8632162			25718		13	Europe/Istanbul	2014-09-17
+8632164	Korkuteli İlçesi	Korkuteli Ilcesi	Korkuteli Ilcesi,Korkuteli İlçesi	37.07581	30.20293	A	ADM2	TR		07	8632164			51857		1002	Europe/Istanbul	2014-09-17
+8632165	Elmalı İlçesi	Elmali Ilcesi	Elmali Ilcesi,Elmalı İlçesi	36.74641	29.92324	A	ADM2	TR		07	8632165			38563		1181	Europe/Istanbul	2014-09-17
+8632166	Kaş İlçesi	Kas Ilcesi	Kas Ilcesi,Kaş İlçesi	36.21207	29.65605	A	ADM2	TR		07	8632166			55061		509	Europe/Istanbul	2014-09-17
+8632170	Yenişarbademli İlçesi	Yenisarbademli Ilcesi	Yenisarbademli Ilcesi,Yenişarbademli İlçesi	37.71936	31.37182	A	ADM2	TR		33	8632170			2463		1375	Europe/Istanbul	2014-09-17
+8632171	Şarkîkaraağaç İlçesi	Sarkikaraagac Ilcesi	Sarkikaraagac Ilcesi,Şarkîkaraağaç İlçesi	38.09023	31.37696	A	ADM2	TR		33	8632171			26597		1178	Europe/Istanbul	2014-09-17
+8632172	Sütçüler İlçesi	Suetcueler Ilcesi	Sutculer Ilcesi,Sütçüler İlçesi	37.5112	30.95661	A	ADM2	TR		33	8632172			11635		954	Europe/Istanbul	2014-09-17
+8632173	Aksu İlçesi	Aksu Ilcesi	Aksu Ilcesi,Aksu İlçesi	37.80973	31.08441	A	ADM2	TR		33	8632173			4957		1264	Europe/Istanbul	2014-09-17
+8632175	Keçiborlu İlçesi	Keciborlu Ilcesi	Keciborlu Ilcesi,Keçiborlu İlçesi	37.9528	30.29164	A	ADM2	TR		33	8632175			14556		1032	Europe/Istanbul	2014-09-17
+8632176	Uluborlu İlçesi	Uluborlu Ilcesi	Uluborlu Ilcesi,Uluborlu İlçesi	38.08856	30.45698	A	ADM2	TR		33	8632176			7282		1019	Europe/Istanbul	2014-09-17
+8632178	Senirkent İlçesi	Senirkent Ilcesi	Senirkent Ilcesi,Senirkent İlçesi	38.11409	30.5547	A	ADM2	TR		33	8632178			12932		956	Europe/Istanbul	2014-09-17
+8632179	Gönen İlçesi	Goenen Ilcesi	Gonen Ilcesi,Gönen İlçesi	37.96632	30.52367	A	ADM2	TR		33	8632179			8125		1090	Europe/Istanbul	2014-09-17
+8632180	Eğirdir İlçesi	Egirdir Ilcesi	Egirdir Ilcesi,Eğirdir İlçesi	37.88511	30.81863	A	ADM2	TR		33	8632180			33494		930	Europe/Istanbul	2014-09-17
+8632181	Atabey İlçesi	Atabey Ilcesi	Atabey Ilcesi,Atabey İlçesi	37.96125	30.64521	A	ADM2	TR		33	8632181			5603		1058	Europe/Istanbul	2014-09-17
+8632182	Gelendost İlçesi	Gelendost Ilcesi	Gelendost Ilcesi,Gelendost İlçesi	38.13199	31.0241	A	ADM2	TR		33	8632182			16428		969	Europe/Istanbul	2014-09-17
+8632184	Yalvaç İlçesi	Yalvac Ilcesi	Yalvac Ilcesi,Yalvaç İlçesi	38.30578	31.19042	A	ADM2	TR		33	8632184			50272		1177	Europe/Istanbul	2014-09-17
+8632190	Çivril İlçesi	Civril Ilcesi	Civril,Civril Ilcesi,Çivril,Çivril İlçesi	38.31191	29.7243	A	ADM2	TR		20	8632190			60615		830	Europe/Istanbul	2015-03-09
+8632192	Beyağaç İlçesi	Beyagac Ilcesi	Beyagac Ilcesi,Beyağaç İlçesi	37.24546	28.90041	A	ADM2	TR		20	8632192			7116		718	Europe/Istanbul	2014-09-17
+8632193	Acıpayam İlçesi	Acipayam Ilcesi	Acipayam Ilcesi,Acıpayam İlçesi	37.43536	29.36146	A	ADM2	TR		20	8632193			55971		880	Europe/Istanbul	2014-09-17
+8632194	Çameli İlçesi	Cameli Ilcesi	Cameli Ilcesi,Çameli İlçesi	37.0866	29.35225	A	ADM2	TR		20	8632194			19315		1388	Europe/Istanbul	2014-09-17
+8632195	Güney İlçesi	Gueney Ilcesi	Guney Ilcesi,Güney İlçesi	38.16454	29.07324	A	ADM2	TR		20	8632195			10796		849	Europe/Istanbul	2014-09-17
+8632197	Bekilli	Bekilli	Bekilli,Bekilli Ilcesi,Bekilli İlçesi,Distretto di Bekilli,bykyly,Бекилли,بیکیلی,ضلع بیکلی	38.24027	29.42559	A	ADM2	TR		20	8632197			7751		876	Europe/Istanbul	2015-03-09
+8632198	Çal İlçesi	Cal Ilcesi	Cal Ilcesi,Çal İlçesi	38.09371	29.40467	A	ADM2	TR		20	8632198			20587		790	Europe/Istanbul	2014-09-17
+8632200	Baklan İlçesi	Baklan Ilcesi	Baklan Ilcesi,Baklan İlçesi	37.9876	29.62032	A	ADM2	TR		20	8632200			5934		974	Europe/Istanbul	2014-09-17
+8632201	Bozkurt	Bozkurt	Bozkurt,Bozkurt Ilcesi,Bozkurt İlçesi	37.77583	29.60811	A	ADM2	TR		20	8632201			12279		862	Europe/Istanbul	2015-04-09
+8632205	Babadağ İlçesi	Babadag Ilcesi	Babadag Ilcesi,Babadağ İlçesi	37.81823	28.8682	A	ADM2	TR		20	8632205			6707		559	Europe/Istanbul	2014-09-17
+8632207	Kale İlçesi	Kale Ilcesi	Kale Ilcesi,Kale İlçesi	37.44537	28.85582	A	ADM2	TR		20	8632207			21293		1037	Europe/Istanbul	2014-09-17
+8632208	Tavas İlçesi	Tavas Ilcesi	Tavas Ilcesi,Tavas İlçesi	37.58387	29.0797	A	ADM2	TR		20	8632208			47044		1100	Europe/Istanbul	2014-09-17
+8632210	Serinhisar İlçesi	Serinhisar Ilcesi	Serinhisar Ilcesi,Serinhisar İlçesi	37.59127	29.27246	A	ADM2	TR		20	8632210			14817		924	Europe/Istanbul	2014-09-17
+8632211	Buldan İlçesi	Buldan Ilcesi	Buldan Ilcesi,Buldan İlçesi	38.05536	28.84007	A	ADM2	TR		20	8632211			27558		606	Europe/Istanbul	2014-09-17
+8632212	Pamukkale İlçesi	Pamukkale Ilcesi	Akkoey,Akkoy Ilcesi,Akköy,Akköy İlçesi,Pamukkale Ilcesi,Pamukkale İlçesi	37.96709	29.08635	A	ADM2	TR		20	8632212			2707		284	Europe/Istanbul	2015-11-09
+8632389	Milas İlçesi	Milas Ilcesi	Milas,Milas Ilcesi,Milas İlçesi	37.32699	27.7952	A	ADM2	TR		48	8632389			129128		42	Europe/Istanbul	2018-05-21
+8632390	Söke İlçesi	Soeke Ilcesi	Soke Ilcesi,Söke İlçesi	37.75864	27.41319	A	ADM2	TR		09	8632390			115541		45	Europe/Istanbul	2014-09-17
+8632391	Koçarlı İlçesi	Kocarli Ilcesi	Kocarli Ilcesi,Koçarlı İlçesi	37.77146	27.71144	A	ADM2	TR		09	8632391			24266		23	Europe/Istanbul	2014-09-17
+8632392	Karpuzlu İlçesi	Karpuzlu Ilcesi	Karpuzlu Ilcesi,Karpuzlu İlçesi	37.56879	27.84071	A	ADM2	TR		09	8632392			11777		83	Europe/Istanbul	2014-09-17
+8632393	Çine İlçesi	Cine Ilcesi	Cine Ilcesi,Çine İlçesi	37.62269	28.06786	A	ADM2	TR		09	8632393			51020		85	Europe/Istanbul	2014-09-17
+8632394	Yenipazar İlçesi	Yenipazar Ilcesi	Yenipazar Ilcesi,Yenipazar İlçesi	37.83325	28.18442	A	ADM2	TR		09	8632394			13174		45	Europe/Istanbul	2014-09-17
+8632395	Bozdoğan İlçesi	Bozdogan Ilcesi	Bozdogan,Bozdogan Ilcesi,Bozdoğan,Bozdoğan İlçesi	37.68064	28.33051	A	ADM2	TR		09	8632395			34930		230	Europe/Istanbul	2015-04-09
+8632396	Karacasu	Karacasu	Karacasu,Karacasu Ilcesi,Karacasu İlçesi,Karadzhasu,Kuaradzhasu,Караджасу,Къараджасу,قرہ جاسو	37.74731	28.59402	A	ADM2	TR		09	8632396			19807		524	Europe/Istanbul	2015-04-09
+8632397	Buharkent İlçesi	Buharkent Ilcesi	Buharkent Ilcesi,Buharkent İlçesi	37.97398	28.75152	A	ADM2	TR		09	8632397			12466		217	Europe/Istanbul	2014-09-17
+8632398	Sultanhisar İlçesi	Sultanhisar Ilcesi	Sultanhisar Ilcesi,Sultanhisar İlçesi	37.89966	28.17414	A	ADM2	TR		09	8632398			21114		140	Europe/Istanbul	2014-09-17
+8632399	Nazilli	Nazilli	Nazilli,Nazilli Ilcesi,Nazilli İlçesi	37.9357	28.30609	A	ADM2	TR		09	8632399			148531		241	Europe/Istanbul	2015-04-09
+8632400	Kuyucak İlçesi	Kuyucak Ilcesi	Kuyucak Ilcesi,Kuyucak İlçesi	37.92335	28.46426	A	ADM2	TR		09	8632400			27755		228	Europe/Istanbul	2014-09-17
+8632401	Kuşadası İlçesi	Kusadasi Ilcesi	Kusadasi Ilcesi,Kuşadası İlçesi	37.84987	27.26966	A	ADM2	TR		09	8632401			94995		75	Europe/Istanbul	2014-10-02
+8632402	Germencik İlçesi	Germencik Ilcesi	Germencik Ilcesi,Germencik İlçesi	37.88049	27.61054	A	ADM2	TR		09	8632402			43209		65	Europe/Istanbul	2014-09-17
+8632403	İncirliova İlçesi	Incirliova Ilcesi	Incirliova Ilcesi,İncirliova İlçesi	37.86237	27.72976	A	ADM2	TR		09	8632403			45343		53	Europe/Istanbul	2014-09-17
+8632404	Köşk İlçesi	Koesk Ilcesi	Kosk Ilcesi,Köşk İlçesi	37.8634	28.05649	A	ADM2	TR		09	8632404			27152		113	Europe/Istanbul	2014-09-17
+8632405	Didim	Didim	Didim,Didim Ilcesi,Didim İlçesi	37.39305	27.29357	A	ADM2	TR		09	8632405			64643		105	Europe/Istanbul	2015-04-09
+8632406	Demirci İlçesi	Demirci Ilcesi	Demirci Ilcesi,Demirci İlçesi	39.05699	28.66461	A	ADM2	TR		45	8632406			43628		968	Europe/Istanbul	2014-09-17
+8632407	Selendi İlçesi	Selendi Ilcesi	Selendi Ilcesi,Selendi İlçesi	38.75481	28.87401	A	ADM2	TR		45	8632407			22047		467	Europe/Istanbul	2014-09-17
+8632408	Köprübaşı İlçesi	Koepruebasi Ilcesi	Koprubasi Ilcesi,Köprübaşı İlçesi	38.75929	28.40928	A	ADM2	TR		45	8632408			14045		273	Europe/Istanbul	2014-09-17
+8632409	Soma İlçesi	Soma Ilcesi	Soma Ilcesi,Soma İlçesi	39.19629	27.61751	A	ADM2	TR		45	8632409			105391		124	Europe/Istanbul	2014-09-17
+8632410	Kırkağaç İlçesi	Kirkagac Ilcesi	Kirkagac Ilcesi,Kırkağaç İlçesi	39.1161	27.67479	A	ADM2	TR		45	8632410			46160		200	Europe/Istanbul	2014-09-17
+8632411	Gördes İlçesi	Goerdes Ilcesi	Gordes Ilcesi,Gördes İlçesi	38.94181	28.29427	A	ADM2	TR		45	8632411			30341		638	Europe/Istanbul	2014-09-17
+8632412	Akhisar İlçesi	Akhisar Ilcesi	Akhisar Ilcesi,Akhisar İlçesi	38.92552	27.84804	A	ADM2	TR		45	8632412			161918		108	Europe/Istanbul	2014-09-17
+8632413	Gölmarmara İlçesi	Goelmarmara Ilcesi	Golmarmara Ilcesi,Gölmarmara İlçesi	38.72377	27.92145	A	ADM2	TR		45	8632413			15449		103	Europe/Istanbul	2014-09-17
+8632414	Ahmetli İlçesi	Ahmetli Ilcesi	Ahmetli Ilcesi,Ahmetli İlçesi	38.52888	27.9448	A	ADM2	TR		45	8632414			16266		72	Europe/Istanbul	2014-09-17
+8632415	Salihli İlçesi	Salihli Ilcesi	Salihli Ilcesi,Salihli İlçesi	38.49254	28.15264	A	ADM2	TR		45	8632415			156330		96	Europe/Istanbul	2014-09-17
+8632416	Alaşehir İlçesi	Alasehir Ilcesi	Alasehir Ilcesi,Alaşehir İlçesi	38.36061	28.52385	A	ADM2	TR		45	8632416			99504		168	Europe/Istanbul	2014-09-17
+8632417	Sarıgöl İlçesi	Sarigoel Ilcesi	Sarigol Ilcesi,Sarıgöl İlçesi	38.24859	28.70233	A	ADM2	TR		45	8632417			36209		203	Europe/Istanbul	2014-09-17
+8632418	Turgutlu İlçesi	Turgutlu Ilcesi	Turgutlu Ilcesi,Turgutlu İlçesi	38.51515	27.73515	A	ADM2	TR		45	8632418			148130		51	Europe/Istanbul	2015-02-07
+8632419	Kınık İlçesi	Kinik Ilcesi	Kinik District,Kinik Ilcesi,Kınık District,Kınık İlçesi	39.09692	27.38829	A	ADM2	TR		35	8632419			280		54	Europe/Istanbul	2023-12-11
+8632420	Bayındır İlçesi	Bayindir Ilcesi	Bayindir District,Bayindir Ilcesi,Bayındır District,Bayındır İlçesi	38.227	27.65522	A	ADM2	TR		35	8632420			40690		155	Europe/Istanbul	2023-12-11
+8632421	Ödemiş İlçesi	OEdemis Ilcesi	Odemis Ilcesi,Ödemiş İlçesi	38.23819	27.9801	A	ADM2	TR		35	8632421			129295		145	Europe/Istanbul	2014-09-17
+8632422	Kiraz İlçesi	Kiraz Ilcesi	Kiraz District,Kiraz Ilcesi,Kiraz İlçesi	38.24086	28.2138	A	ADM2	TR		35	8632422			44017		324	Europe/Istanbul	2023-12-11
+8632423	Urla İlçesi	Urla Ilcesi	Urla Ilcesi,Urla İlçesi	38.33256	26.76883	A	ADM2	TR		35	8632423			56751		64	Europe/Istanbul	2014-09-17
+8632424	Karşıyaka İlçesi	Karsiyaka Ilcesi	Karsiyaka Ilcesi,Karşıyaka İlçesi	38.46775	27.11502	A	ADM2	TR		35	8632424			321870		16	Europe/Istanbul	2014-09-17
+8632426	Selçuk İlçesi	Selcuk Ilcesi	Selcuk District,Selcuk Ilcesi,Selçuk District,Selçuk İlçesi	37.95765	27.38072	A	ADM2	TR		35	8632426			34979		21	Europe/Istanbul	2023-12-11
+8632427	Çeşme İlçesi	Cesme Ilcesi	Cesme Ilcesi,Çeşme İlçesi	38.31658	26.32101	A	ADM2	TR		35	8632427			35965		67	Europe/Istanbul	2014-09-17
+8632428	Karaburun İlçesi	Karaburun Ilcesi	Karaburun Ilcesi,Karaburun İlçesi	38.63546	26.49645	A	ADM2	TR		35	8632428			9092		306	Europe/Istanbul	2014-09-17
+8632429	Foça İlçesi	Foca Ilcesi	Foca,Foca Ilcesi,Foça,Foça İlçesi	38.67849	26.77214	A	ADM2	TR		35	8632429			32534		246	Europe/Istanbul	2014-09-17
+8632430	Dikili İlçesi	Dikili Ilcesi	Dikili District,Dikili Ilcesi,Dikili İlçesi	39.0784	26.90689	A	ADM2	TR		35	8632430			36124		15	Europe/Istanbul	2023-12-12
+8632431	Kepsut İlçesi	Kepsut Ilcesi	Kepsut Ilcesi,Kepsut İlçesi	39.69819	28.16237	A	ADM2	TR		10	8632431			25146		81	Europe/Istanbul	2014-08-13
+8632432	Sındırgı İlçesi	Sindirgi Ilcesi	Sindirgi Ilcesi,Sındırgı İlçesi	39.25061	28.18647	A	ADM2	TR		10	8632432			36847		269	Europe/Istanbul	2014-08-13
+8632433	Bigadiç İlçesi	Bigadic Ilcesi	Bigadic Ilcesi,Bigadiç İlçesi	39.40249	28.13837	A	ADM2	TR		10	8632433			48728		181	Europe/Istanbul	2014-09-17
+8632434	Savaştepe İlçesi	Savastepe Ilcesi	Savastepe Ilcesi,Savaştepe İlçesi	39.3926	27.66367	A	ADM2	TR		10	8632434			19466		318	Europe/Istanbul	2014-08-13
+8632435	Ayvalık İlçesi	Ayvalik Ilcesi	Ayvalik Ilcesi,Ayvalık İlçesi	39.32308	26.71156	A	ADM2	TR		10	8632435			64462		63	Europe/Istanbul	2014-09-17
+8632436	Gömeç İlçesi	Gomec Ilcesi	Gomec Ilcesi,Gömeç İlçesi	39.39981	26.8511	A	ADM2	TR		10	8632436			0		23	Europe/Istanbul	2014-08-13
+8632437	İvrindi İlçesi	Ivrindi Ilcesi	Ivrindi Ilcesi,İvrindi İlçesi	39.59319	27.4959	A	ADM2	TR		10	8632437			35209		227	Europe/Istanbul	2014-08-13
+8632438	Manyas İlçesi	Manyas Ilcesi	Manyas Ilcesi,Manyas İlçesi	40.05561	27.97829	A	ADM2	TR		10	8632438			21459		27	Europe/Istanbul	2014-08-13
+8632439	Susurluk İlçesi	Susurluk Ilcesi	Susurluk Ilcesi,Susurluk İlçesi	39.92336	28.14376	A	ADM2	TR		10	8632439			40323		45	Europe/Istanbul	2014-08-13
+8632440	Balya İlçesi	Balya Ilcesi	Balya Ilcesi,Balya İlçesi	39.7591	27.58631	A	ADM2	TR		10	8632440			14153		165	Europe/Istanbul	2014-09-17
+8632441	Erdek İlçesi	Erdek Ilcesi	Erdek Ilcesi,Erdek İlçesi	40.40924	27.8028	A	ADM2	TR		10	8632441			32958		96	Europe/Istanbul	2014-08-13
+8632442	Gönen İlçesi	Goenen Ilcesi	Gonen Ilcesi,Gönen İlçesi	40.11452	27.67026	A	ADM2	TR		10	8632442			73325		38	Europe/Istanbul	2014-08-13
+8632443	Burhaniye İlçesi	Burhaniye Ilcesi	Burhaniye Ilcesi,Burhaniye İlçesi	39.51095	26.97863	A	ADM2	TR		10	8632443			52674		13	Europe/Istanbul	2014-09-17
+8632444	Edremit İlçesi	Edremit Ilcesi	Edremit Ilcesi,Edremit İlçesi	39.60523	27.03208	A	ADM2	TR		10	8632444			129104		66	Europe/Istanbul	2014-09-17
+8632445	Havran İlçesi	Havran Ilcesi	Havran Ilcesi,Havran İlçesi	39.56771	27.10742	A	ADM2	TR		10	8632445			0		45	Europe/Istanbul	2014-08-13
+8632446	Gediz İlçesi	Gediz Ilcesi	Gediz Ilcesi,Gediz İlçesi	39.05272	29.41755	A	ADM2	TR		43	8632446			50921		869	Europe/Istanbul	2014-09-17
+8632447	Çavdarhisar İlçesi	Cavdarhisar Ilcesi	Cavdarhisar Ilcesi,Çavdarhisar İlçesi	39.20333	29.63094	A	ADM2	TR		43	8632447			7726		1000	Europe/Istanbul	2014-09-17
+8632448	Aslanapa İlçesi	Aslanapa Ilcesi	Aslanapa Ilcesi,Aslanapa İlçesi	39.22588	29.88222	A	ADM2	TR		43	8632448			10531		1048	Europe/Istanbul	2014-09-17
+8632449	Dumlupınar İlçesi	Dumlupinar Ilcesi	Dumlupinar Ilcesi,Dumlupınar İlçesi	38.87639	30.00639	A	ADM2	TR		43	8632449			3039		1337	Europe/Istanbul	2014-09-17
+8632450	Altıntaş İlçesi	Altintas Ilcesi	Altintas Ilcesi,Altıntaş İlçesi	39.06932	30.12048	A	ADM2	TR		43	8632450			17815		1020	Europe/Istanbul	2014-09-17
+8632451	Domaniç İlçesi	Domanic Ilcesi	Domanic Ilcesi,Domaniç İlçesi	39.80935	29.62205	A	ADM2	TR		43	8632451			15901		897	Europe/Istanbul	2014-09-17
+8632452	Tavşanlı İlçesi	Tavsanli Ilcesi	Tavsanli Ilcesi,Tavşanlı İlçesi	39.54897	29.51649	A	ADM2	TR		43	8632452			101471		895	Europe/Istanbul	2014-09-17
+8632453	Pazarlar İlçesi	Pazarlar Ilcesi	Pazarlar Ilcesi,Pazarlar İlçesi	39.00509	29.13593	A	ADM2	TR		43	8632453			5563		946	Europe/Istanbul	2014-09-17
+8632454	Şaphane İlçesi	Saphane Ilcesi	Saphane Ilcesi,Şaphane İlçesi	39.03599	29.22743	A	ADM2	TR		43	8632454			7374		1061	Europe/Istanbul	2014-09-17
+8632455	Simav İlçesi	Simav Ilcesi	Simav Ilcesi,Simav İlçesi	39.09822	28.96464	A	ADM2	TR		43	8632455			65993		800	Europe/Istanbul	2014-09-17
+8632456	Hisarcık İlçesi	Hisarcik Ilcesi	Hisarcik Ilcesi,Hisarcık İlçesi	39.25987	29.24134	A	ADM2	TR		43	8632456			13974		750	Europe/Istanbul	2014-09-17
+8632457	Emet İlçesi	Emet Ilcesi	Emet Ilcesi,Emet İlçesi	39.35219	29.27431	A	ADM2	TR		43	8632457			22193		901	Europe/Istanbul	2014-09-17
+8632458	Karahallı İlçesi	Karahalli Ilcesi	Karahalli Ilcesi,Karahallı İlçesi	38.3309	29.53923	A	ADM2	TR		64	8632458			11283		897	Europe/Istanbul	2014-09-17
+8632459	Ulubey	Ulubey	Ulubey,Ulubey Ilcesi,Ulubey İlçesi	38.4296	29.2964	A	ADM2	TR		64	8632459			14021		737	Europe/Istanbul	2015-03-09
+8632460	Sivaslı İlçesi	Sivasli Ilcesi	Sivasli Ilcesi,Sivaslı İlçesi	38.50848	29.69016	A	ADM2	TR		64	8632460			21428		955	Europe/Istanbul	2014-09-17
+8632461	Banaz İlçesi	Banaz Ilcesi	Banaz Ilcesi,Banaz İlçesi	38.74669	29.75798	A	ADM2	TR		64	8632461			37009		916	Europe/Istanbul	2014-09-17
+8632462	Eşme İlçesi	Esme Ilcesi	Esme Ilcesi,Eşme İlçesi	38.4093	28.97578	A	ADM2	TR		64	8632462			36184		811	Europe/Istanbul	2014-09-17
+8632463	Evciler İlçesi	Evciler Ilcesi	Evciler Ilcesi,Evciler İlçesi	38.05207	29.89366	A	ADM2	TR		03	8632463			7842		912	Europe/Istanbul	2014-09-17
+8632464	Başmakçı İlçesi	Basmakci Ilcesi	Basmakci Ilcesi,Başmakçı İlçesi	37.90713	30.01617	A	ADM2	TR		03	8632464			10541		859	Europe/Istanbul	2014-09-17
+8632465	Dinar İlçesi	Dinar Ilcesi	Dinar Ilcesi,Dinar İlçesi	38.07475	30.17113	A	ADM2	TR		03	8632465			48687		902	Europe/Istanbul	2014-09-17
+8632466	Hocalar İlçesi	Hocalar Ilcesi	Hocalar Ilcesi,Hocalar İlçesi	38.58783	29.97162	A	ADM2	TR		03	8632466			10520		1114	Europe/Istanbul	2014-09-17
+8632467	Kızılören İlçesi	Kiziloeren Ilcesi	Kiziloren Ilcesi,Kızılören İlçesi	38.26794	30.1575	A	ADM2	TR		03	8632467			2643		1081	Europe/Istanbul	2014-09-17
+8632468	Sandıklı İlçesi	Sandikli Ilcesi	Sandikli Ilcesi,Sandıklı İlçesi	38.47344	30.27781	A	ADM2	TR		03	8632468			57211		1113	Europe/Istanbul	2014-09-17
+8632469	Şuhut İlçesi	Suhut Ilcesi	Suhut Ilcesi,Şuhut İlçesi	38.54081	30.55474	A	ADM2	TR		03	8632469			38061		1135	Europe/Istanbul	2014-09-17
+8632470	Çobanlar İlçesi	Cobanlar Ilcesi	Cobanlar Ilcesi,Çobanlar İlçesi	38.71085	30.78874	A	ADM2	TR		03	8632470			14105		991	Europe/Istanbul	2014-09-17
+8632471	Sinanpaşa İlçesi	Sinanpasa Ilcesi	Sinanpasa,Sinanpasa Ilcesi,Sinanpaşa,Sinanpaşa İlçesi	38.75385	30.24662	A	ADM2	TR		03	8632471			41914		1117	Europe/Istanbul	2015-04-11
+8632472	İhsaniye İlçesi	Ihsaniye Ilcesi	Ihsaniye Ilcesi,İhsaniye İlçesi	39.03876	30.42211	A	ADM2	TR		03	8632472			28767		1133	Europe/Istanbul	2014-09-17
+8632473	Bolvadin İlçesi	Bolvadin Ilcesi	Bolvadin Ilcesi,Bolvadin İlçesi	38.72062	31.05433	A	ADM2	TR		03	8632473			45710		999	Europe/Istanbul	2014-09-17
+8632474	Çay İlçesi	Cay Ilcesi	Cay Ilcesi,Çay İlçesi	38.60078	31.03547	A	ADM2	TR		03	8632474			33354		1010	Europe/Istanbul	2014-09-17
+8632475	Sultandağı İlçesi	Sultandagi Ilcesi	Sultandagi Ilcesi,Sultandağı İlçesi	38.5406	31.23508	A	ADM2	TR		03	8632475			16480		997	Europe/Istanbul	2014-09-17
+8632476	Bayat İlçesi	Bayat Ilcesi	Bayat Ilcesi,Bayat İlçesi	38.99183	30.93098	A	ADM2	TR		03	8632476			8280		1101	Europe/Istanbul	2014-09-17
+8632477	Emirdağ İlçesi	Emirdag Ilcesi	Emirdag Ilcesi,Emirdağ İlçesi	39.0281	31.15461	A	ADM2	TR		03	8632477			39391		978	Europe/Istanbul	2014-08-08
+8632478	Dazkırı İlçesi	Dazkiri Ilcesi	Dazkiri Ilcesi,Dazkırı İlçesi	37.92682	29.86699	A	ADM2	TR		03	8632478			11193		882	Europe/Istanbul	2014-09-17
+8632480	Günyüzü İlçesi	Guenyuezue Ilcesi	Gunyuzu Ilcesi,Günyüzü İlçesi	39.3941	31.814	A	ADM2	TR		26	8632480			6372		861	Europe/Istanbul	2014-09-17
+8632481	Sivrihisar İlçesi	Sivrihisar Ilcesi	Sivrihisar Ilcesi,Sivrihisar İlçesi	39.45941	31.52476	A	ADM2	TR		26	8632481			22258		1230	Europe/Istanbul	2014-09-17
+8632482	Mihalıçcık İlçesi	Mihaliccik Ilcesi	Mihaliccik Ilcesi,Mihalıçcık İlçesi	39.87564	31.50091	A	ADM2	TR		26	8632482			9639		1377	Europe/Istanbul	2014-09-17
+8632483	Beylikova İlçesi	Beylikova Ilcesi	Beylikova Ilcesi,Beylikova İlçesi	39.69736	31.21207	A	ADM2	TR		26	8632483			6387		752	Europe/Istanbul	2014-09-17
+8632484	Alpu İlçesi	Alpu Ilcesi	Alpu Ilcesi,Alpu İlçesi	39.77889	30.97022	A	ADM2	TR		26	8632484			12070		761	Europe/Istanbul	2014-09-17
+8632485	Sarıcakaya İlçesi	Saricakaya Ilcesi	Saricakaya Ilcesi,Sarıcakaya İlçesi	40.04671	30.61994	A	ADM2	TR		26	8632485			5112		304	Europe/Istanbul	2014-09-17
+8632486	Mihalgazi İlçesi	Mihalgazi Ilcesi	Mihalgazi Ilcesi,Mihalgazi İlçesi	40.03715	30.58375	A	ADM2	TR		26	8632486			3483		332	Europe/Istanbul	2014-09-17
+8632487	İnönü İlçesi	Inoenue Ilcesi	Inoenue Ilcesi,İnönü İlçesi	39.82531	30.16043	A	ADM2	TR		26	8632487			7260		826	Europe/Istanbul	2021-01-04
+8632488	Han İlçesi	Han Ilcesi	Han Ilcesi,Han İlçesi	39.16895	30.86661	A	ADM2	TR		26	8632488			2276		1215	Europe/Istanbul	2014-09-17
+8632489	Seyitgazi İlçesi	Seyitgazi Ilcesi	Seyitgazi Ilcesi,Seyitgazi İlçesi	39.45397	30.70082	A	ADM2	TR		26	8632489			15023		987	Europe/Istanbul	2014-09-17
+8632490	Mahmudiye İlçesi	Mahmudiye Ilcesi	Mahmudiye Ilcesi,Mahmudiye İlçesi	39.50724	30.99247	A	ADM2	TR		26	8632490			8466		880	Europe/Istanbul	2014-09-17
+8632491	Çifteler İlçesi	Cifteler Ilcesi	Cifteler Ilcesi,Çifteler İlçesi	39.3927	31.04354	A	ADM2	TR		26	8632491			15651		871	Europe/Istanbul	2014-09-17
+8632492	Mengen İlçesi	Mengen Ilcesi	Mengen Ilcesi,Mengen İlçesi	40.94849	32.06535	A	ADM2	TR		14	8632492			14619		734	Europe/Istanbul	2014-09-17
+8632493	Yeniçağa İlçesi	Yenicaga Ilcesi	Yenicaga Ilcesi,Yeniçağa İlçesi	40.77767	32.0492	A	ADM2	TR		14	8632493			7687		999	Europe/Istanbul	2014-09-17
+8632495	Dörtdivan İlçesi	Doertdivan Ilcesi	Dortdivan Ilcesi,Dörtdivan İlçesi	40.7304	32.07079	A	ADM2	TR		14	8632495			6688		1160	Europe/Istanbul	2014-09-17
+8632496	Göynük İlçesi	Goeynuek Ilcesi	Goynuk Ilcesi,Göynük İlçesi	40.41056	30.79181	A	ADM2	TR		14	8632496			15590		786	Europe/Istanbul	2014-09-17
+8632497	Kıbrıscık İlçesi	Kibriscik Ilcesi	Kibriscik Ilcesi,Kıbrıscık İlçesi	40.41777	31.85584	A	ADM2	TR		14	8632497			3530		1163	Europe/Istanbul	2014-09-17
+8632498	Seben İlçesi	Seben Ilcesi	Seben Ilcesi,Seben İlçesi	40.42162	31.58299	A	ADM2	TR		14	8632498			5720		825	Europe/Istanbul	2014-09-17
+8632499	Mudurnu İlçesi	Mudurnu Ilcesi	Mudurnu Ilcesi,Mudurnu İlçesi	40.48344	31.21412	A	ADM2	TR		14	8632499			20410		861	Europe/Istanbul	2014-09-17
+8632500	Eflani İlçesi	Eflani Ilcesi	Eflani District,Eflani Ilcesi,Eflani İlçesi	41.43169	32.94765	A	ADM2	TR		89	8632500			9333		970	Europe/Istanbul	2023-12-12
+8632501	Ovacık İlçesi	Ovacik Ilcesi	Ovacik District,Ovacik Ilcesi,Ovacık District,Ovacık İlçesi	41.08029	32.93224	A	ADM2	TR		89	8632501			3446		1110	Europe/Istanbul	2023-12-12
+8632502	Safranbolu İlçesi	Safranbolu Ilcesi	Safranbolu District,Safranbolu Ilcesi,Safranbolu İlçesi	41.26029	32.69928	A	ADM2	TR		89	8632502			58373		550	Europe/Istanbul	2023-12-12
+8632503	Yenice İlçesi	Yenice Ilcesi	Yenice District,Yenice Ilcesi,Yenice İlçesi	41.21014	32.33661	A	ADM2	TR		89	8632503			21671		408	Europe/Istanbul	2023-12-12
+8632504	Eskipazar İlçesi	Eskipazar Ilcesi	Eskipazar District,Eskipazar Ilcesi,Eskipazar İlçesi	40.95207	32.54604	A	ADM2	TR		89	8632504			12717		796	Europe/Istanbul	2023-12-12
+8632505	Amasra İlçesi	Amasra Ilcesi	Amasra Ilcesi,Amasra İlçesi	41.73791	32.39455	A	ADM2	TR		87	8632505			15341		125	Europe/Istanbul	2014-09-17
+8632506	Ulus İlçesi	Ulus Ilcesi	Ulus Ilcesi,Ulus İlçesi	41.59373	32.65066	A	ADM2	TR		87	8632506			22466		234	Europe/Istanbul	2014-09-17
+8632507	Kurucaşile İlçesi	Kurucasile Ilcesi	Kurucasile Ilcesi,Kurucaşile İlçesi	41.8288	32.71937	A	ADM2	TR		87	8632507			7059		209	Europe/Istanbul	2014-09-17
+8632508	Çaycuma İlçesi	Caycuma Ilcesi	Caycuma Ilcesi,Çaycuma İlçesi	41.43664	32.08457	A	ADM2	TR		85	8632508			92690		22	Europe/Istanbul	2023-12-11
+8632509	Gökçebey İlçesi	Goekcebey Ilcesi	Goekcebey District,Gokcebey Ilcesi,Gökçebey District,Gökçebey İlçesi	41.31339	32.14981	A	ADM2	TR		85	8632509			22296		109	Europe/Istanbul	2023-12-11
+8632510	Devrek İlçesi	Devrek Ilcesi	Devrek District,Devrek Ilcesi,Devrek İlçesi	41.22818	31.96519	A	ADM2	TR		85	8632510			56571		83	Europe/Istanbul	2023-12-11
+8632511	Alaplı İlçesi	Alapli Ilcesi	Alapli District,Alapli Ilcesi,Alaplı District,Alaplı İlçesi	41.17793	31.38662	A	ADM2	TR		85	8632511			44668		4	Europe/Istanbul	2023-12-11
+8632513	Yığılca İlçesi	Yigilca Ilcesi	Yigilca District,Yigilca Ilcesi,Yığılca District,Yığılca İlçesi	40.96497	31.45672	A	ADM2	TR		93	8632513			13915		333	Europe/Istanbul	2025-04-18
+8632514	Kaynaşlı İlçesi	Kaynasli Ilcesi	Kaynasli District,Kaynasli Ilcesi,Kaynaşlı District,Kaynaşlı İlçesi	40.77908	31.31135	A	ADM2	TR		93	8632514			20449		284	Europe/Istanbul	2025-04-18
+8632515	Çilimli İlçesi	Cilimli Ilcesi	Cilimli District,Cilimli Ilcesi,Çilimli District,Çilimli İlçesi	40.90267	31.05913	A	ADM2	TR		93	8632515			19648		254	Europe/Istanbul	2025-04-18
+8632516	Gölyaka İlçesi	Goelyaka Ilcesi	Goelyaka District,Golyaka Ilcesi,Gölyaka District,Gölyaka İlçesi	40.78644	31.00276	A	ADM2	TR		93	8632516			20552		124	Europe/Istanbul	2025-04-18
+8632517	Akçakoca İlçesi	Akcakoca Ilcesi	Akcakoca District,Akcakoca Ilcesi,Akçakoca District,Akçakoca İlçesi	41.08053	31.12966	A	ADM2	TR		93	8632517			40025		43	Europe/Istanbul	2025-04-18
+8632518	Cumayeri İlçesi	Cumayeri Ilcesi	Cumayeri District,Cumayeri Ilcesi,Cumayeri İlçesi	40.88176	30.94094	A	ADM2	TR		93	8632518			15214		197	Europe/Istanbul	2025-04-18
+8632519	Gümüşova İlçesi	Guemuesova Ilcesi	Gumusova Ilcesi,Gümüşova İlçesi	40.8564	30.94935	A	ADM2	TR		93	8632519			16844		156	Europe/Istanbul	2025-04-18
+8632520	Akyazı İlçesi	Akyazi Ilcesi	Akyazi Ilcesi,Akyazı İlçesi	40.696	30.62803	A	ADM2	TR		54	8632520			84281		43	Europe/Istanbul	2014-09-17
+8632521	Taraklı İlçesi	Tarakli Ilcesi	Tarakli Ilcesi,Taraklı İlçesi	40.40685	30.50001	A	ADM2	TR		54	8632521			7135		546	Europe/Istanbul	2014-09-17
+8632522	Karapürçek İlçesi	Karapuercek Ilcesi	Karapurcek Ilcesi,Karapürçek İlçesi	40.65188	30.54509	A	ADM2	TR		54	8632522			12422		125	Europe/Istanbul	2014-09-17
+8632523	Geyve İlçesi	Geyve Ilcesi	Geyve Ilcesi,Geyve İlçesi	40.51701	30.29645	A	ADM2	TR		54	8632523			48171		85	Europe/Istanbul	2014-09-17
+8632524	Pamukova İlçesi	Pamukova Ilcesi	Pamukova Ilcesi,Pamukova İlçesi	40.51806	30.17288	A	ADM2	TR		54	8632524			27841		276	Europe/Istanbul	2014-09-17
+8632525	Sapanca İlçesi	Sapanca Ilcesi	Sapanca Ilcesi,Sapanca İlçesi	40.70222	30.27443	A	ADM2	TR		54	8632525			39061		30	Europe/Istanbul	2014-09-17
+8632526	Hendek İlçesi	Hendek Ilcesi	Hendek Ilcesi,Hendek İlçesi	40.80938	30.73915	A	ADM2	TR		54	8632526			76134		198	Europe/Istanbul	2014-09-17
+8632527	Karasu İlçesi	Karasu Ilcesi	Karasu Ilcesi,Karasu İlçesi	41.09983	30.68241	A	ADM2	TR		54	8632527			55342		2	Europe/Istanbul	2014-09-17
+8632528	Kocaali İlçesi	Kocaali Ilcesi	Kocaali Ilcesi,Kocaali İlçesi	41.06361	30.85815	A	ADM2	TR		54	8632528			22666		13	Europe/Istanbul	2014-09-17
+8632529	Ferizli İlçesi	Ferizli Ilcesi	Ferizli Ilcesi,Ferizli İlçesi	40.95092	30.48912	A	ADM2	TR		54	8632529			24585		13	Europe/Istanbul	2014-09-17
+8632530	Söğütlü İlçesi	Soeguetlue Ilcesi	Sogutlu Ilcesi,Söğütlü İlçesi	40.9161	30.47824	A	ADM2	TR		54	8632530			14055		18	Europe/Istanbul	2014-09-17
+8632531	Kaynarca İlçesi	Kaynarca Ilcesi	Kaynarca Ilcesi,Kaynarca İlçesi	41.04048	30.29619	A	ADM2	TR		54	8632531			23390		66	Europe/Istanbul	2014-09-17
+8632532	Orhangazi İlçesi	Orhangazi Ilcesi	Orhangazi Ilcesi,Orhangazi İlçesi	40.49979	29.31207	A	ADM2	TR		16	8632532			75672		113	Europe/Istanbul	2015-04-09
+8632533	İznik İlçesi	Iznik Ilcesi	Iznik Ilcesi,İznik İlçesi	40.4394	29.72644	A	ADM2	TR		16	8632533			43287		95	Europe/Istanbul	2015-04-09
+8632534	Yenişehir İlçesi	Yenisehir Ilcesi	Yenisehir Ilcesi,Yenişehir İlçesi	40.27425	29.65764	A	ADM2	TR		16	8632534			52132		235	Europe/Istanbul	2015-04-09
+8632536	Mustafakemalpaşa İlçesi	Mustafakemalpasa Ilcesi	Mustafakemalpasa Ilcesi,Mustafakemalpaşa İlçesi	40.04973	28.41833	A	ADM2	TR		16	8632536			99999		20	Europe/Istanbul	2015-04-09
+8632537	Karacabey İlçesi	Karacabey Ilcesi	Karacabey Ilcesi,Karacabey İlçesi	40.22288	28.36656	A	ADM2	TR		16	8632537			80527		12	Europe/Istanbul	2015-04-09
+8632538	Keles İlçesi	Keles Ilcesi	Keles Ilcesi,Keles İlçesi	39.92363	29.23644	A	ADM2	TR		16	8632538			13639		1162	Europe/Istanbul	2015-04-09
+8632539	Orhaneli İlçesi	Orhaneli Ilcesi	Orhaneli Ilcesi,Orhaneli İlçesi	39.91406	28.9979	A	ADM2	TR		16	8632539			22175		503	Europe/Istanbul	2015-04-09
+8632540	Büyükorhan İlçesi	Bueyuekorhan Ilcesi	Bueyuekorhan,Büyükorhan	39.78223	28.89338	A	ADM2	TR		16	8632540			11913		798	Europe/Istanbul	2015-04-02
+8632541	Harmancık İlçesi	Harmancik Ilcesi	Harmancik,Harmancık	39.67743	29.15523	A	ADM2	TR		16	8632541			7091		669	Europe/Istanbul	2015-04-11
+8632542	Altınova İlçesi	Altinova Ilcesi	Altinova Ilcesi,Altınova İlçesi	40.70478	29.51606	A	ADM2	TR		92	8632542			23567		6	Europe/Istanbul	2014-09-17
+8632543	Termal İlçesi	Termal Ilcesi	Termal Ilcesi,Termal İlçesi	40.61381	29.18049	A	ADM2	TR		92	8632543			5807		146	Europe/Istanbul	2014-09-17
+8632544	Çiftlikköy İlçesi	Ciftlikkoey Ilcesi	Ciftlikkoy Ilcesi,Çiftlikköy İlçesi	40.65302	29.33946	A	ADM2	TR		92	8632544			30784		71	Europe/Istanbul	2014-09-17
+8632545	Armutlu İlçesi	Armutlu Ilcesi	Armutlu Ilcesi,Armutlu İlçesi	40.52919	28.83871	A	ADM2	TR		92	8632545			8562		96	Europe/Istanbul	2014-09-17
+8632546	Çınarcık İlçesi	Cinarcik Ilcesi	Cinarcik Ilcesi,Çınarcık İlçesi	40.63669	29.13881	A	ADM2	TR		92	8632546			27384		98	Europe/Istanbul	2014-09-17
+8632547	Kandıra İlçesi	Kandira Ilcesi	Kandira Ilcesi,Kandıra İlçesi	41.08034	30.15798	A	ADM2	TR		41	8632547			50046		53	Europe/Istanbul	2014-09-17
+8632548	Gölcük İlçesi	Goelcuek Ilcesi	Golcuk Ilcesi,Gölcük İlçesi	40.7201	29.82031	A	ADM2	TR		41	8632548			145805		21	Europe/Istanbul	2016-08-04
+8632549	Derince İlçesi	Derince Ilcesi	Derince Ilcesi,Derince İlçesi	40.75392	29.82307	A	ADM2	TR		41	8632549			130657		34	Europe/Istanbul	2016-08-04
+8632550	Körfez İlçesi	Koerfez Ilcesi	Korfez Ilcesi,Körfez İlçesi	40.77594	29.79435	A	ADM2	TR		41	8632550			142884		74	Europe/Istanbul	2014-09-17
+8632551	Karamürsel İlçesi	Karamuersel Ilcesi	Karamursel Ilcesi,Karamürsel İlçesi	40.68378	29.60691	A	ADM2	TR		41	8632551			53033		99	Europe/Istanbul	2014-09-17
+8632555	Marmara Ereğlisi İlçesi	Marmara Ereglisi Ilcesi	Marmara Ereglisi Ilcesi,Marmara Ereğlisi İlçesi	40.98021	27.94102	A	ADM2	TR		59	8632555			22816		19	Europe/Istanbul	2014-09-17
+8632556	Hayrabolu İlçesi	Hayrabolu Ilcesi	Hayrabolu Ilcesi,Hayrabolu İlçesi	41.22445	27.11951	A	ADM2	TR		59	8632556			33839		41	Europe/Istanbul	2014-09-17
+8632557	Muratlı İlçesi	Muratli Ilcesi	Muratli Ilcesi,Muratlı İlçesi	41.18345	27.51454	A	ADM2	TR		59	8632557			26764		94	Europe/Istanbul	2014-09-17
+8632558	Saray İlçesi	Saray Ilcesi	Saray Ilcesi,Saray İlçesi	41.45475	27.93734	A	ADM2	TR		59	8632558			47171		168	Europe/Istanbul	2014-09-17
+8632559	Malkara İlçesi	Malkara Ilcesi	Malkara Ilcesi,Malkara İlçesi	40.90052	26.91367	A	ADM2	TR		59	8632559			53293		251	Europe/Istanbul	2014-09-17
+8632560	Şarköy İlçesi	Sarkoey Ilcesi	Sarkoy Ilcesi,Şarköy İlçesi	40.62513	27.10069	A	ADM2	TR		59	8632560			29994		33	Europe/Istanbul	2014-09-17
+8632561	Pehlivanköy İlçesi	Pehlivankoey Ilcesi	Pehlivankoy Ilcesi,Pehlivanköy İlçesi	41.35922	26.93445	A	ADM2	TR		39	8632561			4140		64	Europe/Istanbul	2014-09-17
+8632562	Babaeski İlçesi	Babaeski Ilcesi	Babaeski Ilcesi,Babaeski İlçesi	41.44371	27.10458	A	ADM2	TR		39	8632562			49992		48	Europe/Istanbul	2014-09-17
+8632563	Lüleburgaz İlçesi	Luleburgaz Ilcesi	Luleburgaz,Luleburgaz Ilcesi,Lüleburgaz,Lüleburgaz İlçesi	41.41495	27.37325	A	ADM2	TR		39	8632563			138827		77	Europe/Istanbul	2015-06-09
+8632564	Kofçaz İlçesi	Kofcaz Ilcesi	Kofcaz Ilcesi,Kofçaz İlçesi	41.9547	27.17165	A	ADM2	TR		39	8632564			2702		540	Europe/Istanbul	2014-09-17
+8632565	Pınarhisar İlçesi	Pinarhisar Ilcesi	Pinarhisar Ilcesi,Pınarhisar İlçesi	41.63517	27.52951	A	ADM2	TR		39	8632565			19035		300	Europe/Istanbul	2014-09-17
+8632566	Demirköy İlçesi	Demirkoey Ilcesi	Demirkoy Ilcesi,Demirköy İlçesi	41.83567	27.77137	A	ADM2	TR		39	8632566			8455		239	Europe/Istanbul	2014-09-17
+8632567	Vize İlçesi	Vize Ilcesi	Vize Ilcesi,Vize İlçesi	41.58294	27.77452	A	ADM2	TR		39	8632567			27899		278	Europe/Istanbul	2014-09-17
+8632568	Uzunköprü İlçesi	Uzunkoeprue Ilcesi	Uzunkopru Ilcesi,Uzunköprü İlçesi	41.27681	26.69645	A	ADM2	TR		22	8632568			65033		20	Europe/Istanbul	2014-09-17
+8632569	Lâlapaşa İlçesi	Lalapasa Ilcesi	Lalapasa Ilcesi,Lâlapaşa İlçesi	41.85056	26.74865	A	ADM2	TR		22	8632569			7194		201	Europe/Istanbul	2014-09-17
+8632570	Süloğlu İlçesi	Sueloglu Ilcesi	Suloglu Ilcesi,Süloğlu İlçesi	41.77956	26.92602	A	ADM2	TR		22	8632570			7870		179	Europe/Istanbul	2014-09-17
+8632571	Havsa İlçesi	Havsa Ilcesi	Havsa Ilcesi,Havsa İlçesi	41.55981	26.83394	A	ADM2	TR		22	8632571			20248		82	Europe/Istanbul	2014-09-17
+8632572	Meriç İlçesi	Meric Ilcesi	Meric Ilcesi,Meriç İlçesi	41.20174	26.43499	A	ADM2	TR		22	8632572			14782		52	Europe/Istanbul	2014-09-17
+8632573	İpsala İlçesi	Ipsala Ilcesi	Ipsala Ilcesi,İpsala İlçesi	40.93204	26.39781	A	ADM2	TR		22	8632573			29021		8	Europe/Istanbul	2014-09-17
+8632574	Keşan İlçesi	Kesan Ilcesi	Kesan Ilcesi,Keşan İlçesi	40.86611	26.64424	A	ADM2	TR		22	8632574			79889		99	Europe/Istanbul	2014-09-17
+8632575	Enez İlçesi	Enez Ilcesi	Enez Ilcesi,Enez İlçesi	40.73389	26.10243	A	ADM2	TR		22	8632575			10497		0	Europe/Istanbul	2014-09-17
+8632576	Yenice İlçesi	Yenice Ilcesi	Yenice Ilcesi,Yenice İlçesi	39.94217	27.26532	A	ADM2	TR		17	8632576			34477		243	Europe/Istanbul	2014-09-17
+8632577	Ayvacık İlçesi	Ayvacik Ilcesi	Ayvacik Ilcesi,Ayvacık İlçesi	39.61192	26.42314	A	ADM2	TR		17	8632577			30735		299	Europe/Istanbul	2014-09-17
+8632578	Ezine İlçesi	Ezine Ilcesi	Ezine Ilcesi,Ezine İlçesi	39.79679	26.35702	A	ADM2	TR		17	8632578			32165		43	Europe/Istanbul	2014-09-17
+8632579	Bayramiç İlçesi	Bayramic Ilcesi	Bayramic Ilcesi,Bayramiç İlçesi	39.81951	26.6249	A	ADM2	TR		17	8632579			30117		100	Europe/Istanbul	2014-09-17
+8632580	Çan İlçesi	Can Ilcesi	Can Ilcesi,Çan İlçesi	40.04404	27.06645	A	ADM2	TR		17	8632580			50126		280	Europe/Istanbul	2014-09-17
+8632581	Lâpseki İlçesi	Lapseki Ilcesi	Lapseki Ilcesi,Lâpseki İlçesi	40.3528	26.70657	A	ADM2	TR		17	8632581			25661		61	Europe/Istanbul	2015-07-04
+8632582	Gelibolu İlçesi	Gelibolu Ilcesi	Gelibolu Ilcesi,Gelibolu İlçesi	40.45567	26.64442	A	ADM2	TR		17	8632582			43345		34	Europe/Istanbul	2014-09-17
+8632583	Yenipazar İlçesi	Yenipazar Ilcesi	Yenipazar Ilcesi,Yenipazar İlçesi	40.18944	30.50821	A	ADM2	TR		11	8632583			3266		629	Europe/Istanbul	2014-09-17
+8632584	Söğüt İlçesi	Soeguet Ilcesi	Sogut Ilcesi,Söğüt İlçesi	40.02479	30.173	A	ADM2	TR		11	8632584			19938		650	Europe/Istanbul	2014-09-17
+8632586	Gölpazarı İlçesi	Goelpazari Ilcesi	Golpazari Ilcesi,Gölpazarı İlçesi	40.29553	30.33386	A	ADM2	TR		11	8632586			10095		721	Europe/Istanbul	2014-09-17
+8632587	Osmaneli İlçesi	Osmaneli Ilcesi	Osmaneli Ilcesi,Osmaneli İlçesi	40.36742	30.02683	A	ADM2	TR		11	8632587			21195		99	Europe/Istanbul	2014-09-17
+8632588	Bozüyük İlçesi	Bozueyuek Ilcesi	Bozuyuk Ilcesi,Bozüyük İlçesi	39.91806	30.05113	A	ADM2	TR		11	8632588			69282		927	Europe/Istanbul	2014-09-17
+8632589	Pazaryeri İlçesi	Pazaryeri Ilcesi	Pazaryeri Ilcesi,Pazaryeri İlçesi	40.00444	29.92051	A	ADM2	TR		11	8632589			11233		787	Europe/Istanbul	2014-09-17
+9535332	Döşemealtı İlçesi	Doesemealti Ilcesi		37.02366	30.5904	A	ADM2	TR		07	9535332			52013		301	Europe/Istanbul	2015-04-11
+9535333	Aksu	Aksu		36.92794	30.82352	A	ADM2	TR		07	9535333			67476		38	Europe/Istanbul	2014-09-17
+9535334	Konyaaltı	Konyaalti		36.86424	30.62714	A	ADM2	TR		07	9535334			137670		15	Europe/Istanbul	2015-06-27
+9535335	Muratpaşa İlçesi	Muratpasa Ilcesi		36.87907	30.76859	A	ADM2	TR		07	9535335			453255		50	Europe/Istanbul	2015-04-11
+9535336	Kepez İlçesi	Kepez Ilcesi		37.01187	30.75966	A	ADM2	TR		07	9535336			450734		106	Europe/Istanbul	2015-04-11
+9538520	Altıeylül İlçesi	Altieyluel Ilcesi	Balikesir,Balıkesir	39.64099	27.88639	A	ADM2	TR		10	9538520			170260		146	Europe/Istanbul	2015-04-11
+9538526	İnhisar İlçesi	Inhisar Ilcesi		40.05091	30.38368	A	ADM2	TR		11	9538526			2807		236	Europe/Istanbul	2015-04-11
+9538547	Eceabat	Eceabat		40.17861	26.35775	A	ADM2	TR		17	9538547			9123		11	Europe/Istanbul	2014-09-17
+9538816	Merkezefendi İlçesi	Merkezefendi Ilcesi	Denizli,Merkezefendi	37.8061	29.01562	A	ADM2	TR		20	9538816			262825		485	Europe/Istanbul	2016-08-28
+9538817	Aziziye	Aziziye	Cermik,Cermuek,Elegeia,Ilica,Ilıca,Çermük,Çêrmik,Ἐλεγεία	39.94028	41.11153	A	ADM2	TR		25	9538817			50989		1761	Europe/Istanbul	2023-08-12
+9538819	Yakutiye	Yakutiye		40.00132	41.30997	A	ADM2	TR		25	9538819			182213		1759	Europe/Istanbul	2014-09-17
+9538820	Tepebaşı	Tepebasi	Tepebasi,Tepebaşı	39.7843	30.50206	A	ADM2	TR		26	9538820			314599		794	Europe/Istanbul	2018-06-28
+9540749	Odunpazarı	Odunpazari	Odunpazari,Odunpazarı	39.76699	30.54113	A	ADM2	TR		26	9540749			371128		801	Europe/Istanbul	2018-06-28
+9540843	Tirebolu	Tirebolu		41.00633	38.8498	A	ADM2	TR		28	9540843			30428		14	Europe/Istanbul	2014-09-17
+9541080	Keşap	Kesap		40.91387	38.51442	A	ADM2	TR		28	9541080			20292		32	Europe/Istanbul	2014-09-17
+9541203	Samandağ	Samandag	Biredzhik,Samandag,alswydyt,sa man da e,Биреджик,Самандаг,السويدية,سمعانداغ,سمعان‌داغ,ضلع سامانداگ,薩曼達厄	36.08421	35.97233	A	ADM2	TR		31	9541203			116151		37	Europe/Istanbul	2014-09-17
+9541389	Defne	Defne		36.15501	36.13829	A	ADM2	TR		31	9541389			134570		76	Europe/Istanbul	2025-05-25
+9541486	Payas	Payas		36.76426	36.21343	A	ADM2	TR		31	9541486			38959		26	Europe/Istanbul	2014-09-17
+9541531	Arsuz	Arsuz		36.41134	35.8916	A	ADM2	TR		31	9541531			109550		9	Europe/Istanbul	2025-11-27
+9542118	Yenişehir	Yenisehir		36.81602	34.57621	A	ADM2	TR		32	9542118			224895		92	Europe/Istanbul	2020-01-27
+9542263	Toroslar	Toroslar		36.87083	34.60299	A	ADM2	TR		32	9542263			277658		147	Europe/Istanbul	2014-09-17
+9542422	Akdeniz	Akdeniz		36.86424	34.67731	A	ADM2	TR		32	9542422			279383		50	Europe/Istanbul	2014-09-17
+9543231	Karabağlar	Karabaglar		38.36912	27.12696	A	ADM2	TR		35	9543231			471676		79	Europe/Istanbul	2014-09-17
+9543301	Balçova	Balcova		38.3991	27.04174	A	ADM2	TR		35	9543301			77624		35	Europe/Istanbul	2025-05-25
+9543771	Narlıdere	Narlidere		38.38957	27.02431	A	ADM2	TR		35	9543771			63743		56	Europe/Istanbul	2014-09-17
+9544174	Güzelbahçe	Guezelbahce		38.37046	26.8693	A	ADM2	TR		35	9544174			27389		4	Europe/Istanbul	2014-09-17
+9544571	İzmit	Izmit	Gorad Izmit,Izmit,Izmita,Izmitas,azmt,azmyd,azmyt,ijeumiteu,ijhmita,izmiti,izumitto,xi smit,yi ci mi te,yyzmyt,Ιζμίτ,Ізміт,Горад Ізміт,Измит,איזמיט,إزميد,ئیزمیت,ازمت,ازمیت,इझ्मित,อิซมิต,იზმითი,イズミット,伊兹密特,이즈미트	40.77521	29.94624	A	ADM2	TR		41	9544571			332754		124	Europe/Istanbul	2014-09-17
+9547999	Kartepe	Kartepe	Kartepe,Картепе	40.75246	30.02787	A	ADM2	TR		41	9547999			101692		17	Europe/Istanbul	2025-11-11
+9548074	Başiskele	Basiskele		40.64574	29.90015	A	ADM2	TR		41	9548074			76605		387	Europe/Istanbul	2014-09-17
+9548124	Darıca	Darica		40.7678	29.37126	A	ADM2	TR		41	9548124			164385		87	Europe/Istanbul	2014-09-17
+9548231	Çayırova	Cayirova		40.82784	29.39014	A	ADM2	TR		41	9548231			103536		121	Europe/Istanbul	2014-09-17
+9548267	Pütürge	Puetuerge		38.1963	38.87418	A	ADM2	TR		44	9548267			17986		1262	Europe/Istanbul	2014-09-17
+9548308	Doğanyol	Doganyol		38.31008	39.03756	A	ADM2	TR		44	9548308			4720		928	Europe/Istanbul	2014-09-17
+9548365	Arguvan	Arguvan		38.78172	38.26349	A	ADM2	TR		44	9548365			9038		1174	Europe/Istanbul	2014-09-17
+9548477	Yunusemre	Yunusemre		38.62063	27.40806	A	ADM2	TR		45	9548477			199683		52	Europe/Istanbul	2014-09-17
+9548503	Şehzadeler	Sehzadeler		38.6166	27.43861	A	ADM2	TR		45	9548503			164649		74	Europe/Istanbul	2014-09-17
+9548545	Dulkadiroğlu	Dulkadiroglu		37.58654	36.94673	A	ADM2	TR		46	9548545			216701		629	Europe/Istanbul	2024-01-31
+9548652	Onikişubat	Onikisubat		37.59002	36.90548	A	ADM2	TR		46	9548652			357870		690	Europe/Istanbul	2014-09-17
+9548757	Seydikemer	Seydikemer		36.64308	29.34929	A	ADM2	TR		48	9548757			59660		142	Europe/Istanbul	2014-09-17
+9548851	Menteşe	Mentese		37.21447	28.36168	A	ADM2	TR		48	9548851			124825		654	Europe/Istanbul	2025-11-29
+9548904	Altınordu	Altinordu		40.94879	37.79572	A	ADM2	TR		52	9548904			186097		474	Europe/Istanbul	2014-09-17
+9549009	İyidere	Iyidere		41.00905	40.37776	A	ADM2	TR		53	9549009			9011		132	Europe/Istanbul	2014-09-17
+9549101	Ardeşen	Ardesen		41.18557	40.98639	A	ADM2	TR		53	9549101			40109		14	Europe/Istanbul	2014-09-17
+9549145	Çayeli	Cayeli		41.08941	40.73696	A	ADM2	TR		53	9549145			42143		28	Europe/Istanbul	2014-09-17
+9549311	Fındıklı	Findikli		41.2711	41.14449	A	ADM2	TR		53	9549311			16225		52	Europe/Istanbul	2014-09-17
+9549335	Adapazarı	Adapazari		40.78343	30.39986	A	ADM2	TR		54	9549335			259516		31	Europe/Istanbul	2014-09-17
+9549384	Serdivan	Serdivan		40.76371	30.36784	A	ADM2	TR		54	9549384			105775		27	Europe/Istanbul	2014-09-17
+9549424	Erenler	Erenler		40.75564	30.41453	A	ADM2	TR		54	9549424			78094		33	Europe/Istanbul	2014-09-17
+9549457	Arifiye	Arifiye		40.71327	30.36128	A	ADM2	TR		54	9549457			38905		38	Europe/Istanbul	2014-09-17
+9549574	Canik	Canik		41.23858	36.33694	A	ADM2	TR		55	9549574			93721		279	Europe/Istanbul	2014-09-17
+9549630	İlkadım	Ilkadim		41.29161	36.30106	A	ADM2	TR		55	9549630			312248		79	Europe/Istanbul	2014-09-17
+9549747	Atakum	Atakum		41.3473	36.23051	A	ADM2	TR		55	9549747			149226		111	Europe/Istanbul	2014-09-17
+9549876	Kapaklı	Kapakli		41.33864	27.97711	A	ADM2	TR		59	9549876			85898		187	Europe/Istanbul	2014-09-17
+9549878	Süleymanpaşa	Sueleymanpasa		40.9799	27.30377	A	ADM2	TR		59	9549878			179239		177	Europe/Istanbul	2014-09-17
+9549891	Ortahisar	Ortahisar		40.988	39.713	A	ADM2	TR		61	9549891			306286		150	Europe/Istanbul	2024-01-31
+9549892	Beşikdüzü	Besikduezue		41.0511	39.229	A	ADM2	TR		61	9549892			21826		15	Europe/Istanbul	2014-09-17
+9550057	Akçaabat	Akcaabat		41.0197	39.56293	A	ADM2	TR		61	9550057			113917		110	Europe/Istanbul	2014-09-17
+9550246	Eyyübiye	Eyyuebiye		37.142	38.786	A	ADM2	TR		63	9550246			360509		501	Europe/Istanbul	2024-01-31
+9550457	Karaköprü	Karakoeprue		37.20786	38.71773	A	ADM2	TR		63	9550457			103495		798	Europe/Istanbul	2025-05-26
+9550541	Haliliye	Haliliye		37.168	38.79599	A	ADM2	TR		63	9550541			347682		504	Europe/Istanbul	2024-01-31
+9550890	Tuşba	Tusba		38.52723	43.37418	A	ADM2	TR		65	9550890			138123		1699	Europe/Istanbul	2024-01-31
+9550938	İpekyolu	Ipekyolu		38.5407	43.56962	A	ADM2	TR		65	9550938			274902		2342	Europe/Istanbul	2025-05-26
+9551354	Pursaklar	Pursaklar		40.03961	32.90139	A	ADM2	TR		68	9551354			123857		1064	Europe/Istanbul	2014-09-17
+9552222	Artuklu	Artuklu		37.31714	40.72473	A	ADM2	TR		72	9552222			148066		985	Europe/Istanbul	2014-09-17
+9552711	Sarıçam	Saricam		37.14971	35.50949	A	ADM2	TR		81	9552711			138139		290	Europe/Istanbul	2017-12-14
+9552840	Çukurova	Cukurova		37.05627	35.13119	A	ADM2	TR		81	9552840			346505		133	Europe/Istanbul	2017-12-14
+9553115	Kozlu	Kozlu		41.43243	31.7492	A	ADM2	TR		85	9553115			44454		28	Europe/Istanbul	2014-09-17
+9553975	Kilimli	Kilimli		41.48238	31.83392	A	ADM2	TR		85	9553975			40789		55	Europe/Istanbul	2015-02-23
+9564466	Efeler	Efeler		37.83835	27.84557	A	ADM2	TR		09	9564466			265234		57	Europe/Istanbul	2017-12-03
+9564781	Ergene	Ergene		41.203	27.779	A	ADM2	TR		59	9564781			56787		134	Europe/Istanbul	2024-01-31
+9565016	Palandöken	Palandoeken		39.8556	41.27975	A	ADM2	TR		25	9565016			161482		2366	Europe/Istanbul	2014-09-17
+9565090	Kayapınar	Kayapinar		37.938	40.1731	A	ADM2	TR		21	9565090			277489		736	Europe/Istanbul	2014-09-17
+9565135	Bağlar	Baglar		37.87253	40.11275	A	ADM2	TR		21	9565135			357727		671	Europe/Istanbul	2025-05-29
+9565316	Yenişehir	Yenisehir		37.92473	40.2281	A	ADM2	TR		21	9565316			204930		665	Europe/Istanbul	2024-01-31
+9565377	Sur	Sur		37.91356	40.23743	A	ADM2	TR		21	9565377			123311		674	Europe/Istanbul	2014-09-17
+10910316	Karesi İlçesi	Karesi Ilcesi	Karesi Ilcesi,Karesi İlçesi	39.76648	27.8357	A	ADM2	TR		10	10910316			0		362	Europe/Istanbul	2015-11-10
+11778423	Ağrı	Agri		39.713	43.05096	A	ADM2	TR		04	11778423			0		1629	Europe/Istanbul	2017-12-08
+11789075	Kemalpaşa	Kemalpasa		41.4828	41.52909	A	ADM2	TR		08	11789075			0		12	Europe/Istanbul	2017-12-12
+11789076	Sultanhanı	Sultanhani	Sultanhani Ilcesi,Sultanhanı İlçesi	38.24384	33.55207	A	ADM2	TR		75	11789076			0		945	Europe/Istanbul	2018-03-31
+13308766	Ardahan	Ardahan		41.07137	42.72988	A	ADM2	TR		86	13308766			0		2048	Europe/Istanbul	2025-05-10
+13308767	Bartin	Bartin		41.57101	32.40102	A	ADM2	TR		87	13308767			0		27	Europe/Istanbul	2025-05-10
+13308768	Bayburt	Bayburt		40.25323	40.28146	A	ADM2	TR		77	13308768			0		1894	Europe/Istanbul	2025-05-10
+13308769	Duzce	Duzce		40.81697	31.1809	A	ADM2	TR		93	13308769			0		167	Europe/Istanbul	2025-05-10
+13308770	Isparta	Isparta		37.76371	30.64112	A	ADM2	TR		33	13308770			0		992	Europe/Istanbul	2025-05-10
+13308771	Bilecik	Bilecik		40.1608	29.94885	A	ADM2	TR		11	13308771			0		658	Europe/Istanbul	2025-05-10
+13308772	Kirikkale	Kirikkale		39.85269	33.55132	A	ADM2	TR		79	13308772			0		768	Europe/Istanbul	2025-05-10
+13308773	Kars	Kars		40.57899	43.20854	A	ADM2	TR		84	13308773			0		1927	Europe/Istanbul	2025-05-10
+13308774	Igdir	Igdir		39.8616	44.02216	A	ADM2	TR		88	13308774			0		900	Europe/Istanbul	2025-05-10
+13308775	Kirsehir	Kirsehir		39.15703	34.07987	A	ADM2	TR		40	13308775			0		1144	Europe/Istanbul	2025-05-10
+13308776	Karabuk	Karabuk		41.15367	32.60913	A	ADM2	TR		89	13308776			0		431	Europe/Istanbul	2025-05-10
+13308777	Rize	Rize		40.94992	40.56318	A	ADM2	TR		53	13308777			0		472	Europe/Istanbul	2025-05-10
+13308778	Bolu	Bolu		40.7366	31.65939	A	ADM2	TR		14	13308778			0		714	Europe/Istanbul	2025-05-10
+13308779	Artvin	Artvin		41.16591	41.85059	A	ADM2	TR		08	13308779			0		1080	Europe/Istanbul	2025-05-10
+13308780	Zonguldak	Zonguldak		41.3756	31.88623	A	ADM2	TR		85	13308780			0		602	Europe/Istanbul	2025-05-10
+13308781	Derecik	Derecik		37.10426	44.34891	A	ADM2	TR		70	13308781			0		1504	Europe/Istanbul	2025-05-10
+13308782	Cankiri	Cankiri		40.53247	33.76559	A	ADM2	TR		82	13308782			0		709	Europe/Istanbul	2025-05-10
+13308783	Edirne	Edirne		41.69002	26.58659	A	ADM2	TR		22	13308783			0		124	Europe/Istanbul	2025-05-10
+13308784	Erzincan	Erzincan		39.70817	39.47571	A	ADM2	TR		24	13308784			0		1151	Europe/Istanbul	2025-05-10
+13308785	Hakkari	Hakkari		37.56726	43.68949	A	ADM2	TR		70	13308785			0		2340	Europe/Istanbul	2025-05-10
+13308786	Karaman	Karaman		37.17383	33.22384	A	ADM2	TR		78	13308786			0		1054	Europe/Istanbul	2025-05-10
+13308787	Kastamonu	Kastamonu		41.30961	33.81164	A	ADM2	TR		37	13308787			0		944	Europe/Istanbul	2025-05-10
+13308788	Kirklareli	Kirklareli		41.78246	27.2452	A	ADM2	TR		39	13308788			0		322	Europe/Istanbul	2025-05-10
+13308789	Kutahya	Kutahya		39.43268	30.07917	A	ADM2	TR		43	13308789			0		1018	Europe/Istanbul	2025-05-10
+13308790	Osmaniye	Osmaniye		37.09085	36.29198	A	ADM2	TR		91	13308790			0		125	Europe/Istanbul	2025-05-10
+13308791	Tokat	Tokat		40.28782	36.57486	A	ADM2	TR		60	13308791			0		1137	Europe/Istanbul	2025-05-10
+13308792	Yozgat	Yozgat		39.80309	34.80404	A	ADM2	TR		66	13308792			0		1556	Europe/Istanbul	2025-05-10

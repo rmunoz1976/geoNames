@@ -1,0 +1,335 @@
+﻿3625121	Municipio Zamora	Municipio Zamora	Zamora Municipality	11.46051	-69.35811	A	ADM2	VE		11	1125			0		183	America/Caracas	2023-05-18
+3625122	Municipio Zamora	Municipio Zamora	Zamora Municipality	10.5	-66.5	A	ADM2	VE		15	1521			0		1148	America/Caracas	2023-03-22
+3625123	Municipio Zamora	Municipio Zamora	Zamora Municipality	10.06667	-67.5	A	ADM2	VE		04	0516			0		519	America/Caracas	2023-03-22
+3625334	Municipio Villalba	Municipio Villalba	Coche Island	10.78333	-63.95	A	ADM2	VE		17	1711			0		33	America/Caracas	2023-03-21
+3625541	Municipio Valera	Municipio Valera	Valera Municipality	9.3206	-70.60776	A	ADM2	VE		21	2120			0		515	America/Caracas	2023-03-23
+3625547	Municipio Valencia	Municipio Valencia	Valencia Municipality	10.13973	-68.01955	A	ADM2	VE		07	0814			0		535	America/Caracas	2023-05-18
+3625648	Municipio Uribante	Municipio Uribante	Municipio Uribante,Uribante Municipality	7.66667	-71.91667	A	ADM2	VE		20	2028			0		326	America/Caracas	2023-03-23
+3625657	Municipio Urdaneta	Municipio Urdaneta	Urdaneta Municipality	10.5	-69.66667	A	ADM2	VE		13	1309			0		727	America/Caracas	2023-03-21
+3625659	Municipio Urdaneta	Municipio Urdaneta		10.16667	-66.91667	A	ADM2	VE		15	1520			0		278	America/Caracas	2015-02-26
+3625660	Municipio Urdaneta	Municipio Urdaneta	Municipio Urdaneta,Urdaneta Municipality	9.71667	-66.8	A	ADM2	VE		04	0515			0		242	America/Caracas	2023-03-22
+3625661	Municipio Urdaneta	Municipio Urdaneta	Municipio Urdaneta,Urdaneta Municipality	9.08333	-70.58333	A	ADM2	VE		21	2119			0		3623	America/Caracas	2023-03-23
+3625695	Municipio Urachiche	Municipio Urachiche	Urachiche Municipality	10.13333	-69	A	ADM2	VE		22	2213			0		396	America/Caracas	2023-03-23
+3625845	Municipio Turén	Municipio Turen	Turen Municipality,Turén Municipality	9.16667	-68.83333	A	ADM2	VE		18	1814			0		91	America/Caracas	2023-03-23
+3625927	Municipio Tucupita	Municipio Tucupita	Departamento Tucupita,Municipio Tucupita,Tucupita,Tucupita Municipality	9.30889	-61.7134	A	ADM2	VE		09	1004			0		8	America/Caracas	2023-03-22
+3625967	Municipio Tubores	Municipio Tubores	Tubores Municipality	10.95	-64.08333	A	ADM2	VE		17	1710			0		16	America/Caracas	2023-03-21
+3625975	Municipio Trujillo	Municipio Trujillo	Trujillo Municipality	9.36008	-70.43433	A	ADM2	VE		21	2118			0		1048	America/Caracas	2023-05-18
+3626043	Municipio Tovar	Municipio Tovar	Tovar Municipality	8.36667	-71.7	A	ADM2	VE		14	1421			0		760	America/Caracas	2023-03-22
+3626083	Municipio Torres	Municipio Torres	Torres Municipality	10.16667	-70.25	A	ADM2	VE		13	1308			0		429	America/Caracas	2023-03-22
+3626234	Municipio Tinaco	Municipio Tinaco	Tinaco Municipality	9.66667	-68.33333	A	ADM2	VE		08	0909			0		163	America/Caracas	2023-03-23
+3626657	Municipio Sucre	Municipio Sucre	Municipio Sucre,Sucre Municipality	10.41667	-64.08333	A	ADM2	VE		19	1914			0		183	America/Caracas	2023-03-28
+3626658	Municipio Sucre	Municipio Sucre	Sucre Municipality	10.3	-68.83333	A	ADM2	VE		22	2212			0		512	America/Caracas	2023-03-28
+3626659	Municipio Sucre	Municipio Sucre	Sucre Municipality	10.16667	-67.45	A	ADM2	VE		04	0513			0		458	America/Caracas	2023-03-29
+3626660	Municipio Sucre	Municipio Sucre	Sucre Municipality	9.33333	-70	A	ADM2	VE		18	1813			0		812	America/Caracas	2023-03-29
+3626661	Municipio Sucre	Municipio Sucre	Sucrev Municipality	9.08333	-71.25	A	ADM2	VE		23	2320			0		14	America/Caracas	2023-03-23
+3626662	Municipio Sucre	Municipio Sucre	Sucre Municipality	8.58333	-71.5	A	ADM2	VE		14	1420			0		1062	America/Caracas	2023-03-23
+3626663	Municipio Sucre	Municipio Sucre	Sucre Municipality	7.85	-72	A	ADM2	VE		20	2026			0		1056	America/Caracas	2023-03-23
+3626664	Municipio Sucre	Municipio Sucre	Sucre Municipality	6	-64.25	A	ADM2	VE		06	0710			0		297	America/Caracas	2023-03-23
+3626693	Municipio Sotillo	Municipio Sotillo	Sotillo Municipality	8.66843	-62.44942	A	ADM2	VE		16	1612			0		10	America/Caracas	2023-05-18
+3626698	Municipio Sosa	Municipio Sosa	Sosa Municipality	8.09475	-69.30828	A	ADM2	VE		05	0611			0		84	America/Caracas	2023-03-23
+3626815	Municipio Simón Rodríguez	Municipio Simon Rodriguez	Simon Rodriguez Municipality,Simón Rodríguez Municipality	8.75	-64.16667	A	ADM2	VE		02	0319			0		226	America/Caracas	2023-03-23
+3626828	Municipio Silva	Municipio Silva	Municipio Silva,Silva Municipality	10.75709	-68.35007	A	ADM2	VE		11	1120			0		9	America/Caracas	2023-03-23
+3627638	Municipio San Sebastián	Municipio San Sebastian	San Sebastian Municipality,San Sebastián Municipality	10	-67.16667	A	ADM2	VE		04	0510			0		559	America/Caracas	2023-03-23
+3628397	Municipio San Fernando	Municipio San Fernando		7.58333	-67.16667	A	ADM2	VE		03	0407			0		43	America/Caracas	2015-02-27
+3628416	Municipio San Felipe	Municipio San Felipe	San Felipe Municipality	10.5	-68.63333	A	ADM2	VE		22	2211			0		393	America/Caracas	2023-03-23
+3628468	Municipio San Cristóbal	Municipio San Cristobal	Municipio San Cristobal,Municipio San Cristóbal,San Cristobal Municipality,San Cristóbal Municipality	7.71667	-72.16667	A	ADM2	VE		20	2023			0		1198	America/Caracas	2023-03-22
+3628486	Municipio San Casimiro	Municipio San Casimiro	Municipio San Casimiro,San Casimiro	10	-66.91667	A	ADM2	VE		04	0509			0		1437	America/Caracas	2015-02-27
+3628494	Municipio San Carlos	Municipio San Carlos	Municipio Bolivariano Ezequiel Zamora,Municipio San Carlos,San Carlos Municipality	9.58333	-68.58333	A	ADM2	VE		08	0908			0		127	America/Caracas	2023-05-12
+3628959	Municipio Roscio	Municipio Roscio	Roscio Municipality	7.14846	-62.11782	A	ADM2	VE		06	0708			0		498	America/Caracas	2023-05-30
+3628986	Municipio Rómulo Gallegos	Municipio Romulo Gallegos	Romulo Gallegos Municipality,Rómulo Gallegos Municipality	6.75	-69.41667	A	ADM2	VE		03	0406			0		92	America/Caracas	2023-03-20
+3628998	Municipio Rojas	Municipio Rojas	Rojas Municipality	8.32463	-69.63006	A	ADM2	VE		05	0610			0		104	America/Caracas	2023-03-20
+3629042	Municipio Rivas Dávila	Municipio Rivas Davila	Municipio Rivas Davila,Municipio Rivas Dávila,Rivas Davila Municipality,Rivas Dávila Municipality	8.19439	-71.83549	A	ADM2	VE		14	1418			0		2467	America/Caracas	2023-05-18
+3629068	Municipio Autónomo Río Negro	Municipio Autonomo Rio Negro	Departamento Rio Negro,Departamento Río Negro,Municipio Rio Negro,Municipio Río Negro,Rio Negro,Rio Negro Municipality,Río Negro,Río Negro Municipality	1.71361	-66.07178	A	ADM2	VE		01	0207			0		107	America/Caracas	2023-03-22
+3629179	Municipio Ricaurte	Municipio Ricaurte	Ricaurte Municipality	9.33333	-68.66667	A	ADM2	VE		08	0906			0		91	America/Caracas	2023-03-20
+3629182	Municipio Ribero	Municipio Ribero	Distrito Ribero,Municipio Ribero,Ribero,Ribero Municipality,Rivero	10.43887	-63.54764	A	ADM2	VE		19	1913			0		204	America/Caracas	2023-03-23
+3629269	Municipio Rangel	Municipio Rangel	Rangel Municipality	8.75	-70.83333	A	ADM2	VE		14	1417			0		3709	America/Caracas	2023-03-20
+3629705	Municipio Puerto Cabello	Municipio Puerto Cabello	Puerto Cabello Municipality	10.48757	-68.052	A	ADM2	VE		07	0811			0		1	America/Caracas	2023-05-18
+3630003	Municipio Plaza	Municipio Plaza	Plaza Municipality	10.5	-66.66667	A	ADM2	VE		15	1517			0		706	America/Caracas	2023-03-20
+3630282	Municipio Piar	Municipio Piar	Piar Municipality	10	-63.41667	A	ADM2	VE		16	1609			0		404	America/Caracas	2023-03-20
+3630283	Municipio Piar	Municipio Piar	Municipio Piar,Piar Municipality	6.60365	-62.72736	A	ADM2	VE		06	0706			0		500	America/Caracas	2023-05-18
+3630294	Municipio Petit	Municipio Petit	Petit Municipality	11.05	-69.41667	A	ADM2	VE		11	1117			0		208	America/Caracas	2023-03-23
+3630389	Municipio Península de Macanao	Municipio Peninsula de Macanao	Macanao Peninsula Municipality	11.01667	-64.28333	A	ADM2	VE		17	1709			0		256	America/Caracas	2023-03-22
+3630452	Municipio Pedro María Ureña	Municipio Pedro Maria Urena	Municipio Pedro Maria Urena,Municipio Pedro María Ureña,Pedro Maria Urena Municipality,Pedro María Ureña Municipality	7.93333	-72.4	A	ADM2	VE		20	2020			0		1095	America/Caracas	2023-03-22
+3630456	Municipio Pedro Camejo	Municipio Pedro Camejo	Pedro Camejo Municipality	6.5	-67.91667	A	ADM2	VE		03	0405			0		65	America/Caracas	2023-03-20
+3630482	Municipio Pedraza	Municipio Pedraza	Pedraza Municipality	8.35325	-70.56982	A	ADM2	VE		05	0609			0		175	America/Caracas	2023-03-20
+3630495	Municipio Paz Castillo	Municipio Paz Castillo	Paz Castillo Municipality	10.33333	-66.66667	A	ADM2	VE		15	1515			0		311	America/Caracas	2023-03-20
+3630887	Municipio Panamericano	Municipio Panamericano	Panamericano Municipality	8.41667	-72	A	ADM2	VE		20	2019			0		133	America/Caracas	2023-03-23
+3631101	Municipio Palavecino	Municipio Palavecino	Distrito Palavecino,Distrito Palavicini,Municipio Palavecino,Palavecino,Palavecino Municipality,Palaviccini	10.01035	-69.24139	A	ADM2	VE		13	1306			0		441	America/Caracas	2023-05-20
+3631168	Municipio Guajira	Municipio Guajira	Guajira,Mmakat Wajiira,Municipio Indigena Bolivariano Guajira,Municipio Indígena Bolivariano Guajira,Municipio Paez,Municipio Páez,Paez Municipality,Páez Municipality	11.33333	-72	A	ADM2	VE		23	2315			0		1	America/Caracas	2023-05-12
+3631169	Municipio Páez	Municipio Paez	Municipio Paez,Municipio Páez,Paez Municipality,Páez Municipality	10.20915	-65.94226	A	ADM2	VE		15	1514			0		21	America/Caracas	2023-05-18
+3631170	Municipio Páez	Municipio Paez	Municipio Paez,Municipio Páez,Paez Municipality,Páez Municipality	9.5	-69.05	A	ADM2	VE		18	1808			0		133	America/Caracas	2023-03-23
+3631171	Municipio Páez	Municipio Paez	Paez Municipality,Páez Municipality	7.25	-71	A	ADM2	VE		03	0404			0		136	America/Caracas	2023-03-20
+3631207	Municipio Ospino	Municipio Ospino	Ospino Municipality	9.33333	-69.41667	A	ADM2	VE		18	1807			0		194	America/Caracas	2023-03-23
+3631430	Municipio Obispos	Municipio Obispos	Obispos Municipality	8.60614	-70.10445	A	ADM2	VE		05	0608			0		158	America/Caracas	2023-03-21
+3631506	Municipio Nirgua	Municipio Nirgua	Nirgua Municipality	10.08333	-68.66667	A	ADM2	VE		22	2209			0		973	America/Caracas	2023-03-23
+3631656	Municipio Muñoz	Municipio Munoz	Munoz Municipality,Muñoz Municipality	7.58333	-69.41667	A	ADM2	VE		03	0403			0		83	America/Caracas	2023-03-21
+3631972	Municipio Morán	Municipio Moran	Moran Municipality,Morán Municipality,Municipio Moran,Municipio Morán	9.66667	-69.83333	A	ADM2	VE		13	1305			0		963	America/Caracas	2023-03-21
+3632008	Municipio Montes	Municipio Montes	Montes Municipality	10.25	-63.91667	A	ADM2	VE		19	1912			0		229	America/Caracas	2023-03-21
+3632070	Municipio Montalbán	Municipio Montalban	Montalban Municipality,Montalbán Municipality	10.16667	-68.35	A	ADM2	VE		07	0809			0		741	America/Caracas	2023-03-21
+3632192	Municipio Miranda	Municipio Miranda	Miranda Municipality	11.31667	-69.86667	A	ADM2	VE		11	1114			0		78	America/Caracas	2023-03-21
+3632193	Municipio Miranda	Municipio Miranda	Miranda. Municipality	10.75	-71.25	A	ADM2	VE		23	2314			0		37	America/Caracas	2023-03-23
+3632194	Municipio Miranda	Municipio Miranda	Miranda Municipality,Municipio Miranda	9	-70.75	A	ADM2	VE		14	1413			0		2159	America/Caracas	2023-03-21
+3632259	Municipio Michelena	Municipio Michelena	Michelena Municipality,Municipio Michelena	7.98333	-72.18333	A	ADM2	VE		20	2018			0		2076	America/Caracas	2023-03-23
+3632428	Municipio Mejía	Municipio Mejia	Distrito Mejia,Distrito Mejias,Distrito Mejía,Distrito Mejías,Mejia,Mejia Municipality,Mejía,Mejía Municipality,Municipio Autonomo Mejias,Municipio Autonomo Mejías,Municipio Mejia,Municipio Mejía	10.37777	-63.77381	A	ADM2	VE		19	1911			0		473	America/Caracas	2023-03-22
+3632524	Municipio Mauroa	Municipio Mauroa	Mauroa Municipality	10.83333	-71	A	ADM2	VE		11	1113			0		57	America/Caracas	2023-03-23
+3632537	Municipio Maturín	Municipio Maturin	Maturin Municipality,Maturín Municipality	9.4	-63.03333	A	ADM2	VE		16	1608			0		33	America/Caracas	2023-03-23
+3632894	Municipio Mariño	Municipio Marino	Marino Municipality,Mariño Municipality	10.95	-63.88333	A	ADM2	VE		17	1708			0		23	America/Caracas	2023-03-23
+3632895	Municipio Mariño	Municipio Marino	Marino Municipality,Mariño Municipality	10.61667	-62.53333	A	ADM2	VE		19	1910			0		72	America/Caracas	2023-03-23
+3633006	Municipio Maracaibo	Municipio Maracaibo	Maracaibo Municipality	10.74147	-71.74232	A	ADM2	VE		23	2313			0		14	America/Caracas	2023-05-18
+3633019	Municipio Mara	Municipio Mara	Mara Municipality	10.91667	-72.08333	A	ADM2	VE		23	2312			0		23	America/Caracas	2023-03-28
+3633180	Municipio Maneiro	Municipio Maneiro		11	-63.83333	A	ADM2	VE		17	1706			0		32	America/Caracas	2012-01-03
+3634695	Municipio Lobatera	Municipio Lobatera	Lobatera Municipality,Municipio Lobatera	7.91667	-72.26667	A	ADM2	VE		20	2017			0		1022	America/Caracas	2023-03-23
+3634754	Municipio Libertador	Municipio Libertador	Libertador Municipality	10.56667	-63	A	ADM2	VE		19	1909			0		2	America/Caracas	2023-03-23
+3634755	Municipio Libertador	Municipio Libertador	Libertador Municipality,Municipio Libertador	8.45387	-71.01787	A	ADM2	VE		14	1412			0		2942	America/Caracas	2023-05-18
+3634756	Municipio Libertador	Municipio Libertador	Libertador Municipality	7.63537	-71.62184	A	ADM2	VE		20	2016			0		303	America/Caracas	2023-05-30
+3634759	Municipio Libertad	Municipio Libertad	Libertad Municipality	9.75	-64.58333	A	ADM2	VE		02	0311			0		155	America/Caracas	2023-03-23
+3637011	Municipio Lander	Municipio Lander	Lander Municipality,Municipio Lander	10.08333	-66.75	A	ADM2	VE		15	1512			0		439	America/Caracas	2023-03-20
+3639053	Municipio Justo Briceño	Municipio Justo Briceno	Justo Briceno Municipality,Justo Briceño Municipality	9	-71	A	ADM2	VE		14	1411			0		1161	America/Caracas	2023-03-20
+3639063	Municipio Junín	Municipio Junin	Junin Municipality,Junín Municipality	7.60463	-72.37467	A	ADM2	VE		20	2014			0		1466	America/Caracas	2023-05-30
+3639197	Municipio Jiménez	Municipio Jimenez	Distrito Jimenez,Distrito Jiménez,Gimenez,Jimenez Municipality,Jiménez Municipality,Municipio Jimenez,Municipio Jiménez	9.8	-69.58333	A	ADM2	VE		13	1304			0		1334	America/Caracas	2023-03-22
+3639226	Municipio Jáuregui	Municipio Jauregui	Jauregui Municipality,Jáuregui Municipality,Municipio Jauregui,Municipio Jáuregui	8.1	-72	A	ADM2	VE		20	2012			0		2041	America/Caracas	2023-03-23
+3639346	Municipio Iribarren	Municipio Iribarren	Iribarren Municipality	10.08333	-69.41667	A	ADM2	VE		13	1303			0		695	America/Caracas	2023-03-20
+3639385	Municipio Independencia	Municipio Independencia	Independencia Municipality	10.2	-66.6	A	ADM2	VE		15	1511			0		339	America/Caracas	2023-03-20
+3639386	Municipio Independencia	Municipio Independencia	Independencia Municipality	8.46667	-63.41667	A	ADM2	VE		02	0307			0		120	America/Caracas	2023-03-21
+3639562	Municipio Heres	Municipio Heres	Municipio Heres	7.6534	-63.93914	A	ADM2	VE		06	0705			0		220	America/Caracas	2023-05-20
+3640213	Municipio Guanarito	Municipio Guanarito	Guanarito Municipality	8.5	-69	A	ADM2	VE		18	1805			0		79	America/Caracas	2023-03-23
+3640225	Municipio Guanare	Municipio Guanare	Guanare Municipality,Municipio Guanare	9.00459	-69.64964	A	ADM2	VE		18	1804			0		129	America/Caracas	2023-05-18
+3640380	Municipio Guaicaipuro	Municipio Guaicaipuro	Guaicaipuro Municipality	10.25	-67	A	ADM2	VE		15	1510			0		573	America/Caracas	2023-03-20
+3640464	Municipio Guacara	Municipio Guacara	Guacara Municipality	10.27211	-67.89167	A	ADM2	VE		07	0804			0		575	America/Caracas	2023-05-18
+3640582	Municipio Gómez	Municipio Gomez	Gomez Municipality,Gómez Municipality	11.08333	-63.91667	A	ADM2	VE		17	1705			0		49	America/Caracas	2023-03-20
+3640595	Municipio Girardot	Municipio Girardot	Girardot Municipality	10.33908	-67.5774	A	ADM2	VE		04	0503			0		937	America/Caracas	2023-05-30
+3640596	Municipio Girardot	Municipio Girardot	Girardot Municipality	8.9	-68.25	A	ADM2	VE		08	0903			0		66	America/Caracas	2023-03-20
+3640668	Municipio García de Hevia	Municipio Garcia de Hevia	Garcia de Hevia Municipality,García de Hevia Municipality	8.33333	-72.25	A	ADM2	VE		20	2009			0		62	America/Caracas	2023-03-23
+3640848	Municipio Federación	Municipio Federacion	Federacion Municipality,Federación Municipality	10.83333	-69.41667	A	ADM2	VE		11	1110			0		587	America/Caracas	2023-03-23
+3640872	Municipio Tinaquillo	Municipio Tinaquillo	Falcon,Falcón,Municipio Falcon,Municipio Falcón,Tinaquillo Municipality	9.91667	-68.33333	A	ADM2	VE		08	0902			0		431	America/Caracas	2023-05-12
+3640874	Municipio Falcón	Municipio Falcon	Falcon Municipality,Falcón Municipality	11.83333	-70	A	ADM2	VE		11	1109			0		76	America/Caracas	2023-03-20
+3640879	Municipio Ezequiel Zamora	Municipio Ezequiel Zamora	Ezequiel Zamora Municipality	7.81287	-71.1763	A	ADM2	VE		05	0607			0		187	America/Caracas	2023-03-20
+3640903	Municipio Esteller	Municipio Esteller	Esteller Municipality	9.25	-69.25	A	ADM2	VE		18	1803			0		129	America/Caracas	2023-03-23
+3640955	Municipio Escuque	Municipio Escuque	Escuque Municipality	9.25	-70.75	A	ADM2	VE		21	2106			0		1205	America/Caracas	2023-03-23
+3644510	Municipio Díaz	Municipio Diaz	Diaz Municipality,Díaz Municipality	10.98012	-63.9793	A	ADM2	VE		17	1703			0		67	America/Caracas	2023-05-30
+3644540	Municipio Democracia	Municipio Democracia	Democracia Municipality	10.83333	-70.16667	A	ADM2	VE		11	1108			0		312	America/Caracas	2023-03-23
+3644938	Municipio Cristóbal Rojas	Municipio Cristobal Rojas	C. Rojas,Cristobal Rojas,Cristobal Rojas Municipality,Cristóbal Rojas,Cristóbal Rojas Municipality,Distrito Cristobal Rojas,Distrito Cristóbal Rojas,Municipio Cristobal Rojas,Municipio Cristóbal Rojas	10.26294	-66.83745	A	ADM2	VE		15	1508			0		367	America/Caracas	2023-03-22
+3644947	Municipio Crespo	Municipio Crespo	Crespo Municipality,Municipio Crespo	10.3	-69.16667	A	ADM2	VE		13	1302			0		781	America/Caracas	2023-03-23
+3645220	Municipio Córdoba	Municipio Cordoba	Cordoba Municipality,Córdoba Municipality	7.56667	-72.2	A	ADM2	VE		20	2006			0		527	America/Caracas	2023-03-23
+3645361	Municipio Colón	Municipio Colon	Colon Municipality,Colón Municipality	9	-72.08333	A	ADM2	VE		23	2305			0		0	America/Caracas	2023-03-23
+3645374	Municipio Colina	Municipio Colina	Colina Municipality	11.28333	-69.41667	A	ADM2	VE		11	1106			0		270	America/Caracas	2023-03-23
+3646104	Municipio Cedeño	Municipio Cedeno	Cedeno Municipality,Cedeño Municipality	9.83333	-63.75	A	ADM2	VE		16	1605			0		244	America/Caracas	2023-03-23
+3646105	Municipio Cedeño	Municipio Cedeno	Cedeno Municipality,Cedeño Municipality	6.5	-66	A	ADM2	VE		06	0702			0		193	America/Caracas	2023-03-23
+3646491	Municipio Caroní	Municipio Caroni	Caroni Municipality,Caroní Municipality	8.11667	-62.8	A	ADM2	VE		06	0701			0		72	America/Caracas	2023-03-23
+3646514	Municipio Carlos Arvelo	Municipio Carlos Arvelo	Arvelo,Carlos Arvelo,Carlos Arvelo Municipality,Distrito Carlos Arvelo,Municipio Carlos Arvelo	9.99525	-67.73394	A	ADM2	VE		07	0802			0		859	America/Caracas	2023-03-22
+3646527	Municipio Carirubana	Municipio Carirubana	Carirubana Municipality	11.71667	-70	A	ADM2	VE		11	1105			0		38	America/Caracas	2023-03-23
+3646536	Municipio Caripe	Municipio Caripe	Caripe,Caripe Municipality,Municipio Caripe	10.16667	-63.41667	A	ADM2	VE		16	1604			0		1020	America/Caracas	2023-03-28
+3646610	Municipio Cárdenas	Municipio Cardenas	Cardenas Municipality,Cárdenas Municipality	7.83333	-72.11667	A	ADM2	VE		20	2005			0		2286	America/Caracas	2023-03-23
+3646730	Municipio Carache	Municipio Carache	Carache,Municipio Carache	9.66667	-70.33333	A	ADM2	VE		21	2105			0		759	America/Caracas	2012-10-23
+3647193	Municipio Campo Elías	Municipio Campo Elias	Campo Elias Municipality,Campo Elías Municipality	8.45	-71.28333	A	ADM2	VE		14	1406			0		2185	America/Caracas	2023-03-21
+3647886	Municipio Buchivacoa	Municipio Buchivacoa	Buchivacoa Municipality	10.91667	-70.75	A	ADM2	VE		11	1103			0		105	America/Caracas	2023-03-21
+3647929	Municipio Bruzual	Municipio Bruzual	Bruzual Municipality	10.16667	-68.88333	A	ADM2	VE		22	2203			0		295	America/Caracas	2023-03-21
+3647945	Municipio Brión	Municipio Brion	Brion Municipality,Brión Municipality,Municipio Brion,Municipio Brión	10.41667	-66.16667	A	ADM2	VE		15	1504			0		57	America/Caracas	2023-03-22
+3648107	Municipio Bolívar	Municipio Bolivar	Bolivar Municipality,Bolívar Municipality	11.11988	-69.68559	A	ADM2	VE		11	1102			0		736	America/Caracas	2023-03-21
+3648108	Municipio Bolívar	Municipio Bolivar	Bolivar Municipality,Bolívar Municipality	10.5	-68.91667	A	ADM2	VE		22	2202			0		163	America/Caracas	2023-03-21
+3648111	Municipio Bolívar	Municipio Bolivar	Bolivar Municipality,Bolívar Municipality	10.04932	-63.13225	A	ADM2	VE		16	1603			0		116	America/Caracas	2023-03-23
+3648112	Municipio Bolívar	Municipio Bolivar	Bolivar Municipality,Bolívar Municipality	8.75988	-70.41447	A	ADM2	VE		05	0605			0		546	America/Caracas	2023-03-21
+3648113	Municipio Bolívar	Municipio Bolivar	Bolivar Municipality,Bolívar Municipality	7.83333	-72.41667	A	ADM2	VE		20	2004			0		866	America/Caracas	2023-03-22
+3648130	Municipio Boconó	Municipio Bocono	Municipio Bocono,Municipio Boconó	9.25	-70.25	A	ADM2	VE		21	2102			0		1418	America/Caracas	2012-10-22
+3648300	Municipio Bermúdez	Municipio Bermudez	Bermudez Municipality,Bermúdez Municipality,Municipio Bermudez,Municipio Bermúdez	10.66667	-63.25	A	ADM2	VE		19	1905			0		11	America/Caracas	2023-03-21
+3648316	Municipio Benítez	Municipio Benitez	Benitez Municipality,Benítez Municipality,Municipio Benitez,Municipio Benítez	10.27	-62.875	A	ADM2	VE		19	1904			0		24	America/Caracas	2023-03-23
+3648385	Municipio Bejuma	Municipio Bejuma	Bejuma Municipality	10.25	-68.2	A	ADM2	VE		07	0801			0		729	America/Caracas	2023-03-21
+3648545	Municipio Barinas	Municipio Barinas	Barinas Municipality	8.61497	-70.19852	A	ADM2	VE		05	0604			771756		180	America/Caracas	2023-03-21
+3648586	Municipio Baralt	Municipio Baralt	Baralt Municipality	9.83333	-70.91667	A	ADM2	VE		23	2302			0		45	America/Caracas	2023-03-23
+3648740	Municipio Ayacucho	Municipio Ayacucho	Ayacucho Municipality	8.08333	-72.25	A	ADM2	VE		20	2003			0		461	America/Caracas	2023-03-21
+3648789	Municipio Autónomo Atures	Municipio Autonomo Atures	Atures Municipality	5.69252	-67.34619	A	ADM2	VE		01	0203			0		156	America/Caracas	2023-03-21
+3648813	Municipio Autónomo Atabapo	Municipio Autonomo Atabapo	Atabapo Municipality	4.09441	-66.57715	A	ADM2	VE		01	0202			0		114	America/Caracas	2023-03-21
+3648827	Municipio Arzobispo Chacón	Municipio Arzobispo Chacon	Arzobispo Chacon Municipality,Arzobispo Chacón Municipality	8.03333	-71.41667	A	ADM2	VE		14	1405			0		1336	America/Caracas	2023-03-21
+3648881	Municipio Arismendi	Municipio Arismendi	Arismendi Municipality	11.05291	-63.84911	A	ADM2	VE		17	1702			0		147	America/Caracas	2023-03-21
+3648882	Municipio Arismendi	Municipio Arismendi	Arismendi Municipality,Municipio Arismendi	10.7	-62.58333	A	ADM2	VE		19	1903			0		824	America/Caracas	2023-03-21
+3648883	Municipio Arismendi	Municipio Arismendi	Arismendi Municipality	8.47594	-68.36895	A	ADM2	VE		05	0603			0		67	America/Caracas	2023-03-21
+3649016	Municipio Araure	Municipio Araure	Araure Municipality	9.63333	-69.16667	A	ADM2	VE		18	1802			0		191	America/Caracas	2023-03-23
+3649111	Municipio Aragua	Municipio Aragua	Aragua Municipality	9.31667	-64.9	A	ADM2	VE		02	0302			0		92	America/Caracas	2023-03-21
+3649199	Municipio Anzoátegui	Municipio Anzoategui	Anzoategui Municipality,Anzoátegui Municipality	9.58333	-68.86667	A	ADM2	VE		08	0901			0		129	America/Caracas	2023-03-21
+3649210	Municipio Antonio Díaz	Municipio Antonio Diaz	Amacuro,Departamento Antonio Diaz,Departamento Antonio Díaz	8.5	-60.83333	A	ADM2	VE		09	1001			0		14	America/Caracas	2015-02-28
+3649248	Municipio Andrés Eloy Blanco	Municipio Andres Eloy Blanco	Andres Eloy Blanco Municipality,Andrés Eloy Blanco Municipality,Municipio Andres Eloy Blanco,Municipio Andrés Eloy Blanco	10.55	-63.41667	A	ADM2	VE		19	1901			0		115	America/Caracas	2023-03-22
+3649249	Municipio Andrés Bello	Municipio Andres Bello	Andres Bello Municipality,Andrés Bello Municipality,Municipio Andres Bello,Municipio Andrés Bello	8.75849	-71.4237	A	ADM2	VE		14	1402			0		909	America/Caracas	2023-05-18
+3649281	Municipio Anaco	Municipio Anaco	Anaco Municipality	9.33333	-64.46667	A	ADM2	VE		02	0301			0		181	America/Caracas	2023-03-21
+3649500	Municipio Alberto Adriani	Municipio Alberto Adriani	Alberto Adriani Municipality	8.60861	-71.76556	A	ADM2	VE		14	1401			0		52	America/Caracas	2023-03-21
+3649798	Municipio Acosta	Municipio Acosta	Acosta Municipality	11.17332	-68.53895	A	ADM2	VE		11	1101			0		27	America/Caracas	2023-05-30
+3649799	Municipio Acosta	Municipio Acosta	Acosta Municipality	10.1	-63.75	A	ADM2	VE		16	1601			0		773	America/Caracas	2023-03-23
+3649809	Municipio Achaguas	Municipio Achaguas	Achaguas Municipality	7.25	-68.41667	A	ADM2	VE		03	0401			0		67	America/Caracas	2023-03-21
+3649812	Municipio Acevedo	Municipio Acevedo	Acevedo Municipality	10.25	-66.33333	A	ADM2	VE		15	1501			0		114	America/Caracas	2023-03-21
+8129028	Municipio Autónomo Alto Orinoco	Municipio Autonomo Alto Orinoco	Alto Orinoco Municipality	2.73456	-64.83032	A	ADM2	VE		01	0201			14222		164	America/Caracas	2023-03-22
+8129029	Municipio Autónomo Autana	Municipio Autonomo Autana	Autana Municipality	5.01434	-67.24731	A	ADM2	VE		01	0204			0		749	America/Caracas	2023-03-23
+8129030	Municipio Autónomo Manapiare	Municipio Autonomo Manapiare	Manapiare,Manapiare Municipality,Municipio Autonomo Manapiare,Municipio Autónomo Manapiare	5.07453	-65.54443	A	ADM2	VE		01	0206			0		256	America/Caracas	2023-03-22
+8129031	Municipio Autónomo Maroa	Municipio Autonomo Maroa	Autonomo Maroa Municipality,Autónomo Maroa Municipality	2.70164	-66.78589	A	ADM2	VE		01	0205			0		101	America/Caracas	2023-03-23
+8129149	Municipio Santos Michelena	Municipio Santos Michelena	Municipio Santos Michelena,Santos Michelena Municipality	10.25237	-67.18472	A	ADM2	VE		04	0512			0		490	America/Caracas	2023-03-22
+8129150	Municipio Andrés Eloy Blanco	Municipio Andres Eloy Blanco	Andres Eloy Blanco Municipality,Andrés Eloy Blanco Municipality	7.47729	-71.2956	A	ADM2	VE		05	0612			0		158	America/Caracas	2023-03-22
+8129151	Municipio Gran Sabana	Municipio Gran Sabana	Gran Sabana Municipality,Municipio Gran Sabana	4.61667	-61.13333	A	ADM2	VE		06	0704			0		950	America/Caracas	2023-03-22
+8129152	Municipio San Joaquín	Municipio San Joaquin	San Joaquin Municipality,San Joaquín Municipality	10.29139	-67.78056	A	ADM2	VE		07	0813			0		687	America/Caracas	2023-03-29
+8129153	Municipio Tocópero	Municipio Tocopero	Municipio Tocopero,Municipio Tocópero,Tocopero Municipality,Tocópero Municipality	11.49897	-69.25892	A	ADM2	VE		11	1122			0		166	America/Caracas	2023-03-28
+8129154	Municipio Píritu	Municipio Piritu	Piritu Municipality,Píritu Municipality	11.37389	-69.13722	A	ADM2	VE		11	1118			0		140	America/Caracas	2023-03-28
+8129155	Municipio Bolívar	Municipio Bolivar	Bolivar Municipality,Bolívar Municipality	10.44716	-63.90449	A	ADM2	VE		19	1906			0		12	America/Caracas	2023-03-28
+8129156	Municipio García	Municipio Garcia	Garcia Municipality,García Municipality	10.98283	-63.8831	A	ADM2	VE		17	1704			0		61	America/Caracas	2023-03-22
+8129157	Municipio Santa Rosalía	Municipio Santa Rosalia	Santa Rosalia Municipality,Santa Rosalía Municipality	9.09857	-69.04914	A	ADM2	VE		18	1812			0		100	America/Caracas	2023-03-29
+8129158	Municipio Monseñor José Vicente de Unda	Municipio Monsenor Jose Vicente de Unda	Monsenor Jose Vicente de Unda Municipality,Monseñor José Vicente de Unda Municipality	9.43365	-69.94754	A	ADM2	VE		18	1806			0		641	America/Caracas	2023-03-22
+8129159	Municipio Antonio José de Sucre	Municipio Antonio Jose de Sucre	Antonio Jose de Sucre Municipality,Antonio José de Sucre Municipality	8.23062	-70.82198	A	ADM2	VE		05	0602			0		240	America/Caracas	2023-03-22
+8129160	Municipio Santa María de Ipire	Municipio Santa Maria de Ipire	Santa Maria de Ipire Municipality,Santa María de Ipire Municipality	8.81556	-65.3225	A	ADM2	VE		12	1214			0		129	America/Caracas	2023-03-22
+8129161	Municipio Padre Noguera	Municipio Padre Noguera	Padre Noguera Municipality	7.71412	-71.46466	A	ADM2	VE		14	1415			0		206	America/Caracas	2023-03-22
+8129162	Municipio Simón Rodríguez	Municipio Simon Rodriguez	Simon Rodriguez Municipality,Simón Rodríguez Municipality	8.35078	-71.85028	A	ADM2	VE		20	2025			0		1037	America/Caracas	2023-03-22
+8129163	Municipio Papelón	Municipio Papelon	Papelon Municipality,Papelón Municipality	8.94109	-69.46021	A	ADM2	VE		18	1809			0		109	America/Caracas	2023-03-28
+8129164	Municipio Pampán	Municipio Pampan	Pampan Municipality,Pampán Municipality	9.44475	-70.47759	A	ADM2	VE		21	2113			0		468	America/Caracas	2023-03-28
+8129165	Municipio Fernando de Peñalver	Municipio Fernando de Penalver	Fernando de Penalver Municipality,Fernando de Peñalver Municipality,Municipio Fernando de Penalver,Municipio Fernando de Peñalver	10.0613	-65.04207	A	ADM2	VE		02	0303			0		24	America/Caracas	2023-03-22
+8129166	Municipio Píritu	Municipio Piritu	Piritu Municipality,Píritu Municipality	10.03891	-65.02975	A	ADM2	VE		02	0314			0		84	America/Caracas	2023-03-22
+8129167	Municipio Francisco de Miranda	Municipio Francisco de Miranda	Francisco de Miranda Municipality	8.84357	-64.71053	A	ADM2	VE		02	0305			0		276	America/Caracas	2023-03-22
+8129168	Municipio Motatán	Municipio Motatan	Motatan Municipality,Motatán Municipality	9.39002	-70.59119	A	ADM2	VE		21	2112			0		319	America/Caracas	2023-03-28
+8129169	Municipio Camaguán	Municipio Camaguan	Camaguan Municipality,Camaguán Municipality	8.10655	-67.60724	A	ADM2	VE		12	1201			0		60	America/Caracas	2023-03-28
+8129170	Municipio San José de Guaribe	Municipio San Jose de Guaribe	San Jose de Guaribe Municipality,San José de Guaribe Municipality	9.86025	-65.81306	A	ADM2	VE		12	1213			0		227	America/Caracas	2023-03-29
+8129171	Municipio Turistico Diego Bautista Urbaneja	Municipio Turistico Diego Bautista Urbaneja	Diego Bautista Urbaneja Municipality	10.19769	-64.69407	A	ADM2	VE		02	0321			0		9	America/Caracas	2023-03-22
+8129172	Municipio Juan José Mora	Municipio Juan Jose Mora	Juan Jose Mora Municipality,Juan José Mora Municipality	10.48889	-68.20028	A	ADM2	VE		07	0805			0		15	America/Caracas	2023-03-22
+8129173	Municipio Juan Vicente Campo Elías	Municipio Juan Vicente Campo Elias		9.39347	-70.06035	A	ADM2	VE		21	2108			0		1055	America/Caracas	2012-01-03
+8129174	Municipio Francisco de Miranda	Municipio Francisco de Miranda	Francisco de Miranda Municipality	7.91139	-71.97194	A	ADM2	VE		20	2008			0		1437	America/Caracas	2023-03-28
+8129175	Municipio Sucre	Municipio Sucre	Sucre Municipality	10.47226	-66.80155	A	ADM2	VE		15	1519			0		897	America/Caracas	2023-03-22
+8129176	Municipio José Rafael Revenga	Municipio Jose Rafael Revenga	Jose Rafael Revenga Municipality,José Rafael Revenga Municipality	10.23717	-67.27141	A	ADM2	VE		04	0506			0		560	America/Caracas	2023-03-22
+8129177	Municipio Dabajuro	Municipio Dabajuro		11.02273	-70.67769	A	ADM2	VE		11	1107			0		93	America/Caracas	2012-01-03
+8129178	Municipio Chacao	Municipio Chacao	Chacao Municipality	10.49598	-66.85347	A	ADM2	VE		15	1507			0		887	America/Caracas	2023-03-22
+8129179	Municipio Leonardo Infante	Municipio Leonardo Infante	Leonardo Infante Municipality	9.21554	-66.00734	A	ADM2	VE		12	1205			0		189	America/Caracas	2023-03-28
+8129180	Municipio Francisco del Carmen Carvajal	Municipio Francisco del Carmen Carvajal	Francisco del Carmen Carvajal Municipality	9.90999	-65.67405	A	ADM2	VE		02	0304			0		281	America/Caracas	2023-03-22
+8129181	Municipio Urumaco	Municipio Urumaco	Urumaco Municipality	11.19913	-70.25499	A	ADM2	VE		11	1124			0		66	America/Caracas	2023-03-28
+8129182	Municipio Santos Marquina	Municipio Santos Marquina	Municipio Santos Marquina,Santos Marquina Municipality	8.6311	-71.07843	A	ADM2	VE		14	1419			0		1687	America/Caracas	2023-03-28
+8129183	Municipio Simón Planas	Municipio Simon Planas	Municipio Simon Planas,Municipio Simón Planas,Simon Planas Municipality,Simón Planas Municipality	9.78129	-69.1633	A	ADM2	VE		13	1307			0		269	America/Caracas	2023-03-22
+8129184	Municipio San Rafael de Onoto	Municipio San Rafael de Onoto	San Rafael de Onoto Municipality	9.67742	-68.97344	A	ADM2	VE		18	1811			0		161	America/Caracas	2023-03-28
+8129185	Municipio Juan Germán Roscio	Municipio Juan German Roscio	Juan German Roscio Municipality,Juan Germán Roscio Municipality	9.91152	-67.35381	A	ADM2	VE		12	1212			0		433	America/Caracas	2023-03-29
+8129186	Municipio Simón Bolívar	Municipio Simon Bolivar	Simon Bolivar Municipality,Simón Bolívar Municipality	10.17793	-66.74649	A	ADM2	VE		15	1518			0		170	America/Caracas	2023-03-22
+8129187	Municipio Juan Antonio Sotillo	Municipio Juan Antonio Sotillo	Juan Antonio Sotillo Municipality,Municipio Juan Antonio Sotillo	10.21667	-64.61667	A	ADM2	VE		02	0308			0		27	America/Caracas	2023-03-22
+8129188	Municipio Buroz	Municipio Buroz	Buroz Municipality	10.36461	-66.13044	A	ADM2	VE		15	1505			0		29	America/Caracas	2023-03-22
+8129189	Municipio Sucre	Municipio Sucre	Sucre Municipality	11.06395	-69.7131	A	ADM2	VE		11	1121			0		296	America/Caracas	2023-03-22
+8129190	Municipio Pao de San Juan Bautista	Municipio Pao de San Juan Bautista	Pao de San Juan Bautista Municipality	9.63752	-68.12884	A	ADM2	VE		08	0905			0		142	America/Caracas	2023-03-22
+8129191	Municipio Chaguaramas	Municipio Chaguaramas		9.33855	-66.25255	A	ADM2	VE		12	1202			0		183	America/Caracas	2015-02-28
+8129192	Municipio Cruz Salmerón Acosta	Municipio Cruz Salmeron Acosta	Cruz Salmeron Acosta Municipality,Cruz Salmerón Acosta Municipality,Municipio Cruz Salmeron Acosta,Municipio Cruz Salmerón Acosta	10.57973	-64.25826	A	ADM2	VE		19	1908			0		15	America/Caracas	2012-11-05
+8129193	Municipio Agua Blanca	Municipio Agua Blanca	Agua Blanca Municipality	9.66146	-69.10752	A	ADM2	VE		18	1801			0		181	America/Caracas	2023-03-23
+8129194	Municipio Miranda	Municipio Miranda	Miranda Municipality	9.47447	-70.73385	A	ADM2	VE		21	2110			0		146	America/Caracas	2023-03-24
+8129195	Municipio Sucre	Municipio Sucre	Sucre Municipality	9.43399	-70.77341	A	ADM2	VE		21	2117			0		111	America/Caracas	2023-03-24
+8129196	Municipio Simón Bolívar	Municipio Simon Bolivar	Simon Bolivar Municipality,Simón Bolívar Municipality	10.25838	-71.36865	A	ADM2	VE		23	2319			0		-4	America/Caracas	2023-03-24
+8129197	Municipio La Cañada de Urdaneta	Municipio La Canada de Urdaneta	La Canada de Urdaneta  Municipality,La Cañada de Urdaneta  Municipality	10.478	-71.99477	A	ADM2	VE		23	2309			0		118	America/Caracas	2023-05-20
+8129198	Municipio Machiques de Perijá	Municipio Machiques de Perija	Municipio Machiques de Perija,Municipio Machiques de Perijá	10.06444	-72.545	A	ADM2	VE		23	2311			0		96	America/Caracas	2023-03-24
+8129199	Municipio Cabimas	Municipio Cabimas	Cabimas Municipality	10.36667	-71.4	A	ADM2	VE		23	2303			0		15	America/Caracas	2023-03-24
+8129200	Municipio José Tadeo Monagas	Municipio Jose Tadeo Monagas	Jose Tadeo Monagas Municipality,José Tadeo Monagas Municipality	9.86005	-66.38139	A	ADM2	VE		12	1209			0		352	America/Caracas	2023-03-22
+8129201	Municipio El Hatillo	Municipio El Hatillo	El Hatillo,El Hatillo Municipality,Pueblo El Hatillo	10.42994	-66.8161	A	ADM2	VE		15	1509			0		1356	America/Caracas	2023-03-22
+8129202	Municipio José Félix Ribas	Municipio Jose Felix Ribas	Jose Felix Ribas Municipality,José Félix Ribas Municipality,Municipio Jose Felix Ribas,Municipio José Félix Ribas	10.21844	-67.33017	A	ADM2	VE		04	0505			0		566	America/Caracas	2023-03-22
+8129203	Municipio Peña	Municipio Pena	Pena Muncipality,Peña Muncipality	10.08	-69.12611	A	ADM2	VE		22	2210			0		381	America/Caracas	2023-03-24
+8129204	Municipio Los Salias	Municipio Los Salias	Los Salias Municipality	10.38853	-66.95179	A	ADM2	VE		15	1513			0		1396	America/Caracas	2023-03-22
+8129205	Municipio Santiago Mariño	Municipio Santiago Marino	Municipio Santiago Marino,Municipio Santiago Mariño,Santiago Marino,Santiago Marino Municipality,Santiago Mariño,Santiago Mariño Municipality	10.22388	-67.47288	A	ADM2	VE		04	0511			0		470	America/Caracas	2023-03-29
+8129206	Municipio Bolívar	Municipio Bolivar	Bolivar Municipality,Bolívar Municipality	10.21302	-67.42365	A	ADM2	VE		04	0501			0		497	America/Caracas	2023-03-22
+8129207	Municipio Ezequiel Zamora	Municipio Ezequiel Zamora	Ezequiel Zamora Municipality	9.69131	-63.60921	A	ADM2	VE		16	1606			0		246	America/Caracas	2023-03-24
+8129208	Municipio Ortiz	Municipio Ortiz	Ortiz Municipality	9.62168	-67.29047	A	ADM2	VE		12	1210			0		188	America/Caracas	2023-03-22
+8129209	Municipio Lagunillas	Municipio Lagunillas	Lagunillas Municipality	10.19635	-71.30818	A	ADM2	VE		23	2310			0		3	America/Caracas	2023-03-22
+8129210	Municipio San Juan de Capistrano	Municipio San Juan de Capistrano	Municipio San Juan de Capistrano,San Juan de Capistrano Municipality	10.13152	-65.42115	A	ADM2	VE		02	0316			0		4	America/Caracas	2023-03-22
+8129211	Municipio Biruaca	Municipio Biruaca	Biruaca Municipality	7.84483	-67.51679	A	ADM2	VE		03	0402			0		51	America/Caracas	2023-03-22
+8129212	Municipio Aguasay	Municipio Aguasay	Aguasay Municipality	9.42489	-63.73077	A	ADM2	VE		16	1602			0		218	America/Caracas	2023-03-24
+8129213	Municipio José Gregorio Monagas	Municipio Jose Gregorio Monagas	Jose Gregorio Monagas Municipality,José Gregorio Monagas Municipality	7.73874	-64.71876	A	ADM2	VE		02	0310			0		55	America/Caracas	2023-03-22
+8129214	Municipio El Callao	Municipio El Callao	El Callao Municipality	7.33326	-61.82874	A	ADM2	VE		06	0703			0		243	America/Caracas	2023-03-22
+8129215	Municipio Zea	Municipio Zea	Zea Municipality	8.37628	-71.78185	A	ADM2	VE		14	1423			0		900	America/Caracas	2023-03-24
+8129216	Municipio Jacura	Municipio Jacura	Jacura Municipality	11.07417	-68.85604	A	ADM2	VE		11	1111			0		285	America/Caracas	2023-03-24
+8129217	Municipio Catatumbo	Municipio Catatumbo	Catatumbo Municipality	9.06085	-72.23413	A	ADM2	VE		23	2304			0		7	America/Caracas	2023-03-24
+8129218	Municipio Sifontes	Municipio Sifontes	Sifontes Municipality	7.24809	-61.53151	A	ADM2	VE		06	0709			0		170	America/Caracas	2023-03-22
+8129219	Municipio Manuel Monge	Municipio Manuel Monge	Manuel Monge Municipality	10.59732	-68.67245	A	ADM2	VE		22	2208			0		64	America/Caracas	2023-03-22
+8129220	Municipio Cacique Manaure	Municipio Cacique Manaure	Cacique Manaure Municipality	10.97099	-68.54435	A	ADM2	VE		11	1104			0		35	America/Caracas	2023-03-24
+8129221	Municipio Cajigal	Municipio Cajigal	Cajigal Municipality	10.56916	-62.82693	A	ADM2	VE		19	1907			0		16	America/Caracas	2023-03-22
+8129222	Municipio Uracoa	Municipio Uracoa	Municipio Uracoa,Uracoa Municipality	8.9996	-62.35164	A	ADM2	VE		16	1613			0		9	America/Caracas	2023-05-18
+8129223	Municipio Seboruco	Municipio Seboruco	Seboruco Municipality	8.14712	-72.06385	A	ADM2	VE		20	2024			0		873	America/Caracas	2023-03-25
+8129224	Municipio Andrés Bello	Municipio Andres Bello	Andres Bello Municipality,Andrés Bello Municipality	9.63217	-70.80759	A	ADM2	VE		21	2101			0		30	America/Caracas	2023-03-25
+8129225	Municipio Obispo Ramos de Lora	Municipio Obispo Ramos de Lora	Obispo Ramos de Lora Municipality	8.81924	-71.46564	A	ADM2	VE		14	1414			0		59	America/Caracas	2023-03-22
+8129226	Municipio José Angel Lamas	Municipio Jose Angel Lamas	Jose Angel Lamas Municipality,José Angel Lamas Municipality	10.18	-67.51184	A	ADM2	VE		04	0504			0		450	America/Caracas	2023-03-22
+8129227	Municipio Arístides Bastidas	Municipio Aristides Bastidas	Aristides Bastidas Municipality,Arístides Bastidas Municipality	10.24828	-68.84451	A	ADM2	VE		22	2201			0		349	America/Caracas	2023-03-22
+8129228	Municipio Andrés Eloy Blanco	Municipio Andres Eloy Blanco	Andres Eloy Blanco Municipality,Andrés Eloy Blanco Municipality	9.75145	-69.65318	A	ADM2	VE		13	1301			0		1346	America/Caracas	2023-03-22
+8129229	Municipio Alberto Arvelo Torrealba	Municipio Alberto Arvelo Torrealba	Alberto Arvelo Torrealba Municipality	8.75326	-69.93516	A	ADM2	VE		05	0601			0		147	America/Caracas	2023-03-22
+8129230	Municipio José Antonio Páez	Municipio Jose Antonio Paez	Jose Antonio Paez Municipality,José Antonio Páez Municipality	10.12111	-69.03639	A	ADM2	VE		22	2206			0		416	America/Caracas	2023-03-22
+8129231	Municipio Pueblo Llano	Municipio Pueblo Llano	Pueblo Llano Municipality	8.91485	-70.65919	A	ADM2	VE		14	1416			0		2161	America/Caracas	2023-03-22
+8129232	Municipio Pedernales	Municipio Pedernales	Pedernales Municipality	9.96982	-62.25408	A	ADM2	VE		09	1003			0		5	America/Caracas	2023-03-22
+8129233	Municipio Guásimos	Municipio Guasimos	Guasimos Municipality,Guásimos Municipality	7.83607	-72.22758	A	ADM2	VE		20	2010			0		1094	America/Caracas	2023-03-25
+8129234	Municipio Juan Manuel Cajigal	Municipio Juan Manuel Cajigal	Juan Manuel Cajigal Municipality	9.59714	-65.1935	A	ADM2	VE		02	0309			0		28	America/Caracas	2023-03-22
+8129235	Municipio Ocumare de La Costa de Oro	Municipio Ocumare de La Costa de Oro	Mun. Costa de Oro,Municipio Ocumare de La Costa de Oro,Ocumare de la Costa de Oro Municipality	10.46127	-67.76872	A	ADM2	VE		04	0518			0		15	America/Caracas	2023-03-22
+8129236	Municipio Tulio Febres Cordero	Municipio Tulio Febres Cordero	Tulio Febres Cordero Municipality	9.14176	-71.0912	A	ADM2	VE		14	1422			0		71	America/Caracas	2023-03-25
+8129237	Municipio Libertador	Municipio Libertador	Libertador Municipality	10.17389	-67.54194	A	ADM2	VE		04	0507			0		437	America/Caracas	2023-03-22
+8129238	Municipio San Francisco	Municipio San Francisco	San Francisco Municipality	11.1602	-68.72604	A	ADM2	VE		11	1119			0		166	America/Caracas	2023-03-25
+8129239	Municipio Monte Carmelo	Municipio Monte Carmelo	Monte Carmelo Municipality	9.18583	-70.81561	A	ADM2	VE		21	2111			0		941	America/Caracas	2023-03-25
+8129240	Municipio Miranda	Municipio Miranda	Miranda Municipality	10.14987	-68.39418	A	ADM2	VE		07	0808			0		626	America/Caracas	2023-03-25
+8129241	Municipio Diego Ibarra	Municipio Diego Ibarra	Diego Ibarra Municipality	10.29644	-67.71813	A	ADM2	VE		07	0803			0		472	America/Caracas	2023-03-25
+8129242	Municipio Rómulo Gallegos	Municipio Romulo Gallegos	Romulo Gallegos Municipality,Rómulo Gallegos Municipality	9.53727	-68.6296	A	ADM2	VE		08	0907			0		120	America/Caracas	2023-03-25
+8129243	Municipio Guaraque	Municipio Guaraque	Guaraque Municipality	8.15347	-71.73563	A	ADM2	VE		14	1409			0		1557	America/Caracas	2023-03-25
+8129244	Municipio Veroes	Municipio Veroes	Veroes Municipality	10.46967	-68.55857	A	ADM2	VE		22	2214			0		40	America/Caracas	2023-03-28
+8129245	Municipio Julián Mellado	Municipio Julian Mellado	Julian Mellado Municipality,Julián Mellado Municipality	9.3863	-67.05818	A	ADM2	VE		12	1207			0		163	America/Caracas	2023-03-28
+8129246	Bolivariano Angostura	Bolivariano Angostura	Angostura,Angostura Municipality,Bolivariano Angostura,Municipio Bolivariano Angostura,Municipio Raul Leoni,Municipio Raúl Leoni	7.49247	-63.26941	A	ADM2	VE		06	0707			0		287	America/Caracas	2018-08-11
+8129247	Municipio Cocorote	Municipio Cocorote	Cocorote Municipality	10.31978	-68.78386	A	ADM2	VE		22	2204			0		419	America/Caracas	2023-03-25
+8129248	Municipio Manuel Ezequiel Bruzual	Municipio Manuel Ezequiel Bruzual	Manuel Ezequiel Bruzual Municipality	9.93991	-65.16517	A	ADM2	VE		02	0312			0		29	America/Caracas	2023-03-22
+8129249	Municipio Monseñor Iturriza	Municipio Monsenor Iturriza	Monsenor Iturriza Municipality,Monseñor Iturriza Municipality,Municipio Monsenor Iturriza,Municipio Monseñor Iturriza	10.9333	-68.27716	A	ADM2	VE		11	1115			0		5	America/Caracas	2023-03-29
+8129250	Municipio Camatagua	Municipio Camatagua	Camatagua,Camatagua Municipality	9.78762	-66.90619	A	ADM2	VE		04	0502			0		250	America/Caracas	2023-03-25
+8129251	Municipio La Trinidad	Municipio La Trinidad	La Trinidad Municipality	10.24933	-68.7695	A	ADM2	VE		22	2207			0		211	America/Caracas	2023-03-25
+8129252	Municipio San Genaro de Boconoito	Municipio San Genaro de Boconoito	San Genaro de Boconoito Municipality	8.84659	-69.98032	A	ADM2	VE		18	1810			0		190	America/Caracas	2023-03-25
+8129253	Municipio Rafael Rangel	Municipio Rafael Rangel	Rafael Rangel Municipality	9.37568	-70.73131	A	ADM2	VE		21	2115			0		575	America/Caracas	2023-03-25
+8129254	Municipio Cruz Paredes	Municipio Cruz Paredes	Cruz Paredes Municipality	8.76868	-70.1122	A	ADM2	VE		05	0606			0		201	America/Caracas	2023-03-25
+8129255	Municipio Aricagua	Municipio Aricagua	Aricagua Municipality	8.22343	-71.13705	A	ADM2	VE		14	1404			0		932	America/Caracas	2023-03-25
+8129256	Municipio Libertador	Municipio Libertador	Libertador Municipality	10.49017	-66.87472	A	ADM2	VE		25	0101			0		870	America/Caracas	2023-03-29
+8129257	Municipio Rafael Urdaneta	Municipio Rafael Urdaneta	Rafael Urdaneta Municipality	7.56505	-72.44754	A	ADM2	VE		20	2021			0		1549	America/Caracas	2023-03-25
+8129258	Municipio Samuel Darío Maldonado	Municipio Samuel Dario Maldonado	Samuel Dario Maldonado Municipality,Samuel Darío Maldonado Municipality	8.50757	-71.83166	A	ADM2	VE		20	2022			0		145	America/Caracas	2023-03-28
+8129259	Municipio Julio César Salas	Municipio Julio Cesar Salas	Julio Cesar Salas Municipality,Julio César Salas Municipality	9.13745	-70.89203	A	ADM2	VE		14	1410			15300		1518	America/Caracas	2023-05-30
+8129260	Municipio Unión	Municipio Union	Union Municipality,Unión Municipality	10.81953	-69.27776	A	ADM2	VE		11	1123			0		844	America/Caracas	2023-03-28
+8129261	Municipio Pedro Zaraza	Municipio Pedro Zaraza	Pedro Zaraza Municipality	9.35029	-65.32452	A	ADM2	VE		12	1215			0		80	America/Caracas	2023-03-22
+8129262	Municipio Guanta	Municipio Guanta	Guanta Municipality	10.23448	-64.59552	A	ADM2	VE		02	0306			0		23	America/Caracas	2023-03-22
+8129263	Municipio San Judas Tadeo	Municipio San Judas Tadeo	San Judas Tadeo Municipality	8.26588	-72.06371	A	ADM2	VE		20	2029			0		557	America/Caracas	2023-03-28
+8129264	Municipio La Ceiba	Municipio La Ceiba	La Ceiba Municipality	9.47139	-71.01419	A	ADM2	VE		21	2109			0		6	America/Caracas	2023-03-28
+8129265	Municipio Jesús María Semprún	Municipio Jesus Maria Semprun	Jesus Maria Semprun Municipality,Jesús María Semprún Municipality	8.74493	-72.51967	A	ADM2	VE		23	2308			0		39	America/Caracas	2023-03-28
+8129266	Municipio Pedro María Freites	Municipio Pedro Maria Freites	Pedro Maria Freites Municipality,Pedro María Freites Municipality	9.30571	-64.35841	A	ADM2	VE		02	0313			0		263	America/Caracas	2023-03-23
+8129267	Municipio Lima Blanco	Municipio Lima Blanco	Lima Blanco Municipality	9.82602	-68.43899	A	ADM2	VE		08	0904			0		310	America/Caracas	2023-03-22
+8129268	Municipio Vargas	Municipio Vargas	Vargas Municipality	10.59901	-66.9346	A	ADM2	VE		26	2401			0		7	America/Caracas	2023-03-28
+8129269	Municipio Francisco de Miranda	Municipio Francisco de Miranda	Francisco de Miranda Municipality	8.92416	-67.42929	A	ADM2	VE		12	1208			0		103	America/Caracas	2023-03-28
+8131389	Municipio San José de Guanipa	Municipio San Jose de Guanipa	Guanipa Municipality	8.87998	-64.16102	A	ADM2	VE		02	0315			0		249	America/Caracas	2023-03-23
+8131390	Municipio Santa Ana	Municipio Santa Ana	Santa Ana Municipality	9.30578	-64.65398	A	ADM2	VE		02	0317			0		172	America/Caracas	2023-03-22
+8131391	Municipio Simón Bolívar	Municipio Simon Bolivar	Simon Bolivar Municipality,Simón Bolívar Municipality	10.14455	-64.67241	A	ADM2	VE		02	0318			0		8	America/Caracas	2023-03-22
+8131392	Municipio Sir Arthur Mc Gregor	Municipio Sir Arthur Mc Gregor	Municipio Sir Arthur McGregor,Sir Arthur McGregor Municipality	9.15227	-65.01537	A	ADM2	VE		02	0320			0		94	America/Caracas	2023-03-22
+8131393	Municipio Mario Briceño Iragorry	Municipio Mario Briceno Iragorry	Mario Briceno Iragorry Municipality,Mario Briceño Iragorry Municipality,Municipio Mario Briceno Iragorry,Municipio Mario Briceño Iragorry	10.30314	-67.6172	A	ADM2	VE		04	0508			0		601	America/Caracas	2023-03-22
+8131394	Municipio Tovar	Municipio Tovar	Tovar Municipality	10.40353	-67.2916	A	ADM2	VE		04	0514			0		1877	America/Caracas	2023-03-22
+8131395	Municipio Francisco Linares Alcántara	Municipio Francisco Linares Alcantara	Francisco Linares Alcantara Municipality,Francisco Linares Alcántara Municipality	10.20598	-67.53275	A	ADM2	VE		04	0517			0		588	America/Caracas	2023-05-18
+8131426	Municipio Padre Pedro Chien	Municipio Padre Pedro Chien	Padre Pedro Chien Municipality	8.02455	-61.88187	A	ADM2	VE		06	0711			15000		316	America/Caracas	2023-03-22
+8131427	Municipio Libertador	Municipio Libertador	Libertador Municipality	10.11444	-68.06556	A	ADM2	VE		07	0806			0		466	America/Caracas	2023-03-22
+8131428	Municipio Los Guayos	Municipio Los Guayos	Los Guayos Municipality	10.18341	-67.93636	A	ADM2	VE		07	0807			0		445	America/Caracas	2023-03-22
+8131429	Municipio Naguanagua	Municipio Naguanagua	Naguanagua Municipality	10.25648	-68.01893	A	ADM2	VE		07	0810			0		502	America/Caracas	2023-03-22
+8131430	Municipio San Diego	Municipio San Diego	Municipio San Diego,San Diego	10.25614	-67.95413	A	ADM2	VE		07	0812			0		470	America/Caracas	2015-02-28
+8131431	Municipio Casacoima	Municipio Casacoima	Casacoima Municipality	8.44011	-62.45968	A	ADM2	VE		09	1002			0		43	America/Caracas	2023-03-22
+8131432	Municipio Los Taques	Municipio Los Taques	Los Taques Municipality	11.82308	-70.25353	A	ADM2	VE		11	1112			0		29	America/Caracas	2023-03-28
+8131433	Municipio Palmasola	Municipio Palmasola	Palmasola Municipality	10.61243	-68.5339	A	ADM2	VE		11	1116			0		37	America/Caracas	2023-05-18
+8131434	Municipio El Socorro	Municipio El Socorro		8.9936	-65.74562	A	ADM2	VE		12	1203			0		117	America/Caracas	2015-02-28
+8131435	Municipio San Gerónimo de Guayabal	Municipio San Geronimo de Guayabal	San Geronimo de Guayabal Municipality,San Gerónimo de Guayabal Municipality	8.00076	-67.3994	A	ADM2	VE		12	1204			0		52	America/Caracas	2023-03-29
+8131436	Municipio Las Mercedes	Municipio Las Mercedes	Las Mercedes Municipality	9.10193	-66.39995	A	ADM2	VE		12	1206			0		163	America/Caracas	2023-03-22
+8131437	Municipio José Félix Ribas	Municipio Jose Felix Ribas	Jose Felix Ribas Municipality,José Félix Ribas Municipality	9.27681	-65.7712	A	ADM2	VE		12	1211			0		132	America/Caracas	2023-03-29
+8131438	Municipio Antonio Pinto Salinas	Municipio Antonio Pinto Salinas	Antonio Pinto Salinas Municipality	8.39613	-71.6427	A	ADM2	VE		14	1403			0		601	America/Caracas	2023-03-22
+8131439	Municipio Caracciolo Parra Olmedo	Municipio Caracciolo Parra Olmedo	Caracciolo Parra Olmedo Municipality	8.83518	-71.21214	A	ADM2	VE		14	1407			0		2105	America/Caracas	2023-05-30
+8131440	Municipio Cardenal Quintero	Municipio Cardenal Quintero	Cardenal Quintero Municipality	8.86158	-70.69282	A	ADM2	VE		14	1408			0		2113	America/Caracas	2023-03-22
+8131441	Municipio Andrés Bello	Municipio Andres Bello	Andres Bello Municipality,Andrés Bello Municipality	10.29735	-65.99556	A	ADM2	VE		15	1502			0		8	America/Caracas	2023-03-22
+8131442	Municipio Baruta	Municipio Baruta	Baruta Municipality	10.43346	-66.87541	A	ADM2	VE		15	1503			0		1011	America/Caracas	2023-03-22
+8131443	Municipio Carrizal	Municipio Carrizal	Carrizal Municipality	10.3514	-66.9936	A	ADM2	VE		15	1506			0		1278	America/Caracas	2023-03-22
+8131444	Municipio Pedro Gual	Municipio Pedro Gual	Municipio Pedro Gual,Pedro Gual Municipality	10.16103	-65.7009	A	ADM2	VE		15	1516			0		23	America/Caracas	2023-03-22
+8131445	Municipio Libertador	Municipio Libertador	Libertador Municipality	9.00716	-62.64216	A	ADM2	VE		16	1607			0		35	America/Caracas	2023-03-22
+8131446	Municipio Punceres	Municipio Punceres	Punceres Municipality	9.97798	-63.21928	A	ADM2	VE		16	1610			0		68	America/Caracas	2023-03-28
+8131447	Municipio Santa Bárbara	Municipio Santa Barbara	Santa Barbara Municipality,Santa Bárbara Municipality	9.60617	-63.60809	A	ADM2	VE		16	1611			0		201	America/Caracas	2023-03-28
+8131448	Municipio Antolín del Campo	Municipio Antolin del Campo	Antolin del Campo Municipality,Antolín del Campo Municipality	11.10758	-63.8564	A	ADM2	VE		17	1701			0		24	America/Caracas	2023-03-22
+8131449	Municipio Marcano	Municipio Marcano	Marcano Municipality	11.08307	-63.96412	A	ADM2	VE		17	1707			0		6	America/Caracas	2023-03-22
+8131450	Municipio Andrés Mata	Municipio Andres Mata	Andres Mata Municipality,Andrés Mata Municipality	10.59877	-63.32949	A	ADM2	VE		19	1902			0		185	America/Caracas	2023-03-22
+8131484	Municipio Valdez	Municipio Valdez	Valdez Municipality	10.57945	-62.30029	A	ADM2	VE		19	1915			33621		13	America/Caracas	2023-03-22
+8131485	Municipio Andrés Bello	Municipio Andres Bello	Andres Bello Municipality,Andrés Bello Municipality,Municipio Andres Bello,Municipio Andrés Bello	7.85628	-72.18249	A	ADM2	VE		20	2001			0		1132	America/Caracas	2023-03-29
+8131486	Municipio Antonio Rómulo Costa	Municipio Antonio Romulo Costa	Antonio Romulo Costa Municipality,Antonio Rómulo Costa Municipality	8.17003	-72.16541	A	ADM2	VE		20	2002			0		428	America/Caracas	2023-03-28
+8131487	Municipio Fernández Feo	Municipio Fernandez Feo	Pampanito Municipality	7.52877	-71.96011	A	ADM2	VE		20	2007			0		271	America/Caracas	2023-03-22
+8131488	Municipio Independencia	Municipio Independencia	Independencia Municipality	7.82665	-72.30618	A	ADM2	VE		20	2011			0		1235	America/Caracas	2023-03-28
+8131489	Municipio Libertad	Municipio Libertad	Libertad  Municipality	7.82716	-72.32197	A	ADM2	VE		20	2015			0		1283	America/Caracas	2023-03-28
+8131490	Municipio José María Vargas	Municipio Jose Maria Vargas	Jose Maria Vargas Municipality,José María Vargas Municipality,Municipio Jose Maria Vargas,Municipio José María Vargas	8.03514	-72.05675	A	ADM2	VE		20	2013			9325		1890	America/Caracas	2023-03-29
+8131491	Municipio Torbes	Municipio Torbes	Torbes Municipality	7.66149	-72.21039	A	ADM2	VE		20	2027			0		591	America/Caracas	2023-03-28
+8131492	Municipio Bolívar	Municipio Bolivar	Bolivar Municipality,Bolívar Municipality	9.40131	-70.79916	A	ADM2	VE		21	2103			0		105	America/Caracas	2023-03-28
+8131493	Municipio Candelaria	Municipio Candelaria	Candelaria Municipality	9.61818	-70.35713	A	ADM2	VE		21	2104			0		1000	America/Caracas	2023-03-28
+8131494	Municipio José Felipe Márquez Cañizales	Municipio Jose Felipe Marquez Canizales	Jose Felipe Marquez Canizales  Municipality,José Felipe Márquez Cañizales  Municipality	9.77115	-70.61445	A	ADM2	VE		21	2107			0		315	America/Caracas	2023-03-29
+8131505	Municipio Pampanito	Municipio Pampanito		9.41147	-70.49592	A	ADM2	VE		21	2114			22159		366	America/Caracas	2012-01-11
+8131506	Municipio San Rafael de Carvajal	Municipio San Rafael de Carvajal	San Rafael de Carvajal Municipality	9.30756	-70.58965	A	ADM2	VE		21	2116			70000		687	America/Caracas	2023-03-22
+8131510	Municipio Independencia	Municipio Independencia	Independencia Municipality	10.33472	-68.75555	A	ADM2	VE		22	2205			46191		340	America/Caracas	2023-03-22
+8131511	Municipio Almirante Padilla	Municipio Almirante Padilla	Almirante Padilla Municipality	10.954	-71.64906	A	ADM2	VE		23	2301			0		3	America/Caracas	2023-03-28
+8131512	Municipio Francisco Javier Pulgar	Municipio Francisco Javier Pulgar	Francisco Javier Pulgar Municipality	8.9635	-71.6173	A	ADM2	VE		23	2306			0		11	America/Caracas	2023-03-28
+8131513	Municipio Jesús Enrique Lossada	Municipio Jesus Enrique Lossada	Jesus Enrique Lossada Municipality,Jesús Enrique Lossada Municipality	10.62062	-71.83651	A	ADM2	VE		23	2307			0		73	America/Caracas	2023-03-28
+8131514	Municipio Rosario de Perijá	Municipio Rosario de Perija	Rosario de Perija Municipality,Rosario de Perijá Municipality	10.32573	-72.31441	A	ADM2	VE		23	2316			0		78	America/Caracas	2023-03-22
+8131515	Municipio San Francisco	Municipio San Francisco	San Francisco Municipality	10.55448	-71.70605	A	ADM2	VE		23	2317			0		51	America/Caracas	2023-03-22
+8131516	Municipio Santa Rita	Municipio Santa Rita	Santa Rita Municipality	10.53473	-71.50692	A	ADM2	VE		23	2318			0		17	America/Caracas	2023-03-28
+8131517	Municipio Valmore Rodríguez	Municipio Valmore Rodriguez	Valmore Rodriguez,Valmore Rodríguez	9.9702	-71.14729	A	ADM2	VE		23	2321			0		0	America/Caracas	2023-03-22

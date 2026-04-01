@@ -1,0 +1,723 @@
+﻿1566754	Tân Uyên	Tan Uyen	Tan Uyen,Tân Uyên,Xa Uyen-Hung,Xã Uyên-Hưng	11.06667	106.8	A	ADM2	VN		79	726			0		4	Asia/Ho_Chi_Minh	2025-07-29
+1574213	Xã Mỹ An Hưng	Xa My An Hung		10.4	105.61667	A	ADM2	VN		82	1574213			0		9	Asia/Ho_Chi_Minh	2025-11-06
+1577922	Xã Lai Vung	Xa Lai Vung	Sla Tamvun,Xa Lai Vung,Xã Lai Vung,village de Lai Vung	10.25	105.6	A	ADM2	VN		82	1577922			80649		1	Asia/Ho_Chi_Minh	2026-03-25
+1584012	Đam Rong	GJam Rong	GJam Rong District,Huyen GJam Rong,Huyện Đam Rông,Đam Rông District	12.05409	108.14941	A	ADM2	VN		68	674			30734		572	Asia/Ho_Chi_Minh	2025-07-29
+1904844	Huyện Thạnh Phú	Huyen Thanh Phu	Huyen Thanh Phu,Huyện Thạnh Phú,Thanh Phu District,Thạnh Phú District	9.92993	106.54316	A	ADM2	VN		86	837			127841		2	Asia/Ho_Chi_Minh	2025-10-22
+1904845	Huyện Mỏ Cày Nam	Huyen Mo Cay Nam	Huyen Mo Cay,Huyen Mo Cay Nam,Huyện Mỏ Cày,Huyện Mỏ Cày Nam,Mo Cay Nam District,Mỏ Cày Nam District	10.0697	106.36362	A	ADM2	VN		86	833			0		4	Asia/Ho_Chi_Minh	2025-07-29
+1904846	Huyện Chợ Lách	Huyen Cho Lach	Cho Lach District,Chợ Lách District,Huyen Cho Lach,Huyện Chợ Lách	10.22674	106.17077	A	ADM2	VN		86	832			111418		1	Asia/Ho_Chi_Minh	2025-10-22
+1904847	Huyện Châu Thành	Huyen Chau Thanh	Chau Thanh District,Châu Thành District,Huyen Chau Thanh,Huyen Chou Thanh,Huyện Châu Thành,Huyện Chợu Thành	10.29212	106.30827	A	ADM2	VN		86	831			167472		4	Asia/Ho_Chi_Minh	2025-07-29
+1904848	Huyện Giồng Trôm	Huyen Giong Trom	Giong Trom District,Giồng Trôm District,Huyen Giong Trom,Huyện Giồng Trôm	10.15909	106.47004	A	ADM2	VN		86	834			186719		2	Asia/Ho_Chi_Minh	2025-07-29
+1904849	Huyện Bình Đại	Huyen Binh GJai	Binh GJai District,Bình Đại District,Huyen Binh Dai,Huyện Bình Đại	10.19354	106.64455	A	ADM2	VN		86	835			137304		2	Asia/Ho_Chi_Minh	2025-10-22
+1904850	Huyện Ba Tri	Huyen Ba Tri	Ba Tri District,Huyen Ba Tri,Huyện Ba Tri	10.06266	106.59112	A	ADM2	VN		86	836			184734		1	Asia/Ho_Chi_Minh	2025-10-22
+1904851	Thành Phố Bến Tre	Thanh Pho Ben Tre	Thanh Pho Ben Tre,Thi Xa Ben Tre,Thành Phố Bến Tre,Thị Xã Bến Tre	10.23561	106.3783	A	ADM2	VN		86	829			0		6	Asia/Ho_Chi_Minh	2025-07-29
+1904852	Thành Phố Mỹ Tho	Thanh Pho My Tho	My Tho,Mỹ Tho,Thanh Pho My Tho,Thành Phố Mỹ Tho	10.36481	106.35545	A	ADM2	VN		82	815			270700		1	Asia/Ho_Chi_Minh	2025-10-22
+1904853	Thị Xã Gò Công	Thi Xa Go Cong	Go Cong,Thi Xa Go Cong,Thị Xã Gò Công	10.40671	106.67468	A	ADM2	VN		82	816			151937		1	Asia/Ho_Chi_Minh	2025-10-22
+1904855	Huyện Gò Công Đông	Huyen Go Cong GJong	Go Cong GJong District,Gò Công Đông District,Huyen Go Cong Dong,Huyện Gò Công Đông	10.35608	106.73144	A	ADM2	VN		82	824			191514		1	Asia/Ho_Chi_Minh	2025-07-29
+1904856	Huyện Gò Công Tây	Huyen Go Cong Tay	Go Cong Tay District,Gò Công Tây District,Huyen Go Cong Tay,Huyện Gò Công Tây	10.34527	106.59851	A	ADM2	VN		82	823			166487		2	Asia/Ho_Chi_Minh	2025-07-29
+1904857	Huyện Chợ Gạo	Huyen Cho Gao	Cho Gao,Chợ Gạo,Huyen Cho Gao,Huyện Chợ Gạo	10.37373	106.44341	A	ADM2	VN		82	822			185807		2	Asia/Ho_Chi_Minh	2025-07-29
+1904858	Huyện Châu Thành	Huyen Chau Thanh	Chau Thanh District,Châu Thành District,Huyen Chau Thanh,Huyen ChauThanh,Huyện Châu Thành,Huyện ChậuThành	10.41043	106.29166	A	ADM2	VN		82	821			652068		2	Asia/Ho_Chi_Minh	2025-07-29
+1904859	Huyện Tân Phước	Huyen Tan Phuoc	Huyen Tan Phuoc,Huyện Tân Phước,Tan Phuoc District,Tân Phước District	10.51489	106.23312	A	ADM2	VN		82	818			63032		2	Asia/Ho_Chi_Minh	2025-10-22
+1904860	Huyện Cai Lậy	Huyen Cai Lay	Cai Lay District,Cai Lậy District,Huyen Cai Lay,Huyện Cai Lậy	10.38943	106.06774	A	ADM2	VN		82	820			193328		4	Asia/Ho_Chi_Minh	2025-10-22
+1904861	Huyện Cái Bè	Huyen Cai Be	Cai Be District,Cái Bè District,Huyen Cai Be,Huyện Cái Bè,Huyện Cái Bé	10.38824	105.9462	A	ADM2	VN		82	819			291627		2	Asia/Ho_Chi_Minh	2025-10-22
+1904862	Thành Phố Tây Ninh	Thanh Pho Tay Ninh	Thanh Pho Tay Ninh,Thành Phố Tây Ninh	11.36136	106.12321	A	ADM2	VN		80	703			135254		31	Asia/Ho_Chi_Minh	2025-10-22
+1904863	Huyện Hòa Thành	Huyen Hoa Thanh	Hoa Thanh District,Huyen Hoa Thanh,Huyện Hòa Thành,Hòa Thành District	11.26706	106.14486	A	ADM2	VN		80	709			152339		12	Asia/Ho_Chi_Minh	2025-10-22
+1904864	Huyện Châu Thành	Huyen Chau Thanh	Chau Thanh District,Châu Thành District,Huyen Chau Thanh,Huyện Châu Thành	11.31569	105.9813	A	ADM2	VN		80	708			0		-1	Asia/Ho_Chi_Minh	2025-07-29
+1904865	Huyện Bến Cầu	Huyen Ben Cau	Ben Cau District,Bến Cầu District,Huyen Ben Cau,Huyện Bến Cầu	11.12889	106.14296	A	ADM2	VN		80	711			62664		7	Asia/Ho_Chi_Minh	2025-07-29
+1904866	Huyện Gò Dầu	Huyen Go Dau	Go Dau District,Gò Dầu District,Huyen Go Dau,Huyện Gò Dầu	11.15737	106.27307	A	ADM2	VN		80	710			140661		10	Asia/Ho_Chi_Minh	2025-10-22
+1904867	Huyện Trảng Bàng	Huyen Trang Bang	Huyen Trang Bang,Huyện Trảng Bàng,Trang Bang District,Trảng Bàng District	11.06176	106.34801	A	ADM2	VN		80	712			183385		15	Asia/Ho_Chi_Minh	2025-10-22
+1904868	Huyện Dương Minh Châu	Huyen Duong Minh Chau	Duong Minh Chau District,Dương Minh Châu District,Huyen Duong Minh Chau,Huyện Dương Minh Châu	11.35963	106.25973	A	ADM2	VN		80	707			99230		37	Asia/Ho_Chi_Minh	2025-07-29
+1904869	Huyện Tân Châu	Huyen Tan Chau	Huyen Tan Chau,Huyện Tân Châu,Tan Chau District,Tân Châu District	11.56125	106.24468	A	ADM2	VN		80	706			106264		48	Asia/Ho_Chi_Minh	2025-07-29
+1904870	Huyện Tân Biên	Huyen Tan Bien	Huyen Tan Bien,Huyện Tân Biên,Tan Bien District,Tân Biên District	11.55794	105.99847	A	ADM2	VN		80	705			0		14	Asia/Ho_Chi_Minh	2025-07-29
+1904873	Quận Một	Quan Mot	Quan 1,Quan Mot,Quận 1,Quận Một	10.77355	106.6942	A	ADM2	VN		79	760			205180		5	Asia/Ho_Chi_Minh	2025-10-22
+1904874	Quận Hai	Quan Hai	Quan 2,Quan Hai,Quận 2,Quận Hai	10.78005	106.7538	A	ADM2	VN		79	769			0		8	Asia/Ho_Chi_Minh	2025-07-29
+1904875	Quận Ba	Quan Ba	Quan 3,Quận 3	10.78345	106.69133	A	ADM2	VN		79	770			0		16	Asia/Ho_Chi_Minh	2025-07-29
+1904876	Quận Bốn	Quan Bon	Quan 4,Quan Bon,Quận 4,Quận Bốn	10.75878	106.70485	A	ADM2	VN		79	773			0		5	Asia/Ho_Chi_Minh	2025-07-29
+1904877	Quận Năm	Quan Nam	Quan 5,Quan Nam,Quận 5,Quận Năm	10.75589	106.66854	A	ADM2	VN		79	774			0		4	Asia/Ho_Chi_Minh	2025-07-29
+1904878	Quận Sáu	Quan Sau	Quan 6,Quan Sau,Quận 6,Quận Sáu	10.74732	106.63673	A	ADM2	VN		79	775			0		3	Asia/Ho_Chi_Minh	2025-07-29
+1904879	Quận Bảy	Quan Bay	Quan 7,Quan Bay,Quận 7,Quận Bảy,Quận Bầy	10.73653	106.72642	A	ADM2	VN		79	778			0		5	Asia/Ho_Chi_Minh	2025-07-29
+1904880	Quận Tám	Quan Tam	Quan 8,Quan Tam,Quận 8,Quận Tám	10.7287	106.6401	A	ADM2	VN		79	776			0		3	Asia/Ho_Chi_Minh	2025-07-29
+1904881	Quận Chín	Quan Chin	Quan 9,Quan Chin,Quận 9,Quận Chín	10.82983	106.81975	A	ADM2	VN		79	763			0		12	Asia/Ho_Chi_Minh	2025-07-29
+1904882	Quận Mười	Quan Muoi	Quan 10,Quan Muoi,Quận 10,Quận Mười	10.7722	106.66872	A	ADM2	VN		79	771			0		5	Asia/Ho_Chi_Minh	2025-07-29
+1904883	Quận Mười Một	Quan Muoi Mot	Quan 11,Quan Muoi Mot,Quận 11,Quận Mười Một	10.76173	106.64543	A	ADM2	VN		79	772			0		9	Asia/Ho_Chi_Minh	2025-07-29
+1904884	Quận 12	Quan 12	Quan 12,Quan Muoi Hai,Quận 12,Quận Mười Hai	10.87138	106.6556	A	ADM2	VN		79	761			0		-4	Asia/Ho_Chi_Minh	2025-07-29
+1904885	Phu Nhuan	Phu Nhuan		10.80116	106.67793	A	ADM2	VN		79	768			0		10	Asia/Ho_Chi_Minh	2025-07-29
+1904886	Quận Tân Bình	Quan Tan Binh	Binh Tan District,Quan Tan Binh,Quận Tân Bình	10.80638	106.65501	A	ADM2	VN		79	766			0		5	Asia/Ho_Chi_Minh	2025-07-29
+1904887	Quận Bình Thạnh	Quan Binh Thanh	Quan Binh Tan,Quan Binh Thanh,Quận Bình Thanh,Quận Bình Thạnh,Quận Bình Tân	10.80753	106.7129	A	ADM2	VN		79	765			0		12	Asia/Ho_Chi_Minh	2025-07-29
+1904888	Quận Gò Vấp	Quan Go Vap	Quan Go Vap,Quận Gò Vấp	10.84081	106.66848	A	ADM2	VN		79	764			0		13	Asia/Ho_Chi_Minh	2025-07-29
+1904890	Quận Thủ Đức	Quan Thu GJuc	Quan Thu Duc,Quận Thủ Đức	10.85393	106.74269	A	ADM2	VN		79	762			0		17	Asia/Ho_Chi_Minh	2025-07-29
+1904891	Huyện Hóc Môn	Huyen Hoc Mon	Hoc Mon,Huyen Hoc Mon,Huyên Hóc Môn,Huyện Hóc Môn,Hóc Môn	10.88667	106.59278	A	ADM2	VN		79	784			0		18	Asia/Ho_Chi_Minh	2025-07-29
+1904892	Huyện Củ Chi	Huyen Cu Chi	Huyen Cu Chi,Huyên Củ Chi,Huyện Củ Chi	11.00513	106.50845	A	ADM2	VN		79	783			0		20	Asia/Ho_Chi_Minh	2025-07-29
+1904893	Huyện Bình Chánh	Huyen Binh Chanh	Huyen Binh Chanh,Huyên Bình Chánh,Huyện Bình Chánh	10.71142	106.55132	A	ADM2	VN		79	785			0		2	Asia/Ho_Chi_Minh	2025-07-29
+1904894	Huyện Nhà Bè	Huyen Nha Be	Huyen Nha Be,Huyên Nha Bè,Huyện Nhà Bè	10.6539	106.72524	A	ADM2	VN		79	786			0		4	Asia/Ho_Chi_Minh	2025-07-29
+1904895	Huyện Cần Giờ	Huyen Can Gio	Huyen Can Gio,Huyên Cần Giờ,Huyện Cần Giờ	10.52289	106.87511	A	ADM2	VN		79	787			0		1	Asia/Ho_Chi_Minh	2025-07-29
+1904896	Thành Phố Vũng Tàu	Thanh Pho Vung Tau	Thanh Pho Vung Tau,Thành Phố Vũng Tàu	10.41391	107.13087	A	ADM2	VN		79	747			0		-9999	Asia/Ho_Chi_Minh	2025-07-29
+1904897	Thành Phố Bà Rịa	Thanh Pho Ba Ria	Thanh Pho Ba Ria,Thi Xa Ba Ria,Thành Phố Bà Rịa,Thị Xã Bà Rịa	10.51035	107.17937	A	ADM2	VN		79	748			0		24	Asia/Ho_Chi_Minh	2025-07-29
+1904898	Thị Xã Phú Mỹ	Thi Xa Phu My	Huyen Tan Thanh,Huyện Tân Thành,Tan Thanh District,Thi Xa Phu My,Thị Xã Phú Mỹ,Tân Thành District	10.57381	107.10189	A	ADM2	VN		79	754			101559		174	Asia/Ho_Chi_Minh	2025-07-29
+1904899	Huyện Châu Đức	Huyen Chau GJuc	Chau GJuc District,Châu Đức District,Huyen Chau Duc,Huyện Châu Đức	10.65805	107.25098	A	ADM2	VN		79	750			149707		118	Asia/Ho_Chi_Minh	2025-07-29
+1904900	Huyện Đất Đỏ	Huyen GJat GJo	GJat GJo District,Huyen Dat Do,Huyen Long Dat,Huyện Long Đất,Huyện Đất Đỏ,Đất Đỏ District	10.48025	107.27879	A	ADM2	VN		79	753			62683		20	Asia/Ho_Chi_Minh	2025-07-29
+1904901	Huyện Xuyên Mộc	Huyen Xuyen Moc	Huyen Xuyen Moc,Huyện Xuyên Mộc,Xuyen Moc District,Xuyên Mộc District	10.63048	107.46568	A	ADM2	VN		79	751			132117		51	Asia/Ho_Chi_Minh	2025-07-29
+1904903	Huyện Côn Đảo	Huyen Con GJao	Con GJao District,Côn Đảo District	8.69534	106.61903	A	ADM2	VN		79	755			0		54		2025-07-29
+1904905	Thành phố Vĩnh Long	Thanh pho Vinh Long	Thanh pho Vinh Long,Thi Xa Vinh Long,Thành phố Vĩnh Long,Thị Xã Vĩnh Long	10.25178	105.94231	A	ADM2	VN		86	855			200120		1	Asia/Ho_Chi_Minh	2025-07-29
+1904906	Huyện Long Hồ	Huyen Long Ho	Huyen Long Ho,Huyện Long Hồ,Long Ho Distric,Long Hồ Distric	10.2164	105.98483	A	ADM2	VN		86	857			160537		1	Asia/Ho_Chi_Minh	2025-10-22
+1904907	Huyện Mang Thít	Huyen Mang Thit	Huyen Mang Thit,Huyện Mang Thít,Mang Thit District,Mang Thít District	10.18731	106.07472	A	ADM2	VN		86	858			101942		2	Asia/Ho_Chi_Minh	2025-07-29
+1904908	Huyện Tam Bình	Huyen Tam Binh	Huyen Tam Binh,Huyện Tam Bình,Tam Binh,Tam Binh District,Tam Bình,Tam Bình District	10.08127	105.95352	A	ADM2	VN		86	860			162191		2	Asia/Ho_Chi_Minh	2025-07-29
+1904909	Thị Xã Bình Minh	Thi Xa Binh Minh	Binh Minh,Bình Minh,Huyen Binh Minh,Huyện Bình Minh,Thi Xa Binh Minh,Thị Xã Bình Minh	10.04959	105.84378	A	ADM2	VN		86	861			0		1		2025-07-29
+1904910	Huyện Vũng Liêm	Huyen Vung Liem	Huyen Vung Liem,Huyện Vũng Liêm,Vung Liem District,Vũng Liêm District	10.08717	106.16038	A	ADM2	VN		86	859			176233		2	Asia/Ho_Chi_Minh	2025-07-29
+1904911	Huyện Trà Ôn	Huyen Tra On	Huyen Tra On,Huyện Trà Ôn,Tra On District,Trà Ôn District	9.97522	106.00957	A	ADM2	VN		86	862			149983		-5	Asia/Ho_Chi_Minh	2025-07-29
+1904913	Thành Phố Trà Vinh	Thanh Pho Tra Vinh	Thanh Pho Tra Vinh,Thi Xa Tra Vinh,Thành Phố Trà Vinh,Thị Xã Trà Vinh	9.95134	106.33516	A	ADM2	VN		86	842			0		0	Asia/Ho_Chi_Minh	2025-07-29
+1904914	Huyện Châu Thành	Huyen Chau Thanh	Chau Thanh District,Châu Thành District,Huyen Chau Thanh,Huyện Châu Thành	9.86891	106.35167	A	ADM2	VN		86	847			148000		1	Asia/Ho_Chi_Minh	2025-10-22
+1904915	Huyện Càng Long	Huyen Cang Long	Cang Long District,Càng Long District,Huyen Cang Long,Huyện Càng Long	9.95883	106.21395	A	ADM2	VN		86	844			287955		2	Asia/Ho_Chi_Minh	2025-10-22
+1904916	Huyện Cầu Ngang	Huyen Cau Ngang	Cau Ngang District,Cầu Ngang District,Huyen Cau Ngang,Huyện Cầu Ngang	9.77186	106.43654	A	ADM2	VN		86	848			133501		1	Asia/Ho_Chi_Minh	2025-07-29
+1904917	Huyện Cầu Kè	Huyen Cau Ke	Cau Ke District,Cầu Kè District,Huyen Cau Ke,Huyện Cầu Kè	9.86738	106.07916	A	ADM2	VN		86	845			128555		1	Asia/Ho_Chi_Minh	2025-07-29
+1904918	Huyện Tiểu Cần	Huyen Tieu Can	Huyen Tieu Can,Huyện Tiểu Cần,Tieu Can District,Tiểu Cần District	9.8035	106.20594	A	ADM2	VN		86	846			108718		5	Asia/Ho_Chi_Minh	2025-07-29
+1904919	Huyện Trà Cú	Huyen Tra Cu	Huyen Tra Cu,Huyện Trà Cú,Tra Cu District,Trà Cú District	9.69706	106.29423	A	ADM2	VN		86	849			166546		2	Asia/Ho_Chi_Minh	2025-07-29
+1904920	Huyện Duyên Hải	Huyen Duyen Hai	Huyen Duyen Hai,Huyện Duyên Hải	9.609	106.438	A	ADM2	VN		86	850			84925		1	Asia/Ho_Chi_Minh	2025-07-29
+1904921	Thành Phố Sóc Trăng	Thanh Pho Soc Trang	Thanh Pho Soc Trang,Thi Xa Soc Trang,Thành Phố Sóc Trăng,Thị Xã Sóc Trăng	9.60654	105.98457	A	ADM2	VN		92	941			0		7	Asia/Ho_Chi_Minh	2025-07-29
+1904922	Huyện Long Phú	Huyen Long Phu	Huyen Long Phu,Huyện Long Phú,Long Phu District,Long Phú District	9.63715	106.08226	A	ADM2	VN		92	946			181438		2	Asia/Ho_Chi_Minh	2025-07-29
+1904923	Huyện Kế Sách	Huyen Ke Sach	Huyen Ke Sach,Huyện Kế Sách,Ke Sach District,Kế Sách District	9.81771	105.9419	A	ADM2	VN		92	943			161644		2	Asia/Ho_Chi_Minh	2025-07-29
+1904924	Huyện Mỹ Tú	Huyen My Tu	Huyen My Tu,Huyện Mỹ Tú,My Tu District,Mỹ Tú District	9.60849	105.80681	A	ADM2	VN		92	944			207634		3	Asia/Ho_Chi_Minh	2025-07-29
+1904925	Huyện Mỹ Xuyên	Huyen My Xuyen	Huyen My Xuyen,Huyện Mỹ Xuyên,My Xuyen District,Mỹ Xuyên District	9.442	105.88546	A	ADM2	VN		92	947			197876		2	Asia/Ho_Chi_Minh	2025-07-29
+1904926	Huyện Thạnh Trị	Huyen Thanh Tri	Huyen Thanh Tri,Huyện Thạnh Trị,Thanh Tri District,Thạnh Trị District	9.46939	105.71196	A	ADM2	VN		92	949			86262		-2	Asia/Ho_Chi_Minh	2025-07-29
+1904927	Thị Xã Vĩnh Châu	Thi Xa Vinh Chau	Huyen Vinh Chau,Huyện Vĩnh Châu,Thi Xa Vinh Chau,Thị Xã Vĩnh Châu	9.36228	106.00304	A	ADM2	VN		92	950			183918		0	Asia/Ho_Chi_Minh	2025-07-29
+1904928	Quận Ninh Kiều	Quan Ninh Kieu	Quan Ninh Kieu,Quận Ninh Kiều,Thanh Pho Can Tho,Thành Phố Cần Thơ	10.0272	105.75979	A	ADM2	VN		92	916			0		1	Asia/Ho_Chi_Minh	2025-07-29
+1904929	Huyện Châu Thành	Huyen Chau Thanh	Huyen Chau Thanh,Huyện Châu Thành	9.92058	105.81717	A	ADM2	VN		92	933			98079		2	Asia/Ho_Chi_Minh	2025-10-22
+1904930	Quận Ô Môn	Quan O Mon	O Mon District,Ô Môn District	10.13171	105.63692	A	ADM2	VN		92	917			164234		1		2025-10-22
+1904931	Quận Thốt Nốt	Quan Thot Not	Thot Not District,Thốt Nốt District	10.23508	105.53173	A	ADM2	VN		92	923			155360		-2	Asia/Ho_Chi_Minh	2025-10-22
+1904932	Huyện Phụng Hiệp	Huyen Phung Hiep	Huyen Phung Hiep,Huyện Phụng Hiệp	9.80063	105.69984	A	ADM2	VN		92	934			210089		0	Asia/Ho_Chi_Minh	2025-10-22
+1904933	Vị Thủy District	Vi Thuy District	Huyen Vi Thuy,Huyện Vị Thủy	9.82274	105.56282	A	ADM2	VN		92	935			90126		6	Asia/Ho_Chi_Minh	2025-07-29
+1904934	Huyện Long Mỹ	Huyen Long My	Huyen Long My,Huyện Long Mỹ	9.65998	105.51945	A	ADM2	VN		92	936			84089		1	Asia/Ho_Chi_Minh	2025-07-29
+1904938	Thành Phố Cao Lãnh	Thanh Pho Cao Lanh	Thanh Pho Cao Lanh,Thi Xa Cao Lanh,Thành Phố Cao Lãnh,Thị Xã Cao Lãnh	10.45405	105.63509	A	ADM2	VN		82	866			0		9	Asia/Ho_Chi_Minh	2025-07-29
+1904939	Sa Dec city	Sa Dec city	Phuong Sa GJec,Phường Sa Đéc,Thanh Pho Sa Dec,Thành Phố Sa Đéc	10.3055	105.74757	A	ADM2	VN		82	867			150000		5	Asia/Ho_Chi_Minh	2025-11-06
+1904940	Huyện Châu Thành	Huyen Chau Thanh	Chau Thanh District,Châu Thành District,Huyen Chau Thanh,Huyện Châu Thành,Quan GJuc Ton (cu),Quận Đức Tôn (cũ)	10.22543	105.8238	A	ADM2	VN		82	877			161413		3	Asia/Ho_Chi_Minh	2026-02-15
+1904941	Huyện Lai Vung	Huyen Lai Vung	Huyen cu Lai Vung,Huyện cũ Lai Vung,LV,Lai Vung District,Lai Vung old district,Quan GJuc Thanh (cu),Quận Đức Thành (cũ)	10.24051	105.66327	A	ADM2	VN		82	876			160125		-2	Asia/Ho_Chi_Minh	2026-02-15
+1904942	Huyện Lấp Vò	Huyen Lap Vo	Huyen Lap Vo,Huyen Thanh Hung,Huyện Lấp Vò,Huyện Thạnh Hưng,Lap Vo District,Lấp Vò District	10.35918	105.60611	A	ADM2	VN		82	875			180431		4	Asia/Ho_Chi_Minh	2025-07-29
+1904943	Huyện Cao Lãnh	Huyen Cao Lanh	Huyen Cao Lanh,Huyện Cao Lãnh	10.46787	105.70965	A	ADM2	VN		82	873			328200		6	Asia/Ho_Chi_Minh	2025-07-29
+1904944	Huyện Tháp Mười	Huyen Thap Muoi	Huyen Thap Muoi,Huyện Tháp Mười,Thap Muoi District,Tháp Mười District	10.54398	105.81875	A	ADM2	VN		82	872			123123		3	Asia/Ho_Chi_Minh	2025-07-29
+1904945	Huyện Thanh Bình	Huyen Thanh Binh	Huyen Thanh Binh,Huyện Thanh Bình,Thanh Binh District,Thanh Bình District	10.6166	105.47234	A	ADM2	VN		82	874			158203		2	Asia/Ho_Chi_Minh	2025-07-29
+1904946	Huyện Tam Nông	Huyen Tam Nong	Huyen Tam Nong,Huyện Tam Nông,Tam Nong District,Tam Nông District	10.72761	105.52522	A	ADM2	VN		82	871			96641		3	Asia/Ho_Chi_Minh	2025-07-29
+1904947	Huyện Hồng Ngự	Huyen Hong Ngu	Huyen Hong Ngu,Huyện Hồng Ngự	10.81131	105.29263	A	ADM2	VN		82	870			101155		4	Asia/Ho_Chi_Minh	2025-10-22
+1904948	Huyện Tân Hồng	Huyen Tan Hong	Huyen Tan Hong,Huyện Tân Hồng	10.87089	105.49104	A	ADM2	VN		82	869			121994		4	Asia/Ho_Chi_Minh	2025-07-29
+1904949	Thành Phố Rạch Giá	Thanh Pho Rach Gia	Thanh Pho Rach Gia,Thi Xa Rach Gia,Thành Phố Rạch Giá,Thị Xã Rạch Giá	10.01711	105.09739	A	ADM2	VN		91	899			459860		3	Asia/Ho_Chi_Minh	2025-07-29
+1904950	Huyện Châu Thành	Huyen Chau Thanh	Chau Thanh District,Châu Thành District	9.94372	105.16868	A	ADM2	VN		91	905			156200		2	Asia/Ho_Chi_Minh	2025-07-29
+1904951	Huyện Giồng Riềng	Huyen Giong Rieng	Huyen Giong Rieng,Huyện Giồng Riềng	9.9042	105.353	A	ADM2	VN		91	906			219960		1	Asia/Ho_Chi_Minh	2025-07-29
+1904952	Huyện Tân Hiệp	Huyen Tan Hiep	Huyen Tan Hiep,Huyện Tân Hiêp,Huyện Tân Hiệp,Tan Hiep District,Tân Hiệp District	10.0954	105.25936	A	ADM2	VN		91	904			151000		2	Asia/Ho_Chi_Minh	2025-07-29
+1904953	Huyện Gò Quao	Huyen Go Quao	Go Quao District,Gò Quao District,Huyen Go Quao,Huyện Gò Quao	9.74027	105.29766	A	ADM2	VN		91	907			145780		-2	Asia/Ho_Chi_Minh	2025-07-29
+1904954	Huyện An Biên	Huyen An Bien	An Bien District,An Biên District,Huyen An Bien,Huyện An Biên	9.81291	105.0523	A	ADM2	VN		91	908			147297		3	Asia/Ho_Chi_Minh	2025-07-29
+1904955	Huyện An Minh	Huyen An Minh	An Minh District,Huyen An Minh,Huyện An Minh	9.66704	104.94848	A	ADM2	VN		91	909			120193		3	Asia/Ho_Chi_Minh	2025-07-29
+1904956	Huyện Vĩnh Thuận	Huyen Vinh Thuan	Huyen Vinh Thuan,Huyện Vĩnh Thuận,Vinh Thuan District,Vĩnh Thuận District	9.53306	105.2449	A	ADM2	VN		91	910			133539		0	Asia/Ho_Chi_Minh	2025-07-29
+1904957	Huyện Hòn Đất	Huyen Hon GJat	Hon GJat District,Huyen Hon Dat,Huyện Hòn Đất,Hòn Đất District	10.22908	104.9528	A	ADM2	VN		91	903			172100		2	Asia/Ho_Chi_Minh	2025-07-29
+1904958	Thành Phố Hà Tiên	Thanh Pho Ha Tien	Huyen Ha Tien,Huyện Hà Tiên,Thanh Pho Ha Tien,Thi Xa Ha Tien,Thành Phố Hà Tiên,Thị Xã Hà Tiên	10.386	104.5029	A	ADM2	VN		91	900			0		1	Asia/Ho_Chi_Minh	2025-07-29
+1904959	Huyện Kiên Hải	Huyen Kien Hai	Huyen Kien Hai,Huyện Kiên Hải,Kien Hai District,Kiên Hải District	9.80496	104.63672	A	ADM2	VN		91	912			20499		161		2025-07-29
+1904960	Thành Phố Phú Quốc	Thanh Pho Phu Quoc	Huyen Phu Quoc,Huyện Phú Quốc,Phu Quoc District,Phú Quốc District,Thanh Pho Phu Quoc,Thành Phố Phú Quốc	10.25516	104.01455	A	ADM2	VN		91	911			379480		37	Asia/Ho_Chi_Minh	2025-07-29
+1904963	Thành Phố Phan Rang-Tháp Chàm	Thanh Pho Phan Rang-Thap Cham	Thanh Pho Phan Rang-Thap Cham,Thi Xa Phan Rang-Thap Cham,Thành Phố Phan Rang-Tháp Chàm,Thị Xã Phan Rang-Tháp Chàm	11.59577	108.97457	A	ADM2	VN		56	582			0		5	Asia/Ho_Chi_Minh	2025-07-29
+1904965	Huyện Ninh Hải	Huyen Ninh Hai	Huyen Ninh Hai,Huyện Ninh Hải,Ninh Hai District,Ninh Hải District	11.61062	109.1271	A	ADM2	VN		56	586			0		36	Asia/Ho_Chi_Minh	2025-07-29
+1904966	Huyện Ninh Phước	Huyen Ninh Phuoc	Huyen Ninh Phuo,Huyen Ninh Phuoc,Huyện Ninh Phướ,Huyện Ninh Phước,Ninh Phuoc District,Ninh Phước District	11.56118	108.88037	A	ADM2	VN		56	587			0		22	Asia/Ho_Chi_Minh	2025-07-29
+1904967	Huyện Ninh Sơn	Huyen Ninh Son	Huyen Ninh Son,Huyện Ninh Sơn,Ninh Son District,Ninh Sơn District	11.70827	108.7708	A	ADM2	VN		56	585			0		101	Asia/Ho_Chi_Minh	2025-07-29
+1904973	Thành Phố Pleiku	Thanh Pho Pleiku	Thanh Pho Pleiku,Thi Xa Pleiku,Thành Phố Pleiku,Thị Xã Pleiku	13.95024	108.00818	A	ADM2	VN		52	622			0		764	Asia/Ho_Chi_Minh	2025-07-29
+1904974	Huyện Chư Păh	Huyen Chu Pah	Chu Pah District,Chư Păh District,Huyen Chu Pah,Huyện Chư Pah,Huyện Chư Păh	14.15941	107.98411	A	ADM2	VN		52	627			62672		743	Asia/Ho_Chi_Minh	2025-07-29
+1904975	Huyện Ia Grai	Huyen Ia Grai	Huyen Ia Grai,Huyện Ia Grai,Ia Grai District	13.98937	107.7374	A	ADM2	VN		52	628			88613		320	Asia/Ho_Chi_Minh	2025-07-29
+1904976	Huyện Đức Cơ	Huyen GJuc Co	GJuc Co District,Huyen Duc Co,Huyện Đức Cơ,Đức Cơ District	13.78454	107.6697	A	ADM2	VN		52	631			49745		389	Asia/Ho_Chi_Minh	2025-07-29
+1904977	Huyện Chư Prông	Huyen Chu Prong	Chu Prong District,Chư Prông District,Huyen Chu Prong,Huyện Chư Prông	13.59976	107.81099	A	ADM2	VN		52	632			76255		221	Asia/Ho_Chi_Minh	2025-07-29
+1904978	Huyện Chư Sê	Huyen Chu Se	Chu Se District,Chư Sê District,Huyen Chu Se,Huyện Chư Sê	13.71729	108.10557	A	ADM2	VN		52	633			126464		480	Asia/Ho_Chi_Minh	2025-07-29
+1904979	Huyện Krông Pa	Huyen Krong Pa	Huyen Krong Pa,Huyện Krông Pa,Krong Pa District,Krông Pa District	13.23152	108.65494	A	ADM2	VN		52	637			62280		122	Asia/Ho_Chi_Minh	2025-07-29
+1904980	Thị Xã A Yun Pa	Thi Xa A Yun Pa	Huyen Ayun Pa,Huyện Ayun Pa,Thi Xa A Yun Pa,Thị Xã A Yun Pa	13.31922	108.41886	A	ADM2	VN		52	624			53720		299	Asia/Ho_Chi_Minh	2025-07-29
+1904981	Huyện Kông Chro	Huyen Kong Chro	Huyen Kong Chro,Huyện Kông Chro,Huyện Kông Chrô,Kong Chro District,Kông Chro District	13.73519	108.59697	A	ADM2	VN		52	630			37006		351	Asia/Ho_Chi_Minh	2025-07-29
+1904982	Thị Xã An Khê	Thi Xa An Khe	Huyen An Khe,Huyện An Khê,Thi Xa An Khe,Thị Xã An Khê	14.00665	108.69665	A	ADM2	VN		52	623			0		439	Asia/Ho_Chi_Minh	2025-07-29
+1904983	Huyện Mang Yang	Huyen Mang Yang	Huyen Mang Yang,Huyện Mang Yang,Mang Yang District	13.9284	108.30246	A	ADM2	VN		52	629			53160		1036	Asia/Ho_Chi_Minh	2025-07-29
+1904984	Huyện KBang	Huyen KBang	Huyen K'Bang,Huyen KBang,Huyện KBang,Huyện K’Bang,K'Bang District,Ko Bang,Kơ Bang	14.30506	108.49779	A	ADM2	VN		52	625			57397		674	Asia/Ho_Chi_Minh	2025-07-29
+1904985	Thành Phố Buôn Ma Thuột	Thanh Pho Buon Ma Thuot	Thanh Pho Buon Ma Thuot,Thành Phố Buôn Ma Thuột	12.65766	108.02831	A	ADM2	VN		66	643			0		438	Asia/Ho_Chi_Minh	2025-07-29
+1904986	Huyện Đắk R’Lấp	Huyen GJak R'Lap	GJak R'Lap District,Huyen Dak R'Lap,Huyện Đắk R’Lấp,Huyện Đắk R’Lắp,Đăk R'Lấp District	11.8799	107.52244	A	ADM2	VN		68	666			88329		594	Asia/Ho_Chi_Minh	2025-07-29
+1904988	Huyện Krông Nô	Huyen Krong No	Huyen Krong No,Huyện Krông Nô,Krong No District,Krông Nô District	12.36285	107.83445	A	ADM2	VN		68	664			70003		518	Asia/Ho_Chi_Minh	2025-07-29
+1904989	Huyện Buôn Đôn	Huyen Buon GJon	Buon GJon District,Buôn Đôn District,Huyen Buon Don,Huyện Buôn Đôn	12.89187	107.8203	A	ADM2	VN		66	647			56238		184	Asia/Ho_Chi_Minh	2025-07-29
+1904990	Huyện Ea Súp	Huyen Ea Sup	Huyen Ea Sup,Huyện Ea Súp	13.18279	107.79954	A	ADM2	VN		66	646			40164		174	Asia/Ho_Chi_Minh	2025-07-29
+1904991	Thành Phố Tân An	Thanh Pho Tan An	Thanh Pho Tan An,Thi Xa Tan An,Thành Phố Tân An,Thị Xã Tân An	10.5321	106.40419	A	ADM2	VN		80	794			0		5	Asia/Ho_Chi_Minh	2025-07-29
+1904992	Huyện Châu Thành	Huyen Chau Thanh	Chau Thanh District,Châu Thành District,Huyen Chau Thanh,Huyện Châu Thành	10.45214	106.49015	A	ADM2	VN		80	808			102409		1	Asia/Ho_Chi_Minh	2025-07-29
+1904993	Huyện Tân Trụ	Huyen Tan Tru	Huyen Tan Tru,Huyện Tân Trụ,Tan Tru District,Tân Trụ District	10.53182	106.51644	A	ADM2	VN		80	805			62633		2	Asia/Ho_Chi_Minh	2025-07-29
+1904994	Huyện Cần Đước	Huyen Can GJuoc	Can GJuoc District,Cần Đước District,Huyen Can Duoc,Huyện Cần Đước	10.54148	106.59636	A	ADM2	VN		80	806			169391		1	Asia/Ho_Chi_Minh	2025-07-29
+1904995	Huyện Cần Giuộc	Huyen Can Giuoc	Can Giuoc District,Cần Giuộc District,Huyen Can Giuoc,Huyện Cần Giuộc	10.58823	106.66868	A	ADM2	VN		80	807			161399		2	Asia/Ho_Chi_Minh	2025-07-29
+1904996	Huyện Bến Lức	Huyen Ben Luc	Ben Luc District,Bến Lức District,Huyen Ben Luc,Huyện Bến Lức	10.68858	106.45484	A	ADM2	VN		80	803			128849		2	Asia/Ho_Chi_Minh	2025-07-29
+1904997	Huyện Thủ Thừa	Huyen Thu Thua	Huyen Thu Thua,Huyện Thủ Thừa,Thu Thua District,Thủ Thừa District	10.65639	106.3458	A	ADM2	VN		80	804			88455		0	Asia/Ho_Chi_Minh	2025-07-29
+1904998	Huyện Thạnh Hóa	Huyen Thanh Hoa	Thanh Hoa District,Thạnh Hóa District	10.66667	106.16667	A	ADM2	VN		80	800			58778		3	Asia/Ho_Chi_Minh	2025-07-29
+1904999	Huyện Đức Huệ	Huyen GJuc Hue	GJuc Hue District,Huyen Duc Hue,Huyện Đức Huệ,Đức Huệ District	10.86473	106.25914	A	ADM2	VN		80	801			61620		1	Asia/Ho_Chi_Minh	2025-07-29
+1905000	Huyện Đức Hòa	Huyen GJuc Hoa	GJuc Hoa District,Huyen Duc Hoa,Huyện Đức Hòa,Đức Hòa District	10.87838	106.42422	A	ADM2	VN		80	802			199181		5	Asia/Ho_Chi_Minh	2025-07-29
+1905001	Huyện Tân Thạnh	Huyen Tan Thanh	Huyen Tan Thanh,Huyện Tân Thạnh,Tan Thanh District,Tân Thạnh District	10.60351	105.96576	A	ADM2	VN		80	799			78970		4	Asia/Ho_Chi_Minh	2025-07-29
+1905002	Huyện Mộc Hóa	Huyen Moc Hoa	Huyen Moc Hoa,Huyện Mộc Hóa,Moc Hoa District,Mộc Hóa District	10.75166	106.01729	A	ADM2	VN		80	798			67753		1	Asia/Ho_Chi_Minh	2025-07-29
+1905003	Huyện Tân Hưng	Huyen Tan Hung	Huyen Tan Hung,Huyện Tân Hưng,Tan Hung District,Tân Hưng District	10.8338	105.68848	A	ADM2	VN		80	796			41813		0	Asia/Ho_Chi_Minh	2025-07-29
+1905004	Huyện Vĩnh Hưng	Huyen Vinh Hung	Huyen Vinh Hung,Huyện Vình Hưng,Huyện Vĩnh Hưng	10.88299	105.80364	A	ADM2	VN		80	797			57364		2	Asia/Ho_Chi_Minh	2025-07-29
+1905005	Thành Phố Lào Cai	Thanh Pho Lao Cai	Thanh Pho Lao Cai,Thi Xa Cam Duong,Thi Xa Lao Cai,Thành Phố Lào Cai,Thị Xã Cam Đường,Thị Xã Lào Cai	22.41944	103.99502	A	ADM2	VN		15	080			0		227	Asia/Bangkok	2025-07-29
+1905007	Huyện Bảo Thắng	Huyen Bao Thang	Huyen Bao Thang,Huyện Bảo Thắng	22.40956	104.11182	A	ADM2	VN		15	086			103262		154	Asia/Bangkok	2025-07-29
+1905008	Huyện Sa Pa	Huyen Sa Pa		22.33769	103.84037	A	ADM2	VN		15	088			42095		1544	Asia/Bangkok	2025-07-29
+1905009	Huyện Bát Xát	Huyen Bat Xat	Huyen Bat Xat,Huyện Bát Xát	22.56767	103.71339	A	ADM2	VN		15	082			62477		1187	Asia/Bangkok	2025-07-29
+1905010	Huyện Mường Khương	Huyen Muong Khuong	Huyen Muong Khuong,Huyện Mường Khương	22.67111	104.11772	A	ADM2	VN		15	083			48242		677	Asia/Bangkok	2025-07-29
+1905011	Huyện Bắc Hà	Huyen Bac Ha	Huyen Bac Ha,Huyện Bắc Hà	22.50083	104.32726	A	ADM2	VN		15	085			48988		1088	Asia/Bangkok	2025-07-29
+1905012	Huyện Bảo Yên	Huyen Bao Yen	Huyen Bao Yen,Huyện Bảo Yên	22.28598	104.45401	A	ADM2	VN		15	087			73924		163	Asia/Bangkok	2025-07-29
+1905013	Huyện Văn Bàn	Huyen Van Ban	Huyen Van Ban,Huyện Văn Bàn	22.07002	104.18122	A	ADM2	VN		15	089			89167		501	Asia/Bangkok	2025-07-29
+1905014	Huyện Than Uyên	Huyen Than Uyen	Huyen Than Uyen,Huyện Than Uyên	21.91424	103.82857	A	ADM2	VN		12	110			70600		423	Asia/Bangkok	2025-07-29
+1905015	Thành Phố Hòa Bình	Thanh Pho Hoa Binh	Thanh Pho Hoa Binh,Thi Xa Hoa Binh,Thành Phố Hòa Bình,Thị Xã Hòa Bình	20.82459	105.3289	A	ADM2	VN		25	148			0		44	Asia/Bangkok	2025-07-29
+1905016	Huyện Kỳ Sơn	Huyen Ky Son	Huyen Ky Son,Huyện Kỳ Sơn,Ky Son District,Kỳ Sơn District	20.89631	105.39659	A	ADM2	VN		25	151			63198		96	Asia/Bangkok	2025-07-29
+1905017	Huyện Đà Bắc	Huyen GJa Bac	GJa Bac District,Huyen Da Bac,Huyện Đà Bắc,Đà Bắc District	20.90057	105.07925	A	ADM2	VN		25	150			0		858	Asia/Bangkok	2025-07-29
+1905018	Huyện Mai Châu	Huyen Mai Chau	Huyen Mai Chau,Huyện Mai Châu	20.66296	105.03145	A	ADM2	VN		25	156			63000		407	Asia/Bangkok	2025-07-29
+1905019	Huyện Tân Lạc	Huyen Tan Lac	Huyen Tan Lac,Huyện Tân Lạc,Tan Lac District,Tân Lạc District	20.60557	105.23399	A	ADM2	VN		25	155			86889		147	Asia/Bangkok	2025-07-29
+1905020	Huyện Lương Sơn	Huyen Luong Son	Huyen Luong Son,Huyện Lương Sơn,Luong Son District,Lương Sơn District	20.8765	105.51219	A	ADM2	VN		25	152			80300		184	Asia/Bangkok	2025-07-29
+1905021	Huyện Kim Bôi	Huyen Kim Boi	Huyen Kim Boi,Huyện Kim Bôi	20.68786	105.54771	A	ADM2	VN		25	153			118767		380	Asia/Bangkok	2025-07-29
+1905022	Huyện Lạc Sơn	Huyen Lac Son		20.5019	105.50171	A	ADM2	VN		25	157			0		121	Asia/Bangkok	2025-07-29
+1905023	Huyện Lạc Thủy	Huyen Lac Thuy	Huyen Lac Thuy,Huyện Lạc Thủy,Lac Thuy District,Lạc Thủy District	20.49794	105.74092	A	ADM2	VN		25	159			49460		369	Asia/Bangkok	2025-07-29
+1905024	Huyện Yên Thủy	Huyen Yen Thuy	Huyen Yen Thuy,Huyện Yên Thủy,Yen Thuy District,Yên Thủy District	20.4222	105.62122	A	ADM2	VN		25	158			0		54	Asia/Bangkok	2025-07-29
+1905025	Thành Phố Hà Giang	Thanh Pho Ha Giang	Thanh Pho Ha Giang,Thi Xa Ha Giang,Thành Phố Hà Giang,Thị Xã Hà Giang	22.81931	104.95693	A	ADM2	VN		08	024			0		172		2025-07-29
+1905026	Huyện Vị Xuyên	Huyen Vi Xuyen	Huyen Vi Xuyen,Huyện Vị Xuyên	22.73923	104.94436	A	ADM2	VN		08	030			110465		175	Asia/Bangkok	2025-07-29
+1905027	Huyện Bắc Mê	Huyen Bac Me	Bac Me,Bac Me District,Bắc Mê,Bắc Mê District,Huyen Bac Me,Huyện Bắc Mê	22.75477	105.29023	A	ADM2	VN		08	031			40822		638	Asia/Bangkok	2025-07-29
+1905028	Huyện Yên Minh	Huyen Yen Minh	Huyen Yen Minh,Huyện Yên Minh	23.06992	105.17865	A	ADM2	VN		08	028			97553		539	Asia/Bangkok	2025-07-29
+1905029	Huyện Quản Bạ	Huyen Quan Ba	Huyen Quan Ba,Huyện Quản Bạ	23.08011	104.97241	A	ADM2	VN		08	029			53476		835	Asia/Bangkok	2025-07-29
+1905030	Huyện Đồng Văn	Huyen GJong Van	Huyen Dong Van,Huyện Đồng Văn	23.23795	105.27282	A	ADM2	VN		08	026			81880		1400	Asia/Bangkok	2025-07-29
+1905031	Huyện Mèo Vạc	Huyen Meo Vac	Huyen Meo Vac,Huyện Mèo Vạc,Meo Vac district,Mèo Vạc district	23.14075	105.43843	A	ADM2	VN		08	027			86071		1228	Asia/Bangkok	2025-07-29
+1905032	Huyện Xín Mần	Huyen Xin Man	Huyen Xin Man,Huyện Xín Mần	22.64148	104.52089	A	ADM2	VN		08	033			67999		995	Asia/Bangkok	2025-07-29
+1905033	Huyện Hoàng Su Phì	Huyen Hoang Su Phi	Huyen Hoang Su Phi,Huyện Hoàng Su Phì	22.68388	104.68332	A	ADM2	VN		08	032			66683		869	Asia/Bangkok	2025-07-29
+1905034	Huyện Bắc Quang	Huyen Bac Quang	Huyen Bac Quang,Huyện Bắc Quang	22.4215	104.87451	A	ADM2	VN		08	034			118690		109	Asia/Bangkok	2025-07-29
+1905035	Quận Hà Đông	Quan Ha GJong	Quan Ha Dong,Quận Hà Đông,Thi Xa Ha Dong,Thị Xã Hà Đông	20.95549	105.75992	A	ADM2	VN		01	268			173707		24	Asia/Bangkok	2025-07-29
+1905036	Thị Xã Sơn Tây	Thi Xa Son Tay	Thi Xa Son Tay,Thị Xã Sơn Tây	21.09739	105.47592	A	ADM2	VN		01	269			230577		24	Asia/Bangkok	2025-07-29
+1905037	Huyện Thanh Oai	Huyen Thanh Oai	Huyen Thanh Oai,Huyện Thanh Oai,Thanh Oai District	20.85403	105.78337	A	ADM2	VN		01	278			0		14	Asia/Bangkok	2025-07-29
+1905038	Huyện Chương Mỹ	Huyen Chuong My	Chuong My District,Chương Mỹ District,Huyen Chuong My,Huyện Chương Mỹ	20.88175	105.6705	A	ADM2	VN		01	277			0		17	Asia/Bangkok	2025-07-29
+1905039	Huyện Hoài Đức	Huyen Hoai GJuc	Hoai GJuc District,Hoài Đức District,Huyen Hoai Duc,Huyện Hoài Đức	21.02872	105.70309	A	ADM2	VN		01	274			276070		16	Asia/Bangkok	2025-07-29
+1905040	Huyện Quốc Oai	Huyen Quoc Oai	Huyen Quoc Oai,Huyện Quốc Oai,Quoc Oai District,Quốc Oai District	20.97297	105.61474	A	ADM2	VN		01	275			0		18	Asia/Bangkok	2025-07-29
+1905041	Huyện Thạch Thất	Huyen Thach That	Huyen Thach That,Huyện Thạch Thất,Thach That District,Thạch Thất District	21.01869	105.544	A	ADM2	VN		01	276			0		23	Asia/Bangkok	2025-07-29
+1905042	Huyện Đan Phượng	Huyen GJan Phuong	GJan Phuong District,Huyen Dan Phuong,Huyện Đan Phượng,Đan Phượng District	21.10757	105.6751	A	ADM2	VN		01	273			0		18	Asia/Bangkok	2025-07-29
+1905043	Huyện Phúc Thọ	Huyen Phuc Tho	Huyen Phuc Tho,Huyện Phúc Thọ,Phuc Tho District,Phúc Thọ District	21.12016	105.57958	A	ADM2	VN		01	272			0		20	Asia/Bangkok	2025-07-29
+1905044	Huyện Ba Vì	Huyen Ba Vi	Ba Vi District,Ba Vì District,Huyen Ba Vi,Huyện Ba Vì	21.15529	105.38226	A	ADM2	VN		01	271			0		27	Asia/Bangkok	2025-07-29
+1905045	Huyện Thường Tín	Huyen Thuong Tin	Huyen Thuong Tin,Huyện Thương Tín,Huyện Thường Tín,Thuong Tin District,Thường Tín District	20.84278	105.87587	A	ADM2	VN		01	279			0		15	Asia/Bangkok	2025-07-29
+1905046	Huyện Phú Xuyên	Huyen Phu Xuyen	Huyen Phu Xuyen,Huyện Phú Xuyên,Phu Xuyen District,Phú Xuyên District	20.7289	105.89774	A	ADM2	VN		01	280			0		11	Asia/Bangkok	2025-07-29
+1905047	Huyện Ứng Hòa	Huyen Ung Hoa	Huyen Ung Hoa,Huyện Ứng Hòa,Ung Hoa District,Ứng Hòa District	20.71099	105.79357	A	ADM2	VN		01	281			0		10	Asia/Bangkok	2025-07-29
+1905048	Huyện Mỹ Đức	Huyen My GJuc	Huyen My Duc,Huyện Mỹ Đức,My GJuc District,Mỹ Đức District	20.68532	105.72045	A	ADM2	VN		01	282			0		17	Asia/Bangkok	2025-07-29
+1905049	Thành Phố Vinh	Thanh Pho Vinh	Thanh Pho Vinh,Thành Phố Vinh	18.69182	105.68097	A	ADM2	VN		40	412			790000		8	Asia/Bangkok	2025-07-29
+1905050	Huyện Hưng Nguyên	Huyen Hung Nguyen	Hung Nguyen District,Huyen Hung Nguyen,Huyện Hưng Nguyên,Hưng Nguyên District	18.66514	105.63058	A	ADM2	VN		40	431			120720		10	Asia/Bangkok	2025-07-29
+1905051	Huyện Nam Đàn	Huyen Nam GJan	Huyen Nam Dan,Huyện Nam Đàn,Nam GJan District,Nam Đàn District	18.67041	105.52575	A	ADM2	VN		40	430			158006		9	Asia/Bangkok	2025-07-29
+1905052	Huyện Nghi Lộc	Huyen Nghi Loc	Huyen Nghi Loc,Huyện Nghi Lộc,Nghi Loc District,Nghi Lộc District	18.83131	105.62411	A	ADM2	VN		40	429			214209		3	Asia/Bangkok	2025-07-29
+1905053	Thị Xã Cửa Lò	Thi Xa Cua Lo	Thi Xa Cua Lo,Thị Xã Cửa Lò	18.78672	105.72512	A	ADM2	VN		40	413			11884		4	Asia/Bangkok	2025-07-29
+1905054	Huyện Diễn Châu	Huyen Dien Chau	Dien Chau District,Diễn Châu District,Huyen Dien Chau,Huyện Diễn Châu	18.98892	105.57625	A	ADM2	VN		40	425			284300		6	Asia/Bangkok	2025-07-29
+1905055	Huyện Yên Thành	Huyen Yen Thanh	Huyen Yen Thanh,Huyện Yên Thành,Yen Thanh District,Yên Thành District	19.02724	105.43649	A	ADM2	VN		40	426			302500		15	Asia/Bangkok	2025-07-29
+1905056	Huyện Đô Lương	Huyen GJo Luong	GJo Luong District,Huyen Do Luong,Huyện Đô Lương,Đô Lương District	18.89259	105.34027	A	ADM2	VN		40	427			193890		17	Asia/Bangkok	2025-07-29
+1905057	Huyện Thanh Chương	Huyen Thanh Chuong	Huyen Thanh Chuong,Huyện Thanh Chương,Thanh Chuong District,Thanh Chương District	18.73929	105.24053	A	ADM2	VN		40	428			271560		44	Asia/Bangkok	2025-07-29
+1905058	Huyện Anh Sơn	Huyen Anh Son	Anh Son District,Anh Sơn District,Huyen Anh Son,Huyện Anh Sơn	18.92902	105.08294	A	ADM2	VN		40	424			110311		36	Asia/Bangkok	2025-07-29
+1905059	Huyện Con Cuông	Huyen Con Cuong	Con Cuong District,Con Cuông District,Huyen Con Cuong,Huyện Con Cuông	19.05757	104.82034	A	ADM2	VN		40	422			78000		69	Asia/Bangkok	2025-07-29
+1905060	Huyện Tân Kỳ	Huyen Tan Ky	Huyen Tan Ky,Huyện Tân Kỳ,Tan Ky District,Tân Kỳ District	19.11045	105.21111	A	ADM2	VN		40	423			0		61	Asia/Bangkok	2025-07-29
+1905061	Huyện Quỳnh Lưu	Huyen Quynh Luu	Huyen Quynh Luu,Huyện Quỳnh Lưu,Quynh Luu District,Quỳnh Lưu District	19.20274	105.62623	A	ADM2	VN		40	421			276259		67	Asia/Bangkok	2025-07-29
+1905062	Huyện Nghĩa Đàn	Huyen Nghia GJan	Huyen Nghia Dan,Huyện Nghĩa Đàn,Nghia GJan District,Nghĩa Đàn District	19.35957	105.41031	A	ADM2	VN		40	419			188871		52	Asia/Bangkok	2025-07-29
+1905063	Huyện Quỳ Hợp	Huyen Quy Hop	Huyen Quy Hop,Huyện Quỳ Hơp,Huyện Quỳ Hợp,Quy Hop District,Quỳ Hợp District	19.32514	105.16009	A	ADM2	VN		40	420			119960		78	Asia/Bangkok	2025-07-29
+1905064	Huyện Quỳ Châu	Huyen Quy Chau	Huyen Quy Chau,Huyện Quỳ Châu,Quy Chau District,Quỳ Châu District	19.53567	105.08831	A	ADM2	VN		40	416			52403		200	Asia/Bangkok	2025-07-29
+1905065	Huyện Quế Phong	Huyen Que Phong	Huyen Que Phong,Huyện Quế Phong,Que Phong District,Quế Phong District	19.70177	104.87913	A	ADM2	VN		40	415			60317		533	Asia/Bangkok	2025-07-29
+1905066	Huyện Tương Dương	Huyen Tuong Duong	Huyen Tuong Duong,Huyện Tương Dương,Tuong Duong District,Tương Dương District	19.30979	104.57788	A	ADM2	VN		40	418			77830		152	Asia/Bangkok	2025-07-29
+1905067	Huyện Kỳ Sơn	Huyen Ky Son	Huyen Ky Son,Huyện Kỳ Sơn,Ky Son District,Kỳ Sơn District	19.42397	104.22199	A	ADM2	VN		40	417			63198		445	Asia/Bangkok	2025-07-29
+1905068	Thành Phố Thái Bình	Thanh Pho Thai Binh	Thanh Pho Thai Binh,Thi Xa Thai Binh,Thành Phố Thái Bình,Thị Xã Thái Bình	20.4467	106.33623	A	ADM2	VN		33	336			0		4	Asia/Bangkok	2025-07-29
+1905069	Huyện Vũ Thư	Huyen Vu Thu	Huyen Vu Thu,Huyện Vũ Thư,Vu Thu District,Vũ Thư District	20.43732	106.26529	A	ADM2	VN		33	344			229406		3	Asia/Bangkok	2025-07-29
+1905070	Huyện Ðông Hưng	Huyen Dong Hung	GJong Hung District,Đông Hưng District	20.54388	106.3409	A	ADM2	VN		33	340			257144		3	Asia/Bangkok	2025-07-29
+1905071	Huyện Kiến Xương	Huyen Kien Xuong	Huyen Kien Xuong,Huyện Kiến Xương,Kien Xuong District,Kiến Xương District	20.40081	106.42032	A	ADM2	VN		33	343			240253		0	Asia/Bangkok	2025-07-29
+1905072	Huyện Tiền Hải	Huyen Tien Hai	Huyen Tien Hai,Huyện Tiền Hải,Tien Hai District,Tiền Hải District	20.38465	106.52882	A	ADM2	VN		33	342			213616		0	Asia/Bangkok	2025-07-29
+1905073	Huyện Thái Thụy	Huyen Thai Thuy	Huyen Thai Thuy,Huyện Thái Thụy,Thai Thuy District,Thái Thụy District	20.53916	106.51688	A	ADM2	VN		33	341			267012		1	Asia/Bangkok	2025-07-29
+1905074	Huyện Quỳnh Phụ	Huyen Quynh Phu	Huyen Quynh Phu,Huyện Quỳnh Phụ,Quynh Phu District,Quỳnh Phụ District	20.65095	106.36359	A	ADM2	VN		33	338			247793		2	Asia/Bangkok	2025-07-29
+1905075	Huyện Hưng Hà	Huyen Hung Ha	Hung Ha District,Huyen Hung Ha,Huyện Hưng Hà,Hưng Hà District	20.59464	106.2123	A	ADM2	VN		33	339			252912		3	Asia/Bangkok	2025-07-29
+1905076	Thành Phố Sơn La	Thanh Pho Son La	Thanh Pho Son La,Thi Xa Son La,Thành Phố Sơn La,Thị Xã Sơn La	21.34614	103.9115	A	ADM2	VN		14	116			0		601	Asia/Bangkok	2025-07-29
+1905077	Huyện Mường La	Huyen Muong La	Huyen Muong La,Huyện Mường La,Muong La District,Mường La District	21.5296	104.11113	A	ADM2	VN		14	120			74668		1003	Asia/Bangkok	2025-07-29
+1905078	Huyện Quỳnh Nhai	Huyen Quynh Nhai	Huyen Quynh Nhai,Huyện Quỳnh Nhai,Quynh Nhai District,Quỳnh Nhai District	21.77224	103.6492	A	ADM2	VN		14	118			62189		786	Asia/Bangkok	2025-07-29
+1905079	Huyện Thuận Châu	Huyen Thuan Chau	Huyen Thuan Chau,Huyện Thuận Châu,Thuan Chau District,Thuận Châu District	21.42319	103.64408	A	ADM2	VN		14	119			133802		885	Asia/Bangkok	2025-07-29
+1905080	Huyện Sông Mã	Huyen Song Ma	Huyen Song Ma,Huyện Sông Mã,Song Ma District,Sông Mã District	21.06971	103.68727	A	ADM2	VN		14	126			113026		1136	Asia/Bangkok	2025-07-29
+1905081	Huyện Mai Sơn	Huyen Mai Son	Huyen Mai Son,Huyện Mai Sơn,Mai Son District,Mai Sơn District	21.15884	104.04821	A	ADM2	VN		14	125			122869		715	Asia/Bangkok	2025-07-29
+1905082	Huyện Bắc Yên	Huyen Bac Yen	Bac Yen District,Bắc Yên District,Huyen Bac Yen,Huyện Bắc Yên	21.25042	104.38501	A	ADM2	VN		14	121			48877		480	Asia/Bangkok	2025-07-29
+1905083	Huyện Yên Châu	Huyen Yen Chau	Yen Chau District,Yên Châu District	21.005	104.33264	A	ADM2	VN		14	124			62883		490	Asia/Bangkok	2025-07-29
+1905084	Huyện Phù Yên	Huyen Phu Yen	Huyen Phu Yen,Huyện Phù Yên,Phu Yen District,Phù Yên District	21.21412	104.68993	A	ADM2	VN		14	122			103459		701	Asia/Bangkok	2025-07-29
+1905085	Huyện Mộc Châu	Huyen Moc Chau	Huyen Moc Chau,Huyện Mộc Châu,Moc Chau District,Mộc Châu District	20.90787	104.6356	A	ADM2	VN		14	123			118867		1091		2025-07-29
+1905086	Quận Lê Chân	Quan Le Chan	Le Chan District,Lê Chân District,Quan Le Chan,Quận Lê Chân	20.84648	106.67364	A	ADM2	VN		31	305			219762		8	Asia/Bangkok	2025-07-29
+1905087	Quận Ngô Quyền	Quan Ngo Quyen	Ngo Quyen District,Ngô Quyền District,Quan Ngo Quyen,Quận Ngô Quyền	20.85279	106.70259	A	ADM2	VN		31	304			165309		8	Asia/Bangkok	2025-07-29
+1905088	Quận Kiến An	Quan Kien An	Quan Kien An,Quận Kiến An,Thi Xa Kien An,Thị Xã Kiến An	20.80555	106.63865	A	ADM2	VN		31	307			0		43	Asia/Bangkok	2025-07-29
+1905089	Quận Đồ Sơn	Quan GJo Son	Quan Do Son,Quận Đồ Sơn,Thi Xa Do Son,Thị Xã Đồ Sơn	20.71922	106.77054	A	ADM2	VN		31	308			0		25	Asia/Bangkok	2025-07-29
+1905090	Huyện An Dương	Huyen An Duong	Huyen An Duong,Huyen An Hai,Huyện An Dương,Huyện An Hải	20.87465	106.58928	A	ADM2	VN		31	312			0		1	Asia/Bangkok	2025-07-29
+1905091	Huyện Thủy Nguyên	Huyen Thuy Nguyen	Huyen Thuy Nguyen,Huyện Thủy Nguyên	20.93617	106.67924	A	ADM2	VN		31	311			0		11	Asia/Bangkok	2025-07-29
+1905092	Huyện An Lão	Huyen An Lao	Huyen An Lao,Huyen Na Lao,Huyện An Lão,Huyện Na Lão	20.80363	106.55785	A	ADM2	VN		31	313			0		1	Asia/Bangkok	2025-07-29
+1905093	Huyện Kiến Thụy	Huyen Kien Thuy	Huyen Kien Thuy,Huyện Kiến Thụy	20.73166	106.66951	A	ADM2	VN		31	314			0		2	Asia/Bangkok	2025-07-29
+1905094	Huyện Tiên Lãng	Huyen Tien Lang	Huyen Tien Lang,Huyện Tiên Lãng,Huyện Tiến Lãng	20.69236	106.59152	A	ADM2	VN		31	315			0		3	Asia/Bangkok	2025-07-29
+1905095	Huyện Vĩnh Bảo	Huyen Vinh Bao	Huyen Vinh Bao,Huyện Vĩnh Bảo	20.65951	106.49295	A	ADM2	VN		31	316			0		3	Asia/Bangkok	2025-07-29
+1905096	Huyện Cát Hải	Huyen Cat Hai	Huyen Cat Hai,Huyện Cát Hải	20.79124	107.00508	A	ADM2	VN		31	317			32090		90	Asia/Bangkok	2025-07-29
+1905097	Huyện Bạch Long Vỹ	Huyen Bach Long Vy	Huyen Bach Long Vi,Huyen Bach Long Vy,Huyện Bạch Long Vĩ,Huyện Bạch Long Vỹ	20.13434	107.73279	A	ADM2	VN		31	318			0		1	Asia/Bangkok	2025-07-29
+1905098	Thành Phố Điện Biên Phủ	Thanh Pho GJien Bien Phu	Thanh Pho Dien Bien Phu,Thi Xa Dien Bien Phu,Thành Phố Điện Biên Phủ,Thị Xã Diện Biên Phủ	21.40352	103.04178	A	ADM2	VN		11	094			0		523	Asia/Bangkok	2025-07-29
+1905100	Huyện Điện Biên Đông	Huyen GJien Bien GJong	GJien Bien GJong District,Huyen Dien Bien Dong,Huyện Điện Biên Đông,Điện Biên Đông District	21.25266	103.269	A	ADM2	VN		11	101			48990		795	Asia/Bangkok	2025-07-29
+1905101	Huyện Tuần Giáo	Huyen Tuan Giao	Huyen Tuan Giao,Huyện Tuần Giào,Huyện Tuần Giáo,Tuan Giao District,Tuần Giáo District	21.67499	103.39974	A	ADM2	VN		11	099			104185		1175	Asia/Bangkok	2025-07-29
+1905102	Huyện Tủa Chùa	Huyen Tua Chua	Huyen Tua Chua,Huyện Tủa Chùa,Tua Chua District,Tủa Chùa District	21.95357	103.37332	A	ADM2	VN		11	098			42366		1340	Asia/Bangkok	2025-07-29
+1905103	Thị Xã Mưòng Lay	Thi Xa Muong Lay	Muong Lay,Mường Lay,Thi Xa Lai Chau,Thi Xa Muong Lay,Thị Xã Lai Châu,Thị Xã Mưòng Lay	22.03374	103.12331	A	ADM2	VN		11	095			49242		668	Asia/Bangkok	2025-07-29
+1905104	Huyện Sìn Hồ	Huyen Sin Ho	Huyen Sin Ho,Huyện Sin Hò,Huyện Sìn Hồ	22.28687	103.34608	A	ADM2	VN		12	108			83643		453	Asia/Bangkok	2025-07-29
+1905106	Huyện Phong Thổ	Huyen Phong Tho	Huyen Phong Tho,Huyện Phong Thổ	22.58533	103.34564	A	ADM2	VN		12	109			79645		833	Asia/Bangkok	2025-07-29
+1905107	Huyện Mưòng Tè	Huyen Muong Te	Muong Te District,Mường Tè District	22.37443	102.73835	A	ADM2	VN		12	107			47406		542	Asia/Bangkok	2025-07-29
+1905108	Hạ Long District	Ha Long District	Ha Long District,Hạ Long District,Thanh Pho Ha Long,Thành Phố Hạ Long	20.9612	107.0496	A	ADM2	VN		22	193			0		47	Asia/Ho_Chi_Minh	2025-07-29
+1905109	Cẩm Phả District	Cam Pha District	Cam Pha District,Cẩm Phả District,Thanh Pho Cam Pha,Thành Phố Cẩm Phả	21.08265	107.3027	A	ADM2	VN		22	195			0		85	Asia/Bangkok	2025-07-29
+1905110	Thành Phố Uông Bí	Thanh Pho Uong Bi	Thanh Pho Uong Bi,Thi Xa Uong Bi,Thành Phố Uông Bí,Thị Xã Uông Bí	21.08389	106.76773	A	ADM2	VN		22	196			0		335	Asia/Bangkok	2025-07-29
+1905111	Huyện Đông Triều	Huyen GJong Trieu	GJong Trieu District,Huyen Dong Trieu,Huyện Đông Triều,Đông Triều District	21.11043	106.59662	A	ADM2	VN		22	205			150256		15	Asia/Bangkok	2025-07-29
+1905112	Thị Xã Quảng Yên	Thi Xa Quang Yen	Huyen Yen Hung,Huyện Yên Hưng,Thi Xa Quang Yen,Thị Xã Quảng Yên	20.93237	106.83728	A	ADM2	VN		22	206			0		5	Asia/Bangkok	2025-07-29
+1905113	Huyện Hoành Bồ	Huyen Hoanh Bo	Hoanh Bo District,Hoành Bồ District,Huyen Hoanh Bo,Huyện Hoành Bồ	21.11888	107.03149	A	ADM2	VN		22	204			39650		452	Asia/Bangkok	2025-07-29
+1905114	Huyện Ba Chẽ	Huyen Ba Che	Ba Che District,Ba Chẽ District,Huyen Ba Che,Huyện Ba Chẽ	21.29503	107.19298	A	ADM2	VN		22	202			17335		110	Asia/Bangkok	2025-07-29
+1905115	Huyện Tiên Yên	Huyen Tien Yen	Huyen Tien Yen,Huyện Tiên Yên,Tien Yen District,Tiên Yên District	21.37571	107.37468	A	ADM2	VN		22	199			43227		48	Asia/Bangkok	2025-07-29
+1905116	Huyện Bình Liêu	Huyen Binh Lieu	Binh Lieu District,Bình Liêu District,Huyen Binh Lieu,Huyện Bình Liêu	21.54389	107.44047	A	ADM2	VN		22	198			26077		219	Asia/Bangkok	2025-07-29
+1905117	Huyện Hải Hà	Huyen Hai Ha	Hai Ha District,Huyen Hai Ha,Huyen Quang Ha,Huyện Hải Hà,Huyện Quảng Hà,Hải Hà District	21.49537	107.6679	A	ADM2	VN		22	201			50878		241	Asia/Bangkok	2025-07-29
+1905118	Thành Phố Móng Cái	Thanh Pho Mong Cai	Huyen Hai Ninh,Huyện Hải Ninh,Thanh Pho Mong Cai,Thành Phố Móng Cái	21.50678	107.86611	A	ADM2	VN		22	194			0		2	Asia/Ho_Chi_Minh	2025-07-29
+1905119	Huyện Vân Đồn	Huyen Van GJon	Huyen Van Don,Huyện Vân Đồn,Van GJon District,Vân Đồn District	21.05291	107.51683	A	ADM2	VN		22	203			39157		81		2025-07-29
+1905120	Huyện Cô Tô	Huyen Co To	Co To District,Cô Tô District,Huyen Co To,Huyện Cô Tô	21.0205	107.83109	A	ADM2	VN		22	207			5281		98		2025-07-29
+1905121	Quận Ba Đình	Quan Ba GJinh	Ba GJinh District,Ba Đình District,Quan Ba Dinh,Quận Ba Đình	21.03527	105.82837	A	ADM2	VN		01	001			221893		19	Asia/Bangkok	2025-07-29
+1905122	Quận Cầu Giấy	Quan Cau Giay	Cau Giay District,Cầu Giấy District,Quan Cau Giay,Quận Cầu Giấy	21.02935	105.79109	A	ADM2	VN		01	005			292536		14	Asia/Bangkok	2025-07-29
+1905123	Huyện Đông Anh	Huyen GJong Anh	GJong Anh District,Huyen Dong Anh,Huyện Đông Anh,Đông Anh District	21.13747	105.83764	A	ADM2	VN		01	017			0		19	Asia/Bangkok	2025-07-29
+1905124	Quận Đống Đa	Quan GJong GJa	GJong GJa District,Quan Dong Da,Quận Đống Đa,Đống Đa District	21.01151	105.82567	A	ADM2	VN		01	006			0		16	Asia/Bangkok	2025-07-29
+1905125	Huyện Gia Lâm	Huyen Gia Lam	Gia Lam District,Gia Lâm District,Huyen Gia Lam,Huyện Gia Lâm	21.02559	105.96175	A	ADM2	VN		01	018			0		16	Asia/Bangkok	2025-07-29
+1905126	Quận Hai Bà Trưng	Quan Hai Ba Trung	Hai Ba Trung District,Hai Bà Trưng District,Quan Hai Ba Trung,Quận Hai Bà Trưng	21.00588	105.85644	A	ADM2	VN		01	007			0		16	Asia/Bangkok	2025-07-29
+1905127	Quận Hoàn Kiếm	Quan Hoan Kiem	Hoan Kiem,Quan Hoan Kiem,Quận Hoàn Kiếm	21.02999	105.85381	A	ADM2	VN		01	002			135618		26	Asia/Bangkok	2025-07-29
+1905128	Huyện Sóc Sơn	Huyen Soc Son	Huyen Soc Son,Huyện Sóc Sơn,Soc Son District,Sóc Sơn District	21.27128	105.83293	A	ADM2	VN		01	016			0		45	Asia/Bangkok	2025-07-29
+1905129	Quận Tây Hồ	Quan Tay Ho	Quan Tay Ho,Quận Tây Hồ,Tay Ho District,Tây Hồ District	21.06859	105.81918	A	ADM2	VN		01	003			160495		12	Asia/Bangkok	2025-07-29
+1905131	Huyện Thanh Trì	Huyen Thanh Tri	Huyen Thanh Tri,Huyện Thanh Trì,Thanh Tri District,Thanh Trì District	20.92925	105.83584	A	ADM2	VN		01	020			0		17	Asia/Bangkok	2025-07-29
+1905132	Quận Thanh Xuân	Quan Thanh Xuan	Quan Thanh Xuan,Quận Thanh Xuân,Thanh Xuan District,Thanh Xuân District	20.99675	105.81555	A	ADM2	VN		01	009			293524		22	Asia/Bangkok	2025-07-29
+1905197	Thành Phố Đà Lạt	Thanh Pho GJa Lat	Thanh Pho Da Lat,Thành Phố Đà Lạt	11.93145	108.47414	A	ADM2	VN		68	672			0		1442	Asia/Ho_Chi_Minh	2025-07-29
+1905200	Thành Phố Bảo Lộc	Thanh Pho Bao Loc	Thanh Pho Bao Loc,Thi Xa Bao Loc,Thành Phố Bảo Lộc,Thị Xã Bảo Lộc	11.53759	107.78638	A	ADM2	VN		68	673			0		838	Asia/Ho_Chi_Minh	2025-07-29
+1905201	Huyện Bảo Lâm	Huyen Bao Lam	Bao Lam District,Bảo Lâm District,Huyen Bao Lam,Huyện Bảo Lâm	11.71163	107.75338	A	ADM2	VN		68	680			107279		891	Asia/Ho_Chi_Minh	2025-07-29
+1905202	Huyện Đạ Huoai	Huyen GJa Huoai	GJa Huoai District,Huyen Da Hu Oai,Huyen Da Huoai,Huyện Đạ Hu Oai,Huyện Đạ Huoai,Đạ Huoai District	11.42465	107.63825	A	ADM2	VN		68	681			34039		280	Asia/Ho_Chi_Minh	2025-07-29
+1905203	Huyện Đạ Tẻh	Huyen GJa Teh	GJa Teh District,Huyen Da Teh,Huyện Đạ Tẻh,Đạ Tẻh District	11.58446	107.52792	A	ADM2	VN		68	682			48590		149	Asia/Ho_Chi_Minh	2025-07-29
+1905204	Huyện Cát Tiên	Huyen Cat Tien	Huyen Cat Tien,Huyện Cát Tiên	11.6629	107.36768	A	ADM2	VN		68	683			0		174	Asia/Ho_Chi_Minh	2025-07-29
+1905205	Huyện Di Linh	Huyen Di Linh	Huyen Di Linh,Huyện Di Linh	11.49466	108.08691	A	ADM2	VN		68	679			0		1110	Asia/Ho_Chi_Minh	2025-07-29
+1905206	Huyện Đức Trọng	Huyen GJuc Trong	GJuc Trong District,Huyen Duc Trong,Huyện Đức Trọng,Đức Trọng District	11.62686	108.3533	A	ADM2	VN		68	678			161232		901	Asia/Ho_Chi_Minh	2025-07-29
+1905207	Huyện Đơn Dương	Huyen GJon Duong	GJon Duong District,Huyen Don Duong,Huyện Đơn Dương,Đơn Dương District	11.75308	108.55397	A	ADM2	VN		68	677			92260		1020	Asia/Ho_Chi_Minh	2025-07-29
+1905208	Huyện Lâm Hà	Huyen Lam Ha	Huyen Lam Ha,Huyện Lâm Hà,Lam Ha District,Lâm Hà District	11.8189	108.21215	A	ADM2	VN		68	676			135809		862	Asia/Ho_Chi_Minh	2025-07-29
+1905209	Huyện Lạc Dương	Huyen Lac Duong	Huyen Lac Duong,Huyện Lạc Dương,Lac Duong District,Lạc Dương District	12.12373	108.53108	A	ADM2	VN		68	675			0		1484	Asia/Ho_Chi_Minh	2025-07-29
+1905210	Thành Phố Ninh Bình	Thanh Pho Ninh Binh	Thanh Pho Ninh Binh,Thi Xa Ninh Binh,Thành Phố Ninh Bình,Thị Xã Ninh Bình	20.2474	105.97188	A	ADM2	VN		37	369			1230300		4	Asia/Bangkok	2025-07-29
+1905211	Huyện Kim Sơn	Huyen Kim Son	Huyen Kim Son,Huyện Kim Sơn,Kim Son District,Kim Sơn District	20.06034	106.09863	A	ADM2	VN		37	376			171660		3	Asia/Bangkok	2025-07-29
+1905212	Huyện Yên Mô	Huyen Yen Mo	Huyen Yen Mo,Huyện Yên Mô,Yen Mo District,Yên Mô District	20.12984	106.00199	A	ADM2	VN		37	377			119412		5	Asia/Bangkok	2025-07-29
+1905213	Huyện Yên Khánh	Huyen Yen Khanh	Huyen Yen Khanh,Huyện Yên Khánh,Yen Khanh District,Yên Khánh District	20.19017	106.09605	A	ADM2	VN		37	375			141471		1	Asia/Bangkok	2025-07-29
+1905214	Thị Xã Tam Điệp	Thi Xa Tam GJiep	Huyen Tam Diep,Huyện Tam Điệp,Thi Xa Tam Diep,Thị Xã Tam Điệp	20.15696	105.89503	A	ADM2	VN		37	370			0		49	Asia/Bangkok	2025-07-29
+1905215	Huyện Hoa Lư	Huyen Hoa Lu	Hoa Lu District,Hoa Lư District,Huyen Hoa Lu,Huyện Hoa Lư	20.25391	105.90789	A	ADM2	VN		37	374			66932		170	Asia/Bangkok	2025-07-29
+1905216	Huyện Gia Viễn	Huyen Gia Vien	Gia Vien District,Gia Viễn District,Huyen Gia Vien,Huyện Gia Viễn	20.34677	105.86437	A	ADM2	VN		37	373			0		6	Asia/Bangkok	2025-07-29
+1905217	Huyện Nho Quan	Huyen Nho Quan	Huyen Hoang Long,Huyen Nho Quan,Huyện Hoàng Long,Huyện Nho Quan,Nho Quan District	20.27606	105.75442	A	ADM2	VN		37	372			145186		6	Asia/Bangkok	2025-07-29
+1905218	Thành Phố Thanh Hóa	Thanh Pho Thanh Hoa	Thanh Pho Thanh Hoa,Thanh Xuan Thanh Hoa,Thanh Xuân Thanh Hóa,Thành Phố Thanh Hóa	19.80231	105.78594	A	ADM2	VN		38	380			0		14	Asia/Bangkok	2025-07-29
+1905219	Huyện Tĩnh Gia	Huyen Tinh Gia	Huyen Tinh Gia,Huyện Tĩnh Gia	19.44533	105.72841	A	ADM2	VN		38	407			307304		22	Asia/Bangkok	2025-07-29
+1905220	Huyện Nông Cống	Huyen Nong Cong	Huyen Nong Cong,Huyện Nông Cống,Nong Cong District,Nông Cống District	19.61376	105.68279	A	ADM2	VN		38	404			185052		4	Asia/Bangkok	2025-07-29
+1905221	Huyện Như Thanh	Huyen Nhu Thanh	Huyen Nhu Thanh,Huyện Như Thanh,Nhu Thanh District,Như Thanh District	19.57798	105.55616	A	ADM2	VN		38	403			82841		139	Asia/Bangkok	2025-07-29
+1905222	Huyện Như Xuân	Huyen Nhu Xuan	Huyen Nhu Xuan,Huyện Như Xuân,Nhu Xuan District,Như Xuân District	19.62527	105.38856	A	ADM2	VN		38	402			59713		156	Asia/Bangkok	2025-07-29
+1905223	Huyện Quảng Xương	Huyen Quang Xuong	Huyen Quang Xuong,Huyện Quảng Xương,Quang Xuong District,Quảng Xương District	19.70252	105.79298	A	ADM2	VN		38	406			276524		4	Asia/Bangkok	2025-07-29
+1905224	Thành Phố Sầm Sơn	Thanh Pho Sam Son	Thanh Pho Sam Son,Thi Xa Sam Son,Thành Phố Sầm Sơn,Thị Xã Sầm Sơn	19.75384	105.90114	A	ADM2	VN		38	382			0		12	Asia/Bangkok	2025-07-29
+1905225	Huyện Hoằng Hóa	Huyen Hoang Hoa	Huyen Hoang Hoa,Huyện Hoằng Hóa	19.84643	105.86066	A	ADM2	VN		38	399			253450		6	Asia/Bangkok	2025-07-29
+1905226	Huyện Đông Sơn	Huyen GJong Son	Huyen Dong Son,Huyện Đông Sơn,Huyện Đơng Sơn	19.79742	105.72465	A	ADM2	VN		38	405			110700		5	Asia/Bangkok	2025-07-29
+1905227	Huyện Thiệu Hóa	Huyen Thieu Hoa	Huyen Thieu Hoa,Huyện Thiệu Hóa,Thieu Hoa District,Thiệu Hóa District	19.89713	105.68144	A	ADM2	VN		38	398			190383		9	Asia/Bangkok	2025-07-29
+1905228	Huyện Yên Định	Huyen Yen GJinh	Huyen Yen Dinh,Huyện Yên Định,Yen GJinh District,Yên Định District	19.98666	105.61482	A	ADM2	VN		38	394			172527		9	Asia/Bangkok	2025-07-29
+1905229	Huyện Triệu Sơn	Huyen Trieu Son	Huyen Trieu Son,Huyện Triệu Sơn,Trieu Son District,Triệu Sơn District	19.82578	105.58293	A	ADM2	VN		38	397			213115		26	Asia/Bangkok	2025-07-29
+1905230	Huyện Thọ Xuân	Huyen Tho Xuan	Huyen Tho Xuan,Huyện Thọ Xuân,Tho Xuan District,Thọ Xuân District	19.93114	105.48284	A	ADM2	VN		38	395			233603		16	Asia/Bangkok	2025-07-29
+1905231	Huyện Thường Xuân	Huyen Thuong Xuan	Huyen Thuong Xuan,Huyện Thường Xuân,Thuong Xuan District,Thường Xuân District	19.91969	105.23771	A	ADM2	VN		38	396			88162		59	Asia/Bangkok	2025-07-29
+1905233	Huyện Ngọc Lặc	Huyen Ngoc Lac	Huyen Ngoc Lac,Huyện Ngọc Lậc,Huyện Ngọc Lặc,Ngoc Lac District,Ngọc Lặc District	20.06777	105.37386	A	ADM2	VN		38	389			136210		223	Asia/Bangkok	2025-07-29
+1905234	Huyện Lang Chánh	Huyen Lang Chanh	Huyen Lang Chanh,Huyện Lang Chánh,Lang Chanh District,Lang Chánh District	20.15926	105.15071	A	ADM2	VN		38	388			43913		335	Asia/Bangkok	2025-07-29
+1905235	Huyện Cẩm Thủy	Huyen Cam Thuy	Cam Thuy District,Cẩm Thủy District,Huyen Cam Thuy,Huyện Cẩm Thủy	20.19586	105.46817	A	ADM2	VN		38	390			110815		32	Asia/Bangkok	2025-07-29
+1905236	Huyện Vĩnh Lộc	Huyen Vinh Loc	Huyen Vinh Loc,Huyện Vĩnh Lộc,Vinh Loc District,Vĩnh Lộc District	20.03482	105.65755	A	ADM2	VN		38	393			87219		38	Asia/Bangkok	2025-07-29
+1905237	Huyện Hậu Lộc	Huyen Hau Loc	Hau Loc District,Huyen Hau Loc,Huyện Hậu Lộc,Hậu Lộc District	19.93337	105.88894	A	ADM2	VN		38	400			183852		8	Asia/Bangkok	2025-07-29
+1905238	Huyện Nga Sơn	Huyen Nga Son	Huyen Nga Son,Huyện Nga Sơn,Nga Son District,Nga Sơn District	20.01561	105.98975	A	ADM2	VN		38	401			148676		4	Asia/Bangkok	2025-07-29
+1905239	Huyện Hà Trung	Huyen Ha Trung	Ha Trung District,Huyen Ha Trung,Huyện Hà Trung,Hà Trung District	20.02654	105.81931	A	ADM2	VN		38	392			122536		6	Asia/Bangkok	2025-07-29
+1905240	Thị Xã Bỉm Sơn	Thi Xa Bim Son	Thi Xa Bim Son,Thị Xã Bỉm Sơn	20.08582	105.8846	A	ADM2	VN		38	381			0		16	Asia/Bangkok	2025-07-29
+1905241	Huyện Thạch Thành	Huyen Thach Thanh	Huyen Thach Thanh,Huyện Thạch Thành	20.18135	105.64697	A	ADM2	VN		38	391			143080		27	Asia/Bangkok	2025-07-29
+1905242	Huyện Bá Thước	Huyen Ba Thuoc	Ba Thuoc District,Bá Thước District,Huyen Ba Thuoc,Huyện Bá Thước	20.34578	105.24209	A	ADM2	VN		38	386			101323		49	Asia/Bangkok	2025-07-29
+1905243	Huyện Quan Sơn	Huyen Quan Son	Huyen Quan Son,Huyện Quan Sơn,Quan Son District,Quan Sơn District	20.25758	104.83416	A	ADM2	VN		38	387			34942		748	Asia/Bangkok	2025-07-29
+1905244	Huyện Quan Hóa	Huyen Quan Hoa	Huyen Quan Hoa,Huyện Quan Hóa,Quan Hoa District,Quan Hóa District	20.47565	104.95335	A	ADM2	VN		38	385			42905		519	Asia/Bangkok	2025-07-29
+1905245	Huyện Mường Lát	Huyen Muong Lat	Huyen Muong Lat,Huyện Mường Lát,Muong Lat District,Mường Lát District	20.52763	104.62941	A	ADM2	VN		38	384			30318		270	Asia/Bangkok	2025-07-29
+1905247	Thành Phố Đông Hà	Thanh Pho GJong Ha	Thanh Pho Dong Ha,Thi Xa Dong Ha,Thành Phố Đông Hà,Thị Xã Đông Hà	16.80549	107.09066	A	ADM2	VN		44	461			0		24	Asia/Bangkok	2025-07-29
+1905248	Huyện ĐaKrông	Huyen GJaKrong	GJa Krong District,Huyen DaKrong,Huyện ĐaKrông,Đa Krông District	16.55543	106.97208	A	ADM2	VN		44	467			31529		379	Asia/Bangkok	2025-07-29
+1905249	Huyện Hướng Hóa	Huyen Huong Hoa	Huong Hoa District,Huyen Huong Hoa,Huyện Hướng Hóa,Hướng Hóa District	16.70132	106.67036	A	ADM2	VN		44	465			69003		507	Asia/Bangkok	2025-07-29
+1905250	Huyện Hải Lăng	Huyen Hai Lang	Hai Lang District,Huyen Hai Lang,Huyện Hải Lăng,Hải Lăng District	16.67574	107.23388	A	ADM2	VN		44	470			100854		25	Asia/Bangkok	2025-07-29
+1905251	Thị Xã Quảng Trị	Thi Xa Quang Tri	Thi Xa Quang Tri,Thị Xã Quảng Trị	16.75221	107.18724	A	ADM2	VN		44	462			0		10	Asia/Bangkok	2025-07-29
+1905252	Huyện Triệu Phong	Huyen Trieu Phong	Huyen Trieu Phong,Huyện Triệu Phong,Trieu Phong District,Triệu Phong District	16.78132	107.16034	A	ADM2	VN		44	469			106507		9	Asia/Bangkok	2025-07-29
+1905253	Huyện Cam Lộ	Huyen Cam Lo	Cam Lo District,Cam Lộ District,Huyen Cam Lo,Huyện Cam Lộ	16.79335	106.96175	A	ADM2	VN		44	468			46231		24	Asia/Bangkok	2025-07-29
+1905254	Huyện Gio Linh	Huyen Gio Linh	Gio Linh District,Huyen Gio Linh,Huyện Gio Linh	16.91667	107	A	ADM2	VN		44	466			73702		96	Asia/Bangkok	2025-07-29
+1905255	Huyện Vĩnh Linh	Huyen Vinh Linh	Huyen Vinh Linh,Huyện Vĩnh Linh,Vinh Linh District,Vĩnh Linh District	17.016	106.93384	A	ADM2	VN		44	464			88243		18	Asia/Bangkok	2025-07-29
+1905258	Thành Phố Đồng Hới	Thanh Pho GJong Hoi	Thanh Pho Dong Hoi,Thi Xa Dong Hoi,Thành Phố Đồng Hới,Thị Xã Đồng Hới	17.44677	106.57712	A	ADM2	VN		44	450			0		11	Asia/Bangkok	2025-07-29
+1905259	Huyện Lệ Thủy	Huyen Le Thuy	Huyen Le Thuy,Huyện Lệ Thủy,Le Thuy District,Lệ Thủy District	17.11239	106.70471	A	ADM2	VN		44	457			140804		119	Asia/Bangkok	2025-07-29
+1905260	Huyện Quảng Ninh	Huyen Quang Ninh	Huyen Quang Ninh,Huyện Quảng Ninh,Quang Ninh District,Quảng Ninh District	17.25272	106.51751	A	ADM2	VN		44	456			90000		333	Asia/Bangkok	2025-07-29
+1905261	Huyện Bố Trạch	Huyen Bo Trach	Bo Trach District,Bố Trạch District,Huyen Bo Trach,Huyện Bố Trạch	17.53558	106.28304	A	ADM2	VN		44	455			184371		40	Asia/Bangkok	2025-07-29
+1905262	Huyện Quảng Trạch	Huyen Quang Trach	Huyen Quang Trach,Huyện Quảng Trạch,Quang Trach District,Quảng Trạch District	17.8729	106.37681	A	ADM2	VN		44	454			199659		13	Asia/Bangkok	2025-07-29
+1905264	Huyện Tuyên Hóa	Huyen Tuyen Hoa	Huyen Tuyen Hoa,Huyện Tuyên Hóa,Tuyen Hoa District,Tuyên Hóa District	17.91323	106.02678	A	ADM2	VN		44	453			78933		65	Asia/Bangkok	2025-07-29
+1905265	Huyện Minh Hóa	Huyen Minh Hoa	Huyen Minh Hoa,Huyện Minh Hóa,Minh Hoa District,Minh Hóa District	17.77762	105.8806	A	ADM2	VN		44	452			50708		337	Asia/Bangkok	2025-07-29
+1905413	Thành Phố Bắc Ninh	Thanh Pho Bac Ninh	Thanh Pho Bac Ninh,Thi Xa Bac Ninh,Thành Phố Bắc Ninh,Thị Xã Bắc Ninh	21.17119	106.07103	A	ADM2	VN		24	256			0		13	Asia/Bangkok	2025-07-29
+1905414	Huyện Yên Phong	Huyen Yen Phong	Huyen Yen Phong,Huyện Yên Phong,Yen Phong District,Yên Phong District	21.20398	105.97414	A	ADM2	VN		24	258			146040		17	Asia/Bangkok	2025-07-29
+1905415	Huyện Quế Võ	Huyen Que Vo	Huyen Que Vo,Huyện Quế Võ,Que Vo District,Quế Võ District	21.14609	106.17317	A	ADM2	VN		24	259			0		7	Asia/Bangkok	2025-07-29
+1905416	Huyện Tiên Du	Huyen Tien Du	Huyen Tien Du,Huyen Tien Son,Huyện Tiên Du,Huyện Tiên Sơn,Tien Du District,Tiên Du District	21.11417	106.04009	A	ADM2	VN		24	260			131118		11	Asia/Bangkok	2025-07-29
+1905417	Huyện Gia Bình	Huyen Gia Binh	Gia Binh District,Gia Bình District,Huyen Gia Binh,Huyen Gia Luong,Huyện Gia Bình,Huyện Gia Lương	21.07447	106.21373	A	ADM2	VN		24	263			102753		58	Asia/Bangkok	2025-07-29
+1905418	Huyện Thuận Thành	Huyen Thuan Thanh	Huyen Thuan Thanh,Huyện Thuân Thành,Huyện Thuận Thành,Thuan Thanh District,Thuận Thành District	21.03324	106.07747	A	ADM2	VN		24	262			144536		12	Asia/Bangkok	2025-07-29
+1905434	Huyện Việt Yên	Huyen Viet Yen	Huyen VIet Yen,Huyen Viet Yen,Huyện VIệt Ỵên,Huyện Việt Yên	21.27414	106.09221	A	ADM2	VN		24	222			0		18	Asia/Bangkok	2025-07-29
+1905438	Huyện Yên Dũng	Huyen Yen Dung	Huyen Yen Dung,Huyện Yên Dũng	21.20448	106.24343	A	ADM2	VN		24	221			138000		90	Asia/Bangkok	2025-07-29
+1905441	Huyện Lạng Giang	Huyen Lang Giang	Huyen Lang Giang,Huyện Lạng Giang,Lang Giang District,Lạng Giang District	21.36745	106.25319	A	ADM2	VN		24	217			0		30	Asia/Bangkok	2025-07-29
+1905443	Huyện Tân Yên	Huyen Tan Yen	Huyen Tan Yen,Huyện Tân Yên	21.37654	106.1115	A	ADM2	VN		24	216			162500		19	Asia/Bangkok	2025-07-29
+1905444	Huyện Hiệp Hòa	Huyen Hiep Hoa	Hiep Hoa district,Hiệp Hòa district,Huyen Hiep Hoa,Huyện Hiệp Hòa	21.32044	105.96723	A	ADM2	VN		24	223			237900		25	Asia/Bangkok	2025-07-29
+1905445	Huyện Yên Thế	Huyen Yen The	Huyen Yen The,Huyện Yên Thế	21.49306	106.1364	A	ADM2	VN		24	215			110920		25	Asia/Bangkok	2025-07-29
+1905446	Huyện Lục Nam	Huyen Luc Nam	Huyen Luc Nam,Huyện Lục Nam,Luc Nam District,Lục Nam District	21.26694	106.46968	A	ADM2	VN		24	218			202886		87	Asia/Bangkok	2025-07-29
+1905447	Huyện Lục Ngạn	Huyen Luc Ngan	Huyen Luc Ngan,Huyện Lục Ngạn,Luc Ngan District,Lục Ngạn District	21.42537	106.66675	A	ADM2	VN		24	219			195989		97	Asia/Bangkok	2025-07-29
+1905448	Huyện Sơn Động	Huyen Son GJong	Huyen Son Dong,Huyện Sơn Dộng,Huyện Sơn Động	21.29646	106.85763	A	ADM2	VN		24	220			0		318	Asia/Bangkok	2025-07-29
+1905469	Quận Thanh Khê	Quan Thanh Khe	Quan Thanh Khe,Quận Thanh Khê	16.06726	108.1846	A	ADM2	VN		48	491			0		10	Asia/Ho_Chi_Minh	2025-07-29
+1905470	Quận Sơn Trà	Quan Son Tra	Son Tra District,Sơn Trà District	16.11082	108.2641	A	ADM2	VN		48	493			173455		138	Asia/Ho_Chi_Minh	2025-07-29
+1905471	Quận Ngũ Hành Sơn	Quan Ngu Hanh Son	Quan Ngu Hanh Son,Quận Ngũ Hành Sơn	16	108.25	A	ADM2	VN		48	494			0		5	Asia/Ho_Chi_Minh	2025-07-29
+1905472	Quận Liên Chiểu	Quan Lien Chieu	Quan Lien Chieu,Quận Liên Chiểu	16.11477	108.12431	A	ADM2	VN		48	490			0		3	Asia/Ho_Chi_Minh	2025-07-29
+1905473	Huyện Hòa Vang	Huyen Hoa Vang	Huyen Hoa Vang,Huyện Hòa Vang	16.05208	108.06443	A	ADM2	VN		48	497			0		40	Asia/Ho_Chi_Minh	2025-07-29
+1905474	Huyện Hoàng Sa	Huyen Hoang Sa	Hoang Sa District,Hoàng Sa District	16.34468	112.00096	A	ADM2	VN		48	498			0		-9999		2025-07-29
+1905476	Thành Phố Thủ Dầu Một	Thanh Pho Thu Dau Mot	Thanh Pho Thu Dau Mot,Thi Xa Thu Dau Mot,Thu Dau Mot,Thành Phố Thủ Dầu Một,Thị Xã Thủ Dầu Một,Thủ Dầu Một	11.02959	106.66847	A	ADM2	VN		79	718			0		30	Asia/Ho_Chi_Minh	2025-07-29
+1905477	Thành Phố Thuận An	Thanh Pho Thuan An	Huyen Thuan An,Huyện Thuận An,Thanh Pho Thuan An,Thi Xa Thuan An,Thuan An,Thuận An,Thành Phố Thuận An,Thị Xã Thuận An	10.93976	106.71124	A	ADM2	VN		79	725			588616		25	Asia/Ho_Chi_Minh	2025-07-29
+1905478	Thị Xã Tân Uyên	Thi Xa Tan Uyen	Huyen Tan Uyen,Huyện Tân Uyên,Thi Xa Tan Uyen,Thị Xã Tân Uyên	11.14866	106.86554	A	ADM2	VN		79	723			0		60		2025-07-29
+1905479	Thị Xã Bến Cát	Thi Xa Ben Cat	Huyen Ben Cat,Huyện Bến Cát,Thi Xa Ben Cat,Thị Xã Bến Cát	11.10532	106.61538	A	ADM2	VN		79	721			0		12	Asia/Ho_Chi_Minh	2025-07-29
+1905481	Huyện Đồng Phú	Huyen GJong Phu	GJong Phu District,Huyen Dong Phu,Huyện Đồng Phu,Huyện Đồng Phú,Đồng Phú District	11.50071	107.01192	A	ADM2	VN		75	695			75573		183	Asia/Ho_Chi_Minh	2025-07-29
+1905482	Thị Xã Bình Long	Thi Xa Binh Long	Huyen Binh Long,Huyện Bình Long,Thi Xa Binh Long,Thị Xã Bình Long	11.68257	106.58968	A	ADM2	VN		75	690			0		105	Asia/Ho_Chi_Minh	2025-07-29
+1905483	Huyện Lộc Ninh	Huyen Loc Ninh	Huyen Loc Ninh,Huyện Lộc Ninh	11.84834	106.5924	A	ADM2	VN		75	692			0		127	Asia/Ho_Chi_Minh	2025-07-29
+1905484	Thị Xã Phước Long	Thi Xa Phuoc Long	Huyen Phouc Long,Huyện Phơức Long,Thi Xa Phuoc Long,Thị Xã Phước Long	11.81942	106.98943	A	ADM2	VN		75	688			50019		198	Asia/Ho_Chi_Minh	2025-07-29
+1905485	Huyện Bù Đăng	Huyen Bu GJang	Huyen Bu Dang,Huyện Bù Đăng	11.77561	107.21278	A	ADM2	VN		75	696			0		258	Asia/Ho_Chi_Minh	2025-07-29
+1905486	Long Xuyên City	Long Xuyen City	Long Xuyen,Long Xuyên,Thanh pho Long Xuyen,Thành phố Long Xuyên	10.36857	105.4234	A	ADM2	VN		91	883			370000		8	Asia/Ho_Chi_Minh	2025-07-29
+1905487	Thành phố Châu Đốc	Thanh pho Chau GJoc	Thanh pho Chau GJoc,Thành phố Châu Đốc	10.67875	105.09029	A	ADM2	VN		91	884			161547		1	Asia/Ho_Chi_Minh	2025-07-29
+1905488	Huyện Thoại Sơn	Huyen Thoai Son	Huyen Thoai Son,Huyện Thoại Sơn,Thoai Son,Thoai Son District,Thoại Sơn,Thoại Sơn District	10.31953	105.26679	A	ADM2	VN		91	894			0		4	Asia/Ho_Chi_Minh	2025-07-29
+1905489	Huyện Châu Thành	Huyen Chau Thanh	Chau Thanh,Châu Thành,Huyen Chau Thanh,Huyện Châu Thành	10.41631	105.27326	A	ADM2	VN		91	892			0		2	Asia/Ho_Chi_Minh	2025-07-29
+1905490	Huyện Chợ Mới	Huyen Cho Moi	Cho Moi District,Chợ Mới District,Huyen Cho Moi,Huyện Chợ Mới	10.47994	105.47246	A	ADM2	VN		91	893			362492		2	Asia/Ho_Chi_Minh	2025-07-29
+1905491	Huyện Phú Tân	Huyen Phu Tan	Huyen Phu Tan,Huyện Phú Tân,Phu Tan,Phu Tan District,Phú Tân,Phú Tân District	10.65614	105.27508	A	ADM2	VN		91	888			237965		2	Asia/Ho_Chi_Minh	2025-07-29
+1905492	Huyện Châu Phú	Huyen Chau Phu	Chau Phu District,Châu Phú District,Huyen Chau Phu,Huyện Châu Phú	10.54528	105.19312	A	ADM2	VN		91	889			244305		2	Asia/Ho_Chi_Minh	2025-07-29
+1905493	Huyện Tri Tôn	Huyen Tri Ton	Tri Ton District,Tri Tôn District	10.41416	104.96136	A	ADM2	VN		91	891			118648		4	Asia/Ho_Chi_Minh	2025-07-29
+1905494	Huyện Tịnh Biên	Huyen Tinh Bien	Huyen Tinh Bien,Huyện Tịnh Biên,Tinh Bien,Tịnh Biên	10.55019	105.01573	A	ADM2	VN		91	890			134350		22	Asia/Ho_Chi_Minh	2025-07-29
+1905495	Thị Xã Tân Châu	Thi Xa Tan Chau	Huyen Tan Chau,Huyện Tân Châu,Thi Xa Tan Chau,Thị Xã Tân Châu	10.81405	105.19951	A	ADM2	VN		91	887			0		2	Asia/Ho_Chi_Minh	2025-07-29
+1905496	Huyện An Phú	Huyen An Phu	An Phu District,An Phú District,Huyen An Phu,Huyện An Phú	10.84221	105.1052	A	ADM2	VN		91	886			178613		1	Asia/Ho_Chi_Minh	2025-07-29
+1905498	Thị Xã Sông Công	Thi Xa Song Cong	Thi Xa Song Cong,Thị Xã Sông Công	21.4883	105.82298	A	ADM2	VN		19	165			0		22	Asia/Bangkok	2025-07-29
+1905499	Huyện Phú Bình	Huyen Phu Binh	Huyen Phu Binh,Huyện Phú Bình	21.49024	105.9634	A	ADM2	VN		19	173			0		17	Asia/Bangkok	2025-07-29
+1905500	Huyện Phổ Yên	Huyen Pho Yen	Huyen Pho Yen,Huyện Phổ Yên	21.41206	105.82432	A	ADM2	VN		19	172			0		14	Asia/Bangkok	2025-07-29
+1905501	Huyện Đại Từ	Huyen GJai Tu	Huyen Dai Tu,Huyện Đại Từ	21.63434	105.61529	A	ADM2	VN		19	171			0		76	Asia/Bangkok	2025-07-29
+1905502	Huyện Định Hóa	Huyen GJinh Hoa	Huyen Dinh Hoa,Huyện Định Hóa	21.90527	105.62116	A	ADM2	VN		19	167			0		114	Asia/Bangkok	2025-07-29
+1905503	Huyện Phú Lương	Huyen Phu Luong	Huyen Phu Luong,Huyện Phú Lương	21.7559	105.72349	A	ADM2	VN		19	168			0		138	Asia/Bangkok	2025-07-29
+1905504	Huyện Đồng Hỷ	Huyen GJong Hy	GJong Hy District,Huyen Dong Hy,Huyện Đồng Hỷ,Đồng Hỷ District	21.65361	105.89006	A	ADM2	VN		19	169			92421		55	Asia/Bangkok	2025-07-29
+1905505	Huyện Võ Nhai	Huyen Vo Nhai	Huyen Vo Nhai,Huyện Võ Nhai,Vo Nhai District,Võ Nhai District	21.76846	106.03421	A	ADM2	VN		19	170			0		384	Asia/Bangkok	2025-07-29
+1905506	Huyện Hòa An	Huyen Hoa An	Hoa An District,Huyen Hoa An,Huyện Hòa An,Hòa An District	22.72327	106.15271	A	ADM2	VN		04	051			0		211		2025-07-29
+1905507	Huyện Trà Lĩnh	Huyen Tra Linh	Huyen Tra Linh,Huyện Trà Lĩnh,Tra Linh District,Trà Lĩnh District	22.80961	106.32543	A	ADM2	VN		04	046			166546		645	Asia/Bangkok	2025-07-29
+1905508	Huyện Trùng Khánh	Huyen Trung Khanh	Huyen Trung Khanh,Huyện Trùng Khánh	22.80615	106.4416	A	ADM2	VN		04	047			70424		683	Asia/Bangkok	2025-07-29
+1905509	Huyện Hạ Lang	Huyen Ha Lang	Ha Lang District,Huyen Ha Lang,Huyện Hạ Lang,Hạ Lang District	22.70933	106.67657	A	ADM2	VN		04	048			26330		421	Asia/Bangkok	2025-07-29
+1905511	Huyện Thạch An	Huyen Thach An	Huyen Thach An,Huyện Thạch An,Thach An District,Thạch An District	22.47654	106.34237	A	ADM2	VN		04	053			31942		369	Asia/Bangkok	2025-07-29
+1905512	Huyện Nguyên Bình	Huyen Nguyen Binh	Huyen Nguyen Binh,Huyện Nguyên Bình,Nguyen Binh District,Nguyên Bình District	22.624	105.93248	A	ADM2	VN		04	052			39153		793	Asia/Bangkok	2025-07-29
+1905513	Huyện Thông Nông	Huyen Thong Nong	Huyen Thong Nong,Huyện Thông Nông,Thong Nong District,Thông Nông District	22.80735	105.95846	A	ADM2	VN		04	044			23116		639	Asia/Bangkok	2025-07-29
+1905514	Huyện Hà Quảng	Huyen Ha Quang	Ha Quang District,Huyen Ha Quang,Huyện Hà Quảng,Hà Quảng District	22.86468	106.04757	A	ADM2	VN		04	045			59467		356	Asia/Bangkok	2025-07-29
+1905515	Huyện Bảo Lac	Huyen Bao Lac	Bao Lac District,Bảo Lạc District,Huyen Bao Lac,Huyện Bảo Lac	22.87162	105.72223	A	ADM2	VN		04	043			54420		754	Asia/Bangkok	2025-07-29
+1905517	Thành Phố Tam Kỳ	Thanh Pho Tam Ky	Thanh Pho Tam Ky,Thi Xa Tam Ky,Thành Phố Tam Kỳ,Thị Xã Tam Kỳ	15.592	108.50583	A	ADM2	VN		48	502			0		22	Asia/Ho_Chi_Minh	2025-07-29
+1905518	Thành Phố Hội An	Thanh Pho Hoi An	Thanh Pho Hoi An,Thi Xa Hoi An,Thành Phố Hội An,Thị Xã Hôi An	15.88339	108.34198	A	ADM2	VN		48	503			0		6	Asia/Ho_Chi_Minh	2025-07-29
+1905519	Huyện Thăng Bình	Huyen Thang Binh	Huyen Thang Binh,Huyện Thăng Bình,Thang Binh District,Thăng Bình District	15.68724	108.39227	A	ADM2	VN		48	513			0		10	Asia/Ho_Chi_Minh	2025-07-29
+1905520	Huyện Quế Sơn	Huyen Que Son	Huyen Que Son,Huyện Quế Sơn,Que Son District,Quế Sơn District	15.71229	108.26156	A	ADM2	VN		48	509			0		38	Asia/Ho_Chi_Minh	2025-07-29
+1905521	Huyện Duy Xuyên	Huyen Duy Xuyen	Duy Xuyen District,Duy Xuyên District,Huyen Duy Xuyen,Huyện Duy Xuyên	15.8084	108.22165	A	ADM2	VN		48	508			129616		17	Asia/Ho_Chi_Minh	2025-07-29
+1905522	Huyện Điện Bàn	Huyen GJien Ban	GJien Ban District,Huyen Dien Ban,Huyện Điện Bàn,Điện Bàn District	15.89917	108.2247	A	ADM2	VN		48	507			195048		7	Asia/Ho_Chi_Minh	2025-07-29
+1905523	Huyện Đại Lộc	Huyen GJai Loc	GJai Loc District,Huyen Dai Loc,Huyện Đại Lộc,Đại Lộc District	15.83721	107.97894	A	ADM2	VN		48	506			158052		362	Asia/Ho_Chi_Minh	2025-07-29
+1905525	Huyện Nam Giang	Huyen Nam Giang	Huyen Giang,Huyen Nam Giang,Huyện Giẳng,Huyện Nam Giang,Nam Giang District	15.63201	107.60267	A	ADM2	VN		48	510			19570		599	Asia/Ho_Chi_Minh	2025-07-29
+1905526	Huyện Phước Sơn	Huyen Phuoc Son	Huyen Phuoc Son,Huyện Phước Sơn,Phuoc Son District,Phước Sơn District	15.38806	107.85766	A	ADM2	VN		48	511			20141		483	Asia/Ho_Chi_Minh	2025-07-29
+1905527	Huyện Hiệp Đức	Huyen Hiep GJuc	Hiep GJuc District,Hiệp Đức District,Huyen Hiep Duc,Huyện Hiệp Đức	15.53857	108.09539	A	ADM2	VN		48	512			40281		112	Asia/Ho_Chi_Minh	2025-07-29
+1905528	Huyện Tiên Phước	Huyen Tien Phuoc	Huyen Tien Phuoc,Huyện Tiên Phước,Tien Phuoc District,Tiên Phước District	15.4709	108.28257	A	ADM2	VN		48	514			73717		163	Asia/Ho_Chi_Minh	2025-07-29
+1905529	Huyện Núi Thành	Huyen Nui Thanh	Huyen Nui Thanh,Huyện Núi Thành,Nui Thanh District,Núi Thành District	15.43345	108.57438	A	ADM2	VN		48	517			142020		32	Asia/Ho_Chi_Minh	2025-07-29
+1905530	Huyện Trà My	Huyen Tra My	Huyen Tra My,Huyện Trà My,Nam Tra My District,Nam Trà My District	15.25	108.08333	A	ADM2	VN		48	516			19876		394	Asia/Ho_Chi_Minh	2025-07-29
+1905531	Thành Phố Lạng Sơn	Thanh Pho Lang Son	Thanh Pho Lang Son,Thi Xa Lang Son,Thành Phố Lạng Sơn,Thị Xã Lạng Sơn	21.8543	106.74958	A	ADM2	VN		20	178			0		287	Asia/Bangkok	2025-07-29
+1905532	Huyện Văn Lãng	Huyen Van Lang	Huyen Van Lang,Huyện Văn Lãng,Van Lang,Van Lang District,Văn Lãng,Văn Lãng District	22.06146	106.59078	A	ADM2	VN		20	182			0		179	Asia/Bangkok	2025-07-29
+1905533	Huyện Cao Lộc	Huyen Cao Loc	Cao Loc District,Cao Lộc District,Huyen Cao Loc,Huyện Cao Lộc	21.90645	106.83532	A	ADM2	VN		20	183			75980		340	Asia/Bangkok	2025-07-29
+1905534	Huyện Vặn Quan	Huyen Van Quan	Huyen Van Quan,Huyện Vặn Quan,Van Quan District,Văn Quan District	21.83333	106.54942	A	ADM2	VN		20	184			57050		376	Asia/Bangkok	2025-07-29
+1905535	Huyện Chi Lăng	Huyen Chi Lang	Chi Lang District,Chi Lăng District,Huyen Chi Lang,Huyện Chi Lăng	21.67602	106.62925	A	ADM2	VN		20	187			77910		202	Asia/Bangkok	2025-07-29
+1905536	Huyện Lộc Bình	Huyen Loc Binh	Huyen Loc Binh,Huyện Lộc Bình,Loc Binh District,Lộc Bình District	21.7076	106.94387	A	ADM2	VN		20	188			0		302	Asia/Bangkok	2025-07-29
+1905537	Huyện Đình Lập	Huyen GJinh Lap	GJinh Lap District Huyen GJinh Lap,Đình Lập District Huyện Đình Lập	21.5421	107.12925	A	ADM2	VN		20	189			28125		398	Asia/Bangkok	2025-07-29
+1905538	Huyện Hũu Lũng	Huyen Huu Lung	Huu Lung District,Huyen Huu Lung,Huyện Hũu Lũng,Hữu Lũng District	21.54474	106.34386	A	ADM2	VN		20	186			114638		32	Asia/Bangkok	2025-07-29
+1905539	Huyện Bắc Sơn	Huyen Bac Son	Bac Son District,Bắc Sơn District,Huyen Bac Son,Huyện Bắc Sơn	21.83801	106.2769	A	ADM2	VN		20	185			65073		509	Asia/Bangkok	2025-07-29
+1905540	Huyện Bình Gia	Huyen Binh Gia	Binh Gia District,Bình Gia District,Huyen Binh Gia,Huyện Bình Gia	22.07281	106.3041	A	ADM2	VN		20	181			54349		324	Asia/Bangkok	2025-07-29
+1905541	Huyện Tràng Định	Huyen Trang GJinh	Huyen Trang Dinh,Huyện Tràng Định,Trang GJinh District,Tràng Định District	22.28795	106.44418	A	ADM2	VN		20	180			0		186	Asia/Bangkok	2025-07-29
+1905542	Thành Phố Biên Hòa	Thanh Pho Bien Hoa		10.9575	106.84264	A	ADM2	VN		75	731			0		4	Asia/Ho_Chi_Minh	2025-07-29
+1905543	Huyện Vĩnh Cửu	Huyen Vinh Cuu	Huyen Vinh Cuu,Huyện Vĩnh Cửu,Vinh Cuu District,Vĩnh Cửu District	11.19004	107.05204	A	ADM2	VN		75	735			106067		101	Asia/Ho_Chi_Minh	2025-07-29
+1905544	Huyện Thống Nhất	Huyen Thong Nhat	Huyen Thong Nhat,Huyện Thống Nhất,Thong Nhat District,Thống Nhất District	10.97764	107.15909	A	ADM2	VN		75	738			146112		191	Asia/Ho_Chi_Minh	2025-07-29
+1905545	Huyện Long Thành	Huyen Long Thanh	Huyen Long Thanh,Huyện Long Thành,Long Thanh District,Long Thành District	10.76162	107.02688	A	ADM2	VN		75	740			204793		52	Asia/Ho_Chi_Minh	2025-07-29
+1905546	Huyện Nhơn Trạch	Huyen Nhon Trach	Huyen Nhon Trach,Huyện Nhơn Trạch	10.69692	106.88205	A	ADM2	VN		75	742			260592		14	Asia/Ho_Chi_Minh	2025-10-22
+1905547	Thị Xã Long Khánh	Thi Xa Long Khanh	Huyen Long Khanh,Huyện Long Khánh,Thi Xa Long Khanh,Thị Xã Long Khánh	10.9354	107.23192	A	ADM2	VN		75	732			0		191	Asia/Ho_Chi_Minh	2025-07-29
+1905548	Huyện Xuân Lộc	Huyen Xuan Loc	Huyen Xuan Loc,Huyện Xuân Lộc	10.92563	107.42814	A	ADM2	VN		75	741			253140		150	Asia/Ho_Chi_Minh	2025-10-22
+1905549	Huyện Định Quán	Huyen GJinh Quan	GJinh Quan District,Huyen Dinh Quan,Huyện Định Quán,Định Quán District	11.21625	107.28811	A	ADM2	VN		75	736			214321		72	Asia/Ho_Chi_Minh	2025-07-29
+1905550	Huyện Tân Phú	Huyen Tan Phu	Huyen Tan Phu,Huyện Tân Phú,Tan Phu District,Tân Phú District	11.39867	107.39976	A	ADM2	VN		75	734			164366		112	Asia/Ho_Chi_Minh	2025-07-29
+1905551	Thành Phố Quy Nhơn	Thanh Pho Quy Nhon		13.75163	109.1957	A	ADM2	VN		52	540			0		384	Asia/Ho_Chi_Minh	2025-07-29
+1905552	Huyện Tuy Phước	Huyen Tuy Phuoc	Huyen Tuy Phuoc,Huyện Tuy Phước,Tuy Phuoc District,Tuy Phước District	13.84564	109.15275	A	ADM2	VN		52	550			180200		4	Asia/Ho_Chi_Minh	2025-07-29
+1905553	Thị Xã An Nhơn	Thi Xa An Nhon	Huyen An Nhon,Huyện An Nhơn,Thi Xa An Nhon,Thị Xã An Nhơn	13.86955	109.06333	A	ADM2	VN		52	549			0		10	Asia/Ho_Chi_Minh	2025-07-29
+1905554	Huyện Vân Canh	Huyen Van Canh	Huyen Van Canh,Huyện Vân Canh,Van Canh District,Vân Canh District	13.66365	108.96218	A	ADM2	VN		52	551			0		672	Asia/Ho_Chi_Minh	2025-07-29
+1905555	Huyện Tây Sơn	Huyen Tay Son	Huyen Tay Son,Huyện Tây Sơn,Tay Son District,Tây Sơn District	13.94306	108.87999	A	ADM2	VN		52	547			123300		48	Asia/Ho_Chi_Minh	2025-07-29
+1905556	Phu Cat District	Phu Cat District	Huyen Phu Cat,Huyện Phù Cát,Phu Cat District	14.04954	109.08063	A	ADM2	VN		52	548			0		110	Asia/Ho_Chi_Minh	2025-07-29
+1905557	Huyện Phù Mỹ	Huyen Phu My	Huyen Phu My,Huyện Phù Mỹ,Phu My District,Phù Mỹ District	14.22304	109.08611	A	ADM2	VN		52	545			169700		64	Asia/Ho_Chi_Minh	2025-07-29
+1905558	Thị Xã Hoài Nhơn	Thi Xa Hoai Nhon	Hoai Nhon District,Hoài Nhơn District,Huyen Hoai Nhon,Huyện Hoài Nhơn,Thi Xa Hoai Nhon,Thị Xã Hoài Nhơn	14.50535	109.02315	A	ADM2	VN		52	543			206700		16	Asia/Ho_Chi_Minh	2025-07-29
+1905559	Huyện Vĩnh Thạnh	Huyen Vinh Thanh	Huyen Vinh Thanh,Huyện Vĩnh Thạnh,Vinh Thanh District,Vĩnh Thạnh District	14.211	108.74389	A	ADM2	VN		52	546			28200		525	Asia/Ho_Chi_Minh	2025-07-29
+1905560	Huyện Hoài Ân	Huyen Hoai An	Hoai An District,Hoài Ân District,Huyen Hoai An,Huyện Hoài Ân	14.33875	108.90412	A	ADM2	VN		52	544			0		173	Asia/Ho_Chi_Minh	2025-07-29
+1905561	Huyện An Lão	Huyen An Lao	An Lao District,An Lão District,Huyen An Lao,Huyện An Lão	14.55676	108.801	A	ADM2	VN		52	542			24300		451	Asia/Ho_Chi_Minh	2025-07-29
+1905562	Thành Phố Phan Thiết	Thanh Pho Phan Thiet	Thanh Pho Phan Thiet,Thi Xa Phan Thiet,Thành Phố Phan Thiết,Thị Xã Phan Thiết	10.937	108.15778	A	ADM2	VN		68	593			0		45	Asia/Ho_Chi_Minh	2025-07-29
+1905563	Huyện Hàm Thuận Nam	Huyen Ham Thuan Nam	Ham Thuan Nam District,Huyen Ham Thuan Nam,Huyện Hàm Thuận Nam,Hàm Thuận Nam District	10.92101	107.93325	A	ADM2	VN		68	598			156535		49	Asia/Ho_Chi_Minh	2025-07-29
+1905564	Huyện Hàm Thuận Bắc	Huyen Ham Thuan Bac	Ham Thuan Bac District,Huyen Ham Thuan Bac,Huyện Hàm Thuận Bắc,Hàm Thuận Bắc District	11.14703	108.08172	A	ADM2	VN		68	597			156535		67	Asia/Ho_Chi_Minh	2025-07-29
+1905565	Huyện Bắc Bình	Huyen Bac Binh	Bac Binh District,Bắc Bình District,Huyen Bac Binh,Huyện Bắc Bình	11.27571	108.38506	A	ADM2	VN		68	596			108224		35	Asia/Ho_Chi_Minh	2025-07-29
+1905566	Huyện Tuy Phong	Huyen Tuy Phong	Huyen Tuy Phong,Huyện Tuy Phong,Tuy Phong District	11.34746	108.70466	A	ADM2	VN		68	595			90819		311	Asia/Ho_Chi_Minh	2025-07-29
+1905567	Huyện Hàm Tân	Huyen Ham Tan	Ham Tan District,Huyen Ham Tan,Huyện Hàm Tân,Hàm Tân District	10.76856	107.64233	A	ADM2	VN		68	601			168717		259	Asia/Ho_Chi_Minh	2025-07-29
+1905568	Huyện Tánh Linh	Huyen Tanh Linh	Huyen Tanh Linh,Huyện Tánh Linh,Tanh Linh District,Tánh Linh District	11.11367	107.68427	A	ADM2	VN		68	599			98679		119	Asia/Ho_Chi_Minh	2025-07-29
+1905569	Huyện Đức Linh	Huyen GJuc Linh	GJuc Linh District,Huyen Duc Linh,Huyện Đức Linh,Đức Linh District	11.17774	107.53015	A	ADM2	VN		68	600			0		119	Asia/Ho_Chi_Minh	2025-07-29
+1905570	Huyện Phú Quý	Huyen Phu Quy	Huyen Phu Quy,Huyện Phú Quý	10.52933	108.94376	A	ADM2	VN		68	602			30000		22	Asia/Ho_Chi_Minh	2025-10-22
+1905571	Thành Phố Vĩnh Yên	Thanh Pho Vinh Yen	Thanh Pho Vinh Yen,Thi xa Vinh Yen,Thành Phố Vĩnh Yên,Thị xã Vĩnh Yên	21.30538	105.5947	A	ADM2	VN		25	243			0		11	Asia/Bangkok	2025-07-29
+1905572	Huyện Tam Đảo	Huyen Tam GJao	Tam GJao District,Tam Đảo District	21.4569	105.5946	A	ADM2	VN		25	248			65812		223	Asia/Bangkok	2025-07-29
+1905573	Huyện Mê Linh	Huyen Me Linh	Huyen Me Linh,Huyện Mê Linh,Huyện Mẻ Linh	21.18644	105.70182	A	ADM2	VN		01	250			0		17	Asia/Bangkok	2025-07-29
+1905574	Huyện Yên Lạc	Huyen Yen Lac	Huyen Yen Lac,Huyện Yên Lạc,Yen Lac District,Yên Lạc District	21.21845	105.57586	A	ADM2	VN		25	251			145316		9	Asia/Bangkok	2025-07-29
+1905575	Huyện Vĩnh Tường	Huyen Vinh Tuong	Huyen Vinh Tuong,Huyện Vĩnh Tường	21.24433	105.49683	A	ADM2	VN		25	252			0		10	Asia/Bangkok	2025-07-29
+1905576	Huyện Lập Thạch	Huyen Lap Thach	Huyen Lap Thach,Huyện Lập Thạch,Lap Thach District,Lập Thạch District	21.41878	105.48496	A	ADM2	VN		25	246			0		40	Asia/Bangkok	2025-07-29
+1905578	Thành Phố Việt Trì	Thanh Pho Viet Tri	Thanh Pho Viet Tri,Thành Phố Việt Trì	21.33451	105.38151	A	ADM2	VN		25	227			415280		30	Asia/Bangkok	2025-07-29
+1905579	Thị xã Phú Thọ	Thi xa Phu Tho	Thi xa Phu Tho,Thị xã Phú Thọ	21.41664	105.23636	A	ADM2	VN		25	228			63333		25	Asia/Bangkok	2025-07-29
+1905580	Huyện Phù Ninh	Huyen Phu Ninh	Huyen Phong Chau,Huyen Phu Ninh,Huyện Phong Châu,Huyện Phù Ninh	21.44805	105.30725	A	ADM2	VN		25	233			0		34	Asia/Bangkok	2025-07-29
+1905581	Huyện Thanh Ba	Huyen Thanh Ba	Huyen Thanh Ba,Huyện Thanh Ba,Thanh Ba District	21.46	105.16576	A	ADM2	VN		25	232			109806		44	Asia/Bangkok	2025-07-29
+1905582	Huyện Cẩm Khê	Huyen Cam Khe	Cam Khe District,Cẩm Khê District,Huyen Cam Khe,Huyen Song Thao,Huyện Cẩm Khê,Huyện Sông Thao	21.40683	105.09845	A	ADM2	VN		25	235			128537		40	Asia/Bangkok	2025-07-29
+1905583	Huyện Tam Nông	Huyen Tam Nong	Huyen Tam Nong,Huyen Tam Thanh,Huyện Tam Nông,Huyện Tam Thanh,Tam Nong District,Tam Nông District	21.29444	105.23134	A	ADM2	VN		25	236			0		50	Asia/Bangkok	2025-07-29
+1905584	Huyện Thanh Sơn	Huyen Thanh Son	Huyen Thanh Son,Huyện Thanh Sơn,Tan Son District,Tân Sơn District	21.0722	105.18542	A	ADM2	VN		25	238			0		418	Asia/Bangkok	2025-07-29
+1905585	Huyện Yên Lập	Huyen Yen Lap	Huyen Yen Lap,Huyện Yên Lâp,Huyện Yên Lập,Yen Lap District,Yên Lập District	21.35569	105.00493	A	ADM2	VN		25	234			79548		292	Asia/Bangkok	2025-07-29
+1905586	Huyện Hạ Hòa	Huyen Ha Hoa	Ha Hoa District,Huyen Ha Hoa,Huyện Ha Hòa,Huyện Hạ Hòa,Hạ Hòa District	21.57763	104.99464	A	ADM2	VN		25	231			108556		39	Asia/Bangkok	2025-07-29
+1905587	Huyện Đoan Hùng	Huyen GJoan Hung	GJoan Hung District,Huyen Doan Hung,Huyện Đoan Hùng,Đoan Hùng District	21.61776	105.1611	A	ADM2	VN		25	230			105242		21	Asia/Bangkok	2025-07-29
+1905588	Thành Phố Hà Tĩnh	Thanh Pho Ha Tinh	Thanh Pho Ha Tinh,Thi Xa Ha Tinh,Thành Phố Hà Tĩnh,Thị Xã Hà Tĩnh	18.36277	105.89533	A	ADM2	VN		42	436			0		6	Asia/Bangkok	2025-07-29
+1905589	Huyện Cẩm Xuyên	Huyen Cam Xuyen	Cam Xuyen District,Cẩm Xuyên District,Huyen Cam Xuyen,Huyện Cẩm Xuyên	18.19059	106.00186	A	ADM2	VN		42	446			153523		104	Asia/Bangkok	2025-07-29
+1905590	Huyện Kỳ Anh	Huyen Ky Anh	Huyen Ky Anh,Huyện Kỳ Anh,Ky Anh District,Kỳ Anh District	18.06707	106.17088	A	ADM2	VN		42	447			168400		128	Asia/Bangkok	2025-07-29
+1905591	Huyện Hương Khê	Huyen Huong Khe		18.17005	105.69848	A	ADM2	VN		42	444			0		19	Asia/Bangkok	2025-07-29
+1905592	Huyện Thạch Hà	Huyen Thach Ha	Thach Ha District,Thạch Hà District	18.35091	105.81123	A	ADM2	VN		42	445			182120		11	Asia/Bangkok	2025-07-29
+1905593	Huyện Can Lộc	Huyen Can Loc	Can Loc District,Can Lộc District	18.44414	105.7635	A	ADM2	VN		42	443			180931		5	Asia/Bangkok	2025-07-29
+1905594	Huyện Nghi Xuân	Huyen Nghi Xuan	Nghi Xuan District,Nghi Xuân District	18.62419	105.76829	A	ADM2	VN		42	442			99288		7	Asia/Bangkok	2025-07-29
+1905595	Thị Xã Hồng Lĩnh	Thi Xa Hong Linh	Thi Xa Hong Linh,Thị Xã Hồng Lĩnh	18.5293	105.70998	A	ADM2	VN		42	437			0		26	Asia/Bangkok	2025-07-29
+1905596	Huyện Ðức Thọ	Huyen Duc Tho	GJuc Tho District,Đức Thọ District	18.49699	105.61016	A	ADM2	VN		42	440			117730		7	Asia/Bangkok	2025-07-29
+1905597	Huyện Hương Sơn	Huyen Huong Son	Huong Son District,Hương Sơn District	18.47577	105.3285	A	ADM2	VN		42	439			0		16	Asia/Bangkok	2025-07-29
+1905598	Thành Phố Nha Trang	Thanh Pho Nha Trang	Thanh Pho Nha Trang,Thành Phố Nha Trang	12.25458	109.16655	A	ADM2	VN		56	568			392279		5	Asia/Ho_Chi_Minh	2025-07-29
+1905599	Huyện Diên Khánh	Huyen Dien Khanh	Dien Khanh District,Diên Khánh District,Huyen Dien Khanh,Huyện Diên Khánh	12.27341	109.0389	A	ADM2	VN		56	574			134118		8	Asia/Ho_Chi_Minh	2025-07-29
+1905600	Thành Phố Cam Ranh	Thanh Pho Cam Ranh	Huyen Cam Ranch,Huyện Cam Ranch,Thanh Pho Cam Ranh,Thành Phố Cam Ranh	11.90943	109.12605	A	ADM2	VN		56	569			121050		1	Asia/Ho_Chi_Minh	2025-07-29
+1905601	Huyện Khánh Sơn	Huyen Khanh Son	Huyen Khanh Son,Huyện Khánh Sơn,Khanh Son District,Khánh Sơn District	12.02858	108.90814	A	ADM2	VN		56	575			18368		358	Asia/Ho_Chi_Minh	2025-07-29
+1905602	Huyện Khánh Vĩnh	Huyen Khanh Vinh	Huyen Khanh Vinh,Huyện Khánh Vĩnh,Khanh Vinh District,Khánh Vĩnh District	12.30593	108.83073	A	ADM2	VN		56	573			28865		435	Asia/Ho_Chi_Minh	2025-07-29
+1905603	Thị Xã Ninh Hòa	Thi Xa Ninh Hoa	Huyen Ninh Hoa,Huyện Ninh Hòa,Ninh Hoa,Ninh Hòa,Thi Xa Ninh Hoa,Thị Xã Ninh Hòa	12.53938	109.11847	A	ADM2	VN		56	572			227630		15	Asia/Ho_Chi_Minh	2025-07-29
+1905604	Huyện Vạn Ninh	Huyen Van Ninh	Huyen Van Ninh,Huyện Vạn Ninh,Van Ninh District,Vạn Ninh District	12.7668	109.24594	A	ADM2	VN		56	571			126805		597	Asia/Ho_Chi_Minh	2025-07-29
+1905605	Huyện Trường Sa	Huyen Truong Sa	Truong Sa District,Trường Sa District	8.82718	114.02253	A	ADM2	VN		56	576			0		-9999		2025-07-29
+1905606	Thành Phố Kon Tum	Thanh Pho Kon Tum	Kon Tum City,Thanh Pho Kon Tum,Thanh pho Kontum,Thi Xa Kon Tum,Thành Phố Kon Tum,Thành phố Kontum,Thị Xã Kon Tum	14.34356	107.97894	A	ADM2	VN		51	608			0		521	Asia/Ho_Chi_Minh	2025-07-29
+1905607	Huyện Đắk Hà	Huyen GJak Ha	GJak Ha District,Huyen Dak Ha,Huyện Đắk Hà,Đắk Hà District	14.60326	107.98547	A	ADM2	VN		51	615			53684		768	Asia/Ho_Chi_Minh	2025-07-29
+1905608	Huyện Kon Plông	Huyen Kon Plong	Huyen Kon Plong,Huyện Kon Plông,Kon Plong District,Kon Plông District	14.7562	108.32057	A	ADM2	VN		51	613			31700		888	Asia/Ho_Chi_Minh	2025-07-29
+1905609	Huyện Đắk Tô	Huyen GJak To	Huyen Dak To,Huyện Đắk Tô	14.70087	107.80816	A	ADM2	VN		51	612			29015		636	Asia/Ho_Chi_Minh	2025-07-29
+1905610	Huyện Sa Thầy	Huyen Sa Thay	Huyen Sa Thay,Huyện Sa Thầy,Sa Thay District,Sa Thầy District	14.3205	107.59862	A	ADM2	VN		51	616			29605		539	Asia/Ho_Chi_Minh	2025-07-29
+1905611	Huyện Ngọc Hồi	Huyen Ngoc Hoi	Huyen Ngoc Hoi,Huyện Ngọc Hồi,Ngoc Hoi District,Ngọc Hồi District	14.7194	107.62636	A	ADM2	VN		51	611			30392		630	Asia/Ho_Chi_Minh	2025-07-29
+1905612	Huyện Đắk Glei	Huyen GJak Glei	GJak Glei District,Huyen Dak Glei,Huyện Đắk Glei,Đắk Glei District	15.11358	107.75093	A	ADM2	VN		51	610			31166		782	Asia/Ho_Chi_Minh	2025-07-29
+1905613	Thành Phố Quảng Ngãi	Thanh Pho Quang Ngai	Thanh Pho Quang Ngai,Thi Xa Quang Ngai,Thành Phố Quảng Ngãi,Thị Xã Quảng Ngãi	15.11687	108.79783	A	ADM2	VN		51	522			0		15	Asia/Ho_Chi_Minh	2025-07-29
+1905614	Huyện Tư Nghĩa	Huyen Tu Nghia	Huyen Tu Nghia,Huyện Tư Nghĩa,Tu Nghia District,Tư Nghĩa District	15.09499	108.77053	A	ADM2	VN		51	528			178132		9	Asia/Ho_Chi_Minh	2025-07-29
+1905615	Huyện Sơn Tịnh	Huyen Son Tinh	Huyen Son Tinh,Huyện Sơn Tịnh,Son Tinh District,Sơn Tịnh District	15.19481	108.71918	A	ADM2	VN		51	527			192841		27	Asia/Ho_Chi_Minh	2025-07-29
+1905616	Huyện Bình Sơn	Huyen Binh Son	Binh Son District,Bình Sơn District,Huyen Binh Son,Huyện Bình Sơn	15.30902	108.7706	A	ADM2	VN		51	524			177943		8	Asia/Ho_Chi_Minh	2025-07-29
+1905617	Huyện Trà Bồng	Huyen Tra Bong	Huyen Tra Bong,Huyện Trà Bồng,Tra Bong District,Trà Bồng District	15.23752	108.52633	A	ADM2	VN		51	525			28758		319	Asia/Ho_Chi_Minh	2025-07-29
+1905618	Huyện Sơn Tây	Huyen Son Tay	Huyen Son Tay,Huyện Sơn Tây,Son Tay District,Sơn Tây District	14.96392	108.36419	A	ADM2	VN		51	530			15164		903	Asia/Ho_Chi_Minh	2025-07-29
+1905619	Huyện Sơn Hà	Huyen Son Ha	Huyen Son Ha,Huyện Sơn Hà,Son Ha District,Sơn Hà District	14.98427	108.53643	A	ADM2	VN		51	529			64398		135	Asia/Ho_Chi_Minh	2025-07-29
+1905620	Huyện Minh Long	Huyen Minh Long	Huyen Minh Long,Huyện Minh Long,Minh Long District	14.95375	108.67724	A	ADM2	VN		51	531			14634		479	Asia/Ho_Chi_Minh	2025-07-29
+1905621	Huyện Nghĩa Hành	Huyen Nghia Hanh	Huyen Nghia Hanh,Huyện Nghĩa Hành,Nghia Hanh District,Nghĩa Hành District	14.96994	108.77961	A	ADM2	VN		51	532			98156		7	Asia/Ho_Chi_Minh	2025-07-29
+1905622	Huyện Mộ Đức	Huyen Mo GJuc	Huyen Mo Duc,Huyện Mộ Đức,Mo GJuc District,Mộ Đức District	14.95515	108.88841	A	ADM2	VN		51	533			140133		9	Asia/Ho_Chi_Minh	2025-07-29
+1905623	Huyện Ba Tơ	Huyen Ba To	Ba To District,Ba Tơ District,Huyen Ba To,Huyện Ba Tơ	14.73973	108.69326	A	ADM2	VN		51	535			47268		221	Asia/Ho_Chi_Minh	2025-07-29
+1905624	Huyện Đức Phổ	Huyen GJuc Pho	GJuc Pho District,Huyen Duc Pho,Huyện Đức Phổ,Đức Phổ District	14.78	108.97857	A	ADM2	VN		51	534			150566		23	Asia/Ho_Chi_Minh	2025-07-29
+1905625	Huyện Lý Sơn	Huyen Ly Son	Huyen Ly Son,Huyện Lý Sơn,Ly Son District,Lý Sơn District	15.38184	109.11451	A	ADM2	VN		51	536			19695		27		2025-07-29
+1905627	Thành Phố Nam Định	Thanh Pho Nam GJinh	Thanh Pho Nam Dinh,Thành Phố Nam Định	20.42974	106.17191	A	ADM2	VN		37	356			0		8	Asia/Bangkok	2025-07-29
+1905628	Huyện Mỹ Lộc	Huyen My Loc	Huyen My Loc,Huyện Mỹ Lộc,My Loc District,Mỹ Lộc District	20.46079	106.12319	A	ADM2	VN		37	358			68674		5	Asia/Bangkok	2025-07-29
+1905629	Huyện Vụ Bản	Huyen Vu Ban	Huyen Vu Ban,Huyện Vụ Bản,Vu Ban District,Vụ Bản District	20.37705	106.09707	A	ADM2	VN		37	359			130672		5	Asia/Bangkok	2025-07-29
+1905630	Huyện Ý Yên	Huyen Y Yen	Huyen Y Yen,Huyện Ý Yên,Y Yen District,Ý Yên District	20.31669	106.02327	A	ADM2	VN		37	360			241689		5	Asia/Bangkok	2025-07-29
+1905631	Huyện Nam Trực	Huyen Nam Truc	Huyen Nam Truc,Huyện Nam Trực,Nam Truc District,Nam Trực District	20.34106	106.20821	A	ADM2	VN		37	362			203311		3	Asia/Bangkok	2025-07-29
+1905632	Huyện Trực Ninh	Huyen Truc Ninh	Huyen Truc Ninh,Huyện Trực Ninh,Truc Ninh District,Trực Ninh District	20.2569	106.24582	A	ADM2	VN		37	363			196765		3	Asia/Bangkok	2025-07-29
+1905633	Huyện Xuân Trường	Huyen Xuan Truong	Huyen Xuan Truong,Huyện Xuân Trường,Xuan Truong District,Xuân Trường District	20.29615	106.35176	A	ADM2	VN		37	364			0		2	Asia/Bangkok	2025-07-29
+1905634	Huyện Giao Thủy	Huyen Giao Thuy	Giao Thuy District,Giao Thủy District,Huyen Giao Thuy,Huyện Giao Thủy	20.25706	106.46245	A	ADM2	VN		37	365			207273		3	Asia/Bangkok	2025-07-29
+1905635	Huyện Hải Hậu	Huyen Hai Hau	Hai Hau District,Huyen Hai Hau,Huyện Hải Hậu,Hải Hậu District	20.15057	106.27161	A	ADM2	VN		37	366			285298		5	Asia/Bangkok	2025-07-29
+1905636	Huyện Nghĩa Hưng	Huyen Nghia Hung	Huyen Nghia Hung,Huyện Nghĩa Hưng,Nghia Hung District,Nghĩa Hưng District	20.10598	106.17345	A	ADM2	VN		37	361			205680		3	Asia/Bangkok	2025-07-29
+1905638	Thành Phố Phủ Lý	Thanh Pho Phu Ly	Ha Nam,Hà Nam,Thanh Pho Phu Ly,Thi xa Phu Ly,Thành Phố Phủ Lý,Thị xã Phủ Lý	20.54018	105.91897	A	ADM2	VN		37	347			162635		6	Asia/Bangkok	2025-07-29
+1905639	Thị Xã Duy Tiên	Thi Xa Duy Tien	Duy Tien District,Duy Tiên District,Huyen Duy Tien,Huyện Duy Tiên,Thi Xa Duy Tien,Thị Xã Duy Tiên	20.62803	105.96193	A	ADM2	VN		37	349			131244		5	Asia/Bangkok	2025-07-29
+1905640	Huyện Kim Bảng	Huyen Kim Bang	Huyen Kim Bang,Huyện Kim Bảng,Kim Bang District,Kim Bảng District	20.57254	105.85043	A	ADM2	VN		37	350			129227		7	Asia/Bangkok	2025-07-29
+1905641	Huyện Thanh Liêm	Huyen Thanh Liem	Huyen Thanh Liem,Huyện Thanh Liêm,Thanh Liem District,Thanh Liêm District	20.4471	105.91702	A	ADM2	VN		37	351			136083		12	Asia/Bangkok	2025-07-29
+1905642	Huyện Bình Lục	Huyen Binh Luc	Binh Luc District,Bình Lục District,Huyen Binh Luc,Huyện Bình Lục	20.50126	106.02959	A	ADM2	VN		37	352			158023		5	Asia/Bangkok	2025-07-29
+1905643	Huyện Lý Nhân	Huyen Ly Nhan	Huyen Ly Lhan,Huyen Ly Nhan,Huyện Lý Lhân,Huyện Lý Nhân,Ly Nhan District,Lý Nhân District	20.56422	106.09455	A	ADM2	VN		37	353			189180		0	Asia/Bangkok	2025-07-29
+1905644	Thành Phố Huế	Thanh Pho Hue	Thanh Pho Hue,Thành Phố Huế	16.45618	107.57633	A	ADM2	VN		46	474			0		12	Asia/Bangkok	2025-07-29
+1905645	Thị Xã Hương Thủy	Thi Xa Huong Thuy	Huyen Huong Thuy,Huyện Hương Thủy,Thi Xa Huong Thuy,Thị Xã Hương Thủy	16.31472	107.62439	A	ADM2	VN		46	479			0		15	Asia/Bangkok	2025-07-29
+1905646	Huyện Phú Vang	Huyen Phu Vang	Huyen Phu Vang,Huyện Phú Vang,Phu Vang District,Phú Vang District	16.47007	107.71458	A	ADM2	VN		46	478			178968		9	Asia/Bangkok	2025-07-29
+1905647	Huyện Quảng Ðiền	Huyen Quang Dien	Quang GJien District,Quảng Điền District	16.57941	107.4937	A	ADM2	VN		46	477			91514		7	Asia/Bangkok	2025-07-29
+1905648	Huyện Phong Điền	Huyen Phong GJien	Huyen Phong Dien,Huyện Phong Điền,Phong GJien District,Phong Điền District	16.50859	107.28439	A	ADM2	VN		46	476			105017		36	Asia/Bangkok	2025-07-29
+1905649	Thị Xã Hương Trà	Thi Xa Huong Tra	Huyen Huong Tra,Huyện Hương Trà,Thi Xa Huong Tra,Thị Xã Hương Trà	16.4358	107.4836	A	ADM2	VN		46	480			0		37	Asia/Bangkok	2025-07-29
+1905650	Huyện A Lưới	Huyen A Luoi	A Luoi District,A Lưới District,Huyen A Luoi,Huyện A Lưới	16.23422	107.3065	A	ADM2	VN		46	481			38616		626	Asia/Bangkok	2025-07-29
+1905651	Huyện Nam Đông	Huyen Nam GJong	Huyen Nam Dong,Huyện Nam Đông,Nam GJong District,Nam Đông District	16.12396	107.6927	A	ADM2	VN		46	483			22333		91	Asia/Bangkok	2025-07-29
+1905652	Huyện Phú Lộc	Huyen Phu Loc	Huyen Phu Loc,Huyện Phú Lộc,Phu Loc District,Phú Lộc District	16.27066	107.88545	A	ADM2	VN		46	482			149418		6	Asia/Bangkok	2025-07-29
+1905653	Thành Phố Tuy Hòa	Thanh Pho Tuy Hoa	Thanh Pho Tuy Hoa,Thi Xa Tuy Hoa,Thành Phố Tuy Hòa,Thị Xã Tuy Hòa,Tuy Hoa,Tuy Hòa	13.10451	109.28177	A	ADM2	VN		66	555			0		24	Asia/Ho_Chi_Minh	2025-07-29
+1905655	Huyện Sông Hinh	Huyen Song Hinh	Huyen Song Hinh,Huyện Sông Hinh,Song Hinh District,Sông Hinh District	12.91667	108.91667	A	ADM2	VN		66	561			38102		226	Asia/Ho_Chi_Minh	2025-07-29
+1905656	Huyện Sơn Hòa	Huyen Son Hoa	Huyen Son Hoa,Huyện Sơn Hòa,Son Hoa District,Sơn Hòa District	13.15868	108.97281	A	ADM2	VN		66	560			50212		346	Asia/Ho_Chi_Minh	2025-07-29
+1905657	Huyện Tuy An	Huyen Tuy An	Huyen Tuy An,Huyện Tuy An,Tuy An District	13.25067	109.206	A	ADM2	VN		66	559			0		276	Asia/Ho_Chi_Minh	2025-07-29
+1905658	Thị Xã Sông Cầu	Thi Xa Song Cau	Huyen Song Cau,Huyện Sông Cầu,Thi Xa Song Cau,Thị Xã Sông Cầu	13.5261	109.18634	A	ADM2	VN		66	557			0		54	Asia/Ho_Chi_Minh	2025-07-29
+1905659	Huyện Đồng Xuân	Huyen GJong Xuan	GJong Xuan District,Huyen Dong Xuan,Huyện Đồng Xuân,Đồng Xuân District	13.41484	108.98458	A	ADM2	VN		66	558			0		395	Asia/Ho_Chi_Minh	2025-07-29
+1905660	Thành Phố Yên Bái	Thanh Pho Yen Bai	Thanh Pho Yen Bai,Thi Xa Yen Bai,Thành Phố Yên Bái,Thị Xã Yên Bái	21.70916	104.88992	A	ADM2	VN		15	132			0		58	Asia/Bangkok	2025-07-29
+1905661	Nghĩa Lộ	Nghia Lo	Nghia Lo,Nghĩa Lộ,Thi Xa Nghia Lo,Thị Xã Nghĩa Lộ	21.59878	104.50395	A	ADM2	VN		15	133			68206		284	Asia/Bangkok	2025-07-29
+1905662	Huyện Trấn Yên	Huyen Tran Yen	Huyen Tran Yen,Huyện Trấn Yên,Tran Yen District,Trấn Yên District	21.66586	104.79702	A	ADM2	VN		15	138			96949		252	Asia/Bangkok	2025-07-29
+1905663	Huyện Văn Chấn	Huyen Van Chan	Huyen Van Chan,Huyện Văn Chấn	21.60044	104.58643	A	ADM2	VN		15	140			116804		854	Asia/Bangkok	2025-07-29
+1905664	Huyện Yên Bình	Huyen Yen Binh	Huyen Yen Binh,Huyện Yên Bình,Yen Binh District,Yên Bình District	21.85464	104.95402	A	ADM2	VN		15	141			0		53	Asia/Bangkok	2025-07-29
+1905665	Huyện Văn Yên	Huyen Van Yen	Huyen Van Yen,Huyện Văn Yên,Van Yen District,Văn Yên District	21.90022	104.56669	A	ADM2	VN		15	136			111715		486	Asia/Bangkok	2025-07-29
+1905666	Huyện Lục Yên	Huyen Luc Yen	Huyen Luc Yen,Huyện Lục Yên,Luc Yen District,Lục Yên District	22.10235	104.72538	A	ADM2	VN		15	135			100785		104	Asia/Bangkok	2025-07-29
+1905667	Huyện Trạm Tấu	Huyen Tram Tau	Huyen Tram Tau,Huyện Trạm Tấu,Tram Tau District,Trạm Tấu District	21.48553	104.42756	A	ADM2	VN		15	139			21887		555	Asia/Bangkok	2025-07-29
+1905668	Huyện Mù Cang Chải	Huyen Mu Cang Chai	Huyen Mu Cang Chai,Huyện Mù Cang Chải,Huyện Mù Căng Chải	21.78815	104.11998	A	ADM2	VN		15	137			42574		1566	Asia/Bangkok	2025-07-29
+1905670	Huyện Bạch Thông	Huyen Bach Thong	Bach Thong District,Bạch Thông District,Huyen Bach Thong,Huyện Bạch Thông	22.24506	105.81919	A	ADM2	VN		19	063			31585		238	Asia/Bangkok	2025-07-29
+1905671	Huyện Chợ Đồn	Huyen Cho GJon	Cho GJon District,Chợ Đồn District,Huyen Cho Don,Huyện Chợ Đồn	22.18681	105.5728	A	ADM2	VN		19	064			49296		382	Asia/Bangkok	2025-07-29
+1905672	Huyện Ba Bể	Huyen Ba Be	Ba Be District,Ba Bể District,Huyen Ba Be,Huyện Ba Bể	22.41667	105.75	A	ADM2	VN		19	061			47910		362	Asia/Bangkok	2025-07-29
+1905673	Huyện Ngân Sơn	Huyen Ngan Son	Huyen Ngan Son,Huyện Ngân Sơn,Ngan Son,Ngan Son District,Ngân Sơn,Ngân Sơn District	22.42962	106.0103	A	ADM2	VN		19	062			29509		634	Asia/Bangkok	2025-07-29
+1905674	Huyện Na Rì	Huyen Na Ri	Huyen Na Ri,Huyện Na Rì,Na Ri District,Na Rì District	22.15724	106.09371	A	ADM2	VN		19	066			38833		326	Asia/Bangkok	2025-07-29
+1905676	Huyện Giá Rai	Huyen Gia Rai	Gia Rai District,Giá Rai District,Huyen Gia Rai,Huyện Giá Rai	9.27162	105.40017	A	ADM2	VN		96	959			125690		1	Asia/Ho_Chi_Minh	2025-07-29
+1905677	Huyện Hồng Dân	Huyen Hong Dan	Hong Dan District,Huyen Hong Dan,Huyện Hồng Dân,Hồng Dân District	9.52664	105.40767	A	ADM2	VN		96	956			95182		1	Asia/Ho_Chi_Minh	2025-07-29
+1905679	Thành Phố Cà Mau	Thanh Pho Ca Mau	Thanh Pho Ca Mau,Thi Xa Ca Ma,Thành Phố Cà Mau,Thị Xã Cà Ma	9.1641	105.18804	A	ADM2	VN		96	964			0		1	Asia/Ho_Chi_Minh	2025-07-29
+1905680	Huyện Thới Bình	Huyen Thoi Binh	Huyen Thoi Binh,Huyện Thới Bình,Thoi Binh District,Thới Bình District	9.3579	105.16023	A	ADM2	VN		96	967			138763		2	Asia/Ho_Chi_Minh	2025-07-29
+1905681	Huyện U Minh	Huyen U Minh	Huyen U Minh,Huyện U Minh	9.3677	104.94119	A	ADM2	VN		96	966			120420		2	Asia/Ho_Chi_Minh	2025-07-29
+1905682	Huyện Trần Văn Thời	Huyen Tran Van Thoi	Huyen Tran Van Thoi,Huyện Trần Văn Thời,Tran Van Thoi District,Trần Văn Thời District	9.12661	104.92326	A	ADM2	VN		96	968			0		1	Asia/Ho_Chi_Minh	2025-07-29
+1905683	Huyện Cái Nước	Huyen Cai Nuoc	Cai Nuoc District,Cái Nước District,Huyen Cai Nuoc,Huyện Cái Nước	9.00094	105.04201	A	ADM2	VN		96	969			139552		3	Asia/Ho_Chi_Minh	2025-07-29
+1905684	Huyện Đầm Dơi	Huyen GJam Doi	GJam Doi District,Huyen Dam Doi,Huyện Đầm Dơi,Đầm Dơi District	8.96029	105.24107	A	ADM2	VN		96	970			180918		0	Asia/Ho_Chi_Minh	2025-07-29
+1905685	Huyện Ngọc Hiển	Huyen Ngoc Hien	Huyen Ngoc Hien,Huyện Ngọc Hiển	8.66223	104.99692	A	ADM2	VN		96	973			91620		1	Asia/Ho_Chi_Minh	2025-07-29
+1905687	Thành Phố Hải Dương	Thanh Pho Hai Duong	Thanh Pho Hai Duong,Thi Xa Hai Duong,Thành Phố Hải Dương,Thị Xã Hải Dương	20.94166	106.32736	A	ADM2	VN		31	288			0		2	Asia/Bangkok	2025-07-29
+1905688	Huyện Cẩm Giàng	Huyen Cam Giang	Cam Giang District,Cẩm Giàng District,Huyen Cam Giang,Huyện Cẩm Giàng	20.94079	106.21822	A	ADM2	VN		31	295			121298		4	Asia/Bangkok	2025-07-29
+1905689	Huyện Bình Giang	Huyen Binh Giang	Binh Giang District,Bình Giang District,Huyen Binh Giang,Huyện Bình Giang	20.87305	106.18304	A	ADM2	VN		31	296			106689		5	Asia/Bangkok	2025-07-29
+1905690	Huyện Gia Lộc	Huyen Gia Loc	Gia Loc District,Gia Lộc District,Huyen Gia Loc,Huyện Gia Lộc	20.84494	106.28995	A	ADM2	VN		31	297			151177		4	Asia/Bangkok	2025-07-29
+1905691	Huyện Thanh Miện	Huyen Thanh Mien	Huyen Thanh Mien,Huyện Thanh Miện,Thanh Mien District,Thanh Miện District	20.77712	106.2224	A	ADM2	VN		31	300			131552		5	Asia/Bangkok	2025-07-29
+1905692	Huyện Ninh Giang	Huyen Ninh Giang	Huyen Minh Giang,Huyen Ninh Giang,Huyện Minh Giang,Huyện Ninh Giang	20.74713	106.33459	A	ADM2	VN		31	299			0		7	Asia/Bangkok	2025-07-29
+1905693	Huyện Tứ Kỳ	Huyen Tu Ky	Huyen Tu Ky,Huyện Tứ Kỳ	20.82137	106.40831	A	ADM2	VN		31	298			152541		2	Asia/Bangkok	2025-07-29
+1905694	Huyện Thanh Hà	Huyen Thanh Ha	Huyen Thanh Ha,Huyện Thanh Hà	20.88972	106.43174	A	ADM2	VN		31	294			0		4	Asia/Bangkok	2025-07-29
+1905695	Huyện Kim Thành	Huyen Kim Thanh	Huyen Kim Thanh,Huyện Kim Thành,Kim Thanh District,Kim Thành District	20.93967	106.51255	A	ADM2	VN		31	293			0		1	Asia/Bangkok	2025-07-29
+1905696	Huyện Nam Sách	Huyen Nam Sach	Huyen Nam Sach,Huyện Nam Sách,Nam Sach District,Nam Sách District	21.0128	106.34218	A	ADM2	VN		31	291			139184		60	Asia/Bangkok	2025-07-29
+1905697	Thị Xã Kinh Môn	Thi Xa Kinh Mon	Huyen Kinh Mon,Huyện Kinh Môn,Kinh Mon District,Kinh Môn District,Thi Xa Kinh Mon,Thị Xã Kinh Môn	21.01175	106.50832	A	ADM2	VN		31	292			164956		95	Asia/Bangkok	2025-07-29
+1905698	Thành Phố Chí Linh	Thanh Pho Chi Linh	Chi Linh District,Chí Linh District,Huyen Chi Linh,Huyện Chí Linh,Thanh Pho Chi Linh,Thi Xa Chi Linh,Thành Phố Chí Linh,Thị Xã Chí Linh	21.13577	106.39359	A	ADM2	VN		31	290			149555		75	Asia/Bangkok	2025-07-29
+1905700	Huyện Tiên Lữ	Huyen Tien Lu	Huyen Tien Lu,Huyện Tiên Lữ,Tien Lu District,Tiên Lữ District	20.6849	106.12513	A	ADM2	VN		33	332			109496		4	Asia/Bangkok	2025-07-29
+1905701	Huyện Kim Động	Huyen Kim GJong	Huyen Kim Dong,Huyện Kim Đông,Huyện Kim Động,Kim GJong District,Kim Động District	20.74645	106.03632	A	ADM2	VN		33	331			123443		3	Asia/Bangkok	2025-07-29
+1905702	Huyện Phù Cừ	Huyen Phu Cu	Huyen Phu Cu,Huyện Phù Cừ,Phu Cu District,Phù Cừ District	20.70997	106.19744	A	ADM2	VN		33	333			88605		3	Asia/Bangkok	2025-07-29
+1905703	Huyện Ân Thi	Huyen An Thi	An Thi District,Huyen An Thi,Huyện Ân Thi,Ân Thi District	20.81086	106.09995	A	ADM2	VN		33	329			135423		4	Asia/Bangkok	2025-07-29
+1905704	Huyện Khoái Châu	Huyen Khoai Chau	Huyen Chau Giang,Huyen Khoai Chau,Huyện Châu Giang,Huyện Khoái Châu,Khoai Chau District,Khoái Châu District	20.8217	105.97455	A	ADM2	VN		33	330			187420		5	Asia/Bangkok	2025-07-29
+1905705	Huyện Mỹ Hào	Huyen My Hao	Huyen My Hao,Huyen My Van,Huyện Mỹ Hào,Huyện Mỹ Văn,My Hao District,Mỹ Hào District	20.9321	106.1063	A	ADM2	VN		33	328			86242		6	Asia/Bangkok	2025-07-29
+1905854	Thành Phố Hưng Yên	Thanh Pho Hung Yen	Thanh Pho Hung Yen,Thi Xa Hung Yen,Thành Phố Hưng Yên,Thị Xã Hưng Yên	20.65693	106.05953	A	ADM2	VN		33	323			0		2	Asia/Bangkok	2025-07-29
+1905855	Thành Phố Thái Nguyên	Thanh Pho Thai Nguyen	Thanh Pho Thai Nguyen,Thành Phố Thái Nguyên	21.56062	105.80893	A	ADM2	VN		19	164			420000		42	Asia/Bangkok	2025-07-29
+1905857	Thành Phố Cao Bằng	Thanh Pho Cao Bang	Thanh Pho Cao Bang,Thi Xa Cao Bang,Thành Phố Cao Bằng,Thị Xã Cao Bằng	22.64727	106.26402	A	ADM2	VN		04	040			0		294	Asia/Bangkok	2025-07-29
+1905858	Quận Hồng Bàng	Quan Hong Bang	Quan Hong Bang,Quận Hồng Bàng	20.86838	106.65041	A	ADM2	VN		31	303			96111		3	Asia/Bangkok	2025-07-29
+1905859	Thành Phố Tuyên Quang	Thanh Pho Tuyen Quang	Thanh Pho Tuyen Quang,Thi Xa Tuyen Quang,Thành Phố Tuyên Quang,Thị Xã Tuyên Quang	21.778	105.23319	A	ADM2	VN		08	070			0		29	Asia/Bangkok	2025-07-29
+1905860	Huyện Sơn Dương	Huyen Son Duong	Huyen Son Duong,Huyện Sơn Dương,Son Duong District,Sơn Dương District	21.65941	105.36915	A	ADM2	VN		08	076			174118		100	Asia/Bangkok	2025-07-29
+1905861	Huyện Yên Sơn	Huyen Yen Son	Huyen Yen Son,Huyện Yên Sơn,Yen Son District,Yên Sơn District	21.88363	105.27656	A	ADM2	VN		08	075			175917		185	Asia/Bangkok	2025-07-29
+1905862	Huyện Hàm Yên	Huyen Ham Yen	Ham Yen District,Huyen Ham Yen,Huyện Hàm Yên,Hàm Yên District	22.10935	105.0163	A	ADM2	VN		08	074			109000		66	Asia/Bangkok	2025-07-29
+1905863	Huyện Chiêm Hóa	Huyen Chiem Hoa	Chiem Hoa District,Chiêm Hoá District,Huyen Chiem Hoa,Huyện Chiêm Hóa	22.17895	105.27671	A	ADM2	VN		08	073			132722		66	Asia/Bangkok	2025-07-29
+1905864	Huyện Na Hang	Huyen Na Hang	Huyen Na Hang,Huyện Na Hang,Na Hang District	22.44577	105.45073	A	ADM2	VN		08	072			66561		451	Asia/Bangkok	2025-07-29
+1905865	Thành phố Bắc Giang	Thanh pho Bac Giang	Thanh pho Bac Giang,Thi Xa Bac Giang,Thành phố Bắc Giang,Thị Xã Bắc Giang	21.28941	106.19215	A	ADM2	VN		24	213			0		15	Asia/Bangkok	2025-07-29
+1905866	Thành Phố Bắc Kạn	Thanh Pho Bac Kan	Thanh Pho Bac Kan,Thi Xa Bac Kan,Thành Phố Bắc Kạn,Thị Xã Bắc Kạn	22.14085	105.84704	A	ADM2	VN		19	058			29227		221	Asia/Bangkok	2025-07-29
+1905867	Thành phố Bạc Liêu	Thanh pho Bac Lieu	Thanh pho Bac Lieu,Thi Xa Bac Lieu,Thành phố Bạc Liêu,Thị Xã Bạc Liêu	9.26736	105.76123	A	ADM2	VN		96	954			0		1	Asia/Ho_Chi_Minh	2025-07-29
+1905868	Quận Hải Châu	Quan Hai Chau	Quan Hai Chau,Quận Hải Châu	16.04176	108.21346	A	ADM2	VN		48	492			0		8	Asia/Ho_Chi_Minh	2025-07-29
+2591717	Huyện Lắk	Huyen Lak	Huyen Lac,Huyen Lak,Huyện Lắc,Huyện Lắk	12.31988	108.21041	A	ADM2	VN		66	656			64644		481	Asia/Ho_Chi_Minh	2025-10-22
+2591718	Huyện Đắk Mil	Huyen GJak Mil	Huyen Dak Mil,Huyện Đắk Mil	12.51633	107.67292	A	ADM2	VN		68	663			0		552	Asia/Ho_Chi_Minh	2025-07-29
+2591721	Huyện Krông Ana	Huyen Krong Ana		12.5	108.08333	A	ADM2	VN		66	655			0		476	Asia/Ho_Chi_Minh	2025-07-29
+2591722	Huyện Krông Bông	Huyen Krong Bong	Huyen Krong Bong,Huyện Krông Bông	12.46423	108.5054	A	ADM2	VN		66	653			0		1348	Asia/Ho_Chi_Minh	2025-07-29
+2591723	Huyện Krông Pắk	Huyen Krong Pak	Huyen Krong Pak,Huyện Krông Păk,Huyện Krông Pắk,Krong Pac,Krông Pắc	12.69292	108.36453	A	ADM2	VN		66	654			0		447	Asia/Ho_Chi_Minh	2025-07-29
+2591724	Huyện Ea Kar	Huyen Ea Kar	Huyen Ea Kar,Huyện Ea Kar	12.78609	108.51529	A	ADM2	VN		66	651			154513		456	Asia/Ho_Chi_Minh	2025-10-22
+2591725	Huyện M’Đrắk	Huyen M'GJrak	Huyen M'Drak,Huyện M’Đrắk	12.69833	108.82262	A	ADM2	VN		66	652			0		646	Asia/Ho_Chi_Minh	2025-07-29
+2591727	Huyện Cư M’Gar	Huyen Cu M'Gar	Huyen Cu M'Gar,Huyện Cư M’Gar	12.88024	108.07563	A	ADM2	VN		66	648			0		489	Asia/Ho_Chi_Minh	2025-07-29
+2591728	Huyện Krông Búk	Huyen Krong Buk	Huyen Krong Buk,Huyện Krông Búk	13.02098	108.20683	A	ADM2	VN		66	649			62648		694	Asia/Ho_Chi_Minh	2025-10-22
+2591729	Huyện Krông Năng	Huyen Krong Nang		13	108.41667	A	ADM2	VN		66	650			124577		688	Asia/Ho_Chi_Minh	2025-10-22
+2591730	Huyện Ea H'Leo	Huyen Ea H'Leo	Ea H'leo District	13.31814	108.07148	A	ADM2	VN		66	645			128347		746	Asia/Ho_Chi_Minh	2025-10-22
+2591731	Huyện Cư Jút	Huyen Cu Jut	Cu Giut,Cu Jut District,Cư Giút,Cư Jút District,Huyen Cu Jut,Huyện Cư Jút	12.69591	107.76316	A	ADM2	VN		68	662			92464		333	Asia/Ho_Chi_Minh	2025-07-29
+8336104	Phường Sài Gòn	Phuong Sai Gon	Phuong Ben Nge (ten cu),Phuong Sai Gon,Phường Bến Ngé (tên cũ),Phường Sài Gòn,SG,Sai Gon	10.78039	106.70315	A	ADM2	VN		79	8336104	26740		47022		11	Asia/Ho_Chi_Minh	2026-03-29
+8340641	Thị Xã Từ Sơn	Thi Xa Tu Son	Thi Xa Tu Son,Thị Xã Từ Sơn	21.12319	105.96217	A	ADM2	VN		24	261			0		15	Asia/Bangkok	2025-07-29
+8341012	Huyện Phước Long	Huyen Phuoc Long	Huyen Phuoc Long,Huyện Phước Long,Phuoc Long District,Phước Long District	9.40522	105.43279	A	ADM2	VN		96	957			0		-1	Asia/Ho_Chi_Minh	2025-07-29
+8341013	Huyện Vĩnh Lợi	Huyen Vinh Loi	Huyen Vinh Loi,Huyện Vĩnh Lợi,Vinh Loi District,Vĩnh Lợi District	9.3397	105.69612	A	ADM2	VN		96	958			0		1		2025-07-29
+8341025	Huyện Đông Hải	Huyen GJong Hai	Huyen Dong Hai,Huyện Đông Hải	9.14824	105.43425	A	ADM2	VN		96	960			0		3	Asia/Ho_Chi_Minh	2025-07-29
+8372933	Huyện Lương Tài	Huyen Luong Tai	Huyen Luong Tai,Huyện Lương Tài	21.02512	106.22061	A	ADM2	VN		24	264			0		76	Asia/Bangkok	2025-07-29
+8381796	Huyện Pác Nặm	Huyen Pac Nam	Huyen Pac Nam,Huyện Pác Nặm	22.60651	105.66589	A	ADM2	VN		19	060			33439		377	Asia/Bangkok	2025-07-29
+8381797	Huyện Chợ Mới	Huyen Cho Moi	Huyen Cho Moi,Huyện Chợ Mới	21.96866	105.86414	A	ADM2	VN		19	065			0		378	Asia/Bangkok	2025-07-29
+8421398	Huyện Long Điền	Huyen Long GJien	Huyen Long GJien,Huyện Long Điền	10.45138	107.22691	A	ADM2	VN		79	752			0		39	Asia/Ho_Chi_Minh	2025-07-29
+8456760	Huyện Tam Đường	Huyen Tam GJuong	Huyen Tam GJuong,Huyện Tam Đường,Tam GJuong District,Tam Đường District	22.31131	103.60054	A	ADM2	VN		12	106			41235		866	Asia/Bangkok	2025-07-29
+8464780	Huyện Si Ma Cai	Huyen Si Ma Cai	Huyen Si Ma Cai,Huyện Si Ma Cai,Si Ma Cai District	22.67161	104.27326	A	ADM2	VN		15	084			25554		1470	Asia/Bangkok	2025-07-29
+8473912	Huyện Quang Bình	Huyen Quang Binh	Huyen Quang Binh,Huyện Quang Bình,Quang Binh District,Quảng Bình District	22.41507	104.66018	A	ADM2	VN		08	035			53160		105	Asia/Bangkok	2025-07-29
+8523098	Huyện Lâm Bình	Huyen Lam Binh	Huyen Lam Binh,Huyện Lâm Bình,Lam Binh District,Lâm Bình District	22.46411	105.21903	A	ADM2	VN		08	071			29459		206	Asia/Bangkok	2025-07-29
+8541569	Huyện Mường Nhé	Huyen Muong Nhe	Huyen Muong Nhe,Huyện Mường Nhé,Muong Nhe District,Mường Nhé District	22.10353	102.58465	A	ADM2	VN		11	096			34829		518	Asia/Bangkok	2025-07-29
+8541570	Huyện Mường Chà	Huyen Muong Cha	Huyen Muong Cha,Huyện Mường Chà,Muong Cha District,Mường Chà District	21.8569	103.05928	A	ADM2	VN		11	097			0		980	Asia/Bangkok	2025-07-29
+8541572	Huyện Mường Ảng	Huyen Muong Ang	Huyen Muong Ang,Huyện Mường Ảng	21.52585	103.26333	A	ADM2	VN		11	102			0		737	Asia/Bangkok	2025-07-29
+8542836	Huyện Bảo Lâm	Huyen Bao Lam	Bao Lam District,Bảo Lâm District,Huyen Bao Lam,Huyện Bảo Lâm	22.87041	105.4878	A	ADM2	VN		04	042			46294		543	Asia/Bangkok	2025-07-29
+8551063	Huyện Cao Phong	Huyen Cao Phong	Cao Phong District,Huyen Cao Phong,Huyện Cao Phong	20.69532	105.33559	A	ADM2	VN		25	154			45470		234	Asia/Bangkok	2025-07-29
+8556376	Phu Giao District	Phu Giao District	Huyen Phu Giao,Huyện Phú Giáo,Phu Giao District	11.26461	106.76582	A	ADM2	VN		79	722			0		53	Asia/Ho_Chi_Minh	2025-07-29
+8594850	Quận Dương Kinh	Quan Duong Kinh	Quan Duong Kinh,Quận Dương Kinh	20.78276	106.71073	A	ADM2	VN		31	309			0		1	Asia/Bangkok	2025-07-29
+8595255	Huyện Đầm Hà	Huyen GJam Ha	GJam Ha District,Huyen Dam Ha,Huyện Đầm Hà,Đầm Hà District	21.39689	107.56175	A	ADM2	VN		22	200			31414		77	Asia/Bangkok	2025-07-29
+8608536	Huyện Tân Sơn	Huyen Tan Son	Huyen Tan Son,Huyện Tân Sơn	21.18507	104.98502	A	ADM2	VN		25	240			0		242	Asia/Bangkok	2025-07-29
+8608648	Huyện Sông Lô	Huyen Song Lo	Huyen Song Lo,Huyện Sông Lô	21.43918	105.40744	A	ADM2	VN		25	253			0		27	Asia/Bangkok	2025-07-29
+8609067	Huyện Tam Dương	Huyen Tam Duong	Huyen Tam Duong,Huyện Tam Dương,Tam Duong District,Tam Dương District	21.36189	105.5569	A	ADM2	VN		25	247			94124		22	Asia/Bangkok	2025-07-29
+8609068	Huyện Bình Xuyên	Huyen Binh Xuyen	Binh Xuyen District,Bình Xuyên District,Huyen Binh Xuyen,Huyện Bình Xuyên	21.30561	105.66225	A	ADM2	VN		25	249			104526		11	Asia/Bangkok	2025-07-29
+8615793	Quận Long Biên	Quan Long Bien	Quan Long Bien,Quận Long Biên	21.0382	105.89194	A	ADM2	VN		01	004			0		15	Asia/Bangkok	2025-07-29
+8615794	Quận Hoàng Mai	Quan Hoang Mai	Quan Hoang Mai,Quận Hoàng Mai	20.97458	105.85808	A	ADM2	VN		01	008			0		7	Asia/Bangkok	2025-07-29
+8624034	Thị Xã Thái Hòa	Thi Xa Thai Hoa	Thi Xa Thai Hoa,Thị Xã Thái Hòa	19.28464	105.44759	A	ADM2	VN		40	414			0		114	Asia/Bangkok	2025-07-29
+8624083	Thị Xã Hoàng Mai	Thi Xa Hoang Mai	Thi Xa Hoang Mai,Thị Xã Hoàng Mai	19.26186	105.70655	A	ADM2	VN		40	432			0		8	Asia/Bangkok	2025-07-29
+8637597	Huyện Vũ Quang	Huyen Vu Quang	Huyen Vu Quang,Huyện Vũ Quang,Vu Quang Distrct,Vũ Quang Distrct	18.33907	105.44901	A	ADM2	VN		42	441			0		73	Asia/Bangkok	2025-07-29
+8650854	Huyện Cồn Cỏ	Huyen Con Co	Con Co District,Cồn Cỏ District,Huyen Con Co,Huyện Cồn Cỏ,Tiger Island	17.15862	107.33931	A	ADM2	VN		44	471			0		42	Asia/Ho_Chi_Minh	2025-07-29
+8656304	Quận Cẩm Lệ	Quan Cam Le	Quan Cam Le,Quận Cẩm Lệ	16.0124	108.19949	A	ADM2	VN		48	495			0		9	Asia/Ho_Chi_Minh	2025-07-29
+8665308	Huyện Nông Sơn	Huyen Nong Son	Huyen Nong Son,Huyện Nông Sơn	15.6713	108.00501	A	ADM2	VN		48	519			0		23	Asia/Ho_Chi_Minh	2025-07-29
+8668381	Huyện Đông Giang	Huyen GJong Giang	Huyen Dong Giang,Huyện Đông Giang	15.93785	107.75566	A	ADM2	VN		48	505			0		414	Asia/Ho_Chi_Minh	2025-07-29
+8668382	Huyện Tây Giang	Huyen Tay Giang	Huyen Tay Giang,Huyện Tây Giang	15.84999	107.4869	A	ADM2	VN		48	504			0		802	Asia/Ho_Chi_Minh	2025-07-29
+8668383	Huyện Bắc Trà My	Huyen Bac Tra My	Huyen Bac Tra My,Huyện Bắc Trà My	15.29835	108.21675	A	ADM2	VN		48	515			0		439	Asia/Ho_Chi_Minh	2025-07-29
+8668384	Huyện Phú Ninh	Huyen Phu Ninh	Huyen Phu Ninh,Huyện Phú Ninh	15.52061	108.42305	A	ADM2	VN		48	518			0		29	Asia/Ho_Chi_Minh	2025-07-29
+8673071	Huyện Tây Trà	Huyen Tay Tra	Huyen Tay Tra,Huyện Tây Trà	15.16831	108.36841	A	ADM2	VN		51	526			0		216	Asia/Ho_Chi_Minh	2025-07-29
+8675877	Huyện Tu Mơ Rông	Huyen Tu Mo Rong	Huyen Tu Mo Rong,Huyện Tu Mơ Rông,Tu Mo Rong District,Tu Mơ Rông District	14.90187	107.94004	A	ADM2	VN		51	617			0		1422	Asia/Ho_Chi_Minh	2025-07-29
+8675878	Huyện Kon Rẫy	Huyen Kon Ray	Huyen Kon Ray,Huyện Kon Rẫy	14.53257	108.1713	A	ADM2	VN		51	614			0		692	Asia/Ho_Chi_Minh	2025-07-29
+8701097	Huyện Chư Pưh	Huyen Chu Puh	Huyen Chu Puh,Huyện Chư Pưh	13.52183	108.07946	A	ADM2	VN		52	639			0		361	Asia/Ho_Chi_Minh	2025-07-29
+8701098	Huyện Phú Thiện	Huyen Phu Thien	Huyen Phu Thien,Huyện Phú Thiện	13.49046	108.3218	A	ADM2	VN		52	638			0		196	Asia/Ho_Chi_Minh	2025-07-29
+8701099	Huyện Ia Pa	Huyen Ia Pa	Huyen Ia Pa,Huyện Ia Pa	13.5161	108.53879	A	ADM2	VN		52	635			0		515	Asia/Ho_Chi_Minh	2025-07-29
+8701100	Huyện Đak Đoa	Huyen GJak GJoa	Huyen Dak Doa,Huyện Đak Đoa	14.0659	108.14204	A	ADM2	VN		52	626			0		714	Asia/Ho_Chi_Minh	2025-07-29
+8701101	Huyện Đak Pơ	Huyen GJak Po	Huyen Dak Po,Huyện Đak Pơ	13.92068	108.61183	A	ADM2	VN		52	634			0		402	Asia/Ho_Chi_Minh	2025-07-29
+8714530	Tân Phú District	Tan Phu District		10.79883	106.62324	A	ADM2	VN		79	767			0		4	Asia/Ho_Chi_Minh	2025-07-29
+8714967	Huyen Sop Cop	Huyen Sop Cop		20.88745	103.49743	A	ADM2	VN		14	127			0		1251	Asia/Bangkok	2025-07-29
+8719342	Thị Xã Đông Hòa	Thi Xa GJong Hoa	GJong Hoa District,Huyen Dong Hoa,Huyện Đông Hòa,Thi Xa Dong Hoa,Thị Xã Đông Hòa,Đông Hòa District	12.94521	109.35225	A	ADM2	VN		66	564			0		3	Asia/Ho_Chi_Minh	2025-07-29
+8724351	Huyện Cư Kuin	Huyen Cu Kuin	Huyen Cu Kuin,Huyện Cư Kuin	12.58658	108.1806	A	ADM2	VN		66	657			0		448	Asia/Ho_Chi_Minh	2025-07-29
+8724352	Thị Xã Buôn Hồ	Thi Xa Buon Ho	Thi Xa Buon Ho,Thị Xã Buôn Hồ	12.84456	108.28366	A	ADM2	VN		66	644			0		593	Asia/Ho_Chi_Minh	2025-07-29
+8727411	Huyen Dak Glong	Huyen Dak Glong	GJak Glong District,Đăk Glong District	12.10136	107.80235	A	ADM2	VN		68	661			73851		874	Asia/Ho_Chi_Minh	2025-07-29
+8727413	Huyen Tuy Duc	Huyen Tuy Duc		12.11512	107.3905	A	ADM2	VN		68	667			0		559	Asia/Ho_Chi_Minh	2025-07-29
+8727414	Huyen Dak Song	Huyen Dak Song	GJak Song District,Đăk Song District	12.23283	107.62168	A	ADM2	VN		68	665			0		888	Asia/Ho_Chi_Minh	2025-07-29
+8727590	Huyen Bac Ai	Huyen Bac Ai	Bac Ai District,Bác Ái District	11.83342	108.85515	A	ADM2	VN		56	584			0		139	Asia/Ho_Chi_Minh	2025-07-29
+8727784	Kien Luong Town	Kien Luong Town	Kien Luong District,Kiên Lương District,Thi xa Kien Luong,Thị xã Kiên Lương	10.24892	104.59	A	ADM2	VN		91	902			93905		6	Asia/Ho_Chi_Minh	2025-07-29
+8728273	Huyen Nga Nam	Huyen Nga Nam	Nga Nam District,Ngã Năm District	9.56127	105.59476	A	ADM2	VN		92	948			75719		4	Asia/Ho_Chi_Minh	2025-07-29
+8728393	Huyen Nam Can	Huyen Nam Can	Nam Can District,Năm Căn District	8.81531	105.05574	A	ADM2	VN		96	971			100330		1	Asia/Ho_Chi_Minh	2025-07-29
+8739723	Huyen Phuc Hoa	Huyen Phuc Hoa	Phuc Hoa District,Phục Hòa District	22.5384	106.51039	A	ADM2	VN		04	050			22271		151	Asia/Bangkok	2025-07-29
+8741043	Huyen Lam Thao	Huyen Lam Thao	Lam Thao District,Lâm Thao District	21.29971	105.31119	A	ADM2	VN		25	237			106610		19	Asia/Bangkok	2025-07-29
+8742970	Huyện Cam Lâm	Huyen Cam Lam	Cam Lam District,Cam Lâm District,Huyen Cam Lam,Huyện Cam Lâm	12.06322	109.11176	A	ADM2	VN		56	570			0		45	Asia/Ho_Chi_Minh	2025-07-29
+8746512	Thành Phố Gia Nghĩa	Thanh Pho Gia Nghia	Thanh Pho Gia Nghia,Thi Xa Gia Nghia,Thành Phố Gia Nghĩa,Thị Xã Gia Nghĩa	11.98979	107.69718	A	ADM2	VN		68	660			61413		627	Asia/Ho_Chi_Minh	2025-07-29
+8993902	Huyện Thuận Nam	Huyen Thuan Nam	Huyen Thuan Nam,Huyện Thuận Nam,Thuan Nam District,Thuận Nam District	11.43575	108.85043	A	ADM2	VN		56	589			0		60	Asia/Ho_Chi_Minh	2025-07-29
+8998373	Thị Xã La Gi	Thi Xa La Gi	Thi Xa La Gi,Thị Xã La Gi	10.72311	107.78911	A	ADM2	VN		68	594			0		58	Asia/Ho_Chi_Minh	2025-07-29
+9072539	Cái Răng	Cai Rang	Cai Rang District,Cái Răng District	9.99271	105.78548	A	ADM2	VN		92	919			140057		2	Asia/Ho_Chi_Minh	2025-07-29
+9072543	Huyện Châu Thành A	Huyen Chau Thanh A	Chau Thanh A District,Châu Thành A District	9.93056	105.64194	A	ADM2	VN		92	932			163357		-2	Asia/Ho_Chi_Minh	2025-07-29
+9075679	Huyện Cẩm Mỹ	Huyen Cam My	Cam My District,Cẩm Mỹ District,Huyen Cam My,Huyện Cẩm Mỹ	10.80894	107.25284	A	ADM2	VN		75	739			0		323	Asia/Ho_Chi_Minh	2025-07-29
+9075680	Huyện Trảng Bom	Huyen Trang Bom	Huyen Trang Bom,Huyện Trảng Bom,Trang Bom District,Trảng Bom District	10.96624	107.03614	A	ADM2	VN		75	737			192627		62	Asia/Ho_Chi_Minh	2025-07-29
+9078131	Huyện Hớn Quản	Huyen Hon Quan	Hon Quan District,Huyen Hon Quan,Huyện Hớn Quản,Hớn Quản District	11.59718	106.62739	A	ADM2	VN		75	694			21849		101	Asia/Ho_Chi_Minh	2025-07-29
+9078132	Huyện Bù Gia Mập	Huyen Bu Gia Map	Bu Gia Map District,Bù Gia Mập District,Huyen Bu Gia Map,Huyện Bù Gia Mập	12.00802	107.07072	A	ADM2	VN		75	691			0		285	Asia/Ho_Chi_Minh	2025-07-29
+9078133	Huyện Bù Đốp	Huyen Bu GJop	Bu GJop District,Bù Đốp District,Huyen Bu Dop,Huyện Bù Đốp	11.98954	106.80362	A	ADM2	VN		75	693			51597		153	Asia/Ho_Chi_Minh	2025-07-29
+9078134	Huyện Chơn Thành	Huyen Chon Thanh	Chon Thanh District,Chơn Thành District,Huyen Chon Thanh,Huyện Chơn Thành	11.47526	106.66182	A	ADM2	VN		75	697			59856		55	Asia/Ho_Chi_Minh	2025-07-29
+9078135	Thị Xã Đồng Xoài	Thi Xa GJong Xoai	Thi Xa Dong Xoai,Thị Xã Đồng Xoài	11.52117	106.85084	A	ADM2	VN		75	689			150052		106	Asia/Ho_Chi_Minh	2025-07-29
+9078138	Huyện Phú Riềng	Huyen Phu Rieng	Huyen Phu Rieng,Huyện Phú Riềng	11.73474	106.89721	A	ADM2	VN		75	698			0		150	Asia/Ho_Chi_Minh	2025-07-29
+9091202	Huyện Bàu Bàng	Huyen Bau Bang	Huyen Bau Bang,Huyện Bàu Bàng	11.26308	106.61396	A	ADM2	VN		79	719			0		44	Asia/Ho_Chi_Minh	2025-07-29
+9091481	Thành Phố Dĩ An	Thanh Pho Di An	Thanh Pho Di An,Thi Xa Di An,Thành Phố Dĩ An,Thị Xã Dĩ An	10.90693	106.77819	A	ADM2	VN		79	724			0		33	Asia/Ho_Chi_Minh	2025-07-29
+9091482	Huyện Dầu Tiêng	Huyen Dau Tieng	Huyen Dau Tieng,Huyện Dầu Tiêng	11.31358	106.44291	A	ADM2	VN		79	720			0		45	Asia/Ho_Chi_Minh	2025-07-29
+9101340	Thị Xã Kiến Tường	Thi Xa Kien Tuong	Thi Xa Kien Tuong,Thị Xã Kiến Tường	10.77867	105.90309	A	ADM2	VN		80	795			0		1	Asia/Ho_Chi_Minh	2025-07-29
+9113513	Thị xã Cai Lậy	Thi xa Cai Lay	Thi Xa Cai Lay,Thị Xã Cai Lậy	10.42591	106.1435	A	ADM2	VN		82	817			0		4	Asia/Ho_Chi_Minh	2025-07-29
+9113514	Huyện Tân Phú Đông	Huyen Tan Phu GJong	Huyen Tan Phu Dong,Huyện Tân Phú Đông	10.26145	106.64066	A	ADM2	VN		82	825			0		2	Asia/Ho_Chi_Minh	2025-07-29
+9280591	Huyện U Minh Thượng	Huyen U Minh Thuong	Huyen U Minh Thuong,Huyện U Minh Thượng,U Minh Thuong District,U Minh Thượng District	9.6419	105.11914	A	ADM2	VN		91	913			0		2	Asia/Ho_Chi_Minh	2025-07-29
+9289553	Thị Xã Hồng Ngự	Thi Xa Hong Ngu	Thi Xa Hong Ngu,Thị Xã Hồng Ngự	10.81436	105.38265	A	ADM2	VN		82	868			0		3	Asia/Ho_Chi_Minh	2025-07-29
+9289604	Xã Mỹ Thọ	Xa My Tho	Thi Tran My Tho,Thị Trấn Mỹ Thọ	10.43728	105.69618	A	ADM2	VN		82	9289604	9289604		0		7	Asia/Ho_Chi_Minh	2026-02-11
+9289614	Xã Tân Khánh Trung	Xa Tan Khanh Trung	Xa Tan Khanh Trung,Xã Tân Khánh Trung	10.38144	105.69486	A	ADM2	VN		82	9289614	9289614		0		6	Asia/Ho_Chi_Minh	2026-02-11
+9289615	Xã Lấp Vò	Xa Lap Vo	Thi Tran Lap Vo,Thị Trấn Lấp Vò	10.35586	105.52235	A	ADM2	VN		82	8714525	9289615		0		5	Asia/Ho_Chi_Minh	2025-11-05
+9289619	Xã Phong Hòa	Xa Phong Hoa	Xa Phong Hoa,Xã Phong Hòa	10.18186	105.69426	A	ADM2	VN		82	9289619	9289619		0		6	Asia/Ho_Chi_Minh	2026-02-15
+9289623	Xã Tân Nhuận Đông	Xa Tan Nhuan GJong	Xa Tan Nhuan Dong,Xã Tân Nhuận Đông	10.24075	105.82126	A	ADM2	VN		82	9289623	30253		0		3	Asia/Ho_Chi_Minh	2025-11-05
+9289624	Xã Phú Hựu	Xa Phu Huu	Thi Tran Cai Tau Ha,Thị Trấn Cái Tàu Hạ,Xa Phu Huu,Xã Phú Hựu	10.25086	105.87272	A	ADM2	VN		82	9289624	9289624		0		4	Asia/Ho_Chi_Minh	2025-11-05
+9290449	Huyện Bình Tân	Huyen Binh Tan	Binh Tan District,Bình Tân District,Huyen Binh Tan,Huyện Bình Tân	10.12753	105.77883	A	ADM2	VN		86	863			0		1	Asia/Ho_Chi_Minh	2025-07-29
+9531822	Huyện Mỏ Cày Bắc	Huyen Mo Cay Bac	Huyen Mo Cay Bac,Huyện Mỏ Cày Bắc,Mo Cay Bac District,Mỏ Cày Bắc District	10.17827	106.30358	A	ADM2	VN		86	838			0		2	Asia/Ho_Chi_Minh	2025-07-29
+9533385	Quận Bình Thủy	Quan Binh Thuy	Quan Binh Thuy,Quận Bình Thủy	10.06195	105.72206	A	ADM2	VN		92	918			172317		1	Asia/Ho_Chi_Minh	2025-07-29
+9533386	Huyện Phong Điền	Huyen Phong GJien	Huyen Phong Dien,Huyện Phong Điền	10.00568	105.67094	A	ADM2	VN		92	926			0		1	Asia/Ho_Chi_Minh	2025-07-29
+9533387	Huyện Thới Lai	Huyen Thoi Lai	Huyen Thoi Lai,Huyện Thới Lai,Thoi Lai District,Thới Lai District	10.02997	105.53978	A	ADM2	VN		92	927			147546		1	Asia/Ho_Chi_Minh	2025-07-29
+9533388	Huyện Cờ Đỏ	Huyen Co GJo	Huyen Co Do,Huyện Cờ Đỏ	10.12956	105.46355	A	ADM2	VN		92	925			0		2	Asia/Ho_Chi_Minh	2025-07-29
+9533389	Huyện Vĩnh Thạnh	Huyen Vinh Thanh	Huyen Vinh Thanh,Huyện Vĩnh Thạnh	10.20821	105.37847	A	ADM2	VN		92	924			0		2	Asia/Ho_Chi_Minh	2025-07-29
+9534524	Thành Phố Ngã Bảy	Thanh Pho Nga Bay	Thanh Pho Nga Bay,Thi Xa Nga Bay,Thi Xa Tan Hiep,Thành Phố Ngã Bảy,Thị Xã Ngã Bảy,Thị Xã Tân Hiệp	9.8319	105.81923	A	ADM2	VN		92	931			0		0	Asia/Ho_Chi_Minh	2025-07-29
+9534525	Thành Phố Vị Thanh	Thanh Pho Vi Thanh	Thanh Pho Vi Thanh,Thành Phố Vị Thanh	9.74176	105.43406	A	ADM2	VN		92	930			0		4	Asia/Ho_Chi_Minh	2025-07-29
+9534762	Huyện Trần Đề	Huyen Tran GJe	Huyen Tran De,Huyện Trần Đề	9.49515	106.09386	A	ADM2	VN		92	951			0		-1	Asia/Ho_Chi_Minh	2025-07-29
+9534763	Huyện Cù Lao Dung	Huyen Cu Lao Dung	Huyen Cu Lao Dung,Huyện Cù Lao Dung	9.62429	106.18517	A	ADM2	VN		92	945			0		4	Asia/Ho_Chi_Minh	2025-07-29
+9643191	Huyện Phú Tân	Huyen Phu Tan	Huyen Phu Tan,Huyện Phú Tân,Phu Tan District,Phú Tân District	8.89338	104.88718	A	ADM2	VN		96	972			118940		2	Asia/Ho_Chi_Minh	2025-07-29
+10816510	Huyện Nậm Nhùn	Huyen Nam Nhun	Huyen Nam Nhun,Huyện Nậm Nhùn	22.2045	103.01127	A	ADM2	VN		12	112			0		906	Asia/Bangkok	2025-07-29
+10862502	Huyện Tân Uyên	Huyen Tan Uyen	Huyen Tan Uyen,Huyện Tân Uyên	22.12837	103.73576	A	ADM2	VN		12	111			0		770	Asia/Bangkok	2025-07-29
+11497303	Huyện Quảng Uyên	Huyen Quang Uyen	Quang Uyen District,Quảng Uyên District	22.70371	106.42842	A	ADM2	VN		04	049			0		556	Asia/Bangkok	2025-07-29
+11497304	Quận Hải An	Quan Hai An	Hai An District,Hải An District	20.84332	106.73561	A	ADM2	VN		31	306			0		6	Asia/Bangkok	2025-07-29
+11497306	Huyện Giang Thành	Huyen Giang Thanh	Giang Thanh District,Giang Thành District	10.46314	104.67889	A	ADM2	VN		91	914			34860		2		2025-07-29
+11497308	Quận Nam Từ Liêm	Quan Nam Tu Liem	Tu Liem District,Từ Liêm District	21.0364	105.76324	A	ADM2	VN		01	019			0		10	Asia/Bangkok	2025-07-29
+11497309	Huyện Lộc Hà	Huyen Loc Ha		18.46455	105.87117	A	ADM2	VN		42	448			0		16		2025-07-29
+11497321	Thị xã Kỳ Anh	Thi xa Ky Anh		18.12352	106.2635	A	ADM2	VN		42	449			0		8	Asia/Bangkok	2025-07-29
+11497324	Huyện Thuận Bắc	Huyen Thuan Bac	Thuan Bac District,Thuận Bắc District	11.71937	109.05836	A	ADM2	VN		56	588			0		31	Asia/Ho_Chi_Minh	2025-07-29
+11497328	Huyện Phú Hoà	Huyen Phu Hoa	Phu Hoa District,Phú Hòa District	13.09668	109.2271	A	ADM2	VN		66	563			0		10	Asia/Ho_Chi_Minh	2025-07-29
+11497330	Huyện Tây Hoà	Huyen Tay Hoa	Tay Hoa District,Tây Hòa District	12.9465	109.24393	A	ADM2	VN		66	562			0		8	Asia/Ho_Chi_Minh	2025-07-29
+11497331	Thị xã Duyên Hải	Thi xa Duyen Hai		9.59321	106.46782	A	ADM2	VN		86	851			0		2	Asia/Ho_Chi_Minh	2025-07-29
+11497332	Huyện Hoà Bình	Huyen Hoa Binh	Hoa Binh District,Hòa Bình District	9.2158	105.61432	A	ADM2	VN		96	961			0		2	Asia/Ho_Chi_Minh	2025-07-29
+11497333	Huyện Văn Giang	Huyen Van Giang	Van Giang District,Văn Giang District	20.94299	105.96279	A	ADM2	VN		33	326			0		4	Asia/Bangkok	2025-07-29
+11497334	Huyện Yên Mỹ	Huyen Yen My	Yen My District,Yên Mỹ District	20.91124	106.0239	A	ADM2	VN		33	327			0		5	Asia/Bangkok	2025-07-29
+11497336	Huyện Thanh Thuỷ	Huyen Thanh Thuy	Thanh Thuy District,Thanh Thủy District	21.15376	105.26926	A	ADM2	VN		25	239			0		21		2025-07-29
+11497337	Thị xã Phúc Yên	Thi xa Phuc Yen	Phuc Yen,Phúc Yên	21.23412	105.70208	A	ADM2	VN		25	244			0		12	Asia/Bangkok	2025-07-29
+11497338	Thành phố Lai Châu	Thanh pho Lai Chau	Lai Chau,Lai Châu	22.39937	103.40821	A	ADM2	VN		12	105			42973	1500	903		2025-07-29
+11497339	Thị xã Long Mỹ	Thi xa Long My		9.6702	105.5784	A	ADM2	VN		92	937			0		2	Asia/Ho_Chi_Minh	2025-07-29
+11497486	Quận Bình Tân	Quan Binh Tan	Binh Tan District,Bình Tân District	10.7615	106.59711	A	ADM2	VN		79	777			0		3		2025-07-29
+11497487	Huyện Vân Hồ	Huyen Van Ho		20.79657	104.81384	A	ADM2	VN		14	128			0		1120		2025-07-29
+11497488	Thị xã Ba Đồn	Thi xa Ba GJon		17.73595	106.3846	A	ADM2	VN		44	458			0		12		2025-07-29
+11497489	Huyện Văn Lâm	Huyen Van Lam	Van Lam District,Văn Lâm District	20.97546	106.03163	A	ADM2	VN		33	325			0		7	Asia/Bangkok	2025-07-29
+11497490	Huyện Điện Biên	Huyen GJien Bien	GJien Bien District,Điện Biên District	21.50192	102.98241	A	ADM2	VN		11	100			93850		871	Asia/Bangkok	2025-07-29
+11497491	Quảng trường Ba Đình	Quang truong Ba GJinh	Bac Tu Liem	21.07328	105.76118	A	ADM2	VN		01	021			0		9		2025-07-29
+11497492	Huyện Châu Thành	Huyen Chau Thanh	Chau Thanh District,Châu Thành District	9.70263	105.89773	A	ADM2	VN		92	942			0		2	Asia/Ho_Chi_Minh	2025-07-29
+11497493	Huyện Ia H'Drai	Huyen Ia H'Drai	Huyen Ia H'Drai,Huyện Ia H'Drai,Ia H'Drai District	14.06032	107.46243	A	ADM2	VN		51	618			0		225	Asia/Ho_Chi_Minh	2025-07-29
+11497494	Huyện Nậm Pồ	Huyen Nam Po		21.92012	102.7771	A	ADM2	VN		11	103			0		550	Asia/Bangkok	2025-07-29
+12166264	Xã Hòa Long	Xa Hoa Long	Hoa Long	10.28705	105.66163	A	ADM2	VN		82	12166264	12166264		0		2	Asia/Ho_Chi_Minh	2026-02-15

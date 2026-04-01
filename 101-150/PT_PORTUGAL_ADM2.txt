@@ -1,0 +1,308 @@
+﻿2268835	Crato	Crato	Crato,Crato Municipality	39.28657	-7.64408	A	ADM2	PT		16	1206			3708		274	Europe/Lisbon	2020-02-03
+2733531	Tondela	Tondela	Tondela,Tondela Municipality,tondella,tong de la,twndla,Тондела,توندلا,ტონდელა,通德拉,톤델라	40.54052	-8.1004	A	ADM2	PT		22	1821			28946		319	Europe/Lisbon	2020-02-04
+2738888	Gouveia	Gouveia	Gouveia,Gouveia Municipality,Goveja,ga'aubhe'iya,ge wei ya,goveia,gwwya,Говея,گوویا,গঔভেইয়া,გოვეია,戈維亞	40.50829	-7.5905	A	ADM2	PT		11	0906			14046		545	Europe/Lisbon	2020-02-04
+2739186	Fundão	Fundao	Fundan,Fundao,Fundao Municipality,Fundão,Fundão Municipality,feng dang,fundan,fwndaw,pundang,pundani,Фундан,فونداو,ფუნდანი,フンダン,豐當,푼당	40.12412	-7.49542	A	ADM2	PT		06	0504			29213		691	Europe/Lisbon	2020-02-03
+6458923	Lisbon	Lisbon	Lisboa,Lisbon,Lisbon Municipality,Lisbonne,Lissabon	38.72635	-9.14843	A	ADM2	PT		14	1106			547733		69	Europe/Lisbon	2019-07-24
+6458924	Porto	Porto	Gorad Portu,Oporto,Oportu,Portas,Porto,Portu,Portus Cale,bo er tu,bwrtw,parto,poleutu,por tu,porato,portu,poruto,pwrtw,Πόρτο,Горад Порту,Порто,Порту,Պորտու,פורטו,بورتو,پورتو,پورٹو,पोर्तू,পর্টো,পোর্তু,ਪੋਰਤੋ,ഒപ്പോർട്ടോ,โปร์ตู,პორტუ,ポルト,波爾圖,포르투	41.15556	-8.62672	A	ADM2	PT		17	1312			237591		89	Europe/Lisbon	2020-02-01
+6930331	Loures	Loures	Loresh,Loures,Loures Municipality,Louresh,loleuseu,loreshi,luo li shen,lwrs,lwrys,roreshu,Лореш,Лоуреш,لورس,لوريس,ლორეში,ローレシュ,洛里什,로르스	38.83024	-9.13343	A	ADM2	PT		14	1107			205054		66	Europe/Lisbon	2020-02-07
+6930614	Nisa	Nisa	Nisa,Nisa Municipality,Niza,ni sa,Низа,尼薩	39.51828	-7.67496	A	ADM2	PT		16	1212			7450		282	Europe/Lisbon	2020-02-05
+6930622	Vila Velha de Ródão	Vila Velha de Rodao	Vila Velha de Rodao Municipality,Vila Velha de Ródão Municipality	39.68709	-7.65987	A	ADM2	PT		06	0511			3521		132	Europe/Lisbon	2019-07-24
+6930628	Castelo de Vide	Castelo de Vide	Castelo de Vide,Castelo de Vide Municipality,Kashtehlu-dy-Vidy,Kashtelu-de-Vide,Kashtelu-di-Vidi,kastylw dy fydy,qstlw dh wydh,wei di bao,Каштелу-де-Віде,Каштелу-ди-Види,Каштэлу-ды-Віды,קסטלו דה וידה,كاستيلو دى فيدى,カシュテル・ディ・ヴィディ,維迪堡,维迪堡	39.43336	-7.51465	A	ADM2	PT		16	1205			3407		367	Europe/Lisbon	2020-02-05
+6930631	Marvão	Marvao	Marvao,Marvao Municipality,Marvão,Marvão Municipality	39.40516	-7.35854	A	ADM2	PT		16	1210			3512		517	Europe/Lisbon	2020-02-03
+6930638	Portalegre	Portalegre	Portalegre,Portalegre Municipality,Portalegri,Portalegrė,Portus Alacer,bldyt bwrtalyghry,bo ta lai ge lei,bwrtalyghry,bwrtalyjry,poleutallegeuleu,porutaregure,prtalgrh,pwrtalygrے,pʼortʼalegri,Порталегре,Порталегри,بلدية بورتاليغري,بورتاليجري,بورتاليغري,پرتالگره,پورتالیگرے,პორტალეგრი,ポルタレグレ,波塔萊格雷,포르탈레그르	39.2974	-7.41538	A	ADM2	PT		16	1214			24930		647	Europe/Lisbon	2020-02-07
+6930673	Gavião	Gaviao	Gaviao Municipality,Gavião Municipality	39.44462	-7.89532	A	ADM2	PT		16	1209			4132		277	Europe/Lisbon	2019-07-24
+6930676	Ponte de Sor	Ponte de Sor	Ponte de Sor,Ponte de Sor Municipality	39.21441	-8.0542	A	ADM2	PT		16	1213			16722		115	Europe/Lisbon	2020-02-05
+6930689	Alter do Chão	Alter do Chao	Alter do Chao,Alter do Chao Municipality,Alter do Chão,Alter do Chão Municipality	39.23098	-7.7443	A	ADM2	PT		16	1201			3562		173	Europe/Lisbon	2020-02-04
+6930694	Monforte	Monforte	Monforte,Monforte Municipality,Monforti,Perbandaran Monforte,meng fu er te,Монфорти,蒙福爾特	39.0496	-7.44428	A	ADM2	PT		16	1211			3329		258	Europe/Lisbon	2020-02-05
+7116056	Carregal do Sal	Carregal do Sal	Carregal do Sal,Carregal do Sal Municipality	40.45007	-7.99819	A	ADM2	PT		22	1802			9835		241	Europe/Lisbon	2020-02-04
+7732032	Seixal	Seixal	Seixal,Seixal Municipality	38.61173	-9.10371	A	ADM2	PT		19	1510			158269		23	Europe/Lisbon	2020-02-05
+8010413	Águeda	Agueda	Agueda,Agueda Municipality,Águeda	40.58052	-8.42542	A	ADM2	PT		02	0101			46131		55	Europe/Lisbon	2022-11-07
+8010414	Albergaria-A-Velha	Albergaria-A-Velha	Albergaria-A-Velha Municipality,Albergaria-a-Velha	40.68706	-8.50399	A	ADM2	PT		02	0102			25252		113	Europe/Lisbon	2020-02-03
+8010415	Anadia	Anadia	Anadia,Anadia Municipality	40.45106	-8.46246	A	ADM2	PT		02	0103			29150		29	Europe/Lisbon	2020-02-03
+8010416	Arouca	Arouca	Arouca,Arouca Municipality	40.92658	-8.27251	A	ADM2	PT		02	0104			22359		252	Europe/Lisbon	2020-02-03
+8010417	Aveiro	Aveiro	Abeiro,Aveiras,Aveiro,Aveiro Municipality,Avejro,Avejru,Aveyru,Aviarium,a wei luo,abeilu,abhe'iro,aveiru,avueiro,awaryw  prtgal,awyrw,Αβέιρο,Авеиро,Авейро,Авейру,Ավեյրու,אוואירו,آواریو، پرتگال,آويرو,آویرو,আভেইরো,ავეირუ,アヴェイロ,阿威罗,아베이루	40.62398	-8.61628	A	ADM2	PT		02	0105			78450		46	Europe/Lisbon	2020-02-07
+8010418	Castelo de Paiva	Castelo de Paiva	Castelo de Paiva,Castelo de Paiva Municipality,Castielho de Paiba,Kashtelu-de-Pajva,Kashtelu-di-Pajva,pai wa bao,Каштелу-де-Пайва,Каштелу-ди-Пайва,派瓦堡	41.03353	-8.29822	A	ADM2	PT		02	0106			16733		187	Europe/Lisbon	2020-02-05
+8010419	Espinho	Espinho	Espinho,Espinho Municipality	40.99901	-8.62506	A	ADM2	PT		02	0107			31786		46	Europe/Lisbon	2020-02-03
+8010420	Estarreja	Estarreja	Estarreja,Estarreja Municipality	40.75463	-8.57917	A	ADM2	PT		02	0108			26997		6	Europe/Lisbon	2020-02-03
+8010421	Santa Maria da Feira	Santa Maria da Feira	Santa Maria da Feira,Santa Maria da Feira Municipality,Santa-Marija-da-Fejra,sheng ma li ya da fei la,Санта-Мария-да-Фейра,Санта-Марія-да-Фейра,圣玛丽亚达费拉	40.96043	-8.51545	A	ADM2	PT		02	0109			139312		279	Europe/Lisbon	2020-02-07
+8010422	Ílhavo	Ilhavo	Ilhavo,Ilhavo Municipality,Ílhavo,Ílhavo Municipality	40.6117	-8.72	A	ADM2	PT		02	0110			39239		9	Europe/Lisbon	2022-11-14
+8010423	Mealhada	Mealhada	Meal'jada,Mealhada,Mealhada Municipality,Mialhada,mealiada,mei a li ya da,mylada,Меальяда,ميلادا,میلادا,მეალიადა,梅阿利亞達	40.36273	-8.44781	A	ADM2	PT		02	0111			20428		65	Europe/Lisbon	2020-02-04
+8010424	Murtosa	Murtosa	Murtosa,Murtosa Municipality	40.74301	-8.64023	A	ADM2	PT		02	0112			10585		4	Europe/Lisbon	2020-02-03
+8010425	Oliveira de Azeméis	Oliveira de Azemeis	Oliveira de Azemeis,Oliveira de Azemeis Municipality,Oliveira de Azeméis,Oliveira de Azeméis Municipality	40.85078	-8.46945	A	ADM2	PT		02	0113			68611		236	Europe/Lisbon	2020-02-03
+8010426	Oliveira do Bairro	Oliveira do Bairro	Oliveira do Bairro,Oliveira do Bairro Municipality	40.50977	-8.56374	A	ADM2	PT		02	0114			23028		56	Europe/Lisbon	2020-02-03
+8010427	Ovar	Ovar	Ovar,Ovar Municipality	40.89422	-8.61226	A	ADM2	PT		02	0115			55398		41	Europe/Lisbon	2020-02-03
+8010428	São João da Madeira	Sao Joao da Madeira	San-Zhuan-da-Madejra,Sao Joao da Madeira,Sao Joao da Madeira Municipality,Sao Zhoao da Madeira,São João da Madeira,São João da Madeira Municipality,san-zhuan-da-madeira,saw zhwaw da madyra,sheng ruo ang-da ma de la,Сан-Жуан-да-Мадейра,Сао Жоао да Мадеира,ساو ژواو دا مادیرا,სან-ჟუან-და-მადეირა,聖若昂-達馬德拉	40.89772	-8.49283	A	ADM2	PT		02	0116			21713		226	Europe/Lisbon	2020-02-08
+8010429	Sever do Vouga	Sever do Vouga	Seber de l Bouga,Sever do Vouga,Sever do Vouga Municipality,Sever-du-Voga,Sever-du-Vouga,wo jia he pan sai wei er,Север-ду-Вога,Север-ду-Воуга,沃加河畔塞維爾	40.73156	-8.35493	A	ADM2	PT		02	0117			12356		226	Europe/Lisbon	2020-02-05
+8010430	Vagos	Vagos	Vagos,Vagos Municipality	40.49943	-8.6783	A	ADM2	PT		02	0118			22851		41	Europe/Lisbon	2020-02-03
+8010431	Vale de Cambra	Vale de Cambra	Bal de Cambra,Vale de Cambra Municipality,Vale-de-Kambra,Vali di Kambra,Vali-di-Kambra,wa lai di kan bu la,walh d kambra,Вале-де-Камбра,Вали-ди-Камбра,Վալի դի Կամբրա,واله د کامبرا,ვალე-დე-კამბრა,瓦萊迪坎布拉	40.845	-8.36022	A	ADM2	PT		02	0119			22864		353	Europe/Lisbon	2019-07-24
+8010432	Aljustrel	Aljustrel	Aljustrel,Aljustrel Municipality	37.90559	-8.19304	A	ADM2	PT		03	0201			9257		106	Europe/Lisbon	2020-02-03
+8010433	Almodôvar	Almodovar	Almodovar,Almodovar Municipality,Almodôvar,Almodôvar Municipality	37.4959	-8.09372	A	ADM2	PT		03	0202			7449		324	Europe/Lisbon	2020-02-03
+8010434	Alvito	Alvito	Alvito,Alvito Municipality	38.24653	-8.05038	A	ADM2	PT		03	0203			2504		146	Europe/Lisbon	2020-02-03
+8010435	Barrancos	Barrancos	Barrancos,Barrancos Municipality	38.15459	-7.07115	A	ADM2	PT		03	0204			1834		222	Europe/Lisbon	2020-02-03
+8010436	Beja	Beja	Beja,Beja Municipality,Beza,Bezha,Beža,bajt,bei ya,beja,bezha,byja  prtgal,bzha,Бежа,باجة,بژا,بیجا، پرتگال,ბეჟა,ベージャ,貝雅,베자	37.988	-7.87773	A	ADM2	PT		03	0205			35854		243	Europe/Lisbon	2020-02-05
+8010437	Castro Verde	Castro Verde	Castro Verde,Castro Verde Municipality	37.71193	-8.02416	A	ADM2	PT		03	0206			7276		174	Europe/Lisbon	2020-02-03
+8010438	Cuba	Cuba	Cuba,Cuba Municipality	38.21972	-7.92114	A	ADM2	PT		03	0207			4878		186	Europe/Lisbon	2020-02-03
+8010439	Ferreira do Alentejo	Ferreira do Alentejo	Ferreira do Alentejo,Ferreira do Alentejo Municipality	38.09918	-8.17137	A	ADM2	PT		03	0208			8255		99	Europe/Lisbon	2020-02-03
+8010440	Mértola	Mertola	Mertola,Mertola Municipality,Mértola,Mértola Municipality,martlt,merutora,Мертола,مارتلة,メルトラ	37.65918	-7.66434	A	ADM2	PT		03	0209			7274		83	Europe/Lisbon	2020-02-03
+8010441	Moura	Moura	Moura,Moura Municipality	38.13148	-7.29677	A	ADM2	PT		03	0210			15167		181	Europe/Lisbon	2020-02-03
+8010442	Odemira	Odemira	Odemir,Odemira,Odimira,Ontemira,ao de mi la,odimira,wady myrt,Οντεμίρα,Одемира,Одеміра,Одимира,Օդեմիր,وادي ميرة,オディミーラ,奥德米拉,奧德米拉	37.62724	-8.573	A	ADM2	PT		03	0211			26066		177	Europe/Lisbon	2020-02-03
+8010443	Ourique	Ourique	Ourique,Ourique Municipality	37.69156	-8.31031	A	ADM2	PT		03	0212			5389		152	Europe/Lisbon	2020-02-03
+8010444	Serpa	Serpa	Serpa,Serpa Municipality,sai er pa,serupa,shrbt,srpa,Серпа,سرپا,شربة,სერპა,セルパ,塞尔帕,塞爾帕	37.95201	-7.47534	A	ADM2	PT		03	0213			15623		203	Europe/Lisbon	2019-07-24
+8010445	Vidigueira	Vidigueira	Vidigueira,Vidigueira Municipality	38.18448	-7.74469	A	ADM2	PT		03	0214			5932		157	Europe/Lisbon	2020-02-03
+8010446	Amares	Amares	Amares,Amares Municipality	41.64718	-8.35558	A	ADM2	PT		04	0301			18889		269	Europe/Lisbon	2020-02-03
+8010447	Barcelos	Barcelos	Barcelos,Barcelos Municipality	41.53183	-8.61233	A	ADM2	PT		04	0302			120391		40	Europe/Lisbon	2020-02-03
+8010448	Braga	Braga	Bracara Augusta,Braga,Braga Municipality,Branka,Gorad Braga,beulaga,bra ka,braga,bragha,bu la jia,buraga,Μπράγκα,Брага,Горад Брага,Բրագա,בראגה,براغا,براگا,ब्रागा,ব্রাগা,บรากา,ბრაგა,ブラガ,布拉加,브라가	41.55801	-8.42308	A	ADM2	PT		04	0303			181494		190	Europe/Lisbon	2020-02-05
+8010449	Cabeceiras de Basto	Cabeceiras de Basto	Cabeceiras de Basto,Cabeceiras de Basto Municipality	41.52079	-7.97198	A	ADM2	PT		04	0304			16710		399	Europe/Lisbon	2020-02-03
+8010450	Celorico de Basto	Celorico de Basto	Celorico de Basto,Celorico de Basto Municipality,Seloriku-di-Bashtu,sai luo li ku di ba shen tu,Селорику-ди-Башту,Селоріку-ді-Башту,塞洛里庫迪巴什圖	41.40278	-8.03346	A	ADM2	PT		04	0305			20098		544	Europe/Lisbon	2020-02-05
+8010451	Esposende	Esposende	Ehshpozendi,Eshpozende,Esposende Municipality,Espozende,Espozendė,Sposende,ai si bo sen di,aspwsndh,Ешпозенде,Эшпозенди,اسپوسنده,ეშპოზენდი,埃斯波森迪	41.54516	-8.75754	A	ADM2	PT		04	0306			34254		70	Europe/Lisbon	2019-07-24
+8010452	Fafe	Fafe	Fafe,Fafe Municipality	41.46837	-8.15863	A	ADM2	PT		04	0307			50633		344	Europe/Lisbon	2020-02-03
+8010453	Guimarães	Guimaraes	Gimaraesh,Gimarainsa,Gimarainsas,Gimarainša,Gimarais,Gimarajnsh,Gimarajsh,Gimarayns,Gorad Gimarajnsh,Guimaraes,Guimaraes Municipality,Guimaráes,Guimarães,Guimarães Municipality,Nkimaraes,Vimaranes,ghymarays,gimalang-iseu,gimarainshi,gimaran'isu,gimaryesa,gu'imarayesa,gwymarays,ji ma la si,ki ma rich,Γκιμαράες,Гимараеш,Гимараис,Гимарайнш,Горад Гімарайнш,Гімарайш,Գիմարայնս,غيمارايس,گویمارائس,गिमार्येस,গুইমারায়েস,กีมาไรช์,გიმარაინში,ギマランイス,基馬拉斯,기마랑이스	41.44384	-8.28918	A	ADM2	PT		04	0308			158124		197	Europe/Lisbon	2020-02-05
+8010454	Póvoa de Lanhoso	Povoa de Lanhoso	Poboa de Lhanhoso,Povoa de Lanhoso,Povoa de Lanhoso Municipality,Povua-di-Lan'ozu,Póboa de Lhanhoso,Póvoa de Lanhoso,Póvoa de Lanhoso Municipality,bo wa di la ni ao su,Повуа-ди-Ланьозу,Повуа-ді-Ланьозу,波瓦迪拉尼奧蘇	41.58825	-8.26447	A	ADM2	PT		04	0309			21886		319	Europe/Lisbon	2020-02-05
+8010455	Terras de Bouro	Terras de Bouro	Terras de Bouro,Terras de Bouro Municipality,Terrash-di-Boru,Tierras de Bouro,te la shen du bo lu,Терраш-ди-Бору,Терраш-ді-Бору,特拉什杜博魯	41.73914	-8.19109	A	ADM2	PT		04	0310			7253		794	Europe/Lisbon	2020-02-05
+8010456	Vieira do Minho	Vieira do Minho	Biera de l Minho,Vieira do Minho,Vieira do Minho Municipality,Viejra-du-Min'ju,mi ni ao he pan wei ai la,Виейра-ду-Минью,Віейра-ду-Мінью,米尼奧河畔維埃拉	41.63557	-8.13244	A	ADM2	PT		04	0311			12997		403	Europe/Lisbon	2020-02-05
+8010457	Vila Nova de Famalicão	Vila Nova de Famalicao	Bila Nuoba de Famalicon,Vila Nova de Famalicao,Vila Nova de Famalicao Municipality,Vila Nova de Famalicão,Vila Nova de Famalicão Municipality,Vila Nova de Famalikaunas,Vila-Nova-di-Famalikan,fa ma li kang xin zhen,wyla nwa d famalysaw,Вила-Нова-ди-Фамаликан,Віла-Нова-ді-Фамалікан,ویلا نوا د فامالیساو,ვილა-ნოვა-დე-ფამალიკანუ,法馬利康新鎮	41.41223	-8.48511	A	ADM2	PT		04	0312			133832		93	Europe/Lisbon	2020-02-05
+8010458	Vila Verde	Vila Verde	Bila Berde,Vila Verde,Vila Verde Municipality,Vila-Verde,Vila-Verdi,wei er di zhen,Вила-Верде,Вила-Верди,Віла-Верді,韋爾迪鎮	41.64869	-8.43628	A	ADM2	PT		04	0313			47888		80	Europe/Lisbon	2020-02-05
+8010459	Vizela	Vizela	Bizela,Vizela,bijella,fyzyla,vizela,vuizera,wei sa la,wei ze la,wyzla,Визела,Візела,Վիզելա,فيزيلا,ویزلا,ვიზელა,ヴィゼラ,維澤拉,維薩拉,维萨拉,비젤라	41.37529	-8.2931	A	ADM2	PT		04	0314			23736		198	Europe/Lisbon	2019-07-24
+8010460	Alfândega da Fé	Alfandega da Fe	Alfandega da Fe,Alfandega da Fe Municipality,Alfândega da Fé,Alfândega da Fé Municipality	41.3495	-6.95063	A	ADM2	PT		05	0401			5104		577	Europe/Lisbon	2020-02-03
+8010461	Bragança Municipality	Braganca Municipality	Braganca,Braganca Municipality,Bragança,Bragança Municipality	41.75608	-6.75535	A	ADM2	PT		05	0402			35341		714	Europe/Lisbon	2020-02-03
+8010462	Carrazeda de Ansiães	Carrazeda de Ansiaes	Carrazeda de Ansiaes,Carrazeda de Ansiaes Municipality,Carrazeda de Ansiães,Carrazeda de Ansiães Municipality	41.23424	-7.31129	A	ADM2	PT		05	0403			6373		742	Europe/Lisbon	2020-02-03
+8010463	Freixo de Espada À Cinta	Freixo de Espada A Cinta	Freixo de Espada a Cinta,Freixo de Espada a Cinta Municipality,Freixo de Espada à Cinta,Freixo de Espada à Cinta Municipality	41.12344	-6.82463	A	ADM2	PT		05	0404			3780		588	Europe/Lisbon	2020-02-04
+8010464	Macedo de Cavaleiros	Macedo de Cavaleiros	Macedo de Cavaleiros Municipality	41.55132	-6.93355	A	ADM2	PT		05	0405			15776		620	Europe/Lisbon	2019-07-24
+8010465	Miranda do Douro	Miranda do Douro	Miranda do Douro,Miranda do Douro Municipality	41.51902	-6.35449	A	ADM2	PT		05	0406			7482		801	Europe/Lisbon	2020-02-04
+8010466	Mirandela	Mirandela	Mirandela,Mirandela Municipality,mi lan de la,mirandela,myrandla,Мирандела,Мірандела,میراندلا,მირანდელა,米蘭德拉	41.50098	-7.19185	A	ADM2	PT		05	0407			23850		219	Europe/Lisbon	2020-02-04
+8010467	Mogadouro	Mogadouro	Mogadouro,Mogadouro Municipality	41.34193	-6.71934	A	ADM2	PT		05	0408			9542		705	Europe/Lisbon	2020-02-03
+8010468	Torre de Moncorvo	Torre de Moncorvo	Torre de Moncorvo,Torre de Moncorvo Municipality,Torres de Moncorvo	41.17922	-7.0358	A	ADM2	PT		05	0409			8572		453	Europe/Lisbon	2020-02-05
+8010469	Vila Flor	Vila Flor	Vila Flor,Vila Flor Municipality,Vila-Flor,bhila phlora,fei luo er zhen,Вила-Флор,Віла-Флор,ভিলা ফ্লোর,费洛尔镇	41.31429	-7.15071	A	ADM2	PT		05	0410			6697		680	Europe/Lisbon	2020-02-07
+8010470	Vimioso	Vimioso	Vimioso,Vimioso Municipality	41.57287	-6.52087	A	ADM2	PT		05	0411			4669		682	Europe/Lisbon	2020-02-03
+8010471	Vinhais	Vinhais	Vinhais,Vinhais Municipality	41.83104	-7.04061	A	ADM2	PT		05	0412			9066		747	Europe/Lisbon	2020-02-03
+8010472	Belmonte	Belmonte	Belmonte,Belmonte Municipality,Belmonti,bei er meng di,blmwnth,Белмонти,בלמונטה,貝爾蒙蒂	40.36181	-7.35157	A	ADM2	PT		06	0501			6859		544	Europe/Lisbon	2020-02-03
+8010473	Castelo Branco	Castelo Branco	Castelo Branco,Castelo Branco Municipality	39.88847	-7.51313	A	ADM2	PT		06	0502			56109		319	Europe/Lisbon	2020-02-03
+8010474	Covilhã	Covilha	Covilha,Covilha Municipality,Covilhã,Covilhã Municipality,Kovil'jan,Kovila,Koviljanas,ke wei liang,kobillyang,kwwylya,Ковильян,Ковиља,کوویلیا,კოვილიანი,科維良,코빌량	40.29227	-7.50366	A	ADM2	PT		06	0503			51797		678	Europe/Lisbon	2020-02-03
+8010475	Idanha-A-Nova	Idanha-A-Nova	Idanha-a-Nova,Idanha-a-Nova Municipality	39.92957	-7.2369	A	ADM2	PT		06	0505			9716		370	Europe/Lisbon	2020-02-03
+8010476	Oleiros	Oleiros	Oleiros,Oleiros Municipality	39.94948	-7.88592	A	ADM2	PT		06	0506			5721		703	Europe/Lisbon	2020-02-03
+8010477	Penamacor	Penamacor	Penamacor,Penamacor Municipality,Penamakor,pei na ma ke er,pinamakoru,Пенамакор,ピナマコール,佩納馬科爾	40.15495	-7.17149	A	ADM2	PT		06	0507			5682		458	Europe/Lisbon	2020-02-03
+8010478	Proença-A-Nova	Proenca-A-Nova	Proenca-a-Nova,Proenca-a-Nova Municipality,Proença-a-Nova,Proença-a-Nova Municipality	39.757	-7.92595	A	ADM2	PT		06	0508			8314		502	Europe/Lisbon	2020-02-03
+8010479	Sertã	Serta	Serta,Serta Municipality,Sertã,Sertã Municipality	39.82175	-8.09845	A	ADM2	PT		06	0509			15880		275	Europe/Lisbon	2020-02-03
+8010480	Vila de Rei	Vila de Rei	Vila de Rei,Vila de Rei Municipality	39.70685	-8.12836	A	ADM2	PT		06	0510			3452		385	Europe/Lisbon	2020-02-03
+8010481	Arganil	Arganil	Arganil,Arganil Municipality	40.2353	-7.9811	A	ADM2	PT		07	0601			12145		516	Europe/Lisbon	2020-02-03
+8010482	Cantanhede	Cantanhede	Cantanhede,Cantanhede Municipality,Kantan'edi,kan ta nie di,kantanahede,kantanyydh,Кантаньеди,کانتانیئده,কান্টানহেডে,კანტანიედი,坎塔涅迪	40.36354	-8.60549	A	ADM2	PT		07	0602			36595		57	Europe/Lisbon	2020-02-01
+8010483	Coimbra	Coimbra	Coimbra,Coimbra Municipality,Coinvra,Conimbriga,Coímbra,Coïmbra,Gorad Kaimbra,Koimbra,Koimbro,Koimpra,Koímbra,ke ying bu la,ko xim bra,ko'imabra,koimbeula,koinbura,kwymbra,kwyymbra,qlmryt,qwymbrh,Κοΐμπρα,Горад Каімбра,Коимбра,Коїмбра,קוימברה,قلمرية,کوئیمبرا,کویمبرا,কোইমব্রা,โกอิมบรา,კოიმბრა,コインブラ,科英布拉,코임브라	40.21026	-8.42683	A	ADM2	PT		07	0603			143396		88	Europe/Lisbon	2020-02-07
+8010484	Condeixa-A-Nova	Condeixa-A-Nova	Condeixa-a-Nova,Condeixa-a-Nova Municipality	40.10639	-8.49632	A	ADM2	PT		07	0604			17078		110	Europe/Lisbon	2020-02-01
+8010485	Figueira da Foz	Figueira da Foz	Figueira da Foz Municipality	40.15825	-8.80609	A	ADM2	PT		07	0605			62125		61	Europe/Lisbon	2019-07-24
+8010486	Góis	Gois	Gois,Gois Municipality,Góis,Góis Municipality	40.12535	-8.0834	A	ADM2	PT		07	0606			4260		368	Europe/Lisbon	2020-02-01
+8010487	Lousã	Lousa	Lousa,Lousa Municipality,Lousã,Lousã Municipality	40.14087	-8.2405	A	ADM2	PT		07	0607			17604		174	Europe/Lisbon	2020-02-01
+8010488	Mira	Mira	Mira,Mira Municipality	40.44559	-8.73849	A	ADM2	PT		07	0608			12465		31	Europe/Lisbon	2020-02-03
+8010489	Miranda do Corvo	Miranda do Corvo	Miranda do Corvo,Miranda do Corvo Municipality	40.1091	-8.32678	A	ADM2	PT		07	0609			13098		212	Europe/Lisbon	2020-02-01
+8010490	Montemor-O-Velho	Montemor-O-Velho	Montemor-o-Velho,Montemor-o-Velho Municipality	40.19385	-8.66696	A	ADM2	PT		07	0610			26171		36	Europe/Lisbon	2020-02-01
+8010491	Oliveira do Hospital	Oliveira do Hospital	Oliveira do Hospital,Oliveira do Hospital Municipality,Olivejra-du-Oshpital,awlywyra dw haspytal,Оливейра-ду-Ошпитал,اولیویرا دو هاسپیتال,ოლივეირა-დუ-ოსპიტალი	40.35522	-7.86481	A	ADM2	PT		07	0611			20855		452	Europe/Lisbon	2020-02-01
+8010492	Pampilhosa da Serra	Pampilhosa da Serra	Pampilhosa da Serra,Pampilhosa da Serra Municipality	40.07997	-7.90994	A	ADM2	PT		07	0612			4481		516	Europe/Lisbon	2020-02-01
+8010493	Penacova	Penacova	Penacova,Penacova Municipality	40.29999	-8.24784	A	ADM2	PT		07	0613			15251		42	Europe/Lisbon	2020-02-03
+8010494	Penela	Penela	Penela,Penela Municipality	40.01224	-8.38194	A	ADM2	PT		07	0614			5983		174	Europe/Lisbon	2020-02-03
+8010495	Soure	Soure	Soure,Soure Municipality	40.06879	-8.6277	A	ADM2	PT		07	0615			19245		35	Europe/Lisbon	2020-02-03
+8010496	Tábua	Tabua	Tabua,Tabua Municipality,Tábua,Tábua Municipality	40.3571	-8.0286	A	ADM2	PT		07	0616			12071		214	Europe/Lisbon	2020-02-03
+8010497	Vila Nova de Poiares	Vila Nova de Poiares	Bila Nuoba de Poiares,Vila Nova de Poiares,Vila Nova de Poiares Municipality,Vila-Nova-de-Pojaresh,Vila-Nova-di-Pojarish,bo ya li shen xin zhen,Вила-Нова-ди-Пояриш,Віла-Нова-де-Пойареш,ヴィラ・ノーヴァ・デ・ポイアーリシュ,波亚里什新镇,波亞里什新鎮	40.22129	-8.24105	A	ADM2	PT		07	0617			7281		150	Europe/Lisbon	2020-02-01
+8010498	Alandroal	Alandroal	Alandroal,Alandroal Municipality,Alandrual,a lan de lu a er,allandeuloal,arandouaru,Аландроал,Аландруал,アランドゥアル,阿兰德鲁阿尔,阿蘭德魯阿爾,알란드로알	38.62924	-7.36599	A	ADM2	PT		08	0701			5843		192	Europe/Lisbon	2019-07-24
+8010499	Arraiolos	Arraiolos	Arraiolos,Arraiolos Municipality,Arrajolush,a la yue luo si,araiorosu,arayulus,Аррайолуш,أرَيُولُس,アライオロス,阿拉約洛斯	38.76774	-7.95831	A	ADM2	PT		08	0702			7363		250	Europe/Lisbon	2020-02-04
+8010500	Borba	Borba	Borba,Borba Municipality,bo er ba,Борба,博爾巴	38.81412	-7.46721	A	ADM2	PT		08	0703			7333		451	Europe/Lisbon	2020-02-03
+8010501	Estremoz	Estremoz	Ehshtehrmash,Ehshtremosh,Eshtremosh,Estremos,Estremosas,Estremoz,Estremoz Municipality,Eştremoş,ai shen te lei mo shen,astrmwz,astrymwz,esutoremosu,iseuteulemoseu,Естремоз,Ештремош,Эштремош,Эштэрмаш,Էշտրեմոշ,إستريموز,استرموز,استريموز,ეშტრემუში,エストレモス,埃什特雷莫什,이스트레모스	38.84996	-7.60117	A	ADM2	PT		08	0704			14318		396	Europe/Lisbon	2020-02-04
+8010502	Évora	Evora	Ebora,Ehvora,Evora,Evora Municipality,Gorad Ehvara,ai wu la,awwra,aywwra,ebola,evora,evuora,evvora nakaram,yabrt,Ébora,Évora,Évora Municipality,Έβορα,Горад Эвара,Евора,Эвора,אבורה,اوورا,ایوورا,يابرة,எவ்வொரா நகரம்,ევორა,エヴォラ,埃武拉,에보라	38.5665	-7.8946	A	ADM2	PT		08	0705			56596		260	Europe/Lisbon	2020-02-04
+8010503	Montemor-O-Novo	Montemor-O-Novo	Mons Maior Novus,Montemor o Novas,Montemor-O-Novo,Montemor-o-Novo,Montemor-o-Novo Municipality,Montemor-u-Novu,montimoru=u=novu,mwntmwrw nwww,mwntymwr nwfw,xin meng te mo er,Монтемор-у-Нову,מונטמור או נובו,مونتمورو نووو,مونتيمور نوفو,მონტემურ-უ-ნოვუ,モンティモール＝ウ＝ノヴ,新蒙特莫尔,新蒙特莫爾	38.64795	-8.21289	A	ADM2	PT		08	0706			17437		248	Europe/Lisbon	2019-10-25
+8010504	Mora	Mora	Mora,Mora Municipality,mo la,mola,mora,mwra,Мора,مورا,モーラ,莫拉,모라	38.92174	-8.09972	A	ADM2	PT		08	0707			4978		139	Europe/Lisbon	2022-11-19
+8010505	Mourão	Mourao	Moran,Mourao,Mourao Municipality,Mourão,Mourão Municipality,mo lang,molang,mwraw,Моран,موراو,莫朗,모랑	38.29778	-7.2223	A	ADM2	PT		08	0708			2663		154	Europe/Lisbon	2022-11-19
+8010506	Portel	Portel	Portel Municipality	38.29385	-7.72762	A	ADM2	PT		08	0709			6428		311	Europe/Lisbon	2019-07-24
+8010507	Redondo	Redondo	Redondo Municipality	38.5801	-7.59659	A	ADM2	PT		08	0710			7031		251	Europe/Lisbon	2019-07-24
+8010508	Reguengos de Monsaraz	Reguengos de Monsaraz	Reguengos de Monsaraz Municipality	38.398	-7.467	A	ADM2	PT		08	0711			10828		165	Europe/Lisbon	2019-07-24
+8010509	Vendas Novas	Vendas Novas	Vendas Novas,Vendas Novas Municipality	38.63975	-8.54702	A	ADM2	PT		08	0712			11846		82	Europe/Lisbon	2021-07-09
+8010510	Viana do Alentejo	Viana do Alentejo	Viana do Alentejo,Viana do Alentejo Municipality,Viana do Alentexo,Viana-du-Alentezhu,wei ya na du a lian te ru,Виана-ду-Алентежу,Віана-ду-Алентежу,維亞納杜阿連特茹	38.33645	-8.00011	A	ADM2	PT		08	0713			5743		231	Europe/Lisbon	2019-07-24
+8010511	Vila Viçosa	Vila Vicosa	Vila Vicosa,Vila Vicosa Municipality,Vila Viçosa,Vila Viçosa Municipality,Vila-Visoza,wei suo sa zhen,Вила-Висоза,維索薩鎮	38.77591	-7.41607	A	ADM2	PT		08	0714			8319		395	Europe/Lisbon	2020-02-03
+8010512	Albufeira	Albufeira	Albufeira,Albufeira Municipality,Albufejra,Albufeyra,a er bu fei la,albhyrt,albupeila,albupeira,albwfyra,arubufeira,xalbu fi ra,Албуфейра,Албуфејра,Ալբուֆեյրա,אלבופיירה,آلبوفیرا,البحيرة,อัลบูไฟรา,ალბუფეირა,アルブフェイラ,阿尔布费拉,阿爾布費拉,알부페이라	37.08341	-8.26139	A	ADM2	PT		09	0801			40828		22	Europe/Lisbon	2020-02-04
+8010513	Alcoutim	Alcoutim	Alcoutim,Alcoutim Municipality	37.424	-7.65456	A	ADM2	PT		09	0802			2917		193	Europe/Lisbon	2020-02-03
+8010514	Aljezur	Aljezur	Aljezur,Aljezur Municipality,Alzhezur,a er re zu er,Алжезур,阿爾熱祖爾	37.30856	-8.80486	A	ADM2	PT		09	0803			5884		50	Europe/Lisbon	2020-02-03
+8010515	Castro Marim	Castro Marim	Castro Marim,Castro Marim Municipality	37.25865	-7.50732	A	ADM2	PT		09	0804			6747		81	Europe/Lisbon	2020-02-03
+8010516	Faro	Faro	Faras,Faro,Faro Municipality,Faru,Ossonoba,fa lu,fa ru,faro,farw,farw  prtgal,palu,paru,Φάρο,Фаро,Фару,Ֆարո,פארו,فارو,فارو، پرتگال,ฟารู,ფარუ,ファロ,法鲁,파루	37.02508	-7.92944	A	ADM2	PT		09	0805			64560		25	Europe/Lisbon	2019-07-24
+8010517	Lagoa	Lagoa	Lagoa,Lagoa Municipality	37.10505	-8.45974	A	ADM2	PT		09	0806			22975		44	Europe/Lisbon	2020-02-03
+8010518	Lagos	Lagos	Lagos,Lagos Municipality,Lagos i Portugal,Lagosas,Lagošas,Lagush,la gu shen,laguseu,lagushi,lagws,Лагос,Лагуш,לאגוש,لاگوس,ლაგუში,拉古什,라구스	37.09567	-8.67661	A	ADM2	PT		09	0807			31049		41	Europe/Lisbon	2020-02-04
+8010519	Loulé	Loule	Loule,Loule Municipality,Loulé,Loulé Municipality	37.14399	-8.02345	A	ADM2	PT		09	0808			70622		191	Europe/Lisbon	2020-02-03
+8010520	Monchique	Monchique	Monchique Municipality	37.31664	-8.5834	A	ADM2	PT		09	0809			6045		842	Europe/Lisbon	2019-07-24
+8010521	Olhão	Olhao	Ol'jan,Ol'jau,Olhao,Olhao Municipality,Olhao da Restauracao,Olhão,Olhão Municipality,Olhão da Restauração,Oljaunas,ao liang,awlaw da rstwrasaw,olani,Ольян,Ольяу,اولاو دا رستوراساو,ოლანი,奧良	37.04509	-7.81032	A	ADM2	PT		09	0810			45396		10	Europe/Lisbon	2020-02-04
+8010522	Portimão	Portimao	Portimao Municipality,Portimão Municipality	37.17544	-8.5842	A	ADM2	PT		09	0811			55614		19	Europe/Lisbon	2019-07-24
+8010523	São Brás de Alportel	Sao Bras de Alportel	Sao Bras de Alportel,Sao Bras de Alportel Municipality,São Brás de Alportel,São Brás de Alportel Municipality	37.19564	-7.87546	A	ADM2	PT		09	0812			10662		356	Europe/Lisbon	2020-02-03
+8010524	Silves	Silves	Silves Municipality	37.20343	-8.33472	A	ADM2	PT		09	0813			37126		53	Europe/Lisbon	2019-07-24
+8010525	Tavira	Tavira	Tavira Municipality	37.13085	-7.6506	A	ADM2	PT		09	0814			26167		22	Europe/Lisbon	2019-07-24
+8010526	Vila do Bispo	Vila do Bispo	Vila do Bispo Municipality	37.08841	-8.90785	A	ADM2	PT		09	0815			5258		103	Europe/Lisbon	2019-07-24
+8010527	Vila Real de Santo António	Vila Real de Santo Antonio	Vila Real de Santo Antonio,Vila Real de Santo Antonio Municipality,Vila Real de Santo António,Vila Real de Santo António Municipality	37.19232	-7.42538	A	ADM2	PT		09	0816			19156		5	Europe/Lisbon	2020-02-04
+8010528	Aguiar da Beira	Aguiar da Beira	Agiar-da-Bejra,Aguiar da Beira,Aguiar da Beira Municipality,a ji ya er da bei la,Агиар-да-Бейра,阿吉亞爾達貝拉	40.78319	-7.52691	A	ADM2	PT		11	0901			5473		717	Europe/Lisbon	2020-02-07
+8010529	Almeida	Almeida	Almeida,Almejda,a er mei da,almaydh,almaydt,arumeida,shhr almyda,Алмейда,المائدة,المائده,شهر المیدا,アルメイダ,阿爾梅達	40.7307	-6.90594	A	ADM2	PT		11	0902			7242		727	Europe/Lisbon	2020-05-26
+8010530	Celorico da Beira	Celorico da Beira	Celorico da Beira,Seloriku-da-Bejra,sai luo li ku da bei la,slwryqw dh byyrh,sylwrykw dabyra,Селорику-да-Бейра,Селоріку-да-Бейра,סלוריקו דה ביירה,سيلوريكو دابيرا,塞洛里庫達貝拉	40.61785	-7.38625	A	ADM2	PT		11	0903			7693		620	Europe/Lisbon	2020-02-07
+8010531	Figueira de Castelo Rodrigo	Figueira de Castelo Rodrigo	Figejra-di-Kashtelu-Rodrigu,Figueira de Castelo Rodrigo,Figueira de Castelo Rodrigo Municipality,fei gai la di ka si te lu luo de li gu,Фигейра-ди-Каштелу-Родригу,菲蓋拉迪卡斯特盧羅德里古	40.87356	-6.96842	A	ADM2	PT		11	0904			6260		723	Europe/Lisbon	2020-02-07
+8010532	Fornos de Algodres	Fornos de Algodres	Fornos de Algodres,Fornos de Algodres Municipality,Fornush di Algodrish,Fornush-de-Algodresh,Fornush-di-Algodrish,fu er nu shen di a er ge de li shen,Форнуш ди Алгодриш,Форнуш-де-Алгодреш,Форнуш-ди-Алгодриш,福爾努什迪阿爾戈德里什	40.64942	-7.49727	A	ADM2	PT		11	0905			4989		483	Europe/Lisbon	2019-07-24
+8010533	Guarda	Guarda	Guarda,Guarda Kommune,Guarda Municipality,Gvarda,guarda,guaruda,gwarda,Гварда,Гуарда,گوآردا,გუარდა,グアルダ	40.5295	-7.24123	A	ADM2	PT		11	0907			42541		835	Europe/Lisbon	2020-02-05
+8010534	Manteigas	Manteigas	Manteigas,Manteigas Municipality	40.40631	-7.50074	A	ADM2	PT		11	0908			3430		711	Europe/Lisbon	2020-02-03
+8010535	Mêda	Meda	Meda,Meda Municipality,Mêda,Mêda Municipality,mda,meda,mei da,Меда,مدا,მედა,梅達	40.93238	-7.26495	A	ADM2	PT		11	0909			5202		744	Europe/Lisbon	2020-02-03
+8010536	Pinhel	Pinhel	Pin'el,Pinhel,Pinhel Municipality,bynhl,pi nie er,pynl,Пиньел,Піньєл,بينهل,پینل,პინელი,皮涅尔,皮涅爾	40.74242	-7.12659	A	ADM2	PT		11	0910			9627		630	Europe/Lisbon	2020-02-05
+8010537	Sabugal	Sabugal	Sabugal,Sabugal Municipality,sabwgal,Сабугал,سابوگال	40.36992	-7.09305	A	ADM2	PT		11	0911			12544		783	Europe/Lisbon	2020-02-03
+8010538	Seia	Seia	Sehjja,Seia,Seia Municipality,Sejja,seia,syya,Сейя,Сэйя,סיאיה,سئیا,セイア	40.42203	-7.70245	A	ADM2	PT		11	0912			24702		495	Europe/Lisbon	2020-02-03
+8010539	Trancoso	Trancoso	Santa Maria de la Paz,Santa María de la Paz,Trancoso,Trancoso Municipality,Trankozu,te lan ke su,trankwsw  prtghal,Транкозу,ترانکوسو، پرتغال,ტრანკოზუ,特蘭科蘇	40.79181	-7.3254	A	ADM2	PT		11	0913			9878		762	Europe/Lisbon	2020-02-07
+8010540	Vila Nova de Foz Côa	Vila Nova de Foz Coa	Vila Nova de Foz Coa,Vila Nova de Foz Coa Municipality,Vila Nova de Foz Côa,Vila Nova de Foz Côa Municipality,Vila-Nova-di-Fosh-Koa,Vilanova de Foskoa,Vilanova de Foškoa,fu shen ke a xin zhen,wyla nwa d fwz kwa,Вила-Нова-ди-Фош-Коа,ویلا نوا د فوز کوا,ვილა-ნოვა-დე-ფოშ-კოა,福什科阿新鎮	41.0637	-7.20389	A	ADM2	PT		11	0914			7312		620	Europe/Lisbon	2020-02-08
+8010541	Alcobaça	Alcobaca	Alcobaca Municipality,Alcobaça Municipality	39.55441	-8.98833	A	ADM2	PT		13	1001			56693		143	Europe/Lisbon	2019-07-24
+8010542	Alvaiázere	Alvaiazere	Alvaiazere Municipality,Alvaiázere Municipality	39.81951	-8.38858	A	ADM2	PT		13	1002			7287		282	Europe/Lisbon	2019-07-24
+8010543	Ansião	Ansiao	Ansiao,Ansiao Municipality,Ansião,Ansião Municipality	39.93424	-8.42045	A	ADM2	PT		13	1003			13128		218	Europe/Lisbon	2020-02-03
+8010544	Batalha	Batalha	Batalha,Batalha Municipality	39.64784	-8.78108	A	ADM2	PT		13	1004			15805		172	Europe/Lisbon	2020-02-03
+8010545	Bombarral	Bombarral	Bombarral,Bombarral Municipality,bang ba la er,bonbararu,Бомбаррал,ボンバラル,邦巴拉爾	39.28106	-9.17002	A	ADM2	PT		13	1005			13193		30	Europe/Lisbon	2020-02-03
+8010546	Caldas da Rainha	Caldas da Rainha	Caldas da Rainha,Caldas da Rainha Municipality	39.41226	-9.13617	A	ADM2	PT		13	1006			51729		46	Europe/Lisbon	2020-02-03
+8010547	Castanheira de Pera	Castanheira de Pera	Castanheira de Pera,Castanheira de Pera Municipality	40.03228	-8.18889	A	ADM2	PT		13	1007			3191		529	Europe/Lisbon	2024-07-18
+8010548	Figueiró Dos Vinhos	Figueiro Dos Vinhos	Figueiro dos Vinhos,Figueiro dos Vinhos Municipality,Figueiró dos Vinhos,Figueiró dos Vinhos Municipality	39.90617	-8.27753	A	ADM2	PT		13	1008			6169		485	Europe/Lisbon	2020-02-03
+8010549	Leiria	Leiria	Leiria,Leiria Municipality,Leirija,Lejrija,Lejryja,la'iriya,lai li ya,layrit,layrya,le'iriya,leilia,leiria,leriya,lireiy,liriya,lyrya,lyyryh,reiria,Λεϊρία,Леирија,Лейрия,Лейрыя,Лейрія,לייריה,لائریا,لَيرِية,لیریا,लाईरीया,लीरिया,লেইরিয়া,લીરિયા,லேரியா,లేరియా,ಲಿರಿಯಾ,ලිරියා,ไลเรีย,ლეირია,レイリア,莱里亚,萊里亞,레이리아	39.74644	-8.80623	A	ADM2	PT		13	1009			126897		38	Europe/Lisbon	2020-02-07
+8010550	Marinha Grande	Marinha Grande	Marin'ja-Grande,Marin'ja-Grandi,Marinha Grande,Marinha Grande Municipality,Marinja-Grande,da ma li ni ya,malinyageulandeu,marinia-grande,maryna grand,marynha jrandy,Маринья-Гранде,Маринья-Гранди,Маріня-Гранде,מריניה גראנדה,مارينها جراندي,مارینا گراند,მარინია-გრანდე,マリーニャ・グランディ,大馬里尼亞,마리냐그란드	39.77681	-8.95005	A	ADM2	PT		13	1010			38681		96	Europe/Lisbon	2020-02-03
+8010551	Nazaré	Nazare	Nazare,Nazare Municipality,Nazaré,Nazaré Municipality	39.59965	-9.07162	A	ADM2	PT		13	1011			15158		13	Europe/Lisbon	2020-02-03
+8010552	Óbidos	Obidos	Obidos,Obidos Municipality,Obidush,Ompidos,ao bi du shen,xxbi duch,Óbidos,Óbidos Municipality,Όμπιδος,Обидуш,Обідуш,ออบีดุช,奧比杜什	39.36194	-9.15714	A	ADM2	PT		13	1012			11772		9	Europe/Lisbon	2023-01-08
+8010553	Pedrógão Grande	Pedrogao Grande	Pedrogao Grande,Pedrogao Grande Municipality,Pedrógão Grande,Pedrógão Grande Municipality	39.92682	-8.20093	A	ADM2	PT		13	1013			3915		371	Europe/Lisbon	2020-02-03
+8010554	Peniche	Peniche	Peniche,Peniche Municipality,Penishi,pei ni xie,penishe,pnychh  prtghal,pʼenishi,Пениши,پنیچه، پرتغال,პენიში,ペニシェ,佩尼謝	39.36166	-9.36869	A	ADM2	PT		13	1014			27753		11	Europe/Lisbon	2020-02-05
+8010555	Pombal	Pombal	Pombal,Pombal Municipality,pomabala,Помбал,পোমবাল,პომბალი	39.90735	-8.66949	A	ADM2	PT		13	1015			55217		136	Europe/Lisbon	2020-02-03
+8010556	Porto de Mós	Porto de Mos	Porto de Mos,Porto de Mos Municipality,Porto de Mós,Porto de Mós Municipality	39.60547	-8.81893	A	ADM2	PT		13	1016			24342		145	Europe/Lisbon	2020-02-03
+8010557	Alenquer	Alenquer	Alenker,Alenquer Municipality,Perbandaran Alenquer,a lun ke er,ala'enakuyera,shhr alnkwyr  prtqal,Аленкер,شهر النکویر، پرتقال,আলএনকুয়ের,阿倫克爾	39.06487	-9.00707	A	ADM2	PT		14	1101			43267		80	Europe/Lisbon	2019-07-24
+8010558	Arruda Dos Vinhos	Arruda Dos Vinhos	Arruda dos Vinhos Municipality	38.97172	-9.08807	A	ADM2	PT		14	1102			13391		257	Europe/Lisbon	2019-07-24
+8010559	Azambuja	Azambuja	Azambuja Municipality	39.14559	-8.89045	A	ADM2	PT		14	1103			21814		71	Europe/Lisbon	2019-07-24
+8010560	Cadaval	Cadaval	Cadaval Municipality	39.24621	-9.06738	A	ADM2	PT		14	1104			14228		128	Europe/Lisbon	2019-07-24
+8010561	Cascais	Cascais	Cascais,Cascais Municipality	38.74333	-9.46382	A	ADM2	PT		14	1105			206479		78	Europe/Lisbon	2020-02-01
+8010562	Lourinhã	Lourinha	Lorin'jan,Lourin'ja,Lourinha,Lourinha Municipality,Lourinhã,Lourinhã Municipality,luo li ni yang,Лориньян,Лоурінья,洛里尼揚	39.24745	-9.31194	A	ADM2	PT		14	1108			25735		11	Europe/Lisbon	2020-02-05
+8010563	Mafra	Mafra	Mafra,Mafra Municipality	38.94107	-9.32636	A	ADM2	PT		14	1109			76685		232	Europe/Lisbon	2020-02-07
+8010564	Oeiras	Oeiras	Oeiras,Oeiras Municipality	38.71371	-9.26832	A	ADM2	PT		14	1110			172120		33	Europe/Lisbon	2020-02-07
+8010565	Sintra	Sintra	Sintra,Sintra Municipality	38.81439	-9.3837	A	ADM2	PT		14	1111			377835		113	Europe/Lisbon	2020-02-07
+8010566	Sobral de Monte Agraço	Sobral de Monte Agraco	Sobral de Monte Agraco,Sobral de Monte Agraco Municipality,Sobral de Monte Agraço,Sobral de Monte Agraço Municipality	38.99585	-9.17409	A	ADM2	PT		14	1112			10156		193	Europe/Lisbon	2020-02-05
+8010567	Torres Vedras	Torres Vedras	Torres Vedras,Torres Vedras Municipality	39.10222	-9.25238	A	ADM2	PT		14	1113			79465		71	Europe/Lisbon	2020-02-07
+8010568	Vila Franca de Xira	Vila Franca de Xira	Vila Franca de Xira Municipality	38.92137	-9.0322	A	ADM2	PT		14	1114			136886		149	Europe/Lisbon	2019-07-24
+8010569	Amadora	Amadora	Amadora,Amadora Municipality,a ma duo la,amadola,amadora,amadwra,xa ma do ra,Αμαδόρα,Амадора,אמדורה,آمادورا,أمادورا,อามาโดรา,ამადორა,アマドーラ,阿馬多拉,阿马多拉,아마도라	38.75571	-9.22342	A	ADM2	PT		14	1115			175136		105	Europe/Lisbon	2020-02-07
+8010570	Odivelas	Odivelas	Odivelas,Odivelas Municipality	38.79705	-9.19108	A	ADM2	PT		14	1116			144549		112	Europe/Lisbon	2020-02-07
+8010571	Arronches	Arronches	Arronches,Arronches Municipality	39.13823	-7.24963	A	ADM2	PT		16	1202			3165		323	Europe/Lisbon	2020-02-03
+8010572	Avis	Avis	Avis,Avis Municipality,Avish,Aviso,Aviz,a wei si,Αβίς,Авиш,Авіш,阿維斯	39.06448	-7.8956	A	ADM2	PT		16	1203			4571		144	Europe/Lisbon	2020-02-05
+8010573	Campo Maior	Campo Maior	Campo Maior,Campo Maior Municipality,Kampo Majoras,Kampu-Major,kan pu ma yue er,Кампу-Майор,坎普馬約爾	39.02935	-7.06479	A	ADM2	PT		16	1204			8456		320	Europe/Lisbon	2020-02-07
+8010574	Elvas	Elvas	Albas,Ehlvash,Elvas,Elvas Municipality,Elvasas,Elvash,Ilbas,Yalbas,Yalbaš,ai er wa shen,alwas,elbaseu,elvasa,elvashi,eruvuasu,Елвас,Елваш,Элваш,Էլվաշ,אלוואס,الواس,एल्वस,แอลวัช,ელვაში,エルヴァス,埃爾瓦什,엘바스	38.89868	-7.22426	A	ADM2	PT		16	1207			23078		363	Europe/Lisbon	2020-02-07
+8010575	Fronteira	Fronteira	Fronteira,Fronteira Municipality,Frontejra,fu long tai la,furonteira,Фронтейра,フロンテイラ,弗龍泰拉,弗龙泰拉	39.07179	-7.61052	A	ADM2	PT		16	1208			3410		192	Europe/Lisbon	2020-02-03
+8010576	Sousel	Sousel	Sousel,Sousel Municipality	38.96685	-7.71788	A	ADM2	PT		16	1215			5074		244	Europe/Lisbon	2020-02-03
+8010577	Amarante	Amarante	Amarante,Amarante Municipality	41.2705	-8.06503	A	ADM2	PT		17	1301			56264		160	Europe/Lisbon	2020-02-01
+8010578	Baião	Baiao	Baiao,Baiao Municipality,Baio,Baião,Baião Municipality,Bajan,Bayan,ba yang,Байан,巴扬	41.16384	-8.03581	A	ADM2	PT		17	1302			20522		576	Europe/Lisbon	2020-02-03
+8010579	Felgueiras	Felgueiras	Felgaria,Felgeirasas,Felgejrash,Felgueiras,Felgueiras Municipality,fei er gai la shen,flgwyyras,pelgeirashi,Фелгейраш,فلگوئیراس,ფელგეირაში,费尔盖拉什	41.34774	-8.20808	A	ADM2	PT		17	1303			58065		286	Europe/Lisbon	2020-02-05
+8010580	Gondomar	Gondomar	Gondomar,Gondomar Municipality,Gundemarus,gondomari,gong duo ma er,gwndwmar,Гондомар,گوندومار,გონდომარი,贡多马尔	41.12015	-8.49595	A	ADM2	PT		17	1304			168027		29	Europe/Lisbon	2020-02-03
+8010581	Lousada	Lousada	Lausata,Lousada,Lousada Municipality,Lozada,luo sa da,rouzada,Лозада,ロウザダ,洛萨达	41.28355	-8.27437	A	ADM2	PT		17	1305			47387		264	Europe/Lisbon	2020-02-01
+8010582	Maia	Maia	Maia,Maia Municipality	41.24254	-8.60257	A	ADM2	PT		17	1306			135306		74	Europe/Lisbon	2019-07-24
+8010583	Marco de Canaveses	Marco de Canaveses	Marco de Canaveses,Marco de Canaveses Municipality,Marku-di-Kanavezish,ma er ke-de ka na wei ze si,markw dkanawss,Марку-ди-Канавезиш,مارکو دکاناوسس,მარკუ-დი-კანავეზიში,馬爾科-德卡納維澤斯	41.15545	-8.16954	A	ADM2	PT		17	1307			53450		327	Europe/Lisbon	2020-02-07
+8010584	Matosinhos	Matosinhos	Matazin'jush,Matesinus,Matosinhos,Matoziius,Matozin'jush,Matozinjosas,Matozinjush,Matuzin'jush,Matuzinjush,ma du xin nu si,ma tuo xi niu shen,matojinyuseu,matoshinhosu,matuzinyush,matwsynws,mtwsynyws,Матазіньюш,Матозиньюш,Матозінюш,Матузиньюш,Матузинюш,Մատոզիիուշ,מטוסיניוס,ماتوسینوس,مَتُزِنيُش,მატუზინიუში,マトシンホス,馬托西紐什,馬杜辛奴斯,마토지뉴스	41.20766	-8.66743	A	ADM2	PT		17	1308			175478		49	Europe/Lisbon	2020-02-04
+8010585	Paços de Ferreira	Pacos de Ferreira	Pacos de Ferreira,Pacos de Ferreira Municipality,Palatia Ferrariae,Pasos de Fereira,Pasush-di-Ferrejra,Paços de Ferreira,Paços de Ferreira Municipality,pa ke si fei lei la,pasuseudeupeheila,pasws d fryra,pʼasush-di-pereira,Пасуш-ди-Феррейра,پاسوس د فریرا,პასუშ-დი-ფერეირა,帕科斯費雷拉,파수스드페헤이라	41.28964	-8.37584	A	ADM2	PT		17	1309			56340		311	Europe/Lisbon	2020-02-05
+8010586	Paredes	Paredes	Paredes,Paredes Municipality	41.20501	-8.37506	A	ADM2	PT		17	1310			86854		371	Europe/Lisbon	2020-02-03
+8010587	Penafiel	Penafiel	Penafiel,Penafiel Municipality	41.20931	-8.26996	A	ADM2	PT		17	1311			72265		311	Europe/Lisbon	2020-02-03
+8010588	Póvoa de Varzim	Povoa de Varzim	Povoa de Varzim,Povoa de Varzim Municipality,Póvoa de Varzim,Póvoa de Varzim Municipality	41.39158	-8.75713	A	ADM2	PT		17	1313			63408		22	Europe/Lisbon	2020-02-03
+8010589	Santo Tirso	Santo Tirso	Santo Tirsas,Santo Tirso,Santo Tirso Municipality,SantoTirso,Santu-Tirsu,santw tyrsw,sheng di er su,Санту-Тирсу,سانتو تیرسو,სანტუ-ტირსუ,圣蒂尔苏	41.33014	-8.43827	A	ADM2	PT		17	1314			71530		457	Europe/Lisbon	2020-02-07
+8010590	Valongo	Valongo	Valongo,Valongo Municipality	41.20797	-8.50086	A	ADM2	PT		17	1315			93858		170	Europe/Lisbon	2020-02-03
+8010591	Vila do Conde	Vila do Conde	Vila do Conde,Vila do Conde Municipality,Vila do Konde,Vila do Kondė,Vila-du-Kondi,kong di zhen,wyla dw kndh,Вила-ду-Конди,ویلا دو کنده,ვილა-დუ-კონდე,孔迪镇	41.33291	-8.68288	A	ADM2	PT		17	1316			79533		64	Europe/Lisbon	2020-02-07
+8010592	Vila Nova de Gaia	Vila Nova de Gaia	Bila Nuoba de Gaia,Cale,Vila Nova de Gaia Municipality,Vila Nova de Gaja,Vila Nova di Gaja,Vila Nova nte Nkaia,Vila-Nova-di-Gaja,Vila-Nova-di-Gajja,billanobadeugaia,fyla nwa dghaya,jia ya xin cheng,vila-nova-de-gaia,wi la nx wa dux ki ya,wla nwwa dy gayya,wyla nwa dgaya,Βίλα Νόβα ντε Γκάια,Вила Нова де Гаја,Вила Нова ди Гая,Вила-Нова-ди-Гая,Віла-Нова-ді-Гайя,فيلا نوا دغايا,ولا نووا دی گائیا,ویلا نوا دگایا,วีลานอวาดือไกยา,ვილა-ნოვა-დე-გაია,ヴィラ・ノヴァ・デ・ガイア,加亚新城,빌라노바드가이아	41.13695	-8.62701	A	ADM2	PT		17	1317			302295		73	Europe/Lisbon	2019-07-24
+8010593	Trofa	Trofa	Trofa,Trofa Municipality	41.30646	-8.5764	A	ADM2	PT		17	1318			38999		94	Europe/Lisbon	2020-02-03
+8010594	Abrantes	Abrantes	Abrantes,Abrantes Municipality	39.47165	-8.17533	A	ADM2	PT		18	1401			39325		35	Europe/Lisbon	2020-02-03
+8010595	Alcanena	Alcanena	Alcanena,Alcanena Municipality	39.46746	-8.68831	A	ADM2	PT		18	1402			13868		99	Europe/Lisbon	2020-02-03
+8010596	Almeirim	Almeirim	Almeirim,Almeirim Municipality	39.15781	-8.59004	A	ADM2	PT		18	1403			23376		99	Europe/Lisbon	2020-02-03
+8010597	Alpiarça	Alpiarca	Alpiarca,Alpiarca Municipality,Alpiarça,Alpiarça Municipality	39.23882	-8.56336	A	ADM2	PT		18	1404			7702		48	Europe/Lisbon	2020-02-03
+8010598	Benavente	Benavente	Benavente,Benavente Municipality	38.908	-8.76898	A	ADM2	PT		18	1405			29019		34	Europe/Lisbon	2020-02-03
+8010599	Cartaxo	Cartaxo	Cartaxo,Cartaxo Municipality	39.15377	-8.81373	A	ADM2	PT		18	1406			24462		57	Europe/Lisbon	2020-02-03
+8010600	Chamusca	Chamusca	Chamusca,Chamusca Municipality	39.299	-8.39933	A	ADM2	PT		18	1407			10120		111	Europe/Lisbon	2020-02-03
+8010601	Constância	Constancia	Constancia,Constancia Municipality,Constância,Constância Municipality	39.45718	-8.30368	A	ADM2	PT		18	1408			4056		32	Europe/Lisbon	2020-02-03
+8010602	Coruche	Coruche	Coruche,Coruche Municipality,Korushe,Korushi,Korusi,ke lu xi,kolusi,Коруше,Коруши,Կորուշի,科鲁希,코루시	38.9595	-8.52745	A	ADM2	PT		18	1409			19944		47	Europe/Lisbon	2020-02-03
+8010603	Entroncamento	Entroncamento	Ehntronkamentu,Entroncamento,Entroncamento Municipality,Entronkamento,antrwnkamntw,en te long ka men tu,Ентронкаменто,Энтронкаменту,انترونكامنتو,انترونکامنتو,ენტრონკამენტუ,恩特龙卡门图	39.46655	-8.47624	A	ADM2	PT		18	1410			20206		39	Europe/Lisbon	2020-02-05
+8010604	Ferreira do Zêzere	Ferreira do Zezere	Ferreira do Zezere,Ferreira do Zezere Municipality,Ferreira do Zêzere,Ferreira do Zêzere Municipality	39.72303	-8.31661	A	ADM2	PT		18	1411			8619		240	Europe/Lisbon	2020-02-03
+8010605	Golegã	Golega	Golega,Golega Municipality,Golegã,Golegã Municipality	39.38683	-8.50591	A	ADM2	PT		18	1412			5465		15	Europe/Lisbon	2020-02-03
+8010606	Mação	Macao	Macao,Macao Municipality,Mação,Mação Municipality	39.59331	-7.99772	A	ADM2	PT		18	1413			7338		240	Europe/Lisbon	2020-02-03
+8010607	Rio Maior	Rio Maior	Rio Maior,Rio Maior Municipality	39.34288	-8.93806	A	ADM2	PT		18	1414			21192		81	Europe/Lisbon	2020-02-03
+8010608	Salvaterra de Magos	Salvaterra de Magos	Salvaterra de Magos,Salvaterra de Magos Municipality	39.04482	-8.68903	A	ADM2	PT		18	1415			22159		34	Europe/Lisbon	2020-02-03
+8010609	Santarém	Santarem	Santarem,Santarem Municipality,Santarém,Santarém Municipality	39.32131	-8.71313	A	ADM2	PT		18	1416			62200		66	Europe/Lisbon	2020-02-03
+8010610	Sardoal	Sardoal	Sardoal,Sardoal Municipality	39.55643	-8.14323	A	ADM2	PT		18	1417			3939		241	Europe/Lisbon	2020-02-03
+8010611	Tomar	Tomar	Tomar,Tomar Municipality	39.6104	-8.39346	A	ADM2	PT		18	1418			40677		89	Europe/Lisbon	2020-02-03
+8010612	Torres Novas	Torres Novas	Torres Novas,Torres Novas Municipality,Torrish-Novash,Villa Cardilio,toheuseunobaseu,twrs nwas,xin tuo li shen,Торриш-Новаш,Торріш-Новаш,تورس نواس,ტორეშ-ნოვაში,トレス・ノヴァス,新托里什,토흐스노바스	39.4916	-8.54796	A	ADM2	PT		18	1419			36717		87	Europe/Lisbon	2020-02-07
+8010613	Vila Nova da Barquinha	Vila Nova da Barquinha	Vila Nova da Barquinha,Vila Nova da Barquinha Municipality	39.47559	-8.40953	A	ADM2	PT		18	1420			7322		88	Europe/Lisbon	2020-02-05
+8010614	Ourém	Ourem	Auren,Oren,Ourem,Ourem Municipality,Ourém Municipality,aurema,awrm,awrym,ou lun,oureni,Орен,أوريم,اورم,ঔরেম,ოურენი,歐倫	39.66179	-8.57895	A	ADM2	PT		18	1421			45932		226	Europe/Lisbon	2019-07-24
+8010615	Alcácer do Sal	Alcacer do Sal	Alcacer do Sal,Alcacer do Sal Municipality,Alcácer do Sal,Alcácer do Sal Municipality,Alkasse	38.3882	-8.50011	A	ADM2	PT		19	1501			13046		81	Europe/Lisbon	2020-02-04
+8010616	Alcochete	Alcochete	Alcochete,Alcochete Municipality	38.73827	-8.97936	A	ADM2	PT		19	1502			17569		1	Europe/Lisbon	2020-02-05
+8010617	Almada	Almada	Almada,Almada Municipality	38.68399	-9.14955	A	ADM2	PT		19	1503			174030		27	Europe/Lisbon	2020-02-01
+8010618	Barreiro	Barreiro	Barreiro,Barreiro Municipality	38.6376	-9.05168	A	ADM2	PT		19	1504			78764		20	Europe/Lisbon	2020-02-05
+8010619	Grândola	Grandola	Grandola Municipality,Grândola Municipality	38.18999	-8.61197	A	ADM2	PT		19	1505			14826		137	Europe/Lisbon	2019-07-24
+8010620	Moita	Moita	Moita,Moita Municipality	38.65854	-9.0104	A	ADM2	PT		19	1506			66029		3	Europe/Lisbon	2020-02-05
+8010621	Montijo	Montijo	Montijo,Montijo Municipality	38.7299	-8.69364	A	ADM2	PT		19	1507			51222		63	Europe/Lisbon	2020-02-05
+8010622	Palmela	Palmela	Palmela,Palmela Municipality,balmla,pa er mei la,palmla,parumera,Палмела,بالملا,پالملا,パルメラ,帕爾梅拉	38.58423	-8.89996	A	ADM2	PT		19	1508			62831		106	Europe/Lisbon	2020-02-05
+8010623	Santiago do Cacém	Santiago do Cacem	Sant'jagu-du-Kasen',Santiago do Cacem,Santiago do Cacem Municipality,Santiago do Cacém Municipality,Santiagu-du-Kasen,santyagw dw kakm,sheng de ya ge-du ka sen,Сантиагу-ду-Касен,Сантьяґу-ду-Касень,سانتیاگو دو کاکم,სანტიაგუ-დუ-კასენი,聖地亞哥-杜卡森	38.02502	-8.67577	A	ADM2	PT		19	1509			29749		246	Europe/Lisbon	2019-07-24
+8010624	Sesimbra	Sesimbra	Concelho de Sesimbra,Sesimbra,Sesimbra Municipality,Sezimbra,sai xin bu la,sejinbura,Сезимбра,セジンブラ,塞新布拉	38.49486	-9.12011	A	ADM2	PT		19	1511			49500		58	Europe/Lisbon	2019-07-24
+8010625	Setúbal	Setubal	Caetobriga,Sehtubal,Setobal,Setoumpal,Setubal,Setubal Municipality,Setubala,Setubalis,Setóbal,Setúbal,Setúbal Municipality,nakaramyupal,sai tu ba,sai tu ba er,setabal,setoubaru,setubal,setubala,shtwbr,sitayubala,stwbal,stwbl,su tu bal,sytwbal,Σετούμπαλ,Сетубал,Сэтубал,Սետուբալ,סטובל,ستوبال,سيتوبال,سیتوبال,شطوبر,सिटयूबल,सेतूबल,সেতুবাল,સેટુબલ,நகரம்யூபால்,సెటబాల్,ಸೇತುಬಲ್,සෙටූබල්,ซึตูบัล,სეტუბალი,ሴቱባል,セトゥーバル,塞图巴尔,塞圖巴,塞圖巴爾,세투발	38.51742	-8.90817	A	ADM2	PT		19	1512			121185		63	Europe/Lisbon	2020-02-03
+8010626	Sines	Sines	Sines,Sines Municipality	37.95359	-8.87117	A	ADM2	PT		19	1513			14238		33	Europe/Lisbon	2020-02-05
+8010627	Arcos de Valdevez	Arcos de Valdevez	Arcos de Baldebec,Arcos de Baldebeç,Arcos de Valdevez,Arcos de Valdevez Municipality,Arkush-de-Valdevesh,Arkush-di-Valdevesh,Аркуш-де-Валдевеш,Аркуш-ди-Валдевеш	41.87348	-8.42624	A	ADM2	PT		20	1601			22847		65	Europe/Lisbon	2020-02-07
+8010628	Caminha	Caminha	Camina,Caminha,Caminha Municipality,Kamin'ja,kamynya,Каминья,Камінья,كامينيا	41.84647	-8.80133	A	ADM2	PT		20	1602			16684		57	Europe/Lisbon	2020-02-03
+8010629	Melgaço	Melgaco	Melgaco Municipality,Melgasu,Melgaço Municipality,mei er jia su,Мелгасу,梅爾加蘇	42.08067	-8.24844	A	ADM2	PT		20	1603			9213		566	Europe/Lisbon	2019-07-24
+8010630	Monção	Moncao	Moncao,Moncao Municipality,Monção,Monção Municipality	42.07257	-8.48488	A	ADM2	PT		20	1604			19230		53	Europe/Lisbon	2020-02-03
+8010631	Paredes de Coura	Paredes de Coura	Paredes de Coura,Paredes de Coura Municipality	41.90995	-8.57034	A	ADM2	PT		20	1605			9198		340	Europe/Lisbon	2020-02-03
+8010632	Ponte da Barca	Ponte da Barca	Ponte da Barca,Ponte da Barca Municipality	41.80669	-8.31014	A	ADM2	PT		20	1606			12061		177	Europe/Lisbon	2020-02-03
+8010633	Ponte de Lima	Ponte de Lima	Ponte de Lima,Ponte de Lima Municipality	41.74682	-8.57637	A	ADM2	PT		20	1607			43498		118	Europe/Lisbon	2020-02-03
+8010634	Valença	Valenca	Balenca,Balença,Valenca Municipality,Valensa,Valença Municipality,ballensa,bhalensa,wa lun sa,Валенса,ভালেন্সা,瓦倫薩,발렌사	42.02821	-8.63388	A	ADM2	PT		20	1608			14127		50	Europe/Lisbon	2019-07-24
+8010635	Viana do Castelo	Viana do Castelo	Biana de l Castielho,Viana do Castelo Municipality,Viana do Kastelas,Viana-du-Kashtelu,Vianae-du-Kashtelu,Vijana do Kastelo,bianadukaseutellu,fyana dw kastylw,wei ya na bao,wyana dw kashtylw,wyana dw kaslw mwnysypalyty,wyana dw kastlw,Вианæ-ду-Каштелу,Виана-ду-Каштелу,Вијана до Кастело,Віана-ду-Каштелу,فيانا دو كاستيلو,ویانا دو کاستلو,ویانا دو کاسلو مونیسیپالیتی,ویانا دو کاشتیلو,ვიანა-დუ-კაშტელუ,ヴィアナ・ド・カステロ,維亞納堡,비아나두카스텔루	41.69371	-8.83456	A	ADM2	PT		20	1609			88725		16	Europe/Lisbon	2019-07-24
+8010636	Vila Nova de Cerveira	Vila Nova de Cerveira	Vila Nova de Cerveira,Vila Nova de Cerveira Municipality	41.9331	-8.70533	A	ADM2	PT		20	1610			9253		480	Europe/Lisbon	2020-02-05
+8010637	Alijó	Alijo	Alijo,Alijo Municipality,Alijó,Alijó Municipality	41.28447	-7.48545	A	ADM2	PT		21	1701			11942		760	Europe/Lisbon	2020-02-03
+8010638	Boticas	Boticas	Boticas,Boticas Municipality	41.67585	-7.71604	A	ADM2	PT		21	1702			5750		724	Europe/Lisbon	2020-02-03
+8010639	Chaves	Chaves	Chabes,Chaves,Chaves Municipality,Gorad Shavish,Savesas,Shaves,Shavish,cabhesa,shavishi,shaws,Šavesas,Горад Шавіш,Шавес,Шавиш,شاوس,চাভেস,შავიში	41.73961	-7.4503	A	ADM2	PT		21	1703			41243		351	Europe/Lisbon	2020-02-05
+8010640	Mesão Frio	Mesao Frio	Mesao Frio,Mesao Frio Municipality,Mesão Frio,Mesão Frio Municipality	41.1619	-7.87284	A	ADM2	PT		21	1704			4433		118	Europe/Lisbon	2020-02-03
+8010641	Mondim de Basto	Mondim de Basto	Mondim de Basto,Mondim de Basto Municipality,Mondin de Basto,Mondin-di-Bashtu,meng ding di ba shen tu,Мондин-ди-Башту,蒙丁迪巴什圖	41.41347	-7.95479	A	ADM2	PT		21	1705			7493		174	Europe/Lisbon	2020-02-07
+8010642	Montalegre	Montalegre	Montalegre,Montalegre Municipality	41.8318	-7.78999	A	ADM2	PT		21	1706			10537		941	Europe/Lisbon	2020-02-03
+8010643	Murça	Murca	Murca,Murca Municipality,Murça,Murça Municipality	41.41825	-7.45121	A	ADM2	PT		21	1707			5952		576	Europe/Lisbon	2020-02-03
+8010644	Peso da Régua	Peso da Regua	Peso da Regua,Peso da Regua Municipality,Peso da Régua,Peso da Régua Municipality	41.19157	-7.83668	A	ADM2	PT		21	1708			17131		519	Europe/Lisbon	2019-07-24
+8010645	Ribeira de Pena	Ribeira de Pena	Ribeira da Pena,Ribeira de Pena,Ribeira de Pena Municipality,Ribejra-di-Pena,Rieira de Pena,li bei la di pei na,Рибейра-ди-Пена,里貝拉迪佩納	41.51021	-7.79673	A	ADM2	PT		21	1709			6544		670	Europe/Lisbon	2020-02-07
+8010646	Sabrosa	Sabrosa	Sabrosa,Sabrosa Municipality	41.25318	-7.5902	A	ADM2	PT		21	1710			6361		564	Europe/Lisbon	2020-02-03
+8010647	Santa Marta de Penaguião	Santa Marta de Penaguiao	Santa Marta de Penaguiao,Santa Marta de Penaguiao Municipality,Santa Marta de Penaguion,Santa Marta de Penaguião,Santa Marta de Penaguião Municipality,Santa-Marta-di-Penagian,sheng ma er ta di pei na ji ang,Санта-Марта-ди-Пенагиан,聖瑪爾塔迪佩納吉昂	41.22136	-7.79634	A	ADM2	PT		21	1711			7356		403	Europe/Lisbon	2020-02-04
+8010648	Valpaços	Valpacos	Balpacos,Balpaços,Valpacos Municipality,Valpasush,Valpaços Municipality,wa er pa su shen,walpasws,Валпасуш,والپاسوس,ვალპასოსი,瓦爾帕蘇什	41.62082	-7.33607	A	ADM2	PT		21	1712			16882		526	Europe/Lisbon	2019-07-24
+8010649	Vila Pouca de Aguiar	Vila Pouca de Aguiar	Vila Pouca de Aguiar,Vila Pouca de Aguiar Municipality	41.52079	-7.63671	A	ADM2	PT		21	1713			13187		675	Europe/Lisbon	2020-02-05
+8010650	Vila Real	Vila Real	Vila Real,Vila Real Municipality	41.30021	-7.73985	A	ADM2	PT		21	1714			51850		428	Europe/Lisbon	2020-02-03
+8010651	Armamar	Armamar	Armamar,Armamar Municipality	41.09718	-7.68553	A	ADM2	PT		22	1801			6297		580	Europe/Lisbon	2020-02-03
+8010652	Castro Daire	Castro Daire	Castro Daire,Castro Daire Municipality	40.92279	-7.93878	A	ADM2	PT		22	1803			15339		684	Europe/Lisbon	2020-02-03
+8010653	Cinfães	Cinfaes	Cinfaes,Cinfaes Municipality,Cinfães,Cinfães Municipality	41.03986	-8.11218	A	ADM2	PT		22	1804			20427		933	Europe/Lisbon	2020-02-03
+8010654	Lamego	Lamego	Lamego,Lamego Kommune,Lamego Municipality,Lamegu,Lhamego,la mei gu,lamegu,lamgw,lamyghw,Ламего,Ламегу,لاميغو,لامگو,ლამეგუ,拉梅古	41.10229	-7.81025	A	ADM2	PT		22	1805			26691		544	Europe/Lisbon	2020-02-05
+8010655	Mangualde	Mangualde	Mangualde,Mangualde Municipality	40.5956	-7.71727	A	ADM2	PT		22	1806			19880		592	Europe/Lisbon	2020-02-03
+8010656	Moimenta da Beira	Moimenta da Beira	Moimenta da Beira,Moimenta da Beira Municipality	40.97134	-7.62959	A	ADM2	PT		22	1807			10212		808	Europe/Lisbon	2020-02-03
+8010657	Mortágua	Mortagua	Mortagua,Mortagua Municipality,Mortágua,Mortágua Municipality,mo er ta gua,Мортагуа,莫爾塔瓜	40.39434	-8.25811	A	ADM2	PT		22	1808			9607		154	Europe/Lisbon	2020-02-03
+8010658	Nelas	Nelas	Nelas,Nelas Municipality	40.52946	-7.88259	A	ADM2	PT		22	1809			14037		378	Europe/Lisbon	2020-02-03
+8010659	Oliveira de Frades	Oliveira de Frades	Oliveira de Frades,Oliveira de Frades Municipality	40.74639	-8.1752	A	ADM2	PT		22	1810			10261		261	Europe/Lisbon	2020-02-03
+8010660	Penalva do Castelo	Penalva do Castelo	Penalba de l Castielho,Penalva do Castelo,Penalva do Castelo Municipality,Penalva-du-Kashtelu,pei na er wa bao,Пеналва-ду-Каштелу,佩納爾瓦堡	40.66791	-7.66015	A	ADM2	PT		22	1811			7956		424	Europe/Lisbon	2020-02-07
+8010661	Penedono	Penedono	Penedono,Penedono Municipality	40.993	-7.39401	A	ADM2	PT		22	1812			2952		885	Europe/Lisbon	2020-02-03
+8010662	Resende	Resende	Resende,Resende Municipality	41.07688	-7.95123	A	ADM2	PT		22	1813			11364		664	Europe/Lisbon	2020-02-03
+8010663	Santa Comba Dão	Santa Comba Dao	Santa Comba Dan,Santa Comba Dao,Santa Comba Dao Municipality,Santa Comba Dão,Santa Comba Dão Municipality,Santa-Komba-Dan,santa kwmba daw,sheng kong ba dang,Санта-Комба-Дан,سانتا کومبا داو,სანტა-კომბა-დანი,サンタ・コンバ・ダン,聖孔巴當	40.40442	-8.1138	A	ADM2	PT		22	1814			11597		147	Europe/Lisbon	2020-02-04
+8010664	São João da Pesqueira	Sao Joao da Pesqueira	Sao Joao da Pesqueira Municipality,São João da Pesqueira Municipality	41.11079	-7.43382	A	ADM2	PT		22	1815			7874		596	Europe/Lisbon	2019-07-24
+8010665	São Pedro do Sul	Sao Pedro do Sul	Sao Pedro do Sul Municipality,São Pedro do Sul Municipality	40.80073	-8.09023	A	ADM2	PT		22	1816			16851		432	Europe/Lisbon	2019-07-24
+8010666	Sátão	Satao	Satao,Satao Municipality,Sátão,Sátão Municipality	40.76246	-7.676	A	ADM2	PT		22	1817			12444		651	Europe/Lisbon	2020-02-03
+8010667	Sernancelhe	Sernancelhe	Sernancelhe,Sernancelhe Municipality	40.92097	-7.51226	A	ADM2	PT		22	1818			5671		565	Europe/Lisbon	2020-02-03
+8010668	Tabuaço	Tabuaco	Tabuaco,Tabuaco Municipality,Tabuasu,Tabuaço,Tabuaço Municipality,ta bu a su,Табуасу,塔布阿蘇	41.09555	-7.56735	A	ADM2	PT		22	1819			6350		859	Europe/Lisbon	2020-02-03
+8010669	Tarouca	Tarouca	Tarouca,Tarouca Municipality	41.02651	-7.74998	A	ADM2	PT		22	1820			8048		538	Europe/Lisbon	2020-02-03
+8010670	Vila Nova de Paiva	Vila Nova de Paiva	Vila Nova de Paiva,Vila Nova de Paiva Municipality,Vila-Nova-de-Pajva,Vila-Nova-di-Pajva,pai wa xin zhen,Вила-Нова-ди-Пайва,Віла-Нова-де-Пайва,派瓦新鎮	40.8659	-7.76127	A	ADM2	PT		22	1822			5176		781	Europe/Lisbon	2020-02-05
+8010671	Viseu	Viseu	Biseu,Gorad Vizeu,Viseu,Viseu Municipality,Vizejus,Vizeu,Vizey,Vizėjus,bhise'u,bije-u,fysyw,vizeu,vuizeu,wei sai wu,wi sew,wysyw,wyzyw,Визеу,Горад Візеу,فيسيو,ویزئو,ویزیو,ویسیؤ,ভিসেউ,วีเซว,ვიზეუ,ヴィゼウ,維塞烏,비제우	40.6745	-7.91721	A	ADM2	PT		22	1823			99274		458	Europe/Lisbon	2020-02-07
+8010672	Vouzela	Vouzela	Vouzela,Vouzela Municipality,Vozela,wo ze la,Возела,沃泽拉,沃澤拉	40.68944	-8.1136	A	ADM2	PT		22	1824			10564		747	Europe/Lisbon	2020-02-03
+8010673	Calheta	Calheta	Calheta,Calheta Municipality	32.76367	-17.19765	A	ADM2	PT		10	3101			11521		708	Atlantic/Madeira	2020-02-03
+8010674	Câmara de Lobos	Camara de Lobos	Camara de Lobos,Camara de Lobos Municipality,Câmara de Lobos,Câmara de Lobos Municipality	32.68722	-16.98567	A	ADM2	PT		10	3102			35666		826	Atlantic/Madeira	2020-02-04
+8010675	Funchal	Funchal	Funchal,Funchal Municipality	32.67617	-16.91722	A	ADM2	PT		10	3103			111892		336	Atlantic/Madeira	2020-02-03
+8010676	Machico	Machico	Machico,Machico Municipality	32.74472	-16.70772	A	ADM2	PT		10	3104			21828		65	Atlantic/Madeira	2020-02-03
+8010677	Ponta do Sol	Ponta do Sol	Ponta do Sol,Ponta do Sol Municipality	32.70856	-17.10373	A	ADM2	PT		10	3105			8862		654	Atlantic/Madeira	2020-02-05
+8010678	Porto Moniz	Porto Moniz	Porto Moniz,Porto Moniz Municipality,Portu-Monish,Portu-Monizh,mo ni shen gang,poleutumoniseu,Порту-Мониш,Порту-Моніж,莫尼什港,포르투모니스	32.85959	-17.17575	A	ADM2	PT		10	3106			2711		418	Atlantic/Madeira	2020-02-07
+8010679	Ribeira Brava	Ribeira Brava	Ribeira Brava,Ribeira Brava Municipality,Ribejra-Brava,Ribeyra Brava,hibeilabeulaba,li wei la bu la wa,Рибейра-Брава,Рібейра-Брава,Ռիբեյրա Բրավա,里韋拉布拉瓦,히베이라브라바	32.70589	-17.03578	A	ADM2	PT		10	3107			13375		353	Atlantic/Madeira	2020-02-05
+8010680	Santa Cruz	Santa Cruz	Santa Cruz,Santa Cruz Municipality	32.67495	-16.83088	A	ADM2	PT		10	3108			43005		316	Atlantic/Madeira	2020-02-03
+8010681	Santana	Santana	Santana,Santana Municipality,santana,santant,sheng an na,sntnh,Сантана,סנטנה,سانتانا,سَنتانة,სანტანა,サンタナ,圣安娜,聖安娜,산타나	32.79658	-16.90444	A	ADM2	PT		10	3109			7719		548	Atlantic/Madeira	2020-02-03
+8010682	São Vicente	Sao Vicente	Sao Vicente Municipality,São Vicente Municipality	32.81728	-16.98347	A	ADM2	PT		10	3110			5723		435	Atlantic/Madeira	2019-07-24
+8010683	Porto Santo	Porto Santo	Porto Santo,Porto Santo Municipality	33.07145	-16.34304	A	ADM2	PT		10	3201			5483		65	Atlantic/Madeira	2019-07-24
+8010684	Vila do Porto	Vila do Porto	Vila do Porto,Vila do Porto Municipality	36.97454	-25.09967	A	ADM2	PT		23	4101			5552		234	Atlantic/Azores	2020-02-05
+8010685	Lagoa	Lagoa	Lagoa,Lagoa Municipality	37.74821	-25.54028	A	ADM2	PT		23	4201			14442		207	Atlantic/Azores	2020-02-05
+8010686	Nordeste	Nordeste	Nordeste,Nordeste Municipality	37.82721	-25.22863	A	ADM2	PT		23	4202			4937		474	Atlantic/Azores	2020-02-05
+8010687	Ponta Delgada	Ponta Delgada	Lungsod ng Ponta Delgada,Ponta Delgada,Ponta Delgada Municipality,Ponta Ntelnkanta,Ponta-Dehlgada,Ponta-Delgada,Ponta-Delqada,Pontadelgada,Pontae-Delgadae,buntt dilghadt,panta telkata,peng da de jia da,peng ta de er jia da,ponta delagada,ponta delgada,pontadelgada,pwnta dlgada,pwnta dyljada,pwnth dlgdh,Πόντα Ντελγκάντα,Понтæ-Делгадæ,Понта Делгада,Понта-Делгада,Понта-Дэлгада,Պոնտա Դելգադա,פונטה דלגדה,بُنتة دِلغَادة,پونتا دلگادا,پونتا دیلجادا,पोंटा डेलगाडा,পোন্তা দেলগাদা,પોન્ટા ડેલગાડા,பான்ட டெல்காடா,పోంటా డెల్గాడా,ಪೊಂಟ ಡೆಲ್ಗಾಡಾ,පොන්ටා ඩෙල්ගඩා,ปงตาแดลกาดา,პონტა-დელგადა,ポンタ・デルガダ,朋達德加達,蓬塔德尔加达,蓬塔德爾加達,폰타델가다	37.7423	-25.67093	A	ADM2	PT		23	4203			68809		21	Atlantic/Azores	2019-07-24
+8010688	Povoação	Povoacao	Povoacao Municipality,Povoação Municipality	37.76471	-25.24487	A	ADM2	PT		23	4204			6327		208	Atlantic/Azores	2019-07-24
+8010689	Ribeira Grande	Ribeira Grande	Ribeira Grande,Ribeira Grande Municipality,Ribejra-Grande,da li bei la,rybyra grandh,Рибейра-Гранде,Рібейра-Гранде,ریبیرا گرانده,大里貝拉	37.80459	-25.46835	A	ADM2	PT		23	4205			32112		331	Atlantic/Azores	2020-02-07
+8010690	Vila Franca do Campo	Vila Franca do Campo	Vila Franca do Campo,Vila Franca do Campo Municipality	37.73661	-25.42914	A	ADM2	PT		23	4206			11229		352	Atlantic/Azores	2020-02-07
+8010691	Angra do Heroísmo	Angra do Heroismo	Angra do Eroizmo,Angra do Heroismas,Angra do Heroismo,Angra do Heroismo Municipality,Angra do Heroišmas,Angra do Heroísmo Municipality,Angra du Ehroizhmu,Angra-du-Ehroishmu,Aнгра ду Эроижму,angra dw hrwyysmw,angra-du-eroizhmu,ying xiong gang,Ангра до Ероизмо,Ангра-ду-Эроишму,آنگرا دو هروئیسمو,ანგრა-დუ-ეროიჟმუ,アングラ・ド・エロイズモ,英雄港	38.69526	-27.24913	A	ADM2	PT		23	4301			35402		417	Atlantic/Azores	2019-07-24
+8010692	Praia da Vitória	Praia da Vitoria	Praia da Vitoria,Praia da Vitoria Municipality,Praia da Vitória Municipality,Praja da Vitorija,Vila-da-Praja-da-Vitorija,peulaiadabitolia,praya da wytwrya,pu la ya da wei duo li ya,Вила-да-Прая-да-Витория,پرایا دا ویتوریا,პრაია-და-ვიტორია,普拉亞達維多利亞,프라이아다비토리아	38.74064	-27.13098	A	ADM2	PT		23	4302			21035		223	Atlantic/Azores	2019-07-24
+8010693	Santa Cruz da Graciosa	Santa Cruz da Graciosa	Santa Cruz da Graciosa,Santa Cruz da Graciosa Municipality,Santa Kruz da Grasioza,Santa-Krush-da-Grasioza,santakeuluseudageulasioja,sheng ke lu shen-da ge la xi ao sa,Санта-Круш-да-Грасиоза,Санта-Круш-да-Грасіоза,サンタ・クルス・ダ・グラシオーザ,圣克鲁什-达格拉西奥萨,산타크루스다그라시오자	39.04946	-28.00432	A	ADM2	PT		23	4401			4391		153	Atlantic/Azores	2020-02-05
+8010694	Calheta de São Jorge	Calheta de Sao Jorge	Calheta,Calheta Municipality	38.59767	-27.91459	A	ADM2	PT		23	4501			3773		723	Atlantic/Azores	2020-02-05
+8010695	Velas	Velas	Velas,Velas Municipality	38.67995	-28.15155	A	ADM2	PT		23	4502			5398		658	Atlantic/Azores	2020-02-03
+8010696	Lajes do Pico	Lajes do Pico	Lajes do Pico,Lajes do Pico Municipality,Lazhesh-du-Piku,la ri shen du pi ku,lajeuseudupiku,Лажеш-ду-Пику,Лажеш-ду-Піку,ラジェス・ド・ピコ,拉日什杜皮庫,라즈스두피쿠	38.42797	-28.17402	A	ADM2	PT		23	4601			4711		872	Atlantic/Azores	2020-02-05
+8010697	Madalena	Madalena	Madalena,Madalena Municipality	38.53559	-28.52343	A	ADM2	PT		23	4602			6049		18	Atlantic/Azores	2020-02-03
+8010698	São Roque do Pico	Sao Roque do Pico	Sao Roque do Pico,Sao Roque do Pico Municipality,São Roque do Pico,São Roque do Pico Municipality	38.48817	-28.29261	A	ADM2	PT		23	4603			3388		557	Atlantic/Azores	2020-02-04
+8010699	Horta	Horta	Horta,Horta Municipality,Orta,awrta,Орта,اورتا	38.57097	-28.6792	A	ADM2	PT		23	4701			14994		521	Atlantic/Azores	2020-02-05
+8010700	Lajes Das Flores	Lajes Das Flores	Lajes das Flores,Lajes das Flores Municipality	39.41619	-31.21725	A	ADM2	PT		23	4801			1504		620	Atlantic/Azores	2020-02-05
+8010701	Santa Cruz Das Flores	Santa Cruz Das Flores	Santa Cruz das Flores,Santa Cruz das Flores Municipality	39.46984	-31.18514	A	ADM2	PT		23	4802			2289		361	Atlantic/Azores	2020-02-05
+8010702	Corvo	Corvo	Vila do Corvo,Vila do Corvo Municipality	39.69771	-31.1055	A	ADM2	PT		23	4901			430		586	Atlantic/Azores	2020-02-05

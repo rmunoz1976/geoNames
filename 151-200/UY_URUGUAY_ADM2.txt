@@ -1,0 +1,124 @@
+﻿11820767	Las Piedras	Las Piedras		-34.70564	-56.20121	A	ADM2	UY		02	12			0		56	America/Montevideo	2018-02-21
+11820768	Canelones	Canelones		-34.5356	-56.2413	A	ADM2	UY		02	06			0		28	America/Montevideo	2018-02-21
+11820769	San Ramon	San Ramon		-34.31252	-55.994	A	ADM2	UY		02	24			0		58	America/Montevideo	2018-02-21
+11820770	Ciudad Del Plata	Ciudad Del Plata		-34.72811	-56.44058	A	ADM2	UY		16	01			0		11	America/Montevideo	2018-02-21
+11820771	Nuevo Berlin	Nuevo Berlin		-32.9746	-57.98573	A	ADM2	UY		12	01			0		55	America/Montevideo	2018-02-21
+11820772	Pan De Azucar	Pan De Azucar		-34.70241	-55.20468	A	ADM2	UY		09	04			0		144	America/Montevideo	2018-02-21
+11820773	Aiguá	Aigua		-34.25468	-54.64348	A	ADM2	UY		09	01			0		306	America/Montevideo	2018-02-21
+11820774	Garzón	Garzon		-34.62831	-54.61227	A	ADM2	UY		09	02			0		69	America/Montevideo	2018-02-21
+11820775	Solis Grande	Solis Grande		-34.7097	-55.38662	A	ADM2	UY		09	08			0		47	America/Montevideo	2018-02-21
+11820776	Young	Young		-32.64068	-57.61499	A	ADM2	UY		12	02			0		79	America/Montevideo	2018-02-21
+11820777	Villa Carmen	Villa Carmen		-33.16511	-55.91501	A	ADM2	UY		05	02			0		126	America/Montevideo	2018-02-21
+11820778	San Carlos	San Carlos		-34.65095	-54.9041	A	ADM2	UY		09	07			0		89	America/Montevideo	2018-02-21
+11820779	Municipio G	Municipio G		-34.77611	-56.25665	A	ADM2	UY		10	08			0		50	America/Montevideo	2018-02-21
+11820780	Municipio D	Municipio D		-34.78791	-56.14991	A	ADM2	UY		10	05			0		28	America/Montevideo	2018-02-21
+11820781	Municipio F	Municipio F		-34.82272	-56.0909	A	ADM2	UY		10	07			0		20	America/Montevideo	2018-02-21
+11820782	Municipio E	Municipio E		-34.88324	-56.08955	A	ADM2	UY		10	06			0		26	America/Montevideo	2018-02-21
+11820783	Municipio A	Municipio A		-34.84311	-56.31553	A	ADM2	UY		10	01			0		37	America/Montevideo	2018-02-21
+11820784	Lavalleja	Lavalleja		-31.08196	-57.00585	A	ADM2	UY		15	03			0		136	America/Montevideo	2018-02-21
+11820785	San Antonio	San Antonio		-31.38503	-57.75688	A	ADM2	UY		15	05			0		75	America/Montevideo	2018-02-21
+11820786	Mataojo	Mataojo		-31.16385	-56.32533	A	ADM2	UY		15	04			0		242	America/Montevideo	2018-02-21
+11820787	Paso De Los Toros	Paso De Los Toros		-32.71634	-56.51185	A	ADM2	UY		18	01			0		85	America/Montevideo	2018-02-21
+11820788	Lorenzo Geyres	Lorenzo Geyres		-32.15569	-57.92295	A	ADM2	UY		11	05			0		39	America/Montevideo	2018-02-21
+11820789	Tambores	Tambores		-31.98982	-56.6076	A	ADM2	UY		11	06			0		175	America/Montevideo	2018-02-21
+11820790	Jose Batlle Y Ordoñez	Jose Batlle Y Ordonez		-33.52753	-55.06213	A	ADM2	UY		08	03			0		279	America/Montevideo	2018-02-21
+11820791	Isidoro Noblia	Isidoro Noblia		-32.03132	-54.1332	A	ADM2	UY		03	02			0		145	America/Montevideo	2018-02-21
+11820792	Acegua	Acegua		-31.87054	-54.36067	A	ADM2	UY		03	03			0		209	America/Montevideo	2018-02-21
+11820793	Tupambae	Tupambae		-32.66114	-54.80492	A	ADM2	UY		03	04			0		146	America/Montevideo	2018-02-21
+11820794	Placido Rosas	Placido Rosas		-32.68664	-53.71597	A	ADM2	UY		03	05			0		31	America/Montevideo	2018-02-21
+11820795	Ramon Trigo	Ramon Trigo		-32.25232	-54.59411	A	ADM2	UY		03	08			0		124	America/Montevideo	2018-02-21
+11820796	Fraile Muerto	Fraile Muerto		-32.49252	-54.52964	A	ADM2	UY		03	09			0		133	America/Montevideo	2018-02-21
+11820797	Ecilda Paullier	Ecilda Paullier		-34.3839	-56.9921	A	ADM2	UY		16	03			0		44	America/Montevideo	2018-02-21
+11820798	Santa Clara De Olimar	Santa Clara De Olimar		-33.00147	-54.89286	A	ADM2	UY		19	01			0		150	America/Montevideo	2018-02-21
+11820799	Municipio de Vergara	Municipio de Vergara		-32.94131	-54.06854	A	ADM2	UY		19	02			0		42	America/Montevideo	2021-11-23
+11820800	San Gregorio De Polanco	San Gregorio De Polanco		-32.48207	-55.83641	A	ADM2	UY		18	02			0		92	America/Montevideo	2018-02-21
+11820801	Guichon	Guichon		-32.30177	-56.89259	A	ADM2	UY		11	02			0		88	America/Montevideo	2018-02-21
+11820802	Quebracho	Quebracho		-31.92635	-57.93636	A	ADM2	UY		11	03			0		77	America/Montevideo	2018-02-21
+11820803	La Paloma	La Paloma		-34.56823	-54.17842	A	ADM2	UY		14	03			0		7	America/Montevideo	2018-02-21
+11820804	Lascano	Lascano		-33.7651	-54.26093	A	ADM2	UY		14	04			0		93	America/Montevideo	2018-02-21
+11820805	Villa Constitucion	Villa Constitucion		-31.12125	-57.56911	A	ADM2	UY		15	02			0		83	America/Montevideo	2018-02-21
+11820806	Pueblo Belen	Pueblo Belen		-30.85231	-57.74092	A	ADM2	UY		15	01			0		64	America/Montevideo	2018-02-21
+11820807	Sarandí Del Yí	Sarandi Del Yi		-33.21653	-55.57587	A	ADM2	UY		05	01			0		141	America/Montevideo	2018-02-21
+11820808	Tranqueras	Tranqueras		-31.21274	-55.84563	A	ADM2	UY		13	01			0		143	America/Montevideo	2018-02-21
+11820809	Aguas Corrientes	Aguas Corrientes		-34.52569	-56.35812	A	ADM2	UY		02	03			0		30	America/Montevideo	2018-02-21
+11820810	Ciudad De La Costa	Ciudad De La Costa		-34.81206	-55.95145	A	ADM2	UY		02	08			112449		23	America/Montevideo	2021-08-24
+11820811	Nueva Palmira	Nueva Palmira		-33.88974	-58.34519	A	ADM2	UY		04	03			0		34	America/Montevideo	2018-02-21
+11820812	Toledo	Toledo		-34.72635	-56.0926	A	ADM2	UY		02	30			0		68	America/Montevideo	2018-02-21
+11820813	Rodriguez	Rodriguez		-34.20067	-56.53003	A	ADM2	UY		16	04			0		74	America/Montevideo	2018-02-21
+11820814	Fray Marcos	Fray Marcos		-34.12473	-55.71854	A	ADM2	UY		07	03			0		90	America/Montevideo	2018-02-21
+11820815	Pando	Pando		-34.70848	-55.95447	A	ADM2	UY		02	15			0		16	America/Montevideo	2018-02-21
+11820816	Tarariras	Tarariras		-34.26259	-57.58597	A	ADM2	UY		04	05			0		86	America/Montevideo	2018-02-21
+11820817	Salinas	Salinas		-34.74401	-55.84988	A	ADM2	UY		02	19			0		13	America/Montevideo	2018-02-21
+11820818	La Paz	La Paz		-34.72377	-56.26722	A	ADM2	UY		02	11			0		32	America/Montevideo	2018-02-21
+11820819	Tomas Gomensoro	Tomas Gomensoro		-30.50686	-57.37916	A	ADM2	UY		01	03			0		76	America/Montevideo	2018-02-21
+11820820	Bella Union	Bella Union		-30.37613	-57.57803	A	ADM2	UY		01	02			0		61	America/Montevideo	2018-02-21
+11820821	Nicolich	Nicolich		-34.80594	-56.01483	A	ADM2	UY		02	01			0		24	America/Montevideo	2018-02-21
+11820822	Dolores	Dolores		-33.56992	-58.2931	A	ADM2	UY		17	02			0		21	America/Montevideo	2018-02-21
+11820823	Jose Enrique Rodo	Jose Enrique Rodo		-33.6435	-57.5279	A	ADM2	UY		17	03			0		126	America/Montevideo	2018-02-21
+11820824	Parque Del Plata	Parque Del Plata		-34.75601	-55.72256	A	ADM2	UY		02	16			0		17	America/Montevideo	2018-02-21
+11820825	Cardona	Cardona		-33.8589	-57.23823	A	ADM2	UY		17	01			0		148	America/Montevideo	2018-02-21
+11820826	Libertad	Libertad		-34.64977	-56.63898	A	ADM2	UY		16	02			0		37	America/Montevideo	2018-02-21
+11820827	18 De Mayo	18 De Mayo		-34.69542	-56.21758	A	ADM2	UY		02	31			21371		37	America/Montevideo	2024-05-02
+11820828	Nueva Helvecia	Nueva Helvecia		-34.30305	-57.20707	A	ADM2	UY		04	02			0		35	America/Montevideo	2018-02-21
+11820829	La Floresta	La Floresta		-34.75842	-55.66889	A	ADM2	UY		02	10			0		8	America/Montevideo	2018-02-23
+11820830	Vichadero	Vichadero		-31.79629	-54.60219	A	ADM2	UY		13	02			0		151	America/Montevideo	2018-02-21
+11820831	Minas De Corrales	Minas De Corrales		-31.5103	-55.49982	A	ADM2	UY		13	03			0		172	America/Montevideo	2018-02-21
+11820832	Jose Pedro Varela	Jose Pedro Varela		-33.48716	-54.49845	A	ADM2	UY		08	01			0		54	America/Montevideo	2018-02-21
+11820833	Solis De Mataojo	Solis De Mataojo		-34.59378	-55.41355	A	ADM2	UY		08	02			0		68	America/Montevideo	2018-02-21
+11820834	Rio Branco	Rio Branco		-32.62083	-53.46143	A	ADM2	UY		03	01			0		17	America/Montevideo	2018-02-21
+11820835	Porvenir	Porvenir		-32.43598	-57.85035	A	ADM2	UY		11	01			0		59	America/Montevideo	2018-02-21
+11820836	Piedras Coloradas	Piedras Coloradas		-32.31086	-57.53827	A	ADM2	UY		11	04			0		65	America/Montevideo	2018-02-21
+11820837	Montes	Montes		-34.5197	-55.54962	A	ADM2	UY		02	14			0		51	America/Montevideo	2018-02-21
+11820838	Migues	Migues		-34.48653	-55.63989	A	ADM2	UY		02	13			0		77	America/Montevideo	2018-02-21
+11820839	Progreso	Progreso		-34.65346	-56.24203	A	ADM2	UY		02	18			0		49	America/Montevideo	2018-02-21
+11820840	San Jacinto	San Jacinto		-34.52354	-55.81213	A	ADM2	UY		02	23			0		63	America/Montevideo	2018-02-21
+11820841	Barros Blancos	Barros Blancos		-34.7596	-56.00216	A	ADM2	UY		02	05			0		47	America/Montevideo	2018-02-21
+11820842	San Antonio	San Antonio		-34.42339	-56.07315	A	ADM2	UY		02	20			0		55	America/Montevideo	2018-02-21
+11820843	Punta Del Este	Punta Del Este		-34.93195	-54.92141	A	ADM2	UY		09	06			0		52	America/Montevideo	2018-02-21
+11820844	San Bautista	San Bautista		-34.41501	-55.95837	A	ADM2	UY		02	22			0		65	America/Montevideo	2018-02-21
+11820845	Municipio Ch	Municipio  Ch		-34.90288	-56.14853	A	ADM2	UY		10	04			0		17	America/Montevideo	2018-02-21
+11820846	Municipio B	Municipio B		-34.90509	-56.18389	A	ADM2	UY		10	02			0		47	America/Montevideo	2018-02-21
+11820847	Santa Rosa	Santa Rosa		-34.52165	-56.06488	A	ADM2	UY		02	25			0		45	America/Montevideo	2018-02-21
+11820848	Arevalo	Arevalo		-32.73891	-55.01603	A	ADM2	UY		03	06			0		197	America/Montevideo	2018-02-21
+11820849	Sauce	Sauce		-34.62046	-56.06446	A	ADM2	UY		02	26			0		45	America/Montevideo	2018-02-21
+11820850	Castillos	Castillos		-34.01738	-53.87891	A	ADM2	UY		14	01			0		81	America/Montevideo	2018-02-21
+11820851	San Javier	San Javier		-32.65883	-58.02023	A	ADM2	UY		12	03			0		41	America/Montevideo	2018-02-21
+11820852	Sarandí Grande	Sarandi Grande		-33.72478	-56.33188	A	ADM2	UY		07	02			6827		148	America/Montevideo	2025-06-25
+11820853	Casupá	Casupa		-34.09929	-55.63662	A	ADM2	UY		07	01			0		107	America/Montevideo	2018-02-21
+11820854	Empalme Olmos	Empalme Olmos		-34.64079	-55.87756	A	ADM2	UY		02	09			0		53	America/Montevideo	2018-02-21
+11820855	Soca	Soca		-34.67748	-55.58471	A	ADM2	UY		02	27			0		79	America/Montevideo	2018-02-21
+11820856	Paso Carrasco	Paso Carrasco		-34.8494	-56.03193	A	ADM2	UY		02	17			0		23	America/Montevideo	2018-02-21
+11820857	Ismael Cortinas	Ismael Cortinas		-33.96125	-57.08911	A	ADM2	UY		06	01			0		188	America/Montevideo	2018-02-21
+11820858	Tala	Tala		-34.33241	-55.73721	A	ADM2	UY		02	29			0		82	America/Montevideo	2018-02-21
+11820859	Joaquin Suarez	Joaquin Suarez		-34.73516	-56.03836	A	ADM2	UY		02	28			0		60	America/Montevideo	2018-02-21
+11820860	Piriapolis	Piriapolis		-34.84794	-55.22418	A	ADM2	UY		09	05			0		47	America/Montevideo	2018-02-21
+11820861	Ombues De Lavalle	Ombues De Lavalle		-33.95904	-57.82665	A	ADM2	UY		04	07			0		90	America/Montevideo	2018-02-21
+11820862	Florencio Sanchez	Florencio Sanchez		-33.96887	-57.36327	A	ADM2	UY		04	08			0		139	America/Montevideo	2018-02-21
+11820863	Colonia Valdense	Colonia Valdense		-34.38807	-57.19443	A	ADM2	UY		04	09			0		20	America/Montevideo	2018-02-21
+11820864	Ansina	Ansina		-31.96085	-55.40577	A	ADM2	UY		18	03			0		122	America/Montevideo	2018-02-21
+11820865	Chapicuy	Chapicuy		-31.65212	-57.86263	A	ADM2	UY		11	07			0		66	America/Montevideo	2018-02-21
+11820866	Atlantida	Atlantida		-34.69775	-55.7712	A	ADM2	UY		02	04			0		18	America/Montevideo	2018-02-21
+11820867	Maldonado	Maldonado		-34.8439	-54.98297	A	ADM2	UY		09	03			102000		54	America/Montevideo	2025-06-25
+11820868	Rosario	Rosario		-34.30754	-57.36498	A	ADM2	UY		04	04			0		34	America/Montevideo	2018-02-21
+11820869	Municipio C	Municipio C		-34.87168	-56.18736	A	ADM2	UY		10	03			0		29	America/Montevideo	2018-02-21
+11820870	Santa Lucia	Santa Lucia		-34.42162	-56.29419	A	ADM2	UY		02	02			0		39	America/Montevideo	2018-02-21
+11820871	Los Cerrillos	Los Cerrillos		-34.62237	-56.38879	A	ADM2	UY		02	07			0		20	America/Montevideo	2018-02-21
+11820872	Chuy	Chuy		-33.73128	-53.50001	A	ADM2	UY		14	02			0		14	America/Montevideo	2018-02-21
+11820873	Rincon De Valentin	Rincon De Valentin		-31.35558	-57.17893	A	ADM2	UY		15	06			0		81	America/Montevideo	2018-02-21
+11820874	Arbolito	Arbolito		-32.65691	-54.13196	A	ADM2	UY		03	07			0		99	America/Montevideo	2018-02-21
+11820875	Carmelo	Carmelo		-34.07371	-58.16169	A	ADM2	UY		04	01			0		37	America/Montevideo	2018-02-21
+11820876	Juan Lacaze	Juan Lacaze		-34.39212	-57.43194	A	ADM2	UY		04	06			0		21	America/Montevideo	2018-02-21
+11820877	Palmitas	Palmitas		-33.46994	-57.79919	A	ADM2	UY		17	04			0		68	America/Montevideo	2018-02-21
+11820878	Baltasar Brum	Baltasar Brum		-30.76028	-57.39963	A	ADM2	UY		01	01			0		115	America/Montevideo	2018-02-21
+13107354	Municipio de Las Cañas	Municipio de Las Canas	Las Canas,Las Cañas,Municipio de Las Canas,Municipio de Las Cañas	-32.44861	-53.73834	A	ADM2	UY		03	13107354			0		49	America/Montevideo	2024-10-12
+13107355	Municipio de Cerro de las Cuentas	Municipio de Cerro de las Cuentas	Cerro de las Cuentas,Municipio de Cerro de las Cuentas	-32.67055	-54.45793	A	ADM2	UY		03	13107355			0		215	America/Montevideo	2024-10-12
+13107356	Villa Sara	Villa Sara	Municipio de Villa Sara,Villa Sara	-33.3273	-54.43579	A	ADM2	UY		19	13107356			0		43	America/Montevideo	2024-10-12
+13107357	Municipio de General Enrique Martínez	Municipio de General Enrique Martinez	Charqueada,General Enrique Martinez,General Enrique Martínez,Municipio de Charqueada,Municipio de General Enrique Martinez,Municipio de General Enrique Martínez	-33.1574	-53.94336	A	ADM2	UY		19	13107357			0		12	America/Montevideo	2024-10-12
+13107358	Bañado de Medina	Banado de Medina	Banado de Medina,Bañado de Medina,Municipio de Banado de Medina,Municipio de Bañado de Medina	-32.35262	-54.32698	A	ADM2	UY		03	13107358			0		105	America/Montevideo	2024-10-12
+13107359	Municipio de Cerro Chato	Municipio de Cerro Chato	Cerro Chato,Municipio de Cerro Chato	-33.14302	-55.0779	A	ADM2	UY		19	13107359			0		166	America/Montevideo	2024-10-12
+13107360	Municipio de Rincón	Municipio de Rincon	Municipio de Rincon,Municipio de Rincón,Rincon,Rincón	-32.8611	-53.51878	A	ADM2	UY		19	13107360			0		11	America/Montevideo	2024-10-12
+13107362	Mariscala	Mariscala	Mariscala,Municipio de Mariscala	-33.98242	-54.79634	A	ADM2	UY		08	13107362			0		126	America/Montevideo	2024-10-12
+13107363	Municipio de Quebracho	Municipio de Quebracho	Municipio de Quebracho,Quebracho	-32.58504	-54.81725	A	ADM2	UY		03	13107363			0		124	America/Montevideo	2024-10-12
+13107364	Centurión	Centurion	Centurion,Centurión,Municipio de Centurion,Municipio de Centurión	-32.18985	-53.81352	A	ADM2	UY		03	13107364			0		59	America/Montevideo	2024-10-12
+13107365	Municipio de Miguelete	Municipio de Miguelete	Miguelete,Municipio de Miguelete	-34.05058	-57.67493	A	ADM2	UY		04	13107365			0		97	America/Montevideo	2024-10-12
+13107367	Municipio de Tres Islas	Municipio de Tres Islas	Municipio de Tres Islas,Tres Islas	-32.40641	-54.81619	A	ADM2	UY		03	13107367			0		119	America/Montevideo	2024-10-12

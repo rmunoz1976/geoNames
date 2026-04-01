@@ -1,0 +1,14 @@
+﻿4035421	Aleipata Itupa i Lalo	Aleipata Itupa i Lalo		-14.00844	-171.42867	A	ADM2	WS		03	4035421			0		17	Pacific/Apia	2015-08-04
+7668017	Aleipata Itupa i Luga	Aleipata Itupa i Luga		-14.03425	-171.4635	A	ADM2	WS		03	7668017			0		282	Pacific/Apia	2011-02-24
+7668018	Lepa	Lepa		-14.01927	-171.51631	A	ADM2	WS		03	7668018			0		291	Pacific/Apia	2011-02-24
+7669205	Faleata West	Faleata West		-13.85898	-171.81997	A	ADM2	WS		10	7669205			0		204	Pacific/Apia	2011-02-24
+7669206	Sagaga le Falefa	Sagaga le Falefa		-13.87087	-171.87347	A	ADM2	WS		10	7669206			0		381	Pacific/Apia	2011-02-24
+7669207	Sagaga Le Usoga	Sagaga Le Usoga		-13.82683	-171.8537	A	ADM2	WS		10	7669207			0		44	Pacific/Apia	2011-02-24
+7669208	Leauvaa	Leauvaa		-13.82864	-171.86588	A	ADM2	WS		10	7669208			0		70	Pacific/Apia	2011-02-24
+7669209	Aana Alofi I	Aana Alofi I		-13.84777	-171.92411	A	ADM2	WS		01	7669209			0		199	Pacific/Apia	2011-02-24
+7669210	Aana Alofi II	Aana Alofi II		-13.8543	-171.94997	A	ADM2	WS		01	7669210			0		141	Pacific/Apia	2011-02-24
+7669212	Aana Alofi III	Aana Alofi III		-13.85262	-171.99071	A	ADM2	WS		01	7669212			0		152	Pacific/Apia	2011-02-24
+7669213	Aiga i le Tai	Aiga i le Tai		-13.86383	-172.04165	A	ADM2	WS		02	7669213			0		84	Pacific/Apia	2011-02-24
+7669216	Faleata East	Faleata East		-13.87786	-171.79807	A	ADM2	WS		10	7669216			0		191	Pacific/Apia	2011-02-24
+7669218	Vaimauga West	Vaimauga West		-13.88739	-171.76446	A	ADM2	WS		10	7669218			0		376	Pacific/Apia	2011-02-24
+10629989	Vaimauga East	Vaimauga East	Vaimauga East	-13.85283	-171.74026	A	ADM2	WS		10	10629989			0		35	Pacific/Apia	2015-08-30

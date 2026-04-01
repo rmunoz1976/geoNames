@@ -1,0 +1,196 @@
+﻿3690615	Provincia de Zarumilla	Provincia de Zarumilla	Provincia de Zarumilla,Zarumilla	-3.68262	-80.24681	A	ADM2	PE		24	2403			0		98	America/Lima	2024-04-20
+3690672	Provincia de Yungay	Provincia de Yungay	Provincia de Yungay,Yungay,Yungay Province	-9.189	-77.73298	A	ADM2	PE		02	0220			0		2481	America/Lima	2024-04-20
+3691097	Provincia de Ucayali	Provincia de Ucayali	Provincia de Ucayali,Ucayali,Ucayali Province	-7.30705	-75.37762	A	ADM2	PE		16	1606			0		200	America/Lima	2024-04-20
+3691145	Provincia de Tumbes	Provincia de Tumbes	Provincia de Tumbes,Tumbes	-3.79254	-80.43368	A	ADM2	PE		24	2401			0		332	America/Lima	2024-04-20
+3691174	Provincia de Trujillo	Provincia de Trujillo	Provincia de Trujillo,Trujillo	-8.07004	-78.90444	A	ADM2	PE		13	1301			0		247	America/Lima	2024-04-20
+3691580	Provincia de Talara	Provincia de Talara	Provincia de Talara,Talara	-4.46346	-81.08759	A	ADM2	PE		20	2007			0		152	America/Lima	2024-04-20
+3691673	Provincia de Sullana	Provincia de Sullana	Provincia de Sullana,Sullana,Sullana Province	-4.57657	-80.63051	A	ADM2	PE		20	2006			0		294	America/Lima	2024-04-20
+3691835	Provincia de Sihuas	Provincia de Sihuas	Provincia de Siguas,Provincia de Sihuas,Sihuas,Sihuas Province	-8.48298	-77.567	A	ADM2	PE		02	0219			0		4267	America/Lima	2024-04-20
+3692071	Provincia de Santiago de Chuco	Provincia de Santiago de Chuco	Provincia de Santiago de Chuco,Santiago de Chuco	-8.16636	-78.15429	A	ADM2	PE		13	1310			0		2532	America/Lima	2024-04-20
+3692215	Provincia de Santa Cruz	Provincia de Santa Cruz	Provincia de Santa Cruz,Santa Cruz,Santa Cruz Province	-6.68125	-78.97767	A	ADM2	PE		06	0613			0		1934	America/Lima	2024-04-20
+3692276	Provincia de Santa	Provincia de Santa	Provincia de Santa,Santa	-8.95746	-78.27765	A	ADM2	PE		02	0218			0		1275	America/Lima	2024-04-20
+3692365	Provincia de San Miguel	Provincia de San Miguel	Provincia de San Miguel,San Miguel,San Miguel Province	-6.97979	-78.98192	A	ADM2	PE		06	0611			0		3411	America/Lima	2024-04-20
+3692383	Provincia de San Martín	Provincia de San Martin	Provincia de San Martin,Provincia de San Martín,San Martin,San Martin Province,San Martín,San Martín Province	-6.59184	-75.77956	A	ADM2	PE		22	2209			0		375	America/Lima	2024-04-20
+3692526	Provincia de San Ignacio	Provincia de San Ignacio	Provincia de San Ignacio,San Ignacio,San Ignacio Province	-5.19925	-78.96065	A	ADM2	PE		06	0609			0		1091	America/Lima	2024-04-20
+3692841	Provincia de Rodríguez de Mendoza	Provincia de Rodriguez de Mendoza	Provincia de Rodriguez de Mendoza,Provincia de Rodríguez de Mendoza,RIM,Rodriguez de Mendoza,Rodriguez de Mendoza Province,Rodríguez de Mendoza,Rodríguez de Mendoza Province	-6.36524	-77.44751	A	ADM2	PE		01	0106			0		1509	America/Lima	2024-04-20
+3692862	Provincia de Rioja	Provincia de Rioja	Provincia de Rioja,Rioja,Rioja Province	-5.87344	-77.46771	A	ADM2	PE		22	2208			0		1611	America/Lima	2024-04-20
+3692894	Provincia de Requena	Provincia de Requena	Provincia de Requena,Requena,Requena Province	-5.96597	-73.94121	A	ADM2	PE		16	1605			0		134	America/Lima	2024-04-20
+3693467	Provincia de Pomabamba	Provincia de Pomabamba	Pomabamba,Pomabamba Province,Provincia de Pomabamba	-8.82311	-77.47559	A	ADM2	PE		02	0216			0		3418	America/Lima	2022-11-07
+3693524	Provincia de Piura	Provincia de Piura	Piura,Piura Province,Provincia de Piura	-5.21416	-80.40617	A	ADM2	PE		20	2001			0		242	America/Lima	2022-11-06
+3693821	Provincia de Pataz	Provincia de Pataz	Pataz,Pataz Province,Provincia de Patas,Provincia de Pataz,Provincia de Patás	-8.20959	-77.32908	A	ADM2	PE		13	1308			0		2975	America/Lima	2024-04-20
+3694074	Provincia de Pallasca	Provincia de Pallasca	Pallasca,Pallasca Province,Provincia de Pallasca	-8.31738	-77.90497	A	ADM2	PE		02	0215			0		4508	America/Lima	2024-04-20
+3694110	Provincia de Paita	Provincia de Paita	Paita,Paita Province,Provincia de Paita	-5.10189	-81.09695	A	ADM2	PE		20	2005			0		73	America/Lima	2022-11-07
+3694144	Provincia de Pachitea	Provincia de Pachitea	Pachitea,Pachitea Province,Provincia de Pachitea	-9.95262	-75.8139	A	ADM2	PE		10	1008			0		2631	America/Lima	2022-11-07
+3694175	Provincia de Pacasmayo	Provincia de Pacasmayo	Pacasmayo,Pacasmayo Province,Provincia de Pacasmayo	-7.42654	-79.44151	A	ADM2	PE		13	1307			0		264	America/Lima	2024-04-20
+3694211	Provincia de Otuzco	Provincia de Otuzco	Otusco,Otuzco,Otuzco Province,Provincia de Otusco,Provincia de Otuzco	-7.90457	-78.56362	A	ADM2	PE		13	1306			0		2628	America/Lima	2022-11-07
+3694563	Provincia de Moyobamba	Provincia de Moyobamba	Moyobamba,Moyobamba Province,Provincia de Moyobamba	-5.90527	-76.99051	A	ADM2	PE		22	2201			0		833	America/Lima	2024-04-20
+3694581	Provincia de Morropón	Provincia de Morropon	Morropon,Morropon Province,Morropón,Morropón Province,Provincia Morropon,Provincia Morropón,Provincia de Morropon,Provincia de Morropón	-5.2383	-80.00638	A	ADM2	PE		20	2004			0		200	America/Lima	2024-04-20
+3694873	Provincia de Maynas	Provincia de Maynas	Bajo Amazonas,Maynas,Maynas Province,Provincia Bajo Amazonas,Provincia de Maynas	-2.87238	-73.97295	A	ADM2	PE		16	1601			0		146	America/Lima	2024-04-20
+3694919	Provincia de Mariscal Luzuriaga	Provincia de Mariscal Luzuriaga	Luzuriaga,Mariscal Luzuriaga,Mariscal Luzuriaga Province,Provincia de Mariscal Luzuriaga	-8.86949	-77.27552	A	ADM2	PE		02	0213			0		2515	America/Lima	2024-04-20
+3694924	Provincia de Mariscal Cáceres	Provincia de Mariscal Caceres	Mariscal Caceres,Mariscal Caceres Province,Mariscal Cáceres,Mariscal Cáceres Province,Provincia de Mariscal Caceres,Provincia de Mariscal Cáceres	-7.2739	-77.18216	A	ADM2	PE		22	2206			0		1522	America/Lima	2022-11-06
+3694961	Provincia de Marañón	Provincia de Maranon	Maranon,Maranon Province,Marañón,Marañón Province,Provincia de Maranon,Provincia de Marañón	-8.71916	-76.68794	A	ADM2	PE		10	1007			0		1956	America/Lima	2024-04-20
+3695112	Provincia de Luya	Provincia de Luya	Luya,Luya Province,Provincia de Luya	-6.34222	-78.06806	A	ADM2	PE		01	0105			0		3073	America/Lima	2024-04-20
+3695237	Provincia de Loreto	Provincia de Loreto	Loreto,Loreto Province,Provincia de Loreto	-4.05956	-75.14965	A	ADM2	PE		16	1603			0		144	America/Lima	2024-04-20
+3695414	Provincia de Leoncio Prado	Provincia de Leoncio Prado	Leoncio Prado,Leoncio Prado Province,Provincia de Leoncio Prado,Tingo Maria,Tingo María	-9.14859	-76	A	ADM2	PE		10	1006			0		592	America/Lima	2024-04-20
+3695752	Provincia de Lambayeque	Provincia de Lambayeque	Lambayeque,Lambayeque Province,Provincia de Lambayeque	-6.18756	-79.97486	A	ADM2	PE		14	1403			0		152	America/Lima	2024-04-20
+3695756	Provincia de Lamas	Provincia de Lamas	Lamas,Lamas Province,Provincia de Lamas	-6.2206	-76.45822	A	ADM2	PE		22	2205			0		406	America/Lima	2024-04-20
+3696149	Provincia de Jaén	Provincia de Jaen	Jaen,Jaen Province,Jaén,Jaén Province,Provincia de Jaen,Provincia de Jaén	-5.71074	-79.00438	A	ADM2	PE		06	0608			0		2298	America/Lima	2022-11-07
+3696296	Provincia de Huaylas	Provincia de Huaylas	Huailas,Huaylas,Huaylas Province,Provincia de Huaylas	-8.939	-77.81951	A	ADM2	PE		02	0212			0		2714	America/Lima	2024-04-20
+3696358	Provincia de Huarmey	Provincia de Huarmey	Huarmey,Huarmey Province,Provincia de Huarmey	-10.07832	-77.93619	A	ADM2	PE		02	0211			0		797	America/Lima	2024-04-20
+3696371	Provincia de Huari	Provincia de Huari	Huari,Huari Province,Provincia de Huari	-9.43117	-77.10711	A	ADM2	PE		02	0210			0		3855	America/Lima	2024-04-20
+3696377	Provincia de Huaraz	Provincia de Huaraz	Huaras,Huaraz Province,Provincia de Huaras,Provincia de Huaraz,Provincia de Huarás	-9.56109	-77.64605	A	ADM2	PE		02	0201			0		4005	America/Lima	2022-11-07
+3696415	Provincia de Huánuco	Provincia de Huanuco	Huanuco,Huanuco Province,Huánuco,Huánuco Province,Provincia de Huanuco,Provincia de Huánuco	-9.76717	-76.22052	A	ADM2	PE		10	1001			0		2442	America/Lima	2024-04-20
+3696465	Provincia de Huancabamba	Provincia de Huancabamba	Huancabamba,Huancabamba Province,Provincia de Huancabamba	-5.4681	-79.51314	A	ADM2	PE		20	2003			0		2163	America/Lima	2024-04-20
+3696505	Provincia de Huamalíes	Provincia de Huamalies	Huamalies,Huamalies Province,Huamalíes,Huamalíes Province,Provincia de Huamalies,Provincia de Huamalíes	-9.37124	-76.57444	A	ADM2	PE		10	1005			0		3946	America/Lima	2024-04-20
+3696534	Provincia de Huallaga	Provincia de Huallaga	Huallaga,Huallaga Province,Provincia de Huallaga	-6.75664	-76.90143	A	ADM2	PE		22	2204			0		1286	America/Lima	2022-11-07
+3696537	Provincia de Hualgayoc	Provincia de Hualgayoc	Gualcayog,Hualgayoc,Hualgayoc Province,Provincia de Hualgayoc	-6.68	-78.53	A	ADM2	PE		06	0607			0		2657	America/Lima	2022-11-06
+3697032	Provincia de Ferreñafe	Provincia de Ferrenafe	Ferrenafe,Ferrenafe Province,Ferreñafe,Ferreñafe Province,Provincia de Ferrenafe,Provincia de Ferreñafe	-6.32908	-79.46171	A	ADM2	PE		14	1402			0		1115	America/Lima	2024-04-20
+3697460	Provincia de Dos de Mayo	Provincia de Dos de Mayo	Dos de Mayo,Provincia de Dos de Mayo	-9.64548	-76.70959	A	ADM2	PE		10	1003			0		3002	America/Lima	2024-04-20
+3697539	Provincia de Cutervo	Provincia de Cutervo	Cutervo,Cutervo Province,La Provincia de Cutervo,Provincia de Cutervo	-6.20714	-78.82022	A	ADM2	PE		06	0606			0		2171	America/Lima	2024-04-20
+3697793	Provincia de Corongo	Provincia de Corongo	Corongo,Corongo Province,Provincia de Corongo	-8.57483	-77.88264	A	ADM2	PE		02	0209			0		3295	America/Lima	2024-04-20
+3697795	Provincia de Coronel Portillo	Provincia de Coronel Portillo	Coronel Portillo,Provincia de Coronel Portillo	-8.70238	-73.9459	A	ADM2	PE		25	2501			0		189	America/Lima	2024-04-20
+3697832	Provincia de Contumazá	Provincia de Contumaza	Contumaza,Contumaza Province,Contumazá,Contumazá Province,Provincia de Contumasa,Provincia de Contumasá,Provincia de Contumaza,Provincia de Contumazá	-7.37587	-78.96559	A	ADM2	PE		06	0605			0		2572	America/Lima	2024-04-20
+3697834	Provincia de Contralmirante Villar	Provincia de Contralmirante Villar	Contralmirante Villar,Provincia de Contralmirante Villar	-3.98298	-80.72448	A	ADM2	PE		24	2402			0		304	America/Lima	2024-04-20
+3698139	Provincia de Chota	Provincia de Chota	Chota,Chota Province,Provincia de Chota	-6.38332	-79.18055	A	ADM2	PE		06	0604			0		3441	America/Lima	2022-11-06
+3698348	Provincia de Chiclayo	Provincia de Chiclayo	Chiclayo,Chiclayo Province,Provincia de Chiclayo	-6.80495	-79.5501	A	ADM2	PE		14	1401			0		152	America/Lima	2024-04-20
+3698538	Provincia de Chachapoyas	Provincia de Chachapoyas	Chachapoyas,Chachapoyas Province,Provincia de Chachapoyas	-6.2748	-77.81067	A	ADM2	PE		01	0101			0		2901	America/Lima	2022-11-07
+3698607	Provincia de Celendín	Provincia de Celendin	Celendin,Celendin Province,Celendín,Celendín Province,Provincia de Celendin,Provincia de Celendín	-6.79292	-78.21703	A	ADM2	PE		06	0603			0		2110	America/Lima	2024-04-20
+3698678	Provincia de Casma	Provincia de Casma	Casma,Casma Province,Provincia de Casma	-9.47638	-78.24738	A	ADM2	PE		02	0208			0		148	America/Lima	2022-11-06
+3698813	Provincia de Carhuaz	Provincia de Carhuaz	Carhuaz,Carhuaz Province,Provincia de Carhuas,Provincia de Carhuaz,Provincia de Carhuás	-9.317	-77.551	A	ADM2	PE		02	0206			0		3245	America/Lima	2022-11-07
+3699086	Provincia de Cajamarca	Provincia de Cajamarca	Cajamarca,Cajamarca Province,Provincia de Cajamarca	-7.19721	-78.46559	A	ADM2	PE		06	0601			0		2650	America/Lima	2024-04-20
+3699094	Provincia de Cajabamba	Provincia de Cajabamba	Cajabamba,Cajabamba Province,Provincia de Cajabamba	-7.55637	-78.08903	A	ADM2	PE		06	0602			0		2823	America/Lima	2024-04-20
+3699269	Provincia de Bongará	Provincia de Bongara	Bongara,Bongara Province,Bongará,Bongará Province,Bongora,Provincia de Bongara,Provincia de Bongará	-5.68341	-77.87308	A	ADM2	PE		01	0103			0		2073	America/Lima	2022-11-07
+3699282	Provincia de Bolívar	Provincia de Bolivar	Bolivar,Bolivar Province,Bolívar,Bolívar Province,Cajamarquilla,Provincia de Bolivar,Provincia de Bolívar	-7.30143	-77.73086	A	ADM2	PE		13	1303			0		2666	America/Lima	2024-04-20
+3699485	Provincia de Bagua	Provincia de Bagua	Bagua,Bagua Province,Provincia de Bagua	-5.09006	-78.39972	A	ADM2	PE		01	0102			0		894	America/Lima	2022-11-07
+3699501	Provincia de Ayabaca	Provincia de Ayabaca	Ayabaca,Ayabaca Province,Provincia de Ayabaca	-4.71384	-79.80356	A	ADM2	PE		20	2002			0		1771	America/Lima	2024-04-20
+3699607	Provincia de Antonio Raymondi	Provincia de Antonio Raymondi	Antonio Raymondi,Antonio Raymondi Province,Provincia de Antonio Raymondi	-9.11311	-77.05249	A	ADM2	PE		02	0203			0		3288	America/Lima	2024-04-20
+3699735	Provincia de Alto Amazonas	Provincia de Alto Amazonas	Alto Amazonas,Alto Amazonas Province,Provincia Alto Amazonas,Provincia de Alto Amazonas	-5.81276	-76.10229	A	ADM2	PE		16	1602			0		127	America/Lima	2022-11-06
+3699820	Provincia de Aija	Provincia de Aija	Aija,Aija Province,Provincia de Aija	-9.77803	-77.66454	A	ADM2	PE		02	0202			0		3600	America/Lima	2024-04-20
+3925316	Provincia de Ica	Provincia de Ica	Ica,Ica Province,Provincia de Ica	-14.27799	-75.6579	A	ADM2	PE		11	1101			0		336	America/Lima	2024-04-20
+3925567	Provincia de Yauyos	Provincia de Yauyos	Provincia de Yauyos,Yauyos	-12.50281	-75.9011	A	ADM2	PE		15	1510			0		2861	America/Lima	2024-04-20
+3925598	Provincia de Yauli	Provincia de Yauli	Provincia Yauli,Provincia de Yauli,Yauli,Yauli Province	-11.52788	-76.09648	A	ADM2	PE		12	1208			0		4176	America/Lima	2024-04-20
+3926224	Provincia de Víctor Fajardo	Provincia de Victor Fajardo	Fajardo,Provincia de Fajardo,Provincia de Victor Fajardo,Provincia de Víctor Fajardo,Victor Fajardo,Victor Fajardo Province,Víctor Fajardo,Víctor Fajardo Province	-13.70852	-74.24719	A	ADM2	PE		05	0510			0		4018	America/Lima	2024-04-20
+3926436	Provincia de Urubamba	Provincia de Urubamba	Provincia de Urubamba,Urubamba,Urubamba Province	-13.24043	-72.25995	A	ADM2	PE		08	0813			0		3426	America/Lima	2024-04-20
+3927670	Provincia de Tayacaja	Provincia de Tayacaja	Provincia de Tayacaja,Tayacaja,Tayacaja Province	-12.24202	-74.76755	A	ADM2	PE		09	0907			0		2894	America/Lima	2024-04-20
+3927757	Provincia de Tarma	Provincia de Tarma	Provincia de Tarma,Tarma,Tarma Province	-11.40562	-75.69129	A	ADM2	PE		12	1207			0		3241	America/Lima	2022-11-07
+3927773	Provincia de Tarata	Provincia de Tarata	Provincia de Tarata,Tarata,Tarata Province	-17.40978	-69.98273	A	ADM2	PE		23	2304			0		4020	America/Lima	2024-04-20
+3927937	Provincia de Tambopata	Provincia de Tambopata	Provincia de Tambopata,Tambopata,Tambopata Province	-12.19948	-70.05006	A	ADM2	PE		17	1701			0		340	America/Lima	2022-11-06
+3928091	Tahuamanu	Tahuamanu	Provincia de Tahuamanu,Provincia de Tahuamanú,Tahuamanu,Tahuamanu Province	-11.23086	-70.25752	A	ADM2	PE		17	1703			0		301	America/Lima	2024-04-20
+3928126	Provincia de Tacna	Provincia de Tacna	Provincia de Tacna,Tacna	-17.97804	-70.25882	A	ADM2	PE		23	2301			0		615	America/Lima	2024-04-20
+3928923	Provincia de Satipo	Provincia de Satipo	Provincia de Satipo,Satipo,Satipo Province	-11.567	-74.09367	A	ADM2	PE		12	1206			0		396	America/Lima	2024-04-20
+3929310	Provincia de San Román	Provincia de San Roman	Provincia San Roman,Provincia San Román,Provincia de San Roman,Provincia de San Román,San Roman,San Roman Province,San Román,San Román Province	-15.70792	-70.43109	A	ADM2	PE		21	2111			0		4304	America/Lima	2024-04-20
+3929739	Provincia de Sandia	Provincia de Sandia	Provincia de Sandia,Sandia,Sandia Province	-13.8429	-69.32376	A	ADM2	PE		21	2112			0		2766	America/Lima	2024-04-20
+3930459	Provincia de Recuay	Provincia de Recuay	Provincia de Recuay,Racuay,Recuay,Recuay Province	-9.95959	-77.42517	A	ADM2	PE		02	0217			17185		4543	America/Lima	2024-04-20
+3930646	Provincia de Quispicanchi	Provincia de Quispicanchi	Provincia de Quispicanchi,Provincia de Quispicanchis,Quispicanchi,Quispicanchi Province	-13.56821	-70.98883	A	ADM2	PE		08	0812			0		3803	America/Lima	2024-04-20
+3931274	Provincia de Puno	Provincia de Puno	Provincia de Puno,Puno,Puno Province	-16.13092	-70.08682	A	ADM2	PE		21	2101			0		4090	America/Lima	2024-04-20
+3932143	Provincia de Pisco	Provincia de Pisco	Pisco,Pisco Province,Provincia de Pisco	-13.80377	-75.94264	A	ADM2	PE		11	1105			0		361	America/Lima	2022-11-06
+3932649	Provincia de Paucartambo	Provincia de Paucartambo	Paucartambo,Paucartambo Province,Provincia de Paucartambo	-13.15071	-71.51398	A	ADM2	PE		08	0811			0		3092	America/Lima	2024-04-20
+3932833	Provincia de Pasco	Provincia de Pasco	Pasco,Pasco Province,Provincia de Pasco	-10.7225	-76.11364	A	ADM2	PE		19	1901			0		3992	America/Lima	2024-04-20
+3932863	Provincia de Paruro	Provincia de Paruro	Paruro,Paruro Province,Provincia de Paruro	-13.89274	-71.91348	A	ADM2	PE		08	0810			0		3697	America/Lima	2024-04-20
+3932906	Provincia de Parinacochas	Provincia de Parinacochas	Parinacochas,Parinacochas Province,Provincia de Parinacochas	-15.02965	-73.63487	A	ADM2	PE		05	0507			0		4041	America/Lima	2022-11-06
+3933344	Provincia de Palpa	Provincia de Palpa	Palpa,Palpa Province,Provincia de Palpa	-14.37519	-75.17624	A	ADM2	PE		11	1104			0		1161	America/Lima	2024-04-20
+3933873	Provincia de Oxapampa	Provincia de Oxapampa	Oxapampa,Oxapampa Province,Provincia de Oxapampa	-10.29505	-74.94933	A	ADM2	PE		19	1903			0		247	America/Lima	2024-04-20
+3934353	Nasca	Nasca	Nasca,Nasca Province,Nazca,Provincia de Nasca,Provincia de Nazca	-14.95533	-75.09131	A	ADM2	PE		11	1103			0		444	America/Lima	2024-04-20
+3935054	Provincia de Melgar	Provincia de Melgar	Ayaviri,Melgar,Melgar Province,Provincia Melgar,Provincia de Melgar	-14.67558	-70.70322	A	ADM2	PE		21	2108			0		4137	America/Lima	2024-04-20
+3935255	Provincia de Mariscal Nieto	Provincia de Mariscal Nieto	Mariscal Nieto,Mariscal Nieto Province,Provincia de Mariscal Nieto	-17.02573	-70.80488	A	ADM2	PE		18	1801			0		3011	America/Lima	2024-04-20
+3935423	Provincia de Manu	Provincia de Manu	Manu,Manu Province,Manú Province,Provincia de Manu,Provincia del Manu	-12.26595	-71.29033	A	ADM2	PE		17	1702			0		530	America/Lima	2024-04-20
+3935835	Provincia de Lucanas	Provincia de Lucanas	Lucanas,Lucanas Province,Provincia de Lucanas	-14.61805	-74.35567	A	ADM2	PE		05	0506			0		3979	America/Lima	2024-04-20
+3936625	Provincia de La Unión	Provincia de La Union	La Union,La Union Province,La Unión,La Unión Province,Provincia de La Union,Provincia de La Unión	-15.05583	-72.79345	A	ADM2	PE		04	0408			0		4630	America/Lima	2024-04-20
+3936995	Provincia de Lampa	Provincia de Lampa	Lampa,Lampa Province,Provincia de Lampa	-15.39462	-70.62606	A	ADM2	PE		21	2107			0		4801	America/Lima	2024-04-20
+3937045	Provincia de La Mar	Provincia de La Mar	La Mar,La Mar Province,Provincia de La Mar	-13.03312	-73.70571	A	ADM2	PE		05	0505			0		2674	America/Lima	2024-04-20
+3937248	Provincia de La Convención	Provincia de La Convencion	Convencion,La Convencion,La Convencion Province,La Convención,La Convención Province,Provincia de La Convencion,Provincia de La Convención	-12.34457	-72.90429	A	ADM2	PE		08	0809			0		448	America/Lima	2024-04-20
+3937483	Provincia de Junín	Provincia de Junin	Junin,Junin Province,Junín,Junín Province,Provincia de Junin,Provincia de Junín	-11.02112	-75.93779	A	ADM2	PE		12	1205			0		4000	America/Lima	2024-04-20
+3937732	Provincia de Jauja	Provincia de Jauja	Jauja,Jauja Province,Provincia de Jauja	-11.726	-75.547	A	ADM2	PE		12	1204			0		3478	America/Lima	2022-11-06
+3938145	Provincia de Islay	Provincia de Islay	Islai,Islay,Islay Province,Provincia Islay,Provincia de Islai,Provincia de Islay	-16.96141	-71.72446	A	ADM2	PE		04	0407			0		683	America/Lima	2024-04-20
+3938414	Provincia de Ilo	Provincia de Ilo	Ilo,Ilo Province,Provincia de Ilo	-17.58377	-71.2127	A	ADM2	PE		18	1803			0		585	America/Lima	2024-04-20
+3939153	Provincia de Huarochirí	Provincia de Huarochiri	Huarochiri,Huarochiri Province,Huarochirí,Huarochirí Province,Provincia de Huarochiri,Provincia de Huarochirí	-11.93421	-76.42305	A	ADM2	PE		15	1507			0		4258	America/Lima	2024-04-20
+3939284	Provincia de Huaral	Provincia de Huaral	Huaral Province,Provincia de Huaral	-11.25	-76.91667	A	ADM2	PE		15	1506			0		1997	America/Lima	2022-11-06
+3939385	Provincia de Huanta	Provincia de Huanta	Huanta,Huanta Province,Provincia de Huanta	-12.5351	-74.16667	A	ADM2	PE		05	0504			0		3284	America/Lima	2024-04-20
+3939456	Provincia de Huancayo	Provincia de Huancayo	Huancayo,Huancayo Province,Provincia de Huancayo	-12.17319	-75.16169	A	ADM2	PE		12	1201			0		3425	America/Lima	2022-11-06
+3939465	Provincia de Huancavelica	Provincia de Huancavelica	Huancavelica,Huancavelica Province,Provincia de Huancavelica	-12.72091	-75.0841	A	ADM2	PE		09	0901			0		4626	America/Lima	2024-04-20
+3939536	Provincia de Huancané	Provincia de Huancane	Huancane,Huancane Province,Huancané,Huancané Province,Provincia de Huancane,Provincia de Huancané	-15.1522	-69.62123	A	ADM2	PE		21	2106			0		3950	America/Lima	2024-04-20
+3939740	Provincia de Huamanga	Provincia de Huamanga	Huamanga,Huamanga Province,Provincia Huamanga,Provincia de Huamanga	-13.23829	-74.20214	A	ADM2	PE		05	0501			0		2948	America/Lima	2024-04-20
+3940641	Provincia de Grau	Provincia de Grau	Cotabambas,Grau,Grau Province,Provincia de Grau	-14.04786	-72.61683	A	ADM2	PE		03	0307			0		3106	America/Lima	2024-04-20
+3940771	Provincia de General Sánchez Cerro	Provincia de General Sanchez Cerro	General Sanchez Cerro,General Sanchez Cerro Province,General Sánchez Cerro,General Sánchez Cerro Province,Provincia de General Sanchez Cerro,Provincia de General Sánchez Cerro	-16.41593	-70.76727	A	ADM2	PE		18	1802			0		3028	America/Lima	2024-04-20
+3941092	Provincia de Espinar	Provincia de Espinar	Espinar,Espinar Province,Provincia de Espinar	-14.82976	-71.39433	A	ADM2	PE		08	0808			0		3962	America/Lima	2024-04-20
+3941507	Daniel Alcides Carrión	Daniel Alcides Carrion	Daniel Alcides Carrion,Daniel Alcides Carrion Province,Daniel Alcides Carrión,Daniel Alcides Carrión Province,Daniel Carrion,Daniel Carrión,Provincia de Daniel Alcides Carrion,Provincia de Daniel Alcides Carrión,Provincia de Daniel Carrion,Provincia de Daniel Carrión	-10.5	-76.47448	A	ADM2	PE		19	1902			0		3201	America/Lima	2024-04-20
+3941582	Provincia de Cusco	Provincia de Cusco	Cusco,Cusco Province,Cuzco,Provincia Cuzco,Provincia de Cusco,Provincia de Cuzco	-13.52951	-71.97049	A	ADM2	PE		08	0801			0		3312	America/Lima	2024-04-20
+3942083	Provincia de Cotabambas	Provincia de Cotabambas	Cotabambas,Cotabambas Province,Provincia de Cotabambas	-14.02393	-72.22393	A	ADM2	PE		03	0305			0		3964	America/Lima	2024-04-20
+3942520	Provincia de Condesuyos	Provincia de Condesuyos	Condesuyos,Condesuyos Province,Provincia de Condesuyos	-15.66948	-72.85726	A	ADM2	PE		04	0406			0		4008	America/Lima	2024-04-20
+3942545	Provincia de Concepción	Provincia de Concepcion	Concepcion,Concepcion Province,Concepción,Concepción Province,Provincia de Concepcion,Provincia de Concepción	-11.75	-75.11645	A	ADM2	PE		12	1202			0		4950	America/Lima	2024-04-20
+3943263	Provincia de Chumbivilcas	Provincia de Chumbivilcas	Chumbivilcas,Chumbivilcas Province,Provincia de Chumbivilcas	-14.439	-71.99362	A	ADM2	PE		08	0807			0		3998	America/Lima	2024-04-20
+3943362	Provincia de Chucuito	Provincia de Chucuito	Chucuito,Chucuito Province,Provincia de Chucuito	-16.60545	-69.35761	A	ADM2	PE		21	2104			0		3924	America/Lima	2022-11-07
+3943790	Provincia de Chincha	Provincia de Chincha	Chincha,Provincia Chincha,Provincia de Chincha	-13.31791	-75.9393	A	ADM2	PE		11	1102			0		908	America/Lima	2016-06-23
+3944390	Chanchamayo	Chanchamayo		-11.05	-75.31667	A	ADM2	PE		12	1203			0		871	America/Lima	2012-07-18
+3945135	Provincia de Caylloma	Provincia de Caylloma	Caylloma,Caylloma Province,Provincia de Cailloma,Provincia de Caylloma	-15.64462	-71.55715	A	ADM2	PE		04	0405			0		4887	America/Lima	2024-04-20
+3945232	Provincia de Castrovirreyna	Provincia de Castrovirreyna	Castrovireyna,Castrovirreina,Castrovirreyna,Provincia de Castrovirreyna	-13.14535	-75.40598	A	ADM2	PE		09	0904			0		4684	America/Lima	2016-06-23
+3945239	Provincia de Castilla	Provincia de Castilla	Castilla,Castilla Province,Provincia de Castilla	-15.62481	-72.37998	A	ADM2	PE		04	0404			0		4630	America/Lima	2024-04-20
+3945539	Provincia de Caravelí	Provincia de Caraveli	Caraveli,Caraveli Province,Caravelí,Caravelí Province,Provincia de Caraveli,Provincia de Caravelí	-15.7269	-74.12762	A	ADM2	PE		04	0403			0		1277	America/Lima	2024-04-20
+3945614	Provincia de Carabaya	Provincia de Carabaya	Carabaya,Carabaya Province,Caravaya,Provincia de Carabaya	-13.84769	-70.22288	A	ADM2	PE		21	2103			0		3349	America/Lima	2024-04-20
+3945748	Provincia de Canta	Provincia de Canta	Canta,Canta Province,Provincia de Canta	-11.46667	-76.61667	A	ADM2	PE		15	1504			0		2925	America/Lima	2022-11-07
+3945791	Provincia de Cangallo	Provincia de Cangallo	Cangallo,Cangallo Province,Provincia de Cangallo	-13.573	-74.389	A	ADM2	PE		05	0502			0		3665	America/Lima	2022-11-07
+3945799	Provincia de Cañete	Provincia de Canete	Canete,Canete Province,Cañete,Cañete Province,Provincia de Canete,Provincia de Cañete	-12.77871	-76.38438	A	ADM2	PE		15	1505			0		977	America/Lima	2024-04-20
+3945823	Provincia de Canchis	Provincia de Canchis	Canchis,Canchis Province,Provincia de Canchis	-14.08035	-71.12653	A	ADM2	PE		08	0806			0		4568	America/Lima	2024-04-20
+3945875	Provincia de Canas	Provincia de Canas	Canas,Canas Province,Provincia de Canas	-14.45231	-71.33615	A	ADM2	PE		08	0805			0		4257	America/Lima	2024-04-20
+3945982	Provincia de Camaná	Provincia de Camana	Camana,Camana Province,Camaná,Camaná Province,Provincia de Camana,Provincia de Camaná	-16.4741	-72.76633	A	ADM2	PE		04	0402			0		860	America/Lima	2024-04-20
+3946176	Provincia de Calca	Provincia de Calca	Calca,Calca Province,Colca,Provincia de Calca	-12.97288	-72.04383	A	ADM2	PE		08	0804			0		3942	America/Lima	2024-04-20
+3946262	Provincia de Cajatambo	Provincia de Cajatambo	Cajatambo,Cajatambo Province,Provincia de Cajatambo	-10.52469	-77.02233	A	ADM2	PE		15	1503			0		4142	America/Lima	2024-04-20
+3946643	Provincia de Bolognesi	Provincia de Bolognesi	Bolognes,Bolognesi,Bolognesi Province,Provincia de Bolognesi	-10.10723	-77.14804	A	ADM2	PE		02	0205			0		3716	America/Lima	2022-11-07
+3946936	Provincia de Azángaro	Provincia de Azangaro	Azangaro,Azangaro Province,Azángaro,Azángaro Province,Provincia de Asangaro,Provincia de Asángaro,Provincia de Azangaro,Provincia de Azángaro	-14.79061	-70.16047	A	ADM2	PE		21	2102			0		3962	America/Lima	2024-04-20
+3946963	Provincia de Aymaraes	Provincia de Aymaraes	Aimaraes,Ayamaraes,Aymaraes,Aymaraes Province,Provincia de Aimaraes,Provincia de Aymaraes	-14.35286	-73.24043	A	ADM2	PE		03	0304			0		4371	America/Lima	2024-04-20
+3947318	Provincia de Arequipa	Provincia de Arequipa	Arequipa,Arequipa Province,Provincia de Arequipa	-16.34987	-71.50827	A	ADM2	PE		04	0401			0		2808	America/Lima	2024-04-20
+3947611	Provincia de Antabamba	Provincia de Antabamba	Antabamba,Antabamba Province,Provincia de Antabamba	-14.45336	-72.72926	A	ADM2	PE		03	0303			0		4296	America/Lima	2024-04-20
+3947623	Provincia de Anta	Provincia de Anta	Anta,Anta Province,Provincia de Anta	-13.48883	-72.36923	A	ADM2	PE		08	0803			0		4008	America/Lima	2024-04-20
+3947704	Provincia de Angaraes	Provincia de Angaraes	Angaraes,Angaraes Province,Angares,Provincia de Angaraes	-13.04307	-74.62717	A	ADM2	PE		09	0903			0		4004	America/Lima	2024-04-20
+3947739	Provincia de Andahuaylas	Provincia de Andahuaylas	Andahuaylas,Andahuaylas Province,Provincia de Andahuaylas	-13.77195	-73.40231	A	ADM2	PE		03	0302			0		3599	America/Lima	2024-04-20
+3947955	Provincia de Ambo	Provincia de Ambo	Ambo,Ambo Province,Provincia de Ambo	-10.22091	-76.22729	A	ADM2	PE		10	1002			0		2999	America/Lima	2024-04-20
+3948442	Provincia de Acomayo	Provincia de Acomayo	Acomayo,Acomayo Province,Provincia de Acomayo	-13.95575	-71.6563	A	ADM2	PE		08	0802			0		3932	America/Lima	2024-04-20
+3948478	Provincia de Acobamba	Provincia de Acobamba	Acobamba,Acobamba Province,Provincia de Acobamba	-12.80264	-74.58371	A	ADM2	PE		09	0902			0		3175	America/Lima	2024-04-20
+3948641	Provincia de Abancay	Provincia de Abancay	Abancay,Abancay Province,Provincia de Abancay	-13.72569	-72.8385	A	ADM2	PE		03	0301			0		3336	America/Lima	2024-04-20
+7778812	Provincia de Chupaca	Provincia de Chupaca	Chupaca Province	-12.3	-75.433	A	ADM2	PE		12	1209			51340	3263	4459	America/Lima	2022-11-06
+7778813	Provincia de Churcampa	Provincia de Churcampa	Churcampa Province	-12.6	-74.52	A	ADM2	PE		09	0905			0		4085	America/Lima	2022-11-06
+7778814	Provincia de Sucre	Provincia de Sucre	Provincia de Sucre,Sucre,Sucre Province	-14.103	-73.786	A	ADM2	PE		05	0509			0		3928	America/Lima	2022-11-06
+7778815	Provincia de Huanca Sancos	Provincia de Huanca Sancos	Huanca Sancos,Huanca Sancos Province,Provincia de Huanca Sancos	-14.076	-74.428	A	ADM2	PE		05	0503			0		4350	America/Lima	2022-11-06
+7778816	Provincia de Vilcas Huamán	Provincia de Vilcas Huaman	Provincia de Vilcas Huaman,Provincia de Vilcas Huamán,Vilcas Huaman,Vilcas Huaman Province,Vilcas Huamán,Vilcas Huamán Province	-13.632	-73.888	A	ADM2	PE		05	0511			0		3801	America/Lima	2022-11-06
+7807970	Sanchez Carrion	Sanchez Carrion	Sanchez Carrion,Sanchez Carrion Province,Sánchez Carrión,Sánchez Carrión Province	-7.78538	-77.92586	A	ADM2	PE		13	1309			0		2966	America/Lima	2022-11-06
+8349545	Condorcanqui	Condorcanqui	Condorcanqui Province	-4.16515	-78.0384	A	ADM2	PE		01	0104			0		1623	America/Lima	2022-11-06
+8349546	Utcubamba	Utcubamba	Province dUtcubamba,Provincia de Utcubamba,Provincia di Utcubamba,Provinz Utcubamba,Utcubamba Province,Utkubamba,Utkubambos provincija,Utkupampa jiska suyu,Utkupampa pruwinsya,wu te ku ban ba sheng,Уткубамба,უტკუბამბა,უტკუბამბის პროვინცია,烏特庫班巴省	-5.77031	-78.3285	A	ADM2	PE		01	0107			0		560	America/Lima	2012-07-17
+8349547	Asuncion	Asuncion	Asuncion,Asuncion Province,Asunción,Asunción Province	-9.18987	-77.39878	A	ADM2	PE		02	0204			0		3593	America/Lima	2022-11-06
+8349548	Carlos Fermin Fitzcarrald	Carlos Fermin Fitzcarrald	Carlos Fermin Fitzcarrald,Carlos Fermin Fitzcarrald Province,Carlos Fermín Fitzcarrald,Carlos Fermín Fitzcarrald Province	-9.04415	-77.24168	A	ADM2	PE		02	0207			0		4167	America/Lima	2022-11-06
+8349549	Ocros	Ocros		-10.48906	-77.4295	A	ADM2	PE		02	0214			0		1689	America/Lima	2012-07-17
+8349550	Chincheros	Chincheros		-13.47005	-73.67162	A	ADM2	PE		03	0306			0		4387	America/Lima	2012-07-17
+8349551	Paucar Del Sara Sara	Paucar Del Sara Sara	Paucar del Sara Sara Province	-15.12275	-73.26177	A	ADM2	PE		05	0508			0		4496	America/Lima	2022-11-06
+8349552	San Marcos	San Marcos	San Marcos Province	-7.28278	-78.06054	A	ADM2	PE		06	0610			0		3876	America/Lima	2023-10-12
+8349553	San Pablo	San Pablo	San Pablo Province	-7.0751	-78.74922	A	ADM2	PE		06	0612			0		3523	America/Lima	2022-11-06
+8349554	Huaytara	Huaytara	Huaytara Province,Huaytará Province	-13.65616	-75.09234	A	ADM2	PE		09	0906			0		4140	America/Lima	2022-11-06
+8349555	Huacaybamba	Huacaybamba		-8.9948	-76.81027	A	ADM2	PE		10	1004			0		3816	America/Lima	2012-07-17
+8349556	Puerto Inca	Puerto Inca	Puerto Inca Province	-9.36696	-75.08958	A	ADM2	PE		10	1009			0		228	America/Lima	2022-11-06
+8349557	Lauricocha	Lauricocha	Lauricocha Province	-10.20055	-76.70359	A	ADM2	PE		10	1010			0		4204	America/Lima	2022-11-06
+8349558	Yarowilca	Yarowilca	Yarowilca Province	-9.80263	-76.59516	A	ADM2	PE		10	1011			0		3901	America/Lima	2022-11-06
+8349559	Ascope	Ascope		-7.72414	-79.15151	A	ADM2	PE		13	1302			0		190	America/Lima	2012-07-17
+8349560	Chepen	Chepen	Chepen Province,Chepén Province	-7.14367	-79.45674	A	ADM2	PE		13	1304			0		110	America/Lima	2022-11-06
+8349561	Julcan	Julcan	Julcan Province,Julcán Province	-8.17238	-78.46356	A	ADM2	PE		13	1305			0		2591	America/Lima	2022-11-06
+8349562	Gran Chimu	Gran Chimu	Gran Chimu Province,Gran Chimú Province	-7.57976	-78.64718	A	ADM2	PE		13	1311			0		870	America/Lima	2022-11-06
+8349563	Viru	Viru	Viru Province,Virú Province	-8.52199	-78.60355	A	ADM2	PE		13	1312			0		389	America/Lima	2022-11-06
+8349564	Barranca	Barranca		-10.66599	-77.65707	A	ADM2	PE		15	1502			0		249	America/Lima	2012-07-17
+8349565	Huaura	Huaura	Huaura Province,Province de Huaura,Provincia de Huaura,Provincia di Huaura,Provinz Huaura,Uaura,Wawra jiska suyu,Wawra pruwinsya,uaura,wa wu la sheng,Уаура,უაურა,უაურის პროვინცია,瓦烏拉省	-11.03363	-77.23795	A	ADM2	PE		15	1508			0		1695	America/Lima	2012-07-17
+8349566	Oyon	Oyon	Oyon,Oyon Province,Oyón,Oyón Province	-10.75869	-76.87634	A	ADM2	PE		15	1509			0		3441	America/Lima	2022-11-06
+8349567	Mariscal Ramon Castilla	Mariscal Ramon Castilla	Mariscal Ramon Castilla,Mariscal Ramon Castilla Province,Mariscal Ramón Castilla,Mariscal Ramón Castilla Province	-3.92682	-71.70057	A	ADM2	PE		16	1604			0		117	America/Lima	2022-11-06
+8349568	Datem del Marañón	Datem del Maranon	Datem del Maranon,Datem del Maranon Province,Datem del Marañón,Datem del Marañón Province	-4.13614	-76.97788	A	ADM2	PE		16	1607			0		171	America/Lima	2022-11-06
+8349569	Sechura	Sechura		-5.87051	-80.67181	A	ADM2	PE		20	2008			0		2	America/Lima	2012-07-17
+8349570	El Collao	El Collao	El Collao Province,Province dEl Collao,Provincia de El Collao,Provincia di El Collao,Qullaw jiska suyu,Qullaw pruwinsya,ai er ke liao sheng,ელ-კოლიაო,ელ-კოლიაოს პროვინცია,埃爾科廖省	-16.72641	-69.75515	A	ADM2	PE		21	2105			0		4119	America/Lima	2022-11-06
+8349571	Moho	Moho		-15.33508	-69.3803	A	ADM2	PE		21	2109			0		3885	America/Lima	2022-11-06
+8349572	San Antonio De Putina	San Antonio De Putina	San Antonio de Putina Province	-14.71175	-69.61559	A	ADM2	PE		21	2110			0		4671	America/Lima	2022-11-06
+8349573	Yunguyo	Yunguyo		-16.30571	-69.11787	A	ADM2	PE		21	2113			0		4150	America/Lima	2016-06-23
+8349574	Bellavista	Bellavista		-7.63825	-76.31932	A	ADM2	PE		22	2202			0		830	America/Lima	2012-07-17
+8349575	El Dorado	El Dorado	El Dorado Province	-6.56298	-76.7413	A	ADM2	PE		22	2203			0		483	America/Lima	2022-11-06
+8349576	Picota	Picota		-6.90221	-76.25573	A	ADM2	PE		22	2207			0		240	America/Lima	2012-07-17
+8349577	Tocache	Tocache		-8.2493	-76.63451	A	ADM2	PE		22	2210			0		703	America/Lima	2012-07-17
+8349578	Candarave	Candarave		-17.11397	-70.30211	A	ADM2	PE		23	2302			0		4126	America/Lima	2012-07-17
+8349579	Jorge Basadre	Jorge Basadre	Jorge Basadre Province	-17.57919	-70.73083	A	ADM2	PE		23	2303			0		713	America/Lima	2022-11-06
+8349580	Atalaya	Atalaya		-10.3898	-73.21977	A	ADM2	PE		25	2502			0		359	America/Lima	2012-07-17
+8349581	Padre Abad	Padre Abad		-8.7968	-75.4285	A	ADM2	PE		25	2503			0		293	America/Lima	2012-07-17
+8349582	Purus	Purus	Purus District,Purús District	-10.37331	-71.58231	A	ADM2	PE		25	2504			0		354	America/Lima	2022-11-06
+8349600	Callao	Callao		-11.94753	-77.10365	A	ADM2	PE		07	0701			0		47	America/Lima	2016-06-23
+8349601	Lima	Lima		-12.0179	-76.90432	A	ADM2	PE		15	1501			0		374	America/Lima	2012-07-18
+12077056	Putumayo	Putumayo	Putumayo Province	-2.45046	-72.66729	A	ADM2	PE		16	1608			0		113	America/Bogota	2022-11-06

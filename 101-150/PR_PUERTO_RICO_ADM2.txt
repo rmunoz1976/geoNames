@@ -1,0 +1,902 @@
+﻿7268050	Ceiba Baja Barrio	Ceiba Baja Barrio		18.45849	-67.07889	A	ADM2	PR		005	7268050			0	132	136	America/Puerto_Rico	2012-07-04
+7268051	Ceiba Barrio	Ceiba Barrio	Ceiba	18.20164	-66.16927	A	ADM2	PR		041	7268051			11307	531	531	America/Puerto_Rico	2022-04-07
+7268052	Ceiba Barrio	Ceiba Barrio		18.18844	-65.89547	A	ADM2	PR		085	7268052			0	120	121	America/Puerto_Rico	2019-10-07
+7268053	Ceiba Barrio	Ceiba Barrio		18.44933	-66.35886	A	ADM2	PR		145	7268053			0	3	2	America/Puerto_Rico	2019-10-12
+7268054	Ceiba Barrio-Pueblo	Ceiba Barrio-Pueblo		18.26365	-65.64812	A	ADM2	PR		037	7268054			0	23	27	America/Puerto_Rico	2019-10-04
+7268055	Ceiba Norte Barrio	Ceiba Norte Barrio		18.2228	-65.89413	A	ADM2	PR		077	7268055			0	82	86	America/Puerto_Rico	2019-10-07
+7268056	Ceiba Sur Barrio	Ceiba Sur Barrio		18.2062	-65.91133	A	ADM2	PR		077	7268056			0	120	145	America/Puerto_Rico	2019-10-07
+7268057	Cejas Barrio	Cejas Barrio		18.20879	-66.18949	A	ADM2	PR		045	7268057			0	464	454	America/Puerto_Rico	2019-10-05
+7268058	Celada Barrio	Celada Barrio		18.27596	-65.98377	A	ADM2	PR		063	7268058			0	81	69	America/Puerto_Rico	2019-10-08
+7268060	Centro Barrio	Centro Barrio		18.41966	-67.09981	A	ADM2	PR		099	7268060			0	227	233	America/Puerto_Rico	2019-10-06
+7268061	Cercadillo Barrio	Cercadillo Barrio		18.06696	-66.19557	A	ADM2	PR		035	7268061			0	731	726	America/Puerto_Rico	2019-10-04
+7268062	Cerrillos Barrio	Cerrillos Barrio		18.05516	-66.5719	A	ADM2	PR		113	7268062			0	95	91	America/Puerto_Rico	2019-10-08
+7268063	Cerro Gordo Barrio	Cerro Gordo Barrio		18.33319	-67.14405	A	ADM2	PR		003	7268063			0	201	203	America/Puerto_Rico	2019-10-02
+7268064	Cerro Gordo Barrio	Cerro Gordo Barrio		18.30271	-67.08103	A	ADM2	PR		011	7268064			0	234	233	America/Puerto_Rico	2019-10-03
+7268065	Cerro Gordo Barrio	Cerro Gordo Barrio		18.36152	-66.17293	A	ADM2	PR		021	7268065			0	42	51	America/Puerto_Rico	2019-10-04
+7268066	Cerro Gordo Barrio	Cerro Gordo Barrio		18.33515	-67.07692	A	ADM2	PR		099	7268066			0	94	109	America/Puerto_Rico	2019-10-06
+7268067	Cerro Gordo Barrio	Cerro Gordo Barrio		18.15481	-65.945	A	ADM2	PR		129	7268067			0	178	181	America/Puerto_Rico	2019-10-10
+7268068	Cerrote Barrio	Cerrote Barrio		18.21249	-66.92378	A	ADM2	PR		083	7268068			0	369	380	America/Puerto_Rico	2019-10-07
+7268069	Chamorro Barrio	Chamorro Barrio		18.22412	-66.91567	A	ADM2	PR		083	7268069			0	289	287	America/Puerto_Rico	2019-10-07
+7268070	Charcas Barrio	Charcas Barrio		18.40851	-66.93261	A	ADM2	PR		115	7268070			0	233	227	America/Puerto_Rico	2019-10-09
+7268072	Chupacallos Barrio	Chupacallos Barrio		18.25648	-65.66751	A	ADM2	PR		037	7268072			0	112	108	America/Puerto_Rico	2019-10-04
+7268073	Ciales Barrio-Pueblo	Ciales Barrio-Pueblo		18.33617	-66.46887	A	ADM2	PR		039	7268073			0	92	93	America/Puerto_Rico	2019-10-04
+7268074	Cialitos Barrio	Cialitos Barrio		18.25835	-66.53554	A	ADM2	PR		039	7268074			0	742	765	America/Puerto_Rico	2019-10-04
+7268075	Cibao Barrio	Cibao Barrio		18.37562	-66.87472	A	ADM2	PR		027	7268075			0	287	296	America/Puerto_Rico	2019-10-04
+7268076	Cibao Barrio	Cibao Barrio		18.34704	-66.90401	A	ADM2	PR		131	7268076			0	274	278	America/Puerto_Rico	2019-10-10
+7268077	Cibuco Barrio	Cibuco Barrio		18.34053	-66.34351	A	ADM2	PR		047	7268077			0	95	106	America/Puerto_Rico	2019-10-05
+7268078	Cibuco Barrio	Cibuco Barrio		18.48627	-66.37459	A	ADM2	PR		145	7268078			0	0	6	America/Puerto_Rico	2019-10-12
+7268079	Cidra Barrio	Cidra Barrio		18.28221	-67.10268	A	ADM2	PR		011	7268079			0	13	18	America/Puerto_Rico	2019-10-03
+7268080	Cidra Barrio-Pueblo	Cidra Barrio-Pueblo		18.17584	-66.16106	A	ADM2	PR		041	7268080			0	427	427	America/Puerto_Rico	2019-10-04
+7268081	Cidral Barrio	Cidral Barrio		18.32207	-66.95483	A	ADM2	PR		131	7268081			0	171	181	America/Puerto_Rico	2019-10-10
+7268082	Ciénaga Alta Barrio	Cienaga Alta Barrio	Cienaga Alta Barrio	18.32455	-65.86116	A	ADM2	PR		119	7268082			0	224	228	America/Puerto_Rico	2019-10-09
+7268083	Ciénaga Baja Barrio	Cienaga Baja Barrio	Cienaga Baja Barrio	18.37961	-65.85124	A	ADM2	PR		119	7268083			0	7	8	America/Puerto_Rico	2019-10-09
+7268084	Ciénaga Barrio	Cienaga Barrio	Cienaga Barrio	17.99262	-66.93044	A	ADM2	PR		055	7268084			0	16	19	America/Puerto_Rico	2019-10-08
+7268085	Ciénagas Barrio	Cienagas Barrio	Cienagas Barrio	18.44343	-66.86828	A	ADM2	PR		027	7268085			0	135	141	America/Puerto_Rico	2019-10-04
+7268086	Cienegueta Barrio	Cienegueta Barrio		18.3416	-66.36641	A	ADM2	PR		143	7268086			0	225	233	America/Puerto_Rico	2019-10-11
+7268087	Cintrona Barrio	Cintrona Barrio		18.01033	-66.49952	A	ADM2	PR		075	7268087			0	10	11	America/Puerto_Rico	2019-10-07
+7268090	Coabey Barrio	Coabey Barrio		18.21411	-66.56208	A	ADM2	PR		073	7268090			0	573	582	America/Puerto_Rico	2019-10-07
+7268091	Coamo Arriba Barrio	Coamo Arriba Barrio		18.1417	-66.36748	A	ADM2	PR		043	7268091			0	372	364	America/Puerto_Rico	2019-10-04
+7268092	Coamo Barrio-Pueblo	Coamo Barrio-Pueblo		18.0787	-66.36028	A	ADM2	PR		043	7268092			0	121	122	America/Puerto_Rico	2019-10-04
+7268093	Cocos Barrio	Cocos Barrio		18.45658	-66.91258	A	ADM2	PR		115	7268093			0	140	148	America/Puerto_Rico	2019-10-09
+7268094	Collores Barrio	Collores Barrio		18.17468	-65.82024	A	ADM2	PR		069	7268094			0	142	132	America/Puerto_Rico	2019-10-08
+7268095	Collores Barrio	Collores Barrio		18.19141	-66.62638	A	ADM2	PR		073	7268095			0	457	452	America/Puerto_Rico	2019-10-07
+7268096	Collores Barrio	Collores Barrio		18.117	-66.53922	A	ADM2	PR		075	7268096			0	367	359	America/Puerto_Rico	2019-10-07
+7268097	Collores Barrio	Collores Barrio		18.18623	-65.85013	A	ADM2	PR		085	7268097			0	135	146	America/Puerto_Rico	2019-10-07
+7268098	Collores Barrio	Collores Barrio		18.24143	-66.48701	A	ADM2	PR		107	7268098			0	366	385	America/Puerto_Rico	2019-10-05
+7268099	Collores Barrio	Collores Barrio		18.08733	-66.88706	A	ADM2	PR		153	7268099			0	334	318	America/Puerto_Rico	2019-10-12
+7268100	Comerío Barrio-Pueblo	Comerio Barrio-Pueblo	Comerio Barrio-Pueblo	18.22027	-66.22442	A	ADM2	PR		045	7268100			0	190	196	America/Puerto_Rico	2019-10-05
+7268103	Consejo Barrio	Consejo Barrio		18.05574	-66.81312	A	ADM2	PR		059	7268103			0	102	103	America/Puerto_Rico	2019-10-08
+7268104	Consejo Barrio	Consejo Barrio		18.17741	-66.66628	A	ADM2	PR		141	7268104			0	630	633	America/Puerto_Rico	2019-10-11
+7268105	Contorno Barrio	Contorno Barrio		18.38119	-66.25859	A	ADM2	PR		135	7268105			0	97	102	America/Puerto_Rico	2019-10-10
+7268107	Corcovada Barrio	Corcovada Barrio		18.2941	-67.05667	A	ADM2	PR		011	7268107			0	208	225	America/Puerto_Rico	2019-10-03
+7268108	Corcovado Barrio	Corcovado Barrio		18.45056	-66.77942	A	ADM2	PR		065	7268108			0	69	66	America/Puerto_Rico	2019-10-08
+7268109	Cordillera Barrio	Cordillera Barrio		18.32239	-66.50081	A	ADM2	PR		039	7268109			0	328	331	America/Puerto_Rico	2019-10-04
+7268110	Corozal Barrio-Pueblo	Corozal Barrio-Pueblo		18.33974	-66.31675	A	ADM2	PR		047	7268110			0	80	95	America/Puerto_Rico	2019-10-05
+7268111	Corrales Barrio	Corrales Barrio		18.45132	-67.12576	A	ADM2	PR		005	7268111			0	153	151	America/Puerto_Rico	2012-07-04
+7268112	Costa Barrio	Costa Barrio		17.983	-67.00026	A	ADM2	PR		079	7268112			0	23	31	America/Puerto_Rico	2019-10-07
+7268113	Coto Barrio	Coto Barrio		18.482	-66.97869	A	ADM2	PR		071	7268113			0	90	93	America/Puerto_Rico	2019-10-07
+7268114	Coto Barrio	Coto Barrio		18.05438	-66.73148	A	ADM2	PR		111	7268114			0	96	100	America/Puerto_Rico	2019-10-08
+7268115	Coto Laurel Barrio	Coto Laurel Barrio		18.03704	-66.5546	A	ADM2	PR		113	7268115			0	102	92	America/Puerto_Rico	2019-10-08
+7268116	Coto Norte Barrio	Coto Norte Barrio		18.437	-66.46094	A	ADM2	PR		091	7268116			0	49	56	America/Puerto_Rico	2019-10-06
+7268117	Coto Sur Barrio	Coto Sur Barrio		18.41269	-66.46599	A	ADM2	PR		091	7268117			0	112	119	America/Puerto_Rico	2019-10-06
+7268118	Cotuí Barrio	Cotui Barrio	Cotui Barrio	18.0688	-67.0802	A	ADM2	PR		125	7268118			0	189	192	America/Puerto_Rico	2019-10-09
+7268119	Cruces Barrio	Cruces Barrio		18.3507	-67.21336	A	ADM2	PR		003	7268119			0	46	56	America/Puerto_Rico	2019-10-02
+7268120	Cruces Barrio	Cruces Barrio		18.33923	-67.22195	A	ADM2	PR		117	7268120			0	73	87	America/Puerto_Rico	2019-10-09
+7268121	Cruz Barrio	Cruz Barrio		18.37041	-67.10138	A	ADM2	PR		099	7268121			0	133	143	America/Puerto_Rico	2019-10-06
+7268126	Cuarto Barrio	Cuarto Barrio		18.00722	-66.61021	A	ADM2	PR		113	7268126			0	13	15	America/Puerto_Rico	2019-10-08
+7268128	Cubuy Barrio	Cubuy Barrio		18.27498	-65.86048	A	ADM2	PR		029	7268128			0	589	576	America/Puerto_Rico	2019-10-04
+7268129	Cuchillas Barrio	Cuchillas Barrio		18.29056	-66.36117	A	ADM2	PR		047	7268129			0	472	481	America/Puerto_Rico	2019-10-05
+7268130	Cuchillas Barrio	Cuchillas Barrio		18.40347	-67.08108	A	ADM2	PR		099	7268130			0	166	171	America/Puerto_Rico	2019-10-06
+7268131	Cuchillas Barrio	Cuchillas Barrio		18.30445	-66.38594	A	ADM2	PR		101	7268131			0	350	366	America/Puerto_Rico	2019-10-05
+7268132	Cuebas Barrio	Cuebas Barrio		18.0457	-66.71718	A	ADM2	PR		111	7268132			0	39	44	America/Puerto_Rico	2019-10-08
+7268133	Cuevas Barrio	Cuevas Barrio		18.36428	-66.01993	A	ADM2	PR		139	7268133			0	89	80	America/Puerto_Rico	2019-10-10
+7268134	Culebra Barrio-Pueblo	Culebra Barrio-Pueblo		18.30638	-65.30205	A	ADM2	PR		049	7268134			0	3	7	America/Puerto_Rico	2019-10-05
+7268135	Culebras Alto Barrio	Culebras Alto Barrio		18.07137	-66.13106	A	ADM2	PR		035	7268135			0	770	761	America/Puerto_Rico	2019-10-04
+7268136	Culebras Bajo Barrio	Culebras Bajo Barrio		18.08065	-66.14237	A	ADM2	PR		035	7268136			0	765	749	America/Puerto_Rico	2019-10-04
+7268137	Culebrinas Barrio	Culebrinas Barrio		18.31021	-66.99702	A	ADM2	PR		131	7268137			0	163	171	America/Puerto_Rico	2019-10-10
+7268138	Cupey Barrio	Cupey Barrio		18.34618	-66.04867	A	ADM2	PR		127	7268138			0	116	118	America/Puerto_Rico	2019-10-09
+7268139	Cuyón Barrio	Cuyon Barrio	Cuyon Barrio	18.10098	-66.24344	A	ADM2	PR		009	7268139			0	567	579	America/Puerto_Rico	2019-10-03
+7268140	Cuyón Barrio	Cuyon Barrio	Cuyon Barrio	18.0847	-66.2962	A	ADM2	PR		043	7268140			0	276	271	America/Puerto_Rico	2019-10-05
+7268141	Daguao Barrio	Daguao Barrio		18.24115	-65.68245	A	ADM2	PR		037	7268141			0	175	170	America/Puerto_Rico	2019-10-04
+7268142	Daguao Barrio	Daguao Barrio		18.2045	-65.67418	A	ADM2	PR		103	7268142			0	45	42	America/Puerto_Rico	2019-10-05
+7268143	Dagüey Barrio	Dagueey Barrio	Daguey Barrio	18.30541	-67.12783	A	ADM2	PR		011	7268143			0	105	116	America/Puerto_Rico	2019-10-03
+7268144	Dajaos Barrio	Dajaos Barrio		18.30482	-66.19091	A	ADM2	PR		021	7268144			0	161	167	America/Puerto_Rico	2019-10-04
+7268145	Damián Abajo Barrio	Damian Abajo Barrio	Damian Abajo Barrio	18.23909	-66.46709	A	ADM2	PR		107	7268145			0	371	407	America/Puerto_Rico	2019-10-05
+7268146	Damián Arriba Barrio	Damian Arriba Barrio	Damian Arriba Barrio	18.24243	-66.434	A	ADM2	PR		107	7268146			0	502	495	America/Puerto_Rico	2019-10-05
+7268147	Demajagua Barrio	Demajagua Barrio		18.28797	-65.65164	A	ADM2	PR		053	7268147			0	29	37	America/Puerto_Rico	2019-10-05
+7268148	Descalabrado Barrio	Descalabrado Barrio		17.99684	-66.4247	A	ADM2	PR		133	7268148			0	13	15	America/Puerto_Rico	2019-10-10
+7268149	Diego Hernández Barrio	Diego Hernandez Barrio	Diego Hernandez Barrio	18.05993	-66.84412	A	ADM2	PR		153	7268149			0	101	97	America/Puerto_Rico	2019-10-12
+7268150	Domingo Ruíz Barrio	Domingo Ruiz Barrio	Domingo Ruiz Barrio	18.43553	-66.68854	A	ADM2	PR		013	7268150			0	7	9	America/Puerto_Rico	2019-10-03
+7268151	Dominguito Barrio	Dominguito Barrio		18.4068	-66.74754	A	ADM2	PR		013	7268151			0	158	172	America/Puerto_Rico	2019-10-03
+7268152	Don Alonso Barrio	Don Alonso Barrio		18.3061	-66.63756	A	ADM2	PR		141	7268152			0	351	357	America/Puerto_Rico	2019-10-11
+7268153	Doña Elena Barrio	Dona Elena Barrio	Dona Elena Barrio	18.25251	-66.22289	A	ADM2	PR		045	7268153			0	448	439	America/Puerto_Rico	2019-10-05
+7268154	Dorado Barrio-Pueblo	Dorado Barrio-Pueblo		18.45924	-66.26163	A	ADM2	PR		051	7268154			0	16	21	America/Puerto_Rico	2019-10-05
+7268155	Dos Bocas Barrio	Dos Bocas Barrio		18.31949	-66.32017	A	ADM2	PR		047	7268155			0	156	154	America/Puerto_Rico	2019-10-05
+7268156	Dos Bocas Barrio	Dos Bocas Barrio		18.34685	-65.98586	A	ADM2	PR		139	7268156			0	72	75	America/Puerto_Rico	2019-10-10
+7268157	Duey Alto Barrio	Duey Alto Barrio		18.13283	-67.06408	A	ADM2	PR		125	7268157			0	67	90	America/Puerto_Rico	2019-10-09
+7268158	Duey Bajo Barrio	Duey Bajo Barrio		18.13211	-67.08277	A	ADM2	PR		125	7268158			0	80	90	America/Puerto_Rico	2019-10-09
+7268159	Duey Barrio	Duey Barrio		18.09492	-66.83829	A	ADM2	PR		153	7268159			0	425	407	America/Puerto_Rico	2019-10-12
+7268160	Duque Barrio	Duque Barrio		18.2394	-65.73904	A	ADM2	PR		103	7268160			0	72	77	America/Puerto_Rico	2019-10-05
+7268161	Egozcue Barrio	Egozcue Barrio		18.05609	-65.99868	A	ADM2	PR		109	7268161			0	442	450	America/Puerto_Rico	2019-10-08
+7268162	El Cinco Barrio	El Cinco Barrio		18.39156	-66.06248	A	ADM2	PR		127	7268162			0	20	19	America/Puerto_Rico	2012-07-04
+7268163	Abra Honda Barrio	Abra Honda Barrio		18.42231	-66.84899	A	ADM2	PR		027	7268163			0	201	197	America/Puerto_Rico	2019-10-04
+7268164	Abras Barrio	Abras Barrio		18.35711	-66.31722	A	ADM2	PR		047	7268164			0	177	171	America/Puerto_Rico	2019-10-05
+7268165	Aceitunas Barrio	Aceitunas Barrio		18.43722	-67.06763	A	ADM2	PR		099	7268165			0	167	178	America/Puerto_Rico	2019-10-06
+7268166	Achiote Barrio	Achiote Barrio		18.31325	-66.2473	A	ADM2	PR		105	7268166			0	252	254	America/Puerto_Rico	2012-07-04
+7268167	Adjuntas Pueblo Barrio	Adjuntas Pueblo Barrio		18.16379	-66.72369	A	ADM2	PR		001	7268167			0	490	499	America/Puerto_Rico	2012-06-21
+7268168	Aguacate Barrio	Aguacate Barrio		18.49804	-67.10998	A	ADM2	PR		005	7268168			0	62	61	America/Puerto_Rico	2019-10-03
+7268169	Aguacate Barrio	Aguacate Barrio		18.09112	-65.86026	A	ADM2	PR		151	7268169			0	20	22	America/Puerto_Rico	2019-10-12
+7268170	Aguada Barrio-Pueblo	Aguada Barrio-Pueblo		18.38021	-67.18864	A	ADM2	PR		003	7268170			0	18	22	America/Puerto_Rico	2012-02-18
+7268171	Aguadilla Barrio-Pueblo	Aguadilla Barrio-Pueblo		18.42449	-67.15479	A	ADM2	PR		005	7268171			0	0	7	America/Puerto_Rico	2012-06-21
+7268172	Aguas Blancas Barrio	Aguas Blancas Barrio		18.12181	-66.82338	A	ADM2	PR		153	7268172			0	700	696	America/Puerto_Rico	2019-10-12
+7268173	Aguas Buenas Barrio-Pueblo	Aguas Buenas Barrio-Pueblo		18.25671	-66.10524	A	ADM2	PR		007	7268173			0	259	263	America/Puerto_Rico	2019-10-03
+7268174	Aguirre Barrio	Aguirre Barrio		17.95253	-66.25988	A	ADM2	PR		123	7268174			0	1	2	America/Puerto_Rico	2019-10-09
+7268176	Aibonito Barrio	Aibonito Barrio		18.3565	-66.78135	A	ADM2	PR		065	7268176			0	294	303	America/Puerto_Rico	2019-10-08
+7268177	Aibonito Barrio	Aibonito Barrio		18.37305	-66.94227	A	ADM2	PR		131	7268177			0	254	254	America/Puerto_Rico	2019-10-10
+7268178	Aibonito Barrio-Pueblo	Aibonito Barrio-Pueblo		18.13819	-66.26417	A	ADM2	PR		009	7268178			0	610	609	America/Puerto_Rico	2019-10-03
+7268179	Ala de la Piedra Barrio	Ala de la Piedra Barrio		18.18099	-66.51174	A	ADM2	PR		107	7268179			0	647	669	America/Puerto_Rico	2019-10-05
+7268180	Algarrobo Barrio	Algarrobo Barrio		18.09917	-66.27106	A	ADM2	PR		009	7268180			0	487	493	America/Puerto_Rico	2019-10-03
+7268181	Algarrobo Barrio	Algarrobo Barrio		17.98159	-66.08435	A	ADM2	PR		057	7268181			0	31	28	America/Puerto_Rico	2019-10-08
+7268182	Algarrobo Barrio	Algarrobo Barrio		18.44807	-66.41834	A	ADM2	PR		145	7268182			0	20	20	America/Puerto_Rico	2019-10-11
+7268183	Algarrobo Barrio	Algarrobo Barrio		18.08131	-66.86514	A	ADM2	PR		153	7268183			0	157	169	America/Puerto_Rico	2019-10-12
+7268184	Algarrobos Barrio	Algarrobos Barrio		18.22967	-67.16687	A	ADM2	PR		097	7268184			0	16	16	America/Puerto_Rico	2019-10-06
+7268185	Almácigo Alto Barrio	Almacigo Alto Barrio	Almacigo Alto Barrio	18.06397	-66.87796	A	ADM2	PR		153	7268185			0	166	170	America/Puerto_Rico	2019-10-12
+7268186	Almácigo Bajo Barrio	Almacigo Bajo Barrio	Almacigo Bajo Barrio	18.04938	-66.86656	A	ADM2	PR		153	7268186			0	82	87	America/Puerto_Rico	2019-10-12
+7268187	Almirante Norte Barrio	Almirante Norte Barrio		18.41529	-66.36849	A	ADM2	PR		145	7268187			0	69	70	America/Puerto_Rico	2019-10-11
+7268188	Almirante Sur Barrio	Almirante Sur Barrio		18.37489	-66.38144	A	ADM2	PR		145	7268188			0	144	146	America/Puerto_Rico	2019-10-11
+7268190	Alto Sano Barrio	Alto Sano Barrio		18.26912	-67.0186	A	ADM2	PR		083	7268190			0	160	174	America/Puerto_Rico	2019-10-07
+7268191	Alto Sano Barrio	Alto Sano Barrio		18.29794	-67.03043	A	ADM2	PR		131	7268191			0	80	85	America/Puerto_Rico	2019-10-10
+7268193	Amuelas Barrio	Amuelas Barrio		18.037	-66.50146	A	ADM2	PR		075	7268193			0	36	38	America/Puerto_Rico	2019-10-07
+7268194	Añasco Abajo Barrio	Anasco Abajo Barrio	Anasco Abajo Barrio	18.27503	-67.17411	A	ADM2	PR		011	7268194			0	1	3	America/Puerto_Rico	2019-10-03
+7268195	Añasco Arriba Barrio	Anasco Arriba Barrio	Anasco Arriba Barrio	18.27597	-67.14704	A	ADM2	PR		011	7268195			0	9	10	America/Puerto_Rico	2019-10-03
+7268196	Añasco Barrio-Pueblo	Anasco Barrio-Pueblo	Anasco Barrio-Pueblo	18.28291	-67.14137	A	ADM2	PR		011	7268196			0	9	13	America/Puerto_Rico	2019-10-03
+7268197	Ancones Barrio	Ancones Barrio		17.99446	-66.04344	A	ADM2	PR		015	7268197			0	49	53	America/Puerto_Rico	2019-10-03
+7268198	Ancones Barrio	Ancones Barrio		18.07059	-67.04691	A	ADM2	PR		125	7268198			0	82	87	America/Puerto_Rico	2019-10-09
+7268199	Angeles Barrio	Angeles Barrio		18.29168	-66.80214	A	ADM2	PR		141	7268199			0	389	387	America/Puerto_Rico	2019-10-10
+7268200	Anón Barrio	Anon Barrio	Anon Barrio	18.14292	-66.59066	A	ADM2	PR		113	7268200			0	491	515	America/Puerto_Rico	2019-10-08
+7268201	Anones Barrio	Anones Barrio		18.25893	-67.04488	A	ADM2	PR		083	7268201			0	302	296	America/Puerto_Rico	2019-10-07
+7268202	Anones Barrio	Anones Barrio		18.27154	-66.24365	A	ADM2	PR		105	7268202			0	498	504	America/Puerto_Rico	2019-10-05
+7268203	Antón Ruíz Barrio	Anton Ruiz Barrio	Anton Ruiz Barrio	18.1794	-65.78631	A	ADM2	PR		069	7268203			0	4	6	America/Puerto_Rico	2019-10-07
+7268204	Apeadero Barrio	Apeadero Barrio		18.01924	-65.98307	A	ADM2	PR		109	7268204			0	155	168	America/Puerto_Rico	2019-10-08
+7268205	Arecibo Barrio-Pueblo	Arecibo Barrio-Pueblo		18.47359	-66.72095	A	ADM2	PR		013	7268205			0	7	10	America/Puerto_Rico	2019-10-03
+7268206	Arena Barrio	Arena Barrio		18.01832	-66.93966	A	ADM2	PR		055	7268206			0	10	17	America/Puerto_Rico	2019-10-08
+7268207	Arenalejos Barrio	Arenalejos Barrio		18.42674	-66.66939	A	ADM2	PR		013	7268207			0	61	61	America/Puerto_Rico	2019-10-03
+7268208	Arenales Altos Barrio	Arenales Altos Barrio		18.42674	-67.02321	A	ADM2	PR		071	7268208			0	198	254	America/Puerto_Rico	2019-10-07
+7268209	Arenales Bajos Barrio	Arenales Bajos Barrio		18.45921	-67.02469	A	ADM2	PR		071	7268209			0	145	149	America/Puerto_Rico	2019-10-07
+7268210	Arenales Barrio	Arenales Barrio		18.4711	-67.10667	A	ADM2	PR		005	7268210			0	96	106	America/Puerto_Rico	2012-07-04
+7268211	Arenas Barrio	Arenas Barrio		18.16056	-66.14017	A	ADM2	PR		041	7268211			0	507	515	America/Puerto_Rico	2019-10-04
+7268212	Arenas Barrio	Arenas Barrio		18.24104	-66.70793	A	ADM2	PR		141	7268212			0	224	213	America/Puerto_Rico	2019-10-10
+7268213	Arroyo Barrio-Pueblo	Arroyo Barrio-Pueblo		17.96323	-66.0626	A	ADM2	PR		015	7268213			0	3	6	America/Puerto_Rico	2019-10-03
+7268214	Arrozal Barrio	Arrozal Barrio		18.38326	-66.64992	A	ADM2	PR		013	7268214			0	216	214	America/Puerto_Rico	2019-10-03
+7268215	Asomante Barrio	Asomante Barrio		18.38395	-67.17232	A	ADM2	PR		003	7268215			0	16	18	America/Puerto_Rico	2019-10-03
+7268216	Asomante Barrio	Asomante Barrio		18.13236	-66.30395	A	ADM2	PR		009	7268216			0	607	618	America/Puerto_Rico	2019-10-03
+7268217	Atalaya Barrio	Atalaya Barrio		18.33029	-67.18633	A	ADM2	PR		003	7268217			0	242	250	America/Puerto_Rico	2019-10-03
+7268218	Atalaya Barrio	Atalaya Barrio		18.31447	-67.19764	A	ADM2	PR		117	7268218			0	174	178	America/Puerto_Rico	2019-10-09
+7268220	Bahomamey Barrio	Bahomamey Barrio		18.34058	-66.99434	A	ADM2	PR		131	7268220			0	59	66	America/Puerto_Rico	2019-10-10
+7268221	Bairoa Barrio	Bairoa Barrio		18.25979	-66.08895	A	ADM2	PR		007	7268221			0	183	198	America/Puerto_Rico	2019-10-03
+7268222	Bairoa Barrio	Bairoa Barrio		18.25994	-66.03967	A	ADM2	PR		025	7268222			0	59	64	America/Puerto_Rico	2019-10-04
+7268223	Bajo Barrio	Bajo Barrio		17.97983	-65.99078	A	ADM2	PR		109	7268223			0	0	18	America/Puerto_Rico	2019-10-08
+7268224	Bajura Adentro Barrio	Bajura Adentro Barrio		18.4105	-66.52578	A	ADM2	PR		091	7268224			0	117	123	America/Puerto_Rico	2019-10-06
+7268225	Bajura Afuera Barrio	Bajura Afuera Barrio		18.43228	-66.51167	A	ADM2	PR		091	7268225			0	7	10	America/Puerto_Rico	2019-10-06
+7268226	Bajura Barrio	Bajura Barrio		18.1019	-67.12892	A	ADM2	PR		023	7268226			0	10	14	America/Puerto_Rico	2019-10-04
+7268227	Bajura Barrio	Bajura Barrio		18.5118	-67.06224	A	ADM2	PR		071	7268227			0	2	6	America/Puerto_Rico	2019-10-07
+7268228	Bajura Barrio	Bajura Barrio		18.41451	-66.34694	A	ADM2	PR		143	7268228			0	14	17	America/Puerto_Rico	2019-10-11
+7268231	Barahona Barrio	Barahona Barrio		18.35936	-66.44783	A	ADM2	PR		101	7268231			0	171	174	America/Puerto_Rico	2019-10-05
+7268232	Barceloneta Barrio-Pueblo	Barceloneta Barrio-Pueblo		18.45464	-66.53853	A	ADM2	PR		017	7268232			0	3	7	America/Puerto_Rico	2019-10-03
+7268233	Barina Barrio	Barina Barrio		17.99168	-66.84787	A	ADM2	PR		153	7268233			0	142	129	America/Puerto_Rico	2019-10-12
+7268234	Barrancas Barrio	Barrancas Barrio		18.21862	-66.3159	A	ADM2	PR		019	7268234			0	657	648	America/Puerto_Rico	2019-10-03
+7268235	Barranquitas Barrio-Pueblo	Barranquitas Barrio-Pueblo		18.18476	-66.31017	A	ADM2	PR		019	7268235			0	649	651	America/Puerto_Rico	2019-10-03
+7268236	Barrazas Barrio	Barrazas Barrio		18.31214	-65.93606	A	ADM2	PR		031	7268236			0	278	287	America/Puerto_Rico	2019-10-04
+7268237	Barreal Barrio	Barreal Barrio		18.1051	-66.75305	A	ADM2	PR		111	7268237			0	943	946	America/Puerto_Rico	2019-10-08
+7268238	Barrero Barrio	Barrero Barrio		18.07102	-66.77168	A	ADM2	PR		059	7268238			0	200	201	America/Puerto_Rico	2019-10-08
+7268239	Barrero Barrio	Barrero Barrio		18.30397	-67.23105	A	ADM2	PR		117	7268239			0	53	56	America/Puerto_Rico	2019-10-09
+7268240	Barros Barrio	Barros Barrio		18.24739	-66.41241	A	ADM2	PR		107	7268240			0	577	580	America/Puerto_Rico	2019-10-05
+7268241	Bartolo Barrio	Bartolo Barrio		18.19991	-66.84923	A	ADM2	PR		081	7268241			0	554	564	America/Puerto_Rico	2019-10-07
+7268242	Bateyes Barrio	Bateyes Barrio		18.20778	-67.06992	A	ADM2	PR		097	7268242			0	201	215	America/Puerto_Rico	2019-10-06
+7268243	Bauta Abajo Barrio	Bauta Abajo Barrio		18.19528	-66.46926	A	ADM2	PR		107	7268243			0	912	914	America/Puerto_Rico	2019-10-05
+7268244	Bauta Arriba Barrio	Bauta Arriba Barrio		18.18196	-66.3878	A	ADM2	PR		107	7268244			0	863	838	America/Puerto_Rico	2019-10-05
+7268245	Bayamón Barrio	Bayamon Barrio	Bayamon Barrio	18.18723	-66.1504	A	ADM2	PR		041	7268245			0	410	425	America/Puerto_Rico	2019-10-04
+7268246	Bayamón Barrio-Pueblo	Bayamon Barrio-Pueblo	Bayamon Barrio-Pueblo	18.39531	-66.15103	A	ADM2	PR		021	7268246			0	13	21	America/Puerto_Rico	2019-10-04
+7268247	Bayamoncito Barrio	Bayamoncito Barrio		18.23583	-66.15962	A	ADM2	PR		007	7268247			0	381	382	America/Puerto_Rico	2019-10-03
+7268248	Bayaney Barrio	Bayaney Barrio		18.35215	-66.80662	A	ADM2	PR		065	7268248			0	330	331	America/Puerto_Rico	2019-10-08
+7268250	Beatriz Barrio	Beatriz Barrio		18.17512	-66.07911	A	ADM2	PR		025	7268250			0	221	224	America/Puerto_Rico	2019-10-04
+7268251	Beatriz Barrio	Beatriz Barrio		18.14917	-66.09721	A	ADM2	PR		035	7268251			0	410	411	America/Puerto_Rico	2019-10-04
+7268252	Beatriz Barrio	Beatriz Barrio		18.15666	-66.11668	A	ADM2	PR		041	7268252			0	471	467	America/Puerto_Rico	2019-10-04
+7268253	Bejucos Barrio	Bejucos Barrio		18.49454	-67.04265	A	ADM2	PR		071	7268253			0	92	96	America/Puerto_Rico	2019-10-07
+7268255	Benavente Barrio	Benavente Barrio		18.11689	-67.10572	A	ADM2	PR		067	7268255			0	16	22	America/Puerto_Rico	2019-10-08
+7268256	Bermejales Barrio	Bermejales Barrio		18.17504	-66.4225	A	ADM2	PR		107	7268256			0	791	791	America/Puerto_Rico	2019-10-05
+7268257	Boca Barrio	Boca Barrio		17.97181	-66.81577	A	ADM2	PR		059	7268257			0	6	25	America/Puerto_Rico	2019-10-08
+7268258	Boca Velázquez Barrio	Boca Velazquez Barrio	Boca Velazquez Barrio	17.96651	-66.42092	A	ADM2	PR		133	7268258			0	4	4	America/Puerto_Rico	2019-10-10
+7268260	Boquerón Barrio	Boqueron Barrio	Boqueron Barrio	17.99903	-67.18156	A	ADM2	PR		023	7268260			0	44	48	America/Puerto_Rico	2019-10-04
+7268261	Boquerón Barrio	Boqueron Barrio	Boqueron Barrio	18.20657	-65.84153	A	ADM2	PR		085	7268261			0	105	108	America/Puerto_Rico	2019-10-07
+7268262	Borinquen Barrio	Borinquen Barrio		18.47319	-67.15934	A	ADM2	PR		005	7268262			0	20	25	America/Puerto_Rico	2012-06-21
+7268263	Borinquen Barrio	Borinquen Barrio		18.16956	-66.0406	A	ADM2	PR		025	7268263			0	132	139	America/Puerto_Rico	2019-10-04
+7268265	Botijas Barrio	Botijas Barrio		18.2243	-66.36343	A	ADM2	PR		107	7268265			0	618	624	America/Puerto_Rico	2019-10-05
+7268266	Bucaná Barrio	Bucana Barrio	Bucana Barrio	17.97895	-66.59481	A	ADM2	PR		113	7268266			0	0	0	America/Puerto_Rico	2019-10-08
+7268267	Bucarabones Barrio	Bucarabones Barrio		18.20758	-66.94552	A	ADM2	PR		083	7268267			0	312	316	America/Puerto_Rico	2019-10-07
+7268268	Bucarabones Barrio	Bucarabones Barrio		18.18599	-66.93776	A	ADM2	PR		093	7268268			0	597	618	America/Puerto_Rico	2019-10-06
+7268270	Buena Vista Barrio	Buena Vista Barrio		18.33223	-66.19074	A	ADM2	PR		021	7268270			0	126	130	America/Puerto_Rico	2019-10-04
+7268271	Buena Vista Barrio	Buena Vista Barrio		18.40939	-66.80509	A	ADM2	PR		065	7268271			0	168	174	America/Puerto_Rico	2019-10-08
+7268272	Buena Vista Barrio	Buena Vista Barrio		18.11565	-65.7988	A	ADM2	PR		069	7268272			0	10	14	America/Puerto_Rico	2019-10-07
+7268273	Buena Vista Barrio	Buena Vista Barrio		18.2503	-66.96365	A	ADM2	PR		083	7268273			0	316	340	America/Puerto_Rico	2019-10-07
+7268274	Buenos Aires Barrio	Buenos Aires Barrio		18.26567	-66.84683	A	ADM2	PR		081	7268274			0	462	478	America/Puerto_Rico	2019-10-07
+7268277	Cabezas Barrio	Cabezas Barrio		18.36772	-65.63278	A	ADM2	PR		053	7268277			0	0	24	America/Puerto_Rico	2019-10-05
+7268278	Cabo Caribe Barrio	Cabo Caribe Barrio		18.46408	-66.38138	A	ADM2	PR		145	7268278			0	0	1	America/Puerto_Rico	2019-10-12
+7268279	Cabo Rojo Barrio-Pueblo	Cabo Rojo Barrio-Pueblo		18.08721	-67.14666	A	ADM2	PR		023	7268279			0	20	26	America/Puerto_Rico	2019-10-04
+7268280	Cacao Alto Barrio	Cacao Alto Barrio		18.0158	-66.0285	A	ADM2	PR		109	7268280			0	33	34	America/Puerto_Rico	2019-10-08
+7268281	Cacao Bajo Barrio	Cacao Bajo Barrio		17.99754	-66.02548	A	ADM2	PR		109	7268281			0	36	50	America/Puerto_Rico	2019-10-08
+7268282	Cacao Barrio	Cacao Barrio		18.34639	-65.96305	A	ADM2	PR		031	7268282			0	128	117	America/Puerto_Rico	2019-10-04
+7268283	Cacao Barrio	Cacao Barrio		18.45424	-66.94519	A	ADM2	PR		115	7268283			0	142	146	America/Puerto_Rico	2019-10-09
+7268284	Cacaos Barrio	Cacaos Barrio		18.22632	-66.49673	A	ADM2	PR		107	7268284			0	425	439	America/Puerto_Rico	2019-10-05
+7268285	Caguabo Barrio	Caguabo Barrio		18.29756	-67.21047	A	ADM2	PR		011	7268285			0	74	79	America/Puerto_Rico	2019-10-03
+7268286	Caguana Barrio	Caguana Barrio		18.29111	-66.75081	A	ADM2	PR		141	7268286			0	406	411	America/Puerto_Rico	2019-10-10
+7268287	Caguas Barrio-Pueblo	Caguas Barrio-Pueblo		18.23424	-66.03324	A	ADM2	PR		025	7268287			0	71	76	America/Puerto_Rico	2019-10-04
+7268288	Cagüitas Barrio	Cagueitas Barrio	Caguitas Barrio	18.23781	-66.09596	A	ADM2	PR		007	7268288			0	174	201	America/Puerto_Rico	2019-10-03
+7268289	Caimital Alto Barrio	Caimital Alto Barrio		18.43654	-67.11342	A	ADM2	PR		005	7268289			0	159	177	America/Puerto_Rico	2012-06-21
+7268290	Caimital Bajo Barrio	Caimital Bajo Barrio		18.42808	-67.13701	A	ADM2	PR		005	7268290			0	157	170	America/Puerto_Rico	2012-06-21
+7268291	Caimital Barrio	Caimital Barrio		18.00018	-66.10091	A	ADM2	PR		057	7268291			0	83	86	America/Puerto_Rico	2019-10-08
+7268292	Caimito Barrio	Caimito Barrio		18.2428	-65.86677	A	ADM2	PR		077	7268292			0	213	196	America/Puerto_Rico	2019-10-07
+7268293	Caimito Barrio	Caimito Barrio		18.33712	-66.07153	A	ADM2	PR		127	7268293			0	98	103	America/Puerto_Rico	2019-10-09
+7268294	Caimito Barrio	Caimito Barrio		18.07025	-66.85487	A	ADM2	PR		153	7268294			0	130	137	America/Puerto_Rico	2019-10-12
+7268295	Caín Alto Barrio	Cain Alto Barrio	Cain Alto Barrio	18.11814	-67.01244	A	ADM2	PR		125	7268295			0	225	218	America/Puerto_Rico	2019-10-09
+7268296	Caín Bajo Barrio	Cain Bajo Barrio	Cain Bajo Barrio	18.10871	-67.04628	A	ADM2	PR		125	7268296			0	61	57	America/Puerto_Rico	2019-10-09
+7268297	Calabazas Barrio	Calabazas Barrio		18.3027	-66.9728	A	ADM2	PR		131	7268297			0	196	202	America/Puerto_Rico	2019-10-10
+7268298	Calabazas Barrio	Calabazas Barrio		18.05366	-65.91123	A	ADM2	PR		151	7268298			0	20	25	America/Puerto_Rico	2019-10-12
+7268300	Callabo Barrio	Callabo Barrio		18.06465	-66.54087	A	ADM2	PR		075	7268300			0	106	115	America/Puerto_Rico	2019-10-07
+7268301	Callejones Barrio	Callejones Barrio		18.32715	-66.84894	A	ADM2	PR		081	7268301			0	372	375	America/Puerto_Rico	2019-10-07
+7268302	Calvache Barrio	Calvache Barrio		18.31592	-67.22539	A	ADM2	PR		117	7268302			0	15	19	America/Puerto_Rico	2019-10-09
+7268303	Calzada Barrio	Calzada Barrio		17.9937	-65.9141	A	ADM2	PR		095	7268303			0	28	44	America/Puerto_Rico	2019-10-06
+7268304	Camaceyes Barrio	Camaceyes Barrio		18.46673	-67.13859	A	ADM2	PR		005	7268304			0	98	102	America/Puerto_Rico	2012-06-21
+7268305	Camarones Barrio	Camarones Barrio		18.33678	-66.11144	A	ADM2	PR		061	7268305			0	48	59	America/Puerto_Rico	2019-10-08
+7268306	Cambalache Barrio	Cambalache Barrio		18.46225	-66.69389	A	ADM2	PR		013	7268306			0	3	4	America/Puerto_Rico	2019-10-03
+7268307	Camino Nuevo Barrio	Camino Nuevo Barrio		18.03081	-65.84311	A	ADM2	PR		151	7268307			0	0	118	America/Puerto_Rico	2019-10-12
+7268308	Campo Alegre Barrio	Campo Alegre Barrio		18.40742	-66.78213	A	ADM2	PR		065	7268308			0	180	186	America/Puerto_Rico	2019-10-08
+7268310	Camuy Arriba Barrio	Camuy Arriba Barrio		18.44867	-66.88793	A	ADM2	PR		027	7268310			0	132	139	America/Puerto_Rico	2019-10-04
+7268311	Camuy Barrio-Pueblo	Camuy Barrio-Pueblo		18.48486	-66.84662	A	ADM2	PR		027	7268311			0	10	17	America/Puerto_Rico	2019-10-04
+7268312	Cañabón Barrio	Canabon Barrio	Canabon Barrio	18.22192	-66.33694	A	ADM2	PR		019	7268312			0	581	584	America/Puerto_Rico	2019-10-04
+7268313	Cañabón Barrio	Canabon Barrio	Canabon Barrio	18.2381	-66.06689	A	ADM2	PR		025	7268313			0	90	91	America/Puerto_Rico	2019-10-04
+7268314	Cañaboncito Barrio	Canaboncito Barrio	Canaboncito Barrio	18.21147	-66.08221	A	ADM2	PR		025	7268314			0	189	205	America/Puerto_Rico	2019-10-04
+7268315	Canas Barrio	Canas Barrio		17.98964	-66.66788	A	ADM2	PR		113	7268315			0	66	65	America/Puerto_Rico	2019-10-08
+7268316	Canas Urbano Barrio	Canas Urbano Barrio		18.00638	-66.63155	A	ADM2	PR		113	7268316			0	10	16	America/Puerto_Rico	2012-07-04
+7268317	Candelaria Barrio	Candelaria Barrio		18.05156	-67.07945	A	ADM2	PR		079	7268317			0	59	67	America/Puerto_Rico	2019-10-07
+7268318	Candelaria Barrio	Candelaria Barrio		18.40821	-66.21705	A	ADM2	PR		137	7268318			0	56	60	America/Puerto_Rico	2019-10-10
+7268319	Candelaria Barrio	Candelaria Barrio		18.37487	-66.35793	A	ADM2	PR		143	7268319			0	139	156	America/Puerto_Rico	2019-10-11
+7268321	Candelero Abajo Barrio	Candelero Abajo Barrio		18.09036	-65.80794	A	ADM2	PR		069	7268321			0	21	21	America/Puerto_Rico	2019-10-07
+7268322	Candelero Arriba Barrio	Candelero Arriba Barrio		18.10557	-65.83404	A	ADM2	PR		069	7268322			0	128	128	America/Puerto_Rico	2019-10-07
+7268323	Cangrejo Arriba Barrio	Cangrejo Arriba Barrio		18.43945	-66.01003	A	ADM2	PR		031	7268323			0	3	-1	America/Puerto_Rico	2019-10-04
+7268324	Caníaco Barrio	Caniaco Barrio	Caniaco Barrio	18.3115	-66.67023	A	ADM2	PR		141	7268324			0	89	93	America/Puerto_Rico	2019-10-11
+7268325	Caño Barrio	Cano Barrio	Cano Barrio	17.99631	-66.90194	A	ADM2	PR		055	7268325			0	58	74	America/Puerto_Rico	2019-10-08
+7268326	Canóvanas Barrio	Canovanas Barrio	Canovanas Barrio	18.36048	-65.9067	A	ADM2	PR		029	7268326			0	28	32	America/Puerto_Rico	2012-07-04
+7268327	Canóvanas Barrio	Canovanas Barrio	Canovanas Barrio	18.39055	-65.86406	A	ADM2	PR		087	7268327			0	3	2	America/Puerto_Rico	2019-10-07
+7268328	Canóvanas Barrio-Pueblo	Canovanas Barrio-Pueblo	Canovanas Barrio-Pueblo	18.37934	-65.9021	A	ADM2	PR		029	7268328			0	10	12	America/Puerto_Rico	2019-10-04
+7268329	Canovanillas Barrio	Canovanillas Barrio		18.35474	-65.9232	A	ADM2	PR		031	7268329			0	100	106	America/Puerto_Rico	2019-10-04
+7268330	Caonillas Abajo Barrio	Caonillas Abajo Barrio		18.27377	-66.64683	A	ADM2	PR		141	7268330			0	358	353	America/Puerto_Rico	2019-10-11
+7268331	Caonillas Abajo Barrio	Caonillas Abajo Barrio		18.10017	-66.44951	A	ADM2	PR		149	7268331			0	202	207	America/Puerto_Rico	2019-10-12
+7268332	Caonillas Arriba Barrio	Caonillas Arriba Barrio		18.24837	-66.63854	A	ADM2	PR		141	7268332			0	293	299	America/Puerto_Rico	2019-10-11
+7268333	Caonillas Arriba Barrio	Caonillas Arriba Barrio		18.13972	-66.44204	A	ADM2	PR		149	7268333			0	405	481	America/Puerto_Rico	2019-10-12
+7268334	Caonillas Barrio	Caonillas Barrio		18.15998	-66.26396	A	ADM2	PR		009	7268334			0	551	552	America/Puerto_Rico	2019-10-03
+7268335	Capá Barrio	Capa Barrio	Capa Barrio	18.36854	-67.04932	A	ADM2	PR		099	7268335			0	66	69	America/Puerto_Rico	2019-10-06
+7268336	Capáez Barrio	Capaez Barrio	Capaez Barrio	18.20102	-66.74109	A	ADM2	PR		001	7268336			0	585	593	America/Puerto_Rico	2012-02-17
+7268337	Capáez Barrio	Capaez Barrio	Capaez Barrio	18.46118	-66.81203	A	ADM2	PR		065	7268337			0	85	90	America/Puerto_Rico	2019-10-08
+7268339	Capitanejo Barrio	Capitanejo Barrio		17.99173	-66.50536	A	ADM2	PR		075	7268339			0	0	5	America/Puerto_Rico	2019-10-07
+7268340	Capitanejo Barrio	Capitanejo Barrio		17.98861	-66.54814	A	ADM2	PR		113	7268340			0	3	5	America/Puerto_Rico	2019-10-08
+7268341	Caracol Barrio	Caracol Barrio		18.30058	-67.15937	A	ADM2	PR		011	7268341			0	24	29	America/Puerto_Rico	2019-10-03
+7268343	Carenero Barrio	Carenero Barrio		17.96501	-66.88322	A	ADM2	PR		055	7268343			0	151	162	America/Puerto_Rico	2019-10-08
+7268344	Carite Barrio	Carite Barrio		18.08064	-66.09583	A	ADM2	PR		057	7268344			0	575	572	America/Puerto_Rico	2019-10-08
+7268345	Carmen Barrio	Carmen Barrio		18.03624	-66.16249	A	ADM2	PR		057	7268345			0	411	407	America/Puerto_Rico	2019-10-08
+7268346	Carolina Barrio-Pueblo	Carolina Barrio-Pueblo		18.38178	-65.95691	A	ADM2	PR		031	7268346			0	16	20	America/Puerto_Rico	2019-10-04
+7268347	Carraízo Barrio	Carraizo Barrio	Carraizo Barrio	18.33494	-66.02367	A	ADM2	PR		139	7268347			0	140	135	America/Puerto_Rico	2019-10-10
+7268348	Carreras Barrio	Carreras Barrio		18.28682	-67.12427	A	ADM2	PR		011	7268348			0	22	20	America/Puerto_Rico	2019-10-03
+7268349	Carreras Barrio	Carreras Barrio		18.38375	-66.68268	A	ADM2	PR		013	7268349			0	23	27	America/Puerto_Rico	2019-10-03
+7268350	Carrizal Barrio	Carrizal Barrio		18.39887	-67.17877	A	ADM2	PR		003	7268350			0	2	3	America/Puerto_Rico	2019-10-02
+7268351	Carrizales Barrio	Carrizales Barrio		18.48108	-66.78887	A	ADM2	PR		065	7268351			0	33	35	America/Puerto_Rico	2019-10-08
+7268352	Carruzos Barrio	Carruzos Barrio		18.31343	-65.91634	A	ADM2	PR		031	7268352			0	219	225	America/Puerto_Rico	2019-10-04
+7268353	Casey Abajo Barrio	Casey Abajo Barrio		18.26818	-67.10313	A	ADM2	PR		011	7268353			0	58	59	America/Puerto_Rico	2019-10-03
+7268354	Casey Arriba Barrio	Casey Arriba Barrio		18.26094	-67.08611	A	ADM2	PR		011	7268354			0	92	112	America/Puerto_Rico	2019-10-03
+7268355	Cataño Barrio	Catano Barrio	Catano Barrio	18.12954	-65.82462	A	ADM2	PR		069	7268355			0	77	113	America/Puerto_Rico	2019-10-08
+7268356	Cataño Barrio-Pueblo	Catano Barrio-Pueblo	Catano Barrio-Pueblo	18.43986	-66.11973	A	ADM2	PR		033	7268356			0	0	1	America/Puerto_Rico	2019-10-04
+7268358	Cayaguas Barrio	Cayaguas Barrio		18.14463	-65.9701	A	ADM2	PR		129	7268358			0	191	198	America/Puerto_Rico	2019-10-10
+7268359	Cayey Barrio-Pueblo	Cayey Barrio-Pueblo		18.11435	-66.16257	A	ADM2	PR		035	7268359			0	402	407	America/Puerto_Rico	2019-10-04
+7268360	Cedrito Barrio	Cedrito Barrio		18.25425	-66.19635	A	ADM2	PR		045	7268360			0	333	318	America/Puerto_Rico	2019-10-05
+7268361	Cedro Abajo Barrio	Cedro Abajo Barrio		18.28916	-66.27087	A	ADM2	PR		105	7268361			0	484	474	America/Puerto_Rico	2019-10-05
+7268362	Cedro Arriba Barrio	Cedro Arriba Barrio		18.25816	-66.28134	A	ADM2	PR		105	7268362			0	525	533	America/Puerto_Rico	2019-10-05
+7268363	Cedro Barrio	Cedro Barrio		18.28777	-65.9171	A	ADM2	PR		031	7268363			0	175	177	America/Puerto_Rico	2019-10-04
+7268364	Cedro Barrio	Cedro Barrio		18.1009	-66.12463	A	ADM2	PR		035	7268364			0	527	528	America/Puerto_Rico	2019-10-04
+7268365	Cedro Barrio	Cedro Barrio		18.02746	-66.7517	A	ADM2	PR		059	7268365			0	85	96	America/Puerto_Rico	2019-10-08
+7268366	Ceiba Alta Barrio	Ceiba Alta Barrio		18.47945	-67.08977	A	ADM2	PR		005	7268366			0	70	74	America/Puerto_Rico	2012-07-04
+7268367	El Río Barrio	El Rio Barrio	El Rio Barrio	18.23881	-65.84327	A	ADM2	PR		085	7268367			0	149	171	America/Puerto_Rico	2019-10-07
+7268370	Emajagua Barrio	Emajagua Barrio		18.00483	-65.87669	A	ADM2	PR		095	7268370			0	18	19	America/Puerto_Rico	2019-10-06
+7268371	Emajagual Barrio	Emajagual Barrio		18.07387	-66.43981	A	ADM2	PR		075	7268371			0	227	209	America/Puerto_Rico	2019-10-07
+7268372	Encarnación Barrio	Encarnacion Barrio	Encarnacion Barrio	17.98875	-66.70877	A	ADM2	PR		111	7268372			0	48	54	America/Puerto_Rico	2019-10-08
+7268373	Eneas Barrio	Eneas Barrio		18.32865	-66.93221	A	ADM2	PR		131	7268373			0	348	344	America/Puerto_Rico	2019-10-10
+7268374	Ensenada Barrio	Ensenada Barrio		17.96969	-66.92869	A	ADM2	PR		055	7268374			0	2	12	America/Puerto_Rico	2019-10-08
+7268375	Ensenada Barrio	Ensenada Barrio		18.34674	-67.25342	A	ADM2	PR		117	7268375			0	22	25	America/Puerto_Rico	2019-10-09
+7268376	Esperanza Barrio	Esperanza Barrio		18.36472	-66.74731	A	ADM2	PR		013	7268376			0	289	308	America/Puerto_Rico	2019-10-03
+7268377	Espinar Barrio	Espinar Barrio		18.40694	-67.16607	A	ADM2	PR		003	7268377			0	0	8	America/Puerto_Rico	2019-10-02
+7268378	Espino Barrio	Espino Barrio		18.28019	-67.11535	A	ADM2	PR		011	7268378			0	47	43	America/Puerto_Rico	2019-10-03
+7268379	Espino Barrio	Espino Barrio		18.27537	-66.89971	A	ADM2	PR		081	7268379			0	445	434	America/Puerto_Rico	2019-10-07
+7268380	Espino Barrio	Espino Barrio		18.24785	-66.91824	A	ADM2	PR		083	7268380			0	244	258	America/Puerto_Rico	2019-10-07
+7268381	Espino Barrio	Espino Barrio		18.1114	-66.01233	A	ADM2	PR		129	7268381			0	514	515	America/Puerto_Rico	2019-10-10
+7268382	Espinosa Barrio	Espinosa Barrio		18.39554	-66.28807	A	ADM2	PR		051	7268382			0	105	111	America/Puerto_Rico	2019-10-05
+7268383	Espinosa Barrio	Espinosa Barrio		18.41352	-66.31274	A	ADM2	PR		143	7268383			0	46	50	America/Puerto_Rico	2019-10-11
+7268384	Factor Barrio	Factor Barrio		18.45672	-66.62948	A	ADM2	PR		013	7268384			0	64	76	America/Puerto_Rico	2019-10-03
+7268385	Fajardo Barrio-Pueblo	Fajardo Barrio-Pueblo		18.32891	-65.64967	A	ADM2	PR		053	7268385			0	10	13	America/Puerto_Rico	2014-08-21
+7268386	Farallón Barrio	Farallon Barrio	Farallon Barrio	18.10999	-66.08742	A	ADM2	PR		035	7268386			0	679	684	America/Puerto_Rico	2019-10-04
+7268387	Felicia 1 Barrio	Felicia 1 Barrio		17.95651	-66.38973	A	ADM2	PR		133	7268387			0	4	3	America/Puerto_Rico	2019-10-10
+7268388	Felicia 2 Barrio	Felicia 2 Barrio		17.99369	-66.3861	A	ADM2	PR		133	7268388			0	26	24	America/Puerto_Rico	2019-10-10
+7268390	Flamenco Barrio	Flamenco Barrio		18.31679	-65.30589	A	ADM2	PR		049	7268390			0	0	58	America/Puerto_Rico	2019-10-05
+7268392	Florencio Barrio	Florencio Barrio		18.3133	-65.67105	A	ADM2	PR		053	7268392			0	29	30	America/Puerto_Rico	2012-07-04
+7268393	Florida Adentro Barrio	Florida Adentro Barrio		18.37344	-66.56017	A	ADM2	PR		054	7268393			0	193	205	America/Puerto_Rico	2019-10-05
+7268394	Florida Afuera Barrio	Florida Afuera Barrio		18.42603	-66.56046	A	ADM2	PR		017	7268394			0	75	76	America/Puerto_Rico	2019-10-03
+7268395	Florida Barrio	Florida Barrio		18.1877	-65.94286	A	ADM2	PR		129	7268395			0	131	138	America/Puerto_Rico	2019-10-10
+7268396	Florida Barrio	Florida Barrio		18.13495	-65.46265	A	ADM2	PR		147	7268396			0	0	41	America/Puerto_Rico	2019-10-12
+7268397	Fraile Barrio	Fraile Barrio		18.31316	-65.2543	A	ADM2	PR		049	7268397			0	0	68	America/Puerto_Rico	2019-10-05
+7268398	Frailes Barrio	Frailes Barrio		18.37218	-66.10874	A	ADM2	PR		061	7268398			0	31	39	America/Puerto_Rico	2019-10-08
+7268399	Frailes Barrio	Frailes Barrio		18.12735	-66.91131	A	ADM2	PR		153	7268399			0	535	557	America/Puerto_Rico	2019-10-12
+7268400	Fránquez Barrio	Franquez Barrio	Franquez Barrio	18.35531	-66.41848	A	ADM2	PR		101	7268400			0	135	133	America/Puerto_Rico	2019-10-05
+7268401	Frontón Barrio	Fronton Barrio	Fronton Barrio	18.30828	-66.55849	A	ADM2	PR		039	7268401			0	338	353	America/Puerto_Rico	2019-10-04
+7268402	Furnias Barrio	Furnias Barrio		18.24834	-67.01252	A	ADM2	PR		083	7268402			0	245	240	America/Puerto_Rico	2019-10-07
+7268403	Galateo Alto Barrio	Galateo Alto Barrio		18.41497	-66.99437	A	ADM2	PR		071	7268403			0	302	298	America/Puerto_Rico	2019-10-07
+7268404	Galateo Bajo Barrio	Galateo Bajo Barrio		18.46377	-66.99687	A	ADM2	PR		071	7268404			0	121	123	America/Puerto_Rico	2019-10-07
+7268405	Galateo Barrio	Galateo Barrio		18.36098	-66.25643	A	ADM2	PR		135	7268405			0	20	25	America/Puerto_Rico	2019-10-10
+7268407	Garrochales Barrio	Garrochales Barrio		18.45825	-66.59833	A	ADM2	PR		013	7268407			0	26	30	America/Puerto_Rico	2019-10-03
+7268408	Garrochales Barrio	Garrochales Barrio		18.45891	-66.56519	A	ADM2	PR		017	7268408			0	5	5	America/Puerto_Rico	2019-10-03
+7268409	Garzas Barrio	Garzas Barrio		18.15338	-66.74619	A	ADM2	PR		001	7268409			0	674	697	America/Puerto_Rico	2012-02-17
+7268410	Gato Barrio	Gato Barrio		18.26069	-66.38982	A	ADM2	PR		107	7268410			0	611	607	America/Puerto_Rico	2019-10-05
+7268411	Gobernador Piñero Barrio	Gobernador Pinero Barrio	Gobernador Pinero Barrio	18.40787	-66.08952	A	ADM2	PR		127	7268411			0	25	27	America/Puerto_Rico	2012-07-04
+7268412	Guacio Barrio	Guacio Barrio		18.28315	-67.0011	A	ADM2	PR		131	7268412			0	215	224	America/Puerto_Rico	2019-10-10
+7268413	Guadiana Barrio	Guadiana Barrio		18.31484	-66.22258	A	ADM2	PR		105	7268413			0	81	84	America/Puerto_Rico	2019-10-05
+7268414	Guajataca Barrio	Guajataca Barrio		18.38897	-66.91017	A	ADM2	PR		115	7268414			0	263	273	America/Puerto_Rico	2019-10-09
+7268415	Guajataca Barrio	Guajataca Barrio		18.3536	-66.92024	A	ADM2	PR		131	7268415			0	264	272	America/Puerto_Rico	2019-10-10
+7268416	Guamá Barrio	Guama Barrio	Guama Barrio	18.10244	-67.00324	A	ADM2	PR		125	7268416			0	145	151	America/Puerto_Rico	2019-10-09
+7268417	Guamaní Barrio	Guamani Barrio	Guamani Barrio	18.03585	-66.10615	A	ADM2	PR		057	7268417			0	246	246	America/Puerto_Rico	2019-10-08
+7268418	Guanábano Barrio	Guanabano Barrio	Guanabano Barrio	18.38193	-67.15444	A	ADM2	PR		003	7268418			0	10	15	America/Puerto_Rico	2019-10-02
+7268419	Guanajibo Barrio	Guanajibo Barrio		18.13514	-67.16604	A	ADM2	PR		023	7268419			0	68	68	America/Puerto_Rico	2019-10-04
+7268420	Guanajibo Barrio	Guanajibo Barrio		18.1475	-67.13828	A	ADM2	PR		067	7268420			0	46	46	America/Puerto_Rico	2019-10-08
+7268421	Guanajibo Barrio	Guanajibo Barrio		18.16863	-67.16062	A	ADM2	PR		097	7268421			0	2	7	America/Puerto_Rico	2019-10-06
+7268422	Guánica Barrio-Pueblo	Guanica Barrio-Pueblo	Guanica Barrio-Pueblo	17.96869	-66.91186	A	ADM2	PR		055	7268422			0	3	8	America/Puerto_Rico	2019-10-08
+7268423	Guaniquilla Barrio	Guaniquilla Barrio		18.3888	-67.19741	A	ADM2	PR		003	7268423			0	1	5	America/Puerto_Rico	2019-10-02
+7268424	Guaonico Barrio	Guaonico Barrio		18.23742	-66.74016	A	ADM2	PR		141	7268424			0	345	357	America/Puerto_Rico	2019-10-11
+7268425	Guaraguao Abajo Barrio	Guaraguao Abajo Barrio		18.32977	-66.14435	A	ADM2	PR		021	7268425			0	84	73	America/Puerto_Rico	2019-10-04
+7268426	Guaraguao Arriba Barrio	Guaraguao Arriba Barrio		18.29262	-66.15578	A	ADM2	PR		021	7268426			0	439	446	America/Puerto_Rico	2019-10-04
+7268427	Guaraguao Barrio	Guaraguao Barrio		18.3153	-66.13376	A	ADM2	PR		061	7268427			0	86	69	America/Puerto_Rico	2019-10-08
+7268428	Guaraguao Barrio	Guaraguao Barrio		18.12124	-66.66909	A	ADM2	PR		113	7268428			0	538	541	America/Puerto_Rico	2019-10-09
+7268429	Guardarraya Barrio	Guardarraya Barrio		17.97708	-65.94154	A	ADM2	PR		109	7268429			0	1	27	America/Puerto_Rico	2019-10-08
+7268430	Guásimas Barrio	Guasimas Barrio	Guasimas Barrio	17.97639	-66.06665	A	ADM2	PR		015	7268430			0	16	17	America/Puerto_Rico	2019-10-03
+7268431	Guatemala Barrio	Guatemala Barrio		18.35267	-67.00669	A	ADM2	PR		131	7268431			0	68	68	America/Puerto_Rico	2019-10-10
+7268432	Guavate Barrio	Guavate Barrio		18.13084	-66.07995	A	ADM2	PR		035	7268432			0	510	499	America/Puerto_Rico	2019-10-04
+7268433	Guayabal Barrio	Guayabal Barrio		18.07683	-66.48536	A	ADM2	PR		075	7268433			0	168	174	America/Puerto_Rico	2019-10-07
+7268434	Guayabo Barrio	Guayabo Barrio		18.37508	-67.2101	A	ADM2	PR		003	7268434			0	3	7	America/Puerto_Rico	2019-10-02
+7268435	Guayabo Dulce Barrio	Guayabo Dulce Barrio		18.20663	-66.82111	A	ADM2	PR		001	7268435			0	720	729	America/Puerto_Rico	2012-02-17
+7268436	Guayabos Barrio	Guayabos Barrio		18.50055	-67.00114	A	ADM2	PR		071	7268436			0	57	59	America/Puerto_Rico	2019-10-07
+7268437	Guayabota Barrio	Guayabota Barrio		18.07167	-65.9684	A	ADM2	PR		151	7268437			0	327	326	America/Puerto_Rico	2019-10-12
+7268438	Guayacán Barrio	Guayacan Barrio	Guayacan Barrio	18.22124	-65.64561	A	ADM2	PR		037	7268438			0	0	5	America/Puerto_Rico	2019-10-04
+7268439	Guayama Barrio-Pueblo	Guayama Barrio-Pueblo		17.97665	-66.11436	A	ADM2	PR		057	7268439			0	39	40	America/Puerto_Rico	2019-10-08
+7268440	Guayanilla Barrio-Pueblo	Guayanilla Barrio-Pueblo		18.02303	-66.79143	A	ADM2	PR		059	7268440			0	16	16	America/Puerto_Rico	2019-10-08
+7268441	Guaynabo Barrio-Pueblo	Guaynabo Barrio-Pueblo		18.35997	-66.11236	A	ADM2	PR		061	7268441			0	31	34	America/Puerto_Rico	2019-10-08
+7268442	Guayo Barrio	Guayo Barrio		18.17909	-66.82241	A	ADM2	PR		001	7268442			0	521	532	America/Puerto_Rico	2012-02-17
+7268443	Guerrero Barrio	Guerrero Barrio		18.47742	-67.07373	A	ADM2	PR		005	7268443			0	106	110	America/Puerto_Rico	2012-07-04
+7268444	Guerrero Barrio	Guerrero Barrio		18.46906	-67.04368	A	ADM2	PR		071	7268444			0	122	124	America/Puerto_Rico	2019-10-07
+7268445	Guilarte Barrio	Guilarte Barrio		18.1591	-66.7768	A	ADM2	PR		001	7268445			0	764	770	America/Puerto_Rico	2012-02-17
+7268446	Gurabo Abajo Barrio	Gurabo Abajo Barrio		18.2528	-65.9106	A	ADM2	PR		077	7268446			0	143	123	America/Puerto_Rico	2019-10-07
+7268447	Gurabo Arriba Barrio	Gurabo Arriba Barrio		18.24398	-65.881	A	ADM2	PR		077	7268447			0	196	209	America/Puerto_Rico	2019-10-07
+7268448	Gurabo Barrio-Pueblo	Gurabo Barrio-Pueblo		18.25527	-65.97276	A	ADM2	PR		063	7268448			0	54	56	America/Puerto_Rico	2019-10-08
+7268449	Guzmán Abajo Barrio	Guzman Abajo Barrio	Guzman Abajo Barrio	18.35117	-65.8369	A	ADM2	PR		119	7268449			0	30	35	America/Puerto_Rico	2019-10-09
+7268450	Guzmán Arriba Barrio	Guzman Arriba Barrio	Guzman Arriba Barrio	18.29874	-65.83259	A	ADM2	PR		119	7268450			0	537	555	America/Puerto_Rico	2019-10-09
+7268451	Hatillo Barrio	Hatillo Barrio		18.2993	-67.18833	A	ADM2	PR		011	7268451			0	70	30	America/Puerto_Rico	2019-10-03
+7268452	Hatillo Barrio	Hatillo Barrio		18.48065	-66.82082	A	ADM2	PR		065	7268452			0	12	18	America/Puerto_Rico	2019-10-08
+7268453	Hatillo Barrio-Pueblo	Hatillo Barrio-Pueblo		18.48533	-66.8254	A	ADM2	PR		065	7268453			0	3	10	America/Puerto_Rico	2019-10-08
+7268454	Hato Abajo Barrio	Hato Abajo Barrio		18.46435	-66.7518	A	ADM2	PR		013	7268454			0	30	32	America/Puerto_Rico	2019-10-03
+7268455	Hato Arriba Barrio	Hato Arriba Barrio		18.43689	-66.74519	A	ADM2	PR		013	7268455			0	89	91	America/Puerto_Rico	2019-10-03
+7268456	Hato Arriba Barrio	Hato Arriba Barrio		18.35813	-67.03103	A	ADM2	PR		131	7268456			0	75	78	America/Puerto_Rico	2019-10-10
+7268457	Hato Barrio	Hato Barrio		18.194	-65.98478	A	ADM2	PR		129	7268457			0	227	242	America/Puerto_Rico	2019-10-10
+7268458	Hato Nuevo Barrio	Hato Nuevo Barrio		18.29741	-66.10027	A	ADM2	PR		061	7268458			0	133	143	America/Puerto_Rico	2019-10-08
+7268459	Hato Nuevo Barrio	Hato Nuevo Barrio		18.26863	-65.94942	A	ADM2	PR		063	7268459			0	100	99	America/Puerto_Rico	2019-10-08
+7268460	Hato Puerco Abajo Barrio	Hato Puerco Abajo Barrio		18.10246	-66.48315	A	ADM2	PR		149	7268460			0	164	160	America/Puerto_Rico	2019-10-12
+7268461	Hato Puerco Arriba Barrio	Hato Puerco Arriba Barrio		18.12484	-66.4905	A	ADM2	PR		149	7268461			0	179	167	America/Puerto_Rico	2019-10-12
+7268462	Hato Puerco Barrio	Hato Puerco Barrio		18.32272	-65.8843	A	ADM2	PR		029	7268462			0	185	196	America/Puerto_Rico	2019-10-04
+7268463	Hato Rey Central Barrio	Hato Rey Central Barrio		18.42173	-66.05103	A	ADM2	PR		127	7268463			0	7	5	America/Puerto_Rico	2012-07-04
+7268464	Hato Rey Norte Barrio	Hato Rey Norte Barrio		18.42763	-66.0779	A	ADM2	PR		127	7268464			0	0	1	America/Puerto_Rico	2019-10-09
+7268465	Hato Rey Sur Barrio	Hato Rey Sur Barrio		18.4048	-66.0586	A	ADM2	PR		127	7268465			0	10	15	America/Puerto_Rico	2019-10-09
+7268466	Hato Tejas Barrio	Hato Tejas Barrio		18.4072	-66.17745	A	ADM2	PR		021	7268466			0	60	74	America/Puerto_Rico	2019-10-04
+7268467	Hato Viejo Barrio	Hato Viejo Barrio		18.37563	-66.70329	A	ADM2	PR		013	7268467			0	236	252	America/Puerto_Rico	2019-10-03
+7268468	Hato Viejo Barrio	Hato Viejo Barrio		18.34164	-66.5143	A	ADM2	PR		039	7268468			0	218	223	America/Puerto_Rico	2019-10-04
+7268469	Hayales Barrio	Hayales Barrio		18.16205	-66.37129	A	ADM2	PR		043	7268469			0	653	657	America/Puerto_Rico	2019-10-05
+7268470	Helechal Barrio	Helechal Barrio		18.17202	-66.32091	A	ADM2	PR		019	7268470			0	666	665	America/Puerto_Rico	2019-10-04
+7268472	Herreras Barrio	Herreras Barrio		18.40483	-65.82367	A	ADM2	PR		119	7268472			0	0	4	America/Puerto_Rico	2019-10-09
+7268474	Higuillar Barrio	Higuillar Barrio		18.45508	-66.28562	A	ADM2	PR		051	7268474			0	7	4	America/Puerto_Rico	2019-10-05
+7268477	Hoconuco Alto Barrio	Hoconuco Alto Barrio		18.13821	-67.02072	A	ADM2	PR		125	7268477			0	218	217	America/Puerto_Rico	2019-10-09
+7268478	Hoconuco Bajo Barrio	Hoconuco Bajo Barrio		18.11911	-67.0609	A	ADM2	PR		125	7268478			0	49	56	America/Puerto_Rico	2019-10-09
+7268479	Honduras Barrio	Honduras Barrio		18.17936	-66.26899	A	ADM2	PR		019	7268479			0	496	501	America/Puerto_Rico	2019-10-04
+7268480	Honduras Barrio	Honduras Barrio		18.15203	-66.20882	A	ADM2	PR		041	7268480			0	568	572	America/Puerto_Rico	2019-10-04
+7268481	Hormigueros Barrio	Hormigueros Barrio		18.13746	-67.12033	A	ADM2	PR		067	7268481			0	17	23	America/Puerto_Rico	2019-10-08
+7268482	Hormigueros Barrio-Pueblo	Hormigueros Barrio-Pueblo		18.13982	-67.12605	A	ADM2	PR		067	7268482			0	23	30	America/Puerto_Rico	2019-10-08
+7268483	Hoya Mala Barrio	Hoya Mala Barrio		18.35174	-66.96333	A	ADM2	PR		131	7268483			0	269	270	America/Puerto_Rico	2019-10-10
+7268484	Buena Vista Barrio (Inactive)	Buena Vista Barrio (Inactive)	Hoyo Mulas Barrio	18.40805	-65.94632	A	ADM2	PR		031	7268484			0	7	5	America/Puerto_Rico	2019-10-04
+7268485	Húcares Barrio	Hucares Barrio	Hucares Barrio	18.19685	-65.71782	A	ADM2	PR		103	7268485			0	49	42	America/Puerto_Rico	2019-10-05
+7268486	Humacao Barrio-Pueblo	Humacao Barrio-Pueblo		18.15146	-65.82497	A	ADM2	PR		069	7268486			0	20	25	America/Puerto_Rico	2019-10-08
+7268487	Humatas Barrio	Humatas Barrio		18.30936	-67.10668	A	ADM2	PR		011	7268487			0	105	126	America/Puerto_Rico	2019-10-03
+7268490	Indiera Alta Barrio	Indiera Alta Barrio		18.16466	-66.87223	A	ADM2	PR		093	7268490			0	670	675	America/Puerto_Rico	2019-10-06
+7268491	Indiera Baja Barrio	Indiera Baja Barrio		18.1671	-66.90557	A	ADM2	PR		093	7268491			0	769	776	America/Puerto_Rico	2019-10-06
+7268492	Indiera Fría Barrio	Indiera Fria Barrio	Indiera Fria Barrio	18.16103	-66.94742	A	ADM2	PR		093	7268492			0	507	524	America/Puerto_Rico	2019-10-06
+7268493	Indios Barrio	Indios Barrio		18.00792	-66.80976	A	ADM2	PR		059	7268493			0	55	74	America/Puerto_Rico	2019-10-08
+7268495	Isabel Segunda	Isabel Segunda	Isabel II Barrio-Pueblo,Isabel Ii Barrio-Pueblo,Isabel Segunda	18.14721	-65.44282	A	ADM2	PR		147	7268495			0	20	22	America/Puerto_Rico	2015-03-29
+7268496	Isabela Barrio-Pueblo	Isabela Barrio-Pueblo		18.50072	-67.02293	A	ADM2	PR		071	7268496			0	71	76	America/Puerto_Rico	2019-10-07
+7268497	Isla de Mona e Islote Monito Barrio	Isla de Mona e Islote Monito Barrio		18.09054	-67.89052	A	ADM2	PR		097	7268497			0	60	69	America/Puerto_Rico	2012-07-04
+7268499	Islote Barrio	Islote Barrio		18.48274	-66.6444	A	ADM2	PR		013	7268499			0	7	6	America/Puerto_Rico	2019-10-03
+7268500	Jacaboa Barrio	Jacaboa Barrio		17.98305	-65.96524	A	ADM2	PR		109	7268500			0	33	35	America/Puerto_Rico	2019-10-08
+7268501	Jacaguas Barrio	Jacaguas Barrio		18.06271	-66.52393	A	ADM2	PR		075	7268501			0	81	81	America/Puerto_Rico	2019-10-07
+7268502	Jácana Barrio	Jacana Barrio	Jacana Barrio	18.03287	-66.8322	A	ADM2	PR		153	7268502			0	39	41	America/Puerto_Rico	2019-10-12
+7268503	Jácanas Barrio	Jacanas Barrio	Jacanas Barrio	18.09716	-65.91716	A	ADM2	PR		151	7268503			0	249	260	America/Puerto_Rico	2019-10-12
+7268504	Jagua Pasto Barrio	Jagua Pasto Barrio		18.11047	-66.77601	A	ADM2	PR		059	7268504			0	559	567	America/Puerto_Rico	2019-10-08
+7268505	Jagual Barrio	Jagual Barrio		18.03097	-66.03283	A	ADM2	PR		109	7268505			0	134	121	America/Puerto_Rico	2019-10-08
+7268506	Jagual Barrio	Jagual Barrio		18.15902	-65.99945	A	ADM2	PR		129	7268506			0	208	211	America/Puerto_Rico	2019-10-10
+7268507	Jaguar Barrio	Jaguar Barrio		18.23946	-65.96875	A	ADM2	PR		063	7268507			0	240	235	America/Puerto_Rico	2019-10-08
+7268508	Jaguas Barrio	Jaguas Barrio		18.32106	-66.46676	A	ADM2	PR		039	7268508			0	171	186	America/Puerto_Rico	2019-10-04
+7268509	Jaguas Barrio	Jaguas Barrio		18.04061	-66.79166	A	ADM2	PR		059	7268509			0	116	123	America/Puerto_Rico	2019-10-08
+7268510	Jaguas Barrio	Jaguas Barrio		18.29116	-66.01231	A	ADM2	PR		063	7268510			0	215	193	America/Puerto_Rico	2019-10-08
+7268511	Jaguas Barrio	Jaguas Barrio		18.09217	-66.72943	A	ADM2	PR		111	7268511			0	532	564	America/Puerto_Rico	2019-10-08
+7268512	Jagüey Barrio	Jagueey Barrio	Jaguey Barrio	18.35033	-67.20118	A	ADM2	PR		003	7268512			0	82	80	America/Puerto_Rico	2019-10-02
+7268513	Jagüey Barrio	Jagueey Barrio	Jaguey Barrio	18.3256	-67.20269	A	ADM2	PR		117	7268513			0	179	185	America/Puerto_Rico	2019-10-09
+7268514	Jagüeyes Barrio	Jagueeyes Barrio	Jagueyes Barrio	18.28226	-66.08306	A	ADM2	PR		007	7268514			0	232	240	America/Puerto_Rico	2019-10-03
+7268515	Jaguitas Barrio	Jaguitas Barrio		18.15079	-67.10564	A	ADM2	PR		067	7268515			0	62	76	America/Puerto_Rico	2019-10-08
+7268516	Jájome Alto Barrio	Jajome Alto Barrio	Jajome Alto Barrio	18.05721	-66.14469	A	ADM2	PR		035	7268516			0	456	455	America/Puerto_Rico	2019-10-04
+7268517	Jájome Bajo Barrio	Jajome Bajo Barrio	Jajome Bajo Barrio	18.06826	-66.17309	A	ADM2	PR		035	7268517			0	419	406	America/Puerto_Rico	2019-10-04
+7268519	Jauca 1 Barrio	Jauca 1 Barrio		17.96772	-66.36978	A	ADM2	PR		133	7268519			0	0	2	America/Puerto_Rico	2019-10-10
+7268520	Jauca 2 Barrio	Jauca 2 Barrio		18.00671	-66.35842	A	ADM2	PR		133	7268520			0	39	39	America/Puerto_Rico	2019-10-10
+7268521	Jauca Barrio	Jauca Barrio		18.16971	-66.62741	A	ADM2	PR		073	7268521			0	774	798	America/Puerto_Rico	2019-10-07
+7268522	Jayuya Abajo Barrio	Jayuya Abajo Barrio		18.22739	-66.61156	A	ADM2	PR		073	7268522			0	496	523	America/Puerto_Rico	2019-10-07
+7268523	Jayuya Barrio-Pueblo	Jayuya Barrio-Pueblo		18.21983	-66.59257	A	ADM2	PR		073	7268523			0	460	466	America/Puerto_Rico	2019-10-07
+7268524	Jiménez Barrio	Jimenez Barrio	Jimenez Barrio	18.33734	-65.80643	A	ADM2	PR		119	7268524			0	193	200	America/Puerto_Rico	2019-10-09
+7268525	Jobos Barrio	Jobos Barrio		17.95265	-66.18048	A	ADM2	PR		057	7268525			0	3	4	America/Puerto_Rico	2019-10-08
+7268526	Jobos Barrio	Jobos Barrio		18.49778	-67.06965	A	ADM2	PR		071	7268526			0	74	79	America/Puerto_Rico	2019-10-07
+7268527	Juan Alonso Barrio	Juan Alonso Barrio		18.1922	-67.09686	A	ADM2	PR		097	7268527			0	184	175	America/Puerto_Rico	2019-10-06
+7268528	Juan Asencio Barrio	Juan Asencio Barrio		18.2636	-66.16303	A	ADM2	PR		007	7268528			0	368	376	America/Puerto_Rico	2019-10-03
+7268529	Juan González Barrio	Juan Gonzalez Barrio	Juan Gonzalez Barrio	18.18813	-66.72391	A	ADM2	PR		001	7268529			0	679	669	America/Puerto_Rico	2012-02-17
+7268530	Juan Martín Barrio	Juan Martin Barrio	Juan Martin Barrio	18.3511	-65.68478	A	ADM2	PR		089	7268530			0	22	21	America/Puerto_Rico	2019-10-06
+7268531	Juan Martín Barrio	Juan Martin Barrio	Juan Martin Barrio	18.05064	-65.86044	A	ADM2	PR		151	7268531			0	7	7	America/Puerto_Rico	2019-04-14
+7268532	Juan Sánchez Barrio	Juan Sanchez Barrio	Juan Sanchez Barrio	18.40254	-66.13813	A	ADM2	PR		021	7268532			0	27	30	America/Puerto_Rico	2019-10-04
+7268533	Juana Díaz Barrio-Pueblo	Juana Diaz Barrio-Pueblo	Juana Diaz Barrio-Pueblo	18.05122	-66.50655	A	ADM2	PR		075	7268533			0	49	50	America/Puerto_Rico	2019-10-07
+7268534	Juncal Barrio	Juncal Barrio		18.30848	-66.92025	A	ADM2	PR		131	7268534			0	265	281	America/Puerto_Rico	2019-10-10
+7268535	Juncos Barrio-Pueblo	Juncos Barrio-Pueblo		18.22918	-65.92194	A	ADM2	PR		077	7268535			0	72	74	America/Puerto_Rico	2019-10-07
+7268538	La Gloria Barrio	La Gloria Barrio		18.32574	-66.00592	A	ADM2	PR		139	7268538			0	96	100	America/Puerto_Rico	2019-10-10
+7268539	La Torre Barrio	La Torre Barrio		18.25254	-66.87432	A	ADM2	PR		081	7268539			0	305	314	America/Puerto_Rico	2019-10-07
+7268541	Lagunas Barrio	Lagunas Barrio		18.33892	-67.17314	A	ADM2	PR		003	7268541			0	157	157	America/Puerto_Rico	2019-10-02
+7268542	Lajas Arriba Barrio	Lajas Arriba Barrio		18.04204	-67.01412	A	ADM2	PR		079	7268542			0	36	39	America/Puerto_Rico	2019-10-07
+7268543	Lajas Barrio	Lajas Barrio		18.05392	-67.05474	A	ADM2	PR		079	7268543			0	68	79	America/Puerto_Rico	2012-07-04
+7268544	Lajas Barrio-Pueblo	Lajas Barrio-Pueblo		18.04925	-67.05962	A	ADM2	PR		079	7268544			0	46	55	America/Puerto_Rico	2019-10-07
+7268545	Lapa Barrio	Lapa Barrio		18.08543	-66.19759	A	ADM2	PR		035	7268545			0	630	612	America/Puerto_Rico	2019-10-04
+7268546	Lapa Barrio	Lapa Barrio		18.03668	-66.25429	A	ADM2	PR		123	7268546			0	115	115	America/Puerto_Rico	2019-10-09
+7268547	Lares Barrio	Lares Barrio		18.29429	-66.844	A	ADM2	PR		081	7268547			0	441	448	America/Puerto_Rico	2012-07-04
+7268548	Lares Barrio-Pueblo	Lares Barrio-Pueblo		18.29601	-66.88141	A	ADM2	PR		081	7268548			0	338	344	America/Puerto_Rico	2019-10-07
+7268550	Las Marías Barrio-Pueblo	Las Marias Barrio-Pueblo	Las Marias Barrio-Pueblo	18.25229	-66.99081	A	ADM2	PR		083	7268550			0	309	313	America/Puerto_Rico	2019-10-07
+7268553	Las Palmas Barrio	Las Palmas Barrio		18.23616	-66.65739	A	ADM2	PR		141	7268553			0	342	359	America/Puerto_Rico	2019-10-11
+7268555	Las Piedras Barrio-Pueblo	Las Piedras Barrio-Pueblo		18.18271	-65.86603	A	ADM2	PR		085	7268555			0	135	136	America/Puerto_Rico	2019-10-07
+7268556	Lavadero Barrio	Lavadero Barrio		18.13427	-67.10084	A	ADM2	PR		067	7268556			0	43	55	America/Puerto_Rico	2019-10-08
+7268557	Leguísamo Barrio	Leguisamo Barrio	Leguisamo Barrio	18.24224	-67.09433	A	ADM2	PR		097	7268557			0	217	216	America/Puerto_Rico	2019-10-06
+7268558	Limaní Barrio	Limani Barrio	Limani Barrio	18.1624	-66.80166	A	ADM2	PR		001	7268558			0	726	740	America/Puerto_Rico	2012-02-18
+7268559	Limón Barrio	Limon Barrio	Limon Barrio	18.18508	-67.06613	A	ADM2	PR		097	7268559			0	233	250	America/Puerto_Rico	2019-10-06
+7268560	Limón Barrio	Limon Barrio	Limon Barrio	18.32511	-66.63119	A	ADM2	PR		141	7268560			0	255	257	America/Puerto_Rico	2019-10-11
+7268561	Limones Barrio	Limones Barrio		18.07997	-65.88885	A	ADM2	PR		151	7268561			0	20	21	America/Puerto_Rico	2019-10-12
+7268562	Lirios Barrio	Lirios Barrio		18.21897	-65.93997	A	ADM2	PR		077	7268562			0	149	151	America/Puerto_Rico	2019-10-07
+7268563	Lizas Barrio	Lizas Barrio		18.02167	-65.9388	A	ADM2	PR		095	7268563			0	129	121	America/Puerto_Rico	2019-10-06
+7268564	Llanadas Barrio	Llanadas Barrio		18.44231	-66.97203	A	ADM2	PR		071	7268564			0	166	172	America/Puerto_Rico	2019-10-07
+7268565	Llano Barrio	Llano Barrio		18.05737	-66.79798	A	ADM2	PR		059	7268565			0	80	72	America/Puerto_Rico	2019-10-08
+7268566	Llanos Barrio	Llanos Barrio		18.15051	-66.28556	A	ADM2	PR		009	7268566			0	593	596	America/Puerto_Rico	2019-10-03
+7268567	Llanos Barrio	Llanos Barrio		17.99052	-67.09879	A	ADM2	PR		079	7268567			0	87	99	America/Puerto_Rico	2019-10-07
+7268568	Llanos Costa Barrio	Llanos Costa Barrio		17.9788	-67.14432	A	ADM2	PR		023	7268568			0	68	68	America/Puerto_Rico	2019-10-04
+7268569	Llanos Tuna Barrio	Llanos Tuna Barrio		18.05164	-67.12753	A	ADM2	PR		023	7268569			0	81	90	America/Puerto_Rico	2019-10-04
+7268570	Llave Barrio	Llave Barrio		18.09566	-65.52347	A	ADM2	PR		147	7268570			0	15	17	America/Puerto_Rico	2019-10-12
+7268571	Loíza Barrio-Pueblo	Loiza Barrio-Pueblo	Loiza Barrio-Pueblo	18.43202	-65.87958	A	ADM2	PR		087	7268571			0	3	2	America/Puerto_Rico	2019-10-07
+7268573	Lomas Barrio	Lomas Barrio		18.28164	-65.8927	A	ADM2	PR		029	7268573			0	271	275	America/Puerto_Rico	2019-10-04
+7268574	Lomas Barrio	Lomas Barrio		18.05991	-66.50709	A	ADM2	PR		075	7268574			0	64	64	America/Puerto_Rico	2019-10-07
+7268575	Lomas Barrio	Lomas Barrio		18.31785	-66.26856	A	ADM2	PR		105	7268575			0	222	223	America/Puerto_Rico	2019-10-05
+7268577	Los Llanos Barrio	Los Llanos Barrio		18.05733	-66.40782	A	ADM2	PR		043	7268577			0	138	140	America/Puerto_Rico	2019-10-05
+7268578	Luquillo Barrio-Pueblo	Luquillo Barrio-Pueblo		18.37519	-65.71585	A	ADM2	PR		089	7268578			0	0	6	America/Puerto_Rico	2019-10-06
+7268579	Mabú Barrio	Mabu Barrio	Mabu Barrio	18.16607	-65.83725	A	ADM2	PR		069	7268579			0	125	135	America/Puerto_Rico	2019-10-08
+7268580	Macaná Barrio	Macana Barrio	Macana Barrio	18.05056	-66.77757	A	ADM2	PR		059	7268580			0	119	117	America/Puerto_Rico	2012-07-04
+7268581	Macaná Barrio	Macana Barrio	Macana Barrio	18.0778	-66.76179	A	ADM2	PR		111	7268581			0	354	355	America/Puerto_Rico	2019-10-08
+7268582	Machete Barrio	Machete Barrio		17.95541	-66.12152	A	ADM2	PR		057	7268582			0	16	18	America/Puerto_Rico	2019-10-08
+7268583	Machos Barrio	Machos Barrio		18.25466	-65.61874	A	ADM2	PR		037	7268583			0	0	-9999	America/Puerto_Rico	2019-10-04
+7268584	Machuchal Barrio	Machuchal Barrio		18.05647	-66.94091	A	ADM2	PR		121	7268584			0	117	129	America/Puerto_Rico	2019-10-09
+7268586	Machuelo Abajo Barrio	Machuelo Abajo Barrio		18.02543	-66.59624	A	ADM2	PR		113	7268586			0	26	32	America/Puerto_Rico	2012-07-04
+7268587	Machuelo Arriba Barrio	Machuelo Arriba Barrio		18.06202	-66.59882	A	ADM2	PR		113	7268587			0	182	180	America/Puerto_Rico	2012-07-04
+7268588	Magas Barrio	Magas Barrio		18.02673	-66.77592	A	ADM2	PR		059	7268588			0	125	118	America/Puerto_Rico	2019-10-08
+7268589	Magos Barrio	Magos Barrio		18.30835	-66.94364	A	ADM2	PR		131	7268589			0	245	240	America/Puerto_Rico	2019-10-10
+7268590	Maguayo Barrio	Maguayo Barrio		18.41724	-66.28108	A	ADM2	PR		051	7268590			0	41	63	America/Puerto_Rico	2019-10-05
+7268591	Magueyes Barrio	Magueyes Barrio		18.27622	-66.36911	A	ADM2	PR		047	7268591			0	457	483	America/Puerto_Rico	2019-10-05
+7268592	Magueyes Barrio	Magueyes Barrio		18.06211	-66.6474	A	ADM2	PR		113	7268592			0	105	109	America/Puerto_Rico	2019-10-09
+7268593	Magueyes Urbano Barrio	Magueyes Urbano Barrio		18.02622	-66.63793	A	ADM2	PR		113	7268593			0	103	67	America/Puerto_Rico	2012-07-04
+7268594	Maizales Barrio	Maizales Barrio		18.23391	-65.75905	A	ADM2	PR		103	7268594			0	49	55	America/Puerto_Rico	2019-10-05
+7268595	Mal Paso Barrio	Mal Paso Barrio		18.36599	-67.16935	A	ADM2	PR		003	7268595			0	41	46	America/Puerto_Rico	2019-10-02
+7268596	Maleza Alta Barrio	Maleza Alta Barrio		18.49994	-67.1216	A	ADM2	PR		005	7268596			0	62	68	America/Puerto_Rico	2012-07-04
+7268597	Maleza Baja Barrio	Maleza Baja Barrio		18.4964	-67.13789	A	ADM2	PR		005	7268597			0	66	68	America/Puerto_Rico	2012-07-04
+7268598	Malezas Barrio	Malezas Barrio		18.1672	-67.10542	A	ADM2	PR		097	7268598			0	97	106	America/Puerto_Rico	2019-10-06
+7268599	Mambiche Barrio	Mambiche Barrio		18.1974	-65.8101	A	ADM2	PR		069	7268599			0	90	95	America/Puerto_Rico	2019-10-07
+7268600	Mamey Barrio	Mamey Barrio		18.37647	-67.1386	A	ADM2	PR		003	7268600			0	25	32	America/Puerto_Rico	2019-10-02
+7268601	Mamey Barrio	Mamey Barrio		18.31433	-66.11567	A	ADM2	PR		061	7268601			0	185	183	America/Puerto_Rico	2019-10-08
+7268602	Mamey Barrio	Mamey Barrio		18.24443	-65.95657	A	ADM2	PR		063	7268602			0	116	123	America/Puerto_Rico	2019-10-08
+7268603	Mamey Barrio	Mamey Barrio		18.23977	-65.93435	A	ADM2	PR		077	7268603			0	81	82	America/Puerto_Rico	2019-10-07
+7268604	Mamey Barrio	Mamey Barrio		18.0146	-66.00261	A	ADM2	PR		109	7268604			0	158	170	America/Puerto_Rico	2012-07-04
+7268605	Mameyal Barrio	Mameyal Barrio		18.4637	-66.23656	A	ADM2	PR		051	7268605			0	0	2	America/Puerto_Rico	2019-10-05
+7268606	Mameyes Abajo Barrio	Mameyes Abajo Barrio		18.30284	-66.59347	A	ADM2	PR		141	7268606			0	344	352	America/Puerto_Rico	2019-10-11
+7268607	Mameyes Arriba Barrio	Mameyes Arriba Barrio		18.26253	-66.57781	A	ADM2	PR		073	7268607			0	510	549	America/Puerto_Rico	2019-10-07
+7268608	Mameyes I Barrio	Mameyes I Barrio		18.35787	-65.75335	A	ADM2	PR		089	7268608			0	35	41	America/Puerto_Rico	2019-10-06
+7268609	Mameyes II Barrio	Mameyes II Barrio	Mameyes Ii Barrio	18.33338	-65.76759	A	ADM2	PR		119	7268609			0	284	293	America/Puerto_Rico	2019-10-09
+7268610	Maná Barrio	Mana Barrio	Mana Barrio	18.26367	-66.31395	A	ADM2	PR		047	7268610			0	544	548	America/Puerto_Rico	2019-10-05
+7268611	Manatí Barrio-Pueblo	Manati Barrio-Pueblo	Manati Barrio-Pueblo	18.43104	-66.4863	A	ADM2	PR		091	7268611			0	35	35	America/Puerto_Rico	2019-10-06
+7268612	Maragüez Barrio	Maragueez Barrio	Maraguez Barrio	18.10064	-66.59117	A	ADM2	PR		113	7268612			0	236	258	America/Puerto_Rico	2019-10-08
+7268613	Maravilla Este Barrio	Maravilla Este Barrio		18.26184	-66.98085	A	ADM2	PR		083	7268613			0	230	243	America/Puerto_Rico	2019-10-07
+7268614	Maravilla Norte Barrio	Maravilla Norte Barrio		18.26603	-66.99605	A	ADM2	PR		083	7268614			0	155	168	America/Puerto_Rico	2019-10-07
+7268615	Maravilla Sur Barrio	Maravilla Sur Barrio		18.23004	-66.99798	A	ADM2	PR		083	7268615			0	336	343	America/Puerto_Rico	2019-10-07
+7268616	Maresúa Barrio	Maresua Barrio	Maresua Barrio	18.07954	-67.06683	A	ADM2	PR		125	7268616			0	60	73	America/Puerto_Rico	2019-10-09
+7268618	Mariana Barrio	Mariana Barrio		18.12618	-65.85269	A	ADM2	PR		069	7268618			0	166	169	America/Puerto_Rico	2019-10-08
+7268619	Mariana Barrio	Mariana Barrio		18.22738	-65.70426	A	ADM2	PR		103	7268619			0	231	231	America/Puerto_Rico	2019-10-05
+7268620	Marías Barrio	Marias Barrio	Marias Barrio	18.35937	-67.13822	A	ADM2	PR		003	7268620			0	87	83	America/Puerto_Rico	2019-10-02
+7268621	Marías Barrio	Marias Barrio	Marias Barrio	18.29997	-67.14003	A	ADM2	PR		011	7268621			0	66	60	America/Puerto_Rico	2019-10-03
+7268622	Marías Barrio	Marias Barrio	Marias Barrio	18.36198	-67.12342	A	ADM2	PR		099	7268622			0	140	139	America/Puerto_Rico	2019-10-06
+7268623	Maricao Afuera Barrio	Maricao Afuera Barrio		18.178	-66.98274	A	ADM2	PR		093	7268623			0	491	488	America/Puerto_Rico	2019-10-06
+7268624	Maricao Barrio	Maricao Barrio		18.38436	-66.3303	A	ADM2	PR		143	7268624			0	137	140	America/Puerto_Rico	2019-10-11
+7268625	Maricao Barrio-Pueblo	Maricao Barrio-Pueblo		18.18209	-66.97974	A	ADM2	PR		093	7268625			0	427	433	America/Puerto_Rico	2019-10-06
+7268626	Marín Barrio	Marin Barrio	Marin Barrio	18.03866	-66.0056	A	ADM2	PR		109	7268626			0	129	117	America/Puerto_Rico	2019-10-08
+7268631	Martín González Barrio	Martin Gonzalez Barrio	Martin Gonzalez Barrio	18.3758	-65.97267	A	ADM2	PR		031	7268631			0	26	23	America/Puerto_Rico	2019-10-04
+7268634	Marueño Barrio	Marueno Barrio	Marueno Barrio	18.08196	-66.66805	A	ADM2	PR		113	7268634			0	189	200	America/Puerto_Rico	2019-10-08
+7268635	Masa Barrio	Masa Barrio		18.29384	-65.9626	A	ADM2	PR		063	7268635			0	219	223	America/Puerto_Rico	2019-10-08
+7268636	Mata de Cañas Barrio	Mata de Canas Barrio	Mata de Canas Barrio	18.25812	-66.37082	A	ADM2	PR		107	7268636			0	640	634	America/Puerto_Rico	2019-10-05
+7268637	Mata de Plátano Barrio	Mata de Platano Barrio	Mata de Platano Barrio	18.36733	-65.73271	A	ADM2	PR		089	7268637			0	6	6	America/Puerto_Rico	2019-10-06
+7268638	Matón Abajo Barrio	Maton Abajo Barrio	Maton Abajo Barrio	18.12621	-66.20752	A	ADM2	PR		035	7268638			0	347	345	America/Puerto_Rico	2019-10-04
+7268639	Matón Arriba Barrio	Maton Arriba Barrio	Maton Arriba Barrio	18.10717	-66.19411	A	ADM2	PR		035	7268639			0	505	516	America/Puerto_Rico	2019-10-04
+7268640	Matuyas Alto Barrio	Matuyas Alto Barrio		18.04331	-65.9703	A	ADM2	PR		095	7268640			0	256	264	America/Puerto_Rico	2019-10-06
+7268641	Matuyas Bajo Barrio	Matuyas Bajo Barrio		18.03338	-65.94748	A	ADM2	PR		095	7268641			0	179	189	America/Puerto_Rico	2019-10-06
+7268642	Maunabo Barrio-Pueblo	Maunabo Barrio-Pueblo		18.00782	-65.90071	A	ADM2	PR		095	7268642			0	10	13	America/Puerto_Rico	2019-10-06
+7268643	Mavilla Barrio	Mavilla Barrio		18.36298	-66.34666	A	ADM2	PR		143	7268643			0	121	116	America/Puerto_Rico	2019-10-11
+7268644	Mayagüez Arriba Barrio	Mayagueez Arriba Barrio	Mayaguez Arriba Barrio	18.20406	-67.11955	A	ADM2	PR		097	7268644			0	37	71	America/Puerto_Rico	2019-10-06
+7268645	Mayagüez Barrio-Pueblo	Mayagueez Barrio-Pueblo	Mayaguez Barrio-Pueblo	18.20363	-67.14643	A	ADM2	PR		097	7268645			0	4	10	America/Puerto_Rico	2019-10-06
+7268646	Media Luna Barrio	Media Luna Barrio		18.42375	-66.24455	A	ADM2	PR		137	7268646			0	8	11	America/Puerto_Rico	2019-10-10
+7268647	Medianía Alta Barrio	Mediania Alta Barrio	Mediania Alta Barrio	18.42395	-65.84062	A	ADM2	PR		087	7268647			0	3	3	America/Puerto_Rico	2019-10-07
+7268648	Medianía Baja Barrio	Mediania Baja Barrio	Mediania Baja Barrio	18.42553	-65.85995	A	ADM2	PR		087	7268648			0	3	5	America/Puerto_Rico	2019-10-07
+7268650	Membrillo Barrio	Membrillo Barrio		18.48132	-66.87075	A	ADM2	PR		027	7268650			0	26	30	America/Puerto_Rico	2019-10-04
+7268653	Minillas Barrio	Minillas Barrio		18.36008	-66.15458	A	ADM2	PR		021	7268653			0	37	39	America/Puerto_Rico	2019-10-04
+7268654	Minillas Barrio	Minillas Barrio		18.08581	-66.99018	A	ADM2	PR		125	7268654			0	104	109	America/Puerto_Rico	2019-10-09
+7268656	Mirabales Barrio	Mirabales Barrio		18.27805	-66.95758	A	ADM2	PR		131	7268656			0	263	266	America/Puerto_Rico	2019-10-10
+7268657	Miradero Barrio	Miradero Barrio		18.09072	-67.17824	A	ADM2	PR		023	7268657			0	15	16	America/Puerto_Rico	2019-10-04
+7268658	Miradero Barrio	Miradero Barrio		18.22499	-67.13965	A	ADM2	PR		097	7268658			0	62	70	America/Puerto_Rico	2019-10-06
+7268659	Miraflores Barrio	Miraflores Barrio		18.27882	-67.08022	A	ADM2	PR		011	7268659			0	46	62	America/Puerto_Rico	2019-10-03
+7268660	Miraflores Barrio	Miraflores Barrio		18.41679	-66.64717	A	ADM2	PR		013	7268660			0	134	143	America/Puerto_Rico	2019-10-03
+7268663	Mirasol Barrio	Mirasol Barrio		18.24415	-66.85039	A	ADM2	PR		081	7268663			0	431	435	America/Puerto_Rico	2019-10-07
+7268664	Moca Barrio-Pueblo	Moca Barrio-Pueblo		18.39291	-67.11365	A	ADM2	PR		099	7268664			0	32	41	America/Puerto_Rico	2019-10-06
+7268665	Monacillo Barrio	Monacillo Barrio		18.3605	-66.06599	A	ADM2	PR		127	7268665			0	29	46	America/Puerto_Rico	2019-10-09
+7268666	Monacillo Urbano Barrio	Monacillo Urbano Barrio		18.38071	-66.08244	A	ADM2	PR		127	7268666			0	32	37	America/Puerto_Rico	2012-07-04
+7268668	Montalva Barrio	Montalva Barrio		17.95415	-66.94766	A	ADM2	PR		055	7268668			0	42	57	America/Puerto_Rico	2019-10-08
+7268669	Montaña Barrio	Montana Barrio	Montana Barrio	18.49751	-67.09704	A	ADM2	PR		005	7268669			0	69	68	America/Puerto_Rico	2012-07-04
+7268670	Monte Grande Barrio	Monte Grande Barrio		18.07771	-67.12824	A	ADM2	PR		023	7268670			0	89	106	America/Puerto_Rico	2019-10-04
+7268671	Monte Llano Barrio	Monte Llano Barrio		18.11446	-66.13961	A	ADM2	PR		035	7268671			0	400	403	America/Puerto_Rico	2019-10-04
+7268672	Monte Llano Barrio	Monte Llano Barrio		18.20448	-66.15198	A	ADM2	PR		041	7268672			0	465	448	America/Puerto_Rico	2019-10-04
+7268673	Monte Llano Barrio	Monte Llano Barrio		18.32246	-66.39297	A	ADM2	PR		101	7268673			0	252	254	America/Puerto_Rico	2019-10-05
+7268674	Monte Llano Barrio	Monte Llano Barrio		18.10048	-66.6182	A	ADM2	PR		113	7268674			0	551	542	America/Puerto_Rico	2012-07-04
+7268677	Montones Barrio	Montones Barrio		18.15491	-65.90143	A	ADM2	PR		085	7268677			0	199	201	America/Puerto_Rico	2019-10-07
+7268678	Montoso Barrio	Montoso Barrio		18.17568	-67.01869	A	ADM2	PR		093	7268678			0	311	316	America/Puerto_Rico	2019-10-06
+7268679	Montoso Barrio	Montoso Barrio		18.19295	-67.03502	A	ADM2	PR		097	7268679			0	246	257	America/Puerto_Rico	2019-10-06
+7268680	Mora Barrio	Mora Barrio		18.48234	-67.01866	A	ADM2	PR		071	7268680			0	98	97	America/Puerto_Rico	2019-10-07
+7268681	Morovis Barrio-Pueblo	Morovis Barrio-Pueblo		18.32601	-66.40791	A	ADM2	PR		101	7268681			0	210	216	America/Puerto_Rico	2019-10-05
+7268682	Morovis Norte Barrio	Morovis Norte Barrio		18.34157	-66.40763	A	ADM2	PR		101	7268682			0	158	161	America/Puerto_Rico	2019-10-05
+7268683	Morovis Sud Barrio	Morovis Sud Barrio		18.31445	-66.41175	A	ADM2	PR		101	7268683			0	240	254	America/Puerto_Rico	2019-10-05
+7268684	Mosquito Barrio	Mosquito Barrio		18.1257	-65.51938	A	ADM2	PR		147	7268684			0	10	15	America/Puerto_Rico	2012-07-04
+7268685	Mucarabones Barrio	Mucarabones Barrio		18.38355	-66.22371	A	ADM2	PR		135	7268685			0	26	27	America/Puerto_Rico	2019-10-10
+7268686	Mula Barrio	Mula Barrio		18.24829	-66.12841	A	ADM2	PR		007	7268686			0	333	345	America/Puerto_Rico	2019-10-03
+7268687	Mulas Barrio	Mulas Barrio		18.06354	-66.02734	A	ADM2	PR		109	7268687			0	323	331	America/Puerto_Rico	2019-10-08
+7268688	Mulita Barrio	Mulita Barrio		18.25321	-66.14443	A	ADM2	PR		007	7268688			0	316	316	America/Puerto_Rico	2019-10-03
+7268689	Muñoz Rivera Barrio	Munoz Rivera Barrio	Munoz Rivera Barrio	18.07861	-66.05	A	ADM2	PR		109	7268689			0	401	427	America/Puerto_Rico	2019-10-08
+7268690	Naguabo Barrio-Pueblo	Naguabo Barrio-Pueblo		18.21153	-65.73508	A	ADM2	PR		103	7268690			0	17	20	America/Puerto_Rico	2019-10-05
+7268691	Naranjales Barrio	Naranjales Barrio		18.20774	-67.01037	A	ADM2	PR		083	7268691			0	457	463	America/Puerto_Rico	2019-10-07
+7268692	Naranjales Barrio	Naranjales Barrio		18.20818	-67.04612	A	ADM2	PR		097	7268692			0	335	330	America/Puerto_Rico	2019-10-06
+7268693	Naranjito Barrio	Naranjito Barrio		18.43644	-66.80863	A	ADM2	PR		065	7268693			0	116	125	America/Puerto_Rico	2019-10-08
+7268694	Naranjito Barrio-Pueblo	Naranjito Barrio-Pueblo		18.30149	-66.24981	A	ADM2	PR		105	7268694			0	114	122	America/Puerto_Rico	2019-10-05
+7268695	Naranjo Barrio	Naranjo Barrio		18.34539	-67.15771	A	ADM2	PR		003	7268695			0	82	80	America/Puerto_Rico	2019-10-02
+7268696	Naranjo Barrio	Naranjo Barrio		18.22884	-66.19207	A	ADM2	PR		045	7268696			0	300	292	America/Puerto_Rico	2019-10-05
+7268697	Naranjo Barrio	Naranjo Barrio		18.31588	-65.69334	A	ADM2	PR		053	7268697			0	88	98	America/Puerto_Rico	2012-07-04
+7268698	Naranjo Barrio	Naranjo Barrio		18.34252	-67.11156	A	ADM2	PR		099	7268698			0	167	157	America/Puerto_Rico	2019-10-06
+7268699	Naranjo Barrio	Naranjo Barrio		18.11627	-66.85454	A	ADM2	PR		153	7268699			0	503	522	America/Puerto_Rico	2019-10-12
+7268700	Navarro Barrio	Navarro Barrio		18.22756	-65.99874	A	ADM2	PR		063	7268700			0	80	82	America/Puerto_Rico	2019-10-08
+7268701	Negros Barrio	Negros Barrio		18.28987	-66.3321	A	ADM2	PR		047	7268701			0	484	518	America/Puerto_Rico	2019-10-05
+7268703	Nuevo Barrio	Nuevo Barrio		18.28306	-66.19205	A	ADM2	PR		021	7268703			0	333	334	America/Puerto_Rico	2019-10-04
+7268704	Nuevo Barrio	Nuevo Barrio		18.28972	-66.22204	A	ADM2	PR		105	7268704			0	299	258	America/Puerto_Rico	2019-10-05
+7268708	Oriente Barrio	Oriente Barrio		18.41455	-66.03477	A	ADM2	PR		127	7268708			0	4	7	America/Puerto_Rico	2012-07-04
+7268709	Orocovis Barrio	Orocovis Barrio		18.22223	-66.38156	A	ADM2	PR		107	7268709			0	570	572	America/Puerto_Rico	2019-10-05
+7268710	Orocovis Barrio-Pueblo	Orocovis Barrio-Pueblo		18.22515	-66.39176	A	ADM2	PR		107	7268710			0	505	508	America/Puerto_Rico	2019-10-05
+7268711	Ortíz Barrio	Ortiz Barrio	Ortiz Barrio	18.34851	-66.21486	A	ADM2	PR		135	7268711			0	89	106	America/Puerto_Rico	2019-10-10
+7268712	Ovejas Barrio	Ovejas Barrio		18.26154	-67.11371	A	ADM2	PR		011	7268712			0	76	79	America/Puerto_Rico	2019-10-03
+7268713	Padilla Barrio	Padilla Barrio		18.31205	-66.35152	A	ADM2	PR		047	7268713			0	231	238	America/Puerto_Rico	2019-10-05
+7268714	Pájaros Barrio	Pajaros Barrio	Pajaros Barrio	18.37592	-66.18626	A	ADM2	PR		021	7268714			0	30	31	America/Puerto_Rico	2019-10-04
+7268715	Palma Escrita Barrio	Palma Escrita Barrio		18.22599	-66.96529	A	ADM2	PR		083	7268715			0	450	440	America/Puerto_Rico	2019-10-07
+7268716	Palmar Barrio	Palmar Barrio		18.39971	-67.13721	A	ADM2	PR		005	7268716			0	11	21	America/Puerto_Rico	2012-06-21
+7268717	Palmarejo Barrio	Palmarejo Barrio		18.06591	-66.32604	A	ADM2	PR		043	7268717			0	282	281	America/Puerto_Rico	2019-10-05
+7268718	Palmarejo Barrio	Palmarejo Barrio		18.32912	-66.29218	A	ADM2	PR		047	7268718			0	221	229	America/Puerto_Rico	2019-10-05
+7268719	Palmarejo Barrio	Palmarejo Barrio		17.99379	-67.07566	A	ADM2	PR		079	7268719			0	46	51	America/Puerto_Rico	2019-10-07
+7268720	Palmarito Barrio	Palmarito Barrio		18.26009	-66.34314	A	ADM2	PR		047	7268720			0	604	605	America/Puerto_Rico	2019-10-05
+7268721	Palmas Altas Barrio	Palmas Altas Barrio		18.47866	-66.55709	A	ADM2	PR		017	7268721			0	0	1	America/Puerto_Rico	2012-07-04
+7268722	Palmas Barrio	Palmas Barrio		17.9711	-66.04154	A	ADM2	PR		015	7268722			0	3	4	America/Puerto_Rico	2019-10-03
+7268723	Palmas Barrio	Palmas Barrio		18.44079	-66.14244	A	ADM2	PR		033	7268723			0	0	0	America/Puerto_Rico	2019-10-04
+7268724	Palmas Barrio	Palmas Barrio		18.0133	-66.1316	A	ADM2	PR		057	7268724			0	369	383	America/Puerto_Rico	2019-10-08
+7268725	Palmas Barrio	Palmas Barrio		18.06329	-66.22147	A	ADM2	PR		123	7268725			0	451	414	America/Puerto_Rico	2019-10-09
+7268726	Palo Hincado Barrio	Palo Hincado Barrio		18.19086	-66.34972	A	ADM2	PR		019	7268726			0	643	648	America/Puerto_Rico	2019-10-04
+7268727	Palo Seco Barrio	Palo Seco Barrio		18.00407	-65.93795	A	ADM2	PR		095	7268727			0	15	74	America/Puerto_Rico	2019-10-06
+7268728	Palo Seco Barrio	Palo Seco Barrio		18.45639	-66.14756	A	ADM2	PR		137	7268728			0	0	3	America/Puerto_Rico	2019-10-10
+7268729	Palomas Barrio	Palomas Barrio		18.23307	-66.24293	A	ADM2	PR		045	7268729			0	527	532	America/Puerto_Rico	2019-10-05
+7268730	Palos Blancos Barrio	Palos Blancos Barrio		18.29125	-66.30071	A	ADM2	PR		047	7268730			0	410	406	America/Puerto_Rico	2019-10-05
+7268731	Parguera Barrio	Parguera Barrio		17.97631	-67.04331	A	ADM2	PR		079	7268731			0	11	18	America/Puerto_Rico	2019-10-07
+7268732	París Barrio	Paris Barrio	Paris Barrio	18.0499	-67.10117	A	ADM2	PR		079	7268732			0	87	90	America/Puerto_Rico	2019-10-07
+7268734	Paso Palma Barrio	Paso Palma Barrio		18.20932	-66.64543	A	ADM2	PR		141	7268734			0	368	387	America/Puerto_Rico	2019-10-11
+7268735	Pasto Barrio	Pasto Barrio		18.12084	-66.27155	A	ADM2	PR		009	7268735			0	621	619	America/Puerto_Rico	2019-10-03
+7268736	Pasto Barrio	Pasto Barrio		18.10918	-66.35021	A	ADM2	PR		043	7268736			0	238	234	America/Puerto_Rico	2019-10-05
+7268737	Pasto Barrio	Pasto Barrio		18.11471	-66.79337	A	ADM2	PR		059	7268737			0	576	613	America/Puerto_Rico	2019-10-08
+7268738	Pasto Barrio	Pasto Barrio		18.27611	-66.43241	A	ADM2	PR		101	7268738			0	357	366	America/Puerto_Rico	2019-10-05
+7268739	Pasto Viejo Barrio	Pasto Viejo Barrio		18.09639	-66.21548	A	ADM2	PR		035	7268739			0	582	592	America/Puerto_Rico	2019-10-04
+7268740	Patillas Barrio-Pueblo	Patillas Barrio-Pueblo		18.00848	-66.01485	A	ADM2	PR		109	7268740			0	25	29	America/Puerto_Rico	2019-10-08
+7268741	Pedernales Barrio	Pedernales Barrio		18.05062	-67.18102	A	ADM2	PR		023	7268741			0	27	38	America/Puerto_Rico	2019-10-04
+7268742	Pedro Avila Barrio	Pedro Avila Barrio		18.09793	-66.19521	A	ADM2	PR		035	7268742			0	555	545	America/Puerto_Rico	2019-10-04
+7268743	Pedro García Barrio	Pedro Garcia Barrio	Pedro Garcia Barrio	18.14518	-66.40464	A	ADM2	PR		043	7268743			0	611	615	America/Puerto_Rico	2019-10-05
+7268744	Pellejas Barrio	Pellejas Barrio		18.20836	-66.70816	A	ADM2	PR		001	7268744			0	400	398	America/Puerto_Rico	2012-02-17
+7268745	Pellejas Barrio	Pellejas Barrio		18.21921	-66.44408	A	ADM2	PR		107	7268745			0	786	781	America/Puerto_Rico	2019-10-05
+7268746	Peña Pobre Barrio	Pena Pobre Barrio	Pena Pobre Barrio	18.22181	-65.81627	A	ADM2	PR		103	7268746			0	126	132	America/Puerto_Rico	2019-10-05
+7268747	Peñuelas Barrio-Pueblo	Penuelas Barrio-Pueblo	Penuelas Barrio-Pueblo	18.05706	-66.72264	A	ADM2	PR		111	7268747			0	62	63	America/Puerto_Rico	2019-10-08
+7268748	Perchas 1 Barrio	Perchas 1 Barrio		18.28903	-66.92717	A	ADM2	PR		131	7268748			0	284	292	America/Puerto_Rico	2019-10-10
+7268749	Perchas 2 Barrio	Perchas 2 Barrio		18.27223	-66.92839	A	ADM2	PR		131	7268749			0	277	289	America/Puerto_Rico	2019-10-10
+7268750	Perchas Barrio	Perchas Barrio		18.27769	-66.40385	A	ADM2	PR		101	7268750			0	388	417	America/Puerto_Rico	2019-10-05
+7268751	Pesas Barrio	Pesas Barrio		18.30194	-66.49334	A	ADM2	PR		039	7268751			0	350	353	America/Puerto_Rico	2019-10-04
+7268752	Pezuela Barrio	Pezuela Barrio		18.2447	-66.89378	A	ADM2	PR		081	7268752			0	240	232	America/Puerto_Rico	2019-10-07
+7268753	Pica Barrio	Pica Barrio		18.16502	-66.64515	A	ADM2	PR		073	7268753			0	737	739	America/Puerto_Rico	2019-10-07
+7268754	Piedra Gorda Barrio	Piedra Gorda Barrio		18.41695	-66.88629	A	ADM2	PR		027	7268754			0	206	218	America/Puerto_Rico	2019-10-04
+7268755	Piedras Barrio	Piedras Barrio		18.11844	-66.21819	A	ADM2	PR		035	7268755			0	678	671	America/Puerto_Rico	2019-10-04
+7268756	Piedras Blancas Barrio	Piedras Blancas Barrio		18.36332	-67.1863	A	ADM2	PR		003	7268756			0	29	30	America/Puerto_Rico	2019-10-02
+7268757	Piedras Blancas Barrio	Piedras Blancas Barrio		18.33545	-66.97125	A	ADM2	PR		131	7268757			0	129	129	America/Puerto_Rico	2019-10-10
+7268758	Piletas Barrio	Piletas Barrio		18.33497	-66.88232	A	ADM2	PR		081	7268758			0	350	357	America/Puerto_Rico	2019-10-07
+7268759	Piñales Barrio	Pinales Barrio	Pinales Barrio	18.30033	-67.17267	A	ADM2	PR		011	7268759			0	20	24	America/Puerto_Rico	2019-10-03
+7268760	Piñas Barrio	Pinas Barrio	Pinas Barrio	18.19509	-66.22627	A	ADM2	PR		045	7268760			0	324	307	America/Puerto_Rico	2019-10-05
+7268761	Piñas Barrio	Pinas Barrio	Pinas Barrio	18.3616	-66.23681	A	ADM2	PR		135	7268761			0	30	28	America/Puerto_Rico	2019-10-10
+7268762	Pitahaya Barrio	Pitahaya Barrio		18.00056	-66.0658	A	ADM2	PR		015	7268762			0	100	100	America/Puerto_Rico	2019-10-03
+7268763	Pitahaya Barrio	Pitahaya Barrio		18.3422	-65.70703	A	ADM2	PR		089	7268763			0	70	72	America/Puerto_Rico	2019-10-06
+7268764	Planas Barrio	Planas Barrio		18.40151	-66.95671	A	ADM2	PR		071	7268764			0	310	299	America/Puerto_Rico	2019-10-07
+7268765	Plata Barrio	Plata Barrio		18.16103	-66.23562	A	ADM2	PR		009	7268765			0	316	320	America/Puerto_Rico	2012-07-04
+7268766	Plata Barrio	Plata Barrio		18.02418	-66.98241	A	ADM2	PR		079	7268766			0	7	12	America/Puerto_Rico	2019-10-07
+7268767	Plata Barrio	Plata Barrio		18.32683	-67.04824	A	ADM2	PR		099	7268767			0	108	123	America/Puerto_Rico	2019-10-06
+7268768	Playa Barrio	Playa Barrio		18.28339	-67.1905	A	ADM2	PR		011	7268768			0	2	6	America/Puerto_Rico	2019-10-03
+7268769	Playa Barrio	Playa Barrio		18.00718	-66.76992	A	ADM2	PR		059	7268769			0	0	6	America/Puerto_Rico	2019-10-08
+7268770	Playa Barrio	Playa Barrio		17.98716	-66.61405	A	ADM2	PR		113	7268770			4500	0	8	America/Puerto_Rico	2019-10-08
+7268771	Playa Barrio	Playa Barrio		17.95445	-66.40884	A	ADM2	PR		133	7268771			0	3	5	America/Puerto_Rico	2019-10-10
+7268772	Playa Barrio	Playa Barrio		18.07509	-65.82708	A	ADM2	PR		151	7268772			0	30	28	America/Puerto_Rico	2019-10-12
+7268773	Playa Sardinas I Barrio	Playa Sardinas I Barrio		18.30481	-65.3075	A	ADM2	PR		049	7268773			0	0	34	America/Puerto_Rico	2019-10-05
+7268774	Playa Sardinas II Barrio	Playa Sardinas II Barrio	Playa Sardinas Ii Barrio	18.27778	-65.28627	A	ADM2	PR		049	7268774			0	8	7	America/Puerto_Rico	2019-10-05
+7268776	Pollos Barrio	Pollos Barrio		17.99213	-65.99956	A	ADM2	PR		109	7268776			0	24	36	America/Puerto_Rico	2019-10-08
+7268777	Portillo Barrio	Portillo Barrio		18.22807	-66.80004	A	ADM2	PR		001	7268777			0	552	565	America/Puerto_Rico	2012-02-17
+7268778	Portugués Barrio	Portugues Barrio	Portugues Barrio	18.14165	-66.68296	A	ADM2	PR		001	7268778			0	667	685	America/Puerto_Rico	2012-02-18
+7268779	Portugués Barrio	Portugues Barrio	Portugues Barrio	18.05933	-66.61742	A	ADM2	PR		113	7268779			0	169	181	America/Puerto_Rico	2019-10-08
+7268780	Portugués Urbano Barrio	Portugues Urbano Barrio	Portugues Urbano Barrio	18.02688	-66.62224	A	ADM2	PR		113	7268780			0	114	122	America/Puerto_Rico	2012-07-04
+7268781	Pozas Barrio	Pozas Barrio		18.27139	-66.47776	A	ADM2	PR		039	7268781			0	368	342	America/Puerto_Rico	2019-10-04
+7268782	Pozas Barrio	Pozas Barrio		18.33263	-67.01847	A	ADM2	PR		131	7268782			0	85	84	America/Puerto_Rico	2019-10-10
+7268784	Pozo Hondo Barrio	Pozo Hondo Barrio		17.9988	-66.16832	A	ADM2	PR		057	7268784			0	96	95	America/Puerto_Rico	2019-10-08
+7268785	Primero Barrio	Primero Barrio		18.00794	-66.61947	A	ADM2	PR		113	7268785			0	10	13	America/Puerto_Rico	2019-10-08
+7268786	Pueblo Barrio	Pueblo Barrio		18.34581	-66.30542	A	ADM2	PR		047	7268786			0	112	120	America/Puerto_Rico	2012-07-04
+7268787	Pueblo Barrio	Pueblo Barrio		18.30323	-66.89449	A	ADM2	PR		081	7268787			0	358	362	America/Puerto_Rico	2019-10-07
+7268788	Pueblo Barrio	Pueblo Barrio		18.39938	-67.10399	A	ADM2	PR		099	7268788			0	67	70	America/Puerto_Rico	2019-10-06
+7268789	Pueblo Barrio	Pueblo Barrio		18.33181	-67.23835	A	ADM2	PR		117	7268789			0	40	42	America/Puerto_Rico	2012-07-04
+7268790	Pueblo Barrio	Pueblo Barrio		18.39385	-66.04774	A	ADM2	PR		127	7268790			0	63	59	America/Puerto_Rico	2012-07-04
+7268822	Pueblo Viejo Barrio	Pueblo Viejo Barrio		18.41409	-66.11421	A	ADM2	PR		061	7268822			0	23	29	America/Puerto_Rico	2019-10-08
+7268823	Puente Barrio	Puente Barrio		18.47547	-66.84954	A	ADM2	PR		027	7268823			0	62	63	America/Puerto_Rico	2019-10-04
+7268825	Puerto Diablo Barrio	Puerto Diablo Barrio		18.13848	-65.35538	A	ADM2	PR		147	7268825			0	17	19	America/Puerto_Rico	2019-10-12
+7268826	Puerto Ferro Barrio	Puerto Ferro Barrio		18.1161	-65.41757	A	ADM2	PR		147	7268826			0	7	9	America/Puerto_Rico	2019-10-12
+7268827	Puerto Nuevo Barrio	Puerto Nuevo Barrio		18.48465	-66.4063	A	ADM2	PR		145	7268827			0	0	6	America/Puerto_Rico	2019-10-12
+7268829	Puerto Real Barrio	Puerto Real Barrio		18.10603	-65.46942	A	ADM2	PR		147	7268829			0	16	16	America/Puerto_Rico	2019-10-12
+7268831	Puertos Barrio	Puertos Barrio		18.39282	-66.8881	A	ADM2	PR		027	7268831			0	295	288	America/Puerto_Rico	2019-10-04
+7268832	Pugnado Adentro Barrio	Pugnado Adentro Barrio		18.38718	-66.42871	A	ADM2	PR		145	7268832			0	163	168	America/Puerto_Rico	2019-10-12
+7268833	Pugnado Afuera Barrio	Pugnado Afuera Barrio		18.41789	-66.41528	A	ADM2	PR		145	7268833			0	97	100	America/Puerto_Rico	2019-10-12
+7268835	Pulguillas Barrio	Pulguillas Barrio		18.14905	-66.33114	A	ADM2	PR		043	7268835			0	796	778	America/Puerto_Rico	2019-10-05
+7268836	Punta Arenas Barrio	Punta Arenas Barrio		18.1063	-65.56038	A	ADM2	PR		147	7268836			0	16	16	America/Puerto_Rico	2019-10-12
+7268837	Punta Santiago Barrio	Punta Santiago Barrio		18.16468	-65.75043	A	ADM2	PR		069	7268837			0	1	4	America/Puerto_Rico	2019-10-08
+7268838	Puntas Barrio	Puntas Barrio		18.36267	-67.25835	A	ADM2	PR		117	7268838			0	77	71	America/Puerto_Rico	2019-10-09
+7268839	Purísima Concepción Barrio	Purisima Concepcion Barrio	Purisima Concepcion Barrio	18.24968	-66.94032	A	ADM2	PR		083	7268839			0	309	338	America/Puerto_Rico	2019-10-07
+7268840	Quebrada Arenas Barrio	Quebrada Arenas Barrio		18.19864	-65.87498	A	ADM2	PR		085	7268840			0	107	122	America/Puerto_Rico	2019-10-07
+7268841	Quebrada Arenas Barrio	Quebrada Arenas Barrio		18.02182	-65.89323	A	ADM2	PR		095	7268841			0	42	53	America/Puerto_Rico	2019-10-06
+7268842	Quebrada Arenas Barrio	Quebrada Arenas Barrio		18.31323	-66.07679	A	ADM2	PR		127	7268842			0	136	143	America/Puerto_Rico	2019-10-09
+7268843	Quebrada Arenas Barrio	Quebrada Arenas Barrio		18.11147	-65.95675	A	ADM2	PR		129	7268843			0	290	297	America/Puerto_Rico	2019-10-10
+7268844	Quebrada Arenas Barrio	Quebrada Arenas Barrio		18.35761	-66.27965	A	ADM2	PR		135	7268844			0	130	139	America/Puerto_Rico	2019-10-10
+7268845	Quebrada Arenas Barrio	Quebrada Arenas Barrio		18.3785	-66.40586	A	ADM2	PR		145	7268845			0	136	146	America/Puerto_Rico	2019-10-12
+7268846	Quebrada Arriba Barrio	Quebrada Arriba Barrio		18.09348	-66.1515	A	ADM2	PR		035	7268846			0	753	756	America/Puerto_Rico	2019-10-04
+7268847	Quebrada Arriba Barrio	Quebrada Arriba Barrio		18.04886	-66.07085	A	ADM2	PR		109	7268847			0	216	211	America/Puerto_Rico	2019-10-08
+7268848	Quebrada Barrio	Quebrada Barrio		18.36996	-66.8388	A	ADM2	PR		027	7268848			0	289	292	America/Puerto_Rico	2019-10-04
+7268849	Quebrada Barrio	Quebrada Barrio		18.21324	-65.96808	A	ADM2	PR		129	7268849			0	167	169	America/Puerto_Rico	2019-10-10
+7268850	Quebrada Ceiba Barrio	Quebrada Ceiba Barrio		18.07343	-66.70992	A	ADM2	PR		111	7268850			0	174	178	America/Puerto_Rico	2019-10-08
+7268851	Quebrada Cruz Barrio	Quebrada Cruz Barrio		18.33978	-66.25636	A	ADM2	PR		135	7268851			0	118	122	America/Puerto_Rico	2019-10-10
+7268852	Quebrada Fajardo Barrio	Quebrada Fajardo Barrio		18.34677	-65.66154	A	ADM2	PR		053	7268852			0	0	11	America/Puerto_Rico	2019-10-05
+7268853	Quebrada Grande Barrio	Quebrada Grande Barrio		18.19888	-66.28046	A	ADM2	PR		019	7268853			0	601	600	America/Puerto_Rico	2019-10-04
+7268854	Quebrada Grande Barrio	Quebrada Grande Barrio		18.18148	-67.12156	A	ADM2	PR		097	7268854			0	90	94	America/Puerto_Rico	2019-10-06
+7268855	Quebrada Grande Barrio	Quebrada Grande Barrio		18.31367	-65.96073	A	ADM2	PR		139	7268855			0	117	123	America/Puerto_Rico	2019-10-10
+7268856	Quebrada Honda Barrio	Quebrada Honda Barrio		18.08231	-66.77987	A	ADM2	PR		059	7268856			0	281	288	America/Puerto_Rico	2019-10-08
+7268857	Quebrada Honda Barrio	Quebrada Honda Barrio		18.13975	-65.99338	A	ADM2	PR		129	7268857			0	201	216	America/Puerto_Rico	2019-10-10
+7268858	Quebrada Infierno Barrio	Quebrada Infierno Barrio		18.29896	-65.99511	A	ADM2	PR		063	7268858			0	168	174	America/Puerto_Rico	2019-10-08
+7268859	Quebrada Larga Barrio	Quebrada Larga Barrio		18.30694	-67.14921	A	ADM2	PR		011	7268859			0	75	77	America/Puerto_Rico	2019-10-03
+7268860	Quebrada Limón Barrio	Quebrada Limon Barrio	Quebrada Limon Barrio	18.05544	-66.67213	A	ADM2	PR		113	7268860			0	117	113	America/Puerto_Rico	2019-10-09
+7268861	Quebrada Negrito Barrio	Quebrada Negrito Barrio		18.31936	-65.98845	A	ADM2	PR		139	7268861			0	76	90	America/Puerto_Rico	2019-10-10
+7268862	Quebrada Seca Barrio	Quebrada Seca Barrio		18.23202	-65.66455	A	ADM2	PR		037	7268862			0	14	14	America/Puerto_Rico	2019-10-04
+7268863	Quebrada Vueltas Barrio	Quebrada Vueltas Barrio		18.30641	-65.64475	A	ADM2	PR		053	7268863			0	10	9	America/Puerto_Rico	2019-10-05
+7268864	Quebrada Yeguas Barrio	Quebrada Yeguas Barrio		18.03738	-66.20299	A	ADM2	PR		123	7268864			0	188	179	America/Puerto_Rico	2019-10-09
+7268865	Quebradas Barrio	Quebradas Barrio		18.03744	-66.81069	A	ADM2	PR		059	7268865			0	55	57	America/Puerto_Rico	2023-08-03
+7268866	Quebradas Barrio	Quebradas Barrio		18.05986	-66.82851	A	ADM2	PR		153	7268866			0	88	96	America/Puerto_Rico	2019-10-12
+7268867	Quebradillas Barrio	Quebradillas Barrio		18.22518	-66.28911	A	ADM2	PR		019	7268867			0	539	564	America/Puerto_Rico	2019-10-04
+7268868	Quebradillas Barrio-Pueblo	Quebradillas Barrio-Pueblo		18.47277	-66.938	A	ADM2	PR		115	7268868			0	113	119	America/Puerto_Rico	2019-10-09
+7268869	Quemado Barrio	Quemado Barrio		18.21442	-67.09164	A	ADM2	PR		097	7268869			0	161	173	America/Puerto_Rico	2019-10-06
+7268870	Quemados Barrio	Quemados Barrio		18.17724	-65.99129	A	ADM2	PR		129	7268870			0	139	149	America/Puerto_Rico	2019-10-10
+7268872	Quinto Barrio	Quinto Barrio		18.01473	-66.61046	A	ADM2	PR		113	7268872			0	20	22	America/Puerto_Rico	2019-10-09
+7268873	Rabanal Barrio	Rabanal Barrio		18.17079	-66.19334	A	ADM2	PR		041	7268873			0	535	540	America/Puerto_Rico	2019-10-04
+7268874	Ranchera Barrio	Ranchera Barrio		18.11104	-66.89667	A	ADM2	PR		153	7268874			0	476	479	America/Puerto_Rico	2019-10-12
+7268875	Rayo Barrio	Rayo Barrio		18.05422	-66.96512	A	ADM2	PR		121	7268875			0	82	87	America/Puerto_Rico	2019-10-09
+7268876	Real Barrio	Real Barrio		18.08665	-66.56061	A	ADM2	PR		113	7268876			0	143	143	America/Puerto_Rico	2019-10-09
+7268878	Retiro Barrio	Retiro Barrio		18.06946	-67.02249	A	ADM2	PR		125	7268878			0	127	171	America/Puerto_Rico	2019-10-09
+7268879	Rincón Barrio	Rincon Barrio	Rincon Barrio	18.13064	-66.15502	A	ADM2	PR		035	7268879			0	420	424	America/Puerto_Rico	2019-10-04
+7268880	Rincón Barrio	Rincon Barrio	Rincon Barrio	18.15094	-66.16946	A	ADM2	PR		041	7268880			0	471	455	America/Puerto_Rico	2019-10-04
+7268881	Rincón Barrio	Rincon Barrio	Rincon Barrio	18.24959	-65.99086	A	ADM2	PR		063	7268881			0	61	65	America/Puerto_Rico	2012-07-04
+7268882	Rincón Barrio	Rincon Barrio	Rincon Barrio	18.09265	-66.94227	A	ADM2	PR		121	7268882			0	143	147	America/Puerto_Rico	2019-10-09
+7268883	Rincón Barrio-Pueblo	Rincon Barrio-Pueblo	Rincon Barrio-Pueblo	18.33898	-67.25077	A	ADM2	PR		117	7268883			0	8	10	America/Puerto_Rico	2019-10-09
+7268884	Río Abajo Barrio	Rio Abajo Barrio	Rio Abajo Barrio	18.27075	-65.72344	A	ADM2	PR		037	7268884			0	107	111	America/Puerto_Rico	2019-10-04
+7268885	Río Abajo Barrio	Rio Abajo Barrio	Rio Abajo Barrio	18.18708	-66.18989	A	ADM2	PR		041	7268885			0	423	458	America/Puerto_Rico	2019-10-04
+7268886	Río Abajo Barrio	Rio Abajo Barrio	Rio Abajo Barrio	18.14069	-65.78493	A	ADM2	PR		069	7268886			0	2	2	America/Puerto_Rico	2019-10-08
+7268887	Río Abajo Barrio	Rio Abajo Barrio	Rio Abajo Barrio	18.31098	-66.69749	A	ADM2	PR		141	7268887			0	326	321	America/Puerto_Rico	2019-10-11
+7268888	Río Abajo Barrio	Rio Abajo Barrio	Rio Abajo Barrio	18.42997	-66.38196	A	ADM2	PR		145	7268888			0	13	14	America/Puerto_Rico	2019-10-12
+7268889	Río Arriba Barrio	Rio Arriba Barrio	Rio Arriba Barrio	18.27708	-67.05048	A	ADM2	PR		011	7268889			0	163	160	America/Puerto_Rico	2019-10-03
+7268890	Río Arriba Barrio	Rio Arriba Barrio	Rio Arriba Barrio	18.33567	-66.68656	A	ADM2	PR		013	7268890			0	341	336	America/Puerto_Rico	2019-10-03
+7268891	Río Arriba Barrio	Rio Arriba Barrio	Rio Arriba Barrio	18.28988	-65.708	A	ADM2	PR		053	7268891			0	131	123	America/Puerto_Rico	2019-10-05
+7268892	Río Arriba Barrio	Rio Arriba Barrio	Rio Arriba Barrio	18.39869	-66.39297	A	ADM2	PR		145	7268892			0	118	113	America/Puerto_Rico	2019-10-12
+7268893	Río Arriba Poniente Barrio	Rio Arriba Poniente Barrio	Rio Arriba Poniente Barrio	18.38251	-66.51138	A	ADM2	PR		091	7268893			0	188	196	America/Puerto_Rico	2019-10-06
+7268894	Río Arriba Saliente Barrio	Rio Arriba Saliente Barrio	Rio Arriba Saliente Barrio	18.38684	-66.47132	A	ADM2	PR		091	7268894			0	201	217	America/Puerto_Rico	2019-10-06
+7268895	Río Barrio	Rio Barrio	Rio Barrio	18.32108	-66.09345	A	ADM2	PR		061	7268895			0	143	141	America/Puerto_Rico	2019-10-08
+7268896	Río Barrio	Rio Barrio	Rio Barrio	18.18684	-65.73902	A	ADM2	PR		103	7268896			0	1	2	America/Puerto_Rico	2019-10-05
+7268897	Río Blanco Barrio	Rio Blanco Barrio	Rio Blanco Barrio	18.25071	-65.79043	A	ADM2	PR		103	7268897			0	243	253	America/Puerto_Rico	2019-10-05
+7268898	Río Cañas Abajo Barrio	Rio Canas Abajo Barrio	Rio Canas Abajo Barrio	18.00712	-66.45613	A	ADM2	PR		075	7268898			0	0	11	America/Puerto_Rico	2019-10-07
+7268899	Río Cañas Abajo Barrio	Rio Canas Abajo Barrio	Rio Canas Abajo Barrio	18.22996	-67.11011	A	ADM2	PR		097	7268899			0	135	159	America/Puerto_Rico	2019-10-06
+7268900	Río Cañas Arriba Barrio	Rio Canas Arriba Barrio	Rio Canas Arriba Barrio	18.05396	-66.44818	A	ADM2	PR		075	7268900			0	138	141	America/Puerto_Rico	2019-10-07
+7268901	Río Cañas Arriba Barrio	Rio Canas Arriba Barrio	Rio Canas Arriba Barrio	18.22819	-67.05854	A	ADM2	PR		097	7268901			0	270	276	America/Puerto_Rico	2019-10-06
+7268902	Río Cañas Barrio	Rio Canas Barrio	Rio Canas Barrio	18.2532	-67.12584	A	ADM2	PR		011	7268902			0	35	40	America/Puerto_Rico	2012-07-04
+7268903	Río Cañas Barrio	Rio Canas Barrio	Rio Canas Barrio	18.28388	-66.04971	A	ADM2	PR		025	7268903			0	118	136	America/Puerto_Rico	2019-10-04
+7268904	Río Cañas Barrio	Rio Canas Barrio	Rio Canas Barrio	18.2318	-67.03615	A	ADM2	PR		083	7268904			0	315	325	America/Puerto_Rico	2019-10-07
+7268905	Río Grande Barrio	Rio Grande Barrio	Rio Grande Barrio	18.37111	-67.2287	A	ADM2	PR		003	7268905			0	11	20	America/Puerto_Rico	2019-10-02
+7268906	Río Grande Barrio	Rio Grande Barrio	Rio Grande Barrio	18.23004	-66.57203	A	ADM2	PR		073	7268906			0	593	603	America/Puerto_Rico	2019-10-07
+7268907	Río Grande Barrio	Rio Grande Barrio	Rio Grande Barrio	18.29534	-66.41209	A	ADM2	PR		101	7268907			0	139	145	America/Puerto_Rico	2019-10-05
+7268908	Río Grande Barrio	Rio Grande Barrio	Rio Grande Barrio	18.3611	-67.23745	A	ADM2	PR		117	7268908			0	9	21	America/Puerto_Rico	2019-10-09
+7268909	Río Grande Barrio-Pueblo	Rio Grande Barrio-Pueblo	Rio Grande Barrio-Pueblo	18.37997	-65.83084	A	ADM2	PR		119	7268909			0	10	13	America/Puerto_Rico	2019-10-09
+7268910	Río Hondo Barrio	Rio Hondo Barrio	Rio Hondo Barrio	18.20819	-66.2514	A	ADM2	PR		045	7268910			0	396	385	America/Puerto_Rico	2019-10-05
+7268911	Río Hondo Barrio	Rio Hondo Barrio	Rio Hondo Barrio	18.16563	-67.12718	A	ADM2	PR		097	7268911			0	35	38	America/Puerto_Rico	2019-10-06
+7268912	Río Jueyes Barrio	Rio Jueyes Barrio	Rio Jueyes Barrio	17.99751	-66.31114	A	ADM2	PR		123	7268912			0	50	48	America/Puerto_Rico	2019-10-09
+7268913	Río Lajas Barrio	Rio Lajas Barrio	Rio Lajas Barrio	18.39719	-66.26454	A	ADM2	PR		051	7268913			0	75	64	America/Puerto_Rico	2019-10-05
+7268914	Río Lajas Barrio	Rio Lajas Barrio	Rio Lajas Barrio	18.37424	-66.29448	A	ADM2	PR		135	7268914			0	120	145	America/Puerto_Rico	2019-10-10
+7268916	Río Prieto Barrio	Rio Prieto Barrio	Rio Prieto Barrio	18.21184	-66.88883	A	ADM2	PR		081	7268916			0	473	486	America/Puerto_Rico	2019-10-07
+7268917	Río Prieto Barrio	Rio Prieto Barrio	Rio Prieto Barrio	18.1477	-66.82981	A	ADM2	PR		153	7268917			0	857	849	America/Puerto_Rico	2019-10-12
+7268919	Ríos Barrio	Rios Barrio	Rios Barrio	18.01137	-65.96548	A	ADM2	PR		109	7268919			0	176	181	America/Puerto_Rico	2019-10-08
+7268920	Robles Barrio	Robles Barrio		18.13336	-66.23888	A	ADM2	PR		009	7268920			0	625	623	America/Puerto_Rico	2019-10-03
+7268921	Robles Barrio	Robles Barrio		18.37499	-66.98188	A	ADM2	PR		131	7268921			0	174	174	America/Puerto_Rico	2019-10-10
+7268922	Rocha Barrio	Rocha Barrio		18.40088	-67.05088	A	ADM2	PR		099	7268922			0	266	274	America/Puerto_Rico	2019-10-06
+7268923	Roncador Barrio	Roncador Barrio		18.26024	-66.74871	A	ADM2	PR		141	7268923			0	375	381	America/Puerto_Rico	2019-10-11
+7268924	Rosario Alto Barrio	Rosario Alto Barrio		18.15322	-67.03221	A	ADM2	PR		125	7268924			0	431	428	America/Puerto_Rico	2019-10-09
+7268925	Rosario Bajo Barrio	Rosario Bajo Barrio		18.16016	-67.072	A	ADM2	PR		125	7268925			0	84	99	America/Puerto_Rico	2019-10-09
+7268926	Rosario Barrio	Rosario Barrio		18.1677	-67.09061	A	ADM2	PR		097	7268926			0	198	182	America/Puerto_Rico	2019-10-06
+7268927	Rosario Peñón Barrio	Rosario Penon Barrio	Rosario Penon Barrio	18.15498	-67.0554	A	ADM2	PR		125	7268927			0	164	186	America/Puerto_Rico	2019-10-09
+7268930	Rubias Barrio	Rubias Barrio		18.13326	-66.87946	A	ADM2	PR		153	7268930			0	507	527	America/Puerto_Rico	2019-10-12
+7268931	Rucio Barrio	Rucio Barrio		18.10278	-66.69862	A	ADM2	PR		111	7268931			0	491	510	America/Puerto_Rico	2019-10-08
+7268932	Rufina Barrio	Rufina Barrio		18.00231	-66.78877	A	ADM2	PR		059	7268932			0	3	4	America/Puerto_Rico	2019-10-08
+7268933	Sábalos Barrio	Sabalos Barrio	Sabalos Barrio	18.18044	-67.1496	A	ADM2	PR		097	7268933			0	10	18	America/Puerto_Rico	2019-10-06
+7268934	Sabana Abajo Barrio	Sabana Abajo Barrio		18.41628	-65.98328	A	ADM2	PR		031	7268934			0	4	6	America/Puerto_Rico	2019-10-04
+7268935	Sabana Barrio	Sabana Barrio		18.32027	-65.73507	A	ADM2	PR		089	7268935			0	215	218	America/Puerto_Rico	2019-10-07
+7268936	Sabana Barrio	Sabana Barrio		18.2047	-66.37823	A	ADM2	PR		107	7268936			0	799	807	America/Puerto_Rico	2019-10-05
+7268937	Sabana Barrio	Sabana Barrio		18.45656	-66.33285	A	ADM2	PR		143	7268937			0	3	0	America/Puerto_Rico	2019-10-11
+7268938	Sabana Eneas Barrio	Sabana Eneas Barrio		18.08744	-67.09233	A	ADM2	PR		125	7268938			0	23	31	America/Puerto_Rico	2019-10-09
+7268939	Sabana Grande Abajo Barrio	Sabana Grande Abajo Barrio		18.09674	-67.0648	A	ADM2	PR		125	7268939			0	26	30	America/Puerto_Rico	2019-10-09
+7268940	Sabana Grande Barrio	Sabana Grande Barrio		18.29286	-66.68068	A	ADM2	PR		141	7268940			0	407	407	America/Puerto_Rico	2019-10-11
+7268941	Sabana Grande Barrio-Pueblo	Sabana Grande Barrio-Pueblo		18.07894	-66.96053	A	ADM2	PR		121	7268941			0	98	103	America/Puerto_Rico	2019-10-09
+7268942	Sabana Hoyos Barrio	Sabana Hoyos Barrio		18.37712	-66.61457	A	ADM2	PR		013	7268942			0	229	229	America/Puerto_Rico	2019-10-03
+7268943	Sabana Llana Barrio	Sabana Llana Barrio		18.0269	-66.52685	A	ADM2	PR		075	7268943			0	23	20	America/Puerto_Rico	2019-10-07
+7268944	Sabana Llana Norte Barrio	Sabana Llana Norte Barrio		18.4064	-66.0124	A	ADM2	PR		127	7268944			0	10	13	America/Puerto_Rico	2019-10-10
+7268945	Sabana Llana Sur Barrio	Sabana Llana Sur Barrio		18.38649	-66.02574	A	ADM2	PR		127	7268945			0	69	69	America/Puerto_Rico	2019-10-10
+7268946	Sabana Seca Barrio	Sabana Seca Barrio		18.44509	-66.19978	A	ADM2	PR		137	7268946			0	0	-1	America/Puerto_Rico	2019-10-10
+7268947	Sabana Yeguas Barrio	Sabana Yeguas Barrio		18.02327	-67.05016	A	ADM2	PR		079	7268947			0	13	21	America/Puerto_Rico	2019-10-07
+7268948	Sabanetas Barrio	Sabanetas Barrio		18.25417	-67.17809	A	ADM2	PR		097	7268948			0	2	7	America/Puerto_Rico	2019-10-06
+7268949	Sabanetas Barrio	Sabanetas Barrio		18.01983	-66.57852	A	ADM2	PR		113	7268949			0	37	40	America/Puerto_Rico	2019-10-09
+7268950	Saco Barrio	Saco Barrio		18.27341	-65.66603	A	ADM2	PR		037	7268950			0	57	65	America/Puerto_Rico	2019-10-04
+7268952	Saliente Barrio	Saliente Barrio		18.18013	-66.5526	A	ADM2	PR		073	7268952			0	772	774	America/Puerto_Rico	2012-07-04
+7268953	Salinas Barrio-Pueblo	Salinas Barrio-Pueblo		17.97919	-66.29663	A	ADM2	PR		123	7268953			0	7	10	America/Puerto_Rico	2019-10-09
+7268954	Saltillo Barrio	Saltillo Barrio		18.13671	-66.72066	A	ADM2	PR		001	7268954			0	953	966	America/Puerto_Rico	2012-02-18
+7268955	Salto Abajo Barrio	Salto Abajo Barrio		18.28083	-66.70938	A	ADM2	PR		141	7268955			0	151	151	America/Puerto_Rico	2019-10-11
+7268956	Salto Arriba Barrio	Salto Arriba Barrio		18.26838	-66.72926	A	ADM2	PR		141	7268956			0	214	228	America/Puerto_Rico	2019-10-11
+7268957	Salto Barrio	Salto Barrio		18.16961	-66.22509	A	ADM2	PR		041	7268957			0	382	391	America/Puerto_Rico	2019-10-04
+7268958	Salto Barrio	Salto Barrio		18.37901	-67.01235	A	ADM2	PR		131	7268958			0	106	112	America/Puerto_Rico	2019-10-10
+7268959	Saltos Barrio	Saltos Barrio		18.20219	-66.41276	A	ADM2	PR		107	7268959			0	934	943	America/Puerto_Rico	2019-10-05
+7268961	San Antón Barrio	San Anton Barrio	San Anton Barrio	18.38858	-65.99037	A	ADM2	PR		031	7268961			0	81	67	America/Puerto_Rico	2019-10-04
+7268962	San Antón Barrio	San Anton Barrio	San Anton Barrio	18.00558	-66.60145	A	ADM2	PR		113	7268962			0	13	14	America/Puerto_Rico	2019-10-09
+7268963	San Antonio Barrio	San Antonio Barrio		18.30085	-66.03693	A	ADM2	PR		025	7268963			0	49	57	America/Puerto_Rico	2019-10-04
+7268964	San Antonio Barrio	San Antonio Barrio		18.42755	-66.91944	A	ADM2	PR		115	7268964			0	233	236	America/Puerto_Rico	2019-10-05
+7268970	San Germán Barrio-Pueblo	San German Barrio-Pueblo	San German Barrio-Pueblo	18.08102	-67.04329	A	ADM2	PR		125	7268970			0	61	74	America/Puerto_Rico	2019-10-09
+7268971	San Ildefonso Barrio	San Ildefonso Barrio		18.05093	-66.3558	A	ADM2	PR		043	7268971			0	135	144	America/Puerto_Rico	2019-10-05
+7268972	San Isidro Barrio	San Isidro Barrio		18.32132	-65.26665	A	ADM2	PR		049	7268972			0	0	125	America/Puerto_Rico	2019-10-05
+7268973	San José Barrio	San Jose Barrio	San Jose Barrio	18.47697	-66.9156	A	ADM2	PR		115	7268973			0	104	115	America/Puerto_Rico	2019-10-09
+7268975	San Juan Antiguo Barrio	San Juan Antiguo Barrio		18.46611	-66.10884	A	ADM2	PR		127	7268975			0	6	8	America/Puerto_Rico	2019-10-10
+7268978	San Lorenzo Barrio	San Lorenzo Barrio		18.30644	-66.43817	A	ADM2	PR		101	7268978			0	73	81	America/Puerto_Rico	2019-10-06
+7268979	San Lorenzo Barrio-Pueblo	San Lorenzo Barrio-Pueblo		18.191	-65.96298	A	ADM2	PR		129	7268979			0	78	82	America/Puerto_Rico	2019-10-10
+7268982	San Patricio Barrio	San Patricio Barrio		18.13604	-66.6427	A	ADM2	PR		113	7268982			0	641	636	America/Puerto_Rico	2019-10-09
+7268983	San Salvador Barrio	San Salvador Barrio		18.13729	-66.04726	A	ADM2	PR		025	7268983			0	351	362	America/Puerto_Rico	2019-10-04
+7268984	San Sebastián Barrio-Pueblo	San Sebastian Barrio-Pueblo	San Sebastian Barrio-Pueblo	18.3368	-66.99003	A	ADM2	PR		131	7268984			0	77	83	America/Puerto_Rico	2019-10-10
+7268986	Santa Catalina Barrio	Santa Catalina Barrio		18.10098	-66.40548	A	ADM2	PR		043	7268986			0	285	271	America/Puerto_Rico	2019-10-05
+7268987	Santa Cruz Barrio	Santa Cruz Barrio		18.34906	-65.93979	A	ADM2	PR		031	7268987			0	120	123	America/Puerto_Rico	2019-10-04
+7268988	Santa Isabel Barrio	Santa Isabel Barrio		18.25119	-66.80966	A	ADM2	PR		141	7268988			0	525	564	America/Puerto_Rico	2019-10-11
+7268989	Santa Isabel Barrio-Pueblo	Santa Isabel Barrio-Pueblo		17.96848	-66.40494	A	ADM2	PR		133	7268989			0	10	8	America/Puerto_Rico	2019-10-10
+7268990	Santa Olaya Barrio	Santa Olaya Barrio		18.3171	-66.16461	A	ADM2	PR		021	7268990			0	94	115	America/Puerto_Rico	2019-10-04
+7268992	Santa Rosa Barrio	Santa Rosa Barrio		18.35214	-66.12777	A	ADM2	PR		061	7268992			0	81	81	America/Puerto_Rico	2019-10-08
+7268993	Santa Rosa Barrio	Santa Rosa Barrio		18.05157	-67.0396	A	ADM2	PR		079	7268993			0	60	72	America/Puerto_Rico	2019-10-07
+7268994	Santa Rosa Barrio	Santa Rosa Barrio		18.32907	-66.74999	A	ADM2	PR		141	7268994			0	345	361	America/Puerto_Rico	2019-10-11
+7268995	Santana Barrio	Santana Barrio		18.45347	-66.66478	A	ADM2	PR		013	7268995			0	3	9	America/Puerto_Rico	2019-10-03
+7268996	Santana Barrio	Santana Barrio		18.10992	-66.96685	A	ADM2	PR		121	7268996			0	316	326	America/Puerto_Rico	2019-10-09
+7268997	Santiago Barrio	Santiago Barrio		18.3985	-66.83172	A	ADM2	PR		027	7268997			0	231	235	America/Puerto_Rico	2019-10-04
+7268999	Santiago y Lima Barrio	Santiago y Lima Barrio		18.1984	-65.69945	A	ADM2	PR		103	7268999			0	0	82	America/Puerto_Rico	2019-10-05
+7269000	Santo Domingo Barrio	Santo Domingo Barrio		18.06416	-66.74734	A	ADM2	PR		111	7269000			0	135	140	America/Puerto_Rico	2019-10-08
+7269002	Santurce Barrio	Santurce Barrio	San Turce,Santurce	18.44084	-66.04714	A	ADM2	PR		127	7269002			0	3	8	America/Puerto_Rico	2012-07-04
+7269003	Sardinera Barrio	Sardinera Barrio		18.34676	-65.63963	A	ADM2	PR		053	7269003			0	14	18	America/Puerto_Rico	2019-10-05
+7269005	Segundo Barrio	Segundo Barrio		18.01568	-66.62127	A	ADM2	PR		113	7269005			0	37	37	America/Puerto_Rico	2019-10-09
+7269006	Sexto Barrio	Sexto Barrio		18.02124	-66.61172	A	ADM2	PR		113	7269006			0	23	26	America/Puerto_Rico	2019-10-09
+7269008	Sierra Alta Barrio	Sierra Alta Barrio		18.0903	-66.81726	A	ADM2	PR		153	7269008			0	209	219	America/Puerto_Rico	2019-10-12
+7269009	Sierra Baja Barrio	Sierra Baja Barrio		18.07763	-66.79772	A	ADM2	PR		059	7269009			0	149	149	America/Puerto_Rico	2019-10-08
+7269010	Sonador Barrio	Sonador Barrio		18.31487	-67.02764	A	ADM2	PR		131	7269010			0	140	148	America/Puerto_Rico	2019-10-10
+7269011	Sonadora Barrio	Sonadora Barrio		18.2705	-66.11921	A	ADM2	PR		007	7269011			0	368	374	America/Puerto_Rico	2019-10-03
+7269012	Sonadora Barrio	Sonadora Barrio		18.28882	-66.12559	A	ADM2	PR		061	7269012			0	182	184	America/Puerto_Rico	2019-10-08
+7269013	St. Just Barrio	St. Just Barrio		18.36984	-66.00245	A	ADM2	PR		139	7269013			0	39	42	America/Puerto_Rico	2019-10-10
+7269014	Sud Barrio	Sud Barrio		18.16441	-66.16433	A	ADM2	PR		041	7269014			0	468	467	America/Puerto_Rico	2019-10-04
+7269015	Sumidero Barrio	Sumidero Barrio		18.22639	-66.12344	A	ADM2	PR		007	7269015			0	450	450	America/Puerto_Rico	2019-10-03
+7269016	Sumido Barrio	Sumido Barrio		18.09116	-66.17609	A	ADM2	PR		035	7269016			0	572	585	America/Puerto_Rico	2019-10-04
+7269017	Susúa Alta Barrio	Susua Alta Barrio	Susua Alta Barrio	18.06114	-66.89517	A	ADM2	PR		153	7269017			0	134	124	America/Puerto_Rico	2019-10-09
+7269018	Susúa Baja Barrio	Susua Baja Barrio	Susua Baja Barrio	18.00878	-66.89111	A	ADM2	PR		055	7269018			0	20	20	America/Puerto_Rico	2019-10-08
+7269019	Susúa Baja Barrio	Susua Baja Barrio	Susua Baja Barrio	18.02445	-66.86667	A	ADM2	PR		153	7269019			0	40	50	America/Puerto_Rico	2019-10-12
+7269020	Susúa Barrio	Susua Barrio	Susua Barrio	18.03627	-66.91097	A	ADM2	PR		121	7269020			0	69	73	America/Puerto_Rico	2012-07-04
+7269021	Tabonuco Barrio	Tabonuco Barrio		18.12811	-66.93509	A	ADM2	PR		121	7269021			0	420	420	America/Puerto_Rico	2019-10-09
+7269022	Talante Barrio	Talante Barrio		18.01908	-65.90819	A	ADM2	PR		095	7269022			0	21	29	America/Puerto_Rico	2019-10-06
+7269023	Tallaboa Alta Barrio	Tallaboa Alta Barrio		18.0511	-66.69466	A	ADM2	PR		111	7269023			0	136	153	America/Puerto_Rico	2019-10-08
+7269024	Tallaboa Poniente Barrio	Tallaboa Poniente Barrio		17.99777	-66.73803	A	ADM2	PR		111	7269024			0	0	3	America/Puerto_Rico	2019-10-08
+7269025	Tallaboa Saliente Barrio	Tallaboa Saliente Barrio		18.02463	-66.7127	A	ADM2	PR		111	7269025			0	132	134	America/Puerto_Rico	2019-10-08
+7269027	Tanamá Barrio	Tanama Barrio	Tanama Barrio	18.2202	-66.7675	A	ADM2	PR		001	7269027			0	622	635	America/Puerto_Rico	2012-02-17
+7269028	Tanamá Barrio	Tanama Barrio	Tanama Barrio	18.42355	-66.71503	A	ADM2	PR		013	7269028			0	20	42	America/Puerto_Rico	2019-10-03
+7269029	Tejas Barrio	Tejas Barrio		18.14776	-65.84937	A	ADM2	PR		069	7269029			0	70	71	America/Puerto_Rico	2019-10-08
+7269030	Tejas Barrio	Tejas Barrio		18.14722	-65.87757	A	ADM2	PR		085	7269030			0	199	199	America/Puerto_Rico	2019-10-07
+7269031	Tejas Barrio	Tejas Barrio		18.10956	-65.88972	A	ADM2	PR		151	7269031			0	242	240	America/Puerto_Rico	2019-10-12
+7269032	Tercero Barrio	Tercero Barrio		18.01121	-66.60971	A	ADM2	PR		113	7269032			0	16	20	America/Puerto_Rico	2019-10-09
+7269033	Terranova Barrio	Terranova Barrio		18.48011	-66.93167	A	ADM2	PR		115	7269033			0	115	131	America/Puerto_Rico	2019-10-09
+7269034	Tetuán Barrio	Tetuan Barrio	Tetuan Barrio	18.26793	-66.61262	A	ADM2	PR		141	7269034			0	639	634	America/Puerto_Rico	2019-10-11
+7269035	Tibes Barrio	Tibes Barrio		18.08665	-66.6369	A	ADM2	PR		113	7269035			0	335	344	America/Puerto_Rico	2019-10-09
+7269036	Tierras Nuevas Poniente Barrio	Tierras Nuevas Poniente Barrio		18.46338	-66.51479	A	ADM2	PR		091	7269036			0	3	11	America/Puerto_Rico	2019-10-06
+7269037	Tierras Nuevas Saliente Barrio	Tierras Nuevas Saliente Barrio		18.45882	-66.46977	A	ADM2	PR		091	7269037			0	13	18	America/Puerto_Rico	2019-10-06
+7269038	Tijeras Barrio	Tijeras Barrio		18.04992	-66.48158	A	ADM2	PR		075	7269038			0	138	134	America/Puerto_Rico	2019-10-07
+7269039	Toa Alta Barrio-Pueblo	Toa Alta Barrio-Pueblo		18.38788	-66.24765	A	ADM2	PR		135	7269039			0	21	23	America/Puerto_Rico	2019-10-10
+7269040	Toa Baja Barrio-Pueblo	Toa Baja Barrio-Pueblo		18.44235	-66.25396	A	ADM2	PR		137	7269040			0	7	9	America/Puerto_Rico	2019-10-10
+7269041	Toíta Barrio	Toita Barrio	Toita Barrio	18.12665	-66.18444	A	ADM2	PR		035	7269041			0	411	409	America/Puerto_Rico	2019-10-04
+7269042	Toíta Barrio	Toita Barrio	Toita Barrio	18.15009	-66.1901	A	ADM2	PR		041	7269042			0	366	369	America/Puerto_Rico	2019-10-04
+7269043	Tomás de Castro Barrio	Tomas de Castro Barrio	Tomas de Castro Barrio	18.20655	-66.01471	A	ADM2	PR		025	7269043			0	94	95	America/Puerto_Rico	2019-10-04
+7269044	Toro Negro Barrio	Toro Negro Barrio		18.22038	-66.51985	A	ADM2	PR		039	7269044			0	604	571	America/Puerto_Rico	2019-10-04
+7269045	Torre Barrio	Torre Barrio		18.06912	-66.91953	A	ADM2	PR		121	7269045			0	219	186	America/Puerto_Rico	2019-10-09
+7269046	Torrecilla Alta Barrio	Torrecilla Alta Barrio		18.39203	-65.91846	A	ADM2	PR		029	7269046			0	40	41	America/Puerto_Rico	2019-10-04
+7269047	Torrecilla Alta Barrio	Torrecilla Alta Barrio		18.41888	-65.91477	A	ADM2	PR		087	7269047			0	3	5	America/Puerto_Rico	2019-10-07
+7269048	Torrecilla Baja Barrio	Torrecilla Baja Barrio		18.44424	-65.93281	A	ADM2	PR		087	7269048			0	0	8	America/Puerto_Rico	2019-10-07
+7269049	Torrecillas Barrio	Torrecillas Barrio		18.33213	-66.4431	A	ADM2	PR		101	7269049			0	197	208	America/Puerto_Rico	2019-10-06
+7269050	Tortugo Barrio	Tortugo Barrio		18.34263	-66.09138	A	ADM2	PR		127	7269050			0	69	88	America/Puerto_Rico	2019-10-10
+7269052	Trujillo Alto Barrio-Pueblo	Trujillo Alto Barrio-Pueblo		18.35439	-66.00712	A	ADM2	PR		139	7269052			0	22	27	America/Puerto_Rico	2019-10-10
+7269053	Trujillo Bajo Barrio	Trujillo Bajo Barrio		18.36378	-65.94776	A	ADM2	PR		031	7269053			0	65	66	America/Puerto_Rico	2019-10-04
+7269054	Tuna Barrio	Tuna Barrio		18.06542	-67.09653	A	ADM2	PR		125	7269054			0	152	165	America/Puerto_Rico	2019-10-09
+7269055	Turabo Barrio	Turabo Barrio		18.20224	-66.04801	A	ADM2	PR		025	7269055			0	85	88	America/Puerto_Rico	2019-10-04
+7269057	Unibón Barrio	Unibon Barrio	Unibon Barrio	18.33517	-66.38284	A	ADM2	PR		101	7269057			0	230	225	America/Puerto_Rico	2019-10-06
+7269058	Universidad Barrio	Universidad Barrio		18.40737	-66.04627	A	ADM2	PR		127	7269058			0	20	23	America/Puerto_Rico	2019-10-10
+7269060	Utuado Barrio-Pueblo	Utuado Barrio-Pueblo		18.26626	-66.70567	A	ADM2	PR		141	7269060			0	140	141	America/Puerto_Rico	2019-10-11
+7269061	Vacas Barrio	Vacas Barrio		18.15335	-66.47627	A	ADM2	PR		149	7269061			0	640	622	America/Puerto_Rico	2019-10-12
+7269062	Vaga Barrio	Vaga Barrio		18.27693	-66.45094	A	ADM2	PR		101	7269062			0	408	411	America/Puerto_Rico	2019-10-06
+7269064	Valenciano Abajo Barrio	Valenciano Abajo Barrio		18.19345	-65.92196	A	ADM2	PR		077	7269064			0	114	127	America/Puerto_Rico	2019-10-07
+7269065	Valenciano Arriba Barrio	Valenciano Arriba Barrio		18.16432	-65.92327	A	ADM2	PR		077	7269065			0	188	203	America/Puerto_Rico	2019-10-07
+7269066	Vayas Barrio	Vayas Barrio		17.98173	-66.57073	A	ADM2	PR		113	7269066			0	0	4	America/Puerto_Rico	2019-10-09
+7269067	Vega Alta Barrio-Pueblo	Vega Alta Barrio-Pueblo		18.41146	-66.32895	A	ADM2	PR		143	7269067			0	33	34	America/Puerto_Rico	2019-10-11
+7269068	Vega Baja Barrio-Pueblo	Vega Baja Barrio-Pueblo		18.4444	-66.38691	A	ADM2	PR		145	7269068			0	7	15	America/Puerto_Rico	2014-08-21
+7269069	Vega Redonda Barrio	Vega Redonda Barrio		18.20638	-66.20951	A	ADM2	PR		045	7269069			0	290	281	America/Puerto_Rico	2019-10-05
+7269070	Vegas Abajo Barrio	Vegas Abajo Barrio		18.18526	-66.70115	A	ADM2	PR		001	7269070			0	532	550	America/Puerto_Rico	2012-02-17
+7269072	Vegas Barrio	Vegas Barrio		18.12816	-66.11256	A	ADM2	PR		035	7269072			0	380	380	America/Puerto_Rico	2019-10-04
+7269073	Vegas Barrio	Vegas Barrio		18.10496	-66.87291	A	ADM2	PR		153	7269073			0	209	206	America/Puerto_Rico	2019-10-12
+7269074	Veguitas Barrio	Veguitas Barrio		18.19609	-66.5872	A	ADM2	PR		073	7269074			0	640	659	America/Puerto_Rico	2012-07-04
+7269076	Victoria Barrio	Victoria Barrio		18.41138	-67.15084	A	ADM2	PR		005	7269076			0	99	18	America/Puerto_Rico	2012-06-21
+7269079	Villalba Abajo Barrio	Villalba Abajo Barrio		18.09853	-66.51444	A	ADM2	PR		149	7269079			0	189	186	America/Puerto_Rico	2019-10-12
+7269080	Villalba Arriba Barrio	Villalba Arriba Barrio		18.13768	-66.5079	A	ADM2	PR		149	7269080			0	469	466	America/Puerto_Rico	2019-10-12
+7269081	Villalba Barrio-Pueblo	Villalba Barrio-Pueblo		18.12854	-66.4924	A	ADM2	PR		149	7269081			0	161	165	America/Puerto_Rico	2019-10-12
+7269082	Viví Abajo Barrio	Vivi Abajo Barrio	Vivi Abajo Barrio	18.26025	-66.68237	A	ADM2	PR		141	7269082			0	191	206	America/Puerto_Rico	2019-10-11
+7269083	Viví Arriba Barrio	Vivi Arriba Barrio	Vivi Arriba Barrio	18.21913	-66.67552	A	ADM2	PR		141	7269083			0	398	405	America/Puerto_Rico	2019-10-11
+7269084	Voladoras Barrio	Voladoras Barrio		18.37414	-67.07528	A	ADM2	PR		099	7269084			0	99	97	America/Puerto_Rico	2019-10-06
+7269085	Yabucoa Barrio-Pueblo	Yabucoa Barrio-Pueblo		18.0473	-65.88008	A	ADM2	PR		151	7269085			0	24	23	America/Puerto_Rico	2019-10-12
+7269086	Yahuecas Barrio	Yahuecas Barrio		18.19853	-66.79591	A	ADM2	PR		001	7269086			0	487	490	America/Puerto_Rico	2012-02-18
+7269087	Yauco Barrio-Pueblo	Yauco Barrio-Pueblo		18.03626	-66.84928	A	ADM2	PR		153	7269087			0	51	62	America/Puerto_Rico	2019-10-12
+7269088	Yaurel Barrio	Yaurel Barrio		18.02432	-66.06471	A	ADM2	PR		015	7269088			0	266	299	America/Puerto_Rico	2019-10-03
+7269089	Yayales Barrio	Yayales Barrio		18.1899	-66.76541	A	ADM2	PR		001	7269089			0	621	629	America/Puerto_Rico	2012-02-17
+7269090	Yeguada Barrio	Yeguada Barrio		18.47565	-66.89051	A	ADM2	PR		027	7269090			0	39	46	America/Puerto_Rico	2019-10-04
+7269091	Yeguada Barrio	Yeguada Barrio		18.47764	-66.42497	A	ADM2	PR		145	7269091			0	0	5	America/Puerto_Rico	2019-10-12
+7269092	Zamas Barrio	Zamas Barrio		18.18729	-66.60507	A	ADM2	PR		073	7269092			0	576	586	America/Puerto_Rico	2019-10-07
+7269093	Zanja Barrio	Zanja Barrio		18.4528	-66.8428	A	ADM2	PR		027	7269093			0	98	99	America/Puerto_Rico	2019-10-04
+7269094	Zarzal Barrio	Zarzal Barrio		18.38691	-65.78723	A	ADM2	PR		119	7269094			0	20	20	America/Puerto_Rico	2019-10-09
+7269433	Tumbao Barrio	Tumbao Barrio	Tumbao	18.02079	-65.92119	A	ADM2	PR		095	7269433			0	47	69	America/Puerto_Rico	2019-10-06
+7309609	Certenejas Barrio	Certenejas Barrio		18.19346	-66.12243	A	ADM2	PR		041	7309609			0	418	419	America/Puerto_Rico	2019-10-04
+8199258	Vegas Arriba	Vegas Arriba		18.16412	-66.69542	A	ADM2	PR		001	8199258			0		891	America/Puerto_Rico	2012-02-18

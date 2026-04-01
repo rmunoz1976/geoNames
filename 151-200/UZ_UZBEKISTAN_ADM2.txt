@@ -1,0 +1,221 @@
+﻿601276	Shumanay Tumani	Shumanay Tumani	Shomanay district,Shumanay Rayoni,Shumanay Tumani,Shumanayskiy Rayon	42.71047	58.89168	A	ADM2	UZ		09	601276			57000		64	Asia/Samarkand	2025-04-15
+601292	Nukus Tumani	Nukus Tumani	Nukus District,Nukus Rayoni,Nukus Tumani,Nukusskiy Rayon	42.48043	59.69085	A	ADM2	UZ		09	601292			51900		76	Asia/Samarkand	2022-10-10
+601301	Mo’ynoq Tumani	Mo'ynoq Tumani	Mo'ynoq District,Mo'ynoq Tumani,Moʻynoq District,Mo’ynoq Tumani,Muynakskiy Rayon,Muynoq Rayoni,Muynoq Tumani,Mŭynoq Rayoni,Mŭynoq Tumani	43.82577	59.67065	A	ADM2	UZ		09	601301			33000		41	Asia/Samarkand	2022-10-10
+601309	Qanliko‘l Tumani	Qanliko'l Tumani	Leninabadskiy Rayon,Leninobod Tumani,Qanliko`l Tumani,Qanlikol district,Qanliko‘l Tumani,Qanlikul Tumani,Qanlikól district,Qanlikŭl Tumani	42.78666	58.93785	A	ADM2	UZ		09	601309			52400		65	Asia/Samarkand	2025-04-15
+601322	Qo‘ng‘irot Tumani	Qo'ng'irot Tumani	Kungradskiy Rayon,Qo'ng'irot District,Qo`ng`irot Tumani,Qoʻngʻirot District,Qo‘ng‘irot Tumani,Qunghirot Rayoni,Qunghirot Tumani,Qŭnghirot Rayoni,Qŭnghirot Tumani	43.5	57.5	A	ADM2	UZ		09	601322			132800		68	Asia/Samarkand	2022-10-10
+601340	Xo‘jayli Tumani	Xo'jayli Tumani	Khodzheyliyskiy Rayon,Khujayli Rayoni,Khujayli Tumani,Khŭjayli Rayoni,Khŭjayli Tumani,Xo`jayli Tumani,Xojeli district,Xo‘jayli Tumani	42.51319	59.30546	A	ADM2	UZ		09	601340			125500		69	Asia/Samarkand	2025-04-15
+601347	Kegeyli Tumani	Kegeyli Tumani	Kegeyli District,Kegeyli Rayoni,Kegeyli Tumani,Kegeylinskiy Rayon,Kegeyliyskiy Rayon	42.72168	59.65834	A	ADM2	UZ		09	601347			0		68	Asia/Samarkand	2022-10-11
+601394	Chimboy Tumani	Chimboy Tumani	Chimbayskiy Rayon,Chimboy Tumani,Shimbay district,Shimbay rayoni,Shımbay rayonı	43.00964	59.67437	A	ADM2	UZ		09	601394			114000		61	Asia/Samarkand	2025-04-15
+601398	Bo‘zatov Tumani	Bo`zatov Tumani	Bo`zatov Tumani,Bozatauskiy Rayon,Bo‘zatov Tumani,Buzatow Tumani,Bŭzatow Tumani	43.15224	59.32998	A	ADM2	UZ		09	601398			0		60	Asia/Samarkand	2020-06-10
+1215692	Zomin Tumani	Zomin Tumani	Zaaminskiy Rayon,Zomin Rayoni,Zomin Tumani	40	68.33333	A	ADM2	UZ		15	1215692			0		527	Asia/Tashkent	2012-01-17
+1215766	Yakkabog‘ Tumani	Yakkabog' Tumani	Yakkabagskiy Rayon,Yakkabog' District,Yakkabog` Tumani,Yakkabogh Rayoni,Yakkabogh Tumani,Yakkabogʻ District,Yakkabog‘ Tumani	38.89304	66.77132	A	ADM2	UZ		08	1215766			266100		717	Asia/Samarkand	2025-04-15
+1215788	Vobkent Tumani	Vobkent Tumani	Vabkentskiy Rayon,Vobkent District,Vobkent Tumani,Wobkent Tumani	39.97992	64.53811	A	ADM2	UZ		02	1215788			143600		237	Asia/Samarkand	2022-10-10
+1215811	Usmon Yusupov Tumani	Usmon Yusupov Tumani	Usman-Yusupovskiy Rayon,Usmon Yusupov Tumani	38.8272	65.24484	A	ADM2	UZ		08	1215811			0		305	Asia/Samarkand	2012-02-01
+1215838	Urgut Tumani	Urgut Tumani	Urgut District,Urgut Rayoni,Urgut Tumani,Urgutskiy Rayon	39.41667	67.16667	A	ADM2	UZ		10	1215838			519200		925	Asia/Samarkand	2025-05-01
+1215855	Kasbi Tumani	Kasbi Tumani	Kasbi Tumani,Kasbinskiy Rayon,Ul'yanovskiy Rayon,Ul’yanovskiy Rayon	38.87552	65.46117	A	ADM2	UZ		08	1215855			0		329	Asia/Samarkand	2012-01-17
+1215958	Termiz Tumani	Termiz Tumani	Termezskiy Rayon,Termiz Rayoni,Termiz Tumani	37.31667	67.5	A	ADM2	UZ		02	1215958			0		310	Asia/Samarkand	2019-04-19
+1216048	Jondor Tumani	Jondor Tumani	Dzhandarskiy Rayon,Jondor District,Jondor Tumani,Sverdlovskiy Rayon,Swerdlow Rayoni	40	63.75	A	ADM2	UZ		02	1216048			179300		197	Asia/Samarkand	2022-10-11
+1216079	Nurobod Tumani	Nurobod Tumani	Nurabadskiy Rayon,Nurobod District,Nurobod Tumani,Sovetabadskiy Rayon,nahyh nwrabad,ناحیه نورآباد	39.65002	65.85111	A	ADM2	UZ		10	1216079			152700		476	Asia/Samarkand	2023-11-30
+1216113	Sho‘rchi Tumani	Sho'rchi Tumani	Sho'rchi District,Sho`rchi Tumani,Shoʻrchi District,Sho‘rchi Tumani,Shuchi Rayoni,Shurchi Tumani,Shurchinskiy Rayon,Shŭchi Rayoni,Shŭrchi Tumani	38	67.83333	A	ADM2	UZ		12	1216113			212700		434	Asia/Samarkand	2025-04-15
+1216154	Sherobod Tumani	Sherobod Tumani	Sherabadskiy Rayon,Sherobod District,Sherobod Rayoni,Sherobod Tumani,Shirabadskiy Rayon	37.75	66.83333	A	ADM2	UZ		12	1216154			197300		777	Asia/Samarkand	2022-10-11
+1216186	Shahrisabz Tumani	Shahrisabz Tumani	Shahrisabz Rayoni,Shahrisabz Tumani,Shakhrisabzskiy Rayon,Shakhrisyabzskiy Rayon	39	67.16667	A	ADM2	UZ		08	1216186			0		1367	Asia/Samarkand	2012-01-17
+1216243	Sariosiyo Tumani	Sariosiyo Tumani	Sariasiyskiy Rayon,Sariosiyo District,Sariosiyo Rayoni,Sariosiyo Tumani,Saryassiyskiy Rayon	38.66667	67.8	A	ADM2	UZ		12	1216243			213200		1523	Asia/Samarkand	2025-04-15
+1216266	Samarqand Tumani	Samarqand Tumani	Samarkandskiy Rayon,Samarqand District,Samarqand Rayon,Samarqand Tumani	39.58333	66.91667	A	ADM2	UZ		10	1216266			256500		783	Asia/Samarkand	2022-10-11
+1216289	Romiton Tumani	Romiton Tumani	Ramitanskiy Rayon,Rometanskiy Rayon,Romitan District,Romitan Rayoni,Romitanskiy Rayon,Romiton Tumani	39.9	64.4	A	ADM2	UZ		02	1216289			146300		222	Asia/Samarkand	2025-04-15
+1216337	Payariq Tumani	Payariq Tumani	Narimanovskiy Rayon,Payarig,Payariq District,Payariq Tumani,Payarykskiy Rayon	40	66.91667	A	ADM2	UZ		10	1216337			254600		621	Asia/Samarkand	2022-10-11
+1216341	Pastdarg‘om Tumani	Pastdarg`om Tumani	Past Dargomski Rayon,Pastdarg`om Tumani,Pastdarghom Rayoni,Pastdarghom Tumani,Pastdargomskiy Rayon,Pastdarg‘om Tumani	39.65	66.66667	A	ADM2	UZ		10	1216341			0		664	Asia/Samarkand	2020-06-10
+1216354	Paxtachi Tumani	Paxtachi Tumani	Pakhtachi Tumani,Pakhtachiyskiy Rayon,Paxtachi District,Paxtachi Tumani	40	65.75	A	ADM2	UZ		10	1216354			146000		413	Asia/Samarkand	2025-04-15
+1216399	Nishon Tumani	Nishon Tumani	Nishanskiy Rayon,Nishon District,Nishon Tumani	38.58333	65.58333	A	ADM2	UZ		08	1216399			155500		355	Asia/Samarkand	2022-10-10
+1216429	Narpay Tumani	Narpay Tumani	Narpay District,Narpay Rayoni,Narpay Tumani,Narpayskiy Rayon	39.91667	66	A	ADM2	UZ		10	1216429			146000		472	Asia/Samarkand	2025-05-01
+1216474	Muborak Tumani	Muborak Tumani	Mubarekskiy Rayon,Muborak District,Muborak Tumani	39.31717	65.27045	A	ADM2	UZ		08	1216474			88200		295	Asia/Samarkand	2025-04-15
+1216571	Qiziriq Tumani	Qiziriq Tumani	Kizirikskiy Rayon,Leninyul'skiy Rayon,Leninyul’skiy Rayon,Qiziriq Tumani	37.66667	67.25	A	ADM2	UZ		12	1216571			0		384	Asia/Samarkand	2012-01-17
+1216582	Qiziltepa Tumani	Qiziltepa Tumani	Kyzyltepinskiy Rayon,Qiziltepa Tumani	39.91667	65	A	ADM2	UZ		07	1216582			0		250	Asia/Samarkand	2012-01-17
+1216685	Qumqŭrghon Tumani	Qumqurghon Tumani	Kumkurganskiy Rayon,Qumqurghon Tumani,Qumqŭrghon Tumani	38	67.58333	A	ADM2	UZ		12	1216685			0		489	Asia/Samarkand	2020-06-10
+1216786	Kitob Tumani	Kitob Tumani	Kitabskiy Rayon,Kitob District,Kitob Rayoni,Kitob Tumani	39.16074	67.03055	A	ADM2	UZ		08	1216786			266400		897	Asia/Samarkand	2022-10-10
+1216987	Kattaqo‘rg‘on Tumani	Kattaqo`rg`on Tumani	Gorod Kattakurgan,Kattakurganskiy Rayon,Kattaqo`rg`on Tumani,Kattaqo‘rg‘on Tumani,Kattaqurghon Rayoni,Kattaqurghon Shahri,Kattaqurghon Tumani,Kattaqŭrghon Rayoni,Kattaqŭrghon Shahri,Kattaqŭrghon Tumani	39.95	66.3	A	ADM2	UZ		10	1216987			0		471	Asia/Samarkand	2020-06-10
+1217005	Koson Tumani	Koson Tumani	Kasanskiy Rayon,Kassanskiy Rayon,Koson District,Koson Rayoni,Koson Tumani	39.13079	65.74414	A	ADM2	UZ		08	1217005			0		360	Asia/Samarkand	2025-04-15
+1217013	Qarshi Tumani	Qarshi Tumani	Bek-Budi Rayon,Karshinskiy Rayon,Qarshi Rayoni,Qarshi Tumani	38.82798	65.87618	A	ADM2	UZ		08	1217013			0		402	Asia/Samarkand	2012-01-17
+1217081	Qorakŭl Tumani	Qorakul Tumani	Karakul'skiy Rayon,Karakul’skiy Rayon,Qorako'l,Qorako'l District,Qorako‘l District,Qorakul Rayoni,Qorakul Tumani,Qorakŭl Rayoni,Qorakŭl Tumani	39.50987	63.84602	A	ADM2	UZ		02	1217081			167400		198	Asia/Samarkand	2022-10-11
+1217142	Qamashi Tumani	Qamashi Tumani	Kamashinskiy Rayon,Qamashi Rayoni,Qamashi Tumani	38.76257	66.57713	A	ADM2	UZ		08	1217142			0		655	Asia/Samarkand	2012-01-17
+1217179	Kogon Tumani	Kogon Tumani	Gorod Kagan,Kaganskiy Rayon,Kogon Rayoni,Kogon Shahri,Kogon Tumani	39.73212	64.56759	A	ADM2	UZ		02	1217179			0		224	Asia/Samarkand	2020-02-07
+1217214	Ishtixon Tumani	Ishtixon Tumani	Ishtihon Rayoni,Ishtikhon Tumani,Ishtixon District,Ishtixon Tumani,Ishtykhanskiy Rayon	40	66.5	A	ADM2	UZ		10	1217214			258200		518	Asia/Samarkand	2022-10-11
+1217259	G‘uzor Tumani	G`uzor Tumani	G`uzor Tumani,Ghuzor Rayoni,Ghuzor Tumani,Guzarskiy Rayon,G‘uzor Tumani	38.53962	66.20102	A	ADM2	UZ		08	1217259			0		569	Asia/Samarkand	2020-06-10
+1217334	G‘allaorol Tumani	G`allaorol Tumani	G`allaorol Tumani,Gallyaaral'skiy Rayon,Gallyaaral’skiy Rayon,Ghallaorol Rayoni,Ghallaorol Tumani,G‘allaorol Tumani	40	67.41667	A	ADM2	UZ		15	1217334			0		692	Asia/Samarkand	2020-06-10
+1217341	Muzrabod Tumani	Muzrabod Tumani	Gagarinskiy Rayon,Muzrabadskiy Rayon,Muzrabod Tumani	37.41667	66.83333	A	ADM2	UZ		12	1217341			0		288	Asia/Samarkand	2012-01-17
+1217391	Jarqo‘rg‘on Tumani	Jarqo`rg`on Tumani	Dzharkurganskiy Rayon,Jarqo`rg`on Tumani,Jarqo‘rg‘on Tumani,Jarqurghon Rayoni,Jarqurghon Tumani,Jarqŭrghon Rayoni,Jarqŭrghon Tumani	37.5	67.5	A	ADM2	UZ		12	1217391			0		415	Asia/Samarkand	2020-06-10
+1217412	Jomboy Tumani	Jomboy Tumani	Dzhambayskiy Rayon,Jomboy District,Jomboy Tumani	39.75	67.16667	A	ADM2	UZ		10	1217412			176000		712	Asia/Samarkand	2025-04-15
+1217476	Denov Tumani	Denov Tumani	Denauskiy Rayon,Denov District,Denov Tumani,Denow Rayoni,Denow Tumani	38.32684	67.83372	A	ADM2	UZ		12	1217476			392200		577	Asia/Samarkand	2025-04-15
+1217479	Dehqonobod Tumani	Dehqonobod Tumani	Dehqonobod Tumani,Dekhkanabadskiy Rayon	38.33333	66.66667	A	ADM2	UZ		08	1217479			0		1284	Asia/Samarkand	2012-01-17
+1217538	Chiroqchi Tumani	Chiroqchi Tumani	Chirakchinskiy Rayon,Chiroqchi Rayoni,Chiroqchi Tumani	39.19761	66.50754	A	ADM2	UZ		08	1217538			0		585	Asia/Samarkand	2024-05-14
+1217655	Bulung‘ur Tumani	Bulung`ur Tumani	Bulung`ur Tumani,Bulunghur Rayoni,Bulunghur Tumani,Bulungurskiy Rayon,Bulung‘ur Tumani	39.75	67.33333	A	ADM2	UZ		10	1217655			0		775	Asia/Samarkand	2020-06-10
+1217663	Bukhoro Tumani	Bukhoro Tumani	Bukhara District,Bukharskiy Rayon,Bukhoro Rayoni,Bukhoro Tumani	39.53542	64.39921	A	ADM2	UZ		02	1217663			172200		217	Asia/Samarkand	2022-10-10
+1217733	Boysun Tumani	Boysun Tumani	Baysunskiy Rayon,Boysun District,Boysun Rayoni,Boysun Tumani	38.25	67.25	A	ADM2	UZ		12	1217733			117500		1482	Asia/Samarkand	2022-10-10
+1217778	Baxmal Tumani	Baxmal Tumani	Bakhmal Tumani,Bakhmal'skiy Rayon,Bakhmal’skiy Rayon,Baxmal District,Baxmal Tumani	39.75	67.83333	A	ADM2	UZ		15	1217778			157600		1244	Asia/Tashkent	2025-04-15
+1217872	Angor Tumani	Angor Tumani	Angor District,Angor Tumani,Angorskiy Rayon	37.41667	67.16667	A	ADM2	UZ		12	1217872			134700		314	Asia/Samarkand	2022-10-10
+1217894	Oltinsoy Tumani	Oltinsoy Tumani	Altynsayskiy Rayon,Oltinsoy District,Oltinsoy Tumani	38.2	67.75	A	ADM2	UZ		12	1217894			180200		551	Asia/Samarkand	2022-10-10
+1217905	Olot Tumani	Olot Tumani	Alat,Alatskiy Rayon,Olot District,Olot Tumani	39.16667	64.16667	A	ADM2	UZ		02	1217905			101300		242	Asia/Samarkand	2022-10-10
+1217960	Oqdaryo Tumani	Oqdaryo Tumani	Akdar'inskiy Rayon,Akdar’inskiy Rayon,Oqdaryo Tumani	39.83333	66.8	A	ADM2	UZ		10	1217960			0		599	Asia/Samarkand	2012-01-17
+1346433	Qorovulbozor Tumani	Qorovulbozor Tumani	Qorovulbozor,Qorovulbozor District,Qorovulbozor Tumani,Qorowulbozor Tumani	39.4742	64.77046	A	ADM2	UZ		02	1346433			19100		246	Asia/Samarkand	2022-10-10
+1346437	Kogon Shahri	Kogon Shahri	Gorod Kagan,Kagan,Kogon District,Kogon Shahri	39.72722	64.55722	A	ADM2	UZ		02	1346437			81100		224	Asia/Samarkand	2022-10-10
+1346451	Chelak Tumani	Chelak Tumani	Chelak Tumani,Chelekskiy Rayon	39.9	66.9	A	ADM2	UZ		10	1346451			0		614	Asia/Samarkand	2012-01-19
+1346455	Go`zalkent Tumani	Go`zalkent Tumani	Bol'shevistskiy Rayon,Guzalkent Tumani,Guzalkentskiy Rayon,Gŭzalkent Tumani	39.75	66.56667	A	ADM2	UZ		10	1346455			0		598	Asia/Samarkand	2007-05-30
+1346462	Toyloq Tumani	Toyloq Tumani	Komsomol'skiy Rayon,Komsomol’skiy Rayon,Taylakskiy Rayon,Toyloq Tumani	39.58333	67.11667	A	ADM2	UZ		10	1346462			0		743	Asia/Samarkand	2012-01-19
+1346463	Samarqand Shahri	Samarqand Shahri	Gorod Samarkand,Samarqand Shahri	39.6633	66.97086	A	ADM2	UZ		10	1346463			0		696	Asia/Samarkand	2023-07-11
+1346465	Oqtosh Shahri	Oqtosh Shahri	Gorod Aktash,Oqtosh Shahri	39.92694	65.92556	A	ADM2	UZ		10	1346465			0		460	Asia/Samarkand	2012-01-19
+1346467	Urgut Shahri	Urgut Shahri	Gorod Urgut,Urgut Shahri	39.40694	67.24167	A	ADM2	UZ		10	1346467			0		996	Asia/Samarkand	2012-01-19
+1346479	Mirishkor Tumani	Mirishkor Tumani	Bahoriston Tumani,Bakhoristanskiy Rayon,Mirishkor Tumani	38.90072	64.9162	A	ADM2	UZ		08	1346479			0		284	Asia/Samarkand	2012-07-05
+1346481	Qarshi Shahri	Qarshi Shahri	Gorod Karshi,Qarshi Shahri	38.85307	65.81862	A	ADM2	UZ		08	1346481			252600		391	Asia/Samarkand	2022-10-10
+1346497	Uzun Tumani	Uzun Tumani	Uzun District,Uzun Tumani,Uzunskiy Rayon	38.16667	68.16667	A	ADM2	UZ		12	1346497			173900		905	Asia/Samarkand	2022-10-11
+1346534	Bandikhon Tumani	Bandikhon Tumani	Bandikhanskiy Rayon,Bandikhon Tumani	37.83333	67.36667	A	ADM2	UZ		12	1346534			0		454	Asia/Samarkand	2012-01-19
+1346536	Termiz Shahri	Termiz Shahri	Gorod Termez,Termiz,Termiz Shahri,Tirmiz	37.23917	67.27639	A	ADM2	UZ		12	1346536			0		303	Asia/Samarkand	2011-08-28
+1346537	Denov Shahri	Denov Shahri	Denov Shahri,Denow Shahri,Gorod Denau	38.26667	67.9	A	ADM2	UZ		12	1346537			0		526	Asia/Samarkand	2012-01-19
+1512277	Zarbdor Tumani	Zarbdor Tumani	Zarbdarskiy Rayon,Zarbdor Tumani	40.16667	68.16667	A	ADM2	UZ		15	1512277			0		357	Asia/Tashkent	2012-01-17
+1512289	Mingbuloq Tumani	Mingbuloq Tumani	Mingbulakskiy Rayon,Mingbuloq Tumani,Zadar'inskiy Rayon,Zadaryo Rayoni,Zadaryo Tumani,Zadar’inskiy Rayon	40.73734	71.22852	A	ADM2	UZ		06	1512289			0		374	Asia/Tashkent	2012-01-17
+1512318	Yozyovon Tumani	Yozyovon Tumani	Yazyavanskiy Rayon,Yaz”yavanskiy Rayon,Yozyovon Tumani,Yozyowon Tumani	40.65	71.73333	A	ADM2	UZ		03	1512318			0		426	Asia/Tashkent	2015-09-06
+1512349	Yangiqo‘rg‘on Tumani	Yangiqo`rg`on Tumani	Yangikurganskiy Rayon,Yangiqo`rg`on Tumani,Yangiqo‘rg‘on Tumani,Yangiqurghon Rayoni,Yangiqurghon Tumani,Yangiqŭrghon Rayoni,Yangiqŭrghon Tumani	41.25	71.75	A	ADM2	UZ		06	1512349			0		860	Asia/Tashkent	2020-06-10
+1512360	Yangibozor Tumani	Yangibozor Tumani	Yangibazarskiy Rayon,Yangibozor District,Yangibozor Tumani	41.70368	60.48386	A	ADM2	UZ		05	1512360			88000		95	Asia/Samarkand	2025-04-15
+1512367	Yangiariq Tumani	Yangiariq Tumani	Yangiariq District,Yangiariq Tumani,Yangiarykskiy Rayon	41.33333	60.58333	A	ADM2	UZ		05	1512367			117200		97	Asia/Samarkand	2022-10-11
+1512404	Sayhunobod Tumani	Sayhunobod Tumani	Sayhun Tumani,Sayhunobod Tumani,Saykhunabadskiy Rayon,Voroshilovskiy Rayon	40.71667	68.85	A	ADM2	UZ		16	1512404			0		266	Asia/Tashkent	2012-01-17
+1512439	O‘zbekiston Tumani	O`zbekiston Tumani	Kaganovichskiy Rayon,O`zbekiston Tumani,O‘zbekiston Tumani,Uzbekistanskiy Rayon,Uzbekiston Rayoni,Uzbekiston Tumani,Ŭzbekiston Rayoni,Ŭzbekiston Tumani	40.33333	70.83333	A	ADM2	UZ		03	1512439			0		489	Asia/Tashkent	2020-06-10
+1512448	Uychi Tumani	Uychi Tumani	Uychi District,Uychi Rayoni,Uychi Tumani,Uychinskiy Rayon	41.04128	71.89873	A	ADM2	UZ		06	1512448			216800		439	Asia/Tashkent	2025-04-15
+1512467	Urganch Tumani	Urganch Tumani	Urganch District,Urganch Rayoni,Urganch Tumani,Urgenchskiy Rayon	41.51269	60.52917	A	ADM2	UZ		05	1512467			201200		98	Asia/Samarkand	2022-10-11
+1512500	Uchqŭrghon Tumani	Uchqurghon Tumani	Uchkurganskiy Rayon,Uchqurghon Rayoni,Uchqurghon Tumani,Uchqŭrghon Rayoni,Uchqŭrghon Tumani	41.07716	72.1082	A	ADM2	UZ		06	1512500			0		490	Asia/Tashkent	2020-06-10
+1512504	Uchkuduk District	Uchkuduk District	Uchkudukskiy Rayon,Uchquduq District,Uchquduq Tumani	42.13693	63.56827	A	ADM2	UZ		07	1512504			37700		194	Asia/Samarkand	2022-10-10
+1512534	To‘rtko‘l Tumani	To`rtko`l Tumani	To`rtko`l Tumani,To‘rtko‘l Tumani,Turtkul Rayoni,Turtkul Tumani,Turtkul'skiy Rayon,Turtkul’skiy Rayon,Tŭrtkŭl Rayoni,Tŭrtkŭl Tumani	41.6242	61.72683	A	ADM2	UZ		09	1512534			0		122	Asia/Samarkand	2016-10-07
+1512548	Tŭraqŭrghon Tumani	Turaqurghon Tumani	Turakurganskiy Rayon,Turaqurghon Tumani,Tŭraqŭrghon Tumani	41.0072	71.47176	A	ADM2	UZ		06	1512548			0		612	Asia/Tashkent	2020-06-10
+1512646	Toshloq Tumani	Toshloq Tumani	Tashlakskiy Rayon,Toshloq Tumani	40.5	71.83333	A	ADM2	UZ		03	1512646			0		484	Asia/Tashkent	2012-01-17
+1512652	Toshkent Tumani	Toshkent Tumani	Tashkentskiy Rayon,Toshkent,Toshkent Tumani	41.4	69.2	A	ADM2	UZ		14	1512652			0		443	Asia/Tashkent	2012-01-17
+1512673	Tomdi Tumani	Tomdi Tumani	Tamdynskiy Rayon,Tomdi Rayoni,Tomdi Tumani	42.22496	65.2346	A	ADM2	UZ		07	1512673			0		295	Asia/Samarkand	2012-01-17
+1512698	Taxtako‘pir Tumani	Taxtako'pir Tumani	Takhtakupir Rayoni,Takhtakupir Tumani,Takhtakupyrskiy Rayon,Takhtakŭpir Rayoni,Takhtakŭpir Tumani,Taxtako'pir District,Taxtako`pir Tumani,Taxtakopir District,Taxtakoʻpir District,Taxtako‘pir Tumani,Taxtakópir District	42.98175	61.07328	A	ADM2	UZ		09	1512698			40600		65	Asia/Samarkand	2025-04-15
+1512717	Sirdaryo Tumani	Sirdaryo Tumani	Sirdaryo District,Sirdaryo Tumani,Syrdar'inskiy Rayon,Syrdar’inskiy Rayon	40.83333	68.66667	A	ADM2	UZ		16	1512717			130100		266	Asia/Tashkent	2025-04-15
+1512751	Ŭrta Chirchiq Tumani	Urta Chirchiq Tumani	Srednechirchikskiy Rayon,Urta Chirchiq Tumani,Urtachirchikskiy Rayon,Ŭrta Chirchiq Tumani	41.08333	69.33333	A	ADM2	UZ		14	1512751			0		380	Asia/Tashkent	2020-06-10
+1512818	Shovot Tumani	Shovot Tumani	Shavatskiy Rayon,Shovot District,Shovot Rayoni,Shovot Tumani,Showot Tumani	41.66667	60.25	A	ADM2	UZ		05	1512818			171700		90	Asia/Samarkand	2025-04-15
+1512837	Shofirkon Tumani	Shofirkon Tumani	Shafirkanskiy Rayon,Shafrikanskiy Rayon,Shofirkon Rayon,Shofirkon Tumani	40.5	64.33333	A	ADM2	UZ		02	1512837			0		211	Asia/Samarkand	2012-01-17
+1512848	Sirg’ali Tumani	Sirg'ali Tumani	Sergeli Rayon,Sergeli Rayoni,Sergeli Tumani,Sergeliyskiy Rayon,Sirg'ali Tumani,Sirg’ali Tumani	41.21929	69.22432	A	ADM2	UZ		13	1512848			0		383	Asia/Tashkent	2025-06-12
+1512949	Olmazor Tumani	Olmazor Tumani	Olmazor Tumani,Sabir-Rakhimovskiy Rayon,Sobir Rahimov Tumani,Sobir Rahimow Rayoni,Sobir Rahimow Tumani	41.3598	69.22553	A	ADM2	UZ		13	1512949			0		444	Asia/Tashkent	2024-05-14
+1512956	Rishton Tumani	Rishton Tumani	Kuybyshevskiy Rayon,Rishtanskiy Rayon,Rishton District,Rishton Rayoni,Rishton Tumani	40.36667	71.25	A	ADM2	UZ		03	1512956			208400		462	Asia/Tashkent	2025-04-15
+1512985	Piskent Tumani	Piskent Tumani	Piskent District,Piskent Tumani,Pskentskiy Rayon	40.83333	69.5	A	ADM2	UZ		14	1512985			102000		478	Asia/Tashkent	2022-10-11
+1513006	Peshku Tumani	Peshku Tumani	Peshku District,Peshku Tumani,Peshkunskiy Rayon	40.41667	63.83333	A	ADM2	UZ		02	1513006			126700		194	Asia/Samarkand	2022-10-11
+1513016	Parkent Tumani	Parkent Tumani	Parkent Tumani,Parkentskiy Rayon	41.3	69.66667	A	ADM2	UZ		14	1513016			157500		722	Asia/Tashkent	2022-10-11
+1513021	Pop Tumani	Pop Tumani	Papskiy Rayon,Pop Rayoni,Pop Tumani	40.86654	71.11478	A	ADM2	UZ		06	1513021			0		420	Asia/Tashkent	2012-01-17
+1513035	Paxtakor Tumani	Paxtakor Tumani	Pakhtakor Rayoni,Pakhtakor Tumani,Pakhtakorskiy Rayon,Paxtakor District,Paxtakor Tumani	40.33333	68	A	ADM2	UZ		15	1513035			74900		298	Asia/Tashkent	2022-10-11
+1513039	Pakhtaobod Tumani	Pakhtaobod Tumani	Pakhtaabadskiy Rayon,Pakhtaobod Tumani	40.93333	72.5	A	ADM2	UZ		01	1513039			0		516	Asia/Tashkent	2012-01-17
+1513057	Qibray Tumani	Qibray Tumani	Kibrayskiy Rayon,Ordzhonikidzevskiy Rayon,Qibray Tumani	41.5	69.5	A	ADM2	UZ		14	1513057			202200		661	Asia/Tashkent	2022-10-11
+1513066	Shayxontohur Tumani	Shayxontohur Tumani	Oktyabr Rayoni,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Oktyabr” Rayoni,Shaykhontohur Rayoni,Shayxontohur Tumani	41.32284	69.21029	A	ADM2	UZ		13	1513066			0		424	Asia/Tashkent	2024-05-14
+1513067	Zafarobod Tumani	Zafarobod Tumani	Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Zafarobod District,Zafarobod Tumani	40.36608	67.77719	A	ADM2	UZ		15	1513067			50100		279	Asia/Samarkand	2025-04-15
+1513082	Nurota Tumani	Nurota Tumani	Nuratinskiy Rayon,Nurota Rayoni,Nurota Tumani	40.48287	65.86746	A	ADM2	UZ		07	1513082			0		598	Asia/Samarkand	2012-01-17
+1513133	Navoiy Tumani	Navoiy Tumani	Kermininskiy Rayon,Navoinskiy Rayon,Navoiy Tumani,Navoiyskiy Rayon,Nawoiy Rayoni,Nawoiy Tumani,Novoiyskiy Rayon,Rayon Navoi	40.02021	65.21556	A	ADM2	UZ		07	1513133			0		501	Asia/Samarkand	2016-08-03
+1513135	Navbahor Tumani	Navbahor Tumani	Navbahor Tumani,Navbakhorskiy Rayon,Nawbahor Tumani	40.24924	65.30487	A	ADM2	UZ		07	1513135			0		338	Asia/Samarkand	2012-01-17
+1513144	Norin Tumani	Norin Tumani	Narynskiy Rayon,Norin Tumani	40.91667	72	A	ADM2	UZ		06	1513144			0		426	Asia/Tashkent	2012-01-17
+1513156	Namangan Tumani	Namangan Tumani	Namangan District,Namangan Rayoni,Namangan Tumani,Namanganskiy Rayon	40.92007	71.64717	A	ADM2	UZ		06	1513156			179800		397	Asia/Tashkent	2022-10-10
+1513193	Shahrikhon Tumani	Shahrikhon Tumani	Moskovskiy Rayon,Moskva Rayoni,Shahrikhon Tumani,Shakhrikhanskiy Rayon,Stalinskiy Rayon	40.71667	72.06667	A	ADM2	UZ		01	1513193			0		454	Asia/Tashkent	2012-01-17
+1513202	Mirzachŭl Tumani	Mirzachul Tumani	Mirzacho'l District,Mirzachoʻl District,Mirzachul Rayoni,Mirzachul Tumani,Mirzachul'skiy Rayon,Mirzachul’skiy Rayon,Mirzachŭl Rayoni,Mirzachŭl Tumani	40.66667	68.08333	A	ADM2	UZ		15	1513202			52200		261	Asia/Tashkent	2022-10-11
+1513240	Marhamat Tumani	Marhamat Tumani	Marhamat District,Marhamat Rayoni,Marhamat Tumani,Markhamatskiy Rayon	40.5	72.31667	A	ADM2	UZ		01	1513240			178700		606	Asia/Tashkent	2022-10-11
+1513269	Mirobod Tumani	Mirobod Tumani	Lenin Rayon,Lenin Rayoni,Leninskiy Rayon,Mirobod Rayoni,Mirobod Tumani	41.27502	69.3003	A	ADM2	UZ		13	1513269			0		437	Asia/Tashkent	2024-05-14
+1513270	Asaka Tumani	Asaka Tumani	Asaka District,Asaka Tumani,Asakinskiy Rayon,Leninskiy Rayon	40.66667	72.25	A	ADM2	UZ		01	1513270			340000		490	Asia/Tashkent	2022-10-11
+1513272	Uchko‘prik Tumani	Uchko'prik Tumani	Leningrad Rayoni,Leningradskiy Rayon,Molotovskiy Rayon,Uchko'prik District,Uchko`prik Tumani,Uchkoʻprik District,Uchko‘prik Tumani,Uchkuprik Tumani,Uchkuprikskiy Rayon,Uchkŭprik Tumani	40.58333	71	A	ADM2	UZ		03	1513272			237300		396	Asia/Tashkent	2025-04-15
+1513328	Mirzo Ulug‘bek Tumani	Mirzo Ulug`bek Tumani	Kuybishew Rayoni,Kuybyshevskiy Rayon,Mirzo Ulug`bek Tumani,Mirzo Ulughbek Rayoni,Mirzo Ulughbek Tumani,Mirzo Ulug‘bek Tumani	41.32927	69.34624	A	ADM2	UZ		13	1513328			0		476	Asia/Tashkent	2024-05-14
+1513329	Quva Tumani	Quva Tumani	Kuvinskiy Rayon,Quva Tumani,Quwa Rayoni,Quwa Tumani	40.5	72.08333	A	ADM2	UZ		03	1513329			0		518	Asia/Tashkent	2015-09-06
+1513363	Qŭrghontepa Tumani	Qurghontepa Tumani	Kurgantepinskiy Rayon,Qurghontepa Rayoni,Qurghontepa Tumani,Qŭrghontepa Rayoni,Qŭrghontepa Tumani	40.75	72.83333	A	ADM2	UZ		01	1513363			0		685	Asia/Tashkent	2020-06-10
+1513472	Qo‘shrabot Tumani	Qo`shrabot Tumani	Koshrabadskiy Rayon,Qo`shrabot Tumani,Qo‘shrabot Tumani,Qushrabot Tumani,Qŭshrabot Tumani	40.33333	66.5	A	ADM2	UZ		10	1513472			0		1004	Asia/Samarkand	2020-06-10
+1513477	Qo’shko’pir Tumani	Qo'shko'pir Tumani	Koshkupyrskiy Rayon,Qo'shko'pir Tumani,Qo’shko’pir Tumani,Qushkupir Rayoni,Qushkupir Tumani,Qŭshkŭpir Rayoni,Qŭshkŭpir Tumani	41.5	60.33333	A	ADM2	UZ		05	1513477			0		94	Asia/Samarkand	2020-06-10
+1513490	Mirzaobod Tumani	Mirzaobod Tumani	Komsomol'skiy Rayon,Komsomol’skiy Rayon,Mirzaabadskiy Rayon,Mirzaobod Tumani	40.5	68.58333	A	ADM2	UZ		16	1513490			0		267	Asia/Tashkent	2012-01-17
+1513493	Ulug‘nor Tumani	Ulug`nor Tumani	Komsomolabadskiy Rayon,Komsomolobod Tumani,Ulug`nor Tumani,Ulughnor Tumani,Ulug‘nor Tumani	40.75	71.7	A	ADM2	UZ		01	1513493			0		405	Asia/Tashkent	2020-06-10
+1513498	Yuqori Chirchiq Tumani	Yuqori Chirchiq Tumani	Kommunisticheskiy Rayon,Verkhne-Chirchikskii Raion,Verkhne-Chirchikskiĭ Raĭon,Verkhnechirchikskiy Rayon,Yukarichirchikskiy Rayon,Yuqori Chirchiq Rayoni,Yuqori Chirchiq Tumani	41.25	69.5	A	ADM2	UZ		14	1513498			0		469	Asia/Tashkent	2012-01-17
+1513546	Yunusobod Tumani	Yunusobod Tumani	Kirov Rayoni,Kirovskiy Rayon,Yunusobod Rayoni,Yunusobod Tumani	41.35859	69.28903	A	ADM2	UZ		13	1513546			0		473	Asia/Tashkent	2024-05-14
+1513547	Beshariq Tumani	Beshariq Tumani	Basharykskiy Rayon,Beshariq Tumani,Kirovskiy Rayon	40.43333	70.6	A	ADM2	UZ		03	1513547			234600		391	Asia/Tashkent	2022-10-11
+1513598	Khŭjaobod Tumani	Khujaobod Tumani	Khodzhaabadskiy Rayon,Khodzhiabadskiy Rayon,Khujaobod Rayoni,Khujaobod Tumani,Khŭjaobod Rayoni,Khŭjaobod Tumani	40.66667	72.58333	A	ADM2	UZ		01	1513598			0		680	Asia/Tashkent	2020-06-10
+1513603	Xiva Tumani	Xiva Tumani	Gorod Khiva,Khivinskiy Rayon,Khiwa Rayoni,Khiwa Shahri,Khiwa Tumani,Xiva Tumani	41.33333	60.41667	A	ADM2	UZ		05	1513603			0		105	Asia/Samarkand	2020-04-08
+1513610	Hazorasp Tumani	Hazorasp Tumani	Hazorasp Rayoni,Hazorasp Tumani,Khazarapskiy Rayon,Khazorasp Tumani	41.25	61.16667	A	ADM2	UZ		05	1513610			0		109	Asia/Samarkand	2012-01-17
+1513618	Khovos Tumani	Khovos Tumani	I'angierskii Raion,I’angierskii Raion,Khavastskiy Rayon,Khovos,Khovos Tumani,Yangier Rayoni,Yangiyerskiy Rayon	40.26722	68.905	A	ADM2	UZ		16	1513618			0		319	Asia/Tashkent	2012-01-17
+1513622	Xatirchi Tumani	Xatirchi Tumani	Khatirchi Rayoni,Khatirchi Tumani,Khatyrchinskiy Rayon,Xatirchi Tumani	40.16667	66	A	ADM2	UZ		07	1513622			0		559	Asia/Samarkand	2012-01-17
+1513635	Xonqa Tumani	Xonqa Tumani	Khankinskiy Rayon,Khonqa Tumani,Xonqa Tumani	41.46667	60.78333	A	ADM2	UZ		05	1513635			0		105	Asia/Samarkand	2020-04-08
+1513648	Yashnobod Tumani	Yashnobod Tumani	Hamza Rayoni,Hamza Tumani,Khamzinskiy Rayon,Yashnobod Tumani	41.28418	69.33638	A	ADM2	UZ		13	1513648			0		455	Asia/Tashkent	2024-05-14
+1513713	Kosonsoy Tumani	Kosonsoy Tumani	Kasansayskiy Rayon,Kosonsoy Tumani	41.23301	71.58279	A	ADM2	UZ		06	1513713			0		965	Asia/Tashkent	2012-01-17
+1513732	Qorao‘zak Tumani	Qorao'zak Tumani	Karauzyakskiy Rayon,Qaraozek district,Qaraózek district,Qorao`zak Tumani,Qorao‘zak Tumani,Qorauzak Tumani,Qoraŭzak Tumani	42.66667	60.16667	A	ADM2	UZ		09	1513732			53600		81	Asia/Samarkand	2025-04-15
+1513830	Konimex Tumani	Konimex Tumani	Kanimekhskiy Rayon,Kenimekhskiy Rayon,Konimekh Rayoni,Konimekh Tumani,Konimex Tumani	40.21	64.98	A	ADM2	UZ		07	1513830			0		306	Asia/Samarkand	2011-03-07
+1513860	Zangiota Tumani	Zangiota Tumani	Kalininskiy Rayon,Zangiatinskiy Rayon,Zangiota Tumani	41.25	69.08333	A	ADM2	UZ		14	1513860			0		386	Asia/Tashkent	2012-01-17
+1513888	Izboskan Tumani	Izboskan Tumani	Izbaskanskiy Rayon,Izbaskentskiy Rayon,Izboskan District,Izboskan Rayoni,Izboskan Tumani	40.91667	72.25	A	ADM2	UZ		01	1513888			245600		464	Asia/Tashkent	2025-04-15
+1513952	Sharof-Rashidow Tumani	Sharof-Rashidow Tumani	Il'ich Rayoni,Il'ichevskiy Rayon,Il’ich Rayoni,Il’ichëvskiy Rayon,Sharaf-Rashidovskiy Rayon,Sharof-Rashidow Tumani	40.33333	68.33333	A	ADM2	UZ		16	1513952			0		289	Asia/Tashkent	2012-01-17
+1513961	Gurlan Tumani	Gurlan Tumani	Gurlan Rayoni,Gurlan Tumani,Gurlenskiy Rayon	41.83333	60.33333	A	ADM2	UZ		05	1513961			0		87	Asia/Samarkand	2012-01-17
+1513967	Guliston Tumani	Guliston Tumani	Gulistanskiy Rayon,Guliston Rayoni,Guliston Tumani	40.5	68.91667	A	ADM2	UZ		16	1513967			0		274	Asia/Tashkent	2012-01-17
+1513982	Ghijduwon Tumani	Ghijduwon Tumani	Ghijduwon Rayoni,Ghijduwon Tumani,Gizhduvanskiy Rayon	40.5	64.83333	A	ADM2	UZ		02	1513982			0		255	Asia/Samarkand	2012-01-17
+1514010	Quyi Chirchiq Tumani	Quyi Chirchiq Tumani	Galabinskiy Rayon,Kuyichirchikskiy Rayon,Nizhnechirchikskiy Rayon,Quyi Chirchiq Tumani	40.91667	69	A	ADM2	UZ		14	1514010			110100		294	Asia/Tashkent	2022-10-11
+1514016	Dang‘ara Tumani	Dang`ara Tumani	Dang`ara Tumani,Dangarinskiy Rayon,Danghara Tumani,Dang‘ara Tumani,Frunzenskiy Rayon	40.60012	70.89216	A	ADM2	UZ		03	1514016			0		387	Asia/Tashkent	2020-06-10
+1514017	Farg‘ona Tumani	Farg`ona Tumani	Farg`ona Tumani,Farghona Rayon,Farghona Tumani,Farg‘ona Tumani,Ferganskiy Rayon	40.25003	71.75003	A	ADM2	UZ		03	1514017			0		771	Asia/Tashkent	2020-06-10
+1514024	Forish Tumani	Forish Tumani	Farishskiy Rayon,Forish District,Forish Rayoni,Forish Tumani	40.66667	67.25	A	ADM2	UZ		15	1514024			93000		254	Asia/Tashkent	2025-04-15
+1514037	Ellikqala Tumani	Ellikqala Tumani	Ellikkalinskiy Rayon,Ellikqal'a tumani,Ellikqala District,Ellikqala Tumani,Ellikqala rayoni'	42.35583	61.76375	A	ADM2	UZ		09	1514037			164600		92	Asia/Samarkand	2025-04-15
+1514068	Jizzax Tumani	Jizzax Tumani	Dzhizakskiy Rayon,Jizzakh Rayon,Jizzakh Tumani,Jizzax Tumani,Sharof Rashidov District	40.08333	67.83333	A	ADM2	UZ		15	1514068			223100		393	Asia/Tashkent	2025-04-15
+1514108	Jalolkuduk Tumani	Jalolkuduk Tumani	Dzhalalkudukskiy Rayon,Dzhalyalkudukskiy Rayon,Jalolkuduk Tumani	40.75	72.66667	A	ADM2	UZ		01	1514108			0		664	Asia/Tashkent	2012-01-17
+1514124	Dŭstlik Tumani	Dustlik Tumani	Do'stlik District,Doʻstlik District,Dustlik Tumani,Dustlikskiy Rayon,Dŭstlik Tumani	40.58333	68.08333	A	ADM2	UZ		15	1514124			0		266	Asia/Tashkent	2025-04-15
+1514190	Chust Tumani	Chust Tumani	Chust District,Chust Rayoni,Chust Tumani,Chustskiy Rayon	40.97095	71.24005	A	ADM2	UZ		06	1514190			269300		598	Asia/Tashkent	2022-10-10
+1514214	Chinoz Tumani	Chinoz Tumani	Chinazskiy Rayon,Chinoz Tumani	41	68.83333	A	ADM2	UZ		14	1514214			0		318	Asia/Tashkent	2012-01-17
+1514229	Chilonzor Tumani	Chilonzor Tumani	Chilanzarskiy Rayon,Chilonzor Rayoni,Chilonzor Tumani	41.26777	69.2008	A	ADM2	UZ		13	1514229			0		429	Asia/Tashkent	2024-05-14
+1514299	Buvayda Tumani	Buvayda Tumani	Bubaydinskiy Rayon,Buvayda Tumani,Buvaydinskiy Rayon,Buwayda Tumani	40.58333	71.16667	A	ADM2	UZ		03	1514299			0		397	Asia/Tashkent	2015-09-06
+1514327	Bŭka Tumani	Buka Tumani	Bo'ka District,Boʻka District,Buka Rayoni,Buka Tumani,Bukinskiy Rayon,Bŭka Rayoni,Bŭka Tumani	40.75	69.16667	A	ADM2	UZ		14	1514327			127500		327	Asia/Tashkent	2025-04-15
+1514336	Bo‘z Tumani	Bo`z Tumani	Bo`z Tumani,Bozskiy Rayon,Bo‘z Tumani,Buz Rayoni,Buz Tumani,Buzskiy Rayon,Bŭz Rayoni,Bŭz Tumani	40.66667	71.91667	A	ADM2	UZ		01	1514336			0		433	Asia/Tashkent	2020-06-10
+1514338	Bŭstonliq Tumani	Bustonliq Tumani	Bo'stonliq District,Bostandykskiy Rayon,Bostanlik Ilcesi,Bostanlykskiy Rayon,Bostanlık İlçesi,Boʻstonliq District,Bustonliq Tumani,Bŭstonliq Tumani	41.66667	70	A	ADM2	UZ		14	1514338			0		1350	Asia/Tashkent	2025-04-15
+1514386	Beruniy Tumani	Beruniy Tumani	Beruniy District,Beruniy Tumani,Beruniyskiy Rayon,Biruninskiy Rayon,Biruniy Rayoni,Biruniyskiy Rayon,Shabbazskiy Rayon	42.16667	61	A	ADM2	UZ		09	1514386			197400		133	Asia/Samarkand	2025-04-15
+1514399	Bekobod Tumani	Bekobod Tumani	Begovatskiy Rayon,Bekabadskiy Rayon,Bekobod Rayoni,Bekobod Tumani	40.41667	69.16667	A	ADM2	UZ		14	1514399			0		280	Asia/Tashkent	2012-01-17
+1514430	Boyowut Tumani	Boyowut Tumani	Bayaut Tumani,Bayautskiy Rayon,Boyovut District,Boyowut Rayoni,Boyowut Tumani	40.36667	69	A	ADM2	UZ		16	1514430			131700		295	Asia/Tashkent	2022-10-10
+1514451	Baliqchi Tumani	Baliqchi Tumani	Baliqchi District,Baliqchi Rayoni,Baliqchi Tumani,Balykchinskiy Rayon	40.86667	72	A	ADM2	UZ		01	1514451			207100		427	Asia/Tashkent	2022-10-10
+1514482	Bag‘dod Tumani	Bag`dod Tumani	Bag`dod Tumani,Bagdadskiy Rayon,Baghdod Rayoni,Baghdod Tumani,Bag‘dod Tumani	40.45	71.2	A	ADM2	UZ		03	1514482			0		425	Asia/Tashkent	2020-06-10
+1514485	Boghot Tumani	Boghot Tumani	Bagatskiy Rayon,Boghot Rayoni,Boghot Tumani	41.31495	60.85327	A	ADM2	UZ		05	1514485			0		106	Asia/Samarkand	2011-02-26
+1514555	Arnasoy Tumani	Arnasoy Tumani	Arnasayskiy Rayon,Arnasoy Tumani	40.5	67.86667	A	ADM2	UZ		15	1514555			0		266	Asia/Tashkent	2012-01-17
+1514584	Andijon Tumani	Andijon Tumani	Andijon Rayoni,Andijon Tumani,Andizhanskiy Rayon	40.8	72.41667	A	ADM2	UZ		01	1514584			0		623	Asia/Tashkent	2012-01-17
+1514593	Amudaryo Tumani	Amudaryo Tumani	Amudar'inskiy Rayon,Amudaryo District,Amudaryo Rayoni,Amudaryo Tumani,Amudar’inskiy Rayon	42.14947	60.09502	A	ADM2	UZ		09	1514593			204700		83	Asia/Samarkand	2022-10-10
+1514606	Oltinkŭl Tumani	Oltinkul Tumani	Altynkul'skiy Rayon,Altynkul’skiy Rayon,Oltinkul Tumani,Oltinkŭl Tumani	40.8	72.16667	A	ADM2	UZ		01	1514606			0		442	Asia/Tashkent	2012-01-17
+1514616	Oltiariq Tumani	Oltiariq Tumani	Altayarykskiy Rayon,Oltiariq Rayoni,Oltiariq Tumani	40.41667	71.5	A	ADM2	UZ		03	1514616			0		446	Asia/Tashkent	2012-01-17
+1514665	Uchtepa Tumani	Uchtepa Tumani	Akmal Ikromow Rayoni,Akmal Ikromow Tumani,Akmal'-Ikramovskij Rajon,Akmal-Ikramovskiy Rayon,Uchtepa Tumani,Акмаль-Икрамовский Район	41.29699	69.17525	A	ADM2	UZ		13	1514665			0		410	Asia/Tashkent	2024-05-14
+1514667	Oqqŭrghon Tumani	Oqqurghon Tumani	Akkurganskiy Rayon,Oqqurghon Rayoni,Oqqurghon Tumani,Oqqŭrghon Rayoni,Oqqŭrghon Tumani	40.9	69.08333	A	ADM2	UZ		14	1514667			0		314	Asia/Tashkent	2020-06-10
+1514681	Oxunboboyev Tumani	Oxunboboyev Tumani	Akhunbabayevskiy Rayon,Okhunboboyew Rayoni,Okhunboboyew Tumani,Oxunboboyev Tumani	40.53322	71.57505	A	ADM2	UZ		03	1514681			0		429	Asia/Tashkent	2015-12-05
+1514687	Ohangaron Tumani	Ohangaron Tumani	Akhangaranskiy Rayon,Ohangaron Tumani	41	70	A	ADM2	UZ		14	1514687			0		1022	Asia/Tashkent	2012-01-17
+1514705	Oqoltin Tumani	Oqoltin Tumani	Akaltynskiy Rayon,Oqoltin Tumani	40.5	68.33333	A	ADM2	UZ		16	1514705			0		273	Asia/Tashkent	2012-01-17
+1536760	Bektemir Tumani	Bektemir Tumani	Bektemir Rayoni,Bektemir Tumani,Narimonov	41.23286	69.33976	A	ADM2	UZ		13	1536760			0		420	Asia/Tashkent	2024-05-15
+1536761	Yakkasaroy Tumani	Yakkasaroy Tumani	Yakkasaroy Rayoni,Yakkasaroy Tumani	41.28142	69.24926	A	ADM2	UZ		13	1536761			0		420	Asia/Tashkent	2024-05-15
+1538226	Urganch Shahri	Urganch Shahri	Gorod Urgench,Urganch Shahri	41.55	60.63333	A	ADM2	UZ		05	1538226			0		105	Asia/Samarkand	2025-04-12
+1538227	Pitnak Shahri	Pitnak Shahri	Drujba Shahri,Gorod Druzhba,Gorod Pitnak,Pitnak Shahri	41.22222	61.30667	A	ADM2	UZ		05	1538227			0		119	Asia/Samarkand	2012-01-19
+1538228	Khiwa Shahri	Khiwa Shahri	Gorod Khiva,Khiva District,Khiwa Shahri	41.37833	60.36389	A	ADM2	UZ		05	1538228			147400		98	Asia/Samarkand	2022-10-10
+1538236	G’ijduvon Tumani	G'ijduvon Tumani	G'ijduvon,G'ijduvon District,G'ijduvon Tumani,Ghijduwon Shahri,Gorod Gizhduvan,Gʻijduvon District,G‘ijduvon,G’ijduvon Tumani	40.52014	64.82764	A	ADM2	UZ		02	1538236			311800		254	Asia/Samarkand	2022-10-10
+1538240	Jizzax Shahri	Jizzax Shahri	Gorod Dzhizak,Jizzakh Shahri,Jizzax Shahri	40.11583	67.84222	A	ADM2	UZ		15	1538240			0		382	Asia/Tashkent	2012-01-19
+1538246	Mehnatobod Tumani	Mehnatobod Tumani	Mehnatobod Tumani,Mekhnatabadskiy Rayon	40.33333	68.66667	A	ADM2	UZ		16	1538246			0		284	Asia/Tashkent	2012-01-19
+1538249	Guliston Shahri	Guliston Shahri	Gorod Gulistan,Guliston Shahri	40.48972	68.78417	A	ADM2	UZ		16	1538249			0		273	Asia/Tashkent	2012-01-19
+1538250	Sirdaryo Shahri	Sirdaryo Shahri	Gorod Syrdar'ya,Gorod Syrdar’ya,Sirdaryo Shahri	40.83948	68.66191	A	ADM2	UZ		16	1538250			0		263	Asia/Tashkent	2016-09-09
+1538251	Shirin Shahri	Shirin Shahri	Gorod Shirin,Shirin Shahri	40.23333	69.12	A	ADM2	UZ		16	1538251			0		311	Asia/Tashkent	2012-01-19
+1538252	Yangiyer Shahri	Yangiyer Shahri	Gorod Yangiyer,Yangiyer Shahri	40.2769	68.82548	A	ADM2	UZ		16	1538252			0		312	Asia/Tashkent	2016-09-09
+1538253	Bakht Shahri	Bakht Shahri	Bakht Shahri,Gorod Bakht	40.7184	68.69463	A	ADM2	UZ		16	1538253			0		267	Asia/Tashkent	2016-09-09
+1538254	Yangiyŭl Tumani	Yangiyul Tumani	Yangiyul Tumani,Yangiyul'skiy Rayon,Yangiyul’skiy Rayon,Yangiyŭl Tumani	41.16667	69	A	ADM2	UZ		12	1538254			0		361	Asia/Tashkent	2012-01-19
+1538256	Olmaliq Shahri	Olmaliq Shahri	Gorod Almalyk,Olmaliq Shahri	40.84472	69.59833	A	ADM2	UZ		14	1538256			0		569	Asia/Tashkent	2012-01-19
+1538257	Angren Shahri	Angren Shahri	Angren Shahri,Gorod Angren	41.01667	70.14361	A	ADM2	UZ		14	1538257			0		932	Asia/Tashkent	2012-01-19
+1538258	Ohangaron Shahri	Ohangaron Shahri	Gorod Akhangaran,Ohangaron Shahri	40.90639	69.63833	A	ADM2	UZ		14	1538258			0		567	Asia/Tashkent	2012-01-19
+1538259	Bekobod Shahri	Bekobod Shahri	Bekobod Shahri,Gorod Bekabad	40.21583	69.25139	A	ADM2	UZ		14	1538259			0		306	Asia/Tashkent	2012-01-19
+1538260	Chirchiq Shahri	Chirchiq Shahri	Chirchiq Shahri,Gorod Chirchik	41.46889	69.58222	A	ADM2	UZ		14	1538260			0		602	Asia/Tashkent	2012-01-19
+1538261	Yangiobod Shahri	Yangiobod Shahri	Gorod Yangiabad,Yangiobod Shahri	41.12778	70.10778	A	ADM2	UZ		14	1538261			0		1407	Asia/Tashkent	2012-01-19
+1538272	Chortoq Tumani	Chortoq Tumani	Chartakskiy Rayon,Chortoq Tumani	41.16667	71.83333	A	ADM2	UZ		06	1538272			0		785	Asia/Tashkent	2012-01-19
+1538281	Buloqboshi Tumani	Buloqboshi Tumani	Bulakbashinskiy Rayon,Buloqboshi District,Buloqboshi Tumani	40.61667	72.46667	A	ADM2	UZ		01	1538281			147000		624	Asia/Tashkent	2022-10-10
+1538282	Andijon Shahri	Andijon Shahri	Andijon Shahri,Gorod Andizhan	40.78577	72.35091	A	ADM2	UZ		01	1538282			0		500	Asia/Tashkent	2012-01-19
+1538283	Asaka Shahri	Asaka Shahri	Asaka Shahri,Gorod Asaka,Gorod Leninsk	40.63333	72.25	A	ADM2	UZ		01	1538283			0		559	Asia/Tashkent	2012-01-19
+1538284	Qorasuw Shahri	Qorasuw Shahri	Gorod Il'ichevsk,Gorod Il’ichevsk,Gorod Karasu,Qorasuw Shahri	40.7341	72.88461	A	ADM2	UZ		01	1538284			0		715	Asia/Tashkent	2012-01-19
+1538285	Khonobod Shahri	Khonobod Shahri	Gorod Khanabad,Gorod Sovetabad,Khonobod Shahri	40.79762	73.00466	A	ADM2	UZ		01	1538285			0		786	Asia/Tashkent	2012-01-19
+1538286	Shahrikhon Shahri	Shahrikhon Shahri	Gorod Shakhrikhan,Shahrikhon Shahri	40.71071	72.05787	A	ADM2	UZ		01	1538286			0		455	Asia/Tashkent	2012-01-19
+1538294	Furqat Tumani	Furqat Tumani	Furkatskiy Rayon,Furqat District,Furqat Tumani	40.50206	70.76189	A	ADM2	UZ		03	1538294			121800		384	Asia/Tashkent	2022-10-10
+1538295	So‘x Tumani	So`x Tumani	So`x Tumani,Sokhskiy Rayon,So‘x Tumani,Sukh Tumani,Sŭkh Tumani	40.04417	71.09417	A	ADM2	UZ		03	1538295			0		1085	Asia/Tashkent	2020-06-11
+1538296	Farg‘ona Shahri	Farg`ona Shahri	Farg`ona Shahri,Farghona Shahri,Farg‘ona Shahri,Gorod Fergana	40.38417	71.78889	A	ADM2	UZ		03	1538296			0		584	Asia/Tashkent	2020-06-11
+1538297	Qo‘qon Shahri	Qo`qon Shahri	Gorod Kokand,Qo`qon Shahri,Qo‘qon Shahri	40.53027	70.9424	A	ADM2	UZ		03	1538297			0		414	Asia/Tashkent	2020-06-11
+1538298	Quva Shahri	Quva Shahri	Gorod Kuva,Quva Shahri,Quwa Shahri	40.52361	72.06167	A	ADM2	UZ		03	1538298			0		492	Asia/Tashkent	2012-01-19
+1538299	Quvasoy Shahri	Quvasoy Shahri	Gorod Kuvasay,Quvasoy Shahri,Quwasoy Shahri	40.30787	71.9697	A	ADM2	UZ		03	1538299			0		794	Asia/Bishkek	2015-11-08
+1538300	Marg‘ilon Shahri	Marg`ilon Shahri	Gorod Margilan,Marg`ilon Shahri,Marghilon Shahri,Marg‘ilon Shahri	40.47111	71.72472	A	ADM2	UZ		03	1538300			0		495	Asia/Tashkent	2020-06-11
+7668818	Altyarik	Altyarik	Altyarik Shahri	40.38333	71.5	A	ADM2	UZ		03	7668818			0		469	Asia/Tashkent	2018-06-06
+7668819	Bagdad	Bagdad	Bagdad Shahri	40.48557	71.19567	A	ADM2	UZ		03	7668819			0		414	Asia/Tashkent	2018-06-06
+7668820	Rishtan	Rishtan	Rishtan Shahri	40.38501	71.23453	A	ADM2	UZ		03	7668820			0		452	Asia/Tashkent	2018-06-06
+7668830	Ulugnar	Ulugnar	Ulugnar Shahri	40.77187	71.67068	A	ADM2	UZ		01	7668830			0		400	Asia/Tashkent	2018-06-06
+7668831	Alat	Alat	Olot Shahri	39.21115	64.15041	A	ADM2	UZ		02	7668831			0		255	Asia/Samarkand	2018-06-06
+7668833	Mirishkar	Mirishkar	Mirishkor District,Mirishkor Shahri,Myrishkor Shahri	38.81801	65.02318	A	ADM2	UZ		08	7668833			121500		286	Asia/Samarkand	2022-10-10
+7668834	Pastdargom	Pastdargom	Pastdarg'om District,Pastdargʻom District	39.66399	66.65979	A	ADM2	UZ		10	7668834			360000		656	Asia/Samarkand	2022-10-10
+7668840	Bayaut	Bayaut	Bayaut Shahri,Boyovut Shahri	40.35237	68.9559	A	ADM2	UZ		16	7668840			0		293	Asia/Tashkent	2018-06-06
+7668842	Yazyavan	Yazyavan	Yazyavan Shahri	40.65383	71.61699	A	ADM2	UZ		03	7668842			0		414	Asia/Tashkent	2018-06-06
+8714362	Kamashi District	Kamashi District		38.79306	66.47472	A	ADM2	UZ		08	8714362			274600		515	Asia/Samarkand	2022-10-10
+8714363	Guzar District	Guzar District		38.52361	66.14139	A	ADM2	UZ		08	8714363			207700		554	Asia/Samarkand	2022-10-10
+8714365	Navbakhor Tumani	Navbakhor Tumani	Navbahor District	40.22	65.30306	A	ADM2	UZ		07	8714365			114700		333	Asia/Samarkand	2025-04-15
+9166490	Toyloq District	Toyloq District	Taylak District,Toyloq District	39.56305	67.15874	A	ADM2	UZ		10	9166490			205100		762	Asia/Samarkand	2022-10-10
+11611821	Pap District	Pap District		40.8667	71.2	A	ADM2	UZ		06	11611821			222700		403	Asia/Tashkent	2022-10-10

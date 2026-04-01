@@ -1,0 +1,7 @@
+﻿8299560	Lemba District	Lemba District	Lemba	0.28118	6.49944	A	ADM2	ST		02	8299560			0		241	Africa/Sao_Tome	2019-01-08
+8299561	Lobata District	Lobata District	Lobata	0.36873	6.6384	A	ADM2	ST		02	8299561			0		203	Africa/Sao_Tome	2019-01-08
+11203894	Mé-Zóchi District	Me-Zochi District	Me Zochi	0.25	6.66667	A	ADM2	ST		02	11203894			0		338	Africa/Sao_Tome	2019-01-08
+11203920	Água Grande District	Agua Grande District	Agua Grande	0.33333	6.73333	A	ADM2	ST		02	11203920			0		9	Africa/Sao_Tome	2019-01-08
+11204213	Cantagalo District	Cantagalo District	Cantagalo	0.21667	6.7	A	ADM2	ST		02	11204213			0		150	Africa/Sao_Tome	2019-01-08
+11994811	Caué District	Caue District	Caue	0.13415	6.63825	A	ADM2	ST		02	11994811			6000		31	Africa/Sao_Tome	2019-01-08
+11995790	Pagué	Pague	Pague	1.61649	7.3905	A	ADM2	ST		01	11995790			0		350	Africa/Sao_Tome	2019-01-08

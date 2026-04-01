@@ -1,0 +1,144 @@
+﻿1222381	Langkawi	Langkawi	Langkawi,Langkawi Permata Kedah	6.35608	99.78375	A	ADM2	MY		02	0207			64792		28	Asia/Kuala_Lumpur	2021-04-18
+1732585	Temerluh	Temerluh	Temerluh	3.66667	102.25	A	ADM2	MY		06	0811			0		105	Asia/Kuala_Lumpur	2021-04-18
+1732686	Daerah Batu Pahat	Daerah Batu Pahat		1.93333	103	A	ADM2	MY		01	0101			519800		24	Asia/Kuala_Lumpur	2021-04-18
+1732707	Daerah Pontian	Daerah Pontian		1.5	103.5	A	ADM2	MY		01	0109			208050		12	Asia/Kuala_Lumpur	2021-04-18
+1732737	Daerah Kota Tinggi	Daerah Kota Tinggi		1.81667	103.96667	A	ADM2	MY		01	0104			279600		38	Asia/Kuala_Lumpur	2021-04-18
+1732751	Daerah Johor Baharu	Daerah Johor Baharu	Daerah Johor Baharu,Johore Bahru	1.5141	103.75252	A	ADM2	MY		01	0102			2374778		26	Asia/Kuala_Lumpur	2021-04-21
+1732810	Daerah Keluang	Daerah Keluang	Daerah Keluang,Kluang	2.2	103.33333	A	ADM2	MY		01	0103			394800		62	Asia/Kuala_Lumpur	2021-04-18
+1732827	Daerah Mersing	Daerah Mersing		2.31667	103.71667	A	ADM2	MY		01	0107			107400		34	Asia/Kuala_Lumpur	2021-04-18
+1732847	Daerah Segamat	Daerah Segamat		2.6	102.81667	A	ADM2	MY		01	0110			287400		49	Asia/Kuala_Lumpur	2021-04-18
+1732868	Daerah Muar	Daerah Muar		2.05101	102.62068	A	ADM2	MY		01	0108			510376		10	Asia/Kuala_Lumpur	2021-04-21
+1732890	Kuala Selangor	Kuala Selangor		3.33333	101.25	A	ADM2	MY		12	1706			0		7	Asia/Kuala_Lumpur	2021-04-18
+1732904	Klang	Klang	Daerah Kelang,Klang District	3.08333	101.41667	A	ADM2	MY		12	1704			0		6	Asia/Kuala_Lumpur	2021-04-18
+1733341	Kuala Penyu	Kuala Penyu	Kuala Penyu	5.41667	115.41667	A	ADM2	MY		16	1208			0		11	Asia/Kuching	2021-04-17
+1733398	Papar	Papar		5.58333	116	A	ADM2	MY		16	1213			0		221	Asia/Kuching	2021-04-17
+1733399	Penampang	Penampang		5.83333	116.25	A	ADM2	MY		16	1214			0		568	Asia/Kuching	2021-04-17
+1733484	Tambunan	Tambunan	Tambunan	5.66667	116.41667	A	ADM2	MY		16	1221			0		998	Asia/Kuching	2021-04-17
+1733488	Ranau	Ranau	Ranau	5.91667	116.75	A	ADM2	MY		16	1217			0		544	Asia/Kuching	2021-04-17
+1733564	Bahagian Sandakan	Bahagian Sandakan	Bahagian Sandakan,Residensi Sandakan,Sandakan Residency	5.86856	118.00218	A	ADM2	MY		16	1218			0		4	Asia/Kuching	2021-04-21
+1733595	Bahagian Tawau	Bahagian Tawau	Bahagian Tawau,Residensi Tawau,Tawau Residency	4.5	118	A	ADM2	MY		16	1222			0		423	Asia/Kuching	2021-04-18
+1733684	Semporna	Semporna	Daerah Semporna,Semporna	4.5	118.33333	A	ADM2	MY		16	1219			0		53	Asia/Kuching	2021-04-17
+1733816	Keningau	Keningau		5.25	116.25	A	ADM2	MY		16	1203			0		578	Asia/Kuching	2021-04-17
+1734121	Sipitang	Sipitang	Sipitang	4.75	115.66667	A	ADM2	MY		16	1220			0		999	Asia/Kuching	2021-04-17
+1734122	Tenom District	Tenom District	District de Tenom,Distrikt Tenom,Tenom,Tenom District,Tenom Koan,Tenom Koān,dan nan xian,tenom mavattam,தெனோம் மாவட்டம்,丹南县,丹南縣	4.99695	115.89869	A	ADM2	MY		16	1223			0		278	Asia/Kuching	2021-04-20
+1734248	Beaufort	Beaufort	Beaufort	5.33333	115.66667	A	ADM2	MY		16	1201			0		15	Asia/Kuching	2021-04-17
+1734392	Kulim	Kulim	Daerah Kulim,Kulim	5.32403	100.60851	A	ADM2	MY		02	0206			0		115	Asia/Kuala_Lumpur	2021-04-18
+1734400	Larut Matang & Selama	Larut Matang & Selama	Daerah Selama,Larut Matang & Selama	5.06059	100.80217	A	ADM2	MY		07	0908			0		60	Asia/Kuala_Lumpur	2021-04-18
+1734406	Bandar Baharu	Bandar Baharu	Bandar Baharu,Bandar Bahru,Daerah Bandar Baharu	5.23007	100.6068	A	ADM2	MY		02	0202			0		24	Asia/Kuala_Lumpur	2021-04-18
+1734449	Baling	Baling	Baling,Daerah Baling	5.56578	100.72918	A	ADM2	MY		02	0201			0		41	Asia/Kuala_Lumpur	2021-04-18
+1734461	Tanah Merah	Tanah Merah		5.66667	102	A	ADM2	MY		03	0309			152400		80	Asia/Kuala_Lumpur	2023-02-03
+1734471	Bau	Bau		1.33333	110.16667	A	ADM2	MY		11	1302			0		56	Asia/Kuching	2021-04-17
+1734504	Bahagian Kuching	Bahagian Kuching	Bahagian Kuching,Bahagian Pertama,First Division	1.51551	110.31136	A	ADM2	MY		11	1311			0		13	Asia/Kuching	2021-04-21
+1734598	Daerah Kuala Kangsar	Daerah Kuala Kangsar		4.63333	100.9	A	ADM2	MY		07	0907			0		43	Asia/Kuala_Lumpur	2021-04-18
+1734640	Daerah Kinta	Daerah Kinta		4.5	101.2	A	ADM2	MY		07	0906			0		321	Asia/Kuala_Lumpur	2021-04-18
+1734782	Kuala Langat	Kuala Langat		2.75	101.5	A	ADM2	MY		12	1705			0		13	Asia/Kuala_Lumpur	2021-04-18
+1734789	Sepang	Sepang		2.75	101.66667	A	ADM2	MY		12	1709			0		18	Asia/Kuala_Lumpur	2021-04-18
+1734905	Daerha Rompin	Daerha Rompin		2.83568	103.12969	A	ADM2	MY		06	0810			0		151	Asia/Kuala_Lumpur	2021-04-21
+1734988	Bera	Bera	Bera	3.33333	102.5	A	ADM2	MY		06	0802			0		32	Asia/Kuala_Lumpur	2021-04-18
+1735085	Seberang Perai Selatan	Seberang Perai Selatan	Daerah Selatan,Selatan,Southern District	5.22558	100.47207	A	ADM2	MY		09	1102			0		6	Asia/Kuala_Lumpur	2021-07-10
+1735104	Daerah Timur Laut	Daerah Timur Laut	Daerah Timor Laut,Daerah Timur Laut,North East District	5.40412	100.29219	A	ADM2	MY		09	1105			0		15	Asia/Kuala_Lumpur	2021-04-18
+1735136	Gombak	Gombak		3.3	101.7	A	ADM2	MY		12	1701			0		238	Asia/Kuala_Lumpur	2021-04-18
+1735145	Hulu Selangor	Hulu Selangor	Daerah Ulu Selangor	3.5	101.58333	A	ADM2	MY		12	1703			0		111	Asia/Kuala_Lumpur	2021-04-18
+1735156	Petaling	Petaling	Petaling	3.08333	101.58333	A	ADM2	MY		12	1707			0		25	Asia/Kuala_Lumpur	2021-04-18
+1735173	Hulu Langat	Hulu Langat	Daerah Ulu Langat	3.08333	101.83333	A	ADM2	MY		12	1702			48073		410	Asia/Kuala_Lumpur	2024-04-21
+1735194	Sabak Bernam	Sabak Bernam		3.58333	101.11667	A	ADM2	MY		12	1708			0		12	Asia/Kuala_Lumpur	2021-04-18
+1735203	Daerah Jerantut	Daerah Jerantut	Daerah Jerantut	4.25	102.66667	A	ADM2	MY		06	0804			0		383	Asia/Kuala_Lumpur	2021-04-18
+1735261	Cameron Highlands	Cameron Highlands		4.4709	101.3764	A	ADM2	MY		06	0803			0		1442	Asia/Kuala_Lumpur	2021-04-18
+1735297	Mukah	Mukah	Mukah	2.66667	112.25	A	ADM2	MY		11	1320			0		11	Asia/Kuching	2021-04-17
+1735487	Yan	Yan	Daerah Yan,Yan,Yen	5.7905	100.39426	A	ADM2	MY		02	0212			0		53	Asia/Kuala_Lumpur	2021-04-18
+1735635	Serian	Serian	Hilir Sadong,Hulu Sadong,Serian,Upper Sadong	1.16667	110.5	A	ADM2	MY		11	1326			0		240	Asia/Kuching	2024-02-26
+1735861	Bahagian Sarikei	Bahagian Sarikei	Bahagian Kennam,Bahagian Sarikei,Sixth Division	2.03501	111.47262	A	ADM2	MY		11	1324			0		42	Asia/Kuching	2021-04-21
+1735987	Kanowit	Kanowit	Daerah Kanowit,Kanawit,Kanowit,Kanowit District	2	112.16667	A	ADM2	MY		11	1309			0		114	Asia/Kuching	2021-04-17
+1736296	Kubang Pasu	Kubang Pasu		6.40508	100.43982	A	ADM2	MY		02	0205			0		41	Asia/Kuala_Lumpur	2021-04-18
+1736333	Padang Terap	Padang Terap	Daerah Padang Terap,Padang Terap	6.24734	100.77145	A	ADM2	MY		02	0208			0		249	Asia/Kuala_Lumpur	2021-04-18
+1736341	Pendang	Pendang	Daerah Pendang,Pendang	5.98458	100.60732	A	ADM2	MY		02	0209			0		62	Asia/Kuala_Lumpur	2021-04-18
+1736342	Daerah Kota Setar	Daerah Kota Setar	Daerah Kota Setar,Kota Setar,Kota Star	6.09761	100.36321	A	ADM2	MY		02	0203			0		7	Asia/Kuala_Lumpur	2021-04-21
+1736375	Kota Bharu	Kota Bharu	Daerah Kota Baharu,Kota Bharu	6.05666	102.26451	A	ADM2	MY		03	0304			0		11	Asia/Kuala_Lumpur	2021-04-18
+1736650	Kota Kinabalu	Kota Kinabalu	Jesselton,Kota Kinabalu,kotakinaballu,코타키나발루	5.98988	116.13235	A	ADM2	MY		16	1206			0		8	Asia/Kuching	2021-04-17
+1736652	Tuaran	Tuaran		6.08333	116.33333	A	ADM2	MY		16	1225			0		248	Asia/Kuching	2021-04-17
+1736709	Lundu	Lundu		1.58333	109.75	A	ADM2	MY		11	1315			0		17	Asia/Kuching	2021-04-17
+1736724	Betong	Betong	Betong,Saribas	1.5	111.33333	A	ADM2	MY		11	1304			0		3	Asia/Kuching	2021-04-17
+1736766	Saratok	Saratok	Kalaka,Saratok	1.66667	111.41667	A	ADM2	MY		11	1323			0		35	Asia/Kuching	2021-04-17
+1736839	Lubok Antu	Lubok Antu	Lubok Antu	1.25	111.91667	A	ADM2	MY		11	1314			0		171	Asia/Kuching	2021-04-17
+1736901	Bahagian Sri Aman	Bahagian Sri Aman	Bahagian Kedua,Bahagian Sri Aman,Second Division	1.18148	111.52037	A	ADM2	MY		11	1330			0		218	Asia/Kuching	2021-04-21
+1736980	Bahagian Sibu	Bahagian Sibu	Bahagian Ketiga,Bahagian Sibu,Third Division	2.31788	111.85184	A	ADM2	MY		11	1327			0		13	Asia/Kuching	2021-04-21
+1737329	Song	Song	Song	1.83333	112.66667	A	ADM2	MY		11	1329			0		81	Asia/Kuching	2021-04-17
+1737590	Lawas	Lawas	Lawas,Lawas District	4.5	115.41667	A	ADM2	MY		11	1312			0		1269	Asia/Kuching	2021-04-17
+1737785	Bahagian Limbang	Bahagian Limbang	Bahagian Kelima,Bahagian Limbang,Fifth Division	4.16667	115.33333	A	ADM2	MY		11	1313			0		753	Asia/Kuching	2021-04-18
+1737834	Belaga	Belaga	Belaga	2.5	114.5	A	ADM2	MY		11	1303			44500		564	Asia/Kuching	2022-12-06
+1737860	Bahagian Kapit	Bahagian Kapit	Bahagian Kapit,Bahagian Ketujuh,Seventh Division	2.16667	113.75	A	ADM2	MY		11	1310			0		1461	Asia/Kuching	2021-04-18
+1737979	Tatau	Tatau		2.66667	113	A	ADM2	MY		11	1331			0		112	Asia/Kuching	2021-04-17
+1738064	Marudi	Marudi	Baram,Marudi	3.66667	114.75	A	ADM2	MY		11	1316			0		388	Asia/Kuching	2021-04-17
+1738079	Bahagian Miri	Bahagian Miri	Bahagian Keempat,Bahagian Miri,Fourth Division	4.41237	114.15268	A	ADM2	MY		11	1319			0		11	Asia/Kuching	2021-04-21
+1966738	Bahagian Kudat	Bahagian Kudat	Bahagian Kudat	6.81641	116.74943	A	ADM2	MY		16	1209			0		33	Asia/Kuching	2021-04-21
+1966740	Bahagian Bintulu	Bahagian Bintulu		3.21832	113.14754	A	ADM2	MY		11	1305			0		26	Asia/Kuching	2021-04-21
+1966741	Bahagian Samarahan	Bahagian Samarahan		1.44015	110.44811	A	ADM2	MY		11	1322			0		12	Asia/Kuching	2021-04-21
+1966748	Kota Belud	Kota Belud	Kota Belud	6.25	116.41667	A	ADM2	MY		16	1205			0		256	Asia/Kuching	2021-04-17
+1966749	Pitas	Pitas	Pitas	6.66667	117.08333	A	ADM2	MY		16	1215			0		22	Asia/Kuching	2021-04-17
+1966750	Kota Marudu	Kota Marudu	Kota Marudu	6.41667	116.75	A	ADM2	MY		16	1207			0		474	Asia/Kuching	2021-04-17
+1966751	Kinabatangan	Kinabatangan	Kinabatangan	5.41667	117.58333	A	ADM2	MY		16	1204			0		200	Asia/Kuching	2021-04-17
+1966753	Lahad Datu	Lahad Datu	Lahad Datu	5.08333	118.16667	A	ADM2	MY		16	1211			0		333	Asia/Kuching	2021-04-17
+1966755	Kunak	Kunak	Kunak	4.66667	118.08333	A	ADM2	MY		16	1210			0		447	Asia/Kuching	2021-04-17
+6805123	Sik	Sik	Sik	5.83887	100.79781	A	ADM2	MY		02	0211			0		164	Asia/Kuala_Lumpur	2021-04-17
+6805171	Kuala Muda	Kuala Muda	Kuala Muda	5.71037	100.37928	A	ADM2	MY		02	0204			0		5	Asia/Kuala_Lumpur	2021-04-18
+6823231	Seberang Perai Utara	Seberang Perai Utara	Daerah Seberang Perai Utara,SPU,Seberang Perai Utagha,wei bei xian,威北县,威北縣	5.40835	100.37873	A	ADM2	MY		09	1104			286323		7	Asia/Kuala_Lumpur	2023-04-22
+6833194	Barat Daya	Barat Daya	Barat Daya	5.36218	100.23495	A	ADM2	MY		09	1101			0		124	Asia/Kuala_Lumpur	2021-04-18
+7067991	Jeli	Jeli	Jeli	5.58762	101.81001	A	ADM2	MY		03	0303			55600		899	Asia/Kuala_Lumpur	2023-02-03
+7068125	Pasir Mas	Pasir Mas	Pasir Mas	6.04804	102.10867	A	ADM2	MY		03	0307			0		9	Asia/Kuala_Lumpur	2021-04-17
+7068169	Tumpat	Tumpat	Tumpat	6.20101	102.13521	A	ADM2	MY		03	0310			183100		2	Asia/Kuala_Lumpur	2023-02-03
+9781089	Kuala Krai	Kuala Krai		5.57362	102.21405	A	ADM2	MY		03	0305			105900		41	Asia/Kuala_Lumpur	2023-02-03
+9781175	Setiu	Setiu		5.51969	102.74605	A	ADM2	MY		13	1507			0		21	Asia/Kuala_Lumpur	2021-12-20
+9781176	Besut	Besut		5.82901	102.55238	A	ADM2	MY		13	1501			0		8	Asia/Kuala_Lumpur	2021-12-20
+9782092	Selangau	Selangau		2.49917	112.32194	A	ADM2	MY		11	1325			0		30	Asia/Kuching	2021-04-17
+12231161	Beluran	Beluran		6.05896	117.33743	A	ADM2	MY		16	1202			0		18	Asia/Kuching	2021-04-17
+12231163	Bachok	Bachok		5.99819	102.37893	A	ADM2	MY		03	0301			0		9	Asia/Kuala_Lumpur	2021-04-17
+12231165	Batang Padang	Batang Padang		4.03163	101.37164	A	ADM2	MY		07	0901			0		103	Asia/Kuala_Lumpur	2021-04-17
+12231182	Daro	Daro		2.38316	111.42004	A	ADM2	MY		11	1307			0		9	Asia/Kuching	2021-04-17
+12231185	Alor Gajah	Alor Gajah		2.38344	102.19792	A	ADM2	MY		04	0601			0		31	Asia/Kuala_Lumpur	2021-04-17
+12231188	Asajaya	Asajaya		1.55424	110.58705	A	ADM2	MY		11	1301			0		12	Asia/Kuching	2021-04-17
+12231191	Kemaman	Kemaman		4.27578	103.22623	A	ADM2	MY		13	1504			0		18	Asia/Kuala_Lumpur	2021-04-17
+12231194	Bentong	Bentong		3.3806	102.01247	A	ADM2	MY		06	0801			0		222	Asia/Kuala_Lumpur	2021-04-17
+12231196	Kuala Terengganu	Kuala Terengganu		5.3405	103.03199	A	ADM2	MY		13	1505			0		9	Asia/Kuala_Lumpur	2021-12-20
+12231198	Kuantan	Kuantan		3.85556	103.09123	A	ADM2	MY		06	0805			0		39	Asia/Kuala_Lumpur	2021-04-17
+12231200	Kulaijaya	Kulaijaya		1.67815	103.55799	A	ADM2	MY		01	0105			0		51	Asia/Kuala_Lumpur	2021-04-17
+12231203	Dalat	Dalat		2.70284	111.98925	A	ADM2	MY		11	1306			0		15	Asia/Kuching	2021-04-17
+12231205	Hulu Terengganu	Hulu Terengganu		5.04801	102.77823	A	ADM2	MY		13	1503			0		185	Asia/Kuala_Lumpur	2021-04-17
+12231210	Jelebu	Jelebu		3.04023	102.11391	A	ADM2	MY		05	0701			0		169	Asia/Kuala_Lumpur	2021-04-17
+12231212	Jempol	Jempol		2.84695	102.46726	A	ADM2	MY		05	0702			0		76	Asia/Kuala_Lumpur	2021-04-17
+12231217	Raub	Raub		3.85496	101.83485	A	ADM2	MY		06	0809			0		162	Asia/Kuala_Lumpur	2021-04-17
+12231219	Meradong	Meradong		2.11241	111.69864	A	ADM2	MY		11	1318			0		8	Asia/Kuching	2021-04-17
+12231222	Kampar	Kampar		5.22242	100.81814	A	ADM2	MY		07	0904			0		566	Asia/Kuala_Lumpur	2021-04-17
+12231227	Marang	Marang		5.06709	103.21305	A	ADM2	MY		13	1506			0		34	Asia/Kuala_Lumpur	2021-04-17
+12231232	Matu	Matu		2.63749	111.7042	A	ADM2	MY		11	1317			0		13	Asia/Kuching	2021-04-17
+12231235	Melaka Tengah	Melaka Tengah		2.24019	102.25232	A	ADM2	MY		04	0603			0		8	Asia/Kuala_Lumpur	2021-04-17
+12231237	Pekan	Pekan		3.33322	103.18392	A	ADM2	MY		06	0808			0		23	Asia/Kuala_Lumpur	2021-04-17
+12231240	Perak Tengah	Perak Tengah		4.2643	100.90971	A	ADM2	MY		07	0910			0		10	Asia/Kuala_Lumpur	2021-04-17
+12231243	Perlis	Perlis		6.50503	100.24207	A	ADM2	MY		08	1001			0		20	Asia/Kuala_Lumpur	2021-04-17
+12231253	Ledang	Ledang		2.2729	102.63885	A	ADM2	MY		01	0106			0		15	Asia/Kuala_Lumpur	2021-04-17
+12231261	Simunjan	Simunjan		1.32606	110.85025	A	ADM2	MY		11	1328			0		15	Asia/Kuching	2021-04-17
+12231269	WP. Kuala Lumpur	WP. Kuala Lumpur		3.13269	101.68549	A	ADM2	MY		14	0401			0		34	Asia/Kuala_Lumpur	2021-04-17
+12231272	Pokok Sena	Pokok Sena		6.15986	100.50837	A	ADM2	MY		02	0210			0		29	Asia/Kuala_Lumpur	2021-04-17
+12231274	Lipis	Lipis		4.34482	101.91593	A	ADM2	MY		06	0806			0		91	Asia/Kuala_Lumpur	2021-04-17
+12231280	Ulu Perak	Ulu Perak		5.4339	101.29601	A	ADM2	MY		07	0903			0		345	Asia/Kuala_Lumpur	2021-04-17
+12231290	Tampin	Tampin		2.55071	102.4599	A	ADM2	MY		05	0707			0		57	Asia/Kuala_Lumpur	2021-04-17
+12231292	W.P. Putrajaya	W.P. Putrajaya		2.90522	101.6838	A	ADM2	MY		17	1601			0		21	Asia/Kuala_Lumpur	2021-04-17
+12231294	Rembau	Rembau		2.56144	102.10003	A	ADM2	MY		05	0705			0		33	Asia/Kuala_Lumpur	2021-04-17
+12231296	Machang	Machang		5.7465	102.24805	A	ADM2	MY		03	0306			0		41	Asia/Kuala_Lumpur	2021-04-17
+12231300	W.P. Labuan	W.P. Labuan		5.30907	115.21779	A	ADM2	MY		15	0501			0		4	Asia/Kuching	2021-04-17
+12231302	Maran	Maran		3.6157	102.6661	A	ADM2	MY		06	0807			0		30	Asia/Kuala_Lumpur	2021-04-17
+12231304	Pakan	Pakan		1.79098	111.66017	A	ADM2	MY		11	1321			0		80	Asia/Kuching	2021-04-17
+12231306	Pasir Puteh	Pasir Puteh		5.8361	102.38834	A	ADM2	MY		03	0308			0		10	Asia/Kuala_Lumpur	2021-04-17
+12231308	Putatan	Putatan		5.87963	116.05652	A	ADM2	MY		16	1216			0		12	Asia/Kuching	2021-04-17
+12231310	S.P. Tengah	S.P. Tengah		5.36403	100.46034	A	ADM2	MY		09	1103			0		13	Asia/Kuala_Lumpur	2021-04-17
+12231312	Seremban	Seremban		2.75181	101.91826	A	ADM2	MY		05	0706			0		135	Asia/Kuala_Lumpur	2021-04-17
+12231317	Julau	Julau		1.82192	111.9387	A	ADM2	MY		11	1308			0		51	Asia/Kuching	2021-04-17
+12231324	Kerian	Kerian		5.01021	100.56226	A	ADM2	MY		07	0905			0		0	Asia/Kuala_Lumpur	2021-04-17
+12231329	Jasin	Jasin		2.29717	102.43437	A	ADM2	MY		04	0602			0		34	Asia/Kuala_Lumpur	2021-04-17
+12231335	Tongod	Tongod		5.12486	117.01317	A	ADM2	MY		16	1224			0		621	Asia/Kuching	2021-04-17
+12231337	Kuala Pilah	Kuala Pilah		2.73025	102.21243	A	ADM2	MY		05	0703			0		204	Asia/Kuala_Lumpur	2021-04-17
+12231346	Dungun	Dungun		4.67181	103.14205	A	ADM2	MY		13	1502			0		48	Asia/Kuala_Lumpur	2021-04-17
+12231348	Gua Musang	Gua Musang		4.94548	101.96184	A	ADM2	MY		03	0302			0		115	Asia/Kuala_Lumpur	2021-04-17
+12231350	Hilir Perak	Hilir Perak		3.93365	101.02522	A	ADM2	MY		07	0902			0		6	Asia/Kuala_Lumpur	2021-04-17
+12231352	Manjung (Dinding)	Manjung (Dinding)		4.32595	100.70581	A	ADM2	MY		07	0909			0		19	Asia/Kuala_Lumpur	2021-04-17
+12231359	Nabawan	Nabawan		4.61866	116.46305	A	ADM2	MY		16	1212			0		261	Asia/Kuching	2021-04-17
+12231367	Port Dickson	Port Dickson		2.53433	101.8922	A	ADM2	MY		05	0704			0		44	Asia/Kuala_Lumpur	2021-04-17

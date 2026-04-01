@@ -1,0 +1,42 @@
+﻿363412	Al Mudīrīyah ash Shamālīyah	Al Mudiriyah ash Shamaliyah	Al Mudiriyah ash Shamaliyah,Al Mudīrīyah ash Shamālīyah,Ash Shamaliyah,Ash Shamālīyah,Ash Shimaliyya,Northern Province	19	30	A	ADM2	SD		43	363412			0		274	Africa/Khartoum	2026-03-11
+368767	Omdurman	Omdurman	Um Durman	15.75525	32.29431	A	ADM2	SD		29	368767			0		441	Africa/Khartoum	2011-10-26
+371850	Mudīrīyat Kurdufān ash Shamālīyah	Mudiriyat Kurdufan ash Shamaliyah	Kurdufan ash Shamaliyah,Kurdufān ash Shamālīyah,Mudiriyat Kordofan al-Shamaliya,Mudiriyat Kurdufan ash Shamaliyah,Mudīrīyat Kurdufān ash Shamālīyah,Northern Kordofan,Shimal Kurdufan	14.5	29.5	A	ADM2	SD		56	371850			0		536	Africa/Khartoum	2026-03-11
+372533	Karary	Karary		16.14345	32.12128	A	ADM2	SD		29	372533			0		427	Africa/Khartoum	2011-10-26
+372535	Khartoum	Khartoum		15.51026	32.54253	A	ADM2	SD		29	372535			0		384	Africa/Khartoum	2011-10-26
+372751	Mudīrīyat Kassalā	Mudiriyat Kassala	Kasala,Kassala,Kassala Province,Kassalā,Mudiriyat Kassala,Mudīrīyat Kassalā	15	35.5	A	ADM2	SD		52	372751			0		487	Africa/Khartoum	2026-03-11
+375038	Gedaref North Rural Council	Gedaref North Rural Council	Gedaref North,Gedaref North Rural Council,GedarefNorth,Northern Gedaref Rural Council	15	35	A	ADM2	SD		39	375038			0		553	Africa/Khartoum	2022-02-18
+375845	El Meilig Rural Council	El Meilig Rural Council	El Meilig,El Meilig Rural Council,El Mi`eiliq Rural Council,El Mi‘eiliq Rural Council,ElMeilig	15.25	32.83333	A	ADM2	SD		38	375845			0		391	Africa/Khartoum	2022-02-18
+376729	Mudīrīyat Dārfūr ash Shamālīyah	Mudiriyat Darfur ash Shamaliyah	Darfur ash Shamaliyah,Dārfūr ash Shamālīyah,Mudiriyat Darfur al-Shamaliya,Mudiriyat Darfur ash Shamaliyah,Mudīrīyat Dārfūr ash Shamālīyah,Northern Darfur,Northern Darfur Rural Council,Shimal Darfur	15.5	25.5	A	ADM2	SD		55	376729			0		1148	Africa/Khartoum	2026-03-11
+376730	Mudīrīyat Dārfūr al Janūbīyah	Mudiriyat Darfur al Janubiyah	Darfur al Janubiyah,Dārfūr al Janūbīyah,Janub Darfur,Mudiriyat Darfur al Janubiyah,Mudiriyat Darfur al-Janoubiya,Mudīrīyat Dārfūr al Janūbīyah,Southern Darfur,Southern Darfur Rural Council	11.5	25	A	ADM2	SD		49	376730			0		526	Africa/Khartoum	2026-03-11
+378708	Blue Nile Province	Blue Nile Province	An Nīl al Azraq,AnNilalAzraq,Blue Nile Province,Mudiriyat an Nil al Azraq,Mudīrīyat an Nīl al Azraq	12.5	34	A	ADM2	SD		58	378708			0		458	Africa/Khartoum	2022-02-18
+379328	Mudīrīyat al Jazīrah	Mudiriyat al Jazirah	Aj Jazira,Al Jazīrah,Al Zazirah,AlJazirah,El Gezira,Mudiriyat al Jazirah,Mudīrīyat al Jazīrah	14.5	33	A	ADM2	SD		38	379328			0		400	Africa/Khartoum	2022-02-18
+379655	Mudīrīyat al Baḩr al Abyaḑ	Mudiriyat al Bahr al Abyad	Al Baḩr al Abyaḑ,AlBahralAbyad,An Nil al Abyad,An Nīl al Abyaḍ,Mudiriyat al Bahr al Abyad,Mudiriyat al Bahr al-Abiad,Mudīrīyat al Baḩr al Abyaḑ,White Nile	13.5	32.5	A	ADM2	SD		41	379655			0		374	Africa/Khartoum	2022-02-18
+7828736	Ghebeish	Ghebeish		12.53423	27.73734	A	ADM2	SD		56	7828736			0		526	Africa/Khartoum	2014-03-30
+7828737	En Nuhud	En Nuhud		12.8808	29.04599	A	ADM2	SD		56	7828737			0		639	Africa/Khartoum	2014-03-30
+8050944	Khartoum North	Khartoum North	Khartoum Bahri	15.874	32.824	A	ADM2	SD		29	8050944			0		444	Africa/Khartoum	2011-10-18
+8050945	Shendi	Shendi		16.622	34.184	A	ADM2	SD		53	8050945			0		378	Africa/Khartoum	2011-10-18
+8050946	Ad Damer	Ad Damer		17.558	33.325	A	ADM2	SD		53	8050946			0		437	Africa/Khartoum	2011-10-18
+8050947	Atbara	Atbara		17.285	35.025	A	ADM2	SD		53	8050947			0		379	Africa/Khartoum	2011-10-18
+8050948	Sinkat	Sinkat		18.392	35.976	A	ADM2	SD		36	8050948			0		563	Africa/Khartoum	2011-10-18
+8050949	Port Sudan	Port Sudan		20.023	35.393	A	ADM2	SD		36	8050949			0		552	Africa/Khartoum	2011-10-18
+8051145	Merawi	Merawi	Merowe	18.31	31.94	A	ADM2	SD		43	8051145			0		325	Africa/Khartoum	2014-09-13
+8051146	Sheikan	Sheikan		13.977	29.992	A	ADM2	SD		56	8051146			0		508	Africa/Khartoum	2025-01-20
+8051147	Um Rawaba	Um Rawaba		13.21	31.23	A	ADM2	SD		56	8051147			0		445	Africa/Khartoum	2011-10-25
+8051148	Kosti	Kosti		12.73	32.31	A	ADM2	SD		41	8051148			0		403	Africa/Khartoum	2011-10-25
+8051149	Al Jabalian	Al Jabalian		12.95	32.96	A	ADM2	SD		41	8051149			0		389	Africa/Khartoum	2014-03-30
+8051156	Sharg En Nile	Sharg En Nile		15.77	33.56	A	ADM2	SD		29	8051156			0		523	Africa/Khartoum	2011-10-26
+8051351	Al Fushqa	Al Fushqa		14.079	36.084	A	ADM2	SD		39	8051351			0		541	Africa/Khartoum	2015-07-28
+8051352	Seteet	Seteet		14.666	36.147	A	ADM2	SD		39	8051352			0		516	Africa/Khartoum	2014-03-20
+9072511	Baw	Baw		11.38374	34.08453	A	ADM2	SD		42	9072511			0		878	Africa/Khartoum	2014-09-13
+10344732	Kas District	Kas District		12.45752	24.01199	A	ADM2	SD		49	10344732			0		1082	Africa/Khartoum	2015-07-28
+10400488	Nyala District	Nyala District		12.04503	24.89021	A	ADM2	SD		49	10400488			0		655	Africa/Khartoum	2015-08-06
+10400594	Kutum District	Kutum District		14.21114	24.67255	A	ADM2	SD		55	10400594			0		1111	Africa/Khartoum	2015-08-04
+11237761	Um Al Gura	Um Al Gura		14.17141	33.47533	A	ADM2	SD		38	11237761			0		413	Africa/Khartoum	2018-12-21
+11239073	Bara	Bara		13.70537	30.37565	A	ADM2	SD		56	11239073			0		478	Africa/Khartoum	2018-12-21
+12196614	Singa Locality	Singa Locality	Mahalliyat Sinjah,Maḩallīyat Sinjah,Singa,Singa Locality,Sinja,Sinjah,mhlyt snjt,snjt,سنجة,محلية سنجة	13.15183	33.74941	A	ADM2	SD		58	12196614			0		433	Africa/Khartoum	2020-11-17
+12196615	Sennar Locality	Sennar Locality	Mahalliyat Sinnar,Maḩallīyat Sinnār,Sennar,Sennar Locality,Sinnar,Sinnār,mhlyt snar,snar,سنار,محلية سنار	13.58537	33.23343	A	ADM2	SD		58	12196615			0		487	Africa/Khartoum	2020-11-17
+12196616	East Sennar Locality	East Sennar Locality	East Sennar,East Sennar Locality,East Sinnar,Eastern Sennar,Mahalliyat Sharq Sinnar,Maḩallīyat Sharq Sinnār,Sharg Sennar,Sharq Sinnar,Sharq Sinnār,mhlyt shrq snar,shrq snar,شرق سنار,محلية شرق سنار	13.78382	33.83655	A	ADM2	SD		58	12196616			0		422	Africa/Khartoum	2020-11-17
+12196617	Ed Dinder Locality	Ed Dinder Locality	Ad Dindir,Ed Dinder,Ed Dinder Locality,El Dindir,Eldindir,Mahalliyat ad Dindir,Maḩallīyat ad Dindir,aldndr,mhlyt aldndr,الدندر,محلية الدندر	12.88172	34.72831	A	ADM2	SD		58	12196617			0		458	Africa/Khartoum	2020-11-17
+12196618	Es Suki Locality	Es Suki Locality	Alsoky,As Suki,As Sūkī,El Souki,Es Suki,Es Suki Locality,Mahalliyat as Suki,Maḩallīyat as Sūkī,alswky,mhlyt alswky,السوكي,محلية السوكي	12.99615	34.10142	A	ADM2	SD		58	12196618			0		442	Africa/Khartoum	2020-11-17
+12196619	Abu Hujar Locality	Abu Hujar Locality	Abu Houjar,Abu Hugar,Abu Hujar,Abu Hujar Locality,Abū Ḩujār,Mahalliyat Abu Hujar,Maḩallīyat Abū Ḩujār,abw hjar,mhlyt abw hjar,أبو حجار,محلية أبو حجار	12.65929	33.89312	A	ADM2	SD		58	12196619			0		461	Africa/Khartoum	2020-11-17
+12196620	El Dali Locality	El Dali Locality	Ad Dali wa al Mazmum,Ad Dālī wa al Mazmūm,Edali and Mazmom,El Dali,El Dali Locality,Eldali,Mahalliyat ad Dali wa al Mazmum,Maḩallīyat ad Dālī wa al Mazmūm,aldaly walmzmwm,mhlyt aldaly walmzmwm,الدالي والمزموم,محلية الدالي والمزموم	12.59084	33.39462	A	ADM2	SD		58	12196620			0		491	Africa/Khartoum	2020-11-17

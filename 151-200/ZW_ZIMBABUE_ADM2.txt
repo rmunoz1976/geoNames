@@ -1,0 +1,62 @@
+﻿878548	Zvishavane District	Zvishavane District	Shavani,Zvishavane,Zvishavane District	-20.30345	30.07514	A	ADM2	ZW		02	878548			103889		945	Africa/Harare	2015-10-04
+879178	Hwedza District	Hwedza District	Hwedza,Hwedza District,Wedza,Wedza District	-18.72729	31.65355	A	ADM2	ZW		04	879178			0		1264	Africa/Harare	2015-10-04
+879611	Umzingwane District	Umzingwane District	Mudzingwani,Umzingwane,Umzingwane District,Umzingwani District	-20.34704	28.94994	A	ADM2	ZW		07	879611			56870		1196	Africa/Harare	2015-10-06
+881163	Shurugwi District	Shurugwi District	Churugwi,Shurugwi,Shurugwi District	-19.75	30.16667	A	ADM2	ZW		02	881163			84739		1174	Africa/Harare	2015-10-04
+881344	Shamva District	Shamva District	Shamva,Shamva District,Tsambvi	-17.12366	31.64146	A	ADM2	ZW		03	881344			165641		925	Africa/Harare	2025-04-10
+881519	Seke District	Seke District	Seke,Seke District,Seki District	-18.23573	30.95649	A	ADM2	ZW		04	881519			0		1330	Africa/Harare	2015-10-04
+882083	Rushinga District	Rushinga District	Rushinga,Rushinga District	-16.60792	32.31434	A	ADM2	ZW		03	882083			76876		803	Africa/Harare	2025-04-10
+883480	Nyanga District	Nyanga District	Nyanga,Nyanga District	-17.92951	32.76561	A	ADM2	ZW		01	883480			117630		1633	Africa/Harare	2015-10-04
+883763	Tsholotsho District	Tsholotsho District	Enyamayendhlovu,Nyamandhlovu District,Tsholotsho,Tsholotsho District	-19.58552	27.46718	A	ADM2	ZW		06	883763			0		1018	Africa/Harare	2015-10-04
+884216	Nkayi District	Nkayi District	Nkayi,Nkayi District	-18.92472	28.71221	A	ADM2	ZW		06	884216			110783		1145	Africa/Harare	2015-10-04
+884594	Zaka	Zaka	Ndanga District,Zaka,Zaka District	-20.3601	31.4267	A	ADM2	ZW		08	884594			0		777	Africa/Harare	2015-10-04
+884756	Mwenezi District	Mwenezi District	Mwenezi,Mwenezi District	-21.35838	30.70668	A	ADM2	ZW		08	884756			133108		492	Africa/Harare	2015-10-04
+884926	Mutoko District	Mutoko District	Mutoko,Mutoko District	-17.46615	32.29419	A	ADM2	ZW		04	884926			0		1149	Africa/Harare	2015-10-06
+884977	Mutasa District	Mutasa District	Mutasa,Mutasa District	-18.66283	32.74547	A	ADM2	ZW		01	884977			169457		1579	Africa/Harare	2015-10-04
+884978	Mutare District	Mutare District	Mutare,Mutare District,Nyautare	-19.25512	32.44327	A	ADM2	ZW		01	884978			408024		860	Africa/Harare	2015-10-04
+885172	Murehwa District	Murehwa District	Mrewa,Murehwa,Murehwa District,Murewa,Murewa District	-17.80057	31.83083	A	ADM2	ZW		04	885172			165788		1364	Africa/Harare	2015-10-04
+885457	Mudzi District	Mudzi District	Mudzi,Mudzi District	-17.04711	32.65279	A	ADM2	ZW		04	885457			137053		738	Africa/Harare	2015-10-06
+886328	Mberengwa District	Mberengwa District	Mberengwa,Mberengwa District	-20.72579	30.00962	A	ADM2	ZW		02	886328			183166		1039	Africa/Harare	2015-10-04
+886383	Mazowe District	Mazowe District	Mazowe,Mazowe District	-17.2808	30.93231	A	ADM2	ZW		03	886383			293363		1271	Africa/Harare	2025-04-10
+886636	Matobo	Matobo	Matobo,Matobo District	-20.95545	28.49463	A	ADM2	ZW		07	886636			101994		1017	Africa/Harare	2015-10-06
+886762	Masvingo District	Masvingo District	Fort Victoria District,Masvingo,Masvingo District	-20.31481	30.90008	A	ADM2	ZW		08	886762			265000		1120	Africa/Harare	2015-10-04
+886989	Marondera District	Marondera District	Marandellas,Marondera,Marondera District	-18.29214	31.51252	A	ADM2	ZW		04	886989			161416		1501	Africa/Harare	2025-04-10
+887718	Makoni District	Makoni District	Makoni,Makoni District	-18.3355	32.1465	A	ADM2	ZW		01	887718			283017		1561	Africa/Harare	2015-10-04
+887723	Makonde District	Makonde District	Makonde,Makonde District,Nemakonde	-17.16667	30.08333	A	ADM2	ZW		05	887723			184135		1184	Africa/Harare	2015-10-04
+888223	Lupane District	Lupane District	Lupane,Lupane District,Lupani District	-18.83608	27.99098	A	ADM2	ZW		06	888223			100562		981	Africa/Harare	2015-10-04
+888708	Kwekwe District	Kwekwe District	Hwe Hwe,Kwekwe,Kwekwe District	-18.75	29.5	A	ADM2	ZW		02	888708			299646		1120	Africa/Harare	2015-10-04
+889214	Kariba District	Kariba District	Kariba,Kariba District	-16.91011	28.65983	A	ADM2	ZW		05	889214			61821		971	Africa/Harare	2015-10-04
+889452	Kadoma District	Kadoma District	Kadoma,Kadoma District	-18.34049	29.82831	A	ADM2	ZW		05	889452			245741		1107	Africa/Harare	2015-10-04
+889793	Insiza District	Insiza District	Insiza,Insiza District	-20.26431	29.47392	A	ADM2	ZW		07	889793			88385		1195	Africa/Harare	2015-10-04
+889941	Hwange District	Hwange District	Hwange,Hwange District	-18.75	26.5	A	ADM2	ZW		06	889941			132778		1079	Africa/Harare	2013-12-29
+889953	Hurungwe District	Hurungwe District	Hurungwe,Hurungwe District,Karoi	-16.41301	29.5858	A	ADM2	ZW		05	889953			328516		1165	Africa/Harare	2015-10-04
+890298	Harare District	Harare District	Harare,Harare District,Salisbury	-17.8128	31.06864	A	ADM2	ZW		10	890298			1491740		1495	Africa/Harare	2025-04-09
+890420	Gweru District	Gweru District	Gwelo,Gweru,Gweru District	-19.45665	29.64495	A	ADM2	ZW		02	890420			158200		1351	Africa/Harare	2025-04-09
+890515	Gwanda District	Gwanda District	Gwanda,Gwanda District,Jawunda	-21.20929	29.17557	A	ADM2	ZW		07	890515			135929		873	Africa/Harare	2015-10-04
+890589	Gutu District	Gutu District	Gutu,Gutu District	-19.60884	31.25059	A	ADM2	ZW		08	890589			198369		1227	Africa/Harare	2015-10-04
+890599	Guruve District	Guruve District	Chipuriro,Guruve,Guruve District	-16.37206	30.60607	A	ADM2	ZW		03	890599			200833		667	Africa/Harare	2015-10-04
+890848	Goromonzi District	Goromonzi District	Goromonzi,Goromonzi District	-17.80695	31.36372	A	ADM2	ZW		04	890848			187893		1345	Africa/Harare	2015-10-04
+890981	Gokwe North District	Gokwe North District	Gokwe,Gokwe North	-17.53	28.91	A	ADM2	ZW		02	890981			249723		825	Africa/Harare	2025-04-09
+892597	Mount Darwin	Mount Darwin	Darwin District,Mount Darwin,Mount Darwin District,Mt. Darwin	-16.60792	31.68578	A	ADM2	ZW		03	892597			0		981	Africa/Harare	2015-10-04
+893171	Chivi District	Chivi District	Chivi,Chivi District	-20.5	30.58333	A	ADM2	ZW		08	893171			172979		891	Africa/Harare	2025-04-10
+893405	Chirumanzu District	Chirumanzu District	Chirumanzu,Chirumanzu District,Chirumhanzu,Chirumhanzu District	-19.29944	30.52133	A	ADM2	ZW		02	893405			1811905		1407	Africa/Harare	2025-04-10
+893482	Chiredzi District	Chiredzi District	Chiredzi,Chiredzi District	-21.28585	31.77039	A	ADM2	ZW		08	893482			303503		357	Africa/Harare	2025-04-10
+893548	Chipinge District	Chipinge District	Chipinge,Chipinge District	-20.54959	32.4311	A	ADM2	ZW		01	893548			270746		662	Africa/Harare	2015-10-04
+893811	Chimanimani District	Chimanimani District	Chimanimani,Chimanimani District	-19.78295	32.73338	A	ADM2	ZW		01	893811			117190		1299	Africa/Harare	2015-10-04
+894238	Chegutu District	Chegutu District	Chegutu,Chegutu District	-18.13097	30.40046	A	ADM2	ZW		05	894238			233717		1231	Africa/Harare	2015-10-04
+894293	Chikomba District	Chikomba District	Charter District,Chikomba,Chikomba District	-18.88846	31.09751	A	ADM2	ZW		04	894293			0		1568	Africa/Harare	2015-10-04
+894459	Centenary District	Centenary District	Centenary,Centenary District,Muzarabani,Muzarabani District	-16.41667	31.16667	A	ADM2	ZW		03	894459			121127		482	Africa/Harare	2016-08-03
+894700	Bulawayo District	Bulawayo District	Bulawayo,Bulawayo District	-20.13349	28.55104	A	ADM2	ZW		09	894700			0		1358	Africa/Harare	2015-10-04
+894702	Mangwe District	Mangwe District	Bulalima Mangwe District,Bulilimamangwe District,Mangwe,Mangwe District	-20.95545	27.98292	A	ADM2	ZW		07	894702			80287		1081	Africa/Harare	2015-10-04
+894711	Buhera District	Buhera District	Buhera,Buhera District,Uhera	-19.45658	31.93156	A	ADM2	ZW		01	894711			224072		919	Africa/Harare	2015-10-04
+894741	Bubi District	Bubi District	Bubi,Bubi District	-19.52508	28.67998	A	ADM2	ZW		06	894741			51504		1199	Africa/Harare	2015-10-04
+895055	Binga District	Binga District	Binga,Binga District,Vinga	-17.8046	27.70088	A	ADM2	ZW		06	895055			129421		1072	Africa/Harare	2015-10-04
+895060	Bindura District	Bindura District	Bindura,Bindura District	-17.2123	31.303	A	ADM2	ZW		03	895060			156842		1047	Africa/Harare	2015-10-04
+895080	Bikita District	Bikita District	Bikita,Bikita District	-20.13752	31.93156	A	ADM2	ZW		08	895080			157084		743	Africa/Harare	2015-10-04
+895268	Beitbridge District	Beitbridge District	Beit Bridge,Beitbridge,Beitbridge District	-21.89829	30.07409	A	ADM2	ZW		07	895268			111283		557	Africa/Harare	2015-10-04
+8260609	Gokwe South District	Gokwe South District	Gokwe,Gokwe South	-18.24	28.65	A	ADM2	ZW		02	8260609			0		1161	Africa/Harare	2012-04-24
+10172877	Zaka District	Zaka District		-20.05	31.37	A	ADM2	ZW		08	10172877			0		1030	Africa/Harare	2015-03-19
+10800403	Bulilima District	Bulilima District	Bulililama,Bulililama District,Bulilima,Bulilima District,Bulilimamangwe	-20.2324	27.651	A	ADM2	ZW		07	10800403			0		1253	Africa/Harare	2015-10-07
+10800410	Zvimba District	Zvimba District	Zvimba,Zvimba District	-17.53984	30.47496	A	ADM2	ZW		05	10800410			0		1356	Africa/Harare	2015-10-07
+10800411	Uzumba-Maramba-Pfungwe District	Uzumba-Maramba-Pfungwe District	UMP,Uzumba-Maramba-Pfungwe,Uzumba-Maramba-Pfungwe District	-17.03775	32.0257	A	ADM2	ZW		04	10800411			0		775	Africa/Harare	2015-10-07
+10800412	Umguza District	Umguza District	Umguza,Umguza District	-19.85324	28.31408	A	ADM2	ZW		06	10800412			0		1271	Africa/Harare	2015-10-07
+11204515	Mossurize District	Mossurize District		-20.45821	32.44589	A	ADM2	ZW		01	11204515			0		1038	Africa/Harare	2016-07-19

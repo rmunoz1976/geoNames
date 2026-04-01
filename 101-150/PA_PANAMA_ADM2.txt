@@ -1,0 +1,82 @@
+﻿3700535	Distrito de Tonosí	Distrito de Tonosi	Distrito Tonosi,Distrito Tonosí,Distrito de Tonosi,Distrito de Tonosí,Tonosi,Tonosi District,Tonosi district,Tonosí,Tonosí District	7.42119	-80.5174	A	ADM2	PA		07	0707			9787		76	America/Panama	2023-06-14
+3700557	Distrito de Tolé	Distrito de Tole	Distrito de Tole,Distrito de Tolé,Tole,Tole District,Tolé,Tolé District	8.19015	-81.66007	A	ADM2	PA		02	0413			11885		302	America/Panama	2023-06-14
+3700799	Distrito de Taboga	Distrito de Taboga	Distrito Taboga,Distrito de Taboga,Taboga,Taboga District	8.78333	-79.55833	A	ADM2	PA		08	0811			1387		0	America/Panama	2023-06-14
+3700886	Distrito de Soná	Distrito de Sona	Distrito Sona,Distrito Soná,Distrito de Sona,Distrito de Soná,Sona,Sona District,Soná,Soná District	7.89125	-81.33533	A	ADM2	PA		10	0911			27833		91	America/Panama	2023-06-14
+3701113	Distrito de Santiago	Distrito de Santiago	Distrito Santiago,Distrito de Santiago,Santiago,Santiago District	8.07935	-81.00271	A	ADM2	PA		10	0910			129821		92	America/Panama	2023-06-14
+3701171	Distrito de Santa María	Distrito de Santa Maria	Distrito Santa Maria,Distrito Santa María,Distrito de Santa Maria,Distrito de Santa María,Santa Maria,Santa Maria District,Santa María,Santa María District	8.11667	-80.68333	A	ADM2	PA		06	0607			7421		24	America/Panama	2023-06-14
+3701183	Distrito de Santa Isabel	Distrito de Santa Isabel	Distrito Santa Isabel,Distrito de Santa Isabel,Santa Isabel,Santa Isabel District	9.51008	-79.32183	A	ADM2	PA		04	0305			3436		91	America/Panama	2023-06-14
+3701191	Santa Fe	Santa Fe	Distrito Santa Fe,Distrito de Santa Fe,Distrito de Santa Fé,Santa Fe,Santa Fe District,Santa Fé District	8.67301	-80.99143	A	ADM2	PA		10	0909			15585		1200	America/Panama	2023-06-14
+3701328	Distrito de San Miguelito	Distrito de San Miguelito	Distrito San Miguelito,Distrito de San Miguelito,San Miguelito,San Miguelito District	9.05657	-79.49343	A	ADM2	PA		08	0810			375409		67	America/Panama	2023-06-14
+3701365	Distrito de San Lorenzo	Distrito de San Lorenzo	Distrito San Lorenzo,Distrito de San Lorenzo,San Lorenzo,San Lorenzo District	8.34189	-82.11385	A	ADM2	PA		02	0412			7507		43	America/Panama	2023-06-14
+3701474	Distrito de San Francisco	Distrito de San Francisco	Distrito San Francisco,Distrito de San Francisco,San Francisco,San Francisco District	8.30685	-81.01904	A	ADM2	PA		10	0908			10536		117	America/Panama	2023-06-14
+3701489	Distrito de San Félix	Distrito de San Felix	Distrito San Felix,Distrito San Félix,Distrito de San Felix,Distrito de San Félix,San Felix,San Felix District,San Félix,San Félix District	8.26125	-81.90353	A	ADM2	PA		02	0411			6304		28	America/Panama	2023-06-14
+3701523	Distrito de San Carlos	Distrito de San Carlos	Distrito San Carlos,Distrito de San Carlos,San Carlos,San Carlos District	8.54641	-80.03885	A	ADM2	PA		13	1309			24001		293	America/Panama	2023-06-14
+3701878	Distrito de Río de Jesús	Distrito de Rio de Jesus	Distrito Rio de Jesus,Distrito Río de Jesús,Distrito de Rio de Jesus,Distrito de Río de Jesús,Rio de Jesus,Rio de Jesus District,Río de Jesús,Río de Jesús District	7.95287	-81.1639	A	ADM2	PA		10	0907			5501		98	America/Panama	2023-06-14
+3701989	Distrito de Renacimiento	Distrito de Renacimiento	Distrito Renacimiento,Distrito de Renacimiento,Renacimiento,Renacimiento District	8.74486	-82.79016	A	ADM2	PA		02	0410			20524		829	America/Panama	2023-06-14
+3701992	Distrito de Remedios	Distrito de Remedios	Distrito Remedios,Distrito de Remedios,Remedios,Remedios District	8.21667	-81.8	A	ADM2	PA		02	0409			4052		33	America/Panama	2023-06-14
+3702573	Distrito de Portobelo	Distrito de Portobelo	Distrito Portobelo,Distrito de Portobelo,Portobelo,Portobelo District	9.49485	-79.65162	A	ADM2	PA		04	0304			10581		300	America/Panama	2023-06-14
+3702627	Distrito de Pocrí	Distrito de Pocri	Distrito de Pocri,Distrito de Pocrí,Pocri,Pocri District,Pocrí,Pocrí District	7.63721	-80.1647	A	ADM2	PA		07	0706			3259		51	America/Panama	2023-06-20
+3702816	Distrito de Pinogana	Distrito de Pinogana	Distrito de Pinogana,Pinogana,Pinogana District	8.35247	-77.83232	A	ADM2	PA		05	0502			26160		121	America/Panama	2023-06-14
+3703009	Distrito de Pesé	Distrito de Pese	Distrito Pese,Distrito Pesé,Distrito de Pese,Distrito de Pesé,Pese,Pese District,Pesé,Pesé District	7.88194	-80.63261	A	ADM2	PA		06	0606			12397		114	America/Panama	2023-06-14
+3703066	Distrito Penonomé	Distrito Penonome	Penonome District,Penonomé District	8.63	-80.28333	A	ADM2	PA		03	0206			85737		208	America/Panama	2018-01-23
+3703237	Distrito de Pedasí	Distrito de Pedasi	Distrito Pedasi,Distrito Pedasí,Distrito de Pedasi,Distrito de Pedasí,Pedasi,Pedasi District,Pedasí,Pedasí District	7.48528	-80.12747	A	ADM2	PA		07	0705			4275		156	America/Panama	2023-06-14
+3703351	Distrito de Parita	Distrito de Parita	Distrito Parita,Distrito de Parita,Parita,Parita District	8.03777	-80.57358	A	ADM2	PA		06	0605			8885		100	America/Panama	2023-06-14
+3703439	Distrito de Panamá	Distrito de Panama	Distrito de Panama,Distrito de Panamá,Panama,Panama District,Panamá,Panamá District	9.24438	-79.4275	A	ADM2	PA		08	0808			1183333		532	America/Panama	2023-06-14
+3703743	Distrito de Olá	Distrito de Ola	Distrito Ola,Distrito Olá,Distrito de Ola,Distrito de Olá,Ola,Ola District,Olá,Olá District	8.48053	-80.65324	A	ADM2	PA		03	0205			5875		316	America/Panama	2023-06-14
+3703784	Distrito de Ocú	Distrito de Ocu	Distrito Ocu,Distrito Ocú,Distrito de Ocu,Distrito de Ocú,Ocu,Ocu District,Ocú,Ocú District	7.93597	-80.80409	A	ADM2	PA		06	0604			15539		147	America/Panama	2023-06-14
+3703935	Distrito de Natá	Distrito de Nata	Distrito Nata,Distrito Natá,Distrito de Nata,Distrito de Natá,Nata,Nata District,Natá,Natá District	8.35992	-80.56468	A	ADM2	PA		03	0204			18465		56	America/Panama	2023-06-14
+3704121	Distrito de Montijo	Distrito de Montijo	Distrito Montijo,Distrito de Montijo,Montijo,Montijo District	7.95316	-81.05301	A	ADM2	PA		10	0906			7060		16	America/Panama	2025-01-28
+3704872	Distrito de Macaracas	Distrito de Macaracas	Distrito Macaracas,Distrito de Macaracas,Macaracas,Macaracas District	7.65817	-80.53526	A	ADM2	PA		07	0704			9021		198	America/Panama	2023-06-14
+3704962	Distrito de Los Santos	Distrito de Los Santos	Distrito Los Santos,Distrito de Los Santos,Los Santos,Los Santos District	7.88333	-80.45	A	ADM2	PA		07	0703			25723		105	America/Panama	2023-06-14
+3705017	Distrito de Los Pozos	Distrito de Los Pozos	Distrito Los Pozos,Distrito de Los Pozos,Los Pozos,Los Pozos District	7.70944	-80.64311	A	ADM2	PA		06	0603			7478		248	America/Panama	2023-06-14
+3706205	Distrito de Las Tablas	Distrito de Las Tablas	Distrito Las Tablas,Distrito de Las Tablas,Las Tablas,Las Tablas District	7.64843	-80.29933	A	ADM2	PA		07	0702			27146		195	America/Panama	2023-06-14
+3706289	Distrito de Las Palmas	Distrito de Las Palmas	Distrito Las Palmas,Distrito de Las Palmas,Las Palmas,Las Palmas District	8.06424	-81.51368	A	ADM2	PA		10	0905			18493		417	America/Panama	2023-06-14
+3706342	Distrito de Las Minas	Distrito de Las Minas	Distrito Las Minas,Distrito de Las Minas,Las Minas,Las Minas District	7.73959	-80.79683	A	ADM2	PA		06	0602			7551		659	America/Panama	2023-06-14
+3706929	Distrito de La Pintada	Distrito de La Pintada	Distrito La Pintada,Distrito de La Pintada,La Pintada,La Pintada District	8.69436	-80.54077	A	ADM2	PA		03	0203			25639		687	America/Panama	2023-06-14
+3707217	Distrito de La Mesa	Distrito de La Mesa	Distrito La Mesa,Distrito de La Mesa,La Mesa,La Mesa District	8.18161	-81.21744	A	ADM2	PA		10	0904			12052		82	America/Panama	2023-06-14
+3707960	Distrito de La Chorrera	Distrito de La Chorrera	Distrito de La Chorrera,La Chorrera,La Chorrera District	8.96182	-79.86971	A	ADM2	PA		13	1307			199708		101	America/Panama	2023-06-14
+3708907	Distrito de Guararé	Distrito de Guarare	Distrito Guarare,Distrito Guararé,Distrito de Guarare,Distrito de Guararé,Guarare,Guarare District,Guararé,Guararé District	7.77021	-80.37515	A	ADM2	PA		07	0701			10381		99	America/Panama	2023-06-14
+3708946	Distrito de Gualaca	Distrito de Gualaca	Distrito Gualaca,Distrito de Gualaca,Gualaca,Gualaca District	8.59982	-82.24321	A	ADM2	PA		02	0408			9750		579	America/Panama	2023-06-14
+3711599	Distrito de Donoso	Distrito de Donoso	Distrito Donoso,Distrito de Donoso,Donoso,Donoso District	9.01999	-80.42967	A	ADM2	PA		04	0303			14798		161	America/Panama	2023-06-14
+3711616	Distrito de Dolega	Distrito de Dolega	Distrito Dolega,Distrito de Dolega,Doleca,Dolega,Dolega District	8.63463	-82.47694	A	ADM2	PA		02	0407			25102		617	America/Panama	2023-06-14
+3711666	Distrito de David	Distrito de David	David,David District,Distrito David,Distrito de David	8.4	-82.4	A	ADM2	PA		02	0406			144858		8	America/Panama	2023-06-14
+3712075	Distrito de Colón	Distrito de Colon	Colon,Colon District,Colón,Colón District,Distrito de Colon,Distrito de Colón	9.23333	-79.78333	A	ADM2	PA		04	0301			253366		72	America/Panama	2023-06-14
+3712382	Distrito de Chitré	Distrito de Chitre	Chitre,Chitre District,Chitré,Chitré District,Distrito de Chitre,Distrito de Chitré	7.98333	-80.43333	A	ADM2	PA		06	0601			50684		26	America/Panama	2023-06-20
+3712399	Distrito Chiriquí Grande	Distrito Chiriqui Grande	Chiriqui Grande District,Chiriquí Grande District	8.94748	-82.12418	A	ADM2	PA		01	0103			14533		22	America/Panama	2023-06-20
+3712446	Distrito de Chimán	Distrito de Chiman	Chiman,Chiman District,Chimán,Chimán District,Distrito Chiman,Distrito Chimán,Distrito de Chiman,Distrito de Chimán	8.80252	-78.63686	A	ADM2	PA		08	0806			3531		30	America/Panama	2023-06-14
+3712502	Distrito de Chepo	Distrito de Chepo	Chepo,Chepo District,Distrito Chepo,Distrito de Chepo	9.17391	-78.70374	A	ADM2	PA		08	0805			59382		129	America/Panama	2023-06-14
+3712512	Distrito de Chepigana	Distrito de Chepigana	Chepigana,Chepigana District,Distrito de Chepigana	7.92393	-77.94053	A	ADM2	PA		05	0501			30110		163	America/Panama	2023-06-14
+3712558	Distrito de Changuinola	Distrito de Changuinola	Changuinola,Changuinola District,Distrito Changuinola,Distrito de Changuinola	9.36667	-82.68333	A	ADM2	PA		01	0102			98310		237	America/Panama	2023-06-14
+3712575	Distrito de Chame	Distrito de Chame	Chame,Chame District,Distrito Chame,Distrito de Chame	8.61708	-79.91798	A	ADM2	PA		13	1304			31373		79	America/Panama	2023-06-14
+3712596	Distrito de Chagres	Distrito de Chagres	Chagres,Chagres District,Distrito Chagres,Distrito de Chagres	9.123	-80.11841	A	ADM2	PA		04	0302			11342		64	America/Panama	2023-06-14
+3713045	Distrito de Capira	Distrito de Capira	Capira,Capira District,Distrito Capira,Distrito de Capira	8.78986	-80.01806	A	ADM2	PA		13	1303			47244		229	America/Panama	2023-06-14
+3713184	Distrito de Cañazas	Distrito de Canazas	Canazas,Canazas District,Cañazas,Cañazas District,Distrito Canazas,Distrito Cañazas,Distrito de Canazas,Distrito de Cañazas	8.35596	-81.28633	A	ADM2	PA		10	0903			18022		160	America/Panama	2023-06-14
+3713393	Distrito de Calobre	Distrito de Calobre	Calobre,Calobre District,Distrito Calobre,Distrito de Calobre	8.37549	-80.8381	A	ADM2	PA		10	0902			12159		291	America/Panama	2023-06-14
+3713665	Distrito de Bugaba	Distrito de Bugaba	Bugaba District,Distrito Bugaba,Distrito de Bugaba	8.54529	-82.68467	A	ADM2	PA		02	0405			78209		296	America/Panama	2023-01-26
+3713858	Distrito de Boquete	Distrito de Boquete	Boquete,Boquete District,Distrito Boquete,Distrito de Boquete	8.75666	-82.41717	A	ADM2	PA		02	0404			21370		1117	America/Panama	2023-06-14
+3713866	Distrito de Boquerón	Distrito de Boqueron	Boqueron,Boqueron District,Boquerón,Boquerón District,Distrito Boqueron,Distrito Boquerón,Distrito de Boqueron,Distrito de Boquerón	8.61667	-82.56667	A	ADM2	PA		02	0403			15029		626	America/Panama	2023-06-14
+3713955	Distrito de Bocas del Toro	Distrito de Bocas del Toro	Bocas del Toro District,Distrito de Bocas del Toro	9.36235	-82.26288	A	ADM2	PA		01	0101			21396		8	America/Panama	2022-04-03
+3714267	Distrito de Barú	Distrito de Baru	Baru,Baru District,Barú,Barú District,Distrito de Baru,Distrito de Barú	8.34456	-82.88802	A	ADM2	PA		02	0402			55775		21	America/Panama	2023-06-14
+3714424	Distrito de Balboa	Distrito de Balboa	Balboa,Balboa District,Distrito Balboa,Distrito de Balboa	8.46667	-79	A	ADM2	PA		08	0802			3332		27	America/Panama	2023-06-14
+3714595	Distrito de Atalaya	Distrito de Atalaya	Atalaya,Atalaya District,Distrito Atalaya,Distrito de Atalaya	8.02001	-80.90969	A	ADM2	PA		10	0901			11321		117	America/Panama	2023-06-20
+3714635	Distrito de Arraiján	Distrito de Arraijan	Arraijan,Arraijan District,Arraiján,Arraiján District,Distrito Arraijan,Distrito Arraiján,Distrito de Arraijan,Distrito de Arraiján	8.99861	-79.6908	A	ADM2	PA		13	1301			296188		146	America/Panama	2023-06-20
+3714708	Distrito de Antón	Distrito de Anton	Anton,Anton District,Antón,Antón District,Distrito Anton,Distrito Antón,Distrito de Anton,Distrito de Antón	8.46314	-80.19544	A	ADM2	PA		03	0202			54632		86	America/Panama	2023-06-14
+3714937	Distrito de Alanje	Distrito de Alanje	Alanje,Alanje District,Distrito de Alanje	8.38559	-82.61884	A	ADM2	PA		02	0401			16508		22	America/Panama	2023-06-20
+3715037	Distrito de Aguadulce	Distrito de Aguadulce	Aguadulce,Aguadulce District,Distrito de Aguadulce	8.2127	-80.61441	A	ADM2	PA		03	0201			43360		11	America/Panama	2023-06-14
+9857610	Distrito de Mariato	Distrito de Mariato	Bezirk Mariato,District de Mariato,Distrito de Mariato,Mariato,Mariato District,Mariato Koan,Mariato Koān,distretto de Mariato,distretto di Mariato,ma li ya tuo qu,馬里亞托區	7.6781	-81.00409	A	ADM2	PA		10	0912			5564		9	America/Panama	2025-01-28
+9857626	Sambú	Sambu		7.82013	-78.11005	A	ADM2	PA		11	1102			2286		677	America/Panama	2018-01-23
+9857644	Nole Düima	Nole Dueima	Distrito de Nole Duima,Nole Duima District	8.32682	-81.81531	A	ADM2	PA		12	1204			14928		259	America/Panama	2023-06-20
+9857648	Müna	Muena	Distrito de Muena,Distrito de Müna,Muena District,Müna District	8.35035	-81.67219	A	ADM2	PA		12	1203			36075		325	America/Panama	2023-06-20
+9862218	Cémaco	Cemaco	Distrito de Cemaco,Distrito de Cémaco	8.08285	-77.5421	A	ADM2	PA		11	1101			7715		106	America/Panama	2018-01-23
+9862219	El Porvenir	El Porvenir		9.55302	-79.00715	A	ADM2	PA		09	1001			33109		39	America/Panama	2023-01-26
+9862220	Mirono	Mirono	Mirono District,Mironó District	8.40469	-81.83064	A	ADM2	PA		12	1202			15010		408	America/Panama	2023-06-20
+9862221	Kusapín	Kusapin	Distrito de Kusapin,Distrito de Kusapín,Kusapin District,Kusapín District	9.17119	-81.89621	A	ADM2	PA		12	1207			20909		60	America/Panama	2023-06-20
+9862223	Kankintú	Kankintu	Distrito de Kankintu,Kankintu District,Kankintú District	8.89503	-81.8575	A	ADM2	PA		12	1206			33121		23	America/Panama	2023-06-20
+9862224	Besiko	Besiko	Besiko District,Besikó District	8.54863	-82.0898	A	ADM2	PA		12	1201			23532		435	America/Panama	2023-06-20
+9862226	Nurun	Nurun	Distrito de Nueruen,Distrito de Ñürün,Nueruem District,Nueruen,Ñürüm District,Ñürün	8.47815	-81.47015	A	ADM2	PA		12	1205			13172		438	America/Panama	2023-06-20
+12510669	Santa Catalina o Calovébora	Santa Catalina o Calovebora	Santa Catalina o Calovebora District,Santa Catalina o Calovébora District	8.67315	-81.3568	A	ADM2	PA		12	1209			0		449	America/Panama	2023-06-20
+12510670	Santa Fe	Santa Fe		8.61047	-78.21537	A	ADM2	PA		05	0503			0		79	America/Panama	2023-01-26
+12510671	Omar Torrijos Herrera	Omar Torrijos Herrera		8.86179	-80.60149	A	ADM2	PA		04	0306			0		118	America/Panama	2023-01-26
+12510672	Tierras Altas	Tierras Altas		8.80734	-82.64158	A	ADM2	PA		02	0414			0		1560	America/Panama	2023-01-26
+12510673	Almirante	Almirante		9.06811	-82.55949	A	ADM2	PA		01	0104			0		533	America/Panama	2023-01-26
+12510674	Jirondai	Jirondai	Jirondai District	8.83821	-82.12647	A	ADM2	PA		12	1208			0		347	America/Panama	2023-06-20

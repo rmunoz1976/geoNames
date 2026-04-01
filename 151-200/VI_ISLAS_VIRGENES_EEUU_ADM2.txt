@@ -1,0 +1,20 @@
+﻿9252017	Anna's Hope Village	Anna's Hope Village		17.72324	-64.69974	A	ADM2	VI		010	04600			0		72	America/St_Thomas	2019-10-12
+9252018	Christiansted	Christiansted		17.74401	-64.70727	A	ADM2	VI		010	20800			0		14	America/St_Thomas	2014-07-19
+9252019	East End	East End		17.74616	-64.63741	A	ADM2	VI		010	31600			0		92	America/St_Thomas	2014-07-19
+9252020	Northwest	Northwest		17.73732	-64.85333	A	ADM2	VI		010	62200			0		115	America/St_Thomas	2014-07-19
+9252021	Sion Farm	Sion Farm		17.74906	-64.7462	A	ADM2	VI		010	71200			0		122	America/St_Thomas	2014-07-19
+9252022	Southcentral	Southcentral		17.70955	-64.77797	A	ADM2	VI		010	73900			0		32	America/St_Thomas	2014-07-19
+9252023	Southwest	Southwest		17.69317	-64.85755	A	ADM2	VI		010	75700			0		15	America/St_Thomas	2014-07-19
+9252024	Central	Central		18.3415	-64.7389	A	ADM2	VI		020	15400			0		212	America/St_Thomas	2019-10-14
+9252025	Coral Bay	Coral Bay		18.33694	-64.71267	A	ADM2	VI		020	27100			0		7	America/St_Thomas	2014-07-19
+9252026	Cruz Bay	Cruz Bay		18.32647	-64.77867	A	ADM2	VI		020	28900			0		153	America/St_Thomas	2014-07-19
+9252027	East End	East End		18.33993	-64.6698	A	ADM2	VI		020	33400			0		138	America/St_Thomas	2014-07-19
+9252028	Charlotte Amalie	Charlotte Amalie		18.33955	-64.94947	A	ADM2	VI		030	17200			0		14	America/St_Thomas	2014-07-19
+9252029	East End	East End		18.33232	-64.86185	A	ADM2	VI		030	34300			0		141	America/St_Thomas	2014-07-19
+9252030	Northside	Northside		18.36089	-64.93562	A	ADM2	VI		030	61300			0		59	America/St_Thomas	2014-07-19
+9252031	Southside	Southside		18.32069	-64.89762	A	ADM2	VI		030	74800			0		111	America/St_Thomas	2014-07-19
+9252032	Tutu	Tutu		18.34072	-64.88846	A	ADM2	VI		030	78400			0		65	America/St_Thomas	2014-07-19
+9252033	Water Island	Water Island		18.32816	-64.93383	A	ADM2	VI		030	82000			0		40	America/St_Thomas	2016-06-23
+9252034	West End	West End		18.35522	-65.01243	A	ADM2	VI		030	82900			0		99	America/St_Thomas	2014-07-19
+9252035	Frederiksted	Frederiksted		17.706	-64.87732	A	ADM2	VI		010	38800			0		38	America/St_Thomas	2014-07-19
+9252036	Northcentral	Northcentral		17.7533	-64.79238	A	ADM2	VI		010	59500			0		80	America/St_Thomas	2014-07-19

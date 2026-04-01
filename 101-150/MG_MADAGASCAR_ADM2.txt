@@ -1,0 +1,119 @@
+﻿7670893	Ambatondrazaka District	Ambatondrazaka District	Ambatondrazaka	-17.89086	48.44397	A	ADM2	MG		33	33313			359614		906	Indian/Antananarivo	2022-03-22
+7670894	Amparafaravola District	Amparafaravola District	Amparafaravola	-17.37922	48.36441	A	ADM2	MG		33	33312			323935		766	Indian/Antananarivo	2022-03-21
+7670896	Brickaville	Brickaville	Ampasimanolotra,Vohibinany	-18.81991	49.06353	A	ADM2	MG		31	31306			212572		13	Indian/Antananarivo	2022-03-21
+7670898	Antananarivo-Atsimondrano	Antananarivo-Atsimondrano		-18.99109	47.50704	A	ADM2	MG		11	11117			642364		1300	Indian/Antananarivo	2022-03-22
+7670899	Manjakandriana	Manjakandriana		-18.83761	47.75962	A	ADM2	MG		11	11106			220079		1508	Indian/Antananarivo	2022-03-22
+7670900	Moramanga District	Moramanga District	Moramanga	-18.80198	48.25968	A	ADM2	MG		33	33314			352874		958	Indian/Antananarivo	2022-03-21
+7670903	Fianarantsoa I	Fianarantsoa I		-21.46453	47.08991	A	ADM2	MG		21	21201			0		1188	Indian/Antananarivo	2022-03-21
+7670912	Ambohimahasoa	Ambohimahasoa		-21.06814	47.15172	A	ADM2	MG		21	21208			272123		1189	Indian/Antananarivo	2022-03-22
+7670914	Ambositra District	Ambositra District	Ambositra	-20.54945	47.25589	A	ADM2	MG		22	22203			296485		1344	Indian/Antananarivo	2022-03-22
+7670915	Antsirabe II	Antsirabe II		-19.86894	47.14844	A	ADM2	MG		12	12118			0		1557	Indian/Antananarivo	2018-09-07
+7670916	Antsirabe I District	Antsirabe I District	Antsirabe I	-19.85559	47.03756	A	ADM2	MG		12	12108			245592		1514	Indian/Antananarivo	2022-03-22
+7670918	Antanifotsy	Antanifotsy		-19.74469	47.4813	A	ADM2	MG		12	12114			354933		1681	Indian/Antananarivo	2022-03-21
+7670920	Ambatolampy	Ambatolampy		-19.46179	47.55007	A	ADM2	MG		12	12110			282970		1588	Indian/Antananarivo	2022-03-21
+7670921	Antsohihy	Antsohihy		-14.96255	48.08651	A	ADM2	MG		42	42413			175855		57	Indian/Antananarivo	2022-03-22
+7670923	Befandriana Nord	Befandriana Nord	Befandriana Avaratra	-15.14456	48.77951	A	ADM2	MG		42	42412			256588		617	Indian/Antananarivo	2022-03-22
+7670924	Mandritsara	Mandritsara		-15.98786	48.71647	A	ADM2	MG		42	42410			305318		324	Indian/Antananarivo	2022-03-21
+7670944	Toamasina I	Toamasina I		-18.13863	49.39203	A	ADM2	MG		31	31301			179045		10	Indian/Antananarivo	2018-09-08
+7670945	Toamasina II	Toamasina II		-17.94053	49.14608	A	ADM2	MG		31	31310			168388		106	Indian/Antananarivo	2018-09-07
+7910099	Andapa District	Andapa District	Andapa	-14.65	49.65	A	ADM2	MG		72	72712			219397		483	Indian/Antananarivo	2022-03-22
+7910100	Marovoay District	Marovoay District	Marovoay	-16.15	46.61667	A	ADM2	MG		41	41406			198670		4	Indian/Antananarivo	2022-03-22
+7910443	Vavatenina District	Vavatenina District	Vavatenina	-17.51667	48.95	A	ADM2	MG		32	32315			196257		518	Indian/Antananarivo	2022-03-22
+8299287	Maroantsetra District	Maroantsetra District	Maroantsetra	-15.38352	49.56482	A	ADM2	MG		32	32303			251878		327	Indian/Antananarivo	2022-03-21
+8299288	Mananara Nord District	Mananara Nord District	Mananara Nord	-16.21599	49.54834	A	ADM2	MG		32	32304			240352		487	Indian/Antananarivo	2022-03-22
+8299289	Betroka District	Betroka District	Betroka	-23.35739	45.93658	A	ADM2	MG		53	53517			210854		783	Indian/Antananarivo	2022-03-22
+8299290	Farafangana District	Farafangana District	Farafangana	-22.8015	47.59827	A	ADM2	MG		25	25213			400174		42	Indian/Antananarivo	2022-03-21
+8299291	Vangaindrano District	Vangaindrano District	Vangaindrano	-23.49348	47.44995	A	ADM2	MG		25	25214			355329		42	Indian/Antananarivo	2022-03-22
+8299292	Amboasary District	Amboasary District	Amboasary	-24.67198	46.38428	A	ADM2	MG		53	53519			0		388	Indian/Antananarivo	2022-03-21
+8299293	Morombe District	Morombe District	Morombe	-22.096	43.774	A	ADM2	MG		51	51504			218190		95	Indian/Antananarivo	2022-03-22
+8299294	Bealanana District	Bealanana District		-14.57295	48.77106	A	ADM2	MG		42	42414			183889		1102	Indian/Antananarivo	2022-03-22
+8299295	Ankazoabo District	Ankazoabo District	Ankazoabo	-22.18	44.701	A	ADM2	MG		51	51505			71393		564	Indian/Antananarivo	2022-03-22
+8299296	Betafo District	Betafo District		-19.75378	46.50238	A	ADM2	MG		12	12109			0		997	Indian/Antananarivo	2022-03-21
+8299297	Miandrivazo District	Miandrivazo District	Miandrivazo	-19.1789	45.38727	A	ADM2	MG		54	54511			157013		191	Indian/Antananarivo	2022-03-22
+8299676	Toliara II District	Toliara II District	Toliara II,Toliara Rural	-23.036	43.815	A	ADM2	MG		51	51520			0		408	Indian/Antananarivo	2018-09-07
+8299677	Toliara I District	Toliara I District	Toliara I,Toliara Urban	-23.33162	43.66559	A	ADM2	MG		51	51501			0		5	Indian/Antananarivo	2018-09-08
+8335145	Andilamena District	Andilamena District		-16.95057	48.54738	A	ADM2	MG		33	33316			105187		914	Indian/Antananarivo	2022-03-21
+8335146	Anosibe An'ala District	Anosibe An'ala District		-19.47177	48.19996	A	ADM2	MG		33	33317			113904		694	Indian/Antananarivo	2022-03-22
+8335147	Ambatofinandrahana District	Ambatofinandrahana District	Ambatofinandrahana	-20.45661	46.78665	A	ADM2	MG		22	22202			215851		1725	Indian/Antananarivo	2022-03-22
+8335148	Fandriana District	Fandriana District	Fandriana	-20.2171	47.48428	A	ADM2	MG		22	22204			215961		1411	Indian/Antananarivo	2022-03-22
+8335150	Manandriana District	Manandriana District		-20.69472	47.01083	A	ADM2	MG		22	22223			105622		1494	Indian/Antananarivo	2022-03-22
+8335339	Morondava District	Morondava District	Morondava	-20.527	44.368	A	ADM2	MG		54	54508			151028		54	Indian/Antananarivo	2022-03-22
+8335340	Mahabo District	Mahabo District	Mahabo	-20.636	45.165	A	ADM2	MG		54	54509			154017		315	Indian/Antananarivo	2022-03-21
+8335351	Manja District	Manja District	Manja	-21.436	44.182	A	ADM2	MG		54	54502			106378		200	Indian/Antananarivo	2022-03-22
+8335352	Beroroha District	Beroroha District	Beroroha	-21.514	45.234	A	ADM2	MG		51	51503			0		297	Indian/Antananarivo	2022-03-21
+8354581	Ankazobe District	Ankazobe District	Ankazobe	-18.31737	47.11616	A	ADM2	MG		11	11104			195418		1227	Indian/Antananarivo	2022-03-22
+8354582	Ambohidratrimo District	Ambohidratrimo District	Ambohidratrimo	-18.81792	47.43613	A	ADM2	MG		11	11103			441682		1290	Indian/Antananarivo	2022-03-22
+8354583	Andramasina District	Andramasina District	Andramasina	-19.1872	47.58895	A	ADM2	MG		11	11115			168161		1352	Indian/Antananarivo	2022-03-22
+8693310	Sakaraha District	Sakaraha District		-22.91751	44.52964	A	ADM2	MG		51	51512			150508		462	Indian/Antananarivo	2022-03-22
+8693311	Ampanihy District	Ampanihy District		-24.696	44.746	A	ADM2	MG		51	51507			398374		232	Indian/Antananarivo	2022-03-22
+8693312	Betioky District	Betioky District	Betioky-Atsimo	-23.722	44.3799	A	ADM2	MG		51	51506			0		259	Indian/Antananarivo	2022-03-21
+8693313	Ambovombe District	Ambovombe District	Ambovombe,Ambovombe-Androy	-25.177	46.087	A	ADM2	MG		52	52516			0		135	Indian/Antananarivo	2018-09-07
+8693314	Beloha District	Beloha District		-25.174	45.06	A	ADM2	MG		52	52513			154652		154	Indian/Antananarivo	2022-03-22
+8693316	Bekily District	Bekily District		-24.18333	45.38333	A	ADM2	MG		52	52518			236715		425	Indian/Antananarivo	2022-03-22
+9534953	Antsiranana I	Antsiranana I		-12.31049	49.2778	A	ADM2	MG		71	71715			0		7	Indian/Antananarivo	2018-09-07
+9534954	Antsiranana II	Antsiranana II		-12.46071	49.23935	A	ADM2	MG		71	71713			0		441	Indian/Antananarivo	2018-09-07
+11072737	Benenitra	Benenitra		-23.46563	45.02016	A	ADM2	MG		51	51521			43808		284	Indian/Antananarivo	2022-03-22
+11072738	Tsihombe	Tsihombe		-25.38489	45.47921	A	ADM2	MG		52	52514			149700		145	Indian/Antananarivo	2022-03-21
+11072740	Taolagnaro	Taolagnaro		-24.57984	47.07822	A	ADM2	MG		53	53515			341482		979	Indian/Antananarivo	2022-03-21
+11072805	Anjozorobe	Anjozorobe		-18.1366	47.71191	A	ADM2	MG		11	11107			177134		1109	Indian/Antananarivo	2018-09-07
+11072806	Faratsiho	Faratsiho		-19.43046	46.91978	A	ADM2	MG		12	12116			193301		2016	Indian/Antananarivo	2018-09-07
+11072807	Tsiroanomandidy	Tsiroanomandidy		-18.84018	46.04516	A	ADM2	MG		14	14111			493190		888	Indian/Antananarivo	2022-03-21
+11072808	Fenoarivobe	Fenoarivobe	Fenoarivo Afovoany,Fenoarivo Be	-18.12933	46.33321	A	ADM2	MG		14	14119			0		911	Indian/Antananarivo	2022-03-21
+11072809	Arivonimamo	Arivonimamo		-19.04604	47.25955	A	ADM2	MG		13	13105			354097		1461	Indian/Antananarivo	2022-03-21
+11072810	Miarinarivo	Miarinarivo		-18.87482	46.81833	A	ADM2	MG		13	13112			293318		1305	Indian/Antananarivo	2022-03-21
+11072811	Soavinandriana	Soavinandriana		-19.2259	46.56167	A	ADM2	MG		13	13113			250547		993	Indian/Antananarivo	2022-03-21
+11072812	Ambalavao	Ambalavao		-21.92009	46.68022	A	ADM2	MG		21	21205			123696		1160	Indian/Antananarivo	2018-09-07
+11072813	Ikalamavony	Ikalamavony		-21.22674	46.20964	A	ADM2	MG		21	21219			125651		735	Indian/Antananarivo	2022-03-21
+11072814	Ikongo	Ikongo		-21.95216	47.46766	A	ADM2	MG		26	23211			202827		316	Indian/Antananarivo	2022-09-30
+11072815	Manakara	Manakara		-21.9336	47.84987	A	ADM2	MG		26	23210			365427		69	Indian/Antananarivo	2022-09-30
+11072816	Mahajanga II	Mahajanga II		-15.67936	46.81137	A	ADM2	MG		41	41415			77524		101	Indian/Antananarivo	2022-03-22
+11072817	Mahajanga I	Mahajanga I		-15.66878	46.35062	A	ADM2	MG		41	41401			220629		24	Indian/Antananarivo	2018-09-08
+11072831	Maevatanana	Maevatanana		-17.22802	46.81273	A	ADM2	MG		43	43404			151001		264	Indian/Antananarivo	2022-03-21
+11072833	Tsaratanana	Tsaratanana		-17.14301	47.64676	A	ADM2	MG		43	43408			144875		777	Indian/Antananarivo	2022-03-21
+11072835	Maintirano	Maintirano		-17.88026	44.22864	A	ADM2	MG		44	44421			106604		28	Indian/Antananarivo	2018-09-07
+11072836	Ambatomainty	Ambatomainty		-17.74527	45.57054	A	ADM2	MG		44	44417			43305		361	Indian/Antananarivo	2022-03-21
+11072837	Nosy Boraha	Nosy Boraha	Ile Sainte-Marie,Île Sainte-Marie	-16.90156	49.89775	A	ADM2	MG		32	32302			26547		44	Indian/Antananarivo	2018-09-07
+11072839	Sambava	Sambava		-14.21719	49.84669	A	ADM2	MG		72	72711			304366		304	Indian/Antananarivo	2018-09-07
+11072841	Nosy Be	Nosy Be	Nosy Be	-13.34196	48.25779	A	ADM2	MG		71	71718			109465		167	Indian/Antananarivo	2022-03-21
+11427437	Ambilobe	Ambilobe		-13.20261	49.05141	A	ADM2	MG		71	71717			280089		32	Indian/Antananarivo	2022-03-21
+11523465	Antalaha	Antalaha		-14.90386	50.24428	A	ADM2	MG		72	72710			282921		20	Indian/Antananarivo	2022-12-06
+11926393	Mahanoro	Mahanoro		-20.03157	48.51769	A	ADM2	MG		31	31308			284812		168	Indian/Antananarivo	2022-03-22
+11926394	Marolambo	Marolambo		-20.09207	47.96666	A	ADM2	MG		31	31309			167224		724	Indian/Antananarivo	2022-03-21
+11926395	Antanambao Manampontsy	Antanambao Manampontsy		-19.55848	48.47019	A	ADM2	MG		31	31311			0		605	Indian/Antananarivo	2022-03-21
+11926396	Fenerive Est	Fenerive Est		-17.16365	49.203	A	ADM2	MG		32	32305			294036		347	Indian/Antananarivo	2022-03-22
+11926397	Soanierana Ivongo	Soanierana Ivongo		-16.7234	49.30983	A	ADM2	MG		32	32318			143365		481	Indian/Antananarivo	2022-03-21
+11926398	6e Arrondissement	6e Arrondissement		-18.86612	47.49327	A	ADM2	MG		11	11101006			0		1248	Indian/Antananarivo	2018-09-07
+11926399	Iakora	Iakora		-23.15346	46.63457	A	ADM2	MG		24	24221			55899		838	Indian/Antananarivo	2022-03-21
+11926400	Midongy-Atsimo	Midongy-Atsimo	Midongy Sud,Midongy-Atsimo District	-23.3431	46.99673	A	ADM2	MG		25	25215			47746		557	Indian/Antananarivo	2022-03-22
+11926401	Belo Sur Tsiribihina	Belo Sur Tsiribihina	Belon'i Tsiribihina	-19.63718	44.84212	A	ADM2	MG		54	54510			132141		40	Indian/Antananarivo	2022-03-22
+11926402	Ambanja	Ambanja		-13.86948	48.46558	A	ADM2	MG		71	71719			238114		237	Indian/Antananarivo	2022-03-22
+11926403	Antananarivo Avaradrano	Antananarivo Avaradrano		-18.90155	47.62569	A	ADM2	MG		11	11102			449425		1336	Indian/Antananarivo	2022-03-22
+11926404	Vondrozo	Vondrozo		-22.68661	47.30604	A	ADM2	MG		25	25217			0		177	Indian/Antananarivo	2022-03-22
+11926405	Befotaka	Befotaka		-23.88451	46.81617	A	ADM2	MG		25	25222			0		1111	Indian/Antananarivo	2022-03-22
+11926406	Vohemar	Vohemar		-13.48383	49.71472	A	ADM2	MG		72	72716			239034		74	Indian/Antananarivo	2022-03-22
+11926407	1er Arrondissement	1er Arrondissement		-18.9058	47.51164	A	ADM2	MG		11	11101001			0		1251	Indian/Antananarivo	2018-09-07
+11926408	2e Arrondissement	2e Arrondissement		-18.9289	47.5484	A	ADM2	MG		11	11101002			0		1267	Indian/Antananarivo	2018-09-07
+11926409	3e Arrondissement	3e Arrondissement		-18.89638	47.52887	A	ADM2	MG		11	11101003			0		1258	Indian/Antananarivo	2018-09-07
+11926410	4e Arrondissement	4e Arrondissement		-18.93338	47.51385	A	ADM2	MG		11	11101004			0		1250	Indian/Antananarivo	2018-09-07
+11926411	5e Arrondissement	5e Arrondissement		-18.8801	47.53932	A	ADM2	MG		11	11101005			0		1249	Indian/Antananarivo	2018-09-07
+11926412	Mandoto	Mandoto		-19.68273	46.19767	A	ADM2	MG		12	12120			206744		852	Indian/Antananarivo	2022-03-21
+11926413	Lalangina	Lalangina		-21.41014	47.26626	A	ADM2	MG		21	21220			183586		1079	Indian/Antananarivo	2022-03-22
+11926414	Vohibato	Vohibato		-21.66517	47.08752	A	ADM2	MG		21	21224			224776		1284	Indian/Antananarivo	2022-03-22
+11926415	Isandra	Isandra		-21.28097	46.89656	A	ADM2	MG		21	21225			151039		1116	Indian/Antananarivo	2022-03-22
+11926416	Ifanadiana	Ifanadiana		-21.09222	47.63655	A	ADM2	MG		27	23206			175111		493	Indian/Antananarivo	2022-09-30
+11926417	Nosy-Varika	Nosy-Varika		-20.56533	48.1734	A	ADM2	MG		27	23207			254735		391	Indian/Antananarivo	2022-09-30
+11926418	Mananjary	Mananjary		-21.19786	48.08659	A	ADM2	MG		27	23209			278736		52	Indian/Antananarivo	2022-09-30
+11926419	Ihosy	Ihosy		-22.34354	45.8234	A	ADM2	MG		24	24216			293129		1045	Indian/Antananarivo	2022-03-21
+11926420	Vohipeno	Vohipeno		-22.34267	47.70616	A	ADM2	MG		26	23212			0		28	Indian/Antananarivo	2022-09-30
+11926421	Soalala	Soalala		-16.4967	45.40883	A	ADM2	MG		41	41403			41727		191	Indian/Antananarivo	2022-03-21
+11926422	Ambato Boeni	Ambato Boeni		-16.67074	46.47551	A	ADM2	MG		41	41405			264141		260	Indian/Antananarivo	2022-03-21
+11926423	Mitsinjo	Mitsinjo		-16.08481	45.92734	A	ADM2	MG		41	41407			86719		19	Indian/Antananarivo	2022-03-21
+11926424	Port-Berge (Boriziny-Vaovao)	Port-Berge (Boriziny-Vaovao)		-15.71441	47.72169	A	ADM2	MG		42	42409			0		43	Indian/Antananarivo	2018-09-07
+11926425	Analalava	Analalava		-14.72458	47.78103	A	ADM2	MG		42	42411			163968		53	Indian/Antananarivo	2022-03-21
+11926426	Mampikony	Mampikony		-16.16169	47.6733	A	ADM2	MG		42	42423			185637		144	Indian/Antananarivo	2022-03-22
+11926427	Kandreho	Kandreho		-17.40943	46.05162	A	ADM2	MG		43	43416			25892		237	Indian/Antananarivo	2022-03-21
+11926428	Besalampy	Besalampy		-16.90364	44.91277	A	ADM2	MG		44	44402			58916		244	Indian/Antananarivo	2022-03-21
+11926429	Antsalova	Antsalova		-18.8307	44.63097	A	ADM2	MG		44	44420			57662		85	Indian/Antananarivo	2022-03-21
+11926430	Morafenobe	Morafenobe		-17.93466	44.95933	A	ADM2	MG		44	44422			34730		265	Indian/Antananarivo	2022-03-21
+11926431	Vatomandry	Vatomandry		-19.36085	48.77893	A	ADM2	MG		31	31307			170148		37	Indian/Antananarivo	2022-03-22
+11926432	Ivohibe	Ivohibe		-22.52082	46.91601	A	ADM2	MG		24	24218			55380		671	Indian/Antananarivo	2022-03-21

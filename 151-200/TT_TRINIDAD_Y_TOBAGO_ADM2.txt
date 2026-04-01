@@ -1,0 +1,36 @@
+﻿3573559	Ward of Valencia	Ward of Valencia	Valencia,Valencia Ward,Ward of Valencia	10.68233	-61.1668	A	ADM2	TT		SGE	3573559			0		221	America/Port_of_Spain	2014-02-08
+3573575	Ward of Turure	Ward of Turure	Turure,Turure Ward,Ward of Turure	10.5	-61.11667	A	ADM2	TT		SGE	3573575			0		125	America/Port_of_Spain	2012-08-04
+3573589	Ward of Trinity	Ward of Trinity	Trinity,Trinity Ward,Ward of Trinity	10.19185	-61.15494	A	ADM2	TT		03	3573589			0		63	America/Port_of_Spain	2014-02-08
+3573603	Ward of Toco	Ward of Toco	Toco,Toco Ward,Ward of Toco	10.78333	-61.05	A	ADM2	TT		SGE	3573603			0		232	America/Port_of_Spain	2012-08-04
+3573635	Ward of Tamana	Ward of Tamana	Tamana,Tamana Ward,Ward of Tamana	10.53333	-61.18333	A	ADM2	TT		SGE	3573635			0		51	America/Port_of_Spain	2012-08-04
+3573642	Ward of Tacarigua	Ward of Tacarigua	Tacarigua,Tacarigua Ward,Ward of Tacarigua	10.66667	-61.38333	A	ADM2	TT		TUP	3573642			0		345	America/Port_of_Spain	2012-08-04
+3573680	Ward of Siparia	Ward of Siparia	Siparia,Siparia Ward	10.15	-61.46667	A	ADM2	TT		SIP	3573680			79760		22	America/Port_of_Spain	2014-03-19
+3573709	Ward of Savana Grande	Ward of Savana Grande	Savana Grande,Savana Grande Ward,Ward of Savana Grande	10.3	-61.36667	A	ADM2	TT		PRT	3573709			0		39	America/Port_of_Spain	2012-08-04
+3573722	Ward of San Rafael	Ward of San Rafael	San Rafael,San Rafael Ward,Ward of San Rafael	10.53333	-61.26667	A	ADM2	TT		CTT	3573722			0		27	America/Port_of_Spain	2012-08-04
+3573759	Saint Paul	Saint Paul		11.26667	-60.56667	A	ADM2	TT		11	3573759			0		131	America/Port_of_Spain	1993-12-22
+3573761	Saint Patrick	Saint Patrick		11.16667	-60.8	A	ADM2	TT		11	3573761			0		15	America/Port_of_Spain	1993-12-22
+3573766	Saint Mary	Saint Mary		11.23333	-60.63333	A	ADM2	TT		11	3573766			0		159	America/Port_of_Spain	1993-12-22
+3573778	Saint John	Saint John		11.3	-60.61667	A	ADM2	TT		11	3573778			0		95	America/Port_of_Spain	1993-12-22
+3573784	Saint George	Saint George		11.21667	-60.7	A	ADM2	TT		11	3573784			0		178	America/Port_of_Spain	1993-12-22
+3573793	Saint David	Saint David		11.25	-60.71667	A	ADM2	TT		11	3573793			0		240	America/Port_of_Spain	1993-12-22
+3573800	Ward of Saint Ann’s	Ward of Saint Ann's	Saint Ann's,Saint Ann's Ward,Saint Ann’s,Saint Ann’s Ward,Ward of Saint Ann's,Ward of Saint Ann’s	10.68333	-61.46667	A	ADM2	TT		SJL	3573800			0		183	America/Port_of_Spain	2012-08-04
+3573805	Saint Andrew	Saint Andrew		11.18333	-60.75	A	ADM2	TT		11	3573805			0		39	America/Port_of_Spain	1993-12-22
+3573901	Ward of Pointe-à-Pierre	Ward of Pointe-a-Pierre	Pointe-a-Pierre,Pointe-a-Pierre Ward,Pointe-à-Pierre,Ward of Pointe-a-Pierre,Ward of Pointe-à-Pierre	10.33333	-61.4	A	ADM2	TT		CTT	3573901			0		25	America/Port_of_Spain	2020-06-10
+3574008	Ward of Ortoire	Ward of Ortoire	Ortoire,Ortoire Ward,Ward of Ortoire	10.26667	-61.31667	A	ADM2	TT		PRT	3574008			0		82	America/Port_of_Spain	2012-08-04
+3574064	Ward of Naparima	Ward of Naparima	Naparima,Naparima Ward,Ward of Naparima	10.23333	-61.45	A	ADM2	TT		PED	3574064			0		18	America/Port_of_Spain	2012-08-04
+3574086	Ward of Moruga	Ward of Moruga	Moruga,Moruga Ward,Ward of Moruga	10.11173	-61.28585	A	ADM2	TT		PRT	3574086			0		19	America/Port_of_Spain	2014-02-08
+3574111	Ward of Montserrat	Ward of Montserrat	Montserrat,Montserrat Ward,Ward of Montserrat	10.41667	-61.35	A	ADM2	TT		CTT	3574111			0		101	America/Port_of_Spain	2012-08-04
+3574167	Ward of Matura	Ward of Matura	Matura,Matura Ward,Ward of Matura	10.7	-61.06667	A	ADM2	TT		SGE	3574167			0		137	America/Port_of_Spain	2012-08-04
+3574201	Ward of Manzanilla	Ward of Manzanilla	Manzanilla,Manzanilla Ward,Ward of Manzanilla	10.61667	-61.13333	A	ADM2	TT		SGE	3574201			0		16	America/Port_of_Spain	2012-08-04
+3574352	Ward of La Brea	Ward of La Brea	La Brea,La Brea Ward,Ward of La Brea	10.16667	-61.65	A	ADM2	TT		SIP	3574352			0		12	America/Port_of_Spain	2012-08-04
+3574434	Ward of Guayaguayare	Ward of Guayaguayare	Guayaguayare,Guayaguayare Ward,Ward of Guayaguayare	10.2	-61.05	A	ADM2	TT		03	3574434			0		46	America/Port_of_Spain	2012-01-18
+3574590	Ward of Erin	Ward of Erin	Erin,Erin Ward,Ward of Erin	10.08333	-61.63333	A	ADM2	TT		SIP	3574590			0		32	America/Port_of_Spain	2012-08-04
+3574635	Ward of Diego Martin	Ward of Diego Martin	Diego Martin,Diego Martin Ward	10.7	-61.58333	A	ADM2	TT		DMN	3574635			111964		372	America/Port_of_Spain	2014-03-19
+3574679	Ward of Cunupia	Ward of Cunupia	Cunupia,Cunupia Ward,Ward of Cunupia	10.55	-61.33333	A	ADM2	TT		CTT	3574679			0		31	America/Port_of_Spain	2012-08-04
+3574723	Ward of Couva	Ward of Couva	Couva,Couva Ward,Ward of Couva	10.41667	-61.45	A	ADM2	TT		CTT	3574723			0		21	America/Port_of_Spain	2012-08-04
+3574768	Ward of Cocal	Ward of Cocal	Cocal,Cocal Ward,Ward of Cocal	10.36667	-61.08333	A	ADM2	TT		03	3574768			0		33	America/Port_of_Spain	2012-08-04
+3574796	Ward of Charuma	Ward of Charuma	Charuma,Charuma Ward,Ward of Charuma	10.38333	-61.2	A	ADM2	TT		03	3574796			0		48	America/Port_of_Spain	2012-08-04
+3574809	Ward of Chaguanas	Ward of Chaguanas	Chaguanas,Chaguanas Ward	10.5	-61.38333	A	ADM2	TT		CHA	3574809			72159		24	America/Port_of_Spain	2014-03-19
+3574824	Ward of Cedros	Ward of Cedros	Cedros,Cedros Ward,Ward of Cedros	10.09802	-61.79996	A	ADM2	TT		SIP	3574824			0		18	America/Port_of_Spain	2014-02-08
+3574971	Ward of Blanchisseuse	Ward of Blanchisseuse	Blanchisseuse,Blanchisseuse Ward,Ward of Blanchisseuse	10.76665	-61.31569	A	ADM2	TT		TUP	3574971			0		125	America/Port_of_Spain	2014-02-08
+3575050	Ward of Arima	Ward of Arima	Arima,Arima Ward,Ward of Arima	10.65	-61.26667	A	ADM2	TT		TUP	3575050			0		88	America/Port_of_Spain	2012-08-04

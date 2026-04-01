@@ -1,0 +1,105 @@
+﻿2959978	Wiltz	Wiltz	Canto de Wiltz,Canton de Wiltz,Cantone di Wiltz,Cantó de Wiltz,Cantón de Wiltz,Commune de Wiltz,Gemeinde Wiltz,Gemeng Wolz,Kanton Wiltz,Kanton Wolz,Kantono Wiltz,Vil'c,Vilco kantonas,Ville de Wiltz,Wiltz,Wiltz kantonu,Wolz,Wooltz,bilcheu ju,wltz,wyltz,Вільц,ولتز,ویلتز,빌츠 주	49.97888	5.9398	A	ADM2	LU		WI	11			7939		355	Europe/Luxembourg	2025-01-27
+2960031	Troisvierges	Troisvierges	Commune de Troisvierges,Elwen,Gemeinde Ulflingen,Gemeng Elwen,Gemeng Ëlwen,Troavjerzh,Troisvierges,Truav'erzh,Truaverzh,Ulflingen,torowavuieruju,trwawyrzh,Ëlwen,Троавјерж,Труавьерж,Труавєрж,ترواویرژ,トロワヴィエルジュ	50.14377	6.00201	A	ADM2	LU		CL	09			3513		472	Europe/Luxembourg	2025-01-27
+2960103	Schifflange	Schifflange	Commune de Schifflange,Gemeinde Schifflingen,Gemeng Scheffleng,Gemeng Schëffleng,Scheffleng,Schifflange,Schifflingen,Schëffleng	49.50556	6.01489	A	ADM2	LU		ES	14			11363		291	Europe/Luxembourg	2025-01-27
+2960116	Sanem	Sanem	Commune de Sanem,Gemeinde Sassenheim,Gemeng Suessem,Sanem,Sanemas,Sassenheim,Suessem,zanm,Санем,زانم	49.53312	5.9363	A	ADM2	LU		ES	13			18333		317	Europe/Luxembourg	2025-01-27
+2960124	Rumelange	Rumelange	Gemeinde Rumelingen,Gemeinde Rümelingen,Gemeng Remeleng,Gemeng Rëmeleng,Remeleng,Riumelanzas,Riumelanžas,Rjumelanzh,Rumelange,Rumelanzh,Rumelingen,Rëmeleng,Rümelingen,Stad Remeleng,Stad Rëmeleng,Ville de Rumelange,rwmlanzh,Румеланж,Рюмеланж,روملانژ	49.46137	6.01139	A	ADM2	LU		ES	12			5692		339	Europe/Luxembourg	2025-01-27
+2960188	Pétange	Petange	Commune de Petange,Commune de Pétange,Gemeinde Petingen,Gemeng Peiteng,Gemeng Péiteng,Peiteng,Petange,Petingen,Péiteng,Pétange	49.5505	5.85533	A	ADM2	LU		ES	09			20563		279	Europe/Luxembourg	2025-01-27
+2960317	Ville de Luxembourg	Ville de Luxembourg	Letzebuerg,Luxembourg,Luxemburg,Lëtzebuerg,Stad Letzebuerg,Stad Lëtzebuerg,Stadt Luxemburg,Ville de Luxembourg	49.6093	6.13204	A	ADM2	LU		LU	2960317			136208		303	Europe/Luxembourg	2025-01-27
+2960392	Kayl	Kayl	Commune de Kayl,Gemeinde Kayl,Gemeng Kal,Gemeng Keel,Gemeng Käl,Kal,Kayl,Keel,Käl	49.47912	6.031	A	ADM2	LU		ES	06			9865		373	Europe/Luxembourg	2025-01-27
+2960516	Grevenmacher	Grevenmacher	Canto de Grevenmacher,Canton de Grevenmacher,Cantone di Grevenmacher,Cantó de Grevenmacher,Cantón de Grevenmacher,Gemeinde Grevenmacher,Greiwemaacher,Grevenmacher,Grevenmacher kantonu,Grevenmacherio kantonas,Grevenmakher,Gréiwemaacher,Grėvenmacherio kantonas,Kanton Greivemaacher,Kanton Greiwemaacher,Kanton Grevenmacher,Kanton Gréivemaacher,Kanton Gréiwemaacher,Kantono Grevenmacher,Stad Greiwemaacher,Stad Gréiwemaacher,Ville de Grevenmacher,geulebenmaheo ju,grwnmakhr,Гревенмахер,گرونماخر,그레벤마허 주	49.67459	6.41269	A	ADM2	LU		GR	04			33047		248	Europe/Luxembourg	2025-01-27
+2960590	Ettelbruck	Ettelbruck	Ettelbreck,Ettelbruck,Ettelbréck,Ettelbrück,Gemeinde Ettelbruck,Gemeinde Ettelbrück,Stad Ettelbreck,Stad Ettelbréck,Ville d'Ettelbruck	49.84565	6.08137	A	ADM2	LU		DI	07			9965		264	Europe/Luxembourg	2025-01-27
+2960631	Echternach	Echternach	Eechternoach,Iechternach	49.81307	6.42185	A	ADM2	LU		EC	05			5870		168	Europe/Luxembourg	2025-01-26
+2960635	Dudelange	Dudelange	Diddeleng,Dudelange,Dudelingen,Düdelingen,Gemeinde Dudelingen,Gemeinde Düdelingen,Gemeng Diddeleng,Ville de Dudelange	49.48084	6.08773	A	ADM2	LU		ES	03			21953		295	Europe/Luxembourg	2025-01-27
+2960652	Differdange	Differdange	Deifferdang,Differdange,Differdingen,Déifferdang,Gemeinde Differdingen,Gemeng Deifferdang,Gemeng Déifferdang,Ville de Differdange	49.52167	5.88288	A	ADM2	LU		ES	02			0		315	Europe/Luxembourg	2017-01-14
+2960658	Diekirch	Diekirch	Diekirch,Dikrech,Dikrich,Gemeinde Diekirch,Stad Dikrech,Stad Dikrich,Ville de Diekirch	49.87279	6.14921	A	ADM2	LU		DI	04			7295		273	Europe/Luxembourg	2025-01-27
+2960778	Bettembourg	Bettembourg	Beetebuerg,Bettembourg,Bettemburg,Commune de Bettembourg,Gemeinde Bettemburg,Gemeng Beetebuerg	49.52345	6.08307	A	ADM2	LU		ES	01			11422		275	Europe/Luxembourg	2025-01-27
+3285197	Feulen	Feulen	Feelen	49.85	6.01667	A	ADM2	LU		DI	08			2366		331	Europe/Luxembourg	2025-01-26
+3285198	Lac de la Haute-Sûre	Lac de la Haute-Sure	Gemeng Lac de la Haute-Sure,Gemeng Lac de la Haute-Sûre,Lak-de-la-Ot-Sjur,Lak-de-la-Ot-Sur,Lak-deh-la-Ot-Sjur,Stauseegemeinde,Stauseigemeng,Stauséigemeng,lak dw la awt-swr,Лак-де-ла-От-Сур,Лак-де-ла-От-Сюр,Лак-дэ-ла-От-Сюр,لاک دو لا اوت-سور	49.91667	5.83333	A	ADM2	LU		WI	05			2253		424	Europe/Luxembourg	2025-01-27
+6693260	Dippach	Dippach	Dippakh,Dippech,Dzipakh,Gemeng Dippech,di pa,dypakh,Дзіпах,Диппах,Діппах,دیپاخ,迪帕	49.58833	5.98333	A	ADM2	LU		CA	03			4635		368	Europe/Luxembourg	2025-01-27
+6693261	Garnich	Garnich		49.61667	5.9525	A	ADM2	LU		CA	04			2289		339	Europe/Luxembourg	2025-01-26
+6693262	Hobscheid	Hobscheid	Habscht	49.68861	5.91472	A	ADM2	LU		CA	05			1979		278	Europe/Luxembourg	2025-01-26
+6693263	Kehlen	Kehlen	Gemeng Kielen,Kelen,Kielen,khln,Келен,کهلن	49.66833	6.03583	A	ADM2	LU		CA	06			6391		329	Europe/Luxembourg	2025-01-26
+6693264	Koerich	Koerich	Kaeerch,Käerch	49.67	5.95	A	ADM2	LU		CA	07			2706		299	Europe/Luxembourg	2025-01-26
+6693265	Kopstal	Kopstal	Koplescht	49.66444	6.07306	A	ADM2	LU		CA	08			4286		261	Europe/Luxembourg	2025-01-26
+6693266	Mamer	Mamer		49.6275	6.02333	A	ADM2	LU		CA	09			10643		294	Europe/Luxembourg	2025-01-26
+6693267	Septfontaines	Septfontaines	Simmer,Simmern	49.70111	5.96722	A	ADM2	LU		CA	10			378		267	Europe/Luxembourg	2025-01-26
+6693268	Steinfort	Steinfort	Gemeng Stengefort,Shtajnfort,Steinfortas,Stengefort,ashtaynfwrt  lwkzambwrg,Šteinfortas,Штайнфорт,اشتاینفورت، لوکزامبورگ	49.66139	5.91917	A	ADM2	LU		CA	11			5871		307	Europe/Luxembourg	2025-01-27
+6693269	Esch-sur-Alzette	Esch-sur-Alzette		49.49583	5.98056	A	ADM2	LU		ES	04			0		295	Europe/Luxembourg	2017-01-14
+6693270	Frisange	Frisange	Freiseng,Frisingen,Frizanzh,Fryzanzh,Fréiseng,Gemeng Freiseng,Gemeng Fréiseng,frysanzh,Фризанж,Фрызанж,Фрізанж,فریسانژ	49.515	6.19167	A	ADM2	LU		ES	05			4912		262	Europe/Luxembourg	2025-01-27
+6693271	Leudelange	Leudelange	Leideleng,Leudelingen	49.56833	6.06528	A	ADM2	LU		ES	07			2579		318	Europe/Luxembourg	2022-03-14
+6693272	Mondercange	Mondercange	Gemeng Monnerech,Mandehrkanzh,Monderkanzas,Monderkanzh,Monderkanžas,Monnerech,Monnerich,mwndrkanzh,Мандэрканж,Мондерканж,موندرکانژ	49.53306	5.98833	A	ADM2	LU		ES	08			7119		290	Europe/Luxembourg	2025-01-27
+6693273	Reckange-sur-Mess	Reckange-sur-Mess	Reckeng op der Mess	49.5625	6.00889	A	ADM2	LU		ES	10			2734		319	Europe/Luxembourg	2025-01-27
+6693274	Roeser	Roeser	Reiser,Réiser	49.54222	6.15	A	ADM2	LU		ES	11			6657		280	Europe/Luxembourg	2025-01-26
+6693275	Bertrange	Bertrange	Bartreng	49.61111	6.05	A	ADM2	LU		LU	01			8668		287	Europe/Luxembourg	2025-01-26
+6693276	Contern	Contern		49.58194	6.22667	A	ADM2	LU		LU	02			4374		333	Europe/Luxembourg	2025-01-26
+6693277	Hesperange	Hesperange		49.56806	6.15139	A	ADM2	LU		LU	03			0		270	Europe/Luxembourg	2017-01-14
+6693278	Niederanven	Niederanven	Nidderaanwen,Niederanwen	49.6475	6.26	A	ADM2	LU		LU	04			6660		255	Europe/Luxembourg	2025-01-26
+6693279	Sandweiler	Sandweiler		49.61333	6.21889	A	ADM2	LU		LU	05			3751		335	Europe/Luxembourg	2025-01-26
+6693280	Schuttrange	Schuttrange		49.62056	6.26861	A	ADM2	LU		LU	06			4387		246	Europe/Luxembourg	2025-01-26
+6693281	Steinsel	Steinsel		49.67694	6.12389	A	ADM2	LU		LU	07			5539		243	Europe/Luxembourg	2025-01-26
+6693282	Strassen	Strassen		49.62056	6.07333	A	ADM2	LU		LU	08			10539		309	Europe/Luxembourg	2025-01-26
+6693283	Walferdange	Walferdange	Gemeng Walfer,Val'ferdanzh,Walfer,Walferdingen,walfrdanzh,Вальферданж,والفردانژ	49.65833	6.13722	A	ADM2	LU		LU	09			8730		245	Europe/Luxembourg	2025-01-27
+6693284	Weiler-la-Tour	Weiler-la-Tour		49.54083	6.20083	A	ADM2	LU		LU	10			2498		259	Europe/Luxembourg	2025-01-27
+6693285	Berg	Berg		49.81361	6.08917	A	ADM2	LU		ME	01			0		212	Europe/Luxembourg	2017-01-14
+6693286	Bissen	Bissen	Biissen	49.7875	6.06944	A	ADM2	LU		ME	02			3450		234	Europe/Luxembourg	2025-01-26
+6693287	Boevange-sur-Attert	Boevange-sur-Attert	Beiwen-Atert,Bevanzh-sjur-Atehr,Bevanzh-sjur-Attert,Bjovanzh-sjur-Atter,Boewingen/Attert,Byovanz syur Atter,Béiwen-Atert,Böwingen/Attert,Gemeng Beiwen-Atert,Gemeng Béiwen-Atert,bwwanzh-atrt,Беванж-сюр-Аттерт,Беванж-сюр-Атэр,Бёванж-сюр-Аттер,Բյովանժ սյուր Ատտեր,بووانژ-اترت	49.77528	6.01556	A	ADM2	LU		ME	03			0		238	Europe/Luxembourg	2017-01-14
+6693288	Fischbach	Fischbach		49.73972	6.18722	A	ADM2	LU		ME	04			0		353	Europe/Luxembourg	2017-01-14
+6693289	Heffingen	Heffingen	Hiefenech	49.7625	6.24139	A	ADM2	LU		ME	05			1549		352	Europe/Luxembourg	2025-01-26
+6693290	Larochette	Larochette		49.78476	6.21779	A	ADM2	LU		ME	06			0		296	Europe/Luxembourg	2017-01-14
+6693291	Lintgen	Lintgen	Lentgen,Lëntgen	49.71583	6.13361	A	ADM2	LU		ME	07			3436		336	Europe/Luxembourg	2025-01-26
+6693292	Lorentzweiler	Lorentzweiler	Luerenzweiler	49.69472	6.1425	A	ADM2	LU		ME	08			3986		227	Europe/Luxembourg	2025-01-26
+6693293	Mersch	Mersch	Canto de Mersch,Canton de Mersch,Cantone di Mersch,Cantó de Mersch,Cantón de Mersch,Kanton Mersch,Kanton Miersch,Kantono Mersch,Ljuksemburg,Mersch kantonu,Mersh,Merso kantonas,Meršo kantonas,meleusyu ju,Люксембург,Мерш,메르슈 주	49.74889	6.10611	A	ADM2	LU		ME	09			0		219	Europe/Luxembourg	2017-01-14
+6693294	Nommern	Nommern	Noumer	49.78694	6.17472	A	ADM2	LU		ME	10			1437		380	Europe/Luxembourg	2025-01-26
+6693295	Tuntange	Tuntange	Tenten,Tuentingen,Tënten,Tüntingen	49.71778	6.01028	A	ADM2	LU		ME	11			1364		315	Europe/Luxembourg	2025-01-26
+6693296	Wincrange	Wincrange	Wentger,Wintger,Wëntger	50.05333	5.91917	A	ADM2	LU		CL	01			4804		490	Europe/Luxembourg	2025-01-26
+6693297	Clervaux	Clervaux	Canto de Clervaux,Canton de Clervaux,Cantone di Clervaux,Cantó de Clervaux,Cantón de Clervaux,Clervaux kantonu,Kanton Clerf,Kanton Clervaux,Kanton Klierf,Kantono Clervaux / Clerf,Klervo,Klervo kantonas,ke lai wo xian,keulleleubo ju,Клерво,克莱沃县,클레르보 주	50.05472	6.03139	A	ADM2	LU		CL	03			6021		364	Europe/Luxembourg	2025-01-27
+6693302	Weiswampach	Weiswampach	Gemeng Waeisswampech,Gemeng Wäisswampech,Vajsvampakh,Vejsvampakh,Waeiswampech,Wäiswampech,wayswampakh,Вайсвампах,Вейсвампах,وایسوامپاخ	50.13722	6.075	A	ADM2	LU		CL	10			2313		492	Europe/Luxembourg	2025-01-27
+6693304	Bettendorf	Bettendorf	Betehndorf,Bettendorf,Bettenduerf,Gemeng Bettenduerf,bei teng duo fu,btndwrf,Беттендорф,Бетэндорф,بتندورف,贝滕多夫	49.87667	6.21806	A	ADM2	LU		DI	02			3052		188	Europe/Luxembourg	2025-01-27
+6693305	Bourscheid	Bourscheid	Buerschent,Burscheid	49.91	6.06722	A	ADM2	LU		DI	03			1678		458	Europe/Luxembourg	2025-01-26
+6693307	Erpeldange	Erpeldange	Erpeldingen an der Sauer,Lerpeldeng op der Sauer	49.86472	6.11472	A	ADM2	LU		DI	06			2429		207	Europe/Luxembourg	2025-01-26
+6693310	Mertzig	Mertzig	Maeerzeg,Mäerzeg	49.83389	6.0075	A	ADM2	LU		DI	11			2370		312	Europe/Luxembourg	2025-01-26
+6693311	Reisdorf	Reisdorf	Gemeng Reisduerf,Rajsdorf,Reisduerf,Rejsdorf,lai si duo fu,rayzdwrf,Райсдорф,Рейсдорф,رایزدورف,赖斯多夫	49.86861	6.26778	A	ADM2	LU		DI	12			1353		191	Europe/Luxembourg	2025-01-27
+6693312	Schieren	Schieren		49.83056	6.09861	A	ADM2	LU		DI	13			2156		213	Europe/Luxembourg	2025-01-26
+6693313	Beckerich	Beckerich	Bekerikh,Bekerykh,Bekkerikh,Bekkerix,Biekerech,Gemeng Biekerech,bkrysh,Бекерих,Бекерых,Бекеріх,Беккерих,Բեկկերիխ,بکریش	49.73056	5.88722	A	ADM2	LU		RD	02			2866		289	Europe/Luxembourg	2025-01-27
+6693314	Ell	Ell	Ehl',Ehll',Ell',Gemeng Ell,al  lwkzambwrg,Елль,Элль,Эль,ال، لوکزامبورگ	49.76389	5.85722	A	ADM2	LU		RD	05			1582		281	Europe/Luxembourg	2025-01-27
+6693315	Rambrouch	Rambrouch	Rambruch,Rammerech,Rammerich	49.83083	5.845	A	ADM2	LU		RD	06			4836		502	Europe/Luxembourg	2025-01-26
+6693316	Grosbous	Grosbous		49.82778	5.96722	A	ADM2	LU		RD	07			1134		344	Europe/Luxembourg	2025-01-26
+6693317	Redange-sur-Attert	Redange-sur-Attert		49.76556	5.89083	A	ADM2	LU		RD	09			3059		290	Europe/Luxembourg	2025-01-26
+6693318	Saeul	Saeul	Gemeng Sell,Gemeng Sëll,Saehl',Sajul',Sell,Sëll,saywl,Саэль,Саюль,سائول	49.72722	5.98639	A	ADM2	LU		RD	10			983		294	Europe/Luxembourg	2025-01-27
+6693319	Useldange	Useldange	Gemeng Useldeng,Jusel'danzh,Juzel'danzh,Useldeng,Useldingen,awzldanzh,Юзельданж,Юсельданж,اوزلدانژ	49.76972	5.98222	A	ADM2	LU		RD	11			2075		240	Europe/Luxembourg	2025-01-27
+6693320	Vichten	Vichten	Viichten	49.80306	6	A	ADM2	LU		RD	12			1425		283	Europe/Luxembourg	2025-01-26
+6693321	Wahl	Wahl	Wal	49.83667	5.90639	A	ADM2	LU		RD	13			1087		448	Europe/Luxembourg	2025-01-26
+6693322	Boulaide	Boulaide	Bauschelt,Bauschleiden	49.88778	5.81639	A	ADM2	LU		WI	01			1499		462	Europe/Luxembourg	2025-01-26
+6693323	Esch-sur-Sûre	Esch-sur-Sure		49.91139	5.93639	A	ADM2	LU		WI	02			0		282	Europe/Luxembourg	2017-01-14
+6693325	Goesdorf	Goesdorf	Commune de Goesdorf,Geisdref,Gemeinde Goesdorf,Gemeng Geisdref,Gemeng Géisdref,Goesdorf,Géisdref	49.92167	5.96833	A	ADM2	LU		WI	04			1664		482	Europe/Luxembourg	2025-01-27
+6693330	Winseler	Winseler	Wanseler	49.96778	5.89028	A	ADM2	LU		WI	13			1455		334	Europe/Luxembourg	2025-01-26
+6693331	Tandel	Tandel	Gemeng Tandel,Tandel',tandl,Тандель,تاندل	49.91556	6.19611	A	ADM2	LU		VD	01			2238		300	Europe/Luxembourg	2025-01-26
+6693332	Putscheid	Putscheid	Gemeng Petscht,Gemeng Pëtscht,Petscht,Putshajd,Putshehjd,Pëtscht,pwtshayd,Путшайд,Путшэйд,پوتشاید	49.96083	6.14306	A	ADM2	LU		VD	02			1153		415	Europe/Luxembourg	2025-01-27
+6693333	Vianden	Vianden		49.935	6.20889	A	ADM2	LU		VD	03			0		228	Europe/Luxembourg	2017-01-14
+6693334	Beaufort	Beaufort	Bafor,Beefort,Befort,Bofor,Gemeng Beefort,bwfwrt,byfwrt  lgsmbrg,Бафор,Бофор,بوفورت,بیفورت، لگسمبرگ	49.83583	6.29167	A	ADM2	LU		EC	01			3053		357	Europe/Luxembourg	2025-01-27
+6693335	Bech	Bech		49.74611	6.36361	A	ADM2	LU		EC	02			1357		310	Europe/Luxembourg	2025-01-26
+6693336	Berdorf	Berdorf	Baeerdref,Bäerdref	49.81361	6.35028	A	ADM2	LU		EC	03			2219		343	Europe/Luxembourg	2025-01-26
+6693337	Consdorf	Consdorf	Konsdref	49.77306	6.33833	A	ADM2	LU		EC	04			2117		354	Europe/Luxembourg	2025-01-26
+6693338	Mompach	Mompach	Mompech	49.74611	6.465	A	ADM2	LU		EC	06			1303		302	Europe/Luxembourg	2022-03-14
+6693339	Rosport	Rosport	Gemeng Rouspert,Rospor,Rosport,Rosportas,Rouspert,rwspwrt,Роспор,Роспорт,روسپورت	49.79778	6.50417	A	ADM2	LU		EC	07			0		177	Europe/Luxembourg	2017-01-14
+6693340	Waldbillig	Waldbillig	Belleg,Bëlleg,Waldbelleg,Waldbëlleg	49.78889	6.28667	A	ADM2	LU		EC	08			1960		323	Europe/Luxembourg	2025-01-27
+6693341	Betzdorf	Betzdorf	Betzder	49.68333	6.35	A	ADM2	LU		GR	01			4105		225	Europe/Luxembourg	2025-01-27
+6693342	Biwer	Biwer		49.70278	6.37472	A	ADM2	LU		GR	02			1926		233	Europe/Luxembourg	2025-01-26
+6693343	Flaxweiler	Flaxweiler	Fluessweiler	49.66167	6.34361	A	ADM2	LU		GR	03			2193		283	Europe/Luxembourg	2025-01-27
+6693344	Junglinster	Junglinster	Jonglenster,Jonglënster	49.70722	6.25306	A	ADM2	LU		GR	05			8622		305	Europe/Luxembourg	2025-01-27
+6693345	Manternach	Manternach		49.70278	6.42639	A	ADM2	LU		GR	06			2298		252	Europe/Luxembourg	2025-01-26
+6693346	Mertert	Mertert	Gemeng Maeertert,Gemeng Mäertert,Maeertert,Mertert,Mäertert,mrtrt,Мертерт,مرترت	49.701	6.48043	A	ADM2	LU		GR	07			5117		141	Europe/Luxembourg	2025-01-27
+6693347	Wormeldange	Wormeldange	Gemeng Wuermeldeng,Vormel'danzh,Vormeldanzas,Vormeldanzh,Vormeldanžas,Wormeldingen,Wuermeldeng,wwrmldanzh,Вормелданж,Вормельданж,وورملدانژ	49.61199	6.40531	A	ADM2	LU		GR	09			23171		162	Europe/Luxembourg	2025-01-27
+6693348	Bous	Bous		49.55389	6.32917	A	ADM2	LU		RM	00			0		155	Europe/Luxembourg	2017-01-14
+6693350	Dalheim	Dalheim		49.54083	6.25972	A	ADM2	LU		RM	02			0		309	Europe/Luxembourg	2017-01-14
+6693351	Lenningen	Lenningen	Lenneng	49.59861	6.36806	A	ADM2	LU		RM	03			0		189	Europe/Luxembourg	2022-03-14
+6693352	Mondorf-les-Bains	Mondorf-les-Bains		49.505	6.28111	A	ADM2	LU		RM	04			5424		191	Europe/Luxembourg	2025-01-27
+6693353	Schengen	Schengen	Commune de Schengen,Gemeinde Schengen,Gemeng Schengen,Remerschen,Schengen	49.48861	6.35167	A	ADM2	LU		RM	05			5196		154	Europe/Luxembourg	2025-01-27
+6693354	Remich	Remich		49.545	6.36694	A	ADM2	LU		RM	06			0		160	Europe/Luxembourg	2017-01-14
+6693355	Stadtbredimus	Stadtbredimus	Stadbriedemes	49.56278	6.36444	A	ADM2	LU		RM	07			1984		147	Europe/Luxembourg	2025-01-27
+6693356	Waldbredimus	Waldbredimus	Waldbriedemes	49.555	6.2875	A	ADM2	LU		RM	08			1337		182	Europe/Luxembourg	2025-01-27
+8641289	Kiischpelt	Kiischpelt	Commune de Kiischpelt,Gemeinde Kiischpelt,Gemeng Kiischpelt,Kiischpelt	49.97835	6.0076	A	ADM2	LU		WI	8641289			1260		295	Europe/Luxembourg	2025-01-27
+8641291	Commune de Préizerdaul	Commune de Preizerdaul	Bettborn,Commune de Bettborn,Commune de Preizerdaul,Commune de Préizerdaul,Gemeinde Preizerdaul,Gemeinde Préizerdaul,Gemeng Preizerdaul,Gemeng Préizerdaul,Preizerdaul,Préizerdaul	49.80114	5.93299	A	ADM2	LU		RD	8641291			1827		282	Europe/Luxembourg	2025-01-27
+8641526	Commune de la Vallée de l'Ernz	Commune de la Vallee de l'Ernz	Aerenzdallgemeng,Arenzdallgemeng,Commune de la Vallee de l'Ernz,Commune de la Vallée de l'Ernz,Ernztalgemeinde,Vallee de l'Ernz,Vallée de l'Ernz,Ärenzdallgemeng	49.82149	6.21746	A	ADM2	LU		DI	8641526			0		253	Europe/Luxembourg	2020-07-11
+8641865	Käerjeng	Kaeerjeng	Commune de Kaerjeng,Commune de Käerjeng,Gemeinde Kaerjeng,Gemeinde Käerjeng,Gemeng Kaerjeng,Gemeng Käerjeng,Kaerjeng,Käerjeng	49.58311	5.89892	A	ADM2	LU		CA	8641865			11015		380	Europe/Luxembourg	2025-01-27
+11353099	Parc Hosingen	Parc Hosingen	Parc Housen	49.99744	6.09067	A	ADM2	LU		CL	63			4036		515	Europe/Luxembourg	2025-01-27

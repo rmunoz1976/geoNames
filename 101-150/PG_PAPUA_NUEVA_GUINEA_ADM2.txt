@@ -1,0 +1,87 @@
+﻿2083536	Wewak	Wewak	Wewak District	-3.58333	143.5	A	ADM2	PG		11	2083536			63965		138	Pacific/Port_Moresby	2023-08-11
+2083851	Wapenamanda	Wapenamanda	Wapenamanda District	-5.66667	143.91667	A	ADM2	PG		19	2083851			53547		1747	Pacific/Port_Moresby	2023-08-11
+2084245	Wabag	Wabag	Wabag District	-5.33333	143.65	A	ADM2	PG		19	2084245			58750		2803	Pacific/Port_Moresby	2023-08-11
+2085584	Telefomin	Telefomin	Telefomin District	-4.91667	141.66667	A	ADM2	PG		18	2085584			35587		1166	Pacific/Port_Moresby	2023-08-11
+2085770	Tari Pori	Tari Pori	Tari Pori District	-6.28333	142.83333	A	ADM2	PG		21	2085770			52210		614	Pacific/Port_Moresby	2023-08-13
+2085943	Talasea	Talasea	Talasea District	-5.66667	149.58333	A	ADM2	PG		17	2085943			128792		18	Pacific/Port_Moresby	2023-08-11
+2087633	Rigo	Rigo	Rigo,Rigo District	-9.75	147.83333	A	ADM2	PG		01	2087633			39476		332	Pacific/Port_Moresby	2023-08-12
+2087893	Rabaul	Rabaul	Rabaul,Rabaul District	-4.18333	152.16667	A	ADM2	PG		10	2087893			27048		360	Pacific/Port_Moresby	2014-11-20
+2088199	Pomio	Pomio	Pomio District	-5.5	151.33333	A	ADM2	PG		10	2088199			44964		1647	Pacific/Port_Moresby	2023-08-11
+2089207	Okapa	Okapa	Okapa District	-6.63333	145.5	A	ADM2	PG		09	2089207			62041		1762	Pacific/Port_Moresby	2023-08-11
+2089418	Nuku	Nuku	Nuku District	-3.66667	142.41667	A	ADM2	PG		18	2089418			46021		311	Pacific/Port_Moresby	2023-08-11
+2089577	Nipa Kutubu	Nipa Kutubu	Nipa Kutubu District	-6.33333	143.33333	A	ADM2	PG		05	2089577			98505		1032	Pacific/Port_Moresby	2023-08-12
+2090019	Namatanai	Namatanai	Namatanai District	-4.33333	152.83333	A	ADM2	PG		15	2090019			64929		650	Pacific/Port_Moresby	2023-08-12
+2090408	Hagen	Hagen	Hagen,Mount Hagen,Mount Hagen District	-5.83333	144.28333	A	ADM2	PG		16	2090408			86951		1646	Pacific/Port_Moresby	2023-08-11
+2090950	Menyamya	Menyamya	Menyamya District	-7.25	146.16667	A	ADM2	PG		14	2090950			68546		2159	Pacific/Port_Moresby	2023-08-11
+2090988	Mendi	Mendi	Mendi-Munihu District	-6.11667	143.66667	A	ADM2	PG		05	2090988			96413		1815	Pacific/Port_Moresby	2023-08-11
+2091472	Maprik	Maprik	Maprik District	-3.75	143	A	ADM2	PG		11	2091472			57806		83	Pacific/Port_Moresby	2023-08-11
+2092104	Lufa	Lufa	Lufa District	-6.45	145.25	A	ADM2	PG		09	2092104			45868		1776	Pacific/Port_Moresby	2023-08-11
+2092738	Lae	Lae	Lae District	-6.5	146.83333	A	ADM2	PG		14	2092738			119178		726	Pacific/Port_Moresby	2023-08-11
+2093564	Kompiam Ambum	Kompiam Ambum	Kompiam District	-5.25	144	A	ADM2	PG		19	2093564			44332		1857	Pacific/Port_Moresby	2023-08-11
+2093683	Kokopo	Kokopo	Kokopo,Kokopo District,ke ke bo,kokopo,kwkwpw,qwqwpw,Кокопо,קוקופו,کوکوپو,ココポ,科可波,코코포	-4.4	152.28333	A	ADM2	PG		10	2093683			58345		85	Pacific/Port_Moresby	2023-08-11
+2093690	Sohe	Sohe	Sohe District	-9	147.91667	A	ADM2	PG		04	2093690			65090		1568	Pacific/Port_Moresby	2023-08-11
+2094002	Kikori	Kikori	Kikori District	-7.25	144.33333	A	ADM2	PG		02	2094002			41400		142	Pacific/Port_Moresby	2023-08-11
+2094124	Kerowagi	Kerowagi	Kerowagi District	-5.93333	144.88333	A	ADM2	PG		08	2094124			34850		1654	Pacific/Port_Moresby	2023-08-11
+2094142	Kerema	Kerema	Kerema District	-7.796	146.093	A	ADM2	PG		02	2094142			65498		172	Pacific/Port_Moresby	2023-08-11
+2094341	Kavieng	Kavieng	Kavieng District	-3	151.41667	A	ADM2	PG		15	2094341			53421		500	Pacific/Port_Moresby	2023-08-12
+2094554	Karimui Nomane	Karimui Nomane	Karimui District,Kundiawa	-6.58333	144.83333	A	ADM2	PG		08	2094554			36334		1500	Pacific/Port_Moresby	2023-08-11
+2094745	Kandrian Gloucester	Kandrian Gloucester	Kandrian-Gloucester District	-6.08333	149.91667	A	ADM2	PG		17	2094745			55716		196	Pacific/Port_Moresby	2023-08-11
+2094755	Kandep	Kandep	Kandep District	-5.83333	143.55	A	ADM2	PG		19	2094755			47400		2429	Pacific/Port_Moresby	2023-08-11
+2095037	Kainantu	Kainantu	Kainantu District	-6.41667	145.91667	A	ADM2	PG		09	2095037			91771		1757	Pacific/Port_Moresby	2023-08-12
+2095129	Kabwum	Kabwum	Kabwum District	-6.08333	147	A	ADM2	PG		14	2095129			41883		1113	Pacific/Port_Moresby	2023-08-12
+2095253	Jimi	Jimi	Jimi District	-5.53333	144.56667	A	ADM2	PG		22	2095253			37385		572	Pacific/Port_Moresby	2023-08-11
+2095923	Ialibu Pangia	Ialibu Pangia	Ialibu-Pangia District	-6.16667	144	A	ADM2	PG		05	2095923			50799		2270	Pacific/Port_Moresby	2023-08-11
+2096222	Henganofi	Henganofi	Henganofi District	-6.21667	145.66667	A	ADM2	PG		09	2096222			55678		1737	Pacific/Port_Moresby	2023-08-11
+2096611	Gumine	Gumine	Gumine District	-6.25	144.88333	A	ADM2	PG		08	2096611			35976		1930	Pacific/Port_Moresby	2023-08-11
+2096740	Goroka	Goroka	Goroka District	-6.05	145.38333	A	ADM2	PG		09	2096740			71870		1622	Pacific/Port_Moresby	2023-08-11
+2096826	Goilala	Goilala	Goilala District	-8.33333	147	A	ADM2	PG		01	2096826			27345		1734	Pacific/Port_Moresby	2023-08-11
+2097417	Finschhafen	Finschhafen	Finschhafen District	-6.41667	147.5	A	ADM2	PG		14	2097417			45287		1151	Pacific/Port_Moresby	2023-08-11
+2097572	Esa’ala	Esa'ala	Esa'ala District,Esa’ala District	-9.58333	150.75	A	ADM2	PG		03	2097572			42644		208	Pacific/Port_Moresby	2014-11-20
+2098576	Chuave	Chuave	Chuave District	-6.16667	145.08333	A	ADM2	PG		08	2098576			36074		1867	Pacific/Port_Moresby	2023-08-11
+2099273	Bogia	Bogia	Bogia District	-4.5	145	A	ADM2	PG		12	2099273			57104		148	Pacific/Port_Moresby	2023-08-11
+2100764	Angoram	Angoram	Angoram District	-4.5	143.83333	A	ADM2	PG		11	2100764			68796		38	Pacific/Port_Moresby	2023-08-11
+2100931	Ambunti Dreikikir	Ambunti Dreikikir	Ambunti-Dreikikier District	-4.33333	142.33333	A	ADM2	PG		11	2100931			55397		35	Pacific/Port_Moresby	2023-08-11
+2134008	Abau	Abau	Abau District	-10.08333	148.91667	A	ADM2	PG		01	2134008			38378		57	Pacific/Port_Moresby	2023-08-11
+7668019	Kairuku-Hiri	Kairuku-Hiri	Hiri,Kairuku-Hiri District	-9.178	147.143	A	ADM2	PG		01	7668019			78784		132	Pacific/Port_Moresby	2024-02-20
+7910338	Manus	Manus		-2.09626	146.96612	A	ADM2	PG		13	7910338			43387		329	Pacific/Port_Moresby	2014-11-20
+7910339	Madang	Madang	Friedrich-Wilhelmshafen	-5.23367	145.78889	A	ADM2	PG		12	7910339			86693		5	Pacific/Port_Moresby	2014-11-20
+8657188	Bulolo	Bulolo	Bulolo,Bulolo District	-7.41667	146.75	A	ADM2	PG		14	8657188			77232		1660	Pacific/Port_Moresby	2023-08-11
+8657189	Vanimo Green	Vanimo Green	Vanimo Green District,Vanimo-Green District,Vanimo-Green River,Vanimo-Green River District	-3.36667	141.35	A	ADM2	PG		18	8657189			50751		186	Pacific/Port_Moresby	2023-08-12
+8657190	Ijivitari	Ijivitari	Ijivitari,Ijivitari District	-9.33333	148.58333	A	ADM2	PG		04	8657190			69975		84	Pacific/Port_Moresby	2023-08-11
+8657191	Middle Ramu	Middle Ramu	Middle Ramu,Middle Ramu District	-4.91667	144.75	A	ADM2	PG		12	8657191			57879		67	Pacific/Port_Moresby	2023-08-11
+8657192	Usino Bundi	Usino Bundi	Upper Ramu District,Usino Bundi District,Usino-Bundi,Usino-Bundi District	-5.53333	145.16667	A	ADM2	PG		12	8657192			40079		377	Pacific/Port_Moresby	2023-08-12
+8657193	Lagaip Porgera	Lagaip Porgera	Lagaip Porgera District,Lagaip-Porgera,Lagaip-Porgera District	-5.38333	143.16667	A	ADM2	PG		19	8657193			91002		1678	Pacific/Port_Moresby	2023-08-11
+8657194	Middle Fly	Middle Fly	Middle Fly,Middle Fly District	-7.16667	142.03333	A	ADM2	PG		06	8657194			55853		44	Pacific/Port_Moresby	2023-08-11
+8657195	Dei	Dei	Dei,Dei District	-5.68333	144.36667	A	ADM2	PG		16	8657195			49767		1649	Pacific/Port_Moresby	2014-11-20
+8657196	South Fly	South Fly	South Fly,South Fly District	-8.61667	142.11667	A	ADM2	PG		06	8657196			46537		31	Pacific/Port_Moresby	2014-11-20
+8657197	Angalimp South Wahgi	Angalimp South Wahgi	Angalimp South Wahgi District,Angalimp-South Waghi,Angalimp-South Wahgi,Angalimp-South Wahgi District,Anglimp-South Wahgi	-6.05	144.56667	A	ADM2	PG		22	8657197			96570		2556	Pacific/Port_Moresby	2023-08-12
+8657198	Aitape Lumi	Aitape Lumi	Aitape Lumi District,Aitape-Lumi,Aitape-Lumi District	-3.25	142.08333	A	ADM2	PG		18	8657198			53382		188	Pacific/Port_Moresby	2023-08-11
+8657199	Kiriwina Goodenough	Kiriwina Goodenough	Kiriwina Goodenough District,Kiriwina-Goodenough,Kiriwina-Goodenough District	-8.48333	151.06667	A	ADM2	PG		03	8657199			49966		3	Pacific/Port_Moresby	2023-08-11
+8657200	Kundiawa	Kundiawa	Kundiawa-Gembogl,Kundiawa-Gembogl District	-5.91667	145.05	A	ADM2	PG		08	8657200			58454		2250	Pacific/Port_Moresby	2023-08-11
+8657201	Koroba-Lake Kopiago	Koroba-Lake Kopiago	Koroba Lake Kopiago District,Koroba-Kopiago,Koroba-Lake Koipiago,Koroba-Lake Kopiago,Koroba-Lake Kopiago District	-5.41667	142.5	A	ADM2	PG		21	8657201			69575		1305	Pacific/Port_Moresby	2023-08-12
+8657202	Kagua Erave	Kagua Erave	Kagua Erave District,Kagua-Erave,Kagua-Erave District	-6.66667	144	A	ADM2	PG		05	8657202			54515		1492	Pacific/Port_Moresby	2023-08-12
+8657203	Alotau	Alotau	Alotau,Alotau District	-10.25	150.08333	A	ADM2	PG		03	8657203			74644		1041	Pacific/Port_Moresby	2023-08-11
+8657204	Sinasina Yonggamugl	Sinasina Yonggamugl	Sina Sina-Yonggamugl,Sina Sina-Yonggomugl,Sinasina Yonggamugl District,Sinasina-Yonggamugl,Sinasina-Yonggamugl District,Sinssina-Yonggamugi	-6.08333	145.01667	A	ADM2	PG		08	8657204			38015		1693	Pacific/Port_Moresby	2023-08-12
+8657205	Unggai Bena	Unggai Bena	Unggai Bena District,Unggai-Bena,Unggai-Bena District,Unggai-Beni,Unggai-Benna District,Unggaibena	-6.11667	145.51667	A	ADM2	PG		09	8657205			45006		1552	Pacific/Port_Moresby	2023-08-12
+8657206	Daulo	Daulo	Asaro-Watabung,Daulo,Daulo District	-5.98333	145.23333	A	ADM2	PG		09	8657206			30960		2221	Pacific/Port_Moresby	2023-08-11
+8657207	Gazelle	Gazelle	Gazelle,Gazelle District	-4.48333	151.86667	A	ADM2	PG		10	8657207			89776		365	Pacific/Port_Moresby	2014-11-20
+8657208	Wosera Gaui	Wosera Gaui	Wosera Gaui District,Wosera-Gaui,Wosera-Gaui District	-4.55	142.78333	A	ADM2	PG		11	8657208			49408		295	Pacific/Port_Moresby	2023-08-12
+8657209	Yangoru Saussia	Yangoru Saussia	Yangoru Saussia District,Yangoru-Saussia,Yangoru-Saussia District	-3.81667	143.46667	A	ADM2	PG		11	8657209			47809		85	Pacific/Port_Moresby	2014-11-20
+8657210	Sumkar	Sumkar	Sumkar,Sumkar District	-4.8	145.55	A	ADM2	PG		12	8657210			67052		708	Pacific/Port_Moresby	2023-08-12
+8657211	Huon Gulf	Huon Gulf	Huon,Huon District,Huon-Gulf	-7.18333	146.95	A	ADM2	PG		14	8657211			59523		1192	Pacific/Port_Moresby	2023-08-12
+8657212	Nawae	Nawae	Nawae,Nawae District,Nawaeb	-6.46667	146.96667	A	ADM2	PG		14	8657212			35059		1735	Pacific/Port_Moresby	2023-08-12
+8657213	Tewai Siassi	Tewai Siassi	Tawae-Siassi,Tewae-Siassi,Tewae-Siassi District,Tewai-Siassi District	-6.15	147.53333	A	ADM2	PG		14	8657213			43327		993	Pacific/Port_Moresby	2023-08-11
+8657214	Baiyer Mul	Baiyer Mul	Baiyer Mul District,Baiyer-Mul,Mul-Baiyer,Mul-Baiyer District	-5.53333	144.15	A	ADM2	PG		16	8657214			56686		1184	Pacific/Port_Moresby	2023-08-11
+8657215	Tambul Nebilyer	Tambul Nebilyer	Tambul Nebilyer District,Tambul-Nebilyer,Tambul-Nebilyer District	-5.98333	144.15	A	ADM2	PG		16	8657215			60823		1372	Pacific/Port_Moresby	2023-08-11
+8657216	Komo Margarima	Komo Margarima	Komo Margarima District,Komo-Magarima,Komo-Margarima,Komo-Margarima District	-6.11667	143	A	ADM2	PG		21	8657216			64162		1341	Pacific/Port_Moresby	2014-11-20
+8657217	North Wahgi	North Wahgi	North Waghi,North Wahgi,North Wahgi District	-5.8	144.68333	A	ADM2	PG		22	8657217			51843		1715	Pacific/Port_Moresby	2023-08-12
+8657218	Imbonggu	Imbonggu	Imbonggu,Imbonggu District	-6.16667	144	A	ADM2	PG		05	8657218			60086		2270	Pacific/Port_Moresby	2023-08-12
+8714537	Central Bougainville	Central Bougainville	Central Bougainville	-6.22806	155.56583	A	ADM2	PG		07	8714537			41485		18	Pacific/Bougainville	2023-08-12
+8714538	South Bougainville	South Bougainville		-6.74593	155.6964	A	ADM2	PG		07	8714538			60584		43	Pacific/Bougainville	2014-11-20
+8740754	North Bougainville	North Bougainville	North Bougainville District	-5.42194	154.67278	A	ADM2	PG		07	8740754			73091		5	Pacific/Bougainville	2023-08-12
+9855462	Samarai Murua	Samarai Murua	Samarai-Murua District	-10.49636	150.54703	A	ADM2	PG		03	9855462			43158		244	Pacific/Port_Moresby	2023-08-12
+9855465	North Fly	North Fly	North Fly District	-5.72896	141.37482	A	ADM2	PG		06	9855465			50914		103	Pacific/Port_Moresby	2023-08-12
+9855501	Obura Wonenara	Obura Wonenara	Obura-Wonenara District	-6.55434	145.97328	A	ADM2	PG		09	9855501			29688		1718	Pacific/Port_Moresby	2023-08-12
+9855506	Rai Coast	Rai Coast	Rai Coast District	-5.72303	146.46149	A	ADM2	PG		12	9855506			56299		1218	Pacific/Port_Moresby	2023-08-12
+9855507	Markham	Markham	Markham District	-6.64153	146.86043	A	ADM2	PG		14	9855507			49369		42	Pacific/Port_Moresby	2023-08-12
+9855526	National Capital District	National Capital District		-9.42257	147.16641	A	ADM2	PG		20	9855526			254158		83	Pacific/Port_Moresby	2014-11-20

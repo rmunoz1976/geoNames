@@ -1,0 +1,12 @@
+﻿7733402	Farallon de Pajaros	Farallon de Pajaros		20.54	144.89	A	ADM2	MP		085	7733402			0	319	108	Pacific/Saipan	2011-04-20
+7733403	Asuncion Island	Asuncion Island		19.682	145.399	A	ADM2	MP		085	7733403			0	891	140	Pacific/Saipan	2011-04-22
+7733404	Agrihan Island	Agrihan Island		18.745	145.668	A	ADM2	MP		085	7733404			0		454	Pacific/Saipan	2011-04-21
+7733405	Pagan Island	Pagan Island		18.11	145.772	A	ADM2	MP		085	7733405			0	572	65	Pacific/Saipan	2011-04-30
+7733406	Alamagan Island	Alamagan Island		17.595	145.821	A	ADM2	MP		085	7733406			0	744	135	Pacific/Saipan	2011-05-01
+7733407	Guguan Island	Guguan Island		17.32	145.8375	A	ADM2	MP		085	7733407			0	300	61	Pacific/Saipan	2011-05-01
+7733408	Zealandia Bank	Zealandia Bank		16.8953	145.8535	A	ADM2	MP		085	7733408			0	1	-9999	Pacific/Saipan	2011-05-02
+7733409	Sarigan Island	Sarigan Island		16.694	145.782	A	ADM2	MP		085	7733409			0	538	114	Pacific/Saipan	2011-05-03
+7733410	Anatahan Island	Anatahan Island		16.362	145.641	A	ADM2	MP		085	7733410			0	787	209	Pacific/Saipan	2011-05-04
+7733411	Farallon de Medinilla	Farallon de Medinilla		16.024	146.061	A	ADM2	MP		085	7733411			0	82	29	Pacific/Saipan	2011-05-05
+7733412	Maug Islands	Maug Islands		20.015	145.22	A	ADM2	MP		085	7733412			0	227	-9999	Pacific/Saipan	2011-04-21
+7755008	Aguijan Island	Aguijan Island		14.85	145.558	A	ADM2	MP		120	7755008			0	165	158	Pacific/Saipan	2011-05-07

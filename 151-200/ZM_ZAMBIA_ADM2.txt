@@ -1,0 +1,108 @@
+﻿175497	Nchelenge District	Nchelenge District	Nchelenge,Nchelenge District	-9.30484	28.74873	A	ADM2	ZM		04	175497			233696		972	Africa/Lusaka	2025-04-10
+175966	Mporokoso District	Mporokoso District	Mporokoso,Mporokoso District	-9.6869	30.19776	A	ADM2	ZM		05	175966			63452		1413	Africa/Lusaka	2025-04-10
+176143	Mbala District	Mbala District	Abercorn District,Mbala,Mbala District	-9.195	31.622	A	ADM2	ZM		05	176143			161595		1729	Africa/Lusaka	2025-04-10
+176553	Kawambwa District	Kawambwa District	Kawambwa,Kawambwa District	-9.80804	29.3125	A	ADM2	ZM		04	176553			123652		1197	Africa/Lusaka	2025-04-10
+176756	Kaputa District	Kaputa District	Kaputa,Kaputa District	-8.7505	29.43523	A	ADM2	ZM		05	176756			102854		1086	Africa/Lusaka	2025-04-10
+895952	Zambezi District	Zambezi District	Balovale District,Zambezi,Zambezi District	-13.58963	22.95404	A	ADM2	ZM		06	895952			108220		1075	Africa/Lusaka	2025-04-10
+897041	Solwezi District	Solwezi District	Solwezi,Solwezi District	-12.39277	26.04287	A	ADM2	ZM		06	897041			332623		1396	Africa/Lusaka	2025-04-10
+898902	Sesheke District	Sesheke District	Sesheke,Sesheke District	-16.98304	23.87528	A	ADM2	ZM		01	898902			72655		1015	Africa/Lusaka	2025-04-10
+898909	Serenje District	Serenje District	Serenje,Serenje District	-13.36222	30.23433	A	ADM2	ZM		02	898909			158192		1428	Africa/Lusaka	2025-04-10
+898945	Senanga District	Senanga District	Senanga,Senanga District	-16.08965	23.76732	A	ADM2	ZM		01	898945			112040		1066	Africa/Lusaka	2025-04-10
+899273	Samfya District	Samfya District	Samfya,Samfya District	-11.45375	29.64307	A	ADM2	ZM		04	899273			147189		1167	Africa/Lusaka	2025-04-10
+899821	Petauke District	Petauke District		-14.12637	31.40504	A	ADM2	ZM		03	899821			259385		880	Africa/Lusaka	2025-04-10
+901339	Ndola Rural District	Ndola Rural District	Ndola,Ndola Rural,Ndola Rural District	-13.26792	27.72519	A	ADM2	ZM		08	901339			0		1135	Africa/Lusaka	2016-08-03
+901342	Ndola District	Ndola District	Ndola,Ndola District,Ndola Urban District	-12.94155	28.54896	A	ADM2	ZM		08	901342			624579		1316	Africa/Lusaka	2025-04-10
+901764	Namwala District	Namwala District	Namwala,Namwala District	-15.91068	26.76462	A	ADM2	ZM		07	901764			0		1037	Africa/Lusaka	2015-10-04
+902616	Mwinilunga District	Mwinilunga District	Mvinilunga,Mwinilunga,Mwinilunga District,municipal'nyj okrug Mvinilunga,Мвинилунга,муниципальный округ Мвинилунга	-12.00079	24.58469	A	ADM2	ZM		06	902616			136770		1424	Africa/Lusaka	2025-04-10
+902718	Mwense District	Mwense District	Mwense,Mwense District	-10.43985	28.73309	A	ADM2	ZM		04	902718			122605		1104	Africa/Lusaka	2025-04-10
+904420	Mumbwa District	Mumbwa District	Mumbwa,Mumbwa District	-14.94021	26.6311	A	ADM2	ZM		02	904420			332237		1181	Africa/Lusaka	2025-04-10
+905389	Mufulira District	Mufulira District	Mufulira,Mufulira District	-12.52438	28.23854	A	ADM2	ZM		08	905389			200182		1246	Africa/Lusaka	2025-04-10
+905843	Mpika District	Mpika District	Mpika,Mpika District	-12.02118	31.26473	A	ADM2	ZM		10	905843			149063		1341	Africa/Lusaka	2025-04-10
+906042	Monze District	Monze District	Monze,Monze District	-16.10444	27.35992	A	ADM2	ZM		07	906042			268432		1044	Africa/Lusaka	2025-04-10
+906052	Mongu District	Mongu District	Mongu,Mongu District,Mongu-Lealui District	-15.37439	23.5325	A	ADM2	ZM		01	906052			197816		1077	Africa/Lusaka	2025-04-10
+906219	Mkushi District	Mkushi District	Mkushi,Mkushi District	-13.6996	29.49748	A	ADM2	ZM		02	906219			208635		1347	Africa/Lusaka	2025-04-10
+907108	Mazabuka District	Mazabuka District	Mazabuka,Mazabuka District	-15.85212	27.71608	A	ADM2	ZM		07	907108			232045		1034	Africa/Lusaka	2025-04-10
+907767	Mansa District	Mansa District	Fort Rosebery District,Mansa,Mansa District	-11.11672	28.95778	A	ADM2	ZM		04	907767			327063		1203	Africa/Lusaka	2025-04-10
+908911	Luwingu District	Luwingu District	Luwingu,Luwingu District	-10.48829	29.9182	A	ADM2	ZM		05	908911			101142		1208	Africa/Lusaka	2025-04-10
+909134	Lusaka District	Lusaka District	Lusaka District,Lusaka Rural,Lusaka Urban	-15.4307	28.34419	A	ADM2	ZM		09	909134			2204059		1312	Africa/Lusaka	2025-04-10
+909296	Lundazi District	Lundazi District	Lundazi,Lundazi District	-12.50109	32.72074	A	ADM2	ZM		03	909296			154908		905	Africa/Lusaka	2025-04-10
+909482	Lukulu District	Lukulu District	Lukulu,Lukulu District	-14.22997	23.8294	A	ADM2	ZM		01	909482			96290		1098	Africa/Lusaka	2025-04-10
+909857	Luanshya District	Luanshya District	Luanshya,Luanshya District	-13.05915	28.36081	A	ADM2	ZM		08	909857			211966		1256	Africa/Lusaka	2025-04-10
+909886	Luangwa District	Luangwa District	Feira District,Luangwa,Luangwa District	-15.41487	30.01031	A	ADM2	ZM		09	909886			35933		583	Africa/Lusaka	2025-04-10
+910107	Livingstone District	Livingstone District	Livingstone,Livingstone District	-17.802	25.867	A	ADM2	ZM		07	910107			177393		993	Africa/Lusaka	2025-04-10
+911144	Kitwe District	Kitwe District		-12.85	28.25	A	ADM2	ZM		08	911144			661901		1208	Africa/Lusaka	2025-04-10
+912053	Katete District	Katete District	Katete,Katete District	-14.04074	32.04329	A	ADM2	ZM		03	912053			214072		1061	Africa/Lusaka	2025-04-10
+912623	Kasempa District	Kasempa District	Kasempa,Kasempa District	-13.63667	26.2258	A	ADM2	ZM		06	912623			111272		1232	Africa/Lusaka	2025-04-10
+912763	Kasama District	Kasama District	Kasama,Kasama District	-10.35783	30.98983	A	ADM2	ZM		05	912763			348552		1216	Africa/Lusaka	2025-04-10
+913321	Kaoma District	Kaoma District	Kaoma,Kaoma District,Mankoya District	-14.64293	24.407	A	ADM2	ZM		01	913321			146690		1107	Africa/Lusaka	2025-04-10
+914956	Kalulushi District	Kalulushi District	Kalulushi,Kalulushi District	-12.76201	27.952	A	ADM2	ZM		08	914956			170701		1264	Africa/Lusaka	2025-04-10
+915082	Kalomo District	Kalomo District	Kalomo District	-17.147	26.679	A	ADM2	ZM		07	915082			274640		1256	Africa/Lusaka	2025-04-10
+915468	Kalabo District	Kalabo District	Kalabo,Kalabo District	-14.83997	22.71197	A	ADM2	ZM		01	915468			111769		1031	Africa/Lusaka	2025-04-10
+916077	Kapiri Mposhi	Kapiri Mposhi	Broken Hill District,Broken Hill Rural District,Kabwe Rural District,Kapiri Mposhi,Kapiri Mposhi District	-14.07747	28.51501	A	ADM2	ZM		02	916077			0		1166	Africa/Lusaka	2015-10-04
+916082	Kabwe District	Kabwe District	Broken Hill Urban District,Kabwe,Kabwe District	-14.4603	28.35502	A	ADM2	ZM		02	916082			299206		1203	Africa/Lusaka	2025-04-10
+916244	Kabompo District	Kabompo District	Kabompo,Kabompo District	-13.48946	23.95609	A	ADM2	ZM		06	916244			65760		1123	Africa/Lusaka	2025-04-10
+916666	Isoka District	Isoka District	Isoka,Isoka District	-10.01771	32.9141	A	ADM2	ZM		10	916666			111599		1025	Africa/Lusaka	2025-04-10
+917010	Gwembe District	Gwembe District	Gwembe,Gwembe District	-16.64077	27.88502	A	ADM2	ZM		07	917010			79273		830	Africa/Lusaka	2025-04-10
+917743	Choma District	Choma District	Choma,Choma District	-16.68884	26.98733	A	ADM2	ZM		07	917743			266916		1248	Africa/Lusaka	2025-04-10
+918699	Chipata District	Chipata District	Chipata,Chipata District,Fort Jameson District	-13.603	32.4971	A	ADM2	ZM		03	918699			327059		955	Africa/Lusaka	2025-04-10
+918903	Chinsali District	Chinsali District	Chinsali,Chinsali District	-10.33173	32.23818	A	ADM2	ZM		10	918903			148997		1243	Africa/Lusaka	2025-04-10
+919006	Chingola District	Chingola District	Chingola,Chingola District	-12.48478	27.66313	A	ADM2	ZM		08	919006			299936		1274	Africa/Lusaka	2025-04-10
+919540	Chililabombwe District	Chililabombwe District	Bancroft District,Chililabombwe,Chililabombwe District	-12.34267	27.77844	A	ADM2	ZM		08	919540			141899		1324	Africa/Lusaka	2025-04-10
+920896	Chama District	Chama District	Chama,Chama District	-11.25	32.83333	A	ADM2	ZM		10	920896			140326		655	Africa/Lusaka	2025-04-10
+921026	Chadiza District	Chadiza District	Chadiza,Chadiza District	-14.09739	32.48708	A	ADM2	ZM		03	921026			111069		1132	Africa/Lusaka	2025-04-10
+7671219	Siavonga District	Siavonga District		-16.26742	28.55036	A	ADM2	ZM		07	7671219			58864		511	Africa/Lusaka	2011-03-07
+7671220	Kafue district	Kafue district		-15.61994	28.44125	A	ADM2	ZM		09	7671220			219574		1072	Africa/Lusaka	2025-04-10
+7732619	Nyimba District	Nyimba District	Nyimba	-14.34628	30.59705	A	ADM2	ZM		03	7732619			136238		552	Africa/Lusaka	2025-04-10
+7910080	Chongwe District	Chongwe District		-15.72	29.33	A	ADM2	ZM		09	7910080			313389		369	Africa/Lusaka	2025-04-10
+8260555	Kazungula District	Kazungula District	Kazungula	-17.066	25.687	A	ADM2	ZM		07	8260555			173002		1077	Africa/Lusaka	2025-04-10
+8260556	Mpulungu District	Mpulungu District	Mpulungu	-8.982	30.794	A	ADM2	ZM		05	8260556			153564		1434	Africa/Lusaka	2025-04-10
+8260557	Mungwi District	Mungwi District	Mungwi	-9.93	31.735	A	ADM2	ZM		05	8260557			205096		1246	Africa/Lusaka	2025-04-10
+8285556	Kapiri-Mposhi District	Kapiri-Mposhi District	Kapiri-Mposh	-14.151	27.748	A	ADM2	ZM		02	8285556			0		1121	Africa/Lusaka	2012-05-11
+8285557	Masaiti District	Masaiti District	Masaiti	-13.409	28.719	A	ADM2	ZM		08	8285557			177829		1287	Africa/Lusaka	2025-04-10
+8714549	Chibombo District	Chibombo District		-14.65808	28.07376	A	ADM2	ZM		02	8714549			421315		1158	Africa/Lusaka	2025-04-10
+8714550	Itezhi-Tezhi District	Itezhi-Tezhi District		-15.74092	26.04146	A	ADM2	ZM		07	8714550			130216		1022	Africa/Lusaka	2025-04-10
+9072524	Mpongwe District	Mpongwe District		-13.50833	28.16667	A	ADM2	ZM		08	9072524			135486		1202	Africa/Lusaka	2025-04-10
+9072525	Sinazongwe District	Sinazongwe District		-17.22236	27.47913	A	ADM2	ZM		07	9072525			159055		504	Africa/Lusaka	2025-04-10
+10800890	Chilubi	Chilubi	Chilubi,Chilubi District	-11.03808	30.26299	A	ADM2	ZM		05	10800890			0		1172	Africa/Lusaka	2015-10-07
+10800891	Chienge	Chienge	Chienge,Chienge District,Chiengi	-8.77369	29.07954	A	ADM2	ZM		04	10800891			0		921	Africa/Lusaka	2015-10-07
+10800892	Milenge	Milenge	Milenge,Milenge District,Milengi	-11.84879	29.16806	A	ADM2	ZM		04	10800892			0		1082	Africa/Lusaka	2015-10-07
+10800895	Mambwe	Mambwe	Mambwe,Mambwe District	-13.34208	31.92867	A	ADM2	ZM		03	10800895			0		575	Africa/Lusaka	2015-10-07
+10801768	Lufwanyama	Lufwanyama	Lufwanyama,Lufwanyama District	-12.952	27.41743	A	ADM2	ZM		08	10801768			0		1248	Africa/Lusaka	2015-10-07
+10801775	Ikelenge	Ikelenge	Ikelenge,Ikelenge District	-11.23772	24.20839	A	ADM2	ZM		06	10801775			0		1384	Africa/Lusaka	2015-10-07
+10801797	Chavuma	Chavuma	Chavuma,Chavuma District	-13.19765	22.38958	A	ADM2	ZM		06	10801797			0		1084	Africa/Lusaka	2015-10-07
+10801798	Mufumbwe	Mufumbwe	Mufumbwe,Mufumbwe District	-13.76211	25.14392	A	ADM2	ZM		06	10801798			0		1139	Africa/Lusaka	2015-10-07
+10801800	Shangombo	Shangombo	Shan'gombo,Shang'ombo,Shang'ombo District,Shangombo,Shangombo District,Shang’ombo,Shang’ombo District,Shan’gombo	-16.30827	22.45556	A	ADM2	ZM		01	10801800			73822		1025	Africa/Lusaka	2023-08-17
+10814730	Manyinga District	Manyinga District	Manyinga,Manyinga District	-12.9722	24.32063	A	ADM2	ZM		06	10814730			0		1183	Africa/Lusaka	2015-10-07
+10814741	Mitete District	Mitete District	Mitete,Mitete District	-14.10042	22.6472	A	ADM2	ZM		01	10814741			39641		1051	Africa/Lusaka	2025-04-10
+10815319	Sikongo District	Sikongo District	Sikongo,Sikongo District	-15.23673	22.17756	A	ADM2	ZM		01	10815319			59670		1054	Africa/Lusaka	2025-04-10
+10815320	Limulunga District	Limulunga District	Limulunga,Limulunga District,Limulungu	-14.98032	23.35706	A	ADM2	ZM		01	10815320			61102		1048	Africa/Lusaka	2025-04-10
+10815321	Nkeyema District	Nkeyema District	Nkeyama,Nkeyema,Nkeyema District	-14.85076	25.14925	A	ADM2	ZM		01	10815321			0		1170	Africa/Lusaka	2015-10-07
+10815322	Luampa District	Luampa District	Luampa,Luampa District	-15.29072	24.74439	A	ADM2	ZM		01	10815322			61023		1142	Africa/Lusaka	2025-04-10
+10815323	Nalolo District	Nalolo District	Nalolo,Nalolo District	-15.77385	22.99538	A	ADM2	ZM		01	10815323			73645		1049	Africa/Lusaka	2025-04-10
+10815324	Sioma District	Sioma District	Sioma,Sioma District	-16.75362	23.2221	A	ADM2	ZM		01	10815324			65539		1008	Africa/Lusaka	2025-04-10
+10815325	Mulobezi District	Mulobezi District	Mulobezi,Mulobezi District	-16.2138	24.7201	A	ADM2	ZM		01	10815325			45326		1123	Africa/Lusaka	2025-04-10
+10815326	Mwandi District	Mwandi District	Mwandi,Mwandi District	-17.09101	24.63103	A	ADM2	ZM		01	10815326			40418		1028	Africa/Lusaka	2025-04-10
+10815849	Zimba District	Zimba District	Zimba,Zimba District	-17.61733	26.54468	A	ADM2	ZM		07	10815849			0		1168	Africa/Lusaka	2015-10-07
+10815850	Pemba District	Pemba District	Pemba,Pemba District	-16.67265	27.38679	A	ADM2	ZM		07	10815850			0		1215	Africa/Lusaka	2015-10-07
+10815851	Chikankata District	Chikankata District	Chikankanta,Chikankata,Chikankata District	-16.03566	28.23971	A	ADM2	ZM		07	10815851			0		1048	Africa/Lusaka	2015-10-07
+10815852	Chirundu District	Chirundu District	Chirundu,Chirundu District	-16.13283	28.68775	A	ADM2	ZM		09	10815852			0		448	Africa/Lusaka	2015-10-07
+10815853	Shibuyunji District	Shibuyunji District	Shibuyunji,Shibuyunji District	-15.38923	27.70259	A	ADM2	ZM		09	10815853			0		998	Africa/Lusaka	2015-10-07
+10815854	Chilanga District	Chilanga District	Chilanga,Chilanga District	-15.45131	28.07776	A	ADM2	ZM		09	10815854			0		1215	Africa/Lusaka	2015-10-07
+10815855	Rufunsa District	Rufunsa District	Rufunsa,Rufunsa District	-15.14901	29.52447	A	ADM2	ZM		09	10815855			81733		961	Africa/Lusaka	2025-04-10
+10815856	Ngabwe District	Ngabwe District	Ngabwe,Ngabwe District	-14.0313	27.44175	A	ADM2	ZM		02	10815856			0		1155	Africa/Lusaka	2015-10-07
+10815857	Chisamba District	Chisamba District	Chisamba,Chisamba District	-14.83074	28.56539	A	ADM2	ZM		02	10815857			0		1018	Africa/Lusaka	2015-10-07
+10815858	Luano District	Luano District	Luano,Luano District	-14.47823	29.55368	A	ADM2	ZM		02	10815858			0		1226	Africa/Lusaka	2015-10-07
+10815859	Chitambo District	Chitambo District	Chitambo,Chitambo District	-12.8636	30.56715	A	ADM2	ZM		02	10815859			0		1387	Africa/Lusaka	2015-10-07
+10815860	Sinda District	Sinda District	Sinda,Sinda District	-14.22958	31.70967	A	ADM2	ZM		03	10815860			213762		1114	Africa/Lusaka	2025-04-10
+10815861	Vubwi District	Vubwi District	Vubwi,Vubwi District	-14.00612	32.90254	A	ADM2	ZM		03	10815861			53080		975	Africa/Lusaka	2025-04-10
+10815862	Mwansabombwe District	Mwansabombwe District	Mwansabombwe,Mwansabombwe District	-9.87814	28.78084	A	ADM2	ZM		04	10815862			0		964	Africa/Lusaka	2015-10-07
+10815863	Chipili District	Chipili District	Chipili,Chipili District	-10.38368	29.12348	A	ADM2	ZM		04	10815863			47210		1217	Africa/Lusaka	2025-04-10
+10815864	Chembe District	Chembe District	Chembe,Chembe District	-11.70652	28.65445	A	ADM2	ZM		04	10815864			51532		1212	Africa/Lusaka	2025-04-10
+10815865	Lunga District	Lunga District	Lunga,Lunga District	-11.53801	30.09244	A	ADM2	ZM		04	10815865			39383		1168	Africa/Lusaka	2025-04-10
+10815866	Nsama District	Nsama District	Nsama,Nsama District	-8.75612	29.97167	A	ADM2	ZM		05	10815866			0		1127	Africa/Lusaka	2015-10-07
+11169206	Mafinga	Mafinga	Mafinga,Mafinga District	-10.37647	33.39867	A	ADM2	ZM		10	11169206			0		1368	Africa/Lusaka	2016-06-06
+11169207	Nakonde	Nakonde	Nakonde,Nakonde District	-9.48655	32.64852	A	ADM2	ZM		10	11169207			0		1382	Africa/Lusaka	2016-06-06
+11169209	Shiwang’andu District	Shiwang'andu District	Shiwamg'andu,Shiwamg’andu,Shiwang'andu,Shiwang'andu District,Shiwangandu,Shiwang’andu,Shiwang’andu District	-10.98893	31.69332	A	ADM2	ZM		10	11169209			0		1518	Africa/Lusaka	2020-06-13
+13429164	Chibombo	Chibombo	Chibombo,Chibombo District	-14.82782	27.73228	A	ADM2	ZM		02	13429164			0		1153	Africa/Lusaka	2025-07-17
+13429165	Chongwe	Chongwe	Chongwe,Chongwe District	-15.35819	28.62568	A	ADM2	ZM		09	13429165			0		1103	Africa/Lusaka	2025-07-17
+13429166	Mpongwe	Mpongwe	Mpongwe,Mpongwe District	-13.54782	27.7075	A	ADM2	ZM		08	13429166			0		1143	Africa/Lusaka	2025-07-17

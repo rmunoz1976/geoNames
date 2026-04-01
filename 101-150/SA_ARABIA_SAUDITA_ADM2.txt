@@ -1,0 +1,122 @@
+﻿10972259	Abhā	Abha	Abha,Abhā,Muhafazat Abha,Muḩāfaz̧at Abhā,abha,mhafzt abha,ابها,محافظة ابها	18.08333	42.53333	A	ADM2	SA		11	10972259			0		1281	Asia/Riyadh	2015-12-08
+10972260	Aḩad Rufaydah	Ahad Rufaydah	Ahad Rufaydah,Aḩad Rufaydah,Muhafazat Ahad Rufaydah,Muḩāfaz̧at Aḩad Rufaydah,ahd rfydt,mhafzt ahd rfydt,احد رفيدة,محافظة احد رفيدة	18.15	42.86667	A	ADM2	SA		11	10972260			0		2189	Asia/Riyadh	2015-12-08
+10972261	Al Majāridah	Al Majaridah	Al Majaridah,Al Majāridah,Muhafazat al Majaridah,Muḩāfaz̧at al Majāridah,almjardt,mhafzt almjardt,المجاردة,محافظة المجاردة	18.98333	41.81667	A	ADM2	SA		11	10972261			0		346	Asia/Riyadh	2023-10-17
+10972262	An Nimas	An Nimas	alnmas,النماص	19.21667	42.23333	A	ADM2	SA		11	10972262			53908		2096	Asia/Riyadh	2022-10-27
+10972263	Sabt Al Alayah	Sabt Al Alayah	Sabt Al Alaya,sbt alʿlaya,سبت العلايا	19.7	41.91667	A	ADM2	SA		11	10972263			100000		2001	Asia/Riyadh	2020-04-28
+10972264	Bīshah	Bishah	Bishah,Bīshah,Muhafazat Bishah,Muḩāfaz̧at Bīshah,bysht,mhafzt bysht,بيشة,محافظة بيشة	19.8	42.53333	A	ADM2	SA		11	10972264			0		1302	Asia/Riyadh	2015-12-08
+10972265	Khamīs Mushayţ	Khamis Mushayt	Khamis Mushayt,Khamīs Mushayţ,Muhafazat Khamis Mushayt,Muḩāfaz̧at Khamīs Mushayţ,khmys mshyt,mhafzt khmys mshyt,خميس مشيط,محافظة خميس مشيط	18.7	42.86667	A	ADM2	SA		11	10972265			0		1805	Asia/Riyadh	2015-12-08
+10972266	Muḩā’il	Muha'il	Muha'il,Muhafazat Muha'il,Muḩāfaz̧at Muḩā’il,Muḩā’il,mhafzt mhayl,mhayl,محائل,محافظة محائل	18.5	41.93333	A	ADM2	SA		11	10972266			0		810	Asia/Riyadh	2015-12-08
+10972267	Rijāl Alma‘	Rijal Alma`	Muhafazat Rijal Alma`,Muḩāfaz̧at Rijāl Alma‘,Rejal Alma,Rijal Alma`,Rijāl Alma‘,رجال المع,محافظة رجال المع	18.15	42.16667	A	ADM2	SA		11	10972267			0		658	Asia/Riyadh	2016-11-29
+10972268	Sarāt ‘Abīdah	Sarat `Abidah	Muhafazat Sarat `Abidah,Muḩāfaz̧at Sarāt ‘Abīdah,Sarat Ubaida Governorate,Sarat `Abidah,Sarāt ‘Abīdah,سراة عبيدة,محافظة سراة عبيدة	18	43.11667	A	ADM2	SA		11	10972268			0		2377	Asia/Riyadh	2023-10-19
+10972269	Tathlīth	Tathlith	Muhafazat Tathlith,Muḩāfaz̧at Tathlīth,Tathlith,Tathlith Governorate,Tathlīth,mhafzt tthlyth,tthlyth,تثليث,محافظة تثليث	19.58333	43.58333	A	ADM2	SA		11	10972269			0		1085	Asia/Riyadh	2023-10-19
+10972270	Z̧ahrān al Janūb	Zahran al Janub	Muhafazat Zahran al Janub,Muḩāfaz̧at Z̧ahrān al Janūb,Zahran al Janub,Z̧ahrān al Janūb,mhafzt zhran aljnwb,zhran aljnwb,ظهران الجنوب,محافظة ظهران الجنوب	17.664	43.531	A	ADM2	SA		11	10972270			0		2098	Asia/Riyadh	2024-02-01
+10972271	Al ‘Aqīq	Al `Aqiq	Al `Aqiq,Al ‘Aqīq,Muhafazat al `Aqiq,Muḩāfaz̧at al ‘Aqīq,العقيق,محافظة العقيق	20.4	41.66667	A	ADM2	SA		02	10972271			0		1551	Asia/Riyadh	2023-10-17
+10972272	Al Bāḩah	Al Bahah	Al Bahah,Al Bāḩah,Muhafazat al Bahah,Muḩāfaz̧at al Bāḩah,albaht,mhafzt albaht,الباحة,محافظة الباحة	20.01667	41.43333	A	ADM2	SA		02	10972272			0		2041	Asia/Riyadh	2015-12-08
+10972273	Al Mandaq	Al Mandaq	Al Mandaq,Muhafazat al Mandaq,Muḩāfaz̧at al Mandaq,almndq,mhafzt almndq,المندق,محافظة المندق	20.18333	41.23333	A	ADM2	SA		02	10972273			0		2023	Asia/Riyadh	2015-12-08
+10972274	Al Mikhwāh	Al Mikhwah	Al Makhwah,Al Mikhwah,Al Mikhwāh,Muhafazat al Mikhwah,Muḩāfaz̧at al Mikhwāh,almkhwah,mhafzt almkhwah,المخواه,محافظة المخواه	19.7	41.36667	A	ADM2	SA		02	10972274			0		419	Asia/Riyadh	2023-10-17
+10972283	Al Qurá	Al Qura	Al Qura,Al Qurá,Muhafazat al Qura,Muḩāfaz̧at al Qurá,alqry,mhafzt alqry,القرى,محافظة القرى	20.45	41.3	A	ADM2	SA		02	10972283			0		1735	Asia/Riyadh	2015-12-08
+10972284	Baljurashī	Baljurashi	Baljurashi,Baljurashī,Muhafazat Baljurashi,Muḩāfaz̧at Baljurashī,bljrshy,mhafzt bljrshy,بلجرشي,محافظة بلجرشي	19.98333	41.7	A	ADM2	SA		02	10972284			0		1819	Asia/Riyadh	2015-12-08
+10972285	Qilwah	Qilwah	Muhafazat Qilwah,Muḩāfaz̧at Qilwah,Qilwah,mhafzt qlwt,qlwt,قلوة,محافظة قلوة	20	41.08333	A	ADM2	SA		02	10972285			0		269	Asia/Riyadh	2023-10-19
+10972286	‘Ar‘ar	`Ar`ar	Muhafazat `Ar`ar,Muḩāfaz̧at ‘Ar‘ar,`Ar`ar,عرعر,محافظة عرعر,‘Ar‘ar	30.91667	41.5	A	ADM2	SA		15	10972286			0		457	Asia/Riyadh	2015-12-08
+10972287	Rafha	Rafha	Muhafazat Rafha',Muḩāfaz̧at Rafḩā’,Rafha,Rafha',Rafḩā’,رفحاء,محافظة رفحاء	29.16667	43.58333	A	ADM2	SA		15	10972287			0		534	Asia/Riyadh	2024-07-14
+10972288	Ţurayf	Turayf	Muhafazat Turayf,Muḩāfaz̧at Ţurayf,Turayf,mhafzt tryf,tryf,Ţurayf,طريف,محافظة طريف	31.5	39	A	ADM2	SA		15	10972288			0		851	Asia/Riyadh	2015-12-08
+10972289	Al Qurayyāt	Al Qurayyat	Al Qurayyat,Al Qurayyāt,Muhafazat al Qurayyat,Muḩāfaz̧at al Qurayyāt,alqryat,mhafzt alqryat,القريات,محافظة القريات	31.08333	37.75	A	ADM2	SA		20	10972289			0		558	Asia/Riyadh	2015-12-08
+10972290	Dawmat al Jandal	Dawmat al Jandal	Dawmat al Jandal,Muhafazat Dawmat al Jandal,Muḩāfaz̧at Dawmat al Jandal,dwmt aljndl,mhafzt dwmt aljndl,دومة الجندل,محافظة دومة الجندل	29.41667	39.5	A	ADM2	SA		20	10972290			0		884	Asia/Riyadh	2015-12-08
+10972291	Sakākā	Sakaka	Muhafazat Sakaka,Muḩāfaz̧at Sakākā,Sakaka,Sakākā,mhafzt skaka,skaka,سكاكا,محافظة سكاكا	30.33333	40	A	ADM2	SA		20	10972291			0		806	Asia/Riyadh	2015-12-08
+10972292	Al Ḩinākīyah	Al Hinakiyah	Al Hinakiyah,Al Ḩinākīyah,Muhafazat al Hinakiyah,Muḩāfaz̧at al Ḩinākīyah,alhnakyt,mhafzt alhnakyt,الحناكية,محافظة الحناكية	24.75	41	A	ADM2	SA		05	10972292			0		1008	Asia/Riyadh	2023-10-17
+10972293	Al Madīnah al Munawwarah	Al Madinah al Munawwarah	Al Madinah al Munawwarah,Al Madīnah al Munawwarah,Muhafazat al Madinah al Munawwarah,Muḩāfaz̧at al Madīnah al Munawwarah,almdynt almnwrt,mhafzt almdynt almnwrt,المدينة المنورة,محافظة المدينة المنورة	24.3	39.6	A	ADM2	SA		05	10972293			0		677	Asia/Riyadh	2015-12-08
+10972294	Al Mahd	Al Mahd	Al Mahd,Muhafazat al Mahd,Muḩāfaz̧at al Mahd,almhd,mhafzt almhd,المهد,محافظة المهد	23.5	40.75	A	ADM2	SA		05	10972294			0		1075	Asia/Riyadh	2015-12-08
+10972295	Al ‘Ulā	Al `Ula	Al `Ula,Al ‘Ulā,Muhafazat al `Ula,Muḩāfaz̧at al ‘Ulā,العلا,محافظة العلا	26.5	37.91667	A	ADM2	SA		05	10972295			0		842	Asia/Riyadh	2015-12-08
+10972296	Badr	Badr	Badr,Muhafazat Badr,Muḩāfaz̧at Badr,bdr,mhafzt bdr,بدر,محافظة بدر	23.75	38.95	A	ADM2	SA		05	10972296			0		203	Asia/Riyadh	2015-12-08
+10972297	Khaybar	Khaybar	Khaybar,Muhafazat Khaybar,Muḩāfaz̧at Khaybar,khybr,mhafzt khybr,خيبر,محافظة خيبر	25.83333	39.33333	A	ADM2	SA		05	10972297			0		758	Asia/Riyadh	2015-12-08
+10972298	Yanbu‘ al Baḩr	Yanbu` al Bahr	Muhafazat Yanbu` al Bahr,Muḩāfaz̧at Yanbu‘ al Baḩr,Yanbu` al Bahr,Yanbu‘ al Baḩr,محافظة ينبع البحر,ينبع البحر	24.75	38.33333	A	ADM2	SA		05	10972298			0		391	Asia/Riyadh	2015-12-08
+10972299	Al Asyāḩ	Al Asyah	Al Asyah,Al Asyāḩ,Muhafazat al Asyah,Muḩāfaz̧at al Asyāḩ,alasyah,mhafzt alasyah,الأسياح,محافظة الأسياح	26.95	44.16667	A	ADM2	SA		08	10972299			0		570	Asia/Riyadh	2018-03-10
+10972300	Al Badā’i‘	Al Bada'i`	Al Bada'i`,Al Badai,Al Badayea,Al Badā’i‘,Muhafazat al Bada'i`,Muḩāfaz̧at al Badā’i‘,البدائع,محافظة البدائع	25.8	43.73333	A	ADM2	SA		08	10972300			0		719	Asia/Riyadh	2024-07-14
+10972301	Al Bukayrīyah	Al Bukayriyah	Al Bukayriyah,Al Bukayrīyah,Muhafazat al Bukayriyah,Muḩāfaz̧at al Bukayrīyah,albkyryt,mhafzt albkyryt,البكيرية,محافظة البكيرية	26.43333	43.16667	A	ADM2	SA		08	10972301			0		784	Asia/Riyadh	2015-12-08
+10972302	Al Midhnab	Al Midhnab	Al Midhnab,Muhafazat al Midhnab,Muḩāfaz̧at al Midhnab,almdhnb,mhafzt almdhnb,المذنب,محافظة المذنب	25.8	44.26667	A	ADM2	SA		08	10972302			0		629	Asia/Riyadh	2023-10-17
+10972303	An Nabhānīyah	An Nabhaniyah	Al Nabhaniyah,An Nabhaniyah,An Nabhānīyah,Muhafazat an Nabhaniyah,Muḩāfaz̧at an Nabhānīyah,alnbhanyt,mhafzt alnbhanyt,النبهانية,محافظة النبهانية	25.46667	42.7	A	ADM2	SA		08	10972303			0		808	Asia/Riyadh	2023-10-17
+10972304	Ar Rass	Ar Rass	Ar Rass,Muhafazat ar Rass,Muḩāfaz̧at ar Rass,alrs,mhafzt alrs,الرس,محافظة الرس	25.56667	43.55	A	ADM2	SA		08	10972304			0		777	Asia/Riyadh	2015-12-08
+10972305	Ash Shimāsīyah	Ash Shimasiyah	Ash Shimasiyah,Ash Shimāsīyah,Muhafazat ash Shimasiyah,Muḩāfaz̧at ash Shimāsīyah,alshmasyt,mhafzt alshmasyt,الشماسية,محافظة الشماسية	26.03333	44.46667	A	ADM2	SA		08	10972305			0		680	Asia/Riyadh	2017-02-05
+10972306	Buraydah	Buraydah	Buraydah,Muhafazat Buraydah,Muḩāfaz̧at Buraydah,brydt,mhafzt brydt,بريدة,محافظة بريدة	27.36667	43.63333	A	ADM2	SA		08	10972306			0		661	Asia/Riyadh	2015-12-08
+10972307	Riyāḑ al Khabrā’	Riyad al Khabra'	Muhafazat Riyad al Khabra',Muḩāfaz̧at Riyāḑ al Khabrā’,Riyad al Khabra',Riyāḑ al Khabrā’,رياض الخبراء,محافظة رياض الخبراء	26.06667	43.51667	A	ADM2	SA		08	10972307			0		660	Asia/Riyadh	2023-10-19
+10972308	Governorate of Unaizah	Governorate of Unaizah	'Unayzah,Governorate of Unaizah,Muhafazat 'Unayzah,Muḩāfaz̧at ‘Unayzah,عنيزة,محافظة عنيزة,‘Unayzah	25.93333	43.95	A	ADM2	SA		08	10972308			0		679	Asia/Riyadh	2024-07-14
+10972309	‘Uyūn al Jiwā’	`Uyun al Jiwa'	Muhafazat `Uyun al Jiwa',Muḩāfaz̧at ‘Uyūn al Jiwā’,Uyun AlJiwa governorate,`Uyun al Jiwa',عيون الجواء,محافظة عيون الجواء,‘Uyūn al Jiwā’	26.5	43.58333	A	ADM2	SA		08	10972309			0		653	Asia/Riyadh	2023-10-19
+10972310	Ad Dawādimī	Ad Dawadimi	Ad Dawadimi,Ad Dawādimī,Muhafazat ad Dawadimi,Muḩāfaz̧at ad Dawādimī,aldwadmy,mhafzt aldwadmy,الدوادمي,محافظة الدوادمي	24.66667	44.16667	A	ADM2	SA		10	10972310			0		861	Asia/Riyadh	2015-12-08
+10972311	Ad Dir‘īyah	Ad Dir`iyah	Ad Dir`iyah,Ad Dir‘īyah,Muhafazat ad Dir`iyah,Muḩāfaz̧at ad Dir‘īyah,الدرعية,محافظة الدرعية	24.88333	46.36667	A	ADM2	SA		10	10972311			0		758	Asia/Riyadh	2015-12-08
+10972312	‘Afīf	`Afif	Muhafazat `Afif,Muḩāfaz̧at ‘Afīf,`Afif,عفيف,محافظة عفيف,‘Afīf	23.66667	42.75	A	ADM2	SA		10	10972312			0		1029	Asia/Riyadh	2015-12-08
+10972313	Al Aflāj	Al Aflaj	Al Aflaj,Al Aflāj,Muhafazat al Aflaj,Muḩāfaz̧at al Aflāj,alaflaj,mhafzt alaflaj,الأفلاج,محافظة الأفلاج	22.08333	46.83333	A	ADM2	SA		10	10972313			0		500	Asia/Riyadh	2015-12-08
+10972314	Al Ghāţ	Al Ghat	Al Ghat,Al Ghāţ,Muhafazat al Ghat,Muḩāfaz̧at al Ghāţ,alghat,mhafzt alghat,الغاط,محافظة الغاط	26	44.9	A	ADM2	SA		10	10972314			0		644	Asia/Riyadh	2015-12-08
+10972315	Al Ḩarīq	Al Hariq	Al Hariq,Al Ḩarīq,Muhafazat al Hariq,Muḩāfaz̧at al Ḩarīq,alhryq,mhafzt alhryq,الحريق,محافظة الحريق	23.5	46.1	A	ADM2	SA		10	10972315			0		668	Asia/Riyadh	2015-12-08
+10972316	Al Kharj	Al Kharj	Al Kharj,Muhafazat al Kharj,Muḩāfaz̧at al Kharj,alkhrj,mhafzt alkhrj,الخرج,محافظة الخرج	23.91667	47.5	A	ADM2	SA		10	10972316			0		538	Asia/Riyadh	2015-12-08
+10972317	Al Majma‘ah	Al Majma`ah	Al Majma`ah,Al Majma‘ah,Muhafazat al Majma`ah,Muḩāfaz̧at al Majma‘ah,المجمعة,محافظة المجمعة	26.41667	45.66667	A	ADM2	SA		10	10972317			0		635	Asia/Riyadh	2015-12-08
+10972318	Al Muzāḩimīyah	Al Muzahimiyah	Al Muzahimiyah,Al Muzāḩimīyah,Muhafazat al Muzahimiyah,Muḩāfaz̧at al Muzāḩimīyah,almzahmyt,mhafzt almzahmyt,المزاحمية,محافظة المزاحمية	24.16667	46.25	A	ADM2	SA		10	10972318			0		721	Asia/Riyadh	2015-12-08
+10972319	Al Quway‘īyah	Al Quway`iyah	Al Quway`iyah,Al Quway‘īyah,Muhafazat al Quway`iyah,Muḩāfaz̧at al Quway‘īyah,القويعية,محافظة القويعية	23.25	44.66667	A	ADM2	SA		10	10972319			0		865	Asia/Riyadh	2015-12-08
+10972320	Ar Riyāḑ	Ar Riyad	Ar Riyad,Ar Riyāḑ,Muhafazat ar Riyad,Muḩāfaz̧at ar Riyāḑ,alryad,mhafzt alryad,الرياض,محافظة الرياض	24.66667	47.08333	A	ADM2	SA		10	10972320			0		594	Asia/Riyadh	2023-10-19
+10972321	As Sulayyil	As Sulayyil	As Sulayyil,Muhafazat as Sulayyil,Muḩāfaz̧at as Sulayyil,alslyl,mhafzt alslyl,السليل,محافظة السليل	20.33333	46.41667	A	ADM2	SA		10	10972321			0		513	Asia/Riyadh	2015-12-08
+10972322	Az Zulfī	Az Zulfi	Az Zulfi,Az Zulfī,Muhafazat az Zulfi,Muḩāfaz̧at az Zulfī,alzlfy,mhafzt alzlfy,الزلفي,محافظة الزلفي	26.53333	44.7	A	ADM2	SA		10	10972322			0		628	Asia/Riyadh	2015-12-08
+10972323	Ḑurumā	Duruma	Duruma,Muhafazat Duruma,Muḩāfaz̧at Ḑurumā,drma,mhafzt drma,ضرما,محافظة ضرما,Ḑurumā	24.7	46.06667	A	ADM2	SA		10	10972323			0		710	Asia/Riyadh	2015-12-08
+10972324	Ḩawţat Banī Tamīm	Hawtat Bani Tamim	Hawtah Bani Tamim,Hawtat Bani Tamim,Hota Bani Tamim,Hotat Bani Tamim,Howtat Bani Tamim,Muhafazat Hawtat Bani Tamim,Muḩāfaz̧at Ḩawţat Banī Tamīm,hwtt bny tmym,mhafzt hwtt bny tmym,حوطة بني تميم,محافظة حوطة بني تميم,Ḩawţat Banī Tamīm	23.2	46.7	A	ADM2	SA		10	10972324			0		699	Asia/Riyadh	2024-07-15
+10972325	Ḩuraymilā’	Huraymila'	Huraymila',Muhafazat Huraymila',Muḩāfaz̧at Ḩuraymilā’,حريملاء,محافظة حريملاء,Ḩuraymilā’	25.23333	46.28333	A	ADM2	SA		10	10972325			0		660	Asia/Riyadh	2015-12-08
+10972326	Rumāḩ	Rumah	Muhafazat Rumah,Muḩāfaz̧at Rumāḩ,Rimah Governorate,Romah,Rumah,Rumāḩ,mhafzt rmah,rmah,رماح,محافظة رماح	25.75	47.08333	A	ADM2	SA		10	10972326			0		564	Asia/Riyadh	2023-10-19
+10972327	Shaqrā’	Shaqra'	Muhafazat Shaqra',Muḩāfaz̧at Shaqrā’,Shaqra',Shaqrā’,شقراء,محافظة شقراء	25.36667	45.13333	A	ADM2	SA		10	10972327			0		741	Asia/Riyadh	2015-12-08
+10972328	Thādiq	Thadiq	Muhafazat Thadiq,Muḩāfaz̧at Thādiq,Thadiq,Thādiq,mhafzt thadq,thadq,ثادق,محافظة ثادق	25.46667	46.08333	A	ADM2	SA		10	10972328			0		629	Asia/Riyadh	2015-12-08
+10972329	Wādī ad Dawāsir	Wadi ad Dawasir	Muhafazat Wadi ad Dawasir,Muḩāfaz̧at Wādī ad Dawāsir,Wadi ad Dawasir,Wādī ad Dawāsir,mhafzt wady aldwasr,wady aldwasr,محافظة وادي الدواسر,وادي الدواسر	21	44.43333	A	ADM2	SA		10	10972329			0		879	Asia/Riyadh	2015-12-08
+10972330	Ad Dammām	Ad Dammam	Ad Dammam,Ad Dammām,Muhafazat ad Dammam,Muḩāfaz̧at ad Dammām,aldmam,mhafzt aldmam,الدمام,محافظة الدمام	26.41667	49.86667	A	ADM2	SA		06	10972330			0		19	Asia/Riyadh	2015-12-08
+10972331	Al Aḩsā’	Al Ahsa'	Al Ahsa,Al Ahsa',Al Aḩsā’,Al-Hasa,Al-Ḥasā,Ehl'-Khasa,Hajar,Hasa,Muhafazat al Ahsa',Muḩāfaz̧at al Aḩsā’,Эль-Хаса,الاحساء,محافظة الاحساء	22	51	A	ADM2	SA		06	10972331			0		152	Asia/Riyadh	2024-09-13
+10972332	Al Jubayl	Al Jubayl	Al Jubayl,Muhafazat al Jubayl,Muḩāfaz̧at al Jubayl,aljbyl,mhafzt aljbyl,الجبيل,محافظة الجبيل	26.91667	49.33333	A	ADM2	SA		06	10972332			0		42	Asia/Riyadh	2015-12-08
+10972333	Al Khafjī	Al Khafji	Al Khafji,Al Khafjī,Muhafazat al Khafji,Muḩāfaz̧at al Khafjī,alkhfjy,mhafzt alkhfjy,الخفجي,محافظة الخفجي	28.16667	48.16667	A	ADM2	SA		06	10972333			0		90	Asia/Riyadh	2015-12-08
+10972334	Al Khubar	Al Khubar	Al Khubar,Muhafazat al Khubar,Muḩāfaz̧at al Khubar,alkhbr,mhafzt alkhbr,الخبر,محافظة الخبر	26.26667	50.11667	A	ADM2	SA		06	10972334			0		21	Asia/Riyadh	2015-12-08
+10972335	An Nu‘ayrīyah	An Nu`ayriyah	An Nu`ayriyah,An Nu‘ayrīyah,Muhafazat an Nu`ayriyah,Muḩāfaz̧at an Nu‘ayrīyah,النعيرية,محافظة النعيرية	27	48.5	A	ADM2	SA		06	10972335			0		73	Asia/Riyadh	2023-10-17
+10972336	Al Qaţīf	Al Qatif	Al Qatif,Al Qaţīf,Muhafazat al Qatif,Muḩāfaz̧at al Qaţīf,alqtyf,mhafzt alqtyf,القطيف,محافظة القطيف	26.63333	49.91667	A	ADM2	SA		06	10972336			0		13	Asia/Riyadh	2015-12-08
+10972337	Buqayq	Buqayq	Buqayq,Muhafazat Buqayq,Muḩāfaz̧at Buqayq,bqyq,mhafzt bqyq,بقيق,محافظة بقيق	26.08333	49.58333	A	ADM2	SA		06	10972337			0		37	Asia/Riyadh	2015-12-08
+10972338	Ḩafr al Bāţin	Hafr al Batin	Hafr al Batin,Muhafazat Hafr al Batin,Muḩāfaz̧at Ḩafr al Bāţin,hfr albatn,mhafzt hfr albatn,حفر الباطن,محافظة حفر الباطن,Ḩafr al Bāţin	28.25	46.08333	A	ADM2	SA		06	10972338			0		368	Asia/Riyadh	2015-12-08
+10972339	Qaryah al ‘Ulyā	Qaryah al `Ulya	Muhafazat Qaryah al `Ulya,Muḩāfaz̧at Qaryah al ‘Ulyā,Qaryah al `Ulya,Qaryah al ‘Ulyā,قرية العليا,محافظة قرية العليا	27.25	47	A	ADM2	SA		06	10972339			0		337	Asia/Riyadh	2015-12-08
+10972340	Ra’s Tannūrah	Ra's Tannurah	Muhafazat Ra's Tannurah,Muḩāfaz̧at Ra’s Tannūrah,Ra's Tannurah,Ra’s Tannūrah,mhafzt ras tnwrt,ras tnwrt,رأس تنورة,محافظة رأس تنورة	26.8	49.95	A	ADM2	SA		06	10972340			0		2	Asia/Riyadh	2015-12-08
+10972341	Al Ghazālah	Al Ghazalah	Al Ghazalah,Al Ghazālah,Al Khazaiah,Al-Ghazalah,Muhafazat al Ghazalah,Muḩāfaz̧at al Ghazālah,alghzalt,mhafzt alghzalt,الغزالة,محافظة الغزالة	26.16667	40.91667	A	ADM2	SA		13	10972341			0		941	Asia/Riyadh	2023-10-17
+10972342	Ash Shinān	Ash Shinan	Ash Shinan,Ash Shinān,Muhafazat ash Shinan,Muḩāfaz̧at ash Shinān,alshnan,mhafzt alshnan,الشنان,محافظة الشنان	27.08333	42.41667	A	ADM2	SA		13	10972342			0		978	Asia/Riyadh	2023-10-17
+10972343	Baq‘ā’	Baq`a'	Baq`a',Baq‘ā’,Muhafazat Baq`a',Muḩāfaz̧at Baq‘ā’,بقعاء,محافظة بقعاء	28	42.83333	A	ADM2	SA		13	10972343			0		746	Asia/Riyadh	2015-12-08
+10972344	Ḩā’il	Ha'il	Ha'il,Muhafazat Ha'il,Muḩāfaz̧at Ḩā’il,hayl,mhafzt hayl,حائل,محافظة حائل,Ḩā’il	27.83333	40.83333	A	ADM2	SA		13	10972344			0		913	Asia/Riyadh	2015-12-08
+10972345	Abū ‘Arīsh	Abu `Arish	Abu `Arish,Abū ‘Arīsh,Muhafazat Abu `Arish,Muḩāfaz̧at Abū ‘Arīsh,أبو عريش,محافظة أبو عريش	16.95	42.86667	A	ADM2	SA		17	10972345			0		66	Asia/Riyadh	2015-12-08
+10972346	Ad Dā’ir	Ad Da'ir	Ad Da'ir,Ad Dā’ir,Al Dayer,Muhafazat ad Da'ir,Muḩāfaz̧at ad Dā’ir,aldayr,mhafzt aldayr,الدائر,محافظة الدائر	17.41667	43.15	A	ADM2	SA		17	10972346			0		1753	Asia/Riyadh	2023-10-17
+10972347	Ad Darb	Ad Darb	Ad Darb,Al Darb,Muhafazat ad Darb,Muḩāfaz̧at ad Darb,aldrb,mhafzt aldrb,الدرب,محافظة الدرب	17.75	42.2	A	ADM2	SA		17	10972347			0		56	Asia/Riyadh	2023-10-17
+10972348	Aḩad al Musāriḩah	Ahad al Musarihah	Ahad al Musarihah,Aḩad al Musāriḩah,Muhafazat Ahad al Musarihah,Muḩāfaz̧at Aḩad al Musāriḩah,ahd almsarht,mhafzt ahd almsarht,أحد المسارحة,محافظة أحد المسارحة	16.75	42.91667	A	ADM2	SA		17	10972348			0		64	Asia/Riyadh	2015-12-08
+10972349	Al ‘Āriḑah	Al `Aridah	Al Aridhah,Al `Aridah,Al ‘Āriḑah,Muhafazat al `Aridah,Muḩāfaz̧at al ‘Āriḑah,العارضة,محافظة العارضة	17.03333	43.08333	A	ADM2	SA		17	10972349			0		238	Asia/Riyadh	2023-10-17
+10972350	Al Ḩarth	Al Harth	Al Harth,Al Ḩarth,Muhafazat al Harth,Muḩāfaz̧at al Ḩarth,alhrth,mhafzt alhrth,الحرث,محافظة الحرث	16.8	43.15	A	ADM2	SA		17	10972350			0		204	Asia/Riyadh	2023-10-17
+10972351	Al ‘Īdābī	Al `Idabi	Al Edabi,Al `Idabi,Al ‘Īdābī,Muhafazat al `Idabi,Muḩāfaz̧at al ‘Īdābī,العيدابي,محافظة العيدابي	17.38333	42.95	A	ADM2	SA		17	10972351			0		453	Asia/Riyadh	2023-10-17
+10972352	Ar Rayth	Ar Rayth	Ar Rayth,Muhafazat ar Rayth,Muḩāfaz̧at ar Rayth,alryth,mhafzt alryth,الريث,محافظة الريث	17.65	42.81667	A	ADM2	SA		17	10972352			0		1103	Asia/Riyadh	2023-10-17
+10972353	Baysh	Baysh	Baysh,Muhafazat Baysh,Muḩāfaz̧at Baysh,bysh,mhafzt bysh,بيش,محافظة بيش	17.43333	42.46667	A	ADM2	SA		17	10972353			0		65	Asia/Riyadh	2023-10-17
+10972354	Ḑamad	Damad	Damad,Muhafazat Damad,Muḩāfaz̧at Ḑamad,dmd,mhafzt dmd,ضمد,محافظة ضمد,Ḑamad	17.13333	42.81667	A	ADM2	SA		17	10972354			0		96	Asia/Riyadh	2023-10-17
+10972355	Farasān	Farasan	Farasan,Farasān,Muhafazat Farasan,Muḩāfaz̧at Farasān,frsan,mhafzt frsan,فرسان,محافظة فرسان	16.73333	41.96667	A	ADM2	SA		17	10972355			0		3	Asia/Riyadh	2015-12-08
+10972356	Jāzān	Jazan	Jazan,Jāzān,Muhafazat Jazan,Muḩāfaz̧at Jāzān,jazan,mhafzt jazan,جازان,محافظة جازان	16.86667	42.66667	A	ADM2	SA		17	10972356			0		15	Asia/Riyadh	2015-12-08
+10972357	Şabyā’	Sabya'	Muhafazat Sabya',Muḩāfaz̧at Şabyā’,Sabya',Şabyā’,صبياء,محافظة صبياء	17.25	42.63333	A	ADM2	SA		17	10972357			0		53	Asia/Riyadh	2015-12-08
+10972358	Şāmiţah	Samitah	Muhafazat Samitah,Muḩāfaz̧at Şāmiţah,Samitah,mhafzt samtt,samtt,Şāmiţah,صامطة,محافظة صامطة	16.63333	42.96667	A	ADM2	SA		17	10972358			0		72	Asia/Riyadh	2015-12-08
+10972359	Al Jumūm	Al Jumum	Al Jumum,Al Jumūm,Muhafazat al Jumum,Muḩāfaz̧at al Jumūm,aljmwm,mhafzt aljmwm,الجموم,محافظة الجموم	21.78333	39.91667	A	ADM2	SA		14	10972359			0		524	Asia/Riyadh	2015-12-08
+10972360	Al Kāmil	Al Kamil	Al Kamil,Al Kāmil,Muhafazat al Kamil,Muḩāfaz̧at al Kāmil,alkaml,mhafzt alkaml,الكامل,محافظة الكامل	22.4	39.9	A	ADM2	SA		14	10972360			0		594	Asia/Riyadh	2023-10-17
+10972361	Al Khurmah	Al Khurmah	Al Khurmah,Muhafazat al Khurmah,Muḩāfaz̧at al Khurmah,alkhrmt,mhafzt alkhrmt,الخرمة,محافظة الخرمة	21.91667	42.53333	A	ADM2	SA		14	10972361			0		953	Asia/Riyadh	2023-10-17
+10972362	Al Līth	Al Lith	Al Lith,Al Līth,Muhafazat al Lith,Muḩāfaz̧at al Līth,allyth,mhafzt allyth,الليث,محافظة الليث	20.46667	40.36667	A	ADM2	SA		14	10972362			0		336	Asia/Riyadh	2015-12-08
+10972363	Al Qunfudhah	Al Qunfudhah	Al Qunfudhah,Muhafazat al Qunfudhah,Muḩāfaz̧at al Qunfudhah,alqnfdht,mhafzt alqnfdht,القنفذة,محافظة القنفذة	19.25	41.38333	A	ADM2	SA		14	10972363			0		111	Asia/Riyadh	2020-02-09
+10972364	Aţ Ţā’if	At Ta'if	At Ta'if,Aţ Ţā’if,Muhafazat at Ta'if,Muḩāfaz̧at aţ Ţā’if,altayf,mhafzt altayf,الطائف,محافظة الطائف	22.25	41.25	A	ADM2	SA		14	10972364			0		970	Asia/Riyadh	2015-12-08
+10972365	Jiddah	Jiddah	Jiddah,Muhafazat Jiddah,Muḩāfaz̧at Jiddah,jdt,mhafzt jdt,جدة,محافظة جدة	21.63333	39.2	A	ADM2	SA		14	10972365			0		32	Asia/Riyadh	2015-12-08
+10972366	Khulayş	Khulays	Khulays,Khulayş,Muhafazat Khulays,Muḩāfaz̧at Khulayş,khlys,mhafzt khlys,خليص,محافظة خليص	22.3	39.43333	A	ADM2	SA		14	10972366			0		145	Asia/Riyadh	2023-10-17
+10972367	Makkah al Mukarramah	Makkah al Mukarramah	Makkah al Mukarramah,Muhafazat Makkah al Mukarramah,Muḩāfaz̧at Makkah al Mukarramah,mhafzt mkt almkrmt,mkt almkrmt,محافظة مكة المكرمة,مكة المكرمة	21.25	39.8	A	ADM2	SA		14	10972367			0		324	Asia/Riyadh	2015-12-08
+10972368	Rābigh	Rabigh	Muhafazat Rabigh,Muḩāfaz̧at Rābigh,Rabigh,Rābigh,mhafzt rabgh,rabgh,رابغ,محافظة رابغ	22.8	39.23333	A	ADM2	SA		14	10972368			0		37	Asia/Riyadh	2015-12-08
+10972369	Ranyah	Ranyah	Muhafazat Ranyah,Muḩāfaz̧at Ranyah,Ranyah,mhafzt rnyt,rnyt,رنية,محافظة رنية	21.08333	42.75	A	ADM2	SA		14	10972369			0		976	Asia/Riyadh	2023-10-19
+10972370	Turubah	Turubah	Muhafazat Turubah,Muḩāfaz̧at Turubah,Turubah,mhafzt trbt,trbt,تربة,محافظة تربة	21.2	41.56667	A	ADM2	SA		14	10972370			0		1167	Asia/Riyadh	2015-12-08
+10972371	Al Kharkhīr	Al Kharkhir	Al Kharkhir,Al Kharkhīr,Muhafazat al Kharkhir,Muḩāfaz̧at al Kharkhīr,alkhrkhyr,mhafzt alkhrkhyr,الخرخير,محافظة الخرخير	19.13333	50.95	A	ADM2	SA		16	10972371			0		286	Asia/Riyadh	2023-10-17
+10972372	Badr al Janūb	Badr al Janub	Badr al Janub,Badr al Janūb,Muhafazat Badr al Janub,Muḩāfaz̧at Badr al Janūb,bdr aljnwb,mhafzt bdr aljnwb,بدر الجنوب,محافظة بدر الجنوب	17.8	43.73333	A	ADM2	SA		16	10972372			0		2104	Asia/Riyadh	2023-10-17
+10972373	Ḩubūnā	Hubuna	Hubuna,Muhafazat Hubuna,Muḩāfaz̧at Ḩubūnā,hbwna,mhafzt hbwna,حبونا,محافظة حبونا,Ḩubūnā	17.78333	44.2	A	ADM2	SA		16	10972373			0		1506	Asia/Riyadh	2023-10-17
+10972374	Khubāsh	Khubash	Khubash,Khubāsh,Muhafazat Khubash,Muḩāfaz̧at Khubāsh,khbash,mhafzt khbash,خباش,محافظة خباش	17.66667	45.25	A	ADM2	SA		16	10972374			0		963	Asia/Riyadh	2020-06-13
+10972375	Najrān	Najran	Muhafazat Najran,Muḩāfaz̧at Najrān,Najran,Najrān,mhafzt njran,njran,محافظة نجران,نجران	17.55	44.08333	A	ADM2	SA		16	10972375			0		1691	Asia/Riyadh	2015-12-08
+10972376	Sharūrah	Sharurah	Muhafazat Sharurah,Muḩāfaz̧at Sharūrah,Sharurah,Sharūrah,mhafzt shrwrt,shrwrt,شرورة,محافظة شرورة	18	47.5	A	ADM2	SA		16	10972376			0		619	Asia/Riyadh	2015-12-08
+10972377	Thār	Thar	Muhafazat Thar,Muḩāfaz̧at Thār,Thar,Thār,mhafzt thar,thar,ثار,محافظة ثار	18.16667	44.6	A	ADM2	SA		16	10972377			0		1121	Asia/Riyadh	2023-10-19
+10972378	Yadamah	Yadamah	Muhafazat Yadamah,Muḩāfaz̧at Yadamah,Yadamah,mhafzt ydmt,ydmh,ydmt,محافظة يدمة,يدمة,يدمه	18.83333	44.66667	A	ADM2	SA		16	10972378			0		1036	Asia/Riyadh	2017-10-06
+10972379	Al Wajh	Al Wajh	Al Wajh,Muhafazat al Wajh,Muḩāfaz̧at al Wajh,alwjh,mhafzt alwjh,الوجه,محافظة الوجه	26.41667	36.75	A	ADM2	SA		19	10972379			0		276	Asia/Riyadh	2015-12-08
+10972380	Ḑubā’	Duba'	Duba',Muhafazat Duba',Muḩāfaz̧at Ḑubā’,ضباء,محافظة ضباء,Ḑubā’	27.5	36	A	ADM2	SA		19	10972380			0		387	Asia/Riyadh	2015-12-08
+10972381	Ḩaql	Haql	Haql,Muhafazat Haql,Muḩāfaz̧at Ḩaql,hql,mhafzt hql,حقل,محافظة حقل,Ḩaql	29.06667	35.36667	A	ADM2	SA		19	10972381			0		1199	Asia/Riyadh	2015-12-08
+10972382	Tabūk	Tabuk	Muhafazat Tabuk,Muḩāfaz̧at Tabūk,Tabuk,Tabūk,mhafzt tbwk,tbwk,تبوك,محافظة تبوك	28.66667	36.75	A	ADM2	SA		19	10972382			0		826	Asia/Riyadh	2015-12-08
+10972383	Taymā’	Tayma'	Muhafazat Tayma',Muḩāfaz̧at Taymā’,Tayma',Taymā’,تيماء,محافظة تيماء	27.75	38.58333	A	ADM2	SA		19	10972383			37579		852	Asia/Riyadh	2026-01-26
+10972384	Umluj	Umluj	Muhafazat Umluj,Muḩāfaz̧at Umluj,Umluj,amlj,mhafzt amlj,أملج,محافظة أملج	25.33333	37.41667	A	ADM2	SA		19	10972384			0		218	Asia/Riyadh	2023-10-19
+11906054	Ghran	Ghran	Ghran,ghran,mdynt ghran,غران,مدينة غران	21.98027	39.36521	A	ADM2	SA		14	11906054			2000		107	Asia/Riyadh	2019-10-26
+13191966	Harub	Harub		17.51327	42.83685	A	ADM2	SA		17	13191966			0		980	Asia/Riyadh	2025-01-12
+13191967	At-Tuwal	At-Tuwal		16.6557	42.9033	A	ADM2	SA		17	13191967			0		43	Asia/Riyadh	2025-01-12
+13191968	Fayfa	Fayfa		16.86799	42.71375	A	ADM2	SA		17	13191968			0		14	Asia/Riyadh	2025-01-12

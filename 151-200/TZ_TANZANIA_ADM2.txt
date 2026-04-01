@@ -1,0 +1,170 @@
+﻿148841	Wete District	Wete District	Wete,Wete Area,Wete District	-5.09125	39.76193	A	ADM2	TZ		13	5401			0		49	Africa/Dar_es_Salaam	2016-07-24
+149171	Urambo	Urambo	Urambo,Urambo District,Urambo District Council	-5.17501	32.13148	A	ADM2	TZ		17	1404			0		1119	Africa/Dar_es_Salaam	2016-07-24
+149252	Ulanga	Ulanga	Mahenge District,Ulanga,Ulanga District,Ulanga District Council	-8.98886	36.61331	A	ADM2	TZ		10	0504			0		806	Africa/Dar_es_Salaam	2016-07-24
+149294	Ukerewe District	Ukerewe District	Distretto di Ukerewe,Periochi Oukereoue,Ukerewe,Ukerewe District,Wilaya ya Ukerewe,valiato de Ukerewe,Περιοχή Ουκερέουε	-2.04	33	A	ADM2	TZ		12	1901			0		1261	Africa/Dar_es_Salaam	2016-07-24
+149542	Temeke	Temeke	Temeke,Temeke District,Temeke Municipal Council	-6.92452	39.42177	A	ADM2	TZ		23	0703			0		23	Africa/Dar_es_Salaam	2016-07-24
+149579	Tarime	Tarime	North Mara District,Tarime,Tarime District,Tarime District Council	-1.3784	34.47682	A	ADM2	TZ		08	2001			0		1676	Africa/Dar_es_Salaam	2016-07-24
+149601	Tanga	Tanga	Tanga,Tanga City Council,Tanga District	-5.11574	39.02753	A	ADM2	TZ		18	0404			0		64	Africa/Dar_es_Salaam	2016-07-24
+149654	Tabora Urban	Tabora Urban	Tabora Municipal District,Tabora Urban	-5.02	32.83	A	ADM2	TZ		17	1406			0		1184	Africa/Dar_es_Salaam	2016-07-24
+149702	Sumbawanga	Sumbawanga	Sumbawanga,Sumbawanga District,Sumbawanga District Council,Sumbawanga Rural,Ufipa District	-8.18604	31.93899	A	ADM2	TZ		24	1502			0		1632	Africa/Dar_es_Salaam	2016-07-24
+149877	Singida Rural District	Singida Rural District		-4.62844	34.9585	A	ADM2	TZ		16	1302			0		1624	Africa/Dar_es_Salaam	2016-07-28
+150005	Shinyanga Urban	Shinyanga Urban	Shinyanga Urban	-3.66667	33.5	A	ADM2	TZ		15	1701			0		1155	Africa/Dar_es_Salaam	2016-07-24
+150095	Serengeti	Serengeti	Serengeti,Serengeti District,Serengeti District Council	-1.98342	34.71762	A	ADM2	TZ		08	2002			0		1385	Africa/Dar_es_Salaam	2016-07-24
+150102	Sengerema	Sengerema	Sengerema,Sengerema District,Sengerema District Council	-2.47991	32.48657	A	ADM2	TZ		12	1905			0		1143	Africa/Dar_es_Salaam	2016-07-24
+150275	Same	Same	Pare District,Same,Same District,Same District Council	-4.22199	37.88278	A	ADM2	TZ		06	0303			0		1464	Africa/Dar_es_Salaam	2016-07-24
+150412	Rungwe	Rungwe	Rungwe,Rungwe District,Rungwe District Council	-9.2355	33.69034	A	ADM2	TZ		09	1204			0		1306	Africa/Dar_es_Salaam	2016-07-24
+150487	Rufiji	Rufiji	Rufiji,Rufiji District,Rufiji District Council	-7.95743	38.72662	A	ADM2	TZ		02	0605			0		31	Africa/Dar_es_Salaam	2016-07-24
+150555	Rombo District	Rombo District	Rombo	-3.105	37.544	A	ADM2	TZ		06	0301			0		2347	Africa/Dar_es_Salaam	2016-07-24
+150788	Pangani	Pangani	Pangani,Pangani District,Pangani District Council	-5.59686	38.82202	A	ADM2	TZ		18	0405			0		68	Africa/Dar_es_Salaam	2016-07-24
+150929	Nzega	Nzega	Nzega,Nzega District,Nzega District Council	-4.33859	33.04794	A	ADM2	TZ		17	1401			0		1202	Africa/Dar_es_Salaam	2016-07-24
+151459	Nkasi	Nkasi	Nkansi District,Nkasi,Nkasi District Council	-7.58333	31	A	ADM2	TZ		24	1503			0		1573	Africa/Dar_es_Salaam	2016-07-24
+151477	Njombe District Council	Njombe District Council	Njombe,Njombe District,Njombe District Council,Njombe Rural	-9.20909	35.13254	A	ADM2	TZ		30	2204			0		1505	Africa/Dar_es_Salaam	2016-07-24
+151607	Ngorongoro	Ngorongoro	Ngorongoro,Ngorongoro District,Ngorongoro District Council	-2.68832	35.53659	A	ADM2	TZ		26	0205			0		1711	Africa/Dar_es_Salaam	2016-07-24
+151710	Ngara	Ngara	Ngara,Ngara District,Ngara District Council	-2.64363	30.66136	A	ADM2	TZ		19	1805			0		1378	Africa/Dar_es_Salaam	2016-07-24
+152262	Mwanga	Mwanga	Mwanga,Mwanga District,Mwanga District Council	-3.7035	37.62296	A	ADM2	TZ		06	0302			0		1625	Africa/Dar_es_Salaam	2016-07-24
+152450	Musoma	Musoma	Musoma,Musoma District,Musoma District Council	-1.84608	33.58961	A	ADM2	TZ		08	2003			0		1182	Africa/Dar_es_Salaam	2016-07-24
+152569	Muleba	Muleba	Muleba,Muleba District,Muleba District Council	-1.85664	31.54392	A	ADM2	TZ		19	1803			0		1586	Africa/Dar_es_Salaam	2016-07-24
+152629	Muheza District	Muheza District	Distretto di Muheza,Muheza,Muheza District,Periochi Moucheza,Wilaya ya Muheza,Περιοχή Μουχέζα	-5.17301	38.79547	A	ADM2	TZ		18	0403			0		191	Africa/Dar_es_Salaam	2016-07-28
+152698	Mufindi	Mufindi	Mufindi,Mufindi District,Mufindi District Council	-8.59529	35.2082	A	ADM2	TZ		04	1102			0		1984	Africa/Dar_es_Salaam	2016-07-24
+153093	Mpwapwa	Mpwapwa	Mpwapwa,Mpwapwa District,Mpwapwa District Council	-6.68257	36.32145	A	ADM2	TZ		03	0102			0		1976	Africa/Dar_es_Salaam	2016-07-24
+153173	Mpanda	Mpanda	Mpanda,Mpanda District,Mpanda District Council,Mpanda Rural	-6.02603	30.58347	A	ADM2	TZ		29	2302			0		1856	Africa/Dar_es_Salaam	2016-07-24
+153216	Morogoro Urban	Morogoro Urban		-6.81667	37.66667	A	ADM2	TZ		10	0505			0		497	Africa/Dar_es_Salaam	2016-07-24
+153246	Monduli District	Monduli District	Monduli	-3.27215	36.42517	A	ADM2	TZ		26	0201			0		1781	Africa/Dar_es_Salaam	2016-07-27
+153597	Mkoani District	Mkoani District	Mkoani	-5.373	39.718	A	ADM2	TZ		20	5502			0		29	Africa/Dar_es_Salaam	2016-07-24
+154311	Mbulu	Mbulu	Mbulu,Mbulu District,Mbulu District Council	-3.95027	35.311	A	ADM2	TZ		27	2103			0		1896	Africa/Dar_es_Salaam	2016-07-24
+154331	Mbozi	Mbozi	Mbozi,Mbozi District,Mbozi District Council	-8.94565	32.92613	A	ADM2	TZ		32	1206			0		1566	Africa/Dar_es_Salaam	2018-09-08
+154379	Mbeya	Mbeya	Mbeya,Mbeya District,Mbeya District Council,Mbeya Rural	-8.96167	33.35659	A	ADM2	TZ		09	1202			0		1460	Africa/Dar_es_Salaam	2016-07-24
+154646	Maswa District	Maswa District	Distretto di Maswa,Maswa,Maswa District,Periochi Masoua,Περιοχή Μάσουα	-3.2	33.786	A	ADM2	TZ		31	2404			0		1333	Africa/Dar_es_Salaam	2016-07-24
+154836	Manyoni	Manyoni	Manyoni,Manyoni District,Manyoni District Council	-6.31077	34.53677	A	ADM2	TZ		16	1303			0		1267	Africa/Dar_es_Salaam	2016-07-24
+155165	Makete	Makete	Makete,Makete District,Makete District Council	-9.23517	34.14219	A	ADM2	TZ		30	2203			0		2516	Africa/Dar_es_Salaam	2016-07-24
+155313	Magu	Magu	Magu,Magu District,Magu District Council	-2.59381	33.40249	A	ADM2	TZ		12	1902			0		1158	Africa/Dar_es_Salaam	2016-07-24
+155411	Mafia	Mafia	Mafia,Mafia District,Mafia District Council	-7.85542	39.76776	A	ADM2	TZ		02	0606			0		18	Africa/Dar_es_Salaam	2016-07-24
+155568	Lushoto	Lushoto	Lushoto,Lushoto District,Lushoto District Council	-4.54528	38.43927	A	ADM2	TZ		18	0401			0		413	Africa/Dar_es_Salaam	2016-07-24
+155918	Liwale	Liwale	Liwale,Liwale District,Liwale District Council	-9.32739	37.91843	A	ADM2	TZ		07	0804			0		360	Africa/Dar_es_Salaam	2016-07-24
+156110	Kyela	Kyela	Kyela,Kyela District,Kyela District Council	-9.54693	33.86956	A	ADM2	TZ		09	1203			0		489	Africa/Dar_es_Salaam	2016-07-24
+156136	Kwimba District	Kwimba District	Distretto di Kwimba,Kwimba,Kwimba District,Periochi Kouimpa,Wilaya ya Kwimba,Περιοχή Κουΐμπα	-3.062	33.36	A	ADM2	TZ		12	1904			0		1232	Africa/Dar_es_Salaam	2016-07-24
+156478	Korogwe District	Korogwe District		-5.08274	38.41919	A	ADM2	TZ		18	0402			0		1303	Africa/Dar_es_Salaam	2016-07-24
+156509	Kondoa	Kondoa	Kondoa,Kondoa District,Kondoa District Council	-4.70931	35.86227	A	ADM2	TZ		03	0101			0		1398	Africa/Dar_es_Salaam	2016-07-24
+156512	Micheweni	Micheweni	Konde Area,Konde District,Micheweni,Micheweni District	-4.97135	39.77614	A	ADM2	TZ		13	5402			0		21	Africa/Dar_es_Salaam	2016-07-24
+156810	Kiteto	Kiteto	Kiteto,Kiteto District,Kiteto District Council,Masai District	-5.24047	36.69538	A	ADM2	TZ		27	2105			0		1238	Africa/Dar_es_Salaam	2016-07-24
+156995	Kisarawe	Kisarawe	Kisarawe,Kisarawe District,Kisarawe District Council,Uzaramo District	-7.14586	38.6952	A	ADM2	TZ		02	0603			0		192	Africa/Dar_es_Salaam	2016-07-24
+157253	Kinondoni	Kinondoni	Kinondoni,Kinondoni District,Kinondoni Municipal Council	-6.71666	39.14437	A	ADM2	TZ		23	0701			0		126	Africa/Dar_es_Salaam	2016-07-24
+157383	Kilwa	Kilwa	Kilwa,Kilwa District,Kilwa District Council	-9.03945	39.04456	A	ADM2	TZ		07	0801			0		165	Africa/Dar_es_Salaam	2016-07-24
+157402	Kilosa	Kilosa	Kilosa,Kilosa District,Kilosa District Council	-6.89673	36.97792	A	ADM2	TZ		10	0501			0		490	Africa/Dar_es_Salaam	2016-07-24
+157408	Kilombero	Kilombero	Kilombero,Kilombero District,Kilombero District Council	-8.24137	36.33492	A	ADM2	TZ		10	0503			0		270	Africa/Dar_es_Salaam	2016-07-24
+157958	Kibondo	Kibondo	Kibondo,Kibondo District,Kibondo District Council	-4.07833	31.0089	A	ADM2	TZ		05	1601			0		1194	Africa/Dar_es_Salaam	2016-07-24
+158213	Kasulu	Kasulu	Kasulu,Kasulu District,Kasulu District Council	-4.43917	30.43798	A	ADM2	TZ		05	1602			0		1286	Africa/Dar_es_Salaam	2016-07-24
+158337	Karagwe	Karagwe	Karagwe,Karagwe District,Karagwe District Council	-1.69053	31.04259	A	ADM2	TZ		19	1801			0		1347	Africa/Dar_es_Salaam	2016-07-24
+158596	Kahama Rural District	Kahama Rural District		-4.01633	32.3259	A	ADM2	TZ		15	1704			0		1180	Africa/Dar_es_Salaam	2016-07-27
+159070	Iringa Rural District	Iringa Rural District	Agrotiki Periochi Irin'nka,Distretto rurale di Iringa,Iringa,Iringa Rural,Iringa Rural District,Iringa Vijijini,Αγροτική Περιοχή Ιρίνγκα	-7.56399	34.88159	A	ADM2	TZ		04	1101			0		909	Africa/Dar_es_Salaam	2016-07-24
+159085	Iramba	Iramba	Iramba,Iramba District,Iramba District Council	-4.42115	34.30268	A	ADM2	TZ		16	1301			0		1369	Africa/Dar_es_Salaam	2016-07-24
+159221	Ileje	Ileje	Ileje,Ileje District,Ileje District Council	-9.41667	33.33333	A	ADM2	TZ		32	1205			0		1338	Africa/Dar_es_Salaam	2018-09-08
+159239	Ilala	Ilala	Ilala,Ilala District,Ilala Municipal Council	-6.91805	39.16254	A	ADM2	TZ		23	0702			0		51	Africa/Dar_es_Salaam	2016-07-24
+159384	Igunga	Igunga	Igunga,Igunga District,Igunga District Council	-4.3514	33.70371	A	ADM2	TZ		17	1402			0		1146	Africa/Dar_es_Salaam	2016-07-24
+159673	Handeni	Handeni	Handeni,Handeni District,Handeni District Council	-5.55032	38.34768	A	ADM2	TZ		18	0406			0		432	Africa/Dar_es_Salaam	2016-07-24
+159684	Hanang District	Hanang District		-4.5	35.25	A	ADM2	TZ		27	2102			0		1741	Africa/Dar_es_Salaam	2016-07-24
+159711	Hai	Hai	Hai,Hai District,Hai District Council	-3.2543	37.19123	A	ADM2	TZ		06	0305			0		1233	Africa/Dar_es_Salaam	2016-07-24
+159907	Geita	Geita	Geita,Geita District,Geita District Council	-2.80952	32.20976	A	ADM2	TZ		28	2501			0		1394	Africa/Dar_es_Salaam	2016-07-24
+160321	Chunya	Chunya	Chunya,Chunya District,Chunya District Council	-7.7678	33.16417	A	ADM2	TZ		09	1201			0		1537	Africa/Dar_es_Salaam	2016-07-24
+160675	Chake Chake District	Chake Chake District	Chake,Chake Chake,Chake Chake District,Chake Chake Mudiria	-5.24734	39.7739	A	ADM2	TZ		20	5501			0		28	Africa/Dar_es_Salaam	2016-07-24
+160891	Bunda	Bunda	Bunda,Bunda District,Bunda District Council	-2.01405	33.84536	A	ADM2	TZ		08	2004			0		1203	Africa/Dar_es_Salaam	2016-07-24
+160960	Bukoba	Bukoba	Bukoba,Bukoba District,Bukoba District Council,Bukoba Rural	-1.4157	31.64538	A	ADM2	TZ		19	1802			0		1166	Africa/Dar_es_Salaam	2016-07-24
+161153	Biharamulo District	Biharamulo District	Biharamulo District,Bilaramulo	-2.766	31.459	A	ADM2	TZ		19	1804			0		1322	Africa/Dar_es_Salaam	2016-07-24
+161217	Bariadi	Bariadi	Bariadi,Bariadi District,Bariadi District Council	-2.57538	34.26083	A	ADM2	TZ		31	2401			0		1338	Africa/Dar_es_Salaam	2016-07-24
+161288	Bagamoyo	Bagamoyo	Bagamoyo,Bagamoyo District,Bagamoyo District Council	-6.30757	38.46654	A	ADM2	TZ		02	0601			0		91	Africa/Dar_es_Salaam	2016-07-24
+161327	Meru	Meru	Aru Meru,Arumeru,Arumeru District,Meru	-3.305	36.801	A	ADM2	TZ		26	0202			500000		1908	Africa/Dar_es_Salaam	2016-07-31
+877377	Tunduru	Tunduru	Tunduru,Tunduru District,Tunduru District Council	-10.9519	37.30018	A	ADM2	TZ		14	1001			0		571	Africa/Dar_es_Salaam	2016-07-24
+877400	Songea	Songea	Songea,Songea District,Songea District Council,Songea Rural	-10.39061	35.40004	A	ADM2	TZ		14	1002			0		866	Africa/Dar_es_Salaam	2016-07-24
+877533	Newala	Newala	Newala,Newala District,Newala District Council	-10.72487	39.27979	A	ADM2	TZ		11	0902			0		597	Africa/Dar_es_Salaam	2016-07-24
+877701	Nachingwea	Nachingwea	Nachingwea,Nachingwea District,Nachingwea District Council	-10.40399	38.34422	A	ADM2	TZ		07	0803			0		418	Africa/Dar_es_Salaam	2016-07-24
+877745	Mtwara	Mtwara	Mikindani District,Mtwara,Mtwara District,Mtwara District Council,Mtwara Rural	-10.47941	39.98807	A	ADM2	TZ		11	0901			0		158	Africa/Dar_es_Salaam	2016-07-24
+877996	Mbinga	Mbinga	Mbinga,Mbinga District,Mbinga District Council	-10.75056	34.96912	A	ADM2	TZ		14	1003			0		1312	Africa/Dar_es_Salaam	2016-07-24
+878057	Masasi	Masasi	Masasi,Masasi District,Masasi District Council	-10.76162	38.9829	A	ADM2	TZ		11	0903			0		373	Africa/Dar_es_Salaam	2016-07-24
+878221	Ludewa	Ludewa	Ludewa,Ludewa District,Ludewa District Council	-10	34.75	A	ADM2	TZ		30	2205			0		1730	Africa/Dar_es_Salaam	2016-07-24
+878280	Lindi Urban	Lindi Urban		-9.97832	39.67163	A	ADM2	TZ		07	0806			0		70	Africa/Dar_es_Salaam	2016-07-28
+7628450	Chamwino	Chamwino		-6.11325	36.09558	A	ADM2	TZ		03	0104			0		965	Africa/Dar_es_Salaam	2016-07-27
+7628451	Bahi District	Bahi District	Bahi,Bahi District,Distretto di Bahi,Periochi Bachi,Wilaya ya Bahi,bai qun,wlayt bahy,Περιοχή Μπάχι,ولاية باهي,バイ群	-5.93792	35.28886	A	ADM2	TZ		03	0106			0		838	Africa/Dar_es_Salaam	2016-07-24
+7644867	Kishapu District	Kishapu District	Distretto di Kishapu,Kishapu,Kishapu District,Periochi Kisapou,Wilaya ya Kishapu,Περιοχή Κισάπου	-3.731	33.8	A	ADM2	TZ		15	1702			0		1107	Africa/Dar_es_Salaam	2016-07-24
+7646313	Kigoma Rural	Kigoma Rural		-4.75299	29.68918	A	ADM2	TZ		05	1603			0		1005	Africa/Dar_es_Salaam	2016-07-28
+7646376	Meatu	Meatu		-3.425	34.52	A	ADM2	TZ		31	2403			0		1347	Africa/Dar_es_Salaam	2016-07-24
+7647446	Misungwi district	Misungwi district		-2.85	33.08333	A	ADM2	TZ		12	1907			0		1178	Africa/Dar_es_Salaam	2016-07-24
+7647452	Kilolo District	Kilolo District	Distretto di Kilolo,Kilolo,Kilolo District,Periochi Kilolo,Wilaya ya Kilolo,Περιοχή Κιλόλο	-8	35.85	A	ADM2	TZ		04	1104			0		1901	Africa/Dar_es_Salaam	2016-07-24
+7647455	Uyui District	Uyui District		-5.06906	33.34351	A	ADM2	TZ		17	1403			0		1224	Africa/Dar_es_Salaam	2016-07-28
+7647511	Mbarali district	Mbarali district	Distretto di Mbarali,Mbarali,Mbarali District,Mbarali district,Periochi Barali,Περιοχή Μπαράλι	-8.59188	34.13452	A	ADM2	TZ		09	1207			0		1030	Africa/Dar_es_Salaam	2016-07-29
+7647520	Kibaha District	Kibaha District	Kibaha,Kibaha District,Periochi Kimpacha,Wilaya ya Kibaha,wlayt kybaha,Περιοχή Κιμπάχα,ولاية كيباها	-6.82281	38.61282	A	ADM2	TZ		02	0602			0		32	Africa/Dar_es_Salaam	2016-07-28
+7647659	Kongwa	Kongwa		-6.2	36.417	A	ADM2	TZ		03	0103			0		1023	Africa/Dar_es_Salaam	2016-07-24
+7647661	Arusha District	Arusha District	Arusha	-3.46956	36.77399	A	ADM2	TZ		26	0206			0		1070	Africa/Dar_es_Salaam	2016-07-28
+7647662	Babati District	Babati District	Babati	-4.19577	35.87585	A	ADM2	TZ		27	2101			0		1270	Africa/Dar_es_Salaam	2016-08-01
+7647663	Simanjiro	Simanjiro		-3.86667	36.6	A	ADM2	TZ		27	2104			0		1388	Africa/Dar_es_Salaam	2016-07-24
+7647665	Lindi Rural	Lindi Rural		-9.68333	39.55	A	ADM2	TZ		07	0802			0		167	Africa/Dar_es_Salaam	2016-07-24
+7647667	Ruangwa	Ruangwa		-10.06667	38.93333	A	ADM2	TZ		07	0805			0		348	Africa/Dar_es_Salaam	2016-07-24
+7647668	Morogoro Rural	Morogoro Rural		-6.75	38.11667	A	ADM2	TZ		10	0502			0		196	Africa/Dar_es_Salaam	2016-07-24
+7647669	Shinyanga Rural	Shinyanga Rural	Agrotiki Periochi Sinyan'nka,Distretto rurale di Shinyanga,Shinyanga,Shinyanga Rural,Shinyanga Rural District,Wilaya ya Shinyanga Vijijini,Αγροτική Περιοχή Σινυάνγκα	-3.642	33.105	A	ADM2	TZ		15	1703			0		1208	Africa/Dar_es_Salaam	2016-07-24
+7648510	Namtumbo	Namtumbo		-10.46642	36.13009	A	ADM2	TZ		14	1005			0		861	Africa/Dar_es_Salaam	2016-07-24
+7731037	Iringa Urban District	Iringa Urban District	Astiki Periochi Irin'nka,Distretto urbano di Iringa,Iringa,Iringa Mjini,Iringa Urban,Iringa Urban District,Αστική Περιοχή Ιρίνγκα	-7.77	35.69	A	ADM2	TZ		04	1103			0		1591	Africa/Dar_es_Salaam	2016-07-24
+7731058	Dodoma Urban District	Dodoma Urban District		-6.15973	35.798	A	ADM2	TZ		03	0105			0		1097	Africa/Dar_es_Salaam	2016-07-24
+7731078	Singida Urban District	Singida Urban District	Astiki Periochi Sin'nkinta,Singida District,Singida Urban District,wlayt synghyda alhdryt,xin ji da,Αστική Περιοχή Σινγκίντα,ولاية سينغيدا الحضرية,辛吉達	-4.84	34.71	A	ADM2	TZ		16	1304			0		1483	Africa/Dar_es_Salaam	2016-07-24
+7840035	Moshi Rural District	Moshi Rural District	Moshi,Moshi Rural	-3.362	37.459	A	ADM2	TZ		06	0304			0		1035	Africa/Dar_es_Salaam	2016-07-24
+7840038	Mkuranga	Mkuranga		-7.27	39.2	A	ADM2	TZ		02	0604			187428		88	Africa/Dar_es_Salaam	2016-07-24
+7840051	Ilemela District	Ilemela District	Distretto di Ilemela,Ilemela,Ilemela District,Periochi Ilemela,Wilaya ya Ilemela,Περιοχή Ιλεμέλα	-2.44783	33.03177	A	ADM2	TZ		12	1906			265911		1261	Africa/Dar_es_Salaam	2016-07-24
+8299555	Moshi Urban District	Moshi Urban District	Moshi,Moshi Urban	-3.352	37.341	A	ADM2	TZ		06	0306			0		838	Africa/Dar_es_Salaam	2012-05-29
+8299600	Bukombe District	Bukombe District	Bukombe,Bukombe District,Distretto di Bukombe,Wilaya ya Bukombe,district de Bukombe,wlayt bykwmby,ولاية بيكومبي	-3.573	31.686	A	ADM2	TZ		28	2504			0		1145	Africa/Dar_es_Salaam	2016-07-24
+8659171	Mvomero District	Mvomero District	Distretto di Mvomero,Mvomero,Mvomero District,Periochi Mvomero,wlayt amfwkyrw,Περιοχή Μβομέρο,ولاية امفوكيرو	-6.3	37.45	A	ADM2	TZ		10	0506			260525		410	Africa/Dar_es_Salaam	2016-07-24
+8693317	Longido District	Longido District		-2.73173	36.69511	A	ADM2	TZ		26	0207			0		1344	Africa/Dar_es_Salaam	2016-07-24
+9072685	Nanyumbu District	Nanyumbu District		-11.06667	38.32975	A	ADM2	TZ		11	0906			0		264	Africa/Dar_es_Salaam	2016-07-24
+9072686	Sikonge District	Sikonge District	Distretto di Sikonge,Periochi Sikon'nke,Sikonge,Sikonge District,Wilaya ya Sikonge,wlayt sykwnj,Περιοχή Σικόνγκε,ولاية سيكونج	-5.63333	32.76667	A	ADM2	TZ		17	1405			0		1177	Africa/Dar_es_Salaam	2016-07-24
+9072687	Karatu District	Karatu District		-3.33333	35.66667	A	ADM2	TZ		26	0204			0		1541	Africa/Dar_es_Salaam	2026-03-24
+9072688	Kilindi District	Kilindi District		-5.56667	37.56667	A	ADM2	TZ		18	0407			0		790	Africa/Dar_es_Salaam	2016-07-24
+9072692	Tandahimba	Tandahimba		-10.76232	39.63077	A	ADM2	TZ		11	0904			0		292	Africa/Dar_es_Salaam	2016-07-24
+9072694	Nyamagana District	Nyamagana District	Distretto di Nyamagana,Nyamagana,Nyamagana District,Periochi Nyamankana,Wilaya ya Nyamagana,Περιοχή Νυαμαγκάνα	-2.52533	32.88993	A	ADM2	TZ		12	1903			0		1199	Africa/Dar_es_Salaam	2016-07-24
+9072755	Chato District	Chato District	Chato,Chato District,Chato-distriktet,Chatodistriktet,Distretto di Chato,Districte de Chato,Wilaya ya Chato,chato,district de Chato,wlayt shatw,Чато,ноҳияи Чато,ولاية شاتو,チャト	-2.63333	31.76667	A	ADM2	TZ		28	2505			0		1145	Africa/Dar_es_Salaam	2016-07-24
+9166007	Sumbawanga Urban	Sumbawanga Urban		-7.96667	31.61667	A	ADM2	TZ		24	1504			0		1833	Africa/Dar_es_Salaam	2016-07-24
+9258474	Uvinza District	Uvinza District		-5.09795	30.37548	A	ADM2	TZ		05	1605			0		980	Africa/Dar_es_Salaam	2016-07-24
+9258493	Kakonko District	Kakonko District	Distretto di Kakonko,Kakonko,Kakonko District,Periochi Kakon'ko,Wilaya ya Kakonko,Περιοχή Κακόνκο	-3.27694	30.949	A	ADM2	TZ		05	1607			0		1349	Africa/Dar_es_Salaam	2016-07-24
+9998003	Arusha City	Arusha City	Arusha City,Arusha City Council,Arusha Urban	-3.44111	36.67803	A	ADM2	TZ		26	0203			0		1282	Africa/Dar_es_Salaam	2016-07-24
+9998004	Chemba	Chemba	Chemba,Chemba District Council	-5.33774	35.69138	A	ADM2	TZ		03	0107			0		1120	Africa/Dar_es_Salaam	2016-07-24
+9998062	Mbogwe	Mbogwe	Mbogwe,Mbogwe District Council	-3.45926	32.22535	A	ADM2	TZ		28	2503			0		1177	Africa/Dar_es_Salaam	2016-07-24
+9998063	Nyang’hwale	Nyang'hwale	Nyang'hwale,Nyang'hwale District Council,Nyang'wale,Nyang’hwale,Nyang’hwale District Council,Nyang’wale	-3.13751	32.63251	A	ADM2	TZ		28	2502			0		1154	Africa/Dar_es_Salaam	2016-07-24
+9998068	Mafinga Town Council	Mafinga Town Council	Mafinga,Mafinga District,Mafinga Town Council,Mafinga Township Authority	-8.35287	35.22356	A	ADM2	TZ		04	1105			0		1926	Africa/Dar_es_Salaam	2016-07-24
+9998074	Bukoba Municipal	Bukoba Municipal	Bukoba Municipal,Bukoba Municipal Council,Bukoba Urban	-1.32076	31.80428	A	ADM2	TZ		19	1806			0		1157	Africa/Dar_es_Salaam	2016-07-24
+9998075	Kyerwa	Kyerwa	Kyerwa,Kyerwa District Council	-1.26036	30.79555	A	ADM2	TZ		19	1808			0		1317	Africa/Dar_es_Salaam	2016-07-24
+9998076	Missenyi	Missenyi	Missenyi,Missenyi District Council	-1.13218	31.43796	A	ADM2	TZ		19	1807			0		1162	Africa/Dar_es_Salaam	2016-07-24
+9998077	Mlele	Mlele	Mlele,Mlele District Council	-6.59031	31.76462	A	ADM2	TZ		29	2303			0		1215	Africa/Dar_es_Salaam	2016-07-24
+9998078	Mpanda Town	Mpanda Town	Mpanda Town,Mpanda Town Council,Mpanda Urban	-6.40293	30.98537	A	ADM2	TZ		29	2301			0		1057	Africa/Dar_es_Salaam	2016-07-24
+9998113	Buhigwe	Buhigwe	Buhigwe,Buhigwe District Council	-4.45088	29.91369	A	ADM2	TZ		05	1606			0		1447	Africa/Dar_es_Salaam	2016-07-24
+9998114	Kasulu Town	Kasulu Town	Kasulu Town,Kasulu Town Council,Kasulu Township Authority	-4.55979	30.09646	A	ADM2	TZ		05	1608			0		1325	Africa/Dar_es_Salaam	2016-07-24
+9998117	Kigoma Ujiji Municipal	Kigoma Ujiji Municipal	Kigoma Municipal-Ujiji,Kigoma Ujiji Municipal,Kigoma Ujiji Municipal Council	-4.88905	29.6623	A	ADM2	TZ		05	1604			0		829	Africa/Dar_es_Salaam	2016-07-24
+9998121	Siha	Siha	Siha,Siha District Council	-3.07066	37.06193	A	ADM2	TZ		06	0307			0		1476	Africa/Dar_es_Salaam	2016-07-24
+9998132	Babati Town	Babati Town	Babati Town,Babati Town Council,Babati Urban	-4.19453	35.74529	A	ADM2	TZ		27	2106			0		1311	Africa/Dar_es_Salaam	2016-07-24
+9998136	Butiama	Butiama	Butiama,Butiama District Council	-1.68396	33.96374	A	ADM2	TZ		08	2007			0		1473	Africa/Dar_es_Salaam	2016-07-24
+9998138	Musoma Municipal	Musoma Municipal	Musoma Municipal,Musoma Municipal Council	-1.52007	33.79722	A	ADM2	TZ		08	2005			0		1180	Africa/Dar_es_Salaam	2016-07-24
+9998141	Rorya	Rorya	Rorya,Rorya District Council	-1.28912	34.07161	A	ADM2	TZ		08	2006			0		1243	Africa/Dar_es_Salaam	2016-07-24
+9998150	Mbeya City	Mbeya City	Mbeya City,Mbeya City Council,Mbeya Urban	-8.89359	33.47617	A	ADM2	TZ		09	1208			0		1784	Africa/Dar_es_Salaam	2016-07-24
+9998151	Momba	Momba	Momba,Momba District Council	-8.8118	32.36323	A	ADM2	TZ		32	1209			0		1381	Africa/Dar_es_Salaam	2018-09-08
+9998152	Tunduma	Tunduma	Tunduma,Tunduma Town Council	-9.29887	32.7989	A	ADM2	TZ		32	1210			0		1482	Africa/Dar_es_Salaam	2018-09-08
+9998153	Gairo	Gairo	Gairo,Gairo District Council	-6.13841	36.88079	A	ADM2	TZ		10	0507			0		1293	Africa/Dar_es_Salaam	2016-07-24
+9998154	Masasi Town	Masasi Town	Masasi Town,Masasi Town Council,Masasi Township Authority	-10.7218	38.85011	A	ADM2	TZ		11	0907			0		376	Africa/Dar_es_Salaam	2016-07-24
+9998174	Makambako Town	Makambako Town	Makambako Town,Makambako Town Council,Makambako Township Authority	-8.87081	34.90651	A	ADM2	TZ		30	2206			0		1610	Africa/Dar_es_Salaam	2016-07-24
+9998175	Njombe Town	Njombe Town	Njombe Town,Njombe Town Council,Njombe Urban	-9.47896	34.84103	A	ADM2	TZ		30	2201			0		1919	Africa/Dar_es_Salaam	2016-07-24
+9998176	Wanging’ombe	Wanging'ombe	Wanging'ombe,Wanging'ombe District Council,Wanging’ombe,Wanging’ombe District Council	-9.02054	34.54852	A	ADM2	TZ		30	2202			0		1639	Africa/Dar_es_Salaam	2016-08-04
+9998177	Kibaha Town	Kibaha Town	Kibaha Town,Kibaha Town Council,Kibaha Urban	-6.69111	38.90605	A	ADM2	TZ		02	0607			0		111	Africa/Dar_es_Salaam	2016-07-24
+9998179	Kalambo	Kalambo	Kalambo,Kalambo District Council	-8.54028	31.57305	A	ADM2	TZ		24	1501			0		1870	Africa/Dar_es_Salaam	2016-07-24
+9998181	Nyasa	Nyasa	Nyasa,Nyasa District Council	-11.15743	34.76578	A	ADM2	TZ		14	1006			0		576	Africa/Dar_es_Salaam	2016-07-24
+9998183	Songea Municipal	Songea Municipal	Songea Municipal,Songea Municipal Council,Songea Urban	-10.65701	35.62045	A	ADM2	TZ		14	1004			0		1061	Africa/Dar_es_Salaam	2016-07-24
+9998184	Kahama Town	Kahama Town	Kahama Town,Kahama Town Council,Kahama Township Authority	-3.832	32.61016	A	ADM2	TZ		15	1705			0		1240	Africa/Dar_es_Salaam	2016-07-27
+9998185	Busega	Busega	Busega,Busega District Council	-2.39125	33.76995	A	ADM2	TZ		31	2405			0		1308	Africa/Dar_es_Salaam	2016-07-24
+9998187	Itilima	Itilima	Itilima,Itilima District Council	-2.82147	34.39529	A	ADM2	TZ		31	2402			0		1478	Africa/Dar_es_Salaam	2016-07-24
+9998225	Ikungi	Ikungi	Ikungi,Ikungi District Council	-5.14251	34.57999	A	ADM2	TZ		16	1305			0		1451	Africa/Dar_es_Salaam	2016-07-24
+9998226	Mkalama	Mkalama	Mkalama,Mkalama District Council	-4.21368	34.71672	A	ADM2	TZ		16	1306			0		1505	Africa/Dar_es_Salaam	2016-07-24
+9998228	Kaliua	Kaliua	Kaliua,Kaliua District Council	-4.90756	31.66403	A	ADM2	TZ		17	1407			0		1119	Africa/Dar_es_Salaam	2016-07-24
+9998230	Handeni Town	Handeni Town	Handeni Town,Handeni Town Council,Handeni Township Authority	-5.4991	37.99056	A	ADM2	TZ		18	0410			0		597	Africa/Dar_es_Salaam	2016-07-24
+9998232	Korogwe Town	Korogwe Town	Korogwe Town,Korogwe Town Council,Korogwe Township Authority	-5.15271	38.47717	A	ADM2	TZ		18	0409			0		293	Africa/Dar_es_Salaam	2016-07-24
+9998233	Mkinga	Mkinga	Mkinga,Mkinga District Council	-4.73507	38.93438	A	ADM2	TZ		18	0408			0		175	Africa/Dar_es_Salaam	2016-07-24
+11204824	Kati	Kati		-6.15967	39.36401	A	ADM2	TZ		21	5201			0		27	Africa/Dar_es_Salaam	2016-07-27
+11204825	Magharibi	Magharibi		-6.16513	39.24728	A	ADM2	TZ		25	5301			0		37	Africa/Dar_es_Salaam	2016-07-31
+11204826	Kaskazini A	Kaskazini A		-5.86604	39.31595	A	ADM2	TZ		22	5101			0		32	Africa/Dar_es_Salaam	2016-07-27
+11204828	Kaskazini B	Kaskazini B		-5.95483	39.24316	A	ADM2	TZ		22	5102			0		37	Africa/Dar_es_Salaam	2016-07-27
+11204829	Kusini	Kusini		-6.33714	39.50684	A	ADM2	TZ		21	5202			0		17	Africa/Dar_es_Salaam	2016-07-27
+11204830	Mjini	Mjini	Zanzibar City,Zanzibar Urban District	-6.16564	39.20351	A	ADM2	TZ		25	5302			0		10	Africa/Dar_es_Salaam	2016-07-31
+11204831	Mtwara Urban	Mtwara Urban		-10.2933	40.16602	A	ADM2	TZ		11	0905			0		17	Africa/Dar_es_Salaam	2016-07-27
+11951161	Songwe District	Songwe District		-7.69704	32.68426	A	ADM2	TZ		32	6001			0		1281	Africa/Dar_es_Salaam	2018-09-08

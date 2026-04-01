@@ -1,0 +1,785 @@
+﻿7644922	Ikorodu	Ikorodu		6.62641	3.55167	A	ADM2	NG		05	25012			0		34	Africa/Lagos	2015-03-17
+7701336	Aba North	Aba North	Aba Nord,Aba North,Aba ta Arewa,Agbegbe Ijoba Ibile Ariwa Aba,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Aba,Pak Aba,Pivnichna Aba,aba shmal,Північна Аба,آبا شمال	5.09386	7.39479	A	ADM2	NG		45	1001			0		25	Africa/Lagos	2016-06-23
+7701374	Aba South	Aba South	Aba South,Aba Sud,Aba Sur,Aba ta Kudu,Aba-Saut,Agbegbe Ijoba Ibile Guusu Aba,Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Aba,Lam Aba,Lâm Aba,Pivdenna Aba,aba jnwb,Аба-Саут,Південна Аба,آبا جنوب	5.1	7.35	A	ADM2	NG		45	1002			0		55	Africa/Lagos	2014-09-03
+7701376	Ikwuano	Ikwuano	Agbegbe Ijoba Ibile Ikwuano,Agbègbè Ìjọba Ìbílẹ̀ Ikwuano,Ikvano,Ikvuano,Ikwuano,Іквано,Иквуано	5.43333	7.56667	A	ADM2	NG		45	1005			0		122	Africa/Lagos	2014-09-03
+7701380	Ukwa East	Ukwa East	Agbegbe Ijoba Ibile Ilaorun Ukwa,Agbègbè Ìjọba Ìbílẹ̀ Ìlaòrùn Ukwa,Skhidna Ukva,Tang Ukwa,Ukva-Ist,Ukwa East,Ukwa Est,Ukwa ta Gabas,Східна Уква,Уква-Ист	4.9	7.36667	A	ADM2	NG		45	1013			0		23	Africa/Lagos	2015-03-13
+7701381	Esit Eket	Esit Eket	Agbegbe Ijoba Ibile Esit Eket,Agbègbè Ìjọba Ìbílẹ̀ Esit Eket,Esit Eket,Esit-Eket	4.63086	8.07058	A	ADM2	NG		21	3004			0		15	Africa/Lagos	2014-09-03
+7701382	Mkpat Enin	Mkpat Enin		4.73361	7.74861	A	ADM2	NG		21	3018			0		36	Africa/Lagos	2014-09-03
+7701383	Oruk Anam	Oruk Anam	Agbegbe Ijoba Ibile Oruk-Anam,Agbègbè Ìjọba Ìbílẹ̀ Oruk-Anam,Oruk Anam	4.9	7.71667	A	ADM2	NG		21	3026			0		61	Africa/Lagos	2014-09-03
+7701409	Anambra East	Anambra East	Agbegbe Ijoba Ibile Ilaorun Anambra,Agbègbè Ìjọba Ìbílẹ̀ Ìlàòrùn Anámbra,Anambra East,Anambra Est,Anambra ta Gabas,Anambra-Leste,Tang Anambra,anmbas shrqy,انمباس شرقی	6.26667	6.81667	A	ADM2	NG		25	4002			0		95	Africa/Lagos	2015-03-12
+7701411	Anaocha	Anaocha	Agbegbe Ijoba Ibile Anaocha,Agbègbè Ìjọba Ìbílẹ̀ Anaocha,Anaocha,Anaọcha,anaywcha,انائوچا	6.06824	6.9963	A	ADM2	NG		25	4004			0		284	Africa/Lagos	2015-03-12
+7701412	Awka North	Awka North		6.33333	7	A	ADM2	NG		25	4005			0		90	Africa/Lagos	2015-03-12
+7701413	Awka South	Awka South	Agbegbe Ijoba Ibile Guusu Awka,Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Awka,Awka South,Awka Sud,Awka ta Kudu,Lam Awka,Lâm Awka,Ndida Awka	6.20694	7.06778	A	ADM2	NG		25	4006			0		95	Africa/Lagos	2014-09-03
+7701428	Tofa	Tofa		12.05	8.26667	A	ADM2	NG		29	20015			0		503	Africa/Lagos	2014-09-03
+7701431	Okene	Okene		7.48333	6.21667	A	ADM2	NG		41	23017			0		296	Africa/Lagos	2015-03-17
+7701432	Katcha	Katcha		9.15	6.23333	A	ADM2	NG		31	27010			0		126	Africa/Lagos	2014-09-03
+7701433	Magama	Magama		10.46667	5.05	A	ADM2	NG		31	27014			0		303	Africa/Lagos	2014-09-03
+7701434	Mokwa	Mokwa	Agbegbe Ijoba Ibile Mokwa,Agbègbè Ìjọba Ìbílẹ̀ Mokwa,Mokwa,mo kua,莫夸	9.2	5.33333	A	ADM2	NG		31	27017			0		146	Africa/Lagos	2014-09-03
+7701464	Rafi	Rafi		10.18444	6.25333	A	ADM2	NG		31	27020			0		286	Africa/Lagos	2014-09-03
+7701466	Ede North	Ede North	Agbegbe Ijoba Ibile Ariwa Ede,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Ede,Ede Nord,Ede North,Ede ta Arewa,Ndi North,Pak Ede	7.7069	4.50922	A	ADM2	NG		42	30007			0		337	Africa/Lagos	2014-09-03
+7701468	Egbedore	Egbedore	Agbegbe Ijoba Ibile Egbedore,Agbègbè Ìjọba Ìbílẹ̀ Egbedore,Egbedore,Егбедоре	7.81667	4.43333	A	ADM2	NG		42	30009			0		329	Africa/Lagos	2014-09-03
+7701469	Ife Central	Ife Central	Agbegbe Ijoba Ibile Gbongan Ife,Agbègbè Ìjọba Ìbílẹ̀ Gbọ̀ngàn Ife,Ife Central,Ife ta Tsakiya	7.47442	4.55933	A	ADM2	NG		42	30011			0		292	Africa/Lagos	2014-09-06
+7701471	Ife East	Ife East	Agbegbe Ijoba Ibile Ilaorun Ife,Agbègbè Ìjọba Ìbílẹ̀ Ìlàòrùn Ife,Ife East,Ife Est,Ife ta Gabas,Tang Ife	7.36534	4.60147	A	ADM2	NG		42	30012			0		231	Africa/Lagos	2014-09-03
+7701472	Ife South	Ife South	Agbegbe Ijoba Ibile Guusu Ife,Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Ife,Ife South,Ife SouthLGA,Ife Sud,Ife ta Kudu,Lam Ife,Lâm Ife	7.2	4.6	A	ADM2	NG		42	30014			0		250	Africa/Lagos	2014-09-03
+7701474	Ifelodun	Ifelodun		7.91667	4.66667	A	ADM2	NG		42	30016			0		387	Africa/Lagos	2014-09-03
+7701475	Ila	Ila		8.01667	4.9	A	ADM2	NG		42	30017			0		496	Africa/Lagos	2014-09-03
+7701476	Irepodun	Irepodun		7.83333	4.48333	A	ADM2	NG		42	30020			0		327	Africa/Lagos	2015-03-17
+7701477	Irewole	Irewole	Agbegbe Ijoba Ibile Irewole,Agbègbè Ìjọba Ìbílẹ̀ Irewole,Irewole	7.41667	4.21667	A	ADM2	NG		42	30021			0		222	Africa/Lagos	2014-09-03
+7701478	Isokan	Isokan	Agbegbe Ijoba Ibile Isokan,Agbègbè Ìjọba Ìbílẹ̀ Isokan,Isokan,Исокан	7.3	4.18333	A	ADM2	NG		42	30022			0		172	Africa/Lagos	2014-09-03
+7701479	Odo Otin	Odo Otin	Agbegbe Ijoba Ibile Odo Otin,Agbègbè Ìjọba Ìbílẹ̀ Odo Otin,Odo Otin,Odo-Otin	8.01667	4.7	A	ADM2	NG		42	30025			0		374	Africa/Lagos	2014-09-03
+7701480	Ola Oluwa	Ola Oluwa	Agbegbe Ijoba Ibile Ola Oluwa,Agbègbè Ìjọba Ìbílẹ̀ Ola Oluwa,Ola Oluwa,Ola-Oluwa	7.78333	4.21667	A	ADM2	NG		42	30026			0		309	Africa/Lagos	2015-03-17
+7701482	Olorunda	Olorunda	Agbegbe Ijoba Ibile Olorunda,Agbègbè Ìjọba Ìbílẹ̀ Olorunda,Olorunda,Олорунда	7.86667	4.58333	A	ADM2	NG		42	30027			0		394	Africa/Lagos	2014-09-03
+7701483	Oriade	Oriade	Agbegbe Ijoba Ibile Oriade,Agbègbè Ìjọba Ìbílẹ̀ Oriade,Oriade,Ориаде	7.58333	4.86667	A	ADM2	NG		42	30028			0		371	Africa/Lagos	2014-09-03
+7701486	Iwajowa	Iwajowa	Iwajowa,Ìwájọ̀wà	8	3.08333	A	ADM2	NG		32	31018			0		202	Africa/Lagos	2015-03-18
+7701488	Olorunsogo	Olorunsogo	Olorunsogo,Ọlọ́ruńsògo	8.75	4.13333	A	ADM2	NG		32	31024			0		366	Africa/Lagos	2015-03-18
+7701489	Oluyole	Oluyole	Oluyole,Olúyọ̀lé	7.23333	3.86667	A	ADM2	NG		32	31025			0		115	Africa/Lagos	2015-03-18
+7701491	Ona Ara	Ona Ara	Ona Ara,Ona-Ara,Ọ̀nà Àrà	7.28333	4.03333	A	ADM2	NG		32	31026			0		177	Africa/Lagos	2015-03-18
+7701492	Orelope	Orelope	Orelope,Orelópé	8.83333	3.75	A	ADM2	NG		32	31027			0		408	Africa/Lagos	2015-03-18
+7701495	Ahoada West	Ahoada West	Agbegbe Ijoba Ibile Iwoorun Ahoada,Agbègbè Ìjọba Ìbílẹ̀ Ìwọòrùn Ahoada,Ahoada Oeste,Ahoada Ouest,Ahoada West,Ahoada ta Yamma,Se Ahoada,ghrb ahwada,غرب اهوادا	5.0858	6.47089	A	ADM2	NG		50	33003			0		8	Africa/Lagos	2015-03-18
+7701497	Akuku Toru	Akuku Toru		4.56152	6.752	A	ADM2	NG		50	33004			0		5	Africa/Lagos	2015-03-18
+7701499	Andoni	Andoni		4.47272	7.38264	A	ADM2	NG		50	33005			0		16	Africa/Lagos	2014-09-26
+7701519	Etche	Etche	Agbegbe Ijoba Ibile Etche,Agbègbè Ìjọba Ìbílẹ̀ Etche,Etche,Etse,etxes,Έτσε,Етче	4.99083	7.05444	A	ADM2	NG		50	33011			0		26	Africa/Lagos	2014-09-03
+7701521	Ogba/Egbema/Ndoni	Ogba/Egbema/Ndoni		5.34167	6.65556	A	ADM2	NG		50	33016			0		19	Africa/Lagos	2014-09-03
+7701522	Omumma	Omumma		5.09072	7.23485	A	ADM2	NG		50	33019			0		57	Africa/Lagos	2015-03-18
+7701523	Oyigbo	Oyigbo	Agbegbe Ijoba Ibile Oyigbo,Agbègbè Ìjọba Ìbílẹ̀ Oyigbo,Obibo,Oginkmpo,Oijgbo,Oyigbo,ao yi ge bu,Ογίγκμπο,Оийгбо,奧伊格布	4.87806	7.12833	A	ADM2	NG		50	33021			0		22	Africa/Lagos	2014-09-03
+7701524	Tai	Tai		4.71667	7.3	A	ADM2	NG		50	33023			0		17	Africa/Lagos	2014-09-03
+7701525	Bodinga	Bodinga		12.88333	5.16667	A	ADM2	NG		51	602			0		304	Africa/Lagos	2015-03-18
+7701527	Sokoto North	Sokoto North		13.0656	5.26804	A	ADM2	NG		51	616			0		257	Africa/Lagos	2014-09-03
+7701528	Sokoto South	Sokoto South		13.04012	5.25937	A	ADM2	NG		51	617			0		304	Africa/Lagos	2016-06-23
+7701530	Anambra West	Anambra West	Agbegbe Ijoba Ibile Iwoorun Anambra,Agbègbè Ìjọba Ìbílẹ̀ Ìwọòrùn Anámbra,Anambra Ouest,Anambra West,Anambra ta Yamma,Anambra-Oeste,Se Anambra,anambra ghrby,انامبرا غربی	6.35931	6.74968	A	ADM2	NG		25	4003			0		27	Africa/Lagos	2015-03-12
+7701531	Idemili North	Idemili North	Agbegbe Ijoba Ibile Ariwa Idemili,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Idemili,Idemili Nord,Idemili North,Idemili ta Arewa,Idemịlị North,Pak Idemili	6.1285	6.93342	A	ADM2	NG		25	4010			0		197	Africa/Lagos	2015-03-12
+7701532	Idemili South	Idemili South	Agbegbe Ijoba Ibile Guusu Idemili,Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Idemili,Idemili South,Idemili Sud,Idemili ta Kudu,Idemịlị South,Lam Idemili,Lâm Idemili	6.04769	6.94992	A	ADM2	NG		25	4011			0		219	Africa/Lagos	2015-03-12
+7701533	Njikoka	Njikoka	Agbegbe Ijoba Ibile Njikoka,Agbègbè Ìjọba Ìbílẹ̀ Njikoka,Njikoka,Njikọka	6.1842	6.97655	A	ADM2	NG		25	4013			0		219	Africa/Lagos	2015-03-12
+7701534	Nnewi South	Nnewi South	Agbegbe Ijoba Ibile Guusu Nnewi,Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Nnewi,Lam Nnewi,Lâm Nnewi,Nnewi South,Nnewi Sud,Nnewi ta Kudu	5.93321	6.92306	A	ADM2	NG		25	4015			0		86	Africa/Lagos	2015-03-12
+7701535	Ogbaru	Ogbaru	Agbegbe Ijoba Ibile Ogbaru,Agbègbè Ìjọba Ìbílẹ̀ Ogbaru,Ogbaru	6.01577	6.74459	A	ADM2	NG		25	4016			0		23	Africa/Lagos	2015-03-12
+7701536	Orumba North	Orumba North	Agbegbe Ijoba Ibile Ariwa Orumba,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Orumba,Orumba Nord,Orumba North,Orumba ta Arewa,Pak Orumba	6.06667	7.08333	A	ADM2	NG		25	4019			0		207	Africa/Lagos	2015-03-12
+7701537	Orumba South	Orumba South		5.96667	7.21667	A	ADM2	NG		25	4020			0		139	Africa/Lagos	2015-03-12
+7701538	Oyi	Oyi	Agbegbe Ijoba Ibile Oyi,Agbègbè Ìjọba Ìbílẹ̀ Oyi,Oyi	6.1767	6.86187	A	ADM2	NG		25	4021			0		104	Africa/Lagos	2014-09-03
+7729904	Guma	Guma	Agbegbe Ijoba Ibile Guma,Agbègbè Ìjọba Ìbílẹ̀ Guma,Guma,guma,グマ	7.96667	8.76667	A	ADM2	NG		26	7006			0		149	Africa/Lagos	2015-03-14
+7729905	Gwer East	Gwer East	Agbegbe Ijoba Ibile Ilaorun Gwer,Agbègbè Ìjọba Ìbílẹ̀ Ìlàòrùn Gwer,Gwer East,Gwer Est,Gwer ta Gabas,Tang Gwer	7.3	8.48333	A	ADM2	NG		26	7007			0		166	Africa/Lagos	2015-03-14
+7729906	Logo	Logo	Agbegbe Ijoba Ibile Logo,Agbègbè Ìjọba Ìbílẹ̀ Logo,Logo	7.68922	9.25049	A	ADM2	NG		26	7012			0		149	Africa/Lagos	2015-03-14
+7729907	Ogbadibo	Ogbadibo	Agbegbe Ijoba Ibile Ogbadibo,Agbègbè Ìjọba Ìbílẹ̀ Ogbadibo,Ogbadibo	7.08921	7.64989	A	ADM2	NG		26	7015			0		415	Africa/Lagos	2015-03-14
+7729908	Vandeikya	Vandeikya	Agbegbe Ijoba Ibile Vandeikya,Agbègbè Ìjọba Ìbílẹ̀ Vandeikya,Vandeikya,fandykya,wndykya,فانديكيا,وندیکیا	6.82814	9.05904	A	ADM2	NG		26	7023			0		199	Africa/Lagos	2015-03-14
+7729909	Warawa	Warawa	Warawa	11.90808	8.77148	A	ADM2	NG		29	20019			0		431	Africa/Lagos	2016-06-23
+7729910	Kankia	Kankia	Agbegbe Ijoba Ibile Kankia,Agbègbè Ìjọba Ìbílẹ̀ Kankia,Kankia,Kankiya,Канкиа	12.46667	7.8	A	ADM2	NG		24	420			0		562	Africa/Lagos	2014-09-03
+7729911	Mai'Adua	Mai'Adua		13.19056	8.21167	A	ADM2	NG		24	424			0		478	Africa/Lagos	2014-09-03
+7729912	Sabuwa	Sabuwa	Agbegbe Ijoba Ibile Sabuwa,Agbègbè Ìjọba Ìbílẹ̀ Sabuwa,Sabuwa,sbwa,سبوا	11.3	7.11667	A	ADM2	NG		24	431			0		729	Africa/Lagos	2014-09-03
+7729915	Aniocha South	Aniocha South	Agbegbe Ijoba Ibile Guusu Aniocha,Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Aniocha,Aniocha South,Aniocha Sud,Aniocha ta Kudu,Lam Aniocha,Lâm Aniocha	6.12829	6.48334	A	ADM2	NG		36	10002			0		152	Africa/Lagos	2015-03-14
+7729917	Ethiope West	Ethiope West	Ethiope Ouest,Ethiope West,Ethiope ta Yamma,Se Ethiope,merku ettiyoppiyan,மேற்கு எத்தியோப்பியன்	5.91996	5.72939	A	ADM2	NG		36	10006			0		16	Africa/Lagos	2015-03-14
+7729918	Ethiope East	Ethiope East	Ethiope East,Ethiope Est,Ethiope ta Gabas,Ethiope-East,Tang Ethiope	5.68799	5.98414	A	ADM2	NG		36	10005			0		23	Africa/Lagos	2015-03-14
+7729919	Ika North East	Ika North East	Ika Nord Est,Ika North East,Ika ta Arewa maso Gabas,Pak Ika	6.22865	6.28963	A	ADM2	NG		36	10007			0		205	Africa/Lagos	2015-03-14
+7729921	Ika South	Ika South	Ika South,Ika Sud,Ika ta Kudu,Lam Ika,Lâm Ika	6.17084	6.12881	A	ADM2	NG		36	10008			0		112	Africa/Lagos	2015-03-14
+7729922	Isoko North	Isoko North	Isoco Setentrional,Isoko Nord,Isoko North,Isoko ta Arewa,Pak Isoko	5.52493	6.23414	A	ADM2	NG		36	10009			0		21	Africa/Lagos	2015-03-15
+7729923	Isoko South	Isoko South	Isoco Meridional,Isoko South,Isoko Sud,Isoko ta Kudu,Lam Isoko,Lâm Isoko	5.38209	6.21417	A	ADM2	NG		36	10010			0		10	Africa/Lagos	2015-03-15
+7729925	Ndokwa East	Ndokwa East	Ndokwa East,Ndokwa Est,Ndokwa ta Gabas,Tang Ndokwa	5.67029	6.50771	A	ADM2	NG		36	10011			0		20	Africa/Lagos	2015-03-14
+7729927	Ndokwa West	Ndokwa West	Ndokwa Ouest,Ndokwa West,Ndokwa ta Yamma,Se Ndokwa	5.77323	6.39223	A	ADM2	NG		36	10012			0		22	Africa/Lagos	2015-03-14
+7729931	Oshimili North	Oshimili North	Oshimili Nord,Oshimili North,Oshimili ta Arewa,Pak Oshimili	6.32273	6.64445	A	ADM2	NG		36	10014			0		127	Africa/Lagos	2015-03-14
+7729934	Oshimili South	Oshimili South	Lam Oshimili,Lâm Oshimili,Oshimili South,Oshimili Sud,Oshimili ta Kudu,nan ao xi mi li,南奥希米利	6.09213	6.68172	A	ADM2	NG		36	10015			0		22	Africa/Lagos	2015-03-14
+7729936	Udu	Udu	Udu	5.47222	5.82203	A	ADM2	NG		36	10018			0		16	Africa/Lagos	2015-03-14
+7729938	Ughelli North	Ughelli North	Pak Ughelli,Ughelli Nord,Ughelli North,Ughelli ta Arewa,Ughilli North	5.51122	6.04821	A	ADM2	NG		36	10019			0		13	Africa/Lagos	2015-03-14
+7729939	Ughelli South	Ughelli South	Lam Ughelli,Lâm Ughelli,Ughelli South,Ughelli Sud,Ughelli ta Kudu,Ughilli South	5.3435	5.95108	A	ADM2	NG		36	10020			0		16	Africa/Lagos	2015-03-14
+7729940	Ukwuani	Ukwuani	Ukwuani	5.84481	6.23741	A	ADM2	NG		36	10021			0		35	Africa/Lagos	2014-09-03
+7729942	Warri North	Warri North	Agbegbe Ijoba Ibile Ariwa Warri,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Warri,Pak Warri,Warri Nord,Warri North,Warri ta Arewa	5.88243	5.27687	A	ADM2	NG		36	10023			0		3	Africa/Lagos	2015-03-15
+7729943	Warri South	Warri South	Agbegbe Ijoba Ibile Guusu Warri,Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Warri,Lam Warri,Lâm Warri,Warri South,Warri Sud,Warri ta Kudu	5.61326	5.61063	A	ADM2	NG		36	10024			0		5	Africa/Lagos	2015-03-15
+7729945	Uvwie	Uvwie	Agbegbe Ijoba Ibile Uvwie,Agbègbè Ìjọba Ìbílẹ̀ Uvwie,Uvwie	5.57157	5.77602	A	ADM2	NG		36	10022			0		9	Africa/Lagos	2015-03-14
+7729946	Warri South-West	Warri South-West		5.49686	5.37418	A	ADM2	NG		36	10025			0		3	Africa/Lagos	2016-06-23
+7729947	Aboh-Mbaise	Aboh-Mbaise		5.42549	7.2518	A	ADM2	NG		28	17001			0		120	Africa/Lagos	2014-09-03
+7729948	Ahiazu-Mbaise	Ahiazu-Mbaise		5.54639	7.27135	A	ADM2	NG		28	17002			0		144	Africa/Lagos	2015-03-15
+7729949	Ehime -Mbano	Ehime -Mbano		5.66491	7.30304	A	ADM2	NG		28	17003			0		124	Africa/Lagos	2015-03-15
+7729951	Ihitte/Uboma	Ihitte/Uboma	Agbegbe Ijoba Ibile Ihitte Uboma,Agbègbè Ìjọba Ìbílẹ̀ Ihitte Uboma,Ihitte/Uboma	5.62182	7.36525	A	ADM2	NG		28	17007			0		143	Africa/Lagos	2015-03-15
+7729952	Isiala Mbano	Isiala Mbano	Agbegbe Ijoba Ibile Isiala-Mbano,Agbègbè Ìjọba Ìbílẹ̀ Isiala-Mbano,Isiala Mbano,Isiala-Mbano	5.66767	7.20338	A	ADM2	NG		28	17009			0		149	Africa/Lagos	2014-09-03
+7729953	Mbatoli	Mbatoli	Mbaitoli	5.58953	7.03938	A	ADM2	NG		28	17011			0		143	Africa/Lagos	2020-04-29
+7729955	Njaba	Njaba	Agbegbe Ijoba Ibile Njaba,Agbègbè Ìjọba Ìbílẹ̀ Njaba,Njaba	5.70587	7.00821	A	ADM2	NG		28	17013			0		89	Africa/Lagos	2016-06-23
+7729956	Obowo	Obowo	Agbegbe Ijoba Ibile Obowo,Agbègbè Ìjọba Ìbílẹ̀ Obowo,Obowo	5.54927	7.3601	A	ADM2	NG		28	17016			0		113	Africa/Lagos	2015-03-15
+7729957	Ohaji/Egbema	Ohaji/Egbema	Agbegbe Ijoba Ibile Ohaji/Egbema,Agbègbè Ìjọba Ìbílẹ̀ Ohaji/Egbema,Ohaji/Egbema,ai bei ma,埃貝馬	5.40237	6.82451	A	ADM2	NG		28	17018			0		54	Africa/Lagos	2015-03-15
+7729958	Okigwe	Okigwe		5.81088	7.32559	A	ADM2	NG		28	17019			0		114	Africa/Lagos	2015-03-15
+7729959	Orsu	Orsu		5.86149	6.99759	A	ADM2	NG		28	17021			0		105	Africa/Lagos	2015-03-15
+7729960	Oru East	Oru East		5.70557	6.96015	A	ADM2	NG		28	17022			0		138	Africa/Lagos	2015-03-15
+7729961	Oru West	Oru West	Agbegbe Ijoba Ibile Iwoorun Oru,Agbègbè Ìjọba Ìbílẹ̀ Ìwọòrùn Oru,Oru Oeste,Oru Ouest,Oru West,Oru ta Yamma,Se Oru	5.74224	6.91093	A	ADM2	NG		28	17023			0		117	Africa/Lagos	2015-03-15
+7729962	Owerri West	Owerri West	Agbegbe Ijoba Ibile Iwoorun Owerri,Agbègbè Ìjọba Ìbílẹ̀ Ìwọòrùn Owerri,Owerri Ouest,Owerri West,Owerri ta Yamma,Se Owerri,owerri west,xioueri,西オウェリ	5.43226	6.98041	A	ADM2	NG		28	17026			0		61	Africa/Lagos	2015-03-15
+7729963	Ohafia	Ohafia		5.65835	7.76939	A	ADM2	NG		45	1010			0		75	Africa/Lagos	2015-03-13
+7729964	Unuimo	Unuimo		5.77363	7.2411	A	ADM2	NG		28	17027			0		97	Africa/Lagos	2014-09-03
+7729965	Adavi	Adavi		7.64141	6.4337	A	ADM2	NG		41	23001			0		169	Africa/Lagos	2014-09-03
+7729966	Fufore	Fufore		9.20243	12.79358	A	ADM2	NG		35	2002			0		218	Africa/Lagos	2015-03-13
+7729967	Bassa	Bassa	Agbegbe Ijoba Ibile Bassa,Agbègbè Ìjọba Ìbílẹ̀ Bassa,Bassa	7.77095	7.0244	A	ADM2	NG		41	23004			0		157	Africa/Lagos	2015-03-17
+7729968	Ibaji	Ibaji	Agbegbe Ijoba Ibile Ibaji,Agbègbè Ìjọba Ìbílẹ̀ Ibaji,Ibaji	6.79931	6.76303	A	ADM2	NG		41	23006			0		28	Africa/Lagos	2014-09-03
+7729969	Igalamela-Odolu	Igalamela-Odolu	Igalamela Odolu,Igalamela-Odolu	7.05731	7.01874	A	ADM2	NG		41	23008			0		41	Africa/Lagos	2014-09-03
+7729971	Ijumu	Ijumu	Ijumu,yi zhu mu,伊朱姆	7.84878	5.95614	A	ADM2	NG		41	23009			0		484	Africa/Lagos	2014-09-03
+7729972	Kabba/Bunu	Kabba/Bunu		8.06278	6.20336	A	ADM2	NG		41	23010			0		438	Africa/Lagos	2014-09-03
+7729973	Madagali	Madagali	Agbegbe Ijoba Ibile Madagali,Agbègbè Ìjọba Ìbílẹ̀ Madagali,Madagali,میڈاگالی	10.85219	13.54889	A	ADM2	NG		35	2010			0		461	Africa/Lagos	2015-03-13
+7729974	Mopa-Muro	Mopa-Muro	Agbegbe Ijoba Ibile Mopa-Muro,Agbègbè Ìjọba Ìbílẹ̀ Mopa-Muro,Mopa Muro,Mopa-Muro	8.10332	5.87847	A	ADM2	NG		41	23013			0		307	Africa/Lagos	2014-09-03
+7729975	Ofu	Ofu	Agbegbe Ijoba Ibile Ofu,Agbègbè Ìjọba Ìbílẹ̀ Ofu,Ofu	7.30283	7.03817	A	ADM2	NG		41	23014			0		337	Africa/Lagos	2015-03-17
+7729976	Okehi	Okehi	Okehi,Okekhi,Окехи	7.68192	6.28543	A	ADM2	NG		41	23016			0		191	Africa/Lagos	2014-09-03
+7729979	Omala	Omala		7.79962	7.54098	A	ADM2	NG		41	23019			0		159	Africa/Lagos	2014-09-03
+7729980	Yagba East	Yagba East	Tang Yagba,Yagba East,Yagba Est,Yagba Leste,Yagba fuunaange,Yagba fuunaaŋge,Yagba ta Gabas,یگبا ایسٹ	8.16411	5.76131	A	ADM2	NG		41	23020			0		311	Africa/Lagos	2014-09-03
+7729981	Yagba West	Yagba West	Se Yagba,Yagba Oeste,Yagba Ouest,Yagba West,Yagba ta Yamma,یگبا ویسٹ	8.29641	5.52748	A	ADM2	NG		41	23021			0		275	Africa/Lagos	2014-09-03
+7729982	Agaie	Agaie	Agaie,Agaje,Agbegbe Ijoba Ibile Agaie,Agbègbè Ìjọba Ìbílẹ̀ Agaie,Агайе	8.93056	6.40817	A	ADM2	NG		31	27001			0		157	Africa/Lagos	2014-09-03
+7729983	Agwara	Agwara	Agbegbe Ijoba Ibile Agwara,Agbègbè Ìjọba Ìbílẹ̀ Agwara,Agwara,agwara,aqwara,aygwara,اقوارا,اگوارا,ایگوارا	10.77476	4.53977	A	ADM2	NG		31	27002			0		226	Africa/Lagos	2014-09-03
+7729984	Bauchi	Bauchi		10.31583	9.84417	A	ADM2	NG		46	5002			0		628	Africa/Lagos	2015-03-14
+7729985	Bida	Bida	Bida,Binta,bi da,bi dar,bida,byda,pita,Μπίντα,Бида,Біда,بيدا,بیدا,बिडा,बिदा,বিদা,બીડા,பீடா,బీద,ಬಿಡಾ,බිඩා,บิดาร์,ビダ,比达,비다	9.08269	5.98473	A	ADM2	NG		31	27003			0		146	Africa/Lagos	2014-09-03
+7729987	Borgu	Borgu	Agbegbe Ijoba Ibile Borgu,Agbègbè Ìjọba Ìbílẹ̀ Borgu,Area de governo local de Borgu,Borgu,Borgu Local Government Area,Área de governo local de Borgu	10.37844	4.1626	A	ADM2	NG		31	27004			0		261	Africa/Lagos	2014-09-03
+7729988	Bogoro	Bogoro	Agbegbe Ijoba Ibile Bogoro,Agbègbè Ìjọba Ìbílẹ̀ Bogoro,Bogoro	9.65	9.61667	A	ADM2	NG		46	5003			0		682	Africa/Lagos	2015-03-14
+7729989	Chanchaga	Chanchaga	Agbegbe Ijoba Ibile Chanchaga,Agbègbè Ìjọba Ìbílẹ̀ Chanchaga,Chanchaga,shantshagha,Чанчага,شانتشاغا	9.60547	6.51419	A	ADM2	NG		31	27006			0		241	Africa/Lagos	2014-09-03
+7729991	Edati	Edati	Agbegbe Ijoba Ibile Edati,Agbègbè Ìjọba Ìbílẹ̀ Edati,Edati,Едати	9.0275	5.61823	A	ADM2	NG		31	27007			0		131	Africa/Lagos	2014-09-03
+7729992	Darazo	Darazo	Agbegbe Ijoba Ibile Darazo,Agbègbè Ìjọba Ìbílẹ̀ Darazo,Darazo	11.16762	10.65399	A	ADM2	NG		46	5005			0		463	Africa/Lagos	2015-03-14
+7729993	Misau	Misau	Agbegbe Ijoba Ibile Misau,Agbègbè Ìjọba Ìbílẹ̀ Misau,Misau,Misaw,misau,ミサウ	11.3163	10.4703	A	ADM2	NG		46	5014			0		436	Africa/Lagos	2015-03-14
+7729994	Bukuru	Bukuru	Buruku	7.46667	9.2	A	ADM2	NG		26	7004			0		94	Africa/Lagos	2020-04-29
+7729995	Gboko	Gboko		7.31616	8.90167	A	ADM2	NG		26	7005			0		176	Africa/Lagos	2015-03-14
+7730000	Kwande	Kwande	Agbegbe Ijoba Ibile Kwande,Agbègbè Ìjọba Ìbílẹ̀ Kwande,Kwande	6.80099	9.47021	A	ADM2	NG		26	7011			0		260	Africa/Lagos	2015-03-14
+7730003	Boki	Boki	Agbegbe Ijoba Ibile Boki,Agbègbè Ìjọba Ìbílẹ̀ Boki,Boki,boki,ボキ	6.25	9.03333	A	ADM2	NG		22	9007			0		176	Africa/Lagos	2014-09-03
+7730004	Afikpo North	Afikpo North	Afikpo Nord,Afikpo Norte,Afikpo North,Afikpo ta Arewa,Agbegbe Ijoba Ibile Ariwa Afikpo,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Afikpo,Pak Afikpo	5.89312	7.93735	A	ADM2	NG		53	11002			0		83	Africa/Lagos	2014-09-03
+7730005	Ikwo	Ikwo		6.05316	8.16284	A	ADM2	NG		53	11007			0		27	Africa/Lagos	2015-03-15
+7730006	Izzi	Izzi	Agbegbe Ijoba Ibile Izzi,Agbègbè Ìjọba Ìbílẹ̀ Izzi,Izzi	6.48453	8.29468	A	ADM2	NG		53	11010			0		65	Africa/Lagos	2014-09-03
+7730007	Enugu East	Enugu East	Agbegbe Ijoba Ibile Ilaorun Enugu,Agbègbè Ìjọba Ìbílẹ̀ Ìlàòrùn Ẹnúgu,Enugu East,Enugu Est,Enugu Leste,Enugu ta Gabas,Tang Enugu	6.53333	7.53333	A	ADM2	NG		47	14003			0		202	Africa/Lagos	2014-09-03
+7730008	Igbo-Eze-North	Igbo-Eze-North		6.98333	7.45	A	ADM2	NG		47	14008			0		364	Africa/Lagos	2014-09-03
+7730010	Udi	Udi		6.51181	7.35535	A	ADM2	NG		47	14016			0		361	Africa/Lagos	2015-03-13
+7730012	Ngaski	Ngaski	Agbegbe Ijoba Ibile Ngaski,Agbègbè Ìjọba Ìbílẹ̀ Ngaski,Ngaski	10.40709	4.71781	A	ADM2	NG		40	515			0		171	Africa/Lagos	2015-03-17
+7730013	Yauri	Yauri	Agbegbe Ijoba Ibile Yauri,Agbègbè Ìjọba Ìbílẹ̀ Yauri,Yauri,ywry  nayjyrya,یوری، نائجیریا	10.77643	4.74197	A	ADM2	NG		40	520			0		158	Africa/Lagos	2014-09-06
+7730014	Zuru	Zuru	Agbegbe Ijoba Ibile Zuru,Agbègbè Ìjọba Ìbílẹ̀ Zuru,Zuru	11.44638	5.28717	A	ADM2	NG		40	521			0		367	Africa/Lagos	2015-03-17
+7730015	Gbako	Gbako	Agbegbe Ijoba Ibile Gbako,Agbègbè Ìjọba Ìbílẹ̀ Gbako,Gbako	9.28456	5.98614	A	ADM2	NG		31	27008			0		157	Africa/Lagos	2014-09-03
+7730017	Gurara	Gurara		9.32203	7.02318	A	ADM2	NG		31	27009			0		359	Africa/Lagos	2014-09-03
+7730021	Lavun	Lavun	Agbegbe Ijoba Ibile Lavun,Agbègbè Ìjọba Ìbílẹ̀ Lavun,Lavun,la wen,Лавун,拉文	9.27348	5.6833	A	ADM2	NG		31	27013			0		146	Africa/Lagos	2014-09-03
+7730022	Pankshin	Pankshin	Agbegbe Ijoba Ibile Pankshin,Agbègbè Ìjọba Ìbílẹ̀ Pankshin,Pankshin	9.21598	9.3988	A	ADM2	NG		49	32013			0		469	Africa/Lagos	2015-03-18
+7730025	Shendam	Shendam	Agbegbe Ijoba Ibile Shendam,Agbègbè Ìjọba Ìbílẹ̀ Shendam,Shendam,shendamu de fang xing zheng qu,Шендам,シェンダム地方行政区	8.71667	9.5	A	ADM2	NG		49	32016			0		162	Africa/Lagos	2014-09-03
+7730026	Muya	Muya		9.80982	7.01732	A	ADM2	NG		31	27018			0		432	Africa/Lagos	2014-09-03
+7730027	Paikoro	Paikoro	Agbegbe Ijoba Ibile Paikoro,Agbègbè Ìjọba Ìbílẹ̀ Paikoro,Paikoro,Паикоро	9.4681	6.85565	A	ADM2	NG		31	27019			0		355	Africa/Lagos	2014-09-03
+7730030	Atakunmosa East	Atakunmosa East	Agbegbe Ijoba Ibile Ilaorun Atakunmosa,Agbègbè Ìjọba Ìbílẹ̀ Ìlàòrùn Atakunmosa,Atakunmosa East,Atakunmosa Est,Atakunmosa ta Gabas,Tang Atakunmosa	7.45916	4.77562	A	ADM2	NG		42	30003			0		334	Africa/Lagos	2014-09-25
+7730042	Atakunmosa West	Atakunmosa West	Agbegbe Ijoba Ibile Iwoorun Atakunmosa,Agbègbè Ìjọba Ìbílẹ̀ Ìwọòrùn Atakunmosa,Atakunmosa Ouest,Atakunmosa West,Atakunmosa ta Yamma,Se Atakunmosa	7.49206	4.67521	A	ADM2	NG		42	30004			0		427	Africa/Lagos	2015-03-17
+7730050	Borsari	Borsari	Bursari	12.69929	11.42578	A	ADM2	NG		44	702			0		339	Africa/Lagos	2020-04-29
+7730051	Boluwaduro	Boluwaduro	Agbegbe Ijoba Ibile Boluwaduro,Agbègbè Ìjọba Ìbílẹ̀ Boluwaduro,Boluwaduro	7.91891	4.81303	A	ADM2	NG		42	30005			0		545	Africa/Lagos	2014-09-03
+7730052	Boripe	Boripe	Agbegbe Ijoba Ibile Boripe,Agbègbè Ìjọba Ìbílẹ̀ Boripe,Boripe,Борипе	7.85585	4.66946	A	ADM2	NG		42	30006			0		370	Africa/Lagos	2016-06-23
+7730053	Gujba	Gujba		11.38333	11.96667	A	ADM2	NG		44	707			0		430	Africa/Lagos	2015-03-18
+7730054	Ibarapa East	Ibarapa East	Ibarapa East,Ibarapa Est,Ibarapa ta Gabas,Ilaoorun Ibarapa,Tang Ibarapa,Ìlàoòrùn Ìbàràpá	7.60795	3.49207	A	ADM2	NG		32	31012			0		198	Africa/Lagos	2015-03-17
+7730055	Ibarapa North	Ibarapa North	Ariwa Ibarapa,Ibarapa Nord,Ibarapa North,Ibarapa ta Arewa,Pak Ibarapa,Àríwá Ìbàràpá	7.64615	3.15918	A	ADM2	NG		32	31013			0		137	Africa/Lagos	2015-03-18
+7730056	Gulani	Gulani	Agbegbe Ijoba Ibile Gulani,Agbègbè Ìjọba Ìbílẹ̀ Gulani,Gulani,gurani,グラニ	11	11.71667	A	ADM2	NG		44	708			0		298	Africa/Lagos	2014-09-03
+7730057	Ido	Ido	Ido,Ìdó	7.50678	3.71186	A	ADM2	NG		32	31014			0		156	Africa/Lagos	2015-03-17
+7730058	Kajola	Kajola	Kajola,Kájọlà	8.02639	3.35753	A	ADM2	NG		32	31019			0		402	Africa/Lagos	2015-03-17
+7730059	Lagelu	Lagelu		7.49485	4.0469	A	ADM2	NG		32	31020			0		226	Africa/Lagos	2015-03-17
+7730060	Ori Ire	Ori Ire	Ori Ire,Ori-Ire,Orí-Ire	8.33423	4.14423	A	ADM2	NG		32	31028			0		426	Africa/Lagos	2015-03-18
+7730061	Oyo East	Oyo East	Ilaoorun Oyo,Oyo East,Oyo Est,Oyo Leste,Oyo ta Gabas,Tang Oyo,Ìlàoòrùn Ọ̀yọ́	7.87878	4.02132	A	ADM2	NG		32	31029			0		295	Africa/Lagos	2015-03-18
+7730062	Oyo West	Oyo West	Iwoorun Oyo,Oyo Oeste,Oyo Ouest,Oyo West,Oyo ta Yamma,Se Oyo,Ìwọòrùn Ọ̀yọ́	7.94157	3.8218	A	ADM2	NG		32	31030			0		244	Africa/Lagos	2015-03-17
+7730066	Saki West	Saki West	Iwooorun Saki,Saki Ouest,Saki West,Saki ta Yamma,Se Saki,Ìwọ̀oòrùn Ṣakí	8.5698	3.14718	A	ADM2	NG		32	31032			0		371	Africa/Lagos	2015-03-17
+7730073	Surulere	Surulere	Surulere,Súrùlérè	8.07179	4.4149	A	ADM2	NG		32	31033			0		380	Africa/Lagos	2015-03-18
+7730086	Gokana	Gokana		4.66049	7.28347	A	ADM2	NG		50	33012			0		21	Africa/Lagos	2015-03-18
+7730104	Ikwerre	Ikwerre		5.02676	6.88406	A	ADM2	NG		50	33013			0		34	Africa/Lagos	2015-03-18
+7730136	Ogu Bolo	Ogu Bolo		4.64774	7.18648	A	ADM2	NG		50	33017			0		7	Africa/Lagos	2015-03-18
+7730382	Isiala-Ngwa South	Isiala-Ngwa South		5.36241	7.39998	A	ADM2	NG		45	1007			0		121	Africa/Lagos	2014-09-25
+7730384	Ugwunagbo	Ugwunagbo	Agbegbe Ijoba Ibile Ugwunagbo,Agbègbè Ìjọba Ìbílẹ̀ Ugwunagbo,Ugvunagbo,Ugwunagbo,Угвунагбо	5.00628	7.33943	A	ADM2	NG		45	1012			0		49	Africa/Lagos	2015-03-13
+7730386	Ukwa West	Ukwa West	Agbegbe Ijoba Ibile Iwoorun Ukwa,Agbègbè Ìjọba Ìbílẹ̀ Ìwọòrùn Ukwa,Se Ukwa,Ukwa Ouest,Ukwa West,Ukwa ta Yamma,Zakhidna Ukva,Західна Уква	4.95401	7.23927	A	ADM2	NG		45	1014			0		35	Africa/Lagos	2015-03-13
+7730388	Umuahia South	Umuahia South	Agbegbe Ijoba Ibile Guusu Umuahia,Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Umuahia,Lam Umuahia,Lâm Umuahia,Pivdenna Umuakhija,Umuahia South,Umuahia Sud,Umuahia ta Kudu,Південна Умуахія	5.46234	7.43997	A	ADM2	NG		45	1017			0		159	Africa/Lagos	2015-03-13
+7730390	Eastern Obolo	Eastern Obolo	Agbegbe Ijoba Ibile Apailaoorun Obolo,Agbègbè Ìjọba Ìbílẹ̀ Apáìlàoòrùn Obolo,Eastern Obolo,Est Obolo,Obolo ta Gabas	4.53389	7.76694	A	ADM2	NG		21	3002			0		12	Africa/Lagos	2014-09-03
+7730394	Nsit Atai	Nsit Atai		4.8177	8.02593	A	ADM2	NG		21	3019			0		39	Africa/Lagos	2014-09-03
+7730396	Nsit Ubium	Nsit Ubium		4.74274	7.94876	A	ADM2	NG		21	3021			0		34	Africa/Lagos	2014-09-03
+7730397	Onna	Onna	Agbegbe Ijoba Ibile Onna,Agbègbè Ìjọba Ìbílẹ̀ Onna,Onna	4.61597	7.84869	A	ADM2	NG		21	3024			0		20	Africa/Lagos	2014-09-03
+7730398	Agatu	Agatu	Agatu,Agbegbe Ijoba Ibile Agatu,Agbègbè Ìjọba Ìbílẹ̀ Agatu	7.9061	7.85487	A	ADM2	NG		26	7002			0		68	Africa/Lagos	2015-03-14
+7730399	Gwer West	Gwer West	Agbegbe Ijoba Ibile Iwoorun Gwer,Agbègbè Ìjọba Ìbílẹ̀ Ìwọòrùn Gwer,Gwer Ouest,Gwer West,Gwer West/ Odida Anyanwu,Gwer West/ Ọdịda Anyanwụ,Gwer ta Yamma,Se Gwer	7.63211	8.21656	A	ADM2	NG		26	7008			0		122	Africa/Lagos	2015-03-14
+7730400	Konshisha	Konshisha	Agbegbe Ijoba Ibile Konshisha,Agbègbè Ìjọba Ìbílẹ̀ Konshisha,Konshisha	7.02993	8.66037	A	ADM2	NG		26	7010			0		109	Africa/Lagos	2015-03-14
+7730401	Ushongo	Ushongo	Agbegbe Ijoba Ibile Ushongo,Agbègbè Ìjọba Ìbílẹ̀ Ushongo,Ushongo	7.04411	9.08871	A	ADM2	NG		26	7022			0		180	Africa/Lagos	2015-03-14
+7871247	Bwari	Bwari		9.218	7.408	A	ADM2	NG		11	15002			0		601	Africa/Lagos	2014-09-03
+7871248	Tafa	Tafa	Agbegbe Ijoba Ibile Tafa,Agbègbè Ìjọba Ìbílẹ̀ Tafa,Tafa	9.232	7.23	A	ADM2	NG		31	27024			0		465	Africa/Lagos	2014-09-03
+7871249	Kagarko	Kagarko	Agbegbe Ijoba Ibile Kagarko,Agbègbè Ìjọba Ìbílẹ̀ Kagarko,Kagariko,Kagarko,Кагарко	9.437	7.577	A	ADM2	NG		23	19011			0		643	Africa/Lagos	2014-09-03
+7871250	Kachia	Kachia	Agbegbe Ijoba Ibile Kachia,Agbègbè Ìjọba Ìbílẹ̀ Kachia,Kacha,Kachia,Kaciya,Ka̱ciya,Кача	9.85	7.56	A	ADM2	NG		23	19008			0		603	Africa/Lagos	2015-03-16
+7871251	Chikun	Chikun	Agbegbe Ijoba Ibile Chikun,Agbègbè Ìjọba Ìbílẹ̀ Chikun,Chikun,Ciikun,Cikun	10.315	7.274	A	ADM2	NG		23	19002			0		644	Africa/Lagos	2015-03-16
+7871252	Igabi	Igabi	Agbegbe Ijoba Ibile Igabi,Agbègbè Ìjọba Ìbílẹ̀ Igabi,Igabi	10.781	7.504	A	ADM2	NG		23	19004			0		643	Africa/Lagos	2014-09-03
+7871253	Kaduna South	Kaduna South	Agbegbe Ijoba Ibile Guusu Kaduna,Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Kàdúná,Kaduna South,Kaduna Sud,Kaduna south,Kaduna ta Kudu,Lam Kaduna,Lâm Kaduna	10.468	7.421	A	ADM2	NG		23	19010			0		618	Africa/Lagos	2015-03-16
+7871254	Makarfi	Makarfi	Agbegbe Ijoba Ibile Makarfi,Agbègbè Ìjọba Ìbílẹ̀ Makarfi,Makarfi	11.29795	7.96917	A	ADM2	NG		23	19018			0		669	Africa/Lagos	2015-03-16
+7871255	Kaduna North	Kaduna North	Agbegbe Ijoba Ibile Ariwa Kaduna,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Kàdúná,Kaduna Nord,Kaduna North,Kaduna ta Arewa,Pak Kaduna,kadwna alshmal,كادونا الشمال	10.568	7.452	A	ADM2	NG		23	19009			0		619	Africa/Lagos	2015-03-16
+7871257	Zaria	Zaria		10.98854	7.69622	A	ADM2	NG		23	19023			0		645	Africa/Lagos	2015-03-16
+7871258	Sabon Gari	Sabon Gari		11.164	7.697	A	ADM2	NG		23	19019			0		659	Africa/Lagos	2015-03-16
+7871259	Kudan	Kudan	Agbegbe Ijoba Ibile Kudan,Agbègbè Ìjọba Ìbílẹ̀ Kudan,Kudan	11.273	7.799	A	ADM2	NG		23	19016			0		648	Africa/Lagos	2015-03-16
+7871261	Kiru	Kiru		11.543	8.149	A	ADM2	NG		29	20034			0		568	Africa/Lagos	2014-09-03
+7871263	Bebeji	Bebeji	Agbegbe Ijoba Ibile Bebeji,Agbègbè Ìjọba Ìbílẹ̀ Bebeji,Bebeji	11.53146	8.20353	A	ADM2	NG		29	20025			0		567	Africa/Lagos	2014-09-03
+7871264	Garum Mallam	Garum Mallam		11.651	8.377	A	ADM2	NG		29	20003			0		492	Africa/Lagos	2014-09-03
+7871265	Kura	Kura		11.78775	8.48684	A	ADM2	NG		29	20035			0		447	Africa/Lagos	2016-06-23
+7871266	Dawakin Kudu	Dawakin Kudu	Agbegbe Ijoba Ibile Dawakin Kudu,Agbègbè Ìjọba Ìbílẹ̀ Dawakin Kudu,Dawakin Kudu	11.83228	8.69164	A	ADM2	NG		29	20022			0		453	Africa/Lagos	2014-09-03
+7871268	Kumbotso	Kumbotso	Agbegbe Ijoba Ibile Kumbotso,Agbègbè Ìjọba Ìbílẹ̀ Kumbotso,Kumbotso	11.90063	8.51633	A	ADM2	NG		29	20044			0		454	Africa/Lagos	2014-09-03
+7871270	Fagge	Fagge	Agbegbe Ijoba Ibile Fagge,Agbègbè Ìjọba Ìbílẹ̀ Fagge,Fage,Fagge,fagy,Фаге,فاگی	12.02704	8.53363	A	ADM2	NG		29	20030			0		461	Africa/Lagos	2014-09-06
+7871272	Nasarawa	Nasarawa	Nasarava,Nasarawa,Nassaraua,Nassarawa,Насарава	8.26937	7.59744	A	ADM2	NG		56	26009			0		165	Africa/Lagos	2015-03-12
+7871278	Shagamu	Shagamu		6.79905	3.56833	A	ADM2	NG		16	28020			0		62	Africa/Lagos	2014-09-03
+7871279	Kosofe	Kosofe	Kosofe,ke suo fei,kosofe,コソフェ,科索费	6.601	3.409	A	ADM2	NG		05	25013			0		4	Africa/Lagos	2015-03-17
+7871280	Shomolu	Shomolu		6.55606	3.3695	A	ADM2	NG		05	25017			0		17	Africa/Lagos	2014-09-06
+7871290	Apapa	Apapa		6.42926	3.3493	A	ADM2	NG		05	25005			0		0	Africa/Lagos	2016-06-23
+7871293	Ifelodun	Ifelodun		8.55971	5.01072	A	ADM2	NG		30	24005			0		294	Africa/Lagos	2015-03-12
+7871294	Amuwo Odofin	Amuwo Odofin		6.472	3.263	A	ADM2	NG		05	25004			0		10	Africa/Lagos	2014-09-03
+7871297	Ojo	Ojo		6.46508	3.14827	A	ADM2	NG		05	25015			0		8	Africa/Lagos	2015-03-17
+7871299	Badagry	Badagry		6.43813	2.90245	A	ADM2	NG		05	25006			0		9	Africa/Lagos	2015-03-17
+7871303	Ikenne	Ikenne		6.919	3.676	A	ADM2	NG		16	28012			0		94	Africa/Lagos	2015-03-17
+7871304	Odogbolu	Odogbolu	Agbegbe Ijoba Ibile Odogbolu,Agbègbè Ìjọba Ìbílẹ̀ Odogbolu,Odogbolu,Одогболу	6.78597	3.80511	A	ADM2	NG		16	28017			0		21	Africa/Lagos	2014-09-03
+7871321	Ijebu Ode	Ijebu Ode		6.82065	3.92899	A	ADM2	NG		16	28011			0		72	Africa/Lagos	2014-09-06
+7873873	Ijebu East	Ijebu East	Agbegbe Ijoba Ibile Ilaorun Ijebu,Agbègbè Ìjọba Ìbílẹ̀ Ìlàòrùn Ijebu,Ijebu East,Ijebu Est,Ijebu ta Gabas,Ijebu-Leste,Tang Ijebu	6.805	4.258	A	ADM2	NG		16	28008			0		63	Africa/Lagos	2015-03-17
+7873875	Odigbo	Odigbo	Agbegbe Ijoba Ibile Odigbo,Agbègbè Ìjọba Ìbílẹ̀ Odigbo,Odigbo,اوڈگبو	6.765	4.727	A	ADM2	NG		48	29013			0		106	Africa/Lagos	2015-03-17
+7873876	Idanre	Idanre		6.986	5.209	A	ADM2	NG		48	29008			0		211	Africa/Lagos	2015-03-17
+7873877	Ovia South-West	Ovia South-West	Ovia South West,Ovia South-West,Ovia Sud Ouest,Ovia ta Kudu maso Yamma,Se-lam Ovia,Se-lâm Ovia	6.396	5.272	A	ADM2	NG		37	12015			0		67	Africa/Lagos	2014-09-03
+7873878	Ovia North-East	Ovia North-East	Ovia Nord Est,Ovia North East,Ovia North-East,Ovia ta Arewa maso Gabas,Tang-pak Ovia	6.64465	5.57989	A	ADM2	NG		37	12014			0		40	Africa/Lagos	2014-09-03
+7873880	Orhionmwon	Orhionmwon	Orhionmwon	6.25354	5.98405	A	ADM2	NG		37	12013			0		44	Africa/Lagos	2014-09-03
+7873883	Aniocha North	Aniocha North	Agbegbe Ijoba Ibile Ariwa Aniocha,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Aniocha,Aniocha Nord,Aniocha North,Aniocha ta Arewa,Pak Aniocha	6.35447	6.48737	A	ADM2	NG		36	10001			0		270	Africa/Lagos	2015-03-14
+7873887	Onitsha North	Onitsha North	Agbegbe Ijoba Ibile Ariwa Onitsha,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Onitsha,Onitsha Nord,Onitsha North,Onitsha ta Arewa,Onitsha-Norte,Pak Onitsha	6.16081	6.79968	A	ADM2	NG		25	4017			0		65	Africa/Lagos	2016-06-23
+7873892	Ibadan North	Ibadan North	Ariwa Ibadan,Ibadan Nord,Ibadan North,Ibadan ta Arewa,Ibadan-Norte,Pak Ibadan,Àríwá Ìbàdàn	7.40922	3.89011	A	ADM2	NG		32	31006			0		216	Africa/Lagos	2015-03-17
+7873893	Akinyele	Akinyele		7.56152	3.90609	A	ADM2	NG		32	31002			0		242	Africa/Lagos	2015-03-17
+7873894	Afijio	Afijio		7.73793	3.86417	A	ADM2	NG		32	31001			0		291	Africa/Lagos	2015-03-17
+7873899	Oyun	Oyun	Ijoba Agbegbe Oyun,Oyun,Ìjọba Agbègbè Oyun	8.16827	4.65212	A	ADM2	NG		30	24015			0		430	Africa/Lagos	2016-06-23
+7873900	Ilorin West	Ilorin West		8.48752	4.5235	A	ADM2	NG		30	24008			0		317	Africa/Lagos	2016-06-23
+7873904	Agege	Agege	Agbegbe Ijoba Ibile Agege,Agbègbè Ìjọba Ìbílẹ̀ Agege,Agege,a ge ge,agege,ayjj,Агеге,ایجج,アゲゲ,阿格格	6.63937	3.30757	A	ADM2	NG		05	25001			0		24	Africa/Lagos	2014-09-03
+7873905	Obafemi Owode	Obafemi Owode	Agbegbe Ijoba Ibile Obafemi-Owode,Agbègbè Ìjọba Ìbílẹ̀ Obafemi-Owode,Obafemi Owode,Obafemi-Owode,ao wo dai,奥沃代	6.96907	3.48404	A	ADM2	NG		16	28015			0		106	Africa/Lagos	2014-09-03
+7873907	Ibadan South West	Ibadan South West		7.35069	3.86551	A	ADM2	NG		32	31010			0		177	Africa/Lagos	2015-03-17
+7873908	Ibadan South East	Ibadan South East		7.33437	3.90359	A	ADM2	NG		32	31009			0		185	Africa/Lagos	2015-03-17
+7873910	Ibadan North East	Ibadan North East		7.36919	3.92753	A	ADM2	NG		32	31007			0		226	Africa/Lagos	2015-03-17
+7873911	Irepo	Irepo	Irepo,Ìrẹ́pọ̀	8.90287	3.99445	A	ADM2	NG		32	31015			0		397	Africa/Lagos	2015-03-17
+7873912	Kaiama	Kaiama	Agbegbe Ijoba Ibile Kaiama,Agbègbè Ìjọba Ìbílẹ̀ Kaiama,Kaiama	9.45342	4.15994	A	ADM2	NG		30	24011			0		342	Africa/Lagos	2015-03-12
+7873914	Bagudo	Bagudo	Agbegbe Ijoba Ibile Bagudo,Agbègbè Ìjọba Ìbílẹ̀ Bagudo,Bagudo,Bagudu	11.34757	3.95674	A	ADM2	NG		40	505			0		214	Africa/Lagos	2015-03-17
+7873915	Koko-Besse	Koko-Besse		11.45855	4.43782	A	ADM2	NG		40	513			0		243	Africa/Lagos	2015-03-17
+7873916	Gummi	Gummi	Agbegbe Ijoba Ibile Gummi,Agbègbè Ìjọba Ìbílẹ̀ Gummi,Gumi,Gummi	12.05409	5.1136	A	ADM2	NG		57	806			0		267	Africa/Lagos	2016-06-23
+7873917	Maiyama	Maiyama	Agbegbe Ijoba Ibile Maiyama,Agbègbè Ìjọba Ìbílẹ̀ Maiyama,Maiyama	11.99054	4.35394	A	ADM2	NG		40	514			0		244	Africa/Lagos	2015-03-17
+7873918	Jega	Jega		12.16397	4.48643	A	ADM2	NG		40	511			0		262	Africa/Lagos	2015-03-17
+7873919	Gwandu	Gwandu	Agbegbe Ijoba Ibile Gwandu,Agbègbè Ìjọba Ìbílẹ̀ Gwandu,Emirat Gandu,Gvandu,Gwandu,guan du,guwandou,Гванду,גוואנדו,グワンドゥ,关杜,關杜	12.51695	4.66493	A	ADM2	NG		40	510			0		278	Africa/Lagos	2015-03-17
+7873920	Yabo	Yabo		12.78914	4.94955	A	ADM2	NG		51	623			0		299	Africa/Lagos	2016-06-23
+7873921	Wamako	Wamako		13.03992	5.11946	A	ADM2	NG		51	621			0		257	Africa/Lagos	2015-03-18
+7873925	Oji-River	Oji-River		6.17032	7.27723	A	ADM2	NG		47	14014			0		119	Africa/Lagos	2014-09-03
+7873926	Enugu South	Enugu South	Agbegbe Ijoba Ibile Guusu Enugu,Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Ẹnúgu,Enugu South,Enugu Sud,Enugu Sul,Enugu ta Kudu,Lam Enugu,Lâm Enugu	6.39173	7.51096	A	ADM2	NG		47	14005			0		178	Africa/Lagos	2014-09-03
+7873928	Port-Harcourt	Port-Harcourt		4.77763	7.02165	A	ADM2	NG		50	33022			0		2	Africa/Lagos	2016-06-23
+7873930	Obio/Akpor	Obio/Akpor		4.83153	6.98906	A	ADM2	NG		50	33015			0		18	Africa/Lagos	2015-03-18
+7873936	Isuikwuato	Isuikwuato	Isuikwuato,Izuikvato,Ізуіквато	5.76185	7.46446	A	ADM2	NG		45	1008			0		220	Africa/Lagos	2015-03-13
+7873937	Awgu	Awgu	Agbegbe Ijoba Ibile Awgu,Agbègbè Ìjọba Ìbílẹ̀ Awgu,Awgu	6.14311	7.43658	A	ADM2	NG		47	14002			0		398	Africa/Lagos	2015-03-12
+7873938	Nkanu East	Nkanu East	Agbegbe Ijoba Ibile Ilaorun Nkanu,Agbègbè Ìjọba Ìbílẹ̀ Ìlàòrùn Nkanu,Nkanu East,Nkanu Est,Nkanu ta Gabas,Tang Nkanu	6.31519	7.62422	A	ADM2	NG		47	14011			0		103	Africa/Lagos	2015-03-13
+7874704	Khana	Khana		4.69962	7.42264	A	ADM2	NG		50	33014			0		26	Africa/Lagos	2015-03-18
+7910313	Birnin Gwari	Birnin Gwari	Agbegbe Ijoba Ibile Birnin-Gwari,Agbègbè Ìjọba Ìbílẹ̀ Birnin-Gwari,Birnin Gwari,Birnin-Gwari	10.82612	6.65505	A	ADM2	NG		23	19001			0		511	Africa/Lagos	2014-09-03
+7910314	Sanga	Sanga	Agbegbe Ijoba Ibile Sanga,Agbègbè Ìjọba Ìbílẹ̀ Sanga,Sanga,Sangga	9.25	8.45	A	ADM2	NG		23	19020			0		512	Africa/Lagos	2015-03-16
+7910322	Soba	Soba	Agbegbe Ijoba Ibile Soba,Agbègbè Ìjọba Ìbílẹ̀ Soba,Soba	10.87005	7.96443	A	ADM2	NG		23	19021			0		680	Africa/Lagos	2015-03-16
+7910323	Minjibir	Minjibir	Agbegbe Ijoba Ibile Minjibir,Agbègbè Ìjọba Ìbílẹ̀ Minjibir,Minjibir	12.18027	8.61247	A	ADM2	NG		29	20040			0		457	Africa/Lagos	2014-09-03
+7910324	Ungogo	Ungogo	Agbegbe Ijoba Ibile Ungogo,Agbègbè Ìjọba Ìbílẹ̀ Ungogo,Ungogo,Ungongo	12.04201	8.44341	A	ADM2	NG		29	20018			0		482	Africa/Lagos	2016-06-23
+7910325	Makoda	Makoda	Agbegbe Ijoba Ibile Makoda,Agbègbè Ìjọba Ìbílẹ̀ Makoda,Makoda	12.419	8.433	A	ADM2	NG		29	20039			0		476	Africa/Lagos	2014-09-03
+7910326	Kunchi	Kunchi		12.5	8.27	A	ADM2	NG		29	20042			0		478	Africa/Lagos	2014-09-03
+7910327	Rimin Gado	Rimin Gado	Agbegbe Ijoba Ibile Rimin Gado,Agbègbè Ìjọba Ìbílẹ̀ Rimin Gado,Rimin Gado	11.93232	8.27648	A	ADM2	NG		29	20005			0		490	Africa/Lagos	2014-09-03
+7910328	Rogo	Rogo	Agbegbe Ijoba Ibile Rogo,Agbègbè Ìjọba Ìbílẹ̀ Rogo,Rogo	11.55	7.83	A	ADM2	NG		29	20032			0		605	Africa/Lagos	2014-09-03
+7910329	Wudil	Wudil	Agbegbe Ijoba Ibile Wudil,Agbègbè Ìjọba Ìbílẹ̀ Wudil,Wudil	11.72959	8.81859	A	ADM2	NG		29	20027			0		446	Africa/Lagos	2014-09-03
+7910330	Asa	Asa		8.43005	4.426	A	ADM2	NG		30	24001			0		326	Africa/Lagos	2015-03-12
+7910331	Baruten	Baruten		9.26039	3.31607	A	ADM2	NG		30	24002			0		351	Africa/Lagos	2015-03-12
+7910332	Pategi	Pategi		8.73	5.75	A	ADM2	NG		30	24016			0		87	Africa/Lagos	2015-03-12
+7910340	Shanono	Shanono	Agbegbe Ijoba Ibile Shanono,Agbègbè Ìjọba Ìbílẹ̀ Shanono,Shanono,Xanono,shanwnw,شانونو	12.04615	7.95148	A	ADM2	NG		29	20013			0		607	Africa/Lagos	2014-09-03
+7910341	Takai	Takai	Agbegbe Ijoba Ibile Takai,Agbègbè Ìjọba Ìbílẹ̀ Takai,Takai,ta kai,takai,タカイ,塔凯,塔凱	11.46187	9.17562	A	ADM2	NG		29	20002			0		458	Africa/Lagos	2014-09-03
+7910343	Bunkure	Bunkure	Agbegbe Ijoba Ibile Bunkure,Agbègbè Ìjọba Ìbílẹ̀ Bunkure,Bunkure,Bunkuure	11.66716	8.59687	A	ADM2	NG		29	20028			0		453	Africa/Lagos	2014-09-03
+7910345	Alimosho	Alimosho		6.5889	3.24852	A	ADM2	NG		05	25003			0		33	Africa/Lagos	2015-03-17
+7910346	Ifako/Ijaye	Ifako/Ijaye		6.65822	3.31231	A	ADM2	NG		05	25010			0		48	Africa/Lagos	2016-06-23
+7910347	Epe	Epe		6.55727	3.99122	A	ADM2	NG		05	25007			0		10	Africa/Lagos	2015-03-17
+7910348	Ibeju Lekki	Ibeju Lekki		6.4545	3.94318	A	ADM2	NG		05	25009			0		51	Africa/Lagos	2021-11-27
+7910350	Ikeja	Ikeja		6.61857	3.34259	A	ADM2	NG		05	25011			0		44	Africa/Lagos	2015-03-17
+7910351	Mushin	Mushin		6.52641	3.36305	A	ADM2	NG		05	25014			0		19	Africa/Lagos	2016-06-23
+7910352	Oshodi/Isolo	Oshodi/Isolo		6.55923	3.30242	A	ADM2	NG		05	25016			0		40	Africa/Lagos	2023-10-24
+7932036	Akwanga	Akwanga	Acuanga,Agbegbe Ijoba Ibile Akwanga,Agbègbè Ìjọba Ìbílẹ̀ Akwanga,Akwanga,akwanga,akwanqa,اکوانقا,اکوانگا	8.99386	8.32701	A	ADM2	NG		56	26001			0		446	Africa/Lagos	2014-09-03
+7932056	Lafia	Lafia		8.64007	8.69959	A	ADM2	NG		56	26008			0		195	Africa/Lagos	2015-03-12
+7932057	Obi	Obi	Agbegbe Ijoba Ibile Obi,Agbègbè Ìjọba Ìbílẹ̀ Obi,Obi	8.34738	8.72769	A	ADM2	NG		56	26011			0		154	Africa/Lagos	2015-03-12
+7932058	Keana	Keana	Keana,Queana	8.16746	8.76829	A	ADM2	NG		56	26005			0		118	Africa/Lagos	2015-03-12
+7932059	Markurdi	Markurdi	Makurdi	7.7042	8.53588	A	ADM2	NG		26	7013			0		89	Africa/Lagos	2020-04-29
+7932060	Oturkpo	Oturkpo		7.30736	8.07494	A	ADM2	NG		26	7019			0		197	Africa/Lagos	2016-06-23
+7932061	Ohimini	Ohimini	Agbegbe Ijoba Ibile Ohimini,Agbègbè Ìjọba Ìbílẹ̀ Ohimini,Ohimini	7.20744	7.94989	A	ADM2	NG		26	7016			0		151	Africa/Lagos	2015-03-14
+7932062	Okpokwu	Okpokwu		7.01094	7.85102	A	ADM2	NG		26	7018			0		199	Africa/Lagos	2015-03-14
+7932063	Isi-Uzo	Isi-Uzo		6.73066	7.69294	A	ADM2	NG		47	14010			0		183	Africa/Lagos	2015-03-13
+7932064	Dunukofia	Dunukofia	Agbegbe Ijoba Ibile Dunukofia,Agbègbè Ìjọba Ìbílẹ̀ Dunukofia,Dunukofia,Dunukọfia	6.2738	6.978	A	ADM2	NG		25	4008			0		89	Africa/Lagos	2016-06-23
+7932071	Uhunmwonde	Uhunmwonde	Agbegbe Ijoba Ibile Uhunmwonde,Agbègbè Ìjọba Ìbílẹ̀ Uhunmwonde,Uhunmwonde	6.49222	5.88452	A	ADM2	NG		37	12018			0		158	Africa/Lagos	2014-09-03
+7932077	Ikpoba-Okha	Ikpoba-Okha		6.16445	5.62284	A	ADM2	NG		37	12011			0		37	Africa/Lagos	2014-09-03
+7932082	Nkanu West	Nkanu West	Agbegbe Ijoba Ibile Iwoorun Nkanu,Agbègbè Ìjọba Ìbílẹ̀ Ìwọòrùn Nkanu,Nkanu Oeste,Nkanu West,Nkanu ta Yamma,Se Nkanu	6.31098	7.50902	A	ADM2	NG		47	14012			0		193	Africa/Lagos	2014-09-03
+7932084	Umu-Nneochi	Umu-Nneochi		5.93998	7.41034	A	ADM2	NG		45	1015			0		318	Africa/Lagos	2015-03-13
+7932085	Umuahia North	Umuahia North	Agbegbe Ijoba Ibile Ariwa Umuahia,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Umuahia,Pak Umuahia,Pivnichna Umuakhija,Umuahia Nord,Umuahia North,Umuahia ta Arewa,Північна Умуахія	5.558	7.46869	A	ADM2	NG		45	1016			0		146	Africa/Lagos	2015-03-13
+7932087	Isiala-Ngwa North	Isiala-Ngwa North		5.26783	7.39057	A	ADM2	NG		45	1006			0		100	Africa/Lagos	2015-03-13
+7932088	Obi Nwga	Obi Nwga		5.12713	7.45578	A	ADM2	NG		45	1009			0		75	Africa/Lagos	2015-03-13
+7932490	Giwa	Giwa	Agbegbe Ijoba Ibile Giwa,Agbègbè Ìjọba Ìbílẹ̀ Giwa,Giwa	11.12077	7.40565	A	ADM2	NG		23	19003			0		634	Africa/Lagos	2014-09-03
+7932491	Uzo-Uwani	Uzo-Uwani		6.74135	7.13794	A	ADM2	NG		47	14017			0		136	Africa/Lagos	2014-09-03
+7932498	Eti Osa	Eti Osa		6.44154	3.55015	A	ADM2	NG		05	25008			0		5	Africa/Lagos	2021-11-11
+7932499	Ikom	Ikom	Ikom,aykwm,ایکوم	6.08333	8.61667	A	ADM2	NG		22	9011			0		97	Africa/Lagos	2014-09-03
+7932500	Ogoja	Ogoja	Ogodzha,Ogoja,ogeaja,ogoja,Огоджа,ഒഗോജ,オゴジャ	6.59671	8.80258	A	ADM2	NG		22	9016			0		74	Africa/Lagos	2014-09-03
+7932501	Obubra	Obubra	Agbegbe Ijoba Ibile Obubra,Agbègbè Ìjọba Ìbílẹ̀ Obubra,Obubra	5.9429	8.37883	A	ADM2	NG		22	9013			0		70	Africa/Lagos	2014-09-03
+7932502	Abi	Abi		5.90661	8.03799	A	ADM2	NG		22	9001			0		43	Africa/Lagos	2014-09-03
+7932505	Obudu	Obudu	Agbegbe Ijoba Ibile Obudu,Agbègbè Ìjọba Ìbílẹ̀ Obudu,Obudu,ao bu dou,奧布都	6.5433	9.04543	A	ADM2	NG		22	9014			0		347	Africa/Lagos	2014-09-03
+7932511	Katsina-Ala	Katsina-Ala	Agbegbe Ijoba Ibile Katsina-Ala,Agbègbè Ìjọba Ìbílẹ̀ Kàtsínà-Ala,Katsina Ala,Katsina-Ala	7.2896	9.5533	A	ADM2	NG		26	7009			0		153	Africa/Lagos	2014-09-03
+7932526	Surulere	Surulere		6.49167	3.34893	A	ADM2	NG		05	25018			0		4	Africa/Lagos	2016-06-23
+7932527	Ajeromi/Ifelodun	Ajeromi/Ifelodun		6.44939	3.3472	A	ADM2	NG		05	25002			0		6	Africa/Lagos	2016-06-23
+8555718	Ibadan North West	Ibadan North West		7.39272	3.87967	A	ADM2	NG		32	31008			0		195	Africa/Lagos	2015-03-17
+8631808	Shanga	Shanga	Shanga,Shanga Local Government Area	11.21165	4.60951	A	ADM2	NG		40	517			0		165	Africa/Lagos	2015-03-17
+8631809	Dandi	Dandi	Dandi,Dandi Local Government Area	11.84424	3.80863	A	ADM2	NG		40	508			0		222	Africa/Lagos	2015-03-17
+8631810	Suru	Suru	Agbegbe Ijoba Ibile Suru,Agbègbè Ìjọba Ìbílẹ̀ Suru,Suru,Suru Local Government Area	11.82999	4.09665	A	ADM2	NG		40	518			0		202	Africa/Lagos	2015-03-17
+8631811	Bunza	Bunza	Agbegbe Ijoba Ibile Bunza,Agbègbè Ìjọba Ìbílẹ̀ Bunza,Bunza,Bunza Local Government Area,Buunza,bunza,ブンザ	12.16781	3.91475	A	ADM2	NG		40	507			0		238	Africa/Lagos	2015-03-17
+8631812	Kalgo	Kalgo	Agbegbe Ijoba Ibile Kalgo,Agbègbè Ìjọba Ìbílẹ̀ Kalgo,Kalgo,Kalgo Local Government Area	12.28349	4.10088	A	ADM2	NG		40	512			0		219	Africa/Lagos	2015-03-17
+8631813	Fakai	Fakai	Agbegbe Ijoba Ibile Fakai,Agbègbè Ìjọba Ìbílẹ̀ Fakai,Fakai,Fakai Local Government Area,Fakay,faky,فاکی	11.52227	4.88239	A	ADM2	NG		40	509			0		262	Africa/Lagos	2015-03-17
+8631814	Sakaba	Sakaba	Agbegbe Ijoba Ibile Sakaba,Agbègbè Ìjọba Ìbílẹ̀ Sakaba,Sakaba,Sakaba Local Government Area	11.16231	5.54128	A	ADM2	NG		40	516			0		388	Africa/Lagos	2015-03-17
+8632704	Wasagu-Danko	Wasagu-Danko	Danko Wasagu,Wasagu/Danko,Wasagu/Danko Local Government Area	11.42938	5.6749	A	ADM2	NG		40	519			0		421	Africa/Lagos	2015-03-17
+8632705	Aleiro	Aleiro	Agbegbe Ijoba Ibile Aleiro,Agbègbè Ìjọba Ìbílẹ̀ Aleiro,Aleiro,Aleiro Local Government Area,Aleyro,alyrw,الیرو	12.29654	4.42793	A	ADM2	NG		40	501			0		258	Africa/Lagos	2015-03-16
+8632706	Birnin Kebbi	Birnin Kebbi	Birnin Kebbi,Birnin Kebbi Local Government Area,Birnin-Kebbi	12.45832	4.26267	A	ADM2	NG		40	506			0		221	Africa/Lagos	2015-03-17
+8632707	Argungu	Argungu	Argungu,Argungu Local Government Area	12.68795	4.40358	A	ADM2	NG		40	503			0		210	Africa/Lagos	2015-03-17
+8632708	Augie	Augie	Augie,Augie Local Government Area	12.91932	4.56362	A	ADM2	NG		40	504			0		243	Africa/Lagos	2014-09-03
+8632709	Arewa Dandi	Arewa Dandi	Agbegbe Ijoba Ibile Arewa-Dandi,Agbègbè Ìjọba Ìbílẹ̀ Arewa-Dandi,Arewa Dandi,Arewa-Dandi,Arewa-Dandi Local Government Area	12.69839	4.0313	A	ADM2	NG		40	502			0		270	Africa/Lagos	2015-03-17
+8632710	Gudu	Gudu	Gudu,Gudu Local Government Area	13.43162	4.49535	A	ADM2	NG		51	606			0		276	Africa/Lagos	2014-09-03
+8632711	Binji	Binji	Binji,Binji Local Government Area	13.20872	4.83289	A	ADM2	NG		51	601			0		253	Africa/Lagos	2015-03-18
+8632712	Tangaza	Tangaza	Tangaza,Tangaza Local Government Area	13.49687	4.96286	A	ADM2	NG		51	619			0		294	Africa/Lagos	2015-03-18
+8632713	Gwadabawa	Gwadabawa	Gwadabawa,Gwadabawa Local Government Area	13.44757	5.3106	A	ADM2	NG		51	607			0		282	Africa/Lagos	2015-03-18
+8632714	Gada	Gada	Gada,Gada Local Government Area	13.74739	5.65521	A	ADM2	NG		51	604			0		332	Africa/Lagos	2014-09-25
+8632715	Sabon Birni	Sabon Birni	Sabon Birni,Sabon Birni Local Government Area,Sabon-Birni	13.4847	6.26409	A	ADM2	NG		51	613			0		322	Africa/Lagos	2015-03-18
+8632716	Goronyo	Goronyo	Goronyo,Goronyo Local Government Area	13.39076	5.80049	A	ADM2	NG		51	605			0		344	Africa/Lagos	2015-03-18
+8632717	Isa	Isa	Isa,Isa Local Government Area	13.22201	6.33803	A	ADM2	NG		51	609			0		321	Africa/Lagos	2015-03-18
+8632718	Wurno	Wurno	Wurno,Wurno Local Government Area	13.25681	5.48649	A	ADM2	NG		51	622			0		289	Africa/Lagos	2015-03-18
+8632719	Kware	Kware	Kware,Kware Local Government Area	13.16982	5.28817	A	ADM2	NG		51	611			0		250	Africa/Lagos	2015-03-18
+8632720	Rabah	Rabah	Rabah,Rabah Local Government Area	13.01326	5.71959	A	ADM2	NG		51	612			0		271	Africa/Lagos	2015-03-18
+8632721	Silame	Silame	Silame,Silame Local Government Area	12.99239	4.81935	A	ADM2	NG		51	615			0		251	Africa/Lagos	2015-03-18
+8633493	Dange-Shuni	Dange-Shuni	Dange-Shuni,Dange-Shuni Local Government Area	12.84626	5.41777	A	ADM2	NG		51	603			0		345	Africa/Lagos	2015-03-18
+8633494	Tureta	Tureta	Tureta,Tureta Local Government Area	12.48616	5.49432	A	ADM2	NG		51	620			0		293	Africa/Lagos	2015-03-18
+8633495	Shagari	Shagari	Shagari,Shagari Local Government Area	12.55983	5.13013	A	ADM2	NG		51	614			0		287	Africa/Lagos	2015-03-18
+8633496	Tambuwal	Tambuwal	Tambuwal,Tambuwal Local Government Area	12.36609	4.84882	A	ADM2	NG		51	618			0		279	Africa/Lagos	2015-03-18
+8633497	Kebbe	Kebbe	Kebbe,Kebbe Local Government Area	11.93616	4.75328	A	ADM2	NG		51	610			0		317	Africa/Lagos	2015-03-18
+8633498	Shinkafi	Shinkafi	Agbegbe Ijoba Ibile Shinkafi,Agbègbè Ìjọba Ìbílẹ̀ Shinkafi,Shinkafi,Shinkafi Local Government Area	13.03762	6.51199	A	ADM2	NG		57	811			0		331	Africa/Lagos	2014-09-03
+8633499	Maradun	Maradun	Agbegbe Ijoba Ibile Maradun,Agbègbè Ìjọba Ìbílẹ̀ Maradun,Maradun,Maradun Local Government Area	12.77787	6.24496	A	ADM2	NG		57	809			0		345	Africa/Lagos	2015-03-19
+8633500	Zurmi	Zurmi	Zurmi,Zurmi Local Government Area	12.81147	6.7938	A	ADM2	NG		57	814			0		411	Africa/Lagos	2015-03-19
+8633501	Kaura Namoda	Kaura Namoda	Kaura-Namoda,Kauran Namoda,Kauran Namoda Local Government Area	12.56195	6.57617	A	ADM2	NG		57	808			0		399	Africa/Lagos	2015-03-19
+8633502	Birnin Magaji-Kiyaw	Birnin Magaji-Kiyaw	Birnin Magaji/Kiyaw,Birnin Magaji/Kiyaw Local Government Area,Birnin-Magaji	12.42527	6.89122	A	ADM2	NG		57	803			0		466	Africa/Lagos	2014-09-03
+8633503	Bakura	Bakura	Agbegbe Ijoba Ibile Bakura,Agbègbè Ìjọba Ìbílẹ̀ Bakura,Bakura,Bakura Local Government Area	12.61663	5.85789	A	ADM2	NG		57	802			0		309	Africa/Lagos	2015-03-19
+8633504	Talata Mafara	Talata Mafara	Agbegbe Ijoba Ibile Talata Mafara,Agbègbè Ìjọba Ìbílẹ̀ Talata Mafara,Talata Mafara,Talata Mafara Local Government Area,Talata-Mafara,ta la ta ma fa la,塔拉塔马法拉	12.38352	6.05447	A	ADM2	NG		57	812			0		402	Africa/Lagos	2014-09-03
+8633505	Maru	Maru	Agbegbe Ijoba Ibile Maru,Agbègbè Ìjọba Ìbílẹ̀ Maru,Maru,Maru Local Government Area	11.53807	6.27888	A	ADM2	NG		57	810			0		439	Africa/Lagos	2015-03-19
+8633506	Bukkuyum	Bukkuyum	Agbegbe Ijoba Ibile Bukkuyum,Agbègbè Ìjọba Ìbílẹ̀ Bukkuyum,Bukkuyum,Bukkuyum Local Government Area,Bukkuyuum	11.97471	5.58651	A	ADM2	NG		57	804			0		337	Africa/Lagos	2014-09-03
+8633546	Anka	Anka	Agbegbe Ijoba Ibile Anka,Agbègbè Ìjọba Ìbílẹ̀ Anka,Anka,Anka Local Government Area,an ka (nai ji li ya),an ka (ni ri li ya),安卡（奈及利亞）,安卡（尼日利亚）	11.96079	5.98663	A	ADM2	NG		57	801			0		421	Africa/Lagos	2015-03-19
+8633547	Bungudu	Bungudu	Agbegbe Ijoba Ibile Bungudu,Agbègbè Ìjọba Ìbílẹ̀ Bungudu,Bungudu,Bungudu Local Government Area,ben gu du,本古杜	12.18868	6.48937	A	ADM2	NG		57	805			0		445	Africa/Lagos	2015-03-19
+8633548	Gusau	Gusau	Gusau,Gusau Local Government Area	11.87555	6.61984	A	ADM2	NG		57	807			0		540	Africa/Lagos	2014-09-03
+8633549	Tsafe	Tsafe	Tsafe,Tsafe Local Government Area	11.88251	6.8947	A	ADM2	NG		57	813			0		574	Africa/Lagos	2014-09-03
+8633550	Jibia	Jibia	Agbegbe Ijoba Ibile Jibia,Agbègbè Ìjọba Ìbílẹ̀ Jibia,Jibia,Jibia Local Government Area	13.04033	7.28913	A	ADM2	NG		24	416			0		433	Africa/Lagos	2015-03-16
+8633551	Batsari	Batsari	Agbegbe Ijoba Ibile Batsari,Agbègbè Ìjọba Ìbílẹ̀ Batsari,Batsari,Batsari Local Government Area,ba te sa li,巴特萨里	12.77931	7.2345	A	ADM2	NG		24	403			0		485	Africa/Lagos	2014-09-03
+8633552	Katsina	Katsina	Katsina,Katsina Local Government Area	13.00564	7.61433	A	ADM2	NG		24	421			0		496	Africa/Lagos	2014-09-03
+8633553	Kaita	Kaita	Agbegbe Ijoba Ibile Kaita,Agbègbè Ìjọba Ìbílẹ̀ Kaita,Kaita,Kaita Local Government Area	13.17156	7.72798	A	ADM2	NG		24	418			0		446	Africa/Lagos	2015-03-16
+8633554	Batagarawa	Batagarawa	Batagarawa,Batagarawa Local Government Area	12.89377	7.60653	A	ADM2	NG		24	402			0		534	Africa/Lagos	2015-03-16
+8633555	Rimi	Rimi	Agbegbe Ijoba Ibile Rimi,Agbègbè Ìjọba Ìbílẹ̀ Rimi,Rimi,Rimi Local Government Area	12.8393	7.69318	A	ADM2	NG		24	430			0		537	Africa/Lagos	2015-03-16
+8633556	Kurfi	Kurfi	Kurfi,Kurfi Local Government Area	12.70993	7.46257	A	ADM2	NG		24	422			0		494	Africa/Lagos	2015-03-16
+8633557	Bindawa	Bindawa	Bindawa,Bindawa Local Government Area	12.7108	7.83199	A	ADM2	NG		24	405			0		516	Africa/Lagos	2015-03-16
+8633558	Mani	Mani	Agbegbe Ijoba Ibile Mani,Agbègbè Ìjọba Ìbílẹ̀ Mani,Mani,Mani Local Government Area	12.87816	7.92565	A	ADM2	NG		24	426			0		487	Africa/Lagos	2015-03-16
+8633559	Mashi	Mashi	Mashi,Mashi Local Government Area	13.13225	7.99329	A	ADM2	NG		24	427			0		483	Africa/Lagos	2015-03-16
+8633560	Daura	Daura	Daura,Daura Local Government Area	12.98195	8.2516	A	ADM2	NG		24	410			0		463	Africa/Lagos	2015-03-16
+8633561	Dutsi	Dutsi	Agbegbe Ijoba Ibile Dutsi,Agbègbè Ìjọba Ìbílẹ̀ Dutsi,Dutsi,Dutsi Local Government Area,du qi,杜齊,杜齐	12.91285	8.14852	A	ADM2	NG		24	411			0		493	Africa/Lagos	2015-03-16
+8633562	Sandamu	Sandamu	Agbegbe Ijoba Ibile Sandamu,Agbègbè Ìjọba Ìbílẹ̀ Sandamu,Sandamu,Sandamu Local Government Area	12.89724	8.36358	A	ADM2	NG		24	433			0		479	Africa/Lagos	2014-09-03
+8633563	Zango	Zango	Zango,Zango Local Government Area	12.93106	8.53268	A	ADM2	NG		24	434			0		446	Africa/Lagos	2014-09-03
+8633564	Baure	Baure	Agbegbe Ijoba Ibile Baure,Agbègbè Ìjọba Ìbílẹ̀ Baure,Baure,Baure Local Government Area,Bawre	12.78885	8.78914	A	ADM2	NG		24	404			0		398	Africa/Lagos	2015-03-16
+8633642	Ingawa	Ingawa	Agbegbe Ijoba Ibile Ingawa,Agbègbè Ìjọba Ìbílẹ̀ Ingawa,Ingawa,Ingawa Local Government Area	12.62408	8.05139	A	ADM2	NG		24	415			0		513	Africa/Lagos	2014-09-03
+8633643	Kusada	Kusada	Agbegbe Ijoba Ibile Kusada,Agbègbè Ìjọba Ìbílẹ̀ Kusada,Kusada,Kusada Local Government Area	12.45758	7.97855	A	ADM2	NG		24	423			0		534	Africa/Lagos	2014-09-03
+8633644	Charanchi	Charanchi	Agbegbe Ijoba Ibile Charanchi,Agbègbè Ìjọba Ìbílẹ̀ Charanchi,Caranci,Charanchi,Charanchi Local Government Area	12.60153	7.6837	A	ADM2	NG		24	406			0		534	Africa/Lagos	2014-09-03
+8633645	Dutsin Ma	Dutsin Ma	Dutsinma,Dutsinma Local Government Area	12.45411	7.52241	A	ADM2	NG		24	412			0		530	Africa/Lagos	2015-03-16
+8633646	Safana	Safana	Safana,Safana Local Government Area	12.49487	7.25271	A	ADM2	NG		24	432			0		494	Africa/Lagos	2015-03-16
+8633647	Dan Musa	Dan Musa	Agbegbe Ijoba Ibile Dan Musa,Agbègbè Ìjọba Ìbílẹ̀ Dan Musa,Dan Musa,Dan Musa Local Government Area,Dan-Musa,Ɗan Muusa	12.23217	7.32961	A	ADM2	NG		24	409			0		490	Africa/Lagos	2014-09-03
+8633649	Matazu	Matazu	Agbegbe Ijoba Ibile Matazu,Agbègbè Ìjọba Ìbílẹ̀ Matazu,Matazu,Matazu Local Government Area,Матазу	12.25899	7.6178	A	ADM2	NG		24	428			0		549	Africa/Lagos	2014-09-03
+8633651	Musawa	Musawa	Agbegbe Ijoba Ibile Musawa,Agbègbè Ìjọba Ìbílẹ̀ Musawa,Musawa,Musawa Local Government Area	12.08469	7.68891	A	ADM2	NG		24	429			0		603	Africa/Lagos	2014-09-03
+8633652	Kankara	Kankara	Agbegbe Ijoba Ibile Kankara,Agbègbè Ìjọba Ìbílẹ̀ Kankara,Kankara,Kankara Local Government Area,kan ka la,kankara,カンカラ,坎卡拉	11.97384	7.36266	A	ADM2	NG		24	419			0		569	Africa/Lagos	2015-03-16
+8633653	Malumfashi	Malumfashi	Agbegbe Ijoba Ibile Malumfashi,Agbègbè Ìjọba Ìbílẹ̀ Malumfashi,Malumfashi,Malumfashi Local Government Area	11.85922	7.65595	A	ADM2	NG		24	425			0		617	Africa/Lagos	2014-09-03
+8633654	Kafur	Kafur	Agbegbe Ijoba Ibile Kafur,Agbègbè Ìjọba Ìbílẹ̀ Kafur,Kafur,Kafur Local Government Area	11.67376	7.68971	A	ADM2	NG		24	417			0		601	Africa/Lagos	2015-03-16
+8633656	Bakori	Bakori	Agbegbe Ijoba Ibile Bakori,Agbègbè Ìjọba Ìbílẹ̀ Bakori,Bakori,Bakori Local Government Area	11.63984	7.42876	A	ADM2	NG		24	401			0		648	Africa/Lagos	2014-09-03
+8633658	Faskari	Faskari	Faskari,Faskari Local Government Area	11.6755	7.08606	A	ADM2	NG		24	413			0		614	Africa/Lagos	2015-03-16
+8633670	Dandume	Dandume	Agbegbe Ijoba Ibile Dandume,Agbègbè Ìjọba Ìbílẹ̀ Dandume,Dandume,Dandume Local Government Area,Ɗanduume,Дандуме	11.41282	7.19044	A	ADM2	NG		24	407			0		692	Africa/Lagos	2014-09-03
+8633671	Funtua	Funtua	Funtua,Funtua Local Government Area,feng tu a,funtoua,フントゥア,丰图阿,豐圖阿	11.47196	7.30699	A	ADM2	NG		24	414			0		699	Africa/Lagos	2014-09-03
+8633691	Danja	Danja	Agbegbe Ijoba Ibile Danja,Agbègbè Ìjọba Ìbílẹ̀ Danja,Danja,Danja Local Government Area	11.39542	7.5488	A	ADM2	NG		24	408			0		678	Africa/Lagos	2015-03-16
+8633692	Dambatta	Dambatta	Agbegbe Ijoba Ibile Dambatta,Agbègbè Ìjọba Ìbílẹ̀ Dambatta,Dambata,Dambatta,Dambatta Local Government Area,Ɗambatta	12.42005	8.63432	A	ADM2	NG		29	20023			0		418	Africa/Lagos	2014-09-03
+8633693	Gabasawa	Gabasawa	Agbegbe Ijoba Ibile Gabasawa,Agbègbè Ìjọba Ìbílẹ̀ Gabasawa,Gabasawa,Gabasawa Local Government Area	12.14519	8.8622	A	ADM2	NG		29	20016			0		430	Africa/Lagos	2014-09-03
+8633694	Bichi	Bichi	Agbegbe Ijoba Ibile Bichi,Agbègbè Ìjọba Ìbílẹ̀ Bichi,Bichi,Bichi Local Government Area	12.23391	8.27943	A	ADM2	NG		29	20031			0		511	Africa/Lagos	2014-09-03
+8633695	Tsanyawa	Tsanyawa	Agbegbe Ijoba Ibile Tsanyawa,Agbègbè Ìjọba Ìbílẹ̀ Tsanyawa,Tsanyawa,Tsanyawa Local Government Area	12.26175	8.00806	A	ADM2	NG		29	20008			0		555	Africa/Lagos	2014-09-03
+8633696	Bagwai	Bagwai	Agbegbe Ijoba Ibile Bagwai,Agbègbè Ìjọba Ìbílẹ̀ Bagwai,Bagwai,Bagwai Local Government Area,baguwai,Ɓagwai,バグワイ	12.09996	8.14374	A	ADM2	NG		29	20038			0		530	Africa/Lagos	2014-09-03
+8633697	Gwarzo	Gwarzo	Agbegbe Ijoba Ibile Gwarzo,Agbègbè Ìjọba Ìbílẹ̀ Gwarzo,Guarzo,Gwarzo,Gwarzo Local Government Area	11.88425	7.95587	A	ADM2	NG		29	20017			0		584	Africa/Lagos	2014-09-03
+8633698	Kabo	Kabo	Kabo,Kabo Local Government Area	11.87903	8.19419	A	ADM2	NG		29	20026			0		512	Africa/Lagos	2014-09-03
+8633699	Dawakin Tofa	Dawakin Tofa	Agbegbe Ijoba Ibile Dawakin Tofa,Agbègbè Ìjọba Ìbílẹ̀ Dawakin Tofa,Dawakin Tofa,Dawakin Tofa Local Government Area,Dawakin Toofa	12.12606	8.3986	A	ADM2	NG		29	20021			0		503	Africa/Lagos	2014-09-03
+8633700	Gezawa	Gezawa	Agbegbe Ijoba Ibile Gezawa,Agbègbè Ìjọba Ìbílẹ̀ Gezawa,Gezaua,Gezawa,Gezawa Local Government Area	12.05125	8.73739	A	ADM2	NG		29	20010			0		461	Africa/Lagos	2014-09-03
+8633717	Madobi	Madobi	Agbegbe Ijoba Ibile Madobi,Agbègbè Ìjọba Ìbílẹ̀ Madobi,Madboi,Madobi,Madobi Local Government Area,Мадоби,میڈوبی	11.82423	8.38468	A	ADM2	NG		29	20036			0		469	Africa/Lagos	2014-09-03
+8633718	Ajingi	Ajingi	Agbegbe Ijoba Ibile Ajingi,Agbègbè Ìjọba Ìbílẹ̀ Ajingi,Ajingi,Ajingi Local Government Area,ajyngy,ajynjy,ajynqy,آجينجي,اجینقی,اجینگی	11.95905	9.06748	A	ADM2	NG		29	20004			0		423	Africa/Lagos	2014-09-03
+8633719	Gaya	Gaya	Agbegbe Ijoba Ibile Gaya,Agbègbè Ìjọba Ìbílẹ̀ Gaya,Gaya,Gaya Local Government Area	11.78161	9.02854	A	ADM2	NG		29	20007			0		427	Africa/Lagos	2016-09-14
+8633720	Albasu	Albasu	Agbegbe Ijoba Ibile Albasu,Agbègbè Ìjọba Ìbílẹ̀ Albasu,Albasu,Albasu Local Government Area,albasw,ألباسو,الباسو	11.66237	9.10294	A	ADM2	NG		29	20009			0		429	Africa/Lagos	2014-09-03
+8633721	Karaye	Karaye	Agbegbe Ijoba Ibile Karaye,Agbègbè Ìjọba Ìbílẹ̀ Karaye,Karaye,Karaye Local Government Area	11.76248	8.00979	A	ADM2	NG		29	20041			0		521	Africa/Lagos	2014-09-03
+8633722	Rano	Rano	Rano,Rano Local Government Area,rano,ラノ	11.47892	8.51689	A	ADM2	NG		29	20014			0		542	Africa/Lagos	2014-09-03
+8633723	Kibiya	Kibiya	Agbegbe Ijoba Ibile Kibiya,Agbègbè Ìjọba Ìbílẹ̀ Kibiya,Kibiya,Kibiya Local Government Area	11.49719	8.68563	A	ADM2	NG		29	20033			0		521	Africa/Lagos	2014-09-03
+8633724	Garko	Garko	Garko,Garko Local Government Area	11.57286	8.83524	A	ADM2	NG		29	20006			0		490	Africa/Lagos	2014-09-03
+8633725	Sumaila	Sumaila	Agbegbe Ijoba Ibile Sumaila,Agbègbè Ìjọba Ìbílẹ̀ Sumaila,Sumaila,Sumaila Local Government Area,smylt,سميلة	11.32671	8.91439	A	ADM2	NG		29	20011			0		544	Africa/Lagos	2014-09-03
+8633726	Tudun Wada	Tudun Wada	Tudun Wada,Tudun Wada Local Government Area,Tudun-Wada	11.28272	8.59928	A	ADM2	NG		29	20029			0		529	Africa/Lagos	2014-09-03
+8633727	Doguwa	Doguwa	Agbegbe Ijoba Ibile Doguwa,Agbègbè Ìjọba Ìbílẹ̀ Doguwa,Dogua,Doguwa,Doguwa Local Government Area,Dooguuwa	10.87963	8.66389	A	ADM2	NG		29	20020			0		662	Africa/Lagos	2014-09-03
+8633817	Tarauni	Tarauni	Agbegbe Ijoba Ibile Tarauni,Agbègbè Ìjọba Ìbílẹ̀ Tarauni,Taaraawni,Tarauni,Tarauni Local Government Area	11.95862	8.54429	A	ADM2	NG		29	20001			0		473	Africa/Lagos	2014-09-03
+8633818	Nassarawa	Nassarawa	Nasarawa,Nassarawa,Nassarawa Local Government Area	12.00507	8.55492	A	ADM2	NG		29	20037			0		472	Africa/Lagos	2014-09-26
+8633819	Dala	Dala	Dala,Dala Local Government Area	12.01397	8.50719	A	ADM2	NG		29	20024			0		486	Africa/Lagos	2014-09-25
+8633820	Gwale	Gwale	Agbegbe Ijoba Ibile Gwale,Agbègbè Ìjọba Ìbílẹ̀ Gwale,Gwale,Gwale Local Government Area	11.98211	8.49819	A	ADM2	NG		29	20012			0		488	Africa/Lagos	2014-09-03
+8633821	Kano Municipal	Kano Municipal	Agbegbe Ijoba Ibile Kano Municipal,Agbègbè Ìjọba Ìbílẹ̀ Kánò Municipal,Kano Municipal,Kano Municipal Local Government Area,Kano Ville,Municipal,bldyt kanw,بلدية كانو	11.98157	8.51898	A	ADM2	NG		29	20043			0		485	Africa/Lagos	2016-06-23
+8634237	Gwiwa	Gwiwa	Agbegbe Ijoba Ibile Gwiwa,Agbègbè Ìjọba Ìbílẹ̀ Gwiwa,Gwiwa,Gwiwa Local Government Area	12.75406	8.28117	A	ADM2	NG		39	18009			0		487	Africa/Lagos	2015-03-16
+8634238	Yankwashi	Yankwashi	Agbegbe Ijoba Ibile Yankwashi,Agbègbè Ìjọba Ìbílẹ̀ Yankwashi,Yankwashi,Yankwashi Local Government Area	12.76971	8.5369	A	ADM2	NG		39	18019			0		438	Africa/Lagos	2015-03-16
+8634239	Roni	Roni	Agbegbe Ijoba Ibile Roni,Agbègbè Ìjọba Ìbílẹ̀ Roni,Roni,Roni Local Government Area,reani,റോണി	12.54925	8.33144	A	ADM2	NG		39	18015			0		470	Africa/Lagos	2014-09-03
+8634240	Kazaure	Kazaure	Kazaure,Kazaure Local Government Area	12.59681	8.51353	A	ADM2	NG		39	18010			0		413	Africa/Lagos	2015-03-16
+8634241	Babura	Babura	Agbegbe Ijoba Ibile Babura,Agbègbè Ìjọba Ìbílẹ̀ Babura,Babura,Babura Local Government Area,ba bu la,巴布拉	12.61402	8.85872	A	ADM2	NG		39	18004			0		392	Africa/Lagos	2015-03-15
+8634242	Garki	Garki	Garki,Garki Local Government Area	12.42962	9.06052	A	ADM2	NG		39	18024			0		379	Africa/Lagos	2015-03-15
+8634243	Sule Tankakar	Sule Tankakar	Sule Tankarkar,Sule Tankarkar Local Government Area,Sule-Tankar-Kar	12.65577	9.18751	A	ADM2	NG		39	18030			0		377	Africa/Lagos	2015-03-16
+8634244	Gumel	Gumel	Gumel,Gumel Local Government Area	12.63837	9.40148	A	ADM2	NG		39	18006			0		368	Africa/Lagos	2015-03-15
+8634245	Maigatari	Maigatari	Agbegbe Ijoba Ibile Maigatari,Agbègbè Ìjọba Ìbílẹ̀ Maigatari,Maigatari,Maigatari Local Government Area	12.72535	9.58588	A	ADM2	NG		39	18023			0		362	Africa/Lagos	2015-03-16
+8634246	Gagarawa	Gagarawa	Agbegbe Ijoba Ibile Gagarawa,Agbègbè Ìjọba Ìbílẹ̀ Gagarawa,Gagarawa,Gagarawa Local Government Area	12.51138	9.53717	A	ADM2	NG		39	18016			0		369	Africa/Lagos	2015-03-15
+8634247	Ringim	Ringim	Agbegbe Ijoba Ibile Ringim,Agbègbè Ìjọba Ìbílẹ̀ Ringim,Ringim,Ringim Local Government Area	12.18607	9.10401	A	ADM2	NG		39	18020			0		389	Africa/Lagos	2015-03-16
+8634248	Taura	Taura	Taura,Taura Local Government Area	12.25566	9.38409	A	ADM2	NG		39	18002			0		380	Africa/Lagos	2015-03-16
+8634249	Kaugama	Kaugama	Agbegbe Ijoba Ibile Kaugama,Agbègbè Ìjọba Ìbílẹ̀ Kaugama,Kaugama,Kaugama Local Government Area	12.50268	9.7668	A	ADM2	NG		39	18001			0		364	Africa/Lagos	2014-09-03
+8634250	Miga	Miga	Miga,Miga Local Government Area	12.2313	9.69026	A	ADM2	NG		39	18014			0		370	Africa/Lagos	2014-09-03
+8634251	Jahun	Jahun	Agbegbe Ijoba Ibile Jahun,Agbègbè Ìjọba Ìbílẹ̀ Jahun,Jahun,Jahun Local Government Area,جہن	12.07996	9.55457	A	ADM2	NG		39	18026			0		376	Africa/Lagos	2014-09-03
+8634252	Dutse	Dutse	Dutse,Dutse Local Government Area	11.80331	9.30708	A	ADM2	NG		39	18012			0		413	Africa/Lagos	2015-03-15
+8634253	Kiyawa	Kiyawa	Kiyawa,Kiyawa Local Government Area	11.84147	9.53697	A	ADM2	NG		39	18025			0		397	Africa/Lagos	2015-03-16
+8634254	Kafin Hausa	Kafin Hausa	Kafin Hausa,Kafin Hausa Local Government Area,Kafin-Hausa	12.14958	10.00247	A	ADM2	NG		39	18027			0		366	Africa/Lagos	2015-03-16
+8634255	Auyo	Auyo	Auyo,Auyo Local Government Area	12.37743	9.98773	A	ADM2	NG		39	18013			0		362	Africa/Lagos	2015-03-15
+8634256	Hadejia	Hadejia	Hadejia,Hadejia Local Government Area	12.43487	10.05266	A	ADM2	NG		39	18011			0		359	Africa/Lagos	2015-03-16
+8634257	Guri	Guri	Guri,Guri Local Government Area	12.65751	10.46961	A	ADM2	NG		39	18005			0		347	Africa/Lagos	2015-03-15
+8634258	Kiri Kasama	Kiri Kasama	Agbegbe Ijoba Ibile Kiri Kasama,Agbègbè Ìjọba Ìbílẹ̀ Kiri Kasama,Kiri Kasama,Kiri Kasama Local Government Area,Kiri-Kasamma	12.56531	10.25216	A	ADM2	NG		39	18007			0		354	Africa/Lagos	2015-03-16
+8634259	Biriniwa	Biriniwa	Biriniwa,Biriniwa Local Government Area	12.83321	10.07471	A	ADM2	NG		39	18021			0		353	Africa/Lagos	2015-03-15
+8634260	Malam Maduri	Malam Maduri	Malam Madori,Malam Madori Local Government Area,Malam-Maduri	12.56009	9.98599	A	ADM2	NG		39	18017			0		359	Africa/Lagos	2015-03-16
+8634261	Birnin Kudu	Birnin Kudu	Birnin Kudu,Birnin Kudu Local Government Area,Birnin-Kudu	11.49023	9.49368	A	ADM2	NG		39	18022			0		449	Africa/Lagos	2015-03-15
+8634262	Buji	Buji	Buji,Buji Local Government Area	11.57914	9.72012	A	ADM2	NG		39	18018			0		419	Africa/Lagos	2015-03-15
+8634263	Gwaram	Gwaram	Agbegbe Ijoba Ibile Gwaram,Agbègbè Ìjọba Ìbílẹ̀ Gwaram,Gwaram,Gwaram Local Government Area	11.1858	9.9686	A	ADM2	NG		39	18008			0		475	Africa/Lagos	2015-03-16
+8634264	Ningi	Ningi	Ningi,Ningi Local Government Area,ningi,ニンギ	11.06228	9.20491	A	ADM2	NG		46	5015			0		761	Africa/Lagos	2015-03-14
+8634265	Warji	Warji	Agbegbe Ijoba Ibile Warji,Agbègbè Ìjọba Ìbílẹ̀ Warji,Warji,Warji Local Government Area	11.15796	9.73897	A	ADM2	NG		46	5019			0		453	Africa/Lagos	2014-09-03
+8634266	Toro	Toro	Agbegbe Ijoba Ibile Toro,Agbègbè Ìjọba Ìbílẹ̀ Toro,Toro,Toro Local Government Area,Toto	10.44646	9.22056	A	ADM2	NG		46	5018			0		692	Africa/Lagos	2015-03-14
+8634267	Dass	Dass	Agbegbe Ijoba Ibile Dass,Agbègbè Ìjọba Ìbílẹ̀ Dass,Dass,Dass Local Government Area,dasu,ダス	10.01852	9.47803	A	ADM2	NG		46	5006			0		689	Africa/Lagos	2015-03-14
+8634288	Ganjuwa	Ganjuwa	Gandzhuva,Ganjuwa,Ganjuwa Local Government Area,Ганджува	10.74916	9.99991	A	ADM2	NG		46	5008			0		495	Africa/Lagos	2015-03-14
+8634289	Giade	Giade	Agbegbe Ijoba Ibile Giade,Agbègbè Ìjọba Ìbílẹ̀ Giade,Giade,Giade Local Government Area,Giaɗe	11.40646	10.28336	A	ADM2	NG		46	5009			0		453	Africa/Lagos	2015-03-14
+8634290	Shira	Shira	Agbegbe Ijoba Ibile Shira,Agbègbè Ìjọba Ìbílẹ̀ Shira,Shira,Shira Local Government Area	11.50415	10.01731	A	ADM2	NG		46	5016			0		413	Africa/Lagos	2015-03-14
+8634291	Damban	Damban	Agbegbe Ijoba Ibile Damban,Agbègbè Ìjọba Ìbílẹ̀ Damban,Dambam,Damban,Damban Local Government Area	11.62592	10.78622	A	ADM2	NG		46	5004			0		427	Africa/Lagos	2015-03-14
+8634293	Jama'Are	Jama'Are	Jama'are,Jama'are Local Government Area,Jama’are,Jama’are Local Government Area	11.7216	9.91293	A	ADM2	NG		46	5011			0		395	Africa/Lagos	2015-03-14
+8634300	Katagum	Katagum	Katagum,Katagum Local Government Area	11.7042	10.32696	A	ADM2	NG		46	5012			0		399	Africa/Lagos	2015-03-14
+8634303	Itas/Gadau	Itas/Gadau	Agbegbe Ijoba Ibile Itas/Gadau,Agbègbè Ìjọba Ìbílẹ̀ Itas/Gadau,Itas Gadau,Itas/Gadau,Itas/Gadau Local Government Area	11.89382	10.04862	A	ADM2	NG		46	5010			0		380	Africa/Lagos	2015-03-14
+8634304	Zaki	Zaki	Agbegbe Ijoba Ibile Zaki,Agbègbè Ìjọba Ìbílẹ̀ Zaki,Zaki,Zaki Local Government Area,Zakki	12.29919	10.30889	A	ADM2	NG		46	5020			0		357	Africa/Lagos	2015-03-14
+8634305	Gamawa	Gamawa	Agbegbe Ijoba Ibile Gamawa,Agbègbè Ìjọba Ìbílẹ̀ Gamawa,Gamawa,Gamawa Local Government Area	12.073	10.58616	A	ADM2	NG		46	5007			0		370	Africa/Lagos	2014-09-03
+8634310	Kirfi	Kirfi	Agbegbe Ijoba Ibile Kirfi,Agbègbè Ìjọba Ìbílẹ̀ Kirfi,Kirfi,Kirfi Local Government Area	10.39427	10.53223	A	ADM2	NG		46	5013			0		426	Africa/Lagos	2014-09-03
+8634313	Alkaleri	Alkaleri	Agbegbe Ijoba Ibile Alkaleri,Agbègbè Ìjọba Ìbílẹ̀ Alkaleri,Alkaleri,Alkaleri Local Government Area,alkalry,Алкалери,الکالری	9.88979	10.48004	A	ADM2	NG		46	5001			0		345	Africa/Lagos	2014-09-03
+8634314	Tafawa-Balewa	Tafawa-Balewa	Tafawa-Balewa,Tafawa-Balewa Local Government Area	9.82542	9.5824	A	ADM2	NG		46	5017			0		630	Africa/Lagos	2015-03-14
+8634505	Kanam	Kanam	Kanam,Kanam Local Government Area	9.54882	10.09733	A	ADM2	NG		49	32007			0		487	Africa/Lagos	2015-03-18
+8634506	Kanke	Kanke	Agbegbe Ijoba Ibile Kanke,Agbègbè Ìjọba Ìbílẹ̀ Kanke,Kanke,Kanke Local Government Area,kankh nyjryh,کانکه نیجریه	9.39313	9.63285	A	ADM2	NG		49	32008			0		583	Africa/Lagos	2015-03-18
+8634507	Langtang North	Langtang North	Agbegbe Ijoba Ibile Ariwa Langtang,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Langtang,Lang-Tang North,Langtang Nord,Langtang North,Langtang North Local Government Area,Langtang ta Arewa,Pak Langtang,لانگٹانگ نارتھ	9.05651	9.82247	A	ADM2	NG		49	32009			0		230	Africa/Lagos	2015-03-18
+8634508	Wase	Wase	Wase,Wase Local Government Area	9.08261	10.20519	A	ADM2	NG		49	32017			0		211	Africa/Lagos	2015-03-18
+8634509	Mangu	Mangu	Agbegbe Ijoba Ibile Mangu,Agbègbè Ìjọba Ìbílẹ̀ Mangu,Mangu,Mangu Local Government Area,manghw_,mangu,مانغو_,만구	9.39052	9.17968	A	ADM2	NG		49	32011			0		1163	Africa/Lagos	2015-03-18
+8634510	Bokkos	Bokkos	Agbegbe Ijoba Ibile Bokkos,Agbègbè Ìjọba Ìbílẹ̀ Bokkos,Bokkos,Bokkos Local Government Area,bokkosu,ボッコス	9.22692	8.92677	A	ADM2	NG		49	32003			0		1317	Africa/Lagos	2014-09-03
+8634511	Barkin Ladi	Barkin Ladi	Agbegbe Ijoba Ibile Barkin Ladi,Agbègbè Ìjọba Ìbílẹ̀ Barkin Ladi,B'ladi,Barkin Ladi,Barkin Ladi Local Government Area,B’ladi,バーキン・ラディ	9.54969	8.9344	A	ADM2	NG		49	32001			0		1302	Africa/Lagos	2015-03-18
+8634512	Riyom	Riyom	Agbegbe Ijoba Ibile Riyom,Agbègbè Ìjọba Ìbílẹ̀ Riyom,Riyom,Riyom Local Government Area	9.56796	8.68476	A	ADM2	NG		49	32015			0		1077	Africa/Lagos	2015-03-18
+8634513	Jos South	Jos South	Agbegbe Ijoba Ibile Guusu Jos,Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Jos,Jos South,Jos South Local Government Area,Jos Sud,Jos ta Kudu,Lam Jos,Lâm Jos	9.75497	8.83524	A	ADM2	NG		49	32006			0		1267	Africa/Lagos	2014-09-03
+8634514	Jos North	Jos North	Agbegbe Ijoba Ibile Ariwa Jos,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Jos,Jos Nord,Jos North,Jos North Local Government Area,Jos ta Arewa,Pak Jos	9.93937	8.90221	A	ADM2	NG		49	32005			0		1200	Africa/Lagos	2014-09-03
+8634515	Jos East	Jos East	Agbegbe Ijoba Ibile Ilaorun Jos,Agbègbè Ìjọba Ìbílẹ̀ Ìlàòrùn Jos,Jos East,Jos East Local Government Area,Jos Est,Jos ta Gabas,Tang Jos	9.89109	9.11793	A	ADM2	NG		49	32004			0		1095	Africa/Lagos	2014-09-03
+8634516	Bassa	Bassa	Agbegbe Ijoba Ibile Bassa,Agbègbè Ìjọba Ìbílẹ̀ Bassa,Bassa,Bassa Local Government Area	10.08201	8.78479	A	ADM2	NG		49	32002			0		1110	Africa/Lagos	2015-03-18
+8634517	Mikang	Mikang	Agbegbe Ijoba Ibile Mikang,Agbègbè Ìjọba Ìbílẹ̀ Mikang,Mikang,Mikang Local Government Area,Миканг	9.00693	9.6085	A	ADM2	NG		49	32012			0		278	Africa/Lagos	2014-09-03
+8634518	Qua'An Pan	Qua'An Pan	Qua'an Pan,Qua'an Pan Local Government Area,Qua'an-Pan,Qua’an Pan,Qua’an Pan Local Government Area,Qua’an-Pan	8.76078	9.16142	A	ADM2	NG		49	32014			0		205	Africa/Lagos	2014-09-03
+8634539	Langtang South	Langtang South	Agbegbe Ijoba Ibile Guusu Langtang,Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Langtang,Lam Langtang,Langtang South,Langtang South Local Government Area,Langtang Sud,Langtang ta Kudu,Langtang-South,Lâm Langtang,لانگٹانگ ساؤتھ,ラングタング・サウス地方行政区	8.60247	9.81029	A	ADM2	NG		49	32010			0		151	Africa/Lagos	2014-09-03
+8634540	Zangon Kataf	Zangon Kataf	Agbegbe Ijoba Ibile Zangon-Kataf,Agbègbè Ìjọba Ìbílẹ̀ Zangon-Kataf,Nietcen Afakan,Nietcen A̱fakan,Zango Kataf,Zangon Kataf,Zangon-Kataf,Zangon-Kataf Local Government Area	9.841	8.25491	A	ADM2	NG		23	19022			0		796	Africa/Lagos	2015-03-16
+8634541	Kaura	Kaura	Agbegbe Ijoba Ibile Kaura,Agbègbè Ìjọba Ìbílẹ̀ Kaura,Kaura,Kaura Local Government Area,Watyap	9.61232	8.46992	A	ADM2	NG		23	19013			0		1042	Africa/Lagos	2015-03-16
+8634542	Jema'A	Jema'A	Jama'a,Jama'a Local Government Area,Jama’a,Jama’a Local Government Area,Jema'a,Jemaa,Jema’a	9.38269	8.26813	A	ADM2	NG		23	19007			0		519	Africa/Lagos	2015-03-16
+8634543	Lere	Lere	Agbegbe Ijoba Ibile Lere,Agbègbè Ìjọba Ìbílẹ̀ Lere,Lere,Lere Local Government Area	10.34643	8.56734	A	ADM2	NG		23	19017			0		778	Africa/Lagos	2015-03-16
+8634544	Kauru	Kauru	Kauru,Kauru Local Government Area	10.22988	8.29422	A	ADM2	NG		23	19014			0		872	Africa/Lagos	2015-03-16
+8634545	Kajuru	Kajuru	Agbegbe Ijoba Ibile Kajuru,Agbègbè Ìjọba Ìbílẹ̀ Kajuru,Ajure,A̱jure,Kajuru,Kajuru Local Government Area	10.27704	7.85783	A	ADM2	NG		23	19012			0		707	Africa/Lagos	2015-03-16
+8634546	Ikara	Ikara	Ikara,Ikara Local Government Area	11.24755	8.20028	A	ADM2	NG		23	19005			0		612	Africa/Lagos	2015-03-16
+8634565	Kuban	Kuban	Kubau,Kubau Local Government Area	10.87876	8.38294	A	ADM2	NG		23	19015			0		722	Africa/Lagos	2015-03-16
+8634602	Jaba	Jaba	Agbegbe Ijoba Ibile Jaba,Agbègbè Ìjọba Ìbílẹ̀ Jaba,Jaba,Jaba Local Government Area,jab  nayjyrya,جاب، نائجیریا	9.48185	8.04372	A	ADM2	NG		23	19006			0		833	Africa/Lagos	2015-03-16
+8634809	Rijau	Rijau	Agbegbe Ijoba Ibile Rijau,Agbègbè Ìjọba Ìbílẹ̀ Rijau,Rijau,Rijau Local Government Area	11.0993	5.18826	A	ADM2	NG		31	27021			0		296	Africa/Lagos	2014-09-03
+8634912	Mariga	Mariga	Mariga,Mariga Local Government Area	10.69917	5.84038	A	ADM2	NG		31	27015			0		422	Africa/Lagos	2014-09-03
+8634913	Kontagora	Kontagora	Kontagora,Kontagora Local Government Area	10.45225	5.4795	A	ADM2	NG		31	27011			0		351	Africa/Lagos	2014-09-03
+8634914	Shiroro	Shiroro	Shiroro,Shiroro Local Government Area	10.11543	6.68307	A	ADM2	NG		31	27022			0		268	Africa/Lagos	2014-09-03
+8634915	Suleja	Suleja	Suleja,Suleja Local Government Area	9.21446	7.18864	A	ADM2	NG		31	27023			0		445	Africa/Lagos	2016-06-23
+8634916	Mashegu	Mashegu	Agbegbe Ijoba Ibile Mashegu,Agbègbè Ìjọba Ìbílẹ̀ Mashegu,Mashegu,Mashegu Local Government Area,Машегу	9.92993	5.23385	A	ADM2	NG		31	27016			0		288	Africa/Lagos	2014-09-03
+8634918	Wushishi	Wushishi	Agbegbe Ijoba Ibile Wushishi,Agbègbè Ìjọba Ìbílẹ̀ Wushishi,Wushishi,Wushishi Local Government Area,wu shen shi,乌什施	9.702	5.93662	A	ADM2	NG		31	27025			0		130	Africa/Lagos	2014-09-03
+8634919	Bosso	Bosso	Agbegbe Ijoba Ibile Bosso,Agbègbè Ìjọba Ìbílẹ̀ Bosso,Boso,Bosso,Bosso Local Government Area	9.61463	6.36587	A	ADM2	NG		31	27005			0		236	Africa/Lagos	2014-09-03
+8634957	Lapai	Lapai	Lapai,Lapai Local Government Area	8.79818	6.67551	A	ADM2	NG		31	27012			0		238	Africa/Lagos	2014-09-03
+8634962	Gwagwalada	Gwagwalada	Gwagwalada,Gwagwalada Area Council	9.07639	6.9854	A	ADM2	NG		11	15003			0		207	Africa/Lagos	2014-09-03
+8634966	Abaji	Abaji	Abaji,Abaji Area Council	8.89212	6.81816	A	ADM2	NG		11	15001			0		169	Africa/Lagos	2014-09-03
+8634970	Kwali	Kwali	Kvali,Kwali,Kwali Area Council,Կվալի	8.73555	6.96777	A	ADM2	NG		11	15005			0		167	Africa/Lagos	2014-09-03
+8634971	Kuje	Kuje	Kuje,Kuje Area Council	8.65901	7.27046	A	ADM2	NG		11	15004			0		320	Africa/Lagos	2014-09-03
+8635054	Municipal Area Council	Municipal Area Council	Abuja,Abuja Municipal,Abuja Municipal Area Council	8.99997	7.37831	A	ADM2	NG		11	15006			0		413	Africa/Lagos	2014-09-03
+8635055	Toto	Toto	Agbegbe Ijoba Ibile Toto,Agbègbè Ìjọba Ìbílẹ̀ Toto,Toto,Toto Local Government Area	8.2502	7.19827	A	ADM2	NG		56	26012			0		183	Africa/Lagos	2015-03-12
+8635056	Keffi	Keffi	Keffi,Keffi Local Government Area,kai fei,kyfy,كيفي,凯菲	8.83795	7.82725	A	ADM2	NG		56	26006			0		320	Africa/Lagos	2015-03-12
+8635057	Karu	Karu	Karu,Karu Local Government Area	9.04694	7.76364	A	ADM2	NG		56	26004			0		364	Africa/Lagos	2015-03-12
+8635058	Kokona	Kokona	Kokona,Kokona Local Government Area,kokona,Кокона,ココナ	8.85559	8.06111	A	ADM2	NG		56	26007			0		333	Africa/Lagos	2014-09-03
+8635059	Nasarawa Egon	Nasarawa Egon	Nasarawa Eggon,Nasarawa Eggon Local Government Area,Nassarawa Eggon	8.74947	8.44035	A	ADM2	NG		56	26010			0		445	Africa/Lagos	2015-03-12
+8635060	Wamba	Wamba	Agbegbe Ijoba Ibile Wamba,Agbègbè Ìjọba Ìbílẹ̀ Wamba,Uamba,Wamba,Wamba Local Government Area,wanba,ワンバ	8.98214	8.69459	A	ADM2	NG		56	26013			0		429	Africa/Lagos	2015-03-12
+8635061	Doma	Doma	Doma,Doma Local Government Area	8.20323	8.30466	A	ADM2	NG		56	26003			0		198	Africa/Lagos	2015-03-12
+8635062	Awe	Awe	Awe,Awe Local Government Area	8.27456	9.1849	A	ADM2	NG		56	26002			0		205	Africa/Lagos	2015-03-12
+8635063	Moro	Moro	Ijoba Agbegbe Moro,Moro,Moro Local Government Area,Ìjọba Agbègbè Moro	8.84493	4.55671	A	ADM2	NG		30	24012			0		251	Africa/Lagos	2015-03-12
+8635064	Ilorin East	Ilorin East	Ilorin East,Ilorin East Local Government Area	8.5712	4.72827	A	ADM2	NG		30	24006			0		383	Africa/Lagos	2015-03-12
+8635162	Ilorin South	Ilorin South	Ilorin South,Ilorin South Local Government Area	8.44156	4.68018	A	ADM2	NG		30	24007			0		340	Africa/Lagos	2015-03-12
+8635163	Offa	Offa	Offa,Offa Local Government Area	8.14279	4.68796	A	ADM2	NG		30	24013			0		443	Africa/Lagos	2015-03-12
+8635164	Irepodun	Irepodun	Irepodun,Irepodun Local Government Area	8.14654	4.91294	A	ADM2	NG		30	24009			0		481	Africa/Lagos	2015-03-12
+8635165	Isin	Isin	Agbegbe Ijoba Ibile Isin,Agbègbè Ìjọba Ìbílẹ̀ Isin,Isin,Isin Local Government Area	8.26747	5.05356	A	ADM2	NG		30	24010			0		470	Africa/Lagos	2015-03-12
+8635166	Oke Ero	Oke Ero	Ijoba Agbegbe Oke Ero,Oke Ero,Oke-Ero,Oke-Ero Local Government Area,Ìjọba Agbègbè Oke Ero	8.16997	5.23449	A	ADM2	NG		30	24014			0		477	Africa/Lagos	2015-03-12
+8635167	Ekiti	Ekiti	Ekiti,Ekiti Local Government Area	8.11799	5.32035	A	ADM2	NG		30	24004			0		430	Africa/Lagos	2015-03-12
+8635168	Edu	Edu	Edu,Edu Local Government Area,Ijoba Agbegbe Edu,Ìjọba Agbègbè Edu	8.89181	5.21012	A	ADM2	NG		30	24003			0		117	Africa/Lagos	2015-03-12
+8636065	Saki East	Saki East	Ilaoorun Saki,Saki East,Saki East Local Government Area,Saki Est,Saki ta Gabas,Tang Saki,Ìlàoòrùn Ṣakí	8.70467	3.58944	A	ADM2	NG		32	31031			0		393	Africa/Lagos	2015-03-17
+8636066	Atisbo	Atisbo	Atigbo,Atisbo,Atisbo Local Government Area,Àtisbò	8.3698	3.24674	A	ADM2	NG		32	31004			0		312	Africa/Lagos	2015-03-17
+8636067	Atiba	Atiba	Atiba,Atiba Local Government Area,Àtìbà	8.26629	3.88691	A	ADM2	NG		32	31003			0		339	Africa/Lagos	2015-03-17
+8636068	Ogbomosho North	Ogbomosho North	Ariwa Ogbomosho,Ogbomosho Nord,Ogbomosho North,Ogbomosho ta Arewa,Ogbomoso North,Ogbomoso North Local Government Area,Pak Ogbomosho,Àríwá Ògbómọ̀shọ́	8.1567	4.26441	A	ADM2	NG		32	31021			0		335	Africa/Lagos	2015-03-17
+8636069	Ogo Oluwa	Ogo Oluwa	Ogo Oluwa,Ogo-Oluwa,Ogo-Oluwa Local Government Area,Ògo-Olúwa	7.99013	4.21483	A	ADM2	NG		32	31023			0		320	Africa/Lagos	2015-03-18
+8636070	Itesiwaju	Itesiwaju	Itesiwaju,Itesiwaju Local Government Area,Ìtẹ̀síwájú	8.20715	3.53029	A	ADM2	NG		32	31017			0		341	Africa/Lagos	2015-03-18
+8636318	Iseyin	Iseyin	Iseyin,Iseyin Local Government Area	7.87401	3.54943	A	ADM2	NG		32	31016			0		248	Africa/Lagos	2015-03-17
+8636319	Ibarapa Central	Ibarapa Central	Gbongan Ibarapa,Gbọ̀ngàn Ìbàràpá,Ibarapa Central,Ibarapa Central Local Government Area,Ibarapa ta Tsakiya	7.43737	3.26761	A	ADM2	NG		32	31011			0		156	Africa/Lagos	2015-03-17
+8636320	Egbeda	Egbeda	Egbeda,Egbeda Local Government Area,Ẹgbẹ́dá	7.38692	4.04522	A	ADM2	NG		32	31005			0		196	Africa/Lagos	2015-03-17
+8636321	Ogbomosho South	Ogbomosho South	Guusu Ogbomosho,Gúúsù Ògbómọ̀shọ́,Lam Ogbomosho,Lâm Ogbomosho,Ogbomosho South,Ogbomosho Sud,Ogbomosho ta Kudu,Ogbomoso South,Ogbomoso South Local Government Area	8.0732	4.23658	A	ADM2	NG		32	31022			0		335	Africa/Lagos	2015-03-17
+8636322	Imeko Afon	Imeko Afon	Agbegbe Ijoba Ibile Imeko-Afon,Agbègbè Ìjọba Ìbílẹ̀ Imeko-Afon,Imeko Afon,Imeko-Afon,Imeko-Afon Local Government Area	7.66221	2.86402	A	ADM2	NG		16	28013			0		149	Africa/Lagos	2015-03-17
+8636323	Egbado North	Egbado North	Egbado North,Egbado North Local Government Area,Egbado-North	7.14729	2.91795	A	ADM2	NG		16	28004			0		59	Africa/Lagos	2014-09-03
+8636324	Egbado South	Egbado South	Egbado South,Egbado South Local Government Area,Egbado-South	6.79763	2.96144	A	ADM2	NG		16	28005			0		65	Africa/Lagos	2014-09-03
+8636325	Ipokia	Ipokia	Ipokia,Ipokia Local Government Area	6.61801	2.81053	A	ADM2	NG		16	28014			0		48	Africa/Lagos	2015-03-17
+8636326	Ado Odo/Ota	Ado Odo/Ota	Ado-Odo/Ota,Ado-Odo/Ota Local Government Area	6.62366	3.08626	A	ADM2	NG		16	28003			0		21	Africa/Lagos	2015-03-17
+8636327	Ifo	Ifo	Ifo,Ifo Local Government Area	6.78197	3.25195	A	ADM2	NG		16	28007			0		48	Africa/Lagos	2015-03-17
+8636328	Odeda	Odeda	Odeda,Odeda Local Government Area,Odedah,Odedah Local Government Area	7.29646	3.52029	A	ADM2	NG		16	28016			0		155	Africa/Lagos	2015-03-17
+8636329	Abeokuta North	Abeokuta North	Abeokuta Nord,Abeokuta North,Abeokuta North Local Government Area,Abeokuta ta Arewa,Abeokuta-Norte,Abeokuta-North,Agbegbe Ijoba Ibile Ariwa Abeokuta,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Abẹ́òkúta,Pak Abeokuta,shmal abwkata,ئەبوکوتای باکوور,شمال ابوکاتا	7.23079	3.16845	A	ADM2	NG		16	28001			0		145	Africa/Lagos	2014-09-03
+8636330	Abeokuta South	Abeokuta South	Abeokuta South,Abeokuta South Local Government Area,Abeokuta Sud,Abeokuta ta Kudu,Abeokuta-South,Abeokuta-Sul,Agbegbe Ijoba Ibile Guusu Abeokuta,Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Abẹ́òkúta,Lam Abeokuta,Lâm Abeokuta,abwkata jnwb,ابوکاتا جنوب	7.15425	3.35459	A	ADM2	NG		16	28002			0		87	Africa/Lagos	2015-03-17
+8636331	Ewekoro	Ewekoro	Ewekoro,Ewekoro Local Government Area	6.96115	3.19455	A	ADM2	NG		16	28006			0		40	Africa/Lagos	2015-03-17
+8636332	Remo North	Remo North	Agbegbe Ijoba Ibile Ariwa Remo,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Remo,Pak Remo,Remo Nord,Remo North,Remo North Local Government Area,Remo ta Arewa,Remo-Norte	7.0029	3.72861	A	ADM2	NG		16	28019			0		60	Africa/Lagos	2014-09-03
+8636333	Ijebu North	Ijebu North	Agbegbe Ijoba Ibile Ariwa Ijebu,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Ijebu,Ijebu Nord,Ijebu North,Ijebu North Local Government Area,Ijebu ta Arewa,Ijebu-Norte,Pak Ijebu	6.99551	3.97085	A	ADM2	NG		16	28009			0		81	Africa/Lagos	2015-03-17
+8636334	Ijebu North East	Ijebu North East	Agbegbe Ijoba Ibile Ariwa-Ilaorun Ijebu,Agbègbè Ìjọba Ìbílẹ̀ Àríwá-Ìlàòrùn Ijebu,Ijebu Nord Est,Ijebu North East,Ijebu North East Local Government Area,Ijebu ta Arewa maso Gabas,Ijebu-Nordeste	6.88809	4.0226	A	ADM2	NG		16	28010			0		51	Africa/Lagos	2015-03-17
+8636335	Ogun Waterside	Ogun Waterside	Agbegbe Ijoba Ibile Ogun Waterside,Agbègbè Ìjọba Ìbílẹ̀ Ogun Waterside,Ogun Water Side,Ogun Waterside,Ogun Waterside Local Government Area,Ogun littoral	6.48449	4.38618	A	ADM2	NG		16	28018			0		8	Africa/Lagos	2015-03-17
+8636366	Ejigbo	Ejigbo	Ejigbo,Ejigbo Local Government Area	7.86711	4.28626	A	ADM2	NG		42	30010			0		326	Africa/Lagos	2014-09-03
+8636367	Iwo	Iwo	Iwo,Iwo Local Government Area	7.67548	4.14127	A	ADM2	NG		42	30023			0		241	Africa/Lagos	2015-03-17
+8636368	Aiyedire	Aiyedire	Agbegbe Ijoba Ibile Aiyedire,Agbègbè Ìjọba Ìbílẹ̀ Aiyedire,Aijedire,Aiyedire,Ayedire,Ayedire Local Government Area,aydyr,Аийедире,ایدیر	7.58118	4.23455	A	ADM2	NG		42	30002			0		257	Africa/Lagos	2014-09-03
+8636369	Aiyedade	Aiyedade	Aiyeda Ade,Aiyedade,Ayedaade,Ayedaade Local Government Area	7.33378	4.34913	A	ADM2	NG		42	30001			0		223	Africa/Lagos	2015-03-17
+8636370	Ede South	Ede South	Agbegbe Ijoba Ibile Guusu Ede,Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Ede,Ede South,Ede South Local Government Area,Ede Sud,Ede ta Kudu,Lam Ede,Lâm Ede	7.65824	4.45762	A	ADM2	NG		42	30008			0		303	Africa/Lagos	2014-09-03
+8636371	Osogbo	Osogbo	Osogbo,Osogbo Local Government Area	7.75963	4.57625	A	ADM2	NG		42	30030			0		355	Africa/Lagos	2015-03-17
+8636372	Orolu	Orolu	Agbegbe Ijoba Ibile Orolu,Agbègbè Ìjọba Ìbílẹ̀ Orolu,Orolu,Orolu Local Government Area	7.90159	4.47283	A	ADM2	NG		42	30029			0		379	Africa/Lagos	2015-03-17
+8636373	Ifedayo	Ifedayo	Agbegbe Ijoba Ibile Ifedayo,Agbègbè Ìjọba Ìbílẹ̀ Ifedayo,Ife Dayo,Ifedajo,Ifedayo,Ifedayo Local Government Area,Ифедайо	7.97763	4.98892	A	ADM2	NG		42	30015			0		503	Africa/Lagos	2014-09-03
+8636374	Obokun	Obokun	Agbegbe Ijoba Ibile Obokun,Agbègbè Ìjọba Ìbílẹ̀ Obokun,Obokun,Obokun Local Government Area,obokun,オボクン	7.78701	4.76281	A	ADM2	NG		42	30024			0		378	Africa/Lagos	2015-03-17
+8636375	Ilesha West	Ilesha West	Ilesa West,Ilesa West Local Government Area,Ilesha West	7.64202	4.71922	A	ADM2	NG		42	30019			0		373	Africa/Lagos	2014-09-03
+8636376	Ilesha East	Ilesha East	Ilesa East,Ilesa East Local Government Area,Ilesha East	7.60146	4.7618	A	ADM2	NG		42	30018			0		388	Africa/Lagos	2014-09-03
+8636377	Ife North	Ife North	Agbegbe Ijoba Ibile Ariwa Ife,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Ife,Ife Nord,Ife North,Ife North Local Government Area,Ife ta Arewa,Ife-North,Pak Ife	7.26686	4.44748	A	ADM2	NG		42	30013			0		165	Africa/Lagos	2014-09-03
+8636730	Efon	Efon	Efon,Efon Local Government Area	7.69576	4.93721	A	ADM2	NG		54	13002			0		444	Africa/Lagos	2014-09-03
+8636731	Ekiti West	Ekiti West	Agbegbe Ijoba Ibile Iwoorun Ekiti,Agbègbè Ìjọba Ìbílẹ̀ Ìwọòrùn Èkìtì,Ekiti Ouest,Ekiti West,Ekiti West Local Government Area,Ekiti ta Yamma,Se Ekiti	7.68663	5.02847	A	ADM2	NG		54	13005			0		477	Africa/Lagos	2014-09-03
+8636732	Ijero	Ijero	Ijero,Ijero Local Government Area	7.84582	5.05686	A	ADM2	NG		54	13009			0		455	Africa/Lagos	2014-09-03
+8636733	Moba	Moba	Moba,Moba Local Government Area	8.00095	5.13189	A	ADM2	NG		54	13015			0		526	Africa/Lagos	2014-09-03
+8636734	Ido-Osi	Ido-Osi	Agbegbe Ijoba Ibile Ido-Osi,Agbègbè Ìjọba Ìbílẹ̀ Ido-Osi,Ido Osi,Ido-Osi,Ido-Osi Local Government Area,Ido/Osi	7.86204	5.18867	A	ADM2	NG		54	13008			0		566	Africa/Lagos	2014-09-03
+8636735	Ilejemeje	Ilejemeje	Agbegbe Ijoba Ibile Ilejemeje,Agbègbè Ìjọba Ìbílẹ̀ Ilejemeje,Ilejemeje,Ilejemeje Local Government Area	7.95837	5.23734	A	ADM2	NG		54	13012			0		557	Africa/Lagos	2014-09-03
+8636736	Oye	Oye	Agbegbe Ijoba Ibile Oye,Agbègbè Ìjọba Ìbílẹ̀ Oye,Oye,Oye Local Government Area	7.88942	5.34482	A	ADM2	NG		54	13016			0		608	Africa/Lagos	2014-09-03
+8636737	Ikole	Ikole	Agbegbe Ijoba Ibile Ikole,Agbègbè Ìjọba Ìbílẹ̀ Ikole,Ikole,Ikole Local Government Area,Иколе	7.89347	5.5111	A	ADM2	NG		54	13011			0		533	Africa/Lagos	2014-09-03
+8636738	Ekiti East	Ekiti East	Agbegbe Ijoba Ibile Ilaorun Ekiti,Agbègbè Ìjọba Ìbílẹ̀ Ìlàòrùn Èkìtì,Ekiti East,Ekiti East Local Government Area,Ekiti Est,Ekiti Leste,Ekiti ta Gabas,Tang Ekiti	7.7353	5.66928	A	ADM2	NG		54	13003			0		479	Africa/Lagos	2014-09-03
+8636739	Irepodun/Ifelodun	Irepodun/Ifelodun	Agbegbe Ijoba Ibile Irepodun/Ifelodun,Agbègbè Ìjọba Ìbílẹ̀ Irepodun/Ifelodun,Ifelodun/Irepodun,Irepodun/Ifelodun,Irepodun/Ifelodun Local Government Area	7.71603	5.22923	A	ADM2	NG		54	13013			0		393	Africa/Lagos	2014-09-03
+8636740	Ado-Ekiti	Ado-Ekiti	Ado,Ado-Ekiti,Ado-Ekiti Local Government Area	7.61261	5.27384	A	ADM2	NG		54	13001			0		367	Africa/Lagos	2014-09-03
+8636741	Gbonyin	Gbonyin	Agbegbe Ijoba Ibile Gbonyin,Agbègbè Ìjọba Ìbílẹ̀ Gbonyin,Aiyekire,Gbonyin,Gbonyin Local Government Area	7.60653	5.49894	A	ADM2	NG		54	13007			0		412	Africa/Lagos	2014-09-03
+8636742	Emure	Emure	Emure,Emure Local Government Area	7.43213	5.51617	A	ADM2	NG		54	13006			0		338	Africa/Lagos	2014-09-03
+8636743	Ise/Orun	Ise/Orun	Ise/Orun,Ise/Orun Local Government Area	7.44531	5.3945	A	ADM2	NG		54	13014			0		362	Africa/Lagos	2014-09-03
+8636744	Ikere	Ikere	Ikere,Ikere Local Government Area	7.50209	5.21807	A	ADM2	NG		54	13010			0		447	Africa/Lagos	2014-09-03
+8636745	Ekiti South-West	Ekiti South-West	Agbegbe Ijoba Ibile Guusu-Iwoorun Ekiti,Agbègbè Ìjọba Ìbílẹ̀ Gúúsù-Ìwọòrùn Èkìtì,Ekiti South West,Ekiti South West Local Government Area,Ekiti South-West,Ekiti Sud Ouest,Ekiti Sudoeste,Ekiti ta Kudu maso Yamma,Se-lam Ekiti,Se-lâm Ekiti	7.51325	5.05179	A	ADM2	NG		54	13004			0		367	Africa/Lagos	2014-09-03
+8636746	Ilaje	Ilaje	Agbegbe Ijoba Ibile Ilaje,Agbègbè Ìjọba Ìbílẹ̀ Ilaje,Iiaye,Ilaje,Ilaje Local Government Area,ایلاجے	6.20323	4.76788	A	ADM2	NG		48	29010			0		14	Africa/Lagos	2015-03-17
+8636747	Ese Odo	Ese Odo	Ese Odo,Ese-Odo,Ese-Odo Local Government Area,ایسے اوڈو	6.21743	4.96459	A	ADM2	NG		48	29007			0		15	Africa/Lagos	2015-03-17
+8636748	Okitipupa	Okitipupa	Agbegbe Ijoba Ibile Okitipupa,Agbègbè Ìjọba Ìbílẹ̀ Okitipupa,Okitipupa,Okitipupa Local Government Area,Окитипупа	6.54797	4.69894	A	ADM2	NG		48	29014			0		28	Africa/Lagos	2015-03-17
+8636749	Irele	Irele	Irele,Irele Local Government Area,Иреле,ایریلے	6.53479	5.0092	A	ADM2	NG		48	29012			0		58	Africa/Lagos	2014-09-03
+8636750	Ondo West	Ondo West	Ondo Ouest,Ondo West,Ondo West Local Government Area,Ondo ta Yamma,Se Ondo	7.01642	4.74558	A	ADM2	NG		48	29016			0		205	Africa/Lagos	2015-03-17
+8636751	Ondo East	Ondo East	Ondo East,Ondo East Local Government Area,Ondo Est,Ondo ta Gabas,Tang Ondo	7.09145	4.96053	A	ADM2	NG		48	29015			0		232	Africa/Lagos	2015-03-17
+8636752	Ile Oluji/Okeigbo	Ile Oluji/Okeigbo	Ile-Oluji-Okeigbo,Ile-Oluji/Oke-igbo,Ile-Oluji/Okeigbo,Ile-Oluji/Okeigbo Local Government Area	7.27801	4.88753	A	ADM2	NG		48	29011			0		249	Africa/Lagos	2015-03-17
+8636753	Ifedore	Ifedore	Ifedore,Ifedore Local Government Area,ایفیڈور	7.36318	5.08829	A	ADM2	NG		48	29009			0		342	Africa/Lagos	2015-03-17
+8636754	Akure South	Akure South	Agbegbe Ijoba Ibile Guusu Akure,Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Àkúrẹ́,Akure South,Akure South Local Government Area,Akure Sud,Akure ta Kudu,Lam Akure,Lâm Akure,jnwb akwr,جنوب اکور	7.20501	5.18766	A	ADM2	NG		48	29006			0		390	Africa/Lagos	2015-03-17
+8636755	Akure North	Akure North	Agbegbe Ijoba Ibile Ariwa Akure,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Àkúrẹ́,Akure Nord,Akure North,Akure North Local Government Area,Akure ta Arewa,Pak Akure,shmal akwr,شمال اکور	7.26382	5.31136	A	ADM2	NG		48	29005			0		335	Africa/Lagos	2015-03-17
+8636756	Owo	Owo	Owo,Owo Local Government Area	7.16648	5.58005	A	ADM2	NG		48	29018			0		308	Africa/Lagos	2024-11-21
+8636757	Ose	Ose	Ose,Ose Local Government Area	7.05495	5.7433	A	ADM2	NG		48	29017			0		240	Africa/Lagos	2015-03-17
+8636758	Akoko South West	Akoko South West	Akoko South-West,Akoko South-West Local Government Area	7.39766	5.69463	A	ADM2	NG		48	29004			0		342	Africa/Lagos	2015-03-17
+8636759	Akoko South East	Akoko South East	Akoko South East,Akoko South-East,Akoko South-East Local Government Area	7.41794	5.91161	A	ADM2	NG		48	29003			0		346	Africa/Lagos	2015-03-17
+8636760	Akoko North East	Akoko North East	Akoko North-East,Akoko North-East Local Government Area	7.52744	5.81022	A	ADM2	NG		48	29001			0		369	Africa/Lagos	2015-03-17
+8636761	Akoko North West	Akoko North West	Akoko North-West,Akoko North-West Local Government Area	7.641	5.79399	A	ADM2	NG		48	29002			0		486	Africa/Lagos	2015-03-17
+8636763	Egor	Egor	Egor,Egor Local Government Area	6.35748	5.57547	A	ADM2	NG		37	12002			0		87	Africa/Lagos	2014-09-03
+8636764	Oredo	Oredo	Oredo,Oredo Local Government Area,ao lei duo shi,奥雷多市	6.23581	5.55114	A	ADM2	NG		37	12012			0		44	Africa/Lagos	2014-09-03
+8636765	Iguegben	Iguegben	Igueben,Igueben Local Government Area	6.52782	6.24264	A	ADM2	NG		37	12010			0		285	Africa/Lagos	2014-09-03
+8636766	Esan West	Esan West	Esan Ouest,Esan West,Esan West Local Government Area,Esan ta Yamma,Se Esan	6.66166	6.12908	A	ADM2	NG		37	12006			0		299	Africa/Lagos	2014-09-03
+8636767	Esan Central	Esan Central	Esan Central,Esan Central Local Government Area,Esan ta Tsakiya	6.70969	6.19313	A	ADM2	NG		37	12004			0		370	Africa/Lagos	2014-09-03
+8636768	Esan North-East	Esan North-East	Ehsan Nort-Ist,Esan Nord Est,Esan North East,Esan North East Local Government Area,Esan North-East,Esan ta Arewa maso Gabas,Tang-pak Esan,Эсан Норт-Ист	6.75495	6.39676	A	ADM2	NG		37	12003			0		259	Africa/Lagos	2014-09-03
+8636769	Esan South-East	Esan South-East	Esan South East,Esan South East Local Government Area,Esan South-East,Esan Sud Est,Esan ta Kudu maso Gabas,Tang-lam Esan,Tang-lâm Esan	6.58663	6.47585	A	ADM2	NG		37	12005			0		193	Africa/Lagos	2014-09-03
+8636770	Owan West	Owan West	Owan Ouest,Owan West,Owan West Local Government Area,Owan ta Yamma,Se Owan	6.92934	5.89385	A	ADM2	NG		37	12017			0		150	Africa/Lagos	2014-09-03
+8636771	Owan East	Owan East	Owan East,Owan East Local Government Area,Owan Est,Owan ta Gabas,Tang Owan	7.03162	6.07942	A	ADM2	NG		37	12016			0		200	Africa/Lagos	2014-09-03
+8636772	Akoko-Edo	Akoko-Edo	Akoko-Edo,Akoko-Edo Local Government Area	7.34506	6.11489	A	ADM2	NG		37	12001			0		335	Africa/Lagos	2014-09-03
+8636773	Etsako East	Etsako East	Etsako East,Etsako East Local Government Area,Etsako Est,Etsako ta Gabas,Tang Etsako	7.20919	6.49613	A	ADM2	NG		37	12008			0		223	Africa/Lagos	2014-09-03
+8636774	Etsako West	Etsako West	Estako-West,Etsako Ouest,Etsako West,Etsako West Local Government Area,Etsako ta Yamma,Se Etsako	6.99829	6.30145	A	ADM2	NG		37	12009			0		75	Africa/Lagos	2014-09-03
+8636775	Etsako Central	Etsako Central	Estako-Central,Etsako Central,Etsako Central Local Government Area,Etsako ta Tsakiya	6.97193	6.51235	A	ADM2	NG		37	12007			0		50	Africa/Lagos	2014-09-03
+8637555	Kogi	Kogi	Kogi,Kogi Local Government Area	8.14607	6.85709	A	ADM2	NG		41	23011			0		190	Africa/Lagos	2014-09-03
+8637590	Lokoja	Lokoja	Lokoja,Lokoja Local Government Area	8.20488	6.56305	A	ADM2	NG		41	23012			0		82	Africa/Lagos	2015-03-17
+8637963	Ogori/Magongo	Ogori/Magongo	Ogori-Magongo,Ogori/Magongo,Ogori/Magongo Local Government Area	7.46673	6.16355	A	ADM2	NG		41	23015			0		451	Africa/Lagos	2014-09-03
+8637964	Ajaokuta	Ajaokuta	Adzhaokuta,Agbegbe Ijoba Ibile Ajaokuta,Agbègbè Ìjọba Ìbílẹ̀ Ajaokuta,Ajaokuta,Ajaokuta Local Government Area,a jiao ku ta,ajaokuta,ajaykwta,Аджаокута,اجائکوتا,アジャオクタ,阿焦库塔	7.52351	6.5813	A	ADM2	NG		41	23002			0		143	Africa/Lagos	2015-03-17
+8637965	Dekina	Dekina	Dekina,Dekina Local Government Area	7.58435	7.17344	A	ADM2	NG		41	23005			0		383	Africa/Lagos	2015-03-17
+8637967	Ankpa	Ankpa	Ankpa,Ankpa Local Government Area	7.44848	7.63174	A	ADM2	NG		41	23003			0		438	Africa/Lagos	2015-03-17
+8637969	Idah	Idah	Idah,Idah Local Government Area	7.08144	6.71514	A	ADM2	NG		41	23007			0		34	Africa/Lagos	2015-03-17
+8637975	Olamaboro	Olamaboro	Agbegbe Ijoba Ibile Olamaboro,Agbègbè Ìjọba Ìbílẹ̀ Olamaboro,Olamaboro,Olamaboro Local Government Area,Оламаборо	7.18689	7.52832	A	ADM2	NG		41	23018			0		401	Africa/Lagos	2014-09-03
+8637981	Sapele	Sapele	Sapele,Sapele Local Government Area	5.82618	5.65354	A	ADM2	NG		36	10017			0		15	Africa/Lagos	2015-03-14
+8637984	Okpe	Okpe	Okpe,Okpe Local Government Area	5.68625	5.78333	A	ADM2	NG		36	10013			0		14	Africa/Lagos	2015-03-14
+8638005	Burutu	Burutu	Burutu,Burutu Local Government Area	5.21173	5.60285	A	ADM2	NG		36	10004			0		15	Africa/Lagos	2015-03-14
+8638006	Bomadi	Bomadi	Bomadi,Bomadi Local Government Area	5.16914	5.90424	A	ADM2	NG		36	10003			0		16	Africa/Lagos	2015-03-14
+8638007	Patani	Patani	Patani,Patani Local Government Area	5.17928	6.09765	A	ADM2	NG		36	10016			0		10	Africa/Lagos	2015-03-15
+8638032	Ayamelum	Ayamelum	Agbegbe Ijoba Ibile Ayamelum,Agbègbè Ìjọba Ìbílẹ̀ Ayamelum,Ayamelum,Ayamelum Local Government Area	6.55355	6.98694	A	ADM2	NG		25	4007			0		34	Africa/Lagos	2015-03-12
+8638035	Aguata	Aguata	Agbegbe Ijoba Ibile Aguata,Agbègbè Ìjọba Ìbílẹ̀ Aguata,Aguata,Aguata Local Government Area,Agụata,agwata,aqwata,Агуата,اقواتا,اگواتا	5.99081	7.08124	A	ADM2	NG		25	4001			0		266	Africa/Lagos	2014-09-03
+8638036	Ihiala	Ihiala	Ihiala,Ihiala Local Government Area	5.84683	6.85918	A	ADM2	NG		25	4012			0		129	Africa/Lagos	2015-03-12
+8638038	Nnewi North	Nnewi North	Agbegbe Ijoba Ibile Ariwa Nnewi,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Nnewi,Nnewi Nord,Nnewi North,Nnewi North Local Government Area,Nnewi ta Arewa,Pak Nnewi	5.99994	6.90177	A	ADM2	NG		25	4014			0		82	Africa/Lagos	2015-03-12
+8638042	Ekwusigo	Ekwusigo	Agbegbe Ijoba Ibile Ekwusigo,Agbègbè Ìjọba Ìbílẹ̀ Ekwusigo,Ekwusigo,Ekwusigo Local Government Area,Ekwusịgo	5.98067	6.83992	A	ADM2	NG		25	4009			0		60	Africa/Lagos	2015-03-12
+8638046	Onitsha South	Onitsha South	Agbegbe Ijoba Ibile Guusu Onitsha,Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Onitsha,Lam Onitsha,Lâm Onitsha,Onitsha South,Onitsha South Local Government Area,Onitsha Sud,Onitsha ta Kudu,Onitsha-Sul	6.1267	6.77736	A	ADM2	NG		25	4018			0		30	Africa/Lagos	2014-09-06
+8638070	Ekeremor	Ekeremor	Ekeremor,Ekeremor Local Government Area	4.92212	5.71647	A	ADM2	NG		52	6002			0		2	Africa/Lagos	2015-03-14
+8638072	Southern Ijaw	Southern Ijaw	Agbegbe Ijoba Ibile Apaguusu Ijaw,Agbègbè Ìjọba Ìbílẹ̀ Apágúúsù Ijaw,Southern Ijaw,Southern Ijaw Local Government Area,Southern-Ijaw,Southern/Ndida Ijaw,Southern/Ndịda Ijaw,Sud Ijaw	4.67675	5.94156	A	ADM2	NG		52	6007			0		18	Africa/Lagos	2014-09-03
+8638073	Sagbama	Sagbama	Agbegbe Ijoba Ibile Sagbama,Agbègbè Ìjọba Ìbílẹ̀ Sagbama,Sagbama,Sagbama Local Government Area,sgbama,Сагбама,سگباما	5.14722	6.21127	A	ADM2	NG		52	6006			0		21	Africa/Lagos	2014-09-03
+8638087	Yenegoa	Yenegoa	Yenegoa,Yenegoa Local Government Area	5.03163	6.35931	A	ADM2	NG		52	6008			0		21	Africa/Lagos	2015-03-14
+8638091	Kolokuma/Opokuma	Kolokuma/Opokuma	Kolokuma/Opokuma,Kolokuma/Opokuma Local Government Area	5.09855	6.264	A	ADM2	NG		52	6003			0		26	Africa/Lagos	2014-09-03
+8638092	Ogbia	Ogbia	Agbegbe Ijoba Ibile Ogbia,Agbègbè Ìjọba Ìbílẹ̀ Ogbia,Ogbia,Ogbia Local Government Area,ke bi ya,柯比亞	4.77409	6.32686	A	ADM2	NG		52	6005			0		20	Africa/Lagos	2015-03-14
+8638095	Nembe	Nembe	Nembe,Nembe Local Government Area,Нембе	4.52466	6.29442	A	ADM2	NG		52	6004			0		8	Africa/Lagos	2014-09-03
+8638097	Brass	Brass	Brass,Brass Local Government Area	4.36648	6.45462	A	ADM2	NG		52	6001			0		5	Africa/Lagos	2015-03-14
+8638107	Ahoada East	Ahoada East	Agbegbe Ijoba Ibile Ilaorun Ahoada,Agbègbè Ìjọba Ìbílẹ̀ Ìlàòrùn Ahoada,Ahoada East,Ahoada East Local Government Area,Ahoada Est,Ahoada Leste,Ahoada ta Gabas,Tang Ahoada,shrq ahwada,شرق اهوادا	5.07027	6.64302	A	ADM2	NG		50	33002			0		14	Africa/Lagos	2015-03-18
+8638118	Abua/Odual	Abua/Odual	Abua/Odual,Abua/Odual Local Government Area	4.82977	6.56739	A	ADM2	NG		50	33001			0		24	Africa/Lagos	2015-03-18
+8638120	Emuoha	Emuoha	Emuoha,Emuoha Local Government Area	5.00674	6.74739	A	ADM2	NG		50	33010			0		15	Africa/Lagos	2015-03-18
+8638156	Degema	Degema	Degema,Degema Local Government Area	4.57414	6.93798	A	ADM2	NG		50	33008			0		54	Africa/Lagos	2015-03-18
+8638157	Bonny	Bonny	Bonny,Bonny Local Government Area	4.43963	7.23287	A	ADM2	NG		50	33007			0		11	Africa/Lagos	2016-06-23
+8638158	Eleme	Eleme	Eleme,Eleme Local Government Area	4.78741	7.14369	A	ADM2	NG		50	33009			0		21	Africa/Lagos	2015-03-18
+8638159	Asari-Toru	Asari-Toru	Agbegbe Ijoba Ibile Asari-Toru,Agbègbè Ìjọba Ìbílẹ̀ Asari-Toru,Asari Toru,Asari-Toru,Asari-Toru Local Government Area	4.74808	6.83966	A	ADM2	NG		50	33006			0		12	Africa/Lagos	2015-03-18
+8638160	Okrika	Okrika	Agbegbe Ijoba Ibile Okrika,Agbègbè Ìjọba Ìbílẹ̀ Okrika,Ocrica,Okrika,Okrika Local Government Area,ao ke li ka,okurika gang,Οκρίκα,אוקריקה,オクリカ港,奧克里卡	4.63826	7.08162	A	ADM2	NG		50	33018			0		9	Africa/Lagos	2014-09-03
+8638161	Opobo/Nkoro	Opobo/Nkoro	Opobo/Nkoro,Opobo/Nkoro Local Government Area	4.56141	7.44396	A	ADM2	NG		50	33020			0		7	Africa/Lagos	2016-06-23
+8638162	Oguta	Oguta	Oguta,Oguta Local Government Area	5.66926	6.7999	A	ADM2	NG		28	17017			0		26	Africa/Lagos	2015-03-15
+8638163	Ngor-Okpala	Ngor-Okpala	Ngor-Okpala,Ngor-Okpala Local Government Area	5.32019	7.15888	A	ADM2	NG		28	17012			0		55	Africa/Lagos	2015-03-15
+8638164	Owerri Municipal	Owerri Municipal	Agbegbe Ijoba Ibile Owerri Municipal,Agbègbè Ìjọba Ìbílẹ̀ Owerri Municipal,Owerri Municipal,Owerri Municipal Local Government Area,Owerri municipal,Owerri-Municipal,oueri jun,オウェリ郡	5.47656	7.01683	A	ADM2	NG		28	17024			0		75	Africa/Lagos	2015-03-15
+8638290	Ikeduru	Ikeduru	Agbegbe Ijoba Ibile Ikeduru,Agbègbè Ìjọba Ìbílẹ̀ Ikeduru,Ikeduru,Ikeduru Local Government Area,איקדורו	5.56795	7.15338	A	ADM2	NG		28	17008			0		144	Africa/Lagos	2015-03-15
+8638291	Ezinihitte	Ezinihitte	Ezinihitte,Ezinihitte Mbaise,Ezinihitte Mbaise Local Government Area	5.47876	7.32626	A	ADM2	NG		28	17004			0		148	Africa/Lagos	2015-03-15
+8638292	Orlu	Orlu	Orlu,Orlu Local Government Area	5.80718	7.03886	A	ADM2	NG		28	17020			0		110	Africa/Lagos	2015-03-15
+8638293	Ideato North	Ideato North	Agbegbe Ijoba Ibile Ariwa Ideato,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Ideato,Ideato Nord,Ideato Norte,Ideato North,Ideato North Local Government Area,Ideato ta Arewa,Pak Ideato	5.88537	7.13136	A	ADM2	NG		28	17005			0		245	Africa/Lagos	2015-03-15
+8638294	Ideato South	Ideato South	Agbegbe Ijoba Ibile Guusu Ideato,Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Ideato,Ideato South,Ideato South Local Government Area,Ideato Sud,Ideato ta Kudu,Lam Ideato,Lâm Ideato	5.80608	7.13906	A	ADM2	NG		28	17006			0		239	Africa/Lagos	2015-03-15
+8638327	Isu	Isu	Isu,Isu Local Government Area	5.68826	7.05648	A	ADM2	NG		28	17010			0		175	Africa/Lagos	2014-09-03
+8638328	Nkwerre	Nkwerre	Nkwerre,Nkwerre Local Government Area	5.75322	7.10603	A	ADM2	NG		28	17014			0		190	Africa/Lagos	2014-09-03
+8638329	Nwangele	Nwangele	Nwangele,Nwangele Local Government Area	5.71028	7.12585	A	ADM2	NG		28	17015			0		190	Africa/Lagos	2015-03-15
+8638331	Owerri North	Owerri North	Agbegbe Ijoba Ibile Ariwa Owerri,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Owerri,Owerri Nord,Owerri North,Owerri North Local Government Area,Owerri ta Arewa,Pak Owerri,beioueri,北オウェリ	5.45674	7.10273	A	ADM2	NG		28	17025			0		115	Africa/Lagos	2015-03-15
+8638388	Bende	Bende	Bende,Bende Local Government Area	5.64971	7.58999	A	ADM2	NG		45	1004			0		129	Africa/Lagos	2015-03-13
+8638389	Arochukwu	Arochukwu	Agbegbe Ijoba Ibile Arochukwu,Agbègbè Ìjọba Ìbílẹ̀ Arochukwu,Arochokwu,Arochukvu,Arochukwu,Arochukwu Local Government Area,a luo qiu ku,Арочукву,阿罗丘库	5.48569	7.7658	A	ADM2	NG		45	1003			0		28	Africa/Lagos	2015-03-13
+8638391	Osisioma Ngwa	Osisioma Ngwa	Agbegbe Ijoba Ibile Osisioma-Ngwa,Agbègbè Ìjọba Ìbílẹ̀ Osisioma-Ngwa,Osisioma,Osisioma Ngwa,Osisioma Ngwa Local Government Area,Ozisioma Ngva,Озісіома Нгва	5.19934	7.33067	A	ADM2	NG		45	1011			0		77	Africa/Lagos	2015-03-13
+8638394	Ini	Ini	Agbegbe Ijoba Ibile Ini,Agbègbè Ìjọba Ìbílẹ̀ Ini,Ini,Ini Local Government Area	5.40415	7.74884	A	ADM2	NG		21	3015			0		29	Africa/Lagos	2015-03-13
+8638447	Obot Akara	Obot Akara	Obot Akara,Obot Akara Local Government Area	5.24669	7.60458	A	ADM2	NG		21	3022			0		84	Africa/Lagos	2015-03-13
+8638448	Ikono	Ikono	Agbegbe Ijoba Ibile Ikono,Agbègbè Ìjọba Ìbílẹ̀ Ikono,Ikono,Ikono Local Government Area	5.21035	7.79398	A	ADM2	NG		21	3012			0		65	Africa/Lagos	2015-03-13
+8638449	Ikot Ekpene	Ikot Ekpene	Ikot Ekpene,Ikot Ekpene Local Government Area,Ikot Ekpenė,Ikot-Ehkpene,Ikot-Ekpene,aykwt akbyn,ikat ekpen,ikata ekapene,ikos ikepene,ikot ekpeni,ikot ekpin,ikota ekapina,ikota ekpina,yi ke te ai pei nei,ykwt ykpyny,Ίκοτ Εκπένε,Ікот-Екпене,Икот-Экпене,Իկոտ-Էքփենե,ايكوت إكبين,یکوت یکپینی,इकोट एकपीन,ঈকট একপেনে,ઇકોટ એક્પીન,இகோட் எக்பேனி,ఇకోట్ ఏక్పిన్,ಇಕಾಟ್ ಏಕ್ಪೆನ್,අයිකොට්,イコット・エックペン,伊科特埃佩內,이콧 이케페네	5.19383	7.70369	A	ADM2	NG		21	3014			0		76	Africa/Lagos	2015-03-13
+8638450	Ibiono Ibom	Ibiono Ibom	Ibiono Ibom,Ibiono Ibom Local Government Area	5.20704	7.89309	A	ADM2	NG		21	3010			0		61	Africa/Lagos	2015-03-13
+8638451	Itu	Itu	Agbegbe Ijoba Ibile Itu,Agbègbè Ìjọba Ìbílẹ̀ Itu,Itu,Itu Local Government Area,itou,イトゥー	5.14318	7.97788	A	ADM2	NG		21	3016			0		77	Africa/Lagos	2015-03-13
+8638452	Essien Udim	Essien Udim	Agbegbe Ijoba Ibile Essien Udim,Agbègbè Ìjọba Ìbílẹ̀ Essien Udim,Essien Udim,Essien Udim Local Government Area	5.10684	7.64533	A	ADM2	NG		21	3005			0		73	Africa/Lagos	2014-09-03
+8638453	Ika	Ika	Agbegbe Ijoba Ibile Ika-Annang,Agbègbè Ìjọba Ìbílẹ̀ Ika-Annang,Ika,Ika Local Government Area	5.00553	7.53411	A	ADM2	NG		21	3011			0		66	Africa/Lagos	2015-03-13
+8638454	Etim Ekpo	Etim Ekpo	Agbegbe Ijoba Ibile Etim Ekpo,Agbègbè Ìjọba Ìbílẹ̀ Etim Ekpo,Etim Ekpo,Etim Ekpo Local Government Area,Etim-Ekpo	4.978	7.59247	A	ADM2	NG		21	3006			0		64	Africa/Lagos	2015-03-13
+8638455	Uyo	Uyo	Uyo,Uyo Local Government Area	5.01874	7.903	A	ADM2	NG		21	3031			0		58	Africa/Lagos	2015-03-13
+8638456	Uruan	Uruan	Agbegbe Ijoba Ibile Uruan,Agbègbè Ìjọba Ìbílẹ̀ Uruan,Uruan,Uruan Local Government Area,Уруан	5.01104	8.06597	A	ADM2	NG		21	3029			0		12	Africa/Lagos	2014-09-03
+8638457	Ibesikpo Asutan	Ibesikpo Asutan	Agbegbe Ijoba Ibile Ibesikpo Asutan,Agbègbè Ìjọba Ìbílẹ̀ Ibesikpo Asutan,Ibesikpo Asutan,Ibesikpo Asutan Local Government Area,Ibesikpo-Asutan	4.92735	7.95806	A	ADM2	NG		21	3009			0		55	Africa/Lagos	2014-09-03
+8638458	Abak	Abak	Abak,Abak Local Government Area,abak,آباک	5.02095	7.78738	A	ADM2	NG		21	3001			0		69	Africa/Lagos	2014-09-03
+8638459	Ukanafun	Ukanafun	Agbegbe Ijoba Ibile Ukanafun,Agbègbè Ìjọba Ìbílẹ̀ Ukanafun,Ukanafun,Ukanafun Local Government Area,Уканафун	4.89651	7.59687	A	ADM2	NG		21	3028			0		45	Africa/Lagos	2014-09-03
+8638460	Nsit Ibom	Nsit Ibom	Nsit Ibom,Nsit Ibom Local Government Area,Nsit-Ibom	4.90092	7.89309	A	ADM2	NG		21	3020			0		58	Africa/Lagos	2015-03-13
+8638463	Etinan	Etinan	Etinan,Etinan Local Government Area	4.81943	7.84464	A	ADM2	NG		21	3007			0		9	Africa/Lagos	2014-09-03
+8638465	Ikot Abasi	Ikot Abasi	Ikot Abasi,Ikot Abasi Local Government Area,Ikot-Abasi	4.60581	7.6244	A	ADM2	NG		21	3013			0		11	Africa/Lagos	2014-09-03
+8638468	Ibeno	Ibeno	Agbegbe Ijoba Ibile Ibeno,Agbègbè Ìjọba Ìbílẹ̀ Ibeno,Ibeno,Ibeno Local Government Area,Ибено	4.56506	8.07258	A	ADM2	NG		21	3008			0		17	Africa/Lagos	2015-03-13
+8638469	Mbo	Mbo	Agbegbe Ijoba Ibile Mbo,Agbègbè Ìjọba Ìbílẹ̀ Mbo,Mbo,Mbo Local Government Area	4.64325	8.25537	A	ADM2	NG		21	3017			0		21	Africa/Lagos	2015-03-13
+8638472	Eket	Eket	Eket,Eket Local Government Area	4.63664	7.95365	A	ADM2	NG		21	3003			0		15	Africa/Lagos	2015-03-13
+8638474	Udung Uko	Udung Uko	Udung Uko,Udung Uko Local Government Area,Udung-Uko	4.75226	8.26529	A	ADM2	NG		21	3027			0		37	Africa/Lagos	2015-03-13
+8638475	Urue Offong/Oruko	Urue Offong/Oruko	Urue Offong Oruko,Urue Offong Oruko Local Government Area,Urue Offong/Oruko,Urue-Offong/Oruko,Urue/Offung/Oruko	4.71702	8.16948	A	ADM2	NG		21	3030			0		28	Africa/Lagos	2014-09-03
+8638478	Okobo	Okobo	Agbegbe Ijoba Ibile Okobo,Agbègbè Ìjọba Ìbílẹ̀ Okobo,Okobo,Okobo Local Government Area	4.82714	8.13204	A	ADM2	NG		21	3023			0		30	Africa/Lagos	2015-03-13
+8638479	Oron	Oron	Oron,Oron Local Government Area	4.80291	8.23005	A	ADM2	NG		21	3025			0		38	Africa/Lagos	2014-09-03
+8638513	Yala	Yala	Agbegbe Ijoba Ibile Yala,Agbègbè Ìjọba Ìbílẹ̀ Yala,Yala,Yala Local Government Area,yala  nayjyrya,یالا، نائجیریا	6.65398	8.54939	A	ADM2	NG		22	9018			0		64	Africa/Lagos	2015-03-14
+8638542	Bekwarra	Bekwarra	Agbegbe Ijoba Ibile Bekwarra,Agbègbè Ìjọba Ìbílẹ̀ Bekwarra,Bekwara,Bekwarra,Bekwarra Local Government Area	6.69583	8.91057	A	ADM2	NG		22	9005			0		129	Africa/Lagos	2014-09-03
+8638544	Obanliku	Obanliku	Agbegbe Ijoba Ibile Obanliku,Agbègbè Ìjọba Ìbílẹ̀ Obanliku,Obanliku,Obanliku Local Government Area	6.53726	9.30699	A	ADM2	NG		22	9012			0		1835	Africa/Lagos	2015-03-14
+8638545	Etung	Etung	Etung,Etung Local Government Area	5.85894	8.79164	A	ADM2	NG		22	9010			0		108	Africa/Lagos	2015-03-14
+8638546	Yakurr	Yakurr	Yakurr,Yakurr Local Government Area	5.80608	8.17499	A	ADM2	NG		22	9017			0		61	Africa/Lagos	2015-03-14
+8638547	Biase	Biase	Agbegbe Ijoba Ibile Biase,Agbègbè Ìjọba Ìbílẹ̀ Biase,Biase,Biase Local Government Area	5.55942	8.07809	A	ADM2	NG		22	9006			0		107	Africa/Lagos	2015-03-14
+8638548	Akamkpa	Akamkpa	Agbegbe Ijoba Ibile Akamkpa,Agbègbè Ìjọba Ìbílẹ̀ Akamkpa,Akamkpa,Akamkpa Local Government Area,akamkpa,اکامکپا	5.42728	8.51855	A	ADM2	NG		22	9002			0		162	Africa/Lagos	2015-03-14
+8638549	Odukpani	Odukpani	Agbegbe Ijoba Ibile Odukpani,Agbègbè Ìjọba Ìbílẹ̀ Odukpani,Odukpani,Odukpani Local Government Area	5.18502	8.13314	A	ADM2	NG		22	9015			0		18	Africa/Lagos	2015-03-14
+8638550	Calabar Municipal	Calabar Municipal	Calabar Municipal,Calabar Municipal Local Government Area,Calabar Ville,Calabar-Municipal,Kalabar Municipal	4.99088	8.30343	A	ADM2	NG		22	9008			0		17	Africa/Lagos	2015-03-14
+8638551	Calabar South	Calabar South	Calabar South,Calabar South Local Government Area,Calabar Sud,Kalabar ta Kudu,Lam Calabar,Lâm Calabar	4.86413	8.33635	A	ADM2	NG		22	9009			0		6	Africa/Lagos	2016-06-23
+8638552	Akpabuyo	Akpabuyo	Agbegbe Ijoba Ibile Akpabuyo,Agbègbè Ìjọba Ìbílẹ̀ Akpabuyo,Akpabuyo,Akpabuyo Local Government Area,akpabwyw,اکپابویو	4.90092	8.48111	A	ADM2	NG		22	9003			0		37	Africa/Lagos	2015-03-14
+8643695	Afikpo South	Afikpo South		5.8493	7.7987	A	ADM2	NG		53	11003			0		50	Africa/Lagos	2015-03-15
+8659710	Ishielu	Ishielu	Agbegbe Ijoba Ibile Ishielu,Agbègbè Ìjọba Ìbílẹ̀ Ishielu,Ishielu,Ishielu Local Government Area	6.42714	7.83583	A	ADM2	NG		53	11008			0		81	Africa/Lagos	2015-03-15
+8659711	Ohaukwu	Ohaukwu	Agbegbe Ijoba Ibile Ohaukwu,Agbègbè Ìjọba Ìbílẹ̀ Ohaukwu,Ohaukwu,Ohaukwu Local Government Area	6.53285	8.02303	A	ADM2	NG		53	11012			0		77	Africa/Lagos	2015-03-15
+8659712	Ebonyi	Ebonyi	Agbegbe Ijoba Ibile Ebonyi,Agbègbè Ìjọba Ìbílẹ̀ Ẹ̀bọ́nyì,Ebonyi,Ebonyi Local Government Area,Ebonyi	6.52184	8.12984	A	ADM2	NG		53	11004			0		86	Africa/Lagos	2015-03-15
+8659713	Ezza North	Ezza North	Agbegbe Ijoba Ibile Ariwa Ezza,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Ezza,Ezza Nord,Ezza Norte,Ezza North,Ezza North Local Government Area,Ezza ta Arewa,Pak Ezza	6.27078	7.97127	A	ADM2	NG		53	11005			0		62	Africa/Lagos	2015-03-15
+8659714	Abakaliki	Abakaliki	Abakaliki,Abakaliki Local Government Area	6.25646	8.21133	A	ADM2	NG		53	11001			0		65	Africa/Lagos	2015-03-15
+8659715	Onicha	Onicha	Agbegbe Ijoba Ibile Onicha,Agbègbè Ìjọba Ìbílẹ̀ Onicha,Onicha,Onicha Local Government Area	6.09899	7.84133	A	ADM2	NG		53	11013			0		79	Africa/Lagos	2015-03-15
+8659716	Ezza South	Ezza South	Ezza South,Ezza South Local Government Area,Ezza Sud,Ezza ta Kudu,Lam Ezza,Lâm Ezza	6.11661	8.001	A	ADM2	NG		53	11006			0		60	Africa/Lagos	2015-03-15
+8659717	Ohaozara	Ohaozara	Agbegbe Ijoba Ibile Ohaozara,Agbègbè Ìjọba Ìbílẹ̀ Ohaozara,Ohaozara,Ohaozara Local Government Area	6.0109	7.77747	A	ADM2	NG		53	11011			0		53	Africa/Lagos	2015-03-15
+8659718	Ivo	Ivo	Agbegbe Ijoba Ibile Ivo,Agbègbè Ìjọba Ìbílẹ̀ Ivo,Ivo,Ivo Local Government Area	5.88426	7.6233	A	ADM2	NG		53	11009			0		48	Africa/Lagos	2015-03-15
+8659719	Udenu	Udenu	Agbegbe Ijoba Ibile Udenu,Agbègbè Ìjọba Ìbílẹ̀ Udenu,Udenu,Udenu Local Government Area,adynw,ywdnw,ادینو,یودنو	6.87201	7.56714	A	ADM2	NG		47	14015			0		281	Africa/Lagos	2015-03-13
+8659737	Igbo-Eze-South	Igbo-Eze-South	Igbo Eze South,Igbo Eze South Local Government Area,Igbo-Eze South,Igboeze South	6.93368	7.36673	A	ADM2	NG		47	14009			0		269	Africa/Lagos	2015-03-13
+8659738	Nsukka	Nsukka	Nsukka,Nsukka Local Government Area	6.85329	7.34801	A	ADM2	NG		47	14013			0		425	Africa/Lagos	2015-03-13
+8659739	Igbo-Etiti	Igbo-Etiti	Igbo Etiti,Igbo Etiti Local Government Area,Igbo-Etiti	6.68151	7.41959	A	ADM2	NG		47	14007			0		477	Africa/Lagos	2015-03-13
+8659740	Enugu North	Enugu North	Agbegbe Ijoba Ibile Ariwa Enugu,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Ẹnúgu,Enugu Nord,Enugu Norte,Enugu North,Enugu North Local Government Area,Enugu ta Arewa,Pak Enugu	6.44476	7.53521	A	ADM2	NG		47	14004			0		165	Africa/Lagos	2015-03-12
+8659741	Ezeagu	Ezeagu	Ezeagu,Ezeagu Local Government Area	6.41062	7.21477	A	ADM2	NG		47	14006			0		73	Africa/Lagos	2015-03-12
+8659742	Aninri	Aninri	Agbegbe Ijoba Ibile Aninri,Agbègbè Ìjọba Ìbílẹ̀ Aninri,Aninri,Aninri Local Government Area,aninri,アニンリ	6.06155	7.59137	A	ADM2	NG		47	14001			0		60	Africa/Lagos	2015-03-12
+8659758	Apa	Apa	Agbegbe Ijoba Ibile Apa,Agbègbè Ìjọba Ìbílẹ̀ Apa,Apa,Apa Local Government Area	7.62962	7.87107	A	ADM2	NG		26	7003			0		144	Africa/Lagos	2015-03-14
+8659759	Tarka	Tarka	Agbegbe Ijoba Ibile Tarka,Agbègbè Ìjọba Ìbílẹ̀ Tarka,Tarka,Tarka Local Government Area	7.62081	8.88194	A	ADM2	NG		26	7020			0		163	Africa/Lagos	2015-03-14
+8659760	Ado	Ado	Ado,Ado Local Government Area,Ador	6.79934	8.00541	A	ADM2	NG		26	7001			0		89	Africa/Lagos	2015-03-14
+8659761	Obi	Obi	Agbegbe Ijoba Ibile Obi,Agbègbè Ìjọba Ìbílẹ̀ Obi,Obi,Obi Local Government Area	7.02177	8.29392	A	ADM2	NG		26	7014			0		68	Africa/Lagos	2015-03-14
+8659762	Oju	Oju	Oju,Oju Local Government Area	6.8588	8.38201	A	ADM2	NG		26	7017			0		137	Africa/Lagos	2015-03-14
+8659763	Ukum	Ukum	Agbegbe Ijoba Ibile Ukum,Agbègbè Ìjọba Ìbílẹ̀ Ukum,Ukum,Ukum Local Government Area	7.64393	9.56356	A	ADM2	NG		26	7021			0		167	Africa/Lagos	2015-03-14
+8659771	Karim Lamido	Karim Lamido	Karim Lamido,Karim Lamido Local Government Area	9.22208	10.86536	A	ADM2	NG		43	35008			0		240	Africa/Lagos	2015-03-12
+8659772	Lau	Lau	Agbegbe Ijoba Ibile Lau,Agbègbè Ìjọba Ìbílẹ̀ Lau,Lau,Lau Local Government Area,Law,lw  nayjrya,لو، نائجریا	9.18704	11.42011	A	ADM2	NG		43	35010			0		177	Africa/Lagos	2015-03-12
+8659773	Zing	Zing	Zing,Zing Local Government Area	8.88339	11.74517	A	ADM2	NG		43	35016			0		502	Africa/Lagos	2015-03-12
+8659774	Yorro	Yorro	Yorro,Yorro Local Government Area	8.9087	11.48434	A	ADM2	NG		43	35015			0		697	Africa/Lagos	2015-03-12
+8659775	Jalingo	Jalingo	Jalingo,Jalingo Local Government Area	8.9195	11.32642	A	ADM2	NG		43	35007			0		176	Africa/Lagos	2016-06-23
+8659776	Ardo-Kola	Ardo-Kola	Ardo Kola,Ardo-Kola,Ardo-Kola Local Government Area	8.80359	11.16707	A	ADM2	NG		43	35001			0		193	Africa/Lagos	2015-03-12
+8659777	Ibi	Ibi	Ibi,Ibi Local Government Area	8.35088	9.88731	A	ADM2	NG		43	35006			0		92	Africa/Lagos	2015-03-12
+8659778	Gassol	Gassol	Agbegbe Ijoba Ibile Gassol,Agbègbè Ìjọba Ìbílẹ̀ Gassol,Gassol,Gassol Local Government Area	8.47269	10.5442	A	ADM2	NG		43	35005			0		187	Africa/Lagos	2015-03-12
+8659779	Bali	Bali	Agbegbe Ijoba Ibile Bali,Agbègbè Ìjọba Ìbílẹ̀ Bali,Bali,Bali Local Government Area,bari de fang xing zheng qu,バリ地方行政区	8.15541	10.96853	A	ADM2	NG		43	35002			0		198	Africa/Lagos	2015-03-12
+8659780	Wukari	Wukari	Wukari,Wukari Local Government Area	7.96327	9.84767	A	ADM2	NG		43	35014			0		170	Africa/Lagos	2015-03-12
+8659781	Donga	Donga	Agbegbe Ijoba Ibile Donga,Agbègbè Ìjọba Ìbílẹ̀ Donga,Donga,Donga Local Government Area,tang jia,唐加	7.59094	10.2133	A	ADM2	NG		43	35003			0		161	Africa/Lagos	2015-03-12
+8659782	Takum	Takum	Agbegbe Ijoba Ibile Takum,Agbègbè Ìjọba Ìbílẹ̀ Takum,Takum,Takum Local Government Area	7.41158	10.04478	A	ADM2	NG		43	35012			0		196	Africa/Lagos	2015-03-12
+8659783	Ussa	Ussa	Agbegbe Ijoba Ibile Ussa,Agbègbè Ìjọba Ìbílẹ̀ Ussa,Ussa,Ussa Local Government Area	7.0868	10.03811	A	ADM2	NG		43	35013			0		250	Africa/Lagos	2015-03-12
+8659784	Kurmi	Kurmi	Kurmi,Kurmi Local Government Area	7.28534	10.58702	A	ADM2	NG		43	35009			0		266	Africa/Lagos	2015-03-12
+8659785	Sardauna	Sardauna	Sardauna,Sardauna Local Government Area	6.87463	11.21184	A	ADM2	NG		43	35011			0		1532	Africa/Lagos	2015-03-12
+8659786	Gashaka	Gashaka	Agbegbe Ijoba Ibile Gashaka,Agbègbè Ìjọba Ìbílẹ̀ Gashaka,Gashaka,Gashaka Local Government Area	7.49945	11.38896	A	ADM2	NG		43	35004			0		297	Africa/Lagos	2015-03-12
+8659787	Shomgom	Shomgom	Shongom,Shongom Local Government Area	9.67366	11.2566	A	ADM2	NG		55	16010			0		402	Africa/Lagos	2015-03-15
+8659788	Billiri	Billiri	Agbegbe Ijoba Ibile Billiri,Agbègbè Ìjọba Ìbílẹ̀ Billiri,Billiri,Billiri Local Government Area,Ɓilliri	9.81575	11.12424	A	ADM2	NG		55	16003			0		392	Africa/Lagos	2015-03-15
+8659789	Balanga	Balanga	Agbegbe Ijoba Ibile Balanga,Agbègbè Ìjọba Ìbílẹ̀ Balanga,Balanga,Balanga Local Government Area	9.8096	11.78623	A	ADM2	NG		55	16002			0		761	Africa/Lagos	2015-03-15
+8659790	Kaltungo	Kaltungo	Agbegbe Ijoba Ibile Kaltungo,Agbègbè Ìjọba Ìbílẹ̀ Kaltungo,Kaltungo,Kaltungo Local Government Area	9.82354	11.42205	A	ADM2	NG		55	16007			0		418	Africa/Lagos	2015-03-15
+8659791	Akko	Akko	Akko,Akko Local Government Area	10.09994	11.04833	A	ADM2	NG		55	16001			0		523	Africa/Lagos	2015-03-15
+8659792	Yamaltu/Deba	Yamaltu/Deba	Agbegbe Ijoba Ibile Yamaltu/Deba,Agbègbè Ìjọba Ìbílẹ̀ Yamaltu/Deba,Jamaltu/Deba,Yamaltu/Deba,Yamaltu/Deba Local Government Area,ya ma er tu/de ba,yamaltw/dba,yamarutou/deba,یامالتو/دبا,ヤマルトゥ/デバ,亚马尔图/德巴	10.23814	11.44152	A	ADM2	NG		55	16011			0		282	Africa/Lagos	2015-03-15
+8659793	Gombe	Gombe	Gombe,Gombe Local Government Area	10.28263	11.16674	A	ADM2	NG		55	16006			0		465	Africa/Lagos	2014-09-06
+8659794	Kwami	Kwami	Kwami,Kwami Local Government Area	10.49313	11.20989	A	ADM2	NG		55	16008			0		491	Africa/Lagos	2015-03-15
+8659795	Dukku	Dukku	Dukku,Dukku Local Government Area	10.80261	10.82838	A	ADM2	NG		55	16004			0		468	Africa/Lagos	2015-03-15
+8659796	Funakaye	Funakaye	Agbegbe Ijoba Ibile Funakaye,Agbègbè Ìjọba Ìbílẹ̀ Funakaye,Funakaye,Funakaye Local Government Area	10.74227	11.40843	A	ADM2	NG		55	16005			0		305	Africa/Lagos	2015-03-15
+8659797	Nafada	Nafada	Nafada,Nafada Local Government Area	11.09069	11.21573	A	ADM2	NG		55	16009			0		290	Africa/Lagos	2015-03-15
+8659798	Michika	Michika	Michika,Michika Local Government Area	10.58072	13.39772	A	ADM2	NG		35	2013			0		670	Africa/Lagos	2015-03-13
+8659799	Mubi North	Mubi North	Agbegbe Ijoba Ibile Ariwa Mubi,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Mubi,Mubi Nord,Mubi North,Mubi North Local Government Area,Mubi ta Arewa,Pak Mubi	10.3498	13.40646	A	ADM2	NG		35	2014			0		703	Africa/Lagos	2015-03-13
+8659800	Mubi South	Mubi South	Agbegbe Ijoba Ibile Guusu Mubi,Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Mubi,Lam Mubi,Lâm Mubi,Mubi South,Mubi South Local Government Area,Mubi Sud,Mubi ta Kudu	10.1874	13.39576	A	ADM2	NG		35	2015			0		941	Africa/Lagos	2015-03-13
+8659801	Hong	Hong	Agbegbe Ijoba Ibile Hong,Agbègbè Ìjọba Ìbílẹ̀ Hong,Hong,Hong Local Government Area	10.31016	12.92473	A	ADM2	NG		35	2007			0		516	Africa/Lagos	2015-03-13
+8659802	Maiha	Maiha	Maiha,Maiha Local Government Area	9.86975	13.2048	A	ADM2	NG		35	2011			0		688	Africa/Lagos	2015-03-13
+8659803	Gombi	Gombi	Gombi,Gombi Local Government Area	10.18948	12.52765	A	ADM2	NG		35	2005			0		570	Africa/Lagos	2015-03-13
+8659804	Song	Song	Song,Song Local Government Area	9.85468	12.62692	A	ADM2	NG		35	2018			0		340	Africa/Lagos	2015-03-13
+8659805	Shelleng	Shelleng	Shelleng,Shelleng Local Government Area	9.94811	12.12668	A	ADM2	NG		35	2017			0		565	Africa/Lagos	2015-03-13
+8659806	Guyuk	Guyuk	Agbegbe Ijoba Ibile Guyuk,Agbègbè Ìjọba Ìbílẹ̀ Guyuk,Gayuk,Guyuk,Guyuk Local Government Area,kywk,كيوك	9.82348	11.92048	A	ADM2	NG		35	2006			0		220	Africa/Lagos	2016-06-23
+8659807	Larmurde	Larmurde	Lamurde,Lamurde Local Government Area	9.5705	11.71792	A	ADM2	NG		35	2009			0		160	Africa/Lagos	2015-03-13
+8659808	Numan	Numan	Numan,Numan Local Government Area,nu man,numan,nwman,نومان,ヌマン,努曼	9.45371	11.83665	A	ADM2	NG		35	2016			0		145	Africa/Lagos	2015-03-13
+8659809	Demsa	Demsa	Demsa,Demsa Local Government Area	9.35639	12.07802	A	ADM2	NG		35	2001			0		280	Africa/Lagos	2015-03-13
+8659810	Girei	Girei	Girei,Girei Local Government Area	9.42646	12.48094	A	ADM2	NG		35	2004			0		202	Africa/Lagos	2015-03-13
+8659811	Yola North	Yola North	Agbegbe Ijoba Ibile Ariwa Yola,Agbègbè Ìjọba Ìbílẹ̀ Àríwá Yola,Pak Yola,Yola Nord,Yola North,Yola North Local Government Area,Yola Woyla,Yola ta Arewa,ywla shmaly,یولا شمالی	9.26628	12.25113	A	ADM2	NG		35	2020			0		180	Africa/Lagos	2016-06-23
+8659812	Yola South	Yola South	Agbegbe Ijoba Ibile Guusu Yola,Agbègbè Ìjọba Ìbílẹ̀ Gúúsù Yola,Lam Yola,Lâm Yola,Yola Fombina,Yola South,Yola South Local Government Area,Yola Sud,Yola ta Kudu,ywla jnwby,یولا جنوبی	9.25286	12.43618	A	ADM2	NG		35	2021			0		182	Africa/Lagos	2014-09-06
+8659813	Mayo-Belwa	Mayo-Belwa	Mayo-Belwa,Mayo-Belwa Local Government Area	8.97099	11.9768	A	ADM2	NG		35	2012			0		318	Africa/Lagos	2015-03-13
+8659814	Jada	Jada	Agbegbe Ijoba Ibile Jada,Agbègbè Ìjọba Ìbílẹ̀ Jada,Dzhada,Jada,Jada Local Government Area,jda  nayjyrya,Джада,جدا، نائجیریا	8.68875	12.31743	A	ADM2	NG		35	2008			0		401	Africa/Lagos	2015-03-13
+8659815	Ganye	Ganye	Ganye,Ganye Local Government Area	8.36758	11.94566	A	ADM2	NG		35	2003			0		1329	Africa/Lagos	2015-03-13
+8659816	Teungo	Teungo	Toungo,Toungo Local Government Area	7.9958	11.84249	A	ADM2	NG		35	2019			0		525	Africa/Lagos	2015-03-13
+8659822	Abadam	Abadam	Abadam,Abadam Local Government Area,Agbegbe Ijoba Ibile Abadam,Agbègbè Ìjọba Ìbílẹ̀ Abadam,abadam,آبادام	13.43162	13.31319	A	ADM2	NG		27	101			0		293	Africa/Lagos	2014-09-03
+8659823	Mobbar	Mobbar	Agbegbe Ijoba Ibile Mobbar,Agbègbè Ìjọba Ìbílẹ̀ Mobbar,Mobbar,Mobbar Local Government Area	13.09165	12.6966	A	ADM2	NG		27	122			0		307	Africa/Lagos	2014-09-03
+8659824	Kukawa	Kukawa	Kukawa,Kukawa Local Government Area	13.13073	13.73811	A	ADM2	NG		27	117			0		284	Africa/Lagos	2016-06-23
+8659825	Guzamala	Guzamala	Agbegbe Ijoba Ibile Guzamala,Agbègbè Ìjọba Ìbílẹ̀ Guzamala,Guzamala,Guzamala Local Government Area	12.91849	13.21395	A	ADM2	NG		27	110			0		298	Africa/Lagos	2014-09-03
+8659826	Gubio	Gubio	Gubio,Gubio Local Government Area	12.67777	12.75361	A	ADM2	NG		27	109			0		305	Africa/Lagos	2014-09-03
+8659827	Nganzai	Nganzai	Agbegbe Ijoba Ibile Nganzai,Agbègbè Ìjọba Ìbílẹ̀ Nganzai,Nganzai,Nganzai Local Government Area,en gan zha yi,恩甘扎伊	12.50884	13.10414	A	ADM2	NG		27	126			0		299	Africa/Lagos	2014-09-03
+8659828	Monguno	Monguno	Monguno,Monguno Local Government Area	12.57852	13.61727	A	ADM2	NG		27	123			0		289	Africa/Lagos	2014-09-03
+8659829	Magumeri	Magumeri	Magumeri,Magumeri Local Government Area	12.17309	12.63114	A	ADM2	NG		27	120			0		335	Africa/Lagos	2014-09-03
+8659830	Marte	Marte	Agbegbe Ijoba Ibile Marte,Agbègbè Ìjọba Ìbílẹ̀ Marte,Marte,Marte Local Government Area,ma er te,馬爾特	12.40959	13.87278	A	ADM2	NG		27	121			0		293	Africa/Lagos	2014-09-03
+8659831	Ngala	Ngala	Agbegbe Ijoba Ibile Ngala,Agbègbè Ìjọba Ìbílẹ̀ Ngala,Ngala,Ngala Local Government Area,en jia la,恩加拉	12.21532	14.18319	A	ADM2	NG		27	125			0		290	Africa/Lagos	2015-03-14
+8659832	Kala-Balge	Kala-Balge	Kala/Balge,Kala/Balge Local Government Area	12.04639	14.48093	A	ADM2	NG		27	115			0		292	Africa/Lagos	2015-03-14
+8659833	Mafa	Mafa	Mafa,Mafa Local Government Area	12.00204	13.53703	A	ADM2	NG		27	119			0		299	Africa/Lagos	2015-03-14
+8659834	Dikwa	Dikwa	Dikwa,Dikwa Local Government Area	11.90069	14.02693	A	ADM2	NG		27	108			0		298	Africa/Lagos	2015-03-14
+8659835	Jere	Jere	Agbegbe Ijoba Ibile Jere,Agbègbè Ìjọba Ìbílẹ̀ Jere,Jere,Jere Local Government Area	11.89912	13.29155	A	ADM2	NG		27	113			0		306	Africa/Lagos	2015-03-14
+8659836	Konduga	Konduga	Konduga,Konduga Local Government Area,kondouga,kong du jia,コンドゥガ,孔杜加	11.58605	13.00278	A	ADM2	NG		27	116			0		347	Africa/Lagos	2015-03-14
+8659837	Kaga	Kaga	Agbegbe Ijoba Ibile Kaga,Agbègbè Ìjọba Ìbílẹ̀ Kaga,Kaga,Kaga Local Government Area	11.64518	12.45165	A	ADM2	NG		27	114			0		382	Africa/Lagos	2014-09-03
+8659838	Bama	Bama	Bama,Bama Local Government Area	11.52059	14.09661	A	ADM2	NG		27	103			0		309	Africa/Lagos	2015-03-14
+8659839	Gwoza	Gwoza	Gwoza,Gwoza Local Government Area	11.17639	13.57926	A	ADM2	NG		27	111			0		366	Africa/Lagos	2014-09-03
+8659840	Damboa	Damboa	Damboa,Damboa Local Government Area	11.09826	12.76417	A	ADM2	NG		27	107			0		417	Africa/Lagos	2014-09-03
+8659841	Chibok	Chibok	Agbegbe Ijoba Ibile Chibok,Agbègbè Ìjọba Ìbílẹ̀ Chibok,Chibok,Chibok Local Government Area,Chibọk,chiboku,chybwk,qi bo ke,z'ybwq,Чибок,צ'יבוק,چیبوک,チボク,奇博克	10.83642	12.7705	A	ADM2	NG		27	106			0		433	Africa/Lagos	2014-09-03
+8659842	Askira-Uba	Askira-Uba	Askira/Uba,Askira/Uba Local Government Area	10.63582	12.8782	A	ADM2	NG		27	102			0		461	Africa/Lagos	2014-09-03
+8659843	Biu	Biu	Biu,Biu Local Government Area	10.81742	12.08845	A	ADM2	NG		27	105			0		709	Africa/Lagos	2014-09-03
+8659844	Hawul	Hawul	Agbegbe Ijoba Ibile Hawul,Agbègbè Ìjọba Ìbílẹ̀ Hawul,Hawul,Hawul Local Government Area	10.4331	12.24682	A	ADM2	NG		27	112			0		333	Africa/Lagos	2014-09-03
+8659845	Bayo	Bayo	Bayo,Bayo Local Government Area	10.42254	11.70624	A	ADM2	NG		27	104			0		290	Africa/Lagos	2014-09-03
+8659846	Shani	Shani	Agbegbe Ijoba Ibile Shani,Agbègbè Ìjọba Ìbílẹ̀ Shani,Shani,Shani Local,Shani Local Government Area	10.18393	11.96386	A	ADM2	NG		27	127			0		258	Africa/Lagos	2014-09-03
+8659847	Kwaya Kusar	Kwaya Kusar	Kwaya Kusar,Kwaya Kusar Local Government Area,Kwaya-Kusar	10.44317	11.99089	A	ADM2	NG		27	118			0		388	Africa/Lagos	2014-09-03
+8659860	Maiduguri	Maiduguri	Maiduguri,Maiduguri Local Government Area,maydwghwry,maydwgwrw,maydwjwry,mydghry,مايدوجوري,مايدوغوري,مايدوگورو,ميدغري	11.83537	13.15166	A	ADM2	NG		27	124			0		322	Africa/Lagos	2019-05-17
+8659861	Machina	Machina	Agbegbe Ijoba Ibile Machina,Agbègbè Ìjọba Ìbílẹ̀ Machina,Machina,Machina Local Government Area,Macina,machina,machyna  nayyjyrya,ماچینا، نائیجیریا,マチーナ	13.04519	9.98526	A	ADM2	NG		44	711			0		355	Africa/Lagos	2015-03-19
+8659862	Nguru	Nguru	Nguru,Nguru Local Government Area	12.97973	10.39914	A	ADM2	NG		44	713			0		344	Africa/Lagos	2015-03-19
+8659863	Yusufari	Yusufari	Yusufari,Yusufari Local Government Area	13.22046	10.8827	A	ADM2	NG		44	717			0		340	Africa/Lagos	2015-03-19
+8659864	Yunusari	Yunusari	Agbegbe Ijoba Ibile Yunusari,Agbègbè Ìjọba Ìbílẹ̀ Yunusari,Yunusari,Yunusari Local Government Area,yunusari,ywnsry,یونسری,ユヌサリ	13.10432	11.78648	A	ADM2	NG		44	716			0		330	Africa/Lagos	2014-09-03
+8659865	Karasuwa	Karasuwa	Agbegbe Ijoba Ibile Karasuwa,Agbègbè Ìjọba Ìbílẹ̀ Karasuwa,Karasuwa,Karasuwa Local Government Area,karasuwa,カラスワ	12.96284	10.78345	A	ADM2	NG		44	710			0		340	Africa/Lagos	2015-03-19
+8659866	Barde	Barde	Bade,Bade Local Government Area	12.71613	10.64338	A	ADM2	NG		44	701			0		346	Africa/Lagos	2016-06-23
+8659867	Geidam	Geidam	Agbegbe Ijoba Ibile Geidam,Agbègbè Ìjọba Ìbílẹ̀ Geidam,Geidam,Geidam Local Government Area,Geidama,Geidamas,Geidan,Gejdam,Nkeintam,gai da mu,ge'idama,geidam,geidamu,ghydam,gi'idama,gidam,gidama,jidam,jyydam,key dam,keytam,Γκέινταμ,Гейдам,جییدام,غيدام,गीदाम,गेईदाम,গিইদাম,ગીદામ,கெய்டம்,జీడం,ಗೀದಮ್,ගෙයිඩම්,เกยดาม,ゲイダム,盖达姆,게이담	12.65454	12.06733	A	ADM2	NG		44	706			0		332	Africa/Lagos	2015-03-18
+8659868	Jakusko	Jakusko	Agbegbe Ijoba Ibile Jakusko,Agbègbè Ìjọba Ìbílẹ̀ Jakusko,Dzakusko,Dzhakusko,Džakusko,Jakuskas,Jakusko,Jakusko Local Government Area,Tzakousko,cakhas kho,jakskko,jakusako,jakuseuko,jakusko,jakusuko,jakwskw,jekukso,jkskw,ya ge bu  ni ri li ya,yakasakau,Τζακούσκο,Джакуско,جاكوسكو,جکسکو,जाकुसको,यकसकौ,জাকুস্কো,જેકુક્સો,ஜாக்ஸ்க்கோ,జకుస్కో,ಜಕುಸ್ಕೊ,ජකුක්සෝ,จาคัสโค,ジャクスコ,雅各布，尼日利亚,자쿠스코	12.45605	10.91226	A	ADM2	NG		44	709			0		347	Africa/Lagos	2015-03-18
+8659869	Tarmua	Tarmua	Tarmuwa,Tarmuwa Local Government Area	12.17837	11.80232	A	ADM2	NG		44	715			0		355	Africa/Lagos	2015-03-19
+8659870	Damaturu	Damaturu	Damaturu,Damaturu Local Government Area	11.78032	11.97864	A	ADM2	NG		44	703			0		378	Africa/Lagos	2015-03-18
+8659871	Fune	Fune	Agbegbe Ijoba Ibile Fune,Agbègbè Ìjọba Ìbílẹ̀ Fune,Fune,Fune Local Government Area,fune,フネ	11.85212	11.44862	A	ADM2	NG		44	705			0		398	Africa/Lagos	2015-03-18
+8659872	Nangere	Nangere	Agbegbe Ijoba Ibile Nangere,Agbègbè Ìjọba Ìbílẹ̀ Nangere,Nangere,Nangere Local Government Area,nangere,ナンゲレ	11.82044	10.97139	A	ADM2	NG		44	712			0		396	Africa/Lagos	2015-03-19
+8659873	Potiskum	Potiskum	Potiskum,Potiskum Local Government Area	11.71064	11.15721	A	ADM2	NG		44	714			0		448	Africa/Lagos	2015-03-19
+8659874	Fika	Fika	Agbegbe Ijoba Ibile Fika,Agbègbè Ìjọba Ìbílẹ̀ Fika,Fika,Fika Local Government Area,fika,フィカ	11.377	11.23746	A	ADM2	NG		44	704			0		477	Africa/Lagos	2015-03-18
+9172954	Bakassi	Bakassi		4.81714	8.60212	A	ADM2	NG		22	9004			0		15	Africa/Lagos	2014-09-26
+9180446	Illela	Illela	Illela,Illela Local Government Area	13.69519	5.36123	A	ADM2	NG		51	608			0		286	Africa/Lagos	2015-03-18
+9485472	Koko/Besse Local Government Area	Koko/Besse Local Government Area	Koko/Besse,Koko/Besse Local Government Area	11.48762	4.42445	A	ADM2	NG		40	9485472			0		257	Africa/Lagos	2014-09-06
+9485473	Oshodi-Isolo Local Government Area	Oshodi-Isolo Local Government Area	Oshodi,Oshodi Local Government Area,Oshodi-Isolo,Oshodi-Isolo Local Government Area	6.56068	3.33531	A	ADM2	NG		05	9485473			0		28	Africa/Lagos	2015-08-08
+9485474	Lagos Mainland Local Government Area	Lagos Mainland Local Government Area	Lagos Mainland,Lagos Mainland Local Government Area	6.47941	3.37292	A	ADM2	NG		05	9485474			0		3	Africa/Lagos	2015-08-08
+9485475	Ifako-Ijaiye Local Government Area	Ifako-Ijaiye Local Government Area	Ifako Ijaiye,Ifako-Ijaiye,Ifako-Ijaiye Local Government Area,Ifako-Ijaye	6.66503	3.30279	A	ADM2	NG		05	9485475			0		46	Africa/Lagos	2021-11-11
+9485476	Lagos Island Local Government Area	Lagos Island Local Government Area	Lagos Island,Lagos Island Local Government Area,Lagos Island West	6.46113	3.39037	A	ADM2	NG		05	9485476			0		6	Africa/Lagos	2015-08-08
+9485477	Ogu/Bolo Local Government Area	Ogu/Bolo Local Government Area	Ogu/Bolo,Ogu/Bolo Local Government Area	4.66943	7.20268	A	ADM2	NG		50	9485477			0		11	Africa/Lagos	2014-09-06
+9485478	Mbaitoli Local Government Area	Mbaitoli Local Government Area	Mbaitoli,Mbaitoli Local Government Area,Mbaitolu	5.58998	7.02124	A	ADM2	NG		28	9485478			0		135	Africa/Lagos	2014-09-06
+9485480	Isiala Ngwa North Local Government Area	Isiala Ngwa North Local Government Area	Isiala Ngwa North,Isiala Ngwa North Local Government Area	5.40305	7.41986	A	ADM2	NG		45	9485480			0		127	Africa/Lagos	2014-09-06
+9485481	Isiala Ngwa South Local Government Area	Isiala Ngwa South Local Government Area	Isiala Ngwa South,Isiala Ngwa South Local Government Area	5.32707	7.39233	A	ADM2	NG		45	9485481			0		111	Africa/Lagos	2014-09-06
+9485482	Makurdi Local Government Area	Makurdi Local Government Area	Makurdi,Makurdi Local Government Area	7.73753	8.52296	A	ADM2	NG		26	9485482			0		92	Africa/Lagos	2014-09-06
+9485483	Buruku Local Government Area	Buruku Local Government Area	Buruku,Buruku Local Government Area	7.36534	9.26074	A	ADM2	NG		26	9485483			0		128	Africa/Lagos	2015-03-14
+9485484	Bursari Local Government Area	Bursari Local Government Area	Bursari,Bursari Local Government Area	12.71578	11.41272	A	ADM2	NG		44	9485484			0		341	Africa/Lagos	2015-03-18
+9492098	Yauri Local Government Area	Yauri Local Government Area	Yauri,Yauri Local Government Area	11.0214	4.51491	A	ADM2	NG		40	9492098			0		206	Africa/Lagos	2014-09-07

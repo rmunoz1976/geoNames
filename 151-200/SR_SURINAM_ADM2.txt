@@ -1,0 +1,68 @@
+﻿12088671	Kwakoegron	Kwakoegron		5.24715	-55.34308	A	ADM2	SR		10	12088671			0		7	America/Paramaribo	2019-09-12
+12088672	Marshallkreek	Marshallkreek		4.79279	-55.14625	A	ADM2	SR		10	12088672			0		61	America/Paramaribo	2019-09-12
+12088673	Klaaskreek	Klaaskreek		5.17741	-55.07805	A	ADM2	SR		10	12088673			0		16	America/Paramaribo	2019-09-12
+12088674	Centrum	Centrum		5.06846	-54.95546	A	ADM2	SR		10	12088674			0		44	America/Paramaribo	2019-09-12
+12088675	Brownsweg	Brownsweg		5.01395	-55.16951	A	ADM2	SR		10	12088675			0		46	America/Paramaribo	2019-09-12
+12088676	Sarakreek	Sarakreek		4.32023	-54.96888	A	ADM2	SR		10	12088676			0		67	America/Paramaribo	2019-09-12
+12088677	Bakkie	Bakkie		5.89393	-54.88665	A	ADM2	SR		11	12088677			0		1	America/Paramaribo	2019-09-12
+12088678	Margaretha	Margaretha		5.94713	-55.13201	A	ADM2	SR		11	12088678			0		0	America/Paramaribo	2019-09-12
+12088679	Nieuw Amsterdam	Nieuw Amsterdam		5.88186	-55.08121	A	ADM2	SR		11	12088679			0		3	America/Paramaribo	2019-09-14
+12088680	Alkmaar	Alkmaar		5.83717	-55.02005	A	ADM2	SR		11	12088680			0		1	America/Paramaribo	2019-09-12
+12088681	Tamanredjo	Tamanredjo		5.78248	-55.01859	A	ADM2	SR		11	12088681			0		3	America/Paramaribo	2019-09-12
+12088682	Johanna Maria	Johanna Maria		5.892	-56.373	A	ADM2	SR		12	12088682			0		1	America/Paramaribo	2024-02-20
+12088683	Moengo	Moengo		5.6105	-54.39808	A	ADM2	SR		13	12088683			0		9	America/Paramaribo	2019-09-12
+12088684	Wanhatti	Wanhatti		5.78312	-54.45587	A	ADM2	SR		13	12088684			0		9	America/Paramaribo	2019-09-12
+12088691	Galibi	Galibi		5.71421	-54.01659	A	ADM2	SR		13	12088691			0		4	America/Paramaribo	2019-09-14
+12088700	Moengo Tapoe	Moengo Tapoe		5.57283	-54.25021	A	ADM2	SR		13	12088700			0		75	America/Paramaribo	2019-09-14
+12088702	Albina	Albina		5.49598	-54.05672	A	ADM2	SR		13	12088702			0		1	America/Paramaribo	2019-09-15
+12088703	Patamacca	Patamacca		5.40382	-54.43582	A	ADM2	SR		13	12088703			0		55	America/Paramaribo	2019-09-14
+12088704	Wageningen	Wageningen		5.77071	-56.68866	A	ADM2	SR		14	12088704			0		4	America/Paramaribo	2019-09-14
+12088705	Groot Henar	Groot Henar		5.85828	-56.88739	A	ADM2	SR		14	12088705			0		3	America/Paramaribo	2019-09-14
+12088706	Nieuw Nickerie	Nieuw Nickerie		5.92875	-56.99563	A	ADM2	SR		14	12088706			0		3	America/Paramaribo	2019-09-14
+12088707	Westelijke Polders	Westelijke Polders		5.90156	-57.04902	A	ADM2	SR		14	12088707			0		1	America/Paramaribo	2019-09-14
+12088708	Bigi Poika	Bigi Poika		5.40548	-55.50994	A	ADM2	SR		15	12088708			0		23	America/Paramaribo	2019-09-14
+12088709	Zuid	Zuid		5.43964	-55.2175	A	ADM2	SR		15	12088709			0		18	America/Paramaribo	2019-09-14
+12088710	Noord	Noord		5.62657	-55.23797	A	ADM2	SR		15	12088710			0		15	America/Paramaribo	2019-09-14
+12088711	Oost	Oost		5.50415	-55.10572	A	ADM2	SR		15	12088711			0		23	America/Paramaribo	2019-09-14
+12088712	Carolina	Carolina		5.44815	-54.99828	A	ADM2	SR		15	12088712			0		16	America/Paramaribo	2019-09-14
+12088713	Rainville	Rainville		5.86606	-55.15525	A	ADM2	SR		16	12088713			0		5	America/Paramaribo	2019-09-14
+12088714	Blauwgrond	Blauwgrond		5.87454	-55.12522	A	ADM2	SR		16	12088714			0		7	America/Paramaribo	2019-09-14
+12088716	Munder	Munder		5.83854	-55.18242	A	ADM2	SR		16	12088716			0		4	America/Paramaribo	2019-09-14
+12088717	Beekhuizen	Beekhuizen		5.80706	-55.18015	A	ADM2	SR		16	12088717			0		8	America/Paramaribo	2019-09-14
+12088718	Weg naar Zee	Weg naar Zee		5.844	-55.216	A	ADM2	SR		16	12088718			0		4	America/Paramaribo	2024-02-20
+12088719	Welgelegen	Welgelegen		5.83766	-55.20713	A	ADM2	SR		16	12088719			0		5	America/Paramaribo	2019-09-14
+12088720	Tammenga	Tammenga		5.81371	-55.21479	A	ADM2	SR		16	12088720			0		5	America/Paramaribo	2019-09-14
+12088721	Flora	Flora		5.81642	-55.19626	A	ADM2	SR		16	12088721			0		6	America/Paramaribo	2019-09-14
+12088722	Latour	Latour	La Tour	5.79545	-55.20531	A	ADM2	SR		16	12088722			0		4	America/Paramaribo	2019-09-14
+12088723	Pontbuiten	Pontbuiten	Pont Buiten	5.78458	-55.2051	A	ADM2	SR		19	12088723			0		5	America/Paramaribo	2019-09-14
+12088724	Livorno	Livorno		5.77248	-55.16691	A	ADM2	SR		16	12088724			0		9	America/Paramaribo	2019-09-14
+12088725	Calcutta	Calcutta		5.84499	-55.67359	A	ADM2	SR		17	12088725			0		3	America/Paramaribo	2019-09-14
+12088726	Tijgerkreek	Tijgerkreek	Tijger Kreek	5.78988	-55.51993	A	ADM2	SR		17	12088726			0		4	America/Paramaribo	2019-09-14
+12088727	Groningen	Groningen		5.79439	-55.47735	A	ADM2	SR		17	12088727			0		7	America/Paramaribo	2019-09-14
+12088728	Kampong Baroe	Kampong Baroe		5.74955	-55.40536	A	ADM2	SR		17	12088728			0		7	America/Paramaribo	2019-09-14
+12088729	Wayambo	Wayambo		5.84286	-55.46761	A	ADM2	SR		17	12088729			0		1	America/Paramaribo	2019-09-14
+12088730	Jarikaba	Jarikaba		5.82561	-55.33188	A	ADM2	SR		17	12088730			0		4	America/Paramaribo	2019-09-14
+12088731	Tapanahony	Tapanahony		3.50834	-55.05167	A	ADM2	SR		18	12088731			0		115	America/Paramaribo	2019-09-14
+12088733	Boven Suriname	Boven Suriname		3.90945	-55.57915	A	ADM2	SR		18	12088733			0		108	America/Paramaribo	2019-09-14
+12088734	Boven Saramacca	Boven Saramacca		4.7817	-55.55429	A	ADM2	SR		18	12088734			0		54	America/Paramaribo	2019-09-14
+12088735	Boven Coppename	Boven Coppename		4.41478	-56.52323	A	ADM2	SR		18	12088735			0		106	America/Paramaribo	2019-09-14
+12088736	Kabalebo	Kabalebo		4.40902	-57.22442	A	ADM2	SR		18	12088736			0		100	America/Paramaribo	2019-09-14
+12088737	Coeroeni	Coeroeni		2.35736	-56.78602	A	ADM2	SR		18	12088737			0		215	America/Paramaribo	2019-09-14
+12088738	Domburg	Domburg		5.68038	-55.08915	A	ADM2	SR		15	12088738			0		5	America/Paramaribo	2019-09-14
+12088740	Houttuin	Houttuin		5.73776	-55.14435	A	ADM2	SR		19	12088740			0		4	America/Paramaribo	2019-09-15
+12088741	Lelydorp	Lelydorp		5.69287	-55.21273	A	ADM2	SR		19	12088741			0		9	America/Paramaribo	2019-09-15
+12088742	De Nieuwe Grond	De Nieuwe Grond		5.75009	-55.20669	A	ADM2	SR		19	12088742			0		7	America/Paramaribo	2019-09-15
+12088743	Koewarasan	Koewarasan		5.76481	-55.29101	A	ADM2	SR		19	12088743			0		7	America/Paramaribo	2019-09-15
+12088744	Saramacca Polder	Saramacca Polder		5.82969	-55.25578	A	ADM2	SR		19	12088744			0		3	America/Paramaribo	2019-09-15
+12088745	Kwatta	Kwatta		5.86869	-55.27342	A	ADM2	SR		17	12088745			0		5	America/Paramaribo	2019-09-15
+13108205	Ressort Oostelijke Polders	Ressort Oostelijke Polders	Oostelijke Polders,Ressort Oostelijke Polders	5.91779	-56.89555	A	ADM2	SR		14	13108205			0		1	America/Paramaribo	2024-10-12
+13108206	Ressort Westelijke Polders	Ressort Westelijke Polders	Ressort Westelijke Polders,Westelijke Polders	5.59141	-57.12133	A	ADM2	SR		14	13108206			0		10	America/Paramaribo	2024-10-12
+13108207	Ressort Welgelegen	Ressort Welgelegen	Ressort Welgelegen,Welgelegen	5.62476	-56.13304	A	ADM2	SR		12	13108207			0		12	America/Paramaribo	2024-10-12
+13108208	Ressort Totness	Ressort Totness	Ressort Totness,Totness	5.64416	-56.33594	A	ADM2	SR		12	13108208			0		11	America/Paramaribo	2024-10-12
+13108209	Meerzorg	Meerzorg	Meerzorg,Ressort Meerzorg	5.60602	-54.88902	A	ADM2	SR		11	13108209			0		21	America/Paramaribo	2024-10-12
+13108210	Ressort Marchallkreek	Ressort Marchallkreek	Marchallkreek,Ressort Marchallkreek	5.28973	-55.08917	A	ADM2	SR		10	13108210			0		25	America/Paramaribo	2024-10-12
+13108211	Paramacca	Paramacca	Paramacca,Ressort Paramacca	5.11404	-54.58685	A	ADM2	SR		18	13108211			0		76	America/Paramaribo	2024-10-12
+13108212	Ressort Boven-Coppename	Ressort Boven-Coppename	Boven-Coppename,Ressort Boven-Coppename	4.38252	-56.26823	A	ADM2	SR		18	13108212			0		180	America/Paramaribo	2024-10-12
+13108213	Ressort Coeroeni	Ressort Coeroeni	Coeroeni,Curuni,Ressort Coeroeni,Ressort Curuni	2.93739	-56.64109	A	ADM2	SR		18	13108213			0		321	America/Paramaribo	2024-10-12
+13456230	Centrum	Centrum	Centrum,Ressort Centrum	5.82746	-55.17188	A	ADM2	SR		16	13456230			0		3	America/Paramaribo	2025-07-19
+13456231	Boven-Saramacca	Boven-Saramacca	Boven-Saramacca,Ressort Boven-Saramacca	4.15286	-55.91	A	ADM2	SR		18	13456231			0		93	America/Paramaribo	2025-07-19

@@ -1,0 +1,44 @@
+﻿12916937	Cabañas Este	Cabanas Este	Cabanas Este,Cabañas Este,Municipio de Cabanas Este,Municipio de Cabañas Este	13.89802	-88.6227	A	ADM2	SV		02	12916937			0		691	America/El_Salvador	2024-08-05
+12916938	La Libertad Oeste	La Libertad Oeste	La Libertad Oeste,Municipio de La Libertad Oeste	13.70412	-89.44339	A	ADM2	SV		05	12916938			0		662	America/El_Salvador	2024-08-05
+12916939	La Paz Centro	La Paz Centro	La Paz Centro,Municipio de La Paz Centro	13.4805	-88.98077	A	ADM2	SV		06	12916939			0		70	America/El_Salvador	2024-08-05
+12916940	Chalatenango Norte	Chalatenango Norte	Chalatenango Norte,Municipio de Chalatenango Norte	14.32591	-89.16929	A	ADM2	SV		03	12916940			0		1016	America/El_Salvador	2024-08-05
+12916941	San Salvador Norte	San Salvador Norte	Municipio de San Salvador Norte,San Salvador Norte	13.95469	-89.19119	A	ADM2	SV		10	12916941			0		300	America/El_Salvador	2024-08-05
+12916942	Santa Ana Oeste	Santa Ana Oeste	Municipio de Santa Ana Oeste,Santa Ana Oeste	14.07536	-89.66658	A	ADM2	SV		11	12916942			0		815	America/El_Salvador	2024-08-05
+12916943	Santa Ana Norte	Santa Ana Norte	Municipio de Santa Ana Norte,Santa Ana Norte	14.21553	-89.42278	A	ADM2	SV		11	12916943			0		463	America/El_Salvador	2024-08-05
+12916944	Morazán Sur	Morazan Sur	Morazan Sur,Morazán Sur,Municipio de Morazan Sur,Municipio de Morazán Sur	13.68158	-88.11146	A	ADM2	SV		08	12916944			0		279	America/El_Salvador	2024-08-05
+12916945	Usulután Oeste	Usulutan Oeste	Municipio de Usulutan Oeste,Municipio de Usulután Oeste,Usulutan Oeste,Usulután Oeste	13.34883	-88.62901	A	ADM2	SV		14	12916945			0		38	America/El_Salvador	2024-08-05
+12916946	Ahuachapán Norte	Ahuachapan Norte	Ahuachapan Norte,Ahuachapán Norte,Municipio de Ahuachapan Norte,Municipio de Ahuachapán Norte	13.98102	-89.74674	A	ADM2	SV		01	12916946			0		640	America/El_Salvador	2024-08-05
+12916947	Cuscatlán Norte	Cuscatlan Norte	Cuscatlan Norte,Cuscatlán Norte,Municipio de Cuscatlan Norte,Municipio de Cuscatlán Norte	13.84124	-89.05968	A	ADM2	SV		04	12916947			0		711	America/El_Salvador	2024-08-05
+12916948	La Unión Norte	La Union Norte	La Union Norte,La Unión Norte,Municipio de La Union Norte,Municipio de La Unión Norte	13.70723	-87.84364	A	ADM2	SV		07	12916948			0		181	America/El_Salvador	2024-08-05
+12916949	Sonsonate Este	Sonsonate Este	Municipio de Sonsonate Este,Sonsonate Este	13.71208	-89.58117	A	ADM2	SV		13	12916949			0		473	America/El_Salvador	2024-08-05
+12916950	Chalatenango Centro	Chalatenango Centro	Chalatenango Centro,Municipio de Chalatenango Centro	14.17329	-89.14178	A	ADM2	SV		03	12916950			0		453	America/El_Salvador	2024-08-05
+12916951	La Paz Este	La Paz Este	La Paz Este,Municipio de La Paz Este	13.45078	-88.87007	A	ADM2	SV		06	12916951			0		48	America/El_Salvador	2024-08-05
+12916952	La Paz Oeste	La Paz Oeste	La Paz Oeste,Municipio de La Paz Oeste	13.50664	-89.08532	A	ADM2	SV		06	12916952			0		168	America/El_Salvador	2024-08-05
+12916953	La Libertad Centro	La Libertad Centro	La Libertad Centro,Municipio de La Libertad Centro	13.83342	-89.38166	A	ADM2	SV		05	12916953			0		527	America/El_Salvador	2024-08-05
+12916954	Usulután Norte	Usulutan Norte	Municipio de Usulutan Norte,Municipio de Usulután Norte,Usulutan Norte,Usulután Norte	13.55974	-88.47816	A	ADM2	SV		14	12916954			0		394	America/El_Salvador	2024-08-05
+12916955	Sonsonate Norte	Sonsonate Norte	Municipio de Sonsonate Norte,Sonsonate Norte	13.81984	-89.73122	A	ADM2	SV		13	12916955			0		879	America/El_Salvador	2024-08-05
+12916956	San Miguel Norte	San Miguel Norte	Municipio de San Miguel Norte,San Miguel Norte	13.75362	-88.34012	A	ADM2	SV		09	12916956			0		379	America/El_Salvador	2024-08-05
+12916957	Cabañas Oeste	Cabanas Oeste	Cabanas Oeste,Cabañas Oeste,Municipio de Cabanas Oeste,Municipio de Cabañas Oeste	13.86553	-88.8399	A	ADM2	SV		02	12916957			0		801	America/El_Salvador	2024-08-05
+12916958	Morazán Norte	Morazan Norte	Morazan Norte,Morazán Norte,Municipio de Morazan Norte,Municipio de Morazán Norte	13.88404	-88.09363	A	ADM2	SV		08	12916958			0		514	America/El_Salvador	2024-08-05
+12916959	La Libertad Norte	La Libertad Norte	La Libertad Norte,Municipio de La Libertad Norte	13.9185	-89.2849	A	ADM2	SV		05	12916959			0		345	America/El_Salvador	2024-08-05
+12916960	San Vicente Norte	San Vicente Norte	Municipio de San Vicente Norte,San Vicente Norte	13.70781	-88.7092	A	ADM2	SV		12	12916960			0		412	America/El_Salvador	2024-08-05
+12916961	Cuscatlán Sur	Cuscatlan Sur	Cuscatlan Sur,Cuscatlán Sur,Municipio de Cuscatlan Sur,Municipio de Cuscatlán Sur	13.73163	-88.92478	A	ADM2	SV		04	12916961			0		759	America/El_Salvador	2024-08-05
+12954151	Municipio de Ahuachapan Centro	Municipio de Ahuachapan Centro		13.8601	-89.88085	A	ADM2	SV		01	12954151			0		1055	America/El_Salvador	2024-08-05
+12954152	Municipio de Ahuachapan Sur	Municipio de Ahuachapan Sur		13.7684	-89.90526	A	ADM2	SV		01	12954152			0		348	America/El_Salvador	2024-08-05
+12954153	Municipio de Chalatenango Sur	Municipio de Chalatenango Sur		14.05237	-88.87672	A	ADM2	SV		03	12954153			0		662	America/El_Salvador	2024-08-05
+12954154	Municipio de La Libertad Costa	Municipio de La Libertad Costa		13.54227	-89.44717	A	ADM2	SV		05	12954154			0		171	America/El_Salvador	2024-08-05
+12954155	Municipio de La Libertad Este	Municipio de La Libertad Este		13.60267	-89.26275	A	ADM2	SV		05	12954155			0		757	America/El_Salvador	2024-08-05
+12954156	Municipio de La Libertad Sur	Municipio de La Libertad Sur		13.62197	-89.36448	A	ADM2	SV		05	12954156			0		955	America/El_Salvador	2024-08-05
+12954157	Municipio de La Unión Sur	Municipio de La Union Sur		13.34783	-87.92814	A	ADM2	SV		07	12954157			0		91	America/El_Salvador	2024-08-05
+12954158	Municipio de San Miguel Centro	Municipio de San Miguel Centro		13.47083	-88.15391	A	ADM2	SV		09	12954158			0		95	America/El_Salvador	2024-08-05
+12954159	Municipio de San Miguel Oeste	Municipio de San Miguel Oeste		13.46436	-88.32449	A	ADM2	SV		09	12954159			0		1042	America/El_Salvador	2024-08-05
+12954160	Municipio de San Salvador Centro	Municipio de San Salvador Centro		13.74489	-89.18004	A	ADM2	SV		10	12954160			0		624	America/El_Salvador	2024-08-05
+12954161	Municipio de San Salvador Este	Municipio de San Salvador Este		13.7652	-89.12835	A	ADM2	SV		10	12954161			0		546	America/El_Salvador	2024-08-05
+12954162	Municipio de San Salvador Oeste	Municipio de San Salvador Oeste		13.81912	-89.20841	A	ADM2	SV		10	12954162			0		817	America/El_Salvador	2024-08-05
+12954163	Municipio de San Salvador Sur	Municipio de San Salvador Sur		13.60604	-89.16769	A	ADM2	SV		10	12954163			0		730	America/El_Salvador	2024-08-05
+12954164	Municipio de Santa Ana Centro	Municipio de Santa Ana Centro		14	-89.5	A	ADM2	SV		11	12954164			0		551	America/El_Salvador	2024-08-05
+12954165	Municipio de Santa Ana Este	Municipio de Santa Ana Este		13.88501	-89.49374	A	ADM2	SV		11	12954165			0		758	America/El_Salvador	2024-08-05
+12954166	Municipio de San Vicente Sur	Municipio de San Vicente Sur		13.57796	-88.81576	A	ADM2	SV		12	12954166			0		839	America/El_Salvador	2024-08-05
+12954167	Municipio de Sonsonate Centro	Municipio de Sonsonate Centro		13.69601	-89.75706	A	ADM2	SV		13	12954167			0		201	America/El_Salvador	2024-08-05
+12954168	Municipio de Sonsonate Oeste	Municipio de Sonsonate Oeste		13.63757	-89.83619	A	ADM2	SV		13	12954168			0		29	America/El_Salvador	2024-08-05
+12954169	Municipio de Usulután Este	Municipio de Usulutan Este		13.33893	-88.4143	A	ADM2	SV		14	12954169			0		79	America/El_Salvador	2024-08-05

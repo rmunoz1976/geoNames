@@ -1,0 +1,16 @@
+﻿7828733	Jenin	Jenin	Janin,Jenin Governorate,Muhafazat Ganin,Muḥāfaẓat Ǧanīn,Nafat Ganin,Nafat Ǧanīn,mhafzt jnyn,محافظة جنين	32.46	35.3	A	ADM2	PS		WE	7828733			311231		153	Asia/Hebron	2023-08-10
+7870260	Rafah	Rafah	Muhafazat Rafah,Muḥāfaẓat Rafaḥ,Rafah Governorate	31.27326	34.26063	A	ADM2	PS		GZ	7870260			0		62	Asia/Gaza	2023-08-11
+7870263	North Gaza	North Gaza	North Gaza Governorate,mhafzt shmal ghzt,محافظة شمال غزة	31.52467	34.53581	A	ADM2	PS		GZ	7870263			0		64	Asia/Gaza	2023-08-11
+7870268	Deir Al Balah	Deir Al Balah	Deir al-Balah Governorate,Middle Governorate,Muhafazat Dayr al-Balah,Muḥāfaẓat Dayr al-Balaḥ	31.40765	34.36736	A	ADM2	PS		GZ	7870268			0		33	Asia/Gaza	2023-08-11
+7870463	Bethlehem	Bethlehem	Bethlehem Governorate	31.65	35.3	A	ADM2	PS		WE	7870463			216114		399	Asia/Hebron	2023-08-10
+7870555	Nablus	Nablus	Muhafazat Nablus,Muḥāfaẓat Nāblus,Nablus Governorate,Napat Səkem,Napat Šəḵem,mhafzt nabls,محافظة نابلس	32.24056	35.28708	A	ADM2	PS		WE	7870555			380961		773	Asia/Hebron	2023-08-10
+7870644	Tulkarm	Tulkarm	Muhafazat Tulkarm,Muḥāfaẓat Ṭūlkarm,Nafat Tulkarm,Nafat Ṭūlkarm,Tulkarm Governorate,mhafzt twlkrm,محافظة طولكرم	32.31986	35.09403	A	ADM2	PS		WE	7870644			182053		181	Asia/Hebron	2023-08-10
+7870648	Tubas	Tubas	Muhafazat Tubas,Muḥāfaẓat Ṭūbās,Tubas Governorate,mhafzt twbas,محافظة طوباس	32.32389	35.48653	A	ADM2	PS		WE	7870648			64719		-1	Asia/Hebron	2023-08-10
+7870649	Qalqilya	Qalqilya	Calquelia,Kal'kilija,Kalkilija,Kalkilja,Kalkílija,Qalqiliya,Qalqilya Governorate,Qalqilyah,qlqylyh,qlqylyt,Калькилия,קלקיליה,قلقلیہ,قلقيلية	32.18583	35.06583	A	ADM2	PS		WE	7870649			110800		267	Asia/Hebron	2023-08-11
+7870652	Salfit	Salfit	Muhafazat Salfit,Muḥāfaẓat Salfīt,Nafat Salfit,Nafat Salfīt,Salfeet,Salfit Governorate,mhafzt slfyt,محافظة سلفيت	32.11819	35.09028	A	ADM2	PS		WE	7870652			70727		375	Asia/Hebron	2023-08-10
+7870653	Jericho	Jericho	Ariha,Jericho,Jericho Governorate,Jericho and Al Aghwar,aryha,astan aryha,dlʿ aryha,mhafzt aryha,mhafzہ aryha,أريحا,استان اریحا,ضلع اریحا,محافظة أريحا,محافظہ اریحا	32.02492	35.44548	A	ADM2	PS		WE	7870653			52154		-262	Asia/Hebron	2023-08-11
+7870654	Al Quds	Al Quds	Jerusalem,Muhafazat al-Quds,Muḥāfaẓat al-Quds,Nafat al-Quds,Quds Governorate	31.8	35.3	A	ADM2	PS		WE	7870654			419108		289	Asia/Hebron	2025-05-02
+7870657	Ramallah	Ramallah	Muhafazat Ram Allah wa l Bira,Muḥāfaẓat Rām Allāh wa l Bīra,Nafat Ramallah VeAl Bira,Nafat Rāmallāh VeAl Bīra,Ramallah and al-Bireh,Ramallah and al-Bireh Governorate	31.90512	35.20588	A	ADM2	PS		WE	7870657			348110		880	Asia/Hebron	2023-08-11
+7870658	Al Khalil	Al Khalil	Hebron,Hebron Governorate,Muhafazat al-Hali,Muḥāfaẓat al-Ḫalī,Nafat Hevron,Nafat Ḥevron,alkhlyl,mhafzt alkhlyl,الخليل,محافظة الخليل	31.5	35.1	A	ADM2	PS		WE	7870658			706508		886	Asia/Hebron	2023-08-11
+7871092	Khan Yunis Governorate	Khan Yunis Governorate	Khan Yunis	31.35	34.3	A	ADM2	PS		GZ	7871092			0		34	Asia/Gaza	2018-06-05
+11184609	Gaza	Gaza	Gaza Governorate	31.51065	34.46411	A	ADM2	PS		GZ	11184609			505700		32	Asia/Gaza	2023-08-11

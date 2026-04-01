@@ -1,0 +1,5 @@
+﻿933908	Tromelin Island	Tromelin Island	Ile Tromelin,Île Tromelin	-15.89332	54.52377	A	ADM2	TF	FR,MU,SC	05	TE			0		6	Indian/Kerguelen	2024-11-11
+933910	Europa Island	Europa Island	Ile Europa,Île Europa	-22.33333	40.36667	A	ADM2	TF	FR	05	EU			0		1	Indian/Kerguelen	2008-03-16
+936202	Bassas da India	Bassas da India	Bassas da India,Bassas da Índia,バサス・ダ・インディア	-21.47543	39.67438	A	ADM2	TF	FR	05	BS			0		-9999		2024-11-11
+1024029	Juan de Nova Island	Juan de Nova Island	Ile Juan de Nova,Île Juan de Nova	-17.0558	42.72712	A	ADM2	TF	FR	05	JU			0		12	Indian/Kerguelen	2008-03-16
+1024037	Glorioso Islands	Glorioso Islands	Iles Glorieuses,Îles Glorieuses	-11.54861	47.33734	A	ADM2	TF	FR	05	GO			0		-9999	Indian/Kerguelen	2025-02-20

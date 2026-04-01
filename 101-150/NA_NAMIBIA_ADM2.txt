@@ -1,0 +1,47 @@
+﻿7931901	Epupa Constituency	Epupa Constituency		-17.00388	13.24825	A	ADM2	NA		32	7931901			12816		630	Africa/Windhoek	2013-12-16
+7931902	Opuwo Constituency	Opuwo Constituency		-18.54247	13.51617	A	ADM2	NA		32	7931902			20119		1450	Africa/Windhoek	2013-12-16
+7931903	Sesfontein Constituency	Sesfontein Constituency		-19.56106	13.7653	A	ADM2	NA		32	7931903			7358		1224	Africa/Windhoek	2013-12-16
+7931904	Khorixas Constituency	Khorixas Constituency		-20.36792	14.95996	A	ADM2	NA		32	7931904			10906		967	Africa/Windhoek	2013-12-16
+7931905	Daures Constituency	Daures Constituency		-21.01785	14.1394	A	ADM2	NA		29	7931905			0		465	Africa/Windhoek	2013-12-16
+7931906	Arandis Constituency	Arandis Constituency		-22.38303	14.8305	A	ADM2	NA		29	7931906			0		399	Africa/Windhoek	2014-03-27
+7931907	Swakopmund Constituency	Swakopmund Constituency		-22.63199	14.60119	A	ADM2	NA		29	7931907			25442		95	Africa/Windhoek	2013-12-16
+7931908	Walvis Bay Urban Constituency	Walvis Bay Urban Constituency		-22.96011	14.50135	A	ADM2	NA		29	7931908			0		11	Africa/Windhoek	2014-03-20
+7931909	Walvis Bay Rural Constituency	Walvis Bay Rural Constituency		-23.32983	15.11216	A	ADM2	NA		29	7931909			0		514	Africa/Windhoek	2013-12-16
+7931910	Gibeon Constituency	Gibeon Constituency		-25.1285	17.76442	A	ADM2	NA		30	7931910			0		1030	Africa/Windhoek	2014-03-20
+7931911	Luderitz Constituency	Luderitz Constituency		-26.70436	15.76106	A	ADM2	NA		31	7931911			0		708	Africa/Windhoek	2014-03-20
+7931912	Oranjemund Constituency	Oranjemund Constituency		-28.04077	16.83229	A	ADM2	NA		31	7931912			0		234	Africa/Windhoek	2013-12-16
+10400504	Omatako Constituency	Omatako Constituency		-21.03	17.252	A	ADM2	NA		39	10400504			0		1358	Africa/Windhoek	2024-02-21
+11125897	Moses Garoeb	Moses Garoeb		-22.5074	17.039	A	ADM2	NA		21	11125897			0		1643	Africa/Windhoek	2017-04-10
+11204872	Otjombinde	Otjombinde		-21.83333	20.75	A	ADM2	NA		35	11204872			0		1236	Africa/Windhoek	2016-09-03
+11204947	Olukonda Constituency	Olukonda Constituency		-17.98333	16.01667	A	ADM2	NA		38	11204947			0		1102	Africa/Windhoek	2016-07-25
+11204952	Okahandja Constituency	Okahandja Constituency		-21.98555	16.91654	A	ADM2	NA		39	11204952			0		1337	Africa/Windhoek	2016-07-25
+11205493	Epembe Constituency	Epembe Constituency		-17.76667	16.2	A	ADM2	NA		33	11205493			0		1106	Africa/Windhoek	2016-08-01
+11205499	Endola	Endola		-17.6	15.71667	A	ADM2	NA		33	11205499			0		1103	Africa/Windhoek	2016-08-01
+11205500	Oshakati East	Oshakati East		-17.78333	15.68333	A	ADM2	NA		37	11205500			0		1099	Africa/Windhoek	2016-08-01
+11205505	Omuntele Constituency	Omuntele Constituency		-18.2333	16.2333	A	ADM2	NA		38	11205505			0		1095	Africa/Windhoek	2016-08-01
+11205595	Rundu Rural West	Rundu Rural West		-17.93333	19.76667	A	ADM2	NA		40	11205595			0		1110	Africa/Windhoek	2016-08-03
+11238950	Oshikango	Oshikango		-17.42681	15.96228	A	ADM2	NA		33	11238950			0		1112	Africa/Windhoek	2018-12-21
+11256866	Kapako Constituency	Kapako Constituency		-17.9	19.56667	A	ADM2	NA		41	11256866			0		1107	Africa/Windhoek	2016-09-11
+11256901	Mashare	Mashare		-17.90226	20.13361	A	ADM2	NA		40	11256901			0		1062	Africa/Windhoek	2016-09-12
+11256953	Tsandi	Tsandi		-17.75	14.88333	A	ADM2	NA		36	11256953			0		1107	Africa/Windhoek	2016-09-14
+11257205	Samora Machel	Samora Machel		-22.51861	17.03694	A	ADM2	NA		21	11257205			0		1622	Africa/Windhoek	2016-09-18
+11257218	Oshakati West	Oshakati West		-17.78333	15.68333	A	ADM2	NA		37	11257218			0		1099	Africa/Windhoek	2016-09-18
+11257223	Etayi	Etayi		-17.55	15.51667	A	ADM2	NA		36	11257223			0		1105	Africa/Windhoek	2016-09-18
+11257257	Rehoboth Rural	Rehoboth Rural		-23.31667	17.08333	A	ADM2	NA		30	11257257			0		1393	Africa/Windhoek	2016-09-19
+11257293	Karasburg Constituency	Karasburg Constituency		-28.01667	18.75	A	ADM2	NA		31	11257293			0		1017	Africa/Windhoek	2017-02-16
+11257350	Eengodi	Eengodi		-18.22	17.25861	A	ADM2	NA		38	11257350			0		1133	Africa/Windhoek	2017-02-16
+11287032	Windhoek Rural	Windhoek Rural		-22.56583	17.10297	A	ADM2	NA		21	11287032			0		1670	Africa/Windhoek	2016-11-07
+11427240	Mariental Rural	Mariental Rural		-24.6333	17.9667	A	ADM2	NA		30	11427240			0		1106	Africa/Windhoek	2017-01-07
+11428032	Okaku Constituency	Okaku Constituency		-17.85455	15.91564	A	ADM2	NA		37	11428032			0		1100	Africa/Windhoek	2017-01-18
+11428097	Oshikuku	Oshikuku		-17.65555	15.473	A	ADM2	NA		36	11428097			0		1109	Africa/Windhoek	2017-01-19
+11428703	Ongwediva	Ongwediva		-17.78333	15.76667	A	ADM2	NA		37	11428703			0		1098	Africa/Windhoek	2017-01-28
+11428769	Omuthiyagwiipundi	Omuthiyagwiipundi		-17.7167	16.2167	A	ADM2	NA		33	11428769			0		1109	Africa/Windhoek	2017-01-30
+11428998	Otavi	Otavi		-19.63812	17.33138	A	ADM2	NA		39	11428998			0		1405	Africa/Windhoek	2017-02-01
+11429079	Mpungu	Mpungu		-17.66667	18.23333	A	ADM2	NA		41	11429079			0		1131	Africa/Windhoek	2017-02-02
+11429192	Rundu Urban	Rundu Urban		-17.93333	19.76667	A	ADM2	NA		40	11429192			0		1110	Africa/Windhoek	2017-02-03
+11467713	Linyanti	Linyanti		-18.07222	24.01556	A	ADM2	NA		28	11467713			0		937	Africa/Windhoek	2017-02-07
+11467743	Uukwiyu	Uukwiyu		-18.01667	15.91667	A	ADM2	NA		37	11467743			0		1096	Africa/Windhoek	2017-02-08
+11467812	Onayena	Onayena		-17.9496	16.1916	A	ADM2	NA		38	11467812			0		1102	Africa/Windhoek	2017-02-09
+11495912	Anamulenge Constituency	Anamulenge Constituency		-17.496	15	A	ADM2	NA		36	11495912			0		1109	Africa/Windhoek	2021-04-24
+11609877	Windhoek East	Windhoek East		-22.56667	17.1	A	ADM2	NA		21	11609877			0		1672	Africa/Windhoek	2017-07-13
+11979320	Okahao	Okahao		-17.89218	15.0715	A	ADM2	NA		36	11979320			26035		1103	Africa/Windhoek	2018-11-26

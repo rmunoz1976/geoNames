@@ -1,0 +1,587 @@
+﻿11352428	Aizkraukle	Aizkraukle		56.59229	25.2463	A	ADM2	LV		01	0320201			0		72	Europe/Riga	2016-12-01
+11352429	Kastuļinas pagasts	Kastulinas pagasts		56.15925	27.2094	A	ADM2	LV		14	0604372			0		171	Europe/Riga	2021-08-16
+11352430	Šķeltovas pagasts	Skeltovas pagasts		56.04399	27.03978	A	ADM2	LV		14	0604394			0		156	Europe/Riga	2021-08-16
+11352431	Aizkraukles pagasts	Aizkraukles pagasts	Aizkraukle Parish,Aizkraukles pagasts	56.6448	25.22991	A	ADM2	LV		01	0320244			0		93	Europe/Riga	2025-07-08
+11352432	Aizpute	Aizpute	Ajzpute,Hasenpoth,Айзпуте	56.71721	21.60867	A	ADM2	LV		DN	0640605			0		67	Europe/Riga	2021-08-16
+11352433	Aizputes pagasts	Aizputes pagasts		56.69082	21.52506	A	ADM2	LV		DN	0640642			0		63	Europe/Riga	2021-08-16
+11352434	Cīravas pagasts	Ciravas pagasts		56.74737	21.38971	A	ADM2	LV		DN	0640648			0		29	Europe/Riga	2021-08-16
+11352435	Kalvenes pagasts	Kalvenes pagasts		56.60827	21.7069	A	ADM2	LV		DN	0640666			0		92	Europe/Riga	2021-08-16
+11352436	Kazdangas pagasts	Kazdangas pagasts		56.70473	21.70209	A	ADM2	LV		DN	0640668			0		86	Europe/Riga	2021-08-16
+11352437	Mārkalnes pagasts	Markalnes pagasts		57.50616	27.20995	A	ADM2	LV		02	0360276			0		181	Europe/Riga	2016-12-01
+11352438	Lažas pagasts	Lazas pagasts		56.79677	21.52865	A	ADM2	LV		DN	0640672			0		39	Europe/Riga	2021-08-16
+11352439	Aknīstes pagasts	Aknistes pagasts		56.18111	25.75847	A	ADM2	LV		10	0560825			0		112	Europe/Riga	2021-08-16
+11352440	Asares pagasts	Asares pagasts		56.13169	25.91166	A	ADM2	LV		10	0560844			0		119	Europe/Riga	2021-08-16
+11352441	Gārsenes pagasts	Garsenes pagasts		56.09821	25.77952	A	ADM2	LV		10	0560862			0		124	Europe/Riga	2021-08-16
+11352442	Aloja	Aloja		57.76795	24.87747	A	ADM2	LV		18	0661007			0		84	Europe/Riga	2021-08-16
+11352443	Alojas pagasts	Alojas pagasts		57.77819	24.83669	A	ADM2	LV		18	0661027			0		73	Europe/Riga	2021-08-16
+11352444	Braslavas pagasts	Braslavas pagasts		57.73848	25.01919	A	ADM2	LV		18	0661044			0		71	Europe/Riga	2021-08-16
+11352445	Brīvzemnieku pagasts	Brivzemnieku pagasts		57.66994	24.95215	A	ADM2	LV		18	0661048			0		69	Europe/Riga	2021-08-16
+11352446	Staicele	Staicele		57.83556	24.75875	A	ADM2	LV		18	0661017			0		43	Europe/Riga	2021-08-16
+11352447	Staiceles pagasts	Staiceles pagasts		57.89022	24.73167	A	ADM2	LV		18	0661037			0		50	Europe/Riga	2021-08-16
+11352448	Alsungas novads	Alsungas novads		56.97503	21.55536	A	ADM2	LV		15	0624200			0		31	Europe/Riga	2021-08-16
+11352449	Alūksne	Aluksne		57.42631	27.06663	A	ADM2	LV		02	0360201			0		195	Europe/Riga	2016-12-01
+11352450	Alsviķu pagasts	Alsviku pagasts	Alsviki Parish,Alsviku pagasts,Alsviķi Parish,Alsviķu pagasts	57.42861	26.88247	A	ADM2	LV		02	0360242			0		180	Europe/Riga	2025-07-08
+11352451	Annas pagasts	Annas pagasts	Anna Parish,Annas pagasts	57.33753	27.006	A	ADM2	LV		02	0360244			353		146	Europe/Riga	2025-07-08
+11352452	Ilzenes pagasts	Ilzenes pagasts	Ilzene Parish,Ilzenes pagasts	57.38494	26.68009	A	ADM2	LV		02	0360252			0		100	Europe/Riga	2025-07-08
+11352453	Pededzes pagasts	Pededzes pagasts		57.48159	27.44363	A	ADM2	LV		02	0360280			0		155	Europe/Riga	2016-12-01
+11352454	Jaunalūksnes pagasts	Jaunaluksnes pagasts	Jaunaluksne Parish,Jaunaluksnes pagasts,Jaunalūksne Parish,Jaunalūksnes pagasts	57.4206	27.21688	A	ADM2	LV		02	0360256			0		154	Europe/Riga	2025-07-08
+11352455	Jaunannas pagasts	Jaunannas pagasts	Jaunanna Parish,Jaunannas pagasts	57.28009	27.11592	A	ADM2	LV		02	0360258			0		127	Europe/Riga	2025-07-08
+11352456	Jaunlaicenes pagasts	Jaunlaicenes pagasts	Jaunlaicene Parish,Jaunlaicenes pagasts	57.53378	26.88561	A	ADM2	LV		02	0360260			0		172	Europe/Riga	2025-07-08
+11352457	Kalncempju pagasts	Kalncempju pagasts	Kalncempji Parish,Kalncempju pagasts	57.33488	26.88193	A	ADM2	LV		02	0360264			0		153	Europe/Riga	2025-07-08
+11352458	Liepnas pagasts	Liepnas pagasts	Liepna Parish,Liepnas pagasts	57.34883	27.51373	A	ADM2	LV		02	0360268			0		120	Europe/Riga	2025-07-08
+11352459	Malienas pagasts	Malienas pagasts		57.34524	27.15432	A	ADM2	LV		02	0360272			0		143	Europe/Riga	2016-12-01
+11352460	Mālupes pagasts	Malupes pagasts		57.31745	27.28887	A	ADM2	LV		02	0360274			0		127	Europe/Riga	2016-12-01
+11352461	Veclaicenes pagasts	Veclaicenes pagasts		57.58609	26.95068	A	ADM2	LV		02	0360288			0		186	Europe/Riga	2016-12-01
+11352462	Zeltiņu pagasts	Zeltinu pagasts		57.34953	26.76747	A	ADM2	LV		02	0360294			0		145	Europe/Riga	2016-12-01
+11352463	Ziemera pagasts	Ziemera pagasts		57.511	27.02873	A	ADM2	LV		02	0360296			0		161	Europe/Riga	2016-12-01
+11352464	Skrunda	Skrunda		56.67158	22.00927	A	ADM2	LV		15	0621209			0		31	Europe/Riga	2021-08-16
+11352465	Amatas pagasts	Amatas pagasts		57.16658	25.31968	A	ADM2	LV		05	0424742			0		201	Europe/Riga	2021-08-16
+11352466	Drabešu pagasts	Drabesu pagasts		57.24321	25.2263	A	ADM2	LV		05	0424746			0		145	Europe/Riga	2021-08-16
+11352467	Nītaures pagasts	Nitaures pagasts		57.08187	25.22294	A	ADM2	LV		05	0424768			0		179	Europe/Riga	2021-08-16
+11352468	Skujenes pagasts	Skujenes pagasts		57.08699	25.47468	A	ADM2	LV		05	0424778			0		222	Europe/Riga	2021-08-16
+11352469	Zaubes pagasts	Zaubes pagasts		56.99192	25.30425	A	ADM2	LV		05	0424796			0		195	Europe/Riga	2021-08-16
+11352470	Auce	Auce		56.46049	22.90434	A	ADM2	LV		08	0460805			0		91	Europe/Riga	2021-08-16
+11352471	Ape	Ape		57.53949	26.70201	A	ADM2	LV		D1	0360805			0		84	Europe/Riga	2021-08-16
+11352472	Bēnes pagasts	Benes pagasts		56.45833	23.06924	A	ADM2	LV		08	0460850			0		74	Europe/Riga	2021-08-16
+11352473	Apes pagasts	Apes pagasts		57.52316	26.72352	A	ADM2	LV		D1	0360825			0		103	Europe/Riga	2021-08-16
+11352474	Gaujienas pagasts	Gaujienas pagasts		57.51358	26.4223	A	ADM2	LV		D1	0360848			0		94	Europe/Riga	2021-08-16
+11352475	Trapenes pagasts	Trapenes pagasts		57.45086	26.59088	A	ADM2	LV		D1	0360884			0		113	Europe/Riga	2021-08-16
+11352476	Virešu pagasts	Viresu pagasts		57.39652	26.37516	A	ADM2	LV		D1	0360890			0		106	Europe/Riga	2021-08-16
+11352477	Īles pagasts	Iles pagasts		56.55295	22.99682	A	ADM2	LV		08	0460864			0		99	Europe/Riga	2021-08-16
+11352478	Lielauces pagasts	Lielauces pagasts		56.52577	22.84926	A	ADM2	LV		08	0460876			0		116	Europe/Riga	2021-08-16
+11352479	Ukru pagasts	Ukru pagasts		56.36361	23.09386	A	ADM2	LV		08	0460890			0		80	Europe/Riga	2021-08-16
+11352480	Vecauces pagasts	Vecauces pagasts		56.47859	22.94684	A	ADM2	LV		08	0460825			0		92	Europe/Riga	2021-08-16
+11352481	Vītiņu pagasts	Vitinu pagasts		56.44928	22.85015	A	ADM2	LV		08	0460894			0		93	Europe/Riga	2021-08-16
+11352482	Babītes pagasts	Babites pagasts		56.89408	23.81675	A	ADM2	LV		95	0804948			0		23	Europe/Riga	2021-08-16
+11352483	Salas pagasts	Salas pagasts		56.91811	23.65245	A	ADM2	LV		95	0804988			0		0	Europe/Riga	2021-08-16
+11352484	Baldones pagasts	Baldones pagasts		56.73084	24.37127	A	ADM2	LV		80	0800625			0		29	Europe/Riga	2021-08-16
+11352485	Baltinavas novads	Baltinavas novads		56.91683	27.61032	A	ADM2	LV		03	0384400			0		103	Europe/Riga	2021-08-16
+11352486	Balvu pagasts	Balvu pagasts		57.09249	27.23802	A	ADM2	LV		03	0380246			0		110	Europe/Riga	2016-12-01
+11352487	Bērzkalnes pagasts	Berzkalnes pagasts		57.11217	27.38571	A	ADM2	LV		03	0380248			0		117	Europe/Riga	2016-12-01
+11352488	Bērzpils pagasts	Berzpils pagasts		56.84321	27.11083	A	ADM2	LV		03	0380250			0		98	Europe/Riga	2016-12-01
+11352489	Briežuciema pagasts	Briezuciema pagasts		56.97226	27.55232	A	ADM2	LV		03	0380252			0		118	Europe/Riga	2016-12-01
+11352490	Krišjāņu pagasts	Krisjanu pagasts		56.81983	27.29767	A	ADM2	LV		03	0380256			0		102	Europe/Riga	2016-12-01
+11352491	Kubulu pagasts	Kubulu pagasts		57.16594	27.18295	A	ADM2	LV		03	0380258			0		111	Europe/Riga	2016-12-01
+11352492	Lazdulejas pagasts	Lazdulejas pagasts		57.03044	27.47516	A	ADM2	LV		03	0380266			0		137	Europe/Riga	2016-12-01
+11352493	Tilžas pagasts	Tilzas pagasts		56.89748	27.3675	A	ADM2	LV		03	0380286			0		109	Europe/Riga	2016-12-01
+11352494	Vectilžas pagasts	Vectilzas pagasts		56.98468	27.35838	A	ADM2	LV		03	0380290			0		134	Europe/Riga	2016-12-01
+11352495	Vīksnas pagasts	Viksnas pagasts		57.22927	27.38095	A	ADM2	LV		03	0380294			0		128	Europe/Riga	2016-12-01
+11352496	Bauska	Bauska		56.40533	24.19599	A	ADM2	LV		04	0400201			0		29	Europe/Riga	2016-12-01
+11352497	Brunavas pagasts	Brunavas pagasts		56.30797	24.43228	A	ADM2	LV		04	0400246			0		42	Europe/Riga	2016-12-01
+11352498	Ceraukstes pagasts	Ceraukstes pagasts		56.37088	24.29388	A	ADM2	LV		04	0400250			0		27	Europe/Riga	2016-12-01
+11352499	Gulbene	Gulbene		57.17409	26.75544	A	ADM2	LV		09	0500201			0		124	Europe/Riga	2016-12-01
+11352500	Codes pagasts	Codes pagasts		56.46951	24.20774	A	ADM2	LV		04	0400252			0		30	Europe/Riga	2016-12-01
+11352501	Dāviņu pagasts	Davinu pagasts		56.50121	24.35511	A	ADM2	LV		04	0400256			0		23	Europe/Riga	2016-12-01
+11352502	Gailīšu pagasts	Gailisu pagasts		56.31651	24.21213	A	ADM2	LV		04	0400260			0		37	Europe/Riga	2016-12-01
+11352503	Īslīces pagasts	Islices pagasts		56.3305	24.11364	A	ADM2	LV		04	0400268			0		29	Europe/Riga	2016-12-01
+11352504	Mežotnes pagasts	Mezotnes pagasts		56.47106	24.10215	A	ADM2	LV		04	0400272			0		22	Europe/Riga	2016-12-01
+11352505	Vecsaules pagasts	Vecsaules pagasts		56.41836	24.41966	A	ADM2	LV		04	0400292			0		29	Europe/Riga	2016-12-01
+11352506	Brenguļu pagasts	Brengulu pagasts		57.53271	25.58448	A	ADM2	LV		31	0964746			0		56	Europe/Riga	2021-08-16
+11352507	Kauguru pagasts	Kauguru pagasts		57.48288	25.47551	A	ADM2	LV		31	0964762			0		59	Europe/Riga	2021-08-16
+11352508	Trikātas pagasts	Trikatas pagasts		57.54661	25.69864	A	ADM2	LV		31	0964784			0		64	Europe/Riga	2021-08-16
+11352509	Blīdenes pagasts	Blidenes pagasts		56.64321	22.74573	A	ADM2	LV		27	0840644			0		122	Europe/Riga	2021-08-16
+11352510	Brocēni	Broceni		56.67818	22.57634	A	ADM2	LV		27	0840605			0		112	Europe/Riga	2021-08-16
+11352511	Cieceres pagasts	Cieceres pagasts		56.67887	22.60162	A	ADM2	LV		27	0840625			0		134	Europe/Riga	2021-08-16
+11352512	Gaiķu pagasts	Gaiku pagasts		56.79171	22.53729	A	ADM2	LV		27	0840652			0		107	Europe/Riga	2021-08-16
+11352513	Remtes pagasts	Remtes pagasts		56.75052	22.70911	A	ADM2	LV		27	0840680			0		128	Europe/Riga	2021-08-16
+11352514	Burtnieku pagasts	Burtnieku pagasts		57.68902	25.29868	A	ADM2	LV		31	0967148			0		41	Europe/Riga	2021-08-16
+11352515	Ēveles pagasts	Eveles pagasts		57.71938	25.58406	A	ADM2	LV		31	0967154			0		70	Europe/Riga	2021-08-16
+11352516	Matīšu pagasts	Matisu pagasts		57.71294	25.14849	A	ADM2	LV		31	0967170			0		64	Europe/Riga	2021-08-16
+11352517	Rencēnu pagasts	Rencenu pagasts		57.71435	25.44937	A	ADM2	LV		31	0967178			0		81	Europe/Riga	2021-08-16
+11352518	Valmieras pagasts	Valmieras pagasts		57.59249	25.4536	A	ADM2	LV		31	0967190			0		54	Europe/Riga	2021-08-16
+11352519	Cēsis	Cesis		57.31236	25.26407	A	ADM2	LV		05	0420201			0		85	Europe/Riga	2016-12-01
+11352520	Vecates pagasts	Vecates pagasts		57.79143	25.14483	A	ADM2	LV		31	0967192			0		47	Europe/Riga	2021-08-16
+11352521	Carnikavas novads	Carnikavas novads		57.1176	24.24694	A	ADM2	LV		34	0805200			0		15	Europe/Riga	2021-08-16
+11352522	Vaives pagasts	Vaives pagasts		57.23351	25.43029	A	ADM2	LV		05	0420290			0		192	Europe/Riga	2016-12-01
+11352523	Cesvaine	Cesvaine		56.96513	26.31127	A	ADM2	LV		20	0700807			0		162	Europe/Riga	2021-08-16
+11352524	Cesvaines pagasts	Cesvaines pagasts		57.00904	26.27641	A	ADM2	LV		20	0700827			0		148	Europe/Riga	2021-08-16
+11352525	Blontu pagasts	Blontu pagasts		56.64171	27.85826	A	ADM2	LV		19	0684944			0		108	Europe/Riga	2021-08-16
+11352526	Ciblas pagasts	Ciblas pagasts		56.53402	27.91839	A	ADM2	LV		19	0684948			0		123	Europe/Riga	2021-08-16
+11352527	Līdumnieku pagasts	Lidumnieku pagasts		56.57986	28.01384	A	ADM2	LV		19	0684966			0		108	Europe/Riga	2021-08-16
+11352528	Pušmucovas pagasts	Pusmucovas pagasts		56.64485	27.7228	A	ADM2	LV		19	0684990			0		148	Europe/Riga	2021-08-16
+11352529	Zvirgzdenes pagasts	Zvirgzdenes pagasts		56.57641	27.71248	A	ADM2	LV		19	0684998			0		146	Europe/Riga	2021-08-16
+11352530	Andrupenes pagasts	Andrupenes pagasts		56.14773	27.36947	A	ADM2	LV		14	0601042			0		187	Europe/Riga	2021-08-16
+11352531	Ilūkste	Ilukste		55.97882	26.31149	A	ADM2	LV		AN	0440807			0		88	Europe/Riga	2021-08-16
+11352532	Andzeļu pagasts	Andzelu pagasts		56.18776	27.52683	A	ADM2	LV		14	0601044			0		207	Europe/Riga	2021-08-16
+11352533	Vangaži	Vangazi		57.09091	24.5282	A	ADM2	LV		B5	0801817			0		25	Europe/Riga	2021-08-16
+11352534	Asūnes pagasts	Asunes pagasts		56.03447	27.59734	A	ADM2	LV		14	0601046			0		164	Europe/Riga	2021-08-16
+11352535	Bērziņu pagasts	Berzinu pagasts		56.08287	27.84688	A	ADM2	LV		14	0601050			0		172	Europe/Riga	2021-08-16
+11352536	Dagda	Dagda		56.09706	27.53189	A	ADM2	LV		14	0601009			0		185	Europe/Riga	2021-08-16
+11352537	Ambeļu pagasts	Ambelu pagasts		56.03838	26.88996	A	ADM2	LV		AN	0440242			0		142	Europe/Riga	2021-08-16
+11352538	Dagdas pagasts	Dagdas pagasts		56.09941	27.55178	A	ADM2	LV		14	0601054			0		182	Europe/Riga	2021-08-16
+11352539	Ezernieku pagasts	Ezernieku pagasts		56.18055	27.67617	A	ADM2	LV		14	0601056			0		191	Europe/Riga	2021-08-16
+11352540	Ķepovas pagasts	Kepovas pagasts		56.01374	27.75046	A	ADM2	LV		14	0601080			0		162	Europe/Riga	2021-08-16
+11352541	Konstantinovas pagasts	Konstantinovas pagasts		56.06895	27.429	A	ADM2	LV		14	0601076			0		178	Europe/Riga	2021-08-16
+11352542	Šķaunes pagasts	Skaunes pagasts		56.16254	27.94977	A	ADM2	LV		14	0601092			0		165	Europe/Riga	2021-08-16
+11352543	Svariņu pagasts	Svarinu pagasts		56.10215	27.71845	A	ADM2	LV		14	0601090			0		197	Europe/Riga	2021-08-16
+11352544	Daugavpils	Daugavpils		55.89064	26.54189	A	ADM2	LV		06	0050000			0		105	Europe/Riga	2016-12-01
+11352545	Biķernieku pagasts	Bikernieku pagasts		55.97039	26.86468	A	ADM2	LV		AN	0440246			0		160	Europe/Riga	2021-08-16
+11352546	Demenes pagasts	Demenes pagasts		55.73619	26.59082	A	ADM2	LV		AN	0440250			0		158	Europe/Riga	2021-08-16
+11352547	Dubnas pagasts	Dubnas pagasts		56.08316	26.67278	A	ADM2	LV		AN	0440252			0		108	Europe/Riga	2021-08-16
+11352548	Dobele	Dobele		56.62391	23.28198	A	ADM2	LV		08	0460201			0		47	Europe/Riga	2016-12-01
+11352549	Kalnciema pagasts	Kalnciema pagasts		56.78718	23.60223	A	ADM2	LV		12	0540258			0		-2	Europe/Riga	2016-12-01
+11352550	Kalkūnes pagasts	Kalkunes pagasts		55.83851	26.43367	A	ADM2	LV		AN	0440260			0		147	Europe/Riga	2021-08-16
+11352551	Kalupes pagasts	Kalupes pagasts		56.08599	26.54861	A	ADM2	LV		AN	0440262			0		95	Europe/Riga	2021-08-16
+11352552	Laucesas pagasts	Laucesas pagasts		55.81516	26.54092	A	ADM2	LV		AN	0440264			0		132	Europe/Riga	2021-08-16
+11352553	Bērzes pagasts	Berzes pagasts		56.65508	23.3916	A	ADM2	LV		08	0460252			0		15	Europe/Riga	2016-12-01
+11352554	Līksnas pagasts	Liksnas pagasts		55.99462	26.44842	A	ADM2	LV		AN	0440268			0		94	Europe/Riga	2021-08-16
+11352555	Maļinovas pagasts	Malinovas pagasts		55.99376	26.67139	A	ADM2	LV		AN	0440270			0		114	Europe/Riga	2021-08-16
+11352556	Dekšāres pagasts	Deksares pagasts		56.61258	26.82243	A	ADM2	LV		24	0781848			0		97	Europe/Riga	2021-08-16
+11352557	Medumu pagasts	Medumu pagasts		55.77211	26.35736	A	ADM2	LV		AN	0440272			0		159	Europe/Riga	2021-08-16
+11352558	Naujenes pagasts	Naujenes pagasts		55.92848	26.74433	A	ADM2	LV		AN	0440274			0		154	Europe/Riga	2021-08-16
+11352559	Nīcgales pagasts	Nicgales pagasts		56.15107	26.40248	A	ADM2	LV		AN	0440276			0		102	Europe/Riga	2021-08-16
+11352560	Salienas pagasts	Salienas pagasts		55.81199	26.89229	A	ADM2	LV		AN	0440284			0		149	Europe/Riga	2021-08-16
+11352561	Skrudalienas pagasts	Skrudalienas pagasts		55.76293	26.74065	A	ADM2	LV		AN	0440286			0		152	Europe/Riga	2021-08-16
+11352562	Sventes pagasts	Sventes pagasts		55.90914	26.35162	A	ADM2	LV		AN	0440288			0		119	Europe/Riga	2021-08-16
+11352563	Tabores pagasts	Tabores pagasts		55.8636	26.68564	A	ADM2	LV		AN	0440292			0		142	Europe/Riga	2021-08-16
+11352564	Vaboles pagasts	Vaboles pagasts		56.02743	26.48969	A	ADM2	LV		AN	0440294			0		98	Europe/Riga	2021-08-16
+11352565	Vecsalienas pagasts	Vecsalienas pagasts		55.84889	26.81234	A	ADM2	LV		AN	0440296			0		165	Europe/Riga	2021-08-16
+11352566	Višķu pagasts	Visku pagasts		56.06866	26.79081	A	ADM2	LV		AN	0440298			0		102	Europe/Riga	2021-08-16
+11352567	Annenieku pagasts	Annenieku pagasts		56.64851	23.08235	A	ADM2	LV		08	0460242			0		66	Europe/Riga	2016-12-01
+11352568	Auru pagasts	Auru pagasts		56.58964	23.24467	A	ADM2	LV		08	0460246			0		73	Europe/Riga	2016-12-01
+11352569	Bikstu pagasts	Bikstu pagasts		56.67271	22.93647	A	ADM2	LV		08	0460254			0		91	Europe/Riga	2016-12-01
+11352570	Dobeles pagasts	Dobeles pagasts		56.68167	23.25656	A	ADM2	LV		08	0460260			0		69	Europe/Riga	2016-12-01
+11352571	Durbe	Durbe		56.58654	21.37887	A	ADM2	LV		DN	0640807			0		38	Europe/Riga	2021-08-16
+11352572	Jaunbērzes pagasts	Jaunberzes pagasts		56.75608	23.41166	A	ADM2	LV		08	0460268			0		13	Europe/Riga	2016-12-01
+11352573	Krimūnu pagasts	Krimunu pagasts		56.5654	23.39838	A	ADM2	LV		08	0460272			0		21	Europe/Riga	2016-12-01
+11352574	Naudītes pagasts	Naudites pagasts		56.55628	23.15553	A	ADM2	LV		08	0460280			0		75	Europe/Riga	2016-12-01
+11352575	Penkules pagasts	Penkules pagasts		56.48815	23.20588	A	ADM2	LV		08	0460284			0		54	Europe/Riga	2016-12-01
+11352576	Daudzeses pagasts	Daudzeses pagasts		56.48061	25.17296	A	ADM2	LV		01	0321050			0		67	Europe/Riga	2021-08-16
+11352577	Zebrenes pagasts	Zebrenes pagasts		56.59861	22.89369	A	ADM2	LV		08	0460298			0		104	Europe/Riga	2016-12-01
+11352578	Piltenes pagasts	Piltenes pagasts		57.24802	21.73896	A	ADM2	LV		33	0980233			0		24	Europe/Riga	2016-12-01
+11352579	Dundagas pagasts	Dundagas pagasts		57.53975	22.38597	A	ADM2	LV		28	0885150			0		74	Europe/Riga	2021-08-16
+11352580	Kolkas pagasts	Kolkas pagasts		57.69606	22.44505	A	ADM2	LV		28	0885162			0		18	Europe/Riga	2021-08-16
+11352581	Dunalkas pagasts	Dunalkas pagasts		56.673	21.33102	A	ADM2	LV		DN	0640850			0		26	Europe/Riga	2021-08-16
+11352582	Durbes pagasts	Durbes pagasts		56.57773	21.4352	A	ADM2	LV		DN	0640827			0		42	Europe/Riga	2021-08-16
+11352583	Tadaiķu pagasts	Tadaiku pagasts		56.58061	21.31595	A	ADM2	LV		DN	0640888			0		52	Europe/Riga	2021-08-16
+11352584	Vecpils pagasts	Vecpils pagasts		56.61609	21.53452	A	ADM2	LV		DN	0640894			0		53	Europe/Riga	2021-08-16
+11352585	Viesatu pagasts	Viesatu pagasts		56.81509	22.86498	A	ADM2	LV		29	0905790			0		100	Europe/Riga	2021-08-16
+11352586	Engures pagasts	Engures pagasts		57.16952	23.18798	A	ADM2	LV		29	0905150			0		22	Europe/Riga	2021-08-16
+11352587	Lapmežciema pagasts	Lapmezciema pagasts		57.00336	23.46521	A	ADM2	LV		29	0905166			0		0	Europe/Riga	2021-08-16
+11352588	Jaunjelgava	Jaunjelgava		56.61139	25.08186	A	ADM2	LV		01	0321007			0		52	Europe/Riga	2021-08-16
+11352589	Smārdes pagasts	Smardes pagasts		56.977	23.30556	A	ADM2	LV		29	0905182			0		20	Europe/Riga	2021-08-16
+11352590	Ērgļu pagasts	Erglu pagasts		56.91866	25.60756	A	ADM2	LV		20	0705554			0		182	Europe/Riga	2021-08-16
+11352591	Jumurdas pagasts	Jumurdas pagasts		56.93994	25.7761	A	ADM2	LV		20	0705560			0		190	Europe/Riga	2021-08-16
+11352592	Sausnējas pagasts	Sausnejas pagasts		56.82914	25.6334	A	ADM2	LV		20	0705592			0		162	Europe/Riga	2021-08-16
+11352593	Jaunjelgavas pagasts	Jaunjelgavas pagasts	Jaunjelgava Parish,Jaunjelgavas pagasts	56.5946	25.07059	A	ADM2	LV		01	0321027			0		77	Europe/Riga	2025-07-08
+11352594	Garkalnes pagasts	Garkalnes pagasts		57.03066	24.38152	A	ADM2	LV		B5	0806000			0		26	Europe/Riga	2025-10-31
+11352595	Bārtas pagasts	Bartas pagasts		56.37773	21.32851	A	ADM2	LV		DN	0641044			0		31	Europe/Riga	2021-08-16
+11352596	Gaviezes pagasts	Gaviezes pagasts		56.46938	21.31337	A	ADM2	LV		DN	0641056			0		20	Europe/Riga	2021-08-16
+11352597	Grobiņas pagasts	Grobinas pagasts		56.50822	21.16919	A	ADM2	LV		DN	0641060			0		21	Europe/Riga	2021-08-16
+11352598	Viļāni	Vilani		56.54948	26.92676	A	ADM2	LV		24	0781817			0		114	Europe/Riga	2021-08-16
+11352599	Medzes pagasts	Medzes pagasts		56.61014	21.15485	A	ADM2	LV		DN	0641076			0		33	Europe/Riga	2021-08-16
+11352600	Beļavas pagasts	Belavas pagasts		57.24379	26.75156	A	ADM2	LV		09	0500244			0		146	Europe/Riga	2016-12-01
+11352601	Daukstu pagasts	Daukstu pagasts		57.06604	26.73081	A	ADM2	LV		09	0500248			0		125	Europe/Riga	2016-12-01
+11352602	Druvienas pagasts	Druvienas pagasts		57.11071	26.22954	A	ADM2	LV		09	0500252			0		163	Europe/Riga	2016-12-01
+11352603	Galgauskas pagasts	Galgauskas pagasts		57.1709	26.57153	A	ADM2	LV		09	0500256			0		118	Europe/Riga	2016-12-01
+11352604	Jaungulbenes pagasts	Jaungulbenes pagasts		57.08433	26.57209	A	ADM2	LV		09	0500260			0		127	Europe/Riga	2016-12-01
+11352605	Lejasciema pagasts	Lejasciema pagasts		57.29916	26.50452	A	ADM2	LV		09	0500264			0		129	Europe/Riga	2016-12-01
+11352606	Ikšķile	Ikskile		56.83296	24.50293	A	ADM2	LV		21	0740605			0		38	Europe/Riga	2021-08-16
+11352607	Līgo pagasts	Ligo pagasts		57.00536	26.60762	A	ADM2	LV		09	0500276			0		111	Europe/Riga	2016-12-01
+11352608	Litenes pagasts	Litenes pagasts		57.18056	27.0249	A	ADM2	LV		09	0500268			0		105	Europe/Riga	2016-12-01
+11352609	Lizuma pagasts	Lizuma pagasts		57.21282	26.35247	A	ADM2	LV		09	0500272			0		143	Europe/Riga	2016-12-01
+11352610	Rankas pagasts	Rankas pagasts		57.21494	26.17315	A	ADM2	LV		09	0500284			0		159	Europe/Riga	2016-12-01
+11352611	Stāmerienas pagasts	Stamerienas pagasts		57.24609	26.93636	A	ADM2	LV		09	0500288			0		142	Europe/Riga	2016-12-01
+11352612	Stradu pagasts	Stradu pagasts		57.10768	26.85754	A	ADM2	LV		09	0500290			0		106	Europe/Riga	2016-12-01
+11352613	Subate	Subate		56.00748	25.91066	A	ADM2	LV		AN	0440815			0		128	Europe/Riga	2021-08-16
+11352614	Tirzas pagasts	Tirzas pagasts		57.11907	26.40839	A	ADM2	LV		09	0500294			0		138	Europe/Riga	2016-12-01
+11352615	Eglaines pagasts	Eglaines pagasts		55.97115	26.05202	A	ADM2	LV		AN	0440856			0		139	Europe/Riga	2021-08-16
+11352616	Šēderes pagasts	Sederes pagasts		55.89117	26.21536	A	ADM2	LV		AN	0440890			0		153	Europe/Riga	2021-08-16
+11352617	Iecavas pagasts	Iecavas pagasts		56.608	24.197	A	ADM2	LV		04	0406400			0		24	Europe/Riga	2026-01-26
+11352618	Tīnūžu pagasts	Tinuzu pagasts		56.8624	24.58799	A	ADM2	LV		21	0740625			0		24	Europe/Riga	2021-08-16
+11352619	Zosēnu pagasts	Zosenu pagasts		57.16399	25.84082	A	ADM2	LV		05	0425798			0		186	Europe/Riga	2021-08-16
+11352620	Bebrenes pagasts	Bebrenes pagasts		56.04859	26.11347	A	ADM2	LV		AN	0440844			0		143	Europe/Riga	2021-08-16
+11352621	Dvietes pagasts	Dvietes pagasts		56.10529	26.25649	A	ADM2	LV		AN	0440854			0		100	Europe/Riga	2021-08-16
+11352622	Pilskalnes pagasts	Pilskalnes pagasts		56.00236	26.23736	A	ADM2	LV		AN	0440880			0		167	Europe/Riga	2021-08-16
+11352623	Prodes pagasts	Prodes pagasts		56.05164	25.92795	A	ADM2	LV		AN	0440835			0		139	Europe/Riga	2021-08-16
+11352624	Inčukalna pagasts	Incukalna pagasts		57.10285	24.65706	A	ADM2	LV		C7	0801864			0		44	Europe/Riga	2021-08-16
+11352625	Seces pagasts	Seces pagasts	Sece Parish,Seces pagasts	56.53535	25.37643	A	ADM2	LV		01	0321078			0		67	Europe/Riga	2025-07-08
+11352626	Sērenes pagasts	Serenes pagasts	Serene Parish,Serenes pagasts,Sērene Parish,Sērenes pagasts	56.56822	25.1489	A	ADM2	LV		01	0321080			0		75	Europe/Riga	2025-07-08
+11352627	Staburaga pagasts	Staburaga pagasts	Staburaga pagasts,Staburags Parish	56.54237	25.51537	A	ADM2	LV		01	0321084			0		95	Europe/Riga	2025-07-08
+11352628	Sunākstes pagasts	Sunakstes pagasts	Sunakste Parish,Sunakstes pagasts,Sunākste Parish,Sunākstes pagasts	56.46089	25.46724	A	ADM2	LV		01	0321086			366		93	Europe/Riga	2025-07-08
+11352629	Jaunpiebalgas pagasts	Jaunpiebalgas pagasts		57.14488	26.02361	A	ADM2	LV		05	0425756			0		206	Europe/Riga	2021-08-16
+11352630	Jaunpils pagasts	Jaunpils pagasts		56.74638	22.96538	A	ADM2	LV		29	0905756			0		75	Europe/Riga	2021-08-16
+11352631	Jēkabpils	Jekabpils		56.50132	25.87005	A	ADM2	LV		10	0110000			0		83	Europe/Riga	2021-08-16
+11352632	Ābeļu pagasts	Abelu pagasts		56.43294	25.94931	A	ADM2	LV		10	0560248			0		98	Europe/Riga	2016-12-01
+11352633	Dignājas pagasts	Dignajas pagasts		56.3416	26.11131	A	ADM2	LV		10	0560252			0		91	Europe/Riga	2016-12-01
+11352634	Dunavas pagasts	Dunavas pagasts		56.19714	26.17753	A	ADM2	LV		10	0560254			0		89	Europe/Riga	2016-12-01
+11352635	Kalna pagasts	Kalna pagasts		56.33033	25.82138	A	ADM2	LV		10	0560266			0		115	Europe/Riga	2016-12-01
+11352636	Leimaņu pagasts	Leimanu pagasts		56.29767	25.90396	A	ADM2	LV		10	0560274			0		124	Europe/Riga	2016-12-01
+11352637	Rubenes pagasts	Rubenes pagasts		56.16604	26.00982	A	ADM2	LV		10	0560282			0		113	Europe/Riga	2016-12-01
+11352638	Zasas pagasts	Zasas pagasts		56.27301	26.02412	A	ADM2	LV		10	0560298			0		117	Europe/Riga	2016-12-01
+11352639	Jelgava	Jelgava		56.65049	23.71645	A	ADM2	LV		11	0090000			0		6	Europe/Riga	2016-12-01
+11352640	Elejas pagasts	Elejas pagasts		56.41958	23.70162	A	ADM2	LV		12	0540248			0		31	Europe/Riga	2016-12-01
+11352641	Glūdas pagasts	Gludas pagasts		56.61529	23.54	A	ADM2	LV		12	0540252			0		8	Europe/Riga	2016-12-01
+11352642	Jaunsvirlaukas pagasts	Jaunsvirlaukas pagasts		56.57013	23.89188	A	ADM2	LV		12	0540256			0		5	Europe/Riga	2016-12-01
+11352643	Lielplatones pagasts	Lielplatones pagasts		56.45143	23.6406	A	ADM2	LV		12	0540260			0		25	Europe/Riga	2016-12-01
+11352644	Līvbērzes pagasts	Livberzes pagasts		56.70669	23.56267	A	ADM2	LV		12	0540262			0		8	Europe/Riga	2016-12-01
+11352645	Strazdes pagasts	Strazdes pagasts		57.13973	22.7567	A	ADM2	LV		28	0880286			0		110	Europe/Riga	2016-12-01
+11352646	Kārsava	Karsava		56.78688	27.68175	A	ADM2	LV		19	0681009			0		100	Europe/Riga	2021-08-16
+11352647	Platones pagasts	Platones pagasts		56.53753	23.70732	A	ADM2	LV		12	0540270			0		12	Europe/Riga	2016-12-01
+11352648	Sesavas pagasts	Sesavas pagasts		56.40372	23.79907	A	ADM2	LV		12	0540274			0		31	Europe/Riga	2016-12-01
+11352649	Svētes pagasts	Svetes pagasts		56.56036	23.62378	A	ADM2	LV		12	0540282			0		6	Europe/Riga	2016-12-01
+11352650	Valgundes pagasts	Valgundes pagasts		56.81372	23.62601	A	ADM2	LV		12	0540286			0		10	Europe/Riga	2016-12-01
+11352651	Vilces pagasts	Vilces pagasts		56.39306	23.5268	A	ADM2	LV		12	0540290			1455		37	Europe/Riga	2024-06-12
+11352652	Vircavas pagasts	Vircavas pagasts		56.5232	23.82912	A	ADM2	LV		12	0540292			0		13	Europe/Riga	2016-12-01
+11352653	Sutru pagasts	Sutru pagasts		56.30612	26.50228	A	ADM2	LV		90	0761282			0		102	Europe/Riga	2016-12-01
+11352654	Zaļenieku pagasts	Zalenieku pagasts		56.50807	23.51205	A	ADM2	LV		12	0540296			0		26	Europe/Riga	2016-12-01
+11352655	Jūrmala	Jurmala		56.95938	23.69339	A	ADM2	LV		13	0130000			0		6	Europe/Riga	2016-12-01
+11352656	Cēres pagasts	Ceres pagasts		57.11337	22.85179	A	ADM2	LV		29	0901244			0		72	Europe/Riga	2021-08-16
+11352657	Kandava	Kandava		57.03895	22.78057	A	ADM2	LV		29	0901211			0		57	Europe/Riga	2021-08-16
+11352658	Kandavas pagasts	Kandavas pagasts		57.03465	22.73961	A	ADM2	LV		29	0901262			0		70	Europe/Riga	2021-08-16
+11352659	Matkules pagasts	Matkules pagasts		56.98465	22.5529	A	ADM2	LV		29	0901270			0		87	Europe/Riga	2021-08-16
+11352660	Vānes pagasts	Vanes pagasts		56.91008	22.60169	A	ADM2	LV		29	0901288			0		77	Europe/Riga	2021-08-16
+11352661	Zantes pagasts	Zantes pagasts		56.84694	22.72992	A	ADM2	LV		29	0901292			0		122	Europe/Riga	2021-08-16
+11352662	Zemītes pagasts	Zemites pagasts		56.90369	22.81827	A	ADM2	LV		29	0901294			0		99	Europe/Riga	2021-08-16
+11352663	Goliševas pagasts	Golisevas pagasts		56.76187	27.89136	A	ADM2	LV		19	0681054			0		118	Europe/Riga	2021-08-16
+11352664	Malnavas pagasts	Malnavas pagasts		56.79818	27.76651	A	ADM2	LV		19	0681068			0		94	Europe/Riga	2021-08-16
+11352665	Mērdzenes pagasts	Merdzenes pagasts		56.69662	27.75055	A	ADM2	LV		19	0681072			0		109	Europe/Riga	2021-08-16
+11352666	Mežvidu pagasts	Mezvidu pagasts		56.69995	27.56455	A	ADM2	LV		19	0681070			0		124	Europe/Riga	2021-08-16
+11352667	Iršu pagasts	Irsu pagasts	Irsi Parish,Irsu pagasts,Irši Parish,Iršu pagasts	56.77909	25.57063	A	ADM2	LV		01	0326154			0		123	Europe/Riga	2025-07-08
+11352668	Salnavas pagasts	Salnavas pagasts		56.81289	27.52939	A	ADM2	LV		19	0681094			0		109	Europe/Riga	2021-08-16
+11352669	Olaine	Olaine		56.79041	23.92568	A	ADM2	LV		A2	0801009			0		9	Europe/Riga	2016-12-01
+11352670	Birzgales pagasts	Birzgales pagasts		56.62642	24.77918	A	ADM2	LV		21	0741044			0		79	Europe/Riga	2021-08-16
+11352671	Ķegums	Kegums		56.74079	24.71837	A	ADM2	LV		21	0741009			0		30	Europe/Riga	2021-08-16
+11352672	Rembates pagasts	Rembates pagasts		56.78007	24.82572	A	ADM2	LV		21	0741084			0		54	Europe/Riga	2021-08-16
+11352673	Tomes pagasts	Tomes pagasts		56.74088	24.62213	A	ADM2	LV		21	0741029			0		48	Europe/Riga	2021-08-16
+11352674	Baloži	Balozi		56.8715	24.12797	A	ADM2	LV		80	0800807			0		9	Europe/Riga	2016-12-01
+11352675	Daugmales pagasts	Daugmales pagasts		56.80368	24.44429	A	ADM2	LV		80	0800856			0		47	Europe/Riga	2016-12-01
+11352676	Bebru pagasts	Bebru pagasts	Bebri Parish,Bebru pagasts	56.73494	25.45577	A	ADM2	LV		01	0326146			0		108	Europe/Riga	2025-07-08
+11352677	Lielvārde	Lielvarde		56.71907	24.81072	A	ADM2	LV		21	0741413			0		43	Europe/Riga	2021-08-16
+11352678	Ķekavas pagasts	Kekavas pagasts		56.79392	24.17881	A	ADM2	LV		80	0800870			0		24	Europe/Riga	2016-12-01
+11352679	Bērzaines pagasts	Berzaines pagasts		57.62465	25.20231	A	ADM2	LV		31	0960244			0		59	Europe/Riga	2021-08-16
+11352680	Dikļu pagasts	Diklu pagasts		57.58103	25.05111	A	ADM2	LV		31	0960252			0		84	Europe/Riga	2021-08-16
+11352681	Līgatne	Ligatne		57.23844	25.04075	A	ADM2	LV		05	0421211			0		66	Europe/Riga	2021-08-16
+11352682	Kocēnu pagasts	Kocenu pagasts		57.50994	25.27881	A	ADM2	LV		31	0960264			0		78	Europe/Riga	2021-08-16
+11352683	Vaidavas pagasts	Vaidavas pagasts		57.43202	25.27291	A	ADM2	LV		31	0960288			0		58	Europe/Riga	2021-08-16
+11352684	Zilākalna pagasts	Zilakalna pagasts		57.57676	25.17372	A	ADM2	LV		31	0960296			0		54	Europe/Riga	2021-08-16
+11352685	Lielvārdes pagasts	Lielvardes pagasts		56.71906	24.89509	A	ADM2	LV		21	0741433			0		62	Europe/Riga	2021-08-16
+11352686	Kokneses pagasts	Kokneses pagasts	Koknese Parish,Kokneses pagasts	56.66526	25.42394	A	ADM2	LV		01	0326160			0		91	Europe/Riga	2025-07-08
+11352687	Aulejas pagasts	Aulejas pagasts		56.05143	27.27226	A	ADM2	LV		14	0600248			0		156	Europe/Riga	2016-12-01
+11352688	Indras pagasts	Indras pagasts		55.86935	27.53912	A	ADM2	LV		14	0600262			0		153	Europe/Riga	2016-12-01
+11352689	Kūku pagasts	Kuku pagasts		56.5191	26.01993	A	ADM2	LV		10	0566970			0		115	Europe/Riga	2021-08-16
+11352690	Izvaltas pagasts	Izvaltas pagasts		55.96986	27.01483	A	ADM2	LV		14	0600264			0		140	Europe/Riga	2016-12-01
+11352691	Kalniešu pagasts	Kalniesu pagasts		55.89061	27.36929	A	ADM2	LV		14	0600268			0		155	Europe/Riga	2016-12-01
+11352692	Kaplavas pagasts	Kaplavas pagasts		55.84299	27.17089	A	ADM2	LV		14	0600270			0		139	Europe/Riga	2016-12-01
+11352693	Kombuļu pagasts	Kombulu pagasts		55.98277	27.21646	A	ADM2	LV		14	0600274			0		186	Europe/Riga	2016-12-01
+11352694	Krāslava	Kraslava		55.89839	27.16767	A	ADM2	LV		14	0600201			0		108	Europe/Riga	2016-12-01
+11352695	Krāslavas pagasts	Kraslavas pagasts		55.90569	27.23758	A	ADM2	LV		14	0600278			0		156	Europe/Riga	2016-12-01
+11352696	Piedrujas pagasts	Piedrujas pagasts		55.81111	27.49231	A	ADM2	LV		14	0600284			0		125	Europe/Riga	2016-12-01
+11352697	Robežnieku pagasts	Robeznieku pagasts		55.96277	27.58567	A	ADM2	LV		14	0600286			0		164	Europe/Riga	2016-12-01
+11352698	Liepāja	Liepaja		56.54034	21.03037	A	ADM2	LV		16	0170000			0		4	Europe/Riga	2016-12-01
+11352699	Skaistas pagasts	Skaistas pagasts		55.98358	27.38634	A	ADM2	LV		14	0600288			0		184	Europe/Riga	2016-12-01
+11352700	Ūdrīšu pagasts	Udrisu pagasts		55.91813	27.06409	A	ADM2	LV		14	0600296			0		157	Europe/Riga	2016-12-01
+11352701	Krimuldas pagasts	Krimuldas pagasts		57.21323	24.79456	A	ADM2	LV		C7	0806968			0		72	Europe/Riga	2021-08-16
+11352702	Snēpeles pagasts	Snepeles pagasts		56.84335	21.94691	A	ADM2	LV		15	0620290			0		61	Europe/Riga	2016-12-01
+11352703	Valmiera	Valmiera		57.53084	25.42225	A	ADM2	LV		31	0250000			0		40	Europe/Riga	2016-12-01
+11352704	Lēdurgas pagasts	Ledurgas pagasts		57.32215	24.77997	A	ADM2	LV		C7	0806956			0		73	Europe/Riga	2021-08-16
+11352705	Atašienes pagasts	Atasienes pagasts		56.54548	26.45208	A	ADM2	LV		10	0566946			0		104	Europe/Riga	2021-08-16
+11352706	Krustpils pagasts	Krustpils pagasts		56.56856	25.82775	A	ADM2	LV		10	0566968			0		87	Europe/Riga	2021-08-16
+11352707	Mežāres pagasts	Mezares pagasts		56.55556	26.22082	A	ADM2	LV		10	0566976			0		109	Europe/Riga	2021-08-16
+11352708	Jumpravas pagasts	Jumpravas pagasts		56.67194	24.97676	A	ADM2	LV		21	0741448			0		66	Europe/Riga	2021-08-16
+11352709	Īvandes pagasts	Ivandes pagasts		56.97006	21.78364	A	ADM2	LV		15	0620254			0		81	Europe/Riga	2016-12-01
+11352710	Variešu pagasts	Variesu pagasts		56.60328	26.01515	A	ADM2	LV		10	0566994			0		87	Europe/Riga	2021-08-16
+11352711	Vīpes pagasts	Vipes pagasts		56.46962	26.11702	A	ADM2	LV		10	0566996			0		92	Europe/Riga	2021-08-16
+11352712	Ēdoles pagasts	Edoles pagasts		57.05136	21.68317	A	ADM2	LV		15	0620246			0		55	Europe/Riga	2016-12-01
+11352713	Puzes pagasts	Puzes pagasts		57.36433	22.10522	A	ADM2	LV		33	0980260			0		37	Europe/Riga	2016-12-01
+11352714	Gudenieku pagasts	Gudenieku pagasts		56.8867	21.62013	A	ADM2	LV		15	0620250			0		37	Europe/Riga	2016-12-01
+11352715	Pelču pagasts	Pelcu pagasts		56.90594	22.00047	A	ADM2	LV		15	0620274			0		44	Europe/Riga	2016-12-01
+11352716	Kabiles pagasts	Kabiles pagasts		56.9602	22.35337	A	ADM2	LV		15	0620258			0		83	Europe/Riga	2016-12-01
+11352717	Kuldīga	Kuldiga		56.96786	21.96885	A	ADM2	LV		15	0620201			0		31	Europe/Riga	2016-12-01
+11352718	Kurmāles pagasts	Kurmales pagasts		56.90973	21.85427	A	ADM2	LV		15	0620260			0		112	Europe/Riga	2016-12-01
+11352719	Laidu pagasts	Laidu pagasts		56.75167	21.84073	A	ADM2	LV		15	0620264			0		99	Europe/Riga	2016-12-01
+11352720	Padures pagasts	Padures pagasts		57.0364	21.86275	A	ADM2	LV		15	0620272			0		73	Europe/Riga	2016-12-01
+11352721	Rendas pagasts	Rendas pagasts		57.05939	22.21713	A	ADM2	LV		15	0620280			0		49	Europe/Riga	2016-12-01
+11352722	Rumbas pagasts	Rumbas pagasts		56.99617	22.05533	A	ADM2	LV		15	0620284			0		48	Europe/Riga	2016-12-01
+11352723	Turlavas pagasts	Turlavas pagasts		56.82761	21.74377	A	ADM2	LV		15	0620292			0		63	Europe/Riga	2016-12-01
+11352724	Vārmes pagasts	Varmes pagasts		56.8563	22.18922	A	ADM2	LV		15	0620296			0		55	Europe/Riga	2016-12-01
+11352725	Lēdmanes pagasts	Ledmanes pagasts		56.76686	24.988	A	ADM2	LV		21	0741464			0		74	Europe/Riga	2021-08-16
+11352726	Līgatnes pagasts	Ligatnes pagasts		57.18722	25.05967	A	ADM2	LV		05	0421262			0		106	Europe/Riga	2021-08-16
+11352727	Katvaru pagasts	Katvaru pagasts		57.58681	24.81068	A	ADM2	LV		18	0660252			0		104	Europe/Riga	2016-12-01
+11352728	Limbaži	Limbazi		57.51099	24.71676	A	ADM2	LV		18	0660201			0		77	Europe/Riga	2016-12-01
+11352729	Limbažu pagasts	Limbazu pagasts		57.4655	24.69149	A	ADM2	LV		18	0660264			0		64	Europe/Riga	2016-12-01
+11352730	Pāles pagasts	Pales pagasts		57.69498	24.71457	A	ADM2	LV		18	0660268			0		52	Europe/Riga	2016-12-01
+11352731	Skultes pagasts	Skultes pagasts		57.37217	24.50957	A	ADM2	LV		18	0660276			0		36	Europe/Riga	2016-12-01
+11352732	Rudzātu pagasts	Rudzatu pagasts		56.43761	26.47861	A	ADM2	LV		90	0761268			0		95	Europe/Riga	2016-12-01
+11352733	Umurgas pagasts	Umurgas pagasts		57.50397	24.9121	A	ADM2	LV		18	0660280			0		76	Europe/Riga	2016-12-01
+11352734	Vidrižu pagasts	Vidrizu pagasts		57.31571	24.64803	A	ADM2	LV		18	0660284			0		54	Europe/Riga	2016-12-01
+11352735	Viļķenes pagasts	Vilkenes pagasts		57.6111	24.5796	A	ADM2	LV		18	0660288			0		47	Europe/Riga	2016-12-01
+11352736	Turku pagasts	Turku pagasts		56.44682	26.23892	A	ADM2	LV		90	0761286			0		92	Europe/Riga	2016-12-01
+11352737	Jersikas pagasts	Jersikas pagasts		56.27184	26.24433	A	ADM2	LV		90	0761252			0		100	Europe/Riga	2016-12-01
+11352738	Līvāni	Livani		56.35586	26.17884	A	ADM2	LV		90	0761211			0		88	Europe/Riga	2016-12-01
+11352739	Rožupes pagasts	Rozupes pagasts		56.36671	26.34096	A	ADM2	LV		90	0761266			0		95	Europe/Riga	2016-12-01
+11352740	Indrānu pagasts	Indranu pagasts		56.9225	26.67	A	ADM2	LV		20	0701458			0		99	Europe/Riga	2021-08-16
+11352741	Lubāna	Lubana		56.89846	26.72028	A	ADM2	LV		20	0701413			0		95	Europe/Riga	2021-08-16
+11352742	Briģu pagasts	Brigu pagasts		56.44915	28.06754	A	ADM2	LV		19	0680246			0		119	Europe/Riga	2016-12-01
+11352743	Cirmas pagasts	Cirmas pagasts		56.52112	27.58717	A	ADM2	LV		19	0680250			0		135	Europe/Riga	2016-12-01
+11352744	Isnaudas pagasts	Isnaudas pagasts		56.48466	27.81625	A	ADM2	LV		19	0680258			0		149	Europe/Riga	2016-12-01
+11352745	Istras pagasts	Istras pagasts		56.24359	27.96685	A	ADM2	LV		19	0680260			0		149	Europe/Riga	2016-12-01
+11352746	Ludza	Ludza		56.54484	27.7117	A	ADM2	LV		19	0680201			0		142	Europe/Riga	2016-12-01
+11352747	Nirzas pagasts	Nirzas pagasts		56.38982	27.92056	A	ADM2	LV		19	0680278			0		161	Europe/Riga	2016-12-01
+11352748	Ņukšu pagasts	Nuksu pagasts		56.43283	27.70959	A	ADM2	LV		19	0680280			0		154	Europe/Riga	2016-12-01
+11352749	Pildas pagasts	Pildas pagasts		56.36668	27.76749	A	ADM2	LV		19	0680286			0		180	Europe/Riga	2016-12-01
+11352750	Pureņu pagasts	Purenu pagasts		56.46254	27.63462	A	ADM2	LV		19	0680288			0		153	Europe/Riga	2016-12-01
+11352751	Rundēnu pagasts	Rundenu pagasts		56.26304	27.78287	A	ADM2	LV		19	0680292			0		183	Europe/Riga	2016-12-01
+11352752	Aronas pagasts	Aronas pagasts		56.90622	26.09668	A	ADM2	LV		20	0700242			0		203	Europe/Riga	2016-12-01
+11352753	Barkavas pagasts	Barkavas pagasts		56.73201	26.59275	A	ADM2	LV		20	0700244			0		98	Europe/Riga	2016-12-01
+11352754	Bērzaunes pagasts	Berzaunes pagasts		56.83016	25.98727	A	ADM2	LV		20	0700246			0		202	Europe/Riga	2016-12-01
+11352755	Dzelzavas pagasts	Dzelzavas pagasts		56.99374	26.47403	A	ADM2	LV		20	0700250			0		116	Europe/Riga	2016-12-01
+11352756	Kalsnavas pagasts	Kalsnavas pagasts		56.73111	25.93796	A	ADM2	LV		20	0700262			0		111	Europe/Riga	2016-12-01
+11352757	Ļaudonas pagasts	Laudonas pagasts		56.692	26.16577	A	ADM2	LV		20	0700270			0		98	Europe/Riga	2016-12-01
+11352758	Lazdonas pagasts	Lazdonas pagasts		56.82441	26.19215	A	ADM2	LV		20	0700266			0		149	Europe/Riga	2016-12-01
+11352759	Mārupes novads	Marupes novads		56.88647	23.95908	A	ADM2	LV		95	0807600			0		24	Europe/Riga	2016-12-01
+11352760	Sarkaņu pagasts	Sarkanu pagasts		56.90591	26.35701	A	ADM2	LV		20	0700290			0		120	Europe/Riga	2016-12-01
+11352761	Liezēres pagasts	Liezeres pagasts		57.01881	26.03577	A	ADM2	LV		20	0700268			0		210	Europe/Riga	2016-12-01
+11352762	Madona	Madona		56.85458	26.22387	A	ADM2	LV		20	0700201			0		134	Europe/Riga	2016-12-01
+11352763	Mārcienas pagasts	Marcienas pagasts		56.77373	26.10154	A	ADM2	LV		20	0700274			0		107	Europe/Riga	2016-12-01
+11352764	Mētrienas pagasts	Metrienas pagasts		56.6857	26.35603	A	ADM2	LV		20	0700276			0		114	Europe/Riga	2016-12-01
+11352765	Ogre	Ogre		56.8129	24.61782	A	ADM2	LV		21	0740201			0		54	Europe/Riga	2016-12-01
+11352766	Ošupes pagasts	Osupes pagasts		56.81609	26.76969	A	ADM2	LV		20	0700282			0		98	Europe/Riga	2016-12-01
+11352767	Praulienas pagasts	Praulienas pagasts		56.80941	26.36949	A	ADM2	LV		20	0700286			0		96	Europe/Riga	2016-12-01
+11352768	Talsi	Talsi		57.24516	22.58604	A	ADM2	LV		28	0880201			0		77	Europe/Riga	2016-12-01
+11352769	Vestienas pagasts	Vestienas pagasts		56.86622	25.849	A	ADM2	LV		20	0700296			0		227	Europe/Riga	2016-12-01
+11352770	Mālpils novads	Malpils novads		56.9938	24.97257	A	ADM2	LV		C7	0807400			0		86	Europe/Riga	2021-08-16
+11352771	Mazsalacas pagasts	Mazsalacas pagasts		57.89194	25.07614	A	ADM2	LV		31	0961031			0		61	Europe/Riga	2021-08-16
+11352772	Viesīte	Viesite		56.34515	25.55663	A	ADM2	LV		10	0561815			0		119	Europe/Riga	2021-08-16
+11352773	Ramatas pagasts	Ramatas pagasts		57.97337	24.99396	A	ADM2	LV		31	0961076			0		71	Europe/Riga	2021-08-16
+11352774	Sēļu pagasts	Selu pagasts		57.86901	25.18806	A	ADM2	LV		31	0961082			0		68	Europe/Riga	2021-08-16
+11352775	Skaņkalnes pagasts	Skankalnes pagasts		57.85701	24.98452	A	ADM2	LV		31	0961084			0		59	Europe/Riga	2021-08-16
+11352776	Mērsraga novads	Mersraga novads		57.32509	23.04031	A	ADM2	LV		28	0887600			0		12	Europe/Riga	2021-08-16
+11352777	Ķoņu pagasts	Konu pagasts		57.94219	25.36826	A	ADM2	LV		31	0967366			0		54	Europe/Riga	2021-08-16
+11352778	Naukšēnu pagasts	Nauksenu pagasts		57.89087	25.52773	A	ADM2	LV		31	0967372			0		68	Europe/Riga	2021-08-16
+11352779	Pāvilosta	Pavilosta		56.88534	21.19861	A	ADM2	LV		DN	0641413			0		11	Europe/Riga	2021-08-16
+11352780	Mazzalves pagasts	Mazzalves pagasts	Mazzalve Parish,Mazzalves pagasts	56.39337	25.01351	A	ADM2	LV		01	0327166			0		70	Europe/Riga	2025-07-08
+11352781	Neretas pagasts	Neretas pagasts	Nereta Parish,Neretas pagasts	56.22014	25.31497	A	ADM2	LV		01	0327170			0		80	Europe/Riga	2025-07-08
+11352782	Piltene	Piltene		57.22428	21.69975	A	ADM2	LV		33	0980213			0		7	Europe/Riga	2016-12-01
+11352783	Pilskalnes pagasts	Pilskalnes pagasts	Pilskalne Parish,Pilskalnes pagasts	56.22136	25.15866	A	ADM2	LV		01	0327174			0		88	Europe/Riga	2025-07-08
+11352784	Zalves pagasts	Zalves pagasts	Zalve Parish,Zalves pagasts	56.33847	25.19671	A	ADM2	LV		01	0327196			0		70	Europe/Riga	2025-07-08
+11352785	Valdemārpils	Valdemarpils		57.36913	22.59312	A	ADM2	LV		28	0880217			0		50	Europe/Riga	2016-12-01
+11352786	Nīcas pagasts	Nicas pagasts		56.31764	21.072	A	ADM2	LV		DN	0647978			0		-2	Europe/Riga	2021-08-16
+11352787	Pļaviņas	Plavinas		56.61837	25.72088	A	ADM2	LV		01	0321413			0		75	Europe/Riga	2021-08-16
+11352788	Otaņķu pagasts	Otanku pagasts		56.40889	21.12364	A	ADM2	LV		DN	0647980			0		13	Europe/Riga	2021-08-16
+11352789	Ķeipenes pagasts	Keipenes pagasts		56.90619	25.14104	A	ADM2	LV		21	0740256			0		103	Europe/Riga	2016-12-01
+11352790	Krapes pagasts	Krapes pagasts		56.73751	25.19718	A	ADM2	LV		21	0740252			0		87	Europe/Riga	2016-12-01
+11352791	Lauberes pagasts	Lauberes pagasts		56.83746	25.01419	A	ADM2	LV		21	0740260			0		96	Europe/Riga	2016-12-01
+11352792	Madlienas pagasts	Madlienas pagasts		56.81341	25.19492	A	ADM2	LV		21	0740268			0		88	Europe/Riga	2016-12-01
+11352793	Mazozolu pagasts	Mazozolu pagasts		56.91856	25.46093	A	ADM2	LV		21	0740272			0		161	Europe/Riga	2016-12-01
+11352794	Preiļi	Preili		56.29218	26.72144	A	ADM2	LV		22	0760201			0		127	Europe/Riga	2016-12-01
+11352795	Čornajas pagasts	Cornajas pagasts		56.39609	27.42865	A	ADM2	LV		24	0780246			0		170	Europe/Riga	2016-12-01
+11352796	Meņģeles pagasts	Mengeles pagasts		56.81156	25.4089	A	ADM2	LV		21	0740276			0		100	Europe/Riga	2016-12-01
+11352797	Ogresgala pagasts	Ogresgala pagasts		56.80707	24.72388	A	ADM2	LV		21	0740280			0		40	Europe/Riga	2016-12-01
+11352798	Suntažu pagasts	Suntazu pagasts		56.89066	24.88473	A	ADM2	LV		21	0740288			0		66	Europe/Riga	2016-12-01
+11352799	Taurupes pagasts	Taurupes pagasts		56.90305	25.31905	A	ADM2	LV		21	0740292			0		134	Europe/Riga	2016-12-01
+11352800	Ziru pagasts	Ziru pagasts		57.13927	21.60963	A	ADM2	LV		33	0980290			0		22	Europe/Riga	2016-12-01
+11352801	Olaines pagasts	Olaines pagasts		56.77673	23.9864	A	ADM2	LV		A2	0801080			0		4	Europe/Riga	2016-12-01
+11352802	Cenu pagasts	Cenu pagasts		56.6996	23.85347	A	ADM2	LV		12	0546744			0		2	Europe/Riga	2021-08-16
+11352803	Salgales pagasts	Salgales pagasts		56.6118	23.99362	A	ADM2	LV		12	0546778			0		9	Europe/Riga	2021-08-16
+11352804	Raiskuma pagasts	Raiskuma pagasts		57.35669	25.18405	A	ADM2	LV		05	0427574			0		92	Europe/Riga	2021-08-16
+11352805	Zlēku pagasts	Zleku pagasts		57.13469	21.8672	A	ADM2	LV		33	0980294			0		38	Europe/Riga	2016-12-01
+11352806	Rēzekne	Rezekne		56.51039	27.3385	A	ADM2	LV		23	0210000			0		158	Europe/Riga	2016-12-01
+11352807	Stalbes pagasts	Stalbes pagasts		57.42134	25.03658	A	ADM2	LV		05	0427580			0		65	Europe/Riga	2021-08-16
+11352808	Straupes pagasts	Straupes pagasts		57.32696	24.9626	A	ADM2	LV		05	0427582			0		75	Europe/Riga	2021-08-16
+11352809	Saunas pagasts	Saunas pagasts		56.3912	26.61747	A	ADM2	LV		22	0760274			0		112	Europe/Riga	2016-12-01
+11352810	Sakas pagasts	Sakas pagasts		56.85791	21.28077	A	ADM2	LV		DN	0641486			0		17	Europe/Riga	2021-08-16
+11352811	Vērgales pagasts	Vergales pagasts	Vergale Parish,Vergales pagasts,Vērgale Parish,Vērgales pagasts	56.71574	21.14182	A	ADM2	LV		DN	0641496			0		18	Europe/Riga	2026-01-13
+11352812	Aiviekstes pagasts	Aiviekstes pagasts	Aiviekste Parish,Aiviekstes pagasts	56.65915	25.79127	A	ADM2	LV		01	0321442			0		111	Europe/Riga	2025-07-08
+11352813	Klintaines pagasts	Klintaines pagasts	Klintaine Parish,Klintaines pagasts	56.62454	25.59423	A	ADM2	LV		01	0321458			0		98	Europe/Riga	2025-07-08
+11352814	Vietalvas pagasts	Vietalvas pagasts	Vietalva Parish,Vietalvas pagasts	56.74166	25.73967	A	ADM2	LV		01	0321492			620		156	Europe/Riga	2025-07-08
+11352815	Aizkalnes pagasts	Aizkalnes pagasts		56.20509	26.75387	A	ADM2	LV		22	0760244			0		148	Europe/Riga	2016-12-01
+11352816	Pelēču pagasts	Pelecu pagasts		56.14698	26.75187	A	ADM2	LV		22	0760256			0		139	Europe/Riga	2016-12-01
+11352817	Preiļu pagasts	Preilu pagasts		56.28559	26.69328	A	ADM2	LV		22	0760258			0		124	Europe/Riga	2016-12-01
+11352818	Nagļu pagasts	Naglu pagasts		56.72218	26.89925	A	ADM2	LV		24	0780274			0		93	Europe/Riga	2016-12-01
+11352819	Bunkas pagasts	Bunkas pagasts		56.52429	21.52639	A	ADM2	LV		DN	0641646			0		45	Europe/Riga	2021-08-16
+11352820	Gramzdas pagasts	Gramzdas pagasts		56.35762	21.65646	A	ADM2	LV		DN	0641658			0		57	Europe/Riga	2021-08-16
+11352821	Kalētu pagasts	Kaletu pagasts		56.33695	21.49921	A	ADM2	LV		DN	0641664			0		27	Europe/Riga	2021-08-16
+11352822	Priekules pagasts	Priekules pagasts		56.45839	21.62878	A	ADM2	LV		DN	0641682			0		84	Europe/Riga	2021-08-16
+11352823	Svitenes pagasts	Svitenes pagasts		56.37467	23.92803	A	ADM2	LV		04	0407788			0		33	Europe/Riga	2021-08-16
+11352824	Virgas pagasts	Virgas pagasts		56.43508	21.46779	A	ADM2	LV		DN	0641698			0		21	Europe/Riga	2021-08-16
+11352825	Liepas pagasts	Liepas pagasts		57.39083	25.44362	A	ADM2	LV		05	0427360			0		71	Europe/Riga	2021-08-16
+11352826	Mārsnēnu pagasts	Marsnenu pagasts		57.42413	25.57452	A	ADM2	LV		05	0427364			0		75	Europe/Riga	2021-08-16
+11352827	Priekuļu pagasts	Priekulu pagasts		57.33123	25.39194	A	ADM2	LV		05	0427372			0		50	Europe/Riga	2021-08-16
+11352828	Veselavas pagasts	Veselavas pagasts		57.26744	25.53359	A	ADM2	LV		05	0427394			0		207	Europe/Riga	2021-08-16
+11352829	Drustu pagasts	Drustu pagasts		57.24312	25.8922	A	ADM2	LV		D1	0427748			0		183	Europe/Riga	2021-08-16
+11352830	Raunas pagasts	Raunas pagasts		57.34204	25.6411	A	ADM2	LV		D1	0427776			0		143	Europe/Riga	2021-08-16
+11352831	Audriņu pagasts	Audrinu pagasts		56.58801	27.23383	A	ADM2	LV		24	0780242			0		145	Europe/Riga	2016-12-01
+11352832	Bērzgales pagasts	Berzgales pagasts		56.62739	27.4913	A	ADM2	LV		24	0780244			0		148	Europe/Riga	2016-12-01
+11352833	Dricānu pagasts	Dricanu pagasts		56.66279	27.19769	A	ADM2	LV		24	0780250			0		129	Europe/Riga	2016-12-01
+11352834	Feimaņu pagasts	Feimanu pagasts		56.27299	27.0512	A	ADM2	LV		24	0780252			0		163	Europe/Riga	2016-12-01
+11352835	Gaigalavas pagasts	Gaigalavas pagasts		56.75687	27.07054	A	ADM2	LV		24	0780254			0		100	Europe/Riga	2016-12-01
+11352836	Griškānu pagasts	Griskanu pagasts		56.4875	27.42319	A	ADM2	LV		24	0780256			0		147	Europe/Riga	2016-12-01
+11352837	Ainaži	Ainazi		57.8586	24.3556	A	ADM2	LV		18	0661405			0		7	Europe/Riga	2021-08-16
+11352838	Ilzeskalna pagasts	Ilzeskalna pagasts		56.64685	27.37793	A	ADM2	LV		24	0780258			0		156	Europe/Riga	2016-12-01
+11352839	Kantinieku pagasts	Kantinieku pagasts		56.58437	27.12427	A	ADM2	LV		24	0780260			0		134	Europe/Riga	2016-12-01
+11352840	Kaunatas pagasts	Kaunatas pagasts		56.30782	27.59032	A	ADM2	LV		24	0780262			0		173	Europe/Riga	2016-12-01
+11352841	Lendžu pagasts	Lendzu pagasts		56.5695	27.49757	A	ADM2	LV		24	0780266			0		153	Europe/Riga	2016-12-01
+11352842	Lūznavas pagasts	Luznavas pagasts		56.35988	27.27863	A	ADM2	LV		24	0780268			0		164	Europe/Riga	2016-12-01
+11352843	Mākoņkalna pagasts	Makonkalna pagasts		56.26813	27.38365	A	ADM2	LV		24	0780272			0		170	Europe/Riga	2016-12-01
+11352844	Maltas pagasts	Maltas pagasts		56.31502	27.18747	A	ADM2	LV		24	0780270			0		172	Europe/Riga	2016-12-01
+11352845	Rūjiena	Rujiena		57.89408	25.33693	A	ADM2	LV		31	0961615			0		48	Europe/Riga	2021-08-16
+11352846	Lodes pagasts	Lodes pagasts		58.01685	25.3583	A	ADM2	LV		31	0961668			0		72	Europe/Riga	2021-08-16
+11352847	Nautrēnu pagasts	Nautrenu pagasts		56.73817	27.36877	A	ADM2	LV		24	0780284			0		104	Europe/Riga	2016-12-01
+11352848	Ozolaines pagasts	Ozolaines pagasts		56.43518	27.2501	A	ADM2	LV		24	0780276			0		160	Europe/Riga	2016-12-01
+11352849	Ozolmuižas pagasts	Ozolmuizas pagasts		56.49903	27.25013	A	ADM2	LV		24	0780278			0		149	Europe/Riga	2016-12-01
+11352850	Pušas pagasts	Pusas pagasts		56.23195	27.20445	A	ADM2	LV		24	0780280			0		158	Europe/Riga	2016-12-01
+11352851	Rikavas pagasts	Rikavas pagasts		56.63485	27.0034	A	ADM2	LV		24	0780282			0		96	Europe/Riga	2016-12-01
+11352852	Sakstagala pagasts	Sakstagala pagasts		56.52013	27.11456	A	ADM2	LV		24	0780286			0		141	Europe/Riga	2016-12-01
+11352853	Ainažu pagasts	Ainazu pagasts		57.87076	24.50208	A	ADM2	LV		18	0661425			0		31	Europe/Riga	2021-08-16
+11352854	Silmalas pagasts	Silmalas pagasts		56.41146	27.05283	A	ADM2	LV		24	0780288			0		143	Europe/Riga	2016-12-01
+11352855	Salaspils	Salaspils		56.86613	24.35669	A	ADM2	LV		C3	0801211			0		15	Europe/Riga	2016-12-01
+11352856	Stoļerovas pagasts	Stolerovas pagasts		56.41138	27.56915	A	ADM2	LV		24	0780292			0		156	Europe/Riga	2016-12-01
+11352857	Stružānu pagasts	Struzanu pagasts		56.71445	27.20516	A	ADM2	LV		24	0780294			0		99	Europe/Riga	2016-12-01
+11352858	Vērēmu pagasts	Veremu pagasts		56.56409	27.36301	A	ADM2	LV		24	0780296			0		155	Europe/Riga	2016-12-01
+11352859	Galēnu pagasts	Galenu pagasts		56.45949	26.8474	A	ADM2	LV		22	0766348			0		129	Europe/Riga	2021-08-16
+11352860	Riebiņu pagasts	Riebinu pagasts		56.34696	26.76109	A	ADM2	LV		22	0766362			0		131	Europe/Riga	2021-08-16
+11352861	Rušonas pagasts	Rusonas pagasts		56.22867	26.91526	A	ADM2	LV		22	0766370			0		147	Europe/Riga	2021-08-16
+11352862	Silajāņu pagasts	Silajanu pagasts		56.35455	26.90692	A	ADM2	LV		22	0766376			0		147	Europe/Riga	2021-08-16
+11352863	Palsmanes pagasts	Palsmanes pagasts		57.38254	26.16683	A	ADM2	LV		D1	0941674			0		119	Europe/Riga	2016-12-01
+11352864	Sīļukalna pagasts	Silukalna pagasts		56.5062	26.68185	A	ADM2	LV		22	0766378			0		107	Europe/Riga	2021-08-16
+11352865	Stabulnieku pagasts	Stabulnieku pagasts		56.44273	26.74385	A	ADM2	LV		22	0766380			0		119	Europe/Riga	2021-08-16
+11352866	Viesturu pagasts	Viesturu pagasts		56.45236	23.9393	A	ADM2	LV		04	0407796			0		17	Europe/Riga	2021-08-16
+11352867	Saldus	Saldus		56.66442	22.49038	A	ADM2	LV		27	0840201			0		93	Europe/Riga	2016-12-01
+11352868	Rīga	Riga		56.97808	24.12271	A	ADM2	LV		25	0010000			0		3	Europe/Riga	2016-12-01
+11352869	Rojas novads	Rojas novads		57.49079	22.75311	A	ADM2	LV		28	0888301			0		19	Europe/Riga	2021-08-16
+11352870	Jeru pagasts	Jeru pagasts		57.8374	25.33783	A	ADM2	LV		31	0961658			0		54	Europe/Riga	2021-08-16
+11352871	Ropažu pagasts	Ropazu pagasts	Ropazi Parish,Ropazu pagasts,Ropaži Parish,Ropažu pagasts	56.96631	24.59688	A	ADM2	LV		B5	0808400			0		37	Europe/Riga	2025-07-08
+11352872	Sigulda	Sigulda		57.16026	24.84469	A	ADM2	LV		C7	0801615			0		100	Europe/Riga	2016-12-01
+11352873	Dunikas pagasts	Dunikas pagasts		56.27916	21.31446	A	ADM2	LV		DN	0648552			0		28	Europe/Riga	2021-08-16
+11352874	Rucavas pagasts	Rucavas pagasts		56.16653	21.12998	A	ADM2	LV		DN	0648584			0		13	Europe/Riga	2021-08-16
+11352875	Lazdukalna pagasts	Lazdukalna pagasts		56.92422	27.09918	A	ADM2	LV		03	0387564			0		98	Europe/Riga	2021-08-16
+11352876	Rugāju pagasts	Rugaju pagasts		57.01835	27.09705	A	ADM2	LV		03	0387574			0		110	Europe/Riga	2021-08-16
+11352877	Ipiķu pagasts	Ipiku pagasts		58.03144	25.16454	A	ADM2	LV		31	0961656			0		72	Europe/Riga	2021-08-16
+11352878	Vilpulkas pagasts	Vilpulkas pagasts		57.95149	25.21845	A	ADM2	LV		31	0961694			0		62	Europe/Riga	2021-08-16
+11352879	Rundāles pagasts	Rundales pagasts		56.39605	24.0357	A	ADM2	LV		04	0407776			0		22	Europe/Riga	2021-08-16
+11352880	Liepupes pagasts	Liepupes pagasts		57.48446	24.46169	A	ADM2	LV		18	0661460			0		41	Europe/Riga	2021-08-16
+11352881	Salacgrīva	Salacgriva		57.75647	24.36216	A	ADM2	LV		18	0661415			0		7	Europe/Riga	2021-08-16
+11352882	Salacgrīvas pagasts	Salacgrivas pagasts		57.73022	24.48039	A	ADM2	LV		18	0661435			0		33	Europe/Riga	2021-08-16
+11352883	Salas pagasts	Salas pagasts		56.44651	25.73798	A	ADM2	LV		10	0568786			0		87	Europe/Riga	2021-08-16
+11352884	Sēlpils pagasts	Selpils pagasts		56.53955	25.65595	A	ADM2	LV		10	0568790			0		94	Europe/Riga	2021-08-16
+11352885	Rudbāržu pagasts	Rudbarzu pagasts		56.65376	21.87861	A	ADM2	LV		15	0621282			0		93	Europe/Riga	2021-08-16
+11352886	Salaspils pagasts	Salaspils pagasts		56.89325	24.31	A	ADM2	LV		C3	0801231			0		11	Europe/Riga	2016-12-29
+11352887	Ezeres pagasts	Ezeres pagasts		56.43236	22.33708	A	ADM2	LV		27	0840248			0		77	Europe/Riga	2016-12-01
+11352888	Jaunauces pagasts	Jaunauces pagasts		56.45692	22.66043	A	ADM2	LV		27	0840256			0		92	Europe/Riga	2016-12-01
+11352889	Jaunlutriņu pagasts	Jaunlutrinu pagasts		56.80393	22.34975	A	ADM2	LV		27	0840258			0		91	Europe/Riga	2016-12-01
+11352890	Kursīšu pagasts	Kursisu pagasts		56.51435	22.38939	A	ADM2	LV		27	0840262			0		92	Europe/Riga	2016-12-01
+11352891	Lutriņu pagasts	Lutrinu pagasts		56.73815	22.33481	A	ADM2	LV		27	0840266			0		75	Europe/Riga	2016-12-01
+11352892	Smiltene	Smiltene		57.42073	25.90397	A	ADM2	LV		D1	0941615			0		111	Europe/Riga	2016-12-01
+11352893	Nīgrandes pagasts	Nigrandes pagasts		56.45883	22.04751	A	ADM2	LV		27	0840270			0		81	Europe/Riga	2016-12-01
+11352894	Mores pagasts	Mores pagasts		57.07517	25.06196	A	ADM2	LV		C7	0801666			0		113	Europe/Riga	2016-12-01
+11352895	Novadnieku pagasts	Novadnieku pagasts		56.6103	22.40819	A	ADM2	LV		27	0840272			0		111	Europe/Riga	2016-12-01
+11352896	Pampāļu pagasts	Pampalu pagasts		56.55996	22.1591	A	ADM2	LV		27	0840276			0		86	Europe/Riga	2016-12-01
+11352897	Seda	Seda		57.65275	25.75	A	ADM2	LV		31	0941813			0		53	Europe/Riga	2021-08-16
+11352898	Strenči	Strenci		57.62796	25.69627	A	ADM2	LV		31	0941817			0		55	Europe/Riga	2021-08-16
+11352899	Rubas pagasts	Rubas pagasts		56.41488	22.5677	A	ADM2	LV		27	0840282			0		83	Europe/Riga	2016-12-01
+11352900	Saldus pagasts	Saldus pagasts		56.70583	22.44916	A	ADM2	LV		27	0840286			0		132	Europe/Riga	2016-12-01
+11352901	Smiltenes pagasts	Smiltenes pagasts		57.45787	25.87614	A	ADM2	LV		D1	0941680			0		77	Europe/Riga	2016-12-01
+11352902	Šķēdes pagasts	Skedes pagasts		56.88096	22.40977	A	ADM2	LV		27	0840288			0		87	Europe/Riga	2016-12-01
+11352903	Vadakstes pagasts	Vadakstes pagasts		56.39066	22.77974	A	ADM2	LV		27	0840292			0		83	Europe/Riga	2016-12-01
+11352904	Zaņas pagasts	Zanas pagasts		56.48347	22.2071	A	ADM2	LV		27	0840294			0		68	Europe/Riga	2016-12-01
+11352905	Īves pagasts	Ives pagasts		57.43648	22.52049	A	ADM2	LV		28	0880258			0		71	Europe/Riga	2016-12-01
+11352906	Zirņu pagasts	Zirnu pagasts		56.67368	22.25185	A	ADM2	LV		27	0840296			0		83	Europe/Riga	2016-12-01
+11352907	Zvārdes pagasts	Zvardes pagasts		56.55328	22.60381	A	ADM2	LV		27	0840298			0		115	Europe/Riga	2016-12-01
+11352908	Saulkrasti	Saulkrasti		57.25844	24.41122	A	ADM2	LV		C5	0801413			0		15	Europe/Riga	2016-12-01
+11352909	Saulkrastu pagasts	Saulkrastu pagasts		57.256	24.448	A	ADM2	LV		C5	0801433			0		19	Europe/Riga	2025-09-01
+11352910	Sējas novads	Sejas novads		57.21209	24.54713	A	ADM2	LV		C5	0809200			0		32	Europe/Riga	2021-08-16
+11352911	Allažu pagasts	Allazu pagasts		57.04853	24.78748	A	ADM2	LV		C7	0801642			0		73	Europe/Riga	2016-12-01
+11352912	Siguldas pagasts	Siguldas pagasts		57.14329	24.91975	A	ADM2	LV		C7	0801694			0		104	Europe/Riga	2016-12-01
+11352913	Skrīveru pagasts	Skriveru pagasts	Skriveri Parish,Skriveru pagasts,Skrīveri Parish,Skrīveru pagasts	56.67245	25.09735	A	ADM2	LV		01	0328200			0		77	Europe/Riga	2025-07-08
+11352914	Nīkrāces pagasts	Nikraces pagasts		56.56099	21.92835	A	ADM2	LV		15	0621268			0		83	Europe/Riga	2021-08-16
+11352915	Raņķu pagasts	Ranku pagasts		56.78118	21.99326	A	ADM2	LV		15	0621278			0		27	Europe/Riga	2021-08-16
+11352916	Variņu pagasts	Varinu pagasts		57.31623	26.15574	A	ADM2	LV		D1	0941690			0		144	Europe/Riga	2016-12-01
+11352917	Skrundas pagasts	Skrundas pagasts		56.69699	22.06831	A	ADM2	LV		15	0621229			0		43	Europe/Riga	2021-08-16
+11352918	Bilskas pagasts	Bilskas pagasts		57.48592	26.05945	A	ADM2	LV		D1	0941644			0		80	Europe/Riga	2016-12-01
+11352919	Blomes pagasts	Blomes pagasts		57.44691	25.74018	A	ADM2	LV		D1	0941646			0		86	Europe/Riga	2016-12-01
+11352920	Brantu pagasts	Brantu pagasts		57.37648	25.79825	A	ADM2	LV		D1	0941648			0		162	Europe/Riga	2016-12-01
+11352921	Grundzāles pagasts	Grundzales pagasts		57.47222	26.23241	A	ADM2	LV		D1	0941658			0		85	Europe/Riga	2016-12-01
+11352922	Launkalnes pagasts	Launkalnes pagasts		57.34426	25.93173	A	ADM2	LV		D1	0941670			0		169	Europe/Riga	2016-12-01
+11352923	Stopiņu pagasts	Stopinu pagasts	Stopini Parish,Stopinu pagasts,Stopiņi Parish,Stopiņu pagasts	56.93014	24.3177	A	ADM2	LV		B5	0809600			0		18	Europe/Riga	2025-07-08
+11352924	Jērcēnu pagasts	Jercenu pagasts		57.67539	25.69368	A	ADM2	LV		31	0941860			0		51	Europe/Riga	2021-08-16
+11352925	Plāņu pagasts	Planu pagasts		57.59363	25.84795	A	ADM2	LV		31	0941876			0		67	Europe/Riga	2021-08-16
+11352926	Abavas pagasts	Abavas pagasts		57.06295	22.515	A	ADM2	LV		28	0880242			0		75	Europe/Riga	2016-12-01
+11352927	Ārlavas pagasts	Arlavas pagasts		57.38197	22.67522	A	ADM2	LV		28	0880237			0		52	Europe/Riga	2016-12-01
+11352928	Balgales pagasts	Balgales pagasts		57.18241	22.87518	A	ADM2	LV		28	0880246			0		49	Europe/Riga	2016-12-01
+11352929	Kārķu pagasts	Karku pagasts		57.81948	25.61953	A	ADM2	LV		30	0940266			0		61	Europe/Riga	2016-12-01
+11352930	Ģibuļu pagasts	Gibulu pagasts		57.20794	22.37697	A	ADM2	LV		28	0880254			0		55	Europe/Riga	2016-12-01
+11352931	Ķūļciema pagasts	Kulciema pagasts		57.24931	23.01518	A	ADM2	LV		28	0880264			0		3	Europe/Riga	2016-12-01
+11352932	Laidzes pagasts	Laidzes pagasts		57.29342	22.63844	A	ADM2	LV		28	0880268			0		57	Europe/Riga	2016-12-01
+11352933	Laucienes pagasts	Laucienes pagasts		57.2437	22.82938	A	ADM2	LV		28	0880270			0		39	Europe/Riga	2016-12-01
+11352934	Murmastienes pagasts	Murmastienes pagasts		56.65172	26.57196	A	ADM2	LV		E1	0701878			0		96	Europe/Riga	2016-12-01
+11352935	Lībagu pagasts	Libagu pagasts		57.17616	22.56355	A	ADM2	LV		28	0880272			0		83	Europe/Riga	2016-12-01
+11352936	Lubes pagasts	Lubes pagasts		57.45003	22.64174	A	ADM2	LV		28	0880274			0		39	Europe/Riga	2016-12-01
+11352937	Sabile	Sabile		57.04756	22.57147	A	ADM2	LV		28	0880213			0		43	Europe/Riga	2016-12-01
+11352938	Stende	Stende		57.14242	22.53836	A	ADM2	LV		28	0880215			0		93	Europe/Riga	2016-12-01
+11352939	Valdgales pagasts	Valdgales pagasts		57.35165	22.40754	A	ADM2	LV		28	0880292			0		68	Europe/Riga	2016-12-01
+11352940	Elkšņu pagasts	Elksnu pagasts		56.23033	25.59995	A	ADM2	LV		10	0561858			0		114	Europe/Riga	2021-08-16
+11352941	Dzērbenes pagasts	Dzerbenes pagasts		57.21977	25.66419	A	ADM2	LV		05	0429350			0		218	Europe/Riga	2021-08-16
+11352942	Vandzenes pagasts	Vandzenes pagasts		57.33619	22.82518	A	ADM2	LV		28	0880294			0		38	Europe/Riga	2016-12-01
+11352943	Virbu pagasts	Virbu pagasts		57.12958	22.63177	A	ADM2	LV		28	0880296			0		97	Europe/Riga	2016-12-01
+11352944	Augstkalnes pagasts	Augstkalnes pagasts		56.40806	23.37528	A	ADM2	LV		08	0468944			0		44	Europe/Riga	2021-08-16
+11352945	Bukaišu pagasts	Bukaisu pagasts		56.41292	23.21847	A	ADM2	LV		08	0468956			0		63	Europe/Riga	2021-08-16
+11352946	Tērvetes pagasts	Tervetes pagasts		56.47685	23.34019	A	ADM2	LV		08	0468988			0		62	Europe/Riga	2021-08-16
+11352947	Skaistkalnes pagasts	Skaistkalnes pagasts		56.37767	24.57124	A	ADM2	LV		04	0409580			0		46	Europe/Riga	2021-08-16
+11352948	Degoles pagasts	Degoles pagasts		56.87558	23.13922	A	ADM2	LV		29	0900246			0		85	Europe/Riga	2016-12-01
+11352949	Džūkstes pagasts	Dzukstes pagasts		56.79041	23.31385	A	ADM2	LV		29	0900248			0		31	Europe/Riga	2016-12-01
+11352950	Irlavas pagasts	Irlavas pagasts		56.85332	22.99358	A	ADM2	LV		29	0900254			0		74	Europe/Riga	2016-12-01
+11352951	Jaunsātu pagasts	Jaunsatu pagasts		56.96124	22.91512	A	ADM2	LV		29	0900258			0		63	Europe/Riga	2016-12-01
+11352952	Rites pagasts	Rites pagasts		56.19336	25.48399	A	ADM2	LV		10	0561880			0		89	Europe/Riga	2021-08-16
+11352953	Pūres pagasts	Pures pagasts		57.05148	22.92949	A	ADM2	LV		29	0900274			0		62	Europe/Riga	2016-12-01
+11352954	Sēmes pagasts	Semes pagasts		57.06392	23.11344	A	ADM2	LV		29	0900278			0		71	Europe/Riga	2016-12-01
+11352955	Slampes pagasts	Slampes pagasts		56.88196	23.31206	A	ADM2	LV		29	0900280			0		28	Europe/Riga	2016-12-01
+11352956	Tukums	Tukums		56.96542	23.15281	A	ADM2	LV		29	0900201			0		61	Europe/Riga	2016-12-01
+11352957	Tumes pagasts	Tumes pagasts		56.96012	23.06785	A	ADM2	LV		29	0900284			0		56	Europe/Riga	2016-12-01
+11352958	Zentenes pagasts	Zentenes pagasts		57.15943	23.0371	A	ADM2	LV		29	0900296			0		11	Europe/Riga	2016-12-01
+11352959	Saukas pagasts	Saukas pagasts		56.28424	25.41799	A	ADM2	LV		10	0561888			0		88	Europe/Riga	2021-08-16
+11352960	Embūtes pagasts	Embutes pagasts		56.50503	21.82372	A	ADM2	LV		DN	0649354			0		105	Europe/Riga	2021-08-16
+11352961	Vaiņodes pagasts	Vainodes pagasts		56.4174	21.83151	A	ADM2	LV		DN	0649392			0		141	Europe/Riga	2021-08-16
+11352962	Bārbeles pagasts	Barbeles pagasts		56.46293	24.61081	A	ADM2	LV		04	0409544			0		38	Europe/Riga	2021-08-16
+11352963	Ērģemes pagasts	Ergemes pagasts		57.81846	25.77847	A	ADM2	LV		30	0940252			0		74	Europe/Riga	2016-12-01
+11352964	Valkas pagasts	Valkas pagasts		57.74282	25.99774	A	ADM2	LV		30	0940288			0		63	Europe/Riga	2016-12-01
+11352965	Vijciema pagasts	Vijciema pagasts		57.59779	26.00906	A	ADM2	LV		30	0940292			0		65	Europe/Riga	2016-12-01
+11352966	Sokolku pagasts	Sokolku pagasts		56.50462	26.99933	A	ADM2	LV		24	0781890			0		124	Europe/Riga	2021-08-16
+11352967	Zvārtavas pagasts	Zvartavas pagasts		57.58902	26.21851	A	ADM2	LV		30	0940296			0		88	Europe/Riga	2016-12-01
+11352968	Varakļāni	Varaklani		56.6061	26.75932	A	ADM2	LV		E1	0701817			0		101	Europe/Riga	2016-12-01
+11352969	Varakļānu pagasts	Varaklanu pagasts		56.59339	26.68123	A	ADM2	LV		E1	0701894			0		101	Europe/Riga	2016-12-01
+11352970	Rožkalnu pagasts	Rozkalnu pagasts		56.2057	26.43671	A	ADM2	LV		22	0769164			0		95	Europe/Riga	2021-08-16
+11352971	Upmalas pagasts	Upmalas pagasts		56.24245	26.48136	A	ADM2	LV		22	0769190			0		100	Europe/Riga	2021-08-16
+11352972	Vārkavas pagasts	Varkavas pagasts		56.23269	26.62064	A	ADM2	LV		22	0769194			0		119	Europe/Riga	2021-08-16
+11352973	Inešu pagasts	Inesu pagasts		57.00876	25.82731	A	ADM2	LV		05	0429354			0		196	Europe/Riga	2021-08-16
+11352974	Kaives pagasts	Kaives pagasts		57.02525	25.61162	A	ADM2	LV		05	0429358			0		201	Europe/Riga	2021-08-16
+11352975	Taurenes pagasts	Taurenes pagasts		57.13781	25.66747	A	ADM2	LV		05	0429386			0		198	Europe/Riga	2021-08-16
+11352976	Vecpiebalgas pagasts	Vecpiebalgas pagasts		57.07734	25.78564	A	ADM2	LV		05	0429392			0		236	Europe/Riga	2021-08-16
+11352977	Kurmenes pagasts	Kurmenes pagasts		56.46317	24.84151	A	ADM2	LV		04	0409562			0		59	Europe/Riga	2021-08-16
+11352978	Stelpes pagasts	Stelpes pagasts		56.5245	24.50996	A	ADM2	LV		04	0409584			0		30	Europe/Riga	2021-08-16
+11352979	Ādažu novads	Adazu novads		57.10939	24.38033	A	ADM2	LV		34	0804400			0		9	Europe/Riga	2016-12-01
+11352980	Aglonas pagasts	Aglonas pagasts		56.11862	27.00738	A	ADM2	LV		22	0604342			0		156	Europe/Riga	2021-08-16
+11352981	Grāveru pagasts	Graveru pagasts		56.0583	27.15393	A	ADM2	LV		14	0604358			0		152	Europe/Riga	2021-08-16
+11352982	Aknīste	Akniste		56.16044	25.74498	A	ADM2	LV		10	0560805			0		98	Europe/Riga	2021-08-16
+11352983	Balvi	Balvi		57.13149	27.26041	A	ADM2	LV		03	0380201			0		116	Europe/Riga	2016-12-01
+11352984	Baldone	Baldone		56.74526	24.40524	A	ADM2	LV		80	0800605			0		29	Europe/Riga	2021-08-16
+11352985	Grobiņa	Grobina		56.53875	21.16682	A	ADM2	LV		DN	0641009			0		22	Europe/Riga	2021-08-16
+11352986	Mazsalaca	Mazsalaca		57.86219	25.0521	A	ADM2	LV		31	0961011			0		59	Europe/Riga	2021-08-16
+11352987	Ozolnieku pagasts	Ozolnieku pagasts		56.69156	23.77333	A	ADM2	LV		12	0546766			0		21	Europe/Riga	2021-08-16
+11352988	Priekule	Priekule		56.44691	21.59919	A	ADM2	LV		DN	0641615			0		62	Europe/Riga	2021-08-16
+11352989	Lestenes pagasts	Lestenes pagasts		56.77971	23.13407	A	ADM2	LV		29	0900268			0		62	Europe/Riga	2016-12-01
+11352990	Valka	Valka		57.77463	26.00565	A	ADM2	LV		30	0940201			0		53	Europe/Riga	2016-12-01
+11352991	Popes pagasts	Popes pagasts		57.42692	21.87501	A	ADM2	LV		33	0980256			0		36	Europe/Riga	2016-12-01
+11352992	Kupravas pagasts	Kupravas pagasts		57.22986	27.48839	A	ADM2	LV		03	0381660			0		109	Europe/Riga	2021-08-16
+11352993	Viļaka	Vilaka		57.18706	27.68202	A	ADM2	LV		03	0381615			0		90	Europe/Riga	2021-08-16
+11352994	Valles pagasts	Valles pagasts		56.52089	24.81178	A	ADM2	LV		04	0409590			0		59	Europe/Riga	2021-08-16
+11352995	Vecumnieku pagasts	Vecumnieku pagasts		56.61988	24.50454	A	ADM2	LV		04	0409594			0		31	Europe/Riga	2021-08-16
+11352996	Ventspils	Ventspils		57.40671	21.60154	A	ADM2	LV		32	0270000			0		7	Europe/Riga	2016-12-01
+11352997	Ances pagasts	Ances pagasts		57.52583	22.04657	A	ADM2	LV		33	0980244			0		9	Europe/Riga	2016-12-01
+11352998	Jūrkalnes pagasts	Jurkalnes pagasts		57.01992	21.43629	A	ADM2	LV		33	0980250			0		29	Europe/Riga	2016-12-01
+11352999	Zilupe	Zilupe		56.39074	28.11617	A	ADM2	LV		19	0681817			0		120	Europe/Riga	2021-08-16
+11353000	Tārgales pagasts	Targales pagasts		57.33616	21.65543	A	ADM2	LV		33	0980266			0		5	Europe/Riga	2016-12-03
+11353001	Ugāles pagasts	Ugales pagasts		57.23775	21.96986	A	ADM2	LV		33	0980270			0		59	Europe/Riga	2016-12-01
+11353002	Usmas pagasts	Usmas pagasts		57.22377	22.15916	A	ADM2	LV		33	0980274			0		28	Europe/Riga	2016-12-01
+11353003	Užavas pagasts	Uzavas pagasts		57.19669	21.46594	A	ADM2	LV		33	0980278			0		2	Europe/Riga	2016-12-01
+11353004	Vārves pagasts	Varves pagasts		57.28437	21.54207	A	ADM2	LV		33	0980284			0		21	Europe/Riga	2016-12-01
+11353005	Viesītes pagasts	Viesites pagasts		56.3657	25.52624	A	ADM2	LV		10	0561835			0		95	Europe/Riga	2021-08-16
+11353006	Medņevas pagasts	Mednevas pagasts		57.12081	27.62285	A	ADM2	LV		03	0381670			0		116	Europe/Riga	2021-08-16
+11353007	Šķilbēnu pagasts	Skilbenu pagasts		57.05292	27.65129	A	ADM2	LV		03	0381682			0		90	Europe/Riga	2021-08-16
+11353008	Susāju pagasts	Susaju pagasts		57.19097	27.56913	A	ADM2	LV		03	0381678			0		120	Europe/Riga	2021-08-16
+11353009	Vecumu pagasts	Vecumu pagasts		57.2121	27.7848	A	ADM2	LV		03	0381692			0		90	Europe/Riga	2021-08-16
+11353010	Žīguru pagasts	Ziguru pagasts		57.29905	27.69592	A	ADM2	LV		03	0381698			0		116	Europe/Riga	2021-08-16
+11353011	Viļānu pagasts	Vilanu pagasts		56.54927	26.91036	A	ADM2	LV		24	0781898			0		121	Europe/Riga	2021-08-16
+11353012	Lauderu pagasts	Lauderu pagasts		56.32198	27.96276	A	ADM2	LV		19	0681864			0		153	Europe/Riga	2021-08-16
+11353013	Pasienes pagasts	Pasienes pagasts		56.23562	28.14588	A	ADM2	LV		19	0681884			0		139	Europe/Riga	2021-08-16
+11353014	Zaļesjes pagasts	Zalesjes pagasts		56.35425	28.10276	A	ADM2	LV		19	0681896			0		137	Europe/Riga	2021-08-16

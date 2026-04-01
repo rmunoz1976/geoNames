@@ -1,0 +1,153 @@
+﻿3615668	Municipio de Yalagüina	Municipio de Yalagueina	Municipio de Yalaguina,Municipio de Yalagüina,Yalaguina,Yalagüina	13.47967	-86.49075	A	ADM2	NI		09	2030			0		632	America/Managua	2026-03-24
+3615682	Wiwilí de Nueva Segovia	Wiwili de Nueva Segovia	Municipio de Wiwili,Municipio de Wiwili de Nueva Segovia,Municipio de Wiwilí,Municipio de Wiwilí de Nueva Segovia,Wiwili de Nueva Segovia,Wiwilí de Nueva Segovia	13.62716	-85.82584	A	ADM2	NI		13	0560			0		379	America/Managua	2026-03-26
+3615729	Municipio de Waspán	Municipio de Waspan		14.58333	-84.41667	A	ADM2	NI		17	9105			62379		71	America/Managua	2026-03-25
+3615812	Municipio de Villa Sandino	Municipio de Villa Sandino	Municipio de Villa Sandino,Municipio de Villa Somoza,Villa Sandino	12.03709	-84.86711	A	ADM2	NI		04	6540			0		282	America/Managua	2026-03-25
+3615816	Municipio de Villanueva	Municipio de Villanueva	Villanueva	12.96374	-86.81105	A	ADM2	NI		03	3040			32271		42	America/Managua	2026-01-02
+3615997	Municipio de Totogalpa	Municipio de Totogalpa		13.56092	-86.49283	A	ADM2	NI		09	2010			0		689	America/Managua	2026-03-25
+3616018	Municipio de Tola	Municipio de Tola	Municipio de Tola,Tola	11.46009	-86.00789	A	ADM2	NI		15	8005			22012	38	109	America/Managua	2026-03-25
+3616026	Municipio de Tisma	Municipio de Tisma	Municipio de Tisma,Tisma	12.08554	-86.02207	A	ADM2	NI		11	6015			12387		50	America/Managua	2026-03-25
+3616034	Municipio de Tipitapa	Municipio de Tipitapa	Municipio de Tipitapa,Tipitapa	12.36021	-86.0117	A	ADM2	NI		10	5510			156523		217	America/Managua	2026-03-25
+3616069	Municipio de Teustepe	Municipio de Teustepe	Municipio de Teustepe,Teustepe,Teustepe (Municipio)	12.42803	-85.82107	A	ADM2	NI		01	5025			0		145	America/Managua	2026-01-01
+3616075	Municipio de Terrabona	Municipio de Terrabona	Municipio de Terrabona,Terrabona	12.70659	-85.96089	A	ADM2	NI		12	4060			0		552	America/Managua	2026-01-01
+3616087	Municipio de Telpaneca	Municipio de Telpaneca	Municipio de Telpaneca,Telpaneca	13.51509	-86.27197	A	ADM2	NI		09	2015			0		500	America/Managua	2026-03-25
+3616091	Municipio de Telica	Municipio de Telica	Municipio de Telica,Telica	12.62094	-86.80842	A	ADM2	NI		08	3530			26339		575	America/Managua	2026-03-25
+3616231	Municipio de Somoto	Municipio de Somoto	Municipio de Somoto,Somoto,Somoto (Municipio)	13.52959	-86.63776	A	ADM2	NI		09	2005			40322		625	America/Managua	2026-03-15
+3616233	Municipio de Somotillo	Municipio de Somotillo	Municipio de Somotillo,Somotillo	12.96022	-86.97441	A	ADM2	NI		03	3035			35044		22	America/Managua	2026-03-25
+3616310	Municipio de Sébaco	Municipio de Sebaco	Municipio de Sebaco,Municipio de Sébaco,Sebaco,Sébaco	12.9006	-86.09029	A	ADM2	NI		12	4025			38296		472	America/Managua	2026-03-25
+3616345	Municipio de Santo Tomás del Norte	Municipio de Santo Tomas del Norte	Municipio de Santo Tomas,Municipio de Santo Tomas del Norte,Municipio de Santo Tomás,Municipio de Santo Tomás del Norte,Santo Tomas del Norte,Santo Tomás del Norte	13.18155	-86.90106	A	ADM2	NI		03	3020			0		263	America/Managua	2026-03-25
+3616347	Municipio de Santo Tomás	Municipio de Santo Tomas	Municipio de Santo Tomas,Municipio de Santo Tomás,Santo Tomas,Santo Tomás	12.12903	-85.00795	A	ADM2	NI		04	6525			19342		403	America/Managua	2026-03-25
+3616351	Municipio de Santo Domingo	Municipio de Santo Domingo	Municipio de Santo Domingo,Santo Domingo,Santo Domingo Municipality	12.3616	-84.95562	A	ADM2	NI		04	6520			0		301	America/Managua	2026-01-02
+3616367	Municipio de Santa Teresa	Municipio de Santa Teresa	Municipio de Santa Teresa,Santa Teresa	11.67664	-86.14552	A	ADM2	NI		02	7535			0		277	America/Managua	2026-03-25
+3616386	Municipio de Santa Rosa del Peñón	Municipio de Santa Rosa del Penon	Municipio de Santa Rosa del Penon,Municipio de Santa Rosa del Peñón,Santa Rosa del Penon,Santa Rosa del Peñón	12.823	-86.3661	A	ADM2	NI		08	3515			0		237	America/Managua	2026-03-25
+3616439	Municipio de Santa María	Municipio de Santa Maria	Municipio de Santa Maria,Municipio de Santa María,Santa Maria,Santa María	13.72258	-86.71244	A	ADM2	NI		13	0540			0		710	America/Managua	2026-01-02
+3616455	Municipio de Santa Lucía	Municipio de Santa Lucia		12.53333	-85.7	A	ADM2	NI		01	5020			0		540	America/Managua	2026-03-25
+3616571	Municipio de San Sebastián de Yalí	Municipio de San Sebastian de Yali	Municipio de San Sebastian de Yali,Municipio de San Sebastián de Yalí,San Sebastian de Yali,San Sebastián de Yalí	13.37562	-86.14285	A	ADM2	NI		07	1025			35549		695	America/Managua	2026-03-25
+3616581	Municipio de San Ramón	Municipio de San Ramon	Municipio de San Ramon,Municipio de San Ramón,San Ramon,San Ramón	12.9294	-85.7266	A	ADM2	NI		12	4035			0		815	America/Managua	2026-03-25
+3616593	Municipio de San Rafael del Sur	Municipio de San Rafael del Sur	Municipio de San Rafael del Sur,San Rafael del Sur	11.86209	-86.44196	A	ADM2	NI		10	5535			55807		136	America/Managua	2026-03-25
+3616596	Municipio de San Rafael del Norte	Municipio de San Rafael del Norte	Municipio de San Rafael del Norte,San Rafael del Norte	13.24213	-86.08352	A	ADM2	NI		07	1020			22147		1327	America/Managua	2026-03-25
+3616608	Municipio de San Pedro de Lóvago	Municipio de San Pedro de Lovago	Municipio de San Pedro de Lovago,Municipio de San Pedro de Lóvago,San Pedro de Lovago,San Pedro de Lóvago	12.16645	-85.10519	A	ADM2	NI		04	6530			0		361	America/Managua	2026-03-25
+3616610	Municipio de San Pedro del Norte	Municipio de San Pedro del Norte	Municipio de San Pedro,Municipio de San Pedro del Norte	13.27363	-86.87835	A	ADM2	NI		03	3005			0		456	America/Managua	2026-03-25
+3616647	Municipio de San Nicolás	Municipio de San Nicolas	Municipio de San Nicolas,Municipio de San Nicolas de Oriente,Municipio de San Nicolás,Municipio de San Nicolás de Oriente,San Nicolas,San Nicolas de Oriente,San Nicolás,San Nicolás de Oriente	12.93447	-86.34717	A	ADM2	NI		05	2530			0		988	America/Managua	2025-12-06
+3616653	Municipio de San Miguelito	Municipio de San Miguelito	Municipio de San Miguelito,San Miguelito	11.46179	-84.69369	A	ADM2	NI		14	8515			0		131	America/Managua	2026-03-25
+3616675	Municipio de San Marcos	Municipio de San Marcos	Municipio de San Marcos,San Marcos	11.91784	-86.27474	A	ADM2	NI		02	7505			33303	530	748	America/Managua	2026-03-25
+3616697	Municipio de San Lucas	Municipio de San Lucas	Municipio de San Lucas,San Lucas	13.4077	-86.64583	A	ADM2	NI		09	2035			0		781	America/Managua	2026-03-25
+3616705	Municipio de San Lorenzo	Municipio de San Lorenzo	Municipio de San Lorenzo,San Lorenzo	12.26339	-85.70696	A	ADM2	NI		01	5030			0		350	America/Managua	2026-03-25
+3616722	Municipio de San Juan de Oriente	Municipio de San Juan de Oriente		11.90517	-86.0746	A	ADM2	NI		11	6040			8261		496	America/Managua	2026-03-25
+3616724	Municipio de San Juan del Sur	Municipio de San Juan del Sur	Municipio de San Juan del Sur,San Juan del Sur	11.22368	-85.78289	A	ADM2	NI		15	8045			14741	92	70	America/Managua	2025-11-27
+3616727	Municipio de San Juan de Río Coco	Municipio de San Juan de Rio Coco	Municipio de San Juan de Rio Coco,Municipio de San Juan de Río Coco,Municipio de San Juan del Rio Coco,Municipio de San Juan del Río Coco,San Juan de Rio Coco,San Juan de Río Coco	13.52646	-86.13856	A	ADM2	NI		09	2020			37337		786	America/Managua	2026-03-25
+3616731	Municipio de San Juan de Limay	Municipio de San Juan de Limay	Municipio de San Juan de Limay,San Juan de Limay	13.19161	-86.57746	A	ADM2	NI		05	2520			0		310	America/Managua	2026-03-25
+3616752	Municipio de San José de los Remates	Municipio de San Jose de los Remates	Municipio de San Jose,Municipio de San Jose de los Remates,Municipio de San José,Municipio de San José de los Remates,San Jose de los Remates,San José de los Remates	12.595	-85.77977	A	ADM2	NI		01	5005			0		692	America/Managua	2026-03-25
+3616756	Municipio de San José de Cusmapa	Municipio de San Jose de Cusmapa	Municipio de San Jose de Cusmapa,Municipio de San José de Cusmapa,San Jose de Cusmapa,San José de Cusmapa	13.26531	-86.67998	A	ADM2	NI		09	2045			0		946	America/Managua	2026-03-25
+3616791	Municipio de San Jorge	Municipio de San Jorge	Municipio de San Jorge,San Jorge,San Jorge (Municipio)	11.42703	-85.78904	A	ADM2	NI		15	8035			8024	39	43	America/Managua	2026-01-02
+3616814	Municipio de San Isidro	Municipio de San Isidro	Municipio de San Isidro,San Isidro	12.87839	-86.21552	A	ADM2	NI		12	4020			0		533	America/Managua	2026-01-02
+3616847	Municipio de San Francisco Libre	Municipio de San Francisco Libre	Municipio de San Francisco Libre,Municipio de San Francisco del Carnicero,San Francisco Libre	12.504	-86.20784	A	ADM2	NI		10	5505			0		94	America/Managua	2026-03-25
+3616851	Municipio de San Francisco del Norte	Municipio de San Francisco del Norte	Municipio de San Francisco,Municipio de San Francisco del Norte,San Francisco del Norte	13.21187	-86.77107	A	ADM2	NI		03	3010			0		531	America/Managua	2026-03-25
+3616869	Municipio de San Fernando	Municipio de San Fernando	Municipio de San Fernando,San Fernando	13.74427	-86.29216	A	ADM2	NI		13	0520			0		1007	America/Managua	2026-03-25
+3616887	Municipio de San Dionisio	Municipio de San Dionisio	Municipio de San Dionisio,San Dionisio	12.76309	-85.85146	A	ADM2	NI		12	4055			0		395	America/Managua	2026-03-25
+3616908	Municipio de San Carlos	Municipio de San Carlos	Municipio de San Carlos,San Carlos	11.16736	-84.66638	A	ADM2	NI		14	8520			52055		45	America/Managua	2025-12-16
+3617050	Municipio de Rivas	Municipio de Rivas	Municipio de Rivas,Rivas,Rivas (Municipio)	11.43931	-85.827	A	ADM2	NI		15	8040			55739	63	65	America/Managua	2025-12-16
+3617068	Municipio de Río Blanco	Municipio de Rio Blanco	Municipio de Rio Blanco,Municipio de Río Blanco,Rio Blanco,Río Blanco	13.03452	-85.21575	A	ADM2	NI		12	4010			37197		307	America/Managua	2026-03-25
+3617108	Municipio de Quilalí	Municipio de Quilali	Municipio de Quilali,Municipio de Quilalí,Quilali,Quilalí	13.57965	-86.00642	A	ADM2	NI		13	0555			34889		751	America/Managua	2026-03-25
+3617114	Municipio de Quezalguaque	Municipio de Quezalguaque	Municipio de Quezalguaque,Quezalguaque	12.53061	-86.9087	A	ADM2	NI		08	3535			0		107	America/Managua	2026-03-25
+3617145	Municipio de Puerto Morazán	Municipio de Puerto Morazan	Municipio de Morazan,Municipio de Puerto Morazan,Municipio de Puerto Morazán,Puerto Morazan,Puerto Morazán	12.88231	-87.22727	A	ADM2	NI		03	3030			0		2	America/Managua	2026-03-25
+3617153	Bilwi	Bilwi	Bilwi,Bragman's Bluff,Bragman’s Bluff,Puerto Cabezas	14.02945	-83.38312	A	ADM2	NI		17	9110			0		8	America/Managua	2026-03-26
+3617161	Municipio de Pueblo Nuevo	Municipio de Pueblo Nuevo	Municipio de Pueblo Nuevo,Pueblo Nuevo	13.3503	-86.51793	A	ADM2	NI		05	2505			0		676	America/Managua	2026-03-25
+3617168	Municipality of Prinzapolka	Municipality of Prinzapolka	Municipality of Prinzapolka,Municipio de Prinzapolka	13.53752	-83.95807	A	ADM2	NI		17	9135			0		8	America/Managua	2026-03-25
+3617185	Municipio de Potosí	Municipio de Potosi	Municipio de Potosi,Municipio de Potosí,Potosi,Potosí	11.57854	-85.87764	A	ADM2	NI		15	8015			11904	63	41	America/Managua	2026-03-25
+3617190	Municipio de Posoltega	Municipio de Posoltega	Municipio de Posoltega,Posoltega	12.58917	-86.95592	A	ADM2	NI		03	3065			0		151	America/Managua	2026-03-25
+3617387	Municipio de Palacagüina	Municipio de Palacagueina	Municipio de Palacaguina,Municipio de Palacagüina,Palacaguina,Palacagüina	13.4615	-86.39344	A	ADM2	NI		09	2025			0		562	America/Managua	2026-03-25
+3617447	Municipio de Ocotal	Municipio de Ocotal	Municipio de Ocotal,Ocotal	13.64195	-86.49119	A	ADM2	NI		13	0545			50178		639	America/Managua	2025-12-16
+3617469	Municipio de Niquinohomo	Municipio de Niquinohomo	Municipio de Niquinohomo,Niquinohomo	11.88228	-86.10035	A	ADM2	NI		11	6045			16635	468	414	America/Managua	2026-03-25
+3617472	Municipio de Nindirí	Municipio de Nindiri	Municipio de Nindiri,Municipio de Nindirí,Nindiri,Nindirí	12.04895	-86.13907	A	ADM2	NI		11	6005			61816		167	America/Managua	2026-03-25
+3617509	Municipio de Nandasmo	Municipio de Nandasmo		11.93333	-86.11667	A	ADM2	NI		11	6030			16418	425	352	America/Managua	2026-03-25
+3617512	Municipio de Nandaime	Municipio de Nandaime	Municipio de Nandaime,Nandaime	11.71446	-86.01932	A	ADM2	NI		06	7020			41852		86	America/Managua	2026-03-25
+3617521	Municipio de Nagarote	Municipio de Nagarote	Municipio de Nagarote,Nagarote	12.20028	-86.62465	A	ADM2	NI		08	3550			39264		220	America/Managua	2026-03-25
+3617531	Municipio de Muy Muy	Municipio de Muy Muy	Municipio de Muy Muy,Muy Muy	12.76182	-85.58933	A	ADM2	NI		12	4045			0		349	America/Managua	2026-03-25
+3617542	Municipio de Murra	Municipio de Murra	Municipio de Murra,Murra	13.80261	-85.94721	A	ADM2	NI		13	0510			0		1023	America/Managua	2026-01-02
+3617561	Municipality of Muelle de los Bueyes	Municipality of Muelle de los Bueyes	Muelle de los Bueyes,Municipio de Muelle de los Bueyes	12.13487	-84.58383	A	ADM2	NI		18	9325			24552		206	America/Managua	2026-03-25
+3617564	Municipio de Mozonte	Municipio de Mozonte	Mosonte,Mozonte,Municipio de Mosonte,Municipio de Mozonte	13.67507	-86.41336	A	ADM2	NI		13	0525			0		759	America/Managua	2026-03-25
+3617568	Municipio de Moyogalpa	Municipio de Moyogalpa	Moyogalpa,Municipio de Moyogalpa	11.52632	-85.67329	A	ADM2	NI		15	8025			11567	49	127	America/Managua	2026-03-25
+3617574	Municipio de Morrito	Municipio de Morrito	Morrito,Municipio de Morrito	11.63735	-84.94042	A	ADM2	NI		14	8505			0		42	America/Managua	2026-03-25
+3617693	Municipio de Matiguás	Municipio de Matiguas	Matiguas,Matiguás,Municipio de Matiguas,Municipio de Matiguás	12.87084	-85.38672	A	ADM2	NI		12	4040			53481		349	America/Managua	2026-03-25
+3617696	Municipio de Mateare	Municipio de Mateare	Mateare,Municipio de Mateare	12.20368	-86.40457	A	ADM2	NI		10	5515			64732		78	America/Managua	2026-03-25
+3617706	Municipio de Matagalpa	Municipio de Matagalpa	Matagalpa,Matagalpa (Municipio),Municipio de Matagalpa	12.89675	-85.93551	A	ADM2	NI		12	4030			0		730	America/Managua	2026-01-02
+3617720	Municipio de Masaya	Municipio de Masaya	Masaya,Masaya (Municipio),Municipio de Masaya	11.99919	-86.06877	A	ADM2	NI		11	6010			186423		234	America/Managua	2026-01-02
+3617724	Municipio de Masatepe	Municipio de Masatepe	Masatepe,Municipio de Masatepe	11.90567	-86.14946	A	ADM2	NI		11	6025			41809	442	455	America/Managua	2026-03-25
+3617760	Municipio de Managua	Municipio de Managua	Managua,Managua (Municipio),Municipio de Managua	12.1125	-86.24241	A	ADM2	NI		10	5525			1061054		166	America/Managua	2026-01-02
+3617803	Municipio de Macuelizo	Municipio de Macuelizo	Macuelizo,Municipio de Macuelizo	13.68614	-86.61203	A	ADM2	NI		13	0535			0		1022	America/Managua	2026-03-26
+3618028	Municipio de León	Municipio de Leon	Leon,Leon (Municipio),León,León (Municipio),Municipio de Leon,Municipio de León	12.3953	-86.87964	A	ADM2	NI		08	3540			213718		111	America/Managua	2026-01-02
+3618085	Municipio de La Trinidad	Municipio de La Trinidad	La Trinidad,Municipio de La Trinidad	13.01784	-86.1997	A	ADM2	NI		05	2525			22645		555	America/Managua	2026-03-26
+3618123	Municipio de Las Sabanas	Municipio de Las Sabanas		13.34152	-86.62007	A	ADM2	NI		09	2040			0		1286	America/Managua	2026-03-26
+3618335	Municipio de Larreynaga	Municipio de Larreynaga	Larreynaga,Municipio de Larreynaga	12.65669	-86.61112	A	ADM2	NI		08	3525			33117		133	America/Managua	2026-03-26
+3618409	La Paz de Carazo	La Paz de Carazo	La Paz de Carazo,Municipio de La Paz de Carazo,Municipio de La Paz de Oriente	11.82269	-86.12789	A	ADM2	NI		02	7530			0		387	America/Managua	2026-03-26
+3618412	La Paz Centro	La Paz Centro	La Paz Centro,Municipio de La Paz Central,Municipio de La Paz Centro	12.33942	-86.67629	A	ADM2	NI		08	3545			32436		71	America/Managua	2026-03-26
+3618481	Municipio de La Libertad	Municipio de La Libertad	La Libertad,Municipio de La Libertad	12.32617	-85.18852	A	ADM2	NI		04	6515			0		352	America/Managua	2026-03-26
+3618617	Municipio de La Cruz de Río Grande	Municipio de La Cruz de Rio Grande	La Cruz de Rio Grande,La Cruz de Río Grande,Municipio de La Cruz de Rio Grande,Municipio de La Cruz de Río Grande	13.09556	-84.36533	A	ADM2	NI		18	9310			0		62	America/Managua	2026-03-26
+3618634	Municipio de La Conquista	Municipio de La Conquista	La Conquista,Municipio de La Conquista	11.71835	-86.18723	A	ADM2	NI		02	7540			0		212	America/Managua	2026-03-26
+3618636	Municipio de La Concordia	Municipio de La Concordia	La Concordia,Municipio de La Concordia	13.20128	-86.17798	A	ADM2	NI		07	1030			7320		1023	America/Managua	2026-03-26
+3618641	Municipio de La Concepción	Municipio de La Concepcion	La Concepcion,La Concepción,Municipio de La Concepcion,Municipio de La Concepción	11.95282	-86.21874	A	ADM2	NI		11	6020			45055		688	America/Managua	2026-03-26
+3618907	Municipio de Juigalpa	Municipio de Juigalpa	Juigalpa,Juigalpa (Municipio),Municipio de Juigalpa	12.06214	-85.39096	A	ADM2	NI		04	6510			61411		103	America/Managua	2025-12-16
+3618925	Municipio de Jinotepe	Municipio de Jinotepe	Jinotepe,Jinotepe (Municipio),Municipio de Jinotepe	11.74972	-86.23303	A	ADM2	NI		02	7510			55333		199	America/Managua	2026-01-02
+3618927	Municipio de Jinotega	Municipio de Jinotega	Jinotega,Jinotega (Municipio),Municipio de Jinotega	13.1	-86	A	ADM2	NI		07	1035			56910		998	America/Managua	2026-01-02
+3618951	Municipio de Jalapa	Municipio de Jalapa	Jalapa,Municipio de Jalapa	13.9248	-86.10176	A	ADM2	NI		13	0505			73965		657	America/Managua	2026-03-26
+3619133	Municipio de Granada	Municipio de Granada	Granada,Municipio de Granada	11.94845	-85.97429	A	ADM2	NI		06	7015			134104		94	America/Managua	2026-03-26
+3619191	Municipio de Estelí	Municipio de Esteli	Esteli,Esteli (Municipio),Estelí,Estelí (Municipio),Municipio de Esteli,Municipio de Estelí	13.13174	-86.3432	A	ADM2	NI		05	2515			0		810	America/Managua	2026-01-02
+3619201	Municipio de Esquipulas	Municipio de Esquipulas	Esquipulas,Esquipulas (Municipio),Municipio de Esquipulas	12.69345	-85.75952	A	ADM2	NI		12	4050			0		602	America/Managua	2026-01-02
+3619266	Municipio de El Viejo	Municipio de El Viejo	El Viejo,Municipio de El Viejo	12.79978	-87.39101	A	ADM2	NI		03	3025			91446		27	America/Managua	2026-03-26
+3619381	Municipio de El Sauce	Municipio de El Sauce	El Sauce,Municipio de El Sauce	12.88148	-86.5399	A	ADM2	NI		08	3510			31750		171	America/Managua	2026-03-26
+3619409	Municipio de El Rosario	Municipio de El Rosario	El Rosario,Municipio de El Rosario	11.83284	-86.15304	A	ADM2	NI		02	7525			0		458	America/Managua	2026-03-26
+3619449	Municipio de El Realejo	Municipio de El Realejo	El Realejo,Municipio de El Realejo	12.55286	-87.18634	A	ADM2	NI		03	3050			0		14	America/Managua	2026-03-26
+3619693	Municipio de El Jicaral	Municipio de El Jicaral	El Jicaral,Municipio de El Jicaral	12.6554	-86.38933	A	ADM2	NI		08	3520			0		93	America/Managua	2026-03-26
+3620161	Municipio de Dolores	Municipio de Dolores	Dolores,Municipio de Dolores	11.8545	-86.21839	A	ADM2	NI		02	7515			0		586	America/Managua	2026-01-02
+3620167	Municipio de Diriomo	Municipio de Diriomo	Diriomo,Municipio de Diriomo	11.85745	-86.04211	A	ADM2	NI		06	7010			34381		295	America/Managua	2026-03-26
+3620169	Municipio de Diriamba	Municipio de Diriamba	Diriamba,Municipio de Diriamba	11.78422	-86.31395	A	ADM2	NI		02	7520			65243		235	America/Managua	2026-03-26
+3620171	Municipio de Diriá	Municipio de Diria	Diria,Diriá,Municipio de Diria,Municipio de Diriá	11.8702	-86.07357	A	ADM2	NI		06	7005			0		346	America/Managua	2026-03-26
+3620176	Municipio de Dipilto	Municipio de Dipilto	Dipilto,Municipio de Dipilto	13.73565	-86.51755	A	ADM2	NI		13	0530			0		982	America/Managua	2026-03-26
+3620265	Corn Islands	Corn Islands		12.17468	-83.06037	A	ADM2	NI		18	9335			0		3	America/Managua	2026-03-26
+3620267	Municipio de Corinto	Municipio de Corinto		12.53193	-87.22489	A	ADM2	NI		03	3055			18602		-9999	America/Managua	2026-03-26
+3620297	Municipio de Condega	Municipio de Condega	Condega,Municipio de Condega	13.34131	-86.35308	A	ADM2	NI		05	2510			31257		672	America/Managua	2026-03-26
+3620317	Municipio de Comalapa	Municipio de Comalapa	Comalapa,Municipio de Comalapa	12.19382	-85.55993	A	ADM2	NI		04	6505			0		189	America/Managua	2026-03-26
+3620347	El Jícaro	El Jicaro	El Jicaro,El Jícaro,Municipio de Ciudad Sandino,Municipio de El Jicaro,Municipio de El Jícaro	13.72286	-86.13228	A	ADM2	NI		13	0515			0		544	America/Managua	2026-03-26
+3620349	Municipio de Ciudad Darío	Municipio de Ciudad Dario	Ciudad Dario,Ciudad Darío,Municipio de Ciudad Dario,Municipio de Ciudad Darío	12.69451	-86.13873	A	ADM2	NI		12	4065			54063		687	America/Managua	2026-03-26
+3620352	Municipio de Ciudad Antigua	Municipio de Ciudad Antigua	Ciudad Antigua,Municipio de Ciudad Antigua	13.64341	-86.28103	A	ADM2	NI		13	0550			0		662	America/Managua	2026-03-26
+3620357	Municipio de Cinco Pinos	Municipio de Cinco Pinos	Cinco Pinos,Municipio de Cinco Pinos	13.2146	-86.85513	A	ADM2	NI		03	3015			0		511	America/Managua	2026-03-26
+3620379	Municipio de Chinandega	Municipio de Chinandega	Chinandega,Municipio de Chinandega	12.72122	-87.04373	A	ADM2	NI		03	3045			137539		385	America/Managua	2026-03-26
+3620389	Municipio de Chichigalpa	Municipio de Chichigalpa	Chichigalpa,Chichigalpa (Municipio),Municipio de Chichigalpa	12.5456	-87.04175	A	ADM2	NI		03	3060			53837		43	America/Managua	2025-12-21
+3620438	Municipio de Catarina	Municipio de Catarina	Catarina,Municipio de Catarina	11.92196	-86.07176	A	ADM2	NI		11	6035			0		588	America/Managua	2026-03-26
+3620472	Villa El Carmen	Villa El Carmen	Municipio de Carlos Fonseca Amador,Municipio de El Carmen,Municipio de Villa Carlos Fonseca,Municipio de Villa El Carmen,Villa Carlos Fonseca,Villa El Carmen	11.97975	-86.50704	A	ADM2	NI		10	5520			0		104	America/Managua	2026-03-26
+3620478	Municipio de Cárdenas	Municipio de Cardenas	Cardenas,Cardenas (Municipio),Cárdenas,Cárdenas (Municipio),Municipio de Cardenas,Municipio de Cárdenas	11.14912	-85.42323	A	ADM2	NI		15	8050			6990	35	38	America/Managua	2026-01-02
+3620543	Municipio de Camoapa	Municipio de Camoapa	Camoapa,Municipio de Camoapa	12.51152	-85.20982	A	ADM2	NI		01	5015			39973		336	America/Managua	2026-03-26
+3620596	Municipio de Buenos Aires	Municipio de Buenos Aires		11.469	-85.816	A	ADM2	NI		15	8020			5936	52	55	America/Managua	2026-03-26
+3620672	Municipio de Boaco	Municipio de Boaco	Boaco,Municipio de Boaco	12.59377	-85.48695	A	ADM2	NI		01	5010			62448		598	America/Managua	2026-03-26
+3620678	Bluefields	Bluefields		12.01315	-83.76491	A	ADM2	NI		18	9340			58306		11	America/Managua	2026-03-26
+3620731	Municipio de Belén	Municipio de Belen	Belen,Belen (Municipio),Belén,Belén (Municipio),Municipio de Belen,Municipio de Belén	11.57193	-85.96316	A	ADM2	NI		15	8010			16428	69	157	America/Managua	2026-01-02
+3620929	Municipio de Altagracia	Municipio de Altagracia	Altagracia,Municipio de Altagracia	11.47983	-85.54166	A	ADM2	NI		15	8030			19955	66	83	America/Managua	2026-03-26
+3620977	Municipio de Acoyapa	Municipio de Acoyapa	Acoyapa,Municipio de Acoyapa	11.8691	-85.12825	A	ADM2	NI		04	6535			20412		122	America/Managua	2026-03-26
+3620981	Municipio de Achuapa	Municipio de Achuapa	Achuapa,Municipio de Achuapa	13.06196	-86.59104	A	ADM2	NI		08	3505			0		315	America/Managua	2026-03-26
+8015544	Municipio El Cua	Municipio El Cua	El Cua,El Cuá,Municipio El Cua,Municipio El Cuá	13.395	-85.655	A	ADM2	NI		07	1010			61689		550	America/Managua	2026-01-26
+8335428	Municipio de San José de Bocay	Municipio de San Jose de Bocay	Municipio de San Jose de Bocay,Municipio de San José de Bocay,San Jose de Bocay,San José de Bocay	13.53333	-85.53333	A	ADM2	NI		07	1012			74589		374	America/Managua	2026-03-26
+8335429	Municipio de Santa María de Pantasma	Municipio de Santa Maria de Pantasma		13.2	-85.81666	A	ADM2	NI		07	1015			53499		1027	America/Managua	2026-03-26
+8335430	Wiwilí de Jinotega	Wiwili de Jinotega		13.61245	-85.81957	A	ADM2	NI		07	1005			77893		346	America/Managua	2026-03-26
+8335431	Municipio de Rancho Grande	Municipio de Rancho Grande		13.26044	-85.57295	A	ADM2	NI		12	4005			0		612	America/Managua	2026-03-26
+8335432	Municipio del Tuma-La Dalia	Municipio del Tuma-La Dalia	El Tuma - La Dalia	13.04415	-85.74872	A	ADM2	NI		12	4015			79740		471	America/Managua	2026-03-26
+8335434	Municipio de San Francisco de Cuapa	Municipio de San Francisco de Cuapa		12.26667	-85.38333	A	ADM2	NI		04	6507			0		302	America/Managua	2026-03-26
+8335435	Municipality of Siuna	Municipality of Siuna	Siuna	13.7417	-84.78653	A	ADM2	NI		17	9130			104959		175	America/Managua	2026-03-26
+8335437	Municipality of Waslala	Municipality of Waslala	Waslala	13.33351	-85.36286	A	ADM2	NI		17	9125			58735		376	America/Managua	2026-03-26
+8335438	Municipio El Tortuguero	Municipio El Tortuguero	El Tortuguero,Municipio El Tortugero	12.82079	-84.20021	A	ADM2	NI		18	9316			58463		23	America/Managua	2025-11-29
+8335440	Municipality of Bocana de Paiwas	Municipality of Bocana de Paiwas		12.8	-85.13334	A	ADM2	NI		18	9305			0		181	America/Managua	2026-03-26
+8693133	Municipality of Rosita	Municipality of Rosita	Municipio de Rosita,Rosita,Rosita (Municipio)	13.88333	-84.4	A	ADM2	NI		17	9115			38629		46	America/Managua	2026-01-02
+9161306	Desembocadura de Río Grande	Desembocadura de Rio Grande	Desembocadura de Rio Grande,Desembocadura de Río Grande,Karawala	12.9319	-83.5769	A	ADM2	NI		18	9312			0		9	America/Managua	2026-03-26
+9165985	Municipality of El Rama	Municipality of El Rama		12.15	-84.21667	A	ADM2	NI		18	9320			59055		33	America/Managua	2026-03-26
+9166062	Municipality of Bonanza	Municipality of Bonanza	Bonanza,Municipio de Bonanza	14.02968	-84.59679	A	ADM2	NI		17	9120			31249		187	America/Managua	2026-03-26
+9166065	Mulukuku	Mulukuku	Mulukuku,Mulukukú	13.16975	-84.96191	A	ADM2	NI		17	9127			76306		87	America/Managua	2025-11-28
+9166071	Kukra Hill	Kukra Hill	Kukra Hill	12.24046	-83.74655	A	ADM2	NI		18	9330			0		35	America/Managua	2026-03-26
+9166072	Pearl Lagoon	Pearl Lagoon	Laguna de Perlas,Laguna de Perlas (Municipio),Municipio Laguna de Perlas,Pearl Lagoon	12.34189	-83.67162	A	ADM2	NI		18	9315			0		9	America/Managua	2026-01-02
+9166157	El Almendro	El Almendro		11.67838	-84.7018	A	ADM2	NI		14	8510			0		175	America/Managua	2026-03-26
+9166159	El Castillo	El Castillo	El Castillo,El Castillo (Municipio),Municipio de El Castillo	11.04263	-84.47228	A	ADM2	NI		14	8525			0		32	America/Managua	2026-03-26
+9612993	Nueva Guinea	Nueva Guinea		11.6833	-84.45	A	ADM2	NI		18	9345			78947		170	America/Managua	2026-03-26
+10301387	Municipality of El Ayote	Municipality of El Ayote	El Ayote	12.5	-84.81667	A	ADM2	NI		18	9323			0		134	America/Managua	2026-03-26
+11002671	Ciudad Sandino	Ciudad Sandino		12.15659	-86.35649	A	ADM2	NI		10	5522			129610		109	America/Managua	2026-03-26
+11002672	Ticuantepe	Ticuantepe		12.02049	-86.20525	A	ADM2	NI		10	5530			39012		306	America/Managua	2026-03-26
+11002673	El Crucero	El Crucero		11.98025	-86.31138	A	ADM2	NI		10	5532			16127		902	America/Managua	2026-03-26
+11002674	El Coral	El Coral		11.91651	-84.6476	A	ADM2	NI		04	6545			0		138	America/Managua	2026-03-26
+11002676	Grey Town	Grey Town	San Juan de Nicaragua,San Juan del Norte	10.94673	-83.73539	A	ADM2	NI		14	8530			0		6	America/Managua	2026-01-02

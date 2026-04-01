@@ -1,0 +1,333 @@
+﻿69440	Az Zaydīyah	Az Zaydiyah	Al-Zaidiyah,Az Zaydiyah,Az Zaydiyah District,Az Zaydīyah,Qada' az Zaydiyah,Qaḑā’ az Zaydīyah,alzydyt,الزيدية	15.29586	43.06452	A	ADM2	YE		08	1807			95048		74	Asia/Aden	2023-05-10
+69499	Zabīd	Zabid	Qada' Zabid,Qaḑā’ Zabīd,Zabid,Zabid District,Zabīd,zbyd,زبيد	14.27742	43.36841	A	ADM2	YE		08	1824			155585		128	Asia/Aden	2023-05-10
+69558	Yarīm	Yarim	Jarim rajon,Qada' Yarim,Qaḑā’ Yarīm,Yarim,Yarim District,Yarīm,yrym,Ярім район,يريم	14.25388	44.31176	A	ADM2	YE		23	1102			175014		2577	Asia/Aden	2023-05-08
+69639	Washḩah	Washhah	Qada' Washhah,Qaḑā’ Washḩah,Washha,Washhah,Washḩah,wshht,وشحة	16.32158	43.37555	A	ADM2	YE		22	1730			0		674	Asia/Aden	2020-06-10
+69921	Al ‘Udayn	Al 'Udayn	Al Udayn District,Al `Udayn,Al ‘Udayn,Al-Udein,Qada' al `Udayn,Qaḑā’ al ‘Udayn,العدين	13.96112	43.96608	A	ADM2	YE		23	1111			143578		1131	Asia/Aden	2023-05-08
+70135	Aţ Ţawīlah	At Tawilah	At Tawilah,Aţ Ţawīlah,Qada' at Tawilah,Qaḑā’ aţ Ţawīlah,altwylt,الطويلة	15.44165	43.77484	A	ADM2	YE		10	2702			0		2418	Asia/Aden	2012-01-16
+70221	At Ta‘izzīyah	At Ta'izziyah	At Ta`izziyah,At Ta‘izzīyah,At-Ta'iziyah District,Qada Taez,Qada' Ta`izz,Qaḑā’ Ta‘izz,Taez,التعزية	13.69479	44.00941	A	ADM2	YE		25	1502			109814		1253	Asia/Aden	2023-05-10
+70825	Ash Sharafayn	Ash Sharafayn	Al-Sharafein,Ash Sharafayn,Ash Sharyah District,alshryt,الشرية	14.30697	45.12634	A	ADM2	YE		20	1419			34000		1947	Asia/Aden	2023-05-10
+70908	Shahārah	Shaharah	Qada' Shaharah,Qaḑā’ Shahārah,Shaharah,Shaharah District,Shahārah,shhart,شهارة	16.18	43.70942	A	ADM2	YE		19	2905			43738		1970	Asia/Aden	2023-05-08
+71131	Sanhan	Sanhan	Qada' San`a',Qaḑā’ Şan‘ā’,Sanhan and Bani Bahlul District	15.2252	44.3057	A	ADM2	YE		16	2305			80399		2383	Asia/Aden	2023-05-08
+71271	Saḩār	Sahar	Qada' Sahar,Qaḑā’ Saḩār,Sahar,Saḩār,shar,سحار	16.88522	43.68306	A	ADM2	YE		15	2211			0		1983	Asia/Aden	2012-01-16
+71332	Şa‘dah	Sa'dah	Qada' Sa`dah,Qaḑā’ Şa‘dah,Sa`dah,Saada,Şa‘dah,صعدة	16.91733	43.76	A	ADM2	YE		15	2215			51870		1879	Asia/Aden	2020-06-10
+71489	Radā‘	Rada'	Qada' Rida`,Qaḑā’ Ridā‘,Rada`,Radda District,Radā‘,رداع	14.34	44.90874	A	ADM2	YE		20	1413			56382		2251	Asia/Aden	2023-05-10
+71519	Rāziḩ	Razih	Jabal Razih,Qada' Razih,Qaḑā’ Rāziḩ,Razih,Rāziḩ,razh,رازح	16.93704	43.2608	A	ADM2	YE		15	2205			0		1705	Asia/Aden	2020-06-10
+72370	An Nādirah	An Nadirah	An Nadirah,An Nadirah District,An Nādirah,Qada' an Nadirah,Qatabah-on-Nadirah,Qaḑā’ an Nādirah,alnadrt,النادرة	14.07398	44.49925	A	ADM2	YE		23	1104			73755		2153	Asia/Aden	2023-05-08
+72514	Al Mukhā’	Al Mukha'	Al Mukha,Al Mukha',Al Mukhā,Al Mukhā’,Al-Makha,Al-Makha District,El Makha,El Makhā,Makha,Makhā,Qada' al Mukha,Qaḑā’ al Mukhā,المخاء	13.51998	43.42798	A	ADM2	YE		25	1506			18155		94	Asia/Aden	2024-07-13
+72780	Māwīyah	Mawiyah	Mawiyah,Mawiyah District,Māwīyah,Qada' Mawiyah,Qaḑā’ Māwiyah,mawyt,ماوية	13.58461	44.31912	A	ADM2	YE		25	1501			129765		1258	Asia/Aden	2023-05-08
+72965	Marib City	Marib City	Ma'rib Province,mhafzt marb,محافظة مأرب	15.4156	45.3034	A	ADM2	YE		14	2612			0		1122	Asia/Aden	2016-04-10
+73172	Al Makhādir	Al Makhadir	Al Makhadir,Al Makhadir District,Al Makhādir,Almakhader,Qada' al Makhadir,Qaḑā’ al Makhādir,almkhadr,المخادر	14.13965	44.2033	A	ADM2	YE		23	1107			113892		1655	Asia/Aden	2023-05-08
+73794	Khawlān	Khawlan	Khaulan-Al-Cham,Khawlan,Khawlān,Qada' Khawlan,Qaḑā’ Khawlān,khwlan,خولان	13.81141	43.25317	A	ADM2	YE		08	1820			0		12	Asia/Aden	2010-12-05
+73865	Khamir	Khamir	Khamir,Khamir District,Qada' Khamir,Qaḑā’ Khamir,khmr,خمر	15.97653	43.93371	A	ADM2	YE		19	2919			73225		2443	Asia/Aden	2023-05-05
+73956	Shibām Kawkabān	Shibam Kawkaban	Qada' Kawkaban,Qaḑā’ Kawkabān,Shibam Kawkaban,Shibam Kawkaban District,Shibām Kawkabān,shbam kwkban,شبام كوكبان	15.50277	43.84237	A	ADM2	YE		10	2701			39163		2822	Asia/Aden	2023-05-10
+74475	Ibb	Ibb	Ibb,Ibb District,Qada' Ibb,Qaḑā’ Ibb,ab,إب	14.03356	44.15508	A	ADM2	YE		23	1120			143641		1636	Asia/Aden	2023-05-05
+74489	Ḩūth	Huth	Hooth,Huth,Qada' Huth,Qaḑā’ Ḩūth,hwth,حوث,Ḩūth	16.28397	43.97811	A	ADM2	YE		19	2902			22267		1887	Asia/Aden	2020-07-08
+74580	Huraidhah	Huraidhah	Al Hajariyah,Al Hugariya,Al Ḩajarīyah,Huraidhah,Huraidhah District,hrydt,حريضة	15.55425	48.17505	A	ADM2	YE		04	1928			18000		1123	Asia/Aden	2014-08-26
+75132	Ḩarīb	Harib	Harib,Harib District,Qada' Harib,Qaḑā’ Ḩarīb,hryb,حريب,Ḩarīb	14.93045	45.3682	A	ADM2	YE		14	2609			8573		1722	Asia/Aden	2023-06-04
+75142	Harad District	Harad District	Harad,Harad District,Harad Koan,Harad Koān,Harad-distriktet,Okrug Haraz District,Qada' Haraz,Qaḑā’ Ḩarāz,hrd,mdyryt hrd,حرض,حرض ضلع,مديرية حرض	16.40447	43.07739	A	ADM2	YE		22	1702			93000		107	Asia/Aden	2014-08-26
+75257	Hamdān	Hamdan	Hamdan,Hamdan District,Hamdān,Qada' Hamdan,Qaḑā’ Hamdān,hmdan,همدان	15.50662	44.0603	A	ADM2	YE		16	2301			85370		2558	Asia/Aden	2023-05-08
+75334	Hajjah City District	Hajjah City District	Al-Haggah,Hajjah,Hajjah City District,Qada Al-Haggah,Qada' Hajjah,Qaḑā’ Ḩajjah,hjt,حجة,Ḩajjah	15.68783	43.60474	A	ADM2	YE		22	1728			53000		1726	Asia/Aden	2021-01-17
+76153	Dhī as Sufāl	Dhi as Sufal	Dhi As Sufal District,Dhi as Sufal,Dhi-es-Sifal,Dhī as Sufāl,Qada' Dhi as Sufal,Qaḑā’ Dhī as Sufāl,dhy alsfal,ذي السفال	13.82137	44.07775	A	ADM2	YE		23	1116			163019		1961	Asia/Aden	2023-05-10
+76182	Madīnat Dhamār	Madinat Dhamar	Madinat Dhamar,Madīnat Dhamār,Qada' Dhamar,Qaḑā’ Dhamār,mdynt dhmar,مدينة ذمار	14.60684	44.40339	A	ADM2	YE		11	2008			0		2375	Asia/Aden	2012-01-16
+76989	Bayt al Faqīh	Bayt al Faqih	Bayt al Faqih,Bayt al Faqīh,Bayt al-Faqih District,Beit-Al-Faqih,Qada' Bayt al Faqih,Qaḑā’ Bayt al Faqīh,byt alfqyh,بيت الفقيه	14.48738	43.27815	A	ADM2	YE		08	1817			241300		108	Asia/Aden	2023-05-09
+77026	Al Bayḑā’	Al Bayda'	Al Bayda',Al Bayḑā’,Qada' al Bayda',Qaḑā’ al Bayḑā’,البيضاء	13.93666	45.54822	A	ADM2	YE		20	1410			0		2165	Asia/Aden	2012-01-16
+77122	Barţ al ‘Anān	Bart al `Anan	Bart al `Anan,Barţ al ‘Anān,Qada' Barat,Qaḑā’ Barat,برط العنان	16.91972	44.51882	A	ADM2	YE		21	1610			0		1763	Asia/Aden	2012-01-16
+77407	Bājil	Bajil	Bagil,Bajil,Bajil District,Bājil,Qada' Bajil,Qaḑā’ Bājil,bajl,باجل	15.07561	43.1735	A	ADM2	YE		08	1810			169884		120	Asia/Aden	2024-07-13
+78321	‘Ans	`Ans	Anes,Bilad Anis,Bilād Ānis,Qada' Anis,Qada' `Ans,Qaḑā’ Ānis,Qaḑā’ ‘Ans,`Ans,عنس,‘Ans	14.43606	44.38889	A	ADM2	YE		11	2010			0		2265	Asia/Aden	2024-07-13
+78427	‘Amrān	`Amran	Qada' `Amran,Qaḑā’ ‘Amrān,`Amran,عمران,‘Amrān	15.67746	43.9343	A	ADM2	YE		19	2915			0		2233	Asia/Aden	2024-07-14
+6940588	Haydan	Haydan		16.7287	43.4849	A	ADM2	YE		15	2208			0		2269	Asia/Aden	2009-04-16
+6940589	Abs	Abs	Abs District	16.0215	43.0485	A	ADM2	YE		22	1704			133824		103	Asia/Aden	2023-05-05
+6940590	Qafl Shamer	Qafl Shamer		15.9087	43.364	A	ADM2	YE		22	1713			50439		660	Asia/Aden	2014-09-29
+6940591	Bani Qa'is	Bani Qa'is	Bani Qa'is District	15.6346	43.3372	A	ADM2	YE		22	1724			54272		288	Asia/Aden	2023-05-08
+6940592	Hazm Al Udayn	Hazm Al Udayn		14.16984	43.93814	A	ADM2	YE		23	1109			79483		1234	Asia/Aden	2014-09-22
+6940593	Al Qafr	Al Qafr	Al Qafr District	14.3129	44.03	A	ADM2	YE		23	1101			103272		1116	Asia/Aden	2023-05-05
+6940594	Al Maghrabah	Al Maghrabah		15.8937	43.6091	A	ADM2	YE		22	1717			0		891	Asia/Aden	2009-04-16
+6940595	Bani Al Harith	Bani Al Harith	Bani Al Harith District	15.5062	44.2601	A	ADM2	YE		26	1310			184509		2178	Asia/Aden	2023-05-05
+6940596	Sama	Sama		13.3809	44.1166	A	ADM2	YE		25	1523			41464		1966	Asia/Aden	2014-09-22
+6940597	Al Misrakh	Al Misrakh	Al-Misrakh District	13.4702	44.0377	A	ADM2	YE		25	1512			112653		1509	Asia/Aden	2023-05-08
+6940598	Sabir Al Mawadim	Sabir Al Mawadim	Sabir al-Mawadim District	13.5318	44.0462	A	ADM2	YE		25	1511			100254		2869	Asia/Aden	2023-05-08
+6940599	Dimnat Khadir	Dimnat Khadir	Dimnat Khadir District	13.4386	44.2542	A	ADM2	YE		25	1513			49832		1058	Asia/Aden	2023-05-08
+6940600	Ash Shamayatayn	Ash Shamayatayn	Ash-Shamayatayn District	13.1822	43.98	A	ADM2	YE		25	1515			26790		1386	Asia/Aden	2023-05-08
+6940601	Jabal Habashy	Jabal Habashy	Jabal Habashi District	13.4665	43.881	A	ADM2	YE		25	1509			24544		2063	Asia/Aden	2023-05-08
+6940602	Az Zahir	Az Zahir		16.3308	44.5244	A	ADM2	YE		21	1604			25704		1216	Asia/Aden	2014-10-19
+6940603	Kharab Al Marashi	Kharab Al Marashi	Kharab Al Marashi District	16.6107	44.2255	A	ADM2	YE		21	1612			63532		1529	Asia/Aden	2023-05-08
+6940604	Al Mahabishah	Al Mahabishah	Al Mahabishah District	15.9287	43.448	A	ADM2	YE		22	1715			50865		1328	Asia/Aden	2023-05-05
+6940605	Midi	Midi	Midi District	16.19202	42.88913	A	ADM2	YE		22	1703			16604		25	Asia/Aden	2023-05-05
+6940606	Hayran	Hayran	Hayran District	16.2508	43.0599	A	ADM2	YE		22	1705			15491		91	Asia/Aden	2023-05-05
+6940607	Bani Al Awam	Bani Al Awam	Bani Al Awam District	15.581	43.6079	A	ADM2	YE		22	1727			52222		1232	Asia/Aden	2023-05-08
+6940608	Hajjah	Hajjah	Hajjah District	15.6816	43.44996	A	ADM2	YE		22	1729			30000		622	Asia/Aden	2023-05-05
+6940609	Al Munirah	Al Munirah	Al Munirah District	15.3528	42.9062	A	ADM2	YE		08	1805			37183		29	Asia/Aden	2023-05-09
+6940610	Ad Durayhimi	Ad Durayhimi	Ad Durayhimi District	14.6046	43.0718	A	ADM2	YE		08	1814			55013		27	Asia/Aden	2023-05-09
+6940611	Al Marawi'ah	Al Marawi'ah	Al Marawi'ah District	14.8346	43.1965	A	ADM2	YE		08	1813			129527		84	Asia/Aden	2023-05-09
+6940612	Al Hawak	Al Hawak	Al Hawak District	14.7601	42.9978	A	ADM2	YE		08	1821			155369		23	Asia/Aden	2023-05-09
+6940613	As Salif	As Salif	As Salif District	15.22882	42.72542	A	ADM2	YE		08	1804			6343		12	Asia/Aden	2023-05-09
+6940614	Jabal Ra's	Jabal Ra's	Jabal Ra's District	14.0309	43.6278	A	ADM2	YE		08	1818			44674		1028	Asia/Aden	2023-05-09
+6940615	Rakhyah	Rakhyah	Rakhyah District	15.4618	47.7728	A	ADM2	YE		04	1920			8715		876	Asia/Aden	2023-05-08
+6940616	Dawran Aness	Dawran Aness	Dawran Aness District	14.8288	44.1143	A	ADM2	YE		11	2011			121553		2183	Asia/Aden	2023-05-05
+6940617	Usaylan	Usaylan	Usaylan District	15.1703	46.0274	A	ADM2	YE		05	2105			31518		967	Asia/Aden	2023-05-09
+6940618	Al Hashwah	Al Hashwah		16.8884	44.2738	A	ADM2	YE		15	2213			0		1557	Asia/Aden	2009-04-16
+6940619	Ghamr	Ghamr		16.98301	43.31608	A	ADM2	YE		15	2204			0		1868	Asia/Aden	2014-07-10
+6940620	Qatabir	Qatabir		17.3368	43.3311	A	ADM2	YE		15	2202			0		2262	Asia/Aden	2009-04-16
+6940621	Monabbih	Monabbih		17.1693	43.2791	A	ADM2	YE		15	2203			0		1760	Asia/Aden	2009-04-16
+6940622	Arhab	Arhab	Arhab District	15.7995	44.2466	A	ADM2	YE		16	2302			0		2451	Asia/Aden	2023-05-05
+6940623	Tuban	Tuban	Tuban District	13.0921	44.8784	A	ADM2	YE		24	2515			83444		159	Asia/Aden	2023-05-05
+6940624	Al Qabbaytah	Al Qabbaytah	Al Qabbaytah District	13.3275	44.5025	A	ADM2	YE		24	2510			94516		981	Asia/Aden	2023-05-05
+6940625	Harib Al Qaramish	Harib Al Qaramish	Harib Al Qaramish District	15.4735	44.6153	A	ADM2	YE		14	2604			33663		2165	Asia/Aden	2023-05-08
+6940626	Harf Sufyan	Harf Sufyan	Harf Sufyan District	16.41389	43.98571	A	ADM2	YE		19	2901			42480		2076	Asia/Aden	2023-05-05
+6940627	Raydah	Raydah		15.74056	44.05634	A	ADM2	YE		19	2911			0		2389	Asia/Aden	2014-07-10
+6940628	Ash Sha'ir	Ash Sha'ir	Ash Sha'ar District	14.0318	44.3619	A	ADM2	YE		23	1105			39805		2313	Asia/Aden	2023-05-06
+6940629	Ar Radmah	Ar Radmah	Ar Radmah District	14.212	44.5642	A	ADM2	YE		23	1103			76576		2130	Asia/Aden	2023-05-06
+6940630	As Saddah	As Saddah	As Saddah District	14.1661	44.3751	A	ADM2	YE		23	1106			82502		2721	Asia/Aden	2023-05-06
+6940631	Mudhaykhirah	Mudhaykhirah	Mudhaykhirah District	13.86608	43.96866	A	ADM2	YE		23	1117			77835		2248	Asia/Aden	2023-05-06
+6940632	Far Al Udayn	Far Al Udayn	Far Al Udayn District	13.9578	43.7827	A	ADM2	YE		23	1110			89011		1170	Asia/Aden	2023-05-06
+6940633	Al Husha	Al Husha		13.7495	44.4685	A	ADM2	YE		18	3009			60178		1736	Asia/Aden	2014-09-28
+6940634	Qa'atabah	Qa'atabah	Qa'atabah District	13.9298	44.6277	A	ADM2	YE		18	3003			91206		1624	Asia/Aden	2023-05-06
+6940635	Al Jabin	Al Jabin	Al Jabin District	14.6899	43.6196	A	ADM2	YE		27	3102			71777		2020	Asia/Aden	2023-05-06
+6940636	Al Jafariyah	Al Jafariyah	Al Jafariyah District	14.5196	43.5817	A	ADM2	YE		27	3105			69705		1229	Asia/Aden	2023-05-06
+6940637	Kusmah	Kusmah	Kusmah District	14.5474	43.6833	A	ADM2	YE		27	3104			74622		1586	Asia/Aden	2023-05-06
+6940638	As Salafiyah	As Salafiyah	As Salafiyah District	14.6866	43.8216	A	ADM2	YE		27	3103			82570		1887	Asia/Aden	2023-05-06
+6940639	Al Dhihar	Al Dhihar	Al Dhihar District	13.979	44.1526	A	ADM2	YE		23	1119			154399		2035	Asia/Aden	2023-05-06
+6940640	As Sayyani	As Sayyani	As Sayyani District	13.8224	44.2118	A	ADM2	YE		23	1115			110515		2007	Asia/Aden	2023-05-06
+6940641	Al Mashannah	Al Mashannah	Al Mashannah District	13.9573	44.17	A	ADM2	YE		23	1118			101148		1918	Asia/Aden	2023-05-06
+6940642	As Sabrah	As Sabrah	As Sabrah District	13.8427	44.3386	A	ADM2	YE		23	1114			69872		1577	Asia/Aden	2023-05-06
+6940643	Hubaysh	Hubaysh		14.116	44.0824	A	ADM2	YE		23	1108			105998		1737	Asia/Aden	2014-09-22
+6940644	Jiblah	Jiblah	Jiblah District	13.9148	44.1213	A	ADM2	YE		23	1112			112481		2462	Asia/Aden	2023-05-06
+6940645	Ba'dan	Ba'dan	Ba'dan District	13.9887	44.3236	A	ADM2	YE		23	1113			116045		2221	Asia/Aden	2023-05-06
+6940646	Ahwar	Ahwar	Ahwar District	13.6853	46.7556	A	ADM2	YE		01	1209			25246		230	Asia/Aden	2023-05-06
+6940647	Mudiyah	Mudiyah	Mudiyah District	13.9096	46.2196	A	ADM2	YE		01	1202			34879		744	Asia/Aden	2023-05-06
+6940648	Al Mahfad	Al Mahfad	Al Mahfad District	13.9705	46.756	A	ADM2	YE		01	1201			26870		392	Asia/Aden	2023-05-06
+6940649	Rasad	Rasad	Rasad District	13.7231	45.2814	A	ADM2	YE		01	1206			54825		1830	Asia/Aden	2023-05-06
+6940650	Jayshan	Jayshan	Jayshan District	14.1662	46.1723	A	ADM2	YE		01	1203			14800		1959	Asia/Aden	2023-05-06
+6940651	Sibah	Sibah	Sibah District	13.8091	45.4023	A	ADM2	YE		01	1205			0		1260	Asia/Aden	2023-05-10
+6940652	Lawdar	Lawdar	Lawdar District	13.8059	45.8008	A	ADM2	YE		01	1204			88155		957	Asia/Aden	2023-05-10
+6940653	Al Wade'a	Al Wade'a		13.7136	46.0122	A	ADM2	YE		01	1208			0		819	Asia/Aden	2009-04-16
+6940654	Khanfir	Khanfir	Khanfir District	13.42049	45.68707	A	ADM2	YE		01	1211			109044		101	Asia/Aden	2023-05-10
+6940655	Sarar	Sarar	Sarar District	13.583	45.3508	A	ADM2	YE		01	1207			15093		1113	Asia/Aden	2023-05-10
+6940656	Zingibar	Zingibar	Zinjibar District	13.1342	45.4304	A	ADM2	YE		01	1210			25524		6	Asia/Aden	2023-05-10
+6940657	Al Wahdah	Al Wahdah	Al Wahdah District	15.3352	44.1868	A	ADM2	YE		26	1306			99956		2271	Asia/Aden	2023-05-10
+6940658	Old City	Old City		15.3551	44.2145	A	ADM2	YE		26	1301			63398		2266	Asia/Aden	2014-10-01
+6940659	Ath'thaorah	Ath'thaorah	Ath'thaorah District	15.3911	44.1929	A	ADM2	YE		26	1309			170145		2276	Asia/Aden	2023-05-10
+6940660	Assafi'yah	Assafi'yah	Assafi'yah District	15.3431	44.2355	A	ADM2	YE		26	1304			109109		2366	Asia/Aden	2023-05-10
+6940661	Ma'ain	Ma'ain	Ma'ain District	15.3706	44.1659	A	ADM2	YE		26	1308			0		2318	Asia/Aden	2023-05-10
+6940662	As Sabain	As Sabain	As Sabain,As Sabain District,alsbʿyn,mdyryt alsbʿyn,السبعين,مديرية السبعين	15.3145	44.2198	A	ADM2	YE		26	1305			311203		2270	Asia/Aden	2023-05-08
+6940663	Shu'aub	Shu'aub	Shu'aub District	15.3856	44.2241	A	ADM2	YE		26	1302			213939		2240	Asia/Aden	2023-05-10
+6940664	Az'zal	Az'zal	Az'zal District	15.3562	44.2385	A	ADM2	YE		26	1303			115054		2413	Asia/Aden	2023-05-10
+6940665	At Tahrir	At Tahrir	At Tahrir District	15.354	44.1979	A	ADM2	YE		26	1307			66898		2260	Asia/Aden	2023-05-10
+6940666	Sabah	Sabah	Sabah District	14.2759	44.67	A	ADM2	YE		20	1417			27472		2536	Asia/Aden	2023-05-08
+6940667	Wald Rabi'	Wald Rabi'	Wald Rabi' District,mdyryt_wld_rbyʿ,مديرية_ولد_ربيع	14.649	45.037	A	ADM2	YE		20	1415			0		1684	Asia/Aden	2024-01-31
+6940668	Al Quraishyah	Al Quraishyah	Al Quraishyah District	14.605	44.8896	A	ADM2	YE		20	1414			29525		1897	Asia/Aden	2023-05-09
+6940669	Ar Ryashyyah	Ar Ryashyyah	Ar Ryashyyah District	14.2424	44.7754	A	ADM2	YE		20	1418			22842		2892	Asia/Aden	2023-05-09
+6940670	Na'man	Na'man	Na'man District	14.5939	45.5286	A	ADM2	YE		20	1401			9252		1857	Asia/Aden	2023-05-09
+6940671	Mukayras	Mukayras	Mukayras District	14.032	45.7964	A	ADM2	YE		20	1408			41515		2060	Asia/Aden	2023-05-08
+6940672	Nati'	Nati'	Nati' District	14.5539	45.585	A	ADM2	YE		20	1402			13604		1692	Asia/Aden	2023-05-08
+6940673	As Sawadiyah	As Sawadiyah	As Sawadiyah District	14.45198	45.36973	A	ADM2	YE		20	1411			26763		2028	Asia/Aden	2023-05-09
+6940674	At Taffah	At Taffah	At Taffah District	14.1983	45.3581	A	ADM2	YE		20	1407			27692		1985	Asia/Aden	2023-05-09
+6940675	Radman Al Awad	Radman Al Awad	Radman District	14.4836	45.2744	A	ADM2	YE		20	1412			20150		2015	Asia/Aden	2023-05-09
+6940676	Dhi Na'im	Dhi Na'im	Dhi Na'im District	14.1111	45.4642	A	ADM2	YE		20	1406			25759		1974	Asia/Aden	2023-05-09
+6940677	Al Bayda City	Al Bayda City		13.9849	45.5566	A	ADM2	YE		20	1409			29853		2006	Asia/Aden	2014-09-29
+6940678	Al Malagim	Al Malagim	Al Malagim District	14.3654	45.3851	A	ADM2	YE		20	1420			29573		2030	Asia/Aden	2023-05-10
+6940679	Maswarah	Maswarah	Maswarah District	14.4027	45.7033	A	ADM2	YE		20	1403			7038		1784	Asia/Aden	2023-05-08
+6940680	Al A'rsh	Al A'rsh	Al A'rsh District	14.3656	44.7778	A	ADM2	YE		20	1416			45773		2248	Asia/Aden	2023-05-10
+6940681	As Sawma'ah	As Sawma'ah	As Sawma'ah District	14.1667	45.8311	A	ADM2	YE		20	1404			44873		2008	Asia/Aden	2023-05-09
+6940682	Az Zahir	Az Zahir	Az Zahir District	13.9918	45.4218	A	ADM2	YE		20	1405			25704		2121	Asia/Aden	2023-05-09
+6940683	Mashra'a Wa Hadnan	Mashra'a Wa Hadnan	Mashra'a Wa Hadnan District	13.5417	43.9983	A	ADM2	YE		25	1510			109533		2221	Asia/Aden	2023-05-08
+6940684	Al Wazi'iyah	Al Wazi'iyah	Al-Wazi'iyah District	13.1846	43.7298	A	ADM2	YE		25	1516			75288		604	Asia/Aden	2023-05-09
+6940685	As Silw	As Silw	As-Silw District	13.3459	44.2072	A	ADM2	YE		25	1514			0		1637	Asia/Aden	2023-05-10
+6940686	Hayfan	Hayfan	Hayfan District	13.2906	44.2607	A	ADM2	YE		25	1517			171315		1258	Asia/Aden	2023-05-10
+6940687	Al Ma'afer	Al Ma'afer	Al-Maafer District	13.3742	43.9262	A	ADM2	YE		25	1521			110924		1470	Asia/Aden	2023-05-10
+6940688	Al Mawasit	Al Mawasit	Al-Mawasit District	13.3042	44.1005	A	ADM2	YE		25	1522			115857		1575	Asia/Aden	2023-05-10
+6940689	Dhubab	Dhubab		12.9659	43.4724	A	ADM2	YE		25	1507			0		52	Asia/Aden	2009-04-16
+6940690	Al Qahirah	Al Qahirah	Al-Qahirah District	13.5849	44.0101	A	ADM2	YE		25	1519			149394		1300	Asia/Aden	2023-05-10
+6940691	Salh	Salh	Salh District	13.5839	44.0402	A	ADM2	YE		25	1520			198169		1281	Asia/Aden	2023-05-10
+6940692	Al Mudhaffar	Al Mudhaffar	Al-Mudhaffar District	13.5831	43.9927	A	ADM2	YE		25	1518			146259		1259	Asia/Aden	2023-05-10
+6940693	Mawza	Mawza	Mawza District	13.3782	43.6145	A	ADM2	YE		25	1508			119818		378	Asia/Aden	2023-05-10
+6940694	Shara'b Ar Rawnah	Shara'b Ar Rawnah	Shar'ab ar-Rawnah District	13.7336	43.7672	A	ADM2	YE		25	1504			186955		1228	Asia/Aden	2023-05-10
+6940695	Maqbanah	Maqbanah	Maqbanah District	13.6212	43.6674	A	ADM2	YE		25	1505			62471		739	Asia/Aden	2023-05-10
+6940696	Shara'b As Salam	Shara'b As Salam	Shar'ab as-Salam District	13.7832	43.8861	A	ADM2	YE		25	1503			146650		1506	Asia/Aden	2023-05-10
+6940697	Al Hazm	Al Hazm	Al Hazm District	16.0378	44.9585	A	ADM2	YE		21	1605			30952		1070	Asia/Aden	2023-05-10
+6940698	Al Khalq	Al Khalq	Al Khalq District	16.0681	44.797	A	ADM2	YE		21	1609			14123		1104	Asia/Aden	2023-05-10
+6940699	Al Maton	Al Maton	Al Maton District	16.2872	44.6389	A	ADM2	YE		21	1606			28411		1221	Asia/Aden	2023-05-10
+6940700	Al Matammah	Al Matammah	Al Matammah District	16.1984	44.3902	A	ADM2	YE		21	1603			28935		1279	Asia/Aden	2023-05-10
+6940701	Al Maslub	Al Maslub	Al Maslub District	16.0961	44.5667	A	ADM2	YE		21	1607			9938		1247	Asia/Aden	2023-05-10
+6940702	Al Ghayl	Al Ghayl	Al Ghayl District	16.0914	44.6852	A	ADM2	YE		21	1608			10436		1145	Asia/Aden	2023-05-10
+6940703	Khabb wa ash Sha'af	Khabb wa ash Sha'af	Khabb wa ash Sha'af District	16.5975	45.7853	A	ADM2	YE		21	1601			0		1018	Asia/Aden	2023-05-05
+6940704	Al Humaydat	Al Humaydat	Al Humaydat District	16.4667	44.4299	A	ADM2	YE		21	1602			20026		1300	Asia/Aden	2023-05-10
+6940705	Rajuzah	Rajuzah	Rajuzah District	16.6342	44.5042	A	ADM2	YE		21	1611			73723		2071	Asia/Aden	2023-05-10
+6940706	Ku'aydinah	Ku'aydinah		15.8183	43.3599	A	ADM2	YE		22	1722			0		674	Asia/Aden	2009-04-16
+6940707	Mustaba	Mustaba	Mustaba District	16.2736	43.2685	A	ADM2	YE		22	1706			42531		392	Asia/Aden	2023-05-10
+6940708	Qarah	Qarah	Qarah District	16.4019	43.474	A	ADM2	YE		22	1731			30641		1230	Asia/Aden	2023-05-10
+6940709	Wadhrah	Wadhrah	Wadhrah District	15.7142	43.4667	A	ADM2	YE		22	1723			10928		789	Asia/Aden	2023-05-10
+6940710	Kuhlan Affar	Kuhlan Affar		15.7554	43.697	A	ADM2	YE		22	1718			0		2349	Asia/Aden	2009-04-16
+6940711	Kuhlan Ash Sharaf	Kuhlan Ash Sharaf		16.0231	43.4863	A	ADM2	YE		22	1709			0		1921	Asia/Aden	2009-04-16
+6940712	Sharas	Sharas	Sharas District	15.7286	43.6546	A	ADM2	YE		22	1719			15707		1159	Asia/Aden	2023-05-06
+6940713	Khayran Al Muharraq	Khayran Al Muharraq	Khayran Al Muharraq District	16.08964	43.35755	A	ADM2	YE		22	1711			68707		528	Asia/Aden	2023-05-10
+6940714	Ash Shahil	Ash Shahil	Ash Shahil District	15.8553	43.4516	A	ADM2	YE		22	1721			32548		1339	Asia/Aden	2023-05-06
+6940715	Najrah	Najrah	Najrah District	15.6527	43.5452	A	ADM2	YE		22	1726			35942		1132	Asia/Aden	2023-05-06
+6940716	Ash Shaghadirah	Ash Shaghadirah	Ash Shaghadirah District	15.6061	43.4992	A	ADM2	YE		22	1725			48746		768	Asia/Aden	2023-05-06
+6940717	Aflah Ash Shawm	Aflah Ash Shawm	Aflah Ash Shawm District	16.0528	43.412	A	ADM2	YE		22	1710			54054		1165	Asia/Aden	2023-05-10
+6940718	Mabyan	Mabyan	Mabyan District	15.7717	43.551	A	ADM2	YE		22	1720			50732		1417	Asia/Aden	2023-05-06
+6940719	Al Miftah	Al Miftah	Al Miftah District	15.961	43.5147	A	ADM2	YE		22	1716			31691		1395	Asia/Aden	2023-05-06
+6940720	Aflah Al Yaman	Aflah Al Yaman	Aflah Al Yaman District	15.9789	43.4111	A	ADM2	YE		22	1714			38874		707	Asia/Aden	2023-05-10
+6940721	Al Jamimah	Al Jamimah	Al Jamimah District	16.0284	43.5297	A	ADM2	YE		22	1708			41211		1038	Asia/Aden	2023-05-06
+6940722	Aslem	Aslem	Aslem District	16.06	43.2939	A	ADM2	YE		22	1712			49227		486	Asia/Aden	2023-05-06
+6940723	Bakil Al Mir	Bakil Al Mir	Bakil Al Mir District	16.5069	43.3615	A	ADM2	YE		22	1701			21701		700	Asia/Aden	2023-05-10
+6940724	Kushar	Kushar	Kushar District	16.1709	43.472	A	ADM2	YE		22	1707			74176		1413	Asia/Aden	2023-05-06
+6940725	Al Mina	Al Mina	Al Mina District	14.80775	42.93732	A	ADM2	YE		08	1822			0		6	Asia/Aden	2023-05-09
+6940726	As Sukhnah	As Sukhnah	As Sukhnah District	14.7484	43.3342	A	ADM2	YE		08	1815			59652		154	Asia/Aden	2023-05-09
+6940727	Al Garrahi	Al Garrahi	Al Garrahi District	14.1058	43.4094	A	ADM2	YE		08	1825			89163		184	Asia/Aden	2023-05-09
+6940728	Bura	Bura	Bura District	14.8982	43.4753	A	ADM2	YE		08	1812			45116		1791	Asia/Aden	2023-05-09
+6940729	Kamaran	Kamaran	Kamaran District	15.3605	42.5854	A	ADM2	YE		08	1803			2465		10	Asia/Aden	2023-05-09
+6940730	Al Mansuriyah	Al Mansuriyah		14.6903	43.3682	A	ADM2	YE		08	1816			44744		139	Asia/Aden	2014-10-01
+6940731	Az Zuhrah	Az Zuhrah	Az Zuhrah District	15.7173	43.0637	A	ADM2	YE		08	1801			138045		91	Asia/Aden	2023-05-09
+6940732	Ad Dahi	Ad Dahi	Ad Dahi District	15.2232	43.1935	A	ADM2	YE		08	1809			54503		143	Asia/Aden	2023-05-09
+6940733	Hays	Hays	Hays District	13.9332	43.4984	A	ADM2	YE		08	1819			45436		221	Asia/Aden	2023-05-09
+6940734	At Tuhayat	At Tuhayat	At Tuhayta District	14.10994	43.15979	A	ADM2	YE		08	1826			67660		29	Asia/Aden	2023-05-10
+6940735	Al Hali	Al Hali	Al Hali District	14.825	43.0014	A	ADM2	YE		08	1823			168071		22	Asia/Aden	2023-05-10
+6940736	Al Hajjaylah	Al Hajjaylah	Al Hajjaylah District	14.9907	43.5823	A	ADM2	YE		08	1811			9694		551	Asia/Aden	2023-05-10
+6940737	Al Mighlaf	Al Mighlaf	Al Mighlaf District	15.3111	43.1836	A	ADM2	YE		08	1808			39436		122	Asia/Aden	2023-05-10
+6940738	Al Qanawis	Al Qanawis	Al Qanawis District	15.49206	43.13782	A	ADM2	YE		08	1806			72336		94	Asia/Aden	2023-05-10
+6940739	Alluheyah	Alluheyah	Alluheyah District	15.63628	42.87157	A	ADM2	YE		08	1802			105682		35	Asia/Aden	2023-05-10
+6940740	Adh Dhlia'ah	Adh Dhlia'ah	Adh Dhlia'ah District	15.0139	47.8972	A	ADM2	YE		04	1922			18678		1479	Asia/Aden	2023-05-10
+6940741	Al Mukalla	Al Mukalla		14.7292	48.9199	A	ADM2	YE		04	1930			531205		1546	Asia/Aden	2014-10-01
+6940742	Yabuth	Yabuth	Yabuth District	14.7182	47.7358	A	ADM2	YE		04	1923			9862		1084	Asia/Aden	2023-05-10
+6940743	Hajr	Hajr	Hajr,Hajr District	14.4708	48.2774	A	ADM2	YE		04	1924			25566		473	Asia/Aden	2015-12-11
+6940744	Shibam	Shibam	Shibam District	15.8703	48.6534	A	ADM2	YE		04	1908			48829		673	Asia/Aden	2023-05-10
+6940745	Sah	Sah	Sah District	15.5342	48.8955	A	ADM2	YE		04	1909			24146		943	Asia/Aden	2023-05-09
+6940746	Ghayl Bin Yamin	Ghayl Bin Yamin	Ghayl Bin Yamin District	15.3896	49.2854	A	ADM2	YE		04	1916			28120		976	Asia/Aden	2023-05-09
+6940747	Wadi Al Ayn	Wadi Al Ayn	Hawrah District	15.74033	48.14747	A	ADM2	YE		04	1919			28474		695	Asia/Aden	2023-05-09
+6940748	Amd	Amd	Amd District	15.3486	47.9286	A	ADM2	YE		04	1921			20052		1265	Asia/Aden	2023-05-09
+6940749	Ar Raydah Wa Qusayar	Ar Raydah Wa Qusayar	Ar Raydah Wa Qusayar District	15.1841	50.3133	A	ADM2	YE		04	1913			45180		1097	Asia/Aden	2023-05-10
+6940750	Daw'an	Daw'an	Daw'an District	15.0507	48.3072	A	ADM2	YE		04	1918			43836		1358	Asia/Aden	2023-05-09
+6940751	Ad Dis	Ad Dis	Ad Dis District	15.0949	50.0159	A	ADM2	YE		04	1914			23092		642	Asia/Aden	2023-05-09
+6940752	Ash Shihr	Ash Shihr	Al-Shihr District	14.9723	49.5526	A	ADM2	YE		04	1915			73482		634	Asia/Aden	2023-05-09
+6940753	Ghayl Ba Wazir	Ghayl Ba Wazir	Ghayl Ba Wazir District	14.8778	49.0245	A	ADM2	YE		04	1917			48831		844	Asia/Aden	2023-05-09
+6940754	Qulensya Wa Abd Al Kuri	Qulensya Wa Abd Al Kuri	Qulensya wa Abd al Kuri District	12.55479	53.58671	A	ADM2	YE		28	1927			10109		297	Asia/Aden	2023-05-10
+6940755	Brom Mayfa	Brom Mayfa	Brom Mayfa District	14.3423	48.7281	A	ADM2	YE		04	1925			17327		541	Asia/Aden	2023-05-09
+6940756	Al Mukalla City	Al Mukalla City		14.62033	49.248	A	ADM2	YE		04	1929			16748		9	Asia/Aden	2014-09-29
+6940757	Sayun	Sayun	Seiyun District	15.9831	48.8315	A	ADM2	YE		04	1910			102409		631	Asia/Aden	2023-05-09
+6940758	Hidaybu	Hidaybu		12.5025	54.0082	A	ADM2	YE		28	1926			34011		601	Asia/Aden	2014-10-07
+6940759	Thamud	Thamud	Thamud District	17.6031	49.7361	A	ADM2	YE		04	1902			4402		545	Asia/Aden	2023-05-06
+6940760	Al Qaf	Al Qaf	Al Qaf,Al Qaf District	17.4287	48.9405	A	ADM2	YE		04	1903			2145		649	Asia/Aden	2015-12-11
+6940761	Zamakh wa Manwakh	Zamakh wa Manwakh		17.2032	47.7033	A	ADM2	YE		04	1904			1505		810	Asia/Aden	2014-09-22
+6940762	As Sawm	As Sawm	As Sawm District	15.998	49.6686	A	ADM2	YE		04	1912			12666		630	Asia/Aden	2023-05-06
+6940763	Hagr As Sai'ar	Hagr As Sai'ar	Hagr As Sai'ar District	16.3056	47.9537	A	ADM2	YE		04	1905			2474		1162	Asia/Aden	2023-05-10
+6940764	Tarim	Tarim	Tarim District	16.066	49.0229	A	ADM2	YE		04	1911			100617		611	Asia/Aden	2023-05-09
+6940765	Rumah	Rumah	Rumah District	17.8145	51.0759	A	ADM2	YE		04	1901			6357		600	Asia/Aden	2023-05-05
+6940766	Al Qatn	Al Qatn	Al Qatn District	15.9232	48.2146	A	ADM2	YE		04	1907			64248		1040	Asia/Aden	2023-05-09
+6940767	Al Abr	Al Abr	Al Abr District	15.9137	47.2288	A	ADM2	YE		04	1906			3348		812	Asia/Aden	2023-05-06
+6940768	Mayfa'at Anss	Mayfa'at Anss	Mayfa'at Anss District	14.5152	44.6106	A	ADM2	YE		11	2009			60854		2504	Asia/Aden	2023-05-09
+6940769	Al Hada	Al Hada	Al Hada District	14.8076	44.5679	A	ADM2	YE		11	2001			143100		2063	Asia/Aden	2023-05-06
+6940770	Wusab Al Ali	Wusab Al Ali	Wusab Al Ali District	14.3344	43.7947	A	ADM2	YE		11	2006			164223		1155	Asia/Aden	2023-05-07
+6940771	Maghirib Ans	Maghirib Ans	Maghirib Ans District	14.4653	44.1233	A	ADM2	YE		11	2004			53261		1734	Asia/Aden	2023-05-07
+6940772	Jahran	Jahran	Jahran District	14.7331	44.3143	A	ADM2	YE		11	2002			86590		2331	Asia/Aden	2023-05-07
+6940773	Al Manar	Al Manar	Al Manar District	14.653	44.1164	A	ADM2	YE		11	2012			49390		1642	Asia/Aden	2023-05-07
+6940774	Jabal Ash sharq	Jabal Ash sharq	Jabal Ash sharq District	14.7296	43.9062	A	ADM2	YE		11	2003			62034		1482	Asia/Aden	2023-05-08
+6940775	Wusab As Safil	Wusab As Safil	Wusab As Safil District	14.2548	43.6325	A	ADM2	YE		11	2007			149531		1326	Asia/Aden	2023-05-08
+6940776	Utmah	Utmah	Utmah District	14.4738	43.9483	A	ADM2	YE		11	2005			145284		2146	Asia/Aden	2023-05-07
+6940777	Ataq	Ataq	Ataq District	14.5634	46.8319	A	ADM2	YE		05	2113			37315		1129	Asia/Aden	2023-05-09
+6940778	Rudum	Rudum	Rudum District	14.03759	47.83824	A	ADM2	YE		05	2117			23244		67	Asia/Aden	2023-05-10
+6940779	Nisab	Nisab	Nisab District	14.5257	46.4477	A	ADM2	YE		05	2110			42050		1206	Asia/Aden	2023-05-09
+6940780	Bayhan	Bayhan	Bayhan District	14.7619	45.7482	A	ADM2	YE		05	2107			48347		1717	Asia/Aden	2023-05-09
+6940781	Habban	Habban	Habban District	14.2878	47.1361	A	ADM2	YE		05	2114			29846		971	Asia/Aden	2023-05-09
+6940782	Hatib	Hatib	Hatib District	14.1802	46.4439	A	ADM2	YE		05	2111			13335		2153	Asia/Aden	2023-05-09
+6940783	Mayfa'a	Mayfa'a	Mayfa'a District	14.3978	47.7404	A	ADM2	YE		05	2116			41597		637	Asia/Aden	2023-05-09
+6940784	Merkhah Al Ulya	Merkhah Al Ulya	Merkhah Al Ulya District	14.4847	45.9299	A	ADM2	YE		05	2108			32278		1816	Asia/Aden	2023-05-10
+6940785	Merkhah As Sufla	Merkhah As Sufla	Merkhah As Sufla District	14.6999	46.1563	A	ADM2	YE		05	2109			406		1344	Asia/Aden	2023-05-10
+6940786	As Said	As Said	As Said District	14.2766	46.8693	A	ADM2	YE		05	2112			35034		1673	Asia/Aden	2023-05-10
+6940787	Dhar	Dhar	Dhar District	15.5036	47.6058	A	ADM2	YE		05	2101			9927		870	Asia/Aden	2023-05-10
+6940788	Arma	Arma	Arma District	15.4127	47.2345	A	ADM2	YE		05	2104			10188		963	Asia/Aden	2023-05-09
+6940789	Jardan	Jardan	Jardan District	15.19	46.7338	A	ADM2	YE		05	2103			16270		841	Asia/Aden	2023-05-10
+6940790	Ain	Ain	Ain District	14.9503	45.6004	A	ADM2	YE		05	2106			22051		1181	Asia/Aden	2023-05-09
+6940791	Al Talh	Al Talh	Al Talh District	15.0826	47.3514	A	ADM2	YE		05	2102			9404		1436	Asia/Aden	2023-05-09
+6940792	Ar Rawdah	Ar Rawdah	Ar Rawdah District	14.4956	47.2746	A	ADM2	YE		05	2115			27371		866	Asia/Aden	2023-05-09
+6940793	Al Dhaher	Al Dhaher	Al Dhaher District	16.7314	43.2753	A	ADM2	YE		15	2207			22400		352	Asia/Aden	2023-05-10
+6940794	Shada'a	Shada'a	Shada'a District	16.8913	43.1871	A	ADM2	YE		15	2206			51870		684	Asia/Aden	2023-05-10
+6940795	Saqayn	Saqayn		16.8601	43.4716	A	ADM2	YE		15	2209			0		2400	Asia/Aden	2009-04-16
+6940796	Baqim	Baqim		17.3781	43.4635	A	ADM2	YE		15	2201			0		2144	Asia/Aden	2009-04-16
+6940797	As Safra	As Safra		17.0142	43.8566	A	ADM2	YE		15	2212			0		1892	Asia/Aden	2009-04-16
+6940798	Majz	Majz		17.0923	43.5104	A	ADM2	YE		15	2210			0		2450	Asia/Aden	2009-04-16
+6940799	Kitaf wa Al Boqe'e	Kitaf wa Al Boqe'e		17.0808	44.3962	A	ADM2	YE		15	2214			0		1466	Asia/Aden	2009-04-16
+6940800	Nihm	Nihm	Nihm District	15.7516	44.5746	A	ADM2	YE		16	2303			41502		2129	Asia/Aden	2023-05-07
+6940801	Bani Matar	Bani Matar	Bani Matar District	15.215	44.0498	A	ADM2	YE		16	2307			100012		2674	Asia/Aden	2023-05-09
+6940802	Attyal	Attyal	Attyal District	15.32931	44.57739	A	ADM2	YE		16	2313			36253		2610	Asia/Aden	2023-05-07
+6940803	Al Husn	Al Husn	Al Husn District	15.0206	44.5044	A	ADM2	YE		16	2315			30124		2338	Asia/Aden	2023-05-09
+6940804	Bilad Ar Rus	Bilad Ar Rus	Bilad Ar Rus District	15.0351	44.2514	A	ADM2	YE		16	2306			31259		2660	Asia/Aden	2023-05-09
+6940805	Al Haymah Al Kharijiyah	Al Haymah Al Kharijiyah	Al Haymah Al Kharijiyah District	15.0267	43.85	A	ADM2	YE		16	2309			58454		1539	Asia/Aden	2023-05-09
+6940806	Manakhah	Manakhah	Manakhah District	15.0717	43.6862	A	ADM2	YE		16	2310			78932		2341	Asia/Aden	2024-10-27
+6940807	Jihanah	Jihanah	Jihanah District	15.1919	44.5195	A	ADM2	YE		16	2316			50747		2297	Asia/Aden	2023-05-07
+6940808	Bani Dhabyan	Bani Dhabyan	Bani Dhabyan District	15.0481	44.8718	A	ADM2	YE		16	2314			16262		1937	Asia/Aden	2023-05-09
+6940809	Khwlan	Khwlan	Khwlan District	15.2749	44.7686	A	ADM2	YE		16	2312			28925		1967	Asia/Aden	2023-05-08
+6940810	Bani Hushaysh	Bani Hushaysh	Bani Hushaysh District	15.4505	44.3782	A	ADM2	YE		16	2304			73957		2419	Asia/Aden	2023-05-09
+6940811	Al Haymah Ad Dakhiliyah	Al Haymah Ad Dakhiliyah	Al Haymah Ad Dakhiliyah District	15.2722	43.8393	A	ADM2	YE		16	2308			83234		1726	Asia/Aden	2023-05-09
+6940812	Sa'fan	Sa'fan	Sa'fan District	15.0712	43.5827	A	ADM2	YE		16	2311			33722		769	Asia/Aden	2023-05-09
+6940813	Attawahi	Attawahi		12.7741	44.9941	A	ADM2	YE		02	2405			52984		29	Asia/Aden	2014-09-29
+6940814	Craiter	Craiter	Crater District	12.7731	45.0381	A	ADM2	YE		02	2407			0		14	Asia/Aden	2023-05-09
+6940815	Al Buraiqeh	Al Buraiqeh	Al Buraiqeh District	12.80377	44.77615	A	ADM2	YE		02	2404			62405		13	Asia/Aden	2023-05-09
+6940816	Khur Maksar	Khur Maksar	Khur Maksar District	12.8658	45.0552	A	ADM2	YE		02	2408			0		-2	Asia/Aden	2023-05-09
+6940817	Dar Sad	Dar Sad	Dar Sad District	12.907	44.9784	A	ADM2	YE		02	2401			79712		19	Asia/Aden	2023-05-09
+6940818	Al Mansura	Al Mansura		12.8532	44.9724	A	ADM2	YE		02	2403			114931		10	Asia/Aden	2014-09-29
+6940819	Ash Shaikh Outhman	Ash Shaikh Outhman	Ash Shaikh Outhman District	12.8864	45.0156	A	ADM2	YE		02	2402			105248		10	Asia/Aden	2023-05-09
+6940820	Al Mualla	Al Mualla	Mualla District	12.65843	43.42743	A	ADM2	YE		02	2406			49891		35	Asia/Aden	2023-05-09
+6940821	Tur Al Bahah	Tur Al Bahah	Tur Al Bahah District	13.04269	44.41154	A	ADM2	YE		24	2511			0		433	Asia/Aden	2023-05-08
+6940822	Al  Hawtah	Al  Hawtah	Al Houta District	13.0624	44.8816	A	ADM2	YE		24	2514			25881		137	Asia/Aden	2023-05-08
+6940823	Habil Jabr	Habil Jabr	Habil Jabr District	13.5921	45.0737	A	ADM2	YE		24	2505			41474		881	Asia/Aden	2023-05-08
+6940824	Yahr	Yahr	Yahr District	13.7227	45.1305	A	ADM2	YE		24	2504			37148		1624	Asia/Aden	2023-05-10
+6940825	Halimayn	Halimayn	Halimayn District	13.7088	44.9443	A	ADM2	YE		24	2506			27871		1478	Asia/Aden	2023-05-08
+6940826	Al Milah	Al Milah	Al Milah District	13.3202	44.9267	A	ADM2	YE		24	2508			27636		373	Asia/Aden	2023-05-08
+6940827	Radfan	Radfan	Radfan District	13.4667	44.99	A	ADM2	YE		24	2507			45570		1302	Asia/Aden	2023-05-08
+6940828	Al Maflahy	Al Maflahy	Al Maflahy District	13.7767	45.1088	A	ADM2	YE		24	2503			38524		1744	Asia/Aden	2023-05-08
+6940829	Yafa'a	Yafa'a	Yafa'a District	13.862	45.2014	A	ADM2	YE		24	2502			75014		1618	Asia/Aden	2023-05-08
+6940830	Al Musaymir	Al Musaymir	Al Musaymir District	13.4291	44.5914	A	ADM2	YE		24	2509			26558		713	Asia/Aden	2023-05-08
+6940831	Al Had	Al Had	Al Had District	13.9783	45.2553	A	ADM2	YE		24	2501			53159		1733	Asia/Aden	2023-05-08
+6940832	Al Maqatirah	Al Maqatirah	Al Maqatirah District	13.1372	44.1404	A	ADM2	YE		24	2512			54613		1440	Asia/Aden	2023-05-08
+6940833	Al Madaribah Wa Al Arah	Al Madaribah Wa Al Arah	Al Madaribah Wa Al Arah District	12.8569	43.9906	A	ADM2	YE		24	2513			45808		221	Asia/Aden	2023-05-09
+6940834	Bidbadah	Bidbadah	Bidbadah District	15.3981	44.7473	A	ADM2	YE		14	2605			18214		2110	Asia/Aden	2023-05-08
+6940835	Marib	Marib	Ma'rib,Maarib,Marib,Marib City,Marib District,Maribas,Márib,Mərib,ma li bo,maaribu,malibeu,marb,Мариб,Маріб,Մարիբ,مأرب,マアリブ,馬里卜,마리브	15.6213	46.0111	A	ADM2	YE		14	2613			0		944	Asia/Aden	2023-05-09
+6940836	Majzar	Majzar	Majzar District	15.8277	44.7941	A	ADM2	YE		14	2601			10477		1214	Asia/Aden	2023-05-08
+6940837	Medghal	Medghal	Medghal District	15.6384	45.0038	A	ADM2	YE		14	2603			10654		1179	Asia/Aden	2023-05-08
+6940838	Raghwan	Raghwan	Raghwan District	15.7902	45.0694	A	ADM2	YE		14	2602			4391		1104	Asia/Aden	2023-05-08
+6940839	Sirwah	Sirwah		15.4369	45.0115	A	ADM2	YE		14	2606			0		1489	Asia/Aden	2009-04-16
+6940840	Al Abdiyah	Al Abdiyah	Al Abdiyah District	14.717	45.3934	A	ADM2	YE		14	2611			13000		2082	Asia/Aden	2023-05-08
+6940841	Mahliyah	Mahliyah	Mahliyah District	14.6821	45.1832	A	ADM2	YE		14	2610			9156		1693	Asia/Aden	2023-05-08
+6940842	Jabal Murad	Jabal Murad	Jabal Murad District	15.0474	45.1887	A	ADM2	YE		14	2614			10280		2064	Asia/Aden	2023-05-08
+6940843	Rahabah	Rahabah	Rahabah District	14.951	45.0885	A	ADM2	YE		14	2608			7441		1788	Asia/Aden	2023-05-08
+6940844	Al Jubah	Al Jubah	Al Jubah District	15.1249	45.2868	A	ADM2	YE		14	2607			21093		1569	Asia/Aden	2023-05-08
+6940845	Al Mahwait	Al Mahwait		15.4117	43.5663	A	ADM2	YE		10	2709			0		1469	Asia/Aden	2014-09-28
+6940846	Bani Sa'd	Bani Sa'd	Bani Sa'd District	15.2355	43.5156	A	ADM2	YE		10	2707			59015		708	Asia/Aden	2023-05-09
+6940847	Al Khabt	Al Khabt	Al Khabt District	15.4817	43.3677	A	ADM2	YE		10	2704			64033		562	Asia/Aden	2023-05-10
+6940848	Ar Rujum	Ar Rujum	Ar Rujum District	15.4101	43.6606	A	ADM2	YE		10	2703			75708		1819	Asia/Aden	2023-05-10
+6940849	Al Mahwait City	Al Mahwait City		15.4635	43.5463	A	ADM2	YE		10	2708			0		2019	Asia/Aden	2009-04-16
+6940850	Hufash	Hufash	Hufash District	15.3747	43.4265	A	ADM2	YE		10	2706			37884		1956	Asia/Aden	2023-05-10
+6940851	Milhan	Milhan	Milhan District	15.3224	43.3318	A	ADM2	YE		10	2705			89224		1032	Asia/Aden	2023-05-10
+6940852	Shahan	Shahan	Shahan District	17.5923	52.594	A	ADM2	YE		03	2801			3152		670	Asia/Aden	2023-05-10
+6940853	Sayhut	Sayhut	Sayhut District	15.5345	51.2869	A	ADM2	YE		03	2807			11746		954	Asia/Aden	2023-05-09
+6940854	Hat	Hat	Hat District	17.8031	51.675	A	ADM2	YE		03	2802			2786		594	Asia/Aden	2023-05-10
+6940855	Al Ghaydah	Al Ghaydah	Al Ghaydah District	16.2618	52.0816	A	ADM2	YE		03	2804			27404		64	Asia/Aden	2023-05-10
+6940856	Hawf	Hawf	Hawf District	16.6953	52.8182	A	ADM2	YE		03	2803			5143		1196	Asia/Aden	2023-05-09
+6940857	Huswain	Huswain	Huswain District	15.723	51.9124	A	ADM2	YE		03	2809			11130		490	Asia/Aden	2023-05-09
+6940858	Qishn	Qishn	Qishn District	15.6999	51.324	A	ADM2	YE		03	2808			11441		566	Asia/Aden	2023-05-09
+6940859	Man'ar	Man'ar	Man'ar District	16.5505	50.9879	A	ADM2	YE		03	2805			5388		649	Asia/Aden	2023-05-09
+6940860	Al Masilah	Al Masilah	Al Masilah District	15.6399	50.6445	A	ADM2	YE		03	2806			10404		749	Asia/Aden	2023-05-10
+6940861	Jabal Iyal Yazid	Jabal Iyal Yazid		15.7717	43.9051	A	ADM2	YE		19	2912			84393		2641	Asia/Aden	2014-09-28
+6940862	Al Ashah	Al Ashah		16.324	43.7874	A	ADM2	YE		19	2903			43859		1282	Asia/Aden	2014-09-28
+6940863	Suwayr	Suwayr		16.0611	43.6212	A	ADM2	YE		19	2907			20854		1109	Asia/Aden	2014-09-28
+6940864	Bani Suraim	Bani Suraim		16.1253	43.9602	A	ADM2	YE		19	2920			32698		2230	Asia/Aden	2014-09-28
+6940865	Al Madan	Al Madan		16.2328	43.639	A	ADM2	YE		19	2906			26955		1803	Asia/Aden	2014-09-28
+6940866	Thula	Thula		15.601	43.8252	A	ADM2	YE		19	2917			40971		3028	Asia/Aden	2014-09-28
+6940867	As Sudah	As Sudah	As Sudah District	15.9664	43.7756	A	ADM2	YE		19	2913			32169		1741	Asia/Aden	2023-05-10
+6940868	Habur Zulaymah	Habur Zulaymah	Habur Zulaymah District	16.035	43.7338	A	ADM2	YE		19	2908			39334		1004	Asia/Aden	2023-05-10
+6940869	Al Qaflah	Al Qaflah	Qaflat Othor District	16.33859	43.70361	A	ADM2	YE		19	2904			36722		1318	Asia/Aden	2023-05-10
+6940870	Maswar	Maswar	Maswar District	15.5986	43.6925	A	ADM2	YE		19	2916			38432		2696	Asia/Aden	2023-05-10
+6940871	As Sawd	As Sawd	As Sawd District	15.8134	43.777	A	ADM2	YE		19	2914			25892		1630	Asia/Aden	2023-05-10
+6940872	Kharif	Kharif	Kharif District	15.847	44.0822	A	ADM2	YE		19	2910			45977		2221	Asia/Aden	2023-05-10
+6940873	Iyal Surayh	Iyal Surayh	Iyal Surayh District	15.7146	43.9974	A	ADM2	YE		19	2918			54015		2211	Asia/Aden	2023-05-10
+6940874	Dhi Bin	Dhi Bin	Dhi Bin District	16.0276	44.1515	A	ADM2	YE		19	2909			30799		1887	Asia/Aden	2023-05-10
+6940875	Ad Dhale'e	Ad Dhale'e	Ad Dal'a,Aḑ Ḑāl‘a,Dhale Districte,الضالع	13.71403	44.71445	A	ADM2	YE		18	3006			80213		1731	Asia/Aden	2023-05-09
+6940876	Al Hussein	Al Hussein	Al Hussein District	13.789	44.8284	A	ADM2	YE		18	3005			37118		1502	Asia/Aden	2023-05-10
+6940877	Jahaf	Jahaf	Jahaf District	13.7257	44.6576	A	ADM2	YE		18	3007			22897		1908	Asia/Aden	2023-05-10
+6940878	Damt	Damt	Damt District	14.1021	44.6788	A	ADM2	YE		18	3002			60944		1884	Asia/Aden	2023-05-10
+6940879	Al Azariq	Al Azariq	Al Azariq District	13.6468	44.637	A	ADM2	YE		18	3008			37295		1200	Asia/Aden	2023-05-10
+6940880	Juban	Juban	Juban District	14.05	44.9636	A	ADM2	YE		18	3001			42397		1910	Asia/Aden	2023-05-10
+6940881	Ash Shu'ayb	Ash Shu'ayb	Ash Shu'ayb District	13.8347	44.9654	A	ADM2	YE		18	3004			38261		2084	Asia/Aden	2023-05-10
+6940882	Bilad At Ta'am	Bilad At Ta'am	Bilad At Ta'am District	14.8382	43.6078	A	ADM2	YE		27	3101			31143		731	Asia/Aden	2023-05-10
+6940883	Mazhar	Mazhar	Mazhar District	14.5709	43.7607	A	ADM2	YE		27	3106			64661		1278	Asia/Aden	2023-05-10

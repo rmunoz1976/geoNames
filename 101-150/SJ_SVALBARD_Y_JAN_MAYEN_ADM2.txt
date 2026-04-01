@@ -1,0 +1,4 @@
+﻿7535695	Jan Mayen	Jan Mayen	Gian Magien,Ile Jan Mayen,Insula Jan Mayen,Jan Majen,Jan Majenin Arl,Jan Mayen-sziget,Jan-Maen,Jan-Majen,Jana Majena sala,Janmajeno,Vostrau Jan-Maen,ian-maieni,jan mayn,yan mayn,yan mi xen,yana mayena,yang ma yan dao,yang man yin dao,yanmaien dao,yanmayen seom,Île Jan Mayen,Γιαν Μαγιέν,Јан Мајен,Востраў Ян-Маен,Ян Майен,Ян Майенин Арл,Ян-Майен,Ян-Маєн,יאן מאיין,جان ماين,یان ماین,यान मायेन,ยานไมเอน,იან-მაიენი,ヤンマイエン島,扬 曼因岛,揚馬延島,얀마옌 섬	71.00802	-8.37708	A	ADM2	SJ		22	2211			0		214	Arctic/Longyearbyen	2010-09-23
+7535696	Spitsbergen	Spitsbergen	Spitsberghen	78.0529	17.70996	A	ADM2	SJ		21	2111			0		206	Arctic/Longyearbyen	2016-11-16
+7535697	Hopen	Hopen		76.57561	25.19714	A	ADM2	SJ	NO	21	2131			0		-9999	Arctic/Longyearbyen	2018-07-15
+7535698	Bjørnøya	Bjornoya		74.44347	19.00635	A	ADM2	SJ		21	2121			0		72	Arctic/Longyearbyen	2010-09-23

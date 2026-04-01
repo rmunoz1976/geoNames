@@ -1,0 +1,55 @@
+﻿7910308	Aleg	Aleg	Aleg	16.9645	-13.72325	A	ADM2	MR		05	7910308			0		61	Africa/Nouakchott	2019-01-11
+7910309	Rosso Department	Rosso Department	Rosso	16.585	-15.72	A	ADM2	MR		06	7910309			0		10	Africa/Nouakchott	2019-01-11
+7910310	Tidjikja	Tidjikja	Tidjikja	18.4375	-11.52456	A	ADM2	MR		09	7910310			0		453	Africa/Nouakchott	2019-01-11
+8051339	Ouad Naga	Ouad Naga	Ouad Naga,Wadi an-Naqa,Wadi an-Nāqa,Wādī an-Nāqa,wad alnaqt,wady alnaqt,واد الناقة,وادي الناقة	18.352	-15.474	A	ADM2	MR		06	8051339			0		34	Africa/Nouakchott	2019-05-14
+8051340	Mederdra	Mederdra	Mederdra	17.141	-15.659	A	ADM2	MR		06	8051340			0		42	Africa/Nouakchott	2019-01-11
+8051341	Boutilimit	Boutilimit	Boutilimit	18.17	-14.125	A	ADM2	MR		06	8051341			0		60	Africa/Nouakchott	2019-01-11
+8335141	Bogué Department	Bogue Department	Boghe,bwghy,bwky,بوغي,بوغی,بوكى,بوكي	16.67632	-14.47105	A	ADM2	MR		05	8335141			0		13	Africa/Nouakchott	2020-03-19
+9212577	Arafat	Arafat	Arafat,Araffat,a la fa te,arafato,Арафат,ערפאת,عرفات,アラファト,阿拉法特	18.04639	-15.97194	A	ADM2	MR		15	9212577			0		3	Africa/Nouakchott	2019-01-11
+9212580	Dar Naim	Dar Naim	Dar Naim	18.11616	-15.92571	A	ADM2	MR		14	9212580			0		0	Africa/Nouakchott	2019-01-11
+9212586	Ksar	Ksar	Ksar	18.10222	-15.955	A	ADM2	MR		13	9212586			0		3	Africa/Nouakchott	2019-01-11
+9212590	Riad	Riad	Riad	18.00862	-15.97616	A	ADM2	MR		15	9212590			0		3	Africa/Nouakchott	2019-01-11
+9212593	Sebkha	Sebkha	Sebkha,alsbkht,sebua,السبخة,セブア	18.07552	-16.00205	A	ADM2	MR		13	9212593			0		4	Africa/Nouakchott	2019-01-11
+9212594	Teyarett	Teyarett	Tejaret,Teyareth,Teyarett,tai ya lei te,teyaretto,Теярет,تيارت‎,テヤレット,泰亚雷特	18.12778	-15.93917	A	ADM2	MR		14	9212594			0		5	Africa/Nouakchott	2019-01-11
+9212597	Toujounine	Toujounine	Toujounine	18.07169	-15.90311	A	ADM2	MR		14	9212597			0		4	Africa/Nouakchott	2019-01-11
+9212601	Selibaby	Selibaby	Selibaby	15.20744	-12.23916	A	ADM2	MR		10	9212601			0		77	Africa/Nouakchott	2019-01-11
+9212602	Guerou	Guerou	Departement de Guerou,Département de Guerou,Guerou,Guerou Department,Guerrou,dipartimento di Guerou,gerou xian,Гуероу,مقاطعة_كرو,ゲロウ県	16.86456	-11.97782	A	ADM2	MR		03	9212602			0		320	Africa/Nouakchott	2019-01-11
+9212603	Maghama	Maghama	Maghama	15.54037	-12.82886	A	ADM2	MR		04	9212603			0		22	Africa/Nouakchott	2019-01-11
+9212604	R'Kiz	R'Kiz	R'kiz	16.92986	-15.08271	A	ADM2	MR		06	9212604			0		19	Africa/Nouakchott	2019-01-11
+9212605	Kiffa	Kiffa	Kiffa	16.74974	-11.3478	A	ADM2	MR		03	9212605			0		136	Africa/Nouakchott	2019-01-11
+9212606	Aioun	Aioun	Aioun,Ayoun el Atrous	16.80461	-9.25297	A	ADM2	MR		02	9212606			0		185	Africa/Nouakchott	2019-01-11
+9212608	Nema	Nema	Nema	16.43284	-7.3026	A	ADM2	MR		01	9212608			0		228	Africa/Nouakchott	2019-01-11
+9212609	Timbedra	Timbedra	Timbedra,tmbdght,تمبدغة	16.10191	-8.18235	A	ADM2	MR		01	9212609			0		216	Africa/Nouakchott	2022-08-06
+9212610	F'Derik	F'Derik	F'Derik	23.56956	-9.84096	A	ADM2	MR		11	9212610			0		242	Africa/Nouakchott	2019-01-11
+9212614	Keur-Macene	Keur-Macene	Keur-Macene	16.64184	-16.27726	A	ADM2	MR		06	9212614			0		9	Africa/Nouakchott	2019-01-11
+9212615	Aoujeft	Aoujeft	Aoujeft	19.45559	-13.07394	A	ADM2	MR		07	9212615			0		91	Africa/Nouakchott	2019-01-11
+9212618	Bir Moghreïn	Bir Moghrein	Bir Moghrein,Bir Moghreïn,Bir Mogrein,Birmoguren Department,byr mwgryn,dipartimento di Birmoguren,بیر موگرین	25.61661	-8.1054	A	ADM2	MR		11	9212618			0		377	Africa/Nouakchott	2019-01-11
+9212619	Bababe	Bababe	Bababe	16.44817	-13.93262	A	ADM2	MR		05	9212619			0		45	Africa/Nouakchott	2019-01-11
+9212620	Ould Yenge	Ould Yenge	Ould Yenge	15.67602	-11.88969	A	ADM2	MR		10	9212620			0		340	Africa/Nouakchott	2019-01-11
+9212623	Amourj	Amourj	Amourj	15.7639	-7.00961	A	ADM2	MR		01	9212623			0		263	Africa/Nouakchott	2019-01-11
+9212624	Kankossa	Kankossa	Kankossa	15.95629	-11.16317	A	ADM2	MR		03	9212624			0		164	Africa/Nouakchott	2019-01-11
+9212625	Tintane	Tintane	Tintane	15.98133	-10.31841	A	ADM2	MR		02	9212625			0		189	Africa/Nouakchott	2019-01-11
+9212627	Kobenni	Kobenni	Kobeni	15.91751	-9.45314	A	ADM2	MR		02	9212627			0		192	Africa/Nouakchott	2019-01-11
+9212628	Chinguetti	Chinguetti	Chinguity	20.59485	-12.39276	A	ADM2	MR		07	9212628			0		572	Africa/Nouakchott	2019-01-11
+9212629	Kaedi	Kaedi	Kaedi	16.01667	-13.1602	A	ADM2	MR		04	9212629			0		49	Africa/Nouakchott	2019-01-11
+9212630	Tichitt	Tichitt	Tichitt	18.64739	-9.79933	A	ADM2	MR		09	9212630			0		324	Africa/Nouakchott	2019-01-11
+9212631	M'Bagne	M'Bagne	M'Bagne	16.25753	-13.77466	A	ADM2	MR		05	9212631			0		32	Africa/Nouakchott	2019-01-11
+9212633	Moudjeria	Moudjeria	Moudjeria	17.86771	-12.19966	A	ADM2	MR		09	9212633			0		112	Africa/Nouakchott	2019-01-11
+9212634	M'Bout	M'Bout	M'Bout	15.99531	-12.52621	A	ADM2	MR		04	9212634			0		48	Africa/Nouakchott	2019-01-11
+9212635	Magta-Lahjar	Magta-Lahjar	Maghta Lahjar	17.64801	-12.91817	A	ADM2	MR		05	9212635			0		105	Africa/Nouakchott	2019-01-11
+9212637	Nouadhibou	Nouadhibou	Nouadhibou	20.92328	-16.1723	A	ADM2	MR		08	9212637			0		76	Africa/Nouakchott	2019-01-11
+9212638	Boumdeid	Boumdeid	Boumdeid	17.74736	-11.25972	A	ADM2	MR		03	9212638			0		336	Africa/Nouakchott	2019-01-12
+9212639	Akjoujt	Akjoujt	Akjoujt	19.96933	-15.00897	A	ADM2	MR		12	9212639			0		108	Africa/Nouakchott	2019-01-11
+9212641	Atar	Atar	Atar,Atar Department	20.69046	-13.38239	A	ADM2	MR		07	9212641			0		200	Africa/Nouakchott	2019-01-11
+9212642	Monguel	Monguel	Monguel	16.44431	-12.96241	A	ADM2	MR		04	9212642			0		46	Africa/Nouakchott	2019-01-11
+9212643	Zouerate	Zouerate	Zoueratt	22.74576	-12.43554	A	ADM2	MR		11	9212643			0		339	Africa/Nouakchott	2019-01-16
+9212644	Ouadane	Ouadane	Ouadane	21.45958	-10.94913	A	ADM2	MR		07	9212644			0		548	Africa/Nouakchott	2019-01-16
+9212655	Oualata	Oualata	Oualata	17.44628	-7.01165	A	ADM2	MR		01	9212655			0		326	Africa/Nouakchott	2019-01-11
+9222754	Bassiknou	Bassiknou	Bassikounou	15.85	-5.93583	A	ADM2	MR		01	9222754			0		265	Africa/Nouakchott	2019-01-11
+9222769	El Mina	El Mina	El Mina	18.06312	-15.97869	A	ADM2	MR		15	9222769			0		5	Africa/Nouakchott	2019-01-11
+9222773	Tevragh Zeina	Tevragh Zeina	TevraghZeina	18.11011	-15.99931	A	ADM2	MR		13	9222773			0		3	Africa/Nouakchott	2019-01-11
+9226673	Tamchekett	Tamchekett	Tamchekett	17.24562	-10.67017	A	ADM2	MR		02	9226673			0		192	Africa/Nouakchott	2019-01-11
+9226996	Djigueni	Djigueni	Djigueni,jkny,جكني	15.75489	-8.66544	A	ADM2	MR		01	9226996			0		226	Africa/Nouakchott	2022-08-06
+9229053	Barkeol	Barkeol	Aftout,Barkeol,Barkewol	16.63333	-12.5	A	ADM2	MR		03	9229053			0		73	Africa/Nouakchott	2019-01-11
+11996536	Chami	Chami	Chami	20.2886	-15.74408	A	ADM2	MR		08	11996536			0		58	Africa/Nouakchott	2019-01-16
+11996537	D'har	D'har	D'har	17.6529	-6.1587	A	ADM2	MR		01	11996537			0		291	Africa/Nouakchott	2019-01-11

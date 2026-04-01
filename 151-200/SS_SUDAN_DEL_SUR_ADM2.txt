@@ -1,0 +1,28 @@
+﻿363414	Province of West Equatoria	Province of West Equatoria	Al Mudiriyah al Istiwa'iyah al Gharbiyah,Al Mudīrīyah al Istiwā’īyah al Gharbīyah,Gharb al Istiwaiyya,Province of West Equatoria,Western Equatoria	5.5	28.5	A	ADM2	SS		10	363414			0		577	Africa/Juba	2012-01-19
+373249	Junqal	Junqal	Jonglei,Junglei,Junqal,Junqoley,Junqolēy,Mudiriyat Junqali,Mudīrīyat Junqalī,Province of Junqali	7.5	32	A	ADM2	SS		03	373249			0		415	Africa/Juba	2022-02-18
+377888	Mudīrīyat Baḩr al Ghazāl ash Sharqīyah	Mudiriyat Bahr al Ghazal ash Sharqiyah	Bahr al Ghazal ash Sharqiyah,Baḩr al Ghazāl ash Sharqīyah,Eastern Bahr al Ghazal,Mudiriyat Bahr al Ghazal ash Sharqiyah,Mudīrīyat Baḩr al Ghazāl ash Sharqīyah,Sharq Bahr al Ghazal,Sharq Baḥr al Ghazal	9	27.5	A	ADM2	SS		05	377888			0		425	Africa/Juba	2026-03-11
+379350	Al Mudīrīyah al Istiwā’īyah ash Sharqīyah	Al Mudiriyah al Istiwa'iyah ash Sharqiyah	Al Istiwā’īyah ash Sharqīyah,Al Mudiriyah al Istiwa'iyah ash Sharqiyah,Al Mudīrīyah al Istiwā’īyah ash Sharqīyah,AlIstiwa'iyahashSharqiyah,Eastern Equatoria Province,Province of East Equatoria,Sharq al Istiwaiyya	5	32.5	A	ADM2	SS		02	379350			0		491	Africa/Juba	2022-02-18
+381228	Mudīrīyat A‘ālī an Nīl	Mudiriyat A'ali an Nil	A'ali an Nil,A‘ālī an Nīl,Mudiriyat A`ali an Nil,Mudīrīyat A‘ālī an Nīl,Upper Nile Province	9.5	32	A	ADM2	SS		07	381228			0		396	Africa/Juba	2026-03-11
+7874619	Shobet	Shobet	Cueibet	7.24652	29.2488	A	ADM2	SS		04	7874619			0		419	Africa/Juba	2014-03-30
+7874621	Terkaka	Terkaka	Terekeka,Terekeka County	5.61892	31.44562	A	ADM2	SS		01	7874621			14000		463	Africa/Juba	2023-11-14
+8224935	Magwi County	Magwi County		4.12532	32.30148	A	ADM2	SS		02	8224935			169830		873	Africa/Juba	2020-07-14
+8299284	Juba County	Juba County		4.86016	31.56312	A	ADM2	SS		01	8299284			0		495	Africa/Juba	2020-07-14
+9406254	Budi	Budi	Budi County	4.25611	33.45611	A	ADM2	SS		02	9406254			0		1148	Africa/Juba	2023-11-14
+9409219	Ikotos	Ikotos	Ikotos County	4.07833	33.10889	A	ADM2	SS		02	9409219			0		876	Africa/Juba	2023-11-14
+9409700	Aweil East	Aweil East	Aweil East County	9	27.6	A	ADM2	SS		05	9409700			0		422	Africa/Juba	2023-11-14
+9409706	Rubkona	Rubkona	Rubkona County	9.29349	29.7892	A	ADM2	SS		06	9409706			0		400	Africa/Juba	2023-11-14
+10345217	Torit County	Torit County	Torit,Torit County,mhlyt twryt,محلية توريت	4.5	32.5	A	ADM2	SS		02	10345217			0		574	Africa/Juba	2023-11-14
+10345968	Yei County	Yei County		4.23904	30.35008	A	ADM2	SS		01	10345968			0		861	Africa/Juba	2015-07-28
+10346346	Lafon County	Lafon County		5.03323	32.46906	A	ADM2	SS		02	10346346			0		629	Africa/Juba	2020-07-14
+10375722	Maban County	Maban County		9.97917	33.75	A	ADM2	SS		07	10375722			0		453	Africa/Juba	2020-07-14
+10376722	Melut County	Melut County		10.64274	32.49155	A	ADM2	SS		07	10376722			0		392	Africa/Juba	2020-07-14
+10400458	Pochalla County	Pochalla County		7.16465	33.92583	A	ADM2	SS		03	10400458			0		439	Africa/Juba	2020-07-14
+10400481	Twic County	Twic County		9.11055	28.28613	A	ADM2	SS		08	10400481			0		404	Africa/Juba	2015-08-06
+10400482	Malakal County	Malakal County		9.63371	31.61743	A	ADM2	SS		07	10400482			0		398	Africa/Juba	2020-07-14
+10400485	Guit County	Guit County		9.24698	30.05653	A	ADM2	SS		06	10400485			0		398	Africa/Juba	2020-07-14
+10400489	Lainya County	Lainya County		4.49257	30.75846	A	ADM2	SS		01	10400489			0		834	Africa/Juba	2020-07-14
+10400490	Morobo County	Morobo County		3.66933	30.87656	A	ADM2	SS		01	10400490			0		1028	Africa/Juba	2020-07-14
+10400491	Kajo Keji County	Kajo Keji County		3.85843	31.54673	A	ADM2	SS		01	10400491			0		853	Africa/Juba	2015-08-06
+10400839	Renk County	Renk County		11.31408	33.06162	A	ADM2	SS		07	10400839			0		417	Africa/Juba	2020-07-14
+10401686	Jur River County	Jur River County		7.81427	28.0964	A	ADM2	SS		09	10401686			0		492	Africa/Juba	2020-07-14
+11592489	Uror County	Uror County		7.501	31.999	A	ADM2	SS		03	11592489			0		413	Africa/Juba	2020-07-14

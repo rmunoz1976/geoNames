@@ -1,0 +1,66 @@
+﻿2179291	Whangarei	Whangarei		-35.73333	174.33333	A	ADM2	NZ		F6	002			0		6	Pacific/Auckland	2009-06-28
+2179374	Whakatane District	Whakatane District	Whakatane,Whakatane County	-38.32442	176.78238	A	ADM2	NZ		E8	025			38300		187	Pacific/Auckland	2025-06-27
+2179466	Westland District	Westland District		-43.5	170	A	ADM2	NZ		G3	057			9270		1057	Pacific/Auckland	2025-06-27
+2179779	Waitomo District	Waitomo District	Waitomo,Waitomo County	-38.5	175	A	ADM2	NZ		G1	020			9950		185	Pacific/Auckland	2025-06-27
+2179921	Wairoa District	Wairoa District		-39.03333	177.43333	A	ADM2	NZ		F2	029			4720		51	Pacific/Auckland	2025-06-27
+2180177	Waimate District	Waimate District		-44.75	171.03333	A	ADM2	NZ		E9	066			8500		53	Pacific/Auckland	2025-06-27
+2181134	Timaru District	Timaru District		-44.4	171.21667	A	ADM2	NZ		E9	064			49500		50	Pacific/Auckland	2025-06-27
+2181244	Thames-Coromandel District	Thames-Coromandel District	Daerah Thames-Coromandel,Distretto di Thames-Coromandel,District de Thames-Coromandel,Tems-Koromandel,Thames-Coromandel,Thames-Coromandel-Distrikt,Темс-Коромандел,ضلع ٹیمز-کورومنڈل	-37	175.66667	A	ADM2	NZ		G1	011			32400		422	Pacific/Auckland	2025-06-27
+2181743	Taupo District	Taupo District		-38.68333	176.08333	A	ADM2	NZ		G1	021			42200		405	Pacific/Auckland	2025-06-27
+2182236	Stratford District	Stratford District		-39.33333	174.28333	A	ADM2	NZ		F9	034			10400		313	Pacific/Auckland	2025-06-27
+2183229	Rotorua District	Rotorua District	Rotorua,Rotorua County	-38.16667	176.33333	A	ADM2	NZ		E8	024			77100		447	Pacific/Auckland	2025-06-27
+2183713	Rangitikei District	Rangitikei District	Rangitikei	-39.66667	175.75	A	ADM2	NZ		F3	038			16200		635	Pacific/Auckland	2025-06-27
+2185244	Otorohanga District	Otorohanga District	Otorohanga,Otorohanga County	-38.25	175.33333	A	ADM2	NZ		G1	018			10750		76	Pacific/Auckland	2025-06-27
+2185506	Opotiki District	Opotiki District	Opotiki Borough	-38	177.28333	A	ADM2	NZ		E8	027			10300		6	Pacific/Auckland	2025-06-27
+2186240	New Plymouth District	New Plymouth District		-39.05865	174.10309	A	ADM2	NZ		F9	033			90300		43	Pacific/Auckland	2025-06-27
+2187238	Masterton District	Masterton District	Masterton	-40.95	175.66667	A	ADM2	NZ		G2	048			0		114	Pacific/Auckland	2012-01-13
+2188943	Kawerau District	Kawerau District		-38.09114	176.68751	A	ADM2	NZ		E8	026			0		61	Pacific/Auckland	2023-11-21
+2190223	Hastings District	Hastings District	Hastings Borough,Heretaunga	-39.63333	176.85	A	ADM2	NZ		F2	030			89200		13	Pacific/Auckland	2025-06-27
+2190612	Gore District	Gore District		-46.08333	168.93333	A	ADM2	NZ		F8	074			13000		94	Pacific/Auckland	2025-06-27
+2190766	Gisborne District	Gisborne District	Gisborne Borough	-38.66667	178.01667	A	ADM2	NZ		F1	028			0		4	Pacific/Auckland	2011-07-18
+2192570	Carterton District	Carterton District		-41.01667	175.51667	A	ADM2	NZ		G2	049			10300		80	Pacific/Auckland	2025-06-27
+2193732	Auckland	Auckland	Aucland,Aucopolis,Awklanda,Gorad Oklend,Okland,Oklandas,Oklant,Oklend,Oklenda,Okʻlend,Tamaki-makau-rau,Tāmaki-makau-rau,akalainda,akland,aklant,ao ke lan dou hui qu,awkland,awklnd,okalanda,okalenda,okeullaendeu,oklainda,okurando,wu lun,xxk lænd,yavkland,Ώκλαντ,Горад Окленд,Окланд,Окленд,Օքլենդ,אוקלנד,آوکلند,أوكلاند,ئاۋكلاند,अकलैंड,ऑकलंड,ऑक्लैण्ड,ਆਕਲੈਂਡ,ઓકલેન્ડ,ஆக்லன்ட்,ఆక్లాండ్,ಆಕ್ಲೆಂಡ್‌,ഓക്‌ലൻഡ്,ออกแลนด์,အော့ကလန်မြို့,ოკლენდი,オークランド,奧克蘭都會區,屋崙,오클랜드	-36.85582	174.74304	A	ADM2	NZ		E7	076			1530500		49	Pacific/Auckland	2025-06-27
+2193772	Ashburton District	Ashburton District		-43.9	171.75	A	ADM2	NZ		E9	063			36800		106	Pacific/Auckland	2025-06-27
+7910033	Buller District	Buller District	Buller,Buller-Distrikt,Daerah Buller,Distretto di Buller,District de Buller,Distrito de Buller,Буллер,ضلع بلر	-41.64929	172.00895	A	ADM2	NZ		G3	055			10500		299	Pacific/Auckland	2025-02-02
+7910034	Central Hawke's Bay District	Central Hawke's Bay District		-40.05568	176.53059	A	ADM2	NZ		F2	032			16050		159	Pacific/Auckland	2025-06-27
+7910035	Central Otago District	Central Otago District		-45.13088	169.60406	A	ADM2	NZ		F7	069			25500		423	Pacific/Auckland	2025-06-27
+7910036	Christchurch City	Christchurch City		-43.64578	172.74586	A	ADM2	NZ		E9	060			0		78	Pacific/Auckland	2011-07-18
+7910037	Clutha District	Clutha District		-46.03883	169.60617	A	ADM2	NZ		F7	072			19300		207	Pacific/Auckland	2025-02-01
+7910038	Dunedin City	Dunedin City		-45.64051	170.24368	A	ADM2	NZ		F7	071			0		301	Pacific/Auckland	2011-07-18
+7910039	Far North District	Far North District	Daerah Far North,Distretto di Far North,District du Far North,Far North,Far-North-Distrikt,panoseu gu,yuan bei qu,ضلع اتلا,远北区,파노스 구	-35.03359	173.48841	A	ADM2	NZ		F6	001			73500		5	Pacific/Auckland	2025-06-27
+7910040	Grey District	Grey District		-42.4094	171.66245	A	ADM2	NZ		G3	056			14400		275	Pacific/Auckland	2025-06-27
+7910041	Hamilton City	Hamilton City		-37.7779	175.25975	A	ADM2	NZ		G1	016			0		42	Pacific/Auckland	2011-07-18
+7910042	Hauraki District	Hauraki District		-37.29415	175.58022	A	ADM2	NZ		G1	012			21900		5	Pacific/Auckland	2025-06-27
+7910043	Horowhenua District	Horowhenua District		-40.57733	175.38071	A	ADM2	NZ		F3	042			38200		68	Pacific/Auckland	2025-06-27
+7910044	Hurunui District	Hurunui District		-42.66742	172.6918	A	ADM2	NZ		E9	058			14200		475	Pacific/Auckland	2025-06-27
+7910045	Invercargill City	Invercargill City		-46.48786	168.37003	A	ADM2	NZ		F8	075			0		1	Pacific/Auckland	2011-07-18
+7910046	Kaikoura District	Kaikoura District		-42.23641	173.62202	A	ADM2	NZ		E9	054			4380		2086	Pacific/Auckland	2025-06-27
+7910047	Kaipara District	Kaipara District		-35.99546	174.04688	A	ADM2	NZ		F6	003			26800		29	Pacific/Auckland	2025-06-27
+7910048	Kapiti Coast District	Kapiti Coast District		-40.85682	175.1469	A	ADM2	NZ		G2	043			57700		343	Pacific/Auckland	2025-06-27
+7910049	Lower Hutt City	Lower Hutt City		-41.28479	174.96747	A	ADM2	NZ		G2	046			0		207	Pacific/Auckland	2011-07-18
+7910050	Mackenzie District	Mackenzie District		-43.93987	170.51913	A	ADM2	NZ		E9	065			5500		710	Pacific/Auckland	2025-06-27
+7910051	Manawatu District	Manawatu District		-40.11979	175.67426	A	ADM2	NZ		F3	039			33900		199	Pacific/Auckland	2023-11-20
+7910052	Marlborough District	Marlborough District		-41.56933	173.58833	A	ADM2	NZ		F4	053			51600		343	Pacific/Auckland	2025-06-27
+7910053	Matamata-Piako District	Matamata-Piako District		-37.68545	175.67254	A	ADM2	NZ		G1	015			39100		38	Pacific/Auckland	2025-06-27
+7910054	Napier City	Napier City		-39.47933	176.86887	A	ADM2	NZ		F2	031			0		5	Pacific/Auckland	2011-07-18
+7910055	Nelson City	Nelson City		-41.22227	173.3876	A	ADM2	NZ		F5	052			0		139	Pacific/Auckland	2011-07-18
+7910056	Palmerston North City	Palmerston North City		-40.4019	175.64397	A	ADM2	NZ		F3	040			0		69	Pacific/Auckland	2011-07-18
+7910057	Porirua City	Porirua City		-41.08403	174.88316	A	ADM2	NZ		G2	044			0		63	Pacific/Auckland	2011-07-18
+7910058	Queenstown-Lakes District	Queenstown-Lakes District		-44.66149	168.91809	A	ADM2	NZ		F7	070			52900		1108	Pacific/Auckland	2025-06-27
+7910059	Ruapehu District	Ruapehu District	Daerah Ruapehu,Distretto di Ruapehu,District de Ruapehu,Ruapehu,Ruapehu-Distrikt,ضلع رواپیہو	-39.08854	175.408	A	ADM2	NZ		F3	036			13550		585	Pacific/Auckland	2025-02-01
+7910060	Selwyn District	Selwyn District	Daerah Selwyn,Distretto di Selwyn,District de Selwyn,Seluin,Selwyn-Distrikt,sel-win gu,Селуин,ضلع سلوائن,셀윈 구	-43.32226	171.87064	A	ADM2	NZ		E9	062			85200		447	Pacific/Auckland	2025-06-27
+7910061	Southland District	Southland District		-45.77256	167.85266	A	ADM2	NZ		F8	073			33300		1116	Pacific/Auckland	2025-06-27
+7910062	South Taranaki District	South Taranaki District	Daerah Taranaki Selatan,Distretto di South Taranaki,District de South Taranaki,South-Taranaki-Distrikt,nan ta la na ji qu,ضلع تھلواں ٹاراناکی,南塔拉纳基区	-39.52156	174.3716	A	ADM2	NZ		F9	035			29900		234	Pacific/Auckland	2025-06-27
+7910063	South Waikato District	South Waikato District		-38.16797	175.88624	A	ADM2	NZ		G1	019			25900		351	Pacific/Auckland	2025-06-27
+7910064	South Wairarapa District	South Wairarapa District		-41.26731	175.38442	A	ADM2	NZ		G2	050			12250		24	Pacific/Auckland	2025-06-27
+7910065	Tasman District	Tasman District		-41.30189	172.69586	A	ADM2	NZ		TAS	051			59800		313	Pacific/Auckland	2025-06-27
+7910066	Tauranga City	Tauranga City		-37.69733	176.2445	A	ADM2	NZ		E8	023			0		45	Pacific/Auckland	2011-07-18
+7910067	Upper Hutt City	Upper Hutt City		-41.08777	175.13286	A	ADM2	NZ		G2	045			0		96	Pacific/Auckland	2011-07-18
+7910068	Waikato District	Waikato District	Daerah Waikato,Distretto di Waikato,District du Waikato,Waikato-Distrikt,huai ka tuo qu,ضلع وائیکاٹو,怀卡托区	-37.51578	175.10095	A	ADM2	NZ		G1	013			90600		29	Pacific/Auckland	2025-06-27
+7910069	Waimakariri District	Waimakariri District	Daerah Waimakariri,Distretto di Waimakariri,District de Waimakariri,Uaimakariri,Waimakariri-Distrikt,Уаимакарири,ضلع وائیماکاریری	-43.2075	172.33286	A	ADM2	NZ		E9	059			69000		240	Pacific/Auckland	2025-06-27
+7910070	Waipa District	Waipa District		-37.98385	175.35818	A	ADM2	NZ		G1	017			61400		54	Pacific/Auckland	2025-06-27
+7910071	Whanganui District	Whanganui District	Wanganui District	-39.63554	175.14082	A	ADM2	NZ		F3	037			48900		418	Pacific/Auckland	2025-06-27
+7910072	Wellington City	Wellington City		-41.253	174.75424	A	ADM2	NZ		G2	047			209900		223	Pacific/Auckland	2025-06-27
+7910073	Western Bay of Plenty District	Western Bay of Plenty District		-37.77387	176.1612	A	ADM2	NZ		E8	022			60800		77	Pacific/Auckland	2025-06-27
+11694796	Tararua District	Tararua District		-40.47777	176.09917	A	ADM2	NZ		F3	041			19050		622	Pacific/Auckland	2025-06-27
+11694798	Waitaki District	Waitaki District		-44.95994	170.5545	A	ADM2	NZ		E9	068			24300		346	Pacific/Auckland	2025-06-27

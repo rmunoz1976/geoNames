@@ -1,0 +1,156 @@
+﻿1162104	Zhob District	Zhob District	Fort Sandeman,Zhob,Zhob Agency,Zhob District,dlʿ zhwb,zhwb wlswalۍ,ضلع ژوب,ژوب ولسوالۍ	31.36444	69.20749	A	ADM2	PK		02	1162104			355692		1556	Asia/Karachi	2025-02-02
+1163052	Kech District	Kech District	Kech,Kech District,Turbat District,kych,کیچ	26.01791	63.11031	A	ADM2	PK		02	1163052			1060931		152	Asia/Karachi	2025-02-02
+1163570	Thatta District	Thatta District	Distretto di Thatta,District de Thatta,Dystrykt Thatta,Tatta,Tatta District,Thatta,Thatta District,te da xian,Татта,ضلع ٹھٹہ,ٺٽو ضلعو,特达县	24.49026	67.92284	A	ADM2	PK		05	1163570			1083191		8	Asia/Karachi	2025-02-02
+1163602	Thar Parkar District	Thar Parkar District	Thar Parkar,Thar Parkar District	24.82085	70.18002	A	ADM2	PK		05	1163602			1778407		69	Asia/Karachi	2025-02-03
+1164211	Swat	Swat	Sawat,Swat,Swat District	35.2416	72.49933	A	ADM2	PK		03	1164211			2687384		2586	Asia/Karachi	2025-02-03
+1164407	Sukkur District	Sukkur District	Sukkur,Sukkur District	27.49959	69.14697	A	ADM2	PK		05	1164407			1625467		56	Asia/Karachi	2025-02-03
+1164536	South Waziristan Agency	South Waziristan Agency	South Waziristan,South Waziristan Agency,South Waziristan District,South Waziristan Tribal Territory,South Wazīristan District,Wana	32.30397	69.68207	A	ADM2	PK		03	1164536			888675		1608	Asia/Karachi	2025-02-03
+1164895	Sibi District	Sibi District	Sibi,Sibi District,dlʿ sby,sby,سبی,ضلع سبی	29.55673	67.91611	A	ADM2	PK		02	1164895			224148		132	Asia/Karachi	2025-02-03
+1164908	Sialkot	Sialkot	Sialkot,Sialkot District	32.44333	74.56817	A	ADM2	PK		04	1164908			4499394		247	Asia/Karachi	2025-02-02
+1165106	Shikarpur District	Shikarpur District	Shikarpur,Shikarpur District	27.95321	68.60919	A	ADM2	PK		05	1165106			1386330		64	Asia/Karachi	2025-02-02
+1165218	Shekhupura District	Shekhupura District	Sheikhupura,Shekhupura,Shekhupura District,Shekhūpura,dlʿ shykhwpwrہ,ضلع شیخوپورہ	31.70969	74.1382	A	ADM2	PK		04	1165218			4049418		207	Asia/Karachi	2025-02-02
+1165999	Sargodha District	Sargodha District	Sargodha,Sargodha District,Shahpur District,Shāhpur District	32.08958	72.71974	A	ADM2	PK		04	1165999			4334448		188	Asia/Karachi	2025-02-02
+1166162	Sanghar	Sanghar	Sanghar,Sanghar District	25.97964	69.29361	A	ADM2	PK		05	1166162			2308465		14	Asia/Karachi	2025-02-02
+1166545	Sahiwal District	Sahiwal District	Montgomery District,Sahiwal District	30.54824	72.91365	A	ADM2	PK		04	1166545			2881811		167	Asia/Karachi	2025-02-02
+1166991	Rawalpindi District	Rawalpindi District	District de Rawalpindi,Distrito de Rawalpindi,Ravalpindi,Rawalpindi District,dilʿ rawlpinڈy,la wa er pin di xian,ravalapindi zila,ravalpinti mavattam,Равалпинди,ضِلع راولپِنڈى,रावलपिंडी ज़िला,ராவல்பிண்டி மாவட்டம்,拉瓦尔品第县	33.42987	73.23092	A	ADM2	PK		04	1166991			6118911		562	Asia/Karachi	2025-02-03
+1167458	Rahimyar Khan	Rahimyar Khan	Rahim Yar Khan,Rahimyar Khan,Rahimyar Khan District	28.4602	70.52837	A	ADM2	PK		04	1167458			5564703		81	Asia/Karachi	2025-02-03
+1167527	Quetta District	Quetta District	Quetta,Quetta District,کوئٹہ	30.17458	66.76203	A	ADM2	PK		02	1167527			2272290		1638	Asia/Karachi	2025-02-04
+1167717	Poonch District	Poonch District	Poonch,Poonch District,Poonch Jagir,Poonch-Rajouri,Punch,Punch District,Punch Jagir,Pūnch,Pūnch District,Pūnch Jāgīr,bwnsh,bwntsh,dlʿ pwnchھ‎,mqatʿt bwnsh,mqatʿt bwntsh,pwnchھ,بونتش,بونش,ضلع پونچھ‎,مقاطعة بونتش,مقاطعة بونش,پونچھ	33.81691	73.8252	A	ADM2	PK		06	1167717			0		1962	Asia/Karachi	2019-03-18
+1167820	Pishin District	Pishin District	Pishin,Pishin District,dlʿ pshyn,pshyn,ضلع پشین,پشین	30.81809	67.21389	A	ADM2	PK		02	1167820			736903		2005	Asia/Karachi	2023-10-26
+1168195	Peshawar District	Peshawar District	Peshawar,Peshawar District	33.98512	71.55784	A	ADM2	PK		03	1168195			4331959		355	Asia/Karachi	2023-10-26
+1168444	Panjgur District	Panjgur District	Panjgur District,pnjgwr,پنجگور	26.7375	64.2038	A	ADM2	PK		02	1168444			509781		1012	Asia/Karachi	2025-02-02
+1168705	Orakzai Agency	Orakzai Agency	Orakzai,Orakzai Agency	33.70777	71.00238	A	ADM2	PK		03	1168705			387561		2178	Asia/Karachi	2025-02-03
+1168875	North Wazīristān District	North Waziristan District	North Waziristan,North Waziristan Agency,North Waziristan District,North Wazīristān District,Tochi	32.95087	69.95764	A	ADM2	PK		03	1168875			693137		1123	Asia/Karachi	2025-02-03
+1169115	Nawabshah District	Nawabshah District	Nawabshah,Nawabshah District,Shaheed Benazirabad	26.36655	68.31772	A	ADM2	PK		05	1169115			1845102		32	Asia/Karachi	2025-02-03
+1169249	Nasirabad	Nasirabad	Nasirabad,Nasirabad District,nasr abad,ناصر آباد	28.62643	68.12925	A	ADM2	PK		02	1169249			563315		70	Asia/Karachi	2025-02-03
+1169603	Muzaffargarh District	Muzaffargarh District	Muzaffargarh,Muzaffargarh District	30.03739	71.05876	A	ADM2	PK		04	1169603			3528567		116	Asia/Karachi	2025-02-03
+1169606	Muzaffarabad District	Muzaffarabad District	Muzaffarabad,Muzaffarabad District	34.3428	73.58986	A	ADM2	PK		06	1169606			0		2148	Asia/Karachi	2023-10-26
+1169821	Multān District	Multan District	Multan,Multan District	29.93312	71.38607	A	ADM2	PK		04	1169821			5362305		116	Asia/Karachi	2025-02-03
+1170122	Mohmand Agency	Mohmand Agency	Agence de Mohmand,Agencia de Mohmand,Agencja Mohmand,Agència de Mohmand,Mohmand,Mohmand Agency,Mohmand District,Mohmand-distriktet,Mokhmand,mo he man de te qu,Мохманд,مہمند,مہمند ایجنسی,莫赫曼德特区	34.46386	71.35116	A	ADM2	PK		03	1170122			553933		656	Asia/Karachi	2025-02-04
+1170297	Mirpur District	Mirpur District	Mirpur,Mirpur District,Mīrpur,Mīrpur District	33.21556	73.75144	A	ADM2	PK		06	1170297			0		336	Asia/Karachi	2012-02-22
+1170424	Mianwali	Mianwali	Mianwali,Mianwali District	32.70126	71.51325	A	ADM2	PK		04	1170424			1795897		199	Asia/Karachi	2025-02-03
+1170875	Mardan	Mardan	Mardan,Mardan District	34.30671	72.09042	A	ADM2	PK		03	1170875			2744898		339	Asia/Karachi	2025-02-03
+1170950	Mānsehra District	Mansehra District	Mansehra,Mansehra District	34.64827	73.4647	A	ADM2	PK		03	1170950			1797177		2021	Asia/Karachi	2025-02-03
+1171388	Malakand Protected Area	Malakand Protected Area	Malakand,Malakand Agency,Malakand District,Malakand Protected Area,Swat and Chitral Agency Dir	34.53635	71.8847	A	ADM2	PK		03	1171388			0		531	Asia/Karachi	2012-01-17
+1171867	Loralai District	Loralai District	Loralai,Loralai Agency,Loralai District,dlʿ lwralayy,ضلع لورالائی	30.30253	68.84636	A	ADM2	PK		02	1171867			272432		1291	Asia/Karachi	2025-02-02
+1172115	Lasbela District	Lasbela District	Distretto di Lasbela,District de Lasbela,Dystrykt Lasbela,Las Beila,Las Bella,Las-Eela,Lasbela,Lasbela District,la si bei la xian,lasabela zila,Ласбела,ضلع لس بیلہ,ضلع لسبیلہ,لسبېله ولسوالۍ,लसबेला ज़िला,拉斯贝拉县	25.78634	66.6033	A	ADM2	PK		02	1172115			680977		31	Asia/Karachi	2025-02-02
+1172127	Larkana	Larkana	Larkana,Larkana District	27.52111	68.19208	A	ADM2	PK		05	1172127			1784453		51	Asia/Karachi	2025-02-02
+1172449	Lahore District	Lahore District	Lahore,Lahore District,dlʿ laہwr,dlʿ lہwr,ضلع لاہور,ضلع لہور	31.48627	74.3979	A	ADM2	PK		04	1172449			12978661		218	Asia/Karachi	2025-02-03
+1172574	Kurram District	Kurram District	Kurram,Kurram Agency,Kurram District,dilʿ krm,kwrmہ wlswalۍ,ضِلع کرم,کورمہ ولسوالۍ	33.71017	70.3401	A	ADM2	PK		03	1172574			615372		1197	Asia/Karachi	2022-03-30
+1173037	Kotli District	Kotli District	Ketli,Kotli,Kotli District	33.44559	73.91557	A	ADM2	PK		06	1173037			774194		910	Asia/Karachi	2019-11-28
+1173463	Kohlu District	Kohlu District	Kohlu,Kohlu Agency,Kohlu District,dlʿ kwہlw,ضلع کوہلو	29.64414	68.80721	A	ADM2	PK		02	1173463			213933		1008	Asia/Karachi	2022-04-01
+1173489	Kohat	Kohat	Kohat,Kohat District	33.44911	71.54394	A	ADM2	PK		03	1173489			1234661		424	Asia/Karachi	2025-02-03
+1173641	Khyber Agency	Khyber Agency	Agence de Khyber,Khyber,Khyber Agency,Khyber District	33.96113	71.0577	A	ADM2	PK		03	1173641			986973		1357	Asia/Karachi	2019-11-28
+1173663	Khuzdār District	Khuzdar District	Khuzdar,Khuzdar District	27.4868	66.58703	A	ADM2	PK		02	1173663			997214		1900	Asia/Karachi	2025-02-02
+1174059	Khārān District	Kharan District	Kharan District,dlʿ kharan,kharan,خاران,ضلع خاران	28.60862	65.53123	A	ADM2	PK		02	1174059			260352		720	Asia/Karachi	2025-02-02
+1174349	Khairpur District	Khairpur District	Distretto di Khairpur,District de Khairpur,Dystrykt Khairpur,Khairpur,Khairpur District,Khajrpur,kai er bu er xian,Хайрпур,خيرپور ضلعو,ضلع خیرپور,凯尔布尔县	26.83477	69.06444	A	ADM2	PK		05	1174349			2597535		63	Asia/Karachi	2025-02-02
+1174623	Kasur	Kasur	Kasur,Kasur District,dlʿ qswr,ضلع قصور	31.00695	74.13534	A	ADM2	PK		04	1174623			4084286		189	Asia/Karachi	2025-02-03
+1175293	Kalat	Kalat	Kalat,Kalat District,Qalat,dlʿ qlat,qlat,ضلع قلات,قلات	28.88242	66.53165	A	ADM2	PK		02	1175293			271560		2167	Asia/Karachi	2025-02-03
+1175527	Kachhi District	Kachhi District	Bolan,Kachhi District,Kuchhi District,dilʿ bwlan,dlʿ kchھy,ضلع کچّھی,ضِلع بولان	29.50385	67.49516	A	ADM2	PK		02	1175527			442674		470	Asia/Karachi	2025-02-02
+1175862	Jhelum District	Jhelum District	Jhelum,Jhelum District,dlʿ jہlm,ضلع جہلم	32.8205	73.356	A	ADM2	PK		04	1175862			1382308		346	Asia/Karachi	2025-02-02
+1175906	Jhang District	Jhang District	Jhang,Jhang District,Jhang Maghiana District,Jhang Maghiāna District,jھng,جھنگ	31.32804	72.35501	A	ADM2	PK		04	1175906			3077720		157	Asia/Karachi	2025-02-02
+1176514	Jacobabad District	Jacobabad District	Jacobabad,Jacobabad District,Upper Sind Frontier District,dlʿ jykb abad,jaikababada zila,jyڪb abad dlʿw,ya ge bu a ba de xian,جيڪب آباد ضلعو,ضلع جیکب آباد,जैकबाबाद ज़िला,雅各布阿巴德县	28.2221	68.4902	A	ADM2	PK		05	1176514			1174097		58	Asia/Karachi	2025-02-03
+1176733	Hyderabad District	Hyderabad District	Hyderabad,Hyderabad District	25.43244	68.48421	A	ADM2	PK		05	1176733			2432540		22	Asia/Karachi	2025-02-02
+1176775	Hunza-Nagar District	Hunza-Nagar District	Hunza,Hunza-Nagar,Hunza-Nagar District,dlʿ ہnzہ,ضلع ہنزہ	36.49721	75.00414	A	ADM2	PK		07	1176775			80355		3660	Asia/Karachi	2022-04-01
+1177445	Gwadar	Gwadar	Gwadar,Gwadar District,dlʿ gwadr,ضلع گوادر	25.39336	63.18104	A	ADM2	PK		02	1177445			305160		60	Asia/Karachi	2025-02-02
+1177651	Gujrāt District	Gujrat District	Gujrat,Gujrat District,dlʿ gjrat,ضلع گجرات	32.70049	74.05447	A	ADM2	PK		04	1177651			2756289		257	Asia/Karachi	2023-10-26
+1177658	Gujrānwāla District	Gujranwala District	Gujranwala,Gujranwala District,gujranwala,گُوجرانوالا	32.1885	74.05362	A	ADM2	PK		04	1177658			4966338		219	Asia/Karachi	2025-02-02
+1178336	Gilgit District	Gilgit District		36.25	74.25	A	ADM2	PK		07	1178336			0		2731	Asia/Karachi	2020-08-30
+1179399	Faisalābād District	Faisalabad District	Faisalabad,Faisalabad District,Lyallpur District,dlʿ fysl abad,ضلع فیصل آباد	31.23089	73.19753	A	ADM2	PK		04	1179399			9075819		180	Asia/Karachi	2025-02-02
+1179754	Upper Dir District	Upper Dir District	Dir District,Upper Dir,Upper Dir District	35.30879	72.04692	A	ADM2	PK		03	1179754			1083566		1820	Asia/Karachi	2025-02-03
+1180280	Dera Ismail Khan Tribal Area	Dera Ismail Khan Tribal Area	D. I. Khan Tribal Area,D. I. Khān Tribal Area,Dera Ismail Khan Division,Dera Ismail Khan Frontier Region,Dera Ismail Khan Tribal Area,Dera Ismāīl Khān Division,Dera Ismāīl Khān Frontier Region,Tribal Area Adjoining Dera Ismail Khan District,Tribal Area Adjoining Dera Ismāīl Khān District	31.55687	70.16485	A	ADM2	PK		03	1180280			0		650	Asia/Karachi	2023-10-26
+1180282	Dera Ismail Khan	Dera Ismail Khan	D. I. Khan District,Dera Ismail Khan,Dera Ismail Khan District	31.85963	70.64879	A	ADM2	PK		03	1180282			1822916		194	Asia/Karachi	2025-02-03
+1180287	Dera Ghāzi Khān District	Dera Ghazi Khan District	Dera Ghazi Khan,Dera Ghazi Khan District,Dera Ghazi Khan Division,Dera Ghāzi Khān District,Dera Ghāzi Khān Division	30.475	70.40447	A	ADM2	PK		04	1180287			11014398		528	Asia/Karachi	2023-10-26
+1180802	Dadu	Dadu	Dadu,Dadu District	26.87326	67.50895	A	ADM2	PK		05	1180802			1742307		57	Asia/Karachi	2025-02-03
+1181064	Chitrāl District	Chitral District	Chitral,Chitral Agency,Chitral District,Chitrāl Agency	36.25829	72.24302	A	ADM2	PK		03	1181064			447362		2374	Asia/Karachi	2023-10-26
+1181950	Chāgai District	Chagai District	Chagai,Chagai Agency,Chagai District	28.98765	63.59087	A	ADM2	PK		02	1181950			269192		905	Asia/Karachi	2025-02-02
+1182146	Buner District	Buner District	Buner,Buner District,District de Buner,Districte de Buner,Dystrykt Buner,bu nei er xian,bunera,bunera jil'ha,Бунер,بونير ضلعو,بونير ولسوالۍ,ضلع بونیر,बुनेर,बूनेर जिल्हा,布内尔县	34.44301	72.49933	A	ADM2	PK		03	1182146			1016869		728	Asia/Karachi	2025-02-04
+1183459	Bannu District	Bannu District	Bannu,Bannu District	32.90357	70.63676	A	ADM2	PK		03	1183459			1357890		342	Asia/Karachi	2025-02-03
+1183615	Skardu	Skardu	Baltistan District,Baltistān District,Skardu,Skardu District,dlʿ skrdw,ضلع سکردو	35.40116	75.62633	A	ADM2	PK		07	1183615			214848		4452	Asia/Karachi	2023-10-27
+1183781	Bājaur Agency	Bajaur Agency	Bajaur,Bajaur Agency	34.75732	71.49067	A	ADM2	PK		03	1183781			1090987		924	Asia/Karachi	2023-10-26
+1183876	Bahāwalpur District	Bahawalpur District	Bahawalpur,Bahawalpur District	28.83993	71.71272	A	ADM2	PK		04	1183876			4284964		111	Asia/Karachi	2025-02-02
+1183882	Bahāwalnagar District	Bahawalnagar District	Bahawalnagar,Bahawalnagar District	29.64106	73.02531	A	ADM2	PK		04	1183882			3550342		154	Asia/Karachi	2025-02-02
+1184051	Badīn District	Badin District	Badin,Badin District,Badīn	24.72437	68.87457	A	ADM2	PK		05	1184051			1947081		9	Asia/Karachi	2025-02-02
+1184248	Attock District	Attock District	Altock,Attock,Attock District,Campbellpur District	33.50812	72.33416	A	ADM2	PK		04	1184248			2133005		389	Asia/Karachi	2025-02-02
+1185055	Abbottābād District	Abbottabad District	Abbottabad,Abbottabad District,Rajon Abbotabad,Район Абботабад	34.09497	73.26043	A	ADM2	PK		03	1185055			1419072		1074	Asia/Karachi	2025-02-03
+1376894	Mirpur Khas District	Mirpur Khas District	Mirpur Khas District,dilʿ mirpurkhas,dlʿw myrpwrkhas,ضلعو ميرپورخاص,ضِلع مِيرپُورخاص	25.5508	69.00307	A	ADM2	PK		05	1376894			1681386		16	Asia/Karachi	2025-02-02
+6641896	Awārān District	Awaran District	Awaran,Awaran District,awaran,آواران	26.21157	65.42944	A	ADM2	PK		02	6641896			178958		343	Asia/Karachi	2025-02-02
+6641912	Barkhan District	Barkhan District	Barkhan,Barkhan District,بارکھان	29.98482	69.69944	A	ADM2	PK		02	6641912			210249		1208	Asia/Karachi	2025-02-03
+6641919	Dera Bugti District	Dera Bugti District	Dera Bugti,Dera Bugti District	28.9425	69.06883	A	ADM2	PK		02	6641919			355274		965	Asia/Karachi	2025-02-03
+6641922	Jāfarābād District	Jafarabad District	Jafarabad,Jafarabad District,جعفر آباد	28.30104	68.19783	A	ADM2	PK		02	6641922			513972		54	Asia/Karachi	2023-10-26
+6641923	Jhal Magsi District	Jhal Magsi District	Jhal Magsi,Jhal Magsi District,Kachhi District	28.36881	67.543	A	ADM2	PK		02	6641923			203368		66	Asia/Karachi	2025-02-03
+6641952	Mastung District	Mastung District	Mastung,Mastung District	29.79455	66.72068	A	ADM2	PK		02	6641952			313271		1680	Asia/Karachi	2025-02-03
+6641955	Musa Khel District	Musa Khel District	Musa Khel,Musa Khel District,Musakhail	30.84937	69.90069	A	ADM2	PK		02	6641955			182275		1303	Asia/Karachi	2025-02-03
+6641960	Nushki District	Nushki District	Nushki District	29.5	65.66667	A	ADM2	PK		02	6641960			178947		898	Asia/Karachi	2022-03-30
+6641961	Qila Abdullah District	Qila Abdullah District	Killa Abdullah,Killa Abdullah District,Qila Abdullah,Qila Abdullah District,Qilla Abdullah,قلعہ عبد الله‎	30.69854	66.55611	A	ADM2	PK		02	6641961			361971		1752	Asia/Karachi	2025-02-03
+6641963	Qila Saifullah	Qila Saifullah	Killa Saifullah,Killa Saifullah District,Qila Saifullah,Qila Saifullah District,Qilla Saifullah	30.95392	68.33996	A	ADM2	PK		02	6641963			380200		1935	Asia/Karachi	2025-02-03
+6641965	Wāshuk District	Washuk District	Washuk,Washuk District,Wasuk	27.75	64.5	A	ADM2	PK		02	6641965			302623		597	Asia/Karachi	2025-02-02
+6641972	Ziārat District	Ziarat District	Ziarat,Ziarat District	30.43591	67.50962	A	ADM2	PK		02	6641972			160095		1906	Asia/Karachi	2023-10-26
+7331706	Toba Tek Singh District	Toba Tek Singh District	Toba Tek Singh,Toba Tek Singh District	30.92857	72.53692	A	ADM2	PK		04	7331706			2524044		160	Asia/Karachi	2025-02-04
+7352189	Naushahro Firoz	Naushahro Firoz	Naushahro,Naushahro Feroze District,Naushahro Firoz,Naushahro Firoz District	26.8756	68.12067	A	ADM2	PK		05	7352189			1777082		46	Asia/Karachi	2025-02-03
+7418822	Ghotki District	Ghotki District	Ghotki,Ghotki District	27.81569	69.65807	A	ADM2	PK		05	7418822			1772609		73	Asia/Karachi	2025-02-02
+7418846	Lodhrān District	Lodhran District	Lodhran,Lodhran District	29.68691	71.6902	A	ADM2	PK		04	7418846			1928299		117	Asia/Karachi	2025-02-03
+7418850	Pākpattan District	Pakpattan District	Pakpattan,Pakpattan District,dlʿ pakptn,ضلع پاکپتّن	30.30098	73.26013	A	ADM2	PK		04	7418850			2136170		161	Asia/Karachi	2025-02-03
+7418888	Okāra District	Okara District	Okara,Okara District	30.70939	73.68882	A	ADM2	PK		04	7418888			3515490		175	Asia/Karachi	2025-02-03
+7418890	Khānewāl District	Khanewal District	Khanewal,Khanewal District,dlʿ khanywal,ضلع خانیوال	30.37339	72.06096	A	ADM2	PK		04	7418890			3364077		146	Asia/Karachi	2025-02-03
+7418962	Hāfizābād District	Hafizabad District	Hafizabad,Hafizabad District,dlʿ hafz abad,ضلع حافظ آباد	32.02191	73.51315	A	ADM2	PK		04	7418962			1319909		198	Asia/Karachi	2025-02-03
+7418963	Mandi Bahāuddīn District	Mandi Bahauddin District	Mandi Bahauddin,Mandi Bahauddin District	32.44206	73.46183	A	ADM2	PK		04	7418963			1829486		214	Asia/Karachi	2025-02-04
+7418964	Chakwal District	Chakwal District	Chakwal,Chakwal District,dlʿ chkwal,ضلع چکوال	32.89779	72.53114	A	ADM2	PK		04	7418964			1132608		483	Asia/Karachi	2025-02-03
+7418965	Khushab	Khushab	Khushab,Khushab District,dilʿ khushab,ضِلع خُوشاب	32.18259	72.111	A	ADM2	PK		04	7418965			1501089		185	Asia/Karachi	2025-02-03
+7418966	Bhakkar District	Bhakkar District	Bhakkar,Bhakkar District,Bhakkarin piirikunta,Bkhakkar,Distretto di Bhakkar,District de Bhakkar,ba ka er xian,Бхаккар,بهکر ولسوالۍ,ضلع بھکر,ضلع پکھر,巴卡尔县	31.64699	71.43428	A	ADM2	PK		04	7418966			1957470		173	Asia/Karachi	2025-02-03
+7418967	Layyah District	Layyah District	Layyah District	30.968	70.943	A	ADM2	PK		04	7418967			1823995	143	147	Asia/Karachi	2022-04-01
+7418968	Nārowāl District	Narowal District	Narowal,Narowal District	32.21114	74.95318	A	ADM2	PK		04	7418968			1950954		247	Asia/Karachi	2025-02-03
+7419039	Lakki Marwat District	Lakki Marwat District	Lakki Marwat,Lakki Marwat District	32.59921	70.85119	A	ADM2	PK		03	7419039			1040856		275	Asia/Karachi	2025-02-04
+7419040	Tank	Tank	Tank,Tank District	32.24	70.39256	A	ADM2	PK		03	7419040			470293		266	Asia/Karachi	2025-02-03
+7419041	Tank Frontier Region	Tank Frontier Region	Tank Frontier Region,Tank Tribal Area,Tribal Area Adjoining Tank District	32.46451	70.30597	A	ADM2	PK		03	7419041			0		682	Asia/Karachi	2023-10-26
+7419043	Bannu Tribal Area	Bannu Tribal Area	Bannu Frontier Region,Bannu Tribal Area,Tribal Area Adjoining Bannu District	33.11444	70.6087	A	ADM2	PK		03	7419043			0		507	Asia/Karachi	2019-11-26
+7419044	Lakki Marwat Tribal Area	Lakki Marwat Tribal Area	Lakki Marwat Frontier Region,Lakki Marwat Tribal Area,Tribal Area Adjoining Lakki Marwat District	32.64131	70.37694	A	ADM2	PK		03	7419044			0		822	Asia/Karachi	2019-12-10
+7419047	Karak District	Karak District	District de Karak,Dystrykt Karak,Karak,Karak District,ka la ke xian,karaka zila,Карак,ضلع کرک,کرک ولسوالۍ,ڪرڪ ضلعو,करक ज़िला,喀拉克县	33.13609	71.08336	A	ADM2	PK		03	7419047			815878		680	Asia/Karachi	2025-02-04
+7419048	Hangu District	Hangu District	Hangu District	33.44718	70.88772	A	ADM2	PK		03	7419048			518811		996	Asia/Karachi	2022-03-30
+7419049	Peshawar Frontier Region	Peshawar Frontier Region	Peshawar Frontier Region,Peshawar Tribal Area,Tribal Area Adjoining Peshawar District	33.74097	71.74599	A	ADM2	PK		03	7419049			0		1146	Asia/Karachi	2023-10-26
+7419050	Tribal Area Adjoining Kohat District	Tribal Area Adjoining Kohat District	Kohat Frontier Region,Kohat Tribal Area,Tribal Area Adjoining Kohat District	33.66399	71.59205	A	ADM2	PK		03	7419050			0		1027	Asia/Karachi	2023-10-26
+7419051	Chārsadda District	Charsadda District	Charsadda,Charsadda District	34.25102	71.69037	A	ADM2	PK		03	7419051			1835504		325	Asia/Karachi	2025-02-04
+7419052	Nowshera District	Nowshera District	District de Nowshera,Dystrykt Nowshera,Naushera,Nowshera,Nowshera District,nao xie la xian,shhrstan nwshhrh,Наушера,شهرستان نوشهره,ضلع نوشہرہ,نوشهره ضلعو,نوښار ولسوالۍ,瑙谢拉县	33.92538	71.98092	A	ADM2	PK		03	7419052			1740705		494	Asia/Karachi	2025-02-04
+7419053	Shāngla District	Shangla District	Shangla,Shangla District	34.68516	72.70139	A	ADM2	PK		03	7419053			759609		800	Asia/Karachi	2023-10-26
+7419054	Harīpur District	Haripur District	Haripur,Haripur District	33.9459	72.91146	A	ADM2	PK		03	7419054			1173056		527	Asia/Karachi	2025-02-03
+7419055	Swābi District	Swabi District	Swabi,Swabi District	34.14133	72.47665	A	ADM2	PK		03	7419055			156496		383	Asia/Karachi	2025-02-04
+7419056	Lower Dīr District	Lower Dir District	Lower Dir,Lower Dir District	34.85194	71.85335	A	ADM2	PK		03	7419056			1650183		757	Asia/Karachi	2025-02-04
+7419077	Ghanche District	Ghanche District	Ghanche,Ghanche District,dlʿ ganchھے,ضلع گانچھے,གངས་ཅ,གངས་ཅེ	35.21695	76.42429	A	ADM2	PK		07	7419077			88366		2545	Asia/Karachi	2022-04-01
+7419156	Jāmshoro District	Jamshoro District	Jamshoro,Jamshoro District	25.74112	67.81364	A	ADM2	PK		05	7419156			1117308		232	Asia/Karachi	2025-02-02
+7419157	Matiāri District	Matiari District	Matiari,Matiari District	25.87582	68.41338	A	ADM2	PK		05	7419157			849383		28	Asia/Karachi	2025-02-03
+7419159	Nankāna Sāhib District	Nankana Sahib District	Nankana Sahib,Nankana Sahib District	31.48198	73.69882	A	ADM2	PK		04	7419159			1634871		192	Asia/Karachi	2025-02-04
+7536187	Bhimbar District	Bhimbar District	Bhimbar,Bhimbar District,Bhimber	33.00941	74.11762	A	ADM2	PK		06	7536187			420624		393	Asia/Karachi	2019-11-28
+7536188	Bagh	Bagh	Bagh,Bagh District	33.99611	73.75769	A	ADM2	PK		06	7536188			0		1561	Asia/Karachi	2023-10-26
+8061265	Tor Ghar	Tor Ghar	Kala Dhaka,Tor Ghar,Torghar District	34.55872	72.85207	A	ADM2	PK		03	8061265			171349		1525	Asia/Karachi	2022-03-30
+8199376	Neelum District	Neelum District	Neelum,Neelum District	34.93	74.504	A	ADM2	PK		06	8199376			216000		3964	Asia/Karachi	2025-02-03
+8224052	Battagram District	Battagram District	Batgram,Battagram,Battagram District	34.68051	73.00535	A	ADM2	PK		03	8224052			554133		1071	Asia/Karachi	2025-02-04
+8309731	Rājanpur	Rajanpur	Rajanpur,Rājanpur,dilʿ rajn pur,ضِلع راجن پُور	29.15928	70.15183	A	ADM2	PK		04	8309731			2323980		108	Asia/Karachi	2025-02-03
+8309748	Astor	Astor	Astore District,dlʿ astwr,ضلع استور	35.31352	74.92388	A	ADM2	PK		07	8309748			71666		4176	Asia/Karachi	2022-04-01
+8309754	Haveli	Haveli		33.92591	74.11295	A	ADM2	PK		06	8309754			152124		1904	Asia/Karachi	2019-11-28
+8309755	Hatian	Hatian		34.17282	73.84699	A	ADM2	PK		06	8309755			230529		1418	Asia/Karachi	2019-11-28
+8309758	Harnai	Harnai	dlʿ ہrnayy,hrnay,ضلع ہرنائی,هرنای	30.16616	67.68111	A	ADM2	PK		02	8309758			97052		1158	Asia/Karachi	2022-04-01
+8309759	Shirāni	Shirani	Sherani	31.75421	69.70663	A	ADM2	PK		02	8309759			191687		1203	Asia/Karachi	2025-02-03
+8358419	Gilgit	Gilgit		35.88013	74.41232	A	ADM2	PK		07	8358419			330000		1436	Asia/Karachi	2022-04-01
+8358421	Diamīr	Diamir	Diamer,Diamer District,Diamir district,dlʿ dyamr,ضلع دیامر	35.53409	74.03287	A	ADM2	PK		07	8358421			0		1924	Asia/Karachi	2019-11-28
+8986039	Sudhanoti District	Sudhanoti District		33.715	73.68583	A	ADM2	PK		06	8986039			297584		1349	Asia/Karachi	2019-11-28
+9034783	Qamber Shahdadkot District	Qamber Shahdadkot District		27.58917	68	A	ADM2	PK		05	9034783			1514869		55	Asia/Karachi	2025-02-03
+9035095	Kashmore District	Kashmore District		28.44107	69.58354	A	ADM2	PK		05	9035095			1233957		75	Asia/Karachi	2025-02-03
+9072726	Umerkot District	Umerkot District		25.37	69.73	A	ADM2	PK		05	9072726			1159831		8	Asia/Karachi	2025-02-02
+9625763	Tando Allahyar District	Tando Allahyar District	Distretto di Tando Allahyar,District de Tando Allahyar,Dystrykt Tando Allahyar,Tando-Allakh-Jar,tan du a la ya xian,Тандо-Аллах-Яр,ضلع ٹنڈو اللہ یار,ضلع ٹنڈو الہ یار,ٽنڊو الهيار ضلعو,坦杜阿拉亚县	25.46	68.72	A	ADM2	PK		05	9625763			922012		25	Asia/Karachi	2025-02-03
+9625902	Tando Mohammad Khan District	Tando Mohammad Khan District		25.01667	68.48333	A	ADM2	PK		05	9625902			726119		14	Asia/Karachi	2025-02-03
+10300608	Sujawal District	Sujawal District		24.60639	68.07194	A	ADM2	PK		05	10300608			839292		12	Asia/Karachi	2025-02-02
+10344547	Vehari District	Vehari District	Vehari District,dlʿ wہaڑy,ضلع وہاڑی	30.04194	72.35278	A	ADM2	PK		04	10344547			3430421		142	Asia/Karachi	2025-02-03
+11594770	Ghizer District	Ghizer District		36.1667	73.75	A	ADM2	PK		07	11594770			0		2275	Asia/Karachi	2017-07-05
+11744831	Karachi Central District	Karachi Central District	Karachi Central,Karachi Central District	24.95531	67.07147	A	ADM2	PK		05	11744831			3822325		40	Asia/Karachi	2025-02-03
+11744832	Karachi East District	Karachi East District	Karachi East,Karachi East District	24.9238	67.12322	A	ADM2	PK		05	11744832			3913656		50	Asia/Karachi	2025-02-03
+11744833	Karachi South District	Karachi South District	Karachi District,Karachi South,Karachi South District	24.82426	67.03311	A	ADM2	PK		05	11744833			2329764		7	Asia/Karachi	2025-02-03
+11744834	Kharmang District	Kharmang District	Kharmang,Kharmang District,dlʿ kھrmng,ضلع کھرمنگ	34.90302	76.0805	A	ADM2	PK		07	11744834			0		4089	Asia/Karachi	2022-04-01
+11744835	Korangi District	Korangi District	Korangi,Korangi District	24.85545	67.16728	A	ADM2	PK		05	11744835			1362998		14	Asia/Karachi	2025-02-03
+11744837	Malir District	Malir District	Malir,Malir District	25.14593	67.31375	A	ADM2	PK		05	11744837			2008901		187	Asia/Karachi	2019-12-10
+11744838	Nagar District	Nagar District	Nagar,Nagar District,dlʿ ngr,ضلع نگر	36.27332	74.62348	A	ADM2	PK		07	11744838			87500		2740	Asia/Karachi	2025-02-04
+11744839	Shigar District	Shigar District	Shigar,Shigar District	35.76145	75.75074	A	ADM2	PK		07	11744839			0		5371	Asia/Karachi	2019-11-28
+11744842	Sohbatpur District	Sohbatpur District	Sohbatpur,Sohbatpur District	28.50933	68.64553	A	ADM2	PK		02	11744842			240106		56	Asia/Karachi	2025-02-04
+11886901	Chiniot	Chiniot	dlʿ chnywٹ,ضلع چنیوٹ	31.72	72.98	A	ADM2	PK		04	11886901			1563024		188	Asia/Karachi	2025-02-03
+12105028	Lower Kohistan District	Lower Kohistan District		35.11028	73.00495	A	ADM2	PK		03	12105028			340017		774	Asia/Karachi	2025-02-04
+12105031	Upper Kohistan District	Upper Kohistan District		35.27377	73.22684	A	ADM2	PK		03	12105031			300000		892	Asia/Karachi	2019-12-03
+12105033	District of West Karachi	District of West Karachi		24.90847	66.86663	A	ADM2	PK		05	12105033			0		23	Asia/Karachi	2019-12-03

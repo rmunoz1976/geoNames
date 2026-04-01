@@ -1,0 +1,14 @@
+﻿1218305	Tagtabazar Etrap	Tagtabazar Etrap	Tagtabazar Etrap,Takhta-Bazarskiy Rayon,shhrstan tkhth‌bazar,شهرستان تخته‌بازار	36	63	A	ADM2	TM		05	1218305			134751		594	Asia/Ashgabat	2025-09-19
+1218742	Guşgy Etrap	Gusgy Etrap	Gusgy Etrap,Guşgy Etrap,Kushkinskiy Rayon	35.26667	62.33333	A	ADM2	TM		05	1218742			0		730	Asia/Ashgabat	2020-06-10
+11189155	Baharly District	Baharly District	Baeherden District,Bäherden District	37.9076	58.498	A	ADM2	TM		01	11189155			0		227	Asia/Ashgabat	2016-07-06
+11820056	Akdepe District	Akdepe District		42.06741	59.38403	A	ADM2	TM		03	11820056			0		72	Asia/Ashgabat	2020-03-09
+13526664	Mary District	Mary District		37.50269	62.08625	A	ADM2	TM		05	13526664			173140		228	Asia/Ashgabat	2025-09-17
+13526677	Baýramaly District	Bayramaly District		37.60595	62.15188	A	ADM2	TM		05	13526677			170462		230	Asia/Ashgabat	2025-09-19
+13526678	Garagum District	Garagum District		37.80298	62.02203	A	ADM2	TM		05	13526678			62218		200	Asia/Ashgabat	2025-09-19
+13526679	Murgap District	Murgap District		37.49498	61.96887	A	ADM2	TM		05	13526679			190218		227	Asia/Ashgabat	2025-09-19
+13526680	Sakarçäge District	Sakarcaege District		37.66369	61.65733	A	ADM2	TM		05	13526680			196202		219	Asia/Ashgabat	2025-09-19
+13526681	Ýolöten District	Yoloeten District		37.29492	62.36705	A	ADM2	TM		05	13526681			155616		242	Asia/Ashgabat	2025-09-19
+13526682	Wekilbazar District	Wekilbazar District		37.29803	62.34104	A	ADM2	TM		05	13526682			0		240	Asia/Ashgabat	2025-09-19
+13526879	Gubadag District	Gubadag District		42.06324	59.95452	A	ADM2	TM		03	13526879			0		89	Asia/Ashgabat	2025-09-26
+13526881	Saýat District	Sayat District		38.77955	63.88912	A	ADM2	TM		04	13526881			0		199	Asia/Ashgabat	2025-09-26
+13526882	Türkmengala District	Tuerkmengala District		37.41145	62.33613	A	ADM2	TM		05	13526882			0		243	Asia/Ashgabat	2025-09-26

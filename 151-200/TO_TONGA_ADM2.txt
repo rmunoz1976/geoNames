@@ -1,0 +1,23 @@
+﻿7668025	Niuatoputapu	Niuatoputapu		-15.9567	-173.77833	A	ADM2	TO		NI	51			0		59	Pacific/Tongatapu	2019-05-08
+7668028	Niuafo'ou	Niuafo'ou	NFO	-15.60966	-175.60811	A	ADM2	TO		NI	52			0		47	Pacific/Tongatapu	2019-05-12
+12041925	'Eua fo'ou	'Eua fo'ou		-21.3733	-174.95384	A	ADM2	TO		EU	42			0		104	Pacific/Tongatapu	2019-05-02
+12041926	'Eua Prope	'Eua Prope		-21.36958	-174.92157	A	ADM2	TO		EU	41			0		283	Pacific/Tongatapu	2019-05-02
+12041927	Foa	Foa		-19.73847	-174.29858	A	ADM2	TO		01	32			0		14	Pacific/Tongatapu	2019-05-02
+12041928	Ha`ano	Ha`ano		-19.6726	-174.28378	A	ADM2	TO		01	35			0		13	Pacific/Tongatapu	2019-05-02
+12041929	Hahake	Hahake		-18.60683	-173.93584	A	ADM2	TO		03	23			0		10	Pacific/Tongatapu	2019-05-02
+12041930	Hihifo	Hihifo		-18.63757	-174.04589	A	ADM2	TO		03	25			0		28	Pacific/Tongatapu	2019-05-02
+12041931	Kolofo'ou	Kolofo'ou		-21.14483	-175.1832	A	ADM2	TO		02	11			0		5	Pacific/Tongatapu	2019-05-02
+12041932	Kolomotu'a	Kolomotu'a		-21.1433	-175.24109	A	ADM2	TO		02	12			0		11	Pacific/Tongatapu	2019-05-02
+12041933	Kolovai	Kolovai		-21.11156	-175.34301	A	ADM2	TO		02	17			0		14	Pacific/Tongatapu	2019-05-02
+12041934	Lapaha	Lapaha		-21.16205	-175.0799	A	ADM2	TO		02	15			0		16	Pacific/Tongatapu	2019-05-02
+12041935	Leimatu'a	Leimatu'a		-18.59593	-173.97801	A	ADM2	TO		03	24			0		67	Pacific/Tongatapu	2019-05-02
+12041936	Lulunga	Lulunga		-19.81092	-174.72185	A	ADM2	TO		01	33			0		44	Pacific/Tongatapu	2019-05-02
+12041937	Motu	Motu		-18.74508	-174.09988	A	ADM2	TO		03	26			0		23	Pacific/Tongatapu	2019-05-02
+12041938	Mu'omu'a	Mu'omu'a		-20.27862	-174.62931	A	ADM2	TO		01	34			0		14	Pacific/Tongatapu	2019-05-02
+12041939	Neiafu	Neiafu		-18.65168	-173.98121	A	ADM2	TO		03	21			0		24	Pacific/Tongatapu	2019-05-02
+12041940	Nukunuku	Nukunuku		-21.15994	-175.30531	A	ADM2	TO		02	16			0		15	Pacific/Tongatapu	2019-05-02
+12041941	Pangai	Pangai		-19.75691	-174.33037	A	ADM2	TO		01	31			0		11	Pacific/Tongatapu	2019-05-02
+12041942	Pangaimotu	Pangaimotu		-18.68235	-173.99859	A	ADM2	TO		03	22			0		46	Pacific/Tongatapu	2019-05-02
+12041943	Tatakamotonga	Tatakamotonga		-21.22721	-175.13604	A	ADM2	TO		02	14			0		32	Pacific/Tongatapu	2019-05-02
+12041944	'Uiha	'Uiha		-19.8259	-174.55114	A	ADM2	TO		01	36			0		20	Pacific/Tongatapu	2019-05-02
+12041945	Vaini	Vaini		-21.19859	-175.20068	A	ADM2	TO		02	13			0		19	Pacific/Tongatapu	2019-05-02

@@ -1,0 +1,387 @@
+﻿1515279	Songino	Songino	Songina,Songina somon,Songina sumu,Songino,Songino District,Songino Sum,Songino Suma,Сонгино,Сонгино Сум	48.88333	95.88333	A	ADM2	MN		09	1515279			0		1983	Asia/Hovd	2023-08-01
+1515709	Tariat Sum	Tariat Sum	Horgo,Tariat,Tariat Sum,Tariatu Sume,Taryaata Suma,Taryaata Sumu,Taryat,Taryatin,Taryatu,Taryatu somon,Taryatu sumu,Тариат,Тариат Сум	48.22394	99.86182	A	ADM2	MN		01	1515709			0		2167	Asia/Ulaanbaatar	2012-01-17
+1516065	Dörgön	Doergoen	Doergoen,Doergoen Dsitrict,Doergoen Sum,Dörgön,Dörgön Dsitrict,Dörgön Sum,Dөrgөn,Dөrgөn Sum,Дөргөн,Дөргөн Сум	48.31667	92.63333	A	ADM2	MN		12	1516065			0		1155	Asia/Hovd	2023-07-27
+1516281	Bayannuur	Bayannuur	Bajan-Nur,Bajannuur,Bajannuur Sum,Bayannuur,Bayannuur District,Bayannuur Sum,Баян-Нур,Баяннуур,Баяннуур Сум	48.93333	91.13333	A	ADM2	MN		03	1516281			0		1393	Asia/Hovd	2023-07-28
+2028174	Yösöndzüyl Sum	Yosondzuyl Sum	Isun-ziru,Isun-zïru,Yesoenzueil District,Yesönzüil District,Yoson Dzuyl Suma,Yoson dzuyl sumu,Yoson-Tseyl',Yoson-Tseyl’,Yosondzuyl,Yosondzuyl Sum,Yosön dzüyl sumu,Yugun tszuyl somon,Yusun Tszuyl Somon,Yösön Dzüyl Suma,Yösöndzüyl,Yösöndzüyl Sum,Есөнзүйл,Есөнзүйл Сум	46.61733	103.64586	A	ADM2	MN		15	2028174			0		2108	Asia/Ulaanbaatar	2023-07-30
+2029006	Tarialan	Tarialan	Tarialan,Tarialan District,Tarialan Sum,Tarjalan,Тариалан,Тариалан Сум,Тарялан	49.61667	102.05	A	ADM2	MN		13	2029006			0		1344	Asia/Ulaanbaatar	2023-07-28
+2029819	Nomgon Sum	Nomgon Sum	Nomgon,Nomgon Sum,Nomogan,Nomogan sumu,Nomogon,Nomogon Somon,Nomogon Suma,Номгон,Номгон Сум	42.41462	105.0564	A	ADM2	MN		14	2029819			0		1155	Asia/Ulaanbaatar	2012-01-17
+2032465	Bayantsogt Sum	Bayantsogt Sum	Bajancogt,Bajancogt Sum,Bayantsogt,Bayantsogt District,Bayantsogt Sum,Баянцогт,Баянцогт Сум	48.12274	106.04567	A	ADM2	MN		18	2032465			0		1332	Asia/Ulaanbaatar	2023-07-28
+2032495	Bayan-Önjüül Sum	Bayan-Onjuul Sum	Bayan-Onjuul,Bayan-Onjuul Sum,Bayan-Önjüül,Bayan-Önjüül Sum,Баян-Өнжүүл,Баян-Өнжүүл Сум	46.91503	106.01863	A	ADM2	MN		18	2032495			0		1532	Asia/Ulaanbaatar	2012-01-17
+2032552	Bayangol	Bayangol	Bain-gol,Bayan Gol Suma,Bayan gol sumu,Bayan-gol somon,Bayangol District,Bayangol Sume,Hara,Khara,Pa-yen-kuo-lo	48.91167	106.08667	A	ADM2	MN		16	2032552			0		807	Asia/Ulaanbaatar	2023-07-28
+6618688	Halhgol	Halhgol	Halhgol,Halhgol Sum,Khalkhgol,Khalkhgol District,Khalkhgol Sum,Халхгол,Халхгол Сум	47.62734	118.61784	A	ADM2	MN		06	6618688			0		687	Asia/Ulaanbaatar	2025-05-01
+6618689	Matad	Matad	Matad,Matad Sum,Матад,Матад Сум	47.14513	115.53326	A	ADM2	MN		06	6618689			0		968	Asia/Ulaanbaatar	2025-05-01
+6618690	Bayantümen	Bayantuemen		48.04481	114.3663	A	ADM2	MN		06	6618690			0		750	Asia/Ulaanbaatar	2025-05-01
+6618691	Bulgan	Bulgan	Bulgan,Bulgan District,Bulgan Sum,Булган,Булган Сум	47.99452	113.93337	A	ADM2	MN		06	6618691			0		787	Asia/Ulaanbaatar	2025-05-01
+6618692	Hölönbuyr	Hoeloenbuyr	Hoeloenbuyr,Hoeloenbuyr Sum,Hölönbuyr,Hölönbuyr Sum,Khoeloenbuir District,Khölönbuir District,Khөlөnbujr,Khөlөnbujr Sum,Хөлөнбуйр,Хөлөнбуйр Сум	47.90852	112.95044	A	ADM2	MN		06	6618692			0		874	Asia/Ulaanbaatar	2025-05-01
+6618693	Choybalsan	Choybalsan	Choibalsan District,Chojbalsan,Chojbalsan Sum,Choybalsan,Choybalsan Sum,Чойбалсан,Чойбалсан Сум	48.42852	114.86687	A	ADM2	MN		06	6618693			0		688	Asia/Ulaanbaatar	2025-05-01
+6618694	Chuluunhoroot	Chuluunhoroot	Chuluunhoroot,Chuluunhoroot Sum,Chuluunkhoroot,Chuluunkhoroot District,Chuluunkhoroot Sum,Чулуунхороот,Чулуунхороот Сум	49.85304	115.71762	A	ADM2	MN		06	6618694			0		613	Asia/Ulaanbaatar	2025-05-01
+6618695	Dashbalbar	Dashbalbar	Dashbalbar,Dashbalbar District,Dashbalbar Sum,Дашбалбар,Дашбалбар Сум	49.53836	114.40287	A	ADM2	MN		06	6618695			0		708	Asia/Ulaanbaatar	2025-05-01
+6618696	Gurvandzagal	Gurvandzagal	Gurvanzagal,Gurvanzagal District,Gurvanzagal sum,Гурванзагал,Гурванзагал сум	49.12714	114.883	A	ADM2	MN		06	6618696			0		694	Asia/Ulaanbaatar	2025-05-01
+6618697	Sergelen	Sergelen	Sehrgehlehn,Sehrgehlehn Sum,Sergelen,Sergelen District,Sergelen Sum,Сэргэлэн,Сэргэлэн Сум	48.55366	114.08478	A	ADM2	MN		06	6618697			0		743	Asia/Ulaanbaatar	2025-05-01
+6618698	Tsagaan-Ovoo	Tsagaan-Ovoo	Cagaan-Ovoo,Cagaan-Ovoo Sum,Tsagaan-Ovoo,Tsagaan-Ovoo District,Tsagaan-Ovoo Sum,Цагаан-Овоо,Цагаан-Овоо Сум	48.39502	113.43315	A	ADM2	MN		06	6618698			0		812	Asia/Ulaanbaatar	2025-05-01
+6618699	Bayandun	Bayandun	Bajandun,Bajandun sum,Bayandun District,Баяндун,Баяндун сум	49.2408	113.37393	A	ADM2	MN		06	6618699			0		910	Asia/Ulaanbaatar	2025-05-01
+6618700	Bayan-Uul	Bayan-Uul	Bajan-Uul,Bajan-Uul Sum,Bayan-Uul,Bayan-Uul District,Bayan-Uul Sum,Баян-Уул,Баян-Уул Сум	49.14556	112.73449	A	ADM2	MN		06	6618700			0		877	Asia/Ulaanbaatar	2025-05-01
+6618701	Herlen	Herlen	Choibalsan  Disrtrict,Khehrlehn sum,Хэрлэн сум	48.05812	114.49883	A	ADM2	MN		06	6618701			0		741	Asia/Ulaanbaatar	2025-05-01
+6618702	Erdenetsagaan	Erdenetsagaan	Erdenetsagaan District	45.89527	115.36743	A	ADM2	MN		17	6618702			0		1070	Asia/Ulaanbaatar	2025-05-01
+6618703	Darĭganga	Dariganga	Dariganga District	45.30085	113.84926	A	ADM2	MN		17	6618703			0		1243	Asia/Ulaanbaatar	2025-05-01
+6618704	Ongon	Ongon	Suekhbaatar Province,Sükhbaatar Province	45.65893	113.08331	A	ADM2	MN		17	6618704			0		1081	Asia/Ulaanbaatar	2025-05-01
+6618705	Naran	Naran	Naran District,Naran sum,Наран сум	45.13023	113.68378	A	ADM2	MN		17	6618705			0		1225	Asia/Ulaanbaatar	2025-05-01
+6618706	Bayandelger	Bayandelger	Bajandehlgehr,Bajandehlgehr Sum,Bayandelger Sum,Баяндэлгэр,Баяндэлгэр Сум	45.72296	112.35563	A	ADM2	MN		17	6618706			0		1091	Asia/Ulaanbaatar	2025-05-01
+6618707	Haldzan	Haldzan	Haldzan Sum,Khalzan,Khalzan District,Khalzan Sum,Халзан,Халзан Сум	46.16129	112.9501	A	ADM2	MN		17	6618707			0		1034	Asia/Ulaanbaatar	2025-05-01
+6618708	Uulbayan	Uulbayan	Uulbajan,Uulbajan Sum,Uulbayan District,Uulbayan Sum,Уулбаян,Уулбаян Сум	46.37986	112.18346	A	ADM2	MN		17	6618708			0		1024	Asia/Ulaanbaatar	2025-05-01
+6618709	Mönhhaan	Moenhhaan	Moenhhaan Sum,Moenkhkhaan,Moenkhkhaan District,Mönhhaan Sum,Mönkhkhaan,Mönkhkhaan District,Mөnkhkhaan,Mөnkhkhaan Sum,Мөнххаан,Мөнххаан Сум	46.97252	112.0499	A	ADM2	MN		17	6618709			0		1227	Asia/Ulaanbaatar	2025-05-01
+6618710	Tümentsogt	Tuementsogt	Tuementsogt District,Tuementsogt Sum,Tümentsogt District,Tümentsogt Sum,Tүmehncogt,Tүmehncogt Sum,Түмэнцогт,Түмэнцогт Сум	47.60825	112.1323	A	ADM2	MN		17	6618710			0		1143	Asia/Ulaanbaatar	2025-05-01
+6618711	Sühbaatar	Suehbaatar		46.89598	113.41667	A	ADM2	MN		17	6618711			0		1063	Asia/Ulaanbaatar	2025-05-01
+6618712	Tüvshinshiree	Tuevshinshiree	Tuevshinshiree District,Tuevshinshiree Sum,Tüvshinshiree District,Tüvshinshiree Sum,Tүvshinshireheh,Tүvshinshireheh Sum,Түвшинширээ,Түвшинширээ Сум	46.18744	111.8161	A	ADM2	MN		17	6618712			0		1075	Asia/Ulaanbaatar	2025-05-01
+6618713	Asgat	Asgat	Asgat,Asgat District,Asgat Sum,Асгат,Асгат Сум	46.35984	113.577	A	ADM2	MN		17	6618713			0		1052	Asia/Ulaanbaatar	2025-05-01
+6618714	Baruun-Urt	Baruun-Urt	Baruun-Urt,Baruun-Urt Sum,Баруун-Урт,Баруун-Урт Сум	46.67818	113.27866	A	ADM2	MN		17	6618714			0		987	Asia/Ulaanbaatar	2025-05-01
+6618715	Ömnödelger	OEmnoedelger	OEmnoedelger,OEmnoedelger District,OEmnoedelger Sum,Ömnödelger,Ömnödelger District,Ömnödelger Sum,Өmnөdehlgehr,Өmnөdehlgehr Sum,Өмнөдэлгэр,Өмнөдэлгэр Сум	47.86086	109.9165	A	ADM2	MN		11	6618715			0		1306	Asia/Ulaanbaatar	2023-07-28
+6618719	Darhan	Darhan	Darkhan,Darkhan District	46.60558	109.41696	A	ADM2	MN		11	6618719			0		1281	Asia/Ulaanbaatar	2023-07-26
+6618720	Bayanmönh	Bayanmoenh	Bajanmөnkh,Bajanmөnkh Sum,Bayanmoenh,Bayanmoenh Sum,Bayanmönh,Bayanmönh Sum,Баянмөнх,Баянмөнх Сум	46.89469	109.74998	A	ADM2	MN		11	6618720			0		1115	Asia/Ulaanbaatar	2014-12-25
+6618721	Delgerhaan	Delgerhaan	Dehlgehrkhaan,Dehlgehrkhaan Sum,Delgerhaan Sum,Delgerkhaan,Delgerkhaan District,Дэлгэрхаан,Дэлгэрхаан Сум	47.17384	109.18968	A	ADM2	MN		11	6618721			0		1235	Asia/Ulaanbaatar	2023-08-01
+6618722	Jargalthaan	Jargalthaan	Jargalthaan,Jargalthaan Sum,Jargaltkhaan,Jargaltkhaan District,Zhargaltkhaan,Zhargaltkhaan Sum,Жаргалтхаан,Жаргалтхаан Сум	47.48914	109.47309	A	ADM2	MN		11	6618722			0		1337	Asia/Ulaanbaatar	2023-08-01
+6618723	Tsenhermandal	Tsenhermandal	Cehnkhehrmandal,Cehnkhehrmandal Sum,Tsenhermandal,Tsenhermandal Sum,Tsenkhermandal,Tsenkhermandal District,Цэнхэрмандал,Цэнхэрмандал Сум	47.73886	109.05029	A	ADM2	MN		11	6618723			0		1420	Asia/Ulaanbaatar	2023-08-01
+6618725	Mörön	Moeroen	Moeroen,Moeroen Sum,Mörön,Mörön Sum,Mөrөn,Mөrөn Sum,Мөрөн,Мөрөн Сум	47.37557	110.31664	A	ADM2	MN		11	6618725			0		1127	Asia/Ulaanbaatar	2014-12-25
+6618726	Herlen	Herlen	Herlen,Herlen Sum,Khehrlehn,Khehrlehn Sum,Хэрлэн,Хэрлэн Сум	47.33812	110.68005	A	ADM2	MN		11	6618726			0		1029	Asia/Ulaanbaatar	2014-12-25
+6618727	Bayanhutag	Bayanhutag	Bajankhutag,Bajankhutag Sum,Bayanhutag,Bayanhutag Sum,Баянхутаг,Баянхутаг Сум	47.16101	110.81669	A	ADM2	MN		11	6618727			0		1207	Asia/Ulaanbaatar	2014-12-28
+6618728	Galshar	Galshar	Galshar,Galshar District,Galshar Sum,Галшар,Галшар Сум	46.23567	110.83488	A	ADM2	MN		11	6618728			0		1170	Asia/Ulaanbaatar	2023-08-01
+6618729	Batshireet	Batshireet	Batshireet,Batshireet District,Batshireet Sum,Batshireheht,Batshireheht Sum,Батширээт,Батширээт Сум	48.67645	110.18257	A	ADM2	MN		11	6618729			0		1106	Asia/Ulaanbaatar	2023-07-27
+6618730	Binder	Binder	Bindehr,Bindehr Sum,Binder District,Binder Sum,Биндэр,Биндэр Сум	48.6118	110.60005	A	ADM2	MN		11	6618730			0		1051	Asia/Ulaanbaatar	2023-07-27
+6618731	Bayan-Adarga	Bayan-Adarga	Bajan-Adarga,Bajan-Adarga Sum,Bayan-Adarga,Bayan-Adarga Sum,Баян-Адарга,Баян-Адарга Сум	48.54661	111.08345	A	ADM2	MN		11	6618731			0		1060	Asia/Ulaanbaatar	2014-12-29
+6618732	Dadal	Dadal	Dadal,Dadal District,Dadal Sum,Дадал,Дадал Сум	49.00905	111.63345	A	ADM2	MN		11	6618732			0		970	Asia/Ulaanbaatar	2023-07-27
+6618733	Batnorov	Batnorov	Batnorov,Batnorov District,Batnorov Sum,Батноров,Батноров Сум	47.94142	111.49784	A	ADM2	MN		11	6618733			0		1037	Asia/Ulaanbaatar	2023-07-27
+6618734	Bayan-Ovoo	Bayan-Ovoo	Bajan-Ovoo,Bajan-Ovoo Sum,Bayan-Ovoo Sum,Баян-Овоо,Баян-Овоо Сум	47.77625	112.11582	A	ADM2	MN		11	6618734			0		913	Asia/Ulaanbaatar	2014-12-09
+6618735	Norovlin	Norovlin	Norovlin,Norovlin District,Norovlin Sum,Норовлин,Норовлин Сум	48.68484	111.99463	A	ADM2	MN		11	6618735			0		1039	Asia/Ulaanbaatar	2023-07-27
+6618754	Dalanjargalan	Dalanjargalan	Dalanjargalan Sum,Dalanzhargalan,Dalanzhargalan Sum,Даланжаргалан,Даланжаргалан Сум	45.91079	109.0666	A	ADM2	MN		07	6618754			0		1101	Asia/Ulaanbaatar	2014-12-09
+6618755	Ayrag	Ayrag	Airag,Airag District,Ajrag,Ajrag Sum,Ayrag Sum,Айраг,Айраг Сум	45.79434	109.31671	A	ADM2	MN		07	6618755			0		1052	Asia/Ulaanbaatar	2014-12-09
+6618756	Ihhet	Ihhet	Ihhet Sum,Ikhkheht,Ikhkheht Sum,Ikhkhet,Ikhkhet District,Иххэт,Иххэт Сум	46.24065	110.16644	A	ADM2	MN		07	6618756			0		1187	Asia/Ulaanbaatar	2014-12-09
+6618757	Altanshiree	Altanshiree	Altanshiree District,Altanshiree Sum,Altanshireheh,Altanshireheh Sum,Алтанширээ,Алтанширээ Сум	45.52439	110.46684	A	ADM2	MN		07	6618757			0		950	Asia/Ulaanbaatar	2014-12-09
+6618758	Delgereh	Delgereh	Dehlgehrehkh,Dehlgehrehkh Sum,Delgereh Sum,Delgerekh District,Дэлгэрэх,Дэлгэрэх Сум	45.7941	111.19984	A	ADM2	MN		07	6618758			0		1105	Asia/Ulaanbaatar	2023-07-28
+6618760	Saynshand	Saynshand	Sajnshand,Sajnshand Sum,Saynshand,Saynshand Sum,Сайншанд,Сайншанд Сум	44.88689	110.13451	A	ADM2	MN		07	6618760			0		940	Asia/Ulaanbaatar	2014-12-29
+6618761	Örgön	OErgoen	OErgoen District,OErgoen Sum,Örgön District,Örgön Sum,Өrgөn,Өrgөn Sum,Өргөн,Өргөн Сум	44.70893	110.76759	A	ADM2	MN		07	6618761			0		1008	Asia/Ulaanbaatar	2014-12-09
+6618762	Erdene	Erdene	Ehrdehneh,Ehrdehneh Sum,Erdene District,Erdene Sum,Эрдэнэ,Эрдэнэ Сум	44.43439	111.09083	A	ADM2	MN		07	6618762			0		997	Asia/Ulaanbaatar	2023-07-29
+6618763	Dzamyn Üüd	Dzamyn UEued		43.73365	111.90605	A	ADM2	MN		07	6618763			0		959	Asia/Ulaanbaatar	2007-10-11
+6618764	Ulaanbadrah	Ulaanbadrah	Ulaanbadrah,Ulaanbadrah Sum,Ulaanbadrakh,Ulaanbadrakh District,Ulaanbadrakh Sum,Улаанбадрах,Улаанбадрах Сум	43.57455	110.46684	A	ADM2	MN		07	6618764			0		1024	Asia/Ulaanbaatar	2023-07-29
+6618765	Sayhandulaan	Sayhandulaan	Saikhandulaan,Saikhandulaan District,Sajkhandulaan,Sajkhandulaan Sum,Sayhandulaan Sum,Сайхандулаан,Сайхандулаан Сум	44.67842	109.01648	A	ADM2	MN		07	6618765			0		1274	Asia/Ulaanbaatar	2023-07-29
+6618766	Mandah	Mandah	Mandah Sum,Mandakh,Mandakh District,Mandakh Sum,Мандах,Мандах Сум	44.3943	108.25001	A	ADM2	MN		07	6618766			0		1328	Asia/Ulaanbaatar	2023-07-29
+6618767	Hövsgöl	Hoevsgoel	Hoevsgoel Sum,Hövsgöl Sum,Khoevsgoel,Khoevsgoel District,Khövsgöl,Khövsgöl District,Khөvsgөl,Khөvsgөl Sum,Хөвсгөл,Хөвсгөл Сум	43.5983	109.63875	A	ADM2	MN		07	6618767			0		989	Asia/Ulaanbaatar	2023-07-29
+6618768	Hatanbulag	Hatanbulag	Hatanbulag Sum,Khatanbulag,Khatanbulag District,Khatanbulag Sum,Хатанбулаг,Хатанбулаг Сум	43.14546	109.13338	A	ADM2	MN		07	6618768			0		1145	Asia/Ulaanbaatar	2023-07-29
+6618769	Sümber	Suember	Suember District,Sümber District	46.34219	108.36227	A	ADM2	MN		08	6618769			0		1276	Asia/Ulaanbaatar	2023-08-01
+6618770	Bayantal	Bayantal		46.78596	107.85828	A	ADM2	MN		18	6618770			0		1266	Asia/Ulaanbaatar	2007-10-11
+6618771	Shiveegovĭ	Shiveegovi		46.12037	108.65067	A	ADM2	MN		07	6618771			0		1190	Asia/Ulaanbaatar	2007-10-11
+6618789	Mandal-Ovoo	Mandal-Ovoo	Mandal-Ovoo,Mandal-Ovoo District,Mandal-Ovoo Sum,Мандал-Овоо,Мандал-Овоо Сум	44.64264	104.04997	A	ADM2	MN		14	6618789			0		1064	Asia/Ulaanbaatar	2014-12-09
+6618790	Tsogt-Ovoo	Tsogt-Ovoo	Cogt-Ovoo,Cogt-Ovoo Sum,Tsogt-Ovoo,Tsogt-Ovoo Sum,Цогт-Овоо,Цогт-Овоо Сум	44.41429	105.32112	A	ADM2	MN		14	6618790			0		1281	Asia/Ulaanbaatar	2014-12-25
+6618791	Hanhongor	Hanhongor	Hanhongor Sum,Khan khongor,Khan khongor District,Khankhongor,Khankhongor Sum,Хан хонгор,Ханхонгор,Ханхонгор Сум	43.77345	104.47998	A	ADM2	MN		14	6618791			0		1500	Asia/Ulaanbaatar	2014-12-09
+6618792	Tsogttsetsiy	Tsogttsetsiy	Cogtcehcij,Cogtcehcij Sum,Tsogttsetsii,Tsogttsetsii District,Tsogttsetsiy Sum,Цогтцэций,Цогтцэций Сум	43.64477	105.75611	A	ADM2	MN		14	6618792			0		1613	Asia/Ulaanbaatar	2023-07-29
+6618793	Manlay	Manlay	Manlai District,Manlaj,Manlaj Sum,Manlay Sum,Манлай,Манлай Сум	44.07402	106.87019	A	ADM2	MN		14	6618793			0		1317	Asia/Ulaanbaatar	2023-07-29
+6618794	Hanbogd	Hanbogd	Hanbogd Sum,Khanbogd,Khanbogd District,Khanbogd Sum,Ханбогд,Ханбогд Сум	43.19141	107.20013	A	ADM2	MN		14	6618794			0		1115	Asia/Ulaanbaatar	2014-12-09
+6618795	Bayan-Ovoo	Bayan-Ovoo		42.96898	106.12003	A	ADM2	MN		14	6618795			0		1194	Asia/Ulaanbaatar	2014-12-04
+6618796	Hürmen	Huermen	Huermen Sum,Hürmen Sum,Khuermen,Khuermen District,Khürmen,Khürmen District,Khүrmehn,Khүrmehn Sum,Хүрмэн,Хүрмэн Сум	43.29932	104.07417	A	ADM2	MN		14	6618796			0		1792	Asia/Ulaanbaatar	2014-12-09
+6618797	Bayandalay	Bayandalay	Bajandalaj,Bajandalaj Sum,Bayandalai,Bayandalay Sum,Баяндалай,Баяндалай Сум	43.45815	103.51353	A	ADM2	MN		14	6618797			0		1550	Asia/Ulaanbaatar	2014-12-24
+6618798	Bulgan	Bulgan	Bulgan,Bulgan District,Bulgan Sum,Булган,Булган Сум	44.09141	103.54305	A	ADM2	MN		14	6618798			0		1306	Asia/Ulaanbaatar	2014-12-09
+6618799	Sevrey	Sevrey	Sehvrehj,Sehvrehj Sum,Sevrey,Sevrey Sum,Сэврэй,Сэврэй Сум	43.6116	102.533	A	ADM2	MN		14	6618799			0		2020	Asia/Ulaanbaatar	2014-12-24
+6618800	Noyon	Noyon	Nojon,Nojon Sum,Noyon,Noyon Sum,Ноён,Ноён Сум	43.16875	102.132	A	ADM2	MN		14	6618800			0		1878	Asia/Ulaanbaatar	2014-12-24
+6618801	Gurvantes	Gurvantes	Gurvan tes,Gurvantehs,Gurvantehs Sum,Gurvantes,Gurvantes Sum,Гурвантэс,Гурвантэс Сум	43.22369	101.0471	A	ADM2	MN		14	6618801			0		1738	Asia/Ulaanbaatar	2014-12-24
+6618802	Dalandzadgad	Dalandzadgad	Dalanzadgad,Dalanzadgad Sum,Даланзадгад,Даланзадгад Сум	43.56447	104.42471	A	ADM2	MN		14	6618802			0		1479	Asia/Ulaanbaatar	2014-12-25
+6618803	Sayhan-Ovoo	Sayhan-Ovoo	Saikhan-Ovoo,Sajkhan-Ovoo,Sajkhan-Ovoo Sum,Sayhan-Ovoo Sum,Сайхан-Овоо,Сайхан-Овоо Сум	45.4464	103.89977	A	ADM2	MN		08	6618803			0		1313	Asia/Ulaanbaatar	2014-12-09
+6618804	Delgerhangay	Delgerhangay	Dehlgehrkhangaj,Dehlgehrkhangaj Sum,Delgerhangay Sum,Delgerkhangai District,Дэлгэрхангай,Дэлгэрхангай Сум	45.23743	104.80511	A	ADM2	MN		08	6618804			0		1474	Asia/Ulaanbaatar	2023-07-27
+6618805	Huld	Huld	Huld,Huld Sum,Khuld,Khuld District,Khuld Sum,Хулд,Хулд Сум	45.04078	105.56625	A	ADM2	MN		08	6618805			0		1241	Asia/Ulaanbaatar	2023-07-27
+6618806	Luus	Luus	Luus,Luus District,Luus Sum,Луус,Луус Сум	45.50178	105.75577	A	ADM2	MN		08	6618806			0		1422	Asia/Ulaanbaatar	2023-07-27
+6618807	Erdenedalay	Erdenedalay	Ehrdehnehdalaj,Ehrdehnehdalaj Sum,Erdenedalay,Erdenedalay Sum,Эрдэнэдалай,Эрдэнэдалай Сум	45.99625	104.94278	A	ADM2	MN		08	6618807			0		1369	Asia/Ulaanbaatar	2014-12-29
+6618808	Adaatsag	Adaatsag	Adaacag,Adaacag Sum,Adaatsag,Adaatsag District,Adaatsag Sum,Адаацаг,Адаацаг Сум	46.38341	105.73483	A	ADM2	MN		08	6618808			0		1465	Asia/Ulaanbaatar	2023-07-27
+6618809	Delgertsogt	Delgertsogt	Dehlgehrcogt,Dehlgehrcogt Sum,Delgertsogt District,Delgertsogt Sum,Дэлгэрцогт,Дэлгэрцогт Сум	46.11906	106.37375	A	ADM2	MN		08	6618809			0		1396	Asia/Ulaanbaatar	2023-07-27
+6618810	Deren	Deren	Dehrehn,Dehrehn Sum,Deren,Deren District,Deren Sum,Дэрэн,Дэрэн Сум	46.17436	106.71638	A	ADM2	MN		08	6618810			0		1315	Asia/Ulaanbaatar	2023-07-27
+6618811	Tsagaandelger	Tsagaandelger	Cagaandehlgehr,Cagaandehlgehr Sum,Tsagaandelger,Tsagaandelger District,Tsagaandelger Sum,Цагаандэлгэр,Цагаандэлгэр Сум	46.40614	107.65091	A	ADM2	MN		08	6618811			0		1377	Asia/Ulaanbaatar	2023-07-27
+6618812	Govĭ-Ugtaal	Govi-Ugtaal	Gov'-Ugtaal,Gov'-Ugtaal Sum,Govi-Ugtaal,Govi-Ugtaal Sum,Govĭ-Ugtaal,Govĭ-Ugtaal Sum,Говь-Угтаал,Говь-Угтаал Сум	46.03416	107.49092	A	ADM2	MN		08	6618812			0		1493	Asia/Ulaanbaatar	2014-12-09
+6618813	Bayanjargalan	Bayanjargalan	Bajanzhargalan,Bajanzhargalan Sum,Bayanjargalan,Bayanjargalan Sum,Баянжаргалан,Баянжаргалан Сум	45.75651	107.98376	A	ADM2	MN		08	6618813			0		1242	Asia/Ulaanbaatar	2014-12-30
+6618814	Gurvansayhan	Gurvansayhan	Gurvansaikhan District,Gurvansajkhan,Gurvansajkhan Sum,Gurvansayhan Sum,Гурвансайхан,Гурвансайхан Сум	45.52499	107.04563	A	ADM2	MN		08	6618814			0		1162	Asia/Ulaanbaatar	2023-07-27
+6618815	Öndörshil	OEndoershil	OEndoershil,OEndoershil Sum,Öndörshil,Öndörshil Sum,Өndөrshil,Өndөrshil Sum,Өндөршил,Өндөршил Сум	45.22195	108.28279	A	ADM2	MN		08	6618815			0		1171	Asia/Ulaanbaatar	2015-04-05
+6618816	Öldziyt	OEldziyt	OElziit District,Ölziit District	45.29059	106.199	A	ADM2	MN		08	6618816			0		1214	Asia/Ulaanbaatar	2023-07-27
+6618817	Saintsagaan	Saintsagaan	Mandalgovi,Mandalgovi District,Saintsagaan District,Sajncagaan sum,Сайнцагаан сум	45.751	106.27144	A	ADM2	MN		08	6618817			0		1400	Asia/Ulaanbaatar	2023-07-27
+6618822	Delgerhaan	Delgerhaan	Dehlgehrkhaan,Dehlgehrkhaan Sum,Delgerhaan,Delgerhaan Sum,Дэлгэрхаан,Дэлгэрхаан Сум	46.59096	104.58504	A	ADM2	MN		18	6618822			0		1592	Asia/Ulaanbaatar	2014-12-30
+6618823	Büren	Bueren	Bueren,Bueren Sum,Büren,Büren Sum,Bүrehn,Bүrehn Sum,Бүрэн,Бүрэн Сум	46.91017	105.05058	A	ADM2	MN		18	6618823			0		1267	Asia/Ulaanbaatar	2014-12-09
+6618824	Bayantsagaan	Bayantsagaan	Bajancagaan,Bajancagaan Sum,Bayantsagaan,Bayantsagaan Sum,Баянцагаан,Баянцагаан Сум	46.79536	107.14966	A	ADM2	MN		18	6618824			0		1377	Asia/Ulaanbaatar	2014-12-30
+6618826	Sergelen	Sergelen	Sehrgehlehn,Sehrgehlehn Sum,Sergelen,Sergelen Sum,Сэргэлэн,Сэргэлэн Сум	47.66828	107.03602	A	ADM2	MN		18	6618826			0		1504	Asia/Ulaanbaatar	2014-12-30
+6618827	Altanbulag	Altanbulag	Altanbulag,Altanbulag District,Altanbulag Sum,Алтанбулаг,Алтанбулаг Сум	47.68943	106.4019	A	ADM2	MN		18	6618827			0		1252	Asia/Ulaanbaatar	2023-07-29
+6618828	Öndörshireet	OEndoershireet	OEndoershireet,OEndoershireet District,OEndoershireet Sum,Öndörshireet,Öndörshireet District,Öndörshireet Sum,Өndөrshireheht,Өndөrshireheht Sum,Өндөрширээт,Өндөрширээт Сум	47.30345	105.23117	A	ADM2	MN		18	6618828			0		1098	Asia/Ulaanbaatar	2023-07-29
+6618829	Erdenesant	Erdenesant	Ehrdehnehsant,Ehrdehnehsant Sum,Erdenesant,Erdenesant District,Erdenesant Sum,Эрдэнэсант,Эрдэнэсант Сум	47.32021	104.50058	A	ADM2	MN		18	6618829			0		1353	Asia/Ulaanbaatar	2023-07-29
+6618830	Lün	Luen	Luen,Luen Sum,Lün,Lün Sum,Lүn,Lүn Sum,Лүн,Лүн Сум	47.8627	105.25005	A	ADM2	MN		18	6618830			0		997	Asia/Ulaanbaatar	2014-12-29
+6618831	Bayanhangay	Bayanhangay	Bajankhangaj,Bajankhangaj Sum,Bayanhangay,Bayanhangay Sum,Bayankhangai,Bayankhangai District,Баянхангай,Баянхангай Сум	47.9436	105.55338	A	ADM2	MN		18	6618831			0		1077	Asia/Ulaanbaatar	2023-07-29
+6618832	Argalant	Argalant	Argalant,Argalant District,Argalant Sum,Аргалант,Аргалант Сум	47.9336	105.89516	A	ADM2	MN		18	6618832			0		1230	Asia/Ulaanbaatar	2023-07-29
+6618834	Ugtaal	Ugtaal	Ugtaal District	48.25028	105.4121	A	ADM2	MN		18	6618834			0		1138	Asia/Ulaanbaatar	2023-07-28
+6618835	Dzaamar	Dzaamar	Dzaamar,Dzaamar Sum,Zaamar,Zaamar District,Zaamar Sum,Заамар,Заамар Сум	48.20683	104.77421	A	ADM2	MN		18	6618835			0		1136	Asia/Ulaanbaatar	2023-07-29
+6618836	Tseel	Tseel	Cehehl,Cehehl Sum,Tseel,Tseel District,Tseel Sum,Цээл,Цээл Сум	48.44355	105.31837	A	ADM2	MN		18	6618836			0		1063	Asia/Ulaanbaatar	2023-07-29
+6618837	Jargalant	Jargalant	Jargalant,Jargalant District,Jargalant Sum,Zhargalant,Zhargalant Sum,Жаргалант,Жаргалант Сум	48.51478	105.86838	A	ADM2	MN		18	6618837			0		1001	Asia/Ulaanbaatar	2023-07-29
+6618838	Sümber	Suember	Suember District,Suember Sum,Sümber District,Sümber Sum,Sүmbehr,Sүmbehr Sum,Сүмбэр,Сүмбэр Сум	48.79216	105.92468	A	ADM2	MN		18	6618838			0		873	Asia/Ulaanbaatar	2023-07-29
+6618839	Bornuur	Bornuur	Bornuur,Bornuur District,Bornuur Sum,Борнуур,Борнуур Сум	48.46017	106.26732	A	ADM2	MN		18	6618839			0		1010	Asia/Ulaanbaatar	2023-07-29
+6618840	Bayanchandmanĭ	Bayanchandmani	Bajanchandman',Bajanchandman' Sum,Bayanchandmani,Bayanchandmani District,Bayanchandmani Sum,Bayanchandmanĭ,Bayanchandmanĭ Sum,Баянчандмань,Баянчандмань Сум	48.22033	106.29135	A	ADM2	MN		18	6618840			0		1261	Asia/Ulaanbaatar	2023-07-29
+6618841	Batsümber	Batsuember	Batsuember,Batsuember District,Batsuember Sum,Batsümber,Batsümber District,Batsümber Sum,Batsүmbehr,Batsүmbehr Sum,Батсүмбэр,Батсүмбэр Сум	48.35967	106.74179	A	ADM2	MN		18	6618841			0		1128	Asia/Ulaanbaatar	2023-07-29
+6618842	Möngönmorĭt	Moengoenmorit	Moengoenmorit,Moengoenmorit District,Moengoenmorit Sum,Möngönmorit District,Möngönmorĭt,Möngönmorĭt Sum,Mөngөnmor't,Mөngөnmor't Sum,Мөнгөнморьт,Мөнгөнморьт Сум	48.19504	108.48295	A	ADM2	MN		18	6618842			0		1435	Asia/Ulaanbaatar	2023-07-29
+6618843	Bayandelger	Bayandelger	Bajandehlgehr,Bajandehlgehr Sum,Bayandelger,Bayandelger District,Bayandelger Sum,Баяндэлгэр,Баяндэлгэр Сум	47.71623	108.11062	A	ADM2	MN		18	6618843			0		1427	Asia/Ulaanbaatar	2023-07-29
+6618844	Erdene	Erdene	Ehrdehneh,Ehrdehneh Sum,Erdene,Erdene District,Erdene Sum,Эрдэнэ,Эрдэнэ Сум	47.78882	107.883	A	ADM2	MN		18	6618844			0		1560	Asia/Ulaanbaatar	2023-07-29
+6618845	Arhust	Arhust	Arkhust,Arkhust District,Arkhust sum,Архуст,Архуст сум	47.509	107.954	A	ADM2	MN		18	6618845			0		1416	Asia/Ulaanbaatar	2024-02-01
+6618846	Bayan	Bayan		47.24218	107.53349	A	ADM2	MN		18	6618846			0		1403	Asia/Ulaanbaatar	2007-10-14
+6618847	Bayanjargalan	Bayanjargalan	Bajanzhargalan,Bajanzhargalan Sum,Bayanjargalan,Bayanjargalan District,Bayanjargalan Sum,Баянжаргалан,Баянжаргалан Сум	47.17419	108.26031	A	ADM2	MN		18	6618847			0		1370	Asia/Ulaanbaatar	2023-07-29
+6618848	Dzuunmod	Dzuunmod	Zuunmod District,Zuunmod sum,Зуунмод сум	47.6996	106.95225	A	ADM2	MN		18	6618848			0		1499	Asia/Ulaanbaatar	2023-07-29
+6618851	Baganuur	Baganuur		47.74579	108.36708	A	ADM2	MN		18	6618851			0		1349	Asia/Ulaanbaatar	2007-10-14
+6618852	Bayandzürh	Bayandzuerh		47.81362	107.16682	A	ADM2	MN		20	6618852			0		1437	Asia/Ulaanbaatar	2007-10-14
+6618853	Sharïngol	Sharingol	Sharingol,Sharingol Sum,Sharyngol,Sharyngol District,Sharyngol Sum,Sharïngol,Sharïngol Sum,Шарынгол,Шарынгол Сум	49.22275	106.4304	A	ADM2	MN		23	6618853			0		881	Asia/Ulaanbaatar	2023-07-28
+6618854	Hongor	Hongor	Hongor,Hongor Sum,Khongor,Khongor District,Khongor Sum,Хонгор,Хонгор Сум	49.42616	105.96039	A	ADM2	MN		23	6618854			0		715	Asia/Ulaanbaatar	2023-07-28
+6618855	Orhon	Orhon	Orhon,Orhon Sum,Orkhon,Orkhon District,Orkhon Sum,Орхон,Орхон Сум	49.83472	106.15952	A	ADM2	MN		23	6618855			0		638	Asia/Ulaanbaatar	2023-07-28
+6618857	Mandal	Mandal	Mandal District	48.84122	106.45752	A	ADM2	MN		16	6618857			0		858	Asia/Ulaanbaatar	2023-07-26
+6618859	Orhon	Orhon	Orhon Sum,Orkhon,Orkhon District,Orkhon Sum,Орхон,Орхон Сум	49.13792	105.38807	A	ADM2	MN		16	6618859			0		728	Asia/Ulaanbaatar	2023-07-28
+6618861	Sayhan	Sayhan	Saikhan,Saikhan District,Sajkhan,Sajkhan Sum,Sayhan,Sayhan Sum,Сайхан,Сайхан Сум	49.09304	105.55922	A	ADM2	MN		16	6618861			0		885	Asia/Ulaanbaatar	2023-07-28
+6618862	Sant	Sant	Sant,Sant District,Sant Sum,Сант,Сант Сум	49.23934	105.37434	A	ADM2	MN		16	6618862			0		724	Asia/Ulaanbaatar	2023-08-01
+6618863	Baruunbüren	Baruunbueren	Baruunbueren,Baruunbueren District,Baruunbueren Sum,Baruunbüren,Baruunbüren District,Baruunbüren Sum,Baruunbүrehn,Baruunbүrehn Sum,Баруунбүрэн,Баруунбүрэн Сум	49.25951	104.74417	A	ADM2	MN		16	6618863			0		1012	Asia/Ulaanbaatar	2023-07-29
+6618864	Orhontuul	Orhontuul	Orhontuul Sum,Orkhontuul,Orkhontuul District,Orkhontuul Sum,Орхонтуул,Орхонтуул Сум	48.94302	104.9754	A	ADM2	MN		16	6618864			0		767	Asia/Ulaanbaatar	2023-07-28
+6618865	Shaamar	Shaamar	Shaamar,Shaamar District,Shaamar Sum,Шаамар,Шаамар Сум	50.07896	106.18612	A	ADM2	MN		16	6618865			0		673	Asia/Ulaanbaatar	2023-07-26
+6618866	Dzüünbüren	Dzueuenbueren	Dzueuenbueren Sum,Dzüünbüren Sum,Zueuenbueren District,Züünbüren District,Zүүnbүrehn,Zүүnbүrehn Sum,Зүүнбүрэн,Зүүнбүрэн Сум	50.05934	105.88039	A	ADM2	MN		16	6618866			0		630	Asia/Ulaanbaatar	2023-07-28
+6618867	Tsagaannuur	Tsagaannuur	Cagaannuur,Cagaannuur Sum,Tsagaannuur District,Tsagaannuur Sum,Цагааннуур,Цагааннуур Сум	50.09283	105.41862	A	ADM2	MN		16	6618867			0		744	Asia/Ulaanbaatar	2023-07-28
+6618868	Tüshig	Tueshig	Tueshig,Tueshig District,Tueshig Sum,Tüshig,Tüshig District,Tüshig Sum,Tүshig,Tүshig Sum,Түшиг,Түшиг Сум	50.32508	105.04663	A	ADM2	MN		16	6618868			0		746	Asia/Ulaanbaatar	2023-07-29
+6618869	Sühbaatar	Suehbaatar	Suehbaatar Sum,Suekhbaatar District,Sühbaatar Sum,Sükhbaatar District,Sүkhbaatar,Sүkhbaatar Sum,Сүхбаатар,Сүхбаатар Сум	50.22667	106.2081	A	ADM2	MN		16	6618869			0		610	Asia/Ulaanbaatar	2023-07-28
+6618870	Altanbulag	Altanbulag	Altanbulag,Altanbulag Dsitrict,Altanbulag Sum,Алтанбулаг,Алтанбулаг Сум	50.3071	106.49906	A	ADM2	MN		16	6618870			0		687	Asia/Ulaanbaatar	2023-07-26
+6618872	Hüder	Hueder	Hueder,Hueder Sum,Hüder,Hüder Sum,Khueder District,Khüder District,Khүdehr,Khүdehr Sum,Хүдэр,Хүдэр Сум	49.77018	107.5177	A	ADM2	MN		16	6618872			0		695	Asia/Ulaanbaatar	2023-07-28
+6618873	Javhlant	Javhlant	Javhlant,Javhlant Sum,Javkhlant District,Zhavkhlant,Zhavkhlant Sum,Жавхлант,Жавхлант Сум	49.65696	106.33221	A	ADM2	MN		16	6618873			0		832	Asia/Ulaanbaatar	2023-08-01
+6618874	Hushaat	Hushaat	Hushaat,Hushaat District,Hushaat Sum,Khushaat,Khushaat Sum,Хушаат,Хушаат Сум	49.88269	105.65758	A	ADM2	MN		16	6618874			0		777	Asia/Ulaanbaatar	2023-07-26
+6618875	Bayan-Öndör	Bayan-OEndoer	Bayan-OEndoer sum,Bayan-Öndör sum,Ehrdehneht,Эрдэнэт	49.02391	104.08344	A	ADM2	MN		25	6618875			0		1297	Asia/Ulaanbaatar	2014-12-21
+6618877	Jargalant	Jargalant		49.05401	104.40162	A	ADM2	MN		25	6618877			0		1040	Asia/Ulaanbaatar	2007-10-15
+6618878	Hangal	Hangal	Hangal,Hangal Sum,Khangal,Khangal District,Khangal Sum,Хангал,Хангал Сум	49.31416	104.38213	A	ADM2	MN		21	6618878			0		1025	Asia/Ulaanbaatar	2023-08-01
+6618879	Selenge	Selenge	Sehlehngeh,Sehlehngeh Sum,Selenge,Selenge District,Selenge Sum,Сэлэнгэ,Сэлэнгэ Сум	49.45808	103.97324	A	ADM2	MN		21	6618879			0		798	Asia/Ulaanbaatar	2023-07-28
+6618881	Teshig	Teshig	Tehshig,Tehshig Sum,Teshig,Teshig District,Teshig Sum,Тэшиг,Тэшиг Сум	49.94106	102.66157	A	ADM2	MN		21	6618881			0		1003	Asia/Ulaanbaatar	2023-07-28
+6618882	Hutag-Öndör	Hutag-OEndoer	Hutag-OEndoer Sum,Hutag-Öndör Sum,Khutag-OEndoer District,Khutag-Öndör District,Khutag-Өndөr,Khutag-Өndөr Sum,Хутаг-Өндөр,Хутаг-Өндөр Сум	49.39131	102.69402	A	ADM2	MN		21	6618882			0		944	Asia/Ulaanbaatar	2023-07-29
+6618883	Bugat	Bugat	Bugat,Bugat District,Bugat Sum,Бугат,Бугат Сум	49.05857	103.66596	A	ADM2	MN		21	6618883			0		1227	Asia/Ulaanbaatar	2023-07-26
+6618884	Bayan-Agt	Bayan-Agt	Bajan-Agt,Bajan-Agt Sum,Bayan-Agt District,Bayan-Agt Sum,Баян-Агт,Баян-Агт Сум	49.03528	102.09011	A	ADM2	MN		21	6618884			0		1500	Asia/Ulaanbaatar	2023-07-28
+6618885	Sayhan	Sayhan	Saikhan,Saikhan District,Sajkhan,Sajkhan Sum,Sayhan,Sayhan Sum,Сайхан,Сайхан Сум	48.65446	102.6226	A	ADM2	MN		21	6618885			0		1424	Asia/Ulaanbaatar	2023-07-28
+6618886	Orhon	Orhon	Orkhon,Orkhon District	48.62122	103.53361	A	ADM2	MN		21	6618886			0		1059	Asia/Ulaanbaatar	2023-07-26
+6618887	Hishig-Öndör	Hishig-OEndoer	Hishig-OEndoer,Hishig-OEndoer Sum,Hishig-Öndör,Hishig-Öndör Sum,Khishig-OEndoer District,Khishig-Öndör District,Khishig-Өndөr,Khishig-Өndөr Sum,Хишиг-Өндөр,Хишиг-Өндөр Сум	48.29039	103.42924	A	ADM2	MN		21	6618887			0		1309	Asia/Ulaanbaatar	2023-07-29
+6618888	Mogod	Mogod	Mogod,Mogod District,Mogod Sum,Могод,Могод Сум	48.27097	102.9812	A	ADM2	MN		21	6618888			0		1431	Asia/Ulaanbaatar	2023-07-26
+6618889	Büreghangay	Buereghangay	Bueregkhangai,Bueregkhangai District,Büregkhangai,Büregkhangai District,Bүrehgkhangaj,Бүрэгхангай	48.24914	103.87985	A	ADM2	MN		21	6618889			0		1260	Asia/Ulaanbaatar	2023-07-26
+6618890	Dashinchilen	Dashinchilen	Dashinchilen District	47.83713	104.0498	A	ADM2	MN		21	6618890			0		1020	Asia/Ulaanbaatar	2023-07-26
+6618892	Bayannuur	Bayannuur	Bayannuurv District	47.82704	104.43578	A	ADM2	MN		21	6618892			0		976	Asia/Ulaanbaatar	2023-07-26
+6618893	Gurvanbulag	Gurvanbulag	Gurvanbulag District	47.62167	103.5173	A	ADM2	MN		21	6618893			0		1141	Asia/Ulaanbaatar	2023-07-26
+6618894	Rashaant	Rashaant	Rashaant  District	47.34976	103.43525	A	ADM2	MN		01	6618894			0		1300	Asia/Ulaanbaatar	2023-08-01
+6618895	Bulgan District	Bulgan District	Bulgan District	48.80392	103.53893	A	ADM2	MN		21	6618895			0		1189	Asia/Ulaanbaatar	2013-12-01
+6618997	Renchinlhümbe	Renchinlhuembe	Rehnchinlkhүmbeh,Rehnchinlkhүmbeh sum,Renchinlhumbe Sum,Renchinlkhuembe District,Renchinlkhümbe District,Рэнчинлхүмбэ,Рэнчинлхүмбэ сум	51.1032	99.67243	A	ADM2	MN		13	6618997			0		1577	Asia/Ulaanbaatar	2014-12-23
+6618998	Tsagaannuur	Tsagaannuur	Cagaannuur,Cagaannuur Sum,Tsagaannuur,Tsagaannuur Sum,Цагааннуур,Цагааннуур Сум	51.33919	99.34525	A	ADM2	MN		13	6618998			0		1537	Asia/Ulaanbaatar	2014-12-24
+6618999	Ulaan-Uul	Ulaan-Uul	Ulaan-Uul,Ulaan-Uul Sum,Улаан-Уул,Улаан-Уул Сум	50.67743	99.2304	A	ADM2	MN		13	6618999			0		1683	Asia/Ulaanbaatar	2014-12-24
+6619000	Bayandzürh	Bayandzuerh	Bajanzүrkh,Bajanzүrkh Sum,Bayandzuerh,Bayandzuerh Sum,Bayandzürh,Bayandzürh Sum,Баянзүрх,Баянзүрх Сум	50.16854	98.96999	A	ADM2	MN		13	6619000			0		1593	Asia/Ulaanbaatar	2014-12-24
+6619001	Alag-Erdene	Alag-Erdene	Alag-Ehrdehneh,Alag-Ehrdehneh sum,Alag-Erdene,Alag-Erdene Sum,Алаг-Эрдэнэ,Алаг-Эрдэнэ сум	50.11177	100.04288	A	ADM2	MN		13	6619001			0		1554	Asia/Ulaanbaatar	2014-12-24
+6619002	Arbulag	Arbulag	Arbulag,Arbulag Sum,Arbulag sum,Арбулаг,Арбулаг сум	49.89198	99.43417	A	ADM2	MN		13	6619002			0		1947	Asia/Ulaanbaatar	2014-12-23
+6619003	Tsagaan-Uul	Tsagaan-Uul	Cagaan-Uul sum,Tsagaan-Uul District,Цагаан-Уул сум	49.59224	98.6931	A	ADM2	MN		13	6619003			0		1809	Asia/Ulaanbaatar	2014-12-06
+6619004	Tsetserleg	Tsetserleg	Cehcehrlehg,Cehcehrlehg sum,Tsetserleg,Tsetserleg Sum,Цэцэрлэг,Цэцэрлэг сум	49.5237	97.74116	A	ADM2	MN		13	6619004			0		1746	Asia/Ulaanbaatar	2014-12-24
+6619005	Mörön	Moeroen	MXV,Moron,Murehn,Muren,Murenas,Môrôn,meuleung,morona,mu lun,mureni,mwrwn,mwrwn  mghwlstan,Морон,Мурен,Мурэн,Мөрөн,מורון,مورون,مورون، مغولستان,मोरोन,მურენი,木倫,므릉	49.62495	100.16304	A	ADM2	MN		13	6619005			0		1273	Asia/Ulaanbaatar	2017-03-10
+6619006	Bürentogtoh	Buerentogtoh	Buerentogtoh Sum,Buerentogtokh,Buerentogtokh District,Bürentogtoh Sum,Bürentogtokh,Bürentogtokh District,Bүrehntogtokh,Bүrehntogtokh sum,Бүрэнтогтох,Бүрэнтогтох сум	49.4246	99.59999	A	ADM2	MN		13	6619006			0		1773	Asia/Ulaanbaatar	2023-07-30
+6619007	Tömörbulag	Toemoerbulag	Toemoerbulag,Toemoerbulag District,Toemoerbulag Sum,Tömörbulag,Tömörbulag District,Tömörbulag Sum,Tөmөrbulag,Tөmөrbulag sum,Төмөрбулаг,Төмөрбулаг сум	49.29043	100.2566	A	ADM2	MN		13	6619007			0		1426	Asia/Ulaanbaatar	2023-07-30
+6619008	Shine-Ider	Shine-Ider	Shine-Ider,Shine-Ider District,Shine-Ider Sum,Shineh-Idehr,Shineh-Idehr sum,Шинэ-Идэр,Шинэ-Идэр сум	48.94596	99.53665	A	ADM2	MN		13	6619008			0		1673	Asia/Ulaanbaatar	2023-07-30
+6619009	Galt	Galt	Galt,Galt Sum,Galt sum,Галт,Галт сум	48.76728	99.87465	A	ADM2	MN		13	6619009			0		1493	Asia/Ulaanbaatar	2014-12-22
+6619010	Jargalant	Jargalant	Zhargalant sum,Жаргалант сум	48.58024	99.3528	A	ADM2	MN		13	6619010			0		1563	Asia/Ulaanbaatar	2014-12-06
+6619011	Tosontsengel	Tosontsengel	Tosoncehngehl,Tosoncehngehl Sum,Tosontsengel,Tosontsengel Sum,Тосонцэнгэл,Тосонцэнгэл Сум	49.47058	100.88917	A	ADM2	MN		13	6619011			0		1282	Asia/Ulaanbaatar	2014-12-24
+6619013	Rashaant	Rashaant	Rashaant,Rashaant Sum,Рашаант,Рашаант Сум	49.12062	101.42921	A	ADM2	MN		13	6619013			0		1382	Asia/Ulaanbaatar	2014-12-22
+6619014	Tünel	Tuenel	Tuenel,Tuenel District,Tuenel Sum,Tünel,Tünel District,Tünel Sum,Tүnehl,Tүnehl Sum,Түнэл,Түнэл Сум	49.85437	100.62824	A	ADM2	MN		13	6619014			0		1528	Asia/Ulaanbaatar	2023-07-30
+6619015	Chandmanĭ-Öndör	Chandmani-OEndoer	Chandman'-Өndөr,Chandman'-Өndөr Sum,Chandmani-OEndoer,Chandmani-OEndoer District,Chandmani-OEndoer Sum,Chandmani-Öndör District,Chandmanĭ-Öndör,Chandmanĭ-Öndör Sum,Чандмань-Өндөр,Чандмань-Өндөр Сум	50.4692	100.93071	A	ADM2	MN		13	6619015			0		1280	Asia/Ulaanbaatar	2023-07-30
+6619016	Tsagaan-Üür	Tsagaan-UEuer	Cagaan-Үүr,Cagaan-Үүr Sum,Tsagaan-UEuer District,Tsagaan-UEuer Sum,Tsagaan-Üür District,Tsagaan-Üür Sum,Цагаан-Үүр,Цагаан-Үүр Сум	50.53525	101.51299	A	ADM2	MN		13	6619016			0		1136	Asia/Ulaanbaatar	2023-07-30
+6619017	Erdenebulgan	Erdenebulgan	Ehrdehnehbulgan,Ehrdehnehbulgan Sum,Erdenebulgan Sum,Эрдэнэбулган,Эрдэнэбулган Сум	50.10076	101.57616	A	ADM2	MN		13	6619017			0		1224	Asia/Ulaanbaatar	2014-12-24
+6619018	Hanh	Hanh	Hanh,Hanh Sum,Khankh,Khankh Sum,Ханх,Ханх Сум	51.50265	100.66395	A	ADM2	MN		13	6619018			2100		1661	Asia/Ulaanbaatar	2016-07-30
+6619019	Tsetserleg	Tsetserleg	Cehcehrlehg,Cehcehrlehg Sum,Tsetserleg District,Tsetserleg Sum,Цэцэрлэг,Цэцэрлэг Сум	48.87623	101.23919	A	ADM2	MN		01	6619019			0		1672	Asia/Ulaanbaatar	2023-07-28
+6619020	Jargalant	Jargalant	Jargalant District,Jargalant Sum,Zhargalant,Zhargalant Sum,Жаргалант,Жаргалант Сум	48.72868	100.76231	A	ADM2	MN		01	6619020			0		1597	Asia/Ulaanbaatar	2023-07-28
+6619021	Erdenemandal	Erdenemandal	Ehrdehnehmandal,Ehrdehnehmandal Sum,Erdenemandal District,Erdenemandal Sum,Эрдэнэмандал,Эрдэнэмандал Сум	48.5232	101.3736	A	ADM2	MN		01	6619021			0		1499	Asia/Ulaanbaatar	2023-07-28
+6619022	Hayrhan	Hayrhan	Hayrhan Sum,Khangaj,Khangaj Sum,Хангай,Хангай Сум	48.60363	101.93493	A	ADM2	MN		01	6619022			0		1355	Asia/Ulaanbaatar	2014-12-08
+6619023	Erdenebulgan	Erdenebulgan		47.4715	101.45737	A	ADM2	MN		01	6619023			0		1700	Asia/Ulaanbaatar	2014-12-04
+6619024	Ihtamir	Ihtamir	Ihtamir,Ihtamir Sum,Ikh-Tamir,Ikhtamir,Ikhtamir Sum,Ихтамир,Ихтамир Сум	47.48972	100.87955	A	ADM2	MN		01	6619024			0		1759	Asia/Ulaanbaatar	2014-12-29
+6619025	Öndör-Ulaan	OEndoer-Ulaan	OEndoer-Ulaan Sum,Öndör-Ulaan Sum,Өndөr-Ulaan,Өndөr-Ulaan Sum,Өндөр-Улаан,Өндөр-Улаан Сум	48.03953	100.50877	A	ADM2	MN		01	6619025			0		1915	Asia/Ulaanbaatar	2014-12-08
+6619026	Chuluut	Chuluut	Chuluut,Chuluut District,Chuluut Sum,Чулуут,Чулуут Сум	47.52972	100.21694	A	ADM2	MN		01	6619026			0		2036	Asia/Ulaanbaatar	2023-07-28
+6619027	Hangay	Hangay	Hangai,Hangai District,Khangaj,Khangaj Sum,Хангай,Хангай Сум	47.86178	99.46609	A	ADM2	MN		01	6619027			0		2147	Asia/Ulaanbaatar	2014-12-07
+6619028	Tsahir	Tsahir	Cakhir,Cakhir Sum,Tsahir Sum,Tsakhir District,Цахир,Цахир Сум	48.07097	98.85052	A	ADM2	MN		01	6619028			0		2176	Asia/Ulaanbaatar	2023-07-28
+6619029	Bulgan	Bulgan	Bulgan District	47.31503	101.11585	A	ADM2	MN		01	6619029			0		1916	Asia/Ulaanbaatar	2023-07-28
+6619030	Tsenher	Tsenher	Cehnkhehr,Cehnkhehr Sum,Tsenher Sum,Tsenkher District,Цэнхэр,Цэнхэр Сум	47.44498	101.75486	A	ADM2	MN		01	6619030			0		1571	Asia/Ulaanbaatar	2014-12-07
+6619031	Tüvshrüüleh	Tuevshrueueleh	Toevshrueueleh,Toevshrueueleh Sum,Tövshrüüleh,Tövshrüüleh Sum,Tүvshrүүlehkh,Tүvshrүүlehkh sum,Түвшрүүлэх,Түвшрүүлэх сум	47.37476	101.90832	A	ADM2	MN		01	6619031			0		1636	Asia/Ulaanbaatar	2016-10-12
+6619032	Hotont	Hotont	Hotont,Hotont Sum,Khotont,Khotont District,Khotont Sum,Хотонт,Хотонт Сум	47.35976	102.46845	A	ADM2	MN		01	6619032			0		1455	Asia/Ulaanbaatar	2023-07-28
+6619033	Hashaat	Hashaat	Hashaat Sum,Khashaat,Khashaat District,Khashaat Sum,Хашаат,Хашаат Сум	47.44527	103.15029	A	ADM2	MN		01	6619033			0		1288	Asia/Ulaanbaatar	2014-12-07
+6619034	Ögiynuur	OEgiynuur	OEgii nuur,OEgii nuur District,OEgiynuur,OEgiynuur Sum,Ögii nuur,Ögii nuur District,Ögiynuur,Ögiynuur Sum,Өgijnuur,Өgijnuur Sum,Өгийнуур,Өгийнуур Сум	47.6603	102.55051	A	ADM2	MN		01	6619034			0		1346	Asia/Ulaanbaatar	2023-07-30
+6619035	Battsengel	Battsengel	Batcehngehl,Batcehngehl Sum,Battsengel District,Battsengel Sum,Батцэнгэл,Батцэнгэл Сум	47.78802	101.97218	A	ADM2	MN		01	6619035			0		1427	Asia/Ulaanbaatar	2014-12-07
+6619036	Öldziyt	OEldziyt	OEldziyt Sum,OElziit District,Öldziyt Sum,Ölziit District,Өlzijt,Өlzijt Sum,Өлзийт,Өлзийт Сум	48.09792	102.55703	A	ADM2	MN		01	6619036			0		1302	Asia/Ulaanbaatar	2014-12-07
+6619042	Harhorin	Harhorin	Harhorin Sum,Kharkhorin,Kharkhorin Sum,Хархорин,Хархорин Сум	47.19251	102.82396	A	ADM2	MN		15	6619042			0		1478	Asia/Ulaanbaatar	2014-12-29
+6619043	Hujirt	Hujirt	Hujirt Sum,Khuzhirt,Khuzhirt Sum,Хужирт,Хужирт Сум	46.88918	102.78191	A	ADM2	MN		15	6619043			0		1660	Asia/Ulaanbaatar	2014-12-29
+6619044	Bat-Öldziy	Bat-OEldziy	Bat-OEldziy,Bat-OEldziy Sum,Bat-Öldziy,Bat-Öldziy Sum,Bat-Өlzij,Bat-Өlzij Sum,Бат-Өлзий,Бат-Өлзий Сум	46.81322	102.24941	A	ADM2	MN		15	6619044			0		1684	Asia/Ulaanbaatar	2014-12-24
+6619045	Uyanga	Uyanga	Ujanga,Ujanga Sum,Uyanga,Uyanga Sum,Уянга,Уянга Сум	46.45666	102.281	A	ADM2	MN		15	6619045			0		2004	Asia/Ulaanbaatar	2014-12-29
+6619046	Dzüünbayan-Ulaan	Dzueuenbayan-Ulaan	Dzueuenbayan-Ulaan,Dzueuenbayan-Ulaan Sum,Dzüünbayan-Ulaan,Dzüünbayan-Ulaan Sum,Zүүnbajan-Ulaan,Zүүnbajan-Ulaan Sum,Зүүнбаян-Улаан,Зүүнбаян-Улаан Сум	46.51919	102.59441	A	ADM2	MN		15	6619046			0		1859	Asia/Ulaanbaatar	2014-12-24
+6619047	Taragt	Taragt	Taragt,Taragt Sum,Тарагт,Тарагт Сум	46.29915	102.44579	A	ADM2	MN		15	6619047			0		1959	Asia/Ulaanbaatar	2014-12-29
+6619048	Arvayheer	Arvayheer	Arvaiheer,Arvaiheer Sum,Arvaikheer,Arvajkhehehr,Arvajkhehehr Sum,Арвайхээр,Арвайхээр Сум	46.25893	102.77538	A	ADM2	MN		15	6619048			0		1831	Asia/Ulaanbaatar	2015-04-05
+6619049	Hayrhandulaan	Hayrhandulaan	Hayrhandulaan,Hayrhandulaan Sum,Khajrkhandulaan,Khajrkhandulaan Sum,Хайрхандулаан,Хайрхандулаан Сум	45.94065	102.04994	A	ADM2	MN		15	6619049			0		1870	Asia/Ulaanbaatar	2014-12-29
+6619050	Nariynteel	Nariynteel	Nariinteel,Narijntehehl,Narijntehehl Sum,Nariynteel,Nariynteel Sum,Нарийнтээл,Нарийнтээл Сум	45.9595	101.45977	A	ADM2	MN		15	6619050			0		1805	Asia/Ulaanbaatar	2014-12-29
+6619051	Baruunbayan-Ulaan	Baruunbayan-Ulaan	Baruun Bayan-Ulaan District,Baruunbajan-Ulaan,Baruunbajan-Ulaan Sum,Baruunbayan-Ulaan,Baruunbayan-Ulaan Sum,Баруунбаян-Улаан,Баруунбаян-Улаан Сум	45.16449	101.41823	A	ADM2	MN		15	6619051			0		1242	Asia/Ulaanbaatar	2023-07-30
+6619052	Guchin-Us	Guchin-Us	Guchin-Us,Guchin-Us District,Guchin-Us Sum,Гучин-Ус,Гучин-Ус Сум	45.45832	102.4209	A	ADM2	MN		15	6619052			0		1472	Asia/Ulaanbaatar	2023-07-30
+6619053	Bogd	Bogd		44.6653	102.17525	A	ADM2	MN		15	6619053			0		1529	Asia/Ulaanbaatar	2014-12-05
+6619054	Tögrög	Toegroeg	Toegroeg,Toegroeg District,Toegroeg Sum,Tögrög,Tögrög District,Tögrög Sum,Tөgrөg,Tөgrөg Sum,Төгрөг,Төгрөг Сум	45.52836	102.98378	A	ADM2	MN		15	6619054			0		1395	Asia/Ulaanbaatar	2023-07-30
+6619056	Bayangol	Bayangol	Bajangol,Bajangol Sum,Bayangol,Bayangol Sum,Баянгол,Баянгол Сум	45.9703	103.25895	A	ADM2	MN		15	6619056			0		1528	Asia/Ulaanbaatar	2014-12-24
+6619057	Sant	Sant	Sant,Sant Sum,Сант,Сант Сум	46.08609	103.83934	A	ADM2	MN		15	6619057			0		1488	Asia/Ulaanbaatar	2014-12-24
+6619058	Bayan-Öndör	Bayan-OEndoer	Bajan-Өndөr,Bajan-Өndөr Sum,Bayan-OEndoer,Bayan-OEndoer Sum,Bayan-Öndör,Bayan-Öndör Sum,Баян-Өндөр,Баян-Өндөр Сум	46.49118	104.11863	A	ADM2	MN		15	6619058			0		1614	Asia/Ulaanbaatar	2014-12-25
+6619059	Öldziyt	OEldziyt	OEldziyt,OEldziyt Sum,OElziit,OElziit District,Öldziyt,Öldziyt Sum,Ölziit,Ölziit District,Өlzijt,Өlzijt Sum,Өлзийт,Өлзийт Сум	46.64413	103.31646	A	ADM2	MN		15	6619059			0		1707	Asia/Ulaanbaatar	2023-07-30
+6619060	Yösöndzüyl	Yoesoendzueyl		46.74598	103.52503	A	ADM2	MN		15	6619060			0		1783	Asia/Ulaanbaatar	2007-10-21
+6619061	Bürd	Buerd	Buerd,Buerd District,Buerd Sum,Bürd,Bürd District,Bürd Sum,Bүrd,Bүrd Sum,Бүрд,Бүрд Сум	46.97814	103.78355	A	ADM2	MN		15	6619061			0		1497	Asia/Ulaanbaatar	2023-07-30
+6619062	Dzag	Dzag	Dzag,Dzag Sum,Zag,Zag District,Zag Sum,Заг,Заг Сум	46.93725	99.16655	A	ADM2	MN		02	6619062			0		2021	Asia/Ulaanbaatar	2023-07-28
+6619063	Gurvanbulag	Gurvanbulag	Gurvanbulag,Gurvanbulag District,Gurvanbulag Sum,Гурванбулаг,Гурванбулаг Сум	47.22505	98.57002	A	ADM2	MN		02	6619063			0		2424	Asia/Ulaanbaatar	2023-02-25
+6619064	Jargalant	Jargalant	Jargalant,Jargalant District,Jargalant Sum,Zhargalant,Zhargalant Sum,Жаргалант,Жаргалант Сум	47.14245	99.66419	A	ADM2	MN		02	6619064			0		2219	Asia/Ulaanbaatar	2023-08-01
+6619065	Bayanbulag	Bayanbulag	Bayanbulag District	46.80488	98.09092	A	ADM2	MN		02	6619065			0		2253	Asia/Ulaanbaatar	2023-07-26
+6619066	Bayantsagaan	Bayantsagaan	Bajancagaan,Bajancagaan Sum,Bayantsagaan,Bayantsagaan District,Bayantsagaan Sum,Баянцагаан,Баянцагаан Сум	45.01142	98.92828	A	ADM2	MN		02	6619066			0		2025	Asia/Ulaanbaatar	2023-08-01
+6619067	Hüreemaral	Huereemaral	Huereemaral,Huereemaral Sum,Hüreemaral,Hüreemaral Sum,Khuereemaral,Khüreemaral,Khүrehehmaral,Khүrehehmaral Sum,Хүрээмарал,Хүрээмарал Сум	46.40212	98.28781	A	ADM2	MN		02	6619067			0		2062	Asia/Ulaanbaatar	2014-12-23
+6619068	Buutsagaan	Buutsagaan	Buucagaan,Buucagaan Sum,Buutsagaan,Buutsagaan District,Buutsagaan Sum,Бууцагаан,Бууцагаан Сум	46.16152	98.69173	A	ADM2	MN		02	6619068			0		1926	Asia/Ulaanbaatar	2023-08-01
+6619069	Bömbögör	Boemboegoer	Boemboegoer,Boemboegoer District,Boemboegoer Sum,Bömbögör,Bömbögör District,Bömbögör Sum,Bөmbөgөr,Bөmbөgөr Sum,Бөмбөгөр,Бөмбөгөр Сум	46.20502	99.59879	A	ADM2	MN		02	6619069			0		2009	Asia/Ulaanbaatar	2023-08-01
+6619070	Bayan-Ovoo	Bayan-Ovoo	Bajan-Ovoo,Bajan-Ovoo Sum,Bayan-Ovoo,Bayan-Ovoo District,Bayan-Ovoo Sum,Баян-Овоо,Баян-Овоо Сум	46.28077	100.44868	A	ADM2	MN		02	6619070			0		1945	Asia/Ulaanbaatar	2023-07-29
+6619071	Galuut	Galuut	Galuut,Galuut District,Galuut Sum,Галуут,Галуут Сум	46.69172	100.14399	A	ADM2	MN		02	6619071			0		2107	Asia/Ulaanbaatar	2023-07-26
+6619072	Erdenetsogt	Erdenetsogt	Ehrdehnehcogt,Ehrdehnehcogt Sum,Erdenetsogt,Erdenetsogt District,Erdenetsogt Sum,Эрдэнэцогт,Эрдэнэцогт Сум	46.41254	100.82256	A	ADM2	MN		02	6619072			0		2074	Asia/Ulaanbaatar	2023-08-01
+6619073	Bayanhongor	Bayanhongor	Bayankhongor,Bayankhongor. District	46.18958	100.71819	A	ADM2	MN		02	6619073			0		1871	Asia/Ulaanbaatar	2023-07-26
+6619074	Öldziyt	OEldziyt	OEldziyt Sum,OElziit,OElziit District,Öldziyt Sum,Ölziit,Ölziit District,Өlzijt,Өlzijt Sum,Өлзийт,Өлзийт Сум	46.06227	100.8169	A	ADM2	MN		02	6619074			0		1786	Asia/Ulaanbaatar	2023-08-01
+6619075	Jinst	Jinst	Jinst,Jinst District,Jinst Sum,Zhinst,Zhinst Sum,Жинст,Жинст Сум	45.40158	100.574	A	ADM2	MN		02	6619075			0		1403	Asia/Ulaanbaatar	2023-08-01
+6619076	Bogd	Bogd	Bogd,Bogd District,Bogd Sum,Богд,Богд Сум	45.19607	100.77038	A	ADM2	MN		02	6619076			0		1284	Asia/Ulaanbaatar	2023-07-26
+6619077	Bayangovĭ	Bayangovi	Bajangov',Bajangov' Sum,Bayangovi District,Bayangovi Sum,Bayangovĭ Sum,Баянговь,Баянговь Сум	44.73186	100.39118	A	ADM2	MN		02	6619077			0		1579	Asia/Ulaanbaatar	2023-08-01
+6619078	Bayanlig	Bayanlig	Bajanlig,Bajanlig Sum,Bayanlig,Bayanlig District,Bayanlig Sum,Баянлиг,Баянлиг Сум	44.54191	100.82788	A	ADM2	MN		02	6619078			0		1342	Asia/Ulaanbaatar	2023-08-01
+6619079	Baatsagaan	Baatsagaan	Baacagaan,Baacagaan Sum,Baatsagaan,Baatsagaan District,Baatsagaan Sum,Баацагаан,Баацагаан Сум	45.55036	99.43331	A	ADM2	MN		02	6619079			0		1324	Asia/Ulaanbaatar	2023-08-01
+6619080	Bayan-Öndör	Bayan-OEndoer	Bajan-Өndөr,Bajan-Өndөr Sum,Bayan-OEndoer,Bayan-OEndoer District,Bayan-OEndoer Sum,Bayan-Öndör,Bayan-Öndör District,Bayan-Öndör Sum,Баян-Өндөр,Баян-Өндөр Сум	44.77233	98.65499	A	ADM2	MN		02	6619080			0		2498	Asia/Ulaanbaatar	2023-07-29
+6619081	Shinejinst	Shinejinst	Shinehzhinst,Shinehzhinst Sum,Shinejinst District,Shinejinst Sum,Шинэжинст,Шинэжинст Сум	44.52833	99.26662	A	ADM2	MN		02	6619081			0		2258	Asia/Ulaanbaatar	2023-08-01
+6619082	Höhmorĭt	Hoehmorit	Hoehmorit Sum,Höhmorĭt Sum,Khoekh morit,Khoekh morit District,Khökh morit,Khökh morit District,Khөkhmor't,Khөkhmor't Sum,Хөхморьт,Хөхморьт Сум	47.3515	94.52534	A	ADM2	MN		10	6619082			0		1439	Asia/Hovd	2023-07-30
+6619083	Bayan-Uul	Bayan-Uul	Bajan-Uul,Bajan-Uul Sum,Bayan-Uul,Bayan-Uul District,Bayan-Uul Sum,Баян-Уул,Баян-Уул Сум	46.98892	95.19962	A	ADM2	MN		10	6619083			0		1827	Asia/Hovd	2023-07-30
+6619084	Jargalan	Jargalan	Jargalan,Jargalan District,Jargalan Sum,Zhargalan,Zhargalan Sum,Жаргалан,Жаргалан Сум	46.97217	95.92781	A	ADM2	MN		10	6619084			0		1536	Asia/Hovd	2023-07-29
+6619085	Tayshir	Tayshir	Taishir District,Tajshir,Tajshir Sum,Tayshir,Tayshir Sum,Тайшир,Тайшир Сум	46.70185	96.52536	A	ADM2	MN		10	6619085			0		1669	Asia/Hovd	2023-07-29
+6619086	Delger	Delger	Dehlgehr,Dehlgehr Sum,Delger,Delger Sum,Дэлгэр,Дэлгэр Сум	46.34314	97.36668	A	ADM2	MN		10	6619086			0		1805	Asia/Hovd	2014-12-23
+6619087	Sharga	Sharga	Delger District,Sharga,Sharga Sum,Шарга,Шарга Сум	46.24231	95.26691	A	ADM2	MN		10	6619087			0		994	Asia/Hovd	2023-07-30
+6619088	Darvi	Darvi	Darvi,Darvi District,Darvi Sum,Дарви,Дарви Сум	46.43951	94.11438	A	ADM2	MN		10	6619088			0		1607	Asia/Hovd	2023-07-30
+6619089	Tonhil	Tonhil	Tonhil,Tonhil Sum,Tonkhil,Tonkhil District,Tonkhil Sum,Тонхил,Тонхил Сум	46.29714	93.9053	A	ADM2	MN		10	6619089			0		2189	Asia/Hovd	2023-07-30
+6619090	Tögrög	Toegroeg	Toegroeg District,Toegroeg Sum,Tögrög District,Tögrög Sum,Tөgrөg,Tөgrөg Sum,Төгрөг,Төгрөг Сум	45.8221	94.81562	A	ADM2	MN		10	6619090			0		1706	Asia/Hovd	2023-07-30
+6619091	Bugat	Bugat	Bugat,Bugat District,Bugat Sum,Бугат,Бугат Сум	45.54928	94.36466	A	ADM2	MN		10	6619091			0		2121	Asia/Hovd	2023-07-30
+6619092	Yösönbulag	Yoesoenbulag	Esөnbulag,Esөnbulag Sum,Yoesoenbulag,Yoesoenbulag Sum,Yösönbulag,Yösönbulag Sum,Есөнбулаг,Есөнбулаг Сум	46.36399	96.25877	A	ADM2	MN		10	6619092			0		2167	Asia/Hovd	2014-12-29
+6619093	Haliun	Haliun	Haliun,Haliun Sum,Khaliun,Khaliun District,Khaliun Sum,Халиун,Халиун Сум	45.92542	96.16221	A	ADM2	MN		10	6619093			0		1460	Asia/Hovd	2023-07-30
+6619094	Tseel	Tseel	Cehehl,Cehehl Sum,Tseel,Tseel District,Tseel Sum,Цээл,Цээл Сум	45.56178	95.86584	A	ADM2	MN		10	6619094			0		2060	Asia/Hovd	2023-07-30
+6619095	Altay	Altay	Altai,Altai District,Altaj,Altaj Sum,Altay Sum,Алтай,Алтай Сум	44.61381	94.91668	A	ADM2	MN		10	6619095			0		1422	Asia/Hovd	2023-07-30
+6619096	Tsogt	Tsogt	Cogt,Cogt Sum,Tsogt,Tsogt District,Tsogt Sum,Цогт,Цогт Сум	45.33899	96.64621	A	ADM2	MN		10	6619096			0		2289	Asia/Hovd	2023-07-30
+6619097	Biger	Biger	Bigehr,Bigehr Sum,Biger,Biger District,Biger Sum,Бигэр,Бигэр Сум	45.7015	97.17665	A	ADM2	MN		10	6619097			0		1374	Asia/Hovd	2023-07-30
+6619098	Chandmanĭ	Chandmani	Chandman',Chandman' Sum,Chandmani,Chandmani District,Chandmani Sum,Chandmanĭ,Chandmanĭ Sum,Чандмань,Чандмань Сум	45.32934	97.99067	A	ADM2	MN		10	6619098			0		2293	Asia/Hovd	2023-07-30
+6619099	Erdene	Erdene	Ehrdehneh,Ehrdehneh Sum,Erdene,Erdene District,Erdene Sum,Эрдэнэ,Эрдэнэ Сум	45.14113	97.72408	A	ADM2	MN		10	6619099			0		2422	Asia/Hovd	2023-07-30
+6619109	Erdenebüren	Erdenebueren	Ehrdehnehbүrehn,Ehrdehnehbүrehn sum,Erdenebueren District,Erdenebueren Sum,Erdenebüren District,Erdenebüren Sum,Эрдэнэбүрэн,Эрдэнэбүрэн сум	48.47861	91.44041	A	ADM2	MN		12	6619109			0		1273	Asia/Hovd	2023-07-31
+6619110	Buyant	Buyant	Bujant,Bujant Sum,Buyant,Buyant District,Buyant Sum,Буянт,Буянт Сум	48.06236	91.81721	A	ADM2	MN		12	6619110			0		1237	Asia/Hovd	2012-12-15
+6619111	Myangad	Myangad	Mjangad,Mjangad Sum,Myangad,Myangad District,Myangad Sum,Мянгад,Мянгад Сум	48.2281	91.92329	A	ADM2	MN		12	6619111			0		1173	Asia/Hovd	2023-07-31
+6619113	Jargalant	Jargalant	Hovd,Jargalant sum,Khobdo,Khovd,Kobdo	47.99291	91.64246	A	ADM2	MN		12	6619113			0		1408	Asia/Hovd	2015-04-11
+6619115	Khovd	Khovd	Khovd District	48.10193	91.35681	A	ADM2	MN		12	6619115			0		1818	Asia/Hovd	2023-07-26
+6619116	Duut	Duut	Duut,Duut District,Duut Sum,Дуут,Дуут Сум	47.51314	91.63267	A	ADM2	MN		12	6619116			0		2306	Asia/Hovd	2023-07-31
+6619117	Manhan	Manhan	Manhan,Manhan Sum,Mankhan,Mankhan District,Mankhan Sum,Манхан,Манхан Сум	47.41967	92.22422	A	ADM2	MN		12	6619117			0		1354	Asia/Hovd	2023-07-31
+6619118	Dzereg	Dzereg	Dzereg,Dzereg Sum,Zehrehg,Zehrehg Sum,Zereg District,Зэрэг,Зэрэг Сум	47.10612	92.84357	A	ADM2	MN		12	6619118			0		1153	Asia/Hovd	2023-07-31
+6619119	Mönhhayrhan	Moenhhayrhan	Moenhhayrhan,Moenhhayrhan Sum,Mönhhayrhan,Mönhhayrhan Sum,Mөnkhkhajrkhan,Mөnkhkhajrkhan Sum,Мөнххайрхан,Мөнххайрхан Сум	46.90912	92.11676	A	ADM2	MN		12	6619119			0		2784	Asia/Hovd	2014-12-25
+6619120	Chandmanĭ	Chandmani	Chandman',Chandman' Sum,Chandmani District,Chandmani Sum,Chandmanĭ Sum,Чандмань,Чандмань Сум	47.82653	92.64925	A	ADM2	MN		12	6619120			0		1538	Asia/Hovd	2023-07-31
+6619121	Darvi	Darvi	Darvi,Darvi Sum,Дарви,Дарви Сум	46.92987	93.61931	A	ADM2	MN		12	6619121			0		1481	Asia/Hovd	2014-12-21
+6619122	Tsetseg	Tsetseg	Cehcehg,Cehcehg Sum,Tsetseg,Tsetseg Sum,Цэцэг,Цэцэг Сум	46.58883	93.26723	A	ADM2	MN		12	6619122			0		1714	Asia/Hovd	2014-12-21
+6619123	Möst	Moest	Moest,Moest Sum,Möst,Möst Sum,Mөst,Mөst Sum,Мөст,Мөст Сум	46.67712	92.78521	A	ADM2	MN		12	6619123			0		2038	Asia/Hovd	2014-12-22
+6619124	Üyönch	UEyoench	UEyench Sum,Üyench Sum,Үench,Үench sum,Үенч,Үенч сум	46.04786	92.02612	A	ADM2	MN		12	6619124			0		1378	Asia/Hovd	2015-04-05
+6619126	Altay	Altay	Altai,Altai District,Altaj,Altaj Sum,Altay,Altay Sum,Алтай,Алтай Сум	45.79566	92.28687	A	ADM2	MN		12	6619126			0		1312	Asia/Hovd	2023-07-28
+6619140	Tsagaannuur	Tsagaannuur	Cagaannuur,Cagaannuur Sum,Tsagaannuur,Tsagaannuur District,Tsagaannuur Sum,Цагааннуур,Цагааннуур Сум	49.50481	89.73255	A	ADM2	MN		03	6619140			0		2110	Asia/Hovd	2023-07-30
+6619141	Nogoonnuur	Nogoonnuur	Nogoonnuur,Nogoonnuur District,Nogoonnuur Sum,Ногооннуур,Ногооннуур Сум	49.60893	90.24239	A	ADM2	MN		03	6619141			0		1530	Asia/Hovd	2023-07-30
+6619142	Ulaanhus	Ulaanhus	Ulaanhus,Ulaanhus Sum,Ulaankhus,Ulaankhus District,Ulaankhus Sum,Улаанхус,Улаанхус Сум	49.03573	89.43747	A	ADM2	MN		03	6619142			0		1769	Asia/Hovd	2023-07-30
+6619143	Tsengel	Tsengel	Cehngehl,Cehngehl Sum,Tsengel,Tsengel District,Tsengel Sum,Цэнгэл,Цэнгэл Сум	48.94314	89.14358	A	ADM2	MN		03	6619143			8348		1883	Asia/Hovd	2023-07-30
+6619144	Sagsay sum	Sagsay sum	Sagsai District,Sagsaj,Sagsaj Sum,Sagsay,Sagsay Sum,Сагсай,Сагсай Сум	48.89429	89.63608	A	ADM2	MN		03	6619144			0		1760	Asia/Hovd	2023-07-30
+6619145	Bugat	Bugat	Bugat,Bugat District,Bugat Sum,Бугат,Бугат Сум	48.94742	90.01974	A	ADM2	MN		03	6619145			0		1707	Asia/Hovd	2023-07-30
+6619146	Ölgii	OElgii	OElgii,ULG,Ulgij,Ölgii,Улгий,Өlke,Өлке	48.96382	89.96215	A	ADM2	MN		03	6619146			0	1710	1714	Asia/Hovd	2024-11-04
+6619147	Altantsögts	Altantsoegts	Altancөgc,Altancөgc Sum,Altantsoegts,Altantsoegts District,Altantsoegts Sum,Altantsögts,Altantsögts District,Altantsögts Sum,Алтанцөгц,Алтанцөгц Сум	49.04811	90.46177	A	ADM2	MN		03	6619147			0		1614	Asia/Hovd	2023-07-30
+6619149	Tolbo	Tolbo	Tolbo,Tolbo District,Tolbo Sum,Толбо,Толбо Сум	48.4112	90.29251	A	ADM2	MN		03	6619149			0		2110	Asia/Hovd	2023-07-30
+6619150	Altay	Altay	Altai,Altai District,Altaj,Altaj Sum,Altay Sum,Алтай,Алтай Сум	48.29359	89.51488	A	ADM2	MN		03	6619150			0		2151	Asia/Hovd	2023-07-30
+6619151	Buyant	Buyant	Bujant,Bujant Sum,Buyant,Buyant District,Buyant Sum,Буянт,Буянт Сум	48.57621	89.54759	A	ADM2	MN		03	6619151			0		1952	Asia/Hovd	2023-07-30
+6619152	Delüün	Delueuen	Dehlүүn,Dehlүүn Sum,Delueuen,Delueuen District,Delueuen Sum,Delüün,Delüün District,Delüün Sum,Дэлүүн,Дэлүүн Сум	47.75848	90.83324	A	ADM2	MN		03	6619152			0		2048	Asia/Hovd	2023-07-30
+6619153	Bulgan	Bulgan	Bulgan,Bulgan District,Bulgan Sum,Булган,Булган Сум	46.92072	91.08713	A	ADM2	MN		03	6619153			0		1937	Asia/Hovd	2023-07-30
+6619154	Davst	Davst	Davst,Davst District,Davst Sum,Давст,Давст Сум	50.60634	92.40292	A	ADM2	MN		19	6619154			0		845	Asia/Hovd	2023-07-30
+6619155	Sagil	Sagil	Sagil,Sagil District,Sagil Sum,Сагил,Сагил Сум	50.33056	91.60641	A	ADM2	MN		19	6619155			0		1124	Asia/Hovd	2014-12-08
+6619156	Türgen	Tuergen	Tgrgehn,Tgrgehn Sum,Tuergen,Tuergen District,Tuergen Sum,Türgen,Türgen District,Türgen Sum,Тγргэн,Тγргэн Сум	50.09713	91.66649	A	ADM2	MN		19	6619156			0		1224	Asia/Hovd	2023-07-30
+6619157	Tarialan	Tarialan	Tarialan,Tarialan District,Tarialan Sum,Тариалан,Тариалан Сум	49.77439	91.90381	A	ADM2	MN		19	6619157			0		1399	Asia/Hovd	2023-07-30
+6619158	Ulaangom	Ulaangom	Ulaangom,Ulaangom District,Ulaangom sum,Улаангом,Улаангом сум	49.9754	92.06612	A	ADM2	MN		19	6619158			0		938	Asia/Hovd	2023-07-30
+6619159	Naranbulag	Naranbulag	Naranbulag,Naranbulag District,Naranbulag Sum,Наранбулаг,Наранбулаг Сум	49.35286	92.56737	A	ADM2	MN		19	6619159			0		1089	Asia/Hovd	2023-07-30
+6619160	Ölgiy	OElgiy	O'lgii District,OElgiy Sum,Ölgiy Sum,Өlgij,Өlgij Sum,Өлгий,Өлгий Сум	49.02571	92.03659	A	ADM2	MN		19	6619160			0		1586	Asia/Hovd	2023-07-30
+6619161	Ömnögovĭ	OEmnoegovi	OEmnoegovi District,OEmnoegovi Sum,Ömnögovi District,Ömnögovĭ Sum,Өmnɵgov',Өmnɵgov' Sum,Өмнɵговь,Өмнɵговь Сум	49.10208	91.7179	A	ADM2	MN		19	6619161			0		1594	Asia/Hovd	2023-07-30
+6619162	Hovd	Hovd	Hovd,Hovd Sum,Khovd,Khovd District,Khovd Sum,Ховд,Ховд Сум	49.2743	90.91375	A	ADM2	MN		19	6619162			0		1407	Asia/Hovd	2023-07-30
+6619163	Böhmörön	Boehmoeroen	Bo'hmoron District,Boehmoeroen Sum,Böhmörön Sum,Bɵkhmɵrɵn,Bɵkhmɵrɵn Sum,Бɵхмɵрɵн,Бɵхмɵрɵн Сум	49.66118	90.29165	A	ADM2	MN		19	6619163			0		1485	Asia/Hovd	2023-07-30
+6619164	Tes	Tes	Tehs,Tehs Sum,Tes District,Tes Sum,Тэс,Тэс Сум	50.46346	93.59073	A	ADM2	MN		19	6619164			0		796	Asia/Hovd	2023-07-30
+6619165	Dzüüngovĭ	Dzueuengovi		49.90149	93.78565	A	ADM2	MN		19	6619165			0		991	Asia/Hovd	2007-10-25
+6619166	Malchin	Malchin	Malchin,Malchin District,Malchin Sum,Малчин,Малчин Сум	49.71005	93.26723	A	ADM2	MN		19	6619166			0		1401	Asia/Hovd	2023-07-30
+6619167	Dzavhan	Dzavhan	Dzavhan Sum,Zavhan District,Zavkhan,Zavkhan Sum,Завхан,Завхан Сум	48.80551	93.10913	A	ADM2	MN		19	6619167			0		1041	Asia/Hovd	2023-07-30
+6619168	Hyargas	Hyargas	Hyargas Sum,Khjargas,Khjargas Sum,Khyargas District,Хяргас,Хяргас Сум	49.53524	93.82324	A	ADM2	MN		19	6619168			0		1810	Asia/Hovd	2023-07-30
+6619169	Tsagaanhayrhan	Tsagaanhayrhan	Cagaankhajrkhan,Cagaankhajrkhan Sum,Tsagaanhairhan District,Tsagaanhayrhan Sum,Цагаанхайрхан,Цагаанхайрхан Сум	49.39897	94.24416	A	ADM2	MN		19	6619169			0		1752	Asia/Hovd	2023-07-30
+6619170	Baruunturuun	Baruunturuun	Baruunturuun,Baruunturuun District,Baruunturuun Sum,Baruunturuun sum,Баруунтуруун,Баруунтуруун сум	49.6524	94.40363	A	ADM2	MN		19	6619170			0		1251	Asia/Hovd	2023-07-30
+6619171	Öndörhangay	OEndoerhangay	O'ndorhangai District,OEndoerhangay Sum,Öndörhangay Sum,Өndɵrkhangaj,Өndɵrkhangaj Sum,Өндɵрхангай,Өндɵрхангай Сум	49.26523	94.85939	A	ADM2	MN		19	6619171			0		1857	Asia/Hovd	2023-07-30
+6619172	Dzüünhangay	Dzueuenhangay	Dzueuenhangay Sum,Dzüünhangay Sum,Zngnkhangaj,Zngnkhangaj Sum,Zu'unhangai District,Зγγнхангай,Зγγнхангай Сум	49.29737	95.44922	A	ADM2	MN		19	6619172			0		1839	Asia/Hovd	2023-07-30
+6619214	Bayantes	Bayantes	Bajantehs,Bajantehs Sum,Bayantes District,Bayantes Sum,Баянтэс,Баянтэс Сум	49.69762	96.35954	A	ADM2	MN		09	6619214			0		1442	Asia/Hovd	2023-07-28
+6619215	Tes	Tes	Tehs,Tehs Sum,Tes District,Tes Sum,Тэс,Тэс Сум	49.65485	95.79357	A	ADM2	MN		09	6619215			0		1291	Asia/Hovd	2014-12-07
+6619216	Asgat	Asgat	Asgat,Asgat District,Asgat Sum,Асгат,Асгат Сум	49.54704	96.84002	A	ADM2	MN		09	6619216			0		1534	Asia/Hovd	2023-08-23
+6619217	Bayanhayrhan	Bayanhayrhan	Bajankhajrkhan,Bajankhajrkhan Sum,Bayanhayrhan Sum,Bayankhairkhan District,Баянхайрхан,Баянхайрхан Сум	49.30364	96.34237	A	ADM2	MN		09	6619217			0		1870	Asia/Hovd	2023-07-28
+6619218	Tüdevtey	Tuedevtey	Tuedevtei District,Tuedevtey Sum,Tüdevtei District,Tüdevtey Sum,Tүdehvtehj,Tүdehvtehj Sum,Түдэвтэй,Түдэвтэй Сум	48.97774	96.5427	A	ADM2	MN		09	6619218			0		1771	Asia/Hovd	2023-07-30
+6619220	Tsetsen-Uul	Tsetsen-Uul	Cehcehn-Uul,Cehcehn-Uul Sum,Tsetsen-Uul District,Tsetsen-Uul Sum,Цэцэн-Уул,Цэцэн-Уул Сум	48.7451	96.00042	A	ADM2	MN		09	6619220			0		1934	Asia/Hovd	2023-07-30
+6619221	Nömrög	Noemroeg	Noemroeg District,Noemroeg Sum,Nömrög District,Nömrög Sum,Nөmrөg,Nөmrөg Sum,Нөмрөг,Нөмрөг Сум	48.86844	96.96293	A	ADM2	MN		09	6619221			0		1838	Asia/Hovd	2023-07-30
+6619222	Santmargats	Santmargats	Santmargac,Santmargac Sum,Santmargats District,Santmargats Sum,Сантмаргац,Сантмаргац Сум	48.58331	95.43291	A	ADM2	MN		09	6619222			0		1567	Asia/Hovd	2023-07-28
+6619223	Urgamal	Urgamal	Urgamal,Urgamal District,Urgamal Sum,Ургамал,Ургамал Сум	48.51416	94.29428	A	ADM2	MN		09	6619223			0		1273	Asia/Hovd	2023-07-28
+6619224	Dzavhanmandal	Dzavhanmandal	Dzavhanmandal Sum,Zavkhanmandal,Zavkhanmandal District,Zavkhanmandal Sum,Завханмандал,Завханмандал Сум	48.31106	95.1071	A	ADM2	MN		09	6619224			0		1442	Asia/Hovd	2023-07-28
+6619225	Dörvöljin	Doervoeljin		47.6381	95.00256	A	ADM2	MN		10	6619225			0		1351	Asia/Hovd	2007-10-28
+6619226	Erdenehayrhan	Erdenehayrhan	Ehrdehnehkhajrkhan,Ehrdehnehkhajrkhan Sum,Erdenehayrhan Sum,Erdenekhairkhan District,Эрдэнэхайрхан,Эрдэнэхайрхан Сум	48.11408	95.71306	A	ADM2	MN		09	6619226			0		1890	Asia/Hovd	2023-07-28
+6619227	Uliastay	Uliastay	Uliastai District,Uliastaj,Uliastaj sum,Улиастай,Улиастай сум	47.7339	96.84912	A	ADM2	MN		09	6619227			0		1755	Asia/Hovd	2023-07-28
+6619228	Aldarhaan	Aldarhaan	Aldarhaan Sum,Aldarkhaan,Aldarkhaan District,Aldarkhaan Sum,Алдархаан,Алдархаан Сум	47.63266	96.53154	A	ADM2	MN		09	6619228			0		1644	Asia/Hovd	2023-07-28
+6619229	Yaruu	Yaruu	Jaruu,Jaruu Sum,Yaruu,Yaruu District,Yaruu Sum,Яруу,Яруу Сум	48.10651	96.759	A	ADM2	MN		09	6619229			0		2082	Asia/Hovd	2023-07-28
+6619230	Tsagaanhayrhan	Tsagaanhayrhan	Cagaankhajrkhan,Cagaankhajrkhan Sum,Tsagaanhayrhan,Tsagaanhayrhan Sum,Tsagaankhairkhan District,Цагаанхайрхан,Цагаанхайрхан Сум	47.49267	96.80311	A	ADM2	MN		09	6619230			0		1811	Asia/Hovd	2023-07-28
+6619231	Tsagaanchuluut	Tsagaanchuluut	Cagaanchuluut,Cagaanchuluut Sum,Tsagaanchuluut,Tsagaanchuluut District,Tsagaanchuluut Sum,Цагаанчулуут,Цагаанчулуут Сум	47.10378	96.67128	A	ADM2	MN		09	6619231			0		2149	Asia/Hovd	2023-07-28
+6619232	Shilüüstey	Shilueuestey	Shilueuestei District,Shilueuestey,Shilueuestey Sum,Shilüüstei District,Shilüüstey,Shilüüstey Sum,Shilүүstehj,Shilүүstehj Sum,Шилүүстэй,Шилүүстэй Сум	46.88108	97.20085	A	ADM2	MN		09	6619232			0		2190	Asia/Hovd	2023-07-30
+6619233	Otgon	Otgon	Otgon,Otgon District,Otgon Sum,Отгон,Отгон Сум	47.20324	97.60632	A	ADM2	MN		09	6619233			0		2153	Asia/Hovd	2023-07-28
+6619234	Ider	Ider	Idehr,Idehr Sum,Ider,Ider District,Ider Sum,Идэр,Идэр Сум	48.20546	97.37286	A	ADM2	MN		09	6619234			0		1967	Asia/Hovd	2023-07-28
+6619235	Telmen	Telmen	Tehlmehn,Tehlmehn Sum,Telmen District,Telmen Sum,Тэлмэн,Тэлмэн Сум	48.63801	97.61284	A	ADM2	MN		09	6619235			0		1796	Asia/Hovd	2023-07-28
+6619236	Tosontsengel	Tosontsengel	Tosoncehngehl,Tosoncehngehl Sum,Tosontsengel District,Tosontsengel Sum,Тосонцэнгэл,Тосонцэнгэл Сум	48.74951	98.27356	A	ADM2	MN		09	6619236			0		1709	Asia/Hovd	2023-07-28
+6619238	Ih-Uul	Ih-Uul	Ih-Uul,Ih-Uul Sum,Ikh-Uul,Ikh-Uul Sum,Их-Уул Сум	48.71435	98.79378	A	ADM2	MN		09	6619238			0		1638	Asia/Hovd	2014-12-24
+6987792	Dzüüngovĭ Sum	Dzuungovi Sum	Dzuungovi,Dzuungovi Sum,Dzüüngovĭ,Dzüüngovĭ Sum,Зүүнговь,Зүүнговь Сум	50.12362	93.97698	A	ADM2	MN		19	6987792			0		1021	Asia/Hovd	2015-05-07
+6987797	Dorvoljin Sum	Dorvoljin Sum	Doervoeljin District,Dorvoljin,Dorvoljin Sum,Dörvöljin District,Дөрвөлжин,Дөрвөлжин Сум	47.8588	94.33717	A	ADM2	MN		09	6987797			0		1402	Asia/Hovd	2023-07-28
+6987802	Tes Sum	Tes Sum	Tehs,Tehs Sum,Tes,Tes District,Tes Sum,Тэс,Тэс Сум	49.62763	95.62636	A	ADM2	MN		09	6987802			0		1368	Asia/Hovd	2023-07-28
+6987811	Bulgan District	Bulgan District	Bulgan,Bulgan District,Bulgan Sum,HBU,Булган,Булган Сум	46.09609	91.53276	A	ADM2	MN		12	6987811			0		1179	Asia/Hovd	2013-12-01
+6987814	Rashaant Sum	Rashaant Sum	Rashaant,Rashaant  District,Rashaant Sum,Рашаант,Рашаант Сум	47.41283	103.90632	A	ADM2	MN		21	6987814			0		1516	Asia/Ulaanbaatar	2023-07-26
+6987819	Hutag-Öndör Sum	Hutag-Ondor Sum	Hutag-Ondor,Hutag-Ondor Sum,Hutag-Öndör,Hutag-Öndör Sum,Хутаг-Өндөр,Хутаг-Өндөр Сум	49.36249	102.81495	A	ADM2	MN		21	6987819			0		1131	Asia/Ulaanbaatar	2012-01-20
+6987854	Jargalant Sum	Jargalant Sum	Jargalant,Jargalant Sum,Zhargalant,Zhargalant Sum,Жаргалант,Жаргалант Сум	48.55972	99.42541	A	ADM2	MN		13	6987854			0		1782	Asia/Ulaanbaatar	2012-01-20
+6987860	Ih-Uul Sum	Ih-Uul Sum	Ih-Uul,Ih-Uul Sum,Ikh-Uul,Ikh-Uul District,Ikh-Uul Sum,Их-Уул,Их-Уул Сум	49.50917	101.43847	A	ADM2	MN		13	6987860			0		1644	Asia/Ulaanbaatar	2023-07-30
+6987865	Tsagaan-Uul Sum	Tsagaan-Uul Sum	Cagaan-Uul,Cagaan-Uul Sum,Tsagaan-Uul,Tsagaan-Uul District,Tsagaan-Uul Sum,Цагаан-Уул,Цагаан-Уул Сум	49.55399	98.60264	A	ADM2	MN		13	6987865			0		1902	Asia/Ulaanbaatar	2023-07-30
+6987939	Bayan Sum	Bayan Sum	Bajan,Bajan Sum,Bayan,Bayan Sum,Баян,Баян Сум	47.14994	107.68763	A	ADM2	MN		18	6987939			0		1532	Asia/Ulaanbaatar	2012-01-20
+6987952	Ugtaaltsaydam Sum	Ugtaaltsaydam Sum	Ugtaalcajdam,Ugtaalcajdam Sum,Ugtaaltsaydam,Ugtaaltsaydam Sum,Угтаалцайдам,Угтаалцайдам Сум	48.20744	105.41379	A	ADM2	MN		18	6987952			0		1543	Asia/Ulaanbaatar	2012-01-20
+6987957	Orhontuul Sum	Orhontuul Sum	Orhontuul,Orhontuul District,Orhontuul Sum,Orkhontuul,Orkhontuul Sum,Орхонтуул,Орхонтуул Сум	48.82816	104.99438	A	ADM2	MN		16	6987957			0		902	Asia/Ulaanbaatar	2023-07-28
+6987969	Yöröö Sum	Yoroo Sum	Yeroeoe,Yeröö,Yoroo,Yoroo Sum,Yöröö,Yöröö Sum,Ерөө,Ерөө Сум	49.76175	106.64978	A	ADM2	MN		16	6987969			0		672	Asia/Ulaanbaatar	2016-06-19
+6987971	Mandal Sum	Mandal Sum	Mandal,Mandal Sum,Мандал,Мандал Сум	48.84578	106.87879	A	ADM2	MN		16	6987971			0		1518	Asia/Ulaanbaatar	2014-12-06
+6987972	Bayangol Sum	Bayangol Sum	Bajangol,Bajangol Sum,Bayangol,Bayangol Sum,Баянгол,Баянгол Сум	48.98833	106.20416	A	ADM2	MN		16	6987972			0		1059	Asia/Ulaanbaatar	2014-12-06
+6987974	Bayannuur Sum	Bayannuur Sum	Bajannuur,Bajannuur Sum,Bayannuur,Bayannuur District,Bayannuur Sum,Баяннуур,Баяннуур Сум	47.86702	104.50967	A	ADM2	MN		21	6987974			0		960	Asia/Ulaanbaatar	2023-07-28
+6987975	Büreghangay Sum	Bureghangay Sum	Buereghangay District,Bureghangay,Bureghangay Sum,Büreghangay,Büreghangay District,Büreghangay Sum,Бүрэгхангай,Бүрэгхангай Сум	48.32769	104.10933	A	ADM2	MN		21	6987975			0		1126	Asia/Ulaanbaatar	2023-07-28
+6987976	Orhon Sum	Orhon Sum	Orhon,Orhon Sum,Orkhon,Orkhon Sum,Орхон,Орхон Сум	48.63815	103.46994	A	ADM2	MN		21	6987976			0		1270	Asia/Ulaanbaatar	2011-02-12
+6987977	Jargalant Sum	Jargalant Sum	Jargalant,Jargalant District,Jargalant Sum,Zhargalant,Zhargalant Sum,Жаргалант,Жаргалант Сум	49.04206	104.40012	A	ADM2	MN		25	6987977			0		1048	Asia/Ulaanbaatar	2023-08-01
+6987978	Erdenet Sum	Erdenet Sum	Bayan-Ondor Sum,Bayan-Öndör Sum,Ehrdehneht,Ehrdehneht Sum,Erdenet,Erdenet Sum,Баян-Өндөр Сум,Эрдэнэт,Эрдэнэт Сум	49.07314	104.12477	A	ADM2	MN		25	6987978			0		1318	Asia/Ulaanbaatar	2018-07-05
+6987984	Bayan-Ovoo Sum	Bayan-Ovoo Sum	Bajan-Ovoo,Bajan-Ovoo Sum,Bayan-Ovoo,Bayan-Ovoo Sum,Баян-Овоо,Баян-Овоо Сум	42.75708	105.96403	A	ADM2	MN		14	6987984			0		1222	Asia/Ulaanbaatar	2012-01-20
+6987992	Öldziyt Sum	Oldziyt Sum	Oldziyt,Oldziyt Sum,Öldziyt,Öldziyt Sum,Өлзийт,Өлзийт Сум	44.79344	106.67243	A	ADM2	MN		08	6987992			0		1129	Asia/Ulaanbaatar	2012-01-20
+6988008	Bayantsagaan Sum	Bayantsagaan Sum	Bajancagaan,Bajancagaan Sum,Bayantsagaan,Bayantsagaan Sum,Баянцагаан,Баянцагаан Сум	46.74844	107.19412	A	ADM2	MN		18	6988008			0		1358	Asia/Ulaanbaatar	2012-01-20
+6988010	Bayantal Sum	Bayantal Sum	Bajantal,Bajantal Sum,Bayantal,Bayantal District,Bayantal Sum,Баянтал,Баянтал Сум	46.68018	108.30909	A	ADM2	MN		24	6988010			0		1293	Asia/Ulaanbaatar	2023-07-28
+6988011	Shiveegovi Sum	Shiveegovi Sum	Bajan,Bajan Sum,Bayan,Bayan Sum,Shiveegovi,Shiveegovi District,Shiveegovi Sum,Shiveegovĭ Sum,Shivehehgov' Sum,Баян,Баян Сум,Шивээговь Сум	46.06025	108.51316	A	ADM2	MN		24	6988011			0		1122	Asia/Ulaanbaatar	2023-07-28
+6988012	Sümber Sum	Sumber Sum	Govisumber Sum,Govĭsümber Sum,Sumber,Sumber Sum,Sümber,Sümber Sum,Говьсүмбэр Сум,Сүмбэр,Сүмбэр Сум	46.50918	108.61952	A	ADM2	MN		24	6988012			0		1487	Asia/Ulaanbaatar	2018-07-05
+6988013	Darhan Sum	Darhan Sum	Darhan,Darhan District,Darhan Sum,Darkhan,Darkhan Sum,Дархан,Дархан Сум	46.59166	109.50089	A	ADM2	MN		11	6988013			0		1307	Asia/Ulaanbaatar	2023-07-28
+6988033	Bayantümen Sum	Bayantuemen Sum	Bayantumen,Bayantumen Sum,Bayantümen,Bayantümen Sum,Баянтүмэн,Баянтүмэн Сум	48.00831	114.91693	A	ADM2	MN		06	6988033			0		765	Asia/Ulaanbaatar	2025-05-01
+6988036	Tsagaan-Ovoo Sum	Tsagaan-Ovoo Sum	Cagaan-Ovoo,Cagaan-Ovoo Sum,Tsagaan-Ovoo,Tsagaan-Ovoo Sum,Цагаан-Овоо,Цагаан-Овоо Сум	48.44001	113.12521	A	ADM2	MN		06	6988036			0		872	Asia/Ulaanbaatar	2025-05-01
+6988038	Choybalsan Sum	Choybalsan Sum	Chojbalsan,Chojbalsan Sum,Choybalsan,Choybalsan District,Choybalsan Sum,Чойбалсан,Чойбалсан Сум	48.89034	115.50611	A	ADM2	MN		06	6988038			0		865	Asia/Ulaanbaatar	2025-05-01
+6988047	Darĭganga Sum	Dariganga Sum	Dar'ganga,Dar'ganga Sum,Dariganga,Dariganga Sum,Darĭganga,Darĭganga Sum,Дарьганга,Дарьганга Сум	45.44482	114.11113	A	ADM2	MN		17	6988047			0		1326	Asia/Ulaanbaatar	2025-05-01
+6997394	Saynshand Sum	Saynshand Sum	Sajnshand,Sajnshand Sum,Saynshand,Saynshand Sum,Сайншанд,Сайншанд Сум	44.6254	109.88193	A	ADM2	MN		07	6997394			0		890	Asia/Ulaanbaatar	2012-01-20
+6998261	Erdenebulgan Sum	Erdenebulgan Sum	Ehrdehnehbulgan,Ehrdehnehbulgan Sum,Erdenebulgan,Erdenebulgan District,Erdenebulgan Sum,Эрдэнэбулган,Эрдэнэбулган Сум	47.44728	101.51257	A	ADM2	MN		01	6998261			0		1661	Asia/Ulaanbaatar	2023-07-28
+6998274	Bayanhongor Sum	Bayanhongor Sum	Bajankhongor,Bajankhongor Sum,Bayanhongor,Bayanhongor District,Bayanhongor Sum,Баянхонгор,Баянхонгор Сум	46.1914	100.70226	A	ADM2	MN		02	6998274			0		1895	Asia/Ulaanbaatar	2023-07-28
+6998284	Ölgiy Sum	Olgiy Sum	Olgiy,Olgiy Sum,Ölgiy,Ölgiy Sum,Өлгий,Өлгий Сум	48.98825	89.89507	A	ADM2	MN		03	6998284			0		1741	Asia/Hovd	2012-01-20
+6999252	Dzamïn-Üüd Sum	Dzamin-Uud Sum	Dzamin-UEued District,Dzamin-Uud,Dzamin-Uud Sum,Dzamïn-Üüd,Dzamïn-Üüd District,Dzamïn-Üüd Sum,Замын-Үүд,Замын-Үүд Сум	43.76655	111.8943	A	ADM2	MN		07	6999252			0		950	Asia/Ulaanbaatar	2023-07-30
+6999363	Mörön Sum	Moron Sum	Moron,Moron Sum,Mörön,Mörön Sum,Мөрөн,Мөрөн Сум	49.64614	100.12101	A	ADM2	MN		13	6999363			0		1266	Asia/Ulaanbaatar	2018-07-05
+7667597	Khairkhan	Khairkhan		48.60667	101.93694	A	ADM2	MN		01	7667597			0		1352	Asia/Ulaanbaatar	2014-12-04
+7667614	Olziit	Olziit		46.0667	100.8158	A	ADM2	MN		02	7667614			0		1793	Asia/Ulaanbaatar	2011-02-11
+10375932	Mönkhkhairkhan	Moenkhkhairkhan	Moenkhkhairkhan District,Mönkhkhairkhan District	46.97946	91.77567	A	ADM2	MN		12	10375932			0		2772	Asia/Hovd	2023-08-01
+10375933	Öndörkhangai	OEndoerkhangai		49.22902	94.87003	A	ADM2	MN		19	10375933			0		1861	Asia/Hovd	2015-07-10
+10375934	Züüngovi	Zueuengovi	Zueuengovi District,Züüngovi District	49.90528	93.79277	A	ADM2	MN		19	10375934			0		995	Asia/Hovd	2023-08-01
+10375935	Züünkhangai	Zueuenkhangai		49.30736	95.45287	A	ADM2	MN		19	10375935			0		1776	Asia/Hovd	2015-07-10
+10375936	Yesönbulag	Yesoenbulag		46.18499	96.26916	A	ADM2	MN		10	10375936			0		2581	Asia/Hovd	2015-07-10
+10375937	Bayanzürkh	Bayanzuerkh		50.17563	98.97823	A	ADM2	MN		13	10375937			0		1607	Asia/Ulaanbaatar	2015-07-10
+10375938	Khatgal	Khatgal		50.43944	100.16167	A	ADM2	MN		13	10375938			0		1660	Asia/Ulaanbaatar	2015-07-10
+10375939	Kherlen	Kherlen		48.1373	114.55294	A	ADM2	MN		06	10375939			0		785	Asia/Ulaanbaatar	2025-05-01
+10375940	Khölönbuir	Khoeloenbuir		47.92611	112.96167	A	ADM2	MN		06	10375940			0		853	Asia/Ulaanbaatar	2025-05-01
+10375951	Baruun Bayan-Ulaan	Baruun Bayan-Ulaan		45.17782	101.42007	A	ADM2	MN		15	10375951			0		1254	Asia/Ulaanbaatar	2015-07-10
+10375952	Bat-Ölzii	Bat-OElzii		46.81944	102.24056	A	ADM2	MN		15	10375952			0		1673	Asia/Ulaanbaatar	2015-07-10
+10375953	Yesönzüil	Yesoenzueil		46.7575	103.51944	A	ADM2	MN		15	10375953			0		1752	Asia/Ulaanbaatar	2015-07-10
+10375954	Züünbayan-Ulaan	Zueuenbayan-Ulaan		46.52222	102.59583	A	ADM2	MN		15	10375954			0		1870	Asia/Ulaanbaatar	2015-07-10
+10375955	Khüder	Khueder		49.77639	107.51611	A	ADM2	MN		16	10375955			0		698	Asia/Ulaanbaatar	2015-07-10
+10375957	Züünbüren	Zueuenbueren		50.06972	105.88972	A	ADM2	MN		16	10375957			0		631	Asia/Ulaanbaatar	2015-07-10
+11608745	Khan-Uul	Khan-Uul		47.86	106.798	A	ADM2	MN		18	11608745			0		1295	Asia/Ulaanbaatar	2024-02-01
+11886725	Sainshand	Sainshand		44.89167	110.13667	A	ADM2	MN		07	11886725			0		955	Asia/Ulaanbaatar	2018-06-12
+11898755	Bor-Öndör Sum	Bor-Ondor Sum	Bor-OEndoer District,Bor-Ondor Sum,Bor-Öndör District,Bor-Öndör Sum,Бор-Өндөр Сум	46.2477	109.38035	A	ADM2	MN		11	11898755			0		1327	Asia/Ulaanbaatar	2023-07-28
+13442374	Darhan Sum	Darhan Sum	Darhan Sum,Darkhan Sum,Дархан Сум	49.47207	105.94956	A	ADM2	MN		23	13442374			0		681		2025-08-14

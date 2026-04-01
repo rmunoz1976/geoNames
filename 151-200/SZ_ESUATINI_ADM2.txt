@@ -1,0 +1,38 @@
+﻿7910681	Manzini North	Manzini North		-26.49982	31.39085	A	ADM2	SZ		03	7910681			0		630	Africa/Mbabane	2011-07-29
+7910682	Siphofaneni	Siphofaneni		-26.67627	31.66478	A	ADM2	SZ		02	7910682			0		200	Africa/Mbabane	2016-05-23
+7910683	Motjane	Motjane		-26.29764	31.02262	A	ADM2	SZ		01	7910683			0		1298	Africa/Mbabane	2011-07-29
+7910684	Mkhiweni	Mkhiweni		-26.24106	31.60464	A	ADM2	SZ		03	7910684			0		400	Africa/Mbabane	2011-07-29
+7910685	Matsanjeni	Matsanjeni	Matsanjeni South	-27.21585	31.72309	A	ADM2	SZ		04	7910685			16238		334	Africa/Mbabane	2016-07-28
+7910859	Mayiwane	Mayiwane		-25.86448	31.51809	A	ADM2	SZ		01	7910859			0		422	Africa/Mbabane	2011-08-01
+7910860	Lomashasha	Lomashasha		-26.06644	32.00768	A	ADM2	SZ		02	7910860			22239		398	Africa/Mbabane	2016-05-23
+7910861	Maseyisini	Maseyisini		-27.14766	31.16743	A	ADM2	SZ		04	7910861			0		965	Africa/Mbabane	2011-08-01
+7911058	Emkhuzweni Mission	Emkhuzweni Mission		-25.76667	31.36667	A	ADM2	SZ		01	7911058			0		527	Africa/Mbabane	2011-08-05
+11127724	Nkhaba	Nkhaba		-26.15728	31.16391	A	ADM2	SZ		01	11127724			15704		1378	Africa/Mbabane	2016-05-23
+11127725	Ngudzeni	Ngudzeni		-27.03583	31.55111	A	ADM2	SZ		04	11127725			8056		678	Africa/Mbabane	2016-05-23
+11127739	Mhlangatane	Mhlangatane		-26.305	31.11472	A	ADM2	SZ		01	11127739			0		1220	Africa/Mbabane	2017-02-16
+11127821	Nhlambeni	Nhlambeni		-26.64528	31.39833	A	ADM2	SZ		03	11127821			0		333	Africa/Mbabane	2016-05-04
+11127975	Ekukhanyeni	Ekukhanyeni		-26.3875	31.52806	A	ADM2	SZ		03	11127975			18085		398	Africa/Mbabane	2016-05-23
+11127982	Ngwempisi	Ngwempisi		-26.6999	31.28876	A	ADM2	SZ		03	11127982			27232		436	Africa/Mbabane	2016-05-23
+11127989	Hhukwini	Hhukwini		-26.31972	31.22222	A	ADM2	SZ		01	11127989			9837		1023	Africa/Mbabane	2016-05-23
+11127992	Manzini South	Manzini South		-26.48333	31.36667	A	ADM2	SZ		03	11127992			15417		676	Africa/Mbabane	2016-05-23
+11128090	Mtsambama	Mtsambama		-26.96444	31.39667	A	ADM2	SZ		04	11128090			0		824	Africa/Mbabane	2017-04-10
+11128091	Hlane	Hlane		-26.29832	31.8749	A	ADM2	SZ		02	11128091			0		294	Africa/Mbabane	2016-05-05
+11128094	Ntondozi	Ntondozi		-26.635	31.22556	A	ADM2	SZ		03	11128094			14768		1181	Africa/Mbabane	2016-05-23
+11128095	Mpholonjeni	Mpholonjeni		-26.58892	31.8292	A	ADM2	SZ		02	11128095			0		226	Africa/Mbabane	2017-02-16
+11128096	Mahlangatsha	Mahlangatsha		-26.78333	31.2	A	ADM2	SZ		03	11128096			0		1369	Africa/Mbabane	2016-05-06
+11128345	Nkwene	Nkwene		-26.89778	31.24972	A	ADM2	SZ		04	11128345			7167		675	Africa/Mbabane	2016-05-23
+11128346	Mafutseni	Mafutseni		-26.44	31.52	A	ADM2	SZ		03	11128346			0		507	Africa/Mbabane	2016-05-23
+11128351	Dvokodvweni Inkhundla	Dvokodvweni Inkhundla		-26.45398	31.76456	A	ADM2	SZ		02	11128351			28252		296	Africa/Mbabane	2016-05-23
+11128352	Ludzeludze Inkhundla	Ludzeludze Inkhundla	Ludzeludze	-26.39708	31.31409	A	ADM2	SZ		03	11128352			0		729	Africa/Mbabane	2017-02-16
+11128505	Sigwe Inkhundla	Sigwe Inkhundla		-27.05821	31.64543	A	ADM2	SZ		04	11128505			11776		372	Africa/Mbabane	2016-05-23
+11128507	Zombodze Ikhundla	Zombodze Ikhundla		-27.22746	31.33799	A	ADM2	SZ		04	11128507			16067		1020	Africa/Mbabane	2018-12-21
+11184879	Inkhundla Sithobela	Inkhundla Sithobela		-26.85103	31.6626	A	ADM2	SZ		02	11184879			0		273	Africa/Mbabane	2016-06-15
+11204891	Lamgabhi	Lamgabhi		-26.56141	31.07501	A	ADM2	SZ		03	11204891			0		836	Africa/Mbabane	2016-07-25
+11205013	Madlangempisi	Madlangempisi		-26.09012	31.55013	A	ADM2	SZ		01	11205013			0		395	Africa/Mbabane	2016-07-26
+11205016	Kwaluseni	Kwaluseni		-26.48095	31.29961	A	ADM2	SZ		03	11205016			0		641	Africa/Mbabane	2016-07-26
+11205054	Hosea	Hosea		-27.153	31.482	A	ADM2	SZ		04	11205054			0		479	Africa/Mbabane	2024-02-20
+11205574	Shiselweni I	Shiselweni I		-27.11667	31.2	A	ADM2	SZ		04	11205574			0		1046	Africa/Mbabane	2016-08-02
+11256900	Ntfonjeni	Ntfonjeni		-25.82627	31.32115	A	ADM2	SZ		01	11256900			0		633	Africa/Mbabane	2016-09-12
+11257269	Maphalaleni	Maphalaleni		-26.20099	31.36792	A	ADM2	SZ		01	11257269			0		861	Africa/Mbabane	2016-09-19
+11257294	Matsanjeni North	Matsanjeni North		-27.2397	31.7198	A	ADM2	SZ		04	11257294			0		285	Africa/Mbabane	2017-02-16
+11523361	Mangcongco	Mangcongco		-26.5835	30.99688	A	ADM2	SZ		03	11523361			0		1368	Africa/Mbabane	2017-04-10

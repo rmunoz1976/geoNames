@@ -1,0 +1,77 @@
+﻿12095456	Banke	Banke	Banke,Bankey,Bānke,Bānkey	28.0958	81.77324	A	ADM2	NP		5	12095456			0		148	Asia/Kathmandu	2020-01-16
+12095457	Bara	Bara	Bara,Bara District,Bārā	27.10735	85.06933	A	ADM2	NP		2	12095457			0		116	Asia/Kathmandu	2020-01-16
+12095458	Bardiya	Bardiya	Bardia,Bardiya,Bardiyā,Bardīa	28.37182	81.45028	A	ADM2	NP		5	12095458			0		205	Asia/Kathmandu	2020-01-16
+12095459	Bhaktapur	Bhaktapur	Bakthpur,Bhaktapuras,Bkhaktapur,ba ke ta pu er,bagtapuleu,bakutapuru,bhaktapura,bhaktapura nagarapalika,khvapa nagarapalika,Бхактапур,ख्वप नगरपालिका,भक्तपुर,भक्तपुर नगरपालिका,バクタプル,巴克塔普爾,박타푸르	27.67426	85.42647	A	ADM2	NP		3	12095459			0		1325	Asia/Kathmandu	2020-01-16
+12095460	Bhojpur	Bhojpur	Bhojpur	27.17496	87.09388	A	ADM2	NP		1	12095460			0		1809	Asia/Kathmandu	2020-01-16
+12095461	Chitwan	Chitwan	Chitaun,Chitawan	27.61796	84.45318	A	ADM2	NP		3	12095461			0		204	Asia/Kathmandu	2020-01-15
+12095462	Dadeldhura	Dadeldhura	Dadeldhura,Dadeldhurā,Dandeldhura	29.20915	80.50103	A	ADM2	NP		7	12095462			0		1909	Asia/Kathmandu	2020-01-16
+12095463	Dailekh	Dailekh		28.87114	81.70343	A	ADM2	NP		6	12095463			0		847	Asia/Kathmandu	2019-10-16
+12095464	Dang	Dang	Dang,Dang Deokhuri,Dang Deukhuri District,Dang-Deokhori,Dang-Deukhuri,Deokhori,Dāng,Dāng-Deokhori	27.96774	82.47822	A	ADM2	NP		5	12095464			0		624	Asia/Kathmandu	2020-01-15
+12095465	Darchula	Darchula		29.92589	80.78919	A	ADM2	NP		7	12095465			0		3507	Asia/Kathmandu	2019-10-16
+12095466	Dhading	Dhading		28.00784	84.9066	A	ADM2	NP		3	12095466			0		655	Asia/Kathmandu	2019-10-16
+12095467	Dhankuta	Dhankuta		27.01811	87.31318	A	ADM2	NP		1	12095467			0		1847	Asia/Kathmandu	2019-10-16
+12095468	Dhanusa	Dhanusa		26.85116	86.03592	A	ADM2	NP		2	12095468			0		118	Asia/Kathmandu	2019-10-16
+12095469	Dolakha	Dolakha	Dolakha,Dolakhā,Dolkha	27.82413	86.22166	A	ADM2	NP		3	12095469			0		1562	Asia/Kathmandu	2020-01-16
+12095470	Dolpa	Dolpa	Dolpa,Dolpo,Dolpā	29.21419	83.03685	A	ADM2	NP		6	12095470			0		4458	Asia/Kathmandu	2020-01-16
+12095471	Doti	Doti	Doti,Dotī,Silgarhi-Doti	29.1873	80.8514	A	ADM2	NP		7	12095471			0		1662	Asia/Kathmandu	2020-01-16
+12095472	Gorkha	Gorkha		28.27387	84.84087	A	ADM2	NP		4	12095472			0		2284	Asia/Kathmandu	2019-10-16
+12095473	Gulmi	Gulmi	Gulmi,Gulmī	28.09581	83.32932	A	ADM2	NP		5	12095473			0		917	Asia/Kathmandu	2020-01-16
+12095474	Humla	Humla	Humla,Humlā	30.02599	81.83431	A	ADM2	NP		6	12095474			0		4032	Asia/Kathmandu	2020-01-16
+12095475	Ilam	Ilam	Ilam,Illam,Ilām	26.88547	87.92035	A	ADM2	NP		1	12095475			0		782	Asia/Kathmandu	2020-01-16
+12095476	Jajarkot	Jajarkot		28.86942	82.16796	A	ADM2	NP		6	12095476			0		1534	Asia/Kathmandu	2019-10-16
+12095477	Jhapa	Jhapa		26.58374	87.88567	A	ADM2	NP		1	12095477			0		98	Asia/Kathmandu	2019-10-16
+12095478	Jumla	Jumla		29.2387	82.19872	A	ADM2	NP		6	12095478			0		3312	Asia/Kathmandu	2019-10-16
+12095479	Kailali	Kailali		28.73141	80.9043	A	ADM2	NP		7	12095479			0		178	Asia/Kathmandu	2019-10-16
+12095480	Kalikot	Kalikot	Kalikot,Kālīkot,Tibrikot	29.21633	81.68897	A	ADM2	NP		6	12095480			0		2101	Asia/Kathmandu	2020-01-16
+12095481	Kanchanpur	Kanchanpur	Kanchanpur,Kanchanpur District	28.84467	80.28328	A	ADM2	NP		7	12095481			0		202	Asia/Kathmandu	2020-01-16
+12095482	Kapilbastu	Kapilbastu		27.61916	82.98174	A	ADM2	NP		5	12095482			0		111	Asia/Kathmandu	2019-10-16
+12095483	Kaski	Kaski	Kaski,Kāskī	28.34567	83.97094	A	ADM2	NP		4	12095483			0		1236	Asia/Kathmandu	2020-01-16
+12095484	Kathmandu	Kathmandu		27.69414	85.28499	A	ADM2	NP		3	12095484			0		1328	Asia/Kathmandu	2019-10-16
+12095485	Kavrepalanchok	Kavrepalanchok	Kabhre,Kabhre Palanchok,Kabhre Palchok,Kavre,Kābhre Palānchok	27.54521	85.62309	A	ADM2	NP		3	12095485			0		1664	Asia/Kathmandu	2020-01-16
+12095486	Khotang	Khotang		27.15634	86.68077	A	ADM2	NP		1	12095486			0		475	Asia/Kathmandu	2019-10-16
+12095487	Lalitpur	Lalitpur	Patan	27.54827	85.3237	A	ADM2	NP		3	12095487			0		1776	Asia/Kathmandu	2020-01-16
+12095488	Lamjung	Lamjung		28.28286	84.42049	A	ADM2	NP		4	12095488			0		2069	Asia/Kathmandu	2019-10-16
+12095489	Mahottari	Mahottari	Mahotari,Mahottari,Mahottarī,Mohotari	26.88494	85.7975	A	ADM2	NP		2	12095489			0		109	Asia/Kathmandu	2020-01-16
+12095490	Makwanpur	Makwanpur	Makwanpur,Makwānpur	27.43706	85.05358	A	ADM2	NP		3	12095490			0		674	Asia/Kathmandu	2020-01-16
+12095491	Manag	Manag		28.67278	84.16906	A	ADM2	NP		4	12095491			0		4559	Asia/Kathmandu	2019-10-16
+12095492	Morang	Morang	Morang District,mwrng,mwrnk,مورنك,مورنگ	26.61069	87.47323	A	ADM2	NP		1	12095492			0		111	Asia/Kathmandu	2020-01-16
+12095493	Mugu	Mugu	Mugu,Mūgu	29.67828	82.53081	A	ADM2	NP		6	12095493			0		3950	Asia/Kathmandu	2020-01-16
+12095494	Mustang	Mustang	Lo,Mastang,Moostang,Mustang,Mustāng	28.9479	83.90062	A	ADM2	NP		4	12095494			0		4098	Asia/Kathmandu	2020-01-16
+12095495	Myagdi	Myagdi	Mayangdi,Myagdi,Myangdi,Myāgdī	28.54603	83.46336	A	ADM2	NP		4	12095495			0		2958	Asia/Kathmandu	2020-01-16
+12095496	Nawalparasi	Nawalparasi		27.65399	84.03213	A	ADM2	NP		4	12095496			0		215	Asia/Kathmandu	2019-10-16
+12095497	Nuwakot	Nuwakot	Nawakot,Nawākot,Nuwakot,Nuwakot District,Nuwākot	27.92591	85.24866	A	ADM2	NP		3	12095497			0		774	Asia/Kathmandu	2020-01-16
+12095498	Okhaldhunga	Okhaldhunga	Okhaldhunga,Okhaldungga,Okhaldunggā,Okhalḍhungā,Okhladhunga	27.33652	86.44844	A	ADM2	NP		1	12095498			0		1210	Asia/Kathmandu	2020-01-16
+12095499	Palpa	Palpa	Palpa,Pālpā	27.81057	83.63051	A	ADM2	NP		5	12095499			0		877	Asia/Kathmandu	2020-01-16
+12095500	Panchthar	Panchthar		27.14895	87.85519	A	ADM2	NP		1	12095500			0		2155	Asia/Kathmandu	2019-10-16
+12095501	Parbat	Parbat		28.20264	83.72861	A	ADM2	NP		4	12095501			0		1465	Asia/Kathmandu	2019-10-16
+12095502	Parsa	Parsa	Tarsa	27.22345	84.82706	A	ADM2	NP		2	12095502			0		151	Asia/Kathmandu	2020-01-16
+12095503	Pyuthan	Pyuthan	Pyuthan,Pyūthān	28.12018	82.83005	A	ADM2	NP		5	12095503			0		1121	Asia/Kathmandu	2020-01-16
+12095504	Ramechhap	Ramechhap		27.53738	86.25696	A	ADM2	NP		3	12095504			0		2695	Asia/Kathmandu	2019-10-16
+12095505	Achham	Achham	Achham,Achhām	29.06781	81.29417	A	ADM2	NP		7	12095505			0		1249	Asia/Kathmandu	2020-01-16
+12095506	Arghakhanchi	Arghakhanchi	Argha,Arghakhachi,Arghakhanchi,Arghākhānchī	27.93212	83.14584	A	ADM2	NP		5	12095506			0		1491	Asia/Kathmandu	2020-01-16
+12095507	Baglung	Baglung		28.35642	83.1426	A	ADM2	NP		4	12095507			0		1334	Asia/Kathmandu	2019-10-16
+12095508	Baitadi	Baitadi		29.50819	80.55855	A	ADM2	NP		7	12095508			0		1793	Asia/Kathmandu	2019-10-16
+12095509	Bajhang	Bajhang	Bajang,Bajhang,Bajāng	29.72334	81.24605	A	ADM2	NP		7	12095509			0		3755	Asia/Kathmandu	2020-01-16
+12095510	Bajura	Bajura	Bajura,Bājura	29.61066	81.57668	A	ADM2	NP		7	12095510			0		4042	Asia/Kathmandu	2020-01-16
+12095511	Rasuwa	Rasuwa	Rasuwa,Rasuwā	28.17637	85.48227	A	ADM2	NP		3	12095511			0		4980	Asia/Kathmandu	2020-01-16
+12095512	Rautahat	Rautahat	Rautahat District,Rauthat	26.98898	85.28308	A	ADM2	NP		2	12095512			0		93	Asia/Kathmandu	2020-01-16
+12095513	Rolpa	Rolpa	Rolpa,Rolpā	28.32542	82.64442	A	ADM2	NP		5	12095513			0		1507	Asia/Kathmandu	2020-01-16
+12095514	Rukum	Rukum		28.67241	82.86001	A	ADM2	NP		5	12095514			0		2134	Asia/Kathmandu	2019-10-16
+12095515	Rupandehi	Rupandehi	Rupandehi,Rupendehi,Rūpandehī	27.54922	83.40335	A	ADM2	NP		5	12095515			0		107	Asia/Kathmandu	2020-01-16
+12095516	Salyan	Salyan	Jajarkte,Sallyana,Sallyāna,Salyan,Salyan Jajarkot,Salyān	28.3981	82.17316	A	ADM2	NP		6	12095516			0		1227	Asia/Kathmandu	2020-01-16
+12095517	Sankhuwasabha	Sankhuwasabha	Sangkuwasabha,Sankhua Sabha,Sankhuwasabha,Sankhuwāsabhā	27.54785	87.22658	A	ADM2	NP		1	12095517			0		795	Asia/Kathmandu	2020-01-16
+12095518	Saptari	Saptari	Saptari,Saptari District,Saptarī,Satpari	26.60681	86.74941	A	ADM2	NP		2	12095518			0		111	Asia/Kathmandu	2020-01-16
+12095519	Sarlahi	Sarlahi	Sailahi,Sarlahi,Sarlāhī	26.96867	85.5639	A	ADM2	NP		2	12095519			0		108	Asia/Kathmandu	2020-01-16
+12095520	Sindhuli	Sindhuli	Sindhuli,Sindhuligarhi,Sindhulī	27.18513	86.07026	A	ADM2	NP		3	12095520			0		1010	Asia/Kathmandu	2020-01-16
+12095521	Sindhupalchowk	Sindhupalchowk		27.90699	85.75581	A	ADM2	NP		3	12095521			0		1382	Asia/Kathmandu	2019-10-16
+12095522	Siraha	Siraha	Char Pargana,Siraha,Sirha,Sirāhā	26.74253	86.34984	A	ADM2	NP		2	12095522			0		116	Asia/Kathmandu	2020-01-16
+12095523	Solukhumbu	Solukhumbu	Solokhumbu,Solukhumba	27.72579	86.78169	A	ADM2	NP		1	12095523			0		5146	Asia/Kathmandu	2020-01-16
+12095524	Sunsari	Sunsari	Sunsari,Sunsarī,swnsary,سونساري,سونساری	26.64096	87.14099	A	ADM2	NP		1	12095524			0		90	Asia/Kathmandu	2020-01-16
+12095525	Surkhet	Surkhet		28.65801	81.51394	A	ADM2	NP		6	12095525			0		827	Asia/Kathmandu	2019-10-16
+12095526	Syangja	Syangja	Syanga,Syangja,Syāngjā	28.04502	83.82719	A	ADM2	NP		4	12095526			0		1301	Asia/Kathmandu	2020-01-16
+12095527	Tanahun	Tanahun		27.93548	84.22325	A	ADM2	NP		4	12095527			0		403	Asia/Kathmandu	2019-10-16
+12095528	Taplejung	Taplejung	Taplejun,Tāplejun	27.61054	87.82166	A	ADM2	NP		1	12095528			0		3496	Asia/Kathmandu	2020-01-16
+12095529	Terathum	Terathum		27.13254	87.5244	A	ADM2	NP		1	12095529			0		1364	Asia/Kathmandu	2019-10-16
+12095530	Udayapur	Udayapur	Udaipur,Udaipur Garhi,Udayapur,Udayapur District,Udayapur Garhi,Udaypur	26.93308	86.51994	A	ADM2	NP		1	12095530			0		966	Asia/Kathmandu	2020-01-16
+12095531	Nawalparasi	Nawalparasi		27.52	83.738	A	ADM2	NP		5	12095531			0		113	Asia/Kathmandu	2019-10-16
+12095532	Rukum	Rukum		28.75661	82.42899	A	ADM2	NP		6	12095532			0		2539	Asia/Kathmandu	2019-10-16
