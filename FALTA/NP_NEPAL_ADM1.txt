@@ -1,0 +1,7 @@
+﻿12095447	Koshi	Koshi	Koshi,Koshi Province,Province 1	27.23006	87.18018	A	ADM1	NP		1				4961412		739	Asia/Kathmandu	2025-12-15
+12095448	Madhesh	Madhesh	Madhesh,Madhesh Province,Province 2	26.94242	85.61	A	ADM1	NP		2				6114600		96	Asia/Kathmandu	2025-12-15
+12095449	Bagmati Province	Bagmati Province	Bagmati Province,Province 3	27.65249	85.39536	A	ADM1	NP		3				6084042		1360	Asia/Kathmandu	2022-12-04
+12095450	Gandaki Pradesh	Gandaki Pradesh	Gandaki Pradesh,Province 4	28.38431	84.03806	A	ADM1	NP		4				2479745		2563	Asia/Kathmandu	2022-12-04
+12095451	Lumbini Province	Lumbini Province	Lumbini Province,Province 5	28.09952	82.524	A	ADM1	NP		5				5124225		1272	Asia/Kathmandu	2022-12-04
+12095452	Karnali Province	Karnali Province	Karnali Pradesh,Province 6	29.29913	82.4769	A	ADM1	NP		6				1694889		4439	Asia/Kathmandu	2025-12-15
+12095453	Sudurpashchim Pradesh	Sudurpashchim Pradesh	Province 7,Sudurpashchim Pradesh,Sudurpashchim Province	29.32055	80.92063	A	ADM1	NP		7				2711270		1492	Asia/Kathmandu	2025-12-15

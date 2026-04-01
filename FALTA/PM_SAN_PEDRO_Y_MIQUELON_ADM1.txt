@@ -1,0 +1,2 @@
+﻿3424935	Commune de Saint-Pierre	Commune de Saint-Pierre	Saint-Pierre	46.78333	-56.2	A	ADM1	PM		97502				5494		138	America/Miquelon	2010-09-20
+3424938	Miquelon-Langlade	Miquelon-Langlade	Commune de Miquelon-Langlade,Miquelon-Langlade	46.95612	-56.32656	A	ADM1	PM		97501				605		1	America/Miquelon	2018-02-13

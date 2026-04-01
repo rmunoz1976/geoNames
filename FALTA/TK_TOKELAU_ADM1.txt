@@ -1,0 +1,3 @@
+﻿4031091	Nukunonu	Nukunonu	Atol Nukunono,Nuko Nono Island,Nukunono,Nukunonu,nukunono dao,nwkwnwnw,Нукунону,نوكونونو,نوکونونو,ヌクノノ島	-9.169	-171.83	A	ADM1	TK		N				426		-9999	Pacific/Fakaofo	2010-11-29
+4031112	Fakaofo	Fakaofo	Fakaofo,Fakaofu,fkawfw,فکاؤفو	-9.376	-171.233	A	ADM1	TK	NZ	F				483		-9999	Pacific/Fakaofo	2018-07-15
+4031116	Atafu	Atafu	Atafu,Atafu Island,Atáfu Island	-8.558	-172.497	A	ADM1	TK		A				524		-9999	Pacific/Fakaofo	2010-11-29

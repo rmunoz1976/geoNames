@@ -1,0 +1,5 @@
+﻿4032231	Vava‘u	Vava'u	Vava'u,Vava`u,Vava`u Islands Division,Vava‘u,Vava‘u Islands Division,Vava’u	-18.66667	-174	A	ADM1	TO		03				14283		65	Pacific/Tongatapu	2022-10-14
+4032279	Tongatapu	Tongatapu	Tongatapu,Tongatapu Island Division	-21.13333	-175.2	A	ADM1	TO		02				74454		5	Pacific/Tongatapu	2022-10-14
+4032637	Ha‘apai	Ha'apai	Ha'apai,Ha`apai,Ha`apai Islands Division,Ha‘apai,Ha‘apai Islands Division,Ha’apai	-19.75134	-174.30656	A	ADM1	TO		01				5419		13	Pacific/Tongatapu	2022-10-14
+7668021	Eua	Eua	'Eua,EUA,ai wa dao,e-ua seom,eua dao,ʻEua,‘Eua,’Eua,エウア島,埃瓦島,에우아 섬	-21.3632	-174.92972	A	ADM1	TO		EU				4903		180	Pacific/Tongatapu	2022-10-14
+7668055	Niuas	Niuas	Grupo Niuas,Isole Niua,Niouas,Niuas,Niuasa,Niuasas,Ostrova Niuas,jzayr nywa,ni xu xas,ni'u'asa,ni'u'asam,ni'uyasa,niu a si qun dao,niua jedo,niuasu zhu dao,niyas,niyovas,niyuvas,nywas,Νιούας,Ніуас,Острова Ниуас,جزایر نیوآ,نيواس,نیواس,निउआस,निऊअसं,নিউয়াস,નિઉઆસ,னியஸ்,నియువస్,ನಿಯೋವಾಸ್,නියුවාස්,นีอูอาส,ნიუასის კუნძულები,ニウアス諸島,紐阿斯群島,니우아 제도	-15.9544	-173.78963	A	ADM1	TO		NI				1150		24	Pacific/Tongatapu	2022-10-14

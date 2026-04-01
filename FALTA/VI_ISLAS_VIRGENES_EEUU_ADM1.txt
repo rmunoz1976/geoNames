@@ -1,0 +1,3 @@
+﻿7267902	Saint Croix Island	Saint Croix Island	Insulo de Sankta Kruco,Island of St. Croix,Sankta Kruco	17.73563	-64.74795	A	ADM1	VI		010				50601	54	59	America/St_Thomas	2021-02-02
+7267903	Saint John Island	Saint John Island	Insulo de Sankta Johano,Island of Saint John,Sankta Johano	18.32758	-64.73771	A	ADM1	VI		020				4170	121	125	America/St_Thomas	2021-02-02
+7267904	Saint Thomas Island	Saint Thomas Island	Insulo de Sankta Tomaso,STT,Saint-Thomas,Sankt Thomas,Sankta Tomaso	18.34537	-64.92755	A	ADM1	VI		030				51634	0	18	America/St_Thomas	2022-05-18

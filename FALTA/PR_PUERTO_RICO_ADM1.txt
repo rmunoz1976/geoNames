@@ -1,0 +1,78 @@
+﻿4562487	Adjuntas	Adjuntas	ADJ,Adjuntas,La Ciudad del Gigante Dormido,La Suiza de Puerto Rico,Las Adjuntas	18.16274	-66.72212	A	ADM1	PR		001				18020	502	501	America/Puerto_Rico	2025-09-29
+4562503	Aguada	Aguada	AGD,Aguada,San Francisco de Asis de la Aguada,San Francisco de Asís de la Aguada	18.3605	-67.17463	A	ADM1	PR		003				38136	55	55	America/Puerto_Rico	2023-12-03
+4562512	Aguadilla	Aguadilla	AGL,Aguadilla,Guadilla,Guadiya,La Villa de Ojo de Agua,La Villa del Ojo de Agua	18.42745	-67.15407	A	ADM1	PR		005				55101	7	7	America/Puerto_Rico	2025-09-29
+4562516	Aguas Buenas	Aguas Buenas	ABU,Aguas Buenas,La Ciudad de las Aguas Claras	18.2569	-66.10294	A	ADM1	PR		007				24223	258	259	America/Puerto_Rico	2025-09-29
+4562531	Aibonito	Aibonito	AIB,Aibonito,La Ciudad de las Flores,La Suiza de Puerto Rico	18.13996	-66.266	A	ADM1	PR		009				24837	604	607	America/Puerto_Rico	2025-09-29
+4562605	Añasco	Anasco	ANA,Anasco,Añasco,Donde los dioses Mueren	18.28134	-67.1274	A	ADM1	PR		011				29261	9	12	America/Puerto_Rico	2019-04-14
+4562640	Arecibo	Arecibo	ARE,Arecibo,Aresibas,Aresibo,a lei xi wo,arekibo,xa re si bo,Аресибо,Аресібо,ארסיבו,اریسیبو، پورٹو ریکو,আরেকিবো,อาเรซีโบ,阿雷西沃	18.40411	-66.67462	A	ADM1	PR		013				87754	201	202	America/Puerto_Rico	2025-09-29
+4562682	Arroyo	Arroyo	ARR,Arroyo	18.0008	-66.05794	A	ADM1	PR		015				15843	48	52	America/Puerto_Rico	2023-12-03
+4562771	Barceloneta	Barceloneta	BCL,Barceloneta,La Ciudad de las Pinas	18.45633	-66.54128	A	ADM1	PR		017				22657	3	5	America/Puerto_Rico	2025-09-29
+4562779	Barranquitas	Barranquitas	BQT,Barranquitas	18.20357	-66.31211	A	ADM1	PR		019				28938	618	622	America/Puerto_Rico	2023-12-03
+4562837	Bayamón Municipio	Bayamon Municipio	BAY,Bayamon,Bayamon Municipio,Bayamón	18.35217	-66.17044	A	ADM1	PR		021				185187	101	97	America/Puerto_Rico	2025-09-29
+4562997	Cabo Rojo Municipio	Cabo Rojo Municipio	CAB,Cabo Rojo	18.05635	-67.14685	A	ADM1	PR		023				47158	71	83	America/Puerto_Rico	2025-09-29
+4563011	Caguas Municipio	Caguas Municipio	CAG,Caguas	18.21329	-66.04961	A	ADM1	PR		025				127244	89	92	America/Puerto_Rico	2025-09-29
+4563065	Camuy Municipio	Camuy Municipio	CAM,Camuy	18.42578	-66.85934	A	ADM1	PR		027				32827	150	159	America/Puerto_Rico	2025-09-29
+4563169	Canóvanas Municipio	Canovanas Municipio	CAN,Canovanas,Canovanas Municipio,Canóvanas	18.33828	-65.88711	A	ADM1	PR		029				42337	49	49	America/Puerto_Rico	2025-09-29
+4563244	Carolina Municipio	Carolina Municipio	CAR,Carolina	18.37578	-65.95794	A	ADM1	PR		031				154815	21	21	America/Puerto_Rico	2025-09-29
+4563299	Cataño Municipio	Catano Municipio	CAT,Catano,Catano Municipio,Cataño	18.4355	-66.13711	A	ADM1	PR		033				23155	2	2	America/Puerto_Rico	2025-09-29
+4563309	Cayey Municipio	Cayey Municipio	CAY,Cayey	18.10357	-66.15378	A	ADM1	PR		035				41652	613	599	America/Puerto_Rico	2025-09-29
+4563380	Ceiba Municipio	Ceiba Municipio	CEI,Ceiba	18.26051	-65.67183	A	ADM1	PR		037				11307	165	173	America/Puerto_Rico	2025-09-29
+4563774	Ciales Municipio	Ciales Municipio	CIA,Ciales	18.29162	-66.51628	A	ADM1	PR		039				16984	273	279	America/Puerto_Rico	2025-09-29
+4563778	Cidra Municipio	Cidra Municipio	CID,Cidra	18.17579	-66.16211	A	ADM1	PR		041				39970	423	426	America/Puerto_Rico	2025-09-29
+4563812	Coamo Municipio	Coamo Municipio	COA,Coamo	18.09802	-66.36211	A	ADM1	PR		043				34668	152	149	America/Puerto_Rico	2025-02-09
+4563921	Comerío Municipio	Comerio Municipio	COM,Comerio,Comerio Municipio,Comerío	18.22718	-66.22183	A	ADM1	PR		045				18883	298	312	America/Puerto_Rico	2025-02-09
+4564004	Corozal Municipio	Corozal Municipio	COR,Corozal	18.30912	-66.326	A	ADM1	PR		047				34571	244	245	America/Puerto_Rico	2025-02-09
+4564071	Culebra Municipio	Culebra Municipio	CUL,Culebra	18.31884	-65.2871	A	ADM1	PR		049				1792	74	96	America/Puerto_Rico	2023-12-03
+4564134	Dorado Municipio	Dorado Municipio	DOR,Dorado	18.43967	-66.28295	A	ADM1	PR		051				35879	16	17	America/Puerto_Rico	2025-02-09
+4564949	Fajardo Municipio	Fajardo Municipio	FAJ,Fajardo	18.31051	-65.676	A	ADM1	PR		053				32124	38	40	America/Puerto_Rico	2025-09-29
+4564993	Florida Municipio	Florida Municipio	FLO,Florida	18.36051	-66.56212	A	ADM1	PR		054				11692	196	199	America/Puerto_Rico	2025-02-09
+4565091	Guánica Municipio	Guanica Municipio	GNC,Guanica,Guanica Municipio,Guánica	17.9883	-66.91212	A	ADM1	PR		055				13787	3	10	America/Puerto_Rico	2025-09-29
+4565107	Guayama Municipio	Guayama Municipio	GYM,Guayama	18.01663	-66.13072	A	ADM1	PR		057				36614	396	419	America/Puerto_Rico	2025-02-10
+4565112	Guayanilla Municipio	Guayanilla Municipio	GYL,Guayanilla	18.05413	-66.7899	A	ADM1	PR		059				17784	90	95	America/Puerto_Rico	2025-02-10
+4565120	Guaynabo Municipio	Guaynabo Municipio	GYB,Guaynabo	18.34106	-66.11628	A	ADM1	PR		061				89780	92	85	America/Puerto_Rico	2025-02-10
+4565126	Gurabo Municipio	Gurabo Municipio	GUR,Gurabo	18.27162	-65.97183	A	ADM1	PR		063				40622	74	75	America/Puerto_Rico	2025-02-10
+4565348	Hatillo Municipio	Hatillo Municipio	HAT,Hatillo	18.40773	-66.79323	A	ADM1	PR		065				38481	167	170	America/Puerto_Rico	2025-02-10
+4565381	Hormigueros Municipio	Hormigueros Municipio	HOR,Hormigueros	18.14162	-67.11629	A	ADM1	PR		067				15654	21	34	America/Puerto_Rico	2025-02-10
+4565449	Humacao Municipio	Humacao Municipio	HUM,Humacao	18.14802	-65.81211	A	ADM1	PR		069				50896	48	48	America/Puerto_Rico	2025-02-10
+4565581	Municipio de Isabela	Municipio de Isabela	El Pueblo de los Quesitos de Hoja,ISA,Isabela,Jardine del Noroeste	18.50078	-67.02435	A	ADM1	PR		071				42943	71	76	America/Puerto_Rico	2025-09-29
+4565684	Municipio de Jayuya	Municipio de Jayuya	JAY,Jayuya,La Capital Indigena	18.21857	-66.59156	A	ADM1	PR		073				14779	431	441	America/Puerto_Rico	2025-09-29
+4565713	Juana Díaz Municipio	Juana Diaz Municipio	JUA,Juana Diaz,Juana Diaz Municipio,Juana Díaz	18.04802	-66.49267	A	ADM1	PR		075				46538	69	72	America/Puerto_Rico	2025-09-29
+4565720	Municipio de Juncos	Municipio de Juncos	JUN,Juncos,Los Mulos del Valencianos	18.22746	-65.921	A	ADM1	PR		077				37012	65	68	America/Puerto_Rico	2025-09-30
+4565900	Lajas Municipio	Lajas Municipio	LAJ,Lajas	18.0133	-67.0399	A	ADM1	PR		079				23334	7	15	America/Puerto_Rico	2025-02-10
+4565910	Lares Municipio	Lares Municipio	LAR,Lares	18.27023	-66.86907	A	ADM1	PR		081				28105	441	442	America/Puerto_Rico	2025-02-10
+4565961	Las Marías Municipio	Las Marias Municipio	LMA,Las Marias,Las Marias Municipio,Las Marías	18.25087	-66.9924	A	ADM1	PR		083				8874	218	286	America/Puerto_Rico	2025-09-30
+4565981	Las Piedras Municipio	Las Piedras Municipio	LPI,Las Piedras	18.18829	-65.87044	A	ADM1	PR		085				40180	109	109	America/Puerto_Rico	2025-09-30
+4566025	Loíza Municipio	Loiza Municipio	LOI,Loiza,Loiza Municipio,Loíza	18.43411	-65.89266	A	ADM1	PR		087				23693	2	2	America/Puerto_Rico	2025-09-29
+4566106	Luquillo Municipio	Luquillo Municipio	LUQ,Luquillo	18.33967	-65.72461	A	ADM1	PR		089				17781	125	111	America/Puerto_Rico	2025-02-10
+4566138	Manatí Municipio	Manati Municipio	MAN,Manati,Manati Municipio,Manatí	18.41884	-66.49267	A	ADM1	PR		091				39492	10	10	America/Puerto_Rico	2025-02-10
+4566180	Maricao Municipio	Maricao Municipio	MAR,Maricao	18.17301	-66.94546	A	ADM1	PR		093				4455	451	466	America/Puerto_Rico	2025-02-10
+4566209	Maunabo Municipio	Maunabo Municipio	MAU,Maunabo	18.01691	-65.92738	A	ADM1	PR		095				10589	25	21	America/Puerto_Rico	2025-02-10
+4566217	Mayagüez Municipio	Mayagueez Municipio	MAY,Mayagueez,Mayaguez,Mayaguez Municipio,Mayagüez	18.20496	-67.1024	A	ADM1	PR		097				73077	45	63	America/Puerto_Rico	2025-09-29
+4566272	Moca Municipio	Moca Municipio	MOC,Moca	18.3855	-67.08435	A	ADM1	PR		099				37012	50	63	America/Puerto_Rico	2025-02-10
+4566334	Morovis Municipio	Morovis Municipio	MOR,Morovis	18.31884	-66.41767	A	ADM1	PR		101				28727	213	226	America/Puerto_Rico	2025-09-29
+4566397	Naguabo Municipio	Naguabo Municipio	NAG,Naguabo	18.23135	-65.75988	A	ADM1	PR		103				23386	42	46	America/Puerto_Rico	2025-02-10
+4566403	Naranjito Municipio	Naranjito Municipio	NAR,Naranjito	18.28968	-66.25517	A	ADM1	PR		105				29241	261	279	America/Puerto_Rico	2025-02-10
+4566456	Orocovis Municipio	Orocovis Municipio	ORO,Orocovis	18.21885	-66.43712	A	ADM1	PR		107				21434	754	753	America/Puerto_Rico	2025-02-10
+4566654	Patillas Municipio	Patillas Municipio	PAT,Patillas	18.04163	-66.01766	A	ADM1	PR		109				15985	360	373	America/Puerto_Rico	2025-02-10
+4566689	Peñuelas Municipio	Penuelas Municipio	PEN,Penuelas,Penuelas Municipio,Peñuelas	18.07024	-66.71767	A	ADM1	PR		111				20399	147	146	America/Puerto_Rico	2025-02-10
+4566886	Ponce Municipio	Ponce Municipio	PON,Ponce	18.07302	-66.61851	A	ADM1	PR		113				137491	238	260	America/Puerto_Rico	2025-02-10
+4567727	Rincón Municipio	Rincon Municipio	RIN,Rincon,Rincon Municipio,Rincón	18.33967	-67.23713	A	ADM1	PR		117				15187	34	43	America/Puerto_Rico	2025-02-10
+4567734	Quebradillas Municipio	Quebradillas Municipio	QUE,Quebradillas	18.43967	-66.92462	A	ADM1	PR		115				23638	167	169	America/Puerto_Rico	2025-02-10
+4567823	Río Grande Municipio	Rio Grande Municipio	RGR,Rio Grande,Rio Grande Municipio,Río Grande	18.34162	-65.81766	A	ADM1	PR		119				73077	136	147	America/Puerto_Rico	2025-09-29
+4568015	Sabana Grande Municipio	Sabana Grande Municipio	SGR,Sabana Grande	18.09385	-66.94962	A	ADM1	PR		121				22729	136	138	America/Puerto_Rico	2025-09-29
+4568043	Salinas Municipio	Salinas Municipio	SAL,Salinas	18.01746	-66.25378	A	ADM1	PR		123				25789	52	52	America/Puerto_Rico	2025-02-10
+4568105	San Germán Municipio	San German Municipio	SGE,San German,San German Municipio,San Germán	18.11468	-67.03573	A	ADM1	PR		125				31879	147	169	America/Puerto_Rico	2025-09-29
+4568138	San Juan	San Juan	SJU,San Juan	18.45095	-66.09169	A	ADM1	PR		127				342259	20	6	America/Puerto_Rico	2025-09-29
+4568150	San Lorenzo Municipio	San Lorenzo Municipio	SLO,San Lorenzo	18.15496	-65.97461	A	ADM1	PR		129				37693	193	190	America/Puerto_Rico	2025-09-29
+4568177	San Sebastián Municipio	San Sebastian Municipio	SSE,San Sebastian,San Sebastian Municipio,San Sebastián	18.32912	-66.97462	A	ADM1	PR		131				39345	68	77	America/Puerto_Rico	2025-09-29
+4568213	Santa Isabel Municipio	Santa Isabel Municipio	SIS,Santa Isabel	17.99663	-66.38711	A	ADM1	PR		133				20281	30	30	America/Puerto_Rico	2025-09-29
+4568404	Toa Alta Municipio	Toa Alta Municipio	TAL,Toa Alta	18.36606	-66.25378	A	ADM1	PR		135				66852	18	22	America/Puerto_Rico	2025-09-29
+4568408	Toa Baja Municipio	Toa Baja Municipio	La Ciudad Bajo Aguas,Municipio de Toa Baja,TBA,Toa Baja,Toa-Baja	18.43176	-66.21291	A	ADM1	PR		137				75243	7	3	America/Puerto_Rico	2025-09-29
+4568452	Trujillo Alto Municipio	Trujillo Alto Municipio	TRU,Trujillo Alto	18.34162	-66.00517	A	ADM1	PR		139				75243	22	24	America/Puerto_Rico	2025-09-29
+4568491	Utuado Municipio	Utuado Municipio	UTU,Utuado	18.27301	-66.69962	A	ADM1	PR		141				28287	157	167	America/Puerto_Rico	2025-09-29
+4568529	Vega Alta Municipio	Vega Alta Municipio	VAL,Vega Alta	18.4105	-66.33295	A	ADM1	PR		143				35395	30	32	America/Puerto_Rico	2025-09-29
+4568534	Vega Baja Municipio	Vega Baja Municipio	VBA,Vega Baja	18.42578	-66.39961	A	ADM1	PR		145				54414	63	60	America/Puerto_Rico	2025-09-29
+4568684	Villalba Municipio	Villalba Municipio	VIL,Villalba	18.12913	-66.47739	A	ADM1	PR		149				22093	241	229	America/Puerto_Rico	2025-09-29
+4568909	Yabucoa Municipio	Yabucoa Municipio	YAB,Yabucoa	18.07302	-65.88711	A	ADM1	PR		151				30426	20	18	America/Puerto_Rico	2025-09-29
+4568918	Yauco Municipio	Yauco Municipio	YAU,Yauco	18.07857	-66.85518	A	ADM1	PR		153				34172	238	258	America/Puerto_Rico	2025-09-29
+4568924	Vieques Municipality	Vieques Municipality	VIE,VQS,Vieques,Vieques Municipality,Vieques Municipio	18.12913	-65.4371	A	ADM1	PR		147				8249	103	109	America/Puerto_Rico	2025-09-29
