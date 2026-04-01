@@ -1,0 +1,150 @@
+A.ADM1	división administrativa de primer orden	una división administrativa principal de un país, como un estado en los Estados Unidos
+A.ADM1H	división administrativa histórica de primer orden	una antigua división administrativa de primer orden
+A.ADM2	división administrativa de segundo orden	una subdivisión de una división administrativa de primer orden
+A.ADM2H	división administrativa histórica de segundo orden	una antigua división administrativa de segundo orden
+A.ADM3	división administrativa de tercer orden	una subdivisión de una división administrativa de segundo orden
+A.ADM3H	división administrativa histórica de tercer orden	una antigua división administrativa de tercer orden
+A.ADM4	división administrativa de cuarto orden	una subdivisión de una división administrativa de tercer orden
+A.ADM4H	división administrativa histórica de cuarto orden	una antigua división administrativa de cuarto orden
+A.ADM5	división administrativa de quinto orden	una subdivisión de una división administrativa de cuarto orden
+A.ADM5H	división administrativa histórica de quinto orden	una antigua división administrativa de quinto orden
+A.ADMD	división administrativa	una división administrativa de un país, sin diferenciar el nivel administrativo
+A.ADMDH	división administrativa histórica	una antigua división administrativa de una entidad política, sin diferenciar el nivel administrativo
+A.ADMS	distrito escolar	distrito escolar
+A.LTER	área arrendada	una extensión de tierra arrendada a otro país, generalmente para instalaciones militares
+A.PCL	entidad política	
+A.PCLD	entidad política dependiente	
+A.PCLF	estado libre asociado	
+A.PCLH	entidad política histórica	una antigua entidad política
+A.PCLI	entidad política independiente	
+A.PCLIX	sección de entidad política independiente	
+A.PCLS	entidad política semiindependiente	
+A.PRSH	parroquia	un distrito eclesiástico
+A.TERR	territorio	
+A.ZN	zona	
+A.ZNB	zona de amortiguamiento	una zona reconocida como amortiguador entre dos naciones en la que la presencia militar es mínima o inexistente
+H.AIRS	área de aterrizaje de hidroaviones	un lugar en un cuerpo de agua donde los hidroaviones aterrizan y despegan
+H.ANCH	fondeadero	un área donde las embarcaciones pueden anclar
+H.BAY	bahía	una entrada costera entre dos cabos o promontorios, mayor que una cala pero menor que un golfo
+H.BAYS	bahías	entradas costeras entre dos cabos o promontorios, mayores que una cala pero menores que un golfo
+H.BGHT	ensenada amplia	un cuerpo de agua abierto que forma una ligera recesión en una costa
+H.BNK	banco	una elevación, típicamente ubicada en una plataforma, donde la profundidad del agua es relativamente baja pero suficiente para la navegación superficial
+H.BNKR	ribera de arroyo	un margen inclinado de un canal de corriente que normalmente confina el flujo al canal
+H.BNKX	sección de banco	
+H.BOG	turbera	un humedal caracterizado por musgo esfagno, juncos y otras plantas de aguas ácidas
+H.CAPG	casquete de hielo	una masa de hielo glaciar en forma de cúpula que cubre cumbres montañosas u otras tierras elevadas; más pequeña que una capa de hielo continental
+H.CHN	canal	la parte más profunda de un río, bahía, laguna o estrecho por donde fluye la corriente principal
+H.CHNL	canal de lago	parte de un lago con suficiente profundidad para la navegación entre islas, bancos, etc.
+H.CHNM	canal marino	parte de un cuerpo de agua suficientemente profunda para la navegación en una zona que de otro modo no sería apta
+H.CHNN	canal de navegación	un canal balizado con suficiente profundidad para la navegación segura de embarcaciones
+H.CNFL	confluencia	un lugar donde dos o más corrientes se unen
+H.CNL	canal	un curso de agua artificial
+H.CNLA	acueducto	un conducto utilizado para transportar agua
+H.CNLB	curva de canal	una sección notablemente curva de un canal
+H.CNLD	canal de drenaje	un canal artificial que transporta agua fuera de humedales o zanjas de drenaje
+H.CNLI	canal de riego	un canal que sirve como conducto principal para agua de riego
+H.CNLN	canal de navegación	un curso de agua construido para la navegación de embarcaciones
+H.CNLQ	canal abandonado	
+H.CNLSB	canal subterráneo de riego	un túnel subterráneo suavemente inclinado que transporta agua para riego desde acuíferos
+H.CNLX	sección de canal	
+H.COVE	cala	una pequeña entrada costera, menor que una bahía
+H.CRKT	arroyo mareal	un canal sinuoso en un humedal costero sujeto a corrientes de marea bidireccionales
+H.CRNT	corriente	un flujo horizontal de agua en una dirección determinada con velocidad uniforme
+H.CUTF	atajo de meandro	un canal formado cuando un río corta el cuello de un meandro
+H.DCK	muelle	un canal entre dos embarcaderos o excavado en tierra para el atraque de barcos
+H.DCKB	dársena	parte de un puerto donde atracan los barcos
+H.DOMG	domo de casquete de hielo	una zona relativamente elevada en un casquete de hielo
+H.DPRG	depresión de casquete de hielo	una zona relativamente baja en un casquete de hielo
+H.DTCH	zanja	un pequeño canal artificial excavado para drenaje o riego
+H.DTCHD	zanja de drenaje	una zanja que sirve para drenar la tierra
+H.DTCHI	zanja de riego	una zanja que distribuye agua de riego
+H.DTCHM	desembocadura de zanja	un área donde una zanja desemboca en una laguna, lago o bahía
+H.ESTY	estuario	una desembocadura en forma de embudo donde el agua dulce se mezcla con agua salada bajo influencia de mareas
+H.FISH	zona de pesca	un banco o área donde los pescadores capturan peces
+H.FJD	fiordo	un brazo de mar largo, estrecho y profundo con paredes empinadas, típico de latitudes altas
+H.FJDS	fiordos	brazos de mar largos, estrechos y profundos
+H.FLLS	cascada	una caída de agua muy pronunciada o vertical
+H.FLTM	planicie fangosa	una zona relativamente plana de lodo entre mareas o sujeta a inundación
+H.GLCR	glaciar	una masa de hielo con suficiente espesor para fluir
+H.GULF	golfo	una gran entrada del mar en la costa, mayor que una bahía
+H.HBR	puerto	un lugar de aguas profundas protegido que permite el fondeo seguro de embarcaciones
+H.INLT	ensenada estrecha	un canal estrecho que se adentra en la tierra o conecta con un cuerpo mayor de agua
+H.LK	lago	un gran cuerpo de agua interior
+H.LKS	lagos	grandes cuerpos de agua interiores
+H.OCN	océano	una de las grandes divisiones de agua salada del planeta
+H.PND	estanque	un pequeño cuerpo de agua
+H.RSV	embalse	un lago artificial
+H.RVN	barranco	un canal estrecho, profundo y con lados empinados
+H.SEA	mar	un gran cuerpo de agua salada parcialmente encerrado por tierra
+H.STM	corriente de agua	un flujo natural de agua que se desplaza a un nivel inferior
+H.SWMP	pantano	un humedal dominado por vegetación arbórea
+H.WLL	pozo	una perforación para extraer agua, petróleo o gas
+H.WTLD	humedal	un área sujeta a inundación
+L.AGRC	colonia agrícola	un área de tierra destinada a asentamientos agrícolas
+L.AMUS	parque de atracciones	parque temático o de entretenimiento
+L.AREA	área	una extensión de tierra sin límites definidos
+L.BSND	cuenca hidrográfica	un área drenada por un río
+L.CMN	comunal	terreno de uso comunitario
+L.CONT	continente	Ej: Europa, África, Asia, etc.
+L.CST	costa	una zona a lo largo de la línea costera
+L.CTRB	centro de negocios	un lugar donde se concentran empresas
+L.DEVH	urbanización	un área desarrollada con viviendas
+L.FLD	campo	una zona abierta sin bosque
+L.GRAZ	zona de pastoreo	área utilizada para el pastoreo
+L.INDS	zona industrial	área con actividad industrial
+L.MILB	base militar	lugar usado por fuerzas armadas
+L.MNA	zona minera	área donde se extraen minerales
+L.PRK	parque	un área mantenida para recreación
+L.PRT	puerto	instalación para carga y descarga
+L.RES	reserva	terreno reservado para uso futuro
+L.RESN	reserva natural	área protegida para conservar la naturaleza
+L.RGN	región	área con características comunes
+P.PPL	lugar poblado	ciudad, pueblo o aldea
+P.PPLA	capital administrativa de primer orden	
+P.PPLC	capital de entidad política	capital de un país
+P.PPLF	pueblo agrícola	lugar donde predomina la agricultura
+P.PPLH	lugar poblado histórico	un lugar que ya no existe
+P.PPLQ	lugar poblado abandonado	
+P.PPLS	lugares poblados	conjunto de ciudades, pueblos o aldeas
+R.RD	carretera	vía terrestre para transporte
+R.RDJCT	intersección de carreteras	lugar donde se cruzan caminos
+R.RR	ferrocarril	vía férrea para trenes
+R.ST	calle	vía urbana pavimentada
+R.TNL	túnel	paso subterráneo
+R.TRL	sendero	camino o ruta
+S.AIRP	aeropuerto	lugar donde aterrizan y despegan aviones
+S.ATM	cajero automático	máquina para operaciones bancarias
+S.BANK	banco	establecimiento financiero
+S.BDG	puente	estructura para cruzar obstáculos
+S.CH	iglesia	lugar de culto cristiano
+S.HSP	hospital	lugar para atención médica
+S.HTL	hotel	lugar de alojamiento
+S.LIBR	biblioteca	lugar con recursos de información
+S.MKT	mercado	lugar de compra y venta
+S.MUS	museo	lugar de exhibición
+S.PO	oficina de correos	lugar de servicios postales
+S.PRN	prisión	lugar de reclusión
+S.REST	restaurante	lugar donde se sirven comidas
+S.SCH	escuela	lugar de enseñanza
+S.UNIV	universidad	institución de educación superior
+S.ZOO	zoológico	parque de animales
+T.CNYN	cañón	valle profundo y estrecho
+T.DSRT	desierto	zona con poca vegetación
+T.HLL	colina	elevación baja
+T.MT	montaña	elevación alta
+T.PLN	llanura	terreno plano
+T.VAL	valle	depresión alargada
+T.VLC	volcán	elevación volcánica
+U.BSNU	cuenca submarina	depresión en el fondo marino
+U.CNYU	cañón submarino	depresión profunda submarina
+U.MTU	montaña submarina	elevación bajo el mar
+U.PLNU	llanura submarina	región plana submarina
+U.TRNU	fosa oceánica	depresión profunda
+V.FRST	bosque	área con árboles
+V.GRSLD	pradera	área con hierba
+V.MDW	pradera húmeda	área con vegetación herbácea
+V.OCH	huerto	plantación de árboles frutales
+V.SCRB	matorral	vegetación baja
+V.TUND	tundra	llanura fría sin árboles
+V.VIN	viñedo	plantación de uvas
+null	no disponible	
