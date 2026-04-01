@@ -1,0 +1,346 @@
+﻿3888526	Comuna de Hualpén	Comuna de Hualpen	Hualpen,Hualpén	-36.78691	-73.10517	A	ADM3	CL		06	81	08112		0		18	America/Santiago	2016-05-09
+6693568	Comuna de Concepción	Comuna de Concepcion	Concepcion,Concepción,La Concepcion de Maria Purisima del Nuevo Extremo,La Concepción de María Purísima del Nuevo Extremo	-36.82	-73.04449	A	ADM3	CL		06	81	08101		0		24	America/Santiago	2025-05-22
+6693571	Comuna de San Pedro de la Paz	Comuna de San Pedro de la Paz		-36.84082	-73.10311	A	ADM3	CL		06	81	08108		0		21	America/Santiago	2016-05-09
+6693599	Comuna de Talcahuano	Comuna de Talcahuano	Talcahuano	-36.74342	-73.09822	A	ADM3	CL		06	81	08110		0		13	America/Santiago	2018-10-18
+7798677	El Tabo	El Tabo		-33.45861	-71.66194	A	ADM3	CL		01	56	05605		0		23	America/Santiago	2016-05-09
+7874689	Rio Hurtado	Rio Hurtado	Rio Hurtado,Río Hurtado	-30.26667	-70.66666	A	ADM3	CL		07	43	04305		0		1355	America/Santiago	2011-07-08
+8261128	Pica	Pica	Pica,Pika,Piqa,pi ka,pika,pyka,Пика,Піка,Պիկա,پيكا,پیکا,皮卡,피카	-20.47958	-68.91191	A	ADM3	CL		15	14	01405		0		3897	America/Santiago	2018-01-11
+8261129	Antofagasta	Antofagasta	Antofagasta	-24.27389	-69.40969	A	ADM3	CL		03	21	02101		0		2065	America/Santiago	2016-05-08
+8261130	Taltal	Taltal		-25.31359	-69.86568	A	ADM3	CL		03	21	02104		0		1959	America/Santiago	2018-10-18
+8261131	Huasco	Huasco		-28.25842	-71.01778	A	ADM3	CL		05	33	03304		0		416	America/Santiago	2016-05-08
+8261132	Diego de Almagro	Diego de Almagro		-26.23734	-69.18732	A	ADM3	CL		05	32	03202		0		3354	America/Santiago	2016-05-08
+8261133	La Higuera	La Higuera	La Higuera,La Igera,La-Igera,La-Iguera,la aygra,la yi ge la,laigela,Ла-Ігуера,Ла-Игера,לה איגרה,لا ایگرا,لا ہیگویرا، چلی,拉伊格拉,라이게라	-29.37495	-70.90141	A	ADM3	CL		07	41	04104		0		782	America/Santiago	2016-05-08
+8261134	Vicuña	Vicuna		-29.89203	-70.38267	A	ADM3	CL		07	41	04106		0		3206	America/Santiago	2016-05-08
+8261135	Monte Patria	Monte Patria	Monte Patria,Monte Patrija,Monte-Patrija,meng te pa te li ya,montepateulia,mwnth patrya,Монте-Патрия,Монте-Патрія,مونته پاتریا,蒙特帕特里亚,蒙特帕特里亞,몬테파트리아	-30.83522	-70.65093	A	ADM3	CL		07	43	04303		0		1197	America/Santiago	2016-05-08
+8261136	Illapel	Illapel		-31.54927	-70.97061	A	ADM3	CL		07	42	04201		0		820	America/Santiago	2015-09-19
+8261137	Canela	Canela	Canela,Kanela,Kanela Bacha,ka nei la,kanella,kanla,kanyla,Канела,كانيلا,کانلا,卡內拉,卡内拉,카넬라	-31.40191	-71.39442	A	ADM3	CL		07	42	04202		0		515	America/Santiago	2016-05-08
+8261138	Salamanca	Salamanca		-31.89309	-70.66083	A	ADM3	CL		07	42	04204		0		971	America/Santiago	2016-05-08
+8261139	Curico	Curico		-35.19914	-70.89573	A	ADM3	CL		11	73	07301		0		1288	America/Santiago	2016-05-09
+8261140	Cobquecura	Cobquecura	Kobkekura,ke bu ke ku la,kobeukekula,kwb kyw kywra,kwbkywkywra  shyly,Кобкекура,كوب كيو كيورا,کوبکیوکیورا، شیلی,科布克庫拉,코브케쿠라	-36.18113	-72.72097	A	ADM3	CL		18	162	16202		0		437	America/Santiago	2018-11-28
+8261141	Quirihue	Quirihue		-36.28192	-72.5441	A	ADM3	CL		18	162	16201		0		262	America/Santiago	2018-11-28
+8261142	Ninhue	Ninhue		-36.35684	-72.40969	A	ADM3	CL		18	162	16204		0		239	America/Santiago	2018-11-28
+8261143	Treguaco	Treguaco		-36.42814	-72.65953	A	ADM3	CL		18	162	16207		0		23	America/Santiago	2018-11-28
+8261144	Los Angeles	Los Angeles		-37.40792	-72.32774	A	ADM3	CL		06	83	08301		0		159	America/Santiago	2015-09-19
+8261145	Colbun	Colbun		-36.07767	-70.97827	A	ADM3	CL		11	74	07402		0		1953	America/Santiago	2016-05-09
+8261146	Linares	Linares		-35.95814	-71.33207	A	ADM3	CL		11	74	07401		0		802	America/Santiago	2016-05-09
+8261147	Longavi	Longavi		-36.11066	-71.44116	A	ADM3	CL		11	74	07403		0		583	America/Santiago	2016-05-09
+8261148	Parral	Parral		-36.26234	-71.64504	A	ADM3	CL		11	74	07404		0		279	America/Santiago	2016-05-09
+8261149	Cauquenes	Cauquenes		-35.97135	-72.27998	A	ADM3	CL		11	72	07201		0		162	America/Santiago	2016-05-09
+8261150	Lebu	Lebu		-37.67776	-73.59057	A	ADM3	CL		06	82	08201		0		169	America/Santiago	2015-09-19
+8261151	Tome	Tome		-36.61707	-72.85797	A	ADM3	CL		06	81	08111		0		303	America/Santiago	2016-05-09
+8261152	Curanilahue	Curanilahue		-37.48301	-73.23511	A	ADM3	CL		06	82	08205		0		690	America/Santiago	2016-05-09
+8261153	Nacimiento	Nacimiento		-37.48555	-72.82361	A	ADM3	CL		06	83	08306		0		166	America/Santiago	2016-05-09
+8261154	Quemchi	Quemchi		-42.13385	-73.51723	A	ADM3	CL		14	102	10209		0		165	America/Santiago	2016-06-23
+8261155	Puerto Varas	Puerto Varas		-41.19137	-72.38807	A	ADM3	CL		14	101	10109		0		1059	America/Santiago	2016-05-09
+8261156	Lo Espejo	Lo Espejo	Lo Espejo,Lo Espekho,Lo-Ehspekho,Lo-Espekho,lo-eseupeho,luo ai si pei huo,lw aspkhw,Ло Еспехо,Ло-Еспехо,Ло-Эспехо,لو اسپخو,洛埃斯佩霍,로에스페호	-33.52086	-70.69006	A	ADM3	CL		12	131	13116		0		542	America/Santiago	2012-05-03
+8261157	Pedro Aguirre Cerda	Pedro Aguirre Cerda	Pedro Agire Serda,Pedro-Agirre-Serda,pedeuloagileseleuda,pei de luo a ji lei sai er da,Педро Агире Серда,Педро-Агирре-Серда,佩德羅阿吉雷塞爾達,페드로아기레세르다	-33.49188	-70.67616	A	ADM3	CL		12	131	13121		0		532	America/Santiago	2012-05-03
+8261158	San Ramon	San Ramon		-33.53142	-70.6422	A	ADM3	CL		12	131	13131		0		589	America/Santiago	2012-05-03
+8261159	Dalcahue	Dalcahue		-42.30902	-73.83375	A	ADM3	CL		14	102	10205		0		361	America/Santiago	2016-05-09
+8261160	Ancud	Ancud		-42.01761	-73.8022	A	ADM3	CL		14	102	10202		0		74	America/Santiago	2016-05-09
+8261161	Lago Verde	Lago Verde		-44.49229	-71.83234	A	ADM3	CL		02	111	11102		0		1136	America/Coyhaique	2025-04-29
+8261162	Aisen	Aisen		-45.98869	-73.77348	A	ADM3	CL		02	112	11201		0		359	America/Coyhaique	2025-04-29
+8261163	Cisnes	Cisnes		-44.45773	-73.13744	A	ADM3	CL		02	112	11202		0		247	America/Coyhaique	2025-04-29
+8261164	Guaitecas	Guaitecas		-43.86652	-74.05163	A	ADM3	CL		02	112	11203		0		65	America/Coyhaique	2025-04-29
+8261165	Villa Alemana	Villa Alemana		-33.06787	-71.33045	A	ADM3	CL		01	58	05804		0		262	America/Santiago	2016-05-09
+8261166	Carahue	Carahue		-38.61092	-73.26976	A	ADM3	CL		04	91	09102		0		109	America/Santiago	2016-05-09
+8261167	Puqueldon	Puqueldon		-42.62699	-73.63695	A	ADM3	CL		14	102	10206		0		106	America/Santiago	2016-05-09
+8261168	Vallenar	Vallenar		-28.59484	-70.60247	A	ADM3	CL		05	33	03301		0		995	America/Santiago	2015-09-19
+8261169	Collipulli	Collipulli		-38.03183	-72.11522	A	ADM3	CL		04	92	09202		0		483	America/Santiago	2016-05-09
+8261170	Lumaco	Lumaco		-38.2871	-73.04591	A	ADM3	CL		04	92	09207		0		530	America/Santiago	2016-05-09
+8261171	Quillon	Quillon		-36.81855	-72.50171	A	ADM3	CL		18	161	16107		0		121	America/Santiago	2018-11-28
+8261172	Lonquimay	Lonquimay		-38.47467	-71.23925	A	ADM3	CL		04	92	09205		0		905	America/Santiago	2016-05-09
+8261173	Curarrehue	Curarrehue		-39.33581	-71.53926	A	ADM3	CL		04	91	09104		0		618	America/Santiago	2012-05-03
+8261174	Lo Prado	Lo Prado	Lo Prado,Lo-Prado,lopeulado,luo pu la duo,lw bradw,lw pradw,Ло Прадо,Ло-Прадо,لو برادو,لو پرادو,洛普拉多,로프라도	-33.4473	-70.72348	A	ADM3	CL		12	131	13117		0		504	America/Santiago	2016-05-09
+8261175	Calbuco	Calbuco		-41.72311	-73.19511	A	ADM3	CL		14	101	10102		0		84	America/Santiago	2016-05-09
+8261176	Quellon	Quellon		-43.15178	-73.9954	A	ADM3	CL		14	102	10208		0		200	America/Santiago	2016-05-09
+8261177	Cochamo	Cochamo		-41.76113	-72.09293	A	ADM3	CL		14	101	10103		0		477	America/Santiago	2016-05-09
+8261178	Ñuñoa	Nunoa		-33.45932	-70.60028	A	ADM3	CL		12	131	13120		0		587	America/Santiago	2016-05-09
+8261179	Cabo de Hornos	Cabo de Hornos		-55.02252	-69.22825	A	ADM3	CL		10	122	12201		0		541	America/Punta_Arenas	2016-05-09
+8261180	Rio Verde	Rio Verde		-52.84672	-72.46334	A	ADM3	CL		10	121	12103		0		24	America/Punta_Arenas	2016-05-09
+8261181	Timaukel	Timaukel		-54.19501	-69.53233	A	ADM3	CL		10	123	12303		0		586	America/Punta_Arenas	2016-05-10
+8261182	Punta Arenas	Punta Arenas		-53.64148	-72.03848	A	ADM3	CL		10	121	12101		0		692	America/Punta_Arenas	2015-09-19
+8261183	Concon	Concon		-32.95341	-71.46776	A	ADM3	CL		01	51	05103		0		136	America/Santiago	2016-05-09
+8261184	San Jose de Maipo	San Jose de Maipo		-33.70476	-70.09694	A	ADM3	CL		12	132	13203		0		3081	America/Santiago	2016-05-09
+8261185	Melipilla	Melipilla	Melipigia,Melipil'ja,Melipila,Melipilla,me li pi ya,mei li pi ya,melipila,melipilla,melipiya,melippilla,mellipiya,meripija,mlybylla,mlypya,mylypyla,Μελιπίγια,Мелипилья,Мелипиља,Меліпілья,Մելիպիլլա,مليبيللا,ملیپیا,میلیپیلا,मेलिपिला,मेलिपिल्ला,মেলিপিয়া,મેલિપીલા,மேலிப்பில்லா,మెలిపిల్ల,ಮೆಲಿಪಿಲ್ಲ,මෙලිපිලා,เมลิปียา,メリピジャ,梅利皮亚,梅利皮亞,멜리피야	-33.74388	-71.19396	A	ADM3	CL		12	135	13501		0		161	America/Santiago	2016-05-09
+8261186	Peumo	Peumo	Peumo,Piwmu,pe-umo,pei wu mo,peumo,pywmw,Пеумо,Պեումո,پئومو,ペウモ,佩乌莫,佩烏莫,페우모	-34.3294	-71.22193	A	ADM3	CL		08	61	06112		0		182	America/Santiago	2016-05-09
+8261187	San Fernando	San Fernando		-34.7433	-70.60328	A	ADM3	CL		08	63	06301		0		2345	America/Santiago	2015-09-19
+8261188	San Clemente	San Clemente		-35.71208	-70.84846	A	ADM3	CL		11	71	07109		0		2356	America/Santiago	2016-05-09
+8261189	Molina	Molina		-35.35337	-70.90954	A	ADM3	CL		11	73	07304		0		854	America/Santiago	2016-05-09
+8261190	San Carlos	San Carlos		-36.38558	-72.0186	A	ADM3	CL		18	163	16301		0		156	America/Santiago	2018-11-28
+8261191	Machali	Machali		-34.32067	-70.31962	A	ADM3	CL		08	61	06108		0		2720	America/Santiago	2016-05-09
+8261192	Natales	Natales		-50.67423	-73.92591	A	ADM3	CL		10	124	12401		0		427	America/Punta_Arenas	2016-05-10
+8261193	Los Vilos	Los Vilos		-31.9778	-71.30407	A	ADM3	CL		07	42	04203		0		497	America/Santiago	2016-05-08
+8261194	Macul	Macul	Macul,Makul,Makul',ma ku er,makul,makuru qu,makwl,mykwl,Макул,Макуль,ماكول,ماکول,میکول,マクル区,馬庫爾,马库尔,마쿨	-33.49023	-70.60108	A	ADM3	CL		12	131	13118		0		572	America/Santiago	2016-05-09
+8261195	Chillan	Chillan		-36.6288	-72.04958	A	ADM3	CL		18	161	16101		0		155	America/Santiago	2018-11-28
+8261196	Santa Juana	Santa Juana		-37.27638	-72.95977	A	ADM3	CL		06	81	08109		0		233	America/Santiago	2016-05-09
+8261197	Yumbel	Yumbel		-37.08838	-72.61595	A	ADM3	CL		06	83	08313		0		161	America/Santiago	2016-05-09
+8261198	Coyhaique	Coyhaique		-45.55389	-71.99131	A	ADM3	CL		02	111	11101		0		361	America/Coyhaique	2025-04-29
+8261199	Angol	Angol		-37.76905	-72.79543	A	ADM3	CL		04	92	09201		0		816	America/Santiago	2015-09-19
+8261200	Limache	Limache		-33.03087	-71.27927	A	ADM3	CL		01	58	05802		0		153	America/Santiago	2016-05-09
+8261201	Algarrobo	Algarrobo		-33.33005	-71.60047	A	ADM3	CL		01	56	05602		0		235	America/Santiago	2016-05-09
+8261202	Alto Hospicio	Alto Hospicio	Al'to-Ospisio,Alto Hospicio,Alto Ospisio,altooseupisio,altw haspykyw,altw hwsbykyw,shang huo si pi xi ao,Алто Осписио,Альто-Осписио,Альто-Оспісіо,ألتو هوسبيكيو,ئالتۆ ھۆشپیسیۆ,التو هاسپیکیو,上霍斯皮西奥,上霍斯皮西奧,알토오스피시오	-20.19129	-70.01187	A	ADM3	CL		15	11	01107		0		951	America/Santiago	2016-05-08
+8261203	Mejillones	Mejillones		-22.93603	-70.19863	A	ADM3	CL		03	21	02102		0		1206	America/Santiago	2016-05-08
+8261204	Quilpue	Quilpue		-33.14728	-71.25431	A	ADM3	CL		01	58	05801		0		450	America/Santiago	2015-09-19
+8261205	Ollague	Ollague		-21.45663	-68.3134	A	ADM3	CL		03	22	02202		0		3774	America/Santiago	2017-01-25
+8261206	Huara	Huara	Huara,Owara,Uara,Wara munisipyu,uala,wa la,wwara,Уара,Ուարա,ووآرا,瓦拉,우아라	-19.53591	-69.98482	A	ADM3	CL		15	14	01404		0		1086	America/Santiago	2016-06-23
+8261207	Iquique	Iquique	Iquique	-20.94088	-70.04121	A	ADM3	CL		15	11	01101		0		813	America/Santiago	2015-09-19
+8261208	Maria Elena	Maria Elena		-22.09044	-69.46128	A	ADM3	CL		03	23	02302		0		1121	America/Santiago	2016-05-08
+8261210	San Pedro de Atacama	San Pedro de Atacama		-23.40111	-67.91113	A	ADM3	CL		03	22	02203		0		3159	America/Santiago	2016-05-08
+8261211	Sierra Gorda	Sierra Gorda		-23.2542	-69.30723	A	ADM3	CL		03	21	02103		0		1956	America/Santiago	2016-05-08
+8261212	Copiapo	Copiapo	Copiapo,Copiapó	-27.3202	-69.8277	A	ADM3	CL		05	31	03101		0		2322	America/Santiago	2016-05-08
+8261213	Tierra Amarilla	Tierra Amarilla	Tierra Amarilla	-27.86566	-69.672	A	ADM3	CL		05	31	03103		0		3312	America/Santiago	2018-10-18
+8261214	Alto del Carmen	Alto del Carmen		-28.99355	-70.15298	A	ADM3	CL		05	33	03302		0		1544	America/Santiago	2016-05-08
+8261215	Freirina	Freirina		-28.84419	-71.19539	A	ADM3	CL		05	33	03303		0		987	America/Santiago	2016-05-08
+8261216	Tocopilla	Tocopilla		-22.00201	-70.01463	A	ADM3	CL		03	23	02301		0		1585	America/Santiago	2016-05-08
+8261217	Andacollo	Andacollo	Andacollo,Andakol'jo,Andakol'o,Andakoljas,an da ke yue,andakalw,andakojo,andakoyo,andakwlw,Андакольйо,Андакольо,أنداكولو,انداکالو,アンダコージョ,安达科约,安達科約,안다코요	-30.26061	-71.10051	A	ADM3	CL		07	41	04103		0		1125	America/Santiago	2016-05-08
+8261218	Nogales	Nogales		-32.69153	-71.17678	A	ADM3	CL		01	55	05506		0		272	America/Santiago	2016-05-09
+8261219	Calera	Calera		-32.80765	-71.18805	A	ADM3	CL		01	55	05502		0		519	America/Santiago	2016-06-23
+8261220	San Felipe	San Felipe		-32.73642	-70.75368	A	ADM3	CL		01	57	05701		0		613	America/Santiago	2015-09-19
+8261221	Chañaral	Chanaral		-26.37369	-70.33828	A	ADM3	CL		05	32	03201		0		800	America/Santiago	2016-05-08
+8261222	La Cruz	La Cruz		-32.82513	-71.24129	A	ADM3	CL		01	55	05504		0		168	America/Santiago	2012-05-03
+8261223	Caldera	Caldera		-27.1423	-70.68375	A	ADM3	CL		05	31	03102		0		371	America/Santiago	2016-05-08
+8261224	Ovalle	Ovalle		-30.674	-71.40617	A	ADM3	CL		07	43	04301		0		242	America/Santiago	2015-09-19
+8261225	El Quisco	El Quisco		-33.41611	-71.65119	A	ADM3	CL		01	56	05604		0		147	America/Santiago	2016-05-09
+8261226	La Serena	La Serena		-29.78924	-71.06117	A	ADM3	CL		07	41	04101		0		463	America/Santiago	2015-09-19
+8261227	Coquimbo	Coquimbo		-30.22884	-71.35984	A	ADM3	CL		07	41	04102		0		167	America/Santiago	2016-05-08
+8261228	Paihuano	Paihuano		-30.23835	-70.3707	A	ADM3	CL		07	41	04105		0		3334	America/Santiago	2012-05-03
+8261229	Catemu	Catemu		-32.70727	-70.94523	A	ADM3	CL		01	57	05702		0		558	America/Santiago	2016-05-09
+8261230	Combarbala	Combarbala		-31.1469	-70.96567	A	ADM3	CL		07	43	04302		0		1160	America/Santiago	2016-05-08
+8261231	Padre Hurtado	Padre Hurtado	Padre Hurtado,Padre Urtado,Padre-Urtado,pa de lei wu er ta duo,padeule-uleutado,padrh awrtadw,Падре Уртадо,Падре-Уртадо,پادره اورتادو,帕德雷乌尔塔多,帕德雷烏爾塔多,파드레우르타도	-33.55717	-70.87082	A	ADM3	CL		12	136	13604		0		406	America/Santiago	2016-05-09
+8261232	Punitaqui	Punitaqui	Punitaki,Punitakis,Punitaqui,pu ni ta ji,punitaki,Пунитаки,Пунітакі,פוניטאקי,普尼塔基,푸니타키	-30.94635	-71.33308	A	ADM3	CL		07	43	04304		0		935	America/Santiago	2016-05-08
+8261233	Quintero	Quintero		-32.84296	-71.47384	A	ADM3	CL		01	51	05107		0		54	America/Santiago	2016-05-09
+8261234	La Ligua	La Ligua		-32.35369	-71.27212	A	ADM3	CL		01	54	05401		0		178	America/Santiago	2015-09-19
+8261235	Petorca	Petorca		-32.19034	-70.87043	A	ADM3	CL		01	54	05404		0		990	America/Santiago	2016-05-09
+8261236	Cabildo	Cabildo		-32.41737	-70.82435	A	ADM3	CL		01	54	05402		0		1491	America/Santiago	2016-05-09
+8261237	Llaillay	Llaillay		-32.88792	-70.90242	A	ADM3	CL		01	57	05703		0		721	America/Santiago	2016-05-09
+8261238	Panquehue	Panquehue		-32.79385	-70.82903	A	ADM3	CL		01	57	05704		0		519	America/Santiago	2012-05-03
+8261239	Viña del Mar	Vina del Mar		-33.02878	-71.51593	A	ADM3	CL		01	51	05109		0		170	America/Santiago	2016-05-09
+8261240	Putaendo	Putaendo		-32.48077	-70.52136	A	ADM3	CL		01	57	05705		0		2416	America/Santiago	2016-05-09
+8261241	Saavedra	Saavedra		-38.83255	-73.29548	A	ADM3	CL		04	91	09116		0		5	America/Santiago	2016-05-09
+8261242	Yerbas Buenas	Yerbas Buenas		-35.68918	-71.54444	A	ADM3	CL		11	74	07408		0		185	America/Santiago	2016-05-09
+8261243	San Esteban	San Esteban		-32.68592	-70.34835	A	ADM3	CL		01	53	05304		0		3098	America/Santiago	2016-05-09
+8261244	Santa Maria	Santa Maria		-32.68552	-70.61033	A	ADM3	CL		01	57	05706		0		947	America/Santiago	2012-05-03
+8261245	Los Andes	Los Andes		-32.95032	-70.23985	A	ADM3	CL		01	53	05301		0		2916	America/Santiago	2016-05-09
+8261246	Calle Larga	Calle Larga		-32.95038	-70.54497	A	ADM3	CL		01	53	05302		0		1413	America/Santiago	2016-05-09
+8261247	Zapallar	Zapallar		-32.55487	-71.45473	A	ADM3	CL		01	54	05405		0		74	America/Santiago	2016-05-09
+8261248	Puchuncavi	Puchuncavi		-32.71759	-71.41113	A	ADM3	CL		01	51	05105		0		41	America/Santiago	2016-05-09
+8261249	Valparaíso	Valparaiso		-33.12984	-71.57347	A	ADM3	CL		01	51	05101		0		381	America/Santiago	2016-05-09
+8261250	San Antonio	San Antonio	San Antonio,San-Antonio,san-antonio,sheng an dong ni ao,Сан Антонио,Сан-Антонио,聖安東尼奧,산안토니오	-33.57096	-71.60957	A	ADM3	CL		01	56	05601		0		118	America/Santiago	2012-05-05
+8261251	Santo Domingo	Santo Domingo		-33.80931	-71.67658	A	ADM3	CL		01	56	05606		0		76	America/Santiago	2016-05-09
+8261252	Camarones	Camarones	Camarones,Comuna de Camarones,Kamarones,ka ma luo nei si,kamaloneseu,kamaronesu,kamarwns,kamarwnys,Камаронес,كامارونيس,کامارونس,კამარონესი,カマロネス,卡馬羅內斯,卡马罗内斯,카마로네스	-18.93002	-69.69905	A	ADM3	CL		16	151	15102		0		2238	America/Santiago	2016-05-08
+8261253	Navidad	Navidad	Navidad,na wei da de,nabidadeu,Навидад,納維達德,나비다드	-34.01227	-71.82026	A	ADM3	CL		08	62	06205		0		110	America/Santiago	2012-05-03
+8261254	Casablanca	Casablanca	Kasablanka,ka sa bu lan ka,kasabeullangka,kasablanka,Касабланка,كاسابلانكا,卡薩布蘭卡,카사블랑카	-33.3158	-71.43531	A	ADM3	CL		01	51	05102		0		260	America/Santiago	2012-05-03
+8261255	Litueche	Litueche	Litueche,Lituehche,Litwichi,li tu ai qie,litueche,ritoueche,Литуече,Литуэче,Літуече,لیتوئه‌چه,リトゥエチェ,利图埃切,利圖埃切,리투에체	-34.10738	-71.73362	A	ADM3	CL		08	62	06203		0		259	America/Santiago	2012-05-03
+8261256	Pichilemu	Pichilemu	Gorad Pichylemu,Pichilemu,Picilemas,Picilemo,Picilemu,Pitchilimu,Pitsilemou,Pitsilemu,Pixilemu,Piychillimu,Piçilemu,Piĉilemo,Pičilemas,Pičilemu,Pychillimu,Pítsílẹ́mu,btshylmw,bytshylymw,pi chi lemu,pi shi lei mu,pic'hilemu,piccilemu,pichillemu,pichiremu,picilimyu,pirrslemu,pychylmw,pyzylmw,Πιτσιλέμου,Горад Пічылему,Пичилему,Пічилему,פיצילמו,بتشيلمو,بيتشيليمو,پیچیلمو,पिच्हिलेमु,पीचिलीम्यू,பிச்சிலெமு,പിറ്റ്ഷ്ലെമു,ปีชีเลมู,ピチレム,披市勒亩,피칠레무	-34.38412	-71.91065	A	ADM3	CL		08	62	06201		0		245	America/Santiago	2015-09-19
+8261257	La Estrella	La Estrella		-34.22331	-71.6026	A	ADM3	CL		08	62	06202		0		256	America/Santiago	2012-05-03
+8261258	Coltauco	Coltauco	Coltauco,Kol'tauko,ke er tao ke,koltauko,kwltaykw,kwltaykw  shyly,Кольтауко,كولتايكو,کولتایکو، شیلی,科尔陶科,科爾陶科,콜타우코	-34.25999	-71.0779	A	ADM3	CL		08	61	06104		0		367	America/Santiago	2016-08-16
+8261259	Marchihue	Marchihue		-34.37266	-71.67164	A	ADM3	CL		08	62	06204		0		143	America/Santiago	2016-05-09
+8261260	Las Cabras	Las Cabras	Las Cabras,Las Karbas,Las-Kabras,la si ka bu la si,las kabras,Лас-Кабрас,Լաս Կարբաս,لاس کابراس,拉斯卡布拉斯	-34.16499	-71.33269	A	ADM3	CL		08	61	06107		0		123	America/Santiago	2016-05-09
+8261261	Placilla	Placilla	Placilla,Plasil'ja,peullasiya,plathya,pu la xi ya,Пласилья,Пласілья,پلاثیا,普拉西亚,普拉西亞,플라시야	-34.61921	-71.08623	A	ADM3	CL		08	63	06308		0		271	America/Santiago	2016-05-09
+8261262	Pichidegua	Pichidegua	Pichidegua,pi qi de gua,pichidegwa,pychydgwa,Пичидегуа,Պիչիդեգուա,پیچیدگوآ,皮奇德瓜,피치데과	-34.37121	-71.33941	A	ADM3	CL		08	61	06113		0		541	America/Santiago	2016-05-09
+8261263	San Vicente	San Vicente		-34.47776	-71.12334	A	ADM3	CL		08	61	06117		0		358	America/Santiago	2018-10-18
+8261264	Palmilla	Palmilla	Palmija,Palmil'ja,Palmilla,Palmiya,pa mi la,palmiya,palmyya,parumija,Палмилья,Палмия,Палмілья,Պալմիլլա,پالمییا,パルミージャ,帕米拉,팔미야	-34.52817	-71.35285	A	ADM3	CL		08	63	06306		0		149	America/Santiago	2012-05-03
+8261265	Santa Cruz	Santa Cruz	Sankta Kruco,Santa Cruz,Santa-Krus,santa krwz,santa krwz  chly,santakeuluseu,sheng ke lu si,Санта-Крус,سانتا کروز,سانتا کروز، چلی,サンタ・クルス,圣克鲁斯,聖克魯斯,산타크루스	-34.64319	-71.40252	A	ADM3	CL		08	63	06310		0		164	America/Santiago	2016-05-09
+8261266	Nancagua	Nancagua	Nancagua,Nankagua,nan ka gua,nangkagwa,nankagwa,Нанкагуа,نانکاگوآ,南卡瓜,낭카과	-34.66776	-71.19194	A	ADM3	CL		08	63	06305		0		217	America/Santiago	2016-05-09
+8261267	Peralillo	Peralillo	Peralil'jo,Peralil'o,Peralillo,pei la li yue,pelallio,pralyyw,Пералильо,Пералільйо,پرالییو,佩拉利約,佩拉利约,페랄리오	-34.46619	-71.49667	A	ADM3	CL		08	63	06307		0		129	America/Santiago	2012-05-03
+8261268	Pumanque	Pumanque	Pumanke,Pumanque,pu man ke,pumangke,pwmankh,Пуманке,پومانکه,普曼克,푸망케	-34.59615	-71.69152	A	ADM3	CL		08	63	06309		0		238	America/Santiago	2016-05-09
+8261269	Codegua	Codegua	Codegua,Kodegoua,Kodegua,ke de gua,kodegwa,kwdygyw  shyly,kwdyjyw,Κοδέγουα,Кодегуа,كوديجيو,کودیگیو، شیلی,科德瓜,코데과	-34.05738	-70.54715	A	ADM3	CL		08	61	06102		0		1100	America/Santiago	2016-05-09
+8261270	Paredones	Paredones	Paredones,pa lei duo nei si,paledoneseu,pardwns,paredonesu,Паредонес,پاردونس,パレドネス,帕雷多內斯,帕雷多内斯,파레도네스	-34.67325	-71.91121	A	ADM3	CL		08	62	06206		0		105	America/Santiago	2016-05-09
+8261271	Graneros	Graneros	Graneros,ge la nei luo si,geulaneloseu,granrws,granyrws,jranyrws,Гранерос,جرانيروس,گرانروس,گرانیروس,格拉內羅斯,格拉内罗斯,그라네로스	-34.06566	-70.74702	A	ADM3	CL		08	61	06106		0		469	America/Santiago	2016-05-09
+8261272	Lolol	Lolol		-34.76839	-71.64842	A	ADM3	CL		08	63	06304		0		386	America/Santiago	2016-05-09
+8261273	Quinta de Tilcoco	Quinta de Tilcoco	Kinta-de-Til'koko,Quinta de Tilcoco,Quinta de Toloco,kintadetilkoko,kun ta de di er ke ke,kynta d tylkwkw,Кинта-де-Тилькоко,Кінта-де-Тількоко,کینتا د تیلکوکو,キンタ・デ・ティルココ,昆塔德蒂尔科科,昆塔德蒂爾科科,킨타데틸코코	-34.35919	-70.99817	A	ADM3	CL		08	61	06114		0		260	America/Santiago	2018-10-18
+8261274	Chepica	Chepica		-34.79131	-71.35928	A	ADM3	CL		08	63	06302		0		208	America/Santiago	2012-05-03
+8261275	Quillota	Quillota		-32.9046	-71.27305	A	ADM3	CL		01	55	05501		0		107	America/Santiago	2016-05-09
+8261276	Chimbarongo	Chimbarongo	Chimbarongo,chimbalong-go,qin ba long ge,shymbarwnghw,shymbarwngw  shyly,Чимбаронго,شيمبارونغو,شیمبارونگو، شیلی,欽巴龍戈,钦巴龙戈,침바롱고	-34.75166	-70.98106	A	ADM3	CL		08	63	06303		0		332	America/Santiago	2016-05-09
+8261277	Malloa	Malloa	Mal'joa,Mal'oa,Malloa,Maloa,ma yue a,mayoa,maywa,Малоа,Мальйоа,Мальоа,مایوآ,馬約阿,马约阿,마요아	-34.47619	-70.87342	A	ADM3	CL		08	61	06109		0		471	America/Santiago	2016-05-09
+8261278	Rancagua	Rancagua		-34.12606	-70.81659	A	ADM3	CL		08	61	06101		0		504	America/Santiago	2015-09-19
+8261279	Rengo	Rengo		-34.4547	-70.71855	A	ADM3	CL		08	61	06115		0		1083	America/Santiago	2016-05-09
+8261280	Coinco	Coinco		-34.28221	-70.97105	A	ADM3	CL		08	61	06103		0		364	America/Santiago	2012-05-03
+8261281	Requinoa	Requinoa		-34.33497	-70.65906	A	ADM3	CL		08	61	06116		0		884	America/Santiago	2016-05-09
+8261282	Olivar	Olivar	Olivar,alywar,ao li wa er,ollibaleu,Оливар,Олівар,الیوار,奥利瓦尔,奧利瓦爾,올리바르	-34.21164	-70.82012	A	ADM3	CL		08	61	06111		0		466	America/Santiago	2012-05-03
+8261283	Doñihue	Donihue		-34.19705	-70.92362	A	ADM3	CL		08	61	06105		0		596	America/Santiago	2016-05-09
+8261284	Mostazal	Mostazal	Mostasal',Mostazal,mo si ta sa er,moseutasal,mosutasaru,mwstthl,Мостасаль,موستثل,モスタサル,莫斯塔萨尔,莫斯塔薩爾,모스타살	-33.95603	-70.56939	A	ADM3	CL		08	61	06110		0		1347	America/Santiago	2016-05-09
+8261285	Talca	Talca	Province de Talca,Provincia Talca,Provincia de Talca,Provincia di Talca,Provinco Talca,Tal'ka,Talca Province,Talca probintzia,Talka,ta er ka sheng,talka hyeon,taruka xian,Талька,Տալկա,ტალკა,タルカ県,塔爾卡省,탈카 현	-35.42804	-71.60282	A	ADM3	CL		11	71	07101		0		135	America/Santiago	2012-05-03
+8261286	Licanten	Licanten		-34.97431	-72.06035	A	ADM3	CL		11	73	07303		0		414	America/Santiago	2016-05-09
+8261287	Sagrada Familia	Sagrada Familia		-35.10426	-71.49586	A	ADM3	CL		11	73	07307		0		143	America/Santiago	2016-05-09
+8261288	Romeral	Romeral		-35.06832	-70.71123	A	ADM3	CL		11	73	07306		0		2219	America/Santiago	2016-05-09
+8261289	Rauco	Rauco		-34.93821	-71.42639	A	ADM3	CL		11	73	07305		0		455	America/Santiago	2016-05-09
+8261290	Pelarco	Pelarco		-35.38323	-71.3506	A	ADM3	CL		11	71	07106		0		225	America/Santiago	2012-05-03
+8261291	Teno	Teno		-34.8879	-71.02239	A	ADM3	CL		11	73	07308		0		387	America/Santiago	2016-05-09
+8261292	Villa Alegre	Villa Alegre		-35.68529	-71.68293	A	ADM3	CL		11	74	07407		0		123	America/Santiago	2012-05-03
+8261293	San Rafael	San Rafael		-35.30194	-71.50108	A	ADM3	CL		11	71	07110		0		160	America/Santiago	2012-05-03
+8261294	Rio Claro	Rio Claro		-35.26092	-71.26946	A	ADM3	CL		11	71	07108		0		307	America/Santiago	2012-05-03
+8261295	Chanco	Chanco		-35.69882	-72.48491	A	ADM3	CL		11	72	07202		0		256	America/Santiago	2012-05-03
+8261296	Colchane	Colchane	Colchane,Kol'chane,Qullchani,ke er cha nei,kolchane,kwlchyn  shyly,kwlshany,Кольчане,Կոլչանե,كولشانى,كولشاني,کولچین، شیلی,科爾查內,콜차네	-19.35311	-68.84698	A	ADM3	CL		15	14	01403		0		4025	America/Santiago	2016-05-08
+8261297	Pencahue	Pencahue		-35.32769	-71.81707	A	ADM3	CL		11	71	07107		0		79	America/Santiago	2012-05-03
+8261298	Empedrado	Empedrado		-35.61353	-72.2843	A	ADM3	CL		11	71	07104		0		334	America/Santiago	2012-05-03
+8261299	Retiro	Retiro		-36.00231	-71.82927	A	ADM3	CL		11	74	07405		0		147	America/Santiago	2016-05-09
+8261300	Maule	Maule		-35.50852	-71.71258	A	ADM3	CL		11	71	07105		0		114	America/Santiago	2016-05-09
+8261301	Los Alamos	Los Alamos		-37.67359	-73.35687	A	ADM3	CL		06	82	08206		0		152	America/Santiago	2016-05-09
+8261302	Arauco	Arauco		-37.28857	-73.39943	A	ADM3	CL		06	82	08202		0		112	America/Santiago	2016-05-09
+8261303	Penco	Penco		-36.74842	-72.94369	A	ADM3	CL		06	81	08107		0		381	America/Santiago	2016-05-09
+8261304	Bulnes	Bulnes	Bul'nes,Bulnes,bu er nei si,bulneseu,bwlnys,Бульнес,Բուլնես,بولنيس,布爾內斯,불네스	-36.79046	-72.29009	A	ADM3	CL		18	161	16102		0		100	America/Santiago	2018-11-28
+8261305	Cabrero	Cabrero		-37.06211	-72.3814	A	ADM3	CL		06	83	08303		0		135	America/Santiago	2016-05-09
+8261306	Pelluhue	Pelluhue		-35.91154	-72.60758	A	ADM3	CL		11	72	07203		0		306	America/Santiago	2016-05-09
+8261307	Perquenco	Perquenco		-38.42834	-72.43653	A	ADM3	CL		04	91	09113		0		261	America/Santiago	2016-05-09
+8261308	Curepto	Curepto		-35.12966	-71.95329	A	ADM3	CL		11	71	07103		0		61	America/Santiago	2016-05-09
+8261309	Buin	Buin	Buin,Buín,bu yin,bwyn,bwyyn,Буин,Буін,Буїн,Բուին,בואין,بوئین,بوين,布因	-33.74808	-70.73934	A	ADM3	CL		12	134	13402		0		468	America/Santiago	2016-05-09
+8261310	San Javier	San Javier		-35.62902	-71.92712	A	ADM3	CL		11	74	07406		0		320	America/Santiago	2016-05-09
+8261311	Temuco	Temuco		-38.67306	-72.66326	A	ADM3	CL		04	91	09101		0		149	America/Santiago	2015-09-19
+8261312	Portezuelo	Portezuelo		-36.54644	-72.46651	A	ADM3	CL		18	162	16205		0		126	America/Santiago	2018-11-28
+8261313	Constitucion	Constitucion		-35.36306	-72.27618	A	ADM3	CL		11	71	07102		0		468	America/Santiago	2016-05-09
+8261314	Camiña	Camina		-19.37371	-69.5056	A	ADM3	CL		15	14	01402		0		2090	America/Santiago	2016-05-08
+8261315	Cañete	Canete		-37.87412	-73.31773	A	ADM3	CL		06	82	08203		0		320	America/Santiago	2018-10-18
+8261316	La Granja	La Granja	La Grankha,La-Grankha,la ge lan ha,la granja  chly,lageulangha,Ла Гранха,Ла-Гранха,لا گرانجا، چلی,拉格蘭哈,라그랑하	-33.53538	-70.62227	A	ADM3	CL		12	131	13111		0		604	America/Santiago	2012-05-03
+8261317	Vichuquén	Vichuquen		-34.84101	-72.02277	A	ADM3	CL		11	73	07309		0		9	America/Santiago	2018-10-18
+8261318	Mulchén	Mulchen		-37.83837	-72.09717	A	ADM3	CL		06	83	08305		0		360	America/Santiago	2016-05-09
+8261319	Quilaco	Quilaco		-37.98196	-71.59733	A	ADM3	CL		06	83	08308		0		935	America/Santiago	2016-06-23
+8261320	Alto Biobio	Alto Biobio		-37.86539	-71.34738	A	ADM3	CL		06	83	08314		0		1483	America/Santiago	2021-10-07
+8261321	Santa Barbara	Santa Barbara		-37.62299	-71.74922	A	ADM3	CL		06	83	08311		0		711	America/Santiago	2016-05-09
+8261322	Antuco	Antuco		-37.32769	-71.36663	A	ADM3	CL		06	83	08302		0		1976	America/Santiago	2016-05-09
+8261323	Pinto	Pinto		-36.92137	-71.49935	A	ADM3	CL		18	161	16106		0		1459	America/Santiago	2018-11-28
+8261324	Quilleco	Quilleco		-37.43685	-71.86141	A	ADM3	CL		06	83	08309		0		500	America/Santiago	2016-05-09
+8261325	Tucapel	Tucapel		-37.22528	-71.7455	A	ADM3	CL		06	83	08312		0		851	America/Santiago	2016-05-09
+8261326	Yungay	Yungay		-37.10445	-71.93081	A	ADM3	CL		18	161	16109		0		362	America/Santiago	2018-11-28
+8261327	Pemuco	Pemuco		-36.98295	-72.06754	A	ADM3	CL		18	161	16105		0		242	America/Santiago	2018-11-28
+8261328	El Carmen	El Carmen		-36.92509	-71.8469	A	ADM3	CL		18	161	16104		0		442	America/Santiago	2018-11-28
+8261329	San Ignacio	San Ignacio		-36.82246	-72.02976	A	ADM3	CL		18	161	16108		0		237	America/Santiago	2018-11-28
+8261330	Tirúa	Tirua		-38.29753	-73.39568	A	ADM3	CL		06	82	08207		0		399	America/Santiago	2016-05-09
+8261331	Contulmo	Contulmo		-38.0527	-73.21238	A	ADM3	CL		06	82	08204		0		602	America/Santiago	2016-05-09
+8261332	Talagante	Talagante	Talagante,ta la gan te,talaganth,tallagante,taragante,Талаганте,Տալագանտե,טלאגנטה,تالاگانته,タラガンテ,塔拉甘特,탈라간테	-33.68232	-70.89508	A	ADM3	CL		12	136	13601		0		357	America/Santiago	2016-05-09
+8261333	Hualañe	Hualane		-34.95253	-71.70895	A	ADM3	CL		11	73	07302		0		221	America/Santiago	2016-05-09
+8261334	Calera de Tango	Calera de Tango		-33.62344	-70.79039	A	ADM3	CL		12	134	13403		0		482	America/Santiago	2016-05-09
+8261335	San Nicolás	San Nicolas		-36.47978	-72.22823	A	ADM3	CL		18	163	16305		0		117	America/Santiago	2018-11-28
+8261336	Ñiquen	Niquen		-36.30236	-71.89741	A	ADM3	CL		18	163	16303		0		174	America/Santiago	2018-11-28
+8261337	San Fabian	San Fabian		-36.57988	-71.28735	A	ADM3	CL		18	163	16304		0		1349	America/Santiago	2018-11-28
+8261338	Coihueco	Coihueco		-36.70214	-71.5811	A	ADM3	CL		18	163	16302		0		1170	America/Santiago	2018-11-28
+8261339	Chillán Viejo	Chillan Viejo		-36.6803	-72.19896	A	ADM3	CL		18	161	16103		0		113	America/Santiago	2018-11-28
+8261340	Coelemu	Coelemu	Koehlemu,ke ai lai mu,ko-ellemu,kwylymyw,kwylymyw  shyly,Коэлему,كويليميو,کویلیمیو، شیلی,科埃萊穆,코엘레무	-36.50512	-72.75035	A	ADM3	CL		18	162	16203		0		87	America/Santiago	2018-11-28
+8261341	Ranquil	Ranquil		-36.64064	-72.58776	A	ADM3	CL		18	162	16206		0		86	America/Santiago	2018-11-28
+8261342	Florida	Florida	Florida,flwryda,flwryda  shyly,fu luo li da,peullolida,Флорида,فلوريدا,فلوریدا، شیلی,弗洛里達,플로리다	-36.82238	-72.71765	A	ADM3	CL		06	81	08104		0		276	America/Santiago	2012-05-03
+8261343	Negrete	Negrete	Negrete,negeulete,nei ge lei te,Негрете,內格雷特,네그레테	-37.60828	-72.57662	A	ADM3	CL		06	83	08307		0		73	America/Santiago	2012-05-03
+8261344	Chiguayante	Chiguayante		-36.90076	-73.00499	A	ADM3	CL		06	81	08103		0		368	America/Santiago	2016-05-09
+8261345	Hualqui	Hualqui		-37.04472	-72.87038	A	ADM3	CL		06	81	08105		0		110	America/Santiago	2016-05-09
+8261346	El Monte	El Monte		-33.66713	-71.03244	A	ADM3	CL		12	136	13602		0		270	America/Santiago	2012-05-03
+8261347	Coronel	Coronel	Koronel,Koronel',ke luo nei er,kolonel,koroneru,kwrwnl,Коронел,Коронель,קאראנעל,كورونل,کورونل,コロネル,科羅內爾,코로넬	-37.00698	-73.12524	A	ADM3	CL		06	81	08102		0		14	America/Santiago	2012-05-03
+8261348	Lota	Lota		-37.11949	-73.1049	A	ADM3	CL		06	81	08106		0		387	America/Santiago	2016-05-09
+8261349	San Rosendo	San Rosendo		-37.21303	-72.72112	A	ADM3	CL		06	83	08310		0		174	America/Santiago	2016-05-09
+8261350	Pozo Almonte	Pozo Almonte		-20.7702	-69.50453	A	ADM3	CL		15	14	01401		0		1009	America/Santiago	2015-09-19
+8261351	Padre Las Casas	Padre Las Casas		-38.79198	-72.57925	A	ADM3	CL		04	91	09112		0		99	America/Santiago	2012-05-03
+8261352	Victoria	Victoria		-38.28046	-72.23402	A	ADM3	CL		04	92	09211		0		413	America/Santiago	2016-05-09
+8261353	Laja	Laja		-37.31247	-72.58246	A	ADM3	CL		06	83	08304		0		87	America/Santiago	2016-05-09
+8261354	Panguipulli	Panguipulli		-39.71461	-72.02992	A	ADM3	CL		17	141	14108		0		1130	America/Santiago	2016-05-09
+8261355	La Union	La Union		-40.20131	-73.22227	A	ADM3	CL		17	142	14201		0		266	America/Santiago	2015-09-19
+8261356	Rio Bueno	Rio Bueno		-40.49591	-72.53567	A	ADM3	CL		17	142	14204		0		332	America/Santiago	2012-05-03
+8261357	Ercilla	Ercilla		-38.08283	-72.35346	A	ADM3	CL		04	92	09204		0		345	America/Santiago	2012-05-03
+8261358	Nueva Imperial	Nueva Imperial		-38.75093	-72.97253	A	ADM3	CL		04	91	09111		0		19	America/Santiago	2016-05-09
+8261359	Los Sauces	Los Sauces		-37.98315	-72.79682	A	ADM3	CL		04	92	09206		0		173	America/Santiago	2016-05-09
+8261360	Palena	Palena		-43.6824	-71.98335	A	ADM3	CL		14	104	10404		0		1090	America/Santiago	2016-05-09
+8261361	Chaiten	Chaiten		-43.09407	-72.57585	A	ADM3	CL		14	104	10401		0		1185	America/Santiago	2016-05-09
+8261362	Tortel	Tortel		-48.02714	-74.15923	A	ADM3	CL		02	113	11303		0		437	America/Coyhaique	2025-04-29
+8261363	Cochrane	Cochrane		-47.3601	-72.74183	A	ADM3	CL		02	113	11301		0		291	America/Coyhaique	2025-04-29
+8261364	Isla de Maipo	Isla de Maipo	Isla de Maipo,Isla de Maypo,Isla-de-Majpo,aysla d maypw,aysla dy mybw,iseullademaipo,yi si la de mai bo,Ісла-де-Майпо,Исла-де-Майпо,Իսլա դե Մայպո,ايسلا دى ميبو,ايسلا دي ميبو,ایسلا د مایپو,イスラ・デ・マイポ,伊斯拉德迈波,伊斯拉德邁波,이슬라데마이포	-33.74849	-70.94574	A	ADM3	CL		12	136	13603		0		586	America/Santiago	2016-05-09
+8261365	Mariquina	Mariquina		-39.51307	-73.01962	A	ADM3	CL		17	141	14106		0		28	America/Santiago	2012-05-03
+8261366	Futrono	Futrono	Foutrono,Futrono,fu te luo nuo,fywtrwnw,fywtrwnw  shyly,puteuleuno,pwtrwnw,Φουτρόνο,Футроно,פוטרונו,فيوترونو,فیوترونو، شیلی,富特罗诺,富特羅諾,푸트르노	-40.11886	-72.11542	A	ADM3	CL		17	142	14202		0		1248	America/Santiago	2016-05-09
+8261367	Lago Ranco	Lago Ranco		-40.37321	-72.16584	A	ADM3	CL		17	142	14203		0		374	America/Santiago	2016-05-09
+8261368	Lautaro	Lautaro		-38.54317	-72.28936	A	ADM3	CL		04	91	09108		0		282	America/Santiago	2016-05-09
+8261369	Cerrillos	Cerrillos	Cerrillos	-33.50027	-70.71742	A	ADM3	CL		12	131	13102		0		516	America/Santiago	2018-10-18
+8261370	Traiguen	Traiguen		-38.24708	-72.6551	A	ADM3	CL		04	92	09210		0		171	America/Santiago	2016-05-09
+8261371	Teodoro Schmidt	Teodoro Schmidt		-38.98482	-73.11473	A	ADM3	CL		04	91	09117		0		33	America/Santiago	2016-05-09
+8261372	La Cisterna	La Cisterna	La Cisterna,La Sisterna,La-Sisterna,la systrna,la xi si te na,lasiseuteleuna,lh systrnh,Ла Систерна,Ла-Систерна,Ла-Сістерна,Լա Քիստերնա,לה סיסטרנה,لا سیسترنا,لا سیسٹیرنا,拉西斯特納,拉西斯特纳,라시스테르나	-33.53021	-70.66415	A	ADM3	CL		12	131	13109		0		570	America/Santiago	2016-05-09
+8261373	Pitrufquen	Pitrufquen		-39.10496	-72.90194	A	ADM3	CL		04	91	09114		0		53	America/Santiago	2016-06-23
+8261374	Llanquihue	Llanquihue	Gian'kioue,L'jankiueh,Ljankihue,Ljankihuė,Llanquihue,Lljankiue,jankiue,yan ji wei,yangkiue,yankywwyh,Γιανκίουε,Ллянкіуе,Льянкиуэ,یانکیووئه,ジャンキーウエ,延基韋,延基韦,양키우에	-41.23815	-73.1396	A	ADM3	CL		14	101	10107		0		174	America/Santiago	2016-05-09
+8261375	Huailaihue	Huailaihue		-42.17719	-72.37695	A	ADM3	CL		14	104	10403		0		133	America/Santiago	2012-05-03
+8261376	Cunco	Cunco		-38.97704	-71.99173	A	ADM3	CL		04	91	09103		0		354	America/Santiago	2012-05-03
+8261377	San Miguel	San Miguel	San-Migel',sanmigel,sheng mi ge er,Сан-Мигель,聖米格爾,산미겔	-33.49907	-70.65171	A	ADM3	CL		12	131	13130		0		555	America/Santiago	2024-05-13
+8261378	Galvarino	Galvarino	Gal'varino,galbalino,jia er wa li nuo,Гальварино,加爾瓦里諾,갈바리노	-38.44794	-72.79119	A	ADM3	CL		04	91	09106		0		184	America/Santiago	2012-05-03
+8261379	Cholchol	Cholchol		-38.58318	-72.90195	A	ADM3	CL		04	91	09121		0		34	America/Santiago	2016-05-09
+8261380	Vitacura	Vitacura	Vitakura,Витакура	-33.37994	-70.57237	A	ADM3	CL		12	131	13132		0		708	America/Santiago	2016-05-09
+8261381	Freire	Freire		-38.94959	-72.57581	A	ADM3	CL		04	91	09105		0		118	America/Santiago	2012-05-03
+8261382	Frutillar	Frutillar		-41.08716	-73.09563	A	ADM3	CL		14	101	10105		0		132	America/Santiago	2016-05-09
+8261383	Puerto Montt	Puerto Montt		-41.48917	-72.79531	A	ADM3	CL		14	101	10101		0		142	America/Santiago	2015-09-19
+8261384	Colina	Colina	Colina,Kolina,ke li na,ko li na,kolina,kollina,korina,kwlyna,kwlyna  shyly,Κολίνα,Колина,Коліна,Կոլինա,كولينا,کولینا,کولینا، شیلی,कोलिना,কোলিনা,કોલિના,கோலினா,కోలిన,ಕೋಲಿನ,කොලිනා,โกลินา,コリナ,科利納,科利纳,콜리나	-33.13418	-70.61567	A	ADM3	CL		12	133	13301		0		1378	America/Santiago	2015-09-19
+8261385	Vilcun	Vilcun		-38.7047	-72.1136	A	ADM3	CL		04	91	09119		0		390	America/Santiago	2016-05-09
+8261386	Curacautin	Curacautin		-38.43259	-71.77106	A	ADM3	CL		04	92	09203		0		772	America/Santiago	2016-05-09
+8261387	Arica	Arica		-18.5377	-69.97458	A	ADM3	CL		16	151	15101		0		1497	America/Santiago	2016-05-08
+8261388	Renaico	Renaico		-37.71779	-72.5757	A	ADM3	CL		04	92	09209		0		83	America/Santiago	2016-05-09
+8261389	Rinconada	Rinconada		-32.87601	-70.70676	A	ADM3	CL		01	53	05303		0		833	America/Santiago	2016-05-09
+8261390	Lo Barnechea	Lo Barnechea	Lo Barnechea,Lo-Barnechea,lobaleunechea,luo ba er nei qie a,lw barnyshya,Ло Барнечеа,Ло-Барнечеа,لو بارنيشيا,لو بارنچه‌آ,洛巴尔内切阿,洛巴爾內切阿,로바르네체아	-33.29908	-70.36869	A	ADM3	CL		12	131	13115		0		1929	America/Santiago	2016-05-09
+8261391	Papudo	Papudo		-32.50754	-71.44306	A	ADM3	CL		01	54	05403		0		28	America/Santiago	2016-05-09
+8261392	Puren	Puren		-38.01213	-73.05044	A	ADM3	CL		04	92	09208		0		152	America/Santiago	2016-05-09
+8261393	Tolten	Tolten		-39.21206	-73.07836	A	ADM3	CL		04	91	09118		0		275	America/Santiago	2012-05-03
+8261394	Laguna Blanca	Laguna Blanca		-52.3294	-71.23977	A	ADM3	CL		10	121	12102		0		113	America/Punta_Arenas	2016-05-10
+8261395	Santiago	Santiago	Santiago,Santiago de Chile	-33.45406	-70.65599	A	ADM3	CL		12	131	13101		0		549	America/Santiago	2016-05-09
+8261396	Villarrica	Villarrica		-39.30089	-72.18216	A	ADM3	CL		04	91	09120		0		336	America/Santiago	2016-05-09
+8261397	Cerro Navia	Cerro Navia	Cerro Navia,Sero Navija,Serro-Navija,sai luo na wei ya,selonabia,srw nawya  shyly,syrw nafya,Серо Навија,Серро-Навия,Серро-Навія,سرو ناویا، شیلی,سيرو نافيا,塞罗纳维亚,塞羅納維亞,세로나비아	-33.42278	-70.74504	A	ADM3	CL		12	131	13103		0		493	America/Santiago	2016-05-09
+8261398	Conchali	Conchali		-33.38372	-70.67735	A	ADM3	CL		12	131	13104		0		512	America/Santiago	2016-05-09
+8261399	El Bosque	El Bosque	Ehl'-Boske,El Boske,ai er bo si ke,albwsky,elboseuke,Ел Боске,Эль-Боске,البوسكي,埃爾博斯克,엘보스케	-33.56294	-70.6764	A	ADM3	CL		12	131	13105		0		582	America/Santiago	2012-05-03
+8261400	Estacion Central	Estacion Central		-33.46453	-70.69858	A	ADM3	CL		12	131	13106		0		512	America/Santiago	2016-05-09
+8261401	Loncoche	Loncoche		-39.35605	-72.58252	A	ADM3	CL		04	91	09109		0		157	America/Santiago	2012-05-03
+8261402	Pucon	Pucon		-39.27023	-71.7905	A	ADM3	CL		04	91	09115		0		388	America/Santiago	2016-05-09
+8261403	Gorbea	Gorbea		-39.17173	-72.66922	A	ADM3	CL		04	91	09107		0		101	America/Santiago	2012-05-03
+8261404	Melipeuco	Melipeuco		-38.82478	-71.61102	A	ADM3	CL		04	91	09110		0		912	America/Santiago	2016-05-09
+8261405	La Florida	La Florida	La Florida,La-Florida,la flwryda,la fu luo li da,la-plorida,lapeullolida,Λα Φλορίδα,Ла Флорида,Ла-Флорида,لا فلورایڈا، چلی,لا فلوريدا,لا فلوریدا,ლა-ფლორიდა,拉弗罗里达,拉弗羅里達,라플로리다	-33.52857	-70.53957	A	ADM3	CL		12	131	13110		0		784	America/Santiago	2016-05-09
+8261406	Fresia	Fresia		-41.15442	-73.60649	A	ADM3	CL		14	101	10104		0		83	America/Santiago	2016-05-09
+8261407	La Pintana	La Pintana	La Pintana,La-Pintana,la ping ta na,la pyntana,lapintana,Ла Пинтана,Ла-Пинтана,Ла-Пінтана,لا پینتانا,لا پینٹانا,拉平塔納,拉平塔纳,라핀타나	-33.58426	-70.63758	A	ADM3	CL		12	131	13112		0		628	America/Santiago	2016-05-09
+8261408	Purranque	Purranque	Purranke,Purranque,pu lan ke,pulangke,puranke,Пурранке,プランケ,普兰克,普蘭克,푸랑케	-40.9351	-73.45825	A	ADM3	CL		14	103	10303		0		238	America/Santiago	2016-05-09
+8261409	Rio Negro	Rio Negro		-40.77025	-73.41747	A	ADM3	CL		14	103	10305		0		157	America/Santiago	2016-05-09
+8261410	La Reina	La Reina	La Reina,La Rejna,La Reyna,La-Rejna,la lei na,la rna,la ryna,laleina,lh ryynh,Λα Ρέινα,Ла Рејна,Ла-Рейна,Լա Ռեյնա,לה ריינה,لا رنا,لا رينا,لا رینا,ラ・レイナ,拉雷納,拉雷纳,라레이나	-33.44858	-70.53577	A	ADM3	CL		12	131	13113		0		692	America/Santiago	2016-05-09
+8261411	Osorno	Osorno	Osornas,Osorno,ao suo er nuo,awswrnw  shyly,osoleuno,osorno,osoruno,Осорно,اوسورنو، شیلی,ოსორნო,オソルノ,奥索尔诺,오소르노	-40.6108	-73.08767	A	ADM3	CL		14	103	10301		0		54	America/Santiago	2014-07-21
+8261412	Puerto Octay	Puerto Octay	Puehrto-Oktaj,Puerto Octay,Puerto-Oktaj,ao ke tai gang,pueleutoogtei,pwrtw aktayy,Пуерто-Октай,Пуэрто-Октай,پورتو اکتائی,プエルト・オクタイ,奥克泰港,奧克泰港,푸에르토옥테이	-40.93357	-72.59939	A	ADM3	CL		14	103	10302		0		250	America/Santiago	2016-05-09
+8261413	Peñalolen	Penalolen		-33.48619	-70.52485	A	ADM3	CL		12	131	13122		0		803	America/Santiago	2016-05-09
+8261414	Providencia	Providencia	Providensija,Providentia,peulobidensia,pu luo wei deng xi ya,Провиденсия,Провиденсија,普羅維登西亞,프로비덴시아	-33.43621	-70.60896	A	ADM3	CL		12	131	13123		0		604	America/Santiago	2016-04-05
+8261415	Maullín	Maullin		-41.63242	-73.5083	A	ADM3	CL		14	101	10108		0		18	America/Santiago	2021-09-20
+8261416	Quinta Normal	Quinta Normal		-33.4284	-70.7008	A	ADM3	CL		12	131	13126		0		517	America/Santiago	2016-05-09
+8261417	Recoleta	Recoleta	Rekoleta,lei ke lai ta,lekolleta,Реколета,雷科萊塔,레콜레타	-33.40881	-70.63638	A	ADM3	CL		12	131	13127		0		542	America/Santiago	2012-05-03
+8261418	Renca	Renca		-33.40209	-70.72793	A	ADM3	CL		12	131	13128		0		500	America/Santiago	2012-05-03
+8261419	San Joaquin	San Joaquin		-33.49626	-70.62878	A	ADM3	CL		12	131	13129		0		565	America/Santiago	2012-05-03
+8261420	Los Muermos	Los Muermos	Los Muermos,Los-Muehrmos,Los-Muermos,loseumueleumoseu,ls mwyrms,luo si mu ai er mo si,Лос-Муермос,Лос-Муэрмос,لس موئرمس,洛斯穆埃尔莫斯,洛斯穆埃爾莫斯,로스무에르모스	-41.39804	-73.58258	A	ADM3	CL		14	101	10106		0		194	America/Santiago	2016-05-09
+8261421	Independencia	Independencia	Independensija,du li shi,independensia,Индепенденсия,Индепенденсија,獨立市,인데펜덴시아	-33.41511	-70.66575	A	ADM3	CL		12	131	13108		0		538	America/Santiago	2012-05-03
+8261422	Quinchao	Quinchao	Kinchao,Quinchao,jin qiao,kinchao,Кинчао,Кінчао,金乔,金喬,킨차오	-42.64458	-73.27765	A	ADM3	CL		14	102	10210		0		48	America/Santiago	2016-06-23
+8261423	Puente Alto	Puente Alto	Pouente Alto,Puehnte-Al'to,Puehnteh-Al'ta,Puente Altas,Puente Alto,Puente-Al'to,Pvente-Al'to,bwynty altw,pu xen te xal to,pu'enta alto,pu'enta olto,pu'ente alto,puentealto,puentearuto,punte alto,puvente alto,puyente alto,pwnth altw,pwynty altw,pyunte alto,shang pu en te,Πουέντε Άλτο,Пвенте-Альто,Пуенте Алто,Пуенте-Альто,Пуэнте-Альто,Пуэнтэ-Альта,פואנטה אלטו,بوينتى آلتو,بوينتي آلتو,پونته آلتو,پوینتی التو,पुएंट ऑल्टो,पुएंते अल्तो,পুয়েন্টে অল্টো,પુએન્ટ અલ્ટો,புவேண்டே ஆல்டோ,ప్యూంటే ఆల్టో,ಪುಂಟೆ ಅಲ್ಟೊ,පොන්ටේ ඇල්ටෝ,ปูเอนเตอัลโต,პუენტე-ალტო,プエンテアルト,上普恩特,푸엔테알토	-33.59103	-70.55751	A	ADM3	CL		12	132	13201		0		703	America/Santiago	2015-09-19
+8261424	Paine	Paine	Paine,Pajne,Payne,pai nei,paine,payn,Пайне,پاین,パイネ,派內,派内	-33.8637	-70.75806	A	ADM3	CL		12	134	13404		0		380	America/Santiago	2016-05-09
+8261425	Alhue	Alhue		-34.04303	-71.05662	A	ADM3	CL		12	135	13502		0		234	America/Santiago	2016-05-09
+8261426	Castro	Castro		-42.47414	-73.80405	A	ADM3	CL		14	102	10201		0		222	America/Santiago	2015-09-19
+8261427	Chonchi	Chonchi		-42.68209	-73.93061	A	ADM3	CL		14	102	10203		0		2	America/Santiago	2016-05-09
+8261428	Las Condes	Las Condes	Las Condes,Las Kondes,Las Kontes,Las-Kondes,la si kong de si,las knds,las kwndys,laseukondeseu,Λας Κόντες,Лас Кондес,Лас-Кондес,לאס קונדס,لاس كونديس,لاس کندس,لاس کونڈیس,拉斯孔德斯,라스콘데스	-33.42068	-70.50189	A	ADM3	CL		12	131	13114		0		1111	America/Santiago	2016-05-09
+8261429	Queilen	Queilen		-42.85572	-73.56436	A	ADM3	CL		14	102	10207		0		156	America/Santiago	2016-05-09
+8261430	Curaco de Velez	Curaco de Velez		-42.42675	-73.57871	A	ADM3	CL		14	102	10204		0		151	America/Santiago	2016-05-09
+8261431	Quilicura	Quilicura	Kilikura,Quilicura,ji li ku la,killikula,kwylykwra,kylykwra,Киликура,Кілікура,كويليكورا,کیلیکورا,基利库拉,킬리쿠라	-33.35542	-70.73607	A	ADM3	CL		12	131	13125		0		485	America/Santiago	2016-05-09
+8261432	Huechuraba	Huechuraba	Huechuraba,Khuechuraba,Uechuraba,Uecuraba,Uehchuraba,Ueçuraba,hwytshwraba,uechulaba,wei qiu la wa,Уечураба,Уэчураба,Хуечураба,هويتشورابا,韋丘拉瓦,韦丘拉瓦,우에추라바	-33.36031	-70.63745	A	ADM3	CL		12	131	13107		0		602	America/Santiago	2016-05-09
+8261433	San Juan de la Costa	San Juan de la Costa	San Juan de la Costa,San-Khuan-de-la-Kosta,sanhuandelakoseuta,sheng hu an-de la ke si ta,sn khwan dw la kwsta,Сан-Хуан-де-ла-Коста,سان خوآن دے لا کوستا,سن خوآن دو لا کوستا,圣胡安-德拉科斯塔,聖胡安-德拉科斯塔,산후안데라코스타	-40.50858	-73.5594	A	ADM3	CL		14	103	10306		0		322	America/Santiago	2016-05-09
+8261434	Maipú	Maipu		-33.5066	-70.81234	A	ADM3	CL		12	131	13119		0		450	America/Santiago	2019-09-27
+8261435	San Pablo	San Pablo	San Pablo,San-Pablo,sana pabalo,sanpabeullo,sheng ba bo luo,sn pablw,Сан-Пабло,سن پابلو,সান পাবলো,サン・パブロ,圣巴勃罗,聖巴勃羅,산파블로	-40.42667	-73.16208	A	ADM3	CL		14	103	10307		0		76	America/Santiago	2016-05-09
+8261436	Pudahuel	Pudahuel	Pudahuel,Pudakhuel,Pudauehl',Pudauel',Pudavel,bwdahyl,pu da wei er,pudauel,pwdawl,Пудавел,Пудауель,Пудауэль,Пудахуел,بوداهيل,پوداول,普达韦尔,普達韋爾,푸다우엘	-33.42398	-70.85493	A	ADM3	CL		12	131	13124		0		469	America/Santiago	2016-05-09
+8261437	Futaleufu	Futaleufu		-43.18115	-72.00706	A	ADM3	CL		14	104	10402		0		507	America/Santiago	2015-09-19
+8261438	San Bernardo	San Bernardo	San Bernardas,San Bernardo,San Bernarnto,San-Bernardo,Sanbernardo,can pernarto,saina barnardo,san bernardo,san bexr nar do,san brnardw,sana barnadu,sanbeleunaleudo,sanberunarudo,sena barnardo,sheng bei er na duo,sn byrnardw,syan barnardo,Σαν Μπερνάρντο,Сан-Бернардо,Սան Բերնարդո,سان برناردو,سن بیرناردو,सॅन बर्नार्डो,सैन बर्नार्डो,সান বার্নাডু,સેન બર્નાર્ડો,சான் பெர்னார்டோ,శాన్ బెర్నార్డో,ಸ್ಯಾನ್ ಬರ್ನಾರ್ಡೊ,සැන් බර්නාඩෝ,ซาน เบอร์นาร์โด้,サンベルナルド,圣贝尔纳多,聖貝爾納多,산베르나르도	-33.62892	-70.72429	A	ADM3	CL		12	134	13401		0		549	America/Santiago	2015-09-19
+8261439	Maria Pinto	Maria Pinto		-33.49811	-71.21077	A	ADM3	CL		12	135	13504		0		167	America/Santiago	2016-05-09
+8261440	Pirque	Pirque		-33.71865	-70.50658	A	ADM3	CL		12	132	13202		0		820	America/Santiago	2016-05-09
+8261441	Torres del Paine	Torres del Paine		-51.05032	-72.82949	A	ADM3	CL		10	124	12402		0		75	America/Punta_Arenas	2016-05-10
+8261442	Hijuelas	Hijuelas		-32.86925	-71.08161	A	ADM3	CL		01	55	05503		0		436	America/Santiago	2016-05-09
+8261443	Puyehue	Puyehue		-40.72548	-72.3841	A	ADM3	CL		14	103	10304		0		349	America/Santiago	2016-05-09
+8261444	Rio Ibañez	Rio Ibanez		-46.2993	-72.48657	A	ADM3	CL		02	114	11402		0		1000	America/Coyhaique	2025-04-29
+8261445	Los Lagos	Los Lagos	Los Lagos,Los-Lagos,loseulagoseu,luo si la ge si,lws lagws,Лос-Лагос,לוס לאגוס,لوس لاگوس,洛斯拉戈斯,로스라고스	-39.8784	-72.5546	A	ADM3	CL		17	141	14104		0		228	America/Santiago	2012-05-03
+8261446	Chile Chico	Chile Chico		-46.76684	-72.58468	A	ADM3	CL		02	114	11401		0		330	America/Coyhaique	2025-04-29
+8261447	Primavera	Primavera		-52.82019	-69.33352	A	ADM3	CL		10	123	12302		0		97	America/Punta_Arenas	2012-05-03
+8261448	Porvenir	Porvenir		-53.30398	-69.39278	A	ADM3	CL		10	123	12301		0		53	America/Punta_Arenas	2015-09-19
+8261449	Olmue	Olmue		-33.03575	-71.11069	A	ADM3	CL		01	58	05803		0		349	America/Santiago	2016-05-09
+8261450	Cartagena	Cartagena		-33.53378	-71.44241	A	ADM3	CL		01	56	05603		0		163	America/Santiago	2016-05-09
+8261451	General Lagos	General Lagos	General Lagos,Kheneral'-Lagos,henelallagoseu,kheneral-lagosi,khnral lagws,la ge si jiang jun shi,Хенераль-Лагос,خنرال لاگوس,ხენერალ-ლაგოსი,拉戈斯将军市,拉戈斯將軍市,헤네랄라고스	-17.82862	-69.57494	A	ADM3	CL		16	152	15202		0		4373	America/Santiago	2016-05-08
+8261452	San Gregorio	San Gregorio		-52.32231	-70.22721	A	ADM3	CL		10	121	12104		0		210	America/Punta_Arenas	2012-05-03
+8261453	Tiltil	Tiltil	Til'til',Tiltil,di er di er,tiltil,tirutiru,tyltyl,Тилтил,Тильтиль,Тільтіль,تیلتیل,ティルティル,蒂尔蒂尔,蒂爾蒂爾,틸틸	-33.06245	-70.87603	A	ADM3	CL		12	133	13303		0		695	America/Santiago	2016-05-09
+8261454	Lampa	Lampa	Lampa,lampa,lan pa,lympa  chly,Лампа,لیمپا، چلی,蘭帕,람파	-33.27776	-70.87484	A	ADM3	CL		12	133	13302		0		499	America/Santiago	2012-05-03
+8261455	San Pedro	San Pedro		-33.93182	-71.45287	A	ADM3	CL		12	135	13505		0		138	America/Santiago	2012-05-03
+8261456	Curacavi	Curacavi		-33.36639	-71.08019	A	ADM3	CL		12	135	13503		0		445	America/Santiago	2012-05-03
+8261457	Peñaflor	Penaflor		-33.61091	-70.89395	A	ADM3	CL		12	136	13605		0		384	America/Santiago	2012-05-03
+8261458	Mafil	Mafil		-39.69204	-72.86379	A	ADM3	CL		17	141	14105		0		40	America/Santiago	2012-05-03
+8261459	Paillaco	Paillaco		-40.07411	-72.84362	A	ADM3	CL		17	141	14107		0		104	America/Santiago	2012-05-03
+8261460	Corral	Corral		-39.98488	-73.37152	A	ADM3	CL		17	141	14102		0		385	America/Santiago	2016-05-09
+8261461	Valdivia	Valdivia		-39.81784	-73.17509	A	ADM3	CL		17	141	14101		0		146	America/Santiago	2016-05-09
+8261462	Lanco	Lanco		-39.51213	-72.6215	A	ADM3	CL		17	141	14103		0		189	America/Santiago	2016-05-09
+8261463	Putre	Putre		-18.42869	-69.31158	A	ADM3	CL		16	152	15201		0		4303	America/Santiago	2015-09-19
+8261464	O Higgins	O Higgins		-48.48623	-72.91059	A	ADM3	CL		02	113	11302		0		620	America/Coyhaique	2025-04-29
+8261465	Juan Fernández	Juan Fernandez		-33.63874	-78.85828	A	ADM3	CL		01	51	05104		0		269	America/Santiago	2016-05-09
+8261466	Isla de Pascua	Isla de Pascua		-27.12881	-109.35997	A	ADM3	CL		01	52	05201		7750		157	Pacific/Easter	2023-08-28
+8261467	Chilean Antarctic Territory	Chilean Antarctic Territory	Antartica Chilena,Antártica Chilena,Chilean Antarctic Territory,Chilean Antarctica,Chilenisches Antarktisterritorium,Chilijskaja antarkticheskaja territorija,Cileanski antarkticki teritorij,Territoire chilien de l'Antarctique,Territorio Chileno Antartico,Territorio Chileno Antártico,Čileanski antarktički teritorij,Чилийская антарктическая территория	-75.00094	-71.59309	A	ADM3	CL		10	122	12202		0		1284	America/Punta_Arenas	2023-12-25
+8261495	Calama	Calama	Calama	-22.16394	-68.62954	A	ADM3	CL		03	22	02201		0		2816	America/Santiago	2015-09-19

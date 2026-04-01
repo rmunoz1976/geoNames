@@ -1,0 +1,36 @@
+﻿7033306	Chapinero	Chapinero	Chapinero	4.65137	-74.05197	A	ADM3	CO		34	11001	02		0		2643	America/Bogota	2017-01-05
+7033314	San Cristóbal	San Cristobal		4.57047	-74.08684	A	ADM3	CO		34	11001	04		0		2617	America/Bogota	2016-12-16
+7033323	Sumapaz	Sumapaz		4.0451	-74.25522	A	ADM3	CO		34	11001	20		0		3899	America/Bogota	2016-12-16
+7033324	Tunjuelito	Tunjuelito		4.5565	-74.12247	A	ADM3	CO		34	11001	06		0		2565	America/Bogota	2016-12-16
+11395662	Ciudad Bolivar	Ciudad Bolivar		4.48246	-74.16196	A	ADM3	CO		34	11001	19		0		3158	America/Bogota	2016-12-16
+11395663	Puente Aranda	Puente Aranda		4.61625	-74.11158	A	ADM3	CO		34	11001	16		0		2559	America/Bogota	2016-12-16
+11395664	Usaquen	Usaquen		4.74193	-74.02788	A	ADM3	CO		34	11001	01		0		2564	America/Bogota	2016-12-16
+11395665	Fontibon	Fontibon		4.67818	-74.14015	A	ADM3	CO		34	11001	09		0		2547	America/Bogota	2016-12-16
+11395666	Bosa	Bosa		4.62178	-74.19439	A	ADM3	CO		34	11001	07		0		2546	America/Bogota	2016-12-16
+11395667	Usme	Usme		4.49839	-74.10038	A	ADM3	CO		34	11001	05		0		2841	America/Bogota	2017-01-05
+11395668	Suba	Suba		4.76321	-74.07585	A	ADM3	CO		34	11001	11		0		2589	America/Bogota	2016-12-16
+11395669	Antonio Nariño	Antonio Narino		4.58877	-74.10284	A	ADM3	CO		34	11001	15		0		2570	America/Bogota	2016-12-16
+11395670	Rafael Uribe Uribe	Rafael Uribe Uribe		4.56648	-74.11336	A	ADM3	CO		34	11001	18		0		2593	America/Bogota	2016-12-16
+11395671	Los Martires	Los Martires		4.60716	-74.08795	A	ADM3	CO		34	11001	14		0		2574	America/Bogota	2016-12-16
+11395672	Candelaria	Candelaria		4.59661	-74.07207	A	ADM3	CO		34	11001	17		0		2633	America/Bogota	2016-12-16
+11395673	Kennedy	Kennedy		4.63035	-74.15267	A	ADM3	CO		34	11001	08		0		2555	America/Bogota	2016-12-16
+11395674	Barrios Unidos	Barrios Unidos		4.66957	-74.07355	A	ADM3	CO		34	11001	12		0		2554	America/Bogota	2016-12-16
+11395675	Teusaquillo	Teusaquillo		4.64117	-74.08577	A	ADM3	CO		34	11001	13		0		2551	America/Bogota	2016-12-16
+11395676	Santa Fe	Santa Fe		4.59397	-74.03622	A	ADM3	CO		34	11001	03		0		3228	America/Bogota	2016-12-16
+11395677	Engativa	Engativa		4.70113	-74.11319	A	ADM3	CO		34	11001	10		0		2554	America/Bogota	2016-12-16
+11887288	Popular	Popular	Comuna 1,Popular	6.29357	-75.54419	A	ADM3	CO		02	05001	01		0		1799	America/Bogota	2018-06-22
+11887289	Santa Cruz	Santa Cruz	Comuna 2,Santa Cruz	6.29836	-75.55451	A	ADM3	CO		02	05001	02		0		1517	America/Bogota	2018-06-22
+11887290	Manrique	Manrique	Comuna 3,Manrique	6.27313	-75.54529	A	ADM3	CO		02	05001	03		0		1770	America/Bogota	2018-06-22
+11887291	Aranjuez	Aranjuez	Aranjuez,Comuna 4	6.27615	-75.56156	A	ADM3	CO		02	05001	04		0		1491	America/Bogota	2018-06-22
+11887292	Castilla	Castilla	Castilla,Comuna 5	6.29227	-75.56866	A	ADM3	CO		02	05001	05		0		1514	America/Bogota	2018-06-22
+11887293	Doce de Octubre	Doce de Octubre	Comuna 6,Doce de Octubre	6.29926	-75.57917	A	ADM3	CO		02	05001	06		0		1694	America/Bogota	2018-06-22
+11887294	Robledo	Robledo	Comuna 7,Robledo	6.27794	-75.59233	A	ADM3	CO		02	05001	07		0		1591	America/Bogota	2018-06-22
+11887295	Villa Hermosa	Villa Hermosa	Comuna 8,Villa Hermosa	6.2474	-75.54422	A	ADM3	CO		02	05001	08		0		1700	America/Bogota	2018-06-22
+11887296	Buenos Aires	Buenos Aires	Buenos Aires,Comuna 9	6.23143	-75.55289	A	ADM3	CO		02	05001	09		0		1676	America/Bogota	2018-06-22
+11887297	La Candelaria	La Candelaria	Comuna 10,La Candelaria	6.24766	-75.56807	A	ADM3	CO		02	05001	10		0		1487	America/Bogota	2018-06-22
+11887298	Laureles Estadio	Laureles Estadio	Comuna 11,Laureles Estadio	6.25044	-75.59158	A	ADM3	CO		02	05001	11		0		1491	America/Bogota	2018-06-22
+11887299	La América	La America	Comuna 12,La America,La América	6.25449	-75.60554	A	ADM3	CO		02	05001	12		0		1528	America/Bogota	2018-06-22
+11887300	San Javier	San Javier	Comuna 13,San Javier	6.25658	-75.61778	A	ADM3	CO		02	05001	13		0		1549	America/Bogota	2018-06-22
+11887301	El Poblado	El Poblado	Comuna 14,El Poblado	6.20109	-75.56639	A	ADM3	CO		02	05001	14		0		1614	America/Bogota	2018-06-22
+11887302	Belén	Belen	Belen,Belén,Comuna 16	6.2255	-75.5994	A	ADM3	CO		02	05001	16		0		1524	America/Bogota	2018-06-22
+11887303	Guayabal	Guayabal	Comuna 15,Guayabal	6.21335	-75.58643	A	ADM3	CO		02	05001	15		0		1500	America/Bogota	2018-06-22

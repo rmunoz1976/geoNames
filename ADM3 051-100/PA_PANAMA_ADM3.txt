@@ -1,0 +1,679 @@
+﻿3699897	Corregimiento El Chorrillo	Corregimiento El Chorrillo	Barrio del Chorrillo,Chorillo,Corregimiento El Chorillo,Corregimiento El Chorrillo	8.94791	-79.54643	A	ADM3	PA		08	0808	080802		18302		2	America/Panama	2018-01-22
+3699914	Corregimiento Zapotillo	Corregimiento Zapotillo	Corregimiento Zapotillo	7.96667	-81.51667	A	ADM3	PA		10	0905	090512		1067		170	America/Panama	2018-01-22
+3699979	Corregimiento Yaviza	Corregimiento Yaviza	Corregimiento Yaviza	8.2033	-77.74779	A	ADM3	PA		05	0502	050207		4441		36	America/Panama	2018-01-25
+3699983	Corregimiento Yape	Corregimiento Yape	Corregimiento Yape	8.08333	-77.41667	A	ADM3	PA		05	0502	050206		187		320	America/Panama	2018-01-22
+3700037	Corregimiento Vista Alegre	Corregimiento Vista Alegre	Corregimiento Vista Alegre	8.91667	-79.68333	A	ADM3	PA		13	1301	130106		55369		46	America/Panama	2023-01-26
+3700069	Corregimiento Villa Rosario	Corregimiento Villa Rosario	Corregimiento Villa Rosario	8.78333	-79.86667	A	ADM3	PA		13	1303	130312		4496		105	America/Panama	2023-01-26
+3700079	Corregimiento Villa Carmen	Corregimiento Villa Carmen	Corregimiento Villa Carmen	8.8	-79.86667	A	ADM3	PA		13	1303	130311		1352		95	America/Panama	2023-01-26
+3700102	Corregimiento Viento Frío	Corregimiento Viento Frio	Corregimiento Viento Frio,Corregimiento Viento Frío	9.53803	-79.39904	A	ADM3	PA		04	0305	030508		487		71	America/Panama	2018-01-25
+3700141	Corregimiento Victoriano Lorenzo	Corregimiento Victoriano Lorenzo	Corregimiento Victoriano Lorenzo	9.03014	-79.50868	A	ADM3	PA		08	0810	081005		15873		36	America/Panama	2018-01-22
+3700163	Corregimiento Veracruz	Corregimiento Veracruz	Camaron,Camarón,Corregimiento Veracruz	8.9	-79.63333	A	ADM3	PA		13	1301	130105		18589		214	America/Panama	2023-01-26
+3700217	Corregimiento Vallerriquito	Corregimiento Vallerriquito	Corregimiento Vallerriquito	7.61667	-80.31667	A	ADM3	PA		07	0702	070224		277		180	America/Panama	2021-03-15
+3700219	Corregimiento Valle Rico	Corregimiento Valle Rico	Corregimiento Valle Rico	7.6	-80.35	A	ADM3	PA		07	0702	070223		400		245	America/Panama	2018-01-22
+3700259	Corregimiento Utira	Corregimiento Utira	Corregimiento Utira	7.98333	-81.23333	A	ADM3	PA		10	0907	090704		314		128	America/Panama	2018-01-22
+3700367	Corregimiento Tulú	Corregimiento Tulu	Corregimiento Tulu,Corregimiento Tulú	8.7	-80.38333	A	ADM3	PA		03	0206	020610		4624		395	America/Panama	2018-01-22
+3700380	Corregimiento Tucutí	Corregimiento Tucuti	Corregimiento Tucuti,Corregimiento Tucutí	7.76667	-77.83333	A	ADM3	PA		05	0501	050112		1200		116	America/Panama	2018-01-22
+3700392	Corregimiento Tubualá	Corregimiento Tubuala		8.85	-77.68333	A	ADM3	PA		09	1001	100104		6733		19	America/Panama	2018-01-22
+3700432	Corregimiento Tres Quebradas	Corregimiento Tres Quebradas		7.85042	-80.41116	A	ADM3	PA		07	0703	070312		717		73	America/Panama	2018-01-25
+3700485	Corregimiento Toza	Corregimiento Toza	Corregimiento Toza	8.35	-80.66667	A	ADM3	PA		03	0204	020406		2071		113	America/Panama	2018-01-22
+3700536	Corregimiento Tonosí	Corregimiento Tonosi	Corregimiento Tonosi,Corregimiento Tonosí	7.38333	-80.41667	A	ADM3	PA		07	0707	070701		2257		7	America/Panama	2018-01-22
+3700558	Corregimiento Tolé	Corregimiento Tole	Corregimiento Tole,Corregimiento Tolé	8.21912	-81.69948	A	ADM3	PA		02	0413	041301		3240		119	America/Panama	2018-01-25
+3700561	Corregimiento Tocumen	Corregimiento Tocumen	Corregimiento Tocumen	9.08851	-79.37645	A	ADM3	PA		08	0808	080819		74952		35	America/Panama	2018-01-22
+3700570	Corregimiento Tobobe	Corregimiento Tobobe		8.84403	-81.72523	A	ADM3	PA		12	1207	120706		5056		40	America/Panama	2018-01-23
+3700578	Corregimiento Toabré	Corregimiento Toabre	Corregimiento Toabre,Corregimiento Toabré	8.7	-80.3	A	ADM3	PA		03	0206	020609		10203		198	America/Panama	2018-01-22
+3700608	Corregimiento Tinajas	Corregimiento Tinajas	Corregimiento Tinajas	8.56667	-82.46667	A	ADM3	PA		02	0407	040707		1530		317	America/Panama	2018-01-22
+3700617	Corregimiento Tijeras	Corregimiento Tijeras	Corregimiento Tijeras,Tijeras	8.46667	-82.56667	A	ADM3	PA		02	0403	040308		2670		108	America/Panama	2018-01-22
+3700739	Corregimiento Tebario	Corregimiento Tebario	Corregimiento Tebario,Mariato	7.71667	-80.96667	A	ADM3	PA		10	0912	091205		599		25	America/Panama	2018-01-22
+3700787	Corregimiento Taimatí	Corregimiento Taimati	Corregimiento Taimati,Corregimiento Taimatí	8.11667	-78.2	A	ADM3	PA		05	0501	050111		764		80	America/Panama	2018-01-22
+3700800	Corregimiento Taboga	Corregimiento Taboga		8.78754	-79.55604	A	ADM3	PA		08	0811	081101		731		25	America/Panama	2018-01-22
+3700869	Corregimiento Sortová	Corregimiento Sortova	Corregimiento Sortova,Corregimiento Sortová	8.58333	-82.65	A	ADM3	PA		02	0405	040511		2440		458	America/Panama	2018-01-22
+3700877	Corregimiento Sorá	Corregimiento Sora	Corregimiento Sora,Corregimiento Sorá	8.61667	-80	A	ADM3	PA		13	1304	130411		1653		401	America/Panama	2023-01-26
+3700887	Corregimiento Soná	Corregimiento Sona	Corregimiento Sona,Corregimiento Soná	7.96667	-81.33333	A	ADM3	PA		10	0911	091101		10802		53	America/Panama	2018-01-22
+3700891	Corregimiento Soloy	Corregimiento Soloy		8.53333	-82.08333	A	ADM3	PA		12	1201	120101		4153		352	America/Panama	2018-01-22
+3700920	Corregimiento Sitio Prado	Corregimiento Sitio Prado		8.40762	-81.5774	A	ADM3	PA		12	1203	120311		3478		401	America/Panama	2018-01-25
+3700991	Corregimiento Setegantí	Corregimiento Seteganti	Corregimiento Seteganti,Corregimiento Setegantí	8.28333	-78.06667	A	ADM3	PA		05	0501	050110		558		38	America/Panama	2018-01-22
+3700993	Corregimiento Sesteadero	Corregimiento Sesteadero		7.75	-80.25	A	ADM3	PA		07	0702	070222		1067		40	America/Panama	2018-01-22
+3701092	Corregimiento Santo Tomás	Corregimiento Santo Tomas	Corregimiento Santo Tomas,Corregimiento Santo Tomás	8.36667	-82.63333	A	ADM3	PA		02	0401	040107		1259		9	America/Panama	2018-01-22
+3701098	Corregimiento Santo Domingo	Corregimiento Santo Domingo	Corregimiento Santo Domingo	8.48333	-82.73333	A	ADM3	PA		02	0405	040510		2625		121	America/Panama	2018-01-22
+3701099	Corregimiento Santo Domingo	Corregimiento Santo Domingo	Corregimiento Santo Domingo	7.75	-80.23333	A	ADM3	PA		07	0702	070221		2050		25	America/Panama	2018-01-22
+3701114	Corregimiento Santiago	Corregimiento Santiago	Corregimiento Santiago	8.08554	-80.9715	A	ADM3	PA		10	0910	091001		31065		88	America/Panama	2018-01-25
+3701123	Corregimiento Santa Rosa	Corregimiento Santa Rosa	Corregimiento Santa Rosa	9.2	-79.7	A	ADM3	PA		04	0301	030114		987		203	America/Panama	2018-01-22
+3701124	Corregimiento Santa Rosa	Corregimiento Santa Rosa	Corregimiento Santa Rosa	8.61148	-82.68461	A	ADM3	PA		02	0405	040509		1510		561	America/Panama	2018-01-25
+3701143	Corregimiento Santa Rita	Corregimiento Santa Rita	Corregimiento Santa Rita	8.87654	-79.89555	A	ADM3	PA		13	1307	130718		1848		153	America/Panama	2023-01-26
+3701144	Corregimiento Santa Rita	Corregimiento Santa Rita	Corregimiento Santa Rita	8.5	-80.2	A	ADM3	PA		03	0202	020209		2562		185	America/Panama	2018-01-22
+3701160	Corregimiento Santa Marta	Corregimiento Santa Marta	Corregimiento Santa Marta	8.53333	-82.7	A	ADM3	PA		02	0405	040508		3679		282	America/Panama	2018-01-22
+3701172	Corregimiento Santa María	Corregimiento Santa Maria	Corregimiento Santa Maria,Corregimiento Santa María	8.1	-80.66667	A	ADM3	PA		06	0607	060701		1682		15	America/Panama	2018-01-22
+3701184	Corregimiento Santa Isabel	Corregimiento Santa Isabel	Corregimiento Santa Isabel	9.48333	-79.13333	A	ADM3	PA		04	0305	030507		284		52	America/Panama	2018-01-22
+3701192	Corregimiento Santa Fe	Corregimiento Santa Fe		8.5	-81.1	A	ADM3	PA		10	0909	090901		3047		777	America/Panama	2018-01-22
+3701204	Corregimiento Santa Cruz de Chinina	Corregimiento Santa Cruz de Chinina	Corregimiento Santa Cruz de Chinina	9	-78.98333	A	ADM3	PA		08	0805	080506		1572		68	America/Panama	2018-01-22
+3701216	Corregimiento Santa Cruz	Corregimiento Santa Cruz	Corregimiento Santa Cruz	8.68333	-82.75	A	ADM3	PA		02	0410	041006		1904		782	America/Panama	2018-01-22
+3701237	Corregimiento Santa Clara	Corregimiento Santa Clara	Corregimiento Santa Clara	9.03333	-79.73333	A	ADM3	PA		13	1301	130104		2139		116	America/Panama	2023-01-26
+3701266	Corregimiento Santa Ana	Corregimiento Santa Ana	Barrio de Santa Ana,Corregimiento Santa Ana	8.95531	-79.54244	A	ADM3	PA		08	0808	080803		18210		16	America/Panama	2018-01-22
+3701267	Corregimiento Santa Ana	Corregimiento Santa Ana	Corregimiento Santa Ana	7.96667	-80.35	A	ADM3	PA		07	0703	070311		3329		11	America/Panama	2018-01-22
+3701289	Corregimiento San Pedro del Espino	Corregimiento San Pedro del Espino	Corregimiento San Pedro del Espino	8.13333	-81.06667	A	ADM3	PA		10	0910	091006		1629		67	America/Panama	2018-01-22
+3701314	Corregimiento San Pablo Viejo	Corregimiento San Pablo Viejo	Corregimiento San Pablo Viejo,Montilla	8.45473	-82.48435	A	ADM3	PA		02	0406	040610		10088		51	America/Panama	2018-01-25
+3701318	Corregimiento San Pablo Nuevo	Corregimiento San Pablo Nuevo	Corregimiento San Pablo Nuevo	8.4	-82.5	A	ADM3	PA		02	0406	040609		1752		29	America/Panama	2018-01-22
+3701340	Corregimiento San Miguel	Corregimiento San Miguel	Corregimiento San Miguel	8.45	-78.93333	A	ADM3	PA		08	0802	080201		1044		36	America/Panama	2018-01-22
+3701341	Corregimiento San Miguel	Corregimiento San Miguel	Corregimiento San Miguel	7.65	-80.26667	A	ADM3	PA		07	0702	070220		116		109	America/Panama	2018-01-22
+3701352	Corregimiento San Martín	Corregimiento San Martin	Corregimiento San Martin,Corregimiento San Martín	9.2	-79.25	A	ADM3	PA		08	0808	080818		4410		84	America/Panama	2018-01-22
+3701355	Corregimiento San Marcelo	Corregimiento San Marcelo	Corregimiento San Marcelo	8.27952	-81.15196	A	ADM3	PA		10	0903	090306		1476		116	America/Panama	2018-01-25
+3701366	Corregimiento San Lorenzo	Corregimiento San Lorenzo	Corregimiento San Lorenzo,Horconcitos	8.26667	-82.06667	A	ADM3	PA		02	0412	041205		2290		111	America/Panama	2018-01-22
+3701384	Corregimiento San Juan de Dios	Corregimiento San Juan de Dios	Corregimiento San Juan de Dios	8.55	-80.21667	A	ADM3	PA		03	0202	020208		4797		270	America/Panama	2018-01-22
+3701411	Corregimiento San Juan	Corregimiento San Juan	Corregimiento San Juan,Nuevo San Juan	9.25	-79.63333	A	ADM3	PA		04	0301	030113		17430		113	America/Panama	2018-01-22
+3701412	Corregimiento San Juan	Corregimiento San Juan	Corregimiento San Juan	8.31667	-81.03333	A	ADM3	PA		10	0908	090805		1591		164	America/Panama	2018-01-22
+3701413	Corregimiento San Juan	Corregimiento San Juan	Corregimiento San Juan	8.27866	-82.01741	A	ADM3	PA		02	0412	041204		1637		6	America/Panama	2018-01-25
+3701445	Corregimiento San José	Corregimiento San Jose		8.53333	-79.93333	A	ADM3	PA		13	1309	130909		2729		66	America/Panama	2023-01-26
+3701446	Corregimiento San José	Corregimiento San Jose	Corregimiento San Jose,Corregimiento San José	8.46667	-80.78333	A	ADM3	PA		10	0902	090212		680		571	America/Panama	2018-01-22
+3701447	Corregimiento San José	Corregimiento San Jose	Corregimiento San Jose,Corregimiento San José	7.68333	-80.23333	A	ADM3	PA		07	0702	070219		593		33	America/Panama	2018-01-22
+3701475	Corregimiento San Francisco	Corregimiento San Francisco	Corregimiento San Francisco	8.97268	-79.51309	A	ADM3	PA		08	0808	080809		43939		12	America/Panama	2018-01-22
+3701476	Corregimiento San Francisco	Corregimiento San Francisco	Corregimiento San Francisco	8.26667	-80.96667	A	ADM3	PA		10	0908	090801		2283		125	America/Panama	2018-01-22
+3701490	Corregimiento San Félix	Corregimiento San Felix	Corregimiento San Felix,Corregimiento San Félix	8.3	-81.91667	A	ADM3	PA		02	0411	041104		2972		6	America/Panama	2018-01-22
+3701492	Corregimiento San Felipe	Corregimiento San Felipe	Barrio de San Felipe,Corregimiento San Felipe	8.95255	-79.53548	A	ADM3	PA		08	0808	080801		3262		21	America/Panama	2018-01-25
+3701524	Corregimiento San Carlos	Corregimiento San Carlos	Corregimiento San Carlos	8.51667	-82.5	A	ADM3	PA		02	0406	040608		4487		223	America/Panama	2018-01-22
+3701525	Corregimiento San Carlos	Corregimiento San Carlos		8.48333	-79.98333	A	ADM3	PA		13	1309	130901		3578		69	America/Panama	2023-01-26
+3701542	Corregimiento San Bartolo	Corregimiento San Bartolo	Corregimiento San Bartolo	8.21667	-81.33333	A	ADM3	PA		10	0904	090405		2440		160	America/Panama	2018-01-22
+3701575	Corregimiento San Andrés	Corregimiento San Andres	Corregimiento San Andres,Corregimiento San Andrés	8.63333	-82.73333	A	ADM3	PA		02	0405	040507		2523		623	America/Panama	2018-01-22
+3701588	Corregimiento Sambú	Corregimiento Sambu	Corregimiento Sambu,Corregimiento Sambú	8.02723	-78.22659	A	ADM3	PA		05	0501	050109		931		9	America/Panama	2018-01-25
+3701602	Corregimiento Salud	Corregimiento Salud	Corregimiento Salud	9.13333	-80.15	A	ADM3	PA		04	0302	030207		2162		77	America/Panama	2018-01-22
+3701604	Corregimiento Salto Dupí	Corregimiento Salto Dupi	Corregimiento Salto Dupi,Corregimiento Salto Dupí,Dupi,Salto de Dupi,Salto de Dupí	8.36667	-81.88333	A	ADM3	PA		12	1202	120208		2672		356	America/Panama	2020-06-11
+3701648	Corregimiento Salamanca	Corregimiento Salamanca	Corregimiento Salamanca	9.3	-79.6	A	ADM3	PA		04	0301	030112		3881		311	America/Panama	2018-01-22
+3701677	Corregimiento Saboga	Corregimiento Saboga		8.62838	-79.06457	A	ADM3	PA		08	0802	080206		713		34	America/Panama	2018-01-22
+3701681	Corregimiento Sabanitas	Corregimiento Sabanitas	Corregimiento Sabanita,Sabanitas	9.33333	-79.8	A	ADM3	PA		04	0301	030111		19052		45	America/Panama	2018-01-22
+3701702	Corregimiento Sabana Grande	Corregimiento Sabana Grande		7.84144	-80.35915	A	ADM3	PA		07	0703	070310		1909		40	America/Panama	2018-01-25
+3701729	Corregimiento Rovira	Corregimiento Rovira	Corregimiento Rovira	8.69004	-82.52354	A	ADM3	PA		02	0407	040706		1925		1018	America/Panama	2018-01-25
+3701764	Corregimiento Rodeo Viejo	Corregimiento Rodeo Viejo	Corregimiento Rodeo Viejo	8.08333	-81.33333	A	ADM3	PA		10	0911	091110		2046		100	America/Panama	2018-01-22
+3701809	Corregimiento Río Sereno	Corregimiento Rio Sereno	Corregimiento Rio Sereno,Corregimiento Río Sereno	8.85	-82.83333	A	ADM3	PA		02	0410	041001		5463		1066	America/Panama	2018-01-22
+3701846	Corregimiento Río Indio	Corregimiento Rio Indio		9.08677	-80.19637	A	ADM3	PA		04	0303	030305		1044		53	America/Panama	2018-01-25
+3701847	Corregimiento Río Indio	Corregimiento Rio Indio	Corregimiento Rio Indio,Corregimiento Río Indio	8.91667	-80.23333	A	ADM3	PA		03	0206	020608		5240		181	America/Panama	2018-01-22
+3701851	Corregimiento Río Iglesias	Corregimiento Rio Iglesias	Corregimiento Rio Iglesias,Corregimiento Río Iglesias	8.35	-78.03333	A	ADM3	PA		05	0503	050308		1672		9	America/Panama	2023-01-26
+3701854	Corregimiento Río Hondo	Corregimiento Rio Hondo	Corregimiento Rio Hondo,Corregimiento Río Hondo	7.71667	-80.33333	A	ADM3	PA		07	0702	070218		206		162	America/Panama	2018-01-22
+3701859	Corregimiento Río Hato	Corregimiento Rio Hato	Corregimiento Rio Hato,Corregimiento Río Hato	8.36667	-80.13333	A	ADM3	PA		03	0202	020207		15701		17	America/Panama	2018-01-22
+3701864	Corregimiento Río Grande	Corregimiento Rio Grande	Corregimiento Rio Grande,Corregimiento Río Grande	8.43333	-80.46667	A	ADM3	PA		03	0206	020607		3117		20	America/Panama	2018-01-22
+3701865	Corregimiento Río Grande	Corregimiento Rio Grande	Corregimiento Rio Grande,Corregimiento Río Grande	7.7	-81.3	A	ADM3	PA		10	0911	091109		3674		28	America/Panama	2018-01-22
+3701879	Corregimiento Río de Jesús	Corregimiento Rio de Jesus	Corregimiento Rio de Jesus,Corregimiento Río de Jesús	8	-81.16667	A	ADM3	PA		10	0907	090701		2484		116	America/Panama	2018-01-22
+3701888	Corregimiento Río Congo	Corregimiento Rio Congo	Corregimiento Rio Congo,Corregimiento Río Congo	8.55	-78.36667	A	ADM3	PA		05	0503	050307		1540		28	America/Panama	2023-01-26
+3701916	Corregimiento Río Abajo	Corregimiento Rio Abajo	Corregimiento Rio Abajo,Corregimiento Río Abajo	9.01702	-79.49945	A	ADM3	PA		08	0808	080811		26607		13	America/Panama	2018-01-22
+3701949	Corregimiento Rincón	Corregimiento Rincon		8.45	-82.23333	A	ADM3	PA		02	0408	040805		1547		104	America/Panama	2018-01-22
+3701993	Corregimiento Remedios	Corregimiento Remedios	Corregimiento Remedios	8.19983	-81.81542	A	ADM3	PA		02	0409	040901		908		19	America/Panama	2018-01-25
+3701995	Corregimiento Remance	Corregimiento Remance	Corregimiento Remance	8.25	-81.08333	A	ADM3	PA		10	0908	090804		1618		102	America/Panama	2018-01-22
+3702097	Corregimiento Querévalo	Corregimiento Querevalo	Corregimiento Querevalo,Corregimiento Querévalo,Querevalos,Querévalos	8.35	-82.51667	A	ADM3	PA		02	0401	040106		1751		7	America/Panama	2018-01-22
+3702115	Corregimiento Quebro	Corregimiento Quebro	Corregimiento Quebro	7.45	-80.83333	A	ADM3	PA		10	0912	091204		1129		84	America/Panama	2018-01-22
+3702231	Corregimiento Quebrada de Piedra	Corregimiento Quebrada de Piedra	Corregimiento Quebrada de Piedra	8.08333	-81.66667	A	ADM3	PA		02	0413	041308		1127		83	America/Panama	2018-01-22
+3702236	Corregimiento Quebrada de Oro	Corregimiento Quebrada de Oro	Corregimiento Quebrada de Oro	8.03333	-81.35	A	ADM3	PA		10	0911	091108		955		89	America/Panama	2018-01-22
+3702242	Corregimiento Quebrada del Rosario	Corregimiento Quebrada del Rosario	Corregimiento Quebrada del Rosario	7.75	-80.73333	A	ADM3	PA		06	0602	060206		794		340	America/Panama	2018-01-22
+3702244	Corregimiento Quebrada de Loro	Corregimiento Quebrada de Loro	Corregimiento Quebrada de Loro,Quebrada Loro	8.34982	-81.92422	A	ADM3	PA		12	1202	120207		1616		301	America/Panama	2018-01-25
+3702299	Corregimiento Purio	Corregimiento Purio	Corregimiento Purio	7.58333	-80.08333	A	ADM3	PA		07	0705	070504		494		33	America/Panama	2018-01-22
+3702312	Corregimiento Punta Róbalo	Corregimiento Punta Robalo	Corregimiento Punta Robalo,Corregimiento Punta Róbalo	9.04431	-82.27538	A	ADM3	PA		01	0103	010304		1164		11	America/Panama	2018-01-25
+3702320	Corregimiento Punta Laurel	Corregimiento Punta Laurel	Corregimiento Punta Laurel	9.18243	-82.1324	A	ADM3	PA		01	0101	010104		1730		25	America/Panama	2018-01-25
+3702350	Corregimiento Punta Chame	Corregimiento Punta Chame	Corregimiento Punta Chame,Punta de Chame	8.6	-79.76667	A	ADM3	PA		13	1304	130409		443		13	America/Panama	2023-01-26
+3702370	Corregimiento Puerto Vidal	Corregimiento Puerto Vidal	Corregimiento Puerto Vidal	8.03333	-81.58333	A	ADM3	PA		10	0905	090509		1671		39	America/Panama	2018-01-22
+3702381	Corregimiento Puerto Piña	Corregimiento Puerto Pina	Corregimiento Puerto Pina,Corregimiento Puerto Piña,Puerto Pital	7.8	-78.3	A	ADM3	PA		05	0501	050106		1113		176	America/Panama	2020-06-11
+3702383	Corregimiento Puerto Pilón	Corregimiento Puerto Pilon	Corregimiento Puerto Pilon,Corregimiento Puerto Pilón	9.35	-79.76667	A	ADM3	PA		04	0301	030110		16517		171	America/Panama	2018-01-22
+3702389	Corregimiento Puerto Obaldía	Corregimiento Puerto Obaldia		8.6	-77.43333	A	ADM3	PA		09	1001	100103		672		150	America/Panama	2023-01-31
+3702426	Corregimiento Puerto Caimito	Corregimiento Puerto Caimito	Corregimiento Puerto Caimito	8.86667	-79.73333	A	ADM3	PA		13	1307	130717		16951		19	America/Panama	2023-01-26
+3702430	Corregimiento Puerto Armuelles	Corregimiento Puerto Armuelles	Baru,Barú,Corregimiento Puerto Armuelles	8.33333	-82.91667	A	ADM3	PA		02	0402	040201		20455		91	America/Panama	2018-01-22
+3702452	Corregimiento Pueblo Nuevo	Corregimiento Pueblo Nuevo	Corregimiento Pueblo Nuevo	9.00657	-79.51629	A	ADM3	PA		08	0808	080808		18984		26	America/Panama	2018-01-22
+3702497	Púcuro	Pucuro	Corregimiento Pucuro,Corregimiento Púcuro,Pucro,Pucuro,Púcuro	7.98963	-77.52573	A	ADM3	PA		05	0502	050205		356		67	America/Panama	2018-01-25
+3702508	Corregimiento Progreso	Corregimiento Progreso	Corregimiento Progreso	8.4875	-82.83171	A	ADM3	PA		02	0402	040203		11402		45	America/Panama	2018-01-25
+3702533	Corregimiento Potuga	Corregimiento Potuga	Corregimiento Potuga	8.06301	-80.69495	A	ADM3	PA		06	0605	060507		1045		33	America/Panama	2018-01-25
+3702541	Corregimiento Potrero de Caña	Corregimiento Potrero de Cana	Corregimiento Potrero de Cana,Corregimiento Potrero de Caña,Potrera de Cana,Potrera de Caña	8.29035	-81.71529	A	ADM3	PA		02	0413	041307		337		317	America/Panama	2018-01-25
+3702549	Corregimiento Potrerillos Abajo	Corregimiento Potrerillos Abajo	Corregimiento Potrerillos Abajo	8.63333	-82.46667	A	ADM3	PA		02	0407	040705		1815		563	America/Panama	2018-01-22
+3702552	Corregimiento Potrerillos	Corregimiento Potrerillos	Corregimiento Potrerillos	8.71667	-82.5	A	ADM3	PA		02	0407	040704		1562		1112	America/Panama	2018-01-22
+3702574	Corregimiento Portobelo	Corregimiento Portobelo	Corregimiento Portobelo	9.5	-79.61667	A	ADM3	PA		04	0304	030401		4559		508	America/Panama	2018-01-22
+3702578	Corregimiento Portobelillo	Corregimiento Portobelillo		8.01667	-80.58333	A	ADM3	PA		06	0605	060506		892		61	America/Panama	2018-01-22
+3702600	Corregimiento Ponuga	Corregimiento Ponuga	Corregimiento Ponuga	7.83333	-80.98333	A	ADM3	PA		10	0910	091005		2798		15	America/Panama	2018-01-22
+3702628	Corregimiento Pocrí	Corregimiento Pocri	Corregimiento Pocri,Corregimiento Pocrí	8.26667	-80.55	A	ADM3	PA		03	0201	020104		12881		16	America/Panama	2018-01-22
+3702629	Corregimiento Pocrí	Corregimiento Pocri	Corregimiento Pocri,Corregimiento Pocrí	7.65	-80.11667	A	ADM3	PA		07	0706	070601		1002		50	America/Panama	2018-01-22
+3702636	Corregimiento Plaza de Caisán	Corregimiento Plaza de Caisan	Corregimiento Plaza de Caisan,Corregimiento Plaza de Caisán,Plaza de Caizan,Plaza de Caizán	8.75	-82.76667	A	ADM3	PA		02	0410	041005		2901		850	America/Panama	2018-01-22
+3702660	Corregimiento Playa Leona	Corregimiento Playa Leona	Corregimiento Playa Leona	8.83333	-79.78333	A	ADM3	PA		13	1307	130716		8442		109	America/Panama	2023-01-26
+3702687	Corregimiento Playa Chiquita	Corregimiento Playa Chiquita	Corregimiento Playa Chiquita	9.46667	-79.28333	A	ADM3	PA		04	0305	030506		169		132	America/Panama	2018-01-22
+3702754	Corregimiento Pixvae	Corregimiento Pixvae	Corregimiento El Pixvae,Corregimiento Pixvae,El Pixvae	7.88333	-81.58333	A	ADM3	PA		10	0905	090508		820		217	America/Panama	2018-01-22
+3702817	Corregimiento Pinogana	Corregimiento Pinogana	Corregimiento Pinogana	8.1	-77.66667	A	ADM3	PA		05	0502	050204		405		37	America/Panama	2018-01-22
+3702840	Corregimiento Piña	Corregimiento Pina	Corregimiento Pina,Corregimiento Piña	9.26667	-80.03333	A	ADM3	PA		04	0302	030206		836		41	America/Panama	2018-01-22
+3702857	Corregimiento Pilón	Corregimiento Pilon	Corregimiento Pilon,Corregimiento Pilón	7.96148	-81.08968	A	ADM3	PA		10	0906	090605		890		33	America/Panama	2018-01-25
+3702881	Corregimiento Piedras Gordas	Corregimiento Piedras Gordas	Corregimiento Piedras Gordas	8.66667	-80.53333	A	ADM3	PA		03	0203	020305		4164		520	America/Panama	2018-01-22
+3702900	Corregimiento Piedra Roja	Corregimiento Piedra Roja		8.63333	-81.83333	A	ADM3	PA		12	1206	120607		3035		1025	America/Panama	2018-01-22
+3703010	Corregimiento Pesé	Corregimiento Pese	Corregimiento Pese,Corregimiento Pesé	7.91667	-80.61667	A	ADM3	PA		06	0606	060601		2565		91	America/Panama	2018-01-22
+3703067	Corregimiento Penonomé	Corregimiento Penonome	Corregimiento Penonome,Corregimiento Penonomé	8.51667	-80.35	A	ADM3	PA		03	0206	020601		21748		89	America/Panama	2018-01-22
+3703092	Corregimiento Peñas Chatas	Corregimiento Penas Chatas	Corregimiento Penas Chatas,Corregimiento Peñas Chatas	8.05	-80.78333	A	ADM3	PA		06	0604	060405		1778		64	America/Panama	2018-01-22
+3703115	Corregimiento Peña Blanca	Corregimiento Pena Blanca	Corregimiento Pena Blanca,Corregimiento Peña Blanca,Penas Blancas,Peñas Blancas	8.48333	-81.71667	A	ADM3	PA		12	1203	120309		3358		1259	America/Panama	2018-01-22
+3703116	Corregimiento Peña Blanca	Corregimiento Pena Blanca	Corregimiento Pena Blanca,Corregimiento Peña Blanca	7.71678	-80.27415	A	ADM3	PA		07	0702	070217		875		76	America/Panama	2018-01-25
+3703187	Corregimiento Pedro González	Corregimiento Pedro Gonzalez	Corregimiento Pedro Gonzalez,Corregimiento Pedro González	8.3	-79.11667	A	ADM3	PA		08	0802	080205		263		48	America/Panama	2018-01-22
+3703223	Corregimiento Pedregal	Corregimiento Pedregal	Corregimiento Pedregal	9.09059	-79.44077	A	ADM3	PA		08	0808	080813		51641		35	America/Panama	2018-01-22
+3703224	Corregimiento Pedregal	Corregimiento Pedregal	Corregimiento Pedregal	8.48626	-82.59901	A	ADM3	PA		02	0403	040307		2134		156	America/Panama	2018-01-25
+3703225	Corregimiento Pedregal	Corregimiento Pedregal	Corregimiento Pedregal	8.28379	-82.3445	A	ADM3	PA		02	0406	040607		17516		8	America/Panama	2018-01-25
+3703238	Corregimiento Pedasí	Corregimiento Pedasi	Corregimiento Pedasi,Corregimiento Pedasí	7.5	-80.05	A	ADM3	PA		07	0705	070501		2410		75	America/Panama	2018-01-22
+3703249	Corregimiento Paya	Corregimiento Paya	Corregimiento Paya	7.81667	-77.43333	A	ADM3	PA		05	0502	050203		639		159	America/Panama	2018-01-22
+3703345	Corregimiento Parque Lefevre	Corregimiento Parque Lefevre	Corregimiento Parque Lefevre	9.01188	-79.48811	A	ADM3	PA		08	0808	080810		36997		7	America/Panama	2018-01-22
+3703348	Corregimiento Paritilla	Corregimiento Paritilla	Corregimiento Paritilla	7.6	-80.18333	A	ADM3	PA		07	0706	070605		783		96	America/Panama	2018-01-22
+3703352	Corregimiento Parita	Corregimiento Parita	Corregimiento Parita	8.03333	-80.53333	A	ADM3	PA		06	0605	060501		3723		23	America/Panama	2018-01-22
+3703357	Corregimiento París	Corregimiento Paris	Corregimiento Paris,Corregimiento París	8.06667	-80.55	A	ADM3	PA		06	0605	060505		1070		9	America/Panama	2018-01-22
+3703369	Corregimiento Paraíso	Corregimiento Paraiso	Corregimiento Paraiso,Corregimiento Paraíso	8.71667	-82.58333	A	ADM3	PA		02	0403	040306		429		1187	America/Panama	2018-01-22
+3703370	Corregimiento Paraíso	Corregimiento Paraiso	Corregimiento Paraiso,Corregimiento Paraíso	7.7	-80.15	A	ADM3	PA		07	0706	070604		597		20	America/Panama	2018-01-22
+3703476	Corregimiento Palo Grande	Corregimiento Palo Grande	Corregimiento Palo Grande	8.31667	-82.61667	A	ADM3	PA		02	0401	040105		578		4	America/Panama	2018-01-22
+3703500	Corregimiento Palmira	Corregimiento Palmira	Corregimiento Palmira,Culebra	9.45	-79.23333	A	ADM3	PA		04	0305	030505		319		444	America/Panama	2018-01-22
+3703501	Corregimiento Palmira	Corregimiento Palmira	Corregimiento Palmira	8.76667	-82.46667	A	ADM3	PA		02	0404	040403		1776		1399	America/Panama	2018-01-22
+3703502	Corregimiento Palmira	Corregimiento Palmira	Corregimiento Palmira	7.68333	-80.35	A	ADM3	PA		07	0702	070216		93		205	America/Panama	2018-01-22
+3703522	Corregimiento Palmas Bellas	Corregimiento Palmas Bellas	Corregimiento Palmas Bellas	9.15	-80.1	A	ADM3	PA		04	0302	030205		1844		114	America/Panama	2018-01-22
+3703569	Corregimiento Palenque	Corregimiento Palenque	Corregimiento Palenque	9.5	-79.36667	A	ADM3	PA		04	0305	030501		404		123	America/Panama	2018-01-22
+3703593	Corregimiento Pajonal	Corregimiento Pajonal	Corregimiento Pajonal	8.58333	-80.25	A	ADM3	PA		03	0206	020606		13565		231	America/Panama	2018-01-22
+3703615	Corregimiento Paja de Sombrero	Corregimiento Paja de Sombrero	Corregimiento Paja de Sombrero	8.65	-82.31667	A	ADM3	PA		02	0408	040804		653		440	America/Panama	2018-01-22
+3703646	Corregimiento Pacora	Corregimiento Pacora	Corregimiento Pacora	9.06667	-79.3	A	ADM3	PA		08	0808	080817		52494		5	America/Panama	2018-01-22
+3703668	Corregimiento Otoque Oriente	Corregimiento Otoque Oriente		8.60682	-79.59929	A	ADM3	PA		08	0811	081103		262		95	America/Panama	2018-01-22
+3703670	Corregimiento Otoque Occidente	Corregimiento Otoque Occidente		8.5991	-79.60891	A	ADM3	PA		08	0811	081102		126		100	America/Panama	2018-01-22
+3703744	Corregimiento Olá	Corregimiento Ola	Corregimiento Ola,Corregimiento Olá	8.46667	-80.65	A	ADM3	PA		03	0205	020501		1419		171	America/Panama	2018-01-22
+3703785	Corregimiento Ocú	Corregimiento Ocu	Corregimiento Ocu,Corregimiento Ocú	7.95	-80.78333	A	ADM3	PA		06	0604	060401		7006		121	America/Panama	2018-01-22
+3703804	Corregimiento Obaldía	Corregimiento Obaldia	Corregimiento Obaldia,Corregimiento Obaldía	8.88333	-79.95	A	ADM3	PA		13	1307	130715		549		235	America/Panama	2023-01-26
+3703827	Corregimiento Nuevo Emperador	Corregimiento Nuevo Emperador	Corregimiento Nuevo Emperador	8.98333	-79.75	A	ADM3	PA		13	1301	130103		3903		106	America/Panama	2023-01-26
+3703830	Corregimiento Nuevo Chagres	Corregimiento Nuevo Chagres	Chagres,Corregimiento Nuevo Chagres	9.25	-80.06667	A	ADM3	PA		04	0302	030201		499		27	America/Panama	2018-01-22
+3703836	Corregimiento Nueva Providencia	Corregimiento Nueva Providencia	Corregimiento Nueva Providencia	9.29256	-79.80297	A	ADM3	PA		04	0301	030109		5813		96	America/Panama	2018-01-25
+3703838	Corregimiento Nueva Gorgona	Corregimiento Nueva Gorgona	Corregimiento Nueva Gorgona,Gorgona	8.55466	-79.8795	A	ADM3	PA		13	1304	130408		4075		21	America/Panama	2023-01-26
+3703852	Corregimiento Nuario	Corregimiento Nuario	Corregimiento Nuario	7.51667	-80.3	A	ADM3	PA		07	0702	070215		182		351	America/Panama	2018-01-22
+3703874	Corregimiento Nombre de Dios	Corregimiento Nombre de Dios	Corregimiento Nombre de Dios	9.53333	-79.45	A	ADM3	PA		04	0305	030504		1130		29	America/Panama	2018-01-22
+3703936	Corregimiento Natá	Corregimiento Nata	Corregimiento Nata,Corregimiento Natá	8.35	-80.53333	A	ADM3	PA		03	0204	020401		6003		24	America/Panama	2018-01-22
+3704019	Corregimiento Mununí	Corregimiento Mununi	Corregimiento Mununi,Corregimiento Mununí,Mununi Numero Dos,Mununi Número Dos	8.64121	-81.67169	A	ADM3	PA		12	1206	120606		2742		508	America/Panama	2018-01-25
+3704122	Corregimiento Montijo	Corregimiento Montijo	Corregimiento Montijo	7.99201	-81.05581	A	ADM3	PA		10	0906	090601		2288		56	America/Panama	2018-01-25
+3704136	Corregimiento Monte Lirio	Corregimiento Monte Lirio	Corregimiento Monte Lirio	8.79687	-82.80215	A	ADM3	PA		02	0410	041004		2771		926	America/Panama	2018-01-25
+3704173	Corregimiento Monjarás	Corregimiento Monjaras	Corregimiento Monjaras,Corregimiento Monjarás	8.38786	-80.86005	A	ADM3	PA		10	0902	090211		585		354	America/Panama	2018-01-25
+3704185	Corregimiento Monagrillo	Corregimiento Monagrillo	Corregimiento Monagrillo	8	-80.43333	A	ADM3	PA		06	0601	060103		12385		9	America/Panama	2018-01-22
+3704230	Corregimiento Mogollón	Corregimiento Mogollon	Corregimiento Mogollon,Corregimiento Mogollón,El Mogollon	7.63333	-80.45	A	ADM3	PA		07	0704	070411		264		545	America/Panama	2020-06-11
+3704253	Corregimiento Miramar	Corregimiento Miramar	Corregimiento Miramar	9.55	-79.33333	A	ADM3	PA		04	0305	030503		201		59	America/Panama	2018-01-22
+3704307	Corregimiento Miguel de la Borda	Corregimiento Miguel de la Borda	Corregimiento Miguel de la Borda	9.08679	-80.3804	A	ADM3	PA		04	0303	030301		2326		294	America/Panama	2018-01-25
+3704347	Corregimiento Mendoza	Corregimiento Mendoza	Corregimiento Mendoza	9	-79.88333	A	ADM3	PA		13	1307	130714		1233		112	America/Panama	2023-01-26
+3704420	Corregimiento Mateo Iturralde	Corregimiento Mateo Iturralde	Corregimiento Mateo Iturralde	9.02981	-79.49752	A	ADM3	PA		08	0810	081004		11496		37	America/Panama	2018-01-22
+3704546	Corregimiento María Chiquita	Corregimiento Maria Chiquita	Corregimiento Maria Chiquita,Corregimiento María Chiquita	9.41064	-79.72119	A	ADM3	PA		04	0304	030405		2415		133	America/Panama	2018-01-25
+3704549	Corregimiento Mariabé	Corregimiento Mariabe	Corregimiento Mariabe,Corregimiento Mariabé	7.56667	-80.05	A	ADM3	PA		07	0705	070503		319		38	America/Panama	2018-01-22
+3704610	Corregimiento Maraca	Corregimiento Maraca		8.38333	-81.73333	A	ADM3	PA		12	1203	120307		3224		486	America/Panama	2018-01-22
+3704873	Corregimiento Macaracas	Corregimiento Macaracas	Corregimiento Macaracas	7.72013	-80.54813	A	ADM3	PA		07	0704	070401		2890		104	America/Panama	2018-01-25
+3704927	Corregimiento Los Valles	Corregimiento Los Valles	Corregimiento Los Valles	8.45	-81.2	A	ADM3	PA		10	0903	090304		1200		404	America/Panama	2018-01-22
+3704963	Corregimiento Los Santos	Corregimiento Los Santos		7.91667	-80.45	A	ADM3	PA		07	0703	070301		7991		35	America/Panama	2018-01-22
+3705018	Corregimiento Los Pozos	Corregimiento Los Pozos	Corregimiento Los Pozos	7.78641	-80.65912	A	ADM3	PA		06	0603	060301		2199		259	America/Panama	2018-01-25
+3705130	Corregimiento Los Olivos	Corregimiento Los Olivos	Corregimiento Los Olivos	7.91667	-80.5	A	ADM3	PA		07	0703	070308		1259		32	America/Panama	2018-01-22
+3705231	Corregimiento Los Llanos	Corregimiento Los Llanos	Corregimiento Los Llanos	7.91667	-80.88333	A	ADM3	PA		06	0604	060403		2110		133	America/Panama	2018-01-22
+3705236	Corregimiento Los Llanitos	Corregimiento Los Llanitos	Corregimiento Los Llanitos	8.55	-80.06667	A	ADM3	PA		13	1309	130908		3264		373	America/Panama	2023-01-26
+3705294	Corregimiento Los Hatillos	Corregimiento Los Hatillos	Corregimiento Los Hatillos	8.35	-80.96667	A	ADM3	PA		10	0908	090803		1365		170	America/Panama	2018-01-22
+3705357	Corregimiento Los Díaz	Corregimiento Los Diaz	Corregimiento Los Dias,Corregimiento Los Diaz,Corregimiento Los Días,Corregimiento Los Díaz	8.85	-79.91667	A	ADM3	PA		13	1307	130713		1200		155	America/Panama	2023-01-26
+3705402	Corregimiento Los Cerros de Paja	Corregimiento Los Cerros de Paja	Corregimiento Los Cerros de Paja	7.71015	-80.6785	A	ADM3	PA		06	0603	060308		896		361	America/Panama	2018-01-25
+3705410	Corregimiento Los Cerritos	Corregimiento Los Cerritos	Corregimiento Los Cerritos	7.79759	-80.60681	A	ADM3	PA		06	0603	060307		985		99	America/Panama	2018-01-25
+3705442	Corregimiento Los Castillos	Corregimiento Los Castillos	Corregimiento Los Castillos	8.02953	-81.11046	A	ADM3	PA		10	0907	090703		552		89	America/Panama	2018-01-25
+3705443	Corregimiento Los Castillos	Corregimiento Los Castillos	Corregimiento Los Castillos	7.98333	-80.6	A	ADM3	PA		06	0605	060503		745		42	America/Panama	2018-01-22
+3705531	Corregimiento Los Asientos	Corregimiento Los Asientos	Corregimiento Los Asientos	7.48333	-80.15	A	ADM3	PA		07	0705	070502		755		140	America/Panama	2018-01-22
+3705539	Corregimiento Los Ángeles	Corregimiento Los Angeles		8.53333	-82.2	A	ADM3	PA		02	0408	040803		715		435	America/Panama	2018-01-22
+3705540	Corregimiento Los Ángeles	Corregimiento Los Angeles	Corregimiento Los Angeles,Corregimiento Los Ángeles	7.9	-80.35	A	ADM3	PA		07	0703	070307		868		14	America/Panama	2018-01-22
+3705548	Corregimiento Los Anastacios	Corregimiento Los Anastacios	Corregimiento Los Anastacios	8.53333	-82.41667	A	ADM3	PA		02	0407	040703		3236		183	America/Panama	2018-01-22
+3705665	Corregimiento Lolá	Corregimiento Lola	Corregimiento Lola,Corregimiento Lolá	8.1	-81.5	A	ADM3	PA		10	0905	090507		946		415	America/Panama	2018-01-22
+3705700	Corregimiento Llano Largo	Corregimiento Llano Largo	Corregimiento Llano Largo	7.91667	-80.43333	A	ADM3	PA		07	0703	070309		2265		66	America/Panama	2018-01-22
+3705717	Corregimiento Llano Grande	Corregimiento Llano Grande	Corregimiento Llano Grande	8.76667	-80.45	A	ADM3	PA		03	0203	020304		6901		221	America/Panama	2018-01-22
+3705718	Corregimiento Llano Grande	Corregimiento Llano Grande	Corregimiento Llano Grande	8.1	-81.15	A	ADM3	PA		10	0904	090404		815		57	America/Panama	2018-01-22
+3705719	Corregimiento Llano Grande	Corregimiento Llano Grande	Corregimiento Llano Grande,Llano Largo	7.96667	-80.7	A	ADM3	PA		06	0604	060404		1062		85	America/Panama	2018-01-22
+3705742	Corregimiento Llano de Piedra	Corregimiento Llano de Piedra	Corregimiento Llano de Piedra	7.63333	-80.55	A	ADM3	PA		07	0704	070410		1737		277	America/Panama	2018-01-22
+3705765	Corregimiento Llano de la Cruz	Corregimiento Llano de la Cruz	Corregimiento Llano de la Cruz	7.95	-80.65	A	ADM3	PA		06	0605	060504		318		42	America/Panama	2018-01-22
+3705771	Corregimiento Llano de Catival	Corregimiento Llano de Catival	Corregimiento Llano de Catival	7.61667	-80.9	A	ADM3	PA		10	0912	091201		2376		206	America/Panama	2018-01-22
+3705799	Corregimiento Llano Abajo	Corregimiento Llano Abajo	Corregimiento Llano Abajo	7.76428	-80.41972	A	ADM3	PA		07	0701	070108		550		95	America/Panama	2018-01-25
+3705834	Corregimiento Limones	Corregimiento Limones		8.1	-82.86667	A	ADM3	PA		02	0402	040202		1040		52	America/Panama	2018-01-22
+3705873	Corregimiento Limón	Corregimiento Limon	Corregimiento Limon,Corregimiento Limón,El Limon,El Limón	9.26466	-79.7373	A	ADM3	PA		04	0301	030108		4665		55	America/Panama	2018-01-25
+3705893	Corregimiento Lídice	Corregimiento Lidice	Corregimiento Lidice,Corregimiento Lídice	8.75	-79.93333	A	ADM3	PA		13	1303	130310		5307		201	America/Panama	2023-01-26
+3705912	Corregimiento Leones	Corregimiento Leones	Corregimiento Leones	7.81667	-80.8	A	ADM3	PA		06	0602	060205		852		298	America/Panama	2018-01-22
+3705913	Corregimiento Leones	Corregimiento Leones	Corregimiento Leones	7.73333	-81.13333	A	ADM3	PA		10	0906	090604		224		62	America/Panama	2018-01-22
+3705967	Corregimiento La Yeguada	Corregimiento La Yeguada	Corregimiento La Yeguada	8.45	-80.83333	A	ADM3	PA		10	0902	090209		1353		1093	America/Panama	2018-01-22
+3706040	Corregimiento La Tronosa	Corregimiento La Tronosa	Corregimiento La Tronosa	7.46667	-80.58333	A	ADM3	PA		07	0707	070709		637		63	America/Panama	2018-01-22
+3706048	Corregimiento La Trinidad	Corregimiento La Trinidad	Corregimiento La Trinidad	8.9	-80	A	ADM3	PA		13	1303	130308		2572		118	America/Panama	2023-01-26
+3706090	Corregimiento La Tiza	Corregimiento La Tiza	Corregimiento La Tiza	7.75344	-80.2892	A	ADM3	PA		07	0702	070212		1702		59	America/Panama	2018-01-25
+3706105	Corregimiento La Tetilla	Corregimiento La Tetilla	Corregimiento La Tetilla	8.23333	-80.86667	A	ADM3	PA		10	0902	090208		400		60	America/Panama	2018-01-22
+3706154	Corregimiento Las Uvas	Corregimiento Las Uvas	Corregimiento Las Uvas	8.45	-80	A	ADM3	PA		13	1309	130907		1587		40	America/Panama	2023-01-26
+3706175	Corregimiento Las Trancas	Corregimiento Las Trancas	Corregimiento Las Trancas	7.73333	-80.36667	A	ADM3	PA		07	0701	070107		511		131	America/Panama	2018-01-22
+3706202	Corregimiento Las Tablas Abajo	Corregimiento Las Tablas Abajo	Corregimiento Las Tablas Abajo,Tablas Abajo	7.8	-80.23333	A	ADM3	PA		07	0702	070214		1030		25	America/Panama	2018-01-22
+3706206	Corregimiento Las Tablas	Corregimiento Las Tablas	Corregimiento Las Tablas,Tablas	7.76759	-80.27521	A	ADM3	PA		07	0702	070201		8945		42	America/Panama	2018-01-22
+3706277	Corregimiento Las Palmitas	Corregimiento Las Palmitas		7.76667	-80.31667	A	ADM3	PA		07	0702	070213		2057		30	America/Panama	2018-01-22
+3706290	Corregimiento Las Palmas	Corregimiento Las Palmas	Corregimiento Las Palmas	8.15	-81.43333	A	ADM3	PA		10	0905	090501		3106		164	America/Panama	2018-01-22
+3706291	Corregimiento Las Palmas	Corregimiento Las Palmas	Corregimiento Las Palmas	7.67566	-80.50665	A	ADM3	PA		07	0704	070409		436		327	America/Panama	2018-01-25
+3706304	Corregimiento Las Ollas Arriba	Corregimiento Las Ollas Arriba	Corregimiento Las Ollas Arriba	8.78333	-79.9	A	ADM3	PA		13	1303	130309		1201		132	America/Panama	2023-01-26
+3706309	Corregimiento La Soledad	Corregimiento La Soledad	Corregimiento La Soledad	7.9	-81.26667	A	ADM3	PA		10	0911	091107		1517		5	America/Panama	2018-01-22
+3706343	Corregimiento Las Minas	Corregimiento Las Minas	Corregimiento Las Minas	7.79102	-80.72618	A	ADM3	PA		06	0602	060201		1975		334	America/Panama	2018-01-25
+3706395	Corregimiento Las Margaritas	Corregimiento Las Margaritas	Corregimiento Las Margaritas	9.26667	-79.11667	A	ADM3	PA		08	0805	080505		4991		144	America/Panama	2018-01-22
+3706408	Corregimiento Las Lomas	Corregimiento Las Lomas	Corregimiento Las Lomas	8.45	-82.38333	A	ADM3	PA		02	0406	040606		18769		64	America/Panama	2018-01-22
+3706448	Corregimiento Las Lajas	Corregimiento Las Lajas	Corregimiento Las Lajas	8.55	-79.91667	A	ADM3	PA		13	1304	130407		3431		54	America/Panama	2023-01-26
+3706449	Corregimiento Las Lajas	Corregimiento Las Lajas	Corregimiento Las Lajas	8.21936	-81.86546	A	ADM3	PA		02	0411	041101		1521		34	America/Panama	2018-01-25
+3706484	Corregimiento Las Huacas	Corregimiento Las Huacas	Corregimiento Las Huacas	8.51667	-80.75	A	ADM3	PA		03	0204	020405		1585		959	America/Panama	2018-01-22
+3706485	Corregimiento Las Huacas	Corregimiento Las Huacas	Corregimiento Las Huacas	7.86667	-81.15	A	ADM3	PA		10	0907	090702		965		4	America/Panama	2018-01-22
+3706501	Corregimiento Las Guías	Corregimiento Las Guias	Corregimiento Las Guias,Corregimiento Las Guías	8.25	-80.75	A	ADM3	PA		10	0902	090210		1712		79	America/Panama	2018-01-22
+3706518	Corregimiento Las Guabas	Corregimiento Las Guabas	Corregimiento Las Guabas	7.83333	-80.48333	A	ADM3	PA		07	0703	070306		677		60	America/Panama	2018-01-22
+3706566	Corregimiento Las Cumbres	Corregimiento Las Cumbres	Corregimiento Las Cumbres	9.09271	-79.55575	A	ADM3	PA		08	0808	080816		32867		338	America/Panama	2018-01-25
+3706579	Corregimiento Las Cruces	Corregimiento Las Cruces	Corregimiento Las Cruces	7.81667	-80.43333	A	ADM3	PA		07	0703	070305		1201		59	America/Panama	2018-01-22
+3706717	Corregimiento La Represa	Corregimiento La Represa	Corregimiento La Represa	8.98333	-79.81667	A	ADM3	PA		13	1307	130712		681		146	America/Panama	2023-01-26
+3706723	Corregimiento La Raya de Santa María	Corregimiento La Raya de Santa Maria	Corregimiento La Raya de Santa Maria,Corregimiento La Raya de Santa María	8.13333	-80.83333	A	ADM3	PA		10	0910	091004		3268		45	America/Panama	2018-01-22
+3706726	Corregimiento La Raya de Calobre	Corregimiento La Raya de Calobre	Corregimiento La Raya de Calobre,Raya de Calobre	8.23333	-80.81667	A	ADM3	PA		10	0902	090207		496		50	America/Panama	2018-01-22
+3706847	Corregimiento La Pitaloza	Corregimiento La Pitaloza	Corregimiento La Pitaloza	7.60431	-80.69524	A	ADM3	PA		06	0603	060306		674		707	America/Panama	2018-01-25
+3706930	Corregimiento La Pintada	Corregimiento La Pintada	Corregimiento La Pintada	8.55	-80.45	A	ADM3	PA		03	0203	020301		3882		61	America/Panama	2018-01-22
+3706964	Corregimiento La Peña	Corregimiento La Pena	Corregimiento La Pena,Corregimiento La Peña	8.16667	-81.03333	A	ADM3	PA		10	0910	091003		3990		90	America/Panama	2018-01-22
+3706999	Corregimiento La Pava	Corregimiento La Pava	Corregimiento La Pava	8.45	-80.6	A	ADM3	PA		03	0205	020505		1444		57	America/Panama	2018-01-22
+3707005	Corregimiento La Pasera	Corregimiento La Pasera	Corregimiento La Pasera	7.80785	-80.31501	A	ADM3	PA		07	0701	070106		897		14	America/Panama	2018-01-25
+3707046	Corregimiento La Palma	Corregimiento La Palma	Corregimiento La Palma	8.51667	-78.16667	A	ADM3	PA		05	0501	050101		4205		46	America/Panama	2018-01-22
+3707047	Corregimiento La Palma	Corregimiento La Palma	Corregimiento La Palma	7.7	-80.2	A	ADM3	PA		07	0702	070211		1247		28	America/Panama	2018-01-22
+3707120	Corregimiento La Montañuela	Corregimiento La Montanuela	Corregimiento La Montanuela,Corregimiento La Montañuela	8.02592	-80.86609	A	ADM3	PA		10	0901	090103		786		65	America/Panama	2018-01-25
+3707194	Corregimiento La Miel	Corregimiento La Miel	Corregimiento La Miel	7.56667	-80.33333	A	ADM3	PA		07	0702	070210		290		199	America/Panama	2018-01-22
+3707218	Corregimiento La Mesa	Corregimiento La Mesa	Corregimiento La Mesa	8.15	-81.16667	A	ADM3	PA		10	0904	090401		3338		155	America/Panama	2018-01-22
+3707219	Corregimiento La Mesa	Corregimiento La Mesa	Corregimiento La Mesa	7.63333	-80.6	A	ADM3	PA		07	0704	070408		641		155	America/Panama	2018-01-22
+3707376	Corregimiento La Laja	Corregimiento La Laja	Corregimiento La Laja	7.73297	-80.25503	A	ADM3	PA		07	0702	070209		547		66	America/Panama	2018-01-25
+3707388	Corregimiento La Laguna	Corregimiento La Laguna	Corregimiento La Laguna	8.6	-80.03333	A	ADM3	PA		13	1309	130906		1132		548	America/Panama	2023-01-26
+3707389	Corregimiento La Laguna	Corregimiento La Laguna	Corregimiento La Laguna	8.33333	-80.75	A	ADM3	PA		10	0902	090206		774		112	America/Panama	2018-01-22
+3707426	Corregimiento Lajero	Corregimiento Lajero		8.28964	-81.77692	A	ADM3	PA		12	1204	120404		2674		298	America/Panama	2018-01-25
+3707433	Corregimiento Lajas de Tolé	Corregimiento Lajas de Tole	Corregimiento Lajas de Tole,Corregimiento Lajas de Tolé,Las Lajas	8.18333	-81.68333	A	ADM3	PA		02	0413	041306		847		358	America/Panama	2020-06-11
+3707465	Corregimiento Lajamina	Corregimiento Lajamina	Corregimiento Lajamina	7.56667	-80.13333	A	ADM3	PA		07	0706	070603		514		114	America/Panama	2018-01-22
+3707588	Corregimiento La Guinea	Corregimiento La Guinea	Corregimiento La Guinea	8.31472	-78.96333	A	ADM3	PA		08	0802	080204		83		27	America/Panama	2018-01-22
+3707673	Corregimiento La Garceana	Corregimiento La Garceana	Corregimiento La Garceana	7.92118	-81.0331	A	ADM3	PA		10	0906	090603		276		45	America/Panama	2018-01-25
+3707733	Corregimiento La Estrella	Corregimiento La Estrella	Corregimiento La Estrella	8.5	-82.66667	A	ADM3	PA		02	0405	040506		4665		191	America/Panama	2018-01-22
+3707751	Corregimiento La Espigadilla	Corregimiento La Espigadilla	Corregimiento La Espigadilla,La Espigadulce	7.9	-80.4	A	ADM3	PA		07	0703	070304		1675		54	America/Panama	2018-01-22
+3707760	Corregimiento La Esmeralda	Corregimiento La Esmeralda	Corregimiento La Esmeralda	8.27631	-78.84539	A	ADM3	PA		08	0802	080203		524		56	America/Panama	2018-01-25
+3707769	Corregimiento La Ermita	Corregimiento La Ermita	Corregimiento La Ermita	8.46667	-80.06667	A	ADM3	PA		13	1309	130905		1571		90	America/Panama	2023-01-26
+3707774	Corregimiento La Ensenada	Corregimiento La Ensenada	Corregimiento La Ensenada	8.34246	-78.87508	A	ADM3	PA		08	0802	080202		94		75	America/Panama	2018-01-25
+3707782	Corregimiento La Enea	Corregimiento La Enea	Corregimiento La Enea	7.85	-80.28333	A	ADM3	PA		07	0701	070105		1186		4	America/Panama	2018-01-22
+3707792	Corregimiento La Encantada	Corregimiento La Encantada	Corregimiento La Encantada	9.06667	-80.16667	A	ADM3	PA		04	0302	030204		2561		53	America/Panama	2018-01-22
+3707895	Corregimiento La Concepción	Corregimiento La Concepcion	Concepcion,Concepción,Corregimiento La Concepcion,Corregimiento La Concepción	8.60059	-82.63539	A	ADM3	PA		02	0405	040501		21356		542	America/Panama	2018-01-25
+3707915	Corregimiento La Colorada	Corregimiento La Colorada	Corregimiento La Colorada	8.01667	-80.98333	A	ADM3	PA		10	0910	091002		2128		104	America/Panama	2018-01-22
+3707916	Corregimiento La Colorada	Corregimiento La Colorada	Corregimiento La Colorada	7.83333	-80.55	A	ADM3	PA		07	0703	070303		1030		54	America/Panama	2018-01-22
+3708163	Corregimiento La Arena	Corregimiento La Arena	Corregimiento La Arena	7.96667	-80.48333	A	ADM3	PA		06	0601	060102		7586		28	America/Panama	2018-01-22
+3708164	Corregimiento La Arena	Corregimiento La Arena	Corregimiento La Arena	7.75668	-80.58932	A	ADM3	PA		06	0603	060305		559		91	America/Panama	2018-01-25
+3708266	Corregimiento Juay	Corregimiento Juay	Corregimiento Juay	8.3	-81.95	A	ADM3	PA		02	0411	041102		654		48	America/Panama	2018-01-22
+3708303	Corregimiento Juan Díaz	Corregimiento Juan Diaz	Corregimiento Juan Diaz,Corregimiento Juan Díaz	9.03493	-79.46275	A	ADM3	PA		08	0808	080812		100636		7	America/Panama	2018-01-22
+3708304	Corregimiento Juan Díaz	Corregimiento Juan Diaz	Corregimiento Juan Diaz,Corregimiento Juan Díaz	8.43333	-80.3	A	ADM3	PA		03	0202	020206		2634		39	America/Panama	2018-01-22
+3708312	Corregimiento Juan Demóstenes Arosemena	Corregimiento Juan Demostenes Arosemena	Corregimiento Juan Demostenes Arosemena,Corregimiento Juan Demóstenes Arosemena	8.93333	-79.71667	A	ADM3	PA		13	1301	130102		37044		48	America/Panama	2023-01-26
+3708337	Corregimiento José Domingo Espinar	Corregimiento Jose Domingo Espinar	Corregimiento Jose Domingo Espinar,Corregimiento José Domingo Espinar	9.0392	-79.47946	A	ADM3	PA		08	0810	081003		44471		16	America/Panama	2018-01-22
+3708431	Corregimiento Jaqué	Corregimiento Jaque	Corregimiento Jaque,Corregimiento Jaqué	7.5	-78	A	ADM3	PA		05	0501	050105		2386		177	America/Panama	2018-01-22
+3708475	Corregimiento Iturralde	Corregimiento Iturralde	Corregimiento Iturralde	9	-79.93333	A	ADM3	PA		13	1307	130711		1354		83	America/Panama	2023-01-26
+3708487	Corregimiento Isla Grande	Corregimiento Isla Grande	Corregimiento Isla Grande	9.59623	-79.55295	A	ADM3	PA		04	0304	030404		1037		3	America/Panama	2018-01-25
+3708571	Corregimiento Hurtado	Corregimiento Hurtado	Corregimiento Hurtado	8.91667	-79.9	A	ADM3	PA		13	1307	130710		1206		159	America/Panama	2023-01-26
+3708605	Corregimiento Horoncitos	Corregimiento Horoncitos	Corregimiento Horoncitos	8.28645	-82.14143	A	ADM3	PA		02	0412	041201		996		18	America/Panama	2018-01-25
+3708606	Corregimiento Hornito	Corregimiento Hornito	Corregimiento Hornito	8.71667	-82.21667	A	ADM3	PA		02	0408	040802		1230		1271	America/Panama	2018-01-22
+3708711	Corregimiento Herrera	Corregimiento Herrera	Corregimiento Herrera	8.95	-79.83333	A	ADM3	PA		13	1307	130709		2552		143	America/Panama	2023-01-26
+3708727	Corregimiento Hato Pilón	Corregimiento Hato Pilon		8.41667	-81.85	A	ADM3	PA		12	1202	120201		2356		1006	America/Panama	2018-01-22
+3708734	Corregimiento Hato Julí	Corregimiento Hato Juli	Corregimiento Hato Juli,Corregimiento Hato Julí,Juli	8.35785	-81.85126	A	ADM3	PA		12	1202	120206		1504		492	America/Panama	2018-01-25
+3708736	Corregimiento Hato Jobo	Corregimiento Hato Jobo		8.38333	-81.91667	A	ADM3	PA		12	1202	120205		1393		387	America/Panama	2018-01-22
+3708741	Corregimiento Hato Culantro	Corregimiento Hato Culantro	Corregimiento Hato Culantro,Hato de Culantro	8.46667	-81.85	A	ADM3	PA		12	1202	120204		2110		613	America/Panama	2018-01-22
+3708744	Corregimiento Hato Corotú	Corregimiento Hato Corotu		8.33333	-81.98333	A	ADM3	PA		12	1202	120203		2134		116	America/Panama	2018-01-22
+3708746	Corregimiento Hato Chamí	Corregimiento Hato Chami	Chami,Chamí,Corregimiento Hato Chami,Corregimiento Hato Chamí	8.42313	-81.77536	A	ADM3	PA		12	1204	120402		3857		576	America/Panama	2018-01-23
+3708771	Corregimiento Guzmán	Corregimiento Guzman	Corregimiento Guzman,Corregimiento Guzmán	8.53333	-80.56667	A	ADM3	PA		03	0204	020404		943		150	America/Panama	2018-01-22
+3708779	Corregimiento Guoroni	Corregimiento Guoroni		8.71667	-81.81667	A	ADM3	PA		12	1206	120604		2647		498	America/Panama	2018-01-22
+3708842	Corregimiento Guayabito	Corregimiento Guayabito	Corregimiento Guayabito	8.55	-80	A	ADM3	PA		13	1309	130904		502		230	America/Panama	2023-01-26
+3708852	Corregimiento Guayabal	Corregimiento Guayabal	Corregimiento Guayabal	8.66956	-82.56795	A	ADM3	PA		02	0403	040305		2111		869	America/Panama	2018-01-25
+3708888	Corregimiento Guarumal	Corregimiento Guarumal	Corregimiento Guarumal	8.33333	-82.55	A	ADM3	PA		02	0401	040104		2418		7	America/Panama	2018-01-22
+3708889	Corregimiento Guarumal	Corregimiento Guarumal	Corregimiento Guarumal	7.8	-81.25	A	ADM3	PA		10	0911	091106		3239		28	America/Panama	2018-01-22
+3708903	Corregimiento Guararé Arriba	Corregimiento Guarare Arriba	Corregimiento Guarare Arriba,Corregimiento Guararé Arriba	7.79691	-80.35269	A	ADM3	PA		07	0701	070104		394		22	America/Panama	2018-01-25
+3708908	Corregimiento Guararé	Corregimiento Guarare	Corregimiento Guarare,Corregimiento Guararé	7.8	-80.28333	A	ADM3	PA		07	0701	070101		4524		35	America/Panama	2018-01-22
+3708931	Corregimiento Guánico	Corregimiento Guanico	Corregimiento Guanico,Corregimiento Guánico	7.32667	-80.46935	A	ADM3	PA		07	0707	070708		996		41	America/Panama	2018-01-25
+3708947	Corregimiento Gualaca	Corregimiento Gualaca	Corregimiento Gualaca	8.56667	-82.25	A	ADM3	PA		02	0408	040801		5605		351	America/Panama	2018-01-22
+3708953	Corregimiento Guadalupe	Corregimiento Guadalupe	Corregimiento Guadalupe	8.83333	-79.83333	A	ADM3	PA		13	1307	130708		34242		83	America/Panama	2023-01-26
+3708977	Corregimiento Guacá	Corregimiento Guaca	Corregimiento Guaca,Corregimiento Guacá	8.56667	-82.5	A	ADM3	PA		02	0406	040605		1891		372	America/Panama	2018-01-22
+3708988	Corregimiento Guabito	Corregimiento Guabito	Corregimiento Guabito	9.48486	-82.61037	A	ADM3	PA		01	0102	010203		8387		15	America/Panama	2018-01-25
+3709008	Corregimiento Guabal	Corregimiento Guabal	Corregimiento Guabal	8.62972	-82.54852	A	ADM3	PA		02	0403	040304		884		707	America/Panama	2018-01-25
+3709217	Corregimiento Gonzalo Vásquez	Corregimiento Gonzalo Vasquez	Corregimiento Gonzalo Vasquez,Corregimiento Gonzalo Vásquez	8.4	-78.43333	A	ADM3	PA		08	0806	080603		91		28	America/Panama	2018-01-22
+3709227	Corregimiento Gómez	Corregimiento Gomez	Corregimiento Gomez,Corregimiento Gómez	8.56667	-82.75	A	ADM3	PA		02	0405	040505		2702		326	America/Panama	2018-01-22
+3709235	Corregimiento Gobernadora	Corregimiento Gobernadora	Corregimiento Gobernadora	7.48298	-81.79583	A	ADM3	PA		10	0906	090602		269		168	America/Panama	2018-01-25
+3709241	Corregimiento Gobea	Corregimiento Gobea	Corregimiento Gobea	9.12105	-80.23047	A	ADM3	PA		04	0303	030304		794		98	America/Panama	2018-01-25
+3709282	Corregimiento Gatú o Gatucito	Corregimiento Gatu o Gatucito	Gatu o Gatucito,Gatú o Gatucito	8.55	-80.96667	A	ADM3	PA		10	0909	090906		1315		825	America/Panama	2018-01-22
+3709330	Corregimiento Garrote	Corregimiento Garrote	Corregimiento Garrote	9.58363	-79.57601	A	ADM3	PA		04	0304	030403		869		37	America/Panama	2018-01-25
+3709360	Corregimiento Garachiné	Corregimiento Garachine	Corregimiento Garachine,Corregimiento Garachiné	8.03333	-78.33333	A	ADM3	PA		05	0501	050104		1878		81	America/Panama	2018-01-22
+3709505	Corregimiento Flores	Corregimiento Flores	Corregimiento Flores	7.53333	-80.46667	A	ADM3	PA		07	0707	070707		664		419	America/Panama	2018-01-22
+3709585	Corregimiento Feuillet	Corregimiento Feuillet	Corregimiento Feuillet	8.84137	-79.86826	A	ADM3	PA		13	1307	130707		2669		102	America/Panama	2023-01-26
+3709670	Corregimiento Espino Amarillo	Corregimiento Espino Amarillo	Corregimiento Espino Amarillo	7.68333	-80.45	A	ADM3	PA		07	0704	070407		193		301	America/Panama	2018-01-22
+3709737	Corregimiento Escobal	Corregimiento Escobal	Ciri,Cirí,Corregimiento Escobal	9.11667	-80.01667	A	ADM3	PA		04	0301	030107		2388		32	America/Panama	2018-01-22
+3709779	Corregimiento Emplanada de Chorcha	Corregimiento Emplanada de Chorcha		8.60731	-82.13727	A	ADM3	PA		12	1201	120106		2348		1253	America/Panama	2018-01-25
+3709825	Corregimiento El Valle	Corregimiento El Valle	Corregimiento El Valle	8.6	-80.11667	A	ADM3	PA		03	0202	020205		7602		594	America/Panama	2018-01-22
+3709850	Corregimiento El Toro	Corregimiento El Toro	Corregimiento El Toro	7.76667	-80.86667	A	ADM3	PA		06	0602	060204		931		252	America/Panama	2018-01-22
+3709901	Corregimiento El Tejar	Corregimiento El Tejar		8.43333	-82.55	A	ADM3	PA		02	0401	040103		1961		68	America/Panama	2018-01-22
+3710022	Corregimiento El Roble	Corregimiento El Roble	Corregimiento El Roble	8.16667	-80.61667	A	ADM3	PA		03	0201	020103		8369		11	America/Panama	2018-01-22
+3710032	Corregimiento El Rincón	Corregimiento El Rincon	Corregimiento El Rincon,Corregimiento El Rincón	8.23333	-81.41667	A	ADM3	PA		10	0905	090506		2574		154	America/Panama	2018-01-22
+3710033	Corregimiento El Rincón	Corregimiento El Rincon	Corregimiento El Rincon,Corregimiento El Rincón	8.1	-80.6	A	ADM3	PA		06	0607	060703		1712		9	America/Panama	2018-01-22
+3710044	Corregimiento El Retiro	Corregimiento El Retiro	Corregimiento El Retiro	8.43333	-80.16667	A	ADM3	PA		03	0202	020204		2303		51	America/Panama	2018-01-22
+3710057	Corregimiento El Real de Santa María	Corregimiento El Real de Santa Maria	Corregimiento El Real de Santa Maria,Corregimiento El Real de Santa María	8.05	-77.71667	A	ADM3	PA		05	0502	050201		1183		70	America/Panama	2018-01-22
+3710088	Corregimiento El Prado	Corregimiento El Prado	Corregimiento El Prado,Vigui	8.22862	-81.48656	A	ADM3	PA		10	0905	090505		1074		414	America/Panama	2018-01-25
+3710104	Corregimiento El Potrero	Corregimiento El Potrero	Corregimiento El Potrero	8.55	-80.53333	A	ADM3	PA		03	0203	020303		3165		97	America/Panama	2018-01-22
+3710105	Corregimiento El Potrero	Corregimiento El Potrero	Corregimiento El Potrero	8.38333	-80.81667	A	ADM3	PA		10	0902	090205		635		329	America/Panama	2018-01-22
+3710155	Corregimiento El Piro	Corregimiento El Piro		8.23306	-81.51476	A	ADM3	PA		12	1205	120507		586		421	America/Panama	2018-01-25
+3710181	Corregimiento El Picacho	Corregimiento El Picacho	Corregimiento El Picacho	8.38333	-80.63333	A	ADM3	PA		03	0205	020504		331		95	America/Panama	2018-01-22
+3710221	Corregimiento El Pedregoso	Corregimiento El Pedregoso	Corregimiento El Pedregoso,Pedregoso	7.70585	-80.32579	A	ADM3	PA		07	0702	070208		279		167	America/Panama	2018-01-25
+3710276	Corregimiento El Pantano	Corregimiento El Pantano	Corregimiento El Pantano	8.56667	-81.06667	A	ADM3	PA		10	0909	090905		658		545	America/Panama	2018-01-22
+3710289	Corregimiento El Palmar	Corregimiento El Palmar	Corregimiento El Palmar	8.55	-80.7	A	ADM3	PA		03	0205	020503		1256		977	America/Panama	2018-01-22
+3710363	Corregimiento El Nancito	Corregimiento El Nancito	Corregimiento El Nancito,Nancito	8.25	-81.75	A	ADM3	PA		02	0409	040902		607		260	America/Panama	2018-01-22
+3710376	Corregimiento El Muñoz	Corregimiento El Munoz	Corregimiento El Munoz,Corregimiento El Muñoz,Munoz,Muñoz	7.66667	-80.31667	A	ADM3	PA		07	0702	070207		376		157	America/Panama	2018-01-22
+3710412	Corregimiento El María	Corregimiento El Maria	Corregimiento El Maria,Corregimiento El María	8	-81.45	A	ADM3	PA		10	0905	090504		1077		265	America/Panama	2018-01-22
+3710420	Corregimiento El Marañón	Corregimiento El Maranon	Corregimiento El Maranon,Corregimiento El Marañón	8	-81.26667	A	ADM3	PA		10	0911	091105		2322		213	America/Panama	2018-01-22
+3710438	Corregimiento El Manantial	Corregimiento El Manantial	Corregimiento El Manantial,Manantial	7.78333	-80.21667	A	ADM3	PA		07	0702	070206		909		15	America/Panama	2018-01-22
+3710472	Corregimiento El Macano	Corregimiento El Macano	Corregimiento El Macano	7.68333	-80.4	A	ADM3	PA		07	0701	070103		281		307	America/Panama	2018-01-22
+3710497	Corregimiento El Llano	Corregimiento El Llano	Corregimiento El Llano	9.15838	-78.89079	A	ADM3	PA		08	0805	080504		2819		73	America/Panama	2018-01-25
+3710539	Corregimiento El Líbano	Corregimiento El Libano	Corregimiento El Libano,Corregimiento El Líbano	8.61027	-79.80441	A	ADM3	PA		13	1304	130406		200		8	America/Panama	2023-01-26
+3710664	Corregimiento El Higo	Corregimiento El Higo	Corregimiento El Higo	8.45	-80.05	A	ADM3	PA		13	1309	130903		2710		89	America/Panama	2023-01-26
+3710709	Corregimiento El Harino	Corregimiento El Harino	Corregimiento El Harino	8.66667	-80.63333	A	ADM3	PA		03	0203	020302		5455		920	America/Panama	2018-01-22
+3710756	Corregimiento El Guásimo	Corregimiento El Guasimo	Corregimiento El Guasimo,Corregimiento El Guásimo	9	-80.33333	A	ADM3	PA		04	0303	030303		2843		156	America/Panama	2018-01-22
+3710757	Corregimiento El Guásimo	Corregimiento El Guasimo	Corregimiento El Guasimo,Corregimiento El Guásimo	7.83333	-80.51667	A	ADM3	PA		07	0703	070302		610		49	America/Panama	2018-01-22
+3710783	Corregimiento El Guabo	Corregimiento El Guabo	Corregimiento El Guabo	9.1	-80.08333	A	ADM3	PA		04	0302	030203		1330		27	America/Panama	2018-01-22
+3710874	Corregimiento El Espino	Corregimiento El Espino	Corregimiento El Espino	8.51667	-80.01667	A	ADM3	PA		13	1309	130902		1847		173	America/Panama	2023-01-26
+3710886	Corregimiento El Espinal	Corregimiento El Espinal	Corregimiento El Espinal	7.83333	-80.33333	A	ADM3	PA		07	0701	070102		1243		32	America/Panama	2018-01-22
+3710948	Corregimiento El Cuay	Corregimiento El Cuay	Corregimiento El Cuay	8.45	-81.11667	A	ADM3	PA		10	0909	090904		1486		522	America/Panama	2018-01-22
+3710958	Corregimiento El Cristo	Corregimiento El Cristo	Corregimiento El Cristo	8.26667	-80.65	A	ADM3	PA		03	0201	020102		4017		45	America/Panama	2018-01-22
+3710975	Corregimiento El Cortezo	Corregimiento El Cortezo	Corregimiento El Cortezo	7.41667	-80.65	A	ADM3	PA		07	0707	070706		662		250	America/Panama	2018-01-22
+3711007	Corregimiento El Copé	Corregimiento El Cope	Corregimiento El Cope,Corregimiento El Copé	8.46667	-80.7	A	ADM3	PA		03	0205	020502		1425		335	America/Panama	2018-01-22
+3711053	Corregimiento El Coco	Corregimiento El Coco	Corregimiento El Coco	8.88333	-79.83333	A	ADM3	PA		13	1307	130706		19603		86	America/Panama	2023-01-26
+3711054	Corregimiento El Coco	Corregimiento El Coco	Corregimiento El Coco	8.41667	-80.35	A	ADM3	PA		03	0206	020605		5605		25	America/Panama	2018-01-22
+3711067	Corregimiento El Coclá	Corregimiento El Cocla	Cocla,Corregimiento El Cocla,Corregimiento El Coclá	8.33333	-80.9	A	ADM3	PA		10	0902	090204		608		138	America/Panama	2020-06-11
+3711070	Corregimiento El Cocal	Corregimiento El Cocal	Corregimiento El Cocal	7.73333	-80.26667	A	ADM3	PA		07	0702	070205		1889		84	America/Panama	2018-01-22
+3711132	Corregimiento El Chirú	Corregimiento El Chiru	Corregimiento El Chiru,Corregimiento El Chirú	8.35	-80.21667	A	ADM3	PA		03	0202	020203		3623		11	America/Panama	2018-01-22
+3711176	Corregimiento El Cedro	Corregimiento El Cedro	Corregimiento El Cedro	7.78333	-80.53333	A	ADM3	PA		07	0704	070406		450		142	America/Panama	2018-01-22
+3711177	Corregimiento El Cedro	Corregimiento El Cedro	Capuri,Capurí,Corregimiento El Cedro	7.68641	-80.64831	A	ADM3	PA		06	0603	060304		503		269	America/Panama	2018-01-25
+3711209	Corregimiento El Carate	Corregimiento El Carate	Corregimiento El Carate	7.73333	-80.31667	A	ADM3	PA		07	0702	070204		873		69	America/Panama	2018-01-22
+3711222	Corregimiento El Capurí	Corregimiento El Capuri	Corregimiento El Capuri,Corregimiento El Capurí	7.72769	-80.65063	A	ADM3	PA		06	0603	060302		446		209	America/Panama	2018-01-25
+3711236	Corregimiento El Caño	Corregimiento El Cano	Corregimiento El Cano,Corregimiento El Caño	8.43333	-80.53333	A	ADM3	PA		03	0204	020403		3351		31	America/Panama	2018-01-22
+3711243	Corregimiento El Cañafístulo	Corregimiento El Canafistulo	Corregimiento Canafistulo,Corregimiento Cañafístulo,Corregimiento El Canafistulo,Corregimiento El Cañafístulo	7.61667	-80.23333	A	ADM3	PA		07	0706	070602		363		176	America/Panama	2018-01-22
+3711269	Corregimiento El Calabacito	Corregimiento El Calabacito	Corregimiento Calabacito,Corregimiento El Calabacito	7.70888	-80.59425	A	ADM3	PA		06	0603	060303		617		183	America/Panama	2018-01-25
+3711298	Corregimiento El Cacao	Corregimiento El Cacao	Corregimiento El Cacao	8.74245	-80.02486	A	ADM3	PA		13	1303	130307		4951		292	America/Panama	2023-01-26
+3711299	Corregimiento El Cacao	Corregimiento El Cacao	Corregimiento El Cacao	7.43333	-80.41667	A	ADM3	PA		07	0707	070705		1049		12	America/Panama	2018-01-22
+3711369	Corregimiento El Bebedero	Corregimiento El Bebedero	Corregimiento El Bebedero	7.41667	-80.48333	A	ADM3	PA		07	0707	070704		1332		20	America/Panama	2018-01-22
+3711379	Corregimiento El Barrito	Corregimiento El Barrito		7.98333	-80.93333	A	ADM3	PA		10	0901	090102		899		49	America/Panama	2018-01-22
+3711495	Corregimiento El Arado	Corregimiento El Arado	Corregimiento El Arado	8.96667	-79.76667	A	ADM3	PA		13	1307	130705		2715		124	America/Panama	2023-01-26
+3711512	Corregimiento El Alto	Corregimiento El Alto	Corregimiento El Alto	8.55489	-81.0211	A	ADM3	PA		10	0909	090903		1318		768	America/Panama	2018-01-25
+3711573	Corregimiento Dos Ríos	Corregimiento Dos Rios	Corregimiento Dos Rios,Corregimiento Dos Ríos	8.54127	-82.39068	A	ADM3	PA		02	0407	040702		1634		186	America/Panama	2018-01-25
+3711617	Corregimiento Dolega	Corregimiento Dolega	Corregimiento Dolega	8.56667	-82.43333	A	ADM3	PA		02	0407	040701		4074		273	America/Panama	2018-01-22
+3711629	Corregimiento Divalá	Corregimiento Divala	Corregimiento Divala,Corregimiento Divalá	8.39719	-82.6866	A	ADM3	PA		02	0401	040102		3457		20	America/Panama	2018-01-25
+3711667	Corregimiento David	Corregimiento David	Corregimiento David	8.45	-82.43333	A	ADM3	PA		02	0406	040601		82907		37	America/Panama	2018-01-22
+3711698	Corregimiento Curundú	Corregimiento Curundu	Corregimiento Curundu,Corregimiento Curundú	8.9797	-79.53768	A	ADM3	PA		08	0808	080805		16361		14	America/Panama	2018-01-25
+3711795	Corregimiento Cuango	Corregimiento Cuango	Corregimiento Cuango	9.51667	-79.33333	A	ADM3	PA		04	0305	030502		442		78	America/Panama	2018-01-22
+3711827	Corregimiento Cristóbal	Corregimiento Cristobal	Corregimiento Cristobal,Corregimiento Cristóbal	9.184	-79.7366	A	ADM3	PA		04	0301	030106		49422		246	America/Panama	2018-01-25
+3711874	Corregimiento Corral Falso	Corregimiento Corral Falso	Corregimiento Corral Falso,Panamaes	8.21984	-80.89463	A	ADM3	PA		10	0908	090802		469		46	America/Panama	2018-01-25
+3711913	Corregimiento Corozal	Corregimiento Corozal	Corregimiento Corozal	8.06667	-81.43333	A	ADM3	PA		10	0905	090503		920		217	America/Panama	2018-01-22
+3711914	Corregimiento Corozal	Corregimiento Corozal	Corregimiento Corozal,El Corozal	7.74702	-80.46338	A	ADM3	PA		07	0704	070404		625		138	America/Panama	2018-01-25
+3711969	Corregimiento Cordillera	Corregimiento Cordillera	Corregimiento Cordillera	8.76667	-82.61667	A	ADM3	PA		02	0403	040303		590		1374	America/Panama	2018-01-22
+3712157	Corregimiento Coclé del Norte	Corregimiento Cocle del Norte	Corregimiento Cocle del Norte,Corregimiento Coclé del Norte	8.98333	-80.65	A	ADM3	PA		04	0303	030302		3555		87	America/Panama	2018-01-22
+3712163	Corregimiento Coclé	Corregimiento Cocle	Corregimiento Cocle,Corregimiento Coclé	8.41667	-80.41667	A	ADM3	PA		03	0206	020603		4100		17	America/Panama	2018-01-22
+3712171	Corregimiento Cochea	Corregimiento Cochea	Corregimiento Cochea	8.56667	-82.38333	A	ADM3	PA		02	0406	040603		2447		219	America/Panama	2018-01-22
+3712221	Corregimiento Cirí Grande	Corregimiento Ciri Grande	Corregimiento Ciri Grande,Corregimiento Cirí Grande	8.78333	-80.1	A	ADM3	PA		13	1303	130306		3635		260	America/Panama	2023-01-26
+3712224	Corregimiento Cirí de los Sotos	Corregimiento Ciri de los Sotos	Corregimiento Ciri de los Sotos,Corregimiento Cirí de los Sotos	8.93333	-80.1	A	ADM3	PA		13	1303	130305		2288		168	America/Panama	2023-01-26
+3712229	Corregimiento Ciricito	Corregimiento Ciricito	Corregimiento Ciricito	8.99058	-80.02632	A	ADM3	PA		04	0301	030105		2900		111	America/Panama	2018-01-25
+3712290	Corregimiento Chupampa	Corregimiento Chupampa	Corregimiento Chupampa	8.08199	-80.78896	A	ADM3	PA		06	0607	060702		1231		33	America/Panama	2018-01-25
+3712294	Corregimiento Chupá	Corregimiento Chupa	Corregimiento Chupa,Corregimiento Chupá	7.78271	-80.57133	A	ADM3	PA		07	0704	070405		520		139	America/Panama	2018-01-25
+3712311	Corregimiento Chumical	Corregimiento Chumical	Corregimiento Chumical	7.83716	-80.7391	A	ADM3	PA		06	0602	060203		665		163	America/Panama	2018-01-25
+3712383	Corregimiento Chitré	Corregimiento Chitre	Corregimiento Chitre,Corregimiento Chitré	7.95325	-80.43635	A	ADM3	PA		06	0601	060101		9092		14	America/Panama	2018-01-25
+3712386	Corregimiento Chitra	Corregimiento Chitra	Corregimiento Chitra	8.5	-80.88333	A	ADM3	PA		10	0902	090203		1301		966	America/Panama	2018-01-22
+3712400	Corregimiento Chiriquí Grande	Corregimiento Chiriqui Grande	Corregimiento Chiriqui Grande,Corregimiento Chiriquí Grande	8.94568	-82.14265	A	ADM3	PA		01	0103	010301		3014		119	America/Panama	2018-01-25
+3712417	Corregimiento Chiriquí	Corregimiento Chiriqui	Corregimiento Chiriqui,Corregimiento Chiriquí	8.36667	-82.3	A	ADM3	PA		02	0406	040604		4269		12	America/Panama	2018-01-22
+3712447	Corregimiento Chimán	Corregimiento Chiman	Corregimiento Chiman,Corregimiento Chimán	8.75324	-78.54758	A	ADM3	PA		08	0806	080601		1205		44	America/Panama	2018-01-25
+3712454	Corregimiento Chilibre	Corregimiento Chilibre	Corregimiento Chilibre	9.33333	-79.41667	A	ADM3	PA		08	0808	080815		53955		735	America/Panama	2018-01-22
+3712458	Corregimiento Chiguirí Arriba	Corregimiento Chiguiri Arriba	Chiquiri Arriba,Chiquirí Arriba,Corregimiento Chiguiri Arriba,Corregimiento Chiguirí Arriba	8.71667	-80.18333	A	ADM3	PA		03	0206	020604		10018		546	America/Panama	2018-01-22
+3712477	Corregimiento Chichica	Corregimiento Chichica		8.37642	-81.66362	A	ADM3	PA		12	1203	120301		5368		525	America/Panama	2018-01-25
+3712489	Corregimiento Chicá	Corregimiento Chica	Corregimiento Chica,Corregimiento Chicá	8.67393	-79.94009	A	ADM3	PA		13	1304	130405		713		552	America/Panama	2023-01-26
+3712503	Corregimiento Chepo	Corregimiento Chepo	Corregimiento Chepo	9.16667	-79.08333	A	ADM3	PA		08	0805	080501		20420		20	America/Panama	2018-01-22
+3712504	Corregimiento Chepo	Corregimiento Chepo	Corregimiento Chepo	7.7	-80.81667	A	ADM3	PA		06	0602	060202		1415		585	America/Panama	2018-01-22
+3712509	Corregimiento Chepillo	Corregimiento Chepillo	Corregimiento Chepillo	8.95151	-79.12772	A	ADM3	PA		08	0805	080503		255		0	America/Panama	2018-01-25
+3712513	Corregimiento Chepigana	Corregimiento Chepigana	Corregimiento Chepigana	8.23333	-78.03333	A	ADM3	PA		05	0501	050103		704		17	America/Panama	2018-01-22
+3712559	Corregimiento de Changuinola	Corregimiento de Changuinola	Corregimiento de Changuinola	9.47091	-82.49477	A	ADM3	PA		01	0102	010201		31223		2	America/Panama	2018-01-25
+3712576	Corregimiento Chame	Corregimiento Chame	Corregimiento Chame	8.58747	-79.85696	A	ADM3	PA		13	1304	130401		2432		19	America/Panama	2023-01-26
+3712610	Corregimiento Cerro Viejo	Corregimiento Cerro Viejo	Corregimiento Cerro Viejo	8.25051	-81.56752	A	ADM3	PA		02	0413	041303		1768		381	America/Panama	2018-01-25
+3712635	Corregimiento Cerro Punta	Corregimiento Cerro Punta	Corregimiento Cerro Punta	8.85	-82.58333	A	ADM3	PA		02	0414	041402		7754		1925	America/Panama	2023-01-26
+3712638	Corregimiento Cerro Puerco	Corregimiento Cerro Puerco		8.35	-81.75	A	ADM3	PA		12	1203	120305		4327		385	America/Panama	2018-01-22
+3712642	Corregimiento Cerro Plata	Corregimiento Cerro Plata	Cerro de Plata,Corregimiento Cerro Plata	8.30083	-81.34975	A	ADM3	PA		10	0903	090302		1594		205	America/Panama	2018-01-25
+3712690	Corregimiento Cerro Largo	Corregimiento Cerro Largo	Corregimiento Cerro Largo	7.86667	-80.83333	A	ADM3	PA		06	0604	060402		1478		304	America/Panama	2018-01-22
+3712696	Corregimiento Cerro Iglesias	Corregimiento Cerro Iglesias		8.30919	-81.80273	A	ADM3	PA		12	1204	120401		4123		540	America/Panama	2018-01-25
+3712731	Corregimiento Cerro de Patena	Corregimiento Cerro de Patena	Corregimiento Cerro de Patena,Patena	8.46667	-81.93333	A	ADM3	PA		12	1201	120105		1730		869	America/Panama	2018-01-22
+3712738	Corregimiento Cerro de Casa	Corregimiento Cerro de Casa	Corregimiento Cerro de Casa	8.1	-81.56667	A	ADM3	PA		10	0905	090502		2343		208	America/Panama	2018-01-22
+3712759	Corregimiento Cerro Caña	Corregimiento Cerro Cana		8.32709	-81.63542	A	ADM3	PA		12	1203	120304		2146		339	America/Panama	2018-01-25
+3712779	Corregimiento Cerro Banco	Corregimiento Cerro Banco	Corregimiento Cerro Banco,El Banco	8.45	-82.01667	A	ADM3	PA		12	1201	120104		3913		325	America/Panama	2018-01-22
+3712807	Corregimiento Cermeño	Corregimiento Cermeno	Corregimiento Cermeno,Corregimiento Cermeño	8.73333	-79.8	A	ADM3	PA		13	1303	130304		1946		16	America/Panama	2023-01-26
+3712875	Corregimiento Cativé	Corregimiento Cative	Corregimiento Cative,Corregimiento Cativé	7.86667	-81.36667	A	ADM3	PA		10	0911	091104		822		257	America/Panama	2018-01-22
+3712883	Corregimiento Cativá	Corregimiento Cativa	Corregimiento Cativa,Corregimiento Cativá	9.35	-79.83333	A	ADM3	PA		04	0301	030104		34558		73	America/Panama	2018-01-22
+3712937	Corregimiento Cascabel	Corregimiento Cascabel		8.56667	-81.86667	A	ADM3	PA		12	1202	120202		1225		1778	America/Panama	2018-01-22
+3713046	Corregimiento Capira	Corregimiento Capira	Corregimiento Capira	8.76387	-79.84492	A	ADM3	PA		13	1303	130301		5181		204	America/Panama	2023-01-26
+3713049	Corregimiento Capellanía	Corregimiento Capellania	Corregimiento Capellania,Corregimiento Capellanía	8.3	-80.53333	A	ADM3	PA		03	0204	020402		4512		14	America/Panama	2018-01-22
+3713076	Corregimiento Canquintú	Corregimiento Canquintu	Corregimiento Canquintu,Corregimiento Canquintú	8.84403	-81.81999	A	ADM3	PA		12	1206	120605		5009		40	America/Panama	2018-01-23
+3713130	Corregimiento Cañita	Corregimiento Canita	Corregimiento Canita,Corregimiento Cañita	9.28333	-78.85	A	ADM3	PA		08	0805	080502		2514		194	America/Panama	2018-01-22
+3713185	Corregimiento Cañazas	Corregimiento Canazas	Corregimiento Canazas,Corregimiento Cañazas	8.31968	-81.21949	A	ADM3	PA		10	0903	090301		4836		196	America/Panama	2018-01-25
+3713207	Corregimiento Cañaveral	Corregimiento Canaveral	Corregimiento Canaveral,Corregimiento Cañaveral	8.53333	-80.4	A	ADM3	PA		03	0206	020602		7517		64	America/Panama	2018-01-22
+3713211	Corregimiento Cañas Gordas	Corregimiento Canas Gordas	Corregimiento Canas Gordas,Corregimiento Cañas Gordas	8.73333	-82.85	A	ADM3	PA		02	0410	041003		3090		622	America/Panama	2018-01-22
+3713223	Corregimiento Cañas	Corregimiento Canas	Corregimiento Canas,Corregimiento Cañas	7.45	-80.3	A	ADM3	PA		07	0707	070703		650		19	America/Panama	2018-01-22
+3713314	Corregimiento Campana	Corregimiento Campana	Corregimiento Campana	8.68333	-79.9	A	ADM3	PA		13	1303	130303		2067		342	America/Panama	2023-01-26
+3713331	Corregimiento Camogantí	Corregimiento Camoganti	Corregimiento Camoganti,Corregimiento Camogantí	8.1	-77.85	A	ADM3	PA		05	0501	050102		282		20	America/Panama	2021-10-06
+3713347	Corregimiento Camarón Arriba	Corregimiento Camaron Arriba		8.36667	-82.01667	A	ADM3	PA		12	1201	120103		2977		202	America/Panama	2018-01-22
+3713388	Corregimiento Calovébora	Corregimiento Calovebora	Corregimiento Calovebora,Corregimiento Calovébora	8.71667	-81	A	ADM3	PA		10	0909	090902		4397		332	America/Panama	2018-01-22
+3713394	Corregimiento Calobre	Corregimiento Calobre	Corregimiento Calobre	8.3	-80.83333	A	ADM3	PA		10	0902	090201		2514		113	America/Panama	2018-01-22
+3713412	Corregimiento Calidonia	Corregimiento Calidonia	Barrio de Calidonia,Corregimiento Calidonia,La Exposicion,La Exposición	8.96439	-79.53637	A	ADM3	PA		08	0808	080804		19108		12	America/Panama	2018-01-22
+3713413	Corregimiento Calidonia	Corregimiento Calidonia	Corregimiento Calidonia	7.91667	-81.45	A	ADM3	PA		10	0911	091103		1419		368	America/Panama	2018-01-22
+3713429	Corregimiento Caldera	Corregimiento Caldera	Corregimiento Caldera	8.70501	-82.34375	A	ADM3	PA		02	0404	040402		1560		586	America/Panama	2018-01-25
+3713485	Corregimiento Caimito	Corregimiento Caimito	Corregimiento Caimito	8.81667	-79.96667	A	ADM3	PA		13	1303	130302		1635		245	America/Panama	2023-01-26
+3713521	Corregimiento Cacique	Corregimiento Cacique	Corregimiento Cacique	9.6	-79.61667	A	ADM3	PA		04	0304	030402		246		69	America/Panama	2018-01-22
+3713565	Corregimiento Cabuya	Corregimiento Cabuya	Corregimiento Cabuya	8.56667	-79.95	A	ADM3	PA		13	1304	130404		1666		110	America/Panama	2023-01-26
+3713566	Corregimiento Cabuya	Corregimiento Cabuya	Corregimiento Cabuya	8.53773	-80.14552	A	ADM3	PA		03	0202	020202		2119		365	America/Panama	2018-01-25
+3713567	Corregimiento Cabuya	Corregimiento Cabuya	Corregimiento Cabuya	8.01667	-80.63333	A	ADM3	PA		06	0605	060502		1092		53	America/Panama	2018-01-22
+3713666	Corregimiento Bugaba	Corregimiento Bugaba	Corregimiento Bugaba	8.47926	-82.62076	A	ADM3	PA		02	0405	040503		3718		138	America/Panama	2018-01-25
+3713672	Corregimiento Buenos Aires	Corregimiento Buenos Aires	Corregimiento Buenos Aires	8.65	-79.95	A	ADM3	PA		13	1304	130403		2030		240	America/Panama	2023-01-26
+3713703	Corregimiento Buena Vista	Corregimiento Buena Vista	Corregimiento Buena Vista	9.28333	-79.68333	A	ADM3	PA		04	0301	030103		14285		84	America/Panama	2018-01-22
+3713767	Corregimiento Brujas	Corregimiento Brujas	Corregimiento Brujas	8.56667	-78.5	A	ADM3	PA		08	0806	080602		688		8	America/Panama	2018-01-22
+3713782	Corregimiento Breñón	Corregimiento Brenon	Corregimiento Brenon,Corregimiento Breñón	8.63333	-82.81667	A	ADM3	PA		02	0410	041002		755		634	America/Panama	2018-01-22
+3713840	Corregimiento Boró	Corregimiento Boro	Corregimiento Boro,Corregimiento Boró	8.15	-81.33333	A	ADM3	PA		10	0904	090403		1757		131	America/Panama	2018-01-22
+3713867	Corregimiento Boquerón	Corregimiento Boqueron	Corregimiento Boqueron,Corregimiento Boquerón	8.53333	-82.58333	A	ADM3	PA		02	0403	040301		3881		280	America/Panama	2018-01-22
+3713956	Corregimiento Bocas del Toro	Corregimiento Bocas del Toro	Corregimiento Bocas del Toro	9.38698	-82.27141	A	ADM3	PA		01	0101	010101		7366		48	America/Panama	2018-01-25
+3714018	Corregimiento Boca del Monte	Corregimiento Boca del Monte	Corregimiento Boca del Monte	8.38333	-82.13333	A	ADM3	PA		02	0412	041203		2143		18	America/Panama	2018-01-22
+3714042	Corregimiento Boca de Cupe	Corregimiento Boca de Cupe	Corregimiento Boca de Cupe	7.8	-77.66667	A	ADM3	PA		05	0502	050202		1167		520	America/Panama	2018-01-22
+3714053	Corregimiento Boca de Balsa	Corregimiento Boca de Balsa		8.56667	-82	A	ADM3	PA		12	1201	120102		3053		442	America/Panama	2018-01-22
+3714062	Corregimiento Boca Chica	Corregimiento Boca Chica	Corregimiento Boca Chica	8.23333	-82.23333	A	ADM3	PA		02	0412	041202		441		22	America/Panama	2018-01-22
+3714097	Corregimiento Bisvalles	Corregimiento Bisvalles	Corregimiento Bisvalles	8.2	-81.23333	A	ADM3	PA		10	0904	090402		2185		79	America/Panama	2018-01-22
+3714120	Corregimiento Bijagual	Corregimiento Bijagual	Corregimiento Bijagual	8.53333	-82.33333	A	ADM3	PA		02	0406	040602		732		143	America/Panama	2018-01-22
+3714133	Corregimiento Betania	Corregimiento Betania	Bethania,Corregimiento Betania	8.99582	-79.53068	A	ADM3	PA		08	0808	080806		46116		43	America/Panama	2018-01-22
+3714165	Corregimiento Bella Vista	Corregimiento Bella Vista	Corregimiento Bella Vista	8.98219	-79.52995	A	ADM3	PA		08	0808	080807		30136		41	America/Panama	2018-01-22
+3714178	Corregimiento Belisario Porras	Corregimiento Belisario Porras	Corregimiento Belisario Porras	9.05106	-79.50035	A	ADM3	PA		08	0810	081002		49367		54	America/Panama	2018-01-22
+3714199	Corregimiento Bejuco	Corregimiento Bejuco	Corregimiento Bejuco	8.63333	-79.9	A	ADM3	PA		13	1304	130402		5548		30	America/Panama	2023-01-26
+3714228	Corregimiento Bayano	Corregimiento Bayano	Corregimiento Bayano	7.58333	-80.43333	A	ADM3	PA		07	0702	070203		660		448	America/Panama	2018-01-22
+3714261	Corregimiento Bastimentos	Corregimiento Bastimentos	Corregimiento Bastimentos	9.3	-82.16667	A	ADM3	PA		01	0101	010102		1954		11	America/Panama	2018-02-06
+3714292	Corregimiento Barrio Balboa	Corregimiento Barrio Balboa	Corregimiento Barrio Balboa	8.86667	-79.78333	A	ADM3	PA		13	1307	130701		29589		73	America/Panama	2023-01-26
+3714294	Corregimiento Barrio Colón	Corregimiento Barrio Colon	Corregimiento Barrio Colon,Corregimiento Barrio Colón	8.9	-79.75	A	ADM3	PA		13	1307	130702		33214		62	America/Panama	2023-01-26
+3714344	Corregimiento Barnizal	Corregimiento Barnizal	Corregimiento Barnizal	8.4	-80.75	A	ADM3	PA		10	0902	090202		435		193	America/Panama	2018-01-22
+3714438	Corregimiento Bajos de Güera	Corregimiento Bajos de Gueera	Corregimiento Bajos de Guera,Corregimiento Bajos de Güera	7.56667	-80.61667	A	ADM3	PA		07	0704	070403		619		181	America/Panama	2018-01-22
+3714503	Corregimiento Bajo Corral	Corregimiento Bajo Corral	Corregimiento Bajo Corral	7.58506	-80.26245	A	ADM3	PA		07	0702	070202		483		222	America/Panama	2018-01-25
+3714512	Corregimiento Bajo Boquete	Corregimiento Bajo Boquete	Boquete,Corregimiento Bajo Boquete	8.77015	-82.44472	A	ADM3	PA		02	0404	040401		4493		1266	America/Panama	2018-01-25
+3714531	Corregimiento Bahía Honda	Corregimiento Bahia Honda	Corregimiento Bahia Honda,Corregimiento Bahía Honda	7.78333	-81.46667	A	ADM3	PA		10	0911	091102		1037		171	America/Panama	2018-01-22
+3714532	Corregimiento Bahía Honda	Corregimiento Bahia Honda	Corregimiento Bahia Honda,Corregimiento Bahía Honda	7.71667	-80.43333	A	ADM3	PA		07	0704	070402		646		176	America/Panama	2018-01-22
+3714537	Corregimiento Bahía Azul	Corregimiento Bahia Azul		9.06994	-81.84987	A	ADM3	PA		12	1207	120702		3621		20	America/Panama	2018-01-25
+3714542	Corregimiento Bágala	Corregimiento Bagala	Corregimiento Bagala,Corregimiento Bágala	8.51667	-82.53333	A	ADM3	PA		02	0403	040302		2330		217	America/Panama	2018-01-22
+3714596	Corregimiento Atalaya	Corregimiento Atalaya	Corregimiento Atalaya	8.03333	-80.91667	A	ADM3	PA		10	0901	090101		4924		84	America/Panama	2018-01-22
+3714610	Corregimiento Aserrío de Gariché	Corregimiento Aserrio de Gariche	Corregimiento Aserrio de Gariche,Corregimiento Aserrío de Gariché	8.5	-82.81667	A	ADM3	PA		02	0405	040502		11072		56	America/Panama	2018-01-22
+3714636	Corregimiento Arraiján	Corregimiento Arraijan	Corregimiento Arraijan,Corregimiento Arraiján	8.95	-79.65	A	ADM3	PA		13	1301	130101		41041		137	America/Panama	2023-01-26
+3714640	Corregimiento Arosemena	Corregimiento Arosemena	Corregimiento Arosemena	8.95	-79.95	A	ADM3	PA		13	1307	130704		426		124	America/Panama	2023-01-26
+3714671	Corregimiento Arenas	Corregimiento Arenas	Corregimiento Arenas	7.36472	-80.73608	A	ADM3	PA		10	0912	091202		663		882	America/Panama	2018-01-25
+3714709	Corregimiento Antón	Corregimiento Anton	Corregimiento Anton,Corregimiento Antón	8.4	-80.26667	A	ADM3	PA		03	0202	020201		9790		37	America/Panama	2018-01-22
+3714732	Corregimiento Ancón	Corregimiento Ancon	Corregimiento Ancon,Corregimiento Ancón	9.05	-79.61667	A	ADM3	PA		08	0808	080814		29761		85	America/Panama	2018-01-22
+3714750	Corregimiento Amelia Denis de Icaza	Corregimiento Amelia Denis de Icaza	Corregimiento Amelia Denis de Icaza	9.03688	-79.51649	A	ADM3	PA		08	0810	081001		38397		52	America/Panama	2018-01-22
+3714763	Corregimiento Amador	Corregimiento Amador	Corregimiento Amador	9.05	-79.91667	A	ADM3	PA		13	1307	130703		2996		48	America/Panama	2023-01-26
+3714770	Corregimiento Altos de Güera	Corregimiento Altos de Gueera	Altos de Guera,Corregimiento Altos de Guera,Corregimiento Altos de Güera	7.5	-80.6	A	ADM3	PA		07	0707	070702		632		217	America/Panama	2020-06-11
+3714872	Corregimiento Alto Caballero	Corregimiento Alto Caballero		8.31667	-81.66667	A	ADM3	PA		12	1203	120302		3854		201	America/Panama	2018-01-22
+3714938	Corregimiento Alanje	Corregimiento Alanje	Corregimiento Alanje	8.40249	-82.55818	A	ADM3	PA		02	0401	040101		2406		38	America/Panama	2018-01-25
+3714955	Corregimiento Ailigandí	Corregimiento Ailigandi		9.23333	-78.15	A	ADM3	PA		09	1001	100102		11644		140	America/Panama	2018-01-22
+3715038	Corregimiento Aguadulce	Corregimiento Aguadulce	Corregimiento Aguadulce	8.23072	-80.57684	A	ADM3	PA		03	0201	020101		8703		24	America/Panama	2018-01-25
+3715048	Corregimiento Agua de Salud	Corregimiento Agua de Salud		8.45	-81.41667	A	ADM3	PA		12	1205	120502		3049		366	America/Panama	2018-01-22
+3715160	Corregimiento Achiote	Corregimiento Achiote	Corregimiento Achiote	9.2	-80.03333	A	ADM3	PA		04	0302	030202		771		40	America/Panama	2018-01-22
+9072771	Kuna de Madugandí	Kuna de Madugandi		9.14033	-78.37243	A	ADM3	PA		08	0805	080507		4271		172	America/Panama	2018-01-22
+9072772	Kuna de Wargandí	Kuna de Wargandi		8.857	-77.978	A	ADM3	PA		05	0502	050209		1914		95	America/Panama	2018-01-22
+10109403	Corregimiento Barrio Sur	Corregimiento Barrio Sur		9.35311	-79.89408	A	ADM3	PA		04	0301	030102		14076		5	America/Panama	2018-01-22
+10109411	Corregimiento Barrio Norte	Corregimiento Barrio Norte		9.36289	-79.90108	A	ADM3	PA		04	0301	030101		20579		4	America/Panama	2018-01-22
+10348932	Corregimiento Omar Torrijos	Corregimiento Omar Torrijos	Corregimiento Omar Torrijos	9.06328	-79.50832	A	ADM3	PA		08	0810	081008		36452		102	America/Panama	2018-01-22
+10348933	Corregimiento Arnulfo Arias	Corregimiento Arnulfo Arias	Corregimiento Arnulfo Arias	9.06452	-79.47946	A	ADM3	PA		08	0810	081006		31650		104	America/Panama	2018-01-22
+10348934	Corregimiento Rufina Alfaro	Corregimiento Rufina Alfaro	Corregimiento Rufina Alfaro	9.06523	-79.44687	A	ADM3	PA		08	0810	081009		42742		27	America/Panama	2018-01-22
+11808651	Tierra Oscura	Tierra Oscura		9.18802	-82.21758	A	ADM3	PA		01	0101	010105		2661		34	America/Panama	2018-01-25
+11808653	Santa Fe	Santa Fe		8.68507	-78.15398	A	ADM3	PA		05	0503	050316		6923		24	America/Panama	2023-01-26
+11808654	Cauchero	Cauchero		9.12892	-82.36032	A	ADM3	PA		01	0101	010103		2424		68	America/Panama	2018-01-22
+11808656	El Teribe	El Teribe		9.27576	-82.75022	A	ADM3	PA		01	0102	010204		2578		1731	America/Panama	2018-01-22
+11808657	Rodolfo Aguilar Delgado	Rodolfo Aguilar Delgado		8.37002	-82.89417	A	ADM3	PA		02	0402	040205		15544		31	America/Panama	2018-01-22
+11808658	Oria Arriba	Oria Arriba		7.47631	-80.18861	A	ADM3	PA		07	0705	070505		297		119	America/Panama	2018-01-22
+11808659	Las Tablas	Las Tablas		9.5329	-82.74268	A	ADM3	PA		01	0102	010207		9286		302	America/Panama	2018-01-22
+11808660	Justo Fidel Palacios	Justo Fidel Palacios		8.32721	-81.53553	A	ADM3	PA		02	0413	041305		656		333	America/Panama	2018-01-22
+11808661	Cochigro	Cochigro		9.26424	-82.55987	A	ADM3	PA		01	0102	010208		1812		550	America/Panama	2018-01-22
+11808663	Las Delicias	Las Delicias		9.608	-82.849	A	ADM3	PA		01	0102	010210		1484		60	America/Panama	2025-07-07
+11808664	Meteti	Meteti		8.58055	-77.92224	A	ADM3	PA		05	0502	050208		7976		31	America/Panama	2018-01-22
+11808666	Agua Buena	Agua Buena		7.82068	-80.39971	A	ADM3	PA		07	0703	070313		1117		70	America/Panama	2018-01-22
+11808667	Rambala	Rambala		8.94833	-82.17891	A	ADM3	PA		01	0103	010305		1682		13	America/Panama	2018-01-22
+11808669	Belisario Frias	Belisario Frias		9.07674	-79.4907	A	ADM3	PA		08	0810	081007		44571		77	America/Panama	2018-01-22
+11808670	Cerro Silvestre	Cerro Silvestre		8.93315	-79.67995	A	ADM3	PA		13	1301	130108		23592		67	America/Panama	2023-01-26
+11808671	Barrios Unidos	Barrios Unidos		8.20638	-80.52363	A	ADM3	PA		03	0201	020105		9390		5	America/Panama	2018-01-22
+11808672	El Cacao	El Cacao		7.27485	-80.78385	A	ADM3	PA		10	0912	091203		529		769	America/Panama	2018-01-22
+11808673	Rio Sabalo	Rio Sabalo		7.90309	-78.21031	A	ADM3	PA		11	1102	110201		1800		75	America/Panama	2018-01-22
+11808674	Jingurudo	Jingurudo		7.76891	-78.06929	A	ADM3	PA		11	1102	110202		486		153	America/Panama	2018-01-22
+11808675	El Hato	El Hato		7.77821	-80.38102	A	ADM3	PA		07	0701	070109		374		109	America/Panama	2018-01-22
+11808676	Lajas Blancas	Lajas Blancas		8.54513	-77.7111	A	ADM3	PA		11	1101	110102		3735		60	America/Panama	2018-01-22
+11808677	Cirilo Guainora	Cirilo Guainora		8.15023	-77.48586	A	ADM3	PA		11	1101	110101		2197		304	America/Panama	2018-01-22
+11808678	Caballero	Caballero		8.53305	-80.20358	A	ADM3	PA		03	0202	020210		3501		281	America/Panama	2018-01-22
+11808679	Cebaco	Cebaco		7.53209	-81.16001	A	ADM3	PA		10	0906	090606		378		137	America/Panama	2018-01-25
+11808680	Los Milagros	Los Milagros		8.15915	-81.11213	A	ADM3	PA		10	0904	090406		1096		71	America/Panama	2018-01-22
+11808681	Niba	Niba		8.56144	-81.95393	A	ADM3	PA		12	1201	120108		3491		763	America/Panama	2018-01-22
+11808683	Menchaca	Menchaca		7.88631	-80.7664	A	ADM3	PA		06	0604	060407		1517		127	America/Panama	2018-01-22
+11808684	San Antonio	San Antonio		8.07111	-80.90312	A	ADM3	PA		10	0901	090105		2966		77	America/Panama	2018-01-22
+11808685	Las Llanas	Las Llanas		7.63255	-80.73316	A	ADM3	PA		06	0603	060309		599		485	America/Panama	2018-01-22
+11808686	Catorce De Noviembre	Catorce De Noviembre		7.93658	-81.1121	A	ADM3	PA		10	0907	090705		787		53	America/Panama	2018-01-22
+11808687	Krua	Krua		8.54173	-81.55041	A	ADM3	PA		12	1203	120306		2180		1443	America/Panama	2018-01-22
+11808688	Pasiga	Pasiga		8.90018	-78.82479	A	ADM3	PA		08	0806	080604		439		35	America/Panama	2018-01-22
+11808689	San Jose	San Jose		8.36239	-81.05874	A	ADM3	PA		10	0908	090806		2555		261	America/Panama	2018-01-22
+11808690	Santa Rosa	Santa Rosa		8.86012	-80.11141	A	ADM3	PA		13	1303	130313		1767		156	America/Panama	2023-01-26
+11808691	Los Canelos	Los Canelos		8.11143	-80.72232	A	ADM3	PA		06	0607	060705		1575		35	America/Panama	2018-01-22
+11808692	Rio Luis	Rio Luis		8.64971	-81.14911	A	ADM3	PA		10	0909	090907		2204		194	America/Panama	2018-01-22
+11808693	Torti	Torti		8.94881	-78.50377	A	ADM3	PA		08	0805	080508		9297		212	America/Panama	2018-01-22
+11808694	Man Creek	Man Creek		8.8555	-82.07526	A	ADM3	PA		12	1208	120804		4248		260	America/Panama	2023-01-26
+11808695	Cambutal	Cambutal		7.29049	-80.56425	A	ADM3	PA		07	0707	070710		511		531	America/Panama	2018-01-22
+11808696	Guibale	Guibale		8.51252	-81.35717	A	ADM3	PA		12	1205	120509		1098		704	America/Panama	2018-01-22
+11808697	Veladero	Veladero		8.23784	-81.64287	A	ADM3	PA		02	0413	041309		1727		257	America/Panama	2018-01-22
+11808698	El Bale	El Bale		8.3459	-81.37682	A	ADM3	PA		12	1205	120505		813		284	America/Panama	2021-01-11
+11808699	El Paredon	El Paredon		8.48729	-81.2279	A	ADM3	PA		12	1205	120506		1060		1009	America/Panama	2018-01-22
+11808701	Isla De Canas	Isla De Canas		7.41678	-80.32821	A	ADM3	PA		07	0707	070711		397		13	America/Panama	2018-01-22
+11808702	Bisira	Bisira		8.91812	-81.84385	A	ADM3	PA		12	1206	120601		3200		28	America/Panama	2018-01-22
+11808703	Sabana Grande	Sabana Grande		7.86736	-80.65597	A	ADM3	PA		06	0606	060607		1591		128	America/Panama	2018-01-22
+11808704	Urraca	Urraca		8.15506	-80.89849	A	ADM3	PA		10	0910	091012		1399		71	America/Panama	2018-01-22
+11808705	Lajas Adentro	Lajas Adentro		8.23204	-81.88998	A	ADM3	PA		02	0411	041103		741		46	America/Panama	2018-01-25
+11808707	Dominical	Dominical		8.7132	-82.75715	A	ADM3	PA		02	0410	041007		998		793	America/Panama	2018-01-22
+11808708	Santa Clara	Santa Clara		8.84499	-82.77178	A	ADM3	PA		02	0410	041008		2642		1203	America/Panama	2018-01-22
+11808709	Rio Chiriqui	Rio Chiriqui		8.77113	-81.60286	A	ADM3	PA		12	1207	120705		3658		204	America/Panama	2018-01-22
+11808711	La Carrillo	La Carrillo		7.98658	-80.89823	A	ADM3	PA		10	0901	090104		630		131	America/Panama	2018-01-22
+11808713	El Pedregoso	El Pedregoso		7.93008	-80.63943	A	ADM3	PA		06	0606	060605		1386		80	America/Panama	2018-01-22
+11808714	Las Cruces	Las Cruces		8.34568	-81.31297	A	ADM3	PA		10	0903	090308		1364		242	America/Panama	2018-01-22
+11808715	El Picador	El Picador		8.4222	-81.29088	A	ADM3	PA		10	0903	090303		3065		586	America/Panama	2018-01-22
+11808716	Kusapin	Kusapin		9.15924	-81.87928	A	ADM3	PA		12	1207	120701		3080		27	America/Panama	2018-01-22
+11808717	El Limon	El Limon		8.06328	-80.74854	A	ADM3	PA		06	0607	060704		1221		65	America/Panama	2018-01-22
+11808718	Nibra	Nibra		8.30098	-81.59267	A	ADM3	PA		12	1203	120308		2091		176	America/Panama	2018-01-25
+11808719	San Jose	San Jose		8.36926	-81.42422	A	ADM3	PA		10	0903	090305		1936		202	America/Panama	2018-01-22
+11808720	Rincon Hondo	Rincon Hondo		7.83884	-80.61326	A	ADM3	PA		06	0606	060608		1416		74	America/Panama	2018-01-22
+11808721	Union Santena	Union Santena		8.837	-78.68424	A	ADM3	PA		08	0806	080605		920		242	America/Panama	2018-01-22
+11808722	24 De Diciembre	24 De Diciembre		9.13874	-79.39497	A	ADM3	PA		08	0808	080821		65404		330	America/Panama	2018-01-25
+11808723	Carlos Santana Avila	Carlos Santana Avila		8.10109	-80.83828	A	ADM3	PA		10	0910	091009		4059		35	America/Panama	2018-01-22
+11808724	Canto Del Llano	Canto Del Llano		8.17112	-80.96147	A	ADM3	PA		10	0910	091007		13331		67	America/Panama	2018-01-22
+11808725	Nargana	Nargana		9.39067	-78.84866	A	ADM3	PA		09	1001	100101		14060		223	America/Panama	2018-01-22
+11808726	Burunga	Burunga		8.99484	-79.66477	A	ADM3	PA		13	1301	130107		39102		148	America/Panama	2023-01-26
+11808727	Costa Hermosa	Costa Hermosa		7.9375	-81.05904	A	ADM3	PA		10	0906	090607		1550		20	America/Panama	2018-01-22
+11808728	Punta Pena	Punta Pena		8.89051	-82.17562	A	ADM3	PA		01	0103	010303		2520		252	America/Panama	2018-01-22
+11808729	Baco	Baco		8.36647	-82.7722	A	ADM3	PA		02	0402	040204		7334		10	America/Panama	2018-01-22
+11808730	El Empalme	El Empalme		9.40238	-82.55058	A	ADM3	PA		01	0102	010206		18653		15	America/Panama	2018-01-22
+11808731	La Gloria	La Gloria		9.38488	-82.43975	A	ADM3	PA		01	0102	010209		3046		7	America/Panama	2018-01-22
+11808732	Nuevo Mexico	Nuevo Mexico		8.41403	-82.74235	A	ADM3	PA		02	0401	040109		2101		14	America/Panama	2018-01-22
+11808733	Canta Gallo	Canta Gallo		8.38442	-82.62202	A	ADM3	PA		02	0401	040108		577		19	America/Panama	2018-01-22
+11808734	Miramar	Miramar		8.98503	-82.2208	A	ADM3	PA		01	0103	010302		1232		21	America/Panama	2018-01-22
+11808736	Villa Lourdes	Villa Lourdes		7.81225	-80.46837	A	ADM3	PA		07	0703	070314		1075		87	America/Panama	2018-01-22
+11808737	Bajo Cedro	Bajo Cedro		9.1187	-82.3003	A	ADM3	PA		01	0103	010306		1404		28	America/Panama	2018-01-22
+11808738	Bella Vista	Bella Vista		8.19359	-81.60954	A	ADM3	PA		02	0413	041302		683		284	America/Panama	2018-01-22
+11808739	Quebrada El Ciprian	Quebrada El Ciprian		7.68463	-80.75697	A	ADM3	PA		06	0602	060207		919		460	America/Panama	2018-01-22
+11808740	Jaramillo	Jaramillo		8.76744	-82.38238	A	ADM3	PA		02	0404	040405		2655		1634	America/Panama	2018-01-22
+11808741	Alto Boquete	Alto Boquete		8.67698	-82.42379	A	ADM3	PA		02	0404	040404		6290		564	America/Panama	2018-01-22
+11808742	Llano Bonito	Llano Bonito		7.99024	-80.41201	A	ADM3	PA		06	0601	060104		9798		16	America/Panama	2018-01-22
+11808743	Los Naranjos	Los Naranjos		8.82727	-82.4705	A	ADM3	PA		02	0404	040406		4596		1616	America/Panama	2018-01-22
+11808744	San Juan Bautista	San Juan Bautista		7.96736	-80.41383	A	ADM3	PA		06	0601	060105		11823		20	America/Panama	2018-01-22
+11808745	Manuel Ortega	Manuel Ortega		8.32136	-77.49515	A	ADM3	PA		11	1101	110103		1783		326	America/Panama	2018-01-22
+11808746	Las Lomas	Las Lomas		8.61379	-80.65148	A	ADM3	PA		03	0203	020306		2072		514	America/Panama	2018-01-22
+11808747	Union Del Norte	Union Del Norte		8.02376	-81.07728	A	ADM3	PA		10	0906	090608		697		49	America/Panama	2018-01-22
+11808748	El Tijera	El Tijera		7.83745	-80.92495	A	ADM3	PA		06	0604	060406		588		327	America/Panama	2018-01-22
+11808749	El Puerto	El Puerto		8.1952	-81.78003	A	ADM3	PA		02	0409	040904		720		28	America/Panama	2018-01-22
+11808750	El Bongo	El Bongo		8.60583	-82.61243	A	ADM3	PA		02	0405	040513		1448		566	America/Panama	2018-01-22
+11808751	El Porvenir	El Porvenir		8.27636	-81.83747	A	ADM3	PA		02	0409	040903		1325		185	America/Panama	2018-01-22
+11808752	San Martin De Porres	San Martin De Porres		8.19897	-81.53676	A	ADM3	PA		10	0905	090510		1004		244	America/Panama	2018-01-22
+11808753	Vigui	Vigui		8.33755	-81.50041	A	ADM3	PA		10	0905	090511		964		270	America/Panama	2018-01-22
+11808754	Santa Lucia	Santa Lucia		8.2519	-81.80003	A	ADM3	PA		02	0409	040905		492		33	America/Panama	2018-01-22
+11808755	Los Algarrobos	Los Algarrobos		8.53297	-82.43618	A	ADM3	PA		02	0407	040708		9326		206	America/Panama	2018-01-22
+11808756	Perales	Perales		7.77522	-80.33604	A	ADM3	PA		07	0701	070110		421		46	America/Panama	2018-01-22
+11808757	El Aromillo	El Aromillo		8.35654	-81.15023	A	ADM3	PA		10	0903	090307		1359		492	America/Panama	2018-01-22
+11808758	Santa Cruz	Santa Cruz		8.24245	-81.92192	A	ADM3	PA		02	0411	041105		416		7	America/Panama	2018-01-22
+11808759	Ruben Cantu	Ruben Cantu		8.45167	-80.97776	A	ADM3	PA		10	0909	090908		1160		603	America/Panama	2018-01-22
+11808760	El Pajaro	El Pajaro		7.9519	-80.58189	A	ADM3	PA		06	0606	060603		861		34	America/Panama	2018-01-22
+11808761	Alto De Jesus	Alto De Jesus		8.26395	-81.47376	A	ADM3	PA		12	1205	120503		686		262	America/Panama	2021-01-13
+11808762	Cerro Pelado	Cerro Pelado		8.16459	-81.53615	A	ADM3	PA		12	1205	120504		2361		326	America/Panama	2018-01-22
+11808763	Buenos Aires	Buenos Aires		8.44986	-81.50088	A	ADM3	PA		12	1205	120501		1856		602	America/Panama	2020-10-24
+11808764	Guayabito	Guayabito		8.54712	-81.47907	A	ADM3	PA		12	1205	120508		1663		1283	America/Panama	2018-01-22
+11808765	Las Cabras	Las Cabras		7.88155	-80.56726	A	ADM3	PA		06	0606	060602		1914		43	America/Panama	2018-01-22
+11808766	El Ciruelo	El Ciruelo		7.89607	-80.69449	A	ADM3	PA		06	0606	060606		823		111	America/Panama	2018-01-22
+11808767	El Barrero	El Barrero		7.93223	-80.54601	A	ADM3	PA		06	0606	060604		1841		71	America/Panama	2018-01-22
+11808768	Namnoni	Namnoni		8.3691	-81.96975	A	ADM3	PA		12	1201	120107		1867		304	America/Panama	2018-01-22
+11808769	El Cristo	El Cristo		8.32245	-81.60102	A	ADM3	PA		02	0413	041304		1500		174	America/Panama	2018-01-22
+11808770	Bakama	Bakama		8.26212	-81.61929	A	ADM3	PA		12	1203	120303		1204		180	America/Panama	2018-01-25
+11808771	Roka	Roka		8.49986	-81.61462	A	ADM3	PA		12	1203	120310		2697		1512	America/Panama	2018-01-22
+11808772	Umani	Umani		8.3136	-81.72455	A	ADM3	PA		12	1203	120312		2148		250	America/Panama	2018-01-22
+11808773	Jadeberi	Jadeberi		8.49406	-81.8047	A	ADM3	PA		12	1204	120403		1476		751	America/Panama	2018-01-22
+11808774	Susama	Susama		8.35999	-81.80245	A	ADM3	PA		12	1204	120405		2798		448	America/Panama	2018-01-22
+11808775	Las Mananitas	Las Mananitas		9.10776	-79.4181	A	ADM3	PA		08	0808	080820		39473		80	America/Panama	2018-01-22
+11808776	Alcalde Diaz	Alcalde Diaz		9.13233	-79.51072	A	ADM3	PA		08	0808	080822		41292		134	America/Panama	2018-01-22
+11808777	Ernesto Cordoba Campos	Ernesto Cordoba Campos		9.10057	-79.4927	A	ADM3	PA		08	0808	080823		55784		75	America/Panama	2018-01-22
+11808778	San Martin De Porres	San Martin De Porres		8.114	-80.953	A	ADM3	PA		10	0910	091011		16406		93	America/Panama	2025-01-21
+11808779	Los Algarrobos	Los Algarrobos		8.09042	-81.05092	A	ADM3	PA		10	0910	091008		5490		94	America/Panama	2018-01-22
+11808781	Edwin Fabrega	Edwin Fabrega		8.05183	-81.0172	A	ADM3	PA		10	0910	091010		3434		29	America/Panama	2018-01-22
+12510676	San José  del General (Cabecera)	San Jose  del General (Cabecera)		8.87283	-80.5669	A	ADM3	PA		04	0306	030601		0		28	America/Panama	2023-01-26
+12510677	Nueva Esperanza	Nueva Esperanza		8.88942	-80.61136	A	ADM3	PA		04	0306	030602		0		142	America/Panama	2023-01-26
+12510678	San Juan de Turbe	San Juan de Turbe		8.80918	-80.6266	A	ADM3	PA		04	0306	030603		0		210	America/Panama	2023-01-26
+12510681	Sajalices	Sajalices		8.66995	-79.87586	A	ADM3	PA		13	1304	130410		0		103	America/Panama	2023-01-26
+12510682	El Silencio	El Silencio		9.39518	-82.57927	A	ADM3	PA		01	0102	010214		0		47	America/Panama	2023-01-26
+12510683	Almirante (Cabecera)	Almirante (Cabecera)		9.32011	-82.39895	A	ADM3	PA		01	0104	010401		0		6	America/Panama	2023-01-26
+12510684	Barrio Francés	Barrio Frances		9.30088	-82.3711	A	ADM3	PA		01	0104	010402		0		7	America/Panama	2023-01-26
+12510685	Nance de Riscó	Nance de Risco		9.06581	-82.6494	A	ADM3	PA		01	0104	010404		0		1504	America/Panama	2023-01-26
+12510686	Valle de Aguas Arriba	Valle de Aguas Arriba		9.219	-82.37367	A	ADM3	PA		01	0104	010405		0		194	America/Panama	2023-01-26
+12510687	Cristóbal Este	Cristobal Este		9.37052	-79.8663	A	ADM3	PA		04	0301	030115		0		24	America/Panama	2023-01-26
+12510689	Agua Fría	Agua Fria		8.83496	-78.19888	A	ADM3	PA		05	0503	050313		0		103	America/Panama	2023-01-26
+12510690	Cucunatí	Cucunati		8.56031	-78.24735	A	ADM3	PA		05	0503	050314		0		12	America/Panama	2023-01-26
+12510691	Río Congo Arriba	Rio Congo Arriba		8.75045	-78.39152	A	ADM3	PA		05	0503	050315		0		58	America/Panama	2023-01-26
+12510692	Zapallal	Zapallal		8.62758	-78.10494	A	ADM3	PA		05	0503	050317		0		40	America/Panama	2023-01-26
+12510694	Don Bosco	Don Bosco		9.03589	-79.41829	A	ADM3	PA		08	0808	080826		0		7	America/Panama	2023-01-26
+12510696	Entradero del Castillo	Entradero del Castillo		7.84531	-80.86715	A	ADM3	PA		06	0604	060408		0		259	America/Panama	2023-01-26
+12510697	Santiago Sur	Santiago Sur		7.79975	-81.00634	A	ADM3	PA		10	0910	091016		0		154	America/Panama	2023-01-26
+12510700	Pueblos Unidos	Pueblos Unidos		8.19284	-80.6876	A	ADM3	PA		03	0201	020106		0		47	America/Panama	2023-01-26
+12510701	Virgen del Carmen	Virgen del Carmen		8.25675	-80.57811	A	ADM3	PA		03	0201	020107		0		47	America/Panama	2023-01-26
+12510702	El Hato de San Juan de Dios	El Hato de San Juan de Dios		8.27571	-80.6785	A	ADM3	PA		03	0201	020108		0		149	America/Panama	2023-01-26
+12510703	Villarreal	Villarreal		8.32354	-80.63631	A	ADM3	PA		03	0204	020407		0		90	America/Panama	2023-01-26
+12510704	Hicaco	Hicaco		7.67062	-81.24233	A	ADM3	PA		10	0911	091111		0		76	America/Panama	2023-01-26
+12510705	El Peñón	El Penon		8.43595	-81.43982	A	ADM3	PA		12	1205	120510		0		427	America/Panama	2023-01-26
+12510706	El Piro No2 (Muakwata Kubu)	El Piro No2 (Muakwata Kubu)		8.44825	-81.51217	A	ADM3	PA		12	1205	120511		0		496	America/Panama	2023-01-26
+12510707	Gwaribiara	Gwaribiara		8.76101	-81.96377	A	ADM3	PA		12	1208	120803		0		415	America/Panama	2023-01-26
+12510708	Mreeni	Mreeni		8.39501	-81.55088	A	ADM3	PA		12	1203	120316		0		333	America/Panama	2023-01-26
+12510710	Santa Catalina o Calovébora o Bledeshia (Cabecera)	Santa Catalina o Calovebora o Bledeshia (Cabecera)		8.739	-81.3021	A	ADM3	PA		12	1209	120901		0		127	America/Panama	2023-01-26
+12510711	Caimitillo	Caimitillo		9.32589	-79.44196	A	ADM3	PA		08	0808	080827		0		230	America/Panama	2023-01-26
+12510712	Finca 30	Finca 30		9.43157	-82.55796	A	ADM3	PA		01	0102	010216		0		7	America/Panama	2023-01-26
+12510713	Alto Bilingüe o Gdogüeshia	Alto Bilinguee o Gdogueeshia		8.65986	-81.27463	A	ADM3	PA		12	1209	120902		0		190	America/Panama	2023-01-26
+12510714	Cañaveral	Canaveral		8.83113	-81.71762	A	ADM3	PA		12	1207	120708		0		206	America/Panama	2023-01-26
+12510715	Büri	Bueri		8.84678	-82.23755	A	ADM3	PA		12	1208	120802		0		437	America/Panama	2023-01-26
+12510716	Barriada 4 de Abril	Barriada 4 de Abril		9.46721	-82.53907	A	ADM3	PA		01	0102	010213		0		-1	America/Panama	2023-01-26
+12510717	Barriada Guaymí	Barriada Guaymi		9.30904	-82.438	A	ADM3	PA		01	0104	010403		0		34	America/Panama	2023-01-26
+12510718	Calante	Calante		8.78063	-81.88396	A	ADM3	PA		12	1206	120610		0		921	America/Panama	2023-01-26
+12510719	El Ejido	El Ejido		7.91307	-80.37551	A	ADM3	PA		07	0703	070315		0		27	America/Panama	2023-01-26
+12510720	Cuesta de Piedra	Cuesta de Piedra		8.70001	-82.62836	A	ADM3	PA		02	0414	041403		0		1068	America/Panama	2023-01-26
+12510721	David Este	David Este		8.38069	-82.41124	A	ADM3	PA		02	0406	040611		0		5	America/Panama	2023-01-26
+12510722	David Sur	David Sur		8.39987	-82.44724	A	ADM3	PA		02	0406	040612		0		8	America/Panama	2023-01-26
+12510723	Dikeri	Dikeri		8.40161	-81.64439	A	ADM3	PA		12	1203	120313		0		474	America/Panama	2023-01-26
+12510724	Diko	Diko		8.46434	-81.7315	A	ADM3	PA		12	1203	120315		0		881	America/Panama	2023-01-26
+12510725	El Higo	El Higo		8.22131	-81.34737	A	ADM3	PA		10	0904	090407		0		180	America/Panama	2023-01-26
+12510726	Llano Norte	Llano Norte		8.81682	-80.48382	A	ADM3	PA		03	0203	020307		0		77	America/Panama	2023-01-26
+12510727	Loma Yuca o Ijuicho	Loma Yuca o Ijuicho		8.65092	-81.41869	A	ADM3	PA		12	1209	120903		0		596	America/Panama	2023-01-26
+12510728	Kikari	Kikari		8.33879	-81.69043	A	ADM3	PA		12	1203	120317		0		426	America/Panama	2023-01-26
+12510729	Finca 6	Finca 6		9.48748	-82.4984	A	ADM3	PA		01	0102	010215		0		0	America/Panama	2023-01-26
+12510730	Finca 60	Finca 60		9.44884	-82.47996	A	ADM3	PA		01	0102	010217		0		4	America/Panama	2023-01-26
+12510731	Las Garzas	Las Garzas		9.07038	-79.21882	A	ADM3	PA		08	0808	080824		0		3	America/Panama	2023-01-26
+12510732	La Trinchera	La Trinchera		7.78227	-81.31334	A	ADM3	PA		10	0911	091112		0		110	America/Panama	2023-01-26
+12510733	Manuel E. Amador Terrero	Manuel E. Amador Terrero		8.16078	-81.42335	A	ADM3	PA		10	0905	090513		0		106	America/Panama	2023-01-26
+12510734	Nueva California	Nueva California		8.84227	-82.67721	A	ADM3	PA		02	0414	041404		0		1908	America/Panama	2023-01-26
+12510735	Nuevo Santiago	Nuevo Santiago		8.1002	-80.92691	A	ADM3	PA		10	0910	091014		0		67	America/Panama	2023-01-26
+12510736	Valle Bonito o Dogata	Valle Bonito o Dogata		8.57425	-81.25516	A	ADM3	PA		12	1209	120905		0		658	America/Panama	2023-01-26
+12510737	Rodrigo Luque	Rodrigo Luque		8.14399	-80.99192	A	ADM3	PA		10	0910	091013		0		100	America/Panama	2023-01-26
+12510738	Paso Ancho	Paso Ancho		8.82607	-82.5993	A	ADM3	PA		02	0414	041405		0		1852	America/Panama	2023-01-26
+12510739	Samboa (Cabecera)	Samboa (Cabecera)		8.7434	-82.0561	A	ADM3	PA		12	1208	120801		0		611	America/Panama	2023-01-26
+12510740	Valle de Riscó	Valle de Risco		9.01415	-82.44284	A	ADM3	PA		01	0104	010406		0		367	America/Panama	2023-01-26
+12510741	San Isidro	San Isidro		8.52312	-82.80881	A	ADM3	PA		02	0405	040515		0		127	America/Panama	2023-01-26
+12510742	Santiago Este	Santiago Este		8.15962	-80.73968	A	ADM3	PA		10	0910	091015		0		22	America/Panama	2023-01-26
+12510743	San Pedrito o Jiküi	San Pedrito o Jikuei		8.7643	-81.47681	A	ADM3	PA		12	1209	120904		0		470	America/Panama	2023-01-26
+12510744	Solano	Solano		8.52083	-82.61047	A	ADM3	PA		02	0405	040514		0		235	America/Panama	2023-01-26
+12510745	Tu Gwai (Tuwai)	Tu Gwai (Tuwai)		9.00096	-82.32069	A	ADM3	PA		12	1208	120805		0		128	America/Panama	2023-01-26
+12510746	Tolote	Tolote		8.59817	-81.82656	A	ADM3	PA		12	1206	120611		0		1868	America/Panama	2023-01-26
+12510747	Volcán (Cabecera)	Volcan (Cabecera)		8.73201	-82.66366	A	ADM3	PA		02	0414	041401		0		1204	America/Panama	2023-01-26

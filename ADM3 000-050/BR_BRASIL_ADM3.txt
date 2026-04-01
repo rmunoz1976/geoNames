@@ -1,0 +1,65 @@
+﻿8449505	Aricanduva	Aricanduva	Aricanduva-Formosa-Carrao	-23.57807	-46.50933	A	ADM3	BR		27	3550308	26		0		782	America/Sao_Paulo	2018-10-26
+8449506	Butantã	Butanta	Butanta	-23.57374	-46.71936	A	ADM3	BR		27	3550308	10		0		753	America/Sao_Paulo	2018-10-26
+8449507	Campo Limpo	Campo Limpo	Campo Limpo	-23.63301	-46.76532	A	ADM3	BR		27	3550308	17		0		786	America/Sao_Paulo	2018-10-26
+8449508	Capela do Socorro	Capela do Socorro	Capela Do Socorro	-23.69373	-46.70666	A	ADM3	BR		27	3550308	19		0		776	America/Sao_Paulo	2018-10-26
+8449509	Casa Verde	Casa Verde	Casa Verde-Cachoeirinha	-23.49851	-46.65173	A	ADM3	BR		27	3550308	04		0		766	America/Sao_Paulo	2018-10-26
+8449510	Cidade Ademar	Cidade Ademar	Cidade Ademar	-23.67628	-46.65602	A	ADM3	BR		27	3550308	16		0		789	America/Sao_Paulo	2018-10-26
+8449528	Cidade Tiradentes	Cidade Tiradentes	Cidade Tiradentes	-23.58326	-46.39509	A	ADM3	BR		27	3550308	31		0		816	America/Sao_Paulo	2018-10-26
+8449529	Ermelino Matarazzo	Ermelino Matarazzo	Ermelino Matarazzo	-23.49426	-46.47251	A	ADM3	BR		27	3550308	22		0		770	America/Sao_Paulo	2018-10-26
+8449530	Freguesia-Brasilândia	Freguesia-Brasilandia	Freguesia-Brasilandia	-23.48419	-46.69576	A	ADM3	BR		27	3550308	03		0		751	America/Sao_Paulo	2018-10-26
+8449531	Guaianases	Guaianases	Guaianases	-23.54786	-46.41569	A	ADM3	BR		27	3550308	28		0		800	America/Sao_Paulo	2018-10-26
+8449532	Ipiranga	Ipiranga	Ipiranga	-23.6019	-46.61345	A	ADM3	BR		27	3550308	13		0		791	America/Sao_Paulo	2018-10-26
+8449534	Itaim Paulista	Itaim Paulista	Itaim Paulista	-23.50332	-46.38651	A	ADM3	BR		27	3550308	24		0		771	America/Sao_Paulo	2018-10-26
+8449535	Itaquera	Itaquera	Itaquera	-23.53409	-46.4447	A	ADM3	BR		27	3550308	27		0		794	America/Sao_Paulo	2018-10-26
+8449536	Jabaquara	Jabaquara	Jabaquara	-23.65364	-46.64649	A	ADM3	BR		27	3550308	15		0		790	America/Sao_Paulo	2018-10-26
+8449537	Jaçanã-Tremembé	Jacana-Tremembe	Jacana-Tremembe	-23.45065	-46.57894	A	ADM3	BR		27	3550308	06		0		775	America/Sao_Paulo	2018-10-26
+8449538	Lapa	Lapa	Lapa	-23.53236	-46.7046	A	ADM3	BR		27	3550308	08		0		766	America/Sao_Paulo	2018-10-26
+8449539	M'Boi Mirim	M'Boi Mirim	M'Boi Mirim	-23.68886	-46.78305	A	ADM3	BR		27	3550308	18		0		804	America/Sao_Paulo	2018-10-26
+8449565	Mooca	Mooca	Mooca	-23.55801	-46.59508	A	ADM3	BR		27	3550308	25		0		778	America/Sao_Paulo	2018-10-26
+8449566	Parelheiros	Parelheiros	Parelheiros	-23.82861	-46.7246	A	ADM3	BR		27	3550308	20		0		781	America/Sao_Paulo	2018-10-26
+8449567	Penha	Penha	Penha	-23.52386	-46.54856	A	ADM3	BR		27	3550308	21		0		770	America/Sao_Paulo	2018-10-26
+8449568	Perus	Perus	Perus	-23.40922	-46.75558	A	ADM3	BR		27	3550308	01		0		780	America/Sao_Paulo	2018-10-26
+8449569	Pinheiros	Pinheiros	Pinheiros	-23.56285	-46.69078	A	ADM3	BR		27	3550308	11		0		758	America/Sao_Paulo	2018-10-26
+8449570	Pirituba-Jaraguá	Pirituba-Jaragua	Pirituba-Jaragua	-23.46561	-46.72812	A	ADM3	BR		27	3550308	02		0		796	America/Sao_Paulo	2018-10-26
+8449571	Santana-Tucuruvi	Santana-Tucuruvi	Santana-Tucuruvi	-23.48342	-46.6244	A	ADM3	BR		27	3550308	05		0		789	America/Sao_Paulo	2018-10-29
+8449572	Santo Amaro	Santo Amaro	Santo Amaro	-23.65537	-46.70099	A	ADM3	BR		27	3550308	14		0		753	America/Sao_Paulo	2018-10-26
+8449573	São Mateus	Sao Mateus	Sao Mateus	-23.61205	-46.4732	A	ADM3	BR		27	3550308	30		0		832	America/Sao_Paulo	2018-10-26
+8449574	São Miguel Paulista	Sao Miguel Paulista	Sao Miguel	-23.493	-46.43646	A	ADM3	BR		27	3550308	23		0		741	America/Sao_Paulo	2018-10-26
+8449575	Sé	Se	Se	-23.54385	-46.63267	A	ADM3	BR		27	3550308	09		0		746	America/Sao_Paulo	2018-10-26
+8449576	Vila Maria-Vila Guilherme	Vila Maria-Vila Guilherme	Vila Maria-Vila Guilherme	-23.50938	-46.59319	A	ADM3	BR		27	3550308	07		0		733	America/Sao_Paulo	2018-10-26
+8449577	Vila Mariana	Vila Mariana	Vila Mariana	-23.60379	-46.64108	A	ADM3	BR		27	3550308	12		0		797	America/Sao_Paulo	2018-10-26
+8449578	Vila Prudente	Vila Prudente	Vila Prudente	-23.58845	-46.5798	A	ADM3	BR		27	3550308	29		0		764	America/Sao_Paulo	2018-10-26
+11962351	Sapopemba	Sapopemba	Sapopemba	-23.59262	-46.52083	A	ADM3	BR		27	3550308	32		0		811	America/Sao_Paulo	2018-10-26
+12032491	Santa Cruz	Santa Cruz		-22.9158	-43.69378	A	ADM3	BR		21	3304557	19		0		6	America/Sao_Paulo	2019-03-12
+12032492	Lagoa	Lagoa		-22.98463	-43.23181	A	ADM3	BR		21	3304557	6		0		85	America/Sao_Paulo	2019-03-12
+12032493	Santa Tereza	Santa Tereza		-22.92258	-43.18923	A	ADM3	BR		21	3304557	23		0		98	America/Sao_Paulo	2019-03-15
+12032494	Complexo da Mare	Complexo da Mare		-22.85931	-43.242	A	ADM3	BR		21	3304557	30		0		5	America/Sao_Paulo	2019-03-12
+12032495	Anchieta	Anchieta		-22.83286	-43.39669	A	ADM3	BR		21	3304557	22		0		59	America/Sao_Paulo	2019-03-12
+12032496	Jacarepagua	Jacarepagua		-22.93528	-43.37257	A	ADM3	BR		21	3304557	16		0		12	America/Sao_Paulo	2019-03-12
+12032497	Jacarezinho	Jacarezinho		-22.88702	-43.25728	A	ADM3	BR		21	3304557	28		0		13	America/Sao_Paulo	2019-03-12
+12032498	Cidade de Deus	Cidade de Deus		-22.94761	-43.36252	A	ADM3	BR		21	3304557	34		0		7	America/Sao_Paulo	2019-03-12
+12032499	Botafogo	Botafogo		-22.94264	-43.18175	A	ADM3	BR		21	3304557	4		0		24	America/Sao_Paulo	2019-03-12
+12032500	Ilha do Governador	Ilha do Governador		-22.81068	-43.21323	A	ADM3	BR		21	3304557	20		0		28	America/Sao_Paulo	2019-03-12
+12032501	Campo Grande	Campo Grande		-22.89289	-43.55677	A	ADM3	BR		21	3304557	18		0		56	America/Sao_Paulo	2019-03-12
+12032502	Tijuca	Tijuca		-22.95272	-43.25422	A	ADM3	BR		21	3304557	8		0		401	America/Sao_Paulo	2019-03-12
+12032503	Paqueta	Paqueta		-22.76438	-43.1075	A	ADM3	BR		21	3304557	21		0		0	America/Sao_Paulo	2019-03-15
+12032504	Guaratiba	Guaratiba		-22.99471	-43.5877	A	ADM3	BR		21	3304557	26		0		28	America/Sao_Paulo	2019-03-12
+12032505	Rio Comprido	Rio Comprido		-22.92235	-43.20545	A	ADM3	BR		21	3304557	3		0		45	America/Sao_Paulo	2019-03-12
+12032506	Copacabana	Copacabana		-22.96848	-43.18269	A	ADM3	BR		21	3304557	5		0		29	America/Sao_Paulo	2019-03-12
+12032507	Vigario Geral	Vigario Geral		-22.81338	-43.30439	A	ADM3	BR		21	3304557	31		0		18	America/Sao_Paulo	2019-03-12
+12032508	Vila Isabel	Vila Isabel		-22.92322	-43.25582	A	ADM3	BR		21	3304557	9		0		31	America/Sao_Paulo	2019-03-12
+12032509	Complexo do Alemão	Complexo do Alemao		-22.86084	-43.27323	A	ADM3	BR		21	3304557	29		0		95	America/Sao_Paulo	2019-03-12
+12032510	Barra da Tijuca	Barra da Tijuca		-22.99385	-43.43446	A	ADM3	BR		21	3304557	24		0		6	America/Sao_Paulo	2019-03-12
+12032511	Bangu	Bangu		-22.86956	-43.48314	A	ADM3	BR		21	3304557	17		0		47	America/Sao_Paulo	2022-12-22
+12032512	Inhauma	Inhauma		-22.87096	-43.28307	A	ADM3	BR		21	3304557	12		0		18	America/Sao_Paulo	2019-03-12
+12032513	Iraja	Iraja		-22.84048	-43.32169	A	ADM3	BR		21	3304557	14		0		20	America/Sao_Paulo	2019-03-12
+12032514	Meier	Meier		-22.89962	-43.28599	A	ADM3	BR		21	3304557	13		0		50	America/Sao_Paulo	2019-03-12
+12032515	Sao Cristovao	Sao Cristovao		-22.89737	-43.22823	A	ADM3	BR		21	3304557	7		0		27	America/Sao_Paulo	2019-03-12
+12032516	Pavuna	Pavuna		-22.81947	-43.35644	A	ADM3	BR		21	3304557	25		0		29	America/Sao_Paulo	2019-03-12
+12032517	Penha	Penha		-22.83353	-43.28425	A	ADM3	BR		21	3304557	11		0		19	America/Sao_Paulo	2019-03-12
+12032518	Ramos	Ramos		-22.85942	-43.25744	A	ADM3	BR		21	3304557	10		0		12	America/Sao_Paulo	2019-03-12
+12032519	Madureira	Madureira		-22.87018	-43.34228	A	ADM3	BR		21	3304557	15		0		30	America/Sao_Paulo	2019-03-12
+12032520	Realengo	Realengo		-22.87583	-43.41384	A	ADM3	BR		21	3304557	33		0		35	America/Sao_Paulo	2019-03-12
+12032521	Portuaria	Portuaria		-22.88095	-43.21729	A	ADM3	BR		21	3304557	1		0		11	America/Sao_Paulo	2019-03-15
+12032522	Centro	Centro		-22.90618	-43.17831	A	ADM3	BR		21	3304557	2		0		51	America/Sao_Paulo	2019-03-12
+12032523	Rocinha	Rocinha		-22.98841	-43.24826	A	ADM3	BR		21	3304557	27		0		85	America/Sao_Paulo	2019-03-12

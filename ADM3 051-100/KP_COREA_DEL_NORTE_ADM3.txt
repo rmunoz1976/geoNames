@@ -1,0 +1,899 @@
+﻿1866089	Yongsŏng-guyŏk	Yongsong-guyok	Yongseong-guyeok,Yongsong-guyok,Yongsŏng-guyŏk,yongseong-guyeog,용성구역	39.88333	127.53333	A	ADM3	KP		03		1866089		0		8	Asia/Pyongyang	2024-05-15
+1867840	Tonghŭngsan-guyŏk	Tonghungsan-guyok	Dongheungsan-guyeok,Pallyong-kuyok,Pallyong-kuyŏk,Tonghungsan-guyok,Tonghungsan-kuyok,Tonghŭngsan-guyŏk,Tonghŭngsan-kuyŏk,dongheungsanguyeog,동흥산구역	39.91667	127.51667	A	ADM3	KP		03		1867840		0		13	Asia/Pyongyang	2024-05-15
+1868101	Tŏgŏn-myŏn	Togon-myon	Togon-myon,Tokon-myon,Tŏgŏn-myŏn,Tŏkŏn-myŏn,deogeonmyeon,더건면	39.66667	125.25	A	ADM3	KP		00		1868101		0		12	Asia/Pyongyang	2016-12-03
+1869675	Sŏngch’ŏn-guyŏk	Songch'on-guyok	Seongcheon-guyeok,Songch'on-guyok,Songch'on-kuyok,Sŏngch’ŏn-guyŏk,Sŏngch’ŏn-kuyŏk,seongcheonguyeog,성천구역	39.9	127.53333	A	ADM3	KP		03		1869675		0		10	Asia/Pyongyang	2024-05-15
+1870904	Sap’o-guyŏk	Sap'o-guyok	Sap'o-guyok,Sapo-guyeok,Sap’o-guyŏk,sapoguyeog,사포구역	39.88333	127.55	A	ADM3	KP		03		1870904		0		5	Asia/Pyongyang	2024-05-15
+1877020	Hŭngnam-guyŏk	Hungnam-guyok	Heungnam-guyeok,Hungnam-guyok,Hŭngnam-guyŏk,heunglamguyeog,heungnamguyeog,흥남구역,흥람구역	39.83328	127.6667	A	ADM3	KP		03		1877020		0		50	Asia/Pyongyang	2024-05-15
+1877157	Hoesang-guyŏk	Hoesang-guyok	Hoesang-guyeok,Hoesang-guyok,Hoesang-guyŏk,hoesang-guyeog,회상구역	39.91667	127.58333	A	ADM3	KP		03		1877157		0		47	Asia/Pyongyang	2024-05-15
+2040321	Sunam-guyŏk	Sunam-guyok	Sunam-guyok,Sunam-guyŏk	41.78333	129.76667	A	ADM3	KP		17		2040321		0		5	Asia/Pyongyang	2019-02-22
+2040506	Songp’yŏng-guyŏk	Songp'yong-guyok	Songp'yong-guyok,Songp'yong-kuyok,Songp’yŏng-guyŏk,Songp’yŏng-kuyŏk	41.83333	129.66667	A	ADM3	KP		17		2040506		0		304	Asia/Pyongyang	2012-01-19
+2041111	Sinam-guyŏk	Sinam-guyok	Sinam-guyok,Sinam-guyŏk	41.81611	129.85111	A	ADM3	KP		17		2041111		0		119	Asia/Pyongyang	2019-02-22
+2041686	Puyun-guyŏk	Puyun-guyok	Puyun-guyok,Puyun-guyŏk	41.85778	129.51583	A	ADM3	KP		17		2041686		0		560	Asia/Pyongyang	2019-02-22
+2041973	P’ohang-guyŏk	P'ohang-guyok	P'ohang-guyok,P’ohang-guyŏk	41.78333	129.78333	A	ADM3	KP		17		2041973		0		8	Asia/Pyongyang	2019-02-22
+2042496	Nanam-guyŏk	Nanam-guyok	Nanam,Nanam-guyok,Nanam-guyŏk,Nanam-kuyok,Nanam-kuyŏk	41.72444	129.67083	A	ADM3	KP		17		2042496		0		75	Asia/Pyongyang	2012-01-19
+2044789	Ch’ŏngam-guyŏk	Ch'ongam-guyok	Ch'ongam-guyok,Ch'ongam-kuyok,Cheongam-guyeok,Ch’ŏngam-guyŏk,Ch’ŏngam-kuyŏk,cheong-amguyeog,청암구역	42.05058	129.89537	A	ADM3	KP		17		2044789		0		156	Asia/Pyongyang	2020-06-11
+11595727	Chunghyŏn-dong	Chunghyon-dong	Chunghyon-dong,Chunghyŏn-dong,Junghyeon-dong,junghyeondong,중현동	42.33698	130.41143	A	ADM3	KP		18		11595727		0		83	Asia/Pyongyang	2020-06-14
+11595728	Anhwa-dong	Anhwa-dong	Anhwa-dong,Anhwadong,anhwadong,안화동	42.2835	130.28832	A	ADM3	KP		18		11595728		0		278	Asia/Pyongyang	2019-09-06
+11595729	Yŏkchŏn-dong	Yokchon-dong	Yeokjeondong,Yokchon-dong,Yŏkchŏn-dong,yeogjeondong,역전동	42.25235	130.28146	A	ADM3	KP		18		11595729		0		87	Asia/Pyongyang	2020-06-14
+11595730	Tongmyŏng-dong	Tongmyong-dong	Dongmyeong-dong,Tongmyong-dong,Tongmyŏng-dong,dongmyeongdong,동명동	42.25115	130.31465	A	ADM3	KP		18		11595730		0		21	Asia/Pyongyang	2025-07-18
+11595731	Sinan-dong	Sinan-dong	Sinan-dong,Sinandong,sin-andong,신안동	42.24892	130.30193	A	ADM3	KP		18		11595731		0		9	Asia/Pyongyang	2025-07-18
+11595748	Hahyŏn-dong	Hahyon-dong	Hahyeondong,Hahyon-dong,Hahyŏn-dong,hahyeondong,하현동	42.34534	130.37326	A	ADM3	KP		18		11595748		0		20	Asia/Pyongyang	2020-06-14
+11595749	Sanghyŏn-dong	Sanghyon-dong	Sanghyeon-dong,Sanghyon-dong,Sanghyŏn-dong,sanghyeondong,상현동	42.33607	130.42385	A	ADM3	KP		18		11595749		0		290	Asia/Pyongyang	2020-06-14
+11595750	Chigyŏng-dong	Chigyong-dong	Chigyong-dong,Chigyŏng-dong,Jigyeong-dong,jigyeongdong,지경동	42.27025	130.31425	A	ADM3	KP		18		11595750		0		129	Asia/Pyongyang	2020-06-14
+11595751	Ch’ŏnggye-dong	Ch'onggye-dong	Ch'onggye-dong,Cheonggye-dong,Ch’ŏnggye-dong,cheong-gyedong,청계동	42.26846	130.29445	A	ADM3	KP		18		11595751		0		50	Asia/Pyongyang	2020-06-14
+11595752	Rajin-dong	Rajin-dong	Najin-dong,Namsan-dong,Namsandong,Rajin-dong,lajindong,najindong,namsandong,나진동,남산동,라진동	42.24727	130.30651	A	ADM3	KP		18		11595752		0		9	Asia/Pyongyang	2025-07-18
+11595753	Haeyang-dong	Haeyang-dong	Haebang-dong,Haebangdong,Haeyang-dong,haebangdong,haeyangdong,해방동,해양동	42.19818	130.31506	A	ADM3	KP		18		11595753		0		24	Asia/Pyongyang	2025-07-18
+11791789	Munsu I-dong	Munsu I-dong	Munsu 2-dong,Munsu I-dong,Puksu 2-dong,Puksu i-dong,bugsu-idong,bugsu2dong,munsu-idong,munsu2dong,문수2동,문수이동,북수2동,북수이동	39.02388	125.79303	A	ADM3	KP		12		11791789		0		25	Asia/Pyongyang	2020-03-10
+11791790	Munsu Sam-dong	Munsu Sam-dong	Munsu 3-dong,Munsu Sam-dong,munsu3dong,munsusamdong,문수3동,문수삼동	39.02372	125.78927	A	ADM3	KP		12		11791790		0		25	Asia/Pyongyang	2020-03-10
+11791791	Yongnam-dong	Yongnam-dong	Ryongnam-dong,Yongnam-dong,lyongnamdong,yongnamdong,룡남동,용남동	39.05681	125.77038	A	ADM3	KP		12		11791791		0		39	Asia/Pyongyang	2021-12-16
+11791793	Tongdaewŏn 2-dong	Tongdaewon 2-dong	Dongdaewon 1-dong,Dongdaewon 2-dong,Tongdaewon 2-dong,Tongdaewon I-dong,Tongdaewŏn 2-dong,Tongdaewŏn I-dong,dongdaewon-idong,dongdaewon2dong,동대원2동,동대원이동	39.02258	125.76802	A	ADM3	KP		12		11791793		0		17	Asia/Pyongyang	2021-12-16
+11791794	Samma 2-dong	Samma 2-dong	Samma 2-dong,Samma I-dong,samma2dong,sammaidong,삼마2동,삼마이동	39.00871	125.78874	A	ADM3	KP		12		11791794		0		20	Asia/Pyongyang	2021-12-16
+11791800	Yongsŏng 1-tong	Yongsong 1-tong	RyongsongIl-dong,RyongsŏngIl-dong,Yongseong 1-dong,Yongseong Il-dong,Yongsong 1-tong,Yongsong Il-tong,Yongsong-dong,Yongsŏng 1-tong,Yongsŏng Il-tong,Yongsŏng-dong,lyongseong-ildong,lyongseong1dong,lyongseongdong,yongseong1dong,룡성1동,룡성동,룡성일동,용성1동	39.12167	125.78137	A	ADM3	KP		12		11791800		0		33	Asia/Pyongyang	2021-12-16
+11791896	Chungsin-dong	Chungsin-dong	Chungsin-dong,Jungsin-dong,jungsindong,중신동	39.04708	125.73549	A	ADM3	KP		12		11791896		0		16	Asia/Pyongyang	2018-01-12
+11791897	Kinjae-dong	Kinjae-dong	Ginjae-dong,Kinjae-dong,ginjaedong,긴재동	39.05491	125.73585	A	ADM3	KP		12		11791897		0		27	Asia/Pyongyang	2018-01-12
+11791898	Pip’a il-tong	Pip'a il-tong	Bipa 1-dong,Pip'a il-tong,Pip’a il-tong,bipa1dong,비파1동	39.05089	125.74388	A	ADM3	KP		12		11791898		0		20	Asia/Pyongyang	2020-06-14
+11791902	Haebangsan-dong	Haebangsan-dong	Haebangsan-dong,haebangsandong,해방산동	39.01648	125.74039	A	ADM3	KP		12		11791902		0		27	Asia/Pyongyang	2018-01-12
+11791904	Changch’ung I-dong	Changch'ung I-dong	Changch'ung I-dong,Changch’ung I-dong,Jangchung 2-dong,jangchung-idong,jangchung2dong,장충2동,장충이동	39.00164	125.78194	A	ADM3	KP		12		11791904		0		25	Asia/Pyongyang	2020-06-14
+11791905	Taehŭng-dong	Taehung-dong	Daeheung-dong,Taehung-dong,Taehŭng-dong,daeheungdong,대흥동	39.00548	125.77085	A	ADM3	KP		12		11791905		0		17	Asia/Pyongyang	2020-06-14
+11791907	Samgol-tong	Samgol-tong	Samgol-dong,Samgol-tong,samgoldong,삼골동	39.02461	125.84674	A	ADM3	KP		12		11791907		0		20	Asia/Pyongyang	2018-01-12
+11791908	Yŏnmot-tong	Yonmot-tong	Yeonmot-dong,Yonmot-tong,Yŏnmot-tong,yeonmosdong,연못동	39.06874	125.75507	A	ADM3	KP		12		11791908		0		35	Asia/Pyongyang	2020-06-14
+11791910	Singan 2-dong	Singan 2-dong	Singan 2-dong,Singan I-dong,singan-idong,singan2dong,신간2동,신간이동	39.13298	125.69006	A	ADM3	KP		12		11791910		0		41	Asia/Pyongyang	2021-09-09
+11791911	Singan 3-dong	Singan 3-dong	Singan 3-dong,Singan Sam-dong,singan3dong,singansamdong,신간3동,신간삼동	39.12808	125.69664	A	ADM3	KP		12		11791911		0		28	Asia/Pyongyang	2021-09-09
+11791912	Singan 1-tong	Singan 1-tong	Singan 1-dong,Singan 1-tong,Singan Il-tong,singan-ildong,singan1dong,신간1동,신간일동	39.14688	125.69416	A	ADM3	KP		12		11791912		0		21	Asia/Pyongyang	2021-09-09
+11791913	Sŏp’o 2-dong	Sop'o 2-dong	Seopo 2-dong,Sop'o 2-dong,Sop'o I-dong,Sŏp’o 2-dong,Sŏp’o I-dong,seopo2dong,seopoidong,서포2동,서포이동	39.09838	125.73194	A	ADM3	KP		12		11791913		0		44	Asia/Pyongyang	2021-09-09
+11791914	Sŏsan 2-dong	Sosan 2-dong	Seosan 2-dong,Sosan 2-dong,Sosan I-dong,Sŏsan 2-dong,Sŏsan I-dong,seosan-idong,seosan2dong,서산2동,서산이동	39.0742	125.74527	A	ADM3	KP		12		11791914		0		48	Asia/Pyongyang	2021-09-09
+11791917	Sangdang-dong	Sangdang-dong	Sangdang-dong,Sangdangdong,sangdangdong,상당동	39.06635	125.71275	A	ADM3	KP		12		11791917		0		23	Asia/Pyongyang	2021-09-09
+11791918	Hadang 1-dong	Hadang 1-dong	Hadang 1-dong,Hadang Il-tong,hadang-ildong,hadang1dong,하당1동,하당일동	39.06266	125.71652	A	ADM3	KP		12		11791918		0		33	Asia/Pyongyang	2021-09-09
+11791919	Nagwŏn-dong	Nagwon-dong	Nagwon-dong,Nagwŏn-dong,nag-wondong,낙원동	39.03202	125.71322	A	ADM3	KP		12		11791919		0		16	Asia/Pyongyang	2020-06-14
+11791920	Ponghak-tong	Ponghak-tong	Bonghak-dong,Ponghak-tong,bonghagdong,봉학동	39.01113	125.719	A	ADM3	KP		12		11791920		0		20	Asia/Pyongyang	2018-01-12
+11791921	Changhun 2-dong	Changhun 2-dong	Changhun 2-dong,Changhun I-dong,Janghun 2-dong,janghun-idong,janghun2dong,장훈2동,장훈이동	39.04481	125.69238	A	ADM3	KP		12		11791921		0		29	Asia/Pyongyang	2021-09-09
+11791922	Mangyŏngdae-dong	Mangyongdae-dong	Mangyeongdae-dong,Mangyongdae-dong,Mangyŏngdae-dong,mangyeongdaedong,만경대동	39.00766	125.66122	A	ADM3	KP		12		11791922		0		18	Asia/Pyongyang	2020-06-14
+11791923	Kŏnguk-tong	Konguk-tong	Geonguk-dong,Konguk-tong,Kŏnguk-tong,geongugdong,건국동	39.05133	125.69729	A	ADM3	KP		12		11791923		0		21	Asia/Pyongyang	2020-06-14
+11791924	Sŏp’o il-tong	Sop'o il-tong	Seopo 1-dong,Sop'o il-tong,Sŏp’o il-tong,seopo1dong,서포1동	39.08722	125.73676	A	ADM3	KP		12		11791924		0		34	Asia/Pyongyang	2020-06-14
+11791925	Sŏpo 3-dong	Sopo 3-dong	Seopo 3-dong,Sopo 3-dong,Sopo Sam-dong,Sŏpo 3-dong,Sŏpo Sam-dong,seopo3dong,seoposamdong,서포3동,서포삼동	39.0945	125.74075	A	ADM3	KP		12		11791925		0		41	Asia/Pyongyang	2021-09-09
+11791926	Sŏkpak-tong	Sokpak-tong	Seokbak-dong,Sokpak-tong,Sŏkpak-tong,seogbagdong,석박동	39.19945	125.68314	A	ADM3	KP		12		11791926		0		29	Asia/Pyongyang	2020-06-14
+11791928	Yŏkchŏn-dong	Yokchon-dong	Yeokjeon-dong,Yokchon-dong,Yŏkchŏn-dong,yeogjeondong,역전동	39.19352	125.68343	A	ADM3	KP		12		11791928		0		24	Asia/Pyongyang	2020-06-14
+11791939	Sŏngmun 2-dong	Songmun 2-dong	Seongmun 2-dong,Songmun 2-dong,Songmun I-dong,Sŏngmun 2-dong,Sŏngmun I-dong,seongmun-idong,seongmun2dong,성문2동,성문이동	39.09933	125.89652	A	ADM3	KP		12		11791939		0		58	Asia/Pyongyang	2021-12-18
+11791940	Sŏryong-dong	Soryong-dong	Seoryong-dong,Soryong-dong,Sŏryong-dong,seolyongdong,서룡동	39.09306	125.71457	A	ADM3	KP		12		11791940		0		34	Asia/Pyongyang	2020-06-14
+11791941	Sŏkchŏn-dong	Sokchon-dong	Seokjeon-dong,Sokchon-dong,Sŏkchŏn-dong,seogjeondong,석전동	39.06647	125.74161	A	ADM3	KP		12		11791941		0		40	Asia/Pyongyang	2020-06-14
+11791942	Chungdang-dong	Chungdang-dong	Chungdang-dong,Jungdang-dong,jungdangdong,중당동	39.06495	125.71882	A	ADM3	KP		12		11791942		0		37	Asia/Pyongyang	2018-01-12
+11791943	Hadang I-dong	Hadang I-dong	Hadang 2-dong,Hadang I-dong,hadang-idong,hadang2dong,하당2동,하당이동	39.0536	125.71686	A	ADM3	KP		12		11791943		0		13	Asia/Pyongyang	2024-10-12
+11791944	Yongaksan-dong	Yongaksan-dong	Yongaksan-dong,yong-agsandong,용악산동	39.03172	125.61292	A	ADM3	KP		12		11791944		0		71	Asia/Pyongyang	2018-01-12
+11791945	Changhun 3-dong	Changhun 3-dong	Changhun 3-dong,Changhun Sam-dong,Janghun 3-dong,janghun3dong,janghunsamdong,장훈3동,장훈삼동	39.04871	125.66473	A	ADM3	KP		12		11791945		0		20	Asia/Pyongyang	2021-09-09
+11791946	Sŏnguja-dong	Songuja-dong	Seonguja-dong,Songuja-dong,Sŏnguja-dong,seongujadong,선구자동	39.04361	125.67107	A	ADM3	KP		12		11791946		0		16	Asia/Pyongyang	2020-06-14
+11791947	Ch’ilgol 1-tong	Ch'ilgol 1-tong	Ch'ilgol 1-tong,Ch'ilgol Il-tong,Chilgol 1-dong,Ch’ilgol 1-tong,Ch’ilgol Il-tong,chilgol-ildong,chilgol1dong,칠골1동,칠골일동	39.04036	125.65609	A	ADM3	KP		12		11791947		0		18	Asia/Pyongyang	2021-09-09
+11791948	Samhŭng-dong	Samhung-dong	Samheung-dong,Samhung-dong,Samhŭng-dong,samheungdong,삼흥동	39.03993	125.64098	A	ADM3	KP		12		11791948		0		78	Asia/Pyongyang	2020-06-14
+11791949	Samhŭng 1-tong	Samhung 1-tong	Samheung 1-dong,Samhung 1-tong,Samhung Il-tong,Samhŭng 1-tong,Samhŭng Il-tong,samheung-ildong,samheung1dong,삼흥1동,삼흥일동	39.02277	125.63841	A	ADM3	KP		12		11791949		0		59	Asia/Pyongyang	2021-09-09
+11791950	Kallimgil 1-tong	Kallimgil 1-tong	Gallimgil 1-dong,Kallimgil 1-tong,Kallimgil Il-tong,gallimgil-ildong,gallimgil1dong,갈림길1동,갈림길일동	39.0244	125.64601	A	ADM3	KP		12		11791950		0		31	Asia/Pyongyang	2021-09-09
+11791951	Kallimgil 2-dong	Kallimgil 2-dong	Gallimgil 2-dong,Kallimgil 2-dong,Kallimgil I-dong,gallimgil-idong,gallimgil2dong,갈림길2동,갈림길이동	39.02311	125.65645	A	ADM3	KP		12		11791951		0		8	Asia/Pyongyang	2021-09-09
+11791952	Chilgol 3-dong	Chilgol 3-dong	Ch'ilgol Sam-dong,Chilgol 3-dong,Ch’ilgol Sam-dong,chilgol3dong,chilgolsamdong,칠골3동,칠골삼동	39.02634	125.66443	A	ADM3	KP		12		11791952		0		10	Asia/Pyongyang	2021-09-09
+11791953	Ch’ilgol I-dong	Ch'ilgol I-dong	Ch'ilgol I-dong,Chilgol 2-dong,Ch’ilgol I-dong,chilgol-idong,chilgol2dong,칠골2동,칠골이동	39.03029	125.6674	A	ADM3	KP		12		11791953		0		13	Asia/Pyongyang	2024-10-12
+11791954	Kŭmsŏng 1-tong	Kumsong 1-tong	Geumseong 1-dong,Kumsong 1-tong,Kumsong Il-tong,Kŭmsŏng 1-tong,Kŭmsŏng Il-tong,geumseong-ildong,geumseong1dong,금성1동,금성일동	39.019	125.6668	A	ADM3	KP		12		11791954		0		26	Asia/Pyongyang	2021-09-09
+11791955	Kwangbog 1-tong	Kwangbog 1-tong	Gwangbog 1-dong,Kwangbog 1-tong,Kwangbog Il-tong,gwangbog-ildong,gwangbog1dong,광복1동,광복일동	39.04048	125.69719	A	ADM3	KP		12		11791955		0		32	Asia/Pyongyang	2021-09-09
+11791956	Kwangbog 2-dong	Kwangbog 2-dong	Gwangbok 2-dong,Kwangbog 2-dong,Kwangbog I-dong,gwangbog-idong,gwangbog2dong,광복2동,광복이동	39.03705	125.70051	A	ADM3	KP		12		11791956		0		14	Asia/Pyongyang	2021-09-09
+11791957	Tangsang 2-dong	Tangsang 2-dong	Dangsang 2-dong,Tangsang 2-dong,Tangsang I-dong,dangsang-idong,dangsang2dong,당상2동,당상이동	39.03213	125.70096	A	ADM3	KP		12		11791957		0		23	Asia/Pyongyang	2021-09-09
+11791958	Tangsang 1-tong	Tangsang 1-tong	Dangsang 1-dong,Tangsang 1-tong,Tangsang Il-tong,dangsang-ildong,dangsang1dong,당상1동,당상일동	39.02867	125.69706	A	ADM3	KP		12		11791958		0		53	Asia/Pyongyang	2021-09-09
+11791959	Kŭmsŏng 3-dong	Kumsong 3-dong	Geumseong 3-dong,Kumsong 3-dong,Kumsong Sam-dong,Kŭmsŏng 3-dong,Kŭmsŏng Sam-dong,geumseong3dong,geumseongsamdong,금성3동,금성삼동	39.01352	125.67812	A	ADM3	KP		12		11791959		0		31	Asia/Pyongyang	2021-09-09
+11791960	Kŭmsŏng 2-dong	Kumsong 2-dong	Geumseong 2-dong,Kumsong 2-dong,Kumsong I-dong,Kŭmsŏng 2-dong,Kŭmsŏng I-dong,geumseong-idong,geumseong2dong,금성2동,금성이동	39.02172	125.67548	A	ADM3	KP		12		11791960		0		36	Asia/Pyongyang	2021-09-09
+11791961	Ch’ukchŏn 1-tong	Ch'ukchon 1-tong	Ch'ukchon 1-tong,Ch'ukchon il-tong,Chukjeon 1-dong,Ch’ukchŏn 1-tong,Ch’ukchŏn il-tong,chugjeon-ildong,chugjeon1dong,축전1동,축전일동	39.02471	125.68144	A	ADM3	KP		12		11791961		0		35	Asia/Pyongyang	2021-09-09
+11791962	Ch’ukchŏn 2-dong	Ch'ukchon 2-dong	Ch'ukchon 2-dong,Ch'ukchon i-dong,Chukjeon 2-dong,Ch’ukchŏn 2-dong,Ch’ukchŏn i-dong,chugjeon-idong,chugjeon2dong,축전2동,축전이동	39.02564	125.68952	A	ADM3	KP		12		11791962		0		55	Asia/Pyongyang	2021-09-09
+11791963	P’algor 1-tong	P'algor 1-tong	P'algor 1-tong,P'algor il-tong,Palgol 1-dong,P’algor 1-tong,P’algor il-tong,palgol-ildong,palgol1dong,팔골1동,팔골일동	39.0342	125.68709	A	ADM3	KP		12		11791963		0		16	Asia/Pyongyang	2021-09-09
+11791964	P’algor 2-dong	P'algor 2-dong	P'algor 2-dong,P'algor i-dong,Palgol 2-dong,P’algor 2-dong,P’algor i-dong,palgol-idong,palgol2dong,팔골2동,팔골이동	39.03343	125.67855	A	ADM3	KP		12		11791964		0		27	Asia/Pyongyang	2021-09-09
+11791965	Turu 2-dong	Turu 2-dong	Duru 2-dong,Turu 2-dong,Turu I-dong,dulu-idong,dulu2dong,두루2동,두루이동	39.00826	125.83879	A	ADM3	KP		12		11791965		0		15	Asia/Pyongyang	2021-12-18
+11791967	Nŭngna I-dong	Nungna I-dong	Neungna 2-dong,Nungna I-dong,Nŭngna I-dong,neungla2dong,neunglaidong,능라2동,능라이동	39.03644	125.77364	A	ADM3	KP		12		11791967		0		18	Asia/Pyongyang	2020-06-14
+11791968	Tongsin 2-dong	Tongsin 2-dong	Dongsin 2-dong,Tongsin 2-dong,Tongsin I-dong,dongsin-idong,dongsin2dong,동신2동,동신이동	39.01357	125.76419	A	ADM3	KP		12		11791968		0		15	Asia/Pyongyang	2021-12-18
+11791969	Namsin Il-tong	Namsin Il-tong	Namsin 1-dong,Namsin Il-tong,namsin-ildong,namsin1dong,남신1동,남신일동	39.0077	125.77186	A	ADM3	KP		12		11791969		0		16	Asia/Pyongyang	2020-03-11
+11791970	Namsin I-dong	Namsin I-dong	Namsin 2-dong,Namsin I-dong,namsin-idong,namsin2dong,남신2동,남신이동	39.00616	125.7734	A	ADM3	KP		12		11791970		0		18	Asia/Pyongyang	2020-03-11
+11791972	Yulgok 1-dong	Yulgok 1-dong	Yulgog Il-tong,Yulgok 1-dong,yulgog-idong,yulgog1dong,율곡1동,율곡이동	39.00481	125.78478	A	ADM3	KP		12		11791972		0		20	Asia/Pyongyang	2021-12-18
+11791973	Yulgok 2-dong	Yulgok 2-dong	Yulgog I-dong,Yulgok 2-dong,yulgog-idong,yulgog2dong,율곡2동,율곡이동	39.00293	125.79016	A	ADM3	KP		12		11791973		0		23	Asia/Pyongyang	2021-12-18
+11791974	Kangan I-dong	Kangan I-dong	Gangan 2-dong,Kangan I-dong,gang-an-idong,gang-an2dong,강안2동,강안이동	39.00308	125.76205	A	ADM3	KP		12		11791974		0		15	Asia/Pyongyang	2020-03-11
+11791975	Sŏsan 1-tong	Sosan 1-tong	Seosan 1-dong,Sosan 1-tong,Sosan Il-tong,Sŏsan 1-tong,Sŏsan Il-tong,seosan-ildong,seosan1dong,서산1동,서산일동	39.08546	125.74909	A	ADM3	KP		12		11791975		0		38	Asia/Pyongyang	2021-09-09
+11791976	Changgyŏng Il-tong	Changgyong Il-tong	Changgyong Il-tong,Changgyŏng Il-tong,Janggyeong 1-dong,jang-gyeong-ildong,jang-gyeong1dong,장경1동,장경일동	39.07366	125.75302	A	ADM3	KP		12		11791976		0		37	Asia/Pyongyang	2020-06-14
+11791977	Changgyŏng 2-dong	Changgyong 2-dong	Changgyong 2-dong,Changgyong I-dong,Changgyŏng 2-dong,Changgyŏng I-dong,Janggyeong 2-dong,jang-gyeong-idong,jang-gyeong2dong,장경2동,장경이동	39.06689	125.75212	A	ADM3	KP		12		11791977		0		40	Asia/Pyongyang	2021-09-09
+11791978	Sanghŭng-dong	Sanghung-dong	Sangheung-dong,Sanghung-dong,Sanghŭng-dong,sangheungdong,상흥동	39.05336	125.7358	A	ADM3	KP		12		11791978		0		22	Asia/Pyongyang	2020-06-14
+11791979	Namgyo-dong	Namgyo-dong	Namgyo-dong,Namgyodong,namgyodong,남교동	39.04807	125.72251	A	ADM3	KP		12		11791979		0		16	Asia/Pyongyang	2021-09-09
+11791980	Kinmaŭr Il-tong	Kinmaur Il-tong	Ginmaeul 1-dong,Kinmaur Il-tong,Kinmaŭr Il-tong,ginma-eul1dong,긴마을1동	39.05615	125.75009	A	ADM3	KP		12		11791980		0		36	Asia/Pyongyang	2021-09-09
+11791981	Kinmaŭr 2-dong	Kinmaur 2-dong	Ginmaeul 2-dong,Kinmaur 2-dong,Kinmaur I-dong,Kinmaŭr 2-dong,Kinmaŭr I-dong,ginma-eul-idong,ginma-eul2dong,긴마을2동,긴마을이동	39.05445	125.7503	A	ADM3	KP		12		11791981		0		34	Asia/Pyongyang	2021-09-09
+11791982	Chinhŭng-dong	Chinhung-dong	Chinhung-dong,Chinhŭng-dong,Jinheung-dong,jinheungdong,진흥동	39.05107	125.75074	A	ADM3	KP		12		11791982		0		40	Asia/Pyongyang	2020-06-14
+11791983	Pip’a 2-dong	Pip'a 2-dong	Bipa 2-dong,Pip'a 2-dong,Pip'a I-dong,Pip’a 2-dong,Pip’a I-dong,bipa2dong,bipaidong,비파2동,비파이동	39.04972	125.74682	A	ADM3	KP		12		11791983		0		26	Asia/Pyongyang	2021-09-09
+11791984	Inhŭng 2-dong	Inhung 2-dong	Inheung 2-dong,Inhung 2-dong,Inhung I-dong,Inhŭng 2-dong,Inhŭng I-dong,inheung-idong,inheung2dong,인흥2동,인흥이동	39.04364	125.74402	A	ADM3	KP		12		11791984		0		13	Asia/Pyongyang	2021-09-09
+11791985	Chŏnu-dong	Chonu-dong	Chonu-dong,Chŏnu-dong,Jeonu-dong,jeon-udong,전우동	39.05487	125.75582	A	ADM3	KP		12		11791985		0		42	Asia/Pyongyang	2020-06-14
+11791986	Inhŭng 1-tong	Inhung 1-tong	Inheung 1-dong,Inhung 1-tong,Inhung Il-tong,Inhŭng 1-tong,Inhŭng Il-tong,inheung-ildong,inheung1dong,인흥1동,인흥일동	39.04545	125.74757	A	ADM3	KP		12		11791986		0		15	Asia/Pyongyang	2021-09-09
+11791987	Pulgŭngŏri 1-tong	Pulgungori 1-tong	Bulgeungeori 1-dong,Pulgungori 1-tong,Pulgungori Il-tong,Pulgŭngŏri 1-tong,Pulgŭngŏri Il-tong,bulg-eungeoli1dong,bulg-eungeoliildong,붉은거리1동,붉은거리일동	39.03072	125.71397	A	ADM3	KP		12		11791987		0		14	Asia/Pyongyang	2021-09-09
+11791988	Pulgŭngŏri 2-dong	Pulgungori 2-dong	Bulgeungeori 2-dong,Pulgungori 2-dong,Pulgungori I-dong,Pulgŭngŏri 2-dong,Pulgŭngŏri I-dong,bulg-eungeoli2dong,bulg-eungeoliidong,붉은거리2동,붉은거리이동	39.03045	125.71724	A	ADM3	KP		12		11791988		0		14	Asia/Pyongyang	2021-09-09
+11791989	Pulgŭngŏri 3-dong	Pulgungori 3-dong	Bulgeungeori 3-dong,Pulgungori 3-dong,Pulgungori Sam-dong,Pulgŭngŏri 3-dong,Pulgŭngŏri Sam-dong,bulg-eungeoli3dong,bulg-eungeolisamdong,붉은거리3동,붉은거리삼동	39.02687	125.71448	A	ADM3	KP		12		11791989		0		13	Asia/Pyongyang	2021-09-09
+11791990	Segŏri-dong	Segori-dong	Segeori-dong,Segori-dong,Segŏri-dong,segeolidong,세거리동	39.02944	125.72757	A	ADM3	KP		12		11791990		0		10	Asia/Pyongyang	2020-06-14
+11791991	Yugyŏng 2-dong	Yugyong 2-dong	Yugyeong 2-dong,Yugyong 2-dong,Yugyong I-dong,Yugyŏng 2-dong,Yugyŏng I-dong,yugyeong-idong,yugyeong2dong,유경2동,유경이동	39.03262	125.73064	A	ADM3	KP		12		11791991		0		14	Asia/Pyongyang	2021-09-09
+11791992	Pot’onggang 2-dong	Pot'onggang 2-dong	Botonggang 2-dong,Pot'onggang 2-dong,Pot'onggang I-dong,Pot’onggang 2-dong,Pot’onggang I-dong,botong-gang-idong,botong-gang2dong,보통강2동,보통강이동	39.02824	125.73584	A	ADM3	KP		12		11791992		0		14	Asia/Pyongyang	2021-09-09
+11791993	Yŏnhwa 2-dong	Yonhwa 2-dong	Yeonhwa 2-dong,Yonhwa 2-dong,Yonhwa I-dong,Yŏnhwa 2-dong,Yŏnhwa I-dong,yeonhwa2dong,yeonhwaidong,연화2동,연화이동	39.00802	125.73941	A	ADM3	KP		12		11791993		0		21	Asia/Pyongyang	2021-09-09
+11791994	Tongan-dong	Tongan-dong	Dongan-dong,Tongan-dong,dong-andong,동안동	39.00265	125.74314	A	ADM3	KP		12		11791994		0		19	Asia/Pyongyang	2018-01-12
+11791995	Yŏnhwa il-tong	Yonhwa il-tong	Yeonhwa 1-dong,Yonhwa il-tong,Yŏnhwa il-tong,yeonhwa1dong,연화1동	39.01087	125.74118	A	ADM3	KP		12		11791995		0		19	Asia/Pyongyang	2020-06-14
+11791996	Mansu-dong	Mansu-dong	Mansu-dong,mansudong,만수동	39.02928	125.74642	A	ADM3	KP		12		11791996		0		26	Asia/Pyongyang	2018-01-12
+11791997	Ansan Il-tong	Ansan Il-tong	Ansan 1-dong,Ansan il-tong,ansan-ildong,ansan1dong,안산1동,안산일동	39.01836	125.72381	A	ADM3	KP		12		11791997		0		13	Asia/Pyongyang	2026-03-11
+11791998	Puksŏng 2-dong	Puksong 2-dong	Bukseong 2-dong,Puksong 2-dong,Puksong I-dong,Puksŏng 2-dong,Puksŏng I-dong,bugseong-idong,bugseong2dong,북성2동,북성이동	39.01608	125.72612	A	ADM3	KP		12		11791998		0		34	Asia/Pyongyang	2021-09-09
+11791999	Puksŏng il-tong	Puksong il-tong	Bukseong 1-dong,Puksong il-tong,Puksŏng il-tong,bugseong1dong,북성1동	39.01385	125.72462	A	ADM3	KP		12		11791999		0		30	Asia/Pyongyang	2020-06-14
+11792000	Pongnam-dong	Pongnam-dong	Bongnam-dong,Pongnam-dong,bongnamdong,봉남동	39.01131	125.72373	A	ADM3	KP		12		11792000		0		21	Asia/Pyongyang	2018-01-12
+11792001	Yukkyo 2-dong	Yukkyo 2-dong	Yukgyo 2-dong,Yukkyo 2-dong,Yukkyo I-dong,yuggyo2dong,yuggyoidong,육교2동,육교이동	39.00658	125.72168	A	ADM3	KP		12		11792001		0		12	Asia/Pyongyang	2021-09-09
+11792002	Saemaŭl 1-tong	Saemaul 1-tong	Saemaeul 1-dong,Saemaul 1-tong,Saemaul il-tong,Saemaŭl 1-tong,Saemaŭl il-tong,saema-eul-ildong,saema-eul1dong,새마을1동,새마을일동	39.00229	125.71978	A	ADM3	KP		12		11792002		0		15	Asia/Pyongyang	2021-08-11
+11792003	Saemaŭl 2-dong	Saemaul 2-dong	Saemaeul 2-dong,Saemaul 2-dong,Saemaul I-dong,Saemaŭl 2-dong,Saemaŭl I-dong,saema-eul-idong,saema-eul2dong,새마을2동,새마을이동	39.0049	125.71803	A	ADM3	KP		12		11792003		0		11	Asia/Pyongyang	2021-09-09
+11792004	Kansŏng-dong	Kansong-dong	Ganseong-dong,Kansong-dong,Kansŏng-dong,ganseongdong,간성동	39.00352	125.72982	A	ADM3	KP		12		11792004		0		13	Asia/Pyongyang	2020-06-14
+11792005	Yukkyo 1-tong	Yukkyo 1-tong	Yukgyo 1-dong,Yukkyo 1-tong,Yukkyo Il-tong,yuggyo1dong,yuggyoildong,육교1동,육교일동	39.00573	125.72828	A	ADM3	KP		12		11792005		0		16	Asia/Pyongyang	2021-09-09
+11792006	Yugyŏng 1-tong	Yugyong 1-tong	Yugyeong 1-dong,Yugyong 1-tong,Yugyong Il-tong,Yugyŏng 1-tong,Yugyŏng Il-tong,yugyeong-ildong,yugyeong1dong,유경1동,유경일동	39.02739	125.73056	A	ADM3	KP		12		11792006		0		12	Asia/Pyongyang	2021-09-09
+11792007	Sŏngyo 3-dong	Songyo 3-dong	Seongyo 3-dong,Songyo 3-dong,Songyo Sam-dong,Sŏngyo 3-dong,Sŏngyo Sam-dong,seongyo3dong,seongyosamdong,선교3동,선교삼동	39.00614	125.76326	A	ADM3	KP		12		11792007		0		16	Asia/Pyongyang	2021-12-18
+11792008	Pot’onggang il-tong	Pot'onggang il-tong	Botonggang 1-dong,Pot'onggang il-tong,Pot’onggang il-tong,botong-gang1dong,보통강1동	39.03052	125.73444	A	ADM3	KP		12		11792008		0		13	Asia/Pyongyang	2020-06-14
+11792009	Changhun Il-tong	Changhun Il-tong	Changhun 1-tong,Changhun il-tong,Janghun1-dong,janghun-ildong,janghun1dong,장훈1동,장훈일동	39.04391	125.69387	A	ADM3	KP		12		11792009		0		23	Asia/Pyongyang	2026-03-11
+11792010	Sŏngmun 1-tong	Songmun 1-tong	Seongmun 1-dong,Songmun 1-tong,Songmun Il-tong,Sŏngmun 1-tong,Sŏngmun Il-tong,seongmun-ildong,seongmun1dong,성문1동,성문일동	39.1051	125.89767	A	ADM3	KP		12		11792010		0		61	Asia/Pyongyang	2021-12-18
+11792011	Kwahag 1-tong	Kwahag 1-tong	Gwahak 1-dong,Kwahag 1-tong,Kwahag Il-tong,gwahag-ildong,gwahag1dong,과학1동,과학일동	39.23434	125.87142	A	ADM3	KP		12		11792011		0		45	Asia/Pyongyang	2021-12-18
+11792025	Tongsan-dong	Tongsan-dong	Dongsan-dong,Tongsan-dong,dongsandong,동산동	38.97104	125.75595	A	ADM3	KP		12		11792025		0		31	Asia/Pyongyang	2018-01-12
+11792026	Unme-dong	Unme-dong	Unme-dong,usmedong,웃메동	38.99758	125.79259	A	ADM3	KP		12		11792026		0		22	Asia/Pyongyang	2018-01-12
+11792028	Kŭmch’ŏn-dong	Kumch'on-dong	Geumcheon-dong,Kumch'on-dong,Kŭmch’ŏn-dong,geumcheondong,금천동	38.99405	125.61985	A	ADM3	KP		12		11792028		0		26	Asia/Pyongyang	2020-06-14
+11792043	Sŏsan-dong	Sosan-dong	Seosan-dong,Sosan-dong,Sŏsan-dong,seosandong,서산동	38.99491	125.63747	A	ADM3	KP		12		11792043		0		7	Asia/Pyongyang	2020-06-14
+11792044	Songhwa I-dong	Songhwa I-dong	Songhwa 2-dong,Songhwa I-dong,songhwa2dong,songhwaidong,송화2동,송화이동	38.99158	125.79854	A	ADM3	KP		12		11792044		0		19	Asia/Pyongyang	2020-03-11
+11792045	Songhwa Il-tong	Songhwa Il-tong	Songhwa 1-dong,Songhwa Il-tong,songhwa1dong,songhwaildong,송화1동,송화일동	38.9804	125.8022	A	ADM3	KP		12		11792045		0		15	Asia/Pyongyang	2020-03-11
+11792046	Songsin Sam-dong	Songsin Sam-dong	Songsin 3-dong,Songsin Sam-dong,songsin3dong,songsinsamdong,송신3동,송신삼동	38.98877	125.83072	A	ADM3	KP		12		11792046		0		30	Asia/Pyongyang	2020-03-11
+11792047	Dŭngme Sam-dong	Dungme Sam-dong	Deungme 3-dong,Dungme Sam-dong,Dŭngme Sam-dong,deungme3dong,deungmesamdong,등메3동,등메삼동	38.99531	125.77496	A	ADM3	KP		12		11792047		0		16	Asia/Pyongyang	2020-06-14
+11792048	Dŭngme I-dong	Dungme I-dong	Deungme 2-dong,Dungme I-dong,Dŭngme I-dong,deungme2dong,deungmeidong,등메2동,등메이동	38.99414	125.78053	A	ADM3	KP		12		11792048		0		34	Asia/Pyongyang	2020-06-14
+11792049	Kangan Il-tong	Kangan Il-tong	Gangan 1-dong,Kangan Il-tong,gang-an-ildong,gang-an1dong,강안1동,강안일동	38.99996	125.76293	A	ADM3	KP		12		11792049		0		14	Asia/Pyongyang	2020-03-11
+11792050	Haeun 1-tong	Haeun 1-tong	Haeun 1-tong,Haeun Il-tong,haeun-ildong,haeun1dong,해운1동,해운일동	38.99508	125.71734	A	ADM3	KP		12		11792050		0		11	Asia/Pyongyang	2021-09-09
+11792051	Haeun 2-dong	Haeun 2-dong	Haeun 2-dong,Haeun I-dong,haeun-idong,haeun2dong,해운2동,해운이동	38.99413	125.72495	A	ADM3	KP		12		11792051		0		15	Asia/Pyongyang	2021-09-09
+11792052	P’yŏngch’ŏn 2-dong	P'yongch'on 2-dong	P'yongch'on 2-dong,P'yongch'on I-dong,Pyeongcheon 2-dong,P’yŏngch’ŏn 2-dong,P’yŏngch’ŏn I-dong,pyeongcheon-idong,pyeongcheon2dong,평천2동,평천이동	38.99993	125.73439	A	ADM3	KP		12		11792052		0		17	Asia/Pyongyang	2021-09-09
+11792053	P’yŏngch’ŏn 1-tong	P'yongch'on 1-tong	P'yongch'on 1-tong,P'yongch'on Il-tong,Pyeongcheon 1-dong,P’yŏngch’ŏn 1-tong,P’yŏngch’ŏn Il-tong,pyeongcheon-ildong,pyeongcheon1dong,평천1동,평천일동	38.99987	125.72552	A	ADM3	KP		12		11792053		0		15	Asia/Pyongyang	2021-09-09
+11792054	Songsin 1-tong	Songsin 1-tong	Songsin 1-dong,Songsin 1-tong,Songsin Il-tong,songsin-ildong,songsin1dong,송신1동,송신일동	38.99876	125.81372	A	ADM3	KP		12		11792054		0		20	Asia/Pyongyang	2021-12-18
+11792058	Sanŏb Il-tong	Sanob Il-tong	Saneob 1-dong,Sanob Il-tong,Sanŏb Il-tong,san-eob-ildong,san-eob1dong,산업1동,산업일동	38.98951	125.76858	A	ADM3	KP		12		11792058		0		8	Asia/Pyongyang	2020-06-14
+11792059	Sanŏb I-dong	Sanob I-dong	Saneob 2-dong,Sanob I-dong,Sanob il-tong,Sanŏb I-dong,Sanŏb il-tong,san-eob-idong,san-eob2dong,산업2동,산업이동	38.98951	125.76858	A	ADM3	KP		12		11792059		0		8	Asia/Pyongyang	2020-06-14
+11792060	Mujin Il-tong	Mujin Il-tong	Mujin 1-dong,Mujin Il-tong,mujin-ildong,mujin1dong,무진1동,무진일동	38.98966	125.77719	A	ADM3	KP		12		11792060		0		31	Asia/Pyongyang	2020-03-11
+11792061	Mujin I-dong	Mujin I-dong	Mujin 2-dong,Mujin I-dong,mujin-idong,mujin2dong,무진2동,무진이동	38.98966	125.77719	A	ADM3	KP		12		11792061		0		31	Asia/Pyongyang	2020-03-11
+11792066	Namgang-nodongjagu	Namgang-nodongjagu	Namgang-nodongjagu,namganglodongjagu,namgangnodongjagu,nan jiang lao dong zhe qu,南江勞動者區,남강노동자구,남강로동자구	38.95118	126.33687	A	ADM3	KP		12		11792066		0		132	Asia/Pyongyang	2026-03-11
+11792067	Ansan 2-dong	Ansan 2-dong	Ansan 2-dong,Ansan I-dong,ansan-idong,ansan2dong,안산2동,안산이동	39.01667	125.71667	A	ADM3	KP		12		11792067		0		12	Asia/Pyongyang	2021-09-09
+12083728	Myŏngnyong-rodongjagu	Myongnyong-rodongjagu	Myeongnyong-nodongjagu,Myeongnyong-rodongjagu,Myeongnyonggu,Myongnyong-gu,Myongnyong-nodongjagu,Myongnyong-rodongjagu,Myŏngnyong-gu,Myŏngnyong-nodongjagu,Myŏngnyong-rodongjagu,myeonglyong-gu,myeonglyonglodongjagu,myeonglyongnodongjagu,명룡구,명룡노동자구,명룡로동자구	42.57709	130.33279	A	ADM3	KP		17		12083728		0		115	Asia/Pyongyang	2025-07-18
+12083739	Nonggyŏng-rodongjagu	Nonggyong-rodongjagu	Nonggyeong-nodongjagu,Nonggyeong-rodongjagu,Nonggyeonggu,Nonggyong-gu,Nonggyong-nodongjagu,Nonggyong-rodongjagu,Nonggyŏng-gu,Nonggyŏng-nodongjagu,Nonggyŏng-rodongjagu,nong-gyeong-gu,nong-gyeonglodongjagu,nong-gyeongnodongjagu,농경구,농경노동자구,농경로동자구	42.52806	130.34048	A	ADM3	KP		17		12083739		0		57	Asia/Pyongyang	2025-07-18
+12086550	Kŭmsaeng-ni	Kumsaeng-ni	Geumsaengni,Kumsaeng-ni,Kŭmsaeng-ni,geumsaengli,금생리	42.44527	129.79467	A	ADM3	KP		17		12086550		0		264	Asia/Pyongyang	2020-06-14
+12086551	Osandŏk-dong	Osandok-dong	Osandeokdong,Osandok-dong,Osandŏk-dong,osandeogdong,오산덕동	42.44346	129.77071	A	ADM3	KP		17		12086551		0		238	Asia/Pyongyang	2020-06-14
+12086552	Subuk-tong	Subuk-tong	Subuk-tong,Subukdong,subugdong,수북동	42.43341	129.81396	A	ADM3	KP		17		12086552		0		275	Asia/Pyongyang	2019-09-07
+12086553	Nammun-dong	Nammun-dong	Nammun-dong,Nammundong,nammundong,남문동	42.41353	129.79937	A	ADM3	KP		17		12086553		0		363	Asia/Pyongyang	2019-09-07
+12086554	Sanŏp-tong	Sanop-tong	Saneopdong,Sanop-tong,Sanŏp-tong,san-eobdong,산업동	42.41428	129.78214	A	ADM3	KP		17		12086554		0		291	Asia/Pyongyang	2020-06-14
+12086559	Ch’irwŏlp’alil-tong	Ch'irwolp'alil-tong	Ch'irwolp'alil-tong,Chilwolpalildong,Ch’irwŏlp’alil-tong,chil-wolpal-ildong,칠월팔일동	42.4316	129.78659	A	ADM3	KP		17		12086559		0		288	Asia/Pyongyang	2020-06-14
+12086560	Kyerim-dong	Kyerim-dong	Gyerimdong,Kyerim-dong,gyelimdong,계림동	42.4325	129.77207	A	ADM3	KP		17		12086560		0		297	Asia/Pyongyang	2019-09-07
+12086605	Poŭl-tong	Poul-tong	Bo-eul-dong,Boeuldong,Poul-tong,Poŭl-tong,bo-euldong,보을동	42.4188	129.6215	A	ADM3	KP		17		12086605		0		377	Asia/Pyongyang	2025-06-13
+12086608	Saemaŭl-tong	Saemaul-tong	Saema-eul-dong,Saemaeuldong,Saemaul-tong,Saemaŭl-tong,saema-euldong,새마을동	42.42226	129.73743	A	ADM3	KP		17		12086608		0		264	Asia/Pyongyang	2025-06-13
+12086610	Ch'ŏnhye-dong	Ch'onhye-dong	Ch'onhye-dong,Ch'ŏnhye-dong,Cheonhye-dong,Gangandong,Kangan-dong,cheonhyedong,gang-andong,강안동,천혜동	42.42994	129.74611	A	ADM3	KP		17		12086610		0		224	Asia/Pyongyang	2025-06-13
+12086611	Sŏngch’ŏn-dong	Songch'on-dong	Seongcheon-dong,Seongcheondong,Songch'on-dong,Sŏngch’ŏn-dong,seongcheondong,성천동	42.43633	129.75233	A	ADM3	KP		17		12086611		0		250	Asia/Pyongyang	2025-06-13
+12086627	Hongsal-li	Hongsal-li	Hongsal-li,Hongsalli,hongsanli,홍산리	42.38439	129.64883	A	ADM3	KP		17		12086627		0		304	Asia/Pyongyang	2019-09-07
+12087213	Ch’ilsŏng-ni	Ch'ilsong-ni	Ch'ilsong-ni,Chilseong-ri,Chilseongni,Ch’ilsŏng-ni,chilseongli,칠성리	42.26516	129.22076	A	ADM3	KP		17		12087213		0		581	Asia/Pyongyang	2025-06-13
+12087945	Mayang-nodongjagu	Mayang-nodongjagu	Mayang-nodongjagu,mayanglodongjagu,마양로동자구	42.03029	129.4927	A	ADM3	KP		17		12087945		0		812	Asia/Pyongyang	2019-09-07
+12088112	Chuch’o-rodongjagu	Chuch'o-rodongjagu	Chuch'o-rodongjagu,Chuch’o-rodongjagu,Jucho-nodongjagu,jucholodongjagu,주초로동자구	42.18821	129.31164	A	ADM3	KP		17		12088112		0		746	Asia/Pyongyang	2020-06-14
+12090377	Turubong-ni	Turubong-ni	Durubong-ri,Durubongni,Turubong-ni,dulubongli,두루봉리	42.90197	130.06923	A	ADM3	KP		17		12090377		0		144	Asia/Pyongyang	2025-07-18
+12090415	Chungyŏng-ni	Chungyong-ni	Chungyong-ni,Chungyŏng-ni,Jungyeongni,jung-yeongli,중영리	42.84326	130.18443	A	ADM3	KP		17		12090415		0		39	Asia/Pyongyang	2020-06-14
+12090436	Chŭngsal-li	Chungsal-li	Chungsal-li,Chŭngsal-li,Jeungsalli,Jeungsan-ri,jeungsanli,증산리	42.78614	129.95713	A	ADM3	KP		17		12090436		0		264	Asia/Pyongyang	2025-07-18
+12092732	Imgang-ni	Imgang-ni	Imgang-ni,Imgang-ri,Rimgang-ni,imgangli,limgangli,림강리,임강리	42.09976	129.03065	A	ADM3	KP		17		12092732		0		580	Asia/Pyongyang	2025-06-13
+12092869	Sinjin-dong	Sinjin-dong	Sinjin-dong,Sinjindong,sinjindong,신진동	41.77917	129.83858	A	ADM3	KP		17		12092869		0		31	Asia/Pyongyang	2025-07-18
+12092880	Namhyang I-tong	Namhyang I-tong	Namhyang 2-dong,Namhyang 2-tong,Namhyang I-dong,Namhyang I-tong,Namyang-dong,Namyangdong,nam-yangdong,namhyang-idong,namhyang2dong,남양동,남향2동,남향이동	41.80701	129.77218	A	ADM3	KP		17		12092880		0		5	Asia/Pyongyang	2025-07-18
+12092881	Sinhyang Il-tong	Sinhyang Il-tong	Sinhyang 1-dong,Sinhyang 1-tong,Sinhyang Il-dong,Sinhyang Il-tong,Sinhyang-dong,Sinhyangdong,sinhyang-ildong,sinhyang1dong,sinhyangdong,신향1동,신향동,신향일동	41.77841	129.77258	A	ADM3	KP		17		12092881		0		4	Asia/Pyongyang	2025-07-18
+12092882	Ch’umok-tong	Ch'umok-tong	Ch'umok-tong,Chumok-dong,Chumokdong,Chup'yong-dong,Chup'yŏng-dong,Ch’umok-tong,Jupyeongdong,chumogdong,jupyeongdong,주평동,추목동	41.80188	129.76381	A	ADM3	KP		17		12092882		0		5	Asia/Pyongyang	2025-07-18
+12092883	Namhyang Il-tong	Namhyang Il-tong	Namhyang 1-dong,Namhyang 1-tong,Namhyang Il-dong,Namhyang Il-tong,Namhyang-dong,Namhyangdong,namhyang-ildong,namhyang1dong,namhyangdong,남향1동,남향동,남향일동	41.80369	129.77736	A	ADM3	KP		17		12092883		0		7	Asia/Pyongyang	2025-07-18
+12092884	Pukhyang-dong	Pukhyang-dong	Bukhyang-dong,Bukhyangdong,Pukhyang-dong,bughyangdong,북향동	41.80829	129.77586	A	ADM3	KP		17		12092884		0		7	Asia/Pyongyang	2025-07-18
+12092888	Sŏam-dong	Soam-dong	Seoam-dong,Seoheungdong,Soam-dong,Sohung-dong,Sŏam-dong,Sŏhŭng-dong,seoamdong,seoheungdong,서암동,서흥동	41.78796	129.81307	A	ADM3	KP		17		12092888		0		24	Asia/Pyongyang	2025-07-18
+12092889	Chŏngsan-dong	Chongsan-dong	Chongsan-dong,Chŏngsan-dong,Jeongsan-dong,Jeongsandong,jeongsandong,정산동	41.79728	129.80332	A	ADM3	KP		17		12092889		0		19	Asia/Pyongyang	2025-07-18
+12092890	P’ohang-dong	P'ohang-dong	P'ohang-dong,Pohangdong,P’ohang-dong,pohangdong,포항동	41.79215	129.81286	A	ADM3	KP		17		12092890		0		56	Asia/Pyongyang	2020-06-14
+12092891	Kŭnhwa-dong	Kunhwa-dong	Geunhwa-dong,Geunhwadong,Kunhwa-dong,Kŭnhwa-dong,geunhwadong,근화동	41.78976	129.80738	A	ADM3	KP		17		12092891		0		7	Asia/Pyongyang	2025-07-18
+12092892	Haehŭng-dong	Haehung-dong	Haean-dong,Haeandong,Haeheung-dong,Haehung-dong,Haehŭng-dong,Maeksong-dong,Maeksongdong,haeandong,haeheungdong,maegsongdong,맥송동,해안동,해흥동	41.78262	129.82857	A	ADM3	KP		17		12092892		0		2	Asia/Pyongyang	2025-07-18
+12092893	Kwanhae-dong	Kwanhae-dong	Gwanhae-dong,Gwanhaedong,Kwanhae-dong,gwanhaedong,관해동	41.7829	129.80861	A	ADM3	KP		17		12092893		0		1	Asia/Pyongyang	2025-07-18
+12092895	Sunam Il-tong	Sunam Il-tong	Sunam 1-tong,Sunam Il-dong,Sunam Il-tong,sunam-ildong,수남일동	41.79062	129.77378	A	ADM3	KP		17		12092895		0		6	Asia/Pyongyang	2019-10-12
+12092896	Sunam I-dong	Sunam I-dong	Sunam 2-dong,Sunam I-dong,sunam-idong,sunam2dong,수남2동,수남이동	41.79619	129.76481	A	ADM3	KP		17		12092896		0		5	Asia/Pyongyang	2025-07-18
+12092897	Subuk Il-tong	Subuk Il-tong	Subuk 1-dong,Subuk 1-tong,Subuk Il-dong,Subuk Il-tong,subug-ildong,subug1dong,수북1동,수북일동	41.79821	129.78632	A	ADM3	KP		17		12092897		0		6	Asia/Pyongyang	2025-07-18
+12092898	Subuk I-dong	Subuk I-dong	Subuk 2-dong,Subuk I-dong,subug-idong,subug2dong,수북2동,수북이동	41.79997	129.78241	A	ADM3	KP		17		12092898		0		4	Asia/Pyongyang	2025-07-18
+12092899	Subuk Sam-dong	Subuk Sam-dong	Subuk 3-dong,Subuk Sam-dong,subug3dong,subugsamdong,수북3동,수북삼동	41.80099	129.77357	A	ADM3	KP		17		12092899		0		5	Asia/Pyongyang	2025-07-18
+12092900	Munhwa Il-tong	Munhwa Il-tong	Munhwa 1-dong,Munhwa 1-tong,Munhwa Il-dong,Munhwa Il-tong,munhwa1dong,munhwaildong,문화1동,문화일동	41.81522	129.78754	A	ADM3	KP		17		12092900		0		40	Asia/Pyongyang	2025-07-18
+12092901	Munhwa I-dong	Munhwa I-dong	Munhwa 2-dong,Munhwa I-dong,munhwa2dong,munhwaidong,문화2동,문화이동	41.80785	129.78297	A	ADM3	KP		17		12092901		0		7	Asia/Pyongyang	2025-07-18
+12092903	Marŭm Il-tong	Marum Il-tong	Mareum 1-dong,Mareum Il-dong,Mareundong,Marum 1-tong,Marum Il-tong,Marun-dong,Marŭm 1-tong,Marŭm Il-tong,Marŭn-dong,mal-eum-ildong,mal-eum1dong,mal-eundong,말은동,말음1동,말음일동	41.78618	129.77993	A	ADM3	KP		17		12092903		0		3	Asia/Pyongyang	2025-07-18
+12092904	Marŭm I-dong	Marum I-dong	Mareum 2-dong,Mareum I-dong,Marum 2-dong,Marum I-dong,Marŭm 2-dong,Marŭm I-dong,mal-eum-idong,mal-eum2dong,말음2동,말음이동	41.78171	129.78166	A	ADM3	KP		17		12092904		0		3	Asia/Pyongyang	2025-07-18
+12092905	Namgang Il-tong	Namgang Il-tong	Namgang 1-dong,Namgang 1-tong,Namgang Il-dong,Namgang Il-tong,namgang-ildong,namgang1dong,남강1동,남강일동	41.78372	129.78882	A	ADM3	KP		17		12092905		0		4	Asia/Pyongyang	2025-07-18
+12092906	Namgang I-dong	Namgang I-dong	Namgang 2-dong,Namgang I-dong,namgang-idong,namgang2dong,남강2동,남강이동	41.78534	129.79435	A	ADM3	KP		17		12092906		0		7	Asia/Pyongyang	2025-07-18
+12092907	Namgang Sam-dong	Namgang Sam-dong	Namgang 3-dong,Namgang Sam-dong,namgang3dong,namgangsamdong,남강3동,남강삼동	41.79338	129.79563	A	ADM3	KP		17		12092907		0		9	Asia/Pyongyang	2025-07-18
+12092908	Ch’ŏngsong Il-tong	Ch'ongsong Il-tong	Ch'ongsong 1-tong,Ch'ongsong Il-tong,Cheongsong 1-dong,Cheongsong Il-dong,Ch’ŏngsong 1-tong,Ch’ŏngsong Il-tong,cheongsong-ildong,cheongsong1dong,청송1동,청송일동	41.79562	129.78966	A	ADM3	KP		17		12092908		0		6	Asia/Pyongyang	2025-07-18
+12092909	Ch’ŏngsong I-dong	Ch'ongsong I-dong	Ch'ongsong 2-dong,Ch'ongsong I-dong,Cheongsong 2-dong,Cheongsong I-dong,Ch’ŏngsong 2-dong,Ch’ŏngsong I-dong,cheongsong-idong,cheongsong2dong,청송2동,청송이동	41.79034	129.79199	A	ADM3	KP		17		12092909		0		7	Asia/Pyongyang	2025-07-18
+12092910	Ch’ŏngsong Sam-dong	Ch'ongsong Sam-dong	Ch'ongsong 3-dong,Ch'ongsong Sam-dong,Cheongsong 3-dong,Cheongsong Sam-dong,Ch’ŏngsong 3-dong,Ch’ŏngsong Sam-dong,cheongsong3dong,cheongsongsamdong,청송3동,청송삼동	41.79652	129.77825	A	ADM3	KP		17		12092910		0		4	Asia/Pyongyang	2025-07-18
+12092911	Suwŏn Il-tong	Suwon Il-tong	Suwon 1-dong,Suwon 1-tong,Suwon Il-dong,Suwon Il-tong,Suwŏn 1-tong,Suwŏn Il-tong,suwon-ildong,suwon1dong,수원1동,수원일동	41.79369	129.78208	A	ADM3	KP		17		12092911		0		4	Asia/Pyongyang	2025-07-18
+12092912	Suwŏn I-dong	Suwon I-dong	Suwon 2-dong,Suwon I-dong,Suwŏn 2-dong,Suwŏn I-dong,suwon-idong,suwon2dong,수원2동,수원이동	41.78813	129.78591	A	ADM3	KP		17		12092912		0		4	Asia/Pyongyang	2025-07-18
+12094056	In’gok l-dong	In'gok l-dong	In'gok 2-dong,In'gok l-dong,In-gok 2-dong,In-gok I-dong,In’gok 2-dong,In’gok l-dong,ingog-idong,ingog2dong,인곡2동,인곡이동	41.80403	129.79105	A	ADM3	KP		17		12094056		0		14	Asia/Pyongyang	2025-07-18
+12102632	Yanghwa-rodongjagu	Yanghwa-rodongjagu	Yanghwa-gu,Yanghwa-nodongjagu,Yanghwa-rodongjagu,yanghwagu,yanghwalodongjagu,yanghwanodongjagu,양화구,양화노동자구,양화로동자구	41.21224	129.72027	A	ADM3	KP		17		12102632		0		8	Asia/Pyongyang	2025-08-14
+12103080	Naktong-ni	Naktong-ni	Nakdongni,Naktong-ni,nagdongli,낙동리	40.93948	129.4404	A	ADM3	KP		17		12103080		0		186	Asia/Pyongyang	2019-11-08
+12103084	Masal-li	Masal-li	Masal-li,Masalli,masanli,마산리	40.98391	129.40574	A	ADM3	KP		17		12103084		0		176	Asia/Pyongyang	2019-11-08
+12103116	Yŏngnam-nodongjagu	Yongnam-nodongjagu	Yeongnam-nodongjagu,Yongnam-nodongjagu,Yŏngnam-nodongjagu,yeongnamlodongjagu,영남로동자구	40.95033	129.35	A	ADM3	KP		17		12103116		0		281	Asia/Pyongyang	2020-06-14
+12103209	Paegwŏl-li	Paegwol-li	Baewolli,Paegwol-li,Paegwŏl-li,baeg-wonli,백원리	40.91168	129.31014	A	ADM3	KP		17		12103209		0		90	Asia/Pyongyang	2020-06-14
+12108602	Hosal-li	Hosal-li	Hoam,Hosal-li,Hosalli,Hosan-ni,Hosan-ri,hoam,hosanli,호산리,호암	41.59977	128.44466	A	ADM3	KP		13		12108602		0		1198	Asia/Pyongyang	2025-05-16
+12108635	Taesil-li	Taesil-li	Daesilli,Daesin-ri,Taesil-li,daesinli,대신리	41.50227	128.40051	A	ADM3	KP		13		12108635		0		1006	Asia/Pyongyang	2025-05-16
+12108641	Naegong-ni	Naegong-ni	Naegok-ri,Naegong-ni,Naegongni,naegogli,내곡리	41.54002	128.3589	A	ADM3	KP		13		12108641		0		856	Asia/Pyongyang	2025-05-16
+12117283	Kangdŏk Il-tong	Kangdok Il-tong	Gangdeok Il-dong,Kangdok 1-tong,Kangdok Il-tong,Kangdŏk 1-tong,Kangdŏk Il-tong,gangdeog1dong,강덕1동	41.74187	129.7183	A	ADM3	KP		17		12117283		0		15	Asia/Pyongyang	2020-06-14
+12117284	Pongch’ŏn I-dong	Pongch'on I-dong	Bongcheon I-dong,Pongch'on 2-dong,Pongch'on I-dong,Pongch’ŏn 2-dong,Pongch’ŏn I-dong,bongcheon2dong,봉천2동	41.74387	129.696	A	ADM3	KP		17		12117284		0		24	Asia/Pyongyang	2020-06-14
+12117285	Pongch’ŏn Il-tong	Pongch'on Il-tong	Bongcheon Il-dong,Pongch'on 1-tong,Pongch'on Il-tong,Pongch’ŏn 1-tong,Pongch’ŏn Il-tong,bongcheon1dong,봉천1동	41.73939	129.70214	A	ADM3	KP		17		12117285		0		13	Asia/Pyongyang	2020-06-14
+12117299	Songnim-dong	Songnim-dong	Songnim-dong,Songnimdong,songlimdong,송림동	41.74284	129.73262	A	ADM3	KP		17		12117299		0		8	Asia/Pyongyang	2020-01-11
+12117300	Ŭnjŏng I-dong	Unjong I-dong	Eunjeong I-dong,Unjong 2-dong,Unjong I-dong,eunjeong2dong,Ŭnjŏng 2-dong,Ŭnjŏng I-dong,은정2동	41.72789	129.74687	A	ADM3	KP		17		12117300		0		51	Asia/Pyongyang	2020-06-14
+12117301	Ŭnjŏng Il-tong	Unjong Il-tong	Eunjeong 1-dong,Unjong 1-tong,Unjong Il-tong,eunjeong1dong,Ŭnjŏng 1-tong,Ŭnjŏng Il-tong,은정1동	41.73063	129.73088	A	ADM3	KP		17		12117301		0		43	Asia/Pyongyang	2020-06-14
+12117303	Ragwŏn Il-tong	Ragwon Il-tong	Nagwon Il-dong,Ragwon 1-tong,Ragwon Il-tong,Ragwŏn 1-tong,Ragwŏn Il-tong,lag-won1dong,락원1동	41.73362	129.70889	A	ADM3	KP		17		12117303		0		12	Asia/Pyongyang	2020-06-14
+12117379	Pyŏnghwa-dong	Pyonghwa-dong	Pyeonghwadong,Pyonghwa-dong,Pyŏnghwa-dong,pyeonghwadong,평화동	41.72151	129.67316	A	ADM3	KP		17		12117379		0		81	Asia/Pyongyang	2020-06-14
+12117380	Nasŏng-dong	Nasong-dong	Naseongdong,Nasong-dong,Nasŏng-dong,naseongdong,나성동	41.7178	129.67891	A	ADM3	KP		17		12117380		0		29	Asia/Pyongyang	2020-06-14
+12117381	Nabuk Il-tong	Nabuk Il-tong	Nabuk 1-tong,Nabuk Il-dong,Nabuk Il-tong,nabug1dong,나북1동	41.72365	129.69983	A	ADM3	KP		17		12117381		0		10	Asia/Pyongyang	2020-01-11
+12117382	Nabuk I-dong	Nabuk I-dong	Nabuk 2-dong,Nabuk I-dong,nabug2dong,나북2동	41.73204	129.68706	A	ADM3	KP		17		12117382		0		28	Asia/Pyongyang	2020-01-11
+12117383	Sinhŭng-dong	Sinhung-dong	Sinheungdong,Sinhung-dong,Sinhŭng-dong,sinheungdong,신흥동	41.71275	129.70936	A	ADM3	KP		17		12117383		0		132	Asia/Pyongyang	2020-06-14
+12117386	P’unggok-tong	P'unggok-tong	P'unggok-tong,Punggokdong,P’unggok-tong,pung-gogdong,풍곡동	41.70891	129.65933	A	ADM3	KP		17		12117386		0		143	Asia/Pyongyang	2020-06-14
+12117387	Nahŭng Il-tong	Nahung Il-tong	Naheung Il-dong,Nahung 1-tong,Nahung Il-tong,Nahŭng 1-tong,Nahŭng Il-tong,naheung1dong,나흥1동	41.71312	129.68289	A	ADM3	KP		17		12117387		0		26	Asia/Pyongyang	2020-06-14
+12117388	Nahŭng I-dong	Nahung I-dong	Naheung I-dong,Nahung 2-dong,Nahung I-dong,Nahŭng 2-dong,Nahŭng I-dong,naheung2dong,나흥2동	41.70869	129.68459	A	ADM3	KP		17		12117388		0		46	Asia/Pyongyang	2020-06-14
+12117671	Yŏmbul-li	Yombul-li	Yeombulli,Yombul-li,Yŏmbul-li,yeombunli,염분리	41.54512	129.64578	A	ADM3	KP		17		12117671		0		2	Asia/Pyongyang	2020-06-14
+12118169	Ch’ŏnghak-tong	Ch'onghak-tong	Ch'onghak-tong,Cheonghakdong,Ch’ŏnghak-tong,cheonghagdong,청학동	40.65772	129.14357	A	ADM3	KP		17		12118169		0		246	Asia/Pyongyang	2020-06-14
+12118171	Ssangnyong-dong	Ssangnyong-dong	Ssangnyong-dong,Ssangnyongdong,ssanglyongdong,쌍룡동	40.61786	129.155	A	ADM3	KP		17		12118171		0		151	Asia/Pyongyang	2020-01-11
+12118172	Yŏkchŏn-dong	Yokchon-dong	Yeokjeondong,Yokchon-dong,Yŏkchŏn-dong,yeogjeondong,역전동	40.65809	129.1952	A	ADM3	KP		17		12118172		0		7	Asia/Pyongyang	2020-06-14
+12118382	Songnyŏng I-dong	Songnyong I-dong	Songnyeong I-dong,Songnyong 2-dong,Songnyong I-dong,Songnyŏng 2-dong,Songnyŏng I-dong,songlyeong-idong,송령이동	40.71892	129.15647	A	ADM3	KP		17		12118382		0		34	Asia/Pyongyang	2020-06-14
+12118383	Songnyŏng Il-dong	Songnyong Il-dong	Songnyeong Il-dong,Songnyong 1-dong,Songnyong Il-dong,Songnyŏng 1-dong,Songnyŏng Il-dong,songlyeong-ildong,송령일동	40.70588	129.15755	A	ADM3	KP		17		12118383		0		40	Asia/Pyongyang	2020-06-14
+12119051	Chegang I-dong	Chegang I-dong	Chegang 2-dong,Chegang I-dong,Jegang I-dong,jegang-idong,제강이동	40.71964	129.22462	A	ADM3	KP		17		12119051		0		6	Asia/Pyongyang	2020-01-11
+12119052	Chegang Il-dong	Chegang Il-dong	Chegang 1-dong,Chegang Il-dong,Jegang Il-dong,jegang-ildong,제강일동	40.70999	129.21356	A	ADM3	KP		17		12119052		0		6	Asia/Pyongyang	2020-01-11
+12119053	Ssangam I-dong	Ssangam I-dong	Ssangam 2-dong,Ssangam I-dong,ssang-am-idong,쌍암이동	40.70995	129.20141	A	ADM3	KP		17		12119053		0		4	Asia/Pyongyang	2020-01-11
+12119054	Ssangam Il-dong	Ssangam Il-dong	Ssangam 1-dong,Ssangam Il-dong,ssang-am-ildong,쌍암일동	40.70164	129.19353	A	ADM3	KP		17		12119054		0		52	Asia/Pyongyang	2020-01-11
+12119055	Ssanghwa-dong	Ssanghwa-dong	Ssanghwa-dong,Ssanghwadong,ssanghwadong,쌍화동	40.70633	129.17281	A	ADM3	KP		17		12119055		0		60	Asia/Pyongyang	2020-01-11
+12119057	Hanch’ŏn-dong	Hanch'on-dong	Hanch'on-dong,Hancheondong,Hanch’ŏn-dong,hancheondong,한천동	40.67858	129.18239	A	ADM3	KP		17		12119057		0		89	Asia/Pyongyang	2020-06-14
+12119058	Sinp’yŏng-dong	Sinp'yong-dong	Sinp'yong-dong,Sinpyeongdong,Sinp’yŏng-dong,sinpyeongdong,신평동	40.68543	129.19161	A	ADM3	KP		17		12119058		0		119	Asia/Pyongyang	2020-06-14
+12119059	Haean-dong	Haean-dong	Haean-dong,Haeandong,haeandong,해안동	40.67579	129.1989	A	ADM3	KP		17		12119059		0		13	Asia/Pyongyang	2020-01-11
+12119063	Ch’ŏnsu-dong	Ch'onsu-dong	Ch'onsu-dong,Cheonsudong,Ch’ŏnsu-dong,cheonsudong,천수동	41.89013	129.49176	A	ADM3	KP		17		12119063		0		732	Asia/Pyongyang	2020-06-14
+12119064	Sŏnbawi-dong	Sonbawi-dong	Seonbawidong,Sonbawi-dong,Sŏnbawi-dong,seonbawidong,선바위동	41.89733	129.50521	A	ADM3	KP		17		12119064		0		519	Asia/Pyongyang	2020-06-14
+12119069	Puyun I-tong	Puyun I-tong	Buyun I-dong,Puyun 2-tong,Puyun I-tong,buyun-idong,부윤이동	41.91705	129.48275	A	ADM3	KP		17		12119069		0		722	Asia/Pyongyang	2020-01-11
+12119073	Kosŏng I-tong	Kosong I-tong	Goseong I-dong,Kosong 2-tong,Kosong I-tong,Kosŏng 2-tong,Kosŏng I-tong,goseong-idong,goseong2dong,고성2동,고성이동	41.86292	129.5109	A	ADM3	KP		17		12119073		0		419	Asia/Pyongyang	2020-06-14
+12119074	Kosŏng Il-tong	Kosong Il-tong	Goseong Il-dong,Kosong 1-tong,Kosong Il-tong,Kosŏng 1-tong,Kosŏng Il-tong,goseong-ildong,goseong1dong,고성1동,고성일동	41.85181	129.51773	A	ADM3	KP		17		12119074		0		477	Asia/Pyongyang	2020-06-14
+12119082	Nagwŏn I-dong	Nagwon I-dong	Nagwon 2-dong,Nagwon I-dong,Nagwŏn 2-dong,Nagwŏn I-dong,nag-won-idong,nag-won2dong,낙원2동,낙원이동	41.77044	129.68084	A	ADM3	KP		17		12119082		0		65	Asia/Pyongyang	2020-06-14
+12119083	Puam-dong	Puam-dong	Buamdong,Puam-dong,buamdong,부암동	41.77494	129.69857	A	ADM3	KP		17		12119083		0		30	Asia/Pyongyang	2020-01-11
+12119084	Kangdŏk I-dong	Kangdok I-dong	Gangdeok I-dong,Kangdok 2-dong,Kangdok I-dong,Kangdŏk 2-dong,Kangdŏk I-dong,gangdeog-idong,gangdeog2dong,강덕2동,강덕이동	41.76275	129.70935	A	ADM3	KP		17		12119084		0		41	Asia/Pyongyang	2020-06-14
+12119086	Sabang-dong	Sabang-dong	Sabang-dong,Sabangdong,sabangdong,사방동	41.76321	129.73922	A	ADM3	KP		17		12119086		0		6	Asia/Pyongyang	2020-01-11
+12119526	Sinhŭng-ni	Sinhung-ni	Sinheungni,Sinhung-ni,Sinhŭng-ni,sinheungli,신흥리	41.49172	128.32344	A	ADM3	KP		13		12119526		0		850	Asia/Pyongyang	2020-06-14
+12119527	Songbong I-dong	Songbong I-dong	Songbong 2-dong,Songbong I-dong,songbong-idong,songbong2dong,송봉2동,송봉이동	41.42925	128.26074	A	ADM3	KP		13		12119527		0		952	Asia/Pyongyang	2020-01-11
+12119528	Kŏmsan-dong	Komsan-dong	Geomsandong,Komsan-dong,Kŏmsan-dong,geomsandong,검산동	41.42795	128.27587	A	ADM3	KP		13		12119528		0		790	Asia/Pyongyang	2020-06-14
+12119541	Taeha-ri	Taeha-ri	Daehari,Taeha-ri,daehali,대하리	41.42221	128.36106	A	ADM3	KP		13		12119541		0		957	Asia/Pyongyang	2020-01-11
+12119554	Tonp’o-ri	Tonp'o-ri	Dongpori,Tonp'o-ri,Tonp’o-ri,dongpoli,동포리	41.4217	128.43028	A	ADM3	KP		13		12119554		0		1151	Asia/Pyongyang	2020-06-14
+12119557	Pogal-li	Pogal-li	Bogalli,Pogal-li,bog-anli,복안리	41.37186	128.49255	A	ADM3	KP		13		12119557		0		1453	Asia/Pyongyang	2020-01-11
+12119579	Taejung-ni	Taejung-ni	Daejungni,Taejung-ni,daejungli,대중리	41.40164	128.39649	A	ADM3	KP		13		12119579		0		919	Asia/Pyongyang	2020-01-11
+12119585	Nojung-ni	Nojung-ni	Nojung-ni,Nojungni,nojungli,노중리	41.36621	128.30401	A	ADM3	KP		13		12119585		0		938	Asia/Pyongyang	2020-01-11
+12119611	Taedong-nodongjagu	Taedong-nodongjagu	Daedong-nodongjagu,Taedong-nodongjagu,daedonglodongjagu,대동로동자구	41.31769	128.38285	A	ADM3	KP		13		12119611		0		1041	Asia/Pyongyang	2020-01-11
+12119623	Sinjung-ni	Sinjung-ni	Sinjung-ni,Sinjungni,sinjeungli,신증리	41.29305	128.39509	A	ADM3	KP		13		12119623		0		1049	Asia/Pyongyang	2020-01-11
+12119670	Changhang-ni	Changhang-ni	Changhang-ni,Janghangni,janghangli,장항리	41.29582	128.46449	A	ADM3	KP		13		12119670		0		1070	Asia/Pyongyang	2020-01-11
+12119847	Yŏnp’ung-dong	Yonp'ung-dong	Yeonpungdong,Yonp'ung-dong,Yŏnp’ung-dong,yeonpungdong,연풍동	41.43354	128.22578	A	ADM3	KP		13		12119847		0		868	Asia/Pyongyang	2025-05-16
+12119848	Songbong Il-tong	Songbong Il-tong	Songbong 1 dong,Songbong 1-tong,Songbong Il dong,Songbong Il-tong,songbong-ildong,songbong1dong,송봉1동,송봉일동	41.43106	128.24313	A	ADM3	KP		13		12119848		0		831	Asia/Pyongyang	2025-05-16
+12119849	Kangan-dong	Kangan-dong	Gang-an-dong,Gangandong,Kangan-dong,gang-andong,강안동	41.41357	128.20842	A	ADM3	KP		13		12119849		0		713	Asia/Pyongyang	2025-05-16
+12120566	Sinjŏl-li	Sinjol-li	Sinjeolli,Sinjeon-ri,Sinjol-li,Sinjon-ni,Sinjŏl-li,Sinjŏn-ni,sinjeonli,신전리	41.31265	128.06389	A	ADM3	KP		13		12120566		0		947	Asia/Pyongyang	2025-05-16
+12120593	Tongsu-ri	Tongsu-ri	Dongsu-ri,Dongsuri,Tongsu-ri,dongsuli,동수리	41.2651	128.01643	A	ADM3	KP		13		12120593		0		913	Asia/Pyongyang	2025-05-16
+12120596	Hyet’an-dong	Hyet'an-dong	Hyet'an-dong,Hyetan-dong,Hyetandong,Hyet’an-dong,hyetandong,혜탄동	41.3833	128.16065	A	ADM3	KP		13		12120596		0		769	Asia/Pyongyang	2025-05-16
+12120597	Hyehwa-dong	Hyehwa-dong	Hyehwa-dong,Hyehwadong,hyehwadong,혜화동	41.39004	128.16667	A	ADM3	KP		13		12120597		0		730	Asia/Pyongyang	2025-05-16
+12120598	Hyegang-dong	Hyegang-dong	Hyegang-dong,Hyegangdong,hyegangdong,혜강동	41.40002	128.16615	A	ADM3	KP		13		12120598		0		684	Asia/Pyongyang	2025-05-16
+12120685	Yŏnbong I-dong	Yonbong I-dong	Yeonbong 2 dong,Yeonbong 2-dong,Yeonbong I dong,Yeonbong I-dong,Yonbong 2-dong,Yonbong I-dong,Yŏnbong 2-dong,Yŏnbong I-dong,yeonbong-idong,yeonbong2dong,연봉2동,연봉이동	41.38654	128.20419	A	ADM3	KP		13		12120685		0		885	Asia/Pyongyang	2025-05-16
+12120686	Masan I-dong	Masan I-dong	Masan 2 dong,Masan 2-dong,Masan I dong,Masan I-dong,masan-idong,masan2dong,마산2동,마산이동	41.37843	128.16523	A	ADM3	KP		13		12120686		0		731	Asia/Pyongyang	2025-05-16
+12120687	Masan Il-tong	Masan Il-tong	Masan 1 dong,Masan 1-tong,Masan Il dong,Masan Il-tong,masan-ildong,masan1dong,마산1동,마산일동	41.38268	128.17079	A	ADM3	KP		13		12120687		0		719	Asia/Pyongyang	2025-05-16
+12120716	Yŏnbong Il-tong	Yonbong Il-tong	Yeonbong 1 dong,Yeonbong Il dong,Yonbong 1-tong,Yonbong Il-tong,Yŏnbong 1-tong,Yŏnbong Il-tong,yeonbong-ildong,yeonbong1dong,연봉1동,연봉일동	41.39438	128.18008	A	ADM3	KP		13		12120716		0		795	Asia/Pyongyang	2025-05-16
+12120719	T’apsŏng-dong	T'apsong-dong	T'apsong-dong,Tapseong-dong,Tapseongdong,T’apsŏng-dong,tabseongdong,탑성동	41.39966	128.18896	A	ADM3	KP		13		12120719		0		785	Asia/Pyongyang	2025-05-16
+12120720	Sŏnghu-dong	Songhu-dong	Seonghu-dong,Seonghudong,Songhu-dong,Sŏnghu-dong,seonghudong,성후동	41.40294	128.19263	A	ADM3	KP		13		12120720		0		770	Asia/Pyongyang	2025-05-16
+12120721	Hyemyŏng-dong	Hyemyong-dong	Hyemyeong-dong,Hyemyeongdong,Hyemyong-dong,Hyemyŏng-dong,Hyesan-dong,Hyesandong,hyemyeongdong,hyesandong,혜명동,혜산동	41.40459	128.17431	A	ADM3	KP		13		12120721		0		690	Asia/Shanghai	2025-05-16
+12120722	Hyejang-dong	Hyejang-dong	Hyejang-dong,Hyejangdong,hyejangdong,혜장동	41.4031	128.16891	A	ADM3	KP		13		12120722		0		686	Asia/Shanghai	2025-05-16
+12120723	Hyesin-dong	Hyesin-dong	Hyesin-dong,Hyesindong,hyesindong,혜신동	41.40148	128.17129	A	ADM3	KP		13		12120723		0		688	Asia/Pyongyang	2025-05-16
+12120724	Hyehŭng-dong	Hyehung-dong	Hyeheung-dong,Hyeheungdong,Hyehung-dong,Hyehŭng-dong,hyeheungdong,혜흥동	41.39794	128.16925	A	ADM3	KP		13		12120724		0		688	Asia/Pyongyang	2025-05-16
+12120725	Sinhŭng-dong	Sinhung-dong	Sinheung-dong,Sinheungdong,Sinhung-dong,Sinhŭng-dong,sinheungdong,신흥동	41.3933	128.16896	A	ADM3	KP		13		12120725		0		751	Asia/Pyongyang	2025-05-16
+12120741	Hwangchŏl-li	Hwangchol-li	Hwangcheol-ri,Hwangcheolli,Hwangchol-li,Hwangchŏl-li,hwangcheolli,황철리	41.33475	127.82934	A	ADM3	KP		13		12120741		0		963	Asia/Pyongyang	2025-05-16
+12121502	Kŏnha-ri	Konha-ri	Geonhari,Konha-ri,Kŏnha-ri,geonhali,건하리	41.732	126.85778	A	ADM3	KP		01		12121502		0		348	Asia/Pyongyang	2020-06-14
+12129676	Yonghŭng 1-tong	Yonghung 1-tong	Ryonghung 1-tong,Ryonghung Il-tong,Ryonghŭng 1-tong,Ryonghŭng Il-tong,Yongheung 1-dong,Yongheung Il-dong,Yonghung 1-tong,Yonghung Il-tong,Yonghung-dong,Yonghŭng 1-tong,Yonghŭng Il-tong,Yonghŭng-dong,leungheungdong,lyongheung-ildong,lyongheung1dong,yongheung-ildong,yongheung1dong,룡흥1동,룡흥일동,릉흥동,용흥1동,용흥일동	39.06458	125.76183	A	ADM3	KP		12		12129676		0		26	Asia/Pyongyang	2021-12-16
+12153330	Yangch’ŏn-dong	Yangch'on-dong	Yangch'on-dong,Yangcheondong,Yangch’ŏn-dong,yangcheondong,양천동	41.03981	128.85233	A	ADM3	KP		03		12153330		0		947	Asia/Pyongyang	2020-06-14
+12167283	Chŏnsal-li	Chonsal-li	Chonsal-li,Chŏnsal-li,Jeonsan-ri,jeonsanli,전산리	37.924	125.12752	A	ADM3	KP		06		12167283		0		14	Asia/Pyongyang	2020-07-13
+12179084	kosan-ŭp	kosan-up	gosan-eub,kosan-up,kosan-ŭp,고산읍	38.85885	127.41849	A	ADM3	KP		09		12179084		0		206	Asia/Pyongyang	2020-08-15
+12179088	Yangsa-ri	Yangsa-ri	Yangsa-ri,yangsali,양사리	38.90072	127.41171	A	ADM3	KP		09		12179088		0		206	Asia/Pyongyang	2020-08-15
+12218348	Nangnang	Nangnang	Nangnang,Nangnang-guyok,Nangnang-guyŏk,Nangnangguyeok,naglang,naglang-guyeog,낙랑,낙랑구역	38.97567	125.70414	A	ADM3	KP		12		12218348		0		22	Asia/Pyongyang	2021-03-19
+12255358	Yŏmho-ri	Yomho-ri	Yomho-ri,Yŏmho-ri,yeomholi,염호리	39.63269	125.09707	A	ADM3	KP		11		12255358		0		11	Asia/Pyongyang	2021-07-13
+12255361	Wŏnha-ri	Wonha-ri	Wonha-ri,Wŏnha-ri,wonhali,원하리	39.65034	125.11629	A	ADM3	KP		11		12255361		0		24	Asia/Pyongyang	2021-07-13
+12255364	Kohyŏl-li	Kohyol-li	Kohyol-li,Kohyŏl-li,gohyeonli,고현리	39.69914	124.99426	A	ADM3	KP		11		12255364		0		42	Asia/Pyongyang	2021-07-13
+12255370	Changnyong-ni	Changnyong-ni	Changnyong-ni,janglyongli,장룡리	39.74745	125.01677	A	ADM3	KP		11		12255370		0		26	Asia/Pyongyang	2021-07-13
+12255377	Wŏnjil-li	Wonjil-li	Wonjil-li,Wŏnjil-li,wonjinli,원진리	39.80944	125.17926	A	ADM3	KP		11		12255377		0		82	Asia/Pyongyang	2021-07-13
+12255380	Nambaeng-ni	Nambaeng-ni	Nambaek-ri,Nambaeng-ni,Namheung-ri,Namhung-ni,Namhŭng-ni,nambaegli,namheungli,남백리,남흥리	39.8659	125.32527	A	ADM3	KP		11		12255380		0		127	Asia/Pyongyang	2026-02-12
+12255382	SinhŭngIl-tong	SinhungIl-tong	SinhungIl-tong,SinhŭngIl-tong,sinheung1dong,신흥1동	39.8828	125.25205	A	ADM3	KP		11		12255382		0		102	Asia/Pyongyang	2026-02-12
+12255383	Choil-li	Choil-li	Choil-li,Choyang-dong,Choyang-ni,Joil-ri,Joyang-dong,Joyang-ri,chao yang dong,chao yang li,joilli,joyangdong,joyangli,朝陽洞,朝陽里,조양동,조양리,조일리	39.90242	125.28473	A	ADM3	KP		11		12255383		0		88	Asia/Pyongyang	2026-02-12
+12255384	Paeksang-ni	Paeksang-ni	Paeksang-ni,baegsangli,백상리	39.90646	125.14079	A	ADM3	KP		11		12255384		0		140	Asia/Pyongyang	2021-07-13
+12255385	Unyang-dong	Unyang-dong	Unyang-dong,un-yangdong,운양동	39.90741	125.2121	A	ADM3	KP		11		12255385		0		91	Asia/Pyongyang	2021-07-13
+12255386	Paeksŏk-tong	Paeksok-tong	Paeksok-tong,Paeksŏk-tong,baegseogdong,백석동	39.91778	125.16	A	ADM3	KP		11		12255386		0		111	Asia/Pyongyang	2021-07-13
+12255388	Obong-ni	Obong-ni	Bong-dong,Obong-ni,Obong-ri,Pong-dong,bongdong,feng dong,obongli,wu feng li,五峰里,鳳洞,봉동,오봉리	39.92165	125.28605	A	ADM3	KP		11		12255388		0		71	Asia/Pyongyang	2025-12-16
+12255389	Chungbang-ni	Chungbang-ni	Chungbang-ni,jungbangli,중방리	39.92192	125.17764	A	ADM3	KP		11		12255389		0		93	Asia/Pyongyang	2021-07-13
+12255390	Kŭmsal-li	Kumsal-li	Kumsal-li,Kŭmsal-li,geumsanli,금산리	39.9285	125.23748	A	ADM3	KP		11		12255390		0		102	Asia/Pyongyang	2021-07-13
+12255391	Kiryong-ni	Kiryong-ni	Giryong-ri,Kiryong-ni,gilyongli,qi long li,氣龍里,기룡리	39.91798	125.37659	A	ADM3	KP		11		12255391		0		51	Asia/Pyongyang	2025-12-16
+12255392	Unp’ung-ni	Unp'ung-ni	Unp'ung-ni,Unp’ung-ni,unpungli,운풍리	39.935	125.14406	A	ADM3	KP		11		12255392		0		165	Asia/Pyongyang	2021-07-13
+12326489	Namsal-li	Namsal-li	Namsal-li,Namsan-ri,namsanli,남산리	38.6261	125.42142	A	ADM3	KP		06		12326489		0		35	Asia/Pyongyang	2021-10-08
+12326490	Madu-ri	Madu-ri	Madu-ri,maduli,마두리	38.66532	125.4455	A	ADM3	KP		06		12326490		0		34	Asia/Pyongyang	2021-10-08
+12384818	Pongŭi-ri	Pongui-ri	Bongui-ri,Pongui-ri,Pongŭi-ri,bong-uili,봉의리	38.59201	125.6865	A	ADM3	KP		07		12384818		0		3	Asia/Pyongyang	2021-12-19
+12384819	Pukji-ri	Pukji-ri	Bukji-ri,Pukji-ri,bugjili,북지리	38.51201	125.65641	A	ADM3	KP		06		12384819		0		2	Asia/Pyongyang	2021-12-19
+12384820	Ch’ŏlsan-dong	Ch'olsan-dong	Ch'olsan-dong,Cheolsan-dong,Ch’ŏlsan-dong,cheolsandong,철산동	38.74947	125.63779	A	ADM3	KP		07		12384820		0		24	Asia/Pyongyang	2021-12-19
+12384822	Chŏn-dong	Chon-dong	Chon-dong,Chŏn-dong,Jeon-dong,jeondong,전동	38.74757	125.6441	A	ADM3	KP		07		12384822		0		29	Asia/Pyongyang	2021-12-19
+12384828	Kwangsŏng-dong	Kwangsong-dong	Gwangseong-dong,Kwangsong-dong,Kwangsŏng-dong,gwangseongdong,광성동	38.5252	125.73026	A	ADM3	KP		07		12384828		0		10	Asia/Pyongyang	2021-12-19
+12384833	Wŏnju-dong	Wonju-dong	Wonju-dong,Wŏnju-dong,wonjudong,원주동	38.52527	125.7542	A	ADM3	KP		07		12384833		0		55	Asia/Pyongyang	2021-12-19
+12384834	Wŏlbong-dong	Wolbong-dong	Wolbong-dong,Wŏlbong-dong,wolbongdong,월봉동	38.74108	125.61909	A	ADM3	KP		07		12384834		0		10	Asia/Pyongyang	2021-12-19
+12384836	Un’gok-tong	Un'gok-tong	Un'gok-tong,Ungok-dong,Un’gok-tong,ungogdong,운곡동	38.73965	125.62779	A	ADM3	KP		07		12384836		0		10	Asia/Pyongyang	2021-12-19
+12384838	Saesallim1-tong	Saesallim1-tong	Saesallim1-dong,Saesallim1-tong,Saesallimil-dong,saesallim1dong,새살림1동	38.747	125.6519	A	ADM3	KP		07		12384838		0		27	Asia/Pyongyang	2021-12-19
+12421245	Kŭmdong-ni	Kumdong-ni	Geumdong-ri,Kumdong-ni,Kŭmdong-ni,geumdongli,금동리	37.74226	125.4201	A	ADM3	KP		06		12421245		0		7	Asia/Pyongyang	2022-02-19
+12421338	Naedong-ni	Naedong-ni	Naedong-ni,Naedongni,naedongli,내동리	37.93483	125.59678	A	ADM3	KP		06		12421338		0		37	Asia/Pyongyang	2022-02-19
+12421342	Yongyŏn-ni	Yongyon-ni	Yongyeonni,Yongyon-ni,Yongyŏn-ni,yong-yeonli,용연리	37.8762	125.54946	A	ADM3	KP		06		12421342		0		14	Asia/Pyongyang	2022-02-19
+12422410	Taep’ung-ni	Taep'ung-ni	Daepungni,Taep'ung-ni,Taep’ung-ni,daepungli,대풍리	37.95824	125.91984	A	ADM3	KP		06		12422410		0		26	Asia/Pyongyang	2022-02-19
+12422426	Hŭngsan-ni	Hungsan-ni	Heungsanni,Hungsan-ni,Hŭngsan-ni,heungsanli,흥산리	37.98374	125.9953	A	ADM3	KP		06		12422426		0		27	Asia/Pyongyang	2022-02-19
+12422440	Maryong-ni	Maryong-ni	Maryong-ni,Maryongni,malyongli,마룡리	37.92944	125.91481	A	ADM3	KP		06		12422440		0		6	Asia/Pyongyang	2022-02-19
+12422450	Sinhŭng-nodongjagu	Sinhung-nodongjagu	Sinheungnodongjagu,Sinhung-nodongjagu,Sinhŭng-nodongjagu,sinheungnodongjagu,신흥노동자구	37.98268	125.85673	A	ADM3	KP		06		12422450		0		25	Asia/Pyongyang	2022-02-19
+12422451	Sinp’ung-ni	Sinp'ung-ni	Sinp'ung-ni,Sinpungni,Sinp’ung-ni,sinpungli,신풍리	37.84659	125.93531	A	ADM3	KP		06		12422451		0		8	Asia/Pyongyang	2022-02-19
+12422453	Yanghwa-ri	Yanghwa-ri	Yanghwa-ri,Yanghwari,yanghwali,양화리	37.98491	125.88971	A	ADM3	KP		06		12422453		0		34	Asia/Pyongyang	2022-02-19
+12451248	Yŏn’gwang-ni	Yon'gwang-ni	Yeongwang-ni,Yon'gwang-ni,Yŏn’gwang-ni,yeongwangli,연광리	38.35679	125.05122	A	ADM3	KP		06		12451248		0		115	Asia/Pyongyang	2022-04-19
+12451249	Yaksal-li	Yaksal-li	Yaksal-li,yagsanli,약산리	38.38503	125.1213	A	ADM3	KP		06		12451249		0		103	Asia/Pyongyang	2022-06-21
+12451250	Paksal-li	Paksal-li	Baksal-li,Paksal-li,bagsanli,박산리	38.29089	125.09129	A	ADM3	KP		06		12451250		0		43	Asia/Pyongyang	2022-06-21
+12487130	Changsal-li	Changsal-li	Changsal-li,Jangsan-ri,jangsanli,장산리	38.1503	124.78354	A	ADM3	KP		06		12487130		0		4	Asia/Pyongyang	2022-05-24
+12487518	Kumi-ri	Kumi-ri	Gumi-ri,Kumi-ri,gumili,구미리	38.09675	124.99958	A	ADM3	KP		06		12487518		0		8	Asia/Pyongyang	2022-05-24
+12489881	Kŏnsal-li	Konsal-li	Geonsan-ri,Konsal-li,Kŏnsal-li,geonsanli,건산리	38.40344	125.39471	A	ADM3	KP		06		12489881		0		37	Asia/Pyongyang	2022-06-21
+12489891	P’aeyŏm-ni	P'aeyom-ni	P'aeyom-ni,Paeyeop-ri,P’aeyŏm-ni,paeyeobli,패엽리	38.48884	125.35513	A	ADM3	KP		06		12489891		0		77	Asia/Pyongyang	2022-06-21
+12489894	Samch’ŏn-eup	Samch'on-eup	Samch'on-eup,Samcheon-eup,Samch’ŏn-eup,samcheon-eub,삼천읍	38.36018	125.32199	A	ADM3	KP		06	1871541	12489894		0		42	Asia/Pyongyang	2022-09-01
+12489898	Yongam-ni	Yongam-ni	Yongam-ni,yong-amli,용암리	38.35535	125.25306	A	ADM3	KP		06		12489898		0		71	Asia/Pyongyang	2022-06-21
+12489905	Chuam-ni	Chuam-ni	Chuam-ni,Juam-ni,juamli,주암리	38.26298	126.24438	A	ADM3	KP		07		12489905		0		60	Asia/Pyongyang	2022-06-21
+12489908	Ch'ŏngsu-ri	Ch'ongsu-ri	Ch'ongsu-ri,Ch'ŏngsu-ri,Cheongsu-ri,cheongsuli,청수리	38.29368	126.29119	A	ADM3	KP		07		12489908		0		106	Asia/Pyongyang	2022-11-13
+12489918	Samnyong-ni	Samnyong-ni	Samnyong-ni,samlyongli,삼룡리	38.30883	126.39147	A	ADM3	KP		07		12489918		0		142	Asia/Pyongyang	2022-06-21
+12489927	Chup’o-ri	Chup'o-ri	Chup'o-ri,Chup’o-ri,Jupo-ri,jupoli,주포리	38.24711	126.38838	A	ADM3	KP		07		12489927		0		68	Asia/Pyongyang	2022-06-21
+12498885	Suhoe-ri	Suhoe-ri	Sangha-ri,Suhoe-ri,sanghali,suhoeli,상하리,수회리	38.33569	126.94069	A	ADM3	KP		09		12498885		0		135	Asia/Pyongyang	2025-12-16
+12498887	Puam-ni	Puam-ni	Buam-ni,Buap-ri,Puam-ni,buabli,buamli,fu ya li,fu yan li,浮岩里,浮鴨里,부암리,부압리	38.28271	126.89332	A	ADM3	KP		09		12498887		0		135	Asia/Pyongyang	2025-12-16
+12500166	Chunggang-ni	Chunggang-ni	Chunggang-ni,Junggang-ni,jung-gangli,중강리	38.33234	127.22554	A	ADM3	KP		09		12500166		0		265	Asia/Pyongyang	2022-11-13
+12500173	Sanggap-ri	Sanggap-ri	Sanggap-ri,sang-gabli,상갑리	38.44473	127.24298	A	ADM3	KP		09		12500173		0		343	Asia/Pyongyang	2022-11-13
+12500176	Kagong-ni	Kagong-ni	Gagong-ni,Kagong-ni,gagogli,가곡리	38.38915	127.20266	A	ADM3	KP		09		12500176		0		349	Asia/Pyongyang	2022-11-13
+12512169	Ryongjiwŏl-li	Ryongjiwol-li	Ryongjiwol-li,Ryongjiwon-ri,Ryongjiwŏl-li,Yongjiwol-li,Yongjiwon-ri,Yongjiwŏl-li,lyongjiwonli,yongjiwonli,룡지원리,용지원리	38.9224	127.44604	A	ADM3	KP		09		12512169		0		147	Asia/Pyongyang	2025-10-16
+12512172	Mop'ung-ni	Mop'ung-ni	Mop'ung-ni,Mopung-ni,Mopung-ri,mopungli,모풍리	38.98976	127.50144	A	ADM3	KP		09		12512172		0		21	Asia/Pyongyang	2025-10-16
+12515710	Yongam-ni	Yongam-ni	Yongam-ni,yong-amli,용암리	39.19555	126.75557	A	ADM3	KP		15		12515710		0		411	Asia/Pyongyang	2023-03-09
+12515714	Kuryong-ni	Kuryong-ni	Guryong-ni,Kuryong-ni,gulyongli,구룡리	39.17102	126.96181	A	ADM3	KP		15		12515714		0		351	Asia/Pyongyang	2023-03-09
+12527155	Changbaek-tong	Changbaek-tong	Changbaek-tong,Jangbaek-dong,jangbaegdong,장백동	39.24797	127.34512	A	ADM3	KP		09		12527155		0		1	Asia/Pyongyang	2023-05-13
+12527157	Myŏngsasimni-dong	Myongsasimni-dong	Myeongsasimni-dong,Myongsasimni-dong,Myŏngsasimni-dong,myeongsasiblidong,명사십리동	39.17203	127.48621	A	ADM3	KP		09		12527157		0		-9999	Asia/Pyongyang	2023-05-13
+12527159	Haebang Il-dong	Haebang Il-dong	Haebang 1-dong,Haebang Il-dong,haebang-ildong,haebang1dong,해방1동,해방일동	39.16653	127.44216	A	ADM3	KP		09		12527159		0		-9999	Asia/Pyongyang	2023-05-13
+12527161	Haebang I-dong	Haebang I-dong	Haebang 2-dong,Haebang I-dong,haebang-idong,haebang2dong,해방2동,해방이동	39.16788	127.43951	A	ADM3	KP		09		12527161		0		-9999	Asia/Pyongyang	2023-05-13
+12527163	Kwanp'ung-dong	Kwanp'ung-dong	Gwanpung-dong,Kwanp'ung-dong,gwanpungdong,관풍동	39.21339	127.36871	A	ADM3	KP		09		12527163		0		7	Asia/Pyongyang	2023-05-13
+12527164	Yul-tong	Yul-tong	Yul-dong,Yul-tong,yuldong,율동	39.15228	127.42198	A	ADM3	KP		09		12527164		0		33	Asia/Pyongyang	2023-05-13
+12527165	Hwasal-li	Hwasal-li	Hwasal-li,hwasanli,화산리	39.04527	127.47733	A	ADM3	KP		09		12527165		0		33	Asia/Pyongyang	2023-05-13
+12527166	Sang-dong	Sang-dong	Sang-dong,sangdong,상동	39.15706	127.44051	A	ADM3	KP		09		12527166		0		46	Asia/Pyongyang	2023-05-13
+12527168	Samo-dong	Samo-dong	Samo-dong,sam-odong,삼오동	39.24491	127.35292	A	ADM3	KP		09		12527168		0		2	Asia/Pyongyang	2023-05-13
+12527169	Pongmak-tong	Pongmak-tong	Bongmak-dong,Pongmak-tong,bogmagdong,복막동	39.13862	127.48073	A	ADM3	KP		09		12527169		0		2	Asia/Pyongyang	2023-05-13
+12527171	Tongmyŏngsan-dong	Tongmyongsan-dong	Dongmyeongsan-dong,Tongmyongsan-dong,Tongmyŏngsan-dong,dongmyeongsandong,동명산동	39.16033	127.42712	A	ADM3	KP		09		12527171		0		22	Asia/Pyongyang	2023-05-13
+12527173	Pongch'un-dong	Pongch'un-dong	Bongchun-dong,Pongch'un-dong,bongchundong,봉춘동	39.16848	127.43291	A	ADM3	KP		09		12527173		0		17	Asia/Pyongyang	2023-05-13
+12527174	Ŭnjŏng-dong	Unjong-dong	Eunjeong-dong,Unjong-dong,eunjeongdong,Ŭnjŏng-dong,은정동	39.22955	127.36494	A	ADM3	KP		09		12527174		0		4	Asia/Pyongyang	2023-05-13
+12527175	P'yŏnghwa-dong	P'yonghwa-dong	P'yonghwa-dong,P'yŏnghwa-dong,Pyeonghwa-dong,pyeonghwadong,평화동	39.16479	127.4247	A	ADM3	KP		09		12527175		0		15	Asia/Pyongyang	2023-05-13
+12527177	Pongsu-dong	Pongsu-dong	Bongsu-dong,Pongsu-dong,bongsudong,봉수동	39.17588	127.42055	A	ADM3	KP		09		12527177		0		-9999	Asia/Pyongyang	2023-05-13
+12527178	Sŏngmun-dong	Songmun-dong	Seongmun-dong,Songmun-dong,Sŏngmun-dong,seongmundong,성문동	39.2222	127.36805	A	ADM3	KP		09		12527178		0		-9999	Asia/Pyongyang	2023-05-13
+12527179	Wŏnnam I-dong	Wonnam I-dong	Wonnam 2-dong,Wonnam I-dong,Wŏnnam I-dong,wonnam-idong,wonnam2dong,원남2동,원남이동	39.13177	127.44092	A	ADM3	KP		09		12527179		0		97	Asia/Pyongyang	2023-05-13
+12527181	Wŏnnam Il-tong	Wonnam Il-tong	Wonnam 1-dong,Wonnam Il-dong,Wonnam Il-tong,Wŏnnam Il-dong,Wŏnnam Il-tong,wonnam-ildong,wonnam1dong,원남1동,원남일동	39.12955	127.43623	A	ADM3	KP		09		12527181		0		97	Asia/Pyongyang	2023-05-13
+12527184	Sŭngni-dong	Sungni-dong	Seungni-dong,Sungni-dong,Sŭngni-dong,seunglidong,승리동	39.16607	127.43392	A	ADM3	KP		09		12527184		0		10	Asia/Pyongyang	2023-05-13
+12527185	Sinsŏng-dong	Sinsong-dong	Sinseong-dong,Sinsong-dong,Sinsŏng-dong,sinseongdong,신성동	39.13638	127.48171	A	ADM3	KP		09		12527185		0		2	Asia/Pyongyang	2023-05-13
+12527186	Haean-dong	Haean-dong	Haean-dong,haeandong,해안동	39.15328	127.45476	A	ADM3	KP		09		12527186		0		-9999	Asia/Pyongyang	2023-05-13
+12527188	Kaesŏn-dong	Kaeson-dong	Gaeseon-dong,Kaeson-dong,Kaesŏn-dong,gaeseondong,개선동	39.17096	127.43074	A	ADM3	KP		09		12527188		0		17	Asia/Pyongyang	2023-05-13
+12527189	Tŏksŏng-dong	Toksong-dong	Deokseong-dong,Toksong-dong,Tŏksŏng-dong,deogseongdong,덕성동	39.16045	127.42175	A	ADM3	KP		09		12527189		0		15	Asia/Pyongyang	2023-05-13
+12527190	Wŏnsŏk-tong	Wonsok-tong	Wonseok-dong,Wonsok-tong,Wŏnsŏk-tong,wonseogdong,원석동	39.16131	127.43895	A	ADM3	KP		09		12527190		0		10	Asia/Pyongyang	2023-05-13
+12527191	Sambong-dong	Sambong-dong	Sambong-dong,sambongdong,삼봉동	39.13857	127.44068	A	ADM3	KP		09		12527191		0		99	Asia/Pyongyang	2023-05-13
+12527192	Namsan-dong	Namsan-dong	Namsan-dong,namsandong,남산동	39.14813	127.45352	A	ADM3	KP		09		12527192		0		5	Asia/Pyongyang	2023-05-13
+12527193	Haean-dong	Haean-dong	Haean-dong,haeandong,해안동	39.24654	127.36135	A	ADM3	KP		09		12527193		0		1	Asia/Pyongyang	2023-05-13
+12527194	Yongha-dong	Yongha-dong	Yongha-dong,yonghadong,용하동	39.14084	127.45467	A	ADM3	KP		09		12527194		0		65	Asia/Pyongyang	2023-05-13
+12527195	Chŏnjin-dong	Chonjin-dong	Chonjin-dong,Chŏnjin-dong,Jeonjin-dong,jeonjindong,전진동	39.14648	127.44192	A	ADM3	KP		09		12527195		0		14	Asia/Pyongyang	2023-05-13
+12539018	Okch'i-ri	Okch'i-ri	Choyang-ni,Hajoyang-ni,Hajoyang-ri,Joyang-ri,Okch'i-ri,Okchi-ri,Sangjoyang-ni,Sangjoyang-ri,chao yang li,hajoyangli,joyangli,ogchili,sangjoyangli,shang chao yang li,xia chao yang li,yu shi li,上朝陽里,下朝陽里,朝陽里,玉峙里,상조양리,옥치리,조양리,하조양리	38.75485	126.43404	A	ADM3	KP		07		12539018		0		190	Asia/Pyongyang	2026-03-15
+12539021	Paengnyŏng-nodongjagu	Paengnyong-nodongjagu	Baengnyeong-nodongjagu,Paengnyong-nodongjagu,Paengnyŏng-nodongjagu,baeglyeonglodongjagu,baeglyeongnodongjagu,bai ling lao dong zhe qu,白靈勞動者區,백령노동자구,백령로동자구	38.9929	126.42717	A	ADM3	KP		15		12539021		0		191	Asia/Pyongyang	2026-03-15
+12539488	Sinsŏngch'ŏn-nodongjagu	Sinsongch'on-nodongjagu	Sinseongcheon-nodongjagu,Sinsongch'on-nodongjagu,Sinsŏngch'ŏn-nodongjagu,sinseongcheonnodongjagu,신성천노동자구	39.34909	126.2521	A	ADM3	KP		15		12539488		0		76	Asia/Pyongyang	2023-06-16
+12539521	Tŏksa-dong	Toksa-dong	Deoksadong,Toksa-dong,Tŏksa-dong,deogsadong,덕사동	39.37305	126.9841	A	ADM3	KP		03		12539521		0		226	Asia/Pyongyang	2023-06-16
+12539839	Puhŭng-dong	Puhung-dong	Buheung-dong,Puhung-dong,Puhŭng-dong,buheungdong,부흥동	39.48536	126.01564	A	ADM3	KP		15		12539839		0		88	Asia/Pyongyang	2023-06-16
+12539844	Osa-dong	Osa-dong	Osa-dong,osadong,오사동	39.45542	126.02349	A	ADM3	KP		15		12539844		0		64	Asia/Pyongyang	2023-06-16
+12539846	Haksan-nodongjagu	Haksan-nodongjagu	Haksan-nodongjagu,hagsannodongjagu,학산노동자구	39.43265	126.01957	A	ADM3	KP		15		12539846		0		33	Asia/Pyongyang	2023-06-16
+12539852	Ch'ŏnsŏng-nodongjagu	Ch'onsong-nodongjagu	Ch'onsong-nodongjagu,Ch'ŏnsŏng-nodongjagu,Cheonseong-nodongjagu,cheonseongnodongjagu,천성노동자구	39.46536	126.09413	A	ADM3	KP		15		12539852		0		140	Asia/Pyongyang	2023-06-16
+12539991	Taedŏng-ni	Taedong-ni	Daedeong-ni,Taedong-ni,Taedŏng-ni,daedeogli,대덕리	39.13002	126.26231	A	ADM3	KP		15		12539991		0		258	Asia/Pyongyang	2023-06-16
+12541960	Hŭngsang-ni	Hungsang-ni	Heungsang-ni,Hungsang-ni,Hŭngsang-ni,heungsangli,흥상리	39.67409	126.93774	A	ADM3	KP		03		12541960		0		291	Asia/Pyongyang	2023-07-13
+12541974	Yangsu-ri	Yangsu-ri	Yangsu-ri,yangsuli,양수리	39.5296	126.81224	A	ADM3	KP		03		12541974		0		240	Asia/Pyongyang	2023-07-13
+12541984	Koyang-ni	Koyang-ni	Goyang-ni,Koyang-ni,goyangli,고양리	39.75059	127.2417	A	ADM3	KP		03		12541984		0		102	Asia/Pyongyang	2023-07-13
+12542755	Tŏksŏng-dong	Toksong-dong	Deokseong-dong,Toksong-dong,Tŏksŏng-dong,deogseongdong,덕성동	39.2578	125.85854	A	ADM3	KP		15		12542755		0		73	Asia/Pyongyang	2023-07-13
+12542758	Churye-dong	Churye-dong	Churye-dong,Jurye-dong,julyedong,주례동	39.26745	125.85977	A	ADM3	KP		15		12542758		0		109	Asia/Pyongyang	2023-07-13
+12542762	Pongu-dong	Pongu-dong	Bongu-dong,Pongu-dong,bong-udong,봉우동	39.41545	125.96749	A	ADM3	KP		15		12542762		0		56	Asia/Pyongyang	2023-07-13
+12542765	Munhwa-dong	Munhwa-dong	Munhwa-dong,munhwadong,문화동	39.25358	125.83232	A	ADM3	KP		15		12542765		0		101	Asia/Pyongyang	2023-07-13
+12542767	Podŏk-tong	Podok-tong	Bodeok-dong,Podok-tong,Podŏk-tong,bodeogdong,보덕동	39.26481	125.86493	A	ADM3	KP		15		12542767		0		95	Asia/Pyongyang	2023-07-13
+12542768	Subok-tong	Subok-tong	Subok-dong,Subok-tong,subogdong,수복동	39.4359	125.94044	A	ADM3	KP		15		12542768		0		68	Asia/Pyongyang	2023-07-13
+12542771	Yŏnbong-dong	Yonbong-dong	Yeonbong-dong,Yonbong-dong,Yŏnbong-dong,yeonbongdong,연봉동	39.42948	125.96395	A	ADM3	KP		15		12542771		0		45	Asia/Pyongyang	2023-07-13
+12542777	Sunch'ŏn-dong	Sunch'on-dong	Sunch'on-dong,Sunch'ŏn-dong,Suncheon-dong,suncheondong,순천동	39.43528	125.96206	A	ADM3	KP		15		12542777		0		45	Asia/Pyongyang	2023-07-13
+12542778	Kuwŏl-tong	Kuwol-tong	Guwol-dong,Kuwol-tong,Kuwŏl-tong,guwoldong,구월동	39.27783	125.86907	A	ADM3	KP		15		12542778		0		58	Asia/Pyongyang	2023-07-13
+12542779	Ori-dong	Ori-dong	Ori-dong,olidong,오리동	39.26084	125.82662	A	ADM3	KP		15		12542779		0		134	Asia/Pyongyang	2023-07-13
+12542782	Kŭmsan-dong	Kumsan-dong	Geumsan-dong,Kumsan-dong,Kŭmsan-dong,geumsandong,금산동	39.44168	125.92447	A	ADM3	KP		15		12542782		0		98	Asia/Pyongyang	2023-07-13
+12542783	Saedŏk-tong	Saedok-tong	Saedeok-dong,Saedok-tong,Saedŏk-tong,saedeogdong,새덕동	39.42716	125.91789	A	ADM3	KP		15		12542783		0		78	Asia/Pyongyang	2023-07-13
+12542785	Sŏksu-dong	Soksu-dong	Seoksu-dong,Soksu-dong,Sŏksu-dong,seogsudong,석수동	39.4692	125.93414	A	ADM3	KP		15		12542785		0		67	Asia/Pyongyang	2023-07-13
+12542786	Tumu-dong	Tumu-dong	Dumu-dong,Tumu-dong,dumudong,두무동	39.2529	125.84113	A	ADM3	KP		15		12542786		0		100	Asia/Pyongyang	2023-07-13
+12543382	Sinp'yŏng-ŭp	Sinp'yong-up	Sinp'yong-up,Sinp'yŏng-ŭp,Sinpyeong-eup,sinpyeong-eub,신평읍	38.89862	126.74219	A	ADM3	KP		07		12543382		0		163	Asia/Pyongyang	2023-07-13
+12543383	Sŏch'ol-li	Soch'ol-li	Seochol-li,Seochon-ri,Soch'ol-li,Soch'on-ni,Sŏch'ol-li,Sŏch'on-ni,seochonli,xi cun li,西村里,서촌리	38.75923	126.56381	A	ADM3	KP		07		12543383		0		187	Asia/Pyongyang	2026-01-21
+12543390	Taep'ung-ni	Taep'ung-ni	Daepung-ni,Taep'ung-ni,daepungli,대풍리	39.28371	125.41815	A	ADM3	KP		15		12543390		0		11	Asia/Pyongyang	2023-07-13
+12543395	Ch'ungsŏng-dong	Ch'ungsong-dong	Ch'ungsong-dong,Ch'ungsŏng-dong,Chungseong-dong,chungseongdong,충성동	39.48581	125.46007	A	ADM3	KP		15		12543395		0		2	Asia/Pyongyang	2023-07-13
+12543397	Sangbong-dong	Sangbong-dong	Sangbong-dong,sangbongdong,상봉동	39.49723	125.45906	A	ADM3	KP		15		12543397		0		4	Asia/Pyongyang	2023-07-13
+12543400	Munhwa-dong	Munhwa-dong	Munhwa-dong,munhwadong,문화동	39.4931	125.45583	A	ADM3	KP		15		12543400		0		2	Asia/Pyongyang	2023-07-13
+12543403	Kŏmŭn'gŭm-dong	Komun'gum-dong	Geomeun-geum-dong,Komun'gum-dong,Kŏmŭn'gŭm-dong,geom-eungeumdong,검은금동	39.4846	125.46548	A	ADM3	KP		15		12543403		0		2	Asia/Pyongyang	2023-07-13
+12543404	Kangsŏng-dong	Kangsong-dong	Gangseong-dong,Kangsong-dong,Kangsŏng-dong,gangseongdong,강성동	39.49111	125.43352	A	ADM3	KP		15		12543404		0		2	Asia/Pyongyang	2023-07-13
+12543406	Hyosŏng-dong	Hyosong-dong	Hyoseong-dong,Hyosong-dong,Hyosŏng-dong,hyoseongdong,효성동	39.48742	125.45483	A	ADM3	KP		15		12543406		0		2	Asia/Pyongyang	2023-07-13
+12543408	Sanŏp-tong	Sanop-tong	Saneop-dong,Sanop-tong,Sanŏp-tong,san-eobdong,산업동	39.48808	125.44728	A	ADM3	KP		15		12543408		0		2	Asia/Pyongyang	2023-07-13
+12545111	Namsan-dong	Namsan-dong	Namsan-dong,namsandong,남산동	39.69391	126.40419	A	ADM3	KP		15		12545111		0		272	Asia/Pyongyang	2023-07-13
+12545114	Osan-dong	Osan-dong	Osan-dong,osandong,오산동	39.74031	126.27916	A	ADM3	KP		15		12545114		0		165	Asia/Pyongyang	2023-07-13
+12545124	Sŭngni-dong	Sungni-dong	Seungni-dong,Sungni-dong,Sŭngni-dong,seunglidong,승리동	39.74459	126.30107	A	ADM3	KP		15		12545124		0		95	Asia/Pyongyang	2023-07-13
+12545406	Sangsin-dong	Sangsin-dong	Sangsin-dong,sangsindong,상신동	39.72324	126.24473	A	ADM3	KP		15		12545406		0		348	Asia/Pyongyang	2023-07-13
+12545434	Yakchŏl-li	Yakchol-li	Yakchol-li,Yakchŏl-li,Yakjeol-li,yagjeonli,약전리	39.33802	125.50006	A	ADM3	KP		15		12545434		0		8	Asia/Pyongyang	2023-07-13
+12566782	Ch'angmal-tong	Ch'angmal-tong	Ch'angmal-tong,Changmal-dong,changmaldong,창말동	39.78278	126.34119	A	ADM3	KP		15		12566782		0		233	Asia/Pyongyang	2023-09-07
+12566785	Samt'an-dong	Samt'an-dong	Samt'an-dong,Samtan-dong,samtandong,삼탄동	39.76849	126.33944	A	ADM3	KP		15		12566785		0		118	Asia/Pyongyang	2023-09-07
+12566787	Yongsŏng-ni	Yongsong-ni	Yongseong-ni,Yongsong-ni,Yongsŏng-ni,yongseongli,용성리	39.79927	126.49456	A	ADM3	KP		15		12566787		0		215	Asia/Pyongyang	2023-09-07
+12566788	Ŭndŏk-tong	Undok-tong	Eundeok-dong,Undok-tong,eundeogdong,Ŭndŏk-tong,은덕동	39.76564	126.32526	A	ADM3	KP		15		12566788		0		90	Asia/Pyongyang	2023-09-07
+12566789	Ch'ŏngsin-dong	Ch'ongsin-dong	Ch'ongsin-dong,Ch'ŏngsin-dong,Cheongsin-dong,cheongsindong,청신동	39.77803	126.29127	A	ADM3	KP		15		12566789		0		132	Asia/Pyongyang	2023-09-07
+12566790	Sŏmun-dong	Somun-dong	Seomun-dong,Somun-dong,Sŏmun-dong,seomundong,서문동	39.78575	126.30509	A	ADM3	KP		15		12566790		0		242	Asia/Pyongyang	2023-09-07
+12566794	Kongwŏn-dong	Kongwon-dong	Gongwon-dong,Kongwon-dong,Kongwŏn-dong,gong-wondong,공원동	39.77786	126.33173	A	ADM3	KP		15		12566794		0		177	Asia/Pyongyang	2023-09-07
+12566795	Sinhŭng-dong	Sinhung-dong	Sinheung-dong,Sinhung-dong,Sinhŭng-dong,sinheungdong,신흥동	39.78561	126.32983	A	ADM3	KP		15		12566795		0		192	Asia/Pyongyang	2023-09-07
+12566798	P'ungjŏl-li	P'ungjol-li	P'ungjol-li,P'ungjŏl-li,Pungjeol-li,pungjeonli,풍전리	39.86401	126.48967	A	ADM3	KP		15		12566798		0		260	Asia/Pyongyang	2023-09-07
+12566799	Hŭngdŏk-tong	Hungdok-tong	Heungdeok-dong,Hungdok-tong,Hŭngdŏk-tong,heungdeogdong,흥덕동	39.79689	126.32246	A	ADM3	KP		15		12566799		0		245	Asia/Pyongyang	2023-09-07
+12566847	Sŏmun-dong	Somun-dong	Seomundong,Somun-dong,Sŏmun-dong,seomundong,서문동	40.16667	126.27018	A	ADM3	KP		01		12566847		0		216	Asia/Pyongyang	2023-09-07
+12566848	Maebong-dong	Maebong-dong	Maebong-dong,Maebongdong,maebongdong,매봉동	40.19762	126.25207	A	ADM3	KP		01		12566848		0		141	Asia/Pyongyang	2023-09-07
+12566854	Ch'ŏngch'ŏn-dong	Ch'ongch'on-dong	Ch'ongch'on-dong,Ch'ŏngch'ŏn-dong,Cheongcheondong,cheongcheondong,청천동	40.18004	126.25771	A	ADM3	KP		01		12566854		0		177	Asia/Pyongyang	2023-09-07
+12566856	Ch'up'yŏng Il-dong	Ch'up'yong Il-dong	Ch'up'yong 1-dong,Ch'up'yong Il-dong,Ch'up'yŏng 1-dong,Ch'up'yŏng Il-dong,Chupyeong Il-dong,chupyeong-ildong,chupyeong1dong,추평1동,추평일동	40.18573	126.27776	A	ADM3	KP		01		12566856		0		134	Asia/Pyongyang	2023-09-07
+12566860	Solmoru-dong	Solmoru-dong	Solmoru-dong,Solmorudong,solmoludong,솔모루동	40.16998	126.2944	A	ADM3	KP		01		12566860		0		177	Asia/Pyongyang	2023-09-07
+12566861	Namch'ŏn-dong	Namch'on-dong	Namch'on-dong,Namch'ŏn-dong,Namcheondong,namcheondong,남천동	40.15858	126.28153	A	ADM3	KP		01		12566861		0		119	Asia/Pyongyang	2023-09-07
+12566863	P'ungsan-dong	P'ungsan-dong	P'ungsan-dong,Pungsandong,pungsandong,풍산동	40.19802	126.25628	A	ADM3	KP		01		12566863		0		141	Asia/Pyongyang	2023-09-07
+12566864	Yŏkchŏn-dong	Yokchon-dong	Yeokjeondong,Yokchon-dong,Yŏkchŏn-dong,yeogjeondong,역전동	40.17511	126.28204	A	ADM3	KP		01		12566864		0		163	Asia/Pyongyang	2023-09-07
+12566866	Sinhŭng-dong	Sinhung-dong	Sinheungdong,Sinhung-dong,Sinhŭng-dong,sinheungdong,신흥동	40.18929	126.2554	A	ADM3	KP		01		12566866		0		168	Asia/Pyongyang	2023-09-07
+12606753	Solban-ni	Solban-ni	Solban-ni,Solbat-ri,solbatli,솔밭리	39.50936	127.29672	A	ADM3	KP		03		12606753		0		2	Asia/Pyongyang	2023-10-16
+12607121	Masang-ni	Masang-ni	Masang-ni,masangli,마상리	40.04436	125.89072	A	ADM3	KP		11		12607121		0		104	Asia/Pyongyang	2023-10-16
+12607149	Sangwŏl-li	Sangwol-li	Sangwol-li,Sangwŏl-li,sang-wonli,상원리	40.10119	125.91826	A	ADM3	KP		11		12607149		0		125	Asia/Pyongyang	2023-10-16
+12607150	Ipsŏng-ni	Ipsong-ni	Ipseong-ni,Ipsong-ni,Ipsŏng-ni,ibseogli,입석리	40.05208	125.9962	A	ADM3	KP		11		12607150		0		150	Asia/Pyongyang	2023-10-16
+12739535	Nakch'ŏng I-dong	Nakch'ong I-dong	Nakch'ong 2-dong,Nakch'ong I-dong,Nakch'ŏng 2-dong,Nakch'ŏng I-dong,Nakcheong 2-dong,Nakcheong I-dong,nagcheong-idong,nagcheong2dong,낙청2동,낙청이동	40.07091	124.43833	A	ADM3	KP		11		12739535		0		1	Asia/Pyongyang	2024-02-10
+12739536	Kŭnhwa-dong	Kunhwa-dong	Geunhwa-dong,Kunhwa-dong,Kŭnhwa-dong,geunhwadong,근화동	40.09767	124.39651	A	ADM3	KP		11		12739536		0		1	Asia/Pyongyang	2024-02-10
+12739537	Ch'ŏngsong-dong	Ch'ongsong-dong	Ch'ongsong-dong,Ch'ŏngsong-dong,Cheongsong-dong,cheongsongdong,청송동	40.09922	124.39833	A	ADM3	KP		11		12739537		0		1	Asia/Pyongyang	2024-02-10
+12739538	Sŏkha I-dong	Sokha I-dong	Seokha 2-dong,Seokha I-dong,Sokha 2-dong,Sokha I-dong,Sŏkha 2-dong,Sŏkha I-dong,seogha2dong,seoghaidong,석하2동,석하이동	40.05057	124.42338	A	ADM3	KP		11		12739538		0		1	Asia/Pyongyang	2024-02-10
+12739539	Yusang I-dong	Yusang I-dong	Yusang 2-dong,Yusang I-dong,yusang-idong,yusang2dong,유상2동,유상이동	40.04964	124.46882	A	ADM3	KP		11		12739539		0		4	Asia/Pyongyang	2024-02-10
+12739540	Tongsang-dong	Tongsang-dong	Dongsang-dong,Tongsang-dong,dongsangdong,동상동	40.10971	124.42305	A	ADM3	KP		11		12739540		0		1	Asia/Pyongyang	2024-02-10
+12739541	Sinwŏn-dong	Sinwon-dong	Sinwon-dong,Sinwŏn-dong,sin-wondong,신원동	40.0978	124.38665	A	ADM3	KP		11		12739541		0		1	Asia/Pyongyang	2024-02-10
+12739542	Sŏkha Il-tong	Sokha Il-tong	Seokha 1-dong,Seokha Il-dong,Sokha 1-tong,Sokha Il-tong,Sŏkha 1-tong,Sŏkha Il-tong,seogha1dong,seoghaildong,석하1동,석하일동	40.06647	124.44472	A	ADM3	KP		11		12739542		0		6	Asia/Pyongyang	2024-02-10
+12739543	Ponbu-dong	Ponbu-dong	Bonbu-dong,Ponbu-dong,bonbudong,본부동	40.10394	124.39256	A	ADM3	KP		11		12739543		0		1	Asia/Pyongyang	2024-02-10
+12739544	Kosŏng-dong	Kosong-dong	Goseong-dong,Kosong-dong,Kosŏng-dong,goseongdong,고성동	40.14356	124.49432	A	ADM3	KP		11		12739544		0		5	Asia/Pyongyang	2024-02-10
+12739545	Tongjung-dong	Tongjung-dong	Dongjung-dong,Tongjung-dong,dongjungdong,동중동	40.10343	124.41208	A	ADM3	KP		11		12739545		0		1	Asia/Pyongyang	2024-02-10
+12739546	Haebang-dong	Haebang-dong	Haebang-dong,haebangdong,해방동	40.09517	124.3834	A	ADM3	KP		11		12739546		0		1	Asia/Pyongyang	2024-02-10
+12739547	Yŏnsang Il-tong	Yonsang Il-tong	Yeonsang 1-dong,Yeonsang Il-dong,Yonsang 1-tong,Yonsang Il-tong,Yŏnsang 1-tong,Yŏnsang Il-tong,yeonsang-ildong,yeonsang1dong,연상1동,연상일동	40.07822	124.42675	A	ADM3	KP		11		12739547		0		3	Asia/Pyongyang	2024-02-10
+12739549	Pangjik-tong	Pangjik-tong	Bangjik-dong,Pangjik-tong,bangjigdong,방직동	40.10948	124.40629	A	ADM3	KP		11		12739549		0		2	Asia/Pyongyang	2024-02-10
+12739550	Nakch'ŏng Il-tong	Nakch'ong Il-tong	Nakch'ong 1-tong,Nakch'ong Il-tong,Nakch'ŏng 1-tong,Nakch'ŏng Il-tong,Nakcheong 1-dong,Nakcheong Il-dong,nagcheong-ildong,nagcheong1dong,낙청1동,낙청일동	40.0446	124.44483	A	ADM3	KP		11		12739550		0		2	Asia/Pyongyang	2024-02-10
+12739551	Yŏkchŏn-dong	Yokchon-dong	Yeokjeon-dong,Yokchon-dong,Yŏkchŏn-dong,yeogjeondong,역전동	40.102	124.39659	A	ADM3	KP		11		12739551		0		1	Asia/Pyongyang	2024-02-10
+12739552	Tongha-dong	Tongha-dong	Dongha-dong,Tongha-dong,donghadong,동하동	40.10101	124.41111	A	ADM3	KP		11		12739552		0		1	Asia/Pyongyang	2024-02-10
+12739553	P'yŏnghwa-dong	P'yonghwa-dong	P'yonghwa-dong,P'yŏnghwa-dong,Pyeonghwa-dong,pyeonghwadong,평화동	40.09185	124.38543	A	ADM3	KP		11		12739553		0		1	Asia/Pyongyang	2024-02-10
+12739554	Paeksa-dong	Paeksa-dong	Baeksa-dong,Paeksa-dong,baegsadong,백사동	40.09691	124.39228	A	ADM3	KP		11		12739554		0		1	Asia/Pyongyang	2024-02-10
+12739555	Namha-dong	Namha-dong	Namha-dong,namhadong,남하동	40.09062	124.39812	A	ADM3	KP		11		12739555		0		1	Asia/Pyongyang	2024-02-10
+12739556	Namsang-dong	Namsang-dong	Namsang-dong,namsangdong,남상동	40.09986	124.40447	A	ADM3	KP		11		12739556		0		1	Asia/Pyongyang	2024-02-10
+12739560	Namsong-dong	Namsong-dong	Namsong-dong,namsongdong,남송동	40.08992	124.39112	A	ADM3	KP		11		12739560		0		1	Asia/Pyongyang	2024-02-10
+12739561	Ch'insŏn I-dong	Ch'inson I-dong	Ch'inson 2-dong,Ch'inson I-dong,Ch'insŏn 2-dong,Ch'insŏn I-dong,Chinseon 2-dong,Chinseon I-dong,chinseon-idong,chinseon2dong,친선2동,친선이동	40.10429	124.40693	A	ADM3	KP		11		12739561		0		1	Asia/Pyongyang	2024-02-10
+12739562	Sinnam-dong	Sinnam-dong	Sinnam-dong,sinnamdong,신남동	40.08729	124.39387	A	ADM3	KP		11		12739562		0		1	Asia/Pyongyang	2024-02-10
+12739563	P’ungsŏ I-dong	P'ungso I-dong	P'ungso 2-dong,P'ungso I-dong,Pungseo 2-dong,Pungseo I-dong,P’ungsŏ 2-dong,P’ungsŏ I-dong,pungseo2dong,pungseoidong,풍서2동,풍서이동	40.06021	124.42595	A	ADM3	KP		11		12739563		0		3	Asia/Pyongyang	2024-02-10
+12739564	Ch'aeha-dong	Ch'aeha-dong	Ch'aeha-dong,Ch'aehwa-dong,Chaeha-dong,Chaehwa-dong,chaehadong,chaehwadong,채하동,채화동	40.09816	124.40056	A	ADM3	KP		11		12739564		0		1	Asia/Pyongyang	2024-02-10
+12739565	P’ungsŏ Il-tong	P'ungso Il-tong	P'ungso 1-tong,P'ungso Il-tong,Pungseo 1-dong,Pungseo Il-dong,P’ungsŏ 1-tong,P’ungsŏ Il-tong,pungseo1dong,pungseoildong,풍서1동,풍서일동	40.06699	124.42637	A	ADM3	KP		11		12739565		0		3	Asia/Pyongyang	2024-02-10
+12739566	Yŏnsang I-dong	Yonsang I-dong	Yeonsang 2-dong,Yeonsang I-dong,Yonsang 2-dong,Yonsang I-dong,Yŏnsang 2-dong,Yŏnsang I-dong,yeonsang-idong,yeonsang2dong,연상2동,연상이동	40.06307	124.47437	A	ADM3	KP		11		12739566		0		30	Asia/Pyongyang	2024-02-10
+12739567	Nagwŏn I-dong	Nagwon I-dong	Nagwon 2-dong,Nagwon I-dong,Nagwŏn 2-dong,Nagwŏn I-dong,nag-won-idong,nag-won2dong,낙원2동,낙원이동	40.0944	124.46119	A	ADM3	KP		11		12739567		0		23	Asia/Pyongyang	2024-02-10
+12739568	Ch'insŏn Il-tong	Ch'inson Il-tong	Ch'inson 1-tong,Ch'inson Il-tong,Ch'insŏn 1-tong,Ch'insŏn Il-tong,Chinseon 1-dong,Chinseon Il-dong,chinseon-ildong,chinseon1dong,친선1동,친선일동	40.10548	124.40918	A	ADM3	KP		11		12739568		0		1	Asia/Pyongyang	2024-02-10
+12739569	Namjung-dong	Namjung-dong	Namjung-dong,namjungdong,남중동	40.09441	124.40153	A	ADM3	KP		11		12739569		0		1	Asia/Pyongyang	2024-02-10
+12739570	Namsŏ-dong	Namso-dong	Namseo-dong,Namso-dong,Namsŏ-dong,namseodong,남서동	40.09583	124.40478	A	ADM3	KP		11		12739570		0		1	Asia/Pyongyang	2024-02-10
+12739571	Paegun-dong	Paegun-dong	Baegun-dong,Paegun-dong,baeg-undong,백운동	40.09516	124.39076	A	ADM3	KP		11		12739571		0		1	Asia/Pyongyang	2024-02-10
+12739572	Kwanmun-dong	Kwanmun-dong	Gwanmun-dong,Kwanmun-dong,gwanmundong,관문동	40.10745	124.3903	A	ADM3	KP		11		12739572		0		1	Asia/Pyongyang	2024-02-10
+12739573	Yusang Il-tong	Yusang Il-tong	Yusang 1-tong,Yusang Il-tong,yusang-ildong,yusang1dong,유상1동,유상일동	40.08067	124.44048	A	ADM3	KP		11		12739573		0		3	Asia/Pyongyang	2024-02-10
+12739574	Apkang-dong	Apkang-dong	Apgang-dong,Apkang-dong,abgangdong,압강동	40.10301	124.38322	A	ADM3	KP		11		12739574		0		1	Asia/Pyongyang	2024-02-10
+12739575	Sumun-dong	Sumun-dong	Sumun-dong,sumundong,수문동	40.09309	124.3752	A	ADM3	KP		11		12739575		0		1	Asia/Pyongyang	2024-02-10
+12739576	Kaehyŏk-tong	Kaehyok-tong	Gaehyeok-dong,Kaehyok-tong,Kaehyŏk-tong,gaehyeogdong,개혁동	40.09259	124.39425	A	ADM3	KP		11		12739576		0		1	Asia/Pyongyang	2024-02-10
+12787982	Kugong-ni	Kugong-ni	Gugok-ri,Kugong-ni,gugogli,구곡리	40.38017	124.99138	A	ADM3	KP		11		12787982		0		186	Asia/Pyongyang	2025-03-12
+12808992	Songjung-ni	Songjung-ni	Songjung-ni,Songjung-ri,songjungli,송중리	40.48748	128.19733	A	ADM3	KP		03		12808992		0		455	Asia/Pyongyang	2024-05-15
+12809096	Ch'ŏn'gye-ri	Ch'on'gye-ri	Ch'on'gye-ri,Ch'ŏn'gye-ri,Cheon-gye-ri,cheongyeli,천계리	40.00033	125.58782	A	ADM3	KP		11		12809096		0		156	Asia/Pyongyang	2024-05-16
+12809126	Yongul-li	Yongul-li	Yongul-li,Yongun-ri,yong-unli,용운리	40.08948	124.72908	A	ADM3	KP		11		12809126		0		50	Asia/Pyongyang	2024-05-16
+12893443	Yangji-dong	Yangji-dong	Yangji-dong,yangjidong,양지동	39.92327	127.52615	A	ADM3	KP		03		12893443		0		22	Asia/Pyongyang	2024-05-17
+12893444	Hŭngbuk-tong	Hungbuk-tong	Heungbuk-dong,Hungbuk-tong,Hŭngbuk-tong,heungbugdong,흥북동	39.86463	127.60068	A	ADM3	KP		03		12893444		0		4	Asia/Pyongyang	2024-05-17
+12893445	Ŭngbong Il-tong	Ungbong Il-tong	Eungbong 1-dong,Eungbong Il-dong,Ungbong 1-tong,Ungbong Il-tong,eungbong-ildong,eungbong1dong,Ŭngbong 1-tong,Ŭngbong Il-tong,응봉1동,응봉일동	39.86324	127.62752	A	ADM3	KP		03		12893445		0		23	Asia/Pyongyang	2024-05-17
+12893448	Hŭngdŏg Il-tong	Hungdog Il-tong	Heungdeok 1-dong,Heungdok Il-dong,Hungdog 1-tong,Hungdog Il-tong,Hŭngdŏg 1-tong,Hŭngdŏg Il-tong,heungdeog-ildong,heungdeog1dong,흥덕1동,흥덕일동	39.82768	127.57931	A	ADM3	KP		03		12893448		0		1	Asia/Pyongyang	2024-05-17
+12893450	Tonghŭngsan-dong	Tonghungsan-dong	Dongheungsan-dong,Tonghungsan-dong,Tonghŭngsan-dong,dongheungsandong,동흥산동	39.9154	127.52472	A	ADM3	KP		03		12893450		0		7	Asia/Pyongyang	2024-05-17
+12893452	Unsŏng I-dong	Unsong I-dong	Unseong 2-dong,Unseong I-dong,Unsong 2-dong,Unsong I-dong,Unsŏng 2-dong,Unsŏng I-dong,unseong-idong,unseong2dong,운성2동,운성이동	39.82834	127.59133	A	ADM3	KP		03		12893452		0		2	Asia/Pyongyang	2024-05-17
+12893453	Hŭinsil-tong	Huinsil-tong	Huinsil-dong,Huinsil-tong,Hŭinsil-tong,huinsildong,흰실동	39.86613	127.56527	A	ADM3	KP		03		12893453		0		2	Asia/Pyongyang	2024-05-17
+12893456	Sinhŭng Il-tong	Sinhung Il-tong	Sinheung 1-dong,Sinheung Il-dong,Sinhung 1-tong,Sinhung Il-tong,Sinhŭng 1-tong,Sinhŭng Il-tong,sinheung-ildong,sinheung1dong,신흥1동,신흥일동	39.91004	127.53523	A	ADM3	KP		03		12893456		0		6	Asia/Pyongyang	2024-05-17
+12893457	Kŭmbit-tong	Kumbit-tong	Geumbit-dong,Kumbit-tong,Kŭmbit-tong,geumbichdong,금빛동	39.83144	127.59714	A	ADM3	KP		03		12893457		0		8	Asia/Pyongyang	2024-05-17
+12893460	Yŏnmot-tong	Yonmot-tong	Yeonmot-dong,Yonmot-tong,Yŏnmot-tong,yeonmosdong,연못동	39.86323	127.60553	A	ADM3	KP		03		12893460		0		4	Asia/Pyongyang	2024-05-17
+12893461	Sonamu-dong	Sonamu-dong	Sonamu-dong,sonamudong,소나무동	39.87723	127.56351	A	ADM3	KP		03		12893461		0		2	Asia/Pyongyang	2024-05-17
+12893463	T'ongnam Il-tong	T'ongnam Il-tong	T'ongnam 1-tong,T'ongnam Il-tong,Tongnam 1-dong,Tongnam Il-dong,tongnam-ildong,tongnam1dong,통남1동,통남일동	39.90462	127.5322	A	ADM3	KP		03		12893463		0		4	Asia/Pyongyang	2024-05-17
+12893465	Samil-tong	Samil-tong	Samil-dong,Samil-tong,sam-ildong,삼일동	39.91183	127.53274	A	ADM3	KP		03		12893465		0		7	Asia/Pyongyang	2024-05-17
+12893469	Sŏmun-dong	Somun-dong	Seomun-dong,Somun-dong,Sŏmun-dong,seomundong,서문동	39.91101	127.52578	A	ADM3	KP		03		12893469		0		7	Asia/Pyongyang	2024-05-17
+12893471	Yŏnggwang-dong	Yonggwang-dong	Yeonggwang-dong,Yonggwang-dong,Yŏnggwang-dong,yeong-gwangdong,영광동	39.89217	127.5592	A	ADM3	KP		03		12893471		0		1	Asia/Pyongyang	2024-05-17
+12893472	Sŏun I-dong	Soun I-dong	Seoun 2-dong,Seoun I-dong,Soun 2-dong,Soun I-dong,Sŏun 2-dong,Sŏun I-dong,seoun-idong,seoun2dong,서운2동,서운이동	39.92563	127.53494	A	ADM3	KP		03		12893472		0		27	Asia/Pyongyang	2024-05-17
+12893473	Sap'o Sam-dong	Sap'o Sam-dong	Sap'o 3-dong,Sap'o Sam-dong,Sapo 3-dong,Sapo Sam-dong,sapo3dong,saposamdong,사포3동,사포삼동	39.90298	127.54338	A	ADM3	KP		03		12893473		0		2	Asia/Pyongyang	2024-05-17
+12893474	Nammun I-dong	Nammun I-dong	Nammun 2-dong,Nammun I-dong,nammun-idong,nammun2dong,남문2동,남문이동	39.90767	127.52646	A	ADM3	KP		03		12893474		0		4	Asia/Pyongyang	2024-05-17
+12893475	Hŭngdŏk Sa-dong	Hungdok Sa-dong	Heungdeok 4-dong,Heungdeok Sa-dong,Hungdok 4-dong,Hungdok Sa-dong,Hŭngdŏk 4-dong,Hŭngdŏk Sa-dong,heungdeog4dong,heungdeogsadong,흥덕4동,흥덕사동	39.84987	127.60168	A	ADM3	KP		03		12893475		0		7	Asia/Pyongyang	2024-05-17
+12893476	Ŭnbit-tong	Unbit-tong	Eunbit-dong,Unbit-tong,eunbichdong,Ŭnbit-tong,은빛동	39.82089	127.59914	A	ADM3	KP		03		12893476		0		1	Asia/Pyongyang	2024-05-17
+12893477	Unhŭng I-dong	Unhung I-dong	Unheung 2-dong,Unheung I-dong,Unhung 2-dong,Unhung I-dong,Unhŭng 2-dong,Unhŭng I-dong,unheung-idong,unheung2dong,운흥2동,운흥이동	39.92818	127.53202	A	ADM3	KP		03		12893477		0		88	Asia/Pyongyang	2024-05-17
+12893479	Saebyŏl-tong	Saebyol-tong	Saebyeol-dong,Saebyol-tong,Saebyŏl-tong,saebyeoldong,새별동	39.92174	127.53525	A	ADM3	KP		03		12893479		0		11	Asia/Pyongyang	2024-05-17
+12893482	Yongsŏng I-dong	Yongsong I-dong	Yongseong 2-dong,Yongseong I-dong,Yongsong 2-dong,Yongsong I-dong,Yongsŏng 2-dong,Yongsŏng I-dong,yongseong-idong,yongseong2dong,용성2동,용성이동	39.825	127.60501	A	ADM3	KP		03		12893482		0		2	Asia/Pyongyang	2024-05-17
+12893483	Ŭndŏk-tong	Undok-tong	Eundeok-dong,Undok-tong,eundeogdong,Ŭndŏk-tong,은덕동	39.87383	127.58672	A	ADM3	KP		03		12893483		0		13	Asia/Pyongyang	2024-05-17
+12893484	Yŏnji-dong	Yonji-dong	Yeonji-dong,Yonji-dong,Yŏnji-dong,yeonjidong,연지동	39.90727	127.53647	A	ADM3	KP		03		12893484		0		3	Asia/Pyongyang	2024-05-17
+12893485	Yujŏng Il-tong	Yujong Il-tong	Yujeong 1-dong,Yujeong Il-dong,Yujong 1-tong,Yujong Il-tong,Yujŏng 1-tong,Yujŏng Il-tong,yujeong-ildong,yujeong1dong,유정1동,유정일동	39.8483	127.65812	A	ADM3	KP		03		12893485		0		10	Asia/Pyongyang	2024-05-17
+12893486	Saegŏri I-dong	Saegori I-dong	Saegeori 2-dong,Saegeori I-dong,Saegori 2-dong,Saegori I-dong,Saegŏri 2-dong,Saegŏri I-dong,saegeoli2dong,saegeoliidong,새거리2동,새거리이동	39.89471	127.53774	A	ADM3	KP		03		12893486		0		2	Asia/Pyongyang	2024-05-17
+12893487	Saegŏri Sam-dong	Saegori Sam-dong	Saegeori 3-dong,Saegeori Sam-dong,Saegori 3-dong,Saegori Sam-dong,Saegŏri 3-dong,Saegŏri Sam-dong,saegeoli3dong,saegeolisamdong,새거리3동,새거리삼동	39.89171	127.54135	A	ADM3	KP		03		12893487		0		2	Asia/Pyongyang	2024-05-17
+12893488	Songsang-dong	Songsang-dong	Songsang-dong,songsangdong,송상동	39.85105	127.63095	A	ADM3	KP		03		12893488		0		20	Asia/Pyongyang	2024-05-17
+12893489	Kwanghwa-dong	Kwanghwa-dong	Gwanghwa-dong,Kwanghwa-dong,gwanghwadong,광화동	39.91354	127.53784	A	ADM3	KP		03		12893489		0		6	Asia/Pyongyang	2024-05-17
+12893490	Chŏngsŏng-dong	Chongsong-dong	Chongsong-dong,Chŏngsŏng-dong,Jeongseong-dong,jeongseongdong,정성동	39.94324	127.54595	A	ADM3	KP		03		12893490		0		103	Asia/Pyongyang	2024-05-17
+12893491	P'ogu-ri	P'ogu-ri	P'ogu-ri,Pogu-ri,poguli,포구리	39.78714	127.52415	A	ADM3	KP		03		12893491		0		2	Asia/Pyongyang	2024-05-17
+12893492	Hoesang I-dong	Hoesang I-dong	Hoesang 2-dong,Hoesang I-dong,hoesang-idong,hoesang2dong,회상2동,회상이동	39.93281	127.54774	A	ADM3	KP		03		12893492		0		10	Asia/Pyongyang	2024-05-17
+12893493	Yŏwi-dong	Yowi-dong	Yeowi-dong,Yowi-dong,Yŏwi-dong,yeowidong,여위동	39.89891	127.53965	A	ADM3	KP		03		12893493		0		2	Asia/Pyongyang	2024-05-17
+12893495	Yujŏng Sam-dong	Yujong Sam-dong	Yujeong 3-dong,Yujeong Sam-dong,Yujong 3-dong,Yujong Sam-dong,Yujŏng 3-dong,Yujŏng Sam-dong,yujeong3dong,yujeongsamdong,유정3동,유정삼동	39.84543	127.65231	A	ADM3	KP		03		12893495		0		10	Asia/Pyongyang	2024-05-17
+12893496	Hoesang Sam-dong	Hoesang Sam-dong	Hoesang 3-dong,Hoesang Sam-dong,hoesang3dong,hoesangsamdong,회상3동,회상삼동	39.92134	127.55747	A	ADM3	KP		03		12893496		0		5	Asia/Pyongyang	2024-05-17
+12893498	Saegŏri Il-tong	Saegori Il-tong	Saegeori 1-dong,Saegeori Il-dong,Saegori 1-tong,Saegori Il-tong,Saegŏri 1-tong,Saegŏri Il-tong,saegeoli1dong,saegeoliildong,새거리1동,새거리일동	39.89706	127.53531	A	ADM3	KP		03		12893498		0		2	Asia/Pyongyang	2024-05-17
+12893499	Sŏho Il-tong	Soho Il-tong	Seoho 1-dong,Seoho Il-dong,Soho 1-tong,Soho Il-tong,Sŏho 1-tong,Sŏho Il-tong,seoho1dong,seohoildong,서호1동,서호일동	39.82706	127.64777	A	ADM3	KP		03		12893499		0		1	Asia/Pyongyang	2024-05-17
+12893502	T'ongnam I-dong	T'ongnam I-dong	T'ongnam 2-dong,T'ongnam I-dong,Tongnam 2-dong,Tongnam I-dong,tongnam-idong,tongnam2dong,통남2동,통남이동	39.90586	127.53707	A	ADM3	KP		03		12893502		0		3	Asia/Pyongyang	2024-05-17
+12893504	Unjung I-dong	Unjung I-dong	Unjung 2-dong,Unjung I-dong,unjung-idong,unjung2dong,운중2동,운중이동	39.83391	127.59441	A	ADM3	KP		03		12893504		0		2	Asia/Pyongyang	2024-05-17
+12893505	Saemmul-tong	Saemmul-tong	Saemmul-dong,Saemmul-tong,saemmuldong,샘물동	39.86586	127.59957	A	ADM3	KP		03		12893505		0		2	Asia/Pyongyang	2024-05-17
+12893506	Yongsŏng Il-tong	Yongsong Il-tong	Yongseong 1-dong,Yongseong Il-dong,Yongsong 1-tong,Yongsong Il-tong,Yongsŏng 1-tong,Yongsŏng Il-tong,yongseong-ildong,yongseong1dong,용성1동,용성일동	39.82979	127.61609	A	ADM3	KP		03		12893506		0		3	Asia/Pyongyang	2024-05-17
+12893507	Sŏsang-dong	Sosang-dong	Seosang-dong,Sosang-dong,Sŏsang-dong,seosangdong,서상동	39.91269	127.52615	A	ADM3	KP		03		12893507		0		7	Asia/Pyongyang	2024-05-17
+12893508	Hŭngsŏ-dong	Hungso-dong	Heungseo-dong,Hungso-dong,Hŭngsŏ-dong,heungseodong,흥서동	39.86023	127.5868	A	ADM3	KP		03		12893508		0		1	Asia/Pyongyang	2024-05-17
+12893509	Kŭmsa-dong	Kumsa-dong	Geumsa-dong,Kumsa-dong,Kŭmsa-dong,geumsadong,금사동	39.91769	127.53775	A	ADM3	KP		03		12893509		0		11	Asia/Pyongyang	2024-05-17
+12893511	Sangsinhŭng-dong	Sangsinhung-dong	Sangsinheung-dong,Sangsinhung-dong,Sangsinhŭng-dong,sangsinheungdong,상신흥동	39.91356	127.54409	A	ADM3	KP		03		12893511		0		3	Asia/Pyongyang	2024-05-17
+12893512	Hŭngdŏg I-dong	Hungdog I-dong	Heungdeok 2-dong,Heungdeok I-dong,Hungdog 2-dong,Hungdog I-dong,Hŭngdŏg 2-dong,Hŭngdŏg I-dong,heungdeog-idong,heungdeog2dong,흥덕2동,흥덕이동	39.8549	127.59889	A	ADM3	KP		03		12893512		0		1	Asia/Pyongyang	2024-05-17
+12893513	Tangbo Il-tong	Tangbo Il-tong	Dangbo 1-dong,Dangbo Il-dong,Tangbo 1-tong,Tangbo Il-tong,dangbo1dong,dangboildong,당보1동,당보일동	39.90403	127.56674	A	ADM3	KP		03		12893513		0		2	Asia/Pyongyang	2024-05-17
+12893514	Sŏun Il-tong	Soun Il-tong	Seoun 1-dong,Seoun Il-dong,Soun 1-tong,Soun Il-tong,Sŏun 1-tong,Sŏun Il-tong,seoun-ildong,seoun1dong,서운1동,서운일동	39.92366	127.53533	A	ADM3	KP		03		12893514		0		11	Asia/Pyongyang	2024-05-17
+12893516	Sinhŭng I-dong	Sinhung I-dong	Sinheung 2-dong,Sinheung I-dong,Sinhung 2-dong,Sinhung I-dong,Sinhŭng 2-dong,Sinhŭng I-dong,sinheung-idong,sinheung2dong,신흥2동,신흥이동	39.90889	127.53709	A	ADM3	KP		03		12893516		0		6	Asia/Pyongyang	2024-05-17
+12893517	Tangbo I-dong	Tangbo I-dong	Dangbo 2-dong,Dangbo I-dong,Tangbo 2-dong,Tangbo I-dong,dangbo2dong,dangboidong,당보2동,당보이동	39.89791	127.56966	A	ADM3	KP		03		12893517		0		21	Asia/Pyongyang	2024-05-17
+12893518	Yŏkchŏn Il-tong	Yokchon Il-tong	Yeokjeon 1-dong,Yeokjeon Il-dong,Yokchon 1-tong,Yokchon Il-tong,Yŏkchŏn 1-tong,Yŏkchŏn Il-tong,yeogjeon-ildong,yeogjeon1dong,역전1동,역전일동	39.91188	127.55114	A	ADM3	KP		03		12893518		0		3	Asia/Pyongyang	2024-05-17
+12893521	Yŏkchŏn I-dong	Yokchon I-dong	Yeokjeon 2-dong,Yeokjeon I-dong,Yokchon 2-dong,Yokchon I-dong,Yŏkchŏn 2-dong,Yŏkchŏn I-dong,yeogjeon-idong,yeogjeon2dong,역전2동,역전이동	39.90824	127.54878	A	ADM3	KP		03		12893521		0		2	Asia/Pyongyang	2024-05-17
+12893522	Nammun Il-tong	Nammun Il-tong	Nammun 1-dong,Nammun 1-tong,Nammun Il-dong,Nammun Il-tong,nammun-ildong,nammun1dong,남문1동,남문일동	39.90629	127.52948	A	ADM3	KP		03		12893522		0		4	Asia/Pyongyang	2024-05-17
+12893524	Sŏho I-dong	Soho I-dong	Seoho 2-dong,Seoho I-dong,Soho 2-dong,Soho I-dong,Sŏho 2-dong,Sŏho I-dong,seoho2dong,seohoidong,서호2동,서호이동	39.83172	127.65269	A	ADM3	KP		03		12893524		0		9	Asia/Pyongyang	2024-05-17
+12893525	Haebit-tong	Haebit-tong	Haebit-dong,Haebit-tong,haebichdong,해빛동	39.9313	127.54859	A	ADM3	KP		03		12893525		0		10	Asia/Pyongyang	2024-05-17
+12893526	Yongyŏn-dong	Yongyon-dong	Yongyeon-dong,Yongyon-dong,Yongyŏn-dong,yong-yeondong,용연동	39.87387	127.59348	A	ADM3	KP		03		12893526		0		24	Asia/Pyongyang	2024-05-17
+12893527	Unhŭng Il-tong	Unhung Il-tong	Unheung 1-dong,Unheung Il-dong,Unhung 1-tong,Unhung Il-tong,Unhŭng 1-tong,Unhŭng Il-tong,unheung-ildong,unheung1dong,운흥1동,운흥일동	39.91911	127.5201	A	ADM3	KP		03		12893527		0		36	Asia/Pyongyang	2024-05-17
+12893528	Subyŏn-dong	Subyon-dong	Subyeon-dong,Subyon-dong,Subyŏn-dong,subyeondong,수변동	39.85439	127.55556	A	ADM3	KP		03		12893528		0		1	Asia/Pyongyang	2024-05-17
+12893529	Ŭngbong I-dong	Ungbong I-dong	Eunbong 2-dong,Eungbong I-dong,Ungbong 2-dong,Ungbong I-dong,eungbong-idong,eungbong2dong,Ŭngbong 2-dong,Ŭngbong I-dong,응봉2동,응봉이동	39.85877	127.6196	A	ADM3	KP		03		12893529		0		15	Asia/Pyongyang	2024-05-17
+12893531	Songhŭng-dong	Songhung-dong	Songheung-dong,Songhung-dong,Songhŭng-dong,songheungdong,송흥동	39.84727	127.60917	A	ADM3	KP		03		12893531		0		21	Asia/Pyongyang	2024-05-17
+12893533	Yujŏng I-dong	Yujong I-dong	Yujeong 2-dong,Yujeong I-dong,Yujong 2-dong,Yujong I-dong,Yujŏng 2-dong,Yujŏng I-dong,yujeong-idong,yujeong2dong,유정2동,유정이동	39.83391	127.65145	A	ADM3	KP		03		12893533		0		40	Asia/Pyongyang	2024-05-17
+12893534	Ihwa-dong	Ihwa-dong	Ihwa-dong,ihwadong,이화동	39.93165	127.53588	A	ADM3	KP		03		12893534		0		27	Asia/Pyongyang	2024-05-17
+12893535	Hŭngdŏk Sam-dong	Hungdok Sam-dong	Heungdeok 3-dong,Heungdeok Sam-dong,Hungdok 3-dong,Hungdok Sam-dong,Hŭngdŏk 3-dong,Hŭngdŏk Sam-dong,heungdeog3dong,heungdeogsamdong,흥덕3동,흥덕삼동	39.8578	127.6073	A	ADM3	KP		03		12893535		0		12	Asia/Pyongyang	2024-05-17
+12893537	Sŏngch'ŏn-dong	Songch'on-dong	Seongcheon-dong,Songch'on-dong,Sŏngch'ŏn-dong,seongcheondong,성천동	39.90608	127.52502	A	ADM3	KP		03		12893537		0		4	Asia/Pyongyang	2024-05-17
+12893539	Tongmun-dong	Tongmun-dong	Dongmun-dong,Tongmun-dong,dongmundong,동문동	39.91308	127.53086	A	ADM3	KP		03		12893539		0		7	Asia/Pyongyang	2024-05-17
+12893540	Saegŏri Sa-dong	Saegori Sa-dong	Saegeori 4-dong,Saegeori Sa-dong,Saegori 4-dong,Saegori Sa-dong,Saegŏri 4-dong,Saegŏri Sa-dong,saegeoli4dong,saegeolisadong,새거리4동,새거리사동	39.88937	127.54441	A	ADM3	KP		03		12893540		0		1	Asia/Pyongyang	2024-05-17
+12903145	Hadaedu-dong	Hadaedu-dong	Hadaedu-dong,hadaedudong,하대두동	38.73876	125.43027	A	ADM3	KP		14	12902805	12903145		0		8	Asia/Pyongyang	2024-06-11
+12903146	Haean-dong	Haean-dong	Haean-dong,haeandong,해안동	38.73297	125.42122	A	ADM3	KP		14	12902805	12903146		0		1	Asia/Pyongyang	2024-06-11
+12903147	Sŏnch’ang-dong	Sonch'ang-dong	Seonchang-dong,Sonch'ang-dong,Sŏnch’ang-dong,seonchangdong,선창동	38.72628	125.41	A	ADM3	KP		14	12902805	12903147		0		6	Asia/Pyongyang	2024-06-11
+12903148	Hup’o-dong	Hup'o-dong	Hup'o-dong,Hupo-dong,Hup’o-dong,hupodong,후포동	38.72942	125.40996	A	ADM3	KP		14	12902805	12903148		0		6	Asia/Pyongyang	2024-06-11
+12903149	Ŭndŏk-tong	Undok-tong	Eundeok-dong,Undok-tong,eundeogdong,Ŭndŏk-tong,은덕동	38.74414	125.41317	A	ADM3	KP		14	12902805	12903149		0		15	Asia/Pyongyang	2024-06-11
+12903150	Chungdaedu-dong	Chungdaedu-dong	Chungdaedu-dong,Jungdaedu-dong,jungdaedudong,중대두동	38.74692	125.41355	A	ADM3	KP		14	12902805	12903150		0		15	Asia/Pyongyang	2024-06-11
+12903151	Sangdaedu-dong	Sangdaedu-dong	Sangdaedu-dong,sangdaedudong,상대두동	38.7443	125.40472	A	ADM3	KP		14	12902805	12903151		0		18	Asia/Pyongyang	2024-06-11
+12903152	Chungbisŏk-tong	Chungbisok-tong	Chungbisok-tong,Chungbisŏk-tong,Jungbiseok-dong,jungbiseogdong,중비석동	38.73982	125.40217	A	ADM3	KP		14	12902805	12903152		0		10	Asia/Pyongyang	2024-06-11
+12903153	Chinsu-dong	Chinsu-dong	Chinsu-dong,Jinsu-dong,jinsudong,진수동	38.72346	125.39656	A	ADM3	KP		14	12902805	12903153		0		8	Asia/Pyongyang	2024-06-11
+12903154	Namsan-dong	Namsan-dong	Namsan-dong,namsandong,남산동	38.7261	125.39399	A	ADM3	KP		14	12902805	12903154		0		20	Asia/Pyongyang	2024-06-11
+12903155	Yongsu-dong	Yongsu-dong	Yongsu-dong,yongsudong,용수동	38.73071	125.39516	A	ADM3	KP		14	12902805	12903155		0		20	Asia/Pyongyang	2024-06-11
+12903156	Yongjŏng-dong	Yongjong-dong	Yongjeong-dong,Yongjong-dong,Yongjŏng-dong,yongjeongdong,용정동	38.73341	125.39588	A	ADM3	KP		14	12902805	12903156		0		19	Asia/Pyongyang	2024-06-11
+12903157	Namhŭng-dong	Namhung-dong	Namheung-dong,Namhung-dong,Namhŭng-dong,namheungdong,남흥동	38.73666	125.39393	A	ADM3	KP		14	12902805	12903157		0		19	Asia/Pyongyang	2024-06-11
+12903158	Saegil-dong	Saegil-dong	Saegil-dong,saegildong,새길동	38.72756	125.38264	A	ADM3	KP		14	12902805	12903158		0		9	Asia/Pyongyang	2024-06-11
+12903159	Hanggu-dong	Hanggu-dong	Hanggu-dong,hang-gudong,항구동	38.73233	125.41034	A	ADM3	KP		14	12902805	12903159		0		6	Asia/Pyongyang	2024-06-11
+12903160	Habisŏk-tong	Habisok-tong	Habiseok-dong,Habisok-tong,Habisŏk-tong,habiseogdong,하비석동	38.73416	125.40915	A	ADM3	KP		14	12902805	12903160		0		7	Asia/Pyongyang	2024-06-11
+12903161	Yŏkch’ŏn-dong	Yokch'on-dong	Yeokjeon-dong,Yokch'on-dong,Yŏkch’ŏn-dong,yeogjeondong,역전동	38.73511	125.41258	A	ADM3	KP		14	12902805	12903161		0		7	Asia/Pyongyang	2024-06-11
+12903162	Sangbisŏk-tong	Sangbisok-tong	Sangbiseok-dong,Sangbisok-tong,Sangbisŏk-tong,sangbiseogdong,상비석동	38.73724	125.41115	A	ADM3	KP		14	12902805	12903162		0		7	Asia/Pyongyang	2024-06-11
+12903163	Sŏhŭng-dong	Sohung-dong	Seoheung-dong,Sohung-dong,Sŏhŭng-dong,seoheungdong,서흥동	38.7319	125.38624	A	ADM3	KP		14	12902805	12903163		0		26	Asia/Pyongyang	2024-06-11
+12903164	Ch’eyukch’on-dong	Ch'eyukch'on-dong	Ch'eyukch'on-dong,Cheyukchon-dong,Ch’eyukch’on-dong,cheyugchondong,체육촌동	38.73338	125.37454	A	ADM3	KP		14	12902805	12903164		0		10	Asia/Pyongyang	2024-06-11
+12903165	Masa-dong	Masa-dong	Masa-dong,masadong,마사동	38.73878	125.38775	A	ADM3	KP		14	12902805	12903165		0		47	Asia/Pyongyang	2024-06-11
+12903166	Masan-dong	Masan-dong	Masan-dong,masandong,마산동	38.7366	125.37285	A	ADM3	KP		14	12902805	12903166		0		10	Asia/Pyongyang	2024-06-11
+12903167	Chisan-dong	Chisan-dong	Chisan-dong,Jisan-dong,jisandong,지산동	38.74434	125.38816	A	ADM3	KP		14	12902805	12903167		0		57	Asia/Pyongyang	2024-06-11
+12903168	Hoech’ang-dong	Hoech'ang-dong	Hoech'ang-dong,Hoechang-dong,Hoech’ang-dong,hoechangdong,회창동	38.74521	125.3744	A	ADM3	KP		14	12902805	12903168		0		7	Asia/Pyongyang	2024-06-11
+12906356	Yangŭmp'yŏng-ni	Yangump'yong-ni	Yangeumpyeong-ri,Yangump'yong-ni,Yangŭmp'yŏng-ni,yang-eumpyeongli,양음평리	40.8666	128.55578	A	ADM3	KP		03	2044126	12906356		0		682	Asia/Pyongyang	2024-06-11
+12906734	Ijŏl-li	Ijol-li	Ijeon-ri,Ijol-li,Ijŏl-li,ijeonli,이전리	40.16246	127.73526	A	ADM3	KP		03	2041012	12906734		0		437	Asia/Pyongyang	2024-06-11
+12907908	Sanch'ang-ni	Sanch'ang-ni	Sanch'ang-ni,Sanchang-ri,sanchangli,산창리	40.1231	127.30705	A	ADM3	KP		03	2039115	12907908		0		223	Asia/Pyongyang	2024-06-11
+12908309	Yongwŏn-nodongjagu	Yongwon-nodongjagu	Yongwon-nodongjagu,Yongwŏn-nodongjagu,yong-wonnodongjagu,용원노동자구	40.68204	128.69669	A	ADM3	KP		03	2044126	12908309		0		249	Asia/Pyongyang	2024-06-11
+13037592	Hoehyŏl-li	Hoehyol-li	Hoehyeon-ri,Hoehyol-li,Hoehyŏl-li,Sinyang-ni,Sinyang-ri,hoehyeonli,sin-yangli,신양리,회현리	40.32643	125.99903	A	ADM3	KP		01	2040482	13037592		0		402	Asia/Pyongyang	2025-10-16
+13039633	Ch'ŏngnyŏn-dong	Ch'ongnyon-dong	Ch'ongnyon-dong,Ch'ŏngnyŏn-dong,Cheongnyeon-dong,cheongnyeondong,청년동	40.17508	126.22592	A	ADM3	KP		01	2044013	13039633		0		263	Asia/Pyongyang	2024-08-14
+13039640	Chŏnsin-dong	Chonsin-dong	Chonsin-dong,Chŏnsin-dong,Jeonsin-dong,jeonsindong,전신동	40.19525	126.2386	A	ADM3	KP		01	2039727	13039640		0		191	Asia/Pyongyang	2024-08-14
+13043566	Changp'yŏng-ni	Changp'yong-ni	Changp'yong-ni,Changp'yŏng-ni,Jangpyeong-ri,jangpyeongli,장평리	40.68319	128.00015	A	ADM3	KP		13	2041732	13043566		0		1197	Asia/Pyongyang	2024-08-14
+13043567	Hwangsuwŏl-li	Hwangsuwol-li	Hwangsuwol-li,Hwangsuwon-ni,Hwangsuwon-ri,Hwangsuwŏl-li,Hwangsuwŏn-ni,Kosuiin-ri,Kōsuiin-ri,hwangsuwonli,황수원리	40.71413	128.12587	A	ADM3	KP		13	2041732	13043567		0		1260	Asia/Pyongyang	2024-08-14
+13043574	P'abal-li	P'abal-li	P'abal,P'abal-li,Pabal,Pabal-ri,pabal,paballi,파발,파발리	40.66138	128.18185	A	ADM3	KP		13	2041732	13043574		0		1175	Asia/Pyongyang	2024-08-14
+13043576	Noŭl-li	Noul-li	Noeun-ri,Noul-li,Noun-ni,Noŭl-li,Noŭn-ni,lo-eunli,no-eunli,노은리,로은리	40.64324	128.18807	A	ADM3	KP		13	2041732	13043576		0		1156	Asia/Pyongyang	2024-08-14
+13043590	Migam-ni	Migam-ni	Migam-ni,Migam-ri,migamli,미감리	40.66847	128.09075	A	ADM3	KP		13	2041732	13043590		0		1246	Asia/Pyongyang	2024-08-14
+13043592	Naejung-ni	Naejung-ni	Naejung-ni,Naejung-ri,Naichu-ri,Naichū-ri,naejungli,내중리	40.7202	128.2339	A	ADM3	KP		13	2041732	13043592		0		1174	Asia/Pyongyang	2024-08-14
+13055055	Ch'ŏnma-ŭp	Ch'onma-up	Ch'onma-up,Ch'ŏnma-ŭp,Cheonma-eup,cheonma-eub,천마읍	40.05525	125.01932	A	ADM3	KP		11	2044670	13055055		0		182	Asia/Pyongyang	2024-08-14
+13055056	Ch'ahŭng I-dong	Ch'ahung I-dong	Ch'ahung 2-dong,Ch'ahung I-dong,Ch'ahŭng 2-dong,Ch'ahŭng I-dong,Chaheung 2-dong,Chaheung I-dong,chaheung-idong,chaheung2dong,차흥2동,차흥이동	40.0672	125.20792	A	ADM3	KP		11	1875101	13055056		0		144	Asia/Pyongyang	2024-08-14
+13055058	Saenal-tong	Saenal-tong	Saenal-dong,Saenal-tong,saenaldong,새날동	40.00508	125.2216	A	ADM3	KP		11	1875101	13055058		0		139	Asia/Pyongyang	2024-08-14
+13055060	Yaksu-dong	Yaksu-dong	Yaksu-dong,yagsudong,약수동	40.05896	125.21755	A	ADM3	KP		11	1875101	13055060		0		145	Asia/Pyongyang	2024-08-14
+13055064	Samsong-ni	Samsong-ni	Samsong-ni,Samsong-ri,samsongli,삼송리	40.01957	125.04933	A	ADM3	KP		11	2044670	13055064		0		214	Asia/Pyongyang	2024-08-14
+13055066	Ch'ahŭng Il-dong	Ch'ahung Il-dong	Ch'ahung 1-dong,Ch'ahung Il-dong,Ch'ahŭng 1-dong,Ch'ahŭng Il-dong,Chaheung 1-dong,Chaheung Il-dong,chaheung-ildong,chaheung1dong,차흥1동,차흥일동	40.04911	125.20331	A	ADM3	KP		11	1875101	13055066		0		137	Asia/Pyongyang	2024-08-14
+13055068	Geumchang-ni	Geumchang-ni	Geumchang-ni,Geumchang-ri,geumchangli,금창리	40.11953	125.14326	A	ADM3	KP		11	2040192	13055068		0		247	Asia/Pyongyang	2024-08-14
+13055069	Igu-dong	Igu-dong	Igu-dong,igudong,이구동	40.01326	125.22614	A	ADM3	KP		11	1875101	13055069		0		100	Asia/Pyongyang	2024-08-14
+13058952	Illyong-ni	Illyong-ni	Illyong-ni,Illyong-ri,inlyongli,인룡리	40.11149	126.88092	A	ADM3	KP		15	2040178	13058952		0		715	Asia/Pyongyang	2024-08-14
+13058953	Taehŭng-ŭp	Taehung-up	Daeheung-eup,Sach'ang-ni,Sackang-ni,Shasho-ni,Shashori,Shashō-ni,Shashōri,Taehung,Taehung-up,Taehŭng,Taehŭng-ŭp,daeheung,daeheung-eub,sachangli,sachangni,대흥,대흥읍,사창니,사창리	40.09284	126.93613	A	ADM3	KP		15	2040178	13058953		0		570	Asia/Pyongyang	2024-08-14
+13058955	Yongp'yŏng-ni	Yongp'yong-ni	Yongp'yong-ni,Yongp'yŏng-ni,Yongpyeong-ri,yongpyeongli,용평리	40.0188	126.9303	A	ADM3	KP		15	2040178	13058955		0		625	Asia/Pyongyang	2024-08-14
+13058957	Shinhŭng-ni	Shinhung-ni	Shinhung-ni,Shinhŭng-ni,Sinheung-ri,sinheungli,신흥리	40.03043	126.7851	A	ADM3	KP		15	2040178	13058957		0		584	Asia/Pyongyang	2024-08-14
+13058958	Kwangt'ong-ni	Kwangt'ong-ni	Gwangtong-ri,Kwangt'ong-ni,gwangtongli,gwangtongni,광통니,광통리	40.03775	126.92835	A	ADM3	KP		15	2040178	13058958		0		601	Asia/Pyongyang	2024-08-14
+13095754	Ullim-ni	Ullim-ni	Ullim-ni,Ullim-ri,unlimli,운림리	40.24484	125.09165	A	ADM3	KP		11	2040192	13095754		0		302	Asia/Pyongyang	2024-09-13
+13095755	Songnam-ni	Songnam-ni	Songnam-ni,Songnam-ri,songnamli,송남리	40.23958	125.16748	A	ADM3	KP		11	2040192	13095755		0		212	Asia/Pyongyang	2024-09-13
+13095758	Ch'ŏnggye-ri	Ch'onggye-ri	Ch'onggye-ri,Ch'ŏnggye-ri,Cheonggye-ri,cheong-gyeli,청계리	40.17148	125.10585	A	ADM3	KP		11	2040192	13095758		0		281	Asia/Pyongyang	2024-09-13
+13095759	Unch'ang-ni	Unch'ang-ni	Unch'ang-ni,Unchang-ri,unchangli,운창리	40.23977	125.10405	A	ADM3	KP		11	2040192	13095759		0		267	Asia/Pyongyang	2024-09-13
+13095760	Kwandong-ni	Kwandong-ni	Gwandong-ri,Kwandong-ni,gwandongli,관동리	40.12781	125.03453	A	ADM3	KP		11	2040192	13095760		0		278	Asia/Pyongyang	2024-09-13
+13095761	Namjang-ni	Namjang-ni	Namjang-ni,Namjang-ri,namjangli,남장리	40.17128	125.19324	A	ADM3	KP		11	2040192	13095761		0		170	Asia/Pyongyang	2024-09-13
+13095762	P'yŏnghwa-ri	P'yonghwa-ri	P'yonghwa-ri,P'yŏnghwa-ri,Pyeonghwa-ri,pyeonghwali,평화리	40.1558	125.23197	A	ADM3	KP		11	2040192	13095762		0		145	Asia/Pyongyang	2024-09-13
+13095764	Tapp'ung-ni	Tapp'ung-ni	Dappung-ri,Tapp'ung-ni,dabpungli,답풍리	40.2408	125.23223	A	ADM3	KP		11	2040192	13095764		0		224	Asia/Pyongyang	2024-09-13
+13095765	Sin'gwang-ni	Sin'gwang-ni	Sin'gwang-ni,Sin-gwang-ri,singwangli,신광리	40.21207	125.18959	A	ADM3	KP		11	2040192	13095765		0		199	Asia/Pyongyang	2024-09-13
+13095766	Taegwan-ŭp	Taegwan-up	Daegwan-eup,Taegwan-up,Taegwan-ŭp,daegwan-eub,대관읍	40.21409	125.20871	A	ADM3	KP		11	2040192	13095766		0		161	Asia/Pyongyang	2024-09-13
+13095767	Taeal-li	Taeal-li	Daean-ri,Taeal-li,daeanli,대안리	40.1609	125.23236	A	ADM3	KP		11	2040192	13095767		0		180	Asia/Pyongyang	2024-09-13
+13095768	Nohŭng-ni	Nohung-ni	Noheung-ri,Nohung-ni,Nohŭng-ni,loheungli,noheungli,노흥리,로흥리	40.1445	125.19376	A	ADM3	KP		11	2040192	13095768		0		159	Asia/Pyongyang	2024-09-13
+13100684	P'yŏnghwa-ri	P'yonghwa-ri	P'yonghwa-ri,P'yŏnghwa-ri,Pyeonghwa-ri,pyeonghwali,평화리	40.24779	126.95876	A	ADM3	KP		15	2040178	13100684		0		841	Asia/Pyongyang	2024-10-12
+13100685	Taedong-ni	Taedong-ni	Daedong-ri,Taedong-ni,daedongli,대동리	40.16093	126.93131	A	ADM3	KP		15	2040178	13100685		0		671	Asia/Pyongyang	2024-10-12
+13100689	Sobaeng-ni	Sobaeng-ni	Sobaek-ri,Sobaeng-ni,sobaegli,소백리	40.20116	126.95111	A	ADM3	KP		15	2040178	13100689		0		747	Asia/Pyongyang	2024-10-12
+13100701	Manp'ung-nodongjagu	Manp'ung-nodongjagu	Manp'ung-gu,Manp'ung-nodongjagu,Manpung-gu,Manpung-nodongjagu,manpung-gu,manpungnodongjagu,만풍구,만풍노동자구	40.22678	127.13357	A	ADM3	KP		03	2045125	13100701		0		1414	Asia/Pyongyang	2024-10-12
+13100708	Kyŏngsu-nodongjagu	Kyongsu-nodongjagu	Gyeongsu-gu,Gyeongsu-nodongjagu,Kyongsu-gu,Kyongsu-nodongjagu,Kyŏngsu-gu,Kyŏngsu-nodongjagu,gyeongsugu,gyeongsunodongjagu,경수구,경수노동자구	40.23574	127.05311	A	ADM3	KP		15	2040178	13100708		0		1091	Asia/Pyongyang	2024-10-12
+13101948	Hŭksu-ri	Huksu-ri	Heuksu-ri,Huksu-ri,Hŭksu-ri,Kokusui-ri,heugsuli,흑수리	40.10628	127.06963	A	ADM3	KP		15	2040178	13101948		0		829	Asia/Pyongyang	2024-10-12
+13101949	Naeil-nodongjagu	Naeil-nodongjagu	Naeil-nodongjagu,naeilnodongjagu,내일노동자구	40.06507	127.14447	A	ADM3	KP		03	1877442	13101949		0		747	Asia/Pyongyang	2024-10-12
+13101953	Pok'ŭng-ni	Pok'ung-ni	Bokeung-ri,Pok'ung-ni,Pok'ŭng-ni,bogheungli,복흥리	40.10645	127.03316	A	ADM3	KP		15	2040178	13101953		0		742	Asia/Pyongyang	2024-10-12
+13103295	Suha-ri	Suha-ri	Suha-ri,Suhari,suhali,수하리	39.93678	126.69261	A	ADM3	KP		15	1866047	13103295		0		387	Asia/Pyongyang	2024-10-12
+13103297	Sŭngt'ong-ni	Sungt'ong-ni	Seungtong-ri,Sungt'ong-ni,Sŭngt'ong-ni,seungtongli,승통리	39.96659	126.53779	A	ADM3	KP		15	1866047	13103297		0		378	Asia/Pyongyang	2024-10-12
+13103299	Hoeyang-ni	Hoeyang-ni	Hoeyang-ni,Hoeyangni,hoeyangli,회양리	39.96547	126.72354	A	ADM3	KP		15	1866047	13103299		0		353	Asia/Pyongyang	2024-10-12
+13103300	Chungsam-ni	Chungsam-ni	Chungsam-ni,Jungsam-ri,jungsamli,중삼리	39.94121	126.63538	A	ADM3	KP		15	1866047	13103300		0		239	Asia/Pyongyang	2024-10-12
+13103313	Ch'angsal-li	Ch'angsal-li	Ch'angsal-li,Ch'angsan-ni,Changsal-ri,changsanli,창산리	39.98542	126.65971	A	ADM3	KP		15	1866047	13103313		0		330	Asia/Pyongyang	2024-10-12
+13106419	Sinmang-ni	Sinmang-ni	Sinmak-ri,Sinmang-ni,sinmagli,신막리	39.82327	126.62013	A	ADM3	KP		15	1866047	13106419		0		282	Asia/Pyongyang	2024-10-12
+13106420	Yŏngul-li	Yongul-li	Yeongun-ri,Yongul-li,Yongun-ri,Yŏngul-li,Yŏngun-ri,lyeong-unli,yeong-unli,령운리,영운리	39.80568	126.70755	A	ADM3	KP		15	1874668	13106420		0		506	Asia/Pyongyang	2024-10-12
+13106422	Sil-li	Sil-li	Sil-li,Sin-ni,Sin-ri,sinli,신리	39.82813	126.51701	A	ADM3	KP		15	1866047	13106422		0		144	Asia/Pyongyang	2024-10-12
+13106423	Masal-li	Masal-li	Masal-li,Masan-ni,Masan-ri,Masang-ni,masangli,masanli,마산리,마상리	39.825	126.60725	A	ADM3	KP		15	1866047	13106423		0		296	Asia/Pyongyang	2024-10-12
+13106424	Yŏngwŏn-ŭp	Yongwon-up	Neien,Yeongwon-eup,Yongwon,Yongwon-up,Yŏngwŏn,Yŏngwŏn-ŭp,nyeong-won,nyeong-won-eub,yeong-won-eub,녕원,녕원읍,영원읍	39.82353	126.54748	A	ADM3	KP		15	1866047	13106424		0		237	Asia/Pyongyang	2024-10-12
+13106425	Yusŭng-ni	Yusung-ni	Yuseung-ri,Yusung-ni,Yusŭng-ni,yuseungli,유승리	39.75514	126.66411	A	ADM3	KP		15	1874668	13106425		0		309	Asia/Pyongyang	2024-10-12
+13106426	Sindae-ri	Sindae-ri	Sindae-ri,sindaeli,신대리	39.79664	126.55433	A	ADM3	KP		15	1866047	13106426		0		259	Asia/Pyongyang	2024-10-12
+13106427	Top'yŏng-ni	Top'yong-ni	Dopyeong-ri,Top'yong-ni,Top'yŏng-ni,dopyeongli,도평리	39.87237	126.56405	A	ADM3	KP		15	1866047	13106427		0		322	Asia/Pyongyang	2024-10-12
+13106428	Mun'gong-ni	Mun'gong-ni	Mun'gong-ni,Mun-gok-ri,mungogli,문곡리	39.82347	126.56607	A	ADM3	KP		15	1866047	13106428		0		222	Asia/Pyongyang	2024-10-12
+13106560	P'ungsong-ni	P'ungsong-ni	P'ungsong-ni,Pungsong-ri,pungsongli,풍송리	39.95298	127.21079	A	ADM3	KP		03	1877442	13106560		0		267	Asia/Pyongyang	2024-10-12
+13106561	Kŭmsŏng-ni	Kumsong-ni	Geumseong-ri,Kumsong-ni,Kŭmsŏng-ni,geumseongli,금성리	39.9141	127.03274	A	ADM3	KP		15	2040178	13106561		0		640	Asia/Pyongyang	2024-10-12
+13106667	Kuch'ang-ni	Kuch'ang-ni	Guchang-ri,Kuch'ang-ni,guchangli,구창리	39.82485	127.23466	A	ADM3	KP		03	1878321	13106667		0		173	Asia/Pyongyang	2024-10-12
+13117037	Hŭngbong-ni	Hungbong-ni	Heungbong-ri,Hungbong-ni,Hŭngbong-ni,heungbongli,흥봉리	39.92736	127.26334	A	ADM3	KP		03	2039115	13117037		0		289	Asia/Pyongyang	2024-10-12
+13117038	Hongsŏ-ri	Hongso-ri	Heungseo-ri,Hongseo-ri,Hongso-ri,Hongsŏ-ri,Hungso-ri,Hŭngsŏ-ri,heungseoli,hongseoli,홍서리,흥서리	39.9242	127.45388	A	ADM3	KP		03	2039115	13117038		0		4	Asia/Pyongyang	2024-10-12
+13117039	Chisŏng-ni	Chisong-ni	Chisong-ni,Chisŏng-ni,Jiseok-ri,jiseogli,지석리	39.91008	127.44127	A	ADM3	KP		03	1877442	13117039		0		18	Asia/Pyongyang	2024-10-12
+13117041	Sinsŏng-ni	Sinsong-ni	Sinseong-ri,Sinsong-ni,Sinsŏng-ni,sinseongli,신성리	39.92759	127.46984	A	ADM3	KP		03	2039115	13117041		0		3	Asia/Pyongyang	2024-10-12
+13117044	Nodong-ni	Nodong-ni	Nodong-ni,Nodong-ri,nodongli,노동리	39.89113	127.36653	A	ADM3	KP		03	1877442	13117044		0		135	Asia/Pyongyang	2024-10-12
+13117046	Choyang-ni	Choyang-ni	Choyang-ni,Joyang-ri,joyangli,조양리	39.94925	127.42577	A	ADM3	KP		03	2039115	13117046		0		31	Asia/Pyongyang	2024-10-12
+13117047	Yujŏng-ni	Yujong-ni	Ryujong-ni,Ryujŏng-ni,Yugeong-ri,Yujong-ni,Yujŏng-ni,lyujeongli,yujeongli,류정리,유정리	39.9316	127.49013	A	ADM3	KP		03	2039115	13117047		0		3	Asia/Pyongyang	2024-10-12
+13117053	Pulgŭnbyŏl-li	Pulgunbyol-li	Bulgenbyeol-ri,Heungbo-ri,Hungbo-ri,Hŭngbo-ri,Pulgunbyol-li,Pulgŭnbyŏl-li,bulg-eunbyeolli,heungboli,붉은별리,흥보리	39.97683	127.42285	A	ADM3	KP		03	2039115	13117053		0		144	Asia/Pyongyang	2024-10-12
+13117055	Yongal-li	Yongal-li	Yong-an-ri,Yongal-li,Yongan-li,lyong-anli,yong-anli,룡안리,용안리	39.91997	127.40916	A	ADM3	KP		03	1877442	13117055		0		38	Asia/Pyongyang	2024-10-12
+13117057	Ch'ŏnwŏl-li	Ch'onwol-li	Ch'onwol-li,Ch'onwol-ni,Ch'ŏnwŏl-li,Ch'ŏnwŏl-ni,Cheonwon-ri,cheon-wonli,천원리	39.96017	127.47612	A	ADM3	KP		03	2039115	13117057		0		9	Asia/Pyongyang	2024-10-12
+13117058	Chusŏ-ri	Chuso-ri	Chuso-ri,Chusŏ-ri,Juseo-ri,juseoli,주서리	39.87901	127.49029	A	ADM3	KP		03	1877447	13117058		0		1	Asia/Pyongyang	2024-10-12
+13117060	Inda-ri	Inda-ri	Inda-ri,indali,인다리	39.99519	127.44527	A	ADM3	KP		03	2039115	13117060		0		26	Asia/Pyongyang	2024-10-12
+13117061	Undong-ni	Undong-ni	Undong-ni,Undong-ri,undongli,운동리	39.89858	127.42585	A	ADM3	KP		03	1877442	13117061		0		26	Asia/Pyongyang	2024-10-12
+13117063	Sangjung-ni	Sangjung-ni	Sangjung-ni,Sangjung-ri,sangjungli,상중리	39.89665	127.4847	A	ADM3	KP		03	1877447	13117063		0		1	Asia/Pyongyang	2024-10-12
+13117064	Suhŭng-ni	Suhung-ni	Suheung-ri,Suhung-ni,Suhŭng-ni,suheungli,수흥리	39.87714	127.44845	A	ADM3	KP		03	1877442	13117064		0		12	Asia/Pyongyang	2024-10-12
+13121165	Chaeal-li	Chaeal-li	Chaeal-li,Jaean-ri,jaeanli,재안리	39.83749	127.41119	A	ADM3	KP		03	1877442	13121165		0		13	Asia/Pyongyang	2024-11-15
+13121167	Tongbong-ni	Tongbong-ni	Dongbong-ri,Tongbong-ni,dongbongli,동봉리	39.86338	127.41684	A	ADM3	KP		03	1877442	13121167		0		11	Asia/Pyongyang	2024-11-15
+13121168	Tongho-ri	Tongho-ri	Dongho-ri,Tongho-ri,dongholi,동호리	39.76284	127.47061	A	ADM3	KP		03	1877442	13121168		0		2	Asia/Pyongyang	2024-11-15
+13121170	T'aeyang-ni	T'aeyang-ni	T'aeyang-ni,Taeyang-ri,taeyangli,태양리	39.81715	127.35328	A	ADM3	KP		03	1878321	13121170		0		38	Asia/Pyongyang	2024-11-15
+13121171	Hangsu-ri	Hangsu-ri	Hangsu-ri,hangsuli,항수리	39.86326	127.4582	A	ADM3	KP		03	1877442	13121171		0		2	Asia/Pyongyang	2024-11-15
+13121174	Taho-ri	Taho-ri	Daho-ri,Taho-ri,daholi,다호리	39.82244	127.4004	A	ADM3	KP		03	1877442	13121174		0		16	Asia/Pyongyang	2024-11-15
+13121175	Sin'gyŏng-ni	Sin'gyong-ni	Sin'gyong-ni,Sin'gyŏng-ni,Sin-gyeong-ri,singyeongli,신경리	39.81519	127.4432	A	ADM3	KP		03	1877442	13121175		0		2	Asia/Pyongyang	2024-11-15
+13121176	Honam-ni	Honam-ni	Honam-ni,Honam-ri,honamli,호남리	39.77285	127.40117	A	ADM3	KP		03	1878321	13121176		0		2	Asia/Pyongyang	2024-11-15
+13121177	Doksal-li	Doksal-li	Doksal-li,Toksan-ni,Toksan-ri,dogsanli,독산리	39.81072	127.37899	A	ADM3	KP		03	1878321	13121177		0		15	Asia/Pyongyang	2024-11-15
+13121179	Hyangdong-ni	Hyangdong-ni	Hyangdong-ni,Hyangdong-ri,hyangdongli,향동리	39.76004	127.38369	A	ADM3	KP		03	1878321	13121179		0		2	Asia/Pyongyang	2024-11-15
+13121181	Ch'usang-ni	Ch'usang-ni	Ch'usang-ni,Chusang-ri,chusangli,추상리	39.85015	127.3703	A	ADM3	KP		03	1877442	13121181		0		48	Asia/Pyongyang	2024-11-15
+13121182	Pongdae-ri	Pongdae-ri	Bongdae-ri,Pongdae-ri,bongdaeli,봉대리	39.80209	127.40401	A	ADM3	KP		03	1877442	13121182		0		12	Asia/Pyongyang	2024-11-15
+13121183	Yulsŏng-ni	Yulsong-ni	Yulseongni,Yulsong-ni,Yulsŏng-ni,yulseongli,율성리	39.75658	127.36104	A	ADM3	KP		03	1878321	13121183		0		2	Asia/Pyongyang	2024-11-15
+13121185	Yŏnji-ri	Yonji-ri	Ryeonji-ri,Ryonji-ri,Ryŏnji-ri,Yeonji-ri,Yonji-ri,Yŏnji-ri,lyeonjili,yeonjili,련지리,연지리	39.78296	127.49315	A	ADM3	KP		03	1877442	13121185		0		1	Asia/Pyongyang	2024-11-15
+13121187	Songjŏng-ni	Songjong-ni	Songjeong-ri,Songjong-ni,Songjŏng-ni,songjeongli,송정리	39.82862	127.47638	A	ADM3	KP		03	1877442	13121187		0		1	Asia/Pyongyang	2024-11-15
+13121188	P'ohang-ni	P'ohang-ni	P'ohang-ni,Pohang-ri,pohangli,포항리	39.80664	127.45574	A	ADM3	KP		03	1877442	13121188		0		2	Asia/Pyongyang	2024-11-15
+13121189	Chŏngp'yŏng-eup	Chongp'yong-eup	Chongp'yong,Chongp'yong-eup,Chŏngp'yŏng,Chŏngp'yŏng-eup,Jeongpyeong,Jeongpyeong-eup,Tongch'on-ni,Tongch'ŏn-ni,Tosen,Tosen-ri,Tōsen,Tōsen-ri,dongcheonli,jeongpyeong,jeongpyeong-eub,동천리,정평,정평읍	39.78894	127.39642	A	ADM3	KP		03	1878321	13121189		0		4	Asia/Pyongyang	2024-11-15
+13121190	Sinch'ŏl-li	Sinch'ol-li	Sinch'ol-li,Sinch'on-ni,Sinch'ŏl-li,Sinch'ŏn-ni,Sincheon-ri,sincheonli,신천리	39.74987	127.35034	A	ADM3	KP		03	1878321	13121190		0		4	Asia/Pyongyang	2024-11-15
+13121192	Wŏndong-ni	Wondong-ni	Wondong-ni,Wondong-ri,Wŏndong-ni,wondongli,원동리	39.85241	127.48017	A	ADM3	KP		03	1877447	13121192		0		1	Asia/Pyongyang	2024-11-15
+13121193	Kuŭm-ni	Kuum-ni	Gueup-ri,Kuum-ni,Kuŭm-ni,gueubli,구읍리	39.79169	127.36699	A	ADM3	KP		03	1878321	13121193		0		56	Asia/Pyongyang	2024-11-15
+13121662	Unch'ang-ni	Unch'ang-ni	Unch'ang-ni,Unchang-ri,unchangli,운창리	39.28022	126.66398	A	ADM3	KP		15	1866790	13121662		0		437	Asia/Pyongyang	2024-11-15
+13121670	Ssangnyong-ni	Ssangnyong-ni	Ssangnyong-ni,Ssangnyong-ri,Ssangyong-ni,Ssangyong-ri,ssang-yongli,ssanglyongli,쌍룡리,쌍용리	39.36741	126.57549	A	ADM3	KP		15	1870271	13121670		0		331	Asia/Pyongyang	2024-11-15
+13121674	Songdong-ni	Songdong-ni	Songdong-ni,Songdong-ri,songdongli,송동리	39.27879	126.53616	A	ADM3	KP		15	1870271	13121674		0		341	Asia/Pyongyang	2024-11-15
+13121879	Kwanghŭng-ni	Kwanghung-ni	Gwangheung-ri,Kwanghung-ni,Kwanghŭng-ni,gwangheungli,광흥리	39.38469	126.50922	A	ADM3	KP		15	1870271	13121879		0		272	Asia/Pyongyang	2024-11-15
+13121881	Sagae-ri	Sagae-ri	Sagae-ri,sagaeli,사개리	39.43338	126.54096	A	ADM3	KP		15	1870271	13121881		0		369	Asia/Pyongyang	2024-11-15
+13121883	Unbong-ni	Unbong-ni	Unbong-ni,Unbong-ri,unbongli,운봉리	39.44845	126.65996	A	ADM3	KP		15	1870271	13121883		0		425	Asia/Pyongyang	2024-11-15
+13121885	Ch'anggye-ri	Ch'anggye-ri	Ch'anggye-ri,Changgye-ri,chang-gyeli,창계리	39.47066	126.553	A	ADM3	KP		15	1874668	13121885		0		313	Asia/Pyongyang	2024-11-15
+13121896	Changsŏng-ni	Changsong-ni	Changsong-ni,Changsŏng-ni,Jangseong-ri,jangseongli,장성리	39.40823	126.65932	A	ADM3	KP		15	1870271	13121896		0		483	Asia/Pyongyang	2024-11-15
+13121899	Paeksŏng-ni	Paeksong-ni	Baekseok-ri,Hakuseki-ri,Paeksong-ni,Paeksŏng-ni,baegseogli,백석리	39.42784	126.55012	A	ADM3	KP		15	1870271	13121899		0		259	Asia/Pyongyang	2024-11-15
+13121930	Songhŭng-ni	Songhung-ni	Songheung-ri,Songhung-ni,Songhŭng-ni,songheungli,송흥리	39.40647	127.20652	A	ADM3	KP		03	1878230	13121930		0		22	Asia/Pyongyang	2024-12-13
+13121933	Nakch'ŏl-li	Nakch'ol-li	Nakch'ol-li,Nakch'on-ni,Nakch'ŏl-li,Nakch'ŏn-ni,Nakcheolli,lagcheonli,nagcheonli,낙천리,락천리	39.43031	127.21056	A	ADM3	KP		03	1875589	13121933		0		3	Asia/Pyongyang	2024-11-15
+13121934	Buraesan-nodongjagu	Buraesan-nodongjagu	Buraesan-nodongjagu,bulaesannodongjagu,부래산노동자구	39.43476	127.17424	A	ADM3	KP		03	1875589	13121934		0		70	Asia/Pyongyang	2024-11-15
+13121935	Wŏnbong-ni	Wonbong-ni	Wonbong-ni,Wonbong-ri,Wŏnbong-ni,wonbongli,원봉리	39.41115	127.26092	A	ADM3	KP		03	1878230	13121935		0		11	Asia/Pyongyang	2024-12-13
+13121937	Tach'ŏl-li	Tach'ol-li	Dacheon-ri,Tach'ol-li,Tach'on-ni,Tach'ŏl-li,Tach'ŏn-ni,Tanch'on-ni,Tanch'ŏn-ni,dacheonli,dancheonli,다천리,단천리	39.48375	127.16005	A	ADM3	KP		03	1875589	13121937		0		71	Asia/Pyongyang	2024-11-15
+13121938	Ch'ukchŏl-li	Ch'ukchol-li	Ch'ukchol-li,Ch'ukchon-ni,Ch'ukchŏl-li,Ch'ukchŏn-ni,Chukjeon-ri,chugjeonli,축전리	39.44887	127.04836	A	ADM3	KP		03	1875589	13121938		0		99	Asia/Pyongyang	2024-11-15
+13121939	Midul-li	Midul-li	Midul-li,Midun-ni,Midun-ri,midunli,미둔리	39.45236	127.11554	A	ADM3	KP		03	1875589	13121939		0		32	Asia/Pyongyang	2024-11-15
+13121943	P'ungnam-ni	P'ungnam-ni	P'ungnam-ni,Pungnam-ri,pungnamli,풍남리	39.38252	127.22949	A	ADM3	KP		03	1878230	13121943		0		29	Asia/Pyongyang	2024-12-13
+13121944	Sangsal-li	Sangsal-li	Sangsal-li,Sangsan-ri,Sansan-ni,sangsanli,상산리	39.43467	127.23517	A	ADM3	KP		03	1875589	13121944		0		2	Asia/Pyongyang	2024-11-15
+13121945	P'arhŭng-dong	P'arhung-dong	P'arhung-dong,P'arhŭng-dong,Palheung-dong,palheungdong,팔흥동	39.44231	127.02201	A	ADM3	KP		03	1875589	13121945		0		117	Asia/Pyongyang	2024-11-15
+13121947	Kunnae-ri	Kunnae-ri	Gunnae-ri,Kunnae-ri,gunnaeli,군내리	39.45609	127.24091	A	ADM3	KP		03	1875280	13121947		0		2	Asia/Pyongyang	2024-11-15
+13121948	Sinch'ang-ni	Sinch'ang-ni	Sinch'ang-ni,Sinchang-ri,sinchangli,신창리	39.47337	127.21993	A	ADM3	KP		03	1875280	13121948		0		2	Asia/Pyongyang	2024-11-15
+13121950	Tŏkchi-ri	Tokchi-ri	Deokji-ri,Tokchi-ri,Tŏkchi-ri,deogjili,덕지리	39.4657	127.20517	A	ADM3	KP		03	1875589	13121950		0		17	Asia/Pyongyang	2024-11-15
+13133907	Hŭngp'yŏng-ni	Hungp'yong-ni	Heungpyeong-ri,Hungp'yong-ni,Hŭngp'yŏng-ni,heungpyeongli,흥평리	39.48981	127.33546	A	ADM3	KP		03	1875280	13133907		0		2	Asia/Pyongyang	2024-12-13
+13133908	Tŏksal-li	Toksal-li	Deoksan-ri,Toksal-li,Toksan-ni,Tŏksal-li,Tŏksan-ni,deogsanli,덕산리	39.43022	127.33834	A	ADM3	KP		03	1875280	13133908		0		1	Asia/Pyongyang	2024-12-13
+13133909	Kalchŏn-nodongjagu	Kalchon-nodongjagu	Galjeon,Galjeon-nodongjagu,Galjeongu,Kalchon,Kalchon'gu,Kalchon-ni,Kalchon-nodongjagu,Kalchŏn,Kalchŏn'gu,Kalchŏn-ni,Kalchŏn-nodongjagu,galjeon,galjeongu,galjeonli,galjeonnodongjagu,갈전,갈전구,갈전노동자구,갈전리	39.47602	127.27459	A	ADM3	KP		03	1875280	13133909		0		2	Asia/Pyongyang	2024-12-13
+13133910	Sindang-ni	Sindang-ni	Sindang-ni,Sindang-ri,sindangli,신당리	39.49019	127.3622	A	ADM3	KP		03	1875280	13133910		0		1	Asia/Pyongyang	2024-12-13
+13133911	Tangch'i-ri	Tangch'i-ri	Dangchi-ri,Tangch'i-ri,dangchili,당치리	39.37646	127.39732	A	ADM3	KP		09	1878230	13133911		0		1	Asia/Pyongyang	2024-12-13
+13133912	Sŏngjae-ri	Songjae-ri	Seongjae-ri,Songhyon-ni,Songhyŏn-ni,Songjae-ri,Sŏngjae-ri,seongjaeli,songhyeonni,songjaeli,성재리,송재리,송현니	39.43466	127.36608	A	ADM3	KP		03	1875280	13133912		0		1	Asia/Pyongyang	2024-12-13
+13133915	Munha-ri	Munha-ri	Munha-ri,munhali,문하리	39.41651	127.31721	A	ADM3	KP		03	1875280	13133915		0		1	Asia/Pyongyang	2024-12-13
+13133918	Namhŭng-ni	Namhung-ni	Namheung-ri,Namhung-ni,Namhŭng-ni,namheungli,남흥리	39.43185	127.25479	A	ADM3	KP		03	1875589	13133918		0		2	Asia/Pyongyang	2024-12-13
+13133920	Haejung-ni	Haejung-ni	Haejung-ni,Haejung-ri,haejungli,해중리	39.43799	127.41457	A	ADM3	KP		03	1875280	13133920		0		2	Asia/Pyongyang	2024-12-13
+13133921	Chinsu-ri	Chinsu-ri	Chinsu-ri,Jinsu-ri,jinsuli,진수리	39.47101	127.39506	A	ADM3	KP		03	1875280	13133921		0		2	Asia/Pyongyang	2024-12-13
+13133925	Yongsal-li	Yongsal-li	Yongsal-li,Yongsan-ri,yongsanli,용산리	39.47488	127.41577	A	ADM3	KP		03	1875280	13133925		0		1	Asia/Pyongyang	2024-12-13
+13133926	Chungp'yŏng-ni	Chungp'yong-ni	Chungp'yong-ni,Chungp'yŏng-ni,Jungpyeong-ri,jungpyeongli,중평리	39.44204	127.26459	A	ADM3	KP		03	1875280	13133926		0		1	Asia/Pyongyang	2024-12-13
+13133930	Yongnu-ri	Yongnu-ri	Yongnu-ri,Yongu-ri,lyongluli,yong-uli,yongluli,룡루리,용루리,용우리	39.39268	127.28186	A	ADM3	KP		09	1878230	13133930		0		2	Asia/Pyongyang	2024-12-13
+13133931	Chŏnt’al-li	Chont'al-li	Chont'al-li,Chont'an,Chont'an-ni,Chŏnt’al-li,Chŏnt’an,Chŏnt’an-ni,Jeontan-ri,Sennan,Sentan,jeontan,jeontanli,전탄,전탄리	39.3929	127.25081	A	ADM3	KP		03	1878230	13133931		0		9	Asia/Pyongyang	2025-01-11
+13133932	Songch'ŏl-li	Songch'ol-li	Songch'ol-li,Songch'on-ni,Songch'ŏl-li,Songch'ŏn-ni,Songcheon-ri,songcheonli,송천리	39.44451	127.29219	A	ADM3	KP		03	1875280	13133932		0		2	Asia/Pyongyang	2024-12-13
+13133933	Sinam-ni	Sinam-ni	Sinam-ni,Sinam-ri,sin-amli,신암리	39.39072	127.32843	A	ADM3	KP		09	1878230	13133933		0		13	Asia/Pyongyang	2024-12-13
+13133938	Kwangdŏng-ni	Kwangdong-ni	Gwangdeok-ri,Kwangdong-ni,Kwangdŏng-ni,gwangdeogli,광덕리	39.44657	127.4309	A	ADM3	KP		03	1875280	13133938		0		2	Asia/Pyongyang	2024-12-13
+13133940	Hap'yŏng-ni	Hap'yong-ni	Hap'yong-ni,Hap'yŏng-ni,Hapyeong-ri,hapyeongli,하평리	39.43777	127.29013	A	ADM3	KP		03	1875280	13133940		0		1	Asia/Pyongyang	2024-12-13
+13133943	Yangt'al-li	Yangt'al-li	Yangt'al-li,Yangt'an,Yangt'an-ni,Yangtan,Yangtan-ri,lyangtanli,yangtan,yangtanli,량탄리,양탄,양탄리	39.45165	127.35432	A	ADM3	KP		03	1875280	13133943		0		1	Asia/Pyongyang	2024-12-13
+13133949	Andong-ni	Andong-ni	Andong-ni,Andong-ri,andongli,안동리	39.48423	127.49289	A	ADM3	KP		03	1875280	13133949		0		2	Asia/Pyongyang	2024-12-13
+13133951	Hwangsong-ni	Hwangsong-ni	Hwangsong-ni,Hwangsong-ri,hwangsongli,황송리	39.4577	127.26159	A	ADM3	KP		03	1875280	13133951		0		2	Asia/Pyongyang	2024-12-13
+13133952	Chinhŭng-ni	Chinhung-ni	Chinhun-ni,Chinhung-ni,Chinhŭn-ni,Chinhŭng-ni,Chinko-ri,Chinkojo,Chinkō-ri,Jinheung-ri,jinheungli,진흥리	39.46592	127.3855	A	ADM3	KP		03	1875280	13133952		0		1	Asia/Pyongyang	2024-12-13
+13137950	Changal-li	Changal-li	Changal-li,Changan-ni,Jang-an-ri,jang-anli,장안리	40.74663	128.30599	A	ADM3	KP		13	2041732	13137950		0		1113	Asia/Pyongyang	2024-12-13
+13137951	Tonghŭng-ni	Tonghung-ni	Dongheung-ri,Tonghung-ni,Tonghŭng-ni,dongheungli,동흥리	40.69086	128.25974	A	ADM3	KP		13	2041732	13137951		0		1166	Asia/Pyongyang	2024-12-13
+13137954	kŭmch'ang-ni	kumch'ang-ni	Geumchang-ri,geumchangli,kumch'ang-ni,kŭmch'ang-ni,금창리	40.65178	128.38355	A	ADM3	KP		03	2044126	13137954		0		686	Asia/Pyongyang	2024-12-13
+13137956	T'onghŭng-ni	T'onghung-ni	T'onghung-ni,T'onghŭng-ni,Tongheung-ri,tongheungli,통흥리	40.69785	128.47391	A	ADM3	KP		03	2044126	13137956		0		492	Asia/Pyongyang	2024-12-13
+13193565	Chiktong-ni	Chiktong-ni	Chik-tong,Chiktong-ni,Choku-do,Choku-dō,Jikdong-ri,jigdong,jigdongli,직동,직동리	40.5521	128.29359	A	ADM3	KP		03	2039905	13193565		0		640	Asia/Pyongyang	2025-02-19
+13193576	Ch'angsŏngil-li	Ch'angsongil-li	Ch'angsong-1-li,Ch'angsongil-li,Ch'angsŏng-1-li,Ch'angsŏngil-li,Changseong 1-ri,Changseong Il-ri,changseong-illi,changseong1li,창성1리,창성일리	40.52033	128.40165	A	ADM3	KP		03	2039905	13193576		0		703	Asia/Pyongyang	2025-02-19
+13193579	Ch'angsŏngi-ri	Ch'angsongi-ri	Ch'angsong-2-ri,Ch'angsongi-ri,Ch'angsŏng-2-ri,Ch'angsŏngi-ri,Changseong 2-ri,Changseong I-ri,changseong-ili,changseong2li,창성2리,창성이리	40.58573	128.41569	A	ADM3	KP		03	2039905	13193579		0		843	Asia/Pyongyang	2025-02-19
+13302750	Sinp'ung-ni	Sinp'ung-ni	Sinp'ung-ni,Sinpung-ri,sinpungli,신풍리	41.3229	126.59762	A	ADM3	KP		01	2045006	13302750		0		384	Asia/Pyongyang	2025-04-17
+13304413	Chukchŏl-li	Chukchol-li	Chukchol-li,Chukchŏl-li,Jukjeon-ri,jugjeonli,죽전리	41.52327	127.13711	A	ADM3	KP		13	2044027	13304413		0		486	Asia/Pyongyang	2025-04-17
+13310913	Saemmul-tong	Saemmul-tong	Saemmul-dong,Saemmul-tong,saemmuldong,샘물동	41.14568	126.31264	A	ADM3	KP		01	2042891	13310913		0		385	Asia/Pyongyang	2025-05-16
+13310918	Ponghwa-dong	Ponghwa-dong	Bonghwa-dong,Ponghwa-dong,bonghwadong,봉화동	41.15461	126.30189	A	ADM3	KP		01	2042891	13310918		0		276	Asia/Pyongyang	2025-05-16
+13310921	Kangan-dong	Kangan-dong	Gang-an-dong,Kangan-dong,gang-andong,강안동	41.16161	126.28827	A	ADM3	KP		01	2042891	13310921		0		187	Asia/Pyongyang	2025-05-16
+13310923	Kunmak-tong	Kunmak-tong	Gunmak-dong,Kunmak-tong,gunmagdong,군막동	41.14417	126.29669	A	ADM3	KP		01	2042891	13310923		0		312	Asia/Pyongyang	2025-05-16
+13310924	Segŏm-dong	Segom-dong	Segeom-dong,Segeomjeong,Segom-dong,Segomjong,Segŏm-dong,Segŏmjŏng,segeomdong,segeomjeong,세검동,세검정	41.17099	126.30444	A	ADM3	KP		01	2042891	13310924		0		347	Asia/Pyongyang	2025-05-16
+13310926	Kwanmun-dong	Kwanmun-dong	Gwanmun-dong,Kwanmun-dong,gwanmundong,관문동	41.13267	126.29892	A	ADM3	KP		01	2042891	13310926		0		381	Asia/Pyongyang	2025-05-16
+13323651	Kwanp'yŏng-ni	Kwanp'yong-ni	Gwanpyeong-ri,Kwanp'yong-ni,Kwanp'yŏng-ni,gwanpyeongli,gwanpyeongni,관평니,관평리	41.27995	128.05428	A	ADM3	KP		13	2041411	13323651		0		884	Asia/Pyongyang	2025-05-16
+13398501	Sambong-nodongjagu	Sambong-nodongjagu	Sambong-nodongjagu,sambonglodongjagu,sambongnodongjagu,삼봉노동자구,삼봉로동자구	42.21951	129.20669	A	ADM3	KP		17	2042740	13398501		0		483	Asia/Pyongyang	2025-06-15
+13398505	Ŭnjŏng-nodongjagu	Unjong-nodongjagu	Eunjeong-nodongjagu,Unjong-nodongjagu,eunjeonglodongjagu,eunjeongnodongjagu,Ŭnjŏng-nodongjagu,은정노동자구,은정로동자구	42.22741	129.20408	A	ADM3	KP		17	2042740	13398505		0		474	Asia/Pyongyang	2025-06-15
+13398506	Sŏngch'ŏn-rodongjagu	Songch'on-rodongjagu	Seongcheon-nodongjagu,Songch'on-nodongjagu,Songch'on-rodongjagu,Sŏngch'ŏn-nodongjagu,Sŏngch'ŏn-rodongjagu,seongcheonlodongjagu,seongcheonnodongjagu,성천노동자구,성천로동자구	42.22723	129.21348	A	ADM3	KP		17	2042740	13398506		0		488	Asia/Pyongyang	2025-06-15
+13398521	Rakp'yŏng-ni	Rakp'yong-ni	Nakp'yong-ni,Nakp'yŏng-ni,Nakpyeong-ri,Naksaeng-ni,Naksaeng-ri,Rakp'yong-ni,Rakp'yŏng-ni,Rakpyeong-ri,Raksaeng-ni,Raksaeng-ri,lagpyeongli,lagsaengli,nagpyeongli,nagsaengli,낙생리,낙평리,락생리,락평리	42.522	129.91792	A	ADM3	KP		17	2044094	13398521		0		239	Asia/Pyongyang	2025-06-15
+13446957	Yŏkchŏn-dong	Yokchon-dong	Yeokjeondong,Yokchon-dong,Yŏkchŏn-dong,yeogjeondong,역전동	42.46059	129.75753	A	ADM3	KP		17	2044094	13446957		0		437	Asia/Pyongyang	2025-07-18
+13446958	Tongmyŏng-dong	Tongmyong-dong	Dongmyeongdong,Tongmyong-dong,Tongmyŏng-dong,dongmyeongdong,동명동	42.42172	129.77216	A	ADM3	KP		17	2044094	13446958		0		259	Asia/Pyongyang	2025-07-18
+13447207	Haebang-dong	Haebang-dong	Haebang-dong,Haebangdong,haebangdong,해방동	41.79268	129.80361	A	ADM3	KP		17	2044754	13447207		0		19	Asia/Pyongyang	2025-07-18
+13447209	Sanŏp-tong	Sanop-tong	Saneop-dong,Saneopdong,Sanop-tong,Sanŏp-tong,san-eobdong,산업동	41.81194	129.77374	A	ADM3	KP		17	2044754	13447209		0		5	Asia/Pyongyang	2025-07-18
+13449832	Munhwa-dong	Munhwa-dong	Munhwa-dong,munhwadong,문화동	38.74009	125.40979	A	ADM3	KP		14	12902805	13449832		0		7	Asia/Pyongyang	2025-07-19
+13452397	Saemaŭl-tong	Saemaul-tong	Saemaeul-dong,Saemaul-tong,Saemaŭl-tong,saema-euldong,새마을동	39.49501	126.00462	A	ADM3	KP		15	1869013	13452397		0		59	Asia/Pyongyang	2025-07-19
+13452417	Kangan-dong	Kangan-dong	Gangan-dong,Kangan-dong,gang-andong,강안동	39.43187	125.94748	A	ADM3	KP		15	1869013	13452417		0		43	Asia/Pyongyang	2025-07-19
+13452419	Yŏkchŏn-dong	Yokchon-dong	Yeokjeon-dong,Yokchon-dong,Yŏkchŏn-dong,yeogjeondong,역전동	39.42439	125.94152	A	ADM3	KP		15	1869013	13452419		0		44	Asia/Pyongyang	2025-07-19
+13452420	Kŭmch'ŏn-dong	Kumch'on-dong	Geumcheon-dong,Kumch'on-dong,Kŭmch'ŏn-dong,geumcheondong,금천동	39.44423	125.89643	A	ADM3	KP		15	1869013	13452420		0		52	Asia/Pyongyang	2025-07-19
+13452424	Nagwŏn-dong	Nagwon-dong	Nagwon-dong,Nagwŏn-dong,nag-wondong,낙원동	39.48991	125.46653	A	ADM3	KP		15	1878380	13452424		0		2	Asia/Pyongyang	2025-07-19
+13452451	Yŏkchŏn-dong	Yokchon-dong	Yeokjeon-dong,Yokchon-dong,Yŏkchŏn-dong,yeogjeondong,역전동	39.74748	126.3119	A	ADM3	KP		15	1865781	13452451		0		130	Asia/Pyongyang	2025-07-19
+13452551	Tŏksŏng-dong	Toksong-dong	Deokseong-dong,Toksong-dong,Tŏksŏng-dong,deogseongdong,덕성동	39.77537	126.32163	A	ADM3	KP		15	1865781	13452551		0		209	Asia/Pyongyang	2025-07-19
+13452552	Kangan-dong	Kangan-dong	Gangan-dong,Kangan-dong,gang-andong,강안동	39.75402	126.31012	A	ADM3	KP		15	1865781	13452552		0		117	Asia/Pyongyang	2025-07-19
+13455183	Haebang-dong	Haebang-dong	Haebang-dong,haebangdong,해방동	39.91893	127.53097	A	ADM3	KP		03	1877447	13455183		0		22	Asia/Pyongyang	2025-07-19
+13455184	Tŏksŏng-dong	Toksong-dong	Deokseong-dong,Toksong-dong,Tŏksŏng-dong,deogseongdong,덕성동	39.91948	127.52333	A	ADM3	KP		03	1877447	13455184		0		36	Asia/Pyongyang	2025-07-19
+13455185	Ŭnjŏng-dong	Unjong-dong	Eunjeong-dong,Unjong-dong,eunjeongdong,Ŭnjŏng-dong,은정동	39.91547	127.53355	A	ADM3	KP		03	1877447	13455185		0		6	Asia/Pyongyang	2025-07-19
+13455879	Paegun-dong	Paegun-dong	Baegun-dong,Paegun-dong,baeg-undong,백운동	40.04105	125.21266	A	ADM3	KP		11	1875101	13455879		0		119	Asia/Pyongyang	2025-07-19
+13456344	Hamju	Hamju	Hamju,Hamju-eup,Hamju-up,Hamju-ŭp,hamju,hamjueub,함주,함주읍	39.85427	127.43265	A	ADM3	KP		03	1877442	13456344		0		8	Asia/Pyongyang	2025-07-19
+13456782	Kuryong-ni	Kuryong-ni	Guryong-ri,Kuryong-ni,gulyongli,구룡리	39.44631	127.38092	A	ADM3	KP		03	1875280	13456782		0		2	Asia/Pyongyang	2025-07-19
+13456783	Kŭmsŏng-ni	Kumsong-ni	Geumseong-ri,Kumsong-ni,Kŭmsŏng-ni,geumseongli,금성리	39.38742	127.35714	A	ADM3	KP		09	1878230	13456783		0		2	Asia/Pyongyang	2025-07-19
+13456784	P'ungjŏl-li	P'ungjol-li	P'ungjol-li,P'ungjon-ni,P'ungjŏl-li,P'ungjŏn-ni,Pungjeon-ri,pungjeonli,풍전리	39.38327	127.37155	A	ADM3	KP		09	1878230	13456784		0		3	Asia/Pyongyang	2025-07-19
+13456785	Taeyang-ni	Taeyang-ni	Daeyang-ri,Taeyang-ni,daeyangli,대양리	39.39395	127.29139	A	ADM3	KP		09	1878230	13456785		0		2	Asia/Pyongyang	2025-07-19
+13456786	P'yŏnghwa-ri	P'yonghwa-ri	P'yonghwa-ri,P'yŏnghwa-ri,Pyeonghwa-ri,pyeonghwali,평화리	39.45627	127.31416	A	ADM3	KP		03	1875280	13456786		0		2	Asia/Pyongyang	2025-07-19
+13456843	Changp'yŏng-ni	Changp'yong-ni	Changp'yong-ni,Changp'yŏng-ni,Jangpyeong-ri,jangpyeongli,장평리	40.71328	128.49109	A	ADM3	KP		03	2044126	13456843		0		500	Asia/Pyongyang	2025-07-19
+13470895	Yangdŏng-ni	Yangdong-ni	Yangdeok-ri,Yangdong-ni,Yangdŏng-ni,yangdeogli,양덕리	42.50558	130.25268	A	ADM3	KP		17	2039588	13470895		0		118	Asia/Pyongyang	2025-07-19
+13475016	Rasim-dong	Rasim-dong	Nasim-dong,Rasim-dong,lasimdong,nasimdong,나심동,라심동	42.24834	130.29414	A	ADM3	KP		18	2042641	13475016		0		10	Asia/Pyongyang	2025-07-19
+13486034	Sinhoe-dong	Sinhoe-dong	Sinhoe-dong,sinhoedong,신회동	42.49561	130.52843	A	ADM3	KP		18	2042641	13486034		0		18	Asia/Pyongyang	2025-07-19
+13493198	Rakyang-dong	Rakyang-dong	Nagyang-dong,Nakyang-dong,Ragyang-dong,Rakyang-dong,lag-yangdong,nag-yangdong,낙양동,락양동	41.79532	129.801	A	ADM3	KP		17	2044754	13493198		0		19	Asia/Pyongyang	2025-07-19
+13493201	Sinhyang I-tong	Sinhyang I-tong	Sinhyang 2-dong,Sinhyang 2-tong,Sinhyang I-dong,Sinhyang I-tong,sinhyang-idong,sinhyang2dong,신향2동,신향이동	41.78347	129.7684	A	ADM3	KP		17	2044754	13493201		0		6	Asia/Pyongyang	2025-07-19
+13493213	Ch'ŏngam I-tong	Ch'ongam I-tong	Ch'ongam 2-tong,Ch'ongam I-tong,Ch'ŏngam 2-tong,Ch'ŏngam I-tong,Cheong-am 2-dong,Cheong-am I-dong,cheong-am-idong,cheong-am2dong,청암2동,청암이동	41.8151	129.77688	A	ADM3	KP		17	2044754	13493213		0		13	Asia/Pyongyang	2025-07-19
+13493220	Namp'o-dong	Namp'o-dong	Namp'o-dong,Nampo-dong,nampodong,남포동	41.7542	129.75635	A	ADM3	KP		17	2044754	13493220		0		2	Asia/Pyongyang	2025-07-19
+13510869	Wŏlp'o-rodongjagu	Wolp'o-rodongjagu	Wolp'o-nodongjagu,Wolp'o-rodongjagu,Wolpo-nodongjagu,Wolpo-rodongjagu,Wŏlp'o-nodongjagu,Wŏlp'o-rodongjagu,wolpolodongjagu,wolponodongjagu,월포노동자구,월포로동자구	41.25346	129.48635	A	ADM3	KP		17	2042710	13510869		0		107	Asia/Pyongyang	2025-08-15
+13515904	Naegŭmgang-ni	Naegumgang-ni	Naegeumgang-ri,Naegumgang-ni,Naegŭmgang-ni,naegeumgangli,내금강리	38.60855	128.05741	A	ADM3	KP		09	1875385	13515904		0		588	Asia/Pyongyang	2025-09-12
+13518144	Chakkogae-ri	Chakkogae-ri	Chakkogae-ri,Jatgogae-ri,jasgogaeli,잣고개리	38.36499	127.97209	A	ADM3	KP		09	1879312	13518144		0		539	Asia/Pyongyang	2025-09-12
+13519874	Ch'angdo-ŭp	Ch'angdo-up	Ch'angdo-up,Ch'angdo-ŭp,Changdo-eup,chang dao yi,changdo-eub,昌道邑,창도읍	38.65301	127.7129	A	ADM3	KP		09	1877150	13519874		0		379	Asia/Pyongyang	2025-09-12
+13519879	Hajinp'yŏng-ni	Hajinp'yong-ni	Hajinp'yong-ni,Hajinp'yŏng-ni,Hajinpyeong-ri,hajinpyeongli,하진평리	38.73188	127.60186	A	ADM3	KP		09	1877150	13519879		0		369	Asia/Pyongyang	2025-09-12
+13522959	Kodae-ri	Kodae-ri	Godae-ri,Kodae-ri,godaeli,고대리	38.44221	127.60342	A	ADM3	KP		09	1875980	13522959		0		294	Asia/Pyongyang	2025-09-12
+13522968	P'yŏngsa-ri	P'yongsa-ri	P'yongsa-ri,P'yŏngsa-ri,Pyeongsa-ri,pyeongsali,평사리	38.40746	127.65408	A	ADM3	KP		09	1875980	13522968		0		291	Asia/Pyongyang	2025-09-12
+13524219	Kahŭng-ni	Kahung-ni	Gaheung-ri,Kahung-ni,Kahŭng-ni,gaheungli,jia xing li,佳興里,가흥리	38.86636	127.95571	A	ADM3	KP		09	1867930	13524219		0		91	Asia/Pyongyang	2025-09-12
+13524236	Sinbong-ni	Sinbong-ni	Sinbong-ni,Sinbong-ri,sinbongli,신봉리	38.85382	127.96889	A	ADM3	KP		09	1867930	13524236		0		49	Asia/Pyongyang	2025-09-12
+13524243	Chigong-ni	Chigong-ni	Chigong-ni,Jigok-ri,jigogli,지곡리	38.82622	127.84368	A	ADM3	KP		09	1879312	13524243		0		118	Asia/Pyongyang	2025-09-12
+13524275	Myŏngu-ri	Myongu-ri	Myeong-u-ri,Myongu-ri,Myŏngu-ri,ming niu li,myeong-uli,鳴牛里,명우리	38.78796	127.7727	A	ADM3	KP		09	1877150	13524275		0		501	Asia/Pyongyang	2025-09-12
+13533110	Kwangmyŏng-ni	Kwangmyong-ni	Gwangmyeong-ri,Kwangmyong-ni,Kwangmyŏng-ni,gwangmyeongli,광명리	38.97753	127.4095	A	ADM3	KP		09	1875637	13533110		0		95	Asia/Pyongyang	2025-10-16
+13543191	Risang-ni	Risang-ni	Isang-ni,Isang-ri,Risang-ni,Risang-ri,isangli,isangni,li shang li,lisangli,梨上里,리상리,이상니,이상리	38.81709	126.9228	A	ADM3	KP		09	1872704	13543191		0		537	Asia/Pyongyang	2025-11-18
+13543260	Tonghal-li	Tonghal-li	Donghan-ri,Dongsan-ri,Tonghal-li,Tongsal-li,Tongsan-ni,donghanli,dongsanli,동산리,동한리	38.78609	126.81415	A	ADM3	KP		09	1875793	13543260		0		226	Asia/Pyongyang	2025-12-16
+13545748	Ryongil-li	Ryongil-li	Ryong-am-ri,Ryong-il-ri,Ryongam-ni,Ryongil-li,Yong-am-ri,Yong-il-ri,Yongam-ni,Yongil-li,lyong-amli,lyong-illi,yong-amli,yong-illi,룡암리,룡일리,용암리,용일리	38.74162	126.76484	A	ADM3	KP		07	1875793	13545748		0		227	Asia/Pyongyang	2025-11-18
+13545754	P'unghyŏl-li	P'unghyol-li	P'unghyol-li,P'unghyon-ni,P'unghyŏl-li,P'unghyŏn-ni,Punghyeon-ri,feng xian li,punghyeonli,楓峴里,풍현리	38.73464	126.98367	A	ADM3	KP		09	1872704	13545754		0		243	Asia/Pyongyang	2025-11-18
+13545759	Myŏngdŏng-ni	Myongdong-ni	Myeongdeok-ri,Myongdong-ni,Myŏngdŏng-ni,ming de li,myeongdeogli,明德里,명덕리	38.66834	126.91504	A	ADM3	KP		09	1872704	13545759		0		252	Asia/Pyongyang	2025-11-18
+13545774	Ryongch'ŏl-li	Ryongch'ol-li	Ryongch'ol-li,Ryongch'ŏl-li,Ryongcheon-ri,Yongch'ol-li,Yongch'on-ni,Yongch'ŏl-li,Yongch'ŏn-ni,Yongcheon-ri,long chuan li,lyongcheonli,yongcheonli,yongcheonni,龍川里,룡천리,용천니,용천리	38.69532	126.95297	A	ADM3	KP		09	1872704	13545774		0		212	Asia/Pyongyang	2025-11-18
+13545787	Kaeryŏl-li	Kaeryol-li	Gaeryeon-ri,Kaeryol-li,Kaeryon-ni,Kaeryŏl-li,Kaeryŏn-ni,gaelyeonli,kai lian li,開蓮里,개련리	38.67682	126.83755	A	ADM3	KP		09	1872704	13545787		0		332	Asia/Pyongyang	2025-11-18
+13550410	Sŏngbung-ni	Songbung-ni	Seongbok-ri,Seongbuk-ri,Songbong-ni,Songbung-ni,Sŏngbong-ni,Sŏngbung-ni,cheng bei li,seongbogli,seongbugli,seongbugni,城北里,성복리,성북니,성북리	38.53251	126.88276	A	ADM3	KP		09	1876674	13550410		0		135	Asia/Pyongyang	2025-12-16
+13550430	Songjŏng-ni	Songjong-ni	Songjeong-ri,Songjong-ni,Songjŏng-ni,song ting li,songjeongli,songjeongni,松亭里,송정니,송정리	38.55537	126.81307	A	ADM3	KP		09	1876674	13550430		0		218	Asia/Pyongyang	2025-12-16
+13550431	Murŭng-ni	Murung-ni	Mureung-ri,Murung-ni,Murŭng-ni,muleungli,wu ling li,武陵里,무릉리	38.50966	126.94219	A	ADM3	KP		09	1876674	13550431		0		203	Asia/Pyongyang	2025-12-16
+13550450	Haal-li	Haal-li	Haal-li,Haan-ri,Mundong-ni,Mundong-ri,haanli,mundongli,mundongni,wen tong li,文童里,문동니,문동리,하안리	38.5758	126.93758	A	ADM3	KP		09	1876674	13550450		0		226	Asia/Pyongyang	2025-12-16
+13550451	Chidang-ni	Chidang-ni	Chidang-ni,Jidang-ri,Sindang-ni,Sindang-ri,jidangli,sindangli,xin tang li,新塘里,신당리,지당리	38.50059	126.91842	A	ADM3	KP		09	1876674	13550451		0		232	Asia/Pyongyang	2025-12-16
+13550490	Kaech'ŏl-li	Kaech'ol-li	Gaecheon-ri,Kaech'ol-li,Kaech'on-ni,Kaech'ŏl-li,Kaech'ŏn-ni,gaecheonli,kai chuan li,開川里,개천리	38.52062	126.88008	A	ADM3	KP		09	1876674	13550490		0		186	Asia/Pyongyang	2025-12-16
+13552790	Songnae-ri	Songnae-ri	Solgae,Songhyeon-ri,Songhyol-li,Songhyon-ni,Songhyŏl-li,Songhyŏn-ni,Songnae-ri,solgae,song xian,song xian li,songhyeonli,songnaeli,松峴,松峴里,솔개,송내리,송현리	38.26703	127.06496	A	ADM3	KP		09	1878166	13552790		0		137	Asia/Pyongyang	2025-12-16
+13557880	Sŏjam-dong	Sojam-dong	Seojam-dong,Seosal-ri,Seosan-dong,Sojam-dong,Sosa-ri,Sosal-li,Sosan-dong,Sŏjam-dong,Sŏsal-li,Sŏsan-dong,seojamdong,seosandong,seosanli,sosali,su sha li,xi shan li,蘇沙里,西山里,서산동,서산리,서잠동,소사리	39.96549	125.25678	A	ADM3	KP		11	1875101	13557880		0		107	Asia/Pyongyang	2025-12-16
+13557884	Tongmun-dong	Tongmun-dong	Dongmun-dong,Tongmun-dong,dongmundong,동문동	39.98119	125.26473	A	ADM3	KP		11	1875101	13557884		0		73	Asia/Pyongyang	2025-12-16
+13557888	Yŏkhŭng-dong	Yokhung-dong	Yeokheung-dong,Yeokjeon-dong,Yokchon-dong,Yokhung-dong,Yŏkchŏn-dong,Yŏkhŭng-dong,yeogheungdong,yeogjeondong,역전동,역흥동	39.98223	125.25762	A	ADM3	KP		11	1875101	13557888		0		79	Asia/Pyongyang	2025-12-16
+13557890	Sangdan-dong	Sangdan-dong	Bupyeong-dong,Pup'yong-dong,Pup’yŏng-dong,Sangdan-dong,bupyeongdong,fu ping dong,sangdandong,鳧坪洞,부평동,상단동	40.00708	125.26087	A	ADM3	KP		11	1875101	13557890		0		72	Asia/Pyongyang	2025-12-16
+13557892	Namsan-dong	Namsan-dong	Namsal-li,Namsan-dong,Namsan-ri,namsandong,namsanli,남산동,남산리	39.97396	125.23816	A	ADM3	KP		11	1875101	13557892		0		85	Asia/Pyongyang	2025-12-16
+13557901	Sŏngan-dong	Songan-dong	Seong-an-dong,Songan-dong,Sŏngan-dong,seong-andong,성안동	39.98929	125.25308	A	ADM3	KP		11	1875101	13557901		0		91	Asia/Pyongyang	2025-12-16
+13557907	Yangha-dong	Yangha-dong	Yangha-dong,Yangha-ri,yang he li,yanghadong,yanghali,陽菏里,양하동,양하리	39.97475	125.27757	A	ADM3	KP		11	1875101	13557907		0		69	Asia/Pyongyang	2025-12-16
+13557914	Ŭndŏng-ni	Undong-ni	Eundeok-ri,Oeryeom,Oeryom,Oeryŏm,Undong-ni,eundeogli,oelyeom,wai lian,Ŭndŏng-ni,外廉,외렴,은덕리	39.93739	125.27256	A	ADM3	KP		11	1875101	13557914		0		89	Asia/Pyongyang	2025-12-16
+13557915	Kwail-tong	Kwail-tong	Gwail-dong,Kwail-tong,Seoryeom,Soryom,Sŏryŏm,gwaildong,seolyeom,xi lian,西廉,과일동,서렴	39.94564	125.2585	A	ADM3	KP		11	1875101	13557915		0		77	Asia/Pyongyang	2025-12-16
+13558127	Sangmasal-li	Sangmasal-li	Sangmasal-li,Sangmasan-ni,Sangmasan-ri,sangmasanli,shang ma shan li,上馬山里,상마산리	38.24533	126.91305	A	ADM3	KP		09	1878166	13558127		0		148	Asia/Pyongyang	2025-12-16
+13558191	Ryongp’ung-ni	Ryongp'ung-ni	Hoko,Hokodo,Hōko,Hōkodō,P'ungha-ri,P'ungho-dong,Pungha-ri,Punghodong,P’ungha-ri,P’ungho-dong,Ryongp'ung-dong,Ryongp'ung-ni,Ryongpung-dong,Ryongpung-ri,Ryongp’ung-dong,Ryongp’ung-ni,Yongp'ung-dong,Yongp'ung-ni,Yongpung-dong,Yongpung-ri,Yongp’ung-dong,feng hu,feng hu dong,feng xia li,long feng li,lyongpungdong,lyongpungli,punghali,punghodong,yongpungdong,yongpungli,豐下里,豐湖,豐湖洞,龍豐里,룡풍동,룡풍리,용풍동,용풍리,풍하리,풍호동	39.97216	125.38253	A	ADM3	KP		11	1868849	13558191		0		65	Asia/Pyongyang	2025-12-16
+13558192	Tongsal-li	Tongsal-li	Dongsan-ri,Tongsal-li,dong shan li,dongsanli,東山里,동산리	39.97261	125.34828	A	ADM3	KP		11	1868849	13558192		0		106	Asia/Pyongyang	2025-12-16
+13558206	Namsal-li	Namsal-li	Namsal-li,Namsan-dong,Namsan-ri,namsandong,namsanli,nan shan dong,nan shan li,南山洞,南山里,남산동,남산리	39.96659	125.37682	A	ADM3	KP		11	1868849	13558206		0		47	Asia/Pyongyang	2025-12-16
+13569797	T’aech’ŏn-ŭp	T'aech'on-up	T'aech'on,T'aech'on-up,Taecheon,Taecheon-eup,Taisen,T’aech’ŏn,T’aech’ŏn-ŭp,taecheon,taecheon-eub,tai chuan,tai chuan yi,泰川,泰川邑,태천,태천읍	39.91984	125.49366	A	ADM3	KP		11	1868849	13569797		0		42	Asia/Pyongyang	2026-01-21
+13569804	Ryongsang-ni	Ryongsang-ni	Ryongsang-dong,Ryongsang-ni,Ryongsang-ri,Yongsang-dong,Yongsang-ni,Yongsang-ri,long dong li,long xiang dong,lyongsangdong,lyongsangli,yongsangdong,yongsangli,龍洞里,龍祥洞,룡상동,룡상리,용상동,용상리	39.93809	125.42476	A	ADM3	KP		11	1868849	13569804		0		39	Asia/Pyongyang	2026-01-21
+13569815	Songt'ae-ri	Songt'ae-ri	Ant'ae-ri,Antae-ri,Songt'ae-ri,Songtae-ri,an tai li,antaeli,songtaeli,安泰里,송태리,안태리	39.93336	125.46665	A	ADM3	KP		11	1868849	13569815		0		61	Asia/Pyongyang	2026-01-21
+13569835	Changhang-ni	Changhang-ni	Changhang-ni,Janghak-ri,janghagli,장학리	38.19993	126.90002	A	ADM3	KP		07	1879105	13569835		0		139	Asia/Pyongyang	2026-02-12
+13569855	Paengnosal-li	Paengnosal-li	Baengnosalli,Paengnosal-li,Sakunei,Sangnyeong,Sangnyeong-ri,Sangnyong,Sangnyong-ni,Sangnyŏng,Sangnyŏng-ni,baeglosanli,baegnosanli,saglyeong,saglyeongli,sagnyeong,shuo ning,shuo ning li,朔寧,朔寧里,백노산리,백로산리,삭녕,삭령,삭령리	38.21315	126.90445	A	ADM3	KP		09	1878166	13569855		0		66	Asia/Pyongyang	2026-01-21
+13569918	Kuhwa-ri	Kuhwa-ri	Guhwa-ri,Kuhwa-ri,Kyuka-ri,Kyūka-ri,guhwali,jiu hua li,九化里,구화리	38.10705	126.80386	A	ADM3	KP		07	1879105	13569918		0		66	Asia/Pyongyang	2026-02-12
+13570434	Ot'al-li	Ot'al-li	Changhang-ni,Janghak-ri,O'tan-ni,Ot'al-li,Otan-ri,janghagli,otanli,wu tan li,zhang he li,俉炭里,傽鸖里,오탄리,장학리	38.19333	126.93714	A	ADM3	KP		09	1878166	13570434		0		107	Asia/Pyongyang	2026-01-21
+13570510	Kukhwa-ri	Kukhwa-ri	Gukhwa-ri,Kukhwa-ri,gughwali,국화리	38.05754	126.79708	A	ADM3	KP		07	1879105	13570510		0		120	Asia/Pyongyang	2026-02-12
+13573092	Ŭnhŭng-ni	Unhung-ni	Bokheung-ri,Eunheung-ri,Hoedeong-ri,Hoedong-ni,Hoedŏng-ni,Pokhung-ni,Pokhŭng-ni,Unhung-ni,bogheungli,eunheungli,fu xing li,hoedeogli,hui de li,yin xing li,Ŭnhŭng-ni,回德里,福興里,銀興里,복흥리,은흥리,회덕리	39.87818	125.49562	A	ADM3	KP		11	1868849	13573092		0		39	Asia/Pyongyang	2026-01-21
+13573094	Kasong-ni	Kasong-ni	Deokheung-ri,Gasong-ri,Kasong-ni,Tokhung-ni,Tŏkhŭng-ni,de xing li,deogheungli,gasongli,德興里,가송리,덕흥리	39.87746	125.47023	A	ADM3	KP		11	1868849	13573094		0		35	Asia/Pyongyang	2026-01-21
+13573098	Unwŏl-li	Unwol-li	Ullyong-dong,Ullyong-ni,Ullyong-ri,Unwol-li,Unwol-ri,Unwŏl-li,Unyong-ni,Unyong-ri,un-wolli,un-yongli,unlyongdong,unlyongli,yun long dong,yun long li,雲龍洞,雲龍里,운룡동,운룡리,운용리,운월리	39.90299	125.43096	A	ADM3	KP		11	1868849	13573098		0		44	Asia/Pyongyang	2026-01-21
+13573101	Sinbong-ni	Sinbong-ni	Sinbong,Sinbong-ni,Sinbong-ri,sinbong,sinbongli,xin feng,xin feng li,新峯里,新峰,신봉,신봉리	39.85939	125.44826	A	ADM3	KP		11	1868849	13573101		0		45	Asia/Pyongyang	2026-01-21
+13573277	Hyŏnam-ni	Hyonam-ni	Hyeonam-ri,Hyonam-ni,Hyŏnam-ni,hyeon-amli,현암리	38.72766	126.62606	A	ADM3	KP		07	1875793	13573277		0		237	Asia/Pyongyang	2026-01-21
+13573301	Kyerim-ni	Kyerim-ni	Gyerim-ri,Kyerim-ni,gyelimli,계림리	38.733	126.66429	A	ADM3	KP		07	1875793	13573301		0		253	Asia/Pyongyang	2026-01-21
+13573304	Ryul-li	Ryul-li	Ryul-li,Ryul-ri,Yul-li,Yul-ri,lyulli,yulli,률리,율리	38.68235	126.63194	A	ADM3	KP		07	1875793	13573304		0		274	Asia/Pyongyang	2026-01-21
+13573314	Ryonghyŏl-li	Ryonghyol-li	Ryonghyeolli,Ryonghyol-li,Ryonghyŏl-li,Yonghyeon-ri,Yonghyol-li,Yonghyŏl-li,lyonghyeonli,yonghyeonli,룡현리,용현리	38.6835	126.51667	A	ADM3	KP		07	1869140	13573314		0		182	Asia/Pyongyang	2026-01-21
+13573319	Wŏryang-ni	Woryang-ni	Woryang-ni,Woryang-ri,Wŏryang-ni,wol-yangli,yue yang li,月陽里,월양리	38.67896	126.59248	A	ADM3	KP		07	1875793	13573319		0		255	Asia/Pyongyang	2026-01-21
+13573322	Mugal-li	Mugal-li	Mugal-li,Mugal-ri,mou ge li,mugalli,牟葛里,무갈리	38.7342	126.61026	A	ADM3	KP		07	1875793	13573322		0		226	Asia/Pyongyang	2026-01-21
+13573330	Orip'o-ri	Orip'o-ri	Orip'o-ri,Oripo-ri,olipoli,오리포리	38.70839	126.58818	A	ADM3	KP		07	1875793	13573330		0		228	Asia/Pyongyang	2026-01-21
+13573331	Tojŏl-li	Tojol-li	Dojeon-ri,Tojol-li,Tojon-ni,Tojŏl-li,Tojŏn-ni,dao tian li,dojeonli,島田里,도전리	38.71121	126.50786	A	ADM3	KP		07	1869140	13573331		0		143	Asia/Pyongyang	2026-03-16
+13573344	T'aeŭl-li	T'aeul-li	T'aeul-li,T'aeŭl-li,Taeeul-ri,taeeulli,tai yi li,太乙里,태을리	38.60282	126.63885	A	ADM3	KP		07	1870544	13573344		0		220	Asia/Pyongyang	2026-01-21
+13573348	Sinhŭng-ni	Sinhung-ni	Sinheung-ri,Sinhung-ni,Sinhŭng-ni,sinheungli,신흥리	38.61163	126.5253	A	ADM3	KP		07	1869140	13573348		0		208	Asia/Pyongyang	2026-01-21
+13573364	Sŏkkyo-ri	Sokkyo-ri	Seokgyo-ri,Sokkyo-ri,Sŏkkyo-ri,seoggyoli,shi qiao li,石橋里,석교리	38.6175	126.51144	A	ADM3	KP		07	1869140	13573364		0		196	Asia/Pyongyang	2026-01-21
+13573368	Chugyŏng-ni	Chugyong-ni	Chugyong-ni,Chugyŏng-ni,Jugyeong-ri,jugyeongli,주경리	38.64266	126.52717	A	ADM3	KP		07	1869140	13573368		0		209	Asia/Pyongyang	2026-01-21
+13573375	Kaam-ni	Kaam-ni	Gaam-ri,Kaam-ni,Sahyeolli,Sahyol-li,Sahyon-ni,Sahyŏl-li,Sahyŏn-ni,gaamli,sahyeonli,sahyeonni,sha xian li,沙峴里,가암리,사현니,사현리	38.65928	126.66613	A	ADM3	KP		07	1875793	13573375		0		315	Asia/Pyongyang	2026-01-21
+13573383	Ch'ŏn'gae-ri	Ch'on'gae-ri	Ch'on'gae-ri,Ch'ŏn'gae-ri,Cheon-gae-ri,cheongaeli,tian kai li,天開里,천개리	38.58693	126.66559	A	ADM3	KP		07	1870544	13573383		0		211	Asia/Pyongyang	2026-01-21
+13573385	Hwasŏng-ni	Hwasong-ni	Hwaseong-ri,Hwasong-ni,Hwasŏng-ni,hua cheng li,hwaseongli,花城里,화성리	38.60164	126.5786	A	ADM3	KP		07	1870544	13573385		0		219	Asia/Pyongyang	2026-01-21
+13573393	Haep'o-ri	Haep'o-ri	Haep'o-ri,Haepo-ri,haepoli,해포리	38.64251	126.58711	A	ADM3	KP		07	1870544	13573393		0		232	Asia/Pyongyang	2026-01-21
+13573399	Taesŏng-ni	Taesong-ni	Daeseong-ri,Taesong-ni,Taesŏng-ni,daeseongli,대성리	38.63278	126.54399	A	ADM3	KP		07	1870544	13573399		0		218	Asia/Pyongyang	2026-01-21
+13573402	Rimch’ŏl-li	Rimch'ol-li	Imch'ol-li,Imch'on,Imch'on-dong,Imcheon,Imcheon-dong,Imcheon-ri,Imch’ŏl-li,Imch’ŏn,Imch’ŏn-dong,Rimch'ol-li,Rimch'on,Rimch'on-dong,Rimcheon,Rimcheon-ri,Rimch’ŏl-li,Rimch’ŏn,Rimch’ŏn-dong,imcheon,imcheondong,imcheonli,limcheon,limcheondong,limcheonli,lin quan dong,lin quan li,林泉洞,林泉里,림천,림천동,림천리,임천,임천동,임천리	39.87105	125.39829	A	ADM3	KP		11	1868849	13573402		0		70	Asia/Pyongyang	2026-01-21
+13573406	Raeha-ri	Raeha-ri	Naeha-dong,Naeha-ri,Raeha-dong,Raeha-ri,laehadong,laehali,lai he dong,lei he li,naehadong,naehali,來賀洞,耒賀里,내하동,내하리,래하동,래하리	39.8998	125.39405	A	ADM3	KP		11	1868849	13573406		0		44	Asia/Pyongyang	2026-01-21
+13573430	Songwŏl-li	Songwol-li	Songwol-li,Songwon-ri,Songwŏl-li,song yuan li,song-wonli,松院里,송원리	39.84533	125.39823	A	ADM3	KP		11	1868849	13573430		0		65	Asia/Pyongyang	2026-01-21
+13574905	Serim-ni	Serim-ni	Serim-ni,Serim-ri,selimli,xi lin li,細林里,세림리	38.69028	126.6905	A	ADM3	KP		07	1875793	13574905		0		326	Asia/Pyongyang	2026-01-21
+13574949	Deokjung-ni	Deokjung-ni	Deokeung-ri,Deokjung-ni,Deokjung-ri,Tokhung-ni,Tŏkhŭng-ni,deogheungli,deogjungli,덕중리,덕흥리	38.74051	126.72863	A	ADM3	KP		07	1875793	13574949		0		190	Asia/Pyongyang	2026-01-21
+13574950	Ch'op'yŏng-ni	Ch'op'yong-ni	Ch'op'yong-ni,Ch'op'yŏng-ni,Chopyeong-ri,Sop'yong-ni,Sop'yŏng-ni,Sopyeong-ri,cao ping li,chopyeongli,sopyeongli,草坪里,소평리,초평리	38.74914	126.71728	A	ADM3	KP		07	1875793	13574950		0		173	Asia/Pyongyang	2026-01-21
+13578170	Changp'ung-ŭp	Changp'ung-up	Changp'ung,Changp'ung-up,Changp'ung-ŭp,Jangpung,Jangpung-eup,jangpung,jangpung-eub,zhang li yi,長豊邑,장풍,장풍읍	38.09403	126.68189	A	ADM3	KP		07	1879105	13578170		0		120	Asia/Pyongyang	2026-02-12
+13587485	Rŭngsu-ri	Rungsu-ri	Neungsu-ri,Nungsu-ri,Nŭngsu-ri,Reungsu-ri,Rungsu-ri,Rŭngsu-ri,leungsuli,ling shui li,neungsuli,陵水里,능수리,릉수리	38.54941	126.5786	A	ADM3	KP		07	1870544	13587485		0		154	Asia/Pyongyang	2026-02-12
+13587528	Masŏng-ni	Masong-ni	Masal-li,Masan-ni,Masan-ri,Maseok-ri,Masong-ni,Masŏng-ni,ma shan li,masanli,maseogli,馬山里,마산리,마석리	38.5211	126.57336	A	ADM3	KP		07	1870544	13587528		0		115	Asia/Pyongyang	2026-02-12
+13587531	Chisam-ni	Chisam-ni	Chisam-ni,Chisang,Chisok-kol,Chisok-tong,Chisong-ni,Chisŏk-kol,Chisŏk-tong,Chisŏng-ni,Jisam-ri,Jiseok-ri,Jiseokgol,jisamli,jiseoggol,jiseogli,zhi shi li,支石里,지삼리,지석골,지석리	38.53832	126.50835	A	ADM3	KP		07	1870544	13587531		0		86	Asia/Pyongyang	2026-02-12
+13587539	Wangdang-ni	Wangdang-ni	Wangdang-ni,Wangdang-ri,wang tang li,wangdangli,往塘里,왕당리	38.52912	126.62454	A	ADM3	KP		07	1870544	13587539		0		172	Asia/Pyongyang	2026-02-12
+13587556	Sin'gye-ŭp	Sin'gye-up	Shinkei,Sin'gye,Sin'gye-up,Sin'gye-ŭp,Sin-gye,Sin-gye-eup,singye,singyeeub,xin xi,xin xi yi,新溪,新溪邑,신계,신계읍	38.5068	126.53113	A	ADM3	KP		07	1870544	13587556		0		74	Asia/Pyongyang	2026-02-12
+13587560	Tanp'yŏng-ni	Tanp'yong-ni	Danpyeong-ri,Tanp'yong-ni,Tanp'yŏng-ni,danpyeongli,단평리	38.5782	126.6058	A	ADM3	KP		07	1870544	13587560		0		198	Asia/Pyongyang	2026-02-12
+13587584	Ryongpo-dong	Ryongpo-dong	Ryongpo-dong,Ryongpodong,Yongpo-dong,Yongpodong,lyongpodong,yongpodong,룡포동,용포동	39.79466	125.24558	A	ADM3	KP		11	1878391	13587584		0		32	Asia/Pyongyang	2026-02-12
+13587589	Amdu-ri	Amdu-ri	Amdu-ri,amduli,암두리	39.75269	125.24823	A	ADM3	KP		11	1878391	13587589		0		88	Asia/Pyongyang	2026-02-12
+13587605	Sinal-li	Sinal-li	Sinal-li,Sinan-ri,sin-anli,xin an li,新安里,신안리	39.73428	125.24339	A	ADM3	KP		11	1878391	13587605		0		27	Asia/Pyongyang	2026-02-12
+13587623	Surigae I-dong	Surigae I-dong	Sinheung 2-dong,Sinheung I-dong,Sinhung 2-dong,Sinhung I-dong,Sinhŭng 2-dong,Sinhŭng I-dong,Surigae 2-dong,Surigae I-dong,sinheung-idong,sinheung2dong,suligae2dong,suligaeidong,수리개2동,수리개이동,신흥2동,신흥이동	39.88235	125.25241	A	ADM3	KP		11	1875101	13587623		0		102	Asia/Pyongyang	2026-02-12
+13587627	Namch'ang-dong	Namch'ang-dong	Namch'ang-dong,Namchang-dong,namchangdong,남창동	39.89397	125.25306	A	ADM3	KP		11	1875101	13587627		0		66	Asia/Pyongyang	2026-02-12
+13587672	Ryonghŭng-dong	Ryonghung-dong	Ryongheung-dong,Ryongheung-ri,Ryonghung-dong,Ryonghung-ni,Ryonghŭng-dong,Ryonghŭng-ni,Yongheung-dong,Yongheung-ri,Yonghung-dong,Yonghung-ni,Yonghŭng-dong,Yonghŭng-ni,long xing li,lyongheungdong,lyongheungli,yongheungdong,yongheungli,yongheungni,龍興里,룡흥동,룡흥리,용흥니,용흥동,용흥리	38.0051	126.60797	A	ADM3	KP		19	1876370	13587672		0		64	Asia/Pyongyang	2026-02-12
+13587683	Sipt’al-li	Sipt'al-li	Sibyeoulgol,Sibyoul-gol,Sibyŏul-gol,Sipt'al-li,Sipt'an-ni,Siptan-ri,Sipt’al-li,Sipt’an-ni,shi tan dong,shi tan li,sib-yeoulgol,sibtanli,十灘洞,十灘里,십여울골,십탄리	38.07754	126.74294	A	ADM3	KP		07	1879105	13587683		0		130	Asia/Pyongyang	2026-03-16
+13587713	Taedŏksal-li	Taedoksal-li	Daedeoksan-ri,Seoam-ri,Soam-ni,Sŏam-ni,Taedoksal-li,Taedŏksal-li,da de shan li,daedeogsanli,seoamli,xi yan li,大德山里,西岩里,대덕산리,서암리	38.00666	126.72421	A	ADM3	KP		07	1879105	13587713		0		57	Asia/Pyongyang	2026-03-16
+13587822	Songak-tong	Songak-tong	Songak-dong,Songak-tong,song yue dong,song-agdong,松嶽洞,송악동	37.98396	126.54041	A	ADM3	KP		19	1876370	13587822		0		88	Asia/Pyongyang	2026-02-12
+13587824	Rabok-tong	Rabok-tong	Dongheung-dong,Nabok-tong,Nabokdong,Rabok-dong,Rabok-tong,Tonghung-dong,Tonghŭng-dong,dong xing dong,dongheungdong,labogdong,nabogdong,東興洞,나복동,동흥동,라복동	37.97177	126.56211	A	ADM3	KP		19	1876370	13587824		0		38	Asia/Pyongyang	2026-02-12
+13587830	Sŏnjuk-tong	Sonjuk-tong	Seonjuk-dong,Sonjuk-tong,Sŏnjuk-tong,seonjugdong,shan zhu dong,善竹洞,선죽동	37.98035	126.56293	A	ADM3	KP		19	1876370	13587830		0		48	Asia/Pyongyang	2026-02-12
+13587834	Ryuam-dong	Ryuam-dong	Ryuam-dong,Yeokjeon-dong,Yokchon-dong,Yuam-dong,Yŏkchŏn-dong,lyuamdong,yeogjeondong,yi qian dong,yuamdong,驛前洞,류암동,역전동,유암동	37.97506	126.53509	A	ADM3	KP		19	1876370	13587834		0		97	Asia/Pyongyang	2026-02-12
+13587838	Namsan I-dong	Namsan I-dong	Namsan 2-dong,Namsan I-dong,namsan-idong,namsan2dong,nan shan er dong,南山二洞,남산2동,남산이동	37.96393	126.55783	A	ADM3	KP		19	1876370	13587838		0		59	Asia/Pyongyang	2026-02-12
+13587840	Naesŏng-dong	Naesong-dong	Naeseong-dong,Naesong-dong,Naesŏng-dong,naeseongdong,nei cheng dong,內城洞,내성동	37.97362	126.54652	A	ADM3	KP		19	1876370	13587840		0		46	Asia/Pyongyang	2026-02-12
+13587841	Haeun-dong	Haeun-dong	Hae-un-dong,Haeun-dong,haeundong,hai yun dong,海雲洞,해운동	37.98016	126.55493	A	ADM3	KP		19	1876370	13587841		0		43	Asia/Pyongyang	2026-02-12
+13587845	Kwangdam-ni	Kwangdam-ni	Gwangdap-ri,Kwangdam-ni,guang duo li,gwangdabli,廣畓里,광답리	37.9379	126.50795	A	ADM3	KP		19	1876370	13587845		0		46	Asia/Pyongyang	2026-02-12
+13587848	Sŏnggyun'gwan-dong	Songgyun'gwan-dong	Bangjik-dong,Pangjik-tong,Seonggyun-gwan-dong,Songgyun'gwan-dong,Sŏnggyun'gwan-dong,bangjigdong,cheng jun guan dong,fang zhi dong,seong-gyungwandong,成均館洞,紡織洞,방직동,성균관동	37.98905	126.56807	A	ADM3	KP		19	1876370	13587848		0		53	Asia/Pyongyang	2026-02-12
+13587854	Ungch'ŏn-dong	Ungch'on-dong	Ungch'on-dong,Ungch'ŏn-dong,Ungcheon-dong,ungcheondong,xiong chuan dong,熊川洞,웅천동	37.9617	126.56994	A	ADM3	KP		19	1876370	13587854		0		35	Asia/Pyongyang	2026-02-12
+13587857	Unhak I-dong	Unhak I-dong	Unhak 2-dong,Unhak I-dong,unhag-idong,unhag2dong,yun he er dong,雲鶴二洞,운학2동,운학이동	37.98329	126.58309	A	ADM3	KP		19	1876370	13587857		0		45	Asia/Pyongyang	2026-02-12
+13587859	Manwŏl-tong	Manwol-tong	Manwol-dong,Manwol-tong,Manwŏl-tong,man yue dong,man-woldong,滿月洞,만월동	37.98339	126.54991	A	ADM3	KP		19	1876370	13587859		0		57	Asia/Pyongyang	2026-02-12
+13587862	Posŏn-dong	Poson-dong	Boseon-dong,Poson-dong,Posŏn-dong,boseondong,bu xian dong,步仙洞,보선동	37.96928	126.57101	A	ADM3	KP		19	1876370	13587862		0		50	Asia/Pyongyang	2026-02-12
+13587865	P'anmun I-dong	P'anmun I-dong	P'anmun 2-dong,P'anmun I-dong,Panmun 2-dong,Panmun I-dong,panmun-idong,panmun2dong,판문2동,판문이동	37.94132	126.60228	A	ADM3	KP		19	1876370	13587865		0		46	Asia/Pyongyang	2026-02-12
+13587871	Sŭngjŏn-dong	Sungjon-dong	Seungjeon-dong,Sungjon-dong,Sŭngjŏn-dong,seungjeondong,sheng zhan dong,勝戰洞,승전동	37.96576	126.54063	A	ADM3	KP		19	1876370	13587871		0		81	Asia/Pyongyang	2026-02-12
+13587879	Sŏnjŏng-ni	Sonjong-ni	Seonjeok-ri,Sonjong-ni,Sŏnjŏng-ni,seonjeogli,xian ji li,仙跡里,선적리	37.99251	126.68716	A	ADM3	KP		19	1876370	13587879		0		33	Asia/Pyongyang	2026-02-12
+13587881	Ŭnhyang-dong	Unhyang-dong	Eundeok-dong,Eunhyang-dong,Undok-tong,Unhyang-dong,en de dong,eundeogdong,eunhyangdong,Ŭndŏk-tong,Ŭnhyang-dong,恩德洞,은덕동,은향동	37.98602	126.61803	A	ADM3	KP		19	1876370	13587881		0		33	Asia/Pyongyang	2026-02-12
+13587883	Tonghyŏn-dong	Tonghyon-dong	Donghyeon-dong,Tonghyon-dong,Tonghyŏn-dong,donghyeondong,tong xian dong,銅峴洞,동현동	37.965	126.56288	A	ADM3	KP		19	1876370	13587883		0		37	Asia/Pyongyang	2026-02-12
+13587885	Puso-dong	Puso-dong	Buso-dong,Nammun-dong,Puso-dong,busodong,nammundong,nan men dong,南門洞,남문동,부소동	37.97058	126.55312	A	ADM3	KP		19	1876370	13587885		0		39	Asia/Pyongyang	2026-02-12
+13587887	Ryongsusan-dong	Ryongsusan-dong	Ryongsan-dong,Ryongsusan-dong,Yongsan-dong,Yongsusan-dong,long shan dong,lyongsandong,lyongsusandong,yongsandong,yongsusandong,龍山洞,룡산동,룡수산동,용산동,용수산동	37.96658	126.55026	A	ADM3	KP		19	1876370	13587887		0		59	Asia/Pyongyang	2026-02-12
+13587888	Naman-dong	Naman-dong	Naman-dong,nam-andong,nan an dong,南安洞,남안동	37.96926	126.55528	A	ADM3	KP		19	1876370	13587888		0		39	Asia/Pyongyang	2026-02-12
+13587890	Unhak Il-ltong	Unhak Il-ltong	Unhak 1-dong,Unhak 1-ltong,Unhak Il-dong,Unhak Il-ltong,unhag-ildong,unhag1dong,yun he yi dong,雲鶴一洞,운학1동,운학일동	37.98367	126.56822	A	ADM3	KP		19	1876370	13587890		0		53	Asia/Pyongyang	2026-02-12
+13587891	Chanam-dong	Chanam-dong	Chanam-dong,Janam-dong,janamdong,zi nan dong,子男洞,자남동	37.97641	126.55551	A	ADM3	KP		19	1876370	13587891		0		43	Asia/Pyongyang	2026-02-12
+13587892	Namsan Il-tong	Namsan Il-tong	Namsan 1-dong,Namsan 1-tong,Namsan Il-dong,Namsan Il-tong,namsan-ildong,namsan1dong,nan shan yi dong,南山一洞,남산1동,남산일동	37.96006	126.55584	A	ADM3	KP		19	1876370	13587892		0		59	Asia/Pyongyang	2026-02-12
+13587894	Kwanhun-dong	Kwanhun-dong	Gwanhun-dong,Kwanhun-dong,guan xun dong,gwanhundong,冠訓洞,관훈동	37.96862	126.56147	A	ADM3	KP		19	1876370	13587894		0		38	Asia/Pyongyang	2026-02-12
+13587898	Pusan-dong	Pusan-dong	Busan-dong,Pusan-dong,busandong,fu shan dong,扶山洞,부산동	37.98416	126.56117	A	ADM3	KP		19	1876370	13587898		0		54	Asia/Pyongyang	2026-02-12
+13587901	Pugan-dong	Pugan-dong	Bugan-dong,Pugan-dong,bei an dong,bug-andong,北安洞,북안동	37.97556	126.55162	A	ADM3	KP		19	1876370	13587901		0		43	Asia/Pyongyang	2026-02-12
+13588936	Oryong-ni	Oryong-ni	Oryong-dong,Oryong-ni,Oryong-ri,olyongdong,olyongli,wu long dong,wu long li,五龍洞,五龍里,오룡동,오룡리	39.75294	125.34303	A	ADM3	KP		11	1878391	13588936		0		91	Asia/Pyongyang	2026-02-12
+13589003	Pugil-li	Pugil-li	Bugil-ri,Pugil-li,bei yi li,bug-illi,北一里,북일리	39.78116	125.46834	A	ADM3	KP		11	1867275	13589003		0		14	Asia/Pyongyang	2026-02-12
+13589009	Ch’wihŭng-ni	Ch'wihung-ni	Ch'wihung-dong,Ch'wihung-ni,Ch'wihŭng-dong,Chwiheung-dong,Chwiheung-ri,Ch’wihŭng-ni,Unseok-ri,Unsok-ni,Unsŏk-ni,chwiheungdong,chwiheungli,qu xing dong,qu xing li,unseogli,yun shi li,zui xing li,取興洞,取興里,醉興里,雲石里,운석리,취흥동,취흥리	39.79917	125.48412	A	ADM3	KP		11	1868849	13589009		0		24	Asia/Pyongyang	2026-02-12
+13589030	Rimgwang-ni	Rimgwang-ni	Imgwang-ni,Imgwang-ri,Rimgwang-ni,Rimgwang-ri,Sin'gwang-ni,Sin-gwang-ri,Sin’gwang-ni,imgwangli,limgwangli,lin guang li,singwangli,xin guang li,新光里,林光里,림광리,신광리,임광리	39.80306	125.41658	A	ADM3	KP		11	1868849	13589030		0		57	Asia/Pyongyang	2026-02-12
+13589034	Samgwang-ni	Samgwang-ni	Samgwang-dong,Samgwang-ni,Samgwang-ri,samgwangdong,samgwangli,san guang dong,san guang li,三光洞,三光里,삼광동,삼광리	39.75659	125.41458	A	ADM3	KP		11	1867275	13589034		0		42	Asia/Pyongyang	2026-02-12
+13599574	Ryŏngjŏng-ni	Ryongjong-ni	Reiseiri,Ryeongjeong-ri,Ryongjong-ni,Ryosei-ri,Ryōsei-ri,Ryŏngjŏng-ni,Yeongjeong-ri,Yongjong-ni,Yŏngjŏng-ni,ling jing li,lyeongjeongli,yeongjeongli,嶺井里,령정리,영정리	37.81423	126.52391	A	ADM3	KP		19	1876370	13599574		0		26	Asia/Pyongyang	2026-03-16
+13603598	Pan'gong-ni	Pan'gong-ni	Ban-gok-dong,Ban-gok-ri,Pan'gok-tong,Pan'gong-ni,Pan’gok-tong,bangogdong,bangogli,pan gu dong,pan gu li,盤谷洞,盤谷里,반곡동,반곡리	39.93615	124.55004	A	ADM3	KP		11	1866590	13603598		0		30	Asia/Pyongyang	2026-03-16
+13603600	Tongsŏng-ni	Tongsong-ni	Dongseong-dong,Dongseong-ri,Tongsong-dong,Tongsong-ni,Tongsŏng-dong,Tongsŏng-ni,dong cheng dong,dong cheng li,dongseongdong,dongseongli,東城洞,東城里,동성동,동성리	39.91903	124.56715	A	ADM3	KP		11	1866590	13603600		0		18	Asia/Pyongyang	2026-03-16
+13603605	Ssangnyong-ni	Ssangnyong-ni	Ssangnyong-ni,Ssangnyong-ri,shuang long li,ssanglyongli,雙龍里,쌍룡리	39.98937	124.49997	A	ADM3	KP		11	1872626	13603605		0		11	Asia/Pyongyang	2026-03-16
+13603606	Sŏngdong-ni	Songdong-ni	Seongdong-dong,Seongdong-ri,Songdong-dong,Songdong-ni,Sŏngdong-dong,Sŏngdong-ni,cheng dong dong,cheng dong li,seongdongdong,seongdongli,城東洞,城東里,성동동,성동리	39.96727	124.55903	A	ADM3	KP		11	1866590	13603606		0		7	Asia/Pyongyang	2026-03-16
+13603611	Hakhŭng-ri	Hakhung-ri	Beopeung-rI,Hakheung-ri,Hakhung-ri,Hakhŭng-ri,Pophung-ri,Pŏphŭng-ri,beobheungli,fa xing li,hagheungli,he xing li,法興里,鶴興里,법흥리,학흥리	39.97514	124.52948	A	ADM3	KP		11	1866590	13603611		0		60	Asia/Pyongyang	2026-03-16
+13603614	Naejung-ni	Naejung-ni	Naejung-ni,Naejung-ri,naejungli,nei zhong li,內中里,내중리	39.91619	124.53062	A	ADM3	KP		11	1866590	13603614		0		17	Asia/Pyongyang	2026-03-16
+13605040	Ryangch'eng-nodongjagu	Ryangch'eng-nodongjagu	Ryangch'ek-tong,Ryangch'eng-ni,Ryangch'eng-nodongjagu,Ryangchaek-dong,Ryangchaek-nodongjagu,Ryangchaek-ri,Yangch'aeng-ni,Yangch'ek-tong,Yangch'eng-nodongjagu,Yangchaek-dong,Yangchaek-nodongjagu,Yangchaek-ri,liang ce dong,liang ce lao dong zhe qu,liang ce li,lyangchaegdong,lyangchaegli,lyangchaeglodongjagu,lyangchaegnodongjagu,yangchaegdong,yangchaegli,yangchaeglodongjagu,yangchaegnodongjagu,良策勞動者區,良策洞,良策里,량책노동자구,량책동,량책로동자구,량책리,양책노동자구,양책동,양책로동자구,양책리	39.95769	124.64422	A	ADM3	KP		11	1866590	13605040		0		39	Asia/Pyongyang	2026-03-16
+13605059	Taesŏ-ri	Taeso-ri	Daepyeong-dong,Daepyeong-ri,Daeseo-ri,T'aep'yong-dong,Taep'yong-ni,Taep’yŏng-ni,Taeso-ri,Taesŏ-ri,T’aep’yŏng-dong,daepyeongdong,daepyeongli,daeseoli,tai ping dong,tai ping li,台平洞,台平里,臺平里,대서리,대평동,대평리	39.98618	124.58351	A	ADM3	KP		11	1866590	13605059		0		22	Asia/Pyongyang	2026-03-16
+13605070	Nonggŏn-ni	Nonggon-ni	Donggeon-ri,Nonggeon-dong,Nonggeon-ri,Nonggon-dong,Nonggon-ni,Nonggŏn-dong,Nonggŏn-ni,Tonggol-li,Tonggŏl-li,dong-geonli,nong jian li,nong-geondong,nong-geonli,農建里,농건동,농건리,동건리	39.98956	124.64129	A	ADM3	KP		11	1872626	13605070		0		9	Asia/Pyongyang	2026-03-16
+13605116	Kwang-ni	Kwang-ni	Gwang-ri,Kwang-ni,guang li,gwangli,廣里,광리	39.98773	124.67452	A	ADM3	KP		11	1872626	13605116		0		87	Asia/Pyongyang	2026-03-16
+13605147	Namsam-ni	Namsam-ni	Namsam-ni,Namsam-ri,namsanli,nan shan li,南山里,남산리	39.95908	124.73442	A	ADM3	KP		11	1867778	13605147		0		126	Asia/Pyongyang	2026-03-16
+13607348	Sŏnggyo-ri	Songgyo-ri	Seonggyo-ri,Songgyo-ri,Sŏnggyo-ri,seong-gyoli,xing qiao li,星橋里,성교리	38.79461	126.48326	A	ADM3	KP		07	1869140	13607348		0		323	Asia/Pyongyang	2026-03-16
+13607408	Chung-ni	Chung-ni	Chung-ni,Jung-ri,jungli,zhong li,中里,중리	38.72976	126.02318	A	ADM3	KP		07	1870984	13607408		0		67	Asia/Pyongyang	2026-03-16
+13607414	Sin'gŭm-ni	Sin'gum-ni	Sin'gum-ni,Sin'gŭm-ni,Sin-geum-ri,singeumli,xin jin li,新金里,신금리	38.70952	126.13717	A	ADM3	KP		07	1865966	13607414		0		122	Asia/Pyongyang	2026-03-16
+13607445	Simjŏng-ni	Simjong-ni	Obong-ni,Obong-ri,Simjeok-ri,Simjong-ni,Simjŏng-ni,obongli,simjeogli,wu feng li,五峯里,五峰里,심적리,오봉리	38.70957	126.19163	A	ADM3	KP		07	1865966	13607445		0		172	Asia/Pyongyang	2026-03-16
+13607460	Sinwŏl-li	Sinwol-li	Sinwol-li,Sinwon-ri,Sinwŏl-li,sin-wonli,xin yuan li,新院里,신원리	38.7282	126.07389	A	ADM3	KP		07	1870984	13607460		0		101	Asia/Pyongyang	2026-03-16
+13607464	Tamul-li	Tamul-li	Damun-ri,Sindae-ri,Tamul-li,dam-unli,sindaeli,xin dai li,新垈里,담운리,신대리	38.68969	126.24575	A	ADM3	KP		07	1869140	13607464		0		151	Asia/Pyongyang	2026-03-16
+13607474	Munhwa-ri	Munhwa-ri	Munhwa-ri,Neung-ri,Nung-ni,Nŭng-ni,Reung-ri,Rung-ni,Ryo-ri,Ryō-ri,Rŭng-ni,leungli,ling li,munhwali,neungli,neungni,wen hua li,文化里,陵里,능니,능리,릉리,문화리	38.67214	126.18227	A	ADM3	KP		07	1865966	13607474		0		121	Asia/Pyongyang	2026-03-16

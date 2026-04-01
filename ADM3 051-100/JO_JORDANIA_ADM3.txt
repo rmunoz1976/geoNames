@@ -1,0 +1,38 @@
+﻿8621769	Qaḑā’ Umm ar Raşāş	Qada' Umm ar Rasas	Qada' Umm ar Rasas,Qaḑā’ Umm ar Raşāş,قضاء أم الرصاص	31.37657	36.44076	A	ADM3	JO		16		8621769		0		854	Asia/Amman	2015-11-09
+8621771	Qaḑā’ Rujm ash Shāmī	Qada' Rujm ash Shami	Qada' Rujm ash Shami,Qaḑā’ Rujm ash Shāmī,qdaʾ rjm alshamy,قضاء رجم الشامي	31.72677	36.0717	A	ADM3	JO		16		8621771		0		744	Asia/Amman	2013-10-11
+8621773	Qaḑā’ Ḩisbān	Qada' Hisban	Qada' Hisban,Qaḑā’ Ḩisbān,qdaʾ hsban,قضاء حسبان	31.79617	35.7946	A	ADM3	JO		16		8621773		0		791	Asia/Amman	2015-11-09
+8621776	Qaḑā’ Umm al Basātīn	Qada' Umm al Basatin	Qada' Umm al Basatin,Qaḑā’ Umm al Basātīn,قضاء أم البساتين	31.81782	35.87482	A	ADM3	JO		16		8621776		0		794	Asia/Amman	2015-11-09
+8623652	Qaḑā’ Dayr al Kahf	Qada' Dayr al Kahf	Qada' Dayr al Kahf,Qaḑā’ Dayr al Kahf,qdaʾ dyr alkhf,قضاء دير الكهف	32.27881	36.88551	A	ADM3	JO		15		8623652		0		1095	Asia/Amman	2015-11-09
+8623665	Qaḑā’ Umm al Qiţţayn	Qada' Umm al Qittayn	Qada' Umm al Qittayn,Qada' Umm al Quttayn,Qaḑā’ Umm al Qiţţayn,Qaḑā’ Umm al Quţţayn,قضاء أم القطين	32.29957	36.63378	A	ADM3	JO		15		8623665		0		926	Asia/Amman	2015-09-07
+8623666	Qaḑā’ Şabḩā	Qada' Sabha	Qada' Sabha,Qaḑā’ Şabḩā,qdaʾ sbha,قضاء صبحا	32.29564	36.54191	A	ADM3	JO		15		8623666		0		859	Asia/Amman	2015-11-09
+8623685	Qaḑā’ Umm al Jimāl	Qada' Umm al Jimal	Qada' Umm al Jimal,Qaḑā’ Umm al Jimāl,قضاء أم الجمال	32.31262	36.40023	A	ADM3	JO		15		8623685		0		724	Asia/Amman	2015-11-09
+8623689	Qaḑā’ al Khālidīyah	Qada' al Khalidiyah	Qada' al Khalidiyah,Qaḑā’ al Khālidīyah,qdaʾ alkhaldyt,قضاء الخالدية	32.1916	36.31501	A	ADM3	JO		15		8623689		0		611	Asia/Amman	2015-11-09
+8623690	Qaḑā’ Samā as Sirḩān	Qada' Sama as Sirhan	Qada' Sama as Sirhan,Qaḑā’ Samā as Sirḩān,qdaʾ sma alsrhan,قضاء سما السرحان	32.46852	36.23361	A	ADM3	JO		15	8621683	8623690		0		593	Asia/Amman	2019-12-15
+8623698	Qaḑā’ Ḩawshā	Qada' Hawsha	Qada' Hawsha,Qaḑā’ Ḩawshā,qdaʾ hwsha,قضاء حوشا	32.44069	36.08956	A	ADM3	JO		15		8623698		0		639	Asia/Amman	2015-11-09
+8623793	Qaḑā’ Bal‘amā	Qada' Bal`ama	Qada' Bal`ama,Qaḑā’ Bal‘amā,qdaʾ blʿma,قضاء بلعما	32.21192	36.11462	A	ADM3	JO		15		8623793		0		614	Asia/Amman	2015-11-09
+8623794	Qaḑā’ Irḩāb	Qada' Irhab	Qada' Irhab,Qaḑā’ Irḩāb,qdaʾ arhab,قضاء ارحاب	32.31235	36.04599	A	ADM3	JO		15		8623794		0		846	Asia/Amman	2015-11-09
+8623796	Qaḑā’ al Manshīyah	Qada' al Manshiyah	Qada' al Manshiyah,Qaḑā’ al Manshīyah,qdaʾ almnshyt,قضاء المنشية	32.38521	36.09233	A	ADM3	JO		15		8623796		0		786	Asia/Amman	2015-11-09
+8623814	Qaḑā’ Burmā	Qada' Burma	Qada' Burma,Qaḑā’ Burmā,qdaʾ brma,قضاء برما	32.2148	35.77892	A	ADM3	JO		22		8623814		0		538	Asia/Amman	2015-11-09
+8623979	Qaḑā’ al Maşţabah	Qada' al Mastabah	Qada' al Mastabah,Qaḑā’ al Maşţabah,qdaʾ almstbt,قضاء المصطبة	32.1675	35.87321	A	ADM3	JO		22		8623979		0		696	Asia/Amman	2015-11-09
+8624046	Qaḑā’ ‘Irjān	Qada' `Irjan	Qada' `Irjan,Qaḑā’ ‘Irjān,qdaʾ ʿrjan,قضاء عرجان	32.39679	35.75389	A	ADM3	JO		20		8624046		0		855	Asia/Amman	2015-11-09
+8624097	Qaḑā’ Şakhrah	Qada' Sakhrah	Qada' Sakhrah,Qaḑā’ Şakhrah,qdaʾ skhrt,قضاء صخرة	32.38015	35.83088	A	ADM3	JO		20		8624097		0		1077	Asia/Amman	2015-11-09
+8624103	Qaḑā’ al Mūjib	Qada' al Mujib	Qada' al Mujib,Qaḑā’ al Mūjib,qdaʾ almwjb,قضاء الموجب	31.4137	35.77512	A	ADM3	JO		09		8624103		0		917	Asia/Amman	2015-11-09
+8624110	Qaḑā’ Ghawr al Mazra‘ah	Qada' Ghawr al Mazra`ah	Qada' Ghawr al Mazra`ah,Qaḑā’ Ghawr al Mazra‘ah,qdaʾ ghwr almzrʿt,قضاء غور المزرعة	31.30971	35.56666	A	ADM3	JO		09		8624110		0		-107	Asia/Amman	2015-11-09
+8624112	Qaḑā’ Mu’āb	Qada' Mu'ab	Qada' Mu'ab,Qaḑā’ Mu’āb,qdaʾ mwab,قضاء مؤاب	31.04434	35.78004	A	ADM3	JO		09		8624112		0		1069	Asia/Amman	2015-11-09
+8624134	Qaḑā’ Adhruḩ	Qada' Adhruh	Qada' Adhruh,Qaḑā’ Adhruḩ,qdaʾ adhrh,قضاء اذرح	30.3718	35.64437	A	ADM3	JO		19		8624134		0		1212	Asia/Amman	2015-11-09
+8624140	Qaḑā’ Ayl	Qada' Ayl	Qada' Ayl,Qaḑā’ Ayl,qdaʾ ayl,قضاء ايل	30.21851	35.55318	A	ADM3	JO		19		8624140		0		1374	Asia/Amman	2015-11-09
+8624150	Qaḑā’ al Jafr	Qada' al Jafr	Qada' al Jafr,Qaḑā’ al Jafr,qdaʾ aljfr,قضاء الجفر	30.32693	36.71376	A	ADM3	JO		19		8624150		0		894	Asia/Amman	2015-11-09
+8624152	Qaḑā’ al Murayghah	Qada' al Murayghah	Qada' al Murayghah,Qaḑā’ al Murayghah,qdaʾ almryght,قضاء المريغة	30.00406	35.52199	A	ADM3	JO		19		8624152		0		1637	Asia/Amman	2015-11-09
+8624297	Qaḑā’ Wādī ‘Arabah	Qada' Wadi `Arabah	Qada' Wadi `Arabah,Qaḑā’ Wādī ‘Arabah,qdaʾ wady ʿrbt,قضاء وادي عربة	30.228	35.27121	A	ADM3	JO		21		8624297		0		365	Asia/Amman	2015-11-09
+8624298	Qaḑā’ ad Dīsah	Qada' ad Disah	Qada' ad Disah,Qaḑā’ ad Dīsah,qdaʾ aldyst,قضاء الديسة	29.45598	35.63561	A	ADM3	JO		21		8624298		0		1117	Asia/Amman	2015-11-09
+10861987	Qaḑā’ Bīrayn	Qada' Birayn	Qada' Birayn,Qaḑā’ Bīrayn,قضاء بيرين	32.12204	35.95842	A	ADM3	JO		17		10861987		0		744	Asia/Amman	2015-11-10
+10861988	Qaḑā’ az̧ Z̧ulayl	Qada' az Zulayl	Qada' ad Dalil,Qada' ad Dulayl,Qada' az Zalil,Qada' az Zulayl,Qaḑā’ az̧ Z̧alīl,Qaḑā’ az̧ Z̧ulayl,Qaḑā’ aḑ Ḑalīl,Qaḑā’ aḑ Ḑulayl,قضاء الضليل,قضاء الظليل	32.09279	36.32031	A	ADM3	JO		17		10861988		0		603	Asia/Amman	2015-11-10
+10861989	Qaḑā’ al Azraq	Qada' al Azraq	Qada' al Azraq,Qaḑā’ al Azraq,قضاء الأزرق	31.79178	36.94902	A	ADM3	JO		17		10861989		0		521	Asia/Amman	2015-11-10
+10862116	Qaḑā’ al Fayşalīyah	Qada' al Faysaliyah	Qada' al Faysaliyah,Qaḑā’ al Fayşalīyah,قضاء الفيصلية	31.76062	35.72585	A	ADM3	JO		23		10862116		0		587	Asia/Amman	2015-11-10
+10862117	Qaḑā’ al ‘Arīḑ	Qada' al `Arid	Qada' al `Arid,Qaḑā’ al ‘Arīḑ,قضاء العريض	31.5437	35.63634	A	ADM3	JO		23		10862117		0		799	Asia/Amman	2015-11-10
+10862118	Qaḑā’ Mulayḩ	Qada' Mulayh	Qada' Mulayh,Qaḑā’ Mulayḩ,قضاء مليح	31.59529	35.77523	A	ADM3	JO		23		10862118		0		649	Asia/Amman	2015-11-10
+10862119	Qaḑā’ Mā‘īn	Qada' Ma`in	Qada' Ma`in,Qaḑā’ Mā‘īn,قضاء ماعين	31.66583	35.67601	A	ADM3	JO		23		10862119		0		783	Asia/Amman	2015-11-10
+10862120	Qaḑā’ Juraynah	Qada' Juraynah	Qada' Juraynah,Qaḑā’ Juraynah,قضاء جرينة	31.77473	35.7603	A	ADM3	JO		23		10862120		0		686	Asia/Amman	2015-11-10
+10862122	Qaḑā’ ‘Īrā wa Yarqā	Qada' `Ira wa Yarqa	Qada' `Ira wa Yarqa,Qaḑā’ ‘Īrā wa Yarqā,قضاء عيرا ويرقا	31.94786	35.68394	A	ADM3	JO		02		10862122		0		134	Asia/Amman	2015-11-10
+10862123	Qaḑā’ Zayy	Qada' Zayy	Qada' Zayy,Qaḑā’ Zayy,قضاء زي	32.12027	35.77324	A	ADM3	JO		02		10862123		0		649	Asia/Amman	2015-11-10
+10862124	Qaḑā’ al ‘Āriḑah	Qada' al `Aridah	Qada' al `Aridah,Qaḑā’ al ‘Āriḑah,قضاء العارضة	32.14836	35.69562	A	ADM3	JO		02		10862124		0		463	Asia/Amman	2015-11-10

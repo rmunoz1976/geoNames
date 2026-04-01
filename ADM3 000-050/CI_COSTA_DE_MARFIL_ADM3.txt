@@ -1,0 +1,108 @@
+﻿2279171	Département de Zuénoula	Departement de Zuenoula	Departement de Zuenoula,Département de Zuénoula,Zuenoula,Zuénoula	7.46667	-6.00833	A	ADM3	CI		96	11153167	2279171		184882		216	Africa/Abidjan	2026-03-10
+2279754	Département de Yamoussoukro	Departement de Yamoussoukro	Yamoussoukro,Yamoussoukro Department	6.83333	-5.25	A	ADM3	CI		98	11153154	2279754		372559		248	Africa/Abidjan	2022-12-13
+2280044	Vavoua	Vavoua	Departement de Vavoua,Département de Vavoua,Vavoua	7.42083	-6.70417	A	ADM3	CI		96	11153166	2280044		477154		276	Africa/Abidjan	2022-12-13
+2280314	Toumodi	Toumodi	Departement de Toumodi,Département de Toumodi,Toumodi	6.52083	-4.96667	A	ADM3	CI		81	11153154	2280314		168363		130	Africa/Abidjan	2022-12-13
+2280373	Touba	Touba	Departement de Touba,Département de Touba,Touba	8.225	-7.45833	A	ADM3	CI		97	2597334	2280373		120524		458	Africa/Abidjan	2022-12-13
+2280588	Tengréla	Tengrela	Departement de Tengrela,Departement de Tingrela,Département de Tengréla,Département de Tingréla,Tengrela,Tengréla	10.44167	-6.4125	A	ADM3	CI		87	11153168	2280588		141761		340	Africa/Abidjan	2024-03-15
+2280760	Département de Tiassalé	Departement de Tiassale	Departement de Tiassale,Département de Tiassalé,Tiassale,Tiassalé	5.92917	-4.75417	A	ADM3	CI		82	11153160	2280760		278954		47	Africa/Abidjan	2026-03-10
+2280994	Tanda	Tanda	Departement de Tanda,Département de Tanda,Tanda	7.84167	-3.225	A	ADM3	CI		92	11153176	2280994		113523		260	Africa/Abidjan	2022-12-13
+2281118	Tabou	Tabou	Departement de Tabou,Département de Tabou,Tabou	5.03333	-7.30417	A	ADM3	CI		76	11153077	2281118		270482		156	Africa/Abidjan	2022-12-13
+2281288	Département de Soubré	Departement de Soubre	Departement de Soubre,Département de Soubré,Soubre,Soubré	5.89583	-6.51667	A	ADM3	CI		76	11153076	2281288		587441		165	Africa/Abidjan	2026-03-10
+2281605	Sinfra	Sinfra	Departement de Sinfra,Département de Sinfra,Sinfra	6.65	-5.74583	A	ADM3	CI		96	11153167	2281605		245226		219	Africa/Abidjan	2022-12-13
+2281867	Département de Séguéla	Departement de Seguela	Departement de Seguela,Département de Séguéla,Seguela,Séguéla	8.14583	-6.72083	A	ADM3	CI		97	11153174	2281867		298384		275	Africa/Abidjan	2026-03-10
+2281948	Sassandra	Sassandra	Departement de Sassandra,Département de Sassandra,Sassandra	5.24583	-6.125	A	ADM3	CI		76	11153075	2281948		353228		121	Africa/Abidjan	2022-12-13
+2282004	Département de San-Pédro	Departement de San-Pedro	Departement de San-Pedro,Département de San-Pédro,San Pedro,San Pédro,San-Pedro,San-Pédro	5.02083	-6.77917	A	ADM3	CI		76	11153077	2282004		790242		41	Africa/Abidjan	2026-03-10
+2282171	Sakassou	Sakassou	Departement de Sakasso,Departement de Sakassou,Département de Sakasso,Département de Sakassou,Sakassou	7.44167	-5.3375	A	ADM3	CI		90	11153170	2282171		108110		207	Africa/Abidjan	2022-12-13
+2282826	Département de Oumé	Departement de Oume	Departement de Oume,Département de Oumé,Oume,Oumé	6.39167	-5.50833	A	ADM3	CI		95	11153083	2282826		274020		188	Africa/Abidjan	2026-03-10
+2283015	Département d'Odienné	Departement d'Odienne	Departement d'Odienne,Département d'Odienné,Odienne,Odienné	9.2125	-7.50417	A	ADM3	CI		77	11153082	2283015		156730		455	Africa/Abidjan	2026-03-10
+2284488	M'bahiakro	M'bahiakro	Departement de M'Bahiakro,Département de M'Bahiakro,M'Bahiakro,M'Bahiakro Department,M'bahiakro	7.58333	-4.32083	A	ADM3	CI		81	11153155	2284488		78369		177	Africa/Abidjan	2022-12-13
+2284587	Mankono	Mankono	Departement de Mankono,Département de Mankono,Mankono	8.25417	-5.92917	A	ADM3	CI		97	11153172	2284587		271894		334	Africa/Abidjan	2022-12-12
+2284646	Man	Man	Departement de Man,Département de Man,Man	7.33333	-7.6625	A	ADM3	CI		78	11153165	2284646		461135		337	Africa/Abidjan	2022-12-12
+2285448	Lakota	Lakota	Departement de Lakota,Département de Lakota,Lakota,Lakota Department	5.82917	-5.70833	A	ADM3	CI		95	11153153	2285448		334235		230	Africa/Abidjan	2022-12-12
+2286303	Korhogo	Korhogo	Departement de Korhogo,Département de Korhogo,Korhogo	9.39583	-5.82917	A	ADM3	CI		87	11153169	2286303		748393		364	Africa/Abidjan	2022-12-12
+2287296	Katiola	Katiola	Departement de Katiola,Département de Katiola,Katiola,Katiola Department	8.2	-5.10833	A	ADM3	CI		90	11153171	2287296		162472		304	Africa/Abidjan	2022-12-12
+2287789	Issia	Issia	Departement de Issia,Département de Issia,Issia	6.47917	-6.53333	A	ADM3	CI		96	11153166	2287789		410628		216	Africa/Abidjan	2022-12-12
+2287957	Guiglo	Guiglo	Departement de Guiglo,Département de Guiglo,Guiglo	6.44583	-7.57917	A	ADM3	CI		78	11153163	2287957		259381		257	Africa/Abidjan	2022-12-12
+2288104	Grand-Lahou	Grand-Lahou	Departement de Grand-Lahou,Département de Grand-Lahou,Grand-Lahou	5.425	-4.89167	A	ADM3	CI		82	11153161	2288104		155832		37	Africa/Abidjan	2022-12-13
+2288828	Gagnoa	Gagnoa	Departement de Gagnoa,Département de Gagnoa,Gagnoa,Gagnoa Department	6.15	-6.025	A	ADM3	CI		95	11153083	2288828		724496		208	Africa/Abidjan	2022-12-12
+2289048	Département de Ferkessédougou	Departement de Ferkessedougou	Departement de Ferkessedougou,Département de Ferkessédougou,Ferekesedugu,Ferkessedougou,Ferkessédougou	9.62083	-5.08333	A	ADM3	CI		87	11153177	2289048		190141		405	Africa/Abidjan	2026-03-10
+2289548	Département de Duékoué	Departement de Duekoue	Departement de Duekoue,Duekoue,Duékoué,Département de Duékoué	6.76667	-7.25833	A	ADM3	CI		78	11153164	2289548		420911		230	Africa/Abidjan	2026-03-10
+2289886	Divo	Divo	Departement de Divo,Divo,Département de Divo	5.93333	-5.25833	A	ADM3	CI		95	11153153	2289886		571688		153	Africa/Abidjan	2022-12-12
+2289981	Dimbokro	Dimbokro	Departement de Dimbokro,Dimbokro,Département de Dimbokro	6.7625	-4.72917	A	ADM3	CI		81	11153158	2289981		102192		127	Africa/Abidjan	2022-12-12
+2290410	Daoukro	Daoukro	Daoukro,Departement de Daoukro,Département de Daoukro	7.22083	-3.95417	A	ADM3	CI		81	11153155	2290410		148095		232	Africa/Abidjan	2022-12-12
+2290461	Département de Danané	Departement de Danane	Danane,Danané,Departement de Danane,Département de Danané	7.37083	-8.125	A	ADM3	CI		78	11153165	2290461		364012		355	Africa/Abidjan	2026-03-10
+2290485	Daloa	Daloa	Daloa,Departement de Daloa,Département de Daloa	6.93333	-6.40417	A	ADM3	CI		96	11153166	2290485		705378		256	Africa/Abidjan	2022-12-12
+2290608	Dabakala	Dabakala	Dabakala,Departement de Dabakala,Département de Dabakala	8.3875	-4.45	A	ADM3	CI		90	11153171	2290608		254430		277	Africa/Abidjan	2022-12-12
+2290835	Boundiali	Boundiali	Boundiali,Departement de Boundiali,Département de Boundiali	9.475	-6.37917	A	ADM3	CI		87	11153168	2290835		198541		380	Africa/Abidjan	2022-12-12
+2290847	Bouna	Bouna	Bouna,Departement de Bouna,Département de Bouna	9.1375	-2.95	A	ADM3	CI		92	11153175	2290847		178081		262	Africa/Abidjan	2022-12-12
+2290954	Département de Bouaké	Departement de Bouake	Bouake,Bouaké,Departement de Bouake,Département de Bouaké	7.75	-4.87083	A	ADM3	CI		90	11153170	2290954		931851		283	Africa/Abidjan	2026-03-10
+2290963	Département de Bouaflé	Departement de Bouafle	Bouafle,Bouaflé,Departement de Bouafle,Département de Bouaflé	7.01667	-5.82083	A	ADM3	CI		96	11153167	2290963		300305		196	Africa/Abidjan	2026-03-10
+2291112	Bongouanou	Bongouanou	Bongouanou,Departement de Bongouanou,Département de Bongouanou	6.70417	-4.25417	A	ADM3	CI		81	11153156	2291112		165307		168	Africa/Abidjan	2025-02-19
+2291135	Bondoukou	Bondoukou	Bondoukou,Departement de Bondoukou,Département de Bondoukou	8.26667	-2.95	A	ADM3	CI		92	11153176	2291135		453841		406	Africa/Abidjan	2022-12-12
+2291665	Biankouma	Biankouma	Biankouma,Departement de Biankouma,Département de Biankouma	7.74167	-7.46667	A	ADM3	CI		78	11153165	2291665		238714		859	Africa/Abidjan	2022-12-13
+2291778	Département de Béoumi	Departement de Beoumi	Beoumi,Béoumi,Departement de Beoumi,Département de Béoumi	7.79583	-5.54583	A	ADM3	CI		90	11153170	2291778		195015		226	Africa/Abidjan	2026-03-10
+2292178	Bangolo	Bangolo	Bangolo,Departement de Bangolo,Département de Bangolo	7.025	-7.47083	A	ADM3	CI		78	11153164	2292178		270629		263	Africa/Abidjan	2022-12-13
+2293259	Département d’ Agnibilékrou	Departement d' Agnibilekrou	Agnibilekrou,Agnibilékrou,Departement d' Agnibilekrou,Département d’ Agnibilékrou,Sous-prefecture d' Agnibilekrou,Sous-préfecture d’ Agnibilekrou	7.11667	-3.3	A	ADM3	CI		94	11153078	2293259		216264		242	Africa/Abidjan	2022-12-13
+2293267	Agboville	Agboville	Agboville,Departement d'Agboville,Département d'Agboville	5.89583	-4.28333	A	ADM3	CI		82	11153160	2293267		384340		75	Africa/Abidjan	2022-12-13
+2293341	Département d'Adzopé	Departement d'Adzope	Adzope,Adzopé,Departement d'Adzope,Département d'Adzopé	6.07083	-3.84167	A	ADM3	CI		82	11362033	2293341		283727		112	Africa/Abidjan	2026-03-10
+2293506	Aboisso	Aboisso	Aboisso,Departement d'Aboisso,Département d'Aboisso	5.625	-3.15417	A	ADM3	CI		94	11153079	2293506		361842		125	Africa/Abidjan	2022-12-13
+2293537	Département d’ Abidjan	Departement d' Abidjan	Abidjan,Abidjan Department	5.41667	-4.03333	A	ADM3	CI		93	11996449	2293537		6321017		115	Africa/Abidjan	2022-12-13
+2293545	Abengourou	Abengourou	Abengourou,Departement d'Abengourou,Département d'Abengourou	6.66667	-3.47083	A	ADM3	CI		94	11153078	2293545		430539		195	Africa/Abidjan	2022-12-13
+2595336	Département d'Adiaké	Departement d'Adiake	Adiake,Adiaké,Departement d'Adiake,Département d'Adiaké	5.22083	-3.25833	A	ADM3	CI		94	11153079	2595336		88006		0	Africa/Abidjan	2026-03-11
+2595337	Département d'Alépé	Departement d'Alepe	Alepe,Alépé,Departement d'Alepe,Département d'Alépé	5.6699	-3.6811	A	ADM3	CI		82	11362033	2595337		180253		72	Africa/Abidjan	2026-03-11
+2595338	Bocanda	Bocanda	Bocanda,Departement de Bocanda,Département de Bocanda	7.00833	-4.4375	A	ADM3	CI		81	11153158	2595338		121469		145	Africa/Abidjan	2022-12-12
+2595339	Dabou	Dabou	Dabou,Departement de Dabou,Département de Dabou	5.4	-4.52917	A	ADM3	CI		82	11153161	2595339		213582		100	Africa/Abidjan	2022-12-12
+2595340	Grand-Bassam	Grand-Bassam	Departement de Grand-Bassam,Département de Grand-Bassam,Grand-Bassam	5.30417	-3.5375	A	ADM3	CI		94	11153079	2595340		267103		73	Africa/Abidjan	2022-12-13
+2595341	Jacqueville	Jacqueville	Departement de Jacqueville,Département de Jacqueville,Jacqueville	5.2375	-4.50833	A	ADM3	CI		82	11153161	2595341		80593		1	Africa/Abidjan	2022-12-12
+2595342	Département de Tiébissou	Departement de Tiebissou	Departement de Tiebissou,Département de Tiébissou,Tiebissou,Tiebissou Department,Tiébissou,Tiébissou Department	7.175	-5.12917	A	ADM3	CI		81	11153154	2595342		116321		182	Africa/Abidjan	2026-03-11
+2595343	Département de Toulépleu	Departement de Toulepleu	Departement de Toulepleu,Département de Toulépleu,Toulepleu,Toulépleu	6.52917	-8.375	A	ADM3	CI		78	11153163	2595343		93529		254	Africa/Abidjan	2026-03-11
+11072739	Département de Bloléquin	Departement de Blolequin	Blolequin,Blolequin Department,Bloléquin,Bloléquin Department,Departement de Blolequin,Département de Bloléquin	6.56667	-8	A	ADM3	CI		78	11153163	11072739		237944		254	Africa/Abidjan	2022-12-13
+11153283	Akoupé	Akoupe	Akoupe,Akoupé	6.38566	-3.88478	A	ADM3	CI		82	11362033	11153283		156698		126	Africa/Abidjan	2022-12-13
+11153284	Département d'Arrah	Departement d'Arrah	Arrah	6.66867	-3.97207	A	ADM3	CI		81	11153156	11153284		80345		131	Africa/Abidjan	2019-01-10
+11153286	Département de Bettié	Departement de Bettie	Bettie,Béttié,Departement de Bettie,Département de Bettié	6.07667	-3.41113	A	ADM3	CI		94	11153078	11153286		56096		110	Africa/Abidjan	2019-01-10
+11153288	Département de Botro	Departement de Botro	Botro,Departement de Botro,Département de Botro	7.85266	-5.30927	A	ADM3	CI		90	11153170	11153288		117924		258	Africa/Abidjan	2022-12-13
+11153290	Département de Buyo	Departement de Buyo	Buyo	6.27177	-6.99409	A	ADM3	CI		76	11153076	11153290		183875		232	Africa/Abidjan	2019-01-10
+11153291	Département de Dianra	Departement de Dianra	Dianra	8.76254	-6.24092	A	ADM3	CI		97	11153172	11153291		96579		369	Africa/Abidjan	2019-01-10
+11153292	Département de Didiévi	Departement de Didievi	Didievi	7.13227	-4.8951	A	ADM3	CI		81	11153154	11153292		93699		161	Africa/Abidjan	2019-01-10
+11153293	Département de Dikodougou	Departement de Dikodougou	Dikodougou	9.07128	-5.77065	A	ADM3	CI		87	11153169	11153293		80578		409	Africa/Abidjan	2019-01-10
+11153294	Département de Djékanou	Departement de Djekanou	Djekanou	6.4826	-5.11577	A	ADM3	CI		81	11153154	11153294		26510		179	Africa/Abidjan	2019-01-10
+11153295	Département de Doropo	Departement de Doropo	Doropo	9.81326	-3.34791	A	ADM3	CI		92	11153175	11153295		66664		343	Africa/Abidjan	2019-01-10
+11153296	Département de Facobly	Departement de Facobly	Facobly	7.51223	-7.26351	A	ADM3	CI		78	11153164	11153296		76507		274	Africa/Abidjan	2019-01-10
+11153297	Département de Fresco	Departement de Fresco	Fresco	5.10685	-5.58389	A	ADM3	CI		76	11153075	11153297		101298		31	Africa/Abidjan	2019-01-10
+11153298	Département de Gbéléban	Departement de Gbeleban	Gbeleban	9.58042	-8.13357	A	ADM3	CI		77	11153082	11153298		18181		407	Africa/Abidjan	2019-01-11
+11153299	Département de Guéyo	Departement de Gueyo	Dipartimento di Gueyo,Dipartimento di Guéyo,Gueyo,Guéyo	5.66338	-6.06876	A	ADM3	CI		76	11153076	11153299		83680		186	Africa/Abidjan	2019-01-12
+11153300	Département de Guitry	Departement de Guitry	Guitry	5.52602	-5.24108	A	ADM3	CI		95	11153153	11153300		146748		36	Africa/Abidjan	2019-01-10
+11153301	Département de Kani	Departement de Kani	Kani	8.47304	-6.60725	A	ADM3	CI		97	11153174	11153301		73889		365	Africa/Abidjan	2019-01-10
+11153307	Département de Kaniasso	Departement de Kaniasso	Kaniasso	10.03067	-7.16068	A	ADM3	CI		77	11153080	11153307		58216		435	Africa/Abidjan	2019-01-10
+11153310	Département de Kong	Departement de Kong	Kong	9.14963	-4.60804	A	ADM3	CI		87	11153177	11153310		118304		330	Africa/Abidjan	2022-12-12
+11153311	Département de Koro	Departement de Koro	Koro	8.55045	-7.46504	A	ADM3	CI		97	2597334	11153311		59210		425	Africa/Abidjan	2019-01-11
+11153312	Département de Kouassi-Kouassikro	Departement de Kouassi-Kouassikro	Kouassi-Kouassikro	7.33943	-4.67679	A	ADM3	CI		81	11153158	11153312		29612		237	Africa/Abidjan	2019-01-10
+11153313	Département de Kouibly	Departement de Kouibly	Kouibly	7.25532	-7.23999	A	ADM3	CI		78	11153164	11153313		116608		299	Africa/Abidjan	2019-01-10
+11153314	Département de Koun-Fao	Departement de Koun-Fao	Koun Fao	7.48349	-3.25444	A	ADM3	CI		92	11153176	11153314		167881		187	Africa/Abidjan	2022-12-12
+11153315	Kounahiri	Kounahiri	Kounahiri	7.79297	-5.83232	A	ADM3	CI		97	11153172	11153315		101111		289	Africa/Abidjan	2022-12-12
+11153316	Département de Kouto	Departement de Kouto	Kouto	9.89604	-6.40718	A	ADM3	CI		87	11153168	11153316		129598		369	Africa/Abidjan	2019-01-10
+11153317	Département de Madinani	Departement de Madinani	Madinani	9.61462	-6.94284	A	ADM3	CI		77	11153082	11153317		39704		511	Africa/Abidjan	2019-01-10
+11153319	Département de M'Batto	Departement de M'Batto	M'Batto	6.46591	-4.36604	A	ADM3	CI		81	11153156	11153319		106964		115	Africa/Abidjan	2019-01-10
+11153321	Département de M'Bengué	Departement de M'Bengue	M'Bengue,M'Bengué	10.01174	-5.91442	A	ADM3	CI		87	11153169	11153321		114971		371	Africa/Abidjan	2022-12-13
+11153322	Département de Méagui	Departement de Meagui	Meagui,Méagui	5.56455	-6.58527	A	ADM3	CI		76	11153076	11153322		320975		92	Africa/Abidjan	2019-01-10
+11153323	Département de Nassian	Departement de Nassian	Nassian	8.44976	-3.46979	A	ADM3	CI		92	11153175	11153323		44528		360	Africa/Abidjan	2019-01-10
+11153330	Département de Niakaramandougou	Departement de Niakaramandougou	Niakaramandougou	8.664	-5.29026	A	ADM3	CI		90	11153171	11153330		133818		380	Africa/Abidjan	2019-01-10
+11153332	Département d'Ouangolodougou	Departement d'Ouangolodougou	Ouangolodougou	9.9722	-5.1416	A	ADM3	CI		87	11153177	11153332		236766		311	Africa/Abidjan	2019-01-10
+11153334	Département d'Ouaninou	Departement d'Ouaninou	Ouaninou,Ouaninou Department	8.24435	-7.8687	A	ADM3	CI		97	2597334	11153334		65981		544	Africa/Abidjan	2022-12-13
+11153394	Département de Samatiguila	Departement de Samatiguila	Samatiguila	9.82755	-7.56323	A	ADM3	CI		77	11153082	11153394		17483		386	Africa/Abidjan	2019-01-10
+11153395	Département de Sandégué	Departement de Sandegue	Sandegue	7.95396	-3.58365	A	ADM3	CI		92	11153176	11153395		56215		199	Africa/Abidjan	2019-01-10
+11153396	Département de Séguélon	Departement de Seguelon	Seguelon,Séguélon	9.35582	-7.12232	A	ADM3	CI		77	11153082	11153396		26305		397	Africa/Abidjan	2019-01-10
+11153397	Département de Sikensi	Departement de Sikensi	Sikensi	5.6633	-4.57387	A	ADM3	CI		82	11153160	11153397		78439		93	Africa/Abidjan	2019-01-10
+11153399	Département de Sinématiali	Departement de Sinematiali	Sinematiali,Sinématiali	9.58479	-5.38068	A	ADM3	CI		87	11153169	11153399		58612		334	Africa/Abidjan	2019-01-10
+11153400	Département de Sipilou	Departement de Sipilou	Sipilou	7.85767	-8.08551	A	ADM3	CI		78	11153165	11153400		41868		548	Africa/Abidjan	2019-01-10
+11153401	Département de Taabo	Departement de Taabo	Taabo	6.23454	-5.14396	A	ADM3	CI		82	11153160	11153401		56422		139	Africa/Abidjan	2019-01-10
+11153402	Département de Taï	Departement de Tai	Tai,Taï	5.87559	-7.45452	A	ADM3	CI		78	11153163	11153402		102948		177	Africa/Abidjan	2019-01-10
+11153403	Département de Téhini	Departement de Tehini	Tehini,Téhini	9.62388	-3.65915	A	ADM3	CI		92	11153175	11153403		41350		309	Africa/Abidjan	2019-01-13
+11153404	Département de Tiapoum	Departement de Tiapoum	Tiapoum	5.13889	-3.0215	A	ADM3	CI		94	11153079	11153404		72158		22	Africa/Abidjan	2019-01-10
+11153407	Département de Transua	Departement de Transua	Transua	7.5465	-3.01425	A	ADM3	CI		92	11153176	11153407		83478		209	Africa/Abidjan	2019-01-10
+11153410	Département de Yakassé-Attrbrou	Departement de Yakasse-Attrbrou	Yakasse-Attobrou,Yakassé-Attobrou	6.18104	-3.64965	A	ADM3	CI		82	11362033	11153410		105986		144	Africa/Abidjan	2022-12-13
+11153414	Département de Zouan-Hounien	Departement de Zouan-Hounien	Zouan-Hounien	6.91781	-8.20674	A	ADM3	CI		78	11153165	11153414		250938		264	Africa/Abidjan	2022-12-13
+11153415	Département de Zoukougbeu	Departement de Zoukougbeu	Zoukougbeu	6.75989	-6.86414	A	ADM3	CI		96	11153166	11153415		146537		236	Africa/Abidjan	2022-12-13
+11362139	Minignan	Minignan	Departement de Minignan,Département de Minignan,Minignan	10.13333	-7.6875	A	ADM3	CI		77	11153080	11362139		61637		432	Africa/Abidjan	2022-12-13
+11362150	Prikro	Prikro	Departement de Prikro,Département de Prikro,Prikro	7.675	-3.94583	A	ADM3	CI		81	11153155	11362150		95595		263	Africa/Abidjan	2022-12-13
+11362506	Département d'Attiégouakro	Departement d'Attiegouakro	Attiegouakro,Attiegouakro Department,Attiégouakro,Attiégouakro Department,Departement d'Attiegouakro,Département d'Attiégouakro	6.92083	-5.12917	A	ADM3	CI		98	11153154	11362506		49513		192	Africa/Abidjan	2026-02-10

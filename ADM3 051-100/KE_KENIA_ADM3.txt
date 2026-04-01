@@ -1,0 +1,11 @@
+﻿192705	Kiambururu Sub-Location	Kiambururu Sub-Location	Kiamburu,Kiambururu Sub-Location	-1.05	36.83333	A	ADM3	KE		01		192705		0		1775	Africa/Nairobi	2012-05-24
+7800132	Imenti Central	Imenti Central		-0.00206	37.59484	A	ADM3	KE		03		7800132		0		1900	Africa/Nairobi	2011-05-17
+7867514	Kinango Division	Kinango Division		-4.0809	39.35971	A	ADM3	KE		28		7867514		0		179	Africa/Nairobi	2013-09-11
+7867521	Kubo Division	Kubo Division		-4.2042	39.33855	A	ADM3	KE		28		7867521		0		214	Africa/Nairobi	2013-09-11
+10858547	Turkana County	Turkana County		3.15	35.35	A	ADM3	KE		51		10858547		0		563	Africa/Nairobi	2015-10-07
+11398126	Sameta	Sameta		-0.76557	34.75659	A	ADM3	KE		25		11398126		0		1758	Africa/Nairobi	2016-12-29
+11429139	Ainamoi	Ainamoi		-0.29767	35.2827	A	ADM3	KE		21		11429139		0		1962	Africa/Nairobi	2017-02-02
+11429472	Nyatike	Nyatike		-0.75	34.6333	A	ADM3	KE		36		11429472		0		1529	Africa/Nairobi	2017-02-05
+11429474	Ainabkoi	Ainabkoi		0.3147	35.4166	A	ADM3	KE		52		11429474		0		2249	Africa/Nairobi	2017-02-05
+11467687	Griftu	Griftu		2.07984	39.66589	A	ADM3	KE		54		11467687		0		332	Africa/Nairobi	2017-02-06
+11468271	Endebess	Endebess		1.06563	34.85078	A	ADM3	KE		50		11468271		0		1892	Africa/Nairobi	2017-02-22

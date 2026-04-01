@@ -1,0 +1,7 @@
+﻿294929	HaGilboa‘	HaGilboa`	Gilboa Regional Council,HaGilboa`,HaGilboa‘	32.58333	35.41667	A	ADM3	IL		03		294929		0		57	Asia/Jerusalem	2020-06-10
+295436	Bet She’an	Bet She'an	Beitshean,Bet She'an,Bet She’an,בית שאן	32.5	35.5	A	ADM3	IL		03		295436		0		-134	Asia/Jerusalem	2020-06-10
+7894733	Nāḩiyat Mas‘adah	Nahiyat Mas`adah	Nahiyat Mas`adah,Nāḩiyat Mas‘adah,ناحية مسعدة	33.1975	35.7203	A	ADM3	IL		03		7894733		0		838	Asia/Jerusalem	2019-05-10
+7895278	Nāḩiyat al Buţayḩah	Nahiyat al Butayhah	Nahiyat al Butayhah,Nahiyat al Butmiyah,Nāḩiyat al Buţayḩah,Nāḩiyat al Buţmīyah,nahyt albtyht,ناحية البطيحة	32.89245	35.65671	A	ADM3	IL		03		7895278		0		-184	Asia/Jerusalem	2019-05-10
+7895317	Nāḩiyat al Khushnīyah	Nahiyat al Khushniyah	Nahiyat al Khushniyah,Nāḩiyat al Khushnīyah,nahyt alkhshnyt,ناحية الخشنية	32.98274	35.85301	A	ADM3	IL		03		7895317		0		807	Asia/Jerusalem	2019-05-10
+8605246	Nāḩiyat Markaz Fīq Zawīyah	Nahiyat Markaz Fiq Zawiyah	Nahiyat Markaz Fiq Zawiyah,Nāḩiyat Markaz Fīq Zawīyah,nahyt mrkz fyq zwyt,ناحية مركز فيق زوية	32.79793	35.72198	A	ADM3	IL		03		8605246		0		374	Asia/Jerusalem	2019-05-10
+8605252	Nāḩiyat Markaz al Qunayţirah	Nahiyat Markaz al Qunaytirah	Nahiyat Markaz al Qunaytirah,Nāḩiyat Markaz al Qunayţirah,nahyt mrkz alqnytrt,ناحية مركز القنيطرة	33.07197	35.76957	A	ADM3	IL		03		8605252		0		895	Asia/Jerusalem	2019-05-10

@@ -1,0 +1,400 @@
+﻿12747964	Al Shahama	Al Shahama	Al Shahama,alshhamt,الشهامة	24.51673	54.67604	A	ADM3	AE		01	101	12747964		0		5	Asia/Dubai	2024-03-13
+12747965	Al Rahba	Al Rahba	Al Rahba,alrhbt,الرحبة	24.61485	54.70285	A	ADM3	AE		01	101	12747965		0		10	Asia/Dubai	2024-03-13
+12747966	Mohamed Bin Zayed City	Mohamed Bin Zayed City	MBZ City,Mohamad Bin Zayed City,Mohamed Bin Zayed City,Mohammad Bin Zayed City,Mohammed Bin Zayed City,mdynt mhmd bn zayd,مدينة محمد بن زايد	24.33385	54.55355	A	ADM3	AE		01	101	12747966		0		6	Asia/Dubai	2024-06-11
+12747967	U01	U01	U01,ghyr msmy 1,غير مسمى 1	24.51348	54.52357	A	ADM3	AE		01	101	12747967		0		2	Asia/Dubai	2024-03-13
+12747968	Al Sheleilah Island North West	Al Sheleilah Island North West	Al Sheleilah Island North West,jzyrt alshlylt shmal ghrb,جزيرة الشليلة شمال غرب	24.68557	54.61961	A	ADM3	AE		01	101	12747968		0		2	Asia/Dubai	2024-03-13
+12747969	Al Jimi	Al Jimi	Al Jimi,aljymy,الجيمي	24.25019	55.73469	A	ADM3	AE		01	102	12747969		0		272	Asia/Dubai	2024-03-13
+12747970	Al Shwaib	Al Shwaib	Al Shwaib,alshwyb,الشويب	24.7267	55.78019	A	ADM3	AE		01	102	12747970		0		284	Asia/Dubai	2024-03-13
+12747971	Masnouah Island	Masnouah Island	Masnouah Island,jzyrt msnwʿt,جزيرة مصنوعة	24.45795	54.29374	A	ADM3	AE		01	101	12747971		0		4	Asia/Dubai	2024-03-13
+12747972	Graiwah	Graiwah	Graiwah,jrywh,جريوه	24.10524	54.00477	A	ADM3	AE		01	101	12747972		0		7	Asia/Dubai	2024-03-13
+12747973	Al Khrair	Al Khrair	Al Khrair,alkhryr,الخرير	24.1364	55.84658	A	ADM3	AE		01	102	12747973		0		326	Asia/Dubai	2024-03-13
+12747974	Al Mutawa'A	Al Mutawa'A	Al Mutawa'A,almtawʿt,المطاوعة	24.20872	55.76177	A	ADM3	AE		01	102	12747974		0		280	Asia/Dubai	2024-03-13
+12747975	Ghrebah	Ghrebah	Ghrebah,ghrybt,غريبة	24.14898	55.59294	A	ADM3	AE		01	102	12747975		0		216	Asia/Dubai	2024-03-13
+12747976	Bu Kesheishah Island	Bu Kesheishah Island	Bu Kesheishah Island,jzyrt bwkshysht,جزيرة بوكشيشة	24.3039	54.22698	A	ADM3	AE		01	101	12747976		0		3	Asia/Dubai	2024-03-13
+12747977	Khatm Al Shikla	Khatm Al Shikla	Khatm Al Shikla,khtm alshklt,خطم الشكلة	24.19902	55.94298	A	ADM3	AE		01	102	12747977		0		396	Asia/Dubai	2024-03-13
+12747978	Al Jubail Island	Al Jubail Island	Al Jubail Island,jzyrt aljbyl,جزيرة الجبيل	24.52289	54.49244	A	ADM3	AE		01	101	12747978		0		-1	Asia/Dubai	2024-03-13
+12747979	Al Taweelah	Al Taweelah	Al Taweelah,altwylt,الطويلة	24.73498	54.68438	A	ADM3	AE		01	101	12747979		0		1	Asia/Dubai	2024-03-13
+12747980	Al Bateen	Al Bateen	Al Bateen,albtyn,البطين	24.21392	55.62517	A	ADM3	AE		01	102	12747980		0		227	Asia/Dubai	2024-03-13
+12747981	Al Reef	Al Reef	Al Reef,alryf,الريف	24.46938	54.65786	A	ADM3	AE		01	101	12747981		0		18	Asia/Dubai	2024-03-13
+12747982	Abu Dhabi International Airport	Abu Dhabi International Airport	Abu Dhabi International Airport,mtar abwzby aldwly,مطار أبوظبي الدولي	24.43776	54.65092	A	ADM3	AE		01	101	12747982		0		12	Asia/Dubai	2024-03-13
+12747983	Liwa	Liwa	Liwa,lywa,ليوا	23.10124	53.81885	A	ADM3	AE		01	103	12747983		0		128	Asia/Dubai	2024-03-13
+12747984	Al Haffar	Al Haffar	Al Haffar,alhfar,الحفّار	24.2802	54.79473	A	ADM3	AE		01	101	12747984		0		55	Asia/Dubai	2024-03-13
+12747985	Bida Al Mutawa	Bida Al Mutawa	Bida Al Mutawa,bdʿ almtawʿt,بدع المطاوعة	23.81253	52.58089	A	ADM3	AE		01	103	12747985		0		64	Asia/Dubai	2024-03-13
+12747986	Abu Al Habel Island	Abu Al Habel Island	Abu Al Habel Island,jzyrt abw alhbl,جزيرة أبو الحبل	24.45826	54.58072	A	ADM3	AE		01	101	12747986		0		1	Asia/Dubai	2024-03-13
+12747987	Sweihan	Sweihan	Sweihan,swyhan,سويحان	24.39793	55.29677	A	ADM3	AE		01	102	12747987		0		135	Asia/Dubai	2024-03-13
+12747988	Lulu Island	Lulu Island	Lulu Island,jzyrt allwlw,جزيرة اللولو	24.50063	54.34462	A	ADM3	AE		01	101	12747988		0		-9999	Asia/Dubai	2024-03-13
+12747989	Al Qisais	Al Qisais	Al Qisais,alqsys,القسيس	24.1126	55.6166	A	ADM3	AE		01	102	12747989		0		217	Asia/Dubai	2024-03-13
+12747990	Fahid Island	Fahid Island	Fahid Island,jzyrt fahd,جزيرة فاهد	24.5091	54.54922	A	ADM3	AE		01	101	12747990		0		3	Asia/Dubai	2024-03-13
+12747991	Al Rawdah Al Sharqiyah	Al Rawdah Al Sharqiyah	Al Rawdah Al Sharqiyah,alrwdt alshrqyt,الروضة الشرقية	24.14762	55.65271	A	ADM3	AE		01	102	12747991		0		230	Asia/Dubai	2024-03-13
+12747992	Ghayathi	Ghayathi	Ghayathi,ghyathy,غياثي	23.7356	52.84213	A	ADM3	AE		01	103	12747992		0		85	Asia/Dubai	2024-03-13
+12747993	Asharej	Asharej	Asharej,ʿsharj,عشارج	24.20125	55.67107	A	ADM3	AE		01	102	12747993		0		246	Asia/Dubai	2024-03-13
+12747994	Al Sader	Al Sader	Al Sader,alsdr,الصدر	24.64596	54.6904	A	ADM3	AE		01	101	12747994		0		20	Asia/Dubai	2024-03-17
+12747995	Hili	Hili	Hili,hyly,هيلي	24.30561	55.77655	A	ADM3	AE		01	102	12747995		0		286	Asia/Dubai	2024-03-13
+12747996	U52	U52		24.59465	54.55248	A	ADM3	AE		01	101	12747996		0		-9999	Asia/Dubai	2024-03-13
+12747997	Remah	Remah	Remah,rmah,رماح	24.10954	55.3188	A	ADM3	AE		01	102	12747997		0		165	Asia/Dubai	2024-03-13
+12747998	Um Al Hatab	Um Al Hatab	Um Al Hatab,am alhtb,أم الحطب	24.2156	51.86389	A	ADM3	AE		01	103	12747998		0		4	Asia/Dubai	2024-03-13
+12747999	Al Dhafrah	Al Dhafrah	Al Dhafrah,alzfrt,الظفرة	24.18045	54.50052	A	ADM3	AE		01	101	12747999		0		17	Asia/Dubai	2024-03-13
+12748000	Al Masoudi	Al Masoudi	Al Masoudi,almsʿwdy,المسعودي	24.28351	55.74041	A	ADM3	AE		01	102	12748000		0		281	Asia/Dubai	2024-03-13
+12748001	Al Shamkha	Al Shamkha	Al Shamkha,alshamkht,الشامخة	24.38545	54.70739	A	ADM3	AE		01	101	12748001		0		25	Asia/Dubai	2024-03-13
+12748002	Khalifa Industrial City A	Khalifa Industrial City A	Khalifa Industrial City A,mdynt khlyft alsnaʿyt a,مدينة خليفة الصناعية أ	24.76415	54.71142	A	ADM3	AE		01	101	12748002		0		1	Asia/Dubai	2024-03-13
+12748003	Al Khaznah	Al Khaznah	Al Khaznah,alkhznt,الخزنة	24.06019	55.15307	A	ADM3	AE		01	102	12748003		0		133	Asia/Dubai	2024-03-13
+12748004	Dana Island	Dana Island	Dana Island,jzyrt aldant,جزيرة الدانة	24.59888	54.51579	A	ADM3	AE		01	101	12748004		0		-9999	Asia/Dubai	2024-03-13
+12748005	Al Dhahra	Al Dhahra	Al Dhahra,alzahrt,الظاهرة	23.98457	55.526	A	ADM3	AE		01	102	12748005		0		193	Asia/Dubai	2024-03-13
+12748006	Al Khabisi	Al Khabisi	Al Khabisi,alkhbysy,الخبيصي	24.23045	55.69969	A	ADM3	AE		01	102	12748006		0		256	Asia/Dubai	2024-03-13
+12748007	Al Zubarah	Al Zubarah	Al Zubarah,alzbart,الزبارة	24.61316	54.62245	A	ADM3	AE		01	101	12748007		0		-2	Asia/Dubai	2024-03-13
+12748008	Al Ajban	Al Ajban	Al Ajban,alʿjban,العجبان	24.58638	55.29957	A	ADM3	AE		01	102	12748008		0		131	Asia/Dubai	2024-03-13
+12748009	Khalifa Industrial City B	Khalifa Industrial City B	Khalifa Industrial City B,mdynt khlyft alsnaʿyt b,مدينة خليفة الصناعية ب	24.66698	54.94301	A	ADM3	AE		01	101	12748009		0		49	Asia/Dubai	2024-03-13
+12748010	Abu Mureikhah	Abu Mureikhah	Abu Mureikhah,abwmrykht,أبومريخة	24.58627	54.72822	A	ADM3	AE		01	101	12748010		0		18	Asia/Dubai	2024-03-13
+12748011	Futaisi Island	Futaisi Island	Futaisi Island,jzyrt alftysy,جزيرة الفطيسي	24.36356	54.30318	A	ADM3	AE		01	101	12748011		0		2	Asia/Dubai	2024-03-13
+12748012	Airport East District	Airport East District	Airport East District,shrq almtar,شرق المطار	24.31424	55.71939	A	ADM3	AE		01	102	12748012		0		289	Asia/Dubai	2024-03-13
+12748013	Abu Dhabi Industrial City	Abu Dhabi Industrial City	Abu Dhabi Industrial City,mdynt abwzby alsnaʿyt,مدينة أبوظبى الصناعية	24.32702	54.49745	A	ADM3	AE		01	101	12748013		0		3	Asia/Dubai	2024-03-13
+12748014	Um Ghaffa	Um Ghaffa	Um Ghaffa,am ghaft,أم غافة	24.0899	55.92523	A	ADM3	AE		01	102	12748014		0		360	Asia/Dubai	2024-03-13
+12748015	Al Maqam	Al Maqam	Al Maqam,almqam,المقام	24.18217	55.63366	A	ADM3	AE		01	102	12748015		0		231	Asia/Dubai	2024-03-13
+12748016	Al Muwaiji	Al Muwaiji	Al Muwaiji,almwyjʿy,المويجعي	24.21097	55.71133	A	ADM3	AE		01	102	12748016		0		259	Asia/Dubai	2024-03-13
+12748017	Al Qattara	Al Qattara	Al Qattara,alqtart,القطارة	24.26778	55.75504	A	ADM3	AE		01	102	12748017		0		280	Asia/Dubai	2024-03-13
+12748018	Bida Bint Saud	Bida Bint Saud	Bida Bint Saud,bdʿ bnt sʿwd,بدع بنت سعود	24.36859	55.66259	A	ADM3	AE		01	102	12748018		0		273	Asia/Dubai	2024-03-13
+12748019	Zayed City	Zayed City	Zayed City,mdynt zayd,مدينة زايد	24.37802	54.59617	A	ADM3	AE		01	101	12748019		0		5	Asia/Dubai	2024-03-13
+12748020	Yasat Island	Yasat Island	Yasat Island,jzyrt alyasat,جزيرة الياسات	24.19674	51.99513	A	ADM3	AE		01	103	12748020		0		-9999	Asia/Dubai	2024-03-17
+12748021	Al Hudayriat Island South	Al Hudayriat Island South	Al Hudayriat Island South,jzyrt alhdyryat jnwb,جزيرة الحديريات جنوب	24.36679	54.39036	A	ADM3	AE		01	101	12748021		0		-9999	Asia/Dubai	2024-03-13
+12748022	Al Hail Island	Al Hail Island	Al Hail Island,jzyrt alhyl,جزيرة الحيل	24.66442	54.58769	A	ADM3	AE		01	101	12748022		0		-9999	Asia/Dubai	2024-03-13
+12748023	Zayed Military City	Zayed Military City	Zayed Military City,mdynt zayd alʿskryt,مدينة زايد العسكرية	24.52339	54.91897	A	ADM3	AE		01	101	12748023		0		62	Asia/Dubai	2024-03-13
+12748024	Al Sarooj	Al Sarooj	Al Sarooj,alsarwj,الصاروج	24.19538	55.79532	A	ADM3	AE		01	102	12748024		0		303	Asia/Dubai	2024-03-13
+12748025	Al Reem Island East	Al Reem Island East	Al Reem Island East,jzyrt alrym shrq,جزيرة الريم شرق	24.50798	54.42696	A	ADM3	AE		01	101	12748025		0		1	Asia/Dubai	2024-03-13
+12748026	Rawdat Al Reef	Rawdat Al Reef	Rawdat Al Reef,rwdt alryf,روضة الريف	24.50527	54.71571	A	ADM3	AE		01	101	12748026		0		30	Asia/Dubai	2024-03-13
+12748027	Al Saad	Al Saad	Al Saad,alsad,الساد	24.23205	55.4482	A	ADM3	AE		01	102	12748027		0		196	Asia/Dubai	2024-03-13
+12748028	Baniyas	Baniyas	Baniyas,bny yas,بنى ياس	24.30047	54.63611	A	ADM3	AE		01	101	12748028		0		18	Asia/Dubai	2024-03-13
+12748029	Ain Al Fayda	Ain Al Fayda	Ain Al Fayda,ʿyn alfaydt,عين الفايضة	24.06559	55.6912	A	ADM3	AE		01	102	12748029		0		234	Asia/Dubai	2024-03-13
+12748030	Mazyad	Mazyad	Mazyad,mzyd,مزيد	24.05003	55.87312	A	ADM3	AE		01	102	12748030		0		327	Asia/Dubai	2024-03-13
+12748031	Al Fadhiyah	Al Fadhiyah	Al Fadhiyah,alfazyt,الفاظية	23.64874	54.43271	A	ADM3	AE		01	103	12748031		0		103	Asia/Dubai	2024-03-13
+12748032	Tarif	Tarif	Tarif,tryf,طريف	24.03072	53.71555	A	ADM3	AE		01	103	12748032		0		5	Asia/Dubai	2024-03-13
+12748033	Qassar Bu Ash Shaqanif Island	Qassar Bu Ash Shaqanif Island	Qassar Bu Ash Shaqanif Island,jzyrt qsar bw alshqanyf,جزيرة قصار بو الشقانيف	24.39436	54.3162	A	ADM3	AE		01	101	12748033		0		-9999	Asia/Dubai	2024-03-13
+12748034	Shakhbout City	Shakhbout City	Shakhbout City,mdynt shkhbwt,مدينة شخبوط	24.35719	54.62877	A	ADM3	AE		01	101	12748034		0		7	Asia/Dubai	2024-03-13
+12748035	North Dubayyah Island	North Dubayyah Island	North Dubayyah Island,shmal jzyrt aldbʿyt,شمال جزيرة الضبعية	24.35509	54.11263	A	ADM3	AE		01	101	12748035		0		-9999	Asia/Dubai	2024-03-13
+12748036	Bayah Al Sila	Bayah Al Sila	Bayah Al Sila,bʿya_alslʿ,بعيا_السلع	24.19381	51.70249	A	ADM3	AE		01	103	12748036		0		5	Asia/Dubai	2024-03-13
+12748037	Madinat Al Riyad	Madinat Al Riyad	Madinat Al Riyad,mdynt alryad,مدينة الرياض	24.33201	54.7356	A	ADM3	AE		01	101	12748037		0		42	Asia/Dubai	2024-03-13
+12748038	Futaisi Island North	Futaisi Island North	Futaisi Island North,jzyrt alftysy shmal,جزيرة الفطيسي شمال	24.41165	54.29604	A	ADM3	AE		01	101	12748038		0		-9999	Asia/Dubai	2024-03-13
+12748039	Al Jahili	Al Jahili	Al Jahili,aljahly,الجاهلي	24.21378	55.75217	A	ADM3	AE		01	102	12748039		0		278	Asia/Dubai	2024-03-13
+12748040	Masnouah Island West	Masnouah Island West	Masnouah Island West,jzyrt msnwʿt ghrb,جزيرة مصنوعة غرب	24.44223	54.25902	A	ADM3	AE		01	101	12748040		0		-9999	Asia/Dubai	2024-03-13
+12748041	Musaffah	Musaffah	Musaffah,msfh,مصفح	24.35476	54.48744	A	ADM3	AE		01	101	12748041		0		1	Asia/Dubai	2024-03-13
+12748042	Al Nahda	Al Nahda	Al Nahda,alnhdt,النهضة	24.24907	54.73805	A	ADM3	AE		01	101	12748042		0		37	Asia/Dubai	2024-03-13
+12748043	Al Araad	Al Araad	Al Araad,alʿrad,العراد	23.80893	55.40135	A	ADM3	AE		01	102	12748043		0		162	Asia/Dubai	2024-03-13
+12748044	Al Maqta Area	Al Maqta Area	Al Maqta Area,mntqt almqtʿ,منطقة المقطع	24.40461	54.50863	A	ADM3	AE		01	101	12748044		0		4	Asia/Dubai	2024-03-13
+12748045	Birds Island	Birds Island	Birds Island,jzyrt altywr,جزيرة الطيور	24.44432	54.30576	A	ADM3	AE		01	101	12748045		0		3	Asia/Dubai	2024-03-13
+12748046	Halat Al Bahrani Island	Halat Al Bahrani Island	Halat Al Bahrani Island,jzyrt halt albhrany,جزيرة حالة البحراني	24.38427	54.23352	A	ADM3	AE		01	101	12748046		0		2	Asia/Dubai	2024-03-13
+12748047	Neima	Neima	Neima,nʿmt,نعمة	24.11311	55.70811	A	ADM3	AE		01	102	12748047		0		242	Asia/Dubai	2024-03-13
+12748048	Al Maryah Island	Al Maryah Island	Al Maryah Island,jzyrt almaryt,جزيرة المارية	24.50292	54.39018	A	ADM3	AE		01	101	12748048		0		3	Asia/Dubai	2024-03-13
+12748049	Abu Krayyah	Abu Krayyah	Abu Krayyah,bwkryt,بوكرية	23.91575	55.36916	A	ADM3	AE		01	102	12748049		0		154	Asia/Dubai	2024-03-13
+12748050	Zarkuh	Zarkuh	Zarkuh,zrkwh,زركوه	24.88329	53.07035	A	ADM3	AE		01	103	12748050		0		140	Asia/Dubai	2024-03-13
+12748051	Das Island	Das Island	Das Island,jzyrt das,جزيرة داس	25.14766	52.87503	A	ADM3	AE		01	103	12748051		0		3	Asia/Dubai	2024-03-13
+12748052	Al Dahmaa	Al Dahmaa	Al Dahmaa,aldhmaʾ,الدهماء	24.24936	55.65114	A	ADM3	AE		01	102	12748052		0		258	Asia/Dubai	2024-03-13
+12748053	Shiab Al Ashkhar	Shiab Al Ashkhar	Shiab Al Ashkhar,shʿab alashkhr,شعاب الأشخر	24.16065	55.73101	A	ADM3	AE		01	102	12748053		0		264	Asia/Dubai	2024-03-13
+12748054	Al Sheleilah Island	Al Sheleilah Island	Al Sheleilah Island,jzyrt alshlylt,جزيرة الشليلة	24.66142	54.64565	A	ADM3	AE		01	101	12748054		0		1	Asia/Dubai	2024-03-13
+12748055	Madinat Zayed	Madinat Zayed	Madinat Zayed,mdynt zayd,مدينة زايد	23.64492	53.6451	A	ADM3	AE		01	103	12748055		0		124	Asia/Dubai	2024-03-13
+12748056	Ghanadhah	Ghanadhah	Ghanadhah,ghnadt,غناضة	24.80552	54.75673	A	ADM3	AE		01	101	12748056		0		0	Asia/Dubai	2024-03-13
+12748057	Al Shuwaihat	Al Shuwaihat	Al Shuwaihat,alshwyhat,الشويهات	24.0912	52.47748	A	ADM3	AE		01	103	12748057		0		5	Asia/Dubai	2024-03-13
+12748058	Nurai Island	Nurai Island	Nurai Island,jzyrt nwray,جزيرة نوراي	24.61414	54.48224	A	ADM3	AE		01	101	12748058		0		-9999	Asia/Dubai	2024-03-13
+12748059	Defence	Defence	Defence,aldfaʿ,الدفاع	24.14049	55.78899	A	ADM3	AE		01	102	12748059		0		306	Asia/Dubai	2024-03-13
+12748060	Al Dhaher	Al Dhaher	Al Dhaher,alzahr,الظاهر	24.09119	55.84946	A	ADM3	AE		01	102	12748060		0		323	Asia/Dubai	2024-03-13
+12748061	Masakin	Masakin	Masakin,msakn,مساكن	24.44504	55.74613	A	ADM3	AE		01	102	12748061		0		298	Asia/Dubai	2024-03-13
+12748062	Sadiyat Island	Sadiyat Island	Sadiyat Island,jzyrt alsʿdyat,جزيرة السعديات	24.53308	54.44289	A	ADM3	AE		01	101	12748062		0		3	Asia/Dubai	2024-03-13
+12748063	Shatie Al Raha	Shatie Al Raha	Shatie Al Raha,shaty alraht,شاطئ الراحة	24.46684	54.61933	A	ADM3	AE		01	101	12748063		0		17	Asia/Dubai	2024-03-17
+12748064	Al Hayer	Al Hayer	Al Hayer,Al Hiyar,alhyr,الهير	24.57727	55.68863	A	ADM3	AE		01	102	12748064		0		269	Asia/Dubai	2024-10-18
+12748065	Al Hamra	Al Hamra	Al Hamra,alhmra,الحمرا	24.03842	52.44631	A	ADM3	AE		01	103	12748065		0		13	Asia/Dubai	2024-03-13
+12748066	Ba Al Ghaiylam Island	Ba Al Ghaiylam Island	Ba Al Ghaiylam Island,jzyrt blghylm,جزيرة بلغيلم	24.56779	54.55088	A	ADM3	AE		01	101	12748066		0		4	Asia/Dubai	2024-03-13
+12748067	Al Aflaj	Al Aflaj	Al Aflaj,alaflaj,الأفلاج	24.16422	55.84125	A	ADM3	AE		01	102	12748067		0		328	Asia/Dubai	2024-03-13
+12748068	Zakhir	Zakhir	Zakhir,zakhr,زاخر	24.12102	55.67433	A	ADM3	AE		01	102	12748068		0		233	Asia/Dubai	2024-03-13
+12748069	Al Qua'A	Al Qua'A	Al Qua'A,alqwʿ,القوع	23.31384	55.10801	A	ADM3	AE		01	102	12748069		0		96	Asia/Dubai	2024-03-13
+12748070	Barakah	Barakah	Barakah,brakt,براكة	23.96715	52.26514	A	ADM3	AE		01	103	12748070		0		4	Asia/Dubai	2024-03-13
+12748071	Jebel Hafeet	Jebel Hafeet	Jebel Hafeet,jbl hfyt,جبل حفيت	24.07861	55.77818	A	ADM3	AE		01	102	12748071		0		435	Asia/Dubai	2024-03-13
+12748072	Abu Dhabi Gate City	Abu Dhabi Gate City	Abu Dhabi Gate City,mdynt bwabt abwzby,مدينة بوابة أبوظبي	24.39137	54.49282	A	ADM3	AE		01	101	12748072		0		2	Asia/Dubai	2024-03-13
+12748073	Al Aamerah	Al Aamerah	Al Aamerah,alʿamrt,العامرة	24.25432	55.54886	A	ADM3	AE		01	102	12748073		0		209	Asia/Dubai	2024-03-13
+12748074	Um Elzumol	Um Elzumol	Um Elzumol,am alzmwl,أم الزمول	22.84891	54.96745	A	ADM3	AE		01	102	12748074		0		89	Asia/Dubai	2024-03-13
+12748075	Sas Al Nakhl (Umm Al Nar)	Sas Al Nakhl (Umm Al Nar)	Sas Al Nakhl (Umm Al Nar),sas alnkhl (am alnar),ساس النخل (أم النار)	24.44181	54.50449	A	ADM3	AE		01	101	12748075		0		5	Asia/Dubai	2024-03-13
+12748076	Al Agabiyaa	Al Agabiyaa	Al Agabiyaa,alʿqabyt,العقابية	24.17789	55.68115	A	ADM3	AE		01	102	12748076		0		243	Asia/Dubai	2024-03-13
+12748077	Nahel Town	Nahel Town	Nahel Town,mdynt nahl,مدينة ناهل	24.48497	55.54258	A	ADM3	AE		01	102	12748077		0		231	Asia/Dubai	2024-03-13
+12748078	Dalma Island	Dalma Island	Dalma Island,jzyrt dlma,جزيرة دلما	24.49002	52.31205	A	ADM3	AE		01	103	12748078		0		13	Asia/Dubai	2024-03-13
+12748079	Jabel Al Dhannah	Jabel Al Dhannah	Jabel Al Dhannah,jbl alznt,جبل الظنة	24.15426	52.59241	A	ADM3	AE		01	103	12748079		0		30	Asia/Dubai	2024-03-13
+12748080	Khalifa City	Khalifa City	Khalifa City,mdynt khlyft,مدينة خليفة	24.4186	54.5779	A	ADM3	AE		01	101	12748080		0		0	Asia/Dubai	2024-03-13
+12748081	Industrial Town	Industrial Town	Industrial Town,almdynt alsnaʿyt,المدينة الصناعية	24.03394	55.54861	A	ADM3	AE		01	102	12748081		0		201	Asia/Dubai	2024-03-13
+12748082	Nad Al Sheba	Nad Al Sheba	Nad Al Sheba,nd alshba,ند الشبا	23.95183	52.14125	A	ADM3	AE		01	103	12748082		0		10	Asia/Dubai	2024-03-13
+12748083	Al Salamat	Al Salamat	Al Salamat,alslamat,السلامات	24.17817	55.54854	A	ADM3	AE		01	102	12748083		0		206	Asia/Dubai	2024-03-13
+12748084	Al Shawamekh	Al Shawamekh	Al Shawamekh,alshwamkh,الشوامخ	24.35838	54.65614	A	ADM3	AE		01	101	12748084		0		18	Asia/Dubai	2024-03-13
+12748085	Al Wathba	Al Wathba	Al Wathba,alwthbt,الوثبة	24.20074	54.70388	A	ADM3	AE		01	101	12748085		0		45	Asia/Dubai	2024-03-13
+12748086	Central District	Central District	Central District,wst almdynt,وسط المدينة	24.2193	55.78126	A	ADM3	AE		01	102	12748086		0		297	Asia/Dubai	2024-03-13
+12748087	Al Garm	Al Garm	Al Garm,alqrm,القرم	24.45363	54.43443	A	ADM3	AE		01	101	12748087		0		2	Asia/Dubai	2024-03-13
+12748088	Al Mutaredh	Al Mutaredh	Al Mutaredh,almʿtrd,المعترض	24.22358	55.7418	A	ADM3	AE		01	102	12748088		0		272	Asia/Dubai	2024-03-13
+12748089	Sanaiya	Sanaiya	Sanaiya,almntqt alsnaʿyt,المنطقة الصناعية	24.16595	55.75736	A	ADM3	AE		01	102	12748089		0		298	Asia/Dubai	2024-03-13
+12748090	Al Hudayriat Island	Al Hudayriat Island	Al Hudayriat Island,jzyrt alhdyryat,جزيرة الحديريات	24.39072	54.40317	A	ADM3	AE		01	101	12748090		0		-9999	Asia/Dubai	2024-03-13
+12748091	Abu Samra	Abu Samra	Abu Samra,abw smrt,أبو سمرة	24.19851	55.38909	A	ADM3	AE		01	102	12748091		0		167	Asia/Dubai	2024-03-13
+12748092	Al Faya	Al Faya	Al Faya,alfayt,الفاية	24.35639	54.91026	A	ADM3	AE		01	101	12748092		0		61	Asia/Dubai	2024-03-13
+12748093	Falaj Hazza	Falaj Hazza	Falaj Hazza,flj hzaʿ,فلج هزاع	24.18909	55.72513	A	ADM3	AE		01	102	12748093		0		261	Asia/Dubai	2024-03-13
+12748094	Al Samha	Al Samha	Al Samha,alsmht,السمحة	24.66959	54.76263	A	ADM3	AE		01	101	12748094		0		9	Asia/Dubai	2024-03-13
+12748095	Al Towayya	Al Towayya	Al Towayya,altwyt,الطوية	24.25554	55.69754	A	ADM3	AE		01	102	12748095		0		259	Asia/Dubai	2024-03-13
+12748096	Saa	Saa	Saa,saʿ,صاع	24.12028	55.97129	A	ADM3	AE		01	102	12748096		0		397	Asia/Dubai	2024-03-13
+12748097	Khasbat Al Reem Island	Khasbat Al Reem Island	Khasbat Al Reem Island,khsbt jzyt alrym,خصبة جزية الريم	24.11989	53.26436	A	ADM3	AE		01	103	12748097		0		4	Asia/Dubai	2024-03-13
+12748098	Malagit	Malagit	Malagit,mlaqt,ملاقط	24.17376	55.89531	A	ADM3	AE		01	102	12748098		0		357	Asia/Dubai	2024-03-13
+12748099	Al Taweelah East	Al Taweelah East	Al Taweelah East,altwylt shrq,الطويلة شرق	24.80393	54.71833	A	ADM3	AE		01	101	12748099		0		5	Asia/Dubai	2024-03-13
+12748100	Al Wagan	Al Wagan	Al Wagan,alwqn,الوقن	23.64787	55.43028	A	ADM3	AE		01	102	12748100		0		161	Asia/Dubai	2024-03-13
+12748101	Al Foah	Al Foah	Al Foah,alfwʿt,الفوعة	24.3526	55.81162	A	ADM3	AE		01	102	12748101		0		310	Asia/Dubai	2024-03-13
+12748102	Ad Dubayyah	Ad Dubayyah	Ad Dubayyah,aldbʿyt,الضبعية	24.22749	54.19109	A	ADM3	AE		01	101	12748102		0		4	Asia/Dubai	2024-03-13
+12748103	Al Bahya	Al Bahya	Al Bahya,albahyt,الباهية	24.5546	54.64574	A	ADM3	AE		01	101	12748103		0		2	Asia/Dubai	2024-03-13
+12748104	Al Selmiyyah	Al Selmiyyah	Al Selmiyyah,alslmyt,السلمية	24.22262	54.34217	A	ADM3	AE		01	101	12748104		0		3	Asia/Dubai	2024-03-13
+12748105	Ramhan Island	Ramhan Island	Ramhan Island,jzyrt rmhan,جزيرة رمحان	24.53651	54.52453	A	ADM3	AE		01	101	12748105		0		3	Asia/Dubai	2024-03-13
+12748106	Al Marfa	Al Marfa	Al Marfa,almrfa,المرفأ	24.05786	53.46104	A	ADM3	AE		01	103	12748106		0		7	Asia/Dubai	2024-03-13
+12748107	Al Markhaniya	Al Markhaniya	Al Markhaniya,almrkhanyt,المرخانية	24.21919	55.65963	A	ADM3	AE		01	102	12748107		0		243	Asia/Dubai	2024-03-13
+12748108	Abu Al Abyad Island	Abu Al Abyad Island	Abu Al Abyad Island,jzyrt abw alabyd,جزيرة أبو الأبيض	24.19013	53.79851	A	ADM3	AE		01	101	12748108		0		6	Asia/Dubai	2024-03-13
+12748109	Abu Huraibah	Abu Huraibah	Abu Huraibah,abwhrybt,أبوحريبة	23.70082	55.14924	A	ADM3	AE		01	102	12748109		0		134	Asia/Dubai	2024-03-13
+12748110	North Halat Al Bahrani Island	North Halat Al Bahrani Island	North Halat Al Bahrani Island,shmal jzyrt halt albhrany,شمال جزيرة حالة البحراني	24.44233	54.22446	A	ADM3	AE		01	101	12748110		0		-9999	Asia/Dubai	2024-03-13
+12748111	Zeraa Island	Zeraa Island	Zeraa Island,jzyrt zrʿt,جزيرة زرعة	24.48618	54.55027	A	ADM3	AE		01	101	12748111		0		0	Asia/Dubai	2024-03-13
+12748112	Sir Baniyas Island	Sir Baniyas Island	Sir Baniyas Island,jzyrt syr bny yas,جزيرة صير بني ياس	24.3159	52.60146	A	ADM3	AE		01	103	12748112		0		78	Asia/Dubai	2024-03-13
+12748113	Futaisi Island East	Futaisi Island East	Futaisi Island East,jzyrt alftysy shrq,جزيرة الفطيسي شرق	24.37852	54.34259	A	ADM3	AE		01	101	12748113		0		-9999	Asia/Dubai	2024-03-13
+12748114	Al Ruwais	Al Ruwais	Al Ruwais,alrwys,الرويس	24.10818	52.93087	A	ADM3	AE		01	103	12748114		0		6	Asia/Dubai	2024-03-13
+12748115	Ajban	Ajban	Ajban,ʿjban,عجبان	24.62416	54.81056	A	ADM3	AE		01	101	12748115		0		33	Asia/Dubai	2024-03-13
+12748116	Al Adlah	Al Adlah	Al Adlah,alʿdlt,العدلة	24.40619	54.90117	A	ADM3	AE		01	101	12748116		0		58	Asia/Dubai	2024-03-13
+12748117	Al Shuwaimah	Al Shuwaimah	Al Shuwaimah,alshwymt,الشويمة	24.18806	55.83386	A	ADM3	AE		01	102	12748117		0		321	Asia/Dubai	2024-03-13
+12748118	Al Hudayriat Island West	Al Hudayriat Island West	Al Hudayriat Island West,jzyrt alhdyryat ghrb,جزيرة الحديريات غرب	24.43233	54.30597	A	ADM3	AE		01	101	12748118		0		3	Asia/Dubai	2024-03-13
+12748119	Ujaij	Ujaij	Ujaij,ʿjyj,عجيج	24.57982	54.63856	A	ADM3	AE		01	101	12748119		0		1	Asia/Dubai	2024-03-17
+12748120	Ras Ghurab Island	Ras Ghurab Island	Ras Ghurab Island,jzyrt ras ghrab,جزيرة راس غراب	24.61878	54.53459	A	ADM3	AE		01	101	12748120		0		0	Asia/Dubai	2024-03-13
+12748121	Al Samaliyyah Island	Al Samaliyyah Island	Al Samaliyyah Island,jzyrt alsmalyt,جزيرة السمالية	24.4618	54.53188	A	ADM3	AE		01	101	12748121		0		2	Asia/Dubai	2024-03-13
+12748122	Baniyas North	Baniyas North	Baniyas North,bny yas shmal,بنى ياس شمال	24.33118	54.66982	A	ADM3	AE		01	101	12748122		0		18	Asia/Dubai	2024-03-13
+12748123	Al Falah	Al Falah	Al Falah,alflah,الفلاح	24.43667	54.71346	A	ADM3	AE		01	101	12748123		0		29	Asia/Dubai	2024-03-13
+12748124	Al Ain International Airport	Al Ain International Airport	Al Ain International Airport,mtar alʿyn aldwly,مطار العين الدولي	24.28394	55.62129	A	ADM3	AE		01	102	12748124		0		242	Asia/Dubai	2024-03-13
+12748125	Al Reem Island	Al Reem Island	Al Reem Island,jzyrt alrym,جزيرة الريم	24.49448	54.40945	A	ADM3	AE		01	101	12748125		0		11	Asia/Dubai	2024-03-13
+12748126	Al Dhafra Islands	Al Dhafra Islands	Al Dhafra Islands,jzr mntqt alzfrt,جزر منطقة الظفرة	24.28743	53.25359	A	ADM3	AE		01	103	12748126		0		15	Asia/Dubai	2024-05-19
+12748127	Al Khatim	Al Khatim	Al Khatim,alkhtm,الختم	23.89489	54.86204	A	ADM3	AE		01	101	12748127		0		96	Asia/Dubai	2024-03-13
+12748128	Al Mirad	Al Mirad	Al Mirad,almʿrad,المعراض	24.38801	54.80867	A	ADM3	AE		01	101	12748128		0		46	Asia/Dubai	2024-03-13
+12748129	U03	U03	U03,ghyr msmy 3,غير مسمى 3	23.93086	54.43751	A	ADM3	AE		01	101	12748129		0		67	Asia/Dubai	2024-03-13
+12748130	Yas Island	Yas Island	Yas Island,jzyrt yas,جزيرة ياس	24.49082	54.60364	A	ADM3	AE		01	101	12748130		0		-1	Asia/Dubai	2024-03-13
+12748131	Al Jarf (Hizam Al Ghabat)	Al Jarf (Hizam Al Ghabat)	Al Jarf (Hizam Al Ghabat),aljrf (hzam alghabat),الجرف (حزام الغابات)	24.78746	54.95608	A	ADM3	AE		01	101	12748131		0		38	Asia/Dubai	2024-03-13
+12748132	Al Hanjurah	Al Hanjurah	Al Hanjurah,alhnywrt,الحنيورة	24.72363	54.62336	A	ADM3	AE		01	101	12748132		0		-9999	Asia/Dubai	2024-03-13
+12748133	Al Rawdha	Al Rawdha	Al Rawdha,alrwdt,الروضة	24.08959	55.49858	A	ADM3	AE		01	102	12748133		0		191	Asia/Dubai	2024-03-13
+12748134	Al Dhafra Region	Al Dhafra Region	Al Dhafra Region,mntqt alzfrt,منطقة الظفرة	23.77455	53.1721	A	ADM3	AE		01	103	12748134		0		101	Asia/Dubai	2024-05-19
+12748135	Abu Dhabi Island	Abu Dhabi Island	Abu Dhabi Island,jzyrt abwzby,جزيرة أبوظبي	24.45716	54.3925	A	ADM3	AE		01	101	12748135		0		5	Asia/Dubai	2024-03-13
+12748136	Mafraq Industrial Area	Mafraq Industrial Area	Mafraq Industrial Area,mntqt almfrq alsnaʿyt,منطقة المفرق الصناعية	24.27336	54.60313	A	ADM3	AE		01	101	12748136		0		24	Asia/Dubai	2024-03-13
+12748137	Al Faqa'A	Al Faqa'A	Al Faqa'A,alfqʿ,الفقع	24.67076	55.62904	A	ADM3	AE		01	102	12748137		0		244	Asia/Dubai	2024-03-13
+12748138	Umm Lefeenah Island	Umm Lefeenah Island	Umm Lefeenah Island,jzyrt am lyfynt,جزيرة ام ليفينة	24.47565	54.45614	A	ADM3	AE		01	101	12748138		0		1	Asia/Dubai	2024-03-13
+12748139	Musaffah South	Musaffah South	Musaffah South,msfh jnwb,مصفح جنوب	24.27611	54.45331	A	ADM3	AE		01	101	12748139		0		1	Asia/Dubai	2024-03-13
+12748140	Al Zubarah North	Al Zubarah North	Al Zubarah North,alzbart shmal,الزبارة شمال	24.63647	54.62725	A	ADM3	AE		01	101	12748140		0		-9999	Asia/Dubai	2024-03-13
+12748141	U53	U53		24.56189	54.49714	A	ADM3	AE		01	101	12748141		0		-9999	Asia/Dubai	2024-03-13
+13060556	Al O'Shoosh	Al O'Shoosh	Al O'Shoosh,alʿshwsh,العشوش	24.67758	55.3505	A	ADM3	AE		03	900	975		3		117	Asia/Dubai	2024-08-30
+13060557	Al Awir Second	Al Awir Second	Al Awir Second,alʿwyr althanyt,العوير الثانية	25.16522	55.58351	A	ADM3	AE		03	700	721		5874		96	Asia/Dubai	2024-08-30
+13060558	Al Mamzar	Al Mamzar	Al Mamzar,almmzr,الممزر	25.30207	55.34909	A	ADM3	AE		03	100	134		16534		-1	Asia/Dubai	2024-08-30
+13060559	Umm Al Sheif	Umm Al Sheif	Umm Al Sheif,am alshyf,أم الشيف	25.13137	55.2045	A	ADM3	AE		03	300	367		4618		-1	Asia/Dubai	2024-08-30
+13060560	Al Hathmah	Al Hathmah	Al Hathmah,alhthmt,الحثمة	24.80413	55.4494	A	ADM3	AE		03	900	956		37		128	Asia/Dubai	2024-08-30
+13060561	Wadi Al Safa 2	Wadi Al Safa 2	Wadi Al Safa 2,wady alsfa 2,وادي الصفا 2	25.10045	55.3529	A	ADM3	AE		03	600	643		10890		32	Asia/Dubai	2024-08-30
+13060562	Jabal Ali First	Jabal Ali First	Jabal Ali First,jbl ʿly alawly,جبل علي الأولى	25.03391	55.13329	A	ADM3	AE		03	500	591		77363		20	Asia/Dubai	2024-08-30
+13060563	Hefair	Hefair	Hefair,hfyr,حفير	24.69324	55.24914	A	ADM3	AE		03	900	991		0		93	Asia/Dubai	2024-08-29
+13060564	Saih Shuaib 2	Saih Shuaib 2	Saih Shuaib 2,syh shʿyb 2,سيح شعيب 2	24.86773	55.0543	A	ADM3	AE		03	500	531		12629		27	Asia/Dubai	2024-08-30
+13060565	Ayal Nasir	Ayal Nasir	Ayal Nasir,ʿyal nasr,عيال ناصر	25.27422	55.30395	A	ADM3	AE		03	100	116		19820		11	Asia/Dubai	2024-08-30
+13060566	Nadd Al Shiba Third	Nadd Al Shiba Third	Nadd Al Shiba Third,nd alshba althaltht,ند الشبا الثالثة	25.15438	55.37566	A	ADM3	AE		03	600	616		1137		9	Asia/Dubai	2024-08-30
+13060567	Al Kifaf	Al Kifaf	Al Kifaf,alkfaf,الكفاف	25.23443	55.29699	A	ADM3	AE		03	300	324		602		3	Asia/Dubai	2024-08-30
+13060568	Saih Al Dahal	Saih Al Dahal	Saih Al Dahal,syh aldhl,سيح الدحل	24.73651	55.4208	A	ADM3	AE		03	900	971		3		140	Asia/Dubai	2024-08-30
+13060569	Al Nahda First	Al Nahda First	Al Nahda First,alnhdt alawly,النهدة الأولى	25.29016	55.36426	A	ADM3	AE		03	200	231		32757		4	Asia/Dubai	2024-08-30
+13060570	Madinat Al Mataar	Madinat Al Mataar	Madinat Al Mataar,mdynt almtar,مدينة المطار	24.90564	55.15446	A	ADM3	AE		03	500	521		4150		29	Asia/Dubai	2024-08-30
+13060571	Nadd Al Hamar	Nadd Al Hamar	Nadd Al Hamar,nd alhmr,ند الحمر	25.19778	55.3863	A	ADM3	AE		03	400	416		16930		8	Asia/Dubai	2024-08-30
+13060572	Aleyas	Aleyas	Aleyas,alʿyas,العياص	25.21098	55.53735	A	ADM3	AE		03	200	283		1843		64	Asia/Dubai	2024-08-30
+13060573	Al Sabkha	Al Sabkha	Al Sabkha,alsbkht,السبخة	25.26918	55.30231	A	ADM3	AE		03	100	115		4205		6	Asia/Dubai	2024-08-30
+13060574	Mena Jabal Ali	Mena Jabal Ali	Mena Jabal Ali,mynaʾ jbl ʿly,ميناء جبل علي	24.98644	55.06295	A	ADM3	AE		03	500	594		9467		0	Asia/Dubai	2024-08-30
+13060575	Saih Al Salam	Saih Al Salam	Saih Al Salam,syh alslm,سيح السلم	24.87304	55.37861	A	ADM3	AE		03	900	951		615		86	Asia/Dubai	2024-08-30
+13060576	Saih Shuaib 3	Saih Shuaib 3	Saih Shuaib 3,syh shʿyb 3,سيح شعيب 3	24.84611	55.0779	A	ADM3	AE		03	500	532		4684		38	Asia/Dubai	2024-08-30
+13060577	Al Hebiah Second	Al Hebiah Second	Al Hebiah Second,alhbyh althanyt,الحبيه الثانية	25.03483	55.24575	A	ADM3	AE		03	600	675		1781		24	Asia/Dubai	2024-08-30
+13060578	Al Murar	Al Murar	Al Murar,almrr,المرر	25.27689	55.30983	A	ADM3	AE		03	100	117		40105		8	Asia/Dubai	2024-08-30
+13060579	Al Lesaily	Al Lesaily	Al Lesaily,allysyly,الليسيلي	24.91858	55.4447	A	ADM3	AE		03	900	931		2950		106	Asia/Dubai	2024-08-30
+13060580	Al Rowaiyah First	Al Rowaiyah First	Al Rowaiyah First,alrwyh alawly,الرويه الأولى	25.12603	55.43127	A	ADM3	AE		03	800	812		3263		49	Asia/Dubai	2024-08-30
+13060581	Al Hebiah Fifth	Al Hebiah Fifth	Al Hebiah Fifth,alhbyh alkhamst,الحبيه الخامسة	25.00776	55.23871	A	ADM3	AE		03	600	683		10302		41	Asia/Dubai	2024-08-30
+13060582	Yaraah	Yaraah	Yaraah,yrah,يراح	24.76447	55.67105	A	ADM3	AE		03	800	861		100		251	Asia/Dubai	2024-08-30
+13060583	Al Meryal	Al Meryal	Al Meryal,almryal,المريال	25.07031	55.64576	A	ADM3	AE		03	700	735		769		137	Asia/Dubai	2024-08-30
+13060584	Al Awir First	Al Awir First	Al Awir First,alʿwyr alawly,العوير الأولى	25.1993	55.57163	A	ADM3	AE		03	700	711		4488		73	Asia/Dubai	2024-08-30
+13060585	Al Barsha South Fourth	Al Barsha South Fourth	Al Barsha South Fourth,albrshaʾ jnwb alrabʿt,البرشاء جنوب الرابعة	25.0584	55.20885	A	ADM3	AE		03	600	681		29087		6	Asia/Dubai	2024-08-30
+13060586	Al Mizhar First	Al Mizhar First	Al Mizhar First,almzhr alawly,المزهر الأولى	25.24493	55.44164	A	ADM3	AE		03	200	262		17498		29	Asia/Dubai	2024-08-30
+13060587	Abu Hail	Abu Hail	Abu Hail,abw hyl,أبو هيل	25.28544	55.32934	A	ADM3	AE		03	100	126		18043		6	Asia/Dubai	2024-08-30
+13060588	Umm Suqeim Second	Umm Suqeim Second	Umm Suqeim Second,am sqym althanyt,أم سقيم الثانية	25.15139	55.20283	A	ADM3	AE		03	300	362		13236		4	Asia/Dubai	2024-08-30
+13060589	Al Rashidiya	Al Rashidiya	Al Rashidiya,alrashdyt,الراشدية	25.2241	55.39165	A	ADM3	AE		03	200	216		38425		11	Asia/Dubai	2024-08-30
+13060590	Muhaisanah Third	Muhaisanah Third	Muhaisanah Third,mhysnt althaltht,محيصنة الثالثة	25.2718	55.40428	A	ADM3	AE		03	200	244		6865		5	Asia/Dubai	2024-08-30
+13060591	Madinat Hind 4	Madinat Hind 4	Madinat Hind 4,mdynt hnd 4,مدينة هند 4	25.0169	55.36769	A	ADM3	AE		03	900	914		4		45	Asia/Dubai	2024-08-30
+13060592	Jumeira Third	Jumeira Third	Jumeira Third,jmyra althaltht,جميرا الثالثة	25.18276	55.22887	A	ADM3	AE		03	300	352		14188		5	Asia/Dubai	2024-08-30
+13060593	Al Shindagha	Al Shindagha	Al Shindagha,alshndght,الشندغة	25.26683	55.28912	A	ADM3	AE		03	300	311		7		14	Asia/Dubai	2024-08-30
+13060594	Al Rigga	Al Rigga	Al Rigga,alrqt,الرقة	25.26695	55.31073	A	ADM3	AE		03	100	119		11097		7	Asia/Dubai	2024-08-30
+13060595	Al Thanyah  Fourth	Al Thanyah  Fourth	Al Thanyah  Fourth,althnyh alrabʿt,الثنيه الرابعة	25.06303	55.17396	A	ADM3	AE		03	300	394		28424		-1	Asia/Dubai	2024-08-30
+13060596	Al Twar Fourth	Al Twar Fourth	Al Twar Fourth,altwar alrabʿt,الطوار الرابعة	25.26168	55.40029	A	ADM3	AE		03	200	234		7513		9	Asia/Dubai	2024-08-30
+13060597	Dubai Int'L Airport	Dubai Int'L Airport	Dubai Int'L Airport,mtar dby aldwly,مطار دبي الدولي	25.2519	55.36792	A	ADM3	AE		03	200	221		121		12	Asia/Dubai	2024-08-30
+13060598	Remah	Remah	Remah,rmah,رماح	24.83812	55.67115	A	ADM3	AE		03	800	851		195		224	Asia/Dubai	2024-08-30
+13060599	Al Layan 2	Al Layan 2	Al Layan 2,allyan 2,الليان 2	24.75024	55.1562	A	ADM3	AE		03	900	988		0		75	Asia/Dubai	2024-08-29
+13060600	Al Ras	Al Ras	Al Ras,alras,الراس	25.26899	55.29565	A	ADM3	AE		03	100	112		8067		9	Asia/Dubai	2024-08-30
+13060601	Al Qouz Ind.First	Al Qouz Ind.First	Al Qouz Ind.First,alqwz alsnaʿyt alawly,القوز الصناعية الأولى	25.14438	55.23202	A	ADM3	AE		03	300	364		28060		4	Asia/Dubai	2024-08-30
+13060602	Al Barsha South Second	Al Barsha South Second	Al Barsha South Second,albrshaʾ jnwb althanyt,البرشاء جنوب الثانية	25.07295	55.23379	A	ADM3	AE		03	600	672		7239		11	Asia/Dubai	2024-08-30
+13060603	Al Qouz Ind.Second	Al Qouz Ind.Second	Al Qouz Ind.Second,alqwz alsnaʿyt althanyt,القوز الصناعية الثانية	25.134	55.24791	A	ADM3	AE		03	300	365		128867		1	Asia/Dubai	2024-08-30
+13060604	Umm Ramool	Umm Ramool	Umm Ramool,am rmwl,أم رمول	25.23021	55.36824	A	ADM3	AE		03	200	215		3069		9	Asia/Dubai	2024-08-30
+13060605	Marsa Dubai	Marsa Dubai	Marsa Dubai,mrsy dby,مرسى دبي	25.08474	55.13505	A	ADM3	AE		03	300	392		62570		-9999	Asia/Dubai	2024-08-30
+13060606	Al Manara	Al Manara	Al Manara,almnart,المنارة	25.14423	55.21449	A	ADM3	AE		03	300	363		8745		1	Asia/Dubai	2024-08-30
+13060607	Enkhali	Enkhali	Enkhali,nkhly,نخلي	25.11202	55.57158	A	ADM3	AE		03	700	724		2		93	Asia/Dubai	2024-08-30
+13060608	World Islands	World Islands	World Islands,jzr alʿalm,جزر العالم	25.22992	55.16059	A	ADM3	AE		03	300	303		7		-9999	Asia/Dubai	2024-08-30
+13060609	Nadd Shamma	Nadd Shamma	Nadd Shamma,nd shma,ند شما	25.21658	55.38422	A	ADM3	AE		03	200	213		3305		7	Asia/Dubai	2024-08-30
+13060610	Al Hamriya	Al Hamriya	Al Hamriya,alhmryt,الحمرية	25.26041	55.30373	A	ADM3	AE		03	300	313		38215		9	Asia/Dubai	2024-08-30
+13060611	Al Corniche	Al Corniche	Al Corniche,alkwrnysh,الكورنيش	25.27784	55.30256	A	ADM3	AE		03	100	111		2593		-3	Asia/Dubai	2024-08-30
+13060612	Wadi Al Safa 4	Wadi Al Safa 4	Wadi Al Safa 4,wady alsfa 4,وادي الصفا 4	25.07677	55.31788	A	ADM3	AE		03	600	646		167		26	Asia/Dubai	2024-08-30
+13060613	Al Warqa'A Fourth	Al Warqa'A Fourth	Al Warqa'A Fourth,alwrqaʾ alrabʿt,الورقاء الرابعة	25.18625	55.43743	A	ADM3	AE		03	400	424		14308		30	Asia/Dubai	2024-08-30
+13060614	Oud Metha	Oud Metha	Oud Metha,ʿwd mythaʾ,عود ميثاء	25.2376	55.31223	A	ADM3	AE		03	300	319		15568		5	Asia/Dubai	2024-08-30
+13060615	Trade Center First	Trade Center First	Trade Center First,almrkz altjary alawly,المركز التجاري الأولى	25.2188	55.27891	A	ADM3	AE		03	300	335		17676		4	Asia/Dubai	2024-08-30
+13060616	Al Qusais Ind. Fourth	Al Qusais Ind. Fourth	Al Qusais Ind. Fourth,alqsys alsnaʿyt alrabʿt,القصيص الصناعية الرابعة	25.29351	55.40028	A	ADM3	AE		03	200	247		2865		3	Asia/Dubai	2024-08-30
+13060617	Al Baraha	Al Baraha	Al Baraha,albraht,البراحة	25.28117	55.31955	A	ADM3	AE		03	100	122		25839		4	Asia/Dubai	2024-08-30
+13060618	Mankhool	Mankhool	Mankhool,mnkhwl,منخول	25.24905	55.29492	A	ADM3	AE		03	300	317		41244		5	Asia/Dubai	2024-08-30
+13060619	Al Mizhar Second	Al Mizhar Second	Al Mizhar Second,almzhr althanyt,المزهر الثانية	25.24297	55.4604	A	ADM3	AE		03	200	263		11967		40	Asia/Dubai	2024-08-30
+13060620	Nakhlat Deira	Nakhlat Deira	Nakhlat Deira,nkhlt dyrh,نخلة ديره	25.33891	55.26262	A	ADM3	AE		03	100	101		2		-9999	Asia/Dubai	2024-08-30
+13060621	Al Yalayis 2	Al Yalayis 2	Al Yalayis 2,alylays 2,اليلايس 2	24.99713	55.29013	A	ADM3	AE		03	900	922		3685		34	Asia/Dubai	2024-08-30
+13060622	Hor Al Anz East	Hor Al Anz East	Hor Al Anz East,hwr alʿnz shrq,هور العنز شرق	25.2826	55.34737	A	ADM3	AE		03	100	133		22026		-3	Asia/Dubai	2024-08-30
+13060623	Zaa'Beel First	Zaa'Beel First	Zaa'Beel First,zʿbyl alawly,زعبيل الأولى	25.22366	55.30539	A	ADM3	AE		03	300	325		3449		6	Asia/Dubai	2024-08-30
+13060624	Oud Al Muteena First	Oud Al Muteena First	Oud Al Muteena First,ʿwd almtynt alawly,عود المطينة الأولى	25.26401	55.44543	A	ADM3	AE		03	200	265		15514		23	Asia/Dubai	2024-08-30
+13060625	Nakhlat Jumeira	Nakhlat Jumeira	Nakhlat Jumeira,nkhlt jmyra,نخلة جميرا	25.12068	55.12856	A	ADM3	AE		03	300	381		25050		-9999	Asia/Dubai	2024-08-30
+13060626	Wadi Al Safa 5	Wadi Al Safa 5	Wadi Al Safa 5,wady alsfa 5,وادي الصفا 5	25.07781	55.35215	A	ADM3	AE		03	600	648		20479		20	Asia/Dubai	2024-08-30
+13060627	Al Fagaa	Al Fagaa	Al Fagaa,alfqʿ,الفقع	24.73441	55.55226	A	ADM3	AE		03	900	945		442		171	Asia/Dubai	2024-08-30
+13060628	Al Qouz First	Al Qouz First	Al Qouz First,alqwz alawly,القوز الأولى	25.16853	55.25346	A	ADM3	AE		03	300	354		21322		4	Asia/Dubai	2024-08-30
+13060629	Mugatrah	Mugatrah	Mugatrah,mqtrh,مقطره	24.797	55.21367	A	ADM3	AE		03	900	981		347		73	Asia/Dubai	2024-08-30
+13060630	Al Wohoosh	Al Wohoosh	Al Wohoosh,alwhwsh,الوحوش	25.12195	55.6267	A	ADM3	AE		03	700	727		48		123	Asia/Dubai	2024-08-30
+13060631	Al Qusais Ind. Third	Al Qusais Ind. Third	Al Qusais Ind. Third,alqsys alsnaʿyt althaltht,القصيص الصناعية الثالثة	25.29789	55.38935	A	ADM3	AE		03	200	246		2802		3	Asia/Dubai	2024-08-30
+13060632	Al Hamriya Port	Al Hamriya Port	Al Hamriya Port,mynaʾ alhmryt,ميناء الحمرية	25.30071	55.33339	A	ADM3	AE		03	100	131		510		11	Asia/Dubai	2024-08-30
+13060633	Warsan Third	Warsan Third	Warsan Third,wrsan althaltht,ورسان الثالثة	25.15285	55.46362	A	ADM3	AE		03	800	811		12613		63	Asia/Dubai	2024-08-30
+13060634	Al Warqa'A Third	Al Warqa'A Third	Al Warqa'A Third,alwrqaʾ althaltht,الورقاء الثالثة	25.19115	55.42195	A	ADM3	AE		03	400	423		15613		29	Asia/Dubai	2024-08-30
+13060635	Al Qusais Ind. Fifth	Al Qusais Ind. Fifth	Al Qusais Ind. Fifth,alqsys alsnaʿyt alkhamst,القصيص الصناعية الخامسة	25.28659	55.41457	A	ADM3	AE		03	200	248		2722		10	Asia/Dubai	2024-08-30
+13060636	Grayteesah	Grayteesah	Grayteesah,qrytysh,قريطيسه	24.85534	55.51495	A	ADM3	AE		03	900	941		58		145	Asia/Dubai	2024-08-30
+13060637	Muhaisanah Second	Muhaisanah Second	Muhaisanah Second,mhysnt althanyt,محيصنة الثانية	25.26425	55.42198	A	ADM3	AE		03	200	264		148832		16	Asia/Dubai	2024-08-30
+13060638	Al Maha	Al Maha	Al Maha,almha,المها	24.91895	55.65921	A	ADM3	AE		03	800	845		205		192	Asia/Dubai	2024-08-30
+13060639	Al Yalayis 5	Al Yalayis 5	Al Yalayis 5,alylays 5,اليلايس 5	24.9722	55.26604	A	ADM3	AE		03	900	925		88		41	Asia/Dubai	2024-08-30
+13060640	Al Marmoom	Al Marmoom	Al Marmoom,almrmwm,المرموم	24.97562	55.45177	A	ADM3	AE		03	900	917		141		92	Asia/Dubai	2024-08-30
+13060641	Al Muraqqabat	Al Muraqqabat	Al Muraqqabat,almrqbat,المرقبات	25.26554	55.32315	A	ADM3	AE		03	100	124		73087		1	Asia/Dubai	2024-08-30
+13060642	Ghadeer Barashy	Ghadeer Barashy	Ghadeer Barashy,ghdyr brashy,غدير براشي	24.80627	55.32323	A	ADM3	AE		03	900	967		33		99	Asia/Dubai	2024-08-30
+13060643	Jabal Ali Third	Jabal Ali Third	Jabal Ali Third,jbl ʿly althaltht,جبل علي الثالثة	25.12625	54.94706	A	ADM3	AE		03	500	593		218		-9999	Asia/Dubai	2024-08-30
+13060644	Al Khabaisi	Al Khabaisi	Al Khabaisi,alkhbysy,الخبيصي	25.26873	55.33755	A	ADM3	AE		03	100	128		2011		4	Asia/Dubai	2024-08-30
+13060645	Al Qouz Third	Al Qouz Third	Al Qouz Third,alqwz althaltht,القوز الثالثة	25.15982	55.2414	A	ADM3	AE		03	300	358		50190		8	Asia/Dubai	2024-08-30
+13060646	Me'Aisem Second	Me'Aisem Second	Me'Aisem Second,mʿysm althanyt,معيصم الثانية	24.99629	55.21846	A	ADM3	AE		03	600	686		13		17	Asia/Dubai	2024-08-30
+13060647	Al Karama	Al Karama	Al Karama,alkramt,الكرامة	25.24498	55.30472	A	ADM3	AE		03	300	318		76591		8	Asia/Dubai	2024-08-30
+13060648	Al Layan 1	Al Layan 1	Al Layan 1,allyan 1,الليان 1	24.79342	55.1218	A	ADM3	AE		03	900	987		0		59	Asia/Dubai	2024-08-29
+13060649	Nazwah	Nazwah	Nazwah,nzwh,نزوه	25.02402	55.64657	A	ADM3	AE		03	700	736		575		138	Asia/Dubai	2024-08-30
+13060650	Al Barsha South First	Al Barsha South First	Al Barsha South First,albrshaʾ jnwb alawly,البرشاء جنوب الأولى	25.08666	55.23096	A	ADM3	AE		03	600	671		14500		4	Asia/Dubai	2024-08-30
+13060651	Al Warqa'A First	Al Warqa'A First	Al Warqa'A First,alwrqaʾ alawly,الورقاء الأولى	25.18751	55.40281	A	ADM3	AE		03	400	421		26405		22	Asia/Dubai	2024-08-30
+13060652	Al Khwaneej Second	Al Khwaneej Second	Al Khwaneej Second,alkhwanyj althanyt,الخوانيج الثانية	25.2307	55.52122	A	ADM3	AE		03	200	282		5507		41	Asia/Dubai	2024-08-30
+13060653	Al Qusais Ind. Second	Al Qusais Ind. Second	Al Qusais Ind. Second,alqsys alsnaʿyt althanyt,القصيص الصناعية الثانية	25.28165	55.39318	A	ADM3	AE		03	200	243		9410		2	Asia/Dubai	2024-08-30
+13060654	Al Barsha Second	Al Barsha Second	Al Barsha Second,albrshaʾ althanyt,البرشاء الثانية	25.10085	55.21497	A	ADM3	AE		03	300	376		16417		-17	Asia/Dubai	2024-08-30
+13060655	Margab	Margab	Margab,mrqb,مرقب	24.81078	55.60882	A	ADM3	AE		03	800	857		666		222	Asia/Dubai	2024-08-30
+13060656	Wadi Alamardi	Wadi Alamardi	Wadi Alamardi,wady alʿmrdy,وادي العمردي	25.20326	55.4911	A	ADM3	AE		03	200	271		3565		57	Asia/Dubai	2024-08-30
+13060657	Muhaisanah Fifth	Muhaisanah Fifth	Muhaisanah Fifth,mhysnt alkhamst,محيصنة الخامسة	25.27928	55.43329	A	ADM3	AE		03	200	267		2		13	Asia/Dubai	2024-08-30
+13060658	Al Khwaneej First	Al Khwaneej First	Al Khwaneej First,alkhwanyj alawly,الخوانيج الأولى	25.24472	55.4871	A	ADM3	AE		03	200	281		13634		39	Asia/Dubai	2024-08-30
+13060659	Jabal Ali Industrial First	Jabal Ali Industrial First	Jabal Ali Industrial First,jbl ʿly alsnaʿyt alawly,جبل علي الصناعية الأولى	24.99946	55.12352	A	ADM3	AE		03	500	599		198228		16	Asia/Dubai	2024-08-30
+13060660	Al Hebiah First	Al Hebiah First	Al Hebiah First,alhbyh alawly,الحبيه الأولى	25.04687	55.23757	A	ADM3	AE		03	600	674		11155		26	Asia/Dubai	2024-08-30
+13060661	Al Bada'	Al Bada'	Al Bada',albdʿ,البدع	25.22531	55.26877	A	ADM3	AE		03	300	333		58437		5	Asia/Dubai	2024-08-30
+13060662	Corniche Deira	Corniche Deira	Corniche Deira,kwrnysh dyrh,كورنيش ديره	25.28717	55.31796	A	ADM3	AE		03	100	121		15		3	Asia/Dubai	2024-08-30
+13060663	Al Jadaf	Al Jadaf	Al Jadaf,aljdaf,الجداف	25.21644	55.32769	A	ADM3	AE		03	300	326		6947		6	Asia/Dubai	2024-08-30
+13060664	Al Barsha First	Al Barsha First	Al Barsha First,albrshaʾ alawly,البرشاء الأولى	25.11103	55.19498	A	ADM3	AE		03	300	373		41532		2	Asia/Dubai	2024-08-30
+13060665	Al Safa First	Al Safa First	Al Safa First,alsfa alawly,الصفا الأولى	25.17569	55.23831	A	ADM3	AE		03	300	353		9043		1	Asia/Dubai	2024-08-30
+13060666	Port Saeed	Port Saeed	Port Saeed,bwr sʿyd,بور سعيد	25.25101	55.33272	A	ADM3	AE		03	100	129		14241		9	Asia/Dubai	2024-08-30
+13060667	Warsan Fourth	Warsan Fourth	Warsan Fourth,wrsan alrabʿt,ورسان الرابعة	25.14289	55.40545	A	ADM3	AE		03	600	624		10104		25	Asia/Dubai	2024-08-30
+13060668	Ras Al Khor Ind. Third	Ras Al Khor Ind. Third	Ras Al Khor Ind. Third,ras alkhwr alsnaʿyt althaltht,رأس الخور الصناعية الثالثة	25.17367	55.38183	A	ADM3	AE		03	600	614		22247		7	Asia/Dubai	2024-08-30
+13060669	Al Buteen	Al Buteen	Al Buteen,albtyn,البطين	25.2687	55.29976	A	ADM3	AE		03	100	114		3016		7	Asia/Dubai	2024-08-30
+13060670	Al Muteena	Al Muteena	Al Muteena,almtynt,المطينة	25.27395	55.32282	A	ADM3	AE		03	100	123		48739		2	Asia/Dubai	2024-08-30
+13060671	Burj Khalifa	Burj Khalifa	Burj Khalifa,brj khlyft,برج خليفة	25.19517	55.27571	A	ADM3	AE		03	300	345		21862		1	Asia/Dubai	2024-08-30
+13060672	Al Nahda Second	Al Nahda Second	Al Nahda Second,alnhdt althanyt,النهدة الثانية	25.29081	55.37774	A	ADM3	AE		03	200	241		64458		9	Asia/Dubai	2024-08-30
+13060673	Saih Shua'Alah	Saih Shua'Alah	Saih Shua'Alah,syh shʿylh,سيح شعيله	24.66048	55.42137	A	ADM3	AE		03	900	978		3		147	Asia/Dubai	2024-08-30
+13060674	Hessyan Second	Hessyan Second	Hessyan Second,hsyan althanyt,حصيان الثانية	24.9322	54.94835	A	ADM3	AE		03	500	512		10381		3	Asia/Dubai	2024-08-30
+13060675	Business Bay	Business Bay	Business Bay,alkhlyj altjary,الخليج التجاري	25.18316	55.27074	A	ADM3	AE		03	300	346		23943		5	Asia/Dubai	2024-08-30
+13060676	Al Barsha South Fifth	Al Barsha South Fifth	Al Barsha South Fifth,albrshaʾ jnwb alkhamst,البرشاء جنوب الخامسة	25.04486	55.18669	A	ADM3	AE		03	600	684		7809		2	Asia/Dubai	2024-08-30
+13060677	Nadd Al Shiba Second	Nadd Al Shiba Second	Nadd Al Shiba Second,nd alshba althanyt,ند الشبا الثانية	25.15907	55.34775	A	ADM3	AE		03	600	615		2569		8	Asia/Dubai	2024-08-30
+13060678	Jabal Ali Second	Jabal Ali Second	Jabal Ali Second,jbl ʿly althanyt,جبل علي الثانية	25.05398	55.11528	A	ADM3	AE		03	500	592		1008		5	Asia/Dubai	2024-08-30
+13060679	Al Kheeran First	Al Kheeran First	Al Kheeran First,alkhyran alawly,الخيران الأولى	25.19758	55.35768	A	ADM3	AE		03	400	415		2086		1	Asia/Dubai	2024-08-30
+13060680	Al Safa Second	Al Safa Second	Al Safa Second,alsfa althanyt,الصفا الثانية	25.15958	55.22543	A	ADM3	AE		03	300	357		7062		-1	Asia/Dubai	2024-08-30
+13060681	Al Wasl	Al Wasl	Al Wasl,alwsl,الوصل	25.19639	55.25505	A	ADM3	AE		03	300	343		12185		2	Asia/Dubai	2024-08-30
+13060682	Al Garhoud	Al Garhoud	Al Garhoud,alqrhwd,القرهود	25.24247	55.35038	A	ADM3	AE		03	200	214		19726		-5	Asia/Dubai	2024-08-30
+13060683	Nadd Al Shiba First	Nadd Al Shiba First	Nadd Al Shiba First,nd alshba alawly,ند الشبا الأولى	25.14481	55.31438	A	ADM3	AE		03	600	618		6589		4	Asia/Dubai	2024-08-30
+13060684	Hatta	Hatta	Hatta,hta,حتا	24.81021	56.13918	A	ADM3	AE		03	800	891		14985		293	Asia/Dubai	2024-10-11
+13060685	Umm Suqeim Third	Umm Suqeim Third	Umm Suqeim Third,am sqym althaltht,أم سقيم الثالثة	25.1389	55.19355	A	ADM3	AE		03	300	366		7777		0	Asia/Dubai	2024-08-30
+13060686	Umm Al Mo'Meneen	Umm Al Mo'Meneen	Umm Al Mo'Meneen,am almwmnyn,أم المؤمنين	24.99114	55.51223	A	ADM3	AE		03	800	835		169		109	Asia/Dubai	2024-08-30
+13060687	Mirdif	Mirdif	Mirdif,mrdf,مردف	25.22296	55.42185	A	ADM3	AE		03	200	251		66736		26	Asia/Dubai	2024-08-30
+13060688	Al Twar Second	Al Twar Second	Al Twar Second,altwar althanyt,الطوار الثانية	25.26142	55.38192	A	ADM3	AE		03	200	227		5068		6	Asia/Dubai	2024-08-30
+13060689	Me'Aisem First	Me'Aisem First	Me'Aisem First,mʿysm alawly,معيصم الأولى	25.02049	55.18788	A	ADM3	AE		03	600	685		18484		3	Asia/Dubai	2024-08-30
+13060690	Trade Center Second	Trade Center Second	Trade Center Second,almrkz altjary althanyt,المركز التجاري الثانية	25.21766	55.2827	A	ADM3	AE		03	300	336		13515		7	Asia/Dubai	2024-08-30
+13060691	Muhaisnah First	Muhaisnah First	Muhaisnah First,mhysnt alawly,محيصنة الأولى	25.24444	55.41711	A	ADM3	AE		03	200	261		8616		14	Asia/Dubai	2024-08-30
+13060692	Al Warqa'A Second	Al Warqa'A Second	Al Warqa'A Second,alwrqaʾ althanyt,الورقاء الثانية	25.20286	55.40894	A	ADM3	AE		03	400	422		11323		15	Asia/Dubai	2024-08-30
+13060693	Al Wuheida	Al Wuheida	Al Wuheida,alwhydt,الوحيدة	25.29107	55.33686	A	ADM3	AE		03	100	132		21608		2	Asia/Dubai	2024-08-30
+13060694	Oud Al Muteena Second	Oud Al Muteena Second	Oud Al Muteena Second,ʿwd almtynt althanyt,عود المطينة الثانية	25.27457	55.44842	A	ADM3	AE		03	200	268		7061		10	Asia/Dubai	2024-08-30
+13060695	Zaa'Beel Second	Zaa'Beel Second	Zaa'Beel Second,zʿbyl althanyt,زعبيل الثانية	25.20257	55.29632	A	ADM3	AE		03	300	337		8568		10	Asia/Dubai	2024-08-30
+13060696	Al Merkadh	Al Merkadh	Al Merkadh,almrkad,المركاض	25.17041	55.2925	A	ADM3	AE		03	300	347		1817		-1	Asia/Dubai	2024-08-30
+13060697	Al Twar Third	Al Twar Third	Al Twar Third,altwar althaltht,الطوار الثالثة	25.24954	55.39588	A	ADM3	AE		03	200	228		11185		14	Asia/Dubai	2024-08-30
+13060698	Jabal Ali Industrial Second	Jabal Ali Industrial Second	Jabal Ali Industrial Second,jbl ʿly alsnaʿyt althanyt,جبل علي الصناعية الثانية	24.95469	55.10503	A	ADM3	AE		03	500	518		28000		5	Asia/Dubai	2024-08-30
+13060699	Al Ttay	Al Ttay	Al Ttay,alty,الطي	25.23823	55.54546	A	ADM3	AE		03	200	284		10659		59	Asia/Dubai	2024-08-30
+13060700	Al Barsha Third	Al Barsha Third	Al Barsha Third,albrshaʾ althaltht,البرشاء الثالثة	25.09215	55.19869	A	ADM3	AE		03	300	375		15401		2	Asia/Dubai	2024-08-30
+13060701	Al Mizhar Third	Al Mizhar Third	Al Mizhar Third,almzhr althaltht,المزهر الثالثة	25.26414	55.46428	A	ADM3	AE		03	200	266		5820		25	Asia/Dubai	2024-08-30
+13060702	Umm Eselay	Umm Eselay	Umm Eselay,am alsly,أم السلي	24.86608	55.59839	A	ADM3	AE		03	800	847		216		191	Asia/Dubai	2024-08-30
+13060703	Al Satwa	Al Satwa	Al Satwa,alstwt,السطوة	25.21995	55.27343	A	ADM3	AE		03	300	334		40997		5	Asia/Dubai	2024-08-30
+13060704	Al Hebiah Third	Al Hebiah Third	Al Hebiah Third,alhbyh althaltht,الحبيه الثالثة	25.02245	55.25455	A	ADM3	AE		03	600	676		7238		21	Asia/Dubai	2024-08-30
+13060705	Ras Al Khor	Ras Al Khor	Ras Al Khor,ras alkhwr,راس الخور	25.19401	55.3278	A	ADM3	AE		03	400	413		2		0	Asia/Dubai	2024-08-30
+13060706	Nadd Hessa	Nadd Hessa	Nadd Hessa,nd hsh,ند حصه	25.12429	55.38623	A	ADM3	AE		03	600	626		40819		17	Asia/Dubai	2024-08-30
+13060707	Saih Shuaib 1	Saih Shuaib 1	Saih Shuaib 1,syh shʿyb 1,سيح شعيب 1	24.89476	55.00138	A	ADM3	AE		03	500	513		16		18	Asia/Dubai	2024-08-30
+13060708	Wadi Al Safa 6	Wadi Al Safa 6	Wadi Al Safa 6,wady alsfa 6,وادي الصفا 6	25.05118	55.27172	A	ADM3	AE		03	600	664		18856		21	Asia/Dubai	2024-08-30
+13060709	Muhaisanah Fourth	Muhaisanah Fourth	Muhaisanah Fourth,mhysnt alrabʿt,محيصنة الرابعة	25.27912	55.40894	A	ADM3	AE		03	200	245		35861		14	Asia/Dubai	2024-08-30
+13060710	Le Hemaira	Le Hemaira	Le Hemaira,alhmyra,الحميرا	25.03269	55.48446	A	ADM3	AE		03	800	826		56		91	Asia/Dubai	2024-08-30
+13060711	Umm Hurair Second	Umm Hurair Second	Umm Hurair Second,am hryr althanyt,أم هرير الثانية	25.23643	55.32374	A	ADM3	AE		03	300	315		5633		4	Asia/Dubai	2024-08-30
+13060712	Warsan Second	Warsan Second	Warsan Second,wrsan althanyt,ورسان الثانية	25.15868	55.43689	A	ADM3	AE		03	600	622		1409		49	Asia/Dubai	2024-08-30
+13060713	Al Safouh Second	Al Safouh Second	Al Safouh Second,alsfwh althanyt,الصفوح الثانية	25.10171	55.16173	A	ADM3	AE		03	300	382		6478		0	Asia/Dubai	2024-08-30
+13060714	Warsan First	Warsan First	Warsan First,wrsan alawly,ورسان الأولى	25.16521	55.40983	A	ADM3	AE		03	600	621		108176		12	Asia/Dubai	2024-08-30
+13060715	Al Safouh First	Al Safouh First	Al Safouh First,alsfwh alawly,الصفوح الأولى	25.12044	55.18303	A	ADM3	AE		03	300	372		4686		-1	Asia/Dubai	2024-08-30
+13060716	Al Kheeran	Al Kheeran	Al Kheeran,alkhyran,الخيران	25.21843	55.35936	A	ADM3	AE		03	400	412		5270		10	Asia/Dubai	2024-08-30
+13060717	Al Thanyah Third	Al Thanyah Third	Al Thanyah Third,althnyh althaltht,الثنيه الثالثة	25.08513	55.16612	A	ADM3	AE		03	300	388		22394		2	Asia/Dubai	2024-08-30
+13060718	Saih Shuaib 4	Saih Shuaib 4	Saih Shuaib 4,syh shʿyb 4,سيح شعيب 4	24.82372	55.09608	A	ADM3	AE		03	500	533		10766		61	Asia/Dubai	2024-08-30
+13060719	Umm Al Daman	Umm Al Daman	Umm Al Daman,am aldmn,أم الدمن	25.06022	55.45743	A	ADM3	AE		03	800	824		299		66	Asia/Dubai	2024-08-30
+13060720	Al Thanyah Fifth	Al Thanyah Fifth	Al Thanyah Fifth,althnyh alkhamst,الثنيه الخامسة	25.05581	55.15426	A	ADM3	AE		03	300	393		40957		18	Asia/Dubai	2024-08-30
+13060721	Al Qouz Fourth	Al Qouz Fourth	Al Qouz Fourth,alqwz alrabʿt,القوز الرابعة	25.15148	55.25421	A	ADM3	AE		03	300	359		21691		8	Asia/Dubai	2024-08-30
+13060722	Al Thanyah Second	Al Thanyah Second	Al Thanyah Second,althnyh althanyt,الثنيه الثانية	25.0801	55.19071	A	ADM3	AE		03	300	384		0		-1	Asia/Dubai	2024-08-29
+13060723	Al Rowaiyah Second	Al Rowaiyah Second	Al Rowaiyah Second,alrwyh althanyt,الرويه الثانية	25.10529	55.39808	A	ADM3	AE		03	800	813		0		29	Asia/Dubai	2024-08-29
+13060724	Hor Al Anz	Hor Al Anz	Hor Al Anz,hwr alʿnz,هور العنز	25.27691	55.33678	A	ADM3	AE		03	100	127		84661		5	Asia/Dubai	2024-08-30
+13060725	Riggat Al Buteen	Riggat Al Buteen	Riggat Al Buteen,rqt albtyn,رقة البطين	25.25867	55.31918	A	ADM3	AE		03	100	125		7538		1	Asia/Dubai	2024-08-30
+13060726	Umm Hurair First	Umm Hurair First	Umm Hurair First,am hryr alawly,أم هرير الأولى	25.25385	55.31213	A	ADM3	AE		03	300	314		6482		3	Asia/Dubai	2024-08-30
+13060727	Al Yalayis 3	Al Yalayis 3	Al Yalayis 3,alylays 3,اليلايس 3	24.97342	55.34571	A	ADM3	AE		03	900	923		4		55	Asia/Dubai	2024-08-30
+13060728	Hadaeq Sheikh Mohammed Bin Rashid	Hadaeq Sheikh Mohammed Bin Rashid	Hadaeq Sheikh Mohammed Bin Rashid,hdayq alshykh mhmd bn rashd,حدائق الشيخ محمد بن راشد	25.09647	55.26753	A	ADM3	AE		03	600	631		3356		13	Asia/Dubai	2024-08-30
+13060729	Al Yufrah 2	Al Yufrah 2	Al Yufrah 2,alyfrh 2,اليفره 2	24.96644	55.38973	A	ADM3	AE		03	900	919		3		63	Asia/Dubai	2024-08-30
+13060730	Al Jafiliya	Al Jafiliya	Al Jafiliya,aljaflyt,الجافلية	25.23763	55.28685	A	ADM3	AE		03	300	323		25033		2	Asia/Dubai	2024-08-30
+13060731	Lehbab Second	Lehbab Second	Lehbab Second,lhbab althanyt,لهباب الثانية	25.02939	55.55479	A	ADM3	AE		03	800	831		1601		108	Asia/Dubai	2024-08-30
+13060732	Hessyan First	Hessyan First	Hessyan First,hsyan alawly,حصيان الأولى	24.95656	55.02136	A	ADM3	AE		03	500	511		3341		1	Asia/Dubai	2024-08-30
+13060733	Al Souq Al Kabeer	Al Souq Al Kabeer	Al Souq Al Kabeer,alswq alkbyr,السوق الكبير	25.26226	55.2937	A	ADM3	AE		03	300	312		52439		17	Asia/Dubai	2024-08-30
+13060734	Ghadeer Al Tair	Ghadeer Al Tair	Ghadeer Al Tair,ghdyr altyr,غدير الطير	25.15153	55.27093	A	ADM3	AE		03	300	355		5543		-8	Asia/Dubai	2024-08-30
+13060735	Margham	Margham	Margham,mrghm,مرغم	24.94565	55.5882	A	ADM3	AE		03	800	841		1217		168	Asia/Dubai	2024-08-30
+13060736	Al Raffa	Al Raffa	Al Raffa,alrfaʿt,الرفاعة	25.25442	55.28825	A	ADM3	AE		03	300	316		48546		4	Asia/Dubai	2024-08-30
+13060737	Al Qusais Second	Al Qusais Second	Al Qusais Second,alqsys althanyt,القصيص الثانية	25.26936	55.38721	A	ADM3	AE		03	200	233		12851		8	Asia/Dubai	2024-08-30
+13060738	Ras Al Khor Ind. First	Ras Al Khor Ind. First	Ras Al Khor Ind. First,ras alkhwr alsnaʿyt alawly,رأس الخور الصناعية الأولى	25.17776	55.33867	A	ADM3	AE		03	600	612		2160		3	Asia/Dubai	2024-08-30
+13060739	Jumeira Second	Jumeira Second	Jumeira Second,jmyra althanyt,جميرا الثانية	25.2009	55.24017	A	ADM3	AE		03	300	342		10660		2	Asia/Dubai	2024-08-30
+13060740	Al Thanyah First	Al Thanyah First	Al Thanyah First,althnyh alawly,الثنيه الأولى	25.09833	55.17585	A	ADM3	AE		03	300	383		25778		-1	Asia/Dubai	2024-08-30
+13060741	Al Barsha South Third	Al Barsha South Third	Al Barsha South Third,albrshaʾ jnwb althaltht,البرشاء جنوب الثالثة	25.06067	55.23651	A	ADM3	AE		03	600	673		8573		22	Asia/Dubai	2024-08-30
+13060742	Mushraif	Mushraif	Mushraif,mshrf,مشرف	25.21138	55.45003	A	ADM3	AE		03	200	252		70		40	Asia/Dubai	2024-08-30
+13060743	Lehbab First	Lehbab First	Lehbab First,lhbab alawly,لهباب الأولى	25.0591	55.60846	A	ADM3	AE		03	700	731		3389		116	Asia/Dubai	2024-08-30
+13060744	Madinat Hind 2	Madinat Hind 2	Madinat Hind 2,mdynt hnd 2,مدينة هند 2	25.05606	55.33815	A	ADM3	AE		03	900	912		2		31	Asia/Dubai	2024-08-30
+13060745	Dubai Investment Park Second	Dubai Investment Park Second	Dubai Investment Park Second,mjmʿ dby llastthmar althany,مجمع دبي للاستثمار الثاني	24.97403	55.21045	A	ADM3	AE		03	500	597		80118		30	Asia/Dubai	2024-08-30
+13060746	Bu Kadra	Bu Kadra	Bu Kadra,bw kdrt,بو كدرة	25.17676	55.32584	A	ADM3	AE		03	600	611		112		8	Asia/Dubai	2024-08-30
+13060747	Al Yalayis 1	Al Yalayis 1	Al Yalayis 1,alylays 1,اليلايس 1	25.01789	55.30976	A	ADM3	AE		03	900	921		1679		43	Asia/Dubai	2024-08-30
+13060748	Madinat Hind 3	Madinat Hind 3	Madinat Hind 3,mdynt hnd 3,مدينة هند 3	25.0311	55.42021	A	ADM3	AE		03	900	913		3623		55	Asia/Dubai	2024-08-30
+13060749	Jumeira First	Jumeira First	Jumeira First,jmyra alawly,جميرا الأولى	25.22975	55.25389	A	ADM3	AE		03	300	332		21496		1	Asia/Dubai	2024-08-30
+13060750	Al Hebiah Fourth	Al Hebiah Fourth	Al Hebiah Fourth,alhbyh alrabʿt,الحبيه الرابعة	25.0319	55.21961	A	ADM3	AE		03	600	682		21609		22	Asia/Dubai	2024-08-30
+13060751	Mereiyeel	Mereiyeel	Mereiyeel,mryyl,مرييل	25.09523	55.5129	A	ADM3	AE		03	800	821		424		97	Asia/Dubai	2024-08-30
+13060752	Jumeira Bay	Jumeira Bay	Jumeira Bay,jmyra bay,جميرا باي	25.21538	55.23247	A	ADM3	AE		03	300	302		41		-9999	Asia/Dubai	2024-08-30
+13060753	Al Yalayis 4	Al Yalayis 4	Al Yalayis 4,alylays 4,اليلايس 4	24.96585	55.32006	A	ADM3	AE		03	900	924		8		53	Asia/Dubai	2024-08-30
+13060754	Al Qusais First	Al Qusais First	Al Qusais First,alqsys alawly,القصيص الأولى	25.27807	55.37245	A	ADM3	AE		03	200	232		48378		4	Asia/Dubai	2024-08-30
+13060755	Al Rowaiyah Third	Al Rowaiyah Third	Al Rowaiyah Third,alrwyh althaltht,الرويه الثالثة	25.11628	55.46799	A	ADM3	AE		03	800	814		4897		61	Asia/Dubai	2024-08-30
+13060756	Al Daghaya	Al Daghaya	Al Daghaya,aldghayt,الضغاية	25.27263	55.30004	A	ADM3	AE		03	100	113		16723		9	Asia/Dubai	2024-08-30
+13060757	Wadi Al Safa 3	Wadi Al Safa 3	Wadi Al Safa 3,wady alsfa 3,وادي الصفا 3	25.10811	55.3155	A	ADM3	AE		03	600	645		10270		9	Asia/Dubai	2024-08-30
+13060758	Madinat Hind 1	Madinat Hind 1	Madinat Hind 1,mdynt hnd 1,مدينة هند 1	25.06522	55.38548	A	ADM3	AE		03	900	911		8		42	Asia/Dubai	2024-08-30
+13060759	Madinat Dubai Al Melaheyah	Madinat Dubai Al Melaheyah	Madinat Dubai Al Melaheyah,mdynt dby almlahyt,مدينة دبي الملاحية	25.27463	55.26945	A	ADM3	AE		03	300	321		8391		-9999	Asia/Dubai	2024-08-30
+13060760	Ras Al Khor Ind. Second	Ras Al Khor Ind. Second	Ras Al Khor Ind. Second,ras alkhwr alsnaʿyt althanyt,رأس الخور الصناعية الثانية	25.17753	55.35751	A	ADM3	AE		03	600	613		1833		6	Asia/Dubai	2024-08-30
+13060761	Wadi Alshabak	Wadi Alshabak	Wadi Alshabak,wady alshbk,وادي الشبك	25.1762	55.48404	A	ADM3	AE		03	400	431		3		54	Asia/Dubai	2024-08-30
+13060762	Al Twar First	Al Twar First	Al Twar First,altwar alawly,الطوار الأولى	25.2716	55.36286	A	ADM3	AE		03	200	226		12114		3	Asia/Dubai	2024-08-30
+13060763	Al Warqa'A Fifth	Al Warqa'A Fifth	Al Warqa'A Fifth,alwrqaʾ alkhamst,الورقاء الخامسة	25.18026	55.45388	A	ADM3	AE		03	400	425		0		20	Asia/Dubai	2024-08-29
+13060764	Al Hebiah Sixth	Al Hebiah Sixth	Al Hebiah Sixth,alhbyh alsadst,الحبيه السادسة	25.01727	55.2676	A	ADM3	AE		03	600	677		2455		21	Asia/Dubai	2024-08-30
+13060765	Al Yufrah 1	Al Yufrah 1	Al Yufrah 1,alyfrh 1,اليفره 1	25.00241	55.43255	A	ADM3	AE		03	900	915		403		72	Asia/Dubai	2024-08-30
+13060766	Al Qouz Ind.Fourth	Al Qouz Ind.Fourth	Al Qouz Ind.Fourth,alqwz alsnaʿyt alrabʿt,القوز الصناعية الرابعة	25.11606	55.23313	A	ADM3	AE		03	300	369		38761		2	Asia/Dubai	2024-08-30
+13060767	Jumeira Island 2	Jumeira Island 2	Jumeira Island 2,jzyrt jmyra althanyt,جزيرة جميرا الثانية	25.19832	55.22618	A	ADM3	AE		03	300	304		3		-9999	Asia/Dubai	2024-08-30
+13060768	Madinat Latifa	Madinat Latifa	Madinat Latifa,mdynt ltyft,مدينة لطيفة	24.89109	55.2757	A	ADM3	AE		03	900	961		684		63	Asia/Dubai	2024-08-30
+13060769	Jabal Ali Industrial Third	Jabal Ali Industrial Third	Jabal Ali Industrial Third,jbl ʿly alsnaʿyt althaltht,جبل علي الصناعية الثالثة	24.92076	55.05716	A	ADM3	AE		03	500	516		0		14	Asia/Dubai	2024-08-29
+13060770	Nadd Al Shiba Fourth	Nadd Al Shiba Fourth	Nadd Al Shiba Fourth,nd alshba alrabʿt,ند الشبا الرابعة	25.1362	55.36421	A	ADM3	AE		03	600	617		3898		12	Asia/Dubai	2024-08-30
+13060771	Dubai Investment Park First	Dubai Investment Park First	Dubai Investment Park First,mjmʿ dby llastthmar alawl,مجمع دبي للاستثمار الأول	24.98818	55.16508	A	ADM3	AE		03	500	598		63094		11	Asia/Dubai	2024-08-30
+13060772	Umm Suqeim First	Umm Suqeim First	Umm Suqeim First,am sqym alawly,أم سقيم الأولى	25.16655	55.21585	A	ADM3	AE		03	300	356		12468		6	Asia/Dubai	2024-08-30
+13060773	Wadi Al Safa 7	Wadi Al Safa 7	Wadi Al Safa 7,wady alsfa 7,وادي الصفا 7	25.03982	55.28558	A	ADM3	AE		03	600	665		8957		33	Asia/Dubai	2024-08-30
+13060774	Al Hudaiba	Al Hudaiba	Al Hudaiba,alhdybt,الحضيبة	25.24255	55.27917	A	ADM3	AE		03	300	322		14504		2	Asia/Dubai	2024-08-30
+13060775	Al Qouz Ind.Third	Al Qouz Ind.Third	Al Qouz Ind.Third,alqwz alsnaʿyt althaltht,القوز الصناعية الثالثة	25.12575	55.21798	A	ADM3	AE		03	300	368		17306		4	Asia/Dubai	2024-08-30
+13060776	Naif	Naif	Naif,nayf,نايف	25.27219	55.31022	A	ADM3	AE		03	100	118		53075		16	Asia/Dubai	2024-08-30
+13060777	Al Qusais Ind. First	Al Qusais Ind. First	Al Qusais Ind. First,alqsys alsnaʿyt alawly,القصيص الصناعية الأولى	25.28669	55.38657	A	ADM3	AE		03	200	242		10813		6	Asia/Dubai	2024-08-30

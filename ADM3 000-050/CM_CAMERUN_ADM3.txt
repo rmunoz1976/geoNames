@@ -1,0 +1,16 @@
+﻿2223415	Nwa Subdivision	Nwa Subdivision	Nwa,Nwa Subdivision	6.5	11	A	ADM3	CM		07		2223415		0		1131	Africa/Douala	2022-02-17
+2224412	Nguti Subdivision	Nguti Subdivision	Nguti,Nguti Subdivision	5.25	9.5	A	ADM3	CM		09		2224412		0		289	Africa/Douala	2022-02-17
+2225727	Muyuka	Muyuka		4.3	9.36667	A	ADM3	CM		09		2225727		0		124	Africa/Douala	2011-03-06
+2226514	Arrondissement de Minta	Arrondissement de Minta	Arrondissement de Minta,Minta	4.75	12.9	A	ADM3	CM		11		2226514		0		632	Africa/Douala	2026-03-10
+9239019	Tonga	Tonga		4.96936	10.70171	A	ADM3	CM		08		9239019		0		825	Africa/Douala	2014-07-18
+9239020	Bassamba	Bassamba		5.05	10.56667	A	ADM3	CM		08		9239020		0		1002	Africa/Douala	2014-07-18
+9239021	Baigom	Baigom		5.56657	10.68317	A	ADM3	CM		08		9239021		0		1152	Africa/Douala	2014-07-18
+10942936	Mayo Hourna	Mayo Hourna		9.28153	13.06626	A	ADM3	CM		13		10942936		0		172	Africa/Douala	2015-12-02
+11204756	Commune de Bertoua	Commune de Bertoua		4.575	13.68444	A	ADM3	CM		04		11204756		0		660	Africa/Douala	2016-07-22
+11204901	Nkum Commune	Nkum Commune		6.2	10.7	A	ADM3	CM		07		11204901		0		1793	Africa/Douala	2016-07-25
+11205303	Njikwa	Njikwa		6.08333	9.88333	A	ADM3	CM		07		11205303		0		1688	Africa/Douala	2016-07-29
+11205318	Mbouda	Mbouda		5.62	10.25	A	ADM3	CM		08		11205318		0		1411	Africa/Douala	2016-07-29
+11205544	Commune de Mora	Commune de Mora		11.0425	14.14472	A	ADM3	CM		12		11205544		0		451	Africa/Douala	2016-08-02
+11257194	Pitoa	Pitoa		9.38333	13.5333	A	ADM3	CM		13		11257194		0		207	Africa/Douala	2016-12-18
+11257197	Rey-Bouba	Rey-Bouba		8.6724	14.1786	A	ADM3	CM		13		11257197		0		235	Africa/Douala	2016-09-17
+11288837	Wabane	Wabane		5.1573	9.3673	A	ADM3	CM		09		11288837		0		367	Africa/Douala	2016-11-23

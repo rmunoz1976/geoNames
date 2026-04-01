@@ -1,0 +1,56 @@
+﻿6727921	Chadakori Commune	Chadakori Commune		13.67567	6.9891	A	ADM3	NE		04		6727921		0		348	Africa/Niamey	2016-07-11
+10303664	Gorouol	Gorouol		13.5	1.01667	A	ADM3	NE		08		10303664		0		318	Africa/Niamey	2015-06-09
+10342755	Niamey (Commune III)	Niamey (Commune III)		13.52333	2.12944	A	ADM3	NE		08		10342755		0		224	Africa/Niamey	2016-09-02
+10942955	N'Gonga	N'Gonga		13.17278	2.83194	A	ADM3	NE		03		10942955		0		205	Africa/Niamey	2016-07-11
+10942956	Tombokoirey II	Tombokoirey II		13.27083	3.6925	A	ADM3	NE		03		10942956		0		229	Africa/Niamey	2016-07-11
+10942957	Azagor	Azagor		14.66389	6.91722	A	ADM3	NE		04		10942957		0		392	Africa/Niamey	2016-07-11
+10942958	Attantane	Attantane		14.14333	7.31389	A	ADM3	NE		04		10942958		0		409	Africa/Niamey	2016-07-11
+10942959	Babankatami	Babankatami		14.52472	6.25722	A	ADM3	NE		06		10942959		0		375	Africa/Niamey	2016-07-11
+10942960	Baoudetta	Baoudetta		14.62222	8.11194	A	ADM3	NE		07		10942960		0		453	Africa/Niamey	2016-07-11
+10943031	Dan-Kassari	Dan-Kassari		13.52333	3.17889	A	ADM3	NE		03		10943031		0		220	Africa/Niamey	2016-07-11
+10943033	Kourteye	Kourteye		13.8489	1.60694	A	ADM3	NE		08		10943033		0		200	Africa/Niamey	2016-07-11
+10943034	Affala	Affala		15.58861	4.79111	A	ADM3	NE		06		10943034		0		360	Africa/Niamey	2016-07-11
+10943047	Tondikiwindi	Tondikiwindi		14.46056	2.03139	A	ADM3	NE		08		10943047		0		232	Africa/Niamey	2015-12-04
+10943050	Maiyara	Maiyara		13.97417	7.31528	A	ADM3	NE		04		10943050		0		396	Africa/Niamey	2016-07-11
+11001329	N'Guelbely	N'Guelbely		13.64806	11.74056	A	ADM3	NE		02		11001329		0		324	Africa/Niamey	2016-07-11
+11001431	Tchake	Tchake		14.3875	8.18556	A	ADM3	NE		07		11001431		0		446	Africa/Niamey	2016-07-11
+11001721	Tamaya	Tamaya		15.62167	5.74667	A	ADM3	NE		06		11001721		0		483	Africa/Niamey	2016-07-11
+11001722	Kwaya	Kwaya		13.10472	8.62833	A	ADM3	NE		07		11001722		0		450	Africa/Niamey	2016-07-11
+11001723	Tsaouni	Tsaouni		13.38611	8.45389	A	ADM3	NE		07		11001723		0		470	Africa/Niamey	2016-07-11
+11001724	Tombokoirey I	Tombokoirey I		11.93139	3.3	A	ADM3	NE		03		11001724		0		166	Africa/Niamey	2016-07-11
+11001725	Inates	Inates		13.96889	3.19833	A	ADM3	NE		08		11001725		0		219	Africa/Niamey	2016-07-11
+11001726	Azeye	Azeye		15.66722	6.37389	A	ADM3	NE		06		11001726		0		460	Africa/Niamey	2016-07-11
+11002094	Bibiyergou	Bibiyergou		14.52667	1.27889	A	ADM3	NE		08		11002094		0		231	Africa/Niamey	2016-07-11
+11002095	El Allassane Maireyrey	El Allassane Maireyrey		14.16778	8.10917	A	ADM3	NE		04		11002095		0		436	Africa/Niamey	2016-07-11
+11002096	Tagazar	Tagazar		13.7525	2.98167	A	ADM3	NE		08		11002096		0		206	Africa/Niamey	2016-07-11
+11002097	Dingazi	Dingazi		14.18	2.55389	A	ADM3	NE		08		11002097		0		242	Africa/Niamey	2016-07-11
+11002098	Anzourou	Anzourou		14.48611	1.305	A	ADM3	NE		08		11002098		0		242	Africa/Niamey	2016-07-11
+11002101	Tenhya	Tenhya		14.11722	8.85639	A	ADM3	NE		07		11002101		0		467	Africa/Niamey	2016-07-11
+11154523	Gougaram	Gougaram		18.4825	7.78444	A	ADM3	NE		01		11154523		0		489	Africa/Niamey	2016-07-11
+11154524	Iferouane	Iferouane		19.06667	8.4	A	ADM3	NE		01		11154524		0		655	Africa/Niamey	2016-07-11
+11154526	Timia	Timia		18.11444	8.77917	A	ADM3	NE		01		11154526		0		1095	Africa/Niamey	2016-07-11
+11184745	Sabon Mashi	Sabon Mashi		13.87167	6.97417	A	ADM3	NE		04		11184745		0		363	Africa/Niamey	2016-07-11
+11184746	Dan Goulbi Commune	Dan Goulbi Commune		13.94911	6.55501	A	ADM3	NE		04		11184746		0		325	Africa/Niamey	2016-07-11
+11184747	Guidan Roumji Commune	Guidan Roumji Commune		13.655	6.69444	A	ADM3	NE		04		11184747		0		318	Africa/Niamey	2016-07-11
+11184748	Guidan Sori Commune	Guidan Sori Commune		13.53444	6.87444	A	ADM3	NE		04		11184748		0		350	Africa/Niamey	2016-07-11
+11184749	Tibiri Commune	Tibiri Commune		13.5612	7.4803	A	ADM3	NE		04		11184749		0		402	Africa/Niamey	2016-07-11
+11184750	Sae Saboua	Sae Saboua		13.57711	7.3616	A	ADM3	NE		04		11184750		0		417	Africa/Niamey	2016-07-11
+11184752	Djirataoua Commune	Djirataoua Commune		13.46633	7.23488	A	ADM3	NE		04		11184752		0		410	Africa/Niamey	2016-06-13
+11184754	Tchadoua Commune	Tchadoua Commune		13.54648	7.44618	A	ADM3	NE		04	8624179	11184754		0		396	Africa/Niamey	2018-01-06
+11184755	Aguie Commune	Aguie Commune		13.46981	7.74211	A	ADM3	NE		04		11184755		0		438	Africa/Niamey	2016-07-11
+11184756	Tessaoua Commune	Tessaoua Commune		13.62	7.93	A	ADM3	NE		04		11184756		0		405	Africa/Niamey	2016-07-11
+11184921	Serkin Haoussa Commune	Serkin Haoussa Commune		13.84444	7.58861	A	ADM3	NE		04		11184921		0		402	Africa/Niamey	2016-07-11
+11184924	Gazaoua Commune	Gazaoua Commune		13.53333	7.91667	A	ADM3	NE		04		11184924		0		404	Africa/Niamey	2016-07-11
+11184926	Maijirgiu Commune	Maijirgiu Commune		13.73861	8.13472	A	ADM3	NE		04		11184926		0		410	Africa/Niamey	2016-07-11
+11184927	Koona Commune	Koona Commune		13.55	8.05	A	ADM3	NE		04		11184927		0		411	Africa/Niamey	2016-07-11
+11204513	Tama	Tama		14.27965	4.64532	A	ADM3	NE		06		11204513		0		267	Africa/Niamey	2016-07-19
+11204520	Wacha Commune	Wacha Commune		13.36	9.3	A	ADM3	NE		07	2441474	11204520		0		382	Africa/Niamey	2016-07-19
+11205092	Commune de Bandé	Commune de Bande		13.27117	8.6265	A	ADM3	NE		07		11205092		0		446	Africa/Niamey	2016-07-27
+11205134	Commune de Tchirozerine	Commune de Tchirozerine		17.1054	7.8281	A	ADM3	NE		01		11205134		0		482	Africa/Niamey	2016-07-27
+11205327	Kalfou	Kalfou		14.86667	5.53333	A	ADM3	NE		06		11205327		0		419	Africa/Niamey	2016-07-29
+11205621	Malbaza	Malbaza		13.95972	5.50833	A	ADM3	NE		06		11205621		0		324	Africa/Niamey	2016-08-03
+11205640	Dungass	Dungass		13.06667	9.35	A	ADM3	NE		07		11205640		0		376	Africa/Niamey	2016-08-03
+11205642	Commune de Nguigmi	Commune de Nguigmi		14.25278	13.11083	A	ADM3	NE		02		11205642		0		286	Africa/Niamey	2016-08-03
+11205664	Commune de Tarka	Commune de Tarka		14.20417	8.83167	A	ADM3	NE		07		11205664		0		465	Africa/Niamey	2016-08-04
+11205735	N'Dounga	N'Dounga		13.35	2.24889	A	ADM3	NE		08		11205735		0		186	Africa/Niamey	2016-08-04
+11238745	Commune de Falmey	Commune de Falmey		12.6	2.85	A	ADM3	NE		03		11238745		0		181	Africa/Niamey	2016-08-28

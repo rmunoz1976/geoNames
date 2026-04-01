@@ -1,0 +1,6 @@
+﻿45060	Arvand Kenār	Arvand Kenar	Arvand Kenar,Arvand Kenār	30.05	48.46667	A	ADM3	IR		15	45060	45060		0		2	Asia/Tehran	2024-07-23
+66736	Bakhsh-e Shahrīār	Bakhsh-e Shahriar	Bakhsh-e Shahriar,Bakhsh-e Shahrīār,Shahriar,Shahryar,Shahrīār,bakhshi shahryar,shahryar,بَخشِ شَهريار,شَهريَر	35.66667	51.05	A	ADM3	IR		26		66736		0		1162	Asia/Tehran	2024-07-23
+401259	Ānzāl	Anzal	anzl,انزل	38.01768	45.13784	A	ADM3	IR		01	449444	401259		24523		1291	Asia/Tehran	2021-09-17
+401992	Vafs	Vafs	Vafs,wafs,وَفس	34.4225	49.37583	A	ADM3	IR		34		401992		0		1961	Asia/Tehran	2012-01-19
+1158958	Kalāt	Kalat	Kalat,Kalāt,kalat,كَلات	36.73333	60.11667	A	ADM3	IR		00		1158958		0		911	Asia/Tehran	2024-07-23
+12022296	Shahmirzad	Shahmirzad		35.77271	53.34059	A	ADM3	IR		25	124337	12022296		0		1951	Asia/Tehran	2019-01-30

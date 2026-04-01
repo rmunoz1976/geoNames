@@ -1,0 +1,3 @@
+﻿11503954	Eysturkommuna	Eysturkommuna	Eystur,Eystur Kommuna,Eysturkommuna	62.20399	-6.76039	A	ADM3	FO		00		11503954		0		183	Atlantic/Faroe	2017-04-09
+11503955	VágaKommuna	VagaKommuna	Vaga,VagaKommuna,Vága,VágaKommuna	62.09318	-7.20317	A	ADM3	FO		00		11503955		0		301	Atlantic/Faroe	2017-04-09
+11503957	Bíggjar Kommuna	Biggjar Kommuna	Biggjar,Biggjar Kommuna,Bíggjar,Bíggjar Kommuna	62.09923	-7.39992	A	ADM3	FO		00		11503957		0		50	Atlantic/Faroe	2017-04-09

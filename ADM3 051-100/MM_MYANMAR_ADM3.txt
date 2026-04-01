@@ -1,0 +1,330 @@
+﻿10177668	Pabedan Township	Pabedan Township		16.78028	96.15556	A	ADM3	MM		17	MMR013D004	MMR013034		29900		19	Asia/Yangon	2016-05-31
+10630435	Yankin Township	Yankin Township	ရနကငး မြနယ,ရန်ကင်း မြို့နယ်	16.82361	96.16278	A	ADM3	MM		17	MMR013D002	MMR013010		96660		17	Asia/Yangon	2016-06-06
+11154031	Hlegu	Hlegu	Hlegu Township	17.26782	96.20607	A	ADM3	MM		17	MMR013D001	MMR013004		196289		18	Asia/Yangon	2023-08-03
+11154032	Cocokyun	Cocokyun	Cocokyun Township,ကကးကျနး မြနယ,ကိုကိုးကျွန်း မြို့နယ်	14.87044	93.62202	A	ADM3	MM		17	MMR013D003	MMR013032		1676		25		2023-08-03
+11154033	Myaungmya	Myaungmya	Myaungmya Township,မြောငးမြမြနယ,မြောင်းမြမြို့နယ်	16.51579	94.89725	A	ADM3	MM		03	MMR017D003	MMR017014		282402		5	Asia/Yangon	2023-08-03
+11154034	Mawlamyinegyun	Mawlamyinegyun	Mawlamyinegyun Township,မောလမြငကျနးမြနယ,မော်လမြိုင်ကျွန်းမြို့နယ်	16.34545	95.26686	A	ADM3	MM		03	MMR017D004	MMR017018		339083		3	Asia/Yangon	2023-08-03
+11154035	Seikkan	Seikkan	Seikkan Township,ဆပကမး မြနယ,ဆိပ်ကမ်း မြို့နယ်	16.77008	96.15719	A	ADM3	MM		17	MMR013D004	MMR013045		1591		8	Asia/Yangon	2023-08-03
+11154036	Pazundaung	Pazundaung	Pazundaung Township,ပဇနတောင မြနယ,ပုဇွန်တောင် မြို့နယ်	16.77757	96.17494	A	ADM3	MM		17	MMR013D002	MMR013016		46672		12	Asia/Yangon	2023-08-03
+11154037	Hpakant	Hpakant	Hpakant Township,Kamaing,ဖားကနမြနယ,ဖားကန့်မြို့နယ်	25.68872	96.45001	A	ADM3	MM		04	MMR001D002	MMR001009		169795		381	Asia/Yangon	2023-08-01
+11154038	Minhla	Minhla	Minhla Township	19.74622	94.76052	A	ADM3	MM		15	MMR009D003	MMR009013		111065		458	Asia/Yangon	2023-08-06
+11154039	Seikgyikanaungto	Seikgyikanaungto	Seikkyi Kanaungto Township,ဆပကြးခနောငတ မြနယ,ဆိပ်ကြီးခနောင်တို မြို့နယ်	16.76403	96.10394	A	ADM3	MM		17	MMR013D003	MMR013031		31332		1	Asia/Yangon	2023-08-03
+11154040	Kangyidaunt	Kangyidaunt	Kangyidaunt Township,ကနကြးတောငမြနယ,ကန်ကြီးတောင့်မြို့နယ်	16.81141	94.87599	A	ADM3	MM		03	MMR017D001	MMR017002		165706		4	Asia/Yangon	2023-08-03
+11154041	Dagon	Dagon	Dagon,Dagon Township,ဒဂ မြနယ,ဒဂုံ မြို့နယ်	16.79192	96.14534	A	ADM3	MM		17	MMR013D004	MMR013043		23710		33	Asia/Yangon	2024-05-24
+11154042	Dawbon	Dawbon	Dawbon Township,ဒေါပ မြနယ,ဒေါပုံ မြို့နယ်	16.78832	96.1901	A	ADM3	MM		17	MMR013D002	MMR013014		77642		8	Asia/Yangon	2023-08-03
+11154043	Kyeemyindaing	Kyeemyindaing	Kyimyindaing Township,ကြညမြငတင မြနယ,ကြည့်မြင်တိုင် မြို့နယ်	16.80364	96.11598	A	ADM3	MM		17	MMR013D004	MMR013038		100248		9	Asia/Yangon	2023-08-03
+11154044	Nattalin	Nattalin	Nattalin Township	18.50516	95.7017	A	ADM3	MM		16	MMR008D002	MMR008012		165457		67	Asia/Yangon	2023-08-01
+11154045	Kyauktaga	Kyauktaga	Kyauktaga Township,kyawwattanhkarrmyahoetnaal,ကျောက်တံခါးမြို့နယ်	18.18867	96.34958	A	ADM3	MM		16	MMR007D001	MMR007006		257567		285	Asia/Yangon	2023-08-01
+11154046	Hlaing	Hlaing	Hlaing Township,လင မြနယ,လှိုင် မြို့နယ်	16.84765	96.12086	A	ADM3	MM		17	MMR013D004	MMR013040		118547		11	Asia/Yangon	2023-08-03
+11154047	Kawkareik	Kawkareik	Kawkareik Township,kotkaratemyahoetnaal,ကော့ကရိတ်မြို့နယ်	16.53778	98.14978	A	ADM3	MM		05	MMR003D003	MMR003006		303039		10	Asia/Yangon	2023-08-03
+11154048	Nansang	Nansang	Nansang Township,နမစနမြနယ,နမ့်စန်မြို့နယ်	20.87521	97.88187	A	ADM3	MM		11	MMR014D002	MMR014013		83570		1010	Asia/Yangon	2023-08-03
+11154049	Dawei	Dawei	Dawei Township,ထားဝယမြ,ထားဝယ်မြို့	13.90416	98.73524	A	ADM3	MM		12	MMR006D001	MMR006001		139788		624	Asia/Yangon	2023-08-05
+11154050	Insein	Insein	Insein Township,အငးစန ၿမ႕နယ,အင္းစိန္ ၿမိဳ႕နယ္	16.90257	96.10126	A	ADM3	MM		17	MMR013D001	MMR013001		249490		18	Asia/Yangon	2023-08-03
+11154051	Dagon Myothit (Seikkan)	Dagon Myothit (Seikkan)		16.88152	96.29808	A	ADM3	MM		17	MMR013D002	MMR013021		97785		7	Asia/Yangon	2016-05-31
+11154052	Dagon Myothit (North)	Dagon Myothit (North)	North Dagon Myothit	16.88083	96.18933	A	ADM3	MM		17	MMR013D002	MMR013019		178029		7	Asia/Yangon	2016-06-03
+11154053	Zalun	Zalun	Zalun Township,ဇလနမြနယ,ဇလွန်မြို့နယ်	17.47557	95.57555	A	ADM3	MM		03	MMR017D002	MMR017009		179381		5	Asia/Yangon	2023-08-03
+11154054	Daik-U	Daik-U	Daik-U Township	17.76782	96.57624	A	ADM3	MM		16	MMR007D001	MMR007007		212787		21	Asia/Yangon	2023-08-03
+11154055	Ingapu	Ingapu	Ingapu Township,အငဂပမြနယ,အင်္ဂပူမြို့နယ်	17.85381	95.14544	A	ADM3	MM		03	MMR017D002	MMR017013		213064		41	Asia/Yangon	2023-08-03
+11154056	Einme	Einme	Einme Township,အမမမြနယ,အိမ်မဲမြို့နယ်	16.77134	95.09937	A	ADM3	MM		03	MMR017D003	MMR017015		198772		7	Asia/Yangon	2023-08-03
+11154057	Hmawbi Township	Hmawbi Township	Hmawbi Township,mhaawbhemyahoetnaal,မှော်ဘီမြို့နယ်	17.1003	96.0409	A	ADM3	MM		17	MMR013D001	MMR013003		186370	50	9	Asia/Yangon	2023-08-06
+11154058	Lay Shi	Lay Shi	Layshi,Leshi,Leshi Township,လေရးမြနယ,လေရှီးမြို့နယ်	25.35594	94.89433	A	ADM3	MM		10	MMR005D008	MMR005035		0		931	Asia/Yangon	2023-08-03
+11154059	Kyonpyaw	Kyonpyaw	Kyonpyaw Township,ကျပျောမြနယ,ကျုံပျော်မြို့နယ်	17.31062	95.27709	A	ADM3	MM		03	MMR017D001	MMR017005		256488		11	Asia/Yangon	2023-08-03
+11154060	Momauk	Momauk	Momauk Township,မိုးမောက်မြို့နယ်,မးမောကမြနယ	24.51262	97.43595	A	ADM3	MM		04	MMR001D003	MMR001012		91434		177	Asia/Yangon	2023-08-02
+11154061	Minhla	Minhla	Minhla Township	17.9725	95.7405	A	ADM3	MM		16	MMR008D002	MMR008009		125929		26	Asia/Yangon	2023-08-03
+11154062	Tatkon	Tatkon	Tatkon Township	20.16095	96.14329	A	ADM3	MM		18	MMR018D001	MMR018003		0		178	Asia/Yangon	2023-08-02
+11154063	Zigon	Zigon	Zigon Township	18.34534	95.66342	A	ADM3	MM		16	MMR008D002	MMR008011		74560		35	Asia/Yangon	2023-08-02
+11154064	Kyaukkyi	Kyaukkyi	Kyaukkyi Township,ကျောကကြး မြနယ,ကျောက်ကြီး မြို့နယ	18.39379	96.83735	A	ADM3	MM		16	MMR007D002	MMR007011		106008		414	Asia/Yangon	2023-08-03
+11154065	Pyigyitagon	Pyigyitagon	Pyigyidagun Township,Pyigyitagun	21.90441	96.10094	A	ADM3	MM		08	MMR010D001	MMR010005		148367		74	Asia/Yangon	2023-08-02
+11154066	Thegon	Thegon	Thegon Township	18.62299	95.39966	A	ADM3	MM		16	MMR008D001	MMR008005		134186		26	Asia/Yangon	2023-08-02
+11154067	Oktwin	Oktwin	Oktwin Township	18.79888	96.20317	A	ADM3	MM		16	MMR007D002	MMR007013		160529		112	Asia/Yangon	2023-08-03
+11154068	Mahaaungmyay	Mahaaungmyay	Maha Aungmye,Mahaaungmye,မဟာအောငမြေ မြနယ,မဟာအောင်မြေ မြို့နယ်	21.96143	96.08679	A	ADM3	MM		08	MMR010D001	MMR010003		223338		80	Asia/Yangon	2016-06-03
+11154069	Mese	Mese	Mese Township	18.7337	97.55736	A	ADM3	MM		06	MMR002D002	MMR002007		5490		410	Asia/Yangon	2023-08-06
+11154070	Chaung-U	Chaung-U	Chaung-U Township,hkyaunggumyahoetnaal,ချောင်းဦးမြို့နယ်	21.92385	95.26735	A	ADM3	MM		10	MMR005D003	MMR005015		108893		70	Asia/Yangon	2023-08-02
+11154071	Kamma	Kamma	Kamma Township	19.03815	94.96447	A	ADM3	MM		15	MMR009D003	MMR009015		71717		99	Asia/Yangon	2023-08-06
+11154072	Yedashe	Yedashe	Yedashe Township	19.28195	96.1536	A	ADM3	MM		16	MMR007D002	MMR007010		196285		189	Asia/Yangon	2023-08-02
+11154073	Mongkaing	Mongkaing	Mong Kung,Mong Kung Township,Mongkaung	21.73253	97.47901	A	ADM3	MM		11	MMR014D002	MMR014016		85436		1209	Asia/Yangon	2023-08-03
+11154074	Monghsu	Monghsu	Mong Hsu Township	21.77972	98.39173	A	ADM3	MM		11	MMR014D002	MMR014017		50866		1101	Asia/Yangon	2023-08-02
+11154075	Sinbaungwe	Sinbaungwe	Sinbaungwe Township,Tantabin,ဆငပေါငဝမြနယ,ဆင်ပေါင်ဝဲမြို့နယ်	19.62381	95.35674	A	ADM3	MM		15	MMR009D003	MMR009017		124771		167	Asia/Yangon	2023-08-03
+11154076	Pyinmana	Pyinmana	Pyinmana Township,ပျဉးမနားမြနယ,ပျဉ်းမနားမြို့နယ်	19.67079	96.45666	A	ADM3	MM		18	MMR018D002	MMR018006		0		587	Asia/Yangon	2023-08-02
+11154077	Mongyai	Mongyai	Mongyai Township	22.41589	98.03695	A	ADM3	MM		11	MMR015D001	MMR015003		49084		868	Asia/Yangon	2023-08-01
+11154078	Ngape	Ngape	Ngape Township,ငဖ မြနယ,ငဖဲ မြို့နယ်	19.95924	94.41494	A	ADM3	MM		15	MMR009D002	MMR009009		46572		588	Asia/Yangon	2023-08-02
+11154079	Myothit	Myothit	Myothit Township,မြသစ မြနယ,မြို့သစ် မြို့နယ်	20.17829	95.49505	A	ADM3	MM		15	MMR009D001	MMR009005		179015		145	Asia/Yangon	2023-08-03
+11154080	Hsihseng	Hsihseng	Hsi Hseng Township,Hsihseng,ဆဆငမြနယ,ဆီဆိုင်မြို့နယ်	20.24498	97.29287	A	ADM3	MM		11	MMR014D001	MMR014004		139167		1155	Asia/Yangon	2023-08-03
+11154081	Langkho	Langkho	Langhko,Langhko Township,Langkho,Langkho Township	19.99305	98.05254	A	ADM3	MM		11	MMR014D003	MMR014018		37614		947	Asia/Yangon	2023-08-01
+11154082	Mogaung	Mogaung	Mogaung Township,မိုးကောင်းမြို့နယ်,မးကောငးမြနယ	25.32185	96.90696	A	ADM3	MM		04	MMR001D002	MMR001008		144306		140	Asia/Yangon	2023-08-03
+11154083	Yenangyaung	Yenangyaung	Yenangyaung Township,ရေနချောငးမြနယ,ရေနံချောင်းမြို့နယ်	20.4604	95.00952	A	ADM3	MM		15	MMR009D001	MMR009002		182979		138	Asia/Yangon	2023-08-02
+11154084	Pyawbwe	Pyawbwe	Pyawbwe Township	20.61185	95.94592	A	ADM3	MM		08	MMR010D006	MMR010024		267162		214	Asia/Yangon	2023-08-01
+11154085	Mongton	Mongton	Mong Ton,Mong Ton Township,Mong Tong,Mong Tong Township	20.21587	98.82594	A	ADM3	MM		11	MMR016D002	MMR016008		49143		1054	Asia/Yangon	2023-08-03
+11154086	Kalaw	Kalaw	Kalaw Township,ကလောမြ,ကလောမြို့	20.68842	96.68292	A	ADM3	MM		11	MMR014D001	MMR014005		163138		1279	Asia/Yangon	2023-08-03
+11154087	Tachileik	Tachileik	Tachileik Township,tarhkyaelatemyahoetnaal,တာချီလိတ်မြို့နယ်	20.69655	99.99372	A	ADM3	MM		11	MMR016D003	MMR016009		122600		661	Asia/Yangon	2023-08-01
+11154088	Seikphyu	Seikphyu	Seikphyu Township	21.06271	94.53845	A	ADM3	MM		15	MMR009D004	MMR009022		104050		261	Asia/Yangon	2023-08-01
+11154089	Kanpetlet	Kanpetlet	Kanpetlet Township,ကနပကလကမြနယ,ကန်ပက်လက်မြို့နယ်	20.99775	93.87427	A	ADM3	MM		02	MMR004D002	MMR004008		21526		1081	Asia/Yangon	2023-08-03
+11154090	Chipwi	Chipwi	Chibwe,Chipwi Township,ချဖေမြနယ,ချီဖွေမြို့နယ်	25.94125	98.3786	A	ADM3	MM		04	MMR001D001	MMR001005		18838		1754	Asia/Yangon	2023-08-01
+11154091	Nyaung-U	Nyaung-U	Nyaung-U Township,Nyaungoo,Nyaungu,Nyoungoo	21.08515	95.02048	A	ADM3	MM		08	MMR010D005	MMR010022		374594		310	Asia/Yangon	2023-08-03
+11154092	Lahe	Lahe	လဟယမြ,လဟယ်မြို့	26.30065	95.37126	A	ADM3	MM		10	MMR005D008	MMR005036		0		1287	Asia/Yangon	2016-06-06
+11154093	Sumprabum	Sumprabum	Sumprabum Township,ဆမပရာဘမမြနယ,ဆွမ်ပရာဘွမ်မြို့နယ်	26.46787	97.56792	A	ADM3	MM		04	MMR001D004	MMR001015		14550		627	Asia/Yangon	2023-08-02
+11154094	Mahlaing	Mahlaing	Mahlaing Township,Phanlaing	21.08916	95.66334	A	ADM3	MM		08	MMR010D007	MMR010029		154860		276	Asia/Yangon	2023-08-03
+11154095	Myittha	Myittha	Myittha Township	21.35229	96.16509	A	ADM3	MM		08	MMR010D003	MMR010015		188441		100	Asia/Yangon	2023-08-01
+11154096	Nawngmun	Nawngmun		27.8788	97.83234	A	ADM3	MM		04	MMR001D004	MMR001017		11772		2224	Asia/Yangon	2016-05-31
+11154097	Tanintharyi	Tanintharyi	Tanintharyi Township,တနသၤာရ)တနငသာရမြနယ,တနသၤာရီ)တနင်္သာရီမြို့နယ်	12.30199	99.16825	A	ADM3	MM		12	MMR006D002	MMR006008		101629		48	Asia/Yangon	2023-08-02
+11154098	Kyain Seikgyi Township	Kyain Seikgyi Township	Kyain Seikgyi	16.0675	97.90694	A	ADM3	MM		05	MMR003D003	MMR003007		186107		21	Asia/Yangon	2018-05-31
+11154099	Myingyan	Myingyan	Myingyan Township,myinnhkyaanmyahoetnaal,မြင်းခြံမြို့နယ်	21.55504	95.45111	A	ADM3	MM		08	MMR010D004	MMR010017		273006		111	Asia/Yangon	2023-08-01
+11154100	Kengtung	Kengtung	ကျငးတမြနယ,ကျိုင်းတုံမြို့နယ်	21.23986	99.59339	A	ADM3	MM		11	MMR016D001	MMR016001		164566		1092	Asia/Yangon	2016-06-04
+11154101	Botahtaung	Botahtaung	Botataung Township,ဗလတစထောင မြနယ,ဗိုလ်တစ်ထောင် မြို့နယ်	16.77116	96.17886	A	ADM3	MM		17	MMR013D002	MMR013017		39935		12	Asia/Yangon	2023-08-03
+11154102	Sintgaing	Sintgaing	Sintgaing Township	21.73981	96.13025	A	ADM3	MM		08	MMR010D003	MMR010014		128725		80	Asia/Yangon	2023-08-02
+11154103	Myaing	Myaing	Myaing Township,မြင မြနယ,မြိုင် မြို့နယ်	21.65559	94.84919	A	ADM3	MM		15	MMR009D004	MMR009020		253956		249	Asia/Yangon	2023-08-03
+11154104	Tilin	Tilin	Htilin,Htilin Township,Tilim,Tilin,ထီးလင်းမြို့,ထးလငးမြ	21.76704	94.17669	A	ADM3	MM		15	MMR009D005	MMR009024		51079		364	Asia/Yangon	2023-08-04
+11154105	Aungmyaythazan	Aungmyaythazan	Aungmyethasan,Aungmyethazan Township,အောငမြေသာဇ မြနယ,အောင်မြေသာဇံ မြို့နယ်	22.00247	96.09813	A	ADM3	MM		08	MMR010D001	MMR010001		190144		77	Asia/Yangon	2023-08-04
+11154106	Yinmabin	Yinmabin	Yinmabin Township	22.15296	94.84079	A	ADM3	MM		10	MMR005D009	MMR005016		146285		136	Asia/Yangon	2023-08-02
+11154107	Lanmadaw	Lanmadaw	Lanmadaw Township,လမးမတော မြနယ,လမ်းမတော် မြို့နယ်	16.77948	96.14204	A	ADM3	MM		17	MMR013D004	MMR013035		34530		16	Asia/Yangon	2023-08-04
+11154108	Shwebo	Shwebo	Shwebo Township,ရေဘမြနယ,ရွှေဘိုမြို့နယ်	22.58485	95.71001	A	ADM3	MM		10	MMR005D002	MMR005004		257836		117	Asia/Yangon	2023-08-02
+11154109	Narphan	Narphan	Na-hpan,Namphan Township	22.57811	99.15739	A	ADM3	MM		11	MMR015D007	MMR015006		0		875	Asia/Yangon	2023-08-02
+11154110	Nawnghkio	Nawnghkio	Nawnghkio Township	22.34999	96.61814	A	ADM3	MM		11	MMR015D003	MMR015013		128357		855	Asia/Yangon	2023-08-02
+11154111	Sanchaung	Sanchaung	Sanchaung Township,စမးချောငး မြနယ,စမ်းချောင်း မြို့နယ်	16.80629	96.13222	A	ADM3	MM		17	MMR013D004	MMR013039		78915		20	Asia/Yangon	2023-08-04
+11154112	Bahan	Bahan	Bahan Township,ဗဟနး မြနယ,ဗဟန်း မြို့နယ်	16.81057	96.15741	A	ADM3	MM		17	MMR013D004	MMR013044		78062		34	Asia/Yangon	2023-08-04
+11154113	Hakha	Hakha	Hakha Township,ဟားခါးမြနယ,ဟားခါးမြို့နယ်	22.45398	93.76921	A	ADM3	MM		02	MMR004D003	MMR004002		44483		1323	Asia/Yangon	2023-08-04
+11154114	Ye-U	Ye-U	Ye-U Township	22.85911	95.11717	A	ADM3	MM		10	MMR005D002	MMR005009		128672		201	Asia/Yangon	2023-08-04
+11154115	Namhsan	Namhsan	Namhsan Township,နမဆနမြနယ,နမ့်ဆန်မြို့နယ်	22.95782	97.11447	A	ADM3	MM		11	MMR015D003	MMR015016		76593		1827	Asia/Yangon	2023-08-02
+11154116	Hseni	Hseni	Hsenwi,Hsenwi Township,sinnemyahoetnaal,သိန္နီမြို့နယ်	23.27356	98.10524	A	ADM3	MM		11	MMR015D001	MMR015002		50787		909	Asia/Yangon	2023-08-02
+11154117	Kalewa	Kalewa	Kalewa Township	23.32435	94.50576	A	ADM3	MM		10	MMR005D005	MMR005028		56227		251	Asia/Yangon	2023-08-02
+11154118	Tedim	Tedim	တတနမြ,တီတိန်မြို့	23.37246	93.71405	A	ADM3	MM		02	MMR004D001	MMR004004		94043		1183	Asia/Yangon	2023-08-04
+11154119	Hopong	Hopong	Hopong Township,ဟပနးမြနယ/ဟပးၿမ႕,ဟိုပုန်းမြို့နယ်/ဟုိပုံးၿမိဳ႕	21.02378	97.25809	A	ADM3	MM		11	MMR014D001	MMR014003		99212		1073	Asia/Yangon	2023-08-04
+11154120	Laukkaing	Laukkaing	Laukkaing Township,လောကကငမြနယ,လောက်ကိုင်မြို့နယ်	23.65287	98.71265	A	ADM3	MM		11	MMR015D005	MMR015022		72879		1472	Asia/Yangon	2023-08-02
+11154121	Kawlin	Kawlin	Kawlin Township	23.69455	95.46389	A	ADM3	MM		10	MMR005D004	MMR005024		140085		176	Asia/Yangon	2023-08-02
+11154122	Muse	Muse	Mu Se Township,မဆယ,မူဆယ်	23.94341	98.14611	A	ADM3	MM		11	MMR015D002	MMR015009		140055		1137	Asia/Yangon	2023-08-02
+11154123	Mabein	Mabein	Mabein Township,mabhaimmyahoetnaal,မဘိမ်းမြို့နယ်	23.62011	96.67883	A	ADM3	MM		11	MMR015D008	MMR015018		35718		163	Asia/Yangon	2023-08-01
+11154124	Paungbyin	Paungbyin	Paungbyin Township	24.19691	94.87068	A	ADM3	MM		10	MMR005D007	MMR005032		115926		170	Asia/Yangon	2023-08-02
+11154125	Indaw	Indaw	Indaw Township	24.31132	96.09998	A	ADM3	MM		10	MMR005D004	MMR005021		122926		131	Asia/Yangon	2023-08-02
+11154126	Kyaiklat	Kyaiklat	Kyaiklat Township,ကျကလတမြနယ,ကျိုက်လတ်မြို့နယ်	16.51306	95.63923	A	ADM3	MM		03	MMR017D006	MMR017025		204399		4	Asia/Yangon	2023-08-04
+11154127	Mongping	Mongping	Mong Ping Township	21.16004	98.94264	A	ADM3	MM		11	MMR016D001	MMR016007		55276		1090	Asia/Yangon	2023-08-05
+11154128	Mindat	Mindat	Mindat Township,မငးတပမြနယ,မင်းတပ်မြို့နယ်	21.46591	93.77778	A	ADM3	MM		02	MMR004D002	MMR004006		43698		2285	Asia/Yangon	2023-08-04
+11154129	Thingangyun	Thingangyun	Thingangyun Township,သငဃနးကျနး မြနယ,သင်္ဃန်းကျွန်း မြို့နယ်	16.82789	96.19915	A	ADM3	MM		17	MMR013D002	MMR013009		190160		13	Asia/Yangon	2023-08-04
+11154130	Amarapura	Amarapura		21.85302	96.09545	A	ADM3	MM		08	MMR010D001	MMR010006		185997		75	Asia/Yangon	2016-06-06
+11154131	Kyaukse	Kyaukse	Kyaukse Township	21.72523	96.60359	A	ADM3	MM		08	MMR010D003	MMR010013		236147		407	Asia/Yangon	2023-08-02
+11154132	Kyethi	Kyethi	Kyethi Township	21.7294	98.06284	A	ADM3	MM		11	MMR014D002	MMR014015		33538		1010	Asia/Yangon	2023-08-02
+11154133	Twantay	Twantay	Twante Township,တတေး မြနယ,တွံတေး မြို့နယ်	16.7451	95.95402	A	ADM3	MM		17	MMR013D003	MMR013027		215419		6	Asia/Yangon	2023-08-04
+11154134	Dagon Myothit (East)	Dagon Myothit (East)	East Dagon Myothit,ဒဂမြသစအရေပငး မြနယ,ဒဂုံမြို့သစ်အရှေ့ပိုင်း မြို့နယ်	16.94861	96.27028	A	ADM3	MM		17	MMR013D002	MMR013020		114283		6	Asia/Yangon	2016-06-03
+11154135	Shwepyithar	Shwepyithar	Shwepyitha Township,ရေပြညသာ မြနယ,ရွှေပြည်သာ မြို့နယ်	16.97703	96.0776	A	ADM3	MM		17	MMR013D001	MMR013007		231106		6	Asia/Yangon	2023-08-04
+11154136	Thabaung	Thabaung	Thabaung Township	17.15184	94.75498	A	ADM3	MM		03	MMR017D001	MMR017003		152940		30	Asia/Yangon	2023-08-04
+11154137	Hpa-An	Hpa-An	Hpa-an Township,ဘားအမြနယ,ဘားအံမြို့နယ်	16.96542	97.66012	A	ADM3	MM		05	MMR003D001	MMR003001		427592		10	Asia/Yangon	2023-08-04
+11154138	Mongyang	Mongyang	Mong Yang Township,ၸႄႈwinnmiuuinnyၢin,ၸႄႈဝဵင်းမိူင်းယၢင်	21.95813	99.53553	A	ADM3	MM		11	MMR016D001	MMR016003		55164		1159	Asia/Yangon	2023-08-02
+11154139	Waw	Waw	Waw Township	17.50406	96.7465	A	ADM3	MM		16	MMR007D001	MMR007004		199032		5	Asia/Yangon	2023-08-06
+11154140	Taikkyi	Taikkyi	Taikkyi Township,တကကြး မြနယ,တိုက်ကြီး မြို့နယ်	17.43491	95.91153	A	ADM3	MM		17	MMR013D001	MMR013005		240498		20	Asia/Yangon	2023-08-04
+11154141	Puta-O	Puta-O		27.30117	97.33662	A	ADM3	MM		04	MMR001D004	MMR001014		90094		772	Asia/Yangon	2016-05-31
+11154142	Mingalartaungnyunt	Mingalartaungnyunt	Mingala Taungnyunt Township,Mingalar Taung Nyunt,Mingalartaungnyunt Township	16.79083	96.17312	A	ADM3	MM		17	MMR013D002	MMR013022		127726		17	Asia/Yangon	2024-06-03
+11154143	Hinthada	Hinthada	Hinthada Township,hainsartamyahoetnaal,ဟင်္သာတမြို့နယ်	17.62085	95.37351	A	ADM3	MM		03	MMR017D002	MMR017008		368174		11	Asia/Yangon	2023-08-04
+11154144	Paukkhaung	Paukkhaung	Pauk Kaung,Paukkaung Township	18.98086	95.62226	A	ADM3	MM		16	MMR008D001	MMR008002		117164		122	Asia/Yangon	2023-08-04
+11154145	Thandaunggyi	Thandaunggyi	Thandaunggyi Township,သတောငကြးမြနယ,သံတောင်ကြီးမြို့နယ်	19.04518	96.7281	A	ADM3	MM		05	MMR003D001	MMR003004		93611		491	Asia/Yangon	2023-08-04
+11154146	Mindon	Mindon	Mindon Township,မငးတနးမြနယ,မင်းတုန်းမြို့နယ်	19.36711	94.68314	A	ADM3	MM		15	MMR009D003	MMR009014		61299		73	Asia/Yangon	2023-08-04
+11154147	Mayangone	Mayangone	Mayangon Township,မရမးကနး မြနယ,မရမ်းကုန်း မြို့နယ်	16.86552	96.14175	A	ADM3	MM		17	MMR013D004	MMR013042		162871		32	Asia/Yangon	2023-08-04
+11154148	Loikaw	Loikaw	Loikaw Township,လငကော‌မြနယ,လွိုင်ကော်‌မြို့နယ်	19.68501	97.32595	A	ADM3	MM		06	MMR002D001	MMR002001		115120		965	Asia/Yangon	2023-08-04
+11154149	Monyo	Monyo	Monyo Township	18.11115	95.46166	A	ADM3	MM		16	MMR008D002	MMR008013		127762		18	Asia/Yangon	2023-08-05
+11154150	Kyauktada	Kyauktada	Kyauktada Township,ကျောကတတား မြနယ,ကျောက်တံတား မြို့နယ်	16.77443	96.16142	A	ADM3	MM		17	MMR013D004	MMR013033		36968		22	Asia/Yangon	2023-08-04
+11154151	Htantabin	Htantabin	Htantabin Township,ထနးတပင မြနယ,ထန်းတပင် မြို့နယ်	18.7432	96.53812	A	ADM3	MM		16	MMR007D002	MMR007014		120540		36	Asia/Yangon	2023-08-06
+11154152	Mongnai	Mongnai	Mong Nai Township	20.63946	98.17548	A	ADM3	MM		11	MMR014D003	MMR014019		25019		784	Asia/Yangon	2023-08-06
+11154153	Latha	Latha	Latha Township,လသာ မြနယ,လသာ မြို့နယ်	16.77673	96.15049	A	ADM3	MM		17	MMR013D004	MMR013036		27232		17	Asia/Yangon	2023-08-04
+11154154	Dagon Myothit (South)	Dagon Myothit (South)	South Dagon Myothit	16.86417	96.24215	A	ADM3	MM		17	MMR013D002	MMR013018		269460		8	Asia/Yangon	2016-06-03
+11154155	Thayet	Thayet	Thayet Township,သရကမြနယ,သရက်မြို့နယ်	19.37904	95.05225	A	ADM3	MM		15	MMR009D003	MMR009012		103742		153	Asia/Yangon	2023-08-04
+11154156	Lewe	Lewe		19.61657	96.02403	A	ADM3	MM		18	MMR018D002	MMR018007		0		118	Asia/Yangon	2016-06-03
+11154157	Ahlone	Ahlone	Ahlon Township,အလ မြနယ,အလုံ မြို့နယ်	16.78542	96.12815	A	ADM3	MM		17	MMR013D004	MMR013037		51664		13	Asia/Yangon	2023-08-05
+11154158	Taungdwingyi	Taungdwingyi	Taungdwingyi Township,တောငတငးကြး မြနယ,တောင်တွင်းကြီး မြို့နယ်	19.8813	95.58555	A	ADM3	MM		15	MMR009D001	MMR009004		263549		153	Asia/Yangon	2023-08-05
+11154159	Mongpan	Mongpan	Moeng Pan,Moeng Pawn,Mong Pan Township,Möng Pan,Möng Pawn	20.25186	98.37719	A	ADM3	MM		11	MMR014D003	MMR014021		16563		801	Asia/Yangon	2023-08-05
+11154160	Minbu	Minbu		20.09548	94.74237	A	ADM3	MM		15	MMR009D002	MMR009007		169623		128	Asia/Yangon	2016-06-03
+11154161	Mawkmai	Mawkmai	Mawkmai Township	20.13873	97.60062	A	ADM3	MM		11	MMR014D003	MMR014020		24860		1059	Asia/Yangon	2023-08-05
+11154162	Pinlaung	Pinlaung	Pinlaung Township,ပငလောငးမြနယ,ပင်လောင်းမြို့နယ်	20.10823	96.69002	A	ADM3	MM		11	MMR014D001	MMR014009		162537		1216	Asia/Yangon	2023-08-04
+11154163	Natmauk	Natmauk	Natmauk Township,နတမောတ မြနယ,နတ်မောတ် မြို့နယ်	20.49865	95.43255	A	ADM3	MM		15	MMR009D001	MMR009006		234471		238	Asia/Yangon	2023-08-04
+11154164	Salin	Salin	စလငးမြ,စလင်းမြို့	20.69483	94.53772	A	ADM3	MM		15	MMR009D002	MMR009010		262352		148	Asia/Yangon	2016-06-03
+11154165	Thazi	Thazi	Thazi Township,sarhcaimyahoetnaal,သာစည်မြို့နယ်	20.82006	96.25436	A	ADM3	MM		08	MMR010D007	MMR010030		206438		560	Asia/Yangon	2023-08-02
+11154166	Monghpyak	Monghpyak	Mong Hpayak Township,ၸႄႈwinnmiuuinnၽyaၢၵႈ,ၸႄႈဝဵင်းမိူင်းၽျၢၵ်ႈ	20.95887	99.85109	A	ADM3	MM		11	MMR016D003	MMR016010		28342		857	Asia/Yangon	2023-08-02
+11154167	Pakokku	Pakokku	Pakokku Township,ပခကက မြနယ,ပခုက္ကူ မြို့နယ်	21.27608	94.88544	A	ADM3	MM		15	MMR009D004	MMR009018		298676		80	Asia/Yangon	2023-08-04
+11154168	Munaung	Munaung	Manaung Township,မာနအောငမြနယ,မာန်အောင်မြို့နယ်	18.79368	93.64673	A	ADM3	MM		01	MMR012D003	MMR012012		64296		87	Asia/Yangon	2023-08-04
+11154169	Natogyi	Natogyi	Natogyi Township,nwarrhtoekyee,နွားထိုးကြီး	21.43521	95.72451	A	ADM3	MM		08	MMR010D004	MMR010019		182376		226	Asia/Yangon	2023-08-02
+11154170	Pale	Pale	Pale Township	21.99513	94.61419	A	ADM3	MM		10	MMR005D009	MMR005019		147942		208	Asia/Yangon	2023-08-02
+11154171	Thandwe	Thandwe	Thandwe Township,သတမြနယ,သံတွဲမြို့နယ်	18.35477	94.58302	A	ADM3	MM		01	MMR012D004	MMR012015		123145		355	Asia/Yangon	2023-08-04
+11154172	Toungup	Toungup	Taungup Township,တောငကတမြနယ,တောင်ကုတ်မြို့နယ်	19.02427	94.364	A	ADM3	MM		01	MMR012D004	MMR012016		146506		365	Asia/Yangon	2023-08-04
+11154173	Myebon	Myebon	Myebon Township,မြေပမြနယ,မြေပုံမြို့နယ်	19.98217	93.55395	A	ADM3	MM		01	MMR012D005	MMR012006		141740		4	Asia/Yangon	2023-08-04
+11154174	Madaya	Madaya	Madaya Township,mattararmyahoetnaal,မတ္တရာမြို့နယ်	22.21588	96.1724	A	ADM3	MM		08	MMR010D002	MMR010009		241724		86	Asia/Yangon	2023-08-04
+11154175	Budalin	Budalin	Budalin Township	22.43879	95.10814	A	ADM3	MM		10	MMR005D003	MMR005013		141021		104	Asia/Yangon	2023-08-02
+11154176	Khin-U	Khin-U	Khin-U Township	22.77438	95.698	A	ADM3	MM		10	MMR005D002	MMR005005		151729		158	Asia/Yangon	2023-08-04
+11154177	Kyaukme	Kyaukme	Kyaukme Township,kyawwatmellmyahoetnaal,ကျောက်မဲမြို့နယ်	22.58933	96.89417	A	ADM3	MM		11	MMR015D003	MMR015012		172874		1117	Asia/Yangon	2023-08-02
+11154178	Thantlang	Thantlang	Thantlang,Thantlang Township,ထနတလနမြနယ,ထန်တလန်မြို့နယ်	22.58487	93.30873	A	ADM3	MM		02	MMR004D003	MMR004003		52332		680	Asia/Yangon	2023-08-04
+11154179	Lashio	Lashio	Lashio Township,larrshoemyahoetnaal,လားရှိုးမြို့နယ်	22.97614	97.97123	A	ADM3	MM		11	MMR015D001	MMR015001		279062		1008	Asia/Yangon	2023-08-02
+11154180	Mingin	Mingin	Mingin Township	22.88803	94.52124	A	ADM3	MM		10	MMR005D005	MMR005029		108425		85	Asia/Yangon	2023-08-02
+11154181	Ann Township	Ann Township	Ann Township,အမး မြနယ,အမ်း မြို့နယ်	19.90897	93.99945	A	ADM3	MM		01	MMR012D003	MMR012014		114485		90	Asia/Yangon	2019-11-10
+11154182	Pauktaw	Pauktaw	Pauktaw Township,ပေါကတောမြနယ,ပေါက်တောမြို့နယ်	20.13839	93.08982	A	ADM3	MM		01	MMR012D001	MMR012007		180740		5	Asia/Yangon	2023-08-04
+11154183	Kunlong	Kunlong	Kunlong Township,kwmlonemyahoetnaal,ကွမ်းလုံမြို့နယ်	23.43408	98.60751	A	ADM3	MM		11	MMR015D001	MMR015020		61154		534	Asia/Yangon	2023-08-02
+11154184	Pantanaw	Pantanaw	Pantanaw Township,ပနးတနောမြနယ,ပန်းတနော်မြို့နယ်	16.96639	95.40196	A	ADM3	MM		03	MMR017D005	MMR017020		265002		9	Asia/Yangon	2023-08-04
+11154185	Shadaw	Shadaw	Shadaw Township,ရားတော‌မြနယ,ရှားတော‌မြို့နယ်	19.5032	97.63918	A	ADM3	MM		06	MMR002D001	MMR002004		7367		487	Asia/Yangon	2023-08-04
+11154186	Labutta	Labutta	Labutta,Labutta Township,Latputta,Latputta Township,လပတတာမြနယ,လပွတ္တာမြို့နယ်	15.96214	94.94948	A	ADM3	MM		03	MMR017D004	MMR017016		502707		7	Asia/Yangon	2023-08-04
+11154187	Wuntho	Wuntho	Wuntho Township	23.9974	95.77949	A	ADM3	MM		10	MMR005D004	MMR005025		71957		443	Asia/Yangon	2023-08-02
+11154188	Mansi	Mansi		23.94148	97.32545	A	ADM3	MM		04	MMR001D003	MMR001013		72925		1106	Asia/Yangon	2016-06-03
+11154189	Katha	Katha	Katha Township	24.18923	96.40253	A	ADM3	MM		10	MMR005D004	MMR005020		157404		97	Asia/Yangon	2023-08-02
+11154190	Tamu	Tamu		24.17969	94.38739	A	ADM3	MM		10	MMR005D006	MMR005030		105100		142	Asia/Yangon	2016-05-31
+11154191	Myitkyina	Myitkyina	Myitkyina Township,မြစကြးနားမြနယ,မြစ်ကြီးနားမြို့နယ်	25.35259	97.20302	A	ADM3	MM		04	MMR001D001	MMR001001		223972		267	Asia/Yangon	2023-08-01
+11154192	Nanyun	Nanyun	Namyung,Nanyun Township,Taiyawng,နနးယနးမြနယ,နန်းယွန်းမြို့နယ်	26.92552	96.15373	A	ADM3	MM		10	MMR005D008	MMR005037		78605		764	Asia/Yangon	2023-08-01
+11154193	Khaunglanhpu	Khaunglanhpu	Kawnglanghpu Township	27.10804	98.41044	A	ADM3	MM		04	MMR001D004	MMR001018		15058		1209	Asia/Yangon	2023-08-02
+11154194	Wakema	Wakema	Wakema Township,ဝါးခယမမြနယ,ဝါးခယ်မမြို့နယ်	16.59211	95.23278	A	ADM3	MM		03	MMR017D003	MMR017017		301747		5	Asia/Yangon	2023-08-04
+11154195	Htantabin	Htantabin	Htantabin Township,ထနးတပင မြနယ,ထန်းတပင် မြို့နယ်	17.04977	95.90721	A	ADM3	MM		17	MMR013D001	MMR013006		136356		8	Asia/Yangon	2023-08-04
+11154196	Hlaingbwe Township	Hlaingbwe Township	လငးဘမြနယ,လှိုင်းဘွဲ့မြို့နယ်	17.19579	97.92441	A	ADM3	MM		05	MMR003D001	MMR003002		284361		106	Asia/Yangon	2018-05-31
+11154197	Bago	Bago	Bago Township	17.33513	96.48358	A	ADM3	MM		16	MMR007D001	MMR007001		413187		5	Asia/Yangon	2024-03-09
+11154198	Shwegyin	Shwegyin	Shwegyin Township	17.89169	97.00453	A	ADM3	MM		16	MMR007D001	MMR007008		88610		79	Asia/Yangon	2023-08-02
+11154199	Gyobingauk	Gyobingauk	Gyobingauk Township	18.28652	95.75204	A	ADM3	MM		16	MMR008D002	MMR008014		116645		45	Asia/Yangon	2023-08-06
+11154200	Padaung	Padaung	Pandaung Township	18.68407	94.92726	A	ADM3	MM		16	MMR008D001	MMR008003		136322		179	Asia/Yangon	2023-08-02
+11154201	Magway	Magway	Magway Township,မကေးမြနယ,မကွေးမြို့နယ်	20.08519	95.13084	A	ADM3	MM		15	MMR009D001	MMR009001		292344		79	Asia/Yangon	2023-08-02
+11154202	Kyaukpadaung	Kyaukpadaung		20.84287	95.25669	A	ADM3	MM		08	MMR010D005	MMR010020		306783		326	Asia/Yangon	2023-08-02
+11154203	Wundwin	Wundwin	Wundwin Township,wamtwin,ဝမ်းတွင်	21.16981	95.99912	A	ADM3	MM		08	MMR010D007	MMR010031		225718		140	Asia/Yangon	2023-08-02
+11154204	Laihka	Laihka	Lai-Hka Township,Legya Township,winnlၢၶႃႈ,ဝဵင်းလၢႆးၶႃႈ	21.29809	97.79544	A	ADM3	MM		11	MMR014D002	MMR014012		44329		1013	Asia/Yangon	2023-08-02
+11154205	Pauk	Pauk	Pauk Township	21.48852	94.48836	A	ADM3	MM		15	MMR009D004	MMR009021		174240		174	Asia/Yangon	2023-08-04
+11154206	Yesagyo	Yesagyo	Yesagyo Township	21.59869	95.17623	A	ADM3	MM		15	MMR009D004	MMR009019		252614		108	Asia/Yangon	2023-08-04
+11154207	Thaketa	Thaketa	Thaketa Township,သာကေတ မြနယ,သာကေတ မြို့နယ်	16.79821	96.21101	A	ADM3	MM		17	MMR013D002	MMR013013		221845		8	Asia/Yangon	2023-08-04
+11154208	Patheingyi	Patheingyi	Patheingyi Township,ပသမကြးမြနယ,ပုသိမ်ကြီးမြို့နယ်	22.00496	96.20164	A	ADM3	MM		08	MMR010D001	MMR010007		183146		176	Asia/Yangon	2023-08-04
+11154209	Lawksawk	Lawksawk	Lawksawk Township,Yatsauk,Yatsawk	21.59088	96.97083	A	ADM3	MM		11	MMR014D001	MMR014008		139867		695	Asia/Yangon	2023-08-01
+11154210	South Okkalapa	South Okkalapa	တငႇဢၵႉၵလႃႇပ၊ ၸႄႈဝငး,တောင ဥကကလာပ,တောငဥကကလာပမြနယ,တောင် ဥက္ကလာပ,တောင်ဥက္ကလာပမြို့နယ်,တွင်ႇဢူၵ်ႉၵလႃႇပ၊ ၸႄႈဝဵင်း	16.84856	96.18225	A	ADM3	MM		17	MMR013D002	MMR013011		155574		10	Asia/Yangon	2019-07-25
+11154211	Maubin	Maubin	Maubin Township	16.71629	95.65518	A	ADM3	MM		03	MMR017D005	MMR017019		343472		5	Asia/Yangon	2023-08-06
+11154212	Monywa	Monywa	Monywa Township	22.13923	95.2083	A	ADM3	MM		10	MMR005D003	MMR005012		323961		99	Asia/Yangon	2023-08-02
+11154213	Matman	Matman	Matman Township,Metman Township	21.8803	98.81668	A	ADM3	MM		11	MMR015D007	MMR015024		0		1375	Asia/Yangon	2023-08-02
+11154214	Namtu	Namtu	Namtu Township	23.03326	97.43983	A	ADM3	MM		11	MMR015D003	MMR015015		57602		662	Asia/Yangon	2023-08-02
+11154215	Mongmit	Mongmit	Mongmit Township,miuuinnmateႈ,မိူင်းမိတ်ႈ	23.15299	96.62603	A	ADM3	MM		11	MMR015D008	MMR015017		61072		245	Asia/Yangon	2023-08-02
+11154216	Kale	Kale		23.15676	94.12222	A	ADM3	MM		10	MMR005D005	MMR005027		322781		123	Asia/Yangon	2016-05-31
+11154217	Kanbalu	Kanbalu	Kanbalu Township	23.21908	95.70346	A	ADM3	MM		10	MMR005D002	MMR005007		265402		363	Asia/Yangon	2023-08-05
+11154218	Kutkai	Kutkai		23.58539	98.11664	A	ADM3	MM		11	MMR015D002	MMR015011		180066		1615	Asia/Yangon	2016-05-31
+11154219	Shwegu	Shwegu	Shwegu Township	24.37542	96.81795	A	ADM3	MM		04	MMR001D003	MMR001011		84750		238	Asia/Yangon	2023-08-05
+11154220	Banmauk	Banmauk	Banmauk Township	24.52446	95.72082	A	ADM3	MM		10	MMR005D004	MMR005023		95322		553	Asia/Yangon	2023-08-05
+11154221	Injangyang	Injangyang	Injangyang Township,Njangyang,အငဂျနးယနမြနယ,အင်ဂျန်းယန်မြို့နယ်	26.11032	97.88643	A	ADM3	MM		04	MMR001D001	MMR001003		9023		941	Asia/Yangon	2023-08-02
+11154222	Tanai	Tanai	တနငးမြ,တနိုင်းမြို့	26.48565	96.6992	A	ADM3	MM		04	MMR001D001	MMR001004		33474		232	Asia/Yangon	2016-06-04
+11154223	Tamwe	Tamwe	Tamwe Township	16.81054	96.17591	A	ADM3	MM		17	MMR013D002	MMR013015		153365		19	Asia/Yangon	2023-08-06
+11154224	Chaungzon	Chaungzon		16.37058	97.5272	A	ADM3	MM		13	MMR011D001	MMR011003		157432		43	Asia/Yangon	2016-05-31
+11154225	Kamaryut	Kamaryut	Kamaryut Township	16.82365	96.13289	A	ADM3	MM		17	MMR013D004	MMR013041		62404		26	Asia/Yangon	2023-08-06
+11154226	Hlaingtharya	Hlaingtharya	Kamaryut Township	16.88136	96.05061	A	ADM3	MM		17	MMR013D001	MMR013008		377632		8	Asia/Yangon	2023-08-06
+11154227	Shwedaung	Shwedaung	Shwedaung Township	18.56611	95.21242	A	ADM3	MM		16	MMR008D001	MMR008006		130223		70	Asia/Yangon	2023-08-06
+11154228	Hpapun	Hpapun	Hpapun Township	18.07659	97.36866	A	ADM3	MM		05	MMR003D004	MMR003003		44358		152	Asia/Yangon	2023-08-06
+11154229	Phyu	Phyu	Phyu Township	18.52679	96.27694	A	ADM3	MM		16	MMR007D002	MMR007012		274104		192	Asia/Yangon	2023-08-06
+11154230	North Okkalapa	North Okkalapa	North Okkalapa Township	16.92382	96.17444	A	ADM3	MM		17	MMR013D002	MMR013012		271291		9	Asia/Yangon	2023-08-06
+11154231	Paungde	Paungde	Paungde Township	18.64062	95.6213	A	ADM3	MM		16	MMR008D001	MMR008004		141457		73	Asia/Yangon	2023-08-06
+11154232	Taungoo	Taungoo	Taungoo Township	19.00468	96.22151	A	ADM3	MM		16	MMR007D002	MMR007009		226121		152	Asia/Yangon	2023-08-06
+11154233	Kyaunggon	Kyaunggon	Kyaunggon Township,ကျောငးကနးမြနယ,ကျောင်းကုန်းမြို့နယ်	17.05722	95.15341	A	ADM3	MM		03	MMR017D001	MMR017007		170664		9	Asia/Yangon	2023-08-04
+11154234	Danubyu	Danubyu	Danubyu Township,ဓနဖြမြနယ,ဓနုဖြူမြို့နယ်	17.2588	95.54653	A	ADM3	MM		03	MMR017D005	MMR017022		189755		6	Asia/Yangon	2023-08-04
+11154235	Lemyethna	Lemyethna	Laymyethna,Lemyethna Township,လေးမျကနာမြနယ,လေးမျက်နှာမြို့နယ်	17.6014	95.01443	A	ADM3	MM		03	MMR017D002	MMR017010		107588		17	Asia/Yangon	2023-08-04
+11154236	Nyaunglebin	Nyaunglebin	Nyaunglebin Township	17.92348	96.73826	A	ADM3	MM		16	MMR007D001	MMR007005		202199		16	Asia/Yangon	2023-08-03
+11154237	Myanaung	Myanaung	Myanaung Township,မြနအောငမြနယ,မြန်အောင်မြို့နယ်	18.08532	95.17801	A	ADM3	MM		03	MMR017D002	MMR017011		221524		30	Asia/Yangon	2023-08-04
+11154238	Mongyawng	Mongyawng	Mong Yawng Townshipe,မငးယောငးမြနယ,မိုင်းယောင်းမြို့နယ်	21.34165	100.56986	A	ADM3	MM		11	MMR016D003	MMR016011		33143		487	Asia/Yangon	2023-08-02
+11154239	Okpho	Okpho	Okpho Township,Okpo	18.16451	95.84136	A	ADM3	MM		16	MMR008D002	MMR008010		123709		52	Asia/Yangon	2023-08-03
+11154240	Bawlakhe	Bawlakhe	Bawlakhe Township,ဘောလခမြနယ,ဘော်လခဲမြို့နယ်	19.10468	97.4934	A	ADM3	MM		06	MMR002D002	MMR002005		8114		191	Asia/Yangon	2023-08-04
+11154241	Aunglan	Aunglan	Aunglan Township,Myayde	19.28188	95.46402	A	ADM3	MM		15	MMR009D003	MMR009016		230699		92	Asia/Yangon	2023-08-04
+11154242	Pekon	Pekon	Mobye,Pekon Township	19.68075	96.86993	A	ADM3	MM		11	MMR014D001	MMR014010		94226		1505	Asia/Yangon	2023-08-03
+11154243	Pwintbyu	Pwintbyu	Pwintbyu Township,ပငဖြ မြနယ,ပွင့်ဖြူ မြို့နယ်	20.34766	94.60421	A	ADM3	MM		15	MMR009D002	MMR009008		166531		56	Asia/Yangon	2023-08-03
+11154244	Yamethin	Yamethin	Yamethin Township,ရမညးသငးမြနယ,ရမည်းသင်းမြို့နယ်	20.39995	96.15346	A	ADM3	MM		08	MMR010D006	MMR010023		242750		194	Asia/Yangon	2023-08-03
+11154245	Chauk	Chauk	Chauk Township	20.73654	94.87329	A	ADM3	MM		15	MMR009D001	MMR009003		214320		228	Asia/Yangon	2023-08-06
+11154246	Monghsat	Monghsat	Mong Hsat Township	20.55327	99.31359	A	ADM3	MM		11	MMR016D002	MMR016006		84964		826	Asia/Yangon	2023-08-03
+11154247	Chanmyathazi	Chanmyathazi	Chanmyathazi Township	21.9384	96.09492	A	ADM3	MM		08	MMR010D001	MMR010004		196065		78	Asia/Yangon	2023-08-03
+11154248	Meiktila	Meiktila	Meiktila Township	20.83372	95.76091	A	ADM3	MM		08	MMR010D007	MMR010028		310429		270	Asia/Yangon	2023-08-03
+11154249	Taunggyi	Taunggyi	Taunggyi Township	20.67002	97.03846	A	ADM3	MM		11	MMR014D001	MMR014001		348794		1434	Asia/Yangon	2023-08-05
+11154250	Chanayethazan	Chanayethazan	Chanayethazan Township,ချမးအေးသာဇ မြနယ,ချမ်းအေးသာဇံ မြို့နယ်	21.97605	96.09378	A	ADM3	MM		08	MMR010D001	MMR010002		138869		83	Asia/Yangon	2023-08-05
+11154251	Pindaya	Pindaya	Pindaya Township,ပငးတယမြနယ,ပင်းတယမြို့နယ်	20.93939	96.67318	A	ADM3	MM		11	MMR014D001	MMR014006		77769		1186	Asia/Yangon	2023-08-04
+11154252	Loilen	Loilen	Loilem Township	20.97497	97.48344	A	ADM3	MM		11	MMR014D002	MMR014011		112128		1727	Asia/Yangon	2023-08-05
+11154253	Zabu Thiri	Zabu Thiri	Zabuthiri Township,ဇမဗသရမြနယ,ဇမ္ဗူသီရိမြို့နယ်	19.75051	96.11665	A	ADM3	MM		18	MMR018D002	MMR018002		0		130	Asia/Yangon	2023-08-04
+11154254	Taungtha	Taungtha	Taungtha Township	21.22092	95.39211	A	ADM3	MM		08	MMR010D004	MMR010018		243987		131	Asia/Yangon	2023-08-04
+11154255	Saw	Saw	Saw Township	21.20345	94.18929	A	ADM3	MM		15	MMR009D005	MMR009025		68949		571	Asia/Yangon	2023-08-06
+11154256	Kunhing	Kunhing	Kunhing Township,kwanheinmyahoetnaal,ကွန်ဟိန်းမြို့နယ်	21.22825	98.491	A	ADM3	MM		11	MMR014D002	MMR014014		56415		571	Asia/Yangon	2023-08-05
+11154257	Myaung	Myaung	Myaung Township	21.75263	95.31899	A	ADM3	MM		10	MMR005D001	MMR005003		111778		72	Asia/Yangon	2023-08-05
+11154258	Mongkhet	Mongkhet	Mong Khet Township,Mongkhat	21.70282	99.34224	A	ADM3	MM		11	MMR016D001	MMR016002		27667		1508	Asia/Yangon	2023-08-05
+11154259	Salingyi	Salingyi	Salingyi Township	21.96506	95.03061	A	ADM3	MM		10	MMR005D009	MMR005018		135963		135	Asia/Yangon	2023-08-05
+11154260	Tada-U	Tada-U	Tada-U Township	21.68787	95.89408	A	ADM3	MM		08	MMR010D003	MMR010016		151791		127	Asia/Yangon	2023-08-05
+11154261	Matupi	Matupi	Madupi,Matupi Township,မတပမြနယ,မတူပီမြို့နယ်	21.82791	93.46198	A	ADM3	MM		02	MMR004D002	MMR004007		51975		1225	Asia/Yangon	2023-12-10
+11154262	Pyinoolwin	Pyinoolwin	Maymyo,Pyin U Lwin,Pyinoolwin Township	21.97366	96.47962	A	ADM3	MM		08	MMR010D002	MMR010008		171698		1105	Asia/Yangon	2023-08-04
+11154263	Falam	Falam	Falam Township	23.01799	93.67397	A	ADM3	MM		02	MMR004D001	MMR004001		46898		1423	Asia/Yangon	2023-08-04
+11154264	Singu	Singu	Singu Township	22.54063	96.12292	A	ADM3	MM		08	MMR010D002	MMR010010		141810		382	Asia/Yangon	2023-08-06
+11154265	Kani	Kani		22.45363	94.66331	A	ADM3	MM		10	MMR005D009	MMR005017		141117		240	Asia/Yangon	2016-05-31
+11154266	Hsipaw	Hsipaw	Hsipaw Township	22.37656	97.54358	A	ADM3	MM		11	MMR015D003	MMR015014		161705		803	Asia/Yangon	2023-08-05
+11154267	Tigyaing	Tigyaing	Htigyaing Township	23.77521	96.20689	A	ADM3	MM		10	MMR005D004	MMR005022		114686		91	Asia/Yangon	2023-08-05
+11154268	Pangsang	Pangsang	Pangsang Township	22.46102	98.83146	A	ADM3	MM		11	MMR015D007	MMR015005		0		1181	Asia/Yangon	2023-08-05
+11154269	Waingmaw	Waingmaw	Waingmaw Township,winemawmyahoetnaal,ဝိုင်းမော်မြို့နယ်	25.31178	97.70103	A	ADM3	MM		04	MMR001D001	MMR001002		119518		335	Asia/Yangon	2023-08-01
+11154270	Pangwaun	Pangwaun	Pangwaun Township	22.93159	99.28464	A	ADM3	MM		11	MMR015D006	MMR015007		0		1459	Asia/Yangon	2023-08-05
+11154271	Hkamti	Hkamti	Hkamti Township,Khamti,Khamti Township,hkanteemyahoetnaal,ခန္တီးမြို့နယ်	25.85591	95.7059	A	ADM3	MM		10	MMR005D008	MMR005033		33934		228	Asia/Yangon	2023-08-01
+11154272	Taze	Taze	တနဆည,တန့်ဆည်	23.08675	95.19496	A	ADM3	MM		10	MMR005D002	MMR005011		179908		201	Asia/Yangon	2016-06-05
+11154273	Hopang	Hopang	Hopang Township,ဟပနမြနယ,ဟိုပန်မြို့နယ်	23.22028	98.72574	A	ADM3	MM		11	MMR015D006	MMR015021		24637		829	Asia/Yangon	2023-08-05
+11154274	Manton	Manton	Mantong Township,မနတမြနယ,မန်တုံမြို့နယ်	23.37154	97.28934	A	ADM3	MM		11	MMR015D003	MMR015019		42742		1912	Asia/Yangon	2023-08-05
+11154275	Mawlaik	Mawlaik	Mawlaik Township	23.6991	94.59822	A	ADM3	MM		10	MMR005D007	MMR005031		53435		368	Asia/Yangon	2023-08-05
+11154276	Tonzang	Tonzang	Tonzang Township,တနးဇမြနယ,တွန်းဇံမြို့နယ်	23.76474	93.7467	A	ADM3	MM		02	MMR004D001	MMR004005		30002		1109	Asia/Yangon	2023-08-04
+11154277	Kyunhla	Kyunhla	Kyunhla Township	23.4791	95.18909	A	ADM3	MM		10	MMR005D002	MMR005008		90170		233	Asia/Yangon	2023-08-03
+11154278	Homalin	Homalin	Homalin Township,ဟမမလငး မြနယ,ဟုမ္မလင်း မြို့နယ်	24.95113	95.29161	A	ADM3	MM		10	MMR005D008	MMR005034		184219		216	Asia/Yangon	2023-08-01
+11154279	Konkyan	Konkyan	Kongyan,Konkyan,Konkyan Township,ကနးကြမးမြနယ,ကုန်းကြမ်းမြို့နယ်	23.96313	98.61206	A	ADM3	MM		11	MMR015D005	MMR015023		0		1524	Asia/Yangon	2023-08-03
+11154280	Pinlebu	Pinlebu	Pinlebu Township	24.04946	95.36674	A	ADM3	MM		10	MMR005D004	MMR005026		111368		259	Asia/Yangon	2023-08-03
+11154281	Bhamo	Bhamo	Bhamo Township,ဗနးမောမြနယ,ဗန်းမော်မြို့နယ်	24.19749	97.09531	A	ADM3	MM		04	MMR001D003	MMR001010		108520		110	Asia/Yangon	2023-08-03
+11154282	Mohnyin	Mohnyin	Mohnyin Township,မိုးညှင်းမြို့နယ်,မးညငးမြနယ	24.93806	96.32714	A	ADM3	MM		04	MMR001D002	MMR001007		206581		507	Asia/Yangon	2023-08-01
+11154283	Tsawlaw	Tsawlaw	Hsawlaw Township,ဆောလောမြနယ,ဆော့လောမြို့နယ်	26.44701	98.43247	A	ADM3	MM		04	MMR001D001	MMR001006		6837		2888	Asia/Yangon	2023-08-03
+11154284	Machanbaw	Machanbaw	Machanbaw Township	27.20828	97.79347	A	ADM3	MM		04	MMR001D004	MMR001016		20788		757	Asia/Yangon	2023-08-03
+11154285	Mingaladon	Mingaladon	Mingaladon Township,မငဂလာဒ မြနယ,မင်္ဂလာဒုံ မြို့နယ်	16.99749	96.13464	A	ADM3	MM		17	MMR013D001	MMR013002		179465		30	Asia/Yangon	2023-08-04
+11154286	Mongla	Mongla	Mong La Township	21.55151	99.94364	A	ADM3	MM		11	MMR016D001	MMR016005		0		970	Asia/Yangon	2023-08-03
+11154287	Nyaungshwe	Nyaungshwe	Nyaungshwe Township,ညောငရေမြနယ,ညောင်ရွှေမြို့နယ်	20.35535	96.95226	A	ADM3	MM		11	MMR014D001	MMR014002		172469		1186	Asia/Yangon	2023-08-04
+11154288	Sidoktaya	Sidoktaya	Sidoktaya Township,စေတတတရာ မြနယ,စေတုတ္တရာ မြို့နယ်	20.50837	94.18066	A	ADM3	MM		15	MMR009D002	MMR009011		43198		347	Asia/Yangon	2023-08-03
+11154289	Ywangan	Ywangan	Ywangan Township,ရာငမြနယ,ရွာငံမြို့နယ်	21.28372	96.49952	A	ADM3	MM		11	MMR014D001	MMR014007		76933		960	Asia/Yangon	2023-08-04
+11154290	Paletwa	Paletwa	Paletwa District,ပလကဝမြ,ပလက်ဝမြို့	21.39031	93.05209	A	ADM3	MM		02	MMR004D002	MMR004009		91030		114	Asia/Yangon	2023-08-01
+11154291	Namhkan	Namhkan	Namhkam Township,Nanhkan	23.71286	97.62478	A	ADM3	MM		11	MMR015D002	MMR015010		106030		1691	Asia/Yangon	2023-08-03
+11154292	Gangaw	Gangaw	Gangaw Township	22.25027	94.17969	A	ADM3	MM		15	MMR009D005	MMR009023		131595		440	Asia/Yangon	2023-08-03
+11154293	Tangyan	Tangyan	Tangyan Township	22.4972	98.39051	A	ADM3	MM		11	MMR015D001	MMR015004		127576		943	Asia/Yangon	2023-08-03
+11154294	Thabeikkyin	Thabeikkyin	Tha Pate Kyin,Thabeikkyin Township	23.22536	96.10169	A	ADM3	MM		08	MMR010D002	MMR010012		119856		164	Asia/Yangon	2023-08-04
+11154295	Demoso	Demoso	Demoso Township,ဒမောဆး‌မြနယ,ဒီမောဆိုး‌မြို့နယ်	19.45763	97.28282	A	ADM3	MM		06	MMR002D001	MMR002002		78704		940	Asia/Yangon	2023-08-04
+11154296	Myawaddy	Myawaddy	Myawaddy Township,မြဝတမြနယ,မြဝတီမြို့နယ်	16.54942	98.51991	A	ADM3	MM		05	MMR003D002	MMR003005		92909		411	Asia/Yangon	2023-08-04
+11154297	Tabayin	Tabayin	Tabayin Township	22.65242	95.17999	A	ADM3	MM		10	MMR005D002	MMR005010		153317		156	Asia/Yangon	2023-08-03
+11154298	Wetlet	Wetlet	Wetlet Township	22.35163	95.78106	A	ADM3	MM		10	MMR005D002	MMR005006		201901		86	Asia/Yangon	2023-08-03
+11154299	Ayadaw	Ayadaw	Ayadaw Township	22.29642	95.42682	A	ADM3	MM		10	MMR005D003	MMR005014		163408		177	Asia/Yangon	2023-08-03
+11154300	Myinmu	Myinmu	Myinmu Township	22.00794	95.50905	A	ADM3	MM		10	MMR005D001	MMR005002		114738		98	Asia/Yangon	2023-08-03
+11154301	Dekkhina Thiri	Dekkhina Thiri	Myawaddy Township,ဒကခဏသရမြနယ,ဒက္ခိဏသီရိမြို့နယ်	19.7045	96.06807	A	ADM3	MM		18	MMR018D002	MMR018004		0		136	Asia/Yangon	2023-08-04
+11154302	Sagaing	Sagaing	Sagaing Township	22.05204	95.83307	A	ADM3	MM		10	MMR005D001	MMR005001		295617		101	Asia/Yangon	2023-08-03
+11154303	Thayarwady	Thayarwady	: သာယာဝတ,: သာယာဝတီ,Tharrawaddy Township	17.69148	95.83288	A	ADM3	MM		16	MMR008D002	MMR008007		156474		25	Asia/Yangon	2023-08-05
+11154304	Letpadan	Letpadan	Letpadan Township,လကပတနးမြနယ,လက်ပတန်းမြို့နယ်	17.88204	95.82375	A	ADM3	MM		16	MMR008D002	MMR008008		221585		47	Asia/Yangon	2023-08-03
+11154305	Mogoke	Mogoke	Mogoke Township	22.90657	96.42476	A	ADM3	MM		08	MMR010D002	MMR010011		191775		1423	Asia/Yangon	2023-08-06
+11154306	Ngazun	Ngazun	Ngazun Township	21.78619	95.64123	A	ADM3	MM		08	MMR010D004	MMR010021		133162		130	Asia/Yangon	2023-08-03
+11154307	Mongmao	Mongmao	Mongmao Township,ၸႄႈwinnmiuuinnmႇ,ၸႄႈဝဵင်းမိူင်းမႂ်ႇ	22.95984	98.88605	A	ADM3	MM		11	MMR015D006	MMR015008		0		935	Asia/Yangon	2023-08-03
+11154308	Hpasawng	Hpasawng	Hpasawng Township,ဖားဆောငးမြနယ,ဖားဆောင်းမြို့နယ်	18.88239	97.17768	A	ADM3	MM		06	MMR002D002	MMR002006		32126		810	Asia/Yangon	2023-08-05
+11154309	Hpruso	Hpruso	Hpruso Township,ဖရဆမြနယ,ဖရူဆိုမြို့နယ်	19.26302	97.06431	A	ADM3	MM		06	MMR002D001	MMR002003		30507		728	Asia/Yangon	2023-08-05
+11154310	Kyangin	Kyangin	Kyangin Township,ကြခငးမြနယ,ကြံခင်းမြို့နယ်	18.30256	95.05736	A	ADM3	MM		03	MMR017D002	MMR017012		98587		49	Asia/Yangon	2023-08-05
+11154311	Nyaungdon	Nyaungdon	Nyaungdon Township,ညောငတနးမြနယ,ညောင်တုန်းမြို့နယ်	17.02104	95.70506	A	ADM3	MM		03	MMR017D005	MMR017021		220681		4	Asia/Yangon	2023-08-05
+11154312	Pyay	Pyay	Prome,Pyay Township	18.81977	95.21567	A	ADM3	MM		16	MMR008D001	MMR008001		239003		2	Asia/Yangon	2024-03-09
+11154313	Kawthoung	Kawthoung	Kawthaung Township,ကောသောငမြနယ,ကော့သောင်မြို့နယ်	10.42056	98.577	A	ADM3	MM		12	MMR006D003	MMR006009		98284		48	Asia/Yangon	2023-08-01
+11154314	Launglon	Launglon	Launglon Township,လောငးလးမြနယ,လောင်းလုံးမြို့နယ်	13.92743	98.12702	A	ADM3	MM		12	MMR006D001	MMR006002		136365		23	Asia/Yangon	2023-08-05
+11154315	Yebyu	Yebyu	Yebyu Township,ရေဖြမြနယ,ရေဖြူမြို့နယ်	14.6329	98.10763	A	ADM3	MM		12	MMR006D001	MMR006004		148023		69	Asia/Yangon	2023-08-05
+11154316	Ye	Ye	Ye Township	15.29692	97.94833	A	ADM3	MM		13	MMR011D001	MMR011006		257095		97	Asia/Yangon	2023-08-06
+11154317	Bogale	Bogale	Bogale Township,ဘကလေးမြနယ,ဘိုကလေးမြို့နယ်	16.09403	95.36475	A	ADM3	MM		03	MMR017D006	MMR017024		350792		5	Asia/Yangon	2023-08-05
+11154318	Dedaye	Dedaye	Dedaye Township,ဒေးဒရမြနယ,ဒေးဒရဲမြို့နယ်	16.31267	95.85154	A	ADM3	MM		03	MMR017D006	MMR017026		218828		4	Asia/Yangon	2023-08-05
+11154319	Kungyangon	Kungyangon	Kungyangon Township,ကမးခြကနး မြနယ,ကွမ်းခြံကုန်း မြို့နယ်	16.43006	96.11134	A	ADM3	MM		17	MMR013D003	MMR013029		114150		3	Asia/Yangon	2023-08-05
+11154320	Ngapudaw	Ngapudaw	Ngapudaw Township,ငပတောမြ,ငပုတော်မြို့	16.32527	94.44946	A	ADM3	MM		03	MMR017D001	MMR017004		153219		4	Asia/Yangon	2023-08-05
+11154321	Mudon	Mudon	Mudon Township,မဒမြနယ,မုဒုံမြို့နယ်	16.15106	97.71944	A	ADM3	MM		13	MMR011D001	MMR011005		213471		7	Asia/Yangon	2023-08-03
+11154322	Pyapon	Pyapon	Pyapon Township,ဖျာပမြနယ,ဖျာပုံမြို့နယ်	16.06145	95.64947	A	ADM3	MM		03	MMR017D006	MMR017023		306105		2	Asia/Yangon	2023-08-05
+11154323	Mawlamyine	Mawlamyine	Mawlamyaing,မောလမြငမြ,မော်လမြိုင်မြို့	16.47572	97.65351	A	ADM3	MM		13	MMR011D001	MMR011001		277249		14	Asia/Yangon	2016-06-03
+11154324	Kawhmu	Kawhmu	Kawhmu Township,ကောမး မြနယ,ကော့မှူး မြို့နယ်	16.5491	96.05339	A	ADM3	MM		17	MMR013D003	MMR013028		125812		10	Asia/Yangon	2023-08-05
+11154325	Kyauktan	Kyauktan	Kyauktan Township,ကျောကတနး မြနယ,ကျောက်တန်း မြို့နယ်	16.60181	96.46	A	ADM3	MM		17	MMR013D003	MMR013024		162931		4	Asia/Yangon	2023-08-05
+11154326	Paung	Paung	Paung Township,ပေါငမြနယ,ပေါင်မြို့နယ်	16.66801	97.42869	A	ADM3	MM		13	MMR011D002	MMR011008		245736		6	Asia/Yangon	2023-08-05
+11154327	Thaton	Thaton	Thaton Township,သထမြနယ,သထုံမြို့နယ်	16.97954	97.3426	A	ADM3	MM		13	MMR011D002	MMR011007		252068		19	Asia/Yangon	2023-08-03
+11154328	Kawa	Kawa	Kawa Township,kawamyahoetnaal,ကဝမြို့နယ်	17.04853	96.68262	A	ADM3	MM		16	MMR007D001	MMR007003		221487		6	Asia/Yangon	2023-08-03
+11154329	Bilin	Bilin	Bilin Township,ဘီးလင်းမြို့,ဘးလငးမြ	17.31013	97.26209	A	ADM3	MM		13	MMR011D002	MMR011010		165042		39	Asia/Yangon	2023-08-03
+11154330	Gwa Twonship	Gwa Twonship	Gwa Township,ဂမြနယ,ဂွမြို့နယ်	17.7518	94.66392	A	ADM3	MM		01	MMR012D004	MMR012017		62071		140	Asia/Yangon	2019-11-10
+11154331	Sittwe	Sittwe	Sittwe Township,စစတေမြနယ,စစ်တွေမြို့နယ်	20.21106	92.85285	A	ADM3	MM		01	MMR012D001	MMR012001		303614		6	Asia/Yangon	2023-08-05
+11154332	Minbya	Minbya	Minbya Township,မငးပြားမြနယ,မင်းပြားမြို့နယ်	20.49283	93.51408	A	ADM3	MM		01	MMR012D005	MMR012005		198612		362	Asia/Yangon	2023-08-05
+11154333	Maungdaw	Maungdaw	Maungdaw Township,မောငတောမြနယ,မောင်တောမြို့နယ်	21.03525	92.3683	A	ADM3	MM		01	MMR012D002	MMR012009		540032		41	Asia/Yangon	2023-08-05
+11154334	Kyauktaw Township	Kyauktaw Township	Kyauktaw Township,ကျောကတောမြနယ,ကျောက်တော်မြို့နယ်	20.90385	92.93582	A	ADM3	MM		01	MMR012D005	MMR012004		214298		6	Asia/Yangon	2019-11-10
+11154335	Thongwa	Thongwa	Thongwa Township,သုံးခွ မြို့နယ်,သးခ မြနယ	16.75478	96.59259	A	ADM3	MM		17	MMR013D003	MMR013025		158876		4	Asia/Yangon	2023-08-05
+11154336	Pathein	Pathein	Pathein Township	16.8435	94.57622	A	ADM3	MM		03	MMR017D001	MMR017001		305105		22	Asia/Yangon	2023-08-05
+11154337	Buthidaung Township	Buthidaung Township	Buthidaung Township,ဘူးသီးတောင်မြို့နယ်,ဘးသးတောငမြနယ	21.0218	92.55774	A	ADM3	MM		01	MMR012D002	MMR012010		309526		70	Asia/Yangon	2019-11-10
+11154338	Kyaikmaraw	Kyaikmaraw	Kyaikmaraw Township,ကျကမရောမြနယ,ကျိုက်မရောမြို့နယ်	16.32187	97.87464	A	ADM3	MM		13	MMR011D001	MMR011002		213397		6	Asia/Yangon	2023-08-05
+11154339	Kayan	Kayan	Kayan Township	16.90102	96.59206	A	ADM3	MM		17	MMR013D003	MMR013026		169456		13	Asia/Yangon	2023-08-06
+11154340	Palaw	Palaw	Palaw Township	13.1153	98.68536	A	ADM3	MM		12	MMR006D002	MMR006007		138628		87	Asia/Yangon	2023-08-06
+11154341	Thayetchaung	Thayetchaung	Thayetchaung Township,သရကချောငးမြနယ,သရက်ချောင်းမြို့နယ်	13.69128	98.44312	A	ADM3	MM		12	MMR006D001	MMR006003		115343		16	Asia/Yangon	2023-08-05
+11154342	Thanbyuzayat	Thanbyuzayat	Thanbyuzayat Township,သဖြဇရပမြနယ,သံဖြူဇရပ်မြို့နယ်	15.85342	97.74668	A	ADM3	MM		13	MMR011D001	MMR011004		169950		13	Asia/Yangon	2023-08-03
+11154343	Thanatpin	Thanatpin	Thanatpin Township	17.25484	96.72153	A	ADM3	MM		16	MMR007D001	MMR007002		159274		8	Asia/Yangon	2023-08-03
+11154344	Mrauk-U	Mrauk-U	Mrauk-U Township,မြောကဥးမြနယ,မြောက်ဦးမြို့နယ်	20.62644	93.17785	A	ADM3	MM		01	MMR012D005	MMR012003		220414		33	Asia/Yangon	2023-08-05
+11154345	Ponnagyun	Ponnagyun	Ponnagyun Township,ပဏဏားကျနးမြနယ,ပုဏ္ဏားကျွန်းမြို့နယ်	20.569	92.89133	A	ADM3	MM		01	MMR012D001	MMR012002		152355		119	Asia/Yangon	2023-08-05
+11154346	Dala	Dala	Dala Township	16.67703	96.15202	A	ADM3	MM		17	MMR013D003	MMR013030		150084		6	Asia/Yangon	2023-08-06
+11154347	Ramree	Ramree	Ramree Township	19.10254	93.8754	A	ADM3	MM		01	MMR012D003	MMR012013		112186		10	Asia/Yangon	2023-08-06
+11154348	Kyaukpyu Township	Kyaukpyu Township	Kyaukpyu Township,ကျောကဖြမြနယ,ကျောက်ဖြူမြို့နယ်	19.34497	93.68348	A	ADM3	MM		01	MMR012D003	MMR012011		171724		-9999	Asia/Yangon	2019-11-10
+11154349	Kyaikto	Kyaikto	Kyaikto Township,ကျကထမြနယ,ကျိုက်ထိုမြို့နယ်	17.42922	97.00759	A	ADM3	MM		13	MMR011D002	MMR011009		163767		127	Asia/Yangon	2023-08-03
+11154350	Rathedaung	Rathedaung	Rathedaung Township,ရသေတောငမြနယ,ရသေ့တောင်မြို့နယ်	20.45594	92.68896	A	ADM3	MM		01	MMR012D001	MMR012008		166717		1	Asia/Yangon	2023-08-05
+11154351	Yegyi	Yegyi	Yegyi Township,ရေကြညမြနယ,ရေကြည်မြို့နယ်	17.36597	94.98362	A	ADM3	MM		03	MMR017D001	MMR017006		194920		5	Asia/Yangon	2023-08-05
+11154352	Thanlyin	Thanlyin		16.79558	96.32907	A	ADM3	MM		17	MMR013D003	MMR013023		187944		6	Asia/Yangon	2016-05-31
+11154353	Myeik	Myeik	Myeik Township,မြတမြနယ,မြိတ်မြို့နယ်	12.49985	98.77611	A	ADM3	MM		12	MMR006D002	MMR006005		273759		19	Asia/Yangon	2023-08-05
+11154354	Kyunsu	Kyunsu	Kyunsu Township	12.5005	98.39113	A	ADM3	MM		12	MMR006D003	MMR006006		167064		253	Asia/Yangon	2023-08-01
+11154355	Bokpyin	Bokpyin	Bokepyin Township	11.28958	98.79032	A	ADM3	MM		12	MMR006D003	MMR006010		46584		27	Asia/Yangon	2023-08-01
+11154356	Zay Yar Thi Ri	Zay Yar Thi Ri		19.88727	96.32377	A	ADM3	MM		18	MMR018D001	MMR018001		0		622	Asia/Yangon	2016-05-31
+11154357	Pobba Thiri	Pobba Thiri	Pobbathiri Township,ပဗဗသရမြနယ,ပုဗ္ဗသီရိမြို့နယ်	19.90129	96.19096	A	ADM3	MM		18	MMR018D001	MMR018005		0		139	Asia/Yangon	2023-08-05
+11154358	Ottara Thiri	Ottara Thiri	Ottarathiri Township,ဥတတရသရမြနယ,ဥတ္တရသီရိမြို့နယ်	19.93102	95.99902	A	ADM3	MM		18	MMR018D001	MMR018008		0		209	Asia/Yangon	2023-08-05

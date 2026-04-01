@@ -1,0 +1,493 @@
+﻿1185232	Dhunot	Dhunot	Dhunat Thana,Dhunat Upazila,Dhunot Thana,dhunata upajela,ধুনট উপজেলা	24.66667	89.53333	A	ADM3	BD		83	5010	501027		0		13	Asia/Dhaka	2023-05-31
+1185242	Companiganj	Companiganj	Companiganj,Companiganj Upazila,Companyganj Thana,kompaniganja,কোম্পানীগঞ্জ	22.83333	91.28333	A	ADM3	BD		84	2075	207521		0		9	Asia/Dhaka	2023-05-28
+6421872	Rangunia Upazila Parishad	Rangunia Upazila Parishad	Rangunia,Rangunia Subdistrict,Rangunia Upazila,Rangunia Upazila Parishad	22.49056	92.07278	A	ADM3	BD		84	2015	201570		0		11	Asia/Dhaka	2021-05-30
+7645485	Khetlal	Khetlal	Khetlal Upazila,ksetalala,ক্ষেতলাল	25.02	89.11	A	ADM3	BD		83	5038	503861		0		21	Asia/Dhaka	2023-05-27
+7645486	Baraigram	Baraigram	Baraigram Upazila,bara'igrama,বড়াইগ্রাম	24.26	89.12	A	ADM3	BD		83	5069	506915		0		17	Asia/Dhaka	2023-05-23
+7645487	Nachole	Nachole	Nachol Upazila,nacola,নাচোল	24.73	88.39	A	ADM3	BD		83	5070	507056		0		33	Asia/Dhaka	2023-05-27
+7645488	Kaliganj	Kaliganj	Kaliganj Upazila,kaliganja,কালিগঞ্জ	23.99	90.55	A	ADM3	BD		81	3033	303334		0		5	Asia/Dhaka	2023-05-23
+7645489	Derai	Derai	Derai Upazila,dira'i),দিরাই)	24.79	91.35	A	ADM3	BD		86	6090	609029		0		11	Asia/Dhaka	2023-05-23
+7645490	Jamalganj	Jamalganj	Jamalganj Upazila,jamalaganja,জামালগঞ্জ	24.96	91.21	A	ADM3	BD		86	6090	609050		0		6	Asia/Dhaka	2023-05-23
+7645491	Sunamganj S.	Sunamganj S.	Sunamganj Sadar Upazila,sunamaganja sadara,সুনামগঞ্জ সদর	24.95	91.43	A	ADM3	BD		86	6090	609090		0		10	Asia/Dhaka	2023-09-29
+7645492	Homna	Homna	Homna Upazila,homana upajela,হোমনা উপজেলা	23.66	90.79	A	ADM3	BD		84	2019	201954		0		10	Asia/Dhaka	2023-05-28
+7645694	Kachua	Kachua	Kachua Upazila	23.36	90.87	A	ADM3	BD		84	2013	201358		0		10	Asia/Dhaka	2023-05-28
+7645695	Shahrasti	Shahrasti	Shahrasti Upazila,saharasti,শাহরাস্তি	23.21	90.95	A	ADM3	BD		84	2013	201395		0		8	Asia/Dhaka	2023-05-28
+7645696	Faridganj	Faridganj	Faridganj Upazila,pharidaganja,ফরিদগঞ্জ	23.14	90.76	A	ADM3	BD		84	2013	201345		0		11	Asia/Dhaka	2023-05-28
+7645697	Haimchar	Haimchar	Haimchar Upazila,ha'imacara,হাইমচর	23.07	90.66	A	ADM3	BD		84	2013	201347		0		5	Asia/Dhaka	2023-05-28
+7645698	Haziganj	Haziganj	Haziganj Upazila,hajiganja,হাজীগঞ্জ	23.26	90.83	A	ADM3	BD		84	2013	201349		0		8	Asia/Dhaka	2023-05-29
+7645699	Akhaura	Akhaura	Akhaura Upazila,akha'ura,আখাউড়া	23.83	91.21	A	ADM3	BD		84	2012	201202		0		10	Asia/Dhaka	2023-05-29
+7645700	Sarail	Sarail	Sarail,Sarail Upazila	24.1	91.11	A	ADM3	BD		84	2012	201294		0		7	Asia/Dhaka	2016-11-07
+7645701	Brahmanbaria S.	Brahmanbaria S.		23.97	91.14	A	ADM3	BD		84	2012	201213		0		7	Asia/Dhaka	2016-11-29
+7645702	Keraniganj	Keraniganj	Keraniganj Upazila	23.69	90.34	A	ADM3	BD		81	3026	302638		0		5	Asia/Dhaka	2023-05-23
+7645704	Nandigram	Nandigram	Nandigram Upazila,nandigrama upajela,নন্দীগ্রাম উপজেলা	24.68	89.24	A	ADM3	BD		83	5010	501067		0		18	Asia/Dhaka	2023-05-23
+7645705	Shibganj	Shibganj	Shibganj Upazila,sibaganja upajela,শিবগঞ্জ উপজেলা	25.03	89.31	A	ADM3	BD		83	5010	501094		0		22	Asia/Dhaka	2023-05-23
+7645706	Sonatala	Sonatala	Sonatala Upazila,sonatala upajela,সোনাতলা উপজেলা	25.02	89.49	A	ADM3	BD		83	5010	501095		0		17	Asia/Dhaka	2023-05-23
+7645707	Kahaloo	Kahaloo	Kahaloo Upazila,kahalu upajela,কাহালু উপজেলা	24.84	89.25	A	ADM3	BD		83	5010	501054		0		21	Asia/Dhaka	2023-05-23
+7645708	Manda	Manda	Manda Upazila,manda,মান্দা	24.74	88.72	A	ADM3	BD		83	5064	506447		0		18	Asia/Dhaka	2023-05-23
+7645709	Atrai	Atrai	Atrai Upazila,atra'i,আত্রাই	24.63	88.99	A	ADM3	BD		83	5064	506403		0		14	Asia/Dhaka	2023-05-23
+7645711	Patnitala	Patnitala	Patnitala Upazila,patnitala,পত্নীতলা	25.05	88.69	A	ADM3	BD		83	5064	506475		0		22	Asia/Dhaka	2023-05-23
+7645712	Naogaon S.	Naogaon S.	Naogaon Sadar Upazila,na'ogam sadara,নওগাঁ সদর	24.8	88.9	A	ADM3	BD		83	5064	506460		0		18	Asia/Dhaka	2023-05-27
+7645713	Dhamoirhat	Dhamoirhat	Dhamoirhat Upazila	25.14	88.85	A	ADM3	BD		83	5064	506428		0		20	Asia/Dhaka	2023-05-23
+7645714	Niamatpur	Niamatpur	Niamatpur Upazila,niyamatapura,নিয়ামতপুর	24.83	88.55	A	ADM3	BD		83	5064	506469		0		22	Asia/Dhaka	2023-05-23
+7645715	Santhia	Santhia	Santhia Upazila,samthiya,সাঁথিয়া	24.05	89.52	A	ADM3	BD		83	5076	507672		0		8	Asia/Dhaka	2023-05-27
+7645716	Tanore	Tanore	Tanore Upazila,tanora,তানোর	24.62	88.53	A	ADM3	BD		83	5081	508194		0		25	Asia/Dhaka	2023-05-27
+7645717	Mohanpur	Mohanpur	Mohanpur Upazila	24.55	88.64	A	ADM3	BD		83	5081	508153		0		12	Asia/Dhaka	2023-05-31
+7645718	Bagmara	Bagmara	Bagmara Upazila,bagamara,বাগমারা	24.59	88.82	A	ADM3	BD		83	5081	508112		0		14	Asia/Dhaka	2023-05-31
+7645720	Kazipur	Kazipur	Kazipur Upazila,kajipura,কাজীপুর	24.67	89.7	A	ADM3	BD		83	5088	508850		0		19	Asia/Dhaka	2023-05-23
+7645721	Raiganj	Raiganj	Raiganj Upazila	24.49	89.52	A	ADM3	BD		83	5088	508861		0		15	Asia/Dhaka	2023-05-23
+7645722	Tongibari	Tongibari	Tongibari Upazila	23.48	90.46	A	ADM3	BD		81	3059	305994		0		6	Asia/Dhaka	2023-05-23
+7645724	Jagannathpur	Jagannathpur	Jagannathpur Upazila,jagannathapura,জগন্নাথপুর	24.75	91.57	A	ADM3	BD		86	6090	609047		0		11	Asia/Dhaka	2023-05-23
+7645735	Bishwamvarpur	Bishwamvarpur	Bishwamvarpur Upazila,bisbambharapura,বিশ্বম্ভরপুর	25.12	91.33	A	ADM3	BD		86	6090	609018		0		12	Asia/Dhaka	2023-05-23
+7645736	Kamalganj	Kamalganj	Kamolganj Upazila,kamalaganja,কমলগঞ্জ	24.34	91.84	A	ADM3	BD		86	6058	605856		0		28	Asia/Dhaka	2023-05-31
+7645738	Kulaura	Kulaura	Kulaura Upazila,kula'ura,কুলাউড়া	24.5	92.05	A	ADM3	BD		86	6058	605865		0		25	Asia/Dhaka	2023-05-31
+7645739	Sreemangal	Sreemangal	Sreemangal Upazila	24.3	91.68	A	ADM3	BD		86	6058	605883		0		12	Asia/Dhaka	2023-05-27
+7645740	Bahubal	Bahubal	Bahubal Upazila,bahubala,বাহুবল	24.37	91.54	A	ADM3	BD		86	6036	603605		137402		10	Asia/Dhaka	2023-05-27
+7645741	Lakhai	Lakhai	Lakhai Upazila	24.29	91.27	A	ADM3	BD		86	6036	603668		0		10	Asia/Dhaka	2023-05-27
+7645742	Zakiganj	Zakiganj	Zakiganj Upazila,jakiganja,জকিগঞ্জ	24.92	92.38	A	ADM3	BD		86	6091	609194		0		16	Asia/Dhaka	2023-05-27
+7645744	Kanaighat	Kanaighat	Kanaighat Upazila,kana'ighata,কানাইঘাট	25	92.21	A	ADM3	BD		86	6091	609159		0		13	Asia/Dhaka	2023-05-27
+7645746	Jaintiapur	Jaintiapur	Jaintiapur Upazila	25.08	92.15	A	ADM3	BD		86	6091	609153		0		14	Asia/Dhaka	2023-05-27
+7645747	Kasba	Kasba	Kasba Upazila,kasaba,কসবা	23.77	91.12	A	ADM3	BD		84	2012	201263		0		10	Asia/Dhaka	2023-05-29
+7645750	Singair	Singair	Singair Upazila,singa'ira,সিঙ্গাইর	23.79	90.15	A	ADM3	BD		81	3056	305682		0		8	Asia/Dhaka	2023-05-23
+7645751	Bogra	Bogra	Bogra Sadar Upazila,bagura sadara upajela,বগুড়া সদর উপজেলা	24.84984	89.37567	A	ADM3	BD		83	5010	501020		0		23	Asia/Dhaka	2023-05-23
+7645752	Sherpur	Sherpur	Sherpur Upazila,serapura upajela,শেরপুর উপজেলা	24.63196	89.40571	A	ADM3	BD		83	5010	501088		0		19	Asia/Dhaka	2023-05-23
+7645756	Pabna S.	Pabna S.	Pabna Sadar Upazila,pabana sadara,পাবনা সদর	24.02	89.29	A	ADM3	BD		83	5076	507655		0		14	Asia/Dhaka	2023-05-31
+7645758	Tarash	Tarash	Tarash Upazila,tarasa,তাড়াশ	24.45	89.36	A	ADM3	BD		83	5088	508889		0		12	Asia/Dhaka	2023-05-23
+7645759	Lohajang	Lohajang	Louhajang Upazila,lauhajam,লৌহজং	23.47	90.35	A	ADM3	BD		81	3059	305944		0		6	Asia/Dhaka	2023-05-23
+7645760	Sirajdikhan	Sirajdikhan	Sirajdikhan Upazila,sirajadikhana,সিরাজদিখান	23.6	90.39	A	ADM3	BD		81	3059	305974		0		5	Asia/Dhaka	2023-05-23
+7645762	Muradnagar	Muradnagar	Muradnagar Upazila,muradanagara,মুরাদনগর	23.68	90.93	A	ADM3	BD		84	2019	201981		0		8	Asia/Dhaka	2023-05-29
+7645764	Ajmiriganj	Ajmiriganj	Ajmiriganj Upazila,ajamiriganja,আজমিরিগঞ্জ	24.57	91.29	A	ADM3	BD		86	6036	603602		0		9	Asia/Dhaka	2023-05-27
+7645765	Gowainghat	Gowainghat	Gowainghat Upazila,goya'inaghata,গোয়াইনঘাট	25.08	91.97	A	ADM3	BD		86	6091	609141		0		12	Asia/Dhaka	2023-05-27
+7645766	Kaliakair	Kaliakair	Kaliakair Upazila,kaliyakaira,কালিয়াকৈর	24.1	90.28	A	ADM3	BD		81	3033	303332		0		10	Asia/Dhaka	2023-05-23
+7645773	Kapasia	Kapasia	Kapasia Upazila,kapasiya,কাপাসিয়া	24.15	90.61	A	ADM3	BD		81	3033	303336		0		8	Asia/Dhaka	2023-05-23
+7645774	Singra	Singra	Singra Upazila,sinra,সিংড়া	24.53	89.19	A	ADM3	BD		83	5069	506991		0		14	Asia/Dhaka	2023-05-24
+7645775	Chandpur S.	Chandpur S.		23.24	90.66	A	ADM3	BD		84	2013	201322		0		10	Asia/Dhaka	2016-11-08
+7645777	Nasirnagar	Nasirnagar	Nasirnagar Upazila,nasiranagara,নাসিরনগর	24.18	91.2	A	ADM3	BD		84	2012	201290		0		10	Asia/Dhaka	2023-05-29
+7645778	Beanibazar	Beanibazar	Beanibazar Upazila,biyanibajara,বিয়ানীবাজার	24.85	92.17	A	ADM3	BD		86	6091	609117		0		15	Asia/Dhaka	2023-05-27
+7645779	Dohar	Dohar	Dohar Upazila,dohara,দোহার	23.6	90.14	A	ADM3	BD		81	3026	302618		0		13	Asia/Dhaka	2023-05-24
+7645818	Narsingdi S.	Narsingdi S.	Narsingdi District,narasindi jela,নরসিংদী জেলা	23.87	90.71	A	ADM3	BD		81	3068	306860		0		5	Asia/Dhaka	2023-05-27
+7645820	Sonargaon	Sonargaon	Sonargaon Upazila,sonaragamo,সোনারগাঁও	23.69	90.62	A	ADM3	BD		81	3067	306704		0		7	Asia/Dhaka	2023-05-27
+7645821	Barlekha	Barlekha	Barlekha Upazila,baralekha,বড়লেখা	24.69	92.19	A	ADM3	BD		86	6058	605814		0		23	Asia/Dhaka	2023-05-27
+7645845	Brahmanpara	Brahmanpara	Brahmanpara Upazila,brahmanapara,ব্রাহ্মণপাড়া	23.64	91.11	A	ADM3	BD		84	2019	201915		0		14	Asia/Dhaka	2023-05-29
+7645846	Burichang	Burichang	Burichang Upazila,buricam,বুড়িচং	23.54	91.12	A	ADM3	BD		84	2019	201918		0		10	Asia/Dhaka	2023-05-29
+7645847	Comilla S.	Comilla S.	Comilla Sadar Dakshin Upazila	23.46907	91.1788	A	ADM3	BD		84	2019	201967		0		16	Asia/Dhaka	2023-05-29
+7645984	Barura	Barura	Barura Upazila	23.36	91.05	A	ADM3	BD		84	2019	201909		0		11	Asia/Dhaka	2023-05-29
+7645986	Chatmohar	Chatmohar	Chatmohar Upazila,catamohara,চাটমোহর	24.23	89.3	A	ADM3	BD		83	5076	507622		0		15	Asia/Dhaka	2023-05-27
+7646121	Raipura Upazila	Raipura Upazila	Raipura,Raipura Upazila	23.96	90.88	A	ADM3	BD		81	3068	306864		0		8	Asia/Dhaka	2016-11-08
+7646183	Charfasson	Charfasson	Char Fasson,Char Fasson Upazila,caraphyasana,চরফ্যাসন	22.1	90.7	A	ADM3	BD		85	1009	100925		0		4	Asia/Dhaka	2023-05-24
+7646184	Nabinagar	Nabinagar	Nabinagar Upazila,nabinagara,নবীনগর	23.86	90.99	A	ADM3	BD		84	2012	201285		0		6	Asia/Dhaka	2023-05-29
+7646186	Banshkhali	Banshkhali	Banshkhali Upazila,bamsakhali,বাঁশখালী	22.03	91.93	A	ADM3	BD		84	2015	201508		0		7	Asia/Dhaka	2023-05-29
+7646187	Noakhali S.	Noakhali S.	Noakhali Sadar Upazila,noyakhali sadara,নোয়াখালি সদর	22.83188	91.09657	A	ADM3	BD		84	2075	207587		0		11	Asia/Dhaka	2023-05-29
+7646188	Chandhina	Chandhina	Chandina,Chandina Upazila,candina,চান্দিনা	23.44	90.95	A	ADM3	BD		84	2019	201927		0		12	Asia/Dhaka	2023-05-29
+7646189	Nangalkot	Nangalkot	Nangalkot Upazila,nangalakota,নাঙ্গলকোট	23.13	91.22	A	ADM3	BD		84	2019	201987		0		9	Asia/Dhaka	2023-05-29
+7646190	Dewanganj	Dewanganj	Dewanganj Upazila,de'oyanaganja,দেওয়ানগঞ্জ	25.28	89.77	A	ADM3	BD		H	3039	303915		0		23	Asia/Dhaka	2023-05-24
+7646191	Islampur	Islampur	Islampur Upazila,isalamapura,ইসলামপুর	25.09	89.78	A	ADM3	BD		H	3039	303929		0		24	Asia/Dhaka	2023-05-24
+7646192	Sarishabari	Sarishabari	Sarishabari Upazila,sarisabari,সরিষাবাড়ী	24.71	89.84	A	ADM3	BD		H	3039	303985		0		11	Asia/Dhaka	2023-05-24
+7646193	Karimganj	Karimganj	Karimganj Upazila,karimaganja (kisoraganja),করিমগঞ্জ (কিশোরগঞ্জ)	24.45	90.9	A	ADM3	BD		81	3048	304842		0		11	Asia/Dhaka	2023-05-24
+7646194	Katiadi	Katiadi	Katiadi Upazila,katiyadi,কটিয়াদি	24.3	90.82	A	ADM3	BD		81	3048	304845		0		8	Asia/Dhaka	2023-05-24
+7646195	Nikli	Nikli	Nikli Upazila,nikali,নিকলি	24.33	90.96	A	ADM3	BD		81	3048	304876		0		2	Asia/Dhaka	2023-05-24
+7646196	Tarail	Tarail	Tarail Upazila,tara'ila,তারাইল	24.55	90.9	A	ADM3	BD		81	3048	304892		0		8	Asia/Dhaka	2023-05-24
+7646197	Madaripur S.	Madaripur S.	Madaripur Sadar Upazila,madaripura sadara,মাদারিপুর সদর	23.2	90.18	A	ADM3	BD		81	3054	305454		0		7	Asia/Dhaka	2023-05-24
+7646198	Daulatpur	Daulatpur	Daulatpur Upazila,daulatapura (kustiya),দৌলতপুর (কুষ্টিয়া)	24.00005	88.86841	A	ADM3	BD		82	4050	405039		0		15	Asia/Dhaka	2023-05-24
+7646199	Harirampur	Harirampur	Harirampur Upazila,hariramapura,হরিরামপুর	23.73	89.95	A	ADM3	BD		81	3056	305628		0		1	Asia/Dhaka	2023-05-24
+7646200	Saturia	Saturia	Saturia Upazila,saturiya,সাটুরিয়া	23.95	90.02	A	ADM3	BD		81	3056	305670		0		12	Asia/Dhaka	2023-05-24
+7646202	Sreebardi	Sreebardi	Sreebardi Upazila,sribaradi,শ্রীবরদী	25.18	89.95	A	ADM3	BD		H	3089	308990		0		20	Asia/Dhaka	2023-05-24
+7646203	Bhuapur	Bhuapur	Bhuapur Upazila,bhunapura,ভূঞাপুর	24.47	89.81	A	ADM3	BD		81	3093	309319		0		17	Asia/Dhaka	2023-05-24
+7646204	Gopalpur	Gopalpur	Gopalpur Upazila,gopalapura,গোপালপুর	24.57	89.9	A	ADM3	BD		81	3093	309338		0		14	Asia/Dhaka	2023-05-24
+7646205	Kalihati	Kalihati	Kalihati Upazila,kalihati,কালিহাতী	24.35	89.95	A	ADM3	BD		81	3093	309347		0		13	Asia/Dhaka	2023-05-24
+7646206	Trishal	Trishal	Trishal Upazila,trisala,ত্রিশাল	24.56	90.42	A	ADM3	BD		H	3061	306194		0		15	Asia/Dhaka	2023-05-27
+7646209	Mirpur	Mirpur	Mirpur Upazila,mirapura (kustiya),মিরপুর (কুষ্টিয়া)	23.89	88.99	A	ADM3	BD		82	4050	405094		0		13	Asia/Dhaka	2023-05-24
+7646210	Alamdanga	Alamdanga	Alamdanga Upazila,alamadanga,আলমডাঙ্গা	23.73	88.91	A	ADM3	BD		82	4018	401807		0		17	Asia/Dhaka	2023-05-30
+7646211	Gangni	Gangni	Gangni Upazila,ganni,গাংনী	23.86	88.77	A	ADM3	BD		82	4057	405747		0		14	Asia/Dhaka	2023-05-30
+7646213	Shivalaya	Shivalaya	Shivalaya Upazila,sibalaya,শিবালয়	23.84	89.81	A	ADM3	BD		81	3056	305678		0		8	Asia/Dhaka	2023-05-30
+7646214	Zanjira	Zanjira	Zajira Upazila,jajira,জাজিরা	23.36	90.37	A	ADM3	BD		81	3086	308694		0		8	Asia/Dhaka	2023-05-30
+7646216	Khaliajuri	Khaliajuri	Khaliajuri Upazila,khaliyajuri,খালিয়াজুড়ি	24.7	91.12	A	ADM3	BD		H	3072	307238		0		7	Asia/Dhaka	2023-05-30
+7646217	Char Rajibpur	Char Rajibpur	Char Rajibpur,Char Rajibpur Upazila,cara rajibapura,চর রাজিবপুর	25.44265	89.79057	A	ADM3	BD		87	5549	554908		0		31	Asia/Dhaka	2023-05-31
+7646219	Kurigram S.	Kurigram S.	Kurigram Sadar Upazila,kurigrama sadara,কুড়িগ্রাম সদর	25.82	89.7	A	ADM3	BD		87	5549	554952		0		29	Asia/Dhaka	2023-05-30
+7646267	Chilmari	Chilmari	Chilmari Upazila,cilamari,চিলমারী	25.59	89.68	A	ADM3	BD		87	5549	554909		0		26	Asia/Dhaka	2023-05-30
+7646268	Joypurhat Sadar	Joypurhat Sadar	Joypurhat Sadar Upazila,jayapurahata sadara,জয়পুরহাট সদর	25.1	89.02	A	ADM3	BD		83	5038	503847		0		21	Asia/Dhaka	2023-05-28
+7646269	Gabtali	Gabtali	Gabtali Upazila	24.89	89.47	A	ADM3	BD		83	5010	501040		0		18	Asia/Dhaka	2023-05-30
+7646270	Parbatipur	Parbatipur	Parbatipur Upazila	25.61	88.91	A	ADM3	BD		87	5527	552777		0		33	Asia/Dhaka	2023-05-30
+7646271	Gobindaganj	Gobindaganj	Gobindaganj Upazila,gobindaganja,গোবিন্দগঞ্জ	25.17	89.36	A	ADM3	BD		87	5532	553230		0		25	Asia/Dhaka	2023-05-30
+7646273	Sundarganj	Sundarganj	Sundarganj Upazila,sundaraganja,সুন্দরগঞ্জ	25.5	89.57	A	ADM3	BD		87	5532	553291		0		27	Asia/Dhaka	2023-05-30
+7646274	Kaunia	Kaunia	Kaunia Upazila,ka'uniya,কাউনিয়া	25.77	89.4	A	ADM3	BD		87	5585	558542		0		33	Asia/Dhaka	2023-05-30
+7646275	Hatibandha	Hatibandha	Hatibandha Upazila,hatibandha,হাতিবান্ধা	26.12	89.14	A	ADM3	BD		87	5552	555233		0		53	Asia/Dhaka	2023-05-30
+7646276	Porsha	Porsha	Porsha Upazila,porasa,পোরশা	25	88.52	A	ADM3	BD		83	5064	506479		0		44	Asia/Dhaka	2023-05-30
+7646277	Raninagar	Raninagar	Raninagar Upazila,raninagara,রাণীনগর	24.71	89.02	A	ADM3	BD		83	5064	506485		0		14	Asia/Dhaka	2023-05-30
+7646278	Lalpur	Lalpur	Lalpur Upazila,lalapura,লালপুর	24.19	88.95	A	ADM3	BD		83	5069	506944		0		15	Asia/Dhaka	2023-05-30
+7646279	Natore S.	Natore S.	Natore Sadar Upazila,natora sadara,নাটোর সদর	24.45	88.98	A	ADM3	BD		83	5069	506963		0		16	Asia/Dhaka	2023-05-27
+7646280	Shibganj	Shibganj	Shibganj Upazila,sibaganja,শিবগঞ্জ	24.7	88.15	A	ADM3	BD		83	5070	507088		0		26	Asia/Dhaka	2023-05-27
+7646281	Belkuchi	Belkuchi	Belkuchi Upazila,belakuci,বেলকুচি	24.3	89.7	A	ADM3	BD		83	5088	508811		0		18	Asia/Dhaka	2023-05-30
+7646282	Bagha	Bagha	Bagha Upazila,bagha,বাঘা	24.21	88.82	A	ADM3	BD		83	5081	508110		0		22	Asia/Dhaka	2023-05-27
+7646283	Bajitpur	Bajitpur	Bajitpur Upazila,bajitapura,বাজিতপুর	24.22	90.94	A	ADM3	BD		81	3048	304806		0		6	Asia/Dhaka	2023-05-30
+7646377	Manpura	Manpura	Manpura Upazila,manapura,মনপুরা	22.22	90.97	A	ADM3	BD		85	1009	100965		0		1	Asia/Dhaka	2023-05-30
+7646378	Lama	Lama	Lama Upazila,lama,লামা	21.81	92.27	A	ADM3	BD		84	2003	200351		0		86	Asia/Dhaka	2023-05-29
+7646379	Rowangghhari	Rowangghhari	Rowangchhari,Rowangchhari Upazila,royanchari,রোয়াংছড়ি	22.22	92.36	A	ADM3	BD		84	2003	200389		0		110	Asia/Dhaka	2023-05-30
+7646380	Maheshkhali	Maheshkhali	Moheshkhali Upazila,mahesakhali,মহেশখালী	21.62	91.93	A	ADM3	BD		84	2022	202249		0		26	Asia/Dhaka	2023-05-29
+7646381	Ramu	Ramu	Ramu Upazila,mahesakhali,মহেশখালী	21.44	92.12	A	ADM3	BD		84	2022	202266		0		27	Asia/Dhaka	2023-05-29
+7646382	Teknaf	Teknaf	Teknaf Upazila,tekanapha,টেকনাফ	20.95	92.24	A	ADM3	BD		84	2022	202290		0		38	Asia/Dhaka	2023-05-29
+7646383	Ukhia	Ukhia	Ukhia Upazila,ukhiya,উখিয়া	21.22	92.12	A	ADM3	BD		84	2022	202294		0		17	Asia/Dhaka	2023-05-29
+7646384	Boalmari	Boalmari	Boalmari Upazila,boyalamari,বোয়ালমারী	23.41	89.69	A	ADM3	BD		81	3029	302918		0		10	Asia/Dhaka	2023-05-30
+7646385	Nagarkanda	Nagarkanda	Nagarkanda Upazila,nagarakanda,নগরকান্দা	23.42	89.85	A	ADM3	BD		81	3029	302962		0		9	Asia/Dhaka	2023-05-30
+7646386	Baksiganj	Baksiganj	Baksiganj Upazila,bakasiganja,বকশীগঞ্জ	25.21	89.84	A	ADM3	BD		H	3039	303907		0		20	Asia/Dhaka	2023-05-30
+7646387	Dhobaura	Dhobaura	Dhobaura Upazila	25.11	90.52	A	ADM3	BD		H	3061	306116		0		12	Asia/Dhaka	2023-05-27
+7646388	Ishwarganj	Ishwarganj	Ishwarganj Upazila,isbaraganja,ঈশ্বরগঞ্জ	24.65	90.59	A	ADM3	BD		H	3061	306131		0		15	Asia/Dhaka	2023-05-31
+7646389	Nakla	Nakla	Nakla Upazila,nakala,নকলা	24.96	90.19	A	ADM3	BD		H	3089	308967		0		19	Asia/Dhaka	2023-05-30
+7646391	Ghoraghat	Ghoraghat	Ghoraghat Upazila,ghoraghata,ঘোড়াঘাট	25.29	89.21	A	ADM3	BD		87	5527	552743		0		26	Asia/Dhaka	2023-05-30
+7646392	Phulchhari	Phulchhari	Phulchhari Upazila,phulachari,ফুলছড়ি	25.26	89.65	A	ADM3	BD		87	5532	553221		0		17	Asia/Dhaka	2023-05-30
+7646393	Nageshwari	Nageshwari	Nageshwari Upazila,nagesbari,নাগেশ্বরী	25.96	89.74	A	ADM3	BD		87	5549	554961		0		29	Asia/Dhaka	2023-05-30
+7646395	Jaldhaka	Jaldhaka	Jaldhaka Upazila,jaladhaka,জলঢাকা	26.03	88.99	A	ADM3	BD		87	5573	557336		0		50	Asia/Dhaka	2023-05-30
+7646396	Saidpur	Saidpur		25.81	88.91	A	ADM3	BD		87	5573	557385		0		40	Asia/Dhaka	2016-11-07
+7646397	Taraganj	Taraganj	Taraganj Upazila	25.79	89.04	A	ADM3	BD		87	5585	558592		0		39	Asia/Dhaka	2023-05-30
+7646398	Shahjadpur	Shahjadpur	Shahjadpur,Shahjadpur Upazila,sahajadapura,শাহজাদপুর	24.17	89.63	A	ADM3	BD		83	5088	508867		0		10	Asia/Dhaka	2023-05-28
+7646399	Ullahpara	Ullahpara	Ullahpara Upazila,ullapara,উল্লাপাড়া	24.34	89.53	A	ADM3	BD		83	5088	508894		0		16	Asia/Dhaka	2023-05-30
+7646400	Baniachong	Baniachong	Baniachong Upazila,baniyacam,বানিয়াচং	24.49	91.38	A	ADM3	BD		86	6036	603611		0		11	Asia/Dhaka	2023-05-27
+7646402	Thakurgaon S.	Thakurgaon S.	Thakurgaon Sadar Upazila,thakuragamo sadara,ঠাকুরগাঁও সদর	26.08	88.47	A	ADM3	BD		87	5594	559494		0		54	Asia/Dhaka	2023-05-30
+7646403	Sujanagar	Sujanagar	Sujanagar Upazila,sujanagara,সুজানগর	23.9	89.52	A	ADM3	BD		83	5076	507683		0		10	Asia/Dhaka	2023-05-27
+7646404	Madarganj	Madarganj	Madarganj Upazila	24.89	89.73	A	ADM3	BD		H	3039	303958		0		19	Asia/Dhaka	2023-05-30
+7646413	Nabiganj	Nabiganj	Nabiganj Upazila,nabiganja,নবীগঞ্জ	24.56	91.55	A	ADM3	BD		86	6036	603677		0		13	Asia/Dhaka	2023-05-27
+7646471	Sreenagar	Sreenagar	Sreenagar Upazila,srinagara,শ্রীনগর	23.55	90.27	A	ADM3	BD		81	3059	305984		0		8	Asia/Dhaka	2023-05-30
+7646719	Aditmari	Aditmari	Aditmari Upazila,aditamari,আদিতমারি	25.93	89.38	A	ADM3	BD		87	5552	555202		0		36	Asia/Dhaka	2023-05-30
+7646720	Agailjhara	Agailjhara	Agailjhara Upazila,agailajhara,আগৈলঝাড়া	22.97	90.14	A	ADM3	BD		85	1006	100602		0		3	Asia/Dhaka	2023-05-27
+7646721	Akkelpur	Akkelpur	Akkelpur Upazila,akkelapura,আক্কেলপুর	24.94	89.05	A	ADM3	BD		83	5038	503813		0		19	Asia/Dhaka	2023-05-27
+7646722	Alikadam	Alikadam	Ali Kadam,Ali Kadam Upazila,alikadama,আলিকদম	21.58	92.43	A	ADM3	BD		84	2003	200304		0		190	Asia/Dhaka	2023-05-30
+7646723	Amtali	Amtali	Amtali Upazila,amatali,আমতলী	22.11	90.24	A	ADM3	BD		85	1004	100409		0		4	Asia/Dhaka	2023-05-27
+7646724	Anwara	Anwara	Anwara Upazila,anoyara,আনোয়ারা	22.23	91.87	A	ADM3	BD		84	2015	201504		0		10	Asia/Dhaka	2023-05-29
+7646725	Araihazar	Araihazar	Araihazar Upazila	23.77	90.68	A	ADM3	BD		81	3067	306702		0		7	Asia/Dhaka	2023-05-27
+7646726	Assasuni	Assasuni	Assasuni Upazila,asasuni,আশাশুনি	22.57	89.22	A	ADM3	BD		82	4087	408704		0		6	Asia/Dhaka	2023-05-27
+7646727	Badalgachhi	Badalgachhi	Badalgachhi Upazila,badalagachi,বদলগাছি	24.96	88.93	A	ADM3	BD		83	5064	506406		0		20	Asia/Dhaka	2023-05-30
+7646728	Bagaichhari	Bagaichhari	Bagaichhari Upazila,bagha'ichari,বাঘাইছড়ি	23.37	92.25	A	ADM3	BD		84	2084	208407		0		208	Asia/Dhaka	2023-05-29
+7646729	Bagerhat S.	Bagerhat S.	Bagerhat Sadar Upazila,bagerahata sadara,বাগেরহাট সদর	22.69	89.78	A	ADM3	BD		82	4001	400108		0		4	Asia/Dhaka	2023-05-30
+7646730	Balaganj	Balaganj	Balaganj Upazila,balaganja,বালাগঞ্জ	24.71	91.8	A	ADM3	BD		86	6091	609108		0		20	Asia/Dhaka	2023-05-27
+7646731	Baliakandi	Baliakandi	Baliakandi,Baliakandi Upazila,baliyakandi,বালিয়াকান্দি	23.65	89.55	A	ADM3	BD		81	3082	308207		0		10	Asia/Dhaka	2023-05-30
+7646732	Baliadangi	Baliadangi	Baliadangi Upazila,baliyadangi,বালিয়াডাঙ্গী	26.1	88.27	A	ADM3	BD		87	5594	559408		0		54	Asia/Dhaka	2023-05-30
+7646733	Bandar	Bandar	Bandar Upazila,bandara,বন্দর	23.64	90.54	A	ADM3	BD		81	3067	306706		0		5	Asia/Dhaka	2023-05-27
+7646734	Barguna S.	Barguna S.	Barguna Sadar Upazila,baraguna sadara,বরগুনা সদর	22.15	90.12	A	ADM3	BD		85	1004	100428		0		4	Asia/Dhaka	2023-05-28
+7646735	Barkal	Barkal	Barkal Upazila,barakala,বরকল	22.82	92.37	A	ADM3	BD		84	2084	208421		0		88	Asia/Dhaka	2023-05-29
+7646736	Bauphal	Bauphal	Bauphal Upazila,ba'uphala,বাউফল	22.45	90.53	A	ADM3	BD		85	1078	107838		0		6	Asia/Dhaka	2023-05-30
+7646737	Belabo	Belabo	Belabo Upazila,belaba,belabo,বেলাব,বেলাবো	24.09	90.85	A	ADM3	BD		81	3068	306807		0		15	Asia/Dhaka	2023-05-30
+7646738	Belaichhari	Belaichhari	Belaichhari Upazila,bila'ichari,বিলাইছড়ি	22.35	92.5	A	ADM3	BD		84	2084	208429		0		203	Asia/Dhaka	2023-05-29
+7646740	Bhedarganj	Bhedarganj	Bhedarganj Upazila,bhedaraganja,ভেদরগঞ্জ	23.23	90.55	A	ADM3	BD		81	3086	308614		0		9	Asia/Dhaka	2023-05-30
+7646741	Bholahat	Bholahat	Bholahat Upazila,bholahata,ভোলাহাট	24.89	88.22	A	ADM3	BD		83	5070	507018		0		20	Asia/Dhaka	2023-05-27
+7646742	Boalkhali	Boalkhali	Boalkhali Upazila,boyalakhali,বোয়ালখালী	22.39	91.93	A	ADM3	BD		84	2015	201512		0		4	Asia/Dhaka	2023-05-29
+7646743	Burhanuddin	Burhanuddin	Borhanuddin Upazila,borahana'uddina,বোরহানউদ্দিন	22.48	90.74	A	ADM3	BD		85	1009	100921		0		7	Asia/Dhaka	2023-05-30
+7646744	Char Bhadrasan	Char Bhadrasan	Charbhadrasan Upazila,carabhadrasana,চরভদ্রাসন	23.56367	89.99657	A	ADM3	BD		81	3029	302921		0		10	Asia/Dhaka	2023-05-27
+7646745	Chauddagram	Chauddagram	Chauddagram Upazila	23.22	91.3	A	ADM3	BD		84	2019	201931		0		13	Asia/Dhaka	2023-05-29
+7646747	Chaugachha	Chaugachha	Chaugachha Upazila,caugacha,চৌগাছা	23.26	89.03	A	ADM3	BD		82	4041	404111		0		12	Asia/Dhaka	2023-05-27
+7646749	Chhagalnaiya	Chhagalnaiya	Chhagalnaiya Upazila,chagalana'iya,ছাগলনাইয়া	23.08	91.48	A	ADM3	BD		84	2030	203014		0		7	Asia/Dhaka	2023-05-29
+7646750	Chhatak	Chhatak	Chhatak Upazila,chataka,ছাতক	24.92	91.61	A	ADM3	BD		86	6090	609023		0		12	Asia/Dhaka	2023-05-30
+7646864	Chitalmari	Chitalmari	Chitalmari Upazila	22.8	89.87	A	ADM3	BD		82	4001	400114		0		5	Asia/Dhaka	2016-11-07
+7646865	Companiganj	Companiganj	Companiganj Upazila,kompaniganja,কোম্পানীগঞ্জ	25.08	91.8	A	ADM3	BD		86	6091	609127		0		9	Asia/Dhaka	2023-05-27
+7646868	Daulatkhan	Daulatkhan	Daulatkhan Upazila,daulatakhana,দৌলতখান	22.6	90.7	A	ADM3	BD		85	1009	100929		0		4	Asia/Dhaka	2023-05-31
+7646869	Debhata	Debhata	Debhata Upazila,debahata,দেবহাটা	22.59	89.01	A	ADM3	BD		82	4087	408725		0		0	Asia/Dhaka	2023-05-27
+7646870	Dhamrai	Dhamrai	Dhamrai Upazila,dhamara'i,ধামরাই	23.94	90.15	A	ADM3	BD		81	3026	302614		0		15	Asia/Dhaka	2023-05-31
+7646871	Dharampasha	Dharampasha	Dharmapasha Upazila	24.98	91	A	ADM3	BD		86	6090	609032		0		7	Asia/Dhaka	2023-05-31
+7646872	Dimla	Dimla	Dimla Upazila,dimala,ডিমলা	26.16	89	A	ADM3	BD		87	5573	557312		0		55	Asia/Dhaka	2023-05-31
+7646873	Dowarabazar	Dowarabazar	Dowarabazar Upazila,doyarabajara,দোয়ারাবাজার	25.09	91.59	A	ADM3	BD		86	6090	609033		0		15	Asia/Dhaka	2023-05-31
+7646874	Durgapur	Durgapur	Durgapur Upazila,durgapura,দূর্গাপুর	25.09	90.7	A	ADM3	BD		H	3072	307218		0		14	Asia/Dhaka	2023-05-31
+7646875	Fakirhat	Fakirhat	Fakirhat Upazila	22.75	89.68	A	ADM3	BD		82	4001	400134		0		12	Asia/Dhaka	2023-05-24
+7646876	Fatikchhari	Fatikchhari	Fatikchhari Upazila	22.68395	91.78928	A	ADM3	BD		84	2015	201533		0		13	Asia/Dhaka	2023-05-29
+7646877	Gaffargaon	Gaffargaon	Gafargaon Upazila	24.39	90.56	A	ADM3	BD		H	3061	306122		0		10	Asia/Dhaka	2023-05-27
+7646878	Gaibandha S.	Gaibandha S.	Gaibandha Sadar Upazila,ga'ibandha sadara,গাইবান্ধা সদর	25.33	89.59	A	ADM3	BD		87	5532	553224		0		24	Asia/Dhaka	2023-05-24
+7646879	Galachipa	Galachipa	Galachipa Upazila,galacipa,গলাচিপা	22.16865	90.41439	A	ADM3	BD		85	1078	107857		0		10	Asia/Dhaka	2023-05-24
+7646880	Gangachhara	Gangachhara	Gangachara Upazila,gangacara,গংগাচড়া	25.87	89.22	A	ADM3	BD		87	5585	558527		0		38	Asia/Dhaka	2023-05-24
+7646881	Gauripur	Gauripur	Gouripur Upazila,gauripura,গৌরীপুর	24.76	90.62	A	ADM3	BD		H	3061	306123		0		15	Asia/Dhaka	2023-05-28
+7646882	Gazaria	Gazaria	Gazaria Upazila,gajariya,গজারিয়া	23.54	90.63	A	ADM3	BD		81	3059	305924		0		8	Asia/Dhaka	2023-05-24
+7646883	Gazipur S.	Gazipur S.	Gazipur Sadar Upazila,gajipura sadara,গাজীপুর সদর	24.02	90.4	A	ADM3	BD		81	3033	303330		0		14	Asia/Dhaka	2023-05-24
+7646884	Godagari	Godagari	Godagari Upazila,godagari,গোদাগাড়ী	24.5	88.43	A	ADM3	BD		83	5081	508134		0		36	Asia/Dhaka	2023-05-28
+7646885	Gomastapur	Gomastapur	Gomostapur Upazila,gomastapura,গোমস্তাপুর	24.86	88.37	A	ADM3	BD		83	5070	507037		0		22	Asia/Dhaka	2023-05-28
+7646886	Gopalganj S.	Gopalganj S.	Gopalganj Sadar Upazila,gopalaganja sadara,গোপালগঞ্জ সদর	23.03	89.86	A	ADM3	BD		81	3035	303532		0		3	Asia/Dhaka	2023-05-28
+7646887	Gosairhat	Gosairhat	Gosairhat Upazila,gosa'irahata,গোসাইরহাট	23.07	90.48	A	ADM3	BD		81	3086	308636		0		5	Asia/Dhaka	2023-05-24
+7646888	Gurudaspur	Gurudaspur	Gurudaspur Upazila,gurudasapura,গুরুদাসপুর	24.38	89.21	A	ADM3	BD		83	5069	506941		0		13	Asia/Dhaka	2023-05-24
+7646890	Haluaghat	Haluaghat	Haluaghat Upazila,haluyaghata,হালুয়াঘাট	25.09	90.35	A	ADM3	BD		H	3061	306124		0		13	Asia/Dhaka	2023-05-28
+7646891	Harinakunda	Harinakunda	Harinakunda Upazila,harinakunda,হরিণাকুন্ড	23.65	89.08	A	ADM3	BD		82	4044	404414		0		10	Asia/Dhaka	2023-05-24
+7646892	Haripur	Haripur	Haripur Upazila	25.9	88.15	A	ADM3	BD		87	5594	559451		0		43	Asia/Dhaka	2023-05-24
+7646893	Hatiya	Hatiya	Hatiya Upazila	22.34	91.09	A	ADM3	BD		84	2075	207536		0		8	Asia/Dhaka	2023-05-29
+7646894	Jhenaigati	Jhenaigati	Jhenaigati Upazila,jhina'igati,ঝিনাইগাতী	25.18	90.06	A	ADM3	BD		H	3089	308937		0		25	Asia/Dhaka	2023-05-24
+7646896	Juraichhari	Juraichhari	Juraichhari Upazila,jurachari,জুরাছড়ি	22.62	92.44	A	ADM3	BD		84	2084	208447		0		190	Asia/Dhaka	2023-05-29
+7646897	Kachua	Kachua	Kachua Upazila  Bagerhat,kacuya,কচুয়া	22.64	89.88	A	ADM3	BD		82	4001	400138		0		5	Asia/Dhaka	2023-05-24
+7646898	Kaharole	Kaharole	Kaharole Upazila,kaharola,কাহারোল	25.8	88.6	A	ADM3	BD		87	5527	552756		0		39	Asia/Dhaka	2023-05-24
+7646899	Kalai	Kalai	Kalai Upazila,kala'i,কালাই	25.08	89.2	A	ADM3	BD		83	5038	503858		0		23	Asia/Dhaka	2023-05-28
+7646900	Kalapara	Kalapara	Kalapara Upazila,kalapara,কলাপাড়া	21.92	90.22	A	ADM3	BD		85	1078	107866		0		7	Asia/Dhaka	2023-05-24
+7646901	Kalaroa	Kalaroa	Kalaroa Upazila,kalaroya,কলারোয়া	22.88	89.03	A	ADM3	BD		82	4087	408743		0		7	Asia/Dhaka	2023-05-28
+7646902	Kaliganj	Kaliganj	Kaliganj Upazila,kaliganja,কালীগঞ্জ	22.48	89.09	A	ADM3	BD		82	4087	408747		0		2	Asia/Dhaka	2023-05-28
+7646903	Kalkini	Kalkini	Kalkini Upazila,kalakini,কালকিনি	23.08	90.27	A	ADM3	BD		81	3054	305440		0		4	Asia/Dhaka	2023-05-24
+7646904	Kalmakanda	Kalmakanda	Kalmakanda Upazila,kalamakanda,কলমাকান্দা	25.09	90.88	A	ADM3	BD		H	3072	307240		0		12	Asia/Dhaka	2023-05-31
+7646905	Kamarkhanda	Kamarkhanda	Kamarkhanda Upazila,kamarakhanda,কামারখন্দ	24.38	89.65	A	ADM3	BD		83	5088	508844		0		11	Asia/Dhaka	2023-05-24
+7646906	Kashiani	Kashiani	Kashiani Upazila,kasiyani,কাশিয়ানী	23.19	89.8	A	ADM3	BD		81	3035	303543		0		5	Asia/Dhaka	2023-05-24
+7646908	Khansama	Khansama	Khansama Upazila,khanasama,খানসামা	25.85	88.78	A	ADM3	BD		87	5527	552760		0		44	Asia/Dhaka	2023-05-24
+7646909	Kotalipara Upazila	Kotalipara Upazila	Kotalipara,Kotalipara Upazila,kotalipara,কোটালীপাড়া	23.02	90.02	A	ADM3	BD		81	3035	303551		0		3	Asia/Dhaka	2023-05-28
+7646910	Koyra	Koyra	Koyra Upazila,kayara,কয়রা	22.2	89.4	A	ADM3	BD		82	4047	404753		0		8	Asia/Dhaka	2023-05-24
+7646911	Kutubdia	Kutubdia	Kutubdia Upazila,kutubadiya,কুতুবদিয়া	21.84	91.87	A	ADM3	BD		84	2022	202245		0		7	Asia/Dhaka	2023-05-29
+7646912	Lakshmichhari	Lakshmichhari	Lakshmichhari Upazila,laksichari,লক্ষীছড়ি	22.81	91.94	A	ADM3	BD		84	2046	204661		0		79	Asia/Dhaka	2023-05-29
+7646914	Lalmohan	Lalmohan	Lalmohan Upazila,lalamohana,লালমোহন	22.32	90.75	A	ADM3	BD		85	1009	100954		0		3	Asia/Dhaka	2023-05-24
+7646915	Langadu	Langadu	Langadu Upazila,langadu,লংগদু	22.98	92.22	A	ADM3	BD		84	2084	208458		0		33	Asia/Dhaka	2023-05-29
+7646916	Lohagara	Lohagara	Lohagara Upazila,lohagara,লোহাগাড়া	22	92.13	A	ADM3	BD		84	2015	201547		0		23	Asia/Dhaka	2023-05-29
+7646917	Lohagara	Lohagara	Lohagara Upazila,lohagara,লোহাগড়া	23.19	89.62	A	ADM3	BD		82	4065	406552		0		10	Asia/Dhaka	2023-05-24
+7646918	Maheshpur	Maheshpur	Maheshpur Upazila,mahesapura upajela,মহেশপুর উপজেলা	23.33	88.86	A	ADM3	BD		82	4044	404471		0		11	Asia/Dhaka	2023-05-24
+7646919	Matiranga	Matiranga	Matiranga Upazila,matiranga,মাটিরাঙ্গা	23.09	91.88	A	ADM3	BD		84	2046	204670		0		72	Asia/Dhaka	2023-05-29
+7646921	Mirzaganj	Mirzaganj	Mirzaganj Upazila,mirjaganja,মির্জাগঞ্জ	22.36	90.22	A	ADM3	BD		85	1078	107876		0		6	Asia/Dhaka	2023-05-24
+7646922	Mohammadpur	Mohammadpur	Mohammadpur Upazila,moham'madapura (magura),মোহাম্মদপুর (মাগুরা)	23.4	89.56	A	ADM3	BD		82	4055	405566		0		11	Asia/Dhaka	2023-05-24
+7646923	Mollahat	Mollahat	Mollahat Upazila,mollahata,মোল্লাহাট	22.88	89.78	A	ADM3	BD		82	4001	400156		0		5	Asia/Dhaka	2023-05-24
+7646924	Morrelganj	Morrelganj	Morrelganj Upazila,morelaganja,মোড়েলগঞ্জ	22.48	89.83	A	ADM3	BD		82	4001	400160		0		4	Asia/Dhaka	2023-05-24
+7646925	Munshiganj S.	Munshiganj S.	Munshiganj Sadar Upazila,munsiganja sadara,মুন্সীগঞ্জ সদর	23.5	90.55	A	ADM3	BD		81	3059	305956		0		7	Asia/Dhaka	2023-05-24
+7646926	Mymensingh S.	Mymensingh S.	mayamanasinha,ময়মনসিংহ	24.76	90.4	A	ADM3	BD		H	3061	306152		0		19	Asia/Dhaka	2016-11-17
+7646927	Naikhongchhari	Naikhongchhari	Naikhongchhari Upazila,na'iksyanchari,নাইক্ষ্যংছড়ি	21.49	92.26	A	ADM3	BD		84	2003	200373		0		40	Asia/Dhaka	2023-05-29
+7646928	Nalchity	Nalchity	Nalchity Upazila,nalachiti,নলছিটি	22.61	90.28	A	ADM3	BD		85	1042	104273		0		7	Asia/Dhaka	2023-05-24
+7646929	Nannerchar	Nannerchar	Naniarchar Upazila,naniyacara,নানিয়াচর	22.85	92.07	A	ADM3	BD		84	2084	208475		0		51	Asia/Dhaka	2023-05-29
+7646930	Narail S.	Narail S.	Narail Sadar Upazila,nara'ila sadara,নড়াইল সদর	23.15	89.5	A	ADM3	BD		82	4065	406576		0		8	Asia/Dhaka	2023-05-24
+7646931	Narayanganj S.	Narayanganj S.	Narayanganj Sadar Upazila,narayanaganja,নারায়নগঞ্জ	23.63	90.48	A	ADM3	BD		81	3067	306758		0		9	Asia/Dhaka	2023-06-01
+7646934	Nazirpur	Nazirpur	Nazirpur Upazila,najirapura,নাজিরপুর	22.77	89.98	A	ADM3	BD		85	1079	107976		0		4	Asia/Dhaka	2023-05-31
+7646935	Paikgachha	Paikgachha	Paikgachha Upazila	22.61	89.35	A	ADM3	BD		82	4047	404764		0		2	Asia/Dhaka	2023-05-24
+7646937	Panchhari	Panchhari	Panchhari Upazila,panachari,পানছড়ি	23.3	91.88	A	ADM3	BD		84	2046	204677		0		76	Asia/Dhaka	2023-05-29
+7646938	Pangsha	Pangsha	Pangsha Upazila,pansa,পাংশা	23.77	89.44	A	ADM3	BD		81	3082	308273		0		12	Asia/Dhaka	2023-05-24
+7646939	Parshuram	Parshuram	Parshuram Upazila,parasurama,পরশুরাম	23.21	91.43	A	ADM3	BD		84	2030	203051		0		14	Asia/Dhaka	2023-05-30
+7646942	Pirgachha	Pirgachha	Pirgacha Upazila,piragacha,পীরগাছা	25.67	89.42	A	ADM3	BD		87	5585	558573		0		28	Asia/Dhaka	2023-05-24
+7646943	Pirganj	Pirganj	Pirganj Upazila,piraganja,পীরগঞ্জ	25.42	89.28	A	ADM3	BD		87	5585	558576		0		25	Asia/Dhaka	2023-05-24
+7646944	Pirojpur S.	Pirojpur S.	Pirojpur Sadar Upazila,pirojapura sadara,পিরোজপুর সদর	22.6	89.99	A	ADM3	BD		85	1079	107980		0		7	Asia/Dhaka	2023-05-31
+7646945	Raipur	Raipur		23.01	90.72	A	ADM3	BD		84	2051	205158		0		8	Asia/Dhaka	2016-11-08
+7646946	Rajapur	Rajapur	Rajapur Upazila,rajapura,রাজাপুর	22.55	90.13	A	ADM3	BD		85	1042	104284		0		4	Asia/Dhaka	2023-05-31
+7646947	Rajarhat	Rajarhat	Rajarhat Upazila,rajarahata,রাজারহাট	25.78	89.56	A	ADM3	BD		87	5549	554977		0		30	Asia/Dhaka	2023-05-24
+7646948	Rajnagar	Rajnagar	Rajnagar Upazila	24.58	91.86	A	ADM3	BD		86	6058	605880		0		12	Asia/Dhaka	2023-05-31
+7646949	Rajoir	Rajoir	Rajoir Upazila,rajaira,রাজৈর	23.19	90.04	A	ADM3	BD		81	3054	305480		0		4	Asia/Dhaka	2023-05-25
+7646950	Ramgati	Ramgati	Ramgati Upazila	22.669	90.936	A	ADM3	BD		84	2051	205173		0		2	Asia/Dhaka	2024-02-07
+7646951	Rampal	Rampal	Rampal Upazila,ramapala,রামপাল	22.59	89.68	A	ADM3	BD		82	4001	400173		0		9	Asia/Dhaka	2023-05-25
+7646953	Ruma	Ruma	Ruma Upazila,ruma,রুমা	22.03	92.45	A	ADM3	BD		84	2003	200391		0		143	Asia/Dhaka	2023-05-30
+7646954	Rupganj	Rupganj	Rupganj Upazila,rupaganja,রূপগঞ্জ	23.83	90.54	A	ADM3	BD		81	3067	306768		0		8	Asia/Dhaka	2023-05-31
+7646955	Rupsa	Rupsa	Rupsa Upazila,vrupasa,vরূপসা	22.81	89.63	A	ADM3	BD		82	4047	404775		0		2	Asia/Dhaka	2023-05-25
+7646956	Sadullapur	Sadullapur	Sadullapur Upazila,sadullapura,সাদুল্লাপুর	25.4	89.43	A	ADM3	BD		87	5532	553282		0		28	Asia/Dhaka	2023-05-25
+7646957	Sandwip	Sandwip		22.5	91.48	A	ADM3	BD		84	2015	201578		0		9	Asia/Dhaka	2016-11-07
+7646958	Saraikandi	Saraikandi	Sariakandi Upazila,sariyakandi upajela,সারিয়াকান্দি উপজেলা	24.89	89.61	A	ADM3	BD		83	5010	501081		0		16	Asia/Dhaka	2023-05-25
+7646959	Satkhira Sadar Upazila	Satkhira Sadar Upazila	Satkhira,Satkhira S.,Satkhira Sadar,Satkhira Sadar Tin,Satkhira Sadar Tìn,Satkhira Sadar Upazila,sa de ji la sha da er wu pa qi la,satakhira sadara upajilla,sataksira sadara upajela,sataksira sadara upajila,satkhira sadar upajilla,satkhira sadara upazila,ساتخیرا صدر ذیلی ضلع,सत्खिरा सदर उपज़िला,सातखीरा सदर उपजिल्ला,সাতক্ষীরা সদর উপজিলা,সাতক্ষীরা সদর উপজেলা,ಸತ್ಖಿರಾ ಸದರ್ ಉಪಜಿಲ್ಲಾ,薩德基拉沙達爾烏帕齊拉	22.73	89.03	A	ADM3	BD		82	4087	408782		0		6	Asia/Dhaka	2022-01-23
+7646960	Savar	Savar	Savar Upazila,sabhara,সাভার	23.9	90.3	A	ADM3	BD		81	3026	302672		0		21	Asia/Dhaka	2023-05-25
+7646961	Senbagh	Senbagh	Senbagh Upazila,senabaga,সেনবাগ	23	91.23	A	ADM3	BD		84	2075	207580		0		10	Asia/Dhaka	2023-06-01
+7646962	Shalikha	Shalikha	Shalikha Upazila,salikha,শালিখা	23.34	89.36	A	ADM3	BD		82	4055	405585		0		7	Asia/Dhaka	2023-05-25
+7646963	Sharsha	Sharsha	Sharsha Upazila,sarsa,শার্শা	23.06	88.93	A	ADM3	BD		82	4041	404190		0		8	Asia/Dhaka	2023-05-31
+7646965	Shibchar	Shibchar	Shibchar Upazila,sibacara,শিবচর	23.38	90.17	A	ADM3	BD		81	3054	305487		0		10	Asia/Dhaka	2023-05-25
+7646967	Sreepur	Sreepur	Sreepur Upazila,sripura,শ্রীপুর	24.24	90.45	A	ADM3	BD		81	3033	303386		0		18	Asia/Dhaka	2023-05-25
+7646968	Sreepur	Sreepur	Sreepur Upazila,magura),মাগুরা)	23.59	89.43	A	ADM3	BD		82	4055	405595		0		12	Asia/Dhaka	2023-05-25
+7646969	Tahirpur	Tahirpur	Tahirpur Upazila,tahirapura,তাহিরপুর	25.10301	91.19751	A	ADM3	BD		86	6090	609092		0		12	Asia/Dhaka	2023-05-25
+7646970	Tala	Tala	Tala Upazila,tala,তালা	22.75	89.22	A	ADM3	BD		82	4087	408790		0		5	Asia/Dhaka	2023-06-01
+7646971	Tazumuddin	Tazumuddin	Tazumuddin Upazila,tajamuddina,তজমুদ্দিন	22.41	90.84	A	ADM3	BD		85	1009	100991		0		4	Asia/Dhaka	2023-05-31
+7646973	Terokhada	Terokhada	Terokhada Upazila,terakhada,তেরখাদা	22.91	89.66	A	ADM3	BD		82	4047	404794		0		4	Asia/Dhaka	2023-05-31
+7646974	Thanchi	Thanchi	Thanchi Upazila	21.64	92.55	A	ADM3	BD		84	2003	200395		0		191	Asia/Dhaka	2023-06-01
+7646975	Tungipara	Tungipara	Tungipara Upazila,tungipara,টুঙ্গিপাড়া	22.9	89.91	A	ADM3	BD		81	3035	303591		0		5	Asia/Dhaka	2023-05-31
+7646976	Ulipur	Ulipur	Ulipur Upazila,ulipura,উলিপুর	25.69	89.68	A	ADM3	BD		87	5549	554994		0		30	Asia/Dhaka	2023-05-31
+7646977	Wazirpur	Wazirpur	Wazirpur Upazila,ujirapura,উজিরপুর	22.87	90.18	A	ADM3	BD		85	1006	100694		0		10	Asia/Dhaka	2023-06-01
+7647077	Bheramara	Bheramara	Bheramara Upazila,bheramara,ভেড়ামারা	24.06	88.99	A	ADM3	BD		82	4050	405015		0		20	Asia/Dhaka	2023-05-31
+7647078	Madhukhali	Madhukhali	Madhukhali Upazila,madhukhali,মধুখালী	23.54	89.62	A	ADM3	BD		81	3029	302956		0		13	Asia/Dhaka	2023-05-31
+7647189	Melandaha	Melandaha	Melandaha Upazila,melandaha,মেলান্দহ	24.96	89.83	A	ADM3	BD		H	3039	303961		0		20	Asia/Dhaka	2023-05-31
+7647202	Sylhet S.	Sylhet S.	Sylhet Sadar Upazila,sileta sadara,সিলেট সদর	24.9	91.88	A	ADM3	BD		86	6091	609162		0		25	Asia/Dhaka	2023-05-28
+8617464	Nilphamari Sadar Upazila	Nilphamari Sadar Upazila	Nilphamari Sadar,Nilphamari Sadar Tin,Nilphamari Sadar Tìn,Nilphamari Sadar Upazila,ni er pa ma li sha da er wu pa qi la,nilaphamari sadara upajela,nilaphamari sadara upajila,nilaphamari sadara upajilla,nilaphamari sadara upazila,nylpamary sdr,نیلپاماری صدر,نیلپھاماری صدر ذیلی ضلع,निलफामारी सदर उपज़िला,निलफामारी सदर उपजिला,नीलफामारी सदर उपजिल्ला,নিলফামারী সদর উপজিলা,নীলফামারী সদর উপজেলা,ᱱᱤᱞᱯᱷᱟᱢᱟᱨᱤ ᱥᱚᱫᱚᱨ ᱩᱯᱚᱡᱮᱞᱟ,尼爾帕馬里沙達爾烏帕齊拉	25.9417	88.8444	A	ADM3	BD		87	5573	557364		0		53	Asia/Dhaka	2020-09-17
+8740375	Jessore Sadar	Jessore Sadar	Jessore Sadar Upazila,yasora sadara,যশোর সদর	23.1681	89.2042	A	ADM3	BD		82	4041	404147		0		16	Asia/Dhaka	2023-05-27
+8740378	Magura Sadar Upazila	Magura Sadar Upazila	Magura Sadar,Magura Sadar Tin,Magura Sadar Tìn,Magura Sadar Upazila,ma gu la sha da er wu pa qi la,magura sadar upajila,magura sadara upajela,magura sadara upajila,magura sadara upajilla,ماگورا صدر ذیلی ضلع,मागुरा सदर उपजिल्ला,मागुरा सदर उपाजिला,মাগুরা সদর উপজিলা,মাগুরা সদর উপজেলা,ಮಗುರಾ ಸದರ್ ಉಪಜಿಲಾ,ᱢᱟᱜᱩᱨᱟ ᱥᱚᱫᱚᱨ ᱩᱯᱚᱡᱮᱞᱟ,馬古拉沙達爾烏帕齊拉	23.4845	89.41961	A	ADM3	BD		82	4055	405557		290000		12	Asia/Dhaka	2016-11-07
+8740429	Kaptai	Kaptai	Kaptai Upazila,kapta'i,কাপ্তাই	22.5	92.21667	A	ADM3	BD		84	2084	208436		0		39	Asia/Dhaka	2023-05-28
+8740476	Adamdighi	Adamdighi	Adamdighi Upazila,adamadighi upajela,আদমদিঘী উপজেলা	24.80029	89.0417	A	ADM3	BD		83	5010	501006		0		15	Asia/Dhaka	2023-05-23
+8740480	Biral	Biral	Biral Upazila,birala,বিরল	25.63224	88.55118	A	ADM3	BD		87	5527	552717		0		40	Asia/Dhaka	2023-05-23
+8740481	Phulbari	Phulbari	Fulbari Upazila,phulabari,ফুলবাড়ী	25.49504	88.95029	A	ADM3	BD		87	5527	552738		0		37	Asia/Dhaka	2023-05-23
+8740485	Rajasthali	Rajasthali	Rajasthali Upazila,rajasthali,রাজস্থলী	22.38333	92.24167	A	ADM3	BD		84	2084	208478		0		43	Asia/Dhaka	2023-05-28
+8740493	Bandarban Sadar	Bandarban Sadar	Bandarban Sadar Upazila,bandarabana sadara,বান্দরবন সদর	22.23333	92.19167	A	ADM3	BD		84	2003	200314		0		70	Asia/Dhaka	2023-05-30
+8740496	Khagrachhari	Khagrachhari	Khagrachhari Sadar Upazila,khagarachari,খাগড়াছড়ি	23.04167	91.995	A	ADM3	BD		84	2046	204649		0		41	Asia/Dhaka	2023-05-28
+8740720	Shailkupa	Shailkupa	Shailkupa Upazila,sailakupa,শৈলকুপা	23.68289	89.24023	A	ADM3	BD		82	4044	404480		0		15	Asia/Dhaka	2023-05-23
+8740891	Manikchhari	Manikchhari	Manikchhari Upazila,manikachari,মানিকছড়ি	22.835	91.83667	A	ADM3	BD		84	2046	204667		0		37	Asia/Dhaka	2023-05-28
+8740894	Mahalchhari	Mahalchhari		22.92	92.025	A	ADM3	BD		84	2046	204665		0		49	Asia/Dhaka	2016-11-28
+8741034	Kawkhali	Kawkhali	Kawkhali Upazila,ka'ukhali,কাউখালী	22.53333	92.01667	A	ADM3	BD		84	2084	208425		0		33	Asia/Dhaka	2023-05-28
+9165736	Mujibnagar	Mujibnagar	Mujibnagar Upazila	23.65003	88.59804	A	ADM3	BD		82	4057	405760		0		14	Asia/Dhaka	2023-05-31
+9165741	Fulgazi	Fulgazi	Fulgazi Upazila,phulagaji,ফুলগাজী	23.13333	91.43333	A	ADM3	BD		84	2030	203095		0		9	Asia/Dhaka	2023-05-30
+9252711	DNCC (Dhaka)	DNCC (Dhaka)		23.80088	90.35492	A	ADM3	BD		81	3026	9252711		0		20	Asia/Dhaka	2022-03-06
+9253834	Feni Sadar Upazila	Feni Sadar Upazila		23.01667	91.39167	A	ADM3	BD		84	2030	203029		0		11	Asia/Dhaka	2016-11-29
+9253835	Sonagazi Upazila	Sonagazi Upazila		22.85	91.39167	A	ADM3	BD		84	2030	203094		0		9	Asia/Dhaka	2016-11-07
+9253836	Mirsharai Upazila	Mirsharai Upazila		22.77167	91.575	A	ADM3	BD		84	2015	201553		0		11	Asia/Dhaka	2016-11-07
+9256383	Daudkandi Upazila	Daudkandi Upazila		23.53333	90.71667	A	ADM3	BD		84	2019	201936		0		10	Asia/Dhaka	2016-11-07
+9256565	Manirampur Upazila	Manirampur Upazila	Manirampur,Manirampur Tin,Manirampur Tìn,Manirampur Upazila,ma ni la mu bu er wu pa qi la,maniramapura upajela,maniramapura upajila,maniramapura upazila,mnyrampwr awpazyla,منیرامپور اوپازیلا,منیررام پور ذیلی ضلع,मनिरामपुर उपज़िला,মণিরামপুর উপজেলা,মনিরামপুর উপজিলা,ᱢᱚᱱᱤᱨᱟᱢᱯᱩᱨ ᱩᱯᱚᱡᱮᱞᱟ,瑪尼拉姆布爾烏帕齊拉	23.01667	89.23333	A	ADM3	BD		82	4041	404161		0		12	Asia/Dhaka	2016-11-28
+9256612	Patiya Upazila	Patiya Upazila		22.3	91.98333	A	ADM3	BD		84	2015	201561		0		10	Asia/Dhaka	2016-11-07
+9257354	Chirirbandar Upazila	Chirirbandar Upazila	Chirirbandar,Chirirbandar Tin,Chirirbandar Tìn,Chirirbandar Upazila,chyryrbndr,cirirabandara upajela,cirirabandara upajila,cirirabandara upajilla,cirirabandara upazila,zhi li er ban duo er wu pa qi la,چریربندر ذیلی ضلع,چیریربندر,चिरिरबन्दर उपज़िला,चिरिरबन्दर उपजिला,चिरिरबन्दर उपजिल्ला,চিরিরবন্দর উপজিলা,চিরিরবন্দর উপজেলা,ᱪᱤᱨᱤᱨᱵᱚᱱᱫᱚᱨ ᱩᱯᱚᱡᱮᱞᱟ,智里爾班多爾烏帕齊拉	25.66333	88.78333	A	ADM3	BD		87	5527	552730		0		36	Asia/Dhaka	2016-11-07
+9257363	Muksudpur	Muksudpur	Muksudpur Upazila,mukasudapura,মুকসুদপুর	23.3167	89.8667	A	ADM3	BD		81	3035	303558		0		11	Asia/Dhaka	2023-05-25
+9257375	Dighinala	Dighinala	Dighinala Upazila,dighinala,দীঘিনালা	23.24541	92.06672	A	ADM3	BD		84	2046	204643		0		45	Asia/Dhaka	2023-05-30
+9257463	Alfadanga	Alfadanga	Alfadanga Upazila,alaphadanga,আলফাডাঙ্গা	23.28978	89.70277	A	ADM3	BD		81	3029	302903		0		12	Asia/Dhaka	2023-05-25
+9257465	Bhanga	Bhanga	Bhanga Upazila,bhanga,ভাঙ্গা	23.3898	89.98251	A	ADM3	BD		81	3029	302910		0		8	Asia/Dhaka	2023-05-25
+9257469	Sadarpur	Sadarpur	Sadarpur Upazila,sadarapura,সদরপুর	23.4657	90.02799	A	ADM3	BD		81	3029	302984		0		8	Asia/Dhaka	2023-05-25
+9257483	Barishal Sadar Upazila	Barishal Sadar Upazila	Barisal Sadar Upazila	22.7	90.36667	A	ADM3	BD		85	1006	100651		0		9	Asia/Dhaka	2022-10-09
+9257484	Mehendiganj Upazila	Mehendiganj Upazila	Mehendiganj,Mehendiganj Tin,Mehendiganj Tìn,Mehendiganj Upazila,mehandiganja upazila,mehendiganja upajela,mehendiganja upajila,mei heng di gan jie wu pa qi la,mhndygwnj,مهندیگونج,مہندی گنج ذیلی ضلع,मेहंदीगंज उपज़िला,মেহেন্দিগঞ্জ উপজিলা,মেহেন্দিগঞ্জ উপজেলা,梅亨迪甘傑烏帕齊拉	22.83167	90.53333	A	ADM3	BD		85	1006	100662		0		11	Asia/Dhaka	2016-11-07
+9257485	Hizla Upazila	Hizla Upazila	Hizla,Hizla Tin,Hizla Tìn,Hizla Upazila,hijala upajela,hijala upajila,hijala upajilla,hizala upazila,hyzla,xi ze la wu pa qi la,هیزلا,ہزلا ذیلی ضلع,हिजला उपजिल्ला,हिज़ला उपज़िला,হিজলা উপজিলা,হিজলা উপজেলা,希泽拉乌帕齐拉	22.9	90.50833	A	ADM3	BD		85	1006	100636		0		2	Asia/Dhaka	2016-11-07
+9257487	Patharghata Upazila	Patharghata Upazila	Patharghata,Patharghata Tin,Patharghata Tìn,Patharghata Upazila,Patharnkata,pat'tharaghata upazila,patharaghata upajela,patharaghata upajila,patharghata apazyla,pi ta er jia ta wu pa qi la,Παθαργκάτα,پاتهارگهاتا اپازیلا,پتھر گھاٹا ذیلی ضلع,पत्थरघाटा उपज़िला,পাথরঘাটা উপজিলা,পাথরঘাটা উপজেলা,皮塔尔加塔乌帕齐拉	22.045	89.96833	A	ADM3	BD		85	1004	100485		0		8	Asia/Dhaka	2016-11-07
+9257488	Dashmina Upazila	Dashmina Upazila		22.28333	90.59	A	ADM3	BD		85	1078	107852		0		5	Asia/Dhaka	2016-11-16
+9257489	Rangabali Upazila	Rangabali Upazila	Rangabali,Rangabali Tin,Rangabali Tìn,Rangabali Upazila,lang ge ba li wu pa qi la,rangabali upajela,rangabali upazila,rangabaly apazyla,رانگابالی اپازیلا,رنگابالی ذیلی ضلع,रङ्गबाली उपज़िला,রাঙ্গাবালী উপজেলা,朗格巴里烏帕齊拉	21.93333	90.43333	A	ADM3	BD		85	1078	107897		86819		4	Asia/Dhaka	2016-11-07
+9257595	Sarankhola	Sarankhola	Sarankhola Upazila,saranakhola,শরণখোলা	22.09522	89.81304	A	ADM3	BD		82	4001	400177		0		8	Asia/Dhaka	2023-05-25
+9257621	DSCC (Dhaka)	DSCC (Dhaka)		23.72404	90.4081	A	ADM3	BD		81	3026	9257621		0		21	Asia/Dhaka	2022-03-06
+9257622	Kendua Upazila	Kendua Upazila	Kendua,Kendua Tin,Kendua Tìn,Kendua Upazila,gen du wa wu pa qi la,kendoua jun,kenduya,kenduya upajila,kenduya upazila,kyndwa,Кендуа,کيندوا,کیندوا,केन्दुय़ा उपज़िला,কেন্দুয়া,কেন্দুয়া উপজিলা,ケンドゥア郡,根杜瓦乌帕齐拉	24.65	90.84167	A	ADM3	BD		H	3072	307247		0		12	Asia/Dhaka	2023-05-25
+9257635	Bhandaria Upazila	Bhandaria Upazila		22.48722	90.07098	A	ADM3	BD		85	1079	107914		0		10	Asia/Dhaka	2016-11-07
+9257642	Pekua Upazila	Pekua Upazila		21.80497	91.9511	A	ADM3	BD		84	2022	202295		0		4	Asia/Dhaka	2016-11-08
+9257688	Subarnachar Upazila	Subarnachar Upazila		22.64934	91.06155	A	ADM3	BD		84	2075	207588		0		7	Asia/Dhaka	2016-11-29
+9257689	Bancharampur Upazila	Bancharampur Upazila		23.77566	90.80029	A	ADM3	BD		84	2012	201204		0		5	Asia/Dhaka	2016-11-07
+9257690	Kabirhat Upazila	Kabirhat Upazila		22.79288	91.19871	A	ADM3	BD		84	2075	207589		0		11	Asia/Dhaka	2016-11-07
+9257691	Madan Upazila	Madan Upazila	Madan,Madan Tin,Madan Tìn,Madan Upazila,ma dan wu pa qi la,madan,madana upajela,madana upajila,madana upazila,Мадан,مادان,معدن وپازیلا,मदन उपज़िला,মদন উপজিলা,মদন উপজেলা,马丹乌帕齐拉	24.66582	90.95839	A	ADM3	BD		H	3072	307256		0		9	Asia/Dhaka	2023-05-26
+9257693	Barhatta Upazila	Barhatta Upazila		24.89704	90.88388	A	ADM3	BD		H	3072	307209		0		14	Asia/Dhaka	2016-11-17
+9257694	Astagram Upazila	Astagram Upazila	Austagram Upazila,astagrama,অষ্টগ্রাম	24.27834	91.12679	A	ADM3	BD		81	3048	304802		0		11	Asia/Dhaka	2023-05-26
+9257695	Mithamain Upazila	Mithamain Upazila		24.42472	91.0607	A	ADM3	BD		81	3048	304859		0		3	Asia/Dhaka	2016-11-07
+9257696	Mohanganj Upazila	Mohanganj Upazila	Mohanganj,Mohanganj Tin,Mohanganj Tìn,Mohanganj Upazila,Mokhangandzh,mo hong gan jie wu pa qi la,mohanaganja,mohanaganja upajila,mohanaganja upazila,mwhangnj,Мохангандж,موهانگنج,موہن گنج ذیلی ضلع,मोहनगंज उपज़िला,মোহনগঞ্জ,মোহনগঞ্জ উপজিলা,莫洪甘杰乌帕齐拉	24.84415	90.99529	A	ADM3	BD		H	3072	307263		0		9	Asia/Dhaka	2023-05-26
+9257697	Nandail Upazila	Nandail Upazila	Nandail,Nandail Tin,Nandail Tìn,Nandail Upazila,Nandajl,nan da er wu pa qi la,nanda'ila upajela,nanda'ila upajila,nanda'ila upazila,nandyl,Нандайл,ناندیل,नान्दाईल उपज़िला,নান্দাইল উপজিলা,নান্দাইল উপজেলা,南答爾烏帕齊拉	24.5692	90.69248	A	ADM3	BD		H	3061	306172		0		11	Asia/Dhaka	2016-11-28
+9257698	Phulpur Upazila	Phulpur Upazila	Phulpur,Phulpur Tin,Phulpur Tìn,Phulpur Upazila,Pkhulpur,phulapura upajela,phulapura upajila,phulapura upazila,pu er bu er wu pa qi la,pwlpwr,Пхулпур,پولپور,फूलपुर उपज़िला,ফুলপুর উপজিলা,ফুলপুর উপজেলা,普爾布爾烏帕齊拉	24.95606	90.36684	A	ADM3	BD		H	3061	306181		0		12	Asia/Dhaka	2016-11-28
+9257699	Nalitabari Upazila	Nalitabari Upazila	Nalitabari,Nalitabari Tin,Nalitabari Tìn,Nalitabari Upazila,na li ta ba li wu pa qi la,nalitabari,nalitabari upajila,nalitabari upazila,nalytbary,Налитабари,نالیتباری,नालिताबाड़ी उपज़िला,নালিতাবাড়ি,নালিতাবাড়ি উপজিলা,纳里塔巴里乌帕齐拉	25.08851	90.1981	A	ADM3	BD		H	3089	308970		0		21	Asia/Dhaka	2023-05-26
+9257700	Nagarpur Upazila	Nagarpur Upazila	Nagarpur,Nagarpur Tin,Nagarpur Tìn,Nagarpur Upazila,na jia er bu er wu pa qi la,nagarapura,nagarapura upajila,nagarapura upazila,nagarpwr,Нагарпур,ناگارپور,नागरपुर उपज़िला,নাগরপুর,নাগরপুর উপজিলা,纳加尔布尔乌帕齐拉	24.05904	89.88267	A	ADM3	BD		81	3093	309376		0		11	Asia/Dhaka	2023-05-26
+9257701	Kishoreganj Sadar Upazila	Kishoreganj Sadar Upazila	Kishoreganj Sadar,Kishoreganj Sadar Tin,Kishoreganj Sadar Tìn,Kishoreganj Sadar Upazila,Kishorgandzh-Sadar,ji shao er gan jie sha da er wu pa qi la,kisoraganja sadara upajela,kisoraganja sadara upajila,kisoraganja sadara upazila,kyshwrganj sdar,Кишоргандж-Садар,کیشورگانج صدار,किशोरगञ्ज सदर उपज़िला,কিশোরগঞ্জ সদর উপজিলা,কিশোরগঞ্জ সদর উপজেলা,キショレガンジ・サダル,吉紹爾甘傑沙達爾烏帕齊拉	24.43629	90.79256	A	ADM3	BD		81	3048	304849		0		14	Asia/Dhaka	2016-11-07
+9257702	Muktagacha Upazila	Muktagacha Upazila		24.76682	90.25964	A	ADM3	BD		H	3061	306165		0		19	Asia/Dhaka	2016-11-28
+9257996	Goalandaghat Upazila	Goalandaghat Upazila	Goalanda Upazila	23.73149	89.76929	A	ADM3	BD		81	3082	308229		0		10	Asia/Dhaka	2023-05-26
+9258010	Shibpur Upazila	Shibpur Upazila	Shibpur,Shibpur Tin,Shibpur Tìn,Shibpur Upazila,shi bu er wu pa qi la,shybpwr,sibapura upajela,sibapura upajila,sibapura upazila,Шибпур,شیبپور,शिबपुर उपज़िला,শিবপুর উপজিলা,শিবপুর উপজেলা,施布爾烏帕齊拉	24.03459	90.74029	A	ADM3	BD		81	3068	306876		0		11	Asia/Dhaka	2016-11-28
+9258072	Kushtia Sadar Upazila	Kushtia Sadar Upazila	Kushtia,Kushtia Sadar,Kushtia Sadar Tin,Kushtia Sadar Tìn,Kushtia Sadar Upazila,ku shen di ya sha da er wu pa qi la,kusthiya sadara upanagara,kustiya sadar upajila,kustiya sadar upanagaram,kustiya sadara upajela,kustiya sadara upajila,kustiya sadara upajilla,کوشتیا صدر ذیلی ضلع,कुश्टीया सदर् उपनगरम्,कुष्टिया सदर उपजिल्ला,कुष्ठिया सदर उपनगर,কুষ্টিয়া সদর উপজিলা,কুষ্টিয়া সদর উপজেলা,ಕುಷ್ಟಿಯ ಸಾದರ್ ಉಪಜಿಲ,ᱠᱩᱥᱴᱤᱭᱟ ᱥᱚᱫᱚᱨ ᱩᱯᱚᱡᱮᱞᱟ,庫什蒂亞沙達爾烏帕齊拉	23.89937	89.13199	A	ADM3	BD		82	4050	405079		0		19	Asia/Dhaka	2016-11-07
+9258250	Chakaria Upazila	Chakaria Upazila		21.78667	92.07833	A	ADM3	BD		84	2022	202216		0		6	Asia/Dhaka	2016-11-07
+9258615	Rajbari Sadar Upazila	Rajbari Sadar Upazila	Radzhbari-Sadar,Rajbari Sadar,Rajbari Sadar Tin,Rajbari Sadar Tìn,Rajbari Sadar Upazila,la jie ba li sha da er wu pa qi la,rajabari sadara upajela,rajabari sadara upajila,rajbari sadara upazila,rajbary sdr,Раджбари-Садар,Раджбарі-Садар,راجباری صدر,रज्बरि सदर उपज़िल,রাজবাড়ী সদর উপজিলা,রাজবাড়ী সদর উপজেলা,ᱨᱟᱡᱽᱵᱟᱲᱤ ᱥᱚᱫᱚᱨ ᱩᱯᱚᱡᱮᱞᱟ,拉杰巴里沙达尔乌帕齐拉	23.755	89.65	A	ADM3	BD		81	3082	308276		0		17	Asia/Dhaka	2016-11-07
+9258621	Damudya Upazila	Damudya Upazila	Damud'ja,Damudya,Damudya Tin,Damudya Tìn,Damudya Upazila,da mu de ya wu pa qi la,damudya,damudya upajila,damudya upazila,damwdya,Дамудья,دامودیا,डामुड्या उपज़िला,ডামুড্যা,ডামুড্যা উপজিলা,達穆德亞烏帕齊拉	23.13333	90.43333	A	ADM3	BD		81	3086	308625		0		5	Asia/Dhaka	2023-05-26
+9258628	Naria Upazila	Naria Upazila	Naria,Naria Tin,Naria Tìn,Naria Upazila,Narija,na li ya wu pa qi la,nariya upajela,nariya upajila,nariya upazila,narya awpazyla,Нария,ناریا اوپازیلا,नड़िय़ा उपज़िला,নড়িয়া উপজিলা,নড়িয়া উপজেলা,納里亞烏帕齊拉	23.3	90.4	A	ADM3	BD		81	3086	308665		0		10	Asia/Dhaka	2023-05-26
+9258662	Bamna Upazila	Bamna Upazila	Bamna,Bamna Tin,Bamna Tìn,Bamna Upazila,ba mu na wu pa qi la,bamana upajela,bamana upajila,bamana upazila,bamna apazyla,بامنا اپازیلا,بمنا ذیلی ضلع,बामना उपज़िला,বামনা উপজিলা,বামনা উপজেলা,巴姆纳乌帕齐拉	22.30167	90.1	A	ADM3	BD		85	1004	100419		0		6	Asia/Dhaka	2016-11-07
+9258671	Betagi Upazila	Betagi Upazila	Betagi,Betagi Tin,Betagi Tìn,Betagi Upazila,bei ta ji wu pa qi la,betagi upajela,betagi upajila,betagi upazila,btagy apazyla,بتاگی اپازیلا,بیتاگی ذیلی ضلع,बेतागी उपज़िला,বেতাগী উপজিলা,বেতাগী উপজেলা,贝塔吉乌帕齐拉	22.41667	90.16833	A	ADM3	BD		85	1004	100447		0		10	Asia/Dhaka	2016-11-07
+9258687	Babuganj Upazila	Babuganj Upazila	Babuganj,Babuganj Tin,Babuganj Tìn,Babuganj Upazila,ba bu gan jie wu pa qi la,babuganja upajela,babuganja upajila,babuganja upajilla,babuganja upazila,babwganj,بابوگانج,بابوگنج ذیلی ضلع,बाबुगंज उपज़िला,बाबुगञ्ज उपजिल्ला,বাবুগঞ্জ উপজিলা,বাবুগঞ্জ উপজেলা,巴布甘傑烏帕齊拉	22.83167	90.32167	A	ADM3	BD		85	1006	100603		0		11	Asia/Dhaka	2016-11-07
+9258698	Bakerganj Upazila	Bakerganj Upazila	Bakerganj,Bakerganj Tin,Bakerganj Tìn,Bakerganj Upazila,ba ke gan jie wu pa qi la,bakeraganja upajela,bakeraganja upajila,bakeraganja upajilla,bakeraganja upazila,bkrganj,باقرگنج ذیلی ضلع,بکرگانج,बाकेरगंज उपज़िला,बाकेरगञ्ज उपजिल्ला,বাকেরগঞ্জ উপজিলা,বাকেরগঞ্জ উপজেলা,巴克甘傑烏帕齊拉	22.55	90.33833	A	ADM3	BD		85	1006	100607		0		2	Asia/Dhaka	2016-11-07
+9258704	Banaripara Upazila	Banaripara Upazila	Banaripara,Banaripara Tin,Banaripara Tìn,Banaripara Upazila,ba na li pa la wu pa qi la,banaripada upajilla,banaripara upajela,banaripara upajila,banaripara upazila,banarypara,باناریپارا,بناری پورہ ذیلی ضلع,बनारीपाड़ा उपज़िला,बानारिपाडा उपजिल्ला,বানারিপাড়া উপজিলা,বানারীপাড়া উপজেলা,巴拿利帕拉烏帕齊拉	22.78167	90.16667	A	ADM3	BD		85	1006	100610		0		11	Asia/Dhaka	2016-11-07
+9258751	Badarganj Upazila	Badarganj Upazila	Badarganj,Badarganj Tin,Badarganj Tìn,Badarganj Upazila,badaraganja,badaraganja upajila,badaraganja upazila,badrganj,bo duo er gan jie wu pa qi la,بادرگانج,بدرگنج ذیلی ضلع,बदरगञ्ज उपज़िला,बदरगञ्ज उपजिला,বদরগঞ্জ,বদরগঞ্জ উপজিলা,ᱵᱚᱫᱚᱨᱜᱚᱸᱡᱽ ᱩᱯᱚᱡᱮᱞᱟ,博多爾甘傑烏帕齊拉	25.65511	89.07938	A	ADM3	BD		87	5585	558503		0		29	Asia/Dhaka	2023-05-26
+9258752	Lalmonirhat Sadar Upazila	Lalmonirhat Sadar Upazila	Lalmonirhat Sadar,Lalmonirhat Sadar Tin,Lalmonirhat Sadar Tìn,Lalmonirhat Sadar Upazila,la er mo ni ha de sha da er wu pa qi la,lalamanirahata sadara upajela,lalamanirahata sadara upajila,lalmonir'hat sadar upajila,lalmonir'hata sadara upajila,lalmwnyrhat,لالمونیرهات,لالمونیرہاٹ ساڈار وپازیلا,लालमनिरहाट सदर उपजिला,लाल्मोनिर्हत सदर उपाजिला,লালমনিরহাট সদর উপজিলা,লালমনিরহাট সদর উপজেলা,ಲಾಲ್ಮೊನಿರ್ಹಾತ್ ಸಾದರ್ ಉಪಜಿಲ,ᱞᱟᱞᱢᱚᱱᱤᱨᱦᱟᱴ ᱥᱚᱫᱚᱨ ᱩᱯᱚᱡᱮᱞᱟ,拉尔莫尼哈德沙达尔乌帕齐拉	25.89035	89.47849	A	ADM3	BD		87	5552	555255		0		30	Asia/Dhaka	2016-11-28
+9258753	Kaliganj Upazila	Kaliganj Upazila		25.96746	89.26701	A	ADM3	BD		87	5552	555239		0		37	Asia/Dhaka	2016-11-29
+9258754	Ranisankail Upazila	Ranisankail Upazila	Ranisankail,Ranisankail Tin,Ranisankail Tìn,Ranisankail Upazila,lan ni sang ke yi er wu pa qi la,ranisankaila,ranisankaila upajila,ranisankaila upazila,ranysankl,رانی سنکائل ذیلی ضلع,رانیسانکل,रानीशंकैल उपज़िला,रानीशङ्कैल उपजिला,রাণীশংকৈল,রাণীশংকৈল উপজিলা,ᱨᱟᱱᱤᱥᱚᱝᱠᱳᱞ ᱩᱯᱚᱡᱮᱞᱟ,兰尼桑科伊尔乌帕齐拉	25.8866	88.25867	A	ADM3	BD		87	5594	559486		0		48	Asia/Dhaka	2023-05-26
+9258755	Sullah Upazila	Sullah Upazila	Sulla,Sullah,Sullah Tin,Sullah Tìn,Sullah Upazila,salla upajela,salla upajila,salla upajilla,salla upazila,su la he wu pa qi la,Сулла,سولاہ ذیلی ضلع,शाल्ला उपज़िला,शाल्ला उपजिल्ला,শাল্লা উপজিলা,শাল্লা উপজেলা,蘇拉赫烏帕齊拉	24.66917	91.27029	A	ADM3	BD		86	6090	609086		0		11	Asia/Dhaka	2016-11-07
+9258756	Madhabpur Upazila	Madhabpur Upazila	Madhabpur,Madhabpur Tin,Madhabpur Tìn,Madhabpur Upazila,Madkhabpur,ma de ha bu er wu pa qi la,madhabapura upajela,madhabapura upajila,madhabapura upazila,madhavapura upajilla,Мадхабпур,مدھابپور ایوپازیلا,माधबपुर उपज़िला,माधवपुर उपजिल्ला,মাধবপুর উপজিলা,মাধবপুর উপজেলা,馬德哈布爾烏帕齊拉	24.09791	91.29527	A	ADM3	BD		86	6036	603671		0		5	Asia/Dhaka	2016-11-07
+9258757	Chunarughat Upazila	Chunarughat Upazila	Chunarughat,Chunarughat Tin,Chunarughat Tìn,Chunarughat Upazila,Chunarugkhat,cunarughata upajela,cunarughata upajila,cunarughata upajilla,cunarughata upazila,qiu na lu jia te wu pa qi la,Чунаругхат,چونر گھاٹ ذیلی ضلع,चुनारुघाट उपज़िला,चुनारुघाट उपजिल्ला,চুনারুঘাট উপজিলা,চুনারুঘাট উপজেলা,丘納魯加特烏帕齊拉	24.19542	91.52298	A	ADM3	BD		86	6036	603626		0		21	Asia/Dhaka	2016-11-07
+9258758	Juri Upazila	Juri Upazila	Juri,Juri Tin,Juri Tìn,Juri Upazila,judi upajilla,juri upajela,juri upajila,juri upazila,zhu li wu pa qi la,جوری ذیلی ضلع,जुड़ी उपज़िला,जुडी उपजिल्ला,জুড়ি উপজিলা,জুড়ী উপজেলা,朱里烏帕齊拉	24.59677	92.1104	A	ADM3	BD		86	6058	605815		0		16	Asia/Dhaka	2016-11-10
+9259263	Jhalokati Sadar	Jhalokati Sadar		22.6406	90.19868	A	ADM3	BD		85	1042	104240		0		9	Asia/Dhaka	2016-11-07
+9259279	Gaurnadi Upazila	Gaurnadi Upazila		22.97333	90.23	A	ADM3	BD		85	1006	100632		0		12	Asia/Dhaka	2016-11-07
+9259284	Kathalia	Kathalia	Kathalia Upazila	22.40528	90.09337	A	ADM3	BD		85	1042	104243		0		3	Asia/Dhaka	2023-05-26
+9259293	Muladi Upazila	Muladi Upazila	Muladi,Muladi Tin,Muladi Tìn,Muladi Upazila,mu la di wu pa qi la,muladi upajela,muladi upajila,muladi upazila,mwlady,مولادی,مولادی ذیلی ضلع,मुलादी उपज़िला,মুলাদি উপজিলা,মুলাদী উপজেলা,穆拉迪烏帕齊拉	22.915	90.415	A	ADM3	BD		85	1006	100669		0		11	Asia/Dhaka	2016-11-28
+9259300	Bhola Sadar Upazila	Bhola Sadar Upazila	Bhola Sadar,Bhola Sadar Tin,Bhola Sadar Tìn,Bhola Sadar Upazila,bhola sadara upajela,bhola sadara upajila,bhola sadara upazila,bhwla sadar apazyla,bo la sha da er wu pa qi la,بهولا سادار اپازیلا,بھولا صدر ذیلی ضلع,भोला सदर उपज़िला,ভোলা সদর উপজিলা,ভোলা সদর উপজেলা,波拉沙達爾烏帕齊拉	22.69	90.65333	A	ADM3	BD		85	1009	100918		0		10	Asia/Dhaka	2016-11-07
+9259364	Dumki Upazila	Dumki Upazila	Dumki,Dumki Tin,Dumki Tìn,Dumki Upazila,du mu qi wu pa qi la,dumaki upajela,dumaki upazila,dwmky apazyla,دمکی ذیلی ضلع,دومکی اپازیلا,दुमकी उपज़िला,দুমকি উপজেলা,杜姆奇烏帕齊拉	22.43333	90.36667	A	ADM3	BD		85	1078	107895		0		3	Asia/Dhaka	2016-11-07
+9259377	Mathbaria Upazila	Mathbaria Upazila	Mathbaria,Mathbaria Tin,Mathbaria Tìn,Mathbaria Upazila,ma fu ba li ya wu pa qi la,mathabariya upajela,mathabariya upajila,mathabariya upazila,mathbarya apazyla,ماتهباریا اپازیلا,ماتھباریا ذیلی ضلع,मठबाड़िय़ा उपज़िला,মঠবাড়িয়া উপজিলা,মঠবাড়িয়া উপজেলা,瑪夫巴里亞烏帕齊拉	22.28667	89.96667	A	ADM3	BD		85	1079	107958		0		5	Asia/Dhaka	2016-11-07
+9259384	Kawkhali Upazila	Kawkhali Upazila		22.62	90.07	A	ADM3	BD		85	1079	107947		0		4	Asia/Dhaka	2016-11-07
+9259394	Nesarabad Upazila	Nesarabad Upazila		22.74667	90.10333	A	ADM3	BD		85	1079	107987		0		10	Asia/Dhaka	2016-11-07
+9259410	Mongla Upazila	Mongla Upazila	Mongla,Mongla Tin,Mongla Tìn,Mongla Upazila,mangla upazila,manla,manla upajila,meng ge la wu pa qi la,mongura jun,mwngla,مونگلا,مونگلا ذیلی ضلع,मंग्ला उपज़िला,মংলা,মংলা উপজিলা,ᱢᱚᱝᱞᱟ ᱩᱯᱚᱡᱮᱞᱟ,モングラ郡,蒙格拉乌帕齐拉,蒙格拉烏帕齊拉	22.50306	89.6032	A	ADM3	BD		82	4001	400158		0		4	Asia/Dhaka	2023-05-31
+9259431	Chuadanga Sadar Upazila	Chuadanga Sadar Upazila		23.64167	88.85833	A	ADM3	BD		82	4018	401823		0		15	Asia/Dhaka	2016-11-07
+9259443	Abhaynagar Upazila	Abhaynagar Upazila	Abhajnagar,Abhaynagar,Abhaynagar Tin,Abhaynagar Tìn,Abhaynagar Upazila,Abkhajnagar,a ba yi na ge er wu pa qi la,abhayanagara upajela,abhayanagara upajila,abhayanagara upazila,Абхайнагар,ابهی‌نگار اپازیلا,ابھائے نگر ذیلی ضلع,अभय़नगर उपज़िला,অভয়নগর উপজিলা,অভয়নগর উপজেলা,ᱚᱵᱷᱚᱭᱱᱚᱜᱚᱨ ᱩᱯᱚᱡᱮᱞᱟ,阿巴伊纳格尔乌帕齐拉	23.01667	89.43333	A	ADM3	BD		82	4041	404104		0		6	Asia/Dhaka	2016-11-07
+9260780	Bagherpara Upazila	Bagherpara Upazila	Bagherpara,Bagherpara Tin,Bagherpara Tìn,Bagherpara Upazila,ba gai er pa la wu pa qi la,bagharapara upajela,bagharapara upajila,bagharapara upazila,baqrpara,باقرپارا,باگھیر پارہ ذیلی ضلع,बाघारपाड़ा उपज़िला,বাঘারপাড়া উপজিলা,বাঘারপাড়া উপজেলা,ᱵᱟᱜᱷᱮᱨᱯᱟᱲᱟ ᱩᱯᱚᱡᱮᱞᱟ,巴盖尔帕拉乌帕齐拉	23.21667	89.35	A	ADM3	BD		82	4041	404109		0		9	Asia/Dhaka	2016-11-07
+9260781	Jhikargachha Upazila	Jhikargachha Upazila		23.1	89.13333	A	ADM3	BD		82	4041	404123		0		9	Asia/Dhaka	2016-11-07
+9260851	Keshabpur Upazila	Keshabpur Upazila	Keshabpur,Keshabpur Tin,Keshabpur Tìn,Keshabpur Upazila,kai sha bu bu er wu pa qi la,kesabapura upajela,kesabapura upajila,kesabapura upazila,kshabpwr,کشابپور,کیشاب پور ذیلی ضلع,केशबपुर उपज़िला,কেশবপুর উপজিলা,কেশবপুর উপজেলা,ᱠᱮᱥᱚᱵᱽᱯᱩᱨ ᱩᱯᱚᱡᱮᱞᱟ,凱沙布布爾烏帕齊拉	22.9075	89.23317	A	ADM3	BD		82	4041	404138		0		5	Asia/Dhaka	2016-11-29
+9260858	Jhenaidah Sadar Upazila	Jhenaidah Sadar Upazila	Jhenaidah Sadar,Jhenaidah Sadar Tin,Jhenaidah Sadar Tìn,Jhenaidah Sadar Upazila,jhina'idaha sadara upajela,jhina'idaha sadara upajila,jhina'idaha sadara upazila,jie nai da sa da er,qie ni da sha da er wu pa qi la,جھینایداہ صدر ذیلی ضلع,झिनाइदह सदर उपज़िला,ঝিনাইদহ সদর উপজিলা,ঝিনাইদহ সদর উপজেলা,ᱡᱷᱤᱱᱟᱭᱫᱚᱦᱚ ᱥᱚᱫᱚᱨ ᱩᱯᱚᱡᱮᱞᱟ,傑奈答薩達爾,切尼達沙達爾烏帕齊拉,杰奈答萨达尔	23.54167	89.18333	A	ADM3	BD		82	4044	404419		0		14	Asia/Dhaka	2016-11-29
+9260867	Kaliganj Upazila	Kaliganj Upazila	Kaliganj Upazila,kaliganja,কালীগঞ্জ	23.41333	89.13333	A	ADM3	BD		82	4044	404433		0		14	Asia/Dhaka	2023-05-31
+9260872	Kotchandpur Upazila	Kotchandpur Upazila	Kotchandpur,Kotchandpur Tin,Kotchandpur Tìn,Kotchandpur Upazila,gao te jian de bu er wu pa qi la,kotacamdapura,kotacamdapura upajila,kotacamdapura upazila,کوٹ چاند پور ذیلی ضلع,कोटचाँदपुर उपज़िला,কোটচাঁদপুর,কোটচাঁদপুর উপজিলা,ᱠᱳᱴᱪᱟᱸᱫᱯᱩᱨ ᱩᱯᱚᱡᱮᱞᱟ,高特堅德布爾烏帕齊拉	23.4	89.01667	A	ADM3	BD		82	4044	404442		0		18	Asia/Dhaka	2023-05-31
+9260877	Batiaghata Upazila	Batiaghata Upazila	Batiaghata,Batiaghata Tin,Batiaghata Tìn,Batiaghata Upazila,ba di ya jia ta wu pa qi la,batiyaghata upajela,batiyaghata upajila,batiyaghata upazila,باتیاگھاٹا ذیلی ضلع,बटिय़ाघाटा उपज़िला,বটিয়াঘাটা উপজেলা,বাটিয়াঘাটা উপজিলা,ᱵᱚᱴᱤᱭᱟᱜᱷᱟᱴᱟ ᱩᱯᱚᱡᱮᱞᱟ,巴蒂亞加塔烏帕齊拉	22.74167	89.51667	A	ADM3	BD		82	4047	404712		0		3	Asia/Dhaka	2016-11-07
+9260881	Dacope Upazila	Dacope Upazila		22.57167	89.51167	A	ADM3	BD		82	4047	404717		0		1	Asia/Dhaka	2016-11-07
+9260884	Dumuria Upazila	Dumuria Upazila	Dumuria,Dumuria Tin,Dumuria Tìn,Dumuria Upazila,du mu li ya wu pa qi la,dumuriya upajela,dumuriya upajila,dumuriya upazila,دوموریا ذیلی ضلع,डुमुरिय़ा उपज़िला,ডুমুরিয়া উপজিলা,ডুমুরিয়া উপজেলা,ᱰᱩᱢᱩᱨᱤᱭᱟ ᱩᱯᱚᱡᱮᱞᱟ,杜穆里亞烏帕齊拉	22.80833	89.425	A	ADM3	BD		82	4047	404730		0		5	Asia/Dhaka	2016-11-07
+9260897	Dighalia Upazila	Dighalia Upazila	Dighalia,Dighalia Tin,Dighalia Tìn,Dighalia Upazila,di jia li ya wu pa qi la,dighaliya thana,dighaliya upajela,dighaliya upazila,دیگہالیا ذیلی ضلع,दिघलिय़ा उपज़िला,দিঘলিয়া উপজেলা,দিঘলিয়া থানা,ᱫᱤᱜᱷᱞᱤᱭᱟ ᱩᱯᱚᱡᱮᱞᱟ,迪加里亞烏帕齊拉	22.90833	89.53333	A	ADM3	BD		82	4047	404740		0		6	Asia/Dhaka	2016-11-07
+9260911	Phultala Upazila	Phultala Upazila	Phultala,Phultala Tin,Phultala Tìn,Phultala Upazila,fu er ta la wu pa qi la,phulatala upajela,phulatala upajila,phulatala upajilla,phulatala upazila,پھولتالا ذیلی ضلع,फुलतला उपज़िला,फुलतला उपजिल्ला,ফুলতলা উপজিলা,ফুলতলা উপজেলা,ᱯᱷᱩᱞᱛᱚᱞᱟ ᱩᱯᱚᱡᱮᱞᱟ,富爾塔拉烏帕齊拉	22.975	89.45833	A	ADM3	BD		82	4047	404769		0		9	Asia/Dhaka	2016-11-07
+9260920	South Surma	South Surma	Dakshin Surma,South Surma,South Surma Upazila	24.82112	91.89039	A	ADM3	BD		86	6091	609163		0		18	Asia/Dhaka	2016-11-08
+9260950	Kalia Upazila	Kalia Upazila	Kalia,Kalia Tin,Kalia Tìn,Kalia Upazila,ka li ya wu pa qi la,kaliya,kaliya upajila,kaliya upajilla,kaliya upazila,podokrug Kalija,подокруг Калия,کالیا ذیلی ضلع,कालिय़ा उपज़िला,कालिया उपजिल्ला,কালিয়া,কালিয়া উপজিলা,ᱠᱟᱞᱤᱭᱟ ᱩᱯᱚᱡᱮᱞᱟ,卡利亞烏帕齊拉	23.03333	89.63333	A	ADM3	BD		82	4065	406528		0		10	Asia/Dhaka	2023-05-31
+9260961	Shyamnagar Upazila	Shyamnagar Upazila	Shyamnagar,Shyamnagar Tin,Shyamnagar Tìn,Shyamnagar Upazila,syamanagara upajela,syamanagara upajila,syamanagara upajilla,syamanagara upazila,xi ya mu na jia er wu pa qi la,شیام نگر ذیلی ضلع,श्यामनगर उपज़िला,श्यामनगर उपजिल्ला,শ্যামনগর উপজিলা,শ্যামনগর উপজেলা,ᱥᱮᱢᱱᱚᱜᱚᱨ ᱩᱯᱚᱡᱮᱞᱟ,希亞姆納加爾烏帕齊拉	22.33	89.10333	A	ADM3	BD		82	4087	408786		0		4	Asia/Dhaka	2016-11-07
+9278153	Rangpur Sadar	Rangpur Sadar	Rangpur Sadar Upazila,rampura sadara,রংপুর সদর	25.75	89.143	A	ADM3	BD		87	5585	558549		0		33	Asia/Dhaka	2025-10-26
+9278416	Birganj	Birganj	Birganj Upazila,biraganja,বীরগঞ্জ	26	88.58333	A	ADM3	BD		87	5527	552712		0		53	Asia/Dhaka	2023-05-31
+9278610	Dinajpur Sadar	Dinajpur Sadar	Dinajpur Sadar Upazila,dinajapura sadara,দিনাজপুর সদর	25.63333	88.65	A	ADM3	BD		87	5527	552764		0		40	Asia/Dhaka	2023-05-31
+9280979	Ramganj Upazila	Ramganj Upazila		23.105	90.875	A	ADM3	BD		84	2051	205165		0		8	Asia/Dhaka	2016-11-07
+9281344	Bhaluka Upazila	Bhaluka Upazila	Bhaluka,Bhaluka Tin,Bhaluka Tìn,Bhaluka Upazila,Bkhaluka,ba lu ka wu pa qi la,bahlwka,bhaluka upajela,bhaluka upajila,bhaluka upazila,Бхалука,باهلوکا,भालुका उपज़िला,ভালুকা উপজিলা,ভালুকা উপজেলা,巴鲁卡乌帕齐拉	24.375	90.37833	A	ADM3	BD		H	3061	306113		0		14	Asia/Dhaka	2016-11-28
+9283819	Faridpur Sadar Upazila	Faridpur Sadar Upazila	Faridpur,Faridpur Sadar,Faridpur Sadar Tin,Faridpur Sadar Tìn,Faridpur Sadar Upazila,Faridpur-Sadar,faridopuru,frydpwr sdar awpazyla,fu li de bu er sha da er wu pa qi la,pharidapura sadara upajela,pharidapura sadara upajila,pharidapura sadara upazila,Фаридпур-Садар,فرید پور صدر ذیلی ضلع,فریدپور سدار اوپازیلا,फरिदपुर सदर उपज़िला,ফরিদপুর সদর উপজিলা,ফরিদপুর সদর উপজেলা,ファリドプル,福里德布爾沙達爾烏帕齊拉	23.62062	89.8128	A	ADM3	BD		81	3029	302947		0		7	Asia/Dhaka	2016-11-07
+9294007	Zianagar Upazila	Zianagar Upazila		22.50439	89.97897	A	ADM3	BD		85	1079	107988		0		8	Asia/Dhaka	2016-11-08
+9294121	Damurhuda Upazila	Damurhuda Upazila	Damurhuda,Damurhuda Tin,Damurhuda Tìn,Damurhuda Upazila,da mu er hu da wu pa qi la,damurahuda,damurahuda upajila,damurahuda upazila,damwrhwda,دامورهودا,دامورہودا ذیلی ضلع,दामुड़हुदा उपज़िला,দামুড়হুদা,দামুরহুদা উপজিলা,ᱫᱟᱢᱩᱲᱦᱩᱫᱟ ᱩᱯᱚᱡᱮᱞᱟ,達穆爾胡達烏帕齊拉	23.61195	88.78084	A	ADM3	BD		82	4018	401831		0		17	Asia/Dhaka	2023-05-26
+9295713	Domar	Domar	Domar Upazila,domara,ডোমার	26.1	88.8361	A	ADM3	BD		87	5573	557315		0		57	Asia/Dhaka	2023-05-26
+9295718	Panchagarh Sadar	Panchagarh Sadar	Panchagarh Sadar Upazila,pancagara sadara,পঞ্চগড় সদর	26.3347	88.5583	A	ADM3	BD		87	5577	557773		0		82	Asia/Dhaka	2023-05-26
+9295722	Debiganj	Debiganj	Debiganj Upazila,debiganja,দেবীগঞ্জ	26.11858	88.7593	A	ADM3	BD		87	5577	557734		0		64	Asia/Dhaka	2023-05-26
+9295723	Atwari	Atwari	Atwari Upazila,ata'oyari,অটওয়ারী	26.3083	88.4583	A	ADM3	BD		87	5577	557704		0		75	Asia/Dhaka	2023-05-26
+9295769	Dhupchanchia	Dhupchanchia	Dhupchanchia Upazila,dupacamciya upajela,দুপচাঁচিয়া উপজেলা	24.86667	89.16667	A	ADM3	BD		83	5010	501033		0		20	Asia/Dhaka	2023-05-26
+9295770	Shajahanpur	Shajahanpur	Shajahanpur Upazila,sajahanapura upajela,শাজাহানপুর উপজেলা	24.76667	89.4	A	ADM3	BD		83	5010	501021		0		16	Asia/Dhaka	2023-05-31
+9295772	Mohadevpur	Mohadevpur	Mohadevpur Upazila,mahadebapura,মহাদেবপুর	24.91833	88.74833	A	ADM3	BD		83	5064	506450		0		24	Asia/Dhaka	2023-05-31
+9295773	Bhangura	Bhangura	Bhangura Upazila,bhangura,ভাঙ্গুড়া	24.225	89.4	A	ADM3	BD		83	5076	507619		0		17	Asia/Dhaka	2023-05-28
+9295777	Sirajganj Sadar	Sirajganj Sadar	Sirajganj Sadar Upazila,sirajaganja sadara,সিরাজগঞ্জ সদর	24.45833	89.7	A	ADM3	BD		83	5088	508878		0		20	Asia/Dhaka	2023-05-28
+9295778	Durgapur	Durgapur		24.455	88.76667	A	ADM3	BD		83	5081	508131		0		14	Asia/Dhaka	2016-11-25
+9295779	Atgharia Upazila	Atgharia Upazila	Atgharia,Atgharia Tin,Atgharia Tìn,Atgharia Upazila,Atgkharija,ai te jia li ya wu pa qi la,atagariya upajila,ataghariya upajela,ataghariya upazila,ataghoriya upajilla,atgharya,Атгхария,آتغاریا,اتگھاریا ذیلی ضلع,आटघरिय़ा उपज़िला,आटघोरिया उपजिल्ला,আটগড়িয়া উপজিলা,আটঘরিয়া উপজেলা,ᱟᱴᱜᱷᱚᱨᱤᱭᱟ ᱩᱯᱚᱡᱮᱞᱟ,艾特加里亞烏帕齊拉	24.13333	89.25	A	ADM3	BD		83	5076	507605		0		16	Asia/Dhaka	2016-11-07
+9295781	Boalia Upazila	Boalia Upazila		24.37	88.605	A	ADM3	BD		83	5081	508122		0		24	Asia/Dhaka	2016-11-07
+9295786	Chauhali Upazila	Chauhali Upazila	Chauhali,Chauhali Tin,Chauhali Tìn,Chauhali Upazila,Chaukhali,cauhali upajela,cauhali upajila,cauhali upajilla,cauhali upazila,cha wu ha li wu pa qi la,chawhaly,Чаухали,چاوهالی,چاوہالی ذیلی ضلع,चौहालि उपजिल्ला,चौहाली उपज़िला,চৌহালি উপজিলা,চৌহালি উপজেলা,ᱪᱳᱣᱦᱟᱞᱤ ᱩᱯᱚᱡᱮᱞᱟ,查烏哈利烏帕齊拉	24.21167	89.72	A	ADM3	BD		83	5088	508827		0		14	Asia/Dhaka	2016-11-07
+9295788	Palashbari Upazila	Palashbari Upazila	Palashbari,Palashbari Tin,Palashbari Tìn,Palashbari Upazila,pa la shen ba li wu pa qi la,palasabadi upajilla,palasabari upajela,palasabari upajila,palasabari upazila,palashbry,پالاشباری ذیلی ضلع,پالاشبری,पलाशबाड़ी उपज़िला,पलाशबाड़ी उपजिला,पलाशबाडी उपजिल्ला,পলাশবাড়ী উপজিলা,পলাশবাড়ী উপজেলা,ᱯᱚᱞᱟᱥᱵᱟᱲᱤ ᱩᱯᱚᱡᱮᱞᱟ,帕拉什巴里烏帕齊拉	25.28333	89.35	A	ADM3	BD		87	5532	553267		0		29	Asia/Dhaka	2023-05-31
+9306552	Bhurungamari Upazila	Bhurungamari Upazila	Bhurungamari,Bhurungamari Tin,Bhurungamari Tìn,Bhurungamari Upazila,bhurungamari upajela,bhurungamari upajila,bhurungamari upajilla,bhurungamari upazila,bu lun ge ma li wu pa qi la,burungamari upajila,bwrwngamary,بورونگاماری,بھورونگاماری ذیلی ضلع,भुरुङ्गामारी उपज़िला,भुरुङ्गामारी उपजिला,भुरुङ्गामारी उपजिल्ला,বুরুঙ্গামারি উপজিলা,ভূরুঙ্গামারী উপজেলা,ᱵᱷᱩᱨᱩᱝᱜᱟᱢᱟᱨᱤ ᱩᱯᱚᱡᱮᱞᱟ,布倫格馬里烏帕齊拉	26.125	89.68333	A	ADM3	BD		87	5549	554906		0		33	Asia/Dhaka	2016-11-07
+9307462	Phulbari Upazila	Phulbari Upazila		25.95	89.56667	A	ADM3	BD		87	5549	554918		0		30	Asia/Dhaka	2016-11-29
+9308563	Patgram Upazila	Patgram Upazila	Patgram,Patgram Tin,Patgram Tìn,Patgram Upazila,pa te ge luo mu wu pa qi la,patagrama upajela,patagrama upajila,patagrama upazila,patgram,پاتگرام,پاتگرام ذیلی ضلع,पाटग्राम उपज़िला,पाटग्राम उपजिला,পাটগ্রাম উপজিলা,পাটগ্রাম উপজেলা,ᱯᱟᱴᱜᱨᱟᱢ ᱩᱯᱚᱡᱮᱞᱟ,帕特格罗姆乌帕齐拉	26.35	89.01667	A	ADM3	BD		87	5552	555270		0		63	Asia/Dhaka	2016-11-28
+9309437	Kishoreganj Upazila	Kishoreganj Upazila	Kishoreganj,Kishoreganj Tin,Kishoreganj Tìn,Kishoreganj Upazila,ji shao lei gan jie wu pa qi la,kisoraganja sadara upazila,kisoraganja upajela,kisoraganja upajila,kyshwrgnj,کشور گنج ذیلی ضلع,کیشورگنج,किशोरगञ्ज उपजिला,किशोरगञ्ज सदर उपज़िला,কিশোরগঞ্জ উপজিলা,কিশোরগঞ্জ উপজেলা,ᱠᱤᱥᱳᱨᱜᱚᱸᱡᱽ ᱩᱯᱚᱡᱮᱞᱟ,吉紹雷甘傑烏帕齊拉	25.91167	89.025	A	ADM3	BD		87	5573	557345		0		45	Asia/Dhaka	2016-11-07
+9309438	Boda Upazila	Boda Upazila	Boda,Boda Tin,Boda Tìn,Boda Upazila,bo da wu pa qi la,boda upajela,boda upajila,boda upazila,بودا ذیلی ضلع,बोदा उपज़िला,बोदा उपजिला,বোদা উপজিলা,বোদা উপজেলা,ᱵᱚᱫᱟ ᱩᱯᱚᱡᱮᱞᱟ,博达乌帕齐拉	26.20833	88.56	A	ADM3	BD		87	5577	557725		0		63	Asia/Dhaka	2016-11-28
+9309814	Mithapukur Upazila	Mithapukur Upazila	Mithapukur,Mithapukur Tin,Mithapukur Tìn,Mithapukur Upazila,mi fa pu ku er wu pa qi la,mithapukura upajela,mithapukura upajila,mithapukura upazila,mytapwkwr,متھاپوکور ذیلی ضلع,میتاپوکور,मिठापुकुर उपज़िला,मिठापुकुर उपजिला,মিঠাপুকুর উপজেলা,মিথাপুকুর উপজিলা,ᱢᱤᱴᱷᱟᱯᱩᱠᱷᱩᱨ ᱩᱯᱚᱡᱮᱞᱟ,米法普庫爾烏帕齊拉	25.54167	89.28333	A	ADM3	BD		87	5585	558558		0		32	Asia/Dhaka	2016-11-07
+9310113	Pirganj Upazila	Pirganj Upazila		25.855	88.36667	A	ADM3	BD		87	5594	559482		0		43	Asia/Dhaka	2016-11-28
+9405612	Raozan Upazila	Raozan Upazila	Raozan Upazila,ra'ujana,রাউজান	22.53333	91.93333	A	ADM3	BD		84	2015	201574		0		13	Asia/Dhaka	2023-05-30
+9406515	Manikgonj Sadar Upazila	Manikgonj Sadar Upazila		23.85	90.01167	A	ADM3	BD		81	3056	305646		0		16	Asia/Dhaka	2016-11-07
+9406645	Ghatail Upazila	Ghatail Upazila	Ghatail,Ghatail Tin,Ghatail Tìn,Ghatail Upazila,Gkhatajl,ghata'ila upajela,ghata'ila upajila,ghata'ila upazila,jia tai er wu pa qi la,katyl,Гхатайл,کاتیل,घाटाइल उपज़िला,ঘাটাইল উপজিলা,ঘাটাইল উপজেলা,加台尔乌帕齐拉,加台爾烏帕齊拉	24.46667	89.96667	A	ADM3	BD		81	3093	309328		0		18	Asia/Dhaka	2023-05-27
+9407048	Netrokona Sadar Upazila	Netrokona Sadar Upazila	Netrakona,Netrokona Sadar,Netrokona Sadar Tin,Netrokona Sadar Tìn,Netrokona Sadar Upazila,Netrokona-Sadar,nei de luo ge na sha da er wu pa qi la,netrakona sadara upajela,netrakona sadara upajila,netrakona sadara upajilla,netrakona sadara upazila,ntrwkwna,Нетрокона-Садар,نتروکونا,नेत्रकोना सदर उपज़िला,नेत्रकोना सदर उपजिल्ला,নেত্রকোণা সদর উপজেলা,নেত্রকোনা সদর উপজিলা,內德羅戈納沙達爾烏帕齊拉	24.875	90.73333	A	ADM3	BD		H	3072	307274		0		15	Asia/Dhaka	2023-05-27
+9407059	Kotwali	Kotwali		22.81258	89.5669	A	ADM3	BD		82	4047	404751		0		10	Asia/Dhaka	2016-11-08
+9407571	Moulvibazar Sadar Upazila	Moulvibazar Sadar Upazila		24.4778	91.7667	A	ADM3	BD		86	6058	605874		0		15	Asia/Dhaka	2016-11-16
+9407580	Paba Upazila	Paba Upazila	Paba,Paba Tin,Paba Tìn,Paba Upazila,pa ba wu pa qi la,paba upajela,paba upajila,paba upajilla,paba upazila,pba,Паба,پابا ذیلی ضلع,پبا,पबा उपज़िला,पबा उपजिल्ला,পবা উপজিলা,পবা উপজেলা,ᱯᱚᱵᱟ ᱩᱯᱚᱡᱮᱞᱟ,帕巴烏帕齊拉	24.44167	88.62833	A	ADM3	BD		83	5081	508172		0		21	Asia/Dhaka	2016-11-07
+9408579	Delduar	Delduar	Delduar Upazila	24.16214	89.96833	A	ADM3	BD		81	3093	309323		0		15	Asia/Dhaka	2023-05-27
+9408585	Tangail Sadar	Tangail Sadar	Tangail Sadar Upazila	24.24925	89.91318	A	ADM3	BD		81	3093	309395		0		17	Asia/Dhaka	2023-05-27
+9408592	Ghior	Ghior	Ghior Upazila,ghi'ora,ঘিওর	23.89614	89.85005	A	ADM3	BD		81	3056	305622		0		8	Asia/Dhaka	2023-05-27
+9408635	Nawabganj	Nawabganj	Nawabganj Upazila,nababaganja,নবাবগঞ্জ	23.65248	90.15222	A	ADM3	BD		81	3026	302662		0		9	Asia/Dhaka	2023-05-27
+9408647	Matlab Uttar Upazila	Matlab Uttar Upazila	Matlab Uttar Upazila,matalaba uttara,মতলব উত্তর	23.44888	90.63489	A	ADM3	BD		84	2013	201379		0		7	Asia/Dhaka	2023-05-30
+9408648	Matlab Dakshin Upazila	Matlab Dakshin Upazila	Matlab Dakshin Upazila,matalaba daksina,মতলব দক্ষিণ	23.34285	90.7257	A	ADM3	BD		84	2013	201376		0		6	Asia/Dhaka	2023-05-30
+9409153	Laksam Upazila	Laksam Upazila		23.24667	91.12833	A	ADM3	BD		84	2019	201972		0		9	Asia/Dhaka	2016-11-07
+9409154	Fenchuganj Upazila	Fenchuganj Upazila		24.7083	91.9403	A	ADM3	BD		86	6091	609135		0		18	Asia/Dhaka	2016-11-07
+9409155	Hathazari Upazila	Hathazari Upazila		22.50833	91.80833	A	ADM3	BD		84	2015	201537		0		7	Asia/Dhaka	2016-11-07
+9409186	Madhupur Upazila	Madhupur Upazila	Madhupur,Madhupur Tin,Madhupur Tìn,Madhupur Upazila,Madkhupur,ma du bu er wu pa qi la,madhupura upajela,madhupura upajila,madhupura upazila,madpwr,Мадхупур,مادپور,مدھوپور اوپازیلا,मधुपुर उपज़िला,মধুপুর উপজিলা,মধুপুর উপজেলা,马杜布尔乌帕齐拉	24.61667	90.025	A	ADM3	BD		81	3093	309357		0		16	Asia/Dhaka	2016-11-07
+9409187	Kumarkhali Upazila	Kumarkhali Upazila	Kumarkhali,Kumarkhali Tin,Kumarkhali Tìn,Kumarkhali Upazila,ku ma er ka li wu pa qi la,kumarakhali upajela,kumarakhali upajila,kumarakhali upajilla,kumarakhali upazila,کمار کھالی ذیلی ضلع,कुमारखाली उपज़िला,कुमारखाली उपजिल्ला,কুমারখালি উপজিলা,কুমারখালী উপজেলা,ᱠᱩᱢᱟᱨᱠᱷᱟᱞᱤ ᱩᱯᱚᱡᱮᱞᱟ,庫馬爾卡里烏帕齊拉	23.8542	89.2417	A	ADM3	BD		82	4050	405071		0		17	Asia/Dhaka	2016-11-28
+9409191	Monohardi Upazila	Monohardi Upazila	Monohardi,Monohardi Tin,Monohardi Tìn,Monohardi Upazila,Monokhardi,manoharadi upajela,manoharadi upajila,manoharadi upazila,mo nuo ha er di wu pa qi la,mwnwhardy,Монохарди,مونوهاردی,मनोहरदी उपज़िला,মনোহরদি উপজিলা,মনোহরদী উপজেলা,莫諾哈爾迪烏帕齊拉	24.12833	90.7	A	ADM3	BD		81	3068	306852		0		12	Asia/Dhaka	2016-11-28
+9409198	Kuliarchar Upazila	Kuliarchar Upazila	Kuliarchar,Kuliarchar Tin,Kuliarchar Tìn,Kuliarchar Upazila,ku li ya er cha er wu pa qi la,kuliyaracara upajela,kuliyaracara upajila,kuliyaracara upazila,kwlyarchar,Кулиарчар,کولیارچار,कुलिय़ारचर उपज़िला,কুলিয়ারচর উপজিলা,কুলিয়ারচর উপজেলা,庫里亞爾查爾烏帕齊拉	24.155	90.9	A	ADM3	BD		81	3048	304854		0		9	Asia/Dhaka	2016-11-07
+9409200	Palash Upazila	Palash Upazila	Palash,Palash Tin,Palash Tìn,Palash Upazila,pa la shen wu pa qi la,palasa upajela,palasa upajila,palasa upazila,palash,Палаш,پالاش,पलाश उपज़िला,পলাশ উপজিলা,পলাশ উপজেলা,帕拉什烏帕齊拉	23.95	90.625	A	ADM3	BD		81	3068	306863		0		13	Asia/Dhaka	2016-11-28
+9465031	Jamalpur Upazila	Jamalpur Upazila		24.85193	90.02435	A	ADM3	BD		H	3039	303936		0		23	Asia/Dhaka	2016-11-28
+9534981	Itna Upazila	Itna Upazila		24.52542	91.09001	A	ADM3	BD		81	3048	304833		0		11	Asia/Dhaka	2016-11-07
+9534982	Purbadhala Upazila	Purbadhala Upazila	Purbadhala,Purbadhala Tin,Purbadhala Tìn,Purbadhala Upazila,Purbadkhala,bu er bo de ha la wu pa qi la,fwrbadalt,purbadhala upajila,purvadhala upazila,pwrbadala,Пурбадхала,فوربادالة,پوربادالا,पूर्वधला उपज़िला,পূর্বধলা উপজিলা,布尔伯德哈拉乌帕齐拉	24.93867	90.59884	A	ADM3	BD		H	3072	307283		0		14	Asia/Dhaka	2023-05-27
+9539385	Charghat Upazila	Charghat Upazila	Charghat,Charghat Tin,Charghat Tìn,Charghat Upazila,Chargkhat,caraghata upajela,caraghata upajila,caraghata upajilla,caraghata upazila,cha er jia te wu pa qi la,charqat,Чаргхат,چارقاط,چراغہٹ ذیلی ضلع,चारघाट उपज़िला,चारघाट उपजिल्ला,চারঘাট উপজিলা,চারঘাট উপজেলা,ᱪᱟᱨᱜᱷᱟᱴ ᱩᱯᱚᱡᱮᱞᱟ,查爾加特烏帕齊拉	24.27853	88.7518	A	ADM3	BD		83	5081	508125		0		23	Asia/Dhaka	2016-11-07
+9539452	Puthia Upazila	Puthia Upazila	Puthia,Puthia Tin,Puthia Tìn,Puthia Upazila,Putkhija,pu ti ya wu pa qi la,puthiya upajela,puthiya upajila,puthiya upajilla,puthiya upazila,pwthya,Путхия,پوتھیا ذیلی ضلع,پوثیا,पुठिय़ा उपज़िला,पुठिया उपजिल्ला,পুঠিয়া উপজেলা,পুথিয়া উপজিলা,ᱯᱩᱴᱷᱤᱭᱟ ᱩᱯᱚᱡᱮᱞᱟ,普提亞烏帕齊拉	24.40108	88.84552	A	ADM3	BD		83	5081	508182		0		16	Asia/Dhaka	2016-11-07
+9609502	Sakhipur Upazila	Sakhipur Upazila	Sakhipur,Sakhipur Tin,Sakhipur Tìn,Sakhipur Upazila,Sakkhipur,sa ji bu er wu pa qi la,sakhipura upajela,sakhipura upajila,sakhipura upazila,sakypwr,Сакхипур,ساکیپور,सखिपुर उपज़िला,সখিপুর উপজিলা,সখিপুর উপজেলা,萨基布尔乌帕齐拉	24.32058	90.18085	A	ADM3	BD		81	3093	309385		0		23	Asia/Dhaka	2023-05-27
+9609505	Fulbaria Upazila	Fulbaria Upazila	Fulbaria,Fulbaria Tin,Fulbaria Tìn,Fulbaria Upazila,Fulbarija,fu er ba li ya wu pa qi la,fwlabra,phulabariya upajela,phulabariya upajila,phulabariya upazila,Фулбария,فولابرا,फुलबाड़िय़ा उपज़िला,ফুলবাড়িয়া উপজিলা,ফুলবাড়ীয়া উপজেলা,福尔巴里亚乌帕齐拉	24.63399	90.2732	A	ADM3	BD		H	3061	306120		0		14	Asia/Dhaka	2016-11-17
+10173809	Nawabganj Sadar Upazila	Nawabganj Sadar Upazila		24.6	88.26667	A	ADM3	BD		83	5070	507066		0		15	Asia/Dhaka	2016-11-16
+10173810	Ishwardi Upazila	Ishwardi Upazila		24.12858	89.06891	A	ADM3	BD		83	5076	507639		0		17	Asia/Dhaka	2016-11-16
+10173813	Bera Upazila	Bera Upazila	Bera,Bera Tin,Bera Tìn,Bera Upazila,beda upajilla,bei la wu pa qi la,bera upajela,bera upazila,bhera,byra,Бера,بئرا,بیرا ذیلی ضلع,बेड़ा उपज़िला,बेडा उपजिल्ला,বেড়া উপজেলা,ভেরা,ᱵᱮᱲᱟ ᱩᱯᱚᱡᱮᱞᱟ,貝拉烏帕齊拉	24.06667	89.625	A	ADM3	BD		83	5076	507616		0		11	Asia/Dhaka	2016-11-07
+10173814	Sherpur Sadar Upazila	Sherpur Sadar Upazila	Sherpur Sadar,Sherpur Sadar Tin,Sherpur Sadar Tìn,Sherpur Sadar Upazila,Sherpur-Sadar,serapura sadara upajela,serapura sadara upajila,serapura sadara upazila,shrpwr sdar,xie er bu er sha da er wu pa qi la,Шерпур-Садар,شرپور صدار,शेरपुर सदर उपज़िला,শেরপুর সদর উপজিলা,শেরপুর সদর উপজেলা,谢尔布尔沙达尔乌帕齐拉	25	90.01667	A	ADM3	BD		H	3089	308988		0		22	Asia/Dhaka	2016-11-17
+10173817	Habiganj Sadar Upazila	Habiganj Sadar Upazila	Habiganj Sadar,Habiganj Sadar Tin,Habiganj Sadar Tìn,Habiganj Sadar Upazila,Khabigandzh-Sadar,habiganja sadara upajela,habiganja sadara upajila,habiganja sadara upajilla,hby gnj sdr awpazla,huo bi gan jie sha da er wu pa qi la,Хабігандж-Садар,حبی گنج صدر اوپازلا,हबिगञ्ज सदर उपजिल्ला,हाबीगञ्ज सदर उपजिला,হবিগঞ্জ সদর উপজিলা,হবিগঞ্জ সদর উপজেলা,霍比甘傑沙達爾乌帕齐拉	24.375	91.41667	A	ADM3	BD		86	6036	603644		0		15	Asia/Dhaka	2016-11-29
+10173819	Meherpur Sadar Upazila	Meherpur Sadar Upazila	Meherpur Sadar,Meherpur Sadar Tin,Meherpur Sadar Tìn,Meherpur Sadar Upazila,meharapura sadara upajila,meherapura sadara upajela,meherapura sadara upajila,meherapura sadara upajilla,meherpur sadar upajilla,meherpyur sadar upajila,mei hei er bu er sha da er wu pa qi la,مہر پور صدر ذیلی ضلع,मेहरपुर सदर उपाजिला,मेहेरपुर सदर उपजिल्ला,मेहेर्पुर् सदर् उपजिल्ला,মেহেরপুর সদর উপজিলা,মেহেরপুর সদর উপজেলা,ಮೆಹೆರ್ಪ್ಯೂರ್ ಸಾದರ್ ಉಪಜಿಲ,ᱢᱮᱦᱮᱨᱯᱩᱨ ᱥᱚᱫᱚᱨ ᱩᱯᱚᱡᱮᱞᱟ,梅黑尔布尔沙达尔乌帕齐拉	23.775	88.64167	A	ADM3	BD		82	4057	405787		0		20	Asia/Dhaka	2016-11-28
+10173822	Lakshmipur Sadar Upazila	Lakshmipur Sadar Upazila		22.95	90.825	A	ADM3	BD		84	2051	205143		0		13	Asia/Dhaka	2016-11-16
+10173825	Rangamati Sadar Upazila	Rangamati Sadar Upazila		22.65	92.18333	A	ADM3	BD		84	2084	208487		0		40	Asia/Dhaka	2016-11-07
+10235554	Bhairab Upazila	Bhairab Upazila	Bhairab,Bhairab Bazar,Bhairab Bazaras,Bhairab Tin,Bhairab Tìn,Bhairab Upazila,Bkhajrab,awbazyla bhyrab,bhairaba upajela,bhairaba upajila,bhairaba upazila,bhyrab,bo yi la bu wu pa qi la,Бхайраб,أوبازيلا بهيراب,بحیراب,بھائی راب ذیلی ضلع,भैरब उपज़िला,ভৈরব উপজিলা,ভৈরব উপজেলা,バイラブ・ウパジラ,博伊拉布烏帕齊拉	24.05	90.98833	A	ADM3	BD		81	3048	304811		0		10	Asia/Dhaka	2016-11-07
+10340620	Khoksa Upazila	Khoksa Upazila	Khoksa,Khoksa Tin,Khoksa Tìn,Khoksa Upazila,gao ke sa wu pa qi la,khokasa upajela,khokasa upajila,khokasa upajilla,khokasa upazila,کھوکسا ذیلی ضلع,खोकसा उपज़िला,खोकसा उपजिल्ला,খোকশা উপজিলা,খোকসা উপজেলা,ᱠᱷᱚᱠᱥᱟ ᱩᱯᱚᱡᱮᱞᱟ,高克薩烏帕齊拉	23.8	89.28333	A	ADM3	BD		82	4050	405063		0		15	Asia/Dhaka	2016-11-07
+10340627	Chatkhil Upazila	Chatkhil Upazila		23.05	90.95833	A	ADM3	BD		84	2075	207510		0		8	Asia/Dhaka	2016-11-29
+10346794	Saghata	Saghata	Saghata Upazila,saghata,সাঘাটা	25.12912	89.57947	A	ADM3	BD		87	5532	553288		0		22	Asia/Dhaka	2023-06-01
+10376568	Faridpur U	Faridpur U		24.15833	89.45333	A	ADM3	BD		83	5076	507633		0		18	Asia/Dhaka	2016-11-07
+10376570	Atpara Upazila	Atpara Upazila	Atpara,Atpara Tin,Atpara Tìn,Atpara Upazila,a te pa la wu pa qi la,atapara upajela,atapara upajila,atapara upazila,atpara,Атпара,آتپارا,आटपाड़ा उपज़िला,আটপাড়া উপজেলা,আতপাড়া উপজিলা,阿特帕拉烏帕齊拉	24.80833	90.86667	A	ADM3	BD		H	3072	307204		0		12	Asia/Dhaka	2016-11-25
+10376571	Ashuganj Upazila	Ashuganj Upazila		24.03333	91	A	ADM3	BD		84	2012	201233		0		11	Asia/Dhaka	2016-11-07
+10376573	Sitakunda Upazila	Sitakunda Upazila		22.61667	91.66167	A	ADM3	BD		84	2015	201586		0		13	Asia/Dhaka	2016-11-07
+10376575	Titas Upazila	Titas Upazila		23.6	90.76667	A	ADM3	BD		84	2019	201937		0		7	Asia/Dhaka	2016-11-07
+10376591	Cox's Bazar Sadar Upazila	Cox's Bazar Sadar Upazila		21.44332	92.01539	A	ADM3	BD		84	2022	202224		0		1	Asia/Dhaka	2016-11-16
+10376966	Cumilla Sadar Dakshin Upazila	Cumilla Sadar Dakshin Upazila		23.30668	91.1545	A	ADM3	BD		84	2019	201968		0		10	Asia/Dhaka	2020-07-26
+10376974	Jibannagar Upazila	Jibannagar Upazila	Jiban Nagar,Jibannagar,Jibannagar Tin,Jibannagar Tìn,Jibannagar Upazila,ji ba na ge er wu pa qi la,jibananagara upajela,jibananagara upajila,jibananagara upazila,jybanagar,جیبان نگر ذیلی ضلع,جیباناگار,जीबननगर उपज़िला,জীবননগর উপজিলা,জীবননগর উপজেলা,ᱡᱤᱵᱚᱱ ᱱᱚᱜᱚᱨ ᱩᱯᱚᱡᱮᱞᱟ,吉巴納格爾烏帕齊拉	23.44955	88.8455	A	ADM3	BD		82	4018	401855		0		12	Asia/Dhaka	2016-11-16
+10376977	Raomari Upazila	Raomari Upazila	Raomari,Raomari Tin,Raomari Tìn,Raomari Upazila,lao ma li wu pa qi la,raumari upajela,raumari upajila,raumari upazila,rwmary,راوماری ذیلی ضلع,روماری,रौमारी उपज़िला,रौमारी उपजिला,রৌমারী উপজিলা,রৌমারী উপজেলা,ᱨᱳᱣᱢᱟᱨᱤ ᱩᱯᱚᱡᱮᱞᱟ,勞馬里烏帕齊拉	25.5917	89.83177	A	ADM3	BD		87	5549	554979		0		23	Asia/Dhaka	2016-11-07
+10376978	Tetulia Upazila	Tetulia Upazila	Tetulia,Tetulia Tin,Tetulia Tìn,Tetulia Upazila,dai du li ya wu pa qi la,temtuliya upajela,tetouria,tetuliya upajila,tetuliya upazila,ttwlya,تتولیا,تیتولیا ذیلی ضلع,तेतुलिय़ा उपज़िला,तेतुलिय़ा उपजिला,তেঁতুলিয়া উপজেলা,তেতুলিয়া উপজিলা,ᱛᱮᱛᱩᱞᱤᱭᱟ ᱩᱯᱚᱡᱮᱞᱟ,テトゥリア,代杜利亚乌帕齐拉	26.51701	88.4307	A	ADM3	BD		87	5577	557790		0		90	Asia/Dhaka	2016-11-28
+11282264	Nawabgonj	Nawabgonj	Nawabganj Upazila,nababaganja,নবাবগঞ্জ	25.41997	89.09019	A	ADM3	BD		87	5527	552769		0		28	Asia/Dhaka	2023-06-01
+11282265	Hakimpur	Hakimpur	Hakimpur Upazila	25.29234	89.05959	A	ADM3	BD		87	5527	552747		0		25	Asia/Dhaka	2023-05-26
+11282266	Bochaganj	Bochaganj	Bochaganj Upazila,bocaganja,বোচাগঞ্জ	25.78589	88.45395	A	ADM3	BD		87	5527	552721		0		44	Asia/Dhaka	2023-05-26
+11282267	Birampur	Birampur	Birampur Upazila,biramapura,বিরামপুর	25.37983	88.96332	A	ADM3	BD		87	5527	552710		0		26	Asia/Dhaka	2023-05-26
+11282268	Satkania	Satkania	Satkania Upazila,satakaniya,সাতকানিয়া	22.10563	92.05919	A	ADM3	BD		84	2015	201582		0		6	Asia/Dhaka	2023-05-30
+11282269	CCC (Kotwali)	CCC (Kotwali)		22.33403	91.80915	A	ADM3	BD		84	2015	201541		0		11	Asia/Dhaka	2016-11-05
+11282270	Chandanaish	Chandanaish	Chandanaish Upazila,candana'isa,চন্দনাইশ	22.21191	92.06411	A	ADM3	BD		84	2015	201518		0		25	Asia/Dhaka	2023-05-30
+11282271	Meghna	Meghna		23.62365	90.69166	A	ADM3	BD		84	2019	201975		0		8	Asia/Dhaka	2016-11-05
+11282272	Monoharganj	Monoharganj	Monohorgonj Upazila,manoharaganja,মনোহরগন্জ	23.13827	91.06726	A	ADM3	BD		84	2019	201973		0		8	Asia/Dhaka	2023-05-30
+11282273	Debidwar	Debidwar	Debidwar Upazila,debidbara,দেবিদ্বার	23.57912	90.99828	A	ADM3	BD		84	2019	201940		0		9	Asia/Dhaka	2023-05-30
+11282274	Ramgarh	Ramgarh		22.9351	91.83095	A	ADM3	BD		84	2046	204680		0		64	Asia/Dhaka	2016-11-05
+11282275	Dumki	Dumki	Dumki Upazila,dumaki,দুমকি	22.44983	90.37362	A	ADM3	BD		85	1078	107855		0		1	Asia/Dhaka	2023-05-26
+11282276	Palong	Palong		23.2181	90.3165	A	ADM3	BD		81	3086	308669		0		6	Asia/Dhaka	2016-11-05
+11282277	Sunamganj	Sunamganj	Sunamganj Sadar Upazila,sunamaganja sadara,সুনামগঞ্জ সদর	25.05184	91.39805	A	ADM3	BD		86	6090	609089		0		11	Asia/Dhaka	2023-05-26
+11282278	Sonaimuri	Sonaimuri	Sonaimuri Upazila,sona'imuri,সোনাইমুড়ী	23.02536	91.07878	A	ADM3	BD		84	2075	207508		0		7	Asia/Dhaka	2023-05-30
+11282279	Begumganj	Begumganj	Begumganj Upazila,begamaganja,বেগমগঞ্জ	22.93041	91.09487	A	ADM3	BD		84	2075	207507		0		5	Asia/Dhaka	2023-05-30
+11282280	DCC (Kotwali)	DCC (Kotwali)		23.7894	90.41688	A	ADM3	BD		81	3026	302640		0		16	Asia/Dhaka	2018-06-04
+11282281	Daganbhuiyan	Daganbhuiyan	Daganbhuiyan Upazila	22.97079	91.29989	A	ADM3	BD		84	2030	203025		0		11	Asia/Dhaka	2023-05-30
+11282282	Panchbibi	Panchbibi	Panchbibi Upazila,pamcabibi,পাঁচবিবি	25.20426	89.07157	A	ADM3	BD		83	5038	503874		0		21	Asia/Dhaka	2023-05-28
+11282283	Sapahar	Sapahar	Sapahar Upazila,sapahara,সাপাহার	25.11925	88.53	A	ADM3	BD		83	5064	506486		0		30	Asia/Dhaka	2023-05-26
+11282284	Bagatipara	Bagatipara	Bagatipara Upazila,bagatipara,বাগাতিপাড়া	24.31279	88.94666	A	ADM3	BD		83	5069	506909		0		16	Asia/Dhaka	2023-05-26
+11282285	Khan Jahan Ali	Khan Jahan Ali		22.90739	89.49299	A	ADM3	BD		82	4047	404748		0		5	Asia/Dhaka	2016-11-17
+11282286	Pakundia	Pakundia	Pakundia Upazila,pakundiya,পাকুন্দিয়া	24.32159	90.69321	A	ADM3	BD		81	3048	304879		0		17	Asia/Dhaka	2023-05-26
+11282287	Hossainpur	Hossainpur	Hossainpur Upazila,hosenapura,হোসেনপুর	24.44818	90.6621	A	ADM3	BD		81	3048	304827		0		10	Asia/Dhaka	2023-05-26
+11282288	Dawlatpur	Dawlatpur		23.95684	89.7974	A	ADM3	BD		81	3056	305610		0		13	Asia/Dhaka	2016-11-05
+11282289	Basail	Basail	Basail Upazila,basa'ila,বাসাইল	24.23358	90.04016	A	ADM3	BD		81	3093	309309		0		10	Asia/Dhaka	2023-05-26
+11282290	Golabganj	Golabganj	Golapganj Upazila,golapaganja,গোলাপগঞ্জ	24.81143	92.01674	A	ADM3	BD		86	6091	609138		0		22	Asia/Dhaka	2023-05-28
+11282291	Bishwanath	Bishwanath	Bishwanath Upazila	24.83505	91.72961	A	ADM3	BD		86	6091	609120		0		16	Asia/Dhaka	2023-05-28
+11282292	Mirzapur	Mirzapur	Mirzapur Upazila	24.11715	90.10581	A	ADM3	BD		81	3093	309366		0		10	Asia/Dhaka	2023-05-27
+11282293	Dhanbari	Dhanbari	Dhanbari Upazila,dhanabari,ধনবাড়ী	24.68626	89.93282	A	ADM3	BD		81	3093	309358		0		18	Asia/Dhaka	2023-05-27
+11288027	KCC (Khalishpur)	KCC (Khalishpur)		22.85073	89.53591	A	ADM3	BD		82	4047	404745		0		8	Asia/Dhaka	2016-11-17
+11288028	KCC (Sonadanga)	KCC (Sonadanga)		22.81989	89.54234	A	ADM3	BD		82	4047	404785		0		4	Asia/Dhaka	2016-11-17
+11288029	RCC (Rajpara)	RCC (Rajpara)		24.37434	88.57137	A	ADM3	BD		83	5081	508185		0		22	Asia/Dhaka	2016-11-17
+11288030	RCC (Motihar)	RCC (Motihar)		24.36801	88.64067	A	ADM3	BD		83	5081	508140		0		24	Asia/Dhaka	2016-11-17
+11288031	RCC (Shahmokhdum)	RCC (Shahmokhdum)		24.40294	88.60855	A	ADM3	BD		83	5081	508190		0		21	Asia/Dhaka	2016-11-17
+11288032	KCC (Daulatpur)	KCC (Daulatpur)		22.88735	89.51113	A	ADM3	BD		82	4047	404721		0		7	Asia/Dhaka	2016-11-17

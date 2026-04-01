@@ -1,0 +1,2 @@
+﻿3536723	Santiago de las Vegas	Santiago de las Vegas		22.96667	-82.38333	A	ADM3	CU		02	2313	3536723		0		102	America/Havana	2016-11-23
+3537298	Santa María del Rosario	Santa Maria del Rosario		23.06667	-82.25	A	ADM3	CU		02	2315	3537298		0		116	America/Havana	2016-11-23

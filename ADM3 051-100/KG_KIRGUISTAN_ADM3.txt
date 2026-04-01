@@ -1,0 +1,10 @@
+﻿1222711	Alayskiy Rayon	Alayskiy Rayon	Alajskij Rajon,Alayskiy Rayon,Алайский Район	39.90852	73.50313	A	ADM3	KG		08		1222711		0		2962	Asia/Bishkek	2012-10-06
+1527118	Tyupskiy Rayon	Tyupskiy Rayon		42.75	78.5	A	ADM3	KG		00		1527118		0		1655	Asia/Bishkek	1994-01-25
+1527131	Tyan’-Shan’skiy Rayon	Tyan'-Shan'skiy Rayon	Narynskiy Rayon,Tyan'-Shan'skiy Rayon,Tyan’-Shan’skiy Rayon	41.58333	76.33333	A	ADM3	KG		00		1527131		0		3317	Asia/Bishkek	2011-11-05
+1527201	Toguz-Torouskiy Rayon	Toguz-Torouskiy Rayon		41.33333	74.16667	A	ADM3	KG		00		1527201		0		1829	Asia/Bishkek	1994-01-25
+1527316	Suzakskiy Rayon	Suzakskiy Rayon		41	73	A	ADM3	KG		00		1527316		0		849	Asia/Bishkek	1994-01-25
+1527658	Manasskiy Rayon	Manasskiy Rayon		42.75	71.6	A	ADM3	KG		00		1527658		0		758	Asia/Bishkek	1994-01-25
+1528716	Bazar-Kurganskiy Rayon	Bazar-Kurganskiy Rayon		41.03333	72.75	A	ADM3	KG		00		1528716		0		738	Asia/Bishkek	1994-01-25
+1528872	Ala-Bukinskiy Rayon	Ala-Bukinskiy Rayon		41.38333	71.5	A	ADM3	KG		00		1528872		0		1187	Asia/Bishkek	1994-01-25
+1528901	Ak-Talinskiy Rayon	Ak-Talinskiy Rayon		41.33333	74.91667	A	ADM3	KG		00		1528901		0		1792	Asia/Bishkek	1994-01-25
+1528905	Ak-Suyskiy Rayon	Ak-Suyskiy Rayon		42.5	78.5	A	ADM3	KG		00		1528905		0		1792	Asia/Bishkek	1994-01-25

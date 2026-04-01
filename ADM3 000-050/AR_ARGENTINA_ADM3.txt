@@ -1,0 +1,52 @@
+﻿3837856	San Carlos de Bariloche	San Carlos de Bariloche	Bariloche,San Carlos de Bariloche,San Karlos de Bariloce,San Karlos de Bariločė	-41.15	-71.3	A	ADM3	AR		16	62021	3837856		95394		871	America/Argentina/Salta	2015-04-22
+6269174	Centro Municipal De Distrito Norte "Villa Hortensia"	Centro Municipal De Distrito Norte "Villa Hortensia"		-32.89562	-60.69435	A	ADM3	AR		21	82084	6269174		0		33	America/Argentina/Cordoba	2015-04-22
+8051092	San José (Entre Ríos)	San Jose (Entre Rios)	San Jose,San José	-32.20778	-58.21833	A	ADM3	AR		08	30008	8051092		0		28	America/Argentina/Cordoba	2015-11-17
+8051093	Caviahue-Copahue	Caviahue-Copahue	Caviahue	-37.86667	-71.05	A	ADM3	AR		15	58084	8051093		0		1612	America/Argentina/Salta	2015-11-17
+11524931	Barracas	Barracas		-34.64686	-58.38368	A	ADM3	AR		07	02004	11524931		0		10	America/Argentina/Buenos_Aires	2017-05-08
+11524933	Puerto Madero	Puerto Madero		-34.6095	-58.35512	A	ADM3	AR		07	02001	11524933		0		2	America/Argentina/Buenos_Aires	2017-05-08
+11524934	Villa Crespo	Villa Crespo		-34.59928	-58.44212	A	ADM3	AR		07	02015	11524934		0		23	America/Argentina/Buenos_Aires	2017-05-08
+11524935	Chacarita	Chacarita		-34.58882	-58.45358	A	ADM3	AR		07	02015	11524935		0		22	America/Argentina/Buenos_Aires	2017-05-08
+11524936	Palermo	Palermo		-34.57435	-58.42184	A	ADM3	AR		07	02014	11524936		0		26	America/Argentina/Buenos_Aires	2017-05-08
+11524937	Belgrano	Belgrano		-34.55534	-58.4497	A	ADM3	AR		07	02013	11524937		0		10	America/Argentina/Buenos_Aires	2017-05-08
+11524938	Velez Sarsfield	Velez Sarsfield		-34.63181	-58.49268	A	ADM3	AR		07	02010	11524938		0		24	America/Argentina/Buenos_Aires	2017-05-08
+11524939	San Telmo	San Telmo		-34.62197	-58.37094	A	ADM3	AR		07	02001	11524939		0		21	America/Argentina/Buenos_Aires	2017-05-08
+11524940	Balvanera	Balvanera		-34.60955	-58.40246	A	ADM3	AR		07	02003	11524940		0		32	America/Argentina/Buenos_Aires	2017-05-08
+11524941	Paternal	Paternal		-34.59787	-58.46807	A	ADM3	AR		07	02015	11524941		0		22	America/Argentina/Buenos_Aires	2017-05-08
+11524942	Constitucion	Constitucion		-34.62549	-58.38379	A	ADM3	AR		07	02001	11524942		0		26	America/Argentina/Buenos_Aires	2017-05-08
+11524943	Villa Ortuzar	Villa Ortuzar		-34.58142	-58.46705	A	ADM3	AR		07	02015	11524943		0		25	America/Argentina/Buenos_Aires	2017-05-08
+11524944	Retiro	Retiro		-34.58886	-58.37533	A	ADM3	AR		07	02001	11524944		0		7	America/Argentina/Buenos_Aires	2017-05-08
+11524945	Recoleta	Recoleta		-34.58668	-58.39462	A	ADM3	AR		07	02002	11524945		0		33	America/Argentina/Buenos_Aires	2017-05-08
+11524946	Boca	Boca		-34.63156	-58.35628	A	ADM3	AR		07	02004	11524946		0		8	America/Argentina/Buenos_Aires	2017-05-08
+11524947	Villa Real	Villa Real		-34.61994	-58.52544	A	ADM3	AR		07	02010	11524947		0		31	America/Argentina/Buenos_Aires	2017-05-08
+11524948	Parque Chas	Parque Chas		-34.58597	-58.47852	A	ADM3	AR		07	02015	11524948		0		28	America/Argentina/Buenos_Aires	2017-05-08
+11524949	Parque Chacabuco	Parque Chacabuco		-34.63639	-58.4371	A	ADM3	AR		07	02007	11524949		0		13	America/Argentina/Buenos_Aires	2017-05-08
+11524950	Boedo	Boedo		-34.63041	-58.41824	A	ADM3	AR		07	02005	11524950		0		30	America/Argentina/Buenos_Aires	2017-05-08
+11524951	Parque Avellaneda	Parque Avellaneda		-34.64909	-58.47585	A	ADM3	AR		07	02009	11524951		0		19	America/Argentina/Buenos_Aires	2017-05-08
+11524952	Monserrat	Monserrat		-34.61313	-58.37905	A	ADM3	AR		07	02001	11524952		0		27	America/Argentina/Buenos_Aires	2017-05-08
+11524953	Saavedra	Saavedra		-34.55352	-58.48814	A	ADM3	AR		07	02012	11524953		0		15	America/Argentina/Buenos_Aires	2017-05-08
+11524954	Floresta	Floresta		-34.62813	-58.48299	A	ADM3	AR		07	02010	11524954		0		23	America/Argentina/Buenos_Aires	2017-05-08
+11524955	Coghlan	Coghlan		-34.56107	-58.47434	A	ADM3	AR		07	02012	11524955		0		22	America/Argentina/Buenos_Aires	2017-05-08
+11524956	Villa Pueyrredon	Villa Pueyrredon		-34.58255	-58.5029	A	ADM3	AR		07	02012	11524956		0		27	America/Argentina/Buenos_Aires	2017-05-08
+11524957	Colegiales	Colegiales		-34.57509	-58.45037	A	ADM3	AR		07	02013	11524957		0		28	America/Argentina/Buenos_Aires	2017-05-08
+11524958	Villa Lugano	Villa Lugano		-34.67544	-58.47557	A	ADM3	AR		07	02008	11524958		0		18	America/Argentina/Buenos_Aires	2017-05-08
+11524959	Parque Patricios	Parque Patricios		-34.638	-58.40108	A	ADM3	AR		07	02004	11524959		0		18	America/Argentina/Buenos_Aires	2017-05-08
+11524960	Mataderos	Mataderos		-34.65882	-58.50114	A	ADM3	AR		07	02009	11524960		0		15	America/Argentina/Buenos_Aires	2017-05-08
+11524961	Villa Santa Rita	Villa Santa Rita		-34.61664	-58.48236	A	ADM3	AR		07	02011	11524961		0		21	America/Argentina/Buenos_Aires	2017-05-08
+11524962	Nueva Pompeya	Nueva Pompeya		-34.65099	-58.41825	A	ADM3	AR		07	02004	11524962		0		9	America/Argentina/Buenos_Aires	2017-05-08
+11524963	Monte Castro	Monte Castro		-34.61974	-58.50598	A	ADM3	AR		07	02010	11524963		0		29	America/Argentina/Buenos_Aires	2017-05-08
+11524964	Villa Luro	Villa Luro		-34.63686	-58.50213	A	ADM3	AR		07	02010	11524964		0		28	America/Argentina/Buenos_Aires	2017-05-08
+11524965	Liniers	Liniers		-34.64424	-58.51853	A	ADM3	AR		07	02009	11524965		0		26	America/Argentina/Buenos_Aires	2017-05-08
+11524966	Villa Devoto	Villa Devoto		-34.6028	-58.51368	A	ADM3	AR		07	02011	11524966		0		30	America/Argentina/Buenos_Aires	2017-05-08
+11524967	Versalles	Versalles		-34.63057	-58.52182	A	ADM3	AR		07	02010	11524967		0		31	America/Argentina/Buenos_Aires	2017-05-08
+11524968	Villa Urquiza	Villa Urquiza		-34.57199	-58.48726	A	ADM3	AR		07	02012	11524968		0		28	America/Argentina/Buenos_Aires	2017-05-08
+11524969	Villa Del Parque	Villa Del Parque		-34.60469	-58.49008	A	ADM3	AR		07	02011	11524969		0		27	America/Argentina/Buenos_Aires	2017-05-08
+11524970	Flores	Flores		-34.63725	-58.45767	A	ADM3	AR		07	02007	11524970		0		17	America/Argentina/Buenos_Aires	2017-05-08
+11524971	Almagro	Almagro		-34.60967	-58.42115	A	ADM3	AR		07	02005	11524971		0		30	America/Argentina/Buenos_Aires	2017-05-08
+11524972	San Cristobal	San Cristobal		-34.62431	-58.40129	A	ADM3	AR		07	02003	11524972		0		33	America/Argentina/Buenos_Aires	2017-05-08
+11524973	Villa Riachuelo	Villa Riachuelo		-34.6923	-58.46275	A	ADM3	AR		07	02008	11524973		0		16	America/Argentina/Buenos_Aires	2017-05-08
+11524974	Caballito	Caballito		-34.61727	-58.443	A	ADM3	AR		07	02006	11524974		0		32	America/Argentina/Buenos_Aires	2017-05-08
+11524975	San Nicolas	San Nicolas		-34.60411	-58.37992	A	ADM3	AR		07	02001	11524975		0		42	America/Argentina/Buenos_Aires	2017-05-08
+11524976	Villa Gral. Mitre	Villa Gral. Mitre		-34.61048	-58.46834	A	ADM3	AR		07	02011	11524976		0		20	America/Argentina/Buenos_Aires	2017-05-08
+11524977	Villa Soldati	Villa Soldati		-34.66582	-58.446	A	ADM3	AR		07	02008	11524977		0		16	America/Argentina/Buenos_Aires	2017-05-08
+11524978	Agronomia	Agronomia		-34.59339	-58.48807	A	ADM3	AR		07	02015	11524978		0		25	America/Argentina/Buenos_Aires	2017-05-08
+11524979	Nuñez	Nunez		-34.54419	-58.46226	A	ADM3	AR		07	02013	11524979		0		9	America/Argentina/Buenos_Aires	2017-05-08

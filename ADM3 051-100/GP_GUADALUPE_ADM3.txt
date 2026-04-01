@@ -1,0 +1,2 @@
+﻿3578598	Arrondissement de Pointe-à-Pitre	Arrondissement de Pointe-a-Pitre	Arrondissement de Pointe a Pitre,Pointe-a-Pitre,Pointe-à-Pitre	16.33333	-61.41667	A	ADM3	GP		GP	971	9712		211130		40	America/Guadeloupe	2016-08-08
+3579731	Arrondissement de la Basse-Terre	Arrondissement de la Basse-Terre	Basse-Terre,La Basse-Terre	16.16667	-61.66667	A	ADM3	GP		GP	971	9711		189454		254	America/Guadeloupe	2015-06-10

@@ -1,0 +1,3 @@
+﻿4033741	Rairua District	Rairua District	District de Rairua,District de Raiurua,Rairua District	-23.87163	-147.68972	A	ADM3	PF		05	10295370	4033741		0		12	Pacific/Tahiti	2015-06-06
+4034689	Anatonu District	Anatonu District	Anatonu District,District d'Anatonu,District d’Anatonu	-23.85417	-147.63986	A	ADM3	PF		05	10295370	4034689		0		28	Pacific/Tahiti	2015-06-06
+10300925	Vairu District	Vairu District	District de Vairu,Vairu District	-23.8701	-147.64827	A	ADM3	PF		05	10295370	10300925		0		4	Pacific/Tahiti	2015-06-06

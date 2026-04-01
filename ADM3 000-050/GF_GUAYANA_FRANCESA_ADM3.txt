@@ -1,0 +1,2 @@
+﻿3380386	Arrondissement de Saint-Laurent-du-Maroni	Arrondissement de Saint-Laurent-du-Maroni		4	-53.75	A	ADM3	GF		GF	973	9732		92995		192	America/Cayenne	2019-03-29
+3382159	Arrondissement de Cayenne	Arrondissement de Cayenne		4	-52.5	A	ADM3	GF		GF	973	9731		176357		98	America/Cayenne	2019-03-29

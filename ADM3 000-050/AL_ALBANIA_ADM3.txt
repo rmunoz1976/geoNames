@@ -1,0 +1,374 @@
+﻿363203	Komuna e Dropullit i Sipërm	Komuna e Dropullit i Siperm	Dropull i Siperm,Dropull i Sipërm,Dropulli i Siperm,Dropulli i Sipërm,Komuna Dropull i Siperm,Komuna Dropull i Sipërm,Komuna e Dropullit i Siperm,Komuna e Dropullit i Sipërm,Vrisera	39.88333	20.3	A	ADM3	AL		45	10944393	363203		0		721	Europe/Tirane	2022-12-13
+363214	Komuna e Vergojës	Komuna e Vergojes	Komuna Vergo,Komuna e Vergojes,Komuna e Vergojës,Vergo	40	20	A	ADM3	AL		51	10944422	363214		0		189	Europe/Tirane	2022-12-13
+363231	Komuna e Dropullit i Poshtëm	Komuna e Dropullit i Poshtem	Dropull i Poshtem,Dropull i Poshtëm,Dropulli i Poshtem,Dropulli i Poshtëm,Komuna e Dropullit i Poshtem,Komuna e Dropullit i Poshtëm,Sofratike,Sofratikë	39.98333	20.2	A	ADM3	AL		45	10944393	363231		0		621	Europe/Tirane	2022-12-13
+363244	Bashkia e Sarandës	Bashkia e Sarandes	Bashkia Sarande,Bashkia Sarandë,Bashkia e Sarandes,Bashkia e Sarandës,Qyteti i Sarandes,Qyteti i Sarandës,Sarande,Sarandë	39.87667	20.00361	A	ADM3	AL		51	10944426	363244		0		42	Europe/Tirane	2022-12-13
+363286	Komuna e Mesopotamit	Komuna e Mesopotamit	Komuna Mesopotam,Komuna e Mesopotamit,Mesopotam	39.91667	20.11667	A	ADM3	AL		51	10944423	363286		0		147	Europe/Tirane	2022-12-13
+363299	Komuna e Livadhjës	Komuna e Livadhjes	Komuna Livadhja,Komuna e Livadhjes,Komuna e Livadhjës,Livadhe,Livadhja,Livadhje	39.78333	20.18333	A	ADM3	AL		51	10944423	363299		0		136	Europe/Tirane	2022-12-13
+363321	Bashkia e Konispolit	Bashkia e Konispolit	Bashkia e Konispolit,Konispol,Qyteti i Konispolit	39.66667	20.16667	A	ADM3	AL		51	10944425	363321		0		158	Europe/Tirane	2022-12-13
+363364	Komuna e Finiqit	Komuna e Finiqit	Finiq,Komuna Finiq,Komuna e Finiqit	39.9	20.05	A	ADM3	AL		51	10944423	363364		0		19	Europe/Tirane	2022-12-13
+363384	Bashkia e Delvinës	Bashkia e Delvines	Bashkia Delvine,Bashkia Delvinë,Bashkia e Delvines,Bashkia e Delvinës,Delvine,Delvinë,Qyteti i Delvines,Qyteti i Delvinës	39.95	20.1	A	ADM3	AL		51	10944422	363384		0		213	Europe/Tirane	2022-12-13
+781062	Bashkia e Bilishtit	Bashkia e Bilishtit	Bashkia Bilisht,Bashkia e Bilishtit,Bilisht,Qyteti i Bilishtit	40.6261	20.99312	A	ADM3	AL		46	10944400	781062		0		999	Europe/Tirane	2022-12-30
+781095	Komuna e Zhepës	Komuna e Zhepes	Komuna Zhepe,Komuna Zhepë,Komuna e Zhepes,Komuna e Zhepës,Zhepe,Zhepë	40.68333	20.23333	A	ADM3	AL		40	10944371	781095		0		400	Europe/Tirane	2022-12-13
+781111	Komuna e Zerqanit	Komuna e Zerqanit	Komuna Zerqan,Komuna e Zerqanit,Zerqan	41.46667	20.35	A	ADM3	AL		41	10944373	781111		0		1188	Europe/Tirane	2022-12-13
+781128	Komuna e Zavalinës	Komuna e Zavalines	Komuna Zavaline,Komuna Zavalinë,Komuna e Zavalines,Komuna e Zavalinës,Zavaline,Zavalinë	40.98333	20.26667	A	ADM3	AL		43	10944380	781128		0		900	Europe/Tirane	2022-12-13
+781133	Komuna e Zapodit	Komuna e Zapodit	Komuna Orgjosh,Komuna Orgjost,Komuna Zapod,Komuna e Zapodit,Orgjoste,Zapod	42.05	20.55	A	ADM3	AL		47	10944407	781133		0		1217	Europe/Tirane	2022-12-13
+781140	Komuna e Zall-Reçit	Komuna e Zall-Recit	Komuna Rec,Komuna Reç,Komuna e Zall-Recit,Komuna e Zall-Reçit,Zall-Rec,Zall-Reç	41.86667	20.3	A	ADM3	AL		41	10944374	781140		0		1010	Europe/Tirane	2022-12-13
+781145	Komuna e Zall-Dardhës	Komuna e Zall-Dardhes	Komuna Zall-Dardhe,Komuna Zall-Dardhë,Komuna e Zall-Dardhes,Komuna e Zall-Dardhës,Zall-Dardhe,Zall-Dardhë	41.81667	20.3	A	ADM3	AL		41	10944374	781145		0		906	Europe/Tirane	2022-12-13
+781159	Komuna e Xibrit	Komuna e Xibrit	Komuna Xiber,Komuna Xibër,Komuna e Xibrit,Xiber,Xibër	41.46667	20.05	A	ADM3	AL		41	10944375	781159		0		731	Europe/Tirane	2022-12-13
+781183	Komuna e Voskopojës	Komuna e Voskopojes	Komuna Voskopoje,Komuna Voskopojë,Komuna e Voskopojes,Komuna e Voskopojës,Moscopole,Voskopoje,Voskopojë	40.65	20.58333	A	ADM3	AL		46	10944402	781183		0		1138	Europe/Tirane	2022-12-13
+781214	Komuna e Vithkuqit	Komuna e Vithkuqit	Komuna Vithkuq,Komuna e Vithkuqit,Vithkuq	40.51667	20.58333	A	ADM3	AL		46	10944402	781214		0		1369	Europe/Tirane	2022-12-13
+781272	Komuna e Vëndreshës	Komuna e Vendreshes	Komuna Vendreshe,Komuna Vëndreshë,Komuna e Vendreshes,Komuna e Vëndreshës,Vendreshe,Vëndreshë	40.51667	20.11667	A	ADM3	AL		40	10944371	781272		0		586	Europe/Tirane	2022-12-13
+781282	Komuna e Velçanit	Komuna e Velcanit	Komuna Velcan,Komuna Velçan,Komuna e Velcanit,Komuna e Velçanit,Velcan,Velçan	40.91667	20.43333	A	ADM3	AL		46	10944404	781282		0		1295	Europe/Tirane	2022-12-13
+781327	Komuna e Ujmishtit	Komuna e Ujmishtit	Komuna Qafemolle,Komuna Qafëmollë,Komuna Ujemisht,Komuna e Ujmishtit,Ujmisht	41.91667	20.38333	A	ADM3	AL		47	10944407	781327		0		622	Europe/Tirane	2022-12-13
+781336	Komuna e Udenishtit	Komuna e Udenishtit	Hudenisht,Komuna Hudenisht,Komuna Hundenisht,Komuna e Udenishtit,Opshtina Odunishta,Udenisht,Општина Одуништа	41	20.61667	A	ADM3	AL		46	10944404	781336		0		1095	Europe/Tirane	2022-12-13
+781344	Komuna e Tunjës	Komuna e Tunjes	Komuna Tunje,Komuna Tunjë,Komuna e Tunjes,Komuna e Tunjës,Tunje,Tunjë	40.83333	20.1	A	ADM3	AL		43	10944383	781344		0		832	Europe/Tirane	2022-12-13
+781355	Komuna e Leshnjës	Komuna e Leshnjes	Komuna Leshnje,Komuna Leshnjë,Komuna Lezhnje,Komuna Lezhnjë,Komuna e Leshnjes,Komuna e Leshnjës,Leshnje,Leshnjë,Trubehove,Trubehovë	40.56667	20.35	A	ADM3	AL		40	10944371	781355		0		1244	Europe/Tirane	2022-12-13
+781359	Komuna e Tropojës	Komuna e Tropojes	Komuna Tropoje,Komuna Tropojë,Tropoje,Tropojë	42.40086	20.16749	A	ADM3	AL		47	10944408	781359		0		390	Europe/Tirane	2022-12-16
+781383	Komuna e Trebinjës	Komuna e Trebinjes	Komuna Trebinje,Komuna Trebinjë,Komuna e Trebinjes,Komuna e Trebinjës,Trebinje,Trebinjë	40.91667	20.55	A	ADM3	AL		46	10944404	781383		0		882	Europe/Tirane	2022-12-13
+781406	Komuna e Topojanit	Komuna e Topojanit	Komuna Topojan,Komuna e Topojanit,Topojan	41.98333	20.51667	A	ADM3	AL		47	10944407	781406		0		1083	Europe/Tirane	2022-12-13
+781416	Komuna Tomin	Komuna Tomin	Komuna Tomin,Komuna e Qender Tominit,Komuna e Qendër Tominit,Qender Tomin,Qendre Tomin,Qendrë Tomin,Qendër Tomin,Tomin	41.68111	20.40222	A	ADM3	AL		41	10944374	781416		0		563	Europe/Tirane	2022-12-13
+781444	Bashkia e Tepelenës	Bashkia e Tepelenes	Bashkia Tepelene,Bashkia Tepelenë,Bashkia e Tepelenes,Bashkia e Tepelenës,Qyteti i Tepelenes,Qyteti i Tepelenës,Tepelene,Tepelenë	40.3	20.01667	A	ADM3	AL		45	10944399	781444		0		159	Europe/Tirane	2022-12-13
+781469	Komuna e Surrojit	Komuna e Surrojit	Komuna Surroj,Komuna e Surrojit,Surroj	42	20.33333	A	ADM3	AL		47	10944407	781469		0		731	Europe/Tirane	2022-12-13
+781482	Komuna e Sukës	Komuna e Sukes	Komuna Suke,Komuna Sukë,Komuna e Sukes,Komuna e Sukës,Suke,Sukë	40.38333	20.15	A	ADM3	AL		45	10944395	781482		0		287	Europe/Tirane	2022-12-13
+781507	Komuna e Stravajt	Komuna e Stravajt	Komuna Stravaj,Komuna e Stravajt,Stavraj,Stravaj	41.01667	20.38333	A	ADM3	AL		43	10944386	781507		0		1370	Europe/Tirane	2022-12-13
+781522	Komuna e Steblevës	Komuna e Stebleves	Komuna Stebleve,Komuna Steblevë,Komuna e Stebleves,Komuna e Steblevës,Stebleve,Steblevë	41.33333	20.41667	A	ADM3	AL		43	10944384	781522		0		1176	Europe/Tirane	2022-12-13
+781564	Komuna e Sllovës	Komuna e Slloves	Komuna Sllove,Komuna Sllovë,Komuna e Slloves,Komuna e Sllovës,Sllove,Sllovë	41.76667	20.43333	A	ADM3	AL		41	10944374	781564		0		1251	Europe/Tirane	2022-12-13
+781581	Komuna e Skënderbegasit	Komuna e Skenderbegasit	Komuna Skenderbegas,Komuna Skënderbegas,Komuna e Skenderbegasit,Komuna e Skënderbegasit,Skenderbegas,Skënderbegas	40.76667	20.25	A	ADM3	AL		43	10944383	781581		0		657	Europe/Tirane	2022-12-13
+781600	Komuna e Shushicës	Komuna e Shushices	Komuna Shushice,Komuna Shushicë,Komuna e Shushices,Komuna e Shushicës,Shushice,Shushicë	41.1	20.16667	A	ADM3	AL		43	10944380	781600		0		600	Europe/Tirane	2022-12-13
+781602	Komuna e Shupenzës	Komuna e Shupenzes	Komuna Shupenze,Komuna Shupenzë,Komuna e Shupenzes,Komuna e Shupenzës,Shupenz,Shupenze,Shupenzë	41.58333	20.38333	A	ADM3	AL		41	10944373	781602		0		679	Europe/Tirane	2022-12-13
+781622	Komuna e Shtiqënit	Komuna e Shtiqenit	Komuna Shtiqen,Komuna Shtiqën,Komuna e Shtiqenit,Komuna e Shtiqënit,Shtiqen,Shtiqën	42.03333	20.43333	A	ADM3	AL		47	10944407	781622		0		463	Europe/Tirane	2022-12-13
+781665	Komuna e Shishtaveci	Komuna e Shishtaveci	Komuna Shishtavec,Komuna e Shishtaveci,Shishtavec	41.98333	20.58333	A	ADM3	AL		47	10944407	781665		0		1288	Europe/Tirane	2022-12-13
+781668	Komuna e Shirgjanit	Komuna e Shirgjanit	Komuna Shirgjan,Komuna e Shirgjanit,Shirgjan	41.06667	20.05	A	ADM3	AL		43	10944380	781668		0		87	Europe/Tirane	2022-12-13
+781741	Komuna e Selishtës	Komuna e Selishtes	Komuna Selishte,Komuna Selishtë,Komuna e Selishtes,Komuna e Selishtës,Selishte,Selishtë	41.63333	20.25	A	ADM3	AL		41	10944374	781741		0		819	Europe/Tirane	2022-12-13
+781799	Komuna e Roshnikut	Komuna e Roshnikut	Komuna Roshnik,Komuna e Roshnikut,Roshnik	40.73333	20.06667	A	ADM3	AL		40	10944368	781799		0		380	Europe/Tirane	2022-12-13
+781864	Komuna e Qukësit	Komuna e Qukesit	Komuna Qukes,Komuna Qukës,Komuna e Qukesit,Komuna e Qukësit,Qukes,Qukës	41.06667	20.46667	A	ADM3	AL		43	10944386	781864		0		424	Europe/Tirane	2022-12-13
+781922	Bashkia e Përrenjasit	Bashkia e Perrenjasit	Bashkia Perrenjas,Bashkia Përrenjas,Bashkia e Perrenjasit,Bashkia e Përrenjasit,Prrenjas,Qyteti i Perrenjasit,Qyteti i Përrenjasit	41.06667	20.53333	A	ADM3	AL		43	10944386	781922		0		595	Europe/Tirane	2022-12-13
+781928	Komuna e Progërit	Komuna e Progerit	Komuna Proger,Komuna Progër,Komuna e Progerit,Komuna e Progërit,Proger,Progon,Progun,Progër,Прогон,Прогун	40.7	20.93333	A	ADM3	AL		46	10944400	781928		0		839	Europe/Tirane	2022-12-13
+781944	Komuna e Rukajt	Komuna e Rukajt	Komuna Rukaj,Komuna e Rukajt,Prell,Rukaj	41.66667	20	A	ADM3	AL		41	10944376	781944		0		262	Europe/Tirane	2022-12-13
+781952	Komuna e Potomit	Komuna e Potomit	Komuna Potom,Komuna e Potomit,Potom	40.48333	20.33333	A	ADM3	AL		40	10944371	781952		0		949	Europe/Tirane	2022-12-13
+781963	Komuna e Poroçanit	Komuna e Porocanit	Komuna Porocan,Komuna Poroçan,Komuna e Porocanit,Komuna e Poroçanit,Porocan,Poroçan	40.93333	20.33333	A	ADM3	AL		43	10944383	781963		0		841	Europe/Tirane	2022-12-13
+781976	Komuna e Polisit	Komuna e Polisit	Komuna Polis,Komuna e Polisit,Polis	41.13333	20.25	A	ADM3	AL		43	10944384	781976		0		450	Europe/Tirane	2022-12-13
+781981	Bashkia e Poliçanit	Bashkia e Policanit	Bashkia Polican,Bashkia Poliçan,Bashkia e Policanit,Bashkia e Poliçanit,Polican,Poliçan,Qyteti i Policanit,Qyteti i Poliçanit	40.6	20.1	A	ADM3	AL		40	10944370	781981		0		228	Europe/Tirane	2022-12-13
+781982	Komuna e Pogonit	Komuna e Pogonit	Komuna Qender Pogon,Komuna Qendër Pogon,Komuna e Pogonit,Pogon,Polican,Poliçan	40.06667	20.35	A	ADM3	AL		45	10944393	781982		0		719	Europe/Tirane	2022-12-13
+781987	Komuna e Pojanit	Komuna e Pojanit	Komuna Pojan,Komuna e Pojanit,Pojan,Poljani,Полјани	40.71667	20.83333	A	ADM3	AL		46	10944403	781987		0		824	Europe/Tirane	2022-12-13
+781989	Bashkia e Pogradecit	Bashkia e Pogradecit	Bashkia Pogradec,Bashkia e Pogradecit,Pogradec,Qyteti i Pogradecit	40.9	20.65	A	ADM3	AL		46	10944404	781989		0		764	Europe/Tirane	2022-12-13
+782036	Komuna e Pishajt	Komuna e Pishajt	Komuna Pishaj,Komuna e Pishajt,Pishaj	40.88333	20.18333	A	ADM3	AL		43	10944383	782036		0		246	Europe/Tirane	2022-12-13
+782038	Komuna e Pirgut	Komuna e Pirgut	Komuna Pirg,Komuna e Pirgut,Pirg	40.78333	20.7	A	ADM3	AL		46	10944403	782038		0		948	Europe/Tirane	2022-12-13
+782045	Komuna e Picarit	Komuna e Picarit	Komuna Picar,Komuna e Picarit,Picar	40.16667	20	A	ADM3	AL		45	10944394	782045		0		715	Europe/Tirane	2022-12-13
+782050	Komuna e Petranit	Komuna e Petranit	Komuna Petran,Komuna e Petranit,Petran	40.21667	20.4	A	ADM3	AL		45	10944398	782050		0		420	Europe/Tirane	2022-12-13
+782062	Bashkia e Peshkopisë	Bashkia e Peshkopise	Bashkia Peshkopi,Bashkia e Peshkopise,Bashkia e Peshkopisë,Peshkopi,Qyteti i Peshkopise,Qyteti i Peshkopisë	41.68333	20.43333	A	ADM3	AL		41	10944374	782062		0		634	Europe/Tirane	2022-12-13
+782071	Bashkia e Përmetit	Bashkia e Permetit	Bashkia Permet,Bashkia Përmet,Bashkia e Permetit,Bashkia e Përmetit,Permet,Përmet,Qyteti i Permetit,Qyteti i Përmetit	40.23333	20.35	A	ADM3	AL		45	10944398	782071		0		252	Europe/Tirane	2022-12-13
+782118	Komuna e Ostrenit	Komuna e Ostrenit	Komuna Ostren,Komuna e Ostrenit,Ostren	41.43333	20.45	A	ADM3	AL		41	10944373	782118		0		983	Europe/Tirane	2022-12-13
+782132	Komuna e Oroshit	Komuna e Oroshit	Komuna Orosh,Komuna e Oroshit,Orosh	41.83333	20.08333	A	ADM3	AL		48	10944411	782132		0		746	Europe/Tirane	2022-12-13
+782141	Komuna e Orenjës	Komuna e Orenjes	Komuna Orenje,Komuna Orenjë,Komuna e Orenjes,Komuna e Orenjës,Orenje,Orenjë	41.3	20.25	A	ADM3	AL		43	10944384	782141		0		1086	Europe/Tirane	2022-12-13
+782165	Komuna e Novoselës	Komuna e Novoseles	Komuna Novosele,Komuna Novoselë,Komuna e Novoseles,Komuna e Novoselës,Novosele,Novoselë	40.33333	20.5	A	ADM3	AL		46	10944401	782165		0		949	Europe/Tirane	2022-12-13
+782175	Komuna e Zagorit	Komuna e Zagorit	Komuna Qender Zagorie,Komuna Qendër Zagorie,Komuna e Zagorit,Nivan,Zagori,Zagorie	40.18333	20.25	A	ADM3	AL		45	10944396	782175		0		879	Europe/Tirane	2022-12-13
+782251	Komuna e Mollasit	Komuna e Mollasit	Komuna Mollas,Komuna e Mollasit,Mollas	40.91667	20	A	ADM3	AL		43	10944382	782251		0		103	Europe/Tirane	2022-12-13
+782252	Komuna e Mollasit	Komuna e Mollasit	Komuna Mollas,Komuna e Mollasit,Mollas	40.41667	20.66667	A	ADM3	AL		46	10944401	782252		0		955	Europe/Tirane	2022-12-13
+782271	Komuna e Mirasit	Komuna e Mirasit	Komuna Miras,Komuna e Mirasit,Miras	40.51667	20.91667	A	ADM3	AL		46	10944400	782271		0		1008	Europe/Tirane	2022-12-13
+782322	Komuna e Melanit	Komuna e Melanit	Komuna Melan,Komuna e Melanit,Melan	41.66667	20.5	A	ADM3	AL		41	10944374	782322		0		1193	Europe/Tirane	2022-12-13
+782356	Komuna e Martaneshit	Komuna e Martaneshit	Komuna Martanesh,Komuna e Martaneshit,Martanesh	41.41667	20.2	A	ADM3	AL		41	10944373	782356		0		977	Europe/Tirane	2022-12-13
+782369	Komuna e Margegajt	Komuna e Margegajt	Komuna Margegaj,Komuna e Margegajt,Margegaj	42.43333	20	A	ADM3	AL		47	10944408	782369		0		710	Europe/Tirane	2022-12-13
+782373	Komuna e Maqellarës	Komuna e Maqellares	Komuna Maqellare,Komuna Maqellarë,Komuna e Maqellares,Komuna e Maqellarës,Maqellare,Maqellarë	41.58333	20.48333	A	ADM3	AL		41	10944374	782373		0		609	Europe/Tirane	2022-12-13
+782394	Bashkia e Maliqit	Bashkia e Maliqit	Bashkia Maliq,Bashkia e Maliqit,Maliq,Qyteti i Maliqit	40.71667	20.65	A	ADM3	AL		46	10944403	782394		0		1013	Europe/Tirane	2022-12-13
+782424	Komuna e Macukullit	Komuna e Macukullit	Komuna Macukull,Komuna e Macukullit,Macukull	41.66667	20.11667	A	ADM3	AL		41	10944376	782424		0		1232	Europe/Tirane	2022-12-13
+782438	Komuna e Lurës	Komuna e Lures	Komuna Lure,Komuna Lurë,Komuna e Lures,Komuna e Lurës,Lure,Lurë	41.8	20.21667	A	ADM3	AL		41	10944374	782438		0		1203	Europe/Tirane	2022-12-13
+782444	Komuna e Lunikut	Komuna e Lunikut	Komuna Lunik,Komuna e Lunikut,Lunik	41.28333	20.31667	A	ADM3	AL		43	10944384	782444		0		613	Europe/Tirane	2022-12-13
+782451	Komuna e Lumasit	Komuna e Lumasit	Komuna Lumas,Komuna e Lumasit,Lumas	40.83333	20	A	ADM3	AL		40	10944369	782451		0		253	Europe/Tirane	2022-12-13
+782482	Komuna e Llugajt	Komuna e Llugajt	Komuna Llugaj,Komuna e Llugajt,Llugaj	42.33333	20.13333	A	ADM3	AL		47	10944408	782482		0		297	Europe/Tirane	2022-12-16
+782501	Komuna e Liqenasit	Komuna e Liqenasit	Komuna Liqenas,Komuna e Liqenasit,Liqenas	40.83333	20.9	A	ADM3	AL		46	10944405	782501		0		1184	Europe/Tirane	2022-12-13
+782520	Bashkia e Librazhdit	Bashkia e Librazhdit	Bashkia Librazhd,Bashkia e Librazhdit,Librazhd,Qyteti i Librazhdit	41.18333	20.33333	A	ADM3	AL		43	10944384	782520		0		358	Europe/Tirane	2022-12-13
+782524	Bashkia e Libohovës	Bashkia e Libohoves	Bashkia Libohove,Bashkia Libohovë,Bashkia e Libohoves,Bashkia e Libohovës,Libohove,Libohovë,Qyteti i Libohoves,Qyteti i Libohovës	40.03333	20.25	A	ADM3	AL		45	10944396	782524		0		258	Europe/Tirane	2022-12-13
+782536	Bashkia e Leskovikut	Bashkia e Leskovikut	Bashkia Leskovik,Bashkia e Leskovikut,Leskovik,Qyteti i Leskovikut	40.14944	20.5975	A	ADM3	AL		46	10944401	782536		0		876	Europe/Tirane	2022-12-13
+782561	Komuna e Leniasit	Komuna e Leniasit	Komuna Lenie,Komuna e Leniasit,Lenias,Lenie	40.76667	20.38333	A	ADM3	AL		43	10944383	782561		0		907	Europe/Tirane	2022-12-13
+782577	Komuna e Lekasit	Komuna e Lekasit	Komuna Lekas,Komuna e Lekasit,Lekas	40.6	20.46667	A	ADM3	AL		46	10944402	782577		0		1799	Europe/Tirane	2022-12-13
+782583	Komuna e Lazaratit	Komuna e Lazaratit	Komuna Lazarat,Komuna e Lazaratit,Lazarat	40.05	20.13333	A	ADM3	AL		45	10944394	782583		0		678	Europe/Tirane	2022-12-13
+782613	Komuna e Labinotit Fushë	Komuna e Labinotit Fushe	Komuna Labinot Fushe,Komuna Labinot Fushë,Komuna e Labinotit Fushe,Komuna e Labinotit Fushë,Labinot,Labinot Fushe,Labinot Fushë	41.15	20.11667	A	ADM3	AL		43	10944380	782613		0		735	Europe/Tirane	2022-12-13
+782659	Komuna e Kukurit	Komuna e Kukurit	Komuna Kukur,Komuna e Kukurit,Kukur	40.86667	20.35	A	ADM3	AL		43	10944383	782659		0		803	Europe/Tirane	2022-12-13
+782757	Bashkia e Korçës	Bashkia e Korces	Bashkia Korce,Bashkia Korçë,Bashkia e Korces,Bashkia e Korçës,Korce,Korçë,Qyteti i Korces,Qyteti i Korçës	40.63333	20.76667	A	ADM3	AL		46	10944402	782757		0		830	Europe/Tirane	2022-12-13
+782772	Komuna e Kolshit	Komuna e Kolshit	Kolsh,Komuna Kolsh,Komuna e Kolshit	42.06667	20.35	A	ADM3	AL		47	10944407	782772		0		484	Europe/Tirane	2022-12-13
+782792	Komuna e Kodovjatit	Komuna e Kodovjatit	Kodovjat,Komuna Kodovjat,Komuna e Kodovjatit	40.83333	20.25	A	ADM3	AL		43	10944383	782792		0		449	Europe/Tirane	2022-12-13
+782809	Komuna e Klosit	Komuna e Klosit	Klos,Komuna Klos,Komuna e Klosit,Qyteti i Klosit	41.5	20.1	A	ADM3	AL		41	10944375	782809		0		332	Europe/Tirane	2022-12-13
+782814	Komuna e Trebishtës	Komuna e Trebishtes	Klenje,Klenjë,Komuna Klenje,Komuna Klenjë,Komuna e Klenjes,Komuna e Klenjës,Komuna e Trebishtes,Komuna e Trebishtës,Trebisht	41.36667	20.5	A	ADM3	AL		41	10944373	782814		0		1484	Europe/Tirane	2022-12-13
+782844	Bashkia e Këlcyrës	Bashkia e Kelcyres	Bashkia Kelcyre,Bashkia Këlcyrë,Bashkia e Kelcyres,Bashkia e Këlcyrës,Kelcyre,Këlcyrë,Qyteti i Kelcyres,Qyteti i Këlcyrës	40.28333	20.16667	A	ADM3	AL		45	10944395	782844		0		1191	Europe/Tirane	2022-12-13
+782850	Komuna e Luznit	Komuna e Luznit	Katund i Ri,Komuna Luzni,Komuna e Luznit,Luzni	41.63333	20.36667	A	ADM3	AL		41	10944374	782850		0		552	Europe/Tirane	2022-12-13
+782857	Komuna e Kastriotit	Komuna e Kastriotit	Kastriot,Komuna Kastriot,Komuna e Kastriotit	41.71667	20.38333	A	ADM3	AL		41	10944374	782857		0		573	Europe/Tirane	2022-12-13
+782907	Komuna e Kalisit	Komuna e Kalisit	Kalis,Komuna e Kalisit	41.83333	20.38333	A	ADM3	AL		47	10944407	782907		0		854	Europe/Tirane	2022-12-13
+782917	Komuna e Kalajës e Dodës	Komuna e Kalajes e Dodes	Kala e Dodes,Kala e Dodës,Komuna Kala e Dodes,Komuna Kala e Dodës,Komuna e Kalajes e Dodes,Komuna e Kalajës e Dodës	41.82194	20.49778	A	ADM3	AL		41	10944374	782917		0		1623	Europe/Tirane	2022-12-13
+782964	Komuna e Hotolishtit	Komuna e Hotolishtit	Hotolisht,Komuna Hotolisht,Komuna e Hotolishtit	41.15	20.43333	A	ADM3	AL		43	10944384	782964		0		905	Europe/Tirane	2022-12-13
+782981	Komuna e Hoçishtit	Komuna e Hocishtit	Hocisht,Hoçisht,Komuna Morave,Komuna Moravë,Komuna e Hocishtit,Komuna e Hoçishtit,Morave,Moravë	40.61667	20.88333	A	ADM3	AL		46	10944400	782981		0		1249	Europe/Tirane	2022-12-13
+783006	Komuna e Gurrës	Komuna e Gurres	Gurre,Gurrë,Komuna Gurre,Komuna Gurrë,Komuna e Gurres,Komuna e Gurrës	41.53333	20	A	ADM3	AL		41	10944375	783006		0		467	Europe/Tirane	2022-12-13
+783088	Komuna e Gostimës	Komuna e Gostimes	Gostime,Gostimë,Komuna Gostime,Komuna Gostimë,Komuna e Gostimes,Komuna e Gostimës	41	20	A	ADM3	AL		43	10944382	783088		0		89	Europe/Tirane	2022-12-13
+783112	Komuna e Golajt	Komuna e Golajt	Golaj,Komuna Golaj,Komuna e Golajt	42.25	20.36667	A	ADM3	AL		47	10944406	783112		0		488	Europe/Tirane	2022-12-13
+783136	Komuna e Gjoricës	Komuna e Gjorices	Gjorice,Gjoricë,Komuna Gjorice,Komuna Gjoricë,Komuna e Gjorices,Komuna e Gjoricës	41.51667	20.43333	A	ADM3	AL		41	10944373	783136		0		580	Europe/Tirane	2022-12-13
+783150	Bashkia e Gjirokastrës	Bashkia e Gjirokastres	Bashkia Gjirokaster,Bashkia Gjirokastër,Bashkia e Gjirokastres,Bashkia e Gjirokastrës,Gjirokaster,Gjirokastër,Qyteti i Gjirokastres,Qyteti i Gjirokastrës	40.08333	20.11667	A	ADM3	AL		45	10944394	783150		0		502	Europe/Tirane	2022-12-13
+783157	Komuna e Gjinarit	Komuna e Gjinarit	Gjinar,Komuna Gjinar,Komuna e Gjinarit	41.01667	20.18333	A	ADM3	AL		43	10944380	783157		0		721	Europe/Tirane	2022-12-13
+783159	Komuna e Gjinajt	Komuna e Gjinajt	Gjinaj,Komuna Gjinaj,Komuna e Gjinajt	42.11667	20.45	A	ADM3	AL		47	10944406	783159		0		523	Europe/Tirane	2022-12-13
+783164	Komuna e Gjergjanit	Komuna e Gjergjanit	Gjergjan,Komuna Gjergjan,Komuna e Gjergjanit	41.05	20.03333	A	ADM3	AL		43	10944380	783164		0		84	Europe/Tirane	2022-12-13
+783166	Komuna e Gjerbësit	Komuna e Gjerbesit	Gjerbes,Gjerbës,Komuna Gjerbes,Komuna Gjerbës,Komuna e Gjerbesit,Komuna e Gjerbësit	40.61667	20.25	A	ADM3	AL		40	10944371	783166		0		1575	Europe/Tirane	2022-12-13
+783171	Komuna e Gjegjanit	Komuna e Gjegjanit	Gjegjan,Komuna Gjegjan,Komuna e Gjegjanit	41.93333	20	A	ADM3	AL		49	10944414	783171		0		306	Europe/Tirane	2022-12-13
+783206	Komuna e Muhurit	Komuna e Muhurit	Fushe-Muhur,Fushe-Murre,Fushë-Muhur,Fushë-Murrë,Komuna Muhur,Komuna e Muhurit,Muhur	41.68333	20.26667	A	ADM3	AL		41	10944374	783206		0		1534	Europe/Tirane	2022-12-13
+783211	Komuna e Fushë-Çidhnës	Komuna e Fushe-Cidhnes	Fushe-Cidhen,Fushë-Çidhën,Komuna Fushe-Cidhen,Komuna Fushë-Çidhën,Komuna e Fushe-Cidhnes,Komuna e Fushë-Çidhnës	41.74652	20.34184	A	ADM3	AL		41	10944374	783211		0		424	Europe/Tirane	2022-12-28
+783215	Bashkia e Fushë-Arrëzit	Bashkia e Fushe-Arrezit	Bashkia Fushe-Arrezi,Bashkia Fushë-Arrëzi,Bashkia e Fushe-Arrezit,Bashkia e Fushë-Arrëzit,Fush-Arrez,Fush-Arrëz,Fushe-Arres,Fushe-Arrez,Fushë-Arrës,Fushë-Arrëz,Komuna Fushe-Arrezi,Komuna Fushë-Arrëzi,Qyteti i Fushe-Arresit,Qyteti i Fushë-Arrësit	42.06667	20.03333	A	ADM3	AL		49	10944412	783215		0		530	Europe/Tirane	2022-12-13
+783224	Komuna e Grykë Çajës	Komuna e Gryke Cajes	Fshat,Gryk-Caje,Gryk-Çajë,Gryke Caje,Grykë Çajë,Komuna Gryka e Cajes,Komuna Gryka e Çajës,Komuna e Gryke Cajes,Komuna e Grykë Çajës	41.88333	20.5	A	ADM3	AL		47	10944407	783224		0		1376	Europe/Tirane	2022-12-13
+783232	Komuna e Frashërit	Komuna e Frasherit	Fraser,Frasher,Frashër,Fraşer,Komuna Frasher,Komuna Frashër,Komuna e Frasherit,Komuna e Frashërit	40.36667	20.43333	A	ADM3	AL		45	10944398	783232		0		971	Europe/Tirane	2024-09-24
+783255	Komuna e Fajzës	Komuna e Fajzes	Fajze,Fajzë,Komuna Fajze,Komuna Fajzë,Komuna e Fajzes,Komuna e Fajzës	42.15	20.35	A	ADM3	AL		47	10944406	783255		0		410	Europe/Tirane	2022-12-13
+783260	Bashkia e Ersekës	Bashkia e Ersekes	Bashkia Erseke,Bashkia Ersekë,Bashkia e Ersekes,Bashkia e Ersekës,Erseke,Ersekë,Qyteti i Ersekes,Qyteti i Ersekës	40.33611	20.68194	A	ADM3	AL		46	10944401	783260		0		1026	Europe/Tirane	2022-12-13
+783264	Bashkia e Elbasanit	Bashkia e Elbasanit	Bashkia Elbasan,Bashkia e Elbasanit,Elbasan,Elbasani,Eļbasani,Qyteti i Elbasanit,ai er ba sang,albasan,erubasan,Елбасан,الباسان,エルバサン,爱尔巴桑	41.1	20.08333	A	ADM3	AL		43	10944380	783264		0		106	Europe/Tirane	2022-12-13
+783301	Komuna e Drenovës	Komuna e Drenoves	Drenove,Drenovë,Komuna Drenove,Komuna Drenovë,Komuna e Drenoves,Komuna e Drenovës	40.58333	20.8	A	ADM3	AL		46	10944402	783301		0		1216	Europe/Tirane	2022-12-13
+783371	Komuna e Derjanit	Komuna e Derjanit	Derjan,Komuna Derjan,Komuna e Derjanit	41.69279	20.05364	A	ADM3	AL		41	10944376	783371		0		691	Europe/Tirane	2022-12-28
+783409	Bashkia e Çorovodës	Bashkia e Corovodes	Bashkia Corovode,Bashkia e Corovodes,Bashkia e Çorovodës,Bashkia Çorovodë,Corovode,Qyteti i Corovodes,Qyteti i Çorovodës,Çorovodë	40.505	20.22778	A	ADM3	AL		40	10944371	783409		0		323	Europe/Tirane	2022-12-13
+783413	Komuna e Çlirimit	Komuna e Clirimit	Clirim,Komuna Clirim,Komuna e Clirimit,Komuna e Çlirimit,Komuna Çlirim,Çlirim	40.41667	20.53333	A	ADM3	AL		46	10944401	783413		0		1272	Europe/Tirane	2022-12-13
+783451	Komuna e Çepanit	Komuna e Cepanit	Cepan,Komuna Cepan,Komuna e Cepanit,Komuna e Çepanit,Komuna Çepan,Çepan	40.41667	20.3	A	ADM3	AL		40	10944371	783451		0		460	Europe/Tirane	2022-12-13
+783462	Komuna e Çarshovës	Komuna e Carshoves	Carshove,Komuna Carcove,Komuna e Carshoves,Komuna e Çarshovës,Komuna Çarçovë,Çarshovë	40.13333	20.5	A	ADM3	AL		45	10944398	783462		0		304	Europe/Tirane	2022-12-13
+783485	Komuna e Buzit	Komuna e Buzit	Buz,Komuna Buz,Komuna e Buzit	40.45	20	A	ADM3	AL		45	10944397	783485		0		733	Europe/Tirane	2022-12-13
+783490	Komuna e Bushtricës	Komuna e Bushtrices	Bushtrice,Bushtricë,Komuna Bushtrice,Komuna Bushtricë,Komuna e Bushtrices,Komuna e Bushtricës	41.86667	20.41667	A	ADM3	AL		47	10944407	783490		0		905	Europe/Tirane	2022-12-13
+783494	Bashkia e Burrelit	Bashkia e Burrelit	Bashkia Burrel,Bashkia e Burrelit,Burrel,Qyteti i Burrelit	41.61667	20	A	ADM3	AL		41	10944376	783494		0		262	Europe/Tirane	2022-12-13
+783509	Bashkia e Bulqizës	Bashkia e Bulqizes	Bashkia Bulqize,Bashkia Bulqizë,Bashkia e Bulqizes,Bashkia e Bulqizës,Bulqize,Bulqizë,Opshtina Bulchica,Qyteti i Bulqizes,Qyteti i Bulqizës,Општина Булчица	41.5	20.21667	A	ADM3	AL		41	10944373	783509		0		757	Europe/Tirane	2022-12-13
+783520	Komuna e Bujanit	Komuna e Bujanit	Bujan,Komuna Bujan,Komuna e Bujanit	42.33333	20	A	ADM3	AL		47	10944408	783520		0		1666	Europe/Tirane	2022-12-13
+783523	Komuna e Buçimasit	Komuna e Bucimasit	Bucimas,Buçimas,Komuna Bucimas,Komuna Buçimas,Komuna e Bucimasit,Komuna e Buçimasit	40.88333	20.68333	A	ADM3	AL		46	10944404	783523		0		709	Europe/Tirane	2022-12-13
+783556	Komuna e Funarit	Komuna e Funarit	Branesh,Funar,Komuna Funar,Komuna e Funarit	41.21667	20.06667	A	ADM3	AL		43	10944380	783556		0		790	Europe/Tirane	2022-12-13
+783594	Komuna e Blerimit	Komuna e Blerimit	Blerim,Komuna Blerim,Komuna e Blerimit	42.15	20.15	A	ADM3	AL		49	10944412	783594		0		1263	Europe/Tirane	2022-12-13
+783613	Komuna e Bicajt	Komuna e Bicajt	Bicaj,Komuna Bicaj,Komuna e Bicajt	41.98333	20.41667	A	ADM3	AL		47	10944407	783613		0		654	Europe/Tirane	2022-12-13
+783670	Komuna e Barmashit	Komuna e Barmashit	Barmash,Komuna Barmash,Komuna e Barmashit	40.28333	20.61667	A	ADM3	AL		46	10944401	783670		0		987	Europe/Tirane	2022-12-13
+783696	Komuna e Ballabanit	Komuna e Ballabanit	Ballaban,Komuna Ballaban,Komuna e Ballabanit	40.43333	20.11667	A	ADM3	AL		45	10944395	783696		0		317	Europe/Tirane	2022-12-13
+783735	Komuna e Arrënit	Komuna e Arrenit	Arn,Arren,Arrën,Komuna Arren,Komuna Arrën,Komuna e Arrenit,Komuna e Arrënit	41.9	20.26667	A	ADM3	AL		47	10944407	783735		0		1190	Europe/Tirane	2022-12-13
+831333	Komuna e Cepojës	Komuna e Cepojes	Cepo,Komuna Cepo,Komuna e Cepojes,Komuna e Cepojës	40.11667	20.03333	A	ADM3	AL		45	10944394	831333		0		373	Europe/Tirane	2022-12-13
+831334	Komuna e Leskovikut	Komuna e Leskovikut	Komuna Leskovik,Komuna e Leskovikut,Leskovik	40.16667	20.61667	A	ADM3	AL		46	10944401	831334		0		1037	Europe/Tirane	2022-12-13
+831495	Bashkia e Bajram Curri	Bashkia e Bajram Curri	Bajram Curri,Bashkia Bajram Curri,Bashkia e Bajram Curri	42.35571	20.08112	A	ADM3	AL		47	10944408	831495		0		296	Europe/Tirane	2022-12-28
+831496	Komuna e Fierzës	Komuna e Fierzes	Fierze,Fierzë,Komuna Fierze,Komuna Fierzë,Komuna e Fierzes,Komuna e Fierzës	42.26667	20.05	A	ADM3	AL		47	10944408	831496		0		487	Europe/Tirane	2022-12-13
+831497	Komuna e Fierzës	Komuna e Fierzes	Fierze,Fierzë,Komuna Fierze,Komuna Fierzë,Komuna e Fierzes,Komuna e Fierzës	42.23333	20.05	A	ADM3	AL		49	10944412	831497		0		896	Europe/Tirane	2022-12-13
+831498	Komuna e Bytyçit	Komuna e Bytycit	Bytyc,Bytyç,Komuna Bytyc,Komuna Bytyç,Komuna e Bytycit,Komuna e Bytyçit	42.26667	20.21667	A	ADM3	AL		47	10944408	831498		0		503	Europe/Tirane	2022-12-13
+831499	Komuna e Malzit	Komuna e Malzit	Crna Planina,Komuna Malzi,Komuna e Malzit,Malzi,Црна Планина	42.08333	20.23333	A	ADM3	AL		47	10944407	831499		0		506	Europe/Tirane	2022-12-13
+831500	Komuna e Qafa e Malit	Komuna e Qafa e Malit	Komuna Qafe-Mali,Komuna Qafë-Mali,Komuna e Qafa e Malit,Qaf-Mal,Qaf-Mali,Qafe Mali,Qafë Mali	42.06667	20.1	A	ADM3	AL		49	10944412	831500		0		998	Europe/Tirane	2022-12-13
+831501	Bashkia e Kukësit	Bashkia e Kukesit	Bashkia Kukes,Bashkia Kukës,Bashkia e Kukesit,Bashkia e Kukësit,Kukes,Kukës,Qyteti i Kukesit,Qyteti i Kukësit	42.06667	20.41667	A	ADM3	AL		47	10944407	831501		0		279	Europe/Tirane	2022-12-13
+831502	Komuna e Terthorës	Komuna e Terthores	Komuna Terthore,Komuna Terthorë,Komuna e Terthores,Komuna e Terthorës,Krivulica,Terthore,Terthorë,Кривулица	42.11667	20.5	A	ADM3	AL		47	10944407	831502		0		428	Europe/Tirane	2022-12-13
+831503	Komuna e Fanit	Komuna e Fanit	Fan,Fane,Komuna Fan,Komuna e Fanit	41.93333	20.16667	A	ADM3	AL		48	10944411	831503		0		643	Europe/Tirane	2022-12-13
+831504	Komuna e Selitës	Komuna e Selites	Komuna Salite,Komuna Salitë,Komuna Selite,Komuna Selitë,Komuna e Selites,Komuna e Selitës,Selite,Selitë	41.782	20.06	A	ADM3	AL		48	10944411	831504		0		927	Europe/Tirane	2025-10-27
+831907	Komuna e Arrasit	Komuna e Arrasit	Arras,Komuna Arrazi,Komuna e Arrasit	41.75	20.28333	A	ADM3	AL		41	10944374	831907		0		573	Europe/Tirane	2022-12-13
+831915	Komuna e Lisit	Komuna e Lisit	Komuna Lis,Komuna e Lisit,Lis	41.61667	20.08333	A	ADM3	AL		41	10944376	831915		0		448	Europe/Tirane	2022-12-13
+831919	Komuna e Suçit	Komuna e Sucit	Komuna Suc,Komuna Suç,Komuna e Sucit,Komuna e Suçit,Suc,Suç	41.5719	20.06159	A	ADM3	AL		41	10944375	831919		0		307	Europe/Tirane	2022-12-28
+831952	Komuna e Shëngjergjit	Komuna e Shengjergjit	Komuna e Shengjergjit,Komuna e Shëngjergjit,Shengjergj,Shëngjergj	41.33333	20.1	A	ADM3	AL		50	10944420	831952		0		846	Europe/Tirane	2022-12-13
+832204	Komuna e Fushë Bulqizës	Komuna e Fushe Bulqizes	Fushe Bulqize,Fushë Bulqizë,Komuna Fushe Bulqize,Komuna Fushë Bulqizë,Komuna e Fushe Bulqizes,Komuna e Fushë Bulqizës	41.5	20.28333	A	ADM3	AL		41	10944373	832204		0		1044	Europe/Tirane	2022-12-13
+832207	Komuna e Qendër Librazhdit	Komuna e Qender Librazhdit	Komuna Qender Librazhd,Komuna Qendër Librazhd,Komuna e Qender Librazhdit,Komuna e Qendër Librazhdit,Librazhd Qender,Librazhd Qendër,Qender,Qender Librazhd,Qendër,Qendër Librazhd	41.18333	20.36667	A	ADM3	AL		43	10944384	832207		0		665	Europe/Tirane	2022-12-13
+2525811	Komuna e Lukovës	Komuna e Lukoves	Komuna Lukove,Komuna Lukovë,Komuna e Lukoves,Komuna e Lukovës,Lukove,Lukovë	40	19.91667	A	ADM3	AL		51	10944424	2525811		0		491	Europe/Tirane	2022-12-13
+3183591	Bashkia e Ballshit	Bashkia e Ballshit	Ballsh,Bashkia Ballsh,Bashkia e Ballshit,Qyteti i Ballshit	40.6	19.73333	A	ADM3	AL		44	10944390	3183591		0		206	Europe/Tirane	2022-12-13
+3183626	Komuna e Zharrëzit	Komuna e Zharrezit	Komuna Zharrez,Komuna Zharrëz,Komuna e Zharrezit,Komuna e Zharrëzit,Zharez,Zharres,Zharrez,Zharrës,Zharrëz,Zharëz	40.71667	19.63333	A	ADM3	AL		44	10944388	3183626		0		31	Europe/Tirane	2022-12-13
+3183647	Komuna e Zejmenit	Komuna e Zejmenit	Komuna Zejmen,Komuna e Zejmenit,Zejmen	41.73333	19.71667	A	ADM3	AL		48	10944410	3183647		0		299	Europe/Tirane	2022-12-13
+3183654	Komuna e Zall-Herrit	Komuna e Zall-Herrit	Komuna Zall-Herr,Komuna e Zall-Herrit,Zall-Herr	41.41667	19.83333	A	ADM3	AL		50	10944420	3183654		0		328	Europe/Tirane	2022-12-13
+3183659	Komuna e Zall-Bastarit	Komuna e Zall-Bastarit	Komuna Zall-Bastar,Komuna e Zall-Bastarit,Zall-Bastar	41.41667	19.95	A	ADM3	AL		50	10944420	3183659		0		494	Europe/Tirane	2022-12-13
+3183701	Komuna e Vranishtit	Komuna e Vranishtit	Hore-Vranisht,Horë-Vranisht,Komuna Hore Vranisht,Komuna Horë Vranisht,Komuna e Vranishtit,Vranisht	40.2	19.75	A	ADM3	AL		51	10944424	3183701		0		284	Europe/Tirane	2022-12-13
+3183709	Bashkia e Vorës	Bashkia e Vores	Bashkia e Vores,Bashkia e Vorës,Komuna Vore,Komuna Vorë,Qyteti i Vores,Qyteti i Vorës,Vore,Vorë	41.38333	19.63333	A	ADM3	AL		50	10944421	3183709		0		73	Europe/Tirane	2022-12-13
+3183720	Bashkia e Vlorës	Bashkia e Vlores	Bashkia Vlore,Bashkia Vlorë,Bashkia e Vlores,Bashkia e Vlorës,Qyteti i Vlores,Qyteti i Vlorës,Vlore,Vlorë	40.46667	19.48333	A	ADM3	AL		51	10944428	3183720		0		0	Europe/Tirane	2022-12-13
+3183766	Komuna e Velipojës	Komuna e Velipojes	Komuna Velipoje,Komuna Velipojë,Komuna e Velipojes,Komuna e Velipojës,Velipoje,Velipojë	41.9	19.4	A	ADM3	AL		49	10944415	3183766		0		0	Europe/Tirane	2022-12-13
+3183792	Komuna e Vaqarrit	Komuna e Vaqarrit	Komuna Vaqar,Komuna e Vaqarrit,Vaqar,Vaqarr	41.3	19.75	A	ADM3	AL		50	10944420	3183792		0		163	Europe/Tirane	2022-12-13
+3183815	Bashkia e Urës Vajgurore	Bashkia e Ures Vajgurore	Bashkia e Ures Vajgurore,Bashkia e Urës Vajgurore,Komuna Ura Vajgurore,Qyteti i Ures Vajgurore,Qyteti i Urës Vajgurore,Ura Vajgurore	40.75	19.85	A	ADM3	AL		40	10944372	3183815		0		107	Europe/Tirane	2022-12-13
+3183821	Komuna e Ungrejit	Komuna e Ungrejit	Komuna Ungrej,Komuna e Ungrejit,Ungrej	41.88333	19.8	A	ADM3	AL		48	10944410	3183821		0		303	Europe/Tirane	2022-12-13
+3183825	Komuna e Ulëzës	Komuna e Ulezes	Komuna Ulez,Komuna Ulëz,Komuna e Ulezes,Komuna e Ulëzës,Qyteti i Ulezes,Qyteti i Ulëzës,Ulez,Ulëz	41.65	19.85	A	ADM3	AL		41	10944376	3183825		0		341	Europe/Tirane	2022-12-13
+3183878	Bashkia e Tiranës	Bashkia e Tiranes	Bashkia Tirane,Bashkia Tiranë,Bashkia e Tiranes,Bashkia e Tiranës,Qyteti i Tiranes,Qyteti i Tiranës,Tirane,Tiranë	41.33333	19.83333	A	ADM3	AL		50	10944420	3183878		0		128	Europe/Tirane	2022-12-16
+3183903	Komuna e Tërpanit	Komuna e Terpanit	Komuna Terpan,Komuna Tërpan,Komuna e Terpanit,Komuna e Tërpanit,Terpan,Tërpan	40.56667	19.95	A	ADM3	AL		40	10944370	3183903		0		640	Europe/Tirane	2022-12-13
+3183908	Komuna e Tërbufit	Komuna e Terbufit	Komuna Terbuf,Komuna Tërbuf,Komuna e Terbufit,Komuna e Tërbufit,Terbuf,Tërbuf	41.03333	19.6	A	ADM3	AL		44	10944387	3183908		0		3	Europe/Tirane	2022-12-13
+3183930	Komuna e Kelmendit	Komuna e Kelmendit	Kelmend,Komuna Kelmend,Komuna e Kelmendit,Tamare,Tamarë	42.48333	19.63333	A	ADM3	AL		49	10944413	3183930		0		638	Europe/Tirane	2022-12-13
+3183947	Bashkia e Sukthit	Bashkia e Sukthit	Bashkia Sukth,Bashkia e Sukthit,Komuna Sukth,Qytet Sukth,Sukth,Sukth i Ri	41.42333	19.54361	A	ADM3	AL		42	10944377	3183947		0		7	Europe/Tirane	2022-12-13
+3183960	Komuna e Strumit	Komuna e Strumit	Komuna Strum,Komuna e Strumit,Strum,Strume,Strumë	40.76667	19.73333	A	ADM3	AL		44	10944392	3183960		0		13	Europe/Tirane	2022-12-13
+3184014	Komuna e Sinjës	Komuna e Sinjes	Komuna Sinje,Komuna Sinjë,Komuna e Sinjes,Komuna e Sinjës,Sinje,Sinjë	40.63333	19.88333	A	ADM3	AL		40	10944368	3184014		0		647	Europe/Tirane	2022-12-13
+3184019	Komuna e Lopësit	Komuna e Lopesit	Komuna Lopes,Komuna Lopës,Komuna e Lopesit,Komuna e Lopësit,Lopes,Lopez,Lopës,Sinanaj	40.36667	19.83333	A	ADM3	AL		45	10944399	3184019		0		207	Europe/Tirane	2022-12-13
+3184061	Komuna e Shoshit	Komuna e Shoshit	Komuna Shosh,Komuna e Shoshit,Shosh	42.23333	19.78333	A	ADM3	AL		49	10944415	3184061		0		596	Europe/Tirane	2022-12-13
+3184067	Komuna e Shllakut	Komuna e Shllakut	Komuna Shllak,Komuna e Shllakut,Shllak	42.1	19.7	A	ADM3	AL		49	10944416	3184067		0		741	Europe/Tirane	2022-12-13
+3184082	Bashkia e Shkodrës	Bashkia e Shkodres	Bashkia Shkoder,Bashkia Shkodër,Bashkia e Shkodres,Bashkia e Shkodrës,Qyteti i Shkodres,Qyteti i Shkodrës,Shkoder,Shkodër	42.06396	19.51039	A	ADM3	AL		49	10944415	3184082		0		11	Europe/Tirane	2022-12-18
+3184100	Bashkia e Shijakut	Bashkia e Shijakut	Bashkia Shijak,Bashkia e Shijakut,Qyteti i Shijakut,Shijak	41.33333	19.56667	A	ADM3	AL		42	10944379	3184100		0		22	Europe/Tirane	2022-12-13
+3184102	Komuna e Shezës	Komuna e Shezes	Komuna Sheze,Komuna Shezë,Komuna e Shezes,Komuna e Shezës,Sheze,Shezë	41.01667	19.81667	A	ADM3	AL		43	10944385	3184102		0		77	Europe/Tirane	2022-12-13
+3184138	Komuna e Shëngjinit	Komuna e Shengjinit	Komuna Shengjin,Komuna Shëngjin,Komuna e Shengjinit,Komuna e Shëngjinit,Qyteti i Shengjinit,Qyteti i Shëngjinit,Shengjin,Shëngjin	41.81667	19.58333	A	ADM3	AL		48	10944410	3184138		0		53	Europe/Tirane	2022-12-13
+3184169	Komuna e Shalësit	Komuna e Shalesit	Komuna Shales,Komuna Shalës,Komuna e Shalesit,Komuna e Shalësit,Shales,Shalës	41.01667	19.91667	A	ADM3	AL		43	10944382	3184169		0		152	Europe/Tirane	2022-12-13
+3184173	Komuna e Shalës	Komuna e Shales	Komuna Shale,Komuna Shalë,Komuna e Shales,Komuna e Shalës,Shale,Shalë	42.33333	19.75	A	ADM3	AL		49	10944415	3184173		0		1133	Europe/Tirane	2022-12-13
+3184178	Komuna e Sevasterit	Komuna e Sevasterit	Komuna Sevaster,Komuna e Sevasterit,Sevaster	40.4	19.73333	A	ADM3	AL		51	10944427	3184178		0		280	Europe/Tirane	2022-12-13
+3184198	Bashkia e Selenicës	Bashkia e Selenices	Bashkia Selenice,Bashkia Selenicë,Bashkia e Selenices,Bashkia e Selenicës,Qyteti i Selenices,Qyteti i Selenicës,Selenice,Selenicë	40.53333	19.63333	A	ADM3	AL		51	10944427	3184198		0		62	Europe/Tirane	2022-12-13
+3184211	Komuna e Farkës	Komuna e Farkes	Farke,Farkë,Komuna Sauk,Komuna e Farkes,Komuna e Farkës,Komuna e Saukut,Sauk	41.28333	19.86667	A	ADM3	AL		50	10944420	3184211		0		178	Europe/Tirane	2022-12-13
+3184239	Bashkia e Rubikut	Bashkia e Rubikut	Bashkia e Rubikut,Komuna Rubik,Qyteti i Rubikut,Rubik	41.76667	19.75	A	ADM3	AL		48	10944411	3184239		0		119	Europe/Tirane	2022-12-13
+3184253	Bashkia e Rrogozhinës	Bashkia e Rrogozhines	Bashkia Rrogozhine,Bashkia Rrogozhinë,Bashkia e Rrogozhines,Bashkia e Rrogozhinës,Qyteti i Rrogozhines,Qyteti i Rrogozhinës,Rrogozhine,Rrogozhinë	41.08333	19.65	A	ADM3	AL		50	10944419	3184253		0		66	Europe/Tirane	2022-12-13
+3184265	Bashkia e Rrëshenit	Bashkia e Rreshenit	Bashkia Rreshen,Bashkia Rrëshen,Bashkia e Rreshenit,Bashkia e Rrëshenit,Qyteti i Rreshenit,Qyteti i Rrëshenit,Rreshen,Rrëshen	41.78333	19.9	A	ADM3	AL		48	10944411	3184265		0		160	Europe/Tirane	2022-12-13
+3184272	Komuna e Rrashbullit	Komuna e Rrashbullit	Komuna Rrushbull,Komuna e Rrashbullit,Rrashbull	41.3	19.53333	A	ADM3	AL		42	10944377	3184272		0		23	Europe/Tirane	2022-12-13
+3184278	Komuna e Rrasës	Komuna e Rrases	Komuna Rrase,Komuna Rrasë,Komuna e Rrases,Komuna e Rrasës,Rrase,Rrasë	40.96667	19.83333	A	ADM3	AL		43	10944381	3184278		0		121	Europe/Tirane	2022-12-13
+3184291	Bashkia e Roskovecit	Bashkia e Roskovecit	Bashkia Roskovec,Bashkia e Roskovecit,Qyteti i Roskovecit,Roskovec	40.75	19.7	A	ADM3	AL		44	10944392	3184291		0		10	Europe/Tirane	2022-12-13
+3184317	Komuna e Remasit	Komuna e Remasit	Komuna Remas,Komuna e Remasit,Remas	40.9	19.51667	A	ADM3	AL		44	10944387	3184317		0		1	Europe/Tirane	2022-12-13
+3184360	Komuna e Qesaratit	Komuna e Qesaratit	Komuna Qesarat,Komuna e Qesaratit,Qesarat	40.4	19.9	A	ADM3	AL		45	10944397	3184360		0		399	Europe/Tirane	2022-12-13
+3184365	Komuna e Qerretit	Komuna e Qerretit	Komuna Qerret,Komuna e Qerretit,Qerret	42	19.83333	A	ADM3	AL		49	10944414	3184365		0		673	Europe/Tirane	2022-12-13
+3184375	Komuna e Qelëzës	Komuna e Qelezes	Komuna Qelez,Komuna Qelëz,Komuna e Qelezes,Komuna e Qelëzës,Qelez,Qeleza,Qellez,Qellëz,Qelëz,Qelëza	42.1	19.88333	A	ADM3	AL		49	10944414	3184375		0		261	Europe/Tirane	2022-12-13
+3184389	Bashkia e Pukës	Bashkia e Pukes	Bashkia Puke,Bashkia Pukë,Bashkia e Pukes,Bashkia e Pukës,Puke,Pukë,Qyteti i Pukes,Qyteti i Pukës	42.05	19.9	A	ADM3	AL		49	10944414	3184389		0		786	Europe/Tirane	2022-12-13
+3184398	Komuna e Kurveleshit	Komuna e Kurveleshit	Komuna Kurvelesh,Komuna e Kurveleshit,Kurvelesh,Progonat	40.21667	19.93333	A	ADM3	AL		45	10944399	3184398		0		935	Europe/Tirane	2022-12-13
+3184409	Komuna e Prezës	Komuna e Prezes	Komuna Preze,Komuna Prezë,Komuna e Prezes,Komuna e Prezës,Preze,Prezë	41.43333	19.66667	A	ADM3	AL		50	10944421	3184409		0		193	Europe/Tirane	2022-12-13
+3184418	Komuna e Poshnjës	Komuna e Poshnjes	Komuna Poshnje,Komuna Poshnjë,Komuna e Poshnjes,Komuna e Poshnjës,Poshnje,Poshnjë	40.81667	19.83333	A	ADM3	AL		40	10944372	3184418		0		21	Europe/Tirane	2022-12-13
+3184472	Komuna e Pezës	Komuna e Pezes	Komuna Peze,Komuna Pezë,Komuna e Pezes,Komuna e Pezës,Peze,Pezë	41.21667	19.71667	A	ADM3	AL		50	10944420	3184472		0		274	Europe/Tirane	2022-12-13
+3184475	Komuna e Petrelës	Komuna e Petreles	Komuna Petrele,Komuna Petrelë,Komuna e Petreles,Komuna e Petrelës,Petrele,Petrelë	41.27132	19.89426	A	ADM3	AL		50	10944420	3184475		0		232	Europe/Tirane	2022-12-28
+3184486	Komuna e Përparimit	Komuna e Perparimit	Komuna Perparim,Komuna Përparim,Komuna e Perparimit,Komuna e Përparimit,Perparim,Përparim	41.06667	19.8	A	ADM3	AL		43	10944385	3184486		0		151	Europe/Tirane	2022-12-13
+3184491	Komuna e Perondit	Komuna e Perondit	Komuna Perondi,Komuna e Perondit,Perhondi,Perondi	40.78333	19.91667	A	ADM3	AL		40	10944369	3184491		0		35	Europe/Tirane	2022-12-13
+3184498	Bashkia e Peqinit	Bashkia e Peqinit	Bashkia Peqin,Bashkia e Peqinit,Peqin,Qyteti i Peqinit	41.05	19.75	A	ADM3	AL		43	10944385	3184498		0		62	Europe/Tirane	2022-12-13
+3184520	Bashkia e Patosit	Bashkia e Patosit	Bashkia Patos,Bashkia e Patosit,Patos,Qyteti i Patosit	40.68333	19.65	A	ADM3	AL		44	10944391	3184520		0		73	Europe/Tirane	2022-12-13
+3184539	Komuna e Papërit	Komuna e Paperit	Komuna Paper,Komuna Papër,Komuna e Paperit,Komuna e Papërit,Paper,Papër	41.1	19.93333	A	ADM3	AL		43	10944380	3184539		0		195	Europe/Tirane	2022-12-13
+3184563	Komuna e Pajovës	Komuna e Pajoves	Komuna Pajove,Komuna Pajovë,Komuna e Pajoves,Komuna e Pajovës,Pajove,Pajovë	41.08333	19.85	A	ADM3	AL		43	10944385	3184563		0		333	Europe/Tirane	2022-12-13
+3184576	Bashkia e Orikumit	Bashkia e Orikumit	Bashkia Orikum,Bashkia e Orikumit,Komuna Orikum,Orikum,Qyteti i Orikumit	40.33333	19.46667	A	ADM3	AL		51	10944428	3184576		0		-1	Europe/Tirane	2022-12-13
+3184584	Komuna e Ana e Malit	Komuna e Ana e Malit	Ana Malit,Ana e Malit,Komuna Ana Malit,Komuna e Ana e Malit,Oblike,Oblikë	42.01667	19.41667	A	ADM3	AL		49	10944415	3184584		0		7	Europe/Tirane	2022-12-13
+3184589	Komuna e Novoselës	Komuna e Novoseles	Komuna Novosele,Komuna Novoselë,Komuna e Novoseles,Komuna e Novoselës,Novosele,Novoselë	40.6	19.43333	A	ADM3	AL		51	10944428	3184589		0		1	Europe/Tirane	2022-12-13
+3184595	Komuna e Niklës	Komuna e Nikles	Komuna Nikel,Komuna Nikël,Komuna e Nikles,Komuna e Niklës,Nikel,Nikël	41.45	19.78333	A	ADM3	AL		42	10944378	3184595		0		118	Europe/Tirane	2022-12-13
+3184612	Komuna e Ndroqit	Komuna e Ndroqit	Komuna Ndroq,Komuna e Ndroqit,Ndroq	41.26667	19.65	A	ADM3	AL		50	10944420	3184612		0		48	Europe/Tirane	2022-12-13
+3184703	Komuna e Milotit	Komuna e Milotit	Komuna Milot,Komuna e Milotit,Milot,Qyteti i Milotit	41.63333	19.78333	A	ADM3	AL		48	10944409	3184703		0		164	Europe/Tirane	2022-12-13
+3184725	Komuna e Postribës	Komuna e Postribes	Komuna Postribe,Komuna Postribë,Komuna e Postribes,Komuna e Postribës,Mes,Postribe,Postribë	42.13333	19.63333	A	ADM3	AL		49	10944415	3184725		0		189	Europe/Tirane	2022-12-13
+3184744	Bashkia e Memaliajt	Bashkia e Memaliajt	Bashkia Memaliaj,Bashkia e Memaliajt,Memaliaj,Qyteti i Memaliajt	40.34778	19.97833	A	ADM3	AL		45	10944397	3184744		0		127	Europe/Tirane	2022-12-13
+3184802	Bashkia e Manzës	Bashkia e Manzes	Bashkia Manez,Bashkia Manëz,Bashkia e Manzes,Bashkia e Manzës,Komuna Manez,Komuna Manëz,Manez,Manëz	41.45	19.56667	A	ADM3	AL		42	10944377	3184802		0		21	Europe/Tirane	2022-12-13
+3184807	Bashkia e Mamurrasit	Bashkia e Mamurrasit	Bashkia e Mamurrasit,Komuna Mamurras,Mamurras,Qyteti i Mamurrasit	41.56667	19.68333	A	ADM3	AL		48	10944409	3184807		0		28	Europe/Tirane	2022-12-13
+3184809	Komuna e Maminasit	Komuna e Maminasit	Komuna Maminas,Komuna e Maminasit,Maminas	41.38333	19.6	A	ADM3	AL		42	10944379	3184809		0		41	Europe/Tirane	2022-12-13
+3184856	Komuna e Luzit i Vogël	Komuna e Luzit i Vogel	Komuna Luz i Vogel,Komuna Luz i Vogël,Komuna e Luzit i Vogel,Komuna e Luzit i Vogël,Luz i Vogel,Luz i Vogël	41.13333	19.56667	A	ADM3	AL		50	10944418	3184856		0		15	Europe/Tirane	2022-12-13
+3184931	Komuna e Libofshës	Komuna e Libofshes	Komuna Libofshe,Komuna Libofshë,Komuna e Libofshes,Komuna e Libofshës,Libofsh,Libofshe,Libofshë	40.83333	19.5	A	ADM3	AL		44	10944388	3184931		0		5	Europe/Tirane	2022-12-13
+3184936	Bashkia e Lezhës	Bashkia e Lezhes	Bashkia Lezhe,Bashkia Lezhë,Bashkia e Lezhes,Bashkia e Lezhës,Lezhe,Lezhë,Qyteti i Lezhes,Qyteti i Lezhës	41.78333	19.65	A	ADM3	AL		48	10944410	3184936		0		150	Europe/Tirane	2022-12-13
+3184949	Komuna e Levanit	Komuna e Levanit	Komuna Levan,Komuna e Levanit,Levan	40.68333	19.45	A	ADM3	AL		44	10944388	3184949		0		1	Europe/Tirane	2022-12-13
+3184970	Komuna e Lekbibajt	Komuna e Lekbibajt	Komuna Lekbibaj,Komuna e Lekbibajt,Lekbibaj	42.31667	19.88333	A	ADM3	AL		47	10944408	3184970		0		1122	Europe/Tirane	2022-12-13
+3184975	Komuna e Lekajt	Komuna e Lekajt	Komuna Lekaj,Komuna e Lekajt,Lekaj	41.13333	19.61667	A	ADM3	AL		50	10944419	3184975		0		34	Europe/Tirane	2022-12-13
+3185013	Bashkia e Laçit	Bashkia e Lacit	Bashkia Lac,Bashkia Laç,Bashkia e Lacit,Bashkia e Laçit,Lac,Laç,Qyteti i Lacit,Qyteti i Laçit	41.63333	19.71667	A	ADM3	AL		48	10944409	3185013		0		43	Europe/Tirane	2022-12-13
+3185016	Komuna e Kutës	Komuna e Kutes	Komuna Krute,Komuna Krutë,Komuna e Kutes,Komuna e Kutës,Kute,Kutë	40.46667	19.76667	A	ADM3	AL		44	10944390	3185016		0		64	Europe/Tirane	2022-12-13
+3185018	Komuna e Kutallit	Komuna e Kutallit	Komuna Kutalli,Komuna e Kutallit,Kutalli	40.8	19.76667	A	ADM3	AL		40	10944372	3185018		0		16	Europe/Tirane	2022-12-13
+3185032	Komuna e Kurjanit	Komuna e Kurjanit	Komuna Kurjan,Komuna e Kurjanit,Kurjan	40.7	19.75	A	ADM3	AL		44	10944392	3185032		0		87	Europe/Tirane	2022-12-13
+3185045	Komuna e Kumanit	Komuna e Kumanit	Komuna Kuman,Komuna e Kumanit,Kuman	40.71667	19.68333	A	ADM3	AL		44	10944392	3185045		0		82	Europe/Tirane	2022-12-13
+3185061	Bashkia e Kuçovës	Bashkia e Kucoves	Bashkia Kucove,Bashkia Kuçovë,Bashkia e Kucoves,Bashkia e Kuçovës,Kucove,Kuçovë,Qyteti i Kucoves,Qyteti i Kuçovës	40.79889	19.91667	A	ADM3	AL		40	10944369	3185061		47985		58	Europe/Tirane	2022-12-13
+3185070	Komuna e Kryevidhit	Komuna e Kryevidhit	Komuna Kryevidh,Komuna e Kryevidhit,Kryevidh	41.1	19.5	A	ADM3	AL		50	10944419	3185070		0		54	Europe/Tirane	2022-12-13
+3185078	Komuna e Krutjës	Komuna e Krutjes	Komuna Krutje,Komuna e Krutjes,Komuna e Krutjës,Krutje	40.86667	19.71667	A	ADM3	AL		44	10944389	3185078		0		12	Europe/Tirane	2022-12-13
+3185083	Bashkia e Krujës	Bashkia e Krujes	Bashkia Kruje,Bashkia Krujë,Bashkia e Krujes,Bashkia e Krujës,Kruje,Krujë,Qyteti i Krujes,Qyteti i Krujës	41.5	19.8	A	ADM3	AL		42	10944378	3185083		0		401	Europe/Tirane	2022-12-13
+3185108	Komuna e Kozarës	Komuna e Kozares	Komuna Kozare,Komuna Kozarë,Komuna e Kozares,Komuna e Kozarës,Kozare,Kozarë	40.83333	19.9	A	ADM3	AL		40	10944369	3185108		0		30	Europe/Tirane	2022-12-13
+3185114	Komuna e Kotës	Komuna e Kotes	Komuna Kote,Komuna Kotë,Komuna e Kotes,Komuna e Kotës,Kote,Kotë	40.38333	19.58333	A	ADM3	AL		51	10944427	3185114		0		196	Europe/Tirane	2022-12-13
+3185134	Bashkia e Koplikut	Bashkia e Koplikut	Bashkia Koplik,Bashkia e Koplikut,Koplik,Qyteti i Koplikut	42.21667	19.43333	A	ADM3	AL		49	10944413	3185134		0		60	Europe/Tirane	2022-12-13
+3185141	Komuna e Komësit	Komuna e Komesit	Komesi,Komsi,Komuna Komsi,Komuna e Komesit,Komuna e Komësit,Komësi	41.58333	19.96667	A	ADM3	AL		41	10944376	3185141		0		344	Europe/Tirane	2022-12-13
+3185212	Bashkia e Kavajës	Bashkia e Kavajes	Bashkia Kavaje,Bashkia Kavajë,Bashkia e Kavajes,Bashkia e Kavajës,Kavaje,Kavajë,Qyteti i Kavajes,Qyteti i Kavajës	41.18333	19.55	A	ADM3	AL		50	10944418	3185212		0		16	Europe/Tirane	2022-12-13
+3185219	Komuna e Katundit i Ri	Komuna e Katundit i Ri	Katund i Ri,Katundi i Ri,Komuna Katundi i Ri,Komuna e Katundit i Ri	41.4	19.45	A	ADM3	AL		42	10944377	3185219		0		1	Europe/Tirane	2022-12-13
+3185235	Komuna e Kasharit	Komuna e Kasharit	Kashar,Komuna Kashar,Komuna e Kasharit	41.35	19.71667	A	ADM3	AL		50	10944420	3185235		0		160	Europe/Tirane	2022-12-13
+3185247	Komuna e Karinës	Komuna e Karines	Karine,Karinë,Komuna Korine,Komuna Korinë,Komuna e Karines,Komuna e Karinës	41.08333	19.73333	A	ADM3	AL		43	10944385	3185247		0		223	Europe/Tirane	2022-12-13
+3185271	Bashkia e Kamzës	Bashkia e Kamzes	Bashkia e Kamzes,Bashkia e Kamzës,Kamez,Kamze,Kamzë,Kamëz,Komuna Kamez,Komuna Kamëz	41.38333	19.75	A	ADM3	AL		50	10944417	3185271		0		46	Europe/Tirane	2022-12-13
+3185291	Komuna e Kallmetit	Komuna e Kallmetit	Kallmet,Komuna Kallmet,Komuna e Kallmetit	41.83333	19.66667	A	ADM3	AL		48	10944410	3185291		0		58	Europe/Tirane	2022-12-13
+3185316	Komuna e Kajanit	Komuna e Kajanit	Kajan,Komuna Kajan,Komuna e Kajanit	40.91667	19.9	A	ADM3	AL		43	10944381	3185316		0		187	Europe/Tirane	2022-12-13
+3185322	Komuna e Kaçinarit	Komuna e Kacinarit	Kacinar,Kaçinar,Komuna Kacinar,Komuna Kaçinar,Komuna e Kacinarit,Komuna e Kaçinarit	41.9	19.9	A	ADM3	AL		48	10944411	3185322		0		527	Europe/Tirane	2022-12-13
+3185352	Komuna e Ishmit	Komuna e Ishmit	Ishem,Ishmi,Ishëm,Komuna Ishem,Komuna Ishëm,Komuna e Ishmit	41.53333	19.55	A	ADM3	AL		42	10944377	3185352		0		89	Europe/Tirane	2022-12-13
+3185360	Komuna e Iballës	Komuna e Iballes	Iballe,Iballë,Komuna Iballe,Komuna Iballë,Komuna e Iballes,Komuna e Iballës	42.16667	19.95	A	ADM3	AL		49	10944412	3185360		0		825	Europe/Tirane	2022-12-13
+3185378	Bashkia e Himarës	Bashkia e Himares	Bashkia Himare,Bashkia Himarë,Bashkia e Himares,Bashkia e Himarës,Himare,Himarë,Komuna Himare,Komuna Himarë,Qyteti i Himares,Qyteti i Himarës	40.13333	19.73333	A	ADM3	AL		51	10944424	3185378		0		228	Europe/Tirane	2022-12-13
+3185382	Komuna e Helmasit	Komuna e Helmasit	Helmas,Helmes,Helmës,Komuna Helmes,Komuna Helmës,Komuna e Helmasit	41.2	19.61667	A	ADM3	AL		50	10944418	3185382		0		121	Europe/Tirane	2022-12-13
+3185387	Komuna e Hekalit	Komuna e Hekalit	Hekal,Komuna Hekal,Komuna e Hekalit	40.56667	19.7	A	ADM3	AL		44	10944390	3185387		0		198	Europe/Tirane	2022-12-13
+3185432	Komuna e Gurit i Zi	Komuna e Gurit i Zi	Gur i Zi,Guri i Zi,Komuna Guri i Zi,Komuna e Gurit i Zi	42.05	19.56667	A	ADM3	AL		49	10944415	3185432		0		49	Europe/Tirane	2022-12-13
+3185470	Komuna e Grekanit	Komuna e Grekanit	Grekan,Komuna Grekan,Komuna e Grekanit	40.91667	19.95	A	ADM3	AL		43	10944381	3185470		0		128	Europe/Tirane	2022-12-13
+3185473	Komuna e Qendrës	Komuna e Qendres	Grecalli,Komuna Qender,Komuna Qender Fier,Komuna Qendër,Komuna Qendër Fier,Komuna e Qendres,Komuna e Qendrës,Qender,Qendër	40.76667	19.55	A	ADM3	AL		44	10944388	3185473		0		5	Europe/Tirane	2022-12-13
+3185492	Komuna e Gracenit	Komuna e Gracenit	Gracen,Komuna Gracen,Komuna e Gracenit	41.16667	19.95	A	ADM3	AL		43	10944380	3185492		0		762	Europe/Tirane	2022-12-16
+3185495	Komuna e Grabjanit	Komuna e Grabjanit	Grabian,Grabjan,Komuna Grabian,Komuna e Grabianit,Komuna e Grabjanit	40.95	19.58333	A	ADM3	AL		44	10944387	3185495		0		25	Europe/Tirane	2022-12-13
+3185568	Komuna e Gjocajt	Komuna e Gjocajt	Gjocaj,Komuna Gjocaj,Komuna e Gjocajt	41.01667	19.73333	A	ADM3	AL		43	10944385	3185568		0		87	Europe/Tirane	2022-12-13
+3185581	Komuna e Gjepalajt	Komuna e Gjepalajt	Gjepalaj,Komuna Gjepalaj,Komuna e Gjepalajt	41.33333	19.58333	A	ADM3	AL		42	10944379	3185581		0		76	Europe/Tirane	2022-12-13
+3185639	Bashkia e Fushë-Krujës	Bashkia e Fushe-Krujes	Bashkia e Fushe-Krujes,Bashkia e Fushë-Krujës,Fushe-Kruje,Fushë-Krujë,Komuna Fushe-Kruje,Komuna Fushë-Krujë,Qyteti i Fushe-Krujes,Qyteti i Fushë-Krujës	41.48333	19.71667	A	ADM3	AL		42	10944378	3185639		0		22	Europe/Tirane	2022-12-13
+3185653	Komuna e Frakullës	Komuna e Frakulles	Frakull,Frakulle,Frakullë,Komuna Frakulle,Komuna Frakullë,Komuna e Frakulles,Komuna e Frakullës	40.65	19.5	A	ADM3	AL		44	10944388	3185653		0		7	Europe/Tirane	2022-12-13
+3185665	Komuna e Fier-Sheganit	Komuna e Fier-Sheganit	Fier-Shegan,Komuna Fier-Shegan,Komuna e Fier-Sheganit	40.86667	19.78333	A	ADM3	AL		44	10944389	3185665		0		18	Europe/Tirane	2022-12-13
+3185673	Bashkia e Fierit	Bashkia e Fierit	Bashkia Fier,Bashkia e Fierit,Fier,Qyteti i Fierit	40.73694	19.55083	A	ADM3	AL		44	10944388	3185673		0		14	Europe/Tirane	2022-12-13
+3185729	Bashkia e Durrësit	Bashkia e Durresit	Bashkia Durres,Bashkia Durrës,Bashkia e Durresit,Bashkia e Durrësit,Durres,Durrës,Qyteti i Durresit,Qyteti i Durrësit	41.31667	19.43333	A	ADM3	AL		42	10944377	3185729		0		21	Europe/Tirane	2022-12-13
+3185741	Komuna e Qendrës	Komuna e Qendres	Dukas,Komuna Fshat Ballsh,Komuna Qender Ballsh,Komuna Qendër Ballsh,Komuna e Qendres,Komuna e Qendrës,Qender,Qendër	40.61667	19.7	A	ADM3	AL		44	10944390	3185741		0		434	Europe/Tirane	2022-12-13
+3185798	Bashkia e Divjakës	Bashkia e Divjakes	Bashkia Divjake,Bashkia Divjakë,Bashkia e Divjakes,Bashkia e Divjakës,Divjake,Divjakë,Komuna Divjake,Komuna Divjakë	41	19.5	A	ADM3	AL		44	10944387	3185798		0		-4	Europe/Tirane	2022-12-13
+3185816	Komuna e Dermenasit	Komuna e Dermenasit	Dermenas,Komuna Dermenas,Komuna Dërmenas,Komuna e Dermenasit	40.75	19.5	A	ADM3	AL		44	10944388	3185816		0		3	Europe/Tirane	2022-12-13
+3185848	Komuna e Dajçit	Komuna e Dajcit	Dajc,Dajc-Bregu i Bunes,Dajç,Dajç-Bregu i Bunës,Komuna Dajc,Komuna Dajç,Komuna e Dajcit,Komuna e Dajçit	41.98333	19.4	A	ADM3	AL		49	10944415	3185848		0		5	Europe/Tirane	2022-12-13
+3185849	Komuna e Dajçit	Komuna e Dajcit	Dajc,Dajç,Komuna Dajc,Komuna Dajç,Komuna e Dajcit,Komuna e Dajçit	41.9	19.58333	A	ADM3	AL		48	10944410	3185849		0		5	Europe/Tirane	2022-12-13
+3185898	Bashkia e Cërrikut	Bashkia e Cerrikut	Bashkia Cerrik,Bashkia Cërrik,Bashkia e Cerrikut,Bashkia e Cërrikut,Cerrik,Cërrik,Qyteti i Cerrikut,Qyteti i Cërrikut	41.03333	19.98333	A	ADM3	AL		43	10944382	3185898		0		78	Europe/Tirane	2022-12-13
+3185926	Komuna e Cakranit	Komuna e Cakranit	Cakran,Komuna Cakran,Komuna e Cakranit	40.6	19.61667	A	ADM3	AL		44	10944388	3185926		0		52	Europe/Tirane	2022-12-13
+3185940	Komuna e Bushatit	Komuna e Bushatit	Bushat,Komuna Bushat,Komuna e Bushatit	41.95	19.5	A	ADM3	AL		49	10944416	3185940		0		2	Europe/Tirane	2022-12-13
+3185962	Komuna e Bubullimës	Komuna e Bubullimes	Bubullime,Bubullimë,Komuna Bubullime,Komuna Bubullimë,Komuna e Bubullimes,Komuna e Bubullimës	40.81667	19.65	A	ADM3	AL		44	10944389	3185962		0		9	Europe/Tirane	2022-12-13
+3186026	Komuna e Blinishtit	Komuna e Blinishtit	Blinisht,Komuna Blinisht,Komuna e Blinishtit	41.88333	19.65	A	ADM3	AL		48	10944410	3186026		0		8	Europe/Tirane	2022-12-13
+3186054	Komuna e Bubqit	Komuna e Bubqit	Bilaj,Bubq,Komuna Bubq,Komuna e Bubqit	41.48333	19.66667	A	ADM3	AL		42	10944378	3186054		0		12	Europe/Tirane	2022-12-13
+3186069	Komuna e Bërzhitës	Komuna e Berzhites	Berzhite,Bërzhitë,Komuna Berzhite,Komuna Bërzhitë,Komuna e Berzhites,Komuna e Bërzhitës	41.23333	19.93333	A	ADM3	AL		50	10944420	3186069		0		272	Europe/Tirane	2022-12-13
+3186085	Bashkia e Beratit	Bashkia e Beratit	Bashkia Berat,Bashkia e Beratit,Berat,Qyteti i Beratit	40.7	19.93333	A	ADM3	AL		40	10944368	3186085		0		56	Europe/Tirane	2022-12-13
+3186094	Bashkia e Belshit	Bashkia e Belshit	Bashkia e Belshit,Belesh,Belsh,Komuna Belsh	40.98333	19.88333	A	ADM3	AL		43	10944381	3186094		0		153	Europe/Tirane	2022-12-13
+3186104	Komuna e Bazit	Komuna e Bazit	Baz,Komuna Baze,Komuna Bazë,Komuna e Bazit	41.61667	19.91667	A	ADM3	AL		41	10944376	3186104		0		535	Europe/Tirane	2022-12-13
+3186131	Komuna e Barbullushit	Komuna e Barbullushit	Barbullush,Komuna Barbullush,Komuna e Barbullushit	41.91667	19.53333	A	ADM3	AL		49	10944416	3186131		0		6	Europe/Tirane	2022-12-13
+3186154	Komuna e Ballagatit	Komuna e Ballagatit	Ballagat,Komuna Ballagat,Komuna e Ballagatit	41	19.75	A	ADM3	AL		44	10944389	3186154		0		146	Europe/Tirane	2022-12-13
+3186156	Komuna e Balldushkut	Komuna e Balldushkut	Baldushk,Balldushk,Komuna Baldushk,Komuna e Balldushkut	41.2	19.83333	A	ADM3	AL		50	10944420	3186156		0		265	Europe/Tirane	2022-12-13
+3186162	Komuna e Kastratit	Komuna e Kastratit	Bajze,Bajzë,Kastrat,Komuna Kastrat,Komuna e Kastratit	42.31667	19.43333	A	ADM3	AL		49	10944413	3186162		0		26	Europe/Tirane	2022-12-13
+3186185	Komuna e Armenit	Komuna e Armenit	Armen,Komuna Armen,Komuna e Armenit	40.53333	19.6	A	ADM3	AL		51	10944427	3186185		0		83	Europe/Tirane	2022-12-13
+3186197	Komuna e Aranitasit	Komuna e Aranitasit	Aranitas,Aranites,Komuna Aranitas,Komuna e Aranitasit	40.61667	19.78333	A	ADM3	AL		44	10944390	3186197		0		253	Europe/Tirane	2022-12-13
+3315075	Komuna e Kërrabës	Komuna e Kerrabes	Komuna e Kerrabes,Komuna e Kërrabës,Krrabe,Krrabë	41.21447	19.96499	A	ADM3	AL		50	10944420	3315075		0		485	Europe/Tirane	2022-12-28
+3315382	Komuna e Dajtit	Komuna e Dajtit	Dajt,Komuna Dajt,Komuna e Dajtit	41.33333	19.93333	A	ADM3	AL		50	10944420	3315382		0		928	Europe/Tirane	2022-12-13
+3315383	Komuna e Balldrenit i Ri	Komuna e Balldrenit i Ri	Balldre,Balldren i Ri,Komuna Balldre i Ri,Komuna e Balldrenit i Ri	41.86667	19.58333	A	ADM3	AL		48	10944410	3315383		0		286	Europe/Tirane	2022-12-13
+3315389	Komuna e Qendërit	Komuna e Qenderit	Komuna Qender,Komuna Qendër,Komuna e Qenderit,Komuna e Qendërit,Qender,Qendër	42.21667	19.46667	A	ADM3	AL		49	10944413	3315389		0		119	Europe/Tirane	2022-12-13
+3315390	Komuna e Gruemirës	Komuna e Gruemires	Gruemire,Gruemirë,Komuna Gruemire,Komuna Gruemirë,Komuna e Gruemires,Komuna e Gruemirës	42.16667	19.5	A	ADM3	AL		49	10944413	3315390		0		72	Europe/Tirane	2022-12-13
+3315391	Komuna e Shkrelit	Komuna e Shkrelit	Komuna Shkrel,Komuna e Shkrelit,Shkrel	42.3	19.58333	A	ADM3	AL		49	10944413	3315391		0		1230	Europe/Tirane	2022-12-13
+3315392	Komuna e Pultit	Komuna e Pultit	Komuna Pult,Komuna e Pultit,Pult	42.25	19.68333	A	ADM3	AL		49	10944415	3315392		0		465	Europe/Tirane	2022-12-13
+3315393	Komuna e Temalit	Komuna e Temalit	Komuna Temal,Komuna e Temalit,Temal	42.15	19.81667	A	ADM3	AL		49	10944416	3315393		0		760	Europe/Tirane	2022-12-13
+3315394	Komuna e Rrethinës	Komuna e Rrethines	Komuna Rrethine,Komuna Rrethinë,Komuna e Rrethines,Komuna e Rrethinës,Rrethinat,Rrethine,Rrethinë	42.1	19.53333	A	ADM3	AL		49	10944415	3315394		0		30	Europe/Tirane	2022-12-13
+3315395	Komuna e Bërdicës	Komuna e Berdices	Berdice,Berdicë,Komuna Berdice,Komuna Berdicë,Komuna e Berdices,Komuna e Bërdicës	42	19.5	A	ADM3	AL		49	10944415	3315395		0		7	Europe/Tirane	2022-12-13
+3315396	Bashkia e Vau i Dejës	Bashkia e Vau i Dejes	Bashkia Vau i Dejes,Bashkia Vau i Dejës,Bashkia e Vau i Dejes,Bashkia e Vau i Dejës,Komuna Luc,Komuna Luç,Lac,Laç,Vau i Dejes,Vau i Dejës	42.01667	19.65	A	ADM3	AL		49	10944416	3315396		0		103	Europe/Tirane	2022-12-13
+3315397	Komuna e Vig-Mnelës	Komuna e Vig-Mneles	Komuna Mnelo-Vig,Komuna e Vig-Mneles,Komuna e Vig-Mnelës,Mnele-Vig,Vig-Mnel,Vig-Mnele,Vig-Mnell,Vig-Mnelë	41.95	19.7	A	ADM3	AL		49	10944416	3315397		0		185	Europe/Tirane	2022-12-13
+3315398	Komuna e Hajmelit	Komuna e Hajmelit	Hajmel,Komuna Hajmel,Komuna e Hajmelit	41.95	19.61667	A	ADM3	AL		49	10944416	3315398		0		14	Europe/Tirane	2022-12-13
+3315399	Komuna e Rrapës	Komuna e Rrapes	Komuna Rrape,Komuna Rrapë,Komuna e Rrapes,Komuna e Rrapës,Rrape,Rrapë	42.03333	19.96667	A	ADM3	AL		49	10944414	3315399		0		617	Europe/Tirane	2022-12-13
+3315400	Komuna e Kthellës	Komuna e Kthelles	Komuna Kthelle,Komuna Kthellë,Komuna e Kthelles,Komuna e Kthellës,Kthelle,Kthellë,Kthjelle,Kthjellë	41.71667	19.95	A	ADM3	AL		48	10944411	3315400		0		294	Europe/Tirane	2022-12-13
+3315401	Komuna e Kolçit	Komuna e Kolcit	Kolc,Kolsh,Kolç,Komuna Kolsh,Komuna e Kolcit,Komuna e Kolçit	41.78333	19.68333	A	ADM3	AL		48	10944410	3315401		0		276	Europe/Tirane	2022-12-13
+3315402	Komuna e Shënkollit	Komuna e Shenkollit	Komuna Shenkoll,Komuna Shënkoll,Komuna e Shenkollit,Komuna e Shënkollit,Shenkoll,Shënkoll	41.7	19.63333	A	ADM3	AL		48	10944410	3315402		0		0	Europe/Tirane	2022-12-13
+3315443	Komuna e Fushë-Kuqejës	Komuna e Fushe-Kuqejes	Fushe-Kuqe,Fushë-Kuqe,Komuna Fushe-Kuqe,Komuna Fushë-Kuqe,Komuna e Fushe-Kuqejes,Komuna e Fushë-Kuqejës	41.63333	19.61667	A	ADM3	AL		48	10944409	3315443		0		-5	Europe/Tirane	2022-12-13
+3315444	Komuna e Kodër Thumanës	Komuna e Koder Thumanes	Koder Thumane,Kodër Thumanë,Komuna Koder Thumane,Komuna Kodër Thumanë,Komuna e Koder Thumanes,Komuna e Kodër Thumanës,Thumane,Thumanë	41.53333	19.66667	A	ADM3	AL		42	10944378	3315444		0		5	Europe/Tirane	2022-12-13
+3315445	Komuna e Cudhit	Komuna e Cudhit	Cudhi,Komuna Cudhi,Komuna e Cudhit	41.50833	19.85	A	ADM3	AL		42	10944378	3315445		0		684	Europe/Tirane	2022-12-13
+3315446	Komuna e Xhafzotajt	Komuna e Xhafzotajt	Komuna Xhafzotaj,Komuna e Xhafzotajt,Xhafzotaj	41.35	19.55	A	ADM3	AL		42	10944379	3315446		0		18	Europe/Tirane	2022-12-13
+3315447	Komuna e Bërxullit	Komuna e Berxullit	Berxull,Berxulle,Bërxull,Bërxullë,Komuna Berxull,Komuna Bërxull,Komuna e Berxullit,Komuna e Bërxullit	41.38333	19.7	A	ADM3	AL		50	10944421	3315447		0		42	Europe/Tirane	2022-12-13
+3315448	Komuna e Paskuqanit	Komuna e Paskuqanit	Komuna Paskuqan,Komuna e Paskuqanit,Paskuqan	41.36667	19.8	A	ADM3	AL		50	10944417	3315448		0		101	Europe/Tirane	2022-12-13
+12501064	Gramsh	Gramsh		40.86037	20.18203	A	ADM3	AL		43	10944383	12501064		0		182	Europe/Tirane	2022-12-11
+12501065	Berat	Berat		40.70755	19.95004	A	ADM3	AL		40	10944368	12501065		0		90	Europe/Tirane	2022-12-11
+12501066	Markat	Markat		39.70621	20.19636	A	ADM3	AL		51	10944425	12501066		0		895	Europe/Tirane	2022-12-11
+12501067	Cukalat	Cukalat		40.72475	19.78736	A	ADM3	AL		40	10944372	12501067		0		207	Europe/Tirane	2022-12-11
+12501068	Ngracan	Ngracan		40.65822	19.77998	A	ADM3	AL		44	10944390	12501068		0		354	Europe/Tirane	2022-12-11
+12501069	Krume	Krume		42.18451	20.4047	A	ADM3	AL		47	10944406	12501069		0		629	Europe/Tirane	2022-12-11
+12501070	Synej	Synej		41.15564	19.5045	A	ADM3	AL		50	10944418	12501070		0		15	Europe/Tirane	2022-12-11
+12501071	Aliko	Aliko		39.82238	20.06232	A	ADM3	AL		51	10944423	12501071		0		4	Europe/Tirane	2022-12-11
+12501072	Dhiver	Dhiver		39.8377	20.20131	A	ADM3	AL		51	10944423	12501072		0		607	Europe/Tirane	2022-12-11
+12501073	Greshice	Greshice		40.56578	19.76945	A	ADM3	AL		44	10944390	12501073		0		253	Europe/Tirane	2022-12-11
+12501074	Otllak	Otllak		40.75487	19.94417	A	ADM3	AL		40	10944368	12501074		0		44	Europe/Tirane	2022-12-11
+12501075	Vertop	Vertop		40.6484	20.07198	A	ADM3	AL		40	10944370	12501075		0		459	Europe/Tirane	2022-12-11
+12501076	Qender	Qender		40.51126	20.20838	A	ADM3	AL		40	10944371	12501076		0		382	Europe/Tirane	2022-12-11
+12501077	Bogove	Bogove		40.58931	20.15409	A	ADM3	AL		40	10944371	12501077		0		715	Europe/Tirane	2022-12-11
+12501078	Klos	Klos		40.96461	20.02278	A	ADM3	AL		43	10944382	12501078		0		341	Europe/Tirane	2022-12-11
+12501079	Bradashesh	Bradashesh		41.12698	20.02327	A	ADM3	AL		43	10944380	12501079		0		175	Europe/Tirane	2022-12-11
+12501080	Fierz	Fierz		40.91865	19.83325	A	ADM3	AL		43	10944381	12501080		0		149	Europe/Tirane	2022-12-11
+12501081	Labinot Mal	Labinot Mal		41.22237	20.15333	A	ADM3	AL		43	10944380	12501081		0		836	Europe/Tirane	2022-12-11
+12501082	Tregan	Tregan		41.01127	20.10701	A	ADM3	AL		43	10944380	12501082		0		362	Europe/Tirane	2022-12-11
+12501083	Kushove	Kushove		40.77783	20.16416	A	ADM3	AL		43	10944383	12501083		0		439	Europe/Tirane	2022-12-11
+12501084	Rrajce	Rrajce		41.09436	20.56957	A	ADM3	AL		43	10944386	12501084		0		854	Europe/Tirane	2022-12-11
+12501085	Sult	Sult		40.89812	20.0874	A	ADM3	AL		43	10944383	12501085		0		360	Europe/Tirane	2022-12-11
+12501086	Portez	Portez		40.68118	19.58779	A	ADM3	AL		44	10944388	12501086		0		141	Europe/Tirane	2022-12-11
+12501087	Antigone	Antigone		40.09444	20.18661	A	ADM3	AL		45	10944394	12501087		0		275	Europe/Tirane	2022-12-11
+12501088	Mbrostar Ura	Mbrostar Ura		40.77965	19.59963	A	ADM3	AL		44	10944388	12501088		0		8	Europe/Tirane	2022-12-11
+12501089	Ruzhdie	Ruzhdie		40.66911	19.68785	A	ADM3	AL		44	10944391	12501089		0		263	Europe/Tirane	2022-12-11
+12501090	Topoje	Topoje		40.81222	19.43664	A	ADM3	AL		44	10944388	12501090		0		0	Europe/Tirane	2022-12-11
+12501091	Allkaj	Allkaj		40.8467	19.74517	A	ADM3	AL		44	10944389	12501091		0		13	Europe/Tirane	2022-12-11
+12501092	Dushk	Dushk		41.01346	19.65896	A	ADM3	AL		44	10944389	12501092		0		4	Europe/Tirane	2022-12-11
+12501093	Golem	Golem		40.96625	19.67405	A	ADM3	AL		44	10944389	12501093		0		3	Europe/Tirane	2022-12-11
+12501094	Gradishte	Gradishte		40.89746	19.5831	A	ADM3	AL		44	10944387	12501094		0		55	Europe/Tirane	2022-12-11
+12501095	Hysgjokaj	Hysgjokaj		40.97346	19.78387	A	ADM3	AL		44	10944389	12501095		0		81	Europe/Tirane	2022-12-11
+12501096	Karbunare	Karbunare		40.9284	19.7607	A	ADM3	AL		44	10944389	12501096		0		117	Europe/Tirane	2022-12-11
+12501097	Kolonje	Kolonje		40.85447	19.6163	A	ADM3	AL		44	10944389	12501097		0		6	Europe/Tirane	2022-12-11
+12501098	Fratar	Fratar		40.51331	19.81188	A	ADM3	AL		44	10944390	12501098		0		289	Europe/Tirane	2022-12-11
+12501099	Selite	Selite		40.55017	19.84168	A	ADM3	AL		44	10944390	12501099		0		468	Europe/Tirane	2022-12-11
+12501100	Lunxheri	Lunxheri		40.14141	20.1587	A	ADM3	AL		45	10944394	12501100		0		298	Europe/Tirane	2022-12-11
+12501101	Odrie	Odrie		40.19266	20.10916	A	ADM3	AL		45	10944394	12501101		0		300	Europe/Tirane	2022-12-11
+12501102	Qender Piskove	Qender Piskove		40.29714	20.30483	A	ADM3	AL		45	10944398	12501102		0		336	Europe/Tirane	2022-12-11
+12501103	Qender Libohove	Qender Libohove		40.05619	20.2515	A	ADM3	AL		45	10944396	12501103		0		240	Europe/Tirane	2025-09-26
+12501104	Dishnice	Dishnice		40.33709	20.19493	A	ADM3	AL		45	10944395	12501104		0		355	Europe/Tirane	2022-12-11
+12501105	Fshat Mem	Fshat Mem		40.34772	19.9944	A	ADM3	AL		45	10944397	12501105		0		212	Europe/Tirane	2022-12-11
+12501106	Krahes	Krahes		40.45485	19.8573	A	ADM3	AL		45	10944397	12501106		0		274	Europe/Tirane	2022-12-11
+12501107	Luftinje	Luftinje		40.40465	19.97646	A	ADM3	AL		45	10944397	12501107		0		214	Europe/Tirane	2022-12-28
+12501108	Qender	Qender		40.29196	19.95443	A	ADM3	AL		45	10944399	12501108		0		766	Europe/Tirane	2022-12-28
+12501109	Qender Erseke	Qender Erseke		40.34562	20.69679	A	ADM3	AL		46	10944401	12501109		0		1111	Europe/Tirane	2022-12-30
+12501110	Bilisht	Bilisht		40.59708	21.02042	A	ADM3	AL		46	10944400	12501110		0		1028	Europe/Tirane	2022-12-30
+12501111	Libonik	Libonik		40.70818	20.7204	A	ADM3	AL		46	10944403	12501111		0		797	Europe/Tirane	2022-12-28
+12501112	Gore	Gore		40.75537	20.54149	A	ADM3	AL		46	10944403	12501112		0		1053	Europe/Tirane	2022-12-11
+12501113	Moglice	Moglice		40.69108	20.40442	A	ADM3	AL		46	10944403	12501113		0		848	Europe/Tirane	2022-12-11
+12501114	Mollaj	Mollaj		40.52747	20.70982	A	ADM3	AL		46	10944402	12501114		0		918	Europe/Tirane	2022-12-11
+12501115	Qender	Qender		40.65264	20.78544	A	ADM3	AL		46	10944402	12501115		0		823	Europe/Tirane	2022-12-11
+12501116	Voskop	Voskop		40.61241	20.67455	A	ADM3	AL		46	10944402	12501116		0		1140	Europe/Tirane	2022-12-11
+12501117	Vreshtas	Vreshtas		40.78775	20.78393	A	ADM3	AL		46	10944403	12501117		0		812	Europe/Tirane	2022-12-11
+12501118	Cerrave	Cerrave		40.85818	20.76205	A	ADM3	AL		46	10944404	12501118		0		888	Europe/Tirane	2022-12-11
+12501119	Dardhas	Dardhas		40.83036	20.60407	A	ADM3	AL		46	10944404	12501119		0		1154	Europe/Tirane	2022-12-11
+12501120	Proptisht	Proptisht		40.98722	20.53605	A	ADM3	AL		46	10944404	12501120		0		846	Europe/Tirane	2022-12-11
+12501121	Golem	Golem		41.22043	19.53544	A	ADM3	AL		50	10944418	12501121		0		6	Europe/Tirane	2022-12-11
+12501122	Gose	Gose		41.09136	19.61544	A	ADM3	AL		50	10944419	12501122		0		18	Europe/Tirane	2022-12-28
+12501123	Sinaballaj	Sinaballaj		41.1029	19.69803	A	ADM3	AL		50	10944419	12501123		0		91	Europe/Tirane	2022-12-11
+12501124	Ksamil	Ksamil		39.76771	20.00164	A	ADM3	AL		51	10944426	12501124		0		7	Europe/Tirane	2022-12-11
+12501125	Xarre	Xarre		39.70988	20.05519	A	ADM3	AL		51	10944425	12501125		0		9	Europe/Tirane	2022-12-11
+12501126	Brataj	Brataj		40.30271	19.68938	A	ADM3	AL		51	10944427	12501126		0		372	Europe/Tirane	2022-12-11
+12501127	Qender	Qender		40.50543	19.47629	A	ADM3	AL		51	10944428	12501127		0		41	Europe/Tirane	2022-12-11
+12501128	Vllahine	Vllahine		40.46203	19.65535	A	ADM3	AL		51	10944427	12501128		0		154	Europe/Tirane	2022-12-11
+12501129	Shushice	Shushice		40.53816	19.5351	A	ADM3	AL		51	10944428	12501129		0		27	Europe/Tirane	2022-12-11
+12501305	Lushnje	Lushnje		40.92404	19.68338	A	ADM3	AL		44	10944389	10944389		0		7	Europe/Tirane	2022-12-16

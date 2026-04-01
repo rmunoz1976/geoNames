@@ -1,0 +1,15 @@
+﻿6940966	Gamle Oslo District	Gamle Oslo District	Bydel Gamle Oslo	59.90592	10.769	A	ADM3	NO		12	0301	01		58671		19	Europe/Oslo	2023-03-18
+6940975	Grünerløkka District	Gruenerlokka District	Bydel Gruenerlokka,Bydel Grünerløkka	59.92307	10.75622	A	ADM3	NO		12	0301	02		62423		27	Europe/Oslo	2023-03-18
+6940976	Sagene District	Sagene District	Bydel Sagene	59.93816	10.7557	A	ADM3	NO		12	0301	03		45089		83	Europe/Oslo	2023-03-17
+6940977	St. Hanshaugen District	St. Hanshaugen District		59.91997	10.72673	A	ADM3	NO		12	0301	04		38945		44	Europe/Oslo	2023-03-18
+6940978	Frogner District	Frogner District	Bydel Frogner	59.91726	10.69639	A	ADM3	NO		12	0301	05		59269		22	Europe/Oslo	2023-03-18
+6940979	Ullern District	Ullern District	Bydel Ullern	59.92384	10.65957	A	ADM3	NO		12	0301	06		34596		43	Europe/Oslo	2023-03-18
+6940980	Vestre Aker District	Vestre Aker District	Bydel Vestre Aker	59.95002	10.67219	A	ADM3	NO		12	0301	07		50157		132	Europe/Oslo	2023-03-18
+6940981	Nordre Aker District	Nordre Aker District	Bydel Nordre Aker	59.95746	10.74592	A	ADM3	NO		12	0301	08		52327		150	Europe/Oslo	2023-03-18
+6940982	Bjerke District	Bjerke District	Bydel Bjerke	59.94074	10.81329	A	ADM3	NO		12	0301	09		0		161	Europe/Oslo	2023-03-18
+6940983	Grorud District	Grorud District	Bydel Grorud	59.95995	10.88153	A	ADM3	NO		12	0301	10		27707		195	Europe/Oslo	2023-03-18
+6940985	Alna District	Alna District	Bydel Alna	59.92345	10.85698	A	ADM3	NO		12	0301	12		49801		167	Europe/Oslo	2023-03-18
+6940987	Nordstrand District	Nordstrand District	Bydel Nordstrand	59.85956	10.79844	A	ADM3	NO		12	0301	14		52459		123	Europe/Oslo	2023-03-18
+6940988	Søndre Nordstrand District	Sondre Nordstrand District	Bydel Sondre Nordstrand,Bydel Søndre Nordstrand	59.838	10.796	A	ADM3	NO		12	0301	15		39066		90	Europe/Oslo	2023-03-18
+6940989	Sentrum	Sentrum		59.90981	10.74154	A	ADM3	NO		12	0301	16		1471		24	Europe/Oslo	2023-03-18
+6940990	Marka	Marka		59.97954	10.73982	A	ADM3	NO		12	0301	17		1610		231	Europe/Oslo	2023-03-18

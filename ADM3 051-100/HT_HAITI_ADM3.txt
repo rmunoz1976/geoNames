@@ -1,0 +1,145 @@
+﻿3715942	Saut d'Eau	Saut d'Eau	Commune de Saut d'Eau,Saut d'Eau,Sodo,Ville Bonheur	18.82972	-72.24054	A	ADM3	HT		07	3720809	3715942		0		737	America/Port-au-Prince	2020-02-07
+3716045	Verrettes	Verrettes	Commune de Verrettes,Veret,Verrettes,Vèrèt	19.02186	-72.4852	A	ADM3	HT		06	3717587	3716045		0		229	America/Port-au-Prince	2020-02-07
+3716116	Vallières	Vallieres	Commune de Vallieres,Commune de Vallières,Vallieres,Vallières,Valye,Valyè	19.4461	-71.95725	A	ADM3	HT		10	3716114	3716116		0		426	America/Port-au-Prince	2020-02-07
+3716225	Trou du Nord	Trou du Nord	Commune de Trou du Nord,Trou di No,Trou di Nò,Trou du Nord	19.58633	-72.01689	A	ADM3	HT		10	3716223	3716225		0		58	America/Port-au-Prince	2020-02-07
+3716264	Bonbon	Bonbon	Bon Bon,Bonbon,Commune de Bonbon,Trou Bonbon	18.63219	-74.24189	A	ADM3	HT		14		3716264		0		78	America/Port-au-Prince	2020-02-07
+3716404	Torbeck	Torbeck	Commune de Torbeck,Tobek,Torbeck,Tòbèk	18.25906	-73.88194	A	ADM3	HT		12	3728096	3716404		0		124	America/Port-au-Prince	2020-02-07
+3716620	Tiburon	Tiburon	Commune de Tiburon,Tibiwon,Tiburon	18.33344	-74.32483	A	ADM3	HT		12	3727900	3716620		0		192	America/Port-au-Prince	2020-02-07
+3716666	Thomonde	Thomonde	Commune de Thomonde,Thomonde,Tomond	18.97462	-71.97325	A	ADM3	HT		07	3723840	3716666		0		255	America/Port-au-Prince	2020-02-07
+3716668	Thomazeau	Thomazeau	Commune de Thomazeau,Thomazeau,Tomazo	18.6589	-72.13365	A	ADM3	HT		11	3727134	3716668		0		76	America/Port-au-Prince	2020-02-07
+3716670	Thomassique	Thomassique	Commune de Thomassique,Thomassique,Tomasik	19.07937	-71.8302	A	ADM3	HT		07	3728053	3716670		0		299	America/Port-au-Prince	2020-02-07
+3716678	Thiotte	Thiotte	Commune de Thiotte,Thiotte,Tyot,Tyòt	18.21657	-71.85423	A	ADM3	HT		13	3730361	3716678		0		711	America/Port-au-Prince	2020-02-07
+3716738	Terrier Rouge	Terrier Rouge	Commune de Terrier Rouge,Terrier Rouge,Terye Wouj,Tèrye Wouj	19.63759	-71.93359	A	ADM3	HT		10	3716223	3716738		0		35	America/Port-au-Prince	2020-02-07
+3716789	Terre Neuve	Terre Neuve	Commune de Terre Neuve,Tenev,Terre Neuve,Tènèv	19.61819	-72.81231	A	ADM3	HT		06	3724144	3716789		0		330	America/Port-au-Prince	2020-02-07
+3717237	Savanette	Savanette	Commune de Savanette,Savanet,Savanette,Savanèt	18.74543	-71.85361	A	ADM3	HT		07	3722578	3717237		0		429	America/Port-au-Prince	2020-02-07
+3717547	Sen Rafayèl	Sen Rafayel	Commune de Saint Raphael,Commune de Saint Raphaël,Commune de Saint-Raphael,Commune de Saint-Raphaël,Saint Raphael,Saint Raphaël,Saint-Raphael,Saint-Raphaël,Sen Rafayel,Sen Rafayèl	19.40223	-72.19187	A	ADM3	HT		09	3717545	3717547		0		361	America/Port-au-Prince	2020-02-07
+3717565	Commune de Saint-Michel de l'Attalaye	Commune de Saint-Michel de l'Attalaye	Commune de Saint-Michel de l'Attalaye,Saint Michel de l'Attalaye,Saint-Michel,Saint-Michel de l'Attalaye,Sen Michel Latalay,Sen Michèl Latalay	19.34682	-72.34029	A	ADM3	HT		06		3717565		0		392	America/Port-au-Prince	2020-02-07
+3717590	Saint-Marc	Saint-Marc	Commune de Saint-Marc,Saint-Marc,San Marcos,Sen Mak,Sen-Mark,saengmaleu,san mark,sheng ma ke,Сен-Марк,سان مارك,سینٹ-مارک,サン・マルク,圣马克,생마르	19.1104	-72.65162	A	ADM3	HT		06		3717590		0		112	America/Port-au-Prince	2020-02-07
+3717597	Sen Lwi di Sid	Sen Lwi di Sid	Commune de Saint Louis du Sud,Saint Louis du Sud,Saint-Louis du Sud,Sen Lwi di Sid	18.29246	-73.53583	A	ADM3	HT		12	3731094	3717597		0		88	America/Port-au-Prince	2020-02-07
+3717601	Saint-Louis du Nord	Saint-Louis du Nord	Commune de Saint-Louis du Nord,Saint-Louis du Nord,Sen Lwi di No,Sen Lwi di Nò	19.87848	-72.70819	A	ADM3	HT		03	3717599	3717601		0		125	America/Port-au-Prince	2020-02-07
+3717618	Sen Jan di Sid	Sen Jan di Sid	Commune de Saint Jean du Sud,Saint Jean du Sud,Saint-Jean du Sud,Sen Jan di Sid	18.06314	-73.84298	A	ADM3	HT		12	3718404	3717618		0		120	America/Port-au-Prince	2020-02-07
+3717648	Commune de Sainte Suzanne	Commune de Sainte Suzanne	Commune de Sainte Suzanne,Sainte Suzanne,Sainte-Suzanne,Sent Sizan,Sent Sizàn	19.53014	-72.06593	A	ADM3	HT		10	3716223	3717648		0		499	America/Port-au-Prince	2020-02-07
+3717801	Roseaux	Roseaux	Commune des Roseaux,Roseaux	18.51194	-74.05649	A	ADM3	HT		14	3727381	3717801		0		479	America/Port-au-Prince	2020-02-07
+3717917	Wòchabato	Wochabato	Commune de Roche a Bateau,Commune de Roche à Bateau,Commune de Roche à Bâteau,Roche a Bateau,Roche a Bateaux,Roche à Bateau,Roche à Bateaux,Roche-a-Bateau,Roche-à-Bateau,Wochabato,Wòchabato	18.19927	-73.97308	A	ADM3	HT		12		3717917		0		144	America/Port-au-Prince	2020-02-07
+3718200	Ranquitte	Ranquitte	Commune de Ranquitte,Rankit,Ranquite,Ranquitte	19.4042	-72.05928	A	ADM3	HT		09	3717545	3718200		0		516	America/Port-au-Prince	2020-02-07
+3718279	Katye Moren	Katye Moren	Commune de Quartier Morin,Katye Moren,Qartier-Morin,Quartier Morin,Quartier-Morin	19.67949	-72.16821	A	ADM3	HT		09		3718279		0		24	America/Port-au-Prince	2020-02-07
+3718407	Port-Salut	Port-Salut	Commune de Port-Salut,Po Sali,Port-Salut,Pò Sali	18.09214	-73.89573	A	ADM3	HT		12	3718404	3718407		0		138	America/Port-au-Prince	2020-02-07
+3718412	Port Margot	Port Margot	Commune de Port Margot,Commune de Port-Margot,Po Mago,Port Margot,Pò Mago	19.75397	-72.46388	A	ADM3	HT		09		3718412		0		69	America/Port-au-Prince	2020-02-07
+3718422	Port-de-Paix	Port-de-Paix	Commune de Port-de-Paix,Podpe,Port-de-Paix,Pòdpè	19.8627	-72.93385	A	ADM3	HT		03	3718419	3718422		0		75	America/Port-au-Prince	2020-02-07
+3718427	Port-au-Prince	Port-au-Prince	Commune de Port-au-Prince,Port-au-Prince,Potoprens,Puerto Principe,Puerto Príncipe,Pòtoprens	18.52557	-72.33697	A	ADM3	HT		11	3718425	3718427		0		106	America/Port-au-Prince	2020-02-07
+3718432	Port-à-Piment	Port-a-Piment	Commune de Port-a-Piment,Commune de Port-à-Piment,Port a Piment,Port à Piment,Port-a-Piment,Port-à-Piment,Potipiman,Pòtipiman	18.28889	-74.0693	A	ADM3	HT		12	3727295	3718432		0		98	America/Port-au-Prince	2020-02-07
+3718526	Pointe à Raquette	Pointe a Raquette	Commune de Pointe a Raquette,Commune de Pointe à Raquette,Pointe a Raquette,Pointe a Raquettes,Pointe à Raquette,Pointe à Raquettes,Pwentaraket,Pwentarakèt	18.85905	-73.16351	A	ADM3	HT		11	3723019	3718526		0		157	America/Port-au-Prince	2020-02-07
+3718673	Plaisance	Plaisance	Commune de Plaisance,Plaisance,Plezans	19.5937	-72.48012	A	ADM3	HT		09	3718665	3718673		0		346	America/Port-au-Prince	2020-02-07
+3718708	Plaine du Nord	Plaine du Nord	Commune de Plaine du Nord,Plaine du Nord,Plen di No,Plèn di Nò	19.67766	-72.26118	A	ADM3	HT		09	3731232	3718708		0		17	America/Port-au-Prince	2020-02-07
+3718827	Pilate	Pilate	Commune de Pilate,Pilat,Pilate	19.69658	-72.55324	A	ADM3	HT		09	3718665	3718827		0		537	America/Port-au-Prince	2020-02-07
+3718836	Pignon	Pignon	Commune de Pignon,Pignon,Piyon	19.32854	-72.10906	A	ADM3	HT		09	3717545	3718836		0		344	America/Port-au-Prince	2020-02-07
+3718939	Petit Trou de Nippes	Petit Trou de Nippes	Commune de Petit Trou de Nippes,Petit Trou de Nippes,Ti Twou de Nip	18.47479	-73.48899	A	ADM3	HT		15	3731122	3718939		0		150	America/Port-au-Prince	2020-02-07
+3718963	Tigwav	Tigwav	Commune de Petit Goave,Commune de Petit Goâve,Commune de Petit-Goave,Commune de Petit-Goâve,Petit Goave,Petit Goâve,Petit-Goave,Petit-Goâve,Tigwav	18.3743	-72.92827	A	ADM3	HT		11	3722285	3718963		0		705	America/Port-au-Prince	2020-02-07
+3718973	Ti Rivyè Latibonit	Ti Rivye Latibonit	Commune de Petite Riviere de l'Artibonite,Commune de Petite Rivière de l'Artibonite,Petite Riviere de l'Artibonite,Petite Riviere l'Artibonite,Petite Rivière de l'Artibonite,Petite Rivière l'Artibonite,Petite de l'Artibonite,Ti Rivye Latibonit,Ti Rivyè Latibonit	19.07884	-72.37247	A	ADM3	HT		06	3726539	3718973		0		366	America/Port-au-Prince	2020-06-11
+3718976	Petite Rivière de Nippes	Petite Riviere de Nippes	Commune de Petite Riviere de Nippes,Commune de Petite Rivière de Nippes,Petite Riviere de Nippes,Petite Rivière de Nippes,Ti Rivye de Nip,Ti Rivyè de Nip	18.45621	-73.20405	A	ADM3	HT		15	3720823	3718976		0		118	America/Port-au-Prince	2020-02-07
+3719029	Petyon-Vil	Petyon-Vil	Commune de Petion-Ville,Commune de Pétion-Ville,Petion-Ville,Petyon-Vil,Pétion-Ville	18.49353	-72.25934	A	ADM3	HT		11		3719029		0		762	America/Port-au-Prince	2020-02-07
+3719036	Pestel	Pestel	Commune de Pestel,Pestel,Pestèl	18.51194	-73.81147	A	ADM3	HT		14	3727381	3719036		0		267	America/Port-au-Prince	2020-02-07
+3719100	Perches	Perches	Commune de Perches,Les Perches,Pech,Perches,Pèch	19.51781	-71.93482	A	ADM3	HT		10	3725169	3719100		0		201	America/Port-au-Prince	2020-02-07
+3719437	Ouanaminthe	Ouanaminthe	Commune de Ouanaminthe,Ouanaminthe,Wanament	19.50451	-71.77142	A	ADM3	HT		10	3719435	3719437		0		76	America/Port-au-Prince	2020-02-07
+3720456	Moron	Moron	Commune de Moron,Monwon,Moron	18.48935	-74.27578	A	ADM3	HT		14	3723592	3720456		0		373	America/Port-au-Prince	2020-02-07
+3720668	Montòrganize	Montorganize	Commune de Mont-Organise,Commune de Mont-Organisé,Mont Organise,Mont Organisé,Mont-Organise,Mont-Organisé,Montorganize,Montòrganize	19.38621	-71.78941	A	ADM3	HT		10	3719435	3720668		0		636	America/Port-au-Prince	2020-02-07
+3720746	Mombin Crochu	Mombin Crochu	Commune de Mombin Crochu,Mombin Crochu,Monben Kwochi	19.33125	-71.8976	A	ADM3	HT		10	3716114	3720746		0		626	America/Port-au-Prince	2020-02-07
+3720767	Mòl Sen Nikola	Mol Sen Nikola	Commune de Mole Saint Nicolas,Commune de Môle Saint Nicolas,Mol Sen Nikola,Mole Saint Nicolas,Mole Saint-Nicolas,Mòl Sen Nikola,Môle Saint Nicolas,Môle Saint-Nicolas	19.78788	-73.34716	A	ADM3	HT		03	3720764	3720767		0		215	America/Port-au-Prince	2020-02-07
+3720812	Mirebalais	Mirebalais	Commune de Mirebalais,Mibale,Mibalè,Mirebalais	18.78634	-72.0838	A	ADM3	HT		07	3720809	3720812		0		163	America/Port-au-Prince	2020-02-07
+3720826	Miragoâne	Miragoane	Commune de Miragoane,Commune de Miragoâne,Miragoane,Miragoâne,Miragwan,Miragwàn	18.35905	-73.05845	A	ADM3	HT		15	3720823	3720826		0		293	America/Port-au-Prince	2020-02-07
+3720855	Milot	Milot	Commune de Milot,Milo,Milot	19.65336	-72.21775	A	ADM3	HT		09	3731232	3720855		0		20	America/Port-au-Prince	2020-02-07
+3721281	Marmelade	Marmelade	Commune de Marmelade,Mamelad,Marmelade	19.52432	-72.37596	A	ADM3	HT		06	3717563	3721281		0		684	America/Port-au-Prince	2020-02-07
+3721314	Marigot	Marigot	Commune de Marigot,Marigo,Marigot	18.28854	-72.30154	A	ADM3	HT		13	3723778	3721314		0		679	America/Port-au-Prince	2020-02-07
+3721712	Mayisad	Mayisad	Commune de Maissade,Commune de Maïssade,Maissade,Mayisad,Maïssade	19.19028	-72.18016	A	ADM3	HT		07		3721712		0		270	America/Port-au-Prince	2020-02-07
+3722111	Limonade	Limonade	Commune de Limonade,Limonad,Limonade	19.67135	-72.11029	A	ADM3	HT		09		3722111		0		21	America/Port-au-Prince	2020-02-07
+3722125	Lenbe	Lenbe	Commune du Limbe,Commune du Limbé,Lenbe,Limbe,Limbé	19.65632	-72.41472	A	ADM3	HT		09		3722125		0		133	America/Port-au-Prince	2020-02-07
+3722240	Commune des Irois	Commune des Irois	Commune des Irois,Irois,Les Irois,Leziwa,Lèziwa	18.39746	-74.38298	A	ADM3	HT		14	3731116	3722240		0		500	America/Port-au-Prince	2020-02-07
+3722245	Cayes	Cayes	Cayes,Commune des Cayes,Les Cayes,Okay	18.26843	-73.76002	A	ADM3	HT		12	3728096	3722245		0		41	America/Port-au-Prince	2020-02-07
+3722254	Les Anglais	Les Anglais	Commune des Anglais,Les Anglais,Lezangle,Lèzanglè	18.35109	-74.1811	A	ADM3	HT		12	3727900	3722254		0		408	America/Port-au-Prince	2020-02-07
+3722287	Leyogàn	Leyogan	Commune de Leogane,Commune de Léogane,Commune de Léogâne,Leogane,Leyogan,Leyogàn,Léogane,Léogâne	18.44085	-72.59309	A	ADM3	HT		11	3722285	3722287		0		155	America/Port-au-Prince	2020-02-07
+3722392	La Victoire	La Victoire	Commune La Victoire,La Victoire,La Viktwa	19.34949	-72.02798	A	ADM3	HT		09	3717545	3722392		0		436	America/Port-au-Prince	2020-02-07
+3722412	Lavale Jakmèl	Lavale Jakmel	Commune la Vallee,Commune la Vallee de Jacmel,Commune la Vallée,Commune la Vallée de Jacmel,La Vallee,La Vallee de Jacmel,La Vallée,La Vallée de Jacmel,Lavale Jakmel,Lavale Jakmèl	18.28558	-72.68453	A	ADM3	HT		13	3723778	3722412		0		621	America/Port-au-Prince	2024-05-30
+3722564	L'Asile	L'Asile	Commune de l'Asile,L'Asile,Lazil	18.37311	-73.43351	A	ADM3	HT		15	3731122	3722564		0		165	America/Port-au-Prince	2020-02-07
+3722580	Lascahobas	Lascahobas	Commune de Lascahobas,Lascahobas,Laskawobas	18.8346	-71.96071	A	ADM3	HT		07	3722578	3722580		0		285	America/Port-au-Prince	2020-02-07
+3723295	La Chapelle	La Chapelle	Commune de la Chapelle,La Chapelle,Lachapel,Lachapèl	18.90913	-72.33435	A	ADM3	HT		06		3723295		0		142	America/Port-au-Prince	2020-02-07
+3723441	Kenscoff	Kenscoff	Commune de Kenscoff,Kenscoff,Kenskof,Kenskòf	18.40332	-72.29113	A	ADM3	HT		11	3718425	3723441		0		1343	America/Port-au-Prince	2020-02-07
+3723596	Jeremi	Jeremi	Commune de Jeremie,Commune de Jérémie,Jeremi,Jeremie,Jérémie	18.55085	-74.1303	A	ADM3	HT		14	3723592	3723596		0		305	America/Port-au-Prince	2020-02-07
+3723621	Jean Rabel	Jean Rabel	Commune de Jean Rabel,Jan Rabel,Jan Rabèl,Jean Rabel	19.83323	-73.12499	A	ADM3	HT		03	3720764	3723621		0		257	America/Port-au-Prince	2020-02-07
+3723781	Jacmel	Jacmel	Commune de Jacmel,Jacmel,Jakmel,Jakmèl	18.29741	-72.52335	A	ADM3	HT		13	3723778	3723781		0		243	America/Port-au-Prince	2020-02-07
+3723843	Hinche	Hinche	Commune de Hinche,Ench,Hinche	19.15627	-72.01948	A	ADM3	HT		07		3723843		0		259	America/Port-au-Prince	2020-02-07
+3724170	Gros Morne	Gros Morne	Commune de Gros Morne,Gromon,Gromòn,Gros Morne	19.70386	-72.70655	A	ADM3	HT		06	3724144	3724170		0		252	America/Port-au-Prince	2020-02-07
+3724234	Gressier	Gressier	Commune de Gressier,Gressier,Gresye	18.51176	-72.5122	A	ADM3	HT		11	3718425	3724234		0		260	America/Port-au-Prince	2020-02-07
+3724332	Grand Gosier	Grand Gosier	Commune de Grand Gosier,Gran Gozye,Grand Gosier,Grand Gossier	18.25896	-71.90475	A	ADM3	HT		13	3730361	3724332		0		654	America/Port-au-Prince	2020-02-07
+3724338	Grangwav	Grangwav	Commune de Grand Goave,Commune de Grand Goâve,Commune de Grand-Goave,Commune de Grand-Goâve,Grand Goave,Grand Goâve,Grangwav	18.36297	-72.75575	A	ADM3	HT		11	3722285	3724338		0		693	America/Port-au-Prince	2020-02-07
+3724436	Grande Saline	Grande Saline	Commune de Grande Saline,Grande Saline,Grann Salin	19.26433	-72.7002	A	ADM3	HT		06	3726539	3724436		0		5	America/Port-au-Prince	2020-02-07
+3724440	Grande Rivière du Nord	Grande Riviere du Nord	Commune de Grande Riviere du Nord,Commune de Grande Rivière du Nord,Grande Riviere du Nord,Grande Rivière du Nord,Grann Rivye di No,Grann Rivyè di Nò	19.55384	-72.16484	A	ADM3	HT		09	3724438	3724440		0		125	America/Port-au-Prince	2020-02-07
+3724698	Gonayiv	Gonayiv	Commune des Gonaives,Commune des Gonaïves,Gonaives,Gonayiv,Gonaïves	19.48456	-72.63359	A	ADM3	HT		06	3724695	3724698		0		42	America/Port-au-Prince	2020-02-07
+3724988	Ganthier	Ganthier	Commune de Ganthier,Ganthier,Gantye	18.49673	-72.01338	A	ADM3	HT		11	3727134	3724988		0		177	America/Port-au-Prince	2020-02-07
+3725172	Fòlibète	Folibete	Commune de Fort-Liberte,Commune de Fort-Liberté,Folibete,Fort Liberte,Fort Liberté,Fort-Liberte,Fort-Liberté,Fòlibète	19.5745	-71.85374	A	ADM3	HT		10	3725169	3725172		0		53	America/Port-au-Prince	2020-02-07
+3725223	Commune de Fonds Verrettes	Commune de Fonds Verrettes	Commune de Fonds Verrettes,Commune de Fonds-Verrettes,Fon Veret,Fon Vèrèt,Fond Verrettes,Fonds Verrettes	18.35379	-71.84135	A	ADM3	HT		11		3725223		0		1465	America/Port-au-Prince	2020-02-07
+3725521	Ferrier	Ferrier	Commune de Ferrier,Ferrier,Ferye,Fèrye	19.64597	-71.76699	A	ADM3	HT		10		3725521		0		9	America/Port-au-Prince	2020-02-07
+3725664	Ennery	Ennery	Commune d'Ennery,Ennery,Ennri	19.48906	-72.48274	A	ADM3	HT		06	3724695	3725664		0		370	America/Port-au-Prince	2020-02-07
+3726265	Dondon	Dondon	Commune de Dondon,Dondon	19.52028	-72.27172	A	ADM3	HT		09	3717545	3726265		0		444	America/Port-au-Prince	2020-02-07
+3726542	Dessalines	Dessalines	Commune de Dessalines,Desalin,Dessalines	19.22149	-72.45363	A	ADM3	HT		06		3726542		0		56	America/Port-au-Prince	2020-02-07
+3726643	Desdunes	Desdunes	Commune de Desdunes,Dedin,Desdunes	19.31014	-72.68954	A	ADM3	HT		06	3726539	3726643		0		5	America/Port-au-Prince	2020-02-07
+3726791	Delmas	Delmas	Commune de Delmas,Delma,Delmas,Dèlma	18.55514	-72.29803	A	ADM3	HT		11	3718425	3726791		395260		75	America/Port-au-Prince	2020-02-07
+3727058	Dame Marie	Dame Marie	Commune de Dame Marie,Dam Mari,Dame Marie	18.5619	-74.39428	A	ADM3	HT		14	3731116	3727058		0		224	America/Port-au-Prince	2020-02-07
+3727136	Croix des Bouquets	Croix des Bouquets	Commune de Croix des Bouquets,Commune de la Croix-des-Bouquets,Croix des Bouquets,Kwadebouke,Kwadèbouke	18.54799	-72.1886	A	ADM3	HT		11	3727134	3727136		0		106	America/Port-au-Prince	2020-02-07
+3727289	Kotdefè	Kotdefe	Commune de Cotes de Fer,Commune de Côtes de Fer,Cotes de Fer,Cotes-de-Fer,Côtes de Fer,Côtes-de-Fer,Kotdefe,Kotdefè	18.23136	-72.9502	A	ADM3	HT		13	3730910	3727289		0		519	America/Port-au-Prince	2020-02-07
+3727299	Koto	Koto	Commune des Coteaux,Commune des Côteaux,Coteaux,Côteaux,Koto	18.24491	-74.02749	A	ADM3	HT		12	3727295	3727299		0		552	America/Port-au-Prince	2020-02-07
+3727328	Cornillon	Cornillon	Commune de Cornillon,Cornillon,Grand Bois,Koniyon,Kòniyon	18.68748	-71.93106	A	ADM3	HT		11		3727328		0		1141	America/Port-au-Prince	2020-02-07
+3727429	Corail	Corail	Commune de Corail,Corail,Koray	18.53604	-73.91088	A	ADM3	HT		14	3727381	3727429		0		95	America/Port-au-Prince	2020-02-07
+3727901	Chardonnières	Chardonnieres	Chadonye,Chadonyè,Chardonnieres,Chardonnières,Commune de Chardonnieres,Commune de Chardonnières	18.33512	-74.10356	A	ADM3	HT		12	3727900	3727901		0		616	America/Port-au-Prince	2020-02-07
+3727945	Chantal	Chantal	Chantal,Commune de Chantal	18.28177	-73.97337	A	ADM3	HT		12	3728096	3727945		0		707	America/Port-au-Prince	2020-02-07
+3727985	Chambellan	Chambellan	Chambellan,Chanbelan,Chanbellan,Chanbèlan,Commune de Chambellan	18.52022	-74.33302	A	ADM3	HT		14	3723592	3727985		0		119	America/Port-au-Prince	2020-02-07
+3728055	Cerca la Source	Cerca la Source	Cerca la Source,Commune de Cerca la Source,Seka Lasous,Sèka Lasous	19.18929	-71.75183	A	ADM3	HT		07	3728053	3728055		0		597	America/Port-au-Prince	2020-02-07
+3728063	Cerca Carvajal	Cerca Carvajal	Cerca Carvajal,Commune de Cerca Carvajal,Seka Kavajal,Sèka Kavajal	19.26323	-71.94554	A	ADM3	HT		07	3723840	3728063		0		438	America/Port-au-Prince	2020-02-07
+3728123	Cavaillon	Cavaillon	Cavaillon,Commune de Cavaillon,Kavayon	18.33408	-73.63752	A	ADM3	HT		12		3728123		0		135	America/Port-au-Prince	2020-02-07
+3728339	Carrefour	Carrefour	Carrefour,Commune de Carrefour,Kafou	18.46642	-72.40942	A	ADM3	HT		11	3718425	3728339		0		569	America/Port-au-Prince	2020-02-07
+3728387	Carice	Carice	Carice,Commune de Carice,Karis	19.35343	-71.82293	A	ADM3	HT		10	3716114	3728387		0		650	America/Port-au-Prince	2020-02-07
+3728432	Caracol	Caracol	Caracol,Commune de Caracol,Karakol,Karakòl	19.68244	-72.00111	A	ADM3	HT		10	3716223	3728432		0		11	America/Port-au-Prince	2020-02-07
+3728452	Capotille	Capotille	Capotille,Commune de Capotille,Kapotiy	19.45447	-71.70217	A	ADM3	HT		10	3719435	3728452		0		120	America/Port-au-Prince	2020-02-07
+3728476	Okap	Okap	Cap-Haitien,Cap-Haïtien,Commune de Cap-Haitien,Commune de Cap-Haïtien,Okap	19.74948	-72.2212	A	ADM3	HT		09	3728473	3728476		0		101	America/Port-au-Prince	2020-02-07
+3728563	Camp Perrin	Camp Perrin	Camp Perrin,Commune de Camp Perrin,Commune de Camp-Perrin,Kan Peren	18.34771	-73.85805	A	ADM3	HT		12	3728096	3728563		0		309	America/Port-au-Prince	2020-02-07
+3729394	Boukan Kare	Boukan Kare	Boucan Carre,Boucan Carré,Boukan Kare,Commune de Boucan Carre,Commune de Boucan Carré	18.95319	-72.15453	A	ADM3	HT		07	3720809	3729394		0		224	America/Port-au-Prince	2020-02-07
+3729456	Borgne	Borgne	Borgne,Commune de Borgne,Oboy	19.80193	-72.57128	A	ADM3	HT		09	3729454	3729456		0		112	America/Port-au-Prince	2020-02-07
+3729549	Bombardopolis	Bombardopolis	Bombardopolis,Bonbadopolis,Commune de Bombardopolis	19.69545	-73.34617	A	ADM3	HT		03	3720764	3729549		0		505	America/Port-au-Prince	2020-02-07
+3730364	Belans	Belans	Belans,Belle Anse,Belle-Anse,Commune de Belle Anse	18.27819	-72.08614	A	ADM3	HT		13	3730361	3730364		0		501	America/Port-au-Prince	2020-02-07
+3730375	Belladère	Belladere	Belade,Beladè,Belladere,Belladère,Commune de Belladere,Commune de Belladère	18.89528	-71.80605	A	ADM3	HT		07	3722578	3730375		0		318	America/Port-au-Prince	2020-02-07
+3730473	Beaumont	Beaumont	Beaumont,Commune de Beaumont	18.44767	-73.98319	A	ADM3	HT		14	3727381	3730473		0		877	America/Port-au-Prince	2020-02-07
+3730641	Bassin Bleu	Bassin Bleu	Basen Ble,Bassin Bleu,Commune de Bassin Bleu	19.78236	-72.8408	A	ADM3	HT		03	3718419	3730641		0		292	America/Port-au-Prince	2020-02-07
+3730675	Anba Lenbe	Anba Lenbe	Anba Lenbe,Bas Limbe,Bas Limbé,Commune du Bas Limbe,Commune du Bas Limbé	19.75999	-72.39268	A	ADM3	HT		09		3730675		0		11	America/Port-au-Prince	2020-02-07
+3730912	Bainet	Bainet	Bainet,Bene,Benè,Commune de Bainet	18.21369	-72.78656	A	ADM3	HT		13	3730910	3730912		0		156	America/Port-au-Prince	2020-02-07
+3730933	Baie de Henne	Baie de Henne	Baie de Haine,Baie de Henne,Be de En,Be de Èn,Commune de Baie de Henne	19.7	-73.2	A	ADM3	HT		03	3720764	3730933		0		265	America/Port-au-Prince	2020-02-07
+3730939	Bahon	Bahon	Bahon,Baron,Bawon,Commune de Bahon	19.46433	-72.12188	A	ADM3	HT		09	3724438	3730939		0		203	America/Port-au-Prince	2020-02-07
+3731061	Arniquet	Arniquet	Anike,Anikè,Arniquet,Commune d'Arniquet	18.15245	-73.91989	A	ADM3	HT		12	3718404	3731061		0		241	America/Port-au-Prince	2020-02-07
+3731089	Arcahaie	Arcahaie	Akaye,Akayè,Arcahaie,Commune de l'Arcahaie	18.87528	-72.50973	A	ADM3	HT		11	3731086	3731089		0		704	America/Port-au-Prince	2020-02-07
+3731096	Aquin	Aquin	Aken,Aquin,Commune d'Aquin	18.29276	-73.27355	A	ADM3	HT		12	3731094	3731096		0		158	America/Port-au-Prince	2020-02-07
+3731106	Anse Rouge	Anse Rouge	Anse Rouge,Answouj,Commune de l'Anse Rouge	19.6436	-72.96234	A	ADM3	HT		06	3724144	3731106		0		45	America/Port-au-Prince	2020-02-07
+3731118	Anse d'Hainault	Anse d'Hainault	Ansdeno,Anse d'Hainault,Commune d'Anse d'Hainault	18.46776	-74.38951	A	ADM3	HT		14	3731116	3731118		0		366	America/Port-au-Prince	2020-02-07
+3731124	Ansavo	Ansavo	Ansavo,Anse a Veau,Anse à Veau,Anse-a-Veau,Anse-à-Veau,Commune de l'Anse a Veau,Commune de l'Anse à Veau,Commune de l'Anse-a-Veau,Commune de l'Anse-à-Veau	18.48357	-73.33259	A	ADM3	HT		15	3731122	3731124		0		82	America/Port-au-Prince	2020-02-07
+3731127	Ansapit	Ansapit	Ansapit,Anse a Pitre,Anse a Pitres,Anse à Pitre,Anse à Pitres,Anse-a-Pitres,Anse-à-Pitres,Commune de l'Anse a Pitre,Commune de l'Anse à Pitre,Commune de l'Anse-a-Pitre,Commune de l'Anse-à-Pître	18.17024	-71.80494	A	ADM3	HT		13	3730361	3731127		0		405	America/Port-au-Prince	2020-02-07
+3731133	Anse à Galets	Anse a Galets	Ansagale,Ansagalè,Anse a Galets,Anse à Galets,Commune de l'Anse a Galets,Commune de l'Anse à Galets	18.82698	-72.95532	A	ADM3	HT		11	3723019	3731133		0		294	America/Port-au-Prince	2020-02-07
+3731135	Ansafolè	Ansafole	Ansafole,Ansafolè,Anse a Foleur,Anse à Foleur,Anse-a-Foleur,Anse-à-Foleur,Commune d'Anse a Foleur,Commune d'Anse à Foleur,Commune d'Anse-a-Foleur,Commune d'Anse-à-Foleur	19.86086	-72.62662	A	ADM3	HT		03	3717599	3731135		0		451	America/Port-au-Prince	2020-02-07
+3731234	Acul du Nord	Acul du Nord	Acul du Nord,Akil di No,Akil di Nò,Commune de l'Acul du Nord	19.65215	-72.32566	A	ADM3	HT		09	3731232	3731234		0		332	America/Port-au-Prince	2020-02-07
+3731260	Abricots	Abricots	Abricots,Abriko,Commune des Abricots	18.61688	-74.3152	A	ADM3	HT		14	3723592	3731260		0		57	America/Port-au-Prince	2020-02-07
+8581646	Maniche	Maniche		18.35	-73.76667	A	ADM3	HT		12	3728096	8581646		0		73	America/Port-au-Prince	2016-05-13
+8628986	Cité Soleil	Cite Soleil		18.57778	-72.33194	A	ADM3	HT		11	3718425	8628986		0		6	America/Port-au-Prince	2016-05-12
+8628987	Grand Boucan	Grand Boucan		18.55412	-73.58883	A	ADM3	HT		14		8628987		0		5	America/Port-au-Prince	2017-12-25
+8629024	l'Estère	l'Estere		19.33333	-72.66667	A	ADM3	HT		06	3724695	8629024		0		4	America/Port-au-Prince	2016-05-12
+8658948	Tabarre	Tabarre		18.58333	-72.26667	A	ADM3	HT		11	3718425	8658948		0		47	America/Port-au-Prince	2016-05-12
+8659073	Cabaret	Cabaret		18.73523	-72.41911	A	ADM3	HT		11	3731086	8659073		0		45	America/Port-au-Prince	2016-05-12
+12123912	Commune de la Tortue	Commune de la Tortue	Commune de la Tortue,La Tortue,Latoti,Latòti	20.04952	-72.78767	A	ADM3	HT		03		12123912		0		222	America/Port-au-Prince	2020-02-10
+12123913	Commune de Chansolme	Commune de Chansolme	Chansol,Chansolme,Chansòl,Commune de Chansolme	19.85942	-72.81006	A	ADM3	HT		03		12123913		0		497	America/Port-au-Prince	2020-02-10
+12123914	Commune de Lapointe	Commune de Lapointe	Commune de Lapointe,Lapointe	19.90574	-72.7787	A	ADM3	HT		03		12123914		0		339	America/Port-au-Prince	2020-02-10
+12123915	Commune de Liancourt	Commune de Liancourt	Commune de Liancourt,Liancourt	19.12885	-72.56062	A	ADM3	HT		06		12123915		0		35	America/Port-au-Prince	2020-02-10
+12123917	Commune de Baptiste	Commune de Baptiste	Baptiste,Commune de Baptiste	18.81074	-71.81529	A	ADM3	HT		07		12123917		0		926	America/Port-au-Prince	2020-02-10
+12123918	Commune de Plaisance du Sud	Commune de Plaisance du Sud	Commune de Plaisance du Sud,Plaisance du Sud	18.43462	-73.5628	A	ADM3	HT		15		12123918		0		404	America/Port-au-Prince	2020-02-10
+12123919	Commune d'Arnaud	Commune d'Arnaud	Ano,Arnaud,Commune d'Arnaud	18.4542	-73.38682	A	ADM3	HT		15		12123919		0		80	America/Port-au-Prince	2020-02-10
+12123920	Commune de Fonds des Nègres	Commune de Fonds des Negres	Commune de Fonds des Negres,Commune de Fonds des Nègres,Fon De Neg,Fon Dè Nèg,Fonds des Negres,Fonds des Nègres	18.38014	-73.25175	A	ADM3	HT		15		12123920		0		303	America/Port-au-Prince	2020-02-10
+12123921	Commune de Paillant	Commune de Paillant	Commune de Paillant,Paillant,Payan	18.41227	-73.17142	A	ADM3	HT		15		12123921		0		836	America/Port-au-Prince	2020-02-10
+12123922	Commune de Marfranc	Commune de Marfranc	Commune de Marfranc,Marfranc	18.55587	-74.2011	A	ADM3	HT		14		12123922		0		124	America/Port-au-Prince	2020-02-10
+12123923	Lilavach	Lilavach	Commune de l'Ile a Vache,Commune de l'Île à Vache,Ile a Vache,Lilavach,Île à Vache	18.07208	-73.63841	A	ADM3	HT		12		12123923		0		14	America/Port-au-Prince	2020-02-10
+12123924	Commune de Fonds des Blancs	Commune de Fonds des Blancs	Commune de Fonds des Blancs,Fonds des Blancs	18.26638	-73.08599	A	ADM3	HT		12		12123924		0		242	America/Port-au-Prince	2020-02-10
+12902668	Baradères	Baraderes		18.48297	-73.6349	A	ADM3	HT		15	3730801	12902668		0		92	America/Port-au-Prince	2024-05-30
+12902671	Cayes-Jacmel	Cayes-Jacmel		18.24157	-72.40099	A	ADM3	HT		13	3723778	12902671		0		44	America/Port-au-Prince	2024-05-30

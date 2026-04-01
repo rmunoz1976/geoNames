@@ -1,0 +1,4 @@
+﻿11205203	Chiseka	Chiseka		-14.2772	33.6129	A	ADM3	MW		C		11205203		0		1126	Africa/Blantyre	2016-07-28
+11238467	Kampingo Sibande	Kampingo Sibande		-11.78485	33.71515	A	ADM3	MW		N		11238467		0		1561	Africa/Blantyre	2018-12-21
+11238564	Mwenemisuku	Mwenemisuku		-9.72733	33.50212	A	ADM3	MW		N	04	11238564		0		1483	Africa/Blantyre	2018-12-21
+11257279	SC Goodson Ganya	SC Goodson Ganya		-14.59289	34.69757	A	ADM3	MW		C		11257279		0		770	Africa/Blantyre	2018-12-21

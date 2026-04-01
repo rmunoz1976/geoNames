@@ -1,0 +1,196 @@
+﻿204086	Yahuma	Zone de Yahuma		1.1	23.16667	A	ADM3	CD		30		248		0		490	Africa/Lubumbashi	2016-12-19
+204282	Watsa	Zone de Watsa		3.05	29.53333	A	ADM3	CD		09	17	247		0		1022	Africa/Lubumbashi	2012-04-24
+204316	Wamba	Zone de Wamba		2.15	28	A	ADM3	CD		16	11	246		0		780	Africa/Lubumbashi	2024-03-15
+204329	Walungu	Zone de Walungu		-2.63333	28.66667	A	ADM3	CD		12	35	245		0		1763	Africa/Lubumbashi	2012-04-24
+204336	Walikale	Zone de Walikale	Zone de Walikale	-1.41667	28.05	A	ADM3	CD		11	33	244		0		959	Africa/Lubumbashi	2012-04-24
+204404	Uvira	Zone d' Uvira		-3.4	29.13333	A	ADM3	CD		12	35	243		0		847	Africa/Lubumbashi	2012-04-24
+204528	Ubundu	Zone d' Ubundu		-0.35	25.48333	A	ADM3	CD		09	39	242		0		463	Africa/Lubumbashi	2012-04-24
+204951	Kamonia	Zone de Tshikapa		-6.41667	20.8	A	ADM3	CD		03	20	200		0		481	Africa/Lubumbashi	2012-04-24
+205696	Shabunda	Zone de Shabunda		-2.7	27.33333	A	ADM3	CD		12	35	237		0		585	Africa/Lubumbashi	2012-04-24
+205864	Sandoa	Zone de Sandoa		-9.68333	22.86667	A	ADM3	CD		05	26	235		0		899	Africa/Lubumbashi	2012-04-24
+206045	Rutshuru	Zone de Rutshuru	Zone de Rutshuru	-1.18333	29.45	A	ADM3	CD		11	33	233		0		1281	Africa/Lubumbashi	2012-04-24
+206055	Rungu	Zone de Rungu		3.18333	27.86667	A	ADM3	CD		16	02	232		0		680	Africa/Lubumbashi	2024-03-15
+206112	Pweto	Zone de Pweto		-8.46667	28.9	A	ADM3	CD		05	16	231		0		955	Africa/Lubumbashi	2012-04-24
+206132	Punia	Zone de Punia		-1.46667	26.45	A	ADM3	CD		10	30	230		0		567	Africa/Lubumbashi	2012-04-24
+206225	Poko	Zone de Poko		3.15	26.88333	A	ADM3	CD		09	11	228		0		717	Africa/Lubumbashi	2012-04-24
+206399	Pangi	Zone de Pangi		-3.18333	26.63333	A	ADM3	CD		10	30	227		0		532	Africa/Lubumbashi	2012-04-24
+206553	Opala	Opala	Opala,Zone d’ Opala,Zoned'Opala	-0.61667	24.35	A	ADM3	CD		30		206553		0		425	Africa/Lubumbashi	2022-02-17
+206846	Nyunzu	Zone de Nyunzu		-5.95	28.01667	A	ADM3	CD		29		224		0		737	Africa/Lubumbashi	2024-03-15
+207067	Niangara	Zone de Niangara		3.7	27.86667	A	ADM3	CD		09	17	222		0		658	Africa/Lubumbashi	2012-04-24
+207534	Mwenga	Zone de Mwenga		-3.03333	28.43333	A	ADM3	CD		12	35	221		0		1277	Africa/Lubumbashi	2012-04-24
+207569	Mwene Ditu	Zone de Mwene-Ditu		-7	23.45	A	ADM3	CD		04	19	281		0		932	Africa/Lubumbashi	2012-04-24
+207595	Mweka	Zone de Mweka		-4.85	21.56667	A	ADM3	CD		18		219		0		576	Africa/Lubumbashi	2024-03-15
+208693	Monkoto	Zone de Monkoto		-1.63333	20.65	A	ADM3	CD		02	40	216		0		388	Africa/Kinshasa	2012-04-24
+208989	Zone de Mobayi	Zone de Mobayi	Mobayi,Zone de Mobayi	4.3	21.18333	A	ADM3	CD		26		208989		0		384	Africa/Kinshasa	2026-03-10
+208997	Moba	Zone de Moba	Zone de Moba	-7.06667	29.76667	A	ADM3	CD		05	37	214		0		954	Africa/Lubumbashi	2012-04-24
+209012	Mitwaba	Zone de Mitwaba		-8.65	27.33333	A	ADM3	CD		14		212		0		1557	Africa/Lubumbashi	2024-03-15
+209225	Mbuji-Mayi	Zone de Mbuji-Mayi		-6.15	23.6	A	ADM3	CD		04	38	138		0		583	Africa/Lubumbashi	2012-04-24
+209476	Masisi	Zone de Masisi		-1.4	28.81667	A	ADM3	CD		11	33	209		0		1552	Africa/Lubumbashi	2012-04-24
+209597	Manono	Zone de Manono		-7.3	27.41667	A	ADM3	CD		05	37	207		0		611	Africa/Lubumbashi	2012-04-24
+209754	Mambasa	Zone de Mambasa	Zone de Mambasa	1.35	29.05	A	ADM3	CD		17		206		0		907	Africa/Lubumbashi	2024-03-15
+209855	Malemba-Nkulu	Zone de Malemba-Nkulu		-8.03333	26.8	A	ADM3	CD		15		205		0		568	Africa/Lubumbashi	2024-03-15
+210063	Mahagi	Zone de Mahagi		2.3	30.98333	A	ADM3	CD		09	18	203		0		1662	Africa/Lubumbashi	2012-04-24
+210377	Lusambo	Zone de Lusambo	Zone de Lusambo	-4.96667	23.45	A	ADM3	CD		04	34	201		0		461	Africa/Lubumbashi	2012-04-24
+210799	Luiza	Zone de Luiza		-7.2	22.41667	A	ADM3	CD		23	04	196		0		879	Africa/Lubumbashi	2024-03-15
+210936	Luebo	Zone de Luebo		-5.6	21.41667	A	ADM3	CD		03	20	195		0		603	Africa/Lubumbashi	2012-04-24
+210959	Lubutu	Zone de Lubutu		-0.73333	26.58333	A	ADM3	CD		10	30	194		0		521	Africa/Lubumbashi	2012-04-24
+210985	Lubudi	Zone de Lubudi		-9.95	25.46667	A	ADM3	CD		05	23	192		0		847	Africa/Lubumbashi	2012-04-24
+211086	Lubefu	Zone de Lubefu		-4.71667	24.41667	A	ADM3	CD		04	34	190		0		537	Africa/Lubumbashi	2012-04-24
+211096	Lubao	Zone de Lubao		-5.36667	25.75	A	ADM3	CD		04	19	189		0		626	Africa/Lubumbashi	2012-04-24
+211413	Lomela	Zone de Lomela		-2.3	23.28333	A	ADM3	CD		04	34	188		0		441	Africa/Lubumbashi	2012-04-24
+211646	Lodja	Zone de Lodja		-3.48333	23.43333	A	ADM3	CD		04	34	187		0		460	Africa/Lubumbashi	2012-04-24
+211732	Lisala	Zone de Lisala		2.15	21.51667	A	ADM3	CD		02	31	186		0		417	Africa/Kinshasa	2012-04-24
+212354	Kongolo Tanganyika District	Kongolo Tanganyika District	Kongolo Tanganyika District	-5.38333	27	A	ADM3	CD		29		180		0		562	Africa/Lubumbashi	2024-03-15
+212443	Kole	Zone de Kole		-3.46667	22.45	A	ADM3	CD		04	34	179		0		415	Africa/Lubumbashi	2012-04-24
+212901	Kindu	Zone de Kindu		-2.95	25.93333	A	ADM3	CD		10	30	175		0		447	Africa/Lubumbashi	2012-04-24
+213274	Kibombo	Zone de Kibombo		-3.9	25.91667	A	ADM3	CD		10	30	173		0		514	Africa/Lubumbashi	2012-04-24
+213530	Kazumba	Zone de Kazumba		-6.41667	22.03333	A	ADM3	CD		23	05	171		0		798	Africa/Lubumbashi	2024-03-15
+213881	Katako-Kombe	Zone de Katako-Kombe		-3.4	24.41667	A	ADM3	CD		04	34	169		0		576	Africa/Lubumbashi	2012-04-24
+213927	Kasongo	Zone de Kasongo		-4.45	26.66667	A	ADM3	CD		10	30	167		0		661	Africa/Lubumbashi	2012-04-24
+214257	Kapanga	Zone de Kapanga		-8.35	22.58333	A	ADM3	CD		05	26	164		0		871	Africa/Lubumbashi	2012-04-24
+214388	Kaniama	Zone de Kaniama	Kaniama,Kanyama	-7.51667	24.18333	A	ADM3	CD		15		163		0		881	Africa/Lubumbashi	2024-03-15
+214476	Kananga	Ville de Kananga	Kananga,ka nan jia,kanang-ga,kananga,kanangha,Кананга,Կանանգա,كانانغا,کانانگا,カナンガ,卡南加,카낭가	-5.9	22.41667	A	ADM3	CD		03	28	162		0		634	Africa/Lubumbashi	2012-04-24
+214612	Kamina	Zone de Kamina		-8.73333	25	A	ADM3	CD		05	15	161		0		1132	Africa/Lubumbashi	2012-04-24
+214622	Kamiji	Zone de Kamiji		-6.65	23.28333	A	ADM3	CD		04	19	160		0		799	Africa/Lubumbashi	2012-04-24
+214973	Kalemie	Zone de Kalemie		-5.93333	29.2	A	ADM3	CD		05	37	158		0		767	Africa/Lubumbashi	2012-04-24
+215001	Kalehe	Zone de Kalehe		-2.1	28.91667	A	ADM3	CD		12	35	157		0		1582	Africa/Lubumbashi	2012-04-24
+215471	Kabongo	Zone de Kabongo		-7.31667	25.58333	A	ADM3	CD		15		154		0		1013	Africa/Lubumbashi	2024-03-15
+215522	Kabinda	Zone de Kabinda		-6.13333	24.48333	A	ADM3	CD		04	19	153		0		856	Africa/Lubumbashi	2012-04-24
+215603	Kabare	Zone de Kabare		-2.48333	28.8	A	ADM3	CD		12	35	151		0		1825	Africa/Lubumbashi	2012-04-24
+215645	Kabambare	Zone de Kabambare		-4.7	27.71667	A	ADM3	CD		10	30	150		0		692	Africa/Lubumbashi	2012-04-24
+215667	Kabalo	Zone de Kabalo		-6.05	26.91667	A	ADM3	CD		29		149		0		556	Africa/Lubumbashi	2016-11-29
+215798	Isangi	Zone d' Isangi	Zone d' Isangi,Zone d’ Isangi	0.76667	24.25	A	ADM3	CD		30		148		0		377	Africa/Lubumbashi	2024-03-15
+215827	Irumu	Zone d'Irumu	Zone d'Irumu	1.45	29.86667	A	ADM3	CD		09	18	147		0		921	Africa/Lubumbashi	2012-04-24
+215974	Ilebo	Zone d' Ilebo		-4.31667	20.58333	A	ADM3	CD		18		144		0		358	Africa/Lubumbashi	2024-03-15
+216030	Ikela	Zone d' Ikela		-1.18333	23.26667	A	ADM3	CD		02	40	143		0		436	Africa/Kinshasa	2012-04-24
+216448	Zone de Gandajika	Zone de Gandajika		-6.75	23.95	A	ADM3	CD		21		216448		0		804	Africa/Lubumbashi	2016-11-22
+216540	Fizi	Zone de Fizi		-4.3	28.95	A	ADM3	CD		12	35	137		0		1218	Africa/Lubumbashi	2012-04-24
+216564	Faradje	Zone de Faradje		3.73333	29.71667	A	ADM3	CD		09	17	135		0		773	Africa/Lubumbashi	2012-04-24
+216959	Dungu	Zone de Dungu		3.61667	28.56667	A	ADM3	CD		16		134		0		694	Africa/Lubumbashi	2024-03-15
+217099	Djugu	Zone de Djugu		1.91667	30.5	A	ADM3	CD		17		133		0		1673	Africa/Lubumbashi	2024-03-15
+217134	Djolu	Zone de Djolu		0.58333	22.45	A	ADM3	CD		02	40	132		0		431	Africa/Kinshasa	2012-04-24
+217254	Dimbelenge	Zone de Dimbelenge		-5.55	23.11667	A	ADM3	CD		23		131		0		642	Africa/Lubumbashi	2024-03-15
+217335	Dibaya	Zone de Dibaya	Zone de Dibaya	-6.5	22.95	A	ADM3	CD		23		129		0		855	Africa/Lubumbashi	2024-03-15
+217388	Demba	Zone de Demba		-5.5	22.26667	A	ADM3	CD		03	28	128		0		622	Africa/Lubumbashi	2012-04-24
+217399	Dekese	Zone de Dekese		-3.45	21.4	A	ADM3	CD		03	20	127		0		404	Africa/Lubumbashi	2012-04-24
+217569	Buta	Zone de Buta		2.8	24.73333	A	ADM3	CD		09	11	126		0		416	Africa/Lubumbashi	2012-04-24
+217636	Businga	Zone de Businga	Zone de Businga	3.33333	20.88333	A	ADM3	CD		02	32	125		0		358	Africa/Kinshasa	2012-04-24
+217728	Bumba	Zone de Bumba		2.18333	22.46667	A	ADM3	CD		02	31	124		0		365	Africa/Kinshasa	2012-04-24
+217830	Bukavu	Ville de Bukavu	Bukavu,bu ka wu,bukabu,bukavu,Букаву,ブカヴ,布卡武,부카부	-2.5	28.86667	A	ADM3	CD		12	35	251		0		1525	Africa/Lubumbashi	2012-04-24
+217833	Bukama	Zone de Bukama		-9.2	25.85	A	ADM3	CD		15		122		0		599	Africa/Lubumbashi	2016-11-29
+218228	Bongandanga	Zone de Bongandanga		1.50288	21.06622	A	ADM3	CD		02	31	119		0		398	Africa/Kinshasa	2018-07-02
+218250	Bondo	Zone de Bondo		3.81667	23.66667	A	ADM3	CD		09	11	118		0		474	Africa/Lubumbashi	2012-04-24
+218476	Bokungu	Zone de Bokungu		-0.68333	22.31667	A	ADM3	CD		02	40	113		0		385	Africa/Kinshasa	2012-04-24
+218678	Boende	Zone de Boende		-0.21667	20.86667	A	ADM3	CD		02	40	112		0		345	Africa/Kinshasa	2012-04-24
+219263	Befale	Zone de Befale	Zone de Befale	0.46667	20.96667	A	ADM3	CD		02	40	109		0		352	Africa/Kinshasa	2012-04-24
+219413	Basoko	Zone de Basoko		1.23333	23.6	A	ADM3	CD		09	39	108		0		376	Africa/Lubumbashi	2012-04-24
+219653	Banalia	Zone de Banalia		1.55	25.33333	A	ADM3	CD		09	39	106		0		438	Africa/Lubumbashi	2012-04-24
+219691	Bambesa	Zone de Bambesa		3.46667	25.71667	A	ADM3	CD		09	11	105		0		638	Africa/Lubumbashi	2012-04-24
+219937	Bafwasende	Zone de Bafwasende		1.08333	27.26667	A	ADM3	CD		09	39	103		0		652	Africa/Lubumbashi	2012-04-24
+220219	Aru	Aru	Aru,Zone d’ Aru,Zoned'Aru	2.86667	30.85	A	ADM3	CD		17		220219		0		1324	Africa/Lubumbashi	2022-02-17
+220446	Aketi	Zone d' Aketi		2.73333	23.76667	A	ADM3	CD		13		100		0		381	Africa/Lubumbashi	2019-02-28
+922244	Sakania	Zone de Sakania		-12.75	28.56667	A	ADM3	CD		05	16	234		0		1261	Africa/Lubumbashi	2012-04-24
+922702	Lubumbashi	Ville de Lubumbashi		-11.66667	27.46667	A	ADM3	CD		14		193		0		1222	Africa/Lubumbashi	2024-03-15
+922740	Likasi	Likasi City		-10.96833	26.73806	A	ADM3	CD		05	16	185		0		1285	Africa/Lubumbashi	2012-04-24
+922771	Kolwezi	Zone de Kolwezi		-10.71667	25.46667	A	ADM3	CD		05	23	282		0		1496	Africa/Lubumbashi	2012-04-24
+922805	Kipushi	Zone de Kipushi		-11.76667	27.23333	A	ADM3	CD		05	16	176		0		1330	Africa/Lubumbashi	2012-04-24
+922964	Kasenga	Zone de Kasenga		-10.36436	28.60853	A	ADM3	CD		05	16	166		0		958	Africa/Lubumbashi	2013-04-16
+923057	Kambove	Zone de Kambove		-10.86667	26.63333	A	ADM3	CD		14		159		0		1394	Africa/Lubumbashi	2024-03-17
+923216	Dilolo	Zone de Dilolo		-10.7	22.33333	A	ADM3	CD		22		130		0		1003	Africa/Lubumbashi	2024-03-15
+2311125	Tshela	Zone de Tshela		-4.98333	12.93333	A	ADM3	CD		08	10	239		0		157	Africa/Kinshasa	2012-04-24
+2311326	Songololo	Zone de Songololo		-5.7	14.03333	A	ADM3	CD		08	13	238		0		321	Africa/Kinshasa	2012-04-24
+2311549	Seke-Banza	Zone de Seke-Banza		-5.33333	13.26667	A	ADM3	CD		08	10	236		0		555	Africa/Kinshasa	2012-04-24
+2311674	Popokabaka	Zone de Popokabaka		-5.7	16.58333	A	ADM3	CD		19	08	229		0		438	Africa/Kinshasa	2024-03-15
+2311806	Oshwe	Zone d' Oshwe		-3.4	19.5	A	ADM3	CD		24	04	226		0		324	Africa/Kinshasa	2024-03-15
+2312247	Mushie	Zone de Mushie	Zone de Mushie	-3.01667	16.9	A	ADM3	CD		24		217		0		304	Africa/Kinshasa	2024-03-15
+2312887	Mbanza-Ngungu	Zone de Mbanza-Ngungu		-5.25	14.86667	A	ADM3	CD		08	13	210		0		690	Africa/Kinshasa	2012-04-24
+2313001	Matadi	Ville de Matadi	Matadi,Matadis,Matádi,ma ta di,matadi,Матади,מאטדי,マタディ,马塔迪,마타디	-5.81667	13.45	A	ADM3	CD		08	10	253		0		9	Africa/Kinshasa	2012-04-24
+2313010	Masi-Manimba	Zone de Masi-Manimba		-4.76667	17.91667	A	ADM3	CD		20	12	208		0		380	Africa/Kinshasa	2024-03-15
+2313217	Madimba	Zone de Madimba		-4.98333	15.15	A	ADM3	CD		08	27	202		0		564	Africa/Kinshasa	2012-04-24
+2313293	Luozi	Zone de Luozi		-4.95	14.13333	A	ADM3	CD		08	13	199		0		200	Africa/Kinshasa	2012-04-24
+2313364	Lukula	Zone de Lukula	Zone de Lukula	-5.38333	12.95	A	ADM3	CD		08	10	198		0		119	Africa/Kinshasa	2012-04-24
+2313760	Libenge	Zone de Libenge		3.65	18.63333	A	ADM3	CD		02	36	184		0		355	Africa/Kinshasa	2012-04-24
+2313873	Kutu	Zone de Kutu		-2.73333	18.15	A	ADM3	CD		24		182		0		290	Africa/Kinshasa	2024-03-15
+2313886	Kungu	Zone de Kungu	Zone de Kungu	2.78333	19.2	A	ADM3	CD		28		181		0		402	Africa/Kinshasa	2017-12-14
+2314194	Kiri	Zone de Kiri		-1.45	19	A	ADM3	CD		01	29	177		0		323	Africa/Kinshasa	2012-04-24
+2314492	Kimvula	Zone de Kimvula		-5.73333	15.96667	A	ADM3	CD		08	27	174		0		641	Africa/Kinshasa	2012-04-24
+2314704	Kikwit	Ville de Kikwit		-5.03333	18.81667	A	ADM3	CD		01	25	278		0		445	Africa/Kinshasa	2012-04-24
+2314934	Kenge	Zone de Kenge		-4.86667	16.98333	A	ADM3	CD		19		172		0		373	Africa/Kinshasa	2024-03-17
+2315025	Kasongo-Lunda	Zone de Kasongo-Lunda		-6.46667	16.81667	A	ADM3	CD		01	24	168		0		482	Africa/Kinshasa	2012-04-24
+2315056	Kasangulu	Zone de Kasangulu		-4.6	15.16667	A	ADM3	CD		08	27	165		0		384	Africa/Kinshasa	2012-04-24
+2315249	Kahemba	Zone de Kahemba	Zone de Kahemba	-7.28333	19	A	ADM3	CD		19		155		0		1004	Africa/Kinshasa	2024-03-15
+2315416	Inongo	Zone d' Inongo		-1.95	18.26667	A	ADM3	CD		24	02	146		0		292	Africa/Kinshasa	2024-03-15
+2315436	Ingende	Zone d' Ingende		-0.25	18.95	A	ADM3	CD		02	14	145		0		316	Africa/Kinshasa	2012-04-24
+2315578	Idiofa	Idiofa	Idiofa,Zone d’ Idiofa,Zoned'Idiofa	-5.03333	19.6	A	ADM3	CD		20		2315578		0		624	Africa/Kinshasa	2022-02-17
+2315639	Gungu	Zone de Gungu		-5.73333	19.31667	A	ADM3	CD		01	25	140		0		723	Africa/Kinshasa	2012-04-24
+2315727	Gemena	Zone de Gemena		3.25	19.76667	A	ADM3	CD		02	36	139		0		394	Africa/Kinshasa	2012-04-24
+2315819	Feshi	Zone de Feshi		-6.11667	18.16667	A	ADM3	CD		19	03	136		0		794	Africa/Kinshasa	2024-03-14
+2316258	Bulungu	Zone de Bulungu		-4.55	18.6	A	ADM3	CD		20	04	123		0		429	Africa/Kinshasa	2024-03-14
+2316302	Budjala	Zone de Budjala	Zone de Budjala	2.65	19.7	A	ADM3	CD		02	36	121		0		373	Africa/Kinshasa	2012-04-24
+2316472	Bosobolo	Zone de Bosobolo	Zone de Bosobolo	4.18333	19.9	A	ADM3	CD		02	32	120		0		408	Africa/Kinshasa	2012-04-24
+2316635	Bomongo	Zone de Bomongo		1.36667	18.36667	A	ADM3	CD		02	14	117		0		312	Africa/Kinshasa	2012-04-24
+2316700	Boma	Zone de Boma		-5.85	13.05	A	ADM3	CD		08	12	116		0		32	Africa/Kinshasa	2012-04-24
+2316738	Bolomba	Zone de Bolomba		0.48333	19.2	A	ADM3	CD		02	14	115		0		338	Africa/Kinshasa	2012-04-24
+2317109	Bikoro	Zone de Bikoro		-0.75	18.11667	A	ADM3	CD		02	14	111		0		312	Africa/Kinshasa	2012-04-24
+2317284	Basankusu	Zone de Basankusu		1.23333	19.8	A	ADM3	CD		02	14	107		0		325	Africa/Kinshasa	2012-04-24
+2317395	Bandundu	Ville de Bandundu	Bandundu,ban dun du,bandoundou,bandundu,bandwndw,Бандунду,باندوندو,バンドゥンドゥ,班顿杜,반둔두	-3.31667	17.36667	A	ADM3	CD		20	01	240		0		300	Africa/Kinshasa	2024-03-14
+7701220	Gombe	Gombe	Kalina,Kin-gombe,Kinshasa-Gombe,La gombe	-4.3073	15.3055	A	ADM3	CD		06	22	275		0		281	Africa/Kinshasa	2023-01-05
+7701223	Matete	Matete	Cite Pierre Wigny,Cite Wigny,Cité Pierre Wigny,Cité Wigny	-4.38484	15.35751	A	ADM3	CD		06		7701223		0		282	Africa/Kinshasa	2023-01-05
+7701226	Kasa-Vubu	Kasa-Vubu		-4.34324	15.30438	A	ADM3	CD		06		7701226		0		293	Africa/Kinshasa	2011-03-08
+7701229	Kalamu	Kalamu		-4.34761	15.32001	A	ADM3	CD		06	22	266		0		288	Africa/Kinshasa	2012-04-24
+7701230	Kintambo	Kintambo	Kintambo,Kintamo,Kintâmbo,Ntamo	-4.34401	15.26765	A	ADM3	CD		06		7701230		0		293	Africa/Kinshasa	2023-01-05
+7701231	Limete	Limete		-4.34872	15.33889	A	ADM3	CD		06		7701231		0		285	Africa/Kinshasa	2011-03-08
+7701232	Bumbu	Bumbu		-4.36644	15.29211	A	ADM3	CD		06	22	261		0		302	Africa/Kinshasa	2012-04-24
+7731901	Gbadolite	Gbadolite (city)	Gbadolite	4.27496	20.87669	A	ADM3	CD		02	32	252		0		431	Africa/Kinshasa	2012-04-24
+7731902	Zongo	Zongo (city)		4.18656	18.70908	A	ADM3	CD		02	36	284		0		375	Africa/Kinshasa	2012-04-24
+7731935	Kisangani	Kisangani (city)		0.52239	25.24349	A	ADM3	CD		09	39	178		0		434	Africa/Lubumbashi	2012-04-24
+7731950	Mbandaka	Mbandaka (city)		-0.0942	18.27757	A	ADM3	CD		02	14	283		0		318	Africa/Kinshasa	2012-04-24
+7731965	Kinshasa	Kinshasa		-4.47223	15.8836	A	ADM3	CD		06	22	273		0		676	Africa/Kinshasa	2012-04-24
+8260569	Idiofa	Idiofa		-4.66479	19.53953	A	ADM3	CD		20		141		0		427	Africa/Kinshasa	2024-03-15
+8260570	Bolobo	Bolobo		-2.65093	16.35123	A	ADM3	CD		01	29	114		0		471	Africa/Kinshasa	2012-04-24
+8260571	Kwamouth	Kwamouth		-3.58621	16.52243	A	ADM3	CD		01	29	183		0		576	Africa/Kinshasa	2012-04-24
+8260572	Yumbi	Yumbi		-2.10467	16.498	A	ADM3	CD		01	29	250		0		309	Africa/Kinshasa	2012-04-24
+8260573	Lukolela	Lukolela		-1.25023	17.24931	A	ADM3	CD		02	14	197		0		334	Africa/Kinshasa	2012-04-24
+8260574	Makanza	Makanza		0.97083	19.13988	A	ADM3	CD		02	14	204		0		341	Africa/Kinshasa	2012-04-24
+8260575	Mobayi-Mbongo	Mobayi-Mbongo		4.15732	20.99512	A	ADM3	CD		02	32	215		0		429	Africa/Kinshasa	2012-04-24
+8260576	Yakoma	Yakoma		3.71451	22.44902	A	ADM3	CD		02	32	249		0		431	Africa/Kinshasa	2012-04-24
+8260577	Kimbanseke	Kimbanseke		-4.44028	15.41344	A	ADM3	CD		06	21	254		0		354	Africa/Kinshasa	2012-04-24
+8260578	Kisenso	Kisenso		-4.41667	15.35	A	ADM3	CD		06	22	255		0		345	Africa/Kinshasa	2012-04-24
+8260579	Ndjili	Ndjili		-4.41472	15.36597	A	ADM3	CD		06	22	256		0		291	Africa/Kinshasa	2012-04-24
+8260580	Makala	Makala		-4.38056	15.31611	A	ADM3	CD		06	22	260		0		304	Africa/Kinshasa	2012-04-24
+8260581	Selembao	Selembao		-4.40208	15.28111	A	ADM3	CD		06	22	262		0		346	Africa/Kinshasa	2012-04-24
+8260582	Mont Ngafula	Mont Ngafula	Mont Gafula	-4.46272	15.24481	A	ADM3	CD		06	22	264		0		476	Africa/Kinshasa	2023-01-05
+8260583	Masina	Masina		-4.38361	15.39139	A	ADM3	CD		06	22	269		0		288	Africa/Kinshasa	2012-04-24
+8260584	Ngaliema	Ngaliema	Galiema	-4.35136	15.24783	A	ADM3	CD		06	22	271		0		315	Africa/Kinshasa	2023-01-05
+8260586	Barumbu	Barumbu		-4.31667	15.31667	A	ADM3	CD		06	22	274		0		279	Africa/Kinshasa	2012-04-24
+8260587	Ndsele	Ndsele		-4.42919	15.55703	A	ADM3	CD		06	22	276		0		487	Africa/Kinshasa	2012-04-24
+8260588	Maluku	Maluku		-4.36195	15.8088	A	ADM3	CD		06	22	277		0		694	Africa/Kinshasa	2012-04-24
+8260589	Luilu	Luilu		-7.24969	23.61241	A	ADM3	CD		04	19	220		0		809	Africa/Lubumbashi	2012-04-24
+8260590	Ngandajika	Ngandajika		-6.69987	24.13107	A	ADM3	CD		04	19	279		0		659	Africa/Lubumbashi	2012-04-24
+8260591	Kabeya-Kamwanga	Kabeya-Kamwanga		-6.05426	23.16773	A	ADM3	CD		04	38	152		0		570	Africa/Lubumbashi	2012-04-24
+8260592	Katanda	Katanda		-6.12593	23.84074	A	ADM3	CD		04	38	170		0		564	Africa/Lubumbashi	2012-04-24
+8260593	Miabi	Miabi		-6.33289	23.31184	A	ADM3	CD		04	38	211		0		760	Africa/Lubumbashi	2012-04-24
+8260594	Tshilenge	Tshilenge		-6.46497	23.65763	A	ADM3	CD		04	38	241		0		754	Africa/Lubumbashi	2012-04-24
+8260595	Luhatahata	Luhatahata		-6.17738	23.53333	A	ADM3	CD		04	38	280		0		647	Africa/Lubumbashi	2012-06-07
+8260596	Mutshatsha	Mutshatsha		-10.63285	25.00243	A	ADM3	CD		05	23	218		0		1187	Africa/Lubumbashi	2012-04-24
+8260597	Kailo	Kailo		-2.49199	25.80016	A	ADM3	CD		10	30	156		0		504	Africa/Lubumbashi	2012-04-24
+8260599	Aru	Aru		3.02521	30.61307	A	ADM3	CD		09	18	102		0		1188	Africa/Lubumbashi	2012-04-24
+8260600	Opala	Opala		-0.53179	24.18013	A	ADM3	CD		09	39	225		0		471	Africa/Lubumbashi	2012-04-24
+8260601	Idjwi	Idjwi		-2.07261	29.0375	A	ADM3	CD		12	35	142		0		1461	Africa/Lubumbashi	2012-04-24
+8260603	Moanda	Moanda		-5.80893	12.63006	A	ADM3	CD		08	12	213		0		78	Africa/Kinshasa	2012-04-24
+9072689	Lingwala	Lingwala		-4.3208	15.29836	A	ADM3	CD		06		9072689		0		275	Africa/Kinshasa	2014-06-03
+9166126	N'Sele	N'Sele		-4.42035	15.49472	A	ADM3	CD		06		9166126		0		377	Africa/Kinshasa	2014-06-16
+9179527	Bipemba	Bipemba		-6.10638	23.55906	A	ADM3	CD		04		9179527		0		674	Africa/Lubumbashi	2014-07-02
+9212612	Minova	Minova		-1.70694	29.01917	A	ADM3	CD		12		9212612		0		1468	Africa/Lubumbashi	2024-03-15
+10376720	Ngaba	Ngaba		-4.37556	15.32194	A	ADM3	CD		06		10376720		0		299	Africa/Kinshasa	2015-07-14
+10400325	Beni Territory	Beni Territory		0.4833	29.45	A	ADM3	CD		11		10400325		0		1139	Africa/Lubumbashi	2024-03-15
+10401928	Kinsenso	Kinsenso		-4.41605	15.34239	A	ADM3	CD		06		10401928		0		398	Africa/Kinshasa	2015-08-05
+10794202	Bandalungwa	Bandalungwa		-4.33939	15.28686	A	ADM3	CD		06		10794202		0		288	Africa/Kinshasa	2015-10-29
+10860365	Kikula	Kikula		-10.97408	26.72025	A	ADM3	CD		05		10860365		0		1305	Africa/Lubumbashi	2015-10-27
+10860448	Bandalungwa	Bandalungwa		-4.34006	15.28649	A	ADM3	CD		06		10860448		0		288	Africa/Kinshasa	2015-10-29
+10860583	Kampemba	Kampemba		-10.965	26.73167	A	ADM3	CD		05		10860583		0		1281	Africa/Lubumbashi	2015-11-01
+10860584	Katuba	Katuba		-11.71167	27.455	A	ADM3	CD		05		10860584		0		1216	Africa/Lubumbashi	2015-11-02
+10860838	Rwashi	Rwashi		-11.62944	27.54611	A	ADM3	CD		05		10860838		0		1308	Africa/Lubumbashi	2015-11-06
+10860844	Kabondo	Kabondo		0.51395	25.22143	A	ADM3	CD		09		10860844		0		426	Africa/Lubumbashi	2015-11-06
+10861157	Panda	Panda		-11.01861	26.73528	A	ADM3	CD		05		10861157		0		1276	Africa/Lubumbashi	2015-11-08
+10861316	Kenya	Kenya		-11.69712	27.47951	A	ADM3	CD		05		10861316		0		1214	Africa/Lubumbashi	2015-11-09

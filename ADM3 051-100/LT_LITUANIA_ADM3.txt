@@ -1,0 +1,544 @@
+﻿9610011	Centro seniunija	Centro seniunija	Centro seniunija,Centro seniūnija	54.89793	23.89815	A	ADM3	LT		57	19	1901		14723		33	Europe/Vilnius	2021-04-24
+12232650	Šeškinės sen.	Seskines sen.		54.71203	25.25139	A	ADM3	LT		65	13	1315		0		166	Europe/Vilnius	2021-04-21
+12232651	Gelgaudiškio sen.	Gelgaudiskio sen.		55.06025	22.99803	A	ADM3	LT		59	84	8413		0		53	Europe/Vilnius	2021-04-21
+12232652	Naujamiesčio sen.	Naujamiescio sen.		54.67892	25.26608	A	ADM3	LT		65	13	1306		0		145	Europe/Vilnius	2021-04-21
+12232653	Rimšės sen.	Rimses sen.		55.49996	26.50727	A	ADM3	LT		64	45	4549		0		147	Europe/Vilnius	2021-04-21
+12232654	Gudelių sen.	Gudeliu sen.		54.51086	23.71737	A	ADM3	LT		59	18	1820		0		96	Europe/Vilnius	2021-04-21
+12232655	Viešintų sen.	Viesintu sen.		55.68654	24.97708	A	ADM3	LT		64	34	3413		0		92	Europe/Vilnius	2021-04-21
+12232656	Paberžės sen.	Paberzes sen.		54.97278	25.28324	A	ADM3	LT		65	41	4160		0		155	Europe/Vilnius	2021-04-21
+12232657	Kamajų sen.	Kamaju sen.		55.80466	25.47271	A	ADM3	LT		60	73	7315		0		109	Europe/Vilnius	2021-04-21
+12232658	Šiaulėnų sen.	Siaulenu sen.		55.68842	23.42206	A	ADM3	LT		61	71	7184		0		129	Europe/Vilnius	2021-04-21
+12232659	Betygalos sen.	Betygalos sen.		55.3809	23.42659	A	ADM3	LT		57	72	7213		0		111	Europe/Vilnius	2021-04-21
+12232660	Kietaviškių sen.	Kietaviskiu sen.		54.73677	24.58025	A	ADM3	LT		65	42	4230		0		106	Europe/Vilnius	2021-04-21
+12232661	Rusnės sen.	Rusnes sen.		55.30496	21.32027	A	ADM3	LT		58	88	8866		0		-5	Europe/Vilnius	2021-04-21
+12232662	Paukštakių sen.	Paukstakiu sen.		55.97369	21.97288	A	ADM3	LT		63	68	6860		0		149	Europe/Vilnius	2021-04-21
+12232663	Anykščių sen.	Anyksciu sen.		55.52795	25.13338	A	ADM3	LT		64	34	3408		0		115	Europe/Vilnius	2021-04-21
+12232664	Žiežmarių apylinkės sen.	Ziezmariu apylinkes sen.		54.78387	24.45951	A	ADM3	LT		57	49	4913		0		110	Europe/Vilnius	2021-04-21
+12232665	Žaslių sen.	Zasliu sen.		54.88949	24.61585	A	ADM3	LT		57	49	4909		0		109	Europe/Vilnius	2021-04-21
+12232666	Alizavos sen.	Alizavos sen.		55.95457	24.956	A	ADM3	LT		60	57	5711		0		92	Europe/Vilnius	2021-04-21
+12232667	Panemunėlio sen.	Panemunelio sen.		55.90084	25.417	A	ADM3	LT		60	73	7331		0		96	Europe/Vilnius	2021-04-21
+12232668	Žagarės sen.	Zagares sen.		56.31361	23.27516	A	ADM3	LT		61	47	4726		0		70	Europe/Vilnius	2021-04-21
+12232669	Kudirkos Naumiesčio sen.	Kudirkos Naumiescio sen.		54.77817	22.87819	A	ADM3	LT		59	84	8409		0		39	Europe/Vilnius	2021-04-24
+12232670	Avižienių sen.	Avizieniu sen.		54.78603	25.18899	A	ADM3	LT		65	41	4102		0		175	Europe/Vilnius	2021-04-21
+12232671	Antanavo sen.	Antanavo sen.		54.71161	23.32744	A	ADM3	LT		59	58	5867		0		42	Europe/Vilnius	2021-04-21
+12232672	Žadeikių sen.	Zadeikiu sen.		55.59089	22.10191	A	ADM3	LT		62	87	8777		0		132	Europe/Vilnius	2021-04-21
+12232673	Girkalnio sen.	Girkalnio sen.		55.28721	23.21608	A	ADM3	LT		57	72	7226		0		110	Europe/Vilnius	2021-04-21
+12232674	Valkininkų sen.	Valkininku sen.		54.36791	24.85479	A	ADM3	LT		56	38	3805		0		118	Europe/Vilnius	2021-04-21
+12232675	Traksėdžio sen.	Traksedzio sen.		55.52251	22.12507	A	ADM3	LT		62	87	8771		0		105	Europe/Vilnius	2021-04-21
+12232676	Strūnaičio sen.	Strunaicio sen.		55.04746	26.15635	A	ADM3	LT		65	86	8662		0		180	Europe/Vilnius	2021-04-21
+12232677	Gruzdžių sen.	Gruzdziu sen.		56.09766	23.24505	A	ADM3	LT		61	91	9109		0		105	Europe/Vilnius	2021-04-21
+12232678	Lyduokių sen.	Lyduokiu sen.		55.25383	24.91114	A	ADM3	LT		65	81	8150		0		126	Europe/Vilnius	2021-04-21
+12232679	Užpalių sen.	Uzpaliu sen.		55.6671	25.58909	A	ADM3	LT		64	82	8276		0		107	Europe/Vilnius	2021-04-21
+12232680	Šalčininkų sen.	Salcininku sen.		54.34842	25.40703	A	ADM3	LT		65	85	8575		0		185	Europe/Vilnius	2021-04-21
+12232681	Justiniškių sen.	Justiniskiu sen.		54.71674	25.21308	A	ADM3	LT		65	13	1303		0		172	Europe/Vilnius	2021-04-21
+12232682	Jašiūnų sen.	Jasiunu sen.		54.44361	25.31242	A	ADM3	LT		65	85	8593		0		150	Europe/Vilnius	2021-04-21
+12232683	Kuršėnų kaimiškoji sen.	Kursenu kaimiskoji sen.		56.00856	22.89281	A	ADM3	LT		61	91	9132		0		103	Europe/Vilnius	2021-04-24
+12232684	Vaiguvos sen.	Vaiguvos sen.		55.6905	22.76154	A	ADM3	LT		61	54	5405		0		140	Europe/Vilnius	2021-04-21
+12232685	Semeliškių sen.	Semeliskiu sen.		54.67018	24.68731	A	ADM3	LT		65	42	4287		0		171	Europe/Vilnius	2021-04-21
+12232686	Marijampolio sen.	Marijampolio sen.		54.51645	25.35722	A	ADM3	LT		65	41	4146		0		181	Europe/Vilnius	2021-04-21
+12232687	Medelyno sen.	Medelyno sen.		55.95602	23.29627	A	ADM3	LT		61	29	2902		0		105	Europe/Vilnius	2021-04-21
+12232688	Lazdynų sen.	Lazdynu sen.		54.66796	25.20534	A	ADM3	LT		65	13	1305		0		127	Europe/Vilnius	2021-04-21
+12232689	Šveicarijos sen.	Sveicarijos sen.		55.0284	24.25375	A	ADM3	LT		57	46	4613		0		72	Europe/Vilnius	2021-04-21
+12232690	Balbieriškio sen.	Balbieriskio sen.		54.53053	23.86086	A	ADM3	LT		57	69	6908		0		85	Europe/Vilnius	2021-04-21
+12232691	Inturkės sen.	Inturkes sen.		55.16371	25.56775	A	ADM3	LT		64	62	6246		0		146	Europe/Vilnius	2021-04-21
+12232692	Juodupės sen.	Juodupes sen.		56.08743	25.60733	A	ADM3	LT		60	73	7386		0		107	Europe/Vilnius	2021-04-21
+12232693	Agluonėnų sen.	Agluonenu sen.		55.58588	21.40293	A	ADM3	LT		58	55	5504		0		13	Europe/Vilnius	2021-04-21
+12232694	Dūkšto sen.	Duksto sen.		55.53452	26.33396	A	ADM3	LT		64	45	4522		0		161	Europe/Vilnius	2021-04-21
+12232695	Turmanto sen.	Turmanto sen.		55.65329	26.43096	A	ADM3	LT		64	43	4371		0		148	Europe/Vilnius	2021-04-21
+12232696	Kriūkų sen.	Kriuku sen.		55.0319	23.36186	A	ADM3	LT		59	84	8435		0		61	Europe/Vilnius	2021-04-21
+12232697	Šakių sen.	Sakiu sen.		54.965	23.01562	A	ADM3	LT		59	84	8483		0		52	Europe/Vilnius	2021-04-21
+12232698	Raseinių miesto sen.	Raseiniu miesto sen.		55.37998	23.11606	A	ADM3	LT		57	72	7201		0		91	Europe/Vilnius	2021-04-21
+12232699	Riešės sen.	Rieses sen.		54.85112	25.30454	A	ADM3	LT		65	41	4168		0		158	Europe/Vilnius	2021-04-21
+12232700	Skaistgirio sen.	Skaistgirio sen.		56.27632	23.41853	A	ADM3	LT		61	47	4756		0		59	Europe/Vilnius	2021-04-21
+12232701	Buivydžių sen.	Buivydziu sen.		54.84239	25.65887	A	ADM3	LT		65	41	4107		0		177	Europe/Vilnius	2021-04-21
+12232702	Onuškio sen.	Onuskio sen.		54.48976	24.53615	A	ADM3	LT		65	79	7969		0		138	Europe/Vilnius	2021-04-21
+12232703	Plokščių sen.	Ploksciu sen.		55.05815	23.16563	A	ADM3	LT		59	84	8455		0		69	Europe/Vilnius	2021-04-21
+12232704	Antazavės sen.	Antazaves sen.		55.82817	25.95238	A	ADM3	LT		64	43	4307		0		148	Europe/Vilnius	2021-04-21
+12232705	Lukšių sen.	Luksiu sen.		54.94573	23.23968	A	ADM3	LT		59	84	8443		0		56	Europe/Vilnius	2021-04-21
+12232706	Antakalnio sen.	Antakalnio sen.		54.75006	25.38137	A	ADM3	LT		65	13	1301		0		129	Europe/Vilnius	2021-04-21
+12232707	Medininkų sen.	Medininku sen.		54.51908	25.61404	A	ADM3	LT		65	41	4151		0		249	Europe/Vilnius	2021-04-21
+12232708	Linksmakalnio sen.	Linksmakalnio sen.		54.76142	23.9328	A	ADM3	LT		57	52	5243		0		62	Europe/Vilnius	2021-04-21
+12232709	Mielagėnų sen.	Mielagenu sen.		55.2556	26.4687	A	ADM3	LT		64	45	4537		0		140	Europe/Vilnius	2021-04-21
+12232710	Kernavės sen.	Kernaves sen.		54.9049	24.83921	A	ADM3	LT		65	89	8910		0		104	Europe/Vilnius	2021-04-21
+12232711	Kintų sen.	Kintu sen.		55.40146	21.32225	A	ADM3	LT		58	88	8850		0		0	Europe/Vilnius	2021-04-21
+12232712	Katyčių sen.	Katyciu sen.		55.26366	21.8275	A	ADM3	LT		58	88	8840		0		21	Europe/Vilnius	2021-04-21
+12232713	Elektrėnų sen.	Elektrenu sen.		54.7733	24.68808	A	ADM3	LT		65	42	4215		0		100	Europe/Vilnius	2021-04-21
+12232714	Usėnų sen.	Usenu sen.		55.23385	21.68653	A	ADM3	LT		58	88	8884		0		6	Europe/Vilnius	2021-04-21
+12232715	Kelmės sen.	Kelmes sen.		55.63381	22.94227	A	ADM3	LT		61	54	5401		0		123	Europe/Vilnius	2021-04-21
+12232716	Musninkų sen.	Musninku sen.		54.96778	24.84788	A	ADM3	LT		65	89	8967		0		105	Europe/Vilnius	2021-04-21
+12232717	Dieveniškių sen.	Dieveniskiu sen.		54.19803	25.66303	A	ADM3	LT		65	85	8527		0		173	Europe/Vilnius	2021-04-21
+12232718	Eržvilko sen.	Erzvilko sen.		55.30642	22.70917	A	ADM3	LT		62	94	9485		0		59	Europe/Vilnius	2021-04-21
+12232719	Birštono sen.	Birstono sen.		54.559	24.01991	A	ADM3	LT		57	12	1201		0		77	Europe/Vilnius	2021-04-21
+12232720	Plungės miesto sen.	Plunges miesto sen.		55.91308	21.8417	A	ADM3	LT		63	68	6801		0		114	Europe/Vilnius	2021-04-21
+12232721	Lazdijų sen.	Lazdiju sen.		54.23045	23.4972	A	ADM3	LT		56	59	5940		0		129	Europe/Vilnius	2021-04-24
+12232722	Nemunėlio Radviliškio sen.	Nemunelio Radviliskio sen.		56.3927	24.78077	A	ADM3	LT		60	36	3640		0		46	Europe/Vilnius	2021-04-24
+12232723	Kražių sen.	Kraziu sen.		55.62148	22.63344	A	ADM3	LT		61	54	5425		0		150	Europe/Vilnius	2021-04-21
+12232724	Akademijos sen.	Akademijos sen.		54.89562	23.82196	A	ADM3	LT		57	52	5290		0		76	Europe/Vilnius	2021-04-21
+12232725	Naujamiesčio sen.	Naujamiescio sen.		55.69514	24.12404	A	ADM3	LT		60	66	6642		0		50	Europe/Vilnius	2021-04-21
+12232726	Matuizų sen.	Matuizu sen.		54.27724	24.73171	A	ADM3	LT		56	38	3842		0		148	Europe/Vilnius	2021-04-21
+12232727	Liubavo sen.	Liubavo sen.		54.35408	23.08051	A	ADM3	LT		59	48	4839		0		116	Europe/Vilnius	2021-04-21
+12232728	Šnipiškių sen.	Snipiskiu sen.		54.70196	25.27705	A	ADM3	LT		65	13	1316		0		107	Europe/Vilnius	2021-04-21
+12232729	Tytuvėnų sen.	Tytuvenu sen.		55.59974	23.18661	A	ADM3	LT		61	54	5473		0		153	Europe/Vilnius	2021-04-21
+12232730	Nemenčinės miesto sen.	Nemencines miesto sen.		54.84826	25.47176	A	ADM3	LT		65	41	4101		0		116	Europe/Vilnius	2021-04-21
+12232731	Kidulių sen.	Kiduliu sen.		55.03414	22.85343	A	ADM3	LT		59	84	8430		0		42	Europe/Vilnius	2021-04-21
+12232732	Šančių sen.	Sanciu sen.		54.87708	23.94467	A	ADM3	LT		57	19	1903		0		69	Europe/Vilnius	2021-04-21
+12232733	Pašilaičių sen.	Pasilaiciu sen.		54.73927	25.20931	A	ADM3	LT		65	13	1310		0		180	Europe/Vilnius	2021-04-21
+12232734	Sintautų sen.	Sintautu sen.		54.86042	23.00467	A	ADM3	LT		59	84	8471		0		43	Europe/Vilnius	2021-04-21
+12232735	Aleksandrijos sen.	Aleksandrijos sen.		56.28064	21.72108	A	ADM3	LT		58	75	7508		0		49	Europe/Vilnius	2021-04-21
+12232736	Naujosios Akmenės miesto sen.	Naujosios Akmenes miesto sen.		56.31838	22.89385	A	ADM3	LT		61	32	3260		0		74	Europe/Vilnius	2021-04-21
+12232737	Viršuliškių sen.	Virsuliskiu sen.		54.70689	25.22432	A	ADM3	LT		65	13	1318		0		170	Europe/Vilnius	2021-04-21
+12232738	Eigulių sen.	Eiguliu sen.		54.93842	23.9429	A	ADM3	LT		57	19	1909		0		74	Europe/Vilnius	2021-04-21
+12232739	Karsakiškio sen.	Karsakiskio sen.		55.82506	24.59586	A	ADM3	LT		60	66	6625		0		62	Europe/Vilnius	2021-04-21
+12232740	Daugų sen.	Daugu sen.		54.35108	24.32454	A	ADM3	LT		56	33	3317		0		136	Europe/Vilnius	2021-04-21
+12232741	Upynos sen.	Upynos sen.		55.47253	22.39273	A	ADM3	LT		62	87	8769		0		149	Europe/Vilnius	2021-04-21
+12232742	Kretingos sen.	Kretingos sen.		55.93913	21.26978	A	ADM3	LT		58	56	5651		0		26	Europe/Vilnius	2021-04-21
+12232743	Kuktiškių sen.	Kuktiskiu sen.		55.40694	25.68844	A	ADM3	LT		64	82	8223		0		170	Europe/Vilnius	2021-04-21
+12232744	Jonavos miesto sen.	Jonavos miesto sen.		55.07922	24.2785	A	ADM3	LT		57	46	4601		0		63	Europe/Vilnius	2021-04-21
+12232745	Bartninkų sen.	Bartninku sen.		54.5138	23.02225	A	ADM3	LT		59	39	3914		0		94	Europe/Vilnius	2021-04-21
+12232746	Rėkyvos sen.	Rekyvos sen.		55.87635	23.35306	A	ADM3	LT		61	29	2901		0		126	Europe/Vilnius	2021-04-21
+12232747	Dainavos sen.	Dainavos sen.		54.92048	23.97449	A	ADM3	LT		57	19	1904		0		73	Europe/Vilnius	2021-04-21
+12232748	Didžiasalio sen.	Didziasalio sen.		55.29391	26.72224	A	ADM3	LT		64	45	4520		0		129	Europe/Vilnius	2021-04-21
+12232749	Lumpėnų sen.	Lumpenu sen.		55.10046	22.02027	A	ADM3	LT		62	63	6308		0		36	Europe/Vilnius	2021-04-21
+12232750	Zarasų sen.	Zarasu sen.		55.70419	26.20249	A	ADM3	LT		64	43	4330		0		176	Europe/Vilnius	2021-04-21
+12232751	Skirsnemunės sen.	Skirsnemunes sen.		55.12549	22.95628	A	ADM3	LT		62	94	9460		0		52	Europe/Vilnius	2021-04-21
+12232752	Vilijampolės sen.	Vilijampoles sen.		54.91542	23.8443	A	ADM3	LT		57	19	1910		0		33	Europe/Vilnius	2021-04-21
+12232753	Skėmių sen.	Skemiu sen.		55.57284	23.81069	A	ADM3	LT		61	71	7154		0		98	Europe/Vilnius	2021-04-21
+12232754	Šventežerio sen.	Sventezerio sen.		54.26607	23.65474	A	ADM3	LT		56	59	5979		0		152	Europe/Vilnius	2021-04-21
+12232755	Pastrėvio sen.	Pastrevio sen.		54.71275	24.71144	A	ADM3	LT		65	42	4216		0		129	Europe/Vilnius	2021-04-21
+12232756	Dotnuvos sen.	Dotnuvos sen.		55.40822	23.86098	A	ADM3	LT		57	53	5313		0		65	Europe/Vilnius	2021-04-21
+12232757	Dūkštų sen.	Dukstu sen.		54.83226	24.97435	A	ADM3	LT		65	41	4128		0		111	Europe/Vilnius	2021-04-21
+12232758	Ariogalos miesto sen.	Ariogalos miesto sen.		55.26351	23.47799	A	ADM3	LT		57	72	7205		0		76	Europe/Vilnius	2021-04-21
+12232759	Žemaičių Naumiesčio sen.	Zemaiciu Naumiescio sen.		55.34324	21.73611	A	ADM3	LT		58	88	8820		0		36	Europe/Vilnius	2021-04-21
+12232760	Kalvarijos sen.	Kalvarijos sen.		54.41044	23.23192	A	ADM3	LT		59	48	4834		0		106	Europe/Vilnius	2021-04-21
+12232761	Reivyčių sen.	Reivyciu sen.		56.36424	22.335	A	ADM3	LT		63	61	6124		0		63	Europe/Vilnius	2021-04-21
+12232762	Grendavės sen.	Grendaves sen.		54.48205	24.69315	A	ADM3	LT		65	79	7927		0		147	Europe/Vilnius	2021-04-21
+12232763	Verkių sen.	Verkiu sen.		54.77452	25.30765	A	ADM3	LT		65	13	1313		0		143	Europe/Vilnius	2021-04-21
+12232764	Skapiškio sen.	Skapiskio sen.		55.88417	25.21309	A	ADM3	LT		60	57	5777		0		87	Europe/Vilnius	2021-04-21
+12232765	Jauniūnų sen.	Jauniunu sen.		54.92677	25.02023	A	ADM3	LT		65	89	8989		0		121	Europe/Vilnius	2021-04-21
+12232766	Šunskų sen.	Sunsku sen.		54.62154	23.33837	A	ADM3	LT		59	18	1876		0		78	Europe/Vilnius	2021-04-21
+12232767	Aleksoto sen.	Aleksoto sen.		54.87257	23.88409	A	ADM3	LT		57	19	1908		0		76	Europe/Vilnius	2021-04-21
+12232768	Zarasų miesto sen.	Zarasu miesto sen.		55.72953	26.243	A	ADM3	LT		64	43	4350		0		142	Europe/Vilnius	2021-04-21
+12232769	Joniškio sen.	Joniskio sen.		56.22913	23.52328	A	ADM3	LT		61	47	4760		0		57	Europe/Vilnius	2021-04-21
+12232770	Utenos sen.	Utenos sen.		55.47247	25.66377	A	ADM3	LT		64	82	8274		0		151	Europe/Vilnius	2021-04-21
+12232771	Butrimonių sen.	Butrimoniu sen.		54.23948	25.14247	A	ADM3	LT		65	85	8509		0		156	Europe/Vilnius	2021-04-21
+12232772	Paįstrio sen.	Paistrio sen.		55.85322	24.344	A	ADM3	LT		60	66	6695		0		44	Europe/Vilnius	2021-04-21
+12232773	Žygaičių sen.	Zygaiciu sen.		55.29966	22.05669	A	ADM3	LT		62	77	7737		0		45	Europe/Vilnius	2021-04-21
+12232774	Lauksargių sen.	Lauksargiu sen.		55.19627	22.11308	A	ADM3	LT		62	77	7748		0		35	Europe/Vilnius	2021-04-21
+12232775	Žvėryno sen.	Zveryno sen.		54.69507	25.25039	A	ADM3	LT		65	13	1320		0		103	Europe/Vilnius	2021-04-21
+12232776	Leliūnų sen.	Leliunu sen.		55.46578	25.46946	A	ADM3	LT		64	82	8226		0		168	Europe/Vilnius	2021-04-21
+12232777	Veliuonos sen.	Veliuonos sen.		55.16058	23.24831	A	ADM3	LT		62	94	9418		0		66	Europe/Vilnius	2021-04-21
+12232778	Pabiržės sen.	Pabirzes sen.		56.17213	24.608	A	ADM3	LT		60	36	3648		0		45	Europe/Vilnius	2021-04-21
+12232779	Girdžių sen.	Girdziu sen.		55.19947	22.82384	A	ADM3	LT		62	94	9435		0		49	Europe/Vilnius	2021-04-21
+12232780	Subačiaus sen.	Subaciaus sen.		55.77464	24.78291	A	ADM3	LT		60	57	5785		0		79	Europe/Vilnius	2021-04-21
+12232781	Akmenynės sen.	Akmenynes sen.		54.37689	25.5134	A	ADM3	LT		65	85	8505		0		200	Europe/Vilnius	2021-04-21
+12232782	Smalininkų sen.	Smalininku sen.		55.07325	22.52629	A	ADM3	LT		62	94	9475		0		26	Europe/Vilnius	2021-04-21
+12232783	Pašvitinio sen.	Pasvitinio sen.		56.12564	23.76851	A	ADM3	LT		61	65	6558		0		58	Europe/Vilnius	2021-04-21
+12232784	Pajūrio sen.	Pajurio sen.		55.45289	22.03295	A	ADM3	LT		62	87	8736		0		77	Europe/Vilnius	2021-04-21
+12232785	Vainuto sen.	Vainuto sen.		55.37431	21.9008	A	ADM3	LT		58	88	8806		0		68	Europe/Vilnius	2021-04-21
+12232786	Bijotų sen.	Bijotu sen.		55.48768	22.56261	A	ADM3	LT		62	87	8703		0		138	Europe/Vilnius	2021-04-21
+12232787	Rasų sen.	Rasu sen.		54.65659	25.31865	A	ADM3	LT		65	13	1312		0		171	Europe/Vilnius	2021-04-21
+12232788	Palentinio sen.	Palentinio sen.		55.64731	22.42577	A	ADM3	LT		62	87	8741		0		172	Europe/Vilnius	2021-04-21
+12232789	Žalgirio sen.	Zalgirio sen.		55.85405	21.38977	A	ADM3	LT		58	56	5623		0		16	Europe/Vilnius	2021-04-21
+12232790	Raseinių sen.	Raseiniu sen.		55.39323	23.15364	A	ADM3	LT		57	72	7284		0		104	Europe/Vilnius	2021-04-21
+12232791	Baisogalos sen.	Baisogalos sen.		55.64686	23.73666	A	ADM3	LT		61	71	7113		0		94	Europe/Vilnius	2021-04-21
+12232792	Dusetų sen.	Dusetu sen.		55.72982	25.85244	A	ADM3	LT		64	43	4328		0		109	Europe/Vilnius	2021-04-21
+12232793	Nemenčinės sen.	Nemencines sen.		54.87837	25.46812	A	ADM3	LT		65	41	4154		0		146	Europe/Vilnius	2021-04-24
+12232794	Saugų sen.	Saugu sen.		55.46477	21.45473	A	ADM3	LT		58	88	8872		0		6	Europe/Vilnius	2021-04-21
+12232795	Rūdiškių sen.	Rudiskiu sen.		54.49902	24.82814	A	ADM3	LT		65	79	7981		0		166	Europe/Vilnius	2021-04-21
+12232796	Sangrūdos sen.	Sangrudos sen.		54.30775	23.2557	A	ADM3	LT		59	48	4862		0		154	Europe/Vilnius	2021-04-21
+12232797	Vilainių sen.	Vilainiu sen.		55.34495	24.09519	A	ADM3	LT		57	53	5302		0		50	Europe/Vilnius	2021-04-21
+12232798	Kriaunų sen.	Kriaunu sen.		55.85962	25.79383	A	ADM3	LT		60	73	7319		0		101	Europe/Vilnius	2021-04-21
+12232799	Kazitiškio sen.	Kazitiskio sen.		55.47284	26.16113	A	ADM3	LT		64	45	4528		0		178	Europe/Vilnius	2021-04-21
+12232800	Didkiemio sen.	Didkiemio sen.		55.39648	22.14909	A	ADM3	LT		62	87	8707		0		84	Europe/Vilnius	2021-04-21
+12232801	Grinkiškio sen.	Grinkiskio sen.		55.55987	23.60265	A	ADM3	LT		61	71	7115		0		111	Europe/Vilnius	2021-04-21
+12232802	Salako sen.	Salako sen.		55.58673	26.12339	A	ADM3	LT		64	43	4348		0		172	Europe/Vilnius	2021-04-21
+12232803	Degaičių sen.	Degaiciu sen.		56.02385	22.34242	A	ADM3	LT		63	78	7824		0		131	Europe/Vilnius	2021-04-21
+12232804	Kelmės apylinkių sen.	Kelmes apylinkiu sen.		55.66321	22.88203	A	ADM3	LT		61	54	5419		0		152	Europe/Vilnius	2021-04-21
+12232805	Pernaravos sen.	Pernaravos sen.		55.24009	23.64375	A	ADM3	LT		57	53	5352		0		76	Europe/Vilnius	2021-04-21
+12232806	Siesikų sen.	Siesiku sen.		55.31432	24.49782	A	ADM3	LT		65	81	8172		0		78	Europe/Vilnius	2021-04-21
+12232807	Imbrado sen.	Imbrado sen.		55.77936	26.09091	A	ADM3	LT		64	43	4332		0		154	Europe/Vilnius	2021-04-21
+12232808	Židikų sen.	Zidiku sen.		56.35036	22.07154	A	ADM3	LT		63	61	6107		0		89	Europe/Vilnius	2021-04-21
+12232809	Sedos sen.	Sedos sen.		56.18105	22.07226	A	ADM3	LT		63	61	6135		0		104	Europe/Vilnius	2021-04-21
+12232810	Pabaisko sen.	Pabaisko sen.		55.16063	24.7283	A	ADM3	LT		65	81	8161		0		119	Europe/Vilnius	2021-04-21
+12232811	Veprių sen.	Vepriu sen.		55.14147	24.58909	A	ADM3	LT		65	81	8118		0		58	Europe/Vilnius	2021-04-21
+12232812	Paluknio sen.	Paluknio sen.		54.4992	25.03885	A	ADM3	LT		65	79	7973		0		150	Europe/Vilnius	2021-04-21
+12232813	Griškabūdžio sen.	Griskabudzio sen.		54.85116	23.20718	A	ADM3	LT		59	84	8417		0		51	Europe/Vilnius	2021-04-21
+12232814	Barzdų sen.	Barzdu sen.		54.76998	23.19756	A	ADM3	LT		59	84	8405		0		42	Europe/Vilnius	2021-04-21
+12232815	Igliaukos sen.	Igliaukos sen.		54.54203	23.60159	A	ADM3	LT		59	18	1830		0		82	Europe/Vilnius	2021-04-21
+12232816	Beižionių sen.	Beizioniu sen.		54.67362	24.51506	A	ADM3	LT		65	42	4288		0		192	Europe/Vilnius	2021-04-21
+12232817	Judrėnų sen.	Judrenu sen.		55.59902	21.77832	A	ADM3	LT		58	55	5510		0		113	Europe/Vilnius	2021-04-21
+12232818	Naujosios Ūtos sen.	Naujosios Utos sen.		54.58892	23.77515	A	ADM3	LT		57	69	6950		0		108	Europe/Vilnius	2021-04-21
+12232819	Tirkšlių sen.	Tirksliu sen.		56.23044	22.33227	A	ADM3	LT		63	61	6146		0		81	Europe/Vilnius	2021-04-21
+12232820	Kriukų sen.	Kriuku sen.		56.27124	23.83722	A	ADM3	LT		61	47	4731		0		46	Europe/Vilnius	2021-04-21
+12232821	Josvainių sen.	Josvainiu sen.		55.22985	23.78407	A	ADM3	LT		57	53	5317		0		62	Europe/Vilnius	2021-04-21
+12232822	Zibalų sen.	Zibalu sen.		55.10088	25.03303	A	ADM3	LT		65	89	8934		0		151	Europe/Vilnius	2021-04-21
+12232823	Pakruojo sen.	Pakruojo sen.		55.99201	23.81919	A	ADM3	LT		61	65	6546		0		63	Europe/Vilnius	2021-04-21
+12232824	Šateikių sen.	Sateikiu sen.		55.95587	21.67943	A	ADM3	LT		63	68	6895		0		96	Europe/Vilnius	2021-04-21
+12232825	Grigiškių sen.	Grigiskiu sen.		54.67256	25.10079	A	ADM3	LT		65	13	1321		0		104	Europe/Vilnius	2021-04-21
+12232826	Guostagalio sen.	Guostagalio sen.		56.14024	24.09471	A	ADM3	LT		61	65	6504		0		50	Europe/Vilnius	2021-04-21
+12232827	Jurbarko miesto sen.	Jurbarko miesto sen.		55.07967	22.74117	A	ADM3	LT		62	94	9494		0		24	Europe/Vilnius	2021-04-21
+12232828	Kalvelių sen.	Kalveliu sen.		54.62168	25.68009	A	ADM3	LT		65	41	4139		0		230	Europe/Vilnius	2021-04-21
+12232829	Joniškėlio miesto sen.	Joniskelio miesto sen.		56.02102	24.17211	A	ADM3	LT		60	67	6704		0		50	Europe/Vilnius	2021-04-21
+12232830	Akmenės sen.	Akmenes sen.		56.27969	22.69417	A	ADM3	LT		61	32	3204		0		90	Europe/Vilnius	2021-04-21
+12232831	Degučių sen.	Deguciu sen.		54.57077	23.36343	A	ADM3	LT		59	18	1801		0		68	Europe/Vilnius	2021-04-21
+12232832	Juodšilių sen.	Juodsiliu sen.		54.56547	25.27842	A	ADM3	LT		65	41	4194		0		145	Europe/Vilnius	2021-04-21
+12232833	Jūžintų sen.	Juzintu sen.		55.82243	25.67494	A	ADM3	LT		60	73	7375		0		127	Europe/Vilnius	2021-04-21
+12232834	Dainavos sen.	Dainavos sen.		54.24527	24.93862	A	ADM3	LT		65	85	8519		0		148	Europe/Vilnius	2021-04-21
+12232835	Degučių sen.	Deguciu sen.		55.63037	25.98138	A	ADM3	LT		64	43	4326		0		148	Europe/Vilnius	2021-04-21
+12232836	Juknaičių sen.	Juknaiciu sen.		55.26469	21.5838	A	ADM3	LT		58	88	8897		0		5	Europe/Vilnius	2021-04-21
+12232837	Kėdainių miesto sen.	Kedainiu miesto sen.		55.29906	23.93024	A	ADM3	LT		57	53	5301		0		42	Europe/Vilnius	2021-04-21
+12232838	Šimonių sen.	Simoniu sen.		55.75712	25.17318	A	ADM3	LT		60	57	5795		0		117	Europe/Vilnius	2021-04-21
+12232839	Stoniškių sen.	Stoniskiu sen.		55.1731	21.77956	A	ADM3	LT		62	63	6378		0		0	Europe/Vilnius	2021-04-21
+12232840	Akmenynų sen.	Akmenynu sen.		54.42064	23.05998	A	ADM3	LT		59	48	4814		0		181	Europe/Vilnius	2021-04-21
+12232841	Širvėnos sen.	Sirvenos sen.		56.1484	24.77413	A	ADM3	LT		60	36	3604		0		56	Europe/Vilnius	2021-04-21
+12232842	Lavoriškių sen.	Lavoriskiu sen.		54.73603	25.66811	A	ADM3	LT		65	41	4142		0		178	Europe/Vilnius	2021-04-21
+12232843	Šeduvos miesto sen.	Seduvos miesto sen.		55.74492	23.75037	A	ADM3	LT		61	71	7161		0		95	Europe/Vilnius	2021-04-21
+12232844	Jurbarkų sen.	Jurbarku sen.		55.14335	22.66492	A	ADM3	LT		62	94	9497		0		26	Europe/Vilnius	2021-04-21
+12232845	Laižuvos sen.	Laizuvos sen.		56.36913	22.5154	A	ADM3	LT		63	61	6112		0		80	Europe/Vilnius	2021-04-21
+12232846	Barstyčių sen.	Barstyciu sen.		56.16443	21.88111	A	ADM3	LT		58	75	7512		0		135	Europe/Vilnius	2021-04-21
+12232847	Čiobiškio sen.	Ciobiskio sen.		54.97624	24.67505	A	ADM3	LT		65	89	8978		0		103	Europe/Vilnius	2021-04-21
+12232848	Notėnų sen.	Notenu sen.		56.12109	21.71709	A	ADM3	LT		58	75	7557		0		90	Europe/Vilnius	2021-04-21
+12232849	Liolių sen.	Lioliu sen.		55.5637	22.99331	A	ADM3	LT		61	54	5437		0		135	Europe/Vilnius	2021-04-21
+12232850	Sarių sen.	Sariu sen.		55.03809	26.00644	A	ADM3	LT		65	86	8657		0		164	Europe/Vilnius	2021-04-21
+12232851	Petrašiūnų sen.	Petrasiunu sen.		54.90261	24.02311	A	ADM3	LT		57	19	1906		0		63	Europe/Vilnius	2021-04-21
+12232852	Adutiškio sen.	Adutiskio sen.		55.20379	26.62288	A	ADM3	LT		65	86	8604		0		134	Europe/Vilnius	2021-04-21
+12232853	Andrioniškio sen.	Andrioniskio sen.		55.63378	25.09498	A	ADM3	LT		64	34	3410		0		98	Europe/Vilnius	2021-04-21
+12232854	Neveronių sen.	Neveroniu sen.		54.93008	24.1106	A	ADM3	LT		57	52	5247		0		66	Europe/Vilnius	2021-04-21
+12232855	Mindūnų sen.	Mindunu sen.		55.2465	25.6105	A	ADM3	LT		64	62	6262		0		153	Europe/Vilnius	2021-04-21
+12232856	Sendvario sen.	Sendvario sen.		55.74992	21.21959	A	ADM3	LT		58	55	5570		0		20	Europe/Vilnius	2021-04-21
+12232857	Panevėžio sen.	Panevezio sen.		55.75649	24.28018	A	ADM3	LT		60	66	6647		0		45	Europe/Vilnius	2021-04-21
+12232858	Gaižaičių sen.	Gaizaiciu sen.		56.23815	23.18413	A	ADM3	LT		61	47	4720		0		88	Europe/Vilnius	2021-04-21
+12232859	Žvirgždaičių sen.	Zvirgzdaiciu sen.		54.79359	23.05417	A	ADM3	LT		59	84	8497		0		43	Europe/Vilnius	2021-04-21
+12232860	Bezdonių sen.	Bezdoniu sen.		54.80479	25.50155	A	ADM3	LT		65	41	4110		0		136	Europe/Vilnius	2021-04-21
+12232861	Nemėžio sen.	Nemezio sen.		54.62871	25.38857	A	ADM3	LT		65	41	4157		0		214	Europe/Vilnius	2021-04-21
+12232862	Telšių miesto sen.	Telsiu miesto sen.		55.97897	22.24569	A	ADM3	LT		63	78	7810		0		121	Europe/Vilnius	2021-04-21
+12232863	Radviliškio miesto sen.	Radviliskio miesto sen.		55.81094	23.55314	A	ADM3	LT		61	71	7160		0		125	Europe/Vilnius	2021-04-21
+12232864	Garliavos apylinkių sen.	Garliavos apylinkiu sen.		54.78666	23.84965	A	ADM3	LT		57	52	5221		0		65	Europe/Vilnius	2021-04-21
+12232865	Kartenos sen.	Kartenos sen.		55.90629	21.52494	A	ADM3	LT		58	56	5645		0		65	Europe/Vilnius	2021-04-21
+12232866	Kūlupėnų sen.	Kulupenu sen.		55.97416	21.49216	A	ADM3	LT		58	56	5656		0		61	Europe/Vilnius	2021-04-21
+12232867	Kurklių sen.	Kurkliu sen.		55.39014	25.07543	A	ADM3	LT		64	34	3426		0		128	Europe/Vilnius	2021-04-21
+12232868	Viečiūnų sen.	Vieciunu sen.		54.00053	24.0784	A	ADM3	LT		56	15	1570		0		126	Europe/Vilnius	2021-04-21
+12232869	Kučiūnų sen.	Kuciunu sen.		54.11695	23.53712	A	ADM3	LT		56	59	5937		0		130	Europe/Vilnius	2021-04-21
+12232870	Pagirių sen.	Pagiriu sen.		54.54873	25.16357	A	ADM3	LT		65	41	4115		0		140	Europe/Vilnius	2021-04-21
+12232871	Alovės sen.	Aloves sen.		54.36621	24.16586	A	ADM3	LT		56	33	3302		0		137	Europe/Vilnius	2021-04-21
+12232872	Ryškėnų sen.	Ryskenu sen.		55.93369	22.18956	A	ADM3	LT		63	78	7869		0		168	Europe/Vilnius	2021-04-21
+12232873	Bukonių sen.	Bukoniu sen.		55.21524	24.32706	A	ADM3	LT		57	46	4607		0		78	Europe/Vilnius	2021-04-21
+12232874	Eišiškių sen.	Eisiskiu sen.		54.18075	25.03464	A	ADM3	LT		65	85	8580		0		143	Europe/Vilnius	2021-04-21
+12232875	Švenčionių sen.	Svencioniu sen.		55.1719	26.21602	A	ADM3	LT		65	86	8601		0		220	Europe/Vilnius	2021-04-21
+12232876	Keturvalakių sen.	Keturvalakiu sen.		54.54755	23.13564	A	ADM3	LT		59	39	3938		0		90	Europe/Vilnius	2021-04-21
+12232877	Kazliškio sen.	Kazliskio sen.		56.01435	25.37194	A	ADM3	LT		60	73	7312		0		90	Europe/Vilnius	2021-04-21
+12232878	Gričiupio sen.	Griciupio sen.		54.904	23.96315	A	ADM3	LT		57	19	1905		0		65	Europe/Vilnius	2021-04-21
+12232879	Naujojo Daugėliškio sen.	Naujojo Daugeliskio sen.		55.37907	26.37446	A	ADM3	LT		64	45	4542		0		149	Europe/Vilnius	2021-04-21
+12232880	Žirmūnų sen.	Zirmunu sen.		54.71122	25.29817	A	ADM3	LT		65	13	1319		0		121	Europe/Vilnius	2021-04-21
+12232881	Gargždų sen.	Gargzdu sen.		55.71313	21.37621	A	ADM3	LT		58	55	5501		0		32	Europe/Vilnius	2021-04-21
+12232882	Mažeikių apylinkės sen.	Mazeikiu apylinkes sen.		56.31097	22.38224	A	ADM3	LT		63	61	6119		0		85	Europe/Vilnius	2021-04-21
+12232883	Biržų miesto sen.	Birzu miesto sen.		56.20143	24.76354	A	ADM3	LT		60	36	3601		0		53	Europe/Vilnius	2021-04-21
+12232884	Kazokiškių sen.	Kazokiskiu sen.		54.84316	24.82636	A	ADM3	LT		65	42	4219		0		114	Europe/Vilnius	2021-04-21
+12232885	Pravieniškių sen.	Pravieniskiu sen.		54.92172	24.21157	A	ADM3	LT		57	49	4953		0		74	Europe/Vilnius	2021-04-21
+12232886	Bilionių sen.	Bilioniu sen.		55.59674	22.31953	A	ADM3	LT		62	87	8705		0		181	Europe/Vilnius	2021-04-21
+12232887	Medingėnų sen.	Medingenu sen.		55.80224	22.06595	A	ADM3	LT		63	74	7440		0		111	Europe/Vilnius	2021-04-21
+12232888	Sužionių sen.	Suzioniu sen.		54.97015	25.53156	A	ADM3	LT		65	41	4181		0		154	Europe/Vilnius	2021-04-21
+12232889	Širvintų miesto sen.	Sirvintu miesto sen.		55.04398	24.95713	A	ADM3	LT		65	89	9500		0		108	Europe/Vilnius	2021-04-21
+12232890	Upytės sen.	Upytes sen.		55.62107	24.2355	A	ADM3	LT		60	66	6690		0		52	Europe/Vilnius	2021-04-21
+12232891	Panerių sen.	Paneriu sen.		54.62279	25.13977	A	ADM3	LT		65	13	1309		0		132	Europe/Vilnius	2021-04-21
+12232892	Raguvos sen.	Raguvos sen.		55.52642	24.6122	A	ADM3	LT		60	66	6661		0		82	Europe/Vilnius	2021-04-21
+12232893	Daugėdų sen.	Daugedu sen.		55.80608	21.95135	A	ADM3	LT		63	74	7483		0		104	Europe/Vilnius	2021-04-21
+12232894	Užvenčio sen.	Uzvencio sen.		55.77842	22.64102	A	ADM3	LT		61	54	5477		0		149	Europe/Vilnius	2021-04-21
+12232895	Kačerginės sen.	Kacergines sen.		54.93245	23.70979	A	ADM3	LT		57	52	5236		0		27	Europe/Vilnius	2021-04-21
+12232896	Vyžuonų sen.	Vyzuonu sen.		55.56053	25.5099	A	ADM3	LT		64	82	8206		0		93	Europe/Vilnius	2021-04-21
+12232897	Utenos miesto sen.	Utenos miesto sen.		55.50065	25.60484	A	ADM3	LT		64	82	8201		0		104	Europe/Vilnius	2021-04-21
+12232898	Trakų sen.	Traku sen.		54.64489	24.85485	A	ADM3	LT		65	79	7994		0		162	Europe/Vilnius	2021-04-21
+12232899	Senųjų Trakų sen.	Senuju Traku sen.		54.5905	24.98786	A	ADM3	LT		65	79	7990		0		152	Europe/Vilnius	2021-04-21
+12232900	Varnių sen.	Varniu sen.		55.7481	22.3823	A	ADM3	LT		63	78	7811		0		151	Europe/Vilnius	2021-04-21
+12232901	Rumšiškių sen.	Rumsiskiu sen.		54.86295	24.25474	A	ADM3	LT		57	49	4952		0		76	Europe/Vilnius	2021-04-21
+12232902	Pačeriaukštės sen.	Paceriaukstes sen.		56.26124	24.5852	A	ADM3	LT		60	36	3649		0		39	Europe/Vilnius	2021-04-21
+12232903	Šaukėnų sen.	Saukenu sen.		55.80864	22.8537	A	ADM3	LT		61	54	5480		0		115	Europe/Vilnius	2021-04-21
+12232904	Svirkų sen.	Svirku sen.		55.17913	26.41804	A	ADM3	LT		65	86	8659		0		179	Europe/Vilnius	2021-04-21
+12232905	Tauragės miesto sen.	Taurages miesto sen.		55.25131	22.29196	A	ADM3	LT		62	77	7701		0		35	Europe/Vilnius	2021-04-21
+12232906	Saugėlaukio sen.	Saugelaukio sen.		56.25995	23.72404	A	ADM3	LT		61	47	4751		0		43	Europe/Vilnius	2021-04-21
+12232907	Naujosios Vilnios sen.	Naujosios Vilnios sen.		54.68299	25.39285	A	ADM3	LT		65	13	1308		0		188	Europe/Vilnius	2021-04-21
+12232908	Merkinės sen.	Merkines sen.		54.16406	24.17973	A	ADM3	LT		56	38	3847		0		110	Europe/Vilnius	2021-04-21
+12232909	Kalesninkų sen.	Kalesninku sen.		54.19962	24.86636	A	ADM3	LT		65	85	8534		0		148	Europe/Vilnius	2021-04-21
+12232910	Bubių sen.	Bubiu sen.		55.84266	23.08205	A	ADM3	LT		61	91	9107		0		104	Europe/Vilnius	2021-04-21
+12232911	Kupiškio sen.	Kupiskio sen.		55.86476	24.95818	A	ADM3	LT		60	57	5719		0		94	Europe/Vilnius	2021-04-21
+12232912	Noriūnų sen.	Noriunu sen.		55.78376	24.89892	A	ADM3	LT		60	57	5744		0		91	Europe/Vilnius	2021-04-21
+12232913	Rokų sen.	Roku sen.		54.79757	23.9659	A	ADM3	LT		57	52	5262		0		75	Europe/Vilnius	2021-04-21
+12232914	Simno sen.	Simno sen.		54.42028	23.63859	A	ADM3	LT		56	33	3380		0		99	Europe/Vilnius	2021-04-21
+12232915	Deltuvos sen.	Deltuvos sen.		55.22957	24.60744	A	ADM3	LT		65	81	8124		0		76	Europe/Vilnius	2021-04-21
+12232916	Kretingos miesto sen.	Kretingos miesto sen.		55.88152	21.23338	A	ADM3	LT		58	56	5601		0		19	Europe/Vilnius	2021-04-21
+12232917	Viduklės sen.	Vidukles sen.		55.40335	22.89192	A	ADM3	LT		57	72	7219		0		85	Europe/Vilnius	2021-04-24
+12232918	Veiviržėnų sen.	Veivirzenu sen.		55.58799	21.60852	A	ADM3	LT		58	55	5518		0		40	Europe/Vilnius	2021-04-21
+12232919	Viekšnių sen.	Vieksniu sen.		56.19259	22.52016	A	ADM3	LT		63	61	6120		0		74	Europe/Vilnius	2021-04-21
+12232920	Taujėnų sen.	Taujenu sen.	Taujenai Eldership,Taujenai Tiuⁿ-lo-khu,Taujenai vald,Taujenu sen.,Taujenu seniunija,Taujėnai Eldership,Taujėnai Tiúⁿ-ló-khu,Taujėnai vald,Taujėnų sen.,Taujėnų seniūnija	55.41404	24.66841	A	ADM3	LT		65	81	8177		0		92	Europe/Vilnius	2023-02-18
+12232921	Kybartų sen.	Kybartu sen.		54.67229	22.80038	A	ADM3	LT		59	39	3942		0		48	Europe/Vilnius	2021-04-21
+12232922	Daujėnų sen.	Daujenu sen.		55.97709	24.53163	A	ADM3	LT		60	67	6715		0		50	Europe/Vilnius	2021-04-21
+12232923	Švenčionėlių sen.	Svencioneliu sen.		55.18027	25.99987	A	ADM3	LT		65	86	8671		0		159	Europe/Vilnius	2021-04-21
+12232924	Virbalio sen.	Virbalio sen.		54.61889	22.84554	A	ADM3	LT		59	39	3979		0		69	Europe/Vilnius	2021-04-21
+12232925	Lekėčių sen.	Lekeciu sen.		55.00229	23.47491	A	ADM3	LT		59	84	8449		0		69	Europe/Vilnius	2021-04-21
+12232926	Šeimenos sen.	Seimenos sen.		54.62911	23.01192	A	ADM3	LT		59	39	3977		0		59	Europe/Vilnius	2021-04-21
+12232927	Ukmergės miesto sen.	Ukmerges miesto sen.		55.24201	24.76918	A	ADM3	LT		65	81	8101		0		59	Europe/Vilnius	2021-04-21
+12232928	Pilviškių sen.	Pilviskiu sen.		54.69149	23.20054	A	ADM3	LT		59	39	3960		0		51	Europe/Vilnius	2021-04-21
+12232929	Gižų sen.	Gizu sen.		54.61026	23.22458	A	ADM3	LT		59	39	3926		0		63	Europe/Vilnius	2021-04-21
+12232930	Maišiagalos sen.	Maisiagalos sen.		54.86218	25.12143	A	ADM3	LT		65	41	4145		0		140	Europe/Vilnius	2021-04-21
+12232931	Linkmenų sen.	Linkmenu sen.		55.33811	25.97035	A	ADM3	LT		64	45	4534		0		165	Europe/Vilnius	2021-04-21
+12232932	Jakėnų sen.	Jakenu sen.		54.36458	24.62511	A	ADM3	LT		56	38	3879		0		138	Europe/Vilnius	2021-04-21
+12232933	Nemakščių sen.	Nemaksciu sen.		55.44753	22.78259	A	ADM3	LT		57	72	7251		0		93	Europe/Vilnius	2021-04-21
+12232934	Fabijoniškių sen.	Fabijoniskiu sen.		54.73738	25.24241	A	ADM3	LT		65	13	1302		0		189	Europe/Vilnius	2021-04-21
+12232935	Upninkų sen.	Upninku sen.		55.07458	24.50065	A	ADM3	LT		57	46	4657		0		87	Europe/Vilnius	2021-04-21
+12232936	Skuodo miesto sen.	Skuodo miesto sen.		56.26908	21.51934	A	ADM3	LT		58	75	7501		0		20	Europe/Vilnius	2021-04-21
+12232937	Ylakių sen.	Ylakiu sen.		56.27652	21.88259	A	ADM3	LT		58	75	7524		0		102	Europe/Vilnius	2021-04-21
+12232938	Batniavos sen.	Batniavos sen.		54.98823	23.65007	A	ADM3	LT		57	52	5210		0		78	Europe/Vilnius	2021-04-21
+12232939	Zujūnų sen.	Zujunu sen.		54.72018	25.11241	A	ADM3	LT		65	41	4112		0		157	Europe/Vilnius	2021-04-21
+12232940	Lentvario sen.	Lentvario sen.		54.67898	25.02514	A	ADM3	LT		65	79	7910		0		154	Europe/Vilnius	2021-04-21
+12232941	Skiemonių sen.	Skiemoniu sen.		55.46582	25.3309	A	ADM3	LT		64	34	3449		0		146	Europe/Vilnius	2021-04-24
+12232942	Rudiškių sen.	Rudiskiu sen.		56.16341	23.37661	A	ADM3	LT		61	47	4744		0		79	Europe/Vilnius	2021-04-21
+12232943	Smilgių sen.	Smilgiu sen.		55.80397	24.0749	A	ADM3	LT		60	66	6679		0		57	Europe/Vilnius	2021-04-21
+12232944	Gataučių sen.	Gatauciu sen.		56.12232	23.5357	A	ADM3	LT		61	47	4713		0		71	Europe/Vilnius	2021-04-21
+12232945	Alionių sen.	Alioniu sen.		55.02322	25.14228	A	ADM3	LT		65	89	8904		0		134	Europe/Vilnius	2021-04-21
+12232946	Truskavos sen.	Truskavos sen.		55.40307	24.24148	A	ADM3	LT		57	53	5370		0		62	Europe/Vilnius	2021-04-21
+12232947	Pumpėnų sen.	Pumpenu sen.		55.93786	24.40189	A	ADM3	LT		60	67	6752		0		46	Europe/Vilnius	2021-04-21
+12232948	Stakliškių sen.	Stakliskiu sen.		54.59745	24.34394	A	ADM3	LT		57	69	6973		0		143	Europe/Vilnius	2021-04-21
+12232949	Alytaus sen.	Alytaus sen.		54.43849	23.99231	A	ADM3	LT		56	33	3301		0		99	Europe/Vilnius	2021-04-21
+12232950	Dubingių sen.	Dubingiu sen.		55.07608	25.42289	A	ADM3	LT		64	62	6237		0		155	Europe/Vilnius	2021-04-21
+12232951	Ramygalos sen.	Ramygalos sen.		55.51107	24.32997	A	ADM3	LT		60	66	6664		0		58	Europe/Vilnius	2021-04-21
+12232952	Stalgėnų sen.	Stalgenu sen.		55.8291	21.85923	A	ADM3	LT		63	68	6883		0		108	Europe/Vilnius	2021-04-21
+12232953	Joniškėlio apylinkių sen.	Joniskelio apylinkiu sen.		56.01909	24.15244	A	ADM3	LT		60	67	6724		0		45	Europe/Vilnius	2021-04-21
+12232954	Jiezno sen.	Jiezno sen.		54.62008	24.17651	A	ADM3	LT		57	69	6930		0		98	Europe/Vilnius	2021-04-21
+12232955	Šilalės miesto sen.	Silales miesto sen.		55.49135	22.18559	A	ADM3	LT		62	87	8701		0		97	Europe/Vilnius	2021-04-21
+12232956	Ariogalos sen.	Ariogalos sen.		55.28107	23.45996	A	ADM3	LT		57	72	7209		0		84	Europe/Vilnius	2021-04-21
+12232957	Gražiškių sen.	Graziskiu sen.		54.4456	22.90963	A	ADM3	LT		59	39	3930		0		219	Europe/Vilnius	2021-04-21
+12232958	Vadoklių sen.	Vadokliu sen.		55.51161	24.47487	A	ADM3	LT		60	66	6608		0		70	Europe/Vilnius	2021-04-21
+12232959	Garliavos sen.	Garliavos sen.		54.82637	23.87457	A	ADM3	LT		57	52	5223		0		71	Europe/Vilnius	2021-04-21
+12232960	Vidiškių sen.	Vidiskiu sen.		55.3076	24.81246	A	ADM3	LT		65	81	8112		0		63	Europe/Vilnius	2021-04-21
+12232961	Magūnų sen.	Magunu sen.		54.89946	25.75341	A	ADM3	LT		65	86	8629		0		139	Europe/Vilnius	2021-04-21
+12232962	Svėdasų sen.	Svedasu sen.		55.68527	25.3751	A	ADM3	LT		64	34	3442		0		110	Europe/Vilnius	2021-04-21
+12232963	Tenenių sen.	Teneniu sen.		55.46412	21.90794	A	ADM3	LT		62	87	8749		0		80	Europe/Vilnius	2021-04-21
+12232964	Rukainių sen.	Rukainiu sen.		54.57512	25.53584	A	ADM3	LT		65	41	4174		0		193	Europe/Vilnius	2021-04-21
+12232965	Ežerėlio sen.	Ezerelio sen.		54.88392	23.60842	A	ADM3	LT		57	52	5209		0		70	Europe/Vilnius	2021-04-21
+12232966	Prienų sen.	Prienu sen.		54.64393	23.95207	A	ADM3	LT		57	69	6901		0		60	Europe/Vilnius	2021-04-24
+12232967	Taurakiemio sen.	Taurakiemio sen.		54.79479	24.09587	A	ADM3	LT		57	52	5272		0		83	Europe/Vilnius	2021-04-21
+12232968	Meškuičių sen.	Meskuiciu sen.		56.04401	23.45632	A	ADM3	LT		61	91	9148		0		90	Europe/Vilnius	2021-04-21
+12232969	Sudeikių sen.	Sudeikiu sen.		55.59717	25.66335	A	ADM3	LT		64	82	8260		0		143	Europe/Vilnius	2021-04-21
+12232970	Krokialaukio sen.	Krokialaukio sen.		54.42256	23.8227	A	ADM3	LT		56	33	3330		0		71	Europe/Vilnius	2021-04-21
+12232971	Pakalniškių sen.	Pakalniskiu sen.		55.80095	23.83304	A	ADM3	LT		61	71	7127		0		84	Europe/Vilnius	2021-04-21
+12232972	Šešuolių sen.	Sesuoliu sen.		55.19038	24.98833	A	ADM3	LT		65	81	8190		0		148	Europe/Vilnius	2021-04-21
+12232973	Paliepių sen.	Paliepiu sen.		55.37765	23.00181	A	ADM3	LT		57	72	7273		0		77	Europe/Vilnius	2021-04-21
+12232974	Pasvalio miesto sen.	Pasvalio miesto sen.		56.05965	24.39452	A	ADM3	LT		60	67	6701		0		29	Europe/Vilnius	2021-04-21
+12232975	Krakių sen.	Krakiu sen.		55.39638	23.68981	A	ADM3	LT		57	53	5325		0		93	Europe/Vilnius	2021-04-21
+12232976	Salantų miesto sen.	Salantu miesto sen.		56.05685	21.56854	A	ADM3	LT		58	56	5610		0		59	Europe/Vilnius	2021-04-21
+12232977	Vidiškių sen.	Vidiskiu sen.		55.38696	26.23641	A	ADM3	LT		64	45	4504		0		210	Europe/Vilnius	2021-04-21
+12232978	Švėkšnos sen.	Sveksnos sen.		55.50029	21.66995	A	ADM3	LT		58	88	8888		0		42	Europe/Vilnius	2021-04-21
+12232979	Domeikavos sen.	Domeikavos sen.		54.98261	23.92732	A	ADM3	LT		57	52	5226		0		87	Europe/Vilnius	2021-04-21
+12232980	Karmėlavos sen.	Karmelavos sen.		54.95359	24.05105	A	ADM3	LT		57	52	5233		0		59	Europe/Vilnius	2021-04-21
+12232981	Šerkšnėnų sen.	Serksnenu sen.		56.21428	22.18906	A	ADM3	LT		63	61	6168		0		87	Europe/Vilnius	2021-04-21
+12232982	Vaškų sen.	Vasku sen.		56.164	24.23812	A	ADM3	LT		60	67	6706		0		41	Europe/Vilnius	2021-04-21
+12232983	Gadūnavo sen.	Gadunavo sen.		56.04734	22.16264	A	ADM3	LT		63	78	7819		0		135	Europe/Vilnius	2021-04-21
+12232984	Krinčino sen.	Krincino sen.		56.09041	24.56301	A	ADM3	LT		60	67	6738		0		47	Europe/Vilnius	2021-04-21
+12232985	Mokolų sen.	Mokolu sen.		54.55293	23.32291	A	ADM3	LT		59	18	1802		0		71	Europe/Vilnius	2021-04-21
+12232986	Lapių sen.	Lapiu sen.		55.0097	24.03002	A	ADM3	LT		57	52	5257		0		88	Europe/Vilnius	2021-04-21
+12232987	Endriejavo sen.	Endriejavo sen.		55.69578	21.70455	A	ADM3	LT		58	55	5581		0		98	Europe/Vilnius	2021-04-21
+12232988	Laukuvos sen.	Laukuvos sen.		55.62249	22.2446	A	ADM3	LT		62	87	8719		0		161	Europe/Vilnius	2021-04-21
+12232989	Vydmantų sen.	Vydmantu sen.		55.89918	21.14727	A	ADM3	LT		58	56	9499		0		19	Europe/Vilnius	2021-04-21
+12232990	Papilio sen.	Papilio sen.		56.10264	25.03223	A	ADM3	LT		60	36	3651		0		77	Europe/Vilnius	2021-04-21
+12232991	Luokesos sen.	Luokesos sen.		55.21294	25.38945	A	ADM3	LT		64	62	6258		0		166	Europe/Vilnius	2021-04-21
+12232992	Cirkliškio sen.	Cirkliskio sen.		55.109	26.09385	A	ADM3	LT		65	86	8669		0		190	Europe/Vilnius	2021-04-21
+12232993	Pagėgių sen.	Pagegiu sen.		55.1643	21.94877	A	ADM3	LT		62	63	6360		0		6	Europe/Vilnius	2021-04-21
+12232994	Obelių sen.	Obeliu sen.		55.95105	25.84966	A	ADM3	LT		60	73	7326		0		124	Europe/Vilnius	2021-04-21
+12232995	Pakražančio sen.	Pakrazancio sen.		55.52487	22.78399	A	ADM3	LT		61	54	5456		0		136	Europe/Vilnius	2021-04-21
+12232996	Suvieko sen.	Suvieko sen.		55.8652	26.08813	A	ADM3	LT		64	43	4362		0		165	Europe/Vilnius	2021-04-21
+12232997	Panemunės sen.	Panemunes sen.		54.85723	23.97872	A	ADM3	LT		57	19	1907		0		59	Europe/Vilnius	2021-04-21
+12232998	Žeimių sen.	Zeimiu sen.		55.1885	24.17093	A	ADM3	LT		57	46	4624		0		59	Europe/Vilnius	2021-04-21
+12232999	Rietavo sen.	Rietavo sen.		55.69712	21.91696	A	ADM3	LT		63	74	7475		0		102	Europe/Vilnius	2021-04-21
+12233000	Kužių sen.	Kuziu sen.		55.96881	23.12269	A	ADM3	LT		61	91	9120		0		103	Europe/Vilnius	2021-04-21
+12233001	Suginčių sen.	Suginciu sen.		55.34959	25.55451	A	ADM3	LT		64	62	6285		0		170	Europe/Vilnius	2021-04-21
+12233002	Šeštokų sen.	Sestoku sen.		54.33681	23.48697	A	ADM3	LT		56	59	5990		0		111	Europe/Vilnius	2021-04-21
+12233003	Lazdijų miesto sen.	Lazdiju miesto sen.		54.22834	23.51447	A	ADM3	LT		56	59	5901		0		123	Europe/Vilnius	2021-04-21
+12233004	Ginkūnų sen.	Ginkunu sen.		55.96787	23.40222	A	ADM3	LT		61	91	9108		0		112	Europe/Vilnius	2021-04-21
+12233005	Vilkaviškio miesto sen.	Vilkaviskio miesto sen.		54.64807	23.03483	A	ADM3	LT		59	39	3910		0		54	Europe/Vilnius	2021-04-21
+12233006	Papilės sen.	Papiles sen.		56.14177	22.77114	A	ADM3	LT		61	32	3249		0		87	Europe/Vilnius	2021-04-21
+12233007	Kvėdarnos sen.	Kvedarnos sen.		55.55142	21.93729	A	ADM3	LT		62	87	8715		0		101	Europe/Vilnius	2021-04-21
+12233008	Tverų sen.	Tveru sen.		55.72552	22.15227	A	ADM3	LT		63	74	7489		0		114	Europe/Vilnius	2021-04-21
+12233009	Tryškių sen.	Tryskiu sen.		56.03743	22.55364	A	ADM3	LT		63	78	7874		0		95	Europe/Vilnius	2021-04-21
+12233010	Kepalių sen.	Kepaliu sen.		56.1792	23.65037	A	ADM3	LT		61	47	4735		0		56	Europe/Vilnius	2021-04-21
+12233011	Samylų sen.	Samylu sen.		54.84788	24.09779	A	ADM3	LT		57	52	5267		0		74	Europe/Vilnius	2021-04-21
+12233012	Linkuvos sen.	Linkuvos sen.		56.10386	23.93998	A	ADM3	LT		61	65	6536		0		55	Europe/Vilnius	2021-04-21
+12233013	Vilkyškių sen.	Vilkyskiu sen.		55.10222	22.16826	A	ADM3	LT		62	63	6309		0		8	Europe/Vilnius	2021-04-21
+12233014	Giedraičių sen.	Giedraiciu sen.		55.11991	25.28131	A	ADM3	LT		64	62	6230		0		176	Europe/Vilnius	2021-04-21
+12233015	Ventos sen.	Ventos sen.		56.19199	22.70664	A	ADM3	LT		61	32	3252		0		72	Europe/Vilnius	2021-04-21
+12233016	Vievio sen.	Vievio sen.		54.76613	24.84162	A	ADM3	LT		65	42	4218		0		131	Europe/Vilnius	2021-04-21
+12233017	Alšėnų sen.	Alsenu sen.		54.83527	23.7471	A	ADM3	LT		57	52	5203		0		78	Europe/Vilnius	2021-04-21
+12233018	Baltosios Vokės sen.	Baltosios Vokes sen.		54.44508	25.12539	A	ADM3	LT		65	85	8503		0		140	Europe/Vilnius	2021-04-21
+12233019	Gaurės sen.	Gaures sen.		55.21002	22.4579	A	ADM3	LT		62	77	7724		0		42	Europe/Vilnius	2021-04-21
+12233020	Šakynos sen.	Sakynos sen.		56.15536	23.09498	A	ADM3	LT		61	91	9182		0		94	Europe/Vilnius	2021-04-21
+12233021	Nemunaičio sen.	Nemunaicio sen.		54.32046	24.06848	A	ADM3	LT		56	33	3342		0		142	Europe/Vilnius	2021-04-21
+12233022	Kaltinėnų sen.	Kaltinenu sen.		55.56211	22.45107	A	ADM3	LT		62	87	8711		0		144	Europe/Vilnius	2021-04-21
+12233023	Šačių sen.	Saciu sen.		56.18893	21.71353	A	ADM3	LT		58	75	7580		0		70	Europe/Vilnius	2021-04-21
+12233024	Gudžiūnų sen.	Gudziunu sen.		55.50516	23.83836	A	ADM3	LT		57	53	5305		0		82	Europe/Vilnius	2021-04-21
+12233025	Varėnos sen.	Varenos sen.		54.2791	24.46865	A	ADM3	LT		56	38	3808		0		144	Europe/Vilnius	2021-04-21
+12233026	Tytuvėnų apylinkių sen.	Tytuvenu apylinkiu sen.		55.63823	23.19484	A	ADM3	LT		61	54	5475		0		131	Europe/Vilnius	2021-04-21
+12233027	Miroslavo sen.	Miroslavo sen.		54.32987	23.86815	A	ADM3	LT		56	33	3338		0		125	Europe/Vilnius	2021-04-21
+12233028	Seirijų sen.	Seiriju sen.		54.2278	23.78781	A	ADM3	LT		56	59	5969		0		179	Europe/Vilnius	2021-04-21
+12233029	Ceikinių sen.	Ceikiniu sen.		55.26768	26.3142	A	ADM3	LT		64	45	4562		0		220	Europe/Vilnius	2021-04-21
+12233030	Kretingalės sen.	Kretingales sen.		55.82116	21.18066	A	ADM3	LT		58	55	5547		0		27	Europe/Vilnius	2021-04-21
+12233031	Čiulėnų sen.	Ciulenu sen.		55.28025	25.52972	A	ADM3	LT		64	62	6296		0		159	Europe/Vilnius	2021-04-21
+12233032	Naujininkų sen.	Naujininku sen.		54.62563	25.26174	A	ADM3	LT		65	13	1307		0		203	Europe/Vilnius	2021-04-21
+12233033	Žaliakalnio sen.	Zaliakalnio sen.		54.90924	23.92661	A	ADM3	LT		57	19	1902		0		80	Europe/Vilnius	2021-04-21
+12233034	Ignalinos miesto sen.	Ignalinos miesto sen.		55.33601	26.16727	A	ADM3	LT		64	45	4501		0		177	Europe/Vilnius	2021-04-21
+12233035	Kuršėnų miesto sen.	Kursenu miesto sen.		55.99714	22.9419	A	ADM3	LT		61	91	9101		0		95	Europe/Vilnius	2021-04-21
+12233036	Narto sen.	Narto sen.		54.54574	23.36059	A	ADM3	LT		59	18	1803		0		73	Europe/Vilnius	2021-04-21
+12233037	Šatrininkų sen.	Satrininku sen.		54.65987	25.46665	A	ADM3	LT		65	41	4122		0		174	Europe/Vilnius	2021-04-21
+12233038	Viešvilės sen.	Viesviles sen.		55.09887	22.37193	A	ADM3	LT		62	94	9422		0		34	Europe/Vilnius	2021-04-21
+12233039	Šilų sen.	Silu sen.		55.15999	24.39067	A	ADM3	LT		57	46	4677		0		85	Europe/Vilnius	2021-04-21
+12233040	Mosėdžio sen.	Mosedzio sen.		56.16223	21.56321	A	ADM3	LT		58	75	7546		0		37	Europe/Vilnius	2021-04-21
+12233041	Tauragės sen.	Taurages sen.		55.23615	22.24396	A	ADM3	LT		62	77	7794		0		32	Europe/Vilnius	2021-04-24
+12233042	Gerviškių sen.	Gerviskiu sen.		54.32874	25.25354	A	ADM3	LT		65	85	8514		0		156	Europe/Vilnius	2021-04-21
+12233043	Veiverių sen.	Veiveriu sen.		54.74263	23.71685	A	ADM3	LT		57	69	6925		0		85	Europe/Vilnius	2021-04-21
+12233044	Ruklos sen.	Ruklos sen.		55.02867	24.37908	A	ADM3	LT		57	46	4620		0		83	Europe/Vilnius	2021-04-21
+12233045	Želvos sen.	Zelvos sen.		55.19629	25.13331	A	ADM3	LT		65	81	8129		0		154	Europe/Vilnius	2021-04-21
+12233046	Aukštadvario sen.	Aukstadvario sen.		54.59409	24.56154	A	ADM3	LT		65	79	7904		0		141	Europe/Vilnius	2021-04-21
+12233047	Punios sen.	Punios sen.		54.48133	24.12976	A	ADM3	LT		56	33	3353		0		127	Europe/Vilnius	2021-04-21
+12233048	Nevarėnų sen.	Nevarenu sen.		56.10551	22.35208	A	ADM3	LT		63	78	7847		0		141	Europe/Vilnius	2021-04-21
+12233049	Pušaloto sen.	Pusaloto sen.		55.92002	24.19107	A	ADM3	LT		60	67	6754		0		48	Europe/Vilnius	2021-04-21
+12233050	Pandėlio sen.	Pandelio sen.		56.05468	25.22236	A	ADM3	LT		60	73	7329		0		83	Europe/Vilnius	2021-04-21
+12233051	Žarėnų sen.	Zarenu sen.		55.83598	22.23274	A	ADM3	LT		63	78	7829		0		158	Europe/Vilnius	2021-04-21
+12233052	Kulvos sen.	Kulvos sen.		55.09345	24.1612	A	ADM3	LT		57	46	4635		0		79	Europe/Vilnius	2021-04-21
+12233053	Rokiškio kaimiškoji sen.	Rokiskio kaimiskoji sen.		56.00439	25.53338	A	ADM3	LT		60	73	7345		0		124	Europe/Vilnius	2021-04-21
+12233054	Senamiesčio sen.	Senamiescio sen.		54.68131	25.29282	A	ADM3	LT		65	13	1314		0		99	Europe/Vilnius	2021-04-21
+12233055	Raudėnų sen.	Raudenu sen.		55.9874	22.73041	A	ADM3	LT		61	91	9164		0		134	Europe/Vilnius	2021-04-21
+12233056	Vilkijos apylinkių sen.	Vilkijos apylinkiu sen.		55.07015	23.56948	A	ADM3	LT		57	52	5218		0		76	Europe/Vilnius	2021-04-21
+12233057	Šaukoto sen.	Saukoto sen.		55.58172	23.42735	A	ADM3	LT		61	71	7172		0		132	Europe/Vilnius	2021-04-21
+12233058	Žeimelio sen.	Zeimelio sen.		56.24144	23.99045	A	ADM3	LT		61	65	6512		0		47	Europe/Vilnius	2021-04-21
+12233059	Velžio sen.	Velzio sen.		55.63907	24.47422	A	ADM3	LT		60	66	6616		0		60	Europe/Vilnius	2021-04-21
+12233060	Žemaitkiemio sen.	Zemaitkiemio sen.		55.30027	24.98725	A	ADM3	LT		65	81	8133		0		113	Europe/Vilnius	2021-04-21
+12233061	Kaišiadorių miesto sen.	Kaisiadoriu miesto sen.		54.8578	24.43008	A	ADM3	LT		57	49	4917		0		98	Europe/Vilnius	2021-04-21
+12233062	Kruonio sen.	Kruonio sen.		54.73972	24.23837	A	ADM3	LT		57	49	4937		0		102	Europe/Vilnius	2021-04-21
+12233063	Raudondvario sen.	Raudondvario sen.		54.9818	23.74421	A	ADM3	LT		57	52	5259		0		80	Europe/Vilnius	2021-04-21
+12233064	Luokės sen.	Luokes sen.		55.86786	22.49636	A	ADM3	LT		63	78	7836		0		168	Europe/Vilnius	2021-04-21
+12233065	Poškonių sen.	Poskoniu sen.		54.28071	25.61594	A	ADM3	LT		65	85	8554		0		219	Europe/Vilnius	2021-04-21
+12233066	Krekenavos sen.	Krekenavos sen.		55.54695	24.06728	A	ADM3	LT		60	66	6630		0		49	Europe/Vilnius	2021-04-21
+12233067	Šiluvos sen.	Siluvos sen.		55.50502	23.22674	A	ADM3	LT		57	72	7295		0		129	Europe/Vilnius	2021-04-21
+12233068	Darbėnų sen.	Darbenu sen.		56.05234	21.30271	A	ADM3	LT		58	56	5618		0		34	Europe/Vilnius	2021-04-21
+12233069	Pelėdnagių sen.	Pelednagiu sen.		55.20504	24.01969	A	ADM3	LT		57	53	5349		0		47	Europe/Vilnius	2021-04-21
+12233070	Lygumų sen.	Lygumu sen.		55.98696	23.6549	A	ADM3	LT		61	65	6529		0		80	Europe/Vilnius	2021-04-21
+12233071	Šėtos sen.	Setos sen.		55.32994	24.30779	A	ADM3	LT		57	53	5377		0		67	Europe/Vilnius	2021-04-21
+12233072	Videniškių sen.	Videniskiu sen.		55.22738	25.25288	A	ADM3	LT		64	62	6219		0		123	Europe/Vilnius	2021-04-21
+12233073	Kaniavos sen.	Kaniavos sen.		54.05919	24.68572	A	ADM3	LT		56	38	3826		0		133	Europe/Vilnius	2021-04-21
+12233074	Radviliškio sen.	Radviliskio sen.		55.79347	23.51751	A	ADM3	LT		61	71	7135		0		117	Europe/Vilnius	2021-04-21
+12233075	Sasnavos sen.	Sasnavos sen.		54.63953	23.49066	A	ADM3	LT		59	18	1867		0		68	Europe/Vilnius	2021-04-21
+12233076	Liudvinavo sen.	Liudvinavo sen.		54.46014	23.40768	A	ADM3	LT		59	18	1842		0		84	Europe/Vilnius	2021-04-21
+12233077	Marijampolės sen.	Marijampoles sen.		54.54983	23.40449	A	ADM3	LT		59	18	1847		0		84	Europe/Vilnius	2021-04-24
+12233078	Tauragnų sen.	Tauragnu sen.		55.45619	25.87728	A	ADM3	LT		64	82	8271		0		167	Europe/Vilnius	2021-04-21
+12233079	Jankų sen.	Janku sen.		54.85623	23.37672	A	ADM3	LT		59	58	5894		0		77	Europe/Vilnius	2021-04-21
+12233080	Gilučių sen.	Giluciu sen.		54.80975	24.61899	A	ADM3	LT		65	42	4209		0		131	Europe/Vilnius	2021-04-21
+12233081	Pasvalio apylinkių sen.	Pasvalio apylinkiu sen.		56.06247	24.35524	A	ADM3	LT		60	67	6749		0		28	Europe/Vilnius	2021-04-24
+12233082	Skaudvilės sen.	Skaudviles sen.		55.41321	22.58994	A	ADM3	LT		62	77	7778		0		77	Europe/Vilnius	2021-04-21
+12233083	Čekiškės sen.	Cekiskes sen.		55.13047	23.58156	A	ADM3	LT		57	52	5282		0		84	Europe/Vilnius	2021-04-21
+12233084	Šilalės kaimiškoji sen.	Silales kaimiskoji sen.		55.46858	22.23152	A	ADM3	LT		62	87	8770		0		104	Europe/Vilnius	2021-04-21
+12233085	Žlibinų sen.	Zlibinu sen.		55.88822	22.04737	A	ADM3	LT		63	68	6826		0		132	Europe/Vilnius	2021-04-21
+12233086	Šimkaičių sen.	Simkaiciu sen.		55.23323	23.00097	A	ADM3	LT		62	94	9480		0		63	Europe/Vilnius	2021-04-21
+12233087	Kruopių sen.	Kruopiu sen.		56.25263	23.022	A	ADM3	LT		61	32	3242		0		79	Europe/Vilnius	2021-04-21
+12233088	Klovainių sen.	Klovainiu sen.		55.95643	23.99172	A	ADM3	LT		61	65	6518		0		55	Europe/Vilnius	2021-04-21
+12233089	Vydenių sen.	Vydeniu sen.		54.17626	24.70184	A	ADM3	LT		56	38	3813		0		157	Europe/Vilnius	2021-04-21
+12233090	Seredžiaus sen.	Seredziaus sen.		55.1414	23.39331	A	ADM3	LT		62	94	9469		0		67	Europe/Vilnius	2021-04-21
+12233091	Nemaitonių sen.	Nemaitoniu sen.		54.68517	24.41114	A	ADM3	LT		57	49	4940		0		178	Europe/Vilnius	2021-04-21
+12233092	Išlaužo sen.	Islauzo sen.		54.71151	23.8922	A	ADM3	LT		57	69	6935		0		74	Europe/Vilnius	2021-04-21
+12233093	Surviliškio sen.	Surviliskio sen.		55.42862	23.98678	A	ADM3	LT		57	53	5355		0		54	Europe/Vilnius	2021-04-21
+12233094	Turgelių sen.	Turgeliu sen.		54.44615	25.513	A	ADM3	LT		65	85	8563		0		177	Europe/Vilnius	2021-04-21
+12233095	Karoliniškių sen.	Karoliniskiu sen.		54.69124	25.21601	A	ADM3	LT		65	13	1304		0		160	Europe/Vilnius	2021-04-21
+12233096	Slavikų sen.	Slaviku sen.		54.96204	22.77769	A	ADM3	LT		59	84	8475		0		37	Europe/Vilnius	2021-04-21
+12233097	Daugailių sen.	Daugailiu sen.		55.57217	25.83195	A	ADM3	LT		64	82	8212		0		197	Europe/Vilnius	2021-04-21
+12233098	Miežiškių sen.	Mieziskiu sen.		55.68361	24.60233	A	ADM3	LT		60	66	6637		0		70	Europe/Vilnius	2021-04-21
+12233099	Užliedžių sen.	Uzliedziu sen.		54.98542	23.83713	A	ADM3	LT		57	52	5277		0		74	Europe/Vilnius	2021-04-21
+12233100	Gelvonų sen.	Gelvonu sen.		55.05283	24.71004	A	ADM3	LT		65	89	8923		0		111	Europe/Vilnius	2021-04-21
+12233101	Širvintų sen.	Sirvintu sen.		55.03389	24.90985	A	ADM3	LT		65	89	8982		0		114	Europe/Vilnius	2021-04-21
+12233102	Sudargo sen.	Sudargo sen.		55.02581	22.678	A	ADM3	LT		59	84	8479		0		53	Europe/Vilnius	2021-04-21
+12233103	Natkiškių sen.	Natkiskiu sen.		55.24514	21.9293	A	ADM3	LT		62	63	6361		0		45	Europe/Vilnius	2021-04-21
+12233104	Satkūnų sen.	Satkunu sen.		56.31743	23.63652	A	ADM3	LT		61	47	4747		0		39	Europe/Vilnius	2021-04-21
+12233105	Rudaminos sen.	Rudaminos sen.		54.58345	25.37906	A	ADM3	LT		65	41	4171		0		161	Europe/Vilnius	2021-04-21
+12233106	Babtų sen.	Babtu sen.		55.09915	23.78814	A	ADM3	LT		57	52	5207		0		28	Europe/Vilnius	2021-04-21
+12233107	Vandžiogalos sen.	Vandziogalos sen.		55.08087	23.96323	A	ADM3	LT		57	52	5215		0		59	Europe/Vilnius	2021-04-21
+12233108	Platelių sen.	Plateliu sen.		56.04848	21.79132	A	ADM3	LT		63	68	6866		0		143	Europe/Vilnius	2021-04-21
+12233109	Tyrulių sen.	Tyruliu sen.		55.76936	23.3592	A	ADM3	LT		61	71	7187		0		131	Europe/Vilnius	2021-04-21
+12233110	Kavarsko sen.	Kavarsko sen.		55.43995	24.90014	A	ADM3	LT		64	34	3422		0		97	Europe/Vilnius	2021-04-21
+12233111	Mickūnų sen.	Mickunu sen.		54.71038	25.52659	A	ADM3	LT		65	41	4148		0		140	Europe/Vilnius	2021-04-21
+12233112	Klausučių sen.	Klausuciu sen.		54.73209	22.96626	A	ADM3	LT		59	39	3935		0		44	Europe/Vilnius	2021-04-21
+12233113	Krosnos sen.	Krosnos sen.		54.39143	23.51988	A	ADM3	LT		56	59	5930		0		100	Europe/Vilnius	2021-04-21
+12233114	Šiaulių kaimiškoji sen.	Siauliu kaimiskoji sen.		55.94478	23.23121	A	ADM3	LT		61	91	9193		0		111	Europe/Vilnius	2021-04-24
+12233115	Pagojukų sen.	Pagojuku sen.		55.45905	23.39923	A	ADM3	LT		57	72	7262		0		110	Europe/Vilnius	2021-04-21
+12233116	Šilavoto sen.	Silavoto sen.		54.65092	23.76683	A	ADM3	LT		57	69	6984		0		114	Europe/Vilnius	2021-04-21
+12233117	Rozalimo sen.	Rozalimo sen.		55.87785	23.85215	A	ADM3	LT		61	65	6568		0		76	Europe/Vilnius	2021-04-21
+12233118	Paparčių sen.	Paparciu sen.		54.87387	24.72611	A	ADM3	LT		57	49	4946		0		98	Europe/Vilnius	2021-04-21
+12233119	Marcinkonių sen.	Marcinkoniu sen.		54.04252	24.39552	A	ADM3	LT		56	38	3838		0		126	Europe/Vilnius	2021-04-21
+12233120	Leipalingio sen.	Leipalingio sen.		54.07387	23.90821	A	ADM3	LT		56	15	1545		0		117	Europe/Vilnius	2021-04-21
+12233121	Palomenės sen.	Palomenes sen.		54.94404	24.42574	A	ADM3	LT		57	49	4942		0		98	Europe/Vilnius	2021-04-21
+12233122	Kalnujų sen.	Kalnuju sen.		55.29814	23.06251	A	ADM3	LT		57	72	7245		0		63	Europe/Vilnius	2021-04-21
+12233123	Alantos sen.	Alantos sen.		55.3426	25.30086	A	ADM3	LT		64	62	6204		0		116	Europe/Vilnius	2021-04-21
+12233124	Žemaičių Kalvarijos sen.	Zemaiciu Kalvarijos sen.		56.0958	21.96467	A	ADM3	LT		63	68	6819		0		153	Europe/Vilnius	2021-04-21
+12233125	Zapyškio sen.	Zapyskio sen.		54.9211	23.57077	A	ADM3	LT		57	52	5229		0		76	Europe/Vilnius	2021-04-21
+12233126	Troškūnų sen.	Troskunu sen.		55.61867	24.83294	A	ADM3	LT		64	34	3469		0		85	Europe/Vilnius	2021-04-21
+12233127	Raudonės sen.	Raudones sen.		55.1354	23.13638	A	ADM3	LT		62	94	9450		0		70	Europe/Vilnius	2021-04-21
+12233128	Kulių sen.	Kuliu sen.		55.8101	21.6499	A	ADM3	LT		63	68	6837		0		93	Europe/Vilnius	2021-04-21
+12233129	Ignalinos sen.	Ignalinos sen.		55.32134	26.14884	A	ADM3	LT		64	45	4525		0		172	Europe/Vilnius	2021-04-24
+12233130	Rokiškio miesto sen.	Rokiskio miesto sen.		55.95816	25.5858	A	ADM3	LT		60	73	7301		0		131	Europe/Vilnius	2021-04-21
+12233131	Sudervės sen.	Suderves sen.		54.7789	25.05306	A	ADM3	LT		65	41	4178		0		186	Europe/Vilnius	2021-04-21
+12233132	Ringaudų sen.	Ringaudu sen.		54.89481	23.76327	A	ADM3	LT		57	52	5245		0		76	Europe/Vilnius	2021-04-21
+12233133	Antalieptės sen.	Antalieptes sen.		55.66086	25.84818	A	ADM3	LT		64	43	4310		0		123	Europe/Vilnius	2021-04-21
+12233134	Mažonų sen.	Mazonu sen.		55.35854	22.30954	A	ADM3	LT		62	77	7757		0		68	Europe/Vilnius	2021-04-21
+12233135	Kairių sen.	Kairiu sen.		55.92836	23.47638	A	ADM3	LT		61	91	9113		0		116	Europe/Vilnius	2021-04-21
+12233136	Pabarės sen.	Pabares sen.		54.33063	25.04396	A	ADM3	LT		65	85	8550		0		146	Europe/Vilnius	2021-04-21
+12233137	Batakių sen.	Batakiu sen.		55.34089	22.52539	A	ADM3	LT		62	77	7712		0		47	Europe/Vilnius	2021-04-21
+12233138	Upynos sen.	Upynos sen.		55.93159	22.59655	A	ADM3	LT		63	78	7881		0		121	Europe/Vilnius	2021-04-21
+12233139	Aukštelkų sen.	Aukstelku sen.		55.84737	23.61316	A	ADM3	LT		61	71	7108		0		106	Europe/Vilnius	2021-04-21
+12233140	Pivonijos sen.	Pivonijos sen.		55.21075	24.83894	A	ADM3	LT		65	81	8185		0		136	Europe/Vilnius	2021-04-24
+12233141	Kazlų Rūdos sen.	Kazlu Rudos sen.		54.7665	23.49945	A	ADM3	LT		59	58	5832		0		72	Europe/Vilnius	2021-04-21
+12233142	Šilainių sen.	Silainiu sen.		54.9345	23.8586	A	ADM3	LT		57	19	1911		0		79	Europe/Vilnius	2021-04-21
+12233143	Joniškio sen.	Joniskio sen.		55.08955	25.64252	A	ADM3	LT		64	62	6250		0		150	Europe/Vilnius	2021-04-21
+12233144	Namišių sen.	Namisiu sen.		56.22432	24.30608	A	ADM3	LT		60	67	6780		0		36	Europe/Vilnius	2021-04-21
+12233145	Viešvėnų sen.	Viesvenu sen.		55.91923	22.35633	A	ADM3	LT		63	78	7815		0		135	Europe/Vilnius	2021-04-21
+12233146	Saločių sen.	Salociu sen.		56.20327	24.41614	A	ADM3	LT		60	67	6773		0		20	Europe/Vilnius	2021-04-21
+12233147	Vilkpėdės sen.	Vilkpedes sen.		54.66015	25.22673	A	ADM3	LT		65	13	1317		0		86	Europe/Vilnius	2021-04-21
+12233148	Juodaičių sen.	Juodaiciu sen.		55.2087	23.34351	A	ADM3	LT		62	94	9490		0		75	Europe/Vilnius	2021-04-21
+12233149	Alsėdžių sen.	Alsedziu sen.		56.03154	22.03538	A	ADM3	LT		63	68	6807		0		144	Europe/Vilnius	2021-04-21
+12233150	Plutiškių sen.	Plutiskiu sen.		54.67465	23.62322	A	ADM3	LT		59	58	5833		0		74	Europe/Vilnius	2021-04-21
+12233151	Vilkijos sen.	Vilkijos sen.		55.04263	23.57894	A	ADM3	LT		57	52	5219		0		68	Europe/Vilnius	2021-04-21
+12233152	Kulautuvos sen.	Kulautuvos sen.		54.9431	23.65745	A	ADM3	LT		57	52	5241		0		71	Europe/Vilnius	2021-04-21
+12233153	Gardamo sen.	Gardamo sen.		55.43114	21.71506	A	ADM3	LT		58	88	8813		0		43	Europe/Vilnius	2021-04-21
+12233154	Mažeikių sen.	Mazeikiu sen.		56.30963	22.33235	A	ADM3	LT		63	61	6111		0		68	Europe/Vilnius	2021-04-21
+12233155	Tverečiaus sen.	Tvereciaus sen.		55.30163	26.54274	A	ADM3	LT		64	45	4559		0		133	Europe/Vilnius	2021-04-21
+12233156	Pajevonio sen.	Pajevonio sen.		54.53868	22.84335	A	ADM3	LT		59	39	3956		0		123	Europe/Vilnius	2021-04-21
+12233157	Pilaitės sen.	Pilaites sen.		54.70705	25.16669	A	ADM3	LT		65	13	1311		0		146	Europe/Vilnius	2021-04-21
+12233158	Rietavo miesto sen.	Rietavo miesto sen.		55.72702	21.93041	A	ADM3	LT		63	74	7401		0		107	Europe/Vilnius	2021-04-21
+12233159	Traupio sen.	Traupio sen.		55.52826	24.74601	A	ADM3	LT		64	34	3462		0		81	Europe/Vilnius	2021-04-21
+12233160	Balninkų sen.	Balninku sen.		55.30577	25.17657	A	ADM3	LT		64	62	6213		0		150	Europe/Vilnius	2021-04-21
+12233161	Priekulės sen.	Priekules sen.		55.55996	21.27869	A	ADM3	LT		58	55	5566		0		11	Europe/Vilnius	2021-04-21
+12233162	Nausodžio sen.	Nausodzio sen.		55.8707	21.74364	A	ADM3	LT		63	68	6855		0		73	Europe/Vilnius	2021-04-21
+12233163	Kaltanėnų sen.	Kaltanenu sen.		55.25049	25.94859	A	ADM3	LT		65	86	8613		0		136	Europe/Vilnius	2021-04-21
+12233164	Raitininkų sen.	Raitininku sen.		54.23284	24.04758	A	ADM3	LT		56	33	3359		0		129	Europe/Vilnius	2021-04-21
+12233165	Kukečių sen.	Kukeciu sen.		55.70526	23.02762	A	ADM3	LT		61	54	5409		0		124	Europe/Vilnius	2021-04-21
+12233166	Labanoro sen.	Labanoro sen.		55.21543	25.77913	A	ADM3	LT		65	86	8615		0		148	Europe/Vilnius	2021-04-21
+12233167	Užusalių sen.	Uzusaliu sen.		54.98207	24.19564	A	ADM3	LT		57	46	4668		0		72	Europe/Vilnius	2021-04-21
+12233168	Žiežmarių sen.	Ziezmariu sen.		54.80387	24.44192	A	ADM3	LT		57	49	4915		0		76	Europe/Vilnius	2021-04-21
+12233169	Sidabravo sen.	Sidabravo sen.		55.69102	23.96079	A	ADM3	LT		61	71	7149		0		70	Europe/Vilnius	2021-04-21
+12233170	Noragėlių sen.	Norageliu sen.		54.23472	23.91304	A	ADM3	LT		56	59	5950		0		164	Europe/Vilnius	2021-04-21
+12233171	Pivašiūnų sen.	Pivasiunu sen.		54.44766	24.30014	A	ADM3	LT		56	33	3348		0		153	Europe/Vilnius	2021-04-21
+12233172	Lenkimų sen.	Lenkimu sen.		56.17679	21.34655	A	ADM3	LT		58	75	7535		0		30	Europe/Vilnius	2021-04-21
+12233173	Debeikių sen.	Debeikiu sen.		55.59325	25.30654	A	ADM3	LT		64	34	3418		0		116	Europe/Vilnius	2021-04-21
+12233174	Dauparų-Kvietinių sen.	Dauparu-Kvietiniu sen.		55.75675	21.35388	A	ADM3	LT		58	55	5525		0		42	Europe/Vilnius	2021-04-21
+12233175	Veisiejų sen.	Veisieju sen.		54.09454	23.718	A	ADM3	LT		56	59	9498		0		134	Europe/Vilnius	2021-04-21
+12233176	Imbarės sen.	Imbares sen.		56.03896	21.55402	A	ADM3	LT		58	56	5634		0		30	Europe/Vilnius	2021-04-24
+12233177	Pakuonio sen.	Pakuonio sen.		54.71117	24.03726	A	ADM3	LT		57	69	6961		0		89	Europe/Vilnius	2021-04-21
+12233178	Saldutiškio sen.	Saldutiskio sen.		55.3528	25.83941	A	ADM3	LT		64	82	8248		0		159	Europe/Vilnius	2021-04-21
+12233179	Butrimonių sen.	Butrimoniu sen.		54.51328	24.28298	A	ADM3	LT		56	33	3310		0		134	Europe/Vilnius	2021-04-21
+12233180	Vabalninko sen.	Vabalninko sen.		55.99568	24.74136	A	ADM3	LT		60	36	3609		0		59	Europe/Vilnius	2021-04-21
+12233181	Dovilų sen.	Dovilu sen.		55.65689	21.35464	A	ADM3	LT		58	55	5536		0		8	Europe/Vilnius	2021-04-21
+12233182	Kaišiadorių apylinkės sen.	Kaisiadoriu apylinkes sen.		54.89233	24.50605	A	ADM3	LT		57	49	4921		0		94	Europe/Vilnius	2021-04-21
+12233183	Parovėjos sen.	Parovejos sen.		56.24947	24.89702	A	ADM3	LT		60	36	3654		0		59	Europe/Vilnius	2021-04-21
+12233184	Babrungo sen.	Babrungo sen.		55.9401	21.86721	A	ADM3	LT		63	68	6809		0		129	Europe/Vilnius	2021-04-21
+12233185	Vėžaičių sen.	Vezaiciu sen.		55.72414	21.51982	A	ADM3	LT		58	55	5513		0		70	Europe/Vilnius	2021-04-21
+12233186	Vištyčio sen.	Vistycio sen.		54.46481	22.75941	A	ADM3	LT		59	39	3920		0		202	Europe/Vilnius	2021-04-21
+12233187	Šilutės sen.	Silutes sen.		55.32845	21.49769	A	ADM3	LT		58	88	8801		0		5	Europe/Vilnius	2021-04-21
+12233188	Būdviečio sen.	Budviecio sen.		54.28711	23.37817	A	ADM3	LT		56	59	5908		0		147	Europe/Vilnius	2021-04-21
+12233189	Kapčiamiesčio sen.	Kapciamiescio sen.		53.9908	23.64734	A	ADM3	LT		56	59	5925		0		120	Europe/Vilnius	2021-04-21
+12233190	Pabradės sen.	Pabrades sen.		55.01179	25.79663	A	ADM3	LT		65	86	8644		0		143	Europe/Vilnius	2021-04-21
+12233191	Skuodo sen.	Skuodo sen.		56.23491	21.52496	A	ADM3	LT		58	75	7579		0		31	Europe/Vilnius	2021-04-21
+12233192	Naujosios Akmenės kaimiškoji sen.	Naujosios Akmenes kaimiskoji sen.		56.30536	22.86744	A	ADM3	LT		61	32	3245		0		74	Europe/Vilnius	2021-04-24

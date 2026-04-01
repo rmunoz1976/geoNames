@@ -1,0 +1,329 @@
+﻿7324029	Valikamam South Division	Valikamam South Division	Valikamam South,Valikamam South Division	9.7524	80.041	A	ADM3	LK		38	41	4115		0		10	Asia/Colombo	2018-12-14
+7324034	Valikamam North Division	Valikamam North Division	Valikamam North,Valikamam North Division	9.7941	80.0388	A	ADM3	LK		38	41	4112		0		17	Asia/Colombo	2018-12-14
+7324037	Valikamam West Division	Valikamam West Division	Valikamam West,Valikamam West Division	9.7443	79.9257	A	ADM3	LK		38	41	4106		0		2	Asia/Colombo	2018-12-14
+7324040	Valikamam South West Division	Valikamam South West Division	Valikamam South West,Valikamam South West Division	9.7525	79.9874	A	ADM3	LK		38	41	4109		0		12	Asia/Colombo	2018-12-14
+7324126	Jaffna Division	Jaffna Division	Jaffna,Jaffna Division	9.6669	80.0181	A	ADM3	LK		38	41	4136		50759		9	Asia/Colombo	2018-12-14
+7324174	Islands South Division	Islands South Division	Islands South Division	9.6261	79.8984	A	ADM3	LK		38	41	4139		0		12	Asia/Colombo	2023-05-11
+7324175	Islands North Division	Islands North Division	Islands North Division	9.6857	79.8465	A	ADM3	LK		38	41	4103		0		4	Asia/Colombo	2023-05-11
+7324405	Nallur Division	Nallur Division	Nallur,Nallur Division	9.6614	80.0541	A	ADM3	LK		38	41	4133		68048		8	Asia/Colombo	2018-12-14
+7324406	Thenmaradchchi Division	Thenmaradchchi Division	Thenmaradchchi,Thenmaradchchi Division	9.6896	80.1859	A	ADM3	LK		38	41	4130		0		6	Asia/Colombo	2023-04-18
+7324407	Vadamaradchchi East Division	Vadamaradchchi East Division	Maruthankerny Division,Muruthankerni,Vadamaradchchi East,Vadamaradchchi East Division,Vadamaradchi East Division	9.6467	80.3748	A	ADM3	LK		38	41	4124		0		5	Asia/Colombo	2018-12-14
+7324408	Pachchilaipallai Division	Pachchilaipallai Division	Pachchilaipallai,Pachchilaipallai Division	9.5904	80.3623	A	ADM3	LK		38	45	4503		0		9	Asia/Colombo	2023-04-18
+7419423	Poonakary Division	Poonakary Division	Poonakary,Poonakary Division	9.4034	80.1537	A	ADM3	LK		38	45	4512		20225		13	Asia/Colombo	2018-12-14
+7419424	Karachchi Division	Karachchi Division	Karachchi,Karachchi Division	9.3611	80.3022	A	ADM3	LK		38	45	4509		61137		18	Asia/Colombo	2018-12-14
+7420138	Mahaoya Division	Mahaoya Division	Mahaoya,Mahaoya Division	7.5764	81.3526	A	ADM3	LK		37	52	5209		20715		46	Asia/Colombo	2018-12-14
+7422165	Puthukkudiyiruppu Division	Puthukkudiyiruppu Division		9.30013	80.69426	A	ADM3	LK		38	44	4409		0		47	Asia/Colombo	2023-04-19
+7422387	Vavuniya South Division	Vavuniya South Division	Vavuniya South Division	8.75071	80.53444	A	ADM3	LK		38	43	4306		13070		103	Asia/Colombo	2018-12-15
+7431312	Musali Division	Musali Division	Musali Division	8.6837	80.0129	A	ADM3	LK		38	42	4215		0		41	Asia/Colombo	2023-05-11
+7431522	Venkalacheddikulam Division	Venkalacheddikulam Division	Venkalacheddikulam Division	8.6926	80.2906	A	ADM3	LK		38	43	4312		0		44	Asia/Colombo	2023-05-11
+7432499	Wariyapola Division	Wariyapola Division	Wariyapola Division	7.6632	80.2335	A	ADM3	LK		32	61	6136		61141		81	Asia/Colombo	2018-12-14
+7432502	Ganewatta Division	Ganewatta Division	Ganewatta Division	7.664	80.3585	A	ADM3	LK		32	61	6133		39909		95	Asia/Colombo	2018-12-14
+7432875	Kuliyapitiya East Division	Kuliyapitiya East Division	Kuliyapitiya East Division	7.4727	80.1632	A	ADM3	LK		32	61	6169		53827		75	Asia/Colombo	2018-12-14
+7432876	Weerambugedera Division	Weerambugedera Division	Weerambugedera Division	7.4663	80.2683	A	ADM3	LK		32	61	6166		0		90	Asia/Colombo	2023-05-11
+7432877	Kurunegala Division	Kurunegala Division	Kurunegala Division	7.4656	80.3465	A	ADM3	LK		32	61	6154		0		123	Asia/Colombo	2018-12-14
+7432878	Mallawapitiya Division	Mallawapitiya Division	Mallawapitiya Division	7.4706	80.3917	A	ADM3	LK		32	61	6157		52398		145	Asia/Colombo	2018-12-14
+7432879	Panduwasnuwara Division	Panduwasnuwara Division	Panduwasnuwara Division	7.5962	80.0819	A	ADM3	LK		32	61	6145		63492		52	Asia/Colombo	2018-12-14
+7432881	Maspota Division	Maspota Division		7.54884	80.32473	A	ADM3	LK		32	61	6151		0		95	Asia/Colombo	2023-04-18
+7432954	Mawathagama Division	Mawathagama Division	Mawathagama Division	7.4425	80.4359	A	ADM3	LK		32	61	6160		65555		219	Asia/Colombo	2018-12-14
+7432955	Mawanella Division	Mawanella Division	Mawanella Division	7.2419	80.4794	A	ADM3	LK		33	92	9206		111307		277	Asia/Colombo	2018-12-14
+7432956	Yatinuwara Division	Yatinuwara Division	Yatinuwara Division	7.2826	80.5406	A	ADM3	LK		29	21	2136		105962		533	Asia/Colombo	2018-12-14
+7432957	Kandy and Four Gravets Gangawata Division	Kandy and Four Gravets Gangawata Division		7.2775	80.6332	A	ADM3	LK		29	21	2130		0		632	Asia/Colombo	2018-12-14
+7432958	Harispattuwa Division	Harispattuwa Division	Harispattuwa Division	7.334	80.5903	A	ADM3	LK		29	21	2133		88002		535	Asia/Colombo	2018-12-14
+7432959	Patahewaheta Division	Patahewaheta Division	Patahewaheta Division	7.2282	80.706	A	ADM3	LK		29	21	2145		0		576	Asia/Colombo	2023-05-11
+7432960	Kundasale Division	Kundasale Division	Kundasale Division	7.3025	80.7122	A	ADM3	LK		29	21	2127		127278		469	Asia/Colombo	2023-05-11
+7432961	Patadumbara Division	Patadumbara Division	Patadumbara Division	7.3503	80.6625	A	ADM3	LK		29	21	2112		0		508	Asia/Colombo	2023-05-11
+7432962	Panwila Division	Panwila Division	Panwila Division	7.4135	80.7401	A	ADM3	LK		29	21	2115		0		877	Asia/Colombo	2023-05-11
+7432963	Akurana Division	Akurana Division	Akurana Division	7.3928	80.6178	A	ADM3	LK		29	21	2109		63195		571	Asia/Colombo	2018-12-14
+7432964	Ukuwela Division	Ukuwela Division	Ukuwela Division	7.4299	80.6276	A	ADM3	LK		29	22	2233		67542		371	Asia/Colombo	2018-12-14
+7432965	Pujapitiya Division	Pujapitiya Division		7.3999	80.5645	A	ADM3	LK		29	21	2106		0		596	Asia/Colombo	2018-12-14
+7432966	Thumpane Division	Thumpane Division	Thumpane Division	7.36567	80.51412	A	ADM3	LK		29	21	2103		37356		274	Asia/Colombo	2018-12-15
+7433993	Narammala Division	Narammala Division	Narammala Division	7.3964	80.1923	A	ADM3	LK		32	61	6181		55931		74	Asia/Colombo	2018-12-14
+7433994	Polgahawela Division	Polgahawela Division	Polgahawela Division	7.3785	80.3096	A	ADM3	LK		32	61	6187		64917		95	Asia/Colombo	2018-12-14
+7433995	Alawwa Division	Alawwa Division	Alawwa Division	7.3316	80.2181	A	ADM3	LK		32	61	6184		63381		133	Asia/Colombo	2018-12-14
+7433996	Rambukkana Division	Rambukkana Division	Rambukkana Division	7.3249	80.3881	A	ADM3	LK		33	92	9203		82373		96	Asia/Colombo	2018-12-14
+7434907	Ibbagamuwa Division	Ibbagamuwa Division	Ibbagamuwa Division	7.6254	80.4691	A	ADM3	LK		32	61	6130		84083		159	Asia/Colombo	2018-12-14
+7434908	Pallepola Division	Pallepola Division	Pallepola Division	7.6442	80.5977	A	ADM3	LK		29	22	2212		29488		413	Asia/Colombo	2018-12-14
+7434909	Yatawatta Division	Yatawatta Division	Yatawatta Division	7.5508	80.5852	A	ADM3	LK		29	22	2215		30113		429	Asia/Colombo	2018-12-14
+7434910	Matale Division	Matale Division	Matale Division	7.5392	80.6258	A	ADM3	LK		29	22	2218		74529		371	Asia/Colombo	2023-05-11
+7434911	Ridigama Division	Ridigama Division		7.5217	80.5184	A	ADM3	LK		32	61	6163		0		161	Asia/Colombo	2018-12-14
+7434912	Ambanganga Korale Division	Ambanganga Korale Division	Ambanganga Korale Division	7.5605	80.6764	A	ADM3	LK		29	22	2221		0		527	Asia/Colombo	2018-12-14
+7434913	Rattota Division	Rattota Division	Rattota Division	7.4874	80.6832	A	ADM3	LK		29	22	2230		51156		641	Asia/Colombo	2018-12-14
+7434948	Udunuwara Division	Udunuwara Division	Udunuwara Division	7.223	80.5573	A	ADM3	LK		29	21	2139		110232		566	Asia/Colombo	2018-12-14
+7434949	Deltota Division	Deltota Division	Deltota Division	7.1855	80.6915	A	ADM3	LK		29	21	2148		0		996	Asia/Colombo	2023-05-11
+7434950	Doluwa Division	Doluwa Division	Doluwa Division	7.1662	80.6492	A	ADM3	LK		29	21	2142		49480		745	Asia/Colombo	2018-12-14
+7434951	Uda Palata Division	Uda Palata Division	Uda Palata Division	7.1361	80.5937	A	ADM3	LK		29	21	2151		0		641	Asia/Colombo	2023-05-11
+7434952	Aranayaka Division	Aranayaka Division	Aranayaka Division	7.1665	80.4422	A	ADM3	LK		33	92	9209		68147		321	Asia/Colombo	2018-12-14
+7434953	Ganga Ihala Korale Division	Ganga Ihala Korale Division	Ganga Ihala Korale Division	7.1083	80.5148	A	ADM3	LK		29	21	2154		54674		827	Asia/Colombo	2018-12-14
+7434955	Kotmale Division	Kotmale Division	Kotmale Division	7.043	80.6511	A	ADM3	LK		29	23	2303		0		870	Asia/Colombo	2023-05-11
+7435862	Giribawa Division	Giribawa Division	Giribawa Division	8.11	80.1799	A	ADM3	LK		32	61	6103		31320		72	Asia/Colombo	2018-12-14
+7435863	Nawagattegama Division	Nawagattegama Division	Nawagattegama Division	8.0191	80.0926	A	ADM3	LK		32	62	6212		14412		59	Asia/Colombo	2018-12-14
+7435864	Galgamuwa Division	Galgamuwa Division	Galgamuwa Division	8.0142	80.2642	A	ADM3	LK		32	61	6106		54910		91	Asia/Colombo	2018-12-14
+7435865	Ehetuwewa Division	Ehetuwewa Division	Ehetuwewa Division	7.9636	80.3549	A	ADM3	LK		32	61	6109		25695		121	Asia/Colombo	2018-12-14
+7435866	Ambanpola Division	Ambanpola Division	Ambanpola Division	7.9056	80.2244	A	ADM3	LK		32	61	6112		22833		89	Asia/Colombo	2023-05-11
+7436720	Horana Division	Horana Division	Horana Division	6.7583	80.0512	A	ADM3	LK		36	13	1309		112441		17	Asia/Colombo	2018-12-14
+7436721	Ingiriya Division	Ingiriya Division	Ingiriya Division	6.7637	80.1482	A	ADM3	LK		36	13	1310		53645		35	Asia/Colombo	2018-12-14
+7436722	Kiriella Division	Kiriella Division	Kiriella Division	6.755	80.2738	A	ADM3	LK		33	91	9109		32457		306	Asia/Colombo	2018-12-14
+7436723	Elapatha Division	Elapatha Division	Elapatha Division	6.6629	80.3602	A	ADM3	LK		33	91	9127		37606		44	Asia/Colombo	2023-05-11
+7436724	Ayagama Division	Ayagama Division	Ayagama Division	6.6482	80.2995	A	ADM3	LK		33	91	9130		30584		98	Asia/Colombo	2018-12-14
+7436764	Madurawala Division	Madurawala Division	Madurawala Division	6.6522	80.084	A	ADM3	LK		36	13	1315		34245		40	Asia/Colombo	2023-05-11
+7436809	Bulathsinhala Division	Bulathsinhala Division	Bulathsinhala Division	6.6536	80.1787	A	ADM3	LK		36	13	1312		64635		28	Asia/Colombo	2023-05-11
+7437584	Nattandiya Division	Nattandiya Division	Nattandiya Division	7.3992	79.8717	A	ADM3	LK		32	62	6242		62106		9	Asia/Colombo	2018-12-14
+7437585	Pannala Division	Pannala Division	Pannala Division	7.3713	80.0312	A	ADM3	LK		32	61	6178		123551		43	Asia/Colombo	2018-12-14
+7437586	Dankotuwa Division	Dankotuwa Division	Dankotuwa Division	7.3247	79.9071	A	ADM3	LK		32	62	6248		62196		13	Asia/Colombo	2018-12-14
+7437587	Wennappuwa Division	Wennappuwa Division	Wennappuwa Division	7.3228	79.8521	A	ADM3	LK		32	62	6245		68055		5	Asia/Colombo	2018-12-14
+7437588	Divulapitiya Division	Divulapitiya Division	Divulapitiya Division	7.2552	79.9989	A	ADM3	LK		36	12	1209		143871		21	Asia/Colombo	2018-12-14
+7438448	Medawachchiya Division	Medawachchiya Division	Medawachchiya Division	8.5786	80.485	A	ADM3	LK		30	71	7109		46743		109	Asia/Colombo	2018-12-14
+7438449	Kahatagasdigiliya Divison	Kahatagasdigiliya Divison	Kahatagasdigiliya Divison	8.4356	80.7054	A	ADM3	LK		30	71	7121		0		133	Asia/Colombo	2018-12-14
+7438450	Rambewa Divison	Rambewa Divison	Rambewa Divison	8.4684	80.5792	A	ADM3	LK		30	71	7118		0		110	Asia/Colombo	2018-12-14
+7438744	Bope Poddala Division	Bope Poddala Division	Bope Poddala Division	6.0854	80.2165	A	ADM3	LK		34	31	3142		0		10	Asia/Colombo	2018-12-14
+7438745	Galle Four Gravets Division	Galle Four Gravets Division		6.0521	80.2002	A	ADM3	LK		34	31	3139		101159		15	Asia/Colombo	2018-12-14
+7438746	Akmeemana Division	Akmeemana Division	Akmeemana Division	6.0605	80.2867	A	ADM3	LK		34	31	3145		78051		47	Asia/Colombo	2018-12-14
+7438747	Imaduwa Division	Imaduwa Division	Imaduwa Division	6.0358	80.358	A	ADM3	LK		34	31	3151		44703		18	Asia/Colombo	2018-12-14
+7438748	Habaraduwa Division	Habaraduwa Division	Habaraduwa Division	6.005	80.3148	A	ADM3	LK		34	31	3154		62095		19	Asia/Colombo	2018-12-14
+7439960	Anamaduwa Division	Anamaduwa Division	Anamaduwa Division	7.9005	79.9965	A	ADM3	LK		32	62	6224		38171		64	Asia/Colombo	2018-12-14
+7439961	Mahakumbukkadawala Division	Mahakumbukkadawala Division	Mahakumbukkadawala Division	7.8582	79.8958	A	ADM3	LK		32	62	6221		18576		34	Asia/Colombo	2018-12-14
+7439962	Mundel Division	Mundel Division		7.851	79.8151	A	ADM3	LK		32	62	6218		0		5	Asia/Colombo	2018-12-14
+7439963	Rasnayakapura Division	Rasnayakapura Division	Rasnayakapura Division	7.762	80.0265	A	ADM3	LK		32	61	6118		21838		71	Asia/Colombo	2018-12-14
+7439964	Arachchikattuwa Division	Arachchikattuwa Division	Arachchikattuwa Division	7.6918	79.8473	A	ADM3	LK		32	62	6230		40737		15	Asia/Colombo	2018-12-14
+7439965	Pallama Division	Pallama Division	Pallama Division	7.7155	79.9339	A	ADM3	LK		32	62	6227		24379		39	Asia/Colombo	2018-12-14
+7440029	Kebitigollewa Division	Kebitigollewa Division	Kebitigollewa Division	8.7072	80.7046	A	ADM3	LK		30	71	7106		0		122	Asia/Colombo	2023-05-11
+7440362	Nuwaragam Palata Central Division	Nuwaragam Palata Central Division	Nuwaragam Palata Central Division	8.4186	80.3557	A	ADM3	LK		30	71	7133		0		78	Asia/Colombo	2023-05-11
+7440578	Mahavilachchiya Division	Mahavilachchiya Division		8.5318	80.1906	A	ADM3	LK		30	71	7112		0		80	Asia/Colombo	2023-04-17
+7440585	Trincomalee Town and Gravets Division	Trincomalee Town and Gravets Division	Trincomalee Town and Gravets Division	8.5871	81.1776	A	ADM3	LK		37	53	5315		97234		26	Asia/Colombo	2018-12-14
+7441291	Bibile Division	Bibile Division	Bibile Division	7.1962	81.2873	A	ADM3	LK		35	82	8203		40132		240	Asia/Colombo	2018-12-14
+7441292	Madulla Division	Madulla Division	Madulla Division	7.1784	81.4553	A	ADM3	LK		35	82	8206		31188		101	Asia/Colombo	2018-12-14
+7441293	Medagama Division	Medagama Division	Medagama Division	7.0494	81.2902	A	ADM3	LK		35	82	8209		35611		240	Asia/Colombo	2018-12-14
+7441294	Lunugala Division	Lunugala Division	Lunugala Division	7.0453	81.2087	A	ADM3	LK		35	81	8119		31092		749	Asia/Colombo	2018-12-14
+7441328	Moratuwa Division	Moratuwa Division	Moratuwa Division	6.7679	79.8845	A	ADM3	LK		36	11	1133		167160		10	Asia/Colombo	2018-12-14
+7441329	Panadura Division	Panadura Division	Panadura Division	6.7111	79.9162	A	ADM3	LK		36	13	1303		181724		14	Asia/Colombo	2018-12-14
+7441330	Bandaragama Division	Bandaragama Division	Bandaragama Division	6.7218	79.9778	A	ADM3	LK		36	13	1306		108889		3	Asia/Colombo	2018-12-14
+7441331	Millaniya Division	Millaniya Division	Millaniya Division	6.6562	80.0357	A	ADM3	LK		36	13	1318		52078		16	Asia/Colombo	2018-12-14
+7441332	Kalutara Division	Kalutara Division	Kalutara Division	6.6177	79.9676	A	ADM3	LK		36	13	1321		159225		21	Asia/Colombo	2018-12-14
+7441333	Dodangoda Division	Dodangoda Division	Dodangoda Division	6.5682	80.0478	A	ADM3	LK		36	13	1327		63705		13	Asia/Colombo	2018-12-14
+7441580	Eravur Town Division	Eravur Town Division	Eravur Town Division	7.7783	81.6031	A	ADM3	LK		37	51	5115		24632		9	Asia/Colombo	2018-12-14
+7441581	Manmunai North Division	Manmunai North Division	Manmunai North Division	7.7147	81.7158	A	ADM3	LK		37	51	5118		86028		7	Asia/Colombo	2018-12-14
+7441582	Kattankudy Division	Kattankudy Division	Kattankudy Division	7.6786	81.7338	A	ADM3	LK		37	51	5124		40237		8	Asia/Colombo	2018-12-14
+7441756	Embilipitiya Division	Embilipitiya Division	Embilipitiya Division	6.3688	80.8029	A	ADM3	LK		33	91	9148		133600		112	Asia/Colombo	2018-12-14
+7441757	Sevanagala Division	Sevanagala Division	Sevanagala Division	6.3771	80.9317	A	ADM3	LK		35	82	8233		41639		54	Asia/Colombo	2018-12-14
+7441758	Tanamalwila Division	Tanamalwila Division	Tanamalwila Division	6.4506	81.0423	A	ADM3	LK		35	82	8230		0		109	Asia/Colombo	2023-05-11
+7441917	Horowupotana Division	Horowupotana Division		8.5301	80.8495	A	ADM3	LK		30	71	7124		0		61	Asia/Colombo	2018-12-14
+7441928	Tampalakamam Division	Tampalakamam Division	Tampalakamam Division	8.4963	81.0533	A	ADM3	LK		37	53	5318		0		76	Asia/Colombo	2023-05-11
+7441929	Buttala Division	Buttala Division	Buttala Division	6.6591	81.2856	A	ADM3	LK		35	82	8224		52476		148	Asia/Colombo	2018-12-14
+7442177	Medirigiriya Division	Medirigiriya Division	Medirigiriya Division	8.1836	81.0387	A	ADM3	LK		30	72	7206		64926		40	Asia/Colombo	2023-05-11
+7442188	Siyambalanduwa Division	Siyambalanduwa Division	Siyambalanduwa Division	6.8508	81.5416	A	ADM3	LK		35	82	8212		53059		63	Asia/Colombo	2018-12-14
+7442189	Lahugala Division	Lahugala Division	Lahugala Division	6.8223	81.7004	A	ADM3	LK		37	52	5251		8900		50	Asia/Colombo	2018-12-14
+7442197	Pottuvil Division	Pottuvil Division	Pottuvil Division	6.9493	81.7939	A	ADM3	LK		37	52	5248		0		27	Asia/Colombo	2023-05-11
+7442277	Damana Division	Damana Division	Damana Division	7.1534	81.6238	A	ADM3	LK		37	52	5242		38489		76	Asia/Colombo	2018-12-14
+7442278	Alayadiwembu Division	Alayadiwembu Division	Alayadiwembu Division	7.1747	81.788	A	ADM3	LK		37	52	5239		22411		11	Asia/Colombo	2018-12-14
+7442279	Thirukkovil Division	Thirukkovil Division	Thirukkovil Division	7.0953	81.7871	A	ADM3	LK		37	52	5245		25187		21	Asia/Colombo	2018-12-14
+7475160	Bingiriya Division	Bingiriya Division	Bingiriya,Bingiriya Division	7.6135	79.9581	A	ADM3	LK		32	61	6142		61976		29	Asia/Colombo	2018-12-14
+7475161	Chilaw Division	Chilaw Division	Chilaw,Chilaw Division	7.5752	79.8362	A	ADM3	LK		32	62	6233		62475		15	Asia/Colombo	2018-12-14
+7475162	Madampe Division	Madampe Division	Madampe,Madampe Division	7.5216	79.8687	A	ADM3	LK		32	62	6236		47832		16	Asia/Colombo	2018-12-14
+7475163	Kuliyapitiya West Division	Kuliyapitiya West Division	Kuliyapitiya West,Kuliyapitiya West Division	7.4674	80.0445	A	ADM3	LK		32	61	6172		77222		29	Asia/Colombo	2018-12-14
+7475164	Udubaddawa Division	Udubaddawa Division	Udubaddawa,Udubaddawa Division	7.4792	79.9484	A	ADM3	LK		32	61	6175		51972		35	Asia/Colombo	2018-12-14
+7475165	Mahawewa Division	Mahawewa Division	Mahawewa,Mahawewa Division	7.4545	79.8381	A	ADM3	LK		32	62	6239		50628		19	Asia/Colombo	2018-12-14
+7510342	Vanathavillu Division	Vanathavillu Division	Vanathavillu,Vanathavillu Division,Vannatvillu Division	8.3405	79.8931	A	ADM3	LK		32	62	6206		0		13	Asia/Colombo	2018-12-14
+7510343	Kalpitiya Division	Kalpitiya Division	Kalpitiya,Kalpitiya Division	8.1804	79.7231	A	ADM3	LK		32	62	6203		86019		9	Asia/Colombo	2018-12-14
+7510380	Morawewa Division	Morawewa Division	Morawewa,Morawewa Division	8.6159	81.0275	A	ADM3	LK		37	53	5312		7946		76	Asia/Colombo	2018-12-14
+7510381	Gomarankadawela Division	Gomarankadawela Division	Gomarankadawela,Gomarankadawela Division	8.7435	80.9629	A	ADM3	LK		37	53	5309		0		58	Asia/Colombo	2023-04-17
+7510382	Kuchchaveli Division	Kuchchaveli Division	Kuchchaveli,Kuchchaveli Division	8.8012	81.0583	A	ADM3	LK		37	53	5306		33100		16	Asia/Colombo	2018-12-14
+7538960	Nochchiyagama Division	Nochchiyagama Division	Nochchiyagama,Nochchiyagama Division	8.3318	80.1145	A	ADM3	LK		30	71	7139		49730		96	Asia/Colombo	2018-12-14
+7538961	Rajangana Division	Rajangana Division	Rajangana,Rajangana Division	8.1806	80.185	A	ADM3	LK		30	71	7142		0		49	Asia/Colombo	2018-12-14
+7538962	Tambuttegama Division	Tambuttegama Division	Tambuttegama,Tambuttegama Division	8.1509	80.3176	A	ADM3	LK		30	71	7145		0		96	Asia/Colombo	2023-04-17
+7538963	Talawa Division	Talawa Division	Talawa,Talawa Division	8.197	80.3852	A	ADM3	LK		30	71	7148		0		122	Asia/Colombo	2023-04-17
+7538964	Nachchaduwa Division	Nachchaduwa Division	Nachchaduwa,Nachchaduwa Division	8.2589	80.4084	A	ADM3	LK		30	71	7136		0		93	Asia/Colombo	2018-12-14
+7539989	Karuwalagaswewa Division	Karuwalagaswewa Division	Karuwalagaswewa,Karuwalagaswewa Division	8.1208	79.9957	A	ADM3	LK		32	62	6209		23376		50	Asia/Colombo	2018-12-14
+7539990	Puttalam Division	Puttalam Division	Puttalam,Puttalam Division	7.9529	79.8553	A	ADM3	LK		32	62	6215		82041		28	Asia/Colombo	2018-12-14
+7542641	Negombo Division	Negombo Division	Negombo,Negombo Division	7.2074	79.8417	A	ADM3	LK		36	12	1203		141676		8	Asia/Colombo	2018-12-14
+7542642	Katana Division	Katana Division	Aluthkuru Korale North B,Katana,Katana Division	7.1942	79.8912	A	ADM3	LK		36	12	1206		233854		11	Asia/Colombo	2018-12-14
+7542643	Minuwangoda Division	Minuwangoda Division	Minuwangoda,Minuwangoda Division	7.1548	79.9797	A	ADM3	LK		36	12	1215		178401		11	Asia/Colombo	2018-12-14
+7542644	Ja-Ela Division	Ja-Ela Division	Ja-Ela,Ja-Ela Division	7.0761	79.9043	A	ADM3	LK		36	12	1221		201154		22	Asia/Colombo	2018-12-14
+7542645	Wattala Division	Wattala Division	Wattala,Wattala Division	7.0452	79.8714	A	ADM3	LK		36	12	1218		174336		4	Asia/Colombo	2018-12-14
+7542646	Gampaha Division	Gampaha Division	Gampaha,Gampaha Division	7.0761	79.9921	A	ADM3	LK		36	12	1224		196445		20	Asia/Colombo	2018-12-14
+7542667	Mahara Division	Mahara Division	Mahara,Mahara Division	7.0098	80.0115	A	ADM3	LK		36	12	1233		207230		43	Asia/Colombo	2018-12-14
+7544201	Mirigama Division	Mirigama Division	Mirigama,Mirigama Division	7.2252	80.1279	A	ADM3	LK		36	12	1212		164166		165	Asia/Colombo	2018-12-14
+7544202	Warakapola Division	Warakapola Division	Warakapola,Warakapola Division	7.2039	80.2255	A	ADM3	LK		33	92	9218		112583		207	Asia/Colombo	2018-12-14
+7544204	Kegalla Division	Kegalla Division	Kegalla,Kegalla Division,Kegalle Division	7.2123	80.3655	A	ADM3	LK		33	92	9212		0		202	Asia/Colombo	2023-04-17
+7544205	Bulathkohupitiya Division	Bulathkohupitiya Division	Bulathkohupitiya,Bulathkohupitiya Division	7.1023	80.3634	A	ADM3	LK		33	92	9224		46813		79	Asia/Colombo	2018-12-14
+7544206	Attanagalla Division	Attanagalla Division	Attanagalla,Attanagalla Division	7.1201	80.1004	A	ADM3	LK		36	12	1227		178816		48	Asia/Colombo	2018-12-14
+7544207	Ruwanwella Division	Ruwanwella Division	Ruwanwella,Ruwanwella Division	7.0689	80.2186	A	ADM3	LK		33	92	9221		63313		244	Asia/Colombo	2018-12-14
+7544208	Yatiyantota Division	Yatiyantota Division	Pata Bulathgama,Patabulatgama,Yatiyantota,Yatiyantota Division	7.0354	80.3613	A	ADM3	LK		33	92	9227		0		465	Asia/Colombo	2023-04-17
+7545415	Kelaniya Division	Kelaniya Division	Kelaniya,Kelaniya Division	6.9721	79.9108	A	ADM3	LK		36	12	1236		134693		5	Asia/Colombo	2023-04-17
+7545417	Biyagama Division	Biyagama Division	Biyagama,Biyagama Division	6.9689	79.977	A	ADM3	LK		36	12	1239		186862		24	Asia/Colombo	2018-12-14
+7545420	Colombo Division	Colombo Division	Colombo,Colombo Division	6.9425	79.8629	A	ADM3	LK		36	11	1103		318048		12	Asia/Colombo	2018-12-14
+7545421	Kolonnawa Division	Kolonnawa Division	Kolonnawa,Kolonnawa Division	6.9352	79.9138	A	ADM3	LK		36	11	1106		190817		8	Asia/Colombo	2018-12-14
+7545423	Kaduwela Division	Kaduwela Division	Kaduwela,Kaduwela Division	6.903	79.9782	A	ADM3	LK		36	11	1109		252057		8	Asia/Colombo	2018-12-14
+7545424	Homagama Division	Homagama Division	Homagama,Homagama Division	6.8348	80.0176	A	ADM3	LK		36	11	1112		236179		18	Asia/Colombo	2018-12-14
+7545426	Kesbewa Division	Kesbewa Division	Kesbewa,Kesbewa Division	6.7998	79.9303	A	ADM3	LK		36	11	1136		244062		24	Asia/Colombo	2018-12-14
+7545875	Nuwara Eliya Division	Nuwara Eliya Division	Nuwara Eliya,Nuwara Eliya Division	6.9102	80.725	A	ADM3	LK		29	23	2312		210968		1400	Asia/Colombo	2018-12-14
+7545876	Ambagamuwa Division	Ambagamuwa Division	Ambagamuwa,Ambagamuwa Korale,Ginigathhena,Ginigathhena Division	6.8713	80.5583	A	ADM3	LK		29	23	2315		0		1207	Asia/Colombo	2023-04-19
+7546671	Ratnapura Division	Ratnapura Division	Ratnapura,Ratnapura Division	6.7397	80.4698	A	ADM3	LK		33	91	9112		119368		265	Asia/Colombo	2018-12-14
+7546672	Imbulpe Division	Imbulpe Division	Imbulpe,Imbulpe Division	6.7208	80.7337	A	ADM3	LK		33	91	9115		59283		1056	Asia/Colombo	2023-04-18
+7546673	Balangoda Division	Balangoda Division	Balangoda,Balangoda Division	6.6213	80.7616	A	ADM3	LK		33	91	9118		81105		604	Asia/Colombo	2018-12-14
+7546674	Weligepola Division	Weligepola Division	Weligepola,Weligepola Division	6.5505	80.7324	A	ADM3	LK		33	91	9145		30778		332	Asia/Colombo	2018-12-14
+7546675	Nivithigala Division	Nivithigala Division	Nivithigala,Nivithigala Division,Nivitigala	6.5715	80.4594	A	ADM3	LK		33	91	9136		59973		89	Asia/Colombo	2018-12-14
+7546695	Pelmadulla Division	Pelmadulla Division	Pelmadulla,Pelmadulla Division	6.6475	80.5153	A	ADM3	LK		33	91	9124		89411		189	Asia/Colombo	2018-12-14
+7546696	Opanayaka Division	Opanayaka Division	Opanayaka,Opanayaka Division	6.615	80.621	A	ADM3	LK		33	91	9121		26531		211	Asia/Colombo	2018-12-14
+7556699	Matugama Division	Matugama Division	Matugama,Matugama Division,Pasdun Korale West	6.4852	80.0898	A	ADM3	LK		36	13	1330		0		9	Asia/Colombo	2018-12-14
+7556700	Agalawatta Division	Agalawatta Division	Agalawatta,Agalawatta Division	6.5108	80.1656	A	ADM3	LK		36	13	1333		36456		81	Asia/Colombo	2018-12-14
+7556701	Palinda Nuwara Division	Palinda Nuwara Division	Palinda Nuwara,Palinda Nuwara Division	6.5088	80.2749	A	ADM3	LK		36	13	1336		0		137	Asia/Colombo	2023-04-17
+7556702	Bentota Division	Bentota Division	Bentota,Bentota Division,Bentota Walallawita Korale West	6.3889	80.058	A	ADM3	LK		34	31	3103		0		13	Asia/Colombo	2023-04-17
+7556703	Walallawita Division	Walallawita Division	Pasdun Korale South,Walallawita,Walallawita Division	6.4118	80.178	A	ADM3	LK		36	13	1339		0		119	Asia/Colombo	2023-04-17
+7557413	Kahawatta Division	Kahawatta Division	Kahawatta,Kahawatta Division	6.5331	80.5458	A	ADM3	LK		33	91	9139		43026		367	Asia/Colombo	2018-12-14
+7557414	Godakawela Division	Godakawela Division	Godakawela,Godakawela Division	6.5015	80.6316	A	ADM3	LK		33	91	9142		75885		301	Asia/Colombo	2018-12-14
+7557415	Kolonna Division	Kolonna Division	Kolonna,Kolonna Division	6.3923	80.673	A	ADM3	LK		33	91	9151		45709		573	Asia/Colombo	2018-12-14
+7557416	Kalawana Division	Kalawana Division	Kalawana,Kalawana Division	6.4562	80.4504	A	ADM3	LK		33	91	9133		50968		502	Asia/Colombo	2018-12-14
+7557417	Neluwa Division	Neluwa Division	Hinidunpattu North,Neluwa,Neluwa Division	6.36	80.4137	A	ADM3	LK		34	31	3121		28541		88	Asia/Colombo	2018-12-14
+7610148	Padawiya Division	Padawiya Division	Padawiya,Padawiya Division	8.86957	80.78447	A	ADM3	LK		30	71	7103		0		51	Asia/Colombo	2023-04-19
+7612442	Palagala Division	Palagala Division	Kalagam Palata South,Palagala,Palagala Division	7.908	80.5327	A	ADM3	LK		30	71	7166		33740		147	Asia/Colombo	2018-12-14
+7612443	Galnewa Division	Galnewa Division	Galnewa,Galnewa Division	8.0297	80.4538	A	ADM3	LK		30	71	7163		34718		130	Asia/Colombo	2018-12-14
+7612444	Ipalogama Division	Ipalogama Division	Ipalogama,Ipalogama Division,Kalagampalata North	8.09	80.5047	A	ADM3	LK		30	71	7160		38688		129	Asia/Colombo	2018-12-14
+7612445	Kekirawa Division	Kekirawa Division	Kekirawa,Kekirawa Division	8.0672	80.6153	A	ADM3	LK		30	71	7154		58879		147	Asia/Colombo	2018-12-14
+7612446	Palugaswewa Division	Palugaswewa Division	Palugaswewa,Palugaswewa Division	8.0856	80.7301	A	ADM3	LK		30	71	7157		15557		163	Asia/Colombo	2018-12-14
+7616450	Hali Ela Division	Hali Ela Division	Hali Ela,Hali Ela Division	6.9523	81.0053	A	ADM3	LK		35	81	8124		0		1178	Asia/Colombo	2018-12-14
+7616456	Ella Division	Ella Division	Ella,Ella Division	6.8718	81.0647	A	ADM3	LK		35	81	8136		44763		1026	Asia/Colombo	2018-12-14
+7616484	Bandarawela Division	Bandarawela Division	Bandarawela,Bandarawela Division	6.8265	81.002	A	ADM3	LK		35	81	8133		65111		1287	Asia/Colombo	2018-12-14
+7616500	Welimada Division	Welimada Division	Welimada,Welimada Division	6.8673	80.8765	A	ADM3	LK		35	81	8130		100434		1205	Asia/Colombo	2018-12-14
+7616680	Haputale Division	Haputale Division	Haputale,Haputale Division	6.7909	80.9547	A	ADM3	LK		35	81	8139		48485		1321	Asia/Colombo	2018-12-14
+7616696	Uva Paranagama Division	Uva Paranagama Division	Uva Paranagama,Uva Paranagama Division	6.9652	80.9225	A	ADM3	LK		35	81	8127		78899		1044	Asia/Colombo	2018-12-14
+7617852	Passara Division	Passara Division	Passara,Passara Division	6.987	81.1565	A	ADM3	LK		35	81	8118		48576		735	Asia/Colombo	2018-12-14
+7617853	Badalkumbura Division	Badalkumbura Division	Badalkumbura,Badalkumbura Division	6.8724	81.2174	A	ADM3	LK		35	82	8218		39880		337	Asia/Colombo	2018-12-14
+7617854	Monaragala Division	Monaragala Division	Monaragala,Monaragala Division	6.8342	81.3525	A	ADM3	LK		35	82	8215		10123		135	Asia/Colombo	2025-10-21
+7621027	Haldummulla Division	Haldummulla Division	Haldummulla,Haldummulla Division	6.714	80.977	A	ADM3	LK		35	81	8142		37482		456	Asia/Colombo	2018-12-14
+7621028	Wellawaya Division	Wellawaya Division	Wellawaya,Wellawaya Division	6.6305	81.1249	A	ADM3	LK		35	82	8221		59770		144	Asia/Colombo	2018-12-14
+7622124	Beruwala Division	Beruwala Division	Beruwala,Beruwala Division	6.4935	80.0058	A	ADM3	LK		36	13	1324		164507		5	Asia/Colombo	2018-12-14
+7624348	Kotapola Division	Kotapola Division	Kotapola,Kotapola Division,Morawak Korale West	6.322	80.5367	A	ADM3	LK		34	32	3206		63072		526	Asia/Colombo	2018-12-14
+7624349	Pasgoda Division	Pasgoda Division	Morawak Korale East,Pasgoda,Pasgoda Division	6.2738	80.6116	A	ADM3	LK		34	32	3209		58869		318	Asia/Colombo	2018-12-14
+7624350	Katuwana Division	Katuwana Division	Katuwana,Katuwana Division	6.2501	80.6858	A	ADM3	LK		34	33	3324		46548		120	Asia/Colombo	2018-12-14
+7624351	Pitabeddara Division	Pitabeddara Division	Pitabeddara,Pitabeddara Division	6.2434	80.4729	A	ADM3	LK		34	32	3203		50827		109	Asia/Colombo	2018-12-14
+7624352	Weeraketiya Division	Weeraketiya Division	Weeraketiya,Weeraketiya Division	6.1782	80.7529	A	ADM3	LK		34	33	3321		41430		47	Asia/Colombo	2018-12-14
+7624353	Okawela Division	Okawela Division	Okawela,Okawela Division	6.10764	80.71635	A	ADM3	LK		34	33	3327		0		27	Asia/Colombo	2023-04-17
+7624354	Hakmana Division	Hakmana Division	Hakmana,Hakmana Division,Kandabada Pattuwa North	6.0988	80.649	A	ADM3	LK		34	32	3230		31464		44	Asia/Colombo	2018-12-14
+7624355	Mulatiyana Division	Mulatiyana Division	Kandabada Pattuwa West,Mulatiyana,Mulatiyana Division	6.1479	80.586	A	ADM3	LK		34	32	3212		49943		49	Asia/Colombo	2018-12-14
+7624356	Aturaliya Division	Aturaliya Division	Aturaliya,Aturaliya Division	6.1188	80.5088	A	ADM3	LK		34	32	3215		0		78	Asia/Colombo	2023-04-17
+7624357	Akuressa Division	Akuressa Division	Akuressa,Akuressa Division,Weligama Korale North	6.1374	80.4435	A	ADM3	LK		34	32	3218		52676		54	Asia/Colombo	2018-12-14
+7625250	Hambantota Division	Hambantota Division	Hambantota,Hambantota Division	6.2077	81.1113	A	ADM3	LK		34	33	3312		57053		34	Asia/Colombo	2018-12-14
+7625252	Angunakolapelessa Division	Angunakolapelessa Division	Angunakolapelessa,Angunakolapelessa Division	6.1927	80.8617	A	ADM3	LK		34	33	3318		48010		38	Asia/Colombo	2018-12-14
+7625253	Ambalantota Division	Ambalantota Division	Ambalantota,Ambalantota Division	6.1687	80.9644	A	ADM3	LK		34	33	3315		72664		32	Asia/Colombo	2018-12-14
+7625254	Suriyawewa Division	Suriyawewa Division	Suriyawewa,Suriyawewa Division	6.2991	81.0087	A	ADM3	LK		34	33	3303		0		58	Asia/Colombo	2018-12-14
+8356133	Badulla Division	Badulla Division	Badulla,Badulla Division	6.9891	81.0867	A	ADM3	LK		35	81	8121		74751		891	Asia/Colombo	2018-12-14
+8436368	Manthai West Division	Manthai West Division		8.94392	79.98013	A	ADM3	LK		38	42	4206		14630		5	Asia/Colombo	2018-12-14
+9781897	Thunukkai Divisional Secretariat	Thunukkai Divisional Secretariat	Thunukkai Divisional Secretariat,Tunukkaj,tunukkay piratecac ceyalalar pirivu,Тунуккай,துணுக்காய் பிரதேசச் செயலாளர் பிரிவு,තුනුක්‌කායි ප්‍රාදේශීය ලේකම් කොට්ඨාසය	9.15023	80.27281	A	ADM3	LK		38	44	4403		0		37	Asia/Colombo	2018-12-14
+11610825	Tangalle	Tangalle		6.02228	80.78214	A	ADM3	LK		34	33	3333		0		40	Asia/Colombo	2023-04-16
+11983735	Hatharaliyadda	Hatharaliyadda		7.33174	80.47994	A	ADM3	LK		29	21	2134		0		273	Asia/Colombo	2023-04-18
+11983736	Nanaddan	Nanaddan		8.83527	79.9942	A	ADM3	LK		38	42	4212		0		10	Asia/Colombo	2023-04-18
+11983737	Manthai East	Manthai East		9.05383	80.30961	A	ADM3	LK		38	44	4406		0		51	Asia/Colombo	2023-04-18
+11983738	Maritimepattu	Maritimepattu		9.16477	80.79279	A	ADM3	LK		38	44	4415		0		47	Asia/Colombo	2023-04-19
+11983739	Oddusuddan	Oddusuddan		9.20051	80.53452	A	ADM3	LK		38	44	4412		0		76	Asia/Colombo	2018-12-13
+11983740	Sammanthurai	Sammanthurai		7.32713	81.76306	A	ADM3	LK		37	52	5218		0		12	Asia/Colombo	2023-04-16
+11983741	Uhana	Uhana		7.40031	81.59286	A	ADM3	LK		37	52	5212		0		90	Asia/Colombo	2023-04-16
+11983742	Eravur Pattu	Eravur Pattu		7.70626	81.47202	A	ADM3	LK		37	51	5112		0		17	Asia/Colombo	2023-04-16
+11983743	Bamunakotuwa	Bamunakotuwa		7.54804	80.2529	A	ADM3	LK		32	61	6149		0		87	Asia/Colombo	2023-04-19
+11983744	Kobeigane	Kobeigane		7.68424	80.10017	A	ADM3	LK		32	61	6139		0		44	Asia/Colombo	2023-04-19
+11983745	Welioya	Welioya		8.98181	80.79339	A	ADM3	LK		38	44	4418		0		23	Asia/Colombo	2023-04-19
+11983746	Vavuniya	Vavuniya		8.83468	80.45622	A	ADM3	LK		38	43	4309		0		78	Asia/Colombo	2023-04-19
+11983747	Vavuniya North	Vavuniya North		9.00437	80.57596	A	ADM3	LK		38	43	4303		0		82	Asia/Colombo	2023-04-19
+11983748	Kotawehera	Kotawehera		7.86574	80.12445	A	ADM3	LK		32	61	6115		0		70	Asia/Colombo	2023-04-19
+11983749	Nikaweratiya	Nikaweratiya		7.76301	80.14577	A	ADM3	LK		32	61	6121		0		64	Asia/Colombo	2023-04-19
+11983750	Panduwasnuwara East	Panduwasnuwara East		7.55692	80.14342	A	ADM3	LK		32	61	6148		0		67	Asia/Colombo	2018-12-13
+11983751	Polpitigama	Polpitigama		7.80326	80.42823	A	ADM3	LK		32	61	6127		0		130	Asia/Colombo	2023-04-18
+11983752	Maharagama	Maharagama		6.85663	79.94193	A	ADM3	LK		36	11	1121		0		26	Asia/Colombo	2023-04-16
+11983753	Padukka	Padukka		6.83391	80.12164	A	ADM3	LK		36	11	1118		0		40	Asia/Colombo	2023-04-16
+11983754	Ratmalana	Ratmalana		6.827	79.87791	A	ADM3	LK		36	11	1131		0		10	Asia/Colombo	2023-04-17
+11983755	Seethawaka	Seethawaka		6.92273	80.1472	A	ADM3	LK		36	11	1115		0		59	Asia/Colombo	2023-04-16
+11983756	Sri Jayawardanapur	Sri Jayawardanapur		6.89092	79.89835	A	ADM3	LK		36	11	1124		0		13	Asia/Colombo	2018-12-13
+11983757	Thimbirigasyaya	Thimbirigasyaya		6.89996	79.86999	A	ADM3	LK		36	11	1127		0		12	Asia/Colombo	2023-04-16
+11983758	Dompe	Dompe		6.99047	80.09882	A	ADM3	LK		36	12	1230		0		29	Asia/Colombo	2023-04-16
+11983759	Koralai Pattu Cent	Koralai Pattu Cent		7.93069	81.51489	A	ADM3	LK		37	51	5104		0		8	Asia/Colombo	2023-04-17
+11983760	Koralai Pattu Nort	Koralai Pattu Nort		8.08211	81.39404	A	ADM3	LK		37	51	5103		0		5	Asia/Colombo	2023-04-17
+11983761	Koralai Pattu Sout	Koralai Pattu Sout		7.85942	81.37159	A	ADM3	LK		37	51	5110		0		25	Asia/Colombo	2023-04-17
+11983762	Koralai Pattu West	Koralai Pattu West		7.91849	81.49324	A	ADM3	LK		37	51	5106		0		8	Asia/Colombo	2023-04-17
+11983763	Medadumbara	Medadumbara		7.30278	80.80011	A	ADM3	LK		29	21	2124		0		673	Asia/Colombo	2023-04-18
+11983764	Dehiattakandiya	Dehiattakandiya		7.62071	81.08263	A	ADM3	LK		37	52	5203		0		102	Asia/Colombo	2023-04-16
+11983765	Irakkamam	Irakkamam		7.24156	81.7235	A	ADM3	LK		37	52	5234		0		21	Asia/Colombo	2018-12-13
+11983766	Kalmunai	Kalmunai		7.42253	81.81501	A	ADM3	LK		37	52	5224		0		1	Asia/Colombo	2023-04-19
+11983767	Karaitivu	Karaitivu		7.37322	81.83418	A	ADM3	LK		37	52	5227		0		3	Asia/Colombo	2023-04-16
+11983768	Navithanveli	Navithanveli		7.41961	81.76291	A	ADM3	LK		37	52	5216		0		20	Asia/Colombo	2023-04-17
+11983769	Nintavur	Nintavur		7.32693	81.84015	A	ADM3	LK		37	52	5230		0		7	Asia/Colombo	2018-12-13
+11983770	Padiyathalawa	Padiyathalawa		7.42743	81.26109	A	ADM3	LK		37	52	5206		0		99	Asia/Colombo	2023-04-16
+11983771	Galigamuwa	Galigamuwa		7.21606	80.30524	A	ADM3	LK		33	92	9215		0		214	Asia/Colombo	2023-04-16
+11983772	Eheliyagoda	Eheliyagoda		6.83764	80.2273	A	ADM3	LK		33	91	9103		0		186	Asia/Colombo	2023-04-16
+11983773	Kuruvita	Kuruvita		6.79969	80.35516	A	ADM3	LK		33	91	9106		0		53	Asia/Colombo	2023-04-16
+11983774	Ambalangoda	Ambalangoda		6.22229	80.10195	A	ADM3	LK		34	31	3133		0		24	Asia/Colombo	2023-04-17
+11983775	Baddegama	Baddegama		6.13656	80.22029	A	ADM3	LK		34	31	3127		0		25	Asia/Colombo	2023-04-19
+11983776	Balapitiya	Balapitiya		6.31429	80.05082	A	ADM3	LK		34	31	3106		0		4	Asia/Colombo	2023-04-17
+11983777	Elpitiya	Elpitiya		6.29031	80.18622	A	ADM3	LK		34	31	3112		0		58	Asia/Colombo	2023-04-17
+11983778	Gonapinuwala	Gonapinuwala		6.16617	80.13135	A	ADM3	LK		34	31	3134		0		8	Asia/Colombo	2023-04-17
+11983779	Hikkaduwa Division	Hikkaduwa Division		6.13722	80.10785	A	ADM3	LK		34	31	3136		0		27	Asia/Colombo	2023-12-07
+11983780	Karandeniya	Karandeniya		6.30109	80.10065	A	ADM3	LK		34	31	3109		0		18	Asia/Colombo	2023-04-17
+11983781	Nagoda	Nagoda		6.19947	80.31294	A	ADM3	LK		34	31	3124		0		21	Asia/Colombo	2023-04-17
+11983782	Niyagama	Niyagama		6.30219	80.25226	A	ADM3	LK		34	31	3115		0		59	Asia/Colombo	2023-04-17
+11983783	Thawalama	Thawalama		6.29322	80.35547	A	ADM3	LK		34	31	3118		0		190	Asia/Colombo	2023-04-17
+11983784	Welivitiya-Divitur	Welivitiya-Divitur		6.20642	80.1807	A	ADM3	LK		34	31	3130		0		48	Asia/Colombo	2023-04-17
+11983785	Yakkalamulla	Yakkalamulla		6.10741	80.36047	A	ADM3	LK		34	31	3148		0		177	Asia/Colombo	2023-04-17
+11983786	Beliatta	Beliatta		6.05099	80.72047	A	ADM3	LK		34	33	3330		0		67	Asia/Colombo	2023-04-17
+11983787	Lunugamwehera	Lunugamwehera		6.33211	81.16336	A	ADM3	LK		34	33	3306		0		73	Asia/Colombo	2023-04-17
+11983788	Thissamaharama	Thissamaharama		6.38021	81.45187	A	ADM3	LK		34	33	3309		0		59	Asia/Colombo	2023-04-17
+11983789	Walasmulla	Walasmulla		6.19929	80.68191	A	ADM3	LK		34	33	3325		0		96	Asia/Colombo	2023-04-17
+11983790	Devinuwara	Devinuwara		5.95716	80.61267	A	ADM3	LK		34	32	3245		0		50	Asia/Colombo	2023-04-17
+11983791	Dikwella	Dikwella		5.98511	80.67362	A	ADM3	LK		34	32	3248		0		23	Asia/Colombo	2023-04-17
+11983792	Kaburupitiya	Kaburupitiya		6.06591	80.56062	A	ADM3	LK		34	32	3227		0		24	Asia/Colombo	2018-12-13
+11983793	Kirinda Puhulwella	Kirinda Puhulwella		6.04679	80.63701	A	ADM3	LK		34	32	3233		0		47	Asia/Colombo	2023-04-17
+11983794	Malimbada	Malimbada		6.01956	80.4991	A	ADM3	LK		34	32	3224		0		19	Asia/Colombo	2023-04-17
+11983795	Matara Four Gravet	Matara Four Gravet		5.96307	80.56325	A	ADM3	LK		34	32	3242		0		43	Asia/Colombo	2018-12-13
+11983796	Thihagoda	Thihagoda		6.00996	80.56036	A	ADM3	LK		34	32	3236		0		46	Asia/Colombo	2023-04-17
+11983797	Weligama	Weligama		5.97458	80.42779	A	ADM3	LK		34	32	3239		0		12	Asia/Colombo	2023-04-17
+11983798	Welipitiya	Welipitiya		6.01684	80.43929	A	ADM3	LK		34	32	3221		0		22	Asia/Colombo	2023-04-17
+11983799	Manmunai Pattu	Manmunai Pattu		7.63944	81.75344	A	ADM3	LK		37	51	5127		0		5	Asia/Colombo	2023-04-17
+11983800	Manmunai South & East	Manmunai South & East		7.52161	81.79137	A	ADM3	LK		37	51	5136		0		11	Asia/Colombo	2018-12-13
+11983801	Manmunai South West	Manmunai South West		7.56649	81.66024	A	ADM3	LK		37	51	5130		0		19	Asia/Colombo	2023-04-18
+11983802	Manmunai West	Manmunai West		7.63295	81.59821	A	ADM3	LK		37	51	5121		0		39	Asia/Colombo	2023-04-17
+11983803	Porativu Pattu	Porativu Pattu		7.49774	81.7047	A	ADM3	LK		37	51	5133		0		7	Asia/Colombo	2023-04-17
+11983804	Kantale	Kantale		8.34644	81.05799	A	ADM3	LK		37	53	5321		0		33	Asia/Colombo	2018-12-13
+11983805	Kinniya	Kinniya		8.43486	81.16356	A	ADM3	LK		37	53	5324		0		6	Asia/Colombo	2023-04-17
+11983806	Muthur	Muthur		8.42548	81.28481	A	ADM3	LK		37	53	5327		0		23	Asia/Colombo	2018-12-13
+11983807	Sainthamaruthu	Sainthamaruthu		7.39217	81.83314	A	ADM3	LK		37	52	5225		0		2	Asia/Colombo	2023-04-17
+11983808	Elahera	Elahera		7.81506	80.84331	A	ADM3	LK		30	72	7218		0		118	Asia/Colombo	2023-04-17
+11983809	Dehiowita	Dehiowita		6.93896	80.28099	A	ADM3	LK		33	92	9230		0		62	Asia/Colombo	2023-04-17
+11983810	Higurakgoda	Higurakgoda		8.11272	80.86912	A	ADM3	LK		30	72	7203		0		131	Asia/Colombo	2023-04-17
+11983811	Lankapura	Lankapura		8.05762	81.09552	A	ADM3	LK		30	72	7209		0		30	Asia/Colombo	2023-04-17
+11983812	Thamankaduwa	Thamankaduwa		7.87737	80.98691	A	ADM3	LK		30	72	7215		0		45	Asia/Colombo	2023-04-17
+11983813	Welikanda	Welikanda		8.04215	81.23502	A	ADM3	LK		30	72	7210		0		51	Asia/Colombo	2023-04-18
+11983814	Delft	Delft		9.51034	79.68754	A	ADM3	LK		38	41	4142		0		0	Asia/Colombo	2023-04-19
+11983815	Karainagar	Karainagar		9.73562	79.87552	A	ADM3	LK		38	41	4104		0		3	Asia/Colombo	2023-04-18
+11983816	Vadamaradchchi Sou	Vadamaradchchi Sou		9.77614	80.1847	A	ADM3	LK		38	41	4121		0		3	Asia/Colombo	2018-12-13
+11983817	Vadamaradchi North	Vadamaradchi North		9.81491	80.24122	A	ADM3	LK		38	41	4127		0		12	Asia/Colombo	2023-04-18
+11983818	Valikamam East	Valikamam East		9.73806	80.0966	A	ADM3	LK		38	41	4118		0		4	Asia/Colombo	2023-04-18
+11983819	Kandavalai	Kandavalai		9.4465	80.48601	A	ADM3	LK		38	45	4506		0		9	Asia/Colombo	2023-04-18
+11983820	Deraniyagala	Deraniyagala		6.90681	80.4022	A	ADM3	LK		33	92	9233		0		392	Asia/Colombo	2023-04-17
+11983821	Padavi Sri Pura	Padavi Sri Pura		8.9153	80.85611	A	ADM3	LK		37	53	5303		0		34	Asia/Colombo	2023-04-18
+11983822	Seruvila	Seruvila		8.29982	81.25273	A	ADM3	LK		37	53	5330		0		21	Asia/Colombo	2023-04-17
+11983823	Verugal	Verugal		8.31556	81.35898	A	ADM3	LK		37	53	5333		0		6	Asia/Colombo	2023-04-17
+11983824	Galenbidunuwewa	Galenbidunuwewa		8.26796	80.70851	A	ADM3	LK		30	71	7127		0		124	Asia/Colombo	2023-04-18
+11983825	Mihinthale	Mihinthale		8.3489	80.5447	A	ADM3	LK		30	71	7130		0		98	Asia/Colombo	2023-04-19
+11983826	Thirappane	Thirappane		8.20647	80.55685	A	ADM3	LK		30	71	7151		0		125	Asia/Colombo	2023-04-18
+11983827	Dimbulagala	Dimbulagala		7.78433	81.12525	A	ADM3	LK		30	72	7212		0		60	Asia/Colombo	2023-04-18
+11983829	Maho	Maho		7.80559	80.2905	A	ADM3	LK		32	61	6124		0		93	Asia/Colombo	2018-12-13
+11983830	Mannar Town	Mannar Town		8.99216	79.88623	A	ADM3	LK		38	42	4203		0		8	Asia/Colombo	2023-04-19
+11983831	Kandeketiya	Kandeketiya		7.12888	80.99355	A	ADM3	LK		35	81	8112		0		219	Asia/Colombo	2023-04-17
+11983832	Mahiyanganaya	Mahiyanganaya	Mahiyangana,Mahiyanganaya	7.43709	81.08316	A	ADM3	LK		35	81	8103		0		115	Asia/Colombo	2024-07-15
+11983833	Meegahakiula	Meegahakiula		7.12579	81.08236	A	ADM3	LK		35	81	8109		0		173	Asia/Colombo	2023-04-17
+11983834	Rideemaliyadda	Rideemaliyadda		7.27404	81.12867	A	ADM3	LK		35	81	8106		0		198	Asia/Colombo	2023-04-17
+11983835	Soranathota	Soranathota		7.04512	81.0499	A	ADM3	LK		35	81	8115		0		731	Asia/Colombo	2023-04-17
+11983836	Katharagama	Katharagama		6.49586	81.3931	A	ADM3	LK		35	82	8227		0		61	Asia/Colombo	2023-04-19
+11983837	Dehiwala	Dehiwala		6.85844	79.87572	A	ADM3	LK		36	11	1130		0		25	Asia/Colombo	2023-04-19
+11983838	Minipe	Minipe		7.34731	80.94982	A	ADM3	LK		29	21	2121		0		116	Asia/Colombo	2023-04-18
+11983839	Pasbagekorale	Pasbagekorale		7.0185	80.53637	A	ADM3	LK		29	21	2157		0		691	Asia/Colombo	2018-12-13
+11983840	Ududumbara	Ududumbara		7.32878	80.87547	A	ADM3	LK		29	21	2118		0		693	Asia/Colombo	2023-04-18
+11983841	Dambulla	Dambulla		7.87578	80.71968	A	ADM3	LK		29	22	2206		0		191	Asia/Colombo	2018-12-13
+11983842	Galewela	Galewela		7.77878	80.57075	A	ADM3	LK		29	22	2203		0		193	Asia/Colombo	2023-04-18
+11983843	Laggala	Laggala		7.55567	80.80806	A	ADM3	LK		29	22	2224		0		389	Asia/Colombo	2018-12-13
+11983844	Naula	Naula		7.68851	80.70798	A	ADM3	LK		29	22	2209		0		269	Asia/Colombo	2018-12-13
+11983845	Wilgamuwa	Wilgamuwa		7.60298	80.92895	A	ADM3	LK		29	22	2227		0		96	Asia/Colombo	2023-04-18
+11983846	Hanguranketa	Hanguranketa		7.12302	80.77675	A	ADM3	LK		29	23	2306		0		1141	Asia/Colombo	2023-04-18
+11983847	Walapane	Walapane		7.09277	80.88575	A	ADM3	LK		29	23	2309		0		818	Asia/Colombo	2023-04-18
+11983848	Koralai Pattu	Koralai Pattu		7.90608	81.54612	A	ADM3	LK		37	51	5109		0		9	Asia/Colombo	2023-04-19
+11983849	Addalaichenai	Addalaichenai		7.26383	81.8135	A	ADM3	LK		37	52	5233		0		6	Asia/Colombo	2023-04-19
+11983850	Akkaraipattu	Akkaraipattu		7.20563	81.78443	A	ADM3	LK		37	52	5236		0		12	Asia/Colombo	2023-04-19
+11983851	Ampara	Ampara		7.2768	81.5979	A	ADM3	LK		37	52	5215		0		58	Asia/Colombo	2023-04-19
+11983852	Madhu	Madhu		8.84639	80.22573	A	ADM3	LK		38	42	4209		0		67	Asia/Colombo	2023-04-19

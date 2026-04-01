@@ -1,0 +1,1551 @@
+﻿5882316	Addington Highlands	Addington Highlands		44.88342	-77.26615	A	ADM3	CA		08	3511	3511035		0		336	America/Toronto	2018-01-20
+5882340	Adelaide Metcalfe	Adelaide Metcalfe		42.91679	-81.73308	A	ADM3	CA		08	3539	3539047		0		226	America/Toronto	2018-01-20
+5882367	Adjala-Tosorontio	Adjala-Tosorontio		44.13231	-79.93216	A	ADM3	CA		08	3543	3543003		0		273	America/Toronto	2018-01-20
+5882373	Admaston/Bromley	Admaston/Bromley		45.51681	-76.88273	A	ADM3	CA		08	3547	3547043		0		133	America/Toronto	2018-01-20
+5883168	Alberton	Alberton		48.58318	-93.50031	A	ADM3	CA		08	3559	3559011		0		345	America/Winnipeg	2018-01-20
+5883593	Alfred and Plantagenet	Alfred and Plantagenet		45.5407	-74.98259	A	ADM3	CA		08	3502	3502023		0		78	America/Toronto	2018-01-20
+5883643	Algonquin Highlands	Algonquin Highlands		45.38341	-78.71628	A	ADM3	CA		08	3546	3546018		0		437	America/Toronto	2018-01-20
+5884136	Alnwick/Haldimand	Alnwick/Haldimand		44.11682	-78.04951	A	ADM3	CA		08	3514	3514024		0		280	America/Toronto	2018-01-20
+5884341	Amaranth	Amaranth		43.9668	-80.24968	A	ADM3	CA		08	3522	3522008		0		486	America/Toronto	2018-01-20
+5884469	Amherst	Amherst		46.05009	-74.76596	A	ADM3	CA		10	15	78070		1728		380	America/Toronto	2026-03-27
+5887018	Armour	Armour		45.6501	-79.33294	A	ADM3	CA		08	3549	3549019		0		326	America/Toronto	2018-01-20
+5887046	Armstrong	Armstrong		47.71686	-79.81639	A	ADM3	CA		08	3554	3554036		0		246	America/Toronto	2018-01-20
+5887237	Arran-Elderslie	Arran-Elderslie		44.38339	-81.21644	A	ADM3	CA		08	3541	3541043		0		253	America/Toronto	2018-01-20
+5887440	Arundel	Arundel		45.96679	-74.61595	A	ADM3	CA		10	15	78060		578		188	America/Toronto	2026-03-25
+5887554	Ashfield-Colborne-Wawanosh	Ashfield-Colborne-Wawanosh		43.95009	-81.59977	A	ADM3	CA		08	3540	3540063		0		277	America/Toronto	2018-01-20
+5887751	Asphodel-Norwood	Asphodel-Norwood		44.33342	-77.99951	A	ADM3	CA		08	3515	3515003		0		204	America/Toronto	2018-01-20
+5887787	Assiginack	Assiginack		45.81677	-81.9165	A	ADM3	CA		08	3551	3551011		0		258	America/Toronto	2018-01-20
+5887943	Athens	Athens	Farmersville,Rear of Yonge and Escott	44.61681	-75.94936	A	ADM3	CA		08	3507	3507042		0		94	America/Toronto	2021-06-14
+5888000	Atikokan	Atikokan		48.76653	-91.61689	A	ADM3	CA		08	3559	3559001		0		412	America/Atikokan	2018-01-20
+5888255	Augusta	Augusta		44.75011	-75.59934	A	ADM3	CA		08	3507	3507006		0		99	America/Toronto	2018-01-20
+5888340	Aumond	Aumond		46.50011	-75.83263	A	ADM3	CA		10	07	83090		0		233	America/Toronto	2014-01-18
+5892117	Baldwin	Baldwin		46.30007	-81.74979	A	ADM3	CA		08	3552	3552028		0		210	America/Toronto	2018-01-20
+5895330	Bayham	Bayham		42.7334	-80.783	A	ADM3	CA		08	3534	3534005		0		223	America/Toronto	2018-01-20
+5897288	Beckwith	Beckwith		45.08341	-76.09938	A	ADM3	CA		08	3509	3509024		0		140	America/Toronto	2018-01-20
+5897324	Bedford	Bedford		45.13338	-72.96584	A	ADM3	CA		10	05	46040		699		67	America/Toronto	2024-06-14
+5901115	Billings	Billings		45.88337	-82.23313	A	ADM3	CA		08	3551	3551021		0		219	America/Toronto	2018-01-20
+5903161	Black River-Matheson	Black River-Matheson		48.45017	-80.33303	A	ADM3	CA		08	3556	3556014		0		286	America/Toronto	2018-01-20
+5903671	Blandford-Blenheim	Blandford-Blenheim		43.16679	-80.58299	A	ADM3	CA		08	3532	3532045		0		288	America/Toronto	2018-01-20
+5905482	Bonfield	Bonfield		46.21681	-79.0829	A	ADM3	CA		08	3548	3548027		0		316	America/Toronto	2018-01-20
+5905535	Bonnechere Valley	Bonnechere Valley		45.48341	-77.16616	A	ADM3	CA		08	3547	3547035		0		248	America/Toronto	2018-01-20
+5907180	Bradford West Gwillimbury	Bradford West Gwillimbury		44.11681	-79.61633	A	ADM3	CA		08	3543	3543014		18811		264	America/Toronto	2018-01-20
+5908309	Brébeuf	Brebeuf		46.06679	-74.66595	A	ADM3	CA		10	15	78075		1009		220	America/Toronto	2026-03-25
+5908496	Brethour	Brethour		47.71071	-79.57481	A	ADM3	CA		08	3554	3554032		129		226	America/Toronto	2018-01-25
+5908999	Bristol	Bristol		45.53341	-76.4661	A	ADM3	CA		10	07	84005		0		96	America/Toronto	2016-10-06
+5909253	Brock	Brock		44.28342	-79.09959	A	ADM3	CA		08	3518	3518039		0		277	America/Toronto	2018-01-20
+5909290	Brockton	Brockton		44.16679	-81.24974	A	ADM3	CA		08	3541	3541032		0		290	America/Toronto	2018-01-20
+5909453	Brooke-Alvinston	Brooke-Alvinston		42.83338	-81.9165	A	ADM3	CA		08	3538	3538015		0		212	America/Toronto	2018-01-20
+5910164	Brudenell, Lyndoch and Raglan	Brudenell, Lyndoch and Raglan		45.28342	-77.41618	A	ADM3	CA		08	3547	3547020		0		313	America/Toronto	2018-01-20
+5912139	Burpee and Mills	Burpee and Mills		45.78337	-82.58315	A	ADM3	CA		08	3551	3551028		0		210	America/Toronto	2018-01-20
+5913520	Calixa-Lavallée	Calixa-Lavallee		45.75008	-73.28246	A	ADM3	CA		10	16	59030		509		18	America/Toronto	2026-03-27
+5913659	Calvin	Calvin		46.23341	-78.91629	A	ADM3	CA		08	3548	3548022		0		232	America/Toronto	2018-01-20
+5914867	Caniapiscau	Caniapiscau		54.86694	-69.91551	A	ADM3	CA		10	09	5914867		0		495	America/Toronto	2024-07-03
+5917179	Carling	Carling		45.4168	-80.24969	A	ADM3	CA		08	3549	3549036		0		177	America/Toronto	2018-01-20
+5917220	Carlow/Mayo	Carlow/Mayo		45.16682	-77.64949	A	ADM3	CA		08	3512	3512065		0		383	America/Toronto	2018-01-20
+5917932	Casey	Casey		47.63346	-79.58297	A	ADM3	CA		08	3554	3554029		0		181	America/Toronto	2018-01-20
+5918553	Cavan Monaghan	Cavan Monaghan		44.16682	-78.44954	A	ADM3	CA		08	3515	3515013		0		248	America/Toronto	2018-01-20
+5919096	Central Elgin	Central Elgin		42.76679	-81.13303	A	ADM3	CA		08	3534	3534020		0		236	America/Toronto	2018-01-20
+5919108	Central Frontenac	Central Frontenac		44.66682	-76.83272	A	ADM3	CA		08	3510	3510035		0		192	America/Toronto	2018-01-20
+5919114	Central Huron	Central Huron		43.65009	-81.53307	A	ADM3	CA		08	3540	3540025		0		285	America/Toronto	2018-01-20
+5919126	Central Manitoulin	Central Manitoulin		45.71677	-82.18312	A	ADM3	CA		08	3551	3551006		0		209	America/Toronto	2018-01-20
+5919180	Centre Hastings	Centre Hastings		44.41682	-77.44947	A	ADM3	CA		08	3512	3512026		0		179	America/Toronto	2018-01-20
+5919274	Centre Wellington	Centre Wellington		43.6834	-80.39969	A	ADM3	CA		08	3523	3523025		0		402	America/Toronto	2018-01-20
+5919513	Chamberlain	Chamberlain		47.88347	-79.98301	A	ADM3	CA		08	3554	3554054		0		278	America/Toronto	2018-01-20
+5919683	Champlain	Champlain		45.53339	-74.66596	A	ADM3	CA		08	3502	3502010		0		72	America/Toronto	2018-01-20
+5920015	Chapple	Chapple		48.74994	-94.00036	A	ADM3	CA		08	3559	3559024		0		366	America/Winnipeg	2018-01-20
+5920294	Charlton and Dack	Charlton and Dack		47.80016	-79.9664	A	ADM3	CA		08	3554	3554044		0		254	America/Toronto	2018-01-20
+5920471	Chatsworth	Chatsworth		44.38339	-80.87472	A	ADM3	CA		08	3542	3542037		0		331	America/Toronto	2018-01-20
+5921041	Sainte-Hélène-de-Chester	Sainte-Helene-de-Chester	Chester-Est	46.03337	-71.69909	A	ADM3	CA		10	17	39035		0		403	America/Toronto	2017-01-26
+5921162	Chichester	Chichester		45.93755	-77.12182	A	ADM3	CA		10	07	84090		0		141	America/Toronto	2024-06-18
+5921606	Chisholm	Chisholm		46.1334	-79.2496	A	ADM3	CA		08	3548	3548031		0		274	America/Toronto	2018-01-20
+5923112	Clarendon	Clarendon		45.65011	-76.5161	A	ADM3	CA		10	07	84015		0		180	America/Toronto	2014-01-18
+5923134	Clarington	Clarington	Klarington,ke la ling dun,klarynghtwn,klaryngtwn,kurarinton,Кларингтон,Кларінгтон,كلارينغتون,کلارینگتون,کلیرنگٹن,クラリントン,克拉靈頓	43.99482	-78.67486	A	ADM3	CA		08	3518	3518017		84548		170	America/Toronto	2018-01-20
+5923659	Clearview	Clearview	Clearview Township	44.3982	-80.07407	A	ADM3	CA		08	3543	3543005		0		224	America/Toronto	2018-01-20
+5923880	Clermont	Clermont		48.91689	-79.16634	A	ADM3	CA		10	08	87110		0		303	America/Toronto	2014-01-18
+5923892	Cleveland	Cleveland		45.66678	-72.0824	A	ADM3	CA		10	05	42110		0		180	America/Toronto	2014-01-18
+5924109	Cloridorme	Cloridorme		49.1668	-64.91539	A	ADM3	CA		10	11	03010		0		267	America/Toronto	2014-01-18
+5924683	Cockburn Island	Cockburn Island		45.91677	-83.36659	A	ADM3	CA		08	3551	3551034		0		240	America/Toronto	2018-01-20
+5925153	Coleman	Coleman		47.36686	-79.833	A	ADM3	CA		08	3554	3554001		0		275	America/Toronto	2018-01-20
+5926740	Conmee	Conmee		48.4668	-89.66685	A	ADM3	CA		08	3558	3558019		0		465	America/Toronto	2018-01-20
+5931581	Cramahe	Cramahe		44.08342	-77.8828	A	ADM3	CA		08	3514	3514014		0		175	America/Toronto	2018-01-20
+5935777	Dawn-Euphemia	Dawn-Euphemia		42.70008	-82.04979	A	ADM3	CA		08	3538	3538007		0		199	America/Toronto	2018-01-20
+5935789	Dawson	Dawson		48.78885	-94.53931	A	ADM3	CA		08	3559	3559040		0		341	America/Winnipeg	2018-01-20
+5937785	Denholm	Denholm		45.8168	-75.74934	A	ADM3	CA		10	07	83005		0		191	America/Toronto	2014-01-18
+5939664	Disraeli	Disraeli		45.91677	-71.36577	A	ADM3	CA		10	12	31020		0		252	America/Toronto	2014-01-18
+5941814	Dorion	Dorion		48.7834	-88.65007	A	ADM3	CA		08	3558	3558034		0		307	America/Toronto	2018-01-20
+5942214	Douro-Dummer	Douro-Dummer		44.45012	-78.11622	A	ADM3	CA		08	3515	3515023		0		250	America/Toronto	2018-01-20
+5942838	Drummond/North Elmsley	Drummond/North Elmsley		44.95701	-76.21048	A	ADM3	CA		08	3509	3509010		0		142	America/Toronto	2018-01-20
+5943058	Dubreuilville	Dubreuilville		48.35007	-84.5331	A	ADM3	CA		08	3557	3557079		0		352	America/Toronto	2018-01-20
+5943997	Dundee	Dundee		45.02286	-74.45569	A	ADM3	CA		10	16	69075		0		45	America/Toronto	2016-06-23
+5944510	Dutton/Dunwich	Dutton/Dunwich		42.68339	-81.49975	A	ADM3	CA		08	3534	3534030		0		220	America/Toronto	2018-01-20
+5944934	Ear Falls	Ear Falls		50.63945	-93.24268	A	ADM3	CA		08	3560	3560032		0		374	America/Winnipeg	2018-01-24
+5945662	East Ferris	East Ferris		46.2001	-79.28291	A	ADM3	CA		08	3548	3548034		0		291	America/Toronto	2018-01-20
+5945684	East Garafraxa	East Garafraxa		43.8501	-80.24968	A	ADM3	CA		08	3522	3522001		0		467	America/Toronto	2018-01-20
+5945719	East Hawkesbury	East Hawkesbury		45.50009	-74.49925	A	ADM3	CA		08	3502	3502001		0		62	America/Toronto	2018-01-20
+5945843	Grand Valley	Grand Valley	East Luther Grand Valley,The Township of East Luther Grand Valley,Town of Grand Valley	43.9168	-80.33298	A	ADM3	CA		08	3522	3522010		0		478	America/Toronto	2018-01-20
+5946237	East Zorra-Tavistock	East Zorra-Tavistock		43.25009	-80.83301	A	ADM3	CA		08	3532	3532038		0		354	America/Toronto	2018-01-20
+5946868	Edwardsburgh/Cardinal	Edwardsburgh/Cardinal		44.83341	-75.51603	A	ADM3	CA		08	3507	3507004		0		100	America/Toronto	2018-01-20
+5947584	Elgin	Elgin		45.01679	-74.23254	A	ADM3	CA		10	16	69050		0		56	America/Toronto	2014-01-18
+5947679	Elizabethtown-Kitley	Elizabethtown-Kitley		44.66681	-75.83265	A	ADM3	CA		08	3507	3507014		0		123	America/Toronto	2018-01-20
+5948684	Emo	Emo		48.6499	-93.76702	A	ADM3	CA		08	3559	3559019		0		359	America/Winnipeg	2018-01-20
+5948976	Enniskillen	Enniskillen		42.85008	-82.11651	A	ADM3	CA		08	3538	3538016		0		203	America/Toronto	2018-01-20
+5949522	Essa	Essa		44.25011	-79.78295	A	ADM3	CA		08	3543	3543021		18505		227	America/Toronto	2018-01-20
+5950267	Etobicoke	Etobicoke	Ehtobikok,Etobiko,etobiko,etopikok,itobiko,yi tao bi gu,Етобіко,Этобикок,எடோபிகோக்,エトビコ,怡陶碧谷,이토비코	43.65421	-79.56711	A	ADM3	CA		08	3520	5950267		365000		148	America/Toronto	2024-01-26
+5950511	Evanturel	Evanturel		47.78346	-79.79969	A	ADM3	CA		08	3554	3554049		0		209	America/Toronto	2018-01-20
+5951507	Faraday	Faraday		45.00012	-77.91621	A	ADM3	CA		08	3512	3512058		0		371	America/Toronto	2018-01-20
+5951847	Fauquier-Strickland	Fauquier-Strickland		49.27661	-82.03728	A	ADM3	CA		08	3556	3556052		0		237	America/Toronto	2018-01-20
+5958507	Frontenac Islands	Frontenac Islands		44.20012	-76.36609	A	ADM3	CA		08	3510	3510005		0		72	America/Toronto	2018-01-20
+5958528	Front of Yonge	Front of Yonge		44.50011	-75.83265	A	ADM3	CA		08	3507	3507017		0		76	America/Toronto	2018-01-20
+5959230	Trent Lakes	Trent Lakes	Galway-Cavendish and Harvey,Trent Lakes	44.66682	-78.41624	A	ADM3	CA		08	3515	5959230		5397		278	America/Toronto	2024-01-04
+5960028	Gauthier	Gauthier		48.15017	-79.81639	A	ADM3	CA		08	3554	3554066		0		314	America/Toronto	2018-01-20
+5960553	Georgian Bay	Georgian Bay		45.0001	-79.83295	A	ADM3	CA		08	3544	3544065		0		209	America/Toronto	2018-01-20
+5960556	Georgian Bluffs	Georgian Bluffs		44.61679	-81.03303	A	ADM3	CA		08	3542	3542053		11100		245	America/Toronto	2026-03-25
+5961232	Gillies	Gillies		48.2668	-89.68346	A	ADM3	CA		08	3558	3558012		0		399	America/Toronto	2018-01-20
+5962477	Godmanchester	Godmanchester		45.08339	-74.24924	A	ADM3	CA		10	16	69060		1403		78	America/Toronto	2026-03-25
+5963552	Gore	Gore		45.76678	-74.24922	A	ADM3	CA		10	15	76025		1775		269	America/Toronto	2014-01-18
+5964370	Grande-Vallée	Grande-Vallee		49.2168	-65.13201	A	ADM3	CA		10	11	03020		1077		4	America/Toronto	2026-03-27
+5964679	Grand-Remous	Grand-Remous		46.61681	-75.89933	A	ADM3	CA		10	07	83095		0		203	America/Toronto	2014-01-18
+5965811	Greater Madawaska	Greater Madawaska		45.26681	-76.91614	A	ADM3	CA		08	3547	3547008		0		302	America/Toronto	2018-01-20
+5966943	Grey Highlands	Grey Highlands		44.3168	-80.483	A	ADM3	CA		08	3542	3542015		0		432	America/Toronto	2018-01-20
+5967630	Guelph	Guelph		43.5668	-80.29968	A	ADM3	CA		08		5967630		0		338	America/Toronto	2019-06-10
+5967631	Guelph/Eramosa	Guelph/Eramosa		43.6001	-80.26637	A	ADM3	CA		08	3523	3523009		0		361	America/Toronto	2018-01-20
+5967642	Guérin	Guerin		47.66686	-79.24965	A	ADM3	CA		10	08	85095		0		304	America/Toronto	2014-01-18
+5969986	Ham-Nord	Ham-Nord	am nwr,am-nwrd  kbk,آم نور,آم-نورد، کبک	45.90007	-71.64909	A	ADM3	CA		10	17	39010		0		287	America/Toronto	2016-02-23
+5969991	Hampden	Hampden		45.50008	-71.24905	A	ADM3	CA		10	05	41075		0		401	America/Toronto	2014-01-18
+5971016	Harley	Harley		47.63346	-79.68298	A	ADM3	CA		08	3554	3554026		0		274	America/Toronto	2018-01-20
+5971252	Harrington	Harrington		45.83339	-74.66595	A	ADM3	CA		10	15	76065		891		154	America/Toronto	2026-03-25
+5971272	Harris	Harris		47.55016	-79.56637	A	ADM3	CA		08	3554	3554014		0		175	America/Toronto	2018-01-20
+5971849	Hastings Highlands	Hastings Highlands		45.23343	-77.91622	A	ADM3	CA		08	3512	3512076		0		395	America/Toronto	2018-01-20
+5971972	Hatley (township municipality)	Hatley (township municipality)	Hatley (municipalite de canton),Hatley (municipalité de canton),Municipalite de canton de Hatley,Municipalité de canton de Hatley	45.26679	-71.94908	A	ADM3	CA		10	05	45055		2230		263	America/Toronto	2024-06-16
+5972150	Havelock	Havelock		45.05008	-73.74919	A	ADM3	CA		10	16	69005		0		79	America/Toronto	2014-01-18
+5972153	Havelock-Belmont-Methuen	Havelock-Belmont-Methuen		44.58342	-77.91621	A	ADM3	CA		08	3515	3515030		0		250	America/Toronto	2018-01-20
+5972946	Head, Clara and Maria	Head, Clara and Maria		46.18342	-77.99952	A	ADM3	CA		08	3547	3547098		0		305	America/Toronto	2018-01-20
+5973740	Hemmingford	Hemmingford		45.08338	-73.58248	A	ADM3	CA		10	16	68015		0		59	America/Toronto	2016-12-22
+5974270	Hérouxville	Herouxville	Ehruvil',Eruvil',Herouxville,arwwyl  kbk,ayrwfyl,Ерувіль,Эрувиль,إيروفيل,اروویل، کبک	46.66676	-72.61582	A	ADM3	CA		10	04	35035		0		143	America/Toronto	2014-01-18
+5974993	Highlands	Highlands		48.51633	-123.50261	A	ADM3	CA		02	5917	5917049		2482		187	America/Vancouver	2026-03-25
+5974994	Highlands East	Highlands East		44.95012	-78.26624	A	ADM3	CA		08	3546	3546005		0		379	America/Toronto	2018-01-20
+5975202	Hilliard	Hilliard		47.68346	-79.68298	A	ADM3	CA		08	3554	3554034		0		186	America/Toronto	2018-01-20
+5975401	Hilton	Hilton		46.21676	-83.88323	A	ADM3	CA		08	3557	3557004		0		253	America/Toronto	2018-01-20
+5977045	Hornepayne	Hornepayne		49.25013	-84.78315	A	ADM3	CA		08	3557	3557096		0		344	America/Toronto	2018-01-20
+5977527	Horton	Horton		45.50011	-76.66612	A	ADM3	CA		08	3547	3547046		0		146	America/Toronto	2018-01-20
+5977940	Howick	Howick		43.88339	-81.08304	A	ADM3	CA		08	3540	3540046		0		347	America/Toronto	2018-01-20
+5978130	Hudson	Hudson		47.56686	-79.833	A	ADM3	CA		08	3554	3554021		0		253	America/Toronto	2018-01-20
+5978839	Huron-Kinloss	Huron-Kinloss		44.03339	-81.51646	A	ADM3	CA		08	3541	3541015		0		275	America/Toronto	2018-01-20
+5978843	Huron Shores	Huron Shores		46.2359	-83.28186	A	ADM3	CA		08	3557	3557035		0		197	America/Toronto	2018-01-22
+5979369	Ignace	Ignace		49.41679	-91.68356	A	ADM3	CA		08	3560	3560001		0		451	America/Winnipeg	2018-01-20
+5985539	James	James		47.72847	-80.33958	A	ADM3	CA		08	3554	3554042		0		288	America/Toronto	2018-01-24
+5986802	Jocelyn	Jocelyn		46.15006	-83.93323	A	ADM3	CA		08	3557	3557001		0		215	America/Toronto	2018-01-20
+5987288	Johnson	Johnson		46.38336	-83.88323	A	ADM3	CA		08	3557	3557016		0		246	America/Toronto	2018-01-20
+5987684	Joly	Joly		45.7834	-79.24963	A	ADM3	CA		08	3549	3549051		0		455	America/Toronto	2018-01-20
+5991097	Kent	Kent		49.28299	-121.75256	A	ADM3	CA		02	5909	5909032		0		102	America/Vancouver	2019-02-26
+5991244	Kerns	Kerns		47.61686	-79.79969	A	ADM3	CA		08	3554	3554024		0		210	America/Toronto	2018-01-20
+5991883	Killaloe, Hagarty and Richards	Killaloe, Hagarty and Richards		45.60012	-77.51618	A	ADM3	CA		08	3547	3547033		0		186	America/Toronto	2018-01-20
+5992145	Kincardine	Kincardine		44.23339	-81.48306	A	ADM3	CA		08	3541	3541024		0		273	America/Toronto	2018-01-20
+5992181	King	King		43.96681	-79.58292	A	ADM3	CA		08	3519	3519049		0		335	America/Toronto	2018-01-20
+5999042	Lac-aux-Sables	Lac-aux-Sables	lak-aw-sbl  kbk,لاک-او-سبل، کبک	46.86676	-72.3991	A	ADM3	CA		10	04	35010		1380		157	America/Toronto	2026-03-27
+6047733	La Doré	La Dore		48.71676	-72.64904	A	ADM3	CA		10	02	91050		0		168	America/Toronto	2014-01-18
+6048196	Laird	Laird		46.40006	-84.04994	A	ADM3	CA		08	3557	3557011		0		199	America/Toronto	2018-01-20
+6048314	Lake Country	Lake Country		50.10808	-119.36907	A	ADM3	CA		02	5935	5935016		0		400	America/Vancouver	2019-02-26
+6048553	Lake of Bays	Lake of Bays		45.25011	-78.99961	A	ADM3	CA		08	3544	3544027		0		314	America/Toronto	2018-01-20
+6048589	Lake of the Woods	Lake of the Woods		49.06757	-94.54903	A	ADM3	CA		08	3559	3559047		0		324	America/Winnipeg	2018-01-24
+6049131	Lanark Highlands	Lanark Highlands		45.07114	-76.48321	A	ADM3	CA		08	3509	3509039		0		201	America/Toronto	2018-01-20
+6049268	Landrienne	Landrienne		48.55018	-77.94952	A	ADM3	CA		10	08	88035		0		312	America/Toronto	2014-01-18
+6049430	Langley	Langley	Distretu de Langley,Distrikto Langley,Distrito de Langley,Distritu de Langley,Langley Township,Lengli,Township of Langley,lan li qu,lan li zhen,ranguri,Ленглі,لینگلی، برٹش کولمبیا,ラングリー,蘭里區,蘭里鎮	49.08297	-122.58589	A	ADM3	CA		02	5915	5915001		93726		78	America/Vancouver	2021-08-25
+6049868	La Présentation	La Presentation		45.66678	-73.04914	A	ADM3	CA		10	16	54035		0		35	America/Toronto	2014-01-18
+6049935	Larder Lake	Larder Lake		48.08347	-79.66638	A	ADM3	CA		08	3554	3554062		0		309	America/Toronto	2018-01-20
+6050215	L'Ascension-de-Notre-Seigneur	L'Ascension-de-Notre-Seigneur		48.70009	-71.6824	A	ADM3	CA		10	02	93065		0		166	America/Toronto	2014-01-18
+6050461	Launay	Launay		48.65018	-78.53287	A	ADM3	CA		10	08	88080		211		326	America/Toronto	2026-03-27
+6050536	Laurentian Valley	Laurentian Valley		45.75012	-77.24947	A	ADM3	CA		08	3547	3547075		0		167	America/Toronto	2018-01-20
+6050621	La Vallee	La Vallee		48.68319	-93.66702	A	ADM3	CA		08	3559	3559016		0		355	America/Winnipeg	2018-01-20
+6051636	Leeds and the Thousand Islands	Leeds and the Thousand Islands		44.46681	-76.08267	A	ADM3	CA		08	3507	3507021		0		96	America/Toronto	2018-01-20
+6052861	Les Îles-de-la-Madeleine	Les Iles-de-la-Madeleine	Inizi Madalen,Islas de la Magdalena,Les Iles-de-la-Madeleine,Les Îles-de-la-Madeleine,Magdalen Islands,Magdalen-Insuloj,Magdalene-eilande,Magdalenen-Inseln,lh-ayl-dw-la-madln  kbk,lyjjwl dw lamadlyn,lyjjwl dw lamadlyn   kybk,madorenu zhu dao,له-ایل-دو-لا-مادلن، کبک,ليججول دو لامادلين,ليججول دو لامادلين ، كيبك,マドレーヌ諸島	47.40096	-61.7981	A	ADM3	CA		10	11	01023		12000		30	America/Halifax	2025-07-16
+6053923	Lillooet	Lillooet		50.68306	-121.93596	A	ADM3	CA		02	5931	5931026		0		242	America/Vancouver	2019-02-26
+6054137	Limerick	Limerick		44.91683	-77.69949	A	ADM3	CA		08	3512	3512051		0		366	America/Toronto	2018-01-20
+6054473	Lingwick	Lingwick		45.58338	-71.33237	A	ADM3	CA		10	05	41085		0		411	America/Toronto	2014-01-18
+6054681	Litchfield	Litchfield		45.75011	-76.58271	A	ADM3	CA		10	07	84040		0		179	America/Toronto	2014-01-18
+6058143	Lochaber	Lochaber		45.6334	-75.216	A	ADM3	CA		10	07	80055		0		114	America/Toronto	2016-12-28
+6058146	Lochaber-Partie-Ouest	Lochaber-Partie-Ouest		45.6168	-75.29931	A	ADM3	CA		10	07	80060		0		107	America/Toronto	2014-01-18
+6061013	Low	Low		45.81681	-75.94936	A	ADM3	CA		10	07	83010		0		154	America/Toronto	2014-01-18
+6061718	Loyalist	Loyalist		44.23342	-76.76612	A	ADM3	CA		08	3511	3511005		0		102	America/Toronto	2018-01-20
+6061746	Lucan Biddulph	Lucan Biddulph		43.21679	-81.38306	A	ADM3	CA		08	3539	3539060		0		304	America/Toronto	2018-01-20
+6062744	Macdonald, Meredith and Aberdeen Additional	Macdonald, Meredith and Aberdeen Additional		46.46676	-83.93323	A	ADM3	CA		08	3557	3557051		0		267	America/Toronto	2018-01-20
+6062988	Machar	Machar		45.8834	-79.49963	A	ADM3	CA		08	3549	3549054		0		387	America/Toronto	2018-01-20
+6063003	Machin	Machin		49.73334	-93.21705	A	ADM3	CA		08	3560	3560021		0		365	America/Winnipeg	2018-01-20
+6063891	Madawaska Valley	Madawaska Valley		45.51682	-77.6828	A	ADM3	CA		08	3547	3547030		0		286	America/Toronto	2018-01-20
+6063919	Maddington Falls	Maddington Falls		46.21676	-72.13239	A	ADM3	CA		10	17	39165		0		91	America/Toronto	2016-11-22
+6063990	Madoc	Madoc		44.58342	-77.49948	A	ADM3	CA		08	3512	3512036		0		268	America/Toronto	2018-01-20
+6064132	Magnetawan	Magnetawan		45.67431	-79.63727	A	ADM3	CA		08	3549	3549043		0		323	America/Toronto	2018-01-20
+6064695	Malahide	Malahide		42.78339	-80.96642	A	ADM3	CA		08	3534	3534010		0		229	America/Toronto	2018-01-20
+6065254	Manitouwadge	Manitouwadge		49.1334	-85.83317	A	ADM3	CA		08	3558	3558066		0		332	America/Toronto	2018-01-20
+6065698	Mapleton	Mapleton		43.7168	-80.5997	A	ADM3	CA		08	3523	3523033		0		443	America/Toronto	2018-01-20
+6066656	Marmora and Lake	Marmora and Lake		44.63342	-77.71619	A	ADM3	CA		08	3512	3512046		0		259	America/Toronto	2018-01-20
+6066968	Marston	Marston		45.55805	-70.9552	A	ADM3	CA		10	05	30035		0		467	America/Toronto	2014-01-29
+6067737	Matachewan	Matachewan		47.91686	-80.73307	A	ADM3	CA		08	3554	3554056		0		341	America/Toronto	2018-01-20
+6067964	Mattawan	Mattawan		46.36681	-78.79958	A	ADM3	CA		08	3548	3548019		0		201	America/Toronto	2018-01-20
+6068038	Mattice-Val Côté	Mattice-Val Cote		49.65022	-83.28311	A	ADM3	CA		08	3556	3556077		0		226	America/Toronto	2018-01-20
+6069357	McDougall	McDougall		45.4334	-80.01636	A	ADM3	CA		08	3549	3549031		0		260	America/Toronto	2018-01-20
+6069538	McGarry	McGarry		48.15017	-79.63297	A	ADM3	CA		08	3554	3554058		0		305	America/Toronto	2018-01-20
+6070145	McKellar	McKellar		45.5001	-79.83295	A	ADM3	CA		08	3549	3549028		0		286	America/Toronto	2018-01-20
+6070875	McMurrich/Monteith	McMurrich/Monteith		45.4501	-79.51636	A	ADM3	CA		08	3549	3549012		0		354	America/Toronto	2018-01-20
+6070888	McNab/Braeside	McNab/Braeside		45.41681	-76.4994	A	ADM3	CA		08	3547	3547003		0		127	America/Toronto	2018-01-20
+6071824	Melancthon	Melancthon		44.1501	-80.28298	A	ADM3	CA		08	3522	3522019		0		517	America/Toronto	2018-01-20
+6071847	Melbourne	Melbourne		45.58338	-72.1658	A	ADM3	CA		10	05	42075		0		207	America/Toronto	2014-01-18
+6073257	Middlesex Centre	Middlesex Centre		43.01679	-81.41646	A	ADM3	CA		08	3539	3539033		0		275	America/Toronto	2018-01-20
+6074491	Minden Hills	Minden Hills		44.96682	-78.74958	A	ADM3	CA		08	3546	3546015		0		324	America/Toronto	2018-01-20
+6076692	Montague	Montague		44.98341	-75.98267	A	ADM3	CA		08	3509	3509001		0		138	America/Toronto	2018-01-20
+6077556	Moonbeam	Moonbeam		49.38353	-82.16647	A	ADM3	CA		08	3556	3556056		0		231	America/Toronto	2018-01-20
+6078651	Morley	Morley		48.73524	-94.19398	A	ADM3	CA		08	3559	3559031		0		341	America/Winnipeg	2018-01-20
+6078921	Morris-Turnberry	Morris-Turnberry		43.83339	-81.26645	A	ADM3	CA		08	3540	3540050		0		326	America/Toronto	2018-01-20
+6084118	Mulmur	Mulmur		44.1834	-80.09967	A	ADM3	CA		08	3522	3522016		0		370	America/Toronto	2018-01-20
+6084946	Muskoka Lakes	Muskoka Lakes		45.1668	-79.58294	A	ADM3	CA		08	3544	3544053		0		245	America/Toronto	2018-01-20
+6085595	Nairn and Hyman	Nairn and Hyman		46.36678	-81.61648	A	ADM3	CA		08	3552	3552031		0		271	America/Toronto	2018-01-20
+6086226	Natashquan	Natashquan	Natashkvan,Natashquan  Quebec,YNA,natashkan  kbk,Наташкван,ناتاشکان، کبک	50.16684	-61.74851	A	ADM3	CA		10	09	98025		0		10	America/Toronto	2014-01-18
+6086552	Nédélec	Nedelec		47.68346	-79.43296	A	ADM3	CA		10	08	85100		0		258	America/Toronto	2014-01-18
+6087779	New Tecumseth	New Tecumseth		44.08857	-79.74426	A	ADM3	CA		08	3543	3543007		30234		242	America/Toronto	2018-01-20
+6088487	Nipigon	Nipigon		49.00011	-88.33334	A	ADM3	CA		08	3558	3558044		0		303	America/Toronto	2022-12-13
+6088504	Nipissing	Nipissing		46.0834	-79.54963	A	ADM3	CA		08	3549	3549071		0		279	America/Toronto	2018-01-20
+6089333	North Algona Wilberforce	North Algona Wilberforce		45.61682	-77.23276	A	ADM3	CA		08	3547	3547070		0		210	America/Toronto	2018-01-20
+6089705	North Dumfries	North Dumfries		43.3168	-80.39968	A	ADM3	CA		08	3530	3530004		0		334	America/Toronto	2018-01-20
+6089706	North Dundas	North Dundas		45.0668	-75.44933	A	ADM3	CA		08	3501	3501030		0		72	America/Toronto	2018-01-20
+6089926	Northern Bruce Peninsula	Northern Bruce Peninsula		45.08337	-81.41646	A	ADM3	CA		08	3541	3541069		0		201	America/Toronto	2018-01-20
+6090039	North Frontenac	North Frontenac		44.98342	-76.93272	A	ADM3	CA		08	3510	3510045		0		326	America/Toronto	2018-01-20
+6090054	North Glengarry	North Glengarry		45.36679	-74.73257	A	ADM3	CA		08	3501	3501050		0		95	America/Toronto	2018-01-20
+6090070	North Grenville	North Grenville		44.9834	-75.64934	A	ADM3	CA		08	3507	3507065		0		101	America/Toronto	2018-01-20
+6090149	North Huron	North Huron		43.83339	-81.41646	A	ADM3	CA		08	3540	3540055		0		317	America/Toronto	2018-01-20
+6090176	North Kawartha	North Kawartha		44.73342	-78.11622	A	ADM3	CA		08	3515	3515037		0		335	America/Toronto	2018-01-20
+6090305	North Middlesex	North Middlesex		43.13339	-81.64978	A	ADM3	CA		08	3539	3539041		0		219	America/Toronto	2018-01-20
+6090688	North Stormont	North Stormont		45.2168	-75.016	A	ADM3	CA		08	3501	3501042		0		100	America/Toronto	2018-01-20
+6091104	North York	North York	Nort-Jork,bei yue ke,nort york,nosuyoku,Норт-Йорк,நோர்த் யோர்க்,ノースヨーク,北約克	43.76681	-79.4163	A	ADM3	CA		08	3520	6091104		636000	180	178	America/Toronto	2020-05-01
+6091193	Norwich	Norwich		43.00009	-80.6664	A	ADM3	CA		08	3532	3532002		0		287	America/Toronto	2018-01-20
+6091341	Notre-Dame-de-la-Paix	Notre-Dame-de-la-Paix		45.8168	-74.96598	A	ADM3	CA		10	07	80020		0		179	America/Toronto	2014-01-18
+6091375	Notre-Dame-de-Lourdes	Notre-Dame-de-Lourdes		46.10007	-73.43245	A	ADM3	CA		10	14	61045		0		66	America/Toronto	2014-01-18
+6091429	Notre-Dame-de-Stanbridge	Notre-Dame-de-Stanbridge		45.16678	-73.03244	A	ADM3	CA		10	05	46100		0		43	America/Toronto	2024-06-14
+6091436	Notre-Dame-du-Bon-Conseil	Notre-Dame-du-Bon-Conseil		46.00006	-72.3491	A	ADM3	CA		10	17	49075		1477		80	America/Toronto	2016-02-23
+6091450	Notre-Dame-du-Mont-Carmel	Notre-Dame-du-Mont-Carmel		46.48335	-72.64912	A	ADM3	CA		10	04	37235		6121		117	America/Toronto	2026-03-27
+6092490	O'Connor	O'Connor		48.3334	-89.68346	A	ADM3	CA		08	3558	3558016		0		239	America/Toronto	2018-01-20
+6093550	Oliver Paipoonge	Oliver Paipoonge		48.4001	-89.51685	A	ADM3	CA		08	3558	3558011		5922		273	America/Toronto	2024-09-17
+6094031	Opasatika	Opasatika		49.51694	-82.9498	A	ADM3	CA		08	3556	3556073		0		230	America/Toronto	2018-01-20
+6094290	Orford	Orford		45.38338	-72.1991	A	ADM3	CA		10	05	45115		5007		327	America/Toronto	2026-03-27
+6094406	Oro-Medonte	Oro-Medonte	Oro-Medonte	44.57821	-79.60404	A	ADM3	CA		08	3543	3543023		0		289	America/Toronto	2018-01-20
+6094795	Otonabee-South Monaghan	Otonabee-South Monaghan		44.23342	-78.23283	A	ADM3	CA		08	3515	3515005		0		211	America/Toronto	2018-01-20
+6094816	Ottawa	Ottawa		45.4168	-75.69934	A	ADM3	CA		08	3506	3506008		0		77	America/Toronto	2018-01-20
+6096661	Papineau-Cameron	Papineau-Cameron		46.22512	-78.56626	A	ADM3	CA		08	3548	3548013		0		307	America/Toronto	2018-01-20
+6098378	Parisville	Parisville		46.51675	-72.0658	A	ADM3	CA		10	17	38055		396		56	America/Toronto	2026-03-27
+6100619	Pelee	Pelee		41.78338	-82.6665	A	ADM3	CA		08	3537	3537001		0		172	America/Toronto	2018-01-20
+6101451	Perry	Perry		45.4834	-79.28294	A	ADM3	CA		08	3549	3549014		0		360	America/Toronto	2018-01-20
+6101548	Perth East	Perth East		43.48339	-80.91642	A	ADM3	CA		08	3531	3531030		0		369	America/Toronto	2018-01-20
+6101554	Perth South	Perth South		43.28339	-81.16644	A	ADM3	CA		08	3531	3531013		0		313	America/Toronto	2018-01-20
+6104162	Pickle Lake	Pickle Lake		51.46681	-90.16685	A	ADM3	CA		08	3560	3560049		0		375	America/Atikokan	2019-05-08
+6106469	Plummer Additional	Plummer Additional		46.38336	-83.74992	A	ADM3	CA		08	3557	3557019		0		190	America/Toronto	2018-01-20
+6112384	Potton	Potton		45.08339	-72.3658	A	ADM3	CA		10	05	45030		0		242	America/Toronto	2014-01-18
+6113331	Prince	Prince		46.58337	-84.53327	A	ADM3	CA		08	3557	3557066		0		339	America/Toronto	2018-01-20
+6114430	Puslinch	Puslinch		43.4668	-80.16636	A	ADM3	CA		08	3523	3523001		0		317	America/Toronto	2018-01-20
+6115944	Ragueneau	Ragueneau		49.071	-68.532	A	ADM3	CA		10	09	96040		1314		-9999	America/Toronto	2026-03-27
+6116209	Ramara	Ramara		44.545	-79.17564	A	ADM3	CA		08	3543	3543019		9275		233	America/Toronto	2018-01-20
+6118659	Red Rock	Red Rock		48.94539	-88.26965	A	ADM3	CA		08	3558	3558041		0		196	America/Toronto	2018-01-22
+6122177	Rideau Lakes	Rideau Lakes		44.6726	-76.21714	A	ADM3	CA		08	3507	3507040		0		150	America/Toronto	2018-01-20
+6128695	Roxton	Roxton		45.55007	-72.51582	A	ADM3	CA		10	16	48015		0		127	America/Toronto	2014-01-18
+6136573	Russell	Russell		45.3001	-75.31602	A	ADM3	CA		08	3502	3502048		0		69	America/Toronto	2018-01-20
+6136905	Ryerson	Ryerson		45.5834	-79.49966	A	ADM3	CA		08	3549	3549024		0		348	America/Toronto	2018-01-20
+6137017	Sables-Spanish Rivers	Sables-Spanish Rivers		46.23337	-82.01651	A	ADM3	CA		08	3552	3552023		0		213	America/Toronto	2018-01-20
+6137322	Saint-Adelphe	Saint-Adelphe		46.73336	-72.4324	A	ADM3	CA		10	04	35015		0		129	America/Toronto	2014-01-18
+6137336	Saint-Aimé	Saint-Aime		45.91676	-72.93244	A	ADM3	CA		10	16	53015		545		24	America/Toronto	2026-03-27
+6137357	Saint-Alexis	Saint-Alexis		45.93337	-73.61587	A	ADM3	CA		10	14	63023		0		65	America/Toronto	2014-01-18
+6137361	Saint-Alexis-des-Monts	Saint-Alexis-des-Monts		46.46676	-73.13244	A	ADM3	CA		10	04	51065		2015		189	America/Toronto	2014-01-18
+6137387	Saint-Ambroise-de-Kildare	Saint-Ambroise-de-Kildare		46.08337	-73.54916	A	ADM3	CA		10	14	61040		0		84	America/Toronto	2014-01-18
+6137455	Saint-Augustin	Saint-Augustin		48.80007	-71.94905	A	ADM3	CA		10	02	92005		0		113	America/Toronto	2016-12-25
+6137465	Saint-Augustin-de-Woburn	Saint-Augustin-de-Woburn	sn-awgwstn-dw-wwbwrn  kbk,سن-اوگوستن-دو-ووبورن، کبک,سینٹ-اوگسٹن-دے-ووبرن، کیوبک	45.38339	-70.84903	A	ADM3	CA		10	05	30005		0		414	America/Toronto	2014-01-18
+6137471	Saint-Barnabé	Saint-Barnabe		46.40006	-72.88243	A	ADM3	CA		10	04	51025		1186		83	America/Toronto	2026-03-27
+6137484	Saint-Barthélemy	Saint-Barthelemy		46.18336	-73.13244	A	ADM3	CA		10	14	52055		0		8	America/Toronto	2014-01-18
+6137509	Saint-Bernard-de-Lacolle	Saint-Bernard-de-Lacolle		45.08338	-73.41586	A	ADM3	CA		10	16	68005		0		50	America/Toronto	2014-01-18
+6137550	Saint-Camille	Saint-Camille		45.68338	-71.69908	A	ADM3	CA		10	05	40025		551		302	America/Toronto	2026-03-27
+6137601	Saint-Christophe-d'Arthabaska	Saint-Christophe-d'Arthabaska		46.03337	-71.88239	A	ADM3	CA		10	17	39060		0		189	America/Toronto	2016-02-23
+6137624	Saint-Colomban	Saint-Colomban		45.73338	-74.13251	A	ADM3	CA		10	15	75005		0		149	America/Toronto	2014-01-18
+6137628	Saint-Côme	Saint-Come		46.26678	-73.78248	A	ADM3	CA		10	14	62065		0		288	America/Toronto	2014-01-18
+6137657	Saint-Damien	Saint-Damien		46.33337	-73.48245	A	ADM3	CA		10	14	62075		2393		180	America/Toronto	2026-03-27
+6137663	Saint-David	Saint-David		45.95006	-72.84913	A	ADM3	CA		10	16	53005		0		29	America/Toronto	2014-01-18
+6137673	Saint-Denis-de-Brompton	Saint-Denis-de-Brompton		45.45008	-72.08239	A	ADM3	CA		10	05	42025		0		269	America/Toronto	2014-01-18
+6137677	Saint-Didace	Saint-Didace		46.33337	-73.28245	A	ADM3	CA		10	14	52090		688		157	America/Toronto	2026-03-27
+6137717	Sainte-Angèle-de-Monnoir	Sainte-Angele-de-Monnoir		45.38338	-73.09915	A	ADM3	CA		10	16	55030		0		46	America/Toronto	2014-01-18
+6137744	Sainte-Anne-de-Sabrevois	Sainte-Anne-de-Sabrevois		45.21678	-73.21585	A	ADM3	CA		10	16	56060		0		35	America/Toronto	2014-01-18
+6137745	Sainte-Anne-des-Lacs	Sainte-Anne-des-Lacs		45.85008	-74.13251	A	ADM3	CA		10	15	77035		0		289	America/Toronto	2014-01-18
+6137750	Sainte-Anne-de-Sorel	Sainte-Anne-de-Sorel		46.04714	-73.07736	A	ADM3	CA		10	16	53065		0		9	America/Toronto	2014-01-18
+6137758	Sainte-Barbe	Sainte-Barbe		45.16679	-74.19924	A	ADM3	CA		10	16	69065		0		43	America/Toronto	2014-01-18
+6137777	Sainte-Brigitte-des-Saults	Sainte-Brigitte-des-Saults		46.03336	-72.48241	A	ADM3	CA		10	17	49085		0		62	America/Toronto	2016-02-23
+6137802	Sainte-Cécile-de-Milton	Sainte-Cecile-de-Milton		45.48338	-72.74913	A	ADM3	CA		10	05	47055		0		123	America/Toronto	2024-06-14
+6137807	Sainte-Christine	Sainte-Christine		45.61677	-72.41581	A	ADM3	CA		10	16	48020		0		165	America/Toronto	2014-01-18
+6137833	Saint-Edmond-de-Grantham	Saint-Edmond-de-Grantham		45.88337	-72.66583	A	ADM3	CA		10	17	49100		804		65	America/Toronto	2026-03-27
+6137852	Saint-Édouard-de-Fabre	Saint-Edouard-de-Fabre		47.20014	-79.36636	A	ADM3	CA		10	08	85015		0		215	America/Toronto	2014-01-18
+6137862	Sainte-Edwidge-de-Clifton	Sainte-Edwidge-de-Clifton		45.20009	-71.68237	A	ADM3	CA		10	05	44055		0		401	America/Toronto	2014-01-18
+6137864	Sainte-Élisabeth	Sainte-Elisabeth		46.08337	-73.34915	A	ADM3	CA		10	14	52030		0		49	America/Toronto	2014-01-18
+6137898	Sainte-Geneviève-de-Batiscan	Sainte-Genevieve-de-Batiscan		46.53335	-72.33241	A	ADM3	CA		10	04	37215		0		20	America/Toronto	2014-01-18
+6137901	Sainte-Geneviève-de-Berthier	Sainte-Genevieve-de-Berthier		46.08336	-73.21585	A	ADM3	CA		10	14	52040		0		10	America/Toronto	2014-01-18
+6137926	Sainte-Hélène-de-Mancebourg	Sainte-Helene-de-Mancebourg		48.73349	-79.29965	A	ADM3	CA		10	08	87070		0		270	America/Toronto	2014-01-18
+6137949	Sainte-Justine-de-Newton	Sainte-Justine-de-Newton	snt-zhwstn-dw-nywtn  kbk,سنت-ژوستن-دو-نیوتن، کبک,سین-جسٹنے-دے-نیوٹن، کیوبک	45.36679	-74.41594	A	ADM3	CA		10	16	71115		0		98	America/Toronto	2014-01-18
+6137962	Saint-Elphège	Saint-Elphege		46.05006	-72.69912	A	ADM3	CA		10	17	50095		0		40	America/Toronto	2016-02-23
+6138025	Sainte-Marie-Salomé	Sainte-Marie-Salome		45.93337	-73.49916	A	ADM3	CA		10	14	63005		0		36	America/Toronto	2014-01-18
+6138064	Sainte-Perpétue	Sainte-Perpetue		46.08336	-72.46581	A	ADM3	CA		10	17	50050		0		71	America/Toronto	2016-02-23
+6138076	Sainte-Praxède	Sainte-Praxede		45.90007	-71.24907	A	ADM3	CA		10	12	31050		0		300	America/Toronto	2014-01-18
+6138095	Sainte-Sabine	Sainte-Sabine		45.23338	-73.01584	A	ADM3	CA		10	05	46105		0		47	America/Toronto	2024-06-14
+6138101	Sainte-Séraphine	Sainte-Seraphine		45.91676	-72.1824	A	ADM3	CA		10	17	39105		0		106	America/Toronto	2016-02-23
+6138107	Sainte-Sophie-de-Lévrard	Sainte-Sophie-de-Levrard		46.43335	-72.1158	A	ADM3	CA		10	17	38040		0		59	America/Toronto	2016-02-22
+6138149	Saint-Étienne-des-Grès	Saint-Etienne-des-Gres		46.43335	-72.76583	A	ADM3	CA		10	04	51090		4539		93	America/Toronto	2026-03-27
+6138171	Sainte-Ursule	Sainte-Ursule		46.28336	-73.03244	A	ADM3	CA		10	04	51040		0		43	America/Toronto	2014-01-18
+6138253	Saint-François-Xavier-de-Brompton	Saint-Francois-Xavier-de-Brompton		45.53338	-72.04909	A	ADM3	CA		10	05	42020		0		251	America/Toronto	2014-01-18
+6138267	Saint-Gabriel-de-Brandon	Saint-Gabriel-de-Brandon		46.28516	-73.38284	A	ADM3	CA		10	14	52085		0		188	America/Toronto	2014-01-18
+6138301	Saint-Gérard-Majella	Saint-Gerard-Majella		46.00006	-72.83243	A	ADM3	CA		10	16	53085		0		29	America/Toronto	2014-01-18
+6138312	Saint-Gilbert	Saint-Gilbert		46.71675	-71.9991	A	ADM3	CA		10	03	34060		0		69	America/Toronto	2014-01-18
+6138348	Saint-Hilaire-de-Dorset	Saint-Hilaire-de-Dorset		45.86677	-70.84904	A	ADM3	CA		10	12	29020		0		495	America/Toronto	2014-01-18
+6138383	Saint-Ignace-de-Loyola	Saint-Ignace-de-Loyola		46.06676	-73.13245	A	ADM3	CA		10	14	52045		0		9	America/Toronto	2014-01-18
+6138388	Saint-Ignace-de-Stanbridge	Saint-Ignace-de-Stanbridge		45.16678	-72.94914	A	ADM3	CA		10	05	46095		0		76	America/Toronto	2024-06-14
+6138398	Saint-Isidore	Saint-Isidore		45.30008	-73.68248	A	ADM3	CA		10	16	67040		0		53	America/Toronto	2018-10-07
+6138418	Saint-Jacques-le-Majeur-de-Wolfestown	Saint-Jacques-le-Majeur-de-Wolfestown		45.93337	-71.49907	A	ADM3	CA		10	12	31025		0		345	America/Toronto	2014-01-18
+6138433	Saint-Jean-Baptiste	Saint-Jean-Baptiste		45.51678	-73.11585	A	ADM3	CA		10	16	57033		0		27	America/Toronto	2014-01-18
+6138587	Saint-Julien	Saint-Julien		46.00007	-71.53238	A	ADM3	CA		10	12	31035		0		398	America/Toronto	2014-01-18
+6138593	Saint-Justin	Saint-Justin		46.25006	-73.08244	A	ADM3	CA		10	04	51045		0		36	America/Toronto	2014-01-18
+6138599	Saint-Lambert	Saint-Lambert		48.95272	-79.4593	A	ADM3	CA		10	08	87120		21599		301	America/Toronto	2014-01-18
+6138630	Saint-Léon-le-Grand	Saint-Leon-le-Grand		46.31676	-72.93243	A	ADM3	CA		10	04	51035		0		36	America/Toronto	2014-01-18
+6138639	Saint-Liguori	Saint-Liguori		46.01677	-73.56586	A	ADM3	CA		10	14	63065		0		61	America/Toronto	2014-01-18
+6138645	Saint-Louis	Saint-Louis		45.85007	-72.98244	A	ADM3	CA		10	16	54120		0		27	America/Toronto	2014-01-18
+6138650	Saint-Louis-de-Blandford	Saint-Louis-de-Blandford		46.25006	-71.99909	A	ADM3	CA		10	17	39170		0		100	America/Toronto	2016-02-22
+6138664	Saint-Louis-de-Gonzague	Saint-Louis-de-Gonzague		45.20008	-73.98252	A	ADM3	CA		10	16	70035		0		46	America/Toronto	2014-01-18
+6138686	Saint-Lucien	Saint-Lucien		45.86677	-72.2658	A	ADM3	CA		10	17	49030		0		103	America/Toronto	2016-02-23
+6138702	Saint-Majorique-de-Grantham	Saint-Majorique-de-Grantham		45.93336	-72.58242	A	ADM3	CA		10	17	49095		0		71	America/Toronto	2016-02-23
+6138716	Saint-Marc-de-Figuery	Saint-Marc-de-Figuery		48.46688	-78.04953	A	ADM3	CA		10	08	88040		0		312	America/Toronto	2014-01-18
+6138733	Saint-Martin	Saint-Martin	sn-martn  kbk,سن-مارتن، کبک,سینٹ-مارٹن، کیوبک	45.96677	-70.64903	A	ADM3	CA		10	12	29045		2110		262	America/Toronto	2014-01-18
+6138770	Saint-Maurice	Saint-Maurice		46.46675	-72.53242	A	ADM3	CA		10	04	37230		0		43	America/Toronto	2014-01-18
+6138811	Saint-Narcisse	Saint-Narcisse	sn-narsys  kbk,سن-نارسیس، کبک,سینٹ-نرکسسے، کیوبک	46.56675	-72.46581	A	ADM3	CA		10	04	37240		0		106	America/Toronto	2014-01-18
+6138820	Saint-Nazaire-d'Acton	Saint-Nazaire-d'Acton		45.73337	-72.61582	A	ADM3	CA		10	16	48050		0		66	America/Toronto	2014-01-18
+6138835	Saint-Norbert	Saint-Norbert		46.16677	-73.31585	A	ADM3	CA		10	14	52070		0		73	America/Toronto	2014-01-18
+6138884	Saint-Paul-d'Abbotsford	Saint-Paul-d'Abbotsford		45.43338	-72.88243	A	ADM3	CA		10	16	55015		2870		69	America/Toronto	2016-07-01
+6138887	Saint-Paul-de-l'Île-aux-Noix	Saint-Paul-de-l'Ile-aux-Noix		45.13338	-73.28245	A	ADM3	CA		10	16	56035		0		30	America/Toronto	2016-06-17
+6138914	Saint-Pie	Saint-Pie		45.50008	-72.89913	A	ADM3	CA		10	16	54008		3034		39	America/Toronto	2014-01-18
+6138918	Saint-Pie-de-Guire	Saint-Pie-de-Guire		46.00006	-72.74913	A	ADM3	CA		10	17	49130		0		38	America/Toronto	2016-02-23
+6138998	Saint-René	Saint-Rene		46.01677	-70.61573	A	ADM3	CA		10	12	29050		0		307	America/Toronto	2014-01-18
+6139004	Saint-Robert	Saint-Robert		45.96676	-72.99914	A	ADM3	CA		10	16	53020		0		23	America/Toronto	2014-01-18
+6139018	Saint-Roch-de-l'Achigan	Saint-Roch-de-l'Achigan	Saint-Roch-de-lAchigan	45.85008	-73.59917	A	ADM3	CA		10	14	63035		0		45	America/Toronto	2014-01-18
+6139020	Saint-Roch-de-Mékinac	Saint-Roch-de-Mekinac		46.81676	-72.76582	A	ADM3	CA		10	04	35045		0		150	America/Toronto	2014-01-18
+6139033	Saint-Rosaire	Saint-Rosaire		46.16676	-72.03239	A	ADM3	CA		10	17	39145		0		97	America/Toronto	2016-02-22
+6139058	Saint-Sévère	Saint-Severe		46.35006	-72.89913	A	ADM3	CA		10	04	51030		0		50	America/Toronto	2014-01-18
+6139061	Saint-Séverin	Saint-Severin	Saint-Severin-de-Proulxville,Saint-Séverin-de-Proulxville	46.66676	-72.49911	A	ADM3	CA		10	04	35020		0		130	America/Toronto	2016-02-24
+6139065	Saint-Simon	Saint-Simon		45.73337	-72.86583	A	ADM3	CA		10	16	54090		0		27	America/Toronto	2014-01-18
+6139077	Saints-Martyrs-Canadiens	Saints-Martyrs-Canadiens	sn-martyr-kanadyn  kbk,سن-مارتیر-کانادین، کبک	45.85007	-71.53237	A	ADM3	CA		10	17	39005		0		358	America/Toronto	2016-02-23
+6139090	Saint-Stanislas-de-Kostka	Saint-Stanislas-de-Kostka		45.18338	-74.11593	A	ADM3	CA		10	16	70040		0		43	America/Toronto	2014-01-18
+6139097	Saint-Sulpice	Saint-Sulpice		45.83338	-73.34917	A	ADM3	CA		10	14	60020		0		8	America/Toronto	2014-01-18
+6139145	Saint-Thuribe	Saint-Thuribe		46.71675	-72.1658	A	ADM3	CA		10	03	34085		0		67	America/Toronto	2014-01-18
+6139163	Saint-Valentin	Saint-Valentin		45.13338	-73.31586	A	ADM3	CA		10	16	56030		0		40	America/Toronto	2014-01-18
+6139171	Saint-Valérien-de-Milton	Saint-Valerien-de-Milton		45.56677	-72.71583	A	ADM3	CA		10	16	54065		0		59	America/Toronto	2014-01-18
+6139215	Saint-Zéphirin-de-Courval	Saint-Zephirin-de-Courval		46.06676	-72.63242	A	ADM3	CA		10	17	50090		0		46	America/Toronto	2016-02-23
+6142255	Schreiber	Schreiber		48.8168	-87.24997	A	ADM3	CA		08	3558	3558051		0		392	America/Toronto	2018-01-20
+6142809	Scugog	Scugog		44.13342	-78.91627	A	ADM3	CA		08	3518	3518020		0		271	America/Toronto	2018-01-20
+6143804	Seguin	Seguin		45.3001	-79.78295	A	ADM3	CA		08	3549	3549003		0		266	America/Toronto	2018-01-20
+6144197	Senneterre	Senneterre	Senter,Сентер,سنه‌تر، کبک	48.38349	-77.24945	A	ADM3	CA		10	08	89040		0		302	America/Toronto	2014-01-18
+6144565	Severn	Severn		44.75591	-79.50634	A	ADM3	CA		08	3543	3543015		0		199	America/Toronto	2018-01-20
+6145490	Shawinigan	Shawinigan		46.56672	-72.74913	A	ADM3	CA		10	04	36033		49620		123	America/Toronto	2024-01-04
+6145844	Shefford	Shefford		45.35008	-72.56582	A	ADM3	CA		10	05	47035		0		238	America/Toronto	2024-06-14
+6148379	Sioux Narrows-Nestor Falls	Sioux Narrows-Nestor Falls		49.28572	-94.00177	A	ADM3	CA		08	3560	3560008		0		364	America/Winnipeg	2018-01-24
+6149993	Township of Selwyn	Township of Selwyn	Smith-Ennismore-Lakefield	44.40374	-78.33887	A	ADM3	CA		08	3515	3515015		0		260	America/Toronto	2018-01-20
+6151501	South Algonquin	South Algonquin		45.48342	-78.01622	A	ADM3	CA		08	3548	3548001		0		458	America/Toronto	2018-01-20
+6151761	South Bruce	South Bruce		44.03339	-81.19975	A	ADM3	CA		08	3541	3541004		0		350	America/Toronto	2018-01-20
+6151867	South Dundas	South Dundas		44.9334	-75.26603	A	ADM3	CA		08	3501	3501020		0		81	America/Toronto	2018-01-20
+6152157	South Frontenac	South Frontenac		44.51682	-76.5161	A	ADM3	CA		08	3510	3510020		0		173	America/Toronto	2018-01-20
+6152164	Southgate	Southgate		44.0834	-80.583	A	ADM3	CA		08	3542	3542005		0		478	America/Toronto	2018-01-20
+6152179	South Glengarry	South Glengarry		45.20009	-74.58256	A	ADM3	CA		08	3501	3501005		0		60	America/Toronto	2018-01-20
+6152662	South Stormont	South Stormont		45.0834	-74.966	A	ADM3	CA		08	3501	3501011		0		91	America/Toronto	2018-01-20
+6152925	Southwest Middlesex	Southwest Middlesex		42.75009	-81.71648	A	ADM3	CA		08	3539	3539005		0		223	America/Toronto	2018-01-20
+6152928	South-West Oxford	South-West Oxford		43.00009	-80.79971	A	ADM3	CA		08	3532	3532012		0		298	America/Toronto	2018-01-20
+6153007	Southwold	Southwold		42.71679	-81.28304	A	ADM3	CA		08	3534	3534024		0		220	America/Toronto	2018-01-20
+6153105	Spallumcheen	Spallumcheen		50.43309	-119.21906	A	ADM3	CA		02	5937	5937024		0		384	America/Vancouver	2019-02-26
+6153249	Sparwood	Sparwood		49.71672	-114.90202	A	ADM3	CA		02	5901	5901006		0		1107	America/Edmonton	2019-02-26
+6154299	Springwater	Springwater		44.49541	-79.85025	A	ADM3	CA		08	3543	3543009		0		204	America/Toronto	2018-01-20
+6155297	Stanstead	Stanstead		45.11679	-72.19909	A	ADM3	CA		10	05	45025		0		324	America/Toronto	2014-01-18
+6155749	St. Clair	St. Clair		42.76678	-82.34982	A	ADM3	CA		08	3538	3538003		0		187	America/Toronto	2018-01-20
+6156838	Stirling-Rawdon	Stirling-Rawdon		44.36682	-77.59949	A	ADM3	CA		08	3512	3512020		0		161	America/Toronto	2018-01-20
+6156928	St. Joseph	St. Joseph		46.25007	-83.99993	A	ADM3	CA		08	3557	3557008		0		213	America/Toronto	2018-01-20
+6157316	Stone Mills	Stone Mills		44.45012	-76.93273	A	ADM3	CA		08	3511	3511030		0		168	America/Toronto	2018-01-20
+6157976	Stratford	Stratford		45.78337	-71.28238	A	ADM3	CA		10	05	30110		0		293	America/Toronto	2014-01-18
+6158028	Strathroy-Caradoc	Strathroy-Caradoc		42.90009	-81.53307	A	ADM3	CA		08	3539	3539015		0		242	America/Toronto	2018-01-20
+6158254	Strong	Strong		45.7501	-79.41634	A	ADM3	CA		08	3549	3549046		0		377	America/Toronto	2018-01-20
+6161654	Tarbutt and Tarbutt Additional	Tarbutt and Tarbutt Additional		46.38336	-83.99993	A	ADM3	CA		08	3557	3557014		0		220	America/Toronto	2018-01-20
+6162036	Tay	Tay		44.73571	-79.76965	A	ADM3	CA		08	3543	3543071		0		217	America/Toronto	2018-01-20
+6162257	Tay Valley	Tay Valley		44.83341	-76.3827	A	ADM3	CA		08	3509	3509015		0		156	America/Toronto	2018-01-20
+6162546	Tehkummah	Tehkummah		45.63337	-82.03311	A	ADM3	CA		08	3551	3551001		0		207	America/Toronto	2018-01-20
+6162952	Terrace Bay	Terrace Bay		48.80011	-87.10826	A	ADM3	CA		08	3558	3558054		0		284	America/Toronto	2018-01-20
+6163222	Thames Centre	Thames Centre		43.06679	-81.11643	A	ADM3	CA		08	3539	3539027		0		278	America/Toronto	2018-01-20
+6163273	The Archipelago	The Archipelago		45.5834	-80.26638	A	ADM3	CA		08	3549	3549005		0		223	America/Toronto	2018-01-20
+6164415	The North Shore	The North Shore		46.13337	-82.58316	A	ADM3	CA		08	3557	3557040		0		209	America/Toronto	2018-01-20
+6165656	Thorne	Thorne		45.75011	-76.4327	A	ADM3	CA		10	07	84045		0		238	America/Toronto	2014-01-18
+6166831	Tingwick	Tingwick		45.88337	-71.94911	A	ADM3	CA		10	17	39025		0		207	America/Toronto	2016-02-23
+6166924	Tiny	Tiny		44.6834	-79.93297	A	ADM3	CA		08	3543	3543068		0		244	America/Toronto	2018-01-20
+6167255	Tofino	Tofino		49.11631	-125.88619	A	ADM3	CA		02	5923	5923025		0		12	America/Vancouver	2019-02-26
+6168650	Trécesson	Trecesson		48.65018	-78.31625	A	ADM3	CA		10	08	88075		0		312	America/Toronto	2014-01-18
+6169948	Tudor and Cashel	Tudor and Cashel		44.95012	-77.49947	A	ADM3	CA		08	3512	3512048		0		406	America/Toronto	2018-01-20
+6170801	Tweed	Tweed		44.63342	-77.34947	A	ADM3	CA		08	3512	3512030		0		229	America/Toronto	2018-01-20
+6171494	Tyendinaga	Tyendinaga		44.30012	-77.21616	A	ADM3	CA		08	3512	3512001		0		163	America/Toronto	2018-01-20
+6172933	Uxbridge	Uxbridge		44.13342	-79.18289	A	ADM3	CA		08	3518	3518029		0		287	America/Toronto	2018-01-20
+6172997	Valcourt	Valcourt		45.50008	-72.34911	A	ADM3	CA		10	05	42060		0		244	America/Toronto	2016-12-22
+6173259	Val-Racine	Val-Racine		45.48339	-71.06574	A	ADM3	CA		10	05	30015		0		490	America/Toronto	2014-01-18
+6173262	Val Rita-Harty	Val Rita-Harty		49.51694	-82.63308	A	ADM3	CA		08	3556	3556070		0		219	America/Toronto	2018-01-20
+6175053	Wainfleet	Wainfleet		42.91682	-79.36629	A	ADM3	CA		08	3526	3526014		0		181	America/Toronto	2018-01-20
+6176398	Warwick	Warwick		43.01678	-81.89979	A	ADM3	CA		08	3538	3538043		0		229	America/Toronto	2018-01-20
+6177895	Wellesley	Wellesley		43.5501	-80.71641	A	ADM3	CA		08	3530	3530027		11260		384	America/Toronto	2019-08-13
+6177929	Wellington North	Wellington North		43.9168	-80.583	A	ADM3	CA		08	3523	3523050		0		465	America/Toronto	2018-01-20
+6178103	Wentworth	Wentworth		45.80009	-74.36593	A	ADM3	CA		10	15	76035		0		348	America/Toronto	2014-01-18
+6178471	Westbury	Westbury		45.50008	-71.66577	A	ADM3	CA		10	05	41065		0		240	America/Toronto	2014-01-18
+6178573	West Elgin	West Elgin		42.60009	-81.66646	A	ADM3	CA		08	3534	3534042		0		221	America/Toronto	2018-01-20
+6178945	West Grey	West Grey		44.15009	-80.88303	A	ADM3	CA		08	3542	3542004		0		318	America/Toronto	2018-01-20
+6179126	West Lincoln	West Lincoln		43.10011	-79.56631	A	ADM3	CA		08	3526	3526021		0		193	America/Toronto	2018-01-20
+6179302	West Perth	West Perth		43.46679	-81.21644	A	ADM3	CA		08	3531	3531025		0		344	America/Toronto	2018-01-20
+6179554	West Vancouver	West Vancouver		49.36636	-123.16935	A	ADM3	CA		02	5915	5915055		41425	178	783	America/Vancouver	2019-02-26
+6180918	White River	White River		48.58339	-85.24984	A	ADM3	CA		08	3557	3557091		0		416	America/Toronto	2018-01-20
+6181132	Whitestone	Whitestone		45.6668	-79.96635	A	ADM3	CA		08	3549	3549039		0		254	America/Toronto	2018-01-20
+6181198	Whitewater Region	Whitewater Region		45.66681	-76.83273	A	ADM3	CA		08	3547	3547056		0		138	America/Toronto	2018-01-20
+6182555	Wilmot	Wilmot		43.41679	-80.633	A	ADM3	CA		08	3530	3530020		0		372	America/Toronto	2018-01-20
+6184530	Woolwich	Woolwich		43.5834	-80.51639	A	ADM3	CA		08	3530	3530035		0		354	America/Toronto	2018-01-20
+6186174	Zorra	Zorra		43.11679	-80.89972	A	ADM3	CA		08	3532	3532027		0		309	America/Toronto	2018-01-20
+6948711	Scarborough	Scarborough	Skarboro,icukkarparo,seukabeoleo,shi jia bao,sukabaro,Скарборо,இசுக்கார்பரோ,スカーバロー,士嘉堡,스카버러	43.77223	-79.25666	A	ADM3	CA		08	3520	6948711		600000		171	America/Toronto	2020-05-01
+7870925	East York	East York	Ist Jork,Ist-Jork,Istochni Jork,isutoyoku,Ист Јорк,Ист-Йорк,Источни Јорк,イーストヨーク	43.69053	-79.32794	A	ADM3	CA		08	3520	7870925		115365		125	America/Toronto	2024-01-26
+8672447	Saint-Paul-de-la-Croix	Saint-Paul-de-la-Croix		47.9518	-69.18281	A	ADM3	CA		10	01	12035		0		260	America/Toronto	2016-12-21
+8672543	Saint-Gabriel	Saint-Gabriel		46.31366	-73.38611	A	ADM3	CA		10	14	52080		0		139	America/Toronto	2016-12-22
+8672545	Saint-Ulric	Saint-Ulric		48.75207	-67.6895	A	ADM3	CA		10	01	08073		0		82	America/Toronto	2014-01-18
+8672546	Sainte-Julienne	Sainte-Julienne		45.96851	-73.73093	A	ADM3	CA		10	14	63060		0		124	America/Toronto	2016-12-22
+8672548	Desbiens	Desbiens		48.40116	-71.95345	A	ADM3	CA		10	02	93005		0		187	America/Toronto	2016-12-22
+8672550	Les Éboulements	Les Eboulements	lh abwlman  kbk,له ابولمان، کبک	47.5056	-70.34138	A	ADM3	CA		10	03	16048		0		293	America/Toronto	2014-01-18
+8672553	Kirkland	Kirkland		45.44997	-73.86735	A	ADM3	CA		10	06	66102		0		37	America/Toronto	2016-12-22
+8672554	Alma	Alma	Al'ma,Alma,alma,alma  kbk,alma  kybk,Алма,Альма,آلما,آلما، کبک,ألما، كيبك	48.59199	-71.68188	A	ADM3	CA		10	02	93042		0		109	America/Toronto	2014-01-18
+8672555	Saint-Eustache	Saint-Eustache	Fanum Sancti Eustachii,Sent Estash,Sent-Ehstash,sant awstash,sn-awstash  kbk,Сент Есташ,Сент-Эсташ,سانت أوستاش,سن-اوستاش، کبک,سینٹ-یستاچھ، کیوبک	45.57651	-73.93258	A	ADM3	CA		10	15	72005		0		37	America/Toronto	2014-01-18
+8672557	Saint-Michel-du-Squatec	Saint-Michel-du-Squatec		47.83725	-68.7341	A	ADM3	CA		10	01	13065		0		163	America/Toronto	2014-01-18
+8672560	Saint-François-d'Assise	Saint-Francois-d'Assise		47.98634	-67.1674	A	ADM3	CA		10	11	06055		0		306	America/Toronto	2014-01-18
+8672562	Palmarolle	Palmarolle		48.67179	-79.19524	A	ADM3	CA		10	08	87025		0		271	America/Toronto	2016-12-19
+8672563	Yamachiche	Yamachiche		46.3092	-72.82893	A	ADM3	CA		10	04	51020		0		22	America/Toronto	2016-12-22
+8672565	Saint-Urbain	Saint-Urbain		47.60099	-70.58096	A	ADM3	CA		10	03	16055		0		231	America/Toronto	2016-12-19
+8672566	Nouvelle	Nouvelle		48.18002	-66.38497	A	ADM3	CA		10	11	06020		0		122	America/Toronto	2016-12-22
+8672567	Saint-Étienne-de-Bolton	Saint-Etienne-de-Bolton		45.26283	-72.37036	A	ADM3	CA		10	05	45100		0		285	America/Toronto	2016-12-19
+8672569	Schefferville	Schefferville		54.82526	-66.82148	A	ADM3	CA		10	09	97040		0		513	America/Toronto	2016-12-19
+8672570	Saint-Benjamin	Saint-Benjamin		46.27501	-70.58568	A	ADM3	CA		10	12	28025		1090		343	America/Toronto	2026-03-27
+8672572	Notre-Dame-du-Sacré-Coeur-d'Issoudun	Notre-Dame-du-Sacre-Coeur-d'Issoudun		46.57564	-71.63877	A	ADM3	CA		10	12	33085		867		94	America/Toronto	2026-03-27
+8672573	Saint-Octave-de-Métis	Saint-Octave-de-Metis		48.60345	-68.04488	A	ADM3	CA		10	01	09055		0		209	America/Toronto	2014-01-18
+8672574	Saint-Pacôme	Saint-Pacome		47.40902	-69.94542	A	ADM3	CA		10	01	14070		0		67	America/Toronto	2014-01-18
+8672575	Berthier-sur-Mer	Berthier-sur-Mer		46.91828	-70.72271	A	ADM3	CA		10	12	18065		0		17	America/Toronto	2014-01-18
+8672577	Shigawake	Shigawake		48.16251	-65.10829	A	ADM3	CA		10	11	05010		0		176	America/Toronto	2016-12-22
+8672578	Portneuf-sur-Mer	Portneuf-sur-Mer		48.66971	-69.18996	A	ADM3	CA		10	09	95040		0		112	America/Toronto	2014-01-18
+8672579	Cascapedia-Saint-Jules	Cascapedia-Saint-Jules	Cascapedia–Saint-Jules,Cascapédia–Saint-Jules,Municipalite de Cascapedia--Saint-Jules,Municipalité de Cascapédia--Saint-Jules	48.27174	-65.9423	A	ADM3	CA		10	11	05077		764		273	America/Toronto	2024-06-14
+8672580	Saint-Janvier-de-Joly	Saint-Janvier-de-Joly		46.48753	-71.68165	A	ADM3	CA		10	12	33065		0		117	America/Toronto	2016-12-25
+8672582	Grand-Métis	Grand-Metis	ghran myty,grand-mtys  kbk,غران ميتي,گراند-متیس، کبک	48.6245	-68.09241	A	ADM3	CA		10	01	09060		0		38	America/Toronto	2014-01-18
+8672583	Saint-Léonard-d'Aston	Saint-Leonard-d'Aston		46.09763	-72.36665	A	ADM3	CA		10	17	50042		0		64	America/Toronto	2014-01-18
+8672584	Saint-Éloi	Saint-Eloi		48.03236	-69.19585	A	ADM3	CA		10	01	11035		0		207	America/Toronto	2016-12-25
+8672585	Saint-Georges	Saint-Georges	Sen Zhorzh,Sen-Zhorzh,san jwrjs,sanjoruju,sn-zhrzh  kbk,Сен Жорж,Сен-Жорж,سان جورجس,سن-ژرژ، کبک,سینٹ-گیورگس، کیوبک,サンジョルジュ	46.09652	-70.67653	A	ADM3	CA		10	12	29073		0		264	America/Toronto	2014-01-18
+8672587	L'Île-Perrot	L'Ile-Perrot		45.39095	-73.95846	A	ADM3	CA		10	16	71060		0		23	America/Toronto	2014-01-18
+8672589	Delson	Delson		45.37419	-73.53981	A	ADM3	CA		10	16	67025		0		19	America/Toronto	2016-12-22
+8672590	Sainte-Thérèse	Sainte-Therese	Fanum Sanctae Theresiae,Sent Terez,sant tyryz,snt-trz  kbk,Сент Терез,سانت تيريز,سنت-ترز، کبک,سین-ٹہریسے، کیوبک	45.64465	-73.84375	A	ADM3	CA		10	15	73010		0		48	America/Toronto	2014-01-18
+8672592	Beaconsfield	Beaconsfield	Bekonsfild,Беконсфилд	45.41938	-73.85675	A	ADM3	CA		10	06	66107		0		19	America/Toronto	2019-03-18
+8672593	Mont-Royal	Mont-Royal		45.50983	-73.65156	A	ADM3	CA		10	06	66072		0		47	America/Toronto	2016-12-22
+8672594	Saint-Cyprien	Saint-Cyprien		47.87222	-68.96435	A	ADM3	CA		10	01	12005		1078		292	America/Toronto	2026-03-27
+8672596	Terrasse-Vaudreuil	Terrasse-Vaudreuil		45.39094	-73.98823	A	ADM3	CA		10	16	71075		0		28	America/Toronto	2014-01-18
+8672597	Saint-Zacharie	Saint-Zacharie		46.10429	-70.35125	A	ADM3	CA		10	12	28005		0		487	America/Toronto	2016-12-22
+8672598	Notre-Dame-des-Monts	Notre-Dame-des-Monts		47.66415	-70.41929	A	ADM3	CA		10	03	15025		0		261	America/Toronto	2016-12-21
+8672600	Inverness	Inverness		46.26646	-71.50394	A	ADM3	CA		10	17	32058		0		217	America/Toronto	2014-01-18
+8672602	Saint-Lin-Laurentides	Saint-Lin-Laurentides	Ville de Saint-Lin--Laurentides	45.85696	-73.77288	A	ADM3	CA		10	14	63048		24030		63	America/Toronto	2024-06-15
+8672603	Aguanish	Aguanish		50.32615	-62.30759	A	ADM3	CA		10	09	98030		0		62	America/Toronto	2016-12-19
+8672605	Port-Daniel-Gascons	Port-Daniel-Gascons	Municipalite de Port-Daniel--Gascons,Municipalité de Port-Daniel--Gascons	48.21757	-64.9752	A	ADM3	CA		10	11	02047		0		22	America/Toronto	2024-06-14
+8672606	Scott	Scott		46.51218	-71.07643	A	ADM3	CA		10	12	26048		0		147	America/Toronto	2014-01-18
+8672607	Rivière-Ouelle	Riviere-Ouelle	rywyyr-awyl  kbk,ریوییر-اوئل، کبک	47.45346	-70.00051	A	ADM3	CA		10	01	14065		0		19	America/Toronto	2017-04-03
+8672609	Saint-Damien-de-Buckland	Saint-Damien-de-Buckland		46.63099	-70.65541	A	ADM3	CA		10	12	19030		0		345	America/Toronto	2016-12-19
+8672610	Baie-des-Sables	Baie-des-Sables		48.70911	-67.85628	A	ADM3	CA		10	01	08080		0		79	America/Toronto	2014-01-18
+8672611	Saint-Edmond-les-Plaines	Saint-Edmond-les-Plaines		48.95003	-72.58321	A	ADM3	CA		10	02	92050		0		205	America/Toronto	2016-12-19
+8672612	Saint-Blaise-sur-Richelieu	Saint-Blaise-sur-Richelieu		45.21584	-73.31095	A	ADM3	CA		10	16	56065		0		52	America/Toronto	2014-01-18
+8672614	Saint-Basile	Saint-Basile		46.78428	-71.82516	A	ADM3	CA		10	03	34038		0		87	America/Toronto	2016-12-19
+8672615	Sainte-Hénédine	Sainte-Henedine		46.55136	-70.98602	A	ADM3	CA		10	12	26040		0		196	America/Toronto	2016-12-18
+8672616	Notre-Dame-du-Bon-Conseil	Notre-Dame-du-Bon-Conseil		45.99262	-72.39648	A	ADM3	CA		10	17	49080		0		89	America/Toronto	2016-12-21
+8672617	Saint-Raphaël	Saint-Raphael	sn-rafayl  kbk,syn-rafyl  kywbk,سن-رافائل، کبک,سین-رافیل، کیوبک	46.78895	-70.73802	A	ADM3	CA		10	12	19082		0		176	America/Toronto	2014-01-18
+8672618	Honfleur	Honfleur		46.64222	-70.87674	A	ADM3	CA		10	12	19070		881		217	America/Toronto	2026-03-25
+8672619	Sainte-Rose-de-Watford	Sainte-Rose-de-Watford		46.31296	-70.43594	A	ADM3	CA		10	12	28030		0		395	America/Toronto	2016-12-19
+8672620	Colombier	Colombier		48.89212	-68.91451	A	ADM3	CA		10	09	95050		0		138	America/Toronto	2016-12-19
+8672621	Les Bergeronnes	Les Bergeronnes		48.30322	-69.58572	A	ADM3	CA		10	09	95018		0		268	America/Toronto	2014-01-18
+8672623	Côte-Nord-du-Golfe-du-Saint-Laurent	Cote-Nord-du-Golfe-du-Saint-Laurent		50.49498	-59.76522	A	ADM3	CA		10	09	98015		0		22	America/Toronto	2016-12-18
+8672624	Sainte-Martine	Sainte-Martine		45.24562	-73.80021	A	ADM3	CA		10	16	70012		0		38	America/Toronto	2016-12-18
+8672626	Labelle	Labelle		46.25149	-74.76923	A	ADM3	CA		10	15	78120		0		353	America/Toronto	2016-12-18
+8672627	Carignan	Carignan		45.44822	-73.33538	A	ADM3	CA		10	16	57010		0		13	America/Toronto	2016-12-22
+8672628	Sainte-Famille-de-l'Île-d'Orléans	Sainte-Famille-de-l'Ile-d'Orleans	Municipalite de Sainte-Famille-de-l'Ile-d'Orleans,Municipalité de Sainte-Famille-de-l'Île-d'Orléans,Sainte-Famille	46.95962	-70.95045	A	ADM3	CA		10	03	20010		850		116	America/Toronto	2024-06-16
+8672630	Saint-Simon-de-Rimouski	Saint-Simon-de-Rimouski	Municipalite de Saint-Simon-de-Rimouski,Municipalité de Saint-Simon-de-Rimouski,Saint-Simon	48.21286	-69.01984	A	ADM3	CA		10	01	11055		0		88	America/Toronto	2024-06-14
+8672631	Saint-Jules	Saint-Jules		46.22458	-70.93815	A	ADM3	CA		10	12	27055		0		327	America/Toronto	2016-12-18
+8672632	Sainte-Catherine-de-la-Jacques-Cartier	Sainte-Catherine-de-la-Jacques-Cartier		46.848	-71.62098	A	ADM3	CA		10	03	22005		0		128	America/Toronto	2016-12-21
+8672634	Saint-Cyprien-de-Napierville	Saint-Cyprien-de-Napierville		45.17504	-73.40831	A	ADM3	CA		10	16	68035		0		51	America/Toronto	2014-01-18
+8672635	Notre-Dame-des-Neiges	Notre-Dame-des-Neiges	nwrt dam dys nyjys,nwtr-dam-dh-nzh  kbk,نوتر-دام-ده-نژ، کبک,نورت دام ديس نيجيس	48.1091	-69.14316	A	ADM3	CA		10	01	11045		0		134	America/Toronto	2014-01-18
+8672637	Sainte-Marguerite-Marie	Sainte-Marguerite-Marie		48.31164	-67.08107	A	ADM3	CA		10	01	07005		0		480	America/Toronto	2016-12-19
+8672638	Saint-Prosper-de-Champlain	Saint-Prosper-de-Champlain		46.63426	-72.30185	A	ADM3	CA		10	04	37250		0		52	America/Toronto	2016-12-19
+8672639	Saint-Michel-de-Bellechasse	Saint-Michel-de-Bellechasse		46.85428	-70.8902	A	ADM3	CA		10	12	19110		0		76	America/Toronto	2016-12-19
+8672641	Senneterre	Senneterre		48.36641	-77.31195	A	ADM3	CA		10	08	89045		0		324	America/Toronto	2016-12-19
+8672643	Lejeune	Lejeune		47.76534	-68.52121	A	ADM3	CA		10	01	13050		0		381	America/Toronto	2016-12-18
+8672644	Boileau	Boileau		45.91113	-74.78546	A	ADM3	CA		10	07	80115		0		188	America/Toronto	2016-12-18
+8672646	Saint-Frédéric	Saint-Frederic		46.3023	-70.99407	A	ADM3	CA		10	12	27065		0		400	America/Toronto	2016-12-18
+8672647	Saint-Joachim	Saint-Joachim		47.08371	-70.77958	A	ADM3	CA		10	03	21020		0		55	America/Toronto	2016-12-19
+8672649	Saint-Édouard-de-Lotbinière	Saint-Edouard-de-Lotbiniere		46.56248	-71.80843	A	ADM3	CA		10	12	33080		0		70	America/Toronto	2016-12-19
+8672650	Biencourt	Biencourt		47.93031	-68.55369	A	ADM3	CA		10	01	13055		433		384	America/Toronto	2026-03-25
+8672651	Saint-Maxime-du-Mont-Louis	Saint-Maxime-du-Mont-Louis		49.19315	-65.62772	A	ADM3	CA		10	11	04010		0		399	America/Toronto	2016-12-21
+8672653	Sainte-Claire	Sainte-Claire		46.58035	-70.8539	A	ADM3	CA		10	12	19055		0		297	America/Toronto	2016-12-22
+8672654	Grosse-Île	Grosse-Ile		47.61884	-61.49825	A	ADM3	CA		10	11	01042		0		-1	America/Halifax	2016-12-28
+8672656	Saint-Isidore	Saint-Isidore	Saint-Isidore,Saint-Isidore de Dorchester,Saint-Isidore-de-Lauzon	46.58223	-71.09786	A	ADM3	CA		10	12	26063		0		145	America/Toronto	2018-09-06
+8672657	Saint-Aimé-du-Lac-des-Îles	Saint-Aime-du-Lac-des-Iles		46.39527	-75.55153	A	ADM3	CA		10	15	79022		0		239	America/Toronto	2016-12-21
+8672658	Grosses-Roches	Grosses-Roches		48.92023	-67.1369	A	ADM3	CA		10	01	08015		0		197	America/Toronto	2014-01-18
+8672660	Saint-Benoît-Labre	Saint-Benoit-Labre		46.06928	-70.795	A	ADM3	CA		10	12	29100		1617		295	America/Toronto	2026-03-27
+8672661	Notre-Dame-du-Nord	Notre-Dame-du-Nord		47.588	-79.45112	A	ADM3	CA		10	08	85090		0		214	America/Toronto	2016-12-21
+8672665	Ristigouche-Sud-Est	Ristigouche-Sud-Est	Municipalite de Ristigouche-Sud-Est,Municipalité de Ristigouche-Sud-Est,Ristigouche-Partie-Sud-Est	48.02204	-66.82208	A	ADM3	CA		10	11	06035		170		111	America/Toronto	2024-06-16
+8672666	Sainte-Louise	Sainte-Louise		47.26973	-70.09922	A	ADM3	CA		10	12	17060		700		171	America/Toronto	2025-05-22
+8672667	Auclair	Auclair		47.74092	-68.65592	A	ADM3	CA		10	01	13045		0		290	America/Toronto	2014-01-18
+8672668	Saint-Laurent-de-l'Île-d'Orléans	Saint-Laurent-de-l'Ile-d'Orleans		46.87717	-71.02194	A	ADM3	CA		10	03	20020		0		101	America/Toronto	2014-01-18
+8672671	Saint-Charles-de-Bellechasse	Saint-Charles-de-Bellechasse		46.76143	-70.93974	A	ADM3	CA		10	12	19097		2583		52	America/Toronto	2026-03-27
+8672672	Saint-Élie-de-Caxton	Saint-Elie-de-Caxton		46.51855	-72.99077	A	ADM3	CA		10	04	51075		0		255	America/Toronto	2016-12-19
+8672673	Thetford Mines	Thetford Mines		46.1065	-71.2873	A	ADM3	CA		10	12	31084		0		330	America/Toronto	2016-12-18
+8672675	Saint-Elzéar	Saint-Elzear	sn-alzyar,سن-الزئار,سینٹ-الزیار، چودییرے-اپپلکھس، کیوبک	46.39701	-71.07798	A	ADM3	CA		10	12	26022		0		316	America/Toronto	2014-01-18
+8672676	Saint-Marcellin	Saint-Marcellin		48.33755	-68.28625	A	ADM3	CA		10	01	10025		0		357	America/Toronto	2016-12-19
+8672678	Massueville	Massueville		45.91118	-72.93246	A	ADM3	CA		10	16	53010		0		26	America/Toronto	2016-12-18
+8672679	Lac-Saint-Joseph	Lac-Saint-Joseph		46.92286	-71.64777	A	ADM3	CA		10	03	22015		0		157	America/Toronto	2016-12-19
+8672680	Sacré-Coeur-de-Jésus	Sacre-Coeur-de-Jesus	Sacre-Cœur-de-Jesus,Sacré-Cœur-de-Jésus	46.20775	-71.06938	A	ADM3	CA		10	12	31130		0		345	America/Toronto	2016-12-19
+8672682	Bryson	Bryson		45.66619	-76.61689	A	ADM3	CA		10	07	84025		0		169	America/Toronto	2016-12-18
+8672684	Sainte-Élizabeth-de-Warwick	Sainte-Elizabeth-de-Warwick		45.91656	-72.09887	A	ADM3	CA		10	17	39090		0		134	America/Toronto	2016-12-21
+8672685	Saint-Simon-les-Mines	Saint-Simon-les-Mines		46.21325	-70.66371	A	ADM3	CA		10	12	29125		0		311	America/Toronto	2016-12-19
+8672686	Notre-Dame-des-Sept-Douleurs	Notre-Dame-des-Sept-Douleurs		48.04635	-69.46962	A	ADM3	CA		10	01	12045		0		-9999	America/Toronto	2014-01-18
+8672688	Longue-Rive	Longue-Rive		48.57217	-69.32166	A	ADM3	CA		10	09	95032		0		115	America/Toronto	2016-12-19
+8672689	Saint-Luc-de-Bellechasse	Saint-Luc-de-Bellechasse	sn-lwk-dw-blshas  kbk,سن-لوک-دو-بلشاس، کبک,سینٹ-لک-دے-بلچسسے، کیوبک	46.52079	-70.47652	A	ADM3	CA		10	12	28060		0		530	America/Toronto	2014-01-18
+8672691	Saint-Prosper	Saint-Prosper		46.20957	-70.48338	A	ADM3	CA		10	12	28020		0		331	America/Toronto	2016-12-18
+8672692	Saint-Gabriel-de-Rimouski	Saint-Gabriel-de-Rimouski		48.42105	-68.18008	A	ADM3	CA		10	01	09025		0		348	America/Toronto	2014-01-18
+8672693	Sainte-Rita	Sainte-Rita		47.94664	-68.88738	A	ADM3	CA		10	01	11015		0		394	America/Toronto	2016-12-19
+8672695	Saint-Adelme	Saint-Adelme		48.8172	-67.29368	A	ADM3	CA		10	01	08030		0		308	America/Toronto	2016-12-19
+8672696	Gracefield	Gracefield		46.09261	-75.95693	A	ADM3	CA		10	07	83032		0		198	America/Toronto	2016-12-18
+8672697	Saint-Ferréol-les-Neiges	Saint-Ferreol-les-Neiges		47.1377	-70.8643	A	ADM3	CA		10	03	21010		0		347	America/Toronto	2016-12-21
+8672699	Mont-Saint-Hilaire	Mont-Saint-Hilaire		45.56543	-73.16897	A	ADM3	CA		10	16	57035		0		154	America/Toronto	2016-12-19
+8672700	Saint-Antonin	Saint-Antonin		47.72535	-69.42083	A	ADM3	CA		10	01	12015		0		237	America/Toronto	2016-12-19
+8672702	Sainte-Marguerite-du-Lac-Masson	Sainte-Marguerite-du-Lac-Masson		46.05598	-74.07203	A	ADM3	CA		10	15	77012		0		353	America/Toronto	2014-01-18
+8672703	Saint-Séverin	Saint-Severin		46.33026	-71.06466	A	ADM3	CA		10	12	27070		0		520	America/Toronto	2016-12-18
+8672704	L'Île-du-Grand-Calumet	L'Ile-du-Grand-Calumet		45.73897	-76.68821	A	ADM3	CA		10	07	84035		0		160	America/Toronto	2014-01-18
+8672706	Sainte-Angèle-de-Mérici	Sainte-Angele-de-Merici		48.51296	-68.07773	A	ADM3	CA		10	01	09035		0		114	America/Toronto	2014-01-18
+8672707	Saint-Antoine-de-l'Isle-aux-Grues	Saint-Antoine-de-l'Isle-aux-Grues	Saint-Antoine-de-lIsle-aux-Grues	47.09108	-70.53064	A	ADM3	CA		10	12	18070		0		-1	America/Toronto	2014-01-18
+8672710	Saint-Jean-de-l'Île-d'Orléans	Saint-Jean-de-l'Ile-d'Orleans		46.93843	-70.90888	A	ADM3	CA		10	03	20015		0		81	America/Toronto	2014-01-18
+8672713	Sainte-Croix	Sainte-Croix		46.6131	-71.72941	A	ADM3	CA		10	12	33102		0		63	America/Toronto	2016-12-18
+8672716	Matapédia	Matapedia	matapdya  kbk,ماتاپدیا، کبک	47.97379	-66.96011	A	ADM3	CA		10	11	06045		0		107	America/Toronto	2014-01-18
+8672718	Deschambault-Grondines	Deschambault-Grondines		46.63768	-72.01765	A	ADM3	CA		10	03	34058		0		32	America/Toronto	2019-06-06
+8672719	Saint-Joseph-de-Lepage	Saint-Joseph-de-Lepage		48.55711	-68.16824	A	ADM3	CA		10	01	09070		0		144	America/Toronto	2014-01-18
+8672720	Saint-Charles-de-Bourget	Saint-Charles-de-Bourget		48.52791	-71.41482	A	ADM3	CA		10	02	94260		0		131	America/Toronto	2014-01-18
+8672724	Notre-Dame-Auxiliatrice-de-Buckland	Notre-Dame-Auxiliatrice-de-Buckland	Buckland,nwrt dam aywksylyatrkh dy bwk,nwtr-dam-awksylyatrys-dw-bwklan  kbk,نوتر-دام-اوکسیلیاتریس-دو-بوکلان، کبک,نورت دام أيوكسيلياتركه دي بوك	46.61971	-70.55102	A	ADM3	CA		10	12	19010		0		430	America/Toronto	2016-03-29
+8672729	Saint-Jean-de-Cherbourg	Saint-Jean-de-Cherbourg		48.83978	-67.1058	A	ADM3	CA		10	01	08010		0		311	America/Toronto	2016-12-19
+8672730	Lac-Delage	Lac-Delage		46.96738	-71.40348	A	ADM3	CA		10	03	22030		0		149	America/Toronto	2014-01-18
+8672732	Percé	Perce		48.56226	-64.32574	A	ADM3	CA		10	11	02005		0		36	America/Toronto	2016-12-22
+8672733	Saint-Philibert	Saint-Philibert		46.13817	-70.54531	A	ADM3	CA		10	12	29065		0		360	America/Toronto	2016-12-18
+8672734	La Trinité-des-Monts	La Trinite-des-Monts		48.13123	-68.41005	A	ADM3	CA		10	01	10010		0		324	America/Toronto	2014-01-18
+8672736	Saint-Victor	Saint-Victor		46.14478	-70.91834	A	ADM3	CA		10	12	27008		0		255	America/Toronto	2016-12-18
+8672737	Saint-Gervais	Saint-Gervais		46.71522	-70.85987	A	ADM3	CA		10	12	19075		0		137	America/Toronto	2016-12-18
+8672740	Saint-Vianney	Saint-Vianney		48.62324	-67.4141	A	ADM3	CA		10	01	07075		0		258	America/Toronto	2014-01-18
+8672743	Frampton	Frampton		46.44672	-70.7869	A	ADM3	CA		10	12	26005		0		427	America/Toronto	2016-12-18
+8672744	Sainte-Cécile-de-Lévrard	Sainte-Cecile-de-Levrard		46.45317	-72.1441	A	ADM3	CA		10	17	38060		0		36	America/Toronto	2016-12-21
+8672746	L'Isle-aux-Coudres	L'Isle-aux-Coudres		47.38111	-70.40456	A	ADM3	CA		10	03	16023		0		17	America/Toronto	2014-01-18
+8672749	Saint-Jean-de-la-Lande	Saint-Jean-de-la-Lande		47.42531	-68.69576	A	ADM3	CA		10	01	13010		0		222	America/Toronto	2014-01-18
+8672750	Saint-Sylvestre	Saint-Sylvestre	sn-sylwstr  kbk,سن-سیلوستر، کبک	46.35306	-71.21567	A	ADM3	CA		10	12	33007		0		278	America/Toronto	2014-01-18
+8672754	Barkmere	Barkmere		45.99536	-74.54153	A	ADM3	CA		10	15	78050		0		219	America/Toronto	2016-12-18
+8672758	Saint-Gilles	Saint-Gilles		46.49901	-71.3773	A	ADM3	CA		10	12	33035		0		132	America/Toronto	2016-12-18
+8672759	Saint-Boniface	Saint-Boniface		46.52494	-72.84459	A	ADM3	CA		10	04	51085		0		132	America/Toronto	2014-01-18
+8672760	Saint-Jean-de-Brébeuf	Saint-Jean-de-Brebeuf		46.17564	-71.44738	A	ADM3	CA		10	12	31100		0		309	America/Toronto	2016-12-19
+8672763	Rivière-Éternité	Riviere-Eternite		48.21988	-70.47039	A	ADM3	CA		10	02	94215		0		309	America/Toronto	2014-01-18
+8672764	Saint-Alfred	Saint-Alfred		46.15252	-70.82397	A	ADM3	CA		10	12	27015		0		274	America/Toronto	2016-12-18
+8672765	Lac-des-Écorces	Lac-des-Ecorces		46.56074	-75.32534	A	ADM3	CA		10	15	79078		0		249	America/Toronto	2023-09-29
+8672767	Saint-Narcisse-de-Beaurivage	Saint-Narcisse-de-Beaurivage		46.49309	-71.25336	A	ADM3	CA		10	12	33030		0		154	America/Toronto	2014-01-18
+8672769	Lorraine	Lorraine		45.66765	-73.78383	A	ADM3	CA		10	15	73025		0		64	America/Toronto	2016-12-22
+8672770	Saint-Léandre	Saint-Leandre		48.70736	-67.6054	A	ADM3	CA		10	01	08065		0		214	America/Toronto	2014-01-18
+8672772	Senneville	Senneville		45.43936	-73.9658	A	ADM3	CA		10	06	66127		0		30	America/Toronto	2016-12-22
+8672773	Saint-Cléophas-de-Brandon	Saint-Cleophas-de-Brandon		46.23035	-73.40368	A	ADM3	CA		10	14	52075		0		149	America/Toronto	2016-12-25
+8672775	Saint-André-de-Restigouche	Saint-Andre-de-Restigouche		48.06655	-66.98192	A	ADM3	CA		10	11	06040		0		315	America/Toronto	2016-12-25
+8672776	Saint-Louis-de-Gonzague	Saint-Louis-de-Gonzague		46.26879	-70.3275	A	ADM3	CA		10	12	28035		0		403	America/Toronto	2016-12-25
+8672778	Warden	Warden		45.37857	-72.51349	A	ADM3	CA		10	05	47030		0		210	America/Toronto	2024-06-14
+8672779	Saint-Charles-Garnier	Saint-Charles-Garnier		48.33175	-68.03577	A	ADM3	CA		10	01	09010		0		333	America/Toronto	2014-01-18
+8672781	Adstock	Adstock		46.04781	-71.13256	A	ADM3	CA		10	12	31056		0		376	America/Toronto	2016-12-18
+8672784	Kingsbury	Kingsbury		45.57496	-72.1345	A	ADM3	CA		10	05	42070		0		158	America/Toronto	2016-12-18
+8672786	Saint-Norbert-d'Arthabaska	Saint-Norbert-d'Arthabaska		46.08642	-71.81428	A	ADM3	CA		10	17	39043		0		230	America/Toronto	2014-01-18
+8672789	Rivière-Bleue	Riviere-Bleue		47.41309	-69.01202	A	ADM3	CA		10	01	13025		0		254	America/Toronto	2014-01-18
+8672790	Saint-Éphrem-de-Beauce	Saint-Ephrem-de-Beauce		46.05175	-70.93732	A	ADM3	CA		10	12	29112		0		304	America/Toronto	2016-12-25
+8672791	Val-Alain	Val-Alain		46.4286	-71.76494	A	ADM3	CA		10	12	33070		0		121	America/Toronto	2016-12-18
+8672794	Saint-Nérée-de-Bellechasse	Saint-Neree-de-Bellechasse		46.70875	-70.7095	A	ADM3	CA		10	12	19045		0		333	America/Toronto	2016-12-25
+8672795	Saint-Adalbert	Saint-Adalbert		46.83751	-69.94532	A	ADM3	CA		10	12	17015		0		412	America/Toronto	2014-01-18
+8672796	Saint-Guy	Saint-Guy		48.04182	-68.76271	A	ADM3	CA		10	01	11020		0		282	America/Toronto	2016-12-25
+8672798	L'Ascension-de-Patapédia	L'Ascension-de-Patapedia		47.92882	-67.26918	A	ADM3	CA		10	11	06060		0		202	America/Toronto	2014-01-18
+8672799	Pointe-Fortune	Pointe-Fortune		45.54088	-74.37163	A	ADM3	CA		10	16	71140		0		25	America/Toronto	2014-01-18
+8672803	Sainte-Anne-de-la-Pocatière	Sainte-Anne-de-la-Pocatiere		47.3608	-69.99398	A	ADM3	CA		10	01	14090		0		92	America/Toronto	2016-06-24
+8672804	Saint-Flavien	Saint-Flavien		46.52091	-71.56998	A	ADM3	CA		10	12	33052		0		134	America/Toronto	2016-12-18
+8672806	Notre-Dame-du-Rosaire	Notre-Dame-du-Rosaire		46.86066	-70.40714	A	ADM3	CA		10	12	18040		371		416	America/Toronto	2026-03-27
+8672808	Saint-Vallier	Saint-Vallier		46.88058	-70.80725	A	ADM3	CA		10	12	19117		0		26	America/Toronto	2016-12-22
+8672809	Sainte-Hélène-de-Kamouraska	Sainte-Helene-de-Kamouraska	Municipalite de Sainte-Helene-de-Kamouraska,Municipalité de Sainte-Hélène-de-Kamouraska,Sainte-Helene,Sainte-Hélène	47.57359	-69.69713	A	ADM3	CA		10	01	14025		891		185	America/Toronto	2024-06-16
+8672810	Saint-Félix-d'Otis	Saint-Felix-d'Otis		48.29822	-70.62478	A	ADM3	CA		10	02	94225		0		315	America/Toronto	2016-12-25
+8672812	Mont-Blanc	Mont-Blanc	Municipalite de Mont-Blanc,Municipalité de Mont-Blanc,Saint-Faustin-Lac-Carre,Saint-Faustin–Lac-Carré	46.08116	-74.46663	A	ADM3	CA		10	15	78047		3499		397	America/Toronto	2024-06-16
+8672813	Upton	Upton		45.65318	-72.68206	A	ADM3	CA		10	16	48038		0		61	America/Toronto	2016-12-18
+8672815	Otter Lake	Otter Lake		45.93017	-76.46635	A	ADM3	CA		10	07	84055		0		203	America/Toronto	2016-12-18
+8672817	Saint-Alphonse	Saint-Alphonse		48.19786	-65.62677	A	ADM3	CA		10	11	05065		0		165	America/Toronto	2016-12-25
+8672819	Sainte-Lucie-de-Beauregard	Sainte-Lucie-de-Beauregard		46.75139	-70.0627	A	ADM3	CA		10	12	18020		0		368	America/Toronto	2014-01-18
+8672820	Ham-Sud	Ham-Sud		45.76667	-71.5833	A	ADM3	CA		10	05	40005		0		423	America/Toronto	2016-12-28
+8672821	Saint-Jacques-de-Leeds	Saint-Jacques-de-Leeds		46.29056	-71.33107	A	ADM3	CA		10	12	31140		0		252	America/Toronto	2016-12-25
+8672823	Sainte-Agathe-de-Lotbinière	Sainte-Agathe-de-Lotbiniere		46.37288	-71.42175	A	ADM3	CA		10	12	33017		0		173	America/Toronto	2016-12-25
+8672824	Saint-Agapit	Saint-Agapit		46.54988	-71.44696	A	ADM3	CA		10	12	33045		0		128	America/Toronto	2016-12-18
+8672826	Saint-Elzéar-de-Témiscouata	Saint-Elzear-de-Temiscouata		47.5691	-69.07017	A	ADM3	CA		10	01	13085		0		440	America/Toronto	2014-01-18
+8672827	Saint-Hubert-de-Rivière-du-Loup	Saint-Hubert-de-Riviere-du-Loup		47.78727	-69.1711	A	ADM3	CA		10	01	12010		0		358	America/Toronto	2014-01-18
+8672828	Kinnear's Mills	Kinnear's Mills		46.2049	-71.34281	A	ADM3	CA		10	12	31105		397		377	America/Toronto	2026-03-25
+8672830	Berry	Berry		48.83734	-78.31345	A	ADM3	CA		10	08	88070		0		308	America/Toronto	2016-12-25
+8672831	Sainte-Françoise	Sainte-Francoise		48.0714	-69.03443	A	ADM3	CA		10	01	11030		0		227	America/Toronto	2016-12-25
+8672833	Laurier-Station	Laurier-Station		46.54204	-71.63647	A	ADM3	CA		10	12	33060		0		109	America/Toronto	2016-12-18
+8672834	Les Hauteurs	Les Hauteurs		48.36306	-68.10759	A	ADM3	CA		10	01	09015		0		365	America/Toronto	2014-01-18
+8672835	Saint-Onésime-d'Ixworth	Saint-Onesime-d'Ixworth	Saint-Onesime-dIxworth,Saint-Onésime-dIxworth	47.29645	-69.92172	A	ADM3	CA		10	01	14080		0		205	America/Toronto	2014-01-18
+8672837	Saint-Marcel	Saint-Marcel		46.90543	-70.07886	A	ADM3	CA		10	12	17020		0		429	America/Toronto	2016-12-22
+8672839	Huntingdon	Huntingdon		45.08787	-74.17849	A	ADM3	CA		10	16	69055		0		50	America/Toronto	2014-01-18
+8672840	Saint-François-Xavier-de-Viger	Saint-Francois-Xavier-de-Viger		47.83817	-69.24444	A	ADM3	CA		10	01	12025		0		361	America/Toronto	2014-01-18
+8672842	Bolton-Ouest	Bolton-Ouest		45.23253	-72.44003	A	ADM3	CA		10	05	46065		0		368	America/Toronto	2024-06-14
+8672843	Sainte-Thérèse-de-Gaspé	Sainte-Therese-de-Gaspe		48.4408	-64.44337	A	ADM3	CA		10	11	02010		0		83	America/Toronto	2016-12-25
+8672845	Saint-Damase-de-L'Islet	Saint-Damase-de-L'Islet		47.19268	-70.03407	A	ADM3	CA		10	12	17040		0		302	America/Toronto	2016-12-25
+8672846	Saint-Omer	Saint-Omer		47.05773	-69.72327	A	ADM3	CA		10	12	17005		0		396	America/Toronto	2016-12-18
+8672847	Sainte-Sophie-d'Halifax	Sainte-Sophie-d'Halifax		46.14802	-71.71448	A	ADM3	CA		10	17	32023		0		280	America/Toronto	2016-12-26
+8672852	Laurierville	Laurierville		46.31123	-71.67865	A	ADM3	CA		10	17	32072		0		142	America/Toronto	2016-12-25
+8672853	Saint-Come-Liniere	Saint-Come-Liniere	Municipalite de Saint-Come--Liniere,Municipalité de Saint-Côme--Linière,Saint-Come–Liniere,Saint-Come—Liniere,Saint-Côme–Linière,Saint-Côme—Linière	46.0511	-70.50867	A	ADM3	CA		10	12	29057		3278		264	America/Toronto	2024-06-16
+8672854	Sainte-Clotilde	Sainte-Clotilde		45.1508	-73.66506	A	ADM3	CA		10	16	68020		0		51	America/Toronto	2014-01-18
+8672859	La Guadeloupe	La Guadeloupe		45.98091	-70.94269	A	ADM3	CA		10	12	29030		0		308	America/Toronto	2014-01-18
+8672863	Saint-Zénon-du-Lac-Humqui	Saint-Zenon-du-Lac-Humqui		48.30403	-67.60275	A	ADM3	CA		10	01	07035		0		313	America/Toronto	2014-01-18
+8672865	Saint-Alphonse-de-Granby	Saint-Alphonse-de-Granby		45.32892	-72.81869	A	ADM3	CA		10	05	47010		0		88	America/Toronto	2024-06-14
+8672866	Saint-Gabriel-Lalemant	Saint-Gabriel-Lalemant	sn-gabryl-lalman  kbk,سن-گابریل-لالمان، کبک,سینٹ-گیبریل-لالےمنٹ، کیوبک	47.36052	-69.87118	A	ADM3	CA		10	01	14075		0		220	America/Toronto	2014-01-18
+8672868	L'Isle-aux-Allumettes	L'Isle-aux-Allumettes		45.86572	-77.04754	A	ADM3	CA		10	07	84082		0		143	America/Toronto	2014-01-18
+8672869	Sainte-Apolline-de-Patton	Sainte-Apolline-de-Patton		46.83471	-70.21109	A	ADM3	CA		10	12	18025		0		442	America/Toronto	2016-12-19
+8672870	Saint-Tharcisius	Saint-Tharcisius		48.54233	-67.32017	A	ADM3	CA		10	01	07070		0		234	America/Toronto	2014-01-18
+8672872	Notre-Dame-du-Portage	Notre-Dame-du-Portage		47.77463	-69.63048	A	ADM3	CA		10	01	12080		1296		-9999	America/Toronto	2026-03-27
+8672873	Saint-Adrien-d'Irlande	Saint-Adrien-d'Irlande		46.11886	-71.42982	A	ADM3	CA		10	12	31095		0		454	America/Toronto	2014-01-18
+8672874	Notre-Dame-de-Bonsecours	Notre-Dame-de-Bonsecours		45.75222	-74.85551	A	ADM3	CA		10	07	80015		0		235	America/Toronto	2016-12-19
+8672876	Saint-René-de-Matane	Saint-Rene-de-Matane	sn-rnh-dw-matan  kbk,سن-رنه-دو-ماتان، کبک,سین-ڑنے-دے-مٹانے، کیوبک	48.73204	-67.28481	A	ADM3	CA		10	01	08035		0		376	America/Toronto	2014-01-18
+8672877	Sainte-Justine	Sainte-Justine		46.40885	-70.34292	A	ADM3	CA		10	12	28045		0		446	America/Toronto	2016-12-18
+8672879	Saint-Joseph-des-Érables	Saint-Joseph-des-Erables		46.28472	-70.89496	A	ADM3	CA		10	12	27050		0		236	America/Toronto	2016-12-19
+8672880	Saint-Bernard	Saint-Bernard		46.48556	-71.15549	A	ADM3	CA		10	12	26055		0		170	America/Toronto	2014-01-18
+8672882	Grande-Rivière	Grande-Riviere		48.42184	-64.53068	A	ADM3	CA		10	11	02015		0		113	America/Toronto	2014-01-18
+8672885	Sainte-Clotilde-de-Beauce	Sainte-Clotilde-de-Beauce		46.12253	-71.03942	A	ADM3	CA		10	12	31060		0		347	America/Toronto	2016-12-19
+8672888	Lac-Tremblant-Nord	Lac-Tremblant-Nord		46.25059	-74.65102	A	ADM3	CA		10	15	78127		0		276	America/Toronto	2016-12-19
+8672889	Saint-Alexandre-de-Kamouraska	Saint-Alexandre-de-Kamouraska		47.67345	-69.58396	A	ADM3	CA		10	01	14035		0		137	America/Toronto	2016-12-19
+8672890	Sainte-Florence	Sainte-Florence		48.26998	-67.23718	A	ADM3	CA		10	01	07010		0		104	America/Toronto	2014-01-18
+8672892	Saint-Athanase	Saint-Athanase		47.41552	-69.42787	A	ADM3	CA		10	01	13100		0		502	America/Toronto	2014-01-18
+8672893	Saint-Mathieu-de-Beloeil	Saint-Mathieu-de-Beloeil	Saint-Mathieu-de-Belœil	45.60521	-73.25291	A	ADM3	CA		10	16	57045		0		12	America/Toronto	2016-12-19
+8672895	Saint-Cléophas	Saint-Cleophas		48.48568	-67.7283	A	ADM3	CA		10	01	07090		321		257	America/Toronto	2026-03-27
+8672898	Tourville	Tourville		47.1164	-69.98708	A	ADM3	CA		10	12	17035		0		345	America/Toronto	2016-12-18
+8672902	Sainte-Paule	Sainte-Paule		48.66844	-67.52482	A	ADM3	CA		10	01	08040		0		301	America/Toronto	2014-01-18
+8672908	Fort-Coulonge	Fort-Coulonge		45.84011	-76.73701	A	ADM3	CA		10	07	84060		0		110	America/Toronto	2016-12-18
+8672911	Saint-François-de-la-Rivière-du-Sud	Saint-Francois-de-la-Riviere-du-Sud		46.8562	-70.68053	A	ADM3	CA		10	12	18060		0		121	America/Toronto	2016-12-26
+8672912	Trois-Pistoles	Trois-Pistoles		48.12665	-69.1697	A	ADM3	CA		10	01	11040		0		43	America/Toronto	2016-12-19
+8672913	Saint-Aubert	Saint-Aubert		47.15041	-70.1931	A	ADM3	CA		10	12	17055		0		264	America/Toronto	2016-12-18
+8672918	Notre-Dame-des-Anges	Notre-Dame-des-Anges		46.81436	-71.23342	A	ADM3	CA		10	03	23015		0		13	America/Toronto	2016-12-26
+8672919	Saint-Médard	Saint-Medard		48.07282	-68.85416	A	ADM3	CA		10	01	11025		0		330	America/Toronto	2016-12-19
+8672920	Ferland-et-Boilleau	Ferland-et-Boilleau		48.12653	-70.81743	A	ADM3	CA		10	02	94220		0		334	America/Toronto	2016-12-19
+8672923	Saint-Mathieu-d'Harricana	Saint-Mathieu-d'Harricana		48.46831	-78.17695	A	ADM3	CA		10	08	88050		0		308	America/Toronto	2014-01-18
+8672924	Saint-Germain-de-Kamouraska	Saint-Germain-de-Kamouraska	Municipalite de Saint-Germain-de-Kamouraska,Municipalité de Saint-Germain-de-Kamouraska,Saint-Germain	47.62985	-69.8296	A	ADM3	CA		10	01	14045		0		-9999	America/Toronto	2024-06-14
+8672926	Saint-Eusèbe	Saint-Eusebe		47.5359	-68.91986	A	ADM3	CA		10	01	13030		587		306	America/Toronto	2026-03-27
+8672928	Villeroy	Villeroy		46.38622	-71.88208	A	ADM3	CA		10	17	32085		0		120	America/Toronto	2014-01-18
+8672931	Saint-Irénée	Saint-Irenee		47.54751	-70.20091	A	ADM3	CA		10	03	15005		0		49	America/Toronto	2016-12-19
+8672934	Fortierville	Fortierville		46.48784	-72.03033	A	ADM3	CA		10	17	38047		0		66	America/Toronto	2014-01-18
+8672937	Beauceville	Beauceville		46.23578	-70.76843	A	ADM3	CA		10	12	27028		0		290	America/Toronto	2016-12-22
+8672940	Pont-Rouge	Pont-Rouge		46.77684	-71.69109	A	ADM3	CA		10	03	34017		0		113	America/Toronto	2016-12-19
+8672943	Hudson	Hudson	Khadson,hadswn  kbk,hdswn,Хадсон,هادسون، کبک,هدسون,ہڈسن	45.46125	-74.15101	A	ADM3	CA		10	16	71100		0		51	America/Toronto	2014-01-18
+8672947	Saint-Roch-des-Aulnaies	Saint-Roch-des-Aulnaies		47.30007	-70.15989	A	ADM3	CA		10	12	17065		0		33	America/Toronto	2017-04-03
+8672951	Saint-Jean-Port-Joli	Saint-Jean-Port-Joli		47.21345	-70.2698	A	ADM3	CA		10	12	17070		0		7	America/Toronto	2017-04-03
+8672953	Lac-Frontière	Lac-Frontiere		46.67375	-70.02032	A	ADM3	CA		10	12	18010		0		376	America/Toronto	2014-01-18
+8672956	Saint-Patrice-de-Beaurivage	Saint-Patrice-de-Beaurivage	sn-patrys-dw-bwrywazh  kbk,سن-پاتریس-دو-بوریواژ، کبک,سینٹ-پترکے-دے-بورواگے، کیوبک	46.42252	-71.26052	A	ADM3	CA		10	12	33025		0		176	America/Toronto	2014-01-18
+8672957	Val-des-Bois	Val-des-Bois		45.90346	-75.50861	A	ADM3	CA		10	07	80140		0		448	America/Toronto	2016-12-20
+8672962	Saint-Magloire	Saint-Magloire		46.58652	-70.30076	A	ADM3	CA		10	12	28075		0		437	America/Toronto	2016-12-18
+8672966	Huberdeau	Huberdeau		45.99653	-74.66366	A	ADM3	CA		10	15	78065		0		255	America/Toronto	2016-12-18
+8672968	Saint-Just-de-Bretenières	Saint-Just-de-Bretenieres		46.55896	-70.08753	A	ADM3	CA		10	12	18005		0		349	America/Toronto	2014-01-18
+8672969	Sainte-Aurélie	Sainte-Aurelie		46.18155	-70.3696	A	ADM3	CA		10	12	28015		0		429	America/Toronto	2016-12-18
+8672971	Newport	Newport		45.3832	-71.44593	A	ADM3	CA		10	05	41037		0		384	America/Toronto	2016-12-18
+8672972	Notre-Dame-des-Pins	Notre-Dame-des-Pins		46.17649	-70.7156	A	ADM3	CA		10	12	29120		1812		153	America/Toronto	2026-03-27
+8672973	Tring-Jonction	Tring-Jonction		46.25622	-70.99351	A	ADM3	CA		10	12	27060		0		333	America/Toronto	2014-01-18
+8672975	Saint-Narcisse-de-Rimouski	Saint-Narcisse-de-Rimouski		48.24943	-68.46354	A	ADM3	CA		10	01	10015		0		224	America/Toronto	2014-01-18
+8672976	Mont-Carmel	Mont-Carmel		47.29246	-69.70077	A	ADM3	CA		10	01	14005		0		420	America/Toronto	2016-12-20
+8672978	Saint-Cuthbert	Saint-Cuthbert		46.18448	-73.22943	A	ADM3	CA		10	14	52062		0		53	America/Toronto	2016-12-18
+8672979	Champneuf	Champneuf		48.56829	-77.45405	A	ADM3	CA		10	08	88005		0		311	America/Toronto	2016-12-20
+8672981	Petite-Rivière-Saint-François	Petite-Riviere-Saint-Francois		47.31049	-70.60209	A	ADM3	CA		10	03	16005		0		487	America/Toronto	2016-12-21
+8672984	Normétal	Normetal		48.9798	-79.35186	A	ADM3	CA		10	08	87115		0		296	America/Toronto	2016-12-20
+8672986	Weedon	Weedon	wydn  kbk,ویدن، کبک	45.70248	-71.44959	A	ADM3	CA		10	05	41098		0		248	America/Toronto	2014-01-18
+8672989	Saint-Wenceslas	Saint-Wenceslas		46.1675	-72.32062	A	ADM3	CA		10	17	50023		0		82	America/Toronto	2016-12-20
+8672991	Boucherville	Boucherville		45.59572	-73.42798	A	ADM3	CA		10	16	58033		0		15	America/Toronto	2016-12-18
+8672992	Sainte-Pétronille	Sainte-Petronille		46.85469	-71.1206	A	ADM3	CA		10	03	20030		0		60	America/Toronto	2016-12-20
+8672994	Packington	Packington		47.47212	-68.80607	A	ADM3	CA		10	01	13015		0		350	America/Toronto	2016-12-22
+8672995	La Motte	La Motte		48.34746	-78.14573	A	ADM3	CA		10	08	88045		0		306	America/Toronto	2016-12-20
+8672998	Franquelin	Franquelin		49.3565	-67.86391	A	ADM3	CA		10	09	96015		0		102	America/Toronto	2016-12-20
+8673000	Bouchette	Bouchette		46.20673	-75.91009	A	ADM3	CA		10	07	83050		0		144	America/Toronto	2016-12-18
+8673001	Mulgrave-et-Derry	Mulgrave-et-Derry		45.7865	-75.36566	A	ADM3	CA		10	07	80085		0		258	America/Toronto	2016-12-20
+8673003	Sainte-Monique	Sainte-Monique		48.75116	-71.79303	A	ADM3	CA		10	02	93075		0		182	America/Toronto	2016-12-20
+8673004	Bégin	Begin		48.6974	-71.3198	A	ADM3	CA		10	02	94250		0		267	America/Toronto	2014-01-18
+8673006	Saint-Eugène-d'Argentenay	Saint-Eugene-d'Argentenay		48.97803	-72.29186	A	ADM3	CA		10	02	92065		0		146	America/Toronto	2014-01-18
+8673007	Saint-Eugène-de-Ladrière	Saint-Eugene-de-Ladriere		48.1877	-68.69703	A	ADM3	CA		10	01	10075		0		207	America/Toronto	2016-12-20
+8673009	Saint-Léonard-de-Portneuf	Saint-Leonard-de-Portneuf		46.91503	-71.98734	A	ADM3	CA		10	03	34115		0		341	America/Toronto	2016-12-21
+8673010	La Corne	La Corne		48.35558	-77.92123	A	ADM3	CA		10	08	88030		0		345	America/Toronto	2016-12-20
+8673011	Grand-Saint-Esprit	Grand-Saint-Esprit		46.17083	-72.47861	A	ADM3	CA		10	17	50065		0		59	America/Toronto	2016-12-21
+8673014	Chartierville	Chartierville		45.30459	-71.22113	A	ADM3	CA		10	05	41020		0		570	America/Toronto	2016-12-18
+8673017	Saint-Thomas	Saint-Thomas		46.02121	-73.33269	A	ADM3	CA		10	14	61027		0		28	America/Toronto	2016-12-18
+8673021	Compton	Compton		45.22631	-71.82122	A	ADM3	CA		10	05	44071		0		230	America/Toronto	2014-01-18
+8673022	Saint-Donat	Saint-Donat		48.4907	-68.24505	A	ADM3	CA		10	01	09030		0		94	America/Toronto	2016-12-20
+8673025	Sainte-Irène	Sainte-Irene		48.42947	-67.62701	A	ADM3	CA		10	01	07040		0		352	America/Toronto	2016-12-20
+8673027	Notre-Dame-de-Ham	Notre-Dame-de-Ham		45.91838	-71.71227	A	ADM3	CA		10	17	39015		0		291	America/Toronto	2014-01-18
+8673029	Saint-Antoine-sur-Richelieu	Saint-Antoine-sur-Richelieu		45.79813	-73.19943	A	ADM3	CA		10	16	57075		0		18	America/Toronto	2014-01-18
+8673030	La Patrie	La Patrie		45.4036	-71.23522	A	ADM3	CA		10	05	41027		0		376	America/Toronto	2014-01-18
+8673031	Sainte-Hedwidge	Sainte-Hedwidge		48.40364	-72.43491	A	ADM3	CA		10	02	91030		0		348	America/Toronto	2016-12-25
+8673032	Escuminac	Escuminac		48.13639	-66.49888	A	ADM3	CA		10	11	06025		0		66	America/Toronto	2016-12-18
+8673033	New Richmond	New Richmond		48.1988	-65.79969	A	ADM3	CA		10	11	05070		0		19	America/Toronto	2016-12-25
+8673034	Saint-Paul-de-Montminy	Saint-Paul-de-Montminy		46.73399	-70.31447	A	ADM3	CA		10	12	18030		0		571	America/Toronto	2016-12-25
+8673036	Vallée-Jonction	Vallee-Jonction		46.37458	-70.93218	A	ADM3	CA		10	12	26015		0		149	America/Toronto	2016-12-18
+8673037	Kazabazua	Kazabazua		45.95287	-76.061	A	ADM3	CA		10	07	83015		0		188	America/Toronto	2016-12-18
+8673039	Sainte-Françoise	Sainte-Francoise		46.44674	-71.9667	A	ADM3	CA		10	17	38035		0		90	America/Toronto	2016-12-25
+8673040	Barnston-Ouest	Barnston-Ouest		45.08406	-71.96701	A	ADM3	CA		10	05	44045		0		376	America/Toronto	2014-01-18
+8673041	Waltham	Waltham		46.03263	-76.91141	A	ADM3	CA		10	07	84070		0		340	America/Toronto	2016-12-18
+8673045	North Hatley	North Hatley		45.27305	-71.9813	A	ADM3	CA		10	05	45050		0		158	America/Toronto	2016-12-25
+8673048	Mansfield-et-Pontefract	Mansfield-et-Pontefract		46.00402	-76.72671	A	ADM3	CA		10	07	84065		0		310	America/Toronto	2016-12-25
+8673050	Saint-Adrien	Saint-Adrien		45.82309	-71.7387	A	ADM3	CA		10	05	40010		0		281	America/Toronto	2014-01-18
+8673051	Duhamel-Ouest	Duhamel-Ouest		47.35366	-79.45457	A	ADM3	CA		10	08	85030		0		222	America/Toronto	2016-12-25
+8673053	Saint-Herménégilde	Saint-Hermenegilde		45.0849	-71.63594	A	ADM3	CA		10	05	44015		0		514	America/Toronto	2014-01-18
+8673055	Baie-Comeau	Baie-Comeau		49.26377	-68.23118	A	ADM3	CA		10	09	96020		0		181	America/Toronto	2016-12-25
+8673062	Saint-Barnabé-Sud	Saint-Barnabe-Sud		45.73978	-72.93592	A	ADM3	CA		10	16	54105		0		31	America/Toronto	2016-12-25
+8673064	Très-Saint-Sacrement	Tres-Saint-Sacrement		45.16428	-73.86127	A	ADM3	CA		10	16	69030		0		37	America/Toronto	2016-12-25
+8673066	Lantier	Lantier		46.1632	-74.25214	A	ADM3	CA		10	15	78015		0		420	America/Toronto	2016-12-22
+8673068	Franklin	Franklin		45.04682	-73.90047	A	ADM3	CA		10	16	69010		0		99	America/Toronto	2016-12-22
+8673069	Saint-Louis-de-Gonzague-du-Cap-Tourmente	Saint-Louis-de-Gonzague-du-Cap-Tourmente		47.064	-70.805	A	ADM3	CA		10	03	21015		0		49	America/Toronto	2024-04-02
+8673070	Notre-Dame-du-Laus	Notre-Dame-du-Laus		46.11186	-75.51755	A	ADM3	CA		10	15	79005		0		402	America/Toronto	2016-12-25
+8673073	Stoneham-et-Tewkesbury	Stoneham-et-Tewkesbury		47.13323	-71.40624	A	ADM3	CA		10	03	22035		0		516	America/Toronto	2016-12-26
+8673075	Egan-Sud	Egan-Sud		46.42702	-75.99635	A	ADM3	CA		10	07	83075		0		193	America/Toronto	2016-12-22
+8673077	Sainte-Clotilde-de-Horton	Sainte-Clotilde-de-Horton		45.98873	-72.23971	A	ADM3	CA		10	17	39117		0		86	America/Toronto	2014-01-18
+8673080	Lac-Supérieur	Lac-Superieur		46.30514	-74.48072	A	ADM3	CA		10	15	78095		0		428	America/Toronto	2016-12-25
+8673083	Saint-Valérien	Saint-Valerien		48.29989	-68.61341	A	ADM3	CA		10	01	10060		0		190	America/Toronto	2014-01-18
+8673086	McMasterville	McMasterville		45.54716	-73.23306	A	ADM3	CA		10	16	57025		0		13	America/Toronto	2016-12-22
+8673088	Hébertville	Hebertville		48.34695	-71.67844	A	ADM3	CA		10	02	93020		0		257	America/Toronto	2014-01-18
+8673090	Saint-Arsène	Saint-Arsene		47.91511	-69.40667	A	ADM3	CA		10	01	12065		0		104	America/Toronto	2016-12-25
+8673092	Padoue	Padoue		48.58534	-67.96417	A	ADM3	CA		10	01	09040		0		225	America/Toronto	2014-01-18
+8673094	Saint-Valère	Saint-Valere		46.07661	-72.09588	A	ADM3	CA		10	17	39135		0		98	America/Toronto	2016-12-25
+8673096	La Rédemption	La Redemption		48.422	-67.88982	A	ADM3	CA		10	01	09005		384		310	America/Toronto	2026-03-25
+8673099	Napierville	Napierville		45.18845	-73.40325	A	ADM3	CA		10	16	68030		0		58	America/Toronto	2014-01-18
+8673101	Aston-Jonction	Aston-Jonction		46.16896	-72.2332	A	ADM3	CA		10	17	50013		0		83	America/Toronto	2016-12-25
+8673104	Saint-Georges-de-Windsor	Saint-Georges-de-Windsor		45.67662	-71.85902	A	ADM3	CA		10	05	40032		0		344	America/Toronto	2014-01-18
+8673106	Verchères	Vercheres		45.75014	-73.33433	A	ADM3	CA		10	16	59025		0		18	America/Toronto	2016-12-22
+8673108	Saint-Damase	Saint-Damase		48.65427	-67.79748	A	ADM3	CA		10	01	07105		0		226	America/Toronto	2016-12-25
+8673110	Saint-Marc-du-Lac-Long	Saint-Marc-du-Lac-Long		47.3913	-68.88299	A	ADM3	CA		10	01	13020		0		206	America/Toronto	2016-12-21
+8673112	Lac-Simon	Lac-Simon		45.92891	-75.10301	A	ADM3	CA		10	07	80095		0		255	America/Toronto	2016-12-19
+8673115	Saint-Eugène	Saint-Eugene		45.80485	-72.70049	A	ADM3	CA		10	17	49105		0		73	America/Toronto	2016-12-25
+8673118	Saint-Zotique	Saint-Zotique		45.23602	-74.26215	A	ADM3	CA		10	16	71025		0		47	America/Toronto	2014-01-18
+8673120	Belcourt	Belcourt		48.39901	-77.44098	A	ADM3	CA		10	08	89050		0		327	America/Toronto	2016-12-27
+8673123	Sainte-Eulalie	Sainte-Eulalie		46.10941	-72.23759	A	ADM3	CA		10	17	50005		0		91	America/Toronto	2016-12-27
+8673125	Saint-Hippolyte	Saint-Hippolyte		45.91984	-73.99807	A	ADM3	CA		10	15	75045		0		303	America/Toronto	2016-12-27
+8673128	Sainte-Anne-de-la-Pérade	Sainte-Anne-de-la-Perade		46.60444	-72.20676	A	ADM3	CA		10	04	37205		0		8	America/Toronto	2016-12-20
+8673131	Saint-Fulgence	Saint-Fulgence		48.48568	-70.78715	A	ADM3	CA		10	02	94235		0		243	America/Toronto	2016-12-20
+8673133	Sainte-Monique	Sainte-Monique		46.14798	-72.52562	A	ADM3	CA		10	17	50057		0		48	America/Toronto	2016-12-20
+8673135	Beaulac-Garthby	Beaulac-Garthby		45.83369	-71.39994	A	ADM3	CA		10	12	31008		0		268	America/Toronto	2014-01-18
+8673138	Saint-André-de-Kamouraska	Saint-Andre-de-Kamouraska	Saint-Andre.,Saint-André.	47.68911	-69.70453	A	ADM3	CA		10	01	14040		0		21	America/Toronto	2024-06-14
+8673140	Lanoraie	Lanoraie		45.97889	-73.25067	A	ADM3	CA		10	14	52017		0		23	America/Toronto	2016-12-19
+8673143	Piopolis	Piopolis	bywbwlys,pywpwlys  kbk,بيوبوليس,پیوپولیس، کبک	45.47397	-70.93796	A	ADM3	CA		10	05	30020		0		470	America/Toronto	2014-01-18
+8673145	Alleyn-et-Cawood	Alleyn-et-Cawood		45.91151	-76.23647	A	ADM3	CA		10	07	84050		0		188	America/Toronto	2016-12-20
+8673148	L'Islet	L'Islet		47.11047	-70.35401	A	ADM3	CA		10	12	17078		0		27	America/Toronto	2014-01-18
+8673151	Noyan	Noyan		45.05129	-73.29694	A	ADM3	CA		10	16	56015		0		27	America/Toronto	2014-01-18
+8673154	Rapides-des-Joachims	Rapides-des-Joachims		46.26772	-77.70956	A	ADM3	CA		10	07	84100		0		258	America/Toronto	2016-12-20
+8673157	Saint-Thomas-Didyme	Saint-Thomas-Didyme		48.94768	-72.74873	A	ADM3	CA		10	02	92045		0		238	America/Toronto	2016-12-20
+8673160	Shannon	Shannon		46.91441	-71.57109	A	ADM3	CA		10	03	22020		0		327	America/Toronto	2016-12-20
+8673162	Saint-Nazaire-de-Dorchester	Saint-Nazaire-de-Dorchester		46.55048	-70.64629	A	ADM3	CA		10	12	19015		0		434	America/Toronto	2016-12-20
+8673165	Saint-Alban	Saint-Alban		46.77563	-72.11453	A	ADM3	CA		10	03	34097		0		162	America/Toronto	2019-06-06
+8673168	Lac-Drolet	Lac-Drolet		45.73519	-70.83325	A	ADM3	CA		10	05	30080		0		466	America/Toronto	2016-12-20
+8673170	Les Coteaux	Les Coteaux		45.26688	-74.23021	A	ADM3	CA		10	16	71033		0		47	America/Toronto	2014-01-18
+8673173	Ange-Gardien	Ange-Gardien		45.34151	-72.90755	A	ADM3	CA		10	16	55008		0		79	America/Toronto	2016-12-19
+8673176	Austin	Austin		45.2224	-72.26265	A	ADM3	CA		10	05	45085		0		282	America/Toronto	2016-12-19
+8673179	Authier	Authier		48.73595	-78.83161	A	ADM3	CA		10	08	87050		0		308	America/Toronto	2016-12-20
+8673181	Saint-Apollinaire	Saint-Apollinaire		46.60365	-71.4925	A	ADM3	CA		10	12	33090		0		123	America/Toronto	2014-01-18
+8673184	Campbell's Bay	Campbell's Bay		45.72999	-76.59501	A	ADM3	CA		10	07	84030		0		121	America/Toronto	2014-01-18
+8673187	Barraute	Barraute		48.42977	-77.67027	A	ADM3	CA		10	08	88022		0		309	America/Toronto	2014-01-18
+8673190	Bois-des-Filion	Bois-des-Filion		45.6706	-73.76293	A	ADM3	CA		10	15	73030		0		34	America/Toronto	2016-12-20
+8673192	Brigham	Brigham		45.2567	-72.7971	A	ADM3	CA		10	05	46090		0		119	America/Toronto	2024-06-14
+8673195	Pointe-Calumet	Pointe-Calumet		45.49631	-73.96509	A	ADM3	CA		10	15	72020		0		23	America/Toronto	2016-12-20
+8673197	Saint-Marc-sur-Richelieu	Saint-Marc-sur-Richelieu		45.6853	-73.22702	A	ADM3	CA		10	16	57050		0		16	America/Toronto	2014-01-18
+8673199	Kiamika	Kiamika		46.40029	-75.35713	A	ADM3	CA		10	15	79025		0		240	America/Toronto	2016-12-19
+8673201	Saint-Pierre-les-Becquets	Saint-Pierre-les-Becquets		46.47959	-72.19246	A	ADM3	CA		10	17	38065		0		46	America/Toronto	2014-01-18
+8673203	Saint-André-Avellin	Saint-Andre-Avellin		45.73147	-75.0529	A	ADM3	CA		10	07	80027		0		166	America/Toronto	2014-01-18
+8673205	Val-des-Lacs	Val-des-Lacs		46.21924	-74.3751	A	ADM3	CA		10	15	78100		0		447	America/Toronto	2016-12-20
+8673206	Larouche	Larouche		48.45288	-71.5055	A	ADM3	CA		10	02	94265		0		184	America/Toronto	2016-12-19
+8673208	Saint-Mathias-sur-Richelieu	Saint-Mathias-sur-Richelieu		45.48268	-73.22494	A	ADM3	CA		10	16	55065		0		13	America/Toronto	2016-12-20
+8673210	Saint-Bruno-de-Guigues	Saint-Bruno-de-Guigues		47.46871	-79.48065	A	ADM3	CA		10	08	85045		0		196	America/Toronto	2016-12-21
+8673212	Saint-Édouard-de-Maskinongé	Saint-Edouard-de-Maskinonge		46.3302	-73.16208	A	ADM3	CA		10	04	51050		0		121	America/Toronto	2016-12-20
+8673214	Métabetchouan-Lac-à-la-Croix	Metabetchouan-Lac-a-la-Croix	Ville de Metabetchouan--Lac-a-la-Croix,Ville de Métabetchouan--Lac-à-la-Croix	48.37797	-71.84306	A	ADM3	CA		10	02	93012		4121		140	America/Toronto	2024-06-15
+8673216	Saint-Samuel	Saint-Samuel		46.06037	-72.20936	A	ADM3	CA		10	17	39130		0		80	America/Toronto	2014-01-18
+8673218	Saint-Émile-de-Suffolk	Saint-Emile-de-Suffolk		45.94478	-74.92048	A	ADM3	CA		10	07	80125		566		249	America/Toronto	2016-12-20
+8673220	Montpellier	Montpellier		45.90154	-75.2634	A	ADM3	CA		10	07	80090		0		331	America/Toronto	2016-12-19
+8673222	Moffet	Moffet		47.58999	-78.88236	A	ADM3	CA		10	08	85075		0		259	America/Toronto	2016-12-20
+8673225	East Farnham	East Farnham		45.23791	-72.77248	A	ADM3	CA		10	05	46085		0		130	America/Toronto	2024-06-14
+8673228	Saint-Anicet	Saint-Anicet		45.11168	-74.34931	A	ADM3	CA		10	16	69070		0		47	America/Toronto	2016-12-19
+8673231	Baie-Johan-Beetz	Baie-Johan-Beetz		50.3205	-62.74165	A	ADM3	CA		10	09	98035		0		36	America/Toronto	2016-12-20
+8673234	Ivry-sur-le-Lac	Ivry-sur-le-Lac		46.07373	-74.36851	A	ADM3	CA		10	15	78042		0		417	America/Toronto	2016-12-20
+8673237	Saint-Télesphore	Saint-Telesphore		45.28383	-74.39673	A	ADM3	CA		10	16	71015		0		57	America/Toronto	2014-01-18
+8673238	Val-Morin	Val-Morin		45.99622	-74.19806	A	ADM3	CA		10	15	78005		0		382	America/Toronto	2016-12-20
+8673241	La Visitation-de-l'Île-Dupas	La Visitation-de-l'Ile-Dupas		46.11036	-73.10699	A	ADM3	CA		10	14	52050		0		3	America/Toronto	2014-01-18
+8673243	La Reine	La Reine		48.86105	-79.4719	A	ADM3	CA		10	08	87080		0		280	America/Toronto	2016-12-20
+8673246	Bury	Bury		45.51418	-71.46487	A	ADM3	CA		10	05	41070		0		374	America/Toronto	2016-12-19
+8673249	Bolton-Est	Bolton-Est		45.20981	-72.33971	A	ADM3	CA		10	05	45095		0		290	America/Toronto	2014-01-18
+8673252	New Carlisle	New Carlisle		48.05775	-65.35037	A	ADM3	CA		10	11	05040		0		111	America/Toronto	2016-12-20
+8673254	Sainte-Sabine	Sainte-Sabine		46.49837	-70.34935	A	ADM3	CA		10	12	28065		0		504	America/Toronto	2016-12-19
+8673256	Saint-Dominique	Saint-Dominique		45.5801	-72.82998	A	ADM3	CA		10	16	54060		0		67	America/Toronto	2016-12-19
+8673258	Saint-Épiphane	Saint-Epiphane	sn-awpyfan  kbk,سن-اوپیفان، کبک,سینٹ-ایپیفنے، کیوبک	47.90286	-69.30419	A	ADM3	CA		10	01	12030		0		160	America/Toronto	2014-01-18
+8673261	Lacolle	Lacolle	lakwl  kbk,lakwly,لاكولي,لاکول، کبک	45.06038	-73.37137	A	ADM3	CA		10	16	56023		0		36	America/Toronto	2014-01-18
+8673263	Saint-Pierre-de-Lamy	Saint-Pierre-de-Lamy		47.78438	-68.99138	A	ADM3	CA		10	01	13075		0		380	America/Toronto	2014-01-18
+8673266	Saint-Camille-de-Lellis	Saint-Camille-de-Lellis		46.46038	-70.17417	A	ADM3	CA		10	12	28070		0		413	America/Toronto	2014-01-18
+8673268	Yamaska	Yamaska		46.02384	-72.93888	A	ADM3	CA		10	16	53072		0		7	America/Toronto	2016-12-19
+8673271	Lac-Poulin	Lac-Poulin		46.09866	-70.81838	A	ADM3	CA		10	12	29095		0		315	America/Toronto	2016-12-22
+8673273	Saint-Mathieu-du-Parc	Saint-Mathieu-du-Parc		46.64035	-72.95263	A	ADM3	CA		10	04	51070		0		162	America/Toronto	2016-12-20
+8673275	La Conception	La Conception		46.1674	-74.74019	A	ADM3	CA		10	15	78115		0		305	America/Toronto	2016-12-20
+8673277	Irlande	Irlande		46.06581	-71.48577	A	ADM3	CA		10	12	31040		0		288	America/Toronto	2016-12-19
+8673279	Saint-Léon-le-Grand	Saint-Leon-le-Grand		48.36892	-67.51318	A	ADM3	CA		10	01	07030		0		214	America/Toronto	2016-12-20
+8673281	Saint-Liboire	Saint-Liboire		45.65237	-72.76522	A	ADM3	CA		10	16	54072		0		74	America/Toronto	2016-12-19
+8673284	Lamarche	Lamarche		48.79091	-71.43439	A	ADM3	CA		10	02	93060		0		186	America/Toronto	2016-12-22
+8673286	Saint-Siméon	Saint-Simeon		48.11486	-65.55455	A	ADM3	CA		10	11	05055		0		75	America/Toronto	2016-12-20
+8673288	Saint-Clet	Saint-Clet		45.35051	-74.22434	A	ADM3	CA		10	16	71045		0		53	America/Toronto	2014-01-18
+8673290	Sainte-Lucie-des-Laurentides	Sainte-Lucie-des-Laurentides		46.15338	-74.19034	A	ADM3	CA		10	15	78020		0		482	America/Toronto	2016-12-20
+8673293	Hatley	Hatley		45.19637	-71.96706	A	ADM3	CA		10	05	45043		0		271	America/Toronto	2016-12-22
+8673295	Saint-Pierre-Baptiste	Saint-Pierre-Baptiste		46.21244	-71.60764	A	ADM3	CA		10	17	32050		0		272	America/Toronto	2014-01-18
+8673297	Notre-Dame-des-Bois	Notre-Dame-des-Bois		45.37664	-71.05792	A	ADM3	CA		10	05	30010		0		519	America/Toronto	2016-12-20
+8673300	Saint-Joachim-de-Shefford	Saint-Joachim-de-Shefford		45.44113	-72.52354	A	ADM3	CA		10	05	47040		0		208	America/Toronto	2024-06-14
+8673302	Blanc-Sablon	Blanc-Sablon	blan-sablwn  kbk,blwn sablwn,بلان-سابلون، کبک,بلون سابلون	51.48325	-57.22317	A	ADM3	CA		10	09	98005		0		22	America/Blanc-Sablon	2014-01-18
+8673303	Ogden	Ogden		45.04784	-72.17105	A	ADM3	CA		10	05	45020		0		270	America/Toronto	2016-12-22
+8673305	Sainte-Félicité	Sainte-Felicite		48.88267	-67.28615	A	ADM3	CA		10	01	08023		0		177	America/Toronto	2016-12-20
+8673308	Lyster	Lyster		46.38166	-71.60026	A	ADM3	CA		10	17	32065		0		139	America/Toronto	2014-01-18
+8673310	Daveluyville	Daveluyville		46.20494	-72.13762	A	ADM3	CA		10	17	39152		0		86	America/Toronto	2024-06-15
+8673311	Saint-Clément	Saint-Clement		47.91881	-69.10544	A	ADM3	CA		10	01	11005		0		270	America/Toronto	2016-12-20
+8673314	Lac-Mégantic	Lac-Megantic		45.58591	-70.88622	A	ADM3	CA		10	05	30030		0		400	America/Toronto	2016-12-27
+8673315	Albertville	Albertville		48.32226	-67.3693	A	ADM3	CA		10	01	07025		0		310	America/Toronto	2014-01-18
+8673317	Sainte-Marcelline-de-Kildare	Sainte-Marcelline-de-Kildare		46.11818	-73.62334	A	ADM3	CA		10	14	62030		0		245	America/Toronto	2014-01-18
+8673320	Champlain	Champlain	shampln  kbk,shwmblan,شامپلن، کبک,شومبلان	46.44166	-72.36524	A	ADM3	CA		10	04	37220		0		8	America/Toronto	2014-01-18
+8673322	Duhamel	Duhamel		46.05159	-75.20226	A	ADM3	CA		10	07	80135		0		283	America/Toronto	2014-01-18
+8673324	Henryville	Henryville		45.13575	-73.21609	A	ADM3	CA		10	16	56042		0		36	America/Toronto	2014-01-18
+8673327	Frelighsburg	Frelighsburg		45.04609	-72.81063	A	ADM3	CA		10	05	46010		0		157	America/Toronto	2024-06-14
+8673329	Saint-Moïse	Saint-Moise		48.53046	-67.84882	A	ADM3	CA		10	01	07095		0		341	America/Toronto	2014-01-18
+8673331	Saint-Louis-du-Ha! Ha!	Saint-Louis-du-Ha! Ha!		47.66601	-68.99758	A	ADM3	CA		10	01	13080		0		275	America/Toronto	2014-01-18
+8673333	Sacré-Coeur	Sacre-Coeur		48.24654	-69.85294	A	ADM3	CA		10	09	95010		0		124	America/Toronto	2016-12-25
+8673335	Cayamant	Cayamant		46.16842	-76.23592	A	ADM3	CA		10	07	83040		0		203	America/Toronto	2016-12-18
+8673338	Fossambault-sur-le-Lac	Fossambault-sur-le-Lac		46.88432	-71.60828	A	ADM3	CA		10	03	22010		0		191	America/Toronto	2016-12-21
+8673340	Sainte-Christine-d'Auvergne	Sainte-Christine-d'Auvergne		46.83082	-72.00802	A	ADM3	CA		10	03	34105		0		238	America/Toronto	2014-01-18
+8673343	Chazel	Chazel		48.86936	-79.05002	A	ADM3	CA		10	08	87095		0		302	America/Toronto	2016-12-25
+8673345	Martinville	Martinville		45.27651	-71.6908	A	ADM3	CA		10	05	44060		0		347	America/Toronto	2014-01-18
+8673347	Lorrainville	Lorrainville		47.36193	-79.33886	A	ADM3	CA		10	08	85037		0		224	America/Toronto	2016-12-25
+8673349	Saint-Cyprien	Saint-Cyprien		46.35073	-70.24938	A	ADM3	CA		10	12	28040		474		405	America/Toronto	2026-03-27
+8673352	Déléage	Deleage		46.37082	-75.82958	A	ADM3	CA		10	07	83070		0		270	America/Toronto	2016-12-18
+8673354	Saint-Alexandre	Saint-Alexandre		45.23034	-73.12327	A	ADM3	CA		10	16	56055		0		51	America/Toronto	2014-01-18
+8673357	Saint-Cyrille-de-Wendover	Saint-Cyrille-de-Wendover		45.9284	-72.41645	A	ADM3	CA		10	17	49070		0		89	America/Toronto	2016-12-21
+8673358	Fassett	Fassett	fast  kbk,fasyt,فاست، کبک,فاسيت	45.651	-74.83905	A	ADM3	CA		10	07	80005		0		48	America/Toronto	2014-01-18
+8673360	Saint-Théodore-d'Acton	Saint-Theodore-d'Acton		45.69325	-72.57149	A	ADM3	CA		10	16	48045		0		92	America/Toronto	2016-12-27
+8673363	Stanbridge Station	Stanbridge Station		45.11171	-73.02496	A	ADM3	CA		10	05	46030		0		49	America/Toronto	2024-06-14
+8673365	Chute-Saint-Philippe	Chute-Saint-Philippe		46.69244	-75.16688	A	ADM3	CA		10	15	79065		0		468	America/Toronto	2016-12-27
+8673367	Ormstown	Ormstown		45.11424	-73.99352	A	ADM3	CA		10	16	69037		0		39	America/Toronto	2016-12-18
+8673369	Wentworth-Nord	Wentworth-Nord		45.83982	-74.43673	A	ADM3	CA		10	15	77060		0		340	America/Toronto	2014-01-18
+8673370	Chénéville	Cheneville		45.90077	-75.01239	A	ADM3	CA		10	07	80103		0		225	America/Toronto	2014-01-18
+8673373	East Broughton	East Broughton		46.22329	-71.08151	A	ADM3	CA		10	12	31122		0		378	America/Toronto	2014-01-18
+8673375	Sainte-Anne-de-la-Rochelle	Sainte-Anne-de-la-Rochelle		45.41041	-72.41055	A	ADM3	CA		10	05	42050		0		236	America/Toronto	2016-12-28
+8673377	Saint-Augustin	Saint-Augustin		51.21742	-58.4825	A	ADM3	CA		10	09	98012		0		21	America/Blanc-Sablon	2016-12-27
+8673380	Saint-Honoré-de-Témiscouata	Saint-Honore-de-Temiscouata		47.66749	-69.17694	A	ADM3	CA		10	01	13090		0		386	America/Toronto	2016-12-26
+8673382	Brossard	Brossard	Brossar,Броссар	45.44754	-73.4543	A	ADM3	CA		10	16	58007		0		22	America/Toronto	2019-03-18
+8673384	Saint-Elzéar	Saint-Elzear		48.17914	-65.43891	A	ADM3	CA		10	11	05050		0		172	America/Toronto	2016-12-26
+8673386	Saint-Fortunat	Saint-Fortunat		45.96501	-71.60506	A	ADM3	CA		10	12	31030		0		490	America/Toronto	2016-12-18
+8673389	Sainte-Marguerite	Sainte-Marguerite		46.51038	-70.92546	A	ADM3	CA		10	12	26035		0		338	America/Toronto	2016-12-28
+8673391	Lefebvre	Lefebvre		45.71215	-72.41692	A	ADM3	CA		10	17	49020		0		119	America/Toronto	2016-12-26
+8673393	Pointe-Lebel	Pointe-Lebel	Puant-Lebel',Пуант-Лебель	49.13582	-68.24915	A	ADM3	CA		10	09	96025		0		22	America/Toronto	2019-03-18
+8673394	Saint-Sixte	Saint-Sixte		45.6942	-75.19762	A	ADM3	CA		10	07	80070		0		133	America/Toronto	2014-01-18
+8673397	Lac-des-Plages	Lac-des-Plages		46.02935	-74.94381	A	ADM3	CA		10	07	80130		0		274	America/Toronto	2014-01-18
+8673400	Sheenboro	Sheenboro		46.1253	-77.36641	A	ADM3	CA		10	07	84095		0		235	America/Toronto	2016-12-18
+8673402	Authier-Nord	Authier-Nord		48.89955	-78.84467	A	ADM3	CA		10	08	87100		0		332	America/Toronto	2016-12-26
+8673404	Saint-Amable	Saint-Amable		45.65828	-73.29943	A	ADM3	CA		10	16	59015		0		43	America/Toronto	2016-12-18
+8673406	Sainte-Cécile-de-Whitton	Sainte-Cecile-de-Whitton	sn-ssyl-dw-wytwn  kbk,سن-سسیل-دو-ویتون، کبک,سین-کیلے-دے-وہیتوں ، کیوبک	45.68092	-70.92806	A	ADM3	CA		10	05	30050		0		480	America/Toronto	2014-01-18
+8673409	Saint-Anaclet-de-Lessard	Saint-Anaclet-de-Lessard		48.44465	-68.37656	A	ADM3	CA		10	01	10030		3019		191	America/Toronto	2026-03-27
+8673411	Saint-Chrysostome	Saint-Chrysostome		45.11132	-73.76857	A	ADM3	CA		10	16	69017		0		42	America/Toronto	2016-12-18
+8673415	Saint-Jacques-le-Mineur	Saint-Jacques-le-Mineur		45.26637	-73.43166	A	ADM3	CA		10	16	68040		0		45	America/Toronto	2014-01-18
+8673417	L'Anse-Saint-Jean	L'Anse-Saint-Jean		48.11287	-70.32808	A	ADM3	CA		10	02	94210		0		754	America/Toronto	2016-12-27
+8673420	Saint-Stanislas	Saint-Stanislas		46.62505	-72.41282	A	ADM3	CA		10	04	37245		0		108	America/Toronto	2016-12-18
+8673422	Mille-Isles	Mille-Isles		45.81915	-74.209	A	ADM3	CA		10	15	76030		0		346	America/Toronto	2014-01-18
+8673425	Poularies	Poularies		48.65266	-78.97128	A	ADM3	CA		10	08	87035		0		288	America/Toronto	2016-12-20
+8673426	Témiscouata-sur-le-Lac	Temiscouata-sur-le-Lac		47.64337	-68.85638	A	ADM3	CA		10	01	13073		0		209	America/Toronto	2016-12-20
+8673427	Wickham	Wickham		45.76406	-72.49837	A	ADM3	CA		10	17	49040		0		116	America/Toronto	2016-12-20
+8673429	Notre-Dame-de-la-Salette	Notre-Dame-de-la-Salette		45.77837	-75.55022	A	ADM3	CA		10	07	80087		0		232	America/Toronto	2024-06-15
+8673431	Entrelacs	Entrelacs		46.12535	-74.00706	A	ADM3	CA		10	14	62053		0		470	America/Toronto	2016-12-18
+8673432	L'Île-d'Anticosti	L'Ile-d'Anticosti		49.48899	-63.01173	A	ADM3	CA		10	09	98020		0		183	America/Toronto	2014-01-18
+8673434	Les Cèdres	Les Cedres	lh sdr  kbk,lys sydrys,له سدر، کبک,ليس سيدريس	45.33593	-74.08881	A	ADM3	CA		10	16	71050		0		45	America/Toronto	2014-01-18
+8673435	Clarenceville	Clarenceville	Saint-Georges-de-Clarenceville	45.05012	-73.20431	A	ADM3	CA		10	16	56010		1154		45	America/Toronto	2024-06-16
+8673438	Saint-Stanislas	Saint-Stanislas		49.05056	-72.18685	A	ADM3	CA		10	02	92070		0		207	America/Toronto	2016-12-20
+8673439	Sainte-Perpétue	Sainte-Perpetue		47.07603	-69.89877	A	ADM3	CA		10	12	17030		0		374	America/Toronto	2016-12-18
+8673441	Wotton	Wotton	wwtwn  kbk,ووتون، کبک	45.75184	-71.79901	A	ADM3	CA		10	05	40017		0		258	America/Toronto	2014-01-18
+8673444	Sainte-Thècle	Sainte-Thecle		46.84179	-72.56782	A	ADM3	CA		10	04	35050		0		314	America/Toronto	2016-12-18
+8673445	Sainte-Marthe	Sainte-Marthe	snt-mart  kbk,سنت-مارت، کبک,سین-مارتھ، کیوبک	45.39907	-74.29986	A	ADM3	CA		10	16	71110		0		56	America/Toronto	2014-01-18
+8673447	Milan	Milan		45.59294	-71.14441	A	ADM3	CA		10	05	30040		0		546	America/Toronto	2016-12-18
+8673449	Saint-Alexandre-des-Lacs	Saint-Alexandre-des-Lacs		48.48015	-67.26913	A	ADM3	CA		10	01	07065		0		293	America/Toronto	2014-01-18
+8673452	Saint-Polycarpe	Saint-Polycarpe		45.30325	-74.32222	A	ADM3	CA		10	16	71020		0		52	America/Toronto	2014-01-18
+8673453	Rémigny	Remigny		47.77928	-78.97384	A	ADM3	CA		10	08	85105		0		277	America/Toronto	2016-12-26
+8673454	Péribonka	Peribonka		48.78922	-72.05455	A	ADM3	CA		10	02	92010		0		101	America/Toronto	2016-12-18
+8673456	Sainte-Marie-de-Blandford	Sainte-Marie-de-Blandford		46.33444	-72.17446	A	ADM3	CA		10	17	38015		0		81	America/Toronto	2014-01-18
+8673457	Saint-Philippe	Saint-Philippe		45.34015	-73.45862	A	ADM3	CA		10	16	67010		5495		33	America/Toronto	2016-07-01
+8673460	Notre-Dame-de-Montauban	Notre-Dame-de-Montauban		46.90281	-72.29765	A	ADM3	CA		10	04	35005		0		196	America/Toronto	2016-12-20
+8673462	Saint-Bonaventure	Saint-Bonaventure		45.95916	-72.67148	A	ADM3	CA		10	17	49125		0		48	America/Toronto	2016-12-20
+8673465	Sainte-Béatrix	Sainte-Beatrix		46.21711	-73.63734	A	ADM3	CA		10	14	62020		0		197	America/Toronto	2016-12-18
+8673467	Saint-Gabriel-de-Valcartier	Saint-Gabriel-de-Valcartier		47.044	-71.59509	A	ADM3	CA		10	03	22025		0		424	America/Toronto	2016-12-21
+8673470	Hope Town	Hope Town		48.09447	-65.18255	A	ADM3	CA		10	11	05020		0		82	America/Toronto	2016-12-20
+8673473	Saint-Alexis-de-Matapédia	Saint-Alexis-de-Matapedia		47.97991	-67.05233	A	ADM3	CA		10	11	06050		0		248	America/Toronto	2016-12-20
+8673476	Dupuy	Dupuy		48.83673	-79.36509	A	ADM3	CA		10	08	87085		0		293	America/Toronto	2016-12-20
+8673478	Stoke	Stoke		45.54897	-71.78126	A	ADM3	CA		10	05	42005		0		245	America/Toronto	2016-12-18
+8673480	Price	Price		48.60129	-68.12618	A	ADM3	CA		10	01	09065		1729		79	America/Toronto	2026-03-27
+8673481	Chertsey	Chertsey		46.12121	-73.88633	A	ADM3	CA		10	14	62047		0		268	America/Toronto	2016-12-18
+8673482	L'Île-Dorval	L'Ile-Dorval		45.43235	-73.74159	A	ADM3	CA		10	06	66092		0		28	America/Toronto	2014-01-18
+8673484	Saint-Odilon-de-Cranbourne	Saint-Odilon-de-Cranbourne		46.3519	-70.66363	A	ADM3	CA		10	12	27035		0		338	America/Toronto	2016-12-20
+8673485	Paspébiac	Paspebiac		48.10213	-65.2872	A	ADM3	CA		10	11	05032		0		147	America/Toronto	2016-12-18
+8673488	Saint-Placide	Saint-Placide		45.53349	-74.20019	A	ADM3	CA		10	15	72043		1784		39	America/Toronto	2025-03-23
+8673489	Montcalm	Montcalm		45.96944	-74.49591	A	ADM3	CA		10	15	78055		0		337	America/Toronto	2014-01-18
+8673491	Baie-du-Febvre	Baie-du-Febvre		46.15832	-72.73597	A	ADM3	CA		10	17	50100		0		5	America/Toronto	2016-12-21
+8673492	Lac-des-Seize-Îles	Lac-des-Seize-Iles		45.8997	-74.46884	A	ADM3	CA		10	15	77055		0		281	America/Toronto	2016-12-20
+8673493	Saint-Ferdinand	Saint-Ferdinand		46.10821	-71.61148	A	ADM3	CA		10	17	32013		0		306	America/Toronto	2014-01-18
+8673495	Sainte-Germaine-Boulé	Sainte-Germaine-Boule		48.59886	-79.10788	A	ADM3	CA		10	08	87030		0		277	America/Toronto	2016-12-21
+8673497	Stanbridge East	Stanbridge East		45.11322	-72.91589	A	ADM3	CA		10	05	46045		0		76	America/Toronto	2024-06-14
+8673498	Mayo	Mayo		45.68049	-75.31496	A	ADM3	CA		10	07	80065		0		190	America/Toronto	2016-12-18
+8673499	Saint-Eugène-de-Guigues	Saint-Eugene-de-Guigues		47.52584	-79.34731	A	ADM3	CA		10	08	85085		0		238	America/Toronto	2016-12-21
+8673500	Ascot Corner	Ascot Corner		45.45365	-71.76069	A	ADM3	CA		10	05	41055		0		164	America/Toronto	2016-12-20
+8673504	Batiscan	Batiscan	batyskan  kbk,batyskwn,باتيسكون,باتیسکان، کبک	46.49693	-72.26752	A	ADM3	CA		10	04	37210		0		28	America/Toronto	2014-01-18
+8673505	Sainte-Marie-Madeleine	Sainte-Marie-Madeleine		45.58419	-73.07461	A	ADM3	CA		10	16	54030		0		31	America/Toronto	2016-12-20
+8673507	Hébertville-Station	Hebertville-Station		48.43293	-71.63731	A	ADM3	CA		10	02	93025		0		158	America/Toronto	2014-01-18
+8673509	Saint-Luc-de-Vincennes	Saint-Luc-de-Vincennes		46.49005	-72.4278	A	ADM3	CA		10	04	37225		0		29	America/Toronto	2016-12-20
+8673511	La Macaza	La Macaza		46.38926	-74.73294	A	ADM3	CA		10	15	79047		0		233	America/Toronto	2016-12-20
+8673512	Manseau	Manseau		46.35262	-71.9941	A	ADM3	CA		10	17	38028		0		93	America/Toronto	2014-01-18
+8673513	Baie-Sainte-Catherine	Baie-Sainte-Catherine		48.06169	-69.78635	A	ADM3	CA		10	03	15065		0		208	America/Toronto	2016-12-20
+8673515	Estérel	Esterel		46.04648	-74.02963	A	ADM3	CA		10	15	77011		0		333	America/Toronto	2016-12-18
+8673516	Rougemont	Rougemont		45.45065	-73.05385	A	ADM3	CA		10	16	55037		0		106	America/Toronto	2016-12-18
+8673518	Saint-Noël	Saint-Noel		48.59582	-67.82769	A	ADM3	CA		10	01	07100		0		216	America/Toronto	2014-01-18
+8673521	Val-Brillant	Val-Brillant		48.51929	-67.57557	A	ADM3	CA		10	01	07080		0		231	America/Toronto	2014-01-18
+8673523	Sainte-Victoire-de-Sorel	Sainte-Victoire-de-Sorel		45.95302	-73.08007	A	ADM3	CA		10	16	53025		0		19	America/Toronto	2016-12-20
+8673524	Saint-Gédéon	Saint-Gedeon	sn-zhdywn  kbk,سن-ژدئون، کبک,سینٹ-گدوں ، کیوبک	48.511	-71.76001	A	ADM3	CA		10	02	93035		0		112	America/Toronto	2014-01-18
+8673525	Saint-Aimé-des-Lacs	Saint-Aime-des-Lacs		47.71723	-70.37572	A	ADM3	CA		10	03	15030		0		274	America/Toronto	2016-12-21
+8673527	La Bostonnais	La Bostonnais		47.54121	-72.62209	A	ADM3	CA		10	04	90017		0		432	America/Toronto	2016-12-18
+8673528	Ulverton	Ulverton		45.6955	-72.24719	A	ADM3	CA		10	05	42078		0		183	America/Toronto	2016-12-18
+8673529	Val-Saint-Gilles	Val-Saint-Gilles		48.96817	-79.11809	A	ADM3	CA		10	08	87105		0		298	America/Toronto	2016-12-21
+8673532	Lac-Sainte-Marie	Lac-Sainte-Marie		45.9698	-75.87276	A	ADM3	CA		10	07	83020		0		227	America/Toronto	2016-12-20
+8673533	Saint-André-d'Argenteuil	Saint-Andre-d'Argenteuil	Saint-Andre-dArgenteuil,Saint-André-dArgenteuil	45.57342	-74.31267	A	ADM3	CA		10	15	76008		0		50	America/Toronto	2014-01-18
+8673536	Saint-Claude	Saint-Claude		45.64408	-71.94761	A	ADM3	CA		10	05	42100		0		240	America/Toronto	2016-12-20
+8673539	Saints-Anges	Saints-Anges		46.41793	-70.87869	A	ADM3	CA		10	12	26010		0		366	America/Toronto	2016-12-18
+8673540	Howick	Howick		45.18867	-73.85204	A	ADM3	CA		10	16	69025		0		33	America/Toronto	2014-01-18
+8673542	Mont-Saint-Michel	Mont-Saint-Michel		46.81765	-75.29073	A	ADM3	CA		10	15	79110		0		260	America/Toronto	2016-12-20
+8673543	Sainte-Anne-de-Beaupré	Sainte-Anne-de-Beaupre		47.05689	-70.96457	A	ADM3	CA		10	03	21030		0		293	America/Toronto	2016-12-21
+8673544	Chesterville	Chesterville	chstrwyl  kbk,tshystrfyl,تشيسترفيل,چسترویل، کبک	45.96703	-71.78257	A	ADM3	CA		10	17	39030		0		355	America/Toronto	2014-01-18
+8673546	Saint-Roch-de-Richelieu	Saint-Roch-de-Richelieu		45.89979	-73.16868	A	ADM3	CA		10	16	53040		0		9	America/Toronto	2016-12-20
+8673548	Saint-Honoré-de-Shenley	Saint-Honore-de-Shenley		45.96616	-70.81548	A	ADM3	CA		10	12	29038		0		413	America/Toronto	2016-12-20
+8673550	Saint-François-de-l'Île-d'Orléans	Saint-Francois-de-l'Ile-d'Orleans		47.00143	-70.79708	A	ADM3	CA		10	03	20005		0		-9999	America/Toronto	2014-01-18
+8673551	Saint-Zénon	Saint-Zenon		46.53404	-73.7344	A	ADM3	CA		10	14	62080		0		591	America/Toronto	2016-12-18
+8673553	Sainte-Félicité	Sainte-Felicite		46.96497	-69.94297	A	ADM3	CA		10	12	17025		0		357	America/Toronto	2014-01-18
+8673554	Très-Saint-Rédempteur	Tres-Saint-Redempteur	trh-sn-rdamptwr  kbk,تره-سن-ردامپتور، کبک	45.43278	-74.37674	A	ADM3	CA		10	16	71125		0		67	America/Toronto	2014-01-18
+8673556	Hampstead	Hampstead	Khampsted,Khehmpsted,amstd,hampstyd  kbk,Хампстед,Хэмпстед,آمستد,هامپستید، کبک,ہیمپسٹڈ	45.48093	-73.64554	A	ADM3	CA		10	06	66062		0		51	America/Toronto	2019-03-26
+8673557	Saint-Donat	Saint-Donat		46.32254	-74.22795	A	ADM3	CA		10	14	62060		0		401	America/Toronto	2016-12-22
+8673559	Rigaud	Rigaud	rygw  kbk,ریگو، کبک	45.47698	-74.31555	A	ADM3	CA		10	16	71133		0		39	America/Toronto	2014-01-18
+8673563	Sainte-Hélène-de-Bagot	Sainte-Helene-de-Bagot		45.73526	-72.7387	A	ADM3	CA		10	16	54095		0		68	America/Toronto	2016-12-20
+8673564	Saint-Marcel-de-Richelieu	Saint-Marcel-de-Richelieu		45.85617	-72.89359	A	ADM3	CA		10	16	54125		0		31	America/Toronto	2014-01-18
+8673565	Saint-Fabien-de-Panet	Saint-Fabien-de-Panet		46.66942	-70.15537	A	ADM3	CA		10	12	18015		945		451	America/Toronto	2026-03-27
+8673567	Saint-Jean-de-Matha	Saint-Jean-de-Matha		46.24698	-73.53317	A	ADM3	CA		10	14	62015		0		214	America/Toronto	2016-12-20
+8673568	Taschereau	Taschereau		48.62813	-78.76341	A	ADM3	CA		10	08	87042		0		304	America/Toronto	2016-12-20
+8673573	Saint-Hugues	Saint-Hugues		45.79521	-72.8395	A	ADM3	CA		10	16	54100		0		31	America/Toronto	2016-12-22
+8673576	Preissac	Preissac		48.38204	-78.41629	A	ADM3	CA		10	08	88090		0		290	America/Toronto	2016-12-26
+8673580	Cacouna	Cacouna		47.95144	-69.52893	A	ADM3	CA		10	01	12057		0		-9999	America/Toronto	2016-12-22
+8673581	Saint-Joseph-de-Kamouraska	Saint-Joseph-de-Kamouraska		47.58894	-69.6076	A	ADM3	CA		10	01	14030		0		164	America/Toronto	2016-12-26
+8673585	Saint-François-de-Sales	Saint-Francois-de-Sales		48.33138	-72.21444	A	ADM3	CA		10	02	91015		0		303	America/Toronto	2016-12-26
+8673587	Saint-Joseph-du-Lac	Saint-Joseph-du-Lac		45.53238	-74.01686	A	ADM3	CA		10	15	72025		0		168	America/Toronto	2016-12-26
+8673588	Saint-Célestin	Saint-Celestin		46.21491	-72.435	A	ADM3	CA		10	17	50030		0		57	America/Toronto	2016-12-26
+8673590	Saint-Félix-de-Kingsey	Saint-Felix-de-Kingsey		45.79063	-72.18579	A	ADM3	CA		10	17	49005		0		167	America/Toronto	2016-12-21
+8673591	Saint-Damase	Saint-Damase		45.52058	-73.01262	A	ADM3	CA		10	16	54017		0		34	America/Toronto	2016-12-22
+8673592	Béthanie	Bethanie		45.50972	-72.42542	A	ADM3	CA		10	16	48005		0		173	America/Toronto	2016-12-22
+8673594	Saint-Venant-de-Paquette	Saint-Venant-de-Paquette		45.13317	-71.49145	A	ADM3	CA		10	05	44005		0		511	America/Toronto	2014-01-18
+8673595	Shawville	Shawville		45.60881	-76.49557	A	ADM3	CA		10	07	84010		0		185	America/Toronto	2016-12-22
+8673596	Saint-Bernard-de-Michaudville	Saint-Bernard-de-Michaudville		45.82242	-73.06716	A	ADM3	CA		10	16	54115		0		27	America/Toronto	2016-12-26
+8673598	Maricourt	Maricourt		45.55857	-72.31496	A	ADM3	CA		10	05	42065		0		215	America/Toronto	2016-12-22
+8673601	Sainte-Sophie	Sainte-Sophie		45.8307	-73.91939	A	ADM3	CA		10	15	75028		0		96	America/Toronto	2016-12-26
+8673605	Rapide-Danseur	Rapide-Danseur		48.53608	-79.31555	A	ADM3	CA		10	08	87010		0		287	America/Toronto	2014-01-18
+8673607	Saint-Joseph-de-Sorel	Saint-Joseph-de-Sorel		46.04672	-73.13622	A	ADM3	CA		10	16	53050		0		21	America/Toronto	2016-12-26
+8673608	Saint-Benoît-du-Lac	Saint-Benoit-du-Lac		45.16727	-72.2644	A	ADM3	CA		10	05	45080		0		226	America/Toronto	2016-12-26
+8673609	Durham-Sud	Durham-Sud		45.65013	-72.32683	A	ADM3	CA		10	17	49015		0		192	America/Toronto	2016-12-26
+8673611	Saint-Armand	Saint-Armand		45.04543	-73.00671	A	ADM3	CA		10	05	46017		0		87	America/Toronto	2024-06-14
+8673612	Deschaillons-sur-Saint-Laurent	Deschaillons-sur-Saint-Laurent		46.54309	-72.1086	A	ADM3	CA		10	17	38070		0		43	America/Toronto	2014-01-18
+8673614	Saint-Germain-de-Grantham	Saint-Germain-de-Grantham		45.83036	-72.59338	A	ADM3	CA		10	17	49048		0		86	America/Toronto	2016-12-21
+8673615	Dixville	Dixville		45.0554	-71.75016	A	ADM3	CA		10	05	44023		0		498	America/Toronto	2014-01-18
+8673616	Bonsecours	Bonsecours		45.41076	-72.28987	A	ADM3	CA		10	05	42040		0		339	America/Toronto	2016-12-22
+8673618	Rivière-Beaudette	Riviere-Beaudette		45.21929	-74.32834	A	ADM3	CA		10	16	71005		0		49	America/Toronto	2014-01-18
+8673619	Roxton Pond	Roxton Pond		45.47812	-72.6373	A	ADM3	CA		10	05	47047		0		132	America/Toronto	2024-06-14
+8673621	Sainte-Jeanne-d'Arc	Sainte-Jeanne-d'Arc		48.46797	-67.98208	A	ADM3	CA		10	01	09020		0		197	America/Toronto	2016-12-26
+8673622	Kamouraska	Kamouraska		47.57916	-69.90067	A	ADM3	CA		10	01	14050		0		-9999	America/Toronto	2016-12-22
+8673623	Esprit-Saint	Esprit-Saint		48.04756	-68.53233	A	ADM3	CA		10	01	10005		340		274	America/Toronto	2026-03-25
+8673625	Saint-Cyrille-de-Lessard	Saint-Cyrille-de-Lessard	sn-syryl-dw-lasar  kbk,سن-سیریل-دو-لاسار، کبک,سینٹ-کیریلے-دے-لیسسرد، کیوبک	47.0187	-70.20259	A	ADM3	CA		10	12	17045		0		392	America/Toronto	2014-01-18
+8673626	Messines	Messines		46.26657	-76.05477	A	ADM3	CA		10	07	83060		0		165	America/Toronto	2016-12-22
+8673628	Sainte-Émélie-de-l'Énergie	Sainte-Emelie-de-l'Energie		46.33761	-73.68769	A	ADM3	CA		10	14	62070		0		489	America/Toronto	2016-12-26
+8673629	Eastman	Eastman		45.33411	-72.30439	A	ADM3	CA		10	05	45093		0		276	America/Toronto	2016-12-22
+8673630	Saint-Dominique-du-Rosaire	Saint-Dominique-du-Rosaire		48.82577	-78.0149	A	ADM3	CA		10	08	88065		0		315	America/Toronto	2023-09-29
+8673636	Dosquet	Dosquet		46.46293	-71.53702	A	ADM3	CA		10	12	33040		0		131	America/Toronto	2016-12-22
+8673638	Saint-Ubalde	Saint-Ubalde		46.78431	-72.2738	A	ADM3	CA		10	03	34090		0		117	America/Toronto	2016-12-26
+8673639	Saint-Robert-Bellarmin	Saint-Robert-Bellarmin		45.74029	-70.52727	A	ADM3	CA		10	05	30070		0		472	America/Toronto	2016-12-26
+8673640	La Visitation-de-Yamaska	La Visitation-de-Yamaska		46.11313	-72.59949	A	ADM3	CA		10	17	50085		0		47	America/Toronto	2016-12-21
+8673642	Notre-Dame-de-la-Merci	Notre-Dame-de-la-Merci		46.24798	-74.03306	A	ADM3	CA		10	14	62055		0		403	America/Toronto	2016-12-26
+8673643	Notre-Dame-de-Lourdes	Notre-Dame-de-Lourdes		46.31504	-71.82396	A	ADM3	CA		10	17	32080		0		118	America/Toronto	2016-12-22
+8673644	Saint-Pierre-de-la-Rivière-du-Sud	Saint-Pierre-de-la-Riviere-du-Sud		46.88941	-70.59623	A	ADM3	CA		10	12	18055		0		192	America/Toronto	2016-12-22
+8673646	Saint-Denis-sur-Richelieu	Saint-Denis-sur-Richelieu		45.75284	-73.13049	A	ADM3	CA		10	16	57068		0		16	America/Toronto	2016-12-26
+8673647	Lac-des-Aigles	Lac-des-Aigles		47.99797	-68.67748	A	ADM3	CA		10	01	13060		0		172	America/Toronto	2014-01-18
+8673648	Armagh	Armagh		46.74683	-70.57576	A	ADM3	CA		10	12	19037		0		321	America/Toronto	2016-12-22
+8673650	Pierreville	Pierreville		46.11202	-72.83627	A	ADM3	CA		10	17	50113		0		9	America/Toronto	2016-12-26
+8673651	Sainte-Gertrude-Manneville	Sainte-Gertrude-Manneville		48.52233	-78.4478	A	ADM3	CA		10	08	88085		0		308	America/Toronto	2016-12-22
+8673652	Saint-Guillaume	Saint-Guillaume		45.87737	-72.7737	A	ADM3	CA		10	17	49113		0		39	America/Toronto	2016-12-26
+8673654	Saint-Jean-de-Dieu	Saint-Jean-de-Dieu		48.00429	-69.00933	A	ADM3	CA		10	01	11010		0		186	America/Toronto	2016-12-26
+8673655	Saint-Urbain-Premier	Saint-Urbain-Premier		45.20947	-73.73399	A	ADM3	CA		10	16	70005		0		52	America/Toronto	2014-01-18
+8673656	Laforce	Laforce		47.584	-78.62831	A	ADM3	CA		10	08	85070		0		264	America/Toronto	2016-12-26
+8673661	La Pêche	La Peche		45.70344	-76.06175	A	ADM3	CA		10	07	82035		0		253	America/Toronto	2016-12-22
+8673663	L'Avenir	L'Avenir		45.75296	-72.30765	A	ADM3	CA		10	17	49025		0		173	America/Toronto	2014-01-18
+8673664	Petite-Vallée	Petite-Vallee		49.18862	-65.00615	A	ADM3	CA		10	11	03015		0		285	America/Toronto	2016-12-26
+8673666	Saint-Joseph-de-Coleraine	Saint-Joseph-de-Coleraine		45.98964	-71.32609	A	ADM3	CA		10	12	31045		0		319	America/Toronto	2014-01-18
+8673667	Saint-Charles-Borromée	Saint-Charles-Borromee		46.04626	-73.48104	A	ADM3	CA		10	14	61035		0		76	America/Toronto	2016-12-26
+8673668	Saint-Denis-De La Bouteillerie	Saint-Denis-De La Bouteillerie	Saint-Denis,Saint-Denis-de-Kamouraska	47.50329	-69.93793	A	ADM3	CA		10	01	14055		0		28	America/Toronto	2017-04-03
+8673669	Saint-Siméon	Saint-Simeon		47.90736	-69.88491	A	ADM3	CA		10	03	15058		0		130	America/Toronto	2016-12-26
+8673672	Fugèreville	Fugereville		47.38609	-79.16423	A	ADM3	CA		10	08	85055		0		289	America/Toronto	2016-12-26
+8673674	Saint-Bruno-de-Kamouraska	Saint-Bruno-de-Kamouraska		47.45516	-69.69453	A	ADM3	CA		10	01	14010		0		243	America/Toronto	2016-12-26
+8673675	L'Ascension	L'Ascension		46.56189	-74.80547	A	ADM3	CA		10	15	79050		0		272	America/Toronto	2014-01-18
+8673676	Saint-Calixte	Saint-Calixte		45.95579	-73.87296	A	ADM3	CA		10	14	63055		0		291	America/Toronto	2014-01-18
+8673678	L'Isle-Verte	L'Isle-Verte		48.0393	-69.33324	A	ADM3	CA		10	01	12043		0		-9999	America/Toronto	2016-12-26
+8673680	Saint-Jude	Saint-Jude		45.78369	-72.99849	A	ADM3	CA		10	16	54110		0		30	America/Toronto	2016-12-22
+8673681	Saint-Charles-sur-Richelieu	Saint-Charles-sur-Richelieu	sn-sharl-swr-ryshwlyw  kbk,سن-شارل-سور-ریشولیو، کبک,سینٹ-چارلس-سر-ریچلیو، کیوبک	45.65846	-73.15191	A	ADM3	CA		10	16	57057		0		37	America/Toronto	2014-01-18
+8673683	Lemieux	Lemieux		46.29782	-72.09319	A	ADM3	CA		10	17	38020		0		87	America/Toronto	2014-01-18
+8673685	Nominingue	Nominingue		46.38534	-75.07939	A	ADM3	CA		10	15	79030		0		322	America/Toronto	2016-12-22
+8673687	Saint-Alphonse-Rodriguez	Saint-Alphonse-Rodriguez		46.1775	-73.7067	A	ADM3	CA		10	14	62025		0		285	America/Toronto	2016-12-27
+8673690	Grandes-Piles	Grandes-Piles		46.74283	-72.68353	A	ADM3	CA		10	04	35040		0		289	America/Toronto	2016-12-19
+8673691	Saint-Rémi-de-Tingwick	Saint-Remi-de-Tingwick		45.86965	-71.82942	A	ADM3	CA		10	17	39020		474		399	America/Toronto	2016-07-01
+8673692	Saint-Gédéon-de-Beauce	Saint-Gedeon-de-Beauce	sn-zhdywn-dw-bws  kbk,سن-ژدئون-دو-بوس، کبک,سینٹ-گدوں -دے-بوکے، کیوبک	45.84754	-70.63537	A	ADM3	CA		10	12	29013		0		282	America/Toronto	2014-01-18
+8673694	Stanstead-Est	Stanstead-Est		45.08982	-72.04903	A	ADM3	CA		10	05	44050		0		317	America/Toronto	2016-12-27
+8673697	Dudswell	Dudswell		45.61232	-71.59664	A	ADM3	CA		10	05	41117		0		218	America/Toronto	2014-01-18
+8673700	Saint-Philippe-de-Néri	Saint-Philippe-de-Neri		47.4675	-69.882	A	ADM3	CA		10	01	14060		0		42	America/Toronto	2016-12-27
+8673701	Valcourt	Valcourt		45.49632	-72.31549	A	ADM3	CA		10	05	42055		0		212	America/Toronto	2023-09-29
+8673702	Gallichan	Gallichan		48.6189	-79.28655	A	ADM3	CA		10	08	87020		0		274	America/Toronto	2016-12-27
+8673704	Saint-Adolphe-d'Howard	Saint-Adolphe-d'Howard		45.95395	-74.35302	A	ADM3	CA		10	15	77065		0		446	America/Toronto	2014-01-18
+8673705	Saint-Sébastien	Saint-Sebastien		45.14798	-73.13637	A	ADM3	CA		10	16	56050		0		34	America/Toronto	2016-12-19
+8673706	Saint-Sébastien	Saint-Sebastien		45.79614	-70.95902	A	ADM3	CA		10	05	30085		0		462	America/Toronto	2016-12-27
+8673708	Blue Sea	Blue Sea		46.19133	-76.08263	A	ADM3	CA		10	07	83045		0		203	America/Toronto	2016-12-19
+8673709	East Hereford	East Hereford		45.06944	-71.53414	A	ADM3	CA		10	05	44010		0		505	America/Toronto	2014-01-18
+8673710	Labrecque	Labrecque		48.69863	-71.49285	A	ADM3	CA		10	02	93055		0		165	America/Toronto	2016-12-19
+8673713	Port-Cartier	Port-Cartier		49.86253	-67.11414	A	ADM3	CA		10	09	97022		0		84	America/Toronto	2016-12-20
+8673717	Havre-Saint-Pierre	Havre-Saint-Pierre		50.37897	-63.43343	A	ADM3	CA		10	09	98040		0		49	America/Toronto	2016-12-20
+8673718	Donnacona	Donnacona		46.67521	-71.70624	A	ADM3	CA		10	03	34025		0		52	America/Toronto	2016-12-20
+8673719	Mont-Laurier	Mont-Laurier		46.56187	-75.59987	A	ADM3	CA		10	15	79088		0		252	America/Toronto	2016-12-20
+8673720	Saint-Hilarion	Saint-Hilarion		47.58007	-70.40571	A	ADM3	CA		10	03	16050		0		364	America/Toronto	2016-12-20
+8673723	Warwick	Warwick	Vorik,Vorvik,warwyk  kbk,Ворвік,Ворик,وارویک، کبک	45.95641	-72.00043	A	ADM3	CA		10	17	39077		0		127	America/Toronto	2014-01-18
+8673727	Gaspé	Gaspe		48.89127	-64.48564	A	ADM3	CA		10	11	03005		0		107	America/Toronto	2016-12-22
+8673728	Saint-Pierre	Saint-Pierre		46.01299	-73.48196	A	ADM3	CA		10	14	61020		0		54	America/Toronto	2016-12-19
+8673729	Saint-Hyacinthe	Saint-Hyacinthe	Gorad Sen-Iasent,Sent Ijasent,Sent-Iasent,san hyasnt,sn-ayysnt  kbk,Горад Сен-Іасент,Сент Ијасент,Сент-Іасент,Сент-Иасент,سان هياسنت,سن-اییسنت، کبک,سینٹ-حیاکنٹھے، کیوبک	45.63602	-72.93937	A	ADM3	CA		10	16	54048		0		29	America/Toronto	2014-01-18
+8673731	Sayabec	Sayabec		48.58911	-67.68367	A	ADM3	CA		10	01	07085		0		251	America/Toronto	2016-12-19
+8673734	Saint-Léon-de-Standon	Saint-Leon-de-Standon		46.46952	-70.62168	A	ADM3	CA		10	12	19020		0		294	America/Toronto	2016-12-20
+8673735	Saint-Félix-de-Valois	Saint-Felix-de-Valois		46.17288	-73.42913	A	ADM3	CA		10	14	62007		0		132	America/Toronto	2016-12-20
+8673736	Vaudreuil-sur-le-Lac	Vaudreuil-sur-le-Lac		45.42551	-74.03636	A	ADM3	CA		10	16	71090		0		19	America/Toronto	2016-12-27
+8673738	Otterburn Park	Otterburn Park		45.53867	-73.20893	A	ADM3	CA		10	16	57030		0		17	America/Toronto	2016-12-22
+8673739	Val-d'Or	Val-d'Or		47.97863	-77.67135	A	ADM3	CA		10	08	89008		0		329	America/Toronto	2016-12-26
+8673740	Farnham	Farnham	Farnam,Farnem,farnam  kbk,farnham,Фарнам,Фарнем,فارنام، کبک,فارنهام,فارنہیم	45.27898	-72.96126	A	ADM3	CA		10	05	46112		0		65	America/Toronto	2024-06-14
+8673743	Matagami	Matagami		49.74998	-77.64062	A	ADM3	CA		10	10	99015		0		256	America/Toronto	2016-12-19
+8673744	Albanel	Albanel		48.91492	-72.39511	A	ADM3	CA		10	02	92030		0		164	America/Toronto	2016-12-19
+8673745	Beaumont	Beaumont	bwmwn,bwmwn  kbk,بومون,بومون، کبک	46.81842	-70.98557	A	ADM3	CA		10	12	19105		0		87	America/Toronto	2014-01-18
+8673746	Lac-Bouchette	Lac-Bouchette		48.13735	-72.16173	A	ADM3	CA		10	02	91005		0		417	America/Toronto	2016-12-20
+8673748	Saint-Anselme	Saint-Anselme		46.62929	-70.98348	A	ADM3	CA		10	12	19062		0		144	America/Toronto	2016-12-19
+8673749	Girardville	Girardville		49.01896	-72.55125	A	ADM3	CA		10	02	92055		0		180	America/Toronto	2014-01-18
+8673750	Saint-Michel	Saint-Michel		45.23178	-73.5762	A	ADM3	CA		10	16	68050		0		62	America/Toronto	2014-01-18
+8673753	Cap-Saint-Ignace	Cap-Saint-Ignace		46.97602	-70.37984	A	ADM3	CA		10	12	18045		0		336	America/Toronto	2016-12-20
+8673758	Bonaventure	Bonaventure	Bonavantir,bwnafntwr,bwnawntwr  kbk,bwnaywnchr,Бонавантир,بونأفنتور,بوناونتور، کبک,بونایونچر	48.06534	-65.45507	A	ADM3	CA		10	11	05045		0		27	America/Toronto	2014-01-18
+8673759	Val-Joli	Val-Joli		45.57648	-71.96708	A	ADM3	CA		10	05	42095		0		208	America/Toronto	2016-12-20
+8673760	Rivière-Héva	Riviere-Heva		48.14974	-78.23952	A	ADM3	CA		10	08	89010		0		375	America/Toronto	2016-12-20
+8673762	Notre-Dame-de-Lorette	Notre-Dame-de-Lorette		49.09262	-72.39679	A	ADM3	CA		10	02	92060		0		202	America/Toronto	2016-12-20
+8673763	Saint-Théophile	Saint-Theophile		45.91936	-70.41131	A	ADM3	CA		10	12	29005		0		392	America/Toronto	2016-12-19
+8673765	Ville-Marie	Ville-Marie		47.32989	-79.45831	A	ADM3	CA		10	08	85025		0		175	America/Toronto	2016-12-20
+8673766	Chute-aux-Outardes	Chute-aux-Outardes		49.12567	-68.39568	A	ADM3	CA		10	09	96035		0		52	America/Toronto	2016-12-20
+8673767	Lawrenceville	Lawrenceville		45.43362	-72.34675	A	ADM3	CA		10	05	42045		0		211	America/Toronto	2016-12-19
+8673768	Saint-Constant	Saint-Constant		45.34894	-73.59101	A	ADM3	CA		10	16	67035		0		34	America/Toronto	2016-12-22
+8673770	Mont-Saint-Grégoire	Mont-Saint-Gregoire		45.32848	-73.14896	A	ADM3	CA		10	16	56097		0		45	America/Toronto	2014-01-18
+8673773	Saint-Ludger	Saint-Ludger		45.72092	-70.67433	A	ADM3	CA		10	05	30072		0		385	America/Toronto	2016-12-20
+8673775	Saint-Malo	Saint-Malo		45.19965	-71.50824	A	ADM3	CA		10	05	44003		0		493	America/Toronto	2016-12-20
+8673777	Sainte-Anne-des-Plaines	Sainte-Anne-des-Plaines		45.76201	-73.82081	A	ADM3	CA		10	15	73035		0		59	America/Toronto	2016-12-20
+8673778	Neuville	Neuville		46.71375	-71.61384	A	ADM3	CA		10	03	34007		0		73	America/Toronto	2016-12-20
+8673779	Brownsburg-Chatham	Brownsburg-Chatham	Braunsburg-Chatam,brawnsbrgh-tshatam,brawnsbwrg-shatam  kbk,Браунсбург-Чатам,براؤنزبرگ چاتھم,براونسبرغ-تشاتام,براونسبورگ-شاتام، کبک	45.67166	-74.4462	A	ADM3	CA		10	15	76043		0		118	America/Toronto	2014-01-18
+8673780	Vaudreuil-Dorion	Vaudreuil-Dorion		45.40111	-74.06271	A	ADM3	CA		10	16	71083		0		25	America/Toronto	2016-12-22
+8673782	Mascouche	Mascouche		45.76604	-73.61067	A	ADM3	CA		10	14	64015		0		20	America/Toronto	2016-12-22
+8673784	Richmond	Richmond	Richmond,rychmwnd  kbk,Ричмонд,ریچموند، کبک	45.66262	-72.14036	A	ADM3	CA		10	05	42098		0		132	America/Toronto	2019-02-13
+8673785	Belleterre	Belleterre		47.3695	-78.73787	A	ADM3	CA		10	08	85065		0		316	America/Toronto	2016-12-20
+8673786	Pohénégamook	Pohenegamook		47.51633	-69.26568	A	ADM3	CA		10	01	13095		0		308	America/Toronto	2016-12-22
+8673788	Normandin	Normandin		48.82899	-72.55036	A	ADM3	CA		10	02	92040		0		149	America/Toronto	2014-01-18
+8673789	Prévost	Prevost		45.86276	-74.05936	A	ADM3	CA		10	15	75040		0		178	America/Toronto	2016-12-22
+8673790	Notre-Dame-de-Pontmain	Notre-Dame-de-Pontmain		46.27858	-75.6775	A	ADM3	CA		10	15	79010		0		329	America/Toronto	2016-12-20
+8673792	Saint-Bruno	Saint-Bruno		48.47352	-71.62522	A	ADM3	CA		10	02	93030		0		148	America/Toronto	2014-01-18
+8673794	Berthierville	Berthierville		46.08226	-73.18732	A	ADM3	CA		10	14	52035		0		9	America/Toronto	2016-12-22
+8673796	Audet	Audet		45.63843	-70.71593	A	ADM3	CA		10	05	30055		0		528	America/Toronto	2016-12-22
+8673797	Ripon	Ripon		45.78862	-75.13973	A	ADM3	CA		10	07	80078		0		341	America/Toronto	2014-01-18
+8673800	Saint-Pamphile	Saint-Pamphile		46.96352	-69.8082	A	ADM3	CA		10	12	17010		0		385	America/Toronto	2016-12-19
+8673806	Sainte-Julie	Sainte-Julie		45.59995	-73.32943	A	ADM3	CA		10	16	59010		0		42	America/Toronto	2016-12-19
+8673810	Stukely-Sud	Stukely-Sud		45.34231	-72.40993	A	ADM3	CA		10	05	45105		0		246	America/Toronto	2016-12-20
+8673811	Danville	Danville		45.77194	-72.01734	A	ADM3	CA		10	05	40047		0		189	America/Toronto	2016-12-19
+8673812	Dolbeau-Mistassini	Dolbeau-Mistassini		48.82669	-72.21793	A	ADM3	CA		10	02	92022		0		123	America/Toronto	2016-12-20
+8673815	Piedmont	Piedmont		45.90236	-74.11299	A	ADM3	CA		10	15	77030		0		266	America/Toronto	2016-12-19
+8673816	Sainte-Marthe-sur-le-Lac	Sainte-Marthe-sur-le-Lac		45.52749	-73.93632	A	ADM3	CA		10	15	72015		0		26	America/Toronto	2016-12-26
+8673818	Waterville	Waterville		45.30256	-71.87167	A	ADM3	CA		10	05	44080		0		215	America/Toronto	2016-12-22
+8673819	Dorval	Dorval		45.45153	-73.75098	A	ADM3	CA		10	06	66087		0		27	America/Toronto	2016-12-22
+8673820	Saint-Pascal	Saint-Pascal	Sen Paskal,sn-paskal  kbk,Сен Паскал,سن-پاسکال، کبک,سینٹ-پاسکل، کیوبک	47.52623	-69.78325	A	ADM3	CA		10	01	14018		0		132	America/Toronto	2014-01-18
+8673822	Mercier	Mercier		45.30793	-73.74189	A	ADM3	CA		10	16	67045		0		44	America/Toronto	2016-12-19
+8673823	Sainte-Angèle-de-Prémont	Sainte-Angele-de-Premont		46.37427	-73.0646	A	ADM3	CA		10	04	51055		0		168	America/Toronto	2014-01-18
+8673824	Trois-Rives	Trois-Rives		46.99541	-72.76646	A	ADM3	CA		10	04	35055		0		362	America/Toronto	2016-12-19
+8673826	Saint-Lazare-de-Bellechasse	Saint-Lazare-de-Bellechasse		46.64879	-70.77027	A	ADM3	CA		10	12	19050		0		325	America/Toronto	2016-12-20
+8673827	Saint-Marc-des-Carrières	Saint-Marc-des-Carrieres	Saint-Marc-des-Carrieres,Saint-Marc-des-Carrières	46.67621	-72.04192	A	ADM3	CA		10	03	34065		0		43	America/Toronto	2018-10-26
+8673828	Lac-Beauport	Lac-Beauport		46.97997	-71.29462	A	ADM3	CA		10	03	22040		0		269	America/Toronto	2014-01-18
+8673830	Montcerf-Lytton	Montcerf-Lytton		46.58613	-76.07971	A	ADM3	CA		10	07	83088		0		221	America/Toronto	2016-12-19
+8673831	Amos	Amos		48.61593	-78.00765	A	ADM3	CA		10	08	88055		0		311	America/Toronto	2016-12-20
+8673832	Côte-Saint-Luc	Cote-Saint-Luc		45.46881	-73.66722	A	ADM3	CA		10	06	66058		0		47	America/Toronto	2016-12-20
+8673834	Sainte-Madeleine	Sainte-Madeleine		45.59566	-73.09484	A	ADM3	CA		10	16	54025		0		33	America/Toronto	2016-12-19
+8673835	Beauharnois	Beauharnois	Boarnua,Боарнуа	45.2943	-73.88454	A	ADM3	CA		10	16	70022		0		37	America/Toronto	2019-03-18
+8673837	Sutton	Sutton		45.09097	-72.57902	A	ADM3	CA		10	05	46058		0		427	America/Toronto	2024-06-14
+8673838	Saint-Albert	Saint-Albert		45.99469	-72.10169	A	ADM3	CA		10	17	39085		0		112	America/Toronto	2014-01-18
+8673839	La Prairie	La Prairie		45.40424	-73.45731	A	ADM3	CA		10	16	67015		0		16	America/Toronto	2016-12-22
+8673843	Baie-D'Urfé	Baie-D'Urfe		45.41454	-73.91467	A	ADM3	CA		10	06	66112		0		38	America/Toronto	2016-12-20
+8673846	Windsor	Windsor		45.57038	-71.99646	A	ADM3	CA		10	05	42088		0		174	America/Toronto	2016-12-22
+8673847	Chapais	Chapais		49.78469	-74.82522	A	ADM3	CA		10	10	99020		0		388	America/Toronto	2016-12-22
+8673848	Disraeli	Disraeli		45.89532	-71.34567	A	ADM3	CA		10	12	31015		0		252	America/Toronto	2016-12-22
+8673850	Saint-Henri-de-Taillon	Saint-Henri-de-Taillon		48.68376	-71.8199	A	ADM3	CA		10	02	93070		0		129	America/Toronto	2016-12-20
+8673854	Tadoussac	Tadoussac		48.13966	-69.60946	A	ADM3	CA		10	09	95005		0		-9999	America/Toronto	2016-12-20
+8673855	Petit-Saguenay	Petit-Saguenay		48.16276	-70.03656	A	ADM3	CA		10	02	94205		0		140	America/Toronto	2014-01-18
+8673856	Sainte-Anne-des-Monts	Sainte-Anne-des-Monts		49.11	-66.41742	A	ADM3	CA		10	11	04037		0		320	America/Toronto	2016-12-20
+8673858	Val-des-Sources	Val-des-Sources	Asbestos	45.77282	-71.94609	A	ADM3	CA		10	05	40043		0		99	America/Toronto	2024-06-11
+8673859	Saint-Paulin	Saint-Paulin		46.42774	-73.03416	A	ADM3	CA		10	04	51060		0		153	America/Toronto	2016-12-19
+8673860	Bowman	Bowman		45.91445	-75.67648	A	ADM3	CA		10	07	80145		0		258	America/Toronto	2016-12-19
+8673861	Saint-Nazaire	Saint-Nazaire		48.58918	-71.53426	A	ADM3	CA		10	02	93045		0		128	America/Toronto	2016-12-20
+8673863	Saint-Raymond	Saint-Raymond		46.99242	-71.8591	A	ADM3	CA		10	03	34128		0		296	America/Toronto	2016-12-20
+8673864	La Tuque	La Tuque		48.06384	-74.05047	A	ADM3	CA		10	04	90012		0		549	America/Toronto	2016-12-25
+8673866	Waterloo	Waterloo		45.33673	-72.52796	A	ADM3	CA		10	05	47025		0		205	America/Toronto	2024-06-14
+8673867	Mont-Saint-Pierre	Mont-Saint-Pierre		49.19191	-65.7945	A	ADM3	CA		10	11	04015		0		503	America/Toronto	2016-12-20
+8673869	Charette	Charette		46.44075	-72.92493	A	ADM3	CA		10	04	51080		0		126	America/Toronto	2016-12-19
+8673870	Clerval	Clerval		48.73637	-79.44374	A	ADM3	CA		10	08	87075		0		269	America/Toronto	2014-01-18
+8673871	Rivière-au-Tonnerre	Riviere-au-Tonnerre		50.32471	-65.06816	A	ADM3	CA		10	09	98055		0		87	America/Toronto	2016-12-20
+8673873	Venise-en-Québec	Venise-en-Quebec		45.07734	-73.14305	A	ADM3	CA		10	16	56005		0		28	America/Toronto	2016-12-20
+8673874	Godbout	Godbout		49.37281	-67.58231	A	ADM3	CA		10	09	96010		0		207	America/Toronto	2016-12-26
+8673876	Cookshire-Eaton	Cookshire-Eaton	Kukshir-Iton,kwkshayr aytwn,kwkshayr-aytwn  kbk,Кукшир-Итон,كوكشاير ايتون,کوکشائر ایٹن,کوکشایر-ایتون، کبک	45.37295	-71.67207	A	ADM3	CA		10	05	41038		0		311	America/Toronto	2014-01-18
+8673877	Maskinongé	Maskinonge	maskynwnjyh,maskynwnzhh  kbk,ماسكينونجيه,ماسکینونژه، کبک	46.20887	-73.03127	A	ADM3	CA		10	04	51008		0		7	America/Toronto	2014-01-18
+8673878	Saint-Casimir	Saint-Casimir		46.66924	-72.15204	A	ADM3	CA		10	03	34078		0		35	America/Toronto	2016-12-26
+8673880	Notre-Dame-de-l'Île-Perrot	Notre-Dame-de-l'Ile-Perrot		45.37104	-73.89962	A	ADM3	CA		10	16	71065		0		25	America/Toronto	2014-01-18
+8673881	Château-Richer	Chateau-Richer		46.99802	-71.04316	A	ADM3	CA		10	03	21035		0		294	America/Toronto	2024-06-18
+8673882	Sainte-Jeanne-d'Arc	Sainte-Jeanne-d'Arc		48.90648	-72.01754	A	ADM3	CA		10	02	92015		0		154	America/Toronto	2016-12-26
+8673884	Saint-Célestin	Saint-Celestin		46.20595	-72.4073	A	ADM3	CA		10	17	50035		0		56	America/Toronto	2016-12-26
+8673885	Lebel-sur-Quévillon	Lebel-sur-Quevillon		49.03883	-77.00386	A	ADM3	CA		10	10	99005		0		294	America/Toronto	2016-12-26
+8673886	Pointe-aux-Outardes	Pointe-aux-Outardes		49.09271	-68.37305	A	ADM3	CA		10	09	96030		0		26	America/Toronto	2016-12-26
+8673889	Terrebonne	Terrebonne		45.73244	-73.6844	A	ADM3	CA		10	14	64008		0		54	America/Toronto	2016-12-22
+8673890	Val-des-Monts	Val-des-Monts		45.69161	-75.67795	A	ADM3	CA		10	07	82015		0		294	America/Toronto	2016-12-26
+8673892	L'Ange-Gardien	L'Ange-Gardien		46.94991	-71.1301	A	ADM3	CA		10	03	21040		0		186	America/Toronto	2016-12-26
+8673893	L'Ange-Gardien	L'Ange-Gardien		45.63633	-75.46062	A	ADM3	CA		10	07	82005		0		145	America/Toronto	2016-12-26
+8673894	Roquemaure	Roquemaure		48.61271	-79.42588	A	ADM3	CA		10	08	87015		0		273	America/Toronto	2016-12-26
+8673896	Saint-Lazare	Saint-Lazare	Sen Lazar,san lazar,sn-lazar  kbk,Сен Лазар,سان لازار,سن-لازار، کبک,سینٹ-لازارے، کیوبک	45.40571	-74.16255	A	ADM3	CA		10	16	71105		17016		96	America/Toronto	2016-05-24
+8673897	Salaberry-de-Valleyfield	Salaberry-de-Valleyfield		45.2651	-74.06482	A	ADM3	CA		10	16	70052		0		43	America/Toronto	2016-12-26
+8673898	Bromont	Bromont		45.30057	-72.69135	A	ADM3	CA		10	05	46078		0		116	America/Toronto	2024-06-14
+8673900	Sainte-Luce	Sainte-Luce		48.53332	-68.3277	A	ADM3	CA		10	01	09092		0		61	America/Toronto	2014-01-18
+8673901	Racine	Racine		45.49167	-72.2114	A	ADM3	CA		10	05	42032		0		302	America/Toronto	2016-12-19
+8673902	La Sarre	La Sarre	La Sarre	48.82099	-79.21003	A	ADM3	CA		10	08	87090		0		269	America/Toronto	2020-03-28
+8673904	Marieville	Marieville		45.43308	-73.15776	A	ADM3	CA		10	16	55048		0		32	America/Toronto	2016-12-22
+8673905	Saint-Prime	Saint-Prime		48.58146	-72.39397	A	ADM3	CA		10	02	91035		0		139	America/Toronto	2016-12-28
+8673906	Mandeville	Mandeville		46.45263	-73.39364	A	ADM3	CA		10	14	52095		0		398	America/Toronto	2016-12-19
+8673908	Saint-Modeste	Saint-Modeste		47.81334	-69.37809	A	ADM3	CA		10	01	12020		0		202	America/Toronto	2014-01-18
+8673909	Saint-Paul	Saint-Paul		45.95803	-73.41538	A	ADM3	CA		10	14	61005		0		26	America/Toronto	2016-12-19
+8673910	Lac-au-Saumon	Lac-au-Saumon		48.40644	-67.37018	A	ADM3	CA		10	01	07057		0		283	America/Toronto	2014-01-18
+8673912	Causapscal	Causapscal		48.37134	-67.22362	A	ADM3	CA		10	01	07018		0		243	America/Toronto	2016-12-22
+8673913	Chandler	Chandler	Chandler,chndlr  kbk,shandlr,Чандлер,شاندلر,چندلر، کبک,چینڈلر	48.36525	-64.75492	A	ADM3	CA		10	11	02028		0		112	America/Toronto	2014-01-18
+8673914	Clermont	Clermont		47.71719	-70.24703	A	ADM3	CA		10	03	15035		0		168	America/Toronto	2016-12-27
+8673916	Saint-Juste-du-Lac	Saint-Juste-du-Lac		47.68187	-68.73043	A	ADM3	CA		10	01	13040		0		347	America/Toronto	2014-01-18
+8673918	Pincourt	Pincourt	Penkur,bynkwrt  kybk,pnkwrt  kbk,Пенкур,بينكورت، كيبك,پنکورت، کبک	45.3741	-73.98202	A	ADM3	CA		10	16	71070		0		31	America/Toronto	2014-01-18
+8673919	Pointe-à-la-Croix	Pointe-a-la-Croix		48.12176	-66.70937	A	ADM3	CA		10	11	06030		0		281	America/Toronto	2025-07-22
+8673922	Saint-Édouard	Saint-Edouard		45.23661	-73.50946	A	ADM3	CA		10	16	68045		0		52	America/Toronto	2014-01-18
+8673923	Boisbriand	Boisbriand	Boabrijan,bwabryan  kbk,bwabryan  kybk,Боабријан,بوآبریان، کبک,بوئس برانڈ,بوابريان، كيبك	45.61716	-73.85979	A	ADM3	CA		10	15	73005		0		36	America/Toronto	2014-01-18
+8673924	Rivière-à-Claude	Riviere-a-Claude		49.16166	-65.88788	A	ADM3	CA		10	11	04020		0		515	America/Toronto	2016-12-27
+8673927	Saint-Ludger-de-Milot	Saint-Ludger-de-Milot		48.8974	-71.82247	A	ADM3	CA		10	02	93080		0		178	America/Toronto	2016-12-27
+8673929	Lac-Etchemin	Lac-Etchemin	lak aytshmyn,lak-atshwmn  kbk,لاك إيتشمين,لاک-اتشومن، کبک	46.40012	-70.50941	A	ADM3	CA		10	12	28053		0		428	America/Toronto	2014-01-18
+8673930	Saint-Malachie	Saint-Malachie		46.5349	-70.74199	A	ADM3	CA		10	12	19025		0		369	America/Toronto	2016-12-22
+8673932	Saint-Antoine-de-Tilly	Saint-Antoine-de-Tilly		46.64777	-71.54811	A	ADM3	CA		10	12	33095		0		80	America/Toronto	2014-01-18
+8673933	Saint-Ambroise	Saint-Ambroise		48.57446	-71.3445	A	ADM3	CA		10	02	94255		0		131	America/Toronto	2014-01-18
+8673936	Sainte-Catherine	Sainte-Catherine		45.40402	-73.5704	A	ADM3	CA		10	16	67030		0		14	America/Toronto	2016-12-22
+8673938	Chelsea	Chelsea		45.53081	-75.85567	A	ADM3	CA		10	07	82025		0		205	America/Toronto	2016-12-22
+8673939	Baie-Trinité	Baie-Trinite		49.46439	-67.3535	A	ADM3	CA		10	09	96005		0		114	America/Toronto	2016-12-26
+8673941	Deux-Montagnes	Deux-Montagnes	De Montan,De-Montan',dw mwntany  kybk,dw-mwntayn  kbk,Де Монтањ,Де-Монтань,دو مونتاني، كيبك,دو-مونتاین، کبک,ڈیوکس مونٹیجنس	45.54138	-73.90253	A	ADM3	CA		10	15	72010		0		34	America/Toronto	2014-01-18
+8673944	Macamic	Macamic		48.7566	-79.04407	A	ADM3	CA		10	08	87058		0		290	America/Toronto	2016-12-26
+8673946	Saint-David-de-Falardeau	Saint-David-de-Falardeau		48.65512	-71.06798	A	ADM3	CA		10	02	94245		0		283	America/Toronto	2014-01-18
+8673950	Témiscaming	Temiscaming		46.70761	-78.98915	A	ADM3	CA		10	08	85005		0		262	America/Toronto	2016-12-26
+8673953	L'Épiphanie	L'Epiphanie		45.8494	-73.48364	A	ADM3	CA		10	14	60037		0		22	America/Toronto	2024-06-15
+8673956	Saint-Sylvère	Saint-Sylvere		46.23447	-72.22914	A	ADM3	CA		10	17	38005		0		87	America/Toronto	2014-01-18
+8673958	Cowansville	Cowansville		45.20713	-72.76546	A	ADM3	CA		10	05	46080		0		101	America/Toronto	2024-06-14
+8673959	Acton Vale	Acton Vale	Akton Veil,Akton Vejl,Akton-Vejl,aktwn fal,aktwn wal  kbk,Άκτον Βέιλ,Актон Вејл,Актон-Вейл,أكتون فال,اکتون وال، کبک,ایکٹن والی,ایکٹن ویل، کیوبیک	45.63724	-72.56073	A	ADM3	CA		10	16	48028		0		111	America/Toronto	2014-01-18
+8673961	Saint-Basile-le-Grand	Saint-Basile-le-Grand		45.52398	-73.27556	A	ADM3	CA		10	16	57020		0		13	America/Toronto	2016-12-26
+8673964	Saint-Pierre-de-l'Île-d'Orléans	Saint-Pierre-de-l'Ile-d'Orleans		46.89457	-71.05946	A	ADM3	CA		10	03	20025		0		100	America/Toronto	2014-01-18
+8673967	Abercorn	Abercorn		45.04076	-72.66413	A	ADM3	CA		10	05	46005		0		176	America/Toronto	2024-06-14
+8673968	Lac-Brome	Lac-Brome		45.22862	-72.57279	A	ADM3	CA		10	05	46075		0		252	America/Toronto	2024-06-14
+8673969	Saint-Rémi	Saint-Remi	Saint-Remi-de-Napierville,Saint-Rémi-de-Napierville,Sen Remi,sn-rmy  kbk,syn-rmy  kywbk,Сен Реми,سن-رمی، کبک,سین-رمی، کیوبک	45.25452	-73.634	A	ADM3	CA		10	16	68055		4192		60	America/Toronto	2016-06-25
+8673971	La Pocatière	La Pocatiere		47.37839	-70.03588	A	ADM3	CA		10	01	14085		0		3	America/Toronto	2016-12-26
+8673972	Montréal-Est	Montreal-Est		45.62846	-73.52493	A	ADM3	CA		10	06	66007		0		30	America/Toronto	2016-12-22
+8673974	Saint-Mathieu	Saint-Mathieu		45.31392	-73.53452	A	ADM3	CA		10	16	67005		0		38	America/Toronto	2016-12-22
+8673975	Saint-Romain	Saint-Romain		45.75842	-71.08374	A	ADM3	CA		10	05	30100		0		348	America/Toronto	2016-12-26
+8673978	Béarn	Bearn		47.22018	-79.12675	A	ADM3	CA		10	08	85020		0		315	America/Toronto	2016-12-26
+8673979	Saguenay	Saguenay		48.37006	-71.13339	A	ADM3	CA		10	02	94068		0		144	America/Toronto	2016-12-22
+8673980	Métis-sur-Mer	Metis-sur-Mer		48.7385	-68.11024	A	ADM3	CA		10	01	09048		0		-9999	America/Toronto	2016-12-26
+8673982	Sainte-Rose-du-Nord	Sainte-Rose-du-Nord		48.40318	-70.60607	A	ADM3	CA		10	02	94230		0		134	America/Toronto	2016-12-26
+8673983	Latulipe-et-Gaboury	Latulipe-et-Gaboury		47.37367	-79.02112	A	ADM3	CA		10	08	85060		0		272	America/Toronto	2016-12-26
+8673984	Rivière-du-Loup	Riviere-du-Loup		47.8387	-69.54414	A	ADM3	CA		10	01	12072		0		26	America/Toronto	2016-12-21
+8673986	Lotbinière	Lotbiniere	lwtbynyyr,lwtbynyyr  kbk,لوتبينيير,لوتبینییر، کبک	46.60843	-71.90872	A	ADM3	CA		10	12	33115		0		44	America/Toronto	2014-01-18
+8673990	Léry	Lery		45.34273	-73.79925	A	ADM3	CA		10	16	67055		0		41	America/Toronto	2016-12-22
+8673992	East Angus	East Angus		45.48158	-71.66062	A	ADM3	CA		10	05	41060		0		190	America/Toronto	2016-12-21
+8673993	Fermont	Fermont		52.77593	-67.23646	A	ADM3	CA		10	09	97035		0		683	America/Toronto	2016-12-21
+8673995	Sainte-Marie	Sainte-Marie	Sent Mari,sant mary,snt-mary  kbk,Сент Мари,سانت ماري,سنت-ماری، کبک,سین-مرے، کیوبک	46.44261	-71.0038	A	ADM3	CA		10	12	26030		0		232	America/Toronto	2014-01-18
+8673996	Rawdon	Rawdon		46.05824	-73.74614	A	ADM3	CA		10	14	62037		0		184	America/Toronto	2014-01-18
+8673998	Saint-Honoré	Saint-Honore		48.53474	-71.1026	A	ADM3	CA		10	02	94240		0		140	America/Toronto	2014-01-18
+8673999	Roxton Falls	Roxton Falls		45.57672	-72.52402	A	ADM3	CA		10	16	48010		0		105	America/Toronto	2014-01-18
+8674000	Drummondville	Drummondville		45.88197	-72.47462	A	ADM3	CA		10	17	49058		0		88	America/Toronto	2016-12-21
+8674002	Amqui	Amqui		48.47814	-67.43689	A	ADM3	CA		10	01	07047		0		164	America/Toronto	2016-12-25
+8674003	Princeville	Princeville		46.18816	-71.89472	A	ADM3	CA		10	17	32033		0		114	America/Toronto	2016-12-21
+8674006	Châteauguay	Chateauguay		45.36312	-73.75336	A	ADM3	CA		10	16	67050		0		24	America/Toronto	2016-12-25
+8674009	Dégelis	Degelis		47.58582	-68.53535	A	ADM3	CA		10	01	13005		0		390	America/Toronto	2016-12-25
+8674012	Coteau-du-Lac	Coteau-du-Lac	Koto di Lak,kwtw dw lak,kwtw-dw-lak  kbk,Кото ди Лак,كوتو دو لاك,کوتو-دو-لاک، کبک	45.30222	-74.18886	A	ADM3	CA		10	16	71040		0		46	America/Toronto	2014-01-18
+8674013	Sainte-Anne-de-Bellevue	Sainte-Anne-de-Bellevue		45.42481	-73.93396	A	ADM3	CA		10	06	66117		0		33	America/Toronto	2016-12-21
+8674014	Saint-Tite	Saint-Tite	Sen Tit,sn-tyt  kbk,Сен Тит,سن-تیت، کبک	46.73083	-72.56084	A	ADM3	CA		10	04	35027		0		139	America/Toronto	2014-01-18
+8674016	Sainte-Thérèse-de-la-Gatineau	Sainte-Therese-de-la-Gatineau		46.2724	-75.86055	A	ADM3	CA		10	07	83055		0		166	America/Toronto	2016-12-21
+8674017	Sorel-Tracy	Sorel-Tracy		46.01415	-73.11359	A	ADM3	CA		10	16	53052		0		23	America/Toronto	2016-12-25
+8674018	Sainte-Flavie	Sainte-Flavie		48.59978	-68.21161	A	ADM3	CA		10	01	09085		0		48	America/Toronto	2014-01-18
+8674020	Québec	Quebec		46.85258	-71.33082	A	ADM3	CA		10	03	23027		0		84	America/Toronto	2024-03-27
+8674022	Bois-Franc	Bois-Franc		46.52393	-75.96023	A	ADM3	CA		10	07	83085		0		195	America/Toronto	2016-12-25
+8674023	Saint-Isidore-de-Clifton	Saint-Isidore-de-Clifton		45.27584	-71.48882	A	ADM3	CA		10	05	41012		0		488	America/Toronto	2016-12-21
+8674026	Scotstown	Scotstown		45.52296	-71.28112	A	ADM3	CA		10	05	41080		0		382	America/Toronto	2016-12-25
+8674031	Hemmingford	Hemmingford		45.04693	-73.58569	A	ADM3	CA		10	16	68010		0		78	America/Toronto	2017-04-18
+8674033	Louiseville	Louiseville		46.25658	-72.94521	A	ADM3	CA		10	04	51015		0		13	America/Toronto	2016-12-25
+8674034	Forestville	Forestville	Forestvil,fwrstfyl,fwrstwyl  kbk,Форествил,فورستفيل,فورستویل، کبک,فورسٹ ولے	48.76908	-69.11429	A	ADM3	CA		10	09	95045		0		107	America/Toronto	2014-01-18
+8674035	Pike River	Pike River		45.11064	-73.07096	A	ADM3	CA		10	05	46025		0		29	America/Toronto	2024-06-14
+8674037	Eeyou Istchee James Bay	Eeyou Istchee James Bay	Baie-James,Eeyou Istchee Baie-James,Gouvernement regional de Eeyou Istchee Baie-James,Gouvernement régional de Eeyou Istchee Baie-James	52.33866	-75.2263	A	ADM3	CA		10	10	99060		2638		293	America/Toronto	2024-06-16
+8674038	Gros-Mécatina	Gros-Mecatina		50.92274	-59.01758	A	ADM3	CA		10	09	98014		0		41	America/Blanc-Sablon	2016-12-21
+8674040	Beloeil	Beloeil	Beljoj,Belœil,Белёй	45.5817	-73.21625	A	ADM3	CA		10	16	57040		0		12	America/Toronto	2019-03-18
+8674042	Mont-Tremblant	Mont-Tremblant	Mon Tramblan,Mon-Tramblan,cui hu shan zhuang,montoranburan,mwn-trwmblan  kbk,mwnt trymblant  kybk,Мон Трамблан,Мон-Трамблан,مون-ترومبلان، کبک,مونت تريمبلانت، كيبك,モントランブラン,翠湖山莊	46.17058	-74.58572	A	ADM3	CA		10	15	78102		0		231	America/Toronto	2014-01-18
+8674043	L'Ancienne-Lorette	L'Ancienne-Lorette		46.80424	-71.35598	A	ADM3	CA		10	03	23057		0		43	America/Toronto	2014-01-18
+8674044	Cap-Chat	Cap-Chat		49.05431	-66.71639	A	ADM3	CA		10	11	04047		0		215	America/Toronto	2016-12-21
+8674046	Westmount	Westmount		45.48535	-73.60072	A	ADM3	CA		10	06	66032		0		71	America/Toronto	2016-12-25
+8674047	Blainville	Blainville	Blenvil,Blenvil',Gorad Blenvil',blanfyl  kybk,blnwyl  kbk,buranbiru,Бленвил,Бленвиль,Горад Бленвіль,بلانفيل، كيبك,بلنویل، کبک,بلینولے,ブランビル	45.68428	-73.85418	A	ADM3	CA		10	15	73015		0		69	America/Toronto	2014-01-18
+8674049	Sainte-Agathe-des-Monts	Sainte-Agathe-des-Monts		46.07142	-74.30477	A	ADM3	CA		10	15	78032		0		377	America/Toronto	2016-12-21
+8674051	La Malbaie	La Malbaie		47.70397	-70.08808	A	ADM3	CA		10	03	15013		0		444	America/Toronto	2016-12-21
+8674052	Saint-Joseph-de-Beauce	Saint-Joseph-de-Beauce		46.33147	-70.82817	A	ADM3	CA		10	12	27043		0		319	America/Toronto	2016-12-21
+8674054	Lachute	Lachute		45.66731	-74.29541	A	ADM3	CA		10	15	76020		0		57	America/Toronto	2016-12-26
+8674055	Pointe-des-Cascades	Pointe-des-Cascades		45.33156	-73.95381	A	ADM3	CA		10	16	71055		0		26	America/Toronto	2014-01-18
+8674057	Saint-Félicien	Saint-Felicien		48.70786	-72.44545	A	ADM3	CA		10	02	91042		0		114	America/Toronto	2016-12-21
+8674058	Rimouski	Rimouski		48.39654	-68.60294	A	ADM3	CA		10	01	10043		0		115	America/Toronto	2016-12-25
+8674059	Saint-Jean-sur-Richelieu	Saint-Jean-sur-Richelieu		45.31869	-73.29392	A	ADM3	CA		10	16	56083		0		37	America/Toronto	2016-12-21
+8674061	Marsoui	Marsoui		49.14154	-66.03737	A	ADM3	CA		10	11	04025		0		588	America/Toronto	2016-12-19
+8674062	Sainte-Anne-du-Lac	Sainte-Anne-du-Lac		46.91734	-75.37934	A	ADM3	CA		10	15	79115		0		332	America/Toronto	2016-12-21
+8674064	La Durantaye	La Durantaye		46.80747	-70.85092	A	ADM3	CA		10	12	19090		0		98	America/Toronto	2016-12-19
+8674065	Granby	Granby	Gorad Granbi,Granbi,ge lan bi,ghranby,granby  kbk,grymby,grynby  kywbyk,Горад Гранбі,Гранби,Гранбі,غرانبي,گرانبی، کبک,گریمبی,گرینبی، کیوبیک,格兰比	45.40042	-72.74549	A	ADM3	CA		10	05	47017		0		92	America/Toronto	2024-06-14
+8674067	Dollard-Des Ormeaux	Dollard-Des Ormeaux	Dollard,Ville de Dollard-des-Ormeaux	45.48699	-73.81722	A	ADM3	CA		10	06	66142		48403		33	America/Toronto	2024-06-16
+8674069	Saint-Césaire	Saint-Cesaire		45.4087	-72.98545	A	ADM3	CA		10	16	55023		0		35	America/Toronto	2016-12-25
+8674070	La Minerve	La Minerve		46.20838	-74.96674	A	ADM3	CA		10	15	78130		0		278	America/Toronto	2016-12-21
+8674071	Magog	Magog		45.23593	-72.16058	A	ADM3	CA		10	05	45072		0		298	America/Toronto	2014-01-18
+8674074	Morin-Heights	Morin-Heights		45.90118	-74.25902	A	ADM3	CA		10	15	77050		0		267	America/Toronto	2016-12-21
+8674075	Montréal-Ouest	Montreal-Ouest	Montreal West,Montreal Zapad,Montreal-Wes,mwntryal kwyst,mwntryal wst  kbk,Монтреал Запад,مونترئال وست، کبک,مونتريال كويست	45.45276	-73.64908	A	ADM3	CA		10	06	66047		0		48	America/Toronto	2019-06-07
+8674076	Rivière-à-Pierre	Riviere-a-Pierre		47.04088	-72.22777	A	ADM3	CA		10	03	34135		0		355	America/Toronto	2016-12-21
+8674078	Leclercville	Leclercville		46.50919	-71.89005	A	ADM3	CA		10	12	33123		0		96	America/Toronto	2016-12-19
+8674079	Rosemère	Rosemere		45.63747	-73.79731	A	ADM3	CA		10	15	73020		0		33	America/Toronto	2014-01-18
+8674080	Victoriaville	Victoriaville		46.06279	-71.97031	A	ADM3	CA		10	17	39062		0		132	America/Toronto	2016-12-21
+8674082	Matane	Matane		48.8087	-67.4907	A	ADM3	CA		10	01	08053		0		158	America/Toronto	2016-12-25
+8674083	Portage-du-Fort	Portage-du-Fort		45.59738	-76.66094	A	ADM3	CA		10	07	84020		0		113	America/Toronto	2016-12-21
+8674086	Frontenac	Frontenac		45.53282	-70.79338	A	ADM3	CA		10	05	30025		0		601	America/Toronto	2016-12-19
+8674087	Brome	Brome		45.18332	-72.57155	A	ADM3	CA		10	05	46070		0		205	America/Toronto	2024-06-14
+8674089	Namur	Namur		45.88952	-74.91848	A	ADM3	CA		10	07	80110		0		217	America/Toronto	2016-12-19
+8674091	Lavaltrie	Lavaltrie		45.90093	-73.31851	A	ADM3	CA		10	14	52007		0		22	America/Toronto	2016-12-25
+8674092	Candiac	Candiac		45.3779	-73.5131	A	ADM3	CA		10	16	67020		0		27	America/Toronto	2016-12-25
+8674094	Longue-Pointe-de-Mingan	Longue-Pointe-de-Mingan		50.32713	-64.12345	A	ADM3	CA		10	09	98045		0		21	America/Toronto	2016-12-22
+8674095	Thurso	Thurso		45.6013	-75.24246	A	ADM3	CA		10	07	80050		0		54	America/Toronto	2016-12-25
+8674099	Saint-Jérôme	Saint-Jerome	Sen Zherom,Sen-Zherom,san jyrwm,sheng ye xiong,sn-zhrwm  kbk,Сен Жером,Сен-Жером,سان جيروم,سن-ژروم، کبک,سینٹ-جیروم، کیوبک,聖耶雄	45.79617	-74.04078	A	ADM3	CA		10	15	75017		0		142	America/Toronto	2014-01-18
+8674100	Saint-Bruno-de-Montarville	Saint-Bruno-de-Montarville		45.53116	-73.34325	A	ADM3	CA		10	16	58037		0		45	America/Toronto	2016-12-21
+8674102	Saint-Ours	Saint-Ours	Sent Urs,sn-awrs  kbk,Сент Урс,سن-اورس، کبک,سینٹ-ورس، کیوبک	45.88521	-73.11811	A	ADM3	CA		10	16	53032		0		18	America/Toronto	2014-01-18
+8674105	Beaupré	Beaupre		47.06404	-70.90745	A	ADM3	CA		10	03	21025		0		137	America/Toronto	2016-12-21
+8674106	Saint-André-du-Lac-Saint-Jean	Saint-Andre-du-Lac-Saint-Jean		48.31055	-71.97878	A	ADM3	CA		10	02	91010		0		318	America/Toronto	2016-12-22
+8674108	L'Île-Cadieux	L'Ile-Cadieux		45.44067	-74.01327	A	ADM3	CA		10	16	71095		0		19	America/Toronto	2014-01-18
+8674110	Caplan	Caplan		48.13223	-65.6789	A	ADM3	CA		10	11	05060		0		130	America/Toronto	2014-01-18
+8674111	Stanstead	Stanstead		45.01618	-72.10474	A	ADM3	CA		10	05	45008		0		293	America/Toronto	2016-12-25
+8674113	Bécancour	Becancour	Bekankur,bkankwr  kbk,bykankwr  kybk,byknkwr,Беканкур,بيكانكور، كيبك,بکانکور، کبک,بیکنکور	46.32168	-72.37169	A	ADM3	CA		10	17	38010		0		41	America/Toronto	2014-01-18
+8674116	Sainte-Mélanie	Sainte-Melanie		46.1458	-73.52571	A	ADM3	CA		10	14	61050		0		145	America/Toronto	2016-12-19
+8674119	Nantes	Nantes	nant  kbk,nantys,نانت، کبک,نانتيس	45.63151	-71.01412	A	ADM3	CA		10	05	30045		0		518	America/Toronto	2014-01-18
+8674120	Duparquet	Duparquet		48.47394	-79.19081	A	ADM3	CA		10	08	87005		0		295	America/Toronto	2016-12-21
+8674121	Saint-Esprit	Saint-Esprit		45.90449	-73.66828	A	ADM3	CA		10	14	63030		0		55	America/Toronto	2016-12-19
+8674123	Richelieu	Richelieu		45.4097	-73.22658	A	ADM3	CA		10	16	55057		0		32	America/Toronto	2014-01-18
+8674124	Contrecoeur	Contrecoeur		45.87203	-73.23129	A	ADM3	CA		10	16	59035		0		4	America/Toronto	2016-12-25
+8674125	Notre-Dame-des-Prairies	Notre-Dame-des-Prairies		46.05435	-73.42569	A	ADM3	CA		10	14	61030		8230		60	America/Toronto	2017-03-06
+8674127	Grenville	Grenville	ghrnfyl,grnwyl  kbk,غرنفيل,گرنویل، کبک	45.62744	-74.60203	A	ADM3	CA		10	15	76055		0		45	America/Toronto	2014-01-18
+8674128	Cap-Santé	Cap-Sante		46.69633	-71.78874	A	ADM3	CA		10	03	34030		0		69	America/Toronto	2016-12-21
+8674129	Pontiac	Pontiac		45.56541	-76.12384	A	ADM3	CA		10	07	82030		0		101	America/Toronto	2014-01-18
+8674131	Bonne-Espérance	Bonne-Esperance		51.42307	-57.75929	A	ADM3	CA		10	09	98010		0		-9999	America/Blanc-Sablon	2016-12-21
+8674132	Sainte-Brigitte-de-Laval	Sainte-Brigitte-de-Laval		47.02958	-71.17593	A	ADM3	CA		10	03	22045		0		266	America/Toronto	2016-12-22
+8674134	Sainte-Madeleine-de-la-Rivière-Madeleine	Sainte-Madeleine-de-la-Riviere-Madeleine		49.1879	-65.33337	A	ADM3	CA		10	11	04005		0		393	America/Toronto	2016-12-22
+8674135	Saint-Lambert	Saint-Lambert		45.49376	-73.50776	A	ADM3	CA		10	16	58012		0		16	America/Toronto	2016-12-22
+8674136	Saint-Lambert-de-Lauzon	Saint-Lambert-de-Lauzon		46.5867	-71.22719	A	ADM3	CA		10	12	26070		6177		118	America/Toronto	2016-12-21
+8674138	Rivière-Saint-Jean	Riviere-Saint-Jean		50.36221	-64.40807	A	ADM3	CA		10	09	98050		0		85	America/Toronto	2016-12-21
+8674139	Montréal	Montreal		45.52662	-73.6527	A	ADM3	CA		10	06	66023		0		44	America/Toronto	2016-12-22
+8674140	Saint-François-du-Lac	Saint-Francois-du-Lac		46.06463	-72.86584	A	ADM3	CA		10	17	50128		0		13	America/Toronto	2016-12-22
+8674142	Hinchinbrooke	Hinchinbrooke		45.04289	-74.09059	A	ADM3	CA		10	16	69045		0		58	America/Toronto	2016-12-25
+8674143	Stornoway	Stornoway		45.71656	-71.18844	A	ADM3	CA		10	05	30105		0		438	America/Toronto	2014-01-18
+8674144	Malartic	Malartic		48.14851	-78.09986	A	ADM3	CA		10	08	89015		0		308	America/Toronto	2016-12-21
+8674146	Saint-Fabien	Saint-Fabien		48.28565	-68.85434	A	ADM3	CA		10	01	10070		0		172	America/Toronto	2014-01-18
+8674147	Saint-Philémon	Saint-Philemon		46.66105	-70.4358	A	ADM3	CA		10	12	19005		0		430	America/Toronto	2016-12-25
+8674148	Les Méchins	Les Mechins		48.93422	-66.90347	A	ADM3	CA		10	01	08005		0		273	America/Toronto	2014-01-18
+8674150	Montebello	Montebello	Montebello,montebero,mwntybylw,Монтебелло,مونتيبيلو,مونت‌بلو، کبک,モンテベロ	45.65488	-74.94717	A	ADM3	CA		10	07	80010		0		71	America/Toronto	2014-01-18
+8674151	Lévis	Levis		46.71104	-71.24195	A	ADM3	CA		10	12	25213		0		77	America/Toronto	2016-12-25
+8674153	Bedford	Bedford		45.12092	-72.98276	A	ADM3	CA		10	05	46035		0		56	America/Toronto	2024-06-14
+8674154	Lambton	Lambton		45.86768	-71.08769	A	ADM3	CA		10	05	30095		0		365	America/Toronto	2014-01-18
+8674155	Saint-Henri	Saint-Henri	sn-anry,سن-آنری,سینٹ-ہنری، چودییرے-اپپلکھس، کیوبک	46.68785	-71.05656	A	ADM3	CA		10	12	19068		0		92	America/Toronto	2014-01-18
+8674156	Chibougamau	Chibougamau		49.87958	-74.24359	A	ADM3	CA		10	10	99025		0		377	America/Toronto	2016-12-25
+8674158	Sainte-Adèle	Sainte-Adele		45.96814	-74.12287	A	ADM3	CA		10	15	77022		0		278	America/Toronto	2016-12-21
+8674159	Montmagny	Montmagny	Monmani,mwnmayyny  kbk,mwntmaghny,Монмані,Монмањи,مونتماغني,مونمایینی، کبک	46.95302	-70.54897	A	ADM3	CA		10	12	18050		0		13	America/Toronto	2014-01-18
+8674160	Roberval	Roberval	Roberval,Roberval',rwbrwal  kbk,rwbyrfal,Робервал,Роберваль,روبروال، کبک,روبيرفال	48.48136	-72.23373	A	ADM3	CA		10	02	91025		0		160	America/Toronto	2014-01-18
+8674162	Maria	Maria		48.20125	-66.0234	A	ADM3	CA		10	11	06005		0		179	America/Toronto	2016-12-25
+8674163	Ferme-Neuve	Ferme-Neuve		46.80409	-75.57244	A	ADM3	CA		10	15	79097		0		277	America/Toronto	2016-12-28
+8674165	Saint-Augustin-de-Desmaures	Saint-Augustin-de-Desmaures		46.74984	-71.48339	A	ADM3	CA		10	03	23072		0		61	America/Toronto	2016-12-22
+8674166	Lac-Édouard	Lac-Edouard	lak-adward  kbk,لاک-ادوارد، کبک	47.62536	-72.33089	A	ADM3	CA		10	04	90027		0		359	America/Toronto	2014-01-18
+8674168	Charlemagne	Charlemagne	Sharlman,charlymygny,sharlmayn  kbk,sharmany,sharurumanyu,Шарлмањ,شارلماین، کبک,شارماني,چارلیمیگنی,シャルルマーニュ	45.72535	-73.49037	A	ADM3	CA		10	14	60005		0		11	America/Toronto	2014-01-18
+8674170	Maniwaki	Maniwaki		46.37478	-75.98123	A	ADM3	CA		10	07	83065		0		173	America/Toronto	2016-12-26
+8674171	Ayer's Cliff	Ayer's Cliff		45.17314	-72.04943	A	ADM3	CA		10	05	45035		0		158	America/Toronto	2014-01-18
+8674172	Saint-Roch-Ouest	Saint-Roch-Ouest		45.86044	-73.66118	A	ADM3	CA		10	14	63040		0		53	America/Toronto	2016-12-26
+8674175	Lac-Saguay	Lac-Saguay		46.51399	-75.16114	A	ADM3	CA		10	15	79060		0		410	America/Toronto	2016-12-26
+8674178	Saint-Mathieu-de-Rioux	Saint-Mathieu-de-Rioux		48.16959	-68.96172	A	ADM3	CA		10	01	11050		0		272	America/Toronto	2016-12-26
+8674182	Mont-Joli	Mont-Joli		48.58582	-68.19113	A	ADM3	CA		10	01	09077		0		82	America/Toronto	2016-12-26
+8674186	Sainte-Euphémie-sur-Rivière-du-Sud	Sainte-Euphemie-sur-Riviere-du-Sud		46.78768	-70.46593	A	ADM3	CA		10	12	18035		0		307	America/Toronto	2016-12-22
+8674189	Pointe-Claire	Pointe-Claire		45.44106	-73.8065	A	ADM3	CA		10	06	66097		0		27	America/Toronto	2016-12-26
+8674192	Varennes	Varennes	Varen,faryn,warn  kbk,Варен,فارين,وارن، کبک	45.68125	-73.40385	A	ADM3	CA		10	16	59020		0		17	America/Toronto	2014-01-18
+8674195	Rivière-Rouge	Riviere-Rouge		46.5067	-74.95445	A	ADM3	CA		10	15	79037		0		306	America/Toronto	2016-12-26
+8674199	Sainte-Catherine-de-Hatley	Sainte-Catherine-de-Hatley		45.23429	-72.05215	A	ADM3	CA		10	05	45060		0		270	America/Toronto	2016-12-26
+8674202	Saint-Tite-des-Caps	Saint-Tite-des-Caps		47.19729	-70.75954	A	ADM3	CA		10	03	21005		0		421	America/Toronto	2016-12-22
+8674203	Sept-Îles	Sept-Iles		50.31744	-66.07839	A	ADM3	CA		10	09	97007		0		101	America/Toronto	2016-12-26
+8674204	Repentigny	Repentigny	Repantin'i,Repantini,rpantyny  kbk,rybntynyy,Репантиньи,Репантињи,ريبنتينيي,رپانتینی، کبک	45.76125	-73.47072	A	ADM3	CA		10	14	60013		0		12	America/Toronto	2014-01-18
+8674207	Saint-Jacques	Saint-Jacques		45.95385	-73.57437	A	ADM3	CA		10	14	63013		0		57	America/Toronto	2016-12-26
+8674208	Cantley	Cantley		45.58193	-75.77093	A	ADM3	CA		10	07	82020		0		175	America/Toronto	2016-12-27
+8674209	Saint-Félix-de-Dalquier	Saint-Felix-de-Dalquier		48.6763	-78.12318	A	ADM3	CA		10	08	88060		0		304	America/Toronto	2016-12-22
+8674210	Chambly	Chambly	Shambli,chymbly,shambly  kbk,shwmbly  kybk,Шамбли,Шамблі,شامبلی، کبک,شومبلي، كيبك,چیمبلی	45.43103	-73.28717	A	ADM3	CA		10	16	57005		0		16	America/Toronto	2014-01-18
+8674213	Dunham	Dunham		45.13819	-72.7891	A	ADM3	CA		10	05	46050		0		162	America/Toronto	2024-06-14
+8674216	Portneuf	Portneuf	MRC de Portneuf,Portneuf RCM,Portneuf Regional County Municipality,Portneuf municipalite regionale de comte,Portneuf municipalité régionale de comté	46.73132	-71.9078	A	ADM3	CA		10	03	34048		0		132	America/Toronto	2018-09-04
+8674217	Kipawa	Kipawa		46.77702	-79.0021	A	ADM3	CA		10	08	85010		0		257	America/Toronto	2016-12-27
+8674219	Nicolet	Nicolet	Nikole,Nikolet,nykwlh  kbk,nykwlyt,Николе,Николет,نيكوليت,نیکوله، کبک	46.21825	-72.61901	A	ADM3	CA		10	17	50072		0		15	America/Toronto	2014-01-18
+8674220	Sainte-Brigide-d'Iberville	Sainte-Brigide-d'Iberville		45.32405	-73.05836	A	ADM3	CA		10	16	56105		0		49	America/Toronto	2016-12-27
+8674222	Carleton-sur-Mer	Carleton-sur-Mer		48.15916	-66.16159	A	ADM3	CA		10	11	06013		0		239	America/Toronto	2016-12-27
+8674223	Murdochville	Murdochville		48.96037	-65.47969	A	ADM3	CA		10	11	03025		0		805	America/Toronto	2016-12-27
+8674225	Val-David	Val-David		46.03366	-74.21112	A	ADM3	CA		10	15	78010		0		321	America/Toronto	2016-12-28
+8674226	Kingsey Falls	Kingsey Falls		45.85144	-72.08966	A	ADM3	CA		10	17	39097		0		119	America/Toronto	2014-01-18
+8674227	Papineauville	Papineauville	babynywfyl,papynwwyl  kbk,بابينيوفيل,پاپینوویل، کبک	45.65145	-75.01759	A	ADM3	CA		10	07	80037		0		142	America/Toronto	2014-01-18
+8674229	Saint-Patrice-de-Sherrington	Saint-Patrice-de-Sherrington		45.15572	-73.52578	A	ADM3	CA		10	16	68025		0		56	America/Toronto	2016-12-28
+8674230	Baie-Saint-Paul	Baie-Saint-Paul		47.42869	-70.6611	A	ADM3	CA		10	03	16013		7371		814	America/Toronto	2026-03-25
+8674232	Saint-Sauveur	Saint-Sauveur		45.87548	-74.19073	A	ADM3	CA		10	15	77043		0		233	America/Toronto	2014-01-18
+8674233	Grenville-sur-la-Rouge	Grenville-sur-la-Rouge		45.71124	-74.65765	A	ADM3	CA		10	15	76052		0		231	America/Toronto	2016-12-28
+8674234	Chambord	Chambord		48.42446	-72.08139	A	ADM3	CA		10	02	91020		0		170	America/Toronto	2016-12-27
+8674236	Saint-Étienne-de-Beauharnois	Saint-Etienne-de-Beauharnois		45.2347	-73.90074	A	ADM3	CA		10	16	70030		0		39	America/Toronto	2014-01-18
+8674240	Oka	Oka		45.4869	-74.06967	A	ADM3	CA		10	15	72032		0		146	America/Toronto	2016-12-28
+8674241	Plaisance	Plaisance		45.61298	-75.09732	A	ADM3	CA		10	07	80045		0		49	America/Toronto	2014-01-18
+8674242	Boischatel	Boischatel		46.91603	-71.15168	A	ADM3	CA		10	03	21045		0		165	America/Toronto	2016-12-28
+8674245	Les Escoumins	Les Escoumins		48.435	-69.46088	A	ADM3	CA		10	09	95025		0		180	America/Toronto	2016-12-28
+8674247	Saint-Michel-des-Saints	Saint-Michel-des-Saints	sn-myshl-dh-sn  kbk,سن-میشل-ده-سن، کبک,سینٹ-مشیل-دس-سینٹس، کیوبک	46.70081	-73.87738	A	ADM3	CA		10	14	62085		0		394	America/Toronto	2014-01-18
+8674248	Lac-du-Cerf	Lac-du-Cerf		46.28922	-75.50577	A	ADM3	CA		10	15	79015		0		221	America/Toronto	2016-12-26
+8674250	Lac-Saint-Paul	Lac-Saint-Paul		46.76348	-75.24205	A	ADM3	CA		10	15	79105		0		306	America/Toronto	2016-12-26
+8674251	Crabtree	Crabtree		45.97476	-73.4884	A	ADM3	CA		10	14	61013		0		54	America/Toronto	2016-12-27
+8674253	La Martre	La Martre		49.13391	-66.18443	A	ADM3	CA		10	11	04030		0		523	America/Toronto	2016-12-21
+8674257	Saint-Godefroi	Saint-Godefroi		48.15358	-65.16184	A	ADM3	CA		10	11	05015		0		225	America/Toronto	2016-12-21
+8674259	Hope	Hope		48.13276	-65.23424	A	ADM3	CA		10	11	05025		0		264	America/Toronto	2016-12-27
+11126007	Cape Breton Regional Municipality	Cape Breton Regional Municipality	CBRM,Cape Breton Regional Municipality,Municipalite regionale de Cap Breton,Municipalité régionale de Cap Breton	46.20246	-60.16731	A	ADM3	CA		07	1217	11126007		0		58	America/Glace_Bay	2019-01-25
+11995146	Aklavik	Aklavik		68.22888	-135.06511	A	ADM3	CA		13	11995136	6101025		0		1	America/Edmonton	2025-05-01
+11995147	Behchokò	Behchoko	Rae-Edzo	62.81844	-115.99332	A	ADM3	CA		13	11995137	6103031		1874		156	America/Edmonton	2025-05-01
+11995148	Colville Lake	Colville Lake		67.00149	-126.00796	A	ADM3	CA		13	11995138	6102012		0		310	America/Edmonton	2025-05-01
+11995149	Tuktoyaktuk	Tuktoyaktuk		69.42511	-133.00612	A	ADM3	CA		13	11995136	6101036		0		7	America/Edmonton	2025-05-01
+11995150	Fort Smith	Fort Smith		60.026	-112.08208	A	ADM3	CA		13	11995139	6105001		0		203	America/Edmonton	2025-05-01
+11995151	Fort Good Hope	Fort Good Hope		66.26662	-128.57807	A	ADM3	CA		13	11995138	6102009		0		37	America/Edmonton	2025-05-01
+11995152	Fort Liard	Fort Liard		60.2563	-123.3826	A	ADM3	CA		13	11995140	6104009		0		306	America/Edmonton	2025-05-01
+11995153	Fort McPherson	Fort McPherson		67.43327	-134.82615	A	ADM3	CA		13	11995136	6101015		0		19	America/Edmonton	2025-05-01
+11995154	Reliance	Reliance		62.72007	-109.11233	A	ADM3	CA		13	11995139	6105026		0		157	America/Edmonton	2025-05-01
+11995155	Jean Marie River	Jean Marie River		61.51038	-120.6505	A	ADM3	CA		13	11995140	6104013		0		125	America/Edmonton	2025-05-01
+11995156	Kakisa	Kakisa		60.93054	-117.35577	A	ADM3	CA		13	11995139	6104005		0		212	America/Edmonton	2025-05-01
+11995157	Lutselk'e	Lutselk'e		62.39078	-110.68057	A	ADM3	CA		13	11995137	6105020		0		299	America/Edmonton	2025-05-01
+11995158	Nahanni Butte	Nahanni Butte		60.99961	-123.38358	A	ADM3	CA		13	11995140	6104010		0		175	America/Edmonton	2025-05-01
+11995159	Déline	Deline		65.21145	-123.43172	A	ADM3	CA		13	11995138	6102003		0		199	America/Edmonton	2025-05-01
+11995160	Whatì	Whati		63.16486	-117.17707	A	ADM3	CA		13	11995137	6103034		0		261	America/Edmonton	2025-05-01
+11995161	Dettah	Dettah		62.41219	-114.30654	A	ADM3	CA		13	11995137	6106021		219		221	America/Edmonton	2025-05-01
+11995162	Enterprise	Enterprise		60.54764	-116.19943	A	ADM3	CA		13	11995139	6105003		0		183	America/Edmonton	2025-05-01
+11995163	Norman Wells	Norman Wells		65.29215	-126.76416	A	ADM3	CA		13	11995138	6102007		0		135	America/Edmonton	2025-05-01
+11995164	Gamètì	Gameti		64.11385	-117.31023	A	ADM3	CA		13	11995137	6103049		0		202	America/Edmonton	2025-05-01
+11995165	Fort Resolution	Fort Resolution		61.049	-113.69149	A	ADM3	CA		13	11995139	6105018		0		209	America/Edmonton	2025-05-01
+11995166	Fort Providence	Fort Providence		61.42133	-117.61756	A	ADM3	CA		13	11995139	6104014		0		155	America/Edmonton	2025-05-01
+11995167	Fort Simpson	Fort Simpson		61.80819	-121.31994	A	ADM3	CA		13	11995140	6104038		0		162	America/Edmonton	2025-05-01
+11995168	Sachs Harbour	Sachs Harbour		72.01749	-125.23931	A	ADM3	CA		13	11995136	6101041		0		78	America/Edmonton	2025-05-01
+11995169	Salt Plains 195	Salt Plains 195		60.12038	-112.28716	A	ADM3	CA		13	11995139	6105004		0		206	America/Edmonton	2025-05-01
+11995170	Paulatuk	Paulatuk		69.32534	-123.98507	A	ADM3	CA		13	11995136	6101014		0		16	America/Edmonton	2025-05-01
+11995171	Tsiigehtchic	Tsiigehtchic		67.42858	-133.69258	A	ADM3	CA		13	11995136	6101010		0		61	America/Edmonton	2025-05-01
+11995172	Tulita	Tulita		64.9186	-125.46109	A	ADM3	CA		13	11995138	6102005		0		27	America/Edmonton	2025-05-01
+11995173	Sambaa K'e	Sambaa K'e		60.42446	-121.16631	A	ADM3	CA		13	11995140	6104006		0		481	America/Edmonton	2025-05-01
+11995174	Yellowknife	Yellowknife		62.47086	-114.40528	A	ADM3	CA		13	11995137	6106023		0		262	America/Edmonton	2025-05-01
+11995175	Wrigley	Wrigley		63.19417	-123.35361	A	ADM3	CA		13	11995140	6104044		0		168	America/Edmonton	2025-05-01
+11995176	Hay River	Hay River		60.78666	-115.84673	A	ADM3	CA		13	11995139	6105016		0		158	America/Edmonton	2025-05-01
+11995177	Inuvik	Inuvik		68.34072	-133.60961	A	ADM3	CA		13	11995136	6101017		0		49	America/Inuvik	2019-01-06
+11995178	Ulukhaktok	Ulukhaktok		70.76229	-117.73952	A	ADM3	CA		13	11995136	6101095		0		29	America/Edmonton	2025-05-01
+11995179	Wekweètì	Wekweeti		64.1891	-114.18716	A	ADM3	CA		13	11995137	6103052		0		415	America/Edmonton	2025-05-01
+11995180	Hay River Dene 1	Hay River Dene 1		60.79018	-115.68857	A	ADM3	CA		13	11995139	6104017		0		159	America/Edmonton	2025-05-01
+12031855	Cranbrook	Cranbrook		49.53793	-115.76867	A	ADM3	CA		02	5901	5901022		0		971	America/Edmonton	2019-02-26
+12031856	Invermere	Invermere		50.49988	-116.03576	A	ADM3	CA		02	5901	5901039		0		856	America/Edmonton	2019-02-26
+12031857	Castlegar	Castlegar		49.30109	-117.67191	A	ADM3	CA		02	5903	5903045		0		669	America/Vancouver	2019-02-26
+12031858	Nelson	Nelson		49.48791	-117.28364	A	ADM3	CA		02	5903	5903015		0		677	America/Vancouver	2019-02-28
+12031859	New Denver	New Denver		49.98925	-117.37688	A	ADM3	CA		02	5903	5903032		0		546	America/Vancouver	2019-02-26
+12031860	Greenwood	Greenwood		49.09414	-118.67846	A	ADM3	CA		02	5905	5905042		0		742	America/Vancouver	2019-02-26
+12031861	Abbotsford	Abbotsford		49.06914	-122.28539	A	ADM3	CA		02	5909	5909052		0		5	America/Vancouver	2019-02-26
+12031862	Chilliwack	Chilliwack		49.1426	-121.92944	A	ADM3	CA		02	5909	5909020		0		10	America/Vancouver	2019-02-26
+12031863	Bowen Island	Bowen Island		49.37331	-123.37123	A	ADM3	CA		02	5915	5915062		0		107	America/Vancouver	2019-02-26
+12031864	Burnaby	Burnaby		49.24563	-122.96523	A	ADM3	CA		02	5915	5915025		0		18	America/Vancouver	2019-02-26
+12031865	Coquitlam	Coquitlam		49.29733	-122.77143	A	ADM3	CA		02	5915	5915034		0		52	America/Vancouver	2019-02-26
+12031866	Campbell River	Campbell River		50.00176	-125.29761	A	ADM3	CA		02	5924	5924034		0		102	America/Vancouver	2019-02-26
+12031867	Langley City	Langley City	City of Langley,Langley City	49.09869	-122.65973	A	ADM3	CA		02	5915	5915002		0		11	America/Vancouver	2021-01-04
+12031868	Maple Ridge	Maple Ridge		49.26228	-122.51612	A	ADM3	CA		02	5915	5915075		0		100	America/Vancouver	2019-02-26
+12031869	North Vancouver	North Vancouver		49.36409	-123.00662	A	ADM3	CA		02	5915	5915046		0		229	America/Vancouver	2019-02-26
+12031870	Port Moody	Port Moody		49.28289	-122.87183	A	ADM3	CA		02	5915	5915043		0		101	America/Vancouver	2019-02-28
+12031871	Richmond	Richmond		49.16297	-123.10899	A	ADM3	CA		02	5915	5915015		0		8	America/Vancouver	2019-02-26
+12031872	Surrey	Surrey	Surrey	49.1168	-122.78432	A	ADM3	CA		02	5915	5915004		0		2	America/Vancouver	2021-08-18
+12031873	Vancouver	Vancouver		49.24861	-123.10784	A	ADM3	CA		02	5915	5915022		662248		72	America/Vancouver	2024-02-20
+12031874	White Rock	White Rock		49.02576	-122.80586	A	ADM3	CA		02	5915	5915007		0		86	America/Vancouver	2019-02-26
+12031875	Esquimalt	Esquimalt		48.43372	-123.41147	A	ADM3	CA		02	5917	5917040		0		44	America/Vancouver	2019-02-26
+12031876	Metchosin	Metchosin		48.3779	-123.56977	A	ADM3	CA		02	5917	5917042		0		184	America/Vancouver	2019-02-26
+12031877	North Saanich	North Saanich		48.65669	-123.44069	A	ADM3	CA		02	5917	5917005		0		37	America/Vancouver	2019-02-26
+12031878	Sooke	Sooke		48.3971	-123.6926	A	ADM3	CA		02	5917	5917052		0		64	America/Vancouver	2019-02-26
+12031879	Victoria	Victoria		48.42835	-123.35642	A	ADM3	CA		02	5917	5917034		0		30	America/Vancouver	2019-02-26
+12031880	North Cowichan	North Cowichan		48.83985	-123.69775	A	ADM3	CA		02	5919	5919008		0		71	America/Vancouver	2019-02-26
+12031881	Nanaimo	Nanaimo		49.18008	-123.96729	A	ADM3	CA		02	5921	5921007		0		79	America/Vancouver	2019-02-26
+12031882	Port Alberni	Port Alberni		49.24756	-124.80218	A	ADM3	CA		02	5923	5923008		0		27	America/Vancouver	2019-02-26
+12031883	Courtenay	Courtenay		49.69796	-124.97697	A	ADM3	CA		02	5926	5926010		0		22	America/Vancouver	2019-02-26
+12031884	Sechelt	Sechelt	Sechelt Indian Government District	49.48105	-123.76122	A	ADM3	CA		02	5929	5929011		0		20	America/Vancouver	2019-02-27
+12031885	Sechelt (Part)	Sechelt (Part)		49.72717	-123.89326	A	ADM3	CA		02	5929	5929803		0		173	America/Vancouver	2019-02-28
+12031886	Pemberton	Pemberton		50.31508	-122.8728	A	ADM3	CA		02	5931	5931012		0		1302	America/Vancouver	2019-02-26
+12031887	Squamish	Squamish		49.74933	-123.13736	A	ADM3	CA		02	5931	5931006		0		16	America/Vancouver	2019-02-26
+12031888	Whistler	Whistler		50.09035	-122.9942	A	ADM3	CA		02	5931	5931020		0		706	America/Vancouver	2019-02-26
+12031889	Clearwater	Clearwater		51.64433	-120.00915	A	ADM3	CA		02	5933	5933067		0		410	America/Vancouver	2019-02-26
+12031890	Peachland	Peachland		49.77533	-119.73871	A	ADM3	CA		02	5935	5935018		0		387	America/Vancouver	2019-02-26
+12031891	West Kelowna	West Kelowna		49.8611	-119.60917	A	ADM3	CA		02	5935	5935029		0		535	America/Vancouver	2019-02-26
+12031892	Armstrong	Armstrong		50.44485	-119.19785	A	ADM3	CA		02	5937	5937028		0		364	America/Vancouver	2019-02-26
+12031893	Lumby	Lumby		50.24977	-118.97245	A	ADM3	CA		02	5937	5937005		0		533	America/Vancouver	2019-02-26
+12031894	Vernon	Vernon		50.23395	-119.3463	A	ADM3	CA		02	5937	5937014		0		397	America/Vancouver	2019-02-26
+12031895	Sicamous	Sicamous		50.83583	-118.98028	A	ADM3	CA		02	5939	5939045		0		354	America/Vancouver	2019-02-26
+12031896	One Hundred Mile House	One Hundred Mile House		51.64133	-121.31273	A	ADM3	CA		02	5941	5941005		0		931	America/Vancouver	2019-02-26
+12031897	Alert Bay	Alert Bay		50.58305	-126.91817	A	ADM3	CA		02	5943	5943008		0		75	America/Vancouver	2019-02-26
+12031898	Port McNeill	Port McNeill		50.58813	-127.12156	A	ADM3	CA		02	5943	5943012		0		44	America/Vancouver	2019-02-26
+12031899	Port Edward	Port Edward		54.21425	-130.11545	A	ADM3	CA		02	5947	5947007		0		90	America/Vancouver	2019-02-26
+12031900	Prince Rupert	Prince Rupert		54.29025	-130.29713	A	ADM3	CA		02	5947	5947012		0		467	America/Vancouver	2019-02-26
+12031901	Daajing Giids	Daajing Giids		53.25802	-132.09453	A	ADM3	CA		02	5947	5947026		0		57	America/Vancouver	2023-11-20
+12031902	Kitimat	Kitimat		53.98926	-128.71387	A	ADM3	CA		02	5949	5949005		0		533	America/Vancouver	2019-02-26
+12031903	Nisga'a	Nisga'a		55.10784	-129.42928	A	ADM3	CA		02	5949	5949035		0		15	America/Vancouver	2019-02-26
+12031904	Fraser Lake	Fraser Lake		54.05834	-124.85163	A	ADM3	CA		02	5951	5951009		0		693	America/Vancouver	2019-02-26
+12031905	Granisle	Granisle		54.95093	-126.20953	A	ADM3	CA		02	5951	5951032		0		814	America/Vancouver	2019-02-26
+12031906	Mackenzie	Mackenzie		55.31414	-123.14727	A	ADM3	CA		02	5953	5953033		0		694	America/Vancouver	2019-02-26
+12031907	McBride	McBride		53.3067	-120.16685	A	ADM3	CA		02	5953	5953012		0		716	America/Vancouver	2019-02-26
+12031908	Valemount	Valemount		52.82838	-119.26587	A	ADM3	CA		02	5953	5953007		0		791	America/Vancouver	2019-02-26
+12031909	Ingenika Point	Ingenika Point		56.79625	-124.90815	A	ADM3	CA		02	5955	5955812		0		688	America/Vancouver	2019-02-26
+12031910	Good Hope Lake	Good Hope Lake		59.18841	-129.22286	A	ADM3	CA		02	5957	5957804		0		749	America/Vancouver	2019-02-26
+12031911	Lower Post	Lower Post		59.92538	-128.49236	A	ADM3	CA		02	5957	5957813		0		586	America/Vancouver	2019-02-26
+12031912	Elkford	Elkford		50.06209	-114.87689	A	ADM3	CA		02	5901	5901003		0		1692	America/Edmonton	2019-02-26
+12031913	Canal Flats	Canal Flats		50.16536	-115.82139	A	ADM3	CA		02	5901	5901043		0		818	America/Edmonton	2019-02-26
+12031914	Creston	Creston		49.10574	-116.51435	A	ADM3	CA		02	5903	5903004		0		602	America/Creston	2019-02-26
+12031915	Kaslo	Kaslo		49.90854	-116.91407	A	ADM3	CA		02	5903	5903023		0		571	America/Vancouver	2019-02-26
+12031916	Saanich	Saanich		48.49689	-123.38992	A	ADM3	CA		02	5917	5917021		0		52	America/Vancouver	2019-02-26
+12031917	Delta	Delta		49.10021	-123.01524	A	ADM3	CA		02	5915	5915011		0		13	America/Vancouver	2019-02-26
+12031918	Lions Bay	Lions Bay		49.46263	-123.23569	A	ADM3	CA		02	5915	5915065		0		109	America/Vancouver	2019-02-26
+12031919	Ucluelet	Ucluelet		48.94354	-125.5607	A	ADM3	CA		02	5923	5923019		0		33	America/Vancouver	2019-02-26
+12031920	Clinton	Clinton		51.09204	-121.57578	A	ADM3	CA		02	5933	5933028		0		870	America/Vancouver	2019-02-28
+12031921	Kamloops	Kamloops		50.68943	-120.39504	A	ADM3	CA		02	5933	5933042		0		346	America/Vancouver	2019-02-28
+12031922	Nakusp	Nakusp		50.24404	-117.80483	A	ADM3	CA		02	5903	5903050		0		463	America/Vancouver	2019-02-28
+12031923	Salmo	Salmo		49.19074	-117.28027	A	ADM3	CA		02	5903	5903011		0		666	America/Vancouver	2019-02-26
+12031924	Silverton	Silverton		49.95292	-117.36071	A	ADM3	CA		02	5903	5903027		0		546	America/Vancouver	2019-02-26
+12031925	Slocan	Slocan		49.7666	-117.46885	A	ADM3	CA		02	5903	5903019		0		547	America/Vancouver	2019-02-26
+12031926	Fruitvale	Fruitvale		49.11075	-117.55067	A	ADM3	CA		02	5905	5905005		0		605	America/Vancouver	2019-02-26
+12031927	Keremeos	Keremeos		49.20575	-119.82562	A	ADM3	CA		02	5907	5907009		0		414	America/Vancouver	2019-02-26
+12031928	Northern Rockies	Northern Rockies		59.07446	-123.44616	A	ADM3	CA		02	5959	5959007		0		447	America/Fort_Nelson	2019-02-26
+12031929	Sidney	Sidney		48.6519	-123.40705	A	ADM3	CA		02	5917	5917010		0		11	America/Vancouver	2019-02-26
+12031930	Gibsons	Gibsons		49.40316	-123.51613	A	ADM3	CA		02	5929	5929005		0		116	America/Vancouver	2019-02-26
+12031931	New Hazelton	New Hazelton		55.23662	-127.59507	A	ADM3	CA		02	5949	5949024		0		385	America/Vancouver	2019-02-26
+12031932	Dawson Creek	Dawson Creek		55.75522	-120.22621	A	ADM3	CA		02	5955	5955014		0		659	America/Dawson_Creek	2019-02-26
+12031933	Fernie	Fernie		49.50629	-115.05936	A	ADM3	CA		02	5901	5901012		0		1008	America/Edmonton	2019-02-26
+12031934	Kimberley	Kimberley		49.66787	-115.98279	A	ADM3	CA		02	5901	5901028		0		1115	America/Edmonton	2019-02-26
+12031935	Radium Hot Springs	Radium Hot Springs		50.62708	-116.08132	A	ADM3	CA		02	5901	5901040		0		832	America/Edmonton	2019-02-26
+12031936	Grand Forks	Grand Forks		49.03067	-118.44664	A	ADM3	CA		02	5905	5905032		0		523	America/Vancouver	2019-02-26
+12031937	Midway	Midway		49.00887	-118.79904	A	ADM3	CA		02	5905	5905037		0		573	America/Vancouver	2019-02-26
+12031938	Montrose	Montrose		49.07795	-117.59056	A	ADM3	CA		02	5905	5905009		0		593	America/Vancouver	2019-02-26
+12031939	Warfield	Warfield		49.0946	-117.74673	A	ADM3	CA		02	5905	5905018		0		610	America/Vancouver	2019-02-26
+12031940	Rossland	Rossland		49.1218	-117.84648	A	ADM3	CA		02	5905	5905023		0		1677	America/Vancouver	2019-02-26
+12031941	Trail	Trail		49.08954	-117.71317	A	ADM3	CA		02	5905	5905014		0		624	America/Vancouver	2019-02-26
+12031942	Oliver	Oliver		49.18444	-119.55001	A	ADM3	CA		02	5907	5907014		0		300	America/Vancouver	2019-02-26
+12031943	Belcarra	Belcarra		49.31367	-122.9252	A	ADM3	CA		02	5915	5915036		0		27	America/Vancouver	2019-02-28
+12031944	Osoyoos	Osoyoos		49.02634	-119.4706	A	ADM3	CA		02	5907	5907005		0		298	America/Vancouver	2019-02-26
+12031945	Penticton	Penticton		49.49559	-119.56981	A	ADM3	CA		02	5907	5907041		0		422	America/Vancouver	2019-02-26
+12031946	Princeton	Princeton		49.36119	-120.51803	A	ADM3	CA		02	5907	5907024		0		901	America/Vancouver	2019-02-26
+12031947	Summerland	Summerland		49.61495	-119.70449	A	ADM3	CA		02	5907	5907035		0		579	America/Vancouver	2019-02-26
+12031948	Harrison Hot Springs	Harrison Hot Springs		49.29774	-121.78427	A	ADM3	CA		02	5909	5909027		0		22	America/Vancouver	2019-02-26
+12031949	Hope	Hope		49.37994	-121.45465	A	ADM3	CA		02	5909	5909009		0		45	America/Vancouver	2019-02-26
+12031950	Anmore	Anmore		49.32109	-122.84552	A	ADM3	CA		02	5915	5915038		0		293	America/Vancouver	2019-04-30
+12031951	Mission	Mission		49.23238	-122.3428	A	ADM3	CA		02	5909	5909056		41519		212	America/Vancouver	2026-03-27
+12031952	New Westminster	New Westminster		49.20809	-122.91928	A	ADM3	CA		02	5915	5915029		0		87	America/Vancouver	2019-02-26
+12031953	Duncan	Duncan		48.7794	-123.70215	A	ADM3	CA		02	5919	5919012		0		19	America/Vancouver	2019-02-26
+12031954	North Vancouver	North Vancouver		49.32018	-123.06995	A	ADM3	CA		02	5915	5915051		0		107	America/Vancouver	2019-02-26
+12031955	Barriere	Barriere		51.17867	-120.12543	A	ADM3	CA		02	5933	5933074		0		385	America/Vancouver	2019-02-26
+12031956	Pitt Meadows	Pitt Meadows		49.27199	-122.66373	A	ADM3	CA		02	5915	5915070		0		4	America/Vancouver	2019-02-26
+12031957	Cache Creek	Cache Creek		50.79792	-121.31904	A	ADM3	CA		02	5933	5933024		0		449	America/Vancouver	2019-02-26
+12031958	Port Coquitlam	Port Coquitlam		49.25334	-122.76191	A	ADM3	CA		02	5915	5915039		0		3	America/Vancouver	2019-02-26
+12031959	Central Saanich	Central Saanich		48.58042	-123.42217	A	ADM3	CA		02	5917	5917015		0		65	America/Vancouver	2019-02-26
+12031960	Colwood	Colwood		48.4263	-123.48651	A	ADM3	CA		02	5917	5917041		0		94	America/Vancouver	2019-02-26
+12031961	Langford	Langford		48.45104	-123.52904	A	ADM3	CA		02	5917	5917044		0		72	America/Vancouver	2019-02-26
+12031962	Oak Bay	Oak Bay		48.43543	-123.31035	A	ADM3	CA		02	5917	5917030		0		20	America/Vancouver	2019-02-26
+12031963	View Royal	View Royal		48.47108	-123.46254	A	ADM3	CA		02	5917	5917047		0		66	America/Vancouver	2019-02-26
+12031964	Ladysmith	Ladysmith		48.97515	-123.80847	A	ADM3	CA		02	5919	5919021		0		82	America/Vancouver	2019-02-26
+12031965	Lake Cowichan	Lake Cowichan		48.82337	-124.06045	A	ADM3	CA		02	5919	5919016		0		166	America/Vancouver	2019-02-26
+12031966	Lantzville	Lantzville		49.23005	-124.10025	A	ADM3	CA		02	5921	5921008		0		344	America/Vancouver	2019-02-26
+12031967	Parksville	Parksville		49.31741	-124.30448	A	ADM3	CA		02	5921	5921018		0		19	America/Vancouver	2019-02-26
+12031968	Qualicum Beach	Qualicum Beach		49.34539	-124.42929	A	ADM3	CA		02	5921	5921023		0		55	America/Vancouver	2019-02-26
+12031969	Gold River	Gold River		49.77995	-126.05227	A	ADM3	CA		02	5924	5924025		0		114	America/Vancouver	2019-02-28
+12031970	Sayward	Sayward		50.37162	-125.94821	A	ADM3	CA		02	5924	5924039		0		7	America/Vancouver	2019-02-26
+12031971	Tahsis	Tahsis		49.92243	-126.65375	A	ADM3	CA		02	5924	5924030		0		1	America/Vancouver	2019-02-26
+12031972	Zeballos	Zeballos		49.98715	-126.85324	A	ADM3	CA		02	5924	5924029		0		62	America/Vancouver	2023-09-06
+12031973	Comox	Comox		49.69567	-124.91081	A	ADM3	CA		02	5926	5926005		0		56	America/Vancouver	2019-02-26
+12031974	Cumberland	Cumberland		49.62975	-125.04369	A	ADM3	CA		02	5926	5926014		0		186	America/Vancouver	2019-02-26
+12031975	Powell River	Powell River		49.86155	-124.53376	A	ADM3	CA		02	5927	5927008		0		115	America/Vancouver	2019-02-26
+12031976	Sechelt (Part)	Sechelt (Part)		49.7745	-124.3346	A	ADM3	CA		02	5927	5927806		0		39	America/Vancouver	2019-02-26
+12031977	Ashcroft	Ashcroft		50.69623	-121.34213	A	ADM3	CA		02	5933	5933019		0		492	America/Vancouver	2019-02-26
+12031978	Chase	Chase		50.82028	-119.6811	A	ADM3	CA		02	5933	5933054		0		379	America/Vancouver	2019-02-28
+12031979	Lytton	Lytton		50.22582	-121.57079	A	ADM3	CA		02	5933	5933015		0		346	America/Vancouver	2019-02-26
+12031980	Logan Lake	Logan Lake		50.48659	-121.0282	A	ADM3	CA		02	5933	5933035		0		1204	America/Vancouver	2019-02-26
+12031981	Merritt	Merritt		50.11285	-120.77526	A	ADM3	CA		02	5933	5933006		0		597	America/Vancouver	2019-02-26
+12031982	Sun Peaks Mountain	Sun Peaks Mountain		50.88919	-119.89597	A	ADM3	CA		02	5933	5933045		0		1433	America/Vancouver	2019-02-26
+12031983	Enderby	Enderby		50.55501	-119.14388	A	ADM3	CA		02	5937	5937033		0		362	America/Vancouver	2019-02-26
+12031984	Kelowna	Kelowna		49.88494	-119.44032	A	ADM3	CA		02	5935	5935010		0		366	America/Vancouver	2019-02-26
+12031985	Coldstream	Coldstream		50.2277	-119.1747	A	ADM3	CA		02	5937	5937010		0		489	America/Vancouver	2019-02-26
+12031986	Golden	Golden		51.29838	-116.96321	A	ADM3	CA		02	5939	5939007		0		789	America/Edmonton	2019-02-26
+12031987	Revelstoke	Revelstoke		50.99751	-118.19164	A	ADM3	CA		02	5939	5939019		0		459	America/Vancouver	2019-02-26
+12031988	Wells	Wells		53.10907	-121.6283	A	ADM3	CA		02	5941	5941025		0		1732	America/Vancouver	2019-02-26
+12031989	Salmon Arm	Salmon Arm		50.69969	-119.28461	A	ADM3	CA		02	5939	5939032		0		360	America/Vancouver	2019-02-26
+12031990	Quesnel	Quesnel		52.98769	-122.4757	A	ADM3	CA		02	5941	5941013		0		506	America/Vancouver	2019-02-26
+12031991	Williams Lake	Williams Lake		52.13466	-122.13819	A	ADM3	CA		02	5941	5941009		0		633	America/Vancouver	2019-02-28
+12031992	Port Alice	Port Alice		50.41696	-127.47595	A	ADM3	CA		02	5943	5943017		0		179	America/Vancouver	2019-02-26
+12031993	Port Hardy	Port Hardy		50.69468	-127.44114	A	ADM3	CA		02	5943	5943023		0		27	America/Vancouver	2019-02-26
+12031994	Masset	Masset		54.02071	-132.1037	A	ADM3	CA		02	5947	5947023		0		12	America/Vancouver	2019-02-26
+12031995	Burns Lake	Burns Lake		54.22918	-125.75272	A	ADM3	CA		02	5951	5951022		0		764	America/Vancouver	2019-02-28
+12031996	Port Clements	Port Clements		53.68505	-132.18306	A	ADM3	CA		02	5947	5947030		0		22	America/Vancouver	2019-02-28
+12031997	Hazelton	Hazelton		55.25835	-127.64826	A	ADM3	CA		02	5949	5949022		0		302	America/Vancouver	2019-02-26
+12031998	Stewart	Stewart		56.1378	-130.15496	A	ADM3	CA		02	5949	5949032		0		1659	America/Vancouver	2019-02-26
+12031999	Terrace	Terrace		54.4783	-128.5918	A	ADM3	CA		02	5949	5949011		0		210	America/Vancouver	2019-02-26
+12032000	Pouce Coupe	Pouce Coupe		55.71825	-120.13275	A	ADM3	CA		02	5955	5955005		0		646	America/Dawson_Creek	2019-02-26
+12032001	Fort St. James	Fort St. James		54.47074	-124.22699	A	ADM3	CA		02	5951	5951013		0		801	America/Vancouver	2019-02-26
+12032002	Houston	Houston		54.39692	-126.66647	A	ADM3	CA		02	5951	5951034		0		588	America/Vancouver	2019-02-26
+12032003	Smithers	Smithers		54.78616	-127.16493	A	ADM3	CA		02	5951	5951043		0		498	America/Vancouver	2019-02-26
+12032004	Telkwa	Telkwa		54.68462	-127.05501	A	ADM3	CA		02	5951	5951038		0		547	America/Vancouver	2019-02-26
+12032005	Vanderhoof	Vanderhoof		54.01583	-124.0263	A	ADM3	CA		02	5951	5951007		0		637	America/Vancouver	2019-02-26
+12032006	Taylor	Taylor		56.15561	-120.67896	A	ADM3	CA		02	5955	5955030		0		476	America/Dawson_Creek	2019-02-26
+12032007	Prince George	Prince George		53.92389	-122.77571	A	ADM3	CA		02	5953	5953023		0		593	America/Vancouver	2019-02-26
+12032008	Chetwynd	Chetwynd		55.71746	-121.61892	A	ADM3	CA		02	5955	5955010		0		767	America/Dawson_Creek	2019-02-28
+12032009	Tumbler Ridge	Tumbler Ridge		55.05845	-121.15875	A	ADM3	CA		02	5955	5955003		0		1195	America/Dawson_Creek	2019-02-26
+12032010	Fort St. John	Fort St. John		56.24448	-120.83658	A	ADM3	CA		02	5955	5955034		0		685	America/Dawson_Creek	2019-02-26
+12032011	Hudson's Hope	Hudson's Hope		56.02363	-122.00684	A	ADM3	CA		02	5955	5955025		0		687	America/Dawson_Creek	2019-02-26
+12719290	Old Toronto	Old Toronto		43.65317	-79.40078	A	ADM3	CA		08	3520	12719290		0		100	America/Toronto	2024-01-26
+12719291	York	York		43.69011	-79.47752	A	ADM3	CA		08	3520	12719291		0		109	America/Toronto	2024-01-26
+12746276	Courcelles-Saint-Évariste	Courcelles-Saint-Evariste		45.88065	-70.98618	A	ADM3	CA		10	12	29027		1325		331	America/Toronto	2024-02-13
+12746277	Plessisville	Plessisville		46.22046	-71.78304	A	ADM3	CA		10	17	32043		9069		140	America/Toronto	2024-02-12
+12746342	Longueuil	Longueuil		45.52097	-73.43735	A	ADM3	CA		10	16	58227		0		29	America/Toronto	2024-02-13
+12908719	Laverlochère-Angliers	Laverlochere-Angliers		47.53483	-79.16418	A	ADM3	CA		10	08	85052		0		303	America/Toronto	2024-06-14
+12908720	Trois-Rivières	Trois-Rivieres		46.36323	-72.6119	A	ADM3	CA		10	04	37067		0		58	America/Toronto	2024-06-14
+12908721	Saint-Pierre-de-Broughton	Saint-Pierre-de-Broughton		46.24816	-71.19369	A	ADM3	CA		10	12	31135		0		403	America/Toronto	2024-06-14
+12908722	Coaticook	Coaticook		45.09528	-71.83769	A	ADM3	CA		10	05	44037		0		394	America/Toronto	2024-06-14
+12908723	Joliette	Joliette		46.01251	-73.42418	A	ADM3	CA		10	14	61025		0		53	America/Toronto	2024-06-14
+12908724	Gatineau	Gatineau		45.49085	-75.65852	A	ADM3	CA		10	07	81017		291041		57	America/Toronto	2024-12-29
+12908725	La Morandière-Rochebaucourt	La Morandiere-Rochebaucourt		48.68287	-77.62856	A	ADM3	CA		10	08	88012		0		309	America/Toronto	2024-06-14
+12908726	Rouyn-Noranda	Rouyn-Noranda		48.13282	-78.87312	A	ADM3	CA		10	08	86042		0		287	America/Toronto	2024-06-14
+12908727	Lac-Sergent	Lac-Sergent		46.8702	-71.72281	A	ADM3	CA		10	03	34120		0		157	America/Toronto	2024-06-14
+12908728	Sherbrooke	Sherbrooke		45.4015	-71.96187	A	ADM3	CA		10	05	43027		0		226	America/Toronto	2024-06-14
+12908729	Mirabel	Mirabel		45.65203	-74.05981	A	ADM3	CA		10	15	74005		0		83	America/Toronto	2024-06-14
+12908730	L'Assomption	L'Assomption		45.85693	-73.42669	A	ADM3	CA		10	14	60028		0		22	America/Toronto	2024-06-14
+12908731	Laval	Laval		45.60518	-73.7251	A	ADM3	CA		10	13	65005		0		49	America/Toronto	2024-06-14

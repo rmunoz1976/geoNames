@@ -1,0 +1,294 @@
+﻿630737	Ypäjä	Ypaejae	981,Ypaejae,Ypaja,Ypajan Kunta,Ypäjä,Ypäjän Kunta	60.80584	23.27495	A	ADM3	FI		05	053	981		2286		94	Europe/Helsinki	2022-12-29
+630753	Ylöjärvi	Yloejaervi	980,Yloejaervi,Ylojarven Kaupunki,Ylojarvi,Ylöjärven Kaupunki,Ylöjärvi	61.84827	23.61233	A	ADM3	FI		06	064	980		30500		125	Europe/Helsinki	2014-09-24
+630769	Ylivieska	Ylivieska	977,Ilivjeska,Julivieska,Ylivieska,Ylivieska linn,Ylivieskan Kaupunki,shang wei ye si ka,ylywyska,Ύλιβιεσκα,Иливјеска,Юливиеска,Юлівієска,یلیویسکا,上維耶斯卡	64.064	24.67608	A	ADM3	FI		17	177	977		14067		73	Europe/Helsinki	2014-09-24
+630780	Ylitornio	Ylitornio	976,OEvertornea,Overtornea,Ylitornio,Ylitornion Kunta,Övertorneå	66.41467	24.30554	A	ADM3	FI		19	193	976		4731		119	Europe/Helsinki	2016-05-10
+631377	Virrat	Virrat	936,Virdois,Virrat,Virtain Kaupunki	62.27411	23.68698	A	ADM3	FI		06	069	936		6462		136	Europe/Helsinki	2022-12-29
+631390	Virolahti	Virolahti	935,Vederlaks,Vederlax,Virolahden Kunta,Virolahti	60.52465	27.5948	A	ADM3	FI		08	082	935		3042		1	Europe/Helsinki	2022-12-29
+631449	Vimpeli	Vimpeli	934,Vimpeli,Vimpelin Kunta,Vindala	63.18178	23.94316	A	ADM3	FI		14	146	934		2756		127	Europe/Helsinki	2022-12-31
+631566	Viitasaari	Viitasaari	931,Viitasaaren Kaupunki,Viitasaari	63.08333	25.83333	A	ADM3	FI		13	138	931		7174		84	Europe/Helsinki	2016-05-10
+631708	Vihti	Vihti	927,Vichtis,Vichtis Kommun,Vihdin Kunta,Vihti,Viktis	60.40505	24.39587	A	ADM3	FI		01	011	927		29241		67	Europe/Helsinki	2022-12-29
+631780	Vieremä	Vieremae	925,Vierema,Vieremae,Viereman Kunta,Vieremä,Vieremän Kunta	63.83835	26.99699	A	ADM3	FI		11	111	925		3490		138	Europe/Helsinki	2022-12-29
+631827	Veteli	Veteli	924,Veteli,Vetelin Kunta,Vetil	63.41667	23.91667	A	ADM3	FI		16	161	924		3466		101	Europe/Helsinki	2016-05-10
+631857	Vesilahti	Vesilahti	922,Vesilahden Kunta,Vesilahti,Vesilax	61.28509	23.48543	A	ADM3	FI		06	064	922		4345		90	Europe/Helsinki	2016-05-10
+631875	Vesanto	Vesanto	921,Vesannon Kunta,Vesanto	62.89166	26.39301	A	ADM3	FI		11	115	921		1941		123	Europe/Helsinki	2022-12-30
+632063	Vehmaa	Vehmaa	918,Vehmaa,Vehmaan Kunta,Vehmo,Vemo	60.68484	21.67302	A	ADM3	FI		02	024	918		2271		7	Europe/Helsinki	2022-12-30
+632371	Varkaus	Varkaus	915,Varkauden,Varkauden Kaupunki,Varkaus,Warkaus	62.26768	28.10534	A	ADM3	FI		11	114	915		22777		101	Europe/Helsinki	2017-03-04
+632553	Valtimo	Valtimo	Valtimo,Valtimon Kunta	63.72298	28.7767	A	ADM3	FI		12	125	911		2458		187	Europe/Helsinki	2016-05-10
+632674	Valkeakoski	Valkeakoski	908,Valkeakosken,Valkeakosken Kaupunki,Valkeakoski	61.21545	24.03986	A	ADM3	FI		06	063	908		20701		108	Europe/Helsinki	2022-12-30
+632979	Vaasa	Vaasa	905,Vaasa,Vaasan Kaupunki,Vasa,Vasa Stad	63.06985	21.80267	A	ADM3	FI		15	152	905		67631		19	Europe/Helsinki	2022-12-30
+633098	Vaala	Vaala	785,Vaala,Vaalan Kunta	64.51363	26.91395	A	ADM3	FI		18	182	785		3370		137	Europe/Helsinki	2016-05-10
+633222	Uusikaupunki	Uusikaupunki	895,Nystad,Uudenkaupungin Kaupunki,Uusikaupunki	60.80755	21.39688	A	ADM3	FI		02	024	895		15463		15	Europe/Helsinki	2022-12-30
+633244	Uurainen	Uurainen	892,Urais,Uurainen,Uuraisten Kunta	62.46182	25.41498	A	ADM3	FI		13	131	892		3455		159	Europe/Helsinki	2016-05-10
+633269	Utsjoki	Utsjoki	890,Ohcejohka,Utsjoen Kunta,Utsjoki	69.66667	27	A	ADM3	FI		19	197	890		1178		206	Europe/Helsinki	2023-09-06
+633297	Utajärvi	Utajaervi	889,Utajaervi,Utajarven Kunta,Utajarvi,Utajärven Kunta,Utajärvi	64.82915	26.76796	A	ADM3	FI		17	173	889		2568		109	Europe/Helsinki	2022-12-31
+633333	Urjala	Urjala	887,Urjala,Urjalan Kunta	61.06326	23.54525	A	ADM3	FI		06	063	887		4673		118	Europe/Helsinki	2022-12-30
+633396	Ulvila	Ulvila	886,Ulfsby,Ulvila,Ulvilan Kaupunki,Ulvilan Kunta,Ulvsby,Ulvsby Stad	61.48899	22.08868	A	ADM3	FI		04	043	886		13606		36	Europe/Helsinki	2017-03-04
+633542	Tyrnävä	Tyrnaevae	859,Tyrnaevae,Tyrnava,Tyrnavan Kunta,Tyrnävä,Tyrnävän Kunta	64.69682	25.78394	A	ADM3	FI		17	171	859		6592		62	Europe/Helsinki	2023-01-01
+633592	Tuusula	Tuusula	858,Thusby,Tusby,Tusby Kommun,Tuusula,Tuusulan Kunta	60.44844	25.01365	A	ADM3	FI		01	011	858		37214		49	Europe/Helsinki	2016-05-10
+633594	Tuusniemi	Tuusniemi	857,Tuusniemen Kunta,Tuusniemi	62.76442	28.47132	A	ADM3	FI		11	113	857		2864		78	Europe/Helsinki	2016-05-10
+633680	Turku	Turku	853,Abo,Abo Stad,Turku,Turun Kaupunki,Åbo,Åbo Stad	60.53333	22.33333	A	ADM3	FI		02	023	853		195301		38	Europe/Helsinki	2022-12-30
+634096	Tornio	Tornio	851,Tornea,Tornea Stad,Torneå,Torneå Stad,Tornio,Tornion Kaupunki	66.04333	24.30424	A	ADM3	FI		19	192	851		21326		55	Europe/Helsinki	2022-12-28
+634298	Toivakka	Toivakka	850,Toivakan Kunta,Toivakka	62.1144	26.06213	A	ADM3	FI		13	131	850		2386		101	Europe/Helsinki	2022-12-28
+634325	Toholampi	Toholampi	849,Toholammin Kunta,Toholampi	63.74334	24.28587	A	ADM3	FI		16	161	849		2937		82	Europe/Helsinki	2022-12-28
+634333	Tohmajärvi	Tohmajaervi	848,Tohmajaervi,Tohmajarven Kunta,Tohmajarvi,Tohmajärven Kunta,Tohmajärvi	62.25	30.33333	A	ADM3	FI		12	124	848		4242		97	Europe/Helsinki	2022-12-29
+634562	Teuva	Teuva	846,OEstermark,Teuva,Teuvan Kunta,Östermark	62.50271	21.81187	A	ADM3	FI		14	141	846		4955		84	Europe/Helsinki	2022-12-31
+634602	Tervola	Tervola	845,Tervola,Tervolan Kunta	66.12281	25.24106	A	ADM3	FI		19	192	845		2882		53	Europe/Helsinki	2022-12-28
+634612	Tervo	Tervo	844,Tervo,Tervon Kunta	63	26.83333	A	ADM3	FI		11	115	844		1478		114	Europe/Helsinki	2022-12-29
+634964	Tampere	Tampere	837,Tammerfors,Tammerfors Stad,Tampere,Tampereen Kaupunki	61.60736	23.87021	A	ADM3	FI		06	064	837		244315		121	Europe/Helsinki	2022-12-29
+634996	Tammela	Tammela	834,Tammela,Tammelan Kunta	60.79809	23.8227	A	ADM3	FI		05	053	834		6591		104	Europe/Helsinki	2016-05-10
+635133	Taivassalo	Taivassalo	833,Taivassalo,Taivassalon Kunta,Toevsala,Tofsala,Tovsala,Töfsala,Tövsala	60.56303	21.55926	A	ADM3	FI		02	024	833		1678		-9999	Europe/Helsinki	2022-12-30
+635142	Taivalkoski	Taivalkoski	832,Taivalkosken Kunta,Taivalkoski	65.54341	28.41024	A	ADM3	FI		17	178	832		3914		262	Europe/Helsinki	2022-12-31
+635151	Taipalsaari	Taipalsaari	831,Taipalsaaren Kunta,Taipalsaari	61.24845	28.18834	A	ADM3	FI		09	091	831		4593		92	Europe/Helsinki	2022-12-28
+635337	Sysmä	Sysmae	781,Sysma,Sysmae,Sysman Kunta,Sysmä,Sysmän Kunta	61.5	25.75	A	ADM3	FI		07	071	781		3583		111	Europe/Helsinki	2022-12-29
+635693	Suonenjoki	Suonenjoki	778,Suomenjoki,Suonenjoen Kaupunki,Suonenjoki	62.62531	27.17081	A	ADM3	FI		11	115	778		6891		123	Europe/Helsinki	2022-12-29
+635697	Suomussalmi	Suomussalmi	777,Suomussalmen Kunta,Suomussalmi	65.01408	29.10244	A	ADM3	FI		18	181	777		7509		201	Europe/Helsinki	2022-12-27
+635848	Sulkava	Sulkava	768,Sulkava,Sulkavan Kunta	61.6852	28.49483	A	ADM3	FI		10	103	768		2431		68	Europe/Helsinki	2022-12-28
+636174	Sotkamo	Sotkamo	765,Sotkamo,Sotkamon Kunta	64.02497	28.46283	A	ADM3	FI		18	182	765		10343		192	Europe/Helsinki	2022-12-28
+636305	Sonkajärvi	Sonkajaervi	762,Sonkajaervi,Sonkajarven Kunta,Sonkajarvi,Sonkajärven Kunta,Sonkajärvi	63.74334	27.65187	A	ADM3	FI		11	111	762		3776		163	Europe/Helsinki	2022-12-29
+636347	Somero	Somero	761,Somero,Someron Kaupunki	60.61221	23.56517	A	ADM3	FI		02	022	761		8564		87	Europe/Helsinki	2022-12-30
+636397	Soini	Soini	759,Soini,Soinin Kunta	62.83819	24.22967	A	ADM3	FI		14	146	759		2391		204	Europe/Helsinki	2022-12-31
+636465	Sodankylä	Sodankylae	758,Sodankyla,Sodankylae,Sodankylan Kunta,Sodankylä,Sodankylän Kunta	67.75	27	A	ADM3	FI		19	197	758		8187		234	Europe/Helsinki	2022-12-27
+636609	Siuntio	Siuntio	755,Siuntio,Siuntion Kunta,Sjundea,Sjundea Kommun,Sjundeå,Sjundeå Kommun	60.17071	24.19783	A	ADM3	FI		01	011	755		6198		18	Europe/Helsinki	2022-12-29
+636804	Simo	Simo	751,Simo,Simon Kunta	65.81401	25.29448	A	ADM3	FI		19	192	751		2904		69	Europe/Helsinki	2022-12-28
+636948	Siilinjärvi	Siilinjaervi	749,Siilinjaervi,Siilinjarven Kunta,Siilinjarvi,Siilinjärven Kunta,Siilinjärvi	63.08333	27.66667	A	ADM3	FI		11	112	749		21297		83	Europe/Helsinki	2022-12-29
+637003	Siikajoki	Siikajoki	748,Siikajoen Kunta,Siikajoki	64.67653	24.97526	A	ADM3	FI		17	174	748		5024		55	Europe/Helsinki	2022-12-31
+637021	Siikainen	Siikainen	747,Siikainen,Siikais,Siikais kommun,Siikaisten Kunta,Siikoinen	61.86766	21.90827	A	ADM3	FI		04	044	747		1352		41	Europe/Helsinki	2022-12-29
+637036	Sievi	Sievi	746,Sievi,Sievin Kunta	63.85023	24.56071	A	ADM3	FI		17	177	746		4783		108	Europe/Helsinki	2022-12-31
+637068	Sipoo	Sipoo	753,Sibba,Sibbo,Sibbo Kommun,Sibbå,Sipoo,Sipoon Kunta	60.33391	25.2906	A	ADM3	FI		01	011	753		22186		24	Europe/Helsinki	2022-12-29
+637220	Seinäjoki	Seinaejoki	743,OEstermyra,Seinaejoki,Seinaejoki linn,Seinajoen,Seinajoen Kaupunki,Seinajoki,Seinejokis,Seinjogi,Seinäjoen,Seinäjoen Kaupunki,Seinäjoki,Seinäjoki linn,Sejnejoki,Sejnjajoki,Seynya-Yoki,sai yi nai yue ji,seinayoki,seineyoki,synajwky,synaywky,syynywqy,Östermyra,Сейняйоки,Сейняёки,Сејнејоки,סייניוקי,سينايوكي,سیناجوکی,セイナヨキ,塞伊奈约基,세이네요키	62.73277	22.90845	A	ADM3	FI		14	142	743		64743		86	Europe/Helsinki	2023-01-01
+637285	Savukoski	Savukoski	742,Savukosken Kunta,Savukoski	67.66667	28.5	A	ADM3	FI		19	194	742		1008		272	Europe/Helsinki	2022-12-27
+637293	Savonlinna	Savonlinna	740,Nyslott,Nyslott Stad,Nyslotts Stad,Savonlinna,Savonlinnan Kaupunki	61.8624	29.10818	A	ADM3	FI		10	103	740		32551		140	Europe/Helsinki	2022-12-28
+637314	Savitaipale	Savitaipale	739,Savitaipale,Savitaipaleen Kunta	61.16499	27.51646	A	ADM3	FI		09	091	739		3260		103	Europe/Helsinki	2022-12-28
+637401	Sauvo	Sauvo	738,Sagu,Sagu Kommun,Sauvo,Sauvon Kunta	60.3422	22.70629	A	ADM3	FI		02	023	738		2958		39	Europe/Helsinki	2023-10-06
+637959	Salo	Salo	734,Salo,Salo Kauppala,Salo Stad,Salon,Salon Kaupunki	60.38862	23.13645	A	ADM3	FI		02	022	734		51407		10	Europe/Helsinki	2022-12-30
+638075	Salla	Salla	732,Kuolajarvi,Kuolajärvi,Salla,Sallan Kunta	67.03097	28.83461	A	ADM3	FI		19	194	732		3415		205	Europe/Helsinki	2022-12-27
+638105	Säkylä	Saekylae	783,Saekylae,Sakyla,Sakyla Kommun,Sakylan Kunta,Säkylä,Säkylä Kommun,Säkylän Kunta	61.06325	22.40369	A	ADM3	FI		04	041	783		6587		62	Europe/Helsinki	2022-12-29
+638390	Saarijärvi	Saarijaervi	729,Saarijaervi,Saarijarven Kaupunki,Saarijarvi,Saarijärven Kaupunki,Saarijärvi	62.69343	25.11014	A	ADM3	FI		13	138	729		9115		118	Europe/Helsinki	2022-12-29
+638671	Rusko	Rusko	704,Rusko,Ruskon Kunta	60.60351	22.29072	A	ADM3	FI		02	023	704		6379		35	Europe/Helsinki	2022-12-30
+638693	Ruovesi	Ruovesi	702,Ruoveden Kunta,Ruovesi	61.95855	24.06192	A	ADM3	FI		06	069	702		4154		120	Europe/Helsinki	2022-12-29
+638804	Ruokolahti	Ruokolahti	700,Ruokolahden Kunta,Ruokolahti,Ruokolax	61.3932	28.79885	A	ADM3	FI		09	093	700		4916		108	Europe/Helsinki	2022-12-29
+638937	Rovaniemi	Rovaniemi	698,Rovaniemen Kaupunki,Rovaniemi,Rovaniyemi,Rovannami	66.60881	25.95247	A	ADM3	FI		19	191	698		64194		184	Europe/Helsinki	2022-12-27
+639247	Ristijärvi	Ristijaervi	697,Ristijaervi,Ristijarven Kunta,Ristijarvi,Ristijärven Kunta,Ristijärvi	64.50001	28.40176	A	ADM3	FI		18	182	697		1210		135	Europe/Helsinki	2022-12-29
+639411	Riihimäki	Riihimaeki	694,Riihimaeki,Riihimaen,Riihimaen Kaupunki,Riihimaki,Riihimäen,Riihimäen Kaupunki,Riihimäki,Rikhimyki	60.71539	24.73541	A	ADM3	FI		05	052	694		28531		100	Europe/Helsinki	2022-12-29
+639578	Reisjärvi	Reisjaervi	691,Reisjaervi,Reisjarven Kunta,Reisjarvi,Reisjärven Kunta,Reisjärvi	63.6144	24.9645	A	ADM3	FI		17	176	691		2689		128	Europe/Helsinki	2022-12-31
+639672	Rautjärvi	Rautjaervi	689,Rautjaervi,Rautjarven Kunta,Rautjarvi,Rautjärven Kunta,Rautjärvi	61.37106	29.2212	A	ADM3	FI		09	093	689		3092		135	Europe/Helsinki	2022-12-29
+639701	Rautavaara	Rautavaara	687,Rautavaara,Rautavaaran Kunta	63.48886	28.40176	A	ADM3	FI		11	113	687		1513		141	Europe/Helsinki	2022-12-28
+639711	Rautalampi	Rautalampi	686,Rautalammin Kunta,Rautalampi	62.64234	26.73824	A	ADM3	FI		11	115	686		3035		140	Europe/Helsinki	2022-12-29
+639735	Rauma	Rauma	684,Rauma,Rauman Kaupunki,Raumo,Raumo Stad	61.09484	21.62501	A	ADM3	FI		04	041	684		38970		23	Europe/Helsinki	2022-12-28
+639890	Ranua	Ranua	683,Ranua,Ranuan Kunta	65.98861	26.59874	A	ADM3	FI		19	191	683		3670		163	Europe/Helsinki	2022-12-28
+639907	Rantasalmi	Rantasalmi	681,Rantasalmen Kunta,Rantasalmi	62.11063	28.2903	A	ADM3	FI		10	103	681		3329		95	Europe/Helsinki	2022-12-28
+640125	Raisio	Raisio	680,Raisio,Raision Kaupunki,Reso,Reso Stad	60.49194	22.14503	A	ADM3	FI		02	023	680		24818		28	Europe/Helsinki	2022-12-30
+640272	Rääkkylä	Raeaekkylae	707,Raakkyla,Raakkylan Kunta,Raeaekkylae,Rääkkylä,Rääkkylän Kunta	62.26199	29.77692	A	ADM3	FI		12	124	707		2031		103	Europe/Helsinki	2022-12-29
+640277	Raahe	Raahe	678,Brahestad,Raahe,Raahen Kaupunki	64.50134	24.8231	A	ADM3	FI		17	174	678		24260		110	Europe/Helsinki	2022-12-31
+640385	Pyttis	Pyttis	624,Pyhtaa,Pyhtaan Kunta,Pyhtää,Pyhtään Kunta,Pyttis,Pyttis Kommun	60.48633	26.65047	A	ADM3	FI		08	082	624		5118		13	Europe/Helsinki	2026-03-10
+640406	Pyhäranta	Pyhaeranta	631,Pyhaeranta,Pyharannan Kunta,Pyharanta,Pyhärannan Kunta,Pyhäranta	60.9902	21.45641	A	ADM3	FI		02	024	631		1986		31	Europe/Helsinki	2022-12-30
+640410	Pyhäntä	Pyhaentae	630,Pyhaentae,Pyhannan Kunta,Pyhanta,Pyhata,Pyhännän Kunta,Pyhäntä,Pyhätä	64.07757	26.48632	A	ADM3	FI		17	175	630		1631		164	Europe/Helsinki	2022-12-31
+640439	Pyhäjoki	Pyhaejoki	625,Pyhaejoki,Pyhajoen Kunta,Pyhajoki,Pyhäjoen Kunta,Pyhäjoki	64.41667	24.41667	A	ADM3	FI		17	174	625		3045		25	Europe/Helsinki	2022-12-31
+640471	Pyhäjärvi	Pyhaejaervi	626,Pyhaejaervi,Pyhajarven Kaupunki,Pyhajarvi,Pyhäjärven Kaupunki,Pyhäjärvi	63.65682	25.90101	A	ADM3	FI		17	176	626		4962		148	Europe/Helsinki	2022-12-31
+640505	Puumala	Puumala	623,Puumala,Puumalan Kunta	61.58333	28.25	A	ADM3	FI		10	101	623		2119		68	Europe/Helsinki	2022-12-28
+640660	Puolanka	Puolanka	620,Puolangan Kunta,Puolanka	64.83254	27.735	A	ADM3	FI		18	181	620		2447		200	Europe/Helsinki	2022-12-28
+640690	Punkalaidun	Punkalaidun	619,Punkalaidun,Punkalaitumen Kunta	61.1155	23.13035	A	ADM3	FI		06	068	619		2719		102	Europe/Helsinki	2022-12-28
+640753	Pukkila	Pukkila	616,Buckila,Pukkila,Pukkilan Kunta	60.64982	25.59118	A	ADM3	FI		01	015	616		1848		55	Europe/Helsinki	2022-12-29
+640808	Pudasjärvi	Pudasjaervi	615,Pudasjaervi,Pudasjarven Kaupunki,Pudasjarvi,Pudasjärven Kaupunki,Pudasjärvi	65.4544	27.09777	A	ADM3	FI		17	173	615		7678		136	Europe/Helsinki	2022-12-31
+640829	Pöytyä	Poeytyae	636,Poeytyae,Poytis,Poytya,Poytyan Kunta,Pöytis,Pöytyä,Pöytyän Kunta	60.72134	22.54125	A	ADM3	FI		02	025	636		8227		63	Europe/Helsinki	2022-12-30
+640895	Posio	Posio	614,Posio,Posion Kunta	66.1085	28.17126	A	ADM3	FI		19	194	614		3066		255	Europe/Helsinki	2022-12-28
+640974	Pornainen	Pornainen	611,Borgnaes,Borgnas,Borgnäs,Pornaasi,Pornainen,Pornaisten Kunta,Pornanen,Pornasi,Porneesi,Pornääsi	60.47867	25.35957	A	ADM3	FI		01	011	611		5066		49	Europe/Helsinki	2022-12-29
+641000	Pori	Pori	609,Arctopolis,Bjoerneborg,Bjorneborg,Bjorneborgs Stad,Björneborg,Björneborgs Stad,Pori,Porin Kaupunki	61.57477	21.85943	A	ADM3	FI		04	043	609		83491		46	Europe/Helsinki	2022-12-29
+641045	Pomarkku	Pomarkku	608,Pamark,Pomarkku,Pomarkun Kunta,Påmark	61.69752	22.05836	A	ADM3	FI		04	043	608		2013		51	Europe/Helsinki	2022-12-28
+641061	Polvijärvi	Polvijaervi	607,Polvijaervi,Polvijarven Kunta,Polvijarvi,Polvijärven Kunta,Polvijärvi	62.8931	29.32889	A	ADM3	FI		12	122	607		4161		125	Europe/Helsinki	2022-12-29
+641491	Pirkkala	Pirkkala	604,Birkala,Etela-Pirkkala,Etelä-Pirkkala,Pirkkala,Pirkkalan Kunta	61.44106	23.61414	A	ADM3	FI		06	064	604		20207		102	Europe/Helsinki	2022-12-29
+641661	Pihtipudas	Pihtipudas	601,Pihtipudas,Pihtiputaan Kunta	63.40742	25.59223	A	ADM3	FI		13	138	601		3875		116	Europe/Helsinki	2022-12-28
+641863	Pielavesi	Pielavesi	595,Pielaveden Kunta,Pielavesi	63.27848	26.69161	A	ADM3	FI		11	111	595		4271		109	Europe/Helsinki	2022-12-29
+641976	Petäjävesi	Petaejaevesi	592,Petaejaevesi,Petajaveden Kunta,Petajavesi,Petäjäveden Kunta,Petäjävesi	62.29321	25.23446	A	ADM3	FI		13	131	592		3679		141	Europe/Helsinki	2022-12-29
+642140	Perho	Perho	584,Perho,Perhon Kunta	63.24964	24.44195	A	ADM3	FI		16	161	584		2677		184	Europe/Helsinki	2022-12-28
+642368	Pello	Pello	854,Pello,Pellon Kunta,Turtola	66.76517	24.3329	A	ADM3	FI		19	193	854		3296		98	Europe/Helsinki	2022-12-28
+642378	Pelkosenniemi	Pelkosenniemi	583,Pelkosenniemen Kunta,Pelkosenniemi	67.16667	27.5	A	ADM3	FI		19	194	583		924		161	Europe/Helsinki	2022-12-28
+642456	Pedersöre	Pedersoere	599,Pedersoeren kunta,Pedersore,Pedersore Kommun,Pedersoren Kunta,Pedersöre,Pedersöre Kommun,Pedersören Kunta,Pedersören kunta,Pietarsaaren Maalaiskunta,Pietarsaaren Pitaejae,Pietarsaaren Pitäjä	63.54145	22.96763	A	ADM3	FI		15	154	599		11171		30	Europe/Helsinki	2022-12-30
+642658	Parkano	Parkano	581,Parkano,Parkanon Kaupunki	62.07359	22.95805	A	ADM3	FI		06	061	581		6285		152	Europe/Helsinki	2022-12-28
+642667	Parikkala	Parikkala	580,Parikkala,Parikkalan Kunta	61.66909	29.68783	A	ADM3	FI		09	093	580		4571		66	Europe/Helsinki	2022-12-28
+642675	Pargas	Pargas	445,Laensi-Turunmaa,Laensi-Turunmaan Kaupunki,Länsi-Turunmaa,Länsi-Turunmaan Kaupunki,Parainen,Paraisten Kaupunki,Pargas,Pargas stad,Vaestaboland,Vaestabolands Stad,Väståboland,Väståbolands Stad	60.14413	21.75304	A	ADM3	FI		02	021	445		15086		15	Europe/Helsinki	2022-12-30
+642751	Paltamo	Paltamo	578,Paldamo,Paltamo,Paltamon Kunta	64.40484	27.72499	A	ADM3	FI		18	182	578		3184		122	Europe/Helsinki	2022-12-28
+642977	Pälkäne	Paelkaene	635,Paelkaene,Palkane,Palkaneen Kunta,Pälkäne,Pälkäneen Kunta	61.35403	24.51912	A	ADM3	FI		06	064	635		6439		105	Europe/Helsinki	2022-12-29
+643154	Paimio	Paimio	577,Paimio,Paimion Kaupunki,Pemar,Pemar Stad,Pemars Stad	60.45774	22.68963	A	ADM3	FI		02	023	577		11041		43	Europe/Helsinki	2022-12-30
+643261	Padasjoki	Padasjoki	576,Padasjoen Kunta,Padasjoki	61.35062	25.13732	A	ADM3	FI		07	071	576		2814		137	Europe/Helsinki	2022-12-28
+643493	Oulu	Oulu	564,Oulu,Oulun Kaupunki,Uleaborg,Uleaborgs Stad,Uleåborg,Uleåborgs Stad	65.21442	25.96448	A	ADM3	FI		17	171	564		209648		66	Europe/Helsinki	2022-12-31
+643498	Oulainen	Oulainen	563,Oulainen,Oulais,Oulais Stad,Oulaisten Kaupunki	64.25401	24.88815	A	ADM3	FI		17	177	563		7102		69	Europe/Helsinki	2022-12-31
+643631	Orivesi	Orivesi	562,Orivesi	61.67994	24.35892	A	ADM3	FI		06	064	562		8978		103	Europe/Helsinki	2022-12-28
+643641	Oripää	Oripaeae	561,Oripaa,Oripaan Kunta,Oripaeae,Oripää,Oripään Kunta	60.85872	22.67953	A	ADM3	FI		02	025	561		1337		78	Europe/Helsinki	2022-12-30
+643645	Orimattila	Orimattila	560,Orimattila	60.80474	25.72998	A	ADM3	FI		07	071	560		15814		76	Europe/Helsinki	2022-12-28
+644101	Nykarleby	Nykarleby	893,Nykarleby,Nykarleby Stad,Uudenkaarlepyyn Kaupunki,Uusikaarlepyy	63.45645	22.55613	A	ADM3	FI		15	154	893		7493		14	Europe/Helsinki	2026-02-15
+644175	Nurmijärvi	Nurmijaervi	543,Nurmijaervi,Nurmijarven Kunta,Nurmijarvi,Nurmijärven Kunta,Nurmijärvi	60.45312	24.76288	A	ADM3	FI		01	011	543		44136		61	Europe/Helsinki	2022-12-28
+644188	Nurmes	Nurmes	541,Nurmeksen Kaupunki,Nurmes	63.57805	29.14543	A	ADM3	FI		12	125	541		9419		108	Europe/Helsinki	2022-12-28
+644328	Nousiainen	Nousiainen	538,Nousiainen,Nousiaisten Kunta,Nousis	60.6563	22.16807	A	ADM3	FI		02	023	538		4688		50	Europe/Helsinki	2022-12-30
+644451	Nokia	Nokia	536,Nokia,Nokian,Nokian Kauppala,Nokian Kaupunki,Pohjois-Pirkkala	61.44712	23.37717	A	ADM3	FI		06	064	536		31647		91	Europe/Helsinki	2016-05-10
+644509	Nivala	Nivala	535,Nivala,Nivalan Kaupunki	63.91667	25	A	ADM3	FI		17	176	535		10397		81	Europe/Helsinki	2022-12-31
+645082	Närpes	Naerpes	545,Naerpes,Naerpioe,Närpes,Närpiö	62.47262	21.33622	A	ADM3	FI		15	153	545		9435		14	Europe/Helsinki	2016-05-10
+645150	Nakkila	Nakkila	531,Nackeby,Nakkila,Nakkilan Kunta	61.35736	21.96	A	ADM3	FI		04	043	531		5168		31	Europe/Helsinki	2022-12-28
+645212	Naantali	Naantali	529,Naantali,Naantali linn,Naantalin Kaupunki,Nadendal,Nadendals Stad,Nantali,Nantalis,Nådendal,Nådendals Stad,Vallis Gratia,Vallis Gratiae,nan ta li,nantalli,nantaly,nantari,Наантали,Наанталі,Нантали,نانتالی,ナーンタリ,楠塔利,난탈리	60.46689	22.03046	A	ADM3	FI		02	023	529		18807		16	Europe/Helsinki	2022-01-16
+645234	Mörskom	Moerskom	504,Morskom,Morskom Kommun,Myrskyla,Myrskylan Kunta,Myrskylä,Myrskylän Kunta,Mörskom,Mörskom Kommun	60.64131	25.83472	A	ADM3	FI		01	015	504		2006		45	Europe/Helsinki	2016-05-10
+645244	Mynämäki	Mynaemaeki	503,Mynaemaeki,Mynamaen Kunta,Mynamaki,Mynämäen Kunta,Mynämäki,Virmo	60.67826	22.02433	A	ADM3	FI		02	023	503		7594		37	Europe/Helsinki	2022-12-30
+645386	Muurame	Muurame	500,Muurame,Muurameen Kunta	62.13333	25.66667	A	ADM3	FI		13	131	500		10426		81	Europe/Helsinki	2022-12-28
+645673	Muonio	Muonio	498,Muonio,Muonion Kunta	67.83333	23.83333	A	ADM3	FI		19	196	498		2321		250	Europe/Helsinki	2022-12-28
+645711	Multia	Multia	495,Muldia,Multia,Multian Kunta	62.46352	24.85639	A	ADM3	FI		13	133	495		1489		193	Europe/Helsinki	2022-12-28
+645767	Muhos	Muhos	494,Muhoksen Kunta,Muhos	64.75789	26.13344	A	ADM3	FI		17	171	494		8907		47	Europe/Helsinki	2022-12-31
+646006	Mikkeli	Mikkeli	491,Mikeli,Mikelis,Mikkeli,Mikkeli linn,Mikkelin Kaupunki,Mikoi,Oppidum Sancti Michaelis,S:t Michel,Sankt Michel,Sankt Michels Stad,St. Michel,mi kai li,mik ke li,mikelli,mikkeri,mkyly,mykyly,myqly,Микели,Миккели,Міккелі,מיקלי,ميكيلي,مکیلی,มิกเกลี,ミッケリ,米凱利,미켈리	61.64117	27.33025	A	ADM3	FI		10	101	491		48751		104	Europe/Helsinki	2017-03-04
+646080	Miehikkälä	Miehikkaelae	489,Miehikkaelae,Miehikkala,Miehikkalan Kunta,Miehikkälä,Miehikkälän Kunta	60.71113	27.6774	A	ADM3	FI		08	082	489		2210		45	Europe/Helsinki	2016-05-10
+646193	Merikarvia	Merikarvia	484,Merikarvia,Merikarvian Kunta,Sastmola	61.87837	21.54102	A	ADM3	FI		04	043	484		3054		27	Europe/Helsinki	2022-12-28
+646198	Merijärvi	Merijaervi	483,Merijaervi,Merijarven Kunta,Merijarvi,Merijärven Kunta,Merijärvi	64.3	24.5	A	ADM3	FI		17	177	483		1076		48	Europe/Helsinki	2022-12-31
+646487	Masku	Masku	481,Masko,Masku,Masku Kommun,Maskun Kunta	60.54156	21.99972	A	ADM3	FI		02	023	481		9615		9	Europe/Helsinki	2022-12-30
+646519	Marttila	Marttila	480,Marttila,Marttilan Kunta,Sankt Martens,Sankt Mårtens	60.60345	22.93578	A	ADM3	FI		02	025	480		1988		77	Europe/Helsinki	2022-12-30
+646701	Mäntyharju	Maentyharju	507,Maentyharju,Mantyharju,Mantyharjun Kunta,Mäntyharju,Mäntyharjun Kunta	61.32167	26.91699	A	ADM3	FI		10	101	507		6456		111	Europe/Helsinki	2016-05-10
+646709	Mäntsälä	Maentsaelae	505,Maentsaelae,Mantsala,Mantsalan Kunta,Mäntsälä,Mäntsälän Kunta	60.66089	25.28378	A	ADM3	FI		01	011	505		19975		67	Europe/Helsinki	2016-05-10
+646876	Malax	Malax	475,Maalahden Kunta,Maalaht,Maalahti,Malaks,Malax,Malax Kommun	62.87317	21.49514	A	ADM3	FI		15	152	475		5605		25	Europe/Helsinki	2026-02-15
+647289	Luumäki	Luumaeki	441,Luumaeki,Luumaen Kunta,Luumaki,Luumäen Kunta,Luumäki	60.93678	27.53179	A	ADM3	FI		09	091	441		4476		76	Europe/Helsinki	2022-12-29
+647472	Lumijoki	Lumijoki	436,Lumijoen Kunta,Lumijoki	64.83289	25.13682	A	ADM3	FI		17	171	436		2018		26	Europe/Helsinki	2022-12-31
+647523	Luhanka	Luhanka	435,Luhangan Kunta,Luhango,Luhanka	61.78426	25.72272	A	ADM3	FI		13	132	435		703		74	Europe/Helsinki	2022-12-28
+647572	Loviisa	Loviisa	434,Loviisa,Loviisan Kaupunki,Lovisa,Lovisa Stad	60.44035	26.20257	A	ADM3	FI		01	016	434		15595		2	Europe/Helsinki	2014-09-24
+647662	Loppi	Loppi	433,Lopen Kunta,Loppi	60.67594	24.37579	A	ADM3	FI		05	052	433		7790		113	Europe/Helsinki	2022-12-28
+647732	Loimaa	Loimaa	430,Loimaa,Loimaan Kaupunki,Loimijoki,Loyma,Loyma Stad	60.84599	22.95318	A	ADM3	FI		02	025	430		15632		86	Europe/Helsinki	2022-12-30
+647752	Lohja	Lohja	444,Lohja,Lohjan kaupunki,Lohjan maalaiskunta,Lojo,Lojo landskommun,Lojo stad,Lokh'ya,Lokh’ya	60.37318	23.93528	A	ADM3	FI		01	011	444		39714		102	Europe/Helsinki	2014-09-24
+647852	Liperi	Liperi	426,Libelits,Liperi,Liperin Kunta	62.50716	29.38906	A	ADM3	FI		12	122	426		11979		91	Europe/Helsinki	2022-12-28
+647931	Liminka	Liminka	425,Limingan Kunta,Limingo,Liminka	64.75	25.41667	A	ADM3	FI		17	171	425		10210		43	Europe/Helsinki	2022-12-31
+648057	Lieto	Lieto	423,Liedon Kunta,Lieto,Lundo,Lundo Kommun	60.55221	22.57778	A	ADM3	FI		02	023	423		20299		71	Europe/Helsinki	2022-12-30
+648091	Lieksa	Lieksa	422,L'yeksa,Lieksa,Lieksan,Lieksan Kaupunki,L’yeksa	63.31667	30.03333	A	ADM3	FI		12	125	422		10545		92	Europe/Helsinki	2022-12-28
+648180	Lestijärvi	Lestijaervi	421,Lestijaervi,Lestijarven Kunta,Lestijarvi,Lestijärven Kunta,Lestijärvi	63.49564	24.69474	A	ADM3	FI		16	161	421		719		156	Europe/Helsinki	2022-12-28
+648228	Leppävirta	Leppaevirta	420,Leppaevirta,Leppavirran Kunta,Leppavirta,Leppävirran Kunta,Leppävirta	62.5112	27.93888	A	ADM3	FI		11	114	420		9279		95	Europe/Helsinki	2022-12-29
+648369	Lempäälä	Lempaeaelae	418,Lempaala,Lempaalan Kunta,Lempaeaelae,Lempäälä,Lempäälän Kunta	61.33885	23.77011	A	ADM3	FI		06	064	418		24163		79	Europe/Helsinki	2022-12-29
+648388	Lemi	Lemi	416,Klemi,Lemi,Lemin Kunta	61.08154	27.8162	A	ADM3	FI		09	091	416		2917		86	Europe/Helsinki	2022-12-29
+648739	Laukaa	Laukaa	410,Laukaa,Laukaan Kunta,Laukas	62.41667	26	A	ADM3	FI		13	131	410		18794		113	Europe/Helsinki	2022-12-28
+648849	Larsmo	Larsmo	440,Larsmo,Larsmo Kommun,Luodon Kunta,Luoto	63.75	22.75	A	ADM3	FI		15	154	440		5626		-9999	Europe/Helsinki	2026-02-15
+648856	Lapua	Lapua	408,Lappo,Lappo Stad,Lapua,Lapuan Kaupunki	62.91667	23.16667	A	ADM3	FI		14	142	408		14208		66	Europe/Helsinki	2022-12-30
+648901	Lappeenranta	Lappeenranta	405,Lappeenrannan Kaupunki,Lappeenranta,Villmanstrand,Villmanstrands Stad	61.02292	28.27839	A	ADM3	FI		09	091	405		72646		58	Europe/Helsinki	2022-12-28
+648923	Lappajärvi	Lappajaervi	403,Lappajaervi,Lappajarven Kunta,Lappajarvi,Lappajärven Kunta,Lappajärvi	63.19535	23.60384	A	ADM3	FI		14	146	403		2868		72	Europe/Helsinki	2022-12-30
+648957	Lapinlahti	Lapinlahti	402,Lapinlahden Kunta,Lapinlahti,Lapinlax	63.34295	27.44489	A	ADM3	FI		11	111	402		9250		117	Europe/Helsinki	2022-12-28
+648976	Lappträsk	Lapptraesk	407,Lapinjarven Kunta,Lapinjarvi,Lapinjärven Kunta,Lapinjärvi,Lapptrask,Lapptrask Kommun,Lappträsk,Lappträsk Kommun,Lapraski,Lapräski,Laptraski,Laptreski,Lapträski	60.65664	26.17192	A	ADM3	FI		01	016	407		2872		40	Europe/Helsinki	2022-12-30
+649307	Laitila	Laitila	400,Laitila,Laitilan Kaupunki,Letala	60.88043	21.78433	A	ADM3	FI		02	024	400		8461		28	Europe/Helsinki	2022-12-30
+649351	Laihia	Laihia	399,Laihela,Laihia,Laihian Kunta	62.87913	22.04011	A	ADM3	FI		15	152	399		7916		49	Europe/Helsinki	2022-12-28
+649374	Lahti	Lahti	398,Lahti,Lahtis	60.98277	25.65411	A	ADM3	FI		07	071	398		120093		102	Europe/Helsinki	2022-12-27
+649584	Kyyjärvi	Kyyjaervi	312,Kyyjaervi,Kyyjarven Kunta,Kyyjarvi,Kyyjärven Kunta,Kyyjärvi	63.05962	24.55901	A	ADM3	FI		13	138	312		1233		158	Europe/Helsinki	2022-12-28
+649631	Kirkkonummi	Kirkkonummi	257,Kirkkonummen Kunta,Kirkkonummi,Kirkkonummi vald,Kirkonumi,Kyrkslaett,Kyrkslatt,Kyrkslatts Kommun,Kyrkslätt,Kyrkslätts Kommun,ji er ke nu mi,kileukonummi,kirukkonunmi,kyrkwnwmy,Киркконумми,Кирконуми,كيركونومي,キルッコヌンミ,基爾科努米,키르코눔미	60.14698	24.45885	A	ADM3	FI		01	011	257		40441		20	Europe/Helsinki	2022-12-30
+649925	Kuusamo	Kuusamo	305,Kuusamo,Kuusamon Kaupunki	66	29.25	A	ADM3	FI		17	178	305		15168		261	Europe/Helsinki	2022-12-30
+650000	Kustavi	Kustavi	Gustavs,Gustavs Kommun,Kustavi,Kustavin Kunta	60.54664	21.25	A	ADM3	FI		02	024	304		968		-9999	Europe/Helsinki	2022-12-30
+650098	Kurikka	Kurikka	301,Kurikan Kaupunki,Kurikka	62.56965	22.44005	A	ADM3	FI		14	142	301		20199		111	Europe/Helsinki	2022-12-30
+650167	Kuortane	Kuortane	300,Kuortane,Kuortaneen Kunta	62.77969	23.54107	A	ADM3	FI		14	144	300		3528		126	Europe/Helsinki	2022-12-30
+650225	Kuopio	Kuopio	297,Kuopio,Kuopion Kaupunki	62.88184	27.6894	A	ADM3	FI		11	112	297		121557		74	Europe/Helsinki	2022-12-27
+650704	Kuhmoinen	Kuhmoinen	291,Kuhmoinen,Kuhmois,Kuhmoisten Kunta	61.61541	25.13739	A	ADM3	FI		06	064	291		2157		145	Europe/Helsinki	2022-12-27
+650706	Kuhmo	Kuhmo	290,Kuhmo,Kuhmon Kaupunki,Kuhmoniemi	64.25	29.75	A	ADM3	FI		18	181	290		7927		160	Europe/Helsinki	2022-12-27
+650755	Kronoby	Kronoby	288,Kronoby,Kruunupyy	63.66667	23.16667	A	ADM3	FI		15	154	288		6439		30	Europe/Helsinki	2022-12-28
+650770	Kristinestad	Kristinestad	287,Kristiinankaupunki,Kristinestad,Kristinestads Stad,Кристи́нестад	62.16668	21.4804	A	ADM3	FI		15	153	287		6375		21	Europe/Helsinki	2022-12-28
+650861	Kouvola	Kouvola	286,Kouvalan,Kouvola,Kouvolan Kaupunki	60.92061	26.82418	A	ADM3	FI		08	081	286		80483		78	Europe/Helsinki	2022-12-28
+650950	Kotka	Kotka	285,Kotka,Kotkan Kaupunki	60.52039	26.91444	A	ADM3	FI		08	082	285		51248		2	Europe/Helsinki	2022-12-28
+651091	Koski Tl	Koski Tl	284,Kosken TL Kunta,Kosken Turun ja Porin Laeaeni Kunta,Kosken Turun ja Porin Lääni Kunta,Koski,Koski Tl,Koskis	60.65647	23.12255	A	ADM3	FI		02	025	284		2271		84	Europe/Helsinki	2022-12-30
+651297	Korsnäs	Korsnaes	280,Korsnaes,Korsnas,Korsnas Kommun,Korsnasin Kunta,Korsnäs,Korsnäs Kommun,Korsnäsin Kunta	62.78716	21.20988	A	ADM3	FI		15	152	280		2050		17	Europe/Helsinki	2022-12-30
+651301	Korsholm	Korsholm	499,Korsholm,Korsholms Kommun,Mustasaaren Kunta,Mustasaari	63.16667	21.66667	A	ADM3	FI		15	152	499		19529		17	Europe/Helsinki	2022-12-28
+651660	Kontiolahti	Kontiolahti	276,Kontiolahden Kunta,Kontiolahti,Kontiolax	62.76119	29.88267	A	ADM3	FI		12	122	276		15040		137	Europe/Helsinki	2022-12-27
+651698	Konnevesi	Konnevesi	275,Konneveden Kunta,Konnevesi	62.66667	26.33333	A	ADM3	FI		13	135	275		2588		105	Europe/Helsinki	2022-12-27
+651892	Kolari	Kolari	273,Kolari,Kolarin Kunta	67.29156	24.17264	A	ADM3	FI		19	196	273		3985		191	Europe/Helsinki	2022-12-27
+651951	Kokkola	Kokkola	272,Gamlakarleby,Karleby,Karleby Stad,Kokkola,Kokkolan Kaupunki	63.79706	23.68354	A	ADM3	FI		16	162	272		47915		64	Europe/Helsinki	2022-12-27
+651981	Kokemäki	Kokemaeki	271,Kokemaen Kaupunki,Kokemaki,Kokemäen Kaupunki,Kokemäki,Kumo,Kumo Stad	61.30929	22.37856	A	ADM3	FI		04	043	271		6957		51	Europe/Helsinki	2022-12-28
+652498	Kivijärvi	Kivijaervi	265,Kivijaervi,Kivijarven Kunta,Kivijarvi,Kivijärven Kunta,Kivijärvi	63.13597	25.03915	A	ADM3	FI		13	138	265		1088		120	Europe/Helsinki	2022-12-28
+652561	Kiuruvesi	Kiuruvesi	263,Kiuruveden Kaupunki,Kiuruvesi	63.67548	26.52874	A	ADM3	FI		11	111	263		7758		145	Europe/Helsinki	2022-12-28
+652594	Kittilä	Kittilae	261,Gihttel,Kittal,Kittila,Kittilae,Kittilan Kunta,Kittilä,Kittilän Kunta,Kittâl	67.78147	25.07689	A	ADM3	FI		19	196	261		6526		206	Europe/Helsinki	2022-12-27
+652616	Kitee	Kitee	260,Kides,Kitee,Kiteen Kaupunki	62.01402	29.91899	A	ADM3	FI		12	124	260		9876		67	Europe/Helsinki	2022-12-27
+652746	Kinnula	Kinnula	256,Kinnula,Kinnulan Kunta	63.33956	25.03575	A	ADM3	FI		13	138	256		1581		157	Europe/Helsinki	2022-12-27
+652897	Kihniö	Kihnioe	250,Kihnio,Kihnioe,Kihnion Kunta,Kihniö,Kihniön Kunta	62.20643	23.19988	A	ADM3	FI		06	061	250		1808		168	Europe/Helsinki	2022-12-28
+652978	Keuruu	Keuruu	249,Keuru,Keuru Stad,Keuruu,Keuruun Kaupunki	62.29492	24.55665	A	ADM3	FI		13	133	249		9441		156	Europe/Helsinki	2022-12-27
+653186	Kerava	Kerava	245,Kerava,Keravan,Keravan Kaupunki,Kervo,Kervo Stad	60.39565	25.11754	A	ADM3	FI		01	011	245		37244		57	Europe/Helsinki	2022-12-28
+653253	Kempele	Kempele	244,Kempele,Kempeleen Kunta	64.89673	25.57331	A	ADM3	FI		17	171	244		19115		28	Europe/Helsinki	2022-12-30
+653257	Keminmaa	Keminmaa	241,Kemi Landskommun,Kemin Maalaiskunta,Keminmaa,Keminmaan Kunta	65.85962	24.82281	A	ADM3	FI		19	192	241		7903		47	Europe/Helsinki	2022-12-27
+653274	Kemijärvi	Kemijaervi	320,Kemijaervi,Kemijarven Kaupunki,Kemijarvi,Kemijärven Kaupunki,Kemijärvi	66.66667	27.41667	A	ADM3	FI		19	194	320		7107		185	Europe/Helsinki	2022-12-27
+653282	Kemi	Kemi	240,Giepma,Gorad Kemi,Kemi,Kemin Kaupunki,Kemis,ji mi,kai mi,kemi,kymy,Горад Кемі,Кеми,كيمي,ケミ,凯米,基米,케미	65.75	24.58333	A	ADM3	FI		19	192	240		19991		16	Europe/Helsinki	2022-12-28
+653389	Keitele	Keitele	239,Keitele,Keiteleen Kunta	63.16667	26.33333	A	ADM3	FI		11	111	239		2099		129	Europe/Helsinki	2022-12-28
+653484	Kaustinen	Kaustinen	236,Kaustby,Kaustinen,Kaustisen Kunta,Kaustisten Kunta	63.58333	23.75	A	ADM3	FI		16	161	236		4194		70	Europe/Helsinki	2022-12-27
+653560	Kauniainen	Kauniainen	235,Grankulla,Kauniainen,Kauniajnen,kao ni ai ning,kauniainen,Кауниайнен,კაუნიაინენი,考尼艾寧,카우니아이넨	60.20976	24.72801	A	ADM3	FI		01	011	235		10401		41	Europe/Helsinki	2022-12-28
+653617	Kauhava	Kauhava	233,Kauhava,Kauhavan Kaupunki	63.19419	23.01084	A	ADM3	FI		14	142	233		15319		73	Europe/Helsinki	2023-01-01
+653628	Kauhajoki	Kauhajoki	232,Kauhajoen Kaupunki,Kauhajoki	62.33333	22.25	A	ADM3	FI		14	141	232		12889		120	Europe/Helsinki	2023-01-01
+653760	Kaskinen	Kaskinen	231,Kaskinen,Kaskisten Kaupunki,Kasko,Kasko Stad,Kaskö,Kaskö Stad	62.37588	21.22606	A	ADM3	FI		15	153	231		1288		11	Europe/Helsinki	2022-12-28
+653814	Karvia	Karvia	230,Karvia,Karvian Kunta	62.15688	22.61983	A	ADM3	FI		04	044	230		2289		154	Europe/Helsinki	2022-12-27
+653853	Karstula	Karstula	226,Karstula,Karstulan Kunta	62.9012	24.81211	A	ADM3	FI		13	138	226		3774		149	Europe/Helsinki	2022-12-27
+653883	Kärsämäki	Kaersaemaeki	317,Kaersaemaeki,Karsamaen Kunta,Karsamaki,Kärsämäen Kunta,Kärsämäki	63.97068	25.87556	A	ADM3	FI		17	176	317		2533		124	Europe/Helsinki	2022-12-30
+653953	Kärkölä	Kaerkoelae	316,Kaerkoelae,Karkola,Karkolan Kunta,Kärkölä,Kärkölän Kunta	60.86866	25.25994	A	ADM3	FI		07	071	316		4882		99	Europe/Helsinki	2016-05-11
+653961	Karkkila	Karkkila	224,Hoegfors,Hogfors,Hogfors Stad,Högfors,Högfors Stad,Karkkila,Karkkilan,Karkkilan Kaupunki	60.54829	24.22743	A	ADM3	FI		01	011	224		8717		127	Europe/Helsinki	2022-12-28
+654076	Karijoki	Karijoki	218,Boetom,Botom,Bötom,Karijoen Kunta,Karijoki	62.32061	21.74607	A	ADM3	FI		14	141	218		1192		79	Europe/Helsinki	2022-12-30
+654315	Kannus	Kannus	217,Kannuksen Kaupunki,Kannus	63.913	23.95503	A	ADM3	FI		16	162	217		5390		78	Europe/Helsinki	2022-12-27
+654319	Kannonkoski	Kannonkoski	216,Kannonkosken Kunta,Kannonkoski	62.96631	25.35131	A	ADM3	FI		13	138	216		1311		142	Europe/Helsinki	2022-12-27
+654377	Kankaanpää	Kankaanpaeae	214,Kankaanpaa,Kankaanpaan Kaupunki,Kankaanpaeae,Kankaanpää,Kankaanpään Kaupunki	61.84012	22.38571	A	ADM3	FI		04	044	214		12659		98	Europe/Helsinki	2022-12-28
+654408	Kangasniemi	Kangasniemi	213,Kangasniemen Kunta,Kangasniemi	62.04117	26.66331	A	ADM3	FI		10	101	213		5230		137	Europe/Helsinki	2022-12-27
+654441	Kangasala	Kangasala	211,Kangasala,Kangasalan Kunta	61.48598	24.417	A	ADM3	FI		06	064	211		32627		106	Europe/Helsinki	2022-12-27
+654838	Kalajoki	Kalajoki	208,Kalajoen Kaupunki,Kalajoki	64.16409	23.95673	A	ADM3	FI		17	177	208		12407		38	Europe/Helsinki	2022-12-30
+654901	Kajaani	Kajaani	205,Kajaani,Kajaanin Kaupunki,Kajana	64.13355	27.40756	A	ADM3	FI		18	182	205		36498		150	Europe/Helsinki	2022-12-27
+655070	Kaavi	Kaavi	204,Kaavi,Kaavin Kunta	63	28.75	A	ADM3	FI		11	113	204		2778		126	Europe/Helsinki	2022-12-27
+655131	Kaarina	Kaarina	202,Kaarina,Kaarinan Kaupunki,Karina,S:t Karins,Sankt Karins,Sankt Karins Stad,ka li na,karina,karyna,Каарина,Кааріна,Карина,كآرينا,کارینا,カーリナ,卡里納	60.41199	22.37865	A	ADM3	FI		02	023	202		35502		22	Europe/Helsinki	2023-11-01
+655195	Jyväskylä	Jyvaeskylae	179,Jyvaeskylae,Jyvaskyla,Jyvaskylan Kaupunki,Jyväskylä,Jyväskylän Kaupunki	62.20806	25.60742	A	ADM3	FI		13	131	179		144477		176	Europe/Helsinki	2022-12-28
+655257	Juva	Juva	178,Jockas,Jokkas,Juva,Juvan Kunta	61.83769	27.80598	A	ADM3	FI		10	105	178		5892		125	Europe/Helsinki	2022-12-27
+655308	Juupajoki	Juupajoki	177,Juupajoen Kunta,Juupajoki	61.82147	24.46128	A	ADM3	FI		06	069	177		1780		139	Europe/Helsinki	2022-12-28
+655313	Juuka	Juuka	176,Juga,Juuan Kunta,Juuka	63.20213	29.17539	A	ADM3	FI		12	122	176		4444		145	Europe/Helsinki	2022-12-27
+655582	Joutsa	Joutsa	172,Jousa,Joutsa,Joutsan Kunta	61.81725	26.17617	A	ADM3	FI		13	132	172		4264		95	Europe/Helsinki	2022-12-27
+655627	Joroinen	Joroinen	171,Joroinen,Jorois,Joroisten Kunta	62.16988	27.77785	A	ADM3	FI		11	114	171		4626		86	Europe/Helsinki	2022-12-27
+655693	Jokioinen	Jokioinen	169,Jockis,Jokioinen,Jokioisten Kunta	60.80223	23.45136	A	ADM3	FI		05	053	169		5044		103	Europe/Helsinki	2022-12-27
+655823	Joensuu	Joensuu	167,Joensuu,Joensuun Kaupunki	62.5747	30.33866	A	ADM3	FI		12	122	167		77266		144	Europe/Helsinki	2022-12-27
+655977	Järvenpää	Jaervenpaeae	186,Jarvenpaa,Jarvenpaan Kaupunki,Järvenpää,Järvenpään Kaupunki,Traeskaenda,Traskanda,Traskanda Stad,Träskända,Träskända Stad	60.47803	25.10241	A	ADM3	FI		01	011	186		45237		55	Europe/Helsinki	2022-12-28
+656074	Janakkala	Janakkala	165,Janakkala,Janakkalan Kunta	60.8925	24.68261	A	ADM3	FI		05	051	165		16340		116	Europe/Helsinki	2022-12-27
+656084	Jämsä	Jaemsae	182,Jaemsae,Jamsa,Jamsan Kaupunki,Jämsä,Jämsän Kaupunki	61.93047	25.05053	A	ADM3	FI		13	134	182		19770		137	Europe/Helsinki	2022-12-28
+656092	Jämijärvi	Jaemijaervi	181,Jaemijaervi,Jamijarven Kunta,Jamijarvi,Jämijärven Kunta,Jämijärvi	61.83333	22.66667	A	ADM3	FI		04	044	181		1685		115	Europe/Helsinki	2022-12-28
+656131	Jakobstad	Jakobstad	598,Jakobstad,Jakobstad Stad,Pietarsaaren Kaupunki,Pietarsaari,Staden Jakobstad	63.66763	22.60892	A	ADM3	FI		15	154	598		19096		9	Europe/Helsinki	2022-12-28
+656457	Isokyrö	Isokyroe	152,Isokyro,Isokyrö,Isonkyron Kunta,Isonkyrön Kunta,Storkyro,Storkyro Kommun	62.97354	22.35199	A	ADM3	FI		14	142	152		4481		35	Europe/Helsinki	2022-12-31
+656518	Isojoki	Isojoki	151,Isojoen Kunta,Isojoki,Stora,Storå	62.11862	21.90981	A	ADM3	FI		14	141	151		1891		110	Europe/Helsinki	2022-12-31
+656653	Ingå	Inga	149,Inga,Inga Kommun,Ingå,Ingå Kommun,Inko,Inkoo,Inkoon Kunta	60.08333	24	A	ADM3	FI		01	014	149		5349		25	Europe/Helsinki	2022-12-28
+656659	Inari	Inari	148,Aanaar,Aanaar Kielda,Aanaar Kieldâ,Aanar,Aanar Ka'dd,Aanar Kå´dd,Anar,Anara Gielda,Anár,Anára Gielda,Enare,Enare Kommun,Inari,Inarin Kunta	69	27	A	ADM3	FI		19	197	148		7008		156	Europe/Helsinki	2022-12-27
+656689	Imatra	Imatra	153,Gorad Imatra,Imatra,Imatra linn,Imatran Kaupunki,aymatra,imateula,imatora,yi ma te la,Горад Іматра,Иматра,إيماترا,ایماترا,イマトラ,伊馬特拉,이마트라	61.18032	28.84653	A	ADM3	FI		09	093	153		25667		63	Europe/Helsinki	2022-12-30
+656711	Ilomantsi	Ilomantsi	146,Ilomants,Ilomantsi,Ilomantsin Kunta	62.83333	31	A	ADM3	FI		12	122	146		4646		152	Europe/Helsinki	2022-12-27
+656740	Ilmajoki	Ilmajoki	145,Ilmajoen Kunta,Ilmajoki,Ilmola	62.73437	22.54591	A	ADM3	FI		14	142	145		12367		46	Europe/Helsinki	2023-09-06
+656790	Ikaalinen	Ikaalinen	143,Ikaalinen,Ikaalisten Kaupunki,Ikalinen,Ikalis,Ikalis Stad	61.76667	23.06667	A	ADM3	FI		06	061	143		6876		102	Europe/Helsinki	2022-12-28
+656808	Iitti	Iitti	142,Iitin Kunta,Iitti,Itis	60.92742	26.28091	A	ADM3	FI		07	071	142		6557		52	Europe/Helsinki	2022-12-27
+656821	Iisalmi	Iisalmi	140,Idensalmi,Idensalmi Stad,Iisalmen Kaupunki,Iisalmi	63.51261	27.1938	A	ADM3	FI		11	111	140		20960		124	Europe/Helsinki	2022-12-28
+656852	Ii	Ii	139,Ii,Iin Kunta,Ijo	65.52736	25.62543	A	ADM3	FI		17	173	139		9382		67	Europe/Helsinki	2023-09-06
+656914	Hyvinkää	Hyvinkaeae	106,Hyvinge,Hyvinkaeae,Hyvinkaeaen kaupunki,Hyvinkää,Hyvinkään kaupunki	60.633	24.867	A	ADM3	FI		01	011	106		46858		113	Europe/Helsinki	2022-12-28
+656951	Hyrynsalmi	Hyrynsalmi	105,Hyrynsalmen Kunta,Hyrynsalmi	64.64253	28.68678	A	ADM3	FI		18	181	105		2736		167	Europe/Helsinki	2014-09-24
+657113	Humppila	Humppila	103,Humppila,Humppilan Kunta	60.92373	23.34612	A	ADM3	FI		05	053	103		2166		112	Europe/Helsinki	2022-12-28
+657181	Huittinen	Huittinen	102,Huittinen,Huittisten Kaupunki,Hvittis,Vittis,Vittis Stad	61.12737	22.72169	A	ADM3	FI		04	043	102		9876		81	Europe/Helsinki	2022-12-28
+657480	Honkajoki	Honkajoki	099,Hongonjoki,Honkajoen Kunta,Honkajoki	62.00997	22.24034	A	ADM3	FI		04	044	099		1595		102	Europe/Helsinki	2022-12-28
+657731	Hirvensalmi	Hirvensalmi	097,Hirvensalmen Kunta,Hirvensalmi	61.68612	26.72285	A	ADM3	FI		10	101	097		2132		111	Europe/Helsinki	2022-12-28
+658226	Helsinki	Helsinki	091,Helsingfors,Helsinki,Khel'sinki,Stadi,he er xin ji,Хельсинки,赫爾辛基	60.17556	24.93417	A	ADM3	FI		01	011	091		658864		23	Europe/Helsinki	2022-12-28
+658292	Heinola	Heinola	111,Gejnola,Heinola,Heinola linn,Heinolan Kaupunki,Khejnola,hei nuo la,hynwla,Гейнола,Хейнола,Хејнола,هينولا,ہے نولا,黑諾拉	61.25355	26.15744	A	ADM3	FI		07	071	111		20258		111	Europe/Helsinki	2017-03-04
+658319	Heinävesi	Heinaevesi	090,Heinaevesi,Heinaveden Kunta,Heinavesi,Heinäveden Kunta,Heinävesi	62.41667	28.75	A	ADM3	FI		12	122	090		3134		74	Europe/Helsinki	2022-12-28
+658582	Hausjärvi	Hausjaervi	086,Hausjaervi,Hausjarven Kunta,Hausjarvi,Hausjärven Kunta,Hausjärvi	60.78351	24.94488	A	ADM3	FI		05	052	086		8144		127	Europe/Helsinki	2022-12-28
+658691	Hattula	Hattula	082,Hattula,Hattulan Kunta	61	24.25	A	ADM3	FI		05	051	082		9398		115	Europe/Helsinki	2022-12-28
+658759	Hartola	Hartola	081,Gustav Adolfs,Hartola,Hartolan Kunta	61.58223	26.05696	A	ADM3	FI		07	071	081		3355		91	Europe/Helsinki	2022-12-28
+658922	Harjavalta	Harjavalta	079,Harjavalda,Harjavallan Kaupunki,Harjavalta	61.32408	22.14636	A	ADM3	FI		04	043	079		7540		30	Europe/Helsinki	2021-03-26
+659025	Hankasalmi	Hankasalmi	077,Hankasalmen Kunta,Hankasalmi	62.37155	26.45554	A	ADM3	FI		13	131	077		4687		113	Europe/Helsinki	2022-12-28
+659102	Hanko	Hanko	078,Hango,Hango Stad,Hangon Kaupunki,Hangö,Hangö Stad,Hanko	59.83333	22.95	A	ADM3	FI		01	014	078		9462		14	Europe/Helsinki	2022-12-29
+659171	Hamina	Hamina	075,Fredrikshamn,Fredrikshavn,Hamina,Haminan Kaupunki	60.57234	27.20991	A	ADM3	FI		08	082	075		19709		2	Europe/Helsinki	2022-12-29
+659181	Hämeenlinna	Haemeenlinna	109,Hameenlinna,Hameenlinnan Kaupunki,Hämeenlinna,Hämeenlinnan Kaupunki,Tavastehus,Tavastehus Stad	61	24.45	A	ADM3	FI		05	051	109		67994		96	Europe/Helsinki	2022-12-29
+659185	Hämeenkyrö	Haemeenkyroe	108,Hameenkyro,Hameenkyron Kunta,Hämeenkyrö,Hämeenkyrön Kunta,Tavastkyro	61.61596	23.17228	A	ADM3	FI		06	064	108		10335		103	Europe/Helsinki	2022-12-29
+659232	Halsua	Halsua	074,Halso,Halsua,Halsuan Kunta	63.43602	24.27449	A	ADM3	FI		16	161	074		1083		145	Europe/Helsinki	2023-09-06
+659433	Hailuoto	Hailuoto	072,Hailuodon Kunta,Hailuoto,Karloe,Karlö	65.01953	24.77753	A	ADM3	FI		17	171	072		949		8	Europe/Helsinki	2022-12-31
+659557	Haapavesi	Haapavesi	071,Haapaveden Kaupunki,Haapavesi	64.12507	25.34792	A	ADM3	FI		17	175	071		6614		95	Europe/Helsinki	2022-12-31
+659701	Haapajärvi	Haapajaervi	069,Haapajaervi,Haapajarven Kaupunki,Haapajarvi,Haapajärven Kaupunki,Haapajärvi	63.7637	25.33605	A	ADM3	FI		17	176	069		6803		116	Europe/Helsinki	2022-12-31
+659936	Forssa	Forssa	061,Forsa,Forse,Forssa,Forssan,Forssan Kaupunki	60.90328	23.63947	A	ADM3	FI		05	053	061		17904		136	Europe/Helsinki	2017-03-04
+660067	Evijärvi	Evijaervi	052,Evijaervi,Evijarven Kunta,Evijarvi,Evijärven Kunta,Evijärvi	63.38197	23.44946	A	ADM3	FI		14	146	052		2406		65	Europe/Helsinki	2022-12-31
+660074	Eurajoki	Eurajoki	051,Euraaminne,Eurajoen Kunta,Eurajoki,Euraåminne	61.29109	21.69922	A	ADM3	FI		04	041	051		5923		47	Europe/Helsinki	2017-03-04
+660080	Eura	Eura	050,Eura,Euran Kunta	61.13333	22.08333	A	ADM3	FI		04	041	050		12507		44	Europe/Helsinki	2016-05-12
+660129	Espoo	Espoo	049,Ehspo,Ehspoo,Esba,Esbo,Esbo Stad,Esbå,Espas,Espo,Espoo,Espoon Kaupunki,Espō,Gorad Ehspa,ai si bo,asbw,aspw,ayspw,eseupo,espo,esupo,xes po,yesppu,Έσποο,Горад Эспа,Еспо,Еспоо,Эспо,Эспоо,אספו,إسبو,اسپو,ایسپو,एस्पो,யெஸ்ப்பூ,เอสโป,ესპოო,エスポー,埃斯波,에스포	60.25	24.66667	A	ADM3	FI		01	011	049		256760		38	Europe/Helsinki	2014-09-24
+660230	Enontekiö	Enontekioe	047,Eanodaga gielda,Eanodat,Enontekio,Enontekioen kunta,Enontekis,Enontekis kommun,Enontekiö,Enontekiön kunta	68.55	22.7	A	ADM3	FI		19	196	047		1787		400	Europe/Helsinki	2022-12-27
+660236	Enonkoski	Enonkoski	046,Enonkosken Kunta,Enonkoski	62.12211	28.89185	A	ADM3	FI		10	103	046		1615		62	Europe/Helsinki	2016-06-23
+660562	Porvoo	Porvoo	638,Borga,Borga Landskommun,Borga Stad,Borgå,Borgå Landskommun,Borgå Stad,Porvoo,Porvoon Kaupunki,Porvoon Maalaiskunta	60.38585	25.68229	A	ADM3	FI		01	015	638		51135		31	Europe/Helsinki	2022-12-29
+660874	Aura	Aura	019,Aura,Auran Kunta	60.62599	22.54568	A	ADM3	FI		02	025	019		3958		51	Europe/Helsinki	2022-12-30
+660932	Askola	Askola	018,Askola,Askolan Kunta,Askula	60.54083	25.61843	A	ADM3	FI		01	015	018		4847		42	Europe/Helsinki	2022-12-29
+660951	Asikkala	Asikkala	016,Asikkala,Asikkalan Kunta	61.23481	25.57671	A	ADM3	FI		07	071	016		8552		74	Europe/Helsinki	2016-05-12
+661353	Alavus	Alavus	010,Alavo,Alavuden Kaupunki,Alavus,Alavuse linn,a la wu si,alafws,alawas,alawws,Алавус,الافوس,الاواس,الاووس,阿拉武斯	62.55556	23.61695	A	ADM3	FI		14	144	010		11198		110	Europe/Helsinki	2022-12-31
+661364	Alavieska	Alavieska	009,Alavieska,Alavieskan Kunta	64.17088	24.34864	A	ADM3	FI		17	177	009		2491		52	Europe/Helsinki	2022-12-31
+661594	Alajärvi	Alajaervi	005,Alajaervi,Alajarven Kaupunki,Alajarvi,Alajärven Kaupunki,Alajärvi	62.95783	23.94316	A	ADM3	FI		14	146	005		9321		137	Europe/Helsinki	2022-12-31
+661897	Ähtäri	AEhtaeri	989,Ahtari,Ahtarin Kaupunki,Etseri,Ähtäri,Ähtärin Kaupunki	62.59465	24.21264	A	ADM3	FI		14	144	989		5485		186	Europe/Helsinki	2022-12-31
+662096	Äänekoski	AEaenekoski	992,AEaenekoski,Aanekosken Kaupunki,Aanekoski,Aanetkoski,Enekoski,Äänekosken Kaupunki,Äänekoski,Äänetkoski	62.69458	25.81796	A	ADM3	FI		13	135	992		18304		140	Europe/Helsinki	2022-12-29
+830147	Hollola	Hollola	098,Hollola,Hollolan Kunta	61.01262	25.36825	A	ADM3	FI		07	071	098		23087		164	Europe/Helsinki	2022-12-27
+830153	Vantaa	Vantaa	092,Vanda,Vanda Stad,Vantaa,Vantaan Kaupunki	60.30794	24.9847	A	ADM3	FI		01	011	092		239216		35	Europe/Helsinki	2022-12-28
+830266	Outokumpu	Outokumpu	309,Outokummun Kauppala,Outokummun Kaupunki,Outokumpu	62.7	28.95	A	ADM3	FI		12	122	309		6503		106	Europe/Helsinki	2022-12-27
+830268	Pieksämäki	Pieksaemaeki	593,Pieksaemaeki,Pieksamaen Kaupunki,Pieksamaki,Pieksämäen Kaupunki,Pieksämäki	62.2864	27.1657	A	ADM3	FI		10	105	593		17245		115	Europe/Helsinki	2022-12-28
+8128754	Raseborg	Raseborg	Raasepori,Raseborg	59.97718	23.43633	A	ADM3	FI		01	014	710		29065		23	Europe/Helsinki	2026-02-15
+8128755	Sastamala	Sastamala	790,Sastamala,Sastamala linn,sastamala,Састамала,ساستامالا	61.34058	22.91164	A	ADM3	FI		06	068	790		24495		72	Europe/Helsinki	2014-09-24
+8128756	Siikalatva	Siikalatva	791,Siikalatva,Sijkalatva,Σιικαλάτβα,Сийкалатва	64.26778	25.85821	A	ADM3	FI		17	175	791		5131		84	Europe/Helsinki	2023-01-01
+8128757	Akaa	Akaa	020,Ackas,Akaa	61.16738	23.86582	A	ADM3	FI		06	063	020		17012		88	Europe/Helsinki	2017-05-15
+8128758	Kimitoön	Kimitooen	322,Kemioensaari,Kemiönsaari,Kimitooen,Kimitoön	60.16711	22.72711	A	ADM3	FI		02	021	322		6617		30	Europe/Helsinki	2022-12-30
+8128759	Vörå	Voera	946,Voera,Voeyri,Vörå,Vöyri	63.13047	22.24937	A	ADM3	FI		15	152	946		6689		15	Europe/Helsinki	2026-02-15
+8128761	Mänttä-Vilppula	Maenttae-Vilppula	508,Maenttae-Filppula,Maenttae-Vilppula,Mänttä-Filppula,Mänttä-Vilppula	62.02966	24.60268	A	ADM3	FI		06	069	508		11413		107	Europe/Helsinki	2014-09-24

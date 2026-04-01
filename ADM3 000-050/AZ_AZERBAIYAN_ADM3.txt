@@ -1,0 +1,4 @@
+﻿585383	Narimanovskiy Rayon	Narimanovskiy Rayon	Kishlinskiy Rayon	40.41667	49.88333	A	ADM3	AZ		09		585383		0		19	Asia/Baku	2007-05-30
+585569	Mardakert Rayonu	Mardakert Rayonu	Dzharoberdskiy Rayon,Dzherabertskiy Rayon,Mardakertskiy Rayon	40.25	46.75	A	ADM3	AZ		00		585569		0		683	Asia/Baku	2007-05-30
+585728	Kyapazskiy Rayon	Kyapazskiy Rayon		40.68333	46.36667	A	ADM3	AZ		00		585728		0		408	Asia/Baku	2007-05-30
+586406	Gyandzhinskiy Rayon	Gyandzhinskiy Rayon		40.68333	46.36667	A	ADM3	AZ		00		586406		0		408	Asia/Baku	2007-05-30

@@ -1,0 +1,1038 @@
+﻿10792628	Zhaglli (Shaglli )	Zhaglli (Shaglli )		-3.10648	-79.39131	A	ADM3	EC		02	0108	010853		0		3530	America/Guayaquil	2015-09-16
+10792629	Chibunga	Chibunga		-0.05453	-79.74722	A	ADM3	EC		14	1303	130354		0		276	America/Guayaquil	2015-09-16
+10792630	Cacha (Cab. En Machangara)	Cacha (Cab. En Machangara)		-1.71352	-78.71072	A	ADM3	EC		06	0601	060151		0		3217	America/Guayaquil	2015-09-16
+10792631	Sigsig	Sigsig		-3.06587	-78.75901	A	ADM3	EC		02	0109	010950		0		3187	America/Guayaquil	2015-09-16
+10792632	Cuchil (Cutchil)	Cuchil (Cutchil)		-3.14445	-78.81148	A	ADM3	EC		02	0109	010951		0		2801	America/Guayaquil	2015-09-16
+10792633	Gima	Gima		-3.20969	-78.93358	A	ADM3	EC		02	0109	010952		0		2877	America/Guayaquil	2015-09-16
+10792634	Garcia Moreno	Garcia Moreno		0.54564	-77.96674	A	ADM3	EC		05	0402	040251		0		2950	America/Guayaquil	2015-09-16
+10792635	Cubijies	Cubijies		-1.65477	-78.60022	A	ADM3	EC		06	0601	060153		0		2731	America/Guayaquil	2015-09-16
+10792636	General Farfan	General Farfan		0.18004	-76.74369	A	ADM3	EC		22	2101	210153		0		317	America/Guayaquil	2015-09-16
+10792637	El Eno	El Eno		-0.04473	-76.87194	A	ADM3	EC		22	2101	210155		0		324	America/Guayaquil	2015-09-16
+10792638	El Lucero	El Lucero		-4.39356	-79.50141	A	ADM3	EC		12	1102	110252		0		1559	America/Guayaquil	2015-09-16
+10792639	Utuana	Utuana		-4.37486	-79.67684	A	ADM3	EC		12	1102	110253		0		1795	America/Guayaquil	2015-09-16
+10792640	Sanguillin	Sanguillin		-4.46824	-79.53214	A	ADM3	EC		12	1102	110254		0		1891	America/Guayaquil	2015-09-16
+10792641	Catamayo (La Toma)	Catamayo (La Toma)		-3.96936	-79.34874	A	ADM3	EC		12	1103	110350		0		1395	America/Guayaquil	2015-09-16
+10792642	Monte Olivo	Monte Olivo		0.39694	-77.84342	A	ADM3	EC		05	0402	040253		0		3105	America/Guayaquil	2015-09-16
+10792643	San Vicente De Pusir	San Vicente De Pusir		0.49342	-78.02226	A	ADM3	EC		05	0402	040254		0		1770	America/Guayaquil	2015-09-16
+10792644	San Rafael	San Rafael		0.42747	-77.90769	A	ADM3	EC		05	0402	040255		0		2244	America/Guayaquil	2015-09-16
+10792645	El Angel	El Angel		0.643	-77.97159	A	ADM3	EC		05	0403	040350		0		3038	America/Guayaquil	2015-09-16
+10792646	El Goaltal	El Goaltal		0.76957	-78.13145	A	ADM3	EC		05	0403	040351		0		2440	America/Guayaquil	2015-09-16
+10792647	La Libertad (Alizo)	La Libertad (Alizo)		0.70555	-77.95952	A	ADM3	EC		05	0403	040352		0		3553	America/Guayaquil	2015-09-16
+10792648	San Isidro	San Isidro		0.60526	-78.00042	A	ADM3	EC		05	0403	040353		0		3280	America/Guayaquil	2015-09-16
+10792649	Mira (Chontahuasi)	Mira (Chontahuasi)		0.5568	-78.05169	A	ADM3	EC		05	0404	040450		0		2585	America/Guayaquil	2015-09-16
+10792650	Concepcion	Concepcion		0.65717	-78.1116	A	ADM3	EC		05	0404	040451		0		2853	America/Guayaquil	2015-09-16
+10792651	Jijon Y Caamaño (Cab. En Rio Blanco)	Jijon Y Caamano (Cab. En Rio Blanco)		0.84485	-78.316	A	ADM3	EC		05	0404	040452		0		1486	America/Guayaquil	2015-09-16
+10792652	Juan Montalvo (San Ignacio De Quil)	Juan Montalvo (San Ignacio De Quil)		0.56147	-78.10056	A	ADM3	EC		05	0404	040453		0		2148	America/Guayaquil	2015-09-16
+10792653	San Gabriel	San Gabriel		0.57261	-77.82071	A	ADM3	EC		05	0405	040550		0		2785	America/Guayaquil	2015-09-16
+10792654	Cristobal Colon	Cristobal Colon		0.61195	-77.8069	A	ADM3	EC		05	0405	040551		0		2807	America/Guayaquil	2015-09-16
+10792655	Chitan De Navarrete	Chitan De Navarrete		0.65553	-77.80792	A	ADM3	EC		05	0405	040552		0		3259	America/Guayaquil	2015-09-16
+10792656	Fernandez Salvador	Fernandez Salvador		0.55978	-77.72261	A	ADM3	EC		05	0405	040553		0		3268	America/Guayaquil	2017-02-07
+10792657	La Paz	La Paz		0.5187	-77.84813	A	ADM3	EC		05	0405	040554		0		2732	America/Guayaquil	2015-09-16
+10792658	Octavio Cordero Palacios (Sta. Rosa)	Octavio Cordero Palacios (Sta. Rosa)		-2.77514	-78.97126	A	ADM3	EC		02	0101	010159		0		2837	America/Guayaquil	2015-09-16
+10792659	Paccha	Paccha		-2.89869	-78.92939	A	ADM3	EC		02	0101	010160		0		2707	America/Guayaquil	2015-09-16
+10792660	Quingeo	Quingeo		-3.0553	-78.94158	A	ADM3	EC		02	0101	010161		0		2910	America/Guayaquil	2015-09-16
+10792661	Ricaurte	Ricaurte		-2.85654	-78.96316	A	ADM3	EC		02	0101	010162		0		2564	America/Guayaquil	2015-09-16
+10792662	San Joaquin	San Joaquin		-2.89823	-79.18816	A	ADM3	EC		02	0101	010163		0		3707	America/Guayaquil	2015-09-16
+10792663	Abdon Calderon (La Union)	Abdon Calderon (La Union)		-3.25835	-79.27261	A	ADM3	EC		02	0108	010851		0		1404	America/Guayaquil	2015-09-16
+10792664	Chavezpamba	Chavezpamba		0.12481	-78.40177	A	ADM3	EC		18	1701	170158		0		2222	America/Guayaquil	2015-09-16
+10792665	Ludo	Ludo		-3.0941	-78.88271	A	ADM3	EC		02	0109	010954		0		2661	America/Guayaquil	2015-09-16
+10792666	Cahuasqui	Cahuasqui		0.51702	-78.26309	A	ADM3	EC		11	1006	100651		0		2526	America/Guayaquil	2015-09-16
+10792667	Pablo Arenas	Pablo Arenas		0.48789	-78.21467	A	ADM3	EC		11	1006	100653		0		2552	America/Guayaquil	2015-09-16
+10792668	San Blas	San Blas		0.42466	-78.26548	A	ADM3	EC		11	1006	100654		0		2717	America/Guayaquil	2015-09-16
+10792669	Tumbabiro	Tumbabiro		0.45633	-78.19577	A	ADM3	EC		11	1006	100655		0		2150	America/Guayaquil	2015-09-16
+10792670	La Merced De Buenos Aires	La Merced De Buenos Aires		0.64353	-78.38114	A	ADM3	EC		11	1006	100652		0		2288	America/Guayaquil	2015-09-16
+10792671	San Fco. De Natabuela	San Fco. De Natabuela		0.31297	-78.19076	A	ADM3	EC		11	1002	100252		0		2573	America/Guayaquil	2015-09-16
+10792672	Pumpuentsa	Pumpuentsa		-2.62158	-77.27247	A	ADM3	EC		15	1409	140954		0		271	America/Guayaquil	2015-09-16
+10792673	Logroño	Logrono		-2.60538	-78.2197	A	ADM3	EC		15	1410	141050		0		676	America/Guayaquil	2015-09-16
+10792674	Yaupi	Yaupi		-2.80887	-78.00699	A	ADM3	EC		15	1410	141051		0		675	America/Guayaquil	2015-09-16
+10792675	Checa (Chilpa)	Checa (Chilpa)		-0.16332	-78.2624	A	ADM3	EC		18	1701	170159		0		3175	America/Guayaquil	2015-09-16
+10792676	El Quinche	El Quinche		-0.11749	-78.2664	A	ADM3	EC		18	1701	170160		0		2936	America/Guayaquil	2015-09-16
+10792677	Tisaleo	Tisaleo		-1.35026	-78.6678	A	ADM3	EC		19	1809	180950		0		3227	America/Guayaquil	2015-09-16
+10792678	Purunuma (Eguiguren)	Purunuma (Eguiguren)		-4.21844	-79.3625	A	ADM3	EC		12	1107	110754		0		2544	America/Guayaquil	2015-09-16
+10792679	Sacapalca	Sacapalca		-4.14822	-79.53058	A	ADM3	EC		12	1107	110756		0		1476	America/Guayaquil	2015-09-16
+10792680	Macara	Macara		-4.3227	-79.96281	A	ADM3	EC		12	1108	110850		0		615	America/Guayaquil	2015-09-16
+10792681	Larama	Larama		-4.25213	-79.89874	A	ADM3	EC		12	1108	110851		0		1215	America/Guayaquil	2015-09-16
+10792682	La Victoria	La Victoria		-4.45335	-79.79625	A	ADM3	EC		12	1108	110852		0		1684	America/Guayaquil	2015-09-16
+10792683	Sabiango (La Capilla)	Sabiango (La Capilla)		-4.36165	-79.82632	A	ADM3	EC		12	1108	110853		0		746	America/Guayaquil	2015-09-16
+10792684	Catacocha	Catacocha		-4.07747	-79.64845	A	ADM3	EC		12	1109	110950		0		2178	America/Guayaquil	2015-09-16
+10792685	Santa Fe De Galan	Santa Fe De Galan		-1.49713	-78.57097	A	ADM3	EC		06	0607	060758		0		3546	America/Guayaquil	2015-09-16
+10792686	Orianga	Orianga		-3.87561	-79.89088	A	ADM3	EC		12	1109	110956		0		1177	America/Guayaquil	2015-09-16
+10792687	San Antonio	San Antonio		-3.98352	-79.65791	A	ADM3	EC		12	1109	110957		0		1137	America/Guayaquil	2015-09-16
+10792688	Casanga	Casanga		-4.02045	-79.75809	A	ADM3	EC		12	1109	110958		0		987	America/Guayaquil	2015-09-16
+10792689	Yamana	Yamana		-4.00273	-79.69421	A	ADM3	EC		12	1109	110959		0		1039	America/Guayaquil	2015-09-16
+10792690	San Sebastian Del Coca	San Sebastian Del Coca		-0.22362	-77.02263	A	ADM3	EC		24	2203	220354		0		321	America/Guayaquil	2015-09-16
+10792691	Lago San Pedro	Lago San Pedro		-0.24531	-76.92625	A	ADM3	EC		24	2203	220355		0		301	America/Guayaquil	2015-09-16
+10792692	Rumipamba	Rumipamba		-0.10162	-76.9589	A	ADM3	EC		24	2203	220356		0		324	America/Guayaquil	2015-09-16
+10792693	Montalvo	Montalvo		-1.32547	-78.62285	A	ADM3	EC		19	1801	180158		0		2876	America/Guayaquil	2015-09-16
+10792694	Pasa	Pasa		-1.2405	-78.73865	A	ADM3	EC		19	1801	180159		0		3506	America/Guayaquil	2015-09-16
+10792695	Pilaguin (Pilahuin)	Pilaguin (Pilahuin)		-1.34705	-78.83543	A	ADM3	EC		19	1801	180161		0		3947	America/Guayaquil	2015-09-16
+10792696	Guel	Guel		-3.02567	-78.76316	A	ADM3	EC		02	0109	010953		0		2675	America/Guayaquil	2015-09-16
+10792697	Punin	Punin		-1.76153	-78.67271	A	ADM3	EC		06	0601	060158		0		3201	America/Guayaquil	2015-09-16
+10792698	Quimiag	Quimiag		-1.67466	-78.5168	A	ADM3	EC		06	0601	060159		0		3712	America/Guayaquil	2015-09-16
+10792699	San Juan	San Juan		-1.56691	-78.83007	A	ADM3	EC		06	0601	060160		0		4044	America/Guayaquil	2015-09-16
+10792700	San Luis	San Luis		-1.71134	-78.64105	A	ADM3	EC		06	0601	060161		0		2667	America/Guayaquil	2015-09-16
+10792701	Alausi	Alausi		-2.18729	-78.85262	A	ADM3	EC		06	0602	060250		0		2355	America/Guayaquil	2015-09-16
+10792702	Achupallas	Achupallas		-2.36159	-78.63802	A	ADM3	EC		06	0602	060251		0		3565	America/Guayaquil	2015-09-16
+10792703	San Javier De Cachavi (Cab. En San Javier)	San Javier De Cachavi (Cab. En San Javier)		1.0705	-78.77185	A	ADM3	EC		09	0805	080558		0		28	America/Guayaquil	2015-09-16
+10792704	Santa Rita	Santa Rita		1.05011	-78.67214	A	ADM3	EC		09	0805	080559		0		230	America/Guayaquil	2015-09-16
+10792705	Pozul (San Juan De Pozul)	Pozul (San Juan De Pozul)		-4.12657	-80.05251	A	ADM3	EC		12	1104	110455		0		1635	America/Guayaquil	2015-09-16
+10792706	Sabanilla	Sabanilla		-4.21376	-80.14652	A	ADM3	EC		12	1104	110456		0		592	America/Guayaquil	2015-09-16
+10792707	Tnte. Maximiliano Rodriguez Loaiza	Tnte. Maximiliano Rodriguez Loaiza		-4.20064	-80.06101	A	ADM3	EC		12	1104	110457		0		1292	America/Guayaquil	2015-09-16
+10792708	Chaguarpamba	Chaguarpamba		-3.86578	-79.62851	A	ADM3	EC		12	1105	110550		0		846	America/Guayaquil	2015-09-16
+10792709	Buenavista	Buenavista		-3.8981	-79.71526	A	ADM3	EC		12	1105	110551		0		1089	America/Guayaquil	2015-09-16
+10792710	El Rosario	El Rosario		-3.80159	-79.63658	A	ADM3	EC		12	1105	110552		0		944	America/Guayaquil	2015-09-16
+10792711	Santa Rufina	Santa Rufina		-3.86871	-79.76291	A	ADM3	EC		12	1105	110553		0		1116	America/Guayaquil	2015-09-16
+10792712	Guasuntos	Guasuntos		-2.22617	-78.78406	A	ADM3	EC		06	0602	060253		0		2782	America/Guayaquil	2015-09-16
+10792713	Tululbi (Cab. En Ricaurte)	Tululbi (Cab. En Ricaurte)		1.13469	-78.63177	A	ADM3	EC		09	0805	080561		0		116	America/Guayaquil	2015-09-16
+10792714	Urbina	Urbina		0.99005	-78.6893	A	ADM3	EC		09	0805	080562		0		98	America/Guayaquil	2015-09-16
+10792715	Atacames	Atacames		0.81202	-79.81793	A	ADM3	EC		09	0806	080650		0		104	America/Guayaquil	2015-09-16
+10792716	La Union	La Union		0.73191	-79.84267	A	ADM3	EC		09	0806	080651		0		107	America/Guayaquil	2015-09-16
+10792717	Tonchigue	Tonchigue		0.77034	-79.94464	A	ADM3	EC		09	0806	080653		0		68	America/Guayaquil	2015-09-16
+10792718	Rioverde	Rioverde		1.02398	-79.42673	A	ADM3	EC		09	0807	080750		0		10	America/Guayaquil	2015-09-16
+10792719	27 De Abril (Cab. En La Naranja)	27 De Abril (Cab. En La Naranja)		-4.4501	-79.45085	A	ADM3	EC		12	1106	110654		0		1278	America/Guayaquil	2015-09-16
+10792720	El Ingenio	El Ingenio		-4.44373	-79.37549	A	ADM3	EC		12	1106	110655		0		1876	America/Guayaquil	2015-09-16
+10792721	El Airo	El Airo		-4.47842	-79.37554	A	ADM3	EC		12	1106	110656		0		2228	America/Guayaquil	2015-09-16
+10792722	Gonzanama	Gonzanama		-4.22692	-79.44306	A	ADM3	EC		12	1107	110750		0		1973	America/Guayaquil	2015-09-16
+10792723	Changaimina (La Libertad)	Changaimina (La Libertad)		-4.23531	-79.52676	A	ADM3	EC		12	1107	110751		0		1626	America/Guayaquil	2015-09-16
+10792724	Nambacola	Nambacola		-4.09736	-79.43334	A	ADM3	EC		12	1107	110753		0		1554	America/Guayaquil	2015-09-16
+10792725	Flavio Alfaro	Flavio Alfaro		-0.34976	-79.80316	A	ADM3	EC		14	1305	130550		0		265	America/Guayaquil	2015-09-16
+10792726	Pumallacta	Pumallacta		-2.278	-78.80472	A	ADM3	EC		06	0602	060257		0		3422	America/Guayaquil	2015-09-16
+10792727	Belisario Quevedo (Guanailin)	Belisario Quevedo (Guanailin)		-0.97537	-78.55921	A	ADM3	EC		07	0501	050152		0		3172	America/Guayaquil	2015-09-16
+10792728	Guaitacama (Guaytacama)	Guaitacama (Guaytacama)		-0.82981	-78.64097	A	ADM3	EC		07	0501	050153		0		2905	America/Guayaquil	2015-09-16
+10792729	Joseguango Bajo	Joseguango Bajo		-0.82362	-78.60205	A	ADM3	EC		07	0501	050154		0		2906	America/Guayaquil	2015-09-16
+10792730	Mulalo	Mulalo		-0.73106	-78.51059	A	ADM3	EC		07	0501	050156		0		3531	America/Guayaquil	2015-09-16
+10792731	Chontaduro	Chontaduro		0.87346	-79.40101	A	ADM3	EC		09	0807	080751		0		170	America/Guayaquil	2015-09-16
+10792732	Alamor	Alamor		-3.97109	-80.06115	A	ADM3	EC		12	1110	111050		0		1107	America/Guayaquil	2015-09-16
+10792733	Ciano	Ciano		-3.91317	-79.98774	A	ADM3	EC		12	1110	111051		0		995	America/Guayaquil	2015-09-16
+10792734	El Arenal	El Arenal		-3.97707	-79.98098	A	ADM3	EC		12	1110	111052		0		921	America/Guayaquil	2015-09-16
+10792735	El Limo (Mariana De Jesus)	El Limo (Mariana De Jesus)		-3.99654	-80.19145	A	ADM3	EC		12	1110	111053		0		712	America/Guayaquil	2015-09-16
+10792736	Mercadillo	Mercadillo		-4.01716	-79.94144	A	ADM3	EC		12	1110	111054		0		1448	America/Guayaquil	2015-09-16
+10792737	Sevilla	Sevilla		-2.2973	-78.82343	A	ADM3	EC		06	0602	060258		0		3119	America/Guayaquil	2015-09-16
+10792738	Sibambe	Sibambe		-2.19165	-78.91396	A	ADM3	EC		06	0602	060259		0		3168	America/Guayaquil	2015-09-16
+10792739	Tixan	Tixan		-2.15244	-78.77211	A	ADM3	EC		06	0602	060260		0		3386	America/Guayaquil	2015-09-16
+10792740	Villa La Union (Cajabamba)	Villa La Union (Cajabamba)		-1.72514	-78.7942	A	ADM3	EC		06	0603	060350		0		3396	America/Guayaquil	2015-09-16
+10792741	Cañi	Cani		-1.79696	-78.9626	A	ADM3	EC		06	0603	060351		0		3050	America/Guayaquil	2015-09-16
+10792742	Columbe	Columbe		-1.85858	-78.78135	A	ADM3	EC		06	0603	060352		0		3552	America/Guayaquil	2015-09-16
+10792743	Juan De Velasco (Pangor)	Juan De Velasco (Pangor)		-1.86142	-78.91228	A	ADM3	EC		06	0603	060353		0		3574	America/Guayaquil	2015-09-16
+10792744	Santiago De Quito (Cab. En San Antonio De Quito)	Santiago De Quito (Cab. En San Antonio De Quito)		-1.77378	-78.72879	A	ADM3	EC		06	0603	060354		0		3450	America/Guayaquil	2015-09-16
+10792745	Chambo	Chambo		-1.75065	-78.5391	A	ADM3	EC		06	0604	060450		0		3855	America/Guayaquil	2015-09-16
+10792746	Lluzhapa	Lluzhapa		-3.4928	-79.32509	A	ADM3	EC		12	1111	111153		0		2315	America/Guayaquil	2015-09-16
+10792747	Manu	Manu		-3.52607	-79.42686	A	ADM3	EC		12	1111	111154		0		3386	America/Guayaquil	2015-09-16
+10792748	San Antonio De Qumbe (Cumbe)	San Antonio De Qumbe (Cumbe)		-3.5309	-79.22801	A	ADM3	EC		12	1111	111155		0		2683	America/Guayaquil	2015-09-16
+10792749	San Pablo De Tenta	San Pablo De Tenta		-3.62208	-79.30114	A	ADM3	EC		12	1111	111156		0		2817	America/Guayaquil	2015-09-16
+10792750	San Sebastian De Yuluc	San Sebastian De Yuluc		-3.38697	-79.41807	A	ADM3	EC		12	1111	111157		0		1600	America/Guayaquil	2015-09-16
+10792751	Selva Alegre	Selva Alegre		-3.55554	-79.34902	A	ADM3	EC		12	1111	111158		0		2830	America/Guayaquil	2015-09-16
+10792752	Lomas De Sargentillo	Lomas De Sargentillo		-1.85018	-80.08029	A	ADM3	EC		10	0924	092450		0		19	America/Guayaquil	2015-09-16
+10792753	Palenque	Palenque		-1.33429	-79.7154	A	ADM3	EC		13	1209	120950		0		38	America/Guayaquil	2015-09-16
+10792754	San Jacinto De Buena Fe	San Jacinto De Buena Fe		-0.77167	-79.50844	A	ADM3	EC		13	1210	121050		0		86	America/Guayaquil	2015-09-16
+10792755	Patricia Pilar	Patricia Pilar		-0.59629	-79.41476	A	ADM3	EC		13	1210	121051		0		173	America/Guayaquil	2015-09-16
+10792756	Valencia	Valencia		-0.77749	-79.30663	A	ADM3	EC		13	1211	121150		0		265	America/Guayaquil	2015-09-16
+10792757	Mocache	Mocache		-1.18967	-79.54984	A	ADM3	EC		13	1212	121250		0		50	America/Guayaquil	2015-09-16
+10792758	Quinsaloma	Quinsaloma		-1.13983	-79.35628	A	ADM3	EC		13	1213	121350		0		66	America/Guayaquil	2015-09-16
+10792759	Los Angeles	Los Angeles		-1.41917	-79.3643	A	ADM3	EC		13	1207	120754		0		105	America/Guayaquil	2015-09-16
+10792760	Chacarita	Chacarita		-1.37763	-79.34904	A	ADM3	EC		13	1207	120753		0		386	America/Guayaquil	2015-09-16
+10792761	San Andres	San Andres		-1.51652	-78.7514	A	ADM3	EC		06	0607	060754		0		3630	America/Guayaquil	2015-09-16
+10792762	Cascol	Cascol		-1.77468	-80.46793	A	ADM3	EC		14	1310	131052		0		471	America/Guayaquil	2015-09-16
+10792763	Guale	Guale		-1.64656	-80.27235	A	ADM3	EC		14	1310	131053		0		90	America/Guayaquil	2015-09-16
+10792764	Lascano	Lascano		-1.51899	-80.25067	A	ADM3	EC		14	1310	131054		0		109	America/Guayaquil	2015-09-16
+10792765	Pichincha	Pichincha		-0.95175	-79.84768	A	ADM3	EC		14	1311	131150		0		62	America/Guayaquil	2016-08-03
+10792766	Barraganete	Barraganete		-0.74727	-79.79323	A	ADM3	EC		14	1311	131151		0		137	America/Guayaquil	2015-09-16
+10792767	San Sebastian	San Sebastian		-1.07909	-79.97468	A	ADM3	EC		14	1311	131152		0		336	America/Guayaquil	2015-09-16
+10792768	Rocafuerte	Rocafuerte		-0.9057	-80.40582	A	ADM3	EC		14	1312	131250		0		30	America/Guayaquil	2016-08-03
+10792769	Urdaneta (Paquishapa)	Urdaneta (Paquishapa)		-3.63929	-79.16819	A	ADM3	EC		12	1111	111159		0		2828	America/Guayaquil	2015-09-16
+10792770	11 De Noviembre (Ilinchisi)	11 De Noviembre (Ilinchisi)		-0.91672	-78.66759	A	ADM3	EC		07	0501	050157		0		2908	America/Guayaquil	2015-09-16
+10792771	Poalo	Poalo		-0.88416	-78.71295	A	ADM3	EC		07	0501	050158		0		3381	America/Guayaquil	2015-09-16
+10792772	San Juan De Pastocalle	San Juan De Pastocalle		-0.68097	-78.63576	A	ADM3	EC		07	0501	050159		0		3408	America/Guayaquil	2015-09-16
+10792773	Quiroga	Quiroga		-0.92716	-80.08443	A	ADM3	EC		14	1302	130252		0		145	America/Guayaquil	2015-09-16
+10792774	Chone	Chone		-0.67976	-79.98871	A	ADM3	EC		14	1303	130350		0		256	America/Guayaquil	2017-02-07
+10792775	Boyaca	Boyaca		-0.5484	-80.1661	A	ADM3	EC		14	1303	130351		0		254	America/Guayaquil	2015-09-16
+10792776	Canuto	Canuto		-0.79777	-80.05596	A	ADM3	EC		14	1303	130352		0		181	America/Guayaquil	2015-09-16
+10792777	Convento	Convento		-0.24146	-79.99864	A	ADM3	EC		14	1303	130353		0		221	America/Guayaquil	2015-09-16
+10792778	Compud	Compud		-2.35847	-78.9256	A	ADM3	EC		06	0605	060552		0		2762	America/Guayaquil	2015-09-16
+10792779	Chumunde	Chumunde		0.70119	-79.38692	A	ADM3	EC		09	0807	080752		0		190	America/Guayaquil	2015-09-16
+10792780	Lagarto	Lagarto		1.00557	-79.21762	A	ADM3	EC		09	0807	080753		0		77	America/Guayaquil	2015-09-16
+10792781	Montalvo (Cab En Horqueta)	Montalvo (Cab En Horqueta)		0.88651	-79.28874	A	ADM3	EC		09	0807	080754		0		164	America/Guayaquil	2015-09-16
+10792782	Garzareal	Garzareal		-4.27281	-80.27356	A	ADM3	EC		12	1113	111352		0		362	America/Guayaquil	2015-09-16
+10792783	Limones	Limones		-4.36377	-80.37683	A	ADM3	EC		12	1113	111353		0		234	America/Guayaquil	2015-09-16
+10792784	Paletillas	Paletillas		-4.14369	-80.25332	A	ADM3	EC		12	1113	111354		0		611	America/Guayaquil	2015-09-16
+10792785	Bolaspamba	Bolaspamba		-4.13193	-80.3355	A	ADM3	EC		12	1113	111355		0		588	America/Guayaquil	2015-09-16
+10792786	Gonzol	Gonzol		-2.27122	-78.85583	A	ADM3	EC		06	0605	060553		0		2810	America/Guayaquil	2015-09-16
+10792787	Llagos	Llagos		-2.36539	-78.97032	A	ADM3	EC		06	0605	060554		0		2816	America/Guayaquil	2015-09-16
+10792788	Guamote	Guamote		-2.0028	-78.69219	A	ADM3	EC		06	0606	060650		0		3654	America/Guayaquil	2015-09-16
+10792789	Cebadas	Cebadas		-2.04662	-78.55061	A	ADM3	EC		06	0606	060651		0		3998	America/Guayaquil	2015-09-16
+10792790	Palmira	Palmira		-2.07884	-78.75397	A	ADM3	EC		06	0606	060652		0		3284	America/Guayaquil	2015-09-16
+10792791	Rocafuerte	Rocafuerte		0.96852	-79.36578	A	ADM3	EC		09	0807	080755		0		69	America/Guayaquil	2015-09-16
+10792792	Sua (Cab. En La Bocana)	Sua (Cab. En La Bocana)		0.76775	-79.88862	A	ADM3	EC		09	0806	080652		0		111	America/Guayaquil	2015-09-16
+10792793	Tonsupa	Tonsupa		0.87991	-79.77306	A	ADM3	EC		09	0806	080654		0		77	America/Guayaquil	2015-09-16
+10792794	Plan Piloto	Plan Piloto		-0.06253	-79.37642	A	ADM3	EC		26	2302	230253		0		255	America/Guayaquil	2015-09-16
+10792795	Monterrey	Monterrey		-0.05653	-79.53888	A	ADM3	EC		26	2302	230251		0		170	America/Guayaquil	2015-09-16
+10792796	La Villegas	La Villegas		-0.07703	-79.44892	A	ADM3	EC		26	2302	230252		0		229	America/Guayaquil	2015-09-16
+10792797	Quilanga	Quilanga		-4.29543	-79.41178	A	ADM3	EC		12	1115	111550		0		1967	America/Guayaquil	2015-09-16
+10792798	Fundochamba	Fundochamba		-4.33067	-79.36824	A	ADM3	EC		12	1115	111551		0		1963	America/Guayaquil	2015-09-16
+10792799	San Antonio De Las Aradas (Cab. En Las Aradas)	San Antonio De Las Aradas (Cab. En Las Aradas)		-4.3886	-79.36394	A	ADM3	EC		12	1115	111552		0		2022	America/Guayaquil	2015-09-16
+10792800	Olmedo	Olmedo		-3.93662	-79.62764	A	ADM3	EC		12	1116	111650		0		1559	America/Guayaquil	2015-09-16
+10792801	La Tingue	La Tingue		-3.93621	-79.56093	A	ADM3	EC		12	1116	111651		0		1341	America/Guayaquil	2015-09-16
+10792802	Pindal	Pindal		-4.12742	-80.11249	A	ADM3	EC		12	1114	111450		0		730	America/Guayaquil	2015-09-16
+10792803	Babahoyo	Babahoyo		-1.85263	-79.50737	A	ADM3	EC		13	1201	120150		0		11	America/Guayaquil	2015-09-16
+10792804	Caracol	Caracol		-1.68567	-79.43595	A	ADM3	EC		13	1201	120152		0		15	America/Guayaquil	2015-09-16
+10792805	Febres Cordero (Las Juntas)	Febres Cordero (Las Juntas)		-1.97689	-79.31918	A	ADM3	EC		13	1201	120153		0		24	America/Guayaquil	2015-09-16
+10792806	Pimocha	Pimocha		-1.78303	-79.57182	A	ADM3	EC		13	1201	120154		0		6	America/Guayaquil	2015-09-16
+10792807	Guanando	Guanando		-1.50642	-78.52804	A	ADM3	EC		06	0607	060751		0		2508	America/Guayaquil	2015-09-16
+10792808	La Concordia	La Concordia		-0.00297	-79.37634	A	ADM3	EC		26	2302	230250		0		230	America/Guayaquil	2015-09-16
+10792809	Santa Lucia De Las Peñas	Santa Lucia De Las Penas		1.06763	-79.14297	A	ADM3	EC		09	0802	080265		0		51	America/Guayaquil	2015-09-16
+10792810	General Villamil (Playas)	General Villamil (Playas)		-2.55673	-80.4382	A	ADM3	EC		10	0921	092150		0		127	America/Guayaquil	2015-09-16
+10792811	Simon Bolivar	Simon Bolivar		-2.00324	-79.45135	A	ADM3	EC		10	0922	092250		0		19	America/Guayaquil	2015-09-16
+10792812	Crnel. Lorenzo De Garaicoa (Pedregal)	Crnel. Lorenzo De Garaicoa (Pedregal)		-2.06396	-79.37334	A	ADM3	EC		10	0922	092251		0		47	America/Guayaquil	2015-09-16
+10792813	Coronel Marcelino Maridueña (San Carlos)	Coronel Marcelino Mariduena (San Carlos)		-2.2392	-79.38208	A	ADM3	EC		10	0923	092350		0		47	America/Guayaquil	2015-09-16
+10792814	Quevedo	Quevedo		-1.02455	-79.47939	A	ADM3	EC		13	1205	120550		0		73	America/Guayaquil	2015-09-16
+10792815	San Carlos	San Carlos		-1.11326	-79.42343	A	ADM3	EC		13	1205	120553		0		78	America/Guayaquil	2015-09-16
+10792816	La Esperanza	La Esperanza		-0.97961	-79.40967	A	ADM3	EC		13	1205	120555		0		101	America/Guayaquil	2015-09-16
+10792817	Catarama	Catarama		-1.58692	-79.48298	A	ADM3	EC		13	1206	120650		0		14	America/Guayaquil	2015-09-16
+10792818	Ricaurte	Ricaurte		-1.56315	-79.37515	A	ADM3	EC		13	1206	120651		0		42	America/Guayaquil	2015-09-16
+10792819	Ilapo	Ilapo		-1.54791	-78.58044	A	ADM3	EC		06	0607	060752		0		3298	America/Guayaquil	2015-09-16
+10792820	Tomas De Berlanga (Santo Tomas)	Tomas De Berlanga (Santo Tomas)		-0.71135	-91.05194	A	ADM3	EC		01	2002	200251		0		92	Pacific/Galapagos	2017-02-07
+10792821	Bellavista	Bellavista		-0.26367	-90.70862	A	ADM3	EC		01	2003	200351		0		358	Pacific/Galapagos	2017-02-07
+10792822	Santa Rosa	Santa Rosa		-0.58227	-90.47241	A	ADM3	EC		01	2003	200352		0		168	Pacific/Galapagos	2017-02-07
+10792823	Santa Elena	Santa Elena		-2.22143	-80.70814	A	ADM3	EC		25	2401	240150		0		92	America/Guayaquil	2015-09-16
+10792824	Huasaga (Cab En Wampuik)	Huasaga (Cab En Wampuik)		-2.52611	-77.04236	A	ADM3	EC		15	1409	140951		0		282	America/Guayaquil	2015-09-16
+10792825	Macuma	Macuma		-2.15283	-77.65478	A	ADM3	EC		15	1409	140952		0		533	America/Guayaquil	2015-09-16
+10792826	Tuutinentza	Tuutinentza		-2.69359	-77.51195	A	ADM3	EC		15	1409	140953		0		243	America/Guayaquil	2015-09-16
+10792827	La Providencia	La Providencia		-1.5726	-78.54534	A	ADM3	EC		06	0607	060753		0		2638	America/Guayaquil	2015-09-16
+10792828	Luis Galarza Orellana (Cab. En Delegsol)	Luis Galarza Orellana (Cab. En Delegsol)		-2.99782	-78.71324	A	ADM3	EC		02	0111	011153		0		3514	America/Guayaquil	2015-09-16
+10792829	San Martin De Puzhio	San Martin De Puzhio		-2.97793	-78.74744	A	ADM3	EC		02	0111	011154		0		3008	America/Guayaquil	2015-09-16
+10792830	San Vicente	San Vicente		-2.86938	-78.65238	A	ADM3	EC		02	0112	011253		0		2800	America/Guayaquil	2015-09-16
+10792831	Sevilla De Oro	Sevilla De Oro		-2.79639	-78.62329	A	ADM3	EC		02	0113	011350		0		3032	America/Guayaquil	2015-09-16
+10792832	Amaluza	Amaluza		-2.6281	-78.52521	A	ADM3	EC		02	0113	011351		0		1949	America/Guayaquil	2015-09-16
+10792833	Palmas	Palmas		-2.69868	-78.60344	A	ADM3	EC		02	0113	011352		0		2740	America/Guayaquil	2015-09-16
+10792834	Guachapala	Guachapala		-2.77327	-78.70149	A	ADM3	EC		02	0114	011450		0		2342	America/Guayaquil	2015-09-16
+10792835	Camilo Ponce Enriquez	Camilo Ponce Enriquez		-3.05131	-79.65437	A	ADM3	EC		02	0115	011550		0		1206	America/Guayaquil	2015-09-16
+10792836	El Carmen De Pijili	El Carmen De Pijili		-2.92454	-79.55819	A	ADM3	EC		02	0115	011551		0		594	America/Guayaquil	2015-09-16
+10792837	Atahualpa	Atahualpa		-2.31943	-80.77278	A	ADM3	EC		25	2401	240151		0		35	America/Guayaquil	2015-09-16
+10792838	San Gerardo De Pacaicaguan	San Gerardo De Pacaicaguan		-1.63608	-78.61563	A	ADM3	EC		06	0607	060755		0		2675	America/Guayaquil	2015-09-16
+10792839	San Isidro De Patulu	San Isidro De Patulu		-1.54177	-78.67525	A	ADM3	EC		06	0607	060756		0		3709	America/Guayaquil	2015-09-16
+10792840	Tanicuchi	Tanicuchi		-0.76392	-78.64605	A	ADM3	EC		07	0501	050161		0		3040	America/Guayaquil	2015-09-16
+10792841	Toacaso	Toacaso		-0.71479	-78.75738	A	ADM3	EC		07	0501	050162		0		3628	America/Guayaquil	2015-09-16
+10792842	La Mana	La Mana		-0.92666	-79.22976	A	ADM3	EC		07	0502	050250		0		223	America/Guayaquil	2015-09-16
+10792843	Guasaganda (Cab. En Guasaganda Centro)	Guasaganda (Cab. En Guasaganda Centro)		-0.78858	-79.10333	A	ADM3	EC		07	0502	050251		0		1289	America/Guayaquil	2015-09-16
+10792844	Pucayacu	Pucayacu		-0.6646	-79.08127	A	ADM3	EC		07	0502	050252		0		1085	America/Guayaquil	2015-09-16
+10792845	El Corazon	El Corazon		-1.14868	-79.0686	A	ADM3	EC		07	0503	050350		0		1847	America/Guayaquil	2017-02-07
+10792846	Moraspungo	Moraspungo		-1.08641	-79.2245	A	ADM3	EC		07	0503	050351		0		792	America/Guayaquil	2015-09-16
+10792847	Pinllopata	Pinllopata		-1.14684	-79.0026	A	ADM3	EC		07	0503	050352		0		2408	America/Guayaquil	2015-09-16
+10792848	Ramon Campaña	Ramon Campana		-1.07685	-79.09095	A	ADM3	EC		07	0503	050353		0		1894	America/Guayaquil	2015-09-16
+10792849	Pujili	Pujili		-0.99148	-78.72282	A	ADM3	EC		07	0504	050450		0		3254	America/Guayaquil	2015-09-16
+10792850	Angamarca	Angamarca		-1.1146	-78.90473	A	ADM3	EC		07	0504	050451		0		3178	America/Guayaquil	2015-09-16
+10792851	Guangaje	Guangaje		-0.89893	-78.84193	A	ADM3	EC		07	0504	050453		0		3586	America/Guayaquil	2015-09-16
+10792852	Guayas (Pueblo Nuevo)	Guayas (Pueblo Nuevo)		-0.94473	-79.61466	A	ADM3	EC		10	0908	090851		0		72	America/Guayaquil	2015-09-16
+10792853	El Rosario	El Rosario		-1.05282	-79.7787	A	ADM3	EC		10	0908	090852		0		61	America/Guayaquil	2015-09-16
+10792854	El Triunfo	El Triunfo		-2.29497	-79.36015	A	ADM3	EC		10	0909	090950		0		61	America/Guayaquil	2015-09-16
+10792855	Milagro	Milagro		-2.10287	-79.57821	A	ADM3	EC		10	0910	091050		0		12	America/Guayaquil	2015-09-16
+10792856	Chobo	Chobo		-2.14051	-79.63698	A	ADM3	EC		10	0910	091051		0		7	America/Guayaquil	2015-09-16
+10792857	Mariscal Sucre (Huaques)	Mariscal Sucre (Huaques)		-2.08224	-79.50782	A	ADM3	EC		10	0910	091053		0		17	America/Guayaquil	2015-09-16
+10792858	Jipijapa	Jipijapa		-1.30377	-80.55552	A	ADM3	EC		14	1306	130650		0		364	America/Guayaquil	2015-09-16
+10792859	America	America		-1.43365	-80.51061	A	ADM3	EC		14	1306	130651		0		574	America/Guayaquil	2015-09-16
+10792860	El Anegado (Cab. En Eloy Alfaro)	El Anegado (Cab. En Eloy Alfaro)		-1.50067	-80.53314	A	ADM3	EC		14	1306	130652		0		440	America/Guayaquil	2015-09-16
+10792861	Julcuy	Julcuy		-1.50236	-80.64027	A	ADM3	EC		14	1306	130653		0		233	America/Guayaquil	2015-09-16
+10792862	La Union	La Union		-1.43862	-80.45042	A	ADM3	EC		14	1306	130654		0		481	America/Guayaquil	2015-09-16
+10792863	Membrillal	Membrillal		-1.23715	-80.6693	A	ADM3	EC		14	1306	130656		0		202	America/Guayaquil	2015-09-16
+10792864	Pedro Pablo Gomez	Pedro Pablo Gomez		-1.6865	-80.57304	A	ADM3	EC		14	1306	130657		0		588	America/Guayaquil	2015-09-16
+10792865	Puerto De Cayo	Puerto De Cayo		-1.32597	-80.6983	A	ADM3	EC		14	1306	130658		0		266	America/Guayaquil	2015-09-16
+10792866	Junin	Junin		-0.94162	-80.19534	A	ADM3	EC		14	1307	130750		0		59	America/Guayaquil	2015-09-16
+10792867	Manta	Manta		-1.01012	-80.77324	A	ADM3	EC		14	1308	130850		0		83	America/Guayaquil	2015-09-16
+10792868	San Lorenzo	San Lorenzo		-1.08888	-80.87106	A	ADM3	EC		14	1308	130851		0		250	America/Guayaquil	2015-09-16
+10792869	Santa Marianita (Boca De Pacoche)	Santa Marianita (Boca De Pacoche)		-1.01425	-80.84726	A	ADM3	EC		14	1308	130852		0		225	America/Guayaquil	2015-09-16
+10792870	Montecristi	Montecristi		-1.12684	-80.71623	A	ADM3	EC		14	1309	130950		0		105	America/Guayaquil	2015-09-16
+10792871	La Pila	La Pila		-1.13614	-80.5883	A	ADM3	EC		14	1309	130952		0		240	America/Guayaquil	2015-09-16
+10792872	Pajan	Pajan		-1.55157	-80.4694	A	ADM3	EC		14	1310	131050		0		300	America/Guayaquil	2015-09-16
+10792873	Noboa	Noboa		-1.44834	-80.38619	A	ADM3	EC		14	1316	131652		0		397	America/Guayaquil	2015-09-16
+10792874	Arq. Sixto Duran Ballen	Arq. Sixto Duran Ballen		-1.47669	-80.31268	A	ADM3	EC		14	1316	131653		0		188	America/Guayaquil	2015-09-16
+10792875	Pedernales	Pedernales		0.07191	-79.85776	A	ADM3	EC		14	1317	131750		0		400	America/Guayaquil	2015-09-16
+10792876	Cojimies	Cojimies		0.22419	-79.86409	A	ADM3	EC		14	1317	131751		0		67	America/Guayaquil	2015-09-16
+10792877	Baeza	Baeza		-0.4904	-77.96486	A	ADM3	EC		23	1507	150750		0		3285	America/Guayaquil	2015-09-16
+10792878	Campozano (La Palma De Pajan)	Campozano (La Palma De Pajan)		-1.62376	-80.37538	A	ADM3	EC		14	1310	131051		0		164	America/Guayaquil	2015-09-16
+10792879	Valparaiso	Valparaiso		-1.55143	-78.6088	A	ADM3	EC		06	0607	060759		0		3478	America/Guayaquil	2015-09-16
+10792880	Pallatanga	Pallatanga		-2.01703	-78.9303	A	ADM3	EC		06	0608	060850		0		1883	America/Guayaquil	2015-09-16
+10792881	Penipe	Penipe		-1.59075	-78.521	A	ADM3	EC		06	0609	060950		0		3130	America/Guayaquil	2017-02-07
+10792882	El Altar	El Altar		-1.54599	-78.44242	A	ADM3	EC		06	0609	060951		0		3608	America/Guayaquil	2015-09-16
+10792883	Matus	Matus		-1.58972	-78.43513	A	ADM3	EC		06	0609	060952		0		3575	America/Guayaquil	2015-09-16
+10792884	Puela	Puela		-1.5049	-78.43903	A	ADM3	EC		06	0609	060953		0		3784	America/Guayaquil	2015-09-16
+10792885	San Antonio De Bayushig	San Antonio De Bayushig		-1.54927	-78.51787	A	ADM3	EC		06	0609	060954		0		2760	America/Guayaquil	2015-09-16
+10792886	La Candelaria	La Candelaria		-1.63869	-78.44478	A	ADM3	EC		06	0609	060955		0		3988	America/Guayaquil	2015-09-16
+10792887	Maldonado	Maldonado		1.04724	-78.89789	A	ADM3	EC		09	0802	080256		0		31	America/Guayaquil	2015-09-16
+10792888	Pampanal De Bolivar	Pampanal De Bolivar		1.30729	-78.92179	A	ADM3	EC		09	0802	080257		0		7	America/Guayaquil	2015-09-16
+10792889	San Francisco De Onzole	San Francisco De Onzole		0.84705	-79.1081	A	ADM3	EC		09	0802	080258		0		28	America/Guayaquil	2015-09-16
+10792890	Bahia De Caraquez	Bahia De Caraquez		-0.6873	-80.40319	A	ADM3	EC		14	1314	131450		0		193	America/Guayaquil	2015-09-16
+10792891	Charapoto	Charapoto		-0.78737	-80.44678	A	ADM3	EC		14	1314	131453		0		96	America/Guayaquil	2015-09-16
+10792892	San Isidro	San Isidro		-0.36669	-80.20454	A	ADM3	EC		14	1314	131457		0		231	America/Guayaquil	2015-09-16
+10792893	Tosagua	Tosagua		-0.76924	-80.2963	A	ADM3	EC		14	1315	131550		0		62	America/Guayaquil	2015-09-16
+10792894	Bachillero	Bachillero		-0.75945	-80.19495	A	ADM3	EC		14	1315	131551		0		40	America/Guayaquil	2015-09-16
+10792895	Angel Pedro Giler (La Estancilla)	Angel Pedro Giler (La Estancilla)		-0.83611	-80.24652	A	ADM3	EC		14	1315	131552		0		26	America/Guayaquil	2015-09-16
+10792896	Sucre	Sucre		-1.30331	-80.42341	A	ADM3	EC		14	1316	131650		0		208	America/Guayaquil	2015-09-16
+10792897	Bellavista	Bellavista		-1.36938	-80.31438	A	ADM3	EC		14	1316	131651		0		225	America/Guayaquil	2015-09-16
+10792898	Bilbao (Cab. En Quilluyacu)	Bilbao (Cab. En Quilluyacu)		-1.46812	-78.48714	A	ADM3	EC		06	0609	060956		0		2845	America/Guayaquil	2015-09-16
+10792899	Cumanda	Cumanda		-2.21398	-79.08025	A	ADM3	EC		06	0610	061050		0		738	America/Guayaquil	2015-09-16
+10792900	Lican	Lican		-1.64243	-78.70741	A	ADM3	EC		06	0601	060155		0		2984	America/Guayaquil	2015-09-16
+10792901	Guano	Guano		-1.60428	-78.61852	A	ADM3	EC		06	0607	060750		0		2666	America/Guayaquil	2015-09-16
+10792902	Latacunga	Latacunga		-0.92423	-78.54389	A	ADM3	EC		07	0501	050150		0		3157	America/Guayaquil	2015-09-16
+10792903	Alaques (Alaquez)	Alaques (Alaquez)		-0.85049	-78.49426	A	ADM3	EC		07	0501	050151		0		3809	America/Guayaquil	2015-09-16
+10792904	Puerto Lopez	Puerto Lopez		-1.59746	-80.73672	A	ADM3	EC		14	1319	131950		0		352	America/Guayaquil	2015-09-16
+10792905	Machalilla	Machalilla		-1.4691	-80.73825	A	ADM3	EC		14	1319	131951		0		94	America/Guayaquil	2015-09-16
+10792906	Salango	Salango		-1.63722	-80.80294	A	ADM3	EC		14	1319	131952		0		79	America/Guayaquil	2015-09-16
+10792907	Jama	Jama		-0.22145	-80.23061	A	ADM3	EC		14	1320	132050		0		54	America/Guayaquil	2015-09-16
+10792908	Jaramijo	Jaramijo		-0.97567	-80.60366	A	ADM3	EC		14	1321	132150		0		46	America/Guayaquil	2015-09-16
+10792909	La Victoria	La Victoria		-0.91262	-78.69973	A	ADM3	EC		07	0504	050455		0		3031	America/Guayaquil	2015-09-16
+10792910	Pilalo	Pilalo		-0.99511	-79.00042	A	ADM3	EC		07	0504	050456		0		3016	America/Guayaquil	2015-09-16
+10792911	Tingo	Tingo		-0.92516	-79.09708	A	ADM3	EC		07	0504	050457		0		1563	America/Guayaquil	2015-09-16
+10792912	Zumbahua	Zumbahua		-0.95721	-78.89632	A	ADM3	EC		07	0504	050458		0		3479	America/Guayaquil	2015-09-16
+10792913	San Miguel	San Miguel		-1.02641	-78.50109	A	ADM3	EC		07	0505	050550		0		3289	America/Guayaquil	2015-09-16
+10792914	Santo Domingo De Onzole	Santo Domingo De Onzole		0.67934	-79.15907	A	ADM3	EC		09	0802	080259		0		199	America/Guayaquil	2015-09-16
+10792915	Selva Alegre	Selva Alegre		0.91801	-78.88147	A	ADM3	EC		09	0802	080260		0		85	America/Guayaquil	2015-09-16
+10792916	Telembi	Telembi		0.60211	-78.90126	A	ADM3	EC		09	0802	080261		0		409	America/Guayaquil	2015-09-16
+10792917	Colon Eloy Del Maria	Colon Eloy Del Maria		0.9962	-78.90929	A	ADM3	EC		09	0802	080262		0		49	America/Guayaquil	2015-09-16
+10792918	San Jose De Cayapas	San Jose De Cayapas		0.89952	-78.97282	A	ADM3	EC		09	0802	080263		0		19	America/Guayaquil	2015-09-16
+10792919	Roberto Astudillo (Cab. En Cruce De Venecia)	Roberto Astudillo (Cab. En Cruce De Venecia)		-2.16895	-79.51029	A	ADM3	EC		10	0910	091054		0		24	America/Guayaquil	2015-09-16
+10792920	Naranjal	Naranjal		-2.71148	-79.64175	A	ADM3	EC		10	0911	091150		0		21	America/Guayaquil	2015-09-16
+10792921	Jesus Maria	Jesus Maria		-2.58093	-79.52813	A	ADM3	EC		10	0911	091151		0		22	America/Guayaquil	2015-09-16
+10792922	San Carlos	San Carlos		-2.54413	-79.47248	A	ADM3	EC		10	0911	091152		0		46	America/Guayaquil	2015-09-16
+10792923	Santa Rosa De Flandes	Santa Rosa De Flandes		-2.62959	-79.68312	A	ADM3	EC		10	0911	091153		0		0	America/Guayaquil	2015-09-16
+10792924	Taura	Taura		-2.43003	-79.64441	A	ADM3	EC		10	0911	091154		0		8	America/Guayaquil	2015-09-16
+10792925	Naranjito	Naranjito		-2.15407	-79.39784	A	ADM3	EC		10	0912	091250		0		45	America/Guayaquil	2015-09-16
+10792926	Palestina	Palestina		-1.63685	-79.91927	A	ADM3	EC		10	0913	091350		0		20	America/Guayaquil	2015-09-16
+10792927	Pedro Carbo	Pedro Carbo		-1.82717	-80.32426	A	ADM3	EC		10	0914	091450		0		95	America/Guayaquil	2015-09-16
+10792928	Valle De La Virgen	Valle De La Virgen		-1.72646	-80.19106	A	ADM3	EC		10	0914	091451		0		99	America/Guayaquil	2015-09-16
+10792929	Sabanilla	Sabanilla		-1.92911	-80.26324	A	ADM3	EC		10	0914	091452		0		68	America/Guayaquil	2015-09-16
+10792930	General Proaño	General Proano		-2.25132	-78.13836	A	ADM3	EC		15	1401	140153		0		1177	America/Guayaquil	2015-09-16
+10792931	San Isidro	San Isidro		-2.18183	-78.15064	A	ADM3	EC		15	1401	140156		0		1533	America/Guayaquil	2015-09-16
+10792932	Sevilla Don Bosco	Sevilla Don Bosco		-2.4759	-77.88615	A	ADM3	EC		15	1401	140157		0		868	America/Guayaquil	2015-09-16
+10792933	Sinai	Sinai		-2.07446	-78.18542	A	ADM3	EC		15	1401	140158		0		1768	America/Guayaquil	2015-09-16
+10792934	Zuña (Zuñac)	Zuna (Zunac)		-2.19493	-78.40392	A	ADM3	EC		15	1401	140160		0		3028	America/Guayaquil	2015-09-16
+10792935	Cuchaentza	Cuchaentza		-2.16241	-77.84865	A	ADM3	EC		15	1401	140162		0		1006	America/Guayaquil	2015-09-16
+10792936	Rio Blanco	Rio Blanco		-2.37941	-78.37848	A	ADM3	EC		15	1401	140164		0		3231	America/Guayaquil	2015-09-16
+10792937	Gualaquiza	Gualaquiza		-3.32254	-78.5673	A	ADM3	EC		15	1402	140250		0		1633	America/Guayaquil	2015-09-16
+10792938	Amazonas (Rosario De Cuyes)	Amazonas (Rosario De Cuyes)		-3.43362	-78.78879	A	ADM3	EC		15	1402	140251		0		2338	America/Guayaquil	2015-09-16
+10792939	Bermejos	Bermejos		-3.27778	-78.75979	A	ADM3	EC		15	1402	140252		0		2777	America/Guayaquil	2015-09-16
+10792940	Bomboiza	Bomboiza		-3.46635	-78.52935	A	ADM3	EC		15	1402	140253		0		1066	America/Guayaquil	2015-09-16
+10792941	Chiguinda	Chiguinda		-3.17013	-78.69459	A	ADM3	EC		15	1402	140254		0		3391	America/Guayaquil	2015-09-16
+10792942	El Rosario	El Rosario		-3.25079	-78.65257	A	ADM3	EC		15	1402	140255		0		1843	America/Guayaquil	2015-09-16
+10792943	Cumanda (Cab En Colonia Agricola Sevilla Del Oro)	Cumanda (Cab En Colonia Agricola Sevilla Del Oro)		-1.59213	-78.19435	A	ADM3	EC		15	1404	140452		0		1903	America/Guayaquil	2015-09-16
+10792944	Sangay (Cab En Nayamanaca)	Sangay (Cab En Nayamanaca)		-1.76496	-78.03787	A	ADM3	EC		15	1404	140454		0		1032	America/Guayaquil	2015-09-16
+10792945	16 De Agosto	16 De Agosto		-1.77395	-77.89343	A	ADM3	EC		15	1404	140455		0		848	America/Guayaquil	2015-09-16
+10792946	Antonio Jose Holguin (Santa Lucia)	Antonio Jose Holguin (Santa Lucia)		-1.09675	-78.60017	A	ADM3	EC		07	0505	050551		0		2699	America/Guayaquil	2015-09-16
+10792947	Cusubamba	Cusubamba		-1.09216	-78.74708	A	ADM3	EC		07	0505	050552		0		3843	America/Guayaquil	2015-09-16
+10792948	Mulalillo	Mulalillo		-1.10406	-78.63796	A	ADM3	EC		07	0505	050553		0		3028	America/Guayaquil	2015-09-16
+10792949	Mulliquindil (Santa Ana)	Mulliquindil (Santa Ana)		-1.01658	-78.53718	A	ADM3	EC		07	0505	050554		0		3082	America/Guayaquil	2015-09-16
+10792950	Pansaleo	Pansaleo		-1.09315	-78.58257	A	ADM3	EC		07	0505	050555		0		2639	America/Guayaquil	2015-09-16
+10792951	Saquisili	Saquisili		-0.83767	-78.6964	A	ADM3	EC		07	0506	050650		0		3085	America/Guayaquil	2015-09-16
+10792952	Canchagua	Canchagua		-0.78204	-78.72187	A	ADM3	EC		07	0506	050651		0		3572	America/Guayaquil	2015-09-16
+10792953	Rosa Zarate (Quininde)	Rosa Zarate (Quininde)		0.23797	-79.51772	A	ADM3	EC		09	0804	080450		0		105	America/Guayaquil	2015-09-16
+10792954	Cube	Cube		0.48868	-79.67261	A	ADM3	EC		09	0804	080451		0		432	America/Guayaquil	2015-09-16
+10792955	Shimpis	Shimpis		-2.66387	-78.11687	A	ADM3	EC		15	1410	141052		0		1390	America/Guayaquil	2015-09-16
+10792956	Pablo Sexto	Pablo Sexto		-1.85845	-78.27585	A	ADM3	EC		15	1411	141150		0		2789	America/Guayaquil	2015-09-16
+10792957	Santiago	Santiago		-3.03299	-78.04059	A	ADM3	EC		15	1412	141250		0		296	America/Guayaquil	2015-09-16
+10792958	San Jose De Morona	San Jose De Morona		-2.88973	-77.74881	A	ADM3	EC		15	1412	141251		0		237	America/Guayaquil	2015-09-16
+10792959	San Antonio (Cab En San Antonio Centro)	San Antonio (Cab En San Antonio Centro)		-3.03474	-78.3725	A	ADM3	EC		15	1403	140353		0		1006	America/Guayaquil	2015-09-16
+10792960	San Vicente	San Vicente		-0.5545	-80.32893	A	ADM3	EC		14	1322	132250		0		175	America/Guayaquil	2015-09-16
+10792961	San Juan De Muyuna	San Juan De Muyuna		-0.92388	-77.91737	A	ADM3	EC		23	1501	150158		0		1391	America/Guayaquil	2015-09-16
+10792962	Ahuano	Ahuano		-1.01405	-77.54447	A	ADM3	EC		23	1501	150151		0		395	America/Guayaquil	2015-09-16
+10792963	Cañaquemada	Canaquemada		-3.28186	-79.8103	A	ADM3	EC		08	0709	070956		0		23	America/Guayaquil	2015-09-16
+10792964	Timbire	Timbire		0.98858	-78.85639	A	ADM3	EC		09	0802	080264		0		50	America/Guayaquil	2015-09-16
+10792965	Muisne	Muisne		0.60626	-79.9459	A	ADM3	EC		09	0803	080350		0		36	America/Guayaquil	2015-09-16
+10792966	Bolivar	Bolivar		0.4571	-80.0179	A	ADM3	EC		09	0803	080351		0		27	America/Guayaquil	2015-09-16
+10792967	Daule	Daule		0.39883	-79.96467	A	ADM3	EC		09	0803	080352		0		88	America/Guayaquil	2015-09-16
+10792968	Galera	Galera		0.77851	-80.05157	A	ADM3	EC		09	0803	080353		0		146	America/Guayaquil	2015-09-16
+10792969	Quingue (Olmedo Perdomo Franco)	Quingue (Olmedo Perdomo Franco)		0.70967	-80.07289	A	ADM3	EC		09	0803	080354		0		177	America/Guayaquil	2015-09-16
+10792970	Salima	Salima		0.3276	-79.95647	A	ADM3	EC		09	0803	080355		0		6	America/Guayaquil	2015-09-16
+10792971	San Francisco	San Francisco		0.69278	-79.99812	A	ADM3	EC		09	0803	080356		0		113	America/Guayaquil	2015-09-16
+10792972	San Gregorio	San Gregorio		0.50984	-79.87483	A	ADM3	EC		09	0803	080357		0		92	America/Guayaquil	2015-09-16
+10792973	San Jose De Chamanga	San Jose De Chamanga		0.34968	-79.88339	A	ADM3	EC		09	0803	080358		0		47	America/Guayaquil	2015-09-16
+10792974	Tres De Noviembre	Tres De Noviembre		-0.16507	-76.92698	A	ADM3	EC		24	2203	220357		0		311	America/Guayaquil	2015-09-16
+10792975	Union Milagreña	Union Milagrena		-0.38857	-76.77887	A	ADM3	EC		24	2203	220358		0		265	America/Guayaquil	2015-09-16
+10792976	Loreto	Loreto		-0.65557	-77.27972	A	ADM3	EC		24	2204	220450		0		397	America/Guayaquil	2015-09-16
+10792977	Avila (Cab. En Huiruno)	Avila (Cab. En Huiruno)		-0.66746	-77.37823	A	ADM3	EC		24	2204	220451		0		469	America/Guayaquil	2015-09-16
+10792978	Puerto Murialdo	Puerto Murialdo		-0.65024	-77.16748	A	ADM3	EC		24	2204	220452		0		306	America/Guayaquil	2015-09-16
+10792979	San Jose De Payamino	San Jose De Payamino		-0.51527	-77.31908	A	ADM3	EC		24	2204	220453		0		344	America/Guayaquil	2015-09-16
+10792980	San Jose De Dahuano	San Jose De Dahuano		-0.82231	-77.41581	A	ADM3	EC		24	2204	220454		0		399	America/Guayaquil	2015-09-16
+10792981	Canoa	Canoa		-0.41318	-80.3845	A	ADM3	EC		14	1322	132251		0		108	America/Guayaquil	2015-09-16
+10792982	Perucho	Perucho		0.11414	-78.41865	A	ADM3	EC		18	1701	170174		0		2074	America/Guayaquil	2015-09-16
+10792983	Pifo	Pifo		-0.28127	-78.26754	A	ADM3	EC		18	1701	170175		0		3866	America/Guayaquil	2015-09-16
+10792984	Pintag	Pintag		-0.3728	-78.37419	A	ADM3	EC		18	1701	170176		0		2866	America/Guayaquil	2016-04-07
+10792985	Rumipamba	Rumipamba		-0.45629	-78.44079	A	ADM3	EC		18	1705	170552		0		3345	America/Guayaquil	2015-09-16
+10792986	Puembo	Puembo		-0.16735	-78.36963	A	ADM3	EC		18	1701	170179		0		2406	America/Guayaquil	2015-09-16
+10792987	San Antonio	San Antonio		0.03378	-78.44542	A	ADM3	EC		18	1701	170180		0		2559	America/Guayaquil	2015-09-16
+10792988	Calderon	Calderon		1.17178	-78.76466	A	ADM3	EC		09	0805	080553		0		25	America/Guayaquil	2015-09-16
+10792989	Carondelet	Carondelet		1.12601	-78.74447	A	ADM3	EC		09	0805	080554		0		38	America/Guayaquil	2015-09-16
+10792990	5 De Junio (Cab. En Uimbi)	5 De Junio (Cab. En Uimbi)		0.92625	-78.74925	A	ADM3	EC		09	0805	080555		0		150	America/Guayaquil	2015-09-16
+10792991	Concepcion	Concepcion		1.07934	-78.86467	A	ADM3	EC		09	0805	080556		0		16	America/Guayaquil	2017-02-07
+10792992	Mataje (Cab. En Santander)	Mataje (Cab. En Santander)		1.2527	-78.64442	A	ADM3	EC		09	0805	080557		0		151	America/Guayaquil	2015-09-16
+10792993	Rio Corrientes	Rio Corrientes		-2.33792	-76.5628	A	ADM3	EC		17	1601	160158		0		292	America/Guayaquil	2015-09-16
+10792994	Rio Tigre	Rio Tigre		-1.90303	-76.25143	A	ADM3	EC		17	1601	160159		0		215	America/Guayaquil	2015-09-16
+10792995	Sarayacu	Sarayacu		-1.80206	-77.43361	A	ADM3	EC		17	1601	160161		0		439	America/Guayaquil	2015-09-16
+10792996	Simon Bolivar (Cab. En Mushullacta)	Simon Bolivar (Cab. En Mushullacta)		-1.89609	-77.689	A	ADM3	EC		17	1601	160162		0		518	America/Guayaquil	2015-09-16
+10792997	Puerto Baquerizo Moreno	Puerto Baquerizo Moreno		-0.90932	-89.61426	A	ADM3	EC		01	2001	200150		0		20	Pacific/Galapagos	2015-09-16
+10792998	Samborondon	Samborondon		-1.9895	-79.71268	A	ADM3	EC		10	0916	091650		0		6	America/Guayaquil	2017-02-07
+10792999	Tarifa	Tarifa		-1.9697	-79.81505	A	ADM3	EC		10	0916	091651		0		4	America/Guayaquil	2015-09-16
+10793000	Santa Lucia	Santa Lucia		-1.71451	-80.03517	A	ADM3	EC		10	0918	091850		0		8	America/Guayaquil	2015-09-16
+10793001	El Salitre (Las Ramas)	El Salitre (Las Ramas)		-1.83315	-79.82225	A	ADM3	EC		10	0919	091950		0		8	America/Guayaquil	2015-09-16
+10793002	Gral. Vernaza (Dos Esteros)	Gral. Vernaza (Dos Esteros)		-1.77053	-79.78107	A	ADM3	EC		10	0919	091951		0		5	America/Guayaquil	2015-09-16
+10793003	La Victoria (Ñauza)	La Victoria (Nauza)		-1.88694	-79.72568	A	ADM3	EC		10	0919	091952		0		0	America/Guayaquil	2015-09-16
+10793004	Junquillal	Junquillal		-1.72855	-79.85934	A	ADM3	EC		10	0919	091953		0		9	America/Guayaquil	2015-09-16
+10793005	El Triunfo	El Triunfo		-1.43165	-77.76961	A	ADM3	EC		17	1601	160166		0		831	America/Guayaquil	2015-09-16
+10793006	Mera	Mera		-1.33816	-78.06342	A	ADM3	EC		17	1602	160250		0		1334	America/Guayaquil	2015-09-16
+10793007	Madre Tierra	Madre Tierra		-1.605	-78.00618	A	ADM3	EC		17	1602	160251		0		871	America/Guayaquil	2015-09-16
+10793008	Calderon (Carapungo)	Calderon (Carapungo)		-0.08572	-78.41569	A	ADM3	EC		18	1701	170155		0		2697	America/Guayaquil	2015-09-16
+10793009	Conocoto	Conocoto		-0.28703	-78.48132	A	ADM3	EC		18	1701	170156		0		2546	America/Guayaquil	2015-09-16
+10793010	Cumbaya	Cumbaya		-0.20862	-78.43601	A	ADM3	EC		18	1701	170157		0		2362	America/Guayaquil	2015-09-16
+10793011	San Miguel De Los Bancos	San Miguel De Los Bancos		-0.02822	-78.96351	A	ADM3	EC		18	1707	170750		0		859	America/Guayaquil	2015-09-16
+10793012	Mindo	Mindo		-0.05967	-78.74308	A	ADM3	EC		18	1707	170751		0		1766	America/Guayaquil	2015-09-16
+10793013	Pedro Vicente Maldonado	Pedro Vicente Maldonado		0.14895	-79.05792	A	ADM3	EC		18	1708	170850		0		520	America/Guayaquil	2015-09-16
+10793014	Puerto Quito	Puerto Quito		0.1556	-79.23938	A	ADM3	EC		18	1709	170950		0		158	America/Guayaquil	2015-09-16
+10793015	Uyumbicho	Uyumbicho		-0.40729	-78.51702	A	ADM3	EC		18	1703	170357		0		2781	America/Guayaquil	2015-09-16
+10793016	Puerto Ayora	Puerto Ayora		-0.74167	-90.31442	A	ADM3	EC		01	2003	200350		0		14	Pacific/Galapagos	2015-09-16
+10793017	Puerto Villamil	Puerto Villamil		-0.95157	-90.96623	A	ADM3	EC		01	2002	200250		0		7	Pacific/Galapagos	2015-09-16
+10793018	Guayaquil	Guayaquil		-2.33406	-80.03831	A	ADM3	EC		10	0901	090150		0		9	America/Guayaquil	2015-09-16
+10793019	Juan Gomez Rendon (Progreso)	Juan Gomez Rendon (Progreso)		-2.39846	-80.33066	A	ADM3	EC		10	0901	090152		0		118	America/Guayaquil	2015-09-16
+10793020	Morro	Morro		-2.5657	-80.31702	A	ADM3	EC		10	0901	090153		0		21	America/Guayaquil	2015-09-16
+10793021	Posorja	Posorja		-2.69105	-80.284	A	ADM3	EC		10	0901	090156		0		15	America/Guayaquil	2015-09-16
+10793022	Puna	Puna		-2.78394	-80.08347	A	ADM3	EC		10	0901	090157		0		36	America/Guayaquil	2017-02-07
+10793023	Tenguel	Tenguel		-3.00753	-79.79413	A	ADM3	EC		10	0901	090158		0		8	America/Guayaquil	2015-09-16
+10793024	Alfredo Baquerizo Moreno (Jujan)	Alfredo Baquerizo Moreno (Jujan)		-1.94695	-79.54742	A	ADM3	EC		10	0902	090250		0		10	America/Guayaquil	2015-09-16
+10793025	Balao	Balao		-2.89257	-79.7341	A	ADM3	EC		10	0903	090350		0		31	America/Guayaquil	2015-09-16
+10793026	Balzar	Balzar		-1.29025	-79.9073	A	ADM3	EC		10	0904	090450		0		43	America/Guayaquil	2015-09-16
+10793027	Colimes	Colimes		-1.49977	-80.06684	A	ADM3	EC		10	0905	090550		0		25	America/Guayaquil	2015-09-16
+10793028	San Jacinto	San Jacinto		-1.61064	-80.14041	A	ADM3	EC		10	0905	090551		0		49	America/Guayaquil	2015-09-16
+10793029	Daule	Daule		-1.89768	-79.96143	A	ADM3	EC		10	0906	090650		0		5	America/Guayaquil	2015-09-16
+10793030	Juan Bautista Aguirre (Los Tintos)	Juan Bautista Aguirre (Los Tintos)		-1.89082	-79.87399	A	ADM3	EC		10	0906	090652		0		4	America/Guayaquil	2015-09-16
+10793031	Laurel	Laurel		-1.81255	-79.91649	A	ADM3	EC		10	0906	090653		0		2	America/Guayaquil	2015-09-16
+10793032	Limonal	Limonal		-1.80686	-80.01165	A	ADM3	EC		10	0906	090654		0		11	America/Guayaquil	2015-09-16
+10793033	Los Lojas (Enrique Baquerizo Moreno)	Los Lojas (Enrique Baquerizo Moreno)		-1.97636	-79.91978	A	ADM3	EC		10	0906	090656		0		6	America/Guayaquil	2015-09-16
+10793034	Eloy Alfaro (Duran)	Eloy Alfaro (Duran)		-2.23026	-79.7824	A	ADM3	EC		10	0907	090750		0		1	America/Guayaquil	2015-09-16
+10793035	Velasco Ibarra (Cab. El Empalme)	Velasco Ibarra (Cab. El Empalme)		-1.03683	-79.6726	A	ADM3	EC		10	0908	090850		0		48	America/Guayaquil	2015-09-16
+10793036	Narcisa De Jesus	Narcisa De Jesus		-1.96524	-80.04944	A	ADM3	EC		10	0925	092550		0		8	America/Guayaquil	2015-09-16
+10793037	Gral. Antonio Elizalde (Bucay)	Gral. Antonio Elizalde (Bucay)		-2.15629	-79.20223	A	ADM3	EC		10	0927	092750		0		174	America/Guayaquil	2015-09-16
+10793038	Isidro Ayora	Isidro Ayora		-1.96242	-80.16257	A	ADM3	EC		10	0928	092850		0		56	America/Guayaquil	2015-09-16
+10793039	San Miguel De Ibarra	San Miguel De Ibarra		0.36054	-78.09194	A	ADM3	EC		11	1001	100150		0		2232	America/Guayaquil	2015-09-16
+10793040	Santiago De Mendez	Santiago De Mendez		-2.61314	-78.39753	A	ADM3	EC		15	1405	140550		0		2177	America/Guayaquil	2015-09-16
+10793041	Copal	Copal		-2.76545	-78.49603	A	ADM3	EC		15	1405	140551		0		1927	America/Guayaquil	2015-09-16
+10793042	Chupianza	Chupianza		-2.77826	-78.38805	A	ADM3	EC		15	1405	140552		0		1881	America/Guayaquil	2015-09-16
+10793043	Patuca	Patuca		-2.84141	-78.21203	A	ADM3	EC		15	1405	140553		0		1193	America/Guayaquil	2015-09-16
+10793044	San Luis De El Acho (Cab En El Acho)	San Luis De El Acho (Cab En El Acho)		-2.79045	-78.32525	A	ADM3	EC		15	1405	140554		0		745	America/Guayaquil	2015-09-16
+10793045	Tayuza	Tayuza		-2.65924	-78.27547	A	ADM3	EC		15	1405	140556		0		871	America/Guayaquil	2015-09-16
+10793046	San Francisco De Chinimbimi	San Francisco De Chinimbimi		-2.7143	-78.19131	A	ADM3	EC		15	1405	140557		0		753	America/Guayaquil	2015-09-16
+10793047	Asuncion	Asuncion		-3.23074	-79.24532	A	ADM3	EC		02	0102	010251		0		1735	America/Guayaquil	2015-09-16
+10793048	San Gerardo	San Gerardo		-3.12685	-79.21007	A	ADM3	EC		02	0102	010252		0		3037	America/Guayaquil	2015-09-16
+10793049	Gualaceo	Gualaceo		-2.8947	-78.79932	A	ADM3	EC		02	0103	010350		0		2521	America/Guayaquil	2015-09-16
+10793050	Daniel Cordova Toral (El Oriente)	Daniel Cordova Toral (El Oriente)		-2.87519	-78.7185	A	ADM3	EC		02	0103	010352		0		3035	America/Guayaquil	2015-09-16
+10793051	Jadan	Jadan		-2.89474	-78.8513	A	ADM3	EC		02	0103	010353		0		2918	America/Guayaquil	2015-09-16
+10793052	Mariano Moreno	Mariano Moreno		-2.84282	-78.72812	A	ADM3	EC		02	0103	010354		0		2776	America/Guayaquil	2015-09-16
+10793053	Remigio Crespo Toral (Gulag)	Remigio Crespo Toral (Gulag)		-2.93506	-78.732	A	ADM3	EC		02	0103	010356		0		3090	America/Guayaquil	2015-09-16
+10793054	San Juan	San Juan		-2.96172	-78.82441	A	ADM3	EC		02	0103	010357		0		2590	America/Guayaquil	2015-09-16
+10793055	Zhidmad	Zhidmad		-2.9457	-78.88118	A	ADM3	EC		02	0103	010358		0		2907	America/Guayaquil	2015-09-16
+10793056	Luis Cordero Vega	Luis Cordero Vega		-2.94246	-78.6875	A	ADM3	EC		02	0103	010359		0		3431	America/Guayaquil	2015-09-16
+10793057	Simon Bolivar (Cab. En Gañanzol)	Simon Bolivar (Cab. En Gananzol)		-2.97431	-78.79002	A	ADM3	EC		02	0103	010360		0		2601	America/Guayaquil	2015-09-16
+10793058	Cochapata	Cochapata		-3.38319	-79.06537	A	ADM3	EC		02	0104	010451		0		2810	America/Guayaquil	2015-09-16
+10793059	El Progreso (Cab. En Zhota)	El Progreso (Cab. En Zhota)		-3.37275	-79.2457	A	ADM3	EC		02	0104	010452		0		2339	America/Guayaquil	2015-09-16
+10793060	Ambuqui	Ambuqui		0.40846	-78.02072	A	ADM3	EC		11	1001	100151		0		2166	America/Guayaquil	2015-09-16
+10793061	Angochagua	Angochagua		0.22098	-78.08168	A	ADM3	EC		11	1001	100152		0		2879	America/Guayaquil	2015-09-16
+10793062	Carolina	Carolina		0.64753	-78.22468	A	ADM3	EC		11	1001	100153		0		2620	America/Guayaquil	2015-09-16
+10793063	La Esperanza	La Esperanza		0.26671	-78.12784	A	ADM3	EC		11	1001	100154		0		2870	America/Guayaquil	2015-09-16
+10793064	Lita	Lita		0.77609	-78.37844	A	ADM3	EC		11	1001	100155		0		1449	America/Guayaquil	2015-09-16
+10793065	Salinas	Salinas		0.49353	-78.13841	A	ADM3	EC		11	1001	100156		0		1643	America/Guayaquil	2015-09-16
+10793066	San Antonio	San Antonio		0.32156	-78.17132	A	ADM3	EC		11	1001	100157		0		2417	America/Guayaquil	2015-09-16
+10793067	Atuntaqui	Atuntaqui		0.32867	-78.21448	A	ADM3	EC		11	1002	100250		0		2426	America/Guayaquil	2015-09-16
+10793068	Imbaya (San Luis De Cobuendo)	Imbaya (San Luis De Cobuendo)		0.3787	-78.1574	A	ADM3	EC		11	1002	100251		0		2014	America/Guayaquil	2015-09-16
+10793069	San Jose De Chaltura	San Jose De Chaltura		0.36633	-78.18927	A	ADM3	EC		11	1002	100253		0		2255	America/Guayaquil	2015-09-16
+10793070	San Roque	San Roque		0.29866	-78.22293	A	ADM3	EC		11	1002	100254		0		2593	America/Guayaquil	2015-09-16
+10793071	Cotacachi	Cotacachi		0.31266	-78.29878	A	ADM3	EC		11	1003	100350		0		2687	America/Guayaquil	2015-09-16
+10793072	Chontapunta	Chontapunta		-0.94498	-77.27264	A	ADM3	EC		23	1501	150153		0		400	America/Guayaquil	2015-09-16
+10793073	Pano	Pano		-0.91396	-78.15852	A	ADM3	EC		23	1501	150154		0		3551	America/Guayaquil	2015-09-16
+10793074	Puerto Misahualli	Puerto Misahualli		-0.96926	-77.65546	A	ADM3	EC		23	1501	150155		0		817	America/Guayaquil	2015-09-16
+10793075	Puerto Napo	Puerto Napo		-1.08466	-77.74749	A	ADM3	EC		23	1501	150156		0		481	America/Guayaquil	2015-09-16
+10793076	Chumblin	Chumblin		-3.09348	-79.24536	A	ADM3	EC		02	0107	010751		0		3521	America/Guayaquil	2015-09-16
+10793077	Santa Isabel (Chaguarurco)	Santa Isabel (Chaguarurco)		-3.29713	-79.35634	A	ADM3	EC		02	0108	010850		0		1493	America/Guayaquil	2015-09-16
+10793078	San Bartolome	San Bartolome		-3.0138	-78.84903	A	ADM3	EC		02	0109	010955		0		2638	America/Guayaquil	2015-09-16
+10793079	San Jose De Raranga	San Jose De Raranga		-3.13878	-78.93957	A	ADM3	EC		02	0109	010956		0		2729	America/Guayaquil	2015-09-16
+10793080	San Felipe De Oña	San Felipe De Ona		-3.51213	-79.10664	A	ADM3	EC		02	0110	011050		0		2933	America/Guayaquil	2015-09-16
+10793081	Susudel	Susudel		-3.41907	-79.20388	A	ADM3	EC		02	0110	011051		0		2579	America/Guayaquil	2015-09-16
+10793082	Chordeleg	Chordeleg	Chordeleg,choruderegu,qiao er de lai ge,チョルデレグ,乔尔德莱格	-2.94083	-78.7765	A	ADM3	EC		02	0111	011150		0		2604	America/Guayaquil	2015-09-16
+10793083	Principal	Principal		-3.02443	-78.71682	A	ADM3	EC		02	0111	011151		0		3121	America/Guayaquil	2015-09-16
+10793084	La Union	La Union		-2.94446	-78.75192	A	ADM3	EC		02	0111	011152		0		2923	America/Guayaquil	2015-09-16
+10793085	El Pan	El Pan		-2.78007	-78.67005	A	ADM3	EC		02	0112	011250		0		2529	America/Guayaquil	2015-09-16
+10793086	Yunganza (Cab En El Rosario)	Yunganza (Cab En El Rosario)		-2.8971	-78.47397	A	ADM3	EC		15	1403	140358		0		2459	America/Guayaquil	2017-02-07
+10793088	Nabon	Nabon		-3.28444	-79.04251	A	ADM3	EC		02	0104	010450		0		2787	America/Guayaquil	2015-09-16
+10793089	San Salvador De Cañaribamba	San Salvador De Canaribamba		-3.22818	-79.35985	A	ADM3	EC		02	0108	010854		0		2331	America/Guayaquil	2015-09-16
+10793090	Guaranda	Guaranda		-1.51033	-79.01362	A	ADM3	EC		03	0201	020150		0		3171	America/Guayaquil	2015-09-16
+10793091	Facundo Vela	Facundo Vela		-1.21012	-79.12552	A	ADM3	EC		03	0201	020151		0		1774	America/Guayaquil	2015-09-16
+10793092	Julio E. Moreno (Catanahuan Grande)	Julio E. Moreno (Catanahuan Grande)		-1.57439	-79.09243	A	ADM3	EC		03	0201	020153		0		2152	America/Guayaquil	2015-09-16
+10793093	Salinas	Salinas		-1.37953	-79.10746	A	ADM3	EC		03	0201	020155		0		2459	America/Guayaquil	2015-09-16
+10793094	San Lorenzo	San Lorenzo		-1.68623	-78.92951	A	ADM3	EC		03	0201	020156		0		3689	America/Guayaquil	2015-09-16
+10793095	San Simon (Yacoto)	San Simon (Yacoto)		-1.63543	-78.92351	A	ADM3	EC		03	0201	020157		0		3371	America/Guayaquil	2015-09-16
+10793096	Santa Fe (Santa Fe)	Santa Fe (Santa Fe)		-1.61431	-79.03428	A	ADM3	EC		03	0201	020158		0		2872	America/Guayaquil	2015-09-16
+10793097	Simiatug	Simiatug		-1.27205	-78.98132	A	ADM3	EC		03	0201	020159		0		2649	America/Guayaquil	2015-09-16
+10793098	Chillanes	Chillanes		-2.0069	-79.08362	A	ADM3	EC		03	0202	020250		0		2321	America/Guayaquil	2015-09-16
+10793099	San Jose Del Tambo (Tambopamba)	San Jose Del Tambo (Tambopamba)		-2.01986	-79.18757	A	ADM3	EC		03	0202	020251		0		1066	America/Guayaquil	2015-09-16
+10793100	San Jose De Chimbo	San Jose De Chimbo		-1.66327	-79.01939	A	ADM3	EC		03	0203	020350		0		2682	America/Guayaquil	2015-09-16
+10793101	Asuncion (Asancoto)	Asuncion (Asancoto)		-1.64002	-79.05977	A	ADM3	EC		03	0203	020351		0		3025	America/Guayaquil	2015-09-16
+10793102	Magdalena (Chapacoto)	Magdalena (Chapacoto)		-1.67217	-79.09329	A	ADM3	EC		03	0203	020353		0		2722	America/Guayaquil	2015-09-16
+10793103	Telimbela	Telimbela		-1.68017	-79.19465	A	ADM3	EC		03	0203	020355		0		1353	America/Guayaquil	2015-09-16
+10793104	Echeandia	Echeandia		-1.45549	-79.26269	A	ADM3	EC		03	0204	020450		0		635	America/Guayaquil	2015-09-16
+10793105	San Miguel	San Miguel		-1.74244	-79.03015	A	ADM3	EC		03	0205	020550		0		2560	America/Guayaquil	2017-02-07
+10793106	Balsapamba	Balsapamba		-1.75741	-79.15223	A	ADM3	EC		03	0205	020551		0		1042	America/Guayaquil	2015-09-16
+10793107	Bilovan	Bilovan		-1.82637	-79.16205	A	ADM3	EC		03	0205	020552		0		1966	America/Guayaquil	2015-09-16
+10793108	Regulo De Mora	Regulo De Mora		-1.88439	-79.20249	A	ADM3	EC		03	0205	020553		0		1848	America/Guayaquil	2015-09-16
+10793109	San Pablo (San Pablo De Atenas)	San Pablo (San Pablo De Atenas)		-1.81512	-79.0702	A	ADM3	EC		03	0205	020554		0		2314	America/Guayaquil	2015-09-16
+10793110	Santiago	Santiago		-1.72715	-78.94361	A	ADM3	EC		03	0205	020555		0		3963	America/Guayaquil	2015-09-16
+10793111	San Vicente	San Vicente		-1.74057	-78.99342	A	ADM3	EC		03	0205	020556		0		2596	America/Guayaquil	2015-09-16
+10793112	Caluma	Caluma		-1.60816	-79.21882	A	ADM3	EC		03	0206	020650		0		660	America/Guayaquil	2015-09-16
+10793113	Las Naves	Las Naves		-1.28689	-79.29244	A	ADM3	EC		03	0207	020750		0		440	America/Guayaquil	2015-09-16
+10793114	Tulcan	Tulcan		0.77354	-77.76165	A	ADM3	EC		05	0401	040150		0		3121	America/Guayaquil	2015-09-16
+10793115	El Carmelo (El Pun)	El Carmelo (El Pun)		0.66229	-77.61358	A	ADM3	EC		05	0401	040151		0		3063	America/Guayaquil	2015-09-16
+10793116	Julio Andrade (Orejuela)	Julio Andrade (Orejuela)		0.69263	-77.71061	A	ADM3	EC		05	0401	040153		0		3083	America/Guayaquil	2015-09-16
+10793117	Maldonado	Maldonado		0.82936	-78.03601	A	ADM3	EC		05	0401	040154		0		2484	America/Guayaquil	2015-09-16
+10793118	Pioter	Pioter		0.65081	-77.78307	A	ADM3	EC		05	0401	040155		0		3036	America/Guayaquil	2015-09-16
+10793119	Amaguaña	Amaguana		-0.38205	-78.49109	A	ADM3	EC		18	1701	170152		0		2626	America/Guayaquil	2015-09-16
+10793120	Atahualpa (Habaspamba)	Atahualpa (Habaspamba)		0.14849	-78.34259	A	ADM3	EC		18	1701	170153		0		2552	America/Guayaquil	2015-09-16
+10793121	Calacali	Calacali		0.04578	-78.52383	A	ADM3	EC		18	1701	170154		0		2709	America/Guayaquil	2015-09-16
+10793122	Gualea	Gualea		0.117	-78.76083	A	ADM3	EC		18	1701	170161		0		1296	America/Guayaquil	2015-09-16
+10793123	Guangopolo	Guangopolo		-0.2528	-78.43755	A	ADM3	EC		18	1701	170162		0		2422	America/Guayaquil	2015-09-16
+10793124	Guayllabamba	Guayllabamba		-0.05403	-78.34332	A	ADM3	EC		18	1701	170163		0		2142	America/Guayaquil	2015-09-16
+10793125	La Merced	La Merced		-0.29386	-78.39089	A	ADM3	EC		18	1701	170164		0		2552	America/Guayaquil	2015-09-16
+10793126	Llano Chico	Llano Chico		-0.13283	-78.43789	A	ADM3	EC		18	1701	170165		0		2597	America/Guayaquil	2015-09-16
+10793127	Lloa	Lloa		-0.2139	-78.68713	A	ADM3	EC		18	1701	170166		0		2754	America/Guayaquil	2015-09-16
+10793128	Nanegal	Nanegal		0.11562	-78.63157	A	ADM3	EC		18	1701	170168		0		1364	America/Guayaquil	2015-09-16
+10793129	Nanegalito	Nanegalito		0.04737	-78.71464	A	ADM3	EC		18	1701	170169		0		1809	America/Guayaquil	2015-09-16
+10793130	Nayon	Nayon		-0.17099	-78.43102	A	ADM3	EC		18	1701	170170		0		2438	America/Guayaquil	2015-09-16
+10793131	Nono	Nono		-0.05285	-78.59865	A	ADM3	EC		18	1701	170171		0		2766	America/Guayaquil	2015-09-16
+10793132	Pacto	Pacto		0.15667	-78.84417	A	ADM3	EC		18	1701	170172		0		1374	America/Guayaquil	2015-09-16
+10793133	Tobar Donoso (La Bocana De Camumbi)	Tobar Donoso (La Bocana De Camumbi)		1.01818	-78.42722	A	ADM3	EC		05	0401	040156		0		655	America/Guayaquil	2015-09-16
+10793134	Quinchicoto	Quinchicoto		-1.38313	-78.69287	A	ADM3	EC		19	1809	180951		0		3608	America/Guayaquil	2015-09-16
+10793135	Tufiño	Tufino		0.76325	-77.8688	A	ADM3	EC		05	0401	040157		0		3547	America/Guayaquil	2015-09-16
+10793136	Urbina (Taya)	Urbina (Taya)		0.77998	-77.70226	A	ADM3	EC		05	0401	040158		0		2987	America/Guayaquil	2015-09-16
+10793137	El Chical	El Chical		0.99666	-78.26152	A	ADM3	EC		05	0401	040159		0		1358	America/Guayaquil	2015-09-16
+10793138	Santa Martha De Cuba	Santa Martha De Cuba		0.6479	-77.76266	A	ADM3	EC		05	0401	040161		0		2842	America/Guayaquil	2015-09-16
+10793139	Bolivar	Bolivar		0.49289	-77.89221	A	ADM3	EC		05	0402	040250		0		2596	America/Guayaquil	2015-09-16
+10793140	Colonche	Colonche		-2.03123	-80.56552	A	ADM3	EC		25	2401	240152		0		52	America/Guayaquil	2015-09-16
+10793141	Chanduy	Chanduy		-2.36253	-80.51987	A	ADM3	EC		25	2401	240153		0		115	America/Guayaquil	2015-09-16
+10793142	Manglaralto	Manglaralto		-1.79277	-80.6929	A	ADM3	EC		25	2401	240154		0		221	America/Guayaquil	2015-09-16
+10793143	Simon Bolivar (Julio Moreno)	Simon Bolivar (Julio Moreno)		-2.17388	-80.36285	A	ADM3	EC		25	2401	240155		0		143	America/Guayaquil	2015-09-16
+10793144	San Jose De Ancon	San Jose De Ancon		-2.30559	-80.8275	A	ADM3	EC		25	2401	240156		0		48	America/Guayaquil	2015-09-16
+10793145	Anconcito	Anconcito		-2.31534	-80.88154	A	ADM3	EC		25	2403	240351		0		3	America/Guayaquil	2022-09-13
+10793146	Jose Luis Tamayo (Muey)	Jose Luis Tamayo (Muey)		-2.27601	-80.89852	A	ADM3	EC		25	2403	240352		0		23	America/Guayaquil	2015-09-16
+10793147	Flores	Flores		-1.82533	-78.655	A	ADM3	EC		06	0601	060154		0		3162	America/Guayaquil	2015-09-16
+10793148	Licto	Licto		-1.79856	-78.61736	A	ADM3	EC		06	0601	060156		0		3028	America/Guayaquil	2015-09-16
+10793149	Pungala	Pungala		-1.85949	-78.50018	A	ADM3	EC		06	0601	060157		0		3980	America/Guayaquil	2015-09-16
+10793150	Chunchi	Chunchi		-2.3337	-78.87234	A	ADM3	EC		06	0605	060550		0		2880	America/Guayaquil	2015-09-16
+10793151	Los Andes	Los Andes		0.48264	-77.95739	A	ADM3	EC		05	0402	040252		0		2736	America/Guayaquil	2015-09-16
+10793152	Alluriquin	Alluriquin		-0.29426	-78.94472	A	ADM3	EC		26	2301	230151		0		1186	America/Guayaquil	2015-09-16
+10793153	Puerto Limon	Puerto Limon		-0.35471	-79.35863	A	ADM3	EC		26	2301	230152		0		270	America/Guayaquil	2015-09-16
+10793154	Luz De America	Luz De America		-0.46295	-79.33895	A	ADM3	EC		26	2301	230153		0		238	America/Guayaquil	2015-09-16
+10793155	San Jacinto Del Bua	San Jacinto Del Bua		-0.14704	-79.417	A	ADM3	EC		26	2301	230154		0		254	America/Guayaquil	2015-09-16
+10793156	Valle Hermoso	Valle Hermoso		-0.0648	-79.24187	A	ADM3	EC		26	2301	230155		0		337	America/Guayaquil	2015-09-16
+10793157	El Esfuerzo	El Esfuerzo		-0.46185	-79.20719	A	ADM3	EC		26	2301	230156		0		613	America/Guayaquil	2015-09-16
+10793158	Santa Maria Del Toachi	Santa Maria Del Toachi		-0.58354	-79.2325	A	ADM3	EC		26	2301	230157		0		394	America/Guayaquil	2015-09-16
+10793159	Nueva Loja	Nueva Loja		0.13433	-76.90714	A	ADM3	EC		22	2101	210150		0		307	America/Guayaquil	2015-09-16
+10793160	Dureno	Dureno		0.00589	-76.68769	A	ADM3	EC		22	2101	210152		0		284	America/Guayaquil	2015-09-16
+10793161	Capzol	Capzol		-2.30951	-78.92985	A	ADM3	EC		06	0605	060551		0		2330	America/Guayaquil	2015-09-16
+10793162	Chura (Chancama) (Cab. En El Yerbero)	Chura (Chancama) (Cab. En El Yerbero)		0.52619	-79.45816	A	ADM3	EC		09	0804	080452		0		86	America/Guayaquil	2015-09-16
+10793163	Malimpia	Malimpia		0.43982	-79.19717	A	ADM3	EC		09	0804	080453		0		170	America/Guayaquil	2015-09-16
+10793164	Viche	Viche		0.62679	-79.54862	A	ADM3	EC		09	0804	080454		0		57	America/Guayaquil	2015-09-16
+10793165	La Union	La Union		0.15103	-79.43084	A	ADM3	EC		09	0804	080455		0		150	America/Guayaquil	2015-09-16
+10793166	San Lorenzo	San Lorenzo		1.27538	-78.79829	A	ADM3	EC		09	0805	080550		0		35	America/Guayaquil	2015-09-16
+10793167	Alto Tambo (Cab En Guadual)	Alto Tambo (Cab En Guadual)		0.7558	-78.5762	A	ADM3	EC		09	0805	080551		0		1542	America/Guayaquil	2015-09-16
+10793168	Ancon (Pichangal) (Cab. En Palma Real)	Ancon (Pichangal) (Cab. En Palma Real)		1.41335	-78.85997	A	ADM3	EC		09	0805	080552		0		10	America/Guayaquil	2015-09-16
+10793169	San Jacinto De Yaguachi	San Jacinto De Yaguachi		-2.06944	-79.70847	A	ADM3	EC		10	0920	092050		0		3	America/Guayaquil	2015-09-16
+10793170	Gral. Pedro J. Montero (Boliche)	Gral. Pedro J. Montero (Boliche)		-2.2627	-79.5915	A	ADM3	EC		10	0920	092053		0		18	America/Guayaquil	2015-09-16
+10793171	Yaguachi Viejo (Cone)	Yaguachi Viejo (Cone)		-2.18831	-79.67097	A	ADM3	EC		10	0920	092055		0		4	America/Guayaquil	2015-09-16
+10793172	Virgen De Fatima	Virgen De Fatima		-2.26487	-79.67094	A	ADM3	EC		10	0920	092056		0		13	America/Guayaquil	2015-09-16
+10793173	Loja	Loja		-3.99439	-79.2042	A	ADM3	EC		12	1101	110150		0		2064	America/Guayaquil	2015-09-16
+10793174	Chantaco	Chantaco		-3.87559	-79.32302	A	ADM3	EC		12	1101	110151		0		2439	America/Guayaquil	2015-09-16
+10793175	Chuquiribamba	Chuquiribamba		-3.84199	-79.35645	A	ADM3	EC		12	1101	110152		0		3081	America/Guayaquil	2015-09-16
+10793176	El Cisne	El Cisne		-3.8384	-79.45173	A	ADM3	EC		12	1101	110153		0		1983	America/Guayaquil	2015-09-16
+10793177	Gualel	Gualel		-3.75263	-79.37327	A	ADM3	EC		12	1101	110154		0		2681	America/Guayaquil	2015-09-16
+10793178	Jimbilla	Jimbilla		-3.86639	-79.17581	A	ADM3	EC		12	1101	110155		0		2137	America/Guayaquil	2015-09-16
+10793179	Malacatos (Valladolid)	Malacatos (Valladolid)		-4.18846	-79.2362	A	ADM3	EC		12	1101	110156		0		1950	America/Guayaquil	2015-09-16
+10793180	San Lucas	San Lucas		-3.7484	-79.2416	A	ADM3	EC		12	1101	110157		0		2600	America/Guayaquil	2015-09-16
+10793181	San Pedro De Vilcabamba	San Pedro De Vilcabamba		-4.22622	-79.1756	A	ADM3	EC		12	1101	110158		0		1990	America/Guayaquil	2015-09-16
+10793182	Santiago	Santiago		-3.79676	-79.28814	A	ADM3	EC		12	1101	110159		0		2500	America/Guayaquil	2015-09-16
+10793183	Taquil (Miguel Riofrio)	Taquil (Miguel Riofrio)		-3.9203	-79.29161	A	ADM3	EC		12	1101	110160		0		1999	America/Guayaquil	2015-09-16
+10793184	Vilcabamba (Victoria)	Vilcabamba (Victoria)		-4.27986	-79.22834	A	ADM3	EC		12	1101	110161		0		1766	America/Guayaquil	2015-09-16
+10793185	Yangana (Arsenio Castillo)	Yangana (Arsenio Castillo)		-4.39101	-79.18212	A	ADM3	EC		12	1101	110162		0		2514	America/Guayaquil	2015-09-16
+10793186	Quinara	Quinara		-4.38874	-79.27317	A	ADM3	EC		12	1101	110163		0		2611	America/Guayaquil	2015-09-16
+10793187	Cariamanga	Cariamanga		-4.32712	-79.56727	A	ADM3	EC		12	1102	110250		0		1867	America/Guayaquil	2015-09-16
+10793188	Colaisaca	Colaisaca		-4.25253	-79.69238	A	ADM3	EC		12	1102	110251		0		1671	America/Guayaquil	2015-09-16
+10793189	Amarillos	Amarillos		-3.88367	-79.68769	A	ADM3	EC		12	1105	110554		0		1366	America/Guayaquil	2015-09-16
+10793190	Amaluza	Amaluza		-4.59632	-79.39116	A	ADM3	EC		12	1106	110650		0		2847	America/Guayaquil	2015-09-16
+10793191	Bellavista	Bellavista		-4.52335	-79.46177	A	ADM3	EC		12	1106	110651		0		1587	America/Guayaquil	2015-09-16
+10793192	Piartal	Piartal		0.55151	-77.75384	A	ADM3	EC		05	0405	040555		0		3059	America/Guayaquil	2015-09-16
+10793193	Huaca	Huaca		0.63117	-77.72434	A	ADM3	EC		05	0406	040650		0		2913	America/Guayaquil	2015-09-16
+10793194	Mariscal Sucre	Mariscal Sucre		0.59261	-77.70346	A	ADM3	EC		05	0406	040651		0		3356	America/Guayaquil	2015-09-16
+10793195	Riobamba	Riobamba		-1.6725	-78.66221	A	ADM3	EC		06	0601	060150		0		2771	America/Guayaquil	2015-09-16
+10793196	Lumbaqui	Lumbaqui		0.06603	-77.39869	A	ADM3	EC		22	2102	210250		0		517	America/Guayaquil	2015-09-16
+10793197	El Reventador	El Reventador		-0.01511	-77.65823	A	ADM3	EC		22	2102	210251		0		1702	America/Guayaquil	2017-02-07
+10793198	Gonzalo Pizarro	Gonzalo Pizarro		-0.05856	-77.37674	A	ADM3	EC		22	2102	210252		0		690	America/Guayaquil	2015-09-16
+10793199	Puerto Libre	Puerto Libre		0.14887	-77.54572	A	ADM3	EC		22	2102	210254		0		960	America/Guayaquil	2015-09-16
+10793200	Puerto El Carmen Del Putumayo	Puerto El Carmen Del Putumayo		0.02825	-75.83851	A	ADM3	EC		22	2103	210350		0		232	America/Guayaquil	2015-09-16
+10793201	Palma Roja	Palma Roja		0.10717	-76.20887	A	ADM3	EC		22	2103	210351		0		260	America/Guayaquil	2015-09-16
+10793202	Puerto Bolivar (Puerto Montufar)	Puerto Bolivar (Puerto Montufar)		-0.04551	-76.02823	A	ADM3	EC		22	2103	210352		0		258	America/Guayaquil	2015-09-16
+10793203	Puerto Rodriguez	Puerto Rodriguez		-0.10383	-75.4504	A	ADM3	EC		22	2103	210353		0		216	America/Guayaquil	2015-09-16
+10793204	Santa Elena	Santa Elena		0.32533	-76.26797	A	ADM3	EC		22	2103	210354		0		265	America/Guayaquil	2015-09-16
+10793205	Shushufindi	Shushufindi		-0.15339	-76.62371	A	ADM3	EC		22	2104	210450		0		291	America/Guayaquil	2015-09-16
+10793206	Limoncocha	Limoncocha		-0.38587	-76.52165	A	ADM3	EC		22	2104	210451		0		253	America/Guayaquil	2015-09-16
+10793207	Pañacocha	Panacocha		-0.41626	-76.05695	A	ADM3	EC		22	2104	210452		0		293	America/Guayaquil	2015-09-16
+10793208	San Roque (Cab. En San Vicente)	San Roque (Cab. En San Vicente)		-0.31664	-76.39644	A	ADM3	EC		22	2104	210453		0		247	America/Guayaquil	2015-09-16
+10793209	San Pedro De Los Cofanes	San Pedro De Los Cofanes		-0.1521	-76.84037	A	ADM3	EC		22	2104	210454		0		299	America/Guayaquil	2015-09-16
+10793210	Siete De Julio	Siete De Julio		-0.17514	-76.76335	A	ADM3	EC		22	2104	210455		0		297	America/Guayaquil	2015-09-16
+10793211	Rosa Florida	Rosa Florida		0.34753	-77.51042	A	ADM3	EC		22	2105	210553		0		1140	America/Guayaquil	2015-09-16
+10793212	Santa Barbara	Santa Barbara		0.6047	-77.52439	A	ADM3	EC		22	2105	210554		0		3236	America/Guayaquil	2015-09-16
+10793213	El Dorado De Cascales	El Dorado De Cascales		0.14989	-77.24597	A	ADM3	EC		22	2106	210650		0		557	America/Guayaquil	2015-09-16
+10793214	Quisapincha (Quizapincha)	Quisapincha (Quizapincha)		-1.19256	-78.7165	A	ADM3	EC		19	1801	180162		0		3585	America/Guayaquil	2015-09-16
+10793215	San Bartolome De Pinllog	San Bartolome De Pinllog		-1.2066	-78.6532	A	ADM3	EC		19	1801	180163		0		3208	America/Guayaquil	2015-09-16
+10793216	San Fernando (Pasa San Fernando)	San Fernando (Pasa San Fernando)		-1.22128	-78.80033	A	ADM3	EC		19	1801	180164		0		4137	America/Guayaquil	2015-09-16
+10793217	Santa Rosa	Santa Rosa		-1.30246	-78.67632	A	ADM3	EC		19	1801	180165		0		3127	America/Guayaquil	2015-09-16
+10793219	Manga del Cura	Manga del Cura		-0.67971	-79.59227	A	ADM3	EC		14	1304	130453		0		112	America/Guayaquil	2024-12-04
+10793220	San Antonio	San Antonio		-3.54401	-80.00617	A	ADM3	EC		08	0712	071254		0		61	America/Guayaquil	2015-09-16
+10793221	El Tambo	El Tambo		-4.08727	-79.2946	A	ADM3	EC		12	1103	110351		0		1746	America/Guayaquil	2015-09-16
+10793222	Guayquichuma	Guayquichuma		-3.86078	-79.52225	A	ADM3	EC		12	1103	110352		0		2094	America/Guayaquil	2015-09-16
+10793223	San Pedro De La Bendita	San Pedro De La Bendita		-3.96367	-79.44903	A	ADM3	EC		12	1103	110353		0		2107	America/Guayaquil	2015-09-16
+10793224	Zambi	Zambi		-3.94235	-79.50905	A	ADM3	EC		12	1103	110354		0		1784	America/Guayaquil	2015-09-16
+10793225	Celica	Celica		-4.14932	-79.95034	A	ADM3	EC		12	1104	110450		0		1139	America/Guayaquil	2015-09-16
+10793226	Cruzpamba (Cab En Carlos Bustamante)	Cruzpamba (Cab En Carlos Bustamante)		-4.17244	-80.02099	A	ADM3	EC		12	1104	110451		0		1042	America/Guayaquil	2015-09-16
+10793227	Cutuglahua	Cutuglahua		-0.37173	-78.56648	A	ADM3	EC		18	1703	170353		0		3092	America/Guayaquil	2015-09-16
+10793228	Cotalo	Cotalo		-1.43844	-78.506	A	ADM3	EC		19	1807	180753		0		2172	America/Guayaquil	2015-09-16
+10793229	Azogues	Azogues		-2.71711	-78.82309	A	ADM3	EC		04	0301	030150		0		2946	America/Guayaquil	2015-09-16
+10793230	Jimbura	Jimbura		-4.65385	-79.44392	A	ADM3	EC		12	1106	110652		0		2572	America/Guayaquil	2015-09-16
+10793231	Santa Teresita	Santa Teresita		-4.53216	-79.37742	A	ADM3	EC		12	1106	110653		0		2333	America/Guayaquil	2015-09-16
+10793232	La Sofia	La Sofia		0.32572	-77.68759	A	ADM3	EC		22	2105	210552		0		2223	America/Guayaquil	2015-09-16
+10793233	Javier Loyola (Chuquipata)	Javier Loyola (Chuquipata)		-2.80711	-78.89	A	ADM3	EC		04	0301	030154		0		2534	America/Guayaquil	2015-09-16
+10793234	Luis Cordero	Luis Cordero		-2.7437	-78.81362	A	ADM3	EC		04	0301	030155		0		2842	America/Guayaquil	2015-09-16
+10793235	Pindilig	Pindilig		-2.6039	-78.71781	A	ADM3	EC		04	0301	030156		0		3196	America/Guayaquil	2015-09-16
+10793236	Rivera	Rivera		-2.52482	-78.67774	A	ADM3	EC		04	0301	030157		0		2792	America/Guayaquil	2015-09-16
+10793237	San Miguel	San Miguel		-2.79871	-78.83915	A	ADM3	EC		04	0301	030158		0		2810	America/Guayaquil	2015-09-16
+10793238	Taday	Taday		-2.65805	-78.7067	A	ADM3	EC		04	0301	030160		0		3308	America/Guayaquil	2015-09-16
+10793239	Biblian	Biblian		-2.66563	-78.90832	A	ADM3	EC		04	0302	030250		0		3057	America/Guayaquil	2015-09-16
+10793240	Nazon (Cab. En Pampa De Dominguez)	Nazon (Cab. En Pampa De Dominguez)		-2.68604	-79.01295	A	ADM3	EC		04	0302	030251		0		3677	America/Guayaquil	2015-09-16
+10793241	Cangonama	Cangonama		-3.95379	-79.71789	A	ADM3	EC		12	1109	110951		0		2192	America/Guayaquil	2015-09-16
+10793242	Guachanama	Guachanama		-4.03983	-79.86237	A	ADM3	EC		12	1109	110952		0		2578	America/Guayaquil	2015-09-16
+10793243	Lauro Guerrero	Lauro Guerrero		-3.94062	-79.7861	A	ADM3	EC		12	1109	110954		0		1833	America/Guayaquil	2015-09-16
+10793244	Patate	Patate		-1.33104	-78.47659	A	ADM3	EC		19	1805	180550		0		2539	America/Guayaquil	2015-09-16
+10793245	Manuel J. Calle	Manuel J. Calle		-2.37823	-79.40348	A	ADM3	EC		04	0304	030451		0		43	America/Guayaquil	2015-09-16
+10793246	Pancho Negro	Pancho Negro		-2.47189	-79.41924	A	ADM3	EC		04	0304	030452		0		54	America/Guayaquil	2015-09-16
+10793247	El Tambo	El Tambo		-2.49126	-78.91833	A	ADM3	EC		04	0305	030550		0		3399	America/Guayaquil	2015-09-16
+10793248	Deleg	Deleg		-2.75152	-78.94114	A	ADM3	EC		04	0306	030650		0		2892	America/Guayaquil	2015-09-16
+10793249	Solano	Solano		-2.8093	-78.93235	A	ADM3	EC		04	0306	030651		0		2575	America/Guayaquil	2015-09-16
+10793250	Pistishi (Nariz Del Diablo)	Pistishi (Nariz Del Diablo)		-2.25875	-78.88225	A	ADM3	EC		06	0602	060256		0		2318	America/Guayaquil	2015-09-16
+10793251	Alhajuela (Bajo Grande)	Alhajuela (Bajo Grande)		-1.05572	-80.27643	A	ADM3	EC		14	1301	130152		0		115	America/Guayaquil	2015-09-16
+10793252	Eloy Alfaro	Eloy Alfaro		-0.40655	-80.08182	A	ADM3	EC		14	1303	130355		0		130	America/Guayaquil	2015-09-16
+10793253	Pomasqui	Pomasqui		-0.0485	-78.45985	A	ADM3	EC		18	1701	170177		0		2528	America/Guayaquil	2015-09-16
+10793254	Puellaro	Puellaro		0.07808	-78.38405	A	ADM3	EC		18	1701	170178		0		2686	America/Guayaquil	2015-09-16
+10793255	El Paraiso De Celen	El Paraiso De Celen		-3.59894	-79.35418	A	ADM3	EC		12	1111	111151		0		2873	America/Guayaquil	2015-09-16
+10793256	El Tablon	El Tablon		-3.51313	-79.18129	A	ADM3	EC		12	1111	111152		0		2850	America/Guayaquil	2015-09-16
+10793257	Pillaro	Pillaro		-1.1401	-78.49869	A	ADM3	EC		19	1808	180850		0		3238	America/Guayaquil	2017-02-07
+10793258	Machala	Machala		-3.28641	-79.937	A	ADM3	EC		08	0701	070150		0		9	America/Guayaquil	2015-09-16
+10793259	El Chorro	El Chorro		-4.91255	-79.096	A	ADM3	EC		20	1902	190252		0		1213	America/Guayaquil	2015-09-16
+10793260	Tacamoros	Tacamoros		-4.43044	-79.73179	A	ADM3	EC		12	1112	111252		0		2001	America/Guayaquil	2015-09-16
+10793261	Zapotillo	Zapotillo		-4.36209	-80.25684	A	ADM3	EC		12	1113	111350		0		271	America/Guayaquil	2015-09-16
+10793262	Mangahurco (Cazaderos)	Mangahurco (Cazaderos)		-4.07542	-80.39819	A	ADM3	EC		12	1113	111351		0		741	America/Guayaquil	2015-09-16
+10793263	Emilio Maria Teran (Rumipamba)	Emilio Maria Teran (Rumipamba)		-1.2123	-78.50115	A	ADM3	EC		19	1808	180852		0		2761	America/Guayaquil	2015-09-16
+10793264	Marcos Espinel (Chacata)	Marcos Espinel (Chacata)		-1.15215	-78.42057	A	ADM3	EC		19	1808	180853		0		3824	America/Guayaquil	2015-09-16
+10793265	Milagro	Milagro		-3.62383	-79.6665	A	ADM3	EC		08	0703	070353		0		1254	America/Guayaquil	2015-09-16
+10793266	12 De Diciembre (Cab. En Achiotes)	12 De Diciembre (Cab. En Achiotes)		-4.06144	-80.10752	A	ADM3	EC		12	1114	111452		0		708	America/Guayaquil	2015-09-16
+10793267	San Andres	San Andres		-1.09692	-78.53565	A	ADM3	EC		19	1808	180855		0		2958	America/Guayaquil	2015-09-16
+10793268	San Jose De Poalo	San Jose De Poalo		-1.07098	-78.40364	A	ADM3	EC		19	1808	180856		0		3582	America/Guayaquil	2015-09-16
+10793269	Pueblo Nuevo	Pueblo Nuevo		-0.97787	-80.30568	A	ADM3	EC		14	1301	130154		0		168	America/Guayaquil	2015-09-16
+10793270	Riochico (Rio Chico)	Riochico (Rio Chico)		-0.98658	-80.38714	A	ADM3	EC		14	1301	130155		0		152	America/Guayaquil	2015-09-16
+10793271	San Placido	San Placido		-1.05721	-80.14133	A	ADM3	EC		14	1301	130156		0		310	America/Guayaquil	2015-09-16
+10793272	Chirijos	Chirijos		-1.01509	-80.18459	A	ADM3	EC		14	1301	130157		0		105	America/Guayaquil	2015-09-16
+10793273	Montalvo	Montalvo		-1.80477	-79.31736	A	ADM3	EC		13	1203	120350		0		22	America/Guayaquil	2015-09-16
+10793274	Puebloviejo	Puebloviejo		-1.55438	-79.54104	A	ADM3	EC		13	1204	120450		0		12	America/Guayaquil	2015-09-16
+10793275	Puerto Pechiche	Puerto Pechiche		-1.42939	-79.54067	A	ADM3	EC		13	1204	120451		0		23	America/Guayaquil	2015-09-16
+10793276	San Juan	San Juan		-1.65055	-79.55712	A	ADM3	EC		13	1204	120452		0		12	America/Guayaquil	2015-09-16
+10793277	Calceta	Calceta		-0.89535	-80.01686	A	ADM3	EC		14	1302	130250		0		238	America/Guayaquil	2017-02-07
+10793278	Membrillo	Membrillo		-0.87007	-79.94536	A	ADM3	EC		14	1302	130251		0		193	America/Guayaquil	2015-09-16
+10793279	Ricaurte	Ricaurte		-0.55494	-79.95142	A	ADM3	EC		14	1303	130356		0		539	America/Guayaquil	2015-09-16
+10793280	San Antonio	San Antonio		-0.66346	-80.19522	A	ADM3	EC		14	1303	130357		0		23	America/Guayaquil	2015-09-16
+10793281	El Carmen	El Carmen		-0.38999	-79.53189	A	ADM3	EC		14	1304	130450		0		159	America/Guayaquil	2015-09-16
+10793282	Wilfrido Loor Moreira (Maicito)	Wilfrido Loor Moreira (Maicito)		-0.33056	-79.64731	A	ADM3	EC		14	1304	130451		0		233	America/Guayaquil	2015-09-16
+10793283	San Pedro De Suma	San Pedro De Suma		-0.16668	-79.56405	A	ADM3	EC		14	1304	130452		0		182	America/Guayaquil	2015-09-16
+10793284	Nueva Tarqui	Nueva Tarqui		-3.44082	-78.68098	A	ADM3	EC		15	1402	140256		0		1413	America/Guayaquil	2015-09-16
+10793285	San Miguel De Cuyes	San Miguel De Cuyes		-3.32353	-78.87162	A	ADM3	EC		15	1402	140257		0		2560	America/Guayaquil	2015-09-16
+10793286	Vinces	Vinces		-1.49073	-79.71851	A	ADM3	EC		13	1208	120850		0		25	America/Guayaquil	2015-09-16
+10793287	Antonio Sotomayor (Cab. En Playas De Vinces)	Antonio Sotomayor (Cab. En Playas De Vinces)		-1.66116	-79.78963	A	ADM3	EC		13	1208	120851		0		10	America/Guayaquil	2015-09-16
+10793288	El Ideal	El Ideal		-3.3804	-78.67117	A	ADM3	EC		15	1402	140258		0		1587	America/Guayaquil	2015-09-16
+10793289	Gral. Leonidas Plaza Gutierrez	Gral. Leonidas Plaza Gutierrez		-2.98624	-78.5332	A	ADM3	EC		15	1403	140350		0		2638	America/Guayaquil	2015-09-16
+10793290	Indanza	Indanza		-3.05361	-78.47769	A	ADM3	EC		15	1403	140351		0		1295	America/Guayaquil	2015-09-16
+10793291	San Miguel De Conchay	San Miguel De Conchay		-3.12646	-78.43346	A	ADM3	EC		15	1403	140356		0		1309	America/Guayaquil	2017-02-03
+10793292	Sta Susana De Chiviaza (Cab En Chiviaza)	Sta Susana De Chiviaza (Cab En Chiviaza)		-2.91823	-78.3011	A	ADM3	EC		15	1403	140357		0		1111	America/Guayaquil	2015-09-16
+10793293	Palora (Metzera)	Palora (Metzera)		-1.69536	-77.99466	A	ADM3	EC		15	1404	140450		0		893	America/Guayaquil	2015-09-16
+10793294	Arapicos	Arapicos		-1.8325	-78.03435	A	ADM3	EC		15	1404	140451		0		1069	America/Guayaquil	2015-09-16
+10793295	Chiguaza	Chiguaza		-2.01012	-77.97284	A	ADM3	EC		15	1407	140751		0		974	America/Guayaquil	2015-09-16
+10793296	San Juan Bosco	San Juan Bosco		-3.14525	-78.55983	A	ADM3	EC		15	1408	140850		0		1631	America/Guayaquil	2015-09-16
+10793297	Pan De Azucar	Pan De Azucar		-3.0686	-78.5328	A	ADM3	EC		15	1408	140851		0		1652	America/Guayaquil	2015-09-16
+10793298	San Carlos De Limon	San Carlos De Limon		-3.31109	-78.29345	A	ADM3	EC		15	1408	140852		0		1936	America/Guayaquil	2015-09-16
+10793299	San Jacinto De Wakambeis	San Jacinto De Wakambeis		-3.28385	-78.49294	A	ADM3	EC		15	1408	140853		0		1620	America/Guayaquil	2015-09-16
+10793300	Santiago De Pananza	Santiago De Pananza		-3.20014	-78.48021	A	ADM3	EC		15	1408	140854		0		1113	America/Guayaquil	2015-09-16
+10793301	Taisha	Taisha		-2.3885	-77.51753	A	ADM3	EC		15	1409	140950		0		495	America/Guayaquil	2015-09-16
+10793302	Portoviejo	Portoviejo		-1.07727	-80.46223	A	ADM3	EC		14	1301	130150		0		56	America/Guayaquil	2015-09-16
+10793303	Abdon Calderon (San Francisco)	Abdon Calderon (San Francisco)		-1.04724	-80.32421	A	ADM3	EC		14	1301	130151		0		67	America/Guayaquil	2015-09-16
+10793304	Ambato	Ambato		-1.25737	-78.61428	A	ADM3	EC		19	1801	180150		0		2639	America/Guayaquil	2015-09-16
+10793305	Augusto N. Martinez (Mundugleo)	Augusto N. Martinez (Mundugleo)		-1.16737	-78.62945	A	ADM3	EC		19	1801	180153		0		3286	America/Guayaquil	2015-09-16
+10793306	Picaigua	Picaigua		-1.27661	-78.57799	A	ADM3	EC		19	1801	180160		0		2632	America/Guayaquil	2015-09-16
+10793307	Zamora	Zamora		-4.15779	-79.00193	A	ADM3	EC		20	1901	190150		0		1752	America/Guayaquil	2015-09-16
+10793308	Cumbaratza	Cumbaratza		-3.97854	-78.87337	A	ADM3	EC		20	1901	190151		0		1152	America/Guayaquil	2015-09-16
+10793309	Tena	Tena		-0.97766	-77.80875	A	ADM3	EC		23	1501	150150		0		501	America/Guayaquil	2015-09-16
+10793310	Puerto Francisco De Orellana (El Coca)	Puerto Francisco De Orellana (El Coca)		-0.43965	-76.98903	A	ADM3	EC		24	2201	220150		0		247	America/Guayaquil	2015-09-16
+10793311	Taracoa (Nueva Esperanza: Yuca)	Taracoa (Nueva Esperanza: Yuca)		-0.54335	-76.78207	A	ADM3	EC		24	2201	220152		0		289	America/Guayaquil	2015-09-16
+10793312	Pinguili	Pinguili		-1.39214	-78.62524	A	ADM3	EC		19	1804	180451		0		3051	America/Guayaquil	2015-09-16
+10793313	Tababela	Tababela		-0.14096	-78.35468	A	ADM3	EC		18	1701	170183		0		2407	America/Guayaquil	2015-09-16
+10793314	Tumbaco	Tumbaco		-0.2197	-78.39475	A	ADM3	EC		18	1701	170184		0		2359	America/Guayaquil	2015-09-16
+10793315	Alejandro Labaka	Alejandro Labaka		-0.6067	-76.50309	A	ADM3	EC		24	2201	220153		0		257	America/Guayaquil	2015-09-16
+10793316	Las Nieves (Chaya)	Las Nieves (Chaya)		-3.30688	-79.15183	A	ADM3	EC		02	0104	010453		0		3205	America/Guayaquil	2015-09-16
+10793317	Paute	Paute		-2.78645	-78.78128	A	ADM3	EC		02	0105	010550		0		2606	America/Guayaquil	2015-09-16
+10793318	Bulan (Jose Victor Izquierdo)	Bulan (Jose Victor Izquierdo)		-2.71554	-78.77137	A	ADM3	EC		02	0105	010552		0		2558	America/Guayaquil	2015-09-16
+10793319	Chican (Guillermo Ortega)	Chican (Guillermo Ortega)		-2.81382	-78.74981	A	ADM3	EC		02	0105	010553		0		2782	America/Guayaquil	2015-09-16
+10793320	El Cabo	El Cabo		-2.84343	-78.79798	A	ADM3	EC		02	0105	010554		0		2791	America/Guayaquil	2015-09-16
+10793321	Guarainag	Guarainag		-2.6767	-78.64394	A	ADM3	EC		02	0105	010556		0		2882	America/Guayaquil	2015-09-16
+10793322	San Cristobal (Carlos Ordoñez Lazo)	San Cristobal (Carlos Ordonez Lazo)		-2.83551	-78.84758	A	ADM3	EC		02	0105	010559		0		2567	America/Guayaquil	2015-09-16
+10793323	Tomebamba	Tomebamba		-2.71797	-78.68297	A	ADM3	EC		02	0105	010561		0		2780	America/Guayaquil	2015-09-16
+10793324	Dug Dug	Dug Dug		-2.72309	-78.7256	A	ADM3	EC		02	0105	010562		0		2646	America/Guayaquil	2015-09-16
+10793325	Pucara	Pucara		-3.18174	-79.5258	A	ADM3	EC		02	0106	010650		0		2746	America/Guayaquil	2015-09-16
+10793326	San Rafael De Sharug	San Rafael De Sharug		-3.27209	-79.54016	A	ADM3	EC		02	0106	010652		0		1623	America/Guayaquil	2015-09-16
+10793327	San Fernando	San Fernando		-3.14051	-79.27254	A	ADM3	EC		02	0107	010750		0		2992	America/Guayaquil	2015-09-16
+10793328	El Dorado	El Dorado		-0.53272	-76.92143	A	ADM3	EC		24	2201	220154		0		299	America/Guayaquil	2015-09-16
+10793329	El Playon De San Francisco	El Playon De San Francisco		0.53001	-77.67203	A	ADM3	EC		22	2105	210551		0		3518	America/Guayaquil	2015-09-16
+10793330	Santa Ana De Vuelta Larga	Santa Ana De Vuelta Larga		-1.22499	-80.35884	A	ADM3	EC		14	1313	131350		0		94	America/Guayaquil	2015-09-16
+10793331	Ayacucho	Ayacucho		-1.14893	-80.27215	A	ADM3	EC		14	1313	131351		0		77	America/Guayaquil	2015-09-16
+10793332	Zaruma	Zaruma		-3.68466	-79.60872	A	ADM3	EC		08	0713	071350		0		1347	America/Guayaquil	2015-09-16
+10793333	Honorato Vasquez (Cab En Vasquez)	Honorato Vasquez (Cab En Vasquez)		-1.10805	-80.13845	A	ADM3	EC		14	1313	131352		0		177	America/Guayaquil	2015-09-16
+10793334	La Union	La Union		-1.22217	-80.17471	A	ADM3	EC		14	1313	131353		0		76	America/Guayaquil	2015-09-16
+10793335	San Pablo (Cab En Pueblo Nuevo)	San Pablo (Cab En Pueblo Nuevo)		-1.21401	-80.06005	A	ADM3	EC		14	1313	131355		0		82	America/Guayaquil	2015-09-16
+10793336	Guapan	Guapan		-2.67242	-78.84387	A	ADM3	EC		04	0301	030153		0		3320	America/Guayaquil	2015-09-16
+10793337	Shell	Shell		-1.49105	-78.05589	A	ADM3	EC		17	1602	160252		0		1110	America/Guayaquil	2015-09-16
+10793338	10 De Agosto	10 De Agosto		-0.13416	-80.05033	A	ADM3	EC		14	1317	131752		0		174	America/Guayaquil	2015-09-16
+10793339	Atahualpa	Atahualpa		-0.03699	-79.96164	A	ADM3	EC		14	1317	131753		0		131	America/Guayaquil	2015-09-16
+10793340	Olmedo	Olmedo		-1.36142	-80.21353	A	ADM3	EC		14	1318	131850		0		135	America/Guayaquil	2015-09-16
+10793341	Macas	Macas		-2.30005	-78.15004	A	ADM3	EC		15	1401	140150		0		1273	America/Guayaquil	2015-09-16
+10793342	Alshi (Cab En 9 De Octubre)	Alshi (Cab En 9 De Octubre)		-2.22106	-78.26324	A	ADM3	EC		15	1401	140151		0		1666	America/Guayaquil	2015-09-16
+10793343	Jerusalen	Jerusalen		-2.65371	-78.97133	A	ADM3	EC		04	0302	030254		0		3425	America/Guayaquil	2015-09-16
+10793344	Cañar	Canar		-2.54419	-78.98445	A	ADM3	EC		04	0303	030350		0		3556	America/Guayaquil	2015-09-16
+10793345	Chontamarca	Chontamarca		-2.39178	-79.15289	A	ADM3	EC		04	0303	030351		0		2053	America/Guayaquil	2015-09-16
+10793346	Chorocopte	Chorocopte		-2.59461	-78.96561	A	ADM3	EC		04	0303	030352		0		3569	America/Guayaquil	2015-09-16
+10793347	General Morales (Socarte)	General Morales (Socarte)		-2.36734	-79.04931	A	ADM3	EC		04	0303	030353		0		2438	America/Guayaquil	2015-09-16
+10793348	Gualleturo	Gualleturo		-2.58388	-79.09559	A	ADM3	EC		04	0303	030354		0		3640	America/Guayaquil	2015-09-16
+10793349	Honorato Vasquez (Tambo Viejo)	Honorato Vasquez (Tambo Viejo)		-2.60182	-78.87317	A	ADM3	EC		04	0303	030355		0		3102	America/Guayaquil	2015-09-16
+10793350	Ingapirca	Ingapirca		-2.51874	-78.82006	A	ADM3	EC		04	0303	030356		0		3495	America/Guayaquil	2015-09-16
+10793351	Juncal	Juncal		-2.43469	-78.8901	A	ADM3	EC		04	0303	030357		0		3940	America/Guayaquil	2015-09-16
+10793352	San Antonio	San Antonio		-2.59515	-79.22619	A	ADM3	EC		04	0303	030358		0		1714	America/Guayaquil	2015-09-16
+10793353	Zhud	Zhud		-2.45045	-78.98826	A	ADM3	EC		04	0303	030361		0		3191	America/Guayaquil	2015-09-16
+10793354	Ventura	Ventura		-2.28221	-79.12995	A	ADM3	EC		04	0303	030362		0		623	America/Guayaquil	2015-09-16
+10793355	Ducur	Ducur		-2.46669	-79.17407	A	ADM3	EC		04	0303	030363		0		1286	America/Guayaquil	2015-09-16
+10793356	La Troncal	La Troncal		-2.43929	-79.32557	A	ADM3	EC		04	0304	030450		0		97	America/Guayaquil	2015-09-16
+10793357	Sucua	Sucua		-2.45336	-78.19999	A	ADM3	EC		15	1406	140650		0		1034	America/Guayaquil	2015-09-16
+10793358	Asuncion	Asuncion		-2.52624	-78.31112	A	ADM3	EC		15	1406	140651		0		1590	America/Guayaquil	2015-09-16
+10793359	Huambi	Huambi		-2.56385	-78.12584	A	ADM3	EC		15	1406	140652		0		882	America/Guayaquil	2015-09-16
+10793360	Santa Marianita De Jesus	Santa Marianita De Jesus		-2.39501	-78.19811	A	ADM3	EC		15	1406	140655		0		1130	America/Guayaquil	2015-09-16
+10793361	Huamboya	Huamboya		-1.9168	-77.91464	A	ADM3	EC		15	1407	140750		0		953	America/Guayaquil	2015-09-16
+10793362	Yaruqui	Yaruqui		-0.19172	-78.29968	A	ADM3	EC		18	1701	170185		0		2922	America/Guayaquil	2015-09-16
+10793363	Aloasi	Aloasi		-0.54107	-78.61193	A	ADM3	EC		18	1703	170352		0		3242	America/Guayaquil	2015-09-16
+10793364	La Libertad	La Libertad		-2.23955	-80.89467	A	ADM3	EC		25	2402	240250		0		31	America/Guayaquil	2015-09-16
+10793365	Talag	Talag		-1.0531	-78.17376	A	ADM3	EC		23	1501	150157		0		1683	America/Guayaquil	2015-09-16
+10793366	Archidona	Archidona		-0.73263	-78.18258	A	ADM3	EC		23	1503	150350		0		3392	America/Guayaquil	2015-09-16
+10793367	Chilla	Chilla		-3.44161	-79.62754	A	ADM3	EC		08	0705	070550		0		1811	America/Guayaquil	2015-09-16
+10793368	El Guabo	El Guabo		-3.22393	-79.8016	A	ADM3	EC		08	0706	070650		0		12	America/Guayaquil	2015-09-16
+10793369	Barbones (Sucre)	Barbones (Sucre)		-3.16556	-79.87169	A	ADM3	EC		08	0706	070651		0		5	America/Guayaquil	2015-09-16
+10793370	Santo Domingo De Los Colorados	Santo Domingo De Los Colorados		-0.22577	-79.14456	A	ADM3	EC		26	2301	230150		0		486	America/Guayaquil	2015-09-16
+10793371	El Chaupi	El Chaupi		-0.59654	-78.68478	A	ADM3	EC		18	1703	170354		0		3668	America/Guayaquil	2015-09-16
+10793372	Manuel Cornejo Astorga (Tandapi)	Manuel Cornejo Astorga (Tandapi)		-0.41053	-78.78411	A	ADM3	EC		18	1703	170355		0		2110	America/Guayaquil	2015-09-16
+10793373	Tambillo	Tambillo		-0.41302	-78.55862	A	ADM3	EC		18	1703	170356		0		2827	America/Guayaquil	2015-09-16
+10793374	Tabacundo	Tabacundo		0.05515	-78.2151	A	ADM3	EC		18	1704	170450		0		2920	America/Guayaquil	2015-09-16
+10793375	La Esperanza	La Esperanza		0.05652	-78.25686	A	ADM3	EC		18	1704	170451		0		3063	America/Guayaquil	2015-09-16
+10793376	Malchingui	Malchingui		0.02886	-78.35605	A	ADM3	EC		18	1704	170452		0		2632	America/Guayaquil	2015-09-16
+10793377	Tocachi	Tocachi		0.05043	-78.29959	A	ADM3	EC		18	1704	170453		0		2868	America/Guayaquil	2015-09-16
+10793378	Tendales (Cab. En Puerto Tendales)	Tendales (Cab. En Puerto Tendales)		-3.13498	-79.80175	A	ADM3	EC		08	0706	070653		0		8	America/Guayaquil	2015-09-16
+10793379	Rio Bonito	Rio Bonito		-3.12996	-79.71627	A	ADM3	EC		08	0706	070654		0		395	America/Guayaquil	2015-09-16
+10793380	Huaquillas	Huaquillas		-3.46022	-80.18534	A	ADM3	EC		08	0707	070750		0		1	America/Guayaquil	2015-09-16
+10793381	Marcabeli	Marcabeli		-3.78737	-79.92993	A	ADM3	EC		08	0708	070850		0		606	America/Guayaquil	2015-09-16
+10793382	Diez De Agosto	Diez De Agosto		-1.43907	-77.87529	A	ADM3	EC		17	1601	160154		0		1004	America/Guayaquil	2015-09-16
+10793383	Cordoncillo	Cordoncillo		-3.55456	-79.62954	A	ADM3	EC		08	0703	070352		0		2146	America/Guayaquil	2015-09-16
+10793384	Fatima	Fatima		-1.4156	-77.98359	A	ADM3	EC		17	1601	160155		0		1040	America/Guayaquil	2015-09-16
+10793385	Montalvo (Andoas)	Montalvo (Andoas)		-1.93428	-76.91522	A	ADM3	EC		17	1601	160156		0		367	America/Guayaquil	2015-09-16
+10793386	Pomona	Pomona		-1.64546	-77.89213	A	ADM3	EC		17	1601	160157		0		904	America/Guayaquil	2015-09-16
+10793387	Progreso	Progreso		-3.26573	-79.68872	A	ADM3	EC		08	0709	070954		0		548	America/Guayaquil	2015-09-16
+10793388	Uzhcurrumi	Uzhcurrumi		-3.35183	-79.5793	A	ADM3	EC		08	0709	070955		0		848	America/Guayaquil	2017-02-07
+10793389	San Francisco De Sageo	San Francisco De Sageo		-2.71185	-78.87502	A	ADM3	EC		04	0302	030252		0		2719	America/Guayaquil	2015-09-16
+10793390	Veracruz (Indillama) (Cab. En Indillama)	Veracruz (Indillama) (Cab. En Indillama)		-1.52982	-77.88764	A	ADM3	EC		17	1601	160165		0		1035	America/Guayaquil	2015-09-16
+10793391	Piñas	Pinas		-3.6691	-79.69792	A	ADM3	EC		08	0710	071050		0		1152	America/Guayaquil	2015-09-16
+10793392	Capiro (Cab. En La Capilla De Capiro)	Capiro (Cab. En La Capilla De Capiro)		-3.79062	-79.75718	A	ADM3	EC		08	0710	071051		0		600	America/Guayaquil	2015-09-16
+10793393	La Bocana	La Bocana		-3.70115	-79.90285	A	ADM3	EC		08	0710	071052		0		251	America/Guayaquil	2015-09-16
+10793394	Moromoro (Cab. En El Vado)	Moromoro (Cab. En El Vado)		-3.66886	-79.7643	A	ADM3	EC		08	0710	071053		0		936	America/Guayaquil	2015-09-16
+10793395	Piedras	Piedras		-3.63158	-79.91306	A	ADM3	EC		08	0710	071054		0		162	America/Guayaquil	2015-09-16
+10793396	San Roque (Ambrosio Maldonado)	San Roque (Ambrosio Maldonado)		-3.73946	-79.68025	A	ADM3	EC		08	0710	071055		0		1067	America/Guayaquil	2015-09-16
+10793397	Saracay	Saracay		-3.66749	-79.83681	A	ADM3	EC		08	0710	071056		0		298	America/Guayaquil	2015-09-16
+10793398	Portovelo	Portovelo		-3.72547	-79.6086	A	ADM3	EC		08	0711	071150		0		725	America/Guayaquil	2015-09-16
+10793399	Curtincapa	Curtincapa		-3.73297	-79.54056	A	ADM3	EC		08	0711	071151		0		1177	America/Guayaquil	2015-09-16
+10793400	Morales	Morales		-3.70264	-79.45574	A	ADM3	EC		08	0711	071152		0		2204	America/Guayaquil	2015-09-16
+10793401	Salati	Salati		-3.76562	-79.49493	A	ADM3	EC		08	0711	071153		0		1456	America/Guayaquil	2015-09-16
+10793402	Santa Rosa	Santa Rosa		-3.44281	-79.92926	A	ADM3	EC		08	0712	071250		0		6	America/Guayaquil	2015-09-16
+10793403	Guambalo (Huambalo)	Guambalo (Huambalo)		-1.39726	-78.52671	A	ADM3	EC		19	1807	180757		0		2944	America/Guayaquil	2015-09-16
+10793404	Tupigachi	Tupigachi		0.09724	-78.19382	A	ADM3	EC		18	1704	170454		0		3018	America/Guayaquil	2015-09-16
+10793405	Cotogchoa	Cotogchoa		-0.40931	-78.45674	A	ADM3	EC		18	1705	170551		0		3017	America/Guayaquil	2015-09-16
+10793406	Abañin	Abanin		-3.33796	-79.51928	A	ADM3	EC		08	0713	071351		0		1677	America/Guayaquil	2015-09-16
+10793407	Turupamba	Turupamba		-2.72817	-78.90998	A	ADM3	EC		04	0302	030253		0		2906	America/Guayaquil	2015-09-16
+10793408	6 De Julio De Cuellaje (Cab. En Cuellaje)	6 De Julio De Cuellaje (Cab. En Cuellaje)		0.45842	-78.52986	A	ADM3	EC		11	1003	100357		0		2073	America/Guayaquil	2015-09-16
+10793409	Vacas Galindo (El Churo) (Cab. En San Miguel Alto)	Vacas Galindo (El Churo) (Cab. En San Miguel Alto)		0.31241	-78.53921	A	ADM3	EC		11	1003	100358		0		1969	America/Guayaquil	2015-09-16
+10793410	Otavalo	Otavalo		0.21492	-78.26755	A	ADM3	EC		11	1004	100450		0		2641	America/Guayaquil	2015-09-16
+10793411	Doctor Miguel Egas Cabezas (Peguche)	Doctor Miguel Egas Cabezas (Peguche)		0.25225	-78.22865	A	ADM3	EC		11	1004	100451		0		2738	America/Guayaquil	2015-09-16
+10793412	Eugenio Espejo (Calpaqui)	Eugenio Espejo (Calpaqui)		0.18654	-78.25386	A	ADM3	EC		11	1004	100452		0		2913	America/Guayaquil	2015-09-16
+10793413	Gonzalez Suarez	Gonzalez Suarez		0.15283	-78.20277	A	ADM3	EC		11	1004	100453		0		2927	America/Guayaquil	2015-09-16
+10793414	Guanazan	Guanazan		-3.44659	-79.50137	A	ADM3	EC		08	0713	071353		0		2966	America/Guayaquil	2015-09-16
+10793415	San Jose De Minas	San Jose De Minas		0.18916	-78.49053	A	ADM3	EC		18	1701	170181		0		2379	America/Guayaquil	2015-09-16
+10793416	San Francisco De Novillo (Cab. En Novillo)	San Francisco De Novillo (Cab. En Novillo)		-0.18096	-79.80715	A	ADM3	EC		14	1305	130551		0		249	America/Guayaquil	2015-09-16
+10793417	Zapallo	Zapallo		-0.45549	-79.98055	A	ADM3	EC		14	1305	130552		0		180	America/Guayaquil	2015-09-16
+10793418	Sinsao	Sinsao		-3.62115	-79.5771	A	ADM3	EC		08	0713	071358		0		1735	America/Guayaquil	2015-09-16
+10793419	Salvias	Salvias		-3.5926	-79.52277	A	ADM3	EC		08	0713	071359		0		1997	America/Guayaquil	2015-09-16
+10793420	La Victoria	La Victoria		-3.78751	-80.08981	A	ADM3	EC		08	0714	071450		0		472	America/Guayaquil	2015-09-16
+10793421	La Libertad	La Libertad		-3.85069	-80.10995	A	ADM3	EC		08	0714	071451		0		771	America/Guayaquil	2015-09-16
+10793422	El Paraiso	El Paraiso		-3.80165	-80.02167	A	ADM3	EC		08	0714	071452		0		636	America/Guayaquil	2015-09-16
+10793423	Cuenca	Cuenca		-2.88752	-79.00087	A	ADM3	EC		02	0101	010150		0		2583	America/Guayaquil	2015-09-16
+10793424	Baños	Banos		-2.98314	-79.22524	A	ADM3	EC		02	0101	010151		0		3536	America/Guayaquil	2015-09-16
+10793425	Cumbe	Cumbe		-3.09845	-79.01803	A	ADM3	EC		02	0101	010152		0		2880	America/Guayaquil	2015-09-16
+10793426	Chaucha	Chaucha		-2.92972	-79.39108	A	ADM3	EC		02	0101	010153		0		1980	America/Guayaquil	2015-09-16
+10793427	Checa (Jidcay)	Checa (Jidcay)		-2.73409	-79.02539	A	ADM3	EC		02	0101	010154		0		3806	America/Guayaquil	2015-09-16
+10793428	Chiquintad	Chiquintad		-2.76913	-79.05655	A	ADM3	EC		02	0101	010155		0		3564	America/Guayaquil	2015-09-16
+10793429	Llacao	Llacao		-2.84184	-78.92734	A	ADM3	EC		02	0101	010156		0		2575	America/Guayaquil	2015-09-16
+10793430	Molleturo	Molleturo		-2.71752	-79.39722	A	ADM3	EC		02	0101	010157		0		1964	America/Guayaquil	2015-09-16
+10793431	Salinas	Salinas		-2.22063	-80.95997	A	ADM3	EC		25	2403	240350		0		8	America/Guayaquil	2015-09-16
+10793432	Santa Rosa De Sucumbios	Santa Rosa De Sucumbios		0.16865	-77.13962	A	ADM3	EC		22	2106	210651		0		403	America/Guayaquil	2015-09-16
+10793433	Calpi	Calpi		-1.61749	-78.75422	A	ADM3	EC		06	0601	060152		0		3204	America/Guayaquil	2015-09-16
+10793434	Pataqui	Pataqui		0.18871	-78.35684	A	ADM3	EC		11	1004	100454		0		2945	America/Guayaquil	2015-09-16
+10793435	San Jose De Quichinche	San Jose De Quichinche		0.24823	-78.35053	A	ADM3	EC		11	1004	100455		0		2808	America/Guayaquil	2015-09-16
+10793436	San Juan De Iluman	San Juan De Iluman		0.27277	-78.22587	A	ADM3	EC		11	1004	100456		0		2728	America/Guayaquil	2015-09-16
+10793437	San Pablo	San Pablo		0.20791	-78.1686	A	ADM3	EC		11	1004	100457		0		2845	America/Guayaquil	2015-09-16
+10793438	San Rafael	San Rafael		0.17853	-78.23407	A	ADM3	EC		11	1004	100458		0		2995	America/Guayaquil	2015-09-16
+10793439	Selva Alegre (Cab. En San Miguel De Pamplona)	Selva Alegre (Cab. En San Miguel De Pamplona)		0.26633	-78.50463	A	ADM3	EC		11	1004	100459		0		2247	America/Guayaquil	2015-09-16
+10793440	Pimampiro	Pimampiro		0.36012	-77.9482	A	ADM3	EC		11	1005	100550		0		2398	America/Guayaquil	2015-09-16
+10793441	Chuga	Chuga		0.36395	-77.87593	A	ADM3	EC		11	1005	100551		0		2882	America/Guayaquil	2015-09-16
+10793442	Mariano Acosta	Mariano Acosta		0.24224	-77.98837	A	ADM3	EC		11	1005	100552		0		3319	America/Guayaquil	2015-09-16
+10793443	San  Fco. De Sigsipamba	San  Fco. De Sigsipamba		0.266	-77.90119	A	ADM3	EC		11	1005	100553		0		3179	America/Guayaquil	2015-09-16
+10793444	Urcuqui	Urcuqui		0.42033	-78.17686	A	ADM3	EC		11	1006	100650		0		2159	America/Guayaquil	2015-09-16
+10793445	Ambatillo	Ambatillo		-1.2205	-78.66166	A	ADM3	EC		19	1801	180151		0		3218	America/Guayaquil	2015-09-16
+10793446	Atahualpa (Chisalata)	Atahualpa (Chisalata)		-1.20469	-78.60281	A	ADM3	EC		19	1801	180152		0		2660	America/Guayaquil	2015-09-16
+10793447	Huachi Grande	Huachi Grande		-1.30875	-78.63987	A	ADM3	EC		19	1801	180155		0		2906	America/Guayaquil	2015-09-16
+10793448	Juan Benigno Vela	Juan Benigno Vela		-1.33588	-78.72045	A	ADM3	EC		19	1801	180157		0		3475	America/Guayaquil	2015-09-16
+10793449	Totoras	Totoras		-1.30733	-78.60644	A	ADM3	EC		19	1801	180166		0		2736	America/Guayaquil	2015-09-16
+10793450	San Jose	San Jose		-3.62931	-79.65554	A	ADM3	EC		08	0703	070354		0		1031	America/Guayaquil	2015-09-16
+10793451	Unamuncho	Unamuncho		-1.16629	-78.58897	A	ADM3	EC		19	1801	180168		0		2758	America/Guayaquil	2015-09-16
+10793452	Lligua	Lligua		-1.37902	-78.44946	A	ADM3	EC		19	1802	180251		0		2488	America/Guayaquil	2015-09-16
+10793453	Cevallos	Cevallos		-1.35062	-78.61247	A	ADM3	EC		19	1803	180350		0		2872	America/Guayaquil	2015-09-16
+10793454	El Triunfo	El Triunfo		-1.31102	-78.41112	A	ADM3	EC		19	1805	180551		0		2536	America/Guayaquil	2015-09-16
+10793455	La Iberia	La Iberia		-3.24402	-79.8763	A	ADM3	EC		08	0706	070652		0		16	America/Guayaquil	2015-09-16
+10793456	La Peaña	La Peana		-3.31088	-79.85087	A	ADM3	EC		08	0709	070953		0		20	America/Guayaquil	2015-09-16
+10793457	Los Andes (Cab. En Poatug)	Los Andes (Cab. En Poatug)		-1.24723	-78.48669	A	ADM3	EC		19	1805	180552		0		2962	America/Guayaquil	2015-09-16
+10793458	Benitez (Pachanlica)	Benitez (Pachanlica)		-1.34092	-78.58408	A	ADM3	EC		19	1807	180751		0		2761	America/Guayaquil	2015-09-16
+10793459	Bolivar	Bolivar		-1.38739	-78.55204	A	ADM3	EC		19	1807	180752		0		3027	America/Guayaquil	2015-09-16
+10793460	Chiquicha (Cab. En Chiquicha Grande)	Chiquicha (Cab. En Chiquicha Grande)		-1.25317	-78.53531	A	ADM3	EC		19	1807	180754		0		2615	America/Guayaquil	2015-09-16
+10793461	El Rosario (Rumichaca)	El Rosario (Rumichaca)		-1.28093	-78.5549	A	ADM3	EC		19	1807	180755		0		2802	America/Guayaquil	2015-09-16
+10793462	Garcia Moreno (Chumaqui)	Garcia Moreno (Chumaqui)		-1.30317	-78.54073	A	ADM3	EC		19	1807	180756		0		2519	America/Guayaquil	2015-09-16
+10793463	Salasaca	Salasaca		-1.31695	-78.57532	A	ADM3	EC		19	1807	180758		0		2717	America/Guayaquil	2015-09-16
+10793464	Baquerizo Moreno	Baquerizo Moreno		-1.21231	-78.46724	A	ADM3	EC		19	1808	180851		0		3404	America/Guayaquil	2015-09-16
+10793465	Presidente Urbina (Chagrapamba -Patzucul)	Presidente Urbina (Chagrapamba -Patzucul)		-1.14539	-78.55668	A	ADM3	EC		19	1808	180854		0		2805	America/Guayaquil	2015-09-16
+10793466	San Miguelito	San Miguelito		-1.20367	-78.52774	A	ADM3	EC		19	1808	180857		0		2820	America/Guayaquil	2015-09-16
+10793467	Muluncay Grande	Muluncay Grande		-3.63913	-79.63467	A	ADM3	EC		08	0713	071357		0		1185	America/Guayaquil	2015-09-16
+10793468	La Chonta	La Chonta		-4.94882	-79.08919	A	ADM3	EC		20	1902	190254		0		1296	America/Guayaquil	2015-09-16
+10793469	Cojitambo	Cojitambo		-2.75663	-78.88382	A	ADM3	EC		04	0301	030151		0		2836	America/Guayaquil	2015-09-16
+10793470	Dayuma	Dayuma		-0.71246	-76.77747	A	ADM3	EC		24	2201	220151		0		291	America/Guayaquil	2015-09-16
+10793471	Paccha	Paccha		-3.56108	-79.66167	A	ADM3	EC		08	0703	070350		0		1569	America/Guayaquil	2015-09-16
+10793472	Bellamaria	Bellamaria		-3.76286	-79.84503	A	ADM3	EC		08	0704	070451		0		606	America/Guayaquil	2017-02-07
+10793473	El Ingenio	El Ingenio		-3.72849	-79.94599	A	ADM3	EC		08	0708	070851		0		648	America/Guayaquil	2015-09-16
+10793474	Arcapamba	Arcapamba		-3.63132	-79.6076	A	ADM3	EC		08	0713	071352		0		1492	America/Guayaquil	2015-09-16
+10793475	Sevilla	Sevilla		0.09293	-77.14815	A	ADM3	EC		22	2106	210652		0		416	America/Guayaquil	2015-09-16
+10793476	Tarapoa	Tarapoa		-0.19061	-76.25578	A	ADM3	EC		22	2107	210750		0		239	America/Guayaquil	2015-09-16
+10793477	Cuyabeno	Cuyabeno		-0.35583	-75.63262	A	ADM3	EC		22	2107	210751		0		233	America/Guayaquil	2015-09-16
+10793478	Aguas Negras	Aguas Negras		-0.11949	-76.17964	A	ADM3	EC		22	2107	210752		0		234	America/Guayaquil	2015-09-16
+10793479	Malvas	Malvas		-3.67367	-79.6302	A	ADM3	EC		08	0713	071356		0		1037	America/Guayaquil	2015-09-16
+10793480	San Isidro	San Isidro		-3.73632	-79.99489	A	ADM3	EC		08	0714	071453		0		537	America/Guayaquil	2015-09-16
+10793481	Constantino Fernandez (Cab. En Cullitahua)	Constantino Fernandez (Cab. En Cullitahua)		-1.19241	-78.64251	A	ADM3	EC		19	1801	180154		0		3087	America/Guayaquil	2015-09-16
+10793482	Izamba	Izamba		-1.21755	-78.57235	A	ADM3	EC		19	1801	180156		0		2581	America/Guayaquil	2015-09-16
+10793483	Cunchibamba	Cunchibamba		-1.13254	-78.59305	A	ADM3	EC		19	1801	180167		0		2671	America/Guayaquil	2015-09-16
+10793484	Rumipamba	Rumipamba		-1.45309	-78.63413	A	ADM3	EC		19	1806	180651		0		3519	America/Guayaquil	2015-09-16
+10793485	Yanayacu - Mochapata (Cab. En Yanayacu)	Yanayacu - Mochapata (Cab. En Yanayacu)		-1.46872	-78.67865	A	ADM3	EC		19	1806	180652		0		3605	America/Guayaquil	2015-09-16
+10793486	Pelileo	Pelileo		-1.34875	-78.52824	A	ADM3	EC		19	1807	180750		0		2556	America/Guayaquil	2015-09-16
+10793487	San Juan De Cerro Azul	San Juan De Cerro Azul		-3.51603	-79.76449	A	ADM3	EC		08	0703	070355		0		767	America/Guayaquil	2015-09-16
+10793488	Balsas	Balsas		-3.76354	-79.81773	A	ADM3	EC		08	0704	070450		0		730	America/Guayaquil	2017-02-07
+10793489	Baños De Agua Santa	Banos De Agua Santa		-1.42453	-78.42535	A	ADM3	EC		19	1802	180250		0		2694	America/Guayaquil	2015-09-16
+10793490	Guadalupe	Guadalupe		-3.86964	-78.9127	A	ADM3	EC		20	1901	190152		0		1003	America/Guayaquil	2015-09-16
+10793491	Imbana (La Victoria De Imbana)	Imbana (La Victoria De Imbana)		-3.84207	-79.09229	A	ADM3	EC		20	1901	190153		0		2006	America/Guayaquil	2015-09-16
+10793492	Sabanilla	Sabanilla		-4.00514	-79.06198	A	ADM3	EC		20	1901	190155		0		2993	America/Guayaquil	2015-09-16
+10793493	Timbara	Timbara		-4.10181	-78.89614	A	ADM3	EC		20	1901	190156		0		1367	America/Guayaquil	2015-09-16
+10793494	San Carlos De Las Minas	San Carlos De Las Minas		-4.06315	-78.81116	A	ADM3	EC		20	1901	190158		0		1517	America/Guayaquil	2015-09-16
+10793495	Zumba	Zumba		-4.85142	-79.18231	A	ADM3	EC		20	1902	190250		0		1473	America/Guayaquil	2015-09-16
+10793496	Chito	Chito		-4.87173	-79.00758	A	ADM3	EC		20	1902	190251		0		1454	America/Guayaquil	2015-09-16
+10793497	Pasaje	Pasaje		-3.38442	-79.76851	A	ADM3	EC		08	0709	070950		0		64	America/Guayaquil	2015-09-16
+10793498	Buenavista	Buenavista		-3.35441	-79.85928	A	ADM3	EC		08	0709	070951		0		20	America/Guayaquil	2017-02-07
+10793499	Casacay	Casacay		-3.34884	-79.71037	A	ADM3	EC		08	0709	070952		0		254	America/Guayaquil	2015-09-16
+10793500	Rio Negro	Rio Negro		-1.30201	-78.21615	A	ADM3	EC		19	1802	180252		0		1891	America/Guayaquil	2015-09-16
+10793501	Rio Verde	Rio Verde		-1.37344	-78.32002	A	ADM3	EC		19	1802	180253		0		2259	America/Guayaquil	2015-09-16
+10793502	Ulba	Ulba		-1.3845	-78.37313	A	ADM3	EC		19	1802	180254		0		2668	America/Guayaquil	2015-09-16
+10793503	Pucapamba	Pucapamba		-4.94984	-79.12264	A	ADM3	EC		20	1902	190256		0		1146	America/Guayaquil	2015-09-16
+10793504	San Andres	San Andres		-4.80155	-79.32455	A	ADM3	EC		20	1902	190259		0		2267	America/Guayaquil	2015-09-16
+10793505	Guayzimi	Guayzimi		-4.06995	-78.6766	A	ADM3	EC		20	1903	190350		0		962	America/Guayaquil	2015-09-16
+10793506	Zurmi	Zurmi		-4.25093	-78.74618	A	ADM3	EC		20	1903	190351		0		1102	America/Guayaquil	2015-09-16
+10793507	Nuevo Paraiso	Nuevo Paraiso		-4.48914	-78.79625	A	ADM3	EC		20	1903	190352		0		1408	America/Guayaquil	2015-09-16
+10793509	28 De Mayo (San Jose De Yacuambi)	28 De Mayo (San Jose De Yacuambi)		-3.64064	-78.97964	A	ADM3	EC		20	1904	190450		0		1692	America/Guayaquil	2015-09-16
+10793510	La Paz	La Paz		-3.75151	-78.95314	A	ADM3	EC		20	1904	190451		0		1564	America/Guayaquil	2015-09-16
+10793511	Mocha	Mocha		-1.4194	-78.69926	A	ADM3	EC		19	1804	180450		0		3796	America/Guayaquil	2015-09-16
+10793512	Tutupali	Tutupali		-3.46952	-78.96339	A	ADM3	EC		20	1904	190452		0		2708	America/Guayaquil	2015-09-16
+10793513	Yantzaza (Yanzatza)	Yantzaza (Yanzatza)		-3.77638	-78.77137	A	ADM3	EC		20	1905	190550		0		992	America/Guayaquil	2015-09-16
+10793514	Chicaña	Chicana		-3.64913	-78.74919	A	ADM3	EC		20	1905	190551		0		2177	America/Guayaquil	2015-09-16
+10793515	Los Encuentros	Los Encuentros		-3.78572	-78.55606	A	ADM3	EC		20	1905	190553		0		1499	America/Guayaquil	2015-09-16
+10793516	El Pangui	El Pangui		-3.62796	-78.59709	A	ADM3	EC		20	1906	190650		0		844	America/Guayaquil	2015-09-16
+10793517	El Guisme	El Guisme		-3.56958	-78.58712	A	ADM3	EC		20	1906	190651		0		932	America/Guayaquil	2015-09-16
+10793518	Pachicutza	Pachicutza		-3.6844	-78.59324	A	ADM3	EC		20	1906	190652		0		852	America/Guayaquil	2015-09-16
+10793519	Tundayme	Tundayme		-3.60886	-78.45103	A	ADM3	EC		20	1906	190653		0		1071	America/Guayaquil	2015-09-16
+10793520	Zumbi	Zumbi		-3.95612	-78.74451	A	ADM3	EC		20	1907	190750		0		1164	America/Guayaquil	2015-09-16
+10793521	Palanda	Palanda		-4.65914	-79.23354	A	ADM3	EC		20	1908	190850		0		2180	America/Guayaquil	2015-09-16
+10793522	El Porvenir Del Carmen	El Porvenir Del Carmen		-4.48434	-79.01494	A	ADM3	EC		20	1908	190851		0		2494	America/Guayaquil	2015-09-16
+10793523	San Francisco Del Vergel	San Francisco Del Vergel		-4.71151	-79.02495	A	ADM3	EC		20	1908	190852		0		2169	America/Guayaquil	2015-09-16
+10793524	Valladolid	Valladolid		-4.46261	-79.14347	A	ADM3	EC		20	1908	190853		0		2440	America/Guayaquil	2015-09-16
+10793525	La Canela	La Canela		-4.6805	-78.92416	A	ADM3	EC		20	1908	190854		0		2200	America/Guayaquil	2015-09-16
+10793526	Paquisha	Paquisha		-3.92188	-78.58332	A	ADM3	EC		20	1909	190950		0		1515	America/Guayaquil	2015-09-16
+10793527	Bellavista	Bellavista		-3.89132	-78.61422	A	ADM3	EC		20	1909	190951		0		1666	America/Guayaquil	2017-02-07
+10793528	Nuevo Quito	Nuevo Quito		-4.00878	-78.60231	A	ADM3	EC		20	1909	190952		0		1657	America/Guayaquil	2015-09-16
+10793529	Panguintza	Panguintza		-3.88583	-78.81649	A	ADM3	EC		20	1907	190753		0		927	America/Guayaquil	2015-09-16
+10793530	Triunfo-Dorado	Triunfo-Dorado		-3.91308	-78.70634	A	ADM3	EC		20	1907	190752		0		976	America/Guayaquil	2015-09-16
+10793531	Bellavista	Bellavista		-3.51034	-79.96416	A	ADM3	EC		08	0712	071251		0		25	America/Guayaquil	2015-09-16
+10793532	Jambeli	Jambeli		-3.36263	-80.11505	A	ADM3	EC		08	0712	071252		0		-2	America/Guayaquil	2018-02-27
+10793533	La Avanzada	La Avanzada		-3.56582	-79.94641	A	ADM3	EC		08	0712	071253		0		163	America/Guayaquil	2015-09-16
+10793534	Sucre (Cab. En Sucre-Patate Urcu)	Sucre (Cab. En Sucre-Patate Urcu)		-1.23486	-78.39773	A	ADM3	EC		19	1805	180553		0		3741	America/Guayaquil	2015-09-16
+10793535	Quero	Quero		-1.43296	-78.58698	A	ADM3	EC		19	1806	180650		0		3208	America/Guayaquil	2015-09-16
+10793536	San Jose Del Chazo	San Jose Del Chazo		-1.52807	-78.55282	A	ADM3	EC		06	0607	060757		0		2935	America/Guayaquil	2015-09-16
+10793537	Vicentino	Vicentino		-3.97606	-79.92143	A	ADM3	EC		12	1110	111055		0		1488	America/Guayaquil	2015-09-16
+10793538	Saraguro	Saraguro		-3.63536	-79.23362	A	ADM3	EC		12	1111	111150		0		2530	America/Guayaquil	2015-09-16
+10793539	Sumaypamba	Sumaypamba		-3.40986	-79.3406	A	ADM3	EC		12	1111	111160		0		1769	America/Guayaquil	2015-09-16
+10793540	Sozoranga	Sozoranga		-4.24472	-79.78903	A	ADM3	EC		12	1112	111250		0		1134	America/Guayaquil	2015-09-16
+10793541	Nueva Fatima	Nueva Fatima		-4.26601	-79.823	A	ADM3	EC		12	1112	111251		0		1477	America/Guayaquil	2015-09-16
+10793542	Milagros	Milagros		-4.09621	-80.1709	A	ADM3	EC		12	1114	111453		0		747	America/Guayaquil	2015-09-16
+10793543	Chaquinal	Chaquinal		-4.05595	-80.03815	A	ADM3	EC		12	1114	111451		0		1110	America/Guayaquil	2015-09-16
+10793544	Suscal	Suscal		-2.46423	-79.06685	A	ADM3	EC		04	0307	030750		0		2716	America/Guayaquil	2015-09-16
+10793545	La Union	La Union		-1.72047	-79.38043	A	ADM3	EC		13	1201	120155		0		16	America/Guayaquil	2015-09-16
+10793546	Baba	Baba		-1.79993	-79.68534	A	ADM3	EC		13	1202	120250		0		4	America/Guayaquil	2015-09-16
+10793547	Guare	Guare		-1.5904	-79.65562	A	ADM3	EC		13	1202	120251		0		11	America/Guayaquil	2015-09-16
+10793548	Isla De Bejucal	Isla De Bejucal		-1.68764	-79.63477	A	ADM3	EC		13	1202	120252		0		8	America/Guayaquil	2015-09-16
+10793549	Ventanas	Ventanas		-1.45648	-79.44637	A	ADM3	EC		13	1207	120750		0		18	America/Guayaquil	2015-09-16
+10793550	Zapotal	Zapotal		-1.30478	-79.42013	A	ADM3	EC		13	1207	120752		0		58	America/Guayaquil	2015-09-16
+10793552	Ayapamba	Ayapamba		-3.56242	-79.73911	A	ADM3	EC		08	0703	070351		0		1726	America/Guayaquil	2017-02-07
+10793553	Chantilin	Chantilin		-0.85297	-78.64656	A	ADM3	EC		07	0506	050652		0		2882	America/Guayaquil	2015-09-16
+10793554	Cochapamba	Cochapamba		-0.84075	-78.77513	A	ADM3	EC		07	0506	050653		0		3861	America/Guayaquil	2015-09-16
+10793555	Sigchos	Sigchos		-0.6176	-78.91216	A	ADM3	EC		07	0507	050750		0		2392	America/Guayaquil	2015-09-16
+10793556	Chugchillan	Chugchillan		-0.82997	-78.98441	A	ADM3	EC		07	0507	050751		0		3073	America/Guayaquil	2015-09-16
+10793557	Isinlivi	Isinlivi		-0.78244	-78.85494	A	ADM3	EC		07	0507	050752		0		3290	America/Guayaquil	2015-09-16
+10793558	Las Pampas	Las Pampas		-0.47116	-78.96915	A	ADM3	EC		07	0507	050753		0		1519	America/Guayaquil	2015-09-16
+10793559	Palo Quemado	Palo Quemado		-0.42926	-78.90637	A	ADM3	EC		07	0507	050754		0		1493	America/Guayaquil	2015-09-16
+10793560	Esmeraldas	Esmeraldas		0.94579	-79.68553	A	ADM3	EC		09	0801	080150		0		152	America/Guayaquil	2015-09-16
+10793561	Camarones (Cab. En San Vicente)	Camarones (Cab. En San Vicente)		0.9575	-79.51357	A	ADM3	EC		09	0801	080152		0		68	America/Guayaquil	2015-09-16
+10793562	Crnel. Carlos Concha Torres (Cab. En Huele)	Crnel. Carlos Concha Torres (Cab. En Huele)		0.66485	-79.72205	A	ADM3	EC		09	0801	080153		0		335	America/Guayaquil	2015-09-16
+10793563	Chinca	Chinca		0.77362	-79.56459	A	ADM3	EC		09	0801	080154		0		38	America/Guayaquil	2015-09-16
+10793564	Majua	Majua		0.6675	-79.49775	A	ADM3	EC		09	0801	080159		0		59	America/Guayaquil	2015-09-16
+10793565	San Mateo	San Mateo		0.84572	-79.6172	A	ADM3	EC		09	0801	080163		0		45	America/Guayaquil	2015-09-16
+10793566	Tabiazo	Tabiazo		0.7777	-79.72917	A	ADM3	EC		09	0801	080165		0		86	America/Guayaquil	2015-09-16
+10793567	Tachina	Tachina		0.93536	-79.5978	A	ADM3	EC		09	0801	080166		0		131	America/Guayaquil	2015-09-16
+10793568	Vuelta Larga	Vuelta Larga		0.88511	-79.71083	A	ADM3	EC		09	0801	080168		0		39	America/Guayaquil	2015-09-16
+10793569	Valdez (Limones)	Valdez (Limones)		1.2133	-78.983	A	ADM3	EC		09	0802	080250		0		3	America/Guayaquil	2015-09-16
+10793570	Anchayacu	Anchayacu		0.94717	-79.11325	A	ADM3	EC		09	0802	080251		0		95	America/Guayaquil	2015-09-16
+10793571	Atahualpa (Cab. En Camarones)	Atahualpa (Cab. En Camarones)		0.81433	-78.99513	A	ADM3	EC		09	0802	080252		0		108	America/Guayaquil	2017-02-07
+10793572	Borbon	Borbon		1.01953	-78.99985	A	ADM3	EC		09	0802	080253		0		27	America/Guayaquil	2015-09-16
+10793573	La Tola	La Tola		1.13645	-79.05695	A	ADM3	EC		09	0802	080254		0		3	America/Guayaquil	2015-09-16
+10793574	Luis Vargas Torres (Cab. En Playa De Oro)	Luis Vargas Torres (Cab. En Playa De Oro)		0.57713	-78.70542	A	ADM3	EC		09	0802	080255		0		824	America/Guayaquil	2015-09-16
+10793575	Cotundo	Cotundo		-0.69768	-77.82628	A	ADM3	EC		23	1503	150352		0		1352	America/Guayaquil	2015-09-16
+10793576	San Pablo De Ushpayacu	San Pablo De Ushpayacu		-0.90232	-77.72258	A	ADM3	EC		23	1503	150354		0		667	America/Guayaquil	2015-09-16
+10793577	El Chaco	El Chaco		-0.33996	-77.80209	A	ADM3	EC		23	1504	150450		0		1505	America/Guayaquil	2015-09-16
+10793578	Gonzalo Diaz De Pineda (El Bombon)	Gonzalo Diaz De Pineda (El Bombon)		-0.25909	-77.51031	A	ADM3	EC		23	1504	150451		0		1237	America/Guayaquil	2015-09-16
+10793579	Linares	Linares		-0.40786	-77.67405	A	ADM3	EC		23	1504	150452		0		2441	America/Guayaquil	2015-09-16
+10793580	Oyacachi	Oyacachi		-0.18519	-77.95618	A	ADM3	EC		23	1504	150453		0		3213	America/Guayaquil	2015-09-16
+10793581	Santa Rosa	Santa Rosa		-0.21076	-77.79227	A	ADM3	EC		23	1504	150454		0		2588	America/Guayaquil	2015-09-16
+10793582	Sardinas	Sardinas		-0.3683	-77.8911	A	ADM3	EC		23	1504	150455		0		2118	America/Guayaquil	2015-09-16
+10793583	Cosanga	Cosanga		-0.5787	-77.95911	A	ADM3	EC		23	1507	150751		0		3364	America/Guayaquil	2015-09-16
+10793584	Cuyuja	Cuyuja		-0.42306	-78.06515	A	ADM3	EC		23	1507	150752		0		3688	America/Guayaquil	2015-09-16
+10793585	Papallacta	Papallacta		-0.36661	-78.15727	A	ADM3	EC		23	1507	150753		0		3839	America/Guayaquil	2015-09-16
+10793586	San Francisco De Borja (Virgilio Davila)	San Francisco De Borja (Virgilio Davila)		-0.43395	-77.8707	A	ADM3	EC		23	1507	150754		0		1941	America/Guayaquil	2015-09-16
+10793587	Sumaco	Sumaco		-0.48608	-77.71596	A	ADM3	EC		23	1507	150756		0		2829	America/Guayaquil	2015-09-16
+10793588	Carlos Julio Arosemena Tola	Carlos Julio Arosemena Tola		-1.16408	-77.93999	A	ADM3	EC		23	1509	150950		0		996	America/Guayaquil	2015-09-16
+10793589	La Belleza	La Belleza		-0.77194	-77.07172	A	ADM3	EC		24	2201	220158		0		343	America/Guayaquil	2015-09-16
+10793590	Nuevo Paraiso (Cab. En Union )	Nuevo Paraiso (Cab. En Union )		-0.33661	-77.11703	A	ADM3	EC		24	2201	220159		0		276	America/Guayaquil	2015-09-16
+10793591	San Jose De Guayusa	San Jose De Guayusa		-0.18329	-77.17468	A	ADM3	EC		24	2201	220160		0		393	America/Guayaquil	2015-09-16
+10793592	Zambiza	Zambiza		-0.14451	-78.4174	A	ADM3	EC		18	1701	170186		0		2422	America/Guayaquil	2015-09-16
+10793593	Cayambe	Cayambe		0.00262	-78.06575	A	ADM3	EC		18	1702	170250		0		3522	America/Guayaquil	2015-09-16
+10793594	Ascazubi	Ascazubi		-0.07626	-78.26412	A	ADM3	EC		18	1702	170251		0		3021	America/Guayaquil	2015-09-16
+10793595	Cangahua	Cangahua		-0.09067	-78.14636	A	ADM3	EC		18	1702	170252		0		3486	America/Guayaquil	2015-09-16
+10793596	Olmedo (Pesillo)	Olmedo (Pesillo)		0.07175	-77.98318	A	ADM3	EC		18	1702	170253		0		3901	America/Guayaquil	2015-09-16
+10793597	Oton	Oton		-0.02127	-78.25381	A	ADM3	EC		18	1702	170254		0		2766	America/Guayaquil	2015-09-16
+10793598	Santa Rosa De Cuzubamba	Santa Rosa De Cuzubamba		-0.03548	-78.27896	A	ADM3	EC		18	1702	170255		0		2663	America/Guayaquil	2015-09-16
+10793599	Machachi	Machachi		-0.57611	-78.4638	A	ADM3	EC		18	1703	170350		0		3880	America/Guayaquil	2015-09-16
+10793600	Aloag	Aloag		-0.45307	-78.64808	A	ADM3	EC		18	1703	170351		0		3066	America/Guayaquil	2015-09-16
+10793601	San Vicente De Huaticocha	San Vicente De Huaticocha		-0.6792	-77.51051	A	ADM3	EC		24	2204	220455		0		1210	America/Guayaquil	2015-09-16
+10793602	Puyo	Puyo		-1.47091	-77.98618	A	ADM3	EC		17	1601	160150		0		948	America/Guayaquil	2015-09-16
+10793603	Canelos	Canelos		-1.57546	-77.72011	A	ADM3	EC		17	1601	160152		0		473	America/Guayaquil	2015-09-16
+10793604	Tarqui	Tarqui		-1.57121	-77.96275	A	ADM3	EC		17	1601	160163		0		922	America/Guayaquil	2015-09-16
+10793605	Teniente Hugo Ortiz	Teniente Hugo Ortiz		-1.36284	-77.93588	A	ADM3	EC		17	1601	160164		0		1050	America/Guayaquil	2015-09-16
+10793606	Apuela	Apuela		0.42179	-78.42435	A	ADM3	EC		11	1003	100351		0		2279	America/Guayaquil	2015-09-16
+10793607	Garcia Moreno (Llurimagua)	Garcia Moreno (Llurimagua)		0.29714	-78.78778	A	ADM3	EC		11	1003	100352		0		1504	America/Guayaquil	2015-09-16
+10793608	Imantag	Imantag		0.44957	-78.3477	A	ADM3	EC		11	1003	100353		0		3891	America/Guayaquil	2015-09-16
+10793609	Peñaherrera	Penaherrera		0.35954	-78.58852	A	ADM3	EC		11	1003	100354		0		2072	America/Guayaquil	2015-09-16
+10793610	Plaza Gutierrez (Calvario)	Plaza Gutierrez (Calvario)		0.34545	-78.4235	A	ADM3	EC		11	1003	100355		0		3124	America/Guayaquil	2015-09-16
+10793611	Quiroga	Quiroga		0.31174	-78.40633	A	ADM3	EC		11	1003	100356		0		3167	America/Guayaquil	2017-02-07
+10793612	Huigra	Huigra		-2.28124	-79.00444	A	ADM3	EC		06	0602	060254		0		2365	America/Guayaquil	2015-09-16
+10793613	Multitud	Multitud		-2.14284	-78.98732	A	ADM3	EC		06	0602	060255		0		2251	America/Guayaquil	2015-09-16
+10793614	Tambillo	Tambillo		1.18441	-78.89379	A	ADM3	EC		09	0805	080560		0		11	America/Guayaquil	2015-09-16
+10793615	El Progreso	El Progreso		-0.82582	-89.42879	A	ADM3	EC		01	2001	200151		0		113	Pacific/Galapagos	2015-09-16
+10793616	Isla Santa María (Floreana) (Cab. En  Pto. Velasco Ibarra)	Isla Santa Maria (Floreana) (Cab. En  Pto. Velasco Ibarra)		-1.29765	-90.46005	A	ADM3	EC		01	2001	200152		0		360	Pacific/Galapagos	2017-02-07
+10793617	El Eden	El Eden		-0.56791	-76.19346	A	ADM3	EC		24	2201	220155		0		231	America/Guayaquil	2015-09-16
+10793618	Garcia Moreno	Garcia Moreno		-0.56795	-77.02109	A	ADM3	EC		24	2201	220156		0		273	America/Guayaquil	2015-09-16
+10793619	Ines Arango (Cab. En Western)	Ines Arango (Cab. En Western)		-0.97648	-76.82411	A	ADM3	EC		24	2201	220157		0		334	America/Guayaquil	2015-09-16
+10793620	San Luis De Armenia	San Luis De Armenia		-0.41202	-77.15822	A	ADM3	EC		24	2201	220161		0		290	America/Guayaquil	2015-09-16
+10793621	Nuevo Rocafuerte	Nuevo Rocafuerte		-1.01049	-75.59963	A	ADM3	EC		24	2202	220250		0		227	America/Guayaquil	2015-09-16
+10793622	Capitan Augusto Rivadeneyra	Capitan Augusto Rivadeneyra		-0.56135	-75.80896	A	ADM3	EC		24	2202	220251		0		218	America/Guayaquil	2015-09-16
+10793623	Cononaco	Cononaco		-1.05322	-76.07212	A	ADM3	EC		24	2202	220252		0		250	America/Guayaquil	2015-09-16
+10793624	Santa Maria De Huiririma	Santa Maria De Huiririma		-0.65277	-75.64474	A	ADM3	EC		24	2202	220253		0		210	America/Guayaquil	2015-09-16
+10793625	Tiputini	Tiputini		-0.79168	-75.67184	A	ADM3	EC		24	2202	220254		0		211	America/Guayaquil	2015-09-16
+10793626	Yasuni	Yasuni		-0.76729	-75.35	A	ADM3	EC		24	2202	220255		0		187	America/Guayaquil	2015-09-16
+10793627	La Joya De Los Sachas	La Joya De Los Sachas		-0.30913	-76.84418	A	ADM3	EC		24	2203	220350		0		273	America/Guayaquil	2015-09-16
+10793628	Enokanqui	Enokanqui		-0.22849	-76.83865	A	ADM3	EC		24	2203	220351		0		278	America/Guayaquil	2015-09-16
+10793629	Pompeya	Pompeya		-0.41665	-76.68204	A	ADM3	EC		24	2203	220352		0		253	America/Guayaquil	2015-09-16
+10793630	San Carlos	San Carlos		-0.39827	-76.89233	A	ADM3	EC		24	2203	220353		0		270	America/Guayaquil	2015-09-16
+10793631	Crucita	Crucita		-0.88725	-80.53385	A	ADM3	EC		14	1301	130153		0		145	America/Guayaquil	2015-09-16
+10793632	San Luis De Pambil	San Luis De Pambil		-1.24523	-79.21473	A	ADM3	EC		03	0201	020160		0		501	America/Guayaquil	2015-09-16
+10793633	San Sebastian	San Sebastian		-1.68694	-79.05166	A	ADM3	EC		03	0203	020354		0		2677	America/Guayaquil	2015-09-16
+10793634	Quito	Quito		-0.21171	-78.5228	A	ADM3	EC		18	1701	170150		0		3070	America/Guayaquil	2015-09-16
+10793635	Sangolqui	Sangolqui		-0.35548	-78.43578	A	ADM3	EC		18	1705	170550		0		2568	America/Guayaquil	2015-09-16
+10793636	Pacayacu	Pacayacu		0.11216	-76.49494	A	ADM3	EC		22	2101	210156		0		296	America/Guayaquil	2015-09-16
+10793637	Jambeli	Jambeli		0.23324	-77.103	A	ADM3	EC		22	2101	210157		0		366	America/Guayaquil	2015-09-16
+10793638	Santa Cecilia	Santa Cecilia		0.07765	-76.98712	A	ADM3	EC		22	2101	210158		0		333	America/Guayaquil	2015-09-16
+10793639	Santa Clara	Santa Clara		-1.25616	-77.85922	A	ADM3	EC		17	1603	160350		0		847	America/Guayaquil	2015-09-16
+10793640	San Jose	San Jose		-1.33519	-77.88187	A	ADM3	EC		17	1603	160351		0		977	America/Guayaquil	2015-09-16
+10793641	Arajuno	Arajuno		-1.2597	-77.65678	A	ADM3	EC		17	1604	160450		0		572	America/Guayaquil	2015-09-16
+10793642	Curaray	Curaray		-1.35353	-76.69424	A	ADM3	EC		17	1604	160451		0		242	America/Guayaquil	2015-09-16
+10793643	Alangasi	Alangasi		-0.29608	-78.42981	A	ADM3	EC		18	1701	170151		0		2461	America/Guayaquil	2015-09-16
+10793644	Torata	Torata		-3.58581	-79.85072	A	ADM3	EC		08	0712	071255		0		530	America/Guayaquil	2015-09-16
+10793645	Victoria	Victoria		-3.41678	-79.82718	A	ADM3	EC		08	0712	071256		0		45	America/Guayaquil	2015-09-16
+10793646	Bellamaria	Bellamaria		-3.51758	-79.85692	A	ADM3	EC		08	0712	071257		0		71	America/Guayaquil	2015-09-16
+10793647	La Bonita	La Bonita		0.50792	-77.56619	A	ADM3	EC		22	2105	210550		0		2615	America/Guayaquil	2015-09-16
+10793648	El Retiro	El Retiro		-3.37913	-79.95683	A	ADM3	EC		08	0701	070152		0		0	America/Guayaquil	2015-09-16
+10793649	Arenillas	Arenillas		-3.5602	-80.0429	A	ADM3	EC		08	0702	070250		0		126	America/Guayaquil	2015-09-16
+10793650	Chacras	Chacras		-3.53064	-80.16542	A	ADM3	EC		08	0702	070251		0		26	America/Guayaquil	2015-09-16
+10793651	Palmales	Palmales		-3.70004	-80.10594	A	ADM3	EC		08	0702	070254		0		86	America/Guayaquil	2015-09-16
+10793652	Carcabon	Carcabon		-3.63107	-80.16157	A	ADM3	EC		08	0702	070255		0		76	America/Guayaquil	2015-09-16
+10793653	Guizhaguiña	Guizhaguina		-3.65593	-79.4711	A	ADM3	EC		08	0713	071354		0		2406	America/Guayaquil	2015-09-16
+10793654	Huertas	Huertas		-3.58199	-79.60446	A	ADM3	EC		08	0713	071355		0		1803	America/Guayaquil	2015-09-16
+10793655	Nulti	Nulti		-2.86397	-78.89043	A	ADM3	EC		02	0101	010158		0		2516	America/Guayaquil	2015-09-16
+10793656	Santa Ana	Santa Ana		-2.96591	-78.91297	A	ADM3	EC		02	0101	010164		0		2863	America/Guayaquil	2015-09-16
+10793657	Sayausi	Sayausi		-2.80095	-79.17022	A	ADM3	EC		02	0101	010165		0		3978	America/Guayaquil	2015-09-16
+10793658	Sidcay	Sidcay		-2.81581	-78.96817	A	ADM3	EC		02	0101	010166		0		2652	America/Guayaquil	2015-09-16
+10793659	Sinincay	Sinincay		-2.85023	-79.01744	A	ADM3	EC		02	0101	010167		0		2711	America/Guayaquil	2015-09-16
+10793660	Tarqui	Tarqui		-3.00343	-79.04413	A	ADM3	EC		02	0101	010168		0		2656	America/Guayaquil	2015-09-16
+10793661	Turi	Turi		-2.94611	-79.02099	A	ADM3	EC		02	0101	010169		0		2643	America/Guayaquil	2015-09-16
+10793662	Valle	Valle		-2.94488	-78.9664	A	ADM3	EC		02	0101	010170		0		2627	America/Guayaquil	2015-09-16
+10793663	Victoria Del Portete (Irquis)	Victoria Del Portete (Irquis)		-3.06938	-79.11981	A	ADM3	EC		02	0101	010171		0		2976	America/Guayaquil	2015-09-16
+10793664	Giron	Giron		-3.17845	-79.12757	A	ADM3	EC		02	0102	010250		0		2586	America/Guayaquil	2015-09-16
+11429017	Cazaderos	Cazaderos		-4.03458	-80.41179	A	ADM3	EC		12	1113	111356		0		360	America/Guayaquil	2017-02-01
+11429018	San Jose De Ayora	San Jose De Ayora		0.07497	-78.10088	A	ADM3	EC		18	1702	170256		0		3037	America/Guayaquil	2017-02-01
+11429019	Hatun Sumaku	Hatun Sumaku		-0.6606	-77.61224	A	ADM3	EC		23	1503	150356		0		1414	America/Guayaquil	2017-02-01
+11429020	10 De Agosto	10 De Agosto		0.18588	-76.90006	A	ADM3	EC		22	2101	210160		0		297	America/Guayaquil	2017-02-01
+11429021	La Esmeralda	La Esmeralda		-1.72182	-79.2699	A	ADM3	EC		13	1203	120351		0		114	America/Guayaquil	2017-02-01

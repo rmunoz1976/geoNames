@@ -1,0 +1,386 @@
+﻿11154614	Sabana Yegua	Sabana Yegua		18.45898	-70.83222	A	ADM3	DO		01	0206	020601		0		108	America/Santo_Domingo	2016-08-01
+11154615	Cabral	Cabral		18.19991	-71.2466	A	ADM3	DO		03	0402	040201		0		279	America/Santo_Domingo	2016-06-05
+11154616	Loma De Cabrera	Loma De Cabrera		19.40271	-71.58728	A	ADM3	DO		04	0502	050201		0		326	America/Santo_Domingo	2016-08-03
+11154617	Capotillo (D. M.).	Capotillo (D. M.).		19.40909	-71.66702	A	ADM3	DO		04	0502	050202		0		230	America/Santo_Domingo	2016-06-05
+11154618	Santiago De La Cruz (D. M.).	Santiago De La Cruz (D. M.).		19.49151	-71.62538	A	ADM3	DO		04	0502	050203		0		313	America/Santo_Domingo	2016-06-05
+11154619	Partido	Partido		19.50119	-71.5181	A	ADM3	DO		04	0503	050301		0		146	America/Santo_Domingo	2016-08-01
+11154620	Restauración	Restauracion		19.30595	-71.6477	A	ADM3	DO		04	0504	050401		0		628	America/Santo_Domingo	2016-08-01
+11154621	El Pino	El Pino		19.44293	-71.49326	A	ADM3	DO		04	0505	050501		0		213	America/Santo_Domingo	2016-08-01
+11154622	Manuel Bueno (D. M.).	Manuel Bueno (D. M.).		19.36947	-71.50202	A	ADM3	DO		04	0505	050502		0		352	America/Santo_Domingo	2016-06-05
+11154623	San Francisco De Macorís	San Francisco De Macoris		19.37555	-70.29089	A	ADM3	DO		06	0601	060101		0		343	America/Santo_Domingo	2016-08-03
+11154624	La Peña (D. M.).	La Pena (D. M.).		19.33731	-70.13166	A	ADM3	DO		06	0601	060102		0		296	America/Santo_Domingo	2016-06-05
+11154625	Cenoví (D. M.).	Cenovi (D. M.).		19.23866	-70.32124	A	ADM3	DO		06	0601	060103		0		64	America/Santo_Domingo	2016-06-05
+11154626	Jaya (D. M.).	Jaya (D. M.).		19.39604	-70.21465	A	ADM3	DO		06	0601	060104		0		490	America/Santo_Domingo	2016-06-05
+11154627	Presidente Don Antonio Guzmán Fernández (D. M.).	Presidente Don Antonio Guzman Fernandez (D. M.).		19.25368	-70.29339	A	ADM3	DO		06	0601	060105		0		75	America/Santo_Domingo	2016-06-05
+11154628	Las Coles (D. M.).	Las Coles (D. M.).		19.18589	-69.73281	A	ADM3	DO		06	0602	060202		0		2	America/Santo_Domingo	2016-06-05
+11154629	El Aguacate (D. M.).	El Aguacate (D. M.).		19.20313	-69.82603	A	ADM3	DO		06	0602	060203		0		12	America/Santo_Domingo	2016-06-05
+11154630	Castillo	Castillo		19.23478	-70.03406	A	ADM3	DO		06	0603	060301		0		157	America/Santo_Domingo	2016-06-05
+11154631	Pimentel	Pimentel		19.20973	-70.1321	A	ADM3	DO		06	0604	060401		0		53	America/Santo_Domingo	2016-06-05
+11154632	Villa Riva	Villa Riva		19.16952	-69.90431	A	ADM3	DO		06	0605	060501		0		18	America/Santo_Domingo	2016-06-05
+11154633	Agua Santa Del Yuna  (D. M.).	Agua Santa Del Yuna  (D. M.).		19.13033	-69.75118	A	ADM3	DO		06	0605	060502		0		5	America/Santo_Domingo	2016-06-23
+11154634	Cristo Rey De Guaraguao (D. M.).	Cristo Rey De Guaraguao (D. M.).		19.10217	-69.86303	A	ADM3	DO		06	0605	060503		0		128	America/Santo_Domingo	2016-06-05
+11154635	Sabana Higüero (D. M.).	Sabana Higueero (D. M.).		19.01562	-71.5917	A	ADM3	DO		11	0702	070203		0		438	America/Santo_Domingo	2016-06-05
+11154636	El Llano	El Llano		18.85972	-71.63949	A	ADM3	DO		11	0703	070301		0		436	America/Santo_Domingo	2016-06-05
+11154637	Guanito (D. M.).	Guanito (D. M.).		18.79492	-71.67683	A	ADM3	DO		11	0703	070302		0		1101	America/Santo_Domingo	2016-06-05
+11154638	Juan Santiago	Juan Santiago		18.73283	-71.6071	A	ADM3	DO		11	0706	070601		0		868	America/Santo_Domingo	2016-06-05
+11154639	El Seibo	El Seibo		18.71954	-69.13913	A	ADM3	DO		28	0801	080101		0		62	America/Santo_Domingo	2016-08-03
+11154640	Pedro Sánchez (D. M.).	Pedro Sanchez (D. M.).		18.86427	-69.07947	A	ADM3	DO		28	0801	080102		0		156	America/Santo_Domingo	2016-06-05
+11154641	San Francisco-Vicentillo (D. M.).	San Francisco-Vicentillo (D. M.).		18.87872	-69.23927	A	ADM3	DO		28	0801	080103		0		193	America/Santo_Domingo	2016-06-05
+11154642	Santa Lucía (D. M.).	Santa Lucia (D. M.).		18.71152	-68.99299	A	ADM3	DO		28	0801	080104		0		199	America/Santo_Domingo	2016-06-05
+11154643	Miches	Miches		18.94141	-69.06776	A	ADM3	DO		28	0802	080201		0		54	America/Santo_Domingo	2016-08-03
+11154644	El Cedro (D. M.).	El Cedro (D. M.).		18.95509	-68.92142	A	ADM3	DO		28	0802	080202		0		36	America/Santo_Domingo	2016-06-05
+11154645	Hato Mayor	Hato Mayor		18.69432	-69.39269	A	ADM3	DO		29	3001	300101		0		52	America/Santo_Domingo	2016-08-03
+11154646	Las Taranas (D. M.).	Las Taranas (D. M.).		19.1896	-69.95229	A	ADM3	DO		06	0605	060504		0		34	America/Santo_Domingo	2016-06-05
+11154647	Barraquito (D. M.).	Barraquito (D. M.).		19.11916	-69.78956	A	ADM3	DO		06	0605	060505		0		10	America/Santo_Domingo	2016-06-05
+11154648	Las Guáranas	Las Guaranas		19.20098	-70.22393	A	ADM3	DO		06	0606	060601		0		51	America/Santo_Domingo	2016-08-03
+11154649	Eugenio María De Hostos	Eugenio Maria De Hostos		19.13446	-70.01221	A	ADM3	DO		06	0607	060701		0		31	America/Santo_Domingo	2016-08-03
+11154650	Sabana Grande (D. M.).	Sabana Grande (D. M.).		19.15991	-70.05499	A	ADM3	DO		06	0607	060702		0		29	America/Santo_Domingo	2016-06-05
+11154651	Comendador	Comendador		18.92893	-71.75546	A	ADM3	DO		11	0701	070101		0		360	America/Santo_Domingo	2016-08-03
+11154652	Sabana Larga (D. M.).	Sabana Larga (D. M.).		18.95356	-71.68535	A	ADM3	DO		11	0701	070102		0		373	America/Santo_Domingo	2016-06-05
+11154653	Guayabo Dulce (D. M.).	Guayabo Dulce (D. M.).		18.69591	-69.25252	A	ADM3	DO		29	3001	300104		0		69	America/Santo_Domingo	2016-06-05
+11154654	Barro Arriba (D. M.).	Barro Arriba (D. M.).		18.51242	-70.78376	A	ADM3	DO		01	0201	020102		0		172	America/Santo_Domingo	2016-06-05
+11154655	Clavellina (D. M.).	Clavellina (D. M.).		18.38664	-70.73844	A	ADM3	DO		01	0201	020108		0		121	America/Santo_Domingo	2016-06-05
+11154656	Las Lomas (D. M.).	Las Lomas (D. M.).		18.50952	-70.72575	A	ADM3	DO		01	0201	020109		0		582	America/Santo_Domingo	2016-06-05
+11154657	Las Charcas	Las Charcas		18.41759	-70.54845	A	ADM3	DO		01	0202	020201		0		137	America/Santo_Domingo	2016-08-03
+11154658	Proyecto 2-C (D. M.).	Proyecto 2-C (D. M.).		18.41372	-70.89891	A	ADM3	DO		01	0206	020604		0		89	America/Santo_Domingo	2016-06-05
+11154659	Pueblo Viejo	Pueblo Viejo		18.39283	-70.77252	A	ADM3	DO		01	0207	020701		0		22	America/Santo_Domingo	2016-08-03
+11154660	El Rubio (D. M.).	El Rubio (D. M.).		19.29029	-71.12492	A	ADM3	DO		25	2505	250502		0		763	America/Santo_Domingo	2016-06-05
+11154661	Caleta (D. M.).	Caleta (D. M.).		18.40614	-68.99109	A	ADM3	DO		12	1201	120102		0		4	America/Santo_Domingo	2016-06-05
+11154662	Mella	Mella		18.27709	-71.4278	A	ADM3	DO		09	1006	100601		0		567	America/Santo_Domingo	2016-06-05
+11154663	La Colonia (D. M.).	La Colonia (D. M.).		18.3819	-71.48184	A	ADM3	DO		09	1006	100602		0		-2	America/Santo_Domingo	2016-06-05
+11154664	Higüey	Higueey		18.61829	-68.72088	A	ADM3	DO		10	1101	110101		0		107	America/Santo_Domingo	2016-06-05
+11154665	Arroyo Cano (D. M.).	Arroyo Cano (D. M.).		18.81349	-71.00833	A	ADM3	DO		23	2202	220202		0		632	America/Santo_Domingo	2016-06-05
+11154666	Villa Montellano	Villa Montellano		19.70826	-70.59261	A	ADM3	DO		18	1809	180901		0		24	America/Santo_Domingo	2016-06-05
+11154667	Salcedo	Salcedo		19.38744	-70.40764	A	ADM3	DO		19	1901	190101		0		210	America/Santo_Domingo	2016-08-03
+11154668	Jamao Afuera (D. M.).	Jamao Afuera (D. M.).		19.48716	-70.39203	A	ADM3	DO		19	1901	190102		0		685	America/Santo_Domingo	2016-06-05
+11154669	Tenares	Tenares		19.4222	-70.32984	A	ADM3	DO		19	1902	190201		0		486	America/Santo_Domingo	2016-08-03
+11154670	Blanco (D. M.).	Blanco (D. M.).		19.51623	-70.30794	A	ADM3	DO		19	1902	190202		0		211	America/Santo_Domingo	2016-06-05
+11154671	Villa Tapia	Villa Tapia		19.29672	-70.39116	A	ADM3	DO		19	1903	190301		0		96	America/Santo_Domingo	2016-08-03
+11154672	Samaná	Samana		19.24139	-69.35131	A	ADM3	DO		20	2001	200101		0		181	America/Santo_Domingo	2016-06-05
+11154673	Juan De Herrera	Juan De Herrera		18.88811	-71.2165	A	ADM3	DO		23	2204	220401		0		714	America/Santo_Domingo	2016-06-05
+11154674	Jínova (D. M.).	Jinova (D. M.).		18.86066	-71.18889	A	ADM3	DO		23	2204	220402		0		524	America/Santo_Domingo	2016-06-05
+11154675	El Limón  (D. M.).	El Limon  (D. M.).		19.29617	-69.42757	A	ADM3	DO		20	2001	200102		0		17	America/Santo_Domingo	2016-06-05
+11154676	Las Matas De Farfán	Las Matas De Farfan		18.92035	-71.46378	A	ADM3	DO		23	2205	220501		0		436	America/Santo_Domingo	2016-06-05
+11154677	Matayaya (D. M.).	Matayaya (D. M.).		18.91458	-71.58987	A	ADM3	DO		23	2205	220502		0		404	America/Santo_Domingo	2016-06-05
+11154678	Carrera De Yeguas (D. M.).	Carrera De Yeguas (D. M.).		19.00392	-71.49336	A	ADM3	DO		23	2205	220503		0		523	America/Santo_Domingo	2016-06-05
+11154679	Arroyo Barril (D. M.).	Arroyo Barril (D. M.).		19.21126	-69.42575	A	ADM3	DO		20	2001	200103		0		65	America/Santo_Domingo	2016-06-05
+11154680	Las Galeras (D. M.).	Las Galeras (D. M.).		19.28527	-69.24252	A	ADM3	DO		20	2001	200104		0		7	America/Santo_Domingo	2016-06-05
+11154681	Sánchez	Sanchez		19.16946	-69.6465	A	ADM3	DO		20	2002	200201		0		8	America/Santo_Domingo	2016-06-05
+11154682	Las Terrenas	Las Terrenas		19.28578	-69.55459	A	ADM3	DO		20	2003	200301		0		224	America/Santo_Domingo	2016-06-05
+11154683	San Cristóbal	San Cristobal		18.40552	-70.12264	A	ADM3	DO		33	2101	210101		0		110	America/Santo_Domingo	2016-06-05
+11154684	Hato Damas (D. M.).	Hato Damas (D. M.).		18.511	-70.09854	A	ADM3	DO		33	2101	210102		0		100	America/Santo_Domingo	2016-06-23
+11154685	Bonao	Bonao		18.97742	-70.42073	A	ADM3	DO		31	2801	280101		0		179	America/Santo_Domingo	2016-08-03
+11154686	Sabana Del Puerto (D. M.).	Sabana Del Puerto (D. M.).		19.06479	-70.46181	A	ADM3	DO		31	2801	280102		0		203	America/Santo_Domingo	2016-06-05
+11154687	Juma Bejucal (D. M.).	Juma Bejucal (D. M.).		18.8921	-70.39887	A	ADM3	DO		31	2801	280103		0		196	America/Santo_Domingo	2016-06-05
+11154688	Arroyo  Toro - Masipedro (D. M.).	Arroyo  Toro - Masipedro (D. M.).		18.92891	-70.49046	A	ADM3	DO		31	2801	280104		0		922	America/Santo_Domingo	2016-06-05
+11154689	Jayaco (D. M.).	Jayaco (D. M.).		19.01134	-70.42778	A	ADM3	DO		31	2801	280105		0		154	America/Santo_Domingo	2016-06-05
+11154690	La Salvia - Los Quemados (D. M.).	La Salvia - Los Quemados (D. M.).		18.83902	-70.48906	A	ADM3	DO		31	2801	280106		0		452	America/Santo_Domingo	2016-06-05
+11154691	Maimón	Maimon		18.89367	-70.28045	A	ADM3	DO		31	2802	280201		0		262	America/Santo_Domingo	2016-08-03
+11154692	Piedra Blanca	Piedra Blanca		18.82393	-70.32603	A	ADM3	DO		31	2803	280301		0		216	America/Santo_Domingo	2016-06-05
+11154693	Villa De Sonador (D. M.).	Villa De Sonador (D. M.).		18.84798	-70.37646	A	ADM3	DO		31	2803	280302		0		236	America/Santo_Domingo	2016-06-05
+11154694	Juan Adrián (D. M.).	Juan Adrian (D. M.).		18.7578	-70.33628	A	ADM3	DO		31	2803	280303		0		373	America/Santo_Domingo	2016-06-05
+11154695	Monte Plata	Monte Plata		18.77233	-69.83443	A	ADM3	DO		32	2901	290101		0		44	America/Santo_Domingo	2016-06-05
+11154696	Sabana Grande De Palenque	Sabana Grande De Palenque		18.25931	-70.16149	A	ADM3	DO		33	2102	210201		0		56	America/Santo_Domingo	2016-06-05
+11154697	Bajos De Haina	Bajos De Haina		18.41397	-70.03485	A	ADM3	DO		33	2103	210301		0		47	America/Santo_Domingo	2016-06-05
+11154698	El Carril (D. M.).	El Carril (D. M.).		18.44948	-70.03886	A	ADM3	DO		33	2103	210302		0		58	America/Santo_Domingo	2016-06-05
+11154699	Cambita Garabitos	Cambita Garabitos		18.47252	-70.23712	A	ADM3	DO		33	2104	210401		0		639	America/Santo_Domingo	2016-06-05
+11154700	Cambita El Pueblecito (D. M.).	Cambita El Pueblecito (D. M.).		18.44856	-70.184	A	ADM3	DO		33	2104	210402		0		179	America/Santo_Domingo	2016-06-05
+11154701	Villa Altagracia	Villa Altagracia		18.66078	-70.22104	A	ADM3	DO		33	2105	210501		0		260	America/Santo_Domingo	2016-06-05
+11154702	San José Del Puerto (D. M.).	San Jose Del Puerto (D. M.).		18.73798	-70.24859	A	ADM3	DO		33	2105	210502		0		265	America/Santo_Domingo	2016-06-05
+11154703	Cotuí	Cotui		18.96557	-70.13267	A	ADM3	DO		21	2401	240101		0		85	America/Santo_Domingo	2016-06-05
+11154704	Sabaneta De Yásica (D. M.).	Sabaneta De Yasica (D. M.).		19.67426	-70.4117	A	ADM3	DO		18	1807	180703		0		24	America/Santo_Domingo	2016-06-05
+11154705	Uvilla (D. M.).	Uvilla (D. M.).		18.35669	-71.20959	A	ADM3	DO		02	0303	030302		0		27	America/Santo_Domingo	2016-06-05
+11154706	Puñal	Punal		19.39959	-70.64241	A	ADM3	DO		25	2508	250801		0		194	America/Santo_Domingo	2016-08-03
+11154707	Guayabal (D. M.).	Guayabal (D. M.).		19.37647	-70.67144	A	ADM3	DO		25	2508	250802		0		306	America/Santo_Domingo	2016-06-05
+11154708	Canabacoa (D. M.).	Canabacoa (D. M.).		19.42373	-70.64409	A	ADM3	DO		25	2508	250803		0		190	America/Santo_Domingo	2016-06-05
+11154709	Sabana Iglesia	Sabana Iglesia		19.34238	-70.74019	A	ADM3	DO		25	2509	250901		0		306	America/Santo_Domingo	2016-06-05
+11154710	San Ignacio De Sabaneta	San Ignacio De Sabaneta		19.38842	-71.31888	A	ADM3	DO		26	2601	260101		0		442	America/Santo_Domingo	2016-06-05
+11154711	Doña Emma Balaguer Viuda Vallejo (D. M.).	Dona Emma Balaguer Viuda Vallejo (D. M.).		18.42521	-70.71002	A	ADM3	DO		01	0201	020107		0		26	America/Santo_Domingo	2016-06-05
+11154712	La Canela (D. M.).	La Canela (D. M.).		19.48991	-70.84554	A	ADM3	DO		25	2501	250105		0		163	America/Santo_Domingo	2016-06-05
+11154713	Villa Los Almácigos	Villa Los Almacigos		19.32289	-71.44224	A	ADM3	DO		26	2602	260201		0		468	America/Santo_Domingo	2016-06-05
+11154714	Monción	Moncion		19.4135	-71.17068	A	ADM3	DO		26	2603	260301		0		368	America/Santo_Domingo	2016-06-05
+11154715	Mao	Mao		19.5245	-71.12009	A	ADM3	DO		27	2701	270101		0		143	America/Santo_Domingo	2016-06-05
+11154716	Amina (D. M.).	Amina (D. M.).		19.51038	-71.03293	A	ADM3	DO		27	2701	270102		0		182	America/Santo_Domingo	2016-06-05
+11154717	Jaibón (Pueblo Nuevo) (D. M.).	Jaibon (Pueblo Nuevo) (D. M.).		19.58979	-71.13881	A	ADM3	DO		27	2701	270103		0		58	America/Santo_Domingo	2016-06-05
+11154718	Guatapanal (D. M.).	Guatapanal (D. M.).		19.49479	-70.9451	A	ADM3	DO		27	2701	270104		0		198	America/Santo_Domingo	2016-06-05
+11154719	Esperanza	Esperanza		19.57463	-70.96967	A	ADM3	DO		27	2702	270201		0		102	America/Santo_Domingo	2016-06-23
+11154720	Maizal (D. M.).	Maizal (D. M.).		19.66343	-71.00429	A	ADM3	DO		27	2702	270202		0		165	America/Santo_Domingo	2016-06-05
+11154721	Jicomé (D. M.).	Jicome (D. M.).		19.62143	-70.9503	A	ADM3	DO		27	2702	270203		0		110	America/Santo_Domingo	2016-06-05
+11154722	Boca De Mao (D. M.).	Boca De Mao (D. M.).		19.59996	-71.02072	A	ADM3	DO		27	2702	270204		0		74	America/Santo_Domingo	2016-06-05
+11154723	Paradero (D. M.).	Paradero (D. M.).		19.6475	-70.91754	A	ADM3	DO		27	2702	270205		0		783	America/Santo_Domingo	2016-06-05
+11154724	Laguna Salada	Laguna Salada		19.68304	-71.08445	A	ADM3	DO		27	2703	270301		0		162	America/Santo_Domingo	2016-06-05
+11154725	Jaibón (D. M.).	Jaibon (D. M.).		19.64359	-71.1261	A	ADM3	DO		27	2703	270302		0		49	America/Santo_Domingo	2016-06-05
+11154726	La Caya (D. M.).	La Caya (D. M.).		19.71136	-71.12614	A	ADM3	DO		27	2703	270303		0		219	America/Santo_Domingo	2016-06-05
+11154727	Boca De Cachón (D. M.).	Boca De Cachon (D. M.).		18.58585	-71.8848	A	ADM3	DO		09	1001	100103		0		28	America/Santo_Domingo	2016-06-05
+11154728	Nagua	Nagua		19.39314	-69.87472	A	ADM3	DO		14	1401	140101		0		33	America/Santo_Domingo	2016-08-03
+11154729	San Francisco De Jacagua (D. M.).	San Francisco De Jacagua (D. M.).		19.54058	-70.70451	A	ADM3	DO		25	2501	250106		0		324	America/Santo_Domingo	2016-06-05
+11154730	Mata Palacio (D. M.).	Mata Palacio (D. M.).		18.64759	-69.32235	A	ADM3	DO		29	3001	300103		0		33	America/Santo_Domingo	2016-06-05
+11154731	Ganadero (D. M.).	Ganadero (D. M.).		18.41876	-70.84307	A	ADM3	DO		01	0206	020603		0		53	America/Santo_Domingo	2016-06-05
+11154732	Puerto Viejo (D. M.).	Puerto Viejo (D. M.).		18.3643	-70.88498	A	ADM3	DO		01	0201	020105		0		92	America/Santo_Domingo	2016-06-05
+11154733	Barreras (D. M.).	Barreras (D. M.).		18.3161	-70.91817	A	ADM3	DO		01	0201	020106		0		304	America/Santo_Domingo	2016-06-05
+11154734	Los Toros (D. M.).	Los Toros (D. M.).		18.55625	-70.84977	A	ADM3	DO		01	0208	020804		0		264	America/Santo_Domingo	2016-06-23
+11154735	Guayabal	Guayabal		18.71744	-70.76501	A	ADM3	DO		01	0209	020901		0		1826	America/Santo_Domingo	2016-06-05
+11154736	Duvergé	Duverge		18.29558	-71.59705	A	ADM3	DO		09	1002	100201		0		556	America/Santo_Domingo	2016-08-03
+11154737	San José De Matanzas (D. M.).	San Jose De Matanzas (D. M.).		19.27583	-69.80654	A	ADM3	DO		14	1401	140102		0		3	America/Santo_Domingo	2016-06-05
+11154738	Las Gordas (D. M.).	Las Gordas (D. M.).		19.45066	-70.00794	A	ADM3	DO		14	1401	140103		0		26	America/Santo_Domingo	2016-06-05
+11154739	Arroyo Al Medio (D. M.).	Arroyo Al Medio (D. M.).		19.37736	-69.97812	A	ADM3	DO		14	1401	140104		0		24	America/Santo_Domingo	2016-06-05
+11154740	Cabrera	Cabrera		19.60861	-69.97793	A	ADM3	DO		14	1402	140201		0		258	America/Santo_Domingo	2016-08-03
+11154741	Arroyo Salado (D. M.).	Arroyo Salado (D. M.).		19.51552	-69.93738	A	ADM3	DO		14	1402	140202		0		13	America/Santo_Domingo	2016-06-05
+11154742	Palmar De Ocoa (D. M.).	Palmar De Ocoa (D. M.).		18.31039	-70.53866	A	ADM3	DO		01	0202	020202		0		136	America/Santo_Domingo	2016-06-05
+11154743	El Salado (D. M.).	El Salado (D. M.).		18.43921	-71.35708	A	ADM3	DO		02	0302	030202		0		2	America/Santo_Domingo	2016-06-05
+11154744	La Jaiba (D. M.).	La Jaiba (D. M.).		19.79472	-71.16079	A	ADM3	DO		18	1808	180803		0		138	America/Santo_Domingo	2016-06-05
+11154745	Gualete (D. M.).	Gualete (D. M.).		19.77856	-71.09321	A	ADM3	DO		18	1808	180804		0		180	America/Santo_Domingo	2016-06-05
+11154746	Medina (D. M.).	Medina (D. M.).		18.53626	-70.15541	A	ADM3	DO		33	2105	210503		0		161	America/Santo_Domingo	2016-06-05
+11154747	La Cuchilla (D. M.).	La Cuchilla (D. M.).		18.58006	-70.2244	A	ADM3	DO		33	2105	210504		0		320	America/Santo_Domingo	2016-06-05
+11154748	Yaguate	Yaguate		18.34177	-70.1962	A	ADM3	DO		33	2106	210601		0		78	America/Santo_Domingo	2016-06-05
+11154749	San Gregorio De Nigua	San Gregorio De Nigua		18.35934	-70.08223	A	ADM3	DO		33	2107	210701		0		75	America/Santo_Domingo	2016-06-05
+11154750	Los Cacaos	Los Cacaos		18.59313	-70.32508	A	ADM3	DO		33	2108	210801		0		656	America/Santo_Domingo	2016-06-05
+11154751	Monserrate (Montserrat) (D. M.).	Monserrate (Montserrat) (D. M.).		18.38678	-71.21829	A	ADM3	DO		02	0303	030304		0		28	America/Santo_Domingo	2016-06-05
+11154752	Cabeza De Toro (D. M.).	Cabeza De Toro (D. M.).		18.55981	-71.20363	A	ADM3	DO		02	0303	030305		0		453	America/Santo_Domingo	2016-06-05
+11154753	Mena (D. M.).	Mena (D. M.).		18.33656	-71.20364	A	ADM3	DO		02	0303	030306		0		15	America/Santo_Domingo	2016-06-05
+11154754	San Juan	San Juan		18.79547	-71.26502	A	ADM3	DO		23	2201	220101		0		411	America/Santo_Domingo	2016-06-05
+11154755	Pedro Corto (D. M.).	Pedro Corto (D. M.).		18.87455	-71.38025	A	ADM3	DO		23	2201	220102		0		517	America/Santo_Domingo	2016-06-05
+11154756	Sabaneta (D. M.).	Sabaneta (D. M.).		19.07693	-71.25961	A	ADM3	DO		23	2201	220103		0		1529	America/Santo_Domingo	2016-06-05
+11154757	Sabana Alta (D. M.).	Sabana Alta (D. M.).		18.75686	-71.11577	A	ADM3	DO		23	2201	220104		0		411	America/Santo_Domingo	2016-06-05
+11154758	El Rosario (D. M.).	El Rosario (D. M.).		18.69916	-71.19049	A	ADM3	DO		23	2201	220105		0		428	America/Santo_Domingo	2016-06-05
+11154759	Hato Del Padre (D. M.).	Hato Del Padre (D. M.).		18.8538	-71.28483	A	ADM3	DO		23	2201	220106		0		471	America/Santo_Domingo	2016-06-05
+11154760	Guanito (D. M.).	Guanito (D. M.).		18.70466	-71.08922	A	ADM3	DO		23	2201	220107		0		350	America/Santo_Domingo	2016-06-05
+11154761	Don Juan (D. M.).	Don Juan (D. M.).		18.85717	-69.93793	A	ADM3	DO		32	2901	290102		0		109	America/Santo_Domingo	2016-06-05
+11154762	Chirino (D. M.).	Chirino (D. M.).		18.66957	-69.77733	A	ADM3	DO		32	2901	290103		0		19	America/Santo_Domingo	2016-06-05
+11154763	Boyá (D. M.).	Boya (D. M.).		18.84718	-69.81502	A	ADM3	DO		32	2901	290104		0		89	America/Santo_Domingo	2016-06-05
+11154764	Bayaguana	Bayaguana		18.81999	-69.59904	A	ADM3	DO		32	2902	290201		0		107	America/Santo_Domingo	2016-06-05
+11154765	La Jagua (D. M.).	La Jagua (D. M.).		18.96847	-71.32667	A	ADM3	DO		23	2201	220108		0		638	America/Santo_Domingo	2016-06-05
+11154766	Las Maguanas-Hato Nuevo (D. M.).	Las Maguanas-Hato Nuevo (D. M.).		18.94287	-71.24025	A	ADM3	DO		23	2201	220109		0		947	America/Santo_Domingo	2016-06-05
+11154767	Las Charcas De María Nova (D. M.).	Las Charcas De Maria Nova (D. M.).		18.7911	-71.39556	A	ADM3	DO		23	2201	220110		0		732	America/Santo_Domingo	2016-06-05
+11154768	Las Zanjas (D. M.).	Las Zanjas (D. M.).		18.89421	-71.11847	A	ADM3	DO		23	2201	220111		0		762	America/Santo_Domingo	2016-06-05
+11154769	Sabana Grande De Boyá	Sabana Grande De Boya		18.95821	-69.85408	A	ADM3	DO		32	2903	290301		0		240	America/Santo_Domingo	2016-06-05
+11154770	Gonzalo (D. M.).	Gonzalo (D. M.).		18.98614	-69.71949	A	ADM3	DO		32	2903	290302		0		274	America/Santo_Domingo	2016-06-05
+11154771	Majagual (D. M.).	Majagual (D. M.).		19.04741	-69.81302	A	ADM3	DO		32	2903	290303		0		206	America/Santo_Domingo	2016-06-05
+11154772	Yamasá	Yamasa		18.79639	-70.10494	A	ADM3	DO		32	2904	290401		0		162	America/Santo_Domingo	2016-06-05
+11154773	Los Botados (D. M.).	Los Botados (D. M.).		18.72483	-69.98582	A	ADM3	DO		32	2904	290402		0		40	America/Santo_Domingo	2016-06-05
+11154774	Mamá Tingó (D. M.).	Mama Tingo (D. M.).		18.71568	-70.07229	A	ADM3	DO		32	2904	290403		0		133	America/Santo_Domingo	2016-06-05
+11154775	Santa Bárbara El 6 (D. M.).	Santa Barbara El 6 (D. M.).		18.34884	-71.21639	A	ADM3	DO		02	0303	030307		0		22	America/Santo_Domingo	2016-06-05
+11154776	Sabana De La Mar	Sabana De La Mar		19.02361	-69.48301	A	ADM3	DO		29	3002	300201		0		184	America/Santo_Domingo	2016-06-05
+11154777	Elupina Cordero De Las Cañitas (D. M.).	Elupina Cordero De Las Canitas (D. M.).		18.97874	-69.24122	A	ADM3	DO		29	3002	300202		0		375	America/Santo_Domingo	2016-06-05
+11154778	El Valle	El Valle		18.94033	-69.38285	A	ADM3	DO		29	3003	300301		0		66	America/Santo_Domingo	2016-06-05
+11154779	Vicente Noble	Vicente Noble		18.38716	-71.17515	A	ADM3	DO		03	0405	040501		0		43	America/Santo_Domingo	2016-06-05
+11154780	Canoa (D. M.).	Canoa (D. M.).		18.36142	-71.08575	A	ADM3	DO		03	0405	040502		0		319	America/Santo_Domingo	2016-06-05
+11154781	Quita Coraza (D. M.).	Quita Coraza (D. M.).		18.44938	-71.0469	A	ADM3	DO		03	0405	040503		0		198	America/Santo_Domingo	2016-06-05
+11154782	Fondo Negro (D. M.).	Fondo Negro (D. M.).		18.3952	-71.13364	A	ADM3	DO		03	0405	040504		0		139	America/Santo_Domingo	2016-06-05
+11154783	El Peñón	El Penon		18.29759	-71.20934	A	ADM3	DO		03	0406	040601		0		8	America/Santo_Domingo	2016-06-05
+11154784	La Ciénaga	La Cienaga		18.06619	-71.15303	A	ADM3	DO		03	0407	040701		0		775	America/Santo_Domingo	2016-06-05
+11154785	Baoruco (D. M.).	Baoruco (D. M.).		18.11139	-71.12	A	ADM3	DO		03	0407	040702		0		444	America/Santo_Domingo	2016-06-05
+11154786	Vallejuelo	Vallejuelo		18.65147	-71.3268	A	ADM3	DO		23	2206	220601		0		653	America/Santo_Domingo	2016-08-03
+11154787	Yerba Buena (D. M.).	Yerba Buena (D. M.).		18.80339	-69.35341	A	ADM3	DO		29	3001	300102		0		205	America/Santo_Domingo	2016-06-05
+11154788	Las Clavellinas (D. M.).	Las Clavellinas (D. M.).		18.53075	-71.5629	A	ADM3	DO		02	0305	030502		0		177	America/Santo_Domingo	2016-06-05
+11154789	Sabana Larga	Sabana Larga		18.64138	-70.54513	A	ADM3	DO		36	3102	310201		0		961	America/Santo_Domingo	2016-06-05
+11154790	Rancho Arriba	Rancho Arriba		18.71542	-70.44823	A	ADM3	DO		36	3103	310301		0		699	America/Santo_Domingo	2016-06-05
+11154791	Santo Domingo Este	Santo Domingo Este		18.49825	-69.80315	A	ADM3	DO		37	3201	320101		0		40	America/Santo_Domingo	2016-06-05
+11154792	San Luis (D. M.).	San Luis (D. M.).		18.55087	-69.76955	A	ADM3	DO		37	3201	320102		0		20	America/Santo_Domingo	2016-06-05
+11154793	Santo Domingo Oeste	Santo Domingo Oeste		18.46281	-69.99194	A	ADM3	DO		37	3202	320201		0		23	America/Santo_Domingo	2016-11-26
+11154794	Santo Domingo Norte	Santo Domingo Norte		18.58267	-69.95326	A	ADM3	DO		37	3203	320301		0		57	America/Santo_Domingo	2016-06-05
+11154795	La Victoria (D. M.).	La Victoria (D. M.).		18.63157	-69.8806	A	ADM3	DO		37	3203	320302		0		27	America/Santo_Domingo	2016-06-05
+11154796	Boca Chica	Boca Chica		18.46072	-69.59529	A	ADM3	DO		37	3204	320401		0		20	America/Santo_Domingo	2016-06-05
+11154797	La Caleta (D. M.).	La Caleta (D. M.).		18.44624	-69.67194	A	ADM3	DO		37	3204	320402		0		15	America/Santo_Domingo	2016-06-05
+11154798	San Antonio De Guerra	San Antonio De Guerra		18.58379	-69.67551	A	ADM3	DO		37	3205	320501		0		21	America/Santo_Domingo	2016-06-05
+11154799	Hato Viejo (D. M.).	Hato Viejo (D. M.).		18.55904	-69.61098	A	ADM3	DO		37	3205	320502		0		27	America/Santo_Domingo	2016-06-05
+11154800	Los Alcarrizos	Los Alcarrizos		18.52534	-70.05079	A	ADM3	DO		37	3206	320601		0		69	America/Santo_Domingo	2016-06-05
+11154801	Palmarejo-Villa Linda (D. M.).	Palmarejo-Villa Linda (D. M.).		18.54428	-70.00495	A	ADM3	DO		37	3206	320602		0		21	America/Santo_Domingo	2016-06-05
+11154802	Hato Del Yaque (D. M.).	Hato Del Yaque (D. M.).		19.4419	-70.78402	A	ADM3	DO		25	2501	250107		0		192	America/Santo_Domingo	2016-06-05
+11154803	Pedro Santana	Pedro Santana		19.13656	-71.57244	A	ADM3	DO		11	0705	070501		0		510	America/Santo_Domingo	2016-06-05
+11154804	Santo Domingo De Guzmán	Santo Domingo De Guzman		18.48491	-69.94175	A	ADM3	DO		34	0101	010101		0		58	America/Santo_Domingo	2016-06-05
+11154805	Estebanía	Estebania		18.53466	-70.64853	A	ADM3	DO		01	0210	021001		0		1272	America/Santo_Domingo	2016-08-03
+11154806	Neiba	Neiba		18.52786	-71.42623	A	ADM3	DO		02	0301	030101		0		393	America/Santo_Domingo	2016-08-03
+11154807	El Palmar  (D. M.).	El Palmar  (D. M.).		18.42606	-71.25716	A	ADM3	DO		02	0301	030102		0		10	America/Santo_Domingo	2016-06-05
+11154808	Galván	Galvan		18.53034	-71.3046	A	ADM3	DO		02	0302	030201		0		303	America/Santo_Domingo	2016-08-03
+11154809	Pantoja (D. M.).	Pantoja (D. M.).		18.52219	-69.99898	A	ADM3	DO		37	3206	320603		0		53	America/Santo_Domingo	2016-06-05
+11154810	Pedro Brand	Pedro Brand		18.57469	-70.11159	A	ADM3	DO		37	3207	320701		0		128	America/Santo_Domingo	2016-06-05
+11154811	La Guáyiga (D. M.).	La Guayiga (D. M.).		18.56477	-70.03498	A	ADM3	DO		37	3207	320702		0		28	America/Santo_Domingo	2016-06-05
+11154812	La Cuaba (D. M.).	La Cuaba (D. M.).		18.64789	-70.0934	A	ADM3	DO		37	3207	320703		0		158	America/Santo_Domingo	2016-06-05
+11154813	Comedero Arriba (D. M.).	Comedero Arriba (D. M.).		19.03183	-70.3243	A	ADM3	DO		21	2401	240104		0		108	America/Santo_Domingo	2016-06-05
+11154814	Caballero (D. M.).	Caballero (D. M.).		18.97917	-70.29737	A	ADM3	DO		21	2401	240103		0		187	America/Santo_Domingo	2016-06-05
+11154815	Proyecto 4 (D. M.).	Proyecto 4 (D. M.).		18.40751	-70.82792	A	ADM3	DO		01	0206	020602		0		39	America/Santo_Domingo	2016-06-05
+11154816	Enriquillo	Enriquillo		17.94289	-71.24431	A	ADM3	DO		03	0403	040301		0		430	America/Santo_Domingo	2016-08-03
+11154817	Arroyo Dulce (D. M.).	Arroyo Dulce (D. M.).		17.98858	-71.33788	A	ADM3	DO		03	0403	040302		0		345	America/Santo_Domingo	2016-06-05
+11154818	Paraíso	Paraiso		18.04708	-71.20527	A	ADM3	DO		03	0404	040401		0		232	America/Santo_Domingo	2016-08-03
+11154819	Los Patos (D. M.).	Los Patos (D. M.).		17.99142	-71.21533	A	ADM3	DO		03	0404	040402		0		801	America/Santo_Domingo	2016-06-05
+11154820	Tamayo	Tamayo		18.50364	-71.08827	A	ADM3	DO		02	0303	030301		0		178	America/Santo_Domingo	2016-06-05
+11154821	Barahona	Barahona		18.17174	-71.11669	A	ADM3	DO		03	0401	040101		0		484	America/Santo_Domingo	2016-08-03
+11154822	El Cachón (D. M.).	El Cachon (D. M.).		18.22769	-71.1752	A	ADM3	DO		03	0401	040102		0		135	America/Santo_Domingo	2016-06-05
+11154823	Fundación	Fundacion		18.27484	-71.1955	A	ADM3	DO		03	0408	040801		0		13	America/Santo_Domingo	2016-06-23
+11154824	Pescadería (D. M.).	Pescaderia (D. M.).		18.26262	-71.14446	A	ADM3	DO		03	0408	040802		0		7	America/Santo_Domingo	2016-06-05
+11154825	Las Salinas	Las Salinas		18.23245	-71.34442	A	ADM3	DO		03	0409	040901		0		120	America/Santo_Domingo	2016-06-05
+11154826	Polo	Polo		18.12061	-71.31797	A	ADM3	DO		03	0410	041001		0		910	America/Santo_Domingo	2016-06-05
+11154827	Jaquimeyes	Jaquimeyes		18.30341	-71.12012	A	ADM3	DO		03	0411	041101		0		4	America/Santo_Domingo	2016-08-03
+11154828	Bánica	Banica		19.05934	-71.64196	A	ADM3	DO		11	0702	070201		0		382	America/Santo_Domingo	2016-06-05
+11154829	Sabana Cruz (D. M.).	Sabana Cruz (D. M.).		19.02336	-71.73404	A	ADM3	DO		11	0702	070202		0		344	America/Santo_Domingo	2016-06-05
+11154830	La Gina (D. M.).	La Gina (D. M.).		18.98038	-69.14	A	ADM3	DO		28	0802	080203		0		73	America/Santo_Domingo	2016-06-05
+11154831	Moca	Moca		19.3905	-70.51667	A	ADM3	DO		08	0901	090101		0		184	America/Santo_Domingo	2016-08-03
+11154832	José Contreras (D. M.).	Jose Contreras (D. M.).		19.52753	-70.44672	A	ADM3	DO		08	0901	090102		0		544	America/Santo_Domingo	2016-06-05
+11154833	San Víctor (D. M.).	San Victor (D. M.).		19.49703	-70.52434	A	ADM3	DO		08	0901	090103		0		667	America/Santo_Domingo	2016-06-05
+11154834	Juan López (D. M.).	Juan Lopez (D. M.).		19.44866	-70.4948	A	ADM3	DO		08	0901	090104		0		336	America/Santo_Domingo	2016-06-05
+11154835	Las Lagunas (D. M.).	Las Lagunas (D. M.).		19.42917	-70.45895	A	ADM3	DO		08	0901	090105		0		293	America/Santo_Domingo	2016-06-05
+11154836	Canca La Reyna  (D. M.).	Canca La Reyna  (D. M.).		19.43586	-70.5703	A	ADM3	DO		08	0901	090106		0		202	America/Santo_Domingo	2016-06-05
+11154837	El Higüerito (D. M.).	El Higueerito (D. M.).		19.36772	-70.57581	A	ADM3	DO		08	0901	090107		0		227	America/Santo_Domingo	2016-06-05
+11154838	Monte De La Jagua (D. M.).	Monte De La Jagua (D. M.).		19.40131	-70.57064	A	ADM3	DO		08	0901	090108		0		172	America/Santo_Domingo	2016-06-05
+11154839	Cayetano Germosén	Cayetano Germosen		19.34285	-70.47573	A	ADM3	DO		08	0902	090201		0		147	America/Santo_Domingo	2016-08-03
+11154840	Gaspar Hernández	Gaspar Hernandez		19.59317	-70.31002	A	ADM3	DO		08	0903	090301		0		225	America/Santo_Domingo	2016-08-03
+11154841	Joba Arriba (D. M.).	Joba Arriba (D. M.).		19.55306	-70.24906	A	ADM3	DO		08	0903	090302		0		184	America/Santo_Domingo	2016-06-05
+11154842	Veragua (D. M.).	Veragua (D. M.).		19.6508	-70.35299	A	ADM3	DO		08	0903	090303		0		9	America/Santo_Domingo	2016-06-05
+11154843	Villa Magante (D. M.).	Villa Magante (D. M.).		19.59446	-70.15117	A	ADM3	DO		08	0903	090304		0		141	America/Santo_Domingo	2016-06-05
+11154844	Jamao Al Norte	Jamao Al Norte		19.60864	-70.4503	A	ADM3	DO		08	0904	090401		0		182	America/Santo_Domingo	2016-06-05
+11154845	Guaymate	Guaymate		18.55971	-68.96475	A	ADM3	DO		12	1202	120201		0		76	America/Santo_Domingo	2016-06-05
+11154846	Villa Sombrero (D. M.).	Villa Sombrero (D. M.).		18.25205	-70.37186	A	ADM3	DO		35	1701	170106		0		28	America/Santo_Domingo	2016-06-05
+11154847	Catalina (D. M.).	Catalina (D. M.).		18.25232	-70.2509	A	ADM3	DO		35	1701	170108		0		28	America/Santo_Domingo	2016-06-05
+11154848	El Rosario (D. M.).	El Rosario (D. M.).		18.39391	-70.79987	A	ADM3	DO		01	0207	020702		0		17	America/Santo_Domingo	2016-06-05
+11154849	Tábara Arriba	Tabara Arriba		18.57386	-70.87601	A	ADM3	DO		01	0208	020801		0		317	America/Santo_Domingo	2016-06-05
+11154850	Tábara Abajo (D. M.).	Tabara Abajo (D. M.).		18.45153	-70.94163	A	ADM3	DO		01	0208	020802		0		141	America/Santo_Domingo	2016-06-05
+11154851	Las Barías-La Estancia (D. M.).	Las Barias-La Estancia (D. M.).		18.42267	-70.79616	A	ADM3	DO		01	0201	020103		0		44	America/Santo_Domingo	2016-06-05
+11154852	Los Jovillos (D. M.).	Los Jovillos (D. M.).		18.4724	-70.80543	A	ADM3	DO		01	0201	020104		0		179	America/Santo_Domingo	2016-06-05
+11154853	Las Barías (D. M.).	Las Barias (D. M.).		18.33596	-70.25138	A	ADM3	DO		35	1701	170110		0		137	America/Santo_Domingo	2016-06-05
+11154854	Nizao	Nizao		18.24709	-70.21398	A	ADM3	DO		35	1702	170201		0		32	America/Santo_Domingo	2016-08-03
+11154855	Pizarrete (D. M.).	Pizarrete (D. M.).		18.2979	-70.23189	A	ADM3	DO		35	1702	170202		0		53	America/Santo_Domingo	2016-06-05
+11154856	Santana (D. M.).	Santana (D. M.).		18.27361	-70.21242	A	ADM3	DO		35	1702	170203		0		75	America/Santo_Domingo	2016-06-05
+11154857	Villa Central (D. M.).	Villa Central (D. M.).		18.22277	-71.09738	A	ADM3	DO		03	0401	040104		0		32	America/Santo_Domingo	2016-06-05
+11154858	La Cuesta (D. M.).	La Cuesta (D. M.).		19.40577	-70.85905	A	ADM3	DO		25	2505	250503		0		482	America/Santo_Domingo	2016-06-05
+11154859	Cañongo (D. M.).	Canongo (D. M.).		19.6024	-71.71698	A	ADM3	DO		04	0501	050102		0		32	America/Santo_Domingo	2016-06-05
+11154860	San José De Las Matas	San Jose De Las Matas		19.23417	-70.99299	A	ADM3	DO		25	2505	250501		0		1473	America/Santo_Domingo	2016-06-05
+11154861	Puerto Plata	Puerto Plata		19.7107	-70.67742	A	ADM3	DO		18	1801	180101		0		162	America/Santo_Domingo	2016-06-05
+11154862	Yásica Arriba (D. M.).	Yasica Arriba (D. M.).		19.58965	-70.57723	A	ADM3	DO		18	1801	180102		0		530	America/Santo_Domingo	2016-06-05
+11154863	Maimón (D. M.).	Maimon (D. M.).		19.81794	-70.80343	A	ADM3	DO		18	1801	180103		0		61	America/Santo_Domingo	2016-06-05
+11154864	Altamira	Altamira		19.66796	-70.82007	A	ADM3	DO		18	1802	180201		0		440	America/Santo_Domingo	2016-06-05
+11154865	Río Grande (D. M.).	Rio Grande (D. M.).		19.65111	-70.7504	A	ADM3	DO		18	1802	180202		0		500	America/Santo_Domingo	2016-06-05
+11154866	Guananico	Guananico		19.6992	-70.92124	A	ADM3	DO		18	1803	180301		0		274	America/Santo_Domingo	2016-06-05
+11154867	Imbert	Imbert		19.76251	-70.86653	A	ADM3	DO		18	1804	180401		0		103	America/Santo_Domingo	2016-08-03
+11154868	Los Hidalgos	Los Hidalgos		19.75176	-71.03526	A	ADM3	DO		18	1805	180501		0		144	America/Santo_Domingo	2016-06-05
+11154869	Navas (D. M.).	Navas (D. M.).		19.733	-70.97605	A	ADM3	DO		18	1805	180502		0		193	America/Santo_Domingo	2016-06-05
+11154870	Luperón	Luperon		19.85427	-70.95619	A	ADM3	DO		18	1806	180601		0		16	America/Santo_Domingo	2016-08-03
+11154871	Derrumbadero (D.M)	Derrumbadero (D.M)		18.68546	-71.48115	A	ADM3	DO		23	2203	220302		0		915	America/Santo_Domingo	2016-06-05
+11154872	La Isabela (D. M.).	La Isabela (D. M.).		19.90571	-71.02425	A	ADM3	DO		18	1806	180602		0		128	America/Santo_Domingo	2016-06-05
+11154873	Belloso (D. M.).	Belloso (D. M.).		19.81745	-71.01234	A	ADM3	DO		18	1806	180603		0		31	America/Santo_Domingo	2016-06-05
+11154874	El Estrecho De Luperón Omar Bross (D. M.).	El Estrecho De Luperon Omar Bross (D. M.).		19.83215	-70.94995	A	ADM3	DO		18	1806	180604		0		106	America/Santo_Domingo	2016-06-05
+11154875	Sosúa	Sosua		19.69202	-70.5175	A	ADM3	DO		18	1807	180701		0		274	America/Santo_Domingo	2016-08-03
+11154876	Cabarete (D. M.).	Cabarete (D. M.).		19.72995	-70.43584	A	ADM3	DO		18	1807	180702		0		140	America/Santo_Domingo	2016-06-05
+11154877	Arenoso	Arenoso		19.17936	-69.82648	A	ADM3	DO		06	0602	060201		0		11	America/Santo_Domingo	2016-08-03
+11154878	Cristóbal	Cristobal		18.29398	-71.29456	A	ADM3	DO		09	1005	100501		0		17	America/Santo_Domingo	2016-06-05
+11154879	Guayabo  (D. M.).	Guayabo  (D. M.).		18.84729	-71.68923	A	ADM3	DO		11	0701	070103		0		561	America/Santo_Domingo	2016-06-05
+11154880	Hondo Valle	Hondo Valle		18.70866	-71.72075	A	ADM3	DO		11	0704	070401		0		1161	America/Santo_Domingo	2016-06-05
+11154881	Rancho De La Guardia (D. M.).	Rancho De La Guardia (D. M.).		18.70584	-71.65568	A	ADM3	DO		11	0704	070402		0		816	America/Santo_Domingo	2016-06-05
+11154882	La Ortega (D. M.).	La Ortega (D. M.).		19.37696	-70.60209	A	ADM3	DO		08	0901	090109		0		182	America/Santo_Domingo	2016-06-05
+11154883	Jorjillo (D. M.).	Jorjillo (D. M.).		18.70913	-71.40612	A	ADM3	DO		23	2206	220602		0		874	America/Santo_Domingo	2016-06-05
+11154884	San Pedro De Macorís	San Pedro De Macoris		18.48504	-69.26954	A	ADM3	DO		24	2301	230101		0		25	America/Santo_Domingo	2016-06-05
+11154885	Los Llanos	Los Llanos		18.59238	-69.5003	A	ADM3	DO		24	2302	230201		0		35	America/Santo_Domingo	2016-06-05
+11154886	El Puerto (D. M.).	El Puerto (D. M.).		18.72528	-69.48921	A	ADM3	DO		24	2302	230202		0		72	America/Santo_Domingo	2016-06-05
+11154887	Gautier (D. M.).	Gautier (D. M.).		18.50177	-69.56508	A	ADM3	DO		24	2302	230203		0		36	America/Santo_Domingo	2016-06-05
+11154888	Ramón Santana	Ramon Santana		18.51098	-69.14774	A	ADM3	DO		24	2303	230301		0		65	America/Santo_Domingo	2016-06-05
+11154889	Consuelo	Consuelo		18.58446	-69.2571	A	ADM3	DO		24	2304	230401		0		45	America/Santo_Domingo	2016-06-05
+11154890	Quisqueya	Quisqueya		18.53884	-69.4204	A	ADM3	DO		24	2305	230501		0		31	America/Santo_Domingo	2016-06-05
+11154891	Guayacanes	Guayacanes		18.45063	-69.43347	A	ADM3	DO		24	2306	230601		0		24	America/Santo_Domingo	2016-06-05
+11154892	Jimaní	Jimani		18.4739	-71.809	A	ADM3	DO		09	1001	100101		0		348	America/Santo_Domingo	2016-06-05
+11154893	El Limón (D. M.).	El Limon (D. M.).		18.42247	-71.7738	A	ADM3	DO		09	1001	100102		0		18	America/Santo_Domingo	2016-06-05
+11154894	El Ranchito (D. M.).	El Ranchito (D. M.).		19.17906	-70.34635	A	ADM3	DO		30	1301	130103		0		58	America/Santo_Domingo	2016-06-05
+11154895	Tavera (D.M.).	Tavera (D.M.).		19.26918	-70.64928	A	ADM3	DO		30	1301	130104		0		380	America/Santo_Domingo	2016-06-05
+11154896	Constanza	Constanza		18.89233	-70.77258	A	ADM3	DO		30	1302	130201		0		1241	America/Santo_Domingo	2016-06-05
+11154897	Tireo (D. M.).	Tireo (D. M.).		18.94522	-70.62213	A	ADM3	DO		30	1302	130202		0		1312	America/Santo_Domingo	2016-06-05
+11154898	La Sabina (D. M.).	La Sabina (D. M.).		18.79405	-70.64053	A	ADM3	DO		30	1302	130203		0		2383	America/Santo_Domingo	2016-06-05
+11154899	Jarabacoa	Jarabacoa		19.09322	-70.67073	A	ADM3	DO		30	1303	130301		0		593	America/Santo_Domingo	2016-06-05
+11154900	Buena Vista (D. M.).	Buena Vista (D. M.).		19.16029	-70.60506	A	ADM3	DO		30	1303	130302		0		556	America/Santo_Domingo	2016-06-05
+11154901	Manabao (D. M.).	Manabao (D. M.).		19.04975	-70.82268	A	ADM3	DO		30	1303	130303		0		1375	America/Santo_Domingo	2016-06-05
+11154902	Jima Abajo	Jima Abajo		19.11456	-70.36309	A	ADM3	DO		30	1304	130401		0		67	America/Santo_Domingo	2016-06-05
+11154903	Rincón (D. M.).	Rincon (D. M.).		19.14114	-70.42316	A	ADM3	DO		30	1304	130402		0		72	America/Santo_Domingo	2016-06-05
+11154904	Vengan A Ver (D. M.).	Vengan A Ver (D. M.).		18.39985	-71.58429	A	ADM3	DO		09	1002	100202		0		15	America/Santo_Domingo	2016-06-05
+11154905	Guayubín	Guayubin		19.6819	-71.39179	A	ADM3	DO		15	1503	150301		0		31	America/Santo_Domingo	2016-06-05
+11154906	Villa Elisa (D. M.).	Villa Elisa (D. M.).		19.73666	-71.29111	A	ADM3	DO		15	1503	150302		0		139	America/Santo_Domingo	2016-06-05
+11154907	Hatillo Palma (D. M.).	Hatillo Palma (D. M.).		19.69703	-71.19893	A	ADM3	DO		15	1503	150303		0		122	America/Santo_Domingo	2016-06-05
+11154908	Cana Chapetón (D. M.).	Cana Chapeton (D. M.).		19.6008	-71.27882	A	ADM3	DO		15	1503	150304		0		94	America/Santo_Domingo	2016-06-05
+11154909	Las Matas De Santa Cruz	Las Matas De Santa Cruz		19.62055	-71.48498	A	ADM3	DO		15	1504	150401		0		98	America/Santo_Domingo	2016-06-05
+11154910	Pepillo Salcedo (Manzanillo)	Pepillo Salcedo (Manzanillo)		19.66566	-71.65401	A	ADM3	DO		15	1505	150501		0		9	America/Santo_Domingo	2016-06-05
+11154911	Villa Vásquez	Villa Vasquez		19.80791	-71.44	A	ADM3	DO		15	1506	150601		0		130	America/Santo_Domingo	2016-06-05
+11154912	Platanal  (D. M.).	Platanal  (D. M.).		19.11114	-70.08403	A	ADM3	DO		21	2401	240105		0		97	America/Santo_Domingo	2016-06-05
+11154913	Cevicos	Cevicos		19.00643	-69.9625	A	ADM3	DO		21	2402	240201		0		107	America/Santo_Domingo	2016-06-05
+11154914	Las Placetas (D. M.).	Las Placetas (D. M.).		19.18318	-70.90981	A	ADM3	DO		25	2505	250504		0		1269	America/Santo_Domingo	2016-06-05
+11154915	Tamboril	Tamboril		19.50293	-70.61114	A	ADM3	DO		25	2506	250601		0		347	America/Santo_Domingo	2016-06-05
+11154916	Pedernales	Pedernales		18.02906	-71.57116	A	ADM3	DO		16	1601	160101		0		429	America/Santo_Domingo	2016-08-03
+11154917	José Francisco Peña Gómez (D. M.).	Jose Francisco Pena Gomez (D. M.).		18.18164	-71.70918	A	ADM3	DO		16	1601	160102		0		866	America/Santo_Domingo	2016-06-05
+11154918	Oviedo	Oviedo		17.82102	-71.47991	A	ADM3	DO		16	1602	160201		0		127	America/Santo_Domingo	2016-08-03
+11154919	Juancho (D. M.).	Juancho (D. M.).		17.86793	-71.34827	A	ADM3	DO		16	1602	160202		0		145	America/Santo_Domingo	2016-06-05
+11154920	Baní	Bani		18.37258	-70.36782	A	ADM3	DO		35	1701	170101		0		510	America/Santo_Domingo	2016-08-03
+11154921	Matanzas (D. M.).	Matanzas (D. M.).		18.28258	-70.42784	A	ADM3	DO		35	1701	170102		0		129	America/Santo_Domingo	2016-06-05
+11154922	Villa Fundación (D. M.).	Villa Fundacion (D. M.).		18.35377	-70.46575	A	ADM3	DO		35	1701	170103		0		149	America/Santo_Domingo	2016-06-05
+11154923	Sabana Buey (D. M.).	Sabana Buey (D. M.).		18.25896	-70.52734	A	ADM3	DO		35	1701	170104		0		41	America/Santo_Domingo	2016-06-05
+11154924	Quita Sueño (D. M.).	Quita Sueno (D. M.).		19.04413	-70.17874	A	ADM3	DO		21	2401	240102		0		125	America/Santo_Domingo	2016-06-05
+11154925	Peralvillo	Peralvillo		18.85025	-70.05637	A	ADM3	DO		32	2905	290501		0		149	America/Santo_Domingo	2016-06-05
+11154926	Batey 8 (D. M.).	Batey 8 (D. M.).		18.33989	-71.29869	A	ADM3	DO		09	1005	100502		0		11	America/Santo_Domingo	2016-06-05
+11154927	Las Lagunas De Nisibón (D. M.).	Las Lagunas De Nisibon (D. M.).		18.86205	-68.73132	A	ADM3	DO		10	1101	110102		0		69	America/Santo_Domingo	2016-06-05
+11154928	La Otra Banda (D. M.).	La Otra Banda (D. M.).		18.64121	-68.57702	A	ADM3	DO		10	1101	110103		0		100	America/Santo_Domingo	2016-06-05
+11154929	Verón Punta Cana (D. M.).	Veron Punta Cana (D. M.).		18.66173	-68.47704	A	ADM3	DO		10	1101	110104		0		26	America/Santo_Domingo	2016-06-05
+11154930	San Rafael Del Yuma	San Rafael Del Yuma		18.44407	-68.67012	A	ADM3	DO		10	1102	110201		0		53	America/Santo_Domingo	2016-06-05
+11154931	Boca De Yuma (D. M.).	Boca De Yuma (D. M.).		18.34917	-68.6303	A	ADM3	DO		10	1102	110202		0		62	America/Santo_Domingo	2016-06-05
+11154932	Bayahíbe (D. M.).	Bayahibe (D. M.).		18.3116	-68.76496	A	ADM3	DO		10	1102	110203		0		45	America/Santo_Domingo	2016-06-05
+11154933	La Romana	La Romana		18.15621	-68.67902	A	ADM3	DO		12	1201	120101		0		3	America/Santo_Domingo	2016-06-23
+11154934	La Cueva (D. M.).	La Cueva (D. M.).		19.05197	-70.02172	A	ADM3	DO		21	2402	240202		0		98	America/Santo_Domingo	2016-06-05
+11154935	Fantino	Fantino		19.10474	-70.3026	A	ADM3	DO		21	2403	240301		0		57	America/Santo_Domingo	2016-08-03
+11154936	La Mata	La Mata		19.07911	-70.19936	A	ADM3	DO		21	2404	240401		0		54	America/Santo_Domingo	2016-06-05
+11154937	La Bija (D. M.).	La Bija (D. M.).		19.12658	-70.13919	A	ADM3	DO		21	2404	240402		0		33	America/Santo_Domingo	2016-06-05
+11154938	Angelina (D. M.).	Angelina (D. M.).		19.13316	-70.19852	A	ADM3	DO		21	2404	240403		0		45	America/Santo_Domingo	2016-06-05
+11154939	Hernando Alonzo (D. M.).	Hernando Alonzo (D. M.).		19.0557	-70.24911	A	ADM3	DO		21	2404	240404		0		116	America/Santo_Domingo	2016-06-05
+11154940	Santiago	Santiago		19.46249	-70.6992	A	ADM3	DO		25	2501	250101		0		180	America/Santo_Domingo	2016-06-05
+11154941	Pedro García (D. M.).	Pedro Garcia (D. M.).		19.60098	-70.67043	A	ADM3	DO		25	2501	250102		0		552	America/Santo_Domingo	2016-06-05
+11154942	Baitoa (D. M.).	Baitoa (D. M.).		19.33306	-70.68856	A	ADM3	DO		25	2501	250104		0		461	America/Santo_Domingo	2016-06-05
+11154943	El Limonal (D. M.).	El Limonal (D. M.).		18.35369	-70.29486	A	ADM3	DO		35	1701	170109		0		263	America/Santo_Domingo	2016-06-05
+11154944	Villa Hermosa	Villa Hermosa		18.46366	-69.02002	A	ADM3	DO		12	1203	120301		0		74	America/Santo_Domingo	2016-06-05
+11154945	Cumayasa (D. M.).	Cumayasa (D. M.).		18.44885	-69.04807	A	ADM3	DO		12	1203	120302		0		63	America/Santo_Domingo	2016-06-05
+11154946	La Vega	La Vega		19.22497	-70.51055	A	ADM3	DO		30	1301	130101		0		96	America/Santo_Domingo	2016-06-05
+11154947	Amiama Gómez (D. M.).	Amiama Gomez (D. M.).		18.58976	-70.89739	A	ADM3	DO		01	0208	020803		0		325	America/Santo_Domingo	2016-06-05
+11154948	Santana (D. M.).	Santana (D. M.).		18.44607	-71.19217	A	ADM3	DO		02	0303	030303		0		49	America/Santo_Domingo	2016-06-05
+11154949	Villa Jaragua	Villa Jaragua		18.53591	-71.50238	A	ADM3	DO		02	0304	030401		0		577	America/Santo_Domingo	2016-06-05
+11154950	Los Ríos	Los Rios		18.57967	-71.58102	A	ADM3	DO		02	0305	030501		0		933	America/Santo_Domingo	2016-06-05
+11154951	Palo Alto (D. M.).	Palo Alto (D. M.).		18.28757	-71.14281	A	ADM3	DO		03	0411	041102		0		9	America/Santo_Domingo	2016-06-05
+11154952	Dajabón	Dajabon		19.56665	-71.61246	A	ADM3	DO		04	0501	050101		0		86	America/Santo_Domingo	2016-08-03
+11154953	La Guázara (D. M.).	La Guazara (D. M.).		18.16752	-71.17859	A	ADM3	DO		03	0401	040103		0		535	America/Santo_Domingo	2016-06-05
+11154954	Río Limpio (D. M.).	Rio Limpio (D. M.).		19.19196	-71.47223	A	ADM3	DO		11	0705	070502		0		1094	America/Santo_Domingo	2016-06-05
+11154955	La Descubierta	La Descubierta		18.60796	-71.75162	A	ADM3	DO		09	1003	100301		0		606	America/Santo_Domingo	2016-08-03
+11154956	Postrer Río	Postrer Rio		18.63971	-71.66438	A	ADM3	DO		09	1004	100401		0		1363	America/Santo_Domingo	2016-08-03
+11154957	Guayabal (D. M.).	Guayabal (D. M.).		18.60787	-71.63992	A	ADM3	DO		09	1004	100402		0		366	America/Santo_Domingo	2016-06-05
+11154958	Azua	Azua		18.45143	-70.72964	A	ADM3	DO		01	0201	020101		0		86	America/Santo_Domingo	2016-06-05
+11154959	Canca La Piedra (D. M.).	Canca La Piedra (D. M.).		19.49071	-70.57687	A	ADM3	DO		25	2506	250602		0		364	America/Santo_Domingo	2016-06-05
+11154960	Villa González	Villa Gonzalez		19.54514	-70.79141	A	ADM3	DO		25	2507	250701		0		170	America/Santo_Domingo	2016-06-05
+11154961	Palmar Arriba (D. M.).	Palmar Arriba (D. M.).		19.55278	-70.74754	A	ADM3	DO		25	2507	250702		0		263	America/Santo_Domingo	2016-06-05
+11154962	El Limón (D. M.).	El Limon (D. M.).		19.60131	-70.79519	A	ADM3	DO		25	2507	250703		0		515	America/Santo_Domingo	2016-06-05
+11154963	Las Yayas De Viajama	Las Yayas De Viajama		18.63583	-70.90402	A	ADM3	DO		01	0203	020301		0		454	America/Santo_Domingo	2016-06-05
+11154964	Villarpando (D. M.).	Villarpando (D. M.).		18.6403	-71.04648	A	ADM3	DO		01	0203	020302		0		273	America/Santo_Domingo	2016-06-05
+11154965	Hato Nuevo Cortés (D. M.).	Hato Nuevo Cortes (D. M.).		18.558	-71.00757	A	ADM3	DO		01	0203	020303		0		279	America/Santo_Domingo	2016-06-05
+11154966	Padre Las Casas	Padre Las Casas		18.75609	-70.97668	A	ADM3	DO		01	0204	020401		0		662	America/Santo_Domingo	2016-06-05
+11154967	Las Lagunas (D. M.).	Las Lagunas (D. M.).		18.87887	-70.87995	A	ADM3	DO		01	0204	020402		0		1136	America/Santo_Domingo	2016-06-05
+11154968	La Siembra (D. M.).	La Siembra (D. M.).		18.77765	-70.84376	A	ADM3	DO		01	0204	020403		0		907	America/Santo_Domingo	2016-06-05
+11154969	Monte Bonito (D. M.).	Monte Bonito (D. M.).		18.70612	-70.90726	A	ADM3	DO		01	0204	020404		0		685	America/Santo_Domingo	2016-06-05
+11154970	Los Fríos (D. M.).	Los Frios (D. M.).		18.86043	-70.96473	A	ADM3	DO		01	0204	020405		0		1289	America/Santo_Domingo	2016-06-05
+11154971	Peralta	Peralta		18.60194	-70.78271	A	ADM3	DO		01	0205	020501		0		766	America/Santo_Domingo	2016-06-05
+11154972	La Entrada (D. M.).	La Entrada (D. M.).		19.57004	-69.93254	A	ADM3	DO		14	1402	140203		0		124	America/Santo_Domingo	2016-06-05
+11154973	El Factor	El Factor		19.30491	-69.93167	A	ADM3	DO		14	1403	140301		0		112	America/Santo_Domingo	2016-06-05
+11154974	Río Verde Arriba (D. M.).	Rio Verde Arriba (D. M.).		19.31957	-70.5388	A	ADM3	DO		30	1301	130102		0		154	America/Santo_Domingo	2016-06-05
+11154975	Bohechío	Bohechio		18.77491	-70.98981	A	ADM3	DO		23	2202	220201		0		458	America/Santo_Domingo	2016-08-03
+11154976	El Cercado	El Cercado		18.73887	-71.52037	A	ADM3	DO		23	2203	220301		0		715	America/Santo_Domingo	2016-06-05
+11154977	San José De Ocoa	San Jose De Ocoa		18.48846	-70.48201	A	ADM3	DO		36	3101	310101		0		581	America/Santo_Domingo	2016-06-05
+11154978	La Ciénaga (D. M.).	La Cienaga (D. M.).		18.54822	-70.40872	A	ADM3	DO		36	3101	310102		0		1085	America/Santo_Domingo	2016-06-05
+11154979	Nizao - Las Auyamas (D. M.).	Nizao - Las Auyamas (D. M.).		18.63165	-70.45626	A	ADM3	DO		36	3101	310103		0		602	America/Santo_Domingo	2016-06-05
+11154980	El Pinar (D. M.).	El Pinar (D. M.).		18.60064	-70.60964	A	ADM3	DO		36	3101	310104		0		982	America/Santo_Domingo	2016-06-05
+11154981	El Naranjal (D. M.).	El Naranjal (D. M.).		18.54144	-70.47277	A	ADM3	DO		36	3101	310105		0		602	America/Santo_Domingo	2016-06-05
+11154982	Villa Isabela	Villa Isabela		19.83809	-71.06916	A	ADM3	DO		18	1808	180801		0		19	America/Santo_Domingo	2016-06-05
+11154983	Estero Hondo (D. M.).	Estero Hondo (D. M.).		19.83172	-71.17722	A	ADM3	DO		18	1808	180802		0		7	America/Santo_Domingo	2016-06-05
+11154984	Palo Verde (D. M.).	Palo Verde (D. M.).		19.78371	-71.51747	A	ADM3	DO		15	1502	150202		0		29	America/Santo_Domingo	2016-06-23
+11154985	Cruce De Guayacanes (D. M.).	Cruce De Guayacanes (D. M.).		19.6594	-71.05378	A	ADM3	DO		27	2703	270304		0		119	America/Santo_Domingo	2016-06-05
+11154986	Yaque (D. M.).	Yaque (D. M.).		18.95407	-71.0143	A	ADM3	DO		23	2202	220203		0		1325	America/Santo_Domingo	2016-06-05
+11154987	El Pozo (D. M.).	El Pozo (D. M.).		19.26877	-69.88425	A	ADM3	DO		14	1403	140302		0		16	America/Santo_Domingo	2016-06-05
+11154988	Río San Juan	Rio San Juan		19.55022	-70.0769	A	ADM3	DO		14	1404	140401		0		32	America/Santo_Domingo	2016-06-05
+11154989	Monte Cristi	Monte Cristi		19.78454	-71.61342	A	ADM3	DO		15	1501	150101		0		10	America/Santo_Domingo	2016-06-05
+11154990	Castañuelas	Castanuelas		19.71732	-71.4959	A	ADM3	DO		15	1502	150201		0		24	America/Santo_Domingo	2016-06-05
+11154991	Paya (D. M.).	Paya (D. M.).		18.26689	-70.28968	A	ADM3	DO		35	1701	170105		0		58	America/Santo_Domingo	2016-06-05
+11154992	Bisonó	Bisono		19.58017	-70.86338	A	ADM3	DO		25	2502	250201		0		177	America/Santo_Domingo	2016-06-05
+11154993	Jánico	Janico		19.31476	-70.81077	A	ADM3	DO		25	2503	250301		0		411	America/Santo_Domingo	2016-06-05
+11154994	Juncalito (D. M.).	Juncalito (D. M.).		19.17483	-70.82171	A	ADM3	DO		25	2503	250302		0		997	America/Santo_Domingo	2016-06-05
+11154995	El Caimito (D. M.).	El Caimito (D. M.).		19.24319	-70.72796	A	ADM3	DO		25	2503	250303		0		642	America/Santo_Domingo	2016-06-05
+11154996	Licey Al Medio	Licey Al Medio		19.43268	-70.60518	A	ADM3	DO		25	2504	250401		0		198	America/Santo_Domingo	2016-06-05
+11154997	Las Palomas (D. M.).	Las Palomas (D. M.).		19.42111	-70.62242	A	ADM3	DO		25	2504	250402		0		184	America/Santo_Domingo	2016-06-05
+11154998	El Carretón (D. M.).	El Carreton (D. M.).		18.30367	-70.26244	A	ADM3	DO		35	1701	170107		0		97	America/Santo_Domingo	2016-06-05
+11154999	Batista (D.M)	Batista (D.M)		18.64722	-71.44302	A	ADM3	DO		23	2203	220303		0		1192	America/Santo_Domingo	2016-06-05

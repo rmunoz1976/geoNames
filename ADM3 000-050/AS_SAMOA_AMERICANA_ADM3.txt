@@ -1,0 +1,8 @@
+﻿7268004	Village of Faleasao	Village of Faleasao		-14.21946	-169.48454	A	ADM3	AS		020	7267965	7268004		0	0	189	Pacific/Pago_Pago	2023-10-19
+7268012	Village of Leusoali'i	Village of Leusoali'i		-14.24525	-169.42909	A	ADM3	AS		020	8181800	7268012		0	0	335	Pacific/Pago_Pago	2017-01-25
+7268013	Village of Luma	Village of Luma		-14.2277	-169.51558	A	ADM3	AS		020	8181801	7268013		0	0	7	Pacific/Pago_Pago	2023-10-19
+7268014	Village of Maia	Village of Maia		-14.21713	-169.43167	A	ADM3	AS		020	8181800	7268014		0	0	224	Pacific/Pago_Pago	2017-01-25
+7268027	Village of Ofu	Village of Ofu		-14.17005	-169.67319	A	ADM3	AS		020	8198683	7268027		0	160	167	Pacific/Pago_Pago	2017-01-25
+7268028	Village of Olosega	Village of Olosega		-14.20141	-169.60023	A	ADM3	AS		020	8181803	7268028		0	0	-9999	Pacific/Pago_Pago	2017-01-25
+7268036	Village of Sili	Village of Sili		-14.1395	-169.60049	A	ADM3	AS		020	8181803	7268036		0	0	-9999	Pacific/Pago_Pago	2017-01-25
+8181802	Village of Si'ufaga	Village of Si'ufaga		-14.24841	-169.48608	A	ADM3	AS		020		8181802		0		557	Pacific/Pago_Pago	2012-02-02

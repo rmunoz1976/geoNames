@@ -1,0 +1,37 @@
+﻿12168387	Río Campo	Rio Campo	Municipio de Rio Campo,Municipio de Río Campo,Rio Campo,Río Campo	2.1232	9.8436	A	ADM3	GQ		08		12168387		0		59	Africa/Malabo	2020-06-14
+12168388	Machinda	Machinda	Machinda,Municipio de Machinda	1.9987	9.9632	A	ADM3	GQ		08		12168388		0		105	Africa/Malabo	2020-06-14
+12168389	Bata	Bata	Bata,Municipio de Bata	1.8295	9.8561	A	ADM3	GQ		08		12168389		0		53	Africa/Malabo	2020-06-14
+12168390	Mbini	Mbini	Mbini,Municipio de Mbini	1.5677	9.8696	A	ADM3	GQ		08		12168390		0		181	Africa/Malabo	2020-06-14
+12168391	Bitica	Bitica	Bitica,Bitika,Municipio de Bitica,Municipio de Bitika	1.4024	9.5704	A	ADM3	GQ		08		12168391		0		44	Africa/Malabo	2020-06-14
+12168392	Cogo	Cogo	Cogo,Municipio de Cogo	1.1996	9.8955	A	ADM3	GQ		08		12168392		0		170	Africa/Malabo	2020-06-14
+12168393	Cabo San Juan	Cabo San Juan	Cabo San Juan,Municipio de Cabo San Juan	1.189	9.4581	A	ADM3	GQ		08		12168393		0		67	Africa/Malabo	2020-06-14
+12168394	Baney	Baney	Baney,Municipio de Baney	3.6292	8.8764	A	ADM3	GQ		04		12168394		0		782	Africa/Malabo	2020-06-14
+12168395	Rebola	Rebola	Municipio de Rebola,Rebola	3.7205	8.8497	A	ADM3	GQ		04		12168395		0		430	Africa/Malabo	2020-06-14
+12168396	Malabo	Malabo	Malabo,Municipio de Malabo	3.6712	8.7283	A	ADM3	GQ		04		12168396		0		424	Africa/Malabo	2020-06-14
+12168397	Riaba	Riaba	Municipio de Riaba,Riaba	3.3954	8.7281	A	ADM3	GQ		05		12168397		0		218	Africa/Malabo	2020-06-14
+12168398	Moka	Moka	Moka,Municipio de Moka	3.3082	8.6454	A	ADM3	GQ		05		12168398		0		964	Africa/Malabo	2020-06-14
+12168418	Luba	Luba	Luba,Municipio de Luba	3.4412	8.6107	A	ADM3	GQ		05		12168418		0		245	Africa/Malabo	2020-06-14
+12168419	Batete	Batete	Batete,Municipio de Batete	3.3836	8.4819	A	ADM3	GQ		05		12168419		0		1161	Africa/Malabo	2020-06-14
+12168420	Annobón	Annobon	Annobon,Annobón,Municipio de Annobon,Municipio de Annobón	-1.4358	5.6387	A	ADM3	GQ		03		12168420		0		481	Africa/Malabo	2020-06-14
+12168421	Niefang	Niefang	Municipio de Niefang,Niefang	1.8617	10.1473	A	ADM3	GQ		06		12168421		0		382	Africa/Malabo	2020-06-14
+12168422	Nkimi	Nkimi	Municipio de Nkimi,Nkimi	2.0866	10.3012	A	ADM3	GQ		06		12168422		0		536	Africa/Malabo	2020-06-14
+12168423	Nkumekieñ	Nkumekien	Municipio de Nkumekien,Municipio de Nkumekieñ,Nkumekien,Nkumekieñ	1.8289	10.4512	A	ADM3	GQ		06		12168423		0		441	Africa/Malabo	2020-07-13
+12168424	Bicurga	Bicurga	Bicurga,Bikurga,Municipio de Bicurga,Municipio de Bikurga	1.5987	10.3525	A	ADM3	GQ		06		12168424		0		669	Africa/Malabo	2020-06-14
+12168425	Evinayong	Evinayong	Evinayong,Municipio de Evinayong	1.3896	10.5959	A	ADM3	GQ		06		12168425		0		673	Africa/Malabo	2020-06-14
+12168426	Teguete	Teguete	Municipio de Tegete,Municipio de Tegeté,Municipio de Teguete,Tegete,Tegeté,Teguete	1.3291	10.2446	A	ADM3	GQ		06		12168426		0		448	Africa/Malabo	2020-06-14
+12168427	Municipio de Acurenam	Municipio de Acurenam	Acurenam,Municipio de Acurenam	1.1003	10.5459	A	ADM3	GQ		06		12168427		0		642	Africa/Malabo	2020-06-14
+12168428	Djibloho	Djibloho	Djibloho,Municipio de Djibloho	1.6092	10.7937	A	ADM3	GQ		00		12168428		0		665	Africa/Malabo	2020-06-14
+12168429	Nsork	Nsork	Municipio de Nsork,Nsork	1.197	11.2353	A	ADM3	GQ		09		12168429		0		666	Africa/Malabo	2020-06-14
+12168430	Akonibe	Akonibe	Aconibe,Akonibe,Municipio de Aconibe,Municipio de Akonibe	1.373	10.9485	A	ADM3	GQ		09		12168430		0		666	Africa/Malabo	2020-06-14
+12168431	Mongomo	Mongomo	Mongomo,Municipio de Mongomo	1.6607	11.2629	A	ADM3	GQ		09		12168431		0		665	Africa/Malabo	2020-06-14
+12168432	Nzangayong	Nzangayong	Municipio de Nzangayong,Nzangayong	1.5905	11.16	A	ADM3	GQ		09		12168432		0		652	Africa/Malabo	2020-06-14
+12168433	Mongomeyen	Mongomeyen	Mongomeyen,Municipio de Mongomeyen	1.6788	11.0269	A	ADM3	GQ		09		12168433		0		660	Africa/Malabo	2020-06-14
+12168434	Ayene	Ayene	Ayene,Municipio de Ayene	1.9424	10.6241	A	ADM3	GQ		09		12168434		0		478	Africa/Malabo	2020-06-14
+12168435	Añisok	Anisok	Anisok,Añisok,Municipio de Anisok,Municipio de Añisok	1.7877	10.7475	A	ADM3	GQ		09		12168435		0		466	Africa/Malabo	2020-06-14
+12168436	Corisco	Corisco	Corisco,Municipio de Corisco	0.91221	9.31997	A	ADM3	GQ		08		12168436		0		16	Africa/Malabo	2020-06-14
+12168437	Nkue	Nkue	Municipio de Nkue,Nkue	2.0465	10.4636	A	ADM3	GQ		07		12168437		0		419	Africa/Malabo	2020-06-14
+12168438	Micomiseng	Micomiseng	Micomiseng,Municipio de Micomiseng	2.148	10.7447	A	ADM3	GQ		07		12168438		0		587	Africa/Malabo	2020-06-14
+12168439	Nsang	Nsang	Municipio de Nsang,Nsang	2.0173	10.8337	A	ADM3	GQ		07		12168439		0		600	Africa/Malabo	2020-06-14
+12168440	Nsok-Nsomo	Nsok-Nsomo	Municipio de Nsok-Nsomo,Nsok-Nsomo	1.9297	11.0341	A	ADM3	GQ		07		12168440		0		628	Africa/Malabo	2020-06-14
+12168441	Bidjabidjan	Bidjabidjan	Bidjabidjan,Municipio de Bidjabidjan	2.1188	11.1301	A	ADM3	GQ		07		12168441		0		606	Africa/Malabo	2020-06-14
+12168442	Ebibeyin	Ebibeyin	Ebibeyin,Municipio de Ebibeyin	1.9283	11.2553	A	ADM3	GQ		07		12168442		0		612	Africa/Malabo	2020-06-14

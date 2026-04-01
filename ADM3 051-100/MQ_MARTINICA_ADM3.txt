@@ -1,0 +1,4 @@
+﻿3569906	Arrondissement de Saint-Pierre	Arrondissement de Saint-Pierre	Arrondissement du Nord	14.7433	-61.1752	A	ADM3	MQ		MQ	972	9724		23796		19	America/Martinique	2016-06-08
+3570319	Arrondissement du Marin	Arrondissement du Marin	Le Marin	14.47345	-60.86438	A	ADM3	MQ		MQ	972	9723		119269		28	America/Martinique	2018-07-13
+3570445	Arrondissement de La Trinité	Arrondissement de La Trinite		14.73333	-60.96667	A	ADM3	MQ		MQ	972	9722		86704		61	America/Martinique	2010-09-18
+3570674	Arrondissement de Fort-de-France	Arrondissement de Fort-de-France	Arrondissement Martinique,Arrondissement du Sud	14.6	-61.08333	A	ADM3	MQ		MQ	972	9721		167961		9	America/Martinique	2010-09-18

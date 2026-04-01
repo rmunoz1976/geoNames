@@ -1,0 +1,232 @@
+﻿1734042	Sandakan	Sandakan	Sandakan	5.75	118	A	ADM3	MY		16	1218	1734042		0		57	Asia/Kuching	2021-04-20
+1734151	Pensiangan	Pensiangan		4.66667	116.41667	A	ADM3	MY		16		1734151		0		949	Asia/Kuching	2003-11-25
+1734469	Kuching	Kuching	Kuching,Muara Tuang	1.58333	110.33333	A	ADM3	MY		11	1311	1734469		0		9	Asia/Kuching	2021-04-20
+1734802	Beranang	Beranang	Beranang	2.8733	101.8697	A	ADM3	MY		12	1702	1734802		46329		37	Asia/Kuala_Lumpur	2021-04-20
+1735174	Kajang	Kajang	Kajang	2.9927	101.7909	A	ADM3	MY		12	1702	1735174		311785		42	Asia/Kuala_Lumpur	2021-04-20
+1735298	Dalat	Dalat	Dalat,Oya Dalat	2.41667	112.08333	A	ADM3	MY		11		1735298		0		40	Asia/Kuching	2012-01-17
+1735906	Sibu	Sibu	Sibu	2.33333	111.83333	A	ADM3	MY		11	1327	1735906		0		8	Asia/Kuching	2021-04-20
+1735907	Julau	Julau	Julau	1.83333	111.75	A	ADM3	MY		11	1324	1735907		0		106	Asia/Kuching	2021-04-20
+1736307	Alor Merah	Alor Merah	Alor Merah,Alur Merah	6.15924	100.37281	A	ADM3	MY		02		1736307		0		4	Asia/Kuala_Lumpur	2012-01-17
+1736419	Besut	Besut	Besut,Daerah Besut	5.57107	102.51911	A	ADM3	MY		13		1736419		0		70	Asia/Kuala_Lumpur	2012-01-17
+1736723	Sri Aman	Sri Aman	Sri Aman	1.25	111.41667	A	ADM3	MY		11	1330	1736723		0		9	Asia/Kuching	2021-04-20
+1736764	Daro	Daro	Daro,Matu Daro	2.66667	111.5	A	ADM3	MY		11		1736764		0		14	Asia/Kuching	2012-01-17
+1736765	Sarikei	Sarikei		2.16667	111.33333	A	ADM3	MY		11	1324	1736765		0		13	Asia/Kuching	2021-04-20
+1736767	Maradong	Maradong	Binatang,Maradong	2.16667	111.58333	A	ADM3	MY		11		1736767		0		11	Asia/Kuching	2012-01-17
+1737066	Kapit	Kapit	Kapit	1.83333	113.66667	A	ADM3	MY		11	1310	1737066		0		169	Asia/Kuching	2021-04-20
+1737431	Bintulu	Bintulu		3	113.33333	A	ADM3	MY		11	1305	1737431		0		34	Asia/Kuching	2021-04-20
+1737691	Limbang	Limbang	Limbang	4.25	115.16667	A	ADM3	MY		11	1313	1737691		0		401	Asia/Kuching	2021-04-20
+1738167	Miri	Miri	Miri,Niah-Suai-Sibuti	3.66667	113.75	A	ADM3	MY		11		1738167		0		42	Asia/Kuching	2012-01-17
+1750970	Pengkalan Nangka	Pengkalan Nangka	Pengkalan Nangka	5.80783	102.52112	A	ADM3	MY		13		1750970		0		6	Asia/Kuala_Lumpur	2012-01-17
+1772593	Mukim Jeram	Mukim Jeram	Mukim Jeram	3.21667	101.38333	A	ADM3	MY		12	1706	1772593		0		11	Asia/Kuala_Lumpur	2021-04-20
+1966752	Labuk and Sugut	Labuk and Sugut		6.25	117.33333	A	ADM3	MY		16		1966752		0		17	Asia/Kuching	2003-11-25
+1966754	Tawau	Tawau		4.58333	117.66667	A	ADM3	MY		16	1222	1966754		0		147	Asia/Kuching	2021-04-20
+6607263	Kudat	Kudat	Kudat	6.91667	116.81667	A	ADM3	MY		16		6607263		0		40	Asia/Kuching	2012-02-29
+6804897	Bohor	Bohor		6.3819	99.75686	A	ADM3	MY		02		6804897		0		366	Asia/Kuala_Lumpur	2009-01-04
+6804898	Ayer Hangat	Ayer Hangat		6.40388	99.73208	A	ADM3	MY		02		6804898		0		5	Asia/Kuala_Lumpur	2009-01-04
+6804899	Kuah	Kuah	Kuah	6.37972	99.86284	A	ADM3	MY		02		6804899		0		16	Asia/Kuala_Lumpur	2012-02-29
+6804901	Ulu Melaka	Ulu Melaka		6.36533	99.80897	A	ADM3	MY		02		6804901		0		491	Asia/Kuala_Lumpur	2009-01-04
+6804902	Kedawang	Kedawang		6.30356	99.74964	A	ADM3	MY		02		6804902		0		92	Asia/Kuala_Lumpur	2009-01-04
+6804904	Padang Mat Sirat	Padang Mat Sirat		6.39061	99.67089	A	ADM3	MY		02		6804904		0		328	Asia/Kuala_Lumpur	2009-01-04
+6804995	Dulang	Dulang	Dulang	5.85696	100.38944	A	ADM3	MY		02		6804995		0		3	Asia/Kuala_Lumpur	2012-01-20
+6805002	Singkir	Singkir	Singkir	5.74003	100.3787	A	ADM3	MY		02		6805002		0		19	Asia/Kuala_Lumpur	2012-01-20
+6805014	Kampung Banggol Berangan	Kampung Banggol Berangan	Kampung Banggol Berangan	5.70209	100.7491	A	ADM3	MY		02		6805014		0		43	Asia/Kuala_Lumpur	2012-01-20
+6805034	Bongor	Bongor	Bongor	5.72553	100.9191	A	ADM3	MY		02		6805034		0		109	Asia/Kuala_Lumpur	2012-01-20
+6805074	Jeneri	Jeneri	Jeneri	5.92987	100.71433	A	ADM3	MY		02		6805074		0		88	Asia/Kuala_Lumpur	2012-01-20
+6805109	Pulai	Pulai	Pulai	5.69826	100.84553	A	ADM3	MY		02		6805109		0		83	Asia/Kuala_Lumpur	2012-01-20
+6805110	Pulai	Pulai	Pulai	5.69429	100.7491	A	ADM3	MY		02		6805110		0		57	Asia/Kuala_Lumpur	2012-01-20
+6805126	Siong	Siong	Siong	5.8494	100.92797	A	ADM3	MY		02		6805126		0		447	Asia/Kuala_Lumpur	2012-01-20
+6805129	Sok	Sok	Sok	5.95795	100.78548	A	ADM3	MY		02	0211	6805129		0		156	Asia/Kuala_Lumpur	2023-04-23
+6805139	Telui Kanan	Telui Kanan	Telui Kanan	5.71083	100.74964	A	ADM3	MY		02		6805139		0		54	Asia/Kuala_Lumpur	2012-01-20
+6805176	Merbok	Merbok	Merbok	5.7065	100.37855	A	ADM3	MY		02		6805176		0		2	Asia/Kuala_Lumpur	2012-01-20
+6805187	Sala Besar	Sala Besar	Sala Besar	5.94701	100.38182	A	ADM3	MY		02		6805187		0		5	Asia/Kuala_Lumpur	2012-01-20
+6805189	Sungai Daun	Sungai Daun	Sungai Daun	5.9045	100.38957	A	ADM3	MY		02		6805189		0		4	Asia/Kuala_Lumpur	2012-01-20
+6805196	Yan	Yan	Yan	5.83569	100.38499	A	ADM3	MY		02		6805196		0		2	Asia/Kuala_Lumpur	2012-01-20
+6807224	Jerlun	Jerlun	Jerlun	6.21453	100.26388	A	ADM3	MY		02		6807224		0		3	Asia/Kuala_Lumpur	2012-01-20
+6807225	Kubang Pasu	Kubang Pasu	Kubang Pasu	6.22908	100.30178	A	ADM3	MY		02		6807225		0		3	Asia/Kuala_Lumpur	2012-01-20
+6807226	Padang Hang	Padang Hang	Padang Hang	6.20967	100.3157	A	ADM3	MY		02		6807226		0		1	Asia/Kuala_Lumpur	2012-01-20
+6807227	Gunong	Gunong	Gunong	6.19298	100.34605	A	ADM3	MY		02		6807227		0		3	Asia/Kuala_Lumpur	2012-01-20
+6807228	Titi Gajah	Titi Gajah	Titi Gajah	6.20728	100.37666	A	ADM3	MY		02		6807228		0		5	Asia/Kuala_Lumpur	2012-01-20
+6807229	Bukit Pinang	Bukit Pinang	Bukit Pinang	6.1963	100.39683	A	ADM3	MY		02		6807229		0		5	Asia/Kuala_Lumpur	2012-01-20
+6807230	Hutan Kampong	Hutan Kampong	Hutan Kampong	6.16506	100.39716	A	ADM3	MY		02		6807230		0		3	Asia/Kuala_Lumpur	2012-01-20
+6807231	Anak Bukit	Anak Bukit	Anak Bukit	6.17944	100.365	A	ADM3	MY		02		6807231		0		5	Asia/Kuala_Lumpur	2012-01-20
+6807232	Sungai Baharu	Sungai Baharu	Sungai Baharu	6.15823	100.33113	A	ADM3	MY		02		6807232		0		5	Asia/Kuala_Lumpur	2012-01-20
+6807233	Padang Lalang	Padang Lalang	Padang Lalang	6.17441	100.28987	A	ADM3	MY		02		6807233		0		3	Asia/Kuala_Lumpur	2012-01-20
+6807238	Kota Setar	Kota Setar	Kota Setar	6.11215	100.35888	A	ADM3	MY		02		6807238		0		8	Asia/Kuala_Lumpur	2012-01-20
+6807239	Mergong	Mergong	Mergong	6.13164	100.33796	A	ADM3	MY		02		6807239		0		7	Asia/Kuala_Lumpur	2012-01-20
+6807240	Alor Malai	Alor Malai	Alor Malai	6.13177	100.38345	A	ADM3	MY		02		6807240		0		6	Asia/Kuala_Lumpur	2012-01-20
+6807241	Limbong	Limbong	Limbong	6.1355	100.40907	A	ADM3	MY		02		6807241		0		4	Asia/Kuala_Lumpur	2012-01-20
+6807242	Tajar	Tajar	Tajar	6.11874	100.40716	A	ADM3	MY		02		6807242		0		4	Asia/Kuala_Lumpur	2012-01-20
+6807243	Derga	Derga	Derga	6.11144	100.38429	A	ADM3	MY		02		6807243		0		7	Asia/Kuala_Lumpur	2012-01-20
+6807245	Pengkalan Kundor	Pengkalan Kundor	Pengkalan Kundor	6.07752	100.35159	A	ADM3	MY		02		6807245		0		4	Asia/Kuala_Lumpur	2012-01-20
+6807247	Telok Chengai	Telok Chengai	Telok Chengai	6.10428	100.32995	A	ADM3	MY		02		6807247		0		5	Asia/Kuala_Lumpur	2012-01-20
+6807249	Pendang Bukit Raya	Pendang Bukit Raya	Pendang Bukit Raya	6.01468	100.40165	A	ADM3	MY		02		6807249		0		3	Asia/Kuala_Lumpur	2012-01-20
+6807250	Kangkong	Kangkong	Kangkong	6.00768	100.36809	A	ADM3	MY		02		6807250		0		4	Asia/Kuala_Lumpur	2012-01-20
+6807256	Kubang Rotan	Kubang Rotan	Kubang Rotan	6.13666	100.29918	A	ADM3	MY		02		6807256		0		4	Asia/Kuala_Lumpur	2012-01-20
+6807280	Naga	Naga	Naga	6.22725	100.37178	A	ADM3	MY		02		6807280		0		5	Asia/Kuala_Lumpur	2012-01-20
+6807289	Kuala Kedah	Kuala Kedah	Kuala Kedah	6.0959	100.29401	A	ADM3	MY		02		6807289		0		3	Asia/Kuala_Lumpur	2012-01-20
+6807295	Telok Kecai	Telok Kecai	Telok Kecai	6.08296	100.32424	A	ADM3	MY		02		6807295		0		7	Asia/Kuala_Lumpur	2012-01-20
+6807296	Tebengau	Tebengau	Tebengau	6.04338	100.33958	A	ADM3	MY		02		6807296		0		7	Asia/Kuala_Lumpur	2012-01-20
+6807298	Sala Kechil	Sala Kechil	Sala Kechil	5.98255	100.37509	A	ADM3	MY		02		6807298		0		1	Asia/Kuala_Lumpur	2012-01-20
+6812399	Mukim H	Mukim H	Mukim H	5.33885	100.20065	A	ADM3	MY		09		6812399		0		6	Asia/Kuala_Lumpur	2012-01-20
+6812400	Mukim G	Mukim G	Mukim G	5.33798	100.21563	A	ADM3	MY		09		6812400		0		13	Asia/Kuala_Lumpur	2012-01-20
+6812402	Mukim F	Mukim F	Mukim F	5.3498	100.22851	A	ADM3	MY		09		6812402		0		20	Asia/Kuala_Lumpur	2012-01-20
+6812403	Mukim Enam	Mukim Enam	Mukim 6,Mukim Enam	5.32689	100.23002	A	ADM3	MY		09		6812403		0		158	Asia/Kuala_Lumpur	2012-01-20
+6812407	Mukim Sepuluh	Mukim Sepuluh	Mukim 10,Mukim Sepuluh	5.32689	100.24802	A	ADM3	MY		09		6812407		0		138	Asia/Kuala_Lumpur	2012-01-20
+6812416	Mukim Dua belas	Mukim Dua belas	Mukim 12,Mukim Dua belas	5.30316	100.28116	A	ADM3	MY		09		6812416		0		6	Asia/Kuala_Lumpur	2012-01-20
+6812422	Mukim J	Mukim J		5.32297	100.21507	A	ADM3	MY		09		6812422		0		13	Asia/Kuala_Lumpur	2009-01-04
+6812436	Mukim Dua belas	Mukim Dua belas	Mukim 12,Mukim Dua belas	5.31854	100.4121	A	ADM3	MY		09		6812436		0		7	Asia/Kuala_Lumpur	2012-01-20
+6812440	Mukim Tiga belas	Mukim Tiga belas	Mukim Tiga belas	5.3113	100.32385	A	ADM3	MY		09		6812440		0		1	Asia/Kuala_Lumpur	2012-01-20
+6812449	Mukim Tujuh	Mukim Tujuh	Mukim 7,Mukim Tujuh	5.30822	100.21017	A	ADM3	MY		09		6812449		0		106	Asia/Kuala_Lumpur	2012-01-20
+6812450	Mukim I	Mukim I	Mukim I	5.32161	100.19885	A	ADM3	MY		09		6812450		0		10	Asia/Kuala_Lumpur	2012-01-20
+6812546	Mukim Delapan	Mukim Delapan	Mukim 8,Mukim Delapan	5.29209	100.18747	A	ADM3	MY		09		6812546		0		188	Asia/Kuala_Lumpur	2012-01-20
+6812547	Mukim Sembilan	Mukim Sembilan	Mukim 9,Mukim Sembilan	5.29629	100.21768	A	ADM3	MY		09		6812547		0		190	Asia/Kuala_Lumpur	2012-01-20
+6812554	Mukim Sebelas	Mukim Sebelas	Mukim 11,Mukim Sebelas	5.29698	100.25023	A	ADM3	MY		09		6812554		0		88	Asia/Kuala_Lumpur	2012-01-20
+6817590	Mukim Enam belas	Mukim Enam belas	Mukim Enam belas	5.26673	100.38769	A	ADM3	MY		09		6817590		0		-9999	Asia/Kuala_Lumpur	2012-01-20
+6818740	Karangan	Karangan	Karangan	5.38949	100.65761	A	ADM3	MY		02		6818740		0		325	Asia/Kuala_Lumpur	2012-01-20
+6819260	Mukim Empat Belas	Mukim Empat Belas	Mukim 14,Mukim Empat Belas	5.27044	100.46659	A	ADM3	MY		09		6819260		0		6	Asia/Kuala_Lumpur	2012-01-20
+6819277	Mukim Dua	Mukim Dua	Mukim 2,Mukim Dua	5.27708	100.52553	A	ADM3	MY		09		6819277		0		26	Asia/Kuala_Lumpur	2012-01-20
+6819283	Sungai Seluang	Sungai Seluang	Sungai Seluang	5.46023	100.55696	A	ADM3	MY		02		6819283		0		29	Asia/Kuala_Lumpur	2012-01-20
+6819291	Lunas	Lunas	Lunas	5.4411	100.53563	A	ADM3	MY		02		6819291		0		19	Asia/Kuala_Lumpur	2012-01-20
+6819295	Padang China	Padang China	Padang China,Padang Cina	5.44219	100.59496	A	ADM3	MY		02		6819295		0		57	Asia/Kuala_Lumpur	2012-01-20
+6819303	Sungai Ular	Sungai Ular	Sungai Ular	5.36715	100.6026	A	ADM3	MY		02		6819303		0		205	Asia/Kuala_Lumpur	2012-01-20
+6819340	Mukim Satu	Mukim Satu	Mukim 1,Mukim Satu	5.29274	100.50218	A	ADM3	MY		09		6819340		0		12	Asia/Kuala_Lumpur	2012-01-20
+6819342	Mukim Enam Belas	Mukim Enam Belas	Mukim 16,Mukim Enam Belas	5.31831	100.51773	A	ADM3	MY		09		6819342		0		23	Asia/Kuala_Lumpur	2012-01-20
+6819343	Mukim Lima Belas	Mukim Lima Belas	Mukim 15,Mukim Lima Belas	5.32542	100.49246	A	ADM3	MY		09		6819343		0		31	Asia/Kuala_Lumpur	2012-01-20
+6819344	Mukim Empat Belas	Mukim Empat Belas	Mukim 14,Mukim Empat Belas	5.31141	100.46874	A	ADM3	MY		09		6819344		0		10	Asia/Kuala_Lumpur	2012-01-20
+6819345	Tengah	Tengah	Tengah	5.34277	100.4436	A	ADM3	MY		09		6819345		0		5	Asia/Kuala_Lumpur	2012-01-20
+6819346	Mukim Sepuluh	Mukim Sepuluh	Mukim 10,Mukim Sepuluh	5.35269	100.45091	A	ADM3	MY		09		6819346		0		5	Asia/Kuala_Lumpur	2012-01-20
+6819347	Mukim Delapan Belas	Mukim Delapan Belas	Mukim Delapan Belas	5.39177	100.50051	A	ADM3	MY		09		6819347		0		37	Asia/Kuala_Lumpur	2012-01-20
+6819348	Mukim Tujuh Belas	Mukim Tujuh Belas	Mukim 17,Mukim Tujuh Belas	5.36784	100.49233	A	ADM3	MY		09		6819348		0		243	Asia/Kuala_Lumpur	2012-01-20
+6819349	Mukim Delapan	Mukim Delapan	Mukim Delapan	5.3797	100.45433	A	ADM3	MY		09		6819349		0		6	Asia/Kuala_Lumpur	2012-01-20
+6819350	Mukim Tujuh	Mukim Tujuh	Mukim 7,Mukim Tujuh	5.37789	100.44166	A	ADM3	MY		09		6819350		0		6	Asia/Kuala_Lumpur	2012-01-20
+6819351	Mukim Dua Puluh	Mukim Dua Puluh	Mukim 20,Mukim Dua Puluh	5.40028	100.47135	A	ADM3	MY		09		6819351		0		11	Asia/Kuala_Lumpur	2012-01-20
+6819352	Mukim Sembilan	Mukim Sembilan	Mukim 9,Mukim Sembilan	5.38299	100.46901	A	ADM3	MY		09		6819352		0		19	Asia/Kuala_Lumpur	2012-01-20
+6819353	Mukim Lima	Mukim Lima	Mukim 5,Mukim Lima	5.39881	100.44595	A	ADM3	MY		09		6819353		0		5	Asia/Kuala_Lumpur	2012-01-20
+6819354	Mukim Empat	Mukim Empat	Mukim 4,Mukim Empat	5.39794	100.42738	A	ADM3	MY		09		6819354		0		5	Asia/Kuala_Lumpur	2012-01-20
+6819355	Mukim Enam	Mukim Enam	Mukim 6,Mukim Enam	5.37253	100.42417	A	ADM3	MY		09		6819355		0		12	Asia/Kuala_Lumpur	2012-01-20
+6819356	Mukim Tiga	Mukim Tiga	Mukim 3,Mukim Tiga	5.41556	100.44917	A	ADM3	MY		09		6819356		0		11	Asia/Kuala_Lumpur	2012-01-20
+6819357	Mukim Sembilan Belas	Mukim Sembilan Belas	Mukim 19,Mukim Sembilan Belas	5.422	100.51016	A	ADM3	MY		09		6819357		0		30	Asia/Kuala_Lumpur	2012-01-20
+6819358	Mukim Sebelas	Mukim Sebelas	Mukim 11,Mukim Sebelas	5.3405	100.43308	A	ADM3	MY		09		6819358		0		5	Asia/Kuala_Lumpur	2012-01-20
+6819361	Mukim Tiga	Mukim Tiga	Mukim 3,Mukim Tiga	5.25335	100.52036	A	ADM3	MY		02		6819361		0		166	Asia/Kuala_Lumpur	2012-01-20
+6819362	Mukim Tiga Belas	Mukim Tiga Belas	Mukim 13,Mukim Tiga Belas	5.3041	100.44675	A	ADM3	MY		09		6819362		0		6	Asia/Kuala_Lumpur	2012-01-20
+6819363	Mukim Dua Belas	Mukim Dua Belas	Mukim 12,Mukim Dua Belas	5.31134	100.42189	A	ADM3	MY		09		6819363		0		6	Asia/Kuala_Lumpur	2012-01-20
+6819365	Mukim Lima Belas	Mukim Lima Belas	Mukim 15,Mukim Lima Belas	5.26387	100.48997	A	ADM3	MY		09		6819365		0		4	Asia/Kuala_Lumpur	2012-01-20
+6819373	Mukim Tiga Belas	Mukim Tiga Belas	Mukim 13,Mukim Tiga Belas	5.24523	100.43016	A	ADM3	MY		09		6819373		0		4	Asia/Kuala_Lumpur	2012-01-20
+6823196	Mukim Satu	Mukim Satu	Mukim 1,Mukim Satu	5.41453	100.20397	A	ADM3	MY		09		6823196		0		164	Asia/Kuala_Lumpur	2012-01-20
+6823197	Mukim Dua	Mukim Dua	Mukim 2,Mukim Dua	5.41463	100.23174	A	ADM3	MY		09		6823197		0		520	Asia/Kuala_Lumpur	2012-01-20
+6823198	Mukim Tiga	Mukim Tiga	Mukim 3,Mukim Tiga	5.39328	100.22652	A	ADM3	MY		09		6823198		0		438	Asia/Kuala_Lumpur	2012-01-20
+6823201	Mukim A	Mukim A	Mukim A	5.39693	100.20422	A	ADM3	MY		09		6823201		0		8	Asia/Kuala_Lumpur	2012-01-20
+6823202	Mukim B	Mukim B	Mukim B	5.38528	100.19572	A	ADM3	MY		09		6823202		0		6	Asia/Kuala_Lumpur	2012-01-20
+6823205	Mukim Empat	Mukim Empat	Mukim 4,Mukim Empat	5.37835	100.23555	A	ADM3	MY		09		6823205		0		420	Asia/Kuala_Lumpur	2012-01-20
+6823208	Mukim Tujuh Belas	Mukim Tujuh Belas	Mukim 17,Mukim Tujuh Belas	5.40935	100.24833	A	ADM3	MY		09		6823208		0		721	Asia/Kuala_Lumpur	2012-01-20
+6823209	Mukim Lima Belas	Mukim Lima Belas	Mukim 15,Mukim Lima Belas	5.39362	100.24615	A	ADM3	MY		09		6823209		0		649	Asia/Kuala_Lumpur	2012-01-20
+6823211	Mukim Empat Belas	Mukim Empat Belas	Mukim 14,Mukim Empat Belas	5.38392	100.26621	A	ADM3	MY		09		6823211		0		274	Asia/Kuala_Lumpur	2012-01-20
+6823214	Datuk Keramat	Datuk Keramat	Datuk Keramat	5.41064	100.31976	A	ADM3	MY		09		6823214		0		9	Asia/Kuala_Lumpur	2012-01-20
+6823219	Mukim Empat Belas	Mukim Empat Belas	Mukim 14,Mukim Empat Belas	5.41636	100.38963	A	ADM3	MY		09		6823219		0		4	Asia/Kuala_Lumpur	2012-01-20
+6823220	Mukim Dua	Mukim Dua	Mukim 2,Mukim Dua	5.41566	100.40751	A	ADM3	MY		09		6823220		0		3	Asia/Kuala_Lumpur	2012-01-20
+6823225	Mukim Empat	Mukim Empat	Mukim 4,Mukim Empat	5.39696	100.41312	A	ADM3	MY		09		6823225		0		6	Asia/Kuala_Lumpur	2012-01-20
+6823226	Mukim Satu	Mukim Satu	Mukim 1,Mukim Satu	5.38328	100.39268	A	ADM3	MY		09		6823226		0		10	Asia/Kuala_Lumpur	2012-01-20
+6823230	Mukim Lima Belas	Mukim Lima Belas	Mukim 15,Mukim Lima Belas	5.40628	100.37897	A	ADM3	MY		09		6823230		0		9	Asia/Kuala_Lumpur	2012-01-20
+6823234	Mukim Enam Belas	Mukim Enam Belas	Mukim 16,Mukim Enam Belas	5.41104	100.26672	A	ADM3	MY		09		6823234		0		469	Asia/Kuala_Lumpur	2012-01-20
+6825502	Terap	Terap	Terap	5.31423	100.64875	A	ADM3	MY		02		6825502		0		181	Asia/Kuala_Lumpur	2012-01-20
+6825503	Sungai Batu	Sungai Batu	Sungai Batu	5.28407	100.6809	A	ADM3	MY		02		6825503		0		41	Asia/Kuala_Lumpur	2012-01-20
+6825504	Kulim	Kulim	Kulim	5.3419	100.56439	A	ADM3	MY		02		6825504		0		141	Asia/Kuala_Lumpur	2012-01-20
+6833179	Mukim C	Mukim C	Mukim C	5.36678	100.19443	A	ADM3	MY		09		6833179		0		5	Asia/Kuala_Lumpur	2012-01-20
+6833180	Mukim E	Mukim E	Mukim E	5.35505	100.21662	A	ADM3	MY		09		6833180		0		7	Asia/Kuala_Lumpur	2012-01-20
+6833182	Mukim Lima	Mukim Lima	Mukim 5,Mukim Lima	5.36242	100.25226	A	ADM3	MY		09		6833182		0		297	Asia/Kuala_Lumpur	2012-01-20
+6833185	Mukim Tiga Belas	Mukim Tiga Belas	Mukim 13,Mukim Tiga Belas	5.36414	100.28398	A	ADM3	MY		09		6833185		0		282	Asia/Kuala_Lumpur	2012-01-20
+6833192	Mukim Enam	Mukim Enam	Mukim 6,Mukim Enam	5.37386	100.41203	A	ADM3	MY		09		6833192		0		4	Asia/Kuala_Lumpur	2012-01-20
+6843604	Mukim Dua Belas	Mukim Dua Belas	Mukim 12,Mukim Dua Belas	5.23653	100.47924	A	ADM3	MY		09		6843604		0		7	Asia/Kuala_Lumpur	2012-01-20
+6843758	Mukim Empat	Mukim Empat	Mukim 4,Mukim Empat	5.22739	100.52113	A	ADM3	MY		09		6843758		0		61	Asia/Kuala_Lumpur	2012-01-20
+6844165	Mukim Lima	Mukim Lima	Mukim 5,Mukim Lima	5.20823	100.51945	A	ADM3	MY		09		6844165		0		19	Asia/Kuala_Lumpur	2012-01-20
+6844580	Mukim Enam	Mukim Enam	Mukim 6,Mukim Enam	5.1931	100.5165	A	ADM3	MY		09		6844580		0		25	Asia/Kuala_Lumpur	2012-01-20
+6844930	Mukim Sebelas	Mukim Sebelas	Mukim 11,Mukim Sebelas	5.19098	100.46193	A	ADM3	MY		09		6844930		0		11	Asia/Kuala_Lumpur	2012-01-20
+6844941	Mukim Tujuh	Mukim Tujuh	Mukim 7,Mukim Tujuh	5.17427	100.52139	A	ADM3	MY		09		6844941		0		16	Asia/Kuala_Lumpur	2012-01-20
+6847175	Mukim Delapan	Mukim Delapan	Mukim 8,Mukim Delapan	5.15859	100.53034	A	ADM3	MY		09		6847175		0		28	Asia/Kuala_Lumpur	2012-01-20
+6847221	Mukim Sepuluh	Mukim Sepuluh	Mukim 10,Mukim Sepuluh	5.14064	100.42549	A	ADM3	MY		09		6847221		0		2	Asia/Kuala_Lumpur	2012-01-20
+6854607	Relau	Relau	Relau	5.23699	100.56572	A	ADM3	MY		02		6854607		0		173	Asia/Kuala_Lumpur	2012-01-20
+6854631	Serdang	Serdang	Serdang	5.21002	100.63287	A	ADM3	MY		02		6854631		0		31	Asia/Kuala_Lumpur	2012-01-20
+6854645	Selama	Selama	Selama	5.18079	100.67083	A	ADM3	MY		07		6854645		0		26	Asia/Kuala_Lumpur	2012-01-20
+6854881	Bagan Samak	Bagan Samak	Bagan Samak	5.15375	100.58768	A	ADM3	MY		02		6854881		0		28	Asia/Kuala_Lumpur	2012-01-20
+6854887	Sungai Kechil	Sungai Kechil	Sungai Kechil	5.19168	100.55927	A	ADM3	MY		02		6854887		0		119	Asia/Kuala_Lumpur	2012-01-20
+6857353	Junjong	Junjong	Junjong	5.27282	100.56577	A	ADM3	MY		02		6857353		0		131	Asia/Kuala_Lumpur	2012-01-20
+6857844	Kuala Selama	Kuala Selama	Kuala Selama,Mukim Kuala Selama	5.26558	100.6608	A	ADM3	MY		02		6857844		0		38	Asia/Kuala_Lumpur	2012-01-20
+6859110	Sedim	Sedim	Sedim	5.40114	100.72584	A	ADM3	MY		02		6859110		0		45	Asia/Kuala_Lumpur	2012-01-20
+6859274	Mukim Dua Belas	Mukim Dua Belas	Mukim 12,Mukim Dua Belas	5.49444	100.50786	A	ADM3	MY		09		6859274		0		14	Asia/Kuala_Lumpur	2012-01-20
+6859275	Mukim Tiga Belas	Mukim Tiga Belas	Mukim 13,Mukim Tiga Belas	5.44668	100.50563	A	ADM3	MY		09		6859275		0		27	Asia/Kuala_Lumpur	2012-01-20
+6862002	Bandar Nibong Tebal	Bandar Nibong Tebal	Bandar Nibong Tebal	5.17209	100.48134	A	ADM3	MY		09		6862002		0		7	Asia/Kuala_Lumpur	2012-01-20
+6862004	Mukim Sembilan	Mukim Sembilan	Mukim 9,Mukim Sembilan	5.13823	100.47463	A	ADM3	MY		09		6862004		0		7	Asia/Kuala_Lumpur	2012-01-20
+6862034	Bandar Sungai Bakap	Bandar Sungai Bakap	Bandar Sungai Bakap	5.22106	100.50055	A	ADM3	MY		09		6862034		0		18	Asia/Kuala_Lumpur	2012-01-20
+6862046	Jabi	Jabi	Jabi	5.64859	102.61248	A	ADM3	MY		13		6862046		0		36	Asia/Kuala_Lumpur	2012-01-20
+6862343	Pantai	Pantai	Pantai	5.64084	102.73417	A	ADM3	MY		13		6862343		0		21	Asia/Kuala_Lumpur	2012-01-20
+6862359	Setiu	Setiu	Setiu	5.55008	102.73551	A	ADM3	MY		13		6862359		0		15	Asia/Kuala_Lumpur	2012-01-20
+6874087	Tasik	Tasik	Tasik	5.5423	102.77975	A	ADM3	MY		13		6874087		0		37	Asia/Kuala_Lumpur	2012-01-20
+6875829	Permatang Pasir	Permatang Pasir	Permatang Pasir	5.1408	100.51937	A	ADM3	MY		02		6875829		0		16	Asia/Kuala_Lumpur	2012-01-20
+6893767	Kuala Besut	Kuala Besut	Kuala Besut	5.83021	102.54215	A	ADM3	MY		13		6893767		0		9	Asia/Kuala_Lumpur	2012-01-20
+6893782	Tembila	Tembila	Tembila	5.75329	102.61941	A	ADM3	MY		13		6893782		0		9	Asia/Kuala_Lumpur	2012-01-20
+6893797	Kubang Bemban	Kubang Bemban	Kubang Bemban	5.75289	102.54529	A	ADM3	MY		13		6893797		0		8	Asia/Kuala_Lumpur	2012-01-20
+6893810	Kampung Raja	Kampung Raja	Kampung Raja	5.77912	102.56084	A	ADM3	MY		13		6893810		0		6	Asia/Kuala_Lumpur	2012-01-20
+6893814	Keluang	Keluang	Keluang	5.80105	102.58753	A	ADM3	MY		13		6893814		0		5	Asia/Kuala_Lumpur	2012-01-20
+6893815	Bukit Peteri	Bukit Peteri	Bukit Peteri	5.77205	102.50257	A	ADM3	MY		13		6893815		0		17	Asia/Kuala_Lumpur	2012-01-20
+6896278	Caluk	Caluk	Caluk	5.52019	102.83624	A	ADM3	MY		13		6896278		0		14	Asia/Kuala_Lumpur	2012-01-20
+6941918	Kelatan	Kelatan		5.25	102	A	ADM3	MY		03		6941918		0		274	Asia/Kuala_Lumpur	2009-06-09
+7067979	Jeli	Jeli	Jeli	5.71493	101.88417	A	ADM3	MY		03		7067979		0		80	Asia/Kuala_Lumpur	2012-01-20
+7067992	Temangan	Temangan	Temangan	5.65983	102.15328	A	ADM3	MY		03		7067992		0		62	Asia/Kuala_Lumpur	2012-01-20
+7068003	Belimbing	Belimbing	Belimbang,Belimbing	5.64987	101.71694	A	ADM3	MY		03		7068003		0		615	Asia/Kuala_Lumpur	2012-01-20
+7068004	Kuala Balah	Kuala Balah	Kuala Balah	5.49228	101.87059	A	ADM3	MY		03		7068004		0		199	Asia/Kuala_Lumpur	2012-01-20
+7068005	Batu Mengkebang	Batu Mengkebang	Batu Mengkebang	5.57837	102.22934	A	ADM3	MY		03		7068005		0		53	Asia/Kuala_Lumpur	2012-01-20
+7068015	Sokor	Sokor	Sokor	5.62839	102.04356	A	ADM3	MY		03		7068015		0		163	Asia/Kuala_Lumpur	2012-01-20
+7068025	Hulu Kusial	Hulu Kusial	Hulu Kusial	5.73383	102.06959	A	ADM3	MY		03		7068025		0		34	Asia/Kuala_Lumpur	2012-01-20
+7068031	Pelagat	Pelagat	Pelagat	5.72568	102.44472	A	ADM3	MY		13		7068031		0		45	Asia/Kuala_Lumpur	2012-01-20
+7068035	Panyit	Panyit	Panyit	5.69371	102.20672	A	ADM3	MY		03		7068035		0		45	Asia/Kuala_Lumpur	2012-01-20
+7068038	Jedok	Jedok	Jedok	5.84377	101.9818	A	ADM3	MY		03		7068038		0		53	Asia/Kuala_Lumpur	2012-01-20
+7068051	Bunut Susu	Bunut Susu	Bunut Susu	6.10113	102.14406	A	ADM3	MY		03		7068051		0		8	Asia/Kuala_Lumpur	2012-01-20
+7068059	Gunong	Gunong	Gunong	5.9713	102.36086	A	ADM3	MY		03		7068059		0		5	Asia/Kuala_Lumpur	2012-01-20
+7068060	Kubang Gadong	Kubang Gadong	Kubang Gadong	6.07877	102.12041	A	ADM3	MY		03		7068060		0		7	Asia/Kuala_Lumpur	2012-01-20
+7068065	Kusial	Kusial	Kusial	5.84884	102.10926	A	ADM3	MY		03		7068065		0		29	Asia/Kuala_Lumpur	2012-01-20
+7068066	Badang	Badang	Badang	6.18642	102.26744	A	ADM3	MY		03		7068066		0		8	Asia/Kuala_Lumpur	2012-01-20
+7068068	Telong	Telong	Telong	5.92481	102.42163	A	ADM3	MY		03		7068068		0		4	Asia/Kuala_Lumpur	2012-01-20
+7068074	Pangkal Meleret	Pangkal Meleret	Pangkal Meleret	5.7713	102.17351	A	ADM3	MY		03		7068074		0		22	Asia/Kuala_Lumpur	2012-01-20
+7068075	Kemumin	Kemumin	Kemumin	6.16404	102.30364	A	ADM3	MY		03		7068075		0		6	Asia/Kuala_Lumpur	2012-01-20
+7068076	Mahligai	Mahligai	Mahligai	5.94778	102.31296	A	ADM3	MY		03		7068076		0		10	Asia/Kuala_Lumpur	2012-01-20
+7068081	Labok	Labok	Labok	5.81509	102.22067	A	ADM3	MY		03		7068081		0		41	Asia/Kuala_Lumpur	2012-01-20
+7068082	Panji	Panji	Panji	6.13002	102.28137	A	ADM3	MY		03		7068082		0		14	Asia/Kuala_Lumpur	2012-01-20
+7068084	Bukit Jawa	Bukit Jawa	Bukit Jawa	5.91095	102.31221	A	ADM3	MY		03		7068084		0		22	Asia/Kuala_Lumpur	2012-01-20
+7068085	Alor Pasir	Alor Pasir	Alor Pasir	6.05443	102.06125	A	ADM3	MY		03		7068085		0		16	Asia/Kuala_Lumpur	2012-01-20
+7068089	Pulai Chondong	Pulai Chondong	Pulai Chondong	5.89235	102.21175	A	ADM3	MY		03		7068089		0		17	Asia/Kuala_Lumpur	2012-01-20
+7068090	Sering	Sering	Sering	6.12871	102.328	A	ADM3	MY		03		7068090		0		5	Asia/Kuala_Lumpur	2012-01-20
+7068091	Peringat	Peringat	Peringat	5.9873	102.29568	A	ADM3	MY		03		7068091		0		18	Asia/Kuala_Lumpur	2012-01-20
+7068095	Ketereh	Ketereh	Ketereh	5.94602	102.23352	A	ADM3	MY		03		7068095		0		23	Asia/Kuala_Lumpur	2012-01-20
+7068096	Tawang	Tawang	Tawang	6.0992	102.33853	A	ADM3	MY		03		7068096		0		4	Asia/Kuala_Lumpur	2012-01-20
+7068098	Semerak	Semerak	Semerak	5.8474	102.46214	A	ADM3	MY		03		7068098		0		4	Asia/Kuala_Lumpur	2012-01-20
+7068102	Chetak	Chetak	Chetak	5.93157	102.17453	A	ADM3	MY		03		7068102		0		23	Asia/Kuala_Lumpur	2012-01-20
+7068103	Perupok	Perupok	Perupok	6.09667	102.37956	A	ADM3	MY		03		7068103		0		4	Asia/Kuala_Lumpur	2012-01-20
+7068105	Bukit Awang	Bukit Awang	Bukit Awang	5.78115	102.45	A	ADM3	MY		03		7068105		0		8	Asia/Kuala_Lumpur	2012-01-20
+7068109	Kuala Lemal	Kuala Lemal	Kuala Lemal	5.99072	102.12169	A	ADM3	MY		03		7068109		0		12	Asia/Kuala_Lumpur	2012-01-20
+7068110	Tanjong Pauh	Tanjong Pauh	Tanjong Pauh	6.0687	102.3642	A	ADM3	MY		03		7068110		0		7	Asia/Kuala_Lumpur	2012-01-20
+7068112	Limbongan	Limbongan	Limbongan	5.8271	102.40694	A	ADM3	MY		03		7068112		0		5	Asia/Kuala_Lumpur	2012-01-20
+7068116	Kangkong	Kangkong	Kangkong	5.92226	102.09162	A	ADM3	MY		03		7068116		0		21	Asia/Kuala_Lumpur	2012-01-20
+7068117	Beklam	Beklam	Bekelam,Beklam	6.0314	102.34336	A	ADM3	MY		03		7068117		0		3	Asia/Kuala_Lumpur	2012-01-20
+7068119	Gong Datok	Gong Datok	Gong Datok	5.78726	102.39503	A	ADM3	MY		03		7068119		0		33	Asia/Kuala_Lumpur	2012-01-20
+7068122	Gual Periok	Gual Periok	Gual Periok	5.9741	102.0534	A	ADM3	MY		03		7068122		0		18	Asia/Kuala_Lumpur	2012-01-20
+7068123	Melawi	Melawi	Melawi	5.99958	102.40655	A	ADM3	MY		03		7068123		0		8	Asia/Kuala_Lumpur	2012-01-20
+7068124	Jeram	Jeram	Jeram	5.78265	102.3277	A	ADM3	MY		03		7068124		0		118	Asia/Kuala_Lumpur	2012-01-20
+7068128	Banggu	Banggu	Banggu	6.05957	102.32061	A	ADM3	MY		03		7068128		0		7	Asia/Kuala_Lumpur	2012-01-20
+7068130	Padang Pak Amat	Padang Pak Amat	Padang Pak Amat	5.8329	102.35218	A	ADM3	MY		03		7068130		0		33	Asia/Kuala_Lumpur	2012-01-20
+7068132	Limbat	Limbat	Limbat	6.04699	102.27716	A	ADM3	MY		03		7068132		0		9	Asia/Kuala_Lumpur	2012-01-20
+7068134	Bukit Abal	Bukit Abal	Bukit Abal	5.84181	102.30268	A	ADM3	MY		03		7068134		0		37	Asia/Kuala_Lumpur	2012-01-20
+7068137	Kubang Kerian	Kubang Kerian	Kubang Kerian	6.09661	102.26044	A	ADM3	MY		03		7068137		0		4	Asia/Kuala_Lumpur	2012-01-20
+7068140	Salor	Salor	Salor	6.0279	102.18156	A	ADM3	MY		03		7068140		0		16	Asia/Kuala_Lumpur	2012-01-20
+7068142	Kota	Kota	Kota	6.08549	102.25127	A	ADM3	MY		03		7068142		0		12	Asia/Kuala_Lumpur	2012-01-20
+7068158	Kubang Sepat	Kubang Sepat	Kubang Sepat	6.07203	102.19362	A	ADM3	MY		03		7068158		0		15	Asia/Kuala_Lumpur	2012-01-20
+7068161	Kebakat	Kebakat	Kebakat	6.14844	102.20212	A	ADM3	MY		03		7068161		0		3	Asia/Kuala_Lumpur	2012-01-20
+7068165	Terbak	Terbak	Perbak,Terbak	6.17168	102.17328	A	ADM3	MY		03		7068165		0		3	Asia/Kuala_Lumpur	2012-01-20
+7068173	Jal Besar	Jal Besar	Jal Besar	6.16958	102.11527	A	ADM3	MY		03		7068173		0		6	Asia/Kuala_Lumpur	2012-01-20
+7068177	Sungai Pinang	Sungai Pinang	Sungai Pinang	6.18566	102.22203	A	ADM3	MY		03		7068177		0		13	Asia/Kuala_Lumpur	2012-01-20
+7068184	Pengkalan Kubor	Pengkalan Kubor	Pengkalan Kubor	6.18645	102.09235	A	ADM3	MY		03		7068184		0		5	Asia/Kuala_Lumpur	2012-01-20
+7068187	Beta	Beta	Beta	6.00106	102.20466	A	ADM3	MY		03		7068187		0		13	Asia/Kuala_Lumpur	2012-01-20
+7068267	Pasir Akar	Pasir Akar	Pasir Akar	5.64888	102.47355	A	ADM3	MY		13		7068267		0		21	Asia/Kuala_Lumpur	2012-01-20
+7068268	Lubuk Kawah	Lubuk Kawah	Lubuk Kawah	5.69111	102.47248	A	ADM3	MY		13		7068268		0		14	Asia/Kuala_Lumpur	2012-01-20
+7068269	Tenang	Tenang	Tenang	5.58353	102.5187	A	ADM3	MY		13		7068269		0		103	Asia/Kuala_Lumpur	2012-01-20
+7068275	Hulu Sat	Hulu Sat	Hulu Sat	5.71528	102.32837	A	ADM3	MY		03		7068275		0		265	Asia/Kuala_Lumpur	2012-01-20
+9407468	Tanah Rata	Tanah Rata		4.47422	101.37767	A	ADM3	MY		06	0803	9407468		0		1452	Asia/Kuala_Lumpur	2021-04-20

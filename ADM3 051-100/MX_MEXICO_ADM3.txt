@@ -1,0 +1,2 @@
+﻿6940322	Presidencia Municipal de Tonatico	Presidencia Municipal de Tonatico		18.80203	-99.67095	A	ADM3	MX		15		6940322		0		1651	America/Mexico_City	2009-03-29
+7778822	Isla Espiritu Santo	Isla Espiritu Santo		24.5	-110.367	A	ADM3	MX		03	003	7778822		0		286	America/Mazatlan	2014-04-12

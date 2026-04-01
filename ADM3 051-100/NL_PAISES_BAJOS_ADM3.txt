@@ -1,0 +1,16 @@
+﻿11525037	Loosduinen	Loosduinen		52.0551	4.22947	A	ADM3	NL		11	0518	1		0		3	Europe/Amsterdam	2017-05-08
+11525038	Escamp	Escamp		52.04406	4.2766	A	ADM3	NL		11	0518	2		0		2	Europe/Amsterdam	2017-05-08
+11525039	Segbroek	Segbroek		52.07703	4.26239	A	ADM3	NL		11	0518	3		0		5	Europe/Amsterdam	2017-05-08
+11525040	Scheveningen	Scheveningen		52.1029	4.28829	A	ADM3	NL		11	0518	4		0		11	Europe/Amsterdam	2017-05-08
+11525041	Centrum	Centrum		52.07558	4.30587	A	ADM3	NL		11	0518	5		0		7	Europe/Amsterdam	2017-05-08
+11525042	Laak	Laak		52.06321	4.32838	A	ADM3	NL		11	0518	6		0		3	Europe/Amsterdam	2017-05-08
+11525043	Haagse Hout	Haagse Hout		52.09195	4.3382	A	ADM3	NL		11	0518	7		0		9	Europe/Amsterdam	2017-05-08
+11525044	Leidschenveen-Ypenburg	Leidschenveen-Ypenburg		52.05398	4.3806	A	ADM3	NL		11	0518	8		0		-3	Europe/Amsterdam	2017-05-08
+11525045	Noord	Noord		52.39995	4.97615	A	ADM3	NL		07	0363	N		0		-3	Europe/Amsterdam	2017-05-08
+11525046	Centrum	Centrum		52.37161	4.89974	A	ADM3	NL		07	0363	A		0		8	Europe/Amsterdam	2017-05-08
+11525047	Westpoort	Westpoort		52.40975	4.80036	A	ADM3	NL		07	0363	B		0		0	Europe/Amsterdam	2017-05-08
+11525048	West	West		52.37904	4.8629	A	ADM3	NL		07	0363	E		0		1	Europe/Amsterdam	2017-05-08
+11525049	Nieuw-West	Nieuw-West		52.36642	4.80332	A	ADM3	NL		07	0363	F		0		-1	Europe/Amsterdam	2017-05-08
+11525050	Zuid	Zuid		52.34134	4.87473	A	ADM3	NL		07	0363	K		0		3	Europe/Amsterdam	2017-05-08
+11525051	Oost	Oost		52.35723	4.96251	A	ADM3	NL		07	0363	M		0		0	Europe/Amsterdam	2017-05-08
+11525052	Zuidoost	Zuidoost		52.30655	4.97325	A	ADM3	NL		07	0363	T		0		2	Europe/Amsterdam	2017-05-08

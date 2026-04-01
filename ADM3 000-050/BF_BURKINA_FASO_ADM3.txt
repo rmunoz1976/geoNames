@@ -1,0 +1,50 @@
+﻿2358085	Mani	Mani	Mane,Mani,Manni,Manni Department,Mané	13.26	-0.20944	A	ADM3	BF		08	21	2358085		0		264	Africa/Ouagadougou	2016-07-13
+2362499	Bilanga	Bilanga	Bilanga,Bilanga Department	12.54449	-0.03414	A	ADM3	BF		08	21	2362499		0		285	Africa/Ouagadougou	2016-10-02
+8288554	Oula Department	Oula Department	Oula	13.4145	-2.2321	A	ADM3	BF		10	76	8288554		0		344	Africa/Ouagadougou	2014-11-01
+8288555	Bottou Department	Bottou Department	Bottou	12.5154	1.9957	A	ADM3	BF		08	42	8288555		0		257	Africa/Ouagadougou	2014-11-01
+8288556	Samogohiri Department	Samogohiri Department	Samogohiri	10.9551	-5.1055	A	ADM3	BF		09	54	8288556		0		505	Africa/Ouagadougou	2014-11-01
+8288557	Bassi Department	Bassi Department	Bassi	13.2846	-2.2046	A	ADM3	BF		10	78	8288557		0		327	Africa/Ouagadougou	2014-01-04
+8288558	Dialgaye Department	Dialgaye Department	Dialgaye	11.9029	-0.3678	A	ADM3	BF		04	28	8288558		0		293	Africa/Ouagadougou	2014-11-01
+8288559	Soudougui Department	Soudougui Department	Soudougui	11.3258	0.4049	A	ADM3	BF		04	59	8288559		0		231	Africa/Ouagadougou	2014-11-01
+8288560	Pibaore Department	Pibaore Department		12.8	-0.7849	A	ADM3	BF		05	70	8288560		0		352	Africa/Ouagadougou	2015-02-13
+8288561	Ouindigui Department	Ouindigui Department	Ouindigui	13.6191	-1.893	A	ADM3	BF		10	62	8288561		0		354	Africa/Ouagadougou	2014-11-01
+11203900	Nandiala	Nandiala		12.3856	-2.1605	A	ADM3	BF		06	19	11203900		0		327	Africa/Ouagadougou	2016-12-18
+11203967	Ziniaré	Ziniare		12.58606	-1.29703	A	ADM3	BF		11	68	11203967		0		306	Africa/Ouagadougou	2016-12-18
+11203991	Safané Department	Safane Department		12.13333	-3.21667	A	ADM3	BF		01	63	11203991		0		314	Africa/Ouagadougou	2017-01-25
+11204000	Tiébélé Department	Tiebele Department		11.1	-0.95	A	ADM3	BF		07	65	11204000		0		271	Africa/Ouagadougou	2016-12-17
+11204003	Matiacoali Department	Matiacoali Department		12.35375	1.03057	A	ADM3	BF		08	50	11204003		0		302	Africa/Ouagadougou	2016-12-18
+11204056	Djibo	Djibo		14.10436	-1.63336	A	ADM3	BF		12	40	11204056		0		304	Africa/Ouagadougou	2016-12-18
+11204061	Pilimpikou Department	Pilimpikou Department		12.7167	-2.2667	A	ADM3	BF		10	34	11204061		0		332	Africa/Ouagadougou	2016-12-18
+11204418	Bogandé Department	Bogande Department		12.967	-0.15	A	ADM3	BF		08	21	11204418		0		289	Africa/Ouagadougou	2016-12-17
+11204436	Solenzo Department	Solenzo Department		12.18333	-4.08333	A	ADM3	BF		01	46	11204436		0		319	Africa/Ouagadougou	2016-12-18
+11204581	Garango Department	Garango Department		11.8	-0.55	A	ADM3	BF		04	49	11204581		0		306	Africa/Ouagadougou	2016-12-18
+11204610	Ténado Department	Tenado Department		12.2	-2.6	A	ADM3	BF		06	36	11204610		0		284	Africa/Ouagadougou	2016-12-18
+11204699	Tambaga Department	Tambaga Department		11.8	1.73333	A	ADM3	BF		08	42	11204699		0		242	Africa/Ouagadougou	2016-12-17
+11204904	Samorogouan	Samorogouan		11.39409	-4.9378	A	ADM3	BF		09	54	11204904		0		372	Africa/Ouagadougou	2016-12-18
+11205019	Kantchari	Kantchari		12.48333	1.51667	A	ADM3	BF		08	42	11205019		0		278	Africa/Ouagadougou	2016-12-20
+11205107	Zonsé Department	Zonse Department		11.355	-0.635	A	ADM3	BF		04	49	11205107		0		248	Africa/Ouagadougou	2016-12-18
+11205109	Kouka	Kouka		11.9	-4.33333	A	ADM3	BF		01	46	11205109		0		317	Africa/Ouagadougou	2016-12-18
+11205452	Barani Department	Barani Department		13.16812	-3.89101	A	ADM3	BF		01	58	11205452		50000		282	Africa/Ouagadougou	2016-12-18
+11205508	Bougnounou Department	Bougnounou Department		11.80082	-1.98458	A	ADM3	BF		06	77	11205508		22000		343	Africa/Ouagadougou	2016-08-06
+11205616	Bokin Department	Bokin Department		13.0044	-1.79245	A	ADM3	BF		10	34	11205616		0		325	Africa/Ouagadougou	2016-12-18
+11205618	Boussouma Department	Boussouma Department		13.2167	-1.53333	A	ADM3	BF		x15		11205618		0		331	Africa/Ouagadougou	2016-08-03
+11205633	Tougouri Department	Tougouri Department		13.31528	-0.51806	A	ADM3	BF		05	64	11205633		0		277	Africa/Ouagadougou	2016-12-20
+11205665	Département de Fada N'gourma	Departement de Fada N'gourma		12.0667	0.35	A	ADM3	BF		x22		11205665		0		295	Africa/Ouagadougou	2016-08-04
+11205728	Dano Department	Dano Department		11.14068	-3.0639	A	ADM3	BF		13	52	11205728		0		295	Africa/Ouagadougou	2016-12-20
+11205731	Arbinda Department	Arbinda Department		14.22528	-0.85972	A	ADM3	BF		12	40	11205731		0		347	Africa/Ouagadougou	2016-12-20
+11205740	Tchériba Department	Tcheriba Department		12.26667	-3.08333	A	ADM3	BF		01	63	11205740		0		303	Africa/Ouagadougou	2016-12-20
+11238552	Kogho	Kogho		12.64818	-0.67351	A	ADM3	BF		11	20	11238552		0		310	Africa/Ouagadougou	2018-12-21
+11238893	Oronkua Department	Oronkua Department		11.2833	-3.1	A	ADM3	BF		13	52	11238893		0		317	Africa/Ouagadougou	2016-12-20
+11239699	Kougny	Kougny		12.77474	-3.1105	A	ADM3	BF		01	66	11239699		0		272	Africa/Ouagadougou	2016-12-20
+11249270	Fada N'gourma Department	Fada N'gourma Department		12.0667	0.35	A	ADM3	BF		08	50	11249270		0		295	Africa/Ouagadougou	2019-02-28
+11256916	Niangoloko	Niangoloko		10.28333	-4.91667	A	ADM3	BF		02	55	11256916		0		353	Africa/Ouagadougou	2016-09-12
+11256933	Ouo Department	Ouo Department		10.4	-3.83333	A	ADM3	BF		02	55	11256933		0		323	Africa/Ouagadougou	2016-09-16
+11256935	Koper Department	Koper Department		11.06667	-2.9	A	ADM3	BF		13	11256935	11256935		0		262	Africa/Ouagadougou	2016-09-16
+11257192	Diabo	Diabo		12.01667	-0.03333	A	ADM3	BF		08	50	11257192		0		314	Africa/Ouagadougou	2016-09-17
+11257296	Gounghin Department	Gounghin Department		12.06671	-0.15484	A	ADM3	BF		04	28	11257296		0		325	Africa/Ouagadougou	2016-11-05
+11257297	Banh	Banh		14.083	-2.45	A	ADM3	BF		10	62	11257297		0		292	Africa/Ouagadougou	2016-11-05
+11257414	Kona	Kona		12.06667	-3.4333	A	ADM3	BF		01	63	11257414		0		298	Africa/Ouagadougou	2016-11-05
+11288510	Tansila	Tansila		12.43333	-4.38333	A	ADM3	BF		01	46	11288510		0		436	Africa/Ouagadougou	2016-12-18
+11352050	Oursi	Oursi		14.683	-0.45	A	ADM3	BF		12	33	11352050		0		307	Africa/Ouagadougou	2016-12-20
+11353025	Koumbri	Koumbri		13.848	-2.417	A	ADM3	BF		x43		11353025		0		352	Africa/Ouagadougou	2016-12-02
+11427332	Korsimoro	Korsimoro		12.81667	-1.06667	A	ADM3	BF		05	70	11427332		0		283	Africa/Ouagadougou	2017-01-16

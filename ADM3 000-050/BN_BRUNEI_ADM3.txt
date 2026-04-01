@@ -1,0 +1,6 @@
+﻿1820483	Kumbang Pasang	Kumbang Pasang	Kampong Kumbang Pasang,Kampung Kumbang Pasang	4.90484	114.93003	A	ADM3	BN		00		1820483		0		11	Asia/Brunei	2018-04-16
+1820555	Tanah Burok	Tanah Burok	Kampong Tanah Burok,Kampung Tanah Burok	4.82752	114.67734	A	ADM3	BN		04		1820555		0		13	Asia/Brunei	2018-04-05
+1820661	Kiulap	Kiulap	Kampong Kiulap,Kampung Kiulap	4.89707	114.92692	A	ADM3	BN		02	11821301	1820661		1788		6	Asia/Brunei	2018-02-27
+1820663	Kiarong	Kiarong	Kampong Kiarong,Kampung Kiarong	4.89462	114.91855	A	ADM3	BN		02	11821301	1820663		5556		25	Asia/Brunei	2018-02-27
+1820709	Berangan	Berangan	Kampong Berangan,Kampung Berangan	4.89565	114.94549	A	ADM3	BN		02		1820709		0		30	Asia/Brunei	2018-04-16
+11593813	Mukim Bangar	Mukim Bangar		4.71424	115.05621	A	ADM3	BN		03		11593813		0		14	Asia/Brunei	2017-06-26

@@ -1,0 +1,539 @@
+﻿3902857	Tiwanacu	Tiwanacu	Tiahuanaco,Tiahuanacu,Tiauanako,Tiuanako,Tiuanaku,Tivanako,Tiwanacu,Tiwanaku,Tiwanaku Municipality,Тиауанако,Тиванако,Тиуанако,Тиуанаку	-16.55228	-68.68108	A	ADM3	BO		04	0208	3902857		12189		3863	America/La_Paz	2017-03-05
+3918378	El Alto	El Alto	El Alto	-16.48333	-68.18333	A	ADM3	BO		04	0201	3918378		1069331		4099	America/La_Paz	2021-11-10
+6621195	Camargo	Camargo		-20.61503	-65.19233	A	ADM3	BO		01	0107	01		15644		2457	America/La_Paz	2017-03-02
+6621196	Camataqui (Villa Abecia)	Camataqui (Villa Abecia)	Camataqui,Villa Abecia	-20.99349	-65.32109	A	ADM3	BO		01	0109	01		3514		3454	America/La_Paz	2017-03-05
+6621197	Culpina	Culpina		-20.77015	-64.67967	A	ADM3	BO		01	0109	02		17731		2055	America/La_Paz	2017-03-02
+6621198	El Villar	El Villar		-19.71457	-64.32306	A	ADM3	BO		01	0104	05		4465		1739	America/La_Paz	2017-03-02
+6621199	Huacareta	Huacareta		-20.36738	-64.00421	A	ADM3	BO		01	0105	02		8349		1122	America/La_Paz	2017-03-02
+6621200	Icla	Icla		-19.4577	-64.78358	A	ADM3	BO		01	0103	04		7774		2513	America/La_Paz	2017-03-02
+6621201	Incahuasi	Incahuasi		-20.59394	-65.01999	A	ADM3	BO		01	0107	03		13056		3341	America/La_Paz	2017-03-02
+6621202	Las Carreras	Las Carreras		-21.28397	-65.27215	A	ADM3	BO		01	0109	03		4088		2521	America/La_Paz	2017-03-02
+6621203	Macharetí	Machareti		-20.75485	-63.2328	A	ADM3	BO		01	0110	03		7418		693	America/La_Paz	2017-03-02
+6621204	Mojocoya	Mojocoya		-18.82208	-64.62675	A	ADM3	BO		01	0103	03		8068		2471	America/La_Paz	2017-03-02
+6621205	Monteagudo	Monteagudo		-19.94885	-64.06197	A	ADM3	BO		01	0105	01		24303		2072	America/La_Paz	2017-03-02
+6621206	Padilla	Padilla		-19.72227	-64.35346	A	ADM3	BO		01	0104	01		10383		1867	America/La_Paz	2017-03-02
+6621207	Poroma	Poroma		-18.86118	-65.35749	A	ADM3	BO		01	0101	03		17377		2787	America/La_Paz	2017-03-02
+6621208	Presto	Presto		-18.89322	-64.9506	A	ADM3	BO		01	0103	02		12385		2504	America/La_Paz	2017-03-02
+6621209	San Lucas	San Lucas		-20.15967	-64.93116	A	ADM3	BO		01	0107	02		32520		3673	America/La_Paz	2017-03-02
+6621210	Sopachuy	Sopachuy		-19.45101	-64.52854	A	ADM3	BO		01	0104	03		7312		2294	America/La_Paz	2017-03-02
+6621211	Sucre (Capital)	Sucre (Capital)		-18.90659	-65.22677	A	ADM3	BO		01	0101	01		261201		2821	America/La_Paz	2017-03-02
+6621212	Tarabuco	Tarabuco		-19.15077	-64.90259	A	ADM3	BO		01	0106	01		16944		3251	America/La_Paz	2017-03-02
+6621213	Tarvita (Villa Orías)	Tarvita (Villa Orias)		-19.76008	-64.58998	A	ADM3	BO		01	0102	02		14261		3705	America/La_Paz	2017-03-02
+6621214	Tomina	Tomina		-19.20346	-64.52316	A	ADM3	BO		01	0104	02		8494		2510	America/La_Paz	2017-03-02
+6621215	Villa Alcalá	Villa Alcala		-19.43321	-64.37467	A	ADM3	BO		01	0104	04		4902		2190	America/La_Paz	2017-03-02
+6621216	Villa Azurduy	Villa Azurduy		-20.09968	-64.4725	A	ADM3	BO		01	0102	01		10652		3135	America/La_Paz	2017-03-02
+6621217	Villa de Huacaya	Villa de Huacaya		-20.48481	-63.82822	A	ADM3	BO		01	0110	02		2541		1174	America/La_Paz	2017-03-02
+6621218	Villa Serrano	Villa Serrano		-19.027	-64.30524	A	ADM3	BO		01	0108	01		11161		2199	America/La_Paz	2017-03-02
+6621219	Villa Vaca Guzmán (Muyupampa)	Villa Vaca Guzman (Muyupampa)		-19.9655	-63.78061	A	ADM3	BO		01	0110	01		9720		1168	America/La_Paz	2017-03-02
+6621220	Villa Zudáñez (Tacopaya)	Villa Zudanez (Tacopaya)		-19.16573	-64.68875	A	ADM3	BO		01	0103	01		11362		2638	America/La_Paz	2017-03-03
+6621221	Yamparáez	Yamparaez		-19.25146	-65.07771	A	ADM3	BO		01	0106	02		10111		2615	America/La_Paz	2017-03-02
+6621222	Yotala	Yotala		-19.23331	-65.25679	A	ADM3	BO		01	0101	02		9461		2817	America/La_Paz	2017-03-02
+7576060	Entre Rios	Entre Rios		-17.19722	-64.53528	A	ADM3	BO		02	0312	7576060		31550		240	America/La_Paz	2017-03-02
+7603038	Palos Blancos	Palos Blancos		-15.58333	-67.25	A	ADM3	BO		04	0211	7603038		24731		433	America/La_Paz	2017-03-02
+7603039	Coro Coro	Coro Coro		-17.17235	-68.45374	A	ADM3	BO		04	0203	7603039		10647		4014	America/La_Paz	2017-03-02
+7603041	San Pedro	San Pedro		-11.79422	-67.92658	A	ADM3	BO		06	0902	7603041		2991		179	America/La_Paz	2017-03-02
+7729788	San Carlos	San Carlos		-17.40789	-63.73335	A	ADM3	BO		08	0704	7729788		20093		317	America/La_Paz	2017-03-02
+7729789	El Torno	El Torno		-17.99472	-63.38417	A	ADM3	BO		08	0701	7729789		49652		530	America/La_Paz	2017-03-02
+7729790	Bermejo	Bermejo		-22.7325	-64.3427	A	ADM3	BO		09	0602	7729790		34505		419	America/La_Paz	2017-03-02
+7729791	San Julian	San Julian		-16.83333	-62.8	A	ADM3	BO		08	0711	7729791		47416		240	America/La_Paz	2017-03-03
+7729794	Warnes	Warnes		-17.50136	-63.16289	A	ADM3	BO		08	0702	7729794		96406		333	America/La_Paz	2017-03-02
+7729795	Yapacani	Yapacani		-17.40278	-63.885	A	ADM3	BO		08	0704	7729795		50558		299	America/La_Paz	2017-03-03
+7729797	San Andres	San Andres		-15.0382	-64.54916	A	ADM3	BO		03	0806	7729797		12503		160	America/La_Paz	2017-03-03
+7729798	Santa Ana	Santa Ana		-13.75472	-65.57757	A	ADM3	BO		03	0804	7729798		18439		145	America/La_Paz	2017-03-03
+7729804	Vacas	Vacas		-17.56287	-65.58083	A	ADM3	BO		02	0305	7729804		8940		3684	America/La_Paz	2017-03-02
+7729805	Palca	Palca		-16.56113	-67.95311	A	ADM3	BO		04	0201	7729805		16622		3474	America/La_Paz	2017-03-02
+7729806	Vila Vila	Vila Vila		-17.94996	-65.60471	A	ADM3	BO		02	0313	7729806		5459		2622	America/La_Paz	2017-03-02
+7729844	Curahuara De Carnagas Sajama	Curahuara De Carnagas Sajama		-17.71294	-68.41834	A	ADM3	BO		05	0404	7729844		4184		3864	America/La_Paz	2017-03-03
+7729852	Colcha "K"	Colcha "K"		-20.69893	-67.31831	A	ADM3	BO		07	0509	7729852		12997		3654	America/La_Paz	2017-03-03
+7729853	San Lorenzo	San Lorenzo		-11.3747	-66.81607	A	ADM3	BO		06	0903	7729853		7652		185	America/La_Paz	2017-03-02
+7729855	Sena	Sena		-11.77565	-67.27914	A	ADM3	BO		06	0903	7729855		8258		151	America/La_Paz	2017-03-02
+7729856	Santiago de Huari	Santiago de Huari		-19.016	-66.738	A	ADM3	BO		05	10400859	7729856		13897		4164	America/La_Paz	2024-02-02
+8335101	Aiquile Municipality	Aiquile Municipality		-18.22457	-65.15442	A	ADM3	BO		02	0302	8335101		23267		2505	America/La_Paz	2017-03-02
+8335102	Alalay Municipality	Alalay Municipality		-17.68333	-65.68333	A	ADM3	BO		02	0313	8335102		3447		3993	America/La_Paz	2017-03-02
+8335103	Anzaldo Municipality	Anzaldo Municipality		-17.83333	-65.91667	A	ADM3	BO		02	0304	8335103		7192		3151	America/La_Paz	2017-03-02
+8335104	Cuchumuela Municipality	Cuchumuela Municipality		-17.63333	-65.78333	A	ADM3	BO		02	0314	8335104		2768		2896	America/La_Paz	2017-03-02
+8335105	Omereque Municipality	Omereque Municipality		-18.10667	-64.90722	A	ADM3	BO		02	0302	8335105		5643		1588	America/La_Paz	2017-03-02
+8335106	Santiago de Callapa	Santiago de Callapa		-17.23614	-68.33651	A	ADM3	BO		04	0203	8335106		7289		4377	America/La_Paz	2017-03-02
+10172957	San Borja Municipality	San Borja Municipality		-14.66667	-66.83333	A	ADM3	BO		03	3915596	10172957		40864		187	America/La_Paz	2017-03-02
+10173550	Riberalta Municipality	Riberalta Municipality		-11.5	-66.1667	A	ADM3	BO		03	0802	10173550		89022		148	America/La_Paz	2017-03-02
+10174946	Rurrenabaque	Rurrenabaque		-14.66667	-67.25	A	ADM3	BO		03	3915596	10174946		19195		307	America/La_Paz	2017-03-02
+10231270	Laja	Laja		-16.5833	-68.4167	A	ADM3	BO		04	0212	10231270		24531		3843	America/La_Paz	2017-03-02
+10235393	Mizque	Mizque		-18.01667	-65.38333	A	ADM3	BO		02	0313	10235393		26900		2139	America/La_Paz	2017-03-02
+10400294	Tinguipaya Municipality	Tinguipaya Municipality		-19.38333	-66	A	ADM3	BO		07	0501	10400294		27200		3790	America/La_Paz	2017-03-02
+10400298	San Buenaventura Municipality	San Buenaventura Municipality		-14.25	-67.83333	A	ADM3	BO		04	0215	10400298		8711		569	America/La_Paz	2017-03-02
+10400300	Ravelo Municipality	Ravelo Municipality		-18.78333	-65.55	A	ADM3	BO		07	0504	10400300		20789		3277	America/La_Paz	2017-03-02
+10400301	Tacopaya Municipality	Tacopaya Municipality		-17.8167	-66.65	A	ADM3	BO		02	0306	10400301		10253		3925	America/La_Paz	2017-03-02
+10400302	San Pedro de Buena Vista	San Pedro de Buena Vista		-18.31667	-65.96667	A	ADM3	BO		07	0505	10400302		30012		2854	America/La_Paz	2017-03-03
+10400303	Morochata Municipality	Morochata Municipality		-16.25	-66.4167	A	ADM3	BO		02	0303	10400303		12797		1563	America/La_Paz	2017-03-02
+10400304	Caripuyo	Caripuyo		-18.16667	-66.53333	A	ADM3	BO		07	0507	10400304		8704		3724	America/La_Paz	2017-03-02
+10400330	Mocomoco Municipality	Mocomoco Municipality		-15.41667	-69.08333	A	ADM3	BO		04	0204	10400330		15665		4167	America/La_Paz	2017-03-02
+10400331	Puerto Acosta Municipality	Puerto Acosta Municipality		-15.5	-69.16667	A	ADM3	BO		04	0204	10400331		11290		4212	America/La_Paz	2017-03-02
+10400332	Yunchara Municipality	Yunchara Municipality		-21.78333	-65.16667	A	ADM3	BO		09	0604	10400332		5490		4002	America/La_Paz	2017-03-03
+10400333	El Puente Municipality	El Puente Municipality		-16.2767	-62.9425	A	ADM3	BO		08	11184253	10400333		14205		302	America/La_Paz	2017-03-02
+10400334	Ocuri Municipality	Ocuri Municipality		-18.83333	-65.8	A	ADM3	BO		07	0504	10400334		16118		4110	America/La_Paz	2017-03-03
+10400335	Pocoata Municipality	Pocoata Municipality		-18.66667	-66.15	A	ADM3	BO		07	0504	10400335		26330		3353	America/La_Paz	2017-03-02
+10400336	Arque Municipality	Arque Municipality		-17.8167	-66.4	A	ADM3	BO		02	0306	10400336		10597		2751	America/La_Paz	2017-03-02
+10400339	Totora Municipality	Totora Municipality		-17.7	-65.1833	A	ADM3	BO		02	0312	10400339		14665		3283	America/La_Paz	2017-03-02
+10400340	Andamarca Municipality	Andamarca Municipality		-18.9	-67.43333	A	ADM3	BO		05	0405	10400340		2016		3753	America/La_Paz	2017-03-05
+10400341	Puerto Carabuco Municipality	Puerto Carabuco Municipality		-15.58333	-69	A	ADM3	BO		04	0204	10400341		14589		3756	America/La_Paz	2017-03-03
+10400342	Pojo Municipality	Pojo Municipality		-17.3333	-64.7	A	ADM3	BO		02	0312	10400342		10156		1475	America/La_Paz	2017-03-02
+10400343	Colquencha Municipality	Colquencha Municipality		-16.9333	-68.25	A	ADM3	BO		04	0213	10400343		9879		3987	America/La_Paz	2017-03-02
+10400344	Colquechaca Municipality	Colquechaca Municipality		-18.88333	-66.08333	A	ADM3	BO		07	0504	10400344		35199		3587	America/La_Paz	2017-03-02
+10400345	Sacaca Municipality	Sacaca Municipality		-18.1	-66.33333	A	ADM3	BO		07	0507	10400345		19611		4061	America/La_Paz	2017-03-05
+10400346	Vitichi Municipality	Vitichi Municipality		-20.4	-65.48333	A	ADM3	BO		07	0506	10400346		10646		3050	America/La_Paz	2017-03-02
+10400347	General Juan Jose Perez Municipality	General Juan Jose Perez Municipality	Charazani,Charazani Municipality,General Juan Jose Perez Municipality	-15.0833	-68.75	A	ADM3	BO		04	0216	10400347		13023		3028	America/La_Paz	2017-03-05
+10400353	Apolo Municipality	Apolo Municipality		-14.5	-68.25	A	ADM3	BO		04	0207	10400353		20308		1948	America/La_Paz	2017-03-02
+10400354	Tiraque Municipality	Tiraque Municipality		-17.43333	-65.65	A	ADM3	BO		02	8335405	10400354		21231		3793	America/La_Paz	2017-03-02
+10400356	Pasorapa Municipality	Pasorapa Municipality		-18.4	-64.5833	A	ADM3	BO		02	0302	10400356		6853		2421	America/La_Paz	2017-03-02
+10400357	Calacoto Municipality	Calacoto Municipality		-17.41667	-68.75	A	ADM3	BO		04	0203	10400357		9879		3869	America/La_Paz	2017-03-02
+10400358	Villa Tunari Municipality	Villa Tunari Municipality		-16.8333	-65.6667	A	ADM3	BO		02	0310	10400358		71386		548	America/La_Paz	2017-03-02
+10400359	Coroico Municipality	Coroico Municipality		-16.16667	-67.83333	A	ADM3	BO		04	0214	10400359		19397		2536	America/La_Paz	2017-03-02
+10400493	Caquiaviri Municipality	Caquiaviri Municipality		-17	-68.75	A	ADM3	BO		04	0203	10400493		14687		3856	America/La_Paz	2017-03-02
+10400494	Huacaraje Municipality	Huacaraje Municipality		-13.6667	-63.9667	A	ADM3	BO		03	0808	10400494		4111		143	America/La_Paz	2017-03-02
+10400495	Gutierrez	Gutierrez		-19.5	-63.41667	A	ADM3	BO		08	0707	10400495		12273		995	America/La_Paz	2017-03-03
+10400496	Capinota Municipality	Capinota Municipality		-17.8	-66.2333	A	ADM3	BO		02	0307	10400496		19477		3311	America/La_Paz	2017-03-02
+10400497	Totora Municipality	Totora Municipality	San Pedro de Totora	-17.9	-67.75	A	ADM3	BO		05	0413	10400497		5531		3728	America/La_Paz	2017-03-05
+10400498	Comanche Municipality	Comanche Municipality		-17	-68.41667	A	ADM3	BO		04	0203	10400498		3880		4118	America/La_Paz	2017-03-02
+10400499	Reyes Municipality	Reyes Municipality		-13.33333	-66.91667	A	ADM3	BO		03	3915596	10400499		13246		179	America/La_Paz	2017-03-02
+10400500	Puerto Villarroel Municipality	Puerto Villarroel Municipality		-16.9167	-64.75	A	ADM3	BO		02	0312	10400500		46627		200	America/La_Paz	2017-03-02
+10400501	Chimore Municipality	Chimore Municipality		-16.5833	-64.9167	A	ADM3	BO		02	0312	10400501		21736		209	America/La_Paz	2017-03-03
+10400503	Chayanta Municipality	Chayanta Municipality		-18.41667	-66.38333	A	ADM3	BO		07	0502	10400503		16129		3984	America/La_Paz	2017-03-02
+10400553	Llallagua Municipality	Llallagua Municipality		-18.36667	-66.6	A	ADM3	BO		07	0502	10400553		41104		4075	America/La_Paz	2017-03-02
+10400554	Desaquadero Municipality	Desaquadero Municipality		-16.6167	-68.9667	A	ADM3	BO		04	0208	10400554		6987		4047	America/La_Paz	2017-03-03
+10400555	Colomi Municipality	Colomi Municipality		-17.1667	-65.9167	A	ADM3	BO		02	0310	10400555		19285		2635	America/La_Paz	2017-03-02
+10400556	Turco Municipality	Turco Municipality		-18.16667	-68.18333	A	ADM3	BO		05	0404	10400556		5207		3855	America/La_Paz	2017-03-02
+10400558	Porongo Municipality	Porongo Municipality		-17.85333	-63.30861	A	ADM3	BO		08	0701	10400558		15317		467	America/La_Paz	2017-03-02
+10400561	Yocalla Municipality	Yocalla Municipality		-19.38333	-65.91667	A	ADM3	BO		07	0501	10400561		8979		3464	America/La_Paz	2017-03-02
+10400562	Ayopaya Municipality	Ayopaya Municipality		-17.10667	-66.80511	A	ADM3	BO		02	0303	10400562		23658		3099	America/La_Paz	2017-03-05
+10400564	Villa Rivero Municipality	Villa Rivero Municipality		-17.65	-65.6667	A	ADM3	BO		02	0314	10400564		8135		4087	America/La_Paz	2017-03-02
+10400565	Padcaya Municipality	Padcaya Municipality		-22.08333	-64.51667	A	ADM3	BO		09	0602	10400565		18681		1642	America/La_Paz	2017-03-02
+10400566	Carapari Municipality	Carapari Municipality		-21.83333	-63.88333	A	ADM3	BO		09	0603	10400566		15366		844	America/La_Paz	2017-03-05
+10400567	San Ignacio de Moxos Municipality	San Ignacio de Moxos Municipality		-15.667	-65.917	A	ADM3	BO		03	0805	10400567		21114		209	America/La_Paz	2017-03-02
+10400568	Tomave Municipality	Tomave Municipality		-20.13333	-66.35	A	ADM3	BO		07	0512	10400568		14789		3734	America/La_Paz	2017-03-02
+10400569	Caiza "D" Municipality	Caiza "D" Municipality		-20	-65.66667	A	ADM3	BO		07	3911502	10400569		12067		3187	America/La_Paz	2017-03-03
+10400570	San Pedro de Tiquina Municipality	San Pedro de Tiquina Municipality		-16.23333	-68.86667	A	ADM3	BO		04	0217	10400570		6052		3951	America/La_Paz	2017-03-02
+10400571	Santa Rosa Municipality	Santa Rosa Municipality		-13	-66.66667	A	ADM3	BO		03	3915596	10400571		9478		170	America/La_Paz	2017-03-02
+10400572	Baures Municipality	Baures Municipality		-13.5	-62.8333	A	ADM3	BO		03	0808	10400572		5965		147	America/La_Paz	2017-03-02
+10400573	Guaqui Municipality	Guaqui Municipality		-16.61667	-68.83333	A	ADM3	BO		04	0208	10400573		7278		4052	America/La_Paz	2017-03-02
+10400574	Uriondo Municipality	Uriondo Municipality		-21.76667	-64.7	A	ADM3	BO		09	0604	10400574		14781		1825	America/La_Paz	2017-03-02
+10400575	Ixiamas Municipality	Ixiamas Municipality		-13	-68	A	ADM3	BO		04	0215	10400575		9362		195	America/La_Paz	2017-03-02
+10400576	San Matias Municipality	San Matias Municipality		-17.16667	-58.83333	A	ADM3	BO		08	0712	10400576		14470		125	America/La_Paz	2017-03-03
+10400577	Pampa Grande Municipality	Pampa Grande Municipality		-18.09722	-64.11611	A	ADM3	BO		08	0709	10400577		9198		1280	America/La_Paz	2017-03-02
+10400590	Achocalla Municipality	Achocalla Municipality		-16.6	-68.15	A	ADM3	BO		04	0201	10400590		22179		3826	America/La_Paz	2017-03-02
+10400591	Arani Municipality	Arani Municipality		-17.56667	-65.76667	A	ADM3	BO		02	0305	10400591		9504		2749	America/La_Paz	2017-03-02
+10400592	Tarata Municipality	Tarata Municipality		-17.68333	-66.05	A	ADM3	BO		02	0304	10400592		8242		3112	America/La_Paz	2017-03-02
+10400593	San Joaquin Municipality	San Joaquin Municipality		-13	-64.83333	A	ADM3	BO		03	0807	10400593		6917		137	America/La_Paz	2017-03-03
+10400595	San Ramon Municipality	San Ramon Municipality		-16.51667	-62.36667	A	ADM3	BO		08	0711	10400595		7490		341	America/La_Paz	2017-03-03
+10400596	Pailon Municipality	Pailon Municipality		-17.71667	-62.13333	A	ADM3	BO		08	0705	10400596		37866		289	America/La_Paz	2017-03-03
+10400599	Puerto Perez Municipality	Puerto Perez Municipality		-16.3333	-68.5833	A	ADM3	BO		04	0212	10400599		8157		3824	America/La_Paz	2017-03-03
+10400600	San Pedro de Curahuara Municipality	San Pedro de Curahuara Municipality		-17.5833	-68	A	ADM3	BO		04	0218	10400600		8858		3845	America/La_Paz	2017-03-03
+10400601	Batallas Municipality	Batallas Municipality		-16.25	-68.4167	A	ADM3	BO		04	0212	10400601		17426		4124	America/La_Paz	2017-03-02
+10400602	Loreto Municipality	Loreto Municipality		-15.46667	-64.9	A	ADM3	BO		03	0806	10400602		3828		164	America/La_Paz	2017-03-02
+10400603	Aucapata Municipality	Aucapata Municipality		-15.41667	-68.66667	A	ADM3	BO		04	0205	10400603		5495		3188	America/La_Paz	2017-03-02
+10400604	Ayata Municipality	Ayata Municipality		-15.25	-68.75	A	ADM3	BO		04	0205	10400604		8410		2135	America/La_Paz	2017-03-02
+10400606	Sacabamba Municipality	Sacabamba Municipality		-17.76667	-65.8	A	ADM3	BO		02	0304	10400606		4366		3331	America/La_Paz	2017-03-02
+10400607	Ancoraimes Municipality	Ancoraimes Municipality		-15.83333	-68.83333	A	ADM3	BO		04	0202	10400607		13136		4411	America/La_Paz	2017-03-02
+10400608	Colquiri Municipality	Colquiri Municipality		-17.4167	-67	A	ADM3	BO		04	0210	10400608		19620		3942	America/La_Paz	2017-03-02
+10400610	Ayo Ayo Municipality	Ayo Ayo Municipality		-17.0833	-68	A	ADM3	BO		04	0213	10400610		7798		3963	America/La_Paz	2017-03-02
+10400611	Umala Municipality	Umala Municipality		-17.3667	-68.0167	A	ADM3	BO		04	0213	10400611		8903		3849	America/La_Paz	2017-03-02
+10400612	Yaco Municipality	Yaco Municipality		-17.25	-67.4167	A	ADM3	BO		04	0209	10400612		7315		4170	America/La_Paz	2017-03-02
+10400613	Chuma Municipality	Chuma Municipality		-15.5	-68.91667	A	ADM3	BO		04	0205	10400613		11473		2585	America/La_Paz	2017-03-02
+10400614	Pelechuco Municipality	Pelechuco Municipality		-14.75	-69.08333	A	ADM3	BO		04	0207	10400614		6780		4621	America/La_Paz	2017-03-02
+10400615	Pocona Municipality	Pocona Municipality		-17.66667	-65.2	A	ADM3	BO		02	0312	10400615		10750		3365	America/La_Paz	2017-03-02
+10400616	Luribay Municipality	Luribay Municipality		-17	-67.58333	A	ADM3	BO		04	0209	10400616		11139		3521	America/La_Paz	2017-03-02
+10400617	Calamarca Municipality	Calamarca Municipality		-16.9	-68.1167	A	ADM3	BO		04	0213	10400617		12413		4042	America/La_Paz	2017-03-02
+10400618	Ichoca Municipality	Ichoca Municipality		-17.1667	-67.1667	A	ADM3	BO		04	0210	10400618		7913		4198	America/La_Paz	2017-03-02
+10400619	Inquisivi Municipality	Inquisivi Municipality		-16.8333	-67	A	ADM3	BO		04	0210	10400619		14717		3184	America/La_Paz	2017-03-02
+10400620	Cairoma Municipality	Cairoma Municipality		-16.8333	-67.5	A	ADM3	BO		04	0209	10400620		11355		4904	America/La_Paz	2017-03-02
+10400621	La Asunta Municipality	La Asunta Municipality		-16.11944	-67.15556	A	ADM3	BO		04	0211	10400621		40178		1429	America/La_Paz	2017-03-02
+10400622	Exaltacion Municipality	Exaltacion Municipality		-13	-65.8333	A	ADM3	BO		03	0804	10400622		6362		158	America/La_Paz	2017-03-03
+10400624	Pucarani Municipality	Pucarani Municipality		-16.3333	-68.4167	A	ADM3	BO		04	0212	10400624		28465		3985	America/La_Paz	2017-03-02
+10400625	Cajuata Municipality	Cajuata Municipality		-16.5833	-67.25	A	ADM3	BO		04	0210	10400625		10458		2627	America/La_Paz	2017-03-02
+10400626	Sapahaqui Municipality	Sapahaqui Municipality		-16.9167	-67.8333	A	ADM3	BO		04	0209	10400626		12484		3806	America/La_Paz	2017-03-02
+10400627	Santiago de Machaca Municipality	Santiago de Machaca Municipality		-17.1667	-69.25	A	ADM3	BO		04	11184248	10400627		4593		3934	America/La_Paz	2017-03-02
+10400628	Sorata Municipality	Sorata Municipality		-15.75	-68.53333	A	ADM3	BO		04	0206	10400628		23512		4119	America/La_Paz	2017-03-02
+10400629	Papel Pampa Municipality	Papel Pampa Municipality		-17.6667	-67.8333	A	ADM3	BO		04	0218	10400629		7003		3748	America/La_Paz	2017-03-02
+10400630	Sica Sica Municipality	Sica Sica Municipality		-17.3333	-67.5	A	ADM3	BO		04	0213	10400630		31312		4047	America/La_Paz	2017-03-02
+10400631	Mecapaca Municipality	Mecapaca Municipality		-16.71667	-67.98333	A	ADM3	BO		04	0201	10400631		16086		2725	America/La_Paz	2017-03-02
+10400632	Toledo Municipality	Toledo Municipality		-18.31667	-67.03333	A	ADM3	BO		05	0410	10400632		10149		3702	America/La_Paz	2017-03-02
+10400633	Tacacoma Municipality	Tacacoma Municipality		-15.5834	-68.7167	A	ADM3	BO		04	0206	10400633		8182		2914	America/La_Paz	2017-03-02
+10400634	Coripata Municipality	Coripata Municipality		-16.1667	-67.5833	A	ADM3	BO		04	0214	10400634		16930		2034	America/La_Paz	2017-03-02
+10400635	Copacabana Municipality	Copacabana Municipality		-16.15	-69.03333	A	ADM3	BO		04	0217	10400635		14931		4166	America/La_Paz	2017-03-02
+10400636	Patacamaya Municipality	Patacamaya Municipality		-17.25	-67.9167	A	ADM3	BO		04	0213	10400636		22858		3789	America/La_Paz	2017-03-02
+10400637	Santivanez Municipality	Santivanez Municipality		-17.55	-66.2333	A	ADM3	BO		02	0307	10400637		6527		2566	America/La_Paz	2017-03-03
+10400638	Toco Municipality	Toco Municipality		-17.6667	-65.9167	A	ADM3	BO		02	0308	10400638		7057		2855	America/La_Paz	2017-03-03
+10400639	Guanay Municipality	Guanay Municipality		-15.4947	-67.9	A	ADM3	BO		04	0206	10400639		14788		799	America/La_Paz	2017-03-02
+10400640	Tipuani Municipality	Tipuani Municipality		-15.5477	-68.0255	A	ADM3	BO		04	0206	10400640		9985		740	America/La_Paz	2017-03-02
+10400642	Irupana Municipality	Irupana Municipality		-16.5	-67.5	A	ADM3	BO		04	0211	10400642		17276		1858	America/La_Paz	2017-03-02
+10400643	General Saavedra Municipality	General Saavedra Municipality		-17.16667	-63.18333	A	ADM3	BO		08	3904660	10400643		14209		265	America/La_Paz	2017-03-03
+10400644	Arbieto Municipality	Arbieto Municipality		-17.55	-66.08333	A	ADM3	BO		02	0304	10400644		17445		2713	America/La_Paz	2017-03-02
+10400645	Tolata Municipality	Tolata Municipality		-17.5333	-66	A	ADM3	BO		02	0308	10400645		5542		2791	America/La_Paz	2017-03-02
+10400646	San Benito Municipality	San Benito Municipality		-17.5	-65.88333	A	ADM3	BO		02	0314	10400646		13562		2963	America/La_Paz	2017-03-02
+10400647	Chulumani Municipality	Chulumani Municipality	Villa de la Libertad Municipality	-16.3833	-67.5333	A	ADM3	BO		04	0210	10400647		17823		1687	America/La_Paz	2017-03-07
+10400648	Comarapa Municipality	Comarapa Municipality		-17.83333	-64.41667	A	ADM3	BO		08	0713	10400648		15919		2308	America/La_Paz	2017-03-02
+10400649	Magdalena Municipality	Magdalena Municipality		-13	-63.83333	A	ADM3	BO		03	0808	10400649		11377		144	America/La_Paz	2017-03-02
+10400650	Uncia Municipality	Uncia Municipality		-18.6	-66.43333	A	ADM3	BO		07	0502	10400650		22020		3744	America/La_Paz	2017-03-03
+10400651	Sipe Sipe Municipality	Sipe Sipe Municipality		-17.48333	-66.35	A	ADM3	BO		02	0309	10400651		41571		2689	America/La_Paz	2017-03-02
+10400652	Pazna Municipality	Pazna Municipality		-18.5	-66.88333	A	ADM3	BO		05	0406	10400652		5955		4013	America/La_Paz	2017-03-03
+10400653	Cliza Municipality	Cliza Municipality		-17.6	-65.9333	A	ADM3	BO		02	0308	10400653		21899		2716	America/La_Paz	2017-03-02
+10400832	Arampampa Municipality	Arampampa Municipality		-17.93333	-66.11667	A	ADM3	BO		07	3915603	10400832		4170		3124	America/La_Paz	2017-03-02
+10400834	Bella Flor Municipality	Bella Flor Municipality		-11	-68	A	ADM3	BO		06	0901	10400834		3909		197	America/La_Paz	2017-03-02
+10400835	Acasio Municipality	Acasio Municipality		-18	-66	A	ADM3	BO		07	3915603	10400835		6161		2835	America/La_Paz	2017-03-02
+10400836	Urubicha Municipality	Urubicha Municipality		-15	-63	A	ADM3	BO		08	11184253	10400836		7026		282	America/La_Paz	2017-03-03
+10400837	Tacobamba Municipality	Tacobamba Municipality		-19.2	-65.55	A	ADM3	BO		07	0503	10400837		11835		2982	America/La_Paz	2017-03-02
+10400838	Chaqui Municipality	Chaqui Municipality		-19.6	-65.53333	A	ADM3	BO		07	0503	10400838		9910		3422	America/La_Paz	2017-03-03
+10400840	Puerto Rico Municipality	Puerto Rico Municipality		-11.36667	-67.56667	A	ADM3	BO		06	0902	10400840		6239		204	America/La_Paz	2017-03-02
+10400841	Puna Municipality	Puna Municipality		-19.83333	-65.5	A	ADM3	BO		07	3911502	10400841		21917		3375	America/La_Paz	2017-03-02
+10400842	El Puente Municipality	El Puente Municipality		-21.25	-65.06667	A	ADM3	BO		09	0605	10400842		11354		3015	America/La_Paz	2017-03-02
+10400843	Cabezas Municipality	Cabezas Municipality		-19.91667	-63.41667	A	ADM3	BO		08	0707	10400843		26434		911	America/La_Paz	2017-03-02
+10400844	Betanzos Municipality	Betanzos Municipality		-19.45	-65.21667	A	ADM3	BO		07	0503	10400844		33922		2525	America/La_Paz	2017-03-02
+10400845	Corque Municipality	Corque Municipality		-18.4	-67.76667	A	ADM3	BO		05	3922026	10400845		9221		3824	America/La_Paz	2017-03-02
+10400846	Concepcion Municipality	Concepcion Municipality		-15.45	-62.01667	A	ADM3	BO		08	0711	10400846		18800		357	America/La_Paz	2017-03-03
+10400847	Moro Moro Municipality	Moro Moro Municipality		-18.33333	-64.38333	A	ADM3	BO		08	0708	10400847		2767		2669	America/La_Paz	2017-03-02
+10400848	Challapata Municipality	Challapata Municipality		-18.8	-66.45	A	ADM3	BO		05	0402	10400848		28304		4231	America/La_Paz	2017-03-02
+10400849	San Miguel Municipality	San Miguel Municipality		-16.78333	-61.25	A	ADM3	BO		08	0703	10400849		11327		438	America/La_Paz	2017-03-03
+10400850	San Javier Municipality	San Javier Municipality		-16.25	-62.56667	A	ADM3	BO		08	0711	10400850		13620		529	America/La_Paz	2017-03-02
+10400852	San Lorenzo Municipality	San Lorenzo Municipality		-21.33333	-64.7	A	ADM3	BO		09	0605	10400852		23863		2411	America/La_Paz	2017-03-05
+10400853	Saipina Municipality	Saipina Municipality		-18.03333	-64.65	A	ADM3	BO		08	0713	10400853		7390		1666	America/La_Paz	2017-03-03
+10400854	San Ignacio Municipality	San Ignacio Municipality		-15	-61	A	ADM3	BO		08	0703	10400854		52362		205	America/La_Paz	2017-03-03
+10400855	Mineros Municipality	Mineros Municipality		-17.08333	-63.26667	A	ADM3	BO		08	3904660	10400855		23251		251	America/La_Paz	2017-03-02
+10400856	Buena Vista Municipality	Buena Vista Municipality		-17.66667	-63.73333	A	ADM3	BO		08	0704	10400856		12879		612	America/La_Paz	2017-03-02
+10400857	Entre Rios Municipality	Entre Rios Municipality		-21.5	-64.08333	A	ADM3	BO		09	0606	10400857		21991		1443	America/La_Paz	2017-03-03
+10400858	San Ramon Municipality	San Ramon Municipality		-13.33333	-64.75	A	ADM3	BO		03	0807	10400858		4955		137	America/La_Paz	2017-03-03
+10400860	Caracollo Municipality	Caracollo Municipality		-17.66667	-67.23333	A	ADM3	BO		05	0801	10400860		23115		3764	America/La_Paz	2017-03-02
+10400861	Santa Rosa del Sara Municipality	Santa Rosa del Sara Municipality		-16.86667	-63.75	A	ADM3	BO		08	0706	10400861		19217		217	America/La_Paz	2017-03-02
+10400862	Lagunillas Municipality	Lagunillas Municipality		-19.75	-63.58333	A	ADM3	BO		08	0707	10400862		5366		1176	America/La_Paz	2017-03-02
+10400863	Cotagaita Municipality	Cotagaita Municipality		-20.75	-65.81667	A	ADM3	BO		07	0506	10400863		31801		2819	America/La_Paz	2017-03-02
+10400864	Ascencion de Guarayos Municipality	Ascencion de Guarayos Municipality		-15.894	-63.186	A	ADM3	BO		08	11184253	10400864		27070		240	America/La_Paz	2017-03-03
+10401694	Toro Toro Municipality	Toro Toro Municipality		-18.31667	-65.63333	A	ADM3	BO		07	0505	10401694		10870		2219	America/La_Paz	2017-03-02
+10401695	Caranavi Municipality	Caranavi Municipality		-15.66667	-67.41667	A	ADM3	BO		04	11184247	10401695		50330		948	America/La_Paz	2017-03-02
+11184236	Charagua Municipality	Charagua Municipality		-19.8	-63.2167	A	ADM3	BO		08	0707	11184236		32186		852	America/La_Paz	2017-03-02
+11184239	Yacuiba Municipality	Yacuiba Municipality		-22.01389	-63.67778	A	ADM3	BO		09	0603	11184239		92245		629	America/La_Paz	2017-03-08
+11319844	Alto Beni Municipality	Alto Beni Municipality		-15.694	-67.27	A	ADM3	BO		04	11184247	11319844		11194		625	America/La_Paz	2024-02-02
+11320942	Teoponte Municipality	Teoponte Municipality		-15.3742	-67.7403	A	ADM3	BO		04	0206	11320942		9349		907	America/La_Paz	2017-03-02
+11321846	Mapiri Municipality	Mapiri Municipality		-15.3087	-68.2412	A	ADM3	BO		04	0206	11321846		13891		587	America/La_Paz	2017-03-02
+11468568	Villa Charcas	Villa Charcas		-20.72348	-64.88676	A	ADM3	BO		01	0107	11468568		16150		2955	America/La_Paz	2017-03-05
+11494397	San Javier	San Javier	Municipio of San Javier,San Javier Municipality	-14.59838	-64.88148	A	ADM3	BO		03	0801	11494397		5277		152	America/La_Paz	2017-03-07
+11494398	Trinidad	Trinidad	Municipio Trinidad	-14.83713	-64.8983	A	ADM3	BO		03	0801	11494398		106596		157	America/La_Paz	2017-03-08
+11494399	Puerto Siles	Puerto Siles	Municipio Puerto Siles	-12.80011	-65.00542	A	ADM3	BO		03	0807	11494399		945		139	America/La_Paz	2017-03-07
+11494400	Guayaramerín	Guayaramerin		-10.83113	-65.37174	A	ADM3	BO		03	0802	11494400		41814		134	America/La_Paz	2017-03-08
+11494403	Cocapata	Cocapata		-16.66483	-66.50243	A	ADM3	BO		02	0303	11494403		18076		2277	America/La_Paz	2017-03-08
+11494404	Sicaya	Sicaya	Sicaya Municipality	-17.76555	-66.3542	A	ADM3	BO		02	0307	11494404		3740		2833	America/La_Paz	2017-03-08
+11494405	Sacaba	Sacaba		-17.39079	-66.05049	A	ADM3	BO		02	0310	11494405		172466		2709	America/La_Paz	2017-03-08
+11494406	Tacachi	Tacachi		-17.64053	-65.80454	A	ADM3	BO		02	0314	11494406		1303		2815	America/La_Paz	2017-03-08
+11494407	Colcapirhua	Colcapirhua	Colcapirhua Municipality,Qullqapirwa	-17.39469	-66.23138	A	ADM3	BO		02	0309	11494407		51990		2555	America/La_Paz	2017-03-08
+11494409	Quillacollo	Quillacollo		-17.39833	-66.27708	A	ADM3	BO		02	0309	11494409		137182		2554	America/La_Paz	2017-03-08
+11494410	Tiquipaya	Tiquipaya		-17.32806	-66.22147	A	ADM3	BO		02	0309	11494410		53904		2679	America/La_Paz	2017-03-08
+11494412	Vinto	Vinto		-17.38981	-66.31725	A	ADM3	BO		02	0309	11494412		51968		2563	America/La_Paz	2017-03-08
+11494413	Tapacarí	Tapacari		-17.52367	-66.61612	A	ADM3	BO		02	0311	11494413		24625		2951	America/La_Paz	2017-03-08
+11494414	Shinahota	Shinahota	Sinahota	-16.98662	-65.25055	A	ADM3	BO		02	8335405	11494414		20841		263	America/La_Paz	2017-03-08
+11494415	Collana	Collana		-16.90349	-68.27977	A	ADM3	BO		04	0213	11494415		5042		3951	America/La_Paz	2017-03-08
+11494416	Curva	Curva		-15.00384	-68.91586	A	ADM3	BO		04	0216	11494416		3285		4534	America/La_Paz	2017-03-08
+11494417	Escoma	Escoma		-15.66025	-69.11911	A	ADM3	BO		04	0204	11494417		7186		3915	America/La_Paz	2017-03-08
+11494418	Umanata Municipality	Umanata Municipality	Humanata,Umanata Municipality	-15.39847	-69.17846	A	ADM3	BO		04	0204	11494418		5342		4237	America/La_Paz	2017-03-08
+11494419	Chacarilla	Chacarilla	Chacarilla Municipality	-17.57941	-68.20896	A	ADM3	BO		04	0218	11494419		2004		3841	America/La_Paz	2017-03-08
+11494420	Jesús de Machaca	Jesus de Machaca		-16.74645	-68.8036	A	ADM3	BO		04	0208	11494420		15039		3866	America/La_Paz	2017-03-08
+11494421	San Andrés de Machaca	San Andres de Machaca	San Andres de Machaca Municipality,San Andrés de Machaca Municipality	-16.89829	-69.05542	A	ADM3	BO		04	0208	11494421		6145		3848	America/La_Paz	2017-03-08
+11494424	Taraco	Taraco	Taraco Municipality	-16.45928	-68.85685	A	ADM3	BO		04	0208	11494424		6603		3862	America/La_Paz	2017-03-08
+11494428	Viacha	Viacha	Viacha Municipality	-16.67058	-68.30166	A	ADM3	BO		04	0208	11494428		80724		3863	America/La_Paz	2017-03-08
+11494429	Quime	Quime		-16.77599	-67.39554	A	ADM3	BO		04	0210	11494429		8266		3191	America/La_Paz	2017-03-08
+11494430	Catacora	Catacora	Catacora Municipality	-17.24896	-69.41883	A	ADM3	BO		04	11184248	11494430		2881		4842	America/La_Paz	2017-03-08
+11494431	Combaya	Combaya	Combaya Municipality	-15.77724	-68.77227	A	ADM3	BO		04	0206	11494431		3731		4005	America/La_Paz	2017-03-08
+11494432	Quiabaya	Quiabaya	Quiabaya Municipality	-15.61862	-68.76592	A	ADM3	BO		04	0206	11494432		2684		1761	America/La_Paz	2017-03-08
+11494448	Malla	Malla		-16.99993	-67.41722	A	ADM3	BO		04	0209	11494448		5180		4840	America/La_Paz	2017-03-08
+11494449	Tito Yupanqui	Tito Yupanqui		-16.17936	-68.95886	A	ADM3	BO		04	0217	11494449		6261		3927	America/La_Paz	2017-03-08
+11494450	Achacachi	Achacachi		-16.03567	-68.69442	A	ADM3	BO		04	0202	11494450		46058		3835	America/La_Paz	2017-03-08
+11494451	Huarina	Huarina	Warina	-16.19041	-68.60267	A	ADM3	BO		04	0202	11494451		7948		3837	America/La_Paz	2017-03-08
+11494452	Charaña	Charana		-17.59405	-69.41935	A	ADM3	BO		04	0203	11494452		3246		4046	America/La_Paz	2017-03-08
+11494453	Nazacara de Pacajes	Nazacara de Pacajes		-16.94074	-68.76995	A	ADM3	BO		04	0203	11494453		619		3831	America/La_Paz	2017-03-08
+11494454	Waldo Ballivian	Waldo Ballivian		-17.08663	-68.19124	A	ADM3	BO		04	0203	11494454		5069		4028	America/La_Paz	2017-03-08
+11494455	Yanacachi	Yanacachi	Yanacachi Municipality	-16.40242	-67.73912	A	ADM3	BO		04	0211	11494455		6420		1674	America/La_Paz	2017-03-08
+11494457	El Choro	El Choro		-18.35862	-67.11432	A	ADM3	BO		05	0801	11494457		8725		3702	America/La_Paz	2017-03-08
+11494458	Soracachi	Soracachi		-17.76485	-67.02754	A	ADM3	BO		05	0801	11494458		12846		3792	America/La_Paz	2017-03-08
+11494459	Pampa Aullagas	Pampa Aullagas		-19.19286	-67.0563	A	ADM3	BO		05	0408	11494459		2973		3726	America/La_Paz	2017-03-08
+11494460	Salinas de García Mendoza	Salinas de Garcia Mendoza	Salinas de Garci Mendoza,Salinas de Garci Mendoza Municipality	-19.63335	-67.67651	A	ADM3	BO		05	0408	11494460		11878		3750	America/La_Paz	2017-03-08
+11494461	Escara	Escara		-18.86136	-68.17055	A	ADM3	BO		05	11184250	11494461		4223		3724	America/La_Paz	2017-03-08
+11494462	Esmeralda	Esmeralda		-18.84751	-68.28445	A	ADM3	BO		05	11184250	11494462		2702		3744	America/La_Paz	2017-03-08
+11494463	Huachacalla	Huachacalla		-18.796	-68.26029	A	ADM3	BO		05	11184250	11494463		1003		3743	America/La_Paz	2017-03-08
+11494464	Carangas	Carangas		-18.93136	-68.61473	A	ADM3	BO		05	11184249	11494464		840		3887	America/La_Paz	2017-03-08
+11494465	La Rivera	La Rivera		-19.01559	-68.65125	A	ADM3	BO		05	11184249	11494465		509		3857	America/La_Paz	2017-03-08
+11494466	Todos Santos	Todos Santos		-19.01569	-68.72043	A	ADM3	BO		05	11184249	11494466		727		3943	America/La_Paz	2017-03-08
+11494467	Huayllamarca	Huayllamarca		-17.83873	-67.94014	A	ADM3	BO		05	10400355	11494467		5502		3884	America/La_Paz	2017-03-08
+11494469	Huanuni	Huanuni		-18.2859	-66.83799	A	ADM3	BO		05	0407	11494469		24677		3979	America/La_Paz	2017-03-08
+11494470	Machacamarca	Machacamarca		-18.17348	-67.01892	A	ADM3	BO		05	0407	11494470		4820		3727	America/La_Paz	2017-03-08
+11494471	Antequera	Antequera		-18.47792	-66.84378	A	ADM3	BO		05	0406	11494471		3264		4006	America/La_Paz	2017-03-08
+11494472	Poopó	Poopo	Poopo Municipality,Poopó Municipality	-18.37775	-66.97575	A	ADM3	BO		05	0406	11494472		7587		3729	America/La_Paz	2017-03-08
+11494473	Chipaya	Chipaya		-19.03971	-68.09206	A	ADM3	BO		05	3923586	11494473		2003		3675	America/La_Paz	2017-03-08
+11494474	Sabaya	Sabaya		-19.01754	-68.37178	A	ADM3	BO		05	3923586	11494474		8018		3703	America/La_Paz	2017-03-08
+11494475	Coipasa	Coipasa		-19.27828	-68.27758	A	ADM3	BO		05	3923586	11494475		903		3681	America/La_Paz	2017-03-08
+11494476	Santiago de Andamarca	Santiago de Andamarca		-18.78028	-67.50871	A	ADM3	BO		05	0405	11494476		5216		3752	America/La_Paz	2017-03-08
+11494477	Eucaliptus	Eucaliptus		-17.59519	-67.50669	A	ADM3	BO		05	0411	11494477		5267		3743	America/La_Paz	2017-03-08
+11494478	Ingavi	Ingavi		-11.7	-68.97088	A	ADM3	BO		06	0904	11494478		1654		287	America/La_Paz	2017-03-08
+11494479	Santa Rosa	Santa Rosa		-10.60993	-67.45279	A	ADM3	BO		06	0904	11494479		2395		151	America/La_Paz	2017-03-08
+11494480	Nueva Esperanza	Nueva Esperanza		-10.93399	-66.87987	A	ADM3	BO		06	3915598	11494480		2068		153	America/La_Paz	2017-03-08
+11494481	Santos Mercado	Santos Mercado		-9.95159	-66.61659	A	ADM3	BO		06	3915598	11494481		2165		134	America/La_Paz	2017-03-08
+11494482	Villa Nueva - Loma Alta	Villa Nueva - Loma Alta		-10.82195	-66.44733	A	ADM3	BO		06	3915598	11494482		2801		138	America/La_Paz	2017-03-08
+11494483	Puerto Gonzales Moreno	Puerto Gonzales Moreno	Puerto Gonzalo Moreno	-11.08094	-66.17207	A	ADM3	BO		06	0903	11494483		8160		134	America/La_Paz	2017-03-08
+11494484	Filadelfia	Filadelfia		-11.37333	-68.90273	A	ADM3	BO		06	0902	11494484		5756		240	America/La_Paz	2017-03-08
+11494485	Bolpebra	Bolpebra		-10.94817	-69.56504	A	ADM3	BO		06	0901	11494485		2173		241	America/La_Paz	2017-03-08
+11494486	Cobija	Cobija		-11.0344	-68.77493	A	ADM3	BO		06	0901	11494486		46267		232	America/La_Paz	2017-03-08
+11494487	Porvenir	Porvenir		-11.23799	-68.69549	A	ADM3	BO		06	0901	11494487		7948		236	America/La_Paz	2017-03-08
+11494488	Porco	Porco		-19.80012	-65.98934	A	ADM3	BO		07	0512	11494488		10866		4101	America/La_Paz	2017-03-08
+11494489	Uyuni	Uyuni		-20.46584	-66.83022	A	ADM3	BO		07	0512	11494489		29672		3667	America/La_Paz	2017-03-08
+11494490	Llica	Llica	Llica Municipality	-19.85236	-68.25046	A	ADM3	BO		07	0514	11494490		4150		3671	America/La_Paz	2017-03-08
+11494491	Tahua	Tahua	Tahua Municipality	-19.89224	-67.69629	A	ADM3	BO		07	0514	11494491		1700		3678	America/La_Paz	2017-03-08
+11494492	San Agustín	San Agustin		-21.1579	-67.68106	A	ADM3	BO		07	11184251	11494492		1684		3843	America/La_Paz	2017-03-08
+11494493	Ckochas	Ckochas		-19.58838	-65.40324	A	ADM3	BO		07	3911502	11494493		15812		3195	America/La_Paz	2017-03-08
+11494494	Villazón	Villazon		-22.08791	-65.59919	A	ADM3	BO		07	0515	11494494		44906		3455	America/La_Paz	2017-03-08
+11494495	San Pedro de Quemes	San Pedro de Quemes	San Pedro de Quemes Municipality	-20.74771	-68.04872	A	ADM3	BO		07	0509	11494495		1060		3679	America/La_Paz	2017-03-08
+11494496	Chuquihuta	Chuquihuta	Chuquihuta Ayllu Jucumani,Chuquihuta Municipality	-18.59298	-66.34987	A	ADM3	BO		07	0502	11494496		8019		3963	America/La_Paz	2017-03-08
+11494497	Atocha	Atocha	Atocha Municipality	-20.93844	-66.22181	A	ADM3	BO		07	0508	11494497		11234		3664	America/La_Paz	2017-03-08
+11494498	Tupiza	Tupiza	Tupiza Municipality	-21.44884	-65.72742	A	ADM3	BO		07	0508	11494498		44814		3016	America/La_Paz	2017-03-08
+11494499	Mojinete	Mojinete	Mojinete Municipality	-21.7672	-66.23872	A	ADM3	BO		07	0510	11494499		1180		3338	America/La_Paz	2017-03-08
+11494501	San Antonio de Esmoruco	San Antonio de Esmoruco	San Antonio de Esmoruco Municipality	-21.94916	-66.51801	A	ADM3	BO		07	0510	11494501		2284		3713	America/La_Paz	2017-03-08
+11494502	San Pablo de Lipez	San Pablo de Lipez	San Pablo de Lipez Municipality,San Pablo de Lípez Municipality	-21.68831	-66.62161	A	ADM3	BO		07	0510	11494502		3371		4242	America/La_Paz	2017-03-08
+11494504	Potosí	Potosi	Potosi Municipality,Potosí Municipality	-19.57099	-65.75249	A	ADM3	BO		07	0501	11494504		191302		3887	America/La_Paz	2017-03-08
+11494505	Urmiri	Urmiri	Urmiri Municipality	-18.5792	-66.87829	A	ADM3	BO		07	0501	11494505		2759		3776	America/La_Paz	2017-03-08
+11494506	Cotoca	Cotoca		-17.77862	-62.87441	A	ADM3	BO		08	0701	11494506		45519		332	America/La_Paz	2017-03-08
+11494507	La Guardia	La Guardia		-17.89211	-63.32468	A	ADM3	BO		08	0701	11494507		89284		505	America/La_Paz	2017-03-08
+11494508	Santa Cruz de la Sierra	Santa Cruz de la Sierra		-17.79947	-63.18516	A	ADM3	BO		08	0701	11494508		1454539		431	America/La_Paz	2017-03-08
+11494510	Roboré	Robore		-18.33638	-59.75803	A	ADM3	BO		08	0705	11494510		15641		256	America/La_Paz	2017-03-08
+11494511	San José de Chiquitos	San Jose de Chiquitos	San Jose,San José	-17.83632	-60.74585	A	ADM3	BO		08	0705	11494511		28922		293	America/La_Paz	2017-03-08
+11494512	Boyuibe	Boyuibe		-20.435	-63.28172	A	ADM3	BO		08	0707	11494512		5087		812	America/La_Paz	2017-03-08
+11494513	Camiri	Camiri		-20.02759	-63.52226	A	ADM3	BO		08	0707	11494513		33838		862	America/La_Paz	2017-03-08
+11494514	Cuevo	Cuevo		-20.4547	-63.52715	A	ADM3	BO		08	0707	11494514		5052		1027	America/La_Paz	2017-03-08
+11494515	Mairana	Mairana		-18.12144	-63.9573	A	ADM3	BO		08	0709	11494515		10177		1327	America/La_Paz	2017-03-08
+11494516	Quirusillas	Quirusillas		-18.33752	-63.94588	A	ADM3	BO		08	0709	11494516		2995		1500	America/La_Paz	2017-03-08
+11494517	Samaipata	Samaipata		-18.17817	-63.88189	A	ADM3	BO		08	0709	11494517		10472		1680	America/La_Paz	2017-03-08
+11494518	Carmen Rivero Torrez	Carmen Rivero Torrez	El Carmen Rivero Torrez,El Carmen Rivero Tórrez	-18.8242	-58.62395	A	ADM3	BO		08	11184252	11494518		6342		160	America/La_Paz	2017-03-08
+11494519	Puerto Quijarro	Puerto Quijarro		-17.79863	-57.76525	A	ADM3	BO		08	11184252	11494519		16659		111	America/La_Paz	2017-03-08
+11494520	Puerto Suarez	Puerto Suarez		-18.9759	-57.80396	A	ADM3	BO		08	11184252	11494520		19829		123	America/La_Paz	2017-03-08
+11494521	San Juan de Yapacani	San Juan de Yapacani		-17.29265	-63.85305	A	ADM3	BO		08	0704	11494521		9191		283	America/La_Paz	2017-03-08
+11494522	Cuatro Cañadas	Cuatro Canadas		-17.27241	-62.55847	A	ADM3	BO		08	0711	11494522		22845		263	America/La_Paz	2017-03-08
+11494523	San Antonio de Lomerío	San Antonio de Lomerio		-16.77112	-61.80994	A	ADM3	BO		08	0711	11494523		6481		396	America/La_Paz	2017-03-08
+11494524	Fernández Alonso	Fernandez Alonso		-17.01106	-63.22289	A	ADM3	BO		08	3904660	11494524		15117		245	America/La_Paz	2017-03-08
+11494525	Montero	Montero		-17.32058	-63.25413	A	ADM3	BO		08	3904660	11494525		109518		294	America/La_Paz	2017-03-08
+11494526	San Pedro	San Pedro		-19.23444	-61.48378	A	ADM3	BO		08	3904660	11494526		19103		353	America/La_Paz	2017-03-08
+11494527	Colpa Belgica	Colpa Belgica		-17.55854	-63.23301	A	ADM3	BO		08	0706	11494527		6069		367	America/La_Paz	2017-03-08
+11494528	Portachuelo	Portachuelo		-17.3574	-63.39309	A	ADM3	BO		08	0706	11494528		17885		300	America/La_Paz	2017-03-08
+11494529	Postrer Valle	Postrer Valle	Postrervalle	-18.49286	-63.83537	A	ADM3	BO		08	0708	11494529		2390		1842	America/La_Paz	2017-03-08
+11494530	Pucara	Pucara		-18.71672	-64.18183	A	ADM3	BO		08	0708	11494530		2076		2503	America/La_Paz	2017-03-08
+11494531	Trigal	Trigal		-18.30296	-64.14865	A	ADM3	BO		08	0708	11494531		2135		1619	America/La_Paz	2017-03-08
+11494532	Vallegrande	Vallegrande		-18.49445	-64.10634	A	ADM3	BO		08	0708	11494532		17208		2044	America/La_Paz	2017-03-08
+11494533	San Rafael	San Rafael	San Rafael Municipality	-16.77481	-60.66341	A	ADM3	BO		08	0703	11494533		6139		375	America/La_Paz	2017-03-08
+11494534	Okinawa Uno	Okinawa Uno		-17.23577	-62.81845	A	ADM3	BO		08	0702	11494534		12482		261	America/La_Paz	2017-03-08
+11494535	Tarija	Tarija		-21.52555	-64.72836	A	ADM3	BO		09	0801	11494535		205375		1877	America/La_Paz	2017-03-08
+11494536	Villamontes	Villamontes		-21.26596	-63.45343	A	ADM3	BO		09	0603	11494536		39867		386	America/La_Paz	2017-03-08
+11494538	Bolívar	Bolivar		-17.97059	-66.53702	A	ADM3	BO		02	7576102	11494538		7279		3742	America/La_Paz	2017-03-08
+11494539	Cochabamba	Cochabamba		-17.36056	-66.15572	A	ADM3	BO		02	0801	11494539		632013		2682	America/La_Paz	2017-03-08
+11494540	Punata	Punata	Punata Municipality	-17.54511	-65.85136	A	ADM3	BO		02	0314	11494540		28887		2721	America/La_Paz	2017-03-08
+11494541	La Paz	La Paz	La Paz Municipality	-16.50778	-68.13635	A	ADM3	BO		04	0201	11494541		934981		3656	America/La_Paz	2021-11-10
+11494542	Chua Cocani	Chua Cocani		-16.18869	-68.7454	A	ADM3	BO		04	0202	11494542		5003		3828	America/La_Paz	2017-03-08
+11494543	Huatajata	Huatajata		-16.19383	-68.6927	A	ADM3	BO		04	0202	11494543		3927		3969	America/La_Paz	2017-03-08
+11494544	Santiago de Huata	Santiago de Huata		-16.05778	-68.81613	A	ADM3	BO		04	0202	11494544		8562		3851	America/La_Paz	2017-03-08
+11494545	Quillacas	Quillacas		-19.23456	-66.93957	A	ADM3	BO		05	0402	11494545		4051		3756	America/La_Paz	2017-03-08
+11494546	Choque Cota	Choque Cota	Choquecota	-18.09465	-67.89551	A	ADM3	BO		05	3922026	11494546		1850		3876	America/La_Paz	2017-03-08
+11494547	Oruro	Oruro		-17.96674	-67.11428	A	ADM3	BO		05	0801	11494547		264943		3730	America/La_Paz	2017-03-08
+11494548	Yunguyo	Yunguyo	Yunguyo de Litoral	-18.85768	-68.31797	A	ADM3	BO		05	11184250	11494548		514		3725	America/La_Paz	2017-03-08
+11494549	Cruz de Machacamarca	Cruz de Machacamarca		-18.88559	-68.41719	A	ADM3	BO		05	11184250	11494549		1967		3730	America/La_Paz	2017-03-08
+11494581	Villa Libertad Licoma	Villa Libertad Licoma		-16.78745	-67.20543	A	ADM3	BO		04	0210	11494581		5488		1805	America/La_Paz	2017-03-08
+12126917	Urmiri	Urmiri	Municipio Urmiri,Urmiri	-19.47282	-66.18074	A	ADM3	BO		07		12126917		0		4265	America/La_Paz	2020-02-10
+12126918	Vitiche	Vitiche	Municipio Vitiche,Vitiche	-20.34963	-65.43243	A	ADM3	BO		07		12126918		0		2831	America/La_Paz	2020-02-10
+12126919	Villa Montes	Villa Montes	Municipio Villa Montes,Villa Montes	-21.32732	-62.87011	A	ADM3	BO		09		12126919		0		387	America/La_Paz	2020-02-10
+12126920	Charagua	Charagua	Charagua,Municipio Charagua	-19.08458	-61.66473	A	ADM3	BO		08		12126920		0		378	America/La_Paz	2020-02-10
+12126921	Cabezas	Cabezas	Cabezas,Municipio Cabezas	-18.46389	-63.26847	A	ADM3	BO		08		12126921		0		642	America/La_Paz	2020-02-10
+12126922	Nueva Esperanza	Nueva Esperanza	Municipio Nueva Esperanza,Nueva Esperanza	-10.1113	-65.5378	A	ADM3	BO		06		12126922		0		141	America/La_Paz	2020-02-10
+12126923	Ingavi	Ingavi	Ingavi,Municipio Ingavi	-10.5282	-66.73882	A	ADM3	BO		06		12126923		0		154	America/La_Paz	2020-02-10
+12126924	Puerto Mayor de Carabuco	Puerto Mayor de Carabuco	Municipio Puerto Mayor de Carabuco,Puerto Mayor de Carabuco	-15.73661	-69.00623	A	ADM3	BO		04		12126924		0		4363	America/La_Paz	2020-02-10
+12126925	Villa Ancoraimes	Villa Ancoraimes	Municipio Villa Ancoraimes,Villa Ancoraimes	-15.85426	-68.86876	A	ADM3	BO		04		12126925		0		4345	America/La_Paz	2020-02-10
+12127419	Santuario de Quillacas	Santuario de Quillacas	Municipio Santuario de Quillacas,Santuario de Quillacas	-19.34311	-66.8263	A	ADM3	BO		05		12127419		0		3766	America/La_Paz	2020-02-10
+12127420	Belén de Andamarca	Belen de Andamarca	Belen de Andamarca,Belén de Andamarca,Municipio Belen de Andamarca,Municipio Belén de Andamarca	-18.92231	-67.76347	A	ADM3	BO		05		12127420		0		3705	America/La_Paz	2020-02-10
+12127421	Puerto Mayor de Guaqui	Puerto Mayor de Guaqui	Municipio Puerto Mayor de Guaqui,Puerto Mayor de Guaqui	-16.60961	-68.80658	A	ADM3	BO		04		12127421		0		3934	America/La_Paz	2020-02-10
+12127422	Paria	Paria	Municipio Paria,Paria	-17.85994	-66.92396	A	ADM3	BO		05		12127422		0		3864	America/La_Paz	2020-02-10
+12127423	Morochata	Morochata	Morochata,Municipio Morochata	-17.20286	-66.57062	A	ADM3	BO		02		12127423		0		2500	America/La_Paz	2020-02-10
+12127424	Sipesipe	Sipesipe	Municipio Sipesipe,Sipesipe	-17.52332	-66.34688	A	ADM3	BO		02		12127424		0		2927	America/La_Paz	2020-02-10
+12127425	Moromoro	Moromoro	Moromoro,Municipio Moromoro	-18.3206	-64.34399	A	ADM3	BO		08		12127425		0		2186	America/La_Paz	2020-02-10
+12127435	Nuestra Señora de La Paz	Nuestra Senora de La Paz	Municipio Nuesta Senora de La Paz,Municipio Nuesta Señora de La Paz,Municipio Nuestra Senora de La Paz,Municipio Nuestra Señora de La Paz,Nuesta Senora de La Paz,Nuesta Señora de La Paz,Nuestra Senora de La Paz,Nuestra Señora de La Paz	-16.16318	-68.091	A	ADM3	BO		04		12127435		0		4163	America/La_Paz	2022-09-24
+12128018	San Pedro de Macha	San Pedro de Macha	Municipio San Pedro de Macha,San Pedro de Macha	-18.87764	-66.05518	A	ADM3	BO		07		12128018		0		3698	America/La_Paz	2020-02-10
+13447957	San Agustín	San Agustin	Municipio San Agustin,Municipio San Agustín,San Agustin,San Agustín	-21.52462	-67.42033	A	ADM3	BO		07		13447957		0		4360	America/La_Paz	2025-07-18
+13447958	San Pablo	San Pablo	Municipio San Pablo,San Pablo	-22.25217	-67.26928	A	ADM3	BO		07		13447958		0		4694	America/La_Paz	2025-07-18
+13447959	Colcha K	Colcha K	Colcha K,Municipio Colcha K	-21.10536	-67.19837	A	ADM3	BO		07		13447959		0		4178	America/La_Paz	2025-07-18
+13447960	Tahua	Tahua	Municipio Tahua,Tahua	-20.55354	-67.97216	A	ADM3	BO		07		13447960		0		3694	America/La_Paz	2025-07-18
+13447961	Tomave	Tomave	Municipio Tomave,Tomave	-20.07879	-66.37835	A	ADM3	BO		07		13447961		0		3829	America/La_Paz	2025-07-18
+13447962	Yocalla	Yocalla	Municipio Yocalla,Yocalla	-19.50847	-65.92517	A	ADM3	BO		07		13447962		0		3996	America/La_Paz	2025-07-18
+13447963	Uyuni	Uyuni	Municipio Uyuni,Uyuni	-20.16202	-66.95791	A	ADM3	BO		07		13447963		0		3707	America/La_Paz	2025-07-18
+13447964	Cotagaita	Cotagaita	Cotagaita,Municipio Cotagaita	-20.67294	-65.76938	A	ADM3	BO		07		13447964		0		3501	America/La_Paz	2025-07-18
+13447965	Caiza D	Caiza D	Caiza D,Municipio Caiza D	-20.01132	-65.65361	A	ADM3	BO		07		13447965		0		3080	America/La_Paz	2025-07-18
+13447966	Puna	Puna	Municipio Puna,Puna	-19.88457	-65.35794	A	ADM3	BO		07		13447966		0		3325	America/La_Paz	2025-07-18
+13447967	Padcaya	Padcaya	Municipio Padcaya,Padcaya	-22.10727	-64.51325	A	ADM3	BO		09		13447967		0		1232	America/La_Paz	2025-07-18
+13447968	Yunchará	Yunchara	Municipio Yunchara,Municipio Yunchará,Yunchara,Yunchará	-21.79029	-65.16283	A	ADM3	BO		09		13447968		0		3664	America/La_Paz	2025-07-18
+13447969	Uriondo	Uriondo	Municipio Uriondo,Uriondo	-21.75583	-64.72596	A	ADM3	BO		09		13447969		0		1786	America/La_Paz	2025-07-18
+13447970	Entre Ríos	Entre Rios	Entre Rios,Entre Ríos,Municipio Entre Rios,Municipio Entre Ríos	-21.398	-64.06588	A	ADM3	BO		09		13447970		0		1217	America/La_Paz	2025-07-18
+13447971	Caraparí	Carapari	Carapari,Caraparí,Municipio Carapari,Municipio Caraparí	-21.89764	-63.87819	A	ADM3	BO		09		13447971		0		1216	America/La_Paz	2025-07-18
+13447972	Yacuiba	Yacuiba	Municipio Yacuiba,Yacuiba	-21.79605	-63.28447	A	ADM3	BO		09		13447972		0		504	America/La_Paz	2025-07-18
+13447973	San Lorenzo	San Lorenzo	Municipio San Lorenzo,San Lorenzo	-21.18551	-64.67972	A	ADM3	BO		09		13447973		0		3323	America/La_Paz	2025-07-18
+13447974	El Puente	El Puente	El Puente,Municipio El Puente	-21.27846	-65.04941	A	ADM3	BO		09		13447974		0		2798	America/La_Paz	2025-07-18
+13447975	Macharetí	Machareti	Machareti,Macharetí,Municipio Machareti,Municipio Macharetí	-20.7254	-62.87899	A	ADM3	BO		01		13447975		0		485	America/La_Paz	2025-07-18
+13447976	Incahuasi	Incahuasi	Incahuasi,Municipio Incahuasi	-20.59069	-64.57213	A	ADM3	BO		01		13447976		0		2683	America/La_Paz	2025-07-18
+13447977	Huacaya	Huacaya	Huacaya,Municipio Huacaya	-20.72463	-63.61461	A	ADM3	BO		01		13447977		0		1288	America/La_Paz	2025-07-18
+13447978	Villa Vaca Guzmán	Villa Vaca Guzman	Municipio Villa Vaca Guzman,Municipio Villa Vaca Guzmán,Villa Vaca Guzman,Villa Vaca Guzmán	-20.04025	-63.78262	A	ADM3	BO		01		13447978		0		1144	America/La_Paz	2025-07-18
+13447979	Lagunillas	Lagunillas	Lagunillas,Municipio Lagunillas	-19.78746	-63.63156	A	ADM3	BO		08		13447979		0		1221	America/La_Paz	2025-07-18
+13447980	Padilla	Padilla	Municipio Padilla,Padilla	-19.39286	-64.14023	A	ADM3	BO		01		13447980		0		1787	America/La_Paz	2025-07-18
+13447981	Azurduy	Azurduy	Azurduy,Municipio Azurduy	-20.18137	-64.4329	A	ADM3	BO		01		13447981		0		2791	America/La_Paz	2025-07-18
+13447982	Tarvita	Tarvita	Municipio Tarvita,Tarvita	-19.77216	-64.56176	A	ADM3	BO		01		13447982		0		2981	America/La_Paz	2025-07-18
+13447983	Pailón	Pailon	Municipio Pailon,Municipio Pailón,Pailon,Pailón	-17.75712	-61.9214	A	ADM3	BO		08		13447983		0		290	America/La_Paz	2025-07-18
+13447984	El Carmen Rivero Tórrez	El Carmen Rivero Torrez	El Carmen Rivero Torrez,El Carmen Rivero Tórrez,Municipio El Carmen Rivero Torrez,Municipio El Carmen Rivero Tórrez	-18.48651	-58.5326	A	ADM3	BO		08		13447984		0		292	America/La_Paz	2025-07-18
+13447985	Puerto Quijarro	Puerto Quijarro	Municipio Puerto Quijarro,Puerto Quijarro	-18.33854	-57.65708	A	ADM3	BO		08		13447985		0		298	America/La_Paz	2025-07-18
+13447986	San Matías	San Matias	Municipio San Matias,Municipio San Matías,San Matias,San Matías	-17.25507	-58.82335	A	ADM3	BO		08		13447986		0		165	America/La_Paz	2025-07-18
+13447987	Puerto Suárez	Puerto Suarez	Municipio Puerto Suarez,Municipio Puerto Suárez,Puerto Suarez,Puerto Suárez	-19.26338	-58.23048	A	ADM3	BO		08		13447987		0		176	America/La_Paz	2025-07-18
+13447988	San Rafael	San Rafael	Municipio San Rafael,San Rafael	-16.8155	-60.14096	A	ADM3	BO		08		13447988		0		321	America/La_Paz	2025-07-18
+13447989	San Miguel	San Miguel	Municipio San Miguel,San Miguel	-16.91428	-61.24547	A	ADM3	BO		08		13447989		0		462	America/La_Paz	2025-07-18
+13447990	Cuatro Cañadas	Cuatro Canadas	Cuatro Canadas,Cuatro Cañadas,Municipio Cuatro Canadas,Municipio Cuatro Cañadas	-17.2374	-62.24274	A	ADM3	BO		08		13447990		0		260	America/La_Paz	2025-07-18
+13447991	Ckochas	Ckochas	Ckochas,Municipio Ckochas	-19.72272	-65.01883	A	ADM3	BO		07		13447991		0		3594	America/La_Paz	2025-07-18
+13447992	Betanzos	Betanzos	Betanzos,Municipio Betanzos	-19.4576	-65.21613	A	ADM3	BO		07		13447992		0		2672	America/La_Paz	2025-07-18
+13447993	Chaquí	Chaqui	Chaqui,Chaquí,Municipio Chaqui,Municipio Chaquí	-19.62501	-65.54606	A	ADM3	BO		07		13447993		0		3492	America/La_Paz	2025-07-18
+13447994	Tacobamba	Tacobamba	Municipio Tacobamba,Tacobamba	-19.21323	-65.55402	A	ADM3	BO		07		13447994		0		3073	America/La_Paz	2025-07-18
+13447995	Alcalá	Alcala	Alcala,Alcalá,Municipio Alcala,Municipio Alcalá	-19.44218	-64.37914	A	ADM3	BO		01		13447995		0		2289	America/La_Paz	2025-07-18
+13447996	Zudáñez	Zudanez	Municipio Zudanez,Municipio Zudáñez,Zudanez,Zudáñez	-19.13699	-64.68126	A	ADM3	BO		01		13447996		0		2687	America/La_Paz	2025-07-18
+13447997	San Ignacio	San Ignacio	Municipio San Ignacio,San Ignacio	-15.11007	-60.96185	A	ADM3	BO		08		13447997		0		216	America/La_Paz	2025-07-18
+13447998	Concepción	Concepcion	Concepcion,Concepción,Municipio Concepcion,Municipio Concepción	-15.34436	-62.08399	A	ADM3	BO		08		13447998		0		255	America/La_Paz	2025-07-18
+13447999	San Javier	San Javier	Municipio San Javier,San Javier	-16.28154	-62.47243	A	ADM3	BO		08		13447999		0		621	America/La_Paz	2025-07-18
+13448000	San Ramón	San Ramon	Municipio San Ramon,Municipio San Ramón,San Ramon,San Ramón	-16.57691	-62.43457	A	ADM3	BO		08		13448000		0		252	America/La_Paz	2025-07-18
+13448001	Urubicha	Urubicha	Municipio Urubicha,Urubicha	-14.98287	-63.02712	A	ADM3	BO		08		13448001		0		245	America/La_Paz	2025-07-18
+13448002	Ascención de Guarayos	Ascencion de Guarayos	Ascencion de Guarayos,Ascención de Guarayos,Municipio Ascencion de Guarayos,Municipio Ascención de Guarayos	-15.48845	-63.49262	A	ADM3	BO		08		13448002		0		210	America/La_Paz	2025-07-18
+13448003	San Andrés	San Andres	Municipio San Andres,Municipio San Andrés,San Andres,San Andrés	-15.39904	-64.13693	A	ADM3	BO		03		13448003		0		192	America/La_Paz	2025-07-18
+13448004	San Javier	San Javier	Municipio San Javier,San Javier	-14.44954	-64.43288	A	ADM3	BO		03		13448004		0		177	America/La_Paz	2025-07-18
+13448005	Baures	Baures	Baures,Municipio Baures	-13.67267	-62.90381	A	ADM3	BO		03		13448005		0		218	America/La_Paz	2025-07-18
+13448006	Magdalena	Magdalena	Magdalena,Municipio Magdalena	-13.0222	-63.68684	A	ADM3	BO		03		13448006		0		210	America/La_Paz	2025-07-18
+13448007	Huacaraje	Huacaraje	Huacaraje,Municipio Huacaraje	-13.82398	-64.06275	A	ADM3	BO		03		13448007		0		188	America/La_Paz	2025-07-18
+13448008	San Ramón	San Ramon	Municipio San Ramon,Municipio San Ramón,San Ramon,San Ramón	-13.51237	-64.61785	A	ADM3	BO		03		13448008		0		191	America/La_Paz	2025-07-18
+13448009	San Joaquín	San Joaquin	Municipio San Joaquin,Municipio San Joaquín,San Joaquin,San Joaquín	-13.06536	-64.85523	A	ADM3	BO		03		13448009		0		183	America/La_Paz	2025-07-18
+13448010	Puerto Siles	Puerto Siles	Municipio Puerto Siles,Puerto Siles	-12.4488	-64.97546	A	ADM3	BO		03		13448010		0		152	America/La_Paz	2025-07-18
+13448011	Santos Mercado	Santos Mercado	Municipio Santos Mercado,Santos Mercado	-10.15343	-66.13641	A	ADM3	BO		06		13448011		0		200	America/La_Paz	2025-07-18
+13448012	Villa Nueva	Villa Nueva	Municipio Villa Nueva,Villa Nueva	-10.65095	-66.10549	A	ADM3	BO		06		13448012		0		154	America/La_Paz	2025-07-18
+13448013	San Pedro	San Pedro	Municipio San Pedro,San Pedro	-11.02145	-66.56927	A	ADM3	BO		06		13448013		0		155	America/La_Paz	2025-07-18
+13448014	Riberalta	Riberalta	Municipio Riberalta,Riberalta	-11.52788	-66.10081	A	ADM3	BO		03		13448014		0		185	America/La_Paz	2025-07-18
+13448015	Guayaramerín	Guayaramerin	Guayaramerin,Guayaramerín,Municipio Guayaramerin,Municipio Guayaramerín	-11.28041	-65.4872	A	ADM3	BO		03		13448015		0		182	America/La_Paz	2025-07-18
+13448016	Puerto Rico	Puerto Rico	Municipio Puerto Rico,Puerto Rico	-11.30816	-67.50028	A	ADM3	BO		06		13448016		0		200	America/La_Paz	2025-07-18
+13448017	Bella Flor	Bella Flor	Bella Flor,Municipio Bella Flor	-11.02145	-68.02435	A	ADM3	BO		06		13448017		0		296	America/La_Paz	2025-07-18
+13448018	Filadelfia	Filadelfia	Filadelfia,Municipio Filadelfia	-11.72433	-68.52377	A	ADM3	BO		06		13448018		0		200	America/La_Paz	2025-07-18
+13448019	Bolpebra	Bolpebra	Bolpebra,Municipio Bolpebra	-11.20026	-69.2174	A	ADM3	BO		06		13448019		0		237	America/La_Paz	2025-07-18
+13448020	Ixiamas	Ixiamas	Ixiamas,Municipio Ixiamas	-13.09014	-68.01873	A	ADM3	BO		04		13448020		0		200	America/La_Paz	2025-07-18
+13448021	Reyes	Reyes	Municipio Reyes,Reyes	-13.42296	-67.10568	A	ADM3	BO		03		13448021		0		204	America/La_Paz	2025-07-18
+13448022	Santa Rosa	Santa Rosa	Municipio Santa Rosa,Santa Rosa	-13.40447	-66.66792	A	ADM3	BO		03		13448022		0		200	America/La_Paz	2025-07-18
+13448023	Santa Ana	Santa Ana	Municipio Santa Ana,Santa Ana	-14.30465	-65.98354	A	ADM3	BO		03		13448023		0		181	America/La_Paz	2025-07-18
+13448024	Exaltación	Exaltacion	Exaltacion,Exaltación,Municipio Exaltacion,Municipio Exaltación	-12.80396	-65.78318	A	ADM3	BO		03		13448024		0		196	America/La_Paz	2025-07-18
+13448025	San Borja	San Borja	Municipio San Borja,San Borja	-15.0037	-66.80851	A	ADM3	BO		03		13448025		0		500	America/La_Paz	2025-07-18
+13448026	Apolo	Apolo	Apolo,Municipio Apolo	-14.68075	-68.18466	A	ADM3	BO		04		13448026		0		1764	America/La_Paz	2025-07-18
+13448027	San Buenaventura	San Buenaventura	Municipio San Buenaventura,San Buenaventura	-14.25915	-67.74496	A	ADM3	BO		04		13448027		0		412	America/La_Paz	2025-07-18
+13448028	Pelechuco	Pelechuco	Municipio Pelechuco,Pelechuco	-14.80074	-69.09067	A	ADM3	BO		04		13448028		0		3995	America/La_Paz	2025-07-18
+13448029	Alto Beni	Alto Beni	Alto Beni,Municipio Alto Beni	-15.62101	-67.40163	A	ADM3	BO		04		13448029		0		944	America/La_Paz	2025-07-18
+13448030	Teoponte	Teoponte	Municipio Teoponte,Teoponte	-15.43604	-67.69758	A	ADM3	BO		04		13448030		0		791	America/La_Paz	2025-07-18
+13448031	Mapiri	Mapiri	Mapiri,Municipio Mapiri	-15.38671	-68.24015	A	ADM3	BO		04		13448031		0		1377	America/La_Paz	2025-07-18
+13448032	Guanay	Guanay	Guanay,Municipio Guanay	-15.79364	-68.03052	A	ADM3	BO		04		13448032		0		2000	America/La_Paz	2025-07-18
+13448033	Sorata	Sorata	Municipio Sorata,Sorata	-15.7289	-68.47445	A	ADM3	BO		04		13448033		0		4016	America/La_Paz	2025-07-18
+13448034	Ayata	Ayata	Ayata,Municipio Ayata	-15.32197	-68.73032	A	ADM3	BO		04		13448034		0		2811	America/La_Paz	2025-07-18
+13448035	La Asunta	La Asunta	La Asunta,Municipio La Asunta	-16.10804	-67.15592	A	ADM3	BO		04		13448035		0		1942	America/La_Paz	2025-07-18
+13448036	Tipuani	Tipuani	Municipio Tipuani,Tipuani	-15.58442	-68.05596	A	ADM3	BO		04		13448036		0		1120	America/La_Paz	2025-07-18
+13448037	Aucapata	Aucapata	Aucapata,Municipio Aucapata	-15.43811	-68.69949	A	ADM3	BO		04		13448037		0		2000	America/La_Paz	2025-07-18
+13448038	Tacacoma	Tacacoma	Municipio Tacacoma,Tacacoma	-15.3975	-68.53302	A	ADM3	BO		04		13448038		0		2063	America/La_Paz	2025-07-18
+13448039	Chuma	Chuma	Chuma,Municipio Chuma	-15.60405	-68.84901	A	ADM3	BO		04		13448039		0		3048	America/La_Paz	2025-07-18
+13448040	Mocomoco	Mocomoco	Mocomoco,Municipio Mocomoco	-15.47149	-69.01394	A	ADM3	BO		04		13448040		0		3809	America/La_Paz	2025-07-18
+13448041	Puerto Acosta	Puerto Acosta	Municipio Puerto Acosta,Puerto Acosta	-15.53777	-69.24669	A	ADM3	BO		04		13448041		0		3826	America/La_Paz	2025-07-18
+13448042	Caranavi	Caranavi	Caranavi,Municipio Caranavi	-15.84485	-67.48787	A	ADM3	BO		04		13448042		0		1885	America/La_Paz	2025-07-18
+13448043	Coripata	Coripata	Coripata,Municipio Coripata	-16.22678	-67.58505	A	ADM3	BO		04		13448043		0		2321	America/La_Paz	2025-07-18
+13448044	Batallas	Batallas	Batallas,Municipio Batallas	-16.17591	-68.43591	A	ADM3	BO		04		13448044		0		4289	America/La_Paz	2025-07-18
+13448045	Copacabana	Copacabana	Copacabana,Municipio Copacabana	-16.1578	-69.03937	A	ADM3	BO		04		13448045		0		4021	America/La_Paz	2025-07-18
+13448046	San Pedro de Tiquina	San Pedro de Tiquina	Municipio San Pedro de Tiquina,San Pedro de Tiquina	-16.23603	-68.86558	A	ADM3	BO		04		13448046		0		3956	America/La_Paz	2025-07-18
+13448047	Puerto Pérez	Puerto Perez	Municipio Puerto Perez,Municipio Puerto Pérez,Puerto Perez,Puerto Pérez	-16.34046	-68.63938	A	ADM3	BO		04		13448047		0		3824	America/La_Paz	2025-07-18
+13448048	Pucarani	Pucarani	Municipio Pucarani,Pucarani	-16.40443	-68.38312	A	ADM3	BO		04		13448048		0		3922	America/La_Paz	2025-07-18
+13448052	Achocalla	Achocalla	Achocalla,Municipio Achocalla	-16.66227	-68.12535	A	ADM3	BO		04		13448052		0		3983	America/La_Paz	2025-07-18
+13448053	Mecapaca	Mecapaca	Mecapaca,Municipio Mecapaca	-16.71854	-67.97865	A	ADM3	BO		04		13448053		0		2823	America/La_Paz	2025-07-18
+13448054	Calamarca	Calamarca	Calamarca,Municipio Calamarca	-16.89046	-68.11243	A	ADM3	BO		04		13448054		0		4156	America/La_Paz	2025-07-18
+13448055	Comanche	Comanche	Comanche,Municipio Comanche	-16.95044	-68.45016	A	ADM3	BO		04		13448055		0		4166	America/La_Paz	2025-07-18
+13448057	Ocurí	Ocuri	Municipio Ocuri,Municipio Ocurí,Ocuri,Ocurí	-18.88983	-65.76843	A	ADM3	BO		07		13448057		0		3835	America/La_Paz	2025-07-18
+13448058	Ravelo	Ravelo	Municipio Ravelo,Ravelo	-18.7527	-65.56337	A	ADM3	BO		07		13448058		0		3508	America/La_Paz	2025-07-18
+13448059	Sucre	Sucre	Municipio Sucre,Sucre	-18.98705	-65.20474	A	ADM3	BO		01		13448059		0		2975	America/La_Paz	2025-07-18
+13448060	Toledo	Toledo	Municipio Toledo,Toledo	-18.28417	-67.38737	A	ADM3	BO		05		13448060		0		3683	America/La_Paz	2025-07-18
+13448061	Corque	Corque	Corque,Municipio Corque	-18.46415	-67.79945	A	ADM3	BO		05		13448061		0		3788	America/La_Paz	2025-07-18
+13448062	Turco	Turco	Municipio Turco,Turco	-18.33706	-68.53024	A	ADM3	BO		05		13448062		0		3830	America/La_Paz	2025-07-18
+13448063	Andamarca	Andamarca	Andamarca,Municipio Andamarca	-18.89255	-67.38106	A	ADM3	BO		05		13448063		0		3719	America/La_Paz	2025-07-18
+13448064	Pazña	Pazna	Municipio Pazna,Municipio Pazña,Pazna,Pazña	-18.61341	-66.91297	A	ADM3	BO		05		13448064		0		3703	America/La_Paz	2025-07-18
+13448088	Calacoto	Calacoto	Calacoto,Municipio Calacoto	-17.51063	-68.66565	A	ADM3	BO		04		13448088		0		3917	America/La_Paz	2025-07-18
+13448089	Curahuara de Carangas	Curahuara de Carangas	Curahuara de Carangas,Municipio Curahuara de Carangas	-17.99687	-68.61578	A	ADM3	BO		05		13448089		0		4062	America/La_Paz	2025-07-18
+13448090	Totora	Totora	Municipio Totora,Totora	-17.85489	-68.17995	A	ADM3	BO		05		13448090		0		4165	America/La_Paz	2025-07-18
+13448091	San Pedro de Curahuara	San Pedro de Curahuara	Municipio San Pedro de Curahuara,San Pedro de Curahuara	-17.63349	-67.96664	A	ADM3	BO		04		13448091		0		3767	America/La_Paz	2025-07-18
+13448092	Papel Pampa	Papel Pampa	Municipio Papel Pampa,Papel Pampa	-17.6972	-67.70958	A	ADM3	BO		04		13448092		0		3801	America/La_Paz	2025-07-18
+13448093	Umala	Umala	Municipio Umala,Umala	-17.40398	-67.9972	A	ADM3	BO		04		13448093		0		3840	America/La_Paz	2025-07-18
+13448094	Sicasica	Sicasica	Municipio Sicasica,Sicasica	-17.3745	-67.61912	A	ADM3	BO		04		13448094		0		3941	America/La_Paz	2025-07-18
+13448095	Yaco	Yaco	Municipio Yaco,Yaco	-17.24702	-67.3886	A	ADM3	BO		04		13448095		0		3962	America/La_Paz	2025-07-18
+13448096	Patacamaya	Patacamaya	Municipio Patacamaya,Patacamaya	-17.22921	-67.91047	A	ADM3	BO		04		13448096		0		3882	America/La_Paz	2025-07-18
+13448097	Santiago de Machaca	Santiago de Machaca	Municipio Santiago de Machaca,Santiago de Machaca	-17.2114	-69.26767	A	ADM3	BO		04		13448097		0		4207	America/La_Paz	2025-07-18
+13448098	Ichoca	Ichoca	Ichoca,Municipio Ichoca	-17.18492	-67.19348	A	ADM3	BO		04		13448098		0		4492	America/La_Paz	2025-07-18
+13448099	Ayo Ayo	Ayo Ayo	Ayo Ayo,Municipio Ayo Ayo	-17.07674	-68.01966	A	ADM3	BO		04		13448099		0		3962	America/La_Paz	2025-07-18
+13448100	Luribay	Luribay	Luribay,Municipio Luribay	-17.06891	-67.63261	A	ADM3	BO		04		13448100		0		2823	America/La_Paz	2025-07-18
+13448101	Sapahaqui	Sapahaqui	Municipio Sapahaqui,Sapahaqui	-16.95492	-67.82141	A	ADM3	BO		04		13448101		0		3033	America/La_Paz	2025-07-18
+13448102	Cairoma	Cairoma	Cairoma,Municipio Cairoma	-16.84578	-67.57689	A	ADM3	BO		04		13448102		0		3273	America/La_Paz	2025-07-18
+13448103	Caquiaviri	Caquiaviri	Caquiaviri,Municipio Caquiaviri	-17.08523	-68.81794	A	ADM3	BO		04		13448103		0		3674	America/La_Paz	2025-07-18
+13448104	Colquencha	Colquencha	Colquencha,Municipio Colquencha	-16.99366	-68.26001	A	ADM3	BO		04		13448104		0		4345	America/La_Paz	2025-07-18
+13448105	Llallagua	Llallagua	Llallagua,Municipio Llallagua	-18.36339	-66.57214	A	ADM3	BO		07		13448105		0		3991	America/La_Paz	2025-07-18
+13448106	Sacaca	Sacaca	Municipio Sacaca,Sacaca	-18.11765	-66.34363	A	ADM3	BO		07		13448106		0		4009	America/La_Paz	2025-07-18
+13448107	Chayanta	Chayanta	Chayanta,Municipio Chayanta	-18.42277	-66.36113	A	ADM3	BO		07		13448107		0		4124	America/La_Paz	2025-07-18
+13448108	Uncía	Uncia	Municipio Uncia,Municipio Uncía,Uncia,Uncía	-18.58843	-66.53141	A	ADM3	BO		07		13448108		0		3879	America/La_Paz	2025-07-18
+13448109	Pocoata	Pocoata	Municipio Pocoata,Pocoata	-18.63938	-66.15577	A	ADM3	BO		07		13448109		0		3612	America/La_Paz	2025-07-18
+13448110	Challapata	Challapata	Challapata,Municipio Challapata	-18.82887	-66.44484	A	ADM3	BO		05		13448110		0		4096	America/La_Paz	2025-07-18
+13448111	Tinguipaya	Tinguipaya	Municipio Tinguipaya,Tinguipaya	-19.17001	-65.9041	A	ADM3	BO		07		13448111		0		3578	America/La_Paz	2025-07-18
+13448112	Colquechaca	Colquechaca	Colquechaca,Municipio Colquechaca	-18.66613	-65.90212	A	ADM3	BO		07		13448112		0		3953	America/La_Paz	2025-07-18
+13448113	Aiquile	Aiquile	Aiquile,Municipio Aiquile	-18.32336	-65.1038	A	ADM3	BO		02		13448113		0		2738	America/La_Paz	2025-07-18
+13448114	Toro Toro	Toro Toro	Municipio Toro Toro,Toro Toro	-18.2322	-65.69321	A	ADM3	BO		07		13448114		0		2880	America/La_Paz	2025-07-18
+13448115	Acasio	Acasio	Acasio,Municipio Acasio	-18.05	-66.01447	A	ADM3	BO		07		13448115		0		3454	America/La_Paz	2025-07-18
+13448116	Arampampa	Arampampa	Arampampa,Municipio Arampampa	-17.94527	-66.12592	A	ADM3	BO		07		13448116		0		2941	America/La_Paz	2025-07-18
+13448117	Anzaldo	Anzaldo	Anzaldo,Municipio Anzaldo	-17.84366	-65.9167	A	ADM3	BO		02		13448117		0		2862	America/La_Paz	2025-07-18
+13448118	Tarata	Tarata	Municipio Tarata,Tarata	-17.69183	-66.06536	A	ADM3	BO		02		13448118		0		3330	America/La_Paz	2025-07-18
+13448119	Capinota	Capinota	Capinota,Municipio Capinota	-17.7887	-66.22042	A	ADM3	BO		02		13448119		0		3057	America/La_Paz	2025-07-18
+13448120	Arque	Arque	Arque,Municipio Arque	-17.84391	-66.40744	A	ADM3	BO		02		13448120		0		3213	America/La_Paz	2025-07-18
+13448121	Tacopaya	Tacopaya	Municipio Tacopaya,Tacopaya	-17.82651	-66.6259	A	ADM3	BO		02		13448121		0		3575	America/La_Paz	2025-07-18
+13448122	Caracollo	Caracollo	Caracollo,Municipio Caracollo	-17.70855	-67.24812	A	ADM3	BO		05		13448122		0		4023	America/La_Paz	2025-07-18
+13448123	Colquiri	Colquiri	Colquiri,Municipio Colquiri	-17.42131	-66.99418	A	ADM3	BO		04		13448123		0		4101	America/La_Paz	2025-07-18
+13448124	Ayopaya	Ayopaya	Ayopaya,Municipio Ayopaya	-17.16175	-66.7975	A	ADM3	BO		02		13448124		0		3584	America/La_Paz	2025-07-18
+13448125	Santiváñez	Santivanez	Municipio Santivanez,Municipio Santiváñez,Santivanez,Santiváñez	-17.57853	-66.20795	A	ADM3	BO		02		13448125		0		2730	America/La_Paz	2025-07-18
+13448126	Colomi	Colomi	Colomi,Municipio Colomi	-17.24667	-65.92471	A	ADM3	BO		02		13448126		0		3169	America/La_Paz	2025-07-18
+13448127	Tolata	Tolata	Municipio Tolata,Tolata	-17.5267	-66.0027	A	ADM3	BO		02		13448127		0		2947	America/La_Paz	2025-07-18
+13448128	San Benito	San Benito	Municipio San Benito,San Benito	-17.50218	-65.88316	A	ADM3	BO		02		13448128		0		2888	America/La_Paz	2025-07-18
+13448129	Cliza	Cliza	Cliza,Municipio Cliza	-17.58194	-65.93669	A	ADM3	BO		02		13448129		0		2546	America/La_Paz	2025-07-18
+13448130	Arbieto	Arbieto	Arbieto,Municipio Arbieto	-17.56952	-66.0947	A	ADM3	BO		02		13448130		0		2764	America/La_Paz	2025-07-18
+13448131	Sacabamba	Sacabamba	Municipio Sacabamba,Sacabamba	-17.78002	-65.78241	A	ADM3	BO		02		13448131		0		3317	America/La_Paz	2025-07-18
+13448132	Toco	Toco	Municipio Toco,Toco	-17.64747	-65.92049	A	ADM3	BO		02		13448132		0		2781	America/La_Paz	2025-07-18
+13448133	Villa Rivero	Villa Rivero	Municipio Villa Rivero,Villa Rivero	-17.64915	-65.85719	A	ADM3	BO		02		13448133		0		2890	America/La_Paz	2025-07-18
+13448134	Arani	Arani	Arani,Municipio Arani	-17.59272	-65.72657	A	ADM3	BO		02		13448134		0		3175	America/La_Paz	2025-07-18
+13448135	Villa Gualberto Villarroel	Villa Gualberto Villarroel	Municipio Villa Gualberto Villarroel,Villa Gualberto Villarroel	-17.69001	-65.77107	A	ADM3	BO		02		13448135		0		3416	America/La_Paz	2025-07-18
+13448136	Alalay	Alalay	Alalay,Municipio Alalay	-17.77326	-65.63003	A	ADM3	BO		02		13448136		0		3338	America/La_Paz	2025-07-18
+13448137	Tiraque	Tiraque	Municipio Tiraque,Tiraque	-17.33664	-65.5173	A	ADM3	BO		02		13448137		0		2621	America/La_Paz	2025-07-18
+13448138	Totora	Totora	Municipio Totora,Totora	-17.58633	-65.14433	A	ADM3	BO		02		13448138		0		3706	America/La_Paz	2025-07-18
+13448139	Pojo	Pojo	Municipio Pojo,Pojo	-17.60053	-64.86353	A	ADM3	BO		02		13448139		0		2375	America/La_Paz	2025-07-18
+13448140	Pocona	Pocona	Municipio Pocona,Pocona	-17.6818	-65.37184	A	ADM3	BO		02		13448140		0		2669	America/La_Paz	2025-07-18
+13448141	Comarapa	Comarapa	Comarapa,Municipio Comarapa	-17.80237	-64.43201	A	ADM3	BO		08		13448141		0		2005	America/La_Paz	2025-07-18
+13448142	Saipina	Saipina	Municipio Saipina,Saipina	-18.02356	-64.63993	A	ADM3	BO		08		13448142		0		1503	America/La_Paz	2025-08-14
+13448143	Omereque	Omereque	Municipio Omereque,Omereque	-18.07051	-64.89332	A	ADM3	BO		02		13448143		0		1799	America/La_Paz	2025-07-18
+13448144	Pasorapa	Pasorapa	Municipio Pasorapa,Pasorapa	-18.39233	-64.60088	A	ADM3	BO		02		13448144		0		2436	America/La_Paz	2025-07-18
+13448145	Pampa Grande	Pampa Grande	Municipio Pampa Grande,Pampa Grande	-18.066	-64.15795	A	ADM3	BO		08		13448145		0		1524	America/La_Paz	2025-07-18
+13448146	Vallegrande	Vallegrande	Municipio Vallegrande,Vallegrande	-18.79722	-63.93775	A	ADM3	BO		08		13448146		0		1197	America/La_Paz	2025-07-18
+13448147	Porongo	Porongo	Municipio Porongo,Porongo	-17.75026	-63.36484	A	ADM3	BO		08		13448147		0		464	America/La_Paz	2025-07-18
+13448148	Buena Vista	Buena Vista	Buena Vista,Municipio Buena Vista	-17.71009	-63.73418	A	ADM3	BO		08		13448148		0		1045	America/La_Paz	2025-07-18
+13448149	General Saavedra	General Saavedra	General Saavedra,Municipio General Saavedra	-17.18522	-63.16499	A	ADM3	BO		08		13448149		0		263	America/La_Paz	2025-07-18
+13448150	Mineros	Mineros	Mineros,Municipio Mineros	-17.09105	-63.29655	A	ADM3	BO		08		13448150		0		249	America/La_Paz	2025-07-18
+13448151	Yapacaní	Yapacani	Municipio Yapacani,Municipio Yapacaní,Yapacani,Yapacaní	-16.78638	-64.39892	A	ADM3	BO		08		13448151		0		184	America/La_Paz	2025-07-18
+13448152	San Juan	San Juan	Municipio San Juan,San Juan	-16.89717	-64.01946	A	ADM3	BO		08		13448152		0		213	America/La_Paz	2025-07-18
+13448153	Santa Rosa	Santa Rosa	Municipio Santa Rosa,Santa Rosa	-16.75037	-63.80342	A	ADM3	BO		08		13448153		0		216	America/La_Paz	2025-07-18
+13448154	San Pedro	San Pedro	Municipio San Pedro,San Pedro	-16.54818	-63.57353	A	ADM3	BO		08		13448154		0		207	America/La_Paz	2025-07-18
+13448155	El Puente	El Puente	El Puente,Municipio El Puente	-16.15764	-63.46828	A	ADM3	BO		08		13448155		0		297	America/La_Paz	2025-07-18
+13448156	Chimoré	Chimore	Chimore,Chimoré,Municipio Chimore,Municipio Chimoré	-16.57587	-64.88916	A	ADM3	BO		02		13448156		0		183	America/La_Paz	2025-07-18
+13448157	Puerto Villarroel	Puerto Villarroel	Municipio Puerto Villarroel,Puerto Villarroel	-17.04396	-64.86423	A	ADM3	BO		02		13448157		0		249	America/La_Paz	2025-07-18
+13448158	Villa Tunari	Villa Tunari	Municipio Villa Tunari,Villa Tunari	-16.7476	-65.60653	A	ADM3	BO		02		13448158		0		291	America/La_Paz	2025-07-18
+13448159	Inquisivi	Inquisivi	Inquisivi,Municipio Inquisivi	-16.69359	-66.95955	A	ADM3	BO		04		13448159		0		2654	America/La_Paz	2025-07-18
+13448160	Cajuata	Cajuata	Cajuata,Municipio Cajuata	-16.65204	-67.24068	A	ADM3	BO		04		13448160		0		1957	America/La_Paz	2025-07-18
+13448161	Irupana	Irupana	Irupana,Municipio Irupana	-16.53433	-67.50243	A	ADM3	BO		04		13448161		0		3107	America/La_Paz	2025-07-18
+13448162	Chulumani	Chulumani	Chulumani,Municipio Chulumani	-16.38914	-67.53763	A	ADM3	BO		04		13448162		0		1853	America/La_Paz	2025-07-18
+13448163	Coroico	Coroico	Coroico,Municipio Coroico	-16.17149	-67.78633	A	ADM3	BO		04		13448163		0		2109	America/La_Paz	2025-07-18
+13448164	San Ignacio	San Ignacio	Municipio San Ignacio,San Ignacio	-15.50675	-65.67162	A	ADM3	BO		03		13448164		0		324	America/La_Paz	2025-07-18
+13448165	Loreto	Loreto	Loreto,Municipio Loreto	-15.55661	-64.85177	A	ADM3	BO		03		13448165		0		177	America/La_Paz	2025-07-18
