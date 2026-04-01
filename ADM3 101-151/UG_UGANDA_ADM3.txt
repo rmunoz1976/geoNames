@@ -1,0 +1,174 @@
+﻿226029	Vurra County	Vurra County	Vura,Vurra County	2.86667	31	A	ADM3	UG		N	77	226029		0		976	Africa/Kampala	2013-12-13
+226108	Tororo County	Tororo County	Tororo,Tororo County	0.73583	34.24582	A	ADM3	UG		E	76	226108		0		1294	Africa/Kampala	2013-12-13
+226158	Terego County	Terego County		3.16667	31.16667	A	ADM3	UG		N	77	226158		0		783	Africa/Kampala	2013-12-13
+226232	Soroti County	Soroti County	Soroti	1.77563	33.59524	A	ADM3	UG		E	95	226232		0		1091	Africa/Kampala	2013-12-13
+226329	Serere County	Serere County		1.49946	33.54538	A	ADM3	UG		E	H5	226329		0		1123	Africa/Kampala	2017-04-13
+226512	Rwampara County	Rwampara County	Ruampara,Rwampara County	-0.71272	30.47127	A	ADM3	UG		W	52	226512		0		1501	Africa/Kampala	2017-04-13
+226611	Rukiga County	Rukiga County		-1.08333	30.03333	A	ADM3	UG		W	I8	226611		0		1770	Africa/Kampala	2018-06-23
+226689	Rubanda County	Rubanda County	Rubanda	-1.16667	29.91667	A	ADM3	UG		W	I7	226689		0		2156	Africa/Kampala	2018-06-23
+226767	Pian County	Pian County		2	34.5	A	ADM3	UG		N	91	226767		0		1140	Africa/Kampala	2013-12-13
+226822	Pallisa County	Pallisa County	Pallisa	1.16667	33.75	A	ADM3	UG		E	60	226822		0		1056	Africa/Kampala	2015-12-22
+226883	Oyam County	Oyam County		2.41667	32.58333	A	ADM3	UG		N	E2	226883		0		1056	Africa/Kampala	2012-04-28
+227037	Omoro County	Omoro County		2.75	32.5	A	ADM3	UG		N	I5	227037		0		1025	Africa/Kampala	2018-06-23
+227147	Okoro County	Okoro County		2.5	31	A	ADM3	UG		N	H7	227147		0		1153	Africa/Kampala	2013-12-13
+227613	Ntenjeru County	Ntenjeru County	Bugerere County,Ntenjeru County	0.7292	32.96585	A	ADM3	UG		C	83	227613		0		1117	Africa/Kampala	2017-04-11
+227915	Ndorwa County	Ndorwa County		-1.32236	30.05173	A	ADM3	UG		W	34	227915		0		2124	Africa/Kampala	2017-04-13
+228643	Mwenge County	Mwenge County		0.66667	30.66667	A	ADM3	UG		W	85	228643		0		1347	Africa/Kampala	2012-04-28
+229109	Moroto County	Moroto County		2.24613	33.25424	A	ADM3	UG		N	E4	229109		0		1102	Africa/Kampala	2017-04-11
+229304	Mawogola County	Mawogola County	Mawogola County	-0.13115	31.44493	A	ADM3	UG		C	74	229304		0		1256	Africa/Kampala	2012-04-28
+229332	Matheniko County	Matheniko County		2.58333	34.5	A	ADM3	UG		N	88	229332		0		1212	Africa/Kampala	2013-12-13
+229387	Maruzi County	Maruzi County		1.83333	32.41667	A	ADM3	UG		N	26	229387		0		1066	Africa/Kampala	2013-12-13
+229396	Maracha County	Maracha County	Maraca,Maracha County	3.25	30.91667	A	ADM3	UG		N	D7	229396		0		1183	Africa/Kampala	2013-12-13
+229762	Luuka County	Luuka County		0.75	33.33333	A	ADM3	UG		E	G4	229762		0		1123	Africa/Kampala	2013-12-13
+230209	Lamwo County	Lamwo County	Lamwo	3.5	32.66667	A	ADM3	UG		N	G3	230209		0		1045	Africa/Kampala	2016-03-24
+230247	Labwor County	Labwor County		2.66667	33.75	A	ADM3	UG		N	B6	230247		0		1180	Africa/Kampala	2013-12-13
+230499	Kyaka County	Kyaka County		0.5	31	A	ADM3	UG		W	G2	230499		0		1296	Africa/Kampala	2013-12-13
+230563	Kwania County	Kwania County		1.91667	32.75	A	ADM3	UG		N	26	230563		0		1072	Africa/Kampala	2013-12-13
+230723	Koboko County	Koboko County	Kobboko,Koboko County	3.5	31	A	ADM3	UG		N	D4	230723		0		1216	Africa/Kampala	2013-12-13
+231170	Kioga County	Kioga County	Kioga County,Kyoga	1.66667	32.75	A	ADM3	UG		N	B7	231170		0		1040	Africa/Kampala	2013-12-13
+231253	Kilak County	Kilak County		3	32	A	ADM3	UG		N	B9	231253		0		1143	Africa/Kampala	2013-12-13
+231410	Kigulu County	Kigulu County		0.75	33.5	A	ADM3	UG		E	78	231410		0		1120	Africa/Kampala	2013-12-13
+231597	Kibanda	Kibanda		2.01481	32.03573	A	ADM3	UG		W	F7	231597		0		1101	Africa/Kampala	2013-12-14
+231608	Kibale County	Kibale County	Kibale County	0.32871	30.54102	A	ADM3	UG		W	81	231608		0		1246	Africa/Kampala	2016-06-20
+232055	Kashari County	Kashari County		-0.46667	30.58333	A	ADM3	UG		W	52	232055		0		1441	Africa/Kampala	2013-12-13
+232958	Kabula County	Kabula County		-0.25	31.2	A	ADM3	UG		C	D5	232958		0		1342	Africa/Kampala	2013-12-13
+233018	Kaberamaido County	Kaberamaido County		1.8	33.25	A	ADM3	UG		E	80	233018		0		1090	Africa/Kampala	2013-12-13
+233111	Jonam County	Jonam County	Jonam County,Jumam	2.46667	31.41667	A	ADM3	UG		N	I6	233111		0		678	Africa/Kampala	2018-06-23
+233117	Jie County	Jie County		3	34	A	ADM3	UG		N	45	233117		0		1229	Africa/Kampala	2013-12-13
+233175	Isingiro County	Isingiro County	Ishingiro,Isingiro County	-0.78687	30.77133	A	ADM3	UG		W	C9	233175		0		1509	Africa/Kampala	2017-04-11
+233383	Gomba County	Gomba County		0.16667	31.75	A	ADM3	UG		C	F4	233383		0		1194	Africa/Kampala	2013-12-13
+233491	Erute County	Erute County	Erute County,Eruti	2.34997	32.95522	A	ADM3	UG		N	47	233491		0		1150	Africa/Kampala	2012-04-28
+233559	Dokolo County	Dokolo County	Dokolo,Dokolo County	1.9455	33.067	A	ADM3	UG		N	C7	233559		0		1037	Africa/Kampala	2013-12-13
+233569	Dodoth County	Dodoth County		3.58333	34	A	ADM3	UG		N	D1	233569		0		1415	Africa/Kampala	2013-12-13
+233642	Chua County	Chua County		3.33333	33.33333	A	ADM3	UG		N	84	233642		0		1026	Africa/Kampala	2013-12-13
+233860	Buyaga County	Buyaga County		0.97499	30.7988	A	ADM3	UG		W	I1	233860		0		1231	Africa/Kampala	2018-06-23
+233891	Buwekula County	Buwekula County		0.62381	31.49815	A	ADM3	UG		C	56	233891		0		1245	Africa/Kampala	2017-04-11
+233919	Buvuma County	Buvuma County		0.08333	33.25	A	ADM3	UG		C	F2	233919		0		1134	Africa/Kampala	2013-12-13
+234000	Butambala County	Butambala County		0.2	32.13333	A	ADM3	UG		C	F1	234000		0		1168	Africa/Kampala	2013-12-13
+234040	Busongora County	Busongora County	Busongora	0.11457	30.03588	A	ADM3	UG		W	40	234040		0		1292	Africa/Kampala	2015-12-22
+234053	Busiro County	Busiro County		0.22124	32.46905	A	ADM3	UG		C	96	234053		0		1160	Africa/Kampala	2012-04-28
+234123	Buruli	Buruli		1.33333	32.33333	A	ADM3	UG		C	73	234123		0		1081	Africa/Kampala	2012-04-28
+234147	Bunyole County	Bunyole County		0.91667	34	A	ADM3	UG		E	C6	234147		0		1082	Africa/Kampala	2013-12-13
+234151	Bunyaruguru County	Bunyaruguru County		-0.25492	30.00759	A	ADM3	UG		W	H4	234151		0		980	Africa/Kampala	2013-12-14
+234153	Bunyangabu County	Bunyangabu County	Bunyangabo,Bunyangabu County	0.37525	30.23643	A	ADM3	UG		W	H8	234153		0		1114	Africa/Kampala	2018-06-23
+234305	Bulamogi County	Bulamogi County		1	33.5	A	ADM3	UG		E	D2	234305		0		1081	Africa/Kampala	2013-12-13
+234463	Bujenje County	Bujenje County		1.61478	31.56921	A	ADM3	UG		W	50	234463		0		1106	Africa/Kampala	2017-04-13
+234484	Buhweju County	Buhweju County	Buhweju County,Buhwezu	-0.3	30.3	A	ADM3	UG		W	E6	234484		0		1700	Africa/Kampala	2013-12-13
+234502	Bugweri County	Bugweri County		0.66667	33.58333	A	ADM3	UG		E	78	234502		0		1072	Africa/Kampala	2013-12-13
+234617	Bugabula County	Bugabula County		1.08333	33.13333	A	ADM3	UG		E	38	234617		0		1062	Africa/Kampala	2013-12-13
+234720	Bokora County	Bokora County		2.33333	34.25	A	ADM3	UG		N	G8	234720		0		1139	Africa/Kampala	2013-12-13
+234911	Ayivu County	Ayivu County	Ai-Ivu,Ayivu County	3.05	30.91667	A	ADM3	UG		N	77	234911		0		1198	Africa/Kampala	2013-12-13
+235009	Aswa County	Aswa County		3	32.5	A	ADM3	UG		N	30	235009		0		995	Africa/Kampala	2013-12-13
+235054	Aringa County	Aringa County		3.58333	31.25	A	ADM3	UG		N	97	235054		0		930	Africa/Kampala	2013-12-13
+235185	Amuria County	Amuria County		2.08333	33.66667	A	ADM3	UG		E	B8	235185		0		1155	Africa/Kampala	2013-12-13
+235459	Agago County	Agago County		2.83333	33.33333	A	ADM3	UG		N	E3	235459		0		1034	Africa/Kampala	2013-12-13
+7732072	Mbarara Municipality	Mbarara Municipality		-0.60865	30.65732	A	ADM3	UG		W	52	7732072		0		1445	Africa/Kampala	2012-04-28
+7732075	Buikwe	Buikwe		0.3259	33.03625	A	ADM3	UG		C	E7	7732075		0		1243	Africa/Kampala	2013-12-14
+7732077	Tororo Municipality	Tororo Municipality	Tororo,Tororo Municipality	0.6878	34.18237	A	ADM3	UG		E	76	7732077		0		1255	Africa/Kampala	2012-04-28
+7732225	Entebbe Municipality	Entebbe Municipality		0.05638	32.45197	A	ADM3	UG		C	96	7732225		0		1137	Africa/Kampala	2012-04-28
+7732226	Fort Portal Municipality	Fort Portal Municipality		0.65681	30.27979	A	ADM3	UG		W	79	7732226		0		1504	Africa/Kampala	2012-04-28
+7732227	Gulu Municipality	Gulu Municipality		2.78202	32.29571	A	ADM3	UG		N	30	7732227		0		1118	Africa/Kampala	2012-04-28
+7732228	Jinja Municipality	Jinja Municipality		0.44308	33.21283	A	ADM3	UG		E	33	7732228		0		1190	Africa/Kampala	2012-04-28
+7732229	Kabale Municipality	Kabale Municipality		-1.26274	29.98812	A	ADM3	UG		W	34	7732229		0		1805	Africa/Kampala	2012-04-28
+7732230	Lira Municipality	Lira Municipality	Lira,Lira Municipality	2.25245	32.89746	A	ADM3	UG		N	47	7732230		0		1098	Africa/Kampala	2012-04-28
+7732231	Masaka Municipality	Masaka Municipality		-0.32574	31.73381	A	ADM3	UG		C	71	7732231		0		1246	Africa/Kampala	2012-04-28
+7732232	Mbale Municipality	Mbale Municipality	Mbale,Mbale Municipality	1.08014	34.17613	A	ADM3	UG		E	87	7732232		0		1128	Africa/Kampala	2012-04-28
+7732233	Moroto Municipality	Moroto Municipality		2.53299	34.65763	A	ADM3	UG		N	88	7732233		0		1368	Africa/Kampala	2012-04-28
+7732234	Soroti Municipality	Soroti Municipality		1.72946	33.61568	A	ADM3	UG		E	95	7732234		0		1125	Africa/Kampala	2012-04-28
+7732250	Bwamba County	Bwamba County	Bwamba	0.67238	30.05134	A	ADM3	UG		W	28	7732250		0		994	Africa/Kampala	2012-04-28
+7732254	Burahya County	Burahya County	Burahya	0.68025	30.34663	A	ADM3	UG		W	79	7732254		0		1488	Africa/Kampala	2013-12-14
+7732256	Bugahya	Bugahya		1.55358	31.24906	A	ADM3	UG		W	31	7732256		0		1064	Africa/Kampala	2012-04-28
+7732258	Kween	Kween		1.38707	34.57341	A	ADM3	UG		E	F9	7732258		0		2391	Africa/Kampala	2013-12-14
+7732260	Ruhaama	Ruhaama		-0.89085	30.39474	A	ADM3	UG		W	59	7732260		0		1522	Africa/Kampala	2012-04-28
+7732261	Rushenyi	Rushenyi		-1.03523	30.17957	A	ADM3	UG		W	59	7732261		0		1419	Africa/Kampala	2012-04-28
+7732262	Kajara	Kajara		-0.82703	30.13687	A	ADM3	UG		W	59	7732262		0		1604	Africa/Kampala	2012-04-28
+7732263	Sheema	Sheema		-0.5949	30.31135	A	ADM3	UG		W	H6	7732263		0		1501	Africa/Kampala	2013-12-14
+7732267	Igara	Igara		-0.45917	30.15797	A	ADM3	UG		W	29	7732267		0		1518	Africa/Kampala	2012-04-28
+7732383	Nakifuma	Nakifuma		0.59128	32.84462	A	ADM3	UG		C	90	7732383		0		1113	Africa/Kampala	2012-04-28
+7732384	Mukono	Mukono		0.16483	32.7343	A	ADM3	UG		C	90	7732384		0		1134	Africa/Kampala	2012-04-28
+7732385	Kyadondo	Kyadondo		0.45246	32.57871	A	ADM3	UG		C	96	7732385		0		1170	Africa/Kampala	2012-04-28
+7732525	Kinkiizi County	Kinkiizi County	Kinkiizi	-0.78828	29.73283	A	ADM3	UG		W	82	7732525		0		1289	Africa/Kampala	2012-04-28
+7732537	Kongasis County	Kongasis County	Kongasis	1.3174	34.73571	A	ADM3	UG		E	C4	7732537		0		2090	Africa/Kampala	2012-04-28
+7732730	Arua Municipality	Arua Municipality		3.02038	30.91527	A	ADM3	UG		N	77	7732730		0		1208	Africa/Kampala	2012-04-28
+7732900	Ibanda County	Ibanda County	Ibanda,Ibanda County	-0.07995	30.47561	A	ADM3	UG		W	C8	7732900		0		1427	Africa/Kampala	2012-04-28
+7732901	Kitagwenda County	Kitagwenda County	Kitagwenda,Kitagwenda County	-0.00433	30.35687	A	ADM3	UG		W	81	7732901		0		1332	Africa/Kampala	2012-04-28
+7732903	Bungokho County	Bungokho County	Bungokho,Bungokho County	1.02611	34.19919	A	ADM3	UG		E	87	7732903		0		1252	Africa/Kampala	2012-04-28
+7732905	Butebo County	Butebo County	Butebo,Butebo County	1.19347	33.93816	A	ADM3	UG		E	H9	7732905		0		1096	Africa/Kampala	2018-06-23
+7732906	Bukedea County	Bukedea County	Bukedea,Bukedea County	1.36457	34.12862	A	ADM3	UG		E	C3	7732906		0		1077	Africa/Kampala	2013-12-14
+7732907	Kumi County	Kumi County	Kumi,Kumi County	1.48002	33.9682	A	ADM3	UG		E	46	7732907		0		1151	Africa/Kampala	2012-04-28
+7732908	Ngora County	Ngora County	Ngora,Ngora County	1.48351	33.7403	A	ADM3	UG		E	G9	7732908		0		1059	Africa/Kampala	2013-12-14
+7732909	Kalaki County	Kalaki County	Kalaki,Kalaki County	1.82554	33.32252	A	ADM3	UG		E	80	7732909		0		1076	Africa/Kampala	2012-04-28
+7869947	Buliisa	Buliisa		1.97654	31.50686	A	ADM3	UG		W	C5	7869947		0		638	Africa/Kampala	2013-12-13
+7869954	Ruhinda	Ruhinda		-0.60819	30.02006	A	ADM3	UG		W	G6	7869954		0		1533	Africa/Kampala	2013-12-14
+7869955	Bubulo West	Bubulo West		0.89504	34.28306	A	ADM3	UG		E	D6	7869955		0		1260	Africa/Kampala	2018-06-26
+7869956	Bulambuli	Bulambuli		1.36787	34.28477	A	ADM3	UG		E	E9	7869956		0		1063	Africa/Kampala	2013-12-14
+7869957	Manjiya	Manjiya		1.04398	34.40112	A	ADM3	UG		E	C2	7869957		0		1953	Africa/Kampala	2013-12-14
+7869959	Budadiri	Budadiri		1.17312	34.32952	A	ADM3	UG		E	94	7869959		0		1234	Africa/Kampala	2012-04-28
+7869968	Bukonjo	Bukonjo		0.01997	29.8512	A	ADM3	UG		W	40	7869968		0		1071	Africa/Kampala	2012-04-28
+7870011	Nyabushozi	Nyabushozi		-0.29447	30.89502	A	ADM3	UG		W	D3	7870011		0		1391	Africa/Kampala	2012-04-28
+7870033	Tingey County	Tingey County		1.38487	34.40388	A	ADM3	UG		E	39	7870033		0		1795	Africa/Kampala	2012-04-28
+7874701	Bufumbira	Bufumbira		-1.3	29.72	A	ADM3	UG		W	43	7874701		0		1963	Africa/Kampala	2012-04-28
+7910214	Mawokota	Mawokota		0.05055	32.10574	A	ADM3	UG		C	89	7910214		0		1206	Africa/Kampala	2012-04-28
+7910218	Bujjumba	Bujjumba	Bujjumba County	-0.37591	32.16151	A	ADM3	UG		C	36	7910218		0		1134	Africa/Kampala	2013-12-15
+7910220	Kalungu County	Kalungu County		-0.149	31.78001	A	ADM3	UG		C	F5	7910220		0		1206	Africa/Kampala	2013-12-14
+7910221	Bukoto County	Bukoto County		-0.40512	31.76182	A	ADM3	UG		C	G5	7910221		0		1204	Africa/Kampala	2013-12-14
+7910224	Bukomansimbi County	Bukomansimbi County		-0.13046	31.62689	A	ADM3	UG		C	E8	7910224		0		1242	Africa/Kampala	2013-12-14
+8080237	Padyere	Padyere		2.37062	31.108	A	ADM3	UG		N	58	8080237		0		1327	Africa/Kampala	2013-12-13
+8643028	Kakuuto County	Kakuuto County		-0.8442	31.44547	A	ADM3	UG		C	I3	8643028		0		1181	Africa/Kampala	2018-06-23
+8644126	Nwoya	Nwoya		2.52747	31.84167	A	ADM3	UG		N	H2	8644126		0		953	Africa/Kampala	2013-12-15
+8644127	Obongi	Obongi		3.39299	31.55607	A	ADM3	UG		N	72	8644127		0		633	Africa/Kampala	2013-12-15
+8644128	Otuke	Otuke		2.4781	33.36292	A	ADM3	UG		N	H3	8644128		0		1082	Africa/Kampala	2013-12-15
+8644129	Buruuli	Buruuli		1.67114	31.81738	A	ADM3	UG		W	50	8644129		0		1081	Africa/Kampala	2013-12-15
+8644130	Usuk	Usuk		1.98658	34.03864	A	ADM3	UG		E	69	8644130		0		1073	Africa/Kampala	2013-12-15
+8644131	West Budama (Kisolo)	West Budama (Kisolo)		0.72147	34.02306	A	ADM3	UG		E	76	8644131		0		1126	Africa/Kampala	2013-12-15
+8644132	West Moyo	West Moyo		3.64175	31.77041	A	ADM3	UG		N	72	8644132		0		945	Africa/Kampala	2013-12-15
+8644133	East Moyo	East Moyo		3.22561	31.76944	A	ADM3	UG		N	65	8644133		0		851	Africa/Kampala	2013-12-15
+8644134	Kole	Kole		2.29329	32.76762	A	ADM3	UG		N	F8	8644134		0		1070	Africa/Kampala	2013-12-15
+8644135	Kooki	Kooki		-0.66696	31.28902	A	ADM3	UG		C	61	8644135		0		1274	Africa/Kampala	2013-12-15
+8644136	Busiki	Busiki		0.86871	33.68166	A	ADM3	UG		E	E1	8644136		0		1119	Africa/Kampala	2013-12-15
+8644137	Busujju	Busujju		0.30345	32.04008	A	ADM3	UG		C	D8	8644137		0		1234	Africa/Kampala	2013-12-15
+8644138	Butembe	Butembe		0.54104	33.28294	A	ADM3	UG		E	33	8644138		0		1158	Africa/Kampala	2013-12-15
+8644139	Buyanja	Buyanja		0.80155	31.06917	A	ADM3	UG		W	41	8644139		0		1312	Africa/Kampala	2013-12-15
+8644140	Buzaaya	Buzaaya		0.77204	33.12683	A	ADM3	UG		E	38	8644140		0		1076	Africa/Kampala	2013-12-15
+8644141	Chekwii	Chekwii		1.77698	34.58078	A	ADM3	UG		N	91	8644141		0		1125	Africa/Kampala	2013-12-15
+8644142	Hoima Municipality	Hoima Municipality		1.42994	31.3496	A	ADM3	UG		W	31	8644142		0		1137	Africa/Kampala	2013-12-15
+8644143	Kagoma	Kagoma		0.60267	33.1644	A	ADM3	UG		E	33	8644143		0		1119	Africa/Kampala	2013-12-15
+8644144	Kyotera District	Kyotera District		-0.65528	31.63627	A	ADM3	UG		C	I3	8644144		0		1227	Africa/Kampala	2020-03-26
+8644145	Lwemiyaga	Lwemiyaga		0.07642	31.17089	A	ADM3	UG		C	74	8644145		0		1243	Africa/Kampala	2013-12-15
+8644146	Madi-Okollo	Madi-Okollo		2.84201	31.22633	A	ADM3	UG		N	77	8644146		0		706	Africa/Kampala	2013-12-15
+8644147	Pokot	Pokot		1.80275	34.87667	A	ADM3	UG		N	E5	8644147		0		1318	Africa/Kampala	2013-12-15
+8644148	Rubabo	Rubabo		-0.92414	29.97084	A	ADM3	UG		W	93	8644148		0		1536	Africa/Kampala	2013-12-15
+8644149	Masindi Municipality	Masindi Municipality	Masindi Municipality	1.68024	31.71314	A	ADM3	UG		W	50	8644149		0		1116	Africa/Kampala	2024-05-22
+8644150	Rukungiri Municipality	Rukungiri Municipality		-0.78667	29.93202	A	ADM3	UG		W	93	8644150		0		1635	Africa/Kampala	2013-12-15
+8644151	Samia-Bugwe	Samia-Bugwe		0.41177	34.00541	A	ADM3	UG		E	67	8644151		0		1208	Africa/Kampala	2013-12-15
+8644152	Mityana	Mityana		0.50549	32.06865	A	ADM3	UG		C	D8	8644152		0		1336	Africa/Kampala	2013-12-15
+8644153	Nakaseke	Nakaseke		1.04872	32.16925	A	ADM3	UG		C	D9	8644153		0		1076	Africa/Kampala	2013-12-15
+8644154	Ntoroko	Ntoroko		1.01088	30.36329	A	ADM3	UG		W	H1	8644154		0		664	Africa/Kampala	2013-12-15
+8644155	Toroma	Toroma		1.70585	34.03658	A	ADM3	UG		E	69	8644155		0		1043	Africa/Kampala	2013-12-15
+8644156	Aruu	Aruu		2.93101	32.86979	A	ADM3	UG		N	92	8644156		0		994	Africa/Kampala	2013-12-15
+8644157	Bamunanika	Bamunanika		0.84299	32.67349	A	ADM3	UG		C	70	8644157		0		1101	Africa/Kampala	2013-12-15
+8644158	Bbaale	Bbaale		1.09952	32.85252	A	ADM3	UG		C	83	8644158		0		1061	Africa/Kampala	2013-12-15
+8644159	Budaka	Budaka		1.05987	33.98872	A	ADM3	UG		E	C1	8644159		0		1125	Africa/Kampala	2013-12-15
+8644160	Budiope	Budiope		1.26157	33.14166	A	ADM3	UG		E	F3	8644160		0		1057	Africa/Kampala	2013-12-15
+8644161	Bugangaizi	Bugangaizi		0.9847	31.29843	A	ADM3	UG		W	I2	8644161		0		1180	Africa/Kampala	2018-06-23
+8644162	Bughendera	Bughendera		0.6747	30.07293	A	ADM3	UG		W	28	8644162		0		1390	Africa/Kampala	2013-12-15
+8644163	Buhaguzi	Buhaguzi		1.30819	30.95011	A	ADM3	UG		W	31	8644163		0		1093	Africa/Kampala	2013-12-15
+8644164	Bunya	Bunya		-0.0902	33.55176	A	ADM3	UG		E	86	8644164		0		1134	Africa/Kampala	2013-12-15
+8644165	Bujumbura	Bujumbura		-0.59126	29.84601	A	ADM3	UG		W	93	8644165		0		1042	Africa/Kampala	2013-12-15
+8644166	Bukanga	Bukanga		-0.86825	31.02003	A	ADM3	UG		W	C9	8644166		0		1364	Africa/Kampala	2013-12-15
+8644167	Bukooli	Bukooli		-0.16151	33.79899	A	ADM3	UG		E	G7	8644167		0		1134	Africa/Kampala	2013-12-15
+8644168	Iganga Municipality	Iganga Municipality		0.614	33.4769	A	ADM3	UG		E	78	8644168		0		1154	Africa/Kampala	2013-12-15
+8644169	Mukono Municipality	Mukono Municipality		0.37495	32.71286	A	ADM3	UG		C	90	8644169		0		1192	Africa/Kampala	2013-12-15
+8644170	Kampala Capital City	Kampala Capital City	mdynt kmbala alʿasmt,مدينة كمبالا العاصمة	0.31576	32.5972	A	ADM3	UG		C	37	8644170		0		1148	Africa/Kampala	2020-07-16
+8644171	Kapelebyong	Kapelebyong		2.214	33.74343	A	ADM3	UG		E	B8	8644171		0		1100	Africa/Kampala	2013-12-15
+8644172	Kasambya	Kasambya		0.38577	31.26384	A	ADM3	UG		C	56	8644172		0		1219	Africa/Kampala	2013-12-15
+8644173	Kasese Municipality	Kasese Municipality		0.18333	30.08812	A	ADM3	UG		W	40	8644173		0		980	Africa/Kampala	2017-04-13
+8644174	Kasilo	Kasilo		1.4872	33.25651	A	ADM3	UG		E	H5	8644174		0		1034	Africa/Kampala	2013-12-15
+8644175	Kassanda	Kassanda		0.53821	31.75475	A	ADM3	UG		C	56	8644175		0		1265	Africa/Kampala	2013-12-15
+8644176	Katikamu	Katikamu		0.81274	32.47908	A	ADM3	UG		C	70	8644176		0		1105	Africa/Kampala	2013-12-15
+8644177	Kazo	Kazo		0.04156	30.79247	A	ADM3	UG		W	D3	8644177		0		1308	Africa/Kampala	2013-12-15
+8644178	Kiboga	Kiboga		1.01142	31.76467	A	ADM3	UG		C	42	8644178		0		1136	Africa/Kampala	2013-12-15
+8644179	Kibuku	Kibuku		1.05381	33.80131	A	ADM3	UG		E	F6	8644179		0		1094	Africa/Kampala	2013-12-15
+8644180	Kyamuswa	Kyamuswa		-0.62865	32.43274	A	ADM3	UG		C	36	8644180		0		1134	Africa/Kampala	2013-12-15
+8644181	Ntungamo Municipality	Ntungamo Municipality		-0.87978	30.27168	A	ADM3	UG		W	59	8644181		0		1434	Africa/Kampala	2013-12-15
+11887622	Bubulo East	Bubulo East		0.8906	34.37509	A	ADM3	UG		E	I4	11887622		0		1598	Africa/Kampala	2018-06-23

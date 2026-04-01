@@ -1,0 +1,4 @@
+﻿935213	Arrondissement de Saint-Pierre	Arrondissement de Saint-Pierre		-21.25	55.58333	A	ADM3	RE		RE	974	9742		307770		1496	Indian/Reunion	2019-03-29
+935220	Arrondissement de Saint-Paul	Arrondissement de Saint-Paul		-21.08333	55.33333	A	ADM3	RE		RE	974	9744		214073		1244	Indian/Reunion	2019-03-29
+935263	Arrondissement de Saint-Denis	Arrondissement de Saint-Denis		-20.91667	55.5	A	ADM3	RE		RE	974	9741		204304		172	Indian/Reunion	2019-03-29
+935266	Arrondissement de Saint-Benoît	Arrondissement de Saint-Benoit		-21.08333	55.66667	A	ADM3	RE		RE	974	9743		126777		611	Indian/Reunion	2019-03-29

@@ -1,0 +1,16 @@
+﻿1178858	Garhi Khairo Tehsil	Garhi Khairo Tehsil	Garhi Khairo,Khaira Garhi,Khaira Gārhi	28.06029	67.98033	A	ADM3	PK		05	1176514	1178858		193297		51	Asia/Karachi	2026-03-22
+1378287	Battagram Tehsil	Battagram Tehsil	Batagram,Battagram Tehsil,Besham,Beshām	34.7867	73.12133	A	ADM3	PK		03		1378287		0		2386	Asia/Karachi	2019-11-28
+1451524	Bāra Tehsīl	Bara Tehsil	Bara Tehsil,Bāra Tehsīl	33.91778	71.46444	A	ADM3	PK		03		1451524		0		463	Asia/Karachi	2014-06-04
+9072718	Havelian Tehsil	Havelian Tehsil		33.93333	73.11667	A	ADM3	PK		03		9072718		0		1145	Asia/Karachi	2014-06-04
+9072719	Abbottabad Tehsil	Abbottabad Tehsil		34.15583	73.21944	A	ADM3	PK		03		9072719		0		1220	Asia/Karachi	2014-06-04
+9072720	Bannu Tehsil	Bannu Tehsil		32.92147	70.71693	A	ADM3	PK		03		9072720		0		313	Asia/Karachi	2014-06-04
+9072721	Allai Tehsil	Allai Tehsil		34.82198	73.125	A	ADM3	PK		03	8224052	9072721		0		1980	Asia/Karachi	2016-12-14
+9072722	Battagram Tehsil	Battagram Tehsil		34.68284	73.02432	A	ADM3	PK		03	8224052	9072722		0		1147	Asia/Karachi	2016-12-15
+9072724	Daggar Tehsil	Daggar Tehsil		34.51139	72.48389	A	ADM3	PK		03		9072724		0		730	Asia/Karachi	2014-06-04
+9072725	Gagra Tehsil	Gagra Tehsil		34.47505	72.5386	A	ADM3	PK		03		9072725		0		673	Asia/Karachi	2014-06-04
+9782046	Pasni Tehsil	Pasni Tehsil		25.38838	63.10897	A	ADM3	PK		02		9782046		0		15	Asia/Karachi	2014-10-22
+10794221	Wazirabad Tehsil	Wazirabad Tehsil		32.42901	74.11804	A	ADM3	PK		04		10794221		0		232	Asia/Karachi	2015-10-06
+10983501	Dalbandin Nok Kundi	Dalbandin Nok Kundi		29.3644	63.44497	A	ADM3	PK		02	10983501	10983501		0		1584	Asia/Karachi	2019-11-28
+11744829	Rawalakot Tehsil	Rawalakot Tehsil	Rawalakot,Rawalakot Tehsil	33.86511	73.84964	A	ADM3	PK		06	11744829	11744829		0		1628	Asia/Karachi	2019-11-28
+12520654	Chitral Upper District	Chitral Upper District	Chitral Upper,Chitral Upper District	36.55495	72.47114	A	ADM3	PK		03		12520654		0		2476	Asia/Karachi	2023-04-06
+12520655	Chitral Lower	Chitral Lower	Chitral Lower,Chitral Lower District	36.01396	72.00439	A	ADM3	PK		03		12520655		0		1930	Asia/Karachi	2023-04-06

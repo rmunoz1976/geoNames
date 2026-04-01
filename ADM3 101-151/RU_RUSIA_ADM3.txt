@@ -1,0 +1,560 @@
+﻿461736	Oztishchevskiy Rayon	Oztishchevskiy Rayon	Oztishchevskiy Rayon,Oztishhevskij Rajon,Озтищевский Район	51.66667	45.5	A	ADM3	RU		67		461736		0		230	Europe/Saratov	2012-01-17
+462521	Zimovnikovskiy Rayon	Zimovnikovskiy Rayon	Zimovnikovskij rajon,Zimovnikovsky,Зимовнико́вский райо́н	47	42.75	A	ADM3	RU		61		462521		36132		100	Europe/Moscow	2022-11-08
+463345	Zheleznodorozhnyy Rayon	Zheleznodorozhnyy Rayon	Zheleznodorozhnyj Rajon,Zheleznodorozhnyy Rayon,Железнодорожный Район	54.26389	48.33028	A	ADM3	RU		81		463345		77670		139	Europe/Ulyanovsk	2025-09-09
+463515	Zharkovskiy Rayon	Zharkovskiy Rayon	Zharkovskij rajon,Zharkovskiy Rayon,Zharkovsky,Жарко́вский райо́н	55.86667	32.28333	A	ADM3	RU		77		463515		4684		172	Europe/Moscow	2022-11-08
+464106	Zavolzhskiy Rayon	Zavolzhskiy Rayon	Zavolzhskij Rajon,Zavolzhskiy Rayon,Заволжский Район	54.33889	48.49	A	ADM3	RU		81		464106		220892		47	Europe/Ulyanovsk	2025-09-09
+464125	Sheykh-Mansurovskiy Rayon	Sheykh-Mansurovskiy Rayon	Seyx-Mansuran Khost,Shejkh-Mansurovskij Rajon,Sheykh-Mansurovskiy Rayon,Stalinskii Rayon,Stalinskij Rajon,Stalinskiy Rayon,Zavodskoj Rajon,Zavodskoy Rayon,Şeyx-Mansuran Khoşt,Заводской Район,Сталинский Район,Шейх-Мансуран Кӏошт,Шейх-Мансуровский Район	43.31061	45.66561	A	ADM3	RU		12	11497700	464125		70000		134	Europe/Moscow	2023-12-11
+464269	Zasviyazhskiy Rayon	Zasviyazhskiy Rayon	Zasvijazhskij Rajon,Zasviyazhskiy Rayon,Засвияжский Район	54.29833	48.34667	A	ADM3	RU		81		464269		219568		93	Europe/Ulyanovsk	2025-09-09
+465289	Zalegoshchenskiy Rayon	Zalegoshchenskiy Rayon	Zalegoshchenskiy Rayon,Zalegoshchensky,Zalegoshhenskij rajon,Залегощенский райо́н	52.91667	36.83333	A	ADM3	RU		56		465289		13679		218	Europe/Moscow	2022-11-08
+467699	Yelovskiy Rayon	Yelovskiy Rayon		57	54.75	A	ADM3	RU		90		467699		0		144	Asia/Yekaterinburg	1994-04-09
+468306	Yegorlykskiy Rayon	Yegorlykskiy Rayon	Egorlykskij rajon,Егорлы́кский райо́н	46.5	40.58333	A	ADM3	RU		61		468306		33355		96	Europe/Moscow	2022-11-08
+468359	Yefremovskiy Rayon	Yefremovskiy Rayon	Efremovskij rajon,Yefremovskiy Rayon,Yefremovsky,Ефре́мовский райо́н	53.16667	38.16667	A	ADM3	RU		76		468359		56199		164	Europe/Moscow	2022-11-08
+469471	Yakshur-Bod’inskiy Rayon	Yakshur-Bod'inskiy Rayon		57.16667	53.16667	A	ADM3	RU		80		469471		0		145	Europe/Samara	1994-04-09
+470443	Vyksunskiy Rayon	Vyksunskiy Rayon		55.16667	42.25	A	ADM3	RU		51		470443		0		141	Europe/Moscow	1994-04-09
+470902	Vuktyl’skiy Rayon	Vuktyl'skiy Rayon		63.66667	57.33333	A	ADM3	RU		34		470902		0		126	Europe/Moscow	1994-04-09
+471428	Votkinskiy Rayon	Votkinskiy Rayon		57.001	54.046	A	ADM3	RU		80		471428		0		141	Europe/Samara	2025-08-18
+472483	Volodarskiy Rayon	Volodarskiy Rayon	Volodarskij Rajon,Volodarskiy Rayon,Володарский Район	53.27534	34.41308	A	ADM3	RU		10		472483		0		154	Europe/Moscow	2023-04-05
+473021	Vnukovo	Vnukovo	Vnukovo,Vnukovo District,Внуково	55.59	37.21667	A	ADM3	RU		48	490968	473021		25406		189	Europe/Moscow	2022-11-08
+475772	Vereshchaginskiy Rayon	Vereshchaginskiy Rayon		58.08333	54.5	A	ADM3	RU		90		475772		0		158	Asia/Yekaterinburg	1994-04-09
+477364	Vakhitovskiy Rayon	Vakhitovskiy Rayon	Vakhiov Rayoniy,Vakhiov Rayonıy,Vakhitov Rajony,Vakhitovskij Rajon,Vakhitovskiy Rayon,Вахитов Районы,Вахитовский Район	55.79394	49.1331	A	ADM3	RU		73	862913	477364		0		103	Europe/Moscow	2025-09-09
+477614	Uvarovskiy Rayon	Uvarovskiy Rayon	Uvarovskij rajon,Uvarovskiy Rayon,Uvarovsky,Ува́ровский райо́н	52	42.25	A	ADM3	RU		72		477614		9829		147	Europe/Moscow	2022-11-10
+478131	Ust’-Donetskiy Rayon	Ust'-Donetskiy Rayon	Ust'-Doneckij rajon,Ust-Donetsky,Усть-Доне́цкий райо́н	47.66667	40.83333	A	ADM3	RU		61		478131		31805		109	Europe/Moscow	2022-11-10
+478277	Usol’skiy Rayon	Usol'skiy Rayon		59.5	56.25	A	ADM3	RU		90		478277		0		129	Asia/Yekaterinburg	1994-04-09
+478345	Usinskiy Rayon	Usinskiy Rayon		65.91667	57.41667	A	ADM3	RU		34		478345		0		41	Europe/Moscow	1994-04-09
+479051	Umetskiy Rayon	Umetskiy Rayon	Umetskiy Rayon	52.58333	43	A	ADM3	RU		72		479051		10444		176	Europe/Moscow	2022-11-10
+479443	Uinskiy Rayon	Uinskiy Rayon		56.83333	56.5	A	ADM3	RU		90		479443		0		199	Asia/Yekaterinburg	1994-04-09
+480971	Tsentral’nyy Rayon	Tsentral'nyy Rayon		54.71667	20.5	A	ADM3	RU		23		480971		0		17	Europe/Kaliningrad	1996-12-03
+481028	Tselinskiy Rayon	Tselinskiy Rayon	Celinskij rajon,Tselinsky,Цели́нский райо́н	46.5	41	A	ADM3	RU		61		481028		30205		101	Europe/Moscow	2022-11-10
+481157	Trusovskiy Rayon	Trusovskiy Rayon	Trusovskij Rajon,Trusovskiy Rayon,Трусовский Район	46.35	48	A	ADM3	RU		07	824964	481157		0		-21	Europe/Astrakhan	2024-01-09
+483688	Temkinskiy Rayon	Temkinskiy Rayon		55.08333	35.01667	A	ADM3	RU		69		483688		0		201	Europe/Moscow	1994-04-09
+484393	Tarasovskiy Rayon	Tarasovskiy Rayon	Tarasovskij rajon,Tarasovsky,Тара́совский райо́н	48.66667	40.25	A	ADM3	RU		61		484393		28236		124	Europe/Moscow	2022-11-10
+485262	Sychëvskiy Rayon	Sychevskiy Rayon		55.83333	34.25	A	ADM3	RU		69		485262		0		194	Europe/Moscow	1994-04-09
+485760	Vostochnyy Rayon	Vostochnyy Rayon	Sverdlovskiy Rayon,Vostochnyj Rajon,Vostochnyy Rayon,Восточный Район	50.59499	36.6222	A	ADM3	RU		09		485760		0		115	Europe/Moscow	2024-10-11
+485762	Sverdlovskiy Rayon	Sverdlovskiy Rayon	Sverdlovskij rajon,Sverdlovskiy Rayon,Sverdlovsky,Свердло́вский райо́н	52.66667	36.33333	A	ADM3	RU		56		485762		15103		220	Europe/Moscow	2022-11-10
+487838	Stavropol’skiy Rayon	Stavropol'skiy Rayon	Stavropol'skij Rajon,Stavropol'skiy Rayon,Stavropol’skiy Rayon,Ставропольский Район	53.66667	49.25	A	ADM3	RU		65		487838		0		54	Europe/Samara	2012-01-17
+488213	Staroyur’yevskiy Rayon	Staroyur'yevskiy Rayon	Starojur'evskij Rajon,Staroyur'yevskiy Rayon,Staroyur’yevskiy Rayon,Староюрьевский Район	53.33333	40.75	A	ADM3	RU		72		488213		12186		155	Europe/Moscow	2022-11-10
+488690	Staropromyslovskiy Rayon	Staropromyslovskiy Rayon	Mashadovskii Rayon,Maskhadovn KIosht,Maskhadovskij Rajon,Masxadovn Khost,Masxadovn Khoşt,Mekhkda'ttan TIe,Mexkdattan The,Mexkdättan The,Rajon Zagradino,Rayon Zagradino,Staropromyslovskij Rajon,Staropromyslovskiy Rayon,Zagrjazhskij,Zagrjaƶskiy,Загряжский,Масхадовн КІошт,Масхадовский Район,Мехкдаьттан ТІе,Район Заградино,Старопромысловский Район	43.33592	45.67978	A	ADM3	RU		12	11497700	488690		0		125	Europe/Moscow	2017-04-07
+490004	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	57.0013	41.0248	A	ADM3	RU		21		490004		0		148	Europe/Moscow	2023-11-07
+490005	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	56.31574	43.99081	A	ADM3	RU		51	12041481	490005		148707		169	Europe/Moscow	2022-11-13
+490006	Sovetskiy Rayon	Sovetskiy Rayon	Sovet Rajony,Sovet Rayoniy,Sovet Rayonıy,Sovetskij Rajon,Sovetskiy Rayon,Совет Районы,Советский Район	55.8228	49.20015	A	ADM3	RU		73	862913	490006		0		91	Europe/Moscow	2025-09-09
+490010	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	53.24551	34.3493	A	ADM3	RU		10		490010		0		194	Europe/Moscow	2023-04-05
+490011	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	53.19108	50.22265	A	ADM3	RU		65		490011		178372		41	Europe/Samara	2025-07-16
+490013	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	52.7143	41.41355	A	ADM3	RU		72		490013		92545		151	Europe/Moscow	2024-04-20
+490019	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	46.29646	47.9986	A	ADM3	RU		07	824964	490019		0		-14	Europe/Astrakhan	2024-01-09
+490022	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	42.95724	47.50857	A	ADM3	RU		17		490022		0		-9	Europe/Moscow	2023-06-14
+490030	Sovetskiy Rayon	Sovetskiy Rayon		42.75	45.75	A	ADM3	RU		12		490030		0		1912	Europe/Moscow	2007-05-30
+490389	Sosnogorskiy Rayon	Sosnogorskiy Rayon	Sosnogorskij Rajon,Sosnogorskiy Rayon,Сосногорский Район	63.61667	53.85	A	ADM3	RU		34		490389		0		112	Europe/Moscow	2012-01-17
+490568	Sormovskiy Rayon	Sormovskiy Rayon	Sormovskij Rajon,Sormovskiy Rayon,Сормовский Район	56.37016	43.82127	A	ADM3	RU		51	12041481	490568		166000		77	Europe/Moscow	2019-04-19
+491148	Sokol’skiy Rayon	Sokol'skiy Rayon	Sokol'skij Rajon,Sokol'skiy Rayon,Sokol’skiy Rayon,Сокольский Район	57.25	43.41667	A	ADM3	RU		51		491148		0		127	Europe/Moscow	2012-01-17
+493703	Shpakovskiy Rayon	Shpakovskiy Rayon	Shpakovskij Rajon,Shpakovskiy Rayon,Shpakovsky,Spitsevskiy Rayon,Staro-Mar'yevskiy Rayon,Staro-Mar’yevskiy Rayon,Шпаковский Район	45.025	42.182	A	ADM3	RU		70		493703		144178		392	Europe/Moscow	2025-09-01
+493838	Sholokhovskiy Rayon	Sholokhovskiy Rayon	Sholokhovskij Rajon,Sholokhovskiy Rayon,Sholokhovsky,Veshenskiy Rayon,Шолоховский Район	49.75	41.75	A	ADM3	RU		61		493838		25598		193	Europe/Moscow	2022-11-13
+495386	Shchëkinskiy Rayon	Shchekinskiy Rayon	Shhjokinskij rajon,Щёкинский райо́н	54	37.5	A	ADM3	RU		76		495386		106337		249	Europe/Moscow	2022-11-08
+496013	Shakhunskiy Rayon	Shakhunskiy Rayon	Shakhunskij Rajon,Shakhunskiy Rayon,Шахунский Район	57.75	46.5	A	ADM3	RU		51		496013		0		111	Europe/Moscow	2012-01-17
+496156	Shablykinskiy Rayon	Shablykinskiy Rayon	Shablykinskij Rajon,Shablykinskiy Rayon,Шаблыкинский Район	52.83333	35.08333	A	ADM3	RU		56		496156		6968		173	Europe/Moscow	2022-11-10
+496294	Severnyy Rayon	Severnyy Rayon	Severnyj Rajon,Severnyy Rayon,Sok-Karmalinskiy Rayon,Северный Район	54.08333	52.83333	A	ADM3	RU		55		496294		0		220	Asia/Yekaterinburg	2012-01-17
+497216	Semikarakorskiy Rayon	Semikarakorskiy Rayon	Semikarakorskij Rajon,Semikarakorskiy Rayon,Semikarakorsky,Семикаракорский Район	47.5	41	A	ADM3	RU		61		497216		49077		24	Europe/Moscow	2022-11-10
+499056	Samarskiy Rayon	Samarskiy Rayon	Samarskij Rajon,Samarskiy Rayon,Самарский Район	53.18546	50.08743	A	ADM3	RU		65		499056		30473		65	Europe/Samara	2025-07-16
+499155	Sal’skiy Rayon	Sal'skiy Rayon	Sal'skii Raion,Sal'skij Rajon,Sal'skiy Rayon,Sal’skii Raion,Sal’skiy Rayon,Сальский Район	46.5	41.58333	A	ADM3	RU		61		499155		101784		31	Europe/Moscow	2022-11-10
+501279	Roslavl’skiy Rayon	Roslavl'skiy Rayon	Roslavl'skij Rajon,Roslavl'skiy Rayon,Roslavl’skiy Rayon,Рославльский Район	53.91667	32.91667	A	ADM3	RU		69		501279		69228		181	Europe/Moscow	2022-11-10
+504236	Pugachëvskiy Rayon	Pugachevskiy Rayon	Pugachevskiy Rayon,Pugachjovskij Rajon,Pugachëvskiy Rayon,Пугачёвский Район	52	49	A	ADM3	RU		67		504236		58223		28	Europe/Saratov	2022-11-10
+504756	Promyshlennyy Rayon	Promyshlennyy Rayon	Promyshlennyj Rajon,Promyshlennyy Rayon,Промышленный Район	53.23801	50.23894	A	ADM3	RU		65		504756		268675		90	Europe/Samara	2025-07-16
+504789	Proletarskiy Rayon	Proletarskiy Rayon	Proletarskij Rajon,Proletarskiy Rayon,Пролетарский Район	46.75	41.66667	A	ADM3	RU		61		504789		34094		18	Europe/Moscow	2022-11-09
+505048	Privolzhskiy Rayon	Privolzhskiy Rayon	Idel Bue Rajony,Idel Buye Rayoniy,Idel Buye Rayonıy,Privolzhskij Rajon,Privolzhskiy Rayon,Идел Буе Районы,Приволжский Район	55.75735	49.14954	A	ADM3	RU		73	862913	505048		0		65	Europe/Moscow	2025-09-09
+505228	Priozerskiy Rayon	Priozerskiy Rayon	Kaekisalmen piiri,Keksgol'mskiy Rayon,Keksgol’mskiy Rayon,Kyakisal'mskiy Rayon,Kyakisal’mskiy Rayon,Käkisalmen piiri,Priozerskij Rajon,Priozerskiy Rayon,Приозерский Район	60.91667	30	A	ADM3	RU		42		505228		0		9	Europe/Moscow	2012-11-26
+505246	Priokskiy Rayon	Priokskiy Rayon	Priokskij Rajon,Priokskiy Rayon,Приокский Район	56.29175	44.00331	A	ADM3	RU		51	12041481	505246		90000		181	Europe/Moscow	2019-04-19
+505584	Pravoberezhnyy Rayon	Pravoberezhnyy Rayon	Pravoberezhnyj Rajon,Pravoberezhnyy Rayon,Правобережный Район	53.40042	58.94887	A	ADM3	RU		13		505584		0		408	Asia/Yekaterinburg	2025-02-18
+507432	Pokrovskiy Rayon	Pokrovskiy Rayon	Pokrovskij Rajon,Pokrovskiy Rayon,Покровский Район	52.66667	36.75	A	ADM3	RU		56		507432		0		241	Europe/Moscow	2012-01-17
+508933	Pliyevskiy Gorodskoy Okrug	Pliyevskiy Gorodskoy Okrug	Akhsar,Akhsarovo,Plievo,Plievskij Gorodskoj Okrug,Plijevo,Pliyeva,Pliyevo,Pliyevskiy Gorodskoy Okrug,Плиево,Плиевский Городской Округ	43.28152	44.83771	A	ADM3	RU		19		508933		0		484	Europe/Moscow	2015-04-08
+510855	Pervomayskiy Rayon	Pervomayskiy Rayon	Pervomajskij Rajon,Pervomayskiy Rayon,Pervomaysky,Teplovskiy Rayon,Первомайский Район	51.83333	51.5	A	ADM3	RU		55		510855		23997		57	Asia/Yekaterinburg	2022-11-13
+511153	Perovo	Perovo	Perovo,Perovo District,Перово	55.73501	37.79088	A	ADM3	RU		48	8520891	511153		140783		163	Europe/Moscow	2022-11-09
+511178	Permskiy Rayon	Permskiy Rayon	Permskij Rajon,Permskiy Rayon,Пермский Район	57.886	55.998	A	ADM3	RU		90		511178		0		117	Asia/Yekaterinburg	2025-09-01
+511289	Perevolotskiy Rayon	Perevolotskiy Rayon	Perevolotskij Rajon,Perevolotskiy Rayon,Perevolotsky,Переволотский Район	52	54.25	A	ADM3	RU		55		511289		26316		252	Asia/Yekaterinburg	2022-11-09
+511787	Pechorskiy Rayon	Pechorskiy Rayon	Kozhvinskiy Rayon,Pechorskij Rajon,Pechorskiy Rayon,Печорский Район	65.13333	57.23333	A	ADM3	RU		34		511787		0		41	Europe/Moscow	2012-01-17
+514778	Orlovskiy Rayon	Orlovskiy Rayon	Orlovskij Rajon,Orlovskiy Rayon,Орловский Район	52.83333	36	A	ADM3	RU		56		514778		0		214	Europe/Moscow	2012-01-17
+514779	Orlovskiy Rayon	Orlovskiy Rayon	Orlovskij Rajon,Orlovskiy Rayon,Orlovsky,Орловский Район	46.58333	42.5	A	ADM3	RU		61		514779		37650		28	Europe/Moscow	2022-11-10
+514999	Orenburgskiy Rayon	Orenburgskiy Rayon	Orenburgskij Rajon,Orenburgskiy Rayon,Orenburgsky,Оренбургский Район	51.752	55.016	A	ADM3	RU		55		514999		98730		88	Asia/Yekaterinburg	2025-09-08
+515813	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Stalinskij Rajon,Stalinskiy Rayon,Октябрьский Район,Сталинский Район	57.03204	40.9479	A	ADM3	RU		21		515813		0		138	Europe/Moscow	2023-11-07
+515817	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Stalingradskiy Rayon,Октябрьский Район	54.71667	20.5	A	ADM3	RU		23		515817		0		17	Europe/Kaliningrad	2020-06-10
+515821	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Stalinskiy Rayon,Октябрьский Район	53.22016	50.1568	A	ADM3	RU		65		515821		110142		81	Europe/Samara	2025-07-16
+515822	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Sovetsky,Октябрьский Район	52.75027	41.43682	A	ADM3	RU		72		515822		154087		133	Europe/Moscow	2024-04-20
+515825	Zapadnyy Rayon	Zapadnyy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Zapadnyj Rajon,Zapadnyy Rayon,Западный Район,Октябрьский Район	50.60673	36.53926	A	ADM3	RU		09		515825		0		129	Europe/Moscow	2024-10-11
+515830	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	43.48333	43.61667	A	ADM3	RU		22		515830		0		487	Europe/Moscow	2012-01-17
+515831	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Jandarbievn KIosht,Oktjabr'skij Rajon,Oktjabr’skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Yandarbiyevn Khost,Yandarbiyevn̡ Khoşt,Октябрьский Район,Яндарбиевн КІошт	43.31219	45.72578	A	ADM3	RU		12	11497700	515831		0		119	Europe/Moscow	2017-04-07
+515834	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Shchuch'ye-Ozerskiy Rayon,Shchuch’ye-Ozerskiy Rayon,Shuch'ye-Ozerskiy Rayon,Shuch’ye-Ozerskiy Rayon,Октябрьский Район	56.5	57	A	ADM3	RU		90		515834		0		267	Asia/Yekaterinburg	2012-01-17
+515837	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	52.33333	55.5	A	ADM3	RU		55		515837		18762		133	Asia/Yekaterinburg	2022-11-10
+516251	Ocherskiy Rayon	Ocherskiy Rayon	Ocherskij Rajon,Ocherskiy Rayon,Очерский Район	57.91667	54.75	A	ADM3	RU		90		516251		0		198	Asia/Yekaterinburg	2012-01-17
+517277	Novozlatoustovskiy Rayon	Novozlatoustovskiy Rayon		55.16667	59.66667	A	ADM3	RU		13		517277		0		553	Asia/Yekaterinburg	1996-11-22
+517946	Novosil’skiy Rayon	Novosil'skiy Rayon	Novosil'skij Rajon,Novosil'skiy Rayon,Novosil’skiy Rayon,Новосильский Район	53	37.08333	A	ADM3	RU		56		517946		7435		231	Europe/Moscow	2022-11-09
+518946	Novoderevenskiy Rayon	Novoderevenskiy Rayon	Novoderevenskij Rajon,Novoderevenskiy Rayon,Новодеревенский Район	53.5	40.25	A	ADM3	RU		62		518946		0		151	Europe/Moscow	2012-01-17
+518949	Novodereven’kovskiy Rayon	Novodereven'kovskiy Rayon	Novodereven'kovskij Rajon,Novodereven'kovskiy Rayon,Novodereven’kovskiy Rayon,Новодеревеньковский Район	53	37.58333	A	ADM3	RU		56		518949		0		250	Europe/Moscow	2012-01-17
+519097	Novoaleksandrovskiy Rayon	Novoaleksandrovskiy Rayon	Novoaleksandrovskij Rajon,Novoaleksandrovskiy Rayon,Новоалександровский Район	45.5	41.25	A	ADM3	RU		70		519097		0		112	Europe/Moscow	2012-01-17
+521191	Nizhegorodskiy Rayon	Nizhegorodskiy Rayon	Nizhegorodskij Rajon,Nizhegorodskiy Rayon,Нижегородский Район	56.32797	44.02437	A	ADM3	RU		51	12041481	521191		0		128	Europe/Moscow	2019-04-19
+521706	Nikol’skiy Rayon	Nikol'skiy Rayon	Nikol'skij Rajon,Nikol'skiy Rayon,Nikol’skiy Rayon,Никольский Район	59.5	45.5	A	ADM3	RU		85		521706		19871		183	Europe/Moscow	2022-11-09
+521707	Nikol’skiy Rayon	Nikol'skiy Rayon	Nikol'skij Rajon,Nikol'skiy Rayon,Nikolopestravskiy Rayon,Nikol’skiy Rayon,Никольский Район	53.75	46.08333	A	ADM3	RU		57		521707		30231		293	Europe/Moscow	2022-11-09
+522405	Nevel’skiy Rayon	Nevel'skiy Rayon	Nevel'skij Rajon,Nevel'skiy Rayon,Nevel’skiy Rayon,Невельский Район	56	30	A	ADM3	RU		60		522405		23828		149	Europe/Moscow	2022-11-09
+523314	Nasyr-Kortskiy Gorodskoy Okrug	Nasyr-Kortskiy Gorodskoy Okrug	Nasyr-Kort,Nasyr-Kortskij Gorodskoj Okrug,Nasyr-Kortskiy Gorodskoy Okrug,Novaya Digora,Novodigorskoye,Насыр-Кортский Городской Округ	43.20977	44.80729	A	ADM3	RU		19		523314		0		525	Europe/Moscow	2015-04-08
+524626	Muchkapskiy Rayon	Muchkapskiy Rayon	Muchkapskij Rajon,Muchkapskiy Rayon,Мучкапский Район	51.8325	42.50003	A	ADM3	RU		72		524626		12926		125	Europe/Moscow	2023-02-10
+524910	Moskovskiy Rayon	Moskovskiy Rayon	Moskovskij Rajon,Moskovskiy Rayon,Московский Район	56.33592	43.8587	A	ADM3	RU		51	12041481	524910		123000		83	Europe/Moscow	2019-04-19
+524911	Moskovskiy Rayon	Moskovskiy Rayon	Moskovskij Rajon,Moskovskiy Rayon,Московский Район	56.15	47.25	A	ADM3	RU		16		524911		0		64	Europe/Moscow	2012-01-17
+524912	Moskovskiy Rayon	Moskovskiy Rayon	Maskaw Rayoniy,Moskovskij Rajon,Moskovskiy Rayon,Məskəw Rayonıy,Московский Район,Мәскәү Районы	55.866	49.003	A	ADM3	RU		73	862913	524912		0		127	Europe/Moscow	2025-09-22
+524916	Moskovskiy Rayon	Moskovskiy Rayon	Moskovskij Rajon,Moskovskiy Rayon,Московский Район	54.7	20.498	A	ADM3	RU		23		524916		0		12	Europe/Kaliningrad	2025-09-01
+535444	Ordzhonikidzevskiy Rayon	Ordzhonikidzevskiy Rayon	Levoberezhnyj Rajon,Levoberezhnyy Rayon,Ordzhonikidzevskij Rajon,Ordzhonikidzevskiy Rayon,Левобережный Район,Орджоникидзевский Район	53.37041	59.08309	A	ADM3	RU		13		535444		0		372	Asia/Yekaterinburg	2025-02-18
+536053	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	56.97649	41.00612	A	ADM3	RU		21		536053		0		108	Europe/Moscow	2023-11-07
+536056	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	56.31503	43.93923	A	ADM3	RU		51	12041481	536056		140000		78	Europe/Moscow	2019-04-19
+536058	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	56.132	47.249	A	ADM3	RU		16		536058		0		141	Europe/Moscow	2025-08-18
+536059	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	55.75	49.13333	A	ADM3	RU		73	862913	536059		0		52	Europe/Moscow	2011-12-07
+536060	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	55.16667	59.66667	A	ADM3	RU		13		536060		0		553	Asia/Yekaterinburg	2012-01-17
+536064	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	54.33	48.4	A	ADM3	RU		81		536064		105009		182	Europe/Ulyanovsk	2016-10-15
+536066	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	53.46832	59.01424	A	ADM3	RU		13		536066		0		348	Asia/Yekaterinburg	2025-02-18
+536068	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	53.20349	50.12646	A	ADM3	RU		65		536068		63834		101	Europe/Samara	2025-07-16
+536069	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	52.72159	41.45498	A	ADM3	RU		72		536069		40584		123	Europe/Moscow	2024-04-20
+536076	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	46.38834	48.11015	A	ADM3	RU		07		536076		0		-23	Europe/Astrakhan	2024-01-09
+536080	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	43.48333	43.61667	A	ADM3	RU		22		536080		0		487	Europe/Moscow	2012-01-17
+536081	Leninskiy Rayon	Leninskiy Rayon	Leniniskiy,Leninskij Rajon,Leninskiy Rayon,Molotovskiy Rayon,Ленинский Район	43.33367	45.72956	A	ADM3	RU		12	11497700	536081		0		114	Europe/Moscow	2017-04-07
+536083	Leninskiy Rayon	Leninskiy Rayon	Karabudokhentskij Rajon,Karabudokhkentskiy Rayon,Leninskij Rajon,Leninskiy Rayon,Карабудохентский Район,Ленинский Район	42.92476	47.56746	A	ADM3	RU		17		536083		0		-11	Europe/Moscow	2023-06-14
+536194	Leningradskiy Rayon	Leningradskiy Rayon	Leningradskij Rajon,Leningradskiy Rayon,Ленинградский Район	54.71667	20.5	A	ADM3	RU		23		536194		0		17	Europe/Kaliningrad	2012-01-17
+538052	Kuybyshevskiy Rayon	Kuybyshevskiy Rayon	Kujbyshevskij Rajon,Kuybyshevskiy Rayon,Куйбышевский Район	53.12703	50.0857	A	ADM3	RU		65		538052		80439		35	Europe/Samara	2025-07-16
+539553	Kulebakskiy Rayon	Kulebakskiy Rayon		55.4	42.53333	A	ADM3	RU		51		539553		0		112	Europe/Moscow	1994-04-09
+542394	Krasnoglinskiy Rayon	Krasnoglinskiy Rayon	Krasnoglinskij Rajon,Krasnoglinskiy Rayon,Красноглинский Район	53.30025	50.2608	A	ADM3	RU		65		542394		66785		144	Europe/Samara	2025-07-16
+545704	Komsomolsky Rayon	Komsomolsky Rayon	Komsomol'skij rajon,Komsomol'skiy Rayon,Komsomol’skiy Rayon,Комсомольский район	55.67751	52.31144	A	ADM3	RU		73	480620	545704		0		68	Europe/Moscow	2013-11-22
+548367	Kirovskiy Rayon	Kirovskiy Rayon	Kirov Rajony,Kirov Rayoniy,Kirov Rayonıy,Kirovskij Rajon,Kirovskiy Rayon,Киров Районы,Кировский Район	55.83434	48.9699	A	ADM3	RU		73	862913	548367		0		98	Europe/Moscow	2025-09-09
+548369	Kirovskiy Rayon	Kirovskiy Rayon	Kirovskij Rajon,Kirovskiy Rayon,Кировский Район	53.25309	50.2596	A	ADM3	RU		65		548369		231064		85	Europe/Samara	2025-07-16
+548374	Kirovskiy Rayon	Kirovskiy Rayon	Kirovskij Rajon,Kirovskiy Rayon,Кировский Район	46.34587	48.07826	A	ADM3	RU		07		548374		0		-11	Europe/Astrakhan	2024-01-09
+553208	Kanavinskiy Rayon	Kanavinskiy Rayon		56.33406	43.96257	A	ADM3	RU		51	12041481	553208		157000		74	Europe/Moscow	2019-04-19
+554179	Kalininskiy Rayon	Kalininskiy Rayon		56.12	47.304	A	ADM3	RU		16		554179		0		168	Europe/Moscow	2025-08-18
+562064	Gamurziyevskiy Gorodskoy Okrug	Gamurziyevskiy Gorodskoy Okrug	Gamurzievskij Gorodskoj Okrug,Gamurziyevo,Gamurziyevskiy Gorodskoy Okrug,Rukhs,Гамурзиевский Городской Округ	43.21658	44.7973	A	ADM3	RU		19		562064		0		538	Europe/Moscow	2015-04-08
+562327	Frunzenskiy Rayon	Frunzenskiy Rayon	Frunzenskij Rajon,Frunzenskiy Rayon,Фрунзенский Район	56.98813	40.9486	A	ADM3	RU		21		562327		0		134	Europe/Moscow	2023-11-07
+562565	Fokinskiy Rayon	Fokinskiy Rayon	Fokinskij Rajon,Fokinskiy Rayon,Фокинский Район	53.21581	34.41227	A	ADM3	RU		10		562565		0		161	Europe/Moscow	2023-04-05
+576699	Beskudnikovo	Beskudnikovo	Beskudnikovkij,Beskudnikovo,Beskudnikovsky District,Бескудниковкий	55.86	37.56	A	ADM3	RU		48	471823	576699		74790		159	Europe/Moscow	2016-04-03
+578643	Baumanskiy Rayon	Baumanskiy Rayon	Baumanskij Rajon,Baumanskiy Rayon,Бауманский Район	55.75	49.13333	A	ADM3	RU		73	862913	578643		0		52	Europe/Moscow	2016-08-03
+579011	Barsukinskiy Gorodskoy Okrug	Barsukinskiy Gorodskoy Okrug	Barsuki,Barsukinskij Gorodskoj Okrug,Barsukinskiy Gorodskoy Okrug,Bursuki,Khordzhin,Барсукинский Городской Округ	43.26184	44.8091	A	ADM3	RU		19		579011		0		522	Europe/Moscow	2015-04-08
+579368	Baltiyskiy Rayon	Baltiyskiy Rayon		54.71667	20.5	A	ADM3	RU		23		579368		0		17	Europe/Kaliningrad	1996-12-03
+580219	Avtozavodskiy Rayon	Avtozavodskiy Rayon	Autozavodskiy,Avtozavodskiy Rayon	56.25057	43.85499	A	ADM3	RU		51	12041481	580219		300000		81	Europe/Moscow	2019-04-19
+580220	Avtozavodskiy Rayon	Avtozavodskiy Rayon	Avtozavodskij Rajon,Avtozavodskiy Rayon,Автозаводский Район	55.73571	52.47414	A	ADM3	RU		73	862927	580220		0		117	Europe/Moscow	2013-11-22
+582367	Al’tievskiy Gorodskoy Okrug	Al'tievskiy Gorodskoy Okrug	Al'tievskij Gorodskoj Okrug,Al'tievskiy Gorodskoy Okrug,Al'tiyevo,Altijevo,Al’tievskiy Gorodskoy Okrug,Al’tiyevo,Barkadzhin,Альтиевский Городской Округ	43.23861	44.78389	A	ADM3	RU		19		582367		0		527	Europe/Moscow	2020-06-10
+582422	Alnashskiy Rayon	Alnashskiy Rayon		56.16667	52.5	A	ADM3	RU		80		582422		0		102	Europe/Samara	1994-04-09
+824998	Dyat’kovo	Dyat'kovo	Djat'kovo,Dyat'kovo,Dyat’kovo,Дятьково	53.59648	34.33811	A	ADM3	RU		10	824998	824998		0		203	Europe/Moscow	2023-04-11
+862930	Aviastroitel’nyy Rayon	Aviastroitel'nyy Rayon	Aviastroitel'nyj Rajon,Aviastroitel'nyy Rayon,Aviastroitel’nyy Rayon,Aviatozelesh Rayoniy,Aviatɵzelesh Rayonıy,Авиастроительный Район,Авиатөзелеш Районы	55.87938	49.13457	A	ADM3	RU		73	862913	862930		0		62	Europe/Moscow	2025-09-09
+862931	Novo-Savinovskiy Rayon	Novo-Savinovskiy Rayon	Novo-Savinovskij Rajon,Novo-Savinovskiy Rayon,Yana Savin Rayoniy,Yaꞑa Savin Rayonıy,Ново-Савиновский Район,Яңа Савин Районы	55.83279	49.14334	A	ADM3	RU		73	862913	862931		0		68	Europe/Moscow	2025-10-14
+1485189	Zheleznodorozhnyy Rayon	Zheleznodorozhnyy Rayon	Kaganovichskiy Rayon,Zheleznodorozhnyj Rajon,Zheleznodorozhnyy Rayon,Железнодорожный Район	56.87763	60.52551	A	ADM3	RU		71		1485189		0		258	Asia/Yekaterinburg	2024-04-20
+1485191	Zheleznodorozhnyy Rayon	Zheleznodorozhnyy Rayon	Kaganovichskiy Rayon,Zheleznodorozhnyj Rajon,Zheleznodorozhnyy Rayon,Железнодорожный Район	55.02645	82.90365	A	ADM3	RU		53	1496742	1485191		0		127	Asia/Novosibirsk	2025-04-15
+1485192	Zheleznodorozhnyy Rayon	Zheleznodorozhnyy Rayon	Zheleznodorozhnyj Rajon,Zheleznodorozhnyy Rayon,Железнодорожный Район	53.35634	83.73238	A	ADM3	RU		04	1535931	1485192		0		195	Asia/Barnaul	2025-05-15
+1485246	Zenkovskiy Rayon	Zenkovskiy Rayon	Zenkovskij Rajon,Zenkovskiy Rayon,Зенковский Район	53.829	86.776	A	ADM3	RU		29		1485246		0		261	Asia/Novokuznetsk	2025-09-01
+1485327	Zayel’tsovskiy Rayon	Zayel'tsovskiy Rayon	Zael'covskij Rajon,Zayel'tsovskiy Rayon,Zayel’tsovskiy Rayon,Заельцовский Район	55.09234	82.84565	A	ADM3	RU		53		1485327		0		145	Asia/Novosibirsk	2025-04-15
+1485355	Zavodoukovskiy Rayon	Zavodoukovskiy Rayon	Zavodoukovskij rajon,Zavodoukovskiy Rayon,Zavodoukovsky,Заводоуко́вский райо́н	56.5	66.5	A	ADM3	RU		78		1485355		46820		78	Asia/Yekaterinburg	2022-11-09
+1486786	Vostochnyy Rayon	Vostochnyy Rayon		52.56667	85.25	A	ADM3	RU		04		1486786		0		229	Asia/Barnaul	1996-12-03
+1487548	Verkhnesaldinskiy Rayon	Verkhnesaldinskiy Rayon	Verkhnesaldinskij rajon,Verkhnesaldinskiy Rayon,Verkhnesaldinsky,Верхнесалдинский райо́н	58.08333	60.83333	A	ADM3	RU		71		1487548		45118		198	Asia/Yekaterinburg	2022-11-09
+1487594	Verkh-Isetskiy Rayon	Verkh-Isetskiy Rayon	Molotovskiy Rayon,Verkh-Isetskij Rajon,Verkh-Isetskiy Rayon,Yezhovskiy Rayon,Верх-Исетский Район	56.82927	60.45779	A	ADM3	RU		71		1487594		0		302	Asia/Yekaterinburg	2024-04-20
+1488542	Ulug-Khemskiy Rayon	Ulug-Khemskiy Rayon		51.5	93	A	ADM3	RU		79		1488542		0		591	Asia/Krasnoyarsk	1994-04-19
+1489106	Tsentral’nyy Rayon	Tsentral'nyy Rayon	Central'nyj Rajon,Stalinskiy Rayon,Tsentral'nyy Rayon,Tsentral’nyy Rayon,Центральный Район	55.15924	61.35335	A	ADM3	RU		13		1489106		0		265	Asia/Yekaterinburg	2020-06-10
+1489107	Tsentral’nyy Rayon	Tsentral'nyy Rayon	Central'nyj Rajon,Tsentral'nyy Rayon,Tsentral’nyy Rayon,Центральный Район	55.03499	82.92506	A	ADM3	RU		53		1489107		0		151	Asia/Novosibirsk	2025-04-15
+1489111	Tsentral’nyy Rayon	Tsentral'nyy Rayon	Central'nyj rajon,Центральный район	53.30134	83.79341	A	ADM3	RU		04	1535931	1489111		91000		122	Asia/Barnaul	2018-04-03
+1489314	Traktorozavodskiy Rayon	Traktorozavodskiy Rayon	Traktorozavodskij Rajon,Traktorozavodskiy Rayon,Тракторозаводский Район	55.17349	61.51922	A	ADM3	RU		13		1489314		0		206	Asia/Yekaterinburg	2012-12-05
+1489515	Todzhinskiy Rayon	Todzhinskiy Rayon		52.83333	97	A	ADM3	RU		79		1489515		0		1216	Asia/Krasnoyarsk	1994-04-19
+1489684	Tes-Khemskiy Rayon	Tes-Khemskiy Rayon		50.58333	95	A	ADM3	RU		79		1489684		0		1211	Asia/Krasnoyarsk	1994-04-19
+1489960	Tavdinskiy Rayon	Tavdinskiy Rayon	Tavdinskiy Rayon,Verkhne-Tavdinskiy Rayon	58.16667	65.16667	A	ADM3	RU		71		1489960		0		62	Asia/Yekaterinburg	2012-01-17
+1490171	Tandinskiy Rayon	Tandinskiy Rayon		51.16667	94.5	A	ADM3	RU		79		1490171		0		902	Asia/Krasnoyarsk	1994-04-19
+1491223	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	55.09661	61.37579	A	ADM3	RU		13		1491223		0		256	Asia/Yekaterinburg	2012-12-05
+1491225	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	54.88152	83.07615	A	ADM3	RU		53		1491225		141911		117	Asia/Novosibirsk	2025-04-15
+1491824	Sinarskiy Rayon	Sinarskiy Rayon	Sinarskij Rajon,Sinarskiy Rayon,Синарский Район	56.42696	61.92205	A	ADM3	RU		71		1491824		0		169	Asia/Yekaterinburg	2024-04-20
+1492254	Sherbakul’skiy Rayon	Sherbakul'skiy Rayon	Sherbakul'skij Rajon,Sherbakul'skiy Rayon,Sherbakul’skiy Rayon,Шербакульский Район	54.5	72.5	A	ADM3	RU		54		1492254		19885		109	Asia/Omsk	2022-11-09
+1492662	Serovskiy Rayon	Serovskiy Rayon	Serovskij Rajon,Serovskiy Rayon,Серовский Район	59.5	61	A	ADM3	RU		71		1492662		0		117	Asia/Yekaterinburg	2016-08-19
+1493645	Rezhevskiy Rayon	Rezhevskiy Rayon	Rezhevskij Rajon,Rezhevskiy Rayon,Rezhevsky,Режевский Район	57.41667	61.33333	A	ADM3	RU		71		1493645		47502		187	Asia/Yekaterinburg	2022-11-10
+1494180	Priobskiy Rayon	Priobskiy Rayon		52.53304	85.15572	A	ADM3	RU		04		1494180		0		182	Asia/Omsk	2016-07-08
+1494196	Prigorodnyy Rayon	Prigorodnyy Rayon	Nizhnetagil'skiy Rayon,Nizhnetagil’skiy Rayon,Prigorodny,Prigorodnyj Rajon,Prigorodnyy Rayon,Пригородный Район	57.91667	60	A	ADM3	RU		71		1494196		0		235	Asia/Yekaterinburg	2016-08-19
+1495262	Pervomayskiy Rayon	Pervomayskiy Rayon	Pervomajskij Rajon,Pervomayskiy Rayon,Первомайский Район	54.96151	83.08166	A	ADM3	RU		53		1495262		87912		117	Asia/Novosibirsk	2025-04-15
+1495264	Pervomayskiy Rayon	Pervomayskiy Rayon	Pervomajskij Rajon,Pervomayskiy Rayon,Pervomaysky,Pyshkino-Troitskiy Rayon,Первомайский Район	57.5	86.5	A	ADM3	RU		75		1495264		16764		127	Asia/Krasnoyarsk	2022-11-12
+1495583	Parabel’skiy Rayon	Parabel'skiy Rayon	Parabel'skij Rajon,Parabel'skiy Rayon,Parabel’skiy Rayon,Парабельский Район	58.83333	82	A	ADM3	RU		75		1495583		0		57	Asia/Krasnoyarsk	2012-01-17
+1496095	Ordzhonikidzevskiy Rayon	Ordzhonikidzevskiy Rayon	Ordzhonikidzevskij Rajon,Ordzhonikidzevskiy Rayon,Орджоникидзевский Район	56.89707	60.61449	A	ADM3	RU		71		1496095		0		277	Asia/Yekaterinburg	2024-04-20
+1496148	Omskiy Rayon	Omskiy Rayon	Omskij Rajon,Omskiy Rayon,Омский Район	55.071	73.354	A	ADM3	RU		54		1496148		100648		128	Asia/Omsk	2025-09-08
+1496258	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	56.8017	60.78004	A	ADM3	RU		71		1496258		0		254	Asia/Yekaterinburg	2024-04-20
+1496263	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	55.02113	83.01478	A	ADM3	RU		53		1496263		0		181	Asia/Novosibirsk	2025-04-15
+1496265	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	53.38527	83.79925	A	ADM3	RU		04	1535931	1496265		0		129	Asia/Barnaul	2016-12-18
+1498951	Metallurgicheskiy Rayon	Metallurgicheskiy Rayon	Metallurgicheskij Rajon,Metallurgicheskiy Rayon,Металлургический Район	55.26417	61.45698	A	ADM3	RU		13		1498951		0		245	Asia/Yekaterinburg	2012-12-05
+1500667	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	56.792	60.58	A	ADM3	RU		71		1500667		0		246	Asia/Yekaterinburg	2025-09-08
+1500671	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	55.11518	61.49701	A	ADM3	RU		13		1500671		0		228	Asia/Yekaterinburg	2012-12-05
+1500672	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	55.00355	82.80289	A	ADM3	RU		53		1500672		0		89	Asia/Novosibirsk	2025-04-15
+1500674	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	53.39971	83.68063	A	ADM3	RU		04	1535931	1500674		0		129	Asia/Barnaul	2016-12-18
+1500954	Kyzylskiy Rayon	Kyzylskiy Rayon		51.68333	94.73333	A	ADM3	RU		79		1500954		0		705	Asia/Krasnoyarsk	1994-04-19
+1502106	Krasnogorskiy Rayon	Krasnogorskiy Rayon	Krasnogorskij Rajon,Krasnogorskiy Rayon,Красногорский Район	56.36028	61.97761	A	ADM3	RU		71		1502106		0		126	Asia/Yekaterinburg	2024-04-20
+1503317	Kirovskiy Rayon	Kirovskiy Rayon	Kirovskij Rajon,Kirovskiy Rayon,Кировский Район	56.83969	60.69415	A	ADM3	RU		71		1503317		0		263	Asia/Yekaterinburg	2024-04-20
+1503321	Kirovskiy Rayon	Kirovskiy Rayon	Kirovskij Rajon,Kirovskiy Rayon,Кировский Район	54.95181	82.91058	A	ADM3	RU		53		1503321		186408		114	Asia/Novosibirsk	2025-04-15
+1505033	Kalininskiy Rayon	Kalininskiy Rayon	Kalininskij Rajon,Kalininskiy Rayon,Калининский Район	55.20928	61.41372	A	ADM3	RU		13		1505033		0		239	Asia/Yekaterinburg	2012-12-05
+1505034	Kalininskiy Rayon	Kalininskiy Rayon	Kalininskij Rajon,Kalininskiy Rayon,Калининский Район	55.099	82.957	A	ADM3	RU		53		1505034		200694		167	Asia/Novosibirsk	2025-08-18
+1505618	Industrial’nyy Rayon	Industrial'nyy Rayon	Industrial'nyj racon,Индустриальный рацон	53.33948	83.67085	A	ADM3	RU		04	1535931	1505618		0		196	Asia/Barnaul	2018-04-03
+1507038	Dzerzhinskiy Rayon	Dzerzhinskiy Rayon	Dzerzhinskij Rajon,Dzerzhinskiy Rayon,Дзержинский Район	55.06187	82.988	A	ADM3	RU		53		1507038		174360		178	Asia/Novosibirsk	2025-04-15
+1507755	Chkalovskiy Rayon	Chkalovskiy Rayon	Chkalovskij Rajon,Chkalovskiy Rayon,Чкаловский Район	56.73693	60.65124	A	ADM3	RU		71		1507755		0		301	Asia/Yekaterinburg	2024-04-20
+1511850	Aleksandrovskiy Rayon	Aleksandrovskiy Rayon	Aleksandrovskiy Rayon	60	79	A	ADM3	RU		75		1511850		8019		48	Asia/Krasnoyarsk	2022-11-08
+1511953	Alapayevskiy Rayon	Alapayevskiy Rayon	Alapayevsk,Alapayevskiy Rayon,Sinyachikhinskiy Rayon	58	61.5	A	ADM3	RU		71		1511953		37526		163	Asia/Yekaterinburg	2022-11-08
+1512153	Adamovskiy Rayon	Adamovskiy Rayon	Adamovskiy Rayon	51.33333	60.5	A	ADM3	RU		55		1512153		23088		383	Asia/Yekaterinburg	2022-11-09
+2012558	Zheleznodorozhnyy Rayon	Zheleznodorozhnyy Rayon	Zheleznodorozhnyj Rajon,Zheleznodorozhnyy Rayon,Железнодорожный Район	52.07511	113.4117	A	ADM3	RU		93		2012558		47443		668	Asia/Chita	2025-06-12
+2012559	Zheleznodorozhnyy Rayon	Zheleznodorozhnyy Rayon	Zheleznodorozhnyj Rajon,Zheleznodorozhnyy Rayon,Железнодорожный Район	51.84898	107.63627	A	ADM3	RU		11		2012559		0		591	Asia/Irkutsk	2025-06-12
+2013917	Ust’-Mayskiy Rayon	Ust'-Mayskiy Rayon		60.66667	136	A	ADM3	RU		63		2013917		0		375	Asia/Sakhalin	1994-04-19
+2015004	Tsentral’nyy Rayon	Tsentral'nyy Rayon	Central'nyj Rajon,Tsentral'nyy Rayon,Tsentral’nyy Rayon,Центральный Район	56.14454	101.53477	A	ADM3	RU		20		2015004		0		408	Asia/Irkutsk	2025-02-18
+2015005	Tsentral’nyy Rayon	Tsentral'nyy Rayon		52.56667	103.9	A	ADM3	RU		20		2015005		0		427	Asia/Irkutsk	1996-12-03
+2015006	Tsentral’nyy Rayon	Tsentral'nyy Rayon	Central'nyj Rajon,Tsentral'nyy Rayon,Tsentral’nyy Rayon,Центральный Район	52.08889	113.50182	A	ADM3	RU		93		2015006		110608		712	Asia/Chita	2016-10-16
+2015856	Sverdlovskiy Okrug	Sverdlovskiy Okrug	Sverdlovskij Okrug,Sverdlovskij Rajon,Sverdlovskiy Okrug,Sverdlovskiy Rayon,Свердловский Округ,Свердловский Район	52.24233	104.27649	A	ADM3	RU		20		2015856		0		451	Asia/Irkutsk	2025-02-18
+2016200	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	51.839	107.531	A	ADM3	RU		11		2016200		0		503	Asia/Irkutsk	2025-08-18
+2016304	Solnechnyy Rayon	Solnechnyy Rayon	Solnechny,Solnechnyj Rajon,Solnechnyy Rayon,Солнечный Район	50.732	136.727	A	ADM3	RU		30		2016304		29930		245	Asia/Vladivostok	2025-09-01
+2017846	Pogranichnyy Rayon	Pogranichnyy Rayon	Pogranichnyj Rajon,Pogranichnyy Rayon,Пограничный Район	50.26667	127.53333	A	ADM3	RU		05		2017846		0		133	Asia/Yakutsk	2012-01-17
+2017847	Pogranichnyy Rayon	Pogranichnyy Rayon	Grodekovskiy Rayon,Pogranichnyj Rajon,Pogranichnyy Rayon,Пограничный Район	44.5	131.5	A	ADM3	RU		59		2017847		22442		320	Asia/Vladivostok	2022-11-12
+2018163	Padunskiy Rayon	Padunskiy Rayon	Padunskij Rajon,Padunskiy Rayon,Падунский Район	56.30913	101.65899	A	ADM3	RU		20		2018163		0		442	Asia/Irkutsk	2025-02-18
+2018405	Ordzhonikidzevskiy Rayon	Ordzhonikidzevskiy Rayon	Ordzhonikidzevskij Rajon,Ordzhonikidzevskiy Rayon,Орджоникидзевский Район	61.5	128	A	ADM3	RU		63		2018405		0		299	Asia/Yakutsk	2012-01-17
+2018606	Oktyabr’skiy Okrug	Oktyabr'skiy Okrug	Oktjabr'skij Okrug,Oktjabr'skij Rajon,Oktyabr'skiy Okrug,Oktyabr'skiy Rayon,Oktyabr’skiy Okrug,Oktyabr’skiy Rayon,Stalinskiy Rayon,Октябрьский Округ,Октябрьский Район	52.26232	104.35234	A	ADM3	RU		20		2018606		0		496	Asia/Irkutsk	2025-02-18
+2018607	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	51.80107	107.70552	A	ADM3	RU		11		2018607		0		548	Asia/Irkutsk	2025-06-12
+2018610	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Molotovskij rajon,Molotovskiy Rayon,Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Молотовский район,Октябрьский Район	44	131.5	A	ADM3	RU		59		2018610		0		151	Asia/Vladivostok	2020-06-10
+2019483	Nanayskiy Rayon	Nanayskiy Rayon	Nanajskij Rajon,Nanayskiy Rayon,Nanaysky,Нанайский Район	49.41667	137	A	ADM3	RU		30		2019483		15962		99	Asia/Vladivostok	2022-11-10
+2019887	Mogoytuysky District	Mogoytuysky District	Mogojtujskij Rajon,Mogoytuyskiy Rayon,Могойтуйский Район	51.16667	115.25	A	ADM3	RU		93	2028094	2019887		26544		816	Asia/Chita	2024-02-01
+2020842	Leninskiy Okrug	Leninskiy Okrug	Leninskij Okrug,Leninskij Rajon,Leninskiy Okrug,Leninskiy Rayon,Ленинский Округ,Ленинский Район	52.35419	104.17552	A	ADM3	RU		20		2020842		0		454	Asia/Irkutsk	2025-02-18
+2020844	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	50.26667	127.53333	A	ADM3	RU		05		2020844		0		133	Asia/Yakutsk	2012-01-17
+2021100	Pravoberezhnyy Okrug	Pravoberezhnyy Okrug	Kirovskiy Rayon,Kuybyshevskiy Rayon,Pravoberezhnyj Okrug,Pravoberezhnyy Okrug,Правобережный Округ	52.31075	104.35802	A	ADM3	RU		20		2021100		0		496	Asia/Irkutsk	2025-02-18
+2022060	Kirovskiy Rayon	Kirovskiy Rayon		52.26667	104.33333	A	ADM3	RU		20		2022060		0		486	Asia/Irkutsk	1996-12-03
+2023528	Ingodinskiy Rayon	Ingodinskiy Rayon	Ingodinskij Rajon,Ingodinskiy Rayon,Ингодинский Район	52.00339	113.53154	A	ADM3	RU		93		2023528		68690		702	Asia/Chita	2025-06-12
+2024810	Dul’durginskiy Rayon	Dul'durginskiy Rayon	Dul'durginskij rajon,Дульдургинский район	50.83333	113.5	A	ADM3	RU		93	2028094	2024810		0		881	Asia/Chita	2016-10-16
+2025158	Dalnerechensky District	Dalnerechensky District	Dal'nerechenskij Rajon,Dal'nerechenskiy Rayon,Dalnerechensky,Dal’nerechenskiy Rayon,Imanskiy Rayon,Дальнереченский Район	46	134	A	ADM3	RU		59		2025158		9576		142	Asia/Vladivostok	2023-10-31
+2025160	Dal’negorskiy Rayon	Dal'negorskiy Rayon	Dal'negorskiy Rayon,Dal’negorskiy Rayon,Tetyukhinskiy Rayon	44.66667	135.58333	A	ADM3	RU		59		2025160		0		765	Asia/Vladivostok	2020-06-10
+2025471	Chërnovskiy Rayon	Chernovskiy Rayon	Chernovskiy Rayon,Chjornovskij Rajon,Chërnovskiy Rayon,Чёрновский Район	52.0469	113.30634	A	ADM3	RU		93		2025471		81751		712	Asia/Chita	2025-06-12
+2027779	Amginskiy Rayon	Amginskiy Rayon	Amginskiy Rayon,Amginsky	60.83333	131.25	A	ADM3	RU		63		2027779		16722		224	Asia/Yakutsk	2022-11-10
+2027905	Alekseyevskiy Rayon	Alekseyevskiy Rayon		62	132.5	A	ADM3	RU		63		2027905		0		165	Asia/Yakutsk	1994-04-19
+2028079	Aginskiy Rayon	Aginskiy Rayon	Aginskij rajon,Агинский район	51	114.5	A	ADM3	RU		93	2028094	2028079		0		799	Asia/Chita	2016-10-16
+2120335	Tymovsky District	Tymovsky District	Kirovskiy Rayon,Tymovskiy Rayon	50.5	143	A	ADM3	RU		64		2120335		0		247	Asia/Sakhalin	2023-10-31
+2121048	Sovetsko-Gavanskiy Rayon	Sovetsko-Gavanskiy Rayon	Sovetsko-Gavanskij Rajon,Sovetsko-Gavanskiy Rayon,Советско-Гаванский Район	49.33333	140	A	ADM3	RU		30		2121048		0		292	Asia/Vladivostok	2012-01-17
+2121383	Severo-Kuril’skiy Rayon	Severo-Kuril'skiy Rayon	Severo-Kuril'skij Rajon,Severo-Kuril'skiy Rayon,Severo-Kuril’skiy Rayon,Северо-Курильский Район	50.41667	156	A	ADM3	RU		64		2121383		2507		239	Asia/Magadan	2022-11-08
+2122603	Okhotskiy Rayon	Okhotskiy Rayon	Okhotskij Rajon,Okhotskiy Rayon,Охотский Район	60	142	A	ADM3	RU		30		2122603		6527		609	Asia/Vladivostok	2022-11-08
+2122782	Nogliksky District	Nogliksky District	Noglikskij Rajon,Noglikskiy Rayon,Ногликский Район	51.75	143.08333	A	ADM3	RU		64		2122782		11320		3	Asia/Sakhalin	2023-10-31
+2122851	Nikolayevsky District	Nikolayevsky District	Nikolaevskij Rajon,Nikolayevskiy Rayon,Nikolayevsky,Nizhneamurskiy Rayon,Николаевский Район	52.75	141	A	ADM3	RU		30		2122851		26782		122	Asia/Vladivostok	2023-10-31
+2122860	Nizhnekolymskiy Rayon	Nizhnekolymskiy Rayon	Nizhnekolymskij Rajon,Nizhnekolymskiy Rayon,Nizhnekolymsky,Нижнеколымский Район	70	157	A	ADM3	RU		63		2122860		4290		17	Asia/Magadan	2022-11-08
+6695198	Центральный Район	Central'nyj Rajon	Tsentralniy Region	43.60526	39.71695	A	ADM3	RU		38		6695198		0		95	Europe/Moscow	2008-07-22
+6695199	Хостинский Район	Khostinskij Rajon	Khosta Region	43.52714	39.8481	A	ADM3	RU		38		6695199		0		184	Europe/Moscow	2008-07-22
+6695201	Адлерский Район	Adlerskij Rajon		43.48083	39.97375	A	ADM3	RU		38		6695201		0		169	Europe/Moscow	2008-07-21
+6695202	Lazarevsky District	Lazarevsky District	Lazarevskij rajon,Lazarevsky City District,Lazarevsky District,Lazarevsky Region,Лазаревский район	43.8048	39.48761	A	ADM3	RU		91		6695202		0		218	Europe/Moscow	2021-02-05
+8145289	Voroshilovskiy Rayon	Voroshilovskiy Rayon	Voroshilovskij Rajon,Voroshilovskiy Rayon,Ворошиловский Район	47.27182	39.73171	A	ADM3	RU		61		8145289		0		70	Europe/Moscow	2024-09-13
+8441971	Maymaksanskiy Okrug	Maymaksanskiy Okrug	Majmaksanskij Okrug,Maymaksanskiy Okrug,Маймаксанский Округ	64.67339	40.5503	A	ADM3	RU		06		8441971		0		12	Europe/Moscow	2024-02-09
+8441975	Severnyy Okrug	Severnyy Okrug	Severnyj Okrug,Severnyy Okrug,Северный Округ	64.59535	40.58845	A	ADM3	RU		06		8441975		0		2	Europe/Moscow	2024-02-09
+8442432	Okrug Mayskaya Gorka	Okrug Mayskaya Gorka	Okrug Majskaja Gorka,Okrug Mayskaya Gorka,Округ Майская Горка	64.52733	40.62219	A	ADM3	RU		06		8442432		0		7	Europe/Moscow	2024-02-09
+8442484	Rayon Pervykh Pyatiletok	Rayon Pervykh Pyatiletok	Rajon Pervykh Pjatiletok,Rayon Pervykh Pyatiletok,Район Первых Пятилеток	64.60698	40.57009	A	ADM3	RU		06		8442484		0		9	Europe/Moscow	2013-01-12
+9881948	Arbat District	Arbat District	Arbat,Арбат	55.75075	37.5865	A	ADM3	RU		48	562331	9881948		28179		149	Europe/Moscow	2016-08-01
+9881949	Basmanny District	Basmanny District	Basmanny District,Basmannyj,Басманный	55.76583	37.67272	A	ADM3	RU		48	562331	9881949		108204		137	Europe/Moscow	2016-08-01
+9881950	Khamovniki District	Khamovniki District	Khamovniki,Хамовники	55.72327	37.57221	A	ADM3	RU		48	562331	9881950		0		133	Europe/Moscow	2016-08-01
+9881951	Krasnoselsky District	Krasnoselsky District	Krasnosel'skij,Красносельский	55.77549	37.66199	A	ADM3	RU		48	562331	9881951		45229		151	Europe/Moscow	2016-08-01
+9881952	Meshchansky District	Meshchansky District	Meshhanskij,Meshhanskij rajon,Мещанский,Мещанский район	55.77616	37.62663	A	ADM3	RU		48	562331	9881952		56077		160	Europe/Moscow	2016-04-03
+9881953	Presnensky District	Presnensky District	Presnenskij,Presnya,Пресненский	55.75762	37.56955	A	ADM3	RU		48	562331	9881953		127462		139	Europe/Moscow	2022-11-12
+9881954	Tagansky District	Tagansky District	Taganskij,Taganskij rajon,Тага́нский райо́н,Таганский	55.73585	37.66821	A	ADM3	RU		48	562331	9881954		109993		142	Europe/Moscow	2016-08-01
+9881955	Tverskoy District	Tverskoy District	Tverskoj,Tverskoj rajon,Тверской,Тверской район	55.76718	37.60131	A	ADM3	RU		48	562331	9881955		75955		166	Europe/Moscow	2016-07-13
+9881957	Yakimanka District	Yakimanka District	Jakimanka,Якиманка	55.73482	37.60878	A	ADM3	RU		48	562331	9881957		0		126	Europe/Moscow	2016-08-01
+9881958	Zamoskvorechye District	Zamoskvorechye District	Zamoskvorech'e,Замоскворечье	55.73342	37.62903	A	ADM3	RU		48	562331	9881958		50590		132	Europe/Moscow	2016-07-13
+9881959	Aeroport District	Aeroport District	Aehroport,Аэропорт	55.80471	37.542	A	ADM3	RU		48	471823	9881959		79294		163	Europe/Moscow	2022-11-12
+9881960	Begovoy District	Begovoy District	Begovoj,Begovoy District,Beskudnikovskij,Беговой,Бескудниковский	55.78176	37.56998	A	ADM3	RU		48	471823	9881960		42769		158	Europe/Moscow	2022-11-11
+9881961	Dmitrovsky District	Dmitrovsky District	Dmitrovskij,Дмитровский	55.8924	37.53187	A	ADM3	RU		48	471823	9881961		93217		175	Europe/Moscow	2022-11-11
+9881962	Golovinsky District	Golovinsky District	Golovinskij,Головинский	55.84547	37.51737	A	ADM3	RU		48	471823	9881962		103148		167	Europe/Moscow	2022-11-11
+9881963	Khoroshyovsky District	Khoroshyovsky District	Khoroshjovskij,Хорошёвский	55.78811	37.53033	A	ADM3	RU		48	471823	9881963		71127		155	Europe/Moscow	2022-11-11
+9881964	Khovrino District	Khovrino District	Khovrino,Ховрино	55.8665	37.48466	A	ADM3	RU		48	471823	9881964		87845		171	Europe/Moscow	2022-11-11
+9881965	Koptevo District	Koptevo District	Koptevo,Коптево	55.8353	37.52887	A	ADM3	RU		48	471823	9881965		101894		168	Europe/Moscow	2022-11-11
+9881967	Levoberezhny District	Levoberezhny District	Levoberezhnyj,Левобережный	55.85292	37.4778	A	ADM3	RU		48	471823	9881967		53951		170	Europe/Moscow	2022-11-11
+9881968	Molzhaninovsky District	Molzhaninovsky District	Molzhaninovskij,Молжаниновский	55.94796	37.40192	A	ADM3	RU		47	9881968	9881968		2929		176	Europe/Moscow	2016-04-03
+9881969	Savyolovsky District	Savyolovsky District	Savjolovskij,Савёловский	55.79969	37.57376	A	ADM3	RU		48	471823	9881969		59184		171	Europe/Moscow	2022-11-11
+9881970	Sokol District	Sokol District	Sokol,Сокол	55.80317	37.50458	A	ADM3	RU		48	471823	9881970		59349		162	Europe/Moscow	2022-11-11
+9881971	Timiryazevsky District	Timiryazevsky District	Timirjazevskij,Тимирязевский	55.82226	37.5638	A	ADM3	RU		48	471823	9881971		83641		166	Europe/Moscow	2022-11-11
+9881972	Vostochnoye Degunino District	Vostochnoye Degunino District	Vostochnoe Degunino,Восточное Дегунино	55.88538	37.55539	A	ADM3	RU		48	471823	9881972		98864		175	Europe/Moscow	2022-11-11
+9881973	Voykovsky District	Voykovsky District	Vojkovskij,Войковский	55.81561	37.50132	A	ADM3	RU		48	471823	9881973		70192		168	Europe/Moscow	2022-11-11
+9881974	Zapadnoye Degunino District	Zapadnoye Degunino District	Zapadnoe Degunino,Западное Дегунино	55.88347	37.49582	A	ADM3	RU		48	471823	9881974		83262		174	Europe/Moscow	2022-11-11
+9881975	Alexeyevsky District	Alexeyevsky District	Alekseevskij,Алексеевский	55.81303	37.64817	A	ADM3	RU		48	579866	9881975		80391		146	Europe/Moscow	2022-11-11
+9881976	Altufyevsky District	Altufyevsky District	Altuf'evskij,Алтуфьевский	55.88015	37.58328	A	ADM3	RU		48	579866	9881976		57408		173	Europe/Moscow	2022-11-11
+9881977	Babushkinsky District	Babushkinsky District	Babushkinskij,Бабушкинский	55.87678	37.6698	A	ADM3	RU		48	579866	9881977		88296		144	Europe/Moscow	2022-11-11
+9881978	Bibirevo District	Bibirevo District	Bibirevo,Бибирево	55.89693	37.60466	A	ADM3	RU		48	579866	9881978		160053		157	Europe/Moscow	2022-11-11
+9881979	Butyrsky District	Butyrsky District	Butyrskij,Butyrskij rajon,Бутырский,Бутырский район	55.81573	37.58629	A	ADM3	RU		48	579866	9881979		71013		167	Europe/Moscow	2022-11-11
+9881980	Lianozovo District	Lianozovo District	Lianozovo,Лианозово	55.89873	37.56964	A	ADM3	RU		48	579866	9881980		85837		174	Europe/Moscow	2022-11-11
+9881983	Losinoostrovsky District	Losinoostrovsky District	Losinoostrovskij,Лосиноостровский	55.88393	37.69976	A	ADM3	RU		48	579866	9881983		82869		151	Europe/Moscow	2022-11-11
+9881984	Marfino District	Marfino District	Marfino,Марфино	55.83024	37.58852	A	ADM3	RU		47	9881984	9881984		35196		162	Europe/Moscow	2022-11-13
+9881985	Maryina Roshcha District	Maryina Roshcha District	Mar'ina Roshha,Марьина Роща	55.79899	37.61032	A	ADM3	RU		48	579866	9881985		67367		165	Europe/Moscow	2022-11-11
+9881986	Ostankinsky District	Ostankinsky District	Ostankinskij,Останкинский	55.83065	37.61976	A	ADM3	RU		48	579866	9881986		63148		158	Europe/Moscow	2022-11-11
+9881987	Otradnoye District	Otradnoye District	Otradnoe,Отрадное	55.86072	37.59109	A	ADM3	RU		48	471823	9881987		185171		150	Europe/Moscow	2022-11-11
+9882944	Rostokino District	Rostokino District	Rostokino,Ростокино	55.83779	37.6498	A	ADM3	RU		48	579866	9882944		39407		132	Europe/Moscow	2022-11-11
+9882945	Severnoye Medvedkovo District	Severnoye Medvedkovo District	Severnoe Medvedkovo,Северное Медведково	55.88824	37.65444	A	ADM3	RU		48	579866	9882945		127451		161	Europe/Moscow	2022-11-11
+9882946	Severny District	Severny District	Severnyj,Северный	55.93291	37.54938	A	ADM3	RU		48	579866	9882946		34960		190	Europe/Moscow	2022-11-11
+9882947	Sviblovo District	Sviblovo District	Sviblovo,Свиблово	55.85224	37.64345	A	ADM3	RU		48	579866	9882947		62009		150	Europe/Moscow	2022-11-11
+9882948	Yaroslavsky District	Yaroslavsky District	Jaroslavskij,Ярославский	55.85937	37.69444	A	ADM3	RU		48	579866	9882948		97859		157	Europe/Moscow	2022-11-11
+9882949	Bogorodskoye District	Bogorodskoye District	Bogorodskoe,Богородское	55.81976	37.70662	A	ADM3	RU		48	8520891	9882949		108111		144	Europe/Moscow	2022-11-11
+9882950	Golyanovo District	Golyanovo District	Gol'janovo,Гольяново	55.82397	37.8061	A	ADM3	RU		48	8520891	9882950		162715		159	Europe/Moscow	2022-11-11
+9882951	Ivanovskoye District	Ivanovskoye District	Ivanovskoe,Ивановское	55.7717	37.8237	A	ADM3	RU		48	8520891	9882951		127565		146	Europe/Moscow	2022-11-11
+9882952	Izmaylovo District	Izmaylovo District	Izmajlovo,Измайлово	55.78319	37.77838	A	ADM3	RU		48	8520891	9882952		106741		134	Europe/Moscow	2022-11-11
+9882953	Kosino-Ukhtomsky District	Kosino-Ukhtomsky District	Kosino-Ukhtomskij,Косино-Ухтомский	55.71363	37.88824	A	ADM3	RU		48	8520891	9882953		81588		139	Europe/Moscow	2022-11-11
+9882954	Metrogorodok District	Metrogorodok District	Metrogorodok,Метрогородок	55.825	37.7528	A	ADM3	RU		48	8520891	9882954		38879		159	Europe/Moscow	2022-11-13
+9882955	Novogireyevo District	Novogireyevo District	Novogireevo,Новогиреево	55.75065	37.8019	A	ADM3	RU		48	8520891	9882955		98382		157	Europe/Moscow	2022-11-13
+9882956	Novokosino District	Novokosino District	Novokosino,Новокосино	55.74002	37.86112	A	ADM3	RU		48	8520891	9882956		107646		153	Europe/Moscow	2022-11-13
+9882957	Preobrazhenskoye District	Preobrazhenskoye District	Preobrazhenskoe,Преображенское	55.79716	37.72542	A	ADM3	RU		48	8520891	9882957		90017		146	Europe/Moscow	2022-11-13
+9882958	Severnoye Izmaylovo District	Severnoye Izmaylovo District	Severnoe Izmajlovo,Северное Измайлово	55.80895	37.82078	A	ADM3	RU		48	8520891	9882958		87564		155	Europe/Moscow	2022-11-13
+9882959	Sokolinaya gora District	Sokolinaya gora District	Sokolinaja gora,Соколиная гора	55.76998	37.73134	A	ADM3	RU		48	8520891	9882959		91085		158	Europe/Moscow	2022-11-13
+9882960	Sokolniki District	Sokolniki District	Sokol'niki,Сокольники	55.80538	37.68311	A	ADM3	RU		48	8520891	9882960		61164		147	Europe/Moscow	2022-11-13
+9882961	Veshnyaki District	Veshnyaki District	Veshnjaki,Вешняки	55.7283	37.81348	A	ADM3	RU		48	8520891	9882961		122123		150	Europe/Moscow	2022-11-13
+9882962	Vostochnoye Izmaylovo District	Vostochnoye Izmaylovo District	Vostochnoe Izmajlovo,Восточное Измайлово	55.79516	37.81855	A	ADM3	RU		48	8520891	9882962		77948		164	Europe/Moscow	2022-11-13
+9882963	Vostochny District	Vostochny District	Vostochnyj,Восточный	55.81582	37.87013	A	ADM3	RU		48	8520891	9882963		13631		167	Europe/Moscow	2022-11-13
+9882964	Kapotnya District	Kapotnya District	Kapotnja,Rajon Kapotn,Капотня,Район Капотн	55.64452	37.80378	A	ADM3	RU		48	532527	9882964		32364		144	Europe/Moscow	2022-11-13
+9882965	Kuzminki District	Kuzminki District	Kuz'minki,Кузьминки	55.7003	37.77168	A	ADM3	RU		48	532527	9882965		145680		142	Europe/Moscow	2022-11-13
+9882966	Lefortovo District	Lefortovo District	Lefortovo,Лефортово	55.75577	37.70336	A	ADM3	RU		48	532527	9882966		94102		148	Europe/Moscow	2022-11-13
+9882967	Lyublino District	Lyublino District	Ljublino,Люблино	55.67749	37.76997	A	ADM3	RU		48	532527	9882967		171946		129	Europe/Moscow	2022-11-13
+9882968	Maryino District	Maryino District	Mar'ino,Марьино	55.65118	37.73898	A	ADM3	RU		48	532527	9882968		253908		123	Europe/Moscow	2022-11-13
+9882971	Nekrasovka District	Nekrasovka District	Nekrasovka,Некрасовка	55.68255	37.94086	A	ADM3	RU		48	532527	9882971		7803		126	Europe/Moscow	2016-04-04
+9882972	Nizhegorodsky District	Nizhegorodsky District	Nizhegorodskij,Нижегородский	55.73248	37.7104	A	ADM3	RU		48	532527	9882972		45208		139	Europe/Moscow	2022-11-13
+9882973	Pechatniki District	Pechatniki District	Pechatniki,Печатники	55.70173	37.71229	A	ADM3	RU		48	532527	9882973		86447		125	Europe/Moscow	2022-11-12
+9882979	Ryazansky District	Ryazansky District	Rjazanskij,Рязанский	55.72281	37.77134	A	ADM3	RU		48	532527	9882979		108733		144	Europe/Moscow	2022-11-12
+9882984	Tekstilshchiki District	Tekstilshchiki District	Tekstil'shhiki,rajon Tekstil'shhiki,Текстильщики,райо́н Тексти́льщики	55.71592	37.73211	A	ADM3	RU		48	532527	9882984		104815		134	Europe/Moscow	2022-11-13
+9882985	Vykhino-Zhulebino District	Vykhino-Zhulebino District	Vykhino-Zhulebino,Выхино-Жулебино	55.70154	37.81494	A	ADM3	RU		48	532527	9882985		224796		134	Europe/Moscow	2022-11-13
+9882986	Yuzhnoportovy District	Yuzhnoportovy District	Juzhnoportovyj,Южнопортовый	55.71662	37.67263	A	ADM3	RU		48	532527	9882986		73178		142	Europe/Moscow	2022-11-12
+9882995	Biryulyovo Vostochnoye District	Biryulyovo Vostochnoye District	Birjuljovo Vostochnoe,rajon Birjuljovo Vostochnoe,Бирюлёво Восточное,райо́н Бирюлёво Восто́чное	55.59768	37.67118	A	ADM3	RU		48	490025	9882995		154191		166	Europe/Moscow	2022-11-13
+9882996	Biryulyovo Zapadnoye District	Biryulyovo Zapadnoye District	Birjuljovo Zapadnoe,Бирюлёво Западное	55.58866	37.63538	A	ADM3	RU		48	490025	9882996		88401		176	Europe/Moscow	2022-11-12
+9882997	Brateyevo District	Brateyevo District	Brateevo,rajon Brateevo,Братеево,райо́н Брате́ево	55.63512	37.7643	A	ADM3	RU		48	490025	9882997		109815		117	Europe/Moscow	2022-11-12
+9882998	Chertanovo Severnoye District	Chertanovo Severnoye District	Chertanovo Severnoe,Чертаново Северное	55.63175	37.6062	A	ADM3	RU		48	490025	9882998		114506		182	Europe/Moscow	2022-11-12
+9882999	Chertanovo Tsentralnoye District	Chertanovo Tsentralnoye District	Chertanovo Central'noe,Чертаново Центральное	55.60561	37.60174	A	ADM3	RU		48	490025	9882999		116698		170	Europe/Moscow	2022-11-12
+9883000	Chertanovo Yuzhnoye District	Chertanovo Yuzhnoye District	Chertanovo Juzhnoe,Чертаново Южное	55.59195	37.60629	A	ADM3	RU		48	490025	9883000		150067		185	Europe/Moscow	2022-11-12
+9883001	Danilovsky District	Danilovsky District	Danilovskij,Даниловский	55.70347	37.63744	A	ADM3	RU		48	490025	9883001		93418		125	Europe/Moscow	2022-11-12
+9883002	Donskoy District	Donskoy District	Donskoj,Донской	55.70619	37.59959	A	ADM3	RU		48	490025	9883002		51829		152	Europe/Moscow	2022-11-12
+9883003	Moskvorechye-Saburovo District	Moskvorechye-Saburovo District	Moskvorech'e-Saburovo,Rayon Moskvorech'ie-Saburovo,Москворечье-Сабурово	55.64614	37.64972	A	ADM3	RU		48	490025	9883003		80512		159	Europe/Moscow	2022-11-13
+9883004	Nagatino-Sadovniki District	Nagatino-Sadovniki District	Nagatino-Sadovniki,Нагатино-Садовники	55.67404	37.64452	A	ADM3	RU		48	490025	9883004		82836		155	Europe/Moscow	2022-11-12
+9883005	Nagatinsky Zaton District	Nagatinsky Zaton District	Nagatinskij Zaton,Нагатинский Затон	55.68497	37.68731	A	ADM3	RU		48	490025	9883005		119726		127	Europe/Moscow	2022-11-12
+9883006	Nagorny District	Nagorny District	Nagornyj,Нагорный	55.66325	37.61577	A	ADM3	RU		48	490025	9883006		81646		168	Europe/Moscow	2022-11-12
+9883007	Orekhovo-Borisovo Severnoye District	Orekhovo-Borisovo Severnoye District	Orekhovo-Borisovo Severnoe,Orekhovo-Borisovo Severnoye District,rajon Orekhovo-Borisovo Severnoe,Орехово-Борисово Северное,райо́н Оре́хово-Бори́сово Се́верное	55.6181	37.6992	A	ADM3	RU		48	490025	9883007		131926		169	Europe/Moscow	2022-11-13
+9883008	Orekhovo-Borisovo Yuzhnoye District	Orekhovo-Borisovo Yuzhnoye District	Orekhovo-Borisovo Juzhnoe,rajon Orekhovo-Borisovo Juzhnoe,Орехово-Борисово Южное,райо́н Оре́хово-Бори́сово Ю́жное	55.60288	37.73276	A	ADM3	RU		48	490025	9883008		147713		173	Europe/Moscow	2022-11-13
+9883009	Tsaritsyno District	Tsaritsyno District	Caricyno,Царицыно	55.62788	37.65229	A	ADM3	RU		48	490025	9883009		128963		165	Europe/Moscow	2022-11-12
+9883010	Zyablikovo District	Zyablikovo District	Zjablikovo,Зябликово	55.61773	37.74147	A	ADM3	RU		48	490025	9883010		133096		174	Europe/Moscow	2022-11-12
+9883011	Akademichesky District	Akademichesky District	Akademicheskij,Академический	55.68956	37.57307	A	ADM3	RU		48	562221	9883011		109231		178	Europe/Moscow	2022-11-12
+9883012	Cheryomushki District	Cheryomushki District	Cherjomushki,Черёмушки	55.6674	37.56234	A	ADM3	RU		48	562221	9883012		89264		189	Europe/Moscow	2016-07-29
+9883013	Gagarinsky District	Gagarinsky District	Gagarinskij,Гагаринский	55.7033	37.56063	A	ADM3	RU		48	562221	9883013		80582		162	Europe/Moscow	2022-11-12
+9883014	Konkovo District	Konkovo District	Kon'kovo,Коньково	55.64603	37.52792	A	ADM3	RU		48	562221	9883014		156211		244	Europe/Moscow	2022-11-12
+9883015	Kotlovka District	Kotlovka District	Kotlovka,Котловка	55.67393	37.59762	A	ADM3	RU		48	562221	9883015		65811		169	Europe/Moscow	2022-11-12
+9883016	Lomonosovsky District	Lomonosovsky District	Lomonosovskij,Ломоносовский	55.68066	37.53076	A	ADM3	RU		48	562221	9883016		87998		198	Europe/Moscow	2022-11-12
+9883017	Obruchevsky District	Obruchevsky District	Obruchevskij,Обручевский	55.65805	37.51908	A	ADM3	RU		48	562221	9883017		85616		204	Europe/Moscow	2020-04-10
+9883018	Severnoye Butovo District	Severnoye Butovo District	Severnoe Butovo,Северное Бутово	55.57743	37.57942	A	ADM3	RU		48	562221	9883018		95561		171	Europe/Moscow	2022-11-13
+9883019	Tyoply Stan District	Tyoply Stan District	Tjoplyj Stan,Тёплый Стан	55.63192	37.47814	A	ADM3	RU		48	562221	9883019		134298		222	Europe/Moscow	2022-11-13
+9883020	Yasenevo District	Yasenevo District	Jasenevo,Ясенево	55.61613	37.54801	A	ADM3	RU		48	562221	9883020		177847		225	Europe/Moscow	2022-11-12
+9883021	Yuzhnoye Butovo District	Yuzhnoye Butovo District	Juzhnoe Butovo,Южное Бутово	55.541	37.534	A	ADM3	RU		48	562221	9883021		207967		175	Europe/Moscow	2025-01-21
+9883022	Zyuzino District	Zyuzino District	Zjuzino,Зюзино	55.65576	37.58629	A	ADM3	RU		48	562221	9883022		126573		178	Europe/Moscow	2022-11-12
+9883027	Dorogomilovo District	Dorogomilovo District	Dorogomilovo,Дорогомилово	55.73815	37.53222	A	ADM3	RU		48	490968	9883027		74865		152	Europe/Moscow	2022-11-12
+9883028	Filyovsky park District	Filyovsky park District	Filjovskij park,rajon Filjovskij park,Филёвский парк,район Филёвский парк	55.75472	37.49196	A	ADM3	RU		48	490968	9883028		92740		130	Europe/Moscow	2022-11-12
+9883029	Fili-Davydkovo District	Fili-Davydkovo District	Fili-Davydkovo,Фили-Давыдково	55.72714	37.46578	A	ADM3	RU		48	490968	9883029		114907		165	Europe/Moscow	2022-11-12
+9883030	Krylatskoye District	Krylatskoye District	Krylatskoe,Крылатское	55.76448	37.40913	A	ADM3	RU		48	490968	9883030		82593		178	Europe/Moscow	2022-11-12
+9883031	Kuntsevo District	Kuntsevo District	Kuncevo,Кунцево	55.75232	37.38712	A	ADM3	RU		48	490968	9883031		151423		196	Europe/Moscow	2022-11-12
+9883032	Mozhaysky District	Mozhaysky District	Mozhajskij,Можайский	55.71914	37.40742	A	ADM3	RU		48	490968	9883032		137746		174	Europe/Moscow	2022-11-12
+9883033	Novo-Peredelkino District	Novo-Peredelkino District	Novo-Peredelkino,Ново-Переделкино	55.64323	37.35343	A	ADM3	RU		48	490968	9883033		121947		176	Europe/Moscow	2022-11-12
+9883034	Ochakovo-Matveyevskoye District	Ochakovo-Matveyevskoye District	Ochakovo-Matveevskoe,Очаково-Матвеевское	55.69264	37.43746	A	ADM3	RU		48	490968	9883034		129890		167	Europe/Moscow	2022-11-12
+9883035	Prospekt Vernadskogo District	Prospekt Vernadskogo District	Prospekt Vernadskogo,Проспект Вернадского	55.67722	37.4996	A	ADM3	RU		48	490968	9883035		63597		196	Europe/Moscow	2022-11-12
+9883036	Ramenki District	Ramenki District	Ramenki,Раменки	55.7063	37.51694	A	ADM3	RU		48	490968	9883036		139127		185	Europe/Moscow	2022-11-12
+9883037	Solntsevo District	Solntsevo District	Solncevo,Солнцево	55.64672	37.39265	A	ADM3	RU		48	490968	9883037		124797		179	Europe/Moscow	2022-11-12
+9883038	Troparyovo-Nikulino District	Troparyovo-Nikulino District	Troparjovo-Nikulino,Troparyovo-Nikulino,Тропарёво-Никулино	55.65922	37.4657	A	ADM3	RU		48	9883038	9883038		123478		180	Europe/Moscow	2022-11-12
+9883039	Khoroshevo-Mnevniki District	Khoroshevo-Mnevniki District	Khoroshevo-Mnevniki,Khoroshyovo-Mnevniki,Khoroshyovo-Mnyovniki,Хорошево-Мневники	55.77438	37.47205	A	ADM3	RU		48	480141	9883039		172371		155	Europe/Moscow	2022-11-13
+9883040	Kurkino District	Kurkino District	Kurkino,Куркино	55.89202	37.38888	A	ADM3	RU		48	480141	9883040		33312		186	Europe/Moscow	2022-11-12
+9883041	Mitino District	Mitino District	Mitino,Митино	55.85039	37.36424	A	ADM3	RU		48	480141	9883041		192876		176	Europe/Moscow	2022-11-12
+9883057	Pokrovskoye-Streshnevo District	Pokrovskoye-Streshnevo District	Pokrovskoe-Streshnevo,Покровское-Стрешнево	55.82357	37.44621	A	ADM3	RU		48	480141	9883057		58299		143	Europe/Moscow	2022-11-12
+9883058	Severnoye Tushino District	Severnoye Tushino District	Severnoe Tushino,Северное Тушино	55.86178	37.42493	A	ADM3	RU		48	480141	9883058		165265		167	Europe/Moscow	2022-11-12
+9883059	Shchukino District	Shchukino District	Shhukino,Щукино	55.80189	37.4675	A	ADM3	RU		48	480141	9883059		110272		157	Europe/Moscow	2022-11-12
+9883060	Strogino District	Strogino District	Ostrogino,Strogino,Строгино	55.79069	37.39214	A	ADM3	RU		48	480141	9883060		159973		139	Europe/Moscow	2022-11-12
+9883061	Yuzhnoye Tushino District	Yuzhnoye Tushino District	Juzhnoe Tushino,Южное Тушино	55.84542	37.42785	A	ADM3	RU		48	480141	9883061		108978		170	Europe/Moscow	2022-11-12
+9883062	Matushkino District	Matushkino District	Matushkino,Матушкино	56.00834	37.2058	A	ADM3	RU		48	8520888	9883062		40351		218	Europe/Moscow	2022-11-12
+9883063	Staroye Kryukovo District	Staroye Kryukovo District	Staroe Krjukovo,Старое Крюково	55.97915	37.19576	A	ADM3	RU		48	8520888	9883063		30853		224	Europe/Moscow	2022-11-12
+9883064	Silino District	Silino District	Silino,Силино	55.99786	37.16709	A	ADM3	RU		48	8520888	9883064		39987		219	Europe/Moscow	2022-11-12
+9883065	Kryukovo District	Kryukovo District	Krjukovo,Крюково	55.97046	37.17507	A	ADM3	RU		48	8520888	9883065		97746		194	Europe/Moscow	2022-11-12
+12527689	Vyshnevolotskiy Gorodskoy Okrug	Vyshnevolotskiy Gorodskoy Okrug	Vyshnevolockij Gorodskoj Okrug,Vyshnevolotskiy Gorodskoy Okrug,Вышневолоцкий Городской Округ	57.58901	34.53656	A	ADM3	RU		77		12527689		0		153	Europe/Moscow	2023-05-13
+12540212	Kirovskiy Rayon	Kirovskiy Rayon	Kirovskij Rajon,Kirovskiy Rayon,Кировский Район	43.03596	47.37828	A	ADM3	RU		17		12540212		0		-3	Europe/Moscow	2023-06-16
+12571391	Syrkovskiy Rayon	Syrkovskiy Rayon	Syrkovskij Rajon,Syrkovskiy Rayon,Сырковский Район	58.55578	31.2505	A	ADM3	RU		52		12571391		0		26	Europe/Moscow	2023-09-07
+12571393	Luzhskiy Rayon	Luzhskiy Rayon	Luzhskij Rajon,Luzhskiy Rayon,Лужский Район	58.56804	31.27015	A	ADM3	RU		52		12571393		0		33	Europe/Moscow	2023-09-07
+12571394	Zapadnyy Rayon	Zapadnyy Rayon	Zapadnyj Rajon,Zapadnyy Rayon,Западный Район	58.53689	31.23353	A	ADM3	RU		52		12571394		0		26	Europe/Moscow	2023-09-07
+12571395	Severnyy Rayon	Severnyy Rayon	Severnyj Rajon,Severnyy Rayon,Северный Район	58.58749	31.25645	A	ADM3	RU		52		12571395		0		36	Europe/Moscow	2023-09-07
+12571396	Donetskiy Rayon	Donetskiy Rayon	Doneckij Rajon,Donetskiy Rayon,Донецкий Район	58.5391	31.30204	A	ADM3	RU		52		12571396		0		22	Europe/Moscow	2023-09-07
+12571398	Pskovskiy Rayon	Pskovskiy Rayon	Pskovskij Rajon,Pskovskiy Rayon,Псковский Район	58.51289	31.25124	A	ADM3	RU		52		12571398		0		22	Europe/Moscow	2023-09-07
+12690101	Oktyabr’skiy Okrug	Oktyabr'skiy Okrug	Oktjabr'skij Okrug,Oktyabr'skiy Okrug,Oktyabr’skiy Okrug,Октябрьский Округ	52.56185	39.55328	A	ADM3	RU		43		12690101		0		106		2025-06-13
+12693595	Severo-Zapadnyy Rayon	Severo-Zapadnyy Rayon	Severo-Zapadnyj Rajon,Severo-Zapadnyy Rayon,Северо-Западный Район	43.05131	44.62843	A	ADM3	RU		68		12693595		0		649		2024-01-11
+12693597	Zaterechnyy Rayon	Zaterechnyy Rayon	Zaterechnyj Rajon,Zaterechnyy Rayon,Затеречный Район	42.88474	44.60604	A	ADM3	RU		68		12693597		0		1993		2024-01-11
+12693601	Novovyatskiy Rayon	Novovyatskiy Rayon	Novovjatskij Rajon,Novovyatskiy Rayon,Нововятский Район	58.50128	49.71217	A	ADM3	RU		33		12693601		0		114		2024-01-11
+12723606	Ustinovskiy Rayon	Ustinovskiy Rayon	Ustinovskij Rajon,Ustinovskiy Rayon,Устиновский Район	56.88051	53.29752	A	ADM3	RU		80		12723606		0		161		2024-02-10
+12738769	Tsiglomenskiy Okrug	Tsiglomenskiy Okrug	Ciglomenskij Okrug,Tsiglomenskiy Okrug,Цигломенский Округ	64.54503	40.32431	A	ADM3	RU		06		12738769		0		4		2024-02-10
+12738771	Varavino-Faktoriya Okrug	Varavino-Faktoriya Okrug	Varavino-Faktorija Okrug,Varavino-Faktoriya Okrug,Варавино-Фактория Округ	64.48591	40.74576	A	ADM3	RU		06		12738771		0		3		2024-02-10
+12789811	Akademicheskiy Rayon	Akademicheskiy Rayon	Akademicheskij Rajon,Akademicheskiy Rayon,Академический Район	56.79402	60.50551	A	ADM3	RU		71		12789811		0		250		2024-04-24
+12843386	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	54.18333	45.19885	A	ADM3	RU		46		12843386		0		135		2025-06-13
+13043422	Vostochnyy Administrativnyy Okrug	Vostochnyy Administrativnyy Okrug	Vostochnyj Administrativnyj Okrug,Vostochnyy Administrativnyy Okrug,Восточный Административный Округ	57.1	65.644	A	ADM3	RU		78		13043422		0		61	Asia/Yekaterinburg	2025-09-15
+13077916	Yuzhnyy Rayon	Yuzhnyy Rayon	Juzhnyj Rajon,Yuzhnyy Rayon,Южный Район	44.67974	37.78021	A	ADM3	RU		38		13077916		0		35		2024-09-13
+13131976	Gorodskoy Okrug Egvekinot	Gorodskoy Okrug Egvekinot	Gorodskoj Okrug Ehgvekinot,Gorodskoy Okrug Egvekinot,Городской Округ Эгвекинот	66.32434	-179.12256	A	ADM3	RU		15	4031694	13131976		0		9		2024-11-24
+13197484	Kurchatovskiy Rayon	Kurchatovskiy Rayon	Kurchatovskij Rajon,Kurchatovskiy Rayon,Курчатовский Район	55.23164	61.32923	A	ADM3	RU		13		13197484		0		236		2025-02-19
+13216836	Pravoberezhnyy Rayon	Pravoberezhnyy Rayon	Pravoberezhnyj Rajon,Pravoberezhnyy Rayon,Правобережный Район	56.28915	101.90081	A	ADM3	RU		20		13216836		0		360		2025-02-19
+13304386	Novoil’inskiy Rayon	Novoil'inskiy Rayon	Novoil'inskij Rajon,Novoil'inskiy Rayon,Novoil’inskiy Rayon,Новоильинский Район	53.89672	87.10958	A	ADM3	RU		29		13304386		0		229		2025-06-13
+13499246	Rayon Moskvorech’ye-Saburovo	Rayon Moskvorech'ye-Saburovo	Rajon Moskvorech'e-Saburovo,Rayon Moskvorech'ye-Saburovo,Rayon Moskvorech’ye-Saburovo,Район Москворечье-Сабурово	55.64361	37.67181	A	ADM3	RU		48		13499246		0		155		2025-08-15
+13499247	Rayon Vostochnoye Izmaylovo	Rayon Vostochnoye Izmaylovo	Rajon Vostochnoe Izmajlovo,Rayon Vostochnoye Izmaylovo,Район Восточное Измайлово	55.79703	37.82339	A	ADM3	RU		48		13499247		0		162		2025-08-15
+13499248	Rayon Novogireyevo	Rayon Novogireyevo	Rajon Novogireevo,Rayon Novogireyevo,Район Новогиреево	55.74784	37.80518	A	ADM3	RU		48		13499248		0		150		2025-08-15
+13499249	Rayon Severnoye Izmaylovo	Rayon Severnoye Izmaylovo	Rajon Severnoe Izmajlovo,Rayon Severnoye Izmaylovo,Район Северное Измайлово	55.80648	37.8045	A	ADM3	RU		48		13499249		0		171		2025-08-15
+13499250	Rayon Ochakovo-Matveyevskoye	Rayon Ochakovo-Matveyevskoye	Rajon Ochakovo-Matveevskoe,Rayon Ochakovo-Matveyevskoye,Район Очаково-Матвеевское	55.69496	37.44867	A	ADM3	RU		48		13499250		0		148		2025-08-15
+13499251	Rayon Voronovo	Rayon Voronovo	Rajon Voronovo,Rayon Voronovo,Район Вороново	55.28185	37.14966	A	ADM3	RU		48		13499251		0		210		2025-08-15
+13499252	Molzhaninovskiy Rayon	Molzhaninovskiy Rayon	Molzhaninovskij Rajon,Molzhaninovskiy Rayon,Молжаниновский Район	55.9375	37.37812	A	ADM3	RU		48		13499252		0		188		2025-09-12
+13499253	Rayon Nagatinskiy Zaton	Rayon Nagatinskiy Zaton	Rajon Nagatinskij Zaton,Rayon Nagatinskiy Zaton,Район Нагатинский Затон	55.68488	37.67991	A	ADM3	RU		48		13499253		0		130		2025-08-15
+13499254	Ryazanskiy Rayon	Ryazanskiy Rayon	Rjazanskij Rajon,Ryazanskiy Rayon,Рязанский Район	55.72309	37.7701	A	ADM3	RU		48		13499254		0		143		2025-08-15
+13499255	Basmannyy Rayon	Basmannyy Rayon	Basmannyj Rajon,Basmannyy Rayon,Басманный Район	55.76694	37.67236	A	ADM3	RU		48		13499255		0		148		2025-08-15
+13499256	Rayon Silino	Rayon Silino	Rajon Silino,Rayon Silino,Район Силино	56.00459	37.1667	A	ADM3	RU		48		13499256		0		206		2025-09-12
+13499257	Nagornyy Rayon	Nagornyy Rayon	Nagornyj Rajon,Nagornyy Rayon,Нагорный Район	55.66762	37.61753	A	ADM3	RU		48		13499257		0		180		2025-08-15
+13499258	Golovinskiy Rayon	Golovinskiy Rayon	Golovinskij Rajon,Golovinskiy Rayon,Головинский Район	55.85025	37.50905	A	ADM3	RU		48		13499258		0		164		2025-08-15
+13499259	Rayon Sokolinaya Gora	Rayon Sokolinaya Gora	Rajon Sokolinaja Gora,Rayon Sokolinaya Gora,Район Соколиная Гора	55.78015	37.73336	A	ADM3	RU		48		13499259		0		148		2025-08-15
+13499260	Akademicheskiy Rayon	Akademicheskiy Rayon	Akademicheskij Rajon,Akademicheskiy Rayon,Академический Район	55.69027	37.57781	A	ADM3	RU		48		13499260		0		172		2025-08-15
+13499261	Mozhayskiy Rayon	Mozhayskiy Rayon	Mozhajskij Rajon,Mozhayskiy Rayon,Можайский Район	55.71178	37.40171	A	ADM3	RU		48		13499261		0		133		2025-08-15
+13499262	Krasnopakhorskiy Rayon	Krasnopakhorskiy Rayon	Krasnopakhorskij Rajon,Krasnopakhorskiy Rayon,Краснопахорский Район	55.41038	37.26766	A	ADM3	RU		48		13499262		0		177		2025-08-15
+13499263	Rayon Kommunarka	Rayon Kommunarka	Rajon Kommunarka,Rayon Kommunarka,Район Коммунарка	55.58592	37.45458	A	ADM3	RU		48		13499263		0		205		2025-08-15
+13499264	Rayon Metrogorodok	Rayon Metrogorodok	Rajon Metrogorodok,Rayon Metrogorodok,Район Метрогородок	55.84169	37.7449	A	ADM3	RU		48		13499264		0		168		2025-08-15
+13499265	Presnenskiy Rayon	Presnenskiy Rayon	Presnenskij Rajon,Presnenskiy Rayon,Пресненский Район	55.76352	37.56428	A	ADM3	RU		48		13499265		0		157		2025-08-15
+13499266	Danilovskiy Rayon	Danilovskiy Rayon	Danilovskij Rajon,Danilovskiy Rayon,Даниловский Район	55.70855	37.64635	A	ADM3	RU		48		13499266		0		131		2025-08-15
+13499267	Rayon Matushkino	Rayon Matushkino	Rajon Matushkino,Rayon Matushkino,Район Матушкино	56.0071	37.20318	A	ADM3	RU		48		13499267		0		210		2025-08-15
+13499268	Rayon Ivanovskoye	Rayon Ivanovskoye	Rajon Ivanovskoe,Rayon Ivanovskoye,Район Ивановское	55.76987	37.82641	A	ADM3	RU		48		13499268		0		157		2025-08-15
+13499269	Rayon Biryulëvo Zapadnoye	Rayon Biryulevo Zapadnoye	Rajon Birjuljovo Zapadnoe,Rayon Biryulevo Zapadnoye,Rayon Biryulëvo Zapadnoye,Район Бирюлёво Западное	55.58934	37.63734	A	ADM3	RU		48		13499269		0		191		2025-08-15
+13499270	Rayon Chertanovo Tsentral’noye	Rayon Chertanovo Tsentral'noye	Rajon Chertanovo Central'noe,Rayon Chertanovo Tsentral'noye,Rayon Chertanovo Tsentral’noye,Район Чертаново Центральное	55.615	37.60343	A	ADM3	RU		48		13499270		0		181		2025-08-15
+13499271	Rayon Tëplyy Stan	Rayon Teplyy Stan	Rajon Tjoplyj Stan,Rayon Teplyy Stan,Rayon Tëplyy Stan,Район Тёплый Стан	55.6339	37.48993	A	ADM3	RU		48		13499271		0		200		2025-08-15
+13499272	Rayon Prospekt Vernadskogo	Rayon Prospekt Vernadskogo	Rajon Prospekt Vernadskogo,Rayon Prospekt Vernadskogo,Район Проспект Вернадского	55.67722	37.4975	A	ADM3	RU		48		13499272		0		199		2025-08-15
+13499273	Levoberezhnyy Rayon	Levoberezhnyy Rayon	Levoberezhnyj Rajon,Levoberezhnyy Rayon,Левобережный Район	55.86714	37.46364	A	ADM3	RU		48		13499273		0		173		2025-08-15
+13499274	Dmitrovskiy Rayon	Dmitrovskiy Rayon	Dmitrovskij Rajon,Dmitrovskiy Rayon,Дмитровский Район	55.89117	37.53478	A	ADM3	RU		48		13499274		0		186		2025-08-15
+13499275	Rayon Preobrazhenskoye	Rayon Preobrazhenskoye	Rajon Preobrazhenskoe,Rayon Preobrazhenskoye,Район Преображенское	55.79863	37.72397	A	ADM3	RU		48		13499275		0		134		2025-08-15
+13499276	Rayon Bogorodskoye	Rayon Bogorodskoye	Rajon Bogorodskoe,Rayon Bogorodskoye,Район Богородское	55.81821	37.70698	A	ADM3	RU		48		13499276		0		144		2025-08-15
+13499277	Losinoostrovskiy Rayon	Losinoostrovskiy Rayon	Losinoostrovskij Rajon,Losinoostrovskiy Rayon,Лосиноостровский Район	55.88123	37.69343	A	ADM3	RU		48		13499277		0		141		2025-09-12
+13499278	Rayon Krylatskoye	Rayon Krylatskoye	Rajon Krylatskoe,Rayon Krylatskoye,Район Крылатское	55.76381	37.42817	A	ADM3	RU		48		13499278		0		122		2025-08-15
+13499279	Rayon Kryukovo	Rayon Kryukovo	Rajon Krjukovo,Rayon Kryukovo,Район Крюково	55.97216	37.17275	A	ADM3	RU		48		13499279		0		197		2025-09-12
+13499280	Rayon Ramenki	Rayon Ramenki	Rajon Ramenki,Rayon Ramenki,Район Раменки	55.70721	37.51834	A	ADM3	RU		48		13499280		0		204		2025-08-15
+13499281	Nizhegorodskiy Rayon	Nizhegorodskiy Rayon	Nizhegorodskij Rajon,Nizhegorodskiy Rayon,Нижегородский Район	55.72885	37.72731	A	ADM3	RU		48		13499281		0		147		2025-08-15
+13499282	Rayon Sokol’niki	Rayon Sokol'niki	Rajon Sokol'niki,Rayon Sokol'niki,Rayon Sokol’niki,Район Сокольники	55.80249	37.67165	A	ADM3	RU		48		13499282		0		149		2025-08-15
+13499283	Rayon Veshnyaki	Rayon Veshnyaki	Rajon Veshnjaki,Rayon Veshnyaki,Район Вешняки	55.731	37.8152	A	ADM3	RU		48		13499283		0		145		2025-08-15
+13499284	Rayon Cherëmushki	Rayon Cheremushki	Rajon Cherjomushki,Rayon Cheremushki,Rayon Cherëmushki,Район Черёмушки	55.66449	37.5601	A	ADM3	RU		48		13499284		0		183		2025-08-15
+13499285	Yaroslavskiy Rayon	Yaroslavskiy Rayon	Jaroslavskij Rajon,Yaroslavskiy Rayon,Ярославский Район	55.86374	37.69558	A	ADM3	RU		48		13499285		0		164		2025-08-15
+13499286	Rayon Troparëvo-Nikulino	Rayon Troparevo-Nikulino	Rajon Troparjovo-Nikulino,Rayon Troparevo-Nikulino,Rayon Troparëvo-Nikulino,Район Тропарёво-Никулино	55.65948	37.46509	A	ADM3	RU		48		13499286		0		194		2025-08-15
+13499287	Rayon Zamoskvorech’ye	Rayon Zamoskvorech'ye	Rajon Zamoskvorech'e,Rayon Zamoskvorech'ye,Rayon Zamoskvorech’ye,Район Замоскворечье	55.73503	37.63554	A	ADM3	RU		48		13499287		0		121		2025-08-15
+13499288	Beskudnikovskiy Rayon	Beskudnikovskiy Rayon	Beskudnikovskij Rajon,Beskudnikovskiy Rayon,Бескудниковский Район	55.8659	37.55351	A	ADM3	RU		48		13499288		0		163		2025-08-15
+13499289	Rayon Savëlki	Rayon Savelki	Rajon Savjolki,Rayon Savelki,Rayon Savëlki,Район Савёлки	55.99311	37.23278	A	ADM3	RU		48		13499289		0		206		2025-08-15
+13499290	Rayon Shcherbinka	Rayon Shcherbinka	Rajon Shherbinka,Rayon Shcherbinka,Район Щербинка	55.48349	37.5081	A	ADM3	RU		48		13499290		0		161		2025-08-15
+13499291	Krasnosel’skiy Rayon	Krasnosel'skiy Rayon	Krasnosel'skij Rajon,Krasnosel'skiy Rayon,Krasnosel’skiy Rayon,Красносельский Район	55.77761	37.65192	A	ADM3	RU		48		13499291		0		157		2025-08-15
+13499292	Alekseyevskiy Rayon	Alekseyevskiy Rayon	Alekseevskij Rajon,Alekseyevskiy Rayon,Алексеевский Район	55.8143	37.64952	A	ADM3	RU		48		13499292		0		144		2025-08-15
+13499293	Rayon Novo-Peredelkino	Rayon Novo-Peredelkino	Rajon Novo-Peredelkino,Rayon Novo-Peredelkino,Район Ново-Переделкино	55.64376	37.36249	A	ADM3	RU		48		13499293		0		164		2025-08-15
+13499294	Lomonosovskiy Rayon	Lomonosovskiy Rayon	Lomonosovskij Rajon,Lomonosovskiy Rayon,Ломоносовский Район	55.6795	37.53393	A	ADM3	RU		48		13499294		0		193		2025-08-15
+13499295	Rayon Dorogomilovo	Rayon Dorogomilovo	Rajon Dorogomilovo,Rayon Dorogomilovo,Район Дорогомилово	55.74053	37.5384	A	ADM3	RU		48		13499295		0		133		2025-08-15
+13499296	Rayon Staroye Kryukovo	Rayon Staroye Kryukovo	Rajon Staroe Krjukovo,Rayon Staroye Kryukovo,Район Старое Крюково	55.98143	37.19732	A	ADM3	RU		48		13499296		0		209		2025-09-12
+13499297	Rayon Kuntsevo	Rayon Kuntsevo	Rajon Kuncevo,Rayon Kuntsevo,Район Кунцево	55.74296	37.39902	A	ADM3	RU		48		13499297		0		188		2025-08-15
+13499298	Ostankinskiy Rayon	Ostankinskiy Rayon	Ostankinskij Rajon,Ostankinskiy Rayon,Останкинский Район	55.83434	37.61996	A	ADM3	RU		48		13499298		0		143		2025-08-15
+13499299	Rayon Novokosino	Rayon Novokosino	Rajon Novokosino,Rayon Novokosino,Район Новокосино	55.73861	37.85672	A	ADM3	RU		48		13499299		0		147		2025-08-15
+13499300	Gorodskoy Okrug Troitsk	Gorodskoy Okrug Troitsk	Gorodskoj Okrug Troick,Gorodskoy Okrug Troitsk,Rajon Troick,Rayon Troitsk,Городской Округ Троицк,Район Троицк	55.48906	37.29401	A	ADM3	RU		48		13499300		0		176		2025-08-15
+13499301	Rayon Gol’yanovo	Rayon Gol'yanovo	Rajon Gol'janovo,Rayon Gol'yanovo,Rayon Gol’yanovo,Район Гольяново	55.82796	37.79565	A	ADM3	RU		48		13499301		0		163		2025-08-15
+13499302	Rayon Fili-Davydkovo	Rayon Fili-Davydkovo	Rajon Fili-Davydkovo,Rayon Fili-Davydkovo,Район Фили-Давыдково	55.72912	37.4724	A	ADM3	RU		48		13499302		0		148		2025-08-15
+13499303	Rayon Marfino	Rayon Marfino	Rajon Marfino,Rayon Marfino,Район Марфино	55.83096	37.5899	A	ADM3	RU		48		13499303		0		168		2025-08-15
+13499304	Yuzhnoportovyy Rayon	Yuzhnoportovyy Rayon	Juzhnoportovyj Rajon,Yuzhnoportovyy Rayon,Южнопортовый Район	55.71765	37.67332	A	ADM3	RU		48		13499304		0		153		2025-08-15
+13499305	Rayon Solntsevo	Rayon Solntsevo	Rajon Solncevo,Rayon Solntsevo,Район Солнцево	55.64985	37.40007	A	ADM3	RU		48		13499305		0		184		2025-08-15
+13499306	Voykovskiy Rayon	Voykovskiy Rayon	Vojkovskij Rajon,Voykovskiy Rayon,Войковский Район	55.8334	37.49607	A	ADM3	RU		48		13499306		0		165		2025-08-15
+13499307	Timiryazevskiy Rayon	Timiryazevskiy Rayon	Timirjazevskij Rajon,Timiryazevskiy Rayon,Тимирязевский Район	55.82516	37.55735	A	ADM3	RU		48		13499307		0		168		2025-08-15
+13499308	Altuf’yevskiy Rayon	Altuf'yevskiy Rayon	Altuf'evskij Rajon,Altuf'yevskiy Rayon,Altuf’yevskiy Rayon,Алтуфьевский Район	55.87998	37.5859	A	ADM3	RU		48		13499308		0		174		2025-08-15
+13499309	Filimonkovskiy Rayon	Filimonkovskiy Rayon	Filimonkovskij Rajon,Filimonkovskiy Rayon,Филимонковский Район	55.56419	37.28695	A	ADM3	RU		48		13499309		0		171		2025-08-15
+13499310	Rayon Izmaylovo	Rayon Izmaylovo	Rajon Izmajlovo,Rayon Izmaylovo,Район Измайлово	55.78295	37.78004	A	ADM3	RU		48		13499310		0		141		2025-08-15
+13499311	Rayon Yuzhnoye Medvedkovo	Rayon Yuzhnoye Medvedkovo	Rajon Juzhnoe Medvedkovo,Rayon Yuzhnoye Medvedkovo,Район Южное Медведково	55.87531	37.63391	A	ADM3	RU		48		13499311		0		150		2025-08-15
+13499312	Obruchevskiy Rayon	Obruchevskiy Rayon	Obruchevskij Rajon,Obruchevskiy Rayon,Обручевский Район	55.66109	37.52015	A	ADM3	RU		48		13499312		0		219		2025-08-15
+13499313	Rayon Kosino-Ukhtomskiy	Rayon Kosino-Ukhtomskiy	Rajon Kosino-Ukhtomskij,Rayon Kosino-Ukhtomskiy,Район Косино-Ухтомский	55.71217	37.88756	A	ADM3	RU		48		13499313		0		147		2025-09-12
+13499314	Savëlovskiy Rayon	Savelovskiy Rayon	Savelovskiy Rayon,Savjolovskij Rajon,Savëlovskiy Rayon,Савёловский Район	55.80031	37.57336	A	ADM3	RU		48		13499314		0		175		2025-08-15
+13499315	Rayon Bekasovo	Rayon Bekasovo	Rajon Bekasovo,Rayon Bekasovo,Район Бекасово	55.4244	36.93866	A	ADM3	RU		48		13499315		0		200		2025-08-15
+13515974	Üzək Rayonıy	Uzak Rayoniy	Central'nyj Rajon,Tentral'nyy Rayon,Tentral’nyy Rayon,Uzak Rayoniy,Üzək Rayonıy,Центральный Район,Үзәк Районы	55.71357	52.42579	A	ADM3	RU		73		13515974		0		115		2025-09-12
+13518654	Repino	Repino	Repino,Репино	60.17554	29.87695	A	ADM3	RU		66	8521321	13518654		0		24		2025-09-12
+13518655	Munitsipal’nyy Okrug Shuvalovo-Ozerki	Munitsipal'nyy Okrug Shuvalovo-Ozerki	Municipal'nyj Okrug Shuvalovo-Ozerki,Munitsipal'nyy Okrug Shuvalovo-Ozerki,Munitsipal’nyy Okrug Shuvalovo-Ozerki,Муниципальный Округ Шувалово-Озерки	60.05126	30.31184	A	ADM3	RU		66	470542	13518655		0		20		2025-09-12
+13518656	Munitsipal’nyy Okrug Komendantskiy Aerodrom	Munitsipal'nyy Okrug Komendantskiy Aerodrom	Municipal'nyj Okrug Komendantskij Aehrodrom,Munitsipal'nyy Okrug Komendantskiy Aerodrom,Munitsipal’nyy Okrug Komendantskiy Aerodrom,Муниципальный Округ Комендантский Аэродром	60.00429	30.29545	A	ADM3	RU		66	463424	13518656		0		1		2025-09-12
+13518657	Munitsipal’nyy Okrug Polyustrovo	Munitsipal'nyy Okrug Polyustrovo	Municipal'nyj Okrug Poljustrovo,Munitsipal'nyy Okrug Polyustrovo,Munitsipal’nyy Okrug Polyustrovo,Муниципальный Округ Полюстрово	59.99875	30.45431	A	ADM3	RU		66	542341	13518657		0		19		2025-09-12
+13518658	Munitsipal’nyy Okrug Rybatskoye	Munitsipal'nyy Okrug Rybatskoye	Municipal'nyj Okrug Rybackoe,Munitsipal'nyy Okrug Rybatskoye,Munitsipal’nyy Okrug Rybatskoye,Муниципальный Округ Рыбацкое	59.8344	30.5085	A	ADM3	RU		66	522360	13518658		0		1		2025-09-12
+13518659	Sestroretsk	Sestroretsk	Sestroreck,Sestroretsk,Сестрорецк	60.06585	30.02578	A	ADM3	RU		66	8521321	13518659		0		5		2025-09-12
+13518660	Munitsipal’nyy Okrug Kolomyagi	Munitsipal'nyy Okrug Kolomyagi	Municipal'nyj Okrug Kolomjagi,Munitsipal'nyy Okrug Kolomyagi,Munitsipal’nyy Okrug Kolomyagi,Муниципальный Округ Коломяги	60.04448	30.23268	A	ADM3	RU		66	463424	13518660		0		12		2025-09-12
+13518661	Munitsipal’nyy Okrug Yuntolovo	Munitsipal'nyy Okrug Yuntolovo	Municipal'nyj Okrug Juntolovo,Munitsipal'nyy Okrug Yuntolovo,Munitsipal’nyy Okrug Yuntolovo,Муниципальный Округ Юнтолово	60.02425	30.23129	A	ADM3	RU		66	463424	13518661		0		1		2025-09-12
+13518662	Munitsipal’nyy Okrug Nomer Shest’desyat Pyat’	Munitsipal'nyy Okrug Nomer Shest'desyat Pyat'	Municipal'nyj Okrug Nomer Shest'desjat Pjat',Munitsipal'nyy Okrug Nomer Shest'desyat Pyat',Munitsipal’nyy Okrug Nomer Shest’desyat Pyat’,Муниципальный Округ Номер Шестьдесят Пять	59.99447	30.22033	A	ADM3	RU		66	463424	13518662		0		3		2025-09-12
+13518663	Munitsipal’nyy Okrug Admiralteyskiy Okrug	Munitsipal'nyy Okrug Admiralteyskiy Okrug	Municipal'nyj Okrug Admiraltejskij Okrug,Munitsipal'nyy Okrug Admiralteyskiy Okrug,Munitsipal’nyy Okrug Admiralteyskiy Okrug,Муниципальный Округ Адмиралтейский Округ	59.93124	30.30017	A	ADM3	RU		66	8521318	13518663		0		8		2025-09-12
+13518664	Munitsipal’nyy Okrug Vladimirskiy Okrug	Munitsipal'nyy Okrug Vladimirskiy Okrug	Municipal'nyj Okrug Vladimirskij Okrug,Munitsipal'nyy Okrug Vladimirskiy Okrug,Munitsipal’nyy Okrug Vladimirskiy Okrug,Муниципальный Округ Владимирский Округ	59.92504	30.34662	A	ADM3	RU		66	8521324	13518664		0		14		2025-09-12
+13518665	Munitsipal’nyy Okrug Liteynyy Okrug	Munitsipal'nyy Okrug Liteynyy Okrug	Municipal'nyj Okrug Litejnyj Okrug,Munitsipal'nyy Okrug Liteynyy Okrug,Munitsipal’nyy Okrug Liteynyy Okrug,Муниципальный Округ Литейный Округ	59.94267	30.34985	A	ADM3	RU		66	8521324	13518665		0		12		2025-09-12
+13518666	Pushkin	Pushkin	Pushkin,Пушкин	59.70187	30.3397	A	ADM3	RU		66	8521323	13518666		0		63		2025-09-12
+13518667	Munitsipal’nyy Okrug Sosnovskoye	Munitsipal'nyy Okrug Sosnovskoye	Municipal'nyj Okrug Sosnovskoe,Munitsipal'nyy Okrug Sosnovskoye,Munitsipal’nyy Okrug Sosnovskoye,Муниципальный Округ Сосновское	60.02815	30.34605	A	ADM3	RU		66	470542	13518667		0		19		2025-09-12
+13518668	Munitsipal’nyy Okrug Kronverkskoye	Munitsipal'nyy Okrug Kronverkskoye	Municipal'nyj Okrug Kronverkskoe,Munitsipal'nyy Okrug Kronverkskoye,Munitsipal’nyy Okrug Kronverkskoye,Муниципальный Округ Кронверкское	59.95427	30.31371	A	ADM3	RU		66	510222	13518668		0		3		2025-09-12
+13518669	Munitsipal’nyy Okrug Posadskiy	Munitsipal'nyy Okrug Posadskiy	Municipal'nyj Okrug Posadskij,Munitsipal'nyy Okrug Posadskiy,Munitsipal’nyy Okrug Posadskiy,Муниципальный Округ Посадский	59.95787	30.32951	A	ADM3	RU		66	510222	13518669		0		1		2025-09-12
+13518670	Munitsipal’nyy Okrug Nevskaya Zastava	Munitsipal'nyy Okrug Nevskaya Zastava	Municipal'nyj Okrug Nevskaja Zastava,Munitsipal'nyy Okrug Nevskaya Zastava,Munitsipal’nyy Okrug Nevskaya Zastava,Муниципальный Округ Невская Застава	59.90258	30.40466	A	ADM3	RU		66	522360	13518670		0		11		2025-09-12
+13518671	Munitsipal’nyy Okrug Porokhovyye	Munitsipal'nyy Okrug Porokhovyye	Municipal'nyj Okrug Porokhovye,Munitsipal'nyy Okrug Porokhovyye,Munitsipal’nyy Okrug Porokhovyye,Муниципальный Округ Пороховые	59.94544	30.4727	A	ADM3	RU		66	542341	13518671		0		10		2025-09-12
+13518672	Ust’-Izhora	Ust'-Izhora	Ust'-Izhora,Ust’-Izhora,Усть-Ижора	59.80582	30.59421	A	ADM3	RU		66	8521319	13518672		0		1		2025-09-12
+13518673	Tyarlevo	Tyarlevo	Tjarlevo,Tyarlevo,Тярлево	59.7067	30.44993	A	ADM3	RU		66	8521323	13518673		0		20		2025-09-12
+13518674	Munitsipal’nyy Okrug Dachnoye	Munitsipal'nyy Okrug Dachnoye	Municipal'nyj Okrug Dachnoe,Munitsipal'nyy Okrug Dachnoye,Munitsipal’nyy Okrug Dachnoye,Муниципальный Округ Дачное	59.8437	30.24041	A	ADM3	RU		66	548375	13518674		0		4		2025-09-12
+13518675	Munitsipal’nyy Okrug Nomer Sem’	Munitsipal'nyy Okrug Nomer Sem'	Municipal'nyj Okrug Nomer Sem',Munitsipal'nyy Okrug Nomer Sem',Munitsipal’nyy Okrug Nomer Sem’,Муниципальный Округ Номер Семь	59.93823	30.28001	A	ADM3	RU		66	476815	13518675		0		6		2025-09-12
+13518676	Munitsipal’nyy Okrug Ostrov Dekabristov	Munitsipal'nyy Okrug Ostrov Dekabristov	Municipal'nyj Okrug Ostrov Dekabristov,Munitsipal'nyy Okrug Ostrov Dekabristov,Munitsipal’nyy Okrug Ostrov Dekabristov,Муниципальный Округ Остров Декабристов	59.95518	30.22933	A	ADM3	RU		66	476815	13518676		0		4		2025-09-12
+13518677	Munitsipal’nyy Okrug Okkervil’	Munitsipal'nyy Okrug Okkervil'	Municipal'nyj Okrug Okkervil',Munitsipal'nyy Okrug Okkervil',Munitsipal’nyy Okrug Okkervil’,Муниципальный Округ Оккервиль	59.91695	30.48891	A	ADM3	RU		66	522360	13518677		0		11		2025-09-12
+13518678	Munitsipal’nyy Okrug Nomer Pyat’desyat Chetyre	Munitsipal'nyy Okrug Nomer Pyat'desyat Chetyre	Municipal'nyj Okrug Nomer Pjat'desjat Chetyre,Munitsipal'nyy Okrug Nomer Pyat'desyat Chetyre,Munitsipal’nyy Okrug Nomer Pyat’desyat Chetyre,Муниципальный Округ Номер Пятьдесят Четыре	59.89888	30.47565	A	ADM3	RU		66	522360	13518678		0		9		2025-09-12
+13518679	Munitsipal’nyy Okrug Ivanovskiy	Munitsipal'nyy Okrug Ivanovskiy	Municipal'nyj Okrug Ivanovskij,Munitsipal'nyy Okrug Ivanovskiy,Munitsipal’nyy Okrug Ivanovskiy,Муниципальный Округ Ивановский	59.87816	30.4295	A	ADM3	RU		66	522360	13518679		0		15		2025-09-12
+13518680	Pontonnyy	Pontonnyy	Pontonnyj,Pontonnyy,Понтонный	59.78145	30.63346	A	ADM3	RU		66	8521319	13518680		0		3		2025-09-12
+13518681	Munitsipal’nyy Okrug Pulkovskiy Meridian	Munitsipal'nyy Okrug Pulkovskiy Meridian	Municipal'nyj Okrug Pulkovskij Meridian,Munitsipal'nyy Okrug Pulkovskiy Meridian,Munitsipal’nyy Okrug Pulkovskiy Meridian,Муниципальный Округ Пулковский Меридиан	59.80327	30.29129	A	ADM3	RU		66	524915	13518681		0		4		2025-09-12
+13518682	Munitsipal’nyy Okrug Gorelovo	Munitsipal'nyy Okrug Gorelovo	Municipal'nyj Okrug Gorelovo,Munitsipal'nyy Okrug Gorelovo,Munitsipal’nyy Okrug Gorelovo,Муниципальный Округ Горелово	59.79099	30.1463	A	ADM3	RU		66		13518682		0		21		2025-10-16
+13518683	Munitsipal’nyy Okrug Krasnen’kaya Rechka	Munitsipal'nyy Okrug Krasnen'kaya Rechka	Municipal'nyj Okrug Krasnen'kaja Rechka,Munitsipal'nyy Okrug Krasnen'kaya Rechka,Munitsipal’nyy Okrug Krasnen’kaya Rechka,Муниципальный Округ Красненькая Речка	59.85658	30.23788	A	ADM3	RU		66	548375	13518683		0		7		2025-09-12
+13518684	Sapërnyy	Sapernyy	Sapernyy,Sapjornyj,Sapërnyy,Сапёрный	59.77599	30.69867	A	ADM3	RU		66	8521319	13518684		0		2		2025-09-12
+13518685	Munitsipal’nyy Okrug Ligovka-Yamskaya	Munitsipal'nyy Okrug Ligovka-Yamskaya	Municipal'nyj Okrug Ligovka-Jamskaja,Munitsipal'nyy Okrug Ligovka-Yamskaya,Munitsipal’nyy Okrug Ligovka-Yamskaya,Муниципальный Округ Лиговка-Ямская	59.92119	30.37281	A	ADM3	RU		66	8521324	13518685		0		11		2025-09-12
+13518686	Kolpino	Kolpino	Kolpino,Колпино	59.75668	30.61874	A	ADM3	RU		66	8521319	13518686		0		7		2025-09-12
+13518687	Munitsipal’nyy Okrug Avtovo	Munitsipal'nyy Okrug Avtovo	Municipal'nyj Okrug Avtovo,Munitsipal'nyy Okrug Avtovo,Munitsipal’nyy Okrug Avtovo,Муниципальный Округ Автово	59.87429	30.23139	A	ADM3	RU		66	548375	13518687		0		8		2025-09-12
+13518688	Munitsipal’nyy Okrug Knyazhevo	Munitsipal'nyy Okrug Knyazhevo	Municipal'nyj Okrug Knjazhevo,Munitsipal'nyy Okrug Knyazhevo,Munitsipal’nyy Okrug Knyazhevo,Муниципальный Округ Княжево	59.85026	30.27115	A	ADM3	RU		66	548375	13518688		0		5		2025-09-12
+13518689	Lisiy Nos	Lisiy Nos	Lisij Nos,Lisiy Nos,Лисий Нос	60.01499	30.00277	A	ADM3	RU		66	463424	13518689		0		9		2025-09-12
+13518690	Serovo	Serovo	Serovo,Серово	60.2151	29.54638	A	ADM3	RU		66	8521321	13518690		0		31		2025-09-12
+13518691	Molodëzhnoye	Molodezhnoye	Molodezhnoye,Molodjozhnoe,Molodëzhnoye,Молодёжное	60.20216	29.50339	A	ADM3	RU		66	8521321	13518691		0		25		2025-09-12
+13518692	Munitsipal’nyy Okrug Bol’shaya Okhta	Munitsipal'nyy Okrug Bol'shaya Okhta	Municipal'nyj Okrug Bol'shaja Okhta,Munitsipal'nyy Okrug Bol'shaya Okhta,Munitsipal’nyy Okrug Bol’shaya Okhta,Муниципальный Округ Большая Охта	59.9487	30.42634	A	ADM3	RU		66	542341	13518692		0		8		2025-09-12
+13518693	Munitsipal’nyy Okrug Kupchino	Munitsipal'nyy Okrug Kupchino	Municipal'nyj Okrug Kupchino,Munitsipal'nyy Okrug Kupchino,Munitsipal’nyy Okrug Kupchino,Муниципальный Округ Купчино	59.86391	30.37178	A	ADM3	RU		66	562330	13518693		0		8		2025-09-12
+13518694	Munitsipal’nyy Okrug Nomer Pyatnadtsat’	Munitsipal'nyy Okrug Nomer Pyatnadtsat'	Municipal'nyj Okrug Nomer Pjatnadcat',Munitsipal'nyy Okrug Nomer Pyatnadtsat',Munitsipal’nyy Okrug Nomer Pyatnadtsat’,Муниципальный Округ Номер Пятнадцать	60.05313	30.36897	A	ADM3	RU		66	470542	13518694		0		21		2025-09-12
+13518695	Levashovo	Levashovo	Levashovo,Левашово	60.09198	30.15367	A	ADM3	RU		66	470542	13518695		0		5		2025-09-12
+13518696	Munitsipal’nyy Okrug Chkalovskoye	Munitsipal'nyy Okrug Chkalovskoye	Municipal'nyj Okrug Chkalovskoe,Munitsipal'nyy Okrug Chkalovskoye,Munitsipal’nyy Okrug Chkalovskoye,Муниципальный Округ Чкаловское	59.97241	30.26516	A	ADM3	RU		66	510222	13518696		0		4		2025-09-12
+13518697	Munitsipal’nyy Okrug Dvortsovyy Okrug	Munitsipal'nyy Okrug Dvortsovyy Okrug	Municipal'nyj Okrug Dvorcovyj Okrug,Munitsipal'nyy Okrug Dvortsovyy Okrug,Munitsipal’nyy Okrug Dvortsovyy Okrug,Муниципальный Округ Дворцовый Округ	59.94104	30.32777	A	ADM3	RU		66	8521324	13518697		0		7		2025-09-12
+13518698	Munitsipal’nyy Okrug Prometey	Munitsipal'nyy Okrug Prometey	Municipal'nyj Okrug Prometej,Munitsipal'nyy Okrug Prometey,Munitsipal’nyy Okrug Prometey,Муниципальный Округ Прометей	60.04049	30.39932	A	ADM3	RU		66	554181	13518698		0		22		2025-09-12
+13518699	Munitsipal’nyy Okrug Nevskiy Okrug	Munitsipal'nyy Okrug Nevskiy Okrug	Municipal'nyj Okrug Nevskij Okrug,Munitsipal'nyy Okrug Nevskiy Okrug,Munitsipal’nyy Okrug Nevskiy Okrug,Муниципальный Округ Невский Округ	59.90712	30.45022	A	ADM3	RU		66	522360	13518699		0		11		2025-09-12
+13518700	Munitsipal’nyy Okrug Nomer Sem’desyat Dva	Munitsipal'nyy Okrug Nomer Sem'desyat Dva	Municipal'nyj Okrug Nomer Sem'desjat Dva,Munitsipal'nyy Okrug Nomer Sem'desyat Dva,Munitsipal’nyy Okrug Nomer Sem’desyat Dva,Муниципальный Округ Номер Семьдесят Два	59.86818	30.40171	A	ADM3	RU		66	562330	13518700		0		8		2025-09-12
+13518701	Munitsipal’nyy Okrug Svetlanovskoye	Munitsipal'nyy Okrug Svetlanovskoye	Municipal'nyj Okrug Svetlanovskoe,Munitsipal'nyy Okrug Svetlanovskoye,Munitsipal’nyy Okrug Svetlanovskoye,Муниципальный Округ Светлановское	60.00889	30.33891	A	ADM3	RU		66	470542	13518701		0		26		2025-09-12
+13518702	Munitsipal’nyy Okrug Morskoy	Munitsipal'nyy Okrug Morskoy	Municipal'nyj Okrug Morskoj,Munitsipal'nyy Okrug Morskoy,Munitsipal’nyy Okrug Morskoy,Муниципальный Округ Морской	59.9437	30.20526	A	ADM3	RU		66	476815	13518702		0		-9999		2025-09-12
+13518703	Munitsipal’nyy Okrug Izmaylovskoye	Munitsipal'nyy Okrug Izmaylovskoye	Municipal'nyj Okrug Izmajlovskoe,Munitsipal'nyy Okrug Izmaylovskoye,Munitsipal’nyy Okrug Izmaylovskoye,Муниципальный Округ Измайловское	59.90743	30.30767	A	ADM3	RU		66	8521318	13518703		0		5		2025-09-12
+13518704	Munitsipal’nyy Okrug Semënovskiy	Munitsipal'nyy Okrug Semenovskiy	Municipal'nyj Okrug Semjonovskij,Munitsipal'nyy Okrug Semenovskiy,Munitsipal’nyy Okrug Semënovskiy,Муниципальный Округ Семёновский	59.9177	30.32788	A	ADM3	RU		66	8521318	13518704		0		8		2025-09-12
+13518705	Munitsipal’nyy Okrug Obukhovskiy	Munitsipal'nyy Okrug Obukhovskiy	Municipal'nyj Okrug Obukhovskij,Munitsipal'nyy Okrug Obukhovskiy,Munitsipal’nyy Okrug Obukhovskiy,Муниципальный Округ Обуховский	59.8617	30.45791	A	ADM3	RU		66	522360	13518705		0		12		2025-09-12
+13518706	Munitsipal’nyy Okrug Sosnovaya Polyana	Munitsipal'nyy Okrug Sosnovaya Polyana	Municipal'nyj Okrug Sosnovaja Poljana,Munitsipal'nyy Okrug Sosnovaya Polyana,Munitsipal’nyy Okrug Sosnovaya Polyana,Муниципальный Округ Сосновая Поляна	59.84446	30.12109	A	ADM3	RU		66	542231	13518706		0		6		2025-09-12
+13518707	Munitsipal’nyy Okrug Ul’yanka	Munitsipal'nyy Okrug Ul'yanka	Municipal'nyj Okrug Ul'janka,Munitsipal'nyy Okrug Ul'yanka,Munitsipal’nyy Okrug Ul’yanka,Муниципальный Округ Ульянка	59.83122	30.2169	A	ADM3	RU		66	548375	13518707		0		3		2025-09-12
+13518708	Munitsipal’nyy Okrug Zvëzdnoye	Munitsipal'nyy Okrug Zvezdnoye	Municipal'nyj Okrug Zvjozdnoe,Munitsipal'nyy Okrug Zvezdnoye,Munitsipal’nyy Okrug Zvëzdnoye,Муниципальный Округ Звёздное	59.83002	30.33826	A	ADM3	RU		66	524915	13518708		0		5		2025-09-12
+13518709	Munitsipal’nyy Okrug Aptekarskiy Ostrov	Munitsipal'nyy Okrug Aptekarskiy Ostrov	Municipal'nyj Okrug Aptekarskij Ostrov,Munitsipal'nyy Okrug Aptekarskiy Ostrov,Munitsipal’nyy Okrug Aptekarskiy Ostrov,Муниципальный Округ Аптекарский Остров	59.97091	30.31605	A	ADM3	RU		66	510222	13518709		0		5		2025-09-12
+13518710	Munitsipal’nyy Okrug Malaya Okhta	Munitsipal'nyy Okrug Malaya Okhta	Municipal'nyj Okrug Malaja Okhta,Munitsipal'nyy Okrug Malaya Okhta,Munitsipal’nyy Okrug Malaya Okhta,Муниципальный Округ Малая Охта	59.92755	30.41599	A	ADM3	RU		66	542341	13518710		0		11		2025-09-12
+13518711	Munitsipal’nyy Okrug Yugo-Zapad	Munitsipal'nyy Okrug Yugo-Zapad	Municipal'nyj Okrug Jugo-Zapad,Munitsipal'nyy Okrug Yugo-Zapad,Munitsipal’nyy Okrug Yugo-Zapad,Муниципальный Округ Юго-Запад	59.85591	30.21489	A	ADM3	RU		66	542231	13518711		0		3		2025-09-12
+13518712	Smolyachkovo	Smolyachkovo	Smoljachkovo,Smolyachkovo,Смолячково	60.18977	29.47428	A	ADM3	RU		66	8521321	13518712		0		33		2025-09-12
+13518713	Munitsipal’nyy Okrug Yekateringofskiy	Munitsipal'nyy Okrug Yekateringofskiy	Municipal'nyj Okrug Ekateringofskij,Munitsipal'nyy Okrug Yekateringofskiy,Munitsipal’nyy Okrug Yekateringofskiy,Муниципальный Округ Екатерингофский	59.90879	30.27637	A	ADM3	RU		66	8521318	13518713		0		7		2025-09-12
+13518714	Munitsipal’nyy Okrug Volkovskoye	Munitsipal'nyy Okrug Volkovskoye	Municipal'nyj Okrug Volkovskoe,Munitsipal'nyy Okrug Volkovskoye,Munitsipal’nyy Okrug Volkovskoye,Муниципальный Округ Волковское	59.89213	30.36631	A	ADM3	RU		66	562330	13518714		0		7		2025-09-12
+13518715	Munitsipal’nyy Okrug Grazhdanka	Munitsipal'nyy Okrug Grazhdanka	Municipal'nyj Okrug Grazhdanka,Munitsipal'nyy Okrug Grazhdanka,Munitsipal’nyy Okrug Grazhdanka,Муниципальный Округ Гражданка	60.00627	30.40252	A	ADM3	RU		66	554181	13518715		0		22		2025-09-12
+13518716	Munitsipal’nyy Okrug Piskarëvka	Munitsipal'nyy Okrug Piskarevka	Municipal'nyj Okrug Piskarjovka,Munitsipal'nyy Okrug Piskarevka,Munitsipal’nyy Okrug Piskarëvka,Муниципальный Округ Пискарёвка	59.99342	30.40519	A	ADM3	RU		66	554181	13518716		0		27		2025-09-12
+13518717	Munitsipal’nyy Okrug Rzhevka	Munitsipal'nyy Okrug Rzhevka	Municipal'nyj Okrug Rzhevka,Munitsipal'nyy Okrug Rzhevka,Munitsipal’nyy Okrug Rzhevka,Муниципальный Округ Ржевка	59.97309	30.49328	A	ADM3	RU		66	542341	13518717		0		15		2025-09-12
+13518718	Munitsipal’nyy Okrug Moskovskaya Zastava	Munitsipal'nyy Okrug Moskovskaya Zastava	Municipal'nyj Okrug Moskovskaja Zastava,Munitsipal'nyy Okrug Moskovskaya Zastava,Munitsipal’nyy Okrug Moskovskaya Zastava,Муниципальный Округ Московская Застава	59.88537	30.32373	A	ADM3	RU		66	524915	13518718		0		10		2025-09-12
+13518719	Munitsipal’nyy Okrug Narvskiy Okrug	Munitsipal'nyy Okrug Narvskiy Okrug	Municipal'nyj Okrug Narvskij Okrug,Munitsipal'nyy Okrug Narvskiy Okrug,Munitsipal’nyy Okrug Narvskiy Okrug,Муниципальный Округ Нарвский Округ	59.89052	30.26676	A	ADM3	RU		66	548375	13518719		0		5		2025-09-12
+13518720	Zelenogorsk	Zelenogorsk	Zelenogorsk,Зеленогорск	60.21169	29.71245	A	ADM3	RU		66	8521321	13518720		0		30		2025-09-12
+13518721	Pesochnyy	Pesochnyy	Pesochnyj,Pesochnyy,Песочный	60.12088	30.11355	A	ADM3	RU		66	8521321	13518721		0		8		2025-09-12
+13518722	Pargolovo	Pargolovo	Pargolovo,Парголово	60.08367	30.25674	A	ADM3	RU		66	470542	13518722		0		41		2025-09-12
+13518723	Munitsipal’nyy Okrug Petrovskiy	Munitsipal'nyy Okrug Petrovskiy	Municipal'nyj Okrug Petrovskij,Munitsipal'nyy Okrug Petrovskiy,Munitsipal’nyy Okrug Petrovskiy,Муниципальный Округ Петровский	59.95816	30.27019	A	ADM3	RU		66	510222	13518723		0		2		2025-09-12
+13518724	Munitsipal’nyy Okrug Geogriyevskiy	Munitsipal'nyy Okrug Geogriyevskiy	Municipal'nyj Okrug Georgievskij,Munitsipal'nyy Okrug Geogriyevskiy,Munitsipal’nyy Okrug Geogriyevskiy,Муниципальный Округ Георгиевский	59.8465	30.38533	A	ADM3	RU		66	562330	13518724		0		4		2025-09-12
+13518725	Shushary	Shushary	Shushary,Шушары	59.76248	30.44322	A	ADM3	RU		66	8521323	13518725		0		4		2025-09-12
+13518726	Aleksandrovskaya	Aleksandrovskaya	Aleksandrovskaja,Aleksandrovskaya,Александровская	59.733	30.3407	A	ADM3	RU		66	8521323	13518726		0		48		2025-09-12
+13518727	Munitsipal’nyy Okrug Novoizmaylovskoye	Munitsipal'nyy Okrug Novoizmaylovskoye	Municipal'nyj Okrug Novoizmajlovskoe,Munitsipal'nyy Okrug Novoizmaylovskoye,Munitsipal’nyy Okrug Novoizmaylovskoye,Муниципальный Округ Новоизмайловское	59.85176	30.30177	A	ADM3	RU		66	524915	13518727		0		8		2025-09-12
+13518728	Munitsipal’nyy Okrug Gagarinskoye	Munitsipal'nyy Okrug Gagarinskoye	Municipal'nyj Okrug Gagarinskoe,Munitsipal'nyy Okrug Gagarinskoye,Munitsipal’nyy Okrug Gagarinskoye,Муниципальный Округ Гагаринское	59.84783	30.35572	A	ADM3	RU		66	524915	13518728		0		4		2025-09-12
+13518729	Beloostrov	Beloostrov	Beloostrov,Белоостров	60.12876	30.01686	A	ADM3	RU		66	8521321	13518729		0		4		2025-09-12
+13518730	Munitsipal’nyy Okrug Sergiyevskoye	Munitsipal'nyy Okrug Sergiyevskoye	Municipal'nyj Okrug Sergievskoe,Munitsipal'nyy Okrug Sergiyevskoye,Munitsipal’nyy Okrug Sergiyevskoye,Муниципальный Округ Сергиевское	60.06372	30.35467	A	ADM3	RU		66	470542	13518730		0		23		2025-09-12
+13518731	Munitsipal’nyy Okrug Ozero Dolgoye	Munitsipal'nyy Okrug Ozero Dolgoye	Municipal'nyj Okrug Ozero Dolgoe,Munitsipal'nyy Okrug Ozero Dolgoye,Munitsipal’nyy Okrug Ozero Dolgoye,Муниципальный Округ Озеро Долгое	60.0068	30.2642	A	ADM3	RU		66	463424	13518731		0		1		2025-09-12
+13518732	Munitsipal’nyy Okrug Sennoy Okrug	Munitsipal'nyy Okrug Sennoy Okrug	Municipal'nyj Okrug Sennoj Okrug,Munitsipal'nyy Okrug Sennoy Okrug,Munitsipal’nyy Okrug Sennoy Okrug,Муниципальный Округ Сенной Округ	59.92519	30.31365	A	ADM3	RU		66	8521318	13518732		0		9		2025-09-12
+13518733	Munitsipal’nyy Okrug Aleksandrovskiy	Munitsipal'nyy Okrug Aleksandrovskiy	Municipal'nyj Okrug Aleksandrovskij,Munitsipal'nyy Okrug Aleksandrovskiy,Munitsipal’nyy Okrug Aleksandrovskiy,Муниципальный Округ Александровский	59.84529	30.43233	A	ADM3	RU		66	562330	13518733		0		11		2025-09-12
+13518734	Munitsipal’nyy Okrug Balkanskiy	Munitsipal'nyy Okrug Balkanskiy	Municipal'nyj Okrug Balkanskij,Munitsipal'nyy Okrug Balkanskiy,Munitsipal’nyy Okrug Balkanskiy,Муниципальный Округ Балканский	59.82846	30.40054	A	ADM3	RU		66	562330	13518734		0		3		2025-09-12
+13518735	Pavlovsk	Pavlovsk	Pavlovsk,Павловск	59.67315	30.43232	A	ADM3	RU		66	8521323	13518735		0		40		2025-09-12
+13518736	Munitsipal’nyy Okrug Kolomna	Munitsipal'nyy Okrug Kolomna	Municipal'nyj Okrug Kolomna,Munitsipal'nyy Okrug Kolomna,Munitsipal’nyy Okrug Kolomna,Муниципальный Округ Коломна	59.92237	30.28204	A	ADM3	RU		66	8521318	13518736		0		8		2025-09-12
+13518737	Munitsipal’nyy Okrug Morskiye Vorota	Munitsipal'nyy Okrug Morskiye Vorota	Municipal'nyj Okrug Morskie Vorota,Munitsipal'nyy Okrug Morskiye Vorota,Munitsipal’nyy Okrug Morskiye Vorota,Муниципальный Округ Морские Ворота	59.90037	30.22688	A	ADM3	RU		66	548375	13518737		0		1		2025-09-12
+13518738	Munitsipal’nyy Okrug Smol’ninskoye	Munitsipal'nyy Okrug Smol'ninskoye	Municipal'nyj Okrug Smol'ninskoe,Munitsipal'nyy Okrug Smol'ninskoye,Munitsipal’nyy Okrug Smol’ninskoye,Муниципальный Округ Смольнинское	59.94149	30.38165	A	ADM3	RU		66	8521324	13518738		0		13		2025-09-12
+13518739	Munitsipal’nyy Okrug Severnyy	Munitsipal'nyy Okrug Severnyy	Municipal'nyj Okrug Severnyj,Munitsipal'nyy Okrug Severnyy,Munitsipal’nyy Okrug Severnyy,Муниципальный Округ Северный	60.04381	30.38063	A	ADM3	RU		66	554181	13518739		0		19		2025-09-12
+13518740	Munitsipal’nyy Okrug Akademicheskoye	Munitsipal'nyy Okrug Akademicheskoye	Municipal'nyj Okrug Akademicheskoe,Munitsipal'nyy Okrug Akademicheskoye,Munitsipal’nyy Okrug Akademicheskoye,Муниципальный Округ Академическое	60.01693	30.38567	A	ADM3	RU		66	554181	13518740		0		19		2025-09-12
+13518741	Munitsipal’nyy Okrug Finlyandskiy Okrug	Munitsipal'nyy Okrug Finlyandskiy Okrug	Municipal'nyj Okrug Finljandskij Okrug,Munitsipal'nyy Okrug Finlyandskiy Okrug,Munitsipal’nyy Okrug Finlyandskiy Okrug,Муниципальный Округ Финляндский Округ	59.96855	30.38018	A	ADM3	RU		66	554181	13518741		0		12		2025-09-12
+13518742	Solnechnoye	Solnechnoye	Solnechnoe,Solnechnoye,Солнечное	60.15706	29.94429	A	ADM3	RU		66	8521321	13518742		0		9		2025-09-12
+13518743	Ushkovo	Ushkovo	Ushkovo,Ушково	60.21728	29.61938	A	ADM3	RU		66	8521321	13518743		0		44		2025-09-12
+13518744	Munitsipal’nyy Okrug Vvedenskiy	Munitsipal'nyy Okrug Vvedenskiy	Municipal'nyj Okrug Vvedenskij,Munitsipal'nyy Okrug Vvedenskiy,Munitsipal’nyy Okrug Vvedenskiy,Муниципальный Округ Введенский	59.95127	30.2989	A	ADM3	RU		66	510222	13518744		0		6		2025-09-12
+13518745	Munitsipal’nyy Okrug Nomer Dvadtsat’ Odin	Munitsipal'nyy Okrug Nomer Dvadtsat' Odin	Municipal'nyj Okrug Nomer Dvadcat' Odin,Munitsipal'nyy Okrug Nomer Dvadtsat' Odin,Munitsipal’nyy Okrug Nomer Dvadtsat’ Odin,Муниципальный Округ Номер Двадцать Один	60.03185	30.4229	A	ADM3	RU		66	554181	13518745		0		17		2025-09-12
+13518746	Strel’na	Strel'na	Strel'na,Strel’na,Стрельна	59.84458	30.04761	A	ADM3	RU		66	8521322	13518746		0		9		2025-09-12
+13518747	Komarovo	Komarovo	Komarovo,Комарово	60.19454	29.80555	A	ADM3	RU		66	8521321	13518747		0		37		2025-09-12
+13518748	Munitsipal’nyy Okrug Lanskoye	Munitsipal'nyy Okrug Lanskoye	Municipal'nyj Okrug Lanskoe,Munitsipal'nyy Okrug Lanskoye,Munitsipal’nyy Okrug Lanskoye,Муниципальный Округ Ланское	59.98806	30.30253	A	ADM3	RU		66	463424	13518748		0		7		2025-09-12
+13518749	Munitsipal’nyy Okrug Vasil’yevskiy	Munitsipal'nyy Okrug Vasil'yevskiy	Municipal'nyj Okrug Vasil'evskij,Munitsipal'nyy Okrug Vasil'yevskiy,Munitsipal’nyy Okrug Vasil’yevskiy,Муниципальный Округ Васильевский	59.94439	30.26275	A	ADM3	RU		66	476815	13518749		0		7		2025-09-12
+13518750	Munitsipal’nyy Okrug Narodnyy	Munitsipal'nyy Okrug Narodnyy	Municipal'nyj Okrug Narodnyj,Munitsipal'nyy Okrug Narodnyy,Munitsipal’nyy Okrug Narodnyy,Муниципальный Округ Народный	59.87791	30.4824	A	ADM3	RU		66	522360	13518750		0		13		2025-09-12
+13518751	Lomonosov	Lomonosov	Lomonosov,Ломоносов	59.90455	29.74742	A	ADM3	RU		66	8521322	13518751		0		13		2025-09-12
+13518752	Munitsipal’nyy Okrug Yuzhno-Primorskiy	Munitsipal'nyy Okrug Yuzhno-Primorskiy	Municipal'nyj Okrug Juzhno-Primorskij,Munitsipal'nyy Okrug Yuzhno-Primorskiy,Munitsipal’nyy Okrug Yuzhno-Primorskiy,Муниципальный Округ Южно-Приморский	59.85761	30.16637	A	ADM3	RU		66	542231	13518752		0		6		2025-09-12
+13518753	Munitsipal’nyy Okrug Sampsoniyevskoye	Munitsipal'nyy Okrug Sampsoniyevskoye	Municipal'nyj Okrug Sampsonievskoe,Munitsipal'nyy Okrug Sampsoniyevskoye,Munitsipal’nyy Okrug Sampsoniyevskoye,Муниципальный Округ Сампсониевское	59.97956	30.33867	A	ADM3	RU		66	470542	13518753		0		10		2025-09-12
+13518754	Munitsipal’nyy Okrug Lakhta-Ol’gino	Munitsipal'nyy Okrug Lakhta-Ol'gino	Municipal'nyj Okrug Lakhta-Ol'gino,Munitsipal'nyy Okrug Lakhta-Ol'gino,Munitsipal’nyy Okrug Lakhta-Ol’gino,Муниципальный Округ Лахта-Ольгино	60.01133	30.13704	A	ADM3	RU		66	463424	13518754		0		1		2025-09-12
+13518755	Munitsipal’nyy Okrug Nomer Sem’desyat Vosem’	Munitsipal'nyy Okrug Nomer Sem'desyat Vosem'	Municipal'nyj Okrug Nomer Sem'desjat Vosem',Munitsipal'nyy Okrug Nomer Sem'desyat Vosem',Munitsipal’nyy Okrug Nomer Sem’desyat Vosem’,Муниципальный Округ Номер Семьдесят Восемь	59.93179	30.32714	A	ADM3	RU		66	8521324	13518755		0		10		2025-09-12
+13518756	Munitsipal’nyy Okrug Gavan’	Munitsipal'nyy Okrug Gavan'	Municipal'nyj Okrug Gavan',Munitsipal'nyy Okrug Gavan',Munitsipal’nyy Okrug Gavan’,Муниципальный Округ Гавань	59.9368	30.2365	A	ADM3	RU		66	476815	13518756		0		6		2025-09-12
+13518757	Munitsipal’nyy Okrug Pravoberezhnyy	Munitsipal'nyy Okrug Pravoberezhnyy	Municipal'nyj Okrug Pravoberezhnyj,Munitsipal'nyy Okrug Pravoberezhnyy,Munitsipal’nyy Okrug Pravoberezhnyy,Муниципальный Округ Правобережный	59.92582	30.46182	A	ADM3	RU		66	522360	13518757		0		7		2025-09-12
+13518758	Petro-Slavyanka	Petro-Slavyanka	Petro-Slavjanka,Petro-Slavyanka,Петро-Славянка	59.81002	30.49182	A	ADM3	RU		66	8521319	13518758		0		10		2025-09-12
+13518759	Metallostroy	Metallostroy	Metallostroj,Metallostroy,Металлострой	59.79837	30.56068	A	ADM3	RU		66	8521319	13518759		0		4		2025-09-12
+13518760	Kronshtadt	Kronshtadt	Kronshtadt,Кронштадт	60.00753	29.73815	A	ADM3	RU		66	8521320	13518760		0		13		2025-09-12
+13518761	Petergof	Petergof	Petergof,Петергоф	59.8678	29.90692	A	ADM3	RU		66	8521322	13518761		0		13		2025-09-12
+13518762	Munitsipal’nyy Okrug Konstantinovskoye	Munitsipal'nyy Okrug Konstantinovskoye	Municipal'nyj Okrug Konstantinovskoe,Munitsipal'nyy Okrug Konstantinovskoye,Munitsipal’nyy Okrug Konstantinovskoye,Муниципальный Округ Константиновское	59.82245	30.12276	A	ADM3	RU		66	542231	13518762		0		7		2025-09-12
+13518763	Krasnoye Selo	Krasnoye Selo	Krasnoe Selo,Krasnoye Selo,Красное Село	59.72446	30.09042	A	ADM3	RU		66	542231	13518763		0		69		2025-09-12
+13518764	Munitsipal’nyy Okrug Uritsk	Munitsipal'nyy Okrug Uritsk	Municipal'nyj Okrug Urick,Munitsipal'nyy Okrug Uritsk,Munitsipal’nyy Okrug Uritsk,Муниципальный Округ Урицк	59.83611	30.18145	A	ADM3	RU		66	542231	13518764		0		3		2025-09-12

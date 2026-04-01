@@ -1,0 +1,19 @@
+﻿161514	Sovetskiy Rayon	Sovetskiy Rayon	Stalinskiy Rayon	37.95	58.38333	A	ADM3	TM		00		161514		0		219	Asia/Ashgabat	2007-05-30
+161572	Proletarskiy Rayon	Proletarskiy Rayon		37.95	58.38333	A	ADM3	TM		00		161572		0		219	Asia/Ashgabat	2007-05-30
+161667	Leninskiy Rayon	Leninskiy Rayon		37.95	58.38333	A	ADM3	TM		00		161667		0		219	Asia/Ashgabat	2007-05-30
+161933	Gyaurskiy Rayon	Gyaurskiy Rayon		37.86667	58.51667	A	ADM3	TM		01		161933		0		286	Asia/Ashgabat	2016-09-08
+601459	Tel’manskiy Rayon	Tel'manskiy Rayon		42.06667	59.96667	A	ADM3	TM		00		601459		0		81	Asia/Ashgabat	1994-03-11
+601464	Tashauzskiy Rayon	Tashauzskiy Rayon		41.83333	59.91667	A	ADM3	TM		00		601464		0		87	Asia/Ashgabat	1994-03-11
+601474	Takhtinskiy Rayon	Takhtinskiy Rayon		41.66667	59.91667	A	ADM3	TM		00		601474		0		88	Asia/Ashgabat	1994-03-11
+601531	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon		42.36667	58.81667	A	ADM3	TM		00		601531		0		66	Asia/Ashgabat	1994-03-11
+1218115	Vekil’-Bazarskiy Rayon	Vekil'-Bazarskiy Rayon		37.61667	61.91667	A	ADM3	TM		00		1218115		0		224	Asia/Ashgabat	1994-03-11
+1218194	Turkmen-Kalinskiy Rayon	Turkmen-Kalinskiy Rayon		37.16667	62.58333	A	ADM3	TM		00		1218194		0		297	Asia/Ashgabat	1994-03-11
+1218245	Tedzhenskiy Rayon	Tedzhenskiy Rayon		37.33333	60.5	A	ADM3	TM		00		1218245		0		189	Asia/Ashgabat	1994-03-11
+1218434	Sayatskiy Rayon	Sayatskiy Rayon		38	63.83333	A	ADM3	TM		00		1218434		0		208	Asia/Ashgabat	1994-03-11
+1218469	Sakarskiy Rayon	Sakarskiy Rayon		38.93333	63.75	A	ADM3	TM		00		1218469		0		195	Asia/Ashgabat	1994-03-11
+1218471	Sakar-Chaginskiy Rayon	Sakar-Chaginskiy Rayon	Sagar-Chaginskiy Rayon,Sakar-Chaginskiy Rayon	38	61	A	ADM3	TM		00		1218471		0		169	Asia/Ashgabat	2012-01-17
+1218611	Murgabskiy Rayon	Murgabskiy Rayon	Murgabskiy Rayon,Stalinskiy Rayon	37	61.58333	A	ADM3	TM		00		1218611		0		263	Asia/Ashgabat	2012-01-17
+1218894	Kirovskiy Rayon	Kirovskiy Rayon		37.7	60.38333	A	ADM3	TM		00		1218894		0		166	Asia/Ashgabat	1994-03-11
+1218986	Khalachskiy Rayon	Khalachskiy Rayon		38.06667	64.86667	A	ADM3	TM		00		1218986		0		233	Asia/Ashgabat	1994-03-11
+1219106	Karakumskiy Rayon	Karakumskiy Rayon		37.75	61.96667	A	ADM3	TM		00		1219106		0		219	Asia/Ashgabat	1994-03-11
+1219512	Dostlukskiy Rayon	Dostlukskiy Rayon		37.75	65.3	A	ADM3	TM		00		1219512		0		243	Asia/Ashgabat	1994-03-11

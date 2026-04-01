@@ -1,0 +1,168 @@
+﻿783763	Opština Beograd-Zvezdara	Opstina Beograd-Zvezdara	Opstina Zvezdara,Opština Zvezdara	44.77404	20.53396	A	ADM3	RS		SE	0	70149		0		231	Europe/Belgrade	2012-04-14
+783813	Opština Zrenjanin	Opstina Zrenjanin	Opstina Zrenjanin,Opština Zrenjanin	45.3794	20.39612	A	ADM3	RS		VO	2	80152		0		81	Europe/Belgrade	2016-04-29
+783879	Opština Žitorađa	Opstina Zitoraga	Opstina Zitorada,Opština Žitorađa,Zitoradja,Žitoradja	43.19091	21.71448	A	ADM3	RS		SE	21	70548		2992		217	Europe/Belgrade	2025-06-03
+783886	Opština Žitište	Opstina Zitiste	Opstina Zitiste,Opština Žitište	45.48547	20.55233	A	ADM3	RS		VO	2	80144		13412		77	Europe/Belgrade	2025-06-05
+783919	Opština Beograd-Zemun	Opstina Beograd-Zemun	Beograd-Zemun,Opstina Beograd-Zemun,Opstina Zemun,Opština Beograd-Zemun,Opština Zemun	44.84419	20.40848	A	ADM3	RS		SE	0	70157		0		78	Europe/Belgrade	2012-04-14
+784023	Zaječar-grad	Zajecar-grad	Opstina Zajecar,Opstina Zajecar-grad,Opština Zaječar,Opština Zaječar-grad,Zajecar-grad,Zaječar-grad	43.90395	22.27624	A	ADM3	RS		SE	15	70556		32448		130	Europe/Belgrade	2025-06-04
+784030	Opština Žagubica	Opstina Zagubica	Opstina Zagubica,Opština Žagubica	44.19654	21.78692	A	ADM3	RS		SE	11	70530		9712		313	Europe/Belgrade	2025-06-04
+784063	Opština Žabari	Opstina Zabari	Opstina Zabari,Opština Žabari	44.357	21.21348	A	ADM3	RS		SE	11	70521		9261		97	Europe/Belgrade	2025-06-04
+784067	Opština Žabalj	Opstina Zabalj	Opstina Zabalj,Opština Žabalj	45.37289	20.06962	A	ADM3	RS		VO	6	80136		23853		78	Europe/Belgrade	2025-06-05
+784135	Opština Vršac	Opstina Vrsac	Opstina Vrsac,Opština Vršac	45.1169	21.30103	A	ADM3	RS		VO	4	80128		0		94	Europe/Belgrade	2016-04-28
+784140	Opština Vrnjačka Banja	Opstina Vrnjacka Banja	Opstina Vrnjacka Banja,Opština Vrnjačka Banja	43.60972	20.8875	A	ADM3	RS		SE	18	70459		25065		297	Europe/Belgrade	2025-06-04
+784226	Opština Vranje	Opstina Vranje	Opstina Vranje,Opština Vranje	42.55011	21.89798	A	ADM3	RS		SE	24	70432		74381		468	Europe/Belgrade	2025-06-04
+784251	Opština Beograd-Vračar	Opstina Beograd-Vracar	Opstina Vracar,Opština Vračar	44.79897	20.47732	A	ADM3	RS		SE	0	70114		55406		147	Europe/Belgrade	2025-06-04
+784255	Opština Beograd-Voždovac	Opstina Beograd-Vozdovac	Opstina Vozdovac,Opština Voždovac	44.7772	20.47937	A	ADM3	RS		SE	0	70106		0		123	Europe/Belgrade	2012-04-14
+784317	Opština Vlasotince	Opstina Vlasotince	Opstina Vlasotince,Opština Vlasotince	42.96484	22.12852	A	ADM3	RS		SE	23	70424		25695		269	Europe/Belgrade	2025-06-04
+784354	Opština Vladičin Han	Opstina Vladicin Han	Opstina Vladicin Han,Opština Vladičin Han	42.70612	22.06398	A	ADM3	RS		SE	24	70416		17532		336	Europe/Belgrade	2025-06-04
+784534	Opština Veliko Gradište	Opstina Veliko Gradiste	Opstina Veliko Gradiste,Opština Veliko Gradište	44.76112	21.51861	A	ADM3	RS		SE	11	70394		15455		78	Europe/Belgrade	2025-06-04
+784629	Opština Velika Plana	Opstina Velika Plana	Opstina Velika Plana,Opština Velika Plana	44.33505	21.07682	A	ADM3	RS		SE	10	70386		15455		115	Europe/Belgrade	2025-06-04
+784703	Opština Varvarin	Opstina Varvarin	Opstina Varvarin,Opština Varvarin	43.72285	21.36274	A	ADM3	RS		SE	19	70378		14217		133	Europe/Belgrade	2025-06-04
+784793	Opština Ub	Opstina Ub	Opstina Ub,Opština Ub	44.45762	20.07657	A	ADM3	RS		SE	9	71218		25780		97	Europe/Belgrade	2025-06-04
+784799	Opština Tutin	Opstina Tutin	Opstina Tutin,Opština Tutin	42.98876	20.33269	A	ADM3	RS		SE	18	71188		33053		868	Europe/Belgrade	2025-06-04
+784872	Opština Trstenik	Opstina Trstenik	Opstina Trstenik,Opština Trstenik	43.61756	20.99796	A	ADM3	RS		SE	19	71170		35875		172	Europe/Belgrade	2025-06-04
+784943	Opština Trgovište	Opstina Trgoviste	Opstina Trgoviste,Opština Trgovište	42.36368	22.08321	A	ADM3	RS		SE	24	71161		4316		624	Europe/Belgrade	2025-06-04
+785012	Opština Topola	Opstina Topola	Opstina Topola,Opština Topola	44.25313	20.68331	A	ADM3	RS		SE	12	71153		19134		281	Europe/Belgrade	2025-06-04
+785061	Opština Titel	Opstina Titel	Opstina Titel,Opština Titel	45.20424	20.29836	A	ADM3	RS		VO	6	80454		0		88	Europe/Belgrade	2016-04-28
+785162	Opština Svrljig	Opstina Svrljig	Opstina Svrljig,Opština Svrljig	43.41453	22.12432	A	ADM3	RS		SE	20	71064		10781		373	Europe/Belgrade	2025-06-04
+785183	Opština Svilajnac	Opstina Svilajnac	Opstina Svilajnac,Opština Svilajnac	44.23379	21.19567	A	ADM3	RS		SE	13	71056		20141		103	Europe/Belgrade	2025-06-04
+785186	Opština Jagodina	Opstina Jagodina	Opstina Jagodina,Opstina Jagodina-grad,Opština Jagodina,Opština Jagodina-grad	43.97552	21.26258	A	ADM3	RS		SE	13	71048		0		121	Europe/Belgrade	2012-04-15
+785284	Opština Surdulica	Opstina Surdulica	Opstina Surdulica,Opština Surdulica	42.69038	22.17384	A	ADM3	RS		SE	24	71137		16991		492	Europe/Belgrade	2025-06-05
+785533	Opština Beograd-Stari Grad	Opstina Beograd-Stari Grad	Opstina Stari Grad,Opština Stari Grad	44.81838	20.46358	A	ADM3	RS		SE	0	70246		0		106	Europe/Belgrade	2012-04-14
+785558	Opština Stara Pazova	Opstina Stara Pazova	Opstina Stara Pazova,Opština Stara Pazova	44.98368	20.16502	A	ADM3	RS		VO	7	80420		62318		78	Europe/Belgrade	2025-06-05
+785670	Opština Beograd-Sopot	Opstina Beograd-Sopot	Opstina Sopot,Opština Sopot	44.52264	20.57602	A	ADM3	RS		SE	0	70238		0		178	Europe/Belgrade	2012-04-14
+785703	Opština Sokobanja	Opstina Sokobanja	Opstina Sokobanja,Opština Sokobanja	43.64465	21.86717	A	ADM3	RS		SE	15	71129		0		308	Europe/Belgrade	2012-04-16
+785752	Opština Smederevska Palanka	Opstina Smederevska Palanka	Opstina Smederevska Palanka,Opština Smederevska Palanka	44.36686	20.96013	A	ADM3	RS		SE	10	71102		42192		125	Europe/Belgrade	2025-06-04
+785755	Opština Smederevo	Opstina Smederevo	Opstina Smederevo,Opstina Smederevo-grad,Opština Smederevo,Opština Smederevo-grad	44.66078	20.93256	A	ADM3	RS		SE	10	71099		0		100	Europe/Belgrade	2012-04-17
+785964	Opština Senta	Opstina Senta	Opstina Senta,Opština Senta	45.93333	20.08333	A	ADM3	RS		VO	3	80365		17953		81	Europe/Belgrade	2025-06-05
+786034	Opština Sečanj	Opstina Secanj	Opstina Secanj,Opština Sečanj	45.36749	20.7739	A	ADM3	RS		VO	2	80373		10544		76	Europe/Belgrade	2025-06-05
+786048	Opština Beograd-Savski Venac	Opstina Beograd-Savski Venac	Opstina Savski Venac,Opština Savski Venac	44.77306	20.44139	A	ADM3	RS		SE	0	70220		0		103	Europe/Belgrade	2012-04-14
+786357	Opština Rekovac	Opstina Rekovac	Opstina Rekovac,Opština Rekovac	43.86331	21.09298	A	ADM3	RS		SE	13	71030		8116		241	Europe/Belgrade	2025-06-05
+786389	Opština Ražanj	Opstina Razanj	Opstina Razanj,Opština Ražanj	43.67365	21.54779	A	ADM3	RS		SE	20	71005		7010		270	Europe/Belgrade	2025-06-04
+786458	Opština Raška	Opstina Raska	Opstina Raska,Opština Raška	43.28152	20.62117	A	ADM3	RS		SE	18	71021		21498		430	Europe/Belgrade	2025-06-04
+786622	Opština Rača	Opstina Raca	Opstina Raca,Opština Rača	44.22687	20.97891	A	ADM3	RS		SE	12	71013		0		137	Europe/Belgrade	2025-06-06
+786689	Opština Prokuplje	Opstina Prokuplje	Opstina Prokuplje,Opština Prokuplje	43.23626	21.59122	A	ADM3	RS		SE	21	70998		38054		268	Europe/Belgrade	2025-06-06
+786771	Opština Preševo	Opstina Presevo	Komuna e Presheves,Komuna e Preshevës,Opstina Presevo,Opština Preševo	42.31166	21.65096	A	ADM3	RS		SE	24	70963		33449		504	Europe/Belgrade	2025-06-06
+786823	Opština Požega	Opstina Pozega	Opstina Pozega,Opština Požega	43.8466	20.0358	A	ADM3	RS		SE	16	70955		25988		317	Europe/Belgrade	2025-06-06
+786826	Opština Požarevac	Opstina Pozarevac	Opstina Pozarevac,Opština Požarevac	44.62237	21.18525	A	ADM3	RS		SE	11	70947		0		81	Europe/Belgrade	2016-04-29
+787031	Opština Plandište	Opstina Plandiste	Opstina Plandiste,Opština Plandište	45.22872	21.12448	A	ADM3	RS		VO	4	80349		8957		78	Europe/Belgrade	2025-06-05
+787049	Opština Pirot	Opstina Pirot	Opstina Pirot,Opština Pirot	43.1531	22.58806	A	ADM3	RS		SE	22	70939		0		372	Europe/Belgrade	2016-04-29
+787077	Opština Petrovac na Mlavi	Opstina Petrovac na Mlavi	Opstina Petrovac,Opština Petrovac	44.37645	21.42162	A	ADM3	RS		SE	11	70912		25900		126	Europe/Belgrade	2025-06-06
+787151	Opština Pećinci	Opstina Pecinci	Opstina Pecinci,Opština Pećinci	44.91012	19.96834	A	ADM3	RS		VO	7	80322		18401		79	Europe/Belgrade	2025-06-05
+787214	Opština Paraćin	Opstina Paracin	Opstina Paracin,Opština Paraćin	43.85991	21.41398	A	ADM3	RS		SE	13	70904		45543		131	Europe/Belgrade	2025-06-06
+787236	Pančevo-grad	Pancevo-grad	Opstina Pancevo,Opstina Pancevo-grad,Opština Pančevo,Opština Pančevo-grad	44.86366	20.65782	A	ADM3	RS		VO	4	80314		0		82	Europe/Belgrade	2016-04-29
+787252	Opština Beograd-Palilula	Opstina Beograd-Palilula	Opstina Palilula,Opština Palilula	44.81156	20.51559	A	ADM3	RS		SE	0	70203		0		120	Europe/Belgrade	2012-04-14
+787460	Opština Opovo	Opstina Opovo	Opstina Opovo,Opština Opovo	45.05497	20.43075	A	ADM3	RS		VO	4	80292		9462		73	Europe/Belgrade	2025-06-05
+787515	Opština Beograd-Obrenovac	Opstina Beograd-Obrenovac	Opstina Obrenovac,Opština Obrenovac	44.65449	20.19776	A	ADM3	RS		SE	0	70190		0		74	Europe/Belgrade	2012-04-14
+787594	Opština Novi Pazar	Opstina Novi Pazar	Novi Pazar,Opstina Novi Pazar,Opstina Novi Pazar-grad,Opština Novi Pazar,Opština Novi Pazar-grad	43.13556	20.51139	A	ADM3	RS		SE	18	70874		0		517	Europe/Belgrade	2012-04-15
+787599	Opština Novi Kneževac	Opstina Novi Knezevac	Opstina Novi Knezevac,Opština Novi Kneževac	46.04822	20.10738	A	ADM3	RS		VO	3	80276		8627		75	Europe/Belgrade	2025-06-05
+787606	Opština Beograd-Novi Beograd	Opstina Beograd-Novi Beograd	Novi Belgrade,Opstina Novi Beograd,Opština Novi Beograd	44.80861	20.40889	A	ADM3	RS		SE	0	70181		0		74	Europe/Belgrade	2012-04-14
+787609	Opština Novi Bečej	Opstina Novi Becej	Novi Becej Opstina,Novi Bečej Opština	45.59867	20.1376	A	ADM3	RS		VO	2	80268		19886		76	Europe/Belgrade	2025-06-05
+787620	Opština Nova Crnja	Opstina Nova Crnja	Opstina Nova Crnja,Opština Nova Crnja	45.66703	20.60263	A	ADM3	RS		VO	2	80250		0		75	Europe/Belgrade	2016-04-28
+787656	Opština Niška Banja	Opstina Niska Banja	Opstina Nis,Opština Niš	43.29045	22.00253	A	ADM3	RS		SE	20	71285		0		286	Europe/Belgrade	2012-04-14
+787717	Opština Negotin	Opstina Negotin	Opstina Negotin,Opština Negotin	44.2262	22.5291	A	ADM3	RS		SE	14	70840		28261		43	Europe/Belgrade	2025-06-04
+787891	Opština Beograd-Mladenovac	Opstina Beograd-Mladenovac	Opstina Mladenovac,Opština Mladenovac	44.445	20.69806	A	ADM3	RS		SE	0	70173		0		174	Europe/Belgrade	2012-04-14
+787934	Opština Mionica	Opstina Mionica	Opstina Mionica,Opština Mionica	44.25092	20.08163	A	ADM3	RS		SE	9	70831		12061		179	Europe/Belgrade	2025-06-04
+788025	Opština Merošina	Opstina Merosina	Opstina Merosina,Opština Merošina	43.28336	21.72126	A	ADM3	RS		SE	20	70823		11873		247	Europe/Belgrade	2025-06-04
+788054	Opština Medveđa	Opstina Medvega	Opstina Medveda,Opština Medveđa	42.84073	21.58565	A	ADM3	RS		SE	23	70815		6360		364	Europe/Belgrade	2025-06-04
+788217	Opština Malo Crniće	Opstina Malo Crnice	Opstina Malo Crnice,Opština Malo Crniće	44.55834	21.28511	A	ADM3	RS		SE	11	70807		8986		88	Europe/Belgrade	2025-06-04
+788356	Opština Majdanpek	Opstina Majdanpek	Opstina Majdanpek,Opština Majdanpek	44.42511	21.94536	A	ADM3	RS		SE	14	70785		14559		457	Europe/Belgrade	2025-06-04
+788451	Opština Lučani	Opstina Lucani	Opstina Lucani,Opština Lučani	43.8583	20.13966	A	ADM3	RS		SE	17	70742		16933		320	Europe/Belgrade	2025-06-04
+788582	Opština Ljig	Opstina Ljig	Opstina LJig,Opstina Ljig,Opština LJig,Opština Ljig	44.22171	20.23819	A	ADM3	RS		SE	9	70769		10711		161	Europe/Belgrade	2025-06-04
+788705	Opština Leskovac	Opstina Leskovac	Opstina Leskovac,Opstina Leskovac-grad,Opština Leskovac,Opština Leskovac-grad	42.99655	21.94742	A	ADM3	RS		SE	23	70726		123950		230	Europe/Belgrade	2025-06-04
+788761	Opština Lebane	Opstina Lebane	Opstina Lebane,Opština Lebane	42.91765	21.73542	A	ADM3	RS		SE	23	70718		8025		281	Europe/Belgrade	2025-06-03
+788770	Opština Beograd-Lazarevac	Opstina Beograd-Lazarevac	Opstina Lazarevac,Opština Lazarevac	44.38497	20.25956	A	ADM3	RS		SE	0	70165		0		138	Europe/Belgrade	2012-04-14
+788811	Opština Lajkovac	Opstina Lajkovac	Opstina Lajkovac,Opština Lajkovac	44.37264	20.1648	A	ADM3	RS		SE	9	70700		3211		111	Europe/Belgrade	2025-06-03
+788851	Opština Kuršumlija	Opstina Kursumlija	Opstina Kursumlija,Opština Kuršumlija	43.14194	21.27806	A	ADM3	RS		SE	21	70688		0		395	Europe/Belgrade	2012-04-13
+788936	Opština Kučevo	Opstina Kucevo	Opstina Kucevo,Opština Kučevo	44.47293	21.66452	A	ADM3	RS		SE	11	70696		11806		150	Europe/Belgrade	2025-06-03
+788974	Opština Kruševac-grad	Opstina Krusevac-grad	Opstina Krusevac,Opština Kruševac	43.58278	21.32639	A	ADM3	RS		SE	19	70670		53746		161	Europe/Belgrade	2025-06-03
+789106	Opština Kraljevo	Opstina Kraljevo	Opstina Kraljevo,Opstina Kraljevo-grad,Opština Kraljevo,Opština Kraljevo-grad	43.72614	20.68554	A	ADM3	RS		SE	18	70653		0		208	Europe/Belgrade	2012-04-15
+789127	Opština Kragujevac	Opstina Kragujevac	Opstina Kragujevac,Opstina Kragujevac-grad,Opština Kragujevac,Opština Kragujevac-grad	44.02289	20.90904	A	ADM3	RS		SE	12	70645		171186		186	Europe/Belgrade	2025-06-03
+789167	Opština Kovin	Opstina Kovin	Opstina Kovin,Opština Kovin	44.74673	20.97882	A	ADM3	RS		VO	4	80225		28141		78	Europe/Belgrade	2025-06-05
+789176	Opština Kovačica	Opstina Kovacica	Opstina Kovacica,Opština Kovačica	45.1103	20.62254	A	ADM3	RS		VO	4	80217		21178		79	Europe/Belgrade	2025-06-05
+789414	Opština Knjaževac	Opstina Knjazevac	Opstina Knjazevac,Opština Knjaževac	43.56802	22.2589	A	ADM3	RS		SE	15	70602		25341		218	Europe/Belgrade	2025-06-03
+789416	Opština Knić	Opstina Knic	Opstina Knic,Opština Knić	43.92646	20.71979	A	ADM3	RS		SE	12	70599		11729		320	Europe/Belgrade	2025-06-03
+789484	Opština Kladovo	Opstina Kladovo	Opstina Kladovo,Opština Kladovo	44.60636	22.61673	A	ADM3	RS		SE	14	70572		8171		49	Europe/Belgrade	2025-06-03
+789517	Opština Kikinda	Opstina Kikinda	Opstina Kikinda,Opština Kikinda	45.82862	20.46427	A	ADM3	RS		VO	3	80209		0		82	Europe/Belgrade	2016-04-29
+789599	Opština Kanjiža	Opstina Kanjiza	Opstina Kanjiza,Opština Kanjiža	46.06257	20.04996	A	ADM3	RS		VO	3	80195		0		81	Europe/Belgrade	2016-04-28
+789987	Opština Ivanjica	Opstina Ivanjica	Opstina Ivanjica,Opština Ivanjica	43.57933	20.23244	A	ADM3	RS		SE	17	70564		27767		465	Europe/Belgrade	2025-06-03
+790014	Opština Inđija	Opstina Ingija	Indjija,Opstina Indija,Opština Inđija	45.0506	20.08224	A	ADM3	RS		VO	7	80179		47433		111	Europe/Belgrade	2025-06-05
+790131	Opština Beograd-Grocka	Opstina Beograd-Grocka	Opstina Grocka,Opština Grocka	44.67024	20.717	A	ADM3	RS		SE	0	70122		0		78	Europe/Belgrade	2012-04-14
+790366	Opština Gornji Milanovac	Opstina Gornji Milanovac	Opstina Gornji Milanovac,Opština Gornji Milanovac	44.03444	20.46611	A	ADM3	RS		SE	17	70483		38985		337	Europe/Belgrade	2025-06-03
+790558	Opština Golubac	Opstina Golubac	Opstina Golubac,Opština Golubac	44.65312	21.63028	A	ADM3	RS		SE	11	70475		6599		71	Europe/Belgrade	2025-06-03
+790794	Opština Gadžin Han	Opstina Gadzin Han	Opstina Gadzin Han,Opština Gadžin Han	43.22319	22.03321	A	ADM3	RS		SE	20	70467		5850		272	Europe/Belgrade	2025-06-03
+791372	Opština Doljevac	Opstina Doljevac	Opstina Doljevac,Opština Doljevac	43.19892	21.8331	A	ADM3	RS		SE	20	70513		15837		197	Europe/Belgrade	2025-06-03
+791486	Opština Dimitrovgrad	Opstina Dimitrovgrad	Opstina Dimitrovgrad,Opština Dimitrovgrad	43.01532	22.78007	A	ADM3	RS		SE	22	70505		8043		462	Europe/Belgrade	2025-06-03
+791515	Opština Despotovac	Opstina Despotovac	Opstina Despotovac,Opština Despotovac	44.09412	21.44342	A	ADM3	RS		SE	13	70491		18278		197	Europe/Belgrade	2025-06-03
+791677	Opština Ćuprija	Opstina Cuprija	Opstina Cuprija,Opština Ćuprija	43.92776	21.37442	A	ADM3	RS		SE	13	71200		25325		123	Europe/Belgrade	2025-06-03
+791703	Opština Beograd-Čukarica	Opstina Beograd-Cukarica	Opstina Cukarica,Opština Čukarica	44.78281	20.41603	A	ADM3	RS		SE	0	70254		0		111	Europe/Belgrade	2012-04-14
+791839	Opština Crna Trava	Opstina Crna Trava	Opstina Crna Trava,Opština Crna Trava	42.81058	22.29873	A	ADM3	RS		SE	23	71226		1063		974	Europe/Belgrade	2025-06-03
+791899	Opština Čoka	Opstina Coka	Opstina Coka,Opština Čoka	45.94071	20.14644	A	ADM3	RS		VO	3	80489		8556		80	Europe/Belgrade	2025-06-05
+791935	Opština Ćićevac	Opstina Cicevac	Cicevac Opstina,Ćićevac Opština	43.71857	21.44149	A	ADM3	RS		SE	19	71196		7860		146	Europe/Belgrade	2025-06-03
+792077	Opština Čačak-grad	Opstina Cacak-grad	Opstina Cacak,Opština Čačak	43.88389	20.34361	A	ADM3	RS		SE	17	71242		0		241	Europe/Belgrade	2016-04-29
+792172	Opština Bujanovac	Opstina Bujanovac	Komuna e Bujanovcit,Opstina Bujanovac,Opština Bujanovac	42.45956	21.76851	A	ADM3	RS		SE	24	70351		41068		399	Europe/Belgrade	2025-06-03
+792240	Opština Brus	Opstina Brus	Opstina Brus,Opština Brus	43.38546	21.03298	A	ADM3	RS		SE	19	70343		13594		419	Europe/Belgrade	2025-06-03
+792420	Opština Bosilegrad	Opstina Bosilegrad	Opstina Bosilegrad,Opština Bosilegrad	42.50077	22.47399	A	ADM3	RS		SE	24	70335		6065		739	Europe/Belgrade	2025-06-03
+792455	Opština Bor	Opstina Bor	Opstina Bor,Opština Bor	44.06489	22.09814	A	ADM3	RS		SE	14	70327		0		390	Europe/Belgrade	2012-04-16
+792469	Opština Boljevac	Opstina Boljevac	Opstina Boljevac,Opština Boljevac	43.83081	21.9591	A	ADM3	RS		SE	15	70319		10184		262	Europe/Belgrade	2025-06-03
+792480	Opština Bojnik	Opstina Bojnik	Opstina Bojnik,Opština Bojnik	43.01243	21.7198	A	ADM3	RS		SE	23	70297		9315		260	Europe/Belgrade	2025-06-03
+792563	Opština Blace	Opstina Blace	Opstina Blace,Opština Blace	43.29889	21.28333	A	ADM3	RS		SE	21	70262		9682		419	Europe/Belgrade	2025-06-03
+792783	Opština Bela Palanka	Opstina Bela Palanka	Opstina Bela Palanka,Opština Bela Palanka	43.22088	22.31752	A	ADM3	RS		SE	22	70084		9947		289	Europe/Belgrade	2025-06-03
+792793	Opština Bela Crkva	Opstina Bela Crkva	Opstina Bela Crkva,Opština Bela Crkva	44.89972	21.42034	A	ADM3	RS		VO	4	80098		14451		86	Europe/Belgrade	2025-06-05
+792829	Opština Batočina	Opstina Batocina	Opstina Batocina,Opština Batočina	44.15259	21.0795	A	ADM3	RS		SE	12	70076		10162		111	Europe/Belgrade	2025-06-03
+792891	Opština Beograd-Barajevo	Opstina Beograd-Barajevo	Opstina Barajevo,Opština Barajevo	44.57714	20.41157	A	ADM3	RS		SE	0	70092		26431		149	Europe/Belgrade	2025-06-04
+793033	Opština Babušnica	Opstina Babusnica	Opstina Babusnica,Opština Babušnica	43.06569	22.41271	A	ADM3	RS		SE	22	70050		4254		488	Europe/Belgrade	2025-06-04
+793092	Opština Arilje	Opstina Arilje	Opstina Arilje,Opština Arilje	43.75101	20.09777	A	ADM3	RS		SE	16	70041		17063		342	Europe/Belgrade	2025-06-04
+793110	Opština Aranđelovac	Opstina Arangelovac	Arandjelovac,Opstina Arandelovac,Opština Aranđelovac	44.30975	20.56117	A	ADM3	RS		SE	12	70033		41297		272	Europe/Belgrade	2025-06-04
+793133	Opština Alibunar	Opstina Alibunar	Opstina Alibunar,Opština Alibunar	45.07917	20.9675	A	ADM3	RS		VO	4	80039		17139		83	Europe/Belgrade	2025-06-05
+793137	Opština Aleksinac	Opstina Aleksinac	Opstina Aleksinac,Opština Aleksinac	43.5431	21.70285	A	ADM3	RS		SE	20	70025		43258		213	Europe/Belgrade	2025-06-04
+793140	Opština Aleksandrovac	Opstina Aleksandrovac	Opstina Aleksandrovac,Opština Aleksandrovac	43.45878	21.04852	A	ADM3	RS		SE	19	70017		22069		358	Europe/Belgrade	2025-06-04
+793170	Opština Ada	Opstina Ada	Opstina Ada,Opština Ada	45.8025	20.13361	A	ADM3	RS		VO	3	80012		13293		80	Europe/Belgrade	2025-06-05
+865080	Opština Beograd-Rakovica	Opstina Beograd-Rakovica		44.73861	20.44376	A	ADM3	RS		SE	0	70211		104456		142	Europe/Belgrade	2025-06-03
+865081	Opština Sjenica	Opstina Sjenica		43.27333	20.00387	A	ADM3	RS		SE	16	71072		24083		1004	Europe/Belgrade	2025-06-03
+865082	Opština Lapovo	Opstina Lapovo		44.18577	21.10147	A	ADM3	RS		SE	12	71277		6582		105	Europe/Belgrade	2025-06-03
+3187295	Opština Vrbas	Opstina Vrbas	Opstina Vrbas,Opština Vrbas	45.56671	19.65111	A	ADM3	RS		VO	6	80462		36601		80	Europe/Belgrade	2025-06-05
+3188401	Opština Valjevo	Opstina Valjevo	Opstina Valjevo,Opstina Valjevo-grad,Opština Valjevo,Opština Valjevo-grad	44.27262	19.89281	A	ADM3	RS		SE	9	70360		82169		185	Europe/Belgrade	2025-06-03
+3189165	Opština Temerin	Opstina Temerin	Opstina Temerin,Opština Temerin	45.41056	19.90167	A	ADM3	RS		VO	6	80446		25780		79	Europe/Belgrade	2025-06-05
+3189594	Opština Subotica	Opstina Subotica	Opstina Subotica,Opština Subotica	46.09871	19.66287	A	ADM3	RS		VO	1	80438		0		110	Europe/Belgrade	2016-04-29
+3190168	Opština Srbobran	Opstina Srbobran	Opstina Srbobran,Opština Srbobran	45.55174	19.80226	A	ADM3	RS		VO	6	80390		14357		81	Europe/Belgrade	2025-06-05
+3190341	Opština Sombor	Opstina Sombor	Opstina Sombor,Opstina Sombor-grad,Opština Sombor,Opština Sombor-grad	45.77632	19.11982	A	ADM3	RS		VO	5	80381		0		83	Europe/Belgrade	2016-04-29
+3191428	Opština Ruma	Opstina Ruma	Opstina Ruma,Opština Ruma	45.00845	19.81745	A	ADM3	RS		VO	7	80357		0		110	Europe/Belgrade	2016-04-28
+3194208	Opština Odžaci	Opstina Odzaci	Opstina Odzaci,Opština Odžaci	45.50623	19.25895	A	ADM3	RS		VO	5	80306		24926		86	Europe/Belgrade	2025-06-05
+3194359	Opština Novi Sad	Opstina Novi Sad	Grad Novi Sad	45.25	19.83333	A	ADM3	RS		VO	6	80284		0		82	Europe/Belgrade	2016-04-29
+3195706	Opština Mali Iđoš	Opstina Mali Igos	Mali Idjos,Mali Idjoš,Opstina Mali Idos,Opština Mali Iđoš	45.70672	19.66664	A	ADM3	RS		VO	1	80241		9983		88	Europe/Belgrade	2025-06-05
+3196972	Opština Kula	Opstina Kula	Opstina Kula,Opština Kula	45.60861	19.52556	A	ADM3	RS		VO	5	80233		35592		79	Europe/Belgrade	2025-06-05
+3197945	Opština Koceljeva	Opstina Koceljeva	Opstina Koceljeva,Opstina Koceljevo,Opština Koceljeva,Opština Koceljevo	44.46827	19.81925	A	ADM3	RS		SE	8	70637		11148		128	Europe/Belgrade	2025-06-03
+3199102	Opština Irig	Opstina Irig	Opstina Irig,Opština Irig	45.10194	19.85583	A	ADM3	RS		VO	7	80187		0		192	Europe/Belgrade	2016-04-28
+3204287	Opština Beočin	Opstina Beocin	Opstina Beocin,Opština Beočin	45.21004	19.71969	A	ADM3	RS		VO	6	80101		13875		84	Europe/Belgrade	2025-06-05
+3204390	Opština Bečej	Opstina Becej	Opstina Becej,Opština Bečej	45.61602	20.03589	A	ADM3	RS		VO	6	80110		0		77	Europe/Belgrade	2012-04-13
+3204664	Opština Bački Petrovac	Opstina Backi Petrovac	Opstina Backi Petrovac,Opština Bački Petrovac	45.35999	19.59442	A	ADM3	RS		VO	6	80080		11512		81	Europe/Belgrade	2025-06-05
+3204671	Opština Bačka Topola	Opstina Backa Topola	Opstina Backa Topola,Opština Bačka Topola	45.81684	19.64107	A	ADM3	RS		VO	1	80071		26228		102	Europe/Belgrade	2025-06-05
+3204673	Opština Bačka Palanka	Opstina Backa Palanka	Opstina Backa Palanka,Opština Bačka Palanka	45.24975	19.39344	A	ADM3	RS		VO	6	80063		48265		82	Europe/Belgrade	2025-06-05
+3204690	Opština Bač	Opstina Bac	Opstina Bac,Opština Bač	45.39074	19.23328	A	ADM3	RS		VO	6	80055		11431		82	Europe/Belgrade	2025-06-05
+3204792	Opština Apatin	Opstina Apatin	Opstina Apatin,Opština Apatin	45.6699	18.98266	A	ADM3	RS		VO	5	80047		23155		84	Europe/Belgrade	2025-06-05
+3343728	Opština Šid	Opstina Sid		45.12762	19.2253	A	ADM3	RS		VO	7	80497		27894		102	Europe/Belgrade	2025-06-05
+3343729	Opština Sremska Mitrovica	Opstina Sremska Mitrovica	Sremska Mitrovica-grad	44.977	19.61506	A	ADM3	RS		VO	7	80403		0		80	Europe/Belgrade	2016-04-29
+3343730	Opština Sremski Karlovci	Opstina Sremski Karlovci		45.20192	19.93351	A	ADM3	RS		VO	6	80411		7872		87	Europe/Belgrade	2025-06-05
+3343732	Opština Šabac-grad	Opstina Sabac-grad	Opstina Sabac,Opština Šabac	44.75161	19.69145	A	ADM3	RS		SE	8	71269		105432		77	Europe/Belgrade	2025-06-05
+3343734	Opština Vladimirci	Opstina Vladimirci		44.61467	19.78445	A	ADM3	RS		SE	8	70408		14427		112	Europe/Belgrade	2025-06-05
+3343735	Opština Bogatić	Opstina Bogatic		44.8395	19.48408	A	ADM3	RS		SE	8	70289		24522		82	Europe/Belgrade	2025-06-05
+3343738	Opština Loznica	Opstina Loznica	Opstina Loznica-grad,Opština Loznica-grad	44.53096	19.22582	A	ADM3	RS		SE	8	70734		72062		128	Europe/Belgrade	2025-06-05
+3343739	Opština Mali Zvornik	Opstina Mali Zvornik		44.3727	19.10505	A	ADM3	RS		SE	8	70793		11219		145	Europe/Belgrade	2025-06-04
+3343741	Opština Krupanj	Opstina Krupanj		44.36657	19.36392	A	ADM3	RS		SE	8	70661		14399		279	Europe/Belgrade	2025-06-04
+3343742	Opština Osečina	Opstina Osecina		44.37369	19.59549	A	ADM3	RS		SE	9	70882		9951		198	Europe/Belgrade	2025-06-04
+3343743	Opština Ljubovija	Opstina Ljubovija	Opstina LJubovija,Opština LJubovija	44.18922	19.37581	A	ADM3	RS		SE	8	70777		0		178	Europe/Belgrade	2016-04-28
+3343745	Opština Kosjerić	Opstina Kosjeric		43.99751	19.90693	A	ADM3	RS		SE	16	70629		3723		417	Europe/Belgrade	2025-06-04
+3343746	Opština Bajina Bašta	Opstina Bajina Basta		43.97318	19.56013	A	ADM3	RS		SE	16	70068		23533		240	Europe/Belgrade	2025-06-04
+3343747	Opština Užice-grad	Opstina Uzice-grad		43.86052	19.84079	A	ADM3	RS		SE	16	71145		69997		449	Europe/Belgrade	2025-06-04
+3343748	Opština Čajetina	Opstina Cajetina		43.74853	19.71428	A	ADM3	RS		SE	16	71234		14585		846	Europe/Belgrade	2025-06-05
+3343749	Opština Priboj	Opstina Priboj		43.58163	19.52734	A	ADM3	RS		SE	16	70971		23514		394	Europe/Belgrade	2025-06-05
+3343750	Opština Nova Varoš	Opstina Nova Varos		43.46052	19.81848	A	ADM3	RS		SE	16	70866		13507		999	Europe/Belgrade	2025-06-05
+3343751	Opština Prijepolje	Opstina Prijepolje		43.385	19.64667	A	ADM3	RS		SE	16	70980		0		523	Europe/Belgrade	2012-04-15
+8260038	Opština Petrovaradin	Opstina Petrovaradin		45.25332	19.87367	A	ADM3	RS		VO	6	80519		0		76	Europe/Belgrade	2015-03-26
+8260098	Opština Beograd-Surčin	Opstina Beograd-Surcin	Opstina Surcin,Opština Surčin	44.7942	20.28299	A	ADM3	RS		SE	0	71293		0		86	Europe/Belgrade	2012-04-14
+8260099	Opština Niš-Medijana	Opstina Nis-Medijana		43.31356	21.90777	A	ADM3	RS		SE	20	71331		85969		196	Europe/Belgrade	2025-06-05
+8260100	Opština Niš-Pantelej	Opstina Nis-Pantelej		43.33367	21.92356	A	ADM3	RS		SE	20	71307		53486		219	Europe/Belgrade	2025-06-05
+8260101	Opština Niš-Palilula	Opstina Nis-Palilula		43.30163	21.90236	A	ADM3	RS		SE	20	71323		73801		298	Europe/Belgrade	2025-06-05
+8260102	Opština Niš-Crveni Krst	Opstina Nis-Crveni Krst		43.34565	21.84031	A	ADM3	RS		SE	20	71315		32301		199	Europe/Belgrade	2025-06-05
+8260148	Opština Kostolac	Opstina Kostolac		44.71454	21.16928	A	ADM3	RS		SE	11	71340		0		78	Europe/Belgrade	2012-04-18
+8260214	Opština Vranjska Banja	Opstina Vranjska Banja		42.5508	21.9954	A	ADM3	RS		SE	24	71358		0		410	Europe/Belgrade	2012-04-18

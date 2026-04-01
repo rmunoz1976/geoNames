@@ -1,0 +1,13 @@
+﻿1220214	Vakhshskiy Rayon	Vakhshskiy Rayon		37.66667	68.83333	A	ADM3	TJ		00		1220214		0		433	Asia/Dushanbe	1994-03-11
+1220260	Ura-Tyubinskiy Rayon	Ura-Tyubinskiy Rayon		39.95	68.95	A	ADM3	TJ		00		1220260		0		891	Asia/Dushanbe	2011-03-07
+1220496	Shugnanskiy Rayon	Shugnanskiy Rayon		37.66667	72	A	ADM3	TJ		00		1220496		0		4504	Asia/Dushanbe	1994-03-11
+1220575	Shaartuzskiy Rayon	Shaartuzskiy Rayon	Mikoyanabadskiy Rayon,Shaartuzskiy Rayon	37.33333	68	A	ADM3	TJ		00		1220575		0		386	Asia/Dushanbe	2012-01-17
+1220748	Pyandzhskiy Rayon	Pyandzhskiy Rayon	Molotovabadskiy Rayon,Pyandzhskiy Rayon	37.33333	68.75	A	ADM3	TJ		00		1220748		0		391	Asia/Dushanbe	2012-01-17
+1220825	Parkharskiy Rayon	Parkharskiy Rayon		37.5	69.33333	A	ADM3	TJ		00		1220825		0		438	Asia/Dushanbe	1994-03-11
+1220963	Murgabskiy Rayon	Murgabskiy Rayon		38	73.5	A	ADM3	TJ		00		1220963		0		4622	Asia/Dushanbe	1994-03-11
+1220987	Moskovskiy Rayon	Moskovskiy Rayon	Chubekskiy Rayon,Moskovskiy Rayon	37.66667	69.75	A	ADM3	TJ		00		1220987		0		982	Asia/Dushanbe	2012-01-17
+1221612	Ishkashimskiy Rayon	Ishkashimskiy Rayon		36.83333	71.75	A	ADM3	TJ		00		1221612		0		5149	Asia/Dushanbe	1994-03-11
+1221763	Frunzenskiy Rayon	Frunzenskiy Rayon		38.55	68.8	A	ADM3	TJ		00		1221763		0		802	Asia/Dushanbe	1994-03-11
+1221806	Dzhilikul’skiy Rayon	Dzhilikul'skiy Rayon		37.48333	68.53333	A	ADM3	TJ		00		1221806		0		352	Asia/Dushanbe	1994-03-11
+1514838	Proletarskiy Rayon	Proletarskiy Rayon		40.16667	69.5	A	ADM3	TJ		00		1514838		0		383	Asia/Dushanbe	1994-03-11
+1514853	Naushkiy Rayon	Naushkiy Rayon		40.08333	69.33333	A	ADM3	TJ		00		1514853		0		622	Asia/Dushanbe	1994-03-11

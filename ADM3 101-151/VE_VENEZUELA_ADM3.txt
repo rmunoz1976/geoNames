@@ -1,0 +1,91 @@
+﻿8131544	Parroquia 23 de Enero	Parroquia 23 de Enero	23 de Enero Parish	10.50807	-66.92974	A	ADM3	VE		25	0101	010122		0		968	America/Caracas	2023-06-15
+8131546	Parroquia Altagracia	Parroquia Altagracia	Altagracia Parish	10.51461	-66.91275	A	ADM3	VE		25	0101	010101		0		954	America/Caracas	2023-06-14
+8131547	Parroquia Antímano	Parroquia Antimano	Antimano Parish,Antímano Parish	10.47165	-66.96785	A	ADM3	VE		25	0101	010102		0		913	America/Caracas	2023-06-14
+8131548	Parroquia Catedral	Parroquia Catedral	Catedral Parish	10.50642	-66.91403	A	ADM3	VE		25	0101	010105		0		930	America/Caracas	2023-06-14
+8131549	Parroquia Caricuao	Parroquia Caricuao		10.43409	-66.97759	A	ADM3	VE		25	0101	010104		0		980	America/Caracas	2012-01-12
+8131550	Parroquia Coche	Parroquia Coche	Coche Parish	10.44992	-66.92631	A	ADM3	VE		25	0101	010106		0		916	America/Caracas	2023-06-14
+8131551	Parroquia El Junquito	Parroquia El Junquito	El Junquito Parish	10.46118	-67.08076	A	ADM3	VE		25	0101	010107		0		1910	America/Caracas	2023-06-15
+8131552	Parroquia El Paraíso	Parroquia El Paraiso	El Paraiso Parish,El Paraíso Parish	10.49152	-66.92374	A	ADM3	VE		25	0101	010108		0		889	America/Caracas	2023-06-15
+8131553	Parroquia El Recreo	Parroquia El Recreo	El Recreo Parish	10.50503	-66.88773	A	ADM3	VE		25	0101	010109		0		923	America/Caracas	2023-06-14
+8131554	Parroquia El Valle	Parroquia El Valle	El Valle Parish	10.46021	-66.91714	A	ADM3	VE		25	0101	010110		0		919	America/Caracas	2023-06-15
+8131555	Parroquia Candelaria	Parroquia Candelaria		10.50596	-66.90494	A	ADM3	VE		25	0101	010103		0		904	America/Caracas	2012-01-24
+8131556	Parroquia La Pastora	Parroquia La Pastora	La Pastora Parish	10.5122	-66.91987	A	ADM3	VE		25	0101	010111		0		975	America/Caracas	2023-06-15
+8131557	Parroquia La Vega	Parroquia La Vega	La Vega Parish	10.47878	-66.94854	A	ADM3	VE		25	0101	010112		0		903	America/Caracas	2023-06-15
+8131558	Parroquia Macarao	Parroquia Macarao		10.42569	-67.03162	A	ADM3	VE		25	0101	010113		0		1003	America/Caracas	2012-01-12
+8131559	Parroquia San Agustín	Parroquia San Agustin	San Agustin Parish,San Agustín Parish	10.4941	-66.91026	A	ADM3	VE		25	0101	010114		0		879	America/Caracas	2023-06-15
+8131560	Parroquia San Bernardino	Parroquia San Bernardino		10.51507	-66.89635	A	ADM3	VE		25	0101	010115		0		950	America/Caracas	2023-06-15
+8131561	Parroquia San José	Parroquia San Jose	San Jose Parish,San José Parish	10.515	-66.909	A	ADM3	VE		25	0101	010116		0		971	America/Caracas	2024-03-01
+8131562	Parroquia San Juan	Parroquia San Juan	San Juan Parish	10.50144	-66.92382	A	ADM3	VE		25	0101	010117		0		906	America/Caracas	2023-06-15
+8131563	Parroquia San Pedro	Parroquia San Pedro	San Pedro Parish	10.48899	-66.88897	A	ADM3	VE		25	0101	010118		0		874	America/Caracas	2023-06-15
+8131564	Parroquia Santa Rosalía	Parroquia Santa Rosalia	Santa Rosalia Parish,Santa Rosalía Parish	10.48355	-66.91442	A	ADM3	VE		25	0101	010119		0		894	America/Caracas	2023-06-15
+8131565	Parroquia Santa Teresa	Parroquia Santa Teresa	Santa Teresa Parish	10.50161	-66.91914	A	ADM3	VE		25	0101	010120		0		903	America/Caracas	2023-06-15
+8131566	Parroquia Sucre	Parroquia Sucre	Sucre Parish	10.5138	-66.94974	A	ADM3	VE		25	0101	010121		0		967	America/Caracas	2023-06-14
+8181719	Parroquia Sabaneta	Parroquia Sabaneta		8.75081	-69.93167	A	ADM3	VE		05	0601	060101		0		145	America/Caracas	2018-02-22
+8181720	Parroquia Rodríguez Domínguez	Parroquia Rodriguez Dominguez		8.82312	-69.99681	A	ADM3	VE		05	0601	060102		0		162	America/Caracas	2012-01-30
+8181721	Parroquia Ticoporo	Parroquia Ticoporo		8.22746	-70.81873	A	ADM3	VE		05	0602	060201		0		236	America/Caracas	2012-01-30
+8181722	Parroquia Andrés Bello	Parroquia Andres Bello		8.27562	-70.76818	A	ADM3	VE		05	0602	060202		18742		209	America/Caracas	2012-01-31
+8181723	Parroquia Nicolás Pulido	Parroquia Nicolas Pulido		8.10044	-70.90576	A	ADM3	VE		05	0602	060203		0		213	America/Caracas	2012-01-30
+8181724	Parroquia Arismendi	Parroquia Arismendi		8.47798	-68.37273	A	ADM3	VE		05	0603	060301		0		67	America/Caracas	2012-01-30
+8181725	Parroquia Guadarrama	Parroquia Guadarrama		8.53807	-68.05189	A	ADM3	VE		05	0603	060302		0		64	America/Caracas	2012-01-30
+8181726	Parroquia La Unión	Parroquia La Union		8.21446	-67.77028	A	ADM3	VE		05	0603	060303		0		55	America/Caracas	2012-01-30
+8181727	Parroquia San Antonio	Parroquia San Antonio		7.96115	-68.4359	A	ADM3	VE		05	0603	060304		0		67	America/Caracas	2012-01-30
+8181728	Parroquia Barinas	Parroquia Barinas		8.60232	-70.20135	A	ADM3	VE		05	0604	060401		100081		178	America/Caracas	2012-01-30
+8181729	Parroquia Alfredo Arvelo Larriva	Parroquia Alfredo Arvelo Larriva		8.6988	-70.32005	A	ADM3	VE		05	0604	060402		0		308	America/Caracas	2012-01-31
+8181730	Parroquia San Silvestre	Parroquia San Silvestre		8.27537	-70.1114	A	ADM3	VE		05	0604	060403		0		132	America/Caracas	2012-01-30
+8181731	Parroquia Santa Inés	Parroquia Santa Ines		8.26186	-69.89897	A	ADM3	VE		05	0604	060404		0		116	America/Caracas	2012-01-31
+8181732	Parroquia Santa Lucía	Parroquia Santa Lucia		8.10053	-69.7788	A	ADM3	VE		05	0604	060405		0		105	America/Caracas	2012-01-31
+8181733	Parroquia Torunos	Parroquia Torunos		8.49928	-70.08162	A	ADM3	VE		05	0604	060406		0		142	America/Caracas	2012-01-31
+8181734	Parroquia Manuel Palacio Fajardo	Parroquia Manuel Palacio Fajardo		8.59511	-70.32108	A	ADM3	VE		05	0604	060412		0		226	America/Caracas	2012-01-31
+8181735	Parroquia Juan Antonio Rodríguez Domínguez	Parroquia Juan Antonio Rodriguez Dominguez		8.56736	-70.36039	A	ADM3	VE		05	0604	060413		0		219	America/Caracas	2012-01-31
+8181736	Parroquia Dominga Ortiz de Páez	Parroquia Dominga Ortiz de Paez		8.56821	-70.37481	A	ADM3	VE		05	0604	060414		0		215	America/Caracas	2012-01-31
+8181737	Parroquia El Carmen	Parroquia El Carmen		8.62218	-70.228	A	ADM3	VE		05	0604	060407		0		196	America/Caracas	2012-01-31
+8181738	Parroquia Rómulo Betancourt	Parroquia Romulo Betancourt		8.63877	-70.21813	A	ADM3	VE		05	0604	060408		0		194	America/Caracas	2012-01-31
+8181739	Parroquia Corazón de Jesús	Parroquia Corazon de Jesus		8.62218	-70.20195	A	ADM3	VE		05	0604	060409		0		184	America/Caracas	2012-01-31
+8181740	Parroquia Ramón Ignacio Méndez	Parroquia Ramon Ignacio Mendez		8.60054	-70.19208	A	ADM3	VE		05	0604	060410		0		174	America/Caracas	2012-01-31
+8181741	Parroquia Alto Barinas	Parroquia Alto Barinas		8.59536	-70.22753	A	ADM3	VE		05	0604	060411		0		193	America/Caracas	2012-01-31
+8181742	Parroquia Barinitas	Parroquia Barinitas		8.75734	-70.41172	A	ADM3	VE		05	0605	060501		0		536	America/Caracas	2012-01-31
+8181743	Parroquia Altamira	Parroquia Altamira		8.82409	-70.5021	A	ADM3	VE		05	0605	060502		0		826	America/Caracas	2012-01-31
+8181744	Parroquia Calderas	Parroquia Calderas		8.91344	-70.44708	A	ADM3	VE		05	0605	060503		0		916	America/Caracas	2012-01-31
+8181745	Parroquia Barrancas	Parroquia Barrancas		8.76693	-70.11303	A	ADM3	VE		05	0606	060601		0		201	America/Caracas	2012-01-31
+8181746	Parroquia El Socorro	Parroquia El Socorro		8.73206	-70.18204	A	ADM3	VE		05	0606	060602		0		221	America/Caracas	2012-01-31
+8181747	Parroquia Masparrito	Parroquia Masparrito		9.0042	-70.29971	A	ADM3	VE		05	0606	060603		0		1062	America/Caracas	2012-01-31
+8181748	Parroquia Santa Bárbara	Parroquia Santa Barbara		7.81338	-71.18334	A	ADM3	VE		05	0607	060701		0		186	America/Caracas	2012-01-31
+8181749	Parroquia José Ignacio del Pumar	Parroquia Jose Ignacio del Pumar		7.91635	-71.0606	A	ADM3	VE		05	0607	060702		0		205	America/Caracas	2012-01-31
+8181750	Parroquia Pedro Briceño Méndez	Parroquia Pedro Briceno Mendez		8.01274	-71.00318	A	ADM3	VE		05	0607	060703		0		265	America/Caracas	2012-01-31
+8181751	Parroquia Ramón Ignacio Méndez	Parroquia Ramon Ignacio Mendez		7.61725	-71.49319	A	ADM3	VE		05	0607	060704		0		185	America/Caracas	2012-01-31
+8181752	Parroquia Obispos	Parroquia Obispos		8.60495	-70.10419	A	ADM3	VE		05	0608	060801		0		159	America/Caracas	2012-01-31
+8181753	Parroquia El Real	Parroquia El Real		8.43629	-69.9969	A	ADM3	VE		05	0608	060802		0		130	America/Caracas	2012-01-31
+8181754	Parroquia La Luz	Parroquia La Luz		8.39443	-69.8255	A	ADM3	VE		05	0608	060803		0		120	America/Caracas	2012-01-31
+8181755	Parroquia Los Guasimitos	Parroquia Los Guasimitos		8.66385	-70.23079	A	ADM3	VE		05	0608	060804		0		203	America/Caracas	2012-01-31
+8181757	Parroquia Ciudad Bolivia	Parroquia Ciudad Bolivia		8.35138	-70.57119	A	ADM3	VE		05	0609	060901		0		174	America/Caracas	2012-01-31
+8181758	Parroquia Ignacio Briceño	Parroquia Ignacio Briceno		7.64447	-70.42048	A	ADM3	VE		05	0609	060902		0		114	America/Caracas	2012-01-31
+8181759	Parroquia Páez	Parroquia Paez	Parroquia Paez	8.02795	-70.01046	A	ADM3	VE		05	0609	060904		0		106	America/Caracas	2012-02-02
+8181760	Parroquia José Félix Ribas	Parroquia Jose Felix Ribas		8.45268	-70.55557	A	ADM3	VE		05	0609	060903		0		205	America/Caracas	2012-01-31
+8181761	Parroquia Libertad	Parroquia Libertad		8.32964	-69.63161	A	ADM3	VE		05	0610	061001		0		103	America/Caracas	2012-01-31
+8181762	Parroquia Dolores	Parroquia Dolores		8.28539	-69.56783	A	ADM3	VE		05	0610	061002		0		102	America/Caracas	2012-01-31
+8181763	Parroquia Palacios Fajardo	Parroquia Palacios Fajardo		8.57364	-69.79391	A	ADM3	VE		05	0610	061003		0		128	America/Caracas	2012-01-31
+8181764	Parroquia Santa Rosa	Parroquia Santa Rosa		8.44121	-69.70207	A	ADM3	VE		05	0610	061004		0		113	America/Caracas	2012-01-31
+8181765	Parroquia Ciudad de Nutrias	Parroquia Ciudad de Nutrias		8.0956	-69.30656	A	ADM3	VE		05	0611	061101		0		84	America/Caracas	2012-01-31
+8181766	Parroquia El Regalo	Parroquia El Regalo		8.43383	-69.17773	A	ADM3	VE		05	0611	061102		0		86	America/Caracas	2012-01-31
+8181767	Parroquia Puerto de Nutrias	Parroquia Puerto de Nutrias		8.0724	-69.30124	A	ADM3	VE		05	0611	061103		0		84	America/Caracas	2012-01-31
+8181768	Parroquia Santa Catalina	Parroquia Santa Catalina		7.92357	-68.91818	A	ADM3	VE		05	0611	061104		0		74	America/Caracas	2012-01-31
+8181769	Parroquia Simón Bolívar	Parroquia Simon Bolivar		8.23748	-69.41917	A	ADM3	VE		05	0611	061105		0		91	America/Caracas	2012-01-31
+8181770	Parroquia El Cantón	Parroquia El Canton		7.47779	-71.29427	A	ADM3	VE		05	0612	061201		0		153	America/Caracas	2012-01-31
+8181771	Parroquia Puerto Vivas	Parroquia Puerto Vivas		7.49975	-71.84501	A	ADM3	VE		05	0612	061203		0		207	America/Caracas	2012-01-31
+8181772	Parroquia Santa Cruz de Guacas	Parroquia Santa Cruz de Guacas		7.44375	-71.30256	A	ADM3	VE		05	0612	061202		0		155	America/Caracas	2012-01-31
+8181784	Parroquia Simón Rodríguez	Parroquia Simon Rodriguez		8.70695	-69.65469	A	ADM3	VE		05	0610	061005		0		124	America/Caracas	2012-01-31
+8379194	Parroquia Raúl Cuenca	Parroquia Raul Cuenca		10.12098	-71.04635	A	ADM3	VE		23	2321	232103		0		70	America/Caracas	2012-08-30
+8379195	Parroquia Rafael Urdaneta	Parroquia Rafael Urdaneta		10.32015	-71.27303	A	ADM3	VE		23	2319	231903		0		48	America/Caracas	2012-08-30
+8379196	Parroquia La Victoria	Parroquia La Victoria		9.987	-71.118	A	ADM3	VE		23	2321	232101		0		28	America/Caracas	2024-02-05
+11915176	Miguel Peña	Miguel Pena	Miguel Pena,Miguel Peña,Municipio Miguel Pena,Municipio Miguel Peña	9.9348	-67.94101	A	ADM3	VE		07	0814	081404		0		579	America/Caracas	2018-08-12
+11915237	Caraballeda	Caraballeda	Caraballeda,Parroquia Caraballeda	10.58227	-66.83155	A	ADM3	VE		26	2401	240101		0		1038	America/Caracas	2018-08-12
+11915238	Carayaca	Carayaca	Carayaca,Parroquia Carayaca	10.49426	-67.20868	A	ADM3	VE		26	2401	240102		0		1351	America/Caracas	2018-08-12
+11915239	Caruao	Caruao	Caruao,Parroquia Caruao	10.58364	-66.42653	A	ADM3	VE		26	2401	240103		0		900	America/Caracas	2018-08-12
+11915240	Catia La Mar	Catia La Mar	Catia La Mar,Parroquia Catia La Mar	10.57733	-67.04885	A	ADM3	VE		26	2401	240104		0		42	America/Caracas	2018-08-12
+11915241	El Junko	El Junko	El Junko,Parroquia El Junko	10.48065	-67.07945	A	ADM3	VE		26	2401	240105		0		1456	America/Caracas	2018-08-12
+11915242	La Guaira	La Guaira	La Guaira,Parroquia La Guaira	10.58219	-66.92448	A	ADM3	VE		26	2401	240106		0		715	America/Caracas	2018-08-12
+11915281	Macuto	Macuto	Macuto,Parroquia Macuto	10.57927	-66.88756	A	ADM3	VE		26	2401	240107		0		1108	America/Caracas	2018-08-12
+11915282	Maiquetía	Maiquetia	Maiquetia,Maiquetía,Parroquia Maiquetia,Parroquia Maiquetía	10.5715	-66.94877	A	ADM3	VE		26	2401	240108		0		499	America/Caracas	2018-08-12
+11915283	Naiguatá	Naiguata	Naiguata,Naiguatá,Parroquia Naiguata,Parroquia Naiguatá	10.58753	-66.66749	A	ADM3	VE		26	2401	240109		0		550	America/Caracas	2018-08-12
+11915284	Urimare	Urimare	Parroquia Urimare,Urimare	10.59142	-66.99735	A	ADM3	VE		26	2401	240110		0		141	America/Caracas	2018-08-12
+11915285	Carlos Soublette	Carlos Soublette	Carlos Soublette,Parroquia Carlos Soublette	10.57976	-66.97306	A	ADM3	VE		26	2401	240111		0		453	America/Caracas	2018-08-12

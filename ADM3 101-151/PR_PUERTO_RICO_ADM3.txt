@@ -1,0 +1,144 @@
+﻿7268059	Central Aguirre Subbarrio	Central Aguirre Subbarrio		17.95751	-66.22628	A	ADM3	PR		123		7268059		0	22	24	America/Puerto_Rico	2012-07-04
+7268071	Chícharo Subbarrio	Chicharo Subbarrio	Chicharo Subbarrio	18.44611	-66.05939	A	ADM3	PR		127		7268071		0	14	17	America/Puerto_Rico	2016-08-01
+7268088	Ciudad Nueva Subbarrio	Ciudad Nueva Subbarrio		18.42275	-66.05269	A	ADM3	PR		127		7268088		0	7	6	America/Puerto_Rico	2016-08-01
+7268089	Clausells Subbarrio	Clausells Subbarrio		18.01533	-66.63969	A	ADM3	PR		113		7268089		0	20	25	America/Puerto_Rico	2012-07-04
+7268101	Condadito Subbarrio	Condadito Subbarrio		18.45078	-66.06989	A	ADM3	PR		127		7268101		0	9	10	America/Puerto_Rico	2012-07-04
+7268102	Condado Subbarrio	Condado Subbarrio		18.45834	-66.07263	A	ADM3	PR		127		7268102		0	0	-9999	America/Puerto_Rico	2016-08-01
+7268106	Coquí Subbarrio	Coqui Subbarrio	Coqui Subbarrio	17.97512	-66.22872	A	ADM3	PR		123		7268106		0	10	10	America/Puerto_Rico	2012-07-04
+7268122	Cuartel Cuarto Subbarrio	Cuartel Cuarto Subbarrio		18.28408	-67.14135	A	ADM3	PR		011		7268122		0	7	12	America/Puerto_Rico	2012-07-04
+7268123	Cuartel Primero Subbarrio	Cuartel Primero Subbarrio		18.28137	-67.14093	A	ADM3	PR		011		7268123		0	7	14	America/Puerto_Rico	2012-07-04
+7268124	Cuartel Segundo Subbarrio	Cuartel Segundo Subbarrio		18.28232	-67.13983	A	ADM3	PR		011		7268124		0	9	14	America/Puerto_Rico	2012-07-04
+7268125	Cuartel Tercero Subbarrio	Cuartel Tercero Subbarrio		18.28268	-67.14255	A	ADM3	PR		011		7268125		0	8	12	America/Puerto_Rico	2012-07-04
+7268127	Cuatro Calles Subbarrio	Cuatro Calles Subbarrio		17.97084	-66.06038	A	ADM3	PR		015		7268127		0	10	12	America/Puerto_Rico	2012-07-04
+7268175	Aguirre Subbarrio	Aguirre Subbarrio		17.95237	-66.26044	A	ADM3	PR		123		7268175		0	0	3	America/Puerto_Rico	2012-07-04
+7268189	Alto del Cabro Subbarrio	Alto del Cabro Subbarrio		18.45386	-66.07604	A	ADM3	PR		127		7268189		0	9	9	America/Puerto_Rico	2012-07-04
+7268192	Amparo Subbarrio	Amparo Subbarrio		18.40684	-66.05083	A	ADM3	PR		127		7268192		0	26	29	America/Puerto_Rico	2016-08-01
+7268219	Auxilio Mutuo Subbarrio	Auxilio Mutuo Subbarrio		18.41048	-66.04891	A	ADM3	PR		127		7268219		0	20	20	America/Puerto_Rico	2016-08-01
+7268229	Baldorioty de Castro Subbarrio	Baldorioty de Castro Subbarrio		18.00635	-66.63666	A	ADM3	PR		113		7268229		0	13	16	America/Puerto_Rico	2012-07-04
+7268230	Ballajá Subbarrio	Ballaja Subbarrio	Ballaja Subbarrio	18.47061	-66.12456	A	ADM3	PR		127		7268230		0	4	21	America/Puerto_Rico	2016-08-01
+7268249	Bayola Subbarrio	Bayola Subbarrio		18.45131	-66.0662	A	ADM3	PR		127		7268249		0	3	20	America/Puerto_Rico	2016-08-01
+7268254	Bella Vista Subbarrio	Bella Vista Subbarrio		18.40921	-66.05816	A	ADM3	PR		127		7268254		0	16	17	America/Puerto_Rico	2016-08-01
+7268259	Bolívar Subbarrio	Bolivar Subbarrio	Bolivar Subbarrio	18.44208	-66.066	A	ADM3	PR		127		7268259		0	10	12	America/Puerto_Rico	2016-08-01
+7268264	Borinquen Subbarrio	Borinquen Subbarrio		18.42727	-66.04548	A	ADM3	PR		127		7268264		0	0	4	America/Puerto_Rico	2016-08-01
+7268269	Buen Consejo Subbarrio	Buen Consejo Subbarrio		18.39539	-66.04568	A	ADM3	PR		127		7268269		0	43	42	America/Puerto_Rico	2016-08-01
+7268275	Buenos Aires Subbarrio	Buenos Aires Subbarrio		18.46596	-66.72074	A	ADM3	PR		013		7268275		0	3	5	America/Puerto_Rico	2012-07-04
+7268276	Buenos Aires Subbarrio	Buenos Aires Subbarrio		18.43726	-66.06515	A	ADM3	PR		127		7268276		0	0	8	America/Puerto_Rico	2012-07-04
+7268299	California Subbarrio	California Subbarrio		18.38081	-67.19042	A	ADM3	PR		003		7268299		0	16	21	America/Puerto_Rico	2012-07-04
+7268309	Campo Alegre Subbarrio	Campo Alegre Subbarrio		18.4512	-66.07272	A	ADM3	PR		127		7268309		0	9	11	America/Puerto_Rico	2012-07-04
+7268320	Candelaria Subbarrio	Candelaria Subbarrio		18.21014	-67.1471	A	ADM3	PR		097		7268320		0	15	17	America/Puerto_Rico	2012-07-04
+7268338	Capetillo Subbarrio	Capetillo Subbarrio		18.39999	-66.04465	A	ADM3	PR		127		7268338		0	23	27	America/Puerto_Rico	2016-08-01
+7268342	Cárcel Subbarrio	Carcel Subbarrio	Carcel Subbarrio	18.19326	-67.14368	A	ADM3	PR		097		7268342		0	2	4	America/Puerto_Rico	2012-07-04
+7268357	Catedral Subbarrio	Catedral Subbarrio		18.46456	-66.11916	A	ADM3	PR		127		7268357		0	10	15	America/Puerto_Rico	2016-08-01
+7268368	El Vedado Subbarrio	El Vedado Subbarrio		18.4181	-66.06058	A	ADM3	PR		127		7268368		0	10	10	America/Puerto_Rico	2016-08-01
+7268369	Eleanor Roosevelt Subbarrio	Eleanor Roosevelt Subbarrio		18.416	-66.0688	A	ADM3	PR		127		7268369		0	7	7	America/Puerto_Rico	2016-08-01
+7268389	Figueroa Subbarrio	Figueroa Subbarrio		18.44829	-66.07509	A	ADM3	PR		127		7268389		0	0	7	America/Puerto_Rico	2016-08-01
+7268391	Floral Park Subbarrio	Floral Park Subbarrio		18.41832	-66.05227	A	ADM3	PR		127		7268391		0	7	9	America/Puerto_Rico	2016-08-01
+7268406	Gandul Subbarrio	Gandul Subbarrio		18.45039	-66.07888	A	ADM3	PR		127		7268406		0	7	11	America/Puerto_Rico	2016-08-01
+7268471	Herrera Subbarrio	Herrera Subbarrio		18.44219	-66.05081	A	ADM3	PR		127		7268471		0	7	9	America/Puerto_Rico	2016-08-01
+7268473	Higüey Subbarrio	Higueey Subbarrio	Higuey Subbarrio	18.42084	-67.15406	A	ADM3	PR		005		7268473		0	6	14	America/Puerto_Rico	2012-07-04
+7268475	Hipódromo Subbarrio	Hipodromo Subbarrio	Hipodromo Subbarrio	18.44491	-66.07079	A	ADM3	PR		127		7268475		0	7	9	America/Puerto_Rico	2016-08-01
+7268476	Hoare Subbarrio	Hoare Subbarrio		18.4452	-66.08417	A	ADM3	PR		127		7268476		0	0	7	America/Puerto_Rico	2016-08-01
+7268488	Hyde Park Subbarrio	Hyde Park Subbarrio		18.40383	-66.06101	A	ADM3	PR		127		7268488		0	7	10	America/Puerto_Rico	2016-08-01
+7268489	Iglesia Subbarrio	Iglesia Subbarrio		18.42943	-67.15389	A	ADM3	PR		005		7268489		0	5	12	America/Puerto_Rico	2012-07-04
+7268494	Institución Subbarrio	Institucion Subbarrio	Institucion Subbarrio	18.40547	-66.0453	A	ADM3	PR		127		7268494		0	16	21	America/Puerto_Rico	2016-08-01
+7268498	Isla Grande Subbarrio	Isla Grande Subbarrio	Convention Center District	18.45184	-66.10013	A	ADM3	PR		127		7268498		0	3	0	America/Puerto_Rico	2016-08-01
+7268518	Jareales Subbarrio	Jareales Subbarrio		18.47505	-66.70466	A	ADM3	PR		013		7268518		0	0	-9999	America/Puerto_Rico	2012-07-04
+7268536	La 37 Subbarrio	La 37 Subbarrio		18.40837	-66.05461	A	ADM3	PR		127		7268536		0	20	19	America/Puerto_Rico	2016-08-01
+7268537	La Cruz Subbarrio	La Cruz Subbarrio		18.47517	-66.71295	A	ADM3	PR		013		7268537		0	0	-9999	America/Puerto_Rico	2012-07-04
+7268540	La Zona Subbarrio	La Zona Subbarrio		18.44189	-66.07773	A	ADM3	PR		127		7268540		0	3	-2	America/Puerto_Rico	2016-08-01
+7268549	Las Casas Subbarrio	Las Casas Subbarrio		18.43162	-66.03823	A	ADM3	PR		127		7268549		0	3	2	America/Puerto_Rico	2016-08-01
+7268551	Las Marías Subbarrio	Las Marias Subbarrio	Las Marias Subbarrio	18.45595	-66.03895	A	ADM3	PR		127		7268551		0	0	-9999	America/Puerto_Rico	2016-08-01
+7268552	Las Monjas Subbarrio	Las Monjas Subbarrio		18.42871	-66.05375	A	ADM3	PR		127		7268552		0	0	5	America/Puerto_Rico	2016-08-01
+7268554	Las Palmas Subbarrio	Las Palmas Subbarrio		18.43706	-66.04739	A	ADM3	PR		127		7268554		0	13	13	America/Puerto_Rico	2016-08-01
+7268572	Loíza Subbarrio	Loiza Subbarrio	Loiza Subbarrio	18.44821	-66.05289	A	ADM3	PR		127		7268572		0	0	1	America/Puerto_Rico	2012-07-04
+7268576	López Sicardó Subbarrio	Lopez Sicardo Subbarrio	Lopez Sicardo Subbarrio	18.40412	-66.03396	A	ADM3	PR		127		7268576		0	26	27	America/Puerto_Rico	2016-08-01
+7268585	Machuchal Subbarrio	Machuchal Subbarrio		18.44967	-66.05796	A	ADM3	PR		127		7268585		0	3	8	America/Puerto_Rico	2016-08-01
+7268617	María Moczó Subbarrio	Maria Moczo Subbarrio	Maria Moczo Subbarrio	18.44449	-66.05353	A	ADM3	PR		127		7268617		0	7	13	America/Puerto_Rico	2016-08-01
+7268627	Marina Meridional Subbarrio	Marina Meridional Subbarrio		18.20073	-67.15234	A	ADM3	PR		097		7268627		0	3	4	America/Puerto_Rico	2012-07-04
+7268628	Marina Septentrional Subbarrio	Marina Septentrional Subbarrio		18.21311	-67.15664	A	ADM3	PR		097		7268628		0	1	4	America/Puerto_Rico	2012-07-04
+7268629	Marina Subbarrio	Marina Subbarrio		18.46038	-66.11631	A	ADM3	PR		127		7268629		0	0	2	America/Puerto_Rico	2012-07-04
+7268630	Marruecos Subbarrio	Marruecos Subbarrio		18.43963	-66.07238	A	ADM3	PR		127		7268630		0	0	-1	America/Puerto_Rico	2016-08-01
+7268632	Martín Peña Subbarrio	Martin Pena Subbarrio	Martin Pena Subbarrio	18.43088	-66.06901	A	ADM3	PR		127		7268632		0	0	1	America/Puerto_Rico	2016-08-01
+7268649	Melilla Subbarrio	Melilla Subbarrio		18.44248	-66.06976	A	ADM3	PR		127		7268649		0	7	11	America/Puerto_Rico	2016-08-01
+7268651	Mercado Subbarrio	Mercado Subbarrio		18.4695	-66.11743	A	ADM3	PR		127		7268651		0	0	11	America/Puerto_Rico	2012-07-04
+7268652	Merhoff Subbarrio	Merhoff Subbarrio		18.43842	-66.03959	A	ADM3	PR		127		7268652		0	0	0	America/Puerto_Rico	2016-08-01
+7268655	Minillas Subbarrio	Minillas Subbarrio		18.44836	-66.06531	A	ADM3	PR		127		7268655		0	13	19	America/Puerto_Rico	2016-08-01
+7268661	Miramar Subbarrio	Miramar Subbarrio		18.47485	-66.73497	A	ADM3	PR		013		7268661		0	0	11	America/Puerto_Rico	2012-07-04
+7268662	Miramar Subbarrio	Miramar Subbarrio		18.45441	-66.08277	A	ADM3	PR		127		7268662		0	16	21	America/Puerto_Rico	2016-08-01
+7268667	Monserrate Subbarrio	Monserrate Subbarrio		18.47536	-66.71773	A	ADM3	PR		013		7268667		0	0	-9999	America/Puerto_Rico	2012-07-04
+7268675	Monte Rey Subbarrio	Monte Rey Subbarrio		18.38979	-66.04749	A	ADM3	PR		127		7268675		0	70	71	America/Puerto_Rico	2016-08-01
+7268676	Monteflores Subbarrio	Monteflores Subbarrio		18.43979	-66.05646	A	ADM3	PR		127		7268676		0	20	22	America/Puerto_Rico	2012-07-04
+7268702	Norzagaray Subbarrio	Norzagaray Subbarrio		18.33791	-66.99101	A	ADM3	PR		131		7268702		0	74	84	America/Puerto_Rico	2012-07-04
+7268705	Nuevo Subbarrio	Nuevo Subbarrio		18.42702	-67.15407	A	ADM3	PR		005		7268705		0	7	6	America/Puerto_Rico	2012-07-04
+7268706	Obrero Subbarrio	Obrero Subbarrio		18.4351	-66.0521	A	ADM3	PR		127		7268706		0	3	4	America/Puerto_Rico	2012-07-04
+7268707	Ocean Park Subbarrio	Ocean Park Subbarrio		18.4575	-66.04819	A	ADM3	PR		127		7268707		0	0	-9999	America/Puerto_Rico	2016-08-01
+7268733	Parque Subbarrio	Parque Subbarrio		18.45654	-66.05888	A	ADM3	PR		127		7268733		0	0	2	America/Puerto_Rico	2016-08-01
+7268775	Poblado Sitios Subbarrio	Poblado Sitios Subbarrio		18.02722	-66.79284	A	ADM3	PR		059		7268775		0	16	22	America/Puerto_Rico	2012-07-04
+7268783	Pozo del Hato Subbarrio	Pozo del Hato Subbarrio		18.44891	-66.06862	A	ADM3	PR		127		7268783		0	16	19	America/Puerto_Rico	2016-08-01
+7268791	Pueblo Central Subbarrio	Pueblo Central Subbarrio		18.08126	-67.04333	A	ADM3	PR		125		7268791		0	59	68	America/Puerto_Rico	2012-07-04
+7268792	Pueblo Este Subbarrio	Pueblo Este Subbarrio		17.96064	-66.06167	A	ADM3	PR		015		7268792		0	0	5	America/Puerto_Rico	2012-07-04
+7268793	Pueblo Este Subbarrio	Pueblo Este Subbarrio		18.32581	-65.64831	A	ADM3	PR		053		7268793		0	4	11	America/Puerto_Rico	2012-07-04
+7268794	Pueblo Este Subbarrio	Pueblo Este Subbarrio		18.05051	-66.5037	A	ADM3	PR		075		7268794		0	56	62	America/Puerto_Rico	2012-07-04
+7268795	Pueblo Este Subbarrio	Pueblo Este Subbarrio		18.00877	-65.89927	A	ADM3	PR		095		7268795		0	14	18	America/Puerto_Rico	2012-07-04
+7268796	Pueblo Norte Subbarrio	Pueblo Norte Subbarrio		18.14119	-66.26546	A	ADM3	PR		009		7268796		0	591	598	America/Puerto_Rico	2012-07-04
+7268797	Pueblo Norte Subbarrio	Pueblo Norte Subbarrio		18.08813	-67.1464	A	ADM3	PR		023		7268797		0	18	25	America/Puerto_Rico	2012-07-04
+7268798	Pueblo Norte Subbarrio	Pueblo Norte Subbarrio		18.11581	-66.15698	A	ADM3	PR		035		7268798		0	394	398	America/Puerto_Rico	2012-07-04
+7268799	Pueblo Norte Subbarrio	Pueblo Norte Subbarrio		18.33496	-65.6535	A	ADM3	PR		053		7268799		0	19	24	America/Puerto_Rico	2012-07-04
+7268800	Pueblo Norte Subbarrio	Pueblo Norte Subbarrio		18.05637	-66.50585	A	ADM3	PR		075		7268800		0	52	57	America/Puerto_Rico	2012-07-04
+7268801	Pueblo Norte Subbarrio	Pueblo Norte Subbarrio		18.23145	-65.92026	A	ADM3	PR		077		7268801		0	70	71	America/Puerto_Rico	2012-07-04
+7268802	Pueblo Norte Subbarrio	Pueblo Norte Subbarrio		18.08038	-66.95973	A	ADM3	PR		121		7268802		0	98	104	America/Puerto_Rico	2012-07-04
+7268803	Pueblo Norte Subbarrio	Pueblo Norte Subbarrio		18.03801	-66.84903	A	ADM3	PR		153		7268803		0	89	90	America/Puerto_Rico	2012-07-04
+7268804	Pueblo Nuevo Subbarrio	Pueblo Nuevo Subbarrio		18.08788	-67.1495	A	ADM3	PR		023		7268804		0	18	25	America/Puerto_Rico	2012-07-04
+7268805	Pueblo Occidental Subbarrio	Pueblo Occidental Subbarrio		18.08118	-67.04742	A	ADM3	PR		125		7268805		0	69	78	America/Puerto_Rico	2012-07-04
+7268806	Pueblo Oeste Subbarrio	Pueblo Oeste Subbarrio		17.96299	-66.06603	A	ADM3	PR		015		7268806		0	0	0	America/Puerto_Rico	2012-07-04
+7268807	Pueblo Oeste Subbarrio	Pueblo Oeste Subbarrio		18.32288	-65.66217	A	ADM3	PR		053		7268807		0	40	47	America/Puerto_Rico	2012-07-04
+7268808	Pueblo Oeste Subbarrio	Pueblo Oeste Subbarrio		18.05118	-66.5088	A	ADM3	PR		075		7268808		0	46	47	America/Puerto_Rico	2012-07-04
+7268809	Pueblo Oeste Subbarrio	Pueblo Oeste Subbarrio		18.00707	-65.90183	A	ADM3	PR		095		7268809		0	10	10	America/Puerto_Rico	2012-07-04
+7268810	Pueblo Oriental Subbarrio	Pueblo Oriental Subbarrio		18.08064	-67.03821	A	ADM3	PR		125		7268810		0	49	52	America/Puerto_Rico	2012-07-04
+7268811	Pueblo Poniente Subbarrio	Pueblo Poniente Subbarrio		18.42812	-66.49479	A	ADM3	PR		091		7268811		0	30	30	America/Puerto_Rico	2012-07-04
+7268812	Pueblo Saliente Subbarrio	Pueblo Saliente Subbarrio		18.43177	-66.48406	A	ADM3	PR		091		7268812		0	31	32	America/Puerto_Rico	2012-07-04
+7268813	Pueblo Subbarrio	Pueblo Subbarrio		18.01741	-66.78906	A	ADM3	PR		059		7268813		0	10	15	America/Puerto_Rico	2012-07-04
+7268814	Pueblo Sud Subbarrio	Pueblo Sud Subbarrio		18.08551	-67.14613	A	ADM3	PR		023		7268814		0	25	25	America/Puerto_Rico	2012-07-04
+7268815	Pueblo Sud Subbarrio	Pueblo Sud Subbarrio		18.07788	-66.961	A	ADM3	PR		121		7268815		0	95	98	America/Puerto_Rico	2012-07-04
+7268816	Pueblo Sud Subbarrio	Pueblo Sud Subbarrio		18.03367	-66.8501	A	ADM3	PR		153		7268816		0	36	40	America/Puerto_Rico	2012-07-04
+7268817	Pueblo Sur Subbarrio	Pueblo Sur Subbarrio		18.13686	-66.26313	A	ADM3	PR		009		7268817		0	610	610	America/Puerto_Rico	2012-07-04
+7268818	Pueblo Sur Subbarrio	Pueblo Sur Subbarrio		18.10982	-66.16838	A	ADM3	PR		035		7268818		0	405	406	America/Puerto_Rico	2012-07-04
+7268819	Pueblo Sur Subbarrio	Pueblo Sur Subbarrio		18.31835	-65.65628	A	ADM3	PR		053		7268819		0	9	11	America/Puerto_Rico	2012-07-04
+7268820	Pueblo Sur Subbarrio	Pueblo Sur Subbarrio		18.04784	-66.50646	A	ADM3	PR		075		7268820		0	46	51	America/Puerto_Rico	2012-07-04
+7268821	Pueblo Sur Subbarrio	Pueblo Sur Subbarrio		18.22565	-65.92456	A	ADM3	PR		077		7268821		0	75	78	America/Puerto_Rico	2012-07-04
+7268824	Puerta de Tierra Subbarrio	Puerta de Tierra Subbarrio		18.46495	-66.09606	A	ADM3	PR		127		7268824		0	11	16	America/Puerto_Rico	2012-07-04
+7268828	Puerto Nuevo Subbarrio	Puerto Nuevo Subbarrio		18.43169	-66.08814	A	ADM3	PR		127		7268828		0	0	3	America/Puerto_Rico	2016-08-01
+7268830	Puerto Real Subbarrio	Puerto Real Subbarrio		18.33467	-65.634	A	ADM3	PR		053		7268830		0	20	35	America/Puerto_Rico	2012-07-04
+7268834	Pulguero Subbarrio	Pulguero Subbarrio		18.44628	-66.06155	A	ADM3	PR		127		7268834		0	16	17	America/Puerto_Rico	2016-08-01
+7268871	Quintana Subbarrio	Quintana Subbarrio		18.41678	-66.04789	A	ADM3	PR		127		7268871		0	3	6	America/Puerto_Rico	2016-08-01
+7268877	Reparada Subbarrio	Reparada Subbarrio		18.00085	-66.62118	A	ADM3	PR		113		7268877		0	7	7	America/Puerto_Rico	2012-07-04
+7268915	Río Piedras Antiguo Subbarrio	Rio Piedras Antiguo Subbarrio	Rio Piedras Antiguo Subbarrio	18.39982	-66.04994	A	ADM3	PR		127		7268915		0	30	33	America/Puerto_Rico	2016-08-01
+7268918	Río Subbarrio	Rio Subbarrio	Rio Subbarrio	18.20892	-67.14003	A	ADM3	PR		097		7268918		0	22	27	America/Puerto_Rico	2012-07-04
+7268928	Rosario Subbarrio	Rosario Subbarrio		18.37963	-67.18694	A	ADM3	PR		003		7268928		0	18	20	America/Puerto_Rico	2012-07-04
+7268929	Rosario Subbarrio	Rosario Subbarrio		18.4718	-66.71366	A	ADM3	PR		013		7268929		0	2	4	America/Puerto_Rico	2012-07-04
+7268951	Sagrado Corazón Subbarrio	Sagrado Corazon Subbarrio	Sagrado Corazon Subbarrio	18.44208	-66.05957	A	ADM3	PR		127		7268951		0	23	27	America/Puerto_Rico	2016-08-01
+7268960	Salud Subbarrio	Salud Subbarrio		18.19843	-67.13233	A	ADM3	PR		097		7268960		0	23	24	America/Puerto_Rico	2012-07-04
+7268965	San Cristóbal Subbarrio	San Cristobal Subbarrio	San Cristobal Subbarrio	18.46928	-66.11187	A	ADM3	PR		127		7268965		0	0	-9999	America/Puerto_Rico	2012-07-04
+7268966	San Felipe Subbarrio	San Felipe Subbarrio		18.47064	-66.71791	A	ADM3	PR		013		7268966		0	3	5	America/Puerto_Rico	2012-07-04
+7268967	San Felipe Subbarrio	San Felipe Subbarrio		17.96934	-66.21524	A	ADM3	PR		123		7268967		0	3	3	America/Puerto_Rico	2012-07-04
+7268968	San Francisco Subbarrio	San Francisco Subbarrio		18.153	-65.8224	A	ADM3	PR		069		7268968		0	18	22	America/Puerto_Rico	2012-07-04
+7268969	San Francisco Subbarrio	San Francisco Subbarrio		18.46573	-66.11316	A	ADM3	PR		127		7268969		0	11	23	America/Puerto_Rico	2012-07-04
+7268974	San José Subbarrio	San Jose Subbarrio	San Jose Subbarrio	18.41996	-66.0346	A	ADM3	PR		127		7268974		0	3	5	America/Puerto_Rico	2016-08-01
+7268976	San Juan Moderno Subbarrio	San Juan Moderno Subbarrio		18.44991	-66.06096	A	ADM3	PR		127		7268976		0	3	9	America/Puerto_Rico	2016-08-01
+7268977	San Juan Subbarrio	San Juan Subbarrio		18.14903	-65.82946	A	ADM3	PR		069		7268977		0	16	21	America/Puerto_Rico	2012-07-04
+7268980	San Luis Subbarrio	San Luis Subbarrio		18.46853	-66.72744	A	ADM3	PR		013		7268980		0	13	19	America/Puerto_Rico	2012-07-04
+7268981	San Mateo Subbarrio	San Mateo Subbarrio		18.44668	-66.06381	A	ADM3	PR		127		7268981		0	20	29	America/Puerto_Rico	2016-08-01
+7268985	Santa Bárbara Subbarrio	Santa Barbara Subbarrio	Santa Barbara Subbarrio	18.43144	-67.15384	A	ADM3	PR		005		7268985		0	6	10	America/Puerto_Rico	2012-07-04
+7268991	Santa Rita Subbarrio	Santa Rita Subbarrio		18.39922	-66.05424	A	ADM3	PR		127		7268991		0	20	24	America/Puerto_Rico	2016-08-01
+7268998	Santiago Subbarrio	Santiago Subbarrio		18.1474	-65.82324	A	ADM3	PR		069		7268998		0	18	21	America/Puerto_Rico	2012-07-04
+7269001	Santo Domingo Subbarrio	Santo Domingo Subbarrio		18.15332	-65.82905	A	ADM3	PR		069		7269001		0	24	27	America/Puerto_Rico	2012-07-04
+7269004	Seboruco Subbarrio	Seboruco Subbarrio		18.44573	-66.05678	A	ADM3	PR		127		7269004		0	7	8	America/Puerto_Rico	2016-08-01
+7269007	Shanghai Subbarrio	Shanghai Subbarrio		18.44681	-66.04343	A	ADM3	PR		127		7269007		0	0	1	America/Puerto_Rico	2016-08-01
+7269026	Tamarindo Subbarrio	Tamarindo Subbarrio		18.43689	-67.15504	A	ADM3	PR		005		7269026		0	16	18	America/Puerto_Rico	2012-07-04
+7269051	Tras Talleres Subbarrio	Tras Talleres Subbarrio		18.44623	-66.07979	A	ADM3	PR		127		7269051		0	7	8	America/Puerto_Rico	2016-08-01
+7269056	Ubarri Subbarrio	Ubarri Subbarrio		18.39702	-66.05016	A	ADM3	PR		127		7269056		0	33	34	America/Puerto_Rico	2016-08-01
+7269059	Urréjola Subbarrio	Urrejola Subbarrio	Urrejola Subbarrio	18.33556	-66.98935	A	ADM3	PR		131		7269059		0	68	73	America/Puerto_Rico	2012-07-04
+7269063	Valencia Subbarrio	Valencia Subbarrio		18.41187	-66.0413	A	ADM3	PR		127		7269063		0	10	11	America/Puerto_Rico	2016-08-01
+7269075	Venezuela Subbarrio	Venezuela Subbarrio		18.39388	-66.05269	A	ADM3	PR		127		7269075		0	38	37	America/Puerto_Rico	2016-08-02
+7269077	Vigía Subbarrio	Vigia Subbarrio	Vigia Subbarrio	18.48215	-66.7022	A	ADM3	PR		013		7269077		0	0	-9999	America/Puerto_Rico	2012-07-04
+7269078	Villa Palmeras Subbarrio	Villa Palmeras Subbarrio		18.44605	-66.04959	A	ADM3	PR		127		7269078		0	0	4	America/Puerto_Rico	2016-08-01

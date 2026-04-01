@@ -1,0 +1,56 @@
+﻿829929	Kuybyshevskiy Rayon	Kuybyshevskiy Rayon		42.71667	59.75	A	ADM3	UZ		09		829929		0		66	Asia/Samarkand	2007-05-30
+1215665	Zheleznodorozhnyy Rayon	Zheleznodorozhnyy Rayon		39.67583	66.9275	A	ADM3	UZ		10		1215665		0		707	Asia/Samarkand	1998-09-30
+1216099	Siabskiy Rayon	Siabskiy Rayon		39.65333	66.98111	A	ADM3	UZ		10		1216099		0		720	Asia/Samarkand	1998-09-30
+1216764	Kokdalinskiy Rayon	Kokdalinskiy Rayon		39.2	66.16667	A	ADM3	UZ		08		1216764		0		452	Asia/Samarkand	2007-05-30
+1217788	Bagishamal’skiy Rayon	Bagishamal'skiy Rayon	Bagishamal'skiy Rayon,Bagishamal’skiy Rayon	39.64694	66.94417	A	ADM3	UZ		10		1217788		0		707	Asia/Samarkand	2016-10-07
+1282596	Wobkent Rayoni	Wobkent Rayoni	Vabkentskiy Rayon,Wobkent Rayoni	40	64.5	A	ADM3	UZ		00		1282596		0		235	Europe/Kyiv	2022-12-13
+1346432	Gala-Assiyskiy Rayon	Gala-Assiyskiy Rayon		39.86139	64.47444	A	ADM3	UZ		02		1346432		0		228	Asia/Samarkand	2007-05-30
+1346438	Olot Shahri	Olot Shahri	Gorod Alat,Olot Shahri	39.41556	63.79972	A	ADM3	UZ		02		1346438		0		195	Asia/Samarkand	2012-01-19
+1346440	Galaosiyo Shahri	Galaosiyo Shahri	Galaosiyo Shahri,Gorod Galaasiya,qlʿh‌asya,قلعه‌آسیا	39.85722	64.44806	A	ADM3	UZ		02		1346440		0		228	Asia/Samarkand	2023-11-30
+1346441	Qorako‘l Shahri	Qorako`l Shahri	Gorod Karakul',Gorod Karakul’,Qorako`l Shahri,Qorako‘l Shahri,Qorakul Shahri,Qorakŭl Shahri	39.50945	63.84846	A	ADM3	UZ		02		1346441		0		199	Asia/Samarkand	2020-02-07
+1346444	Romiton Shahri	Romiton Shahri	Gorod Romitan,Romiton Shahri	39.93333	64.38333	A	ADM3	UZ		02		1346444		0		230	Asia/Samarkand	2012-01-19
+1346469	Jomboy Shahri	Jomboy Shahri	Gorod Dzhambay,Jomboy Shahri	39.69889	67.09333	A	ADM3	UZ		10		1346469		0		708	Asia/Samarkand	2012-01-19
+1346470	Juma Shahri	Juma Shahri	Gorod Dzhuma,Juma Shahri	39.71222	66.66972	A	ADM3	UZ		10		1346470		0		629	Asia/Samarkand	2012-01-19
+1346472	Ishtixon Shahri	Ishtixon Shahri	Gorod Ishtykhan,Ishtikhon Shahri,Ishtixon Shahri	39.96667	66.48333	A	ADM3	UZ		10		1346472		0		511	Asia/Samarkand	2012-01-19
+1346473	Bulung‘ur Shahri	Bulung`ur Shahri	Bulung`ur Shahri,Bulunghur Shahri,Bulung‘ur Shahri,Gorod Bulungur,Gorod Krasnogvardeysk	39.76171	67.27649	A	ADM3	UZ		10		1346473		0		759	Asia/Samarkand	2020-06-11
+1346474	Nurobod Shahri	Nurobod Shahri	Gorod Nurabad,Nurobod Shahri	39.60861	66.28667	A	ADM3	UZ		10		1346474		0		491	Asia/Samarkand	2019-05-09
+1346476	Chelak Shahri	Chelak Shahri	Chelak Shahri,Gorod Chelek	39.92028	66.86111	A	ADM3	UZ		10		1346476		0		605	Asia/Samarkand	2012-01-19
+1346477	Payariq Shahri	Payariq Shahri		39.98917	66.84583	A	ADM3	UZ		10		1346477		0		610	Asia/Samarkand	2001-11-29
+1346538	Boysun Shahri	Boysun Shahri	Boysun Shahri,Gorod Baysun	38.20472	67.20056	A	ADM3	UZ		12		1346538		0		1238	Asia/Samarkand	2012-01-19
+1346539	Jarqo‘rg‘on Shahri	Jarqo`rg`on Shahri	Gorod Dzharkurgan,Jarqo`rg`on Shahri,Jarqo‘rg‘on Shahri,Jarqurghon Shahri,Jarqŭrghon Shahri	37.50806	67.41972	A	ADM3	UZ		12		1346539		0		354	Asia/Samarkand	2020-06-11
+1346540	Qo‘mqo‘rg‘on Shahri	Qo`mqo`rg`on Shahri	Gorod Kumkurgan,Qo`mqo`rg`on Shahri,Qo‘mqo‘rg‘on Shahri,Qumqurghon Shahri,Qumqŭrghon Shahri	37.82417	67.59778	A	ADM3	UZ		12		1346540		0		412	Asia/Samarkand	2020-06-11
+1346541	Sharg‘un Shahri	Sharg`un Shahri	Gorod Shargun',Gorod Shargun’,Sharg`un Shahri,Sharghun Shahri,Sharg‘un Shahri	38.47111	67.96056	A	ADM3	UZ		12		1346541		0		648	Asia/Samarkand	2020-06-11
+1346542	Sherobod Shahri	Sherobod Shahri	Gorod Sherabad,Sherobod Shahri	37.66972	67.00917	A	ADM3	UZ		12		1346542		0		418	Asia/Samarkand	2012-01-19
+1346543	Sho‘rchi Shahri	Sho`rchi Shahri	Gorod Shurchi,Sho`rchi Shahri,Sho‘rchi Shahri,Shurchi Shahri,Shŭrchi Shahri	38.00079	67.79005	A	ADM3	UZ		12		1346543		0		452	Asia/Samarkand	2020-06-11
+1346558	Marjonbuloq Shahri	Marjonbuloq Shahri	Gorod Mardzhanbulak,Marjonbuloq Shahri	39.93861	67.41611	A	ADM3	UZ		15		1346558		0		813	Asia/Samarkand	2012-01-19
+1512756	Sovetskiy Rayon	Sovetskiy Rayon		41	71.66667	A	ADM3	UZ		06		1512756		0		443	Asia/Tashkent	2007-05-30
+1538219	Mangitskiy Rayon	Mangitskiy Rayon		42.10028	60.07528	A	ADM3	UZ		00		1538219		0		83	Asia/Samarkand	2007-05-30
+1538220	Kipchakskiy Rayon	Kipchakskiy Rayon		42.32194	60.10417	A	ADM3	UZ		00		1538220		0		117	Asia/Samarkand	2007-05-30
+1538235	Kerminskiy Rayon	Kerminskiy Rayon		40.14139	65.365	A	ADM3	UZ		07		1538235		0		350	Asia/Samarkand	2007-05-30
+1538237	Wobkent Shahri	Wobkent Shahri	Gorod Vabkent,Wobkent Shahri	40.03028	64.515	A	ADM3	UZ		02		1538237		0		243	Asia/Samarkand	2012-01-19
+1538238	Gazli Shahri	Gazli Shahri	Gazli Shahri,Gorod Gazli	40.13035	63.45782	A	ADM3	UZ		02		1538238		0		185	Asia/Samarkand	2020-02-07
+1538241	Gagarin Shahri	Gagarin Shahri	Gagarin Shahri,Gorod Gagarin	40.66194	68.17222	A	ADM3	UZ		15		1538241		0		267	Asia/Tashkent	2012-01-19
+1538242	G’allaorol Shahri	G'allaorol Shahri	G'allaorol Shahri,Galljaaral,Ghallaorol,Ghallaorol Shahri,Gorod Gallyaaral,G’allaorol Shahri,Галляарал	40.02744	67.59201	A	ADM3	UZ		15		1538242		0		567	Asia/Samarkand	2025-03-18
+1538243	Do’stlik Shahri	Do'stlik Shahri	Do'stlik Shahri,Do’stlik Shahri,Dustlik Shahri,Dŭstlik Shahri,Gorod Dustlik	40.5291	68.03378	A	ADM3	UZ		15		1538243		0		273	Asia/Tashkent	2020-06-11
+1538244	Pakhtakor Shahri	Pakhtakor Shahri	Gorod Pakhtakor,Pakhtakor Shahri	40.31528	67.95444	A	ADM3	UZ		15		1538244		0		307	Asia/Tashkent	2012-01-19
+1538245	Dashtobod Shahri	Dashtobod Shahri	Dashtobod Shahri,Gorod Ul'yanovo,Gorod Ul’yanovo	40.12694	68.49444	A	ADM3	UZ		15		1538245		0		400	Asia/Tashkent	2012-01-19
+1538263	Oqqŭrghon Shahri	Oqqurghon Shahri	Gorod Akkurgan,Oqqurghon Shahri,Oqqŭrghon Shahri	40.87449	69.04884	A	ADM3	UZ		14		1538263		0		306	Asia/Tashkent	2020-06-11
+1538264	Bŭka Shahri	Buka Shahri	Buka Shahri,Bŭka Shahri,Gorod Buka	40.81083	69.19861	A	ADM3	UZ		14		1538264		0		342	Asia/Tashkent	2020-06-11
+1538265	G‘azalkent Shahri	G`azalkent Shahri	G`azalkent Shahri,Ghazalkent Shahri,Gorod Gazalkent,G‘azalkent Shahri	41.55806	69.77083	A	ADM3	UZ		14		1538265		0		702	Asia/Tashkent	2020-06-11
+1538266	Keles Shahri	Keles Shahri	Gorod Keles,Keles Shahri	41.40333	69.20667	A	ADM3	UZ		14		1538266		0		448	Asia/Tashkent	2012-01-19
+1538267	Parkent Shahri	Parkent Shahri	Gorod Parkent,Parkent Shahri	41.29444	69.67639	A	ADM3	UZ		14		1538267		0		752	Asia/Tashkent	2012-01-19
+1538268	Piskent Shahri	Piskent Shahri	Gorod Pskent,Piskent Shahri	40.89722	69.35056	A	ADM3	UZ		14		1538268		0		416	Asia/Tashkent	2012-01-19
+1538269	Soldatskiy Shahri	Soldatskiy Shahri	Gorod Soldatskiy,Soldatskiy Shahri	40.86361	68.93472	A	ADM3	UZ		14		1538269		0		279	Asia/Tashkent	2012-01-19
+1538270	Tŭytepa Shahri	Tuytepa Shahri	Gorod Toytepa,Tuytepa Shahri,Tŭytepa Shahri	41.04278	69.35722	A	ADM3	UZ		14		1538270		0		394	Asia/Tashkent	2020-06-11
+1538271	Chinoz Shahri	Chinoz Shahri	Chinoz Shahri,Gorod Chinaz	40.93639	68.76972	A	ADM3	UZ		14		1538271		0		265	Asia/Tashkent	2012-01-19
+1538277	Chust Tumani	Chust Tumani	Chust Tumani,Gorod Chust	41	71.23917	A	ADM3	UZ		06	1514190	1538277		0		654	Asia/Tashkent	2021-01-17
+1538287	Okhunboboyew Shahri	Okhunboboyew Shahri	Gorod Akhunbabayev,Okhunboboyew Shahri	40.7242	72.63567	A	ADM3	UZ		01		1538287		0		674	Asia/Tashkent	2012-01-19
+1538288	Qŭrghontepa Shahri	Qurghontepa Shahri	Gorod Kurgantepa,Qurghontepa Shahri,Qŭrghontepa Shahri	40.72798	72.76007	A	ADM3	UZ		01		1538288		0		712	Asia/Tashkent	2020-06-11
+1538289	Marhamat Shahri	Marhamat Shahri	Gorod Markhamat,Marhamat Shahri	40.48285	72.31409	A	ADM3	UZ		01		1538289		0		627	Asia/Tashkent	2012-01-19
+1538290	Poytugh Shahri	Poytugh Shahri	Gorod Paytug,Poytugh Shahri	40.89417	72.24361	A	ADM3	UZ		01		1538290		0		457	Asia/Tashkent	2012-01-19
+1538291	Pakhtaobod Shahri	Pakhtaobod Shahri	Gorod Pakhtaabad,Pakhtaobod Shahri	40.93083	72.48806	A	ADM3	UZ		01		1538291		0		511	Asia/Tashkent	2012-01-19
+1538292	Khŭjaobod Shahri	Khujaobod Shahri	Gorod Khodzhaabad,Khujaobod Shahri,Khŭjaobod Shahri	40.67207	72.56001	A	ADM3	UZ		01		1538292		0		665	Asia/Tashkent	2020-06-11
+1538301	Beshariq Shahri	Beshariq Shahri	Beshariq Shahri,Gorod Besharyk	40.43928	70.61129	A	ADM3	UZ		03		1538301		0		392	Asia/Tashkent	2015-09-06
+1538302	Rishton Shahri	Rishton Shahri	Gorod Rishtan,Rishton Shahri	40.35793	71.28014	A	ADM3	UZ		03		1538302		0		476	Asia/Tashkent	2016-02-07
+1538303	Khamza Shahri	Khamza Shahri	Gorod Khamza,Khamza Shahri	40.42639	71.49556	A	ADM3	UZ		03		1538303		0		443	Asia/Tashkent	2012-01-19
+1538304	Yaypan Shahri	Yaypan Shahri	Gorod Yaypan,Yaypan Shahri	40.3778	70.81578	A	ADM3	UZ		03		1538304		0		443	Asia/Tashkent	2015-09-06

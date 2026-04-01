@@ -1,0 +1,8 @@
+﻿7910606	Ngwenya	Ngwenya		-26.22798	31.03924	A	ADM3	SZ		01		7910606		0		1354	Africa/Mbabane	2011-07-28
+11128098	Vuvulane Umphakatsi	Vuvulane Umphakatsi		-26.06341	31.88919	A	ADM3	SZ		02		11128098		0		279	Africa/Mbabane	2016-05-06
+11128348	Dvokolwako Umphakatsi	Dvokolwako Umphakatsi		-26.15051	31.58466	A	ADM3	SZ		01		11128348		0		359	Africa/Mbabane	2016-05-06
+11128350	Sigombeni Umphakatsi	Sigombeni Umphakatsi		-26.38118	31.33275	A	ADM3	SZ		03		11128350		0		966	Africa/Mbabane	2016-05-08
+11128508	Zombodze Umphakatsi	Zombodze Umphakatsi		-27.22941	31.3105	A	ADM3	SZ		04		11128508		0		970	Africa/Mbabane	2018-12-21
+11128509	Gebeni Umphakatsi	Gebeni Umphakatsi		-26.64362	31.34648	A	ADM3	SZ		03		11128509		0		395	Africa/Mbabane	2018-12-21
+11204702	Timpisini	Timpisini		-25.77694	31.435	A	ADM3	SZ		01		11204702		0		426	Africa/Mbabane	2016-07-22
+11257264	Sandleni	Sandleni		-27.04359	31.39338	A	ADM3	SZ		04		11257264		0		687	Africa/Mbabane	2016-09-19
