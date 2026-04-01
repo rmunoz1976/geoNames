@@ -1,0 +1,2 @@
+﻿7732573	Mercan	Mercan		41.01421	28.96742	A	ADM4	TR					7732573	0		43	Europe/Istanbul	2011-03-30
+7732581	Seyrantepe	Seyrantepe		41.09833	28.99139	A	ADM4	TR		34			7732581	0		102	Europe/Istanbul	2011-03-30

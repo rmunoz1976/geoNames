@@ -1,0 +1,2 @@
+﻿11205135	Njai Town	Njai Town		7.97637	-11.733	A	ADM4	SL		03			11205135	0		98	Africa/Freetown	2016-07-27
+11238176	Nikibu	Nikibu		7.9591	-11.7534	A	ADM4	SL		03			11238176	0		87	Africa/Freetown	2016-08-20

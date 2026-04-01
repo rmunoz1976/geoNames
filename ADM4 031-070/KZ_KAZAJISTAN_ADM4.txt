@@ -1,0 +1,23 @@
+﻿608570	Promyshlennyy Rayon	Promyshlennyy Rayon		51.23333	51.36667	A	ADM4	KZ		07			608570	0		35	Asia/Oral	2007-05-30
+608571	Proletarskiy Rayon	Proletarskiy Rayon		50.28333	57.16667	A	ADM4	KZ		04			608571	0		215	Asia/Aqtobe	2007-05-30
+608949	Leninskiy Rayon	Leninskiy Rayon		51.23333	51.36667	A	ADM4	KZ		07			608949	0		35	Asia/Oral	2007-05-30
+609905	Frunzenskiy Rayon	Frunzenskiy Rayon		50.28333	57.16667	A	ADM4	KZ		04			609905	0		215	Asia/Aqtobe	2007-05-30
+1516629	Zheleznodorozhnyy Rayon	Zheleznodorozhnyy Rayon		49.83333	73.16667	A	ADM4	KZ		12			1516629	0		576	Asia/Almaty	2007-05-30
+1517062	Zavodskoy Rayon	Zavodskoy Rayon		42.9	71.36667	A	ADM4	KZ		17			1517062	0		623	Asia/Almaty	2007-05-30
+1517804	Ul'binskiy Rayon	Ul'binskiy Rayon		49.96667	82.66667	A	ADM4	KZ		15			1517804	0		345	Asia/Almaty	2007-05-30
+1518000	Tsentral'nyy Rayon	Tsentral'nyy Rayon		42.9	71.36667	A	ADM4	KZ		17			1518000	0		623	Asia/Almaty	2007-05-30
+1518833	Sovetskiy Rayon	Sovetskiy Rayon		51.16667	71.5	A	ADM4	KZ		03			1518833	0		363	Asia/Almaty	2007-05-30
+1518834	Sovetskiy Rayon	Sovetskiy Rayon		49.83333	73.16667	A	ADM4	KZ		12			1518834	0		576	Asia/Almaty	2007-05-30
+1520426	Oktyabr'skiy Rayon	Oktyabr'skiy Rayon		49.96667	82.66667	A	ADM4	KZ		15			1520426	0		345	Asia/Almaty	2007-05-30
+1520427	Oktyabr'skiy Rayon	Oktyabr'skiy Rayon	Stalinskiy Rayon	49.83333	73.16667	A	ADM4	KZ		12			1520427	0		576	Asia/Almaty	2007-05-30
+1520962	Metallurgicheskiy Rayon	Metallurgicheskiy Rayon		50.08333	72.93333	A	ADM4	KZ		12			1520962	0		486	Asia/Almaty	2007-05-30
+1521355	Leninskiy Rayon	Leninskiy Rayon		51.16667	71.5	A	ADM4	KZ		03			1521355	0		363	Asia/Almaty	2007-05-30
+1521356	Leninskiy Rayon	Leninskiy Rayon		50.46667	80.21667	A	ADM4	KZ		15			1521356	0		220	Asia/Almaty	2007-05-30
+1521357	Leninskiy Rayon	Leninskiy Rayon		49.83333	73.16667	A	ADM4	KZ		12			1521357	0		576	Asia/Almaty	2007-05-30
+1521635	Kuybyshevskiy Rayon	Kuybyshevskiy Rayon		54.86667	69.1	A	ADM4	KZ		16			1521635	0		93	Asia/Almaty	2007-05-30
+1522637	Kirovskiy Rayon	Kirovskiy Rayon		54.86667	69.1	A	ADM4	KZ		16			1522637	0		93	Asia/Almaty	2007-05-30
+1522638	Kirovskiy Rayon	Kirovskiy Rayon		50.46667	80.21667	A	ADM4	KZ		15			1522638	0		220	Asia/Almaty	2007-05-30
+1522639	Kirovskiy Rayon	Kirovskiy Rayon		49.83333	73.16667	A	ADM4	KZ		12			1522639	0		576	Asia/Almaty	2007-05-30
+1523615	Kalininskiy Rayon	Kalininskiy Rayon		50.46667	80.21667	A	ADM4	KZ		15			1523615	0		220	Asia/Almaty	2007-05-30
+1523811	Industrial'nyy Rayon	Industrial'nyy Rayon		52.3	76.95	A	ADM4	KZ		11			1523811	0		141	Asia/Almaty	2007-05-30
+1524137	Il'ichevskiy Rayon	Il'ichevskiy Rayon		52.3	76.95	A	ADM4	KZ		11			1524137	0		141	Asia/Almaty	2007-05-30

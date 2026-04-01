@@ -1,0 +1,42 @@
+﻿5882726	Ahuntsic-Cartierville	Ahuntsic-Cartierville		45.55253	-73.65921	A	ADM4	CA		10	06	66023	AC	0		32	America/Toronto	2018-01-14
+5928430	Côte-des-Neiges-Notre-Dame-de-Grâce	Cote-des-Neiges-Notre-Dame-de-Grace		45.49869	-73.62612	A	ADM4	CA		10	06	66023	CN	0		103	America/Toronto	2018-01-11
+6024449	Lachine	Lachine		45.4315	-73.66908	A	ADM4	CA		10	06	66023	LC	0		20	America/Toronto	2018-01-11
+6052594	Le Plateau-Mont-Royal	Le Plateau-Mont-Royal		45.52813	-73.57612	A	ADM4	CA		10	06	66023	PM	0		48	America/Toronto	2018-01-11
+6053102	Le Sud-Ouest	Le Sud-Ouest		45.47175	-73.59223	A	ADM4	CA		10	06	66023	SO	0		19	America/Toronto	2018-01-11
+6053852	L'Île-Bizard-Sainte-Geneviève	L'Ile-Bizard-Sainte-Genevieve		45.48341	-73.86586	A	ADM4	CA		10	06	66023	IS	0		26	America/Toronto	2018-01-11
+6072211	Mercier-Hochelaga-Maisonneuve	Mercier-Hochelaga-Maisonneuve		45.5648	-73.53806	A	ADM4	CA		10	06	66023	MH	0		20	America/Toronto	2018-01-11
+6077264	Montréal-Nord	Montreal-Nord		45.60008	-73.63251	A	ADM4	CA		10	06	66023	MN	0		23	America/Toronto	2018-01-11
+6095438	Outremont	Outremont		45.51675	-73.61584	A	ADM4	CA		10	06	66023	OM	0		81	America/Toronto	2019-05-10
+6104320	Pierrefonds-Roxboro	Pierrefonds-Roxboro		45.50256	-73.84212	A	ADM4	CA		10	06	66023	PR	0		33	America/Toronto	2018-01-14
+6123696	Rivière-des-Prairies-Pointe-aux-Trembles	Riviere-des-Prairies-Pointe-aux-Trembles		45.65008	-73.49917	A	ADM4	CA		10	06	66023	RP	0		12	America/Toronto	2018-01-11
+6127689	Rosemont-La Petite-Patrie	Rosemont-La Petite-Patrie		45.56091	-73.58918	A	ADM4	CA		10	06	66023	RO	0		54	America/Toronto	2019-12-11
+6138608	Saint-Laurent	Saint-Laurent		45.50917	-73.6974	A	ADM4	CA		10	06	66023	LR	0		30	America/Toronto	2018-01-11
+6174337	Ville-Marie	Ville-Marie		45.51064	-73.5614	A	ADM4	CA		10	06	66023	VM	0		28	America/Toronto	2018-01-11
+6174349	Villeray-Saint-Michel-Parc-Extension	Villeray-Saint-Michel-Parc-Extension		45.56758	-73.62168	A	ADM4	CA		10	06	66023	VS	0		37	America/Toronto	2018-01-11
+11791606	LaSalle	LaSalle		45.43026	-73.62943	A	ADM4	CA		10	06	66023	LS	0		32	America/Toronto	2018-01-11
+11791607	Saint-Léonard	Saint-Leonard		45.5932	-73.59827	A	ADM4	CA		10	06	66023	LN	0		40	America/Toronto	2018-01-11
+11791608	Anjou	Anjou		45.61284	-73.57252	A	ADM4	CA		10	06	66023	AJ	0		38	America/Toronto	2018-01-11
+11791609	Verdun	Verdun		45.45601	-73.57192	A	ADM4	CA		10	06	66023	VD	0		18	America/Toronto	2018-01-11
+12070661	Ward 7	Ward 7	Baie,Bay,Quartier 7,Ward 7	45.36542	-75.85931	A	ADM4	CA		08	3506	3506008	7	0		53	America/Toronto	2020-08-03
+12070662	Ward 18	Ward 18	Alta Vista,Quartier 18,Ward 18	45.39795	-75.63877	A	ADM4	CA		08	3506	3506008	18	0		79	America/Toronto	2020-08-03
+12070663	Ward 8	Ward 8	College,Collège,Quartier 8,Ward 8	45.32443	-75.81169	A	ADM4	CA		08	3506	3506008	8	0		102	America/Toronto	2020-08-03
+12070664	Ward 1	Ward 1	Orleans,Orléans,Quartier 1,Ward 1	45.48394	-75.506	A	ADM4	CA		08	3506	3506008	1	0		59	America/Toronto	2020-08-03
+12070665	Ward 19	Ward 19	Cumberland,Quartier 19,Ward 19	45.41535	-75.4024	A	ADM4	CA		08	3506	3506008	19	0		84	America/Toronto	2020-08-03
+12070666	Ward 21	Ward 21	Quartier 21,Rideau-Goulbourn,Ward 21	45.13938	-75.82256	A	ADM4	CA		08	3506	3506008	21	0		97	America/Toronto	2020-08-03
+12070667	Ward 23	Ward 23	Kanata South,Kanata-Sud,Quartier 23,Ward 23	45.29282	-75.87548	A	ADM4	CA		08	3506	3506008	23	0		105	America/Toronto	2020-08-03
+12070668	Ward 4	Ward 4	Kanata North,Kanata-Nord,Quartier 4,Ward 4	45.32996	-75.9224	A	ADM4	CA		08	3506	3506008	4	0		96	America/Toronto	2020-08-03
+12070669	Ward 20	Ward 20	Osgoode,Quartier 20,Ward 20	45.22318	-75.52764	A	ADM4	CA		08	3506	3506008	20	0		91	America/Toronto	2020-08-03
+12070670	Ward 11	Ward 11	Beacon Hill-Cyrville,Quartier 11,Ward 11	45.44621	-75.60553	A	ADM4	CA		08	3506	3506008	11	0		94	America/Toronto	2020-08-03
+12070671	Ward 12	Ward 12	Quartier 12,Rideau-Vanier,Ward 12	45.43215	-75.67673	A	ADM4	CA		08	3506	3506008	12	0		74	America/Toronto	2020-08-03
+12070672	Ward 10	Ward 10	Gloucester-Southgate,Quartier 10,Ward 10	45.35613	-75.61268	A	ADM4	CA		08	3506	3506008	10	0		94	America/Toronto	2020-08-03
+12070673	Ward 13	Ward 13	Quartier 13,Rideau-Rockcliffe,Ward 13	45.44622	-75.65271	A	ADM4	CA		08	3506	3506008	13	0		66	America/Toronto	2020-08-03
+12070674	Ward 22	Ward 22	Gloucester-Nepean-Sud,Gloucester-South Nepean,Quartier 22,Ward 22	45.2864	-75.67447	A	ADM4	CA		08	3506	3506008	22	0		87	America/Toronto	2020-08-03
+12070675	Ward 15	Ward 15	Kitchissippi,Quartier 15,Ward 15	45.3959	-75.74646	A	ADM4	CA		08	3506	3506008	15	0		69	America/Toronto	2020-08-03
+12070676	Ward 9	Ward 9	Knoxdale-Merivale,Quartier 9,Ward 9	45.32012	-75.74578	A	ADM4	CA		08	3506	3506008	9	0		94	America/Toronto	2020-08-03
+12070677	Ward 6	Ward 6	Quartier 6,Stittsville,Ward 6	45.2716	-75.91423	A	ADM4	CA		08	3506	3506008	6	0		111	America/Toronto	2020-08-03
+12070678	Ward 16	Ward 16	Quartier 16,River,Riviere,Rivière,Ward 16	45.36203	-75.69602	A	ADM4	CA		08	3506	3506008	16	0		81	America/Toronto	2020-08-03
+12070679	Ward 17	Ward 17	Capital,Capitale,Quartier 17,Ward 17	45.39647	-75.68233	A	ADM4	CA		08	3506	3506008	17	0		61	America/Toronto	2020-08-03
+12070680	Ward 2	Ward 2	Innes,Quartier 2,Ward 2	45.44201	-75.54617	A	ADM4	CA		08	3506	3506008	2	0		91	America/Toronto	2020-08-03
+12070681	Ward 14	Ward 14	Quartier 14,Somerset,Ward 14	45.41415	-75.70441	A	ADM4	CA		08	3506	3506008	14	0		77	America/Toronto	2020-08-03
+12070682	Ward 5	Ward 5	Quartier 5,Ward 5,West Carleton-March	45.37529	-76.10879	A	ADM4	CA		08	3506	3506008	5	0		92	America/Toronto	2020-08-03
+12070683	Ward 3	Ward 3	Barrhaven,Quartier 3,Ward 3	45.26805	-75.75884	A	ADM4	CA		08	3506	3506008	3	0		96	America/Toronto	2020-08-03

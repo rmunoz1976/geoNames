@@ -1,0 +1,32 @@
+﻿3578350	Terre-de-Bas	Terre-de-Bas		15.8544	-61.63411	A	ADM4	GP		GP	971	9711	97130	1053		225	America/Guadeloupe	2019-03-23
+3579423	La Désirade	La Desirade		16.31175	-61.05269	A	ADM4	GP		GP	971	9712	97110	1465		274	America/Guadeloupe	2019-03-23
+6690387	Les Abymes	Les Abymes		16.26667	-61.5	A	ADM4	GP		GP	971	9712	97101	54260		34	America/Guadeloupe	2019-03-23
+6690388	Vieux-Habitants	Vieux-Habitants		16.05	-61.75	A	ADM4	GP		GP	971	9711	97134	7267		151	America/Guadeloupe	2019-03-23
+6690389	Vieux-Fort	Vieux-Fort	Ve-For,Вє-Фор	15.96022	-61.69452	A	ADM4	GP		GP	971	9711	97133	1854		289	America/Guadeloupe	2019-03-23
+6690390	Trois-Rivières	Trois-Rivieres	Trua-River,Труа-Ривєр	15.99081	-61.64796	A	ADM4	GP		GP	971	9711	97132	8210		306	America/Guadeloupe	2019-03-23
+6690391	Terre-de-Haut	Terre-de-Haut		15.86595	-61.58051	A	ADM4	GP		GP	971	9711	97131	1566		13	America/Guadeloupe	2019-03-23
+6690392	Sainte-Rose	Sainte-Rose	Sent Roz,Sent-Roz,sant-rwz,snt-rwz,Сент Роз,Сент-Роз,סנט-רוז,سانت-روز,سین-روسے، گادلوپے	16.32932	-61.69021	A	ADM4	GP		GP	971	9711	97129	19468		16	America/Guadeloupe	2019-03-23
+6690393	Sainte-Anne	Sainte-Anne	Sent An,Sent Ana,Sent-Ann,sant-an,sntn  gwadwlwp,Сент Ан,Сент-Анн,سانت-آن,سنتن، گوآدولوپ,سین-این، گادلوپے	16.25723	-61.38747	A	ADM4	GP		GP	971	9712	97128	24245		84	America/Guadeloupe	2019-03-23
+6690394	Saint-Louis	Saint-Louis	Sen-Lui,san-lwy,san=rui,Сен-Луї,سان-لوي,سینٹ-لوئیس، گادلوپے,サン＝ルイ	15.95	-61.3	A	ADM4	GP		GP	971	9712	97126	2472		77	America/Guadeloupe	2019-03-23
+6690395	Saint-François	Saint-Francois	Sen-Fransua,san-franswa,Сен-Франсуа,سان-فرانسوا,سینٹ-فرانکوئس، گادلوپے	16.27325	-61.28164	A	ADM4	GP		GP	971	9712	97125	13095		36	America/Guadeloupe	2019-03-23
+6690396	Saint-Claude	Saint-Claude	Sen-Klod,san-klwd,Сен-Клод,سان-كلود,سینٹ-کلاڈ، گادلوپے	16.01667	-61.68333	A	ADM4	GP		GP	971	9711	97124	10289		546	America/Guadeloupe	2019-03-23
+6690397	Port-Louis	Port-Louis		16.41667	-61.51667	A	ADM4	GP		GP	971	9712	97122	5772		12	America/Guadeloupe	2019-03-23
+6690398	Pointe-Noire	Pointe-Noire	Puent-Nuar,bwant-nwar,Пуент-Нуар,بوانت-نوار	16.23333	-61.78333	A	ADM4	GP		GP	971	9711	97121	6159		59	America/Guadeloupe	2019-03-23
+6690399	Pointe-à-Pitre	Pointe-a-Pitre	Lapwent,Pointe-a-Pitre,Pointe-à-Pitre	16.23824	-61.53211	A	ADM4	GP		GP	971	9712	97120	16035		9	America/Guadeloupe	2019-03-23
+6690400	Petit-Canal	Petit-Canal		16.38333	-61.48333	A	ADM4	GP		GP	971	9712	97119	8194		20	America/Guadeloupe	2019-03-23
+6690401	Petit-Bourg	Petit-Bourg		16.17161	-61.65724	A	ADM4	GP		GP	971	9711	97118	24211		191	America/Guadeloupe	2019-03-23
+6690402	Lamentin	Lamentin	Lamanten,lamntyn,Ламантен,لامنتين	16.2414	-61.66853	A	ADM4	GP		GP	971	9711	97115	16687		42	America/Guadeloupe	2019-03-23
+6690403	Grand-Bourg	Grand-Bourg		15.88333	-61.3	A	ADM4	GP		GP	971	9712	97112	5085		21	America/Guadeloupe	2019-03-23
+6690404	Goyave	Goyave		16.13333	-61.56667	A	ADM4	GP		GP	971	9711	97114	7526		9	America/Guadeloupe	2019-03-23
+6690405	Gourbeyre	Gourbeyre		15.98333	-61.68333	A	ADM4	GP		GP	971	9711	97109	7813		302	America/Guadeloupe	2019-03-23
+6690406	Deshaies	Deshaies		16.3	-61.78333	A	ADM4	GP		GP	971	9711	97111	4128		197	America/Guadeloupe	2019-03-23
+6690407	Capesterre-de-Marie-Galante	Capesterre-de-Marie-Galante		15.92003	-61.22999	A	ADM4	GP		GP	971	9712	97108	3310		129	America/Guadeloupe	2019-03-23
+6690408	Capesterre-Belle-Eau	Capesterre-Belle-Eau		16.04895	-61.56618	A	ADM4	GP		GP	971	9711	97107	18923		23	America/Guadeloupe	2019-03-23
+6690409	Bouillante	Bouillante		16.13333	-61.76667	A	ADM4	GP		GP	971	9711	97106	7153		57	America/Guadeloupe	2019-03-23
+6690410	Basse-Terre	Basse-Terre		16	-61.71667	A	ADM4	GP		GP	971	9711	97105	10226		132	America/Guadeloupe	2019-03-23
+6690411	Baillif	Baillif		16.01667	-61.73333	A	ADM4	GP		GP	971	9711	97104	5809		123	America/Guadeloupe	2019-03-23
+6690412	Baie-Mahault	Baie-Mahault		16.26667	-61.58333	A	ADM4	GP		GP	971	9711	97103	30868		13	America/Guadeloupe	2019-03-23
+6690413	Le Moule	Le Moule		16.33333	-61.33333	A	ADM4	GP		GP	971	9712	97117	22435		-2	America/Guadeloupe	2019-03-23
+6690414	Le Gosier	Le Gosier		16.22522	-61.46988	A	ADM4	GP		GP	971	9712	97113	26666		38	America/Guadeloupe	2019-03-23
+6690415	Anse-Bertrand	Anse-Bertrand		16.46667	-61.5	A	ADM4	GP		GP	971	9712	97102	4578		17	America/Guadeloupe	2019-03-23
+6690417	Morne-à-l'Eau	Morne-a-l'Eau		16.33333	-61.45	A	ADM4	GP		GP	971	9712	97116	17288		4	America/Guadeloupe	2019-03-23

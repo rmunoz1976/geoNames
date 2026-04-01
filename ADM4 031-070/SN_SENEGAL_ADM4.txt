@@ -1,0 +1,9 @@
+﻿10401823	Mermoz-Sacré-Coeur	Mermoz-Sacre-Coeur		14.70634	-17.47734	A	ADM4	SN		01			10401823	0		37	Africa/Dakar	2015-08-04
+10401825	Ngor	Ngor		14.74358	-17.51468	A	ADM4	SN		01			10401825	0		7	Africa/Dakar	2015-08-05
+10401827	Diamaguène Sicap Mbao	Diamaguene Sicap Mbao		14.738	-17.324	A	ADM4	SN		01			10401827	0		3	Africa/Dakar	2015-08-05
+10401947	Coubalan	Coubalan		12.66793	-16.17557	A	ADM4	SN		12			10401947	0		26	Africa/Dakar	2015-08-05
+10626729	Hann Bel-Air	Hann Bel-Air		14.71879	-17.43761	A	ADM4	SN		01			10626729	0		16	Africa/Dakar	2015-08-11
+11205307	Nyassia	Nyassia		12.47056	-16.38278	A	ADM4	SN		12			11205307	0		8	Africa/Dakar	2016-07-29
+11205570	Grand Yoff	Grand Yoff		14.73361	-17.44944	A	ADM4	SN		01			11205570	0		16	Africa/Dakar	2016-08-02
+11205623	Paoskoto Commune	Paoskoto Commune		13.78333	-15.81667	A	ADM4	SN		10			11205623	0		21	Africa/Dakar	2016-08-03
+11256889	Biscuiterie	Biscuiterie		14.71	-17.44972	A	ADM4	SN		01			11256889	0		16	Africa/Dakar	2016-09-12

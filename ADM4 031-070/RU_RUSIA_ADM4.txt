@@ -1,0 +1,199 @@
+﻿463344	Zheleznodorozhnyy Rayon	Zheleznodorozhnyy Rayon		54.622	39.711	A	ADM4	RU		62			463344	0		141	Europe/Moscow	2025-09-08
+463346	Zheleznodorozhnyy Rayon	Zheleznodorozhnyy Rayon		53.206	45.038	A	ADM4	RU		57			463346	0		151	Europe/Moscow	2025-09-08
+463347	Zheleznodorozhnyy Rayon	Zheleznodorozhnyy Rayon		53.18454	50.14112	A	ADM4	RU		65			463347	0		58	Europe/Samara	2008-10-09
+463348	Zheleznodorozhnyy Rayon	Zheleznodorozhnyy Rayon		52.969	36.089	A	ADM4	RU		56			463348	0		182	Europe/Moscow	2025-09-08
+463349	Zheleznodorozhnyy Rayon	Zheleznodorozhnyy Rayon	Zheleznodorozhnyj Rajon,Zheleznodorozhnyy Rayon,Железнодорожный Район	51.684	39.265	A	ADM4	RU		86			463349	0		110	Europe/Moscow	2025-08-11
+463350	Zheleznodorozhnyy Rayon	Zheleznodorozhnyy Rayon		47.219	39.671	A	ADM4	RU		61			463350	0		45	Europe/Moscow	2025-09-08
+464104	Zavolzhskiy Rayon	Zavolzhskiy Rayon		57.6623	39.9008	A	ADM4	RU		88			464104	0		92	Europe/Moscow	2016-07-08
+464105	Zavolzhskiy Rayon	Zavolzhskiy Rayon	Dimitrov Borough,Kostroma Zavolzhsky,Zavolzhskiy Rayon	56.86887	35.90761	A	ADM4	RU		77			464105	717819		135	Europe/Moscow	2010-08-09
+464122	Zavodskoy Rayon	Zavodskoy Rayon		56.66667	47.91667	A	ADM4	RU		45			464122	0		82	Europe/Moscow	1994-04-09
+464123	Zavodskoy Rayon	Zavodskoy Rayon		52.91667	36.08333	A	ADM4	RU		56			464123	0		188	Europe/Moscow	1994-04-09
+464124	Zavodskoy Rayon	Zavodskoy Rayon	Stalinskiy Rayon,Zavodskoy Rayon	51.508	45.947	A	ADM4	RU		67			464124	0		58	Europe/Saratov	2025-09-08
+464674	Zarechenskiy Rayon	Zarechenskiy Rayon	Zarechenskij,Зареченский	54.23694	37.60998	A	ADM4	RU		76			464674	0		201	Europe/Moscow	2012-11-26
+465767	Zadneprovskiy Rayon	Zadneprovskiy Rayon		54.809	32.045	A	ADM4	RU		69			465767	0		235	Europe/Moscow	2025-09-15
+471822	Voroshilovskiy Rayon	Voroshilovskiy Rayon		48.699	44.472	A	ADM4	RU		84			471822	0		63	Europe/Volgograd	2025-09-01
+472224	Volzhskiy Rayon	Volzhskiy Rayon		51.566	46.08	A	ADM4	RU		67			472224	0		101	Europe/Saratov	2025-09-08
+480969	Tsentral’nyy Mikrorayon	Tsentral'nyy Mikrorayon	Central'nyj Mikrorajon,Tsentral'nyy Mikrorayon,Tsentral'nyy Rayon,Tsentral’nyy Mikrorayon,Tsentral’nyy Rayon,Центральный Микрорайон	58.05	38.83333	A	ADM4	RU		88			480969	0		96	Europe/Moscow	2025-06-12
+480970	Tsentral’nyy Rayon	Tsentral'nyy Rayon		56.85948	35.90899	A	ADM4	RU		77			480970	0		135	Europe/Moscow	2007-01-09
+480972	Tsentral'nyy Rayon	Tsentral'nyy Rayon	Central'nyj,Центральный	54.10994	37.6038	A	ADM4	RU		76			480972	0		243	Europe/Moscow	2012-11-26
+480973	Tsentral’nyy Rayon	Tsentral'nyy Rayon		53.51667	49.43333	A	ADM4	RU		65			480973	0		104	Europe/Samara	1994-04-09
+480974	Tsentral’nyy Rayon	Tsentral'nyy Rayon		51.774	55.104	A	ADM4	RU		55			480974	0		123	Asia/Yekaterinburg	2025-09-08
+480975	Tsentral’nyy Rayon	Tsentral'nyy Rayon	Central'nyj Rajon,Tsentral'nyy Rayon,Tsentral’nyy Rayon,Центральный Район	51.666	39.21	A	ADM4	RU		86			480975	0		83	Europe/Moscow	2025-08-11
+480976	Tsentral’nyy Rayon	Tsentral'nyy Rayon	Stalinskiy Rayon,Tsentral'nyy Rayon,Tsentral’nyy Rayon,Yermanskiy Rayon	48.718	44.53	A	ADM4	RU		84			480976	0		38	Europe/Volgograd	2025-09-01
+481881	Traktorozavodskiy Rayon	Traktorozavodskiy Rayon		48.813	44.599	A	ADM4	RU		84			481881	0		23	Europe/Volgograd	2025-09-01
+484893	Tagilstroyevskiy Rayon	Tagilstroyevskiy Rayon		57.941	59.995	A	ADM4	RU		71			484893	0		221	Asia/Yekaterinburg	2025-09-08
+485758	Sverdlovskiy Rayon	Sverdlovskiy Rayon	Stalinskiy Rayon,Sverdlovskiy Rayon	58	56.25	A	ADM4	RU		90			485758	0		166	Asia/Yekaterinburg	2011-12-07
+485759	Sverdlovskiy Rayon	Sverdlovskiy Rayon		57.76667	40.91667	A	ADM4	RU		37			485759	0		88	Europe/Moscow	1994-04-09
+490003	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	59.21667	39.9	A	ADM4	RU		85			490003	0		120	Europe/Moscow	2012-01-17
+490007	Sovetskiy Rayon	Sovetskiy Rayon	Molotovskiy Rayon,Sovetskij Rajon,Sovetskiy Rayon,Советский Район	54.737	55.98	A	ADM4	RU		08			490007	0		191	Asia/Yekaterinburg	2025-08-18
+490008	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	54.63333	39.73333	A	ADM4	RU		62			490008	0		114	Europe/Moscow	2012-01-17
+490009	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij,Советский	54.18333	37.59195	A	ADM4	RU		76			490009	0		204	Europe/Moscow	2012-11-26
+490012	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	52.974	36.058	A	ADM4	RU		56			490012	0		202	Europe/Moscow	2025-09-08
+490014	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	52.61667	39.58333	A	ADM4	RU		43			490014	0		165	Europe/Moscow	2012-01-17
+490015	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	51.646	39.141	A	ADM4	RU		86			490015	0		160	Europe/Moscow	2025-08-11
+490016	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	51.2	58.56667	A	ADM4	RU		55			490016	0		193	Asia/Yekaterinburg	2012-01-17
+490017	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	48.669	44.399	A	ADM4	RU		84			490017	0		129	Europe/Volgograd	2025-09-01
+490018	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	47.232	39.621	A	ADM4	RU		61			490018	0		75	Europe/Moscow	2025-09-08
+490020	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	45.03333	39	A	ADM4	RU		38			490020	0		27	Europe/Moscow	2012-01-17
+490021	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	43	44.66667	A	ADM4	RU		68			490021	0		731	Europe/Moscow	2012-01-17
+490921	Solombal’skiy Rayon	Solombal'skiy Rayon	Solombal'skij Rajon,Solombal'skiy Rayon,Solombal’skiy Rayon,Соломбальский Район	64.591	40.513	A	ADM4	RU		06			490921	0		8	Europe/Moscow	2025-09-01
+504755	Promyshlennyy Rayon	Promyshlennyy Rayon	Promyshlennyj Rajon,Promyshlennyy Rayon,Промышленный Район	54.783	32.063	A	ADM4	RU		69			504755	0		216	Europe/Moscow	2025-09-15
+504757	Promyshlennyy Rayon	Promyshlennyy Rayon	Promyshlennyj Rajon,Promyshlennyy Rayon,Промышленный Район	51.779	55.086	A	ADM4	RU		55			504757	0		105	Asia/Yekaterinburg	2025-09-08
+504758	Promyshlennyy Rayon	Promyshlennyy Rayon	Promyshlennyj Rajon,Promyshlennyy Rayon,Промышленный Район	51.7	36.2	A	ADM4	RU		41			504758	0		157	Europe/Moscow	2012-01-17
+504759	Promyshlennyy Rayon	Promyshlennyy Rayon	Promyshlennyj Rajon,Promyshlennyy Rayon,Промышленный Район	47.41667	40.1	A	ADM4	RU		61			504759	0		85	Europe/Moscow	2011-12-07
+504760	Promyshlennyy Rayon	Promyshlennyy Rayon	Promyshlennyj Rajon,Promyshlennyy Rayon,Промышленный Район	45.051	41.927	A	ADM4	RU		70			504760	0		616	Europe/Moscow	2025-09-01
+504761	Promyshlennyy Rayon	Promyshlennyy Rayon	Promyshlennyj Rajon,Promyshlennyy Rayon,Промышленный Район	43.045	44.673	A	ADM4	RU		68			504761	0		670	Europe/Moscow	2025-08-18
+504783	Proletarskiy Rayon	Proletarskiy Rayon	Proletarskij Rajon,Proletarskiy Rayon,Пролетарский Район	58.05	38.83333	A	ADM4	RU		88			504783	0		96	Europe/Moscow	2012-01-17
+504784	Proletarskiy Rayon	Proletarskiy Rayon	Proletarskij Rajon,Proletarskiy Rayon,Пролетарский Район	56.844	35.852	A	ADM4	RU		77			504784	0		126	Europe/Moscow	2025-09-15
+504785	Proletarskiy Rayon	Proletarskiy Rayon	Proletarskij,Пролетарский	54.21411	37.67118	A	ADM4	RU		76			504785	0		204	Europe/Moscow	2012-11-26
+504786	Proletarskiy Rayon	Proletarskiy Rayon	Proletarskij Rajon,Proletarskiy Rayon,Пролетарский Район	54.205	45.166	A	ADM4	RU		46			504786	0		162	Europe/Moscow	2025-08-18
+504787	Proletarskiy Rayon	Proletarskiy Rayon	Proletarskij Rajon,Proletarskiy Rayon,Пролетарский Район	47.231	39.762	A	ADM4	RU		61			504787	0		72	Europe/Moscow	2025-09-08
+505110	Privokzal'nyy Rayon	Privokzal'nyy Rayon	Privokzal'nyj,Привокзальный	54.13443	37.5541	A	ADM4	RU		76			505110	0		169	Europe/Moscow	2012-11-26
+505111	Privokzal’nyy	Privokzal'nyy	Privokzal'nyj,Privokzal'nyy,Privokzalnyj,Привокзальный	56.00011	35.92156	A	ADM4	RU		47	472430		505111	0		190	Europe/Moscow	2022-11-15
+505261	Primorskiy Rayon	Primorskiy Rayon	Primorskij Rajon,Primorskiy Rayon,Приморский Район	44.728	37.746	A	ADM4	RU		38			505261	0		18	Europe/Moscow	2025-09-01
+505339	Prikubanskiy Rayon	Prikubanskiy Rayon	Prikubanskij Rajon,Prikubanskiy Rayon,Прикубанский Район	45.074	39.002	A	ADM4	RU		38			505339	0		47	Europe/Moscow	2025-09-01
+505585	Pravoberezhnyy Rayon	Pravoberezhnyy Rayon	Pravoberezhnyj Rajon,Pravoberezhnyy Rayon,Правобережный Район	52.61667	39.58333	A	ADM4	RU		43			505585	0		165	Europe/Moscow	2012-01-17
+510844	Pervomayskiy Rayon	Pervomayskiy Rayon	Pervomajskij Rajon,Pervomayskiy Rayon,Первомайский Район	68.946	33.08	A	ADM4	RU		49			510844	0		112	Europe/Moscow	2025-09-08
+510845	Pervomayskiy Rayon	Pervomayskiy Rayon	Pervomajskij Rajon,Pervomayskiy Rayon,Первомайский Район	59.13333	37.91667	A	ADM4	RU		85			510845	0		130	Europe/Moscow	2012-01-17
+510846	Pervomayskiy Rayon	Pervomayskiy Rayon	Pervomajskij Rajon,Pervomayskiy Rayon,Первомайский Район	58.55	49.7	A	ADM4	RU		33			510846	0		108	Europe/Kirov	2012-01-17
+510847	Pervomayskiy Rayon	Pervomayskiy Rayon	Pervomajskij Rajon,Pervomayskiy Rayon,Первомайский Район	56.834	53.233	A	ADM4	RU		80			510847	125437		132	Europe/Samara	2025-08-18
+510848	Pervomayskiy Rayon	Pervomayskiy Rayon	Pervomajskij Rajon,Pervomayskiy Rayon,Первомайский Район	53.178	44.997	A	ADM4	RU		57			510848	0		206	Europe/Moscow	2025-09-08
+510849	Pervomayskiy Rayon	Pervomayskiy Rayon	Pervomajskij Rajon,Pervomayskiy Rayon,Stalinskiy Rayon,Первомайский Район	47.263	39.771	A	ADM4	RU		61			510849	0		80	Europe/Moscow	2025-09-08
+510850	Pervomayskiy Rayon	Pervomayskiy Rayon	Pervomajskij Rajon,Pervomayskiy Rayon,Первомайский Район	45.03333	39	A	ADM4	RU		38			510850	0		27	Europe/Moscow	2012-01-17
+515080	Ordzhonikidzevskiy Rayon	Ordzhonikidzevskiy Rayon	Ordzhonikidzevskij Rajon,Ordzhonikidzevskiy Rayon,Орджоникидзевский Район	58.113	56.392	A	ADM4	RU		90			515080	0		170	Asia/Yekaterinburg	2025-09-01
+515081	Ordzhonikidzevskiy Rayon	Ordzhonikidzevskiy Rayon	Ordzhonikidzevskij Rajon,Ordzhonikidzevskiy Rayon,Орджоникидзевский Район	54.824	56.072	A	ADM4	RU		08			515081	0		149	Asia/Yekaterinburg	2025-08-18
+515806	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Mikoyanovskiy Rayon,Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	68.96667	33.08333	A	ADM4	RU		49			515806	0		19	Europe/Moscow	2020-06-10
+515807	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	64.56667	40.53333	A	ADM4	RU		06			515807	0		1	Europe/Moscow	2012-01-17
+515808	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	61.806	34.333	A	ADM4	RU		28			515808	0		44	Europe/Moscow	2025-08-18
+515809	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	61.66667	50.8	A	ADM4	RU		34			515809	0		151	Europe/Moscow	2012-01-17
+515810	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	59.21667	39.9	A	ADM4	RU		85			515810	0		120	Europe/Moscow	2012-01-17
+515811	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	58.617	49.594	A	ADM4	RU		33			515811	0		145	Europe/Kirov	2025-09-08
+515812	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	58.53003	31.29131	A	ADM4	RU		52			515812	0		27	Europe/Moscow	2023-11-07
+515814	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	56.867	53.196	A	ADM4	RU		80			515814	141143		138	Europe/Samara	2025-08-18
+515815	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	56.16667	40.41667	A	ADM4	RU		83			515815	0		101	Europe/Moscow	2012-01-17
+515816	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	54.764	56.018	A	ADM4	RU		08			515816	0		188	Asia/Yekaterinburg	2025-08-18
+515818	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	54.607	39.766	A	ADM4	RU		62			515818	0		153	Europe/Moscow	2025-09-08
+515819	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	54.51667	36.26667	A	ADM4	RU		25			515819	0		197	Europe/Moscow	2012-01-17
+515820	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	53.21667	45	A	ADM4	RU		57			515820	0		164	Europe/Moscow	2012-01-17
+515823	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon		51.526	45.981	A	ADM4	RU		67	498661		515823	0		86	Europe/Saratov	2025-09-08
+515824	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	51.211	58.464	A	ADM4	RU		55			515824	0		204	Asia/Yekaterinburg	2025-09-08
+515826	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	47.23333	39.7	A	ADM4	RU		61			515826	0		59	Europe/Moscow	2011-12-07
+515827	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	45.05	41.96667	A	ADM4	RU		70			515827	0		512	Europe/Moscow	2012-01-17
+515829	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	44.71667	37.78333	A	ADM4	RU		38			515829	0		14	Europe/Volgograd	2012-01-17
+524763	Motovilikhinskiy Rayon	Motovilikhinskiy Rayon	Motovilikhinskij Rajon,Motovilikhinskiy Rayon,Мотовилихинский Район	58.024	56.375	A	ADM4	RU		90			524763	0		168	Asia/Yekaterinburg	2025-09-01
+524909	Moskovskiy Rayon	Moskovskiy Rayon	Moskovskij Rajon,Moskovskiy Rayon,Novopromyshlennyy Rayon,Московский Район	56.85245	35.93542	A	ADM4	RU		77			524909	0		130	Europe/Moscow	2010-08-09
+524913	Moskovskiy Rayon	Moskovskiy Rayon	Moskovskij Rajon,Moskovskiy Rayon,Московский Район	54.645	39.66	A	ADM4	RU		62			524913	0		122	Europe/Moscow	2025-09-08
+524914	Moskovskiy Rayon	Moskovskiy Rayon	Moskovskij Rajon,Moskovskiy Rayon,Московский Район	54.51667	36.26667	A	ADM4	RU		25			524914	0		197	Europe/Moscow	2012-01-17
+534333	Lomonosovskiy Rayon	Lomonosovskiy Rayon	Lomonosovskij Rajon,Lomonosovskiy Rayon,Ломоносовский Район	64.539	40.545	A	ADM4	RU		06			534333	0		8	Europe/Moscow	2025-09-01
+535445	Levoberezhnyy Rayon	Levoberezhnyy Rayon	Levoberezhnyj Rajon,Levoberezhnyy Rayon,Левобережный Район	52.58	39.621	A	ADM4	RU		43			535445	0		125	Europe/Moscow	2025-09-08
+535446	Levoberezhnyy Rayon	Levoberezhnyy Rayon	Levoberezhnyj Rajon,Levoberezhnyy Rayon,Левобережный Район	51.652	39.251	A	ADM4	RU		86			535446	0		102	Europe/Moscow	2025-08-11
+536045	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	68.983	33.077	A	ADM4	RU		49			536045	0		14	Europe/Moscow	2025-09-08
+536046	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	61.81667	34.33333	A	ADM4	RU		28			536046	0		23	Europe/Moscow	2012-01-17
+536047	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	58.575	49.666	A	ADM4	RU		33			536047	0		144	Europe/Kirov	2025-09-08
+536048	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	58.52316	31.2693	A	ADM4	RU		52			536048	0		23	Europe/Moscow	2023-11-07
+536049	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	58.046	56.217	A	ADM4	RU		90			536049	0		115	Asia/Yekaterinburg	2025-09-01
+536050	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	57.91667	59.95	A	ADM4	RU		71			536050	0		194	Asia/Yekaterinburg	2012-01-17
+536051	Leninskiy Rayon	Leninskiy Rayon		57.76667	40.91667	A	ADM4	RU		37			536051	0		88	Europe/Moscow	1994-04-09
+536052	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Stalinskiy Rayon,Ленинский Район	57.63704	39.82312	A	ADM4	RU		88			536052	0		107	Europe/Moscow	2016-07-08
+536054	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	56.83	53.146	A	ADM4	RU		80			536054	112870		120	Europe/Samara	2025-08-18
+536055	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	56.66667	47.91667	A	ADM4	RU		45			536055	0		82	Europe/Moscow	2012-01-17
+536057	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	56.129	40.374	A	ADM4	RU		83			536057	0		160	Europe/Moscow	2025-09-01
+536061	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	54.78333	32.05	A	ADM4	RU		69			536061	0		249	Europe/Moscow	2012-01-17
+536062	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	54.73333	55.93333	A	ADM4	RU		08			536062	0		160	Asia/Yekaterinburg	2012-01-17
+536063	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	54.51667	36.26667	A	ADM4	RU		25			536063	0		197	Europe/Moscow	2012-01-17
+536065	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	54.18333	45.18333	A	ADM4	RU		46			536065	0		158	Europe/Moscow	2012-01-17
+536067	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	53.198	44.999	A	ADM4	RU		57			536067	0		169	Europe/Moscow	2025-09-08
+536070	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	51.75	55.1	A	ADM4	RU		55			536070	0		89	Asia/Yekaterinburg	2012-01-17
+536071	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	51.7	36.2	A	ADM4	RU		41			536071	0		157	Europe/Moscow	2012-01-17
+536072	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Voroshilovskiy Rayon,Ленинский Район	51.63333	39.2	A	ADM4	RU		86			536072	0		135	Europe/Moscow	2012-01-17
+536073	Leninskiy Rayon	Leninskiy Rayon		51.582	45.973	A	ADM4	RU		67			536073	0		139	Europe/Saratov	2025-09-08
+536074	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	51.228	58.519	A	ADM4	RU		55			536074	0		207	Asia/Yekaterinburg	2025-09-08
+536075	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	47.228	39.697	A	ADM4	RU		61			536075	0		62	Europe/Moscow	2025-09-08
+536077	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	45.04	41.971	A	ADM4	RU		70			536077	0		549	Europe/Moscow	2025-09-01
+536078	Leninskiy Rayon	Leninskiy Rayon	Kaganovichskiy Rayon,Leninskij Rajon,Leninskiy Rayon,Ленинский Район	45.03333	39	A	ADM4	RU		38			536078	0		27	Europe/Moscow	2012-01-17
+536079	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	44.71667	37.78333	A	ADM4	RU		38			536079	0		14	Europe/Volgograd	2012-01-17
+536082	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	43	44.66667	A	ADM4	RU		68			536082	0		731	Europe/Moscow	2012-01-17
+538944	Kuratovskiy Rayon	Kuratovskiy Rayon		61.66667	50.8	A	ADM4	RU		34			538944	0		151	Europe/Moscow	1994-04-09
+542274	Krasnoperekopskiy Rayon	Krasnoperekopskiy Rayon		57.60477	39.82166	A	ADM4	RU		88			542274	0		96	Europe/Moscow	2016-07-08
+542286	Krasnooktyabr’skiy Rayon	Krasnooktyabr'skiy Rayon		48.775	44.554	A	ADM4	RU		84			542286	0		60	Europe/Volgograd	2025-09-01
+542440	Krasnoarmeyskiy Rayon	Krasnoarmeyskiy Rayon		48.517	44.506	A	ADM4	RU		84			542440	0		17	Europe/Volgograd	2025-09-01
+545705	Komsomol’skiy Rayon	Komsomol'skiy Rayon		53.487	49.517	A	ADM4	RU		65			545705	0		96	Europe/Samara	2025-09-08
+545835	Kominternovskiy Rayon	Kominternovskiy Rayon	Kominternovskij Rajon,Kominternovskiy Rayon,Коминтерновский Район	51.697	39.183	A	ADM4	RU		86			545835	0		146	Europe/Moscow	2025-08-11
+548365	Kirovskiy Rayon	Kirovskiy Rayon		58.015	55.945	A	ADM4	RU		90			548365	0		124	Asia/Yekaterinburg	2025-09-01
+548366	Kirovskiy Rayon	Kirovskiy Rayon		57.61667	39.86667	A	ADM4	RU		88			548366	0		87	Europe/Moscow	1994-04-09
+548368	Kirovskiy Rayon	Kirovskiy Rayon		54.724	55.933	A	ADM4	RU		08			548368	0		170	Asia/Yekaterinburg	2025-08-18
+548370	Kirovskiy Rayon	Kirovskiy Rayon		51.7	36.2	A	ADM4	RU		41			548370	0		157	Europe/Moscow	1994-04-09
+548371	Kirovskiy Rayon	Kirovskiy Rayon		51.56667	46.03333	A	ADM4	RU		67			548371	0		147	Europe/Saratov	1994-04-09
+548372	Kirovskiy Rayon	Kirovskiy Rayon		48.602	44.475	A	ADM4	RU		84			548372	0		1	Europe/Volgograd	2025-09-01
+548373	Kirovskiy Rayon	Kirovskiy Rayon		47.233	39.723	A	ADM4	RU		61			548373	0		74	Europe/Moscow	2025-09-08
+554180	Kalininskiy Rayon	Kalininskiy Rayon		54.749	56.11	A	ADM4	RU		08			554180	0		78	Asia/Yekaterinburg	2025-08-18
+556382	Industrial’nyy Rayon	Industrial'nyy Rayon		59.13333	37.91667	A	ADM4	RU		85			556382	0		130	Europe/Moscow	1994-04-09
+556383	Industrial’nyy Rayon	Industrial'nyy Rayon		57.942	56.158	A	ADM4	RU		90			556383	0		110	Asia/Yekaterinburg	2025-09-01
+556384	Industrial’nyy Rayon	Industrial'nyy Rayon		56.85	53.23333	A	ADM4	RU		80			556384	108173		145	Europe/Samara	1994-04-09
+562326	Frunzenskiy Rayon	Frunzenskiy Rayon		57.58417	39.88621	A	ADM4	RU		88			562326	0		107	Europe/Moscow	2016-07-08
+562328	Frunzenskiy Rayon	Frunzenskiy Rayon		56.16667	40.41667	A	ADM4	RU		83			562328	0		101	Europe/Moscow	1994-04-09
+562329	Frunzenskiy Rayon	Frunzenskiy Rayon		51.54	45.981	A	ADM4	RU		67			562329	0		94	Europe/Saratov	2025-09-08
+563378	Ezhvinskiy Rayon	Ezhvinskiy Rayon	Ehzhvinskij Rajon,Ezhvinskiy Rayon,Эжвинский Район	61.83333	50.75	A	ADM4	RU		34			563378	0		99	Europe/Moscow	2012-01-17
+563698	Dzerzhinskiy Rayon	Dzerzhinskiy Rayon	Dzerzhinskiy Rayon,Kaganovichskiy Rayon	58.034	56.138	A	ADM4	RU		90			563698	0		117	Asia/Yekaterinburg	2025-09-01
+563699	Dzerzhinskiy Rayon	Dzerzhinskiy Rayon		57.919	60.059	A	ADM4	RU		71			563699	0		250	Asia/Yekaterinburg	2025-09-08
+563700	Dzerzhinskiy Rayon	Dzerzhinskiy Rayon		57.69222	39.78115	A	ADM4	RU		88			563700	0		115	Europe/Moscow	2016-07-08
+563701	Dzerzhinskiy Rayon	Dzerzhinskiy Rayon		51.845	55.124	A	ADM4	RU		55			563701	0		117	Asia/Yekaterinburg	2025-09-08
+563702	Dzerzhinskiy Rayon	Dzerzhinskiy Rayon		48.75	44.41667	A	ADM4	RU		84			563702	0		117	Europe/Volgograd	1997-10-02
+566653	Demskiy Rayon	Demskiy Rayon		54.704	55.853	A	ADM4	RU		08			566653	0		83	Asia/Yekaterinburg	2025-08-18
+570636	Businovo	Businovo	Busino,Businovo,Kokorevo,Бусино,Бусиново,Кокорево	55.88333	37.5	A	ADM4	RU		48	471823	9881974	570636	17400		175	Europe/Moscow	2016-07-13
+1485190	Zheleznodorozhnyy Rayon	Zheleznodorozhnyy Rayon		56.01667	92.83333	A	ADM4	RU		91			1485190	0		153	Asia/Krasnoyarsk	1994-04-19
+1485349	Zavodskiy Rayon	Zavodskiy Rayon		55.33333	86.08333	A	ADM4	RU		29			1485349	0		135	Asia/Novokuznetsk	1994-04-19
+1485350	Zavodskiy Rayon	Zavodskiy Rayon		53.8665	87.20844	A	ADM4	RU		29			1485350	0		196	Asia/Novokuznetsk	2016-07-08
+1488019	Ust’-Yeniseyskiy Rayon	Ust'-Yeniseyskiy Rayon		70.5	84	A	ADM4	RU		91			1488019	0		94	Asia/Krasnoyarsk	2012-08-04
+1489103	Tsentral’nyy Rayon	Tsentral'nyy Rayon		57.167	65.555	A	ADM4	RU		78			1489103	0		47	Asia/Yekaterinburg	2025-09-15
+1489104	Tsentral’nyy Rayon	Tsentral'nyy Rayon	Stalinskiy Rayon,Tsentral'nyy Rayon,Tsentral’nyy Rayon	56.04194	92.87447	A	ADM4	RU		91			1489104	0		215	Asia/Krasnoyarsk	2016-07-08
+1489105	Tsentral’nyy Rayon	Tsentral'nyy Rayon		55.352	86.082	A	ADM4	RU		29			1489105	0		141	Asia/Novokuznetsk	2025-09-01
+1489108	Tsentral’nyy Rayon	Tsentral'nyy Rayon		55	73.4	A	ADM4	RU		54			1489108	0		98	Asia/Omsk	1994-04-19
+1489109	Tsentral’nyy Rayon	Tsentral'nyy Rayon		53.88333	86.75	A	ADM4	RU		29			1489109	0		288	Asia/Novokuznetsk	1994-04-19
+1489110	Tsentral’nyy Rayon	Tsentral'nyy Rayon		53.77824	87.10802	A	ADM4	RU		29			1489110	0		200	Asia/Novokuznetsk	2016-07-08
+1490540	Sverdlovskiy Rayon	Sverdlovskiy Rayon		55.95804	92.83791	A	ADM4	RU		91			1490540	0		375	Asia/Krasnoyarsk	2016-07-08
+1491220	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	56.479	84.983	A	ADM4	RU		75			1491220	0		108	Asia/Tomsk	2025-09-15
+1491221	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	56.06686	92.97729	A	ADM4	RU		91			1491221	0		176	Asia/Krasnoyarsk	2016-07-08
+1491222	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	55.43333	65.3	A	ADM4	RU		40			1491222	0		79	Asia/Yekaterinburg	2012-01-17
+1491224	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij AO,Sovetskij Rajon,Sovetskij administrativnyj okrug,Sovetskij okrug,Sovetskiy Rayon,Stalinskiy Rayon,Советский АО,Советский Район,Советский административный округ,Советский округ	55.022	73.314	A	ADM4	RU		54			1491224	0		97	Asia/Omsk	2025-09-08
+1493454	Rudnichnyy Rayon	Rudnichnyy Rayon	Rudnichnyj Rajon,Rudnichnyy Rayon,Рудничный Район	55.39	86.106	A	ADM4	RU		29			1493454	0		231	Asia/Novokuznetsk	2025-09-01
+1493455	Rudnichnyy Rayon	Rudnichnyy Rayon	Rudnichnyj Rajon,Rudnichnyy Rayon,Рудничный Район	53.883	86.718	A	ADM4	RU		29			1493455	0		297	Asia/Novokuznetsk	2025-09-01
+1495261	Pervomayskiy Rayon	Pervomayskiy Rayon	Pervomajskij Rajon,Pervomayskiy Rayon,Первомайский Район	55.43333	65.3	A	ADM4	RU		40			1495261	0		79	Asia/Yekaterinburg	2012-01-17
+1495263	Pervomayskiy Rayon	Pervomayskiy Rayon	Pervomajskij Rajon,Pervomayskiy Rayon,Первомайский Район	55.00061	73.39924	A	ADM4	RU		54			1495263	0		98	Asia/Omsk	2025-03-11
+1496097	Ordzhonikidzevskiy Rayon	Ordzhonikidzevskiy Rayon	Ordzhonikidzevskij Rajon,Ordzhonikidzevskiy Rayon,Орджоникидзевский Район	53.81464	87.31007	A	ADM4	RU		29			1496097	0		320	Asia/Novokuznetsk	2016-07-08
+1496259	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Mikoyanovskiy Rayon,Mikoyanskiy Rayon,Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	62.16667	66	A	ADM4	RU		32			1496259	0		22	Asia/Yekaterinburg	2020-06-10
+1496260	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon		56.5	84.96667	A	ADM4	RU		75			1496260	0		117	Asia/Krasnoyarsk	1997-09-19
+1496261	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Kaganovichskiy Rayon,Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	56.01259	92.74727	A	ADM4	RU		91			1496261	0		276	Asia/Krasnoyarsk	2016-07-08
+1496262	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	55.43333	65.3	A	ADM4	RU		40			1496262	0		79	Asia/Yekaterinburg	2012-01-17
+1496264	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	54.966	73.415	A	ADM4	RU		54			1496264	0		110	Asia/Omsk	2025-09-08
+1497916	Nefteyuganskiy Rayon	Nefteyuganskiy Rayon	Neftejuganskij Rajon,Nefteyuganskiy Rayon,Нефтеюганский Район	61.062	72.693	A	ADM4	RU		32			1497916	0		36	Asia/Yekaterinburg	2025-09-15
+1500666	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	57.148	65.618	A	ADM4	RU		78			1500666	0		53	Asia/Yekaterinburg	2025-09-15
+1500668	Leninskiy Rayon	Leninskiy Rayon		56.506	84.966	A	ADM4	RU		75			1500668	0		109	Asia/Tomsk	2025-09-15
+1500669	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	56.0241	93.04665	A	ADM4	RU		91			1500669	0		141	Asia/Krasnoyarsk	2016-07-08
+1500670	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	55.335	86.156	A	ADM4	RU		29			1500670	0		184	Asia/Novokuznetsk	2025-09-01
+1500673	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskij okrug,Leninskiy Rayon,Ленинский Район,Ленинский округ	54.92	73.397	A	ADM4	RU		54			1500673	0		87	Asia/Omsk	2025-09-08
+1501130	Kuybyshevskiy Rayon	Kuybyshevskiy Rayon		54.9999	73.40027	A	ADM4	RU		54			1501130	0		98	Asia/Omsk	2025-03-11
+1501131	Kuybyshevskiy Rayon	Kuybyshevskiy Rayon		53.71266	87.06116	A	ADM4	RU		29			1501131	0		322	Asia/Novokuznetsk	2016-07-08
+1502719	Komsomol’skiy Rayon	Komsomol'skiy Rayon		67.5	64	A	ADM4	RU		34			1502719	0		170	Europe/Moscow	1994-04-19
+1503318	Kirovskiy Rayon	Kirovskiy Rayon	Kirovskij rajon,Кировский район	56.458	84.96	A	ADM4	RU		75			1503318	0		124	Asia/Tomsk	2025-09-15
+1503319	Kirovskiy Rayon	Kirovskiy Rayon		55.99464	92.95704	A	ADM4	RU		91			1503319	0		176	Asia/Krasnoyarsk	2022-02-21
+1503320	Kirovskiy Rayon	Kirovskiy Rayon		55.39	86.033	A	ADM4	RU		29			1503320	0		145	Asia/Novokuznetsk	2025-09-01
+1503322	Kirovskiy Rayon	Kirovskiy Rayon		54.976	73.315	A	ADM4	RU		54			1503322	0		96	Asia/Omsk	2025-09-08
+1503771	Khanty-Mansiyskiy Rayon	Khanty-Mansiyskiy Rayon	Khanty-Mansiyskiy Rayon,Samarovskiy Rayon	61	69	A	ADM4	RU		32			1503771	0		92	Asia/Yekaterinburg	2012-01-17
+1505032	Kalininskiy Rayon	Kalininskiy Rayon		57.15	65.43333	A	ADM4	RU		78			1505032	0		105	Asia/Yekaterinburg	1997-07-14
+1506256	Gornyatskiy Rayon	Gornyatskiy Rayon		67.52764	64.0934	A	ADM4	RU		34			1506256	0		189	Europe/Moscow	2024-05-14
+1510198	Berezovskiy Rayon	Berezovskiy Rayon	Berezovskiy Rayon	64	65	A	ADM4	RU		32			1510198	0		8	Asia/Yekaterinburg	2016-11-21
+1510687	Baykitskiy Rayon	Baykitskiy Rayon		61.33333	97	A	ADM4	RU		91			1510687	0		404	Asia/Krasnoyarsk	2010-08-22
+2012560	Zheleznodorozhnyy Rayon	Zheleznodorozhnyy Rayon	Zheleznodorozhnyj rajon,Железнодорожный район	48.49033	135.12737	A	ADM4	RU		30			2012560	0		75	Asia/Vladivostok	2016-07-08
+2014872	Tungussko-Chunskiy Rayon	Tungussko-Chunskiy Rayon		61.5	102	A	ADM4	RU		91			2014872	0		446	Asia/Krasnoyarsk	2010-08-22
+2015008	Tsentral’nyy Rayon	Tsentral'nyy Rayon	Central'nyj rajon,Центральный район	48.47804	135.07605	A	ADM4	RU		30			2015008	0		75	Asia/Vladivostok	2016-07-08
+2016201	Sovetskiy Rayon	Sovetskiy Rayon	Sovetskij Rajon,Sovetskiy Rayon,Советский Район	43.228	132.046	A	ADM4	RU		59			2016201	0		72	Asia/Vladivostok	2025-09-01
+2018019	Pervorechenskiy Rayon	Pervorechenskiy Rayon	Pervorechenskij Rajon,Pervorechenskiy Rayon,Первореченский Район	43.13333	131.9	A	ADM4	RU		59			2018019	0		52	Asia/Vladivostok	2012-01-17
+2018020	Pervomayskiy Rayon	Pervomayskiy Rayon	Pervomajskij Rajon,Pervomayskiy Rayon,Первомайский Район	43.09	131.926	A	ADM4	RU		59			2018020	0		52	Asia/Vladivostok	2025-09-01
+2020846	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	43.117	131.962	A	ADM4	RU		59			2020846	0		177	Asia/Vladivostok	2025-09-01
+2021623	Krasnoflotskiy Rayon	Krasnoflotskiy Rayon	Krasnoflotskij rajon,Краснофлотский район	48.56548	135.07244	A	ADM4	RU		30			2021623	0		66	Asia/Vladivostok	2016-07-08
+2022061	Kirovskiy Rayon	Kirovskiy Rayon	Kirovskij rajon,Кировский район	48.47838	135.04927	A	ADM4	RU		30			2022061	0		66	Asia/Vladivostok	2016-07-08
+2023546	Industrial’nyy Rayon	Industrial'nyy Rayon	Industrial'nyj rajon,Industrial'nyy Rayon,Industrial’nyy Rayon,Stalinskij rajon,Stalinskiy Rayon,Индустриальный район,Сталинский район	48.41371	135.09407	A	ADM4	RU		30			2023546	0		33	Asia/Vladivostok	2016-07-08
+2024226	Frunzenskiy Rayon	Frunzenskiy Rayon		43.13333	131.9	A	ADM4	RU		59			2024226	0		52	Asia/Vladivostok	1994-04-19
+2122579	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij Rajon,Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Октябрьский Район	53.01667	158.65	A	ADM4	RU		92			2122579	0		27	Asia/Kamchatka	2012-01-17
+2123810	Leninskiy Rayon	Leninskiy Rayon	Leninskij Rajon,Leninskiy Rayon,Ленинский Район	53.01667	158.65	A	ADM4	RU		92			2123810	0		27	Asia/Kamchatka	2012-01-17

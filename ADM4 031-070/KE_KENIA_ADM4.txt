@@ -1,0 +1,6 @@
+﻿189861	Kyeni Location	Kyeni Location	Kieni,Kyeni Location	-0.45	37.65	A	ADM4	KE		15			189861	0		1285	Africa/Nairobi	2017-02-08
+7867515	Kinango South Location	Kinango South Location		-4.12447	39.36591	A	ADM4	KE		28			7867515	0		217	Africa/Nairobi	2013-09-11
+7867522	Mwaluphamba Location	Mwaluphamba Location		-4.20944	39.33783	A	ADM4	KE		28			7867522	0		190	Africa/Nairobi	2013-09-11
+7867542	Kinango North Location	Kinango North Location		-4.06332	39.42321	A	ADM4	KE		28			7867542	0		175	Africa/Nairobi	2013-09-11
+7867544	Kilibole East Location	Kilibole East Location		-4.01082	39.47522	A	ADM4	KE		28			7867544	0		172	Africa/Nairobi	2013-09-11
+7867556	Matuga Location	Matuga Location		-4.20228	39.45925	A	ADM4	KE		28			7867556	0		256	Africa/Nairobi	2013-09-11

@@ -1,0 +1,123 @@
+﻿2279169	Sous-préfecture de Zuénoula	Sous-prefecture de Zuenoula	Sous-prefecture de Zuenoula,Sous-préfecture de Zuénoula,Zuenoula,Zuénoula	7.39264	-6.07837	A	ADM4	CI		96	11153167	2279171	2279169	0		205	Africa/Abidjan	2026-03-10
+2279234	Zouan-Hounien	Zouan-Hounien	Sous-prefecture de Zouan-Hounien,Sous-préfecture de Zouan-Hounien,Zouan-Hounian,Zouan-Hounien	6.86979	-8.2614	A	ADM4	CI		78	11153165	11153414	2279234	0		256	Africa/Abidjan	2022-02-17
+2279753	Yamoussoukro	Yamoussoukro	Sous-prefecture de Yamoussoukro,Sous-préfecture de Yamoussoukro,Yamoussokro,Yamoussoukro	6.85205	-5.29854	A	ADM4	CI		98	11153154	2279754	2279753	0		214	Africa/Abidjan	2022-02-17
+2280042	Vavoua	Vavoua	Sous-prefecture de Vavoua,Sous-préfecture de Vavoua,Vavoua	7.28802	-6.52915	A	ADM4	CI		96	11153166	2280044	2280042	0		266	Africa/Abidjan	2022-02-17
+2280313	Toumodi	Toumodi	Sous-prefecture de Toumodi,Sous-préfecture de Toumodi,Toumodi	6.51889	-5.00053	A	ADM4	CI		81	11153154	2280314	2280313	0		133	Africa/Abidjan	2022-02-17
+2280334	Sous-préfecture de Toulépleu	Sous-prefecture de Toulepleu	Sous-prefecture de Toulepleu,Sous-préfecture de Toulépleu	6.5876	-8.42644	A	ADM4	CI		78	11153163	2595343	2280334	0		320	Africa/Abidjan	2019-01-21
+2280372	Touba	Touba	Sous-prefecture de Touba,Sous-préfecture de Touba,Touba	8.2595	-7.61126	A	ADM4	CI		97	2597334	2280373	2280372	0		484	Africa/Abidjan	2022-02-17
+2280587	Sous-préfecture de Tengréla	Sous-prefecture de Tengrela	Sous-prefecture de Tengrela,Sous-prefecture de Tingrela,Sous-préfecture de Tengréla,Sous-préfecture de Tingréla,Tengrela,Tengréla	10.39649	-6.45998	A	ADM4	CI		87	11153168		2280587	0		360	Africa/Abidjan	2026-03-10
+2280679	Tienko	Tienko	Sous-prefecture de Tienko,Sous-préfecture de Tienko,Tienko	10.1616	-7.45099	A	ADM4	CI		77	11153080		2280679	0		417	Africa/Abidjan	2022-02-17
+2280687	Sous-préfecture de Tiéningboué	Sous-prefecture de Tieningboue	Sous-prefecture de Tieningboue,Sous-préfecture de Tiéningboué,Tienigbe,Tieningboue,Tieninghoue,Tiéningboué	8.14426	-5.83932	A	ADM4	CI		97	11153172	2284587	2280687	0		300	Africa/Abidjan	2026-03-10
+2280740	Tiebissou	Tiebissou	Sous-prefecture de Tiebissou,Sous-préfecture de Tiebissou,Tiebissou	7.21338	-5.14883	A	ADM4	CI		81	11153154	2595342	2280740	0		231	Africa/Abidjan	2022-02-17
+2280759	Sous-préfecture de Tiassalé	Sous-prefecture de Tiassale	Sous-prefecture de Tiassale,Sous-préfecture de Tiassalé,Tiassale,Tiassalé	5.91442	-4.89449	A	ADM4	CI		82	11153160	2280760	2280759	0		55	Africa/Abidjan	2026-03-10
+2280867	Sous-préfecture de Téhini	Sous-prefecture de Tehini	Sous-prefecture de Teheni,Sous-prefecture de Tehini,Sous-préfecture de Teheni,Sous-préfecture de Téhini,Tehini,Téhini	9.70923	-3.73079	A	ADM4	CI		92	11153175	11153403	2280867	0		301	Africa/Abidjan	2026-03-10
+2280993	Tanda	Tanda	Sous-prefecture de Tanda,Sous-préfecture de Tanda,Tanda	7.79535	-3.11761	A	ADM4	CI		92	11153176	2280994	2280993	0		269	Africa/Abidjan	2022-02-17
+2281073	Sous-préfecture de Taï	Sous-prefecture de Tai	Sous-prefecture de Tai,Sous-préfecture de Taï,Tai,Taï	5.84787	-7.31304	A	ADM4	CI		78	11153163	11153402	2281073	0		222	Africa/Abidjan	2026-03-10
+2281116	Tabou	Tabou	Sous-prefecture de Tabou,Sous-préfecture de Tabou,Tabou	4.51784	-7.36891	A	ADM4	CI		76	11153077	2281118	2281116	0		31	Africa/Abidjan	2022-02-17
+2281286	Sous-préfecture de Soubré	Sous-prefecture de Soubre	Soubre,Soubré,Sous-prefecture de Soubre,Sous-préfecture de Soubré	5.84589	-6.62891	A	ADM4	CI		76	11153076	2281288	2281286	0		164	Africa/Abidjan	2026-03-10
+2281561	Sirasso	Sirasso	Sirasso,Sous-prefecture de Sirasso,Sous-préfecture de Sirasso	9.23271	-6.07197	A	ADM4	CI		87	11153169	2286303	2281561	0		356	Africa/Abidjan	2022-02-17
+2281603	Sinfra	Sinfra	Sinfra,Sous-prefecture de Sinfra,Sous-préfecture de Sinfra	6.61486	-5.8791	A	ADM4	CI		96	11153167	2281605	2281603	0		246	Africa/Abidjan	2022-02-17
+2281608	Sinematiali	Sinematiali	Sinemaliali,Sinematiali,Sinémaliali,Sous-prefecture de Sinematiali,Sous-préfecture de Sinématiali	9.55833	-5.39167	A	ADM4	CI		87	11153169	11153399	2281608	0		369	Africa/Abidjan	2022-02-17
+2281642	Sikensi	Sikensi	Sikensi,Sikenssi,Sous-prefecture de Sikensi,Sous-préfecture de Sikensi	5.61486	-4.61042	A	ADM4	CI		82	11153160	11153397	2281642	0		82	Africa/Abidjan	2022-02-17
+2281649	Sous-préfecture de Sifié	Sous-prefecture de Sifie	Sifie,Sifié,Sous-prefecture de Sifie,Sous-préfecture de Sifié	7.96044	-6.97261	A	ADM4	CI		97	11153174	2281867	2281649	0		286	Africa/Abidjan	2026-03-10
+2281864	Sous-préfecture de Séguélon	Sous-prefecture de Seguelon	Seguelon,Sous-prefecture de Seguelo,Sous-prefecture de Seguelon,Sous-préfecture de Séguélo,Sous-préfecture de Séguélon,Séguélon	9.32816	-7.17891	A	ADM4	CI		77	11153082	11153396	2281864	0		476	Africa/Abidjan	2026-03-10
+2281866	Sous-préfecture de Séguéla	Sous-prefecture de Seguela	Seguela,Sous-prefecture de Seguela,Sous-préfecture de Séguéla,Séguéla	7.91229	-6.71135	A	ADM4	CI		97	11153174	2281867	2281866	0		322	Africa/Abidjan	2026-03-10
+2281946	Sassandra	Sassandra	Sassandra,Sous-prefecture de Sassandra,Sous-préfecture de Sassandra	5.33333	-6.16667	A	ADM4	CI		76		2281946	2281946	0		180	Africa/Abidjan	2022-02-17
+2282177	Sakassou	Sakassou	Sakassou,Sous-prefecture de Sakasso,Sous-prefecture de Sakassou,Sous-préfecture de Sakasso,Sous-préfecture de Sakassou	7.42909	-5.34957	A	ADM4	CI		90	11153170	2282171	2282177	0		231	Africa/Abidjan	2022-02-17
+2282272	Prikro	Prikro	Prikro,Sous-prefecture de Prikro,Sous-préfecture de Prikro	7.67059	-4.03016	A	ADM4	CI		81	11153155	11153393	2282272	0		217	Africa/Abidjan	2022-02-17
+2282798	Ouragahio	Ouragahio	Ouaragahio,Ouragahio,Sous-prefecture d'Ouragahio,Sous-préfecture d'Ouragahio	6.29011	-6.01689	A	ADM4	CI		95		2282798	2282798	0		243	Africa/Abidjan	2022-02-17
+2282824	Sous-préfecture d'Oumé	Sous-prefecture d'Oume	Oume,Oumé,Sous-prefecture d'Oume,Sous-préfecture d'Oumé	6.42261	-5.45413	A	ADM4	CI		95	11153083	2282826	2282824	0		161	Africa/Abidjan	2026-03-10
+2283014	Sous-préfecture d'Odienné	Sous-prefecture d'Odienne	Odienne,Odienné,Sous-prefecture d'Odienne,Sous-préfecture d'Odienné	9.489	-7.60556	A	ADM4	CI		77	11153082	2283015	2283014	0		427	Africa/Abidjan	2026-03-10
+2283615	Niakaramandougou	Niakaramandougou	Niakaramandougou,Niankaramandougou,Sous-prefecture de Niakaramandougou,Sous-préfecture de Niakaramandougou	8.63683	-5.33312	A	ADM4	CI		90	11153171	11153330	2283615	0		336	Africa/Abidjan	2022-02-17
+2283915	Nassian	Nassian	Nassian,Sous-prefecture de Nassian,Sous-préfecture de Nassian	8.39913	-3.49851	A	ADM4	CI		92	11153175	11153323	2283915	0		338	Africa/Abidjan	2022-02-17
+2283929	Sous-préfecture de Napiéoledougou	Sous-prefecture de Napieoledougou	Napieoledougou,Napieouledougou,Napiéoledougou,Napiéouledougou,Niapleodougou,Sous-prefecture de Napieoledougou,Sous-préfecture de Napiéoledougou	9.24577	-5.5674	A	ADM4	CI		87	11153169	2286303	2283929	0		332	Africa/Abidjan	2026-03-10
+2284459	Sous-préfecture de M'Bengué	Sous-prefecture de M'Bengue	M'Bengue,M'Bengué,Sous-prefecture de M'Bengue,Sous-prefecture de Mbingue,Sous-préfecture de M'Bengué,Sous-préfecture de Mbingué	9.95487	-5.87154	A	ADM4	CI		87	11153169	11153321	2284459	0		332	Africa/Abidjan	2019-12-03
+2284476	M'batto	M'batto	Dimbokro-Sud,M'Bato,M'batto,Sous-prefecture de M'batto,Sous-préfecture de M'batto	6.42388	-4.29732	A	ADM4	CI		94	11153156	11153319	2284476	0		208	Africa/Abidjan	2025-02-18
+2284487	M'bahiakro	M'bahiakro	M'bahiakro,Sous-prefecture de M'bahiakro,Sous-préfecture de M'bahiakro	7.50083	-4.32803	A	ADM4	CI		81	11153155	2284488	2284487	0		126	Africa/Abidjan	2022-02-17
+2284586	Mankono	Mankono	Mankono,Sous-prefecture de Mankono,Sous-préfecture de Mankono	8.08196	-6.1461	A	ADM4	CI		97	11153172	2284587	2284586	74165		314	Africa/Abidjan	2022-12-14
+2284645	Man	Man	Man,Sous-prefecture de Man,Sous-préfecture de Man	7.40165	-7.64406	A	ADM4	CI		78	11153165	2284646	2284645	241969		343	Africa/Abidjan	2022-12-14
+2284760	Madinani	Madinani	Madianani,Madinani,Sous-prefecture de Madinani,Sous-préfecture de Madinani	9.55196	-6.95878	A	ADM4	CI		77	11153082	11153317	2284760	0		496	Africa/Abidjan	2022-02-17
+2285447	Lakota	Lakota	Lakota,Sous-prefecture de Lakota,Sous-préfecture de Lakota	5.89607	-5.69066	A	ADM4	CI		95	11153153	2285448	2285447	0		249	Africa/Abidjan	2022-02-17
+2285705	Kouto	Kouto	Kouto,Sous-prefecture de Kouto,Sous-préfecture de Kouto	9.98462	-6.39619	A	ADM4	CI		87	11153168	11153316	2285705	55893		378	Africa/Abidjan	2022-12-14
+2285904	Kouibly	Kouibly	Kouibly,Sous-prefecture de Kouibli,Sous-prefecture de Kouibly,Sous-préfecture de Kouibli,Sous-préfecture de Kouibly	7.22778	-7.29815	A	ADM4	CI		78	11153164	11153313	2285904	0		321	Africa/Abidjan	2022-02-17
+2285996	Kouassi Kouassikro	KouassiKouassikro	Kouassi Kouassikro,Kouassi-Kouassikro,KouassiKouassikro,Kouassikro,Sous-prefecture de Kouassi Kouassikro,Sous-préfecture de Kouassi Kouassikro	7.28186	-4.65691	A	ADM4	CI		81	11153158	11153312	2285996	0		194	Africa/Abidjan	2022-02-17
+2286301	Korhogo	Korhogo	Korhogo,Sous-prefecture de Korhogo,Sous-préfecture de Korhogo	9.46442	-5.73745	A	ADM4	CI		87	11153169	2286303	2286301	440926		363	Africa/Abidjan	2022-12-14
+2286457	Kong	Kong	Kong,Sous-prefecture de Kong,Sous-préfecture de Kong	9.13611	-4.68137	A	ADM4	CI		87	11153177	11153310	2286457	33391		319	Africa/Abidjan	2022-12-14
+2286630	Kolia	Kolia	Kolia,Sous-prefecture de Kolia,Sous-préfecture de Kolia	9.68458	-6.57812	A	ADM4	CI		87	11153168	11153316	2286630	32113		425	Africa/Abidjan	2022-12-14
+2287294	Katiola	Katiola	Katiola,Sous-prefecture de Katiola,Sous-préfecture de Katiola	8.05868	-5.12167	A	ADM4	CI		90	11153171	2287296	2287294	0		282	Africa/Abidjan	2022-02-17
+2287478	Kani	Kani	Kani,Sous-prefecture de Kani,Sous-préfecture de Kani	8.48364	-6.6002	A	ADM4	CI		97		2287478	2287478	0		336	Africa/Abidjan	2022-02-17
+2287777	Sous-prefecture de Jacqueville	Sous-prefecture de Jacqueville	Jacqueville,Sous-prefecture de Jacqueville	5.19001	-4.52888	A	ADM4	CI		82	11153161	2595341	2287777	0		9	Africa/Abidjan	2026-03-10
+2287788	Issia	Issia	Issia,Sous-prefecture d'Issia,Sous-préfecture d'Issia	6.47783	-6.63211	A	ADM4	CI		96	11153166		2287788	126252		223	Africa/Abidjan	2022-12-14
+2287926	Guitri	Guitri	Guitri,Guitry,Sous-prefecture de Guitri,Sous-préfecture de Guitri	5.49734	-5.19553	A	ADM4	CI		95		2287926	2287926	0		39	Africa/Abidjan	2022-02-17
+2287956	Guiglo	Guiglo	Guiglo,Sous-prefecture de Guiglo,Sous-préfecture de Guiglo	6.40487	-7.64119	A	ADM4	CI		78	11153163	2287957	2287956	171454		268	Africa/Abidjan	2022-12-14
+2287969	Sous-préfecture de Guibéroua	Sous-prefecture de Guiberoua	Guiberoua,Guibéroua,Sous-prefecture de Guiberoua,Sous-préfecture de Guibéroua	6.22112	-6.20668	A	ADM4	CI		95	11153083	2288828	2287969	0		219	Africa/Abidjan	2026-03-10
+2288090	Gregbeu	Gregbeu	Gregbeu,Sous-prefecture de Gregbeu,Sous-préfecture de Gregbeu	6.81915	-6.77763	A	ADM4	CI		96	11153166	11153415	2288090	0		224	Africa/Abidjan	2022-02-17
+2288103	Grand-Lahou	Grand-Lahou	Grand-Lahou,Sous-prefecture de Grand-Lahou,Sous-préfecture de Grand-Lahou	5.32261	-4.9557	A	ADM4	CI		82	11153161	2288104	2288103	77000		17	Africa/Abidjan	2023-12-21
+2288111	Sous-préfecture de Grand-Béréby	Sous-prefecture de Grand-Bereby	Grand-Bereby,Grand-Béréby,Sous-prefecture de Grand-Bereby,Sous-préfecture de Grand-Béréby	4.69339	-7.10672	A	ADM4	CI		76	11153077	2282004	2288111	0		33	Africa/Abidjan	2026-03-10
+2288113	Grand-Bassam	Grand-Bassam	Grand-Bassam,Sous-prefecture de Grand-Bassam,Sous-préfecture de Grand-Bassam	5.22569	-3.77635	A	ADM4	CI		94	11153079		2288113	124567		7	Africa/Abidjan	2022-12-14
+2288124	Grabo	Grabo	Grabo,Sous-prefecture de Grabo,Sous-préfecture de Grabo	4.91298	-7.46003	A	ADM4	CI		76	11153077	2281118	2288124	0		61	Africa/Abidjan	2022-02-17
+2288180	Goulia	Goulia	Goulia,Sous-prefecture de Goulia,Sous-préfecture de Goulia	10.00669	-7.2031	A	ADM4	CI		77	11153080	11153307	2288180	0		439	Africa/Abidjan	2022-02-17
+2288410	Gohitafla	Gohitafla	Gohitafla,Gouitafla,Sous-prefecture de Gohitafla,Sous-préfecture de Gohitafla	7.50268	-5.852	A	ADM4	CI		96	11153167	2279171	2288410	0		278	Africa/Abidjan	2022-02-17
+2288827	Gagnoa	Gagnoa	Gagnoa,Sous-prefecture de Gagnoa,Sous-préfecture de Gagnoa	6.09841	-6.04671	A	ADM4	CI		95	11153083	2288828	2288827	0		229	Africa/Abidjan	2022-02-17
+2288867	Fresco	Fresco	Fresco,Sous-prefecture de Fresco,Sous-préfecture de Fresco	5.11541	-5.67962	A	ADM4	CI		76	11153075	11153297	2288867	0		64	Africa/Abidjan	2022-02-17
+2289047	Sous-préfecture de Ferkessédougou	Sous-prefecture de Ferkessedougou	Ferekesedugu,Ferkessedougou,Ferkessédougou,Sous-prefecture de Ferkessedougou,Sous-préfecture de Ferkessédougou	9.70281	-5.17827	A	ADM4	CI		87	11153177	2289048	2289047	0		315	Africa/Abidjan	2026-03-10
+2289290	Facobly	Facobly	Facobly,Fakobli,Sous-prefecture de Facobly,Sous-prefecture de Fakobli,Sous-préfecture de Facobly,Sous-préfecture de Fakobli	7.37203	-7.41851	A	ADM4	CI		78	11153164	11153296	2289290	0		349	Africa/Abidjan	2022-02-17
+2289546	Sous-préfecture de Duékoué	Sous-prefecture de Duekoue	Duekoue,Duékoué,Sous-prefecture de Duekoue,Sous-préfecture de Duékoué	6.69979	-7.4581	A	ADM4	CI		78	11153164	2289548	2289546	0		263	Africa/Abidjan	2026-03-10
+2289883	Sous-prefecture de Divo	Sous-prefecture de Divo	Divo,Sous-prefecture de Divo	5.78437	-5.38165	A	ADM4	CI		95	11153153	2289886	2289883	0		150	Africa/Abidjan	2026-03-10
+2289980	Dimbokro	Dimbokro	Dimbokro,Dimbokro-Nord,Sous-prefecture de Dimbokro,Sous-préfecture de Dimbokro	6.66261	-4.70413	A	ADM4	CI		81	11153158	2289981	2289980	0		115	Africa/Abidjan	2022-02-17
+2289999	Dikodougou	Dikodougou	Dikodougou,Sous-prefecture de Dikodougou,Sous-préfecture de Dikodougou	8.94574	-5.85138	A	ADM4	CI		87	11153169	11153293	2289999	0		387	Africa/Abidjan	2022-02-17
+2290116	Sous-préfecture de Didiévi	Sous-prefecture de Didievi	Didievi,Didiévi,Sous-prefecture de Didievi,Sous-préfecture de Didiévi	7.05995	-4.85627	A	ADM4	CI		81	11153154	11153292	2290116	0		207	Africa/Abidjan	2026-03-10
+2290172	Diawala	Diawala	Diaoula,Diawala,Sous-prefecture de Diaouala,Sous-prefecture de Diawala,Sous-préfecture de Diaouala,Sous-préfecture de Diawala	9.99396	-5.50811	A	ADM4	CI		87	11153177	11153332	2290172	0		402	Africa/Abidjan	2022-02-17
+2290176	Dianra	Dianra	Dianra,Sous-prefecture de Dianra,Sous-préfecture de Dianra	8.66599	-6.25946	A	ADM4	CI		97	11153172	11153291	2290176	0		340	Africa/Abidjan	2022-02-17
+2290254	Diabo	Diabo	Diabo,Sous-prefecture de Diabo,Sous-préfecture de Diabo	7.82527	-5.18418	A	ADM4	CI		90	11153170	11153288	2290254	0		328	Africa/Abidjan	2022-02-17
+2290409	Sous-préfecture de Daoukro-Ouéllé	Sous-prefecture de Daoukro-Ouelle	Daoukro,Daoukro-Ouelle,Sous-prefecture de Daoukro-Ouele,Sous-prefecture de Daoukro-Ouelle,Sous-préfecture de Daoukro-Ouele,Sous-préfecture de Daoukro-Ouéllé	7.25	-3.86667	A	ADM4	CI		81	11153155	2290410	2290409	0		249	Africa/Abidjan	2017-04-18
+2290460	Sous-préfecture de Danané	Sous-prefecture de Danane	Danane,Danané,Sous-prefecture de Danane,Sous-préfecture de Danané	7.21631	-8.21762	A	ADM4	CI		78	11153165	2290461	2290460	0		333	Africa/Abidjan	2026-03-10
+2290484	Daloa	Daloa	Daloa,Sous-prefecture de Daloa,Sous-préfecture de Daloa	6.86219	-6.42071	A	ADM4	CI		96		2290484	2290484	0		231	Africa/Abidjan	2022-02-17
+2290581	Dabou	Dabou	Dabou,Sous-prefecture de Dabou,Sous-préfecture de Dabou	5.35466	-4.39998	A	ADM4	CI		82	11153161	2595339	2290581	0		62	Africa/Abidjan	2022-02-17
+2290607	Dabakala	Dabakala	Dabakala,Sous-prefecture de Dabakala,Sous-préfecture de Dabakala	8.33139	-4.36548	A	ADM4	CI		90	11153171	2290608	2290607	0		241	Africa/Abidjan	2022-02-17
+2290645	Buyo	Buyo	Buyo,Sous-prefecture de Buyo,Sous-préfecture de Buyo	6.26335	-7.08109	A	ADM4	CI		76	11153076	11153290	2290645	0		196	Africa/Abidjan	2022-02-17
+2290705	Brobo	Brobo	Bobro,Brobo,Sous-prefecture de Brobo,Sous-préfecture de Brobo	7.63258	-4.84949	A	ADM4	CI		90	11153170	2290954	2290705	0		228	Africa/Abidjan	2022-02-17
+2290834	Boundiali	Boundiali	Boundiali,Sous-prefecture de Boundiali,Sous-préfecture de Boundiali	9.40627	-6.64035	A	ADM4	CI		87	11153168	2290835	2290834	0		396	Africa/Abidjan	2022-02-17
+2290846	Bouna	Bouna	Bouna,Sous-prefecture de Bouna,Sous-préfecture de Bouna	9.28822	-2.9766	A	ADM4	CI		92	11153175	2290847	2290846	0		329	Africa/Abidjan	2022-02-17
+2290953	Sous-préfecture de Bouaké	Sous-prefecture de Bouake	Bouake,Bouaké,Sous-prefecture de Bouake,Sous-préfecture de Bouaké	7.77633	-4.9896	A	ADM4	CI		90		2290953	2290953	0		315	Africa/Abidjan	2026-03-10
+2290961	Sous-préfecture de Bouaflé	Sous-prefecture de Bouafle	Bouafle,Bouaflé,Sous-prefecture de Bouafle,Sous-préfecture de Bouaflé	6.93344	-5.72588	A	ADM4	CI		96	11153167	2290963	2290961	0		173	Africa/Abidjan	2026-03-10
+2290984	Botro	Botro	Botro,Sous-prefecture de Botro,Sous-préfecture de Botro	7.83533	-5.34288	A	ADM4	CI		90	11153170	11153288	2290984	0		255	Africa/Abidjan	2022-02-17
+2291018	Borotou	Borotou	Borotou,Sous-prefecture de Borotou,Sous-préfecture de Borotou	8.73002	-7.55356	A	ADM4	CI		97	2597334		2291018	0		454	Africa/Abidjan	2022-02-17
+2291111	Bongouanou	Bongouanou	Bongouanou,Sous-prefecture de Bongouanou,Sous-préfecture de Bongouanou	6.62324	-4.15923	A	ADM4	CI		94	11153156	2291112	2291111	0		196	Africa/Abidjan	2025-02-18
+2291134	Bondoukou	Bondoukou	Bondoukou,Sous-prefecture de Bondoukou,Sous-préfecture de Bondoukou	8.07173	-2.81559	A	ADM4	CI		92	11153176	2291135	2291134	0		387	Africa/Abidjan	2022-02-17
+2291382	Bocanda	Bocanda	Bocanda,Bokanda,Sous-prefecture de Bocanda,Sous-préfecture de Bocanda	7.03577	-4.54058	A	ADM4	CI		81	11153158		2291382	0		113	Africa/Abidjan	2022-02-17
+2291566	Sous-préfecture de Bini-Barabo	Sous-prefecture de Bini-Barabo		8.08333	-3.7	A	ADM4	CI		92		2291566	2291566	0		224	Africa/Abidjan	2016-05-16
+2291579	Bingerville	Bingerville	Bingerville,Sous-prefecture de Bingerville,Sous-préfecture de Bingerville	5.35566	-4.01217	A	ADM4	CI		93		2291579	2291579	204656		23	Africa/Abidjan	2022-12-13
+2291664	Biankouma	Biankouma	Biankouma,Sous-prefecture de Biankouma,Sous-préfecture de Biankouma	7.71287	-7.70848	A	ADM4	CI		78	11153165	2291665	2291664	0		529	Africa/Abidjan	2022-02-17
+2291777	Sous-préfecture de Béoumi	Sous-prefecture de Beoumi	Beoumi,Béoumi,Sous-prefecture de Beoumi,Sous-préfecture de Béoumi	7.70742	-5.59288	A	ADM4	CI		90	11153170	2291778	2291777	0		209	Africa/Abidjan	2026-03-10
+2292177	Bangolo	Bangolo	Bangolo,Sous-prefecture de Bangolo,Sous-préfecture de Bangolo	6.97719	-7.53139	A	ADM4	CI		78	11153164	2292178	2292177	0		254	Africa/Abidjan	2022-02-17
+2292351	Bako	Bako	Bako,Sous-prefecture de Bako,Sous-préfecture de Bako	9.08333	-7.55	A	ADM4	CI		77	11153082	2283015	2292351	0		441	Africa/Abidjan	2022-02-17
+2292541	Sous-préfecture d'Ayamé	Sous-prefecture d'Ayame	Ayame,Ayamé,Sous-prefecture d'Ayame,Sous-préfecture d'Ayamé	5.62779	-3.17601	A	ADM4	CI		94	11153079	2293506	2292541	0		86	Africa/Abidjan	2026-03-10
+2292543	Anyama	Anyama	Anyama,Sous-prefecture d'Anyama,Sous-prefecture d'Ayama,Sous-préfecture d'Anyama,Sous-préfecture d'Ayama	5.50053	-4.12029	A	ADM4	CI		93		2292543	2292543	0		44	Africa/Abidjan	2025-08-27
+2292753	Arrah	Arrah	Arrah,Sous-prefecture d'Arrah,Sous-préfecture d'Arrah	6.67259	-3.91412	A	ADM4	CI		94	11153156	11153284	2292753	0		175	Africa/Abidjan	2025-02-18
+2293044	Sous-préfecture d'Alépé	Sous-prefecture d'Alepe	Alepe,Alépé,Sous-prefecture d'Alepe,Sous-préfecture d'Alépé	5.53003	-3.68769	A	ADM4	CI		82	11153162	2595337	2293044	0		55	Africa/Abidjan	2026-03-10
+2293266	Agboville	Agboville	Agboville,Sous-prefecture d'Agboville,Sous-préfecture d'Agboville	5.87769	-4.22452	A	ADM4	CI		82	11153160	2293267	2293266	0		51	Africa/Abidjan	2022-02-17
+2293340	Sous-préfecture d'Adzopé	Sous-prefecture d'Adzope	Adzope,Adzopé,Sous-prefecture d'Adzope,Sous-préfecture d'Adzopé	6.21093	-3.78822	A	ADM4	CI		82	11362033		2293340	0		152	Africa/Abidjan	2026-03-10
+2293427	Sous-préfecture d'Adiaké	Sous-prefecture d'Adiake	Adiake,Adiaké,Sous-prefecture d'Adiake,Sous-préfecture d'Adiaké	5.24915	-3.30343	A	ADM4	CI		94	11153079	2595336	2293427	0		16	Africa/Abidjan	2026-03-10
+2293505	Aboisso	Aboisso	Aboisso,Sous-prefecture d'Aboisso,Sous-préfecture d'Aboisso	5.4845	-3.26521	A	ADM4	CI		94	11153079	2293506	2293505	0		52	Africa/Abidjan	2022-02-17
+2293544	Abengourou Sous-préfecture d'	Abengourou Sous-prefecture d'		6.58333	-3.41667	A	ADM4	CI		94	11153078	2293545	2293544	0		186	Africa/Abidjan	2017-04-18
+7732554	Adjame	Adjame		5.3648	-4.02366	A	ADM4	CI		93			7732554	340892		64	Africa/Abidjan	2022-12-13
+7732555	Abobo	Abobo		5.41846	-4.01997	A	ADM4	CI		93		7732555	7732555	1340083		111	Africa/Abidjan	2022-12-13
+7732556	Cocody	Cocody		5.34993	-3.98169	A	ADM4	CI		93			7732556	692583		39	Africa/Abidjan	2022-12-13
+7732557	Plateau	Plateau		5.32549	-4.02014	A	ADM4	CI		35		7732557	7732557	7186		34	Africa/Abidjan	2022-12-13
+10628817	Yopougon	Yopougon	Poy,Yop City,Yopugɔn	5.33472	-4.07	A	ADM4	CI		93		10628817	10628817	1375000		40	Africa/Abidjan	2021-03-10
+10628821	Treichville	Treichville		5.30147	-4.00518	A	ADM4	CI		93	11996449	2293537	10628821	0		6	Africa/Abidjan	2019-01-11
+10628822	Koumassi	Koumassi		5.29965	-3.95292	A	ADM4	CI		93	11996449	2293537	10628822	0		6	Africa/Abidjan	2019-01-11
+11127740	Sous-préfecture de Koun-Fao	Sous-prefecture de Koun-Fao		7.47584	-3.23788	A	ADM4	CI		92	11153176	11153314	11127740	0		161	Africa/Abidjan	2018-12-21
+11127812	Sous-préfecture de Maféré	Sous-prefecture de Mafere		5.41009	-3.0245	A	ADM4	CI		94	11153079	2293506	11127812	0		88	Africa/Abidjan	2017-04-18
+11127814	Sous-préfecture de Guézon	Sous-prefecture de Guezon		6.73333	-7.11667	A	ADM4	CI		78	2289548	11127814	11127814	0		225	Africa/Abidjan	2016-05-16
+11127818	Sous-préfecture de Niellé	Sous-prefecture de Nielle		10.2	-5.63333	A	ADM4	CI		17		11127818	11127818	48524		336	Africa/Abidjan	2022-12-13
+11127819	Sous-préfecture de Bettié	Sous-prefecture de Bettie		6.06667	-3.4	A	ADM4	CI		00		11127819	11127819	0		93	Africa/Abidjan	2017-02-16
+11127820	Sous-préfecture de Saïoua	Sous-prefecture de Saioua		6.5	-6.26667	A	ADM4	CI		96	11153166		11127820	0		235	Africa/Abidjan	2017-04-17
+11127822	Sous-préfecture de Diégonéfla	Sous-prefecture de Diegonefla		6.28333	-5.58333	A	ADM4	CI		31		11127822	11127822	74076		225	Africa/Abidjan	2022-12-14
+11127976	Sous-préfecture de Bécédi-Brignan	Sous-prefecture de Becedi-Brignan		5.9	-4.01667	A	ADM4	CI		82	2293341	11127976	11127976	0		82	Africa/Abidjan	2017-02-16
+11127978	Tabagne	Tabagne	Sous-prefecture de Tabagne,Sous-préfecture de Tabagne	7.98984	-3.06815	A	ADM4	CI		92	11153176	2291135	11127978	0		291	Africa/Abidjan	2017-04-18
+11127988	Sous-préfecture de Bonoua	Sous-prefecture de Bonoua		5.28618	-3.59373	A	ADM4	CI		94	11153079	2595340	11127988	0		62	Africa/Abidjan	2018-02-14
+11127990	Méagui	Meagui		5.4	-6.56667	A	ADM4	CI		76	11153076	11153322	11127990	0		139	Africa/Abidjan	2017-04-18
+11127991	Koonan	Koonan		8.3625	-7.97	A	ADM4	CI		97	2597334	11153334	11127991	0		537	Africa/Abidjan	2024-02-05
+11205191	Commune d'Attécoube	Commune d'Attecoube	Attecoube,Attécoubé	5.33333	-4.03333	A	ADM4	CI		93			11205191	313135		1	Africa/Abidjan	2022-12-14

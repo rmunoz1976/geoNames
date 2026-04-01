@@ -1,0 +1,9 @@
+﻿11791903	Samsŏng-ni	Samsong-ni	Samseong-ri,Samsong-ni,Samsŏng-ni,samseongli,삼성리	39.14645	125.92973	A	ADM4	KP		12			11791903	0		52	Asia/Pyongyang	2020-06-14
+11791906	Kŭmt’al-li	Kumt'al-li	Geumtan-ri,Kumt'al-li,Kŭmt’al-li,geumtanli,금탄리	39.03513	125.91147	A	ADM4	KP		12			11791906	0		18	Asia/Pyongyang	2018-01-12
+11791909	Chaegyŏng-ni	Chaegyong-ni	Chaegyong-ni,Chaegyŏng-ni,Jaegyeong-ri,jaegyeongli,재경리	39.14123	125.6573	A	ADM4	KP		12			11791909	0		25	Asia/Pyongyang	2020-06-14
+11791915	Chesal-li	Chesal-li	Chesal-li,Jesan-ri,jesanli,제산리	39.07035	125.68212	A	ADM4	KP		12			11791915	0		25	Asia/Pyongyang	2018-01-12
+11791916	Ch’ŏnnam-ni	Ch'onnam-ni	Ch'onnam-ni,Cheonnam-ri,Ch’ŏnnam-ni,cheonnamli,천남리	39.09439	125.70596	A	ADM4	KP		12			11791916	0		24	Asia/Pyongyang	2020-06-14
+11791927	Sinsŏng-ni	Sinsong-ni	Sinseong-ri,Sinsong-ni,Sinsŏng-ni,sinseongli,신성리	39.20359	125.69014	A	ADM4	KP		12			11791927	0		39	Asia/Pyongyang	2020-06-14
+11792027	Oryu-ri	Oryu-ri	Oryu-ri,Oryuri,olyuli,오류리	38.99051	125.87816	A	ADM4	KP		12			11792027	0		43	Asia/Pyongyang	2020-03-11
+11792029	Yonggyo-ri	Yonggyo-ri	Yonggyo-ri,yong-gyoli,용교리	38.89585	125.67294	A	ADM4	KP		12			11792029	0		16	Asia/Pyongyang	2018-01-12
+11792030	Kubil-li	Kubil-li	Gubin-ri,Kubil-li,gubinli,구빈리	39.01088	126.2991	A	ADM4	KP		12			11792030	0		192	Asia/Pyongyang	2018-01-12

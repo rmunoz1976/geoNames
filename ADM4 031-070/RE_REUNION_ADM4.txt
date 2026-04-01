@@ -1,0 +1,24 @@
+﻿6690286	Bras-Panon	Bras-Panon		-20.98333	55.68333	A	ADM4	RE		RE	974	9743	97402	12722		35	Indian/Reunion	2019-03-23
+6690287	Entre-Deux	Entre-Deux		-21.23333	55.46667	A	ADM4	RE		RE	974	9742	97403	6894		445	Indian/Reunion	2019-03-23
+6690288	L'Étang-Salé	L'Etang-Sale		-21.25	55.38333	A	ADM4	RE		RE	974	9742	97404	14230		304	Indian/Reunion	2019-03-23
+6690289	Petite-Île	Petite-Ile		-21.35	55.56667	A	ADM4	RE		RE	974	9742	97405	12236		357	Indian/Reunion	2019-03-23
+6690290	La Plaine-des-Palmistes	La Plaine-des-Palmistes		-21.11667	55.63333	A	ADM4	RE		RE	974	9743	97406	6365		1032	Indian/Reunion	2019-03-23
+6690291	Le Port	Le Port	Le Por,Le-Por,lw pwr  rywnywn,Ле Пор,Ле-Пор,لو پور، رئونیون,ル・ポール	-20.94084	55.29977	A	ADM4	RE		RE	974	9744	97407	34810		32	Indian/Reunion	2019-03-23
+6690292	La Possession	La Possession		-20.99403	55.39751	A	ADM4	RE		RE	974	9744	97408	32973		309	Indian/Reunion	2019-03-23
+6690293	Saint-André	Saint-Andre	Sent Andre,Sent-Andre,snt andrh  rywnywn,Сент Андре,Сент-Андре,سنت آندره، رئونیون,سینٹ-آندرے، رانوں	-20.95	55.65	A	ADM4	RE		RE	974	9743	97409	55628		68	Indian/Reunion	2019-03-23
+6690294	Saint-Benoît	Saint-Benoit	Sen Benoa,Sen-Benua,sn bnwa  rywnywn,Сен Беноа,Сен-Бенуа,סן-בנואה,سن بنوآ، رئونیون,سینٹ-بنوٹ، رانوں	-21.03333	55.71667	A	ADM4	RE		RE	974	9743	97410	38142		6	Indian/Reunion	2019-03-23
+6690295	Saint-Denis	Saint-Denis		-20.88897	55.45555	A	ADM4	RE		RE	974	9741	97411	147920		35	Indian/Reunion	2019-03-23
+6690296	Saint-Joseph	Saint-Joseph	Sen Zhozef,Sen-Zhozef,sn zhwzf  rywnywn,Сен Жозеф,Сен-Жозеф,سن ژوزف، رئونیون,سینٹ-جوسف، رانوں	-21.36667	55.61667	A	ADM4	RE		RE	974	9742	97412	37629		134	Indian/Reunion	2019-03-23
+6690297	Saint-Leu	Saint-Leu	Sen Le,Sen-Le,sn lw  rywnywn,Сен Ле,Сен-Ле,سن لو، رئونیون,سینٹ-لو، رانوں	-21.15	55.28333	A	ADM4	RE		RE	974	9744	97413	33697		113	Indian/Reunion	2019-03-23
+6690298	Saint-Louis	Saint-Louis	Sen Luj,Sen-Lui,sn lwyy  rywnywn,Сен Луј,Сен-Луи,Сен-Луї,سن لویی، رئونیون,سینٹ-لوئیس، رانوں	-21.26667	55.41667	A	ADM4	RE		RE	974	9742	97414	53220		169	Indian/Reunion	2019-03-23
+6690299	Saint-Paul	Saint-Paul	Sanctus Paulus,Sen Pol,Sen-Pol',san=poru,sheng bao luo,sn pwl rywnywn,sn-pwl,Сен Пол,Сен-Поль,סן-פול,ساں پال,سن پول رئونیون,سینٹ-پال، رانوں,サン＝ポール,圣保罗	-21.04453	55.32233	A	ADM4	RE		RE	974	9744	97415	105482		922	Indian/Reunion	2019-03-23
+6690300	Saint-Pierre	Saint-Pierre	Sen Pjer,Sen-Perr,san=pieru,sheng pi ai er,sn pyr rywnywn,sn-pyr  rywnywn,sn-pyyr,syn-pyry  ry ywnyn,Сен Пјер,Сен-Пєрр,סן-פייר,سن پیر رئونیون,سن-پیر، رئونیون,سین-پیری، ری یونین,サン＝ピエール,圣皮埃尔	-21.31667	55.48333	A	ADM4	RE		RE	974	9742	97416	84169		161	Indian/Reunion	2019-03-23
+6690301	Saint-Philippe	Saint-Philippe	Sen-Filipp,Сен-Філіпп,سین-فلپے	-21.35	55.76667	A	ADM4	RE		RE	974	9742	97417	5235		186	Indian/Reunion	2019-03-23
+6690302	Sainte-Marie	Sainte-Marie	Sen Mari,Sent-Mari,santo=mari,snt mary  rywnywn,Сен Мари,Сент-Марі,سنت ماری، رئونیون,سین-مرے، رانوں,サント＝マリー	-20.94706	55.53036	A	ADM4	RE		RE	974	9741	97418	33160		519	Indian/Reunion	2019-03-23
+6690303	Sainte-Rose	Sainte-Rose	Sent-Roz,Сент-Роз,سین-روسے، رانوں	-21.13575	55.79475	A	ADM4	RE		RE	974	9743	97419	6520		111	Indian/Reunion	2019-03-23
+6690304	Sainte-Suzanne	Sainte-Suzanne	Sen Suzan,Sent-Sjuzann,snt swzan  rywnywn,Сен Сузан,Сент-Сюзанн,سنت سوزان، رئونیون,سین-سجان، رانوں	-20.94573	55.59278	A	ADM4	RE		RE	974	9741	97420	23224		334	Indian/Reunion	2019-03-23
+6690305	Salazie	Salazie		-21.01667	55.55	A	ADM4	RE		RE	974	9743	97421	7400		409	Indian/Reunion	2019-03-23
+6690306	Le Tampon	Le Tampon		-21.26667	55.51667	A	ADM4	RE		RE	974	9742	97422	77283		656	Indian/Reunion	2019-03-23
+6690307	Les Trois-Bassins	Les Trois-Bassins	Les Trois-Bassins,Trois-Bassins	-21.1	55.3	A	ADM4	RE		RE	974	9744	97423	7111		801	Indian/Reunion	2019-03-23
+6690308	Cilaos	Cilaos		-21.11667	55.46667	A	ADM4	RE		RE	974	9742	97424	5403		1787	Indian/Reunion	2019-03-23
+6690316	Les Avirons	Les Avirons		-21.23278	55.33286	A	ADM4	RE		RE	974	9742	97401	11471		352	Indian/Reunion	2019-03-23

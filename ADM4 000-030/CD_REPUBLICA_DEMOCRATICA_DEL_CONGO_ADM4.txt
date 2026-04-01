@@ -1,0 +1,2 @@
+﻿6544533	commune de Gombe	commune de Gombe		-4.31021	15.2946	A	ADM4	CD		06			6544533	32373		282	Africa/Kinshasa	2007-05-31
+6544534	commune de Barumbu	commune de Barumbu		-4.31783	15.3279	A	ADM4	CD		06			6544534	150319		277	Africa/Kinshasa	2007-05-31

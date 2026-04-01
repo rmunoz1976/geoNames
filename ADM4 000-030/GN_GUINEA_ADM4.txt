@@ -1,0 +1,2 @@
+﻿11257348	Barkere	Barkere		11.82	-13.198	A	ADM4	GN		B	12		11257348	0		169	Africa/Conakry	2016-09-22
+11258598	Melikansa	Melikansa		10.077	-12.244	A	ADM4	GN		D	16		11258598	0		629	Africa/Conakry	2016-10-05

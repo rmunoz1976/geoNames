@@ -1,0 +1,137 @@
+﻿1848521	Yao-chō	Yao-cho	Yao-cho,Yao-chō,Yao-machi	34.63333	135.6	A	ADM4	JP		00			1848521	0		9	Asia/Tokyo	2020-06-11
+1849194	Urashō-son	Urasho-son	Urasho-mura,Urasho-son,Urashō-son	34.06667	134.43333	A	ADM4	JP		00			1849194	0		8	Asia/Tokyo	2020-06-11
+1849371	Uji-chō	Uji-cho	Uji-cho,Uji-chō,Uji-machi	34.9	135.81667	A	ADM4	JP		00			1849371	0		76	Asia/Tokyo	2020-06-11
+1849608	Tsurajima-chō	Tsurajima-cho	Tsurajima-cho,Tsurajima-chō,Tsurashima-cho,Tsurashima-chō,Tsurashima-machi	34.55	133.71667	A	ADM4	JP		00			1849608	0		4	Asia/Tokyo	2020-06-11
+1849807	Toyotomi-mura	Toyotomi-mura	Toyotomi-mura	34.91667	137.31667	A	ADM4	JP		00			1849807	0		196	Asia/Tokyo	2010-08-03
+1849830	Toyooka-chō	Toyooka-cho	Toyooka-cho,Toyooka-chō,Toyooka-machi	35.53333	134.81667	A	ADM4	JP		00			1849830	0		9	Asia/Tokyo	2020-06-11
+1849897	Totsuka chō	Totsuka cho	Totsuka,Totsukacho,Totsukachō,hu zhong ding,戸塚町	35.4	139.53333	A	ADM4	JP		19			1849897	0		14	Asia/Tokyo	2015-11-26
+1850008	Tōnomine-mura	Tonomine-mura	Tamunomine,Tonomine-mura,Tōnomine-mura	34.46667	135.86667	A	ADM4	JP		00			1850008	0		436	Asia/Tokyo	2020-06-11
+1850082	Tomishima-chō	Tomishima-cho	Tomishima-cho,Tomishima-chō,Tomishima-machi,Tomitaka-machi	32.41667	131.58333	A	ADM4	JP		00			1850082	0		34	Asia/Tokyo	2020-06-11
+1850184	Tokoname-chō	Tokoname-cho	Tokoname-cho,Tokoname-chō,Tokoname-machi,chang hua ting,常滑町	34.88333	136.85	A	ADM4	JP		00			1850184	0		11	Asia/Tokyo	2020-06-11
+1850471	Tawaramoto-chō	Tawaramoto-cho	Tawaramoto	34.55648	135.79496	A	ADM4	JP		00			1850471	0		53	Asia/Tokyo	2008-11-03
+1850496	Tatsuno-machi	Tatsuno-machi	Tatsuno	35.98333	137.98333	A	ADM4	JP		00			1850496	0		738	Asia/Tokyo	1994-02-05
+1850695	Tanao-chō	Tanao-cho	Tanao-cho,Tanao-chō,Tanao-machi,Tanao-mura	34.86681	136.97975	A	ADM4	JP		00			1850695	0		3	Asia/Tokyo	2020-06-11
+1851008	Takasago-chō	Takasago-cho	Takasago-cho,Takasago-chō,Takasago-machi	34.75	134.81667	A	ADM4	JP		00			1851008	0		3	Asia/Tokyo	2020-06-11
+1851030	Takaoka-chō	Takaoka-cho	Takaoka-cho,Takaoka-chō,Takaoka-machi,Takaoka-mura	35.18333	138.65	A	ADM4	JP		00			1851030	0		36	Asia/Tokyo	2020-06-11
+1851031	Takaoka-chō	Takaoka-cho	Takaoka-cho,Takaoka-chō,Takaoka-mura	35.03333	137.08333	A	ADM4	JP		00			1851031	0		34	Asia/Tokyo	2020-06-11
+1851276	Taga-mura	Taga-mura	Taga	35.05	139.06667	A	ADM4	JP		00			1851276	0		33	Asia/Tokyo	1994-02-05
+1851585	Sone-chō	Sone-cho	Sone-cho,Sone-chō,Sone-machi	34.78333	134.76667	A	ADM4	JP		00			1851585	0		34	Asia/Tokyo	2020-06-11
+1851608	Sohara-chō	Sohara-cho	Sohara,Sohara-cho,Sohara-chō,Sohara-mura	35.41667	136.86667	A	ADM4	JP		09			1851608	0		40	Asia/Tokyo	2020-06-11
+1851609	Sōgō-mura	Sogo-mura	Sogawa-mura,Sogo-mura,Sokawa-mura,Sōgawa-mura,Sōgō-mura	33.46667	132.78333	A	ADM4	JP		00			1851609	0		384	Asia/Tokyo	2020-06-11
+1851931	Shirahama-machi	Shirahama-machi	Shirahama-machi,Shirahama-mura	34.91667	139.91667	A	ADM4	JP		00			1851931	0		119	Asia/Tokyo	2010-08-03
+1852002	Shiojiri-machi	Shiojiri-machi	Shiojiri	36.1	137.96667	A	ADM4	JP		00			1852002	0		729	Asia/Tokyo	1994-02-05
+1852068	Shinkawa-chō	Shinkawa-cho	Shinkawa-cho,Shinkawa-chō,Shinkawa-machi,Shinkawa-mura	34.9	136.98333	A	ADM4	JP		00			1852068	0		1	Asia/Tokyo	2020-06-11
+1852136	Shinano	Shinano	Shimano,Shinano River Region,Shinano-no-kuni	36	138	A	ADM4	JP		00			1852136	0		963	Asia/Tokyo	1994-02-05
+1852166	Shimotsuke	Shimotsuke		36.75	139.75	A	ADM4	JP		00			1852166	0		316	Asia/Tokyo	1994-02-05
+1852286	Shimokawaguchi-mura	Shimokawaguchi-mura	Shimokawaguchi-mura	35.31667	135.1	A	ADM4	JP		00			1852286	0		55	Asia/Tokyo	2010-08-03
+1852354	Shimoda-chō	Shimoda-cho	Shimoda-cho,Shimoda-chō,Shimoda-machi	32.96667	132.98333	A	ADM4	JP		00			1852354	0		23	Asia/Tokyo	2020-06-11
+1852386	Shimmei-chō	Shimmei-cho	Shimmei-cho,Shimmei-chō,Shimmei-machi,Shimmei-mura	33.98333	136.2	A	ADM4	JP		00			1852386	0		286	Asia/Tokyo	2020-06-11
+1852594	Shibukawa-machi	Shibukawa-machi		36.48333	139	A	ADM4	JP		00			1852594	0		202	Asia/Tokyo	1994-02-05
+1852733	Sendan’yama-mura	Sendan'yama-mura	Sendan'yama-mura,Sendan’yama-mura	36.58333	137.03333	A	ADM4	JP		00			1852733	0		371	Asia/Tokyo	2010-08-03
+1852777	Seki-machi	Seki-machi	Seki	35.48333	136.91667	A	ADM4	JP		00			1852777	0		51	Asia/Tokyo	1994-02-05
+1852853	Satsuma	Satsuma	Satsuma-kuni	31.5	130.41667	A	ADM4	JP		00			1852853	0		300	Asia/Tokyo	1994-02-05
+1852955	Sanuki	Sanuki	Sanuki-no-kuni	34.25	134	A	ADM4	JP		00			1852955	0		73	Asia/Tokyo	1994-02-05
+1853064	Sakurai-chō	Sakurai-cho	Sakurai,Sakurai-machi	34.5	135.85	A	ADM4	JP		00			1853064	0		108	Asia/Tokyo	1994-02-05
+1853277	Sagara-machi	Sagara-machi	Sagara,Sagara-mura	34.68333	138.2	A	ADM4	JP		00			1853277	0		8	Asia/Tokyo	1994-02-05
+1853383	Ryōgen-mura	Ryogen-mura	Ryogen-mura,Ryōgen-mura,Yoshimoto-mura	34.78333	135.33333	A	ADM4	JP		00			1853383	0		157	Asia/Tokyo	2020-06-11
+1853546	Ōuchi-machi	Ouchi-machi	Okuuchi-machi,Okuuchi-mura,Ouchi,Ouchi-cho,Ouchi-machi,Ōuchi,Ōuchi-chō,Ōuchi-machi	32.83877	132.65982	A	ADM4	JP		00			1853546	0		27	Asia/Tokyo	2022-05-22
+1853650	Ōta-mura	Ota-mura	Ota,Ōta	36.53333	138.86667	A	ADM4	JP		00			1853650	0		603	Asia/Tokyo	1994-02-05
+1853653	Ōta-machi	Ota-machi	Ota,Ota-machi,Ōta,Ōta-machi	36.3	139.36667	A	ADM4	JP		00			1853653	0		50	Asia/Tokyo	2022-05-22
+1853828	Ōsawano-machi	Osawano-machi	Osawano-cho,Osawano-machi,Osawano-mura,Ōsawano-machi,Ōsawano-mura	36.58333	137.2	A	ADM4	JP		00			1853828	0		90	Asia/Tokyo	2020-06-11
+1853832	Ōsato-mura	Osato-mura	Osato-mura,Ozato-mura,Ōsato-mura	34.78333	136.5	A	ADM4	JP		00			1853832	0		30	Asia/Tokyo	2020-06-11
+1854161	Ōme-machi	Ome-machi	Ome,Ōme	35.78333	139.25	A	ADM4	JP		00			1854161	0		174	Asia/Tokyo	1994-02-05
+1854370	Okegawa-machi	Okegawa-machi	Okegawa,Okegawa-cho,Okugawa-machi	36	139.56667	A	ADM4	JP		00			1854370	0		22	Asia/Tokyo	1994-02-05
+1854628	Ogōri-machi	Ogori-machi	Ogori,Ogōri	33.4	130.55	A	ADM4	JP		00			1854628	0		18	Asia/Tokyo	1994-02-05
+1854846	Obama-machi	Obama-machi	Obama	35.5	135.75	A	ADM4	JP		00			1854846	0		2	Asia/Tokyo	1994-02-05
+1854978	Nonoichi-machi	Nonoichi-machi		36.53333	136.61667	A	ADM4	JP		00			1854978	0		20	Asia/Tokyo	1994-02-05
+1854982	Nōne-mura	None-mura	Nohne-mura,None-mura,Nōne-mura	36.15	136.28333	A	ADM4	JP		06			1854982	0		26	Asia/Tokyo	2020-06-11
+1855011	Noma-chō	Noma-cho	Noma-cho,Noma-chō,Noma-mura	34.78052	136.85819	A	ADM4	JP		00			1855011	0		6	Asia/Tokyo	2020-06-11
+1855133	Nishiwaki-chō	Nishiwaki-cho	Nishiwaki,Nishiwaki-machi	34.98333	134.96667	A	ADM4	JP		00			1855133	0		59	Asia/Tokyo	1994-02-05
+1855143	Nishiura-chō	Nishiura-cho	Nishiura-cho,Nishiura-chō,Nishiura-machi	34.86667	136.86667	A	ADM4	JP		00			1855143	0		15	Asia/Tokyo	2020-06-11
+1855230	Nishimiyanaga-mura	Nishimiyanaga-mura	Nishimiyanaga-mura	33.15	130.4	A	ADM4	JP		33			1855230	0		3	Asia/Tokyo	2015-08-30
+1855460	Nigu-246Ce Nikū-mura	Nigu-246Ce Niku-mura		38.03333	138.31667	A	ADM4	JP		00			1855460	0		66	Asia/Tokyo	1994-02-05
+1855578	Naruto-mura	Naruto-mura	Naruto,Naruto-machi	34.21667	134.63333	A	ADM4	JP		00			1855578	0		63	Asia/Tokyo	1994-02-05
+1855880	Nakamura-chō	Nakamura-cho	Nakamura-cho,Nakamura-chō,Nakamura-machi	32.98333	132.95	A	ADM4	JP		00			1855880	0		6	Asia/Tokyo	2020-06-11
+1856291	Nabari-machi	Nabari-machi	Nabari	34.61667	136.08333	A	ADM4	JP		00			1856291	0		192	Asia/Tokyo	1994-02-05
+1856303	Myōkō-kōgen-mura	Myoko-kogen-mura	Myoko-kogen-mura,Myōkō-kōgen-mura,Nakayama,Nakayama-mura	36.86667	138.16667	A	ADM4	JP		00			1856303	0		811	Asia/Tokyo	2020-06-11
+1856387	Murotozaki-chō	Murotozaki-cho	Murotosaki-machi,Murotozaki-cho,Murotozaki-chō,Murotozaki-machi	33.28333	134.18333	A	ADM4	JP		00			1856387	0		66	Asia/Tokyo	2020-06-11
+1856709	Miyazaki-mura	Miyazaki-mura	Miyazaki-mura	34.91667	137.36667	A	ADM4	JP		00			1856709	0		215	Asia/Tokyo	2010-08-03
+1857050	Minomi-chō	Minomi-cho	Minomi-cho,Minomi-chō,Minomi-machi,Minomi-mura	34.45	133.38333	A	ADM4	JP		00			1857050	0		0	Asia/Tokyo	2020-06-11
+1857181	Minami-ikuchi-mura	Minami-ikuchi-mura	Minami-iguchi,Minami-ikuchi-mura	34.26667	133.11667	A	ADM4	JP		00			1857181	0		1	Asia/Tokyo	2010-08-03
+1857319	Mihonoseki	Mihonoseki	Mihonoseki,Mihonoseki-cho,Mihonoseki-chō,Mihonoseki-machi	35.56667	133.31667	A	ADM4	JP		00			1857319	0		130	Asia/Tokyo	2022-05-22
+1857469	Matsutō-machi	Matsuto-machi	Matsuto-machi,Matsutō-machi,Matto Town	36.51667	136.56667	A	ADM4	JP		00			1857469	0		27	Asia/Tokyo	2020-06-11
+1857513	Matsunaga-chō	Matsunaga-cho	Matsunaga-cho,Matsunaga-chō,Matsunaga-machi	34.43333	133.25	A	ADM4	JP		00			1857513	0		3	Asia/Tokyo	2020-06-11
+1857554	Matsudaira	Matsudaira	Matsudaira,Matsudaira-cho,Matsudaira-chō,Matsudaira-mura	35.06667	137.25	A	ADM4	JP		00			1857554	0		218	Asia/Tokyo	2022-05-22
+1857592	Masuda-chō	Masuda-cho	Masuda-cho,Masuda-chō,Masuda-machi	34.66667	131.86667	A	ADM4	JP		00			1857592	0		123	Asia/Tokyo	2020-06-11
+1858065	Kusatsu-chō	Kusatsu-cho	Kusatsu,Kusatsu-machi	35.01667	135.96667	A	ADM4	JP		00			1858065	0		102	Asia/Tokyo	1994-02-05
+1858482	Kugami-mura	Kugami-mura	Kokujo,Kugami-mura,Kukami-mura	37.65	138.83333	A	ADM4	JP		00			1858482	0		11	Asia/Tokyo	2010-08-03
+1858533	Kubokawa-chō	Kubokawa-cho	Kubokawa-cho,Kubokawa-chō,Kubokawa-machi	33.2	133.08333	A	ADM4	JP		00			1858533	0		214	Asia/Tokyo	2020-06-11
+1858699	Kosugaya-chō	Kosugaya-cho	Kosugai-mura,Kosugaya-cho,Kosugaya-chō,Kosugaya-mura,Kosukaya	34.83333	136.86667	A	ADM4	JP		00			1858699	0		4	Asia/Tokyo	2020-06-11
+1858793	Kōnosu Machi	Konosu Machi	Konosu,Konosu Machi,Konosu-machi,Kōnosu,Kōnosu Machi,Kōnosu-machi,hong chao ding,kounosumachi,こうのすまち,コウノスマチ,鴻巣町	36.05109	139.51727	A	ADM4	JP		34			1858793	0		27	Asia/Tokyo	2014-04-06
+1859112	Kōda-machi	Koda-machi	Koda-cho,Koda-mura,Kōda-chō,Kōda-mura	34.86667	137.18333	A	ADM4	JP		00			1859112	0		93	Asia/Tokyo	1994-02-05
+1859128	Kochino-chō	Kochino-cho	Kochino-cho,Kochino-chō,Kochino-machi	35.35	136.86667	A	ADM4	JP		00			1859128	0		21	Asia/Tokyo	2020-06-11
+1859318	Kitakata-machi	Kitakata-machi	Kitakata	37.65	139.88333	A	ADM4	JP		00			1859318	0		208	Asia/Tokyo	1994-02-05
+1859489	Kikuchi-machi	Kikuchi-machi		33.03333	130.91667	A	ADM4	JP		00			1859489	0		590	Asia/Tokyo	1994-02-05
+1859673	Kawanishi-machi	Kawanishi-machi	Kawanishi-cho,Kawanishi-chō,Kawanishi-machi	36.1412	136.14017	A	ADM4	JP		00			1859673	0		8	Asia/Tokyo	2010-08-03
+1859978	Kasatori-mura	Kasatori-mura	Kasatori-mura	34.91667	135.86667	A	ADM4	JP		00			1859978	0		141	Asia/Tokyo	2010-08-03
+1860121	Kanonji-chō	Kanonji-cho	Kannonji,Kannonji-machi	34.13333	133.65	A	ADM4	JP		00			1860121	0		7	Asia/Tokyo	1994-02-05
+1860138	Kannoura-chō	Kannoura-cho	Kannoura-cho,Kannoura-chō,Kannoura-machi	33.53333	134.28333	A	ADM4	JP		00			1860138	0		106	Asia/Tokyo	2020-06-11
+1860320	Kamojima-chō	Kamojima-cho	Kamojima-cho,Kamojima-chō,Kamoshima	34.06667	134.35	A	ADM4	JP		00			1860320	0		12	Asia/Tokyo	2020-06-11
+1860810	Kai	Kai	Kai-no-kuni	35.58333	138.58333	A	ADM4	JP		00			1860810	0		290	Asia/Tokyo	1994-02-05
+1861055	Jidōgata-mura	Jidogata-mura	Jidoda-mura,Jidogata-mura,Jidōgata-mura,Jitogata-mura,Jitōgata-mura	34.63333	138.2	A	ADM4	JP		00			1861055	0		1	Asia/Tokyo	2020-06-11
+1861101	Izumikawa-chō	Izumikawa-cho	Izumigawa-cho,Izumigawa-chō,Izumikawa-cho,Izumikawa-chō,Izumikawa-machi	33.95	133.31667	A	ADM4	JP		00			1861101	0		35	Asia/Tokyo	2020-06-11
+1861440	Ise-mura	Ise-mura	Ise-mura	34.91667	134.61667	A	ADM4	JP		00			1861440	0		152	Asia/Tokyo	2010-08-03
+1861693	Imaise-chō	Imaise-cho	Imaise-cho,Imaise-chō,Imaise-machi,Imaise-mura	35.31667	136.76667	A	ADM4	JP		00			1861693	0		6	Asia/Tokyo	2020-06-11
+1861815	Ikaruga	Ikaruga	Ikaruga,Ikaruga-cho,Ikaruga-chō,Ikaruga-machi	34.83333	134.58333	A	ADM4	JP		00			1861815	0		14	Asia/Tokyo	2022-05-22
+1861916	Ido-mura	Ido-mura	Ido-mura	34.26667	134.16667	A	ADM4	JP		00			1861916	0		37	Asia/Tokyo	2010-08-03
+1861970	Ichijō-chō	Ichijo-cho	Ichijo-cho,Ichijō-chō	34.1	134.38333	A	ADM4	JP		00			1861970	0		12	Asia/Tokyo	2010-08-03
+1862008	Ibusuki-machi	Ibusuki-machi	Ibusuki-cho,Ibusuki-chō,Ibusuki-machi,zhi su,指宿	31.25	130.61667	A	ADM4	JP		00			1862008	0		82	Asia/Tokyo	2010-08-03
+1862090	Hotei-chō	Hotei-cho	Hotei-cho,Hotei-chō,Hotei-machi	35.31667	136.86667	A	ADM4	JP		00			1862090	0		19	Asia/Tokyo	2020-06-11
+1862113	Hosoda-chō	Hosoda-cho	Hosoda-cho,Hosoda-chō,Hosoda-machi,Hosota	31.56667	131.35	A	ADM4	JP		00			1862113	0		15	Asia/Tokyo	2020-06-11
+1862385	Hisakatsu-chō	Hisakatsu-cho	Hisakatsu-cho,Hisakatsu-chō,Hisakatsu-mura	34.08333	134.25	A	ADM4	JP		00			1862385	0		50	Asia/Tokyo	2020-06-11
+1862724	Higashi-tottori-chō	Higashi-tottori-cho	Higashi-tottori-cho,Higashi-tottori-chō,Higashi-tottori-mura	34.3	135.21667	A	ADM4	JP		00			1862724	0		278	Asia/Tokyo	2020-06-11
+1862774	Higashimiyanaga-mura	Higashimiyanaga-mura	Higashimiyanaga-mura	33.13333	130.41667	A	ADM4	JP		00			1862774	0		0	Asia/Tokyo	2010-08-03
+1862976	Hayashi-chō	Hayashi-cho	Hayashi-cho,Hayashi-chō,Hayashi-machi	34.08333	134.2	A	ADM4	JP		00			1862976	0		63	Asia/Tokyo	2020-06-11
+1863138	Harima	Harima	Harima Region,Harima-no-kuni	35	134.66667	A	ADM4	JP		00			1863138	0		240	Asia/Tokyo	1994-02-05
+1863145	Hara-mura	Hara-mura	Hara,Hara-mura	34.41667	132.66667	A	ADM4	JP		00			1863145	0		295	Asia/Tokyo	2012-01-19
+1863448	Hachiman-chō	Hachiman-cho	Hachiman-cho,Hachiman-chō,Hachiman-machi,Yahata,Yawata	35.13333	136.1	A	ADM4	JP		35			1863448	0		88	Asia/Tokyo	2020-06-11
+1863527	Gotemba-chō	Gotemba-cho	Gotemba,Gotemba-machi	35.3	138.93333	A	ADM4	JP		00			1863527	0		461	Asia/Tokyo	1994-02-05
+1863757	Futakawa-son	Futakawa-son		35.2	133.68333	A	ADM4	JP		31			1863757	0		507	Asia/Tokyo	2007-02-02
+1863787	Fushimi-chō	Fushimi-cho	Fushimi-cho,Fushimi-chō,Fushimi-mura	34.68333	135.76667	A	ADM4	JP		00			1863787	0		108	Asia/Tokyo	2020-06-11
+1864016	Fukiya-chō	Fukiya-cho	Fukiya-cho,Fukiya-chō,Fukiya-machi,Fukiya-mura	34.85	133.46667	A	ADM4	JP		00			1864016	0		590	Asia/Tokyo	2020-06-11
+1864128	Fuji-gun	Fuji-gun	Fui-gun,Fuji	35.25	138.63333	A	ADM4	JP		00			1864128	0		265	Asia/Tokyo	1994-02-05
+1864225	Ei-chō	Ei-cho	Ei-cho,Ei-chō,Ei-machi	34.46667	134.83333	A	ADM4	JP		00			1864225	0		-9999	Asia/Tokyo	2020-06-11
+1864261	Echigawa-chō	Echigawa-cho	Echigawa-cho,Echigawa-chō,Echigawa-machi	35.18333	136.21667	A	ADM4	JP		00			1864261	0		102	Asia/Tokyo	2020-06-11
+1864944	Atami-machi	Atami-machi	Atami	35.1	139.06667	A	ADM4	JP		37	1864943		1864944	0		93	Asia/Tokyo	2016-10-04
+1865064	Asahi-mura	Asahi-mura	Asahi	37.21667	138.38333	A	ADM4	JP		00			1865064	0		9	Asia/Tokyo	1994-02-05
+1865066	Asahi-mura	Asahi-mura	Asahi	35.96667	139.88333	A	ADM4	JP		00			1865066	0		19	Asia/Tokyo	1994-02-05
+1865067	Asahi-mura	Asahi-mura	Asahi	35.96667	138	A	ADM4	JP		00			1865067	0		739	Asia/Tokyo	1994-02-05
+1865115	Arikawa-chō	Arikawa-cho	Arikawa-cho,Arikawa-chō,Arikawa-machi,Shin-Kamigoto,Shin-Kamigotō	32.98333	129.15	A	ADM4	JP		27			1865115	0		271	Asia/Tokyo	2014-05-13
+1865224	Aōzu-mura	Aozu-mura	Aozu-mura,Awautsu-mura,Aōzu-mura	37.65	138.88333	A	ADM4	JP		00			1865224	0		3	Asia/Tokyo	2020-06-11
+1865446	Aki-chō	Aki-cho		34.4	132.45	A	ADM4	JP		00			1865446	0		16	Asia/Tokyo	1994-02-05
+1865498	Akasaki-chō	Akasaki-cho	Akasaki-cho,Akasaki-chō,Akasaki-machi	35.5	133.65	A	ADM4	JP		00			1865498	0		50	Asia/Tokyo	2020-06-11
+1865618	Ajiro-chō	Ajiro-cho	Ajiro-cho,Ajiro-chō,Ajiro-mura,Ashiro-machi	35.03333	139.08333	A	ADM4	JP		00			1865618	0		287	Asia/Tokyo	2020-06-11
+2110688	Tsukimōshi-mura	Tsukimoshi-mura	Tsukimoshi-mura,Tsukimoushi-mura,Tsukimōshi-mura,Tsukumoushi,Tsukumoushi-mura	39.45	141.5	A	ADM4	JP		00			2110688	0		525	Asia/Tokyo	2020-06-11
+2110702	Tsuchiura-machi	Tsuchiura-machi		36.08333	140.2	A	ADM4	JP		00			2110702	0		9	Asia/Tokyo	1994-02-05
+2111002	Shiwa-mura	Shiwa-mura		39.55	141.05	A	ADM4	JP		00			2111002	0		312	Asia/Tokyo	1994-02-05
+2111226	Sakekawa-mura	Sakekawa-mura	Sakegawa,Sakegawa-mura,Sakekawa	38.8	140.23333	A	ADM4	JP		00			2111226	0		97	Asia/Tokyo	1994-02-05
+2111246	Sagae-machi	Sagae-machi	Sagae	38.36667	140.28333	A	ADM4	JP		00			2111246	0		92	Asia/Tokyo	1994-02-05
+2111482	Ōhira-mura	Ohira-mura	Ohira-mura,Ohire,Oohire,Ōhira-mura	35.61667	140.46667	A	ADM4	JP		00			2111482	0		11	Asia/Tokyo	2020-06-11
+2111529	Ōfunato-chō	Ofunato-cho	Ofunado,Ofunato,Ofunato-machi,Ōfunado,Ōfunato,Ōfunato-machi	39.05	141.71667	A	ADM4	JP		00			2111529	0		99	Asia/Tokyo	1994-02-05
+2111806	Murata-mura	Murata-mura	Murada,Murata,Murata-mura	36.26667	140	A	ADM4	JP		00			2111806	0		20	Asia/Tokyo	2012-01-19
+2112317	Katori-machi	Katori-machi	Katori	35.88333	140.53333	A	ADM4	JP		00			2112317	0		18	Asia/Tokyo	1994-02-05
+2112526	Iwanuma-machi	Iwanuma-machi	Iwanuma	38.1	140.86667	A	ADM4	JP		00			2112526	0		6	Asia/Tokyo	1994-02-05
+2112538	Iwaki-gun	Iwaki-gun		37.08333	140.83333	A	ADM4	JP		00			2112538	0		125	Asia/Tokyo	1994-02-05
+2112630	Imba-mura	Imba-mura		35.76667	140.21667	A	ADM4	JP		00			2112630	0		2	Asia/Tokyo	1994-02-05
+2113048	Ayaori-mura	Ayaori-mura	Ayaori-mura	39.33333	141.48333	A	ADM4	JP		00			2113048	0		300	Asia/Tokyo	2010-08-03
+2113051	Awa	Awa	Awa Region,Awa-no-kuni	35.08333	140	A	ADM4	JP		00			2113051	0		196	Asia/Tokyo	1994-02-05
+2113163	Abiko-machi	Abiko-machi	Abiko	35.86667	140.01667	A	ADM4	JP		00			2113163	0		10	Asia/Tokyo	1994-02-05
+2127659	Toyohira-chō	Toyohira-cho	Toyohira,Toyohira-machi	43.01667	141.4	A	ADM4	JP		00			2127659	0		70	Asia/Tokyo	1994-02-05
+2127840	Teine-chō	Teine-cho	Teine,Teine-machi,Teine-mura	43.1	141.23333	A	ADM4	JP		00			2127840	0		227	Asia/Tokyo	1994-02-05
+2128784	Ōdate-machi	Odate-machi	Otate,Ōtate	40.26667	140.56667	A	ADM4	JP		02	2128783		2128784	0		66	Asia/Tokyo	2016-02-14
+2128976	Nemuro	Nemuro	Nemuro-no-kuni	43.5	145.5	A	ADM4	JP		00			2128976	0		-9999	Asia/Tokyo	1994-02-05
+2129394	Kuroishi-machi	Kuroishi-machi	Kuroishi	40.63333	140.6	A	ADM4	JP		00			2129394	0		45	Asia/Tokyo	1994-02-05
+2129599	Kawayoke-mura	Kawayoke-mura	Kawayoke,Kawayoke-mura	40.81667	140.15	A	ADM4	JP		00			2129599	0		-9999	Asia/Tokyo	2012-01-19
+2130091	Higashi-takasu-chō	Higashi-takasu-cho	Higashi-takasu-cho,Higashi-takasu-chō,Higashi-takasu-mura	43.88333	142.43333	A	ADM4	JP		00			2130091	0		325	Asia/Tokyo	2020-06-11
+2130600	Ashoro-mura	Ashoro-mura	Ashiyoro-mura,Ashoro	43.28333	143.66667	A	ADM4	JP		00			2130600	0		244	Asia/Tokyo	1994-02-05
+12030484	Ōta Kuritsu Haneda Shōgakkō	Ota Kuritsu Haneda Shogakko	Ota Kuritsu Haneda Shogakko,da tian qu li yu tian xiao xue xiao,ootakuritsuhanedashougakkou,Ōta Kuritsu Haneda Shōgakkō,おおたくりつはねだしょうがっこう,オオタクリツハネダショウガッコウ,大田区立羽田小学校	35.54761	139.74603	A	ADM4	JP		12			12030484	0		8	Asia/Tokyo	2019-02-23

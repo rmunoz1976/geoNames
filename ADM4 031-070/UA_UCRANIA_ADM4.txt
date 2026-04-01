@@ -1,0 +1,43 @@
+﻿687049	Zhovtnevyy Rayon	Zhovtnevyy Rayon	Oktyabr'skiy Rayon,Oktyabr’skiy Rayon,Zhovtnevyy Rayon	48.56667	39.33333	A	ADM4	UA		00			687049	0		81	Europe/Kyiv	2022-12-13
+687053	Zhovtnevyy Rayon	Zhovtnevyy Rayon	Molotovskiy Rayon,Zhovtnevyy Rayon	47.09841	37.55367	A	ADM4	UA		00			687053	0		58	Europe/Kyiv	2022-09-01
+687054	Zhovtnevyy Rayon	Zhovtnevyy Rayon	Stalinskiy Rayon,Zhovtnevyy Rayon	46.46667	30.73333	A	ADM4	UA		17			687054	0		53	Europe/Kyiv	2022-09-01
+687793	Zaliznichnyi rayon	Zaliznichnyi rayon	Rejon kolejowy,Zaliznicnij rajon,Zheleznodorozhnyy Rayon,Залізничний район	49.82912	23.97423	A	ADM4	UA		15			687793	0		320	Europe/Kyiv	2022-12-13
+691127	Tsentral’nyy Rayon	Tsentral'nyy Rayon	Tsentral'nyy Rayon,Tsentral’nyy Rayon,Voroshilovskiy Rayon	46.46667	30.73333	A	ADM4	UA		00			691127	0		53	Europe/Kyiv	2022-09-01
+691130	Tsentralno-Miskyi Raion	Tsentralno-Miskyi Raion	Central'no-Mis'kij Rajon,Tsentral'no-Gorodskoy Rayon,Tsentral'no-Mis'kyy Rayon,Tsentralno-Miskyi Raion,Tsentral’no-Gorodskoy Rayon,Tsentral’no-Mis’kyy Rayon,Центрально-Міський Район	48.27561	37.97776	A	ADM4	UA		05			691130	0		198	Europe/Kyiv	2025-10-14
+691131	Tsentralno-Miskyi Raion	Tsentralno-Miskyi Raion	Central'no-Mis'kij Rajon,Tsentral'no-Gorodskoy Rayon,Tsentral'no-Mis'kyy Rayon,Tsentralno-Miskyi Raion,Tsentral’no-Gorodskoy Rayon,Tsentral’no-Mis’kyy Rayon,Центрально-Міський Район	48.06833	37.97205	A	ADM4	UA		05			691131	0		191	Europe/Kyiv	2025-10-14
+692136	Suvorovs’kyy Rayon	Suvorovs'kyy Rayon	Suvorovs'kyy Rayon,Suvorovskiy Rayon,Suvorovs’kyy Rayon	46.46667	30.73333	A	ADM4	UA		17			692136	0		53	Europe/Kyiv	2023-08-25
+693057	Sovetskiy Rayon	Sovetskiy Rayon		48.08533	38.036	A	ADM4	UA		00			693057	0		234	Europe/Kyiv	2024-01-31
+694118	Shevchenkovskiy Rayon	Shevchenkovskiy Rayon	Rejon szewczenkowski	49.83333	24	A	ADM4	UA		00			694118	0		315	Europe/Kyiv	2022-12-13
+695881	Frankivskyi rayon	Frankivskyi rayon	Frankivs'kij rajon,Франківський район	49.81906	24.00423	A	ADM4	UA		15			695881	0	330	333	Europe/Kyiv	2022-12-13
+696285	Prymorskyi District	Prymorskyi District	Primors'kij rajon,Primorskij rajon,Primorskiy Rayon,Prymors'kyy rayon,Prymorskyi District,Приморский район,Приморський район	47.0755	37.50458	A	ADM4	UA		05	9030869		696285	0		17	Europe/Kyiv	2022-09-01
+698431	Ordzhonikidzevskiy Rayon	Ordzhonikidzevskiy Rayon		49.93332	36.39977	A	ADM4	UA		00			698431	0		169	Europe/Kyiv	2022-09-01
+698433	Ordzhonikidzevskiy Rayon	Ordzhonikidzevskiy Rayon		47.10659	37.65221	A	ADM4	UA		00			698433	0		52	Europe/Kyiv	2022-09-01
+698654	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon		49.94835	36.16184	A	ADM4	UA		00			698654	0		130	Europe/Kyiv	2022-09-01
+698978	Novozavodskyi Raion	Novozavodskyi Raion	Novozavods'kij Rajon,Novozavods'kyy Rayon,Novozavodskiy Rayon,Novozavodskyi Raion,Novozavods’kyy Rayon,Новозаводський Район	51.50488	31.28156	A	ADM4	UA		02			698978	0		113	Europe/Kyiv	2025-10-14
+700191	Mykytivskyi Raion	Mykytivskyi Raion	Mikitivs'kij Rajon,Mykytivs'kyy Rayon,Mykytivskyi Raion,Mykytivs’kyy Rayon,Nikitovskiy Rayon,Микитівський Район	48.38221	38.00495	A	ADM4	UA		05			700191	0		266	Europe/Kyiv	2025-10-14
+703235	Leninskiy Rayon	Leninskiy Rayon		49.99549	36.17661	A	ADM4	UA		07	9114284		703235	0		142	Europe/Kyiv	2022-09-01
+703236	Galyts'kyi rayon	Galyts'kyi rayon	Rejon halicki	49.83577	24.02195	A	ADM4	UA		15			703236	0		292	Europe/Kyiv	2022-12-13
+703239	Leninskiy Rayon	Leninskiy Rayon	Klimovskiy Rayon,Leninskiy Rayon	48.56667	39.33333	A	ADM4	UA		14	9030645		703239	0		81	Europe/Kyiv	2022-12-13
+703246	Leninskiy Rayon	Leninskiy Rayon		46.46667	30.73333	A	ADM4	UA		17	9819571		703246	0		53	Europe/Kyiv	2022-09-01
+704613	Kovpakovskiy Rayon	Kovpakovskiy Rayon		50.9	34.8	A	ADM4	UA		00			704613	0		132	Europe/Kyiv	2022-09-01
+704918	Korolovskyi Raion	Korolovskyi Raion	Korol'ovs'kij Rajon,Korol'ovs'kyy Rayon,Korolevskiy Rayon,Korolovskyi Raion,Korolëvskiy Rayon,Korol’ovs’kyy Rayon,Корольовський Район	50.24944	28.70089	A	ADM4	UA		27			704918	0		226	Europe/Kyiv	2025-10-14
+705224	Kominternovskiy Rayon	Kominternovskiy Rayon		49.94017	36.29402	A	ADM4	UA		00			705224	0		139	Europe/Kyiv	2022-09-01
+705705	Kyivskyi Rayon	Kyivskyi Rayon	Kaganovichskiy Rayon,Kyivskiy Rayon	50.04127	36.29951	A	ADM4	UA		07	6312		705705	0		125	Europe/Kyiv	2023-03-18
+705708	Kiyevskiy Rayon	Kiyevskiy Rayon		46.46667	30.73333	A	ADM4	UA		00			705708	0		53	Europe/Kyiv	2022-09-01
+705803	Kirovskiy Rayon	Kirovskiy Rayon		48.06	37.93667	A	ADM4	UA		00			705803	0		198	Europe/Kyiv	2024-01-31
+707007	Kamennobrodskiy Rayon	Kamennobrodskiy Rayon		48.56667	39.33333	A	ADM4	UA		00			707007	0		81	Europe/Kyiv	2022-12-13
+707191	Kalininskiy Rayon	Kalininskiy Rayon		48.358	38.087	A	ADM4	UA		00			707191	0		278	Europe/Kyiv	2024-01-31
+707712	Il’ichevskiy Rayon	Il'ichevskiy Rayon		47.147	37.56226	A	ADM4	UA		00			707712	0		51	Europe/Kyiv	2022-09-01
+707713	Illichivs’kyy Rayon	Illichivs'kyy Rayon	Il'ichevskiy Rayon,Illichivs'kyy Rayon,Illichivs’kyy Rayon,Il’ichevskiy Rayon	46.46667	30.73333	A	ADM4	UA		17			707713	0		53	Europe/Kyiv	2023-08-25
+709076	Frunzenskiy Rayon	Frunzenskiy Rayon		49.97308	36.34071	A	ADM4	UA		00			709076	0		129	Europe/Kyiv	2022-09-01
+709349	Dzerzhinskiy Rayon	Dzerzhinskiy Rayon		50.04645	36.21969	A	ADM4	UA		00			709349	0		160	Europe/Kyiv	2022-09-01
+710069	Desnianskyi Raion	Desnianskyi Raion	Desnianskyi Raion,Desnjans'kij Rajon,Desnyans'kyy Rayon,Desnyanskiy Rayon,Desnyans’kyy Rayon,Деснянський Район	51.50517	31.2971	A	ADM4	UA		02			710069	0		109	Europe/Kyiv	2025-10-14
+710533	Chervonozavodskiy Rayon	Chervonozavodskiy Rayon		49.92736	36.21918	A	ADM4	UA		00			710533	0		116	Europe/Kyiv	2022-09-01
+710551	Chervonogvardeyskiy Rayon	Chervonogvardeyskiy Rayon		48.043	37.896	A	ADM4	UA		00			710551	0		231	Europe/Kyiv	2024-01-31
+710563	Lychakivs'kyi rayon	Lychakivs'kyi rayon	rejon lyczakowski,rejon łyczakowski	49.84285	24.04804	A	ADM4	UA		15			710563	0		330	Europe/Kyiv	2022-12-13
+711872	Bohuns'kyi Rayon	Bohuns'kyi Rayon	Boguns'kij rajon,Bogunskij rajon,Bogunskiy Rayon,Raion de Bohun,Raión de Bohun,Богунский район,Богунський район	50.25	28.66667	A	ADM4	UA		00			711872	0		228	Europe/Kyiv	2022-09-01
+6621563	Schevchenkivs`kiy rayon	Schevchenkivs`kiy rayon	Rejon szewczenkowski	49.84994	24.01096	A	ADM4	UA		15			6621563	0		315	Europe/Kyiv	2022-12-13
+11905983	Kryvachyntsi Starostynskyi Okruh	Kryvachyntsi Starostynskyi Okruh		49.47851	26.42121	A	ADM4	UA		09	689158		11905983	0		323	Europe/Kyiv	2022-09-01
+11905990	Pysarivka Starostynskyi Okruh	Pysarivka Starostynskyi Okruh	Pisarivs'kij starostins'kij okrug,Писарівський старостинський округ	49.51663	26.44593	A	ADM4	UA		09			11905990	0		298	Europe/Kyiv	2022-09-01
+13533236	Hruzkyi Raion	Hruzkyi Raion	Gruz'kij Rajon,Hruzkyi Raion,Kirovs'kij Rajon,Kirovskyi Raion,Грузький Район,Кіровський Район	48.10825	37.93391	A	ADM4	UA		05	1408		13533236	0		246		2025-10-16
+13533237	Kindrativskyi Raion	Kindrativskyi Raion	Kalinins'kij Rajon,Kalininskyi Raion,Kindrativs'kij Rajon,Kindrativskyi Raion,Калінінський Район,Кіндратівський Район	48.34109	38.15506	A	ADM4	UA		05	1406		13533237	0		280		2025-10-16

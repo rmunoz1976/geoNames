@@ -1,0 +1,62 @@
+﻿11352094	Barriera di Milano - Regio Parco - Barca - Bertolla - Falchera - Rebaudengo - Villaretto	Barriera di Milano - Regio Parco - Barca - Bertolla - Falchera - Rebaudengo - Villaretto		45.11161	7.70622	A	ADM4	IT		12	TO	001272	0012726	0		217	Europe/Rome	2019-02-13
+11352095	Aurora, Vanchiglia - Sassi - Madonna del Pilone	Aurora, Vanchiglia - Sassi - Madonna del Pilone		45.07021	7.72855	A	ADM4	IT		12	TO	001272	0012727	0		227	Europe/Rome	2016-11-28
+11352096	San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia	San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia		45.03855	7.6873	A	ADM4	IT		12	TO	001272	0012728	0		305	Europe/Rome	2016-11-28
+11352097	Centro - Crocetta	Centro - Crocetta		45.06306	7.67463	A	ADM4	IT		12	TO	001272	0012721	0		251	Europe/Rome	2016-11-28
+11352098	San Donato - Campidoglio - Parella	San Donato - Campidoglio - Parella		45.08327	7.64011	A	ADM4	IT		12	TO	001272	0012724	0		266	Europe/Rome	2016-11-28
+11352099	Santa Rita - Mirafiori	Santa Rita - Mirafiori	Mirafiori,Santa Rita - Mirafiori	45.03001	7.62679	A	ADM4	IT		12	TO	001272	0012722	0		261	Europe/Rome	2020-10-05
+11352100	San Paolo - Cenisia - Pozzo Strada - Cit Turin - Borgata Lesna	San Paolo - Cenisia - Pozzo Strada - Cit Turin - Borgata Lesna		45.06565	7.63745	A	ADM4	IT		12	TO	001272	0012723	0		270	Europe/Rome	2016-11-28
+11352101	Borgo Vittoria - Madonna di Campagna - Lucento - Vallette	Borgo Vittoria - Madonna di Campagna - Lucento - Vallette		45.10407	7.65753	A	ADM4	IT		12	TO	001272	0012725	0		256	Europe/Rome	2016-11-28
+11395992	Borgo Panigale - Reno	Borgo Panigale - Reno		44.51938	11.27143	A	ADM4	IT		05	BO	037006	03700611	0		47	Europe/Rome	2016-12-23
+11395993	Navile	Navile		44.53166	11.34647	A	ADM4	IT		05	BO	037006	03700612	65262		33	Europe/Rome	2016-12-23
+11395994	Porto - Saragozza	Porto - Saragozza		44.48228	11.31228	A	ADM4	IT		05	BO	037006	03700613	0		127	Europe/Rome	2016-12-23
+11395995	San Donato - San Vitale	San Donato - San Vitale		44.50991	11.39527	A	ADM4	IT		05	BO	037006	03700614	0		43	Europe/Rome	2016-12-23
+11395996	Santo Stefano	Santo Stefano		44.45973	11.33145	A	ADM4	IT		05	BO	037006	03700615	0		162	Europe/Rome	2016-12-23
+11395997	Savena	Savena		44.46933	11.37864	A	ADM4	IT		05	BO	037006	03700616	78658		86	Europe/Rome	2016-12-23
+11395998	San Giovanni Galermo - Trappeto - Cibali	San Giovanni Galermo - Trappeto - Cibali	Quarta Circoscrizione	37.53517	15.05619	A	ADM4	IT		15	CT	087015	0870154	14496		224	Europe/Rome	2016-12-23
+11395999	San Giorgio - Librino - S.G. La Rena - Zia Lisa	San Giorgio - Librino - S.G. La Rena - Zia Lisa	Sesta Circoscrizione	37.42312	15.02684	A	ADM4	IT		15	CT	087015	0870156	38854		12	Europe/Rome	2016-12-23
+11396000	Centro - S. Cristoforo	Centro - S. Cristoforo	Prima Circoscrizione	37.50038	15.08292	A	ADM4	IT		15	CT	087015	0870151	51805		24	Europe/Rome	2016-12-23
+11396001	Ognina - Picanello - Barriera - Canalicchio	Ognina - Picanello - Barriera - Canalicchio	Seconda Circoscrizione	37.53003	15.09724	A	ADM4	IT		15	CT	087015	0870152	50661		68	Europe/Rome	2016-12-23
+11396002	Borgo - Sanzio	Borgo - Sanzio	Terza Circoscrizione	37.51894	15.08477	A	ADM4	IT		15	CT	087015	0870153	46878		55	Europe/Rome	2016-12-23
+11396003	Monte Po - Nesima - San Leone - Rapisardi	Monte Po - Nesima - San Leone - Rapisardi	Quinta Circoscrizione	37.50681	15.05127	A	ADM4	IT		15	CT	087015	0870155	13587		115	Europe/Rome	2016-12-23
+11396080	Municipio Roma I	Municipio Roma I	I Centro Storico	41.89798	12.47813	A	ADM4	IT		07	RM	058091	05809101	0		33	Europe/Rome	2016-12-27
+11396081	Municipio Roma III	Municipio Roma III	III Monte Sacro	41.99579	12.5545	A	ADM4	IT		07	RM	058091	05809103	0		59	Europe/Rome	2016-12-27
+11396082	Municipio Roma IV	Municipio Roma IV	IV Tiburtina	41.93151	12.59152	A	ADM4	IT		07	RM	058091	05809104	0		27	Europe/Rome	2016-12-27
+11396083	Municipio Roma VI	Municipio Roma VI	VI Roma delle Torri	41.8869	12.68729	A	ADM4	IT		07	RM	058091	05809106	0		64	Europe/Rome	2016-12-27
+11396084	Municipio Roma VII	Municipio Roma VII	VII San Giovanni/Cinecitta,VII San Giovanni/Cinecittà	41.8384	12.58207	A	ADM4	IT		07	RM	058091	05809107	0		71	Europe/Rome	2016-12-27
+11396085	Municipio Roma VIII	Municipio Roma VIII	VIII Appia Antica	41.82802	12.52934	A	ADM4	IT		07	RM	058091	05809108	0		41	Europe/Rome	2016-12-27
+11396086	Municipio Roma IX	Municipio Roma IX	IX Eur	41.757	12.49799	A	ADM4	IT		07	RM	058091	05809109	0		75	Europe/Rome	2016-12-27
+11396087	Municipio Roma X	Municipio Roma X	X Ostia/Acilia	41.73875	12.36328	A	ADM4	IT		07	RM	058091	05809110	0		14	Europe/Rome	2016-12-27
+11396088	Municipio Roma XI	Municipio Roma XI	XI Arvalia/Portuense	41.83002	12.37696	A	ADM4	IT		07	RM	058091	05809111	0		25	Europe/Rome	2016-12-27
+11396089	Municipio Roma XII	Municipio Roma XII	XII Monte Verde	41.87037	12.34497	A	ADM4	IT		07	RM	058091	05809112	0		42	Europe/Rome	2016-12-27
+11396090	Municipio Roma XIII	Municipio Roma XIII	XIII Aurelia	41.90979	12.3463	A	ADM4	IT		07	RM	058091	05809113	0		62	Europe/Rome	2016-12-27
+11396091	Municipio Roma XIV	Municipio Roma XIV	XIV Monte Mario	41.97501	12.34567	A	ADM4	IT		07	RM	058091	05809114	0		102	Europe/Rome	2016-12-27
+11396092	Municipio Roma XV	Municipio Roma XV	XV Cassia/Flaminia	42.02907	12.41586	A	ADM4	IT		07	RM	058091	05809115	0		105	Europe/Rome	2016-12-27
+11396093	Municipio Roma II	Municipio Roma II	II Parioli/Nomentano	41.92006	12.50136	A	ADM4	IT		07	RM	058091	05809102	0		68	Europe/Rome	2016-12-27
+11396094	Municipio Roma V	Municipio Roma V	V Prenestino/Centocelle	41.88846	12.57574	A	ADM4	IT		07	RM	058091	05809105	0		35	Europe/Rome	2016-12-27
+12022734	Municipio 8	Municipio 8		45.49932	9.13002	A	ADM4	IT		09	MI	015146	8	0		135	Europe/Rome	2019-02-11
+12022735	Municipio 9	Municipio 9		45.51197	9.18157	A	ADM4	IT		09	MI	015146	9	0		136	Europe/Rome	2019-02-11
+12022736	Municipio 2	Municipio 2		45.50342	9.22459	A	ADM4	IT		09	MI	015146	2	0		138	Europe/Rome	2019-02-11
+12022737	Municipio 3	Municipio 3		45.48498	9.24003	A	ADM4	IT		09	MI	015146	3	0		121	Europe/Rome	2019-02-11
+12022738	Municipio 4	Municipio 4		45.44891	9.23943	A	ADM4	IT		09	MI	015146	4	0		109	Europe/Rome	2019-02-11
+12022739	Municipio 7	Municipio 7		45.46901	9.09644	A	ADM4	IT		09	MI	015146	7	0		122	Europe/Rome	2019-02-11
+12022740	Municipio 6	Municipio 6		45.44147	9.14355	A	ADM4	IT		09	MI	015146	6	0		116	Europe/Rome	2019-02-11
+12022741	Municipio 5	Municipio 5		45.42014	9.19558	A	ADM4	IT		09	MI	015146	5	0		105	Europe/Rome	2019-02-11
+12022742	Municipio 1	Municipio 1		45.46663	9.18563	A	ADM4	IT		09	MI	015146	1	0		134	Europe/Rome	2019-02-11
+12070048	Municipalità 1	Municipalita 1		40.81684	14.20529	A	ADM4	IT		04	NA	063049	1	79616		146	Europe/Rome	2019-07-22
+12070049	Municipalità 5	Municipalita 5		40.85211	14.22237	A	ADM4	IT		04	NA	063049	5	112425		185	Europe/Rome	2019-07-22
+12070050	Municipalità 9	Municipalita 9		40.85326	14.17163	A	ADM4	IT		04	NA	063049	9	103135		160	Europe/Rome	2019-07-22
+12070051	Municipalità 6	Municipalita 6		40.8514	14.3235	A	ADM4	IT		04	NA	063049	6	112765		19	Europe/Rome	2019-07-22
+12070052	Municipalità 4	Municipalita 4		40.85875	14.27949	A	ADM4	IT		04	NA	063049	4	93035		18	Europe/Rome	2019-07-22
+12070053	Municipalità 2	Municipalita 2		40.85019	14.2662	A	ADM4	IT		04	NA	063049	2	92272		20	Europe/Rome	2019-07-22
+12070054	Municipalità 8	Municipalita 8		40.88946	14.22377	A	ADM4	IT		04	NA	063049	8	89990		156	Europe/Rome	2019-07-22
+12070055	Municipalità 7	Municipalita 7		40.89008	14.27464	A	ADM4	IT		04	NA	063049	7	84047		95	Europe/Rome	2019-07-22
+12070056	Municipalità 10	Municipalita 10		40.81809	14.1789	A	ADM4	IT		04	NA	063049	10	95141		22	Europe/Rome	2019-07-22
+12070057	Municipalità 3	Municipalita 3		40.86807	14.25055	A	ADM4	IT		04	NA	063049	3	99577		157	Europe/Rome	2019-07-22
+12070389	Circoscrizione I	Circoscrizione I		38.11697	13.36353	A	ADM4	IT		15	PA	082053	1	0		26	Europe/Rome	2019-07-25
+12070391	Circoscrizione II	Circoscrizione II		38.10073	13.38893	A	ADM4	IT		15	PA	082053	2	0		20	Europe/Rome	2019-07-25
+12070392	Circoscrizione III	Circoscrizione III		38.08026	13.37762	A	ADM4	IT		15	PA	082053	3	0		102	Europe/Rome	2019-07-25
+12070393	Circoscrizione IV	Circoscrizione IV		38.09703	13.33012	A	ADM4	IT		15	PA	082053	4	0		82	Europe/Rome	2019-07-25
+12070394	Circoscrizione VII	Circoscrizione VII		38.1933	13.30787	A	ADM4	IT		15	PA	082053	7	0		17	Europe/Rome	2019-07-25
+12070395	Circoscrizione VIII	Circoscrizione VIII		38.15267	13.36396	A	ADM4	IT		15	PA	082053	8	0		15	Europe/Rome	2019-07-25
+12070396	Circoscrizione VI	Circoscrizione VI		38.15605	13.30619	A	ADM4	IT		15	PA	082053	6	0		210	Europe/Rome	2019-07-25
+12070397	Circoscrizione V	Circoscrizione V		38.1309	13.29494	A	ADM4	IT		15	PA	082053	5	0		90	Europe/Rome	2019-07-25

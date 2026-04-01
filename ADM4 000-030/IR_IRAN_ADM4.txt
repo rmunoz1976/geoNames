@@ -1,0 +1,5 @@
+﻿67160	Polrūdbār	Polrudbar	Dehestan-e Pol-e Rudbar,Dehestan-e tol Rud,Dehestān-e Pol-e Rūdbār,Dehestān-e tol Rūd,Polrudbar,Polrūdbār,dihistani puli rwdbar,dihistani tul rwd,pulrwdbar,دِهِستانِ تُل رود,دِهِستانِ پُلِ رودبار,پُلرودبار	37.06667	50.36667	A	ADM4	IR		08			67160	0		-7	Asia/Tehran	2024-07-24
+67260	Ojārūd	Ojarud	Ojarud,Ojārūd,Oujarood,Owjarud,Owjārūd	39	48	A	ADM4	IR		32			67260	0		1166	Asia/Tehran	2024-07-25
+67719	Kūh Panj	Kuh Panj	Kuh Panj,Kūh Panj,kwh pnj,کوه پنج	29.95	56.25	A	ADM4	IR		29			67719	0		2384	Asia/Tehran	2024-07-18
+67738	Kowlīvand	Kowlivand	Kowlivand,Kowlīvand,Kuliwand,Kūlīwand,kulywand,كُوليوَند	33.83333	48.1	A	ADM4	IR		23			67738	0		1860	Asia/Tehran	2024-07-23
+68056	Dehestān-e Kalār Dasht	Dehestan-e Kalar Dasht	Dehestan-e Kalar Dasht,Dehestān-e Kalār Dasht,Kalar Dasht,Kalār Dasht,klar dsht,کلار دشت	36.58333	51.25	A	ADM4	IR		35			68056	0		652	Asia/Tehran	2024-07-23

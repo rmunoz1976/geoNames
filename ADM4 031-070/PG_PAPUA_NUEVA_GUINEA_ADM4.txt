@@ -1,0 +1,4 @@
+﻿7732340	Barovon	Barovon		-4.30503	152.2194	A	ADM4	PG					7732340	0		25	Pacific/Port_Moresby	2011-03-28
+7732342	Kuradui	Kuradui		-4.31012	152.22399	A	ADM4	PG					7732342	0		25	Pacific/Port_Moresby	2011-03-28
+7732345	Butuwin	Butuwin		-4.32698	152.23995	A	ADM4	PG					7732345	0		35	Pacific/Port_Moresby	2011-03-28
+7732347	Baliora	Baliora		-4.37055	152.20759	A	ADM4	PG		10			7732347	0		233	Pacific/Port_Moresby	2011-03-28

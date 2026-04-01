@@ -1,0 +1,3 @@
+﻿1215967	Tekstil'nyy Rayon	Tekstil'nyy Rayon		39.8	64.41667	A	ADM4	UZ		02			1215967	0		227	Asia/Samarkand	2007-05-30
+1217348	Fayzulla-Khodzhayevskiy Rayon	Fayzulla-Khodzhayevskiy Rayon		39.8	64.41667	A	ADM4	UZ		00			1217348	0		227	Asia/Samarkand	1994-03-11
+1513552	Kirguliyskiy Rayon	Kirguliyskiy Rayon		40.38333	71.76667	A	ADM4	UZ		03			1513552	0		577	Asia/Tashkent	2007-05-30

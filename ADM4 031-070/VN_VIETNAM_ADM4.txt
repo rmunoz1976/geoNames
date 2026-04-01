@@ -1,0 +1,17 @@
+﻿1566830	Ấp Tân Phú	Ap Tan Phu		10.28333	105.6	A	ADM4	VN		82	1577922		1566830	0		6	Asia/Ho_Chi_Minh	2025-11-05
+1592240	Ấp Tân Khánh	Ap Tan Khanh	Ap Tan Khanh,Tan Khanh,Tân Khánh,Ấp Tân Khánh	10.2663	105.60182	A	ADM4	VN		82	1577922		1592240	0		7	Asia/Ho_Chi_Minh	2026-02-14
+1593082	Ấp Tân Hưng	Ap Tan Hung	Ap Tan Hung,Phu Thanh,Phú Thành,Ấp Tân Hưng	10.26022	105.60956	A	ADM4	VN		82	1577922		1593082	0		9	Asia/Ho_Chi_Minh	2026-02-14
+1594078	Ấp An Ninh	Ap An Ninh	An Ninh,Ap An Ninh,Ấp An Ninh	10.31667	105.51667	A	ADM4	VN		82	1577922		1594078	0		2	Asia/Ho_Chi_Minh	2025-11-06
+1594093	Ấp An Lợi A	Ap An Loi A		10.31667	105.55	A	ADM4	VN		82	1577922		1594093	0		8	Asia/Ho_Chi_Minh	2026-02-14
+1594105	Ấp An Lạc	Ap An Lac		10.31667	105.53333	A	ADM4	VN		82	1577922		1594105	0		6	Asia/Ho_Chi_Minh	2025-11-07
+1594110	Ấp An Khương	Ap An Khuong		10.3	105.55	A	ADM4	VN		82	1577922		1594110	0		2	Asia/Ho_Chi_Minh	2025-11-06
+1594142	Ấp Tân Định	Ap Tan GJinh	Ap Tan GJinh,Cai GJoi,Cái Đôi,Ấp Tân Định	10.28333	105.56667	A	ADM4	VN		82	1577922		1594142	0		3	Asia/Ho_Chi_Minh	2025-11-05
+8365605	Ấp An Hòa	Ap An Hoa	An Hoa,An Hòa	10.32871	105.49927	A	ADM4	VN		82	1577922		8365605	0		9	Asia/Ho_Chi_Minh	2026-02-14
+8740063	Minh Khai	Minh Khai		21.0605	105.74979	A	ADM4	VN		01			8740063	0		9	Asia/Bangkok	2025-07-29
+9289613	Ấp An Bình	Ap An Binh	Ap An Binh,Ấp An Binh	10.31035	105.55774	A	ADM4	VN		82	1577922	30199	9289613	0		6	Asia/Ho_Chi_Minh	2026-02-15
+11496074	Ấp Tân An	Ap Tan An	Ap Tan An,Ấp Tân An	10.27058	105.59332	A	ADM4	VN		82	1577922		11496074	0		8	Asia/Ho_Chi_Minh	2026-02-14
+11496075	Ấp Tân Lộc	Ap Tan Loc	Ap Tan Loc,Ấp Tân Lộc	10.25131	105.60509	A	ADM4	VN		82	1577922		11496075	0		0	Asia/Ho_Chi_Minh	2026-02-14
+11496076	Ấp Tân Bình	Ap Tan Binh	Ap Tan Binh,Ấp Tân Bình	10.26159	105.58774	A	ADM4	VN		82	1577922		11496076	0		6	Asia/Ho_Chi_Minh	2026-02-14
+11496077	Ấp Tân Lợi	Ap Tan Loi	Ap Tan Loi,Ấp Tân Lợi	10.25458	105.59147	A	ADM4	VN		82	1577922		11496077	0		9	Asia/Ho_Chi_Minh	2025-11-05
+11496085	Thông Dông Hamlet	Thong Dong Hamlet	ap Thong Dong,ấp Thông Dong	10.25844	105.3436	A	ADM4	VN		82			11496085	0		2	Asia/Ho_Chi_Minh	2026-02-14
+11496086	Ấp Long Thành	Ap Long Thanh	ap Long Thanh,ấp Long Thành	10.28194	105.61409	A	ADM4	VN		82			11496086	0		6	Asia/Ho_Chi_Minh	2025-11-03

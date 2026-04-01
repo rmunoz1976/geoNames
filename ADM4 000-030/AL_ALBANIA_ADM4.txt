@@ -1,0 +1,19 @@
+﻿781241	Viçidol	Vicidol	Vicidoli,Viçidoli	42.38694	20.17583	A	ADM4	AL		47	26		781241	0		352	Europe/Tirane	2012-05-21
+781358	Tropojë	Tropoje	Tropoja,Tropoje-Fshat,Tropojë-Fshat,Тропоя	42.40417	20.16667	A	ADM4	AL		47	26		781358	0		400	Europe/Tirane	2012-05-21
+781603	Shumicë-Ahmataj	Shumice-Ahmataj	Achmetaj,Ahmataj,Ahmetaj,Hakmatai,Shujice-Ahmataj,Shujicë-Ahmataj	42.39444	20.13917	A	ADM4	AL		47	26		781603	0		428	Europe/Tirane	2012-05-21
+782094	Papaj	Papaj	Ballaban,Papaj Ballaban	42.43222	20.16417	A	ADM4	AL		47			782094	0		868	Europe/Tirane	2010-06-16
+782725	Sylaj	Sylaj	Kovaci,Kovacica,Kovaçi	42.41333	20.13056	A	ADM4	AL		47			782725	0	690	699	Europe/Tirane	2010-06-16
+782798	Rrustemaj	Rrustemaj	Kocan,Koconaj,Koçan,Koçonaj	42.37722	20.07972	A	ADM4	AL		47	26		782798	0		325	Europe/Tirane	2012-05-21
+782829	Kërrnajë	Kerrnaje	Kernaj,Kernaje,Kernoj,Kerrnaja,Kërnaje,Kërnoj,Kërrnaja	42.41028	20.12083	A	ADM4	AL		47	26		782829	0		695	Europe/Tirane	2012-05-21
+783524	Buçaj	Bucaj		42.42806	20.16333	A	ADM4	AL		47	26		783524	0		788	Europe/Tirane	2012-05-21
+6695365	Kortoçaj	Kortocaj	Dinaj	42.42374	20.14448	A	ADM4	AL		47	26		6695365	2010		715	Europe/Tirane	2012-05-21
+7302774	Tella e Begaje	Tella e Begaje		42.45314	20.11155	A	ADM4	AL		47	26		7302774	0		1947	Europe/Tirane	2012-05-21
+7302776	Lera e Begaje	Lera e Begaje		42.45266	20.11049	A	ADM4	AL		47	26		7302776	0		1973	Europe/Tirane	2012-05-21
+7302777	Lera e Zeqanis	Lera e Zeqanis		42.45549	20.1028	A	ADM4	AL		47	26		7302777	0		2112	Europe/Tirane	2012-05-21
+7302779	Lera e Myhejanit	Lera e Myhejanit		42.45229	20.11848	A	ADM4	AL		47	26		7302779	0		1901	Europe/Tirane	2012-05-21
+7302782	Vorri i mirë (Tyrbja e Shkelzenit)	Vorri i mire (Tyrbja e Shkelzenit)		42.4587	20.12056	A	ADM4	AL		47	26		7302782	0		2226	Europe/Tirane	2012-05-21
+7302894	Shkolla e Kerrnajës	Shkolla e Kerrnajes		42.41143	20.12276	A	ADM4	AL		47	26		7302894	0		701	Europe/Tirane	2012-05-21
+7302897	Gelaj	Gelaj		42.3756	20.07144	A	ADM4	AL		47	26		7302897	0		399	Europe/Tirane	2017-12-23
+7302898	Margegaj	Margegaj		42.37173	20.07301	A	ADM4	AL		47	26		7302898	0		368	Europe/Tirane	2012-05-21
+7302900	Spitali i Bajram Currit	Spitali i Bajram Currit		42.36352	20.07466	A	ADM4	AL		47	26		7302900	0		359	Europe/Tirane	2012-05-21
+7302932	Ukshaj	Ukshaj		42.29504	20.20401	A	ADM4	AL		47	26		7302932	0		570	Europe/Tirane	2012-05-21

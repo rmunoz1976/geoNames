@@ -1,0 +1,86 @@
+﻿8426027	Osiedle Zawady	Osiedle Zawady		53.16386	23.11352	A	ADM4	PL		81	2061	206101	8426027	0		126	Europe/Warsaw	2012-11-21
+8426028	Osiedle Jaroszówka	Osiedle Jaroszowka		53.16339	23.19669	A	ADM4	PL		81	2061	206101	8426028	0		160	Europe/Warsaw	2012-11-21
+11807913	Praga Południe	Praga Poludnie		52.23944	21.08461	A	ADM4	PL		78	1465	146501	146507_8	0		85	Europe/Warsaw	2018-01-16
+11807914	Białołęka	Bialoleka		52.33195	21.00404	A	ADM4	PL		78	1465	146501	146503_8	0		81	Europe/Warsaw	2018-01-16
+11807915	Mokotów	Mokotow		52.19278	21.0416	A	ADM4	PL		78	1465	146501	146505_8	0		83	Europe/Warsaw	2018-01-16
+11807916	Bielany	Bielany		52.29336	20.92613	A	ADM4	PL		78	1465	146501	146504_8	0		102	Europe/Warsaw	2018-01-16
+11807917	Bemowo	Bemowo		52.24597	20.90405	A	ADM4	PL		78	1465	146501	146502_8	0		108	Europe/Warsaw	2018-01-16
+11807918	Rembertów	Rembertow		52.26201	21.15018	A	ADM4	PL		78	1465	146501	146509_8	0		95	Europe/Warsaw	2018-01-16
+11807919	Targówek	Targowek		52.28266	21.06349	A	ADM4	PL		78	1465	146501	146511_8	0		81	Europe/Warsaw	2018-01-16
+11807920	Wawer	Wawer		52.19302	21.17792	A	ADM4	PL		78	1465	146501	146514_8	0		90	Europe/Warsaw	2018-01-16
+11807921	Ursynów	Ursynow		52.13331	21.03231	A	ADM4	PL		78	1465	146501	146513_8	0		112	Europe/Warsaw	2018-01-16
+11807922	Śródmieście	Srodmiescie		52.23286	21.01904	A	ADM4	PL		78	1465	146501	146510_8	0		112	Europe/Warsaw	2018-01-16
+11807923	Wesoła	Wesola		52.23241	21.2253	A	ADM4	PL		78	1465	146501	146515_8	0		103	Europe/Warsaw	2018-01-16
+11807924	Wilanów	Wilanow		52.1519	21.10495	A	ADM4	PL		78	1465	146501	146516_8	0		80	Europe/Warsaw	2018-01-16
+11807925	Włochy	Wlochy		52.18074	20.94766	A	ADM4	PL		78	1465	146501	146517_8	0		108	Europe/Warsaw	2018-01-16
+11807926	Praga-Północ	Praga-Polnoc		52.26483	21.02738	A	ADM4	PL		78	1465	146501	146508_8	0		85	Europe/Warsaw	2018-01-16
+11807927	Wola	Wola		52.2345	20.95712	A	ADM4	PL		78	1465	146501	146518_8	0		109	Europe/Warsaw	2018-01-16
+11807928	Ochota	Ochota		52.2107	20.97384	A	ADM4	PL		78	1465	146501	146506_8	0		113	Europe/Warsaw	2018-01-16
+11807929	Ursus	Ursus		52.19501	20.88208	A	ADM4	PL		78	1465	146501	146512_8	0		105	Europe/Warsaw	2018-01-16
+11807930	Żoliborz	Zoliborz		52.26877	20.98176	A	ADM4	PL		78	1465	146501	146519_8	0		94	Europe/Warsaw	2018-01-16
+12047556	Krzyki - Partynice	Krzyki - Partynice		51.06597	16.99991	A	ADM4	PL		72	0264	026401	21	0		122	Europe/Warsaw	2019-06-03
+12047557	Sołtysowice	Soltysowice		51.15228	17.07464	A	ADM4	PL		72	0264	026401	42	0		115	Europe/Warsaw	2019-06-03
+12047558	Przedmieście Oławskie	Przedmiescie Olawskie		51.09664	17.06624	A	ADM4	PL		72	0264	026401	10	0		117	Europe/Warsaw	2019-06-03
+12047559	Muchobór Wielki	Muchobor Wielki		51.09825	16.93992	A	ADM4	PL		72	0264	026401	29	0		119	Europe/Warsaw	2019-06-03
+12047560	Wojszyce	Wojszyce		51.06078	17.03988	A	ADM4	PL		72	0264	026401	48	0		128	Europe/Warsaw	2019-06-03
+12047561	Kowale	Kowale		51.13068	17.10257	A	ADM4	PL		72	0264	026401	38	0		115	Europe/Warsaw	2019-06-03
+12047562	Ołtaszyn	Oltaszyn		51.05639	17.02207	A	ADM4	PL		72	0264	026401	20	0		131	Europe/Warsaw	2019-06-03
+12047563	Klecina	Klecina		51.0608	16.97375	A	ADM4	PL		72	0264	026401	22	0		124	Europe/Warsaw	2019-06-03
+12047564	Tarnogaj	Tarnogaj		51.08229	17.05876	A	ADM4	PL		72	0264	026401	11	0		124	Europe/Warsaw	2019-06-03
+12047565	Polanowice - Poświętne - Ligota	Polanowice - Poswietne - Ligota		51.16002	17.04131	A	ADM4	PL		72	0264	026401	43	0		113	Europe/Warsaw	2019-06-03
+12047566	Jerzmanowo - Jarnołtów - Strachowice - Osiniec	Jerzmanowo - Jarnoltow - Strachowice - Osiniec		51.11313	16.87947	A	ADM4	PL		72	0264	026401	33	0		118	Europe/Warsaw	2019-06-03
+12047567	Księże	Ksieze		51.08254	17.10692	A	ADM4	PL		72	0264	026401	16	0		121	Europe/Warsaw	2019-06-03
+12047568	Świniary	Swiniary		51.19363	16.973	A	ADM4	PL		72	0264	026401	46	0		109	Europe/Warsaw	2019-06-03
+12047569	Lipa Piotrowska	Lipa Piotrowska		51.17226	17.00119	A	ADM4	PL		72	0264	026401	45	0		112	Europe/Warsaw	2019-06-03
+12047570	Grabiszyn - Grabiszynek	Grabiszyn - Grabiszynek		51.08917	16.98332	A	ADM4	PL		72	0264	026401	27	0		120	Europe/Warsaw	2019-06-03
+12047571	Pracze Odrzańskie	Pracze Odrzanskie		51.18367	16.90668	A	ADM4	PL		72	0264	026401	36	0		108	Europe/Warsaw	2019-06-03
+12047572	Oporów	Oporow		51.0791	16.95838	A	ADM4	PL		72	0264	026401	28	0		121	Europe/Warsaw	2019-06-03
+12047573	Osobowice - Rędzin	Osobowice - Redzin		51.16823	16.96657	A	ADM4	PL		72	0264	026401	47	0		111	Europe/Warsaw	2019-06-03
+12047574	Strachocin - Swojczyce - Wojnów	Strachocin - Swojczyce - Wojnow		51.10757	17.14371	A	ADM4	PL		72	0264	026401	39	0		117	Europe/Warsaw	2019-06-03
+12047575	Psie Pole - Zawidawie	Psie Pole - Zawidawie		51.15401	17.12665	A	ADM4	PL		72	0264	026401	40	0		122	Europe/Warsaw	2019-06-03
+12047576	Karłowice - Różanka	Karlowice - Rozanka		51.14099	17.0386	A	ADM4	PL		72	0264	026401	37	0		116	Europe/Warsaw	2019-06-03
+12047577	Pilczyce - Kozanów - Popowice Płn.	Pilczyce - Kozanow - Popowice Pln.		51.13892	16.96949	A	ADM4	PL		72	0264	026401	23	0		113	Europe/Warsaw	2019-06-03
+12047578	Leśnica	Lesnica		51.15154	16.87115	A	ADM4	PL		72	0264	026401	34	0		129	Europe/Warsaw	2019-06-03
+12047579	Maślice	Maslice		51.1583	16.93573	A	ADM4	PL		72	0264	026401	35	0		113	Europe/Warsaw	2019-06-03
+12047580	Widawa	Widawa		51.17255	17.01958	A	ADM4	PL		72	0264	026401	44	0		114	Europe/Warsaw	2019-06-03
+12047581	Gądów - Popowice Płd.	Gadow - Popowice Pld.		51.1231	16.97332	A	ADM4	PL		72	0264	026401	24	0		117	Europe/Warsaw	2019-06-03
+12047582	Bieńkowice	Bienkowice		51.05093	17.09672	A	ADM4	PL		72	0264	026401	18	0		119	Europe/Warsaw	2019-06-03
+12047583	Gaj	Gaj		51.07677	17.03781	A	ADM4	PL		72	0264	026401	14	0		123	Europe/Warsaw	2019-06-03
+12047584	Żerniki	Zerniki		51.11943	16.91716	A	ADM4	PL		72	0264	026401	32	0		118	Europe/Warsaw	2019-06-03
+12047585	Przedmieście Świdnickie	Przedmiescie Swidnickie		51.10337	17.02272	A	ADM4	PL		72	0264	026401	2	0		118	Europe/Warsaw	2019-06-03
+12047586	Borek	Borek	Kleinburg	51.08033	17.01161	A	ADM4	PL		72	0264	026401	15	0		125	Europe/Warsaw	2021-06-28
+12047587	Muchobór Mały	Muchobor Maly		51.10659	16.97636	A	ADM4	PL		72	0264	026401	25	0		117	Europe/Warsaw	2019-06-03
+12047588	Plac Grunwaldzki	Plac Grunwaldzki		51.11111	17.06089	A	ADM4	PL		72	0264	026401	7	0		118	Europe/Warsaw	2019-06-03
+12047589	Kleczków	Kleczkow		51.12974	17.03376	A	ADM4	PL		72	0264	026401	5	0		115	Europe/Warsaw	2019-06-03
+12047590	Zacisze - Zalesie - Szczytniki	Zacisze - Zalesie - Szczytniki		51.11922	17.08405	A	ADM4	PL		72	0264	026401	8	0		118	Europe/Warsaw	2019-06-03
+12047591	Nadodrze	Nadodrze		51.12055	17.03093	A	ADM4	PL		72	0264	026401	4	0		117	Europe/Warsaw	2019-06-03
+12047592	Jagodno	Jagodno		51.05817	17.05714	A	ADM4	PL		72	0264	026401	19	0		123	Europe/Warsaw	2019-06-03
+12047593	Nowy Dwór	Nowy Dwor		51.11543	16.95172	A	ADM4	PL		72	0264	026401	30	0		119	Europe/Warsaw	2019-06-03
+12047594	Huby	Huby		51.08967	17.03789	A	ADM4	PL		72	0264	026401	12	0		125	Europe/Warsaw	2019-06-03
+12047595	Kuźniki	Kuzniki		51.12441	16.9484	A	ADM4	PL		72	0264	026401	31	0		120	Europe/Warsaw	2019-06-03
+12047596	Pawłowice	Pawlowice		51.16809	17.09992	A	ADM4	PL		72	0264	026401	41	0		122	Europe/Warsaw	2019-06-03
+12047597	Stare Miasto	Stare Miasto		51.11094	17.03651	A	ADM4	PL		72	0264	026401	1	0		122	Europe/Warsaw	2019-06-03
+12047598	Powstańców Śląskich	Powstancow Slaskich		51.09295	17.02015	A	ADM4	PL		72	0264	026401	13	0		133	Europe/Warsaw	2019-06-03
+12047599	Gajowice	Gajowice		51.09668	17.00317	A	ADM4	PL		72	0264	026401	26	0		117	Europe/Warsaw	2019-06-03
+12047600	Szczepin	Szczepin		51.11716	17.00758	A	ADM4	PL		72	0264	026401	3	0		115	Europe/Warsaw	2019-06-03
+12047601	Ołbin	Olbin		51.12214	17.05719	A	ADM4	PL		72	0264	026401	6	0		118	Europe/Warsaw	2019-06-03
+12047602	Biskupin - Sępolno - Dąbie - Bartoszowice	Biskupin - Sepolno - Dabie - Bartoszowice		51.10423	17.09708	A	ADM4	PL		72	0264	026401	9	0		117	Europe/Warsaw	2019-06-03
+12047603	Brochów	Brochow		51.06295	17.07852	A	ADM4	PL		72	0264	026401	17	0		124	Europe/Warsaw	2019-06-03
+12572262	Mistrzejowice	Mistrzejowice	Dzielnica XV Mistrzejowice,Mistrzejowice	50.09811	20.00728	A	ADM4	PL		77	1261	126101	15	0		245	Europe/Warsaw	2023-10-01
+12572263	Czyżyny	Czyzyny	Czyzyny,Czyżyny,Dzielnica XIV Czyzyny,Dzielnica XIV Czyżyny	50.06561	20.0107	A	ADM4	PL		77	1261	126101	14	0		196	Europe/Warsaw	2023-10-01
+12572264	Dębniki	Debniki	Debniki,Dzielnica VIII Debniki,Dzielnica VIII Dębniki,Dębniki	50.01582	19.86553	A	ADM4	PL		77	1261	126101	8	0		228	Europe/Warsaw	2023-10-01
+12572265	Prądnik Czerwony	Pradnik Czerwony	Dzielnica III Pradnik Czerwony,Dzielnica III Prądnik Czerwony,Pradnik Czerwony,Prądnik Czerwony	50.08622	19.97342	A	ADM4	PL		77	1261	126101	3	0		214	Europe/Warsaw	2023-10-01
+12572266	Krowodrza	Krowodrza	Dzielnica V Krowodrza,Krowodrza	50.07238	19.91744	A	ADM4	PL		77	1261	126101	5	0		211	Europe/Warsaw	2023-10-01
+12572267	Stare Miasto	Stare Miasto	Dzielnica I Stare Miasto,Stare Miasto	50.06309	19.94099	A	ADM4	PL		77	1261	126101	1	0		221	Europe/Warsaw	2023-10-01
+12572268	Swoszowice	Swoszowice	Dzielnica X Swoszowice,Swoszowice	49.98958	19.95049	A	ADM4	PL		77	1261	126101	10	0		282	Europe/Warsaw	2023-10-01
+12572269	Bronowice	Bronowice	Bronowice,Dzielnica VI Bronowice	50.08246	19.87218	A	ADM4	PL		77	1261	126101	6	0		221	Europe/Warsaw	2023-10-01
+12572270	Bieńczyce	Bienczyce	Bienczyce,Bieńczyce,Dzielnica XVI Bienczyce,Dzielnica XVI Bieńczyce	50.08635	20.02743	A	ADM4	PL		77	1261	126101	16	0		223	Europe/Warsaw	2023-10-01
+12572271	Zwierzyniec	Zwierzyniec	Dzielnica VII Zwierzyniec,Zwierzyniec	50.0583	19.85474	A	ADM4	PL		77	1261	126101	7	0		324	Europe/Warsaw	2023-10-01
+12572272	Wzgórza Krzesławickie	Wzgorza Krzeslawickie	Dzielnica XVII Wzgorza Krzeslawickie,Dzielnica XVII Wzgórza Krzesławickie,Wzgorza Krzeslawickie,Wzgórza Krzesławickie	50.10061	20.09123	A	ADM4	PL		77	1261	126101	17	0		224	Europe/Warsaw	2023-10-01
+12572273	Łagiewniki-Borek Fałęcki	Lagiewniki-Borek Falecki	Dzielnica IX Lagiewniki-Borek Falecki,Dzielnica IX Łagiewniki-Borek Fałęcki,Lagiewniki-Borek Falecki,Łagiewniki-Borek Fałęcki	50.0164	19.93013	A	ADM4	PL		77	1261	126101	9	0		212	Europe/Warsaw	2023-10-01
+12572274	Podgórze Duchackie	Podgorze Duchackie	Dzielnica XI Podgorze Duchackie,Dzielnica XI Podgórze Duchackie,Podgorze Duchackie,Podgórze Duchackie	50.01235	19.96612	A	ADM4	PL		77	1261	126101	11	0		259	Europe/Warsaw	2023-10-01
+12572275	Grzegórzki	Grzegorzki	Dzielnica II Grzegorzki,Dzielnica II Grzegórzki,Grzegorzki,Grzegórzki	50.06331	19.96583	A	ADM4	PL		77	1261	126101	2	0		203	Europe/Warsaw	2023-10-01
+12572276	Nowa Huta	Nowa Huta	Dzielnica XVIII Nowa Huta,Nowa Huta	50.07251	20.13145	A	ADM4	PL		77	1261	126101	18	0		205	Europe/Warsaw	2023-10-01
+12572277	Podgórze	Podgorze	Dzielnica XIII Podgorze,Dzielnica XIII Podgórze,Podgorze,Podgórze	50.04069	20.00806	A	ADM4	PL		77	1261	126101	13	0		195	Europe/Warsaw	2023-10-01
+12572278	Bieżanów-Prokocim	Biezanow-Prokocim	Biezanow-Prokocim,Bieżanów-Prokocim,Dzielnica XII Biezanow-Prokocim,Dzielnica XII Bieżanów-Prokocim	50.01775	20.0282	A	ADM4	PL		77	1261	126101	12	0		207	Europe/Warsaw	2023-10-01
+12572279	Prądnik Biały	Pradnik Bialy	Dzielnica IV Pradnik Bialy,Dzielnica IV Prądnik Biały,Pradnik Bialy,Prądnik Biały	50.09233	19.91999	A	ADM4	PL		77	1261	126101	4	0		241	Europe/Warsaw	2023-10-01

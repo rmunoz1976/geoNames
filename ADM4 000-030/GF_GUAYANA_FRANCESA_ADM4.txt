@@ -1,0 +1,22 @@
+﻿6690686	Apatou	Apatou		5.1567	-54.3431	A	ADM4	GF		GF	973	9732	97360	10059		8	America/Cayenne	2025-08-21
+6690687	Awala-Yalimapo	Awala-Yalimapo		5.7361	-53.9081	A	ADM4	GF		GF	973	9732	97361	1393		7	America/Cayenne	2019-03-23
+6690688	Camopi	Camopi		3.1703	-52.3436	A	ADM4	GF		GF	973	9731	97356	1787		77	America/Cayenne	2019-03-23
+6690689	Cayenne	Cayenne		4.9386	-52.335	A	ADM4	GF		GF	973	9731	97302	60580		14	America/Cayenne	2019-03-23
+6690690	Grand-Santi	Grand-Santi		4.2728	-54.38	A	ADM4	GF		GF	973	9732	97357	9390		53	America/Cayenne	2025-08-21
+6690691	Iracoubo	Iracoubo		5.48	-53.2056	A	ADM4	GF		GF	973	9731	97303	1825		5	America/Cayenne	2019-03-23
+6690692	Kourou	Kourou	Kuru,ku lu,kuru,kwrw,kwrwa,Куру,كوروا,کورو,クールー,库鲁	5.1583	-52.6428	A	ADM4	GF		GF	973	9731	97304	26522		5	America/Cayenne	2019-03-23
+6690693	Macouria	Macouria	Macouria-Tonate	5.0136	-52.4739	A	ADM4	GF		GF	973	9731	97305	12804		5	America/Cayenne	2019-03-23
+6690694	Mana	Mana	Mana,ma na,mana,Мана,مانا,馬納	5.6672	-53.7769	A	ADM4	GF		GF	973	9732	97306	10566		3	America/Cayenne	2019-03-23
+6690695	Maripasoula	Maripasoula		3.6428	-54.0269	A	ADM4	GF		GF	973	9732	97353	12798		95	America/Cayenne	2019-03-23
+6690696	Matoury	Matoury	Maturi,matwry,mtwry,Матури,Матурі,ماتوري,متوری	4.8506	-52.3311	A	ADM4	GF		GF	973	9731	97307	32440		15	America/Cayenne	2019-03-23
+6690697	Montsinéry-Tonnegrande	Montsinery-Tonnegrande		4.8928	-52.4928	A	ADM4	GF		GF	973	9731	97313	2530		6	America/Cayenne	2019-03-23
+6690698	Ouanary	Ouanary		4.2092	-51.6717	A	ADM4	GF		GF	973	9731	97314	182		18	America/Cayenne	2019-03-23
+6690699	Papaichton	Papaichton		3.8086	-54.1722	A	ADM4	GF		GF	973	9732	97362	8034		110	America/Cayenne	2019-03-23
+6690700	Régina	Regina		4.3136	-52.1292	A	ADM4	GF		GF	973	9731	97301	911		5	America/Cayenne	2019-03-23
+6690701	Remire-Montjoly	Remire-Montjoly		4.905	-52.2767	A	ADM4	GF		GF	973	9731	97309	25711		12	America/Cayenne	2019-03-23
+6690702	Roura	Roura	Rura,rwra,Рура,رورا	4.7283	-52.3242	A	ADM4	GF		GF	973	9731	97310	3899		27	America/Cayenne	2019-03-23
+6690703	Saint-Élie	Saint-Elie		4.8256	-53.2881	A	ADM4	GF		GF	973	9731	97358	147		129	America/Cayenne	2019-03-23
+6690704	Saint-Georges	Saint-Georges	Saint-Georges	3.8894	-51.8011	A	ADM4	GF		GF	973	9731	97308	4076		8	America/Cayenne	2019-03-23
+6690705	Saint-Laurent-du-Maroni	Saint-Laurent-du-Maroni		5.5039	-54.0289	A	ADM4	GF		GF	973	9732	97311	43799		8	America/Cayenne	2019-03-23
+6690706	Saül	Sauel		3.6272	-53.2083	A	ADM4	GF		GF	973	9732	97352	151		245	America/Cayenne	2019-03-23
+6690707	Sinnamary	Sinnamary	Sinnamari,synamary,Синнамари,Сіннамарі,سيناماري	5.3775	-52.9586	A	ADM4	GF		GF	973	9731	97312	2943		7	America/Cayenne	2019-03-23

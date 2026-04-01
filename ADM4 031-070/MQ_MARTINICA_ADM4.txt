@@ -1,0 +1,34 @@
+﻿6690652	L'Ajoupa-Bouillon	L'Ajoupa-Bouillon		14.8247	-61.1144	A	ADM4	MQ		MQ	972	9722	97201	1934		251	America/Martinique	2019-03-23
+6690653	Les Anses-d'Arlet	Les Anses-d'Arlet		14.4911	-61.0803	A	ADM4	MQ		MQ	972	9723	97202	3633		8	America/Martinique	2019-03-23
+6690654	Basse-Pointe	Basse-Pointe		14.8686	-61.1203	A	ADM4	MQ		MQ	972	9722	97203	3191		53	America/Martinique	2019-03-23
+6690655	Le Carbet	Le Carbet		14.7122	-61.1831	A	ADM4	MQ		MQ	972	9724	97204	3609		13	America/Martinique	2019-03-23
+6690656	Case-Pilote	Case-Pilote		14.6431	-61.1389	A	ADM4	MQ		MQ	972	9724	97205	4453		10	America/Martinique	2019-03-23
+6690657	Le Diamant	Le Diamant		14.48	-61.0256	A	ADM4	MQ		MQ	972	9723	97206	5809		13	America/Martinique	2019-03-23
+6690658	Ducos	Ducos		14.5761	-60.9758	A	ADM4	MQ		MQ	972	9723	97207	17400		67	America/Martinique	2019-03-23
+6690659	Fonds-Saint-Denis	Fonds-Saint-Denis		14.7389	-61.1322	A	ADM4	MQ		MQ	972	9724	97208	761		382	America/Martinique	2019-03-23
+6690660	Fort-de-France	Fort-de-France		14.6072	-61.0694	A	ADM4	MQ		MQ	972	9721	97209	81017		11	America/Martinique	2019-03-23
+6690661	Le François	Le Francois		14.6153	-60.9028	A	ADM4	MQ		MQ	972	9723	97210	17172		12	America/Martinique	2019-03-23
+6690662	Grand'Rivière	Grand'Riviere		14.8733	-61.1814	A	ADM4	MQ		MQ	972	9722	97211	703		49	America/Martinique	2019-03-23
+6690663	Gros-Morne	Gros-Morne		14.7081	-61.0075	A	ADM4	MQ		MQ	972	9722	97212	9891		200	America/Martinique	2019-03-23
+6690664	Le Lamentin	Le Lamentin		14.6153	-61.0019	A	ADM4	MQ		MQ	972	9721	97213	40175		18	America/Martinique	2019-03-23
+6690665	Le Lorrain	Le Lorrain		14.8328	-61.0556	A	ADM4	MQ		MQ	972	9722	97214	6932		13	America/Martinique	2019-03-23
+6690666	Macouba	Macouba		14.8761	-61.145	A	ADM4	MQ		MQ	972	9722	97215	1086		65	America/Martinique	2019-03-23
+6690667	Le Marigot	Le Marigot		14.8214	-61.0283	A	ADM4	MQ		MQ	972	9722	97216	3251		39	America/Martinique	2019-03-23
+6690668	Le Marin	Le Marin		14.4714	-60.8708	A	ADM4	MQ		MQ	972	9723	97217	8811		27	America/Martinique	2019-03-23
+6690669	Le Morne-Rouge	Le Morne-Rouge	Le-Morn-Ruzh,Ле-Морн-Руж	14.7728	-61.1347	A	ADM4	MQ		MQ	972	9724	97218	5104		455	America/Martinique	2019-03-23
+6690670	Le Prêcheur	Le Precheur		14.8011	-61.2247	A	ADM4	MQ		MQ	972	9724	97219	1357		9	America/Martinique	2019-03-23
+6690671	Rivière-Pilote	Riviere-Pilote		14.4869	-60.9033	A	ADM4	MQ		MQ	972	9723	97220	12145		10	America/Martinique	2023-04-28
+6690672	Rivière-Salée	Riviere-Salee		14.5289	-60.9814	A	ADM4	MQ		MQ	972	9723	97221	12099		11	America/Martinique	2019-03-23
+6690673	Le Robert	Le Robert		14.6775	-60.9392	A	ADM4	MQ		MQ	972	9722	97222	23252		19	America/Martinique	2019-03-23
+6690674	Saint-Esprit	Saint-Esprit		14.5606	-60.9372	A	ADM4	MQ		MQ	972	9723	97223	9426		27	America/Martinique	2019-03-23
+6690675	Saint-Joseph	Saint-Joseph		14.66622	-61.03725	A	ADM4	MQ		MQ	972	9721	97224	16349		181	America/Martinique	2019-03-23
+6690676	Saint-Pierre	Saint-Pierre		14.7431	-61.1753	A	ADM4	MQ		MQ	972	9724	97225	4125		19	America/Martinique	2019-03-23
+6690677	Sainte-Anne	Sainte-Anne	Sent-Ann,Сент-Анн,سین-این، مرتینقے	14.4353	-60.8814	A	ADM4	MQ		MQ	972	9723	97226	4191		5	America/Martinique	2019-03-23
+6690678	Sainte-Luce	Sainte-Luce		14.4683	-60.9217	A	ADM4	MQ		MQ	972	9723	97227	9987		6	America/Martinique	2019-03-23
+6690679	Sainte-Marie	Sainte-Marie	Saint-Mari,Sent-Mari,sheng ma li,Σαιντ-Μαρί,Сент-Марі,סנט-מארי,سین-مرے، مرتینقے,圣玛丽	14.7814	-60.9936	A	ADM4	MQ		MQ	972	9722	97228	16185		35	America/Martinique	2019-03-23
+6690680	Schœlcher	Schœlcher	Schœlcher	14.6161	-61.1014	A	ADM4	MQ		MQ	972	9721	97229	19908		8	America/Martinique	2019-03-23
+6690681	La Trinité	La Trinite	La Trinite,La-Trinite,Λα Τρινιτέ,Ла-Триніте,لا ترینیتے، مارٹینیکوی	14.7386	-60.9631	A	ADM4	MQ		MQ	972	9722	97230	12512		6	America/Martinique	2019-03-23
+6690682	Les Trois-Îlets	Les Trois-Ilets		14.5381	-61.0344	A	ADM4	MQ		MQ	972	9723	97231	7493		18	America/Martinique	2019-03-23
+6690683	Le Vauclin	Le Vauclin		14.545	-60.84	A	ADM4	MQ		MQ	972	9723	97232	9002		19	America/Martinique	2019-03-23
+6690684	Le Morne-Vert	Le Morne-Vert		14.7075	-61.1444	A	ADM4	MQ		MQ	972	9724	97233	1846		423	America/Martinique	2019-03-23
+6690685	Bellefontaine	Bellefontaine		14.6739	-61.1644	A	ADM4	MQ		MQ	972	9724	97234	1671		10	America/Martinique	2019-03-23
