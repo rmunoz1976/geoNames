@@ -1,0 +1,572 @@
+﻿3186293	Grad Županja	Grad Zupanja	Grad Zupanja,Grad Županja,Town of Zupanja,Town of Županja,Zupanja,Županja	45.07231	18.69513	A	ADM2	HR		18	3186293			9153		83	Europe/Zagreb	2023-03-11
+3186405	Grad Zlatar	Grad Zlatar	Grad Zlatar,Town of Zlatar,Zlatar	46.09198	16.07695	A	ADM2	HR		07	3186405			5574		179	Europe/Zagreb	2023-03-11
+3186602	Grad Sveti Ivan Zelina	Grad Sveti Ivan Zelina	Grad Sveti Ivan Zelina,Sveti Ivan Zelina,Town of Sveti Ivan Zelina	45.96667	16.25	A	ADM2	HR		20	3186602			14602		145	Europe/Zagreb	2023-03-11
+3186780	Grad Zaprešić	Grad Zapresic	Grad Zapresic,Grad Zaprešić,Town of Zapresic,Town of Zaprešić,Zapresic,Zaprešić	45.86667	15.8	A	ADM2	HR		20	3186780			24133		136	Europe/Zagreb	2023-03-11
+3186983	Grad Zabok	Grad Zabok	Grad Zabok,Town of Zabok,Zabok	46.02808	15.90855	A	ADM2	HR		07	3186983			8656		166	Europe/Zagreb	2023-03-11
+3187046	Grad Vukovar	Grad Vukovar	City of Vukovar,Grad Vukovar,Stadt Vukovar,Town of Vukovar,Vukovar,Вуковар,Град Вуковар	45.33333	19	A	ADM2	HR		18	3187046			23175		100	Europe/Zagreb	2023-03-11
+3187229	Grad Vrgorac	Grad Vrgorac	Grad Vrgorac,Town of Vrgorac,Vrgorac	43.2	17.36667	A	ADM2	HR		15	3187229			5698		83	Europe/Zagreb	2023-03-11
+3187231	Općina Gvozd	Opcina Gvozd	Crepsa,Gvozd,Municipality of Gvozd,Opcina Gvozd,Opcina Vrginmost,Opshtina  Gvozd,Opshtina Vrginmost,Opstina Gvozd,Općina Gvozd,Općina Vrginmost,Opština Gvozd,Општина  Гвозд,Општина Вргинмост	45.34905	15.86516	A	ADM2	HR		14	3187231			2047		148	Europe/Zagreb	2024-07-29
+3187256	Grad Vrbovsko	Grad Vrbovsko	Grad Vrbovsko,Town of Vrbovsko,Vrbovsko	45.37542	15.07856	A	ADM2	HR		12	3187256			3876		463	Europe/Zagreb	2023-03-11
+3187264	Grad Vrbovec	Grad Vrbovec	Grad Vrbovec,Town of Vrbovec,Vrbovec	45.88377	16.41428	A	ADM2	HR		20	3187264			12981		145	Europe/Zagreb	2023-03-11
+3187450	Općina Vojnić	Opcina Vojnic	Municipality of Vojnic,Municipality of Vojnić,Opcina Vojnic,Općina Vojnić,Vojnic,Vojnić	45.33333	15.7	A	ADM2	HR		05	3187450			3602		204	Europe/Zagreb	2023-03-11
+3187684	Town of Vis	Town of Vis	Grad Vis,Town of Vis,Vis	43.05315	16.18698	A	ADM2	HR		15	3187684			1918		245	Europe/Zagreb	2023-03-11
+3187693	Grad Virovitica	Grad Virovitica	Grad Virovitica,Town of Virovitica,Virovitica	45.83167	17.38483	A	ADM2	HR		17	3187693			19302		124	Europe/Zagreb	2023-03-11
+3187718	Grad Vinkovci	Grad Vinkovci	City of Vinkovci,Grad Vinkovci,Town of Vinkovci,Vinkovci	45.28044	18.80482	A	ADM2	HR		18	3187718			30842		81	Europe/Zagreb	2023-03-11
+3188243	Grad Velika Gorica	Grad Velika Gorica	City of Velika Gorica,Grad Velika Gorica,Town of Velika Gorica,Velika Gorica	45.7	16.08333	A	ADM2	HR		20	3188243			61075		104	Europe/Zagreb	2023-03-11
+3188382	Grad Varaždin	Grad Varazdin	City of Varazdin,City of Varaždin,Grad Varazdin,Grad Varaždin,Stadt Varazdin,Stadt Varaždin,Town of Varazdin,Town of Varaždin,Varazdin,Varaždin	46.30354	16.33444	A	ADM2	HR		16	3188382			43782		173	Europe/Zagreb	2023-03-11
+3188394	Grad Valpovo	Grad Valpovo	Grad Valpovo,Town of Valpovo,Valpovo	45.66667	18.41667	A	ADM2	HR		10	3188394			9784		92	Europe/Zagreb	2023-03-11
+3188762	Grad Trogir	Grad Trogir	Grad Trogir,Town of Trogir,Trogir	43.52061	16.25144	A	ADM2	HR		15	3188762			12393		10	Europe/Zagreb	2023-03-11
+3190259	Grad Split	Grad Split	Grad Split,Split,Town of Split	43.5	16.5	A	ADM2	HR		15	3190259			160577		-9999	Europe/Zagreb	2023-03-11
+3190522	Slunj	Slunj	Grad Slunj,Slunj,Town of Slunj	45.11507	15.58334	A	ADM2	HR		05	3190522			4224		272	Europe/Zagreb	2023-03-11
+3190585	Grad Slavonski Brod	Grad Slavonski Brod	Grad Slavonski Brod,Slavonski Brod,Town of Slavonski Brod	45.16267	18.03062	A	ADM2	HR		02	3190585			49891		95	Europe/Zagreb	2023-03-11
+3190588	Grad Požega	Grad Pozega	Grad Pozega,Grad Požega,Pozega,Požega,Town of Pozega,Town of Požega	45.33333	17.66667	A	ADM2	HR		11	3190588			22294		145	Europe/Zagreb	2023-03-11
+3190812	Grad Sisak	Grad Sisak	City of Sisak,Grad Sisak,Sisak,Town of Sisak	45.5	16.36667	A	ADM2	HR		14	3190812			40121		97	Europe/Zagreb	2023-03-11
+3190864	Grad Sinj	Grad Sinj	Grad Sinj,Sinj,Town of Sinj	43.72285	16.65819	A	ADM2	HR		15	3190864			23452		354	Europe/Zagreb	2023-03-11
+3190938	Grad Šibenik	Grad Sibenik	Grad Sibenik,Grad Šibenik,Sibenik,Town of Sibenik,Town of Šibenik,Šibenik	43.73576	15.89602	A	ADM2	HR		13	3190938			42599		34	Europe/Zagreb	2023-03-11
+3190965	Sesvete	Sesvete	City District Sesvete,Gradska cetvrt Sesvete,Gradska četvrt Sesvete,Sesvete	45.83333	16.13333	A	ADM2	HR		21	3190965			70800		131	Europe/Zagreb	2023-12-03
+3191315	Grad Samobor	Grad Samobor	Grad Samobor,Samobor,Town of Samobor	45.8	15.7	A	ADM2	HR		20	3191315			37435		166	Europe/Zagreb	2023-03-11
+3191516	Grad Rovinj	Grad Rovinj	Grad Rovinj - Rovigno,Rovigno,Rovinj,Ruveigno,Ruvèigno,Town of Rovinj - Rovigno	45.08333	13.66667	A	ADM2	HR		04	3191516			12968		25	Europe/Zagreb	2023-05-31
+3191647	Grad Rijeka	Grad Rijeka	Fiume,Grad Rijeka,Rijeka,Town of Rijeka	45.32693	14.43758	A	ADM2	HR		12	3191647			107964		2	Europe/Zagreb	2023-06-08
+3192222	Grad Pula	Grad Pula	Citta di Pola,Città di Pola,City of Pula,Grad Pula,Grad Pula - Pola,Pola,Pula,Puola,Town of Pula - Pola	44.86667	13.86667	A	ADM2	HR		04	3192222			52220		12	Europe/Zagreb	2023-03-11
+3192696	Grad Poreč	Grad Porec	Grad Porec - Parenzo,Grad Poreč - Parenzo,Parenzo,Porec,Poreč,Town of Porec - Parenzo,Town of Poreč - Parenzo	45.25	13.66667	A	ADM2	HR		04	3192696			16607		127	Europe/Zagreb	2023-03-11
+3192931	Grad Slatina	Grad Slatina	Grad Slatina,Slatina,Town of Slatina	45.7	17.7	A	ADM2	HR		17	3192931			11503		137	Europe/Zagreb	2023-03-11
+3193146	Grad Ploče	Grad Ploce	Grad Ploce,Grad Ploče,Ploca,Ploce,Ploča,Ploče,Town of Ploce,Town of Ploče	43.06667	17.43333	A	ADM2	HR		03	3193146			8220		29	Europe/Zagreb	2023-03-11
+3193419	Grad Petrinja	Grad Petrinja	Grad Petrinja,Petrinja,Town of Petrinja	45.43333	16.26667	A	ADM2	HR		14	3193419			19950		102	Europe/Zagreb	2023-03-11
+3193560	Grad Pazin	Grad Pazin	Grad Pazin,Pazin,Town of Pazin	45.23333	13.93333	A	ADM2	HR		04	3193560			8279		359	Europe/Zagreb	2023-03-11
+3193705	Grad Pakrac	Grad Pakrac	Grad Pakrac,Pakrac,Town of Pakrac	45.43333	17.2	A	ADM2	HR		11	3193705			7086		196	Europe/Zagreb	2023-03-11
+3193753	Grad Ozalj	Grad Ozalj	Grad Ozalj,Ozalj,Town of Ozalj	45.61273	15.47708	A	ADM2	HR		05	3193753			5837		114	Europe/Zagreb	2023-03-11
+3193934	Grad Osijek	Grad Osijek	City of Osijek,Grad Osijek,Osijek,Stadt Osijek,Town of Osijek,Град Осијек,Осијек	45.58333	18.66667	A	ADM2	HR		10	3193934			96313		90	Europe/Zagreb	2023-03-11
+3194063	Grad Orahovica	Grad Orahovica	Grad Orahovica,Orahovica,Town of Orahovica	45.53333	17.9	A	ADM2	HR		17	3194063			4537		218	Europe/Zagreb	2023-03-11
+3194097	Grad Opatija	Grad Opatija	Abbazia,Grad Opatija,Opatija,Sankt Jakobi,Town of Opatija	45.33333	14.26667	A	ADM2	HR		12	3194097			10619		478	Europe/Zagreb	2023-03-11
+3194113	Grad Omiš	Grad Omis	Grad Omis,Grad Omiš,Omis,Omiš,Town of Omis,Town of Omiš	43.46667	16.7	A	ADM2	HR		15	3194113			14139		272	Europe/Zagreb	2023-03-11
+3194182	Grad Ogulin	Grad Ogulin	Grad Ogulin,Ogulin,Town of Ogulin	45.26667	15.23333	A	ADM2	HR		05	3194182			12246		320	Europe/Zagreb	2023-03-11
+3194318	Grad Novska	Grad Novska	Grad Novska,Novska,Town of Novska	45.33333	17	A	ADM2	HR		14	3194318			11137		162	Europe/Zagreb	2023-03-11
+3194366	Grad Novi Marof	Grad Novi Marof	Grad Novi Marof,Novi Marof,Town of Novi Marof	46.16667	16.33333	A	ADM2	HR		16	3194366			11795		207	Europe/Zagreb	2023-03-11
+3194448	Grad Nova Gradiška	Grad Nova Gradiska	Grad Nova Gradiska,Grad Nova Gradiška,Nova Gradiska,Nova Gradiška,Town of Nova Gradiska,Town of Nova Gradiška	45.26667	17.4	A	ADM2	HR		02	3194448			11690		185	Europe/Zagreb	2023-03-11
+3194580	Grad Našice	Grad Nasice	Grad Nasice,Grad Našice,Nasice,Našice,Town of Nasice,Town of Našice	45.5	18.1	A	ADM2	HR		10	3194580			14291		114	Europe/Zagreb	2023-03-11
+3195888	Town of Makarska	Town of Makarska	Grad Makarska,Macharscha,Makarska,Town of Makarska	43.3	17.03333	A	ADM2	HR		15	3195888			13301		266	Europe/Zagreb	2024-09-04
+3196119	Grad Ludbreg	Grad Ludbreg	Grad Ludbreg,Ludbreg,Town of Ludbreg	46.25	16.63333	A	ADM2	HR		16	3196119			8477		155	Europe/Zagreb	2023-03-11
+3196753	Općina Lastovo	Opcina Lastovo	Lastovo,Municipality of Lastovo,Opcina Lastovo,Općina Lastovo	42.75	16.9	A	ADM2	HR		03	3196753			748		65	Europe/Zagreb	2023-03-11
+3196833	Grad Labin	Grad Labin	Grad Labin,Labin,Town of Labin	45.08333	14.13333	A	ADM2	HR		04	3196833			10424		172	Europe/Zagreb	2023-03-11
+3196862	Grad Kutina	Grad Kutina	Grad Kutina,Kutina,Town of Kutina	45.5	16.75	A	ADM2	HR		14	3196862			19601		142	Europe/Zagreb	2023-03-11
+3197207	Grad Krk	Grad Krk	Grad Krk,Krk,Town of Krk	45.02829	14.57233	A	ADM2	HR		12	3197207			6816		19	Europe/Zagreb	2023-03-11
+3197228	Grad Križevci	Grad Krizevci	Grad Krizevci,Grad Križevci,Krizevci,Križevci,Town of Krizevci,Town of Križevci	46.03333	16.56667	A	ADM2	HR		06	3197228			18949		163	Europe/Zagreb	2023-03-11
+3197366	Grad Krapina	Grad Krapina	Grabing,Grad Krapina,Krapina,Town of Krapina	46.15968	15.87258	A	ADM2	HR		07	3197366			11530		177	Europe/Zagreb	2023-03-11
+3197593	Grad Hrvatska Kostajnica	Grad Hrvatska Kostajnica	Grad Hrvatska Kostajnica,Hrvatska Kostajnica,Town of Hrvatska Kostajnica	45.25	16.56667	A	ADM2	HR		14	3197593			1879		192	Europe/Zagreb	2023-03-11
+3197709	Grad Korčula	Grad Korcula	Grad Korcula,Grad Korčula,Korcula,Korčula,Town of Korcula,Town of Korčula	42.95693	17.13181	A	ADM2	HR		03	3197709			5415		55	Europe/Zagreb	2023-03-11
+3197726	Grad Koprivnica	Grad Koprivnica	City of Koprivnica,Grad Koprivnica,Koprivnica,Town of Koprivnica	46.16667	16.83333	A	ADM2	HR		06	3197726			28580		135	Europe/Zagreb	2023-03-11
+3198102	Grad Klanjec	Grad Klanjec	Grad Klanjec,Klanjec,Town of Klanjec	46.04977	15.74615	A	ADM2	HR		07	3198102			2548		282	Europe/Zagreb	2023-03-11
+3198257	Grad Karlovac	Grad Karlovac	Grad Karlovac,Karlovac,Town of Karlovac	45.5	15.53333	A	ADM2	HR		05	3198257			49377		110	Europe/Zagreb	2023-03-11
+3198798	Grad Jastrebarsko	Grad Jastrebarsko	Grad Jastrebarsko,Jaska,Jastrebarsko,Town of Jastrebarsko	45.66667	15.66667	A	ADM2	HR		20	3198798			14562		125	Europe/Zagreb	2023-03-11
+3199068	Grad Ivanić-Grad	Grad Ivanic-Grad	Grad Ivanic-Grad,Grad Ivanić-Grad,Ivanic-Grad,Ivanić-Grad,Town of Ivanic-Grad,Town of Ivanić-Grad	45.7	16.4	A	ADM2	HR		20	3199068			12982		102	Europe/Zagreb	2023-03-11
+3199075	Grad Ivanec	Grad Ivanec	Grad Ivanec,Ivanec,Town of Ivanec	46.23333	16.13333	A	ADM2	HR		16	3199075			12723		207	Europe/Zagreb	2023-03-11
+3199110	Grad Imotski	Grad Imotski	Grad Imotski,Imotski,Town of Imotski	43.43333	17.16667	A	ADM2	HR		15	3199110			9153		272	Europe/Zagreb	2023-03-11
+3199178	Grad Hvar	Grad Hvar	Grad Hvar,Hvar,Town of Hvar	43.17263	16.4455	A	ADM2	HR		15	3199178			3979		11	Europe/Zagreb	2023-03-11
+3199514	Grad Grubišno Polje	Grad Grubisno Polje	Grad Grubisno Polje,Grad Grubišno Polje,Grubisno Polje,Grubišno Polje,Town of Grubisno Polje,Town of Grubišno Polje	45.7	17.16667	A	ADM2	HR		01	3199514			5367		157	Europe/Zagreb	2023-03-11
+3200597	Grad Glina	Grad Glina	Glina,Grad Glina,Town of Glina	45.33333	16.1	A	ADM2	HR		14	3200597			7116		114	Europe/Zagreb	2023-03-11
+3200709	Grad Garešnica	Grad Garesnica	Garesnica,Garešnica,Grad Garesnica,Grad Garešnica,Town of Garesnica,Town of Garešnica	45.56667	16.93333	A	ADM2	HR		01	3200709			8624		121	Europe/Zagreb	2023-03-11
+3200915	Općina Dvor	Opcina Dvor	Dvor,Municipality of Dvor,Opcina Dvor,Opstina Dvor,Općina Dvor,Opština Dvor	45.1	16.3	A	ADM2	HR		14	3200915			2996		166	Europe/Zagreb	2023-03-11
+3200960	Grad Đurđevac	Grad GJurgevac	Djurdjevac,GJurgevac,Grad GJurgevac,Grad Đurđevac,Town of Djurdjevac,Town of GJurgevac,Town of Đurđevac,Đurđevac	46.03333	17.06667	A	ADM2	HR		06	3200960			7378		117	Europe/Zagreb	2024-12-11
+3201007	Grad Dugo Selo	Grad Dugo Selo	Dugo Selo,Grad Dugo Selo,Town of Dugo Selo	45.809	16.24123	A	ADM2	HR		20	3201007			17676		120	Europe/Zagreb	2023-03-11
+3201029	Grad Duga Resa	Grad Duga Resa	Duga Resa,Grad Duga Resa,Town of Duga Resa	45.43333	15.5	A	ADM2	HR		05	3201029			10212		124	Europe/Zagreb	2023-03-11
+3201161	Grad Drniš	Grad Drnis	Drnis,Drniš,Grad Drnis,Grad Drniš,Town of Drnis,Town of Drniš	43.86	16.15401	A	ADM2	HR		13	3201161			6276		279	Europe/Zagreb	2023-03-11
+3201431	Grad Donji Miholjac	Grad Donji Miholjac	Donji Miholjac,Grad Donji Miholjac,Town of Donji Miholjac	45.75	18.16667	A	ADM2	HR		10	3201431			8031		92	Europe/Zagreb	2023-03-11
+3201620	Grad Donja Stubica	Grad Donja Stubica	Donja Stubica,Grad Donja Stubica,Town of Donja Stubica	45.97955	15.97069	A	ADM2	HR		07	3201620			5326		188	Europe/Zagreb	2023-03-11
+3202102	Grad Delnice	Grad Delnice	Delnice,Grad Delnice,Town of Delnice	45.39806	14.80111	A	ADM2	HR		12	3202102			5135		707	Europe/Zagreb	2023-03-11
+3202183	Grad Daruvar	Grad Daruvar	Daruvar,Grad Daruvar,Town of Daruvar	45.6	17.23333	A	ADM2	HR		01	3202183			10105		185	Europe/Zagreb	2023-03-11
+3202219	Grad Đakovo	Grad GJakovo	Djakovo,GJakovo,Grad GJakovo,Grad Đakovo,Town of Djakovo,Town of GJakovo,Town of Đakovo,Đakovo	45.3	18.41667	A	ADM2	HR		10	3202219			23577		107	Europe/Zagreb	2023-03-11
+3202506	Grad Crikvenica	Grad Crikvenica	Crikvenica,Grad Crikvenica,Town of Crikvenica	45.16667	14.7	A	ADM2	HR		12	3202506			9980		119	Europe/Zagreb	2023-03-11
+3202819	Grad Čazma	Grad Cazma	Cazma,Grad Cazma,Grad Čazma,Town of Cazma,Town of Čazma,Čazma	45.75	16.61667	A	ADM2	HR		01	3202819			6930		126	Europe/Zagreb	2023-03-11
+3202887	Grad Čakovec	Grad Cakovec	Cakovec,City of Cakovec,City of Čakovec,Grad Cakovec,Grad Čakovec,Town of Cakovec,Town of Čakovec,Čakovec	46.38583	16.43333	A	ADM2	HR		09	3202887			27122	164	163	Europe/Zagreb	2023-03-11
+3202931	Grad Čabar	Grad Cabar	Cabar,Grad Cabar,Grad Čabar,Town of Cabar,Town of Čabar,Čabar	45.58333	14.58333	A	ADM2	HR		12	3202931			3226		1024	Europe/Zagreb	2023-03-11
+3202941	Grad Buzet	Grad Buzet	Buzet,Grad Buzet,Town of Buzet	45.41667	13.96667	A	ADM2	HR		04	3202941			5999		79	Europe/Zagreb	2023-03-11
+3203088	Grad Buje	Grad Buje	Buje,Grad Buje - Buie,Grad Buje – Buie,Town of Buje - Buie	45.41667	13.66667	A	ADM2	HR		04	3203088			4441		168	Europe/Zagreb	2023-03-11
+3203595	Grad Supetar	Grad Supetar	Grad Supetar,Supetar,Town of Supetar	43.38444	16.55528	A	ADM2	HR		15	3203595			4325		5	Europe/Zagreb	2023-03-11
+3203981	Grad Bjelovar	Grad Bjelovar	Bjelovar,Grad Bjelovar,Town of Bjelovar	45.90172	16.84522	A	ADM2	HR		01	3203981			36316		133	Europe/Zagreb	2023-03-11
+3204122	Grad Biograd na Moru	Grad Biograd na Moru	Biograd na Moru,Grad Biograd na Moru,Town of Biograd na Moru	43.93333	15.43333	A	ADM2	HR		19	3204122			5601		-9999	Europe/Zagreb	2023-03-11
+3204319	Grad Beli Manastir	Grad Beli Manastir	Beli Manastir,Grad Beli Manastir,Town of Beli Manastir	45.77219	18.61084	A	ADM2	HR		10	3204319			7973		99	Europe/Zagreb	2022-12-22
+7577034	Grad Dubrovnik	Grad Dubrovnik	City of Dubrovnik,Dubrovnik,Dubrovnika,Dubrovnikas,Dubrovniku,Dubrovník,Dubrownik,Gorad Dubrounik,Grad Dubrovnik,Ntoumprovnik,Raguesa,Ragusa,Ragusium,Raguxa,Ragüsa,Town of Dubrovnik,douburovuniku,du bu luo fu ni ke,dubeulobeunikeu,dubrovhanika,dwbrwbnyq,dwbrwfnyk,dwbrwwnyk,Ντουμπρόβνικ,Горад Дуброўнік,Дубровник,דוברובניק,ראגוזא,دوبروفنيك,دوبروونیک,دوبرۆڤنیک,दुब्रोव्हनिक,დუბროვნიკი,ドゥブロヴニク,杜布羅夫尼克,두브로브니크	42.64861	18.09397	A	ADM2	HR		03	7577034			41562		33	Europe/Zagreb	2023-03-11
+8260123	Općina Dubrava	Opcina Dubrava	Dubrava,Municipality of Dubrava,Opcina Dubrava,Općina Dubrava	45.83759	16.53683	A	ADM2	HR		20	8260123			4520		141	Europe/Zagreb	2023-03-11
+8531816	Donji grad	Donji grad	Donji Grad,Donji grad	45.80834	15.96949	A	ADM2	HR		21	8531816			31209		126	Europe/Zagreb	2023-12-03
+8531817	Gornji grad – Medveščak	Gornji grad - Medvescak	Gornji Grad  -  Medvescak,Gornji Grad  –  Medveščak,Gornji Grad - Medvescak,Gornji Grad – Medveščak	45.8282	15.97938	A	ADM2	HR		21	8531817			26426		154	Europe/Zagreb	2023-12-03
+8531820	Trnje	Trnje	Trnje	45.79697	15.97961	A	ADM2	HR		21	8531820			40539		115	Europe/Zagreb	2023-12-03
+8531822	Maksimir	Maksimir	City District Maksimir,Gradska cetvrt Maksimir,Gradska četvrt Maksimir,Maksimir	45.8369	16.01129	A	ADM2	HR		21	8531822			47356		175	Europe/Zagreb	2023-12-04
+8531823	Peščenica – Žitnjak	Pescenica - Zitnjak	City District Pescenica  -  Zitnjak,City District Peščenica  –  Žitnjak,Gradska cetvrt Pescenica - Zitnjak,Gradska četvrt Peščenica - Žitnjak,Pescenica  -  Zitnjak,Pescenica - Zitnjak,Peščenica  –  Žitnjak,Peščenica – Žitnjak	45.80526	16.02274	A	ADM2	HR		21	8531823			53023		123	Europe/Zagreb	2023-12-05
+8531824	Novi Zagreb – istok	Novi Zagreb - istok	Novi Zagreb  -  istok,Novi Zagreb  –  istok,Novi Zagreb - Ost,Novi Zagreb - east,Novi Zagreb - istok,Novi Zagreb – Ost,Novi Zagreb – east,Novi Zagreb – istok	45.78363	15.98597	A	ADM2	HR		21	8531824			55898		113	Europe/Zagreb	2023-12-01
+8531825	Novi Zagreb - zapad	Novi Zagreb - zapad	Novi Zagreb  -  zapad,Novi Zagreb  –  zapad,Novi Zagreb - West,Novi Zagreb - west,Novi Zagreb - zapad,Novi Zagreb – West,Novi Zagreb – west,Novi Zagreb – zapad	45.7783	15.95901	A	ADM2	HR		21	8531825			63917		117	Europe/Zagreb	2023-12-01
+8531826	Trešnjevka – sjever	Tresnjevka - sjever	Tresnjevka  -  sjever,Tresnjevka  - Nord,Tresnjevka  - north,Tresnjevka  - sjever,Tresnjevka - sjever,Tresnjevka – sjever,Trešnjevka  –  sjever,Trešnjevka  – Nord,Trešnjevka  – north,Trešnjevka  – sjever,Trešnjevka – sjever	45.79787	15.93696	A	ADM2	HR		21	8531826			52974		120	Europe/Zagreb	2023-12-01
+8531827	Trešnjevka – jug	Tresnjevka - jug	Tresnjevka  -  jug,Tresnjevka  - Sued,Tresnjevka - jug,Tresnjevka - south,Trešnjevka  –  jug,Trešnjevka  – Süd,Trešnjevka – jug,Trešnjevka – south	45.79063	15.90674	A	ADM2	HR		21	8531827			65324		121	Europe/Zagreb	2023-12-01
+8531828	Črnomerec	Crnomerec	City District Crnomerec,City District Črnomerec,Crnomerec,Gradska cetvrt Crnomerec,Gradska četvrt Črnomerec,Črnomerec	45.82653	15.93867	A	ADM2	HR		21	8531828			38084		219	Europe/Zagreb	2023-12-08
+8531829	Gornja Dubrava	Gornja Dubrava	Gornja Dubrava,Gradska cetvrt Gornja Dubrava,Gradska četvrt Gornja Dubrava	45.84184	16.05386	A	ADM2	HR		21	8531829			58255		139	Europe/Zagreb	2023-12-03
+8531830	Donja Dubrava	Donja Dubrava	Donja Dubrava,Gradska cetvrt Donja Dubrava,Gradska četvrt Donja Dubrava	45.82336	16.05257	A	ADM2	HR		21	8531830			33537		124	Europe/Zagreb	2023-12-03
+8531831	Stenjevec	Stenjevec	City District Stenjevec,Gradska cetvrt Stenjevec,Gradska četvrt Stenjevec,Stenjevec	45.80571	15.87164	A	ADM2	HR		21	8531831			53862		122	Europe/Zagreb	2023-12-08
+8531832	Podsused - Vrapče	Podsused - Vrapce	City District Podsused  -  Vrapce,City District Podsused  –  Vrapče,Gradska cetvrt Podsused - Vrapce,Gradska četvrt Podsused - Vrapče,Podsused  -  Vrapce,Podsused  –  Vrapče,Podsused - Vrapce,Podsused – Vrapče	45.8166	15.87267	A	ADM2	HR		21	8531832			44910		123	Europe/Zagreb	2023-12-09
+8531833	Podsljeme	Podsljeme	City District Podsljeme,Gradska cetvrt Podsljeme,Gradska četvrt Podsljeme,Podsljeme	45.86097	15.97996	A	ADM2	HR		21	8531833			18974		277	Europe/Zagreb	2023-12-10
+8531834	Brezovica	Brezovica	Brezovica,City District Brezovica,Gradska cetvrt Brezovica,Gradska četvrt Brezovica	45.72895	15.90065	A	ADM2	HR		21	8531834			12046		122	Europe/Zagreb	2023-12-10
+9076750	Rogoznica Općina	Rogoznica Opcina	Municipality of Rogoznica,Opcina Rogoznica,Općina Rogoznica,Rogoznica	43.5362	15.97086	A	ADM2	HR		13	9076750			2106		42	Europe/Zagreb	2023-03-11
+9076752	Dugi Rat Općina	Dugi Rat Opcina	Dugi Rat,Municipality of Dugi Rat,Opcina Dugi Rat,Općina Dugi Rat	43.44923	16.64738	A	ADM2	HR		15	9076752			6876		118	Europe/Zagreb	2023-03-11
+9077071	Novigrad Općina	Novigrad Opcina	Municipality of Novigrad,Novigrad,Opcina Novigrad,Općina Novigrad	44.19417	15.55667	A	ADM2	HR		19	9077071			2160		-9999	Europe/Zagreb	2023-03-11
+11048980	Bedenica	Bedenica	Bedenica,Municipality of Bedenica,Opcina Bedenica,Općina Bedenica	46.03257	16.24947	A	ADM2	HR		20	11048980			1266		142	Europe/Zagreb	2023-03-11
+11048981	Općina Brckovljani	Opcina Brckovljani	Brckovljani,Municipality of Brckovljani,Opcina Brckovljani,Općina Brckovljani	45.83597	16.29315	A	ADM2	HR		20	11048981			5876		148	Europe/Zagreb	2023-03-11
+11048982	Općina Brdovec	Opcina Brdovec	Brdovec,Municipality of Brdovec,Opcina Brdovec,Općina Brdovec	45.87003	15.76409	A	ADM2	HR		20	11048982			10737		135	Europe/Zagreb	2023-03-11
+11048983	Farkaševac	Farkasevac	Farkasevac,Farkaševac,Municipality of Farkasevac,Municipality of Farkaševac,Opcina Farkasevac,Općina Farkaševac	45.87899	16.63467	A	ADM2	HR		20	11048983			1562		115	Europe/Zagreb	2023-03-11
+11048984	Dubravica	Dubravica	Dubravica,Municipality of Dubravica,Opcina Dubravica,Općina Dubravica	45.95728	15.73259	A	ADM2	HR		20	11048984			1192		159	Europe/Zagreb	2023-03-11
+11048985	Gradec	Gradec	Gradec,Municipality of Gradec,Opcina Gradec,Općina Gradec	45.9132	16.48022	A	ADM2	HR		20	11048985			3189		144	Europe/Zagreb	2023-03-11
+11048986	Jakovlje	Jakovlje	Jakovlje,Municipality of Jakovlje,Opcina Jakovlje,Općina Jakovlje	45.93603	15.85353	A	ADM2	HR		20	11048986			3797		176	Europe/Zagreb	2023-03-11
+11048987	Klinča Sela	Klinca Sela	Klinca Sela,Klinča Sela,Municipality of Klinca Sela,Municipality of Klinča Sela,Opcina Klinca Sela,Općina Klinča Sela	45.69121	15.74234	A	ADM2	HR		20	11048987			5044		150	Europe/Zagreb	2023-03-11
+11048989	Općina Kloštar Ivanić	Opcina Klostar Ivanic	Klostar Ivanic,Kloštar Ivanić,Municipality of Klostar Ivanic,Municipality of Kloštar Ivanić,Opcina Klostar Ivanic,Općina Kloštar Ivanić	45.7375	16.41297	A	ADM2	HR		20	11048989			5523		136	Europe/Zagreb	2023-03-11
+11048992	Krašić	Krasic	Krasic,Krašić,Municipality of Krasic,Municipality of Krašić,Opcina Krasic,Općina Krašić	45.65343	15.51703	A	ADM2	HR		20	11048992			2250		151	Europe/Zagreb	2023-03-11
+11048993	Općina Kravarsko	Opcina Kravarsko	Kravarsko,Municipality of Kravarsko,Opcina Kravarsko,Općina Kravarsko	45.58561	16.04691	A	ADM2	HR		20	11048993			1824		228	Europe/Zagreb	2023-03-11
+11048994	Križ	Kriz	Kriz,Križ,Municipality of Kriz,Municipality of Križ,Opcina Kriz,Općina Križ	45.66396	16.51983	A	ADM2	HR		20	11048994			6098		142	Europe/Zagreb	2023-03-11
+11048995	Općina Luka	Opcina Luka	Luka,Municipality of Luka,Opcina Luka,Općina Luka	45.95878	15.81975	A	ADM2	HR		20	11048995			1265		140	Europe/Zagreb	2023-03-11
+11048997	Marija Gorica	Marija Gorica	Marija Gorica,Municipality of Marija Gorica,Opcina Marija Gorica,Općina Marija Gorica	45.91072	15.7256	A	ADM2	HR		20	11048997			2094		248	Europe/Zagreb	2023-03-11
+11048998	Općina Orle	Opcina Orle	Municipality of Orle,Opcina Orle,Općina Orle,Orle	45.68474	16.2341	A	ADM2	HR		20	11048998			1765		99	Europe/Zagreb	2023-03-11
+11048999	Pisarovina	Pisarovina	Municipality of Pisarovina,Opcina Pisarovina,Općina Pisarovina,Pisarovina	45.58824	15.85954	A	ADM2	HR		20	11048999			3484		137	Europe/Zagreb	2023-03-11
+11049000	Općina Pokupsko	Opcina Pokupsko	Municipality of Pokupsko,Opcina Pokupsko,Općina Pokupsko,Pokupsko	45.48522	15.99197	A	ADM2	HR		20	11049000			1926		141	Europe/Zagreb	2023-03-11
+11049001	Preseka	Preseka	Municipality of Preseka,Opcina Preseka,Općina Preseka,Preseka	45.97456	16.38697	A	ADM2	HR		20	11049001			1129		182	Europe/Zagreb	2023-03-11
+11049002	Pušća	Pusca	Municipality of Pusca,Municipality of Pušća,Opcina Pusca,Općina Pušća,Pusca,Pušća	45.91567	15.78049	A	ADM2	HR		20	11049002			2564		214	Europe/Zagreb	2023-03-11
+11049003	Rakovec	Rakovec	Municipality of Rakovec,Opcina Rakovec,Općina Rakovec,Rakovec	45.93228	16.31457	A	ADM2	HR		20	11049003			1141		136	Europe/Zagreb	2023-03-11
+11049004	Općina Rugvica	Opcina Rugvica	Municipality of Rugvica,Opcina Rugvica,Općina Rugvica,Rugvica	45.74146	16.22861	A	ADM2	HR		20	11049004			7133		102	Europe/Zagreb	2023-03-11
+11049005	Općina Stupnik	Opcina Stupnik	Municipality of Stupnik,Opcina Stupnik,Općina Stupnik,Stupnik	45.75314	15.84078	A	ADM2	HR		20	11049005			3886		131	Europe/Zagreb	2023-03-11
+11049006	Žumberak	Zumberak	Municipality of Zumberak,Municipality of Žumberak,Opcina Zumberak,Općina Žumberak,Zumberak,Žumberak	45.76704	15.41545	A	ADM2	HR		20	11049006			609		485	Europe/Zagreb	2023-03-11
+11049007	Bedekovčina	Bedekovcina	Bedekovcina,Bedekovčina,Municipality of Bedekovcina,Municipality of Bedekovčina,Opcina Bedekovcina,Općina Bedekovčina	46.04424	15.99481	A	ADM2	HR		07	11049007			7340		160	Europe/Zagreb	2023-03-11
+11049008	Budinščina	Budinscina	Budinscina,Budinščina,Municipality of Budinscina,Municipality of Budinščina,Opcina Budinscina,Općina Budinščina	46.12785	16.20415	A	ADM2	HR		07	11049008			2182		188	Europe/Zagreb	2023-03-11
+11049009	Desinić	Desinic	Desinic,Desinić,Municipality of Desinic,Municipality of Desinić,Opcina Desinic,Općina Desinić	46.14599	15.66771	A	ADM2	HR		07	11049009			2530		196	Europe/Zagreb	2023-03-11
+11049010	Gornja Stubica	Gornja Stubica	Gornja Stubica,Municipality of Gornja Stubica,Opcina Gornja Stubica,Općina Gornja Stubica	45.97554	16.01832	A	ADM2	HR		07	11049010			4622		201	Europe/Zagreb	2023-03-11
+11049011	Hrašćina	Hrascina	Hrascina,Hrašćina,Municipality of Hrascina,Municipality of Hrašćina,Opcina Hrascina,Općina Hrašćina	46.11114	16.22578	A	ADM2	HR		07	11049011			1388		232	Europe/Zagreb	2023-03-11
+11049012	Hum na Sutli	Hum na Sutli	Hum na Sutli,Municipality of Hum na Sutli,Opcina Hum na Sutli,Općina Hum na Sutli	46.21177	15.68865	A	ADM2	HR		07	11049012			4592		340	Europe/Zagreb	2023-03-11
+11049013	Jesenje	Jesenje	Jesenje,Municipality of Jesenje,Opcina Jesenje,Općina Jesenje	46.20724	15.88194	A	ADM2	HR		07	11049013			1371		245	Europe/Zagreb	2023-03-11
+11049014	Konjščina	Konjscina	Konjscina,Konjščina,Municipality of Konjscina,Municipality of Konjščina,Opcina Konjscina,Općina Konjščina	46.05435	16.17763	A	ADM2	HR		07	11049014			3308		171	Europe/Zagreb	2023-03-11
+11049188	Kraljevec na Sutli	Kraljevec na Sutli	Kraljevec na Sutli,Municipality of Kraljevec na Sutli,Opcina Kraljevec na Sutli,Općina Kraljevec na Sutli	45.99211	15.72315	A	ADM2	HR		07	11049188			1591		159	Europe/Zagreb	2023-03-11
+11049189	Krapinske Toplice	Krapinske Toplice	Krapinske Toplice,Municipality of Krapinske Toplice,Opcina Krapinske Toplice,Općina Krapinske Toplice	46.09346	15.83817	A	ADM2	HR		07	11049189			4827		164	Europe/Zagreb	2023-03-11
+11049190	Kumrovec	Kumrovec	Kumrovec,Municipality of Kumrovec,Opcina Kumrovec,Općina Kumrovec	46.07629	15.67998	A	ADM2	HR		07	11049190			1412		180	Europe/Zagreb	2023-03-11
+11049191	Lobor	Lobor	Lobor,Municipality of Lobor,Opcina Lobor,Općina Lobor	46.15028	16.06544	A	ADM2	HR		07	11049191			2703		260	Europe/Zagreb	2023-03-11
+11049192	Mače	Mace	Mace,Mače,Municipality of Mace,Municipality of Mače,Opcina Mace,Općina Mače	46.09337	16.04201	A	ADM2	HR		07	11049192			2258		166	Europe/Zagreb	2023-03-11
+11049193	Mihovljan	Mihovljan	Mihovljan,Municipality of Mihovljan,Opcina Mihovljan,Općina Mihovljan	46.13351	15.97034	A	ADM2	HR		07	11049193			1677		198	Europe/Zagreb	2023-03-11
+11049194	Novi Golubovec	Novi Golubovec	Municipality of Novi Golubovec,Novi Golubovec,Opcina Novi Golubovec,Općina Novi Golubovec	46.17167	15.98313	A	ADM2	HR		07	11049194			824		308	Europe/Zagreb	2023-03-11
+11049195	Petrovsko	Petrovsko	Municipality of Petrovsko,Opcina Petrovsko,Općina Petrovsko,Petrovsko	46.16778	15.84207	A	ADM2	HR		07	11049195			2270		354	Europe/Zagreb	2023-03-11
+11049212	Radoboj	Radoboj	Municipality of Radoboj,Opcina Radoboj,Općina Radoboj,Radoboj	46.16544	15.92142	A	ADM2	HR		07	11049212			2981		253	Europe/Zagreb	2023-03-11
+11049213	Sveti Križ Začretje	Sveti Kriz Zacretje	Municipality of Sveti Kriz Zacretje,Municipality of Sveti Križ Začretje,Opcina Sveti Kriz Zacretje,Općina Sveti Križ Začretje,Sv. Kriz Zacretje,Sv. Križ Začretje,Sveti Kriz Zacretje,Sveti Križ Začretje	46.08224	15.90704	A	ADM2	HR		07	11049213			5659		161	Europe/Zagreb	2023-04-28
+11049214	Stubičke Toplice	Stubicke Toplice	Municipality of Stubicke Toplice,Municipality of Stubičke Toplice,Opcina Stubicke Toplice,Općina Stubičke Toplice,Stubicke Toplice,Stubičke Toplice	45.97536	15.93262	A	ADM2	HR		07	11049214			2740		188	Europe/Zagreb	2023-03-11
+11049218	Tuhelj	Tuhelj	Municipality of Tuhelj,Opcina Tuhelj,Općina Tuhelj,Tuhelj	46.07629	15.74809	A	ADM2	HR		07	11049218			2043		164	Europe/Zagreb	2023-03-11
+11049219	Veliko Trgovišće	Veliko Trgovisce	Municipality of Veliko Trgovisce,Municipality of Veliko Trgovišće,Opcina Veliko Trgovisce,Općina Veliko Trgovišće,Veliko Trgovisce,Veliko Trgovišće	46.00378	15.84387	A	ADM2	HR		07	11049219			4448		143	Europe/Zagreb	2023-03-11
+11049220	Zagorska Sela	Zagorska Sela	Municipality of Zagorska Sela,Opcina Zagorska Sela,Općina Zagorska Sela,Zagorska Sela	46.09438	15.6353	A	ADM2	HR		07	11049220			899		217	Europe/Zagreb	2023-03-11
+11049222	Zlatar Bistrica	Zlatar Bistrica	Municipality of Zlatar Bistrica,Opcina Zlatar Bistrica,Općina Zlatar Bistrica,Zlatar Bistrica	46.04788	16.08527	A	ADM2	HR		07	11049222			2308		167	Europe/Zagreb	2023-03-11
+11049225	Općina Donji Kukuruzari	Opcina Donji Kukuruzari	Donji Kukuruzari,Municipality of Donji Kukuruzari,Opcina Donji Kukuruzari,Općina Donji Kukuruzari	45.26514	16.48387	A	ADM2	HR		14	11049225			1080		149	Europe/Zagreb	2023-03-11
+11049226	Hrvatska Dubica	Hrvatska Dubica	Hrvatska Dubica,Municipality of Hrvatska Dubica,Opcina Hrvatska Dubica,Općina Hrvatska Dubica	45.18938	16.79921	A	ADM2	HR		14	11049226			1462		101	Europe/Zagreb	2023-03-11
+11049227	Općina Jasenovac	Opcina Jasenovac	Jasenovac,Municipality of Jasenovac,Opcina Jasenovac,Općina Jasenovac	45.2708	16.91131	A	ADM2	HR		14	11049227			1559		95	Europe/Zagreb	2023-03-11
+11049228	Općina Lekenik	Opcina Lekenik	Lekenik,Municipality of Lekenik,Opcina Lekenik,Općina Lekenik	45.58499	16.21003	A	ADM2	HR		14	11049228			5343		100	Europe/Zagreb	2023-03-11
+11049229	Lipovljani	Lipovljani	Lipovljani,Municipality of Lipovljani,Opcina Lipovljani,Općina Lipovljani	45.39844	16.89444	A	ADM2	HR		14	11049229			2807		149	Europe/Zagreb	2023-03-11
+11049230	Općina Majur	Opcina Majur	Majur,Municipality of Majur,Opcina Majur,Općina Majur	45.25509	16.52945	A	ADM2	HR		14	11049230			760		154	Europe/Zagreb	2023-03-11
+11049231	Općina Martinska Ves	Opcina Martinska Ves	Martinska Ves,Municipality of Martinska Ves,Opcina Martinska Ves,Općina Martinska Ves	45.5867	16.37465	A	ADM2	HR		14	11049231			2861		98	Europe/Zagreb	2023-03-11
+11049232	Popovača	Popovaca	Grad Popovaca,Grad Popovača,Popovaca,Popovača,Town of Popovaca,Town of Popovača	45.57093	16.62781	A	ADM2	HR		14	11049232			10255		129	Europe/Zagreb	2023-03-11
+11049233	Općina Sunja	Opcina Sunja	Municipality of Sunja,Opcina Sunja,Općina Sunja,Sunja	45.36863	16.5673	A	ADM2	HR		14	11049233			4124		101	Europe/Zagreb	2023-03-11
+11049234	Općina Topusko	Opcina Topusko	Municipality of Topusko,Opcina Topusko,Općina Topusko,Topusko	45.29613	15.97481	A	ADM2	HR		14	11049234			2222		125	Europe/Zagreb	2023-03-11
+11049235	Općina Velika Ludina	Opcina Velika Ludina	Municipality of Velika Ludina,Opcina Velika Ludina,Općina Velika Ludina,Velika Ludina	45.60748	16.57779	A	ADM2	HR		14	11049235			2283		100	Europe/Zagreb	2023-03-11
+11049266	Barilović	Barilovic	Barilovic,Barilović,Municipality of Barilovic,Municipality of Barilović,Opcina Barilovic,Općina Barilović	45.38241	15.54943	A	ADM2	HR		05	11049266			2673		126	Europe/Zagreb	2023-03-11
+11049267	Općina Bosiljevo	Opcina Bosiljevo	Bosiljevo,Municipality of Bosiljevo,Opcina Bosiljevo,Općina Bosiljevo	45.40239	15.28542	A	ADM2	HR		05	11049267			1040		289	Europe/Zagreb	2024-02-25
+11049268	Cetingrad	Cetingrad	Cetingrad,Municipality of Cetingrad,Opcina Cetingrad,Općina Cetingrad	45.15909	15.73877	A	ADM2	HR		05	11049268			1491		220	Europe/Zagreb	2023-03-11
+11049269	Draganić	Draganic	Draganic,Draganić,Municipality of Draganic,Municipality of Draganić,Opcina Draganic,Općina Draganić	45.60088	15.59818	A	ADM2	HR		05	11049269			2541		135	Europe/Zagreb	2023-03-11
+11049270	Općina Generalski Stol	Opcina Generalski Stol	Generalski Stol,Municipality of Generalski Stol,Opcina Generalski Stol,Općina Generalski Stol	45.34185	15.37554	A	ADM2	HR		05	11049270			2171		189	Europe/Zagreb	2023-01-22
+11049271	Općina Josipdol	Opcina Josipdol	Josipdol,Municipality of Josipdol,Opcina Josipdol,Općina Josipdol	45.19391	15.28868	A	ADM2	HR		05	11049271			3419		339	Europe/Zagreb	2023-03-11
+11049272	Kamanje	Kamanje	Kamanje,Municipality of Kamanje,Opcina Kamanje,Općina Kamanje	45.63395	15.39322	A	ADM2	HR		05	11049272			827		164	Europe/Zagreb	2023-03-11
+11049273	Krnjak	Krnjak	Krnjak,Municipality of Krnjak,Opcina Krnjak,Općina Krnjak	45.33591	15.59883	A	ADM2	HR		05	11049273			1332		142	Europe/Zagreb	2023-03-11
+11049275	Lasinja	Lasinja	Lasinja,Municipality of Lasinja,Opcina Lasinja,Općina Lasinja	45.52814	15.85851	A	ADM2	HR		05	11049275			1322		142	Europe/Zagreb	2023-03-11
+11049276	Netretić	Netretic	Municipality of Netretic,Municipality of Netretić,Netretic,Netretić,Opcina Netretic,Općina Netretić	45.50862	15.41206	A	ADM2	HR		05	11049276			2439		259	Europe/Zagreb	2023-03-11
+11049277	Općina Plaški	Opcina Plaski	Municipality of Plaski,Municipality of Plaški,Opcina Plaski,Općina Plaški,Plaski,Plaški	45.07794	15.36824	A	ADM2	HR		05	11049277			1650		378	Europe/Zagreb	2023-03-26
+11049278	Rakovica	Rakovica	Municipality of Rakovica,Opcina Rakovica,Općina Rakovica,Rakovica	44.99323	15.6496	A	ADM2	HR		05	11049278			2230		348	Europe/Zagreb	2023-03-11
+11049279	Ribnik	Ribnik	Municipality of Ribnik,Opcina Ribnik,Općina Ribnik,Ribnik	45.57712	15.35108	A	ADM2	HR		05	11049279			362		145	Europe/Zagreb	2023-03-11
+11049280	Saborsko	Saborsko	Municipality of Saborsko,Opcina Saborsko,Općina Saborsko,Saborsko	44.98349	15.47523	A	ADM2	HR		05	11049280			466		611	Europe/Zagreb	2023-03-11
+11049281	Općina Tounj	Opcina Tounj	Municipality of Tounj,Opcina Tounj,Općina Tounj,Tounj	45.25228	15.32614	A	ADM2	HR		05	11049281			1002		247	Europe/Zagreb	2023-03-11
+11049283	Žakanje	Zakanje	Municipality of Zakanje,Municipality of Žakanje,Opcina Zakanje,Općina Žakanje,Zakanje,Žakanje	45.60946	15.3379	A	ADM2	HR		05	11049283			1732		181	Europe/Zagreb	2023-03-11
+11049284	Brinje	Brinje	Brinje,Municipality of Brinje,Opcina Brinje,Općina Brinje	44.9986	15.12916	A	ADM2	HR		08	11049284			2563		469	Europe/Zagreb	2023-03-11
+11049285	Donji Lapac	Donji Lapac	Donji Lapac,Municipality of Donji Lapac,Opcina Donji Lapac,Općina Donji Lapac	44.55392	15.96	A	ADM2	HR		08	11049285			1366		587	Europe/Zagreb	2023-03-11
+11049286	Gospić	Gospic	Gospic,Gospić,Grad Gospic,Grad Gospić,Town of Gospic,Town of Gospić	44.54652	15.37266	A	ADM2	HR		08	11049286			11502		564	Europe/Zagreb	2023-03-11
+11049287	Karlobag	Karlobag	Karlobag,Municipality of Karlobag,Opcina Karlobag,Općina Karlobag	44.52838	15.07251	A	ADM2	HR		08	11049287			780		27	Europe/Zagreb	2023-03-11
+11049288	Lovinac	Lovinac	Lovinac,Municipality of Lovinac,Opcina Lovinac,Općina Lovinac	44.39202	15.68676	A	ADM2	HR		08	11049288			943		585	Europe/Zagreb	2023-03-11
+11049289	Novalja	Novalja	Grad Novalja,Novalja,Town of Novalja	44.55634	14.88536	A	ADM2	HR		08	11049289			3680		10	Europe/Zagreb	2023-03-11
+11049290	Otočac	Otocac	Grad Otocac,Grad Otočac,Otocac,Otočac,Town of Otocac,Town of Otočac	44.86876	15.23752	A	ADM2	HR		08	11049290			8332		459	Europe/Zagreb	2023-03-11
+11049291	Perušić	Perusic	Municipality of Perusic,Municipality of Perušić,Opcina Perusic,Općina Perušić,Perusic,Perušić	44.64865	15.38305	A	ADM2	HR		08	11049291			1973		574	Europe/Zagreb	2023-03-11
+11049292	Plitvička Jezera	Plitvicka Jezera	Municipality of Plitvicka Jezera,Municipality of Plitvička Jezera,Opcina Plitvicka Jezera,Opshtina Plitvichka Jezera,Općina Plitvička Jezera,Plitvicka Jezera,Plitvička Jezera,Општина Плитвичка Језера	44.88053	15.62123	A	ADM2	HR		08	11049292			3649		590	Europe/Zagreb	2024-09-27
+11049293	Senj	Senj	Grad Senj,Senj,Town of Senj	44.98871	14.9045	A	ADM2	HR		08	11049293			5973		10	Europe/Zagreb	2023-03-11
+11049294	Udbina	Udbina	Municipality of Udbina,Opcina Udbina,Općina Udbina,Udbina,Udwige	44.53108	15.76658	A	ADM2	HR		08	11049294			1334		829	Europe/Zagreb	2023-03-11
+11049295	Općina Vrhovine	Opcina Vrhovine	Municipality of Vrhovine,Opcina Vrhovine,Opshtina Vrkhovine,Općina Vrhovine,Vrhovine,Vrkhovine,Врховине,Општина Врховине	44.85133	15.42287	A	ADM2	HR		08	11049295			653		737	Europe/Zagreb	2023-03-26
+11049296	Bednja	Bednja	Bednja,Municipality of Bednja,Opcina Bednja,Općina Bednja	46.22799	15.98236	A	ADM2	HR		16	11049296			3389		236	Europe/Zagreb	2023-03-11
+11049297	Beretinec	Beretinec	Beretinec,Municipality of Beretinec,Opcina Beretinec,Općina Beretinec	46.24782	16.30534	A	ADM2	HR		16	11049297			2049		196	Europe/Zagreb	2023-03-11
+11049298	Breznica	Breznica	Breznica,Municipality of Breznica,Opcina Breznica,Općina Breznica	46.07012	16.27041	A	ADM2	HR		16	11049298			1970		189	Europe/Zagreb	2023-03-11
+11049299	Breznički Hum	Breznicki Hum	Breznicki Hum,Breznički Hum,Municipality of Breznicki Hum,Municipality of Breznički Hum,Opcina Breznicki Hum,Općina Breznički Hum	46.1078	16.28294	A	ADM2	HR		16	11049299			1132		161	Europe/Zagreb	2023-03-11
+11049300	Cestica	Cestica	Cestica,Municipality of Cestica,Opcina Cestica,Općina Cestica	46.37002	16.12372	A	ADM2	HR		16	11049300			5425		198	Europe/Zagreb	2023-03-11
+11049301	Donja Voća	Donja Voca	Donja Voca,Donja Voća,Municipality of Donja Voca,Municipality of Donja Voća,Opcina Donja Voca,Općina Donja Voća	46.31615	16.07386	A	ADM2	HR		16	11049301			2030		226	Europe/Zagreb	2023-03-11
+11049302	Gornji Kneginec	Gornji Kneginec	Gornji Kneginec,Municipality of Gornji Kneginec,Opcina Gornji Kneginec,Općina Gornji Kneginec	46.25023	16.37547	A	ADM2	HR		16	11049302			4900		198	Europe/Zagreb	2023-03-11
+11049303	Općina Jalžabet	Opcina Jalzabet	Jalzabet,Jalžabet,Municipality of Jalzabet,Municipality of Jalžabet,Opcina Jalzabet,Općina Jalžabet	46.25901	16.47391	A	ADM2	HR		16	11049303			3183		178	Europe/Zagreb	2023-03-11
+11049306	Klenovnik	Klenovnik	Klenovnik,Municipality of Klenovnik,Opcina Klenovnik,Općina Klenovnik	46.27026	16.07613	A	ADM2	HR		16	11049306			1793		221	Europe/Zagreb	2023-03-11
+11049307	Općina Ljubešćica	Opcina Ljubescica	Ljubescica,Ljubešćica,Municipality of Ljubescica,Municipality of Ljubešćica,Opcina Ljubescica,Općina Ljubešćica	46.17388	16.3901	A	ADM2	HR		16	11049307			1689		204	Europe/Zagreb	2023-03-11
+11049308	Lepoglava	Lepoglava	Grad Lepoglava,Lepoglava,Town of Lepoglava	46.20736	16.04343	A	ADM2	HR		16	11049308			6945		247	Europe/Zagreb	2023-03-11
+11049309	Mali Bukovec	Mali Bukovec	Mali Bukovec,Municipality of Mali Bukovec,Opcina Mali Bukovec,Općina Mali Bukovec	46.28793	16.73604	A	ADM2	HR		16	11049309			1809		139	Europe/Zagreb	2023-03-11
+11049310	Općina Martijanec	Opcina Martijanec	Martijanec,Municipality of Martijanec,Opcina Martijanec,Općina Martijanec	46.26382	16.54099	A	ADM2	HR		16	11049310			2638		162	Europe/Zagreb	2023-03-11
+11049311	Maruševec	Marusevec	Marusevec,Maruševec,Municipality of Marusevec,Municipality of Maruševec,Opcina Marusevec,Općina Maruševec	46.28263	16.18625	A	ADM2	HR		16	11049311			5682		200	Europe/Zagreb	2023-03-11
+11049312	Petrijanec	Petrijanec	Municipality of Petrijanec,Opcina Petrijanec,Općina Petrijanec,Petrijanec	46.34541	16.22878	A	ADM2	HR		16	11049312			4553		184	Europe/Zagreb	2023-03-11
+11049313	Sračinec	Sracinec	Municipality of Sracinec,Municipality of Sračinec,Opcina Sracinec,Općina Sračinec,Sracinec,Sračinec	46.33201	16.2714	A	ADM2	HR		16	11049313			4678		180	Europe/Zagreb	2023-03-11
+11049314	Sveti Ilija	Sveti Ilija	Municipality of Sveti Ilija,Opcina Sveti Ilija,Općina Sveti Ilija,Sveti Ilija	46.24601	16.32358	A	ADM2	HR		16	11049314			3242		192	Europe/Zagreb	2023-03-11
+11049315	Općina Trnovec Bartolovečki	Opcina Trnovec Bartolovecki	Municipality of Trnovec Bartolovecki,Municipality of Trnovec Bartolovečki,Opcina Trnovec Bartolovecki,Općina Trnovec Bartolovečki,Trnovec Bartolovecki,Trnovec Bartolovečki	46.29392	16.39967	A	ADM2	HR		16	11049315			6145		164	Europe/Zagreb	2023-03-11
+11049316	Grad Varaždinske Toplice	Grad Varazdinske Toplice	Grad Varazdinske Toplice,Grad Varaždinske Toplice,Town of Varazdinske Toplice,Town of Varaždinske Toplice,Varazdinske Toplice,Varaždinske Toplice	46.21053	16.42319	A	ADM2	HR		16	11049316			5537		209	Europe/Zagreb	2023-03-11
+11049317	Veliki Bukovec	Veliki Bukovec	Municipality of Veliki Bukovec,Opcina Veliki Bukovec,Općina Veliki Bukovec,Veliki Bukovec	46.29034	16.70978	A	ADM2	HR		16	11049317			1325		142	Europe/Zagreb	2023-03-11
+11049318	Vidovec	Vidovec	Municipality of Vidovec,Opcina Vidovec,Općina Vidovec,Vidovec	46.28589	16.24144	A	ADM2	HR		16	11049318			4915		177	Europe/Zagreb	2023-03-11
+11049320	Vinica	Vinica	Municipality of Vinica,Opcina Vinica,Općina Vinica,Vinica	46.3391	16.15338	A	ADM2	HR		16	11049320			3020		197	Europe/Zagreb	2023-03-11
+11049321	Visoko	Visoko	Municipality of Visoko,Opcina Visoko,Općina Visoko,Visoko	46.08983	16.32701	A	ADM2	HR		16	11049321			1335		202	Europe/Zagreb	2023-03-11
+11049322	Drnje	Drnje	Drnje,Municipality of Drnje,Opcina Drnje,Općina Drnje	46.20875	16.91796	A	ADM2	HR		06	11049322			1533		126	Europe/Zagreb	2023-03-11
+11049323	Ferdinandovac	Ferdinandovac	Ferdinandovac,Municipality of Ferdinandovac,Opcina Ferdinandovac,Općina Ferdinandovac	46.05999	17.18897	A	ADM2	HR		06	11049323			1415		112	Europe/Zagreb	2023-03-11
+11049324	Gola	Gola	Gola,Municipality of Gola,Opcina Gola,Općina Gola	46.19756	17.05966	A	ADM2	HR		06	11049324			2078		125	Europe/Zagreb	2023-03-11
+11049326	Gornja Rijeka	Gornja Rijeka	Gornja Rijeka,Municipality of Gornja Rijeka,Opcina Gornja Rijeka,Općina Gornja Rijeka	46.10977	16.39079	A	ADM2	HR		06	11049326			1559		204	Europe/Zagreb	2023-03-11
+11049369	Hlebine	Hlebine	Hlebine,Municipality of Hlebine,Opcina Hlebine,Općina Hlebine	46.15373	16.96675	A	ADM2	HR		06	11049369			1180		125	Europe/Zagreb	2023-03-11
+11049370	Kalinovac	Kalinovac	Kalinovac,Municipality of Kalinovac,Opcina Kalinovac,Općina Kalinovac	46.02491	17.11314	A	ADM2	HR		06	11049370			1297		117	Europe/Zagreb	2023-03-11
+11049372	Općina Kalnik	Opcina Kalnik	Kalnik,Municipality of Kalnik,Opcina Kalnik,Općina Kalnik	46.1272	16.46439	A	ADM2	HR		06	11049372			1154		357	Europe/Zagreb	2023-03-11
+11049373	Kloštar Podravski	Klostar Podravski	Klostar Podravski,Kloštar Podravski,Municipality of Klostar Podravski,Municipality of Kloštar Podravski,Opcina Klostar Podravski,Općina Kloštar Podravski	45.98339	17.15665	A	ADM2	HR		06	11049373			2749		117	Europe/Zagreb	2023-03-11
+11049374	Koprivnički Bregi	Koprivnicki Bregi	Koprivnicki Bregi,Koprivnički Bregi,Municipality of Koprivnicki Bregi,Municipality of Koprivnički Bregi,Opcina Koprivnicki Bregi,Općina Koprivnički Bregi	46.13321	16.90131	A	ADM2	HR		06	11049374			1968		129	Europe/Zagreb	2023-03-11
+11049375	Koprivnički Ivanec	Koprivnicki Ivanec	Koprivnicki Ivanec,Koprivnički Ivanec,Municipality of Koprivnicki Ivanec,Municipality of Koprivnički Ivanec,Opcina Koprivnicki Ivanec,Općina Koprivnički Ivanec	46.19907	16.81629	A	ADM2	HR		06	11049375			1798		137	Europe/Zagreb	2023-03-11
+11049376	Općina Legrad	Opcina Legrad	Legrad,Municipality of Legrad,Opcina Legrad,Općina Legrad	46.29588	16.85492	A	ADM2	HR		06	11049376			1916		131	Europe/Zagreb	2023-03-11
+11049377	Molve	Molve	Molve,Municipality of Molve,Opcina Molve,Općina Molve	46.10602	17.03628	A	ADM2	HR		06	11049377			1767		119	Europe/Zagreb	2023-03-11
+11049378	Novigrad Podravski	Novigrad Podravski	Municipality of Novigrad Podravski,Novigrad Podravski,Opcina Novigrad Podravski,Općina Novigrad Podravski	46.07605	16.94959	A	ADM2	HR		06	11049378			2300		138	Europe/Zagreb	2023-03-11
+11049380	Novo Virje	Novo Virje	Municipality of Novo Virje,Novo Virje,Opcina Novo Virje,Općina Novo Virje	46.09834	17.15215	A	ADM2	HR		06	11049380			1026		114	Europe/Zagreb	2023-03-11
+11049381	Peteranec	Peteranec	Municipality of Peteranec,Opcina Peteranec,Općina Peteranec,Peteranec	46.19322	16.8886	A	ADM2	HR		06	11049381			2300		129	Europe/Zagreb	2023-03-11
+11049383	Podravske Sesvete	Podravske Sesvete	Municipality of Podravske Sesvete,Opcina Podravske Sesvete,Općina Podravske Sesvete,Podravske Sesvete	46.00386	17.21403	A	ADM2	HR		06	11049383			1446		112	Europe/Zagreb	2023-03-11
+11049389	Općina Rasinja	Opcina Rasinja	Municipality of Rasinja,Opcina Rasinja,Općina Rasinja,Rasinja	46.18318	16.70433	A	ADM2	HR		06	11049389			2631		157	Europe/Zagreb	2023-03-11
+11049391	Općina Sokolovac	Opcina Sokolovac	Municipality of Sokolovac,Opcina Sokolovac,Općina Sokolovac,Sokolovac	46.10428	16.70952	A	ADM2	HR		06	11049391			2789		194	Europe/Zagreb	2023-03-11
+11049393	Sveti Ivan Žabno	Sveti Ivan Zabno	Municipality of Sveti Ivan Zabno,Municipality of Sveti Ivan Žabno,Opcina Sveti Ivan Zabno,Općina Sveti Ivan Žabno,Sveti Ivan Zabno,Sveti Ivan Žabno	45.94526	16.60622	A	ADM2	HR		06	11049393			4343		175	Europe/Zagreb	2023-03-11
+11049395	Općina Sveti Petar Orehovec	Opcina Sveti Petar Orehovec	Municipality of Sveti Petar Orehovec,Opcina Sveti Petar Orehovec,Općina Sveti Petar Orehovec,Sveti Petar Orehovec	46.08004	16.45267	A	ADM2	HR		06	11049395			3942		179	Europe/Zagreb	2023-03-11
+11049397	Virje	Virje	Municipality of Virje,Opcina Virje,Općina Virje,Virje	46.06664	16.98675	A	ADM2	HR		06	11049397			3842		131	Europe/Zagreb	2023-03-11
+11049398	Berek	Berek	Berek,Municipality of Berek,Opcina Berek,Općina Berek	45.7366	16.82908	A	ADM2	HR		01	11049398			1106		149	Europe/Zagreb	2023-03-11
+11049399	Dežanovac	Dezanovac	Dezanovac,Dežanovac,Municipality of Dezanovac,Municipality of Dežanovac,Opcina Dezanovac,Općina Dežanovac	45.57301	17.08752	A	ADM2	HR		01	11049399			1978		159	Europe/Zagreb	2023-03-11
+11049403	Hercegovac	Hercegovac	Hercegovac,Municipality of Hercegovac,Opcina Hercegovac,Općina Hercegovac	45.65664	17.01186	A	ADM2	HR		01	11049403			1910		137	Europe/Zagreb	2023-03-11
+11049406	Ivanska	Ivanska	Ivanska,Municipality of Ivanska,Opcina Ivanska,Općina Ivanska	45.78173	16.80681	A	ADM2	HR		01	11049406			2256		144	Europe/Zagreb	2023-03-11
+11049413	Kapela	Kapela	Kapela,Municipality of Kapela,Opcina Kapela,Općina Kapela	45.98543	16.85174	A	ADM2	HR		01	11049413			2367		204	Europe/Zagreb	2023-03-11
+11049414	Končanica	Koncanica	Koncanica,Končanica,Municipality of Koncanica,Municipality of Končanica,Opcina Koncanica,Općina Končanica	45.63807	17.16459	A	ADM2	HR		01	11049414			1805		170	Europe/Zagreb	2023-03-11
+11049415	Nova Rača	Nova Raca	Municipality of Nova Raca,Municipality of Nova Rača,Nova Raca,Nova Rača,Opcina Nova Raca,Općina Nova Rača	45.80052	16.95289	A	ADM2	HR		01	11049415			2756		125	Europe/Zagreb	2023-03-11
+11049416	Rovišće	Rovisce	Municipality of Rovisce,Municipality of Rovišće,Opcina Rovisce,Općina Rovišće,Rovisce,Rovišće	45.94472	16.73115	A	ADM2	HR		01	11049416			4144		134	Europe/Zagreb	2023-03-11
+11049417	Severin	Severin	Municipality of Severin,Opcina Severin,Općina Severin,Severin	45.84152	16.9695	A	ADM2	HR		01	11049417			702		125	Europe/Zagreb	2023-03-11
+11049418	Sirač	Sirac	Municipality of Sirac,Municipality of Sirač,Opcina Sirac,Općina Sirač,Sirac,Sirač	45.52579	17.25532	A	ADM2	HR		01	11049418			1796		161	Europe/Zagreb	2023-03-11
+11049419	Šandrovac	Sandrovac	Municipality of Sandrovac,Municipality of Šandrovac,Opcina Sandrovac,Općina Šandrovac,Sandrovac,Šandrovac	45.90407	17.02898	A	ADM2	HR		01	11049419			1411		164	Europe/Zagreb	2023-03-11
+11049420	Štefanje	Stefanje	Municipality of Stefanje,Municipality of Štefanje,Opcina Stefanje,Općina Štefanje,Stefanje,Štefanje	45.80222	16.71493	A	ADM2	HR		01	11049420			1688		135	Europe/Zagreb	2023-03-11
+11049421	Velika Pisanica	Velika Pisanica	Municipality of Velika Pisanica,Opcina Velika Pisanica,Općina Velika Pisanica,Velika Pisanica	45.80018	17.06409	A	ADM2	HR		01	11049421			1313		159	Europe/Zagreb	2023-03-11
+11049422	Velika Trnovitica	Velika Trnovitica	Municipality of Velika Trnovitica,Opcina Velika Trnovitica,Općina Velika Trnovitica,Velika Trnovitica	45.68621	16.95401	A	ADM2	HR		01	11049422			1091		140	Europe/Zagreb	2023-03-11
+11049424	Veliki Grđevac	Veliki Grgevac	Municipality of Veliki Grgevac,Municipality of Veliki Grđevac,Opcina Veliki Grgevac,Općina Veliki Grđevac,Veliki Grgevac,Veliki Grđevac	45.75473	17.04829	A	ADM2	HR		01	11049424			2316		143	Europe/Zagreb	2023-03-11
+11049426	Veliko Trojstvo	Veliko Trojstvo	Municipality of Veliko Trojstvo,Opcina Veliko Trojstvo,Općina Veliko Trojstvo,Veliko Trojstvo	45.93359	16.93405	A	ADM2	HR		01	11049426			2379		142	Europe/Zagreb	2023-03-11
+11049428	Zrinski Topolovac	Zrinski Topolovac	Municipality of Zrinski Topolovac,Opcina Zrinski Topolovac,Općina Zrinski Topolovac,Zrinski Topolovac	46.0212	16.75509	A	ADM2	HR		01	11049428			747		148	Europe/Zagreb	2023-03-11
+11049429	Bakar	Bakar	Bakar,Grad Bakar,Town of Bakar	45.30685	14.53358	A	ADM2	HR		12	11049429			7573		45	Europe/Zagreb	2023-03-11
+11049430	Baška	Baska	Baska,Baška,Municipality of Baska,Municipality of Baška,Opcina Baska,Općina Baška	44.97159	14.75163	A	ADM2	HR		12	11049430			1656		18	Europe/Zagreb	2023-03-11
+11049431	Brod Moravice	Brod Moravice	Brod Moravice,Municipality of Brod Moravice,Opcina Brod Moravice,Općina Brod Moravice	45.46313	14.97029	A	ADM2	HR		12	11049431			663		594	Europe/Zagreb	2023-03-11
+11049432	Čavle	Cavle	Cavle,Municipality of Cavle,Municipality of Čavle,Opcina Cavle,Općina Čavle,Čavle	45.35732	14.48766	A	ADM2	HR		12	11049432			7059		310	Europe/Zagreb	2023-03-11
+11049433	Dobrinj	Dobrinj	Dobrinj,Municipality of Dobrinj,Opcina Dobrinj,Općina Dobrinj	45.12949	14.60495	A	ADM2	HR		12	11049433			2150		201	Europe/Zagreb	2023-03-11
+11049434	Fužine	Fuzine	Fuzine,Fužine,Municipality of Fuzine,Municipality of Fužine,Opcina Fuzine,Općina Fužine	45.3048	14.71413	A	ADM2	HR		12	11049434			1394		718	Europe/Zagreb	2023-03-11
+11049435	Jelenje	Jelenje	Jelenje,Municipality of Jelenje,Opcina Jelenje,Općina Jelenje	45.38828	14.45037	A	ADM2	HR		12	11049435			5096		301	Europe/Zagreb	2023-03-11
+11049436	Kastav	Kastav	Grad Kastav,Kastav,Town of Kastav	45.37137	14.35003	A	ADM2	HR		12	11049436			10202		339	Europe/Zagreb	2023-03-11
+11049437	Klana	Klana	Klana,Municipality of Klana,Opcina Klana,Općina Klana	45.44618	14.37647	A	ADM2	HR		12	11049437			1845		563	Europe/Zagreb	2023-03-11
+11049438	Kostrena	Kostrena	Kostrena,Municipality of Kostrena,Opcina Kostrena,Općina Kostrena	45.29924	14.51006	A	ADM2	HR		12	11049438			4398		110	Europe/Zagreb	2023-03-11
+11049439	Lokve	Lokve	Lokve,Municipality of Lokve,Opcina Lokve,Općina Lokve	45.3579	14.75146	A	ADM2	HR		12	11049439			850		722	Europe/Zagreb	2023-03-11
+11049440	Lopar	Lopar	Lopar,Municipality of Lopar,Opcina Lopar,Općina Lopar	44.83106	14.73078	A	ADM2	HR		12	11049440			1107		12	Europe/Zagreb	2023-03-11
+11049441	Lovran	Lovran	Lovran,Municipality of Lovran,Opcina Lovran,Općina Lovran	45.29634	14.27253	A	ADM2	HR		12	11049441			3527		71	Europe/Zagreb	2023-03-11
+11049442	Mali Lošinj	Mali Losinj	Grad Mali Losinj,Grad Mali Lošinj,Mali Losinj,Mali Lošinj,Town of Mali Losinj,Town of Mali Lošinj	44.53129	14.47294	A	ADM2	HR		12	11049442			7537		45	Europe/Zagreb	2023-03-11
+11049443	Matulji	Matulji	Matulji,Municipality of Matulji,Opcina Matulji,Općina Matulji	45.36417	14.32583	A	ADM2	HR		12	11049443			10773		194	Europe/Zagreb	2023-03-11
+11049445	Mošćenička Draga	Moscenicka Draga	Moscenicka Draga,Mošćenička Draga,Municipality of Moscenicka Draga,Municipality of Mošćenička Draga,Opcina Moscenicka Draga,Općina Mošćenička Draga	45.23995	14.25356	A	ADM2	HR		12	11049445			1288		29	Europe/Zagreb	2023-03-11
+11049446	Mrkopalj	Mrkopalj	Mrkopalj,Municipality of Mrkopalj,Opcina Mrkopalj,Općina Mrkopalj	45.31421	14.8518	A	ADM2	HR		12	11049446			924		818	Europe/Zagreb	2023-03-11
+11049447	Novi Vinodolski	Novi Vinodolski	Grad Novi Vinodolski,Novi Vinodolski,Town of Novi Vinodolski	45.12867	14.79009	A	ADM2	HR		12	11049447			4328		31	Europe/Zagreb	2023-03-11
+11049448	Omišalj	Omisalj	Municipality of Omisalj,Municipality of Omišalj,Omisalj,Omišalj,Opcina Omisalj,Općina Omišalj	45.21106	14.55727	A	ADM2	HR		12	11049448			2992		86	Europe/Zagreb	2023-03-11
+11049449	Punat	Punat	Municipality of Punat,Opcina Punat,Općina Punat,Punat	45.02018	14.63212	A	ADM2	HR		12	11049449			1900		18	Europe/Zagreb	2023-03-11
+11049450	Rab	Rab	Grad Rab,Rab,Town of Rab	44.75769	14.75906	A	ADM2	HR		12	11049450			7161		16	Europe/Zagreb	2023-03-11
+11049451	Ravna Gora	Ravna Gora	Municipality of Ravna Gora,Opcina Ravna Gora,Općina Ravna Gora,Ravna Gora	45.37445	14.93724	A	ADM2	HR		12	11049451			2028		793	Europe/Zagreb	2023-03-11
+11049452	Skrad	Skrad	Municipality of Skrad,Opcina Skrad,Općina Skrad,Skrad	45.43125	14.90527	A	ADM2	HR		12	11049452			858		678	Europe/Zagreb	2023-03-11
+11049453	Viškovo	Viskovo	Municipality of Viskovo,Municipality of Viškovo,Opcina Viskovo,Općina Viškovo,Viskovo,Viškovo	45.37532	14.38415	A	ADM2	HR		12	11049453			16084		330	Europe/Zagreb	2023-03-11
+11049454	Vrbnik	Vrbnik	Municipality of Vrbnik,Opcina Vrbnik,Općina Vrbnik,Vrbnik	45.07548	14.67516	A	ADM2	HR		12	11049454			1190		39	Europe/Zagreb	2023-03-11
+11049455	Crnac	Crnac	Crnac,Municipality of Crnac,Opcina Crnac,Općina Crnac	45.69207	17.93879	A	ADM2	HR		17	11049455			1116		95	Europe/Zagreb	2023-03-11
+11049456	Čačinci	Cacinci	Cacinci,Municipality of Cacinci,Municipality of Čačinci,Opcina Cacinci,Općina Čačinci,Čačinci	45.60004	17.87377	A	ADM2	HR		17	11049456			2162		118	Europe/Zagreb	2023-03-11
+11049457	Čađavica	Cagavica	Cagavica,Municipality of Cagavica,Municipality of Čađavica,Opcina Cagavica,Općina Čađavica,Čađavica	45.74278	17.85562	A	ADM2	HR		17	11049457			1555		103	Europe/Zagreb	2023-03-11
+11049459	Gradina	Gradina	Gradina,Municipality of Gradina,Opcina Gradina,Općina Gradina	45.85423	17.51109	A	ADM2	HR		17	11049459			2874		117	Europe/Zagreb	2023-03-11
+11049462	Lukač	Lukac	Lukac,Lukač,Municipality of Lukac,Municipality of Lukač,Opcina Lukac,Općina Lukač	45.87407	17.41938	A	ADM2	HR		17	11049462			2759		113	Europe/Zagreb	2023-03-11
+11049464	Mikleuš	Mikleus	Mikleus,Mikleuš,Municipality of Mikleus,Municipality of Mikleuš,Opcina Mikleus,Općina Mikleuš	45.61421	17.80837	A	ADM2	HR		17	11049464			1067		133	Europe/Zagreb	2023-03-11
+11049465	Nova Bukovica	Nova Bukovica	Municipality of Nova Bukovica,Nova Bukovica,Opcina Nova Bukovica,Općina Nova Bukovica	45.66183	17.77086	A	ADM2	HR		17	11049465			1275		136	Europe/Zagreb	2023-03-11
+11049466	Pitomača	Pitomaca	Municipality of Pitomaca,Municipality of Pitomača,Opcina Pitomaca,Općina Pitomača,Pitomaca,Pitomača	45.94779	17.23197	A	ADM2	HR		17	11049466			8402		113	Europe/Zagreb	2023-03-11
+11049467	Sopje	Sopje	Municipality of Sopje,Opcina Sopje,Općina Sopje,Sopje	45.80304	17.74507	A	ADM2	HR		17	11049467			1897		103	Europe/Zagreb	2023-03-11
+11049468	Suhopolje	Suhopolje	Municipality of Suhopolje,Opcina Suhopolje,Općina Suhopolje,Suhopolje	45.80238	17.49762	A	ADM2	HR		17	11049468			5267		117	Europe/Zagreb	2023-03-11
+11049469	Špišić Bukovica	Spisic Bukovica	Municipality of Spisic Bukovica,Municipality of Špišić Bukovica,Opcina Spisic Bukovica,Općina Špišić Bukovica,Spisic Bukovica,Špišić Bukovica	45.8574	17.30089	A	ADM2	HR		17	11049469			3303		129	Europe/Zagreb	2023-03-11
+11049470	Voćin	Vocin	Municipality of Vocin,Municipality of Voćin,Opcina Vocin,Općina Voćin,Vocin,Voćin	45.62015	17.54594	A	ADM2	HR		17	11049470			1896		214	Europe/Zagreb	2023-03-11
+11049471	Zdenci	Zdenci	Municipality of Zdenci,Opcina Zdenci,Općina Zdenci,Zdenci	45.58247	17.95149	A	ADM2	HR		17	11049471			1453		111	Europe/Zagreb	2023-03-11
+11049472	Brestovac	Brestovac	Brestovac,Municipality of Brestovac,Opcina Brestovac,Općina Brestovac	45.33057	17.59727	A	ADM2	HR		11	11049472			2980		163	Europe/Zagreb	2023-03-11
+11049473	Čaglin	Caglin	Caglin,Municipality of Caglin,Municipality of Čaglin,Opcina Caglin,Općina Čaglin,Čaglin	45.35114	17.98827	A	ADM2	HR		11	11049473			2111		140	Europe/Zagreb	2023-03-11
+11049474	Jakšić	Jaksic	Jaksic,Jakšić,Municipality of Jaksic,Municipality of Jakšić,Opcina Jaksic,Općina Jakšić	45.35765	17.76502	A	ADM2	HR		11	11049474			3371		173	Europe/Zagreb	2023-03-11
+11049475	Kaptol	Kaptol	Kaptol,Municipality of Kaptol,Opcina Kaptol,Općina Kaptol	45.43236	17.72614	A	ADM2	HR		11	11049475			2605		236	Europe/Zagreb	2023-03-11
+11049476	Kutjevo	Kutjevo	Grad Kutjevo,Kutjevo,Town of Kutjevo	45.42564	17.88407	A	ADM2	HR		11	11049476			4870		224	Europe/Zagreb	2023-03-11
+11049477	Lipik	Lipik	Grad Lipik,Lipik,Town of Lipik	45.41308	17.16043	A	ADM2	HR		11	11049477			5127		149	Europe/Zagreb	2023-03-11
+11049478	Pleternica	Pleternica	Grad Pleternica,Pleternica,Town of Pleternica	45.28596	17.80227	A	ADM2	HR		11	11049478			9138		121	Europe/Zagreb	2023-03-11
+11049479	Velika	Velika	Municipality of Velika,Opcina Velika,Općina Velika,Velika	45.45729	17.66091	A	ADM2	HR		11	11049479			4502		263	Europe/Zagreb	2023-03-11
+11049480	Bebrina	Bebrina	Bebrina,Municipality of Bebrina,Opcina Bebrina,Općina Bebrina	45.09784	17.83545	A	ADM2	HR		02	11049480			2817		87	Europe/Zagreb	2023-03-11
+11049481	Brodski Stupnik	Brodski Stupnik	Brodski Stupnik,Municipality of Brodski Stupnik,Opcina Brodski Stupnik,Općina Brodski Stupnik	45.16814	17.81579	A	ADM2	HR		02	11049481			2357		98	Europe/Zagreb	2023-03-11
+11049482	Bukovlje	Bukovlje	Bukovlje,Municipality of Bukovlje,Opcina Bukovlje,Općina Bukovlje	45.18475	18.06809	A	ADM2	HR		02	11049482			2727		110	Europe/Zagreb	2023-03-11
+11049489	Cernik	Cernik	Cernik,Municipality of Cernik,Opcina Cernik,Općina Cernik	45.28632	17.38071	A	ADM2	HR		02	11049489			2964		164	Europe/Zagreb	2023-03-11
+11049490	Davor	Davor	Davor,Municipality of Davor,Opcina Davor,Općina Davor	45.11287	17.51195	A	ADM2	HR		02	11049490			2529		91	Europe/Zagreb	2023-03-11
+11049491	Donji Andrijevci	Donji Andrijevci	Donji Andrijevci,Municipality of Donji Andrijevci,Opcina Donji Andrijevci,Općina Donji Andrijevci	45.18868	18.29773	A	ADM2	HR		02	11049491			3059		88	Europe/Zagreb	2023-03-11
+11049492	Dragalić	Dragalic	Dragalic,Dragalić,Municipality of Dragalic,Municipality of Dragalić,Opcina Dragalic,Općina Dragalić	45.24678	17.28832	A	ADM2	HR		02	11049492			1058		111	Europe/Zagreb	2023-03-11
+11049493	Garčin	Garcin	Garcin,Garčin,Municipality of Garcin,Municipality of Garčin,Opcina Garcin,Općina Garčin	45.18178	18.18439	A	ADM2	HR		02	11049493			3951		92	Europe/Zagreb	2023-03-11
+11049494	Gornja Vrba	Gornja Vrba	Gornja Vrba,Municipality of Gornja Vrba,Opcina Gornja Vrba,Općina Gornja Vrba	45.15389	18.06466	A	ADM2	HR		02	11049494			2168		91	Europe/Zagreb	2023-03-11
+11049495	Gornji Bogićevci	Gornji Bogicevci	Gornji Bogicevci,Gornji Bogićevci,Municipality of Gornji Bogicevci,Municipality of Gornji Bogićevci,Opcina Gornji Bogicevci,Općina Gornji Bogićevci	45.25572	17.23454	A	ADM2	HR		02	11049495			1428		126	Europe/Zagreb	2023-03-11
+11049496	Gundinci	Gundinci	Gundinci,Municipality of Gundinci,Opcina Gundinci,Općina Gundinci	45.15634	18.49085	A	ADM2	HR		02	11049496			1610		82	Europe/Zagreb	2023-03-11
+11049497	Klakar	Klakar	Klakar,Municipality of Klakar,Opcina Klakar,Općina Klakar	45.09763	18.13332	A	ADM2	HR		02	11049497			2020		86	Europe/Zagreb	2023-03-11
+11049498	Nova Kapela	Nova Kapela	Municipality of Nova Kapela,Nova Kapela,Opcina Nova Kapela,Općina Nova Kapela	45.19561	17.64413	A	ADM2	HR		02	11049498			3393		121	Europe/Zagreb	2023-03-11
+11049499	Okučani	Okucani	Municipality of Okucani,Municipality of Okučani,Okucani,Okučani,Opcina Okucani,Općina Okučani	45.26035	17.19845	A	ADM2	HR		02	11049499			2323		116	Europe/Zagreb	2023-03-11
+11049500	Oprisavci	Oprisavci	Municipality of Oprisavci,Opcina Oprisavci,Oprisavci,Općina Oprisavci	45.14626	18.21615	A	ADM2	HR		02	11049500			1968		87	Europe/Zagreb	2023-03-11
+11049501	Općina Oriovac	Opcina Oriovac	Municipality of Oriovac,Opcina Oriovac,Općina Oriovac,Oriovac	45.16375	17.75537	A	ADM2	HR		02	11049501			4770		106	Europe/Zagreb	2023-03-02
+11049502	Podcrkavlje	Podcrkavlje	Municipality of Podcrkavlje,Opcina Podcrkavlje,Općina Podcrkavlje,Podcrkavlje	45.22291	18.01174	A	ADM2	HR		02	11049502			2207		121	Europe/Zagreb	2023-03-11
+11049503	Rešetari	Resetari	Municipality of Resetari,Municipality of Rešetari,Opcina Resetari,Općina Rešetari,Resetari,Rešetari	45.26134	17.42363	A	ADM2	HR		02	11049503			3852		129	Europe/Zagreb	2023-03-11
+11049504	Sibinj	Sibinj	Municipality of Sibinj,Opcina Sibinj,Općina Sibinj,Sibinj	45.1892	17.90754	A	ADM2	HR		02	11049504			5730		113	Europe/Zagreb	2023-03-11
+11049505	Sikirevci	Sikirevci	Municipality of Sikirevci,Opcina Sikirevci,Općina Sikirevci,Sikirevci	45.1079	18.46549	A	ADM2	HR		02	11049505			2028		85	Europe/Zagreb	2023-03-11
+11049506	Slavonski Šamac	Slavonski Samac	Municipality of Slavonski Samac,Municipality of Slavonski Šamac,Opcina Slavonski Samac,Općina Slavonski Šamac,Slavonski Samac,Slavonski Šamac	45.06726	18.47918	A	ADM2	HR		02	11049506			1576		84	Europe/Zagreb	2023-03-11
+11049507	Općina Stara Gradiška	Opcina Stara Gradiska	Municipality of Stara Gradiska,Municipality of Stara Gradiška,Opcina Stara Gradiska,Općina Stara Gradiška,Stara Gradiska,Stara Gradiška	45.14874	17.2445	A	ADM2	HR		02	11049507			911		90	Europe/Zagreb	2025-11-27
+11049508	Staro Petrovo Selo	Staro Petrovo Selo	Municipality of Staro Petrovo Selo,Opcina Staro Petrovo Selo,Općina Staro Petrovo Selo,Staro Petrovo Selo	45.22868	17.52023	A	ADM2	HR		02	11049508			4110		122	Europe/Zagreb	2023-03-11
+11049509	Velika Kopanica	Velika Kopanica	Municipality of Velika Kopanica,Opcina Velika Kopanica,Općina Velika Kopanica,Velika Kopanica	45.15528	18.39442	A	ADM2	HR		02	11049509			2621		84	Europe/Zagreb	2023-03-11
+11049510	Vrbje	Vrbje	Municipality of Vrbje,Opcina Vrbje,Općina Vrbje,Vrbje	45.18708	17.41874	A	ADM2	HR		02	11049510			1691		93	Europe/Zagreb	2023-03-11
+11049511	Općina Vrpolje	Opcina Vrpolje	Municipality of Vrpolje,Opcina Vrpolje,Općina Vrpolje,Vrpolje	45.20728	18.40742	A	ADM2	HR		02	11049511			2818		81	Europe/Zagreb	2023-03-05
+11049512	Benkovac	Benkovac	Benkovac,Grad Benkovac,Town of Benkovac	44.03296	15.61101	A	ADM2	HR		19	11049512			9680		185	Europe/Zagreb	2023-03-11
+11049513	Bibinje	Bibinje	Bibinje,Municipality of Bibinje,Opcina Bibinje,Općina Bibinje	44.07324	15.28288	A	ADM2	HR		19	11049513			3962		5	Europe/Zagreb	2023-03-11
+11049514	Galovac	Galovac	Galovac,Municipality of Galovac,Opcina Galovac,Općina Galovac	44.07324	15.39116	A	ADM2	HR		19	11049514			1258		60	Europe/Zagreb	2023-03-11
+11054319	Općina Gračac	Opcina Gracac	Gracac,Grachac,Gračac,Municipality of Gracac,Municipality of Gračac,Opcina Gracac,Opshtina Grachac,Općina Gračac,Грачац,Општина Грачац	44.29952	15.84709	A	ADM2	HR		19	11054319			3136		561	Europe/Zagreb	2023-03-29
+11054321	Jasenice	Jasenice	Jasenice,Municipality of Jasenice,Opcina Jasenice,Općina Jasenice	44.22969	15.57514	A	ADM2	HR		19	11054321			1348		130	Europe/Zagreb	2023-03-11
+11054322	Kali	Kali	Kali,Municipality of Kali,Opcina Kali,Općina Kali	44.06235	15.20675	A	ADM2	HR		19	11054322			1585		28	Europe/Zagreb	2023-03-11
+11054323	Kolan	Kolan	Kolan,Municipality of Kolan,Opcina Kolan,Općina Kolan	44.49625	14.95896	A	ADM2	HR		19	11054323			815		106	Europe/Zagreb	2023-03-11
+11054325	Kukljica	Kukljica	Kukljica,Municipality of Kukljica,Opcina Kukljica,Općina Kukljica	44.03432	15.24606	A	ADM2	HR		19	11054325			628		0	Europe/Zagreb	2023-03-11
+11054326	Lišane Ostrovičke	Lisane Ostrovicke	Lisane Ostrovicke,Lišane Ostrovičke,Municipality of Lisane Ostrovicke,Municipality of Lišane Ostrovičke,Opcina Lisane Ostrovicke,Općina Lišane Ostrovičke	43.97254	15.75817	A	ADM2	HR		19	11054326			593		137	Europe/Zagreb	2023-03-11
+11054327	Nin	Nin	Grad Nin,Nin,Town of Nin	44.24221	15.18396	A	ADM2	HR		19	11054327			2705		1	Europe/Zagreb	2023-03-11
+11054328	Obrovac	Obrovac	Grad Obrovac,Obrovac,Town of Obrovac	44.20013	15.68247	A	ADM2	HR		19	11054328			3453		28	Europe/Zagreb	2023-03-11
+11054329	Pag	Pag	Grad Pag,Pag,Town of Pag	44.44361	15.05754	A	ADM2	HR		19	11054329			3175		8	Europe/Zagreb	2023-03-11
+11054332	Pakoštane	Pakostane	Municipality of Pakostane,Municipality of Pakoštane,Opcina Pakostane,Općina Pakoštane,Pakostane,Pakoštane	43.90985	15.50948	A	ADM2	HR		19	11054332			4100		15	Europe/Zagreb	2023-03-11
+11054333	Pašman	Pasman	Municipality of Pasman,Municipality of Pašman,Opcina Pasman,Općina Pašman,Pasman,Pašman	43.95562	15.38567	A	ADM2	HR		19	11054333			2136		3	Europe/Zagreb	2023-03-11
+11054335	Polača	Polaca	Municipality of Polaca,Municipality of Polača,Opcina Polaca,Općina Polača,Polaca,Polača	44.01778	15.51857	A	ADM2	HR		19	11054335			1389		114	Europe/Zagreb	2023-03-11
+11054336	Poličnik	Policnik	Municipality of Policnik,Municipality of Poličnik,Opcina Policnik,Općina Poličnik,Policnik,Poličnik	44.17659	15.37592	A	ADM2	HR		19	11054336			4676		113	Europe/Zagreb	2023-03-11
+11054372	Posedarje	Posedarje	Municipality of Posedarje,Opcina Posedarje,Općina Posedarje,Posedarje	44.21296	15.47862	A	ADM2	HR		19	11054372			3430		18	Europe/Zagreb	2023-03-11
+11054373	Povljana	Povljana	Municipality of Povljana,Opcina Povljana,Općina Povljana,Povljana	44.34698	15.11174	A	ADM2	HR		19	11054373			669		29	Europe/Zagreb	2023-03-11
+11054374	Preko	Preko	Municipality of Preko,Opcina Preko,Općina Preko,Preko	44.08002	15.18589	A	ADM2	HR		19	11054374			3556		17	Europe/Zagreb	2023-03-11
+11054375	Privlaka	Privlaka	Municipality of Privlaka,Opcina Privlaka,Općina Privlaka,Privlaka	44.2617	15.11843	A	ADM2	HR		19	11054375			2128		5	Europe/Zagreb	2023-03-11
+11054376	Ražanac	Razanac	Municipality of Razanac,Municipality of Ražanac,Opcina Razanac,Općina Ražanac,Razanac,Ražanac	44.28133	15.344	A	ADM2	HR		19	11054376			2746		18	Europe/Zagreb	2023-03-11
+11054377	Sali	Sali	Municipality of Sali,Opcina Sali,Općina Sali,Sali	43.9368	15.16336	A	ADM2	HR		19	11054377			1746		32	Europe/Zagreb	2023-03-11
+11054378	Stankovci	Stankovci	Municipality of Stankovci,Opcina Stankovci,Općina Stankovci,Stankovci	43.90591	15.69079	A	ADM2	HR		19	11054378			1831		145	Europe/Zagreb	2023-03-11
+11054379	Starigrad	Starigrad	Municipality of Starigrad,Opcina Starigrad,Općina Starigrad,Starigrad	44.29672	15.43935	A	ADM2	HR		19	11054379			1697		14	Europe/Zagreb	2023-03-11
+11054380	Sukošan	Sukosan	Municipality of Sukosan,Municipality of Sukošan,Opcina Sukosan,Općina Sukošan,Sukosan,Sukošan	44.04696	15.31391	A	ADM2	HR		19	11054380			4665		4	Europe/Zagreb	2023-03-11
+11054381	Sveti Filip i Jakov	Sveti Filip i Jakov	Municipality of Sveti Filip i Jakov,Opcina Sveti Filip i Jakov,Općina Sveti Filip i Jakov,Sveti Filip i Jakov	43.96158	15.42819	A	ADM2	HR		19	11054381			4461		11	Europe/Zagreb	2023-03-11
+11054383	Škabrnja	Skabrnja	Municipality of Skabrnja,Municipality of Škabrnja,Opcina Skabrnja,Općina Škabrnja,Skabrnja,Škabrnja	44.08949	15.45146	A	ADM2	HR		19	11054383			1661		101	Europe/Zagreb	2023-03-11
+11054384	Tkon	Tkon	Municipality of Tkon,Opcina Tkon,Općina Tkon,Tkon	43.91996	15.41639	A	ADM2	HR		19	11054384			748		41	Europe/Zagreb	2023-03-11
+11054386	Vir	Vir	Municipality of Vir,Opcina Vir,Općina Vir,Vir	44.29995	15.08663	A	ADM2	HR		19	11054386			3045		6	Europe/Zagreb	2023-03-11
+11054387	Vrsi	Vrsi	Municipality of Vrsi,Opcina Vrsi,Općina Vrsi,Vrsi	44.26372	15.23173	A	ADM2	HR		19	11054387			2045		51	Europe/Zagreb	2023-03-11
+11054389	Zemunik Donji	Zemunik Donji	Municipality of Zemunik Donji,Opcina Zemunik Donji,Općina Zemunik Donji,Zemunik Donji	44.10557	15.37974	A	ADM2	HR		19	11054389			2159		87	Europe/Zagreb	2023-03-11
+11054390	Antunovac	Antunovac	Antunovac,Municipality of Antunovac,Opcina Antunovac,Općina Antunovac	45.49015	18.67264	A	ADM2	HR		10	11054390			3411		85	Europe/Zagreb	2023-03-11
+11054391	Belišće	Belisce	Belisce,Belišće,Grad Belisce,Grad Belišće,Town of Belisce,Town of Belišće	45.6799	18.40073	A	ADM2	HR		10	11054391			8884		89	Europe/Zagreb	2023-03-11
+11054392	Bilje	Bilje	Bilje,Municipality of Bilje,Opcina Bilje,Općina Bilje	45.60472	18.74259	A	ADM2	HR		10	11054392			4772		83	Europe/Zagreb	2023-03-11
+11054393	Bizovac	Bizovac	Bizovac,Municipality of Bizovac,Opcina Bizovac,Općina Bizovac	45.59244	18.45665	A	ADM2	HR		10	11054393			3733		89	Europe/Zagreb	2023-03-11
+11054394	Općina Čeminac	Opcina Ceminac	Ceminac,Gemeinde Ceminac,Gemeinde Čeminac,Municipality of Ceminac,Municipality of Čeminac,Opcina Ceminac,Općina Čeminac,Čeminac	45.6863	18.6692	A	ADM2	HR		10	11054394			2484		87	Europe/Zagreb	2022-12-25
+11054395	Općina Čepin	Opcina Cepin	Cepin,Municipality of Cepin,Municipality of Čepin,Opcina Cepin,Općina Čepin,Čepin	45.52417	18.56599	A	ADM2	HR		10	11054395			9665		88	Europe/Zagreb	2023-03-26
+11054454	Općina Darda	Opcina Darda	Darda,Gemeinde Darda,Municipality of Darda,Opcina Darda,Opshtina Darda,Općina Darda,Дарда,Општина Дарда	45.62492	18.69092	A	ADM2	HR		10	11054454			5427		85	Europe/Zagreb	2022-12-25
+11054455	Donja Motičina	Donja Moticina	Donja Moticina,Donja Motičina,Municipality of Donja Moticina,Municipality of Donja Motičina,Opcina Donja Moticina,Općina Donja Motičina	45.49545	18.01887	A	ADM2	HR		10	11054455			1334		144	Europe/Zagreb	2023-03-11
+11054456	Draž	Draz	Draz,Draž,Municipality of Draz,Municipality of Draž,Opcina Draz,Općina Draž	45.8412	18.78855	A	ADM2	HR		10	11054456			1949		85	Europe/Zagreb	2023-03-11
+11054458	Drenje	Drenje	Drenje,Municipality of Drenje,Opcina Drenje,Općina Drenje	45.38105	18.27807	A	ADM2	HR		10	11054458			2126		149	Europe/Zagreb	2023-03-11
+11054461	Erdut	Erdut	Erdut,Municipality of Erdut,Opcina Erdut,Općina Erdut	45.52459	19.05965	A	ADM2	HR		10	11054461			5436		150	Europe/Zagreb	2023-03-11
+11054464	Ernestinovo	Ernestinovo	Ernestinovo,Municipality of Ernestinovo,Opcina Ernestinovo,Općina Ernestinovo	45.45124	18.65891	A	ADM2	HR		10	11054464			1948		85	Europe/Zagreb	2023-03-11
+11054465	Feričanci	Fericanci	Fericanci,Feričanci,Municipality of Fericanci,Municipality of Feričanci,Opcina Fericanci,Općina Feričanci	45.52438	17.97659	A	ADM2	HR		10	11054465			1725		128	Europe/Zagreb	2023-03-11
+11054467	Gorjani	Gorjani	Gorjani,Municipality of Gorjani,Opcina Gorjani,Općina Gorjani	45.39675	18.37317	A	ADM2	HR		10	11054467			1246		114	Europe/Zagreb	2023-03-11
+11054468	Jagodnjak	Jagodnjak	Jagodnjak,Municipality of Jagodnjak,Opcina Jagodnjak,Općina Jagodnjak	45.69973	18.57998	A	ADM2	HR		10	11054468			1500		87	Europe/Zagreb	2023-03-11
+11054469	Kneževi Vinogradi	Knezevi Vinogradi	Knezevi Vinogradi,Kneževi Vinogradi,Municipality of Knezevi Vinogradi,Municipality of Kneževi Vinogradi,Opcina Knezevi Vinogradi,Općina Kneževi Vinogradi	45.7517	18.73598	A	ADM2	HR		10	11054469			3357		92	Europe/Zagreb	2023-03-11
+11054470	Koška	Koska	Koska,Koška,Municipality of Koska,Municipality of Koška,Opcina Koska,Općina Koška	45.54527	18.28425	A	ADM2	HR		10	11054470			3169		92	Europe/Zagreb	2023-03-11
+11054471	Levanjska Varoš	Levanjska Varos	Levanjska Varos,Levanjska Varoš,Municipality of Levanjska Varos,Municipality of Levanjska Varoš,Opcina Levanjska Varos,Općina Levanjska Varoš	45.31375	18.17954	A	ADM2	HR		10	11054471			767		123	Europe/Zagreb	2023-03-11
+11054472	Magadenovac	Magadenovac	Magadenovac,Municipality of Magadenovac,Opcina Magadenovac,Općina Magadenovac	45.66159	18.18679	A	ADM2	HR		10	11054472			1579		93	Europe/Zagreb	2023-03-11
+11054473	Marijanci	Marijanci	Marijanci,Municipality of Marijanci,Opcina Marijanci,Općina Marijanci	45.66645	18.29284	A	ADM2	HR		10	11054473			1951		95	Europe/Zagreb	2023-03-11
+11054474	Petlovac	Petlovac	Municipality of Petlovac,Opcina Petlovac,Općina Petlovac,Petlovac	45.75739	18.5281	A	ADM2	HR		10	11054474			1874		90	Europe/Zagreb	2023-03-11
+11054475	Petrijevci	Petrijevci	Municipality of Petrijevci,Opcina Petrijevci,Općina Petrijevci,Petrijevci	45.61343	18.53788	A	ADM2	HR		10	11054475			2485		88	Europe/Zagreb	2023-03-11
+11054476	Podgorač	Podgorac	Municipality of Podgorac,Municipality of Podgorač,Opcina Podgorac,Općina Podgorač,Podgorac,Podgorač	45.45762	18.21585	A	ADM2	HR		10	11054476			2455		129	Europe/Zagreb	2023-03-11
+11054477	Podravska Moslavina	Podravska Moslavina	Municipality of Podravska Moslavina,Opcina Podravska Moslavina,Općina Podravska Moslavina,Podravska Moslavina	45.78456	17.9841	A	ADM2	HR		10	11054477			954		99	Europe/Zagreb	2023-03-11
+11054478	Popovac	Popovac	Municipality of Popovac,Opcina Popovac,Općina Popovac,Popovac	45.80701	18.66105	A	ADM2	HR		10	11054478			1446		90	Europe/Zagreb	2023-03-11
+11054479	Punitovci	Punitovci	Municipality of Punitovci,Opcina Punitovci,Općina Punitovci,Punitovci	45.4309	18.4154	A	ADM2	HR		10	11054479			1562		89	Europe/Zagreb	2023-03-11
+11054480	Semeljci	Semeljci	Municipality of Semeljci,Opcina Semeljci,Općina Semeljci,Semeljci	45.36172	18.5405	A	ADM2	HR		10	11054480			3558		96	Europe/Zagreb	2023-03-11
+11054481	Općina Strizivojna	Opcina Strizivojna	Municipality of Strizivojna,Opcina Strizivojna,Općina Strizivojna,Strizivojna	45.22626	18.4309	A	ADM2	HR		10	11054481			2027		82	Europe/Zagreb	2023-03-05
+11054482	Šodolovci	Sodolovci	Municipality of Sodolovci,Municipality of Šodolovci,Opcina Sodolovci,Općina Šodolovci,Sodolovci,Šodolovci	45.4001	18.61955	A	ADM2	HR		10	11054482			1217		85	Europe/Zagreb	2023-03-11
+11054483	Trnava	Trnava	Municipality of Trnava,Opcina Trnava,Općina Trnava,Trnava	45.25856	18.25344	A	ADM2	HR		10	11054483			1251		123	Europe/Zagreb	2023-03-11
+11054484	Viljevo	Viljevo	Municipality of Viljevo,Opcina Viljevo,Općina Viljevo,Viljevo	45.7503	18.06324	A	ADM2	HR		10	11054484			1626		95	Europe/Zagreb	2023-03-11
+11054485	Viškovci	Viskovci	Municipality of Viskovci,Municipality of Viškovci,Opcina Viskovci,Općina Viškovci,Viskovci,Viškovci	45.34318	18.45763	A	ADM2	HR		10	11054485			1496		96	Europe/Zagreb	2023-03-11
+11054486	Vladislavci	Vladislavci	Municipality of Vladislavci,Opcina Vladislavci,Općina Vladislavci,Vladislavci	45.46015	18.57179	A	ADM2	HR		10	11054486			1552		85	Europe/Zagreb	2023-03-11
+11054488	Vuka	Vuka	Municipality of Vuka,Opcina Vuka,Općina Vuka,Vuka	45.43856	18.50634	A	ADM2	HR		10	11054488			984		88	Europe/Zagreb	2023-03-11
+11054489	Blato	Blato	Blato,Municipality of Blato,Opcina Blato,Općina Blato	42.92928	16.79672	A	ADM2	HR		03	11054489			3330		250	Europe/Zagreb	2023-03-11
+11054512	Biskupija	Biskupija	Biskupija,Municipality of Biskupija,Opcina Biskupija,Općina Biskupija	44.00963	16.22749	A	ADM2	HR		13	11054512			1177		277	Europe/Zagreb	2023-03-11
+11054513	Civljane	Civljane	Civljane,Municipality of Civljane,Opcina Civljane,Općina Civljane	43.95184	16.40302	A	ADM2	HR		13	11054513			171		378	Europe/Zagreb	2023-03-11
+11054514	Kijevo	Kijevo	Kijevo,Municipality of Kijevo,Opcina Kijevo,Općina Kijevo	43.97845	16.35796	A	ADM2	HR		13	11054514			272		472	Europe/Zagreb	2023-03-11
+11054515	Kistanje	Kistanje	Kistanje,Municipality of Kistanje,Opcina Kistanje,Općina Kistanje	43.98107	15.96331	A	ADM2	HR		13	11054515			2650		242	Europe/Zagreb	2023-03-11
+11054516	Knin	Knin	City of Knin,Grad Knin,Knin,Stadt Knin,Town of Knin,Град Книн,Книн	44.04064	16.19668	A	ADM2	HR		13	11054516			11633		230	Europe/Zagreb	2023-03-11
+11054517	Pirovac	Pirovac	Municipality of Pirovac,Opcina Pirovac,Općina Pirovac,Pirovac	43.82034	15.66818	A	ADM2	HR		13	11054517			1606		13	Europe/Zagreb	2023-03-11
+11054518	Murter-Kornati	Murter-Kornati	Municipality of Murter-Kornati,Murter-Kornati,Opcina Murter-Kornati,Općina Murter-Kornati	43.80959	15.60024	A	ADM2	HR		13	11054518			1934		80	Europe/Zagreb	2023-03-11
+11054519	Primošten	Primosten	Municipality of Primosten,Municipality of Primošten,Opcina Primosten,Općina Primošten,Primosten,Primošten	43.58657	15.92541	A	ADM2	HR		13	11054519			2627		7	Europe/Zagreb	2023-03-11
+11054520	Ružić	Ruzic	Municipality of Ruzic,Municipality of Ružić,Opcina Ruzic,Općina Ružić,Ruzic,Ružić	43.8247	16.25449	A	ADM2	HR		13	11054520			1283		289	Europe/Zagreb	2023-03-11
+11054521	Skradin	Skradin	Grad Skradin,Skradin,Town of Skradin	43.81832	15.92468	A	ADM2	HR		13	11054521			3349		0	Europe/Zagreb	2023-03-11
+11054522	Tisno	Tisno	Municipality of Tisno,Opcina Tisno,Općina Tisno,Tisno	43.79788	15.64161	A	ADM2	HR		13	11054522			2908		6	Europe/Zagreb	2023-03-11
+11054523	Tribunj	Tribunj	Municipality of Tribunj,Opcina Tribunj,Općina Tribunj,Tribunj	43.75642	15.74736	A	ADM2	HR		13	11054523			1594		5	Europe/Zagreb	2023-03-11
+11054524	Unešić	Unesic	Municipality of Unesic,Municipality of Unešić,Opcina Unesic,Općina Unešić,Unesic,Unešić	43.74102	16.18406	A	ADM2	HR		13	11054524			1269		354	Europe/Zagreb	2023-03-11
+11054525	Vodice	Vodice	Grad Vodice,Town of Vodice,Vodice	43.76067	15.77907	A	ADM2	HR		13	11054525			8649		8	Europe/Zagreb	2023-03-11
+11054526	Andrijaševci	Andrijasevci	Andrijasevci,Andrijaševci,Municipality of Andrijasevci,Municipality of Andrijaševci,Opcina Andrijasevci,Općina Andrijaševci	45.22515	18.74053	A	ADM2	HR		18	11054526			3441		81	Europe/Zagreb	2023-03-11
+11054527	Babina Greda	Babina Greda	Babina Greda,Municipality of Babina Greda,Opcina Babina Greda,Općina Babina Greda	45.11626	18.5381	A	ADM2	HR		18	11054527			2762		83	Europe/Zagreb	2023-03-11
+11054529	Bogdanovci	Bogdanovci	Bogdanovci,Municipality of Bogdanovci,Opcina Bogdanovci,Općina Bogdanovci	45.33723	18.9297	A	ADM2	HR		18	11054529			1545		100	Europe/Zagreb	2023-03-11
+11054530	Općina Borovo	Opcina Borovo	Borovo,Municipality of Borovo,Opcina Borovo,Opshtina Borovo,Općina Borovo,Борово,Општина Борово	45.4013	18.97167	A	ADM2	HR		18	11054530			3555		85	Europe/Zagreb	2023-01-05
+11054531	Bošnjaci	Bosnjaci	Bosnjaci,Bošnjaci,Municipality of Bosnjaci,Municipality of Bošnjaci,Opcina Bosnjaci,Općina Bošnjaci	45.04911	18.75722	A	ADM2	HR		18	11054531			2868		82	Europe/Zagreb	2023-03-11
+11054533	Cerna	Cerna	Cerna,Municipality of Cerna,Opcina Cerna,Općina Cerna	45.18874	18.68723	A	ADM2	HR		18	11054533			3712		83	Europe/Zagreb	2023-03-11
+11054534	Drenovci	Drenovci	Drenovci,Municipality of Drenovci,Opcina Drenovci,Općina Drenovci	44.91944	18.90284	A	ADM2	HR		18	11054534			3662		79	Europe/Zagreb	2023-03-11
+11054535	Gradište	Gradiste	Gradiste,Gradište,Municipality of Gradiste,Municipality of Gradište,Opcina Gradiste,Općina Gradište	45.14938	18.70611	A	ADM2	HR		18	11054535			2227		83	Europe/Zagreb	2023-03-11
+11054536	Gunja	Gunja	Gunja,Municipality of Gunja,Opcina Gunja,Općina Gunja	44.88711	18.8255	A	ADM2	HR		18	11054536			2600		81	Europe/Zagreb	2023-03-11
+11054537	Ilok	Ilok	Grad Ilok,Ilok,Town of Ilok	45.22193	19.3749	A	ADM2	HR		18	11054537			5045		116	Europe/Zagreb	2023-03-11
+11054538	Ivankovo	Ivankovo	Ivankovo,Municipality of Ivankovo,Opcina Ivankovo,Općina Ivankovo	45.28849	18.6841	A	ADM2	HR		18	11054538			6543		86	Europe/Zagreb	2023-03-11
+11054539	Jarmina	Jarmina	Jarmina,Municipality of Jarmina,Opcina Jarmina,Općina Jarmina	45.31717	18.73066	A	ADM2	HR		18	11054539			2016		98	Europe/Zagreb	2023-03-11
+11054540	Lovas	Lovas	Lovas,Municipality of Lovas,Opcina Lovas,Općina Lovas	45.22617	19.16801	A	ADM2	HR		18	11054540			980		119	Europe/Zagreb	2023-03-11
+11054541	Markušica	Markusica	Markusica,Markušica,Municipality of Markusica,Municipality of Markušica,Opcina Markusica,Općina Markušica	45.37309	18.70517	A	ADM2	HR		18	11054541			1773		88	Europe/Zagreb	2023-03-11
+11054542	Negoslavci	Negoslavci	Municipality of Negoslavci,Negoslavci,Opcina Negoslavci,Općina Negoslavci	45.27802	18.99716	A	ADM2	HR		18	11054542			983		110	Europe/Zagreb	2023-03-11
+11054543	Nijemci	Nijemci	Municipality of Nijemci,Nijemci,Opcina Nijemci,Općina Nijemci	45.13903	19.03519	A	ADM2	HR		18	11054543			3526		84	Europe/Zagreb	2023-03-11
+11054545	Nuštar	Nustar	Municipality of Nustar,Municipality of Nuštar,Nustar,Nuštar,Opcina Nustar,Općina Nuštar	45.33217	18.84009	A	ADM2	HR		18	11054545			4861		87	Europe/Zagreb	2023-03-11
+11054546	Stari Jankovci	Stari Jankovci	Municipality of Stari Jankovci,Opcina Stari Jankovci,Općina Stari Jankovci,Stari Jankovci	45.25904	18.91022	A	ADM2	HR		18	11054546			3271		103	Europe/Zagreb	2023-03-11
+11054547	Stari Mikanovci	Stari Mikanovci	Municipality of Stari Mikanovci,Opcina Stari Mikanovci,Općina Stari Mikanovci,Stari Mikanovci	45.28563	18.55827	A	ADM2	HR		18	11054547			2419		94	Europe/Zagreb	2023-03-11
+11054549	Štitar	Stitar	Municipality of Stitar,Municipality of Štitar,Opcina Stitar,Općina Štitar,Stitar,Štitar	45.09624	18.63843	A	ADM2	HR		18	11054549			1552		82	Europe/Zagreb	2023-03-11
+11054550	Tompojevci	Tompojevci	Municipality of Tompojevci,Opcina Tompojevci,Općina Tompojevci,Tompojevci	45.23148	19.09329	A	ADM2	HR		18	11054550			1116		115	Europe/Zagreb	2023-03-11
+11054551	Tordinci	Tordinci	Municipality of Tordinci,Opcina Tordinci,Općina Tordinci,Tordinci	45.36965	18.79387	A	ADM2	HR		18	11054551			1657		84	Europe/Zagreb	2023-03-11
+11054552	Tovarnik	Tovarnik	Municipality of Tovarnik,Opcina Tovarnik,Općina Tovarnik,Tovarnik	45.16375	19.15205	A	ADM2	HR		18	11054552			2067		89	Europe/Zagreb	2023-03-11
+11054553	Trpinja	Trpinja	Municipality of Trpinja,Opcina Trpinja,Općina Trpinja,Trpinja	45.41851	18.89953	A	ADM2	HR		18	11054553			4167		85	Europe/Zagreb	2023-03-11
+11054554	Vođinci	Voginci	Municipality of Voginci,Municipality of Vođinci,Opcina Voginci,Općina Vođinci,Voginci,Vođinci	45.27488	18.61037	A	ADM2	HR		18	11054554			1634		84	Europe/Zagreb	2023-03-11
+11054556	Vrbanja	Vrbanja	Municipality of Vrbanja,Opcina Vrbanja,Općina Vrbanja,Vrbanja	44.98079	18.92717	A	ADM2	HR		18	11054556			2870		80	Europe/Zagreb	2023-03-11
+11054557	Baška Voda	Baska Voda	Baska Voda,Baška Voda,Municipality of Baska Voda,Municipality of Baška Voda,Opcina Baska Voda,Općina Baška Voda	43.35888	16.95019	A	ADM2	HR		15	11054557			2590		16	Europe/Zagreb	2023-03-11
+11054558	Bol	Bol	Bol,Municipality of Bol,Opcina Bol,Općina Bol	43.26385	16.65236	A	ADM2	HR		15	11054558			1678		49	Europe/Zagreb	2023-03-11
+11054559	Brela	Brela	Brela,Municipality of Brela,Opcina Brela,Općina Brela	43.36902	16.93118	A	ADM2	HR		15	11054559			1626		43	Europe/Zagreb	2023-03-11
+11054560	Cista Provo	Cista Provo	Cista Provo,Municipality of Cista Provo,Opcina Cista Provo,Općina Cista Provo	43.51198	16.94276	A	ADM2	HR		15	11054560			1799		482	Europe/Zagreb	2023-03-11
+11054601	Dicmo	Dicmo	Dicmo,Municipality of Dicmo,Opcina Dicmo,Općina Dicmo	43.63678	16.58978	A	ADM2	HR		15	11054601			2805		359	Europe/Zagreb	2023-03-11
+11054602	Dugopolje	Dugopolje	Dugopolje,Municipality of Dugopolje,Opcina Dugopolje,Općina Dugopolje	43.58159	16.59944	A	ADM2	HR		15	11054602			3742		292	Europe/Zagreb	2023-03-11
+11054603	Gradac	Gradac	Gradac,Municipality of Gradac,Opcina Gradac,Općina Gradac	43.10796	17.34269	A	ADM2	HR		15	11054603			2401		31	Europe/Zagreb	2023-03-11
+11054604	Hrvace	Hrvace	Hrvace,Municipality of Hrvace,Opcina Hrvace,Općina Hrvace	43.75652	16.62047	A	ADM2	HR		15	11054604			3144		339	Europe/Zagreb	2023-03-11
+11054605	Jelsa	Jelsa	Jelsa,Municipality of Jelsa,Opcina Jelsa,Općina Jelsa	43.16092	16.69304	A	ADM2	HR		15	11054605			3501		6	Europe/Zagreb	2023-03-11
+11054606	Kaštela	Kastela	Castelli,Grad Kastela,Grad Kaštela,Kashtela,Kastela,Kaštela,Town of Kastela,Town of Kaštela,Каштела	43.53865	16.3074	A	ADM2	HR		15	11054606			37794		3	Europe/Zagreb	2023-11-25
+11054607	Klis	Klis	Klis,Municipality of Klis,Opcina Klis,Općina Klis	43.5607	16.52091	A	ADM2	HR		15	11054607			5226		304	Europe/Zagreb	2023-03-11
+11054608	Town of Komiža	Town of Komiza	Grad Komiza,Grad Komiža,Komiza,Komiža,Town of Komiza,Town of Komiža	43.04492	16.09154	A	ADM2	HR		15	11054608			1394		8	Europe/Zagreb	2023-03-11
+11054609	Lećevica	Lecevica	Lecevica,Lećevica,Municipality of Lecevica,Municipality of Lećevica,Opcina Lecevica,Općina Lećevica	43.64258	16.3456	A	ADM2	HR		15	11054609			495		404	Europe/Zagreb	2023-03-11
+11054610	Lokvičići	Lokvicici	Lokvicici,Lokvičići,Municipality of Lokvicici,Municipality of Lokvičići,Opcina Lokvicici,Općina Lokvičići	43.46428	17.09142	A	ADM2	HR		15	11054610			667		444	Europe/Zagreb	2023-03-11
+11054611	Lovreć	Lovrec	Lovrec,Lovreć,Municipality of Lovrec,Municipality of Lovreć,Opcina Lovrec,Općina Lovreć	43.48859	16.98589	A	ADM2	HR		15	11054611			1402		550	Europe/Zagreb	2023-03-11
+11054612	Marina	Marina	Marina,Municipality of Marina,Opcina Marina,Općina Marina	43.51425	16.10767	A	ADM2	HR		15	11054612			4273		11	Europe/Zagreb	2023-03-11
+11054613	Milna	Milna	Milna,Municipality of Milna,Opcina Milna,Općina Milna	43.32707	16.44949	A	ADM2	HR		15	11054613			931		7	Europe/Zagreb	2023-03-11
+11054614	Muć	Muc	Muc,Municipality of Muc,Municipality of Muć,Muć,Opcina Muc,Općina Muć	43.69328	16.47267	A	ADM2	HR		15	11054614			3465		500	Europe/Zagreb	2023-03-11
+11054615	Nerežišća	Nerezisca	Municipality of Nerezisca,Municipality of Nerežišća,Nerezisca,Nerežišća,Opcina Nerezisca,Općina Nerežišća	43.32959	16.57743	A	ADM2	HR		15	11054615			878		399	Europe/Zagreb	2023-03-11
+11054616	Okrug	Okrug	Municipality of Okrug,Okrug,Opcina Okrug,Općina Okrug	43.49638	16.26732	A	ADM2	HR		15	11054616			2995		60	Europe/Zagreb	2023-03-11
+11054617	Podbablje	Podbablje	Municipality of Podbablje,Opcina Podbablje,Općina Podbablje,Podbablje	43.3935	17.18455	A	ADM2	HR		15	11054617			4035		421	Europe/Zagreb	2023-03-11
+11054618	Municipality of Podgora	Municipality of Podgora	Municipality of Podgora,Opcina Podgora,Općina Podgora,Podgora	43.23985	17.07816	A	ADM2	HR		15	11054618			2233		29	Europe/Zagreb	2023-03-11
+11054619	Podstrana	Podstrana	Municipality of Podstrana,Opcina Podstrana,Općina Podstrana,Podstrana	43.48651	16.55107	A	ADM2	HR		15	11054619			10403		27	Europe/Zagreb	2023-03-11
+11054620	Postira	Postira	Municipality of Postira,Opcina Postira,Općina Postira,Postira	43.37525	16.63141	A	ADM2	HR		15	11054620			1538		28	Europe/Zagreb	2023-03-11
+11054621	Prgomet	Prgomet	Municipality of Prgomet,Opcina Prgomet,Općina Prgomet,Prgomet	43.6071	16.23127	A	ADM2	HR		15	11054621			498		338	Europe/Zagreb	2023-03-11
+11054622	Primorski Dolac	Primorski Dolac	Municipality of Primorski Dolac,Opcina Primorski Dolac,Općina Primorski Dolac,Primorski Dolac	43.64075	16.16655	A	ADM2	HR		15	11054622			686		189	Europe/Zagreb	2023-03-11
+11054623	Proložac	Prolozac	Municipality of Prolozac,Municipality of Proložac,Opcina Prolozac,Općina Proložac,Prolozac,Proložac	43.4669	17.15507	A	ADM2	HR		15	11054623			3112		288	Europe/Zagreb	2023-03-11
+11054624	Pučišća	Pucisca	Municipality of Pucisca,Municipality of Pučišća,Opcina Pucisca,Općina Pučišća,Pucisca,Pučišća	43.34639	16.73295	A	ADM2	HR		15	11054624			1926		21	Europe/Zagreb	2023-03-11
+11054625	Runovići	Runovici	Municipality of Runovici,Municipality of Runovići,Opcina Runovici,Općina Runovići,Runovici,Runovići	43.38704	17.23892	A	ADM2	HR		15	11054625			1968		271	Europe/Zagreb	2023-03-11
+11054627	Seget	Seget	Municipality of Seget,Opcina Seget,Općina Seget,Seget	43.54305	16.21222	A	ADM2	HR		15	11054627			4511		334	Europe/Zagreb	2023-03-11
+11054631	Selca	Selca	Municipality of Selca,Opcina Selca,Općina Selca,Selca	43.29444	16.84633	A	ADM2	HR		15	11054631			1613		115	Europe/Zagreb	2023-03-11
+11054720	Solin	Solin	Grad Solin,Solin,Town of Solin	43.54331	16.49065	A	ADM2	HR		15	11054720			24862		26	Europe/Zagreb	2023-03-11
+11054721	Stari Grad	Stari Grad	Grad Stari Grad,Stari Grad,Town of Stari Grad	43.18611	16.59687	A	ADM2	HR		15	11054721			2772		6	Europe/Zagreb	2023-03-11
+11054722	Sućuraj	Sucuraj	Municipality of Sucuraj,Municipality of Sućuraj,Opcina Sucuraj,Općina Sućuraj,Sucuraj,Sućuraj	43.12726	17.18729	A	ADM2	HR		15	11054722			426		7	Europe/Zagreb	2023-03-11
+11054727	Sutivan	Sutivan	Municipality of Sutivan,Opcina Sutivan,Općina Sutivan,Sutivan	43.38461	16.47851	A	ADM2	HR		15	11054727			936		11	Europe/Zagreb	2023-03-11
+11054733	Šestanovac	Sestanovac	Municipality of Sestanovac,Municipality of Šestanovac,Opcina Sestanovac,Općina Šestanovac,Sestanovac,Šestanovac	43.45396	16.91345	A	ADM2	HR		15	11054733			1669		259	Europe/Zagreb	2023-03-11
+11054737	Šolta	Solta	Municipality of Solta,Municipality of Šolta,Opcina Solta,Općina Šolta,Solta,Šolta	43.38714	16.28865	A	ADM2	HR		15	11054737			1975		100	Europe/Zagreb	2023-03-11
+11054739	Trilj	Trilj	Grad Trilj,Town of Trilj,Trilj	43.61774	16.72347	A	ADM2	HR		15	11054739			8182		313	Europe/Zagreb	2023-03-11
+11054740	Tučepi	Tucepi	Municipality of Tucepi,Municipality of Tučepi,Opcina Tucepi,Općina Tučepi,Tucepi,Tučepi	43.26485	17.05979	A	ADM2	HR		15	11054740			1819		19	Europe/Zagreb	2023-03-11
+11054741	Vrlika	Vrlika	Grad Vrlika,Town of Vrlika,Vrlika	43.91098	16.39933	A	ADM2	HR		15	11054741			1728		416	Europe/Zagreb	2023-03-11
+11054742	Zadvarje	Zadvarje	Municipality of Zadvarje,Opcina Zadvarje,Općina Zadvarje,Zadvarje	43.43085	16.89101	A	ADM2	HR		15	11054742			289		224	Europe/Zagreb	2023-03-11
+11054743	Zagvozd	Zagvozd	Municipality of Zagvozd,Opcina Zagvozd,Općina Zagvozd,Zagvozd	43.39727	17.05258	A	ADM2	HR		15	11054743			957		454	Europe/Zagreb	2023-03-11
+11054744	Zmijavci	Zmijavci	Municipality of Zmijavci,Opcina Zmijavci,Općina Zmijavci,Zmijavci	43.41124	17.20699	A	ADM2	HR		15	11054744			1654		275	Europe/Zagreb	2023-03-11
+11054745	Bale-Valle	Bale-Valle	Bale,Municipality of Bale - Valle,Opcina Bale - Valle,Općina Bale - Valle	45.04089	13.78565	A	ADM2	HR		04	11054745			1170		139	Europe/Zagreb	2023-03-11
+11054746	Barban	Barban	Barban,Municipality of Barban,Opcina Barban,Općina Barban	45.06393	14.01418	A	ADM2	HR		04	11054746			2491		231	Europe/Zagreb	2023-03-11
+11054747	Brtonigla-Verteneglio	Brtonigla-Verteneglio	Brtonigla,Municipality of Brtonigla - Verteneglio,Opcina Brtonigla - Verteneglio,Općina Brtonigla - Verteneglio	45.37918	13.62554	A	ADM2	HR		04	11054747			1523		136	Europe/Zagreb	2023-03-11
+11054749	Cerovlje	Cerovlje	Cerovlje,Municipality of Cerovlje,Opcina Cerovlje,Općina Cerovlje	45.2765	14.0104	A	ADM2	HR		04	11054749			1453		286	Europe/Zagreb	2023-03-11
+11054750	Fažana-Fasana	Fazana-Fasana	Fasana,Fazana,Fažana,Municipality of Fazana - Fasana,Municipality of Fažana - Fasana,Opcina Fazana - Fasana,Općina Fažana - Fasana	44.92822	13.80548	A	ADM2	HR		04	11054750			3463		5	Europe/Zagreb	2023-03-11
+11054751	Funtana-Fontane	Funtana-Fontane	Funtana,Municipality of Funtana - Fontane,Opcina Funtana - Fontane,Općina Funtana - Fontane	45.17483	13.60627	A	ADM2	HR		04	11054751			911		11	Europe/Zagreb	2023-03-11
+11054790	Gračišće	Gracisce	Gracisce,Gračišće,Municipality of Gracisce,Municipality of Gračišće,Opcina Gracisce,Općina Gračišće	45.21741	14.00976	A	ADM2	HR		04	11054790			1312		397	Europe/Zagreb	2023-03-11
+11054800	Grožnjan-Grisignana	Groznjan-Grisignana	Groznjan,Grožnjan,Municipality of Groznjan - Grisignana,Municipality of Grožnjan - Grisignana,Opcina Groznjan - Grisignana,Općina Grožnjan - Grisignana	45.37728	13.72145	A	ADM2	HR		04	11054800			656		245	Europe/Zagreb	2023-03-11
+11054801	Općina Kanfanar	Opcina Kanfanar	Canfanaro,Comune di Canfanaro,Kanfanar,Municipality of Kanfanar,Opcina Kanfanar,Općina Kanfanar	45.12243	13.83681	A	ADM2	HR		04	11054801			1498		280	Europe/Zagreb	2024-02-25
+11054804	Karojba	Karojba	Karojba,Municipality of Karojba,Opcina Karojba,Općina Karojba	45.30293	13.82144	A	ADM2	HR		04	11054804			1404		272	Europe/Zagreb	2023-03-11
+11054805	Kršan	Krsan	Krsan,Kršan,Municipality of Krsan,Municipality of Kršan,Opcina Krsan,Općina Kršan	45.17149	14.13597	A	ADM2	HR		04	11054805			2829		163	Europe/Zagreb	2023-03-11
+11054806	Ližnjan-Lisignano	Liznjan-Lisignano	Liznjan,Ližnjan,Municipality of Liznjan - Lisignano,Municipality of Ližnjan - Lisignano,Opcina Liznjan - Lisignano,Općina Ližnjan - Lisignano	44.82765	13.96028	A	ADM2	HR		04	11054806			4087		42	Europe/Zagreb	2023-03-11
+11054807	Općina Lupoglav	Opcina Lupoglav	Comune di Lupogliano,Lupoglav,Lupogliano,Municipality of Lupoglav,Opcina Lupoglav,Općina Lupoglav	45.35204	14.10846	A	ADM2	HR		04	11054807			836		401	Europe/Zagreb	2023-02-09
+11054808	Marčana	Marcana	Marcana,Marčana,Municipality of Marcana,Municipality of Marčana,Opcina Marcana,Općina Marčana	44.95647	13.95598	A	ADM2	HR		04	11054808			4250		161	Europe/Zagreb	2023-03-11
+11054809	Medulin	Medulin	Medulin,Municipality of Medulin,Opcina Medulin,Općina Medulin	44.82144	13.9362	A	ADM2	HR		04	11054809			6552		15	Europe/Zagreb	2023-03-11
+11054810	Motovun-Montona	Motovun-Montona	Motovun,Municipality of Motovun - Montona,Opcina Motovun - Montona,Općina Motovun - Montona	45.33633	13.82977	A	ADM2	HR		04	11054810			912		234	Europe/Zagreb	2023-03-11
+11054811	Novigrad-Cittanova	Novigrad-Cittanova	Grad Novigrad - Cittanova,Novigrad,Town of Novigrad - Cittanova	45.31669	13.56155	A	ADM2	HR		04	11054811			3889		-1	Europe/Zagreb	2023-03-11
+11054812	Oprtalj-Portole	Oprtalj-Portole	Municipality of Oprtalj - Portole,Opcina Oprtalj - Portole,Oprtalj,Općina Oprtalj - Portole	45.38226	13.82406	A	ADM2	HR		04	11054812			748		349	Europe/Zagreb	2023-03-11
+11054813	Pićan	Pican	Municipality of Pican,Municipality of Pićan,Opcina Pican,Općina Pićan,Pican,Pićan	45.20276	14.04156	A	ADM2	HR		04	11054813			1722		315	Europe/Zagreb	2023-03-11
+11054816	Raša	Rasa	Municipality of Rasa,Municipality of Raša,Opcina Rasa,Općina Raša,Rasa,Raša	45.08003	14.08379	A	ADM2	HR		04	11054816			2809		19	Europe/Zagreb	2023-03-11
+11054818	Sveti Lovreč	Sveti Lovrec	Municipality of Sveti Lovrec,Municipality of Sveti Lovreč,Opcina Sveti Lovrec,Općina Sveti Lovreč,Sveti Lovrec,Sveti Lovreč	45.1777	13.74317	A	ADM2	HR		04	11054818			960		191	Europe/Zagreb	2023-03-11
+11054819	Sveti Petar u Šumi	Sveti Petar u Sumi	Municipality of Sveti Petar u Sumi,Municipality of Sveti Petar u Šumi,Opcina Sveti Petar u Sumi,Općina Sveti Petar u Šumi,Sveti Petar u Sumi,Sveti Petar u Šumi	45.18348	13.8659	A	ADM2	HR		04	11054819			1051		334	Europe/Zagreb	2023-03-11
+11054820	Svetvinčenat	Svetvincenat	Municipality of Svetvincenat,Municipality of Svetvinčenat,Opcina Svetvincenat,Općina Svetvinčenat,Svetvincenat,Svetvinčenat	45.08641	13.88123	A	ADM2	HR		04	11054820			2179		309	Europe/Zagreb	2023-03-11
+11054821	Tinjan	Tinjan	Municipality of Tinjan,Opcina Tinjan,Općina Tinjan,Tinjan	45.21771	13.83775	A	ADM2	HR		04	11054821			1729		315	Europe/Zagreb	2023-03-11
+11054822	Umag-Umago	Umag-Umago	Grad Umag,Grad Umag - Umago,Town of Umag - Umago,Umag	45.43462	13.52589	A	ADM2	HR		04	11054822			12699		6	Europe/Zagreb	2023-03-11
+11054824	Višnjan-Visignano	Visnjan-Visignano	Municipality of Visnjan - Visignano,Municipality of Višnjan - Visignano,Opcina Visnjan,Opcina Visnjan - Visignano,Općina Višnjan,Općina Višnjan - Visignano,Visignano,Visnjan,Višnjan	45.27614	13.72128	A	ADM2	HR		04	11054824			2096		225	Europe/Zagreb	2023-03-11
+11054825	Vižinada-Visinada	Vizinada-Visinada	Municipality of Vizinada - Visinada,Municipality of Vižinada - Visinada,Opcina Vizinada,Opcina Vizinada - Visinada,Općina Vižinada,Općina Vižinada - Visinada,Vizinada,Vižinada	45.33126	13.75943	A	ADM2	HR		04	11054825			1142		275	Europe/Zagreb	2023-03-11
+11054827	Vodnjan-Dignano	Vodnjan-Dignano	Dignano,Grad Vodnjan,Grad Vodnjan - Dignano,Town of Vodnjan - Dignano,Vodnjan	44.96187	13.85041	A	ADM2	HR		04	11054827			5838		139	Europe/Zagreb	2023-03-11
+11054828	Vrsar-Orsera	Vrsar-Orsera	Municipality of Vrsar - Orsera,Opcina Vrsar - Orsera,Općina Vrsar - Orsera,Vrsar	45.15074	13.60558	A	ADM2	HR		04	11054828			1923		45	Europe/Zagreb	2023-03-11
+11054829	Žminj	Zminj	Municipality of Zminj,Municipality of Žminj,Opcina Zminj,Općina Žminj,Zminj,Žminj	45.1419	13.90822	A	ADM2	HR		04	11054829			3360		367	Europe/Zagreb	2023-03-11
+11054830	Općina Belica	Opcina Belica	Belica,Municipality of Belica,Opcina Belica,Općina Belica	46.40735	16.52061	A	ADM2	HR		09	11054830			2822		163	Europe/Zagreb	2023-03-11
+11054832	Općina Dekanovec	Opcina Dekanovec	Dekanovec,Municipality of Dekanovec,Opcina Dekanovec,Općina Dekanovec	46.44808	16.58193	A	ADM2	HR		09	11054832			739		153	Europe/Zagreb	2023-03-11
+11054834	Općina Domašinec	Opcina Domasinec	Domasinec,Domašinec,Domnasinec,Domnašinec,Municipality of Domasinec,Municipality of Domašinec,Opcina Domasinec,Općina Domašinec	46.43622	16.59729	A	ADM2	HR		09	11054834			1923		149	Europe/Zagreb	2023-03-11
+11054835	Donja Dubrava	Donja Dubrava	Donja Dubrava,Municipality of Donja Dubrava,Opcina Donja Dubrava,Općina Donja Dubrava	46.31524	16.80531	A	ADM2	HR		09	11054835			1658		135	Europe/Zagreb	2023-03-11
+11054836	Općina Donji Kraljevec	Opcina Donji Kraljevec	Donji Kraljevec,Municipality of Donji Kraljevec,Opcina Donji Kraljevec,Općina Donji Kraljevec	46.36581	16.65004	A	ADM2	HR		09	11054836			4043		147	Europe/Zagreb	2023-03-11
+11054837	Općina Donji Vidovec	Opcina Donji Vidovec	Donji Vidovec,Municipality of Donji Vidovec,Opcina Donji Vidovec,Općina Donji Vidovec	46.32789	16.78213	A	ADM2	HR		09	11054837			1197		138	Europe/Zagreb	2023-03-11
+11054838	Općina Goričan	Opcina Gorican	Gorican,Goričan,Municipality of Gorican,Municipality of Goričan,Opcina Gorican,Općina Goričan	46.38364	16.67862	A	ADM2	HR		09	11054838			2343		146	Europe/Zagreb	2023-03-11
+11054839	Općina Gornji Mihaljevec	Opcina Gornji Mihaljevec	Felsomihalyfalva,Felsőmihályfalva,Gornji Mihaljevec,Municipality of Gornji Mihaljevec,Opcina Gornji Mihaljevec,Općina Gornji Mihaljevec	46.42951	16.32401	A	ADM2	HR		09	11054839			1740		225	Europe/Zagreb	2023-03-11
+11054840	Općina Kotoriba	Opcina Kotoriba	Kotoriba,Municipality of Kotoriba,Opcina Kotoriba,Općina Kotoriba	46.35613	16.81543	A	ADM2	HR		09	11054840			2938		136	Europe/Zagreb	2023-03-11
+11054845	Općina Mala Subotica	Opcina Mala Subotica	Mala Subotica,Municipality of Mala Subotica,Opcina Mala Subotica,Općina Mala Subotica	46.37556	16.52696	A	ADM2	HR		09	11054845			4344		153	Europe/Zagreb	2023-03-11
+11054846	Grad Mursko Središće	Grad Mursko Sredisce	Grad Mursko Sredisce,Grad Mursko Središće,Muraszerdahely,Mursko Sredisce,Mursko Središće,Town of Mursko Sredisce,Town of Mursko Središće	46.51321	16.43838	A	ADM2	HR		09	11054846			5855		163	Europe/Zagreb	2023-03-11
+11054847	Općina Nedelišće	Opcina Nedelisce	Gemeinde Nedelisce,Gemeinde Nedelišće,Municipality of Nedelisce,Municipality of Nedelišće,Nedelisce,Nedelišće,Opcina Nedelisce,Općina Nedelišće	46.3763	16.38486	A	ADM2	HR		09	11054847			11017		170	Europe/Zagreb	2023-03-11
+11054848	Općina Orehovica	Opcina Orehovica	Municipality of Orehovica,Opcina Orehovica,Općina Orehovica,Orehovica	46.33071	16.50837	A	ADM2	HR		09	11054848			2720		157	Europe/Zagreb	2023-03-11
+11054849	Općina Podturen	Opcina Podturen	Municipality of Podturen,Opcina Podturen,Općina Podturen,Podturen	46.467	16.54524	A	ADM2	HR		09	11054849			3517		156	Europe/Zagreb	2023-03-11
+11054850	Grad Prelog	Grad Prelog	Grad Prelog,Prelog,Town of Prelog	46.33387	16.61785	A	ADM2	HR		09	11054850			7027		149	Europe/Zagreb	2023-03-11
+11054852	Općina Pribislavec	Opcina Pribislavec	Municipality of Pribislavec,Opcina Pribislavec,Općina Pribislavec,Piribislavec,Pribislavec	46.3937	16.47786	A	ADM2	HR		09	11054852			2963		159	Europe/Zagreb	2023-03-11
+11054853	Općina Selnica	Opcina Selnica	Municipality of Selnica,Opcina Selnica,Općina Selnica,Selnica,Szelence,Szelencehegy	46.49416	16.39027	A	ADM2	HR		09	11054853			2636		197	Europe/Zagreb	2023-03-11
+11054879	Općina Strahoninec	Opcina Strahoninec	Municipality of Strahoninec,Opcina Strahoninec,Općina Strahoninec,Strahoninec	46.37162	16.41396	A	ADM2	HR		09	11054879			2598		165	Europe/Zagreb	2023-03-11
+11054880	Općina Sveta Marija	Opcina Sveta Marija	Municipality of Sveta Marija,Opcina Sveta Marija,Općina Sveta Marija,Sveta Marija	46.33279	16.74128	A	ADM2	HR		09	11054880			1990		139	Europe/Zagreb	2023-03-11
+11054883	Sveti Juraj na Bregu	Sveti Juraj na Bregu	Municipality of Sveti Juraj na Bregu,Opcina Sveti Juraj na Bregu,Općina Sveti Juraj na Bregu,Sv. Juraj na Bregu,Sveti Juraj na Bregu,Viziszentgyoergy,Víziszentgyörgy	46.42853	16.38525	A	ADM2	HR		09	11054883			4929		209	Europe/Zagreb	2023-03-11
+11054884	Općina Sveti Martin na Muri	Opcina Sveti Martin na Muri	Municipality of Sveti Martin,Municipality of Sveti Martin na Muri,Muraszentmarton,Muraszentmárton,Opcina Sv. Martin na Muri,Opcina Sveti Martin na Muri,Općina Sv. Martin na Muri,Općina Sveti Martin na Muri,Pomorje,Sveti Martin na Muri	46.52541	16.36233	A	ADM2	HR		09	11054884			2391		174	Europe/Zagreb	2023-03-11
+11054885	Općina Šenkovec	Opcina Senkovec	Municipality of Senkovec,Municipality of Šenkovec,Opcina Senkovec,Općina Šenkovec,Senkovec,Šenkovec	46.40702	16.41847	A	ADM2	HR		09	11054885			2708		171	Europe/Zagreb	2023-03-11
+11054886	Općina Štrigova	Opcina Strigova	Municipality of Strigova,Municipality of Štrigova,Opcina Strigova,Općina Štrigova,Strigova,Štrigova	46.50054	16.28646	A	ADM2	HR		09	11054886			2357		199	Europe/Zagreb	2023-03-11
+11054887	Općina Vratišinec	Opcina Vratisinec	Municipality of Vratisinec,Municipality of Vratišinec,Opcina Vratisinec,Općina Vratišinec,Vratisinec,Vratišinec	46.48104	16.45756	A	ADM2	HR		09	11054887			1673		183	Europe/Zagreb	2023-03-11
+11054888	Bistra	Bistra	Bistra,Municipality of Bistra,Opcina Bistra,Općina Bistra	45.90657	15.85087	A	ADM2	HR		20	11054888			6444		136	Europe/Zagreb	2023-03-11
+11054889	Sveta Nedelja	Sveta Nedelja	Grad Sveta Nedelja,Sveta Nedelja,Town of Sveta Nedelja	45.79617	15.77971	A	ADM2	HR		20	11054889			18221		140	Europe/Zagreb	2023-03-11
+11054890	Marija Bistrica	Marija Bistrica	Marija Bistrica,Municipality of Marija Bistrica,Opcina Marija Bistrica,Općina Marija Bistrica	46.00572	16.11784	A	ADM2	HR		07	11054890			5553		190	Europe/Zagreb	2023-03-11
+11054895	Oroslavje	Oroslavje	Grad Oroslavje,Oroslavje,Town of Oroslavje	45.99633	15.9155	A	ADM2	HR		07	11054895			5834		171	Europe/Zagreb	2023-03-11
+11054900	Pregrada	Pregrada	Grad Pregrada,Pregrada,Town of Pregrada	46.16478	15.74834	A	ADM2	HR		07	11054900			5927		205	Europe/Zagreb	2023-03-11
+11054902	Cres	Cres	Cres,Cres (region),Grad Cres	44.96111	14.4084	A	ADM2	HR		12	11054902			2716		2	Europe/Zagreb	2026-03-27
+11054903	Kraljevica	Kraljevica	Grad Kraljevica,Kraljevica,Town of Kraljevica	45.27409	14.56903	A	ADM2	HR		12	11054903			4066		17	Europe/Zagreb	2023-03-11
+11054952	Kaštelir-Labinci	Kastelir-Labinci	Castelier-Santa Domenega,Castellier-Santa Domenica,Castełier-Santa Domenega,Kastelir-Labinci,Kaštelir-Labinci,Municipality of Kastelir-Labinci - Castelliere-S. Domenica,Municipality of Kaštelir-Labinci - Castelliere-S. Domenica,Opcina Kastelir-Labinci - Castelliere-S. Domenica,Općina Kaštelir-Labinci - Castelliere-S. Domenica	45.30277	13.68841	A	ADM2	HR		04	11054952			1493		225	Europe/Zagreb	2023-03-11
+11054954	Otok	Otok	Municipality of Otok,Opcina Otok,Općina Otok,Otok	43.68661	16.73488	A	ADM2	HR		15	11054954			4998		335	Europe/Zagreb	2023-03-11
+11054955	Otok	Otok	Grad Otok,Otok,Town of Otok	45.14587	18.88331	A	ADM2	HR		18	11054955			4899		89	Europe/Zagreb	2023-03-11
+11054956	Bilice	Bilice	Bilice,Municipality of Bilice,Opcina Bilice,Općina Bilice	43.78832	15.87593	A	ADM2	HR		13	11054956			2546		6	Europe/Zagreb	2023-03-11
+11054957	Župa dubrovačka	Zupa dubrovacka	Municipality of Zupa dubrovacka,Municipality of Župa dubrovačka,Opcina Zupa dubrovacka,Općina Župa dubrovačka,Zupa dubrovacka,Župa dubrovačka	42.62683	18.19475	A	ADM2	HR		03	11054957			8705		41	Europe/Zagreb	2023-03-11
+11054958	Zažablje	Zazablje	Municipality of Zazablje,Municipality of Zažablje,Opcina Zazablje,Općina Zažablje,Zazablje,Zažablje	43.01113	17.65683	A	ADM2	HR		03	11054958			553		38	Europe/Zagreb	2023-03-11
+11054959	Vela Luka	Vela Luka	Municipality of Vela Luka,Opcina Vela Luka,Općina Vela Luka,Vela Luka	42.95996	16.72153	A	ADM2	HR		03	11054959			3772		18	Europe/Zagreb	2023-03-11
+11054960	Trpanj	Trpanj	Municipality of Trpanj,Opcina Trpanj,Općina Trpanj,Trpanj	43.00777	17.27085	A	ADM2	HR		03	11054960			683		6	Europe/Zagreb	2023-03-11
+11054961	Općina Ston	Opcina Ston	Municipality of Ston,Opcina Ston,Općina Ston,Ston	42.83968	17.69189	A	ADM2	HR		03	11054961			2491		28	Europe/Zagreb	2023-03-11
+11054962	Smokvica	Smokvica	Municipality of Smokvica,Opcina Smokvica,Općina Smokvica,Smokvica	42.92902	16.89281	A	ADM2	HR		03	11054962			868		148	Europe/Zagreb	2023-03-11
+11054963	Slivno	Slivno	Municipality of Slivno,Opcina Slivno,Općina Slivno,Slivno	42.95864	17.54431	A	ADM2	HR		03	11054963			2046		218	Europe/Zagreb	2023-03-11
+11054964	Pojezerje	Pojezerje	Municipality of Pojezerje,Opcina Pojezerje,Općina Pojezerje,Pojezerje	43.15741	17.45152	A	ADM2	HR		03	11054964			943		30	Europe/Zagreb	2023-03-11
+11054966	Općina Orebić	Opcina Orebic	Municipality of Orebic,Municipality of Orebić,Opcina Orebic,Općina Orebić,Orebic,Orebić	42.98577	17.1685	A	ADM2	HR		03	11054966			3705		175	Europe/Zagreb	2023-03-11
+11054967	Opuzen	Opuzen	Grad Opuzen,Opuzen,Town of Opuzen	43.01716	17.56345	A	ADM2	HR		03	11054967			2838		4	Europe/Zagreb	2023-03-11
+11054968	Općina Mljet	Opcina Mljet	Mljet,Municipality of Mljet,Opcina Mljet,Općina Mljet	42.74439	17.53645	A	ADM2	HR		03	11054968			1062		355	Europe/Zagreb	2023-03-11
+11054969	Metković	Metkovic	Grad Metkovic,Grad Metković,Metkovic,Metković,Town of Metkovic,Town of Metković	43.05295	17.64855	A	ADM2	HR		03	11054969			15235		5	Europe/Zagreb	2023-03-11
+11054970	Lumbarda	Lumbarda	Lumbarda,Municipality of Lumbarda,Opcina Lumbarda,Općina Lumbarda	42.92179	17.16974	A	ADM2	HR		03	11054970			1209		19	Europe/Zagreb	2023-03-11
+11054971	Kula Norinska	Kula Norinska	Kula Norinska,Municipality of Kula Norinska,Opcina Kula Norinska,Općina Kula Norinska	43.03033	17.60027	A	ADM2	HR		03	11054971			1414		-2	Europe/Zagreb	2023-03-11
+11054972	Općina Konavle	Opcina Konavle	Konavle,Municipality of Konavle,Opcina Konavle,Općina Konavle	42.5401	18.33944	A	ADM2	HR		03	11054972			8607		47	Europe/Zagreb	2023-03-11
+11054973	Općina Janjina	Opcina Janjina	Janjina,Municipality of Janjina,Opcina Janjina,Općina Janjina	42.92531	17.43032	A	ADM2	HR		03	11054973			522		115	Europe/Zagreb	2023-03-11
+11055009	Dubrovačko primorje	Dubrovacko primorje	Dubrovacko primorje,Dubrovačko primorje,Municipality of Dubrovacko primorje,Municipality of Dubrovačko primorje,Opcina Dubrovacko primorje,Općina Dubrovačko primorje	42.78988	17.8624	A	ADM2	HR		03	11055009			1636		109	Europe/Zagreb	2023-03-11
+11055010	Zadar	Zadar	Grad Zadar,Town of Zadar,Zadar,Zara	44.12172	15.23018	A	ADM2	HR		19	11055010			70779		6	Europe/Zagreb	2023-06-08
+11055011	Đurmanec	GJurmanec	GJurmanec,Municipality of GJurmanec,Municipality of Đurmanec,Opcina GJurmanec,Općina Đurmanec,Đurmanec	46.19708	15.83786	A	ADM2	HR		07	11055011			3781		215	Europe/Zagreb	2023-03-11
+11055013	Sveti Đurđ	Sveti GJurg	Municipality of Sveti GJurg,Municipality of Sveti Đurđ,Opcina Sveti GJurg,Općina Sveti Đurđ,Sveti GJurg,Sveti Đurđ	46.28331	16.60438	A	ADM2	HR		16	11055013			3326		150	Europe/Zagreb	2023-03-11
+11055014	Đelekovec	GJelekovec	GJelekovec,Municipality of GJelekovec,Municipality of Đelekovec,Opcina GJelekovec,Općina Đelekovec,Đelekovec	46.24989	16.87011	A	ADM2	HR		06	11055014			1281		131	Europe/Zagreb	2023-03-11
+11055019	Đulovac	GJulovac	GJulovac,Municipality of GJulovac,Municipality of Đulovac,Opcina GJulovac,Općina Đulovac,Đulovac	45.66588	17.42981	A	ADM2	HR		01	11055019			2772		258	Europe/Zagreb	2023-03-11
+11055020	Đurđenovac	GJurgenovac	GJurgenovac,Municipality of GJurgenovac,Municipality of Đurđenovac,Opcina GJurgenovac,Općina Đurđenovac,Đurđenovac	45.54133	18.05028	A	ADM2	HR		10	11055020			5332		109	Europe/Zagreb	2023-03-11
+11055021	Satnica Đakovačka	Satnica GJakovacka	Municipality of Satnica GJakovacka,Municipality of Satnica Đakovačka,Opcina Satnica GJakovacka,Općina Satnica Đakovačka,Satnica GJakovacka,Satnica Đakovačka	45.35367	18.37729	A	ADM2	HR		10	11055021			1775		110	Europe/Zagreb	2023-03-11
+11055022	Ervenik	Ervenik	Ervenik,Municipality of Ervenik,Opcina Ervenik,Općina Ervenik	44.10749	15.94198	A	ADM2	HR		13	11055022			789		127	Europe/Zagreb	2023-03-11
+11055025	Promina	Promina	Municipality of Promina,Opcina Promina,Općina Promina,Promina	43.95798	16.09737	A	ADM2	HR		13	11055025			943		270	Europe/Zagreb	2023-03-11
+11072232	Privlaka	Privlaka	Municipality of Privlaka,Opcina Privlaka,Općina Privlaka,Privlaka	45.19703	18.83726	A	ADM2	HR		18	11072232			2192		82	Europe/Zagreb	2023-03-11
+11072234	Sveta Nedelja	Sveta Nedelja	Municipality of Sveta Nedelja,Opcina Sveta Nedelja,Općina Sveta Nedelja,Sveta Nedelja	45.14932	14.09889	A	ADM2	HR		04	11072234			2898		277	Europe/Zagreb	2023-03-11
+11072235	Vinodolska općina	Vinodolska opcina	Municipality of Vinodol,Vinodolska opcina,Vinodolska općina	45.22219	14.68941	A	ADM2	HR		12	11072235			3226		172	Europe/Zagreb	2023-03-11
+11072236	Malinska-Dubašnica	Malinska-Dubasnica	Malinska-Dubasnica,Malinska-Dubašnica,Municipality of Malinska-Dubasnica,Municipality of Malinska-Dubašnica,Opcina Malinska-Dubasnica,Općina Malinska-Dubašnica	45.12277	14.52873	A	ADM2	HR		12	11072236			3212		10	Europe/Zagreb	2023-03-11
+11072413	Tar-Vabriga-Torre Abrega	Tar-Vabriga-Torre Abrega	Municipality of Tar-Vabriga - Torre-Abrega,Opcina Tar-Vabriga - Torre-Abrega,Općina Tar-Vabriga - Torre-Abrega,Tar-Vabriga	45.29946	13.62489	A	ADM2	HR		04	11072413			2148		105	Europe/Zagreb	2023-03-11
+11129787	Općina Lanišće	Opcina Lanisce	Lanisce,Lanišće,Municipality of Lanisce,Municipality of Lanišće,Opcina Lanisce,Općina Lanišće	45.4352	14.08196	A	ADM2	HR		04	11129787			268		687	Europe/Zagreb	2023-03-11

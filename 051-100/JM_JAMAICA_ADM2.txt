@@ -1,0 +1,825 @@
+﻿3488184	Troy	Troy		18.24924	-77.60978	A	ADM2	JM		15	728			2423		465	America/Jamaica	2017-03-15
+11494889	Central Port Antonio	Central Port Antonio		18.18763	-76.45343	A	ADM2	JM		07	415			4939		25	America/Jamaica	2017-03-13
+11494890	Claverty Cottage	Claverty Cottage		18.14876	-76.63923	A	ADM2	JM		07	438			388		651	America/Jamaica	2017-03-13
+11494891	Woodpark	Woodpark		18.29734	-76.98114	A	ADM2	JM		13	521			1857		249	America/Jamaica	2017-03-13
+11494892	Lawrence Tavern	Lawrence Tavern		18.13742	-76.84736	A	ADM2	JM		08	15110			14589		368	America/Jamaica	2021-09-09
+11494893	Mavis Bank	Mavis Bank		18.03842	-76.65877	A	ADM2	JM		08	15124			5792		619	America/Jamaica	2017-03-13
+11494894	Norbrook	Norbrook		18.05483	-76.78498	A	ADM2	JM		08	15023			3326		189	America/Jamaica	2017-03-13
+11494895	Patrick City	Patrick City		18.03185	-76.83774	A	ADM2	JM		08	15040			7431		23	America/Jamaica	2017-03-13
+11494896	Constant Spring Gardens	Constant Spring Gardens		18.02942	-76.79956	A	ADM2	JM		08	15027			5795		91	America/Jamaica	2017-03-13
+11494897	Forest Hills - Plantation Heights	Forest Hills - Plantation Heights	Forest Hills,Plantation Heights	18.043	-76.8514	A	ADM2	JM		08	15035			4241		349	America/Jamaica	2023-11-03
+11494898	Barbican	Barbican		18.03549	-76.76987	A	ADM2	JM		08	15011			10571		170	America/Jamaica	2017-03-13
+11494899	Liguanea	Liguanea		18.02097	-76.76827	A	ADM2	JM		08	15012			10351		148	America/Jamaica	2017-03-13
+11494900	Seymour Lands	Seymour Lands		18.01291	-76.77706	A	ADM2	JM		08	15015			3158		119	America/Jamaica	2017-03-13
+11494901	Stadium Gardens	Stadium Gardens		17.99501	-76.77644	A	ADM2	JM		08	15080			2550		78	America/Jamaica	2017-03-13
+11494902	Spaldings - Part of	Spaldings - Part of	Part of Spaldings,Spaldings	18.15819	-77.46627	A	ADM2	JM		04	1213			1116		791	America/Jamaica	2023-07-22
+11494903	Cross Roads	Cross Roads	Cross Roads,Crossroads	17.99454	-76.7881	A	ADM2	JM		08	15078			4043		68	America/Jamaica	2023-10-26
+11494904	Whitehall	Whitehall	White Hall	18.03838	-76.80583	A	ADM2	JM		08	15030			13050		99	America/Jamaica	2023-08-03
+11494905	Drumblair	Drumblair		18.02354	-76.78759	A	ADM2	JM		08	15019			3461		97	America/Jamaica	2017-03-13
+11494906	Molynes Gardens	Molynes Gardens		18.0198	-76.81621	A	ADM2	JM		08	15061			7790		53	America/Jamaica	2017-03-13
+11494907	Beverley Hills	Beverley Hills		18.00833	-76.76208	A	ADM2	JM		08	15013			3152		187	America/Jamaica	2017-03-13
+11494908	Molynes Four Roads	Molynes Four Roads		18.01035	-76.81112	A	ADM2	JM		08	15064			5919		46	America/Jamaica	2017-03-13
+11494909	Retrieve	Retrieve		18.28901	-77.90081	A	ADM2	JM		12	872			515		174	America/Jamaica	2017-03-13
+11494910	Stonehenge	Stonehenge		18.24231	-77.85042	A	ADM2	JM		12	878			1457		585	America/Jamaica	2017-03-13
+11494911	Mountain View Gardens	Mountain View Gardens		17.99186	-76.7607	A	ADM2	JM		08	15083			9178		172	America/Jamaica	2017-03-13
+11494912	Woodford	Woodford		18.07362	-76.74632	A	ADM2	JM		08	15119			3878		819	America/Jamaica	2017-03-13
+11494913	Stony Hill	Stony Hill		18.07914	-76.78452	A	ADM2	JM		08	15024			7724		530	America/Jamaica	2017-03-13
+11494914	Mannings Hill	Mannings Hill		18.07052	-76.81288	A	ADM2	JM		08	15033			3520		440	America/Jamaica	2017-03-13
+11494915	Constant Spring	Constant Spring		18.05032	-76.79467	A	ADM2	JM		08	15025			11945		152	America/Jamaica	2017-03-13
+11494916	Havendale	Havendale		18.05429	-76.8087	A	ADM2	JM		08	15032			7317		99	America/Jamaica	2017-03-13
+11494917	Jacks Hill	Jacks Hill		18.03872	-76.74892	A	ADM2	JM		08	15009			1345		520	America/Jamaica	2017-03-13
+11494918	Port Royal	Port Royal		17.93899	-76.79284	A	ADM2	JM		17	15086			1563		4	America/Jamaica	2017-03-13
+11494919	Bull Bay - Seven Mile	Bull Bay - Seven Mile		17.95247	-76.68404	A	ADM2	JM		08	15085			17810		232	America/Jamaica	2023-08-22
+11494920	Greenwich Town - Newport West	Greenwich Town - Newport West		17.98438	-76.82559	A	ADM2	JM		08	15068			7569		8	America/Jamaica	2023-10-26
+11494921	Southside	Southside		17.96569	-76.78624	A	ADM2	JM		17	15105			1139		5	America/Jamaica	2017-03-13
+11494922	Constitution Hill	Constitution Hill		18.01488	-76.70515	A	ADM2	JM		08	15126			4209		645	America/Jamaica	2017-03-13
+11494923	Hope Pastures - UTECH	Hope Pastures - UTECH		18.02306	-76.74987	A	ADM2	JM		08	15010			4327		204	America/Jamaica	2023-10-26
+11494924	Papine	Papine		18.01536	-76.73868	A	ADM2	JM		08	15006			7685		189	America/Jamaica	2017-03-13
+11494925	University	University		18.00094	-76.74769	A	ADM2	JM		08	15003			1124		178	America/Jamaica	2020-01-24
+11494926	Norwood	Norwood		18.49217	-77.88634	A	ADM2	JM		12	814			4407		209	America/Jamaica	2017-03-13
+11494927	Negril	Negril		18.27459	-78.33928	A	ADM2	JM		16	1040			6358		12	America/Jamaica	2017-03-13
+11494928	Little London	Little London		18.24523	-78.22653	A	ADM2	JM		16	1046			6729		14	America/Jamaica	2017-03-13
+11494929	Frome	Frome		18.27974	-78.14903	A	ADM2	JM		16	1035			1733		10	America/Jamaica	2017-03-13
+11494930	Bethel Town	Bethel Town		18.29183	-77.93958	A	ADM2	JM		16	1019			4906		288	America/Jamaica	2017-03-13
+11494931	Darliston	Darliston		18.24159	-77.98215	A	ADM2	JM		16	1029			2951		399	America/Jamaica	2017-03-13
+11494932	Discovery Bay	Discovery Bay		18.43725	-77.41815	A	ADM2	JM		09	601			6708		199	America/Jamaica	2017-03-13
+11494933	Water Works	Water Works		18.23319	-78.04296	A	ADM2	JM		16	1064			2826		274	America/Jamaica	2017-03-13
+11494934	Browns Town	Browns Town		18.38464	-77.35286	A	ADM2	JM		09	623			15242		476	America/Jamaica	2017-03-13
+11494935	Dumfries	Dumfries		18.42973	-77.75593	A	ADM2	JM		12	825			2332		114	America/Jamaica	2017-03-13
+11494936	Smithfield	Smithfield		18.22275	-78.08785	A	ADM2	JM		16	1059			2830		10	America/Jamaica	2017-03-13
+11494937	Gooden's River	Gooden's River		18.24223	-78.1284	A	ADM2	JM		16	1051			543		11	America/Jamaica	2017-03-13
+11494938	Runaway Bay	Runaway Bay		18.44846	-77.32417	A	ADM2	JM		09	602			8573		74	America/Jamaica	2017-03-13
+11494939	Priory	Priory		18.4366	-77.24551	A	ADM2	JM		09	605			5632		92	America/Jamaica	2017-03-13
+11494940	Bamboo	Bamboo	Little Kent	18.39365	-77.28133	A	ADM2	JM		09	620			5428		656	America/Jamaica	2023-07-25
+11494941	Cromarty	Cromarty		17.9584	-76.98457	A	ADM2	JM		10	1437			9080		18	America/Jamaica	2017-03-13
+11494942	Chantilly	Chantilly		18.23059	-78.12462	A	ADM2	JM		16	1060			1858		11	America/Jamaica	2017-03-13
+11494943	Jericho	Jericho		18.43744	-78.13028	A	ADM2	JM		02	906			2556		144	America/Jamaica	2017-03-13
+11494944	Russia	Russia		18.21649	-78.12361	A	ADM2	JM		16	1058			872		3	America/Jamaica	2017-03-13
+11494945	Harmony Town	Harmony Town		18.21987	-78.13687	A	ADM2	JM		16	1053			715		5	America/Jamaica	2017-03-13
+11494946	Aenon Town	Aenon Town		18.21027	-77.39851	A	ADM2	JM		01	1305			1807		572	America/Jamaica	2017-03-15
+11494947	Johns Hall	Johns Hall		18.18876	-77.38063	A	ADM2	JM		01	1306			927		701	America/Jamaica	2017-03-13
+11494948	Morgans Forest	Morgans Forest		18.19088	-77.41021	A	ADM2	JM		01	1304			1617		600	America/Jamaica	2017-03-13
+11494949	Silent Hill	Silent Hill		18.19152	-77.45918	A	ADM2	JM		01	1301			2197		746	America/Jamaica	2017-03-13
+11494950	Douglas Castle	Douglas Castle	Douglas Castle - Part of	18.18703	-77.27538	A	ADM2	JM		01	1308			2394		658	America/Jamaica	2023-07-22
+11494951	Spaldings	Spaldings		18.16875	-77.45798	A	ADM2	JM		01	1302			3872		819	America/Jamaica	2017-03-13
+11494952	Kellits	Kellits	Kellitts,Part of Kellits	18.17159	-77.2512	A	ADM2	JM		01	1309			7439		575	America/Jamaica	2023-07-22
+11494953	Alston	Alston		18.17639	-77.43468	A	ADM2	JM		01	1303			1939		692	America/Jamaica	2017-03-13
+11494954	Peckham	Peckham		18.17147	-77.39766	A	ADM2	JM		01	1317			985		445	America/Jamaica	2017-03-13
+11494955	Trout Hall	Trout Hall		18.13779	-77.33299	A	ADM2	JM		01	1315			3244		241	America/Jamaica	2017-03-13
+11494956	Sanguinetti	Sanguinetti		18.15585	-77.42938	A	ADM2	JM		01	1319			3146		660	America/Jamaica	2017-03-13
+11494957	Crofts Hill	Crofts Hill		18.13268	-77.20507	A	ADM2	JM		01	1311			5011		472	America/Jamaica	2017-03-13
+11494958	Frankfield	Frankfield		18.14971	-77.36498	A	ADM2	JM		01	1316			5413		323	America/Jamaica	2017-03-13
+11494959	Grantham	Grantham		18.15839	-77.39643	A	ADM2	JM		01	1318			1957		393	America/Jamaica	2017-03-13
+11494960	Brandon Hill	Brandon Hill		18.1511	-77.23663	A	ADM2	JM		01	1310			2248		529	America/Jamaica	2017-03-13
+11494961	Crooked River	Crooked River		18.14289	-77.3	A	ADM2	JM		01	1314			3635		331	America/Jamaica	2017-03-13
+11494962	Ritchies	Ritchies		18.13904	-77.42893	A	ADM2	JM		01	1320			1227		821	America/Jamaica	2017-03-13
+11494963	Content	Content		18.18288	-77.99915	A	ADM2	JM		16	1077			1256		676	America/Jamaica	2017-03-15
+11494964	Smithville	Smithville		18.11977	-77.38561	A	ADM2	JM		01	1323			2003		609	America/Jamaica	2017-03-13
+11494965	Orange Hill	Orange Hill		18.11788	-77.35942	A	ADM2	JM		01	1324			254		590	America/Jamaica	2017-03-13
+11494966	Coxswain	Coxswain	Coxwain	18.10272	-77.23444	A	ADM2	JM		01	1328			1447		280	America/Jamaica	2024-01-05
+11494967	Pennants	Pennants		18.11025	-77.31306	A	ADM2	JM		01	1325			1825		330	America/Jamaica	2017-03-13
+11494968	Cumberland	Cumberland		18.10522	-77.41617	A	ADM2	JM		01	1321			2555		840	America/Jamaica	2017-03-13
+11494969	Thompson Town	Thompson Town		18.08968	-77.37186	A	ADM2	JM		01	1334			5863		770	America/Jamaica	2017-03-13
+11494970	Summerfield	Summerfield		18.09433	-77.28429	A	ADM2	JM		01	1326			2559		220	America/Jamaica	2017-03-13
+11494971	Rock River	Rock River		18.06548	-77.19707	A	ADM2	JM		01	1329			4049		258	America/Jamaica	2017-03-13
+11494972	Beckford Kraal	Beckford Kraal		18.08545	-77.32399	A	ADM2	JM		01	1333			3354		558	America/Jamaica	2017-03-13
+11494973	Chapelton	Chapelton		18.08566	-77.26059	A	ADM2	JM		01	1327			4021		265	America/Jamaica	2017-03-13
+11494974	Bluefields	Bluefields		18.14251	-78.00395	A	ADM2	JM		16	1079			3682		162	America/Jamaica	2017-03-13
+11494975	New Denbigh	New Denbigh		17.98563	-77.27104	A	ADM2	JM		01	1343			3754		67	America/Jamaica	2017-03-13
+11494976	Rock	Rock		17.99122	-77.33702	A	ADM2	JM		01	1339			1025		168	America/Jamaica	2017-03-13
+11494977	Treadlight	Treadlight		17.99264	-77.25531	A	ADM2	JM		01	1344			1585		77	America/Jamaica	2017-03-13
+11494978	Osbourne Store	Osbourne Store	Osborne Store	17.95892	-77.32827	A	ADM2	JM		01	1356			4011		36	America/Jamaica	2023-12-23
+11494979	Four Paths	Four Paths		17.97089	-77.29599	A	ADM2	JM		01	1355			3618		48	America/Jamaica	2017-03-13
+11494980	Bushy Park	Bushy Park		17.98243	-77.25135	A	ADM2	JM		01	1352			3373		80	America/Jamaica	2017-03-13
+11494981	Sandy Bay	Sandy Bay		17.95105	-77.16225	A	ADM2	JM		01	1366			4706		79	America/Jamaica	2017-03-13
+11494982	Bucks Common	Bucks Common		17.98228	-77.23846	A	ADM2	JM		01	1350			1998		89	America/Jamaica	2017-03-13
+11494983	Old Denbigh	Old Denbigh		17.96116	-77.26701	A	ADM2	JM		01	1354			2586		45	America/Jamaica	2017-03-13
+11494984	May Pen Proper	May Pen Proper		17.97034	-77.23911	A	ADM2	JM		01	1351			6668		86	America/Jamaica	2017-03-13
+11494985	Glenmuir	Glenmuir	Glen Muir	17.96801	-77.25394	A	ADM2	JM		01	1353			4065		63	America/Jamaica	2023-07-17
+11494986	Palmers Cross	Palmers Cross		17.95	-77.20338	A	ADM2	JM		01	1365			8068		102	America/Jamaica	2017-03-13
+11494987	Paisley	Paisley		17.96293	-77.22368	A	ADM2	JM		01	1364			2509		98	America/Jamaica	2017-03-13
+11494988	Hazard	Hazard		17.95382	-77.23147	A	ADM2	JM		01	1363			3372		80	America/Jamaica	2017-03-13
+11494989	York Town	York Town		17.92515	-77.30002	A	ADM2	JM		01	1360			4271		40	America/Jamaica	2017-03-13
+11494990	Curatoe Hill	Curatoe Hill		17.93982	-77.24836	A	ADM2	JM		01	1361			3949		84	America/Jamaica	2017-03-13
+11494991	Whitehouse	Whitehouse	White House	18.10275	-77.95697	A	ADM2	JM		16	1084			6600		183	America/Jamaica	2023-08-24
+11494992	Hayes	Hayes		17.87917	-77.22749	A	ADM2	JM		01	1372			15375		40	America/Jamaica	2017-03-13
+11494993	Gimme-me-bit	Gimme-me-bit		17.88946	-77.28469	A	ADM2	JM		01	1373			2018		35	America/Jamaica	2024-06-04
+11494994	Inverness	Inverness		17.91195	-77.19032	A	ADM2	JM		01	1368			1967		93	America/Jamaica	2017-03-13
+11494995	Lucea West	Lucea West		18.44238	-78.18663	A	ADM2	JM		02	904			5740		29	America/Jamaica	2017-03-13
+11494996	Sandy Bay	Sandy Bay		18.4375	-78.08383	A	ADM2	JM		02	907			4808		142	America/Jamaica	2017-03-13
+11494997	Chester Castle	Chester Castle		18.33822	-77.94722	A	ADM2	JM		02	913			2369		133	America/Jamaica	2017-03-13
+11494998	Lucea East	Lucea East		18.42198	-78.16675	A	ADM2	JM		02	905			5003		58	America/Jamaica	2017-03-13
+11494999	Green Island	Green Island		18.38399	-78.27015	A	ADM2	JM		02	931			3890		42	America/Jamaica	2017-03-13
+11495000	Coffee Piece	Coffee Piece		18.13835	-77.40648	A	ADM2	JM		01	1322			2679		639	America/Jamaica	2017-03-13
+11495001	Colonels Ridge	Colonels Ridge		18.13525	-77.2555	A	ADM2	JM		01	1312			1168		357	America/Jamaica	2017-03-13
+11495002	Morgans Pass	Morgans Pass		18.12123	-77.27493	A	ADM2	JM		01	1313			2358		230	America/Jamaica	2017-03-13
+11495003	Mineral Heights	Mineral Heights		17.94183	-77.23276	A	ADM2	JM		01	1362			3751		74	America/Jamaica	2017-03-13
+11495004	Three Mile River	Three Mile River		18.25706	-78.14275	A	ADM2	JM		16	1048			1581		8	America/Jamaica	2017-03-13
+11495005	Cacoon Castle	Cacoon Castle		18.40247	-78.01336	A	ADM2	JM		02	910			956		337	America/Jamaica	2017-03-13
+11495006	Cascade	Cascade		18.40656	-78.09635	A	ADM2	JM		02	921			1207		303	America/Jamaica	2017-03-13
+11495007	Askenish	Askenish		18.38492	-78.1491	A	ADM2	JM		02	924			1830		173	America/Jamaica	2017-03-13
+11495008	Cascade	Cascade		18.23209	-77.46255	A	ADM2	JM		09	642			1575		883	America/Jamaica	2017-03-13
+11495009	Lime Hall	Lime Hall		18.39742	-77.21051	A	ADM2	JM		09	619			6066		349	America/Jamaica	2017-03-13
+11495010	Ocho Rios	Ocho Rios		18.39836	-77.13423	A	ADM2	JM		09	608			5882		149	America/Jamaica	2020-01-29
+11495011	Chalky Hill	Chalky Hill		18.37964	-77.1752	A	ADM2	JM		09	618			1940		444	America/Jamaica	2017-03-13
+11495012	Mount Peto	Mount Peto		18.35747	-78.02289	A	ADM2	JM		02	916			1435		271	America/Jamaica	2017-03-13
+11495013	Gibraltar	Gibraltar	Gibraltar	18.35079	-77.42142	A	ADM2	JM		09	624			2265		558	America/Jamaica	2023-07-25
+11495014	Orange Bay	Orange Bay		18.34266	-78.32005	A	ADM2	JM		02	936			1948		3	America/Jamaica	2017-03-13
+11495015	Good Intent	Good Intent		18.20806	-77.57086	A	ADM2	JM		04	1206			2217		573	America/Jamaica	2017-03-13
+11495016	Coleyville	Coleyville		18.19993	-77.51924	A	ADM2	JM		04	1204			5747		851	America/Jamaica	2017-03-13
+11495017	Walderston	Walderston		18.11637	-77.48614	A	ADM2	JM		04	1225			2944		690	America/Jamaica	2017-03-13
+11495018	Porus	Porus		18.028	-77.43103	A	ADM2	JM		04	1245			8775		247	America/Jamaica	2017-03-13
+11495019	Asia - Pratville	Asia - Pratville		17.91584	-77.41563	A	ADM2	JM		04	1273			5139		518	America/Jamaica	2023-09-19
+11495020	Drapers	Drapers		18.17121	-76.40612	A	ADM2	JM		07	417			994		76	America/Jamaica	2017-03-13
+11495021	Breastworks	Breastworks		18.16	-76.46612	A	ADM2	JM		07	414			3223		205	America/Jamaica	2017-03-13
+11495022	Fruitful Vale	Fruitful Vale	Fruitful Vale	18.10891	-76.58617	A	ADM2	JM		07	434			2366		561	America/Jamaica	2023-07-26
+11495023	Bangor Ridge	Bangor Ridge		18.13637	-76.68903	A	ADM2	JM		07	441			1359		647	America/Jamaica	2017-03-13
+11495024	Swift River	Swift River		18.1577	-76.57869	A	ADM2	JM		07	435			1440		294	America/Jamaica	2017-03-13
+11495025	Nonsuch	Nonsuch		18.13819	-76.40467	A	ADM2	JM		07	418			2763		261	America/Jamaica	2017-03-13
+11495026	Fairy Hill	Fairy Hill		18.16508	-76.36595	A	ADM2	JM		07	420			1465		33	America/Jamaica	2017-03-16
+11495027	Linton Park	Linton Park		18.26081	-77.42221	A	ADM2	JM		09	639			628		684	America/Jamaica	2017-03-13
+11495028	Cave	Cave		18.21019	-78.0407	A	ADM2	JM		16	1066			716		330	America/Jamaica	2017-03-13
+11495029	Seaton Crescent	Seaton Crescent		18.21675	-78.13603	A	ADM2	JM		16	1054			820		3	America/Jamaica	2017-03-13
+11495030	Lime Tree Gardens	Lime Tree Gardens	Lime Tree Garden	18.34545	-77.38645	A	ADM2	JM		09	625			1270		513	America/Jamaica	2023-09-02
+11495031	Claremont	Claremont		18.32556	-77.20643	A	ADM2	JM		09	630			7714		621	America/Jamaica	2017-03-13
+11495032	12th Street	12th Street	Twelfth Street	18.21097	-78.13603	A	ADM2	JM		16	1056			1498		5	America/Jamaica	2023-08-12
+11495033	Walkers Wood	Walkers Wood		18.31939	-77.07082	A	ADM2	JM		09	634			1593		396	America/Jamaica	2017-03-13
+11495034	New Market Oval	New Market Oval		18.2137	-78.13813	A	ADM2	JM		16	1055			1297		3	America/Jamaica	2017-03-13
+11495035	Golden Grove	Golden Grove		18.32956	-77.12256	A	ADM2	JM		09	631			2787		369	America/Jamaica	2017-03-13
+11495036	Kitson Town	Kitson Town		18.03487	-77.04028	A	ADM2	JM		10	1422			12041		236	America/Jamaica	2017-03-13
+11495037	Alexandria	Alexandria		18.30411	-77.35311	A	ADM2	JM		09	627			4279		643	America/Jamaica	2017-03-13
+11495038	Alva	Alva		18.29679	-77.31717	A	ADM2	JM		09	628			2165		642	America/Jamaica	2017-03-13
+11495039	Alderton	Alderton		18.28706	-77.20832	A	ADM2	JM		09	636			742		437	America/Jamaica	2017-03-13
+11495040	Blackstonedge	Blackstonedge	Blackstone Edge	18.27357	-77.04254	A	ADM2	JM		09	655			3187		512	America/Jamaica	2023-08-24
+11495041	St. John's West	St. John's West	Saint John's West,Saint Johns West	18.00539	-77.00755	A	ADM2	JM		10	1432			14510		40	America/Jamaica	2023-10-07
+11495042	Ensom	Ensom		18.01778	-76.96221	A	ADM2	JM		10	1420			21866		41	America/Jamaica	2017-03-13
+11495043	Calderwood	Calderwood		18.25641	-77.27144	A	ADM2	JM		09	637			4587		759	America/Jamaica	2017-03-13
+11495044	Gibraltar (Moneague)	Gibraltar (Moneague)	Gibraltar - Moneague	18.23539	-77.15492	A	ADM2	JM		09	652			1822		512	America/Jamaica	2023-08-01
+11495045	Cave Valley	Cave Valley		18.23268	-77.36337	A	ADM2	JM		09	647			2872		602	America/Jamaica	2017-03-13
+11495046	Linstead	Linstead		18.15342	-77.03941	A	ADM2	JM		10	1403			39157		112	America/Jamaica	2017-03-13
+11495047	Ewarton	Ewarton		18.16746	-77.10383	A	ADM2	JM		10	1402			14929		270	America/Jamaica	2017-03-13
+11495048	Harkers Hall	Harkers Hall		18.13149	-76.9135	A	ADM2	JM		10	1412			4957		302	America/Jamaica	2017-03-13
+11495049	Bog Walk	Bog Walk		18.10468	-76.98792	A	ADM2	JM		10	1413			14071		92	America/Jamaica	2023-10-02
+11495050	Sligoville	Sligoville		18.08203	-76.93991	A	ADM2	JM		10	1414			4903		498	America/Jamaica	2017-03-13
+11495051	Browns Hall	Browns Hall		18.05358	-77.11855	A	ADM2	JM		10	1425			6241		476	America/Jamaica	2023-10-12
+11495052	Caymanas	Caymanas		18.03824	-76.89833	A	ADM2	JM		10	1416			1728		4	America/Jamaica	2017-03-13
+11495053	Crescent	Crescent		18.03621	-76.97626	A	ADM2	JM		10	1421			5409		53	America/Jamaica	2017-03-13
+11495054	Old Harbour	Old Harbour		17.95843	-77.1037	A	ADM2	JM		10	1429			35405		87	America/Jamaica	2017-03-13
+11495055	Golden Acres	Golden Acres		18.0195	-76.9804	A	ADM2	JM		10	1433			5485		47	America/Jamaica	2017-03-13
+11495056	Central Village	Central Village		17.99992	-76.92393	A	ADM2	JM		10	1439			16307		24	America/Jamaica	2017-03-13
+11495057	Old Harbour Road	Old Harbour Road		17.95797	-77.0273	A	ADM2	JM		10	1431			5263		12	America/Jamaica	2017-03-13
+11495058	Willowdene	Willowdene		17.99189	-76.98199	A	ADM2	JM		10	1436			10021		35	America/Jamaica	2017-03-13
+11495059	Gregory Park	Gregory Park		17.9949	-76.88302	A	ADM2	JM		10	1440			15834		10	America/Jamaica	2017-03-13
+11495060	Spanish Town Central	Spanish Town Central		17.98014	-76.92294	A	ADM2	JM		10	1438			22075		20	America/Jamaica	2017-03-13
+11495061	Edgewater	Edgewater		17.96448	-76.86547	A	ADM2	JM		10	1443			5073		2	America/Jamaica	2017-03-13
+11495062	Greater Portmore	Greater Portmore		17.95228	-76.91133	A	ADM2	JM		10	1450			47885		9	America/Jamaica	2017-03-15
+11495063	Naggo Head	Naggo Head	Nago Head	17.96415	-76.8882	A	ADM2	JM		10	1448			7804		7	America/Jamaica	2023-10-10
+11495064	Bridgeport	Bridgeport		17.96264	-76.87809	A	ADM2	JM		10	1444			10725		8	America/Jamaica	2017-03-13
+11495065	Hellshire	Hellshire	Healthshire	17.89669	-76.96187	A	ADM2	JM		10	1451			4396		164	America/Jamaica	2023-10-07
+11495066	Braeton	Braeton		17.94174	-76.88635	A	ADM2	JM		10	1449			11629		110	America/Jamaica	2017-03-13
+11495067	Thornton	Thornton		18.19564	-77.72246	A	ADM2	JM		11	1113			4035		184	America/Jamaica	2017-03-13
+11495068	Ginger Hill	Ginger Hill		18.1918	-77.84867	A	ADM2	JM		11	1103			2610		255	America/Jamaica	2017-03-13
+11495069	Potsdam	Potsdam		17.91872	-77.66869	A	ADM2	JM		11	1152			2484		750	America/Jamaica	2017-03-13
+11495070	White Hill	White Hill		18.15646	-77.81067	A	ADM2	JM		11	1116			1236		281	America/Jamaica	2017-03-13
+11495071	Brighton	Brighton		18.14836	-77.85604	A	ADM2	JM		11	1118			2294		442	America/Jamaica	2017-03-13
+11495072	Giddy Hall	Giddy Hall		18.09702	-77.86764	A	ADM2	JM		11	1120			2445		263	America/Jamaica	2017-03-13
+11495073	Newton	Newton		18.11095	-77.72352	A	ADM2	JM		11	1128			725		10	America/Jamaica	2017-03-13
+11495074	Treasure Beach	Treasure Beach		17.8955	-77.76051	A	ADM2	JM		11	1156			3435		41	America/Jamaica	2017-03-13
+11495075	Holland	Holland		18.10358	-77.80164	A	ADM2	JM		11	1126			2044		0	America/Jamaica	2017-03-13
+11495076	Braes River	Braes River		18.09351	-77.66487	A	ADM2	JM		11	1130			2288		4	America/Jamaica	2017-03-13
+11495077	Slipe	Slipe		18.0574	-77.79687	A	ADM2	JM		11	1125			1935		0	America/Jamaica	2017-03-13
+11495078	Goshen	Goshen		18.04964	-77.64136	A	ADM2	JM		11	1131			2058		14	America/Jamaica	2017-03-13
+11495079	Crawford	Crawford		18.0506	-77.91596	A	ADM2	JM		11	1122			1697		40	America/Jamaica	2017-03-13
+11495080	Santa Cruz	Santa Cruz		18.05113	-77.69085	A	ADM2	JM		11	1134			8953		27	America/Jamaica	2017-03-13
+11495081	Schoolfield	Schoolfield	Scholefield	18.02375	-77.71884	A	ADM2	JM		11	1135			3338		422	America/Jamaica	2023-09-16
+11495082	Mountainside	Mountainside		17.98077	-77.74786	A	ADM2	JM		11	1141			2952		5	America/Jamaica	2017-03-13
+11495083	Malvern	Malvern		17.97034	-77.69388	A	ADM2	JM		11	1142			3174		624	America/Jamaica	2017-03-13
+11495084	Parottee	Parottee		17.96174	-77.81774	A	ADM2	JM		11	1138			1629		6	America/Jamaica	2017-03-13
+11495085	Bigwoods	Bigwoods		17.93338	-77.71897	A	ADM2	JM		11	1153			1859		47	America/Jamaica	2017-03-13
+11495086	Ballards  Valley	Ballards  Valley		17.87949	-77.63086	A	ADM2	JM		11	1160			3474		351	America/Jamaica	2017-03-13
+11495087	Southfield	Southfield		17.88212	-77.66988	A	ADM2	JM		11	1158			4323		539	America/Jamaica	2017-03-13
+11495088	Aberdeen	Aberdeen		18.20508	-77.67932	A	ADM2	JM		11	1111			988		355	America/Jamaica	2017-03-13
+11495089	Maggotty	Maggotty		18.17343	-77.76681	A	ADM2	JM		11	1114			4215		172	America/Jamaica	2017-03-13
+11495090	Pepper	Pepper		18.02105	-77.61284	A	ADM2	JM		11	1132			3885		54	America/Jamaica	2017-03-13
+11495091	Flankers	Flankers		18.50265	-77.90831	A	ADM2	JM		12	801			7168		3	America/Jamaica	2017-03-13
+11495092	Flower Hill	Flower Hill		18.48426	-77.83913	A	ADM2	JM		12	812			1273		378	America/Jamaica	2017-03-13
+11495093	Orange	Orange		18.45395	-77.82779	A	ADM2	JM		12	823			2774		151	America/Jamaica	2017-03-13
+11495094	Porto Bello	Porto Bello		18.46607	-77.86989	A	ADM2	JM		12	830			929		108	America/Jamaica	2017-03-13
+11495095	Mount Salem	Mount Salem		18.46601	-77.90793	A	ADM2	JM		12	834			9050		56	America/Jamaica	2017-03-13
+11495096	Rose Mount Garden	Rose Mount Garden		18.46394	-77.89397	A	ADM2	JM		12	840			874		87	America/Jamaica	2017-03-15
+11495097	John's Hall	John's Hall		18.42849	-77.8501	A	ADM2	JM		12	829			4933		73	America/Jamaica	2017-03-13
+11495098	Bogue	Bogue		18.43722	-77.92022	A	ADM2	JM		12	848			3814		70	America/Jamaica	2017-03-13
+11495099	Catherine Mount	Catherine Mount		18.45672	-77.89691	A	ADM2	JM		12	839			1724		68	America/Jamaica	2017-03-13
+11495100	Higgins Land	Higgins Land	Higgin Land	18.34119	-77.27072	A	ADM2	JM		09	629			1623		644	America/Jamaica	2023-11-27
+11495101	Hampton Green	Hampton Green		18.00544	-76.96818	A	ADM2	JM		10	1434			5874		38	America/Jamaica	2017-03-13
+11495102	Black River	Black River		18.03168	-77.83574	A	ADM2	JM		11	1124			4704		0	America/Jamaica	2017-03-13
+11495103	Bogue	Bogue		18.13619	-77.6697	A	ADM2	JM		11	1129			1786		65	America/Jamaica	2017-03-13
+11495104	George's Valley	George's Valley		18.03172	-77.48081	A	ADM2	JM		04	1251			3435		593	America/Jamaica	2017-03-13
+11495105	Sunderland	Sunderland		18.39794	-77.82734	A	ADM2	JM		12	828			1800		153	America/Jamaica	2017-03-13
+11495106	Mount Horeb	Mount Horeb		18.33322	-77.86675	A	ADM2	JM		12	868			1717		400	America/Jamaica	2017-03-13
+11495107	Cambridge	Cambridge		18.31308	-77.89546	A	ADM2	JM		12	871			4595		248	America/Jamaica	2017-03-13
+11495108	Catadupa	Catadupa		18.28052	-77.86579	A	ADM2	JM		12	873			2493		462	America/Jamaica	2017-03-13
+11495109	Paradise	Paradise		18.49401	-77.90982	A	ADM2	JM		12	815			2268		105	America/Jamaica	2017-03-13
+11495110	Bonnygate	Bonnygate	Bonny Gate	18.32869	-76.94606	A	ADM2	JM		13	515			2632		393	America/Jamaica	2023-07-21
+11495111	Retreat	Retreat		18.37865	-77.0159	A	ADM2	JM		13	503			2328		106	America/Jamaica	2017-03-13
+11495112	Islington	Islington		18.3216	-76.84102	A	ADM2	JM		13	532			6176		156	America/Jamaica	2017-03-13
+11495113	Port Maria	Port Maria		18.36772	-76.90207	A	ADM2	JM		13	510			8595		72	America/Jamaica	2017-03-13
+11495114	Oracabessa	Oracabessa		18.39678	-76.97174	A	ADM2	JM		13	506			8106		121	America/Jamaica	2017-03-13
+11495115	Gayle	Gayle		18.34278	-77.00211	A	ADM2	JM		13	518			4129		205	America/Jamaica	2017-03-13
+11495116	Sandside	Sandside		18.33888	-76.89551	A	ADM2	JM		13	511			1884		65	America/Jamaica	2017-03-13
+11495117	Carron Hall	Carron Hall		18.27797	-76.95246	A	ADM2	JM		13	524			2626		512	America/Jamaica	2017-03-13
+11495118	Belfield	Belfield		18.27347	-76.83574	A	ADM2	JM		13	530			2450		144	America/Jamaica	2017-03-13
+11495119	Castleton	Castleton		18.17618	-76.7834	A	ADM2	JM		13	541			2584		653	America/Jamaica	2017-03-13
+11495120	Highgate	Highgate		18.27739	-76.89554	A	ADM2	JM		13	525			9500		263	America/Jamaica	2017-03-13
+11495121	Camberwell	Camberwell		18.2393	-76.78088	A	ADM2	JM		13	535			1179		146	America/Jamaica	2017-03-13
+11495122	Clonmel	Clonmel		18.24281	-76.83137	A	ADM2	JM		13	529			2461		169	America/Jamaica	2017-03-13
+11495123	Richmond	Richmond		18.21113	-76.88301	A	ADM2	JM		13	528			7850		172	America/Jamaica	2017-03-13
+11495124	Hillside	Hillside		17.99619	-76.49082	A	ADM2	JM		14	309			581		372	America/Jamaica	2017-03-13
+11495125	White Hall	White Hall		17.99805	-76.43105	A	ADM2	JM		14	310			1878		1117	America/Jamaica	2017-03-13
+11495126	Somerset	Somerset		18.00976	-76.54595	A	ADM2	JM		14	307			1289		1000	America/Jamaica	2017-03-13
+11495127	Johnson Mountain	Johnson Mountain		17.98091	-76.31986	A	ADM2	JM		14	316			349		668	America/Jamaica	2017-03-13
+11495128	Amity Hall	Amity Hall		17.96759	-76.25698	A	ADM2	JM		14	318			927		132	America/Jamaica	2017-03-13
+11495129	Hayfield	Hayfield		17.98199	-76.36841	A	ADM2	JM		14	312			1214		390	America/Jamaica	2017-03-13
+11495130	Tucker	Tucker		18.449	-77.89438	A	ADM2	JM		12	838			1974		29	America/Jamaica	2017-03-13
+11495131	Easington	Easington		17.93935	-76.59262	A	ADM2	JM		14	335			841		142	America/Jamaica	2017-03-13
+11495132	Duckenfield	Duckenfield		17.92205	-76.22657	A	ADM2	JM		14	319			1158		12	America/Jamaica	2017-03-13
+11495133	Granville	Granville		18.45053	-77.68847	A	ADM2	JM		15	711			2150		133	America/Jamaica	2017-03-13
+11495134	Morant Bay	Morant Bay		17.90081	-76.40663	A	ADM2	JM		14	348			4223		76	America/Jamaica	2017-03-13
+11495135	White Horses	White Horses	Whitehorses	17.8962	-76.47076	A	ADM2	JM		14	345			2848		311	America/Jamaica	2023-07-25
+11495136	Port Morant	Port Morant		17.89947	-76.34286	A	ADM2	JM		14	354			3000		33	America/Jamaica	2017-03-13
+11495137	Barking Lodge	Barking Lodge		17.89279	-76.28922	A	ADM2	JM		14	355			1622		34	America/Jamaica	2017-03-13
+11495138	Falmouth	Falmouth		18.47821	-77.65167	A	ADM2	JM		15	702			8228		3	America/Jamaica	2017-03-13
+11495139	Duncans	Duncans		18.47528	-77.5463	A	ADM2	JM		15	703			4004		83	America/Jamaica	2017-03-13
+11495140	Vineyard Town	Vineyard Town		17.9869	-76.77059	A	ADM2	JM		08	15082			11955		55	America/Jamaica	2017-03-13
+11495141	Yallahs	Yallahs		17.87535	-76.56029	A	ADM2	JM		14	343			6066		21	America/Jamaica	2017-03-15
+11495142	Wilmington	Wilmington		17.92856	-76.38962	A	ADM2	JM		14	326			2157		247	America/Jamaica	2017-03-13
+11495143	Salt Marsh	Salt Marsh		18.48423	-77.71184	A	ADM2	JM		15	701			2547		172	America/Jamaica	2017-03-13
+11495144	Jackson Town	Jackson Town		18.41781	-77.48458	A	ADM2	JM		15	720			3011		210	America/Jamaica	2017-03-13
+11495145	Sawyers	Sawyers		18.3788	-77.49689	A	ADM2	JM		15	722			607		342	America/Jamaica	2017-03-13
+11495146	St. Vincent	St. Vincent	Saint Vincent	18.33424	-77.5479	A	ADM2	JM		15	724			910		547	America/Jamaica	2023-08-13
+11495147	Wilson's Run	Wilson's Run		18.28468	-77.69323	A	ADM2	JM		15	727			859		393	America/Jamaica	2023-08-19
+11495148	Perth Town	Perth Town		18.43106	-77.62583	A	ADM2	JM		15	716			799		166	America/Jamaica	2023-08-19
+11495149	Sherwood Content	Sherwood Content		18.38227	-77.63643	A	ADM2	JM		15	715			1278		213	America/Jamaica	2017-03-13
+11495150	Brandon Hill	Brandon Hill		18.14822	-76.80513	A	ADM2	JM		08	15111			3330		348	America/Jamaica	2017-03-13
+11495151	Bunkers Hill	Bunkers Hill		18.36198	-77.68612	A	ADM2	JM		15	725			1873		171	America/Jamaica	2017-03-13
+11495152	Hampton Court	Hampton Court		17.91782	-76.26131	A	ADM2	JM		14	320			1479		45	America/Jamaica	2017-03-13
+11495153	Cornwall Mountain	Cornwall Mountain		18.28722	-77.98674	A	ADM2	JM		16	1017			609		396	America/Jamaica	2023-08-25
+11495154	Pamphret	Pamphret	Pamfret,Pomfret,Pomphret	17.8757	-76.51736	A	ADM2	JM		14	344			526		161	America/Jamaica	2023-07-31
+11495155	Mount James	Mount James		18.12069	-76.77394	A	ADM2	JM		08	15113			3593		655	America/Jamaica	2017-03-13
+11495156	Content Garden	Content Garden		18.40977	-77.0754	A	ADM2	JM		09	609			708		21	America/Jamaica	2017-03-13
+11495157	Irish Town	Irish Town		18.06234	-76.70262	A	ADM2	JM		08	15121			2080		1256	America/Jamaica	2017-03-13
+11495158	Belvedere	Belvedere		18.20772	-76.69671	A	ADM2	JM		07	402			543		433	America/Jamaica	2017-03-13
+11495159	Orange Bay	Orange Bay		18.20306	-76.6225	A	ADM2	JM		07	405			524		98	America/Jamaica	2017-03-13
+11495160	Charles Town	Charles Town		18.20526	-76.6639	A	ADM2	JM		07	403			1196		274	America/Jamaica	2017-03-13
+11495161	Long Road	Long Road		18.00864	-76.29482	A	ADM2	JM		07	427			2207		228	America/Jamaica	2017-03-13
+11495162	St. John's East	St. John's East	Saint John's East,Saint Johns East	18.0009	-76.97466	A	ADM2	JM		10	1435			12686		37	America/Jamaica	2023-10-07
+11495163	Johnson Town	Johnson Town		17.97771	-76.75593	A	ADM2	JM		17	15089			2559		41	America/Jamaica	2017-03-13
+11495164	Newport East	Newport East		17.97421	-76.80663	A	ADM2	JM		17	15103			1329		6	America/Jamaica	2017-03-13
+11495165	Big Bridge	Big Bridge		18.23318	-78.16717	A	ADM2	JM		16	1047			1932		1	America/Jamaica	2017-03-13
+11495166	Tollgate	Tollgate	Toll Gate	17.97195	-77.36566	A	ADM2	JM		01	1357			4137		44	America/Jamaica	2023-07-21
+11495167	Mount Airy	Mount Airy		18.01843	-77.36357	A	ADM2	JM		01	1338			405		467	America/Jamaica	2017-03-13
+11495168	Woodhall	Woodhall	Wood Hall	18.04757	-77.27575	A	ADM2	JM		01	1331			3898		388	America/Jamaica	2023-07-15
+11495169	Mount Pleasant	Mount Pleasant		18.16325	-76.50472	A	ADM2	JM		07	410			802		277	America/Jamaica	2017-03-13
+11495170	Sherwood Forest	Sherwood Forest		18.15428	-76.37821	A	ADM2	JM		07	419			1980		114	America/Jamaica	2017-03-13
+11495171	Hope Bay	Hope Bay		18.18754	-76.57579	A	ADM2	JM		07	407			3436		312	America/Jamaica	2017-03-13
+11495172	Spring Hill	Spring Hill		18.12591	-76.72909	A	ADM2	JM		07	443			1216		880	America/Jamaica	2017-03-13
+11495173	Comfort Castle	Comfort Castle		18.04833	-76.41614	A	ADM2	JM		07	429			2259		253	America/Jamaica	2017-03-13
+11495174	Kensington	Kensington	Kensington,Кенсингтон	18.06765	-76.30053	A	ADM2	JM		07	425			819		152	America/Jamaica	2019-08-20
+11495175	Manchioneal	Manchioneal		18.04597	-76.30104	A	ADM2	JM		07	426			2168		179	America/Jamaica	2017-03-13
+11495176	Snow Hill	Snow Hill		18.19474	-76.4935	A	ADM2	JM		07	411			1937		183	America/Jamaica	2017-03-13
+11495177	Guys Hill	Guys Hill	Guy's Hill	18.24525	-76.99081	A	ADM2	JM		10	1404			7247		568	America/Jamaica	2023-10-02
+11495178	Moneague	Moneague		18.28307	-77.13855	A	ADM2	JM		09	635			4215		497	America/Jamaica	2017-03-13
+11495179	Lacovia	Lacovia		18.08844	-77.7535	A	ADM2	JM		11	1127			5433		14	America/Jamaica	2017-03-13
+11495180	Manley Meadows	Manley Meadows		17.96907	-76.77116	A	ADM2	JM		17	15108			3804		16	America/Jamaica	2017-03-13
+11495181	Lloyds	Lloyds		17.91504	-76.54085	A	ADM2	JM		14	333			2671		293	America/Jamaica	2017-03-13
+11495182	Parks Road	Parks Road		18.09802	-76.85941	A	ADM2	JM		08	15116			2510		301	America/Jamaica	2017-03-13
+11495183	Cavaliers	Cavaliers		18.09677	-76.84321	A	ADM2	JM		08	15115			2323		281	America/Jamaica	2017-03-13
+11495184	Hectors River	Hectors River	Hector's River	18.00089	-76.27055	A	ADM2	JM		07	428			2102		126	America/Jamaica	2023-07-20
+11495185	Windsor Castle	Windsor Castle		18.24888	-76.69029	A	ADM2	JM		07	401			3185		192	America/Jamaica	2017-03-13
+11495186	Buff Bay	Buff Bay		18.23253	-76.66037	A	ADM2	JM		07	404			4911		11	America/Jamaica	2017-03-15
+11495187	Red Hills Gardens	Red Hills Gardens		18.03	-76.80994	A	ADM2	JM		08	15029			2330		67	America/Jamaica	2017-03-13
+11495188	Temple Hall	Temple Hall		18.10471	-76.81818	A	ADM2	JM		08	15112			2462		250	America/Jamaica	2017-03-13
+11495189	St. Peter's	St. Peter's		18.07881	-76.67202	A	ADM2	JM		08	15122			1249		1048	America/Jamaica	2017-03-13
+11495190	Red Hills Rural	Red Hills Rural		18.06777	-76.86093	A	ADM2	JM		08	15117			6738		609	America/Jamaica	2023-10-13
+11495191	Red Hills - Sterling Castle	Red Hills - Sterling Castle		18.05946	-76.84028	A	ADM2	JM		08	15034			3089		476	America/Jamaica	2023-11-03
+11495192	Oaklands	Oaklands		18.03558	-76.79563	A	ADM2	JM		08	15026			1011		117	America/Jamaica	2017-03-13
+11495193	Content Gap	Content Gap		18.04082	-76.6907	A	ADM2	JM		08	15123			1249		1066	America/Jamaica	2017-03-13
+11495194	Maryland	Maryland		18.05166	-76.7432	A	ADM2	JM		08	15120			1900		504	America/Jamaica	2017-03-13
+11495195	Fairfield	Fairfield		18.03117	-77.57535	A	ADM2	JM		04	1239			477		748	America/Jamaica	2017-03-13
+11495196	Cherry Gardens	Cherry Gardens		18.04963	-76.77867	A	ADM2	JM		08	15022			2710		212	America/Jamaica	2017-03-13
+11495197	Meadowbrook	Meadowbrook		18.04708	-76.81553	A	ADM2	JM		08	15036			1707		74	America/Jamaica	2017-03-13
+11495198	Ferry	Ferry		18.02771	-76.8672	A	ADM2	JM		08	15043			308		5	America/Jamaica	2017-03-13
+11495199	Queensborough - Tunbridge	Queensborough - Tunbridge		18.04289	-76.82119	A	ADM2	JM		08	15037			4710		56	America/Jamaica	2023-10-18
+11495200	Forest Hills Gardens	Forest Hills Gardens		18.03848	-76.82868	A	ADM2	JM		08	15038			1212		40	America/Jamaica	2017-03-15
+11495201	Beecher Town	Beecher Town		18.38465	-77.11617	A	ADM2	JM		09	616			906		348	America/Jamaica	2017-03-13
+11495202	New Haven	New Haven		18.02953	-76.85425	A	ADM2	JM		08	15042			4881		6	America/Jamaica	2017-03-13
+11495203	Meadowbrook Estate	Meadowbrook Estate		18.03735	-76.82964	A	ADM2	JM		08	15039			1363		61	America/Jamaica	2023-10-31
+11495204	Roehampton	Roehampton		18.0432	-76.80841	A	ADM2	JM		08	15031			1250		104	America/Jamaica	2017-03-13
+11495205	Nannyville	Nannyville		17.99677	-76.76949	A	ADM2	JM		08	15081			2427		83	America/Jamaica	2017-03-13
+11495206	Arlene Gardens	Arlene Gardens		18.03713	-76.81791	A	ADM2	JM		08	15048			4003		60	America/Jamaica	2017-03-13
+11495207	Arcadia	Arcadia	Acadia	18.03737	-76.78201	A	ADM2	JM		08	15021			1565		146	America/Jamaica	2023-10-27
+11495208	Pembroke Hall	Pembroke Hall		18.03113	-76.83003	A	ADM2	JM		08	15047			5258		31	America/Jamaica	2017-03-13
+11495209	Hughenden	Hughenden		18.03037	-76.81728	A	ADM2	JM		08	15050			4483		51	America/Jamaica	2017-03-13
+11495210	Grants Pen	Grants Pen		18.03258	-76.78887	A	ADM2	JM		08	15020			7992		113	America/Jamaica	2017-03-13
+11495211	Duhaney Park	Duhaney Park		18.03086	-76.84617	A	ADM2	JM		08	15041			13467		10	America/Jamaica	2017-03-13
+11495212	Three Oaks - Glendale	Three Oaks - Glendale		18.03128	-76.82447	A	ADM2	JM		08	15049			2681		38	America/Jamaica	2023-10-26
+11495213	Kingston Gardens	Kingston Gardens		17.97836	-76.78681	A	ADM2	JM		17	15098			1437		33	America/Jamaica	2017-03-13
+11495214	Maverley	Maverley	Marverley,Maverly,Mobberly	18.02676	-76.82652	A	ADM2	JM		08	15051			4928		36	America/Jamaica	2023-11-03
+11495215	Fletchers Land	Fletchers Land		17.97968	-76.791	A	ADM2	JM		17	15099			3955		37	America/Jamaica	2017-03-13
+11495216	Cooreville Gardens	Cooreville Gardens		18.02244	-76.84852	A	ADM2	JM		08	15045			5851		9	America/Jamaica	2017-03-13
+11495217	Merrywood	Merrywood		18.21793	-77.83773	A	ADM2	JM		11	1104			134		337	America/Jamaica	2017-03-13
+11495218	Ziadie Gardens	Ziadie Gardens		18.02566	-76.80978	A	ADM2	JM		08	15028			1105		60	America/Jamaica	2023-11-03
+11495219	Springfield	Springfield		17.97117	-76.75607	A	ADM2	JM		17	15087			1693		9	America/Jamaica	2017-03-13
+11495220	Penwood	Penwood		18.01952	-76.83094	A	ADM2	JM		08	15053			12742		28	America/Jamaica	2017-03-13
+11495221	Hampden	Hampden		18.44217	-77.73203	A	ADM2	JM		15	713			590		98	America/Jamaica	2017-03-13
+11495222	Washington Gardens	Washington Gardens		18.02174	-76.8402	A	ADM2	JM		08	15046			6010		15	America/Jamaica	2017-03-13
+11495223	Cassia Park	Cassia Park		18.02047	-76.80665	A	ADM2	JM		08	15062			4295		67	America/Jamaica	2017-03-13
+11495224	Eastwood Park Gardens	Eastwood Park Gardens		18.01891	-76.80072	A	ADM2	JM		08	15063			1753		74	America/Jamaica	2017-03-13
+11495225	Riverton City	Riverton City		18.01443	-76.84897	A	ADM2	JM		08	15044			2468		4	America/Jamaica	2017-03-13
+11495226	Drewsland	Drewsland		18.02381	-76.82626	A	ADM2	JM		08	15052			4813		33	America/Jamaica	2017-03-13
+11495227	Bournemouth Gardens	Bournemouth Gardens		17.97009	-76.76266	A	ADM2	JM		17	15091			4492		14	America/Jamaica	2017-03-13
+11495228	Seaward Pen	Seaward Pen		18.019	-76.82368	A	ADM2	JM		08	15060			4991		36	America/Jamaica	2017-03-13
+11495229	Half-Way-Tree	Half-Way-Tree	Half Way Tree	18.01259	-76.79582	A	ADM2	JM		08	15018			4925		82	America/Jamaica	2023-10-17
+11495230	Denham Town	Denham Town		17.97812	-76.79984	A	ADM2	JM		17	15101			8340		20	America/Jamaica	2017-03-13
+11495231	Trafalgar Park	Trafalgar Park		18.0128	-76.78465	A	ADM2	JM		08	15016			973		103	America/Jamaica	2017-03-13
+11495232	Dawkins	Dawkins		18.0554	-77.33303	A	ADM2	JM		01	1332			785		481	America/Jamaica	2017-03-13
+11495233	Waterhouse	Waterhouse		18.01231	-76.83505	A	ADM2	JM		08	15054			10930		17	America/Jamaica	2017-03-13
+11495234	Rocky Point	Rocky Point		17.77695	-77.24816	A	ADM2	JM		01	1381			5148		3	America/Jamaica	2017-03-13
+11495235	Mona Heights	Mona Heights		18.01331	-76.75086	A	ADM2	JM		08	15004			4138		193	America/Jamaica	2017-03-13
+11495236	Bloxborough	Bloxborough	Bloxburgh	17.99581	-76.64767	A	ADM2	JM		08	15128			799		677	America/Jamaica	2023-10-18
+11495237	Tower Hill	Tower Hill		18.01183	-76.82807	A	ADM2	JM		08	15059			10253		25	America/Jamaica	2017-03-13
+11495238	Waltham Gardens	Waltham Gardens		18.01085	-76.82049	A	ADM2	JM		08	15058			8081		37	America/Jamaica	2017-03-13
+11495239	Seaview Gardens	Seaview Gardens		18.00619	-76.84106	A	ADM2	JM		08	15055			13283		7	America/Jamaica	2017-03-13
+11495240	Tower Hill/Moy Hall	Tower Hill/Moy Hall		18.44044	-77.96022	A	ADM2	JM		12	850			1584		114	America/Jamaica	2017-03-13
+11495241	New Kingston	New Kingston		18.0052	-76.78586	A	ADM2	JM		08	15017			1765		94	America/Jamaica	2017-03-13
+11495242	Swallowfield	Swallowfield		18.00486	-76.77439	A	ADM2	JM		08	15014			3097		104	America/Jamaica	2017-03-13
+11495243	Borobridge	Borobridge		18.19779	-77.42755	A	ADM2	JM		09	645			167		583	America/Jamaica	2017-03-13
+11495244	Richmond Park	Richmond Park		18.0056	-76.80464	A	ADM2	JM		08	15071			3882		54	America/Jamaica	2017-03-13
+11495245	Arcadia	Arcadia		18.24993	-77.79228	A	ADM2	JM		12	876			370		563	America/Jamaica	2017-03-13
+11495246	Cascade	Cascade		18.09377	-76.71223	A	ADM2	JM		07	444			523		946	America/Jamaica	2017-03-13
+11495247	Boucher Park	Boucher Park		18.00344	-76.81257	A	ADM2	JM		08	15065			6341		41	America/Jamaica	2017-03-13
+11495248	Glendevon	Glendevon		18.48488	-77.8971	A	ADM2	JM		12	820			16736		175	America/Jamaica	2017-03-13
+11495249	Cockburn Gardens	Cockburn Gardens	Cockburn Pen	18.00357	-76.82435	A	ADM2	JM		08	15057			12448		21	America/Jamaica	2023-10-17
+11495250	Woodford Park	Woodford Park		17.98712	-76.78117	A	ADM2	JM		08	15079			2657		58	America/Jamaica	2017-03-13
+11495251	Norman Gardens	Norman Gardens		17.97803	-76.7594	A	ADM2	JM		17	15090			2337		37	America/Jamaica	2017-03-13
+11495252	Majestic Gardens	Majestic Gardens		18.00023	-76.83295	A	ADM2	JM		08	15056			3065		9	America/Jamaica	2017-03-13
+11495253	Kencot	Kencot		18.00041	-76.79835	A	ADM2	JM		08	15072			5900		61	America/Jamaica	2017-03-13
+11495254	Maxfield Park	Maxfield Park		17.99937	-76.808	A	ADM2	JM		08	15070			4744		42	America/Jamaica	2017-03-13
+11495255	Cane River	Cane River		17.98098	-76.68624	A	ADM2	JM		08	15130			213		804	America/Jamaica	2017-03-13
+11495256	Delacree Pen	Delacree Pen		17.99579	-76.81709	A	ADM2	JM		08	15066			18129		24	America/Jamaica	2017-03-13
+11495257	Bito	Bito		17.97363	-76.66625	A	ADM2	JM		08	15129			375		663	America/Jamaica	2017-03-13
+11495258	Delacree Park - Union Gardens	Delacree Park - Union Gardens		17.9921	-76.8224	A	ADM2	JM		08	15067			3169		13	America/Jamaica	2023-10-26
+11495259	Whitfield Town	Whitfield Town		17.99212	-76.8091	A	ADM2	JM		08	15069			12197		35	America/Jamaica	2017-03-13
+11495260	Rollington Town	Rollington Town		17.97687	-76.76523	A	ADM2	JM		17	15092			6541		26	America/Jamaica	2017-03-13
+11495261	Mannings Hill - Rural	Mannings Hill - Rural		18.08169	-76.82328	A	ADM2	JM		08	15118			1952		418	America/Jamaica	2023-10-18
+11495262	Hermitage	Hermitage		17.98351	-76.74102	A	ADM2	JM		08	15002			5008		353	America/Jamaica	2017-03-13
+11495263	Trench Town	Trench Town		17.98743	-76.80118	A	ADM2	JM		08	15076			7043		39	America/Jamaica	2017-03-13
+11495264	Arnett Gardens	Arnett Gardens		17.9915	-76.79829	A	ADM2	JM		08	15073			10215		48	America/Jamaica	2017-03-13
+11495265	St. Leonards	St. Leonards	Saint Leonards	18.25533	-77.88889	A	ADM2	JM		16	1021			702		238	America/Jamaica	2023-08-12
+11495266	Rose Town	Rose Town		17.98697	-76.80726	A	ADM2	JM		08	15074			2599		25	America/Jamaica	2017-03-13
+11495267	Jones Town	Jones Town		17.98422	-76.79691	A	ADM2	JM		08	15077			9250		36	America/Jamaica	2017-03-13
+11495268	Wilton Gardens - Rema	Wilton Gardens - Rema		17.98287	-76.80422	A	ADM2	JM		08	15075			4832		25	America/Jamaica	2023-10-26
+11495269	Guys Hill - Part	Guys Hill - Part		18.26243	-76.99561	A	ADM2	JM		13	523			884		455	America/Jamaica	2023-10-02
+11495270	Allman Town	Allman Town		17.98297	-76.78685	A	ADM2	JM		17	15097			3541		48	America/Jamaica	2017-03-13
+11495271	Hannah Town - Craig Town	Hannah Town - Craig Town		17.97998	-76.7943	A	ADM2	JM		17	15100			3407		33	America/Jamaica	2023-10-25
+11495272	Campbell Town	Campbell Town		17.97914	-76.78134	A	ADM2	JM		17	15096			1443		36	America/Jamaica	2017-03-13
+11495273	D'Aguilar Town - Rennock Lodge	D'Aguilar Town - Rennock Lodge	Daguilar Town,Rennock Lodge	17.97001	-76.73701	A	ADM2	JM		17	15088			8345		166	America/Jamaica	2023-10-25
+11495274	Franklyn Town	Franklyn Town		17.97787	-76.77339	A	ADM2	JM		17	15095			4497		36	America/Jamaica	2017-03-13
+11495275	Newton Square	Newton Square		17.97352	-76.77207	A	ADM2	JM		17	15093			2357		25	America/Jamaica	2017-03-13
+11495276	Tivoli Gardens	Tivoli Gardens		17.97326	-76.8009	A	ADM2	JM		17	15102			4379		11	America/Jamaica	2017-03-13
+11495277	Passmore Town	Passmore Town		17.97301	-76.7765	A	ADM2	JM		17	15094			5961		23	America/Jamaica	2017-03-13
+11495278	Central Down Town	Central Down Town		17.96958	-76.79264	A	ADM2	JM		17	15106			2115		14	America/Jamaica	2017-03-13
+11495279	West Down Town	West Down Town		17.97294	-76.79704	A	ADM2	JM		17	15107			3222		15	America/Jamaica	2017-03-13
+11495280	East Down Town	East Down Town		17.97197	-76.78471	A	ADM2	JM		17	15104			10302		18	America/Jamaica	2017-03-13
+11495281	Llandilo	Llandilo		18.23439	-78.13895	A	ADM2	JM		16	1050			2305		8	America/Jamaica	2017-03-13
+11495282	Harbour View	Harbour View		17.95146	-76.71662	A	ADM2	JM		08	15084			8412		16	America/Jamaica	2017-03-13
+11495283	Rae Town	Rae Town		17.96773	-76.77965	A	ADM2	JM		17	15109			3727		10	America/Jamaica	2017-03-13
+11495284	Devon	Devon		18.16595	-77.52507	A	ADM2	JM		04	1210			1984		782	America/Jamaica	2017-03-13
+11495285	Golden Spring	Golden Spring		18.09446	-76.79727	A	ADM2	JM		08	15114			4612		366	America/Jamaica	2017-03-13
+11495286	Gordon Town	Gordon Town		18.03762	-76.72353	A	ADM2	JM		08	15125			3396		409	America/Jamaica	2017-03-13
+11495287	Elletson Flats - Mona Commons	Elletson Flats - Mona Commons		18.00945	-76.74034	A	ADM2	JM		08	15005			2532		182	America/Jamaica	2023-11-04
+11495288	Hope Tavern	Hope Tavern		18.01233	-76.73202	A	ADM2	JM		08	15008			1176		312	America/Jamaica	2017-03-13
+11495289	Kintyre	Kintyre		18.02133	-76.72688	A	ADM2	JM		08	15007			1609		343	America/Jamaica	2017-03-13
+11495290	Dallas	Dallas		17.98463	-76.71256	A	ADM2	JM		08	15127			2560		627	America/Jamaica	2017-03-13
+11495291	August Town	August Town		17.99556	-76.73673	A	ADM2	JM		08	15001			6971		132	America/Jamaica	2017-03-13
+11495292	Butt-Up	Butt-Up		17.97313	-77.57777	A	ADM2	JM		04	1259			597		281	America/Jamaica	2017-03-13
+11495293	Town Head	Town Head		18.33898	-78.13569	A	ADM2	JM		16	1004			573		157	America/Jamaica	2017-03-13
+11495294	Porters Mountain	Porters Mountain		18.32909	-78.0491	A	ADM2	JM		16	1012			684		309	America/Jamaica	2017-03-13
+11495295	Bath Mountain	Bath Mountain		18.34428	-78.09928	A	ADM2	JM		16	1007			874		131	America/Jamaica	2017-03-13
+11495296	Truro	Truro		18.31301	-78.15489	A	ADM2	JM		16	1003			2027		6	America/Jamaica	2017-03-13
+11495297	Grange	Grange		18.33161	-78.08036	A	ADM2	JM		16	1008			668		111	America/Jamaica	2017-03-13
+11495298	Comfort	Comfort		18.0539	-77.42477	A	ADM2	JM		04	1230			1259		388	America/Jamaica	2017-03-13
+11495299	Jerusalem	Jerusalem		18.32458	-78.21563	A	ADM2	JM		16	1001			217		37	America/Jamaica	2017-03-13
+11495300	Delveland	Delveland		18.29709	-78.23962	A	ADM2	JM		16	1038			2464		206	America/Jamaica	2017-03-13
+11495301	Red Hills	Red Hills		18.3055	-78.1128	A	ADM2	JM		16	1006			897		43	America/Jamaica	2017-03-13
+11495302	Georges Plain	Georges Plain		18.2765	-78.13118	A	ADM2	JM		16	1034			2405		15	America/Jamaica	2017-03-13
+11495303	Burnt Savanna	Burnt Savanna	Burnt Savannah	18.31676	-78.12628	A	ADM2	JM		16	1005			3758		37	America/Jamaica	2023-08-23
+11495304	Mackfield	Mackfield	Macfield,Maxfield,McField	18.31163	-78.02471	A	ADM2	JM		16	1014			487		260	America/Jamaica	2023-08-26
+11495305	Fort Williams	Fort Williams		18.29834	-78.06331	A	ADM2	JM		16	1011			984		78	America/Jamaica	2017-03-13
+11495306	Fullersfield	Fullersfield		18.2989	-78.19976	A	ADM2	JM		16	1037			1655		14	America/Jamaica	2017-03-13
+11495307	Strawberry	Strawberry		18.30676	-78.08945	A	ADM2	JM		16	1009			1829		44	America/Jamaica	2017-03-13
+11495308	Mount Stewart	Mount Stewart		18.30411	-77.99274	A	ADM2	JM		16	1016			988		404	America/Jamaica	2017-03-13
+11495309	Roaring River	Roaring River		18.30118	-78.04324	A	ADM2	JM		16	1013			584		266	America/Jamaica	2017-03-13
+11495310	Sheffield	Sheffield		18.28412	-78.29169	A	ADM2	JM		16	1039			2963		10	America/Jamaica	2023-08-24
+11495311	Grange Hill	Grange Hill		18.33083	-78.18398	A	ADM2	JM		16	1002			9703		29	America/Jamaica	2017-03-13
+11495312	Haddo	Haddo		18.28606	-78.01893	A	ADM2	JM		16	1015			1148		326	America/Jamaica	2017-03-13
+11495313	Barneyside	Barneyside		18.2767	-77.96964	A	ADM2	JM		16	1018			1182		396	America/Jamaica	2017-03-13
+11495314	Paul Island	Paul Island		18.272	-78.18614	A	ADM2	JM		16	1036			770		10	America/Jamaica	2017-03-13
+11495315	Amity	Amity		18.24822	-78.09409	A	ADM2	JM		16	1063			975		24	America/Jamaica	2017-03-13
+11495316	Hertford	Hertford		18.27181	-78.09078	A	ADM2	JM		16	1033			3640		41	America/Jamaica	2017-03-13
+11495317	Bath	Bath		18.25734	-78.11751	A	ADM2	JM		16	1062			1038		21	America/Jamaica	2017-03-13
+11495318	Lambs River	Lambs River		18.26823	-77.91414	A	ADM2	JM		16	1024			527		203	America/Jamaica	2017-03-13
+11495319	Struie	Struie		18.25317	-77.95656	A	ADM2	JM		16	1027			280		406	America/Jamaica	2017-03-13
+11495320	Petersfield	Petersfield		18.26588	-78.05755	A	ADM2	JM		16	1032			4216		54	America/Jamaica	2017-03-13
+11495321	Evergreen	Evergreen		18.15096	-77.59965	A	ADM2	JM		04	1219			529		372	America/Jamaica	2017-03-13
+11495322	Richmond	Richmond		18.0256	-77.46337	A	ADM2	JM		04	1250			1870		577	America/Jamaica	2017-03-13
+11495323	Caledonia	Caledonia		18.25866	-78.01173	A	ADM2	JM		16	1030			1701		466	America/Jamaica	2017-03-13
+11495324	Mount Airy	Mount Airy		18.24738	-78.32279	A	ADM2	JM		16	1041			1310		133	America/Jamaica	2017-03-13
+11495325	Revival	Revival		18.24255	-78.28437	A	ADM2	JM		16	1043			1067		112	America/Jamaica	2017-03-13
+11495326	Ferris	Ferris		18.22265	-78.05588	A	ADM2	JM		16	1065			778		134	America/Jamaica	2017-03-13
+11495327	Amity (Hermitage)	Amity (Hermitage)	Amity - Hermitage	18.27361	-77.89805	A	ADM2	JM		16	1020			1225		198	America/Jamaica	2023-08-23
+11495328	Shoalin Grotto	Shoalin Grotto		18.22059	-78.14019	A	ADM2	JM		16	1052			2731		2	America/Jamaica	2017-03-13
+11495329	Belvedere	Belvedere		18.25219	-77.93208	A	ADM2	JM		16	1025			1196		376	America/Jamaica	2017-03-13
+11495330	Seaford Town	Seaford Town		18.24339	-77.90504	A	ADM2	JM		16	1023			893		233	America/Jamaica	2017-03-13
+11495331	Cedar Grove	Cedar Grove		18.01225	-77.4963	A	ADM2	JM		04	1253			2935		683	America/Jamaica	2017-03-13
+11495332	Orange Hill	Orange Hill		18.23418	-78.30277	A	ADM2	JM		16	1042			464		56	America/Jamaica	2017-03-13
+11495333	Savanna-la-mar Business Dist.	Savanna-la-mar Business Dist.	Savanna la mar Business Dist.,Savanna-la-mar Business District,Savannah-la-mar Business District	18.21962	-78.13034	A	ADM2	JM		16	1057			4510		7	America/Jamaica	2023-08-26
+11495334	Portland Cottage	Portland Cottage		17.7462	-77.18772	A	ADM2	JM		01	1382			2665		129	America/Jamaica	2017-03-13
+11495335	Richmond Park	Richmond Park		18.05172	-77.37642	A	ADM2	JM		01	1337			1571		499	America/Jamaica	2017-03-13
+11495336	Ashton	Ashton		18.23139	-77.92074	A	ADM2	JM		16	1026			951		425	America/Jamaica	2017-03-13
+11495337	Cairn Curran	Cairn Curran		18.2284	-78.0113	A	ADM2	JM		16	1067			406		531	America/Jamaica	2017-03-13
+11495338	Beaufort	Beaufort		18.23417	-77.95007	A	ADM2	JM		16	1028			113		334	America/Jamaica	2017-03-13
+11495339	Strathbogie	Strathbogie		18.23855	-78.11714	A	ADM2	JM		16	1061			2162		16	America/Jamaica	2017-03-13
+11495340	Broughton	Broughton		18.21747	-78.22894	A	ADM2	JM		16	1045			2434		10	America/Jamaica	2017-03-13
+11495341	Lennox Bigwoods	Lennox Bigwoods	Lenox Bigwoods	18.21392	-77.97214	A	ADM2	JM		16	1070			1066		421	America/Jamaica	2023-12-05
+11495342	Leamington	Leamington		18.21352	-77.92743	A	ADM2	JM		16	1072			381		503	America/Jamaica	2017-03-13
+11495343	Dundee	Dundee		18.23679	-77.88698	A	ADM2	JM		16	1022			456		221	America/Jamaica	2017-03-13
+11495344	Banana Ground - Part of	Banana Ground - Part of	Part of Banana Ground	18.07912	-77.42134	A	ADM2	JM		04	1229			502		923	America/Jamaica	2023-07-22
+11495345	Enfield	Enfield		18.21404	-77.9527	A	ADM2	JM		16	1071			534		343	America/Jamaica	2017-03-13
+11495346	Porus	Porus		18.05202	-77.40007	A	ADM2	JM		01	1336			486		575	America/Jamaica	2017-03-13
+11495347	Pleasant Valley	Pleasant Valley		18.01101	-77.29027	A	ADM2	JM		01	1342			1501		140	America/Jamaica	2017-03-13
+11495348	New Longville	New Longville	New Long Ville,New Longsville,New Longville	18.03072	-77.23048	A	ADM2	JM		01	1346			970		272	America/Jamaica	2023-12-24
+11495349	Brixton Hill	Brixton Hill		18.02039	-77.31744	A	ADM2	JM		01	1341			1783		286	America/Jamaica	2017-03-13
+11495350	Moores	Moores		18.02926	-77.1854	A	ADM2	JM		01	1347			1047		402	America/Jamaica	2017-03-13
+11495351	Ashley	Ashley		18.0144	-77.34019	A	ADM2	JM		01	1340			2684		345	America/Jamaica	2017-03-13
+11495354	Alligator Pond	Alligator Pond		17.88369	-77.56068	A	ADM2	JM		04	1269			2631		84	America/Jamaica	2017-03-13
+11495355	Aboukir	Aboukir		18.2509	-77.34327	A	ADM2	JM		09	648			1610		707	America/Jamaica	2017-03-13
+11495356	Above Rocks	Above Rocks		18.11432	-76.8759	A	ADM2	JM		10	1411			4079		250	America/Jamaica	2017-03-13
+11495357	Accompong	Accompong		18.22985	-77.74816	A	ADM2	JM		11	1108			1114		430	America/Jamaica	2017-03-13
+11495358	Adelphi	Adelphi		18.4506	-77.7859	A	ADM2	JM		12	824			1921		164	America/Jamaica	2017-03-13
+11495359	Mansfield	Mansfield		18.40265	-77.09488	A	ADM2	JM		09	612			3023		38	America/Jamaica	2017-03-13
+11495360	Airy Castle	Airy Castle		17.92506	-76.34216	A	ADM2	JM		14	325			1921		113	America/Jamaica	2017-03-13
+11495361	Albion	Albion		18.48471	-77.91408	A	ADM2	JM		12	817			4775		90	America/Jamaica	2017-03-13
+11495362	Alley	Alley	The Alley	17.79036	-77.27085	A	ADM2	JM		01	1379			1050		4	America/Jamaica	2023-07-14
+11495363	Albion	Albion		17.90119	-76.60761	A	ADM2	JM		14	340			1915		153	America/Jamaica	2017-03-13
+11495364	Barbary Hall	Barbary Hall		17.968	-77.77961	A	ADM2	JM		11	1140			866		26	America/Jamaica	2017-03-13
+11495365	Annotto Bay	Annotto Bay		18.26497	-76.76697	A	ADM2	JM		13	534			5669		7	America/Jamaica	2017-03-13
+11495366	Berkshire	Berkshire		18.21293	-77.90373	A	ADM2	JM		16	1073			870		478	America/Jamaica	2017-03-13
+11495367	Alps	Alps		18.35498	-77.50897	A	ADM2	JM		15	723			478		333	America/Jamaica	2017-03-13
+11495368	Middleton	Middleton		17.93971	-76.43558	A	ADM2	JM		14	329			295		228	America/Jamaica	2017-03-15
+11495369	Amiel Town	Amiel Town		18.34027	-76.97612	A	ADM2	JM		13	517			1223		344	America/Jamaica	2017-03-13
+11495370	Anchovy	Anchovy		18.41198	-77.95046	A	ADM2	JM		12	854			3516		244	America/Jamaica	2017-03-13
+11495371	Barrett Town	Barrett Town		18.50871	-77.79625	A	ADM2	JM		12	805			2017		141	America/Jamaica	2017-03-13
+11495372	Arcadia	Arcadia		17.9223	-76.3003	A	ADM2	JM		14	323			766		77	America/Jamaica	2017-03-13
+11495373	Auchtembeddie	Auchtembeddie		18.22543	-77.60361	A	ADM2	JM		04	1201			2136		525	America/Jamaica	2017-03-13
+11495374	Baileys Vale	Baileys Vale	Bailey's Vale	18.34527	-76.92593	A	ADM2	JM		13	513			2083		78	America/Jamaica	2023-08-22
+11495375	Balcarres	Balcarres		18.16735	-76.72061	A	ADM2	JM		07	442			819		570	America/Jamaica	2017-03-13
+11495376	Balaclava	Balaclava		18.17812	-77.6515	A	ADM2	JM		11	1110			4321		243	America/Jamaica	2017-03-13
+11495377	Bartons	Bartons		18.02895	-77.13322	A	ADM2	JM		10	1428			2676		362	America/Jamaica	2017-03-13
+11495378	Bellas Gate	Bellas Gate		18.04715	-77.14906	A	ADM2	JM		10	1427			658		477	America/Jamaica	2017-03-13
+11495379	Bath	Bath		17.9573	-76.34616	A	ADM2	JM		14	313			1965		206	America/Jamaica	2017-03-13
+11495380	Bellefield	Bellefield		18.09266	-77.44004	A	ADM2	JM		04	1228			1552		754	America/Jamaica	2017-03-13
+11495381	Baxter Mountain	Baxter Mountain		18.20405	-76.77198	A	ADM2	JM		13	542			466		206	America/Jamaica	2017-03-13
+11495382	Beeston Spring	Beeston Spring		18.16012	-77.97545	A	ADM2	JM		16	1080			1173		548	America/Jamaica	2017-03-13
+11495383	Bensonton	Bensonton		18.22315	-77.20861	A	ADM2	JM		09	651			2655		571	America/Jamaica	2017-03-13
+11495384	Bethany	Bethany		18.15373	-77.55032	A	ADM2	JM		04	1216			1013		562	America/Jamaica	2017-03-13
+11495385	Bethel	Bethel		17.98527	-76.5805	A	ADM2	JM		14	304			716		675	America/Jamaica	2017-03-13
+11495386	Bickersteth	Bickersteth		18.36335	-77.93651	A	ADM2	JM		12	869			496		131	America/Jamaica	2017-03-13
+11495387	Bohemia	Bohemia		18.21239	-77.46954	A	ADM2	JM		09	643			2254		750	America/Jamaica	2017-03-13
+11495388	Blue Mountain	Blue Mountain		18.07095	-77.4284	A	ADM2	JM		04	1231			1344		655	America/Jamaica	2023-10-01
+11495389	Bog	Bog		18.15631	-77.94364	A	ADM2	JM		16	1081			647		368	America/Jamaica	2017-03-13
+11495390	Black Hill	Black Hill		18.21786	-76.59758	A	ADM2	JM		07	406			1919		99	America/Jamaica	2017-03-13
+11495391	Bounty Hall	Bounty Hall		18.45801	-77.71663	A	ADM2	JM		15	712			1397		148	America/Jamaica	2017-03-13
+11495392	Brandon Hill	Brandon Hill		18.47767	-77.91117	A	ADM2	JM		12	819			260		75	America/Jamaica	2017-03-13
+11495393	Brampton	Brampton		18.44262	-77.46424	A	ADM2	JM		15	705			411		181	America/Jamaica	2017-03-13
+11495394	Newell	Newell		17.92103	-77.74653	A	ADM2	JM		11	1154			814		76	America/Jamaica	2017-03-13
+11495395	Boundbrook	Boundbrook		18.17573	-76.47079	A	ADM2	JM		07	413			2933		120	America/Jamaica	2017-03-13
+11495396	Broadgate	Broadgate		18.22847	-76.80788	A	ADM2	JM		13	536			1210		281	America/Jamaica	2017-03-13
+11495397	Brompton	Brompton		18.06795	-77.88821	A	ADM2	JM		11	1123			2788		32	America/Jamaica	2017-03-13
+11495398	Bull Savannah	Bull Savannah	Bull Savanna	17.88056	-77.59	A	ADM2	JM		11	1161			3008		267	America/Jamaica	2023-09-14
+11495399	Burnt Savannah	Burnt Savannah		18.03177	-77.74936	A	ADM2	JM		11	1136			3243		209	America/Jamaica	2017-03-13
+11495400	Catherine Hall	Catherine Hall		18.46258	-77.92286	A	ADM2	JM		12	835			1891		2	America/Jamaica	2017-03-13
+11495401	Cacoon	Cacoon		18.41642	-78.2073	A	ADM2	JM		02	903			1459		73	America/Jamaica	2017-03-13
+11495402	Canterbury	Canterbury		18.47919	-77.91655	A	ADM2	JM		12	818			1427		67	America/Jamaica	2017-03-13
+11495403	Carisbrook	Carisbrook		18.14742	-77.77367	A	ADM2	JM		11	1115			1475		365	America/Jamaica	2017-03-13
+11495404	Carmel	Carmel		18.17326	-77.93929	A	ADM2	JM		16	1075			403		406	America/Jamaica	2017-03-13
+11495405	Cash Hill	Cash Hill		18.3692	-78.10938	A	ADM2	JM		02	922			713		254	America/Jamaica	2017-03-13
+11495406	Cauldwell	Cauldwell		18.38583	-78.2411	A	ADM2	JM		02	930			1568		55	America/Jamaica	2017-03-13
+11495407	Cedar Valley	Cedar Valley		18.02815	-76.59556	A	ADM2	JM		14	303			522		1416	America/Jamaica	2017-03-13
+11495408	Castle Comfort	Castle Comfort		18.14217	-76.34634	A	ADM2	JM		07	421			583		86	America/Jamaica	2017-03-13
+11495409	Chambers Pen	Chambers Pen		18.4052	-78.15975	A	ADM2	JM		02	925			806		43	America/Jamaica	2017-03-13
+11495410	Chantilly	Chantilly		18.10447	-77.46625	A	ADM2	JM		04	1226			3198		684	America/Jamaica	2017-03-13
+11495411	Charles Town	Charles Town		18.38918	-77.03978	A	ADM2	JM		13	502			1947		269	America/Jamaica	2017-03-13
+11495412	Comfort Hall	Comfort Hall		18.4127	-77.91814	A	ADM2	JM		12	847			1135		271	America/Jamaica	2017-03-13
+11495413	Chester	Chester		18.44786	-77.26503	A	ADM2	JM		09	604			528		139	America/Jamaica	2017-03-13
+11495414	Content	Content		18.07444	-77.45116	A	ADM2	JM		04	1232			806		586	America/Jamaica	2017-03-13
+11495415	Christiana	Christiana		18.18015	-77.49045	A	ADM2	JM		04	1211			7953		779	America/Jamaica	2017-03-13
+11495416	Cornwall	Cornwall		18.4893	-77.81016	A	ADM2	JM		12	811			406		351	America/Jamaica	2017-03-13
+11495417	Chudleigh	Chudleigh		18.15148	-77.50707	A	ADM2	JM		04	1215			3378		847	America/Jamaica	2017-03-13
+11495418	Chateau	Chateau		17.98972	-77.18737	A	ADM2	JM		01	1348			2717		118	America/Jamaica	2017-03-13
+11495419	Clarks Town	Clarks Town		18.42244	-77.53328	A	ADM2	JM		15	719			4754		216	America/Jamaica	2017-03-13
+11495420	Cobbla	Cobbla		18.1406	-77.46998	A	ADM2	JM		04	1214			3431		805	America/Jamaica	2017-03-13
+11495421	Cole Gate	Cole Gate		18.37967	-77.08518	A	ADM2	JM		09	633			2672		245	America/Jamaica	2017-03-13
+11495422	Greenvale	Greenvale		18.03928	-77.53239	A	ADM2	JM		04	1241			9121		716	America/Jamaica	2017-03-13
+11495423	Comfort Hall	Comfort Hall		18.18789	-77.61041	A	ADM2	JM		04	1207			1989		262	America/Jamaica	2017-03-13
+11495424	Cockpit	Cockpit		17.88872	-77.15835	A	ADM2	JM		01	1370			389		56	America/Jamaica	2017-03-13
+11495425	Coral Gardens	Coral Gardens		18.50791	-77.88034	A	ADM2	JM		12	802			676		44	America/Jamaica	2017-03-13
+11495426	Cotterwood	Cotterwood		18.09492	-77.91553	A	ADM2	JM		11	1121			1117		156	America/Jamaica	2017-03-13
+11495427	Cousins Cove	Cousins Cove		18.42425	-78.23752	A	ADM2	JM		02	901			1454		61	America/Jamaica	2017-03-13
+11495428	Craig Head	Craig Head		18.23658	-77.56295	A	ADM2	JM		04	1202			3082		778	America/Jamaica	2017-03-13
+11495429	Cross Keys	Cross Keys		17.90727	-77.50111	A	ADM2	JM		04	1271			1840		657	America/Jamaica	2017-03-13
+11495430	Copse	Copse		18.39466	-77.97678	A	ADM2	JM		02	912			733		210	America/Jamaica	2017-03-13
+11495431	Cuffie Ridge	Cuffie Ridge		18.22793	-77.42054	A	ADM2	JM		09	646			1316		632	America/Jamaica	2017-03-13
+11495432	Cumberland	Cumberland		17.9765	-76.88208	A	ADM2	JM		10	1446			7792		10	America/Jamaica	2017-03-13
+11495433	Downs	Downs		17.95004	-77.57313	A	ADM2	JM		04	1260			2103		260	America/Jamaica	2017-03-13
+11495434	Dalvey	Dalvey		17.90241	-76.25001	A	ADM2	JM		14	356			3446		21	America/Jamaica	2017-03-13
+11495435	Daniel Town	Daniel Town		18.46395	-77.61592	A	ADM2	JM		15	709			1034		138	America/Jamaica	2017-03-13
+11495436	Danvers Pen	Danvers Pen		17.9288	-76.47586	A	ADM2	JM		14	331			1560		84	America/Jamaica	2017-03-13
+11495437	Deeside	Deeside		18.35976	-77.73721	A	ADM2	JM		15	726			2188		302	America/Jamaica	2017-03-13
+11495438	Devon Pen	Devon Pen		18.21561	-76.8244	A	ADM2	JM		13	537			75		221	America/Jamaica	2017-03-13
+11495439	Dias	Dias		18.39379	-78.18562	A	ADM2	JM		02	926			2260		153	America/Jamaica	2017-03-13
+11495440	DeLeon Bigwoods	DeLeon Bigwoods	De Leon Bigwoods,Deleon Bigwoods,Dilion Bigwoods,Dillion Bigwoods	18.20944	-77.99078	A	ADM2	JM		16	1069			775		553	America/Jamaica	2023-08-25
+11495441	Dover	Dover		18.25534	-76.70811	A	ADM2	JM		13	546			483		140	America/Jamaica	2017-03-13
+11495442	Free Hill	Free Hill		18.35439	-76.94317	A	ADM2	JM		13	514			1057		145	America/Jamaica	2017-03-13
+11495443	Duanvale	Duanvale		18.40267	-77.59615	A	ADM2	JM		15	717			1882		159	America/Jamaica	2017-03-13
+11495444	Duhaney Pen	Duhaney Pen		17.89402	-76.43193	A	ADM2	JM		14	346			2062		26	America/Jamaica	2017-03-13
+11495445	Down Town Montego Bay	Down Town Montego Bay		18.47726	-77.92031	A	ADM2	JM		12	816			5494		24	America/Jamaica	2017-03-13
+11495446	Elderslie	Elderslie		18.22416	-77.79381	A	ADM2	JM		11	1106			1620		492	America/Jamaica	2017-03-13
+11495447	Eleven Miles	Eleven Miles	Eleven Mile	17.93745	-76.64337	A	ADM2	JM		14	339			1585		96	America/Jamaica	2023-08-22
+11495448	Durham	Durham		18.08566	-76.51562	A	ADM2	JM		07	433			573		349	America/Jamaica	2017-03-13
+11495449	Effortville	Effortville		17.9927	-77.2186	A	ADM2	JM		01	1349			5888		123	America/Jamaica	2017-03-13
+11495450	Enfield	Enfield		18.22036	-76.73745	A	ADM2	JM		13	544			2665		54	America/Jamaica	2017-03-13
+11495451	Epsom	Epsom	Epsom	18.2522	-76.72641	A	ADM2	JM		13	545			962		17	America/Jamaica	2023-06-09
+11495452	Ellen Street	Ellen Street		17.96796	-77.43931	A	ADM2	JM		04	1248			653		524	America/Jamaica	2017-03-13
+11495453	Epworth	Epworth		18.36083	-77.13342	A	ADM2	JM		09	617			898		544	America/Jamaica	2017-03-13
+11495454	Long Road	Long Road		18.21337	-76.75009	A	ADM2	JM		13	543			571		253	America/Jamaica	2017-03-13
+11495455	Lottery	Lottery		18.41499	-77.80696	A	ADM2	JM		12	827			2704		191	America/Jamaica	2017-03-13
+11495456	Exchange	Exchange		18.37265	-77.06572	A	ADM2	JM		09	610			10913		271	America/Jamaica	2017-03-13
+11495457	Fairfield	Fairfield		18.45079	-77.91235	A	ADM2	JM		12	837			531		35	America/Jamaica	2017-03-13
+11495458	Faith's Pen	Faith's Pen		18.22963	-77.08804	A	ADM2	JM		09	653			762		512	America/Jamaica	2017-03-13
+11495459	Farm Heights	Farm Heights		18.46869	-77.8776	A	ADM2	JM		12	831			104		175	America/Jamaica	2017-03-13
+11495460	Flagstaff	Flagstaff		18.35412	-77.77132	A	ADM2	JM		12	862			1071		394	America/Jamaica	2017-03-13
+11495461	Flamstead	Flamstead		18.31409	-77.81316	A	ADM2	JM		12	866			1510		497	America/Jamaica	2017-03-13
+11495462	Fellowship	Fellowship		18.12783	-76.47202	A	ADM2	JM		07	432			1891		180	America/Jamaica	2017-03-13
+11495463	Garlands	Garlands		18.27811	-77.78908	A	ADM2	JM		12	875			534		438	America/Jamaica	2017-03-13
+11495464	Flint River	Flint River		18.2379	-76.92173	A	ADM2	JM		13	527			1010		224	America/Jamaica	2017-03-13
+11495465	Font Hill	Font Hill		17.94055	-76.51169	A	ADM2	JM		14	332			954		233	America/Jamaica	2017-03-13
+11495466	Freemans Hall	Freemans Hall		18.28384	-77.5018	A	ADM2	JM		15	734			577		645	America/Jamaica	2017-03-13
+11495467	French Park	French Park		17.95572	-77.54471	A	ADM2	JM		04	1261			1287		723	America/Jamaica	2017-03-13
+11495468	Friendship	Friendship		18.4459	-77.86242	A	ADM2	JM		12	843			465		108	America/Jamaica	2017-03-15
+11495469	Friendship Gap	Friendship Gap		18.19719	-76.8196	A	ADM2	JM		13	538			328		310	America/Jamaica	2017-03-13
+11495470	Freetown	Freetown		17.92192	-77.14781	A	ADM2	JM		01	1367			462		28	America/Jamaica	2017-03-13
+11495471	Fullerswood	Fullerswood		18.01527	-77.77572	A	ADM2	JM		11	1137			1470		-2	America/Jamaica	2017-03-13
+11495472	Galina	Galina		18.40265	-76.90041	A	ADM2	JM		13	509			2170		96	America/Jamaica	2017-03-13
+11495473	Ginger Ridge	Ginger Ridge		18.07688	-77.16865	A	ADM2	JM		10	1426			1856		500	America/Jamaica	2017-03-13
+11495474	Glengoffe	Glengoffe		18.15214	-76.89057	A	ADM2	JM		10	1410			4465		302	America/Jamaica	2017-03-13
+11495475	Golden Grove	Golden Grove		17.92246	-76.27338	A	ADM2	JM		14	321			268		63	America/Jamaica	2017-03-13
+11495476	Granville	Granville		18.44191	-77.89402	A	ADM2	JM		12	845			5699		94	America/Jamaica	2017-03-13
+11495477	Goodwill	Goodwill		18.4695	-77.75646	A	ADM2	JM		12	809			1584		153	America/Jamaica	2017-03-13
+11495478	Great Pond	Great Pond		18.40227	-77.08511	A	ADM2	JM		09	611			2046		80	America/Jamaica	2017-03-13
+11495479	Great Valley	Great Valley		18.41169	-78.05023	A	ADM2	JM		02	918			1542		297	America/Jamaica	2017-03-13
+11495480	Gravel Hill	Gravel Hill		17.90968	-77.33354	A	ADM2	JM		01	1359			738		28	America/Jamaica	2017-03-13
+11495481	Greendale	Greendale		18.01251	-76.94831	A	ADM2	JM		10	1419			11832		62	America/Jamaica	2017-03-13
+11495482	Green Pond	Green Pond		18.47361	-77.87779	A	ADM2	JM		12	822			1301		167	America/Jamaica	2017-03-13
+11495483	Greenwood	Greenwood		18.49768	-77.75243	A	ADM2	JM		12	807			1723		168	America/Jamaica	2017-03-13
+11495484	Grove Place	Grove Place		18.10467	-77.52923	A	ADM2	JM		04	1223			1291		571	America/Jamaica	2017-03-13
+11495485	Grove Town	Grove Town		17.88606	-77.45882	A	ADM2	JM		04	1272			3177		367	America/Jamaica	2017-03-13
+11495486	Haddington	Haddington		18.42043	-78.00383	A	ADM2	JM		02	911			2096		249	America/Jamaica	2017-03-13
+11495487	Hagley Gap	Hagley Gap		18.04845	-76.62777	A	ADM2	JM		14	301			1666		1062	America/Jamaica	2017-03-13
+11495488	Hampstead	Hampstead	Khehmpsted,Хэмпстед	18.32051	-76.90477	A	ADM2	JM		13	512			1327		82	America/Jamaica	2019-03-26
+11495489	Joe Hut	Joe Hut		18.26742	-77.49616	A	ADM2	JM		15	735			532		774	America/Jamaica	2017-03-13
+11495490	Kilmarnoch	Kilmarnoch	Kilmarnock	18.12407	-77.92774	A	ADM2	JM		16	1082			384		551	America/Jamaica	2023-08-28
+11495491	Harewood	Harewood		18.17277	-76.94395	A	ADM2	JM		10	1409			1900		195	America/Jamaica	2017-03-15
+11495492	Harmons	Harmons		17.98171	-77.41208	A	ADM2	JM		04	1247			1765		241	America/Jamaica	2017-03-13
+11495493	Harry Watch	Harry Watch		18.17314	-77.57611	A	ADM2	JM		04	1208			1555		573	America/Jamaica	2017-03-13
+11495494	Hatfield	Hatfield		18.01557	-77.54009	A	ADM2	JM		04	1256			3557		728	America/Jamaica	2017-03-13
+11495495	Hopeton	Hopeton		17.95626	-77.66239	A	ADM2	JM		11	1144			307		430	America/Jamaica	2017-03-13
+11495496	Hibernia	Hibernia		18.17575	-77.5483	A	ADM2	JM		04	1209			1555		783	America/Jamaica	2017-03-13
+11495497	Leith Hall	Leith Hall		17.87973	-76.34331	A	ADM2	JM		14	353			721		42	America/Jamaica	2017-03-13
+11495498	Hinds Town	Hinds Town		18.35425	-77.09812	A	ADM2	JM		09	632			723		484	America/Jamaica	2017-03-13
+11495499	Hopeton	Hopeton		18.39858	-77.86826	A	ADM2	JM		12	859			3146		454	America/Jamaica	2017-03-13
+11495500	Hopewell	Hopewell		18.44321	-78.02636	A	ADM2	JM		02	908			5972		148	America/Jamaica	2017-03-13
+11495501	Huntley	Huntley		18.06647	-77.58171	A	ADM2	JM		04	1237			2274		934	America/Jamaica	2017-03-13
+11495502	James Hill	James Hill		18.1875	-77.337	A	ADM2	JM		01	1307			5769		554	America/Jamaica	2017-03-13
+11495503	Independence City	Independence City		17.97783	-76.87498	A	ADM2	JM		10	1445			8574		7	America/Jamaica	2017-03-13
+11495504	Inverness	Inverness		18.27531	-77.36862	A	ADM2	JM		09	638			1424		642	America/Jamaica	2017-03-13
+11495505	Ironshore	Ironshore		18.51323	-77.85108	A	ADM2	JM		12	803			1933		81	America/Jamaica	2017-03-13
+11495506	Irwin	Irwin		18.44949	-77.87722	A	ADM2	JM		12	842			89		75	America/Jamaica	2017-03-13
+11495507	Jacks River	Jacks River		18.3722	-76.94101	A	ADM2	JM		13	507			1627		39	America/Jamaica	2017-03-13
+11495508	Jeffrey Town	Jeffrey Town	Jeffery Town	18.28956	-77.00343	A	ADM2	JM		13	522			2016		429	America/Jamaica	2023-07-21
+11495509	Johns Town	Johns Town		17.89659	-76.36136	A	ADM2	JM		14	350			380		181	America/Jamaica	2017-03-13
+11495510	Jones Pen	Jones Pen		17.95068	-76.54775	A	ADM2	JM		14	334			1649		699	America/Jamaica	2017-03-13
+11495511	Junction	Junction		17.91467	-77.59894	A	ADM2	JM		11	1149			6739		329	America/Jamaica	2017-03-13
+11495512	Kendal	Kendal		18.36287	-78.2272	A	ADM2	JM		02	928			1489		64	America/Jamaica	2017-03-13
+11495513	Kendal	Kendal		18.08318	-77.5032	A	ADM2	JM		04	1234			1220		511	America/Jamaica	2017-03-13
+11495514	Kentucky	Kentucky		18.19931	-78.01767	A	ADM2	JM		16	1068			522		718	America/Jamaica	2017-03-13
+11495515	Keystone	Keystone	Keystone South	18.01652	-76.93525	A	ADM2	JM		10	1417			3460		75	America/Jamaica	2023-10-07
+11495516	Kingsvale	Kingsvale		18.38087	-78.20523	A	ADM2	JM		02	927			2477		98	America/Jamaica	2017-03-13
+11495517	Kinloss	Kinloss		18.39641	-77.56968	A	ADM2	JM		15	718			1542		349	America/Jamaica	2017-03-13
+11495518	Knockpatrick	Knockpatrick		17.99027	-77.4927	A	ADM2	JM		04	1254			2013		674	America/Jamaica	2017-03-13
+11495519	Labyrinth	Labyrinth		18.34419	-77.03227	A	ADM2	JM		13	519			1287		327	America/Jamaica	2017-03-13
+11495520	Lititz	Lititz		17.94033	-77.59511	A	ADM2	JM		11	1148			1246		229	America/Jamaica	2017-03-13
+11495521	Lancaster	Lancaster		17.93603	-77.46134	A	ADM2	JM		04	1265			1492		597	America/Jamaica	2017-03-13
+11495522	Lances Bay	Lances Bay		18.43819	-78.21442	A	ADM2	JM		02	902			1376		133	America/Jamaica	2017-03-13
+11495523	Logwood	Logwood		18.34878	-78.2962	A	ADM2	JM		02	935			1562		13	America/Jamaica	2017-03-13
+11495524	Leeds	Leeds		18.01399	-77.68374	A	ADM2	JM		11	1133			3621		124	America/Jamaica	2017-03-13
+11495525	Lilliput	Lilliput		18.50591	-77.77686	A	ADM2	JM		12	806			6055		141	America/Jamaica	2017-03-13
+11495526	Lionel Town	Lionel Town		17.81212	-77.234	A	ADM2	JM		01	1380			3567		12	America/Jamaica	2017-03-13
+11495527	Litchfield	Litchfield		18.13502	-77.52448	A	ADM2	JM		04	1217			1205		589	America/Jamaica	2017-03-13
+11495528	Llandewey	Llandewey		17.94477	-76.62245	A	ADM2	JM		14	338			513		454	America/Jamaica	2017-03-13
+11495529	Lluidas Vale	Lluidas Vale		18.14977	-77.16853	A	ADM2	JM		10	1401			5689		418	America/Jamaica	2017-03-13
+11495530	Lucky Hill	Lucky Hill		18.30252	-77.01678	A	ADM2	JM		13	520			1210		387	America/Jamaica	2017-03-13
+11495531	Long Bay	Long Bay		18.08581	-76.32515	A	ADM2	JM		07	424			1738		257	America/Jamaica	2017-03-13
+11495532	Longville Park	Longville Park		17.91188	-77.15983	A	ADM2	JM		01	1369			1784		60	America/Jamaica	2017-03-13
+11495533	Longwood	Longwood		17.80754	-77.28728	A	ADM2	JM		01	1378			1089		8	America/Jamaica	2017-03-13
+11495534	Madras	Madras		18.29112	-77.44875	A	ADM2	JM		09	641			1488		608	America/Jamaica	2017-03-13
+11495535	Lorrimers	Lorrimers		18.23026	-77.49207	A	ADM2	JM		15	738			3507		786	America/Jamaica	2017-03-13
+11495536	Lyssons	Lyssons		17.88708	-76.37961	A	ADM2	JM		14	349			3295		72	America/Jamaica	2017-03-13
+11495537	McNie	McNie	Macknie,McNie	18.21191	-77.28016	A	ADM2	JM		09	649			3501		680	America/Jamaica	2023-07-22
+11495538	Maidstone	Maidstone		18.10165	-77.57284	A	ADM2	JM		04	1222			1667		718	America/Jamaica	2017-03-13
+11495539	Maldon	Maldon		18.33831	-77.80998	A	ADM2	JM		12	865			1626		435	America/Jamaica	2017-03-13
+11495540	Mandeville Proper	Mandeville Proper		18.04453	-77.50574	A	ADM2	JM		04	1242			18006		615	America/Jamaica	2017-03-13
+11495541	Mango Valley	Mango Valley		18.37481	-76.97694	A	ADM2	JM		13	504			762		123	America/Jamaica	2017-03-13
+11495542	March Town	March Town		18.32951	-78.27656	A	ADM2	JM		02	933			1604		54	America/Jamaica	2017-03-13
+11495543	Martin	Martin		18.30118	-76.87257	A	ADM2	JM		13	531			2842		130	America/Jamaica	2017-03-13
+11495544	Marlie Hill	Marlie Hill		17.86692	-77.50835	A	ADM2	JM		04	1270			1761		375	America/Jamaica	2017-03-13
+11495545	Maryland	Maryland		18.38679	-78.12825	A	ADM2	JM		02	923			783		189	America/Jamaica	2017-03-13
+11495546	Maroon Town	Maroon Town		18.35626	-77.79699	A	ADM2	JM		12	864			479		427	America/Jamaica	2017-03-13
+11495547	Martha Brae	Martha Brae		18.4696	-77.65909	A	ADM2	JM		15	710			554		25	America/Jamaica	2017-03-13
+11495548	Mason Hall	Mason Hall		18.39662	-76.92063	A	ADM2	JM		13	508			866		219	America/Jamaica	2017-03-13
+11495549	May Day	May Day		18.00951	-77.47606	A	ADM2	JM		04	1252			1999		603	America/Jamaica	2017-03-13
+11495550	Mearnsville	Mearnsville		18.18856	-78.0287	A	ADM2	JM		16	1078			1347		317	America/Jamaica	2017-03-13
+11495551	Medina	Medina		18.12236	-77.59643	A	ADM2	JM		04	1221			684		803	America/Jamaica	2017-03-13
+11495552	Middle Quarters	Middle Quarters		18.11455	-77.83808	A	ADM2	JM		11	1117			2965		158	America/Jamaica	2017-03-13
+11495553	Mike Town	Mike Town		18.04253	-77.5549	A	ADM2	JM		04	1240			2908		760	America/Jamaica	2017-03-13
+11495554	Mile Gully	Mile Gully		18.31801	-76.96051	A	ADM2	JM		13	516			718		368	America/Jamaica	2017-03-13
+11495555	Mile Gully	Mile Gully		18.13395	-77.56556	A	ADM2	JM		04	1218			2412		524	America/Jamaica	2017-03-13
+11495556	Mocho	Mocho		18.29135	-77.8258	A	ADM2	JM		12	874			547		618	America/Jamaica	2017-03-13
+11495557	Niagara	Niagara		18.26534	-77.81879	A	ADM2	JM		12	877			710		571	America/Jamaica	2017-03-13
+11495558	Milk River	Milk River		17.8756	-77.35139	A	ADM2	JM		01	1358			2790		12	America/Jamaica	2017-03-13
+11495559	Mitchell Town	Mitchell Town		17.81281	-77.20531	A	ADM2	JM		01	1383			1749		5	America/Jamaica	2017-03-13
+11495560	Montego Hill	Montego Hill		18.48038	-77.8815	A	ADM2	JM		12	821			4213		188	America/Jamaica	2017-03-13
+11495561	Montpelier	Montpelier	Mont Pelier,Mt Pelier	18.37612	-77.91357	A	ADM2	JM		12	856			2749		227	America/Jamaica	2023-08-14
+11495562	Moore Town	Moore Town		18.06701	-76.37487	A	ADM2	JM		07	430			1317		854	America/Jamaica	2017-03-13
+11495563	Mount Carey	Mount Carey		18.38888	-77.94374	A	ADM2	JM		12	855			1718		172	America/Jamaica	2017-03-13
+11495564	Mount Moriah	Mount Moriah		18.20617	-77.44094	A	ADM2	JM		09	644			2905		651	America/Jamaica	2017-03-13
+11495565	Mount Zion	Mount Zion	Mt Zion	18.43377	-77.28028	A	ADM2	JM		09	603			1727		350	America/Jamaica	2023-09-04
+11495566	Parry Town	Parry Town		18.38359	-77.10345	A	ADM2	JM		09	613			1786		367	America/Jamaica	2017-03-13
+11495567	Mulgrave	Mulgrave		18.21164	-77.82018	A	ADM2	JM		11	1105			547		393	America/Jamaica	2017-03-13
+11495568	Gutters	Gutters		18.00642	-77.57903	A	ADM2	JM		04	1238			846		455	America/Jamaica	2023-09-12
+11495569	Myersville	Myersville		17.99699	-77.62425	A	ADM2	JM		11	1146			21		197	America/Jamaica	2017-03-13
+11495570	Nain	Nain		17.96206	-77.60142	A	ADM2	JM		11	1147			1891		214	America/Jamaica	2017-03-13
+11495571	New Forest	New Forest		17.9201	-77.55867	A	ADM2	JM		04	1268			1980		218	America/Jamaica	2017-03-13
+11495572	Keystone North	Keystone North	Keystone - Part of	18.03965	-76.95113	A	ADM2	JM		10	1418			403		179	America/Jamaica	2023-10-03
+11495573	New Green	New Green		18.07663	-77.52569	A	ADM2	JM		04	1235			2252		591	America/Jamaica	2017-03-13
+11495574	Rock Hall	Rock Hall		18.09119	-76.88804	A	ADM2	JM		10	1415			1014		404	America/Jamaica	2023-07-14
+11495575	New Market	New Market		18.15362	-77.90962	A	ADM2	JM		11	1119			3513		358	America/Jamaica	2017-03-13
+11495576	New Monkland	New Monkland	New Monklands	17.99158	-76.57333	A	ADM2	JM		14	305			509		639	America/Jamaica	2023-08-15
+11495577	Newport	Newport		17.96293	-77.50486	A	ADM2	JM		04	1263			4110		723	America/Jamaica	2023-09-23
+11495578	New Roads	New Roads		18.19124	-77.93608	A	ADM2	JM		16	1074			1315		424	America/Jamaica	2017-03-13
+11495579	New Works	New Works		18.17248	-77.96645	A	ADM2	JM		16	1076			1198		534	America/Jamaica	2017-03-13
+11495580	Old Harbour Bay	Old Harbour Bay		17.91009	-77.09905	A	ADM2	JM		10	1430			6623		5	America/Jamaica	2017-03-13
+11495581	Norwich	Norwich		18.18819	-76.47705	A	ADM2	JM		07	412			2779		99	America/Jamaica	2017-03-13
+11495582	Old England	Old England		17.98503	-77.46017	A	ADM2	JM		04	1249			4288		589	America/Jamaica	2017-03-13
+11495583	Passage Fort	Passage Fort		17.97788	-76.86793	A	ADM2	JM		10	1442			9240		8	America/Jamaica	2017-03-13
+11495584	Pike	Pike		18.23229	-77.5379	A	ADM2	JM		04	1203			1437		825	America/Jamaica	2017-03-15
+11495585	Banana Ground - Part of	Banana Ground - Part of	Banana Ground,Banana Ground - Part of	18.08022	-77.40971	A	ADM2	JM		01	1335			574		806	America/Jamaica	2023-07-22
+11495586	Pear Tree	Pear Tree		17.91162	-76.31676	A	ADM2	JM		14	324			932		50	America/Jamaica	2017-03-13
+11495587	Pear Tree Grove	Pear Tree Grove		18.22515	-76.95293	A	ADM2	JM		10	1405			879		438	America/Jamaica	2017-03-13
+11495588	Reading	Reading		18.43723	-77.9473	A	ADM2	JM		12	849			888		102	America/Jamaica	2017-03-13
+11495589	Pedro Plains	Pedro Plains		17.88569	-77.71337	A	ADM2	JM		11	1157			3227		188	America/Jamaica	2017-03-13
+11495590	Petersville	Petersville		18.137	-77.95046	A	ADM2	JM		16	1083			546		350	America/Jamaica	2017-03-13
+11495591	Philadelphia	Philadelphia		18.40005	-77.32735	A	ADM2	JM		09	622			2133		327	America/Jamaica	2017-03-13
+11495592	Pisgah	Pisgah		18.19605	-77.88671	A	ADM2	JM		11	1101			2093		520	America/Jamaica	2017-03-13
+11495593	Plowden	Plowden		17.89178	-77.53846	A	ADM2	JM		04	1267			2401		548	America/Jamaica	2017-03-13
+11495594	Point Hill	Point Hill		18.09361	-77.1048	A	ADM2	JM		10	1424			5807		612	America/Jamaica	2017-03-13
+11495595	Pimento Walk	Pimento Walk		18.39578	-77.11383	A	ADM2	JM		09	615			1516		183	America/Jamaica	2017-03-13
+11495596	Pondside	Pondside		18.40222	-78.07344	A	ADM2	JM		02	920			445		286	America/Jamaica	2017-03-13
+11495597	Robins Bay	Robins Bay		18.31236	-76.81783	A	ADM2	JM		13	533			528		56	America/Jamaica	2017-03-13
+11495598	Pondside	Pondside		17.98153	-77.7945	A	ADM2	JM		11	1139			506		23	America/Jamaica	2017-03-13
+11495599	Poormans Corner	Poormans Corner		17.89152	-76.58351	A	ADM2	JM		14	341			3965		47	America/Jamaica	2017-03-13
+11495600	Prospect	Prospect		18.41273	-77.04119	A	ADM2	JM		13	501			2912		87	America/Jamaica	2017-03-13
+11495601	Prospect	Prospect		17.87404	-76.34956	A	ADM2	JM		14	352			1906		33	America/Jamaica	2017-03-13
+11495602	Quick Step	Quick Step	Quickstep	18.23281	-77.67831	A	ADM2	JM		11	1109			294		407	America/Jamaica	2023-09-16
+11495603	Prospect	Prospect		18.17481	-76.4355	A	ADM2	JM		07	416			6354		51	America/Jamaica	2017-03-13
+11495604	Ramble	Ramble		18.34674	-77.98802	A	ADM2	JM		02	914			1997		193	America/Jamaica	2017-03-13
+11495605	Ramble	Ramble		17.96791	-76.6263	A	ADM2	JM		14	337			781		520	America/Jamaica	2017-03-13
+11495606	Red Bank	Red Bank		17.93776	-77.62585	A	ADM2	JM		11	1150			1541		257	America/Jamaica	2017-03-13
+11495607	Race Course	Race Course		17.84535	-77.27963	A	ADM2	JM		01	1376			4055		22	America/Jamaica	2017-03-13
+11495608	Redwood	Redwood		18.21026	-76.98536	A	ADM2	JM		10	1406			3606		245	America/Jamaica	2017-03-13
+11495609	Refuge	Refuge		18.45101	-77.57751	A	ADM2	JM		15	708			640		218	America/Jamaica	2017-03-13
+11495610	Retirement	Retirement		18.43742	-77.88004	A	ADM2	JM		12	844			1182		97	America/Jamaica	2017-03-13
+11495611	Retreat	Retreat		17.8776	-76.36795	A	ADM2	JM		14	351			2145		39	America/Jamaica	2017-03-13
+11495612	Richmond Vale	Richmond Vale		17.97435	-76.59044	A	ADM2	JM		14	336			263		641	America/Jamaica	2017-03-13
+11495613	Seaforth	Seaforth		17.94421	-76.45661	A	ADM2	JM		14	330			5775		116	America/Jamaica	2017-03-13
+11495614	Rio Bueno	Rio Bueno		18.46406	-77.48042	A	ADM2	JM		15	704			1600		161	America/Jamaica	2017-03-13
+11495615	River Head	River Head		17.99237	-76.61082	A	ADM2	JM		14	302			1160		395	America/Jamaica	2017-03-13
+11495616	River Head	River Head		18.2603	-77.07782	A	ADM2	JM		09	654			970		472	America/Jamaica	2023-11-27
+11495617	Riversdale	Riversdale		18.17802	-76.96636	A	ADM2	JM		10	1407			4475		232	America/Jamaica	2017-03-13
+11495618	Robins Hall	Robins Hall		18.20405	-77.55007	A	ADM2	JM		04	1205			1128		651	America/Jamaica	2017-03-13
+11495619	Rock Spring	Rock Spring		18.34797	-78.24392	A	ADM2	JM		02	932			1324		87	America/Jamaica	2017-03-13
+11495620	Roehampton	Roehampton		18.39897	-77.89926	A	ADM2	JM		12	857			1795		395	America/Jamaica	2017-03-13
+11495621	Rose Hall	Rose Hall		18.51228	-77.81833	A	ADM2	JM		12	804			338		78	America/Jamaica	2017-03-13
+11495622	Rose Hall	Rose Hall		17.92654	-77.64153	A	ADM2	JM		11	1151			2152		545	America/Jamaica	2017-03-13
+11495623	Rock Hall	Rock Hall		18.1617	-76.5305	A	ADM2	JM		07	408			393		265	America/Jamaica	2017-03-13
+11495624	Rose Heights	Rose Heights		18.46945	-77.89533	A	ADM2	JM		12	832			6550		123	America/Jamaica	2017-03-13
+11495625	Rose Hill	Rose Hill		17.92471	-77.5234	A	ADM2	JM		04	1266			854		791	America/Jamaica	2017-03-13
+11495626	Rosemount	Rosemount		18.47484	-77.89216	A	ADM2	JM		12	833			5756		154	America/Jamaica	2017-03-13
+11495627	Rowlandsfield	Rowlandsfield		17.97355	-76.28781	A	ADM2	JM		14	317			911		326	America/Jamaica	2017-03-13
+11495628	Russells	Russells	Russels	17.98638	-77.65065	A	ADM2	JM		11	1143			1236		182	America/Jamaica	2023-09-15
+11495629	Salt Spring	Salt Spring		18.48687	-77.86554	A	ADM2	JM		12	813			3076		223	America/Jamaica	2017-03-13
+11495630	Samuels Prospect	Samuels Prospect		18.45103	-77.5144	A	ADM2	JM		15	706			901		278	America/Jamaica	2017-03-13
+11495631	Spring Bank	Spring Bank		17.95995	-76.32596	A	ADM2	JM		14	314			307		91	America/Jamaica	2017-03-13
+11495632	Santoy	Santoy		18.35875	-78.28386	A	ADM2	JM		02	934			1375		16	America/Jamaica	2017-03-13
+11495633	Scotts Hall	Scotts Hall		18.19083	-76.83942	A	ADM2	JM		13	539			915		162	America/Jamaica	2017-03-13
+11495634	Scotts Pass	Scotts Pass		17.9992	-77.3982	A	ADM2	JM		04	1246			1770		158	America/Jamaica	2017-03-13
+11495635	Royal Flat	Royal Flat		18.04965	-77.4683	A	ADM2	JM		04	1244			2863		455	America/Jamaica	2017-03-13
+11495636	Salt River	Salt River		17.84143	-77.17413	A	ADM2	JM		01	1371			953		33	America/Jamaica	2017-03-13
+11495637	Spring Garden	Spring Garden		17.91749	-76.42978	A	ADM2	JM		14	327			335		145	America/Jamaica	2017-03-13
+11495638	Seven Rivers	Seven Rivers		18.34702	-77.91378	A	ADM2	JM		12	870			1895		173	America/Jamaica	2017-03-13
+11495639	Siloah	Siloah		18.16334	-77.71061	A	ADM2	JM		11	1112			3878		181	America/Jamaica	2017-03-13
+11495640	Snowdon	Snowdon		17.94198	-77.49137	A	ADM2	JM		04	1264			1754		723	America/Jamaica	2017-03-13
+11495641	Spring Ground	Spring Ground		18.16233	-77.47977	A	ADM2	JM		04	1212			1728		787	America/Jamaica	2017-03-13
+11495642	Somerset	Somerset		18.08036	-77.5432	A	ADM2	JM		04	1236			988		626	America/Jamaica	2023-10-01
+11495643	Somerton	Somerton		18.40496	-77.77071	A	ADM2	JM		12	826			2173		198	America/Jamaica	2017-03-13
+11495644	Sedgepond	Sedgepond		17.84753	-77.32638	A	ADM2	JM		01	1374			656		16	America/Jamaica	2017-03-13
+11495645	Spicy Hill	Spicy Hill		18.45763	-77.54751	A	ADM2	JM		15	707			1389		261	America/Jamaica	2017-03-15
+11495646	Spot Valley	Spot Valley		18.47869	-77.79106	A	ADM2	JM		12	810			1040		275	America/Jamaica	2017-03-13
+11495647	Shirley Castle	Shirley Castle		18.15657	-76.61112	A	ADM2	JM		07	436			240		454	America/Jamaica	2017-03-13
+11495648	Skibo	Skibo		18.17318	-76.62752	A	ADM2	JM		07	437			1073		78	America/Jamaica	2017-03-13
+11495649	Springfield	Springfield		18.17662	-77.87392	A	ADM2	JM		11	1102			1086		548	America/Jamaica	2017-03-13
+11495650	Spring Garden	Spring Garden		18.29368	-77.56698	A	ADM2	JM		15	730			1601		513	America/Jamaica	2017-03-13
+11495651	Spur Tree	Spur Tree		18.0065	-77.55664	A	ADM2	JM		04	1257			891		743	America/Jamaica	2017-03-13
+11495652	Sturge Town	Sturge Town		18.41631	-77.31988	A	ADM2	JM		09	621			768		377	America/Jamaica	2017-03-13
+11495653	St. Ann's Bay	St. Ann's Bay	Saint Ann's Bay	18.42989	-77.20775	A	ADM2	JM		09	606			6567		119	America/Jamaica	2023-08-27
+11495654	Saint D'Acre	Saint D'Acre	St. D'Acre	18.333	-77.36297	A	ADM2	JM		09	626			3069		623	America/Jamaica	2023-09-04
+11495655	Steer Town	Steer Town		18.42852	-77.17101	A	ADM2	JM		09	607			5110		26	America/Jamaica	2017-03-13
+11495656	Stettin	Stettin		18.28224	-77.54095	A	ADM2	JM		15	731			2512		610	America/Jamaica	2017-03-13
+11495657	Stewart Town	Stewart Town		18.39887	-77.45187	A	ADM2	JM		15	721			993		239	America/Jamaica	2017-03-13
+11495658	St. Paul's	St. Paul's	Saint Paul's,Saint Pauls	18.13144	-77.612	A	ADM2	JM		04	1220			1470		605	America/Jamaica	2023-09-20
+11495659	St. Margaret's Bay	St. Margaret's Bay	Saint Margaret's Bay,St Margarets Bay	18.19084	-76.52888	A	ADM2	JM		07	409			1713		146	America/Jamaica	2023-10-20
+11495660	Success	Success		18.37729	-78.05105	A	ADM2	JM		02	917			470		418	America/Jamaica	2017-03-13
+11495661	Summer Hill	Summer Hill		18.3736	-77.7935	A	ADM2	JM		12	861			1315		503	America/Jamaica	2017-03-13
+11495662	Sunning Hill	Sunning Hill		17.95612	-76.40931	A	ADM2	JM		14	311			539		125	America/Jamaica	2017-03-13
+11495663	Swaby's Hope	Swaby's Hope		17.98608	-77.53326	A	ADM2	JM		04	1262			1703		767	America/Jamaica	2017-03-13
+11495664	Tangle River	Tangle River		18.34337	-77.83621	A	ADM2	JM		12	867			1492		494	America/Jamaica	2017-03-13
+11495665	Top Hill	Top Hill		18.11622	-77.50344	A	ADM2	JM		04	1224			840		789	America/Jamaica	2017-03-13
+11495666	Top Hill	Top Hill		17.89317	-77.63793	A	ADM2	JM		11	1159			1767		506	America/Jamaica	2017-03-13
+11495667	Troja	Troja		18.20485	-76.93196	A	ADM2	JM		10	1408			1750		279	America/Jamaica	2017-03-13
+11495668	Trinityville	Trinityville		17.9572	-76.4942	A	ADM2	JM		14	308			1276		190	America/Jamaica	2017-03-13
+11495669	Tranquility	Tranquility		18.18028	-76.6815	A	ADM2	JM		07	440			623		314	America/Jamaica	2017-03-13
+11495670	Ulster Spring	Ulster Spring		18.32113	-77.49681	A	ADM2	JM		15	733			1803		507	America/Jamaica	2017-03-13
+11495671	Unity Hall	Unity Hall		18.43304	-77.97684	A	ADM2	JM		12	852			1102		278	America/Jamaica	2017-03-13
+11495672	Victoria Town	Victoria Town		17.90472	-77.37795	A	ADM2	JM		04	1274			976		224	America/Jamaica	2017-03-13
+11495673	Wait-A-Bit	Wait-A-Bit		18.25332	-77.50837	A	ADM2	JM		15	737			2816		903	America/Jamaica	2017-03-15
+11495674	Turners	Turners		18.06647	-77.23523	A	ADM2	JM		01	1330			1919		178	America/Jamaica	2017-03-13
+11495675	Wakefield	Wakefield		18.4146	-77.70908	A	ADM2	JM		15	714			3626		93	America/Jamaica	2017-03-13
+11495676	Warminster	Warminster	Warminister	17.96238	-77.63956	A	ADM2	JM		11	1145			1395		160	America/Jamaica	2023-09-16
+11495677	Vaughansfield	Vaughansfield	Vaughansfield	18.32135	-77.78051	A	ADM2	JM		12	863			1216		421	America/Jamaica	2023-06-10
+11495678	Warsop	Warsop	Worsop	18.26178	-77.56774	A	ADM2	JM		15	729			3005		709	America/Jamaica	2023-09-09
+11495679	Watchwell	Watchwell		17.93876	-77.7725	A	ADM2	JM		11	1155			2184		59	America/Jamaica	2017-03-13
+11495680	Waterford	Waterford		17.9934	-76.8609	A	ADM2	JM		10	1441			14572		4	America/Jamaica	2017-03-13
+11495681	Watermount	Watermount		18.06686	-77.09112	A	ADM2	JM		10	1423			1655		369	America/Jamaica	2017-03-13
+11495682	Waltham	Waltham		18.00675	-77.51873	A	ADM2	JM		04	1255			546		738	America/Jamaica	2023-10-01
+11495683	West Green	West Green		18.46244	-77.91757	A	ADM2	JM		12	836			2735		6	America/Jamaica	2017-03-13
+11495684	Welcome Hall	Welcome Hall		18.36898	-77.83673	A	ADM2	JM		12	860			2040		463	America/Jamaica	2017-03-13
+11495685	Whithorn	Whithorn		18.27111	-78.03811	A	ADM2	JM		16	1031			1199		129	America/Jamaica	2017-03-13
+11495686	West Cumberland	West Cumberland		17.9789	-76.88662	A	ADM2	JM		10	1447			3022		12	America/Jamaica	2017-03-13
+11495687	Water Lane	Water Lane		17.82452	-77.25946	A	ADM2	JM		01	1377			2063		14	America/Jamaica	2017-03-13
+11495688	Wheelerfield	Wheelerfield	Wheelersfield	17.95874	-76.29623	A	ADM2	JM		14	315			974		77	America/Jamaica	2023-08-03
+11495689	Watt Town	Watt Town		18.29427	-77.41466	A	ADM2	JM		09	640			1649		567	America/Jamaica	2017-03-13
+11495690	Williamsfield	Williamsfield		18.33393	-78.06957	A	ADM2	JM		16	1010			878		124	America/Jamaica	2017-03-13
+11495691	Williamsfield	Williamsfield		18.06664	-77.46582	A	ADM2	JM		04	1233			3322		430	America/Jamaica	2017-03-13
+11495692	Winchester	Winchester		17.94177	-76.29823	A	ADM2	JM		14	322			1571		22	America/Jamaica	2017-03-13
+11495693	Wirefence	Wirefence		18.2531	-77.53276	A	ADM2	JM		15	736			2250		785	America/Jamaica	2017-03-13
+11495694	Woodlands	Woodlands		18.44555	-77.99963	A	ADM2	JM		02	909			481		117	America/Jamaica	2017-03-13
+11495695	Woodside	Woodside		18.25258	-76.92679	A	ADM2	JM		13	526			960		354	America/Jamaica	2017-03-13
+11495696	Woodsville	Woodsville		18.3695	-78.07217	A	ADM2	JM		02	919			551		372	America/Jamaica	2017-03-13
+11495697	York	York		17.92849	-76.43983	A	ADM2	JM		14	328			2173		174	America/Jamaica	2017-03-13
+11495698	Windsor	Windsor		18.10673	-76.44631	A	ADM2	JM		07	431			1924		66	America/Jamaica	2017-03-13
+11495699	Windsor Forest	Windsor Forest		18.12057	-76.33876	A	ADM2	JM		07	422			3079		100	America/Jamaica	2017-03-15
+11495700	York Castle	York Castle		18.27515	-77.22923	A	ADM2	JM		09	650			622		707	America/Jamaica	2017-03-13
+11495701	Baptist	Baptist		17.87666	-76.57837	A	ADM2	JM		14	342			1929		20	America/Jamaica	2017-03-13
+11495702	Banks	Banks		17.83222	-77.30731	A	ADM2	JM		01	1375			1541		14	America/Jamaica	2017-03-13
+11495703	Bucknor	Bucknor		18.00619	-77.23749	A	ADM2	JM		01	1345			3133		229	America/Jamaica	2017-03-13
+11495704	Bybrook	Bybrook		18.14641	-76.65726	A	ADM2	JM		07	439			709		752	America/Jamaica	2017-03-13
+11495705	Church Corner	Church Corner		17.88718	-76.41898	A	ADM2	JM		14	347			3252		19	America/Jamaica	2017-03-13
+11495706	Heartease	Heartease		18.04878	-77.48238	A	ADM2	JM		04	1243			4383		513	America/Jamaica	2017-03-13
+11495707	Bombay	Bombay		18.1178	-77.4494	A	ADM2	JM		04	1227			1902		767	America/Jamaica	2017-03-13
+11495708	Mount Lebanus	Mount Lebanus		17.97544	-76.53891	A	ADM2	JM		14	306			1430		482	America/Jamaica	2017-03-13
+11495709	Pell River	Pell River		18.37886	-78.21904	A	ADM2	JM		02	929			254		198	America/Jamaica	2017-03-13
+11495710	Pitfour	Pitfour		18.43206	-77.89007	A	ADM2	JM		12	846			776		163	America/Jamaica	2017-03-13
+11495711	Prospect	Prospect		17.98244	-77.56775	A	ADM2	JM		04	1258			2152		329	America/Jamaica	2017-03-13
+11495712	Retirement	Retirement		18.2074	-77.76698	A	ADM2	JM		11	1107			479		444	America/Jamaica	2017-03-13
+11495713	Brainerd	Brainerd		18.16988	-76.8689	A	ADM2	JM		13	540			1570		406	America/Jamaica	2017-03-13
+11495714	Albert Town	Albert Town		18.29727	-77.53492	A	ADM2	JM		15	732			1014		547	America/Jamaica	2017-03-13

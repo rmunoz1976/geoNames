@@ -1,0 +1,3 @@
+﻿7910461	Obock	Obock	abkh,awbwk,أبخ,أوبوك	12.22	43.17	A	ADM2	DJ		04	7910461			0		292	Africa/Djibouti	2019-03-08
+9611302	Yoboki	Yoboki	ywbwky,يوبوكي	11.56	42.11	A	ADM2	DJ		06	9611302			0		358	Africa/Djibouti	2019-12-29
+9611312	As Eyla	As Eyla		11.01	42.11	A	ADM2	DJ		06	9611312			0		358	Africa/Djibouti	2014-09-26

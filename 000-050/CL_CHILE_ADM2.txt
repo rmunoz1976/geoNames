@@ -1,0 +1,56 @@
+﻿3868623	Provincia de Valparaíso	Provincia de Valparaiso	Provincia de Valparaiso,Provincia de Valparaíso,Valparaiso,Valparaíso	-33.06105	-71.59241	A	ADM2	CL		01	51			0		126	America/Santiago	2023-12-20
+3868703	Provincia de Valdivia	Provincia de Valdivia	Provincia de Valdivia,Valdivia	-39.80273	-72.5469	A	ADM2	CL		17	141			0		282	America/Santiago	2018-02-06
+3868829	Provincia de Última Esperanza	Provincia de Ultima Esperanza	Provincia de Ultima Esperanza,Provincia de Última Esperanza,Ultima Esperanza,Última Esperanza	-50.75	-74	A	ADM2	CL		10	124			0		292	America/Punta_Arenas	2017-01-05
+3869715	Provincia de Tocopilla	Provincia de Tocopilla	Provincia de Tocopilla,Tocopilla	-22.02949	-69.64006	A	ADM2	CL		03	23			0		1114	America/Santiago	2018-02-06
+3869875	Provincia de Tierra del Fuego	Provincia de Tierra del Fuego	Eldlandet,Ildlandet,Provincia de Tierra del Fuego,Tierra del Fuego	-53.66083	-69.45173	A	ADM2	CL		10	123			0		215	America/Punta_Arenas	2023-12-20
+3870289	Provincia de Talca	Provincia de Talca	Provincia de Talca,Talca	-35.4378	-71.35326	A	ADM2	CL		11	71			0		202	America/Santiago	2018-02-06
+3870304	Provincia de Talagante	Provincia de Talagante	Talagante	-33.66667	-70.91667	A	ADM2	CL		12	136			0		352	America/Santiago	2023-12-20
+3871332	Provincia de Santiago	Provincia de Santiago	Santiago	-33.33333	-70.66667	A	ADM2	CL		12	131			0		700	America/Santiago	2023-12-20
+3872251	Provincia de San Felipe de Aconcagua	Provincia de San Felipe de Aconcagua	Provincia San Felipe de Aconcagua,Provincia de San Felipe,Provincia de San Felipe de Aconcagua,San Felipe,San Felipe de Aconcagua	-32.60401	-70.6593	A	ADM2	CL		01	57			0		1101	America/Santiago	2024-12-12
+3872374	San Antonio Province	San Antonio Province	Provincia de San Antonio,San Antonio	-33.58333	-71.5	A	ADM2	CL		01	56			0		236	America/Santiago	2023-12-20
+3874118	Provincia de Quillota	Provincia de Quillota	Provincia de Quillota,Quillota	-32.80753	-71.17957	A	ADM2	CL		01	55			0		302	America/Santiago	2018-02-06
+3876415	Petorca Province	Petorca Province	Petorca,Provincia de Petorca	-32.33333	-71	A	ADM2	CL		01	54			0		1161	America/Santiago	2023-12-20
+3877946	Provincia de Osorno	Provincia de Osorno	Osorno,Provincia de Osorno	-40.77939	-72.95299	A	ADM2	CL		14	103			0		74	America/Santiago	2018-02-06
+3880106	Provincia de Melipilla	Provincia de Melipilla	Melipilla	-33.75	-71.16667	A	ADM2	CL		12	135			0		168	America/Santiago	2023-12-20
+3880842	Provincia de Malleco	Provincia de Malleco	Malleco,Provincia de Malleco	-38.23591	-72.13034	A	ADM2	CL		04	92			0		533	America/Santiago	2018-02-06
+3880987	Provincia de Maipo	Provincia de Maipo	Maipo	-33.83333	-70.75	A	ADM2	CL		12	134			0		380	America/Santiago	2023-12-20
+3881037	Provincia de Magallanes	Provincia de Magallanes	Magallanes,Provincia de Magallanes	-52.91667	-71.08333	A	ADM2	CL		10	121			0		44	America/Punta_Arenas	2023-12-20
+3882432	Provincia de Los Andes	Provincia de Los Andes	Los Andes,Provincia de Los Andes	-32.82556	-70.33518	A	ADM2	CL		01	53			0		2090	America/Santiago	2023-12-20
+3882955	Provincia de Llanquihue	Provincia de Llanquihue	Llanquihue,Provincia de Llanquihue	-41.34285	-72.658	A	ADM2	CL		14	101			0		1079	America/Santiago	2018-02-06
+3883166	Provincia de Linares	Provincia de Linares	Linares,Provincia de Linares	-36.02955	-71.43099	A	ADM2	CL		11	74			0		506	America/Santiago	2018-02-06
+3883200	Provincia de Limarí	Provincia de Limari	Limari,Limarí,Provincia de Limari,Provincia de Limarí	-30.75	-71	A	ADM2	CL		07	43			0		383	America/Santiago	2018-02-06
+3887125	Provincia de Iquique	Provincia de Iquique	Iquique,Provincia de Iquique	-20.24158	-70.08728	A	ADM2	CL		15	11			0		608	America/Santiago	2023-12-20
+3887756	Provincia de Huasco	Provincia de Huasco	Huasco,Provincia de Huasco	-28.68428	-70.51474	A	ADM2	CL		05	33			0		1992	America/Santiago	2018-02-06
+3889024	Provincia General Carrera	Provincia General Carrera	General Carrera	-46.63435	-72.31476	A	ADM2	CL		02	114			0		1733	America/Coyhaique	2025-04-29
+3890620	Provincia de Elqui	Provincia de Elqui	Elqui,Provincia de Elqui	-29.73588	-70.64455	A	ADM2	CL		07	41			0		2199	America/Santiago	2018-02-06
+3891149	Provincia de El Loa	Provincia de El Loa	El Loa,Provincia de El Loa	-22.96764	-68.18716	A	ADM2	CL		03	22			0		2387	America/Santiago	2018-02-06
+3892868	Provincia de Curicó	Provincia de Curico	Curico,Curicó,Provincia de Curico,Provincia de Curicó	-35.04932	-71.09148	A	ADM2	CL		11	73			0		604	America/Santiago	2018-02-06
+3893653	Provincia de Copiapó	Provincia de Copiapo	Copiapo,Copiapó,Provincia de Copiapo,Provincia de Copiapó	-27.56347	-70.00063	A	ADM2	CL		05	31			0		1604	America/Santiago	2018-02-06
+3893889	Provincia de Concepción	Provincia de Concepcion	Concepcion,Concepción,Provincia de Concepcion,Provincia de Concepción	-36.95773	-72.89674	A	ADM2	CL		06	81			0		140	America/Santiago	2018-02-06
+3894310	Provincia de Colchagua	Provincia de Colchagua	Colchagua,Provincia de Colchagua	-34.69485	-71.07606	A	ADM2	CL		08	63			0		500	America/Santiago	2018-02-06
+3894914	Provincia de Choapa	Provincia de Choapa	Choapa,Provincia de Choapa	-31.7109	-70.99263	A	ADM2	CL		07	42			0		1042	America/Santiago	2018-02-06
+3895070	Provincia de Chiloé	Provincia de Chiloe	Chiloe,Chiloé,Provincia de Chiloe,Provincia de Chiloé	-42.57471	-73.96062	A	ADM2	CL		14	102			0		528	America/Santiago	2018-02-06
+3895547	Provincia de Chañaral	Provincia de Chanaral	Chanaral,Chañaral,Provincia de Chanaral,Provincia de Chañaral	-26.32515	-69.48751	A	ADM2	CL		05	32			0		2710	America/Santiago	2018-02-06
+3896095	Provincia de Cautín	Provincia de Cautin	Cautin,Cautín,Provincia de Cautin,Provincia de Cautín	-38.94719	-72.36198	A	ADM2	CL		04	91			0		207	America/Santiago	2018-02-06
+3896832	Provincia Capitán Prat	Provincia Capitan Prat	Capitan Prat,Capitán Prat,Provincia Capitan Prat,Provincia Capitán Prat	-47.9755	-73.54155	A	ADM2	CL		02	113			0		718	America/Coyhaique	2025-04-29
+3897525	Provincia de Cachapoal	Provincia de Cachapoal	Cachapoal,Provincia de Cachapoal	-34.29987	-70.72061	A	ADM2	CL		08	61			0		938	America/Santiago	2018-02-06
+3898381	Provincia de Biobío	Provincia de Biobio	Bio-Bio,Biobio,Biobío,Bío-Bío,Provincia de Bio-Bio,Provincia de Biobio,Provincia de Biobío,Provincia de Bío-Bío	-37.59511	-71.89553	A	ADM2	CL		06	83			0		492	America/Santiago	2024-12-12
+3899358	Provincia de Arica	Provincia de Arica	Arica,Provincia de Arica	-18.70643	-69.85607	A	ADM2	CL		16	151			0		1779	America/Santiago	2023-12-20
+3899459	Provincia de Arauco	Provincia de Arauco	Arauco,Provincia de Arauco	-37.74174	-73.35799	A	ADM2	CL		06	82			0		289	America/Santiago	2018-02-06
+3899538	Provincia de Antofagasta	Provincia de Antofagasta	Antofagasta,Provincia de Antofagasta	-24.31122	-69.57084	A	ADM2	CL		03	21			0		1986	America/Santiago	2018-02-06
+3900336	Provincia de Aisén	Provincia de Aisen	Aisen,Aisén,Provincia de Aisen,Provincia de Aisén	-45.35626	-72.57322	A	ADM2	CL		02	112			0		200	America/Coyhaique	2025-04-29
+4030752	Provincia de Isla de Pascua	Provincia de Isla de Pascua	Isla de Pascua	-27.11048	-109.29749	A	ADM2	CL		01	52			7750		58	Pacific/Easter	2023-12-20
+4036651	Provincia Antártica Chilena	Provincia Antartica Chilena	Antartica Chilena,Antártica Chilena,Provincia Antartica Chilena,Provincia Antártica Chilena	-55.0225	-69.22781	A	ADM2	CL		10	122			0		543	America/Punta_Arenas	2023-12-20
+6693564	Provincia del Ranco	Provincia del Ranco	Ranco	-40.13689	-72.37793	A	ADM2	CL		17	142			0		134	America/Santiago	2023-12-20
+8181709	Provincia de Parinacota	Provincia de Parinacota	Parinacota	-18.19804	-69.57161	A	ADM2	CL		16	152			0		3467	America/Santiago	2023-12-20
+8181710	Provincia del Tamarugal	Provincia del Tamarugal	Tamarugal	-20.26445	-69.81606	A	ADM2	CL		15	14			0		1133	America/Santiago	2023-12-20
+8181711	Provincia de Marga Marga	Provincia de Marga Marga	Marga Marga	-33.04378	-71.39465	A	ADM2	CL		01	58			0		133	America/Santiago	2023-12-20
+8181712	Provincia de Cardenal Caro	Provincia de Cardenal Caro	Cardenal Caro	-34.38651	-71.945	A	ADM2	CL		08	62			0		137	America/Santiago	2023-12-20
+8181713	Provincia de Cauquenes	Provincia de Cauquenes	Cauquenes	-35.96828	-72.32918	A	ADM2	CL		11	72			0		157	America/Santiago	2023-12-20
+8181714	Provincia de Palena	Provincia de Palena	Palena	-43.16212	-72.47818	A	ADM2	CL		14	104			0		125	America/Santiago	2023-12-20
+8181715	Provincia de Coyhaique	Provincia de Coyhaique	Coyhaique	-45.63037	-72.32025	A	ADM2	CL		02	111			0		687	America/Coyhaique	2025-04-29
+8181716	Provincia de Cordillera	Provincia de Cordillera	Cordillera	-33.67921	-70.54665	A	ADM2	CL		12	132			0		693	America/Santiago	2023-12-20
+8181717	Provincia de Chacabuco	Provincia de Chacabuco	Chacabuco	-33.1594	-70.8165	A	ADM2	CL		12	133			0		650	America/Santiago	2023-12-20
+11979368	Provincia de Punilla	Provincia de Punilla	Punilla,Punilla Province	-36.44636	-71.90057	A	ADM2	CL		18	163			0		210	America/Santiago	2023-12-20
+11979369	Provincia de Itata	Provincia de Itata	Itata,Itata Province	-36.33139	-72.50207	A	ADM2	CL		18	162			0		269	America/Santiago	2023-12-20
+11979370	Provincia de Diguillín	Provincia de Diguillin	Diguillin,Diguillin Province,Diguillín,Diguillín Province	-36.72204	-72.29608	A	ADM2	CL		18	161			0		82	America/Santiago	2023-12-22

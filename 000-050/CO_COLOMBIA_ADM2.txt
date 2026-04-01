@@ -1,0 +1,1122 @@
+﻿3665543	Zipaquirá	Zipaquira	Zipaquira,Zipaquirá	5.02632	-74.04206	A	ADM2	CO		33	25899			101551		2853	America/Bogota	2014-09-16
+3665545	Zipacón	Zipacon	Zipacon,Zipacón	4.75453	-74.38765	A	ADM2	CO		33	25898			5016		2623	America/Bogota	2016-06-24
+3665548	Zetaquira	Zetaquira	Zetaquira,Zetaquirá	5.25824	-73.18275	A	ADM2	CO		36	15897			5171		1685	America/Bogota	2014-09-16
+3665560	Zarzal	Zarzal	Municipio de Zarzal,Zarzal	4.3608	-76.04842	A	ADM2	CO		29	76895			40983		934	America/Bogota	2018-09-05
+3665573	Zaragoza	Zaragoza		7.4829	-74.87566	A	ADM2	CO		02	05895			24067		63	America/Bogota	2022-07-18
+3665588	Zapatoca	Zapatoca	Municipio de Zapatoca,Sapatoka,Zapatoca,sa pa tuo ka,zapatwka,Сапатока,زاپاتوکا,საპატოკა,萨帕托卡,薩帕托卡	6.80577	-73.26766	A	ADM2	CO		26	68895			9449		1725	America/Bogota	2018-09-05
+3665619	Zambrano	Zambrano	Municipio de Zambrano,Zambrano	9.74823	-74.88487	A	ADM2	CO		35	13894			11367		67	America/Bogota	2022-07-18
+3665679	Yotoco	Yotoco	Yotoco	3.93169	-76.42494	A	ADM2	CO		29	76890			15563		1584	America/Bogota	2014-09-16
+3665690	Yopal	Yopal	Marroquin,Marroquín	5.25806	-72.26444	A	ADM2	CO		32	85001			106822		229	America/Bogota	2014-09-16
+3665695	Yolombó	Yolombo	Jolombo,Municipio de Yolombo,Municipio de Yolombó,Yolombo,Yolombó,iolombo,yue long bo,ywlwmbw,Йоломбо,یولومبو,იოლომბო,約隆博	6.66569	-74.9912	A	ADM2	CO		02	05890			23958		1378	America/Bogota	2022-07-23
+3665747	Yarumal	Yarumal	Jarumal',Municipio de Yarumal,Yarumal,bldyt yarwmal,iarumali,ya lu ma er,yalumal,yarumaru,yarwmal,Ярумаль,بلدية يارومال,یارومال,იარუმალი,ヤルマル,亞魯馬爾,야루말	6.98532	-75.45402	A	ADM2	CO		02	05887			41240		2424	America/Bogota	2018-06-08
+3665793	Yalí	Yali		6.70257	-74.79018	A	ADM2	CO		02	05885			7734		968	America/Bogota	2015-01-06
+3665804	Yaguará	Yaguara	Yaguara,Yaguará	2.63528	-75.53224	A	ADM2	CO		16	41885			7865		618	America/Bogota	2014-09-16
+3665812	Yacuanquer	Yacuanquer	Yacuanquer	1.12504	-77.4242	A	ADM2	CO		20	52885			9965		2669	America/Bogota	2016-06-24
+3665814	Yacopí	Yacopi	Municipio de Yacopi,Municipio de Yacopí,Yacopi,Yacopí	5.58215	-74.37329	A	ADM2	CO		33	25885			16411		1139	America/Bogota	2018-07-04
+3665852	Viterbo	Viterbo	Viterbo	5.0451	-75.91924	A	ADM2	CO		37	17877			12432		1148	America/Bogota	2022-07-18
+3665880	Viracachá	Viracacha	Viracacha,Viracachá	5.44107	-73.26679	A	ADM2	CO		36	15879			3477		2847	America/Bogota	2016-06-24
+3665882	Viotá	Viota	Viota,Viotá	4.42054	-74.50811	A	ADM2	CO		33	25878			13567		882	America/Bogota	2014-09-16
+3665896	Villeta	Villeta	Villeta	5.00008	-74.50498	A	ADM2	CO		33	25875			24340		1036	America/Bogota	2014-09-16
+3665899	Villavieja	Villavieja	Municipio de Villavieja,Villavieja,bi li ya wei ha,bijabieha,viliaviekha,wylawykha,ویلاویخا,ვილიავიეხა,ビジャビエハ,比利亚维哈,比利亞維哈	3.29774	-75.14526	A	ADM2	CO		16	41872			7374		422	America/Bogota	2018-08-08
+3665901	Villavicencio	Villavicencio	Vijavisensio,Vil'javisensio,Vilavikentsio,Vilavisensio,Viljavisensijas,Viljavisensio,Villavicencio,Vilyavisensio,bhilyabhisensi'o,bi ya bi sen si xo,bi ya wei sen xi ao,biryabisenshio,biyabisensio,byabysynsyw,fylafysnsyw,vhilalavisanasi'o,vilavisenasiyo,viliavisensio,villavicenciyo,villavisensi'o,villavisensiya,villavisensiyo,wlawyknsyw,wyyawysnyw,Βίλαβικεντσιο,Вильявисенсио,Вилявисенсио,Віявісенсіо,Վիլավիսենսիո,וייאביסנסיו,بیابیسینسیو,فيلافيسنسيو,ولاویکنسیو,وییاویسنیو,विल्लाविसेन्सिओ,व्हिललाविसनसिओ,ভিল্যাভিসেন্সিও,વિલાવિસેનસિયો,வில்லவிசென்சியோ,విల్లవిసెన్సియా,ವಿಲ್ಲವಿಸೆಂಷಿಯೋ,විලවිසෙන්සියෝ,บิยาบิเซนซิโอ,ვილიავისენსიო,ビリャビセンシオ,比亚维森西奥,比亞維森西奧,비야비센시오	4.07424	-73.4915	A	ADM2	CO		19	50001			531275		331	America/Bogota	2022-07-18
+3665912	Villarrica	Villarrica	Villa Rica,Villarrica	3.83099	-74.65258	A	ADM2	CO		28	73873			5449		1571	America/Bogota	2022-07-24
+3665914	Villa del Rosario	Villa del Rosario		7.75816	-72.48182	A	ADM2	CO		21	54874			69833		737	America/Bogota	2016-06-24
+3665925	Villapinzón	Villapinzon	Villapinzon,Villapinzón	5.20883	-73.60536	A	ADM2	CO		33	25873			16573		2740	America/Bogota	2014-09-16
+3665960	Villanueva	Villanueva	Municipio de Villanueva,Villanueva	10.58333	-72.96077	A	ADM2	CO		17	44874			23538		325	America/Bogota	2018-07-04
+3665961	Villanueva	Villanueva	Municipio de Villanueva,Villanueva	10.44759	-75.26574	A	ADM2	CO		35	13873			21135		119	America/Bogota	2022-07-18
+3665975	Villamaría	Villamaria	Municipio de Villamaria,Municipio de Villamaría,Villamaria,Villamaría	4.95078	-75.4368	A	ADM2	CO		37	17873			46322		2975	America/Bogota	2018-07-04
+3665989	Villahermosa	Villahermosa	Villahermosa	4.96503	-75.1565	A	ADM2	CO		28	73870			11196		2505	America/Bogota	2016-06-24
+3666017	Villa Caro	Villa Caro	Vil'ja-Karo,Villa Caro,ka luo zhen,villa Caro,wyla karw,Вилья-Каро,ویلا کارو,ვილია-კარო,卡罗镇,卡羅鎮	7.91667	-73	A	ADM2	CO		21	54871			5044		2528	America/Bogota	2014-09-16
+3666026	Vijes	Vijes	Vijes	3.73283	-76.49363	A	ADM2	CO		29	76869			9787		1716	America/Bogota	2014-09-16
+3666079	Victoria	Victoria	Municipio de Victoria,Victoria	5.45666	-74.84061	A	ADM2	CO		37	17867			9165		233	America/Bogota	2018-07-04
+3666088	Vianí	Viani	Municipio de Viani,Municipio de Vianí,Viani,Vianí	4.89579	-74.55398	A	ADM2	CO		33	25867			4115		1818	America/Bogota	2018-07-04
+3666103	Versalles	Versalles	Versal'es,Versalles,bei er sa ye si,versaliesi,wrsals,Версальес,ورسالس,ვერსალიესი,貝爾薩耶斯,贝尔萨耶斯	4.66335	-76.24649	A	ADM2	CO		29	76863			8270		1676	America/Bogota	2014-09-24
+3666112	Vergara	Vergara	Municipio de Vergara,Vergara	5.136	-74.31539	A	ADM2	CO		33	25862			7730		986	America/Bogota	2018-07-04
+3666166	Ventaquemada	Ventaquemada	Ventaquemada	5.35987	-73.55032	A	ADM2	CO		36	15861			14404		3046	America/Bogota	2014-09-16
+3666207	Venecia	Venecia	Venecia	5.95417	-75.79904	A	ADM2	CO		02	05861			10280		939	America/Bogota	2022-07-18
+3666227	Venadillo	Venadillo	Venadillo,bei na di yue,venadilio,wndylw,وندیلو,ვენადილიო,貝納迪約,贝纳迪约	4.69177	-74.93669	A	ADM2	CO		28	73861			18769		373	America/Bogota	2014-09-16
+3666233	Vélez	Velez	Velez,Vélez,bei lai si,velesi,ველესი,貝萊斯	6.23274	-73.72582	A	ADM2	CO		26	68861			19376		756	America/Bogota	2022-07-18
+3666292	Valparaíso	Valparaiso	Valparaiso,Valparaíso	5.65196	-75.65409	A	ADM2	CO		02	05856			6324		907	America/Bogota	2015-01-06
+3666310	Valle de San Juan	Valle de San Juan	Valle,Valle de San Juan	4.17198	-75.19392	A	ADM2	CO		28	73854			6178		796	America/Bogota	2014-09-16
+3666312	Valle de San José	Valle de San Jose	Valle,Valle de San Jose,Valle de San José	6.41984	-73.12946	A	ADM2	CO		26	68855			5315		1502	America/Bogota	2014-09-16
+3666330	Valencia	Valencia	Municipio de Valencia,Valencia	8.2335	-76.21428	A	ADM2	CO		12	23855			34373		246	America/Bogota	2018-07-04
+3666334	Valdivia	Valdivia	Municipio de Valdivia,Val'divija,Valdivia,ba er di wei ya,valdivia,waldywya,Вальдивия,والدیویا,ვალდივია,巴尔迪维亚,巴爾迪維亞	7.28949	-75.39128	A	ADM2	CO		02	05854			11511		133	America/Bogota	2022-07-18
+3666364	Útica	Utica	Utica	5.16977	-74.50134	A	ADM2	CO		33	25851			4941		804	America/Bogota	2014-09-16
+3666371	Usiacurí	Usiacuri	Municipio de Usiacuri,Municipio de Usiacurí,Usiacuri,Usiacurí	10.74536	-74.98369	A	ADM2	CO		04	08849			8804		123	America/Bogota	2018-07-04
+3666396	Urrao	Urrao		6.19	-76.08	A	ADM2	CO		02	05847			38923		2173	America/Bogota	2015-01-06
+3666412	Uribia	Uribia	Municipio de Uribia,Uribia	12.02638	-71.74887	A	ADM2	CO		17	44847			198890		89	America/Bogota	2022-07-23
+3666482	Une	Une	Municipio de Une,Une,awnh,une,wu nei,اونه,უნე,乌内,烏內	4.30691	-74.07104	A	ADM2	CO		33	25845			8014		3524	America/Bogota	2018-07-04
+3666494	Umbita	Umbita	Umbita	5.18411	-73.48341	A	ADM2	CO		36	15842			10105		2675	America/Bogota	2015-01-05
+3666504	Ulloa	Ulloa	Ulloa	4.70745	-75.77781	A	ADM2	CO		29	76845			5745		1229	America/Bogota	2016-06-24
+3666523	Ubaque	Ubaque		4.48436	-73.99661	A	ADM2	CO		33	25841			6879		2587	America/Bogota	2014-09-16
+3666527	Ubalá	Ubala	Municipio de Ubala,Municipio de Ubalá,Ubala,Ubalá	4.80816	-73.47699	A	ADM2	CO		33	25839			11892		2252	America/Bogota	2018-07-04
+3666545	Tutazá	Tutaza	Tutasa,Tutasá,Tutaza,Tutazá	6.05133	-72.87963	A	ADM2	CO		36	15839			2254		3335	America/Bogota	2014-09-16
+3666551	Tuta	Tuta		5.64588	-73.21399	A	ADM2	CO		36	15837			8984		2732	America/Bogota	2015-01-05
+3666563	Turmequé	Turmeque	Turmeque,Turmequé	5.3062	-73.50875	A	ADM2	CO		36	15835			7582		2477	America/Bogota	2016-06-24
+3666571	Turbo	Turbo	Turbas,Turbo,tourubo,tu er bo,twrbw,Турбо,טורבו,توربو,ტურბო,トゥルボ,圖爾博	8.09539	-76.73345	A	ADM2	CO		02	05837			163525		1	America/Bogota	2022-07-18
+3666576	Turbaná	Turbana	Municipio de Turbana,Municipio de Turbaná,Turbana,Turbaná	10.23528	-75.45612	A	ADM2	CO		35	13838			13493		35	America/Bogota	2018-07-04
+3666579	Turbaco	Turbaco	Municipio de Turbaco,Turbaco	10.35707	-75.38044	A	ADM2	CO		35	13836			63046		118	America/Bogota	2018-07-04
+3666583	Túquerres	Tuquerres	Tuquerres,Túquerres	1.13545	-77.63089	A	ADM2	CO		20	52838			40038		3127	America/Bogota	2022-07-18
+3666610	Tunja	Tunja		5.51801	-73.37831	A	ADM2	CO		36	15001			172548		2943	America/Bogota	2022-07-18
+3666646	Tuluá	Tulua	Municipio de Tulua,Municipio de Tuluá,Tulua,Tuluá	4.00892	-76.05016	A	ADM2	CO		29	76834			187275		2212	America/Bogota	2018-09-05
+3666674	Tubará	Tubara	Municipio de Tubara,Municipio de Tubará,Tubara,Tubará	10.91551	-74.98366	A	ADM2	CO		04	08832			10915		225	America/Bogota	2018-07-04
+3666682	Trujillo	Trujillo	Municipio de Trujillo,Trujillo	4.23696	-76.3473	A	ADM2	CO		29	76828			18667		1935	America/Bogota	2018-09-05
+3666722	Trinidad	Trinidad	Municipio de Trinidad,Trinidad	5.34778	-71.20194	A	ADM2	CO		32	85430			11478		135	America/Bogota	2018-07-04
+3666835	Totoró	Totoro	Totoro,Totoró	2.50518	-76.39254	A	ADM2	CO		09	19824			20870		2664	America/Bogota	2022-07-19
+3666841	Tota	Tota	Municipio de Tota,Tota	5.50226	-73.0065	A	ADM2	CO		36	15822			5676		3169	America/Bogota	2018-06-08
+3666882	Toro	Toro	Toro	4.62707	-76.07964	A	ADM2	CO		29	76823			15913		1034	America/Bogota	2014-09-16
+3666888	Toribio	Toribio		3	-76.16667	A	ADM2	CO		09	19821			30654		2667	America/Bogota	2022-07-19
+3666904	Topaipí	Topaipi	Topaipi,Topaipí	5.33885	-74.31328	A	ADM2	CO		33	25823			4817		1207	America/Bogota	2014-09-16
+3666906	Tópaga	Topaga	Topaga,Tópaga	5.77484	-72.82837	A	ADM2	CO		36	15820			3683		2891	America/Bogota	2014-09-24
+3666922	Tona	Tona	Tona	7.15727	-72.96559	A	ADM2	CO		26	68820			6690		2737	America/Bogota	2014-09-16
+3666941	Tolú Viejo	Tolu Viejo	Tolu,Toluviejo,Tolú	9.45448	-75.43762	A	ADM2	CO		27	70823			20033		88	America/Bogota	2022-07-19
+3666961	Toledo	Toledo	Municipio de Toledo,Toledo,toredo,tuo lai duo,twldw,Толедо,טולדו,تولدو,ტოლედო,トレド,托莱多,托萊多	7.23217	-72.31127	A	ADM2	CO		21	54820			17272		2092	America/Bogota	2018-08-08
+3666962	Toledo	Toledo	Municipio de Toledo,Toledo	7.02349	-75.71487	A	ADM2	CO		02	05819			5697		1886	America/Bogota	2018-06-08
+3666965	Togüí	Toguei	Togui,Togüí,Toqui	5.89434	-73.51366	A	ADM2	CO		36	15816			5229		1909	America/Bogota	2014-09-16
+3666998	Tocancipá	Tocancipa	Tocancipa,Tocancipá	4.9481	-73.94826	A	ADM2	CO		33	25817			24154		2561	America/Bogota	2014-09-16
+3667004	Tocaima	Tocaima	Municipio de Tocaima,Tocaima,Tokaima,Tokajma,tuo kai ma,twkayma,Токайма,Токаїма,توکایما,ტოკაიმა,托凯马,托凱馬	4.46073	-74.65722	A	ADM2	CO		33	25815			13649		371	America/Bogota	2022-07-19
+3667008	Toca	Toca		5.55822	-73.18539	A	ADM2	CO		36	15814			10561		2781	America/Bogota	2015-01-05
+3667024	Titiribí	Titiribi	Municipio de Titiribi,Municipio de Titiribí,Titiribi,Titiribí	6.06219	-75.79922	A	ADM2	CO		02	05809			8316		1657	America/Bogota	2022-07-19
+3667051	Tinjacá	Tinjaca	Tinjaca,Tinjacá	5.56637	-73.71053	A	ADM2	CO		36	15808			2939		2467	America/Bogota	2015-01-05
+3667071	Timbiquí	Timbiqui		2.76456	-77.63351	A	ADM2	CO		09	19809			21618		68	America/Bogota	2022-07-19
+3667074	Timbío	Timbio	Timbio,Timbío	2.36963	-76.71062	A	ADM2	CO		09	19807			30028		1762	America/Bogota	2016-06-24
+3667083	Timaná	Timana	Timana,Timaná	1.91202	-75.97341	A	ADM2	CO		16	41807			20025		1358	America/Bogota	2014-09-16
+3667159	Tierralta	Tierralta	Municipio de Tierralta,Tierra Alta,Tierralta	7.87863	-76.21307	A	ADM2	CO		12	23807			109770		225	America/Bogota	2022-07-19
+3667206	Tibirita	Tibirita	Tibirita	5.08516	-73.51369	A	ADM2	CO		33	25807			3018		2394	America/Bogota	2016-06-24
+3667213	Tibasosa	Tibasosa	Tibasosa	5.74722	-73.01091	A	ADM2	CO		36	15806			12626		2666	America/Bogota	2016-06-24
+3667219	Tibaná	Tibana	Tibana,Tibaná	5.28461	-73.42777	A	ADM2	CO		36	15804			9711		2397	America/Bogota	2015-01-05
+3667223	Tibacuy	Tibacuy	Tibacuy	4.30606	-74.51639	A	ADM2	CO		33	25805			4843		1109	America/Bogota	2014-09-16
+3667245	Tesalia	Tesalia	Carnicerias,Carnicerías,Tesalia	2.53525	-75.71546	A	ADM2	CO		16	41797			8874		940	America/Bogota	2014-09-16
+3667248	Teruel	Teruel	Teruel,Teurel,te lu ai er,trwyl,تروئل,ტერუელი,特魯埃爾	2.75239	-75.56362	A	ADM2	CO		16	41801			8226		929	America/Bogota	2014-09-24
+3667287	Teorama	Teorama	Municipio de Teorama,Teorama	8.75219	-73.1601	A	ADM2	CO		21	54800			17523		1031	America/Bogota	2018-08-08
+3667289	Tenza	Tenza		5.07083	-73.42459	A	ADM2	CO		36	15798			4651		1736	America/Bogota	2016-06-24
+3667292	Tenjo	Tenjo	Tenjo	4.8232	-74.16568	A	ADM2	CO		33	25799			18466		2563	America/Bogota	2014-09-16
+3667302	Tenerife	Tenerife	Municipio de Tenerife,Tenerife	9.93201	-74.73465	A	ADM2	CO		38	47798			12364		53	America/Bogota	2022-07-17
+3667311	Tena	Tena	Tena,te na,tena,tna,تنا,ტენა,テナ,特納,特纳	4.64863	-74.39924	A	ADM2	CO		33	25797			7569		1202	America/Bogota	2014-09-24
+3667324	Tello	Tello	Tello	3.03812	-75.09632	A	ADM2	CO		16	41799			10273		1017	America/Bogota	2022-07-17
+3667352	Tausa	Tausa	Tausa,tao sa,tawsa,تاوسا,ტაუსა,陶萨,陶薩	5.17637	-73.9694	A	ADM2	CO		33	25793			7715		3285	America/Bogota	2014-09-16
+3667374	Tasco	Tasco	Tasco	5.84817	-72.75386	A	ADM2	CO		36	15790			6925		3636	America/Bogota	2014-09-16
+3667381	Tarso	Tarso	Municipio de Tarso,Tarso	5.8812	-75.83098	A	ADM2	CO		02	05792			7155		1155	America/Bogota	2018-06-08
+3667388	Tarqui	Tarqui	Municipio de Tarqui,Tarqui	2.13486	-75.87684	A	ADM2	CO		16	41791			16108		1258	America/Bogota	2022-07-17
+3667448	Tangua	Tangua		1.09189	-77.38645	A	ADM2	CO		20	52788			10892		2298	America/Bogota	2014-09-16
+3667472	Taminango	Taminango	Taminango	1.59388	-77.35522	A	ADM2	CO		20	52786			17218		1128	America/Bogota	2014-09-16
+3667474	Támesis	Tamesis	Tamesis,Támesis	5.67053	-75.72153	A	ADM2	CO		02	05789			16387		1823	America/Bogota	2014-09-16
+3667480	Tame	Tame	Tame,ta mei,tame,tamh,tmh,Таме,Թամե,טמה,تامه,ტამე,タメ,塔梅	6.39833	-71.78389	A	ADM2	CO		03	81794			47576		419	America/Bogota	2014-09-16
+3667517	Támara	Tamara		5.88972	-72.21306	A	ADM2	CO		32	85400			7118		1362	America/Bogota	2014-09-16
+3667529	Tamalameque	Tamalameque	Tamalameke,Tamalameque,ta ma la mei ke,tamalamkh,Тамаламеке,تامالامکه,ტამამალეკე,塔馬拉梅克,塔马拉梅克	8.86422	-73.78106	A	ADM2	CO		10	20787			14046		30	America/Bogota	2014-09-16
+3667580	Tadó	Tado	Municipio de Tado,Municipio de Tadó,Tado,Tadó	5.26345	-76.5507	A	ADM2	CO		11	27787			18041		84	America/Bogota	2018-07-08
+3667630	Tabio	Tabio	Tabio,ta bi ao,tabyw,Табио,تابیو,ტაბიო,塔比奥,塔比奧	4.93513	-74.10211	A	ADM2	CO		33	25785			20850		2628	America/Bogota	2014-09-16
+3667648	Sutatenza	Sutatenza	Sutatenza	5.02638	-73.43372	A	ADM2	CO		36	15778			4566		1877	America/Bogota	2016-06-24
+3667650	Sutatausa	Sutatausa	Sumatansa,Sutatausa,su ta tao sa,swtatawsa,Сутатауса,سوتاتاوسا,სუტატაუსა,苏塔陶萨,蘇塔陶薩	5.22898	-73.87912	A	ADM2	CO		33	25781			4742		2890	America/Bogota	2014-09-16
+3667652	Sutamarchán	Sutamarchan	Sutamarchan,Sutamarchán	5.61549	-73.65249	A	ADM2	CO		36	15776			6120		2420	America/Bogota	2014-09-16
+3667661	Susacón	Susacon	Susacon,Susacón	6.18607	-72.75673	A	ADM2	CO		36	15774			3698		3575	America/Bogota	2014-09-16
+3667666	Susa	Susa	Susa	5.427	-73.84786	A	ADM2	CO		33	25779			9782		3329	America/Bogota	2014-09-16
+3667686	Suratá	Surata		7.51696	-73.05902	A	ADM2	CO		26	68780			3662		1651	America/Bogota	2014-09-16
+3667698	Supía	Supia	Supia,Supía	5.43497	-75.67281	A	ADM2	CO		37	17777			26571		1363	America/Bogota	2022-07-17
+3667702	Supatá	Supata	Municipio de Supata,Municipio de Supatá,Supata,Supatá	5.06146	-74.22912	A	ADM2	CO		33	25777			4952		1804	America/Bogota	2018-07-04
+3667718	Suesca	Suesca	Suesca	5.12612	-73.8036	A	ADM2	CO		33	25772			14242		2987	America/Bogota	2014-09-16
+3667734	Sucre	Sucre	Municipio de Sucre,Sucre	8.83333	-74.75	A	ADM2	CO		27	70771			23971		14	America/Bogota	2022-07-17
+3667735	Sucre	Sucre		5.96995	-73.96629	A	ADM2	CO		26	68773			9256		1043	America/Bogota	2014-09-16
+3667761	Subachoque	Subachoque	Municipio de Subachoque,Subachoque,su ba qiao ke,subachoke,swbachwkh,سوباچوکه,სუბაჩოკე,蘇巴喬克,수바초케	4.97813	-74.1612	A	ADM2	CO		33	25769			13041		2943	America/Bogota	2018-07-04
+3667765	Suaza	Suaza	Municipio de Suaza,Suaza,su a sa,suasa,swaza,سوآزا,სუასა,苏阿萨,蘇阿薩	1.87835	-75.81162	A	ADM2	CO		16	41770			17376		1000	America/Bogota	2022-07-17
+3667775	Suárez	Suarez		4.04897	-74.81821	A	ADM2	CO		28	73770			4519		317	America/Bogota	2016-06-24
+3667781	Suan	Suan	Suan	10.30214	-74.91934	A	ADM2	CO		04	08770			9702		2	America/Bogota	2014-09-16
+3667784	Suaita	Suaita		6.08221	-73.37008	A	ADM2	CO		26	68770			10975		1710	America/Bogota	2014-09-16
+3667795	Sotara	Sotara	Sotara,Sotará	2.25	-76.58333	A	ADM2	CO		09	19760			11958		2937	America/Bogota	2022-07-17
+3667797	Sotaquirá	Sotaquira	Sotaquira,Sotaquirá	5.76179	-73.28594	A	ADM2	CO		36	15763			8966		2930	America/Bogota	2014-09-16
+3667808	Sopó	Sopo	Sopo,Sopó	4.87157	-73.98616	A	ADM2	CO		33	25758			21223		3024	America/Bogota	2014-09-16
+3667813	Soplaviento	Soplaviento	Municipio de Soplaviento,Soplaviento	10.33176	-75.11853	A	ADM2	CO		35	13760			8281		2	America/Bogota	2018-07-04
+3667817	Sopetrán	Sopetran	Municipio de Sopetran,Municipio de Sopetrán,Sopetran,Sopetrán	6.52271	-75.74608	A	ADM2	CO		02	05761			13748		739	America/Bogota	2022-07-17
+3667821	Sonson	Sonson	Sonson,Sonsón	5.75	-75	A	ADM2	CO		02	05756			33598		1230	America/Bogota	2022-07-17
+3667859	Soledad	Soledad	Soledad	10.89986	-74.78787	A	ADM2	CO		04	08758			683486		34	America/Bogota	2022-07-17
+3667869	Bahía Solano	Bahia Solano	Solano	6.2252	-77.39147	A	ADM2	CO		11	27075			9400		63	America/Bogota	2022-07-24
+3667874	Sogamoso	Sogamoso	Sogamoso	5.64011	-72.9119	A	ADM2	CO		36	15759			111336		3083	America/Bogota	2022-07-17
+3667881	Socotá	Socota	Socota,Socotá	5.90898	-72.58113	A	ADM2	CO		36	15755			10295		3407	America/Bogota	2014-09-16
+3667888	Socorro	Socorro	El Socorro,Socorro,suo ke luo,swkwrw,سوکورو,სოკორო,索科羅	6.45647	-73.25502	A	ADM2	CO		26	68755			29997		1414	America/Bogota	2022-07-17
+3667897	Socha	Socha	Socha	5.92926	-72.70072	A	ADM2	CO		36	15757			7593		3581	America/Bogota	2014-09-16
+3667903	Soatá	Soata	Soata,Soatá	6.29966	-72.72422	A	ADM2	CO		36	15753			7069		3282	America/Bogota	2022-07-17
+3667906	Soacha	Soacha	Municipio de Soacha,Soacha	4.54605	-74.20626	A	ADM2	CO		33	25754			402007		2681	America/Bogota	2018-07-04
+3667924	Sitionuevo	Sitionuevo	Municipio de Sitionuevo,Sitionuevo	10.88969	-74.63082	A	ADM2	CO		38	47745			26867		6	America/Bogota	2018-08-08
+3667960	Sipí	Sipi	Municipio de Sipi,Municipio de Sipí,Sipi,Sipí	4.60257	-76.51036	A	ADM2	CO		11	27745			3481		337	America/Bogota	2022-07-23
+3667985	Sincelejo	Sincelejo	Cincelejo,Municipio de Sincelejo,Sincelejo	9.31667	-75.435	A	ADM2	CO		27	70001			237618		137	America/Bogota	2018-09-05
+3668014	Simití	Simiti		7.81632	-73.97922	A	ADM2	CO		35	13744			15353		61	America/Bogota	2022-07-17
+3668018	Simijaca	Simijaca	Simijaca,Simijacá,symykhaka,xi mi ha ka,سیمیخاکا,სიმიხაკა,錫米哈卡,锡米哈卡	5.50415	-73.86944	A	ADM2	CO		33	25745			11017		2755	America/Bogota	2014-09-16
+3668024	Simacota	Simacota	Municipio de Simacota,Simacota,Simakota,symakwta,xi ma ke ta,Симакота,سیماکوتا,სიმაკოტა,錫馬科塔,锡马科塔	6.52407	-73.66928	A	ADM2	CO		26	68745			8910		612	America/Bogota	2018-09-05
+3668026	Silvia	Silvia	Municipio Silvia,Municipio de Silvia,Sil'vija,Silvia,silvia,sylwya,xi er wei ya,Сильвия,Сільвія,سیلویا,სილვია,西爾維亞	2.65876	-76.34808	A	ADM2	CO		09	19743			32769		3024	America/Bogota	2022-07-17
+3668029	Silvania	Silvania		4.42513	-74.38425	A	ADM2	CO		33	25743			21392		1627	America/Bogota	2014-09-16
+3668034	Silos	Silos	Municipio de Silos,Silos	7.18687	-72.78501	A	ADM2	CO		21	54743			5284		3216	America/Bogota	2018-08-08
+3668097	Siachoque	Siachoque		5.46903	-73.23448	A	ADM2	CO		36	15740			8894		3196	America/Bogota	2014-09-16
+3668134	Sevilla	Sevilla		4.19345	-75.88829	A	ADM2	CO		29	76736			43738		2125	America/Bogota	2022-07-17
+3668139	Sesquilé	Sesquile	Sesquile,Sesquilé	4.98827	-73.80045	A	ADM2	CO		33	25736			9817		2686	America/Bogota	2014-09-16
+3668177	Segovia	Segovia	Municipio de Segovia,Segovia	7.28132	-74.64273	A	ADM2	CO		02	05736			35071		278	America/Bogota	2018-06-08
+3668220	Sativasur	Sativasur	Sativasur,Sátivasur	6.07102	-72.71509	A	ADM2	CO		36	15723			1351		2977	America/Bogota	2016-06-24
+3668222	Sativanorte	Sativanorte	Sativanorte,Sátivanorte	6.10584	-72.7532	A	ADM2	CO		36	15720			2775		3487	America/Bogota	2014-09-16
+3668229	Sasaima	Sasaima	Sasaima,sa sai ma,sasaima,sasayma,Сасаїма,ساسایما,სასაიმა,萨赛马,薩賽馬	4.92891	-74.42797	A	ADM2	CO		33	25718			9807		1570	America/Bogota	2022-07-17
+3668246	Sardinata	Sardinata		8.23424	-72.82039	A	ADM2	CO		21	54720			22733		865	America/Bogota	2014-09-16
+3668259	Saravena	Saravena		6.92056	-71.85333	A	ADM2	CO		03	81736			42766		213	America/Bogota	2014-09-16
+3668269	Sapuyes	Sapuyes	Sapuyes	1.05954	-77.70662	A	ADM2	CO		20	52720			7473		3352	America/Bogota	2014-09-16
+3668287	San Zenón	San Zenon	Municipio de San Zenon,Municipio de San Zenón,San Zenon,San Zenón	9.32686	-74.32914	A	ADM2	CO		38	47703			8904		51	America/Bogota	2018-08-08
+3668291	San Vicente del Caguán	San Vicente del Caguan	Municipio de San Vicente del Caguan,Municipio de San Vicente del Caguán,San Vicente del Caguan,San Vicente del Caguán	1.578	-74.51784	A	ADM2	CO		08	18753			56674		253	America/Bogota	2018-07-04
+3668293	San Vicente de Chucurí	San Vicente de Chucuri		6.88395	-73.41704	A	ADM2	CO		26	68689			33267		573	America/Bogota	2014-09-16
+3668318	San Vicente Ferrer	San Vicente Ferrer	Municipio de San Vicente Ferrer,San Vicente,San Vicente Ferrer	6.32237	-75.3302	A	ADM2	CO		02	05674			18051		2185	America/Bogota	2022-07-23
+3668328	El Santuario	El Santuario	El Santuario,Municipio de El Santuario,Santuario	6.13568	-75.25705	A	ADM2	CO		02	05697			27120		2156	America/Bogota	2022-07-23
+3668329	Santuario	Santuario	Santuario	5.05321	-75.9906	A	ADM2	CO		24	66687			11787		1945	America/Bogota	2022-07-18
+3668337	Santo Tomás	Santo Tomas	Santo Tomas,Santo Tomás	10.73184	-74.80093	A	ADM2	CO		04	08685			28693		49	America/Bogota	2022-07-18
+3668401	Santiago	Santiago	Santiago	7.8693	-72.73753	A	ADM2	CO		21	54680			2679		604	America/Bogota	2014-09-16
+3668437	Santa Sofía	Santa Sofia	Santa Sofia,Santa Sofía	5.70213	-73.62976	A	ADM2	CO		36	15696			3121		2923	America/Bogota	2014-09-16
+3668448	Santa Rosa de Viterbo	Santa Rosa de Viterbo	Santa Rosa de Viterbo	5.88515	-73.01344	A	ADM2	CO		36	15693			13249		2960	America/Bogota	2014-09-16
+3668452	Santa Rosa de Osos	Santa Rosa de Osos	Municipio de Santa Rosa de Osos,Santa Rosa de Osos	6.68781	-75.44094	A	ADM2	CO		02	05686			31025		2582	America/Bogota	2018-06-08
+3668455	Santa Rosa de Cabal	Santa Rosa de Cabal	Municipio de Santa Rosa de Cabal,Santa Rosa de Cabal	4.84524	-75.54498	A	ADM2	CO		24	66682			69960		2403	America/Bogota	2018-09-05
+3668524	Santa Rosa	Santa Rosa	Municipio de Santa Rosa,Santa Rosa	10.47312	-75.3616	A	ADM2	CO		35	13683			18375		55	America/Bogota	2022-07-23
+3668525	Santa Rosa	Santa Rosa	Municipio de Santa Rosa,Santa Rosa	1.53696	-76.49787	A	ADM2	CO		09	19701			9579		1574	America/Bogota	2018-07-04
+3668573	Santander de Quilichao	Santander de Quilichao	Municipio de Santander de Quilichao,Santander,Santander de Quilichao	3	-76.5	A	ADM2	CO		09	19698			99354		1090	America/Bogota	2022-07-24
+3668614	Santa Marta	Santa Marta	Sankta Marta,Santa Marta,Santa-Marta,Santa-marta,Santamarta,canta martta,san ta mar ta,sanata marata,santa marta,santamaleuta,sheng ma er ta,snth mrth,Σάντα Μάρτα,Санта Марта,Санта-Марта,Սանտա Մարտա,סנטה מרתה,سانتا مارتا,सांता मार्ता,সানতা মারতা,સાન્તા માર્ટા,சாண்டா மார்த்தா,శాంటా మార్త,ಸಂತ ಮಾರ್ತಾ,සැන්ටා මර්ටා,ซานตามาร์ตา,სანტა-მარტა,サンタ・マルタ,圣玛尔塔,聖瑪爾塔,산타마르타	11.24348	-74.20835	A	ADM2	CO		38	47001			499192		8	America/Bogota	2022-07-24
+3668643	Santa María	Santa Maria	Municipio de Santa Maria,Municipio de Santa María,Santa Maria,Santa María	2.93392	-75.63178	A	ADM2	CO		16	41676			10218		1864	America/Bogota	2018-08-08
+3668721	Santa Isabel	Santa Isabel	Santa Isabel	4.72626	-75.22391	A	ADM2	CO		28	73686			6565		3290	America/Bogota	2014-09-16
+3668834	Santacruz	Santacruz	Guachaves,Guachavés,Santa Cruz	1.33333	-77.7	A	ADM2	CO		20	52699			20670		1834	America/Bogota	2014-09-16
+3668858	Santa Catalina	Santa Catalina		10.60448	-75.29555	A	ADM2	CO		35	13673			14039		36	America/Bogota	2022-07-18
+3668920	Santa Bárbara	Santa Barbara	Municipio de Santa Barbara,Municipio de Santa Bárbara,Santa Barbara,Santa Bárbara	5.88937	-75.58255	A	ADM2	CO		02	05679			22030		1507	America/Bogota	2022-07-23
+3668921	Santa Bárbara	Santa Barbara	El Charco,Iscuande,Iscuandé,Municipio de Santa Barbara,Municipio de Santa Bárbara,Santa Barbara,Santa Bárbara	2.30185	-77.91487	A	ADM2	CO		20	52696			15332		35	America/Bogota	2020-06-11
+3668928	Santa Ana	Santa Ana		9.51484	-74.3433	A	ADM2	CO		38	47707			22723		51	America/Bogota	2022-07-18
+3668979	San Sebastián de Buenavista	San Sebastian de Buenavista	San Sebastian,San Sebastian de Buenavista,San Sebastián de Buenavista	9.33242	-74.2152	A	ADM2	CO		38	47692			18865		33	America/Bogota	2022-07-23
+3668992	San Sebastián	San Sebastian		1.91667	-76.66667	A	ADM2	CO		09	19693			12820		2937	America/Bogota	2014-09-16
+3669018	San Roque	San Roque		6.44421	-74.95246	A	ADM2	CO		02	05670			18157		1033	America/Bogota	2014-09-16
+3669034	San Rafael	San Rafael		6.31234	-75.02426	A	ADM2	CO		02	05667			12578		1385	America/Bogota	2022-07-18
+3669085	San Pelayo	San Pelayo	Municipio de San Pelayo,San Pelayo	9	-75.91667	A	ADM2	CO		12	23686			39260		27	America/Bogota	2018-07-04
+3669167	San Pedro	San Pedro	Municipio de San Pedro,San Pedro,San-Pedro,sana pedro,sheng pei de luo,sn pdrw,Сан-Педро,سن پدرو,সান পেদ্রো,სან-პედრო,聖佩德羅	9.39917	-75.035	A	ADM2	CO		27	70717			16415		144	America/Bogota	2018-09-05
+3669168	Municipio de San Pedro de los Milagros	Municipio de San Pedro de los Milagros	Municipio de San Pedro de los Milagros,San Pedro,San Pedro de los Milagros	6.46538	-75.56452	A	ADM2	CO		02	05664			17119		2525	America/Bogota	2022-07-24
+3669169	San Pedro	San Pedro	San Pedro	3.99936	-76.26123	A	ADM2	CO		29	76670			15784		943	America/Bogota	2014-09-16
+3669174	San Pablo de Borbur	San Pablo de Borbur	San Pablo de Borbur	5.66638	-74.13723	A	ADM2	CO		36	15681			18865		1232	America/Bogota	2022-07-23
+3669217	San Pablo	San Pablo		1.6702	-77.02373	A	ADM2	CO		20	52693			18103		1702	America/Bogota	2014-09-16
+3669219	San Onofre	San Onofre	San Onofre,San-Onofre,san awnwfrh,san-onopre,sheng ao nuo fu lei,Сан-Онофре,سان اونوفره,სან-ონოფრე,聖奧諾弗雷	9.73714	-75.52483	A	ADM2	CO		27	70713			46383		37	America/Bogota	2014-09-19
+3669239	San Miguel de Sema	San Miguel de Sema	Municipio de San Miguel de Sema,San Miguel Sema,San Miguel de Sema	5.53492	-73.75144	A	ADM2	CO		36	15676			4612		2539	America/Bogota	2018-06-08
+3669294	San Miguel	San Miguel		6.56816	-72.64319	A	ADM2	CO		26	68686			2683		2112	America/Bogota	2016-06-24
+3669314	San Mateo	San Mateo	San Mateo	6.37704	-72.57797	A	ADM2	CO		36	15673			4790		2463	America/Bogota	2014-09-16
+3669317	San Martín de Loba	San Martin de Loba	San Martin de Loba,San Martín de Loba	8.88214	-74.00353	A	ADM2	CO		35	13667			14504		21	America/Bogota	2022-07-23
+3669334	San Martín	San Martin	Municipio de San Martin,Municipio de San Martín,San Martin,San Martín,san martyn,sheng ma ding,سان مارتین,სან-მარტინი,聖馬丁	3.50819	-73.03975	A	ADM2	CO		19	50689			21350		237	America/Bogota	2018-08-08
+3669350	San Marcos	San Marcos	Municipio de San Marcos,San Marcos	8.58333	-75.16667	A	ADM2	CO		27	70708			60735		15	America/Bogota	2022-07-18
+3669354	San Luis de Palenque	San Luis de Palenque		5.28056	-71.58194	A	ADM2	CO		32	85325			7415		155	America/Bogota	2014-09-16
+3669357	San Luis de Gaceno	San Luis de Gaceno		4.85286	-73.14198	A	ADM2	CO		36	15667			6383		494	America/Bogota	2014-09-16
+3669407	San Luis	San Luis	Municipio de San Luis,San Luis	6.01644	-74.94687	A	ADM2	CO		02	05660			7155		884	America/Bogota	2022-07-18
+3669408	San Luis	San Luis	Municipio de San Luis,San Luis	4.16667	-75.08333	A	ADM2	CO		28	73678			19262		538	America/Bogota	2018-09-05
+3669441	San Lorenzo	San Lorenzo	San Lorenzo	1.55731	-77.24599	A	ADM2	CO		20	52687			16653		1867	America/Bogota	2022-07-24
+3669455	San Juan Nepomuceno	San Juan Nepomuceno		9.94976	-75.07426	A	ADM2	CO		35	13657			32514		162	America/Bogota	2014-09-16
+3669465	San Juan de Río Seco	San Juan de Rio Seco		4.83077	-74.68248	A	ADM2	CO		33	25662			9792		300	America/Bogota	2014-09-16
+3669470	San Juan del Cesar	San Juan del Cesar	San Juan de Cesar,San Juan de César,San Juan del Cesar,San Juan del César	10.83333	-73.08333	A	ADM2	CO		17	44650			33654		362	America/Bogota	2014-09-16
+3669542	San José de Pare	San Jose de Pare		5.97681	-73.55959	A	ADM2	CO		36	15664			5719		1886	America/Bogota	2014-09-16
+3669546	San José de Miranda	San Jose de Miranda	San Jose de Miranda,San José de Miranda	6.63051	-72.73155	A	ADM2	CO		26	68684			4855		1642	America/Bogota	2014-09-25
+3669550	San José del Palmar	San Jose del Palmar	Municipio de San Jose del Palmar,Municipio de San José del Palmar,San Jose del Palmar,San José del Palmar	4.94657	-76.22226	A	ADM2	CO		11	27660			5068		997	America/Bogota	2018-07-08
+3669559	Isnos	Isnos	San Jose de Isnos,San José de Isnos	1.97627	-76.28168	A	ADM2	CO		16	41359			23702		1726	America/Bogota	2014-09-16
+3669709	San Joaquín	San Joaquin	Municipio de San Joaquin,Municipio de San Joaquín,San Joaquin,San Joaquín	6.46554	-72.84852	A	ADM2	CO		26	68682			2948		2594	America/Bogota	2018-09-05
+3669722	San Jerónimo	San Jeronimo	Municipio de San Jeronimo,Municipio de San Jerónimo,San Jeronimo,San Jerónimo	6.44139	-75.70783	A	ADM2	CO		02	05656			13158		1076	America/Bogota	2022-07-23
+3669739	San Jacinto	San Jacinto	Municipio de San Jacinto,San Jacinto	9.83906	-75.11043	A	ADM2	CO		35	13654			23576		284	America/Bogota	2022-07-24
+3669809	San Gil	San Gil	San Gil	6.54456	-73.13872	A	ADM2	CO		26	68679			43519		1288	America/Bogota	2014-09-16
+3669885	San Francisco	San Francisco	Municipio de San Francisco,San Fracisco,San Francisco	4.96335	-74.26613	A	ADM2	CO		33	25658			8304		1972	America/Bogota	2018-07-04
+3669903	San Fernando	San Fernando	sheng fei er nan duo,聖費爾南多	9.07705	-74.41177	A	ADM2	CO		35	13650			9776		18	America/Bogota	2022-07-23
+3669930	San Estanislao	San Estanislao	Municipio de San Estanislao,San Estanislao	10.37423	-75.20781	A	ADM2	CO		35	13647			15312		51	America/Bogota	2018-07-04
+3669939	Sandoná	Sandona		1.30722	-77.48284	A	ADM2	CO		20	52683			18859		1643	America/Bogota	2022-07-18
+3669985	San Cayetano	San Cayetano	San Cayetano	7.84771	-72.61014	A	ADM2	CO		21	54673			5424		330	America/Bogota	2022-07-23
+3669986	San Cayetano	San Cayetano	Municipio de San Cayetano,San Cayetano	5.31693	-74.07141	A	ADM2	CO		33	25653			5276		2490	America/Bogota	2018-07-04
+3670009	San Carlos	San Carlos	Municipio de San Carlos,San Carlos	8.7104	-75.68959	A	ADM2	CO		12	23678			23622		35	America/Bogota	2018-07-04
+3670010	San Carlos	San Carlos	Municipio de San Carlos,San Carlos	6.20783	-74.90492	A	ADM2	CO		02	05649			14480		945	America/Bogota	2022-07-18
+3670012	San Calixto	San Calixto		8.44179	-73.16598	A	ADM2	CO		21	54670			12581		1582	America/Bogota	2014-09-16
+3670019	San Bernardo del Viento	San Bernardo del Viento	Municipio de San Bernardo del Viento,San Bernardo,San Bernardo del Viento	9.33498	-75.96945	A	ADM2	CO		12	23675			31405		2	America/Bogota	2018-07-04
+3670036	San Bernardo	San Bernardo		4.12956	-74.35903	A	ADM2	CO		33	25649			7417		2512	America/Bogota	2022-07-18
+3670039	San Benito Abad	San Benito Abad	Municipio de San Benito Abad,San Benito Abad	8.78833	-74.95666	A	ADM2	CO		27	70678			22972		12	America/Bogota	2018-09-05
+3670044	San Benito	San Benito	San Benito	6.10206	-73.53753	A	ADM2	CO		26	68673			3907		1214	America/Bogota	2014-09-16
+3670198	San Antonio	San Antonio	Municipio de San Antonio,San Antonio	3.95664	-75.5	A	ADM2	CO		28	73675			15331		2426	America/Bogota	2018-09-05
+3670200	San Antero	San Antero	Municipio de San Antero,San Antero	9.36136	-75.78603	A	ADM2	CO		12	23672			26123		17	America/Bogota	2018-07-04
+3670208	San Andrés Sotavento	San Andres Sotavento	San Andres de Sotavento,San Andrés de Sotavento	9.12183	-75.51627	A	ADM2	CO		12	23670			48404		78	America/Bogota	2022-07-23
+3670229	Saint Andrew	Saint Andrew	San Andres,San Andresas,San Andrés,San-Andres,aysla dh san andrs,san andrs,san andrys  san andrys w prwwdynsya,san-andeuleseu,sheng an de lie si,Сан Андрес,Сан-Андрес,ایسلا ده سان آندرس,سان آندرس,سان اندریس، سان اندریس و پروودینسیا,圣安德列斯,산안드레스	12.54308	-81.71752	A	ADM2	CO		25	88001			65627		62	America/Bogota	2025-07-04
+3670230	San Andrés de Cuerquía	San Andres de Cuerquia		6.91667	-75.66667	A	ADM2	CO		02	05647			7367		1808	America/Bogota	2014-09-16
+3670231	San Andrés	San Andres		6.78376	-72.83407	A	ADM2	CO		26	68669			9783		1630	America/Bogota	2014-09-16
+3670266	San Agustín	San Agustin	Municipio de San Agustin,Municipio de San Agustín,San Agustin,San Agustín	1.92433	-76.41572	A	ADM2	CO		16	41668			29687		1870	America/Bogota	2018-08-08
+3670282	Sampués	Sampues	Municipio de Sampues,Municipio de Sampués,Sampues,Sampués	9.15417	-75.34583	A	ADM2	CO		27	70670			38631		130	America/Bogota	2022-07-18
+3670294	Samaniego	Samaniego	Municipio de Samaniego,Samaniego	1.41667	-77.66667	A	ADM2	CO		20	52678			49085		1959	America/Bogota	2022-07-18
+3670301	Samaná	Samana	Samana,Samaná	5.54061	-74.99346	A	ADM2	CO		37	17662			17466		1011	America/Bogota	2022-07-18
+3670304	Samacá	Samaca	Samaca,Samacá	5.44739	-73.55009	A	ADM2	CO		36	15646			17614		3308	America/Bogota	2015-01-05
+3670351	Salgar	Salgar	Municipio de Salgar,Sal'gar,Salgar,sa er jia,salgar,salgari,Сальгар,Салґар,سالگار,სალგარი,萨尔加,薩爾加	5.96711	-75.98747	A	ADM2	CO		02	05642			15782		1387	America/Bogota	2022-07-23
+3670353	Salento	Salento	Salento	4.63643	-75.5674	A	ADM2	CO		23	63690			7247		1977	America/Bogota	2014-09-16
+3670361	Salazar	Salazar	Municipio de Salazar,Salazar,Zalazar	7.78249	-72.85741	A	ADM2	CO		21	54660			8964		1603	America/Bogota	2022-07-23
+3670371	Salamina	Salamina	Municipio de Salamina,Salamina	10.51727	-74.71942	A	ADM2	CO		38	47675			8404		7	America/Bogota	2018-08-08
+3670372	Salamina	Salamina	Municipio de Salamina,Salamina,sa la mi na,salamina,salamyna,سالامینا,სალამინა,薩拉米納	5.37014	-75.41548	A	ADM2	CO		37	17653			20288		2716	America/Bogota	2018-07-04
+3670384	Saladoblanco	Saladoblanco	Saladoblanco,sa la duo bu lan ke,saladwblankw,سالادوبلانکو,სალადობლანკო,萨拉多布兰科,薩拉多布蘭科	2.06422	-76.20957	A	ADM2	CO		16	41660			10076		2074	America/Bogota	2022-07-18
+3670420	Sahagún	Sahagun	Municipio de Sahagun,Municipio de Sahagún,Sahagun,Sahagún	8.79717	-75.44242	A	ADM2	CO		12	23660			90494		118	America/Bogota	2022-07-18
+3670432	Sáchica	Sachica		5.57438	-73.54345	A	ADM2	CO		36	15638			3868		2177	America/Bogota	2016-06-24
+3670444	Sácama	Sacama	Municipio de Sacama,Municipio de Sácama,Sacama,Sácama	6.05213	-72.21049	A	ADM2	CO		32	85315			1706		1323	America/Bogota	2020-06-11
+3670448	Saboyá	Saboya		5.68787	-73.78139	A	ADM2	CO		36	15632			12957		2719	America/Bogota	2015-01-05
+3670507	Sabanalarga	Sabanalarga	Sabanalarga,sa wa na la jia,sabanalarga,Сабаналарга,سابانالارگا,سبنلرگہ، اٹلانتیکو,საბანალარგა,薩瓦納拉加	10.61636	-74.95717	A	ADM2	CO		04	08638			102334		88	America/Bogota	2022-07-23
+3670508	Sabanalarga	Sabanalarga	Municipio de Sabanalarga,Sabanalarga	6.90571	-75.79374	A	ADM2	CO		02	05628			8193		1157	America/Bogota	2018-06-08
+3670519	Sabanagrande	Sabanagrande	Municipio de Sabanagrande,Sabanagrande	10.80077	-74.77051	A	ADM2	CO		04	08634			35044		17	America/Bogota	2022-07-18
+3670588	Rovira	Rovira	Municipio de Rovira,Rovira	4.21222	-75.3421	A	ADM2	CO		28	73624			20452		1694	America/Bogota	2022-07-18
+3670596	Rosas	Rosas	Rosas	2.24593	-76.7423	A	ADM2	CO		09	19622			9336		1586	America/Bogota	2022-07-18
+3670627	Rondón	Rondon	Municipio de Rondon,Municipio de Rondón,Rondon,Rondón	5.38173	-73.19683	A	ADM2	CO		36	15621			3011		1968	America/Bogota	2018-06-08
+3670630	Roncesvalles	Roncesvalles	Municipio de Roncesvalles,Roncesvalles	4.10907	-75.59648	A	ADM2	CO		28	73622			6340		2919	America/Bogota	2022-07-18
+3670645	Roldanillo	Roldanillo	Municipio de Roldanillo,Roldanillo	4.446	-76.16387	A	ADM2	CO		29	76622			34698		1218	America/Bogota	2018-09-05
+3670673	La Paz	La Paz	Robles,Robles La Paz	10.10487	-73.22056	A	ADM2	CO		10	20621			26109		135	America/Bogota	2022-07-24
+3670681	Roberto Payán	Roberto Payan	Municipio de Roberto Payan,Municipio de Roberto Payán,Roberto Payan,Roberto Payán,San Jose,San José	1.91757	-78.38191	A	ADM2	CO		20	52621			16892		18	America/Bogota	2018-08-08
+3670693	Rivera	Rivera	Rivera,li wei la,ribera,rivera,rywra,Ривера,ریورا,რივერა,リベラ,里韋拉,里韦拉	2.77347	-75.20188	A	ADM2	CO		16	41615			22877		1167	America/Bogota	2022-07-18
+3670701	Risaralda	Risaralda	Risaralda	5.11237	-75.75861	A	ADM2	CO		37	17616			10679		1182	America/Bogota	2016-06-24
+3670720	Riosucio	Riosucio	Riosucio,Ríosucio	7.41667	-77.16667	A	ADM2	CO		11	27615			14323		6	America/Bogota	2016-12-14
+3670721	Riosucio	Riosucio		5.45	-75.75	A	ADM2	CO		37	17614			54537		2055	America/Bogota	2015-01-08
+3670735	Rionegro	Rionegro		7.5	-73.33333	A	ADM2	CO		26	68615			29382		182	America/Bogota	2015-01-08
+3670736	Rionegro	Rionegro	Rionegro,Ríonegro	6.16667	-75.41667	A	ADM2	CO		02	05615			100502		2114	America/Bogota	2014-09-16
+3670747	Riohacha	Riohacha		11.16667	-73.08333	A	ADM2	CO		17	44001			167865		461	America/Bogota	2014-09-16
+3670755	Riofrío	Riofrio	Riofrio,Ríofrío	4.10279	-76.41593	A	ADM2	CO		29	76616			17376		1746	America/Bogota	2014-09-16
+3670757	Río de Oro	Rio de Oro	Rio de Oro,Río de Oro	8.17879	-73.51218	A	ADM2	CO		10	20614			14408		176	America/Bogota	2022-07-23
+3670766	Rioblanco	Rioblanco	Rioblanco,Ríoblanco,li ao bu lan ke,rywblankw,ریوبلانکو,რიობლანკო,里奧布蘭科	3.5	-75.83333	A	ADM2	CO		28	73616			19090		3043	America/Bogota	2022-07-23
+3670818	Chalán	Chalan	Chalan,Chalán,Municipio de Chalan,Municipio de Chalán,Ricaurte	9.57013	-75.31806	A	ADM2	CO		27	70230			4188		570	America/Bogota	2018-09-05
+3670819	Ricaurte	Ricaurte	Ricaurte	1.18788	-78.05537	A	ADM2	CO		20	52612			18067		1968	America/Bogota	2022-07-18
+3670853	Retiro	Retiro	Municipio de Retiro,Retiro	6.05906	-75.51488	A	ADM2	CO		02	05607			20700		2254	America/Bogota	2022-07-18
+3670859	Restrepo	Restrepo		4.29414	-73.59558	A	ADM2	CO		19	50606			10178		1030	America/Bogota	2016-06-24
+3670860	Restrepo	Restrepo	Restrepo	3.79593	-76.56736	A	ADM2	CO		29	76606			15805		1646	America/Bogota	2014-09-16
+3670876	Repelón	Repelon	Municipio de Repelon,Municipio de Repelón,Repelon,Repelón	10.50937	-75.1283	A	ADM2	CO		04	08606			25467		25	America/Bogota	2022-07-18
+3670898	Remolino	Remolino	Municipio de Remolino,Remolino,lei mo li nuo,remolino,rmwlynw,Ремолино,Ремоліно,رمولینو,რემოლინო,雷莫利諾,雷莫利诺	10.65048	-74.58442	A	ADM2	CO		38	47605			8751		3	America/Bogota	2018-08-08
+3670900	Remedios	Remedios	Municipio de Remedios,Remedios,lei mei di ao si,remediosi,remediosu,rmdyws,Ремедиос,רמדיוס,رمدیوس,რემედიოსი,レメディオス,雷梅迪奥斯,雷梅迪奧斯	7.02192	-74.54821	A	ADM2	CO		02	05604			29199		530	America/Bogota	2022-07-18
+3670935	Recetor	Recetor		5.22846	-72.78643	A	ADM2	CO		32	85279			2608		1168	America/Bogota	2014-09-16
+3670967	Ráquira	Raquira	Raquira,Ráquira	5.48395	-73.65658	A	ADM2	CO		36	15600			12522		2669	America/Bogota	2015-01-05
+3671003	Ramiriquí	Ramiriqui	Ramiriqui,Ramiriquí	5.31971	-73.31137	A	ADM2	CO		36	15599			10789		2955	America/Bogota	2016-06-24
+3671019	Ragonvalia	Ragonvalia	Municipio de Ragonvalia,Ragonvalia,Rangovalia	7.59756	-72.50985	A	ADM2	CO		21	54599			6800		2276	America/Bogota	2018-08-08
+3671021	Apulo	Apulo	Apulo,Rafael Reyes	4.50902	-74.59774	A	ADM2	CO		33	25599			7822		452	America/Bogota	2014-09-16
+3671073	Quipile	Quipile	Municipio de Quipile,Quipile	4.72366	-74.55103	A	ADM2	CO		33	25596			8217		1646	America/Bogota	2018-07-04
+3671092	Quinchía	Quinchia	Quinchia,Quinchía	5.31977	-75.75778	A	ADM2	CO		24	66594			33318		1568	America/Bogota	2014-09-16
+3671099	Quimbaya	Quimbaya	Quimbaya	4.59342	-75.83758	A	ADM2	CO		23	63594			35350		1146	America/Bogota	2022-07-18
+3671117	Quibdó	Quibdo	Municipio de Quibdo,Municipio de Quibdó,Quibdo,Quibdó	5.76075	-76.83701	A	ADM2	CO		11	27001			112886		72	America/Bogota	2018-07-04
+3671120	Quetame	Quetame	Municipio de Quetame,Quetame	4.33236	-73.84015	A	ADM2	CO		33	25594			6570		2103	America/Bogota	2018-07-04
+3671164	Quebradanegra	Quebradanegra	Quebradanegra,kbradangra,ke bu la da nei ge la,کبرادانگرا,კებრადანეგრა,克布拉达内格拉,克布拉達內格拉	5.08262	-74.52117	A	ADM2	CO		33	25592			4738		1364	America/Bogota	2022-07-24
+3671204	Purísima	Purisima	Purisima,Purísima	9.24955	-75.71181	A	ADM2	CO		12	23586			14705		11	America/Bogota	2022-07-24
+3671209	Purificación	Purificacion	Municipio de Purificacion,Municipio de Purificación,Purificacion,Purificación	3.86903	-74.886	A	ADM2	CO		28	73585			29539		316	America/Bogota	2022-07-24
+3671223	Puracé	Purace	Municipio de Purace,Municipio de Puracé,Purace,Puracé	2.33851	-76.38759	A	ADM2	CO		09	19585			14952		3895	America/Bogota	2022-07-24
+3671229	Pupiales	Pupiales	Municipio de Pupiales,Pupiales	0.9225	-77.64194	A	ADM2	CO		20	52585			16431		3038	America/Bogota	2022-07-24
+3671280	Pulí	Puli	Puli,Pulí	4.67855	-74.69526	A	ADM2	CO		33	25580			2945		978	America/Bogota	2014-09-16
+3671289	Puerto Wilches	Puerto Wilches		7.53661	-73.80505	A	ADM2	CO		26	68575			31503		55	America/Bogota	2014-09-16
+3671316	Puerto Tejada	Puerto Tejada	Puerto Tejada	3.23393	-76.41935	A	ADM2	CO		09	19573			46215		966	America/Bogota	2022-07-18
+3671331	Puerto Salgar	Puerto Salgar	Municipio de Puerto Salgar,Puerto Salgar,pwrtw salgar,sa er jia gang,پورتو سالگار,პუერტო-სალგარი,プエルト・サルガル,萨尔加港,薩爾加港	5.61892	-74.58483	A	ADM2	CO		33	25572			15019		191	America/Bogota	2022-07-18
+3671422	Puerto López	Puerto Lopez	Municipio de Puerto Lopez,Municipio de Puerto López,Puerto Lopez,Puerto López	4.04426	-72.65731	A	ADM2	CO		19	50573			28790		202	America/Bogota	2018-08-08
+3671425	Puerto Lleras	Puerto Lleras	Puerto Lleras,lie la si gang,pwrtw lras,پورتو لراس,პუერტო-ლიერასი,プエルト・ジェラス,列拉斯港	3.21794	-73.23215	A	ADM2	CO		19	50577			8982		262	America/Bogota	2022-07-18
+3671471	Puerto Escondido	Puerto Escondido	Municipio de Puerto Escondido,Puerto Escondido	8.99453	-76.19351	A	ADM2	CO		12	23574			19474		28	America/Bogota	2022-07-18
+3671506	Puerto Colombia	Puerto Colombia	Municipio de Puerto Colombia,Puerto Colombia	11.00854	-74.90887	A	ADM2	CO		04	08573			27837		25	America/Bogota	2018-07-04
+3671533	Puerto Boyacá	Puerto Boyaca	Municipio de Puerto Boyaca,Municipio de Puerto Boyacá,Puerto Boyaca,Puerto Boyacá,Territorio Vasquez,Territorio Vásquez	5.97214	-74.46349	A	ADM2	CO		36	15572			55286		167	America/Bogota	2022-07-24
+3671541	Puerto Berrío	Puerto Berrio	Municipio de Puerto Berrio,Municipio de Puerto Berrío,Puehrto-Berrio,Puerto Berrio,Puerto Berrío,bei li ao gang,pwrtw brryw,Пуэрто-Беррио,پورتو برریو,პუერტო-ბერიო,貝里奧港	6.50749	-74.52271	A	ADM2	CO		02	05579			51079		320	America/Bogota	2022-07-24
+3671578	Puerres	Puerres		0.82122	-77.31978	A	ADM2	CO		20	52573			8979		1815	America/Bogota	2015-01-07
+3671592	Puente Nacional	Puente Nacional	Puehnte-Nas'onal',Puente Nacional,peng te na xiong nai er,pwynth nasywnal,Пуэнте-Насьональ,پوئنته ناسیونال,პუერტე-ნასიონალი,蓬特納雄耐爾,蓬特纳雄耐尔	5.81658	-73.69287	A	ADM2	CO		26	68572			14538		2176	America/Bogota	2014-09-16
+3671628	Puebloviejo	Puebloviejo		10.84239	-74.38538	A	ADM2	CO		38	47570			24994		1	America/Bogota	2014-09-16
+3671632	Pueblorrico	Pueblorrico	Municipio de Pueblorrico,Pueblorrico	5.8	-75.85	A	ADM2	CO		02	05576			8294		1894	America/Bogota	2018-06-08
+3671635	Pueblo Rico	Pueblo Rico	Municipio de Pueblo Rico,Pueblo Rico	5.29453	-76.06702	A	ADM2	CO		24	66572			14429		874	America/Bogota	2022-07-18
+3671664	Pueblo Nuevo	Pueblo Nuevo	Municipio de Pueblo Nuevo,Pueblo Nuevo	8.5	-75.41667	A	ADM2	CO		12	23570			31536		63	America/Bogota	2018-07-04
+3671718	Providencia	Providencia	Santa Isabel	13.38479	-81.37468	A	ADM2	CO		25	88564			4927		28	America/Bogota	2014-09-16
+3671766	Prado	Prado	Municipio de Prado,Prado	3.73219	-74.86494	A	ADM2	CO		28	73563			7607		568	America/Bogota	2022-07-18
+3671773	Pradera	Pradera	Municipio de Pradera,Pradera,pradra,pu la de la,Прадера,پرادرا,პრადერა,普拉德拉	3.42793	-76.17159	A	ADM2	CO		29	76563			48843		1826	America/Bogota	2018-09-05
+3671849	Potosí	Potosi	Municipio de Potosi,Municipio de Potosí,Potosi,Potosí	0.74669	-77.42162	A	ADM2	CO		20	52560			10186		3195	America/Bogota	2022-07-18
+3671904	Pore	Pore		5.67083	-71.93	A	ADM2	CO		32	85263			7968		219	America/Bogota	2014-09-16
+3671917	Popayán	Popayan	Municipio de Popayan,Municipio de Popayán,Popayan,Popayán	2.48062	-76.59109	A	ADM2	CO		09	19001			257512		1770	America/Bogota	2018-07-04
+3671951	Polonuevo	Polonuevo	Polonuevo	10.7807	-74.85895	A	ADM2	CO		04	08558			19454		87	America/Bogota	2022-07-18
+3672032	Plato	Plato	Plato	9.77267	-74.74548	A	ADM2	CO		38	47555			49195		7	America/Bogota	2014-09-24
+3672069	Planeta Rica	Planeta Rica	Municipio de Planeta Rica,Planeta Rica	8.33333	-75.58333	A	ADM2	CO		12	23555			69708		61	America/Bogota	2022-07-18
+3672078	Planadas	Planadas	Municipio de Planadas,Planadas,planadas,pu la na da,پلاناداس,პლანადასი,普拉納達	3.10326	-75.8168	A	ADM2	CO		28	73555			21557		2558	America/Bogota	2022-07-18
+3672094	Pivijay	Pivijay	Municipio de Pivijay,Pivijay,Pivikhaj,pi wei ha yi,pywykhay,Пивихай,Півіхай,پیویخای,პივიხაი,皮維哈伊	10.43178	-74.41536	A	ADM2	CO		38	47551			33047		38	America/Bogota	2022-07-18
+3672111	Pitalito	Pitalito	Pitalito	1.82126	-76.12261	A	ADM2	CO		16	41551			135711		1329	America/Bogota	2022-07-18
+3672124	Pital	Pital	El Pital,Pital,pi ta er,pytal,پیتال,პიტალი,皮塔尔,皮塔爾	2.22987	-75.83137	A	ADM2	CO		16	41548			12835		1152	America/Bogota	2022-07-18
+3672144	Pisba	Pisba	Municipio de Pisba,Pisba,Pisva	5.74278	-72.48944	A	ADM2	CO		36	15550			1533		1746	America/Bogota	2018-06-08
+3672177	Piojó	Piojo	Municipio de Piojo,Municipio de Piojó,Piojo,Piojó	10.74613	-75.13797	A	ADM2	CO		04	08549			5017		190	America/Bogota	2018-07-04
+3672205	Pinchote	Pinchote	Pinchote	6.50842	-73.18876	A	ADM2	CO		26	68549			4420		1558	America/Bogota	2015-01-08
+3672256	Pijao	Pijao	Municipio de Pijao,Pijao	4.30588	-75.68176	A	ADM2	CO		23	63548			6683		2668	America/Bogota	2018-08-08
+3672262	Piendamó	Piendamo		2.70214	-76.59736	A	ADM2	CO		09	19548			44535		1734	America/Bogota	2022-07-18
+3672292	Piedras	Piedras	Municipio de Piedras,Piedras,bi de la si,pydras,پیدراس,პიედრასი,彼德拉斯	4.5	-74.91667	A	ADM2	CO		28	73547			5662		436	America/Bogota	2022-07-18
+3672331	Piedecuesta	Piedecuesta	Municipio de Piedecuesta,P'edekuehsta,P'edekvesta,Piedecuesta,bi de kui si ta,pydh kwysta,Пьедеквеста,Пьедекуэста,پیده کوئستا,პიედეკუესტა,彼德奎斯塔	6.97443	-73.02284	A	ADM2	CO		26	68547			163362		1243	America/Bogota	2022-07-23
+3672430	Pesca	Pesca	Municipio de Pesca,Pesca	5.50213	-73.08794	A	ADM2	CO		36	15542			9762		2965	America/Bogota	2018-06-08
+3672487	Pereira	Pereira	Municipio de Pereira,Pereir,Pereira,Perejra,pei lei la,peleila,pryra,pryra  kwlmbya,pyryyra,Перейра,پریرا,پریرا، کولمبیا,پیریئرا,პერეირა,佩雷拉,페레이라	4.76896	-75.72222	A	ADM2	CO		24	66001			467269		1392	America/Bogota	2022-07-24
+3672513	Peque	Peque	Municipio de Peque,Peke,Peque,pei ke,pkh,Пеке,Պեկե,پکه,პეკე,佩克	7.04071	-75.89206	A	ADM2	CO		02	05543			7155		1894	America/Bogota	2022-07-18
+3672524	Pensilvania	Pensilvania	Pensilvania	5.3884	-75.2042	A	ADM2	CO		37	17541			26426		2906	America/Bogota	2014-09-16
+3672541	Peñol	Penol	Municipio de Penol,Municipio de Peñol,Penol,Peñol	6.23434	-75.22573	A	ADM2	CO		02	05541			16241		1881	America/Bogota	2022-07-18
+3672634	Pedraza	Pedraza	Municipio de Pedraza,Pedrasa,Pedraza,pdraza,pei de la sa,Педраса,پدرازا,პედრასა,佩德拉萨,佩德拉薩	10.1494	-74.83634	A	ADM2	CO		38	47541			8031		47	America/Bogota	2018-08-08
+3672652	Paz de Río	Paz de Rio	Paz de Rio,Paz de Río,Paz del Rio	6.00219	-72.78857	A	ADM2	CO		36	15537			5258	1800	3080	America/Bogota	2014-09-16
+3672655	Paz de Ariporo	Paz de Ariporo	Moreno	5.88333	-71.9	A	ADM2	CO		32	85250			27146		296	America/Bogota	2014-09-16
+3672667	Magüi	Maguei	Julio Plaza,Magui,Magüí,Payan,Payán	1.90504	-78.04916	A	ADM2	CO		20	52427			16394		79	America/Bogota	2016-06-24
+3672670	Paya	Paya	Municipio de Paya,Municipio de Payá,Paya	5.664	-72.37473	A	ADM2	CO		36	15533			2648		1509	America/Bogota	2018-06-08
+3672699	Pauna	Pauna		5.67575	-74.02618	A	ADM2	CO		36	15531			6355		695	America/Bogota	2022-07-18
+3672762	Patía	Patia	Municipio de Patia,Municipio de Patía,Patia,Patía	2.14018	-77.01744	A	ADM2	CO		09	19532			37781		684	America/Bogota	2022-07-18
+3672779	Pasto	Pasto	Pastas,Pasto,San Juan de Pasto,pa si tuo,paseuto,pastw,pastw  kwlmbya,Πάστο,Пасто,پاستو,پاستو، کولمبیا,პასტო,帕斯托,파스토	1.21467	-77.27865	A	ADM2	CO		20	52001			382618		2536	America/Bogota	2014-09-16
+3672814	Pasca	Pasca	Municipio de Pasca,Pasca	4.30227	-74.27513	A	ADM2	CO		33	25535			11122		2522	America/Bogota	2018-07-04
+3672900	Páramo	Paramo	Paramo,Páramo	6.4375	-73.18027	A	ADM2	CO		26	68533			3671		1740	America/Bogota	2014-09-16
+3672982	Panqueba	Panqueba	Panqueba,Panqueva	6.40494	-72.47515	A	ADM2	CO		36	15522			1859		2895	America/Bogota	2015-01-05
+3672998	Pandi	Pandi		4.18032	-74.47099	A	ADM2	CO		33	25524			5468		1334	America/Bogota	2016-06-24
+3673042	Pamplonita	Pamplonita	Pamplonita,pamplwnyta,pan pu luo ni ta,Памплонита,پامپلونیتا,პამპლონიტა,潘普洛尼塔	7.45814	-72.65965	A	ADM2	CO		21	54520			4792		2091	America/Bogota	2014-09-16
+3673046	Pamplona	Pamplona	Pamplona,pamplwna,pan pu luo na,Памплона,پامپلونا,პამპლონა,潘普洛纳	7.3494	-72.69952	A	ADM2	CO		21	54518			57803		3356	America/Bogota	2022-07-23
+3673097	Pinillos	Pinillos	Pinillos	8.82373	-74.3811	A	ADM2	CO		35	13549			22801		13	America/Bogota	2014-09-16
+3673144	Palmito	Palmito	Municipio de Palmito,Palmito,San Antonio de Palmito	9.33667	-75.56333	A	ADM2	CO		27	70523			13682		28	America/Bogota	2018-09-10
+3673165	Palmira	Palmira	Municipio de Palmira,Pal'mira,Palmira,pa er mi la,palmila,palmyra,parumira,Палмира,Пальмира,پالمیرا,پالمیرا، ویے دیل کاؤکا,პალმირა,パルミラ,帕爾米拉,팔미라	3.53969	-76.22607	A	ADM2	CO		29	76520			312519		1104	America/Bogota	2022-07-24
+3673191	Palmas del Socorro	Palmas del Socorro	Palmas	6.37289	-73.2815	A	ADM2	CO		26	68524			2443		1349	America/Bogota	2014-09-16
+3673221	Palmar de Varela	Palmar de Varela	Municipio de Palmar de Varela,Palmar de Varela	10.69613	-74.76896	A	ADM2	CO		04	08520			23674		16	America/Bogota	2018-07-04
+3673242	Palmar	Palmar	Palmar	6.4974	-73.3074	A	ADM2	CO		26	68522			2883		855	America/Bogota	2014-09-16
+3673276	Palestina	Palestina	Palestina	5.04571	-75.69552	A	ADM2	CO		37	17524			13560		1241	America/Bogota	2022-07-18
+3673290	Palermo	Palermo	Palermo,ba lei mo,palrmw,parerumo,پالرمو,პალერმო,パレルモ,巴勒莫	2.87919	-75.44855	A	ADM2	CO		16	41524			35569		635	America/Bogota	2022-07-18
+3673353	Pajarito	Pajarito	Pajarito	5.34751	-72.72075	A	ADM2	CO		36	15518			2410		1836	America/Bogota	2014-09-16
+3673371	Paipa	Paipa	Paipa	5.82977	-73.23086	A	ADM2	CO		36	15516			27766		3132	America/Bogota	2016-06-24
+3673373	Paime	Paime	Municipio de Paime,Paime	5.389	-74.16666	A	ADM2	CO		33	25518			5473		1023	America/Bogota	2018-07-04
+3673387	Paicol	Paicol	Paicol,pai ke er,paykwl,پایکول,პაიკოლი,派科尔,派科爾	2.40048	-75.77094	A	ADM2	CO		16	41518			5208		1118	America/Bogota	2015-01-06
+3673399	Paez	Paez	Belalcazar,Belalcázar,Paez,Páez	2.75	-76	A	ADM2	CO		09	19517			31800		2406	America/Bogota	2014-09-16
+3673408	Padilla	Padilla		3.19971	-76.35689	A	ADM2	CO		09	19513			7882		978	America/Bogota	2022-07-24
+3673414	Pácora	Pacora	Municipio de Pacora,Municipio de Pácora,Pacora,Pácora	5.50631	-75.49054	A	ADM2	CO		37	17513			13214		1788	America/Bogota	2022-07-24
+3673425	Pacho	Pacho		5.14994	-74.18067	A	ADM2	CO		33	25513			25414		1881	America/Bogota	2014-09-16
+3673432	Pachavita	Pachavita	Pachavita	5.14857	-73.39937	A	ADM2	CO		36	15511			2508		1885	America/Bogota	2022-07-24
+3673457	Ovejas	Ovejas	Municipio de Ovejas,Ovejas,Ovekhas,ao wei ha si,awwkhas,ovekhasi,Овехас,اووخاس,ოვეხასი,奥韦哈斯,奧韋哈斯	9.54083	-75.18333	A	ADM2	CO		27	70508			21091		268	America/Bogota	2022-07-24
+3673476	Otanche	Otanche	Municipio de Otanche,Otanche	5.77534	-74.20315	A	ADM2	CO		36	15507			6997		746	America/Bogota	2022-07-16
+3673483	Ospina	Ospina	Ospina	1.02962	-77.55252	A	ADM2	CO		20	52506			8221		2966	America/Bogota	2016-06-24
+3673514	Ortega	Ortega	Municipio de Ortega,Ortega	3.94514	-75.27245	A	ADM2	CO		28	73504			33873		433	America/Bogota	2018-09-05
+3673538	Orocué	Orocue		4.92194	-71.59722	A	ADM2	CO		32	85230			7717		148	America/Bogota	2014-09-16
+3673579	Oporapa	Oporapa	Municipio de Oporapa,Oporapa,ao bo la pa,awpwrapa,oporapa,اوپوراپا,ოპორაპა,オポラパ,奥波拉帕,奧波拉帕	2.0577	-76.0413	A	ADM2	CO		16	41503			11111		1959	America/Bogota	2022-07-16
+3673591	Onzaga	Onzaga	Onsaga,Onzaga,awnzaga,onsaga,weng sa jia,Онсага,اونزاگا,ონსაგა,翁薩加	6.32438	-72.8324	A	ADM2	CO		26	68502			5707		2349	America/Bogota	2014-09-16
+3673617	Olaya	Olaya	Olaja,Olaya,ao la ya,awlaya,olaia,Олая,اولایا,ოლაია,奥拉亚,奧拉亞	6.60351	-75.78612	A	ADM2	CO		02	05501			2916		625	America/Bogota	2015-01-05
+3673638	Oiba	Oiba	Municipio de Oiba,Oiba,Ojba,ao yi wa,awyba,oiba,Ойба,اویبا,ოიბა,奥伊瓦,奧伊瓦	6.22974	-73.27869	A	ADM2	CO		26	68500			10983		1807	America/Bogota	2018-09-05
+3673663	Ocaña	Ocana	Ocana,Ocaña	8.21644	-73.34917	A	ADM2	CO		21	54498			90517		1409	America/Bogota	2014-09-16
+3673665	Ocamonte	Ocamonte	Ocamonte,Okamonte,ao ka meng te,awkamwnth,Окамонте,اوکامونته,ოკამონტე,奥卡蒙特,奧卡蒙特	6.34375	-73.13683	A	ADM2	CO		26	68498			4984		1536	America/Bogota	2014-09-16
+3673678	Obando	Obando	Municipio de Obando,Obando	4.5959	-75.94879	A	ADM2	CO		29	76497			10970		960	America/Bogota	2022-07-16
+3673691	Nuquí	Nuqui		5.67014	-77.28753	A	ADM2	CO		11	27495			7625		30	America/Bogota	2014-09-16
+3673697	Nunchía	Nunchia		5.54444	-72.10139	A	ADM2	CO		32	85225			8420		229	America/Bogota	2014-09-16
+3673731	Nuevo Colón	Nuevo Colon	Nuevo Colon,Nuevo Colón	5.35384	-73.4497	A	ADM2	CO		36	15494			6075		2393	America/Bogota	2016-06-24
+3673784	Nóvita	Novita	Municipio de Novita,Municipio de Nóvita,Novita,Nóvita	4.8708	-76.61885	A	ADM2	CO		11	27491			7867		164	America/Bogota	2018-07-04
+3673827	Nocaima	Nocaima	Nocaima,nuo kai ma,nwkayma,نوکایما,ნოკაიმა,諾凱馬,诺凯马	5.04767	-74.40465	A	ADM2	CO		33	25491			7734		831	America/Bogota	2014-09-16
+3673830	Nobsa	Nobsa	Nobsa	5.74733	-72.95604	A	ADM2	CO		36	15491			15194		2503	America/Bogota	2015-01-05
+3673846	Nimaima	Nimaima	Nimaima,ni mai ma,nimaima,nymayma,Німаїма,نیمایما,ნიმაიმა,尼迈马,尼邁馬	5.11741	-74.4034	A	ADM2	CO		33	25489			5523		790	America/Bogota	2014-09-16
+3673850	Nilo	Nilo	Municipio de Nilo,Nilo,ni luo,nilo,niro,nylw,نیلو,ნილო,ニロ,尼洛	4.31345	-74.6057	A	ADM2	CO		33	25488			10555		371	America/Bogota	2022-07-16
+3673888	Nemocón	Nemocon		5.06966	-73.90606	A	ADM2	CO		33	25486			13488		2566	America/Bogota	2022-07-16
+3673900	Neiva	Neiva	Neiva,Nejva,nei wa,neiba,neiva,nywa,Нейва,نیوا,نیوا، ہوئلا,ნეივა,内瓦,네이바	3.01441	-75.30939	A	ADM2	CO		16	41001			357392		467	America/Bogota	2022-07-23
+3673904	Neira	Neira	Municipio de Neira,Neira	5.17534	-75.52405	A	ADM2	CO		37	17486			20495		1764	America/Bogota	2022-07-16
+3674011	Natagaima	Natagaima	Municipio de Natagaima,Natagaima,na ta gai ma,natagayma,ناتاگایما,ნატაგაიმა,納塔蓋馬	3.55212	-75.11345	A	ADM2	CO		28	73483			22455		336	America/Bogota	2022-07-16
+3674013	Nátaga	Nataga	Nataga,Nátaga	2.57845	-75.78679	A	ADM2	CO		16	41483			5831		1446	America/Bogota	2016-06-24
+3674032	Nariño	Narino	Municipio de Narino,Municipio de Nariño,Narino,Nariño	5.59687	-75.19329	A	ADM2	CO		02	05483			15579		1366	America/Bogota	2018-06-08
+3674033	Nariño	Narino	Narino,Nariño	4.39913	-74.82239	A	ADM2	CO		33	25483			2092		267	America/Bogota	2014-09-24
+3674122	Muzo	Muzo	Municipio de Muzo,Muzo	5.52897	-74.10129	A	ADM2	CO		36	15480			10237		875	America/Bogota	2018-06-08
+3674126	Mutiscua	Mutiscua	Mutiscua,Mutiskua,mu di si kua,mwtyskwa,Мутискуа,موتیسکوا,მუტისკუა,穆蒂斯夸,穆蒂斯誇	7.2981	-72.79879	A	ADM2	CO		21	54480			3759		3715	America/Bogota	2022-07-16
+3674131	Mutatá	Mutata	Municipio de Mutata,Municipio de Mutatá,Mutata,Mutatá,Pavarandocito	7.34821	-76.5	A	ADM2	CO		02	05480			12607		86	America/Bogota	2022-07-16
+3674162	Murindó	Murindo	Municipio de Murindo,Municipio de Murindó,Murindo,Murindó	6.84698	-76.71544	A	ADM2	CO		02	05475			3736		36	America/Bogota	2018-06-08
+3674295	Mosquera	Mosquera	Mosquera,mo si ke la,mosukera,mwskra,موسکرا,მოსკერა,モスケラ,莫斯克拉	4.68935	-74.23599	A	ADM2	CO		33	25473			63226		2541	America/Bogota	2014-09-24
+3674296	Mosquera	Mosquera		2.49139	-78.44307	A	ADM2	CO		20	52473			10203		14	America/Bogota	2022-07-16
+3674338	Morroa	Morroa	Morroa,Municipio de Morroa	9.39607	-75.33029	A	ADM2	CO		27	70473			12846		109	America/Bogota	2018-09-05
+3674414	Morales	Morales	Morales,Olaya Herrera,Olaya Herrerra	8.2523	-73.9731	A	ADM2	CO		35	13473			18678		153	America/Bogota	2022-07-16
+3674415	Morales	Morales	Morales,Municipio de Morales	2.78191	-76.76939	A	ADM2	CO		09	19473			29737		1590	America/Bogota	2022-07-16
+3674446	Monterrey	Monterrey	Monterrey	4.82015	-72.87901	A	ADM2	CO		32	85162			14828		477	America/Bogota	2022-07-16
+3674454	Montería	Monteria	Monteria,Montería,Municipio de Monteria,Municipio de Montería	8.63136	-75.97209	A	ADM2	CO		12	23001			490935		19	America/Bogota	2022-07-16
+3674464	Montenegro	Montenegro	Montenegro,Municipio de Montenegro	4.52676	-75.82265	A	ADM2	CO		23	63470			41996		1202	America/Bogota	2022-07-23
+3674471	Montelíbano	Montelibano	Montelibano,Montelíbano	7.76126	-75.92174	A	ADM2	CO		12	23466			90450		167	America/Bogota	2022-07-17
+3674520	Montebello	Montebello	Montebello,Municipio de Montebello	5.93703	-75.52741	A	ADM2	CO		02	05467			7523		1983	America/Bogota	2018-06-08
+3674528	La Montañita	La Montanita	Montanita,Montañita	1.46389	-75.30363	A	ADM2	CO		08	18410			22181		266	America/Bogota	2016-06-24
+3674574	Moniquirá	Moniquira	Moniquira,Moniquirá	5.84315	-73.57775	A	ADM2	CO		36	15469			20848		1715	America/Bogota	2022-07-17
+3674578	Monguí	Mongui	Mongui,Monguí	5.69752	-72.83359	A	ADM2	CO		36	15466			5002		3283	America/Bogota	2016-06-24
+3674581	Mongua	Mongua		5.67452	-72.71729	A	ADM2	CO		36	15464			5264		2946	America/Bogota	2015-01-05
+3674600	Mompós	Mompos	Mompos,Mompós	9.1399	-74.54513	A	ADM2	CO		35	13468			41565		14	America/Bogota	2016-06-24
+3674619	Molagavita	Molagavita	Molagavita,mo la jia wei ta,mwlagawyta,Молагавита,مولاگاویتا,მოლაგავიტა,莫拉加維塔,莫拉加维塔	6.62625	-72.85226	A	ADM2	CO		26	68468			5764		1358	America/Bogota	2015-01-08
+3674641	Mogotes	Mogotes	Mogotes,Municipio de Mogotes,mo ge te si,mwgwts,Моготес,موگوتس,მოგოტესი,莫戈特斯	6.50897	-72.95941	A	ADM2	CO		26	68464			10165		1746	America/Bogota	2022-07-17
+3674655	Mocoa	Mocoa	Mocoa,Municipio de Mocoa	1.2124	-76.65437	A	ADM2	CO		22	86001			35755		756	America/Bogota	2018-08-08
+3674679	Mistrató	Mistrato	Mistrato,Mistrató,Municipio de Mistrato,Municipio de Mistrató	5.4182	-75.94744	A	ADM2	CO		24	66456			15166		2011	America/Bogota	2018-09-05
+3674703	Miranda	Miranda	Miranda,Municipio de Miranda	3.23773	-76.22093	A	ADM2	CO		09	19455			43333		1208	America/Bogota	2022-07-17
+3674743	Miraflores	Miraflores	Miraflores	5.12216	-73.21212	A	ADM2	CO		36	15455			8274		2315	America/Bogota	2022-07-17
+3674852	Mercaderes	Mercaderes	Mercaderes,Merkaderes,Municipio de Mercaderes,mei ka de lei si,mrkadrs,Меркадерес,مرکادرس,მერკადერესი,梅卡德雷斯	1.80499	-77.18281	A	ADM2	CO		09	19450			14824		1113	America/Bogota	2022-07-17
+3674886	Melgar	Melgar	Melgar	4.17848	-74.67207	A	ADM2	CO		28	73449			36641		398	America/Bogota	2022-07-17
+3674933	Medina	Medina	Medina,Municipio de Medina,mdyna,medina,mei di na,مدینا,مدینہ، کوندینامارکا,მედინა,梅迪納,梅迪纳	4.50099	-73.40491	A	ADM2	CO		33	25438			9845		527	America/Bogota	2018-07-04
+3674954	Medellín	Medellin		6.25	-75.58333	A	ADM2	CO		02	05001			2569007		1475	America/Bogota	2022-07-17
+3675119	Matanza	Matanza	Matanza,Municipio de Matanza	7.35605	-73.05303	A	ADM2	CO		26	68444			5840		2386	America/Bogota	2018-09-05
+3675192	Marulanda	Marulanda	Marulanda	5.21852	-75.31337	A	ADM2	CO		37	17446			3489		3302	America/Bogota	2015-01-08
+3675214	Marsella	Marsella	Marsella,Municipio de Marsella,ma er sai li ya,marselia,marsyya,Марселла,مارسییا,მარსელია,馬爾塞利亞,马尔塞利亚	4.95238	-75.75265	A	ADM2	CO		24	66440			15455		1320	America/Bogota	2022-07-17
+3675235	Marquetalia	Marquetalia	Marquetalia	5.29069	-75.08028	A	ADM2	CO		37	17444			12146		1518	America/Bogota	2022-07-17
+3675245	Marmato	Marmato	Marmato	5.47554	-75.5971	A	ADM2	CO		37	17442			8485		1220	America/Bogota	2022-07-17
+3675253	Municipio de San Sebastián de Mariquita	Municipio de San Sebastian de Mariquita	Marikita,Mariquita,Municipio de San Sebastian de Mariquita,Municipio de San Sebastián de Mariquita,San Sebastian de Mariquita,San Sebastián de Mariquita,ma li ji ta,marykyta,Марікіта,ماریکیتا,მარიკიტა,馬里基塔	5.24269	-74.90772	A	ADM2	CO		28	73443			32933		681	America/Bogota	2020-06-11
+3675256	Maripí	Maripi	Maripi,Maripí	5.55733	-74.0544	A	ADM2	CO		36	15442			7914		1109	America/Bogota	2015-01-05
+3675265	Marinilla	Marinilla	Marinil'ja,Marinilla,Municipio de Marinilla,ma li ni ya,marinilia,marynyya,Маринилья,مارینییا,მარინილია,馬里尼亞,马里尼亚	6.19609	-75.30313	A	ADM2	CO		02	05440			57403		2147	America/Bogota	2022-07-23
+3675288	Municipio de María la Baja	Municipio de Maria la Baja	Maria La Baja,Maria la Baja,María La Baja,María la Baja,Municipio de Maria la Baja,Municipio de María la Baja	9.99228	-75.34364	A	ADM2	CO		35	13442			48079		4	America/Bogota	2022-07-24
+3675307	Margarita	Margarita	Margarita	9.06325	-74.28134	A	ADM2	CO		35	13440			9720		21	America/Bogota	2022-07-17
+3675412	Manzanares	Manzanares	Manzanares,Municipio de Manzanares	5.23305	-75.15168	A	ADM2	CO		37	17433			16532		1669	America/Bogota	2022-07-17
+3675433	Manta	Manta	Manta	4.9572	-73.58583	A	ADM2	CO		33	25436			4627		2195	America/Bogota	2014-09-16
+3675444	Manizales	Manizales	Manizales,Municipio de Manizales	5.08333	-75.5	A	ADM2	CO		37	17001			434403		2192	America/Bogota	2022-07-17
+3675454	Maní	Mani	Mani,Maní,Municipio de Mani,Municipio de Maní	4.7	-72.25	A	ADM2	CO		32	85139			11177		169	America/Bogota	2018-07-04
+3675514	Manatí	Manati	Manati,Manatí,Municipio de Manati,Municipio de Manatí	10.46402	-74.9822	A	ADM2	CO		04	08436			19233		14	America/Bogota	2022-07-17
+3675578	Mallama	Mallama	Mallama,Municipio de Mallama	1.15887	-77.84688	A	ADM2	CO		20	52435			9286		2365	America/Bogota	2018-08-08
+3675597	Malambo	Malambo	Malambo,Municipio de Malambo	10.84961	-74.80765	A	ADM2	CO		04	08433			129148		50	America/Bogota	2022-07-17
+3675606	Málaga	Malaga	Malaga,Málaga	6.70748	-72.77102	A	ADM2	CO		26	68432			18706		3221	America/Bogota	2014-09-16
+3675640	Majagual	Majagual	Majagual,Municipio de Majagual	8.535	-74.71499	A	ADM2	CO		27	70429			31657		23	America/Bogota	2018-09-05
+3675659	Maicao	Maicao	Maicao,Maikao,Maiko'u,Majkao,Municipio de Maicao,mai kao,maikao,maykaw,maykayw,Майкао,מאיקאו,مايكاو,مایکائو,მაიკაო,マイカーオ,迈考,邁考	11.39954	-72.28675	A	ADM2	CO		17	44430			166603		50	America/Bogota	2022-07-24
+3675666	Mahates	Mahates		10.16667	-75.16667	A	ADM2	CO		35	13433			22929		49	America/Bogota	2015-01-07
+3675695	Magangué	Magangue	Magangue,Magangué,Municipio de Magangue,Municipio de Magangué	9.12483	-74.78025	A	ADM2	CO		35	13430			123982		13	America/Bogota	2022-07-17
+3675708	Madrid	Madrid	Madrid	4.75564	-74.27708	A	ADM2	CO		33	25430			85090		2549	America/Bogota	2022-07-17
+3675758	Macheta	Macheta	Macheta,Machetá	5.08333	-73.61667	A	ADM2	CO		33	25426			6847		2210	America/Bogota	2014-09-16
+3675769	Maceo	Maceo	Maceo,Municipio de Maceo	6.54463	-74.73277	A	ADM2	CO		02	05425			7630		833	America/Bogota	2018-06-08
+3675781	Macaravita	Macaravita	Macaravita,Makaravita,ma ka la wei ta,makarawyta,Макаравита,ماکاراویتا,میکاراویٹا,მაკარავიტა,馬卡拉維塔,马卡拉维塔	6.49734	-72.61074	A	ADM2	CO		26	68425			2753		2888	America/Bogota	2015-01-08
+3675793	Macanal	Macanal	Macanal,ma ka na er,mykanal,میکانال,მაკანალი,馬卡納爾	4.9505	-73.32029	A	ADM2	CO		36	15425			4821		1285	America/Bogota	2022-07-23
+3675827	Luruaco	Luruaco	Luruaco,Municipio de Luruaco,Urdaneta Arbelaez,Urdaneta Arbeláez	10.6392	-75.14577	A	ADM2	CO		04	08421			23558		226	America/Bogota	2018-07-04
+3675858	Lourdes	Lourdes	Lourdes,Municipio de Lourdes	7.96774	-72.84519	A	ADM2	CO		21	54418			3448		1312	America/Bogota	2018-08-08
+3675909	Los Santos	Los Santos	Los Santos	6.79734	-73.1249	A	ADM2	CO		26	68418			12433		1226	America/Bogota	2022-07-17
+3676357	Los Andes	Los Andes	Los Andes,Municipio de Los Andes	1.62831	-77.67959	A	ADM2	CO		20	52418			8703		1668	America/Bogota	2022-07-23
+3676400	Lorica	Lorica	Lorica,Municipio de Lorica	9.17606	-75.89717	A	ADM2	CO		12	23417			121214		11	America/Bogota	2022-07-17
+3676418	Municipio de López de Micay	Municipio de Lopez de Micay	Lopez,Lopez de Micay,López,López de Micay,Micay,Municipio de Lopez de Micay,Municipio de López de Micay	3	-77.25	A	ADM2	CO		09	19418			15154		210	America/Bogota	2022-07-24
+3676478	Lloró	Lloro	Lloro,Lloró,Municipio de Lloro,Municipio de Lloró	5.60109	-76.37375	A	ADM2	CO		11	27413			10248		339	America/Bogota	2018-07-04
+3676541	Linares	Linares	Linares	1.40053	-77.54422	A	ADM2	CO		20	52411			8974		2132	America/Bogota	2022-07-17
+3676592	Liborina	Liborina	Liborina,Municipio de Liborina	6.73043	-75.7821	A	ADM2	CO		02	05411			9475		2011	America/Bogota	2018-06-08
+3676606	Líbano	Libano	Libano,Líbano	4.8356	-75.10834	A	ADM2	CO		28	73411			39459		2106	America/Bogota	2022-07-17
+3676628	Lérida	Lerida	Lerida,Lérida,Municipio de Lerida,Municipio de Lérida	4.87286	-74.91776	A	ADM2	CO		28	73408			17197		345	America/Bogota	2022-07-17
+3676645	Lenguazaque	Lenguazaque	Lenguazaque,lngwazakh,lun gua sa ke,لنگوازاکه,ლენგუასაკე,倫瓜薩克	5.28533	-73.7102	A	ADM2	CO		33	25407			9769		2636	America/Bogota	2014-09-16
+3676662	Villa de Leyva	Villa de Leyva	Leiva,Municipio de Villa de Leyva,Vilja de Lejva,Villa de Leiva,Villa de Leyva,lai wa zhen,vilia-de-leiva,ვილია-დე-ლეივა,萊瓦鎮	5.67061	-73.51554	A	ADM2	CO		36	15407			16984		2230	America/Bogota	2022-07-24
+3676675	Lebríja	Lebrija	Lebrija	7.19714	-73.31566	A	ADM2	CO		26	68406			42895		599	America/Bogota	2022-07-17
+3676723	La Virginia	La Virginia	Belalcazar,Belalcázar,La Virchinija,La Virginia,la bi xi ni ya,la wrjynya,la wyrkhynya,la-virkhinia,لا ورجینیا,لا ویرخینیا,ლა-ვირხინია,ラ・バージニア,拉比希尼亚,拉比希尼亞	4.9058	-75.85103	A	ADM2	CO		24	66400			25900		1050	America/Bogota	2022-07-24
+3676870	La Vega	La Vega	La Vega,Municipio de La Vega,San Juan de la Vega	4.97382	-74.34476	A	ADM2	CO		33	25402			13085		1614	America/Bogota	2022-07-17
+3676871	La Vega	La Vega	La Vega,Municipio de La Vega	2.06201	-76.76808	A	ADM2	CO		09	19397			47791		2231	America/Bogota	2022-07-17
+3676885	La Uvita	La Uvita	La Uvita	6.24262	-72.56448	A	ADM2	CO		36	15403			3621		2441	America/Bogota	2014-09-16
+3676936	La Unión	La Union	La Union,La Unión,Municipio de La Union,Municipio de La Unión	5.94642	-75.35917	A	ADM2	CO		02	05400			20769		2456	America/Bogota	2022-07-23
+3676937	La Unión	La Union	La Union,La Unión,Municipio de La Union,Municipio de La Unión	4.53836	-76.10661	A	ADM2	CO		29	76400			31798		970	America/Bogota	2018-09-05
+3676938	La Unión	La Union		1.62689	-77.15916	A	ADM2	CO		20	52399			28659		1548	America/Bogota	2022-07-17
+3677011	La Tebaida	La Tebaida	La Tebaida,Municipio de La Tebaida	4.43353	-75.81476	A	ADM2	CO		23	63401			33504		1150	America/Bogota	2018-08-08
+3677458	La Sierra	La Sierra	La Sierra	2.19665	-76.7859	A	ADM2	CO		09	19392			9935		1187	America/Bogota	2022-07-17
+3678089	La Playa	La Playa	La Playa,Municipio de La Playa	8.25833	-73.19222	A	ADM2	CO		21	54398			8546		1523	America/Bogota	2022-07-23
+3678098	La Plata	La Plata	La Plata	2.32055	-76.10446	A	ADM2	CO		16	41396			52189		2355	America/Bogota	2014-09-16
+3678169	La Peña	La Pena	La Pena,La Peña,Municipio de La Pena,Municipio de La Peña	5.19839	-74.41143	A	ADM2	CO		33	25398			6989		787	America/Bogota	2018-07-04
+3678194	La Paz	La Paz		6.20273	-73.63711	A	ADM2	CO		26	68397			5611		1332	America/Bogota	2014-09-16
+3678287	La Palma	La Palma	La Palma	5.31732	-74.43003	A	ADM2	CO		33	25394			7708		1423	America/Bogota	2022-07-17
+3678411	La Mesa	La Mesa	La Mesa,Municipio de La Mesa,la mei sa,la msa,la mysa  kwlwmbya,la-mesa,لا مسا,لا میسا، کولومبیا,ლა-მესა,拉梅薩	4.65374	-74.47316	A	ADM2	CO		33	25386			31350		910	America/Bogota	2022-07-24
+3678913	La Gloria	La Gloria	La Gloria,Municipio de La Gloria	8.6116	-73.63045	A	ADM2	CO		10	20383			14989		101	America/Bogota	2022-07-17
+3679009	La Florida	La Florida	Florida,La Florida	1.35693	-77.41271	A	ADM2	CO		20	52381			9047		2195	America/Bogota	2022-07-24
+3679071	La Estrella	La Estrella	La Estrella,La-Ehstrel'ja,Municipio de La Estrella,la ai si te lei li ya,la astryya,Ла-Эстрелья,لا استرییا,لا اسٹریلا، انٹیوکویا,ლა-ესტრელია,拉埃斯特雷利亞	6.14239	-75.65257	A	ADM2	CO		02	05380			67254		1992	America/Bogota	2022-07-24
+3679279	La Dorada	La Dorada	La Dorada,Municipio de La Dorada	5.53333	-74.7	A	ADM2	CO		37	17380			72925		171	America/Bogota	2018-07-04
+3679319	La Cumbre	La Cumbre	La Cumbre,Municipio de La Cumbre	3.69623	-76.58615	A	ADM2	CO		29	76377			11512		1459	America/Bogota	2022-07-23
+3679381	La Cruz	La Cruz	La Cruz,Municipio de La Cruz	1.58748	-76.92194	A	ADM2	CO		20	52378			16674		2430	America/Bogota	2022-07-17
+3679543	La Celia	La Celia	El Santuario,La Celia,la slya,la sylya,la xi li ya,la-selia,لا سلیا,لا سیلیا,ლა-სელია,拉西莉亚,拉西莉亞	4.99997	-76.00479	A	ADM2	CO		24	66383			8761		1455	America/Bogota	2014-09-24
+3679555	La Ceja	La Ceja	La Ceja,La Ceja del Tambo,Municipio de La Ceja	6	-75.43311	A	ADM2	CO		02	05376			11512		2211	America/Bogota	2022-07-23
+3679629	La Capilla	La Capilla	Capilla Tenza,Capilla de Tenza,La Capilla	5.08076	-73.48076	A	ADM2	CO		36	15380			2550		2466	America/Bogota	2022-07-23
+3679663	La Calera	La Calera	La Calera	4.68678	-73.9359	A	ADM2	CO		33	25377			23768		2932	America/Bogota	2014-09-16
+3679717	Labranzagrande	Labranzagrande	Labranzagrande,Municipio de Labranzagrande	5.54242	-72.60233	A	ADM2	CO		36	15377			5345		1530	America/Bogota	2018-06-08
+3679781	Labateca	Labateca	Labateca,Labateka,la ba te ka,labatka,Лабатека,لاباتکا,لاباٹیکا,ლაბატეკა,拉巴特卡	7.24558	-72.55286	A	ADM2	CO		21	54377			5852		2546	America/Bogota	2014-09-16
+3679855	La Argentina	La Argentina	La Argentina,Plata Vieja,la a gen ting,la argntyna,لا آرگنتینا,لا ارجنٹائن، ہویلا,ლა-არხენტინა,拉阿根廷	2.17673	-76.20484	A	ADM2	CO		16	41378			11592		2335	America/Bogota	2022-07-24
+3679928	Aguada	Aguada	La Aguada	6.16019	-73.52747	A	ADM2	CO		26	68013			1855		1767	America/Bogota	2022-07-24
+3680091	Juradó	Jurado		7.00425	-77.65141	A	ADM2	CO		11	27372			3609		122	America/Bogota	2014-09-19
+3680116	Junín	Junin	Junin,Junín,Municipio de Junin,Municipio de Junín	4.70725	-73.69549	A	ADM2	CO		33	25372			8448		2915	America/Bogota	2018-07-04
+3680177	Juan de Acosta	Juan de Acosta	Juan de Acosta,Municipio de Juan de Acosta	10.82946	-75.07435	A	ADM2	CO		04	08372			14578		55	America/Bogota	2018-07-04
+3680237	Jordán	Jordan	Jordan,Jordán	6.69857	-73.10966	A	ADM2	CO		26	68370			1164		856	America/Bogota	2014-09-16
+3680298	Jesús María	Jesus Maria		5.85453	-73.80995	A	ADM2	CO		26	68368			3455		1875	America/Bogota	2016-06-24
+3680310	Jerusalén	Jerusalen	Jerusalen,Jerusalén	4.55678	-74.70941	A	ADM2	CO		33	25368			2723		415	America/Bogota	2014-09-16
+3680319	Jericó	Jerico	Jerico,Jericó	6.14577	-72.58598	A	ADM2	CO		36	15368			4716		2990	America/Bogota	2016-06-24
+3680320	Jericó	Jerico	Jerico,Jericó,Municipio de Jerico,Municipio de Jericó	5.78054	-75.76096	A	ADM2	CO		02	05368			12789		1828	America/Bogota	2022-07-19
+3680336	Jenesano	Jenesano	Jenesano,Jenezano	5.37701	-73.37721	A	ADM2	CO		36	15367			7436		2208	America/Bogota	2016-06-24
+3680367	Jardín	Jardin	Jardin,Jardín,Khardin,Municipio de Jardin,Municipio de Jardín,ha er ding,jrdyn,khardini,Хардин,جردین,ხარდინი,哈爾丁	5.59038	-75.81846	A	ADM2	CO		02	05364			13541		1844	America/Bogota	2022-07-23
+3680388	Jamundí	Jamundi		3.26083	-76.53694	A	ADM2	CO		29	76364			96993		972	America/Bogota	2014-09-16
+3680394	Jambaló	Jambalo	Jambalo,Jambaló,Municipio de Jambalo,Municipio de Jambaló	2.85065	-76.32506	A	ADM2	CO		09	19364			16353		2168	America/Bogota	2022-07-19
+3680427	Iza	Iza		5.62589	-72.97823	A	ADM2	CO		36	15362			2116		2581	America/Bogota	2014-09-24
+3680435	Ituango	Ituango	Ituango,Municipio de Ituango	7.30168	-75.91857	A	ADM2	CO		02	05361			23784		1484	America/Bogota	2022-07-19
+3680451	Itagui	Itagui	Itagui,Itagüí	6.17874	-75.63117	A	ADM2	CO		02	05360			235016		1717	America/Bogota	2014-09-16
+3680454	Istmina	Istmina		4.98772	-76.80528	A	ADM2	CO		11	27361			23639		55	America/Bogota	2014-09-16
+3680532	Municipio de Íquira	Municipio de Iquira	Iquira,Municipio de Iquira,Municipio de Íquira,Íquira	2.69508	-75.67351	A	ADM2	CO		16	41357			10627		2536	America/Bogota	2020-06-11
+3680540	Ipiales	Ipiales	Ipiales,Municipio de Ipiales	0.58333	-77.41667	A	ADM2	CO		20	52356			123341		3668	America/Bogota	2022-07-19
+3680555	Inzá	Inza		2.5092	-76.12958	A	ADM2	CO		09	19355			26571		2780	America/Bogota	2022-07-19
+3680602	Imués	Imues	Imues,Imués,Municipio de Imues,Municipio de Imués	1.07893	-77.5	A	ADM2	CO		20	52354			7492		2502	America/Bogota	2018-08-08
+3680617	Iles	Iles		0.98002	-77.51918	A	ADM2	CO		20	52352			7836		3056	America/Bogota	2016-06-24
+3680642	Icononzo	Icononzo	Icononzo,Municipio de Icononzo,aykwnwnzw,yi kong weng suo,ایکونونزو,იკონონსო,伊孔翁索	4.13053	-74.53412	A	ADM2	CO		28	73352			10801		1858	America/Bogota	2022-07-19
+3680657	Ibagué	Ibague	Ibague,Ibagué	4.43537	-75.2642	A	ADM2	CO		28	73001			529635		1450	America/Bogota	2022-07-19
+3680841	Honda	Honda	Honda,Onda,awnda,onda,weng da,Онда,اوندا,ონდა,翁達	5.17859	-74.78277	A	ADM2	CO		28	73349			23616		326	America/Bogota	2022-07-19
+3680855	Hobo	Hobo	Hobo	2.54126	-75.4478	A	ADM2	CO		16	41349			6545		787	America/Bogota	2016-06-24
+3680887	Herrán	Herran	Herran,Herrán	7.4807	-72.50059	A	ADM2	CO		21	54347			4501		2338	America/Bogota	2014-09-16
+3680903	Heliconia	Heliconia	Heliconia,Municipio de Heliconia	6.21689	-75.74452	A	ADM2	CO		02	05347			6656		1554	America/Bogota	2018-06-08
+3681010	Hato Corozal	Hato Corozal	Manare	6.16278	-70.99694	A	ADM2	CO		32	85125			10091		131	America/Bogota	2014-09-16
+3681027	Hato	Hato	Hato,Municipio de Hato	6.56113	-73.35895	A	ADM2	CO		26	68344			2401		1540	America/Bogota	2018-09-05
+3681169	Hacarí	Hacari		8.34389	-73.09632	A	ADM2	CO		21	54344			10121		603	America/Bogota	2014-09-16
+3681177	Gutiérrez	Gutierrez	Gutierrez,Gutiérrez,Municipio de Gutierrez,Municipio de Gutiérrez	4.18486	-74.01168	A	ADM2	CO		33	25339			3489		2127	America/Bogota	2018-07-04
+3681223	Güicán	Gueican		6.5368	-72.27308	A	ADM2	CO		36	15332			7869		4098	America/Bogota	2014-09-18
+3681235	Güepsa	Gueepsa		6.02684	-73.5941	A	ADM2	CO		26	68327			4285		1380	America/Bogota	2014-09-16
+3681256	Guayatá	Guayata	Guayata,Guayatá	4.91935	-73.52968	A	ADM2	CO		36	15325			5126		2478	America/Bogota	2022-07-24
+3681307	Guayabal de Siquima	Guayabal de Siquima	Guayabal Siquima,Guayabal de Siquima,Guayabal de Síquima	4.87881	-74.48306	A	ADM2	CO		33	25328			3652		1545	America/Bogota	2016-06-24
+3681347	Guavatá	Guavata	Guavata,Guavatá	5.93393	-73.71737	A	ADM2	CO		26	68324			4402		1811	America/Bogota	2014-09-16
+3681354	Guática	Guatica	Guatica,Guática,Municipio de Guatica,Municipio de Guática	5.32529	-75.80982	A	ADM2	CO		24	66318			15752		1658	America/Bogota	2018-09-05
+3681357	Guateque	Guateque	Guateque	5.01481	-73.4882	A	ADM2	CO		36	15322			9603		1923	America/Bogota	2022-07-24
+3681361	Guatavita	Guatavita		4.91121	-73.83988	A	ADM2	CO		33	25326			6685		2721	America/Bogota	2014-09-16
+3681365	Guataquí	Guataqui	Guataqui,Guataquí,Municipio de Guataqui,Municipio de Guataquí	4.51623	-74.77217	A	ADM2	CO		33	25324			2489		513	America/Bogota	2018-07-04
+3681369	Guatapé	Guatape	Guatape,Guatapé,Municipio de Guatape,Municipio de Guatapé	6.25548	-75.16432	A	ADM2	CO		02	05321			5838		1881	America/Bogota	2018-06-08
+3681405	Guasca	Guasca	Guasca,Municipio de Guasca	4.80699	-73.85173	A	ADM2	CO		33	25322			12442		3251	America/Bogota	2018-07-04
+3681430	Guarne	Guarne	Guarne	6.28345	-75.44363	A	ADM2	CO		02	05318			52129		2149	America/Bogota	2022-07-19
+3681492	Guapotá	Guapota	Guapota,Guapotá	6.30697	-73.32848	A	ADM2	CO		26	68322			2271		1337	America/Bogota	2014-09-16
+3681506	Guapi	Guapi	Guapi,Guapí	2.5521	-77.87865	A	ADM2	CO		09	19318			24037		9	America/Bogota	2022-07-19
+3681564	Guamo	Guamo	El Guamo,Guamo,Municipio de Guamo,gua mo,guamo,gwamw,גואמו,گوآمو,გუამო,グアモ,瓜莫	4.07457	-74.97689	A	ADM2	CO		28	73319			30516		335	America/Bogota	2022-07-19
+3681606	Guamal	Guamal	Guamal,Municipio de Guamal	9.26079	-74.13105	A	ADM2	CO		38	47318			25508		48	America/Bogota	2018-08-08
+3681607	Guamal	Guamal	Guamal,Municipio de Guamal	3.94435	-73.9365	A	ADM2	CO		19	50318			8897		1787	America/Bogota	2018-08-08
+3681620	Gualmatán	Gualmatan		0.92856	-77.58274	A	ADM2	CO		20	52323			5673		2991	America/Bogota	2016-06-24
+3681645	Guaitarilla	Guaitarilla	Guaitarilla	1.17931	-77.55838	A	ADM2	CO		20	52320			10774		2702	America/Bogota	2022-07-19
+3681703	Guaduas	Guaduas	Guaduas,gua du a si,guaduasi,gwadwas,گوآدواس,გუადუასი,瓜杜阿斯	5.0743	-74.59854	A	ADM2	CO		33	25320			41838		984	America/Bogota	2022-07-23
+3681734	Guadalupe	Guadalupe	Guadalupe,gua da lu pei,瓜达卢佩	6.20598	-73.40786	A	ADM2	CO		26	68320			5596		1618	America/Bogota	2014-09-16
+3681735	Guadalupe	Guadalupe	Guadalupe,gua da lu pei,gwadalwp,گوادالوپ,გვადალუპე,瓜达卢佩,瓜達盧佩	1.98799	-75.69012	A	ADM2	CO		16	41319			15913		1851	America/Bogota	2022-07-19
+3681757	Guachucal	Guachucal	Guachucal,Municipio de Guachucal	0.977	-77.73558	A	ADM2	CO		20	52317			18845		3018	America/Bogota	2022-07-19
+3681768	Guachetá	Guacheta	Guacheta,Guachetá,Municipio de Guacheta,Municipio de Guachetá	5.389	-73.69701	A	ADM2	CO		33	25317			11517		2786	America/Bogota	2018-07-04
+3681798	Guacarí	Guacari		3.77501	-76.30813	A	ADM2	CO		29	76318			31802		1002	America/Bogota	2014-09-16
+3681815	Guacamayas	Guacamayas	Guacamayas	6.44599	-72.51676	A	ADM2	CO		36	15317			2132		2668	America/Bogota	2016-06-24
+3681833	Guaca	Guaca		6.91596	-72.84792	A	ADM2	CO		26	68318			6916		2571	America/Bogota	2015-01-07
+3681961	Granada	Granada	Boca de Monte,Granada	3.4859	-73.76213	A	ADM2	CO		19	50313			50172		328	America/Bogota	2014-09-16
+3681968	Gramalote	Gramalote	Gramalote	7.87847	-72.82202	A	ADM2	CO		21	54313			6329		1818	America/Bogota	2014-09-16
+3681991	González	Gonzalez	Gonzalez,González	8.36735	-73.40032	A	ADM2	CO		10	20310			9252		1444	America/Bogota	2014-09-16
+3681998	Gómez Plata	Gomez Plata		6.69847	-75.2055	A	ADM2	CO		02	05310			11252		1877	America/Bogota	2014-09-16
+3682019	Girón	Giron		7.06865	-73.31729	A	ADM2	CO		26	68307			206005		355	America/Bogota	2022-07-19
+3682023	Girardota	Girardota	Girardota,Khirardota,khyrardwta,xi la duo ta,Хирардота,خیراردوتا,ხირარდოტა,希拉多塔	6.36789	-75.46231	A	ADM2	CO		02	05308			60611		1471	America/Bogota	2022-07-19
+3682029	Girardot	Girardot	Girardot,Khirardot,ji la er duo te,khyrardwt,Хирардот,חירארדוט,خیراردوت,ხირარდოტი,吉拉爾多特	4.31802	-74.83504	A	ADM2	CO		33	25307			107324		360	America/Bogota	2022-07-24
+3682031	Giraldo	Giraldo	Giraldo,Municipio de Giraldo	6.66667	-75.95346	A	ADM2	CO		02	05306			4188		2435	America/Bogota	2018-06-08
+3682040	Ginebra	Ginebra	Ginebra,Municipio de Ginebra	3.74296	-76.19412	A	ADM2	CO		29	76306			21055		1728	America/Bogota	2022-07-19
+3682048	Gigante	Gigante	Gigante,khyganth,xi gan te,خیگانته,ხიგანტე,希甘特	2.38002	-75.53633	A	ADM2	CO		16	41306			36055		925	America/Bogota	2022-07-19
+3682071	Génova	Genova	Genova,Génova	4.22743	-75.7548	A	ADM2	CO		23	63302			9634		1878	America/Bogota	2014-09-16
+3682109	Garzón	Garzon	Garzon,Garzón,Municipio de Garzon,Municipio de Garzón	2.18176	-75.57812	A	ADM2	CO		16	41298			98383		1476	America/Bogota	2022-07-19
+3682161	Garagoa	Garagoa	Garagoa,Municipio de Garagoa	5.09222	-73.31602	A	ADM2	CO		36	15299			16944		2320	America/Bogota	2022-07-19
+3682173	Gameza	Gameza	Gameza,Gámeza	5.80313	-72.73721	A	ADM2	CO		36	15296			5669		3929	America/Bogota	2016-06-24
+3682179	Gambita	Gambita	Gambita,Gámbita	5.90273	-73.36788	A	ADM2	CO		26	68298			5168		2224	America/Bogota	2014-09-16
+3682184	Gamarra	Gamarra	Gamarra,Municipio de Gamarra	8.32969	-73.71773	A	ADM2	CO		10	20295			12444		53	America/Bogota	2022-07-19
+3682186	Gama	Gama	Gama,gama,jia ma,گاما,გამა,ガマ,加馬,加马	4.70984	-73.62002	A	ADM2	CO		33	25299			3873		3039	America/Bogota	2014-09-16
+3682239	Galapa	Galapa	Galapa	10.8979	-74.887	A	ADM2	CO		04	08296			32012		89	America/Bogota	2016-06-24
+3682244	Galán	Galan	Galan,Galán	6.66271	-73.34233	A	ADM2	CO		26	68296			2992		1860	America/Bogota	2014-09-16
+3682259	Gachetá	Gacheta	Gacheta,Gachetá,Municipio de Gacheta,Municipio de Gachetá	4.87104	-73.6173	A	ADM2	CO		33	25297			10409		2249	America/Bogota	2018-07-04
+3682261	Gachantivá	Gachantiva	Gachantiva,Gachantivá	5.74417	-73.54253	A	ADM2	CO		36	15293			2654		2460	America/Bogota	2022-07-19
+3682263	Gachancipá	Gachancipa	Gachacipa,Gachancipa,Gachancipá	5.01024	-73.87796	A	ADM2	CO		33	25295			10886		2555	America/Bogota	2016-06-24
+3682267	Gachala	Gachala	Gachala,Gachalá	4.66667	-73.5	A	ADM2	CO		33	25293			5916		1659	America/Bogota	2014-09-16
+3682275	Fusagasugá	Fusagasuga	Fusagasuga,Fusagasugá	4.2924	-74.38332	A	ADM2	CO		33	25290			108938		1623	America/Bogota	2014-09-16
+3682280	Fúquene	Fuquene	Fuquene,Fúquene	5.41988	-73.76997	A	ADM2	CO		33	25288			5617		2673	America/Bogota	2022-07-19
+3682282	Funza	Funza	Funza	4.73058	-74.21787	A	ADM2	CO		33	25286			61380		2549	America/Bogota	2014-09-16
+3682284	Funes	Funes	Funes	0.93182	-77.35218	A	ADM2	CO		20	52287			6991		3759	America/Bogota	2016-06-24
+3682289	Fundación	Fundacion		10.41667	-73.91667	A	ADM2	CO		38	47288			56986		872	America/Bogota	2014-09-16
+3682314	Frontino	Frontino	Frontino,Municipio de Frontino	6.70112	-76.32316	A	ADM2	CO		02	05284			20156		1568	America/Bogota	2022-07-19
+3682331	Fresno	Fresno	Fresmo,Fresno,Municipio de Fresno,frsnw,fu lei si nuo,presno,Фресно,فرسنو,ფრესნო,弗雷斯諾	5.19952	-75.03762	A	ADM2	CO		28	73283			31317		1421	America/Bogota	2018-09-05
+3682333	Fredonia	Fredonia	Fredonia,Fredonija,Municipio de Fredonia,frdwnya,fu lei duo ni ya,predonia,Фредония,فردونیا,ფრედონია,弗雷多尼亞	5.89239	-75.68546	A	ADM2	CO		02	05282			18790		1476	America/Bogota	2022-07-24
+3682359	Fosca	Fosca	Fosca,fu si ka,fwska,فوسکا,ფოსკა,福斯卡	4.3018	-73.97404	A	ADM2	CO		33	25281			6654		2569	America/Bogota	2014-09-16
+3682376	Fonseca	Fonseca	Fonseca,Municipio de Fonseca	10.82966	-72.79778	A	ADM2	CO		17	44279			42772		227	America/Bogota	2021-11-06
+3682381	Fomeque	Fomeque		4.52806	-73.78879	A	ADM2	CO		33	25279			12157		3228	America/Bogota	2016-06-24
+3682386	Floridablanca	Floridablanca	Floridablanca,Floridablanka,flwrydablanka  santandr,fu luo li da bu da ka,fwlrydablanka,Флоридабланка,فلوریدابلانکا، سانتاندر,فولریدابلانکا,ფლორიდაბლანკა,佛羅里達布達卡	7.06315	-73.08586	A	ADM2	CO		26	68276			267591		932	America/Bogota	2022-07-24
+3682394	Florida	Florida	Florida,Municipio de Florida	3.3094	-76.18989	A	ADM2	CO		29	76275			56008		1553	America/Bogota	2018-09-05
+3682401	Floresta	Floresta	Floresta	5.85903	-72.92511	A	ADM2	CO		36	15276			4884		2543	America/Bogota	2016-06-24
+3682428	Florencia	Florencia	Florencia,Municipio de Florencia	1.71619	-75.59624	A	ADM2	CO		08	18001			143871		627	America/Bogota	2018-07-04
+3682459	Flandes	Flandes	Flandes,Municipio de Flandes,flands,fu lan de si,furandesu,plandesi,فلاندس,ფლანდესი,フランデス,弗蘭德斯	4.25	-74.83333	A	ADM2	CO		28	73275			29296		295	America/Bogota	2022-07-19
+3682466	Firavitoba	Firavitoba		5.64045	-73.05079	A	ADM2	CO		36	15272			6316		2898	America/Bogota	2015-01-05
+3682475	Filandia	Filandia	Filandia,Municipio de Filandia	4.67525	-75.67142	A	ADM2	CO		23	63272			12921		1777	America/Bogota	2018-08-08
+3682482	Filadelfia	Filadelfia	Filadelfia,Municipio de Filadelfia	5.28935	-75.5929	A	ADM2	CO		37	17272			9630		1169	America/Bogota	2022-07-19
+3682511	Falan	Falan	Falan	5.07946	-74.95703	A	ADM2	CO		28	73270			9204		863	America/Bogota	2022-07-24
+3682517	Facatativá	Facatativa	Facatativa,Facatativá	4.81962	-74.35893	A	ADM2	CO		33	25269			107452		2591	America/Bogota	2014-09-16
+3682574	Espinal	Espinal	Espinal	4.15089	-74.91233	A	ADM2	CO		28	73268			76226		332	America/Bogota	2014-09-16
+3682632	Envigado	Envigado	Envigado,Municipio de Envigado	6.15336	-75.54497	A	ADM2	CO		02	05266			174108		2444	America/Bogota	2018-06-08
+3682634	Entrerrios	Entrerrios	Entrerrios,Entrerríos	6.58333	-75.58333	A	ADM2	CO		02	05264			8447		2472	America/Bogota	2014-09-16
+3682655	Enciso	Enciso	Enciso	6.64651	-72.70709	A	ADM2	CO		26	68266			3989		1351	America/Bogota	2014-09-16
+3682657	Encino	Encino	Ehnsino,Encino,ansynw,en xi nuo,ensino,Энсино,انسینو,ენსინო,恩西諾,恩西诺	6.05337	-73.06736	A	ADM2	CO		26	68264			2711		3278	America/Bogota	2015-01-07
+3682683	El Zulia	El Zulia	El Zulia,Zulia	8.06543	-72.65986	A	ADM2	CO		21	54261			20309		655	America/Bogota	2014-09-16
+3682966	El Tambo	El Tambo	El Tambo,Municipio de El Tambo	2.53683	-77.01421	A	ADM2	CO		09	19256			45804		1445	America/Bogota	2018-07-04
+3682967	El Tambo	El Tambo	El Tambo	1.43049	-77.38326	A	ADM2	CO		20	52260			12457		2230	America/Bogota	2022-07-19
+3682983	El Tablón de Gómez	El Tablon de Gomez	El Tablon,El Tablón	1.41201	-76.98526	A	ADM2	CO		20	52258			13991		2576	America/Bogota	2016-06-24
+3683153	El Rosario	El Rosario	El Rosario,Municipio de El Rosario	1.84593	-77.4062	A	ADM2	CO		20	52256			6498		847	America/Bogota	2022-07-19
+3683465	El Piñon	El Pinon	El Pinon,El Piñón,Pinon,Piñón	10.33333	-74.66667	A	ADM2	CO		38	47258			17308		49	America/Bogota	2022-07-19
+3683506	El Peñón	El Penon		5.26	-74.33333	A	ADM2	CO		33	25258			4977		1341	America/Bogota	2014-09-16
+3684030	Elías	Elias	Elias,Elías,La Mesa de Elias	1.99006	-75.9806	A	ADM2	CO		16	41244			3337		1736	America/Bogota	2022-07-19
+3684120	El Guamo	El Guamo	El Guamo	10.01753	-74.93483	A	ADM2	CO		35	13248			7826		49	America/Bogota	2014-09-16
+3684133	El Guacamayo	El Guacamayo	Ehl'-Guakamajo,El Guacamayo,Guacamayo,ai er gua ka ma yue,al gwakamayw,Эль-Гуакамайо,ال گواکامایو,ელ-გუაკამაიო,埃尔瓜卡马约,埃爾瓜卡馬約	6.24856	-73.52957	A	ADM2	CO		26	68245			2303		1760	America/Bogota	2014-09-16
+3684192	El Espino	El Espino	El Espino	6.50812	-72.48036	A	ADM2	CO		36	15248			3997		3069	America/Bogota	2016-06-24
+3684267	El Dovio	El Dovio	El Dovio,Municipio de El Dovio	4.54376	-76.28538	A	ADM2	CO		29	76250			9548		1493	America/Bogota	2018-09-05
+3684506	El Colegio	El Colegio	El Colegio,Municipio de El Colegio,ai er ke lai xi ao,al kwlkhyw,ال کولخیو,ელ-კოლეხიო,埃爾科萊希奧	4.56047	-74.42614	A	ADM2	CO		33	25245			20430		1487	America/Bogota	2018-07-04
+3684511	El Cocuy	El Cocuy	El Cocuy	6.32839	-72.43577	A	ADM2	CO		36	15244			5582		3821	America/Bogota	2014-09-16
+3684581	El Charco	El Charco	El Charco	2.4691	-78.09975	A	ADM2	CO		20	52250			38207		4	America/Bogota	2022-07-19
+3684616	El Cerrito	El Cerrito	Cerrito,Ehl Serrito,Ehl' Serrito,Ehl'-Serrito,El Cerrito,Municipio de El Cerrito,ai er sai li tuo,al srytw,Эл Серрито,Эль Серрито,Эль-Серрито,ال سریتو,ელ-სერიტო,埃爾塞里托	3.64273	-76.2096	A	ADM2	CO		29	76248			57749		1172	America/Bogota	2022-07-24
+3684667	El Carmen de Bolívar	El Carmen de Bolivar	Carmen de Bolivar,Carmen de Bolívar,El Carmen,El Carmen de Bolivar,El Carmen de Bolívar,Municipio de El Carmen de Bolivar,Municipio de El Carmen de Bolívar	9.7088	-75.15958	A	ADM2	CO		35	13244			67952		273	America/Bogota	2020-06-11
+3684711	El Carmen	El Carmen	El Carmen,Municipio de El Carmen	8.85175	-73.35303	A	ADM2	CO		21	54245			16377		857	America/Bogota	2018-08-08
+3684712	El Carmen de Atrato	El Carmen de Atrato		5.83333	-76.25	A	ADM2	CO		11	27245			11849		1601	America/Bogota	2014-09-16
+3684771	El Calvario	El Calvario	El Calvario,ai er ka er wa li ao,al kalwaryw,alklbaryw,ال کالواریو,الكلباريو,ელ-კალვარიო,埃尔卡尔瓦里奥,埃爾卡爾瓦里奧	4.35426	-73.74431	A	ADM2	CO		19	50245			2288		2043	America/Bogota	2014-09-16
+3684790	El Cairo	El Cairo	Ehl'-Kajro,El Cairo,ai er kai luo,al kayrw,ayl qayrw,Эль-Кайро,ال کایرو,ایل قائرو,ელ-კაირო,埃尔凯罗,埃爾凱羅	4.74889	-76.24443	A	ADM2	CO		29	76246			9976		1504	America/Bogota	2022-07-19
+3684928	El Banco	El Banco	Ehl'-Banko,El Banco,El'-Banko,Municipio de El Banco,ai er ban ke,al bankw,Ель-Банко,Эль-Банко,אל בנקו,إل بانكو,ال بانکو,ელ-ბანკო,エル・バンコ,埃爾班科	9.12411	-73.97626	A	ADM2	CO		38	47245			54855		39	America/Bogota	2018-08-08
+3685028	El Águila	El Aguila	El Aguila,El Águila,Municipio de El Aguila,Municipio de El Águila	4.91946	-76.0568	A	ADM2	CO		29	76243			7393		1485	America/Bogota	2022-07-24
+3685059	Ebéjico	Ebejico	Ebejico,Ebéjico,Municipio de Ebejico,Municipio de Ebéjico	6.33412	-75.78523	A	ADM2	CO		02	05240			10338		1331	America/Bogota	2022-07-19
+3685071	Durania	Durania	Durania	7.71915	-72.70029	A	ADM2	CO		21	54239			4289		1283	America/Bogota	2014-09-16
+3685085	Duitama	Duitama		5.86361	-73.08988	A	ADM2	CO		36	15238			128400		3371	America/Bogota	2022-07-19
+3685127	Don Matías	Don Matias		6.50559	-75.36645	A	ADM2	CO		02	05237			17701		2281	America/Bogota	2016-06-24
+3685179	Dolores	Dolores	Dolores,Municipio de Dolores	3.60534	-74.80585	A	ADM2	CO		28	73236			7923		1554	America/Bogota	2022-07-19
+3685293	Dagua	Dagua	Dagua,Municipio de Dagua	3.61642	-76.73213	A	ADM2	CO		29	76233			35270		1787	America/Bogota	2018-09-05
+3685297	Dabeiba	Dabeiba	Dabeiba,Municipio de Dabeiba	7.03367	-76.34161	A	ADM2	CO		02	05234			22717		497	America/Bogota	2022-07-19
+3685346	Curití	Curiti	Curiti,Curití	6.6063	-73.04603	A	ADM2	CO		26	68229			11653		1497	America/Bogota	2022-07-19
+3685419	Cunday	Cunday	Cunday,Municipio de Cunday,kun dai,kwnday,کوندای,კუნდაი,昆代	4.00284	-74.69295	A	ADM2	CO		28	73226			9544		593	America/Bogota	2022-07-19
+3685433	Cumbal	Cumbal	Cumbal,Municipio de Cumbal	0.95032	-77.94138	A	ADM2	CO		20	52227			41205		3658	America/Bogota	2022-07-19
+3685446	Cumaral	Cumaral	Cumaral,Municipio de Cumaral,ku ma la er,kwmaral,کومارال,კუმარალი,库马拉尔,庫馬拉爾	4.23814	-73.34101	A	ADM2	CO		19	50226			21397		323	America/Bogota	2022-07-19
+3685483	Cuítiva	Cuitiva	Cuitiva,Cuítiva	5.59156	-72.96278	A	ADM2	CO		36	15226			2011		2883	America/Bogota	2014-09-24
+3685530	Cucutilla	Cucutilla	Cucutilla,Municipio de Cucutilla	7.49891	-72.79705	A	ADM2	CO		21	54223			8447		1843	America/Bogota	2018-08-08
+3685534	Cúcuta	Cucuta		8.08413	-72.50517	A	ADM2	CO		21	54001			587676		171	America/Bogota	2014-09-16
+3685541	Cucunubá	Cucunuba	Cucunuba,Cucunubá	5.21626	-73.80756	A	ADM2	CO		33	25224			7013		3057	America/Bogota	2014-09-16
+3685572	Cubará	Cubara		6.88556	-72.19	A	ADM2	CO		36	15223			6614		2128	America/Bogota	2015-01-05
+3685615	Cuaspud	Cuaspud	Carlosama,Carlosania,Cuaspud,Guaspud	0.8757	-77.7364	A	ADM2	CO		20	52224			8101		3215	America/Bogota	2016-06-24
+3685709	Coyaima	Coyaima	Coyaima,Kojaima,ke ya yi ma,kwyayma,Кояїма,کویایما,კოიამა,科亞伊馬	3.72781	-75.17397	A	ADM2	CO		28	73217			28379		489	America/Bogota	2022-07-19
+3685715	Covarachía	Covarachia	Cobarachia,Covarachia,Covarachía	6.51933	-72.73996	A	ADM2	CO		36	15218			3324		2285	America/Bogota	2016-06-24
+3685734	Cota	Cota	Cota	4.77601	-74.14335	A	ADM2	CO		33	25214			19909		2548	America/Bogota	2014-09-16
+3685795	Corrales	Corrales	Corrales	5.82497	-72.84539	A	ADM2	CO		36	15215			2544		2432	America/Bogota	2016-06-24
+3685831	Corozal	Corozal	Corozal,Municipio de Corozal,ke luo sa er,kwrwsal,کوروسال,კოროსალი,科羅薩爾	9.20001	-75.27916	A	ADM2	CO		27	70215			57756		143	America/Bogota	2018-09-05
+3685841	Coromoro	Coromoro	Coromoro,Koromoro,Municipio de Coromoro,ke luo mo luo,kwrwmwrw,Короморо,کورومورو,კორომორო,科罗莫罗,科羅莫羅	6.23321	-72.97541	A	ADM2	CO		26	68217			7376		2690	America/Bogota	2018-09-05
+3685873	Corinto	Corinto	Corinto,Municipio de Corinto	3.13598	-76.20646	A	ADM2	CO		09	19212			33846		1783	America/Bogota	2022-07-19
+3685904	Córdoba	Cordoba	Cordoba,Córdoba,Municipio de Cordoba,Municipio de Córdoba	9.55149	-74.898	A	ADM2	CO		35	13212			15012		26	America/Bogota	2022-07-19
+3685905	Córdoba	Cordoba	Cordoba,Córdoba,Municipio de Cordoba,Municipio de Córdoba	0.78499	-77.36144	A	ADM2	CO		20	52215			14827		2385	America/Bogota	2022-07-19
+3685944	Coper	Coper	Coper,Cóper,Municipio de Coper	5.4362	-74.0321	A	ADM2	CO		36	15212			4201		1252	America/Bogota	2018-06-08
+3685950	Copacabana	Copacabana	Copacabana,Municipio de Copacabana	6.3623	-75.49922	A	ADM2	CO		02	05212			61234		1449	America/Bogota	2018-06-08
+3685957	Convención	Convencion	Convencion,Convención	8.82242	-73.2285	A	ADM2	CO		21	54206			18112		1168	America/Bogota	2022-07-19
+3685962	Contratación	Contratacion	Contratacion,Contratación	6.29318	-73.48399	A	ADM2	CO		26	68211			4021		1811	America/Bogota	2015-01-07
+3685975	Contadero	Contadero	Contadero,Municipio de Contadero	0.93072	-77.53333	A	ADM2	CO		20	52210			6667		2990	America/Bogota	2018-08-08
+3685985	Consaca	Consaca		1.20841	-77.46323	A	ADM2	CO		20	52207			10287		1677	America/Bogota	2015-01-07
+3685996	Confines	Confines	Confines,Konfines,kong fei nei si,kwnfyns,Конфинес,کونفینس,კონფინესი,孔菲內斯,孔菲内斯	6.34875	-73.2099	A	ADM2	CO		26	68209			2753		1827	America/Bogota	2014-09-16
+3686003	Condoto	Condoto		5.10603	-76.45161	A	ADM2	CO		11	27205			13098		291	America/Bogota	2016-06-24
+3686016	Concordia	Concordia	Concordia,Municipio de Concordia	6.04497	-75.90179	A	ADM2	CO		02	05209			16095		2030	America/Bogota	2022-07-19
+3686033	Concepción	Concepcion		6.7702	-72.63437	A	ADM2	CO		26	68207			5908		3172	America/Bogota	2015-01-07
+3686034	Concepción	Concepcion	Concepcion,Concepción,La Concha,Municipio de Concepcion,Municipio de Concepción	6.39004	-75.21946	A	ADM2	CO		02	05206			4509		2020	America/Bogota	2020-06-11
+3686053	Cómbita	Combita	Combita,Cómbita	5.6876	-73.32942	A	ADM2	CO		36	15204			14632		3161	America/Bogota	2022-07-24
+3686108	Colón	Colon	Colon,Colón,Genova	1.6285	-77.02927	A	ADM2	CO		20	52203			9658		2257	America/Bogota	2014-09-26
+3686121	Colombia	Colombia	Colombia,Kolompia,ke long bi ya,klmbya,Κολόμπια,کلمبیا,科隆比亚,科隆比亞	3.39929	-74.72034	A	ADM2	CO		16	41206			11173		1756	America/Bogota	2015-01-06
+3686135	Cogua	Cogua	Cogua	5.08474	-73.9949	A	ADM2	CO		33	25200			18276		2982	America/Bogota	2014-09-16
+3686143	Coello	Coello	Coello,Municipio de Coello	4.3733	-74.88655	A	ADM2	CO		28	73200			9887		522	America/Bogota	2022-07-24
+3686159	Cocorná	Cocorna	Cocorna,Cocorná	6.00579	-75.16984	A	ADM2	CO		02	05197			14743		1502	America/Bogota	2022-07-24
+3686229	Cisneros	Cisneros	Cisneros	6.54507	-75.09415	A	ADM2	CO		02	05190			9058		1248	America/Bogota	2022-07-24
+3686234	Circasia	Circasia	Circasia	4.5994	-75.68536	A	ADM2	CO		23	63190			27135		1571	America/Bogota	2022-07-24
+3686273	Ciénaga de Oro	Cienaga de Oro	Cienaga de Oro,Ciénaga de Oro,Municipio de Cienaga de Oro,Municipio de Ciénaga de Oro	8.83581	-75.60425	A	ADM2	CO		12	23189			53145		45	America/Bogota	2018-07-04
+3686276	Ciénaga	Cienaga	S'enaga,Sjenaga,sienaga,synaga,xie na jia,Сьенага,سیناگا,სიენაგა,謝納加	10.83333	-74.08333	A	ADM2	CO		38	47189			105510		535	America/Bogota	2022-07-23
+3686280	Ciénega	Cienega	Cienaga,Cienega,Ciénaga	5.36332	-73.29746	A	ADM2	CO		36	15189			5242		2919	America/Bogota	2014-09-16
+3686294	Caicedonia	Caicedonia		4.33366	-75.83425	A	ADM2	CO		29	76122			30947		1174	America/Bogota	2014-09-16
+3686423	Chocontá	Choconta	Choconta,Chocontá,Municipio de Choconta,Municipio de Chocontá	5.12329	-73.68686	A	ADM2	CO		33	25183			19512		2755	America/Bogota	2018-07-04
+3686442	Choachí	Choachi	Choachi,Choachí,Municipio de Choachi,Municipio de Choachí	4.5606	-73.91851	A	ADM2	CO		33	25181			11165		1897	America/Bogota	2018-07-04
+3686455	Chitaraque	Chitaraque	Chitaraque	5.96167	-73.45761	A	ADM2	CO		36	15185			6711		1831	America/Bogota	2014-09-16
+3686461	Chitagá	Chitaga	Chitaga,Chitagá	7.03202	-72.55073	A	ADM2	CO		21	54174			10179		1774	America/Bogota	2014-09-16
+3686466	Chita	Chita	Chita	6.07788	-72.46774	A	ADM2	CO		36	15183			10844		3412	America/Bogota	2014-09-16
+3686472	Chiscas	Chiscas	Chiscas,Municipio de Chiscas	6.69329	-72.42433	A	ADM2	CO		36	15180			5372		3497	America/Bogota	2018-06-08
+3686481	Chiriguaná	Chiriguana		9.39322	-73.51883	A	ADM2	CO		10	20178			27006		50	America/Bogota	2022-07-19
+3686515	Chiquinquirá	Chiquinquira	Chiquinquira,Chiquinquirá,chykynkyra,qi jin ji la,چیکینکیرا,ჩიკინკირა,奇金基拉	5.61363	-73.83848	A	ADM2	CO		36	15176			72274		2671	America/Bogota	2022-07-23
+3686531	Chipatá	Chipata		6.06312	-73.65392	A	ADM2	CO		26	68179			5151		2047	America/Bogota	2015-01-08
+3686533	Chipaque	Chipaque	Chipaque,chypakh,qi pa ke,چیپاکه,ჩიპაკე,奇帕克	4.41481	-74.07541	A	ADM2	CO		33	25178			8400		2660	America/Bogota	2022-07-19
+3686541	Chinú	Chinu	Chinu,Chinú,Municipio de Chinu,Municipio de Chinú	9.03869	-75.34273	A	ADM2	CO		12	23182			50743		67	America/Bogota	2022-07-19
+3686562	Chinchiná	Chinchina	Chinchina,Chinchiná	4.97522	-75.70416	A	ADM2	CO		37	17174			53496		1315	America/Bogota	2014-09-16
+3686571	Chinavita	Chinavita	Chinavita	5.17915	-73.37147	A	ADM2	CO		36	15172			3528		1917	America/Bogota	2022-07-19
+3686575	Chinácota	Chinacota		7.55543	-72.60413	A	ADM2	CO		21	54172			14784		1770	America/Bogota	2014-09-16
+3686586	Chimichagua	Chimichagua	Chimichagua,Municipio de Chimichagua,chimichagua,chymychagwa,qi mi cha gua,Чимичагуа,چیمیچاگوآ,ჩიმიჩაგუა,奇米查瓜	9.2225	-73.8075	A	ADM2	CO		10	20175			30289		22	America/Bogota	2022-07-24
+3686607	Chimá	Chima	Chima,Chimá,Municipio de Chima,Municipio de Chimá	9.11466	-75.65095	A	ADM2	CO		12	23168			13492		3	America/Bogota	2022-07-24
+3686608	Chima	Chima	Chima	6.36289	-73.42534	A	ADM2	CO		26	68176			3338		1514	America/Bogota	2014-09-16
+3686637	Chigorodó	Chigorodo	Chigorodo,Chigorodó,Municipio de Chigorodo,Municipio de Chigorodó	7.63378	-76.63221	A	ADM2	CO		02	05172			86239		72	America/Bogota	2022-07-19
+3686677	Chía	Chia	Chia,Chía,chia,chya,qi ya,چیا,ჩია,奇亞	4.84452	-74.05848	A	ADM2	CO		33	25175			138822		2559	America/Bogota	2022-07-19
+3686713	Charta	Charta	Charta,cha er ta,charta,Чарта,چارتا,ჩარტა,查爾塔	7.24489	-73.00715	A	ADM2	CO		26	68169			3142		2256	America/Bogota	2015-01-08
+3686738	Charalá	Charala	Charala,Charalá	6.17513	-73.17587	A	ADM2	CO		26	68167			10540		1385	America/Bogota	2022-07-19
+3686794	Chaparral	Chaparral	Chaparral,Municipio de Chaparral	3.75	-75.58333	A	ADM2	CO		28	73168			47293		1160	America/Bogota	2022-07-20
+3686820	Chameza	Chameza		5.19237	-72.88952	A	ADM2	CO		32	85015			1820		1566	America/Bogota	2014-09-16
+3686852	Chaguaní	Chaguani	Chaguani,Chaguaní	4.94554	-74.65954	A	ADM2	CO		33	25168			4101		460	America/Bogota	2014-09-16
+3686895	Cerro San Antonio	Cerro San Antonio		10.29063	-74.82173	A	ADM2	CO		38	47161			8319		5	America/Bogota	2016-06-24
+3686909	Cerrito	Cerrito		6.8907	-72.67103	A	ADM2	CO		26	68162			6319		3257	America/Bogota	2015-01-08
+3686919	Cerinza	Cerinza	Cerinza	5.93649	-72.99127	A	ADM2	CO		36	15162			4312		3765	America/Bogota	2014-09-16
+3686923	Cereté	Cerete		8.88208	-75.82182	A	ADM2	CO		12	23162			94935		10	America/Bogota	2022-07-20
+3686926	Cepitá	Cepita		6.73375	-72.9491	A	ADM2	CO		26	68160			2022		1289	America/Bogota	2015-01-08
+3687026	Caucasia	Caucasia	Caucasia,Municipio de Caucasia	7.86695	-75.02858	A	ADM2	CO		02	05154			123304		60	America/Bogota	2022-07-20
+3687085	Castilla la Nueva	Castilla la Nueva	Castilla la Nueva,kastyla la nwwa,xin ka si di li ya,کاستیلا لا نووا,კასტილია-ლა-ნუევა,新卡斯蒂利亚,新卡斯蒂利亞	3.8	-73.58333	A	ADM2	CO		19	50150			7067		335	America/Bogota	2014-09-16
+3687214	Casabianca	Casabianca	Casabianca,ka sa wei an ka,kasabyanka,کاسابیانکا,კასაბიანკა,卡萨维安卡,卡薩維安卡	5.01725	-75.18702	A	ADM2	CO		28	73152			6639		2258	America/Bogota	2022-07-20
+3687232	Cartago	Cartago	Cartago,Kartagas,Kartago,Municipio de Cartago,ka ta ge,kartagw,Картаго,کارتاگو,კარტაგო,卡塔戈	4.7	-75.91667	A	ADM2	CO		29	76147			134972		935	America/Bogota	2022-07-23
+3687247	Cartagena de Indias	Cartagena de Indias	Caratagena de Indias,Cartagena,Cartagena das Indias,Cartagena das Índias,Cartagena de Indias,Cartagena i Colombia,Cartaxena de Indias,Carthagene des Indes,Carthagène des Indes,Kartachena,Kartagena,Kartageno,Kartakhena,Kartakhena de Indijas,Municipio de Cartagena de Indias,ka ta he na,kaleutahena,kar ta khen a,kartagna,kartajyna,kartakhyna  kwlmbya,karutahena,qrtajnt,qrthnh,Картагена,Картахена,Картахена де Индијас,קרטחנה,قرطاجنة,کارتاجینا,کارتاخینا، کولمبیا,کارتاگنا,การ์ตาเคนา,კარტახენა,カルタヘナ,卡塔赫纳,카르타헤나	10.50743	-75.4543	A	ADM2	CO		35	13001			892545		20	America/Bogota	2021-06-04
+3687311	Carolina	Carolina	Carolina	6.74807	-75.32131	A	ADM2	CO		02	05150			3971		2071	America/Bogota	2014-09-16
+3687322	Carmen de Carupa	Carmen de Carupa	Carmen de Carupa,Municipio de Carmen de Carupa	5.33258	-73.92788	A	ADM2	CO		33	25154			8491		3174	America/Bogota	2018-07-04
+3687325	Carmen de Apicalá	Carmen de Apicala		4.10771	-74.76777	A	ADM2	CO		28	73148			8880		316	America/Bogota	2022-07-20
+3687395	Carcasí	Carcasi		6.64799	-72.59325	A	ADM2	CO		26	68152			5200		2279	America/Bogota	2014-09-16
+3687428	Caramanta	Caramanta	Caramanta,Karamanta,ka la man ta,Караманта,კარამანტა,卡拉曼塔	5.54144	-75.66961	A	ADM2	CO		02	05145			5510		2378	America/Bogota	2014-09-16
+3687477	Caqueza	Caqueza	Caqueza,Cáqueza	4.38708	-73.95722	A	ADM2	CO		33	25151			16442		2328	America/Bogota	2014-09-16
+3687491	Capitanejo	Capitanejo		6.52083	-72.67432	A	ADM2	CO		26	68147			6152		1284	America/Bogota	2016-06-24
+3687506	Caparrapí	Caparrapi	Caparrapi,Caparrapí,Municipio de Caparrapi,Municipio de Caparrapí	5.37852	-74.52276	A	ADM2	CO		33	25148			16483		667	America/Bogota	2018-07-04
+3687646	Candelaria	Candelaria	Candelaria	10.47387	-74.88581	A	ADM2	CO		04	08141			15631		17	America/Bogota	2022-07-20
+3687647	Candelaria	Candelaria	Candelaria	3.38367	-76.42466	A	ADM2	CO		29	76130			87811		957	America/Bogota	2022-07-20
+3687679	Cañasgordas	Canasgordas	Canasgordas,Cañasgordas,Municipio de Canasgordas,Municipio de Cañasgordas	6.80951	-76.03954	A	ADM2	CO		02	05138			13595		1786	America/Bogota	2022-07-20
+3687753	Campohermoso	Campohermoso	Campohermoso	4.97733	-73.16714	A	ADM2	CO		36	15135			4065		642	America/Bogota	2014-09-16
+3687759	Campo de La Cruz	Campo de La Cruz	Campo de la Cruz	10.37844	-74.90258	A	ADM2	CO		04	08137			19107		10	America/Bogota	2014-09-16
+3687808	Campoalegre	Campoalegre	Campoalegre,Municipio de Campoalegre,kambwalyghry,kampwalgrh,kan bo a lai ge lei,كامبوأليغري,کامپوآلگره,კამპოალეგრე,カンポ・アレグレ,坎波阿莱格雷,坎波阿萊格雷	2.66667	-75.33333	A	ADM2	CO		16	41132			35057		539	America/Bogota	2022-07-20
+3687840	Campamento	Campamento	Campamento	7.0391	-75.28938	A	ADM2	CO		02	05134			9688		1385	America/Bogota	2016-06-24
+3687881	Caloto	Caloto	Caloto,Kaloto,Municipio de Caloto,ka luo tuo,kalwtw,karoto,Калото,קאלוטו,کالوتو,კალოტო,カロート,卡洛托	3.0389	-76.36043	A	ADM2	CO		09	19142			25416		1327	America/Bogota	2022-07-20
+3687908	Calima	Calima	Calima,Municipio de Calima	3.92511	-76.62654	A	ADM2	CO		29	76126			16054		1520	America/Bogota	2022-07-20
+3687919	California	California		7.3434	-72.95815	A	ADM2	CO		26	68132			1793		2151	America/Bogota	2019-04-30
+3687926	Cali	Cali	Cali,Calium,Cáli,Kali,Kalis,Municipio de Cali,Santiago de Cali,ka li,kali,kalli,kaly,santi'ago de kali,Κάλι,Кали,Калі,Կալի,סנטיאגו דה קאלי,كالي,کالی,ਸਾਂਤਿਆਗੋ ਦੇ ਕਾਲੀ,கலி,กาลี,კალი,サンティアゴ・デ・カリ,卡利,칼리	3.41033	-76.58097	A	ADM2	CO		29	76001			2119908		1095	America/Bogota	2018-09-05
+3687934	Caldono	Caldono	Caldono,Caldonó,Kal'dono,Municipio de Caldono,ka er duo nuo,kaldwnw,Кальдоно,کالدونو,კალდონო,卡尔多诺,卡爾多諾	2.80755	-76.45667	A	ADM2	CO		09	19137			34348		1800	America/Bogota	2022-07-20
+3687954	Caldas	Caldas	Caldas,Caldas Department,Caldas department,Caldas suyu,Departament de Caldas,Departamento de Caldas,Departamento ti Caldas,Departamentul Caldas,Departemen Caldas,Diamerisma Kaldas,Dipartimento di Caldas,Kagawaran ng Caldas,Kal'das,Kalda departaments,Kaldas,Kaldaso,Kaldaso departamentas,Municipio de Caldas,Pentadbiran Caldas,ka er da si sheng,kaldaseu ju,karudasu xian,Διαμέρισμα Κάλδας,Калдас,Кальдас,کلداس ڈیپارٹمنٹ,კალდასის დეპარტამენტი,カルダス県,卡尔达斯省,칼다스 주	6.05671	-75.62707	A	ADM2	CO		02	05129			67999		1803	America/Bogota	2018-06-08
+3687955	Caldas	Caldas	Caldas,Municipio de Caldas	5.5783	-73.88066	A	ADM2	CO		36	15131			4050		2647	America/Bogota	2018-06-08
+3687965	Calarca	Calarca	Calarca,Calarcà,Calarcá	4.5	-75.63333	A	ADM2	CO		23	63130			73741		1716	America/Bogota	2014-09-16
+3687977	Calamar	Calamar	Calamar	10.23377	-74.9424	A	ADM2	CO		35	13140			22202		5	America/Bogota	2022-07-20
+3688007	Cajicá	Cajica	Cajica,Cajicá	4.91284	-74.05261	A	ADM2	CO		33	25126			56875		2563	America/Bogota	2022-07-24
+3688010	Cajibío	Cajibio	Cajibio,Cajibío,Municipio de Cajibio,Municipio de Cajibío	2.64488	-76.708	A	ADM2	CO		09	19130			38932		1745	America/Bogota	2022-07-24
+3688022	Cajamarca	Cajamarca	Cajamarca,Municipio de Cajamarca	4.41667	-75.5	A	ADM2	CO		28	73124			17309		3129	America/Bogota	2022-07-24
+3688031	Caimito	Caimito	Caimito,Municipio de Caimito	8.78834	-75.13583	A	ADM2	CO		27	70124			13331		29	America/Bogota	2022-07-24
+3688073	Caicedo	Caicedo	Caicedo,Municipio de Caicedo	6.42805	-75.99715	A	ADM2	CO		02	05125			7686		2173	America/Bogota	2018-06-08
+3688088	Cácota	Cacota	Cacota,Cácota	7.25046	-72.6783	A	ADM2	CO		21	54125			2583		3076	America/Bogota	2014-09-16
+3688108	Cachirá	Cachira	Cachira,Cáchira	7.75	-73.16667	A	ADM2	CO		21	54128			10970		1550	America/Bogota	2022-07-24
+3688130	Cáceres	Caceres	Caceres,Cáceres,Municipio de Caceres,Municipio de Cáceres	7.68252	-75.22481	A	ADM2	CO		02	05120			28945		83	America/Bogota	2018-06-08
+3688173	Cabrera	Cabrera	Cabrera	6.56443	-73.26768	A	ADM2	CO		26	68121			1924		734	America/Bogota	2014-09-16
+3688215	Busbanzá	Busbanza		5.8435	-72.86991	A	ADM2	CO		36	15114			1156		2666	America/Bogota	2022-07-20
+3688226	Buriticá	Buritica	Buritica,Buriticá,Municipio de Buritica,Municipio de Buriticá	6.80549	-75.92093	A	ADM2	CO		02	05113			6955		1685	America/Bogota	2018-06-08
+3688255	Bugalagrande	Bugalagrande	Bugalagrande,Municipio de Bugalagrande	4.16667	-76.08333	A	ADM2	CO		29	76113			21601		1086	America/Bogota	2018-09-05
+3688267	Buesaco	Buesaco	Buesaco,Municipio de Buesaco	1.3293	-77.12373	A	ADM2	CO		20	52110			19951		2865	America/Bogota	2022-07-21
+3688360	Buenos Aires	Buenos Aires	Buenos Aires,Municipio de Buenos Aires	3.04825	-76.63066	A	ADM2	CO		09	19110			35197		1108	America/Bogota	2022-07-21
+3688364	Buenavista	Buenavista		5.5	-73.96667	A	ADM2	CO		36	15109			5889		1823	America/Bogota	2015-01-05
+3688463	Bucarasica	Bucarasica		8.08065	-72.92905	A	ADM2	CO		21	54109			4561		1922	America/Bogota	2016-06-24
+3688467	Bucaramanga	Bucaramanga	Bukaramanga,Gorad Bukaramanga,bu ka la man jia,buka rama ngka,bukalamang-ga,bukaramanga,bwkaramanga,bwkaramangha,Букараманга,Букараманґа,Горад Букараманга,بوكارامانغا,بوکارامانگا,บูการามังกา,ბუკარამანგა,ブカラマンガ,布卡拉曼加,부카라망가	7.13717	-73.13277	A	ADM2	CO		26	68001			581130		940	America/Bogota	2022-07-24
+3688505	Briceño	Briceno	Briceno,Briceño	5.68728	-73.93284	A	ADM2	CO		36	15106			2748		1198	America/Bogota	2014-10-17
+3688543	Boyacá	Boyaca	Boyaca,Boyacá	5.44871	-73.35142	A	ADM2	CO		36	15104			5074		2337	America/Bogota	2014-09-25
+3688666	Bolívar	Bolivar		6.09869	-74.15038	A	ADM2	CO		26	68101			9567		267	America/Bogota	2022-07-21
+3688668	Bolívar	Bolivar	Bolivar,Bolívar,Municipio de Bolivar,Municipio de Bolívar	4.3771	-76.3487	A	ADM2	CO		29	76100			13954		1217	America/Bogota	2022-07-23
+3688669	Bolívar	Bolivar	Bolivar,Bolívar	1.8467	-76.98292	A	ADM2	CO		09	19100			44864		1935	America/Bogota	2022-07-21
+3688672	Bojaya	Bojaya		6.5	-77.1	A	ADM2	CO		11	27099			9941		169	America/Bogota	2014-09-16
+3688674	Bojacá	Bojaca	Bojaca,Bojacá	4.68719	-74.33706	A	ADM2	CO		33	25099			8879		2609	America/Bogota	2014-09-16
+3688707	Bochalema	Bochalema	Bochalema,bochalema,bwchalma,wo cha lai ma,Бочалема,بوچالما,ბოჩალემა,沃查莱马,沃查萊馬	7.60217	-72.68839	A	ADM2	CO		21	54099			6973		1900	America/Bogota	2022-07-21
+3688776	Boavita	Boavita		6.30737	-72.64308	A	ADM2	CO		36	15097			7079		1514	America/Bogota	2022-07-21
+3688812	Bituima	Bituima	Bituima	4.82896	-74.55203	A	ADM2	CO		33	25095			2657		1876	America/Bogota	2014-09-16
+3688842	Betulia	Betulia	Betulia,Betulija,bei tu li ya,btwlya,Бетулия,بتولیا,ბეტულია,貝圖利亞	6.99622	-73.39155	A	ADM2	CO		26	68092			5350		331	America/Bogota	2015-01-07
+3688843	Betulia	Betulia	Betulia,Municipio de Betulia	6.18628	-75.94502	A	ADM2	CO		02	05093			15097		1434	America/Bogota	2022-07-21
+3688847	Betéitiva	Beteitiva	Beteitiva,Betéitiva	5.89428	-72.87079	A	ADM2	CO		36	15092			2479		2831	America/Bogota	2014-09-16
+3688865	Betania	Betania	Betania,Municipio de Betania	5.73571	-75.98964	A	ADM2	CO		02	05091			9286		1537	America/Bogota	2022-07-21
+3688910	Berbeo	Berbeo	Berbeo	5.2276	-73.12527	A	ADM2	CO		36	15090			1913		1365	America/Bogota	2016-06-24
+3688919	Beltrán	Beltran	Beltran,Beltrán	4.71947	-74.7566	A	ADM2	CO		33	25086			1947		433	America/Bogota	2016-06-24
+3688924	Belmira	Belmira	Belmira,Municipio de Belmira	6.66667	-75.66667	A	ADM2	CO		02	05086			6188		3251	America/Bogota	2018-06-08
+3688929	Bello	Bello	Bello,Municipio de Bello	6.3616	-75.58728	A	ADM2	CO		02	05088			371591		1991	America/Bogota	2018-06-08
+3688990	Belén de Umbría	Belen de Umbria	Belen de Umbria,Belén de Umbría,Municipio de Belen de Umbria,Municipio de Belén de Umbría	5.20899	-75.87213	A	ADM2	CO		24	66088			27717		1431	America/Bogota	2018-09-05
+3688992	Belén de Los Andaquies	Belen de Los Andaquies	Belen de los Andaquies,Belén de los Andaquíes	1.41667	-75.91667	A	ADM2	CO		08	18094			9075		522	America/Bogota	2022-07-24
+3689007	Belén	Belen	Belen,Belén	5.97631	-72.92481	A	ADM2	CO		36	15087			9041		2652	America/Bogota	2015-01-05
+3689013	Belalcázar	Belalcazar	Belalcazar,Belalcázar,Municipio de Belalcazar,Municipio de Belalcázar	5.00355	-75.81875	A	ADM2	CO		37	17088			9690		1365	America/Bogota	2022-07-21
+3689152	Barranquilla	Barranquilla	Barranquilla	10.95838	-74.79183	A	ADM2	CO		04	08001			1206319		34	America/Bogota	2022-07-21
+3689158	Barranco de Loba	Barranco de Loba	Barranco de Loba,Municipio de Barranco de Loba	8.8829	-74.18276	A	ADM2	CO		35	13074			14435		20	America/Bogota	2022-07-23
+3689165	Barrancas	Barrancas	Barrancas,Barrankas,Municipio de Barrancas,ba lan ka si,barankas,Барранкас,بارانکاس,ბარანკასი,巴蘭卡斯	10.9718	-72.69115	A	ADM2	CO		17	44078			38232		259	America/Bogota	2022-07-24
+3689170	Barrancabermeja	Barrancabermeja	Barrancabermeja,Municipio de Barrancabermeja	7.05452	-73.7712	A	ADM2	CO		26	68081			191704		69	America/Bogota	2022-07-21
+3689188	Barichara	Barichara	Barichara,ba li cha la,barichara,barychara,Баричара,باریچارا,ბარიჩარა,バリチャラ,巴里查拉	6.64555	-73.23387	A	ADM2	CO		26	68079			7651		1027	America/Bogota	2015-01-08
+3689207	Barbosa	Barbosa	Barbosa,Municipio de Barbosa	6.45	-75.33333	A	ADM2	CO		02	05079			53943		1303	America/Bogota	2022-07-21
+3689208	Barbosa	Barbosa	Barbosa,ba er bo sa,barbosa,brabwsa,Барбоса,برابوسا,ბარბოსა,巴爾博薩	5.9516	-73.63726	A	ADM2	CO		26	68077			26046		1906	America/Bogota	2015-01-08
+3689229	Barbacoas	Barbacoas	Barbacoas,Municipio de Barbacoas	1.4817	-78.12223	A	ADM2	CO		20	52079			38708		346	America/Bogota	2022-07-21
+3689234	Baraya	Baraya	Baraya,Municipio de Baraya,ba la ya,baraia,baraya,بارایا,ბარაია,巴拉亞	3.14531	-74.95397	A	ADM2	CO		16	41078			6679		1558	America/Bogota	2022-07-21
+3689237	Baranoa	Baranoa	Baranoa,Municipio de Baranoa	10.79497	-74.92073	A	ADM2	CO		04	08078			68383		121	America/Bogota	2022-07-21
+3689293	Balboa	Balboa	Balboa,Municipio de Balboa	4.92284	-75.9403	A	ADM2	CO		24	66075			6353		1084	America/Bogota	2018-09-05
+3689294	Balboa	Balboa	Balboa,Municipio de Balboa	2.08436	-77.20781	A	ADM2	CO		09	19075			18910		1948	America/Bogota	2022-07-21
+3689318	Bajo Baudó	Bajo Baudo	Bajo Baudo,Bajo Baudó,Baudo,Pizarro	4.90181	-77.22771	A	ADM2	CO		11	27077			18561		33	America/Bogota	2022-07-24
+3689337	Bagadó	Bagado	Bagado,Bagadó,Municipio de Bagado,Municipio de Bagadó	5.52072	-76.18785	A	ADM2	CO		11	27073			8454		616	America/Bogota	2018-07-04
+3689382	Ayapel	Ayapel	Ayapel,Municipio de Ayapel	8.2722	-75.03957	A	ADM2	CO		12	23068			56082		26	America/Bogota	2022-07-21
+3689451	Ataco	Ataco	Ataco,Florencia caqueta,Municipio de Ataco,a ta kou,atakw,آتاکو,أتاكو,ატაკო,阿塔扣	3.42641	-75.46353	A	ADM2	CO		28	73067			13470		852	America/Bogota	2022-07-21
+3689552	Armero	Armero	Armeras,Armero,Armero Guayabal,Armero-Guayabal,Armeró,Guayabal,a er mei luo,aleumelo,armrw,arumero,gua ya wa er,Армеро,ארמרו,آرمرو,アルメロ,瓜亚瓦尔,瓜亞瓦爾,阿爾梅羅,아르메로	4.98873	-74.8813	A	ADM2	CO		28	73055			11724		306	America/Bogota	2022-07-21
+3689562	Armenia	Armenia	Armenia,Armenia Mantequilla,Municipio de Armenia	6.17554	-75.8123	A	ADM2	CO		02	05059			5196		1001	America/Bogota	2022-07-21
+3689563	Armenia	Armenia	Armenia,Armenii,Armenija,Armènia,Armênia,aleumenia,armenia,armnya,armynya  kwlmbya,armynya  kwlmbya,arumenia,ya mei ni ya cheng,Армения,Արմենիա,آرمنیا,آرمینیا ،کولمبیا,آرمینیا، کولمبیا,არმენია,アルメニア,亚美尼亚城,아르메니아	4.53307	-75.70438	A	ADM2	CO		23	63001			280930		1366	America/Bogota	2014-09-16
+3689572	Arjona	Arjona	Arjona,Municipio de Arjona	10.17594	-75.35884	A	ADM2	CO		35	13052			73730		54	America/Bogota	2022-07-21
+3689618	Argelia	Argelia	Argelia,Arkhelija,a he li ya,arglya,arkhelia,Архелия,آرگلیا,არხელია,阿赫利亞	4.72904	-76.11637	A	ADM2	CO		29	76054			6693		1647	America/Bogota	2014-09-24
+3689619	Argelia	Argelia	Argelia,Municipio de Argelia	2.31728	-77.257	A	ADM2	CO		09	19050			20136		1295	America/Bogota	2022-07-21
+3689690	Arcabuco	Arcabuco	Arcabuco	5.72389	-73.46781	A	ADM2	CO		36	15051			5240		2667	America/Bogota	2022-07-21
+3689694	Arboletes	Arboletes	Arboletes,Municipio de Arboletes	8.60681	-76.41752	A	ADM2	CO		02	05051			45710		65	America/Bogota	2022-07-21
+3689698	Arboledas	Arboledas	Arboledas,Municipio de Arboledas,a wo lai da si,arboledasi,arbwldas,Арболедас,آربولداس,არბოლედასი,阿沃莱达斯,阿沃萊達斯	7.63494	-72.8605	A	ADM2	CO		21	54051			8984		1492	America/Bogota	2022-07-23
+3689706	Arboleda	Arboleda		1.4983	-77.13613	A	ADM2	CO		20	52051			7443		2131	America/Bogota	2014-09-16
+3689710	Arbeláez	Arbelaez	Arbelaez,Arbeláez	4.21251	-74.41464	A	ADM2	CO		33	25053			12292		2178	America/Bogota	2022-07-21
+3689720	Arauca	Arauca		6.87306	-70.47972	A	ADM2	CO		03	81001			75557		117	America/Bogota	2014-09-16
+3689724	Aratoca	Aratoca	Aratoca,Aratoka,a la tuo ka,aratwka,Аратока,آراتوکا,არაკოტა,阿拉托卡	6.7045	-73.02877	A	ADM2	CO		26	68051			8395		1331	America/Bogota	2015-01-07
+3689741	Aranzazu	Aranzazu	Aranzazu	5.25519	-75.50984	A	ADM2	CO		37	17050			9854		1588	America/Bogota	2022-07-21
+3689761	Aracataca	Aracataca	Aracataca,Municipio de Aracataca	10.64485	-73.87265	A	ADM2	CO		38	47053			35520		1833	America/Bogota	2018-08-08
+3689772	Aquitania	Aquitania	Aquitania,Puebloviejo	5.40341	-72.90192	A	ADM2	CO		36	15047			16592		2403	America/Bogota	2014-09-16
+3689794	Apía	Apia	Apia,Apía	5.13959	-75.95756	A	ADM2	CO		24	66045			17514		1530	America/Bogota	2016-06-24
+3689803	Anzoátegui	Anzoategui	Anzoategui,Anzoátegui,Municipio de Anzoategui,Municipio de Anzoátegui	4.62232	-75.18046	A	ADM2	CO		28	73043			18849		3139	America/Bogota	2022-07-21
+3689805	Anza	Anza		6.33333	-75.91667	A	ADM2	CO		02	05044			7415		1726	America/Bogota	2015-01-06
+3689819	Santafé de Antioquia	Santafe de Antioquia		6.55	-75.9	A	ADM2	CO		02	05042			22903		1544	America/Bogota	2014-09-16
+3689832	Ansermanuevo	Ansermanuevo	Ansermanuevo,Municipio de Ansermanuevo	4.80214	-76.03445	A	ADM2	CO		29	76041			20692		1162	America/Bogota	2018-09-05
+3689834	Anserma	Anserma	Anserma	5.20427	-75.79167	A	ADM2	CO		37	17042			35097		1348	America/Bogota	2014-09-16
+3689839	Anorí	Anori		7.07415	-75.14717	A	ADM2	CO		02	05040			14502		1584	America/Bogota	2022-07-21
+3689842	Anolaima	Anolaima	Anolaima,Capital frutera de Colombia	4.77621	-74.48412	A	ADM2	CO		33	25040			13310		1273	America/Bogota	2014-09-16
+3689875	Angostura	Angostura	Angostura,Municipio de Angostura	6.8712	-75.35947	A	ADM2	CO		02	05038			10500		1842	America/Bogota	2022-07-21
+3689878	Angelópolis	Angelopolis	Angelopolis,Angelópolis,Municipio de Angelopolis,Municipio de Angelópolis	6.12228	-75.71432	A	ADM2	CO		02	05036			8946		1591	America/Bogota	2022-07-21
+3689900	Andes	Andes	Andes,an di si,andesi,ands,Андес,آندس,ანდესი,安第斯	5.66974	-75.89905	A	ADM2	CO		02	05034			45814		1529	America/Bogota	2022-07-21
+3689907	Andalucía	Andalucia	Andalucia,Andalucía,Municipio de Andalucia,Municipio de Andalucía	4.14035	-76.14739	A	ADM2	CO		29	76036			18132		1077	America/Bogota	2022-07-23
+3689916	Ancuyá	Ancuya		1.26538	-77.53258	A	ADM2	CO		20	52036			8991		1813	America/Bogota	2014-09-25
+3689942	Anapoima	Anapoima	Anapoima,a na bo yi ma,anapwyma,اناپویما,ანაპოიმა,阿納波伊馬,阿纳波伊马	4.54363	-74.54686	A	ADM2	CO		33	25035			12241		764	America/Bogota	2022-07-21
+3689980	Ambalema	Ambalema	Ambalema,Municipio de Ambalema,ambalema,ambalma,an ba lai ma,Амбалема,امبالما,ამბალემა,安巴莱马,安巴萊馬	4.83279	-74.7961	A	ADM2	CO		28	73030			6683		243	America/Bogota	2022-07-21
+3690011	Amalfi	Amalfi	Amalfi,Municipio de Amalfi	7.02612	-74.96791	A	ADM2	CO		02	05031			22088		1082	America/Bogota	2022-07-21
+3690020	Amagá	Amaga	Amaga,Amagá,Municipio de Amaga,Municipio de Amagá	6.04027	-75.7078	A	ADM2	CO		02	05030			29555		1434	America/Bogota	2022-07-21
+3690031	Alvarado	Alvarado	Alvarado,Municipio de Alvarado,a er wa la duo,alvarado,alwaradw  talyma,arubarado,الوارادو، تالیما,ალვარადო,アルバラード,阿尔瓦拉多,阿爾瓦拉多	4.58826	-74.9781	A	ADM2	CO		28	73026			8796		484	America/Bogota	2022-07-21
+3690070	Alto Baudo	Alto Baudo		5.60464	-77.06975	A	ADM2	CO		11	27025			28961		109	America/Bogota	2014-09-16
+3690104	Altamira	Altamira	Altamira,a er ta mi la,altmyra  hwyla,التمیرا، هویلا,ალტამირა,阿尔塔米拉,阿爾塔米拉	2.05498	-75.80446	A	ADM2	CO		16	41026			4293		1135	America/Bogota	2022-07-21
+3690125	Alpujarra	Alpujarra	Alpujarra,Municipio de Alpujarra	3.39222	-74.93271	A	ADM2	CO		28	73024			4963		1311	America/Bogota	2022-07-21
+3690135	Almeida	Almeida	Almeida	4.9226	-73.41131	A	ADM2	CO		36	15022			2294		2647	America/Bogota	2015-01-05
+3690137	Almaguer	Almaguer	Al'mager,Almaguer,Municipio de Almaguer,a er ma ge,almageri,almagwyr  kaywka,Альмагер,אלמגר,الماگوئر، کائوکا,ალმაგერი,阿尔马格,阿爾馬格	1.91667	-76.83333	A	ADM2	CO		09	19022			16523		2433	America/Bogota	2022-07-21
+3690161	Algeciras	Algeciras	Algeciras,Municipio de Algeciras,a er he xi la si,algsyraz  hwyla,alkhesirasi,الگسیراز، هویلا,ალხესირასი,阿尔赫西拉斯,阿爾赫西拉斯	2.52791	-75.28198	A	ADM2	CO		16	41020			24499		1265	America/Bogota	2022-07-21
+3690173	Algarrobo	Algarrobo		10.18553	-74.06158	A	ADM2	CO		38	47030			14294		111	America/Bogota	2022-07-21
+3690217	Alejandría	Alejandria	Alejandria,Alejandría,Alekhandrija,Municipio de Alejandria,Municipio de Alejandría,alekhandria,aljandrya,ya li shan de li ya,Алехандрия,الجاندریا,ალეხანდრია,亞歷山德里亞	6.36667	-75.08333	A	ADM2	CO		02	05021			3816		1447	America/Bogota	2018-06-08
+3690227	Aldana	Aldana		0.88162	-77.70046	A	ADM2	CO		20	52022			6085		3015	America/Bogota	2022-07-21
+3690238	Alcalá	Alcala	Alcala,Alcalá,Municipio de Alcala,Municipio de Alcalá	4.67458	-75.77188	A	ADM2	CO		29	76020			21352		1260	America/Bogota	2022-07-23
+3690263	Albania	Albania	Al'banija,Albania,a er ba ni ya,albania,albanya  santandr,Альбания,البانیا، سانتاندر,ალბანია,阿尔巴尼亚,阿爾巴尼亞	5.77064	-73.86458	A	ADM2	CO		26	68020			4473		2689	America/Bogota	2015-01-07
+3690267	Albán	Alban	Alban,Albán	4.89432	-74.44388	A	ADM2	CO		33	25019			5952		2094	America/Bogota	2016-06-24
+3690268	Albán	Alban	Alban,Albán	1.4705	-77.06846	A	ADM2	CO		20	52019			19303		2268	America/Bogota	2016-06-24
+3690288	Aipe	Aipe	Aipe,Municipio de Aipe	3.32338	-75.30791	A	ADM2	CO		16	41016			26219		779	America/Bogota	2022-07-21
+3690298	Agustín Codazzi	Agustin Codazzi	Agustin Codazzi,Agustín Codazzi,Municipio de Agustin Codazzi,Municipio de Agustín Codazzi	9.9485	-73.22161	A	ADM2	CO		10	20013			50828		124	America/Bogota	2022-07-23
+3690317	Aguazul	Aguazul	Aguazul,Sevilla,a gua su er,aguasuli,agwazwl,اگوازول,აგუასული,阿瓜蘇爾	5.09922	-72.57163	A	ADM2	CO		32	85010			44381		279	America/Bogota	2022-07-24
+3690430	Agua de Dios	Agua de Dios	Agua de Dios	4.35842	-74.69002	A	ADM2	CO		33	25001			11822		346	America/Bogota	2014-09-16
+3690432	Aguadas	Aguadas	Aguadas,Municipio de Aguadas	5.60613	-75.44269	A	ADM2	CO		37	17013			20712		2158	America/Bogota	2022-07-21
+3690466	Aguachica	Aguachica	Aguachica,Aguachika,Agvachika,Municipio de Aguachica,a gua qi ka,aguachika,agwachyka,Агвачика,Агуачика,اگواچیکا,აგუაჩიკა,アグアチカ,阿瓜奇卡	8.24932	-73.61889	A	ADM2	CO		10	20011			97525		116	America/Bogota	2022-07-21
+3690521	Agrado	Agrado	Agrado,Municipio de Agrado	2.2705	-75.71828	A	ADM2	CO		16	41013			8489		841	America/Bogota	2018-08-08
+3690550	Achí	Achi		8.62583	-74.47764	A	ADM2	CO		35	13006			23051		19	America/Bogota	2022-07-21
+3690553	Acevedo	Acevedo	Acevedo,Municipio de Acevedo	1.70466	-76.00607	A	ADM2	CO		16	41006			36649		1269	America/Bogota	2022-07-21
+3690573	Acandí	Acandi		8.42468	-77.2928	A	ADM2	CO		11	27006			10455		48	America/Bogota	2014-09-16
+3690578	Acacías	Acacias		4.00929	-73.78017	A	ADM2	CO		19	50006			54219		565	America/Bogota	2014-09-16
+3690583	Abriaquí	Abriaqui	Abriaqui,Abriaquí,Municipio de Abriaqui,Municipio de Abriaquí	6.63471	-76.08879	A	ADM2	CO		02	05004			2690		2002	America/Bogota	2018-06-08
+3690586	Abrego	Abrego	Abrego,Ábrego	8	-73.2	A	ADM2	CO		21	54003			38627		1535	America/Bogota	2022-07-21
+3690593	Abejorral	Abejorral	Abejorral,Abekhorral',Municipio de Abejorral,a wei huo la er,abekhorali,abjwral,Абехорраль,ابجورال,აბეხორალი,阿韋霍拉爾,阿韦霍拉尔	5.81828	-75.44384	A	ADM2	CO		02	05002			17599		2172	America/Bogota	2022-07-21
+6194448	Arauquita	Arauquita		6.94583	-71.4697	A	ADM2	CO		03	81065			36745		158	America/Bogota	2014-09-16
+6194449	Fortul	Fortul		6.74611	-71.85667	A	ADM2	CO		03	81300			21851		392	America/Bogota	2014-09-16
+6194450	Puerto Rondón	Puerto Rondon		6.41889	-70.965	A	ADM2	CO		03	81591			3962		128	America/Bogota	2014-09-16
+6195938	Cravo Norte	Cravo Norte		6.3875	-70.15472	A	ADM2	CO		03	81220			3661		108	America/Bogota	2014-09-16
+6198139	La Salina	La Salina	La Salina,la sa li na,la salyna,la-salina,لا سالینا,ლა-სალინა,拉薩利納	6.18528	-72.34444	A	ADM2	CO		32	85136			1310		2616	America/Bogota	2022-07-21
+6791991	Puerto Guzmán	Puerto Guzman		0.73047	-75.90611	A	ADM2	CO		22	86571			22679		252	America/Bogota	2014-09-16
+6792005	Solita	Solita		0.96979	-75.65532	A	ADM2	CO		08	18785			9134		220	America/Bogota	2014-09-16
+6798554	Calamar	Calamar		1.60178	-72.98243	A	ADM2	CO		14	95015			11183		252	America/Bogota	2014-09-16
+6826880	La Macarena	La Macarena		2.00702	-74.0732	A	ADM2	CO		19	50350			24164		297	America/Bogota	2014-09-16
+6851384	San José del Guaviare	San Jose del Guaviare	Municipio San Jose del Guaviare,Municipio San José del Guaviare	2.55368	-72.07462	A	ADM2	CO		14	95001			53994		226	America/Bogota	2014-09-16
+6976870	Miraflores	Miraflores	Miraflores,mi la fu luo lei si,mirafuroresu,myraflwrs,Мирафлорес,میرافلورس,ミラフロレス,米拉弗洛雷斯	1.3098	-72.0419	A	ADM2	CO		14	95200			11311		230	America/Bogota	2014-09-16
+6977691	Milán	Milan		1.15382	-75.54606	A	ADM2	CO		08	18460			11487		237	America/Bogota	2014-09-16
+6979259	Puerto Rico	Puerto Rico		1.96779	-75.03334	A	ADM2	CO		08	18592			32408		274	America/Bogota	2014-09-16
+6979260	El Doncello	El Doncello		1.7086	-75.28588	A	ADM2	CO		08	18247			21547		368	America/Bogota	2014-09-16
+6979261	El Paujil	El Paujil		1.57085	-75.31403	A	ADM2	CO		08	18256			13014		294	America/Bogota	2022-07-24
+7015557	Mesetas	Mesetas		3.15558	-74.09938	A	ADM2	CO		19	50330			10695		1285	America/Bogota	2014-09-16
+7015714	Vistahermosa	Vistahermosa		2.90407	-73.53212	A	ADM2	CO		19	50711			21048		288	America/Bogota	2014-09-16
+7017789	Puerto Concordia	Puerto Concordia		2.62257	-72.76108	A	ADM2	CO		19	50450			15964		190	America/Bogota	2014-09-16
+8128835	Necoclí	Necocli		8.42958	-76.77109	A	ADM2	CO		02	05490			70824		13	America/Bogota	2022-07-22
+8128836	Albania	Albania		1.26325	-75.95366	A	ADM2	CO		08	18029			6394		302	America/Bogota	2014-09-16
+8128837	Ariguaní	Ariguani	a li gua ni,阿里瓜尼	9.89383	-74.13583	A	ADM2	CO		38	47058			32758		122	America/Bogota	2022-07-22
+9073272	Paratebueno	Paratebueno	Paratebueno,pa la te bu ai nuo,paratbwynw,پاراتبوئنو,პარატებუენო,帕拉特布埃諾	4.41691	-73.18559	A	ADM2	CO		33	25530			7416		261	America/Bogota	2014-09-16
+9073589	San Alberto	San Alberto		7.81435	-73.45818	A	ADM2	CO		10	20710			23040		74	America/Bogota	2022-07-22
+9165835	Canalete	Canalete		8.74873	-76.25877	A	ADM2	CO		12	23090			14831		110	America/Bogota	2022-07-23
+9165867	Cotorra	Cotorra		9.05717	-75.77917	A	ADM2	CO		12	23300			16215		4	America/Bogota	2022-07-23
+9172023	El Encanto	El Encanto		-1.56261	-73.25684	A	ADM2	CO		01	91263			4376		167	America/Bogota	2014-09-26
+9172025	La Chorrera	La Chorrera	La Chorrera	-1.48894	-72.72935	A	ADM2	CO		01	91405			3337		134	America/Bogota	2015-01-05
+9172026	La Pedrera	La Pedrera		-1.65596	-70.22186	A	ADM2	CO		01	91407			3711		118	America/Bogota	2014-09-26
+9172027	Vetas	Vetas	Vetas,wei ta si,wtas,Ветас,وتاس,ვეტასი,韋塔斯	7.32261	-72.88132	A	ADM2	CO		26	68867			2349		3228	America/Bogota	2016-06-24
+9172028	Leticia	Leticia	Leticia,Leticija,Letisi,Letisia,Letisija,Letisiya,Letysija,Letícia,lai di xi ya,leti seiy,leticiya,letisia,letisiya,ltysya,ltysyh,lytykya,lytysya,lytysya  aymazwnas,retishia,Λετίσια,Летиси,Летисия,Летиция,Летысія,Летісія,לטיסיה,לעטיסיע,لتیسیا,ليتيسيا,لیتیسیا، ایمازوناس,لیتیکیا,लेटिसिया,लेटीशीया,লেটিসিয়া,લેટીસિયા,லேடிசியா,లెటిషియ,ಲೆಟಿಷಿಯಾ,ලේටිසියා,เลติเซีย,レティシア,莱蒂西亚,萊蒂西亞,레티시아	-3.65829	-70.02817	A	ADM2	CO		01	91001			37832		123	America/Bogota	2014-09-16
+9172029	Vegachí	Vegachi		6.81666	-74.78697	A	ADM2	CO		02	05858			11293		982	America/Bogota	2022-07-22
+9172030	Miriti - Paraná	Miriti - Parana		-0.81858	-70.78925	A	ADM2	CO		01	91460			1643		147	America/Bogota	2014-09-16
+9172031	Puerto Nariño	Puerto Narino		-3.60552	-70.41458	A	ADM2	CO		01	91540			6983		127	America/Bogota	2014-09-16
+9172032	Unguía	Unguia		8.11118	-77.10916	A	ADM2	CO		11	27800			14544		135	America/Bogota	2014-09-16
+9172033	Puerto Santander	Puerto Santander		-1.0987	-71.93911	A	ADM2	CO		01	91669			2373		165	America/Bogota	2016-06-24
+9172034	Tarapacá	Tarapaca		-2.88544	-69.77692	A	ADM2	CO		01	91798			3775		95	America/Bogota	2014-09-24
+9172035	Tibú	Tibu		8.6954	-72.81268	A	ADM2	CO		21	54810			34773		73	America/Bogota	2014-09-16
+9172036	Tauramena	Tauramena		4.66448	-72.6507	A	ADM2	CO		32	85410			16239		191	America/Bogota	2014-09-16
+9172037	Apartadó	Apartado		7.90404	-76.57314	A	ADM2	CO		02	05045			200931		239	America/Bogota	2022-07-22
+9172038	Soracá	Soraca		5.49602	-73.31892	A	ADM2	CO		36	15764			5353		2945	America/Bogota	2022-07-22
+9172040	Argelia	Argelia		5.70498	-75.12154	A	ADM2	CO		02	05055			10091		1334	America/Bogota	2015-01-06
+9172160	Caracolí	Caracoli		6.32649	-74.74194	A	ADM2	CO		02	05142			4855		657	America/Bogota	2015-01-06
+9172161	Chachagüí	Chachaguei		1.38731	-77.26927	A	ADM2	CO		20	52240			12792		2120	America/Bogota	2016-06-24
+9172162	Santa Rosa del Sur	Santa Rosa del Sur		7.6976	-74.27588	A	ADM2	CO		35	13688			34015		778	America/Bogota	2014-09-16
+9172163	San Martín	San Martin		7.97003	-73.57247	A	ADM2	CO		10	20770			20452		70	America/Bogota	2022-07-22
+9172164	Cucaita	Cucaita		5.52741	-73.44631	A	ADM2	CO		36	15224			4687		2905	America/Bogota	2022-07-22
+9172165	San Juanito	San Juanito		4.42906	-73.69636	A	ADM2	CO		19	50686			1864		2066	America/Bogota	2014-09-16
+9172166	El Bagre	El Bagre		7.74444	-74.67892	A	ADM2	CO		02	05250			46020		266	America/Bogota	2014-09-16
+9172168	El Castillo	El Castillo	El Castillo,ai er ka si di yue,al kastylw,ال کاستیلو,ელ-კასტილიო,埃尔卡斯蒂约,埃爾卡斯蒂約	3.57723	-73.96443	A	ADM2	CO		19	50251			6875		769	America/Bogota	2014-09-16
+9172223	Carepa	Carepa		7.76009	-76.66269	A	ADM2	CO		02	05147			43125		32	America/Bogota	2015-01-06
+9172225	Hispania	Hispania		5.79555	-75.9041	A	ADM2	CO		02	05353			4821		903	America/Bogota	2016-06-24
+9172227	Nechí	Nechi		7.99805	-74.8578	A	ADM2	CO		02	05495			24066		39	America/Bogota	2022-07-24
+9172233	Puerto Triunfo	Puerto Triunfo		5.93964	-74.70411	A	ADM2	CO		02	05591			16248		230	America/Bogota	2014-09-16
+9172235	Sabaneta	Sabaneta	Sabaneta,Sampaneta,sa wa nei ta,sabaneta,sabanta,sbnyta  antwqya,Σαμπανέτα,Сабанета,سابانتا,سبنیتا، انتوقیا,საბანეტა,サバネタ,萨瓦内塔,薩瓦內塔	6.13824	-75.60855	A	ADM2	CO		02	05631			44480		1724	America/Bogota	2016-06-24
+9172236	San José de La Montaña	San Jose de La Montana		6.82205	-75.69757	A	ADM2	CO		02	05658			3103		2931	America/Bogota	2014-09-16
+9172239	San Juan de Urabá	San Juan de Uraba		8.67161	-76.50514	A	ADM2	CO		02	05659			20899		46	America/Bogota	2014-09-16
+9172240	San Pedro de Uraba	San Pedro de Uraba		8.42291	-76.31747	A	ADM2	CO		02	05665			28772		80	America/Bogota	2014-09-16
+9172241	Santo Domingo	Santo Domingo		6.47347	-75.15464	A	ADM2	CO		02	05690			12394		1965	America/Bogota	2022-07-24
+9172242	Tarazá	Taraza		7.49302	-75.5049	A	ADM2	CO		02	05790			48926		275	America/Bogota	2022-07-22
+9172245	Uramita	Uramita		6.91662	-76.13082	A	ADM2	CO		02	05842			8304		880	America/Bogota	2016-06-24
+9172246	Villanueva	Villanueva		4.4782	-72.82242	A	ADM2	CO		32	85440			21806		187	America/Bogota	2014-09-16
+9172247	Vigía del Fuerte	Vigia del Fuerte		6.3851	-76.6628	A	ADM2	CO		02	05873			5624		33	America/Bogota	2022-07-22
+9172249	Yondó	Yondo		6.90738	-74.17686	A	ADM2	CO		02	05893			17597		129	America/Bogota	2022-07-22
+9172250	Santa Lucía	Santa Lucia		10.35239	-74.9654	A	ADM2	CO		04	08675			12650		9	America/Bogota	2022-07-22
+9172251	Cantagallo	Cantagallo		7.22919	-74.12969	A	ADM2	CO		35	13160			6874		200	America/Bogota	2022-07-22
+9172253	Cicuco	Cicuco		9.23226	-74.69095	A	ADM2	CO		35	13188			13120		10	America/Bogota	2022-07-22
+9172254	Hatillo de Loba	Hatillo de Loba		8.96607	-74.12454	A	ADM2	CO		35	13300			11770		26	America/Bogota	2022-07-22
+9172255	San Francisco	San Francisco		1.11155	-76.83987	A	ADM2	CO		22	86755			6808		2364	America/Bogota	2014-09-16
+9172256	San Pablo	San Pablo		7.31272	-74.24468	A	ADM2	CO		35	13670			37160		698	America/Bogota	2022-07-22
+9172257	Talaigua Nuevo	Talaigua Nuevo		9.32011	-74.65587	A	ADM2	CO		35	13780			12845		9	America/Bogota	2022-07-22
+9172258	San Francisco	San Francisco		5.85974	-74.97901	A	ADM2	CO		02	05652			6395		853	America/Bogota	2014-09-16
+9172259	Tiquisio	Tiquisio		8.47801	-74.30626	A	ADM2	CO		35	13810			18786		27	America/Bogota	2022-07-22
+9172260	Ricaurte	Ricaurte		4.29127	-74.75432	A	ADM2	CO		33	25612			10788		277	America/Bogota	2022-07-22
+9172261	Briceño	Briceno		7.05001	-75.50903	A	ADM2	CO		02	05107			8783		1363	America/Bogota	2014-10-17
+9172262	Chíquiza	Chiquiza		5.62009	-73.49619	A	ADM2	CO		36	15232			6073		3053	America/Bogota	2015-01-05
+9172263	Murillo	Murillo		4.81714	-75.27883	A	ADM2	CO		28	73461			5075		4038	America/Bogota	2015-01-08
+9172264	Chivatá	Chivata		5.54085	-73.28469	A	ADM2	CO		36	15187			6199		3022	America/Bogota	2022-07-22
+9172265	Chivor	Chivor		4.83951	-73.37391	A	ADM2	CO		36	15236			1795		1158	America/Bogota	2022-07-22
+9172266	La Victoria	La Victoria		-0.18311	-71.0376	A	ADM2	CO		01	91430			979		148	America/Bogota	2014-10-17
+9172267	Puerto Rico	Puerto Rico	Puerto Rico,li ke gang,puerutoriko,pwrtw rykw,پورتو ریکو,პუერტო-რიკო,プエルトリコ,里科港	2.78273	-73.13956	A	ADM2	CO		19	50590			17368		235	America/Bogota	2014-09-16
+9172268	Herveo	Herveo	Erveo,Herveo,erveo,he er wei ao,hrwyw,Ервео,هروئو,ერვეო,赫尔韦奥,赫爾韋奧	5.06158	-75.26953	A	ADM2	CO		28	73347			7893		3260	America/Bogota	2022-07-22
+9172269	Motavita	Motavita		5.5784	-73.36773	A	ADM2	CO		36	15476			6772		2901	America/Bogota	2014-09-24
+9172270	Oicatá	Oicata		5.57477	-73.31138	A	ADM2	CO		36	15500			2822		2725	America/Bogota	2015-01-05
+9172271	Puerto Colombia	Puerto Colombia		2.43903	-68.16419	A	ADM2	CO		15	94884			3753		149	America/Bogota	2014-09-16
+9172272	Quípama	Quipama		5.5588	-74.21664	A	ADM2	CO		36	15580			8793		1362	America/Bogota	2016-06-24
+9172273	San Eduardo	San Eduardo		5.20402	-73.07286	A	ADM2	CO		36	15660			1924		1262	America/Bogota	2014-09-16
+9172275	Santana	Santana		6.04464	-73.51107	A	ADM2	CO		36	15686			7853		1432	America/Bogota	2015-01-05
+9172276	Somondoco	Somondoco		4.96969	-73.42855	A	ADM2	CO		36	15761			4359		2100	America/Bogota	2016-06-24
+9172277	San Juan de Betulia	San Juan de Betulia		9.28486	-75.1941	A	ADM2	CO		27	70702			13437		145	America/Bogota	2022-07-22
+9172278	Sora	Sora		5.58076	-73.44335	A	ADM2	CO		36	15762			3025		2724	America/Bogota	2022-07-22
+9172279	Tipacoque	Tipacoque		6.39691	-72.7219	A	ADM2	CO		36	15810			3206		2917	America/Bogota	2022-07-22
+9172280	Los Palmitos	Los Palmitos	Los Palmitos,Los-Pal'mitos,luo si pa er mi tuo si,lws palmytws,Лос-Пальмитос,لوس پالمیتوس,ლოს-პალმიტოსი,洛斯帕爾米托斯	9.4249	-75.20653	A	ADM2	CO		27	70418			19315		229	America/Bogota	2014-09-16
+9172281	Tununguá	Tunungua		5.708	-73.95878	A	ADM2	CO		36	15832			1620		954	America/Bogota	2015-01-05
+9172282	La Unión	La Union		8.79627	-75.29584	A	ADM2	CO		27	70400			11510		59	America/Bogota	2022-07-22
+9172283	Guaranda	Guaranda	Guaranda,Guarandá,gua lan da,guaranda,gwaranda,Гуаранда,گوآراندا,გუარანდა,瓜兰达,瓜蘭達	8.39479	-74.79862	A	ADM2	CO		27	70265			15498		23	America/Bogota	2016-06-24
+9172285	La Merced	La Merced		5.3806	-75.58842	A	ADM2	CO		37	17388			6752		951	America/Bogota	2015-01-08
+9172286	Coloso	Coloso		9.51176	-75.36233	A	ADM2	CO		27	70204			6214		180	America/Bogota	2014-09-16
+9172287	Cartagena del Chairá	Cartagena del Chaira		0.85246	-74.6059	A	ADM2	CO		08	18150			28678		220	America/Bogota	2014-09-16
+9172288	Santa Helena del Opón	Santa Helena del Opon		6.39694	-73.60037	A	ADM2	CO		26	68720			4473		1082	America/Bogota	2014-09-16
+9172289	Curillo	Curillo		1.09861	-76.0304	A	ADM2	CO		08	18205			11121		234	America/Bogota	2014-09-16
+9172290	Puerto Parra	Puerto Parra		6.67654	-73.98224	A	ADM2	CO		26	68573			6514		140	America/Bogota	2014-09-16
+9172291	Landázuri	Landazuri		6.30654	-73.85134	A	ADM2	CO		26	68385			15192		1123	America/Bogota	2014-09-16
+9172292	Florencia	Florencia	Florencia,Florensija,flwrnsya,fu luo lun xi ya,plorentsia,Флоренсия,فلورنسیا,ფლორენცია,弗洛伦西亚,弗洛倫西亞	1.7125	-77.09126	A	ADM2	CO		09	19290			6028		1411	America/Bogota	2015-01-07
+9172293	Morelia	Morelia		1.4823	-75.72052	A	ADM2	CO		08	18479			3718		255	America/Bogota	2014-09-24
+9172294	La Belleza	La Belleza		5.89014	-74.03839	A	ADM2	CO		26	68377			8462		549	America/Bogota	2014-09-16
+9172295	San José del Fragua	San Jose del Fragua		1.3078	-76.16554	A	ADM2	CO		08	18610			13882		1177	America/Bogota	2014-09-16
+9172296	Florián	Florian		5.80384	-74.01578	A	ADM2	CO		26	68271			6378		1310	America/Bogota	2014-09-16
+9172297	Solano	Solano		0.22842	-73.27597	A	ADM2	CO		08	18756			19427		200	America/Bogota	2014-09-16
+9172298	El Playón	El Playon		7.51699	-73.19559	A	ADM2	CO		26	68255			12966		897	America/Bogota	2022-07-22
+9172301	El Carmen de Chucurí	El Carmen de Chucuri		6.67037	-73.61542	A	ADM2	CO		26	68235			18098		529	America/Bogota	2014-09-16
+9172302	Córdoba	Cordoba		4.38055	-75.66685	A	ADM2	CO		23	63212			5434		2003	America/Bogota	2014-09-16
+9172304	Suárez	Suarez		2.93463	-76.74484	A	ADM2	CO		09	19780			19690		1916	America/Bogota	2022-07-22
+9172306	Villagarzón	Villagarzon		0.89663	-76.72794	A	ADM2	CO		22	86885			20785		430	America/Bogota	2014-09-16
+9172308	Valle del Guamuez	Valle del Guamuez		0.3558	-76.86734	A	ADM2	CO		22	86865			44959		287	America/Bogota	2014-09-16
+9172309	Astrea	Astrea	Astrea,a si te lei,astrya,Астреа,آسترئا,ასტრეა,阿斯特蕾	9.48985	-73.97883	A	ADM2	CO		10	20032			18434		85	America/Bogota	2022-07-22
+9172310	Sibundoy	Sibundoy	Sibundoj,Sibundoy,shibundoi,sibundoi,sybwndwy,xi ben duo yi,Сібундой,سیبوندوی,სიბუნდოი,シブンドイ,錫本多伊	1.22956	-76.90236	A	ADM2	CO		22	86749			14104		2754	America/Bogota	2022-07-22
+9172311	Becerril	Becerril	Becerril,Beserril',be ser ril,bei sai li er,besemiru,beserili,bsryl,Бесерриль,بسریل,เบเซร์ริล,ბესერილი,ベセミル,貝塞里爾,贝塞里尔	9.74288	-73.21746	A	ADM2	CO		10	20045			20477		394	America/Bogota	2022-07-22
+9172312	Bosconia	Bosconia	Bosconia,Boskonija,bo si ke ni ya,bwskwnya,Боскония,بوسکونیا,ბოსკონია,博斯科尼亚,博斯科尼亞	9.92922	-73.88856	A	ADM2	CO		10	20060			40315		69	America/Bogota	2022-07-24
+9172313	Santiago	Santiago	Santiago,santiago,santyagw,sheng de ya ge,سانتیاگو,სანტიაგო,サンティアーゴ,圣地亚哥,聖地亞哥	1.05363	-77.03893	A	ADM2	CO		22	86760			9209		3240	America/Bogota	2014-09-16
+9172314	Curumaní	Curumani		9.20545	-73.51988	A	ADM2	CO		10	20228			34838		72	America/Bogota	2022-07-24
+9172315	El Paso	El Paso		9.65843	-73.71418	A	ADM2	CO		10	20250			34620		41	America/Bogota	2022-07-24
+9172316	Puerto Caicedo	Puerto Caicedo		0.67635	-76.41348	A	ADM2	CO		22	86569			14206		278	America/Bogota	2014-09-16
+9172317	Manaure	Manaure		10.40138	-72.93102	A	ADM2	CO		10	20443			9313		1934	America/Bogota	2022-07-22
+9172318	Puerto Asís	Puerto Asis		0.46155	-76.34227	A	ADM2	CO		22	86568			55759		252	America/Bogota	2014-09-16
+9172319	Pailitas	Pailitas	Pailitas,Pajlitas,pai li ta si,paylytas,Пайлитас,پایلیتاس,პაილიტასი,派利塔斯	8.9255	-73.59292	A	ADM2	CO		10	20517			16800		192	America/Bogota	2022-07-22
+9172320	Buenavista	Buenavista		4.36646	-75.74375	A	ADM2	CO		23	63111			3086		1283	America/Bogota	2016-06-24
+9172321	Orito	Orito		0.66822	-76.93474	A	ADM2	CO		22	86320			43654		433	America/Bogota	2014-09-16
+9172322	Buenavista	Buenavista		8.17697	-75.44481	A	ADM2	CO		12	23079			18344		43	America/Bogota	2022-07-22
+9172324	Puerto Santander	Puerto Santander		8.32876	-72.4114	A	ADM2	CO		21	54553			8720		54	America/Bogota	2016-06-24
+9172325	La Esperanza	La Esperanza		7.68603	-73.40726	A	ADM2	CO		21	54385			11040		92	America/Bogota	2022-07-24
+9172326	San Diego	San Diego	San Diego,San-Diego,san-diego,sheng de ya ge,sheng die ge,sn dygw,Сан-Диего,سن دیگو,სან-დიეგო,圣迭戈,聖地亞哥,聖迭戈	10.23244	-73.27349	A	ADM2	CO		10	20750			13772		98	America/Bogota	2014-09-16
+9172328	Valledupar	Valledupar	Val'edupar,Valedupar,Valjedopars,Valjedupara,Valjeduparas,Valledupar,Vallehdupar,Vallentoupar,Valyedupar,ba ye du pa er,bajedouparu,baye du par,bayedupaleu,bhyaledupara,falydwbar,valedupara,valladepar,valledupar,valletupar,velladupara,venldepara,waydwpar,wayydwpar,wylydwpar,Βαλλεντούπαρ,Валедупар,Валлэдупар,Вальедупар,ואיידופר,فاليدوبار,وایدوپار,واییدوپار,ویلیدوپار,वेंल्डेपार,वेळ्ळाडुपार,ভ্যালেদুপার,વલેદુપર,வால்லேடுபர்,వల్లెదుపర్,ವಲ್ಲದೆಪಾರ್,වලේදුපාර්,บาเยดูปาร์,ვალიედუპარი,バジェドゥパル,巴耶杜帕尔,巴耶杜帕爾,바예두파르	10.35653	-73.36641	A	ADM2	CO		10	20001			490075		136	America/Bogota	2022-07-22
+9172330	San Pedro de Cartago	San Pedro de Cartago		1.55533	-77.12984	A	ADM2	CO		20	52694			7051		2202	America/Bogota	2014-09-16
+9172332	Providencia	Providencia		1.24204	-77.60468	A	ADM2	CO		20	52565			11699		2369	America/Bogota	2015-01-07
+9172334	Policarpa	Policarpa		1.73298	-77.49181	A	ADM2	CO		20	52540			13785		1184	America/Bogota	2015-01-07
+9172338	San Bernardo	San Bernardo		1.53859	-77.03795	A	ADM2	CO		20	52685			8874		2258	America/Bogota	2022-07-22
+9172340	Los Córdobas	Los Cordobas		8.87172	-76.29087	A	ADM2	CO		12	23419			17837		137	America/Bogota	2014-09-16
+9172341	Leiva	Leiva		1.96147	-77.37561	A	ADM2	CO		20	52405			8201		1449	America/Bogota	2022-07-22
+9172342	Momil	Momil		9.23472	-75.63566	A	ADM2	CO		12	23464			16264		12	America/Bogota	2022-07-22
+9172343	La Tola	La Tola		2.33584	-78.20676	A	ADM2	CO		20	52390			8408		13	America/Bogota	2014-09-16
+9172344	Moñitos	Monitos		9.22615	-76.13594	A	ADM2	CO		12	23500			23597		16	America/Bogota	2014-09-25
+9172345	La Llanada	La Llanada		1.51233	-77.70535	A	ADM2	CO		20	52385			6544		1274	America/Bogota	2014-09-16
+9172348	Francisco Pizarro	Francisco Pizarro		2.14713	-78.58883	A	ADM2	CO		20	52520			11029		19	America/Bogota	2014-09-16
+9172349	Cachipay	Cachipay		4.70422	-74.48706	A	ADM2	CO		33	25123			9995		1056	America/Bogota	2014-09-16
+9172351	Valparaíso	Valparaiso		1.05706	-75.75969	A	ADM2	CO		08	18860			11100		231	America/Bogota	2014-09-16
+9172353	Guayabetal	Guayabetal		4.17508	-73.88117	A	ADM2	CO		33	25335			4780		2171	America/Bogota	2014-09-16
+9172354	Cumbitara	Cumbitara		1.67681	-77.59294	A	ADM2	CO		20	52233			11425		1942	America/Bogota	2015-01-07
+9172355	Belén	Belen		1.59366	-77.03726	A	ADM2	CO		20	52083			6587		2627	America/Bogota	2016-06-24
+9172356	San Juan de Arama	San Juan de Arama		3.29034	-73.82065	A	ADM2	CO		19	50683			9218		361	America/Bogota	2016-06-24
+9172357	Ponedera	Ponedera		10.58325	-74.80492	A	ADM2	CO		04	08560			18954		27	America/Bogota	2014-09-16
+9172358	San Carlos de Guaroa	San Carlos de Guaroa		3.79842	-73.21786	A	ADM2	CO		19	50680			6602		212	America/Bogota	2014-09-16
+9172359	Olaya Herrera	Olaya Herrera		2.21927	-78.32235	A	ADM2	CO		20	52490			27359		19	America/Bogota	2014-09-16
+9172360	Puerto Gaitán	Puerto Gaitan		3.99382	-71.63701	A	ADM2	CO		19	50568			17306		190	America/Bogota	2014-09-16
+9172361	Lejanías	Lejanias		3.52918	-74.02382	A	ADM2	CO		19	50400			10576		689	America/Bogota	2022-07-22
+9172363	El Copey	El Copey		10.18544	-73.93328	A	ADM2	CO		10	20238			24971		359	America/Bogota	2014-09-16
+9172364	Fuente de Oro	Fuente de Oro		3.34167	-73.62951	A	ADM2	CO		19	50287			11072		270	America/Bogota	2014-09-16
+9172366	Cimitarra	Cimitarra		6.4283	-74.17448	A	ADM2	CO		26	68190			34293		185	America/Bogota	2014-09-16
+9172367	El Dorado	El Dorado		3.70772	-73.83246	A	ADM2	CO		19	50270			3291		572	America/Bogota	2016-06-24
+9172368	Cubarral	Cubarral		3.82671	-74.07671	A	ADM2	CO		19	50223			5152		2033	America/Bogota	2016-06-24
+9172369	Cabuyaro	Cabuyaro		4.28533	-72.98028	A	ADM2	CO		19	50124			3660		183	America/Bogota	2014-09-16
+9172370	Buenaventura	Buenaventura	Bienaventura,Bouenaventoura,Buehnaventura,Buenaventura,Bvenaventura,bu ai na wen tu la,bu na wen tu la,bu'enaventura,buenabentoura,buenabentula,buneventura,buyenabhencura,bwynafyntwra,bwynawntwra,byunaventura,byuneventura,pu'enaventura,Μπουεναβεντούρα,Бвенавентура,Буенавентура,Буэнавентура,בואנוונטורה,بوئناونتورا,بوئناونتورا، ویے دیل کاؤکا,بوينافينتورا,बुनेवेन्टुरा,ब्यूनेवेन्टुरा,বুয়েনাভেঞ্চুরা,બુએનાવેન્ટુરા,பூஎனவேண்டுறா,బ్యునవెంటురా,ಬ್ಯೂನೆವೆಂಟುರಾ,බ්යුනවෙන්ටුරා,บูนาเวนตูล่า,ბუენავენტურა,ブエナベントゥーラ,布埃納文圖拉,布埃纳文图拉,부에나벤투라	3.86425	-77.03545	A	ADM2	CO		29	76109			432385		8	America/Bogota	2022-07-22
+9172372	La Victoria	La Victoria	la wei duo li ya,la wyktwrya,لا ویکتوریا,لا ویکتوریا، ویلی ڈیل کوکا,ლა-ვიქტორია,拉維多利亞	4.47621	-75.98118	A	ADM2	CO		29	76403			13247		960	America/Bogota	2022-07-24
+9172375	Sibaté	Sibate		4.4491	-74.28287	A	ADM2	CO		33	25740			31675		2855	America/Bogota	2014-09-16
+9172376	Villagómez	Villagomez		5.27104	-74.191	A	ADM2	CO		33	25871			2183		1636	America/Bogota	2016-06-24
+9172377	Yumbo	Yumbo		3.56989	-76.54378	A	ADM2	CO		29	76892			92192		1726	America/Bogota	2014-09-16
+9172378	Barranco Minas	Barranco Minas	Barranco Minas	3.09899	-69.58297	A	ADM2	CO		15	94343			4384		182	America/Bogota	2015-01-16
+9172379	Caruru	Caruru		1.02081	-71.33788	A	ADM2	CO		30	97161			3242		218	America/Bogota	2015-01-08
+9172380	Cacahual	Cacahual		3.32533	-67.62397	A	ADM2	CO		15	94886			1592		100	America/Bogota	2014-09-16
+9172381	Inírida	Inirida		2.92409	-68.93526	A	ADM2	CO		15	94001			17866		109	America/Bogota	2014-09-16
+9172382	Pana Pana	Pana Pana		1.96249	-69.126	A	ADM2	CO		15	94887			2224		174	America/Bogota	2014-09-16
+9172385	Mitú	Mitu		0.97239	-70.40635	A	ADM2	CO		30	97001			29850		212	America/Bogota	2022-07-22
+9172387	Manaure	Manaure	Aleemasain,Manaure,ma nao lei,manaure,manaywrh,Манауре,מנאורה,مانائوره,მანაურე,馬瑙雷	11.58174	-72.56515	A	ADM2	CO		17	44560			67584		21	America/Bogota	2014-09-16
+9172388	Urumita	Urumita		10.49817	-72.97592	A	ADM2	CO		17	44855			13349		1104	America/Bogota	2016-06-24
+9172389	Pacoa	Pacoa		0.15636	-70.89274	A	ADM2	CO		30	97511			4459		232	America/Bogota	2015-01-08
+9172390	El Retorno	El Retorno		1.92608	-71.57561	A	ADM2	CO		14	95025			19063		224	America/Bogota	2014-09-16
+9172391	Palestina	Palestina		1.6859	-76.16924	A	ADM2	CO		16	41530			10454		1880	America/Bogota	2022-07-22
+9172392	Papunaua	Papunaua		1.68335	-70.70968	A	ADM2	CO		30	97777			879		207	America/Bogota	2016-06-24
+9172393	Chibolo	Chibolo		10.0825	-74.50696	A	ADM2	CO		38	47170			16447		115	America/Bogota	2014-09-16
+9172394	Taraira	Taraira		-0.74835	-69.89662	A	ADM2	CO		30	97666			1048		117	America/Bogota	2014-09-16
+9172395	Barranca de Upía	Barranca de Upia		4.47448	-72.99367	A	ADM2	CO		19	50110			3197		206	America/Bogota	2014-09-16
+9172397	Yavaraté	Yavarate		0.82828	-69.62959	A	ADM2	CO		30	97889			1269		167	America/Bogota	2014-09-16
+9172398	Cumaribo	Cumaribo		4.57565	-69.59554	A	ADM2	CO		31	99773			28718		148	America/Bogota	2014-09-16
+9172399	La Primavera	La Primavera	La Primavera,La-Primavera,la prymawra,la pu li ma wei la,lh prymbrh,Ла-Примавера,לה פרימברה,لا پریماورا,لا پریماویرا، ویچاڈا,ლა-პრიმავერა,ラ・プリマベラ,拉普里馬韋拉	5.51465	-69.49786	A	ADM2	CO		31	99524			10616		87	America/Bogota	2014-09-16
+9172401	El Tarra	El Tarra		8.65445	-73.0531	A	ADM2	CO		21	54250			10772		318	America/Bogota	2014-09-16
+9172402	Galeras	Galeras	Galeras,galerasi,galras,jia lai la si,Галерас,گالراس,გალერასი,加萊拉斯	9.1332	-74.9777	A	ADM2	CO		27	70235			17297		54	America/Bogota	2014-09-16
+9172403	Puerto Carreño	Puerto Carreno		5.83767	-68.03675	A	ADM2	CO		31	99001			13288		88	America/Bogota	2014-09-16
+9172406	Los Patios	Los Patios		7.7054	-72.5692	A	ADM2	CO		21	54405			67281		743	America/Bogota	2014-09-16
+9172408	Mapiripán	Mapiripan		3.09706	-71.94964	A	ADM2	CO		19	50325			13230		197	America/Bogota	2014-09-16
+9172409	Montecristo	Montecristo		7.99565	-74.45816	A	ADM2	CO		35	13458			13470		259	America/Bogota	2022-07-22
+9172410	Santa Rosalía	Santa Rosalia		5.02169	-70.65985	A	ADM2	CO		31	99624			3250		133	America/Bogota	2014-09-16
+9172411	Sabana de Torres	Sabana de Torres		7.41843	-73.59688	A	ADM2	CO		26	68655			19772		85	America/Bogota	2014-09-16
+9172413	Páez	Paez		5.06832	-73.03077	A	ADM2	CO		36	15514			3369		1021	America/Bogota	2014-09-16
+9172414	Pelaya	Pelaya	Pelaja,Pelaya,pei la ya,playa,Пелая,پلایا,პელაია,佩拉亞	8.77066	-73.61088	A	ADM2	CO		10	20550			18497		153	America/Bogota	2022-07-22
+9172415	Altos del Rosario	Altos del Rosario		8.73888	-74.23005	A	ADM2	CO		35	13030			11357		17	America/Bogota	2015-01-07
+9172416	Río Viejo	Rio Viejo		8.60411	-73.81851	A	ADM2	CO		35	13600			8125		34	America/Bogota	2022-07-23
+9172419	Puerto Libertador	Puerto Libertador		7.68181	-75.78312	A	ADM2	CO		12	23580			35186		253	America/Bogota	2014-09-16
+9178684	Guadalupe	Guadalupe		6.85582	-75.2382	A	ADM2	CO		02	05315			6231		1916	America/Bogota	2015-01-06
+9178686	Saldaña	Saldana		3.88874	-75.0347	A	ADM2	CO		28	73671			14329		328	America/Bogota	2022-07-24
+9178689	Villanueva	Villanueva	Vil'januehva,Villanueva,bi li ya nu ai wa,bijanueba,vilianueva,wylanwwa,Вильянуэва,וילנואבה,ویلانووا,ვილიანუევა,ビジャヌエバ,比利亞努埃瓦	6.66554	-73.1778	A	ADM2	CO		26	68872			6978		1458	America/Bogota	2015-01-07
+9178690	Sabanalarga	Sabanalarga		4.73513	-73.0082	A	ADM2	CO		32	85300			3434		365	America/Bogota	2014-09-16
+9178694	Cabrera	Cabrera		3.87443	-74.4719	A	ADM2	CO		33	25120			4684		2934	America/Bogota	2014-09-16
+9178698	La Guadalupe	La Guadalupe		1.39579	-67.0015	A	ADM2	CO		15	94885			225		109	America/Bogota	2016-12-14
+9178719	El Molino	El Molino		10.59462	-72.8539	A	ADM2	CO		17	44110			7315		838	America/Bogota	2014-09-16
+9178731	Granada	Granada		6.11413	-75.1405	A	ADM2	CO		02	05313			9204		1978	America/Bogota	2022-07-24
+9179528	Medio San Juan	Medio San Juan	Andragoya,Mediosanjuan	5.09278	-76.69528	A	ADM2	CO		11	27450			9073		45	America/Bogota	2022-07-24
+9179529	Carmen del Darien	Carmen del Darien		7.03639	-76.95222	A	ADM2	CO		11	27150			5111		8	America/Bogota	2014-09-16
+9179541	Atrato	Atrato		5.57362	-76.64063	A	ADM2	CO		11	27050			5519		62	America/Bogota	2022-07-21
+9179543	Unión Panamericana	Union Panamericana		5.28139	-76.63	A	ADM2	CO		11	27810			6590		90	America/Bogota	2022-07-24
+9179547	Medio Atrato	Medio Atrato		5.995	-76.7825	A	ADM2	CO		11	27425			29487		29	America/Bogota	2022-07-24
+9179548	Río Quito	Rio Quito		5.51667	-76.75	A	ADM2	CO		11	27600			7888		34	America/Bogota	2016-12-14
+9179551	Dosquebradas	Dosquebradas		4.83333	-75.68333	A	ADM2	CO		24	66170			179301		1426	America/Bogota	2014-09-16
+9179552	Cértegui	Certegui		5.4	-76.6	A	ADM2	CO		11	27160			9524		102	America/Bogota	2014-09-16
+9179553	Medio Baudó	Medio Baudo		5.05	-77.05	A	ADM2	CO		11	27430			13423		2	America/Bogota	2022-07-24
+9179554	Río Iro	Rio Iro		5.18333	-76.4833	A	ADM2	CO		11	27580			4525		122	America/Bogota	2022-07-24
+9179556	Dibulla	Dibulla	Dibul'ja,Dibulla,di wu ya,dibulia,dybwyya,Дибулья,دیبوییا,დიბულია,迪武亚,迪武亞	11.26667	-73.3	A	ADM2	CO		17	44090			21798		9	America/Bogota	2014-09-16
+9179558	San Miguel	San Miguel	San Miguel,san mygwyl,san-migeli,sana migela,sheng mi ge er,سان میگوئل,সান মিগেল,სან-მიგელი,サン・ミゲル,圣米格尔,聖米格爾	0.343	-76.91	A	ADM2	CO		22	86757			21838		307	America/Bogota	2014-09-16
+9179578	La Pintada	La Pintada		5.7508	-75.60023	A	ADM2	CO		02	05390			7066		694	America/Bogota	2014-09-16
+9179697	Santa Bárbara	Santa Barbara		6.99278	-72.9103	A	ADM2	CO		26	68705			2311		2022	America/Bogota	2014-09-16
+9179699	Venecia	Venecia		4.08861	-74.4775	A	ADM2	CO		33	25506			3934		1641	America/Bogota	2014-09-16
+9179702	Granada	Granada		4.51861	-74.35139	A	ADM2	CO		33	25312			6876		2250	America/Bogota	2014-09-16
+9179884	El Rosal	El Rosal		4.85	-74.2667	A	ADM2	CO		33	25260			17254		2603	America/Bogota	2022-07-21
+9179886	Puerto Nare	Puerto Nare		6.19167	-74.5867	A	ADM2	CO		02	05585			12161		125	America/Bogota	2022-07-21
+9179887	La Jagua de Ibirico	La Jagua de Ibirico	La Jagua Ibirico,La Jagua de Ibirico,La-Khagua-de-Ibiriko,la ha gua de yi wei li ke,la khagwwa dh aybyrykw,Ла-Хагуа-де-Ибирико,لا جاگوا دے یبیریکو، کیسار,لا خاگووا ده ایبیریکو,ლა-ხაგუა-დე-იბირიკო,ラ・ハグア・デ・イビリコ,拉哈瓜德伊維里科	9.56667	-73.33333	A	ADM2	CO		10	20400			22082		131	America/Bogota	2014-09-16
+9179890	Pueblo Bello	Pueblo Bello		10.41667	-73.58333	A	ADM2	CO		10	20570			17228		1113	America/Bogota	2014-09-16
+9179893	San Antonio del Tequendama	San Antonio del Tequendama		4.61667	-74.35	A	ADM2	CO		33	25645			12374		1556	America/Bogota	2014-09-16
+9179894	Clemencia	Clemencia		10.58333	-75.33333	A	ADM2	CO		35	13222			13821		60	America/Bogota	2022-07-21
+9179904	Distracción	Distraccion		10.9	-72.88333	A	ADM2	CO		17	44098			11962		200	America/Bogota	2014-09-16
+9179910	Albania	Albania		11.1597	-72.5856	A	ADM2	CO		17	44035			29148		86	America/Bogota	2021-11-06
+9179911	Hatonuevo	Hatonuevo	Atonuehvo,Hatonuevo,Khatonuevo,a tong wei wo,hatwnwyww,Атонуэво,Хатонуево,هاتونوئوو,ატონუევო,阿通韋沃,阿通韦沃	11.0694	-72.7669	A	ADM2	CO		17	44378			24910		197	America/Bogota	2022-07-24
+9179913	Zona Bananera	Zona Bananera		10.76417	-74.15722	A	ADM2	CO		38	47980			57004		23	America/Bogota	2014-09-16
+9179942	La Apartada	La Apartada		8.04787	-75.30097	A	ADM2	CO		12	23350			13742		42	America/Bogota	2022-07-22
+9179953	La Victoria	La Victoria		5.52278	-74.2328	A	ADM2	CO		36	15401			1674		1380	America/Bogota	2014-09-16
+9609507	Guachene	Guachene		3.1448	-76.39264	A	ADM2	CO		09	19300			0		989	America/Bogota	2016-12-14
+9609508	San Jose De Ure	San Jose De Ure		7.75329	-75.5659	A	ADM2	CO		12	23682			0		129	America/Bogota	2014-09-21
+9609509	Tuchin	Tuchin		9.22339	-75.54518	A	ADM2	CO		12	23815			0		69	America/Bogota	2015-01-08
+9609510	Norosi	Norosi		8.50638	-74.11562	A	ADM2	CO		35	13490			0		340	America/Bogota	2015-01-07
+9609512	Puerto Alegría	Puerto Alegria		-0.96886	-73.74962	A	ADM2	CO		01	91530			1277		164	America/Bogota	2014-09-21
+9609513	Puerto Arica	Puerto Arica		-1.90677	-71.14653	A	ADM2	CO		01	91536			1440		144	America/Bogota	2014-09-21
+9609514	Ciudad Bolívar	Ciudad Bolivar		5.83945	-76.01088	A	ADM2	CO		02	05101			28279		1247	America/Bogota	2014-09-21
+9609515	El Carmen de Viboral	El Carmen de Viboral		5.9781	-75.26322	A	ADM2	CO		02	05148			41012		2375	America/Bogota	2014-09-21
+9609516	Piamonte	Piamonte	P'jamonte,Piamonte,pi ya meng te,pyamwnth,Пиамонте,Пьямонте,پیامونته,პიამონტე,皮亚蒙特,皮亞蒙特	1.19279	-76.33453	A	ADM2	CO		09	19533			6339		571	America/Bogota	2022-07-23
+9609517	Sucre	Sucre	Sucre,Sukre,su ke lei,swkrh,Сукре,سوکره,სუკრე,蘇克雷	2.06182	-76.91438	A	ADM2	CO		09	19785			8955		1605	America/Bogota	2015-01-07
+9609518	Villa Rica	Villa Rica		3.17818	-76.46665	A	ADM2	CO		09	19845			14326		970	America/Bogota	2014-09-21
+9609519	El Cantón del San Pablo	El Canton del San Pablo		5.35989	-76.7728	A	ADM2	CO		11	27135			6213		98	America/Bogota	2014-09-21
+9609520	El Litoral del San Juan	El Litoral del San Juan		4.2507	-76.96926	A	ADM2	CO		11	27250			12244		53	America/Bogota	2014-09-21
+9609521	Mapiripana	Mapiripana		2.81003	-70.28568	A	ADM2	CO		15	94663			3072		170	America/Bogota	2014-09-21
+9609522	San Felipe	San Felipe		2.14321	-67.34122	A	ADM2	CO		15	94883			1362		115	America/Bogota	2014-09-21
+9609523	Morichal	Morichal		2.4298	-69.83284	A	ADM2	CO		15	94888			752		183	America/Bogota	2014-09-21
+9609524	La Jagua del Pilar	La Jagua del Pilar		10.45809	-73.07228	A	ADM2	CO		17	44420			2721		623	America/Bogota	2014-09-21
+9609525	Uribe	Uribe		3.02646	-74.43614	A	ADM2	CO		19	50370			12480		492	America/Bogota	2014-09-21
+9609526	El Peñol	El Penol		1.51285	-77.43077	A	ADM2	CO		20	52254			6851		1097	America/Bogota	2014-09-21
+9609527	Nariño	Narino		1.30292	-77.34595	A	ADM2	CO		20	52480			4183		2303	America/Bogota	2015-01-07
+9609528	San Andres de Tumaco	San Andres de Tumaco		1.63766	-78.61218	A	ADM2	CO		20	52835			160034		63	America/Bogota	2014-09-21
+9609529	Colón	Colon		1.23137	-76.96534	A	ADM2	CO		22	86219			5166		2537	America/Bogota	2014-09-21
+9609530	Leguízamo	Leguizamo		0.05683	-75.05832	A	ADM2	CO		22	86573			16044		217	America/Bogota	2014-09-21
+9609531	El Peñón	El Penon		6.099	-73.92835	A	ADM2	CO		26	68250			5600		435	America/Bogota	2014-09-21
+9609532	Buenavista	Buenavista		9.33243	-74.9483	A	ADM2	CO		27	70110			10007		96	America/Bogota	2022-07-23
+9609533	Coveñas	Covenas	Covenas,Coveñas,Municipio de Covenas,Municipio de Coveñas	9.39413	-75.6572	A	ADM2	CO		27	70221			17091		0	America/Bogota	2022-07-23
+9609534	El Roble	El Roble		9.06997	-75.13679	A	ADM2	CO		27	70233			9786		71	America/Bogota	2022-07-23
+9609535	San Luis de Sincé	San Luis de Since		9.25523	-75.08535	A	ADM2	CO		27	70742			30648		102	America/Bogota	2014-09-21
+9609536	Santiago de Tolú	Santiago de Tolu		9.53221	-75.53584	A	ADM2	CO		27	70820			28108		14	America/Bogota	2014-09-21
+9609537	Palocabildo	Palocabildo	Palocabildo,pa luo ka bi er duo,palwkabyldw,پالوکابیلدو,პალოკაბილდო,帕洛卡比尔多,帕洛卡比爾多	5.09423	-75.01842	A	ADM2	CO		28	73520			9120		1350	America/Bogota	2022-07-23
+9609538	Guadalajara de Buga	Guadalajara de Buga		3.85594	-76.10131	A	ADM2	CO		29	76111			116893		2926	America/Bogota	2014-09-21
+9609539	Villa de San Diego de Ubate	Villa de San Diego de Ubate		5.31544	-73.82045	A	ADM2	CO		33	25843			36433		2568	America/Bogota	2014-09-21
+9609540	Bogotá  D.C.	Bogota  D.C.		4.31465	-74.18077	A	ADM2	CO		34	11001			6840116		3548	America/Bogota	2014-09-21
+9609541	Arenal	Arenal		8.34173	-74.10584	A	ADM2	CO		35	13042			15414		1043	America/Bogota	2014-09-21
+9609542	Arroyohondo	Arroyohondo		10.23583	-75.04218	A	ADM2	CO		35	13062			9907		48	America/Bogota	2022-07-23
+9609543	El Peñón	El Penon		8.86545	-73.91146	A	ADM2	CO		35	13268			7234		25	America/Bogota	2022-07-23
+9609544	Regidor	Regidor		8.72229	-73.84891	A	ADM2	CO		35	13580			8796		33	America/Bogota	2014-09-21
+9609545	San Cristóbal	San Cristobal		10.36958	-75.07342	A	ADM2	CO		35	13620			6561		13	America/Bogota	2015-01-07
+9609546	San Jacinto del Cauca	San Jacinto del Cauca		8.23729	-74.66782	A	ADM2	CO		35	13655			8079		21	America/Bogota	2022-07-24
+9609547	Santa María	Santa Maria		4.82282	-73.25373	A	ADM2	CO		36	15690			4635		942	America/Bogota	2014-09-21
+9609548	Norcasia	Norcasia		5.63732	-74.8551	A	ADM2	CO		37	17495			6903		541	America/Bogota	2014-09-21
+9609549	San José	San Jose		5.07089	-75.81292	A	ADM2	CO		37	17665			7572		1306	America/Bogota	2014-09-21
+9609550	Concordia	Concordia		10.23276	-74.77855	A	ADM2	CO		38	47205			9681		54	America/Bogota	2022-07-23
+9609551	El Retén	El Reten		10.66114	-74.32549	A	ADM2	CO		38	47268			18809		12	America/Bogota	2014-09-21
+9609552	Nueva Granada	Nueva Granada	Nuehva-Granada,Nueva Granada,granada jdyd  magdalna,nueva-granada,xin ge la na da,Нуэва-Гранада,گرانادا جدید، ماگدالنا,ნუევა-გრანადა,ヌエバ・グラナダ,新格拉納達,新格拉纳达	9.73588	-74.32892	A	ADM2	CO		38	47460			16134		98	America/Bogota	2014-09-21
+9609553	Pijiño del Carmen	Pijino del Carmen		9.53528	-74.11992	A	ADM2	CO		38	47545			14115		74	America/Bogota	2014-09-21
+9609554	Sabanas de San Angel	Sabanas de San Angel		10.11072	-74.26007	A	ADM2	CO		38	47660			14060		149	America/Bogota	2022-07-23
+9609555	Santa Bárbara de Pinto	Santa Barbara de Pinto		9.52107	-74.64912	A	ADM2	CO		38	47720			11108		66	America/Bogota	2014-09-21
+9609556	Zapayán	Zapayan		10.11846	-74.69143	A	ADM2	CO		38	47960			8642		23	America/Bogota	2014-09-21

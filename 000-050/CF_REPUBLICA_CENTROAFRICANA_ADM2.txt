@@ -1,0 +1,71 @@
+﻿2387494	Carnot	Carnot	Carnot,Sous-Prefecture de Carnot,Sous-Préfecture de Carnot	4.78333	15.73333	A	ADM2	CF		19	2387494			0		709	Africa/Bangui	2024-06-03
+2390511	Baboua Sub-Prefecture	Baboua Sub-Prefecture	Baboua,Baboua Sub-Prefecture,Sous-Prefecture de Baboua,Sous-Préfecture de Baboua	5.72656	14.88903	A	ADM2	CF		09	2390511			0		929	Africa/Bangui	2014-03-18
+7731888	Ouango	Ouango		4.41345	22.53471	A	ADM2	CF		08	7731888			0		522	Africa/Bangui	2015-04-07
+7731889	Gambo	Gambo		4.65305	22.15741	A	ADM2	CF		08	7731889			0		456	Africa/Bangui	2014-06-09
+7731890	Kembe	Kembe		4.48243	21.69625	A	ADM2	CF		02	7731890			0		556	Africa/Bangui	2014-06-08
+7731891	Mobaye	Mobaye		4.47869	21.22478	A	ADM2	CF		02	7731891			0		531	Africa/Bangui	2014-06-08
+7731892	Zangba	Zangba		4.60069	20.82058	A	ADM2	CF		02	7731892			0		419	Africa/Bangui	2011-03-23
+7731893	Kouango	Kouango		5.11987	20.42808	A	ADM2	CF		11	7731893			0		429	Africa/Bangui	2014-06-08
+7731894	Ndjoukou	Ndjoukou		5.30643	19.42412	A	ADM2	CF		06	7731894			0		427	Africa/Bangui	2011-03-23
+7731895	Damara	Damara		5.09961	18.69022	A	ADM2	CF		17	7731895			0		408	Africa/Bangui	2014-06-08
+7731896	Bimbo Sub-Prefecture	Bimbo Sub-Prefecture	Bimbo	4.32433	18.50962	A	ADM2	CF		17	7731896			0		347	Africa/Bangui	2021-03-01
+7731897	Bangui Sub-Prefecture	Bangui Sub-Prefecture	Bangui	4.38064	18.6062	A	ADM2	CF		18	7731897			0		360	Africa/Bangui	2017-01-26
+7731898	Mongoumba	Mongoumba		3.72637	18.47591	A	ADM2	CF		07	7731898			0		351	Africa/Bangui	2014-06-08
+7731904	Nola	Nola	Nola,nolla,nora,nuo la,nwla,Нола,نولا,نولا، وسطی افریقی جمہوریہ,ノラ,諾拉,놀라	3.56484	16.02795	A	ADM2	CF		16	7731904			0		458	Africa/Bangui	2012-01-11
+7731905	Bayanga	Bayanga		2.78864	16.22608	A	ADM2	CF		16	7731905			0		425	Africa/Bangui	2012-01-11
+7732062	Bambari	Bambari		5.73633	21.04956	A	ADM2	CF		11	7732062			41486		606	Africa/Bangui	2014-06-08
+7732064	Bangassou	Bangassou		5.01352	23.15326	A	ADM2	CF		08	7732064			35305		606	Africa/Bangui	2014-06-08
+7732066	Alindao	Alindao		5.20281	21.21222	A	ADM2	CF		02	7732066			14401		465	Africa/Bangui	2014-06-09
+7732067	Ippy	Ippy		6.64468	21.27696	A	ADM2	CF		11	7732067			16571		655	Africa/Bangui	2014-06-08
+7732068	Mbaiki	Mbaiki		3.97145	17.93352	A	ADM2	CF		07	7732068			25140		607	Africa/Bangui	2014-06-08
+7732076	Mingala	Mingala	Mingala,mingara,ミンガラ	5.15276	21.63793	A	ADM2	CF		02	7732076			0		590	Africa/Bangui	2014-06-09
+7732085	Bouar Sub-Prefecture	Bouar Sub-Prefecture	Bouar,Sous-Prefecture de Bouar,Sous-Préfecture de Bouar	5.9978	15.4604	A	ADM2	CF		09	7732085			0		1017	Africa/Bangui	2012-05-18
+7732103	Baoro Sub-Prefecture	Baoro Sub-Prefecture	Baoro	5.45157	16.12721	A	ADM2	CF		09	7732103			0		762	Africa/Bangui	2012-05-18
+7732115	Bossangoa	Bossangoa		6.4068	17.35189	A	ADM2	CF		12	7732115			38451		530	Africa/Bangui	2014-06-08
+7732372	Yaloke Sub-Prefecture	Yaloke Sub-Prefecture	Yaloke	5.41797	16.96877	A	ADM2	CF		17	7732372			0		701	Africa/Bangui	2012-05-19
+7732377	Grimari	Grimari		5.73549	19.91209	A	ADM2	CF		11	7732377			16486		451	Africa/Bangui	2014-06-08
+7732483	Sibut	Sibut		5.73333	19.08333	A	ADM2	CF		06	7732483			24527		407	Africa/Bangui	2014-06-09
+7732685	Berberati	Berberati		4.31211	15.88948	A	ADM2	CF		04	7732685			105155		553	Africa/Bangui	2014-06-09
+7732690	Bakouma	Bakouma		5.5267	22.58557	A	ADM2	CF		08	7732690			0		580	Africa/Bangui	2014-06-08
+7732723	Bossembele Sub-Prefecture	Bossembele Sub-Prefecture	Bossembele	5.24147	17.60866	A	ADM2	CF		17	7732723			0		677	Africa/Bangui	2015-04-07
+7732916	Gamboula	Gamboula		4.37859	15.10519	A	ADM2	CF		04	7732916			0		626	Africa/Bangui	2011-04-05
+7732917	Gadzi	Gadzi		4.89014	16.70737	A	ADM2	CF		19	7732917			0		650	Africa/Bangui	2024-06-03
+8299285	Boali Sub-Prefecture	Boali Sub-Prefecture	Boali	4.784	18.106	A	ADM2	CF		17	8299285			0		402	Africa/Bangui	2012-05-18
+8299286	Bozoum Sub-Prefecture	Bozoum Sub-Prefecture	Bozoum	6.2304	16.00187	A	ADM2	CF		13	8299286			0		758	Africa/Bangui	2016-06-23
+9143458	Birao	Birao		10.00316	22.53517	A	ADM2	CF		14	9143458			10178		462	Africa/Bangui	2014-06-09
+9143459	Bamingui	Bamingui		7.88897	20.04875	A	ADM2	CF		01	9143459			6230		449	Africa/Bangui	2014-06-09
+9143460	Ndélé	Ndele		8.74287	20.89108	A	ADM2	CF		01	9143460			13704		452	Africa/Bangui	2014-06-09
+9143461	Bambouti	Bambouti		5.46783	26.97295	A	ADM2	CF		05	9143461			0		647	Africa/Bangui	2014-06-08
+9143462	Djéma	Djema		6.78212	25.33716	A	ADM2	CF		05	9143462			0		654	Africa/Bangui	2014-06-09
+9143463	Obo	Obo		5.49906	26.34986	A	ADM2	CF		05	9143463			12787		652	Africa/Bangui	2014-06-09
+9143464	Zémio	Zemio		5.4004	25.23735	A	ADM2	CF		05	9143464			0		656	Africa/Bangui	2014-06-09
+9143465	Bria	Bria		6.75391	22.00395	A	ADM2	CF		03	9143465			43322		589	Africa/Bangui	2014-06-09
+9143466	Ouadda	Ouadda		8.00853	22.48456	A	ADM2	CF		03	9143466			0		793	Africa/Bangui	2014-06-09
+9143467	Boda	Boda		4.07284	17.317	A	ADM2	CF		07	9143467			0		454	Africa/Bangui	2014-06-09
+9143468	Rafai	Rafai		5.81012	24.20305	A	ADM2	CF		08	9143468			14000		571	Africa/Bangui	2014-06-09
+9143469	Kaga-Bandoro	Kaga-Bandoro		7.23774	19.21819	A	ADM2	CF		15	9143469			27797		446	Africa/Bangui	2014-06-09
+9143470	Mbrès	Mbres		6.97136	19.85225	A	ADM2	CF		15	9143470			0		559	Africa/Bangui	2014-06-09
+9143471	Bakala	Bakala		6.56535	20.39173	A	ADM2	CF		11	9143471			0		499	Africa/Bangui	2014-06-09
+9143472	Batangafo	Batangafo		7.3457	17.96061	A	ADM2	CF		20	9143472			0		439	Africa/Bangui	2024-06-03
+9143473	Bambio	Bambio		3.80619	16.78669	A	ADM2	CF		16	9143473			0		653	Africa/Bangui	2014-06-09
+9143475	Yalinga	Yalinga		7.37284	23.58519	A	ADM2	CF		03	9143475			0		724	Africa/Bangui	2014-06-09
+9143476	Amada-Gaza	Amada-Gaza		4.82175	15.10406	A	ADM2	CF		19	9143476			0		702	Africa/Bangui	2024-06-03
+9143477	Bouca	Bouca		6.37248	18.28674	A	ADM2	CF		20	9143477			0		466	Africa/Bangui	2024-06-03
+9143478	Kabo	Kabo		7.79721	18.58635	A	ADM2	CF		20	9143478			0		448	Africa/Bangui	2024-06-03
+9143479	Markounda	Markounda		7.52906	17.25684	A	ADM2	CF		12	9143479			0		447	Africa/Bangui	2014-06-09
+9143480	Nana-Bakassa	Nana-Bakassa		6.97234	17.3792	A	ADM2	CF		12	9143480			0		468	Africa/Bangui	2014-06-08
+9143481	Nangha Boguila	Nangha Boguila		7.06393	16.91968	A	ADM2	CF		12	9143481			0		575	Africa/Bangui	2014-06-08
+9143482	Abba	Abba		5.22531	15.21762	A	ADM2	CF		09	9143482			0		668	Africa/Bangui	2014-06-08
+9143483	Bossemtélé	Bossemtele		5.94846	16.54168	A	ADM2	CF		13	9143483			0		725	Africa/Bangui	2014-06-08
+9143484	Dékoa	Dekoa	Dekoua,Dékoua	6.27532	19.14971	A	ADM2	CF		06	9143484			0		507	Africa/Bangui	2014-06-10
+9143485	Mala	Mala		6.2104	19.63128	A	ADM2	CF		06	9143485			0		503	Africa/Bangui	2014-06-08
+9143486	Boganangone	Boganangone		4.73558	17.14047	A	ADM2	CF		07	9143486			0		677	Africa/Bangui	2014-06-08
+9143487	Boganda	Boganda		4.36601	17.15907	A	ADM2	CF		07	9143487			0		574	Africa/Bangui	2014-06-08
+9143488	Dédé-Mokouba	Dede-Mokouba		3.88173	15.28814	A	ADM2	CF		04	9143488			0		584	Africa/Bangui	2014-06-08
+9143489	Sosso-Nakombo	Sosso-Nakombo	Sosso-Nakombo,soso=nakonbo,suo suo-na kong bo,ソソ＝ナコンボ,索索-那孔波	3.89541	15.56761	A	ADM2	CF		04	9143489			0		637	Africa/Bangui	2014-06-08
+9143490	Bogangolo	Bogangolo		5.51405	18.21001	A	ADM2	CF		17	9143490			0		580	Africa/Bangui	2014-06-08
+9143491	Bocaranga	Bocaranga		6.76546	15.77873	A	ADM2	CF		13	9143491			61190		887	Africa/Bangui	2014-06-09
+9143492	Koui	Koui		6.71414	15.35143	A	ADM2	CF		13	9143492			0		1220	Africa/Bangui	2014-06-08
+9143493	Ngaoundaye	Ngaoundaye		7.27649	15.66266	A	ADM2	CF		21	9143493			0		1047	Africa/Bangui	2024-06-03
+9143494	Paoua	Paoua		7.15641	16.42805	A	ADM2	CF		21	9143494			0		574	Africa/Bangui	2024-06-03
+9143495	Ouanda-Djallé	Ouanda-Djalle		9.05877	22.42741	A	ADM2	CF		14	9143495			2839		540	Africa/Bangui	2014-06-09

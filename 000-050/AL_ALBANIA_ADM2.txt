@@ -1,0 +1,61 @@
+﻿10944368	Bashkia Berat	Bashkia Berat	Bashkia Berat	40.69997	19.94983	A	ADM2	AL		40	10944368			60031		227	Europe/Tirane	2016-05-06
+10944369	Bashkia Kuçovë	Bashkia Kucove	Bashkia Kucove,Bashkia Kuçovë	40.82489	19.9535	A	ADM2	AL		40	10944369			31077		224	Europe/Tirane	2025-06-10
+10944370	Bashkia Poliçan	Bashkia Polican	Bashkia Polican,Bashkia Poliçan	40.58608	20.04535	A	ADM2	AL		40	10944370			10953		435	Europe/Tirane	2016-05-08
+10944371	Bashkia Skrapar	Bashkia Skrapar	Bashkia Skrapar	40.56036	20.25477	A	ADM2	AL		40	10944371			10750		1447	Europe/Tirane	2025-06-10
+10944372	Bashkia Ura Vajgurore	Bashkia Ura Vajgurore	Bashkia Ura Vajgurore	40.76611	19.81021	A	ADM2	AL		40	10944372			0		213	Europe/Tirane	2016-05-08
+10944373	Bashkia Bulqizë	Bashkia Bulqize	Bashkia Bulqize,Bashkia Bulqizë	41.47152	20.33192	A	ADM2	AL		41	10944373			31210		1228	Europe/Tirane	2016-05-06
+10944374	Bashkia Dibër	Bashkia Diber	Bashkia Diber,Bashkia Dibër,Opshtina Debar,Општина Дебар	41.714	20.36499	A	ADM2	AL		41	10944374			0		468	Europe/Tirane	2019-04-29
+10944375	Bashkia Klos	Bashkia Klos	Bashkia Klos	41.50826	20.07107	A	ADM2	AL		41	10944375			16618		335	Europe/Tirane	2016-05-06
+10944376	Bashkia Mat	Bashkia Mat	Bashkia Mat	41.63317	20.01228	A	ADM2	AL		41	10944376			27600		137	Europe/Tirane	2016-05-08
+10944377	Bashkia Durrës	Bashkia Durres	Bashkia Durres,Bashkia Durrës	41.42743	19.4869	A	ADM2	AL		42	10944377			175110		6	Europe/Tirane	2016-05-06
+10944378	Bashkia Krujë	Bashkia Kruje	Bashkia Kruje,Bashkia Krujë	41.50091	19.72571	A	ADM2	AL		42	10944378			59814		43	Europe/Tirane	2016-05-06
+10944379	Bashkia Shijak	Bashkia Shijak	Bashkia Shijak	41.33558	19.58977	A	ADM2	AL		42	10944379			27861		82	Europe/Tirane	2016-05-08
+10944380	Bashkia Elbasan	Bashkia Elbasan	Bashkia Elbasan	41.10412	20.09679	A	ADM2	AL		43	10944380			115101		109	Europe/Tirane	2025-06-10
+10944381	Bashkia Belsh	Bashkia Belsh	Bashkia Belsh	40.93144	19.88369	A	ADM2	AL		43	10944381			19503		118	Europe/Tirane	2016-05-06
+10944382	Bashkia Cërrik	Bashkia Cerrik	Bashkia Cerrik,Bashkia Cërrik	40.97552	19.99759	A	ADM2	AL		43	10944382			27445		72	Europe/Tirane	2016-05-06
+10944383	Bashkia Gramsh	Bashkia Gramsh	Bashkia Gramsh	40.84694	20.2364	A	ADM2	AL		43	10944383			24231		390	Europe/Tirane	2016-05-06
+10944384	Bashkia Librazhd	Bashkia Librazhd	Bashkia Librazhd	41.22903	20.35397	A	ADM2	AL		43	10944384			23312		583	Europe/Tirane	2025-06-10
+10944385	Bashkia Peqin	Bashkia Peqin	Bashkia Peqin	41.07105	19.80654	A	ADM2	AL		43	10944385			16580		130	Europe/Tirane	2025-06-10
+10944386	Bashkia Prrenjas	Bashkia Prrenjas	Bashkia Prrenjas,Opshtina Prenas,Општина Прењас	41.05635	20.44214	A	ADM2	AL		43	10944386			24906		1070	Europe/Tirane	2021-02-13
+10944387	Bashkia Divjakë	Bashkia Divjake	Bashkia Divjake,Bashkia Divjakë	40.95716	19.52364	A	ADM2	AL		44	10944387			34254		-3	Europe/Tirane	2016-05-06
+10944388	Bashkia Fier	Bashkia Fier	Bashkia Fier	40.72937	19.4869	A	ADM2	AL		44	10944388			101963		40	Europe/Tirane	2025-06-10
+10944389	Bashkia Lushnje	Bashkia Lushnje	Bashkia Lushnje,Bashkia Lushnjes,Bashkia Lushnjë,Bashkia Lushnjës	40.90939	19.71469	A	ADM2	AL		44	10944389			0		10	Europe/Tirane	2022-12-13
+10944390	Bashkia Mallakastër	Bashkia Mallakaster	Bashkia Mallakaster,Bashkia Mallakastër	40.55669	19.77347	A	ADM2	AL		44	10944390			25062		269	Europe/Tirane	2016-05-08
+10944391	Bashkia Patos	Bashkia Patos	Bashkia Patos	40.67793	19.65591	A	ADM2	AL		44	10944391			18227		158	Europe/Tirane	2025-06-10
+10944392	Bashkia Roskovec	Bashkia Roskovec	Bashkia Roskovec	40.72202	19.72204	A	ADM2	AL		44	10944392			16332		30	Europe/Tirane	2025-06-10
+10944393	Bashkia Dropull	Bashkia Dropull	Bashkia Dropull	39.98584	20.30529	A	ADM2	AL		45	10944393			3503		999	Europe/Tirane	2016-05-06
+10944394	Bashkia Gjirokastër	Bashkia Gjirokaster	Bashkia Gjirokaster,Bashkia Gjirokastër	40.12775	20.07291	A	ADM2	AL		45	10944394			0		668	Europe/Tirane	2016-05-06
+10944395	Bashkia Kelcyrë	Bashkia Kelcyre	Bashkia Kelcyre,Bashkia Kelcyrë	40.36196	20.16476	A	ADM2	AL		45	10944395			6113		256	Europe/Tirane	2016-05-06
+10944396	Bashkia Libohovë	Bashkia Libohove	Bashkia Libohove,Bashkia Libohovë	40.10754	20.25753	A	ADM2	AL		45	10944396			3667		1212	Europe/Tirane	2016-05-06
+10944397	Bashkia Memaliaj	Bashkia Memaliaj	Bashkia Memaliaj	40.41524	19.96911	A	ADM2	AL		45	10944397			10657		373	Europe/Tirane	2016-05-08
+10944398	Bashkia Përmet	Bashkia Permet	Bashkia Permet,Bashkia Përmet,Premedi	40.23246	20.41091	A	ADM2	AL		45	10944398			10614		354	Europe/Tirane	2024-09-24
+10944399	Bashkia Tepelenë	Bashkia Tepelene	Bashkia Tepelene,Bashkia Tepelenë	40.26736	19.97003	A	ADM2	AL		45	10944399			8949		1151	Europe/Tirane	2016-05-08
+10944400	Bashkia Devoll	Bashkia Devoll	Bashkia Devoll	40.60078	20.93814	A	ADM2	AL		46	10944400			26716		894	Europe/Tirane	2016-05-06
+10944401	Bashkia Kolonjë	Bashkia Kolonje	Bashkia Kolonje,Bashkia Kolonjë	40.3142	20.61482	A	ADM2	AL		46	10944401			11070		973	Europe/Tirane	2016-05-06
+10944402	Bashkia Korçë	Bashkia Korce	Bashkia Korce,Bashkia Korçë	40.57506	20.62952	A	ADM2	AL		46	10944402			0		1442	Europe/Tirane	2016-05-06
+10944403	Bashkia Maliq	Bashkia Maliq	Bashkia Maliq	40.75508	20.60748	A	ADM2	AL		46	10944403			41757		1066	Europe/Tirane	2016-05-08
+10944404	Bashkia Pogradec	Bashkia Pogradec	Bashkia Pogradec,Podgradec,Pogradec,Поградец,Подградец	40.92409	20.59645	A	ADM2	AL		46	10944404			0		1302	Europe/Tirane	2017-12-25
+10944405	Bashkia Pustec	Bashkia Pustec	Bashkia Pustec,Opshtina Pustec,Општина Пустец	40.83591	20.89405	A	ADM2	AL		46	10944405			3290		1323	Europe/Tirane	2019-05-15
+10944406	Bashkia Has	Bashkia Has	Bashkia Has	42.19897	20.37234	A	ADM2	AL		47	10944406			0		401	Europe/Tirane	2016-05-06
+10944407	Bashkia Kukës	Bashkia Kukes	Bashkia Kukes,Bashkia Kukës	41.98221	20.41643	A	ADM2	AL		47	10944407			0		682	Europe/Tirane	2015-12-07
+10944408	Bashkia Tropojë	Bashkia Tropoje	Bashkia Tropoje,Bashkia Tropojë	42.36063	20.0674	A	ADM2	AL		47	10944408			0		484	Europe/Tirane	2015-12-07
+10944409	Bashkia Kurbin	Bashkia Kurbin	Bashkia Kurbin	41.62215	19.70734	A	ADM2	AL		48	10944409			34405		18	Europe/Tirane	2025-06-20
+10944410	Bashkia Lezhë	Bashkia Lezhe	Bashkia Lezhe,Bashkia Lezhë	41.8132	19.64121	A	ADM2	AL		48	10944410			51354		3	Europe/Tirane	2025-06-20
+10944411	Bashkia Mirditë	Bashkia Mirdite	Bashkia Mirdite,Bashkia Mirditë	41.80953	19.99024	A	ADM2	AL		48	10944411			22103		579	Europe/Tirane	2016-05-08
+10944412	Bashkia Fushë Arrës	Bashkia Fushe Arres	Bashkia Fushe Arres,Bashkia Fushë Arrës	42.14753	20.04168	A	ADM2	AL		49	10944412			0		1148	Europe/Tirane	2015-12-07
+10944413	Bashkia Malësi e Madhe	Bashkia Malesi e Madhe	Bashkia Malesi e Madhe,Bashkia Malësi e Madhe	42.36798	19.58977	A	ADM2	AL		49	10944413			30823		1411	Europe/Tirane	2016-05-06
+10944414	Bashkia Pukë	Bashkia Puke	Bashkia Puke,Bashkia Pukë	42.02997	19.92778	A	ADM2	AL		49	10944414			11069		1087	Europe/Tirane	2016-05-08
+10944415	Bashkia Shkodër	Bashkia Shkoder	Bashkia Shkoder,Bashkia Shkodër	42.14386	19.63386	A	ADM2	AL		49	10944415			95553		360	Europe/Tirane	2025-06-20
+10944416	Bashkia Vau i Dejës	Bashkia Vau i Dejes	Bashkia Vau i Dejes,Bashkia Vau i Dejës	42.04834	19.69999	A	ADM2	AL		49	10944416			27295		486	Europe/Tirane	2016-05-08
+10944417	Bashkia Kamëz	Bashkia Kamez	Bashkia Kamez,Bashkia Kamëz	41.37232	19.78542	A	ADM2	AL		50	10944417			96137		77	Europe/Tirane	2025-06-20
+10944418	Bashkia Kavajë	Bashkia Kavaje	Bashkia Kavaje,Bashkia Kavajë	41.18127	19.55579	A	ADM2	AL		50	10944418			30012		19	Europe/Tirane	2025-06-20
+10944419	Bashkia Rrogozhinë	Bashkia Rrogozhine	Bashkia Rrogozhine,Bashkia Rrogozhinë	41.09034	19.5861	A	ADM2	AL		50	10944419			0		4	Europe/Tirane	2016-05-08
+10944420	Bashkia Tiranë	Bashkia Tirane	Bashkia Tirane,Bashkia Tiranë	41.29884	19.8938	A	ADM2	AL		50	10944420			0		261	Europe/Tirane	2015-12-07
+10944421	Bashkia Vorë	Bashkia Vore	Bashkia Vore,Bashkia Vorë	41.39804	19.67703	A	ADM2	AL		50	10944421			25511		110	Europe/Tirane	2016-05-08
+10944422	Bashkia Delvinë	Bashkia Delvine	Bashkia Delvine,Bashkia Delvinë	39.99824	20.04903	A	ADM2	AL		51	10944422			0		540	Europe/Tirane	2016-05-06
+10944423	Bashkia Finiq	Bashkia Finiq	Bashkia Finiq	39.84393	20.16659	A	ADM2	AL		51	10944423			10529		633	Europe/Tirane	2016-05-06
+10944424	Bashkia Himarë	Bashkia Himare	Bashkia Himare,Bashkia Himarë	40.11581	19.81389	A	ADM2	AL		51	10944424			7818		311	Europe/Tirane	2016-05-06
+10944425	Bashkia Konispol	Bashkia Konispol	Bashkia Konispol	39.70064	20.13353	A	ADM2	AL		51	10944425			8245		383	Europe/Tirane	2016-05-06
+10944426	Bashkia Sarandë	Bashkia Sarande	Bashkia Sarande,Bashkia Sarandë	39.85583	20.02046	A	ADM2	AL		51	10944426			0		16	Europe/Tirane	2015-12-07
+10944427	Bashkia Selenicë	Bashkia Selenice	Bashkia Selenice,Bashkia Selenicë	40.39503	19.65958	A	ADM2	AL		51	10944427			16396		188	Europe/Tirane	2016-05-08
+10944428	Bashkia Vlorë	Bashkia Vlore	Bashkia Vlore,Bashkia Vlorë	40.4134	19.49792	A	ADM2	AL		51	10944428			104827		376	Europe/Tirane	2016-05-08

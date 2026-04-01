@@ -1,0 +1,32 @@
+﻿2306544	Añisoc	Anisoc	Anisoc,Anisok,Añisoc,Añisok,Valladolid de los Bimbiles	1.75	10.83333	A	ADM2	GQ		09	2306544			0		565	Africa/Malabo	2016-08-13
+2306702	Niefang	Niefang	Administracion Territorial de Niefang,Administración Territorial de Niefang,Distrito de Niefang,Niefan,Niefang,Sevilla de Niefang	1.84996	10.24875	A	ADM2	GQ		06	2306702			0		316	Africa/Malabo	2021-03-19
+2306841	Cogo	Cogo	Administracion Territorial de Kogo,Administración Territorial de Kogo,Cogo,Distrito de Cogo,Kogo,Puerto Iradier,Кого	1.2231	9.8452	A	ADM2	GQ		08	2306841			0		73	Africa/Malabo	2020-06-10
+2307161	Distrito de Nsork	Distrito de Nsork	Administracion Territorial de Nsok,Administración Territorial de Nsok,Distrito de Nsork,Ensorc,Ensoro,N'sork,Nsoc,Nsok,Nsork,N’sork	1.197	11.2353	A	ADM2	GQ		09	2307161			0		666	Africa/Malabo	2020-07-08
+2307796	Mongomo	Mongomo	Distrito de Mongomo,Mongomo,Mongomo de Guadalupe	1.6516	11.162	A	ADM2	GQ		09	2307796			0		681	Africa/Malabo	2020-06-10
+2308017	Micomiseng	Micomiseng	Administracion Territorial de Mikomeseng,Administración Territorial de Mikomeseng,Distrito de Micomiseng,Micomesen,Micomeseng,Micomiseng,Mikomesen,Mikomeseng	2.1076	10.6829	A	ADM2	GQ		07	2308017			0		477	Africa/Malabo	2021-03-14
+2308276	Distrito de Mbini	Distrito de Mbini	Administracion Territorial de Rio Benito,Administración Territorial de Río Benito,Benito,Distrito de Mbini,Mbini,Rio Benito,Río Benito	1.5327	9.7491	A	ADM2	GQ		08	2308276			0		29	Africa/Malabo	2020-06-10
+2308997	Evinayong	Evinayong	Administracion Territorial de Evinayong,Administración Territorial de Evinayong,Distrito de Evinayong,Ebinayon,Ebinayong,Evinayong	1.4349	10.4189	A	ADM2	GQ		06	2308997			0		625	Africa/Malabo	2020-06-10
+2309335	Distrito de Ebebiyin	Distrito de Ebebiyin	Administracion Territorial de Ebebiyin,Administración Territorial de Ebebiyin,Distrito de Ebebiyin,Ebebeyin,Ebebiyin,Ebebiyín,Ebibellin,Ebibeyin,Ebibeying	2.0392	11.2353	A	ADM2	GQ		07	2309335			0		614	Africa/Malabo	2020-07-08
+2310047	Bata	Bata	Administracion Territorial de Bata,Administración Territorial de Bata,Bata,Distrito de Bata	1.84804	9.80646	A	ADM2	GQ		08	2310047			0		22	Africa/Malabo	2021-03-19
+2310534	Acurenam	Acurenam	Acurenam,Acurenan,Akurenam,Akurenan,Distrito de Acurenam	1.0928	10.546	A	ADM2	GQ		06	2310534			0		628	Africa/Malabo	2020-06-10
+11237860	Ayene	Ayene		1.87883	10.70231	A	ADM2	GQ		09	11237860			3482		454	Africa/Malabo	2016-08-13
+11237861	Mengomeyén	Mengomeyen		1.69439	11.03422	A	ADM2	GQ		09	11237861			15644		658	Africa/Malabo	2016-08-13
+11237862	Aconibe	Aconibe	Akonibe	1.29648	10.94436	A	ADM2	GQ		09	11237862			16543		671	Africa/Malabo	2016-08-13
+11237864	Río Campo	Rio Campo		2.33816	9.82205	A	ADM2	GQ		08	11237864			0		28	Africa/Malabo	2016-08-14
+11237865	Corisco	Corisco		0.91718	9.32186	A	ADM2	GQ		08	11237865			0		19	Africa/Malabo	2016-08-13
+11237866	Bitica	Bitica	Bitika	1.42187	9.62351	A	ADM2	GQ		08	11237866			0		30	Africa/Malabo	2016-08-13
+11237867	Machinda	Machinda		1.88068	9.95391	A	ADM2	GQ		08	11237867			2897		175	Africa/Malabo	2016-08-13
+11237868	Nsang	Nsang		2.02376	10.93946	A	ADM2	GQ		07	11237868			0		589	Africa/Malabo	2016-08-13
+11237869	Ncue	Ncue		2.01244	10.46976	A	ADM2	GQ		07	11237869			0		398	Africa/Malabo	2016-08-13
+11237870	Bicurga	Bicurga		1.58161	10.46834	A	ADM2	GQ		06	11237870			0		701	Africa/Malabo	2016-08-13
+11237871	Riaba	Riaba		3.38464	8.75911	A	ADM2	GQ		05	11237871			0		66	Africa/Malabo	2016-08-13
+11237872	Luba	Luba		3.45816	8.5538	A	ADM2	GQ		05	11237872			0		28	Africa/Malabo	2016-08-13
+11237873	Rebola	Rebola		3.72418	8.83438	A	ADM2	GQ		04	11237873			0		318	Africa/Malabo	2016-08-13
+11237874	Malabo	Malabo		3.75042	8.74246	A	ADM2	GQ		04	11237874			0		39	Africa/Malabo	2016-08-13
+11237875	Mabana	Mabana		-1.45695	5.63554	A	ADM2	GQ		03	11237875			0		222	Africa/Malabo	2016-08-13
+11237876	San Antonio de Palé	San Antonio de Pale	St Antony and San Antonio de Praia	-1.40809	5.63174	A	ADM2	GQ		03	11237876			0		33	Africa/Malabo	2016-08-13
+11237877	Bidjabidjan	Bidjabidjan		2.16301	11.14906	A	ADM2	GQ		07	11237877			0		602	Africa/Malabo	2016-08-14
+11237879	Baney	Baney		3.69225	8.91193	A	ADM2	GQ		04	11237879			0		284	Africa/Malabo	2021-03-19
+11237880	Nkimi	Nkimi		1.93167	10.34522	A	ADM2	GQ		06	11237880			0		344	Africa/Malabo	2016-08-15
+12168386	Nsok-Nsomo	Nsok-Nsomo	Distrito de Nsok-Nsomo,Nsok-Nsomo	1.82588	11.05946	A	ADM2	GQ		07	12168386			0		1008	Africa/Malabo	2021-03-19
+13448381	Annobón	Annobon	Annobon,Annobón,Distrito de Annobon,Distrito de Annobón	-1.4358	5.6387	A	ADM2	GQ		03	13448381			0		-9999	Africa/Malabo	2025-07-19

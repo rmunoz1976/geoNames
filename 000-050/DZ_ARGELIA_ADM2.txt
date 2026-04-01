@@ -1,0 +1,548 @@
+﻿2475473	Daïra de Touggourt	Daira de Touggourt	Annexe de Touggourt,Arrondissement de Touggourt,Daira de Touggourt,Daïra de Touggourt	33.09631	6.06641	A	ADM2	DZ		TG	2475473			0		169	Africa/Algiers	2024-08-05
+2475685	Daïra de Tlemcen	Daira de Tlemcen	Arrondissement de Tlemcen,Daira de Tlemcen,Daïra de Tlemcen	34.88218	-1.31543	A	ADM2	DZ		15	2475685			0		843	Africa/Algiers	2024-08-05
+2475742	Daïra de Tizi Ouzou	Daira de Tizi Ouzou	Arrondissement de Tizi-Ouzou,Daira de Tizi Ouzou,Daïra de Tizi Ouzou	36.70217	4.0558	A	ADM2	DZ		14	2475742			0		349	Africa/Algiers	2024-08-05
+2476401	Daïra de Timimoun	Daira de Timimoun	Daira de Timimoun,Daïra de Timimoun,Timimun,dayrt tmymwn,dayrt tymymwn,Тимимун,دائرة تميمون,دائرة تيميمون	29.25	0.5	A	ADM2	DZ		TM	2476401			0		331	Africa/Algiers	2025-01-04
+2476698	Daïra de Tighennif	Daira de Tighennif	Arrondissement de Palikao,Daira de Tighennif,Daïra de Tighennif,Tighenif,Tighenif District	35.41891	0.29556	A	ADM2	DZ		26	2476698			0		512	Africa/Algiers	2024-08-05
+2476895	Daïra de Tiaret daira de meghila	Daira de Tiaret daira de meghila	Arrondissement de Tiaret,Daira de Tiaret,Daïra de Tiaret,Tiaret District	35.58792	1.41328	A	ADM2	DZ		13	2476895			0		530	Africa/Algiers	2024-08-05
+2476913	Daïra de Theniet el Had	Daira de Theniet el Had	Arrondissement Teniet el Haad,Daira de Theniet el Had,Daïra de Theniet el Had,Teniet el Had	35.83333	2	A	ADM2	DZ		56	2476913			0		1167	Africa/Algiers	2024-08-05
+2477145	Daïra de Ténès	Daira de Tenes	Arrondissement de Tenes,Arrondissement de Ténès,Daira de Tenes,Daïra de Ténès,dayrt tns,nahyh tns,tns dlʿ,تنس ضلع,دائرة تنس,ناحیه تنس	36.4688	1.29092	A	ADM2	DZ		41	2477145			0		130	Africa/Algiers	2024-08-05
+2477275	Daïra de Télagh	Daira de Telagh	Arrondissement du Telagh,Arrondissement du Télagh,Daira de Telagh,Daïra de Télagh,Telagh District,Télagh District	34.77655	-0.5848	A	ADM2	DZ		30	2477275			0		883	Africa/Algiers	2024-08-05
+2477459	Daïra de Tébessa	Daira de Tebessa	Arrondissement de Tebessa,Arrondissement de Tébessa,Daira de Tebessa,Daïra de Tébessa,Tebessa District	35.41037	8.11728	A	ADM2	DZ		33	2477459			0		827	Africa/Algiers	2024-08-05
+2478218	Daïra de Tamanrasset	Daira de Tamanrasset	Daira de Tamanghasset,Daira de Tamanrasset,Daïra de Tamanghasset,Daïra de Tamanrasset	23	5.5	A	ADM2	DZ		53	2478218			0		1638	Africa/Algiers	2024-08-05
+2478972	Daïra de Tablat	Daira de Tablat	Arrondissement de Tablat,Daira de Tablat,Daïra de Tablat	36.41938	3.28598	A	ADM2	DZ		06	2478972			0		754	Africa/Algiers	2024-08-05
+2479159	Daïra de Sour el Ghozlane	Daira de Sour el Ghozlane	Arrondissement de Sour-el-Ghozlane,Aumale,Daira de Sour el Ghozlane,Daïra de Sour el Ghozlane	36.09864	3.65715	A	ADM2	DZ		21	2479159			0		1171	Africa/Algiers	2024-08-05
+2479533	Daïra de Skikda	Daira de Skikda	Arrondissement de Philippeville,Da'irat Sukaikida,Daira de Skikda,Daïra de Skikda,Daʾirat Sukaykida,Dā'irat Sukaikida,Dāʾirat Sukaykida,Skikda District,dayrt fylybfyl,dayrt skykdt,skykdt,دائرة سكيكدة,دائرة فيليبفيل,سكيكدة	36.86127	6.9183	A	ADM2	DZ		31	2479533			0		98	Africa/Algiers	2024-08-05
+2481003	Daïra de Sidi Bel Abbès	Daira de Sidi Bel Abbes	Arrondissement Sidi-Bel-Abbes,Arrondissement Sidi-Bel-Abbès,Daira de Sidi Bel Abbes,Daïra de Sidi Bel Abbès	35.20498	-0.62353	A	ADM2	DZ		30	2481003			0		468	Africa/Algiers	2024-10-20
+2481182	Daïra de Sidi Ali	Daira de Sidi Ali	Arrondissement de Cassaigne,Daira de Sidi Ali,Daïra de Sidi Ali	36.1	0.41667	A	ADM2	DZ		07	2481182			0		305	Africa/Algiers	2024-08-05
+2481254	Daïra de Sidi Aïch	Daira de Sidi Aich	Arrondissement de Sidi Aich,Arrondissement de Sidi Aïch,Daira de Sidi Aich,Daïra de Sidi Aïch,dayrt sydy ʿysh,sydy ʿysh,دائرة سيدي عيش,سيدي عيش	36.62372	4.70052	A	ADM2	DZ		18	2481254			0		78	Africa/Algiers	2024-08-05
+2481698	Daïra de Sétif	Daira de Setif	Arrondissement de Setif,Arrondissement de Sétif,Daira de Setif,Daïra de Sétif,Setif District,Sétif District	36.19373	5.42864	A	ADM2	DZ		12	2481698			0		1086	Africa/Algiers	2024-08-05
+2482209	Daïra de Sebdou	Daira de Sebdou	Arrondissement de Sebdou,Daira de Sebdou,Daïra de Sebdou,Sebdou District	34.46915	-1.1311	A	ADM2	DZ		15	2482209			0		1156	Africa/Algiers	2024-08-05
+2482569	Daïra de Saïda	Daira de Saida	Arrondissement de Saida,Arrondissement de Saïda,Daira de Saida,Daïra de Saïda	34.84312	0.13205	A	ADM2	DZ		10	2482569			0		853	Africa/Algiers	2024-08-05
+2485580	Daïra d’Oued Ghiou	Daira d'Oued Ghiou	Arrondissement d'Inkermann,Arrondissement d’Inkermann,Daira d'Oued Ghiou,Daira d'Oued Rhiou,Daïra d’Oued Ghiou,Daïra d’Oued Rhiou	36	1	A	ADM2	DZ		51	2485580			0		76	Africa/Algiers	2024-08-05
+2485797	Daïra d’Ouargla	Daira d'Ouargla	Annexe d'Ouargla,Annexe d’Ouargla,Arrondissement de Ouargla,Daira d'Ouargla,Daïra d’Ouargla,Ouargla District	32.0288	5.0482	A	ADM2	DZ		50	2485797			0		255	Africa/Algiers	2024-08-05
+2485924	Daïra d’Oran	Daira d'Oran	Arrondissement d'Oran,Arrondissement d’Oran,Daira d'Oran,Daïra d’Oran,dayrt whran,whran,دائرة وهران,وهران	35.69097	-0.67676	A	ADM2	DZ		09	2485924			0		156	Africa/Algiers	2024-08-05
+2486687	Daïra de M’Sila	Daira de M'Sila	Arrondissement de M'Sila,Arrondissement de M’Sila,Daira de M'Sila,Daïra de M’Sila	35.7	4.55	A	ADM2	DZ		27	2486687			0		474	Africa/Algiers	2024-08-05
+2487132	Daïra de Mostaganem	Daira de Mostaganem	Arrondissement de Mostaganem,Daira de Mostaganem,Daïra de Mostaganem	35.94502	0.09171	A	ADM2	DZ		07	2487132			0		138	Africa/Algiers	2024-08-05
+2487291	Daïra de Mohammadia	Daira de Mohammadia	Arrondissement de Perregaux,Arrondissement de Perrégaux,Daira de Mohammadia,Daïra de Mohammadia	35.64491	0.05938	A	ADM2	DZ		26	2487291			0		10	Africa/Algiers	2024-08-05
+2487442	Daïra de Miliana	Daira de Miliana	Arrondissement de Miliana,Daira de Miliana,Daïra de Miliana,Miliana District,dayrt mlyant,دائرة مليانة	36.35322	2.17214	A	ADM2	DZ		35	2487442			0		440	Africa/Algiers	2024-08-05
+2487880	Daïra de Merouana	Daira de Merouana	Arrondissement de Merouana,Daira de Merouana,Daïra de Merouana	35.58333	5.91667	A	ADM2	DZ		03	2487880			0		1670	Africa/Algiers	2024-08-05
+2489863	Daïra de Mecheria	Daira de Mecheria	Annexe de Mecheria,Annexe de Méchéria,Daira de Mecheria,Daïra de Mecheria	33.52956	-0.20121	A	ADM2	DZ		49	2489863			0		1073	Africa/Algiers	2024-08-05
+2490096	Daïra de Mascara	Daira de Mascara	Arrondissement de Mascara,Daira de Mascara,Daïra de Mascara,Mascara District	35.37945	0.14299	A	ADM2	DZ		26	2490096			0		465	Africa/Algiers	2024-08-05
+2490582	Daïra de Maghnia	Daira de Maghnia	Arrondissement de Marnia,Daira de Maghnia,Daïra de Maghnia	34.87589	-1.77037	A	ADM2	DZ		15	2490582			0		374	Africa/Algiers	2024-08-05
+2491040	Daïra de L’Arbaa Naït Irathen	Daira de L'Arbaa Nait Irathen	Arrondissement de Fort National,Daira de L'Arbaa Nait Irathen,Daïra de L’Arbaa Naït Irathen,L'Arbaa Nair Iraten,L’Arbaa Naïr Iraten	36.66667	4.16667	A	ADM2	DZ		14	2491040			0		490	Africa/Algiers	2024-08-05
+2491132	Daïra de Lakhdaria	Daira de Lakhdaria	Arrondissement de Palestro,Daira de Lakhdaria,Daïra de Lakhdaria,Lakhdaria District	36.58333	3.66667	A	ADM2	DZ		21	2491132			0		815	Africa/Algiers	2024-08-05
+2491189	Daïra de Laghouat	Daira de Laghouat	Annexe de Laghouat,Annexe de Larhouat,Arrondissement de Laghouat,Daira de Laghouat,Daïra de Laghouat	33.83758	2.8768	A	ADM2	DZ		25	2491189			0		788	Africa/Algiers	2024-08-05
+2491321	Daïra de Ksar el Boukhari	Daira de Ksar el Boukhari	Arrondissement de Boghari,Daira de Ksar el Boukhari,Daïra de Ksar el Boukhari	35.83333	2.75	A	ADM2	DZ		06	2491321			0		605	Africa/Algiers	2024-08-05
+2492911	Daïra de Jijel	Daira de Jijel	Arrondissement de Djidjelli,Daira de Jijel,Daïra de Jijel	36.80862	5.74411	A	ADM2	DZ		24	2492911			0		66	Africa/Algiers	2024-08-05
+2493220	In Salah District	In Salah District	Ain Salah,Annex du Tidikelt,Arrondissement d'In Salah,Arrondissement d’In Salah,Aïn Salah,Daira d'I-n-Salah,Daïra d’I-n-Salah,In Salah,In Salah District,dayrt ʿyn salh,nahyh ʿyn salh,ʿyn salh,دائرة عين صالح,عين صالح,ناحیه عین صالح	27.5	3	A	ADM2	DZ		IS	2493220			0		327	Africa/Algiers	2024-08-05
+2495660	Daïra de Guelma	Daira de Guelma	Arrondissement de Guelma,Daira de Guelma,Daïra de Guelma,Guelma District	36.42719	7.39398	A	ADM2	DZ		23	2495660			0		610	Africa/Algiers	2024-08-05
+2496040	Daïra de Ghazaouet	Daira de Ghazaouet	Arrondissement de Nemours,Daira de Ghazaouet,Daïra de Ghazaouet	35.05989	-1.88505	A	ADM2	DZ		15	2496040			0		543	Africa/Algiers	2024-08-05
+2496230	Daïra de Frenda	Daira de Frenda	Arrondissement de Frenda,Daira de Frenda,Daïra de Frenda	35	1	A	ADM2	DZ		13	2496230			0		949	Africa/Algiers	2024-08-05
+2497507	Daïra d’El Milia	Daira d'El Milia	Arrondissement d'El Milia,Arrondissement d’El Milia,Daira d'El Milia,Daïra d’El Milia	36.75	6.25	A	ADM2	DZ		24	2497507			0		29	Africa/Algiers	2024-08-05
+2497985	Daïra d’El Kala	Daira d'El Kala	Arrondissement de La Calle,Daira d'El Kala,Daïra d’El Kala,El Kala District	36.87923	8.44406	A	ADM2	DZ		44	2497985			0		59	Africa/Algiers	2024-08-05
+2498390	Daïra d’El Eulma	Daira d'El Eulma	Arrondissement d'El Eulma,Arrondissement de Saint-Arnaud,Arrondissement d’El Eulma,Daira d'El Eulma,Daïra d’El Eulma,El Eulma District	36.20798	5.68594	A	ADM2	DZ		12	2498390			0		961	Africa/Algiers	2024-08-05
+2498664	Daïra d’El Aouinet	Daira d'El Aouinet	Arrondissement de Clairfontaine,Daira d'El Aouinet,Daïra d’El Aouinet,Sedrata	35.75	8.08333	A	ADM2	DZ		33	2498664			0		787	Africa/Algiers	2024-08-05
+2499101	Daïra de Draa el Mizan	Daira de Draa el Mizan	Arrondissement Dra-el-Mizan,Daira de Draa el Mizan,Daïra de Draa el Mizan	36.58333	3.91667	A	ADM2	DZ		14	2499101			0		365	Africa/Algiers	2024-08-05
+2500015	Daïra de Djelfa	Daira de Djelfa	Annexe de Djelfa,Arrondissement de Djelfa,Daira de Djelfa,Daïra de Djelfa	34.6701	3.20332	A	ADM2	DZ		22	2500015			0		1284	Africa/Algiers	2024-08-05
+2500273	Daïra de Djanet	Daira de Djanet	Djanet District	25	9	A	ADM2	DZ		DJ	2500273			0		1383	Africa/Algiers	2024-08-05
+2500886	Daïra de Dar el Beïda	Daira de Dar el Beida	Arrondissement de Maison Blanche,Daira de Dar el Beida,Daïra de Dar el Beïda,Rouiba	36.73314	3.20879	A	ADM2	DZ		01	2500886			0		21	Africa/Algiers	2024-08-05
+2501150	Daïra de Constantine	Daira de Constantine	Arrondissement de Constantine,Daira de Constantine,Daïra de Constantine	36.35629	6.61033	A	ADM2	DZ		04	2501150			0		800	Africa/Algiers	2024-08-05
+2501159	Daïra de Collo	Daira de Collo	Arrondissement de Collo,Collo District,Daira de Collo,Daïra de Collo	36.99835	6.54308	A	ADM2	DZ		31	2501159			0		298	Africa/Algiers	2024-08-05
+2501438	Daïra de Cherchell	Daira de Cherchell	Arrondissement de Cherchell,Cherchell District,Daira de Cherchell,Daïra de Cherchell	36.59482	2.18384	A	ADM2	DZ		55	2501438			0		188	Africa/Algiers	2024-08-05
+2502382	Daïra de Bou Saâda	Daira de Bou Saada	Arrondissement de Bou-Saada,Arrondissement de Bou-Saâda,Daira de Bou Saada,Daïra de Bou Saâda,dayrt bwsʿadt,دائرة بوسعادة	35.16667	4	A	ADM2	DZ		27	2502382			0		913	Africa/Algiers	2024-08-05
+2502955	Daïra de Bouira	Daira de Bouira	Arrondissement de Bouira,Arrondissement de Bouïra,Bouira District,Bouïra District,Daira de Bouira,Daïra de Bouira,albwyrt,dayrt albwyrt,البويرة,دائرة البويرة	36.36687	3.91254	A	ADM2	DZ		21	2502955			0		501	Africa/Algiers	2024-08-05
+2503153	Daïra de Bougaa	Daira de Bougaa	Arrondissement de La Fayette,Bougaa District,Bougaâ District,Daira de Bougaa,Daïra de Bougaa	36.30652	5.14763	A	ADM2	DZ		12	2503153			0		998	Africa/Algiers	2024-08-05
+2503639	Daïra de Bordj Menaïel	Daira de Bordj Menaiel	Arrondissement Bordj Menaiel,Arrondissement Bordj Menaïel,Bordj Menaiel District,Bordj Menaïel District,Daira de Bordj Menaiel,Daïra de Bordj Menaïel	36.74552	3.73472	A	ADM2	DZ		40	2503639			0		16	Africa/Algiers	2024-08-05
+2503767	Daïra de Blida	Daira de Blida	Arrondissement de Blida,Blida District,Daira de Blida,Daïra de Blida	36.48052	2.81509	A	ADM2	DZ		20	2503767			0		184	Africa/Algiers	2024-08-05
+2503824	Daïra de Biskra	Daira de Biskra	Annexe de Biskra,Arrondissement de Biskra,Biskra District,Daira de Biskra,Daïra de Biskra	34.83597	5.7298	A	ADM2	DZ		19	2503824			0		238	Africa/Algiers	2024-08-05
+2504579	Daïra de Beni Saf	Daira de Beni Saf	Arrondissement de Beni-Saf,Daira de Beni Saf,Daïra de Beni Saf	35.25	-1.41667	A	ADM2	DZ		36	2504579			0		114	Africa/Algiers	2024-08-05
+2504753	Daïra de Beni Abbes	Daira de Beni Abbes	Arrondissement de Beni Abbes,Arrondissement de Beni Abbès,Daira de Beni Abbes,Daïra de Beni Abbes	30	-3	A	ADM2	DZ		BA	2504753			0		619	Africa/Algiers	2024-08-05
+2505327	Daïra de Bejaïa	Daira de Bejaia	Arrondissement de Bejaia,Arrondissement de Bejaïa,Arrondissement de Bougie,Bejaia District,Béjaïa District,Daira de Bejaia,Daïra de Bejaïa,Daʾirat Bigaya,Daʾirat Biǧāya,bjayt,dayrt bjayt,بجاية,دائرة بجاية	36.73601	5.05107	A	ADM2	DZ		18	2505327			0		64	Africa/Algiers	2024-08-05
+2505528	Daïra de Béchar	Daira de Bechar	Annexe de Colomb-Bechar,Annexe de Colomb-Béchar,Arrondissement de Bechar,Arrondissement de Béchar,Cercle de Colomb,Cercle de Colomb-Bechar,Cercle de Colomb-Béchar,Daira de Bechar,Daïra de Béchar	31.48331	-2.09549	A	ADM2	DZ		38	2505528			0		852	Africa/Algiers	2024-08-05
+2505570	Daïra de Batna	Daira de Batna	Arrondissement de Batna,Batna District,Daira de Batna,Daïra de Batna	35.55258	6.15939	A	ADM2	DZ		03	2505570			0		1006	Africa/Algiers	2024-08-05
+2505627	Daïra de Barika	Daira de Barika	Arrondissement de Barika,Daira de Barika,Daïra de Barika,dayrt brykt,دائرة بريكة	35.41667	5.33333	A	ADM2	DZ		03	2505627			0		471	Africa/Algiers	2024-08-05
+2506041	Daïra d’Azazga	Daira d'Azazga	Arrondissement d'Azazga,Arrondissement d’Azazga,Daira d'Azazga,Daïra d’Azazga	36.75	4.33333	A	ADM2	DZ		14	2506041			0		180	Africa/Algiers	2024-08-05
+2506402	Daïra d’Arris	Daira d'Arris	Arrondissement d'Arris,Arrondissement d’Arris,Daira d'Arris,Daïra d’Arris	35.2663	6.32938	A	ADM2	DZ		03	2506402			0		1484	Africa/Algiers	2024-08-05
+2507644	Daïra d’Akbou	Daira d'Akbou	Arrondissement d'Akbou,Arrondissement d’Akbou,Daira d'Akbou,Daïra d’Akbou,aqbw,dayrt aqbw,آقبو,أقبو,اقبو,دائرة أقبو	36.47525	4.50244	A	ADM2	DZ		18	2507644			0		266	Africa/Algiers	2024-08-05
+2507940	Daïra d’‘Aïn Sefra	Daira d''Ain Sefra	Annexe d'Ain-Sefra,Annexe d’Aïn-Sefra,Daira d'`Ain Sefra,Daïra d’‘Aïn Sefra	32.78877	-0.56848	A	ADM2	DZ		49	2507940			0		1221	Africa/Algiers	2024-08-05
+2507970	Daïra d’‘Aïn Oussera	Daira d''Ain Oussera	Ain Oussera District,Arrondissement Ain-Oussera,Arrondissement Aïn-Oussera,Aïn Oussera District,Daira d'`Ain Oussera,Daïra d’‘Aïn Oussera	35.4087	2.85768	A	ADM2	DZ		22	2507970			0		736	Africa/Algiers	2024-08-05
+2507978	Aïn Oulmene	Ain Oulmene		35.91667	5.3	A	ADM2	DZ		12	2507978			0		930	Africa/Algiers	2024-08-05
+2508001	Daïra d’Aïn M’lila	Daira d'Ain M'lila	Arrondissement d'Ain M'Lila,Arrondissement d’Aïn M’Lila,Daira d'Ain M'lila,Daïra d’Aïn M’lila	36	6.5	A	ADM2	DZ		29	2508001			0		849	Africa/Algiers	2024-08-05
+2508142	Daïra d’‘Aïn el Kebira	Daira d''Ain el Kebira	Arrondissement de Kerrata,Daira d'`Ain el Kebira,Daïra d’‘Aïn el Kebira,Kherrata,dayrt khratt,dayrt ʿyn alkbyrt,khratt,ʿyn alkbyrt,خراطة,دائرة خراطة,دائرة عين الكبيرة,عين الكبيرة	36.37313	5.57608	A	ADM2	DZ		12	2508142			0		818	Africa/Algiers	2024-08-05
+2508284	Daïra d’‘Aïn Beïda	Daira d''Ain Beida	Arrondissement d'Ain Beida,Arrondissement d’Aïn Beïda,Daira d'`Ain Beida,Daïra d’‘Aïn Beïda	36.66207	7.6278	A	ADM2	DZ		29	2508284			0		283	Africa/Algiers	2024-08-05
+2508735	Daïra d’Aflou	Daira d'Aflou	Arrondissement d'Aflou,Arrondissement d’Aflou,Daira d'Aflou,Daïra d’Aflou	34	2	A	ADM2	DZ		25	2508735			0		1498	Africa/Algiers	2024-08-05
+2508809	Daïra d’Adrar	Daira d'Adrar	Adrar District,Arrondissement d'Adrar,Arrondissement d’Adrar,Daira d'Adrar,Daïra d’Adrar	27.86724	-0.32719	A	ADM2	DZ		34	2508809			0		269	Africa/Algiers	2024-08-05
+8693062	In Guezzam	In Guezzam	In Guezzam District,almqatʿt aladaryt ʿyn qzam,alwlayt almntdbt ʿyn qzam,bldyt ʿyn qzam,dayrt ʿyn qzam,ʿyn qzam,المقاطعة اﻹدارية عين قزام,الولاية المنتدبة عين قزام,بلدية عين قزام,دائرة عين قزام,عين قزام	20.46311	5.72598	A	ADM2	DZ		IG	8693062			0		538	Africa/Algiers	2024-08-05
+10303657	Charouine	Charouine	Charouine District	29.0167	-0.26667	A	ADM2	DZ		TM	10303657			0		287	Africa/Algiers	2024-08-05
+11203916	El Ménia District	El Menia District		30.58333	2.88333	A	ADM2	DZ		EM	11203916			0		401	Africa/Algiers	2024-08-05
+11204517	Dréan District	Drean District		36.6833	7.75	A	ADM2	DZ		44	11204517			0		26	Africa/Algiers	2024-08-05
+11204522	El M'Ghair District	El M'Ghair District	El Meghaier District	33.95	5.91667	A	ADM2	DZ		MG	11204522			0		6	Africa/Algiers	2024-08-05
+11204560	Chelghoum Laïd District	Chelghoum Laid District		36.1667	6.1667	A	ADM2	DZ		48	11204560			0		772	Africa/Algiers	2024-08-05
+11204640	Ben Badis District	Ben Badis District		34.9517	-0.9139	A	ADM2	DZ		30	11204640			0		712	Africa/Algiers	2024-08-05
+11205653	Annaba District	Annaba District		36.9	7.75	A	ADM2	DZ		37	11205653			0		3	Africa/Algiers	2024-08-05
+12952421	El Amria	El Amria	El Amria,alʿamryt,العامرية	35.52083	-1.09538	A	ADM2	DZ		36	12952421			0		229	Africa/Algiers	2024-08-05
+12952422	Zeribet El Oued	Zeribet El Oued	Zeribet El Oued,zrybt alwady,زريبة الوادي	34.66192	6.44559	A	ADM2	DZ		19	12952422			0		32	Africa/Algiers	2024-08-05
+12952423	Bayadha	Bayadha	Bayadha,albyadt,البياضة	33.35089	7.01167	A	ADM2	DZ		43	12952423			0		78	Africa/Algiers	2024-08-05
+12952424	Bordj Bou Arreridj	Bordj Bou Arreridj	Bordj Bou Arreridj,brj bwʿryryj,برج بوعريريج	36.07615	4.76314	A	ADM2	DZ		39	12952424			0		914	Africa/Algiers	2024-08-05
+12952425	Boussemghoun	Boussemghoun	Boussemghoun,bwsmghwn,بوسمغون	32.82596	0.04917	A	ADM2	DZ		42	12952425			0		1129	Africa/Algiers	2024-08-05
+12952426	Illizi	Illizi	Illizi,aylyzy,إيليزي	26.39853	8.20893	A	ADM2	DZ		46	12952426			0		587	Africa/Algiers	2024-08-05
+12952427	Babar	Babar	Babar,babar,بابار	34.6194	7.04353	A	ADM2	DZ		47	12952427			0		105	Africa/Algiers	2024-08-05
+12952428	Khenchela	Khenchela	Khenchela,khnshlt,خنشلة	35.43744	7.1378	A	ADM2	DZ		47	12952428			0		1137	Africa/Algiers	2024-08-05
+12952429	El Bayadh	El Bayadh	El Bayadh,albyd,البيض	33.65033	1.01312	A	ADM2	DZ		42	12952429			0		1367	Africa/Algiers	2024-08-05
+12952430	Ain Turk	Ain Turk	Ain Turk,ʿyn altrk,عين الترك	35.70763	-0.83576	A	ADM2	DZ		09	12952430			0		83	Africa/Algiers	2024-08-05
+12952431	Arzew	Arzew	Arzew,arzyw,أرزيو	35.85695	-0.3742	A	ADM2	DZ		09	12952431			0		150	Africa/Algiers	2024-08-05
+12952432	Bethioua	Bethioua	Bethioua,btywt,بطيوة	35.75964	-0.2492	A	ADM2	DZ		09	12952432			0		78	Africa/Algiers	2024-08-05
+12952433	Boutlelis	Boutlelis	Boutlelis,bwtlylys,بوتليليس	35.58803	-0.8342	A	ADM2	DZ		09	12952433			0		159	Africa/Algiers	2024-08-05
+12952434	Djamaa	Djamaa	Djamaa,jamʿt,جامعة	33.60591	5.64944	A	ADM2	DZ		MG	12952434			0		152	Africa/Algiers	2024-08-05
+12952435	Marsa Ben Mehdi	Marsa Ben Mehdi	Marsa Ben Mehdi,mrsy bn mhydy,مرسى بن مهيدي	35.0392	-2.11693	A	ADM2	DZ		15	12952435			0		181	Africa/Algiers	2024-08-05
+12952436	Megarine	Megarine	Megarine,almqaryn,المقارين	33.29648	5.93216	A	ADM2	DZ		TG	12952436			0		73	Africa/Algiers	2024-08-05
+12952437	El Hadjar	El Hadjar	El Hadjar,alhjar,الحجار	36.78831	7.69168	A	ADM2	DZ		37	12952437			0		11	Africa/Algiers	2024-08-05
+12952438	Kenadsa	Kenadsa	Kenadsa,alqnadst,القنادسة	31.54441	-2.9324	A	ADM2	DZ		38	12952438			0		754	Africa/Algiers	2024-08-05
+12952439	Robbah	Robbah	Robbah,alrbah,الرباح	33.0372	7.0596	A	ADM2	DZ		43	12952439			0		106	Africa/Algiers	2024-08-05
+12952440	Temacine	Temacine	Temacine,tmasyn,تماسين	32.97228	6.0409	A	ADM2	DZ		TG	12952440			0		93	Africa/Algiers	2024-08-05
+12952441	Ifri Ouzellaguene	Ifri Ouzellaguene	Ifri Ouzellaguene,afry awzlaqn,إفري أوزلاقن	36.55049	4.58225	A	ADM2	DZ		18	12952441			0		569	Africa/Algiers	2024-08-05
+12952442	El Ouata	El Ouata	El Ouata,alwatt,الواتة	30.30168	-1.20458	A	ADM2	DZ		BA	12952442			0		571	Africa/Algiers	2024-08-05
+12952443	Igli	Igli	Igli,aqly,إقلي	30.43987	-2.6072	A	ADM2	DZ		BA	12952443			0		619	Africa/Algiers	2024-08-05
+12952444	Ourlal	Ourlal	Ourlal,awrlal,أورلال	34.57079	5.63305	A	ADM2	DZ		19	12952444			0		69	Africa/Algiers	2024-08-05
+12952445	Bouzina	Bouzina	Bouzina,bwzynt,بوزينة	35.30048	6.11204	A	ADM2	DZ		03	12952445			0		1543	Africa/Algiers	2024-08-05
+12952446	Ain Beida Harriche	Ain Beida Harriche	Ain Beida Harriche,ʿyn albydaʾ ahrysh,عين البيضاء أحريش	36.41902	5.84169	A	ADM2	DZ		48	12952446			0		815	Africa/Algiers	2024-08-05
+12952447	El Ghicha	El Ghicha	El Ghicha,alghysht,الغيشة	33.87365	2.10409	A	ADM2	DZ		25	12952447			0		1216	Africa/Algiers	2024-08-05
+12952448	Oggaz	Oggaz	Oggaz,ʿqaz,عقاز	35.61068	-0.25786	A	ADM2	DZ		26	12952448			0		59	Africa/Algiers	2024-08-05
+12952449	Ferdjioua	Ferdjioua	Ferdjioua,frjywt,فرجيوة	36.40538	5.9588	A	ADM2	DZ		48	12952449			0		588	Africa/Algiers	2024-08-05
+12952450	Maatkas	Maatkas	Maatkas,mʿatqt,معاتقة	36.61448	3.97075	A	ADM2	DZ		14	12952450			0		471	Africa/Algiers	2024-08-05
+12952451	Sidi Djillali	Sidi Djillali	Sidi Djillali,sydy aljylaly,سيدي الجيلالي	34.36219	-1.53223	A	ADM2	DZ		15	12952451			0		1179	Africa/Algiers	2024-08-05
+12952452	Mesra	Mesra	Mesra,masrt,ماسرة	35.84459	0.19973	A	ADM2	DZ		07	12952452			0		130	Africa/Algiers	2024-08-05
+12952453	Dhayet Ben Dhahoua	Dhayet Ben Dhahoua	Dhayet Ben Dhahoua,dayt bn dhwt,ضاية بن ضحوة	32.70625	3.24782	A	ADM2	DZ		45	12952453			0		690	Africa/Algiers	2024-08-05
+12952454	Oued Taria	Oued Taria	Oued Taria,wady altaghyt,وادي التاغية	35.13891	0.09539	A	ADM2	DZ		26	12952454			0		505	Africa/Algiers	2024-08-05
+12952455	Tizi	Tizi	Tizi,tyzy,تيزي	35.32367	0.06551	A	ADM2	DZ		26	12952455			0		451	Africa/Algiers	2024-08-05
+12952456	Bouhatem	Bouhatem	Bouhatem,bwhatm,بوحاتم	36.30983	5.98845	A	ADM2	DZ		48	12952456			0		945	Africa/Algiers	2024-08-05
+12952457	Ain Nouicy	Ain Nouicy	Ain Nouicy,ʿyn nwysy,عين نويسي	35.7638	0.03474	A	ADM2	DZ		07	12952457			0		14	Africa/Algiers	2024-08-05
+12952458	Djebel Messaad	Djebel Messaad	Djebel Messaad,jbl msaʿd,جبل مساعد	34.97254	4.03229	A	ADM2	DZ		27	12952458			0		1152	Africa/Algiers	2024-08-05
+12952459	Medjedel	Medjedel	Medjedel,amjdl,امجدل	35.07434	3.65274	A	ADM2	DZ		27	12952459			0		1014	Africa/Algiers	2024-08-05
+12952460	Sidi Ameur	Sidi Ameur	Sidi Ameur,sydy ʿamr,سيدي عامر	35.30345	3.85382	A	ADM2	DZ		27	12952460			0		847	Africa/Algiers	2024-08-05
+12952461	Maoklane	Maoklane	Maoklane,mawklan,ماوكلان	36.4273	5.10943	A	ADM2	DZ		12	12952461			0		1136	Africa/Algiers	2024-08-05
+12952462	Ben Azzouz	Ben Azzouz	Ben Azzouz,bn ʿzwz,بن عزوز	36.84787	7.2968	A	ADM2	DZ		31	12952462			0		15	Africa/Algiers	2024-08-05
+12952463	El Hadaiek	El Hadaiek	El Hadaiek,alhdayq,الحدائق	36.85149	6.79883	A	ADM2	DZ		31	12952463			0		512	Africa/Algiers	2024-08-05
+12952464	Souk Ahras	Souk Ahras	Souk Ahras,swq ahras,سوق أهراس	36.28446	7.95541	A	ADM2	DZ		52	12952464			0		671	Africa/Algiers	2024-08-05
+12952465	Silet	Silet	Silet,sylt,سيلت	22.37458	3.37885	A	ADM2	DZ		53	12952465			0		528	Africa/Algiers	2024-08-05
+12952466	Tazrouk	Tazrouk	Tazrouk,tazrwk,تاظروك	23.68277	7.15735	A	ADM2	DZ		53	12952466			0		1209	Africa/Algiers	2024-08-05
+12952467	Zaouiat Kounta	Zaouiat Kounta	Zaouiat Kounta,zawyt kntt,زاوية كنتة	27.13992	-1.39589	A	ADM2	DZ		34	12952467			0		295	Africa/Algiers	2024-08-05
+12952468	Kheir Eddine	Kheir Eddine	Kheir Eddine,khyr aldyn,خير الدين	35.95763	0.17315	A	ADM2	DZ		07	12952468			0		216	Africa/Algiers	2024-08-05
+12952469	Settara	Settara	Settara,alstart,السطارة	36.65895	6.40326	A	ADM2	DZ		24	12952469			0		271	Africa/Algiers	2024-08-05
+12952470	Boufarik	Boufarik	Boufarik,bwfaryk,بوفاريك	36.54695	2.91381	A	ADM2	DZ		20	12952470			0		89	Africa/Algiers	2024-08-05
+12952471	Iferhounene	Iferhounene	Iferhounene,afrhwnan,إفرحونان	36.53707	4.38994	A	ADM2	DZ		14	12952471			0		734	Africa/Algiers	2024-08-05
+12952472	Bouinan	Bouinan	Bouinan,bwʿynan,بوعينان	36.53938	3.00564	A	ADM2	DZ		20	12952472			0		78	Africa/Algiers	2024-08-05
+12952473	N'gaous	N'gaous	N'gaous,nqaws,نقاوس	35.47694	5.58103	A	ADM2	DZ		03	12952473			0		1031	Africa/Algiers	2024-08-05
+12952474	Tsabit	Tsabit	Tsabit,tsabyt,تسابيت	28.43662	-1.25758	A	ADM2	DZ		34	12952474			0		341	Africa/Algiers	2024-08-05
+12952475	Had Sahary	Had Sahary	Had Sahary,hd alshary,حد الصحاري	35.34088	3.37256	A	ADM2	DZ		22	12952475			0		877	Africa/Algiers	2024-08-05
+12952476	Boumedfaa	Boumedfaa	Boumedfaa,bwmdfʿ,بومدفع	36.33635	2.46818	A	ADM2	DZ		35	12952476			0		295	Africa/Algiers	2024-08-05
+12952477	Khemis	Khemis	Khemis,khmys,خميس	36.25973	2.18702	A	ADM2	DZ		35	12952477			0		282	Africa/Algiers	2024-08-05
+12952478	Bab El Oued	Bab El Oued	Bab El Oued,bab alwady,باب الوادي	36.79816	3.02421	A	ADM2	DZ		01	12952478			0		224	Africa/Algiers	2024-08-05
+12952479	Cheraga	Cheraga	Cheraga,alshraqt,الشراقة	36.76496	2.9429	A	ADM2	DZ		01	12952479			0		151	Africa/Algiers	2024-08-05
+12952480	Zeralda	Zeralda	Zeralda,zraldt,زرالدة	36.69909	2.86852	A	ADM2	DZ		01	12952480			0		105	Africa/Algiers	2024-08-05
+12952481	Bordj Zemmoura	Bordj Zemmoura	Bordj Zemmoura,brj zmwrt,برج زمورة	36.25577	4.83873	A	ADM2	DZ		39	12952481			0		725	Africa/Algiers	2024-08-05
+12952482	Haizer	Haizer	Haizer,alhyzr,الحيزر	36.41879	4.00427	A	ADM2	DZ		21	12952482			0		675	Africa/Algiers	2024-08-05
+12952483	Hamma Bouziane	Hamma Bouziane	Hamma Bouziane,hamt bwzyan,حامة بوزيان	36.45058	6.62452	A	ADM2	DZ		04	12952483			0		605	Africa/Algiers	2024-08-05
+12952484	Hassi Khalifa	Hassi Khalifa	Hassi Khalifa,hasy khlyft,حاسي خليفة	33.66178	7.11323	A	ADM2	DZ		43	12952484			0		36	Africa/Algiers	2024-08-05
+12952485	Kadiria	Kadiria	Kadiria,alqadryt,القادرية	36.49953	3.72147	A	ADM2	DZ		21	12952485			0		175	Africa/Algiers	2024-08-05
+12952486	Souk El Khemis	Souk El Khemis	Souk El Khemis,swq alkhmys,سوق الخميس	36.40755	3.62147	A	ADM2	DZ		21	12952486			0		821	Africa/Algiers	2024-08-05
+12952487	Ain Merane	Ain Merane	Ain Merane,ʿyn mran,عين مران	36.21196	1.0291	A	ADM2	DZ		41	12952487			0		257	Africa/Algiers	2024-08-05
+12952488	Taougrit	Taougrit	Taougrit,tawqryt,تاوقريت	36.28118	0.85343	A	ADM2	DZ		41	12952488			0		463	Africa/Algiers	2024-08-05
+12952489	Mansourah	Mansourah	Mansourah,almnswrt,المنصورة	31.69133	3.46282	A	ADM2	DZ		EM	12952489			0		514	Africa/Algiers	2024-08-05
+12952490	Debila	Debila	Debila,aldbylt,الدبيلة	33.51193	6.93232	A	ADM2	DZ		43	12952490			0		55	Africa/Algiers	2024-08-05
+12952491	Guemar	Guemar	Guemar,qmar,قمار	33.7152	6.74878	A	ADM2	DZ		43	12952491			0		25	Africa/Algiers	2024-08-05
+12952492	Bouteldja	Bouteldja	Bouteldja,bwthljt,بوثلجة	36.72613	8.14449	A	ADM2	DZ		44	12952492			0		23	Africa/Algiers	2024-08-05
+12952493	Bouchegouf	Bouchegouf	Bouchegouf,bwshqwf,بوشقوف	36.5159	7.75537	A	ADM2	DZ		23	12952493			0		167	Africa/Algiers	2024-08-05
+12952494	Heliopolis	Heliopolis	Heliopolis,hylywbwlys,هيليوبوليس	36.56383	7.38011	A	ADM2	DZ		23	12952494			0		348	Africa/Algiers	2024-08-05
+12952495	In Ghar	In Ghar	In Ghar,aynghr,إينغر	26.38187	1.82337	A	ADM2	DZ		IS	12952495			0		159	Africa/Algiers	2024-08-05
+12952496	El Ancer	El Ancer	El Ancer,alʿnsr,العنصر	36.78615	6.1415	A	ADM2	DZ		24	12952496			0		259	Africa/Algiers	2024-08-05
+12952497	Texenna	Texenna	Texenna,taksnt,تاكسنة	36.6935	5.77381	A	ADM2	DZ		24	12952497			0		533	Africa/Algiers	2024-08-05
+12952498	Beni Slimane	Beni Slimane	Beni Slimane,bny slyman,بني سليمان	36.22368	3.27157	A	ADM2	DZ		06	12952498			0		613	Africa/Algiers	2024-08-05
+12952499	Guelb El Kebir	Guelb El Kebir	Guelb El Kebir,alqlb alkbyr,القلب الكبير	36.23259	3.44365	A	ADM2	DZ		06	12952499			0		619	Africa/Algiers	2024-08-05
+12952500	Gdyel	Gdyel	Gdyel,qdyl,قديل	35.76614	-0.40711	A	ADM2	DZ		09	12952500			0		111	Africa/Algiers	2024-08-05
+12952501	El Borma	El Borma	El Borma,albrmt,البرمة	31.20612	7.9404	A	ADM2	DZ		50	12952501			0		170	Africa/Algiers	2024-08-05
+12952502	Ain Fekroun	Ain Fekroun	Ain Fekroun,ʿyn fkrwn,عين فكرون	35.85264	6.83795	A	ADM2	DZ		29	12952502			0		908	Africa/Algiers	2024-08-05
+12952503	El H'madna	El H'madna	El H'madna,alhmadnt,الحمادنة	35.86083	0.68884	A	ADM2	DZ		51	12952503			0		104	Africa/Algiers	2024-08-05
+12952504	Mazouna	Mazouna	Mazouna,mazwnt,مازونة	36.09805	0.85987	A	ADM2	DZ		51	12952504			0		484	Africa/Algiers	2024-08-05
+12952505	Guenzet	Guenzet	Guenzet,qnzat,قنزات	36.33981	4.88252	A	ADM2	DZ		12	12952505			0		925	Africa/Algiers	2024-08-05
+12952506	Djemila	Djemila	Djemila,jmylt,جميلة	36.3248	5.77811	A	ADM2	DZ		12	12952506			0		996	Africa/Algiers	2024-08-05
+12952507	El Kouif	El Kouif	El Kouif,alkwyf,الكويف	35.47142	8.20768	A	ADM2	DZ		33	12952507			0		1042	Africa/Algiers	2024-08-05
+12952508	El Malabiod	El Malabiod	El Malabiod,almaʾ alabyd,الماء الابيض	35.25068	8.22343	A	ADM2	DZ		33	12952508			0		1069	Africa/Algiers	2024-08-05
+12952509	Bou Ismail	Bou Ismail	Bou Ismail,bwasmaʿyl,بواسماعيل	36.6128	2.64483	A	ADM2	DZ		55	12952509			0		110	Africa/Algiers	2024-08-05
+12952510	Damous	Damous	Damous,aldamws,الداموس	36.47915	1.74289	A	ADM2	DZ		55	12952510			0		531	Africa/Algiers	2024-08-05
+12952511	Gouraya	Gouraya	Gouraya,qwrayt,قوراية	36.49421	1.93674	A	ADM2	DZ		55	12952511			0		640	Africa/Algiers	2024-08-05
+12952512	Kolea	Kolea	Kolea,alqlyʿt,القليعة	36.5942	2.7153	A	ADM2	DZ		55	12952512			0		73	Africa/Algiers	2024-08-05
+12952513	Tipaza	Tipaza	Tipaza,tybazt,تيبازة	36.59576	2.41795	A	ADM2	DZ		55	12952513			0		-1	Africa/Algiers	2024-08-05
+12952514	Ouaguenoun	Ouaguenoun	Ouaguenoun,waqnwn,واقنون	36.78596	4.23651	A	ADM2	DZ		14	12952514			0		216	Africa/Algiers	2024-08-05
+12952515	Tizi Rached	Tizi Rached	Tizi Rached,tyzy rashd,تيزي راشد	36.68033	4.2019	A	ADM2	DZ		14	12952515			0		282	Africa/Algiers	2024-08-05
+12952516	Fellaoucene	Fellaoucene	Fellaoucene,flawsn,فلاوسن	35.00813	-1.63776	A	ADM2	DZ		15	12952516			0		536	Africa/Algiers	2024-08-05
+12952517	Chemora	Chemora	Chemora,alshmrt,الشمرة	35.67209	6.62446	A	ADM2	DZ		03	12952517			0		861	Africa/Algiers	2024-08-05
+12952518	Fenoughil	Fenoughil	Fenoughil,fnwghyl,فنوغيل	27.70205	-0.79924	A	ADM2	DZ		34	12952518			0		232	Africa/Algiers	2024-08-05
+12952519	Reggane	Reggane	Reggane,rqan,رقان	25.69909	-1.44844	A	ADM2	DZ		34	12952519			0		282	Africa/Algiers	2024-08-05
+12952520	Ain Defla	Ain Defla	Ain Defla,ʿyn aldfly,عين الدفلى	36.25587	1.97628	A	ADM2	DZ		35	12952520			0		430	Africa/Algiers	2024-08-05
+12952521	Ain El Berda	Ain El Berda	Ain El Berda,ʿyn albardt,عين الباردة	36.16852	5.69894	A	ADM2	DZ		37	12952521			0		848	Africa/Algiers	2024-08-05
+12952522	El Attaf	El Attaf	El Attaf,alʿtaf,العطاف	36.18316	1.67527	A	ADM2	DZ		35	12952522			0		216	Africa/Algiers	2024-08-05
+12952523	Ouled Khodeir	Ouled Khodeir	Ouled Khodeir,awlad khdyr,أولاد خضير	29.15939	-1.17004	A	ADM2	DZ		BA	12952523			0		293	Africa/Algiers	2024-08-05
+12952524	Darguina	Darguina	Darguina,drqynt,درقينة	36.5508	5.31649	A	ADM2	DZ		18	12952524			0		378	Africa/Algiers	2024-08-05
+12952525	Bouzareah	Bouzareah	Bouzareah,bwzryʿt,بوزريعة	36.78068	3.00649	A	ADM2	DZ		01	12952525			0		296	Africa/Algiers	2024-08-05
+12952526	Ghardaia	Ghardaia	Ghardaia,ghrdayt,غرداية	32.60474	3.72199	A	ADM2	DZ		45	12952526			0		564	Africa/Algiers	2024-08-05
+12952527	Reguiba	Reguiba	Reguiba,alrqybt,الرقيبة	34.02204	6.40456	A	ADM2	DZ		43	12952527			0		-27	Africa/Algiers	2024-08-05
+12952528	Aokas	Aokas	Aokas,awqas,أوقاس	36.60253	5.22061	A	ADM2	DZ		18	12952528			0		361	Africa/Algiers	2024-08-05
+12952529	Amizour	Amizour	Amizour,amyzwr,أميزور	36.612	4.89094	A	ADM2	DZ		18	12952529			0		304	Africa/Algiers	2024-08-05
+12952530	Baghlia	Baghlia	Baghlia,bghlyt,بغلية	36.82827	3.87279	A	ADM2	DZ		40	12952530			0		37	Africa/Algiers	2024-08-05
+12952531	Menaa	Menaa	Menaa,mnʿt,منعة	35.1144	6.00787	A	ADM2	DZ		03	12952531			0		1461	Africa/Algiers	2024-08-05
+12952532	Ain Hessainia	Ain Hessainia	Ain Hessainia,ʿyn hsaynyt,عين حساينية	36.39515	7.26903	A	ADM2	DZ		23	12952532			0		486	Africa/Algiers	2024-08-05
+12952533	Oued Zenati	Oued Zenati	Oued Zenati,wady alznaty,وادي الزناتي	36.34507	7.08129	A	ADM2	DZ		23	12952533			0		765	Africa/Algiers	2024-08-05
+12952534	Ain Boucif	Ain Boucif	Ain Boucif,ʿyn bwsyf,عين بوسيف	35.83902	3.16702	A	ADM2	DZ		06	12952534			0		1015	Africa/Algiers	2024-08-05
+12952535	Ain El Hadjel	Ain El Hadjel	Ain El Hadjel,ʿyn alhjl,عين الحجل	35.66174	3.97095	A	ADM2	DZ		27	12952535			0		565	Africa/Algiers	2024-08-05
+12952536	Ain Babouche	Ain Babouche	Ain Babouche,ʿyn bbwsh,عين ببوش	35.98891	7.10986	A	ADM2	DZ		29	12952536			0		896	Africa/Algiers	2024-08-05
+12952537	Ain Kercha	Ain Kercha	Ain Kercha,ʿyn krsht,عين كرشة	35.89712	6.67886	A	ADM2	DZ		29	12952537			0		819	Africa/Algiers	2024-08-05
+12952538	Ramka	Ramka	Ramka,alrmkt,الرمكة	35.87389	1.30651	A	ADM2	DZ		51	12952538			0		431	Africa/Algiers	2024-08-05
+12952539	Mahdia	Mahdia	Mahdia,mhdyt,مهدية	35.31824	1.79786	A	ADM2	DZ		13	12952539			0		914	Africa/Algiers	2024-08-05
+12952540	Tissemsilt	Tissemsilt	Tissemsilt,tysmsylt,تيسمسيلت	35.63477	1.82416	A	ADM2	DZ		56	12952540			0		866	Africa/Algiers	2024-08-05
+12952541	Ain El Hammam	Ain El Hammam	Ain El Hammam,ʿyn alhmam,عين الحمام	36.5624	4.32001	A	ADM2	DZ		14	12952541			0		954	Africa/Algiers	2024-08-05
+12952542	Hennaya	Hennaya	Hennaya,alhnayt,الحناية	34.96708	-1.45856	A	ADM2	DZ		15	12952542			0		256	Africa/Algiers	2024-08-05
+12952543	Mansourah	Mansourah	Mansourah,mnswrt,منصورة	34.80332	-1.35726	A	ADM2	DZ		15	12952543			0		1161	Africa/Algiers	2024-08-05
+12952544	Hammam Righa	Hammam Righa	Hammam Righa,hmam ryght,حمام ريغة	36.36865	2.33475	A	ADM2	DZ		35	12952544			0		468	Africa/Algiers	2024-08-05
+12952545	Aoulef	Aoulef	Aoulef,Aulef,awlf,Аулеф,أولف	27.49287	1.15591	A	ADM2	DZ		34	12952545			0		407	Africa/Algiers	2025-01-04
+12952546	Ouled Si Slimane	Ouled Si Slimane	Ouled Si Slimane,awlad sy slyman,أولاد سي سليمان	35.58654	5.75311	A	ADM2	DZ		03	12952546			0		950	Africa/Algiers	2024-08-05
+12952547	Ain Lechiakh	Ain Lechiakh	Ain Lechiakh,ʿyn alashyakh,عين الاشياخ	36.10197	2.3548	A	ADM2	DZ		35	12952547			0		511	Africa/Algiers	2024-08-05
+12952548	Lahmar	Lahmar	Lahmar,lhmr,لحمر	31.97081	-2.43662	A	ADM2	DZ		38	12952548			0		909	Africa/Algiers	2024-08-05
+12952549	Bathia	Bathia	Bathia,bthyt,بطحية	35.98427	1.84615	A	ADM2	DZ		35	12952549			0		1025	Africa/Algiers	2024-08-05
+12952550	El Bouni	El Bouni	El Bouni,albwny,البوني	36.8446	7.71601	A	ADM2	DZ		37	12952550			0		3	Africa/Algiers	2024-08-05
+12952551	Bordj El Emir Khaled	Bordj El Emir Khaled	Bordj El Emir Khaled,brj alamyr khald,برج الأمير خالد	36.03402	2.18499	A	ADM2	DZ		35	12952551			0		684	Africa/Algiers	2024-08-05
+12952552	Djelida	Djelida	Djelida,jlydt,جليدة	36.15011	2.00539	A	ADM2	DZ		35	12952552			0		492	Africa/Algiers	2024-08-05
+12952553	Ain Djasser	Ain Djasser	Ain Djasser,ʿyn jasr,عين جاسر	35.82284	5.98412	A	ADM2	DZ		03	12952553			0		864	Africa/Algiers	2024-08-05
+12952554	Djendel	Djendel	Djendel,jndl,جندل	36.18607	2.46855	A	ADM2	DZ		35	12952554			0		419	Africa/Algiers	2024-08-05
+12952555	Tabelbala	Tabelbala	Tabelbala,tblbalt,تبلبالة	29.06479	-3.68391	A	ADM2	DZ		38	12952555			0		603	Africa/Algiers	2024-08-05
+12952556	El Abadia	El Abadia	El Abadia,alʿbadyt,العبادية	36.33478	1.67413	A	ADM2	DZ		35	12952556			0		412	Africa/Algiers	2024-08-05
+12952557	El Amra	El Amra	El Amra,alʿamrt,العامرة	36.35691	1.9722	A	ADM2	DZ		35	12952557			0		703	Africa/Algiers	2024-08-05
+12952558	Aïn Larbaâ	Ain Larbaa	Ain Larbaa,ʿyn alarbʿaʾ,عين الأربعاء	35.41678	-0.76879	A	ADM2	DZ		36	12952558			0		119	Africa/Algiers	2025-01-01
+12952559	Ain Temouchent	Ain Temouchent	Ain Temouchent,ʿyn tmwshnt,عين تموشنت	35.29893	-1.181	A	ADM2	DZ		36	12952559			0		240	Africa/Algiers	2024-08-05
+12952560	Rouina	Rouina	Rouina,alrwynt,الروينة	36.12925	1.78084	A	ADM2	DZ		35	12952560			0		444	Africa/Algiers	2024-08-05
+12952561	Bir Mourad Rais	Bir Mourad Rais	Bir Mourad Rais,byr mrad rays,بئر مراد رايس	36.70542	3.0477	A	ADM2	DZ		01	12952561			0		103	Africa/Algiers	2024-08-05
+12952562	Ain Kihel	Ain Kihel	Ain Kihel,ʿyn alkyhl,عين الكيحل	35.19984	-1.12187	A	ADM2	DZ		36	12952562			0		558	Africa/Algiers	2024-08-05
+12952563	Birtouta	Birtouta	Birtouta,byr twtt,بئر توتة	36.62815	2.98917	A	ADM2	DZ		01	12952563			0		32	Africa/Algiers	2024-08-05
+12952564	El Maleh	El Maleh	El Maleh,almalh,المالح	35.3809	-1.14637	A	ADM2	DZ		36	12952564			0		94	Africa/Algiers	2024-08-05
+12952565	Draria	Draria	Draria,aldraryt,الدرارية	36.68316	2.96505	A	ADM2	DZ		01	12952565			0		165	Africa/Algiers	2024-08-05
+12952566	El Harrach	El Harrach	El Harrach,alhrash,الحراش	36.71344	3.14485	A	ADM2	DZ		01	12952566			0		22	Africa/Algiers	2024-08-05
+12952567	Hammam Bou Hadjar	Hammam Bou Hadjar	Hammam Bou Hadjar,hmam bwhjr,حمام بوحجر	35.32221	-0.97497	A	ADM2	DZ		36	12952567			0		164	Africa/Algiers	2024-08-05
+12952568	Kherrata	Kherrata	Kherrata,khratt,خراطة	36.4547	5.25541	A	ADM2	DZ		18	12952568			0		599	Africa/Algiers	2024-08-05
+12952569	Oulhassa Gheraba	Oulhassa Gheraba	Oulhassa Gheraba,wlhast alghrabt,ولهاصة الغرابة	35.22499	-1.49519	A	ADM2	DZ		36	12952569			0		177	Africa/Algiers	2024-08-05
+12952570	Baraki	Baraki	Baraki,braqy,براقي	36.65033	3.12232	A	ADM2	DZ		01	12952570			0		27	Africa/Algiers	2024-08-05
+12952571	Hussein Dey	Hussein Dey	Hussein Dey,hsyn day,حسين داي	36.73313	3.08713	A	ADM2	DZ		01	12952571			0		115	Africa/Algiers	2024-08-05
+12952572	Rouiba	Rouiba	Rouiba,alrwybt,الرويبة	36.74721	3.31059	A	ADM2	DZ		01	12952572			0		14	Africa/Algiers	2024-08-05
+12952573	Kerzaz	Kerzaz	Kerzaz,krzaz,كرزاز	29.75311	-1.16911	A	ADM2	DZ		BA	12952573			0		466	Africa/Algiers	2024-08-05
+12952574	Sidi M'hamed	Sidi M'hamed	Sidi M'hamed,sydy amhmd,سيدي امحمد	36.75972	3.0581	A	ADM2	DZ		01	12952574			0		15	Africa/Algiers	2024-08-05
+12952575	Taghit	Taghit	Taghit,taghyt,تاغيت	31.0692	-1.66986	A	ADM2	DZ		38	12952575			0		720	Africa/Algiers	2024-08-05
+12952576	Berrahal	Berrahal	Berrahal,brhal,برحال	36.88005	7.49049	A	ADM2	DZ		37	12952576			0		51	Africa/Algiers	2024-08-05
+12952577	Djezzar	Djezzar	Djezzar,aljzar,الجزار	35.37273	5.07872	A	ADM2	DZ		03	12952577			0		399	Africa/Algiers	2024-08-05
+12952578	Chetaibi	Chetaibi	Chetaibi,shtayby,شطايبي	37.01819	7.38938	A	ADM2	DZ		37	12952578			0		239	Africa/Algiers	2024-08-05
+12952579	Ain Touta	Ain Touta	Ain Touta,ʿyn altwtt,عين التوتة	35.38435	5.94575	A	ADM2	DZ		03	12952579			0		956	Africa/Algiers	2024-08-05
+12952580	Foughala	Foughala	Foughala,fwghalt,فوغالة	34.73722	5.24919	A	ADM2	DZ		19	12952580			0		193	Africa/Algiers	2024-08-05
+12952581	El Madher	El Madher	El Madher,almʿdhr,المعذر	35.71621	6.40572	A	ADM2	DZ		03	12952581			0		855	Africa/Algiers	2024-08-05
+12952582	Ichemoul	Ichemoul	Ichemoul,ashmwl,إشمول	35.32589	6.50382	A	ADM2	DZ		03	12952582			0		1545	Africa/Algiers	2024-08-05
+12952583	Ras El Aioun	Ras El Aioun	Ras El Aioun,ras alʿywn,رأس العيون	35.71862	5.64224	A	ADM2	DZ		03	12952583			0		981	Africa/Algiers	2024-08-05
+12952584	Barbacha	Barbacha	Barbacha,brbasht,برباشة	36.56584	4.98029	A	ADM2	DZ		18	12952584			0		652	Africa/Algiers	2024-08-05
+12952585	Seggana	Seggana	Seggana,sqant,سقانة	35.32062	5.60251	A	ADM2	DZ		03	12952585			0		751	Africa/Algiers	2024-08-05
+12952586	Beni Maouche	Beni Maouche	Beni Maouche,bny mʿwsh,بني معوش	36.50008	4.78832	A	ADM2	DZ		18	12952586			0		744	Africa/Algiers	2024-08-05
+12952587	Seriana	Seriana	Seriana,sryant,سريانة	35.77352	6.18113	A	ADM2	DZ		03	12952587			0		809	Africa/Algiers	2024-08-05
+12952588	Tazoult	Tazoult	Tazoult,tazwlt,تازولت	35.52608	6.31175	A	ADM2	DZ		03	12952588			0		1179	Africa/Algiers	2024-08-05
+12952589	Theniet El Abed	Theniet El Abed	Theniet El Abed,thnyt alʿabd,ثنية العابد	35.35656	6.29994	A	ADM2	DZ		03	12952589			0		2211	Africa/Algiers	2024-08-05
+12952590	Timgad	Timgad	Timgad,tymqad,تيمقاد	35.53449	6.59523	A	ADM2	DZ		03	12952590			0		1008	Africa/Algiers	2024-08-05
+12952591	Tkout	Tkout	Tkout,tkwt,تكوت	35.00244	6.48777	A	ADM2	DZ		03	12952591			0		1307	Africa/Algiers	2024-08-05
+12952592	Chemini	Chemini	Chemini,shmyny,شميني	36.62123	4.61327	A	ADM2	DZ		18	12952592			0		1008	Africa/Algiers	2024-08-05
+12952593	Abadla	Abadla	Abadla,alʿbadlt,العبادلة	30.94634	-3.07031	A	ADM2	DZ		38	12952593			0		774	Africa/Algiers	2024-08-05
+12952594	Seddouk	Seddouk	Seddouk,sdwq,صدوق	36.4961	4.6699	A	ADM2	DZ		18	12952594			0		548	Africa/Algiers	2024-08-05
+12952595	Beni Ounif	Beni Ounif	Beni Ounif,bny wnyf,بني ونيف	31.57051	-0.81435	A	ADM2	DZ		38	12952595			0		804	Africa/Algiers	2024-08-05
+12952596	Adekar	Adekar	Adekar,adkar,أدكار	36.78325	4.68945	A	ADM2	DZ		18	12952596			0		236	Africa/Algiers	2024-08-05
+12952597	El Kseur	El Kseur	El Kseur,alqsr,القصر	36.75308	4.84428	A	ADM2	DZ		18	12952597			0		1016	Africa/Algiers	2024-08-05
+12952598	Ighil Ali	Ighil Ali	Ighil Ali,aghyl ʿly,إغيل علي	36.31769	4.51948	A	ADM2	DZ		18	12952598			0		714	Africa/Algiers	2024-08-05
+12952599	Souk El Tenine	Souk El Tenine	Souk El Tenine,swq alathnyn,سوق الإثنين	36.59985	5.40939	A	ADM2	DZ		18	12952599			0		746	Africa/Algiers	2024-08-05
+12952600	Tazmalt	Tazmalt	Tazmalt,tazmlt,تازملت	36.36876	4.41669	A	ADM2	DZ		18	12952600			0		233	Africa/Algiers	2024-08-05
+12952601	Tichy	Tichy	Tichy,tyshy,تيشي	36.64293	5.08994	A	ADM2	DZ		18	12952601			0		469	Africa/Algiers	2024-08-05
+12952602	Timezrit	Timezrit	Timezrit,tymzryt,تيمزريت	36.61633	4.77466	A	ADM2	DZ		18	12952602			0		367	Africa/Algiers	2024-08-05
+12952603	Djaafra	Djaafra	Djaafra,jʿafrt,جعافرة	36.294	4.663	A	ADM2	DZ		39	12952603			0		1326	Africa/Algiers	2025-01-20
+12952604	Djemorah	Djemorah	Djemorah,jmwrt,جمورة	35.02717	5.76377	A	ADM2	DZ		19	12952604			0		361	Africa/Algiers	2024-08-05
+12952605	El Kantara	El Kantara	El Kantara,alqntrt,القنطرة	35.19439	5.74315	A	ADM2	DZ		19	12952605			0		678	Africa/Algiers	2024-08-05
+12952606	El Outaya	El Outaya	El Outaya,alwtayt,الوطاية	34.96605	5.56644	A	ADM2	DZ		19	12952606			0		215	Africa/Algiers	2024-08-05
+12952607	Mechouneche	Mechouneche	Mechouneche,mshwnsh,مشونش	34.91236	6.0401	A	ADM2	DZ		19	12952607			0		605	Africa/Algiers	2024-08-05
+12952608	Sidi Okba	Sidi Okba	Sidi Okba,sydy ʿqbt,سيدي عقبة	34.64282	6.03901	A	ADM2	DZ		19	12952608			0		-2	Africa/Algiers	2024-08-05
+12952609	Tolga	Tolga	Tolga,twlqt,طولقة	34.90274	5.27525	A	ADM2	DZ		19	12952609			0		224	Africa/Algiers	2024-08-05
+12952610	El Affroun	El Affroun	El Affroun,alʿfrwn,العفرون	36.43426	2.58079	A	ADM2	DZ		20	12952610			0		183	Africa/Algiers	2024-08-05
+12952611	Bougara	Bougara	Bougara,bwqrt,بوقرة	36.45997	3.06349	A	ADM2	DZ		20	12952611			0		998	Africa/Algiers	2024-08-05
+12952612	Larbaa	Larbaa	Larbaa,alarbʿaʾ,الأربعاء	36.55688	3.20361	A	ADM2	DZ		20	12952612			0		306	Africa/Algiers	2024-08-05
+12952613	Meftah	Meftah	Meftah,mftah,مفتاح	36.61101	3.24028	A	ADM2	DZ		20	12952613			0		349	Africa/Algiers	2024-08-05
+12952614	Mouzaia	Mouzaia	Mouzaia,mwzayt,موزاية	36.44245	2.68514	A	ADM2	DZ		20	12952614			0		171	Africa/Algiers	2024-08-05
+12952615	Oued El Alleug	Oued El Alleug	Oued El Alleug,wady alʿlayq,وادي العلايق	36.56888	2.80942	A	ADM2	DZ		20	12952615			0		35	Africa/Algiers	2024-08-05
+12952616	Ouled Yaich	Ouled Yaich	Ouled Yaich,awlad yʿysh,أولاد يعيش	36.45769	2.88581	A	ADM2	DZ		20	12952616			0		935	Africa/Algiers	2024-08-05
+12952617	Ain Taghrout	Ain Taghrout	Ain Taghrout,ʿyn taghrwt,عين تاغروت	36.092	5.11422	A	ADM2	DZ		39	12952617			0		932	Africa/Algiers	2024-08-05
+12952618	Bordj Badji Mokhtar	Bordj Badji Mokhtar	Bordj Badji Mokhtar,brj bajy mkhtar,برج باجي مختار	23.26595	-0.63775	A	ADM2	DZ		BB	12952618			0		318	Africa/Algiers	2025-01-05
+12952619	Bir Kasdali	Bir Kasdali	Bir Kasdali,byr qasd ʿly,بئر قاصد علي	36.18105	4.98064	A	ADM2	DZ		39	12952619			0		1027	Africa/Algiers	2024-08-05
+12952620	Bordj Ghedir	Bordj Ghedir	Bordj Ghedir,brj alghdyr,برج الغدير	35.9218	4.9127	A	ADM2	DZ		39	12952620			0		1197	Africa/Algiers	2024-08-05
+12952621	El Hamadia	El Hamadia	El Hamadia,alhmadyt,الحمادية	35.93111	4.64494	A	ADM2	DZ		39	12952621			0		706	Africa/Algiers	2024-08-05
+12952622	Ksar El Hirane	Ksar El Hirane	Ksar El Hirane,qsr alhyran,قصر الحيران	33.59017	3.12567	A	ADM2	DZ		25	12952622			0		820	Africa/Algiers	2024-08-05
+12952623	Mansourah	Mansourah	Mansourah,almnswrt,المنصورة	36.13563	4.349	A	ADM2	DZ		39	12952623			0		911	Africa/Algiers	2024-08-05
+12952624	Medjana	Medjana	Medjana,mjant,مجانة	36.1535	4.66048	A	ADM2	DZ		39	12952624			0		1044	Africa/Algiers	2024-08-05
+12952625	Mansourah	Mansourah	Mansourah,almnswrt,المنصورة	31.96942	3.48156	A	ADM2	DZ		45	12952625			0		566	Africa/Algiers	2024-08-05
+12952626	Ras El Oued	Ras El Oued	Ras El Oued,ras alwady,رأس الوادي	35.96731	5.02655	A	ADM2	DZ		39	12952626			0		1044	Africa/Algiers	2024-08-05
+12952627	Ain Bessem	Ain Bessem	Ain Bessem,ʿyn bsam,عين بسام	36.34323	3.73593	A	ADM2	DZ		21	12952627			0		673	Africa/Algiers	2024-08-05
+12952628	Bechloul	Bechloul	Bechloul,bshlwl,بشلول	36.29174	4.07786	A	ADM2	DZ		21	12952628			0		530	Africa/Algiers	2024-08-05
+12952629	Bir Ghbalou	Bir Ghbalou	Bir Ghbalou,byr ghbalw,بئر غبالو	36.26257	3.60355	A	ADM2	DZ		21	12952629			0		631	Africa/Algiers	2024-08-05
+12952630	Bordj Okhriss	Bordj Okhriss	Bordj Okhriss,brj awkhrys,برج أوخريص	36.01369	3.93961	A	ADM2	DZ		21	12952630			0		967	Africa/Algiers	2024-08-05
+12952631	Metlili	Metlili	Metlili,mtlyly,متليلي	32.34592	3.28519	A	ADM2	DZ		45	12952631			0		644	Africa/Algiers	2024-08-05
+12952632	El Hachimia	El Hachimia	El Hachimia,alhashmyt,الهاشمية	36.22699	3.86598	A	ADM2	DZ		21	12952632			0		763	Africa/Algiers	2024-08-05
+12952633	M'chedallah	M'chedallah	M'chedallah,mshd allh,مشد الله	36.34274	4.26312	A	ADM2	DZ		21	12952633			0		312	Africa/Algiers	2024-08-05
+12952634	Zelfana	Zelfana	Zelfana,zlfant,زلفانة	32.40638	4.32952	A	ADM2	DZ		45	12952634			0		332	Africa/Algiers	2024-08-05
+12952635	Boudouaou	Boudouaou	Boudouaou,bwdwaw,بودواو	36.6581	3.43247	A	ADM2	DZ		40	12952635			0		192	Africa/Algiers	2024-08-05
+12952636	Boumerdes	Boumerdes	Boumerdes,bwmrdas,بومرداس	36.73105	3.48491	A	ADM2	DZ		40	12952636			0		79	Africa/Algiers	2024-08-05
+12952637	Asla	Asla	Asla,ʿslt,عسلة	32.7176	-0.18354	A	ADM2	DZ		49	12952637			0		1116	Africa/Algiers	2024-08-05
+12952638	Dellys	Dellys	Dellys,dls,دلس	36.86885	3.95088	A	ADM2	DZ		40	12952638			0		95	Africa/Algiers	2024-08-05
+12952639	Isser	Isser	Isser,ysr,يسر	36.67385	3.6951	A	ADM2	DZ		40	12952639			0		54	Africa/Algiers	2024-08-05
+12952640	Khemis El Khechna	Khemis El Khechna	Khemis El Khechna,khmys alkhshnt,خميس الخشنة	36.64255	3.33097	A	ADM2	DZ		40	12952640			0		97	Africa/Algiers	2024-08-05
+12952641	Naciria	Naciria	Naciria,alnasryt,الناصرية	36.75597	3.82242	A	ADM2	DZ		40	12952641			0		127	Africa/Algiers	2024-08-05
+12952642	Tiaret	Tiaret	Tiaret,tyart,تيارت	35.35116	1.33744	A	ADM2	DZ		13	12952642			0		986	Africa/Algiers	2024-08-05
+12952643	Thenia	Thenia	Thenia,althnyt,الثنية	36.67079	3.57696	A	ADM2	DZ		40	12952643			0		329	Africa/Algiers	2024-08-05
+12952644	Abou El Hassane	Abou El Hassane	Abou El Hassane,abw alhsn,أبو الحسن	36.38379	1.13179	A	ADM2	DZ		41	12952644			0		316	Africa/Algiers	2024-08-05
+12952645	Beni Haoua	Beni Haoua	Beni Haoua,bny hwaʾ,بني حواء	36.48943	1.54898	A	ADM2	DZ		41	12952645			0		566	Africa/Algiers	2024-08-05
+12952646	Boukadir	Boukadir	Boukadir,bwqadyr,بوقادير	36.07576	1.11347	A	ADM2	DZ		41	12952646			0		74	Africa/Algiers	2024-08-05
+12952647	Oued Fodda	Oued Fodda	Oued Fodda,wady alfdt,وادي الفضة	36.24827	1.52618	A	ADM2	DZ		41	12952647			0		221	Africa/Algiers	2024-08-05
+12952648	Chlef	Chlef	Chlef,alshlf,الشلف	36.11554	1.39664	A	ADM2	DZ		41	12952648			0		255	Africa/Algiers	2024-08-05
+12952649	Terrai Bainen	Terrai Bainen	Terrai Bainen,trʿy baynan,ترعي باينان	36.555	6.07585	A	ADM2	DZ		48	12952649			0		1148	Africa/Algiers	2024-08-05
+12952650	El Karimia	El Karimia	El Karimia,alkrymyt,الكريمية	36.06212	1.58071	A	ADM2	DZ		41	12952650			0		356	Africa/Algiers	2024-08-05
+12952651	Ibn Ziad	Ibn Ziad	Ibn Ziad,abn zyad,ابن زياد	36.40819	6.42834	A	ADM2	DZ		04	12952651			0		552	Africa/Algiers	2024-08-05
+12952652	El Marsa	El Marsa	El Marsa,almrsy,المرسى	36.38551	0.98241	A	ADM2	DZ		41	12952652			0		412	Africa/Algiers	2024-08-05
+12952653	Hammam N'bails	Hammam N'bails	Hammam N'bails,hmam alnbayl,حمام النبايل	36.33895	7.6985	A	ADM2	DZ		23	12952653			0		562	Africa/Algiers	2024-08-05
+12952654	Ouled Ben Abdelkader	Ouled Ben Abdelkader	Ouled Ben Abdelkader,awlad bn ʿbd alqadr,أولاد بن عبد القادر	35.98485	1.34272	A	ADM2	DZ		41	12952654			0		278	Africa/Algiers	2024-08-05
+12952655	Birine	Birine	Birine,byryn,بيرين	35.55013	3.1486	A	ADM2	DZ		22	12952655			0		688	Africa/Algiers	2024-08-05
+12952656	Ouled Fares	Ouled Fares	Ouled Fares,awlad fars,أولاد فارس	36.24999	1.27967	A	ADM2	DZ		41	12952656			0		259	Africa/Algiers	2024-08-05
+12952657	Charef	Charef	Charef,alsharf,الشارف	34.64344	2.62719	A	ADM2	DZ		22	12952657			0		974	Africa/Algiers	2024-08-05
+12952658	Zeboudja	Zeboudja	Zeboudja,alzbwjt,الزبوجة	36.3739	1.36524	A	ADM2	DZ		41	12952658			0		580	Africa/Algiers	2024-08-05
+12952659	Dar Chioukh	Dar Chioukh	Dar Chioukh,dar alshywkh,دار الشيوخ	34.8297	3.544	A	ADM2	DZ		22	12952659			0		1136	Africa/Algiers	2024-08-05
+12952660	Ain Abid	Ain Abid	Ain Abid,ʿyn ʿbyd,عين عبيد	36.29751	6.89449	A	ADM2	DZ		04	12952660			0		1052	Africa/Algiers	2024-08-05
+12952661	El Idrissia	El Idrissia	El Idrissia,aladrysyt,الادريسية	34.31647	2.62227	A	ADM2	DZ		22	12952661			0		1176	Africa/Algiers	2024-08-05
+12952662	El Khroub	El Khroub	El Khroub,alkhrwb,الخروب	36.24197	6.64292	A	ADM2	DZ		04	12952662			0		659	Africa/Algiers	2024-08-05
+12952663	Zighoud Youcef	Zighoud Youcef	Zighoud Youcef,zyghwd ywsf,زيغود يوسف	36.5278	6.66446	A	ADM2	DZ		04	12952663			0		669	Africa/Algiers	2024-08-05
+12952664	Brida	Brida	Brida,brydt,بريدة	33.9802	1.65275	A	ADM2	DZ		25	12952664			0		1394	Africa/Algiers	2024-08-05
+12952665	Hassi Bahbah	Hassi Bahbah	Hassi Bahbah,hasy bhbh,حاسي بحبح	34.91815	2.97869	A	ADM2	DZ		22	12952665			0		857	Africa/Algiers	2024-08-05
+12952666	Messaad	Messaad	Messaad,msʿd,مسعد	33.69019	3.92532	A	ADM2	DZ		22	12952666			0		752	Africa/Algiers	2024-08-05
+12952667	Ain El Ibel	Ain El Ibel	Ain El Ibel,ʿyn alabl,عين الإبل	34.4238	3.22577	A	ADM2	DZ		22	12952667			0		1140	Africa/Algiers	2024-08-05
+12952668	Sidi Laadjel	Sidi Laadjel	Sidi Laadjel,sydy lʿjal,سيدي لعجال	35.41174	2.45094	A	ADM2	DZ		22	12952668			0		685	Africa/Algiers	2024-08-05
+12952669	Faidh El Botma	Faidh El Botma	Faidh El Botma,fyd albtmt,فيض البطمة	33.8212	4.31835	A	ADM2	DZ		22	12952669			0		572	Africa/Algiers	2024-08-05
+12952670	Taleb Larbi	Taleb Larbi	Taleb Larbi,altalb alʿrby,الطالب العربي	32.84919	7.65089	A	ADM2	DZ		43	12952670			0		95	Africa/Algiers	2024-08-05
+12952671	Boualem	Boualem	Boualem,bwʿlam,بوعلام	33.65454	1.49642	A	ADM2	DZ		42	12952671			0		1595	Africa/Algiers	2024-08-05
+12952672	Berriane	Berriane	Berriane,bryan,بريان	32.87344	3.7701	A	ADM2	DZ		45	12952672			0		588	Africa/Algiers	2024-08-05
+12952673	Bounoura	Bounoura	Bounoura,bwnwrt,بونورة	32.51605	3.80416	A	ADM2	DZ		45	12952673			0		531	Africa/Algiers	2024-08-05
+12952674	Bougtoub	Bougtoub	Bougtoub,bwqtb,بوقطب	33.98686	0.25833	A	ADM2	DZ		42	12952674			0		1041	Africa/Algiers	2024-08-05
+12952675	El Guerrara	El Guerrara	El Guerrara,alqrart,القرارة	32.76461	4.51617	A	ADM2	DZ		45	12952675			0		296	Africa/Algiers	2024-08-05
+12952676	Brezina	Brezina	Brezina,bryzynt,بريزينة	32.74105	1.66165	A	ADM2	DZ		42	12952676			0		788	Africa/Algiers	2024-08-05
+12952677	Chellala	Chellala	Chellala,shlalt,شلالة	33.3025	0.31983	A	ADM2	DZ		42	12952677			0		1244	Africa/Algiers	2024-08-05
+12952678	Labiodh Sidi Cheikh	Labiodh Sidi Cheikh	Labiodh Sidi Cheikh,alabyd sydy alshykh,الأبيض سيدي الشيخ	31.94412	0.63243	A	ADM2	DZ		42	12952678			0		731	Africa/Algiers	2024-08-05
+12952679	Rogassa	Rogassa	Rogassa,rqast,رقاصة	34.01751	0.80839	A	ADM2	DZ		42	12952679			0		1083	Africa/Algiers	2024-08-05
+12952680	El Oued	El Oued	El Oued,alwady,الوادي	33.38545	6.80422	A	ADM2	DZ		43	12952680			0		86	Africa/Algiers	2024-08-05
+12952681	Magrane	Magrane	Magrane,almqrn,المقرن	33.87669	6.87468	A	ADM2	DZ		43	12952681			0		2	Africa/Algiers	2024-08-05
+12952682	Mih Ouensa	Mih Ouensa	Mih Ouensa,amyh wanst,اميه وانسة	33.06601	6.70437	A	ADM2	DZ		43	12952682			0		103	Africa/Algiers	2024-08-05
+12952683	Ben M'hidi	Ben M'hidi	Ben M'hidi,bn mhydy,بن مهيدي	36.81291	8.0137	A	ADM2	DZ		44	12952683			0		0	Africa/Algiers	2024-08-05
+12952684	Besbes	Besbes	Besbes,albsbas,البسباس	36.69915	7.8998	A	ADM2	DZ		44	12952684			0		75	Africa/Algiers	2024-08-05
+12952685	Bouhadjar	Bouhadjar	Bouhadjar,bwhjar,بوحجار	36.53233	8.07437	A	ADM2	DZ		44	12952685			0		231	Africa/Algiers	2024-08-05
+12952686	El Tarf	El Tarf	El Tarf,altarf,الطارف	36.69817	8.34515	A	ADM2	DZ		44	12952686			0		502	Africa/Algiers	2024-08-05
+12952687	Ain Makhlouf	Ain Makhlouf	Ain Makhlouf,ʿyn mkhlwf,عين مخلوف	36.19243	7.21878	A	ADM2	DZ		23	12952687			0		807	Africa/Algiers	2024-08-05
+12952688	Khezaras	Khezaras	Khezaras,khzart,خزارة	36.30532	7.51437	A	ADM2	DZ		23	12952688			0		897	Africa/Algiers	2024-08-05
+12952689	Guelaat Bousbaa	Guelaat Bousbaa	Guelaat Bousbaa,qlʿt bwsbʿ,قلعة بوصبع	36.50235	7.52614	A	ADM2	DZ		23	12952689			0		355	Africa/Algiers	2024-08-05
+12952690	Hammam Debagh	Hammam Debagh	Hammam Debagh,hmam dbagh,حمام دباغ	36.51746	7.187	A	ADM2	DZ		23	12952690			0		551	Africa/Algiers	2024-08-05
+12952691	In Amenas	In Amenas	In Amenas,an amnas,إن أمناس	28.70669	7.71127	A	ADM2	DZ		46	12952691			0		417	Africa/Algiers	2024-08-05
+12952692	Tin Zouatine	Tin Zouatine	Tin Zouatine,tyn zwatyn,تين زواتين	20.51282	3.18475	A	ADM2	DZ		IG	12952692			0		652	Africa/Algiers	2024-08-05
+12952693	Chekfa	Chekfa	Chekfa,alshqft,الشقفة	36.78537	6.0174	A	ADM2	DZ		24	12952693			0		631	Africa/Algiers	2024-08-05
+12952694	Djimla	Djimla	Djimla,jymlt,جيملة	36.59011	5.82928	A	ADM2	DZ		24	12952694			0		422	Africa/Algiers	2024-08-05
+12952695	El Aouana	El Aouana	El Aouana,alʿwant,العوانة	36.69488	5.63693	A	ADM2	DZ		24	12952695			0		655	Africa/Algiers	2024-08-05
+12952696	Sidi Marouf	Sidi Marouf	Sidi Marouf,sydy mʿrwf,سيدي معروف	36.63313	6.22836	A	ADM2	DZ		24	12952696			0		869	Africa/Algiers	2024-08-05
+12952697	Taher	Taher	Taher,altahyr,الطاهير	36.69468	5.94636	A	ADM2	DZ		24	12952697			0		497	Africa/Algiers	2024-08-05
+12952698	Oued Morra	Oued Morra	Oued Morra,wady mrt,وادي مرة	34.09777	2.3333	A	ADM2	DZ		25	12952698			0		1291	Africa/Algiers	2024-08-05
+12952699	Ziamah Mansouriah	Ziamah Mansouriah	Ziamah Mansouriah,zyamt mnswryt,زيامة منصورية	36.60269	5.56381	A	ADM2	DZ		24	12952699			0		684	Africa/Algiers	2024-08-05
+12952700	Ain Touila	Ain Touila	Ain Touila,ʿyn altwylt,عين الطويلة	35.50036	7.34944	A	ADM2	DZ		47	12952700			0		1140	Africa/Algiers	2024-08-05
+12952701	Bouhmama	Bouhmama	Bouhmama,bwhmamt,بوحمامة	35.22622	6.71884	A	ADM2	DZ		47	12952701			0		1250	Africa/Algiers	2024-08-05
+12952702	Chechar	Chechar	Chechar,shshar,ششار	34.93257	6.91979	A	ADM2	DZ		47	12952702			0		1319	Africa/Algiers	2024-08-05
+12952703	El Hamma	El Hamma	El Hamma,alhamt,الحامة	35.38319	7.03898	A	ADM2	DZ		47	12952703			0		1663	Africa/Algiers	2024-08-05
+12952704	Kais	Kais	Kais,qays,قايس	35.52139	6.84529	A	ADM2	DZ		47	12952704			0		885	Africa/Algiers	2024-08-05
+12952705	Ouled Rechache	Ouled Rechache	Ouled Rechache,awlad rshash,أولاد رشاش	35.24834	7.30518	A	ADM2	DZ		47	12952705			0		1363	Africa/Algiers	2024-08-05
+12952706	Ain Madhi	Ain Madhi	Ain Madhi,ʿyn mady,عين ماضي	33.44566	2.45748	A	ADM2	DZ		25	12952706			0		898	Africa/Algiers	2024-08-05
+12952707	Gueltat Sidi Saad	Gueltat Sidi Saad	Gueltat Sidi Saad,qtlt sydy sʿyd,قتلة سيدي سعيد	34.34038	1.89682	A	ADM2	DZ		25	12952707			0		1176	Africa/Algiers	2024-08-05
+12952708	Hassi R'mel	Hassi R'mel	Hassi R'mel,hasy alrml,حاسي الرمل	33.25155	3.53641	A	ADM2	DZ		25	12952708			0		733	Africa/Algiers	2024-08-05
+12952709	Sidi Makhlouf	Sidi Makhlouf	Sidi Makhlouf,sydy mkhlwf,سيدي مخلوف	34.04289	2.89917	A	ADM2	DZ		25	12952709			0		934	Africa/Algiers	2024-08-05
+12952710	Ain Fares	Ain Fares	Ain Fares,ʿyn fars,عين فارس	35.46977	0.18807	A	ADM2	DZ		26	12952710			0		692	Africa/Algiers	2024-08-05
+12952711	Ain Fekan	Ain Fekan	Ain Fekan,ʿyn fkan,عين فكان	35.19039	-0.0703	A	ADM2	DZ		26	12952711			0		343	Africa/Algiers	2024-08-05
+12952712	Aouf	Aouf	Aouf,ʿwf,عوف	35.11548	0.34974	A	ADM2	DZ		26	12952712			0		780	Africa/Algiers	2024-08-05
+12952713	Bouhanifia	Bouhanifia	Bouhanifia,bwhnyfyt,بوحنيفية	35.38193	-0.05284	A	ADM2	DZ		26	12952713			0		215	Africa/Algiers	2024-08-05
+12952714	El Bordj	El Bordj	El Bordj,albrj,البرج	35.5165	0.37099	A	ADM2	DZ		26	12952714			0		787	Africa/Algiers	2024-08-05
+12952715	Ghriss	Ghriss	Ghriss,ghrys,غريس	35.2605	0.23438	A	ADM2	DZ		26	12952715			0		594	Africa/Algiers	2024-08-05
+12952716	Hachem	Hachem	Hachem,alhshm,الحشم	35.31045	0.51301	A	ADM2	DZ		26	12952716			0		728	Africa/Algiers	2024-08-05
+12952717	Oued El Abtal	Oued El Abtal	Oued El Abtal,wady alabtal,وادي الأبطال	35.41036	0.69196	A	ADM2	DZ		26	12952717			0		387	Africa/Algiers	2024-08-05
+12952718	Sig	Sig	Sig,syq,سيق	35.48543	-0.15712	A	ADM2	DZ		26	12952718			0		390	Africa/Algiers	2024-08-05
+12952719	Zahana	Zahana	Zahana,zhant,زهانة	35.46476	-0.37514	A	ADM2	DZ		26	12952719			0		327	Africa/Algiers	2024-08-05
+12952720	Chellalat El Adhaoura	Chellalat El Adhaoura	Chellalat El Adhaoura,shlalt alʿdhawrt,شلالة العذاورة	35.90847	3.45541	A	ADM2	DZ		06	12952720			0		876	Africa/Algiers	2024-08-05
+12952721	Aziz	Aziz	Aziz,ʿzyz,عزيز	35.80038	2.48555	A	ADM2	DZ		06	12952721			0		976	Africa/Algiers	2024-08-05
+12952722	Berrouaghia	Berrouaghia	Berrouaghia,albrwaqyt,البرواقية	36.09341	3.04183	A	ADM2	DZ		06	12952722			0		913	Africa/Algiers	2024-08-05
+12952723	Ben Srour	Ben Srour	Ben Srour,bn srwr,بن سرور	34.95683	4.65807	A	ADM2	DZ		27	12952723			0		610	Africa/Algiers	2024-08-05
+12952724	Chahbounia	Chahbounia	Chahbounia,alshhbwnyt,الشهبونية	35.62984	2.55634	A	ADM2	DZ		06	12952724			0		699	Africa/Algiers	2024-08-05
+12952725	El Azizia	El Azizia	El Azizia,alʿzyzyt,العزيزية	36.36651	3.48444	A	ADM2	DZ		06	12952725			0		825	Africa/Algiers	2024-08-05
+12952726	Medea	Medea	Medea,almdyt,المدية	36.30297	2.71165	A	ADM2	DZ		06	12952726			0		837	Africa/Algiers	2024-08-05
+12952727	El Omaria	El Omaria	El Omaria,alʿmaryt,العمارية	36.31738	3.05232	A	ADM2	DZ		06	12952727			0		955	Africa/Algiers	2024-08-05
+12952728	Mila	Mila	Mila,mylt,ميلة	36.42089	6.27029	A	ADM2	DZ		48	12952728			0		741	Africa/Algiers	2025-02-17
+12952729	Ouamri	Ouamri	Ouamri,ʿwamry,عوامري	36.2324	2.59356	A	ADM2	DZ		06	12952729			0		738	Africa/Algiers	2024-08-05
+12952730	Oued Endja	Oued Endja	Oued Endja,wady alnjaʾ,وادي النجاء	36.41877	6.1471	A	ADM2	DZ		48	12952730			0		370	Africa/Algiers	2024-08-05
+12952731	Ouled Antar	Ouled Antar	Ouled Antar,awlad ʿntr,أولاد عنتر	35.97908	2.61364	A	ADM2	DZ		06	12952731			0		909	Africa/Algiers	2024-08-05
+12952732	Rouached	Rouached	Rouached,alrwashd,الرواشد	36.45147	6.01828	A	ADM2	DZ		48	12952732			0		724	Africa/Algiers	2024-08-05
+12952733	Ouzera	Ouzera	Ouzera,wzrt,وزرة	36.28219	2.8544	A	ADM2	DZ		06	12952733			0		801	Africa/Algiers	2024-08-05
+12952734	Sidi Merouane	Sidi Merouane	Sidi Merouane,sydy mrwan,سيدي مروان	36.54582	6.24675	A	ADM2	DZ		48	12952734			0		315	Africa/Algiers	2024-08-05
+12952735	Seghouane	Seghouane	Seghouane,sghwan,سغوان	36.0164	2.89642	A	ADM2	DZ		06	12952735			0		680	Africa/Algiers	2024-08-05
+12952736	Tadjenanet	Tadjenanet	Tadjenanet,tajnant,تاجنانت	36.06973	6.04935	A	ADM2	DZ		48	12952736			0		849	Africa/Algiers	2024-08-05
+12952737	Sidi Naamane	Sidi Naamane	Sidi Naamane,sydy nʿman,سيدي نعمان	36.25179	3.14643	A	ADM2	DZ		06	12952737			0		651	Africa/Algiers	2024-08-05
+12952738	Si Mahdjoub	Si Mahdjoub	Si Mahdjoub,sy almhjwb,سي المحجوب	36.13029	2.69607	A	ADM2	DZ		06	12952738			0		515	Africa/Algiers	2024-08-05
+12952739	Souaghi	Souaghi	Souaghi,alswaqy,السواقي	36.09612	3.31528	A	ADM2	DZ		06	12952739			0		861	Africa/Algiers	2024-08-05
+12952740	Grarem Gouga	Grarem Gouga	Grarem Gouga,alqrarm qwqt,القرارم قوقة	36.55033	6.3798	A	ADM2	DZ		48	12952740			0		541	Africa/Algiers	2024-08-05
+12952741	Tassadane Haddada	Tassadane Haddada	Tassadane Haddada,tsdan hdadt,تسدان حدادة	36.52269	5.86131	A	ADM2	DZ		48	12952741			0		477	Africa/Algiers	2024-08-05
+12952742	Teleghma	Teleghma	Teleghma,altlaghmt,التلاغمة	36.0951	6.3293	A	ADM2	DZ		48	12952742			0		766	Africa/Algiers	2024-08-05
+12952743	Achaacha	Achaacha	Achaacha,ʿshʿasht,عشعاشة	36.24378	0.6289	A	ADM2	DZ		07	12952743			0		223	Africa/Algiers	2024-08-05
+12952744	Ain Tedeles	Ain Tedeles	Ain Tedeles,ʿyn tadls,عين تادلس	35.98152	0.31983	A	ADM2	DZ		07	12952744			0		202	Africa/Algiers	2024-08-05
+12952745	Bouguirat	Bouguirat	Bouguirat,bwqyrat,بوقيراط	35.81503	0.30011	A	ADM2	DZ		07	12952745			0		214	Africa/Algiers	2024-08-05
+12952746	Hassi Mameche	Hassi Mameche	Hassi Mameche,hasy mamash,حاسي ماماش	35.84759	0.04985	A	ADM2	DZ		07	12952746			0		164	Africa/Algiers	2024-08-05
+12952747	Sidi Lakhdar	Sidi Lakhdar	Sidi Lakhdar,sydy lkhdr,سيدي لخضر	36.13489	0.32733	A	ADM2	DZ		07	12952747			0		114	Africa/Algiers	2024-08-05
+12952748	Ain El Melh	Ain El Melh	Ain El Melh,ʿyn almlh,عين الملح	34.65988	4.13271	A	ADM2	DZ		27	12952748			0		923	Africa/Algiers	2024-08-05
+12952749	Naama	Naama	Naama,alnʿamt,النعامة	33.2592	-0.33359	A	ADM2	DZ		49	12952749			0		1169	Africa/Algiers	2024-08-05
+12952750	Chellal	Chellal	Chellal,shlal,شلال	35.52984	4.36706	A	ADM2	DZ		27	12952750			0		413	Africa/Algiers	2024-08-05
+12952751	Sfissifa	Sfissifa	Sfissifa,sfysyft,سفيسيفة	32.77753	-0.97504	A	ADM2	DZ		49	12952751			0		1318	Africa/Algiers	2024-08-05
+12952752	Bir El Djir	Bir El Djir	Bir El Djir,byr aljyr,بئر الجير	35.72601	-0.50971	A	ADM2	DZ		09	12952752			0		168	Africa/Algiers	2024-08-05
+12952753	Hammam Dalaa	Hammam Dalaa	Hammam Dalaa,hmam aldlʿt,حمام الضلعة	35.86727	4.32215	A	ADM2	DZ		27	12952753			0		892	Africa/Algiers	2024-08-05
+12952754	Khoubana	Khoubana	Khoubana,khbant,خبانة	35.25461	4.58362	A	ADM2	DZ		27	12952754			0		663	Africa/Algiers	2024-08-05
+12952755	Magra	Magra	Magra,mqrt,مقرة	35.60973	5.07011	A	ADM2	DZ		27	12952755			0		538	Africa/Algiers	2024-08-05
+12952756	Es Senia	Es Senia	Es Senia,alsanyt,السانية	35.63345	-0.57565	A	ADM2	DZ		09	12952756			0		87	Africa/Algiers	2024-08-05
+12952757	Ouled Derradj	Ouled Derradj	Ouled Derradj,awlad draj,أولاد دراج	35.76009	4.75668	A	ADM2	DZ		27	12952757			0		699	Africa/Algiers	2024-08-05
+12952758	Ouled Sidi Brahim	Ouled Sidi Brahim	Ouled Sidi Brahim,awlad sydy abrahym,أولاد سيدي ابراهيم	35.4357	4.11422	A	ADM2	DZ		27	12952758			0		542	Africa/Algiers	2024-08-05
+12952759	Sidi Khouiled	Sidi Khouiled	Sidi Khouiled,sydy khwyld,سيدي خويلد	31.99398	5.69548	A	ADM2	DZ		50	12952759			0		174	Africa/Algiers	2024-08-05
+12952760	Sidi Aissa	Sidi Aissa	Sidi Aissa,sydy ʿysy,سيدي عيسى	35.76313	3.72225	A	ADM2	DZ		27	12952760			0		599	Africa/Algiers	2024-08-05
+12952761	Mekmen Ben Amar	Mekmen Ben Amar	Mekmen Ben Amar,mkmn bn ʿmar,مكمن بن عمار	33.75141	-1.18477	A	ADM2	DZ		49	12952761			0		1077	Africa/Algiers	2024-08-05
+12952762	Moghrar	Moghrar	Moghrar,mghrar,مغرار	32.39821	-0.67254	A	ADM2	DZ		49	12952762			0		1346	Africa/Algiers	2024-08-05
+12952763	Oued Tlelat	Oued Tlelat	Oued Tlelat,wady tlylat,وادي تليلات	35.55042	-0.48647	A	ADM2	DZ		09	12952763			0		115	Africa/Algiers	2024-08-05
+12952764	Hassi Messaoud	Hassi Messaoud	Hassi Messaoud,hasy msʿwd,حاسي مسعود	30.36095	5.16212	A	ADM2	DZ		50	12952764			0		222	Africa/Algiers	2024-08-05
+12952765	N'goussa	N'goussa	N'goussa,anqwst,انقوسة	32.35755	5.30843	A	ADM2	DZ		50	12952765			0		110	Africa/Algiers	2024-08-05
+12952766	Ouled Djellal	Ouled Djellal	Ouled Djellal,awlad jlal,أولاد جلال	34.61546	4.93028	A	ADM2	DZ		OD	12952766			0		289	Africa/Algiers	2024-08-05
+12952767	Dhalaa	Dhalaa	Dhalaa,aldlʿt,الضلعة	35.59067	7.54858	A	ADM2	DZ		29	12952767			0		1091	Africa/Algiers	2024-08-05
+12952768	Sidi Khaled	Sidi Khaled	Sidi Khaled,sydy  khald,سيدي  خالد	34.09343	4.77253	A	ADM2	DZ		OD	12952768			0		422	Africa/Algiers	2024-08-05
+12952769	F'kirina	F'kirina	F'kirina,fkyrynt,فكيرينة	35.66081	7.35827	A	ADM2	DZ		29	12952769			0		877	Africa/Algiers	2024-08-05
+12952770	Ksar Sbahi	Ksar Sbahi	Ksar Sbahi,qsr alsbahy,قصر الصباحي	36.06371	7.26827	A	ADM2	DZ		29	12952770			0		786	Africa/Algiers	2024-08-05
+12952771	Ain Kechra	Ain Kechra	Ain Kechra,ʿyn qshrt,عين قشرة	36.807	6.42364	A	ADM2	DZ		31	12952771			0		503	Africa/Algiers	2024-08-05
+12952772	Meskiana	Meskiana	Meskiana,mskyant,مسكيانة	35.70012	7.70761	A	ADM2	DZ		29	12952772			0		818	Africa/Algiers	2024-08-05
+12952773	Souk Naamane	Souk Naamane	Souk Naamane,swq nʿman,سوق نعمان	35.90296	6.38266	A	ADM2	DZ		29	12952773			0		824	Africa/Algiers	2024-08-05
+12952774	Oum El Bouaghi	Oum El Bouaghi	Oum El Bouaghi,am albwaqy,أم البواقي	35.75826	7.05477	A	ADM2	DZ		29	12952774			0		947	Africa/Algiers	2024-08-05
+12952775	Sigus	Sigus	Sigus,syqws,سيقوس	36.09828	6.83552	A	ADM2	DZ		29	12952775			0		791	Africa/Algiers	2024-08-05
+12952776	Ain Tarek	Ain Tarek	Ain Tarek,ʿyn tarq,عين طارق	35.782	1.129	A	ADM2	DZ		51	12952776			0		225	Africa/Algiers	2025-01-20
+12952777	Djidiouia	Djidiouia	Djidiouia,jdywyt,جديوية	35.97679	0.75434	A	ADM2	DZ		51	12952777			0		45	Africa/Algiers	2024-08-05
+12952778	Ammi Moussa	Ammi Moussa	Ammi Moussa,ʿmy mwsy,عمي موسى	35.84112	1.06615	A	ADM2	DZ		51	12952778			0		325	Africa/Algiers	2024-08-05
+12952779	El Matmar	El Matmar	El Matmar,almtmr,المطمر	35.5737	0.6202	A	ADM2	DZ		51	12952779			0		95	Africa/Algiers	2024-08-05
+12952780	Mendes	Mendes	Mendes,mndas,منداس	35.59274	0.86575	A	ADM2	DZ		51	12952780			0		548	Africa/Algiers	2024-08-05
+12952781	Relizane	Relizane	Relizane,ghlyzan,غليزان	36.0559	4.17364	A	ADM2	DZ		51	12952781			0		1097	Africa/Algiers	2024-08-05
+12952782	Sidi M'hamed Ben Ali	Sidi M'hamed Ben Ali	Sidi M'hamed Ben Ali,sydy amhmd bn ʿly,سيدي أمحمد بن علي	36.14185	0.75514	A	ADM2	DZ		51	12952782			0		425	Africa/Algiers	2024-08-05
+12952783	Yellel	Yellel	Yellel,yll,يلل	35.67393	0.3647	A	ADM2	DZ		51	12952783			0		277	Africa/Algiers	2024-08-05
+12952784	Ouled Brahim	Ouled Brahim	Ouled Brahim,awlad abrahym,أولاد ابراهيم	34.98416	0.51772	A	ADM2	DZ		10	12952784			0		1070	Africa/Algiers	2024-08-05
+12952785	Zemmoura	Zemmoura	Zemmoura,zmwrt,زمورة	35.74662	0.76735	A	ADM2	DZ		51	12952785			0		222	Africa/Algiers	2024-08-05
+12952786	Ain El Hadjar	Ain El Hadjar	Ain El Hadjar,ʿyn alhjr,عين الحجر	34.58766	0.11527	A	ADM2	DZ		10	12952786			0		1158	Africa/Algiers	2024-08-05
+12952787	El Hassasna	El Hassasna	El Hassasna,alhsasnt,الحساسنة	34.63705	0.54389	A	ADM2	DZ		10	12952787			0		1115	Africa/Algiers	2024-08-05
+12952788	Sidi Boubekeur	Sidi Boubekeur	Sidi Boubekeur,sydy bwbkr,سيدي بوبكر	34.99759	0.0446	A	ADM2	DZ		10	12952788			0		636	Africa/Algiers	2024-08-05
+12952789	Ramdane Djamel	Ramdane Djamel	Ramdane Djamel,rmdan jmal,رمضان جمال	36.76908	6.94309	A	ADM2	DZ		31	12952789			0		54	Africa/Algiers	2024-08-05
+12952790	Youb	Youb	Youb,ywb,يوب	34.89906	-0.14823	A	ADM2	DZ		10	12952790			0		675	Africa/Algiers	2024-08-05
+12952791	El-Hadjira	El-Hadjira	El-Hadjira,alhjyrt,الحجيرة	32.92668	5.44499	A	ADM2	DZ		TG	12952791			0		170	Africa/Algiers	2024-08-05
+12952792	Ain Arnat	Ain Arnat	Ain Arnat,ʿyn arnat,عين أرنات	36.21492	5.29871	A	ADM2	DZ		12	12952792			0		1051	Africa/Algiers	2024-08-05
+12952793	Hammam Sokhna	Hammam Sokhna	Hammam Sokhna,hmam alskhnt,حمام السخنة	35.95817	5.83473	A	ADM2	DZ		12	12952793			0		881	Africa/Algiers	2024-08-05
+12952794	Ain Azel	Ain Azel	Ain Azel,ʿyn azal,عين أزال	35.88828	5.54921	A	ADM2	DZ		12	12952794			0		896	Africa/Algiers	2024-08-05
+12952795	Amoucha	Amoucha	Amoucha,ʿmwsht,عموشة	36.42461	5.39686	A	ADM2	DZ		12	12952795			0		743	Africa/Algiers	2024-08-05
+12952796	Babor	Babor	Babor,babwr,بابور	36.48819	5.53304	A	ADM2	DZ		12	12952796			0		918	Africa/Algiers	2024-08-05
+12952797	Beni Aziz	Beni Aziz	Beni Aziz,bny ʿzyz,بني عزيز	36.4481	5.69797	A	ADM2	DZ		12	12952797			0		579	Africa/Algiers	2024-08-05
+12952798	Beni Ourtilane	Beni Ourtilane	Beni Ourtilane,bny wrtylan,بني ورتيلان	36.44548	4.87183	A	ADM2	DZ		12	12952798			0		1079	Africa/Algiers	2024-08-05
+12952799	Bir El Arch	Bir El Arch	Bir El Arch,byr alʿrsh,بئر العرش	36.15354	5.84535	A	ADM2	DZ		12	12952799			0		993	Africa/Algiers	2024-08-05
+12952800	Bouandas	Bouandas	Bouandas,bwʿndas,بوعنداس	36.51516	5.07888	A	ADM2	DZ		12	12952800			0		1240	Africa/Algiers	2024-08-05
+12952801	Guidjel	Guidjel	Guidjel,qjal,قجال	36.1096	5.50575	A	ADM2	DZ		12	12952801			0		980	Africa/Algiers	2024-08-05
+12952802	Hammam Guergour	Hammam Guergour	Hammam Guergour,hmam qrqwr,حمام قرقور	36.38814	5.00891	A	ADM2	DZ		12	12952802			0		749	Africa/Algiers	2024-08-05
+12952803	Salah Bey	Salah Bey	Salah Bey,salh bay,صالح باي	35.76302	5.25802	A	ADM2	DZ		12	12952803			0		1099	Africa/Algiers	2024-08-05
+12952804	Ain El Berd	Ain El Berd	Ain El Berd,ʿyn albrd,عين البرد	35.3426	-0.51014	A	ADM2	DZ		30	12952804			0		432	Africa/Algiers	2024-08-05
+12952805	Marhoum	Marhoum	Marhoum,mrhwm,مرحوم	34.32799	-0.32071	A	ADM2	DZ		30	12952805			0		1094	Africa/Algiers	2024-08-05
+12952806	Moulay Slissen	Moulay Slissen	Moulay Slissen,mwlay slysn,مولاي سليسن	34.77977	-0.76865	A	ADM2	DZ		30	12952806			0		858	Africa/Algiers	2024-08-05
+12952807	Merine	Merine	Merine,mryn,مرين	34.68811	-0.30903	A	ADM2	DZ		30	12952807			0		979	Africa/Algiers	2024-08-05
+12952808	Mostefa  Ben Brahim	Mostefa  Ben Brahim	Mostefa  Ben Brahim,mstfy bn abrahym,مصطفى بن ابراهيم	35.19148	-0.44311	A	ADM2	DZ		30	12952808			0		581	Africa/Algiers	2024-08-05
+12952809	Ras El Ma	Ras El Ma	Ras El Ma,ras almaʾ,راس الماء	34.4067	-0.82139	A	ADM2	DZ		30	12952809			0		1184	Africa/Algiers	2024-08-05
+12952810	Sidi Ali Boussidi	Sidi Ali Boussidi	Sidi Ali Boussidi,sydy ʿly bwsydy,سيدي علي بوسيدي	35.11291	-0.86962	A	ADM2	DZ		30	12952810			0		665	Africa/Algiers	2024-08-05
+12952811	Sfisef	Sfisef	Sfisef,sfyzf,سفيزف	35.2525	-0.28084	A	ADM2	DZ		30	12952811			0		674	Africa/Algiers	2024-08-05
+12952812	Sidi Ali Ben Youb	Sidi Ali Ben Youb	Sidi Ali Ben Youb,sydy ʿly bn ywb,سيدي علي بن يوب	34.9977	-0.71912	A	ADM2	DZ		30	12952812			0		655	Africa/Algiers	2024-08-05
+12952813	Sidi Lahcene	Sidi Lahcene	Sidi Lahcene,sydy lhsn,سيدي لحسن	35.14167	-0.69041	A	ADM2	DZ		30	12952813			0		506	Africa/Algiers	2024-08-05
+12952814	Tessala	Tessala	Tessala,tsalt,تسالة	35.2718	-0.75313	A	ADM2	DZ		30	12952814			0		646	Africa/Algiers	2024-08-05
+12952815	Tenira	Tenira	Tenira,tnyrt,تنيرة	35.01653	-0.44523	A	ADM2	DZ		30	12952815			0		626	Africa/Algiers	2024-08-05
+12952816	Azzaba	Azzaba	Azzaba,ʿzabt,عزابة	36.72883	7.11783	A	ADM2	DZ		31	12952816			0		81	Africa/Algiers	2024-08-05
+12952817	Taibet	Taibet	Taibet,altybat,الطيبات	32.8821	6.42102	A	ADM2	DZ		TG	12952817			0		114	Africa/Algiers	2024-08-05
+12952818	El Harrouch	El Harrouch	El Harrouch,alhrwsh,الحروش	36.60156	6.88283	A	ADM2	DZ		31	12952818			0		145	Africa/Algiers	2024-08-05
+12952819	Ouled Attia	Ouled Attia	Ouled Attia,awlad ʿtyt,أولاد عطية	36.96463	6.33638	A	ADM2	DZ		31	12952819			0		241	Africa/Algiers	2024-08-05
+12952820	Oum Toub	Oum Toub	Oum Toub,am altwb,أم الطوب	36.71034	6.54353	A	ADM2	DZ		31	12952820			0		554	Africa/Algiers	2024-08-05
+12952821	Sidi Mezghiche	Sidi Mezghiche	Sidi Mezghiche,sydy mzghysh,سيدي مزغيش	36.6496	6.65326	A	ADM2	DZ		31	12952821			0		290	Africa/Algiers	2024-08-05
+12952822	Bordj Emir Abdelkader	Bordj Emir Abdelkader	Bordj Emir Abdelkader,brj alamyr ʿbd alqadr,برج الأمير عبد القادر	35.85117	2.1938	A	ADM2	DZ		56	12952822			0		1114	Africa/Algiers	2024-08-05
+12952823	Tamalous	Tamalous	Tamalous,tmalws,تمالوس	36.86013	6.6234	A	ADM2	DZ		31	12952823			0		151	Africa/Algiers	2024-08-05
+12952824	Zitouna	Zitouna	Zitouna,alzytwnt,الزيتونة	37.02881	6.44152	A	ADM2	DZ		31	12952824			0		607	Africa/Algiers	2024-08-05
+12952825	Bir Bouhouche	Bir Bouhouche	Bir Bouhouche,byr bwhwsh,بئر بوحوش	36.04066	7.45017	A	ADM2	DZ		52	12952825			0		789	Africa/Algiers	2024-08-05
+12952826	Haddada	Haddada	Haddada,alhdadt,الحدادة	36.28592	8.28489	A	ADM2	DZ		52	12952826			0		618	Africa/Algiers	2024-08-05
+12952827	M'daourouche	M'daourouche	M'daourouche,mdawrwsh,مداوروش	36.1218	7.76723	A	ADM2	DZ		52	12952827			0		945	Africa/Algiers	2024-08-05
+12952828	Mechroha	Mechroha	Mechroha,almshrwht,المشروحة	36.32024	7.85641	A	ADM2	DZ		52	12952828			0		1061	Africa/Algiers	2024-08-05
+12952829	Bir Mokadem	Bir Mokadem	Bir Mokadem,byr mqdm,بئر مقدم	35.4295	7.77983	A	ADM2	DZ		33	12952829			0		1187	Africa/Algiers	2024-08-05
+12952830	Merahna	Merahna	Merahna,almrahnt,المراهنة	36.16266	8.1727	A	ADM2	DZ		52	12952830			0		925	Africa/Algiers	2024-08-05
+12952831	Ouled Driss	Ouled Driss	Ouled Driss,awlad adrys,أولاد إدريس	36.3869	8.13545	A	ADM2	DZ		52	12952831			0		907	Africa/Algiers	2024-08-05
+12952832	Oum El Adhaim	Oum El Adhaim	Oum El Adhaim,am alʿzaym,أم العظايم	35.95949	7.71953	A	ADM2	DZ		52	12952832			0		765	Africa/Algiers	2024-08-05
+12952833	Morsott	Morsott	Morsott,mrst,مرسط	35.62562	7.95657	A	ADM2	DZ		33	12952833			0		741	Africa/Algiers	2024-08-05
+12952834	Sedrata	Sedrata	Sedrata,sdratt,سدراتة	36.16641	7.5041	A	ADM2	DZ		52	12952834			0		1057	Africa/Algiers	2024-08-05
+12952835	Negrine	Negrine	Negrine,nqryn,نقرين	34.41317	7.51963	A	ADM2	DZ		33	12952835			0		137	Africa/Algiers	2024-08-05
+12952836	Taoura	Taoura	Taoura,tawrt,تاورة	36.10444	8.00087	A	ADM2	DZ		52	12952836			0		926	Africa/Algiers	2024-08-05
+12952837	Hamadia	Hamadia	Hamadia,hmadyt,حمادية	35.36162	2.04573	A	ADM2	DZ		13	12952837			0		821	Africa/Algiers	2024-08-05
+12952838	Bir El Ater	Bir El Ater	Bir El Ater,byr alʿatr,بئر العاتر	34.82183	7.99308	A	ADM2	DZ		33	12952838			0		865	Africa/Algiers	2024-08-05
+12952839	Ksar Chellala	Ksar Chellala	Ksar Chellala,qsr alshlalt,قصر الشلالة	35.08633	2.38996	A	ADM2	DZ		13	12952839			0		802	Africa/Algiers	2024-08-05
+12952840	Cheria	Cheria	Cheria,alshryʿt,الشريعة	34.92589	7.74043	A	ADM2	DZ		33	12952840			0		892	Africa/Algiers	2024-08-05
+12952841	Aougrout	Aougrout	Aougrout,Augrut,awqrwt,Аугрут,أوقروت	28.85724	1.01251	A	ADM2	DZ		TM	12952841			0		424	Africa/Algiers	2025-01-05
+12952842	Tinerkouk	Tinerkouk	Tinerkouk,Tinerkuk,dajra Tinerkuk,tnrkwk,Тинеркук,дайра Тинеркук,تنركوك	30.41699	1.02716	A	ADM2	DZ		TM	12952842			0		500	Africa/Algiers	2025-01-07
+12952843	El Ogla	El Ogla	El Ogla,alʿqlt,العقلة	34.98619	7.49823	A	ADM2	DZ		33	12952843			0		1113	Africa/Algiers	2024-08-05
+12952844	Ouenza	Ouenza	Ouenza,alwnzt,الونزة	35.75466	8.21101	A	ADM2	DZ		33	12952844			0		683	Africa/Algiers	2024-08-05
+12952845	Oum Ali	Oum Ali	Oum Ali,am ʿly,أم علي	34.97373	8.21876	A	ADM2	DZ		33	12952845			0		887	Africa/Algiers	2024-08-05
+12952846	Ain Deheb	Ain Deheb	Ain Deheb,ʿyn aldhhb,عين الذهب	34.6197	1.53465	A	ADM2	DZ		13	12952846			0		1020	Africa/Algiers	2024-08-05
+12952847	Ain Kermes	Ain Kermes	Ain Kermes,ʿyn krms,عين كرمس	34.67616	1.0101	A	ADM2	DZ		13	12952847			0		1081	Africa/Algiers	2024-08-05
+12952848	Dahmouni	Dahmouni	Dahmouni,dhmwny,دحموني	35.39281	1.44789	A	ADM2	DZ		13	12952848			0		965	Africa/Algiers	2024-08-05
+12952849	Mechraa Sfa	Mechraa Sfa	Mechraa Sfa,mshrʿ alsfa,مشرع الصفا	35.35977	1.03803	A	ADM2	DZ		13	12952849			0		536	Africa/Algiers	2024-08-05
+12952850	Medroussa	Medroussa	Medroussa,mdrwst,مدروسة	35.22141	1.13945	A	ADM2	DZ		13	12952850			0		890	Africa/Algiers	2024-08-05
+12952851	Hadjout	Hadjout	Hadjout,hjwt,حجوط	36.48201	2.38953	A	ADM2	DZ		55	12952851			0		151	Africa/Algiers	2024-08-05
+12952852	Oued Lili	Oued Lili	Oued Lili,wady lyly,وادي ليلي	35.54928	1.25524	A	ADM2	DZ		13	12952852			0		516	Africa/Algiers	2024-08-05
+12952853	Bordj Bounaama	Bordj Bounaama	Bordj Bounaama,brj bwnʿamt,برج بونعامة	35.82852	1.72952	A	ADM2	DZ		56	12952853			0		817	Africa/Algiers	2024-08-05
+12952854	Rahouia	Rahouia	Rahouia,rhwyt,رحوية	35.49033	1.08215	A	ADM2	DZ		13	12952854			0		767	Africa/Algiers	2024-08-05
+12952855	Beni Snous	Beni Snous	Beni Snous,bny snws,بني سنوس	34.64039	-1.53348	A	ADM2	DZ		15	12952855			0		961	Africa/Algiers	2024-08-05
+12952856	Sougueur	Sougueur	Sougueur,alswqr,السوقر	34.9842	1.83729	A	ADM2	DZ		13	12952856			0		1220	Africa/Algiers	2024-08-05
+12952857	Tindouf	Tindouf	Tindouf,tndwf,تندوف	27.69624	-6.07422	A	ADM2	DZ		54	12952857			0		411	Africa/Algiers	2024-08-05
+12952858	Ahmar El Ain	Ahmar El Ain	Ahmar El Ain,ahmr alʿyn,أحمر العين	36.51252	2.5347	A	ADM2	DZ		55	12952858			0		61	Africa/Algiers	2024-08-05
+12952859	Fouka	Fouka	Fouka,fwkt,فوكة	36.66913	2.77494	A	ADM2	DZ		55	12952859			0		112	Africa/Algiers	2024-08-05
+12952860	Sidi Amar	Sidi Amar	Sidi Amar,sydy aʿmr,سيدي أعمر	36.51186	2.25806	A	ADM2	DZ		55	12952860			0		281	Africa/Algiers	2024-08-05
+12952861	Benni Yenni	Benni Yenni	Benni Yenni,bny yny,بني يني	36.53449	4.26665	A	ADM2	DZ		14	12952861			0		523	Africa/Algiers	2024-08-05
+12952862	Ammari	Ammari	Ammari,ʿmary,عماري	35.66368	1.64863	A	ADM2	DZ		56	12952862			0		734	Africa/Algiers	2024-08-05
+12952863	Khemisti	Khemisti	Khemisti,khmysty,خميستي	35.66952	2.04965	A	ADM2	DZ		56	12952863			0		860	Africa/Algiers	2024-08-05
+12952864	Lardjem	Lardjem	Lardjem,lrjam,لرجام	35.76385	1.45573	A	ADM2	DZ		56	12952864			0		969	Africa/Algiers	2024-08-05
+12952865	Boghni	Boghni	Boghni,bwghny,بوغني	36.51054	3.97846	A	ADM2	DZ		14	12952865			0		527	Africa/Algiers	2024-08-05
+12952866	Lazharia	Lazharia	Lazharia,alazhryt,الأزهرية	35.92899	1.56946	A	ADM2	DZ		56	12952866			0		919	Africa/Algiers	2024-08-05
+12952867	Bouzeguene	Bouzeguene	Bouzeguene,bwzqn,بوزقن	36.61902	4.49568	A	ADM2	DZ		14	12952867			0		1036	Africa/Algiers	2024-08-05
+12952868	Azeffoun	Azeffoun	Azeffoun,azfwn,أزفون	36.84268	4.43076	A	ADM2	DZ		14	12952868			0		806	Africa/Algiers	2024-08-05
+12952869	Beni Douala	Beni Douala	Beni Douala,bny dwalt,بني دوالة	36.63172	4.08534	A	ADM2	DZ		14	12952869			0		646	Africa/Algiers	2024-08-05
+12952870	Draa Ben Khedda	Draa Ben Khedda	Draa Ben Khedda,dhraʿ bn khdt,ذراع بن خدة	36.72396	3.94483	A	ADM2	DZ		14	12952870			0		53	Africa/Algiers	2024-08-05
+12952871	Makouda	Makouda	Makouda,makwdt,ماكودة	36.80446	4.09518	A	ADM2	DZ		14	12952871			0		391	Africa/Algiers	2024-08-05
+12952872	Mekla	Mekla	Mekla,mqlʿ,مقلع	35.49041	4.7755	A	ADM2	DZ		14	12952872			0		576	Africa/Algiers	2024-08-05
+12952873	Ouacif	Ouacif	Ouacif,wasyf,واسيف	36.51607	4.18676	A	ADM2	DZ		14	12952873			0		704	Africa/Algiers	2024-08-05
+12952874	Ouadhias	Ouadhias	Ouadhias,wadyt,واضية	36.5311	4.08928	A	ADM2	DZ		14	12952874			0		508	Africa/Algiers	2024-08-05
+12952875	Tigzirt	Tigzirt	Tigzirt,tyqzyrt,تيقزيرت	36.86563	4.15078	A	ADM2	DZ		14	12952875			0		284	Africa/Algiers	2024-08-05
+12952876	Tizi-Ghenif	Tizi-Ghenif	Tizi-Ghenif,tyzy ghnyf,تيزي غنيف	36.61168	3.77637	A	ADM2	DZ		14	12952876			0		339	Africa/Algiers	2024-08-05
+12952877	Beni Boussaid	Beni Boussaid	Beni Boussaid,bny bwsʿyd,بني بوسعيد	34.66235	-1.70085	A	ADM2	DZ		15	12952877			0		716	Africa/Algiers	2024-08-05
+12952878	Ain Tellout	Ain Tellout	Ain Tellout,ʿyn talwt,عين تالوت	34.80361	-0.93154	A	ADM2	DZ		15	12952878			0		1203	Africa/Algiers	2024-08-05
+12952879	Bab El Assa	Bab El Assa	Bab El Assa,bab alʿst,باب العسة	34.97784	-1.97899	A	ADM2	DZ		15	12952879			0		359	Africa/Algiers	2024-08-05
+12952880	Bensekrane	Bensekrane	Bensekrane,bn skran,بن سكران	35.0607	-1.14124	A	ADM2	DZ		15	12952880			0		446	Africa/Algiers	2024-08-05
+12952881	Chetouane	Chetouane	Chetouane,shtwan,شتوان	34.96256	-1.23217	A	ADM2	DZ		15	12952881			0		538	Africa/Algiers	2024-08-05
+12952882	Honnaine	Honnaine	Honnaine,hnyn,هنين	35.16966	-1.61512	A	ADM2	DZ		15	12952882			0		393	Africa/Algiers	2024-08-05
+12952883	Nedroma	Nedroma	Nedroma,ndrwmt,ندرومة	35.00044	-1.79597	A	ADM2	DZ		15	12952883			0		387	Africa/Algiers	2024-08-05
+12952884	Ouled Mimoun	Ouled Mimoun	Ouled Mimoun,awlad mymwn,أولاد ميمون	34.82008	-1.10189	A	ADM2	DZ		15	12952884			0		1072	Africa/Algiers	2024-08-05
+12952885	Remchi	Remchi	Remchi,alrmshy,الرمشي	35.11536	-1.43181	A	ADM2	DZ		15	12952885			0		109	Africa/Algiers	2024-08-05
+12952886	Sabra	Sabra	Sabra,sbrt,صبرة	34.83042	-1.547	A	ADM2	DZ		15	12952886			0		559	Africa/Algiers	2024-08-05

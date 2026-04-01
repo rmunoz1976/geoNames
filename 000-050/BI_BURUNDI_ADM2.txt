@@ -1,0 +1,119 @@
+﻿424739	Makebuko	Makebuko		-3.59667	30.00194	A	ADM2	BI		13	424739			0		1804	Africa/Bujumbura	2014-02-02
+7670587	Bubanza	Bubanza		-3.05209	29.36963	A	ADM2	BI		09	7670587			0		1090	Africa/Bujumbura	2026-01-03
+7670588	Bukinanyana	Bukinanyana		-2.86816	29.3586	A	ADM2	BI		12	7670588			0		1590	Africa/Bujumbura	2026-01-03
+7670589	Buraza	Buraza		-3.75753	29.91198	A	ADM2	BI		13	7670589			0		1730	Africa/Bujumbura	2011-03-01
+7670590	Busiga	Busiga		-2.85881	29.70638	A	ADM2	BI		19	7670590			0		1590	Africa/Bujumbura	2011-03-01
+7670591	Busoni	Busoni		-2.46876	30.25406	A	ADM2	BI		16	7670591			0		1451	Africa/Bujumbura	2015-05-31
+7670592	Buyengero	Buyengero		-3.85041	29.52747	A	ADM2	BI		26	7670592			0		1516	Africa/Bujumbura	2016-06-14
+7670593	Cendajuru	Cendajuru		-3.3083	30.60401	A	ADM2	BI		11	7670593			0		1292	Africa/Bujumbura	2011-03-01
+7670594	Gashikanwa	Gashikanwa		-2.89389	29.90753	A	ADM2	BI		19	7670594			0		1791	Africa/Bujumbura	2011-03-01
+7670595	Gashoho	Gashoho		-2.76124	30.17289	A	ADM2	BI		18	7670595			0		1668	Africa/Bujumbura	2011-03-01
+7670596	Gisozi	Gisozi		-3.54562	29.63166	A	ADM2	BI		13	7670596			0		2090	Africa/Bujumbura	2026-01-03
+7670597	Gitega	Gitega		-3.43813	29.95481	A	ADM2	BI		13	7670597			0		1741	Africa/Bujumbura	2026-01-03
+7670598	Giteranyi	Giteranyi		-2.46164	30.44627	A	ADM2	BI		18	7670598			0		1476	Africa/Bujumbura	2011-03-01
+7670599	Kabarore	Kabarore		-2.84457	29.54628	A	ADM2	BI		15	7670599			0		1957	Africa/Bujumbura	2011-03-01
+7670600	Kayanza	Kayanza		-2.92127	29.6444	A	ADM2	BI		15	7670600			0		1856	Africa/Bujumbura	2026-01-03
+7670601	Kayokwe	Kayokwe		-3.5152	29.74666	A	ADM2	BI		13	7670601			0		1735	Africa/Bujumbura	2026-01-03
+7670602	Kiganda	Kiganda		-3.33792	29.67481	A	ADM2	BI		22	7670602			0		1926	Africa/Bujumbura	2014-07-05
+7670603	Mabanda	Mabanda		-4.30346	29.76824	A	ADM2	BI		17	7670603			0		1430	Africa/Bujumbura	2011-03-01
+7670604	Mabayi	Mabayi		-2.72082	29.24791	A	ADM2	BI		12	7670604			0		1482	Africa/Bujumbura	2011-03-01
+7670605	Mugamba	Mugamba		-3.67227	29.58494	A	ADM2	BI		10	7670605			0		2083	Africa/Bujumbura	2011-03-01
+7670606	Muhuta	Muhuta		-3.62233	29.41828	A	ADM2	BI		26	7670606			0		1836	Africa/Bujumbura	2026-01-03
+7670607	Murwi	Murwi		-2.90289	29.2497	A	ADM2	BI		12	7670607			0		1326	Africa/Bujumbura	2011-03-01
+7670608	Commune of Mutimbuzi	Commune of Mutimbuzi	Mutimbuzi	-3.293	29.325	A	ADM2	BI		25	7670608			0		789	Africa/Bujumbura	2014-03-18
+7670609	Muyinga	Muyinga		-2.80948	30.38518	A	ADM2	BI		18	7670609			0		1575	Africa/Bujumbura	2026-01-03
+7670610	Nyabihanga	Nyabihanga		-3.44949	29.81096	A	ADM2	BI		13	7670610			0		1640	Africa/Bujumbura	2026-01-03
+7670611	Nyabikere	Nyabikere		-3.26447	30.14118	A	ADM2	BI		13	7670611			0		1539	Africa/Bujumbura	2026-01-03
+7670613	Commune of Rugombo	Commune of Rugombo	Commune de Rugombo,Commune of Rugombo,Rugombo,Rugombo Commune,Rugombo Kong-sia,Rugombo Kong-siā,bldyt rwjwmbw,بلدية روجومبو	-2.82335	29.10228	A	ADM2	BI		12	7670613			0		941	Africa/Bujumbura	2012-06-07
+7670614	Ruhororo	Ruhororo		-3.00896	29.93898	A	ADM2	BI		19	7670614			0		1531	Africa/Bujumbura	2011-03-01
+7670615	Rutegama	Rutegama		-3.30779	29.74785	A	ADM2	BI		22	7670615			0		1710	Africa/Bujumbura	2011-03-01
+7670616	Ruyigi	Ruyigi	Commune de Ruyigi	-3.43319	30.27474	A	ADM2	BI		21	7670616			0		1584	Africa/Bujumbura	2021-05-14
+7670617	Tangara	Tangara		-2.91358	30.07244	A	ADM2	BI		19	7670617			0		1696	Africa/Bujumbura	2011-03-01
+7670618	Vumbi	Vumbi		-2.68472	30.10198	A	ADM2	BI		16	7670618			0		1576	Africa/Bujumbura	2011-03-01
+7670822	Ngozi	Ngozi		-2.94806	29.83045	A	ADM2	BI		19	7670822			0		1585	Africa/Bujumbura	2026-01-03
+7670823	Mutaho	Mutaho		-3.14405	29.87012	A	ADM2	BI		13	7670823			0		1719	Africa/Bujumbura	2011-03-03
+7670931	Giheta	Giheta		-3.341	29.891	A	ADM2	BI		13	7670931			0		1604	Africa/Bujumbura	2012-05-05
+7670933	Bugendana	Bugendana		-3.252	29.947	A	ADM2	BI		13	7670933			0		1702	Africa/Bujumbura	2012-05-05
+7732510	Muruta	Muruta		-2.96841	29.55803	A	ADM2	BI		15	7732510			0		2060	Africa/Bujumbura	2016-09-02
+7874080	Ryansoro	Ryansoro		-3.72291	29.79829	A	ADM2	BI		13	7874080			0		1858	Africa/Bujumbura	2011-06-30
+8303259	Commune of Gihanga	Commune of Gihanga	Commune de Gihanga,Commune of Gihanga,Comuna Gihanga,Gihanga,Gihanga Commune,Gihanga Kong-sia,Gihanga Kong-siā,Gikhanga,Гіханга	-3.192	29.294	A	ADM2	BI		09	8303259			0		824	Africa/Bujumbura	2013-12-16
+8334579	Commune of Buganda	Commune of Buganda	Buganda	-2.9648	29.18874	A	ADM2	BI		12	8334579			0		879	Africa/Bujumbura	2014-07-05
+8692984	Butaganzwa	Butaganzwa		-3.10229	29.69479	A	ADM2	BI		15	8692984			0		1652	Africa/Bujumbura	2014-07-05
+8692994	Commune of Itaba	Commune of Itaba	Commune de Itaba,Commune of Itaba,Itaba,Itaba Commune,Itaba Kong-sia,Itaba Kong-siā	-3.65434	30.01501	A	ADM2	BI		13	8692994			0		1801	Africa/Bujumbura	2014-01-29
+9072885	Commune of Matongo	Commune of Matongo	Commune de Matongo,Commune of Matongo,Matongo,Matongo Commune,Matongo Kong-sia,Matongo Kong-siā,Матонго	-3.08944	29.61194	A	ADM2	BI		15	9072885			0		1947	Africa/Bujumbura	2014-06-06
+9072886	Commune of Kirundo	Commune of Kirundo	Commune de Kirundo,Commune of Kirundo,Kirundo,Kirundo Commune,Kirundo Kong-sia,Kirundo Kong-siā	-2.58472	30.09722	A	ADM2	BI		16	9072886			0		1409	Africa/Bujumbura	2021-05-12
+9072887	Commune of Mpanda	Commune of Mpanda		-3.2	29.4	A	ADM2	BI		09	9072887			0		872	Africa/Bujumbura	2014-06-06
+9072888	Commune of Musigati	Commune of Musigati	Commune de Musigati,Commune of Musigati,Comuna Musigati,Musigati,Musigati Commune,Musigati Kong-sia,Musigati Kong-siā,Мусигати,Мусігаті	-3.06667	29.43333	A	ADM2	BI		09	9072888			0		1204	Africa/Bujumbura	2021-05-10
+9072889	Commune of Mugina	Commune of Mugina	Commune de Mugina,Commune of Mugina,Mugina,Mugina Commune,Mugina Kong-sia,Mugina Kong-siā,bldyt mwjyna,بلدية موجينا	-2.79417	29.12806	A	ADM2	BI		12	9072889			0		1055	Africa/Bujumbura	2014-06-06
+9072890	Commune of Bwambarangwe	Commune of Bwambarangwe	Bwambarangwe,Bwambarangwe Commune,Bwambarangwe Kong-sia,Bwambarangwe Kong-siā,Commune de Bwambarangwe,Commune of Bwambarangwe	-2.5525	30.34083	A	ADM2	BI		16	9072890			0		1590	Africa/Bujumbura	2021-05-12
+9072891	Commune of Makamba	Commune of Makamba	Commune de Makamba,Commune of Makamba,Makamba,Makamba Commune,Makamba Kong-sia,Makamba Kong-siā,bldyt makamba,بلدية ماكامبا	-4.13472	29.805	A	ADM2	BI		17	9072891			0		1474	Africa/Bujumbura	2021-05-12
+9072892	Commune of Rutana	Commune of Rutana	Commune de Rutana	-3.9282	29.97784	A	ADM2	BI		20	9072892			0		1659	Africa/Bujumbura	2021-05-14
+9072894	Commune of Cankuzo	Commune of Cankuzo	Cankuzo,Cankuzo Commune,Cankuzo Kong-sia,Cankuzo Kong-siā,Commune de Cankuzo,Commune of Cankuzo	-3.21944	30.55278	A	ADM2	BI		11	9072894			0		1617	Africa/Bujumbura	2014-06-06
+9157454	Commune of Matana	Commune of Matana	Commune de Matana,Commune of Matana,Matana,Matana Commune,Matana Kong-sia,Matana Kong-siā,Матана	-3.74306	29.67056	A	ADM2	BI		10	9157454			0		1883	Africa/Bujumbura	2014-06-09
+9158023	Commune of Rumonge	Commune of Rumonge	Commune de Rumonge,Commune of Rumonge,Rumonge,Rumonge Commune,Rumonge Kong-sia,Rumonge Kong-siā	-3.96667	29.43333	A	ADM2	BI		26	9158023			0		800	Africa/Bujumbura	2021-05-14
+9171802	Ndava	Ndava		-3.39156	29.75343	A	ADM2	BI		13	9171802			0		1822	Africa/Bujumbura	2026-01-03
+9171803	Bugarama	Bugarama		-3.69048	29.40041	A	ADM2	BI		26	9171803			0		1584	Africa/Bujumbura	2026-01-03
+9171804	Bururi	Bururi		-3.96327	29.67386	A	ADM2	BI		10	9171804			0		1796	Africa/Bujumbura	2014-06-25
+9171805	Kanyosha1	Kanyosha1		-3.43097	29.41531	A	ADM2	BI		25	9171805			0		1427	Africa/Bujumbura	2014-09-13
+9171806	Kabezi	Kabezi		-3.5311	29.36997	A	ADM2	BI		25	9171806			0		1065	Africa/Bujumbura	2014-09-13
+9171807	Mukike	Mukike		-3.56457	29.51392	A	ADM2	BI		25	9171807			0		2195	Africa/Bujumbura	2026-01-03
+9171808	Mutambu	Mutambu		-3.5285	29.43279	A	ADM2	BI		25	9171808			0		1756	Africa/Bujumbura	2026-01-03
+9171809	Nyabiraba	Nyabiraba		-3.45759	29.47524	A	ADM2	BI		25	9171809			0		1712	Africa/Bujumbura	2014-09-13
+9171810	Vugizo	Vugizo		-4.15384	29.67849	A	ADM2	BI		17	9171810			0		1840	Africa/Bujumbura	2014-06-25
+9171811	Vyanda	Vyanda		-4.06981	29.59638	A	ADM2	BI		10	9171811			0		1818	Africa/Bujumbura	2014-06-25
+9171812	Songa	Songa		-3.85336	29.66759	A	ADM2	BI		10	9171812			0		1944	Africa/Bujumbura	2014-06-25
+9171813	Rusaka	Rusaka		-3.45402	29.6352	A	ADM2	BI		13	9171813			0		2067	Africa/Bujumbura	2026-01-03
+9171814	Bisoro	Bisoro		-3.62688	29.71166	A	ADM2	BI		13	9171814			0		1757	Africa/Bujumbura	2026-01-03
+9171815	Mugongomanga	Mugongomanga		-3.44141	29.54853	A	ADM2	BI		25	9171815			0		2163	Africa/Bujumbura	2014-09-13
+9171816	Mishiha	Mishiha		-3.06755	30.7268	A	ADM2	BI		11	9171816			0		1375	Africa/Bujumbura	2014-06-25
+9171817	Rango	Rango		-3.15571	29.76212	A	ADM2	BI		15	9171817			0		1673	Africa/Bujumbura	2014-06-25
+9171818	Bukeye	Bukeye		-3.19305	29.60453	A	ADM2	BI		22	9171818			0		2082	Africa/Bujumbura	2014-06-25
+9171819	Bukemba	Bukemba		-4.02373	30.0735	A	ADM2	BI		20	9171819			0		1272	Africa/Bujumbura	2018-02-17
+9171820	Kayogoro	Kayogoro		-4.15	30.02373	A	ADM2	BI		17	9171820			0		1261	Africa/Bujumbura	2014-06-25
+9171821	Isale	Isale		-3.36344	29.47045	A	ADM2	BI		25	9171821			0		2020	Africa/Bujumbura	2014-09-13
+9171822	Rugazi	Rugazi		-3.20675	29.48447	A	ADM2	BI		09	9171822			0		1533	Africa/Bujumbura	2014-09-13
+9171823	Kibago	Kibago		-4.29021	29.89114	A	ADM2	BI		17	9171823			0		1467	Africa/Bujumbura	2014-06-25
+9171825	Mubimbi	Mubimbi		-3.29574	29.48403	A	ADM2	BI		25	9171825			0		1843	Africa/Bujumbura	2026-01-03
+9171826	Mbuye	Mbuye		-3.24013	29.74711	A	ADM2	BI		22	9171826			0		1861	Africa/Bujumbura	2014-06-25
+9171827	Bugabira	Bugabira		-2.42966	30.01979	A	ADM2	BI		16	9171827			0		1435	Africa/Bujumbura	2014-06-25
+9171829	Butihinda	Butihinda		-2.71095	30.32232	A	ADM2	BI		18	9171829			0		1763	Africa/Bujumbura	2014-06-25
+9171830	Gatara	Gatara		-2.99226	29.67742	A	ADM2	BI		15	9171830			0		1646	Africa/Bujumbura	2014-06-25
+9171831	Gahombo	Gahombo		-2.99278	29.73247	A	ADM2	BI		15	9171831			0		1735	Africa/Bujumbura	2014-06-25
+9171832	Buhinyuza	Buhinyuza		-2.97978	30.37831	A	ADM2	BI		18	9171832			0		1539	Africa/Bujumbura	2014-06-25
+9171833	Musongati	Musongati		-3.75515	30.06959	A	ADM2	BI		20	9171833			0		1746	Africa/Bujumbura	2026-01-03
+9171834	Kigamba	Kigamba		-3.04278	30.53185	A	ADM2	BI		11	9171834			0		1564	Africa/Bujumbura	2014-06-25
+9171836	Gitanga	Gitanga		-4.00756	29.90199	A	ADM2	BI		20	9171836			0		1808	Africa/Bujumbura	2018-02-17
+9171837	Gisagara	Gisagara		-3.21312	30.7371	A	ADM2	BI		11	9171837			0		1530	Africa/Bujumbura	2014-06-25
+9171840	Rutovu	Rutovu		-3.87817	29.83199	A	ADM2	BI		10	9171840			0		1977	Africa/Bujumbura	2026-01-03
+9171841	Gisuru	Gisuru		-3.44592	30.49793	A	ADM2	BI		21	9171841			0		1297	Africa/Bujumbura	2014-06-25
+9171842	Nyarusange	Nyarusange		-3.56808	29.83019	A	ADM2	BI		13	9171842			0		1812	Africa/Bujumbura	2021-05-10
+9171843	Gishubi	Gishubi		-3.6153	29.89018	A	ADM2	BI		13	9171843			0		2010	Africa/Bujumbura	2014-06-25
+9171844	Kinyinya	Kinyinya		-3.6241	30.3642	A	ADM2	BI		21	9171844			0		1172	Africa/Bujumbura	2014-06-25
+9171845	Bukirasazi	Bukirasazi		-3.70177	29.96675	A	ADM2	BI		13	9171845			0		1843	Africa/Bujumbura	2014-06-25
+9171847	Mpinga-Kayove	Mpinga-Kayove		-3.80489	30.13986	A	ADM2	BI		20	9171847			0		2034	Africa/Bujumbura	2026-01-03
+9171849	Giharo	Giharo		-3.83544	30.23387	A	ADM2	BI		20	9171849			0		1219	Africa/Bujumbura	2014-06-25
+9171851	Nyabitsinda	Nyabitsinda		-3.57813	30.27037	A	ADM2	BI		21	9171851			0		1256	Africa/Bujumbura	2014-06-25
+9171852	Shombo	Shombo	Commune de Shombo,Shombo,Shombo Commune,Shombo Kong-sia,Shombo Kong-siā,Шомбо,Շոմբո համայնք	-3.28524	30.05391	A	ADM2	BI		13	9171852			0		1631	Africa/Bujumbura	2026-01-03
+9171854	Nyanza-Lac	Nyanza-Lac		-4.30252	29.64663	A	ADM2	BI		17	9171854			0		839	Africa/Bujumbura	2014-06-25
+9171856	Butezi	Butezi		-3.35392	30.19745	A	ADM2	BI		21	9171856			0		1714	Africa/Bujumbura	2014-06-25
+9171858	Mwumba	Mwumba		-2.82501	29.80057	A	ADM2	BI		19	9171858			0		1717	Africa/Bujumbura	2014-06-25
+9171859	Bweru	Bweru		-3.29666	30.38269	A	ADM2	BI		21	9171859			0		1545	Africa/Bujumbura	2014-06-25
+9171861	Gitaramuka	Gitaramuka		-2.97503	30.16317	A	ADM2	BI		13	9171861			0		1650	Africa/Bujumbura	2026-01-03
+9171863	Nyamurenza	Nyamurenza		-2.81363	29.88102	A	ADM2	BI		19	9171863			0		1480	Africa/Bujumbura	2014-06-25
+9171866	Bugenyuzi	Bugenyuzi		-3.07874	30.06062	A	ADM2	BI		13	9171866			0		1600	Africa/Bujumbura	2026-01-03
+9171867	Marangara	Marangara		-2.73417	29.96231	A	ADM2	BI		19	9171867			0		1473	Africa/Bujumbura	2014-06-25
+9171868	Muhanga	Muhanga		-3.04449	29.80341	A	ADM2	BI		15	9171868			0		1545	Africa/Bujumbura	2014-06-25
+9171870	Ntega	Ntega		-2.59047	29.99156	A	ADM2	BI		16	9171870			0		1528	Africa/Bujumbura	2014-06-25
+9171872	Gihogazi	Gihogazi		-3.14103	29.98018	A	ADM2	BI		13	9171872			0		1623	Africa/Bujumbura	2026-01-03
+9171874	Kiremba	Kiremba		-2.83607	30.03245	A	ADM2	BI		19	9171874			0		1557	Africa/Bujumbura	2014-06-25
+9171878	Mutumba	Mutumba		-3.2021	30.24248	A	ADM2	BI		13	9171878			0		1562	Africa/Bujumbura	2026-01-03
+9171879	Buhiga	Buhiga		-3.08549	30.18761	A	ADM2	BI		13	9171879			0		1544	Africa/Bujumbura	2026-01-03
+9171882	Mwakiro	Mwakiro		-3.09587	30.31165	A	ADM2	BI		18	9171882			0		1557	Africa/Bujumbura	2014-06-25
+9171884	Gasorwe	Gasorwe		-2.85116	30.23576	A	ADM2	BI		18	9171884			0		1687	Africa/Bujumbura	2014-06-25
+9171886	Gitobe	Gitobe		-2.64207	30.22952	A	ADM2	BI		16	9171886			0		1628	Africa/Bujumbura	2014-06-25
+9179822	Muramvya	Muramvya	Commune of Muramvya,Muramvya	-3.26815	29.61815	A	ADM2	BI		22	9179822			0		1973	Africa/Bujumbura	2014-07-05
+9881326	Commune of Burambi	Commune of Burambi	Burambi,Burambi Commune,Burambi Kong-sia,Burambi Kong-siā,Commune de Burambi,Commune of Burambi	-3.81722	29.37778	A	ADM2	BI		26	9881326			0		1171	Africa/Bujumbura	2021-05-14
+11819937	Butaganzwa	Butaganzwa		-3.53137	30.14559	A	ADM2	BI		21	11819937			0		1538	Africa/Bujumbura	2026-01-04
+12237756	Muha	Muha		-3.40019	29.36464	A	ADM2	BI		24	12237756			297000		815	Africa/Bujumbura	2021-05-16
+12237757	Mukaza	Mukaza		-3.38086	29.36558	A	ADM2	BI		24	12237757			306000		810	Africa/Bujumbura	2021-05-16
+12237758	Ntahangwa	Ntahangwa		-3.34638	29.38352	A	ADM2	BI		24	12237758			498547		834	Africa/Bujumbura	2021-05-16

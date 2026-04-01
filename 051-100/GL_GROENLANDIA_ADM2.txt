@@ -1,0 +1,3 @@
+﻿3420847	Qaqortoq Municipality	Qaqortoq Municipality	Julianehaab Distrikt,Julianehab,Julianehab District,Julianehåb,Julianehåb District,Qaqortoq,Qaqortup Kommunia	60.66667	-46.16667	A	ADM2	GL		04	3420847			3513		1	America/Nuuk	2021-10-10
+3421723	Narsaq Municipality	Narsaq Municipality	Narsap Kommunia,Narsaq,Narsaq Municipality,Narssaq	60.26678	-45.10545	A	ADM2	GL		04	3421723			2019		1	America/Nuuk	2021-10-10
+3421767	Nanortalik Municipality	Nanortalik Municipality	Nanortalik,Nanortalik Kommune,Nanortalik Municipality	60.11723	-44.96542	A	ADM2	GL		04	3421767			2390		340	America/Nuuk	2021-10-10

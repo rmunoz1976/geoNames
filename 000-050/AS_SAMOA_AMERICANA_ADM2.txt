@@ -1,0 +1,14 @@
+﻿5881074	Tuālāuta County	Tualauta County	Tualauta County	-14.3624	-170.72267	A	ADM2	AS		050	5881074			0	30	-9999	Pacific/Pago_Pago	2014-10-08
+5881085	Tūalātai County	Tualatai County	Tualatai County	-14.38098	-170.76949	A	ADM2	AS		050	5881085			0	49	-9999	Pacific/Pago_Pago	2014-10-08
+5881191	Sā‘ole County	Sa'ole County	Saole County	-14.30277	-170.57519	A	ADM2	AS		010	5881191			0	34	-9999	Pacific/Pago_Pago	2014-10-08
+5881213	Sua County	Sua County		-14.2774	-170.62815	A	ADM2	AS		010	5881213			0	1	8	Pacific/Pago_Pago	2013-03-08
+5881281	Itu‘aū County	Itu'au County	Ituau County	-14.30265	-170.71254	A	ADM2	AS		010	5881281			0	263	280	Pacific/Pago_Pago	2014-10-08
+5881380	Leālātaua County	Lealataua County	Lealataua County	-14.31837	-170.8289	A	ADM2	AS		050	5881380			0	161	165	Pacific/Pago_Pago	2013-03-08
+5881381	Leāsina County	Leasina County	Leasina County	-14.29699	-170.77064	A	ADM2	AS		050	5881381			0	116	130	Pacific/Pago_Pago	2013-03-08
+5881500	Mauputasi County	Mauputasi County		-14.25782	-170.70331	A	ADM2	AS		010	5881500			0	5	1	Pacific/Pago_Pago	2013-03-08
+7267965	Faleasao County	Faleasao County		-14.21946	-169.50754	A	ADM2	AS		020	7267965			0	0	68	Pacific/Pago_Pago	2017-01-25
+7267973	Vaifanua County	Vaifanua County		-14.24076	-170.5897	A	ADM2	AS		010	7267973			0	0	-9999	Pacific/Pago_Pago	2013-03-08
+8181800	Fitiuta County	Fitiuta County		-14.23327	-169.42789	A	ADM2	AS		020	8181800			0		277	Pacific/Pago_Pago	2012-02-02
+8181801	Ta'u County	Ta'u County		-14.24475	-169.48162	A	ADM2	AS		020	8181801			0		657	Pacific/Pago_Pago	2012-02-02
+8181803	Olosega County	Olosega County		-14.16803	-169.61535	A	ADM2	AS		020	8181803			0		340	Pacific/Pago_Pago	2012-02-02
+8198683	Ofu County	Ofu County		-14.17369	-169.67148	A	ADM2	AS		020	8198683			0		188	Pacific/Pago_Pago	2012-02-03

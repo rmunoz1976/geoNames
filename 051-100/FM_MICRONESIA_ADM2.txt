@@ -1,0 +1,78 @@
+﻿7626920	Kapingamarangi Municipality	Kapingamarangi Municipality		1.08249	154.80781	A	ADM2	FM		02	KP			474		13		2019-05-11
+7626921	Kitti Municipality	Kitti Municipality		6.8249	158.16081	A	ADM2	FM		02	KT			6007		47	Pacific/Pohnpei	2015-03-11
+7626922	Kolonia Municipality	Kolonia Municipality		6.964	158.2058	A	ADM2	FM		02	KL			5681	0	36	Pacific/Pohnpei	2015-03-11
+7626923	Madolenihm Municipality	Madolenihm Municipality	Madolenihmw	6.86759	158.31277	A	ADM2	FM		02	MA			5420		-9999	Pacific/Pohnpei	2022-03-22
+7626924	Mokil Municipality	Mokil Municipality		6.68916	159.7661	A	ADM2	FM		02	MO			177		22	Pacific/Pohnpei	2017-12-25
+7626925	Nett Municipality	Nett Municipality		6.95152	158.22437	A	ADM2	FM		02	NE			6158		14	Pacific/Pohnpei	2015-03-11
+7626926	Sapwuahfik Municipality	Sapwuahfik Municipality	Ngatik,Raven Islands,Sapwuafik,Sapwuahfik	5.815	157.28	A	ADM2	FM		02	NG			640		-9999	Pacific/Pohnpei	2019-05-08
+7626927	Nukuoro Municipality	Nukuoro Municipality		3.841	154.93	A	ADM2	FM		02	NU			362		-9999	Pacific/Pohnpei	2015-03-11
+7626928	Oroluk Municipality	Oroluk Municipality		7.516	155.3	A	ADM2	FM		02	OR			0		-9999	Pacific/Pohnpei	2015-03-11
+7626929	Pingelap Municipality	Pingelap Municipality		6.20908	160.71033	A	ADM2	FM		02	PI			438		19	Pacific/Pohnpei	2017-12-25
+7626930	Sokehs Municipality	Sokehs Municipality		6.93273	158.1427	A	ADM2	FM		02	SO			6444		114	Pacific/Pohnpei	2011-02-04
+7626931	U Municipality	U Municipality		6.94972	158.27361	A	ADM2	FM		02	UH			2685		64	Pacific/Pohnpei	2015-03-11
+7626932	Lelu Municipality	Lelu Municipality		5.34865	163.01917	A	ADM2	FM		01	LE			2591		10	Pacific/Kosrae	2015-03-11
+7626933	Malem Municipality	Malem Municipality		5.27507	163.01685	A	ADM2	FM		01	MA			1571		11	Pacific/Kosrae	2015-03-11
+7626934	Tafunsak Municipality	Tafunsak Municipality	Tahfuhnsahk	5.34993	162.96965	A	ADM2	FM		01	TA			2457	0	53	Pacific/Kosrae	2015-03-11
+7626935	Utwe Municipality	Utwe Municipality		5.27511	162.95617	A	ADM2	FM		01	UT			1067		11	Pacific/Kosrae	2015-03-11
+7626936	Dalipebinaw Municipality	Dalipebinaw Municipality		9.52229	138.0854	A	ADM2	FM		04	DA			645	0	21	Pacific/Chuuk	2015-03-11
+7626937	Eauripik Municipality	Eauripik Municipality		6.68299	143.07803	A	ADM2	FM		04	ER			113		10		2019-05-11
+7626938	Elato Municipality	Elato Municipality		7.51236	146.17181	A	ADM2	FM		04	EL			96		6		2019-05-11
+7626939	Fais Municipality	Fais Municipality		9.766	140.519	A	ADM2	FM		04	FS			215		19	Pacific/Chuuk	2011-01-12
+7626940	Fanif Municipality	Fanif Municipality		9.56056	138.11333	A	ADM2	FM		04	FF			547	0	93	Pacific/Chuuk	2015-03-11
+7626941	Faraulep Municipality	Faraulep Municipality	Faraulap	8.588	144.5065	A	ADM2	FM		04	FP			221		-9999	Pacific/Chuuk	2011-01-15
+7626942	Gaferut Municipality	Gaferut Municipality		9.228	145.384	A	ADM2	FM		04	GI			0		9	Pacific/Chuuk	2011-01-12
+7626943	Gagil Municipality	Gagil Municipality		9.54722	138.19028	A	ADM2	FM		04	GG			734	0	7	Pacific/Chuuk	2015-03-11
+7626944	Gilman Municipality	Gilman Municipality		9.44611	138.06389	A	ADM2	FM		04	GL			233	0	16	Pacific/Chuuk	2011-02-03
+7626945	Ifalik Municipality	Ifalik Municipality		7.24898	144.45527	A	ADM2	FM		04	IF			561		16		2019-05-11
+7626946	Kanifay Municipality	Kanifay Municipality		9.46735	138.05935	A	ADM2	FM		04	KA			275	0	21	Pacific/Chuuk	2015-03-11
+7626947	Lamotrek Municipality	Lamotrek Municipality		7.491	146.303	A	ADM2	FM		04	LA			339		-9999	Pacific/Chuuk	2011-01-12
+7626948	Maap Municipality	Maap Municipality		9.58975	138.17119	A	ADM2	FM		04	MA			592	0	19	Pacific/Chuuk	2015-03-11
+7626949	Ngulu Municipality	Ngulu Municipality		8.45	137.481	A	ADM2	FM		04	NG			26		-9999	Pacific/Chuuk	2011-01-12
+7626950	Rull Municipality	Rull Municipality		9.50773	138.1154	A	ADM2	FM		04	RL			2019	0	31	Pacific/Chuuk	2011-02-03
+7626951	Rumung Municipality	Rumung Municipality		9.62428	138.15745	A	ADM2	FM		04	RM			126		21	Pacific/Chuuk	2015-03-11
+7626952	Satawal Municipality	Satawal Municipality		7.382	147.0318	A	ADM2	FM		04	SA			531		10	Pacific/Chuuk	2011-01-17
+7626953	Sorol Municipality	Sorol Municipality		8.1435	140.3925	A	ADM2	FM		04	SO			0		-9999	Pacific/Chuuk	2019-05-08
+7626954	Tomil Municipality	Tomil Municipality		9.52517	138.15488	A	ADM2	FM		04	TO			1023	0	34	Pacific/Chuuk	2015-03-11
+7626955	Ulithi Municipality	Ulithi Municipality		9.9	139.6	A	ADM2	FM		04	UL			773		-9999	Pacific/Chuuk	2011-01-12
+7626956	Weloy Municipality	Weloy Municipality		9.52712	138.11909	A	ADM2	FM		04	WE			1197	0	65	Pacific/Chuuk	2011-02-03
+7626957	Woleai Municipality	Woleai Municipality		7.345	143.857	A	ADM2	FM		04	WO			975		-9999	Pacific/Chuuk	2011-01-12
+7626958	Eot Municipality	Eot Municipality		7.3854	151.7392	A	ADM2	FM		03	EO			382	62	47	Pacific/Chuuk	2011-02-14
+7626959	Ettal Municipality	Ettal Municipality		5.592	153.56	A	ADM2	FM		03	ET			267		-9999	Pacific/Chuuk	2010-12-29
+7626960	Fananu Municipality	Fananu Municipality		8.55811	151.90822	A	ADM2	FM		03	FN			355		12	Pacific/Chuuk	2011-01-07
+7626961	Fanapanges Municipality	Fanapanges Municipality		7.353	151.6676	A	ADM2	FM		03	FB			681	124	64	Pacific/Chuuk	2011-02-14
+7626962	Fefen Municipality	Fefen Municipality		7.353	151.831	A	ADM2	FM		03	FF			4062	300	127	Pacific/Chuuk	2015-03-11
+7626963	Houk Municipality	Houk Municipality	Houk,Pulusuk	6.683	149.3	A	ADM2	FM		03	PK			451		15	Pacific/Chuuk	2015-03-11
+7626964	Kuttu Municipality	Kuttu Municipality		5.453	153.456	A	ADM2	FM		03	KU			873		10	Pacific/Chuuk	2011-01-10
+7626965	Losap Municipality	Losap Municipality		6.894	152.739	A	ADM2	FM		03	LO			448		5	Pacific/Chuuk	2015-03-11
+7626966	Lekinioch Municipality	Lekinioch Municipality	Lukunor	5.507	153.819	A	ADM2	FM		03	LU			927		8	Pacific/Chuuk	2015-03-11
+7626967	Makur Municipality	Makur Municipality		8.985	150.126	A	ADM2	FM		03	MA			156		11	Pacific/Chuuk	2011-01-04
+7626968	Moch Municipality	Moch Municipality		5.4918	153.5385	A	ADM2	FM		03	MC			854		15	Pacific/Chuuk	2011-01-10
+7626969	Murilo Municipality	Murilo Municipality		8.692	152.342	A	ADM2	FM		03	MU			607		10	Pacific/Chuuk	2015-03-11
+7626970	Nema Municipality	Nema Municipality	Nama,Nema	6.993	152.574	A	ADM2	FM		03	NA			995		21	Pacific/Chuuk	2015-03-11
+7626971	Namoluk Municipality	Namoluk Municipality		5.915	153.136	A	ADM2	FM		03	NL			407		-9999	Pacific/Chuuk	2015-03-11
+7626972	Nomwin Municipality	Nomwin Municipality		8.43	151.745	A	ADM2	FM		03	NW			711		13	Pacific/Chuuk	2015-03-11
+7626973	Oneop Municipality	Oneop Municipality		5.5066	153.709	A	ADM2	FM		03	OP			505		11	Pacific/Chuuk	2011-01-10
+7626974	Onou Municipality	Onou Municipality		8.799	150.29	A	ADM2	FM		03	OO			182		13	Pacific/Chuuk	2015-03-11
+7626975	Onoun Municipality	Onoun Municipality		8.575	149.6855	A	ADM2	FM		03	UL			580		6	Pacific/Chuuk	2011-01-03
+7626976	Parem Municipality	Parem Municipality		7.362	151.789	A	ADM2	FM		03	PR			385	55	46	Pacific/Chuuk	2015-03-11
+7626977	Piherarh Municipality	Piherarh Municipality		8.569	150.418	A	ADM2	FM		03	PS			245		13	Pacific/Chuuk	2011-01-03
+7626978	Piis-Emwar Municipality	Piis-Emwar Municipality		6.834	152.7	A	ADM2	FM		03	PL			427		17	Pacific/Chuuk	2011-01-08
+7626979	Pollap Municipality	Pollap Municipality		7.63971	149.43011	A	ADM2	FM		03	PP			905		11	Pacific/Chuuk	2010-12-20
+7626980	Polowat Municipality	Polowat Municipality	Polowat,Poluwat,Puluwat Municipality	7.355	149.182	A	ADM2	FM		03	PW			1015		-9999	Pacific/Chuuk	2015-03-11
+7626981	Ramanum Municipality	Ramanum Municipality		7.4135	151.6646	A	ADM2	FM		03	RO			1011	55	30	Pacific/Chuuk	2011-02-16
+7626982	Ruo Municipality	Ruo Municipality		8.609	152.244	A	ADM2	FM		03	RU			469		12	Pacific/Chuuk	2011-01-08
+7626983	Satowan Municipality	Satowan Municipality		5.334	153.7365	A	ADM2	FM		03	SA			955		10	Pacific/Chuuk	2011-01-10
+7626984	Ta Municipality	Ta Municipality		5.2842	153.6465	A	ADM2	FM		03	TA			253		9	Pacific/Chuuk	2011-01-10
+7626985	Tamatam Municipality	Tamatam Municipality		7.53898	149.41175	A	ADM2	FM		03	TM			365		17	Pacific/Chuuk	2010-12-20
+7626986	Tolensom Municipality	Tolensom Municipality		7.333	151.623	A	ADM2	FM		03	TL			5129	446	178	Pacific/Chuuk	2011-02-16
+7626987	Tonoas Municipality	Tonoas Municipality	Tonowas	7.381	151.89	A	ADM2	FM		03	DU			3910	344	1	Pacific/Chuuk	2011-02-17
+7626988	Siis Municipality	Siis Municipality		7.295	151.8246	A	ADM2	FM		03	TS			490	69	55	Pacific/Chuuk	2015-03-11
+7626989	Udot-Fonuweisom Municipality	Udot-Fonuweisom Municipality		7.389	151.708	A	ADM2	FM		03	UD			1774	241	55	Pacific/Chuuk	2015-03-11
+7626990	Uman-Fonuweisom Municipality	Uman-Fonuweisom Municipality		7.299	151.877	A	ADM2	FM		03	UM			2847	282	142	Pacific/Chuuk	2015-03-11
+7626991	Unanu Municipality	Unanu Municipality		8.75	150.3395	A	ADM2	FM		03	OR			178		7	Pacific/Chuuk	2011-01-04
+7626992	Weno Municipality	Weno Municipality	Weno	7.44	151.881	A	ADM2	FM		03	MN			13802	368	-9999	Pacific/Chuuk	2019-05-08
+7626993	Fonoton Municipality	Fonoton Municipality		7.486	151.8794	A	ADM2	FM		03	FO			397	55	18	Pacific/Chuuk	2011-02-15
+7626994	Paata-Tupunion Municipality	Paata-Tupunion Municipality		7.376	151.583	A	ADM2	FM		03	PA			1950	185	127	Pacific/Chuuk	2011-02-16
+7626995	Piis-Panewu Municipality	Piis-Panewu Municipality		7.678	151.7634	A	ADM2	FM		03	PI			523	5	13	Pacific/Chuuk	2011-02-16
+7626996	Wonei Municipality	Wonei Municipality		7.387	151.601	A	ADM2	FM		03	ON			1271	180	70	Pacific/Chuuk	2019-05-08
+7626997	Pwene Municipality	Pwene Municipality		7.337	151.584	A	ADM2	FM		03	PN			1851	171	117	Pacific/Chuuk	2011-02-16

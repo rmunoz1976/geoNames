@@ -1,0 +1,763 @@
+﻿1252654	Zunheboto	Zunheboto	ZNH,Zonheboto,Zunheboto,Zunhebotto	26	94.5	A	ADM2	IN		20	263			140757		1807	Asia/Kolkata	2023-07-11
+1252771	Yavatmal	Yavatmal	Distretto di Yavatmal,District dYavatmal,Distrito de Yavatmal,Javatmal,YVT,Yavatmal,Yavatmal District,Yavatmāl,mntqt yafatmal,ya wa te ma er xian,yabatamala jilla,yavatamala,yavatamala jil'ha,yavatamala jila,yavatamala jilla,yavatamala jillo,yavatamalamandalam,yavatmal jilla,yavatmal mavattam,Яватмал,ضلع یاوتمال,منطقة يافاتمال,یوٹمل ضلع,यवतमाल जिला,यवतमाल जिल्ला,यवतमाळ,यवतमाळ जिल्ला,यवतमाळ जिल्हा,यवतमाळमण्डलम्,યવતમાળ જિલ્લો,ଯବତମାଲ ଜିଲ୍ଲା,யவத்மாள் மாவட்டம்,యావత్మల్ జిల్లా,亞瓦特馬爾縣	20.15	78.35	A	ADM2	IN		16	510			2772348		377	Asia/Kolkata	2018-05-26
+1252796	Yanam	Yanam	YAN,Yanam,Yanaon	16.73463	82.21773	A	ADM2	IN		22	634			55626		9	Asia/Kolkata	2018-05-26
+1252841	Wokha	Wokha	WKH,Wokha	26.16667	94.25	A	ADM2	IN		20	264			166343		812	Asia/Kolkata	2018-05-26
+1252864	West Tripura	West Tripura	WTR,West Tripura,West Tripura ,pascima tripura,পশ্চিম ত্রিপুরা	23.91667	91.5	A	ADM2	IN		26	289			1725739		116	Asia/Kolkata	2023-07-11
+1252865	West Siang	West Siang	WSG,West Siang,West Siang district	28.14198	94.51445	A	ADM2	IN		30	250			112274		1362	Asia/Kolkata	2023-09-24
+1252869	West Kameng	West Kameng	WKG,West Kameng	27.4	92.35	A	ADM2	IN		30	246			83947		2622	Asia/Kolkata	2018-05-26
+1252873	West Godāvari	West Godavari	Paschima Godavari Jilla,WGI,West Godavari,West Godavari District,West Godāvari,West Godāvari District,pascima godavari jilla,పశ్చిమ గోదావరి జిల్లా	16.53101	81.6205	A	ADM2	IN		02	546			3936966		8	Asia/Kolkata	2023-12-20
+1252877	Gyalshing	Gyalshing	Geyzing District,WDT,West District,West Sikkim	27.33333	88.25	A	ADM2	IN		29	242			136435		942	Asia/Kolkata	2023-12-14
+1252944	Wardha	Wardha	Distretto di Wardha,District de Wardha,Districte de Wardha,Distrito de Wardha,Vardkha,WRD,Wardha,Wardha District,Wardha district,mntqt wardha,vardha,vardha jil'ha,vardha jila,vardha jillo,vardhamandalam,varta mavattam,wa er da xian,wardha jilla,Вардха,ضلع وردھا,منطقة وارذا,وردھا ضلع,वर्धा,वर्धा जिला,वर्धा जिल्हा,वर्धामण्डलम्,વર્ધા જિલ્લો,ୱର୍ଧା ଜିଲ୍ଲା,வர்தா மாவட்டம்,వార్ధా,瓦爾達縣	20.83333	78.6	A	ADM2	IN		16	504			1300774		262	Asia/Kolkata	2018-05-26
+1252949	Warangal Rural	Warangal Rural	WAR,Warangal,Warangal District,Warangal Rural,varangal rural,వరంగల్ రూరల్	18	79.83333	A	ADM2	IN		40	540			3512576		260	Asia/Kolkata	2023-09-22
+1253103	Vishākhapatnam	Vishakhapatnam	Fisakapatnam,Fisākāpatnam,VSK,Visakha district,Visakhapatanam,Visakhapatnam,Visakhapatnam District,Vishakhapatnam,Vishākhapatnam,Vizag district,Vizagapatam,Vizagapatam District,fshakabatnm,fysakhabatnam,fyshakhabatnam,w shakھa pٹnm,wshakapatnm,wshakھ pٹnm,wshakھapٹnm,wysakapatnam,فشاكاباتنم,فيساخاباتنام,فيشاخاباتنام,و شاکھا پٹنم,وشاکاپاتنم,وشاکھ پٹنم,وشاکھاپٹنم,ویساکاپاتنام	17.73333	83.26667	A	ADM2	IN		02	544			4290589		18	Asia/Kolkata	2023-06-30
+1253201	Vidisha	Vidisha	VID,Vidisha	23.91667	78	A	ADM2	IN		35	443			1458875		421	Asia/Kolkata	2018-05-26
+1253407	Vārānasi	Varanasi	VRN,Varanasi,Varanasi District,Vārānasi,Vārānasi District,bnars,faranasy,waranasy,waransy,بنارس,فاراناسي,واراناسی,وارانسي,وارانسی	25.33333	83	A	ADM2	IN		36	197			3676841		75	Asia/Kolkata	2019-05-07
+1253469	Valsād	Valsad	Bulsar District,VLS,Valsad,Valsād,Walsad,Walsād	20.5	73.08333	A	ADM2	IN		09	491			1705678		47	Asia/Kolkata	2023-07-01
+1253533	Vaishāli	Vaishali	VSH,Vaishali,Vaishāli,vaisali,वैशाली	25.75	85.41667	A	ADM2	IN		34	220			3495021		54	Asia/Kolkata	2018-05-26
+1253574	Vadodara	Vadodara	VDR,Vadodara,Vadodara District	22.18	73.12	A	ADM2	IN		09	486			4165626		23	Asia/Kolkata	2018-05-26
+1253629	Uttarkāshi	Uttarkashi	UKS,Uttar Kashi,Uttarkashi,Uttarkāshi	31	78.5	A	ADM2	IN		39	056			330086		4777	Asia/Kolkata	2018-05-26
+1253630	Uttar Kannada	Uttar Kannada	Kanara North District,North Kanara,UKD,Uttar Kannad,Uttara Kannada	14.88333	74.58333	A	ADM2	IN		19	563			1437169		420	Asia/Kolkata	2023-06-29
+1253720	Upper Subansiri	Upper Subansiri	USI,Upper Subansiri,Upper Subansiri district	28.3	94	A	ADM2	IN		30	249			83448		1803	Asia/Kolkata	2023-06-29
+1253748	Unnāo	Unnao	UNO,Unao,Unao District,Unnao,Unnāo	26.5	80.5	A	ADM2	IN		36	156			3108367		127	Asia/Kolkata	2023-06-29
+1253915	Ujjain	Ujjain	Distretto di Ujjain,District dUjjain,Distrito de Ujjain,UJJ,Uddzhajn,Ujjain,Ujjain District,Ujjain district,mntqt awjayn,ujjaina jil'ha,ujjaina jila,ujjaina jilla,ujjaina jillo,ujjainamandalam,ujjayini,ujjayini jilla,wu gu yin xian,Удджайн,منطقة اوجاين,उज्जैन जिला,उज्जैन जिल्ला,उज्जैन जिल्हा,उज्जैनमण्डलम्,ઉજ્જૈન જિલ્લો,ଉଜ୍ଜୟିନୀ ଜିଲ୍ଲା,ఉజ్జయిని,烏賈因縣	23.41667	75.5	A	ADM2	IN		35	435			1986864		501	Asia/Kolkata	2018-05-26
+1253957	Udhampur	Udhampur	Distretto di Udhampur,Distrito de Udhampur,UDM,Udhampur,Udhampur District,Udhampur district,Udkhampur,mntqt awdhambwr,udhamapura jil'ha,udhamapura jilla,udhamapura jillo,udhamapura zila,udhamapuramandalam,udhampur,wu de han pu er xian,Удхампур,ضلع اودھم پور,منطقة اودهامبور,उधमपुर ज़िला,उधमपुर जिल्ला,उधमपुरमण्डलम्,उधमपूर जिल्हा,ਊਧਮਪੁਰ ਜ਼ਿਲਾ,ઉધમપુર જિલ્લો,ఉధంపుర్,乌德汉普尔县	33	75.16667	A	ADM2	IN		12	019			554985		1355	Asia/Kolkata	2018-05-26
+1253989	Udaipur	Udaipur	UDP,Udaipur,Udaipur District	24.33	73.77	A	ADM2	IN		24	130			3068420		356	Asia/Kolkata	2023-06-29
+1254090	Tumkur	Tumkur	Distretto di Tumkur,Districte de Tumkur,Distrito de Tumkur,TMK,Tumakuru,Tumakūru,Tumkur,Tumkur District,Tumkur district,Tumkūr,mntqt twmkwr,tumakura jil'ha,tumakura jila,tumkur mavattam,Тумкур,ضلع ٹمکر,منطقة تومكور,तुमकुर जिला,तुमकूर जिल्हा,தும்கூர் மாவட்டம்	13.5	77	A	ADM2	IN		19	571			2678980		801	Asia/Kolkata	2018-05-26
+1254132	Tuensang District	Tuensang District	TNS,Tuensang,Tuensang District	26.25	94.75	A	ADM2	IN		20	267			196596		1565	Asia/Kolkata	2018-05-26
+1254242	Tonk	Tonk	TNK,Tonk	26.16667	75.58333	A	ADM2	IN		24	120			1421326		295	Asia/Kolkata	2018-05-26
+1254389	Tiruchirappalli	Tiruchirappalli	TRC,Tiruchchirappalli,Tiruchchirāppalli,Tiruchi,Tiruchirappali,Tiruchirappalli,Tiruchirāppali,Trichinopoly,Trichinopoly District,Trichy	10.97	78.65	A	ADM2	IN		25	614			2722290		111	Asia/Kolkata	2023-06-29
+1254418	Tirāp	Tirap	TRP,Tirap,Tirap Frontier Division,Tirap Frontier Tract,Tirāp	27.01917	95.51788	A	ADM2	IN		30	254			111975		505	Asia/Kolkata	2018-05-26
+1254535	Tīkamgarh	Tikamgarh	TKM,Tikamgarh,Tīkamgarh	24.75	79	A	ADM2	IN		35	424			1445166		322	Asia/Kolkata	2018-05-26
+1254616	The Dāngs	The Dangs	DAN,Dang,Dangs,Dāngs,The Dangs,The Dāngs	20.75	73.75	A	ADM2	IN		09	489			228291		452	Asia/Kolkata	2018-05-26
+1254650	Thanjavur	Thanjavur	TJV,Tanjore,Tanjore District,Thanjavur,Thanjāvūr	10.64	79.22	A	ADM2	IN		25	620			2405890		36	Asia/Kolkata	2018-05-26
+1254662	Thane	Thane	Distretto di Thane,District de Thane,Districte de Thana,Distrito de Thane,THN,Thana,Thane,Thane District,Thāna,Thāne,Tkhane,mntqt thyn,ta na xian,tane mavattam,thana jillo,thane,thane jil'ha,thane jila,thane jilla,thanemandalam,Тхане,تھانہ ضلع,ضلع تھانے,منطقة ثين,ठाणे,ठाणे जिला,ठाणे जिल्ला,ठाणे जिल्हा,ठाणेमण्डलम्,થાણા જિલ્લો,ଥାନେ ଜିଲ୍ଲା,டாணே மாவட்டம்,ఠాణే జిల్లా,塔納縣	19.33333	73.25	A	ADM2	IN		16	517			11060148		59	Asia/Kolkata	2023-11-18
+1254807	Tehri-Garhwāl	Tehri-Garhwal	TGR,Tehri Garhwal,Tehri Garhwal District,Tehri-Garhwal,Tehri-Garhwāl	30.5	78.66667	A	ADM2	IN		39	059			618931		2154	Asia/Kolkata	2023-06-30
+1255347	Surguja	Surguja	Distretto di Surguja,District de Surguja,Distrito de Surguja,SRG,Surgudzha,Surguja,Surguja district,Surquja,carkuja mavattam,dlʿ srgwja,saraguja,saraguja jela,saraguja jila,saraguja jilla,saraguja jillo,saragujamandalam,su gu gu xian,suraguja jil'ha,surguja,Сургуджа,سرگوجا ضلع,ضلع سرگوجا,सरगुजा,सरगुजा जिला,सरगुजा जिल्ला,सरगुजामण्डलम्,सुरगुजा जिल्हा,সরগুজা জেলা,ਸਰਗੁਜਾ,સરગુજા જિલ્લો,ସରଗୁଜା ଜିଲ୍ଲା,சர்குஜா மாவட்டம்,సుర్గుజా,蘇古賈縣	22.89624	83.09631	A	ADM2	IN		37	401			2359886		760	Asia/Kolkata	2018-07-13
+1255350	Surendranagar	Surendranagar	SUR,Surendra Nagar,Surendranagar,Surendranagar District	22.75	71.66667	A	ADM2	IN		09	475			1756268		65	Asia/Kolkata	2023-06-30
+1255365	Sūrat	Surat	SRT,Surat,Surat District,Sūrat	21.17801	72.81189	A	ADM2	IN		09	492			6081322		16	Asia/Kolkata	2023-06-30
+1255438	Sundargarh	Sundargarh	Bonai District,SDG,Sundargarh,Sundergarh,Sundergarh district	22.25	84.5	A	ADM2	IN		21	374			2093437		264	Asia/Kolkata	2023-06-28
+1255497	Sultānpur	Sultanpur	SLP,Sultanpur,Sultanpur District,Sultānpur,Sultānpur District	26.25	82	A	ADM2	IN		36	179			3797117		101	Asia/Kolkata	2023-07-02
+1255639	Srīnagar	Srinagar	SRN,Srinagar,Srinagar District,Srīnagar,Srīnagar District,dlʿ sryngr,siry nagar,sry ngr,srynghr,sryngr,سري نگر,سرينغر,سری نگر,سرینگر,سِری نَگَر,ضلع سرینگر	34.08333	74.83333	A	ADM2	IN		12	010			1236829		1584	Asia/Kolkata	2023-07-02
+1255649	Srīkākulam	Srikakulam	Chicacole district,SRK,Srikakulam,Srikakulam district,Srīkākulam	18.5	84	A	ADM2	IN		02	542			2703114		36	Asia/Kolkata	2018-05-26
+1255671	South Tripura	South Tripura	STR,South Tripura,South Tripura ,South Tripura District,daksina tripura,দক্ষিন ত্রিপুরা	23.1671	91.60953	A	ADM2	IN		26	290			876001		57	Asia/Kolkata	2023-06-30
+1255681	Namchi	Namchi	SDT,South District,South Sikkim,South Sikkim district,Southern	27.33333	88.41667	A	ADM2	IN		29	243			146850		2424	Asia/Kolkata	2023-12-14
+1255745	Sonīpat	Sonipat	SNP,Sonepat,Sonipat,Sonipat District,Sonīpat	29	76.91667	A	ADM2	IN		10	076			1450001		224	Asia/Kolkata	2023-06-30
+1255847	Solapur	Solapur	Distretto di Solapur,District de Solapur,Districte de Sholapur,Distrito de Solapur,SOL,Sholapur,Sholapur District,Sholāpur District,Solapur,Solapur district,Solāpur,colappur mavattam,mntqt swlabwr,shao la bu er xian,solapura,solapura jil'ha,solapura jila,solapura jilla,solapura jillo,solapuramandalam,Солапур,شولاپور ضلع,ضلع سولاپور,منطقة سولابور,सोलापुर जिला,सोलापुर जिल्ला,सोलापुरमण्डलम्,सोलापूर,सोलापूर जिल्हा,સોલાપૂર જિલ્લો,ସୋଲାପୁର ଜିଲ୍ଲା,சோலாப்பூர் மாவட்டம்,紹拉布爾縣	17.75	75.5	A	ADM2	IN		16	526			4317756		484	Asia/Kolkata	2023-07-01
+1255851	Solan	Solan	SLN,Solan	31.08333	76.83333	A	ADM2	IN		11	031			580320		746	Asia/Kolkata	2018-05-26
+1255930	Siwān	Siwan	SWN,Siwan,Siwan District,Siwān,sivana,सिवान	26.16667	84.5	A	ADM2	IN		34	218			3330464		64	Asia/Kolkata	2018-05-26
+1255971	Sītāpur	Sitapur	STP,Sitapur,Sitapur District,Sītāpur,Sītāpur District	27.5	80.91667	A	ADM2	IN		36	154			4483992		140	Asia/Kolkata	2023-07-02
+1255984	Sītāmarhi	Sitamarhi	STM,Sitamarhi,Sitamarhi District,Sītāmarhi,Sītāmarhi District,sitamadhi,सीतामढी	26.66667	85.5	A	ADM2	IN		34	206			3423574		68	Asia/Kolkata	2023-06-30
+1256056	Sirsa	Sirsa	SRS,Sirasa,Sirasā,Sirsa	29.58333	75.08333	A	ADM2	IN		10	079			1295189		205	Asia/Kolkata	2018-05-26
+1256068	Sirohi	Sirohi	SRH,Sirohi	24.83333	72.75	A	ADM2	IN		24	117			1036346		294	Asia/Kolkata	2018-05-26
+1256073	Sirmaur	Sirmaur	SRM,Sirmaur,Sirmoor,Sirmur,Sirmūr	30.75	77.5	A	ADM2	IN		11	032			529855		2097	Asia/Kolkata	2018-05-26
+1256163	Pashchim Singhbhūm	Pashchim Singhbhum	Pashchim Singhbhum,Pashchimi Singhbhum,WSM,West Singbhum,West Singhbhum,West Singhbhum district,pascimi singhabhuma,पश्चिमी सिंघभूम	22.5	85.5	A	ADM2	IN		38	368			1502338		481	Asia/Kolkata	2018-07-29
+1256238	Shimla	Shimla	Distretto di Shimla,District de Shimla,Districte de Simla,Distrito de Shimla,SHM,Shimla,Shimla district,Simla,Simla District,cimla mavattam,simala jila,simala jilla,simala jillo,simala zila,simalamandalam,xi mu la xian,Шимла,ضلع شملا,ضلع شملہ,शिमला जिला,शिमला जिल्ला,शिमलामण्डलम्,ਸ਼ਿਮਲਾ ਜ਼ਿਲਾ,શિમલા જિલ્લો,ଶିମଲା ଜିଲ୍ଲା,சிம்லா மாவட்டம்,西姆拉县	31.16667	77.58333	A	ADM2	IN		11	033			814010		2446	Asia/Kolkata	2018-05-26
+1256321	Sīkar	Sikar	SKR,Sikar,Sīkar	27.58333	75.16667	A	ADM2	IN		24	111			2677333		446	Asia/Kolkata	2018-05-26
+1256370	Sidhi	Sidhi	SDH,Sidhi	24.25	82	A	ADM2	IN		35	462			1127033		312	Asia/Kolkata	2018-05-26
+1256389	Sibsāgar	Sibsagar	SVS,Sibsagar,Sibsagar District,Sibsāgar,Sibsāgar District,Sivasagar	26.91636	94.65546	A	ADM2	IN		03	311			1151050		97	Asia/Kolkata	2023-07-01
+1256452	Shivpurī	Shivpuri	Narwar District,SVP,Shivpuri,Shivpuri District,Shivpurī	25.5	78	A	ADM2	IN		35	423			1726050		297	Asia/Kolkata	2023-06-30
+1256516	Shimoga	Shimoga	SVM,Shimoga,Shimoga District,Shivamogga	14.05	75.16	A	ADM2	IN		19	568			1752753		626	Asia/Kolkata	2023-06-28
+1256694	Shājāpur	Shajapur	SJR,Shajapur,Shajapur District,Shājāpur,Shājāpur District	23.5	76.25	A	ADM2	IN		35	436			1512681		423	Asia/Kolkata	2023-06-30
+1256729	Shāhjahānpur	Shahjahanpur	SJN,Shahjahanpur,Shahjahanpur District,Shāhjahānpur,Shāhjahānpur District	28	79.83333	A	ADM2	IN		36	152			3006538		156	Asia/Kolkata	2023-06-30
+1256740	Shahdol	Shahdol	SHD,Sahdol,Shahdol	23.5	81.5	A	ADM2	IN		35	460			1066063		520	Asia/Kolkata	2018-05-26
+1256827	Seonī	Seoni	SEO,Seoni,Seonī	22.41667	79.66667	A	ADM2	IN		35	456			1379131		508	Asia/Kolkata	2018-05-26
+1256914	Sehore	Sehore	SEH,Sehore,sihora,सीहोर	22.99114	77.12849	A	ADM2	IN		35	445			1311332		510	Asia/Kolkata	2018-05-26
+1256950	Sawāi Mādhopur	Sawai Madhopur	SMP,Sawai Madhopur	26.18	76.4	A	ADM2	IN		24	108			1335551		233	Asia/Kolkata	2018-05-26
+1257023	Satna	Satna	STN,Satna	24.5	81	A	ADM2	IN		35	429			2228935		314	Asia/Kolkata	2018-05-26
+1257248	Sāran	Saran	SAR,Saran,Saran District,Sáran District,Sāran,sarana,सारण	25.91667	84.75	A	ADM2	IN		34	219			3951862		59	Asia/Kolkata	2023-07-01
+1257403	Sangrur	Sangrur	SNR,Sangrur,Sangrur District,Sangrūr	30.25	75.85	A	ADM2	IN		23	053			1655169		238	Asia/Kolkata	2023-07-01
+1257544	Sambalpur	Sambalpur	SMB,Sambalpur,Sambalpur District	21.4	83.88333	A	ADM2	IN		21	372			1041099		159	Asia/Kolkata	2023-06-28
+1257552	Samastīpur	Samastipur	SMS,Samastipur,Samastīpur,samastipura,समस्तीपुर	25.75	85.91667	A	ADM2	IN		34	221			4261566		47	Asia/Kolkata	2018-05-26
+1257630	Salem	Salem	Distretto di Salem,District de Salem,Districte de Salem,Distrito de Salem,SLM,Salem,Salem District,Salem district,celam mavattam,dahyt salm,salema jila,selam jilla,selama jil'ha,selama jillo,selammandalam,seramu xian,Салем,ضاحية سالم,सलेम जिला,सेलंमण्डलम्,सेलम जिल्हा,સેલમ જિલ્લો,சேலம் மாவட்டம்,സേലം ജില്ല,セーラム県	11.69	78.29	A	ADM2	IN		25	608			3482056		361	Asia/Kolkata	2018-05-26
+1257805	Saharsa	Saharsa	SHS,Saharsa,saharasa,सहरसा	25.81659	86.5898	A	ADM2	IN		34	214			1900661		42	Asia/Kolkata	2018-05-26
+1257807	Sahāranpur	Saharanpur	SHR,Saharanpur,Saharanpur District,Sahāranpur,Sahāranpur District	29.9	77.68333	A	ADM2	IN		36	132			3466382		274	Asia/Kolkata	2023-07-02
+1257852	Sāgar	Sagar	SGR,Sagar,Saugor,Sāgar	23.75	78.75	A	ADM2	IN		35	427			2378458		563	Asia/Kolkata	2020-06-10
+1257922	Sabarkantha	Sabarkantha	SKA,Sabar Kantha,Sabar Kāntha,Sabarkantha	23.62974	73.00197	A	ADM2	IN		09	472			2428589		147	Asia/Kolkata	2020-06-21
+1257953	Rupnagar	Rupnagar	RPN,Ropar,Rupar,Rupnagar,Rupnagar District,Rūpnagar,lu pu na jia er,ropada,rupanagara,rupanagaram,rwpngr,Рупар,روپنگر,रुपनगर,रूपनगर,रूपनगरम्,रोपड,রূপনগর,ਰੂਪਨਗਰ,રુપનગર,ରୂପନଗର,鲁普纳加尔	31.04	76.52	A	ADM2	IN		23	051			684627		283	Asia/Kolkata	2023-07-02
+1258074	Rohtās	Rohtas	RTS,Rohtas,Rohtas District,Rohtās,rohatasa,रोहतास	24.97941	84.02774	A	ADM2	IN		34	234			2959918		104	Asia/Kolkata	2023-07-01
+1258077	Rohtak	Rohtak	RHT,Rohtak,Rohtak District	28.83333	76.66667	A	ADM2	IN		10	082			1061204		223	Asia/Kolkata	2023-07-01
+1258183	Rewa	Rewa	REW,Rewa	24.75	81.5	A	ADM2	IN		35	430			2365106		313	Asia/Kolkata	2018-05-26
+1258340	Ratnagiri	Ratnagiri	Distretto di Ratnagiri,District de Ratnagiri,Districte de Ratnagiri,Distrito de Ratnagiri,RTN,Ratnagiri,Ratnagiri District,irattinakiri mavattam,lei de na ji li xian,mntqt ratnjary,ratnagiri,ratnagiri jila,ratnagiri jilla,ratnagiri jillo,ratnagirimandalam,Ратнагири,رتناگری ضلع,ضلع رتنگری,منطقة راتنجاري,रत्नगिरिमण्डलम्,रत्नागिरि जिला,रत्नागिरी,रत्नागिरी जिल्ला,रत्‍नागिरी जिल्हा,રત્નાગિરી જિલ્લો,ରତ୍ନଗିରୀ ଜିଲ୍ଲା,இரத்தினகிரி மாவட்டம்,రత్నగిరి జిల్లా,勒德納吉里縣	17	73.5	A	ADM2	IN		16	528			1615069		169	Asia/Kolkata	2018-05-26
+1258343	Ratlām	Ratlam	RTL,Ratlam,Ratlām	23.58333	75.16667	A	ADM2	IN		35	434			1455069		464	Asia/Kolkata	2018-05-26
+1258527	Rānchī	Ranchi	RNC,Ranchi,Ranchi District,Rānchī,Rānchī District,dlʿ ranchy,mntqt ranshy,mqatʿt ranshy,ranchy,ranchy dlʿ,ranci,ranshy,رانشي,رانچي,رانچی,رانچی ضلع,ضلع رانچی,مقاطعة رانشي,منطقة رانشي,रांची	23.33131	85.37076	A	ADM2	IN		38	364			2914253		633	Asia/Kolkata	2023-07-02
+1258622	Rāmpur	Rampur	RMP,Rampur,Rāmpur	29	79	A	ADM2	IN		36	136			2335819		205	Asia/Kolkata	2018-05-26
+1258741	Rāmanāthapuram	Ramanathapuram	RMN,Ramanathapuram,Ramanathapuram district,Ramnad,Ramnad District,Rāmanāthapuram,Rāmnād	9.37	78.7	A	ADM2	IN		25	626			1353445		16	Asia/Kolkata	2023-06-29
+1258832	Rāj Nāndgaon	Raj Nandgaon	RJN,Raj Nandgaon,Rajnandgaon,Rajnandgaon district,Rāj Nāndgaon,rajanandaganva,राजनंदगांव	21.16667	81	A	ADM2	IN		37	408			1537133		307	Asia/Kolkata	2023-06-28
+1258849	Rājkot	Rajkot	RJK,Rajkot,Rājkot	22.33333	70.83333	A	ADM2	IN		09	476			3804558		122	Asia/Kolkata	2023-06-28
+1258878	Rājgarh	Rajgarh	RJG,Rajgarh,Rājgarh	23.83333	76.75	A	ADM2	IN		35	442			1545814		399	Asia/Kolkata	2018-05-26
+1258892	Rājauri	Rajauri	RJR,Rajauri,Rajouri,Rajouri District,Rājauri,bkhsh rajwry,dlʿ rajwry,mqatʿt rajwry,rajwary,rajwry,بخش راجوری,راجواری,راجوري,راجوری,ضلع راجوری,مقاطعة راجوري	33.25	74.25	A	ADM2	IN		12	006			642415		810	Asia/Kolkata	2023-07-02
+1258953	Raisen	Raisen	RSN,Raisen	23.25	78.08333	A	ADM2	IN		35	446			1331597		565	Asia/Kolkata	2018-05-26
+1258984	Raipur	Raipur	Distretto di Raipur,District de Raipur,Districte de Raipur,Distrito de Raipur,RPR,Raipur,Raipur District,Raipur district,Rajpur,lai bu er xian,rayapura,rayapura jil'ha,rayapura jila,rayapura jilla,rayapura jillo,rayapuramandalam,rayppur mavattam,Райпур,رائے پور ضلع,ضلع راۓپور,रायपुर,रायपुर जिला,रायपुर जिल्ला,रायपुरमण्डलम्,रायपूर जिल्हा,રાયપુર જિલ્લો,ରାୟପୁର ଜିଲ୍ଲା,ராய்ப்பூர் மாவட்டம்,రాయ్‌పూర్,賴布爾縣	21.25621	81.69022	A	ADM2	IN		37	410			4063872		282	Asia/Kolkata	2018-07-13
+1259006	Raigarh	Raigarh	Distretto di Raigarh,District de Raigarh,Distrito de Raigarh,RGR,Raigarh,Raigarh district,Rajgarkh,lai ge er xian,rayagadh,rayagadha jil'ha,rayagadha jila,rayagadha jilla,rayagadha jillo,rayagadhamandalam,rayagarha,raykar mavattam,Райгарх,رائے گڑھ ضلع,ضلع راۓگڑھ,रायगढ जिला,रायगढ जिल्ला,रायगढ जिल्हा,रायगढमण्डलम्,रायगढ़,રાયગઢ જિલ્લો,ରାୟଗଢ ଜିଲ୍ଲା,ராய்கர் மாவட்டம்,రాయగఢ్,賴格爾縣	22.08582	83.30603	A	ADM2	IN		37	403			1493984		270	Asia/Kolkata	2018-05-26
+1259013	Raichur	Raichur	Distretto di Raichur,District de Raichur,Districte de Raichur,Distrito de Raichur,RCH,Raichur,Raichur District,Raichur district,Raichūr District,Rajchur,Rāichūr,lai jiu er xian,mntqt rayshwr,rayacuda jilla,rayacura jil'ha,rayacura jila,rayacura jillo,rayacuru jilla,rayacuru jille,rayacurumandalam,rayccur mavattam,Райчур,ضلع رائچر,منطقة رايشور,रायचूड जिल्ला,रायचूड़ जिला,रायचूर जिल्हा,रायचूरु जिल्ला,रायचूरुमण्डलम्,રાયચૂર જિલ્લો,ராய்ச்சூர் மாவட்டம்,ರಾಯಚೂರು ಜಿಲ್ಲೆ,赖久尔县	16.16	76.91	A	ADM2	IN		19	559			1928812		448	Asia/Kolkata	2018-05-26
+1259065	Rāe Bareli	Rae Bareli	RBL,Rae Bareli,Rae Bareli District,Raebareli,Raebareli district,Rāe Bareli,Rāe Bareli District,rayabareli zila,रायबरेली ज़िला	26.25	81.25	A	ADM2	IN		36	158			3405559		117	Asia/Kolkata	2025-04-13
+1259164	Puruliya	Puruliya	PRL,Purulia,Puruliya,Purūlia	23.33333	86.41667	A	ADM2	IN		28	340			2930115		240	Asia/Kolkata	2018-05-26
+1259168	Purnia	Purnia	PRN,Purnea,Purnea District,Purnia,purniya,पूर्णिया	25.81614	87.40708	A	ADM2	IN		34	211			3264619		41	Asia/Kolkata	2018-05-26
+1259186	Pūrba Champāran	Purba Champaran	Champaran East,East Champaran,PRC,Purba Champaran,Purba Champaran District,Purbi Champaran,Pūrba Champāran,purvi camparana,पूर्वी चंपारण	26.58333	84.83333	A	ADM2	IN		34	204			5099371		69	Asia/Kolkata	2023-07-01
+1259298	Pudukkottai	Pudukkottai	PDK,Pudukkottai	10.35	78.9	A	ADM2	IN		25	621			1618345		103	Asia/Kolkata	2018-05-26
+1259339	Pratāpgarh	Pratapgarh	PRG,Partabgarh,Partabgarh District,Partapgarh,Partāpgarh,Pratapgarh,Pratāpgarh	25.75	81.75	A	ADM2	IN		36	173			3209141		101	Asia/Kolkata	2023-07-02
+1259346	Prakasam	Prakasam	Distretto di Prakasam,District de Prakasam,Distrito de Prakasam,PRA,Prakasam,Prakasam district,pirakacam mavattam,prakasam jilla,prakasama jil'ha,prakasama jila,prakasama jilla,prakasama jillo,prakasama zila,prakasamandalam,pu la ka sang xian,pʼrakʼasamis olki,Пракасам,ضلع پاراکسم,प्रकाशम जिल्ला,प्रकाशम जिल्हा,प्रकाशमण्डलम्,प्रकासम जिला,ਪ੍ਰਕਾਸਮ ਜ਼ਿਲਾ,પ્રકાસમ જિલ્લો,ପ୍ରକାସମ ଜିଲ୍ଲା,பிரகாசம் மாவட்டம்,ప్రకాశం జిల్లా,პრაკასამის ოლქი,普拉喀桑縣	15.5	79.5	A	ADM2	IN		02	549			3397448		128	Asia/Kolkata	2018-05-26
+1259426	Puducherry	Puducherry	PON,Pondicherry,Pondichery,Pondichéry,Puducherry	11.91667	79.75	A	ADM2	IN		22	635			950289		12	Asia/Kolkata	2018-05-26
+1259504	Pithorāgarh	Pithoragarh	PTH,Pithoragarh,Pithorāgarh	30	80.25	A	ADM2	IN		39	062			483439		2059	Asia/Kolkata	2018-05-26
+1259687	Pīlībhīt	Pilibhit	PLB,Pilibhit,Pilibhit District,Pīlībhīt	28.55	80.1	A	ADM2	IN		36	151			2031007		184	Asia/Kolkata	2023-07-02
+1259785	Phek	Phek	PHK,Phek,Pheka	25.75	94.5	A	ADM2	IN		20	266			163418		1128	Asia/Kolkata	2018-05-26
+1260091	Patna	Patna	Distretto di Patna,District de Patna,Districte de Patna,Distrito de Patna,PTN,Patna,Patna District,Patna district,ba te na xian,patana,patana jela,patana jil'ha,patana jila,patana jilla,patana jillo,patanamandalam,patna mavattam,Патна,ضلع پتنا,پٹنہ ضلع,पटना,पटना जिला,पटना जिल्ला,पटना जिल्हा,पटनामण्डलम्,পাটনা জেলা,પટણા જિલ્લો,ପଟନା ଜିଲ୍ଲା,பட்னா மாவட்டம்,巴特那縣	25.41667	85.16667	A	ADM2	IN		34	230			5838465		53	Asia/Kolkata	2018-05-26
+1260108	Patiala	Patiala	Distretto di Patiala,District Patiala,District de Patiala,Distrito de Patiala,PTL,Patiala,Patiala District,Patiala district,Patialan piirikunta,Patiāla,mntqt batyala,pa ti ya la xian,pati'ala jilla,pati'ala zil'ha,patiyala jil'ha,patiyala jila,patiyala jilla,patiyala jillo,patiyalamandalam,Патиала,ضلع پٹیالہ,منطقة باتيالا,पटिआला जिल्ला,पटियाला जिला,पटियाला जिल्ला,पटियालामण्डलम्,पातियाळा जिल्हा,ਪਟਿਆਲਾ ਜ਼ਿਲ੍ਹਾ,પટિયાલા જિલ્લો,ପଟିଆଲା ଜିଲ୍ଲା,帕提亞拉縣	30.35	76.4	A	ADM2	IN		23	048			1895686		256	Asia/Kolkata	2018-05-26
+1260208	Pashchim Champāran	Pashchim Champaran	Champaran West,Champarān West,PSC,Pashchim Champaran,Pashchim Champāran,West Champaran,pascima camparana,पश्चिम चम्पारण	27	84.5	A	ADM2	IN		34	203			3935042		80	Asia/Kolkata	2023-07-11
+1260342	Parbhani	Parbhani	PBN,Parbhani,Parbhani District,parabhani,परभणी	19.5	76.75	A	ADM2	IN		16	513			1836086		410	Asia/Kolkata	2018-05-26
+1260455	Panna	Panna	PNN,Panna	24.5	80.25	A	ADM2	IN		35	426			1016520		337	Asia/Kolkata	2018-05-26
+1260571	Pānch Mahāls	Panch Mahals	Broach and Panch Mahals,Broach and Panch Mahals District,Broach and Pānch Mahāls,Broach and Pānch Mahāls District,PMS,Panch Mahals,Panch Mahals District,Panchmahal,Pānch Mahāls	22.75	73.6	A	ADM2	IN		09	484			2390776		119	Asia/Kolkata	2023-07-02
+1260724	Pāli	Pali	PAL,Pali,Pāli	25.75	73.5	A	ADM2	IN		24	118			2037573		239	Asia/Kolkata	2018-05-26
+1260783	Palāmu	Palamu	PLM,Palamau,Palamau District,Palamu,Palāmau,Palāmau District,Palāmu,palamu,पलामू	23.91667	84.08333	A	ADM2	IN		38	358			1939869		348	Asia/Kolkata	2023-07-02
+1261013	Osmanabad	Osmanabad	OSM,Osmanabad,Osmanabad District,usmanabada,उस्मानाबाद	18.25	76.16667	A	ADM2	IN		16	525			1657576		650	Asia/Kolkata	2018-05-26
+1261174	North Tripura	North Tripura	NTR,North Tripura,uttara tripura,উত্তর ত্রিপুরা	24.35539	92.17104	A	ADM2	IN		26	292			693947		23	Asia/Kolkata	2023-09-22
+1261190	Mangan	Mangan	NDT,North  District,North District,North Sikkim,North Sikkim district,Northern	27.66667	88.5	A	ADM2	IN		29	241			43709		4276	Asia/Kolkata	2023-12-14
+1261192	Dima Hasao District	Dima Hasao District	DHO,Dima Hasao,Dima Hasao District,North Cachar Hills,North Cāchār Hills	25.5	93	A	ADM2	IN		03	315			214102		222	Asia/Kolkata	2018-05-26
+1261260	Nizamabad	Nizamabad	NIZ,Nizamabad,Nizamabad District,Nizāmābād,nijamabadu,నిజామాబాదు	18.75	78.25	A	ADM2	IN		40	533			2551335		395	Asia/Kolkata	2018-07-11
+1261391	Nilgiris	Nilgiris	NIL,Nilagiri,Nilgiri,Nilgiris,Nilgiris District,Nīlagiri,Nīlgiri,The Nilgiris,VWY,nilakiri mavattam,நீலகிரி மாவட்டம்	11.46	76.64	A	ADM2	IN		25	611			735394		2101	Asia/Kolkata	2018-05-27
+1261448	Nicobar	Nicobar	NIC,Nicobar Islands,Nicobars	7.03002	93.79028	A	ADM2	IN		01	638			36842		113	Asia/Kolkata	2018-05-26
+1261530	Nellore	Nellore	Distretto di Nellore,District de Nellore,Districte dAmarajeevi Potti Sri Ramulu Nellore,Distrito de Sri Amarajeevi Potti Sri Ramulu Nellore,NEL,Nellore,Nellore District,Nelluru,Spsr Nellore,Sri Amarajeevi Potti Sri Ramulu Nellore,Sri Potti Sri Ramulu Nellore district,Sri Potti Sriramulu Nellore,Sri Potti Sriramulu Nelloren piirikunta,ciri potti ciri ramulu nellur mavattam,nei luo er xian,nellaura jilla,nellora jil'ha,nellora jila,nellora jilla,nellora jillo,nellurumandalam,nelora zila,neloris olki,sri potti sriramulu nelluru jilla,Неллуру,نیلور ضلع,नेल्लूरुमण्डलम्,नेल्लोर जिला,नेल्लोर जिल्हा,नेल्लौर जिल्ला,श्री पोट्टि श्रीरामुलु नेल्लूरु जिल्ला,ਨੇੱਲੋਰ ਜ਼ਿਲਾ,નેલ્લોર જિલ્લો,ନେଲ୍ଲୋର ଜିଲ୍ଲା,சிறீ பொட்டி சிறீ ராமுலு நெல்லூர் மாவட்டம்,శ్రీ పొట్టి శ్రీరాములు నెల్లూరు జిల్లా,ნელორის ოლქი,內洛爾縣	14.74552	79.70529	A	ADM2	IN		02	550			2963557		56	Asia/Kolkata	2023-12-20
+1261632	Nawāda	Nawada	NAW,Nawada,Nawada District,Nawadah,Nawāda,navada,नवादा	24.75	85.5	A	ADM2	IN		34	237			2219146		117	Asia/Kolkata	2023-07-01
+1261755	Narsimhapur	Narsimhapur	NRS,Narsimhapur,Narsinghpur,Narsinhapur	22.91667	79.16667	A	ADM2	IN		35	452			1091854		352	Asia/Kolkata	2023-07-11
+1261978	Nanded	Nanded	Distretto di Nanded,District de Nanded,Districte de Nander,Distrito de Nanded,NAN,Nanded,Nanded District,Nander,Nānded,mntqt nandyd,nan de la xian,nanded jilla,nandeda,nandeda jil'ha,nandeda jilla,nandedamandalam,nandera jila,nantet mavattam,Нандер,ضلع ناندد,منطقة نانديد,ناندیڑ ضلع,नांदेड,नांदेड जिल्ला,नांदेड जिल्हा,नांदेड़ जिला,नान्देडमण्डलम्,ନାନ୍ଦେଡ ଜିଲ୍ଲା,நாந்தேட் மாவட்டம்,నాందేడ్ జిల్లా,楠德拉縣	18.91667	77.5	A	ADM2	IN		16	511			3361292		448	Asia/Kolkata	2018-05-26
+1262068	Nalgonda	Nalgonda	NLG,Nalgonda,Nalgonda District,nalgonda,నల్గొండ	17.16667	79.5	A	ADM2	IN		40	539			3488809		192	Asia/Kolkata	2023-06-28
+1262081	Nālanda	Nalanda	NLD,Nalanda,Nālanda,nalanda,नालंदा	25.25	85.58333	A	ADM2	IN		34	229			2877653		55	Asia/Kolkata	2023-07-11
+1262118	Naini Tāl	Naini Tal	NNT,Naini Tal,Naini Tal District,Naini Tāl,Naini Tāl District,Nainital	29.2	79.41667	A	ADM2	IN		39	066			954605		328	Asia/Kolkata	2018-05-26
+1262217	Nāgaur	Nagaur	NGR,Nagaur,Nagore,Nāgaur	27	74.25	A	ADM2	IN		24	112			3307743		349	Asia/Kolkata	2020-06-10
+1262293	Nadia	Nadia	NAD,Nadia,Nadia ,Nadia District,Nadiā District	23.25	88.5	A	ADM2	IN		28	336			5167600		12	Asia/Kolkata	2018-05-26
+1262322	Mysore	Mysore	MYS,Mysore,Mysore District,Mysuru	12.23	76.42	A	ADM2	IN		19	577			3001127		742	Asia/Kolkata	2018-05-26
+1262331	Muzaffarpur	Muzaffarpur	Distretto di Muzaffarpur,District de Muzaffarpur,Districte de Muzaffarpur,Distrito de Muzaffarpur,MUZ,Muzaffarpur,Muzaffarpur District,Muzaffarpur district,mu zha fa er bu er xian,mucaparpur mavattam,mujaphapharapura jela,mujapharapura jilla,mujaphpharapura,mujaphpharapura jila,mujaphpharapura jilla,mujaphpharapura jillo,mujhaphpharapura jil'ha,mujhaphpharapuramandalam,Музаффарпур,ضلع مظفرپور,مظفرپور ضلع,मुजफ्फरपुर,मुजफ्फरपुर जिला,मुजफ्फरपुर जिल्ला,मुझफ्फरपुरमण्डलम्,मुझफ्फरपूर जिल्हा,মুজফফরপুর জেলা,મુજફ્ફરપુર જિલ્લો,ମୁଜଫରପୁର ଜିଲ୍ଲା,முசாபர்பூர் மாவட்டம்,穆扎法爾布爾縣	26.16667	85.41667	A	ADM2	IN		34	216			4801062		55	Asia/Kolkata	2018-05-26
+1262333	Muzaffarnagar	Muzaffarnagar	Distretto di Muzaffarnagar,District de Muzaffarnagar,Districte de Muzaffarnagar,Distrito de Muzaffarnagar,MZN,Muzaffarnagar,Muzaffarnagar District,Muzaffarnagar district,mntqt mwzafarnjr,mu zha fei er na jia xian,mucaparnakar mavattam,mujapharanagara jilla,mujaphpharanagara,mujaphpharanagara jilla,mujaphpharanagara jillo,mujaphpharanagaramandalam,mujhaphpharanagara jil'ha,muzaffara nagara jila,mzfrngr,Музаффарнагар,ضلع مظفرنگر,مظفرنگر,مظفرنگر ضلع,منطقة موزافارنجر,मुजफ्फरनगर,मुजफ्फरनगर जिल्ला,मुजफ्फरनगरमण्डलम्,मुज़फ़्फ़र नगर जिला,मुझफ्फरनगर जिल्हा,মুজাফ্ফরনগর,મુજફ્ફરનગર જિલ્લો,ମୁଜଫରନଗର ଜିଲ୍ଲା,முசாபர்நகர் மாவட்டம்,姆扎費爾那加縣	29.45	77.58333	A	ADM2	IN		36	133			4143512		246	Asia/Kolkata	2018-05-26
+1262483	Munger	Munger	MNG,Monghyr,Monghyr District,Munger,Munger District,mungera,मुंगेर	25.36099	86.46515	A	ADM2	IN		34	226			1367765		43	Asia/Kolkata	2023-07-01
+1262772	Morena	Morena	MRN,Morena,Tonwarghar	26.16667	77.5	A	ADM2	IN		35	419			1965970		192	Asia/Kolkata	2018-05-26
+1262802	Morādābād	Moradabad	MRB,Moradabad,Moradabad District,Morādābād,Morādābād District	28.8525	78.79703	A	ADM2	IN		36	135			4772006		192	Asia/Kolkata	2018-07-13
+1262825	Mon	Mon	MON,Mon	26.75	94.83333	A	ADM2	IN		20	261			250260		753	Asia/Kolkata	2018-05-26
+1262844	Mokokchūng	Mokokchung	MKK,Mokokchung,Mokokchung District	26.31393	94.51675	A	ADM2	IN		20	262			194622		1055	Asia/Kolkata	2023-07-01
+1262997	Mirzāpur	Mirzapur	MZP,Mirzapur	25.11462	82.60895	A	ADM2	IN		36	199			2496970		91	Asia/Kolkata	2018-05-26
+1263215	Meerut	Meerut	MRT,Meerut,Meerut District	28.91667	77.68333	A	ADM2	IN		36	138			3443689		220	Asia/Kolkata	2018-05-26
+1263231	Medak	Medak	MDK,Medak,Medak District,medak,మెదక్	17.75	78.25	A	ADM2	IN		40	535			3033288		534	Asia/Kolkata	2023-07-01
+1263245	Mayūrbhanj	Mayurbhanj	MYR,Mayurbhanj,Mayurbhanj district,Mayūrbhanj	21.75	86.5	A	ADM2	IN		21	376			2519738		298	Asia/Kolkata	2023-06-28
+1263366	Mathura	Mathura	Distretto di Mathura,District de Mathura,Districte de Mathura,Distrito de Mathura,MTH,Mathura,Mathura District,Mathura district,Matkhura,Muttra,Muttra District,ma tu la xian,mathura jela,mathura jil'ha,mathura jila,mathura jilla,mathura jillo,mathura zila,mathuramandalam,matura mavattam,mntqt mathwra,Матхура,ضلع متھرا,متھرا ضلع,منطقة ماثورا,मथुरा ज़िला,मथुरा जिला,मथुरा जिल्ला,मथुरा जिल्हा,मथुरामण्डलम्,মথুরা জেলা,મથુરા જિલ્લો,ମଥୁରା ଜିଲ୍ଲା,மதுரா மாவட்டம்,馬圖拉縣	27.63333	77.58333	A	ADM2	IN		36	145			2547184		184	Asia/Kolkata	2018-05-26
+1263815	Mandya	Mandya	MDY,Mandya	12.58333	76.66667	A	ADM2	IN		19	573			1805769		790	Asia/Kolkata	2018-05-26
+1263835	Mandsaur	Mandsaur	Distretto di Mandsaur,District de Mandsaur,Distrito de Mandsaur,MAN,Mandasor,Mandasor District,Mandsaur,Mandsaur district,man de sao xian,mandasa'ura jilla,mandasaura jil'ha,mandasaura jila,mandasaura jilla,mandasaura jillo,mandasauramandalam,mntqt mandswr,Мандсаур,منطقة ماندسور,मंदसौर जिला,मंदसौर जिल्ला,मंदसौर जिल्हा,मन्दसौर जिल्ला,मन्दसौरमण्डलम्,મંદસૌર જિલ્લો,ମନ୍ଦସଉର ଜିଲ୍ଲା,曼德騷縣	24.15121	75.36397	A	ADM2	IN		35	433			1340411		423	Asia/Kolkata	2023-09-24
+1263853	Mandla	Mandla	Distretto di Mandla,District de Mandla,Districte de Mandla,Distrito de Mandla,MDL,Mandla,Mandla District,Mandla district,man de la xian,mandala jil'ha,mandala jila,mandala jilla,mandala jillo,mandalamandalam,mandla,mantla mavattam,mntqt mandla,Мандла,منطقة ماندلا,मंडला जिला,मंडला जिल्ला,मंडला जिल्हा,मण्डलामण्डलम्,મંડલા જિલ્લો,ମଣ୍ଡଲା ଜିଲ୍ଲା,மண்ட்லா மாவட்டம்,మండ్ల,曼德拉縣	22.64041	80.51344	A	ADM2	IN		35	454			1054905		458	Asia/Kolkata	2018-05-26
+1263863	Mandi	Mandi	MND,Mandi	31.75	77	A	ADM2	IN		11	027			999777		1250	Asia/Kolkata	2018-05-26
+1264122	Māldah	Maldah	MLD,Malda,Malda District,Maldah,Maldah ,Mālda,Mālda District,Māldah	25	88	A	ADM2	IN		28	332			3988845		28	Asia/Kolkata	2024-05-17
+1264155	Malappuram	Malappuram	MLP,Malappuram,malappuram,മലപ്പുറം	11	76.16667	A	ADM2	IN		13	592			4112920		47	Asia/Kolkata	2018-05-26
+1264293	Mainpuri	Mainpuri	Distretto di Mainpuri,District de Mainpuri,Districte de Mainpuri,Distrito de Mainpuri,MPR,Mainpuri,Mainpuri District,Mainpuri district,Majnpuri,maimpuri,mainapuri jil'ha,mainapuri jila,mainapuri jilla,mainapuri jillo,mainapuri zila,mainapurimandalam,mainpuri mavattam,man pu li xian,mntqt manbwry,Майнпури,ضلع میںپوری,منطقة مانبوري,مین پوری ضلع,मैनपुरी ज़िला,मैनपुरी जिला,मैनपुरी जिल्ला,मैनपुरी जिल्हा,मैनपुरीमण्डलम्,મૈનપુરી જિલ્લો,ମୈନପୁରୀ ଜିଲ୍ଲା,மைன்புரி மாவட்டம்,మైంపూరి,曼普里縣	27.16667	79	A	ADM2	IN		36	148			1868529		155	Asia/Kolkata	2018-05-26
+1264390	Mahesāna	Mahesana	MHN,Mahesana,Mahesāna,Mehsana,Mehsana District,Mehsāna District	23.66667	72.5	A	ADM2	IN		09	471			2035064		109	Asia/Kolkata	2023-06-28
+1264396	Mahendragarh	Mahendragarh	MGH,Mahendergarh,Mahendragarh,Mahendragarth,Mohindargarh,Mohindergarh,kwrwkshtra,ma he en de la jia er,mahendragara,mahendragarha,كوروكشترا,महेंद्रगढ़,ମହେନ୍ଦ୍ରଗଡ଼,马赫恩德拉加尔	28.25	76.16667	A	ADM2	IN		10	084			922088		277	Asia/Kolkata	2018-05-26
+1264404	Mahe	Mahe	MHE,Mahe,Mahe District,Mayyazhi	11.7	75.53333	A	ADM2	IN		22	636			41816		16	Asia/Kolkata	2023-07-01
+1264408	Mahbūbnagar	Mahbubnagar	MAH,Mahabub Nagar,Mahabubnagar,Mahboobnagar,Mahbubnagar,Mahbubnagar District,Mahbūbnagar,Mahbūbnagar District,mahabub nagar,మహబూబ్ నగర్	16.76091	77.99587	A	ADM2	IN		40	538			4053028		551	Asia/Kolkata	2023-09-23
+1264522	Madurai	Madurai	MDR,Madura,Madurai,Madurai District,Mathurai	9.89	78.03	A	ADM2	IN		25	623			3038252		141	Asia/Kolkata	2018-05-26
+1264556	Madhubani	Madhubani	MDB,Madhubani,madhubani,मधुबनी	26.33333	86.08333	A	ADM2	IN		34	207			4487379		57	Asia/Kolkata	2018-05-26
+1264729	Ludhiana	Ludhiana	Distretto di Ludhiana,District de Ludhiana,Districte de Ludhiana,Distrito de Ludhiana,LDH,Ludhiana,Ludhiana District,Ludhiana district,Ludhianan piirikunta,Ludhiāna,Ludhiāna District,Ludkhijana,lu di ya na xian,ludhi'ana jilla,ludhi'ana zil'ha,ludhiyana,ludhiyana jil'ha,ludhiyana jila,ludhiyana jilla,ludhiyana jillo,ludhiyanamandalam,mntqt lwdyana,Лудхияна,ضلع لدھیانہ,منطقة لوديانا,लुधिआणा जिल्ला,लुधियाना जिला,लुधियाना जिल्ला,लुधियाना जिल्हा,लुधियानामण्डलम्,ਲੁਧਿਆਣਾ ਜ਼ਿਲ੍ਹਾ,લુધિયાણા જિલ્લો,ଲୁଧିଆନା ଜିଲ୍ଲା,లుధియానా,盧迪亞納縣	30.84	75.82	A	ADM2	IN		23	041			3498739		252	Asia/Kolkata	2018-05-26
+1264734	Lucknow District	Lucknow District	LCK,Lucknow,Lucknow District,lakhana'u,लखनऊ	26.75	81	A	ADM2	IN		36	157			4589838		121	Asia/Kolkata	2018-05-26
+1264739	Lower Subansiri	Lower Subansiri	LSI,Lower Subansiri	27.56478	93.79433	A	ADM2	IN		30	255			83030		1647	Asia/Kolkata	2023-12-21
+1264818	Lohit District	Lohit District	LHT,Lohit,Lohit District,Lohit Frontier Division	27.98576	96.17549	A	ADM2	IN		30	259			145726		319	Asia/Kolkata	2023-09-24
+1265158	Lalitpur	Lalitpur	LLP,Lalitpur,lalitapura,ललितपुर	24.5	78.5	A	ADM2	IN		36	167			1221592		393	Asia/Kolkata	2018-05-26
+1265243	Lakhimpur	Lakhimpur	Distretto di Lakhimpur,Districte de Lakhimpur,Distrito de Lakhimpur,LKP,Lakhimpur,Lakhimpur district,Lakhimpurin piirikunta,Lakimpur District,lakhimapura jela,lakhimapura jil'ha,lakhimapura jila,lakhimapura jilla,lakhimapura jillo,lakhimapuramandalam,lakhimpur,lakkimpur mavattam,ضلع لکھیمپور,लखिमपुर जिल्ला,लखिमपुरमण्डलम्,लखीमपुर जिला,लखीमपुर जिल्हा,লখিমপুর জেলা,লখিমপুৰ জিলা,લખિમપુર જિલ્લો,லக்கீம்பூர் மாவட்டம்,లఖింపూర్	27.35	94.25	A	ADM2	IN		03	307			1042137		97	Asia/Kolkata	2018-05-26
+1265292	Lāhul and Spiti	Lahul and Spiti	LAS,Lahaul and Spiti District,Lahoul and Spiti,Lahul & Spiti,Lahul and Piti,Lahul and Spiti,Lāhul and Spiti,Spiti and Lahoul	32.5	77.83333	A	ADM2	IN		11	025			31564		5492	Asia/Kolkata	2023-06-30
+1265343	Leh	Leh	LLD,Ladakh,Ladakh District,Ladākh,Ladākh District,Leh Ladakh,Leh district,Leh(Ladakh)	34.33333	77.41667	A	ADM2	IN		41	003			133487		5273	Asia/Kolkata	2023-12-13
+1265468	Kurukshetra	Kurukshetra	KRK,Kuruksetra,Kurukshetra,Kurukszetra,Kurukšétra,Kurusetra,kuruccettiram,kuruksetra,kuruksetram,Курукшетра,ضلع کروکشترا,कुरुक्षेत्र,कुरुक्षेत्रम्,কুরুক্ষেত্র,કુરુક્ષેત્ર,குருச்சேத்திரம்,కురుక్షేత్రం,കുരുക്ഷേത്രം	30	76.75	A	ADM2	IN		10	072			964655		252	Asia/Kolkata	2018-05-26
+1265492	Kurnool	Kurnool	Distretto di Kurnool,District de Kurnool,Districte de Kurnool,Distrito de Kurnool,KUR,Karnul,Kurnool,Kurnool District,Kurnool district,Kurnoolin piirikunta,karnul mavattam,karnulu jilla,karnulumandalam,krnwl,kuranula zila,kurnula,kurnula jil'ha,kurnula jila,kurnula jilla,kʼurnulis olki,shhrstan kwrnwwl,Карнул,شهرستان کورنوول,ضلع کرنول,كرنول,کرنول ضلع,कर्नूलुमण्डलम्,कुर्नूल जिला,कुर्नूल जिल्ला,कुर्नूल जिल्हा,ਕੁਰਨੂਲ ਜ਼ਿਲਾ,કુર્નૂલ,କୁର୍ନୂଲ ଜିଲ୍ଲା,கர்நூல் மாவட்டம்,కర్నూలు జిల్లా,კურნულის ოლქი	15.61134	77.65265	A	ADM2	IN		02	552			4053463		404	Asia/Kolkata	2023-12-20
+1265710	Kulu	Kulu	KUL,Kullu,Kulu	32	77.25	A	ADM2	IN		11	026			437903		1567	Asia/Kolkata	2018-05-26
+1265869	Krishna	Krishna	KRS,Kistna,Kistna District,Krishna,bkhsh krshna,krshna,mqatʿt krshna,بخش کرشنا,كرشنا,مقاطعة كرشنا,کرشنا	16.30312	80.99566	A	ADM2	IN		02	547			4517398		5	Asia/Kolkata	2023-12-20
+1265874	Kozhikode	Kozhikode	KOZ,Kozhikode,kealikkeat,കോഴിക്കോട്	11.5	76	A	ADM2	IN		13	591			3086293		127	Asia/Kolkata	2024-01-18
+1265912	Kottayam	Kottayam	KTM,Kottayam,keattayam,കോട്ടയം	9.66667	76.66667	A	ADM2	IN		13	597			1974551		53	Asia/Kolkata	2018-05-26
+1266054	Kota	Kota	KOT,Kota,Kota District,Kotah	25.17512	75.84412	A	ADM2	IN		24	127			1951014		273	Asia/Kolkata	2023-06-28
+1266129	Koraput	Koraput	KRP,Koraput,Koraput District	19	83	A	ADM2	IN		21	398			1379647		809	Asia/Kolkata	2023-06-28
+1266287	Kolhapur	Kolhapur	KLP,Kolhapur,kol'hapura,कोल्हापूर	16.69013	74.22981	A	ADM2	IN		16	530			3876001		564	Asia/Kolkata	2018-05-26
+1266306	Kolar	Kolar	Distretto di Kolar,Districte de Kolar,KLR,Kolar,Kolar District,Kolar district,Kolār,Kolār District,kolar mavattam,kolara jil'ha,kolara jila,कोलार जिला,कोलार जिल्हा,கோலார் மாவட்டம்	13.13	78.23	A	ADM2	IN		19	581			1536401		815	Asia/Kolkata	2018-05-26
+1266367	Kohīma	Kohima	KHM,Kohima,Kohīma	25.75	94.16667	A	ADM2	IN		20	270			267988		1092	Asia/Kolkata	2018-05-26
+1266426	Kodagu	Kodagu	Coorg,KDG,Kodagu,Kodagu District,Mercara,Mercāra	12.41667	75.75	A	ADM2	IN		19	576			554519		1186	Asia/Kolkata	2023-06-30
+1266437	Koch Bihār	Koch Bihar	CBH,Cooch Behar,Cooch Behār,Coochbehar,Koch Bihar,Koch Bihar ,Koch Bihār	26.25	89.5	A	ADM2	IN		28	329			2819086		38	Asia/Kolkata	2024-05-14
+1266519	Kinnaur	Kinnaur	Distretto di Kinnaur,District de Kinnaur,Distrito de Kinnaur,KIN,Kinnaur,Kinnaur district,jin nao er xian,kinaura zila,kinna'ura jilla,kinnara jela,kinnaur,kinnaur mavattam,kinnaura jil'ha,kinnaura jila,kinnaura jilla,kinnauramandalam,kinnora jillo,Киннаур,ضلع کنور,किन्नौर जिला,किन्नौर जिल्ला,किन्नौर जिल्हा,किन्नौरमण्डलम्,কিন্নর জেলা,ਕਿਨੌਰ ਜ਼ਿਲਾ,કિન્નોર જિલ્લો,କିନ୍ନାଉର ଜିଲ୍ଲା,கின்னௌர் மாவட்டம்,కిన్నౌర్,金瑙爾縣	31.58333	78.41667	A	ADM2	IN		11	034			84121		2344	Asia/Kolkata	2018-05-26
+1266768	Kheri	Kheri	KHR,Kheri,Kheri District,Kherī District	28.11667	80.71667	A	ADM2	IN		36	153			4021243		145	Asia/Kolkata	2018-05-26
+1266810	Kheda	Kheda	Distretto di Kheda,District de Kheda,Districte de Kheda,Distrito de Kheda,KHE,Kaira,Kaira District,Kheda,Kheda district,Khedan piirikunta,Kkheda,ke da xian,keta mavattam,kheda,kheda jil'ha,kheda jilla,kheda jillo,khedamandalam,khera jila,khera jilla,Кхеда,ضلع کھیڈا,खेड़ा जिला,खेडा जिल्ला,खेडा जिल्हा,खेडामण्डलम्,ખેડા જિલ્લો,ଖେଡ଼ା ଜିଲ୍ଲା,கேதா மாவட்டம்,ఖేడా,科达县	22.75	72.83333	A	ADM2	IN		09	483			2299885		30	Asia/Kolkata	2018-05-26
+1266857	East Khāsi Hills	East Khasi Hills	EKH,East Khasi Hills,East Khasi Hills District	25.3805	91.78905	A	ADM2	IN		18	298			825922		1750	Asia/Kolkata	2018-05-26
+1267077	Khammam	Khammam	KMM,Khammam,Khammam district,Khammamamet,kham'mam,ఖమ్మం	17.23043	80.21338	A	ADM2	IN		40	541			2797370		139	Asia/Kolkata	2023-12-21
+1267268	Kendujhar	Kendujhar	KNH,Kendujhar,Keonjhar,Keonjhargarh	21.5	85.5	A	ADM2	IN		21	375			1801733		601	Asia/Kolkata	2018-05-26
+1267487	Kathua	Kathua	KTH,Kathua,Kathua District	32.58333	75.5	A	ADM2	IN		12	007			616435		570	Asia/Kolkata	2023-07-01
+1267709	Karnāl	Karnal	KRL,Karnal,Karnal District,Karnāl,Karnāl District	29.66667	76.83333	A	ADM2	IN		10	074			1505324		242	Asia/Kolkata	2023-07-01
+1267756	Karīmnagar	Karimnagar	KRM,Karim Nagar,Karimnagar,Karimngar District,Karīmnagar,Karīmngar District,karinnagar,కరీంనగర్	18.33844	79.22938	A	ADM2	IN		40	534			3776269		290	Asia/Kolkata	2018-07-13
+1267812	Kārbi Ānglong	Karbi Anglong	KAG,Karbi Anglong,Karbi Anglong district,Korbi Anglong,Kārbi Ānglong,Mikir Hills,Mīkīr Hills	26	93.5	A	ADM2	IN		03	314			956313		303	Asia/Kolkata	2023-06-28
+1267888	Kāraikāl	Karaikal	KKL,Karaikal,Karaikal District,Karaikkal,Karikal,Kāraikāl,Kārikāl	10.92209	79.83353	A	ADM2	IN		22	637			200222		8	Asia/Kolkata	2018-05-26
+1267912	Kapurthala	Kapurthala	Distretto di Kapurthala,District de Kapurthala,Distrito de Kapurthala,KPR,Kapurthala,Kapurthala ,Kapurthala (India : District),Kapurthala district,Kapurthalan piirikunta,Kapurtkhala,Kapūrthala,Kapūrthala (India : District),ka pu ta la xian,kapurathala jil'ha,kapurathala jila,kapurathala jilla,kapurathala jillo,kapurathala zil'ha,kapurathalamandalam,kapurtala,mntqt kabwrthala,Капуртхала,ضلع کپورتھلہ,منطقة كابورتهالا,कपुरथला जिल्हा,कपूरथला जिला,कपूरथला जिल्ला,कपूरथलामण्डलम्,ਕਪੂਰਥਲਾ ਜ਼ਿਲ੍ਹਾ,કપૂરથલા જિલ્લો,କପୂରଥଲା ଜିଲ୍ଲା,కపూర్తలా,卡普塔拉縣	31.4	75.31	A	ADM2	IN		23	036			815168		218	Asia/Kolkata	2018-05-26
+1267997	Kānpur	Kanpur	Cawnpore,Cawnpore District,Cawnpōre,KPN,Kanpur,Kanpur District,Kanpur Nagar,Kānpur,Kānpur District	26.38052	80.21578	A	ADM2	IN		36	164			4581268		126	Asia/Kolkata	2018-05-26
+1268009	Kanniyakumari	Kanniyakumari	KNY,Kanniyakumari,Kanniyākumāri,Kanyakumari	8.32	77.34	A	ADM2	IN		25	629			1870374		239	Asia/Kolkata	2018-05-26
+1268085	Kāngra	Kangra	KNG,Kangra,Kangra District,Kāngra,Kāngra District	32.16667	76.25	A	ADM2	IN		11	024			1510075		685	Asia/Kolkata	2023-06-29
+1268209	Kāmrūp	Kamrup	KMP,Kamrup,Kamrup District,Kāmrūp,Ramrup	26.22322	91.65344	A	ADM2	IN		03	321			1517542		48	Asia/Kolkata	2023-07-01
+1268508	Kālāhandi	Kalahandi	KLH,Kalahandi,Kalahandi District,Kālāhandi	19.75	83	A	ADM2	IN		21	395			1576869		445	Asia/Kolkata	2023-06-28
+1268731	Kutch	Kutch	KCH,Kachchh,Kutch,Kutch district	23.58333	70	A	ADM2	IN		09	468			2092371		5	Asia/Kolkata	2023-06-28
+1268774	Jūnāgadh	Junagadh	JNG,Junagadh,Junagadh District,Jūnāgadh,Jūnāgadh District	21.25	70.33333	A	ADM2	IN		09	479			2743082		70	Asia/Kolkata	2023-07-01
+1268783	Jalandhar	Jalandhar	Distretto di Jalandhar,District de Jalandhar,Districte de Jalandhar,Distrito de Jalandhar,Dzhalandkhar,JLN,Jalandhar,Jalandhar District,Jalandhar district,jaladhara zila,jalandhara,jalandhara jila,jalandhara jillo,Джаландхар,ضلع جلندر,जलंधर,जालंधर जिला,ਜਲੰਧਰ ਜ਼ਿਲਾ,જલંધર જિલ્લો	31.41667	75.61667	A	ADM2	IN		23	037			2193590		240	Asia/Kolkata	2018-05-26
+1268867	Jodhpur	Jodhpur	JDH,Jodhpur	26.75	72.75	A	ADM2	IN		24	113			3687165		296	Asia/Kolkata	2018-05-26
+1268908	Jīnd	Jind	JND,Jind,Jīnd	29.5	76.25	A	ADM2	IN		10	077			1334152		226	Asia/Kolkata	2018-05-26
+1268937	Jhunjhunūn	Jhunjhunun	JHN,Jhujhunu,Jhunjhunu,Jhunjhunu district,Jhunjhunun,Jhunjhunūn,Jhūnjhunu	28	75.5	A	ADM2	IN		24	103			2137045		361	Asia/Kolkata	2023-06-28
+1269007	Jhānsi	Jhansi	JHS,Jhansi,Jhansi District,Jhānsi,Jhānsi District	25.5	78.5	A	ADM2	IN		36	166			1998603		244	Asia/Kolkata	2023-06-29
+1269028	Jhālāwār	Jhalawar	JHL,Jhalawar,Jhālāwār	24.41667	76.25	A	ADM2	IN		24	129			1411129		326	Asia/Kolkata	2018-05-26
+1269054	Jhābua	Jhabua	JHA,Jhabua	22.89059	74.67181	A	ADM2	IN		35	464			1025048		327	Asia/Kolkata	2018-05-26
+1269136	Jaunpur	Jaunpur	Distretto di Jaunpur,District de Jaunpur,Districte de Jaunpur,Distrito de Jaunpur,Dzhaunpur,JNP,Jaunpur,Jaunpur District,Jaunpur district,jaumpur,jaunapura jil'ha,jaunapura jila,jaunapura jilla,jaunapura jillo,jaunapuramandalam,javunpur mavattam,mntqt jwanbwr,zhang pu er xian,Джаунпур,جونپور ضلع,ضلع جاون پور,منطقة جوانبور,जौनपुर जिला,जौनपुर जिल्ला,जौनपुरमण्डलम्,जौनपूर जिल्हा,જૌનપુર જિલ્લો,ଜୌନପୁର ଜିଲ୍ଲା,ஜவுன்பூர் மாவட்டம்,జౌంపూర్,章普爾縣	25.75	82.75	A	ADM2	IN		36	194			4494204		83	Asia/Kolkata	2018-05-26
+1269318	Jāmnagar	Jamnagar	JMN,Jamnagar,Jamnagar (India : District),Jamnagar district,Jāmnagar,Jāmnagar (India : District)	22.25	70	A	ADM2	IN		09	477			2160119		54	Asia/Kolkata	2023-06-28
+1269322	Jammu	Jammu	Distretto di Jammu,District de Jammu,Distrito de Jammu,Dzhammu,JMU,Jammu,Jammu District,Jammu district,cha mo xian,jam'mu,jam'mu jil'ha,jam'mu jilla,jam'mu jillo,jam'mu zila,jam'mumandalam,Джамму,جموں ضلع,ضلع جموں,जम्मू ज़िला,जम्मू जिल्ला,जम्मू जिल्हा,जम्मूमण्डलम्,જમ્મુ જિલ્લો,జమ్మూ,查谟县	32.75	74.83333	A	ADM2	IN		12	021			1529958		322	Asia/Kolkata	2018-05-26
+1269389	Jalpāiguri	Jalpaiguri	JLP,Jalpaiguri,Jalpaiguri ,Jalpaiguri District,Jalpāiguri	26.51974	88.7146	A	ADM2	IN		28	328			3872846		85	Asia/Kolkata	2023-07-01
+1269393	Jalore	Jalore	JLR,Jalor,Jalore,Jalore District,Jhalore,Jālor	25.08	72.29	A	ADM2	IN		24	116			1828730		140	Asia/Kolkata	2023-06-28
+1269411	Jalgaon	Jalgaon	East Khandesh District,East Khāndesh District,JLG,Jalgaon,Jālgaon,Khandesh East District,jalagava,जळगाव	21	75.5	A	ADM2	IN		16	499			4229917		198	Asia/Kolkata	2018-05-26
+1269423	Jālaun	Jalaun	JLU,Jalaun,Jalaun ,Jalaun District,Jālaun,Jālaun District	26	79.5	A	ADM2	IN		36	165			1689974		138	Asia/Kolkata	2018-05-26
+1269508	Jaisalmer	Jaisalmer	JSL,Jaisalmer,Jaisalmer District	26.99382	71.00889	A	ADM2	IN		24	114			669919		197	Asia/Kolkata	2018-05-26
+1269519	Jaipur	Jaipur	Distretto di Jaipur,District de Jaipur,Districte de Jaipur,Distrito de Jaipur,Dzhajpur,JPR,Jaipur,Jaipur District,Jaipur district,Jeipur,jaipur jilla,jayapura jil'ha,jayapura jila,jayapura jilla,jayapura jillo,jayapuramandalam,jeyppur mavattam,mntqt jaybwr,zhai pu er xian,Джайпур,جیپر ضلع,ضلع جے پور,منطقة جايبور,जयपुर जिला,जयपुर जिल्ला,जयपुरमण्डलम्,जयपूर जिल्हा,જયપુર જિલ્લો,ଜୟପୁର ଜିଲ୍ଲା,ஜெய்ப்பூர் மாவட்டம்,జైపూర్ జిల్లా,ജയ്‌പൂർ ജില്ല,齋浦爾縣	27	76	A	ADM2	IN		24	110			6626178		403	Asia/Kolkata	2018-05-26
+1269523	West Jaintia Hills	West Jaintia Hills	Jaintia Hills,Jowai,WJH,West Jaintia Hills,West Jaintia Hills District	25.5	92.25	A	ADM2	IN		18	299			395124		1295	Asia/Kolkata	2023-07-01
+1269634	Jabalpur	Jabalpur	Distretto di Jabalpur,District de Jabalpur,Districte de Jabalpur,Distrito de Jabalpur,Dzhabalpur,JBL,Jabalpur,Jabalpur district,Jubbulpore District,gu ba er pu er xian,jabalapura jil'ha,jabalapura jila,jabalapura jilla,jabalapura jillo,jabalapuramandalam,japalpur mavattam,mntqt jblbwr,Джабалпур,جبلپور ضلع,منطقة جبلبور,जबलपुर जिला,जबलपुर जिल्ला,जबलपुर जिल्हा,जबलपुरमण्डलम्,જબલપુર જિલ્લો,ଜବଲପୁର ଜିଲ୍ଲା,ஜபல்பூர் மாவட்டம்,賈巴爾普爾縣	23.16	79.95	A	ADM2	IN		35	451			2463289		420	Asia/Kolkata	2018-05-26
+1269744	Indore	Indore	Distretto di Indore,District dIndore,Districte dIndore,Distrito de Indore,IND,Indaur,Indor,Indore,Indore District,Indore district,indaura,indaura jila,indaura jilla,indaura jillo,indauramandalam,indora jilla,indura jil'ha,mntqt andwr,yin duo er xian,Индор,منطقة اندور,इंदूर जिल्हा,इंदौर जिल्ला,इन्दौर,इन्दौर जिला,इन्दौरमण्डलम्,ઇન્દૌર જિલ્લો,ଇନ୍ଦୋର ଜିଲ୍ଲା,印多爾縣	22.66667	75.75	A	ADM2	IN		35	439			3276697		549	Asia/Kolkata	2018-05-26
+1269812	Idukki	Idukki	Distretto di Idukki,Distrito de Idukki,IDK,Idikki District,Idukki,Idukki ,Idukki district,Idukkin piirikunta,adwky,iddakki jillo,idukki,idukki jil'ha,idukki mandalam,idukki zila,itukki,itukki jilla,itukki mavattam,yi dou ji xian,Идукки,ادوكي,ایڈوکی ضلع,ضلع اڈوکی,इटुक्कि जिल्ला,इडुक्कि ज़िला,इडुक्की जिल्हा,इडुक्की मण्डलम्,ઇડ્ડક્કિ જિલ્લો,இடுக்கி மாவட்டம்,ఇడుక్కి,ഇടുക്കി,ഇടുക്കി ജില്ല,伊都基縣	10	77	A	ADM2	IN		13	596			1108974		629	Asia/Kolkata	2018-05-26
+1269844	Hyderābād	Hyderabad	Gajdarabad,HYD,Hyderabad,Hyderabad District,haidarabad,Гайдарабад,హైదరాబాద్	17.40164	78.48976	A	ADM2	IN		40	536			3943323		503	Asia/Kolkata	2025-05-08
+1269911	Hugli	Hugli	HOO,Hooghly,Hooghly District,Hugli,Hugli	22.82893	88.20099	A	ADM2	IN		28	338			5519145		16	Asia/Kolkata	2018-05-26
+1269938	Hoshiarpur	Hoshiarpur	Distretto di Hoshiarpur,District de Hoshiarpur,Districte d'Hoshiarpur,Distrito de Hoshiarpur,HSP,Hoshiarpur,Hoshiarpur District,Hoshiarpur district,Hoshiārpur,Khoshiarpur,hosiyarapura jil'ha,hosiyarapura jila,husi'arapura zil'ha,mntqt hwshyrbwr,Хошиарпур,ضلع ہوشیارپور,منطقة هوشيربور,होशियारपुर जिला,होशियारपूर जिल्हा,ਹੁਸ਼ਿਆਰਪੁਰ ਜ਼ਿਲ੍ਹਾ	31.66	75.85	A	ADM2	IN		23	038			1586625		315	Asia/Kolkata	2018-05-26
+1269940	Narmadapuram district	Narmadapuram district	HSH,Hoshangabad,Hoshangabad District,Hoshangābād,Hoshangābād District,Narmadapuram district	22.58827	77.98887	A	ADM2	IN		35	449			1241350		371	Asia/Kolkata	2023-07-02
+1270023	Hisār	Hisar	HSR,Hisar,Hissar,Hissar District,Hissār District,Hisār	29.16667	75.75	A	ADM2	IN		10	080			1743931		214	Asia/Kolkata	2023-07-01
+1270165	Hazārībāg	Hazaribag	HZR,Hazaribag,Hazaribagh,Hazaribagh District,Hazāribāgh,Hazāribāgh District,Hazārībāg,hazaribaga,हज़ारीबाग	24	85.25	A	ADM2	IN		38	360			1734495		627	Asia/Kolkata	2023-07-02
+1270240	Hassan	Hassan	HAS,Hassan,Hassan District	12.95	76.08333	A	ADM2	IN		19	574			1776421		954	Asia/Kolkata	2018-05-26
+1270371	Hardoi	Hardoi	Distretto di Hardoi,District dHardoi,Districte dHardoi,Distrito de Hardoi,HAR,Hardoi,Hardoi District,Hardoi district,Khardoj,ha er duo yi xian,harado'i jil'ha,harado'i jila,harado'i jilla,harado'i jillo,haradoyimandalam,hardoy,hartoy mavattam,mntqt hardwy,Хардой,ضلع ہارڈوي,منطقة هاردوي,ہردوئی ضلع,हरदोई जिला,हरदोई जिल्ला,हरदोई जिल्हा,हरदोयीमण्डलम्,હરદોઇ જિલ્લો,ହରଦୋଇ ଜିଲ୍ଲା,ஹர்தோய் மாவட்டம்,హర్దోయ్,哈爾多伊縣	27.41667	80.25	A	ADM2	IN		36	155			4092845		145	Asia/Kolkata	2018-05-26
+1270397	Hāora	Haora	HWR,Haora,Haora ,Howrah,Howrah District,Hāora	22.6	88.25	A	ADM2	IN		28	341			4850029		7	Asia/Kolkata	2018-05-26
+1270456	Hamīrpur	Hamirpur	HMP,Hamirpur,Hamīrpur	31.75	76.5	A	ADM2	IN		11	028			454768		763	Asia/Kolkata	2023-07-02
+1270457	Hamīrpur	Hamirpur	HRP,Hamirpur,Hamirpur District,Hamīrpur,Hamīrpur District	25.75	80	A	ADM2	IN		36	168			1104285		128	Asia/Kolkata	2018-05-26
+1270585	Gwalior	Gwalior	GWL,Gird,Gird Gwalior,Gird Gwalior District,Gwalior,Gwalior (India : District),Gwalior District	26.2	78.2	A	ADM2	IN		35	421			2032036		198	Asia/Kolkata	2023-06-29
+1270644	Gurugram district	Gurugram district	Distretto di Gurgaon,District de Gurgaon,Districte de Gurgaon,Distrito de Gurgaon,GRG,Gurgaon,Gurgaon District,Gurgaon district,Gurgaonin piirikunta,Gurgaun,Gurugram,Gurugram district,gu er jia weng xian,gudaganva jillo,gudaganvamandalam,guraganva,guraganva jil'ha,guraganva jila,guraganva zila,Гургаон,Гургаун,Ґурґаон,ضلع گڑگاؤں,गुडगांवमण्डलम्,गुड़गांव,गुड़गांव जिला,गुरगांव जिल्हा,ਗੁੜਗਾਂਵ ਜ਼ਿਲਾ,ગુડગાંવ જિલ્લો,గుర్‌గావ్,古尔加翁县	28.43891	77.00592	A	ADM2	IN		10	086			1514432		222	Asia/Kolkata	2024-12-10
+1270648	Gurdaspur	Gurdaspur	Distretto di Gurdaspur,District Gurdaspur,District de Gurdaspur,Districte de Gurdaspur,Distrito de Gurdaspur,GRD,Guardaspur District,Guardāspur District,Gurdaspur,Gurdaspur District,Gurdaspur district,Gurdaspurin piirikunta,Gurdāspur,gu er da si pu er xian,guradasapura jil'ha,guradasapura jila,guradasapura jilla,guradasapura jillo,guradasapura zil'ha,guradasapuramandalam,gurudasapura jilla,mntqt ghwrdasbwr,Гурдаспур,ضلع گرداسپور,منطقة غورداسبور,गुरदासपुर जिला,गुरदासपुर जिल्ला,गुरदासपुरमण्डलम्,गुरदासपूर जिल्हा,ਗੁਰਦਾਸਪੁਰ ਜ਼ਿਲ੍ਹਾ,ગુરદાસપુર જિલ્લો,ଗୁରୁଦାସପୁର ଜିଲ୍ଲା,గుర్‌దాస్‌పూర్,古尔达斯普尔县	31.92	75.27	A	ADM2	IN		23	035			2298323		254	Asia/Kolkata	2018-05-26
+1270669	Guntūr	Guntur	GNT,Guntur,Guntur District,Guntūr,Guntūr District,bkhsh gntwr,ghntwr,gntwr,gnٹwr,gnٹwr dlʿ,gwntwr,jwntwr,mqatʿt ghntwr,بخش گنتور,جونتور,غنتور,مقاطعة غنتور,گنتور,گنٹور,گنٹور ضلع,گونتور	16.27149	80.43311	A	ADM2	IN		02	548			4887813		25	Asia/Kolkata	2023-12-20
+1270712	Guna	Guna	GUN,Goona,Guna	24.55464	77.20082	A	ADM2	IN		35	458			1241519		444	Asia/Kolkata	2018-05-26
+1270753	Gulbarga	Gulbarga	Gulbarga,Gulbarga District,KLB,Kalaburagi	17.16667	77.08333	A	ADM2	IN		19	579			2566326		396	Asia/Kolkata	2018-05-26
+1270836	Mumbai Suburban	Mumbai Suburban	MMS,Mumbai City District,Mumbai Suburban,mumba'i upanagara,मुंबई उपनगर	19.12636	72.84897	A	ADM2	IN		16	518			9356962		13	Asia/Kolkata	2019-02-10
+1270930	Gorakhpur	Gorakhpur	GKP,Gorakhpur,Gorakhpur District,Goruckpur	26.91667	83.25	A	ADM2	IN		36	188			4440895		82	Asia/Kolkata	2023-07-02
+1270967	Gopālganj	Gopalganj	GPG,Gopalganj,Gopālganj,gopalaganja,गोपालगंज	26.5	84.33333	A	ADM2	IN		34	217			2562012		72	Asia/Kolkata	2018-05-26
+1270997	Gonda	Gonda	Distretto di Gonda,District de Gonda,Districte de Gonda,Distrito de Gonda,GND,Gonda,Gonda District,Gonda district,Gondā District,gonda,gonda jil'ha,gonda jila,gonda jilla,gonda jillo,gondamandalam,gong da xian,konta mavattam,mntqt jwnda,Гонда,ضلع گونڈا,منطقة جوندا,گونڈہ ضلع,गोंडा जिला,गोंडा जिल्ला,गोंडा जिल्हा,गोण्डामण्डलम्,ગોંડા જિલ્લો,ଗୋଣ୍ଡା ଜିଲ୍ଲା,கோண்டா மாவட்டம்,గొండా,貢達縣	27.18581	81.96693	A	ADM2	IN		36	183			3433919		110	Asia/Kolkata	2018-05-26
+1271152	Goālpāra	Goalpara	GLP,Goalpara,Goalpara District,Goālpāra,Goālpāra District	26.12791	90.60974	A	ADM2	IN		03	302			1008183		49	Asia/Kolkata	2023-07-01
+1271176	Girīdīh	Giridih	GIR,Giridh,Giridih,Giridih District,Girīdīh,girid'iha,girid'iha jila,गिरिडीह,गिरिडीह जिला	24.25	85.91667	A	ADM2	IN		38	349			2445474		299	Asia/Kolkata	2023-07-02
+1271307	Ghāzīpur	Ghazipur	GZP,Ghazipur,Ghāzīpur	25.5	83.5	A	ADM2	IN		36	195			3620268		69	Asia/Kolkata	2018-05-26
+1271310	Ghāziābād	Ghaziabad	GZB,Ghaziabad,Ghāziābād	28.69537	77.45819	A	ADM2	IN		36	140			4681645		218	Asia/Kolkata	2018-07-13
+1271440	Gayā	Gaya	GAY,Gaya,Gaya District,Gayā,gaya,kaya,गया,கயா	24.75	85	A	ADM2	IN		34	236			4391418		119	Asia/Kolkata	2025-02-26
+1271512	East Gāro Hills	East Garo Hills	EGH,East Garo Hills,East Garo Hills District	25.61372	90.62426	A	ADM2	IN		18	294			317917		534	Asia/Kolkata	2018-07-13
+1271535	Garhwāl	Garhwal	Garhwal,Garhwal District,Garhwāl,Garhwāl District,PGR,Pauri Garhwal	29.96366	78.92853	A	ADM2	IN		39	061			687271		1469	Asia/Kolkata	2023-06-30
+1271622	Ganjām	Ganjam	GNJ,Ganjam,Ganjam District,Ganjām,Ganjām District	19.5	84.5	A	ADM2	IN		21	388			3529031		370	Asia/Kolkata	2018-05-26
+1271686	Gangānagar	Ganganagar	GNG,Ganganagar,Ganganagar	29.49	73.61	A	ADM2	IN		24	099			1969168		166	Asia/Kolkata	2018-05-26
+1271716	Gāndhīnagar	Gandhinagar	GNR,Gandhi Nagar,Gandhinagar,Gandhinagar District,Ghandhinagar,Gāndhīnagar,Gāndhīnagar District	23.21484	72.64984	A	ADM2	IN		09	473			1391753		77	Asia/Kolkata	2023-07-02
+1271884	Firozpur	Firozpur	District Ferozepur,FRZ,Ferozepore,Ferozepore District,Ferozepur,Ferozepur District,Feruzpur,Firozepur,Firozpur,Firozpur district,Fērūzpur,Fīrozpur	30.89	74.56	A	ADM2	IN		23	043			2029074		197	Asia/Kolkata	2018-07-22
+1271920	Fatehpur	Fatehpur	FTP,Fatehpur,Fatehpur District	25.75	80.75	A	ADM2	IN		36	172			2632733		120	Asia/Kolkata	2023-07-02
+1271943	Farrukhābād	Farrukhabad	FKB,Farrukhabad,Farrukhabad District,Farrukhābād,Farrukhābād District,Ferrukhabad	27.5	79.5	A	ADM2	IN		36	159			1885204		151	Asia/Kolkata	2023-07-02
+1271950	Faridkot	Faridkot	FRD,Faridkot,Farīdkot,Fridkot	30.65	74.75	A	ADM2	IN		23	045			617508		202	Asia/Kolkata	2023-07-01
+1271977	Ayodhya	Ayodhya	Ayodhya,Ayodhya district,FZB,Faizabad,Faizābād,Fyzabad,Fyzabad District,Fyzābād,Fyzābād District	26.75	82	A	ADM2	IN		36	177			2470996		105	Asia/Kolkata	2023-12-14
+1271989	Etāwah	Etawah	ETW,Etawah,Etawah District,Etāwah,Etāwah District	26.75	79.25	A	ADM2	IN		36	161			1581810		146	Asia/Kolkata	2023-07-02
+1271993	Etah	Etah	Distretto di Etah,District dEtah,Districte dEtah,Distrito de Etah,ETA,Ehtakh,Etah,Etah District,Etah district,ai ta xian,ayٹaہ dlʿ,eta,eta jil'ha,eta jila,eta jilla,eta jillo,etamandalam,etta mavattam,mntqt aytah,Этах,ایٹاہ ضلع,ضلع ایٹا,منطقة ايتاه,एटा जिला,एटा जिल्ला,एटा जिल्हा,एटामण्डलम्,એટા જિલ્લો,ଏଟା ଜିଲ୍ଲା,ஏட்டா மாவட்டம்,ఎత,埃塔縣	27.5	78.75	A	ADM2	IN		36	201			1774480		168	Asia/Kolkata	2018-05-26
+1272019	Ernākulam	Ernakulam	ERN,Ernakulam,Ernakulam (India : District),Ernakulam District,Ernākulam,eranakulam,എറണാകുളം	10	76.5	A	ADM2	IN		13	595			3282388		40	Asia/Kolkata	2023-07-01
+1272115	East Siang	East Siang	ESG,East Siang,East Siang District	28.00844	95.3045	A	ADM2	IN		30	251			99214		170	Asia/Kolkata	2023-09-24
+1272117	Khandwa district	Khandwa district	ENR,East Nimar,East Nimār,Khandwa,Khandwa district,Nimar District,Nimār District,purva nimara khandava,पूर्व निमाड़ खण्डवा	21.75	76.58333	A	ADM2	IN		35	466			1310061		319	Asia/Kolkata	2018-07-11
+1272120	East Kameng	East Kameng	EKG,East Kameng,East Kameng District	27.3	93.05	A	ADM2	IN		30	247			78690		1259	Asia/Kolkata	2023-06-30
+1272123	East Godāvari	East Godavari	EGI,East Godavari,East Godavari District,East Godāvari,Godavari,Godavari District,Godāvari	17.07525	81.71896	A	ADM2	IN		02	545			5154296		6	Asia/Kolkata	2023-12-20
+1272129	Gangtok	Gangtok	EDT,East District,East Sikkim,East Sikkim district,Gangtok,Gangtok district	27.33333	88.66667	A	ADM2	IN		29	244			283583		1953	Asia/Kolkata	2023-12-14
+1272182	Durg	Durg	DRG,Distretto di Durg,District de Durg,Districte de Durg,Distrito de Durg,Drug District,Durg,Durg district,du er ge xian,durg,durga,durga jil'ha,durga jila,durga jilla,durga jillo,durgamandalam,turk mavattam,Дург,درگ ضلع,ضلع ڈرگ,दुर्ग,दुर्ग जिला,दुर्ग जिल्ला,दुर्ग जिल्हा,दुर्गमण्डलम्,દુર્ગ જિલ્લો,ଦୁର୍ଗ ଜିଲ୍ଲା,துர்க் மாவட்டம்,దుర్గ్,ദുർഗ്ഗ് ജില്ല,杜爾格縣	21.15	81.4	A	ADM2	IN		37	409			3343872		315	Asia/Kolkata	2018-05-26
+1272203	Dūngarpur	Dungarpur	DNG,Dungarpur	23.75	73.85	A	ADM2	IN		24	124			1388552		211	Asia/Kolkata	2018-05-26
+1272504	Diu	Diu	DIU,Distrito de Diu,Diu	20.72081	70.93989	A	ADM2	IN		52	494			52074		4	Asia/Kolkata	2020-05-16
+1272649	Dibrugarh	Dibrugarh	DBR,Dibrugarh,Dibrugarh District,Dibrugarh district,Dibrugarhin piirikunta,Dibrugarkh,Distretto di Dibrugarh,District de Dibrugarh,Distrito de Dibrugarh,di bu lu ge er xian,dibraugara jila,dibrugadha jil'ha,dibrugadha jilla,dibrugar,dibrugara jela,dibrugarha jila,tiprukar mavattam,Дибругарх,ضلع ڈبروگڑھ,डिब्रुगढ जिल्ला,डिब्रूगढ जिल्ला,डिब्रूगढ़ जिला,दिब्रुगढ जिल्हा,ডিব্রুগড় জেলা,ডিব্ৰুগড় জিলা,திப்ருகார் மாவட்டம்,డిబ్రూగర్,迪布鲁格尔县	27.5	95	A	ADM2	IN		03	310			1326335		114	Asia/Kolkata	2018-05-26
+1272651	Dibāng Valley	Dibang Valley	DBN,Dibang Valley,Dibang Valley District,Dibāng Valley	28.7	95.7	A	ADM2	IN		30	257			8004		2775	Asia/Kolkata	2023-07-01
+1272692	Dhule	Dhule	DHU,Dhule,Dhule district,Dhulia,Dhūlia,Distretto di Dhule,District de Dhule,Distrito de Dhule,Dkhulija,West Khandesh District,West Khāndesh District,dhule,dhule jil'ha,dhule jila,dhule jilla,dhulemandalam,dhuliya jillo,du li ya xian,mntqt dhwly,tule mavattam,Дхулия,دھولیہ ضلع,ضلع دھول,منطقة دهولي,धुले जिला,धुले जिल्ला,धुळे,धुळे जिल्हा,धुळेमण्डलम्,ધુલિયા જિલ્લો,ଧୁଲେ ଜିଲ୍ଲା,துளே மாவட்டம்,ధూలే జిల్లా,杜利亞縣	21.06852	74.58837	A	ADM2	IN		16	498			2050862		307	Asia/Kolkata	2018-07-13
+1272781	Dhenkānāl	Dhenkanal	DHK,Dhenkanal,Dhenkanal District,Dhenkānāl,Dhenkānāl District	20.75	85.5	A	ADM2	IN		21	383			1192811		50	Asia/Kolkata	2023-06-30
+1272797	Dharwad	Dharwad	DRW,Dharwad,Dharwad district,Dharwar,Dharwar District,Dhawad,Dhārwār District,Dhāwād,Distretto di Dharwad,District de Dharwad,Districte de Dharwar,Distrito de Dharwad,Dkharvad,da er wa de xian,dharavada,dharavada jil'ha,dharavada jilla,dharavadamandalam,dharavara jila,dharvada,dhaർvad jilla,mntqt dhrwad,tarvat mavattam,Дхарвад,دھارواڑ ضلع,ضلع دھارود,منطقة دهرواد,धारवाड जिल्ला,धारवाड जिल्हा,धारवाडमण्डलम्,धारवाड़ जिला,தார்வாட் மாவட்டம்,ధార్వాడ,ಧಾರವಾಡ,ധാർവാഡ് ജില്ല,达尔瓦德县	15.37	75.14	A	ADM2	IN		19	562			1847023		654	Asia/Kolkata	2018-05-26
+1272848	Dharmapuri	Dharmapuri	DRM,Dharmapuri	12.13	78.24	A	ADM2	IN		25	630			1506843		501	Asia/Kolkata	2018-05-26
+1272895	Dhār	Dhar	DHA,Dhar,Dhār	22.5	75.25	A	ADM2	IN		35	438			2185793		455	Asia/Kolkata	2018-05-26
+1272980	Dhānbād	Dhanbad	DHN,Dhanbad,Dhanbad (India : District),Dhanbad District,Dhānbād,Dhānbād (India : District),dan abad,danbad,dhanabada,dlʿ dھnbad,dnbad,dھnbad,mqatʿt dnbad,دان اباد,دانباد,دنباد,دھنباد,ضلع دھنباد,مقاطعة دنباد,धनबाद	23.75	86.41667	A	ADM2	IN		38	354			2684487		204	Asia/Kolkata	2023-07-02
+1273067	Dewas	Dewas	DWS,Devas,Dewas,Dewas (India : District),Dewas district,Dewās (India : District),Distretto di Dewas,District de Dewas,Districte de Dewas,Distrito de Dewas,de wa si xian,debasa jilla,devas,devasa jil'ha,devasa jillo,devasamandalam,mntqt dwas,Девас,منطقة دواس,देवास जिल्हा,देवासमण्डलम्,દેવાસ જિલ્લો,ଦେବାସ ଜିଲ୍ଲା,దేవస్,德瓦斯縣	23	76.16667	A	ADM2	IN		35	437			1563715		561	Asia/Kolkata	2018-05-26
+1273196	Deoria	Deoria	DER,Deoria	26.66667	83.75	A	ADM2	IN		36	190			3100946		81	Asia/Kolkata	2018-05-26
+1273404	Datia	Datia	DAT,Datia,da di ya,datiya,दतिया,দাতিয়া,દતિયા,ദാതിയ,达蒂亚	25.75	78.5	A	ADM2	IN		35	422			786754		198	Asia/Kolkata	2018-05-26
+1273451	Darrang	Darrang	DRR,Darrang,Darrang District,Darrang district,Darrangin piirikunta,Distretto di Darrang,District de Darrang,Districte de Darrang,Distrito de Darrang,da rang xian,daram jela,daram jila,daram jilla,darana jilla,daranga jillo,darangh,darrang,darranga jil'ha,darrangamandalam,tarran mavattam,Дарранг,دارانغ,ضلع درنگ,दरं जिला,दरं जिल्ला,दराङ जिल्ला,दर्रांग जिल्हा,दर्राङ्गमण्डलम्,দরং জেলা,দৰং জিলা,દારાંગ જિલ્લો,தர்ரங் மாவட்டம்,దర్రాంగ్,達讓縣	26.51195	92.16843	A	ADM2	IN		03	325			928500		55	Asia/Kolkata	2018-05-26
+1273468	Darjiling	Darjiling	DRJ,Darjeeling,Darjeeling District,Darjiling,Darjiling	26.75	88.25	A	ADM2	IN		28	327			1846823		194	Asia/Kolkata	2018-05-26
+1273492	Darbhanga	Darbhanga	DBG,Darbhanga,Darbhanga District,Darbhanga district,Darbkhanga,Distretto di Darbhanga,District de Darbhanga,Districte de Darbhanga,Distrito de Darbhanga,da er ban jia xian,darabhanga,darabhanga jela,darabhanga jil'ha,darabhanga jila,darabhanga jilla,darabhanga jillo,darabhangamandalam,darbhanga,drbھngہ dlʿ,tarpanka mavattam,Дарбханга,دربھنگہ ضلع,ضلع دربھنگا,दरभंगा,दरभंगा जिला,दरभंगा जिल्ला,दरभंगा जिल्हा,दरभङ्गामण्डलम्,দারভাঙ্গা জেলা,દરભંગા જિલ્લો,ଦରଭଙ୍ଗା ଜିଲ୍ଲା,தர்பங்கா மாவட்டம்,దర్భంగా,達爾班加縣	26	86	A	ADM2	IN		34	215			3937385		48	Asia/Kolkata	2018-05-26
+1273589	Damoh	Damoh	DMH,Damoh,damoha,दमोह	23.75	79.58333	A	ADM2	IN		35	428			1264219		334	Asia/Kolkata	2018-05-26
+1273616	Daman District	Daman District	DMN,Daman,Daman District,Damao,Damão,Damān District	20.41667	72.88333	A	ADM2	IN		52	495			191173		15	Asia/Kolkata	2020-05-16
+1273664	Dakshina Kannada	Dakshina Kannada	DKD,Daks hin Kananda,Dakshin Kannad,Dakshin Kannanda,Dakshina Kannada District,Distretto del Kannada Meridionale,District de Dakshina Kannada,Districte de South Kanara,Distrito de Dakshina Kannada,Juzhnaja Kannada,South Kanara,South Kanara District,dakshyna alkanada,daksina kannada,daksina kannada jil'ha,daksina kannada jila,daksina kannada jilla,daksinakannadamandalam,nan ka na da xian,terku kannatam mavattam,Южная Каннада,داكشينا الكانادا,ضلع ڈاکشینا کاناڈا,दक्षिण कन्नड जिला,दक्षिण कन्नड जिल्ला,दक्षिण कन्नड जिल्हा,दक्षिण कन्नडा,दक्षिणकन्नडमण्डलम्,தெற்கு கன்னடம் மாவட்டம்,ದಕ್ಷಿಣ ಕನ್ನಡ,ദക്ഷിണ കന്നഡ ജില്ല,南卡纳达县	12.84	75.29	A	ADM2	IN		19	575			2089649		50	Asia/Kolkata	2023-07-01
+1273781	Cuttack	Cuttack	CTT,Cuttack,Cuttack District	20.5	86.25	A	ADM2	IN		21	381			2624470		11	Asia/Kolkata	2023-06-28
+1273801	YSR district	YSR district	CUD,Cuddapah,Cuddapah District,Distretto di Kadapa,District de Kadapa,Districte de Kadapa,Distrikto Kadapa,Distrito YSR,ESR,Kadapa,Kadapa District,Y.S.R.,YSR,YSR Kadapa,YSR Kadapa District,gu de bo xian,kadapa jila,kadapa zila,kadapamandalam,kadappa jil'ha,kadappa jilla,karappa jilla,katappa mavattam,vai'esar jilla,ЕСР,ضلع کڈپا,وائی۔یس۔آر۔ ضلع,कडपा जिला,कडपामण्डलम्,कडप्पा जिल्हा,कड़प्पा जिल्ला,ਕਡੱਪਾ ਜ਼ਿਲਾ,କଡପ୍ପା ଜିଲ୍ଲା,கடப்பா மாவட்டம்,వైఎస్ఆర్ జిల్లా,კადაპის ოლქი,古德伯縣	14.41667	78.75	A	ADM2	IN		02	551			2882469		219	Asia/Kolkata	2023-09-22
+1273866	Coimbatore	Coimbatore	CMT,Coimbatore,Coimbatore District,Coimbatore district,Distretto di Coimbatore,District de Coimbatore,Districte de Coimbatore,Distrito de Coimbatore,Koimbatur,dahyt kwymbatwr,ko'imbatura jil'ha,koyambatturumandalam,koyambatura jila,koyamputtur mavattam,koyanbuttouru xian,Коимбатур,ضاحية كويمباتور,ضلع کویمباتور,कोइंबतूर जिल्हा,कोयंबतूर जिला,कोयम्बत्तूरुमण्डलम्,கோயம்புத்தூர் மாவட்டம்,കോയമ്പത്തൂർ ജില്ല,コーヤンブットゥール県	10.8	77.09	A	ADM2	IN		25	632			3458045		350	Asia/Kolkata	2018-05-26
+1273894	Chūru	Churu	CHR,Churu,Chūru	28.5	74.5	A	ADM2	IN		24	102			2039547		251	Asia/Kolkata	2018-05-26
+1274034	Chittoor	Chittoor	CHI,Chitoor,Chittoor,Chittoor District	13.41667	79	A	ADM2	IN		02	554			4174064		380	Asia/Kolkata	2018-05-26
+1274041	Chittaurgarh	Chittaurgarh	CGH,Chitor,Chitorgarh,Chittaurgarh,Chittorgarh	24.5	74.5	A	ADM2	IN		24	126			1544338		460	Asia/Kolkata	2018-05-26
+1274057	Chitradurga	Chitradurga	CTR,Chitaldroog District,Chitaldrug,Chitradurga,Chitradurga district,Distretto di Chitradurga,Districte de Chitradurga,Distrito de Chitradurga,citradurga,citradurga jil'ha,citradurga jila,citradurga jillo,citradurgamandalam,cittiraturkkai mavattam,ji de lei du er jia,mntqt shytradwrja,Читрадурга,ضلع چترادرگا,منطقة شيترادورجا,चित्रदुर्ग,चित्रदुर्ग जिला,चित्रदुर्ग जिल्हा,चित्रदुर्गमण्डलम्,চিত্রদুর্গ,ચિત્રદુર્ગ જિલ્લો,சித்திரதுர்க்கை மாவட்டம்,ಚಿತ್ರದುರ್ಗ,吉德勒杜尔加	14.2	76.5	A	ADM2	IN		19	566			1659456		663	Asia/Kolkata	2018-05-26
+1274221	Chikmagalur	Chikmagalur	CKM,Chickmagalur,Chickmaglur,Chikkamagaluru,Chikmagalur,Chikmagalur district,Chikmagalūr,Kadur	13.49	75.73	A	ADM2	IN		19	570			1137961		1235	Asia/Kolkata	2023-06-28
+1274305	Chhindwāra	Chhindwara	CDW,Chhindwara,Chhindwāra	22.11667	78.8	A	ADM2	IN		35	455			2090922		748	Asia/Kolkata	2018-05-26
+1274339	Chhatarpur	Chhatarpur	CRP,Chhatarpur,chtarapura,छ्तरपुर	24.75	79.75	A	ADM2	IN		35	425			1762375		262	Asia/Kolkata	2018-05-26
+1274839	Chamoli	Chamoli	CHL,Chamoli,Chamoli district,Chamolin piirikunta,Distretto di Chamoli,District de Chamoli,Districte de Chamoli,Distrito de Chamoli,camoli,camoli garhavala jila,camoli jil'ha,camoli jilla,camoli jillo,camolimandalam,jie mo li xian,shamwly,Чамоли,Чамолі,شامولي,ضلع چمولی,चमोली,चमोली गढ़वाल जिला,चमोली जिल्ला,चमोली जिल्हा,चमोलीमण्डलम्,ચમોલી જિલ્લો,చమోలి,杰莫利县	30.5	79.5	A	ADM2	IN		39	057			391605		2057	Asia/Kolkata	2018-05-26
+1274849	Chamba	Chamba	CHM,Chamba	32.57147	76.10229	A	ADM2	IN		11	023			519080		1159	Asia/Kolkata	2018-05-26
+1274988	Kannur	Kannur	Cannanore,Cannanore District,KNU,Kannur,Kannur District,Kannur district,kannur mavattam,kannura jila,kannura jillo,कण्णूर जिला,કણ્ણૂર જિલ્લો,கண்ணூர் மாவட்டம்,കണ്ണൂര്‍	12.16667	75.33333	A	ADM2	IN		13	589			2523003		51	Asia/Kolkata	2018-05-26
+1275005	Kolkata	Kolkata	KLK,Kolkata	22.54733	88.37368	A	ADM2	IN		28	342			4496694		6	Asia/Kolkata	2024-11-20
+1275009	Cāchār	Cachar	CCH,Cachar,Cachar District,Cāchār	24.78213	92.85771	A	ADM2	IN		03	316			1736617		23	Asia/Kolkata	2018-05-26
+1275104	Būndi	Bundi	BND,Bundi,Bundi District,Būndi	25.5	75.83333	A	ADM2	IN		24	121			1110906		241	Asia/Kolkata	2023-06-29
+1275118	Buldhana	Buldhana	Buldana,buladhana,बुलढाणा	20.58333	76.41667	A	ADM2	IN		16	500			2586258		411	Asia/Kolkata	2022-01-04
+1275121	Bulandshahr	Bulandshahr	BLR,Bulandshag'ar,Bulandshahr,Bulandshahr ,Bulandshahr District,Bulandshahr district,Bulandshakhr,Distretto di Bulandshahr,District de Bulandshahr,Districte de Bulandshahr,Distrito de Bulandshahr,bu lan de sha ha er xian,bulanda sahera jillo,bulandasahara jela,bulandasahara jil'ha,bulandasahara jila,bulandasahara jilla,bulandasaharamandalam,mntqt bwlandshahr,pulantacakar mavattam,Буландшагьар,Буландшахр,بلندشہر ضلع,ضلع بلندشہر,منطقة بولاندشاهر,बुलंदशहर जिला,बुलंदशहर जिल्हा,बुलन्दशहर जिला,बुलन्दशहर जिल्ला,बुलन्दशहरमण्डलम्,বুলন্দশহর জেলা,બુલન્દ શહેર જિલ્લો,ବୁଲନ୍ଦଶହର ଜିଲ୍ଲା,புலந்தசகர் மாவட்டம்,బులంద్‌షహర్,布兰德沙哈尔县	28.41667	77.83333	A	ADM2	IN		36	142			3499171		206	Asia/Kolkata	2018-05-26
+1275164	Budaun	Budaun	BDN,Badaun,Budaun,Budaun District,Budaun district,Distretto di Budaun,District de Badaun,Districte de Budaun,Distrito de Badaun,bada'um jil'ha,bada'um jilla,badanyu jilla,badanyumandalam,badauna jilla,badayum jila,badayun,bu dao en xian,mntqt bwdan,patavun mavattam,Бадаун,بدایوں ضلع,ضلع بودان,منطقة بودان,बदांयू जिल्ला,बदांयूमण्डलम्,बदाउं जिल्हा,बदायूँ जिला,बदौन जिल्ला,ବଦାଉଁ ଜିଲ୍ଲା,பதாவுன் மாவட்டம்,బదాయూన్,佈道恩縣	28.11667	78.98333	A	ADM2	IN		36	149			3681896		175	Asia/Kolkata	2018-05-26
+1275525	Bīrbhūm	Birbhum	BIR,Birbhum,Birbhum District,Bīrbhūm,Bīrbhūm District	24	87.58333	A	ADM2	IN		28	334			3502404		55	Asia/Kolkata	2023-07-01
+1275540	Bid	Bid	BEE,Beed,Beed District,Bhir,Bid,Bidh,Bir,Bir District,Bīr,Bīr District,bida,बीड	18.83333	75.75	A	ADM2	IN		16	523			2585049		733	Asia/Kolkata	2018-05-26
+1275638	Bilāspur	Bilaspur	BLS,Bilaspur,Bilaspur District,Bilāspur	31.33333	76.75	A	ADM2	IN		11	030			381956		492	Asia/Kolkata	2023-07-02
+1275639	Bilāspur	Bilaspur	BLP,Bilaspur,Bilaspur District,Bilaspur(CGH),Bilāspur,Bilāspur District,bilasapura,pilaspur,बिलासपुर,பிலாஸ்பூர்	22.38333	82.13333	A	ADM2	IN		37	406			2663629		331	Asia/Kolkata	2025-02-26
+1275666	Bīkāner	Bikaner	BIK,Bikaner,Bikaner District,Bikanera,Bīkāner,Bīkāner District,Bīkānera	28.16667	73.16667	A	ADM2	IN		24	101			2363937		188	Asia/Kolkata	2023-06-28
+1275680	Bijnor	Bijnor	BJN,Bidzhnor,Bijnor,Bijnor District,Bijnor district,Distretto di Bijnor,District de Bijnor,Districte de Bijnor,Distrito de Bijnor,bi ji nuo er xian,bijanaura jila,bijanaura jilla,bijanauramandalam,bijanora jilla,bijnur,mntqt byjnwr,pijnor mavattam,Биджнор,بجنور ضلع,ضلع بجنور,منطقة بيجنور,बिजनौर जिला,बिजनौर जिल्ला,बिजनौरमण्डलम्,ବିଜନୋର ଜିଲ୍ଲା,பிஜ்னோர் மாவட்டம்,బిజ్నూర్,比吉諾爾縣	29.41667	78.51667	A	ADM2	IN		36	134			3682713		243	Asia/Kolkata	2018-05-26
+1275702	Bijāpur	Bijapur	Bijapur,Bijapur District,Bijapur(KAR),Bijāpur,Bijāpur District,VJP,Vijayapura	16.66667	75.91667	A	ADM2	IN		19	557			2177331		578	Asia/Kolkata	2023-06-28
+1275739	Bīdar	Bidar	BDR,Bidar,Bidar District,Bīdar,Bīdar District	18.08333	77.33333	A	ADM2	IN		19	558			1703300		544	Asia/Kolkata	2023-06-28
+1275842	Bhopāl	Bhopal	BHP,Bhopal,Bhopal District,Bhopāl	23.5	77.41667	A	ADM2	IN		35	444			2371061		468	Asia/Kolkata	2023-07-02
+1275871	Bhojpur	Bhojpur	BJP,Bhojpur,bhojapura,भोजपुर	25.30886	84.44504	A	ADM2	IN		34	231			2728407		78	Asia/Kolkata	2018-05-26
+1275900	Bhiwani	Bhiwani	BHW,Bhiwani,Bhiwani District,Bkhivani,bhi'oyani,bhiraani,bhivani,bhiwani,bhywany,bi wa ni,bywany,Бхивани,بهيواني,بھیوانی,بیوانی,भिवानी,ভিওয়ানি,ভিৱানি,ଭିୱାନି,比瓦尼	28.75	76.16667	A	ADM2	IN		10	081			1634445		217	Asia/Kolkata	2023-07-02
+1275927	Bhind	Bhind	BHN,Bhind,Bhind District	26.5	78.75	A	ADM2	IN		35	420			1703005		147	Asia/Kolkata	2018-05-26
+1275961	Bhīlwāra	Bhilwara	BHL,Bhilavara,Bhilwara,Bhilwara District,Bhīlwāra,Bhīlwāra District	25.5	74.75	A	ADM2	IN		24	122			2408523		402	Asia/Kolkata	2023-06-29
+1276033	Bhāvnagar	Bhavnagar	BHV,Bhaunagar,Bhavnagar,Bhāvnagar	21.66667	71.83333	A	ADM2	IN		09	481			2880365		101	Asia/Kolkata	2020-06-10
+1276071	Bathinda	Bathinda	BTH,Bathinda,Batinda,Batkhinda,Bhatinda,ba ting da,bathida,bathinda,batynda,Батинда,Батхинда,باتیندا,بٹھنڈہ,بھٹنڈہ,बठिंडा,बथिंदा,বাথিন্দা,ਬਠਿੰਡਾ,巴廷達	30.21	75.03	A	ADM2	IN		23	046			1388525		210	Asia/Kolkata	2018-05-26
+1276101	Bharūch	Bharuch	BRC,Bharuch,Bharuch District,Bharūch,Bharūch District,Broach,Broach and Panch Mahals,Broach and Panch Mahals District,Broach and Pānch Mahāls,Broach and Pānch Mahāls District	21.75	73	A	ADM2	IN		09	488			1551019		18	Asia/Kolkata	2023-07-02
+1276130	Bharatpur	Bharatpur	BTR,Bharatpur	27.21	77.29	A	ADM2	IN		24	105			2548462		192	Asia/Kolkata	2018-05-26
+1276192	Bhandara	Bhandara	BHA,Bhandara,Bhandara District,Bhandara district,Bhandāra,Bhandāra District,Bkhandara,Distretto di Bhandara,District de Bhandara,Districte de Bhandara,Distrito de Bhandara,ban da la xian,bhandara,bhandara jil'ha,bhandara jila,bhandara jilla,bhandaramandalam,mntqt bhandara,pantara mavattam,Бхандара,بھنڈارا ضلع,ضلع باندھارا,منطقة بهاندارا,भंडारा,भंडारा जिला,भंडारा जिल्ला,भंडारा जिल्हा,भण्डारामण्डलम्,ଭଣ୍ଡାରା ଜିଲ୍ଲା,பண்டாரா மாவட்டம்,భండారా జిల్లా,ಭಂಡಾರಾ,班達拉縣	21.18333	80	A	ADM2	IN		16	506			1200334		306	Asia/Kolkata	2018-05-26
+1276301	Bhāgalpur	Bhagalpur	BGO,Bhagaipur,Bhagalpur,Bhagalpur District,Bhāgaipur,Bhāgalpur,Bhāgalpur District,bhagalapura,भागलपुर	25.29023	87.06665	A	ADM2	IN		34	224			3037766		36	Asia/Kolkata	2023-07-01
+1276391	Betūl	Betul	BTL,Betul,Betul District,Betūl,Betūl District	21.83333	77.83333	A	ADM2	IN		35	447			1575362		633	Asia/Kolkata	2023-06-30
+1276510	Ballari	Ballari	BLL,Ballari,Ballari district,Bellary	15.15	76.55	A	ADM2	IN		19	565			2452595		742	Asia/Kolkata	2023-06-28
+1276534	Belgaum	Belgaum	BLG,Belagavi,Belgaum,Belgaum District,Belgaum district,Distretto di Belgaum,District de Belgaum,Districte de Belgaum,Distrito de Belgaum,belagama jila,belagama jillo,belaganva jil'ha,belagavimandalam,mntqt bljawm,pelkam mavattam,Белгаум,ضلع بلگام,منطقة بلجاوم,बेलगाम जिला,बेळगांव जिल्हा,बेळगावीमण्डलम्,બેલગામ જિલ્લો,பெல்காம் மாவட்டம்	16.33333	74.75	A	ADM2	IN		19	555			4779661		616	Asia/Kolkata	2018-05-26
+1276610	Begusarāi	Begusarai	BSR,Begusarai,Begusarāi,begusaraya,बेगूसराय	25.5	86.25	A	ADM2	IN		34	222			2970541		47	Asia/Kolkata	2018-05-26
+1276737	Basti	Basti	BST,Basti,Basti District,Basti district,Distretto di Basti,District de Basti,Districte de Basti,Distrito de Basti,ba si ti xian,basti,basti jila,basti jilla,mntqt basty,pasti mavattam,Басти,بستی ضلع,ضلع باستی,منطقة باسطي,बस्ति,बस्ती,बस्ती जिला,बस्ती जिल्ला,বাস্তি,બસ્તી,ବସ୍ତୀ ଜିଲ୍ଲା,பஸ்தி மாவட்டம்,బస్తి,巴斯提縣	26.82816	82.77924	A	ADM2	IN		36	185			2464464		89	Asia/Kolkata	2018-05-26
+1276739	Bastar	Bastar	BAS,Bastar,bastara,pastar,बस्तर,பஸ்தார்	19.26794	81.73828	A	ADM2	IN		37	414			1413199		575	Asia/Kolkata	2025-02-26
+1276902	Bārmer	Barmer	BMR,Barmer,Barmer District,Bārmer,Bārmer District	25.75	71.5	A	ADM2	IN		24	115			2603751		160	Asia/Kolkata	2023-06-28
+1277014	Bareilly	Bareilly	BRL,Bareilly,Bareilly District,Bareilly district,Bareli,Distretto di Bareilly,District de Bareli,Districte de Bareilly,Distrito de Bareilly,ba lei li xian,baraili jil'ha,bareli,bareli jila,bareli jilla,bareli jillo,barelimandalam,mntqt baryly,pareli mavattam,Барели,ضلع باریلی,منطقة باريلي,बरेली जिला,बरेली जिल्ला,बरेलीमण्डलम्,बरैली जिल्हा,બરેલી જિલ્લો,ବରେଲୀ ଜିଲ୍ଲା,பரேலி மாவட்டம்,బరేలీ,巴雷利縣	28.41667	79.38333	A	ADM2	IN		36	150			4448359		170	Asia/Kolkata	2018-05-26
+1277030	Barddhamān	Barddhaman	BRD,Barddhaman,Barddhaman ,Barddhamān,Bardhaman,Bardhaman District,Burdewan,Burdwan,Burdwan District,Burdwān,Burdwān District,Purba Bardhaman	23.25	87.75	A	ADM2	IN		28	335			7717563		32	Asia/Kolkata	2023-06-30
+1277086	Bāramūla	Baramula	BRM,Baramula,Baramula District,Baramulla,Bāramūla,Bāramūla District,Kashmir North,Kashmīr North	34.19287	74.3692	A	ADM2	IN		12	008			1008039		1710	Asia/Kolkata	2023-07-02
+1277159	Bāra Banki	Bara Banki	BRB,Bara Banki,Bara Banki District,Barabanki,Bare Banki,Bāra Banki,Bāra Banki District	26.93864	81.3274	A	ADM2	IN		36	176			3260699		120	Asia/Kolkata	2018-05-26
+1277215	Bānswāra	Banswara	BNS,Banswara,Banswara District,Bānswāra	23.5	74.33333	A	ADM2	IN		24	125			1797485		204	Asia/Kolkata	2018-05-26
+1277265	Bānkurā	Bankura	BNR,Bankura,Bankura ,Bankura District,Bānkura District,Bānkurā	23.25	87.25	A	ADM2	IN		28	339			3596674		97	Asia/Kolkata	2023-06-30
+1277331	Bangalore Urban	Bangalore Urban	BUR,Bangalore,Bangalore Urban,Bengaluru Urban	13	77.58333	A	ADM2	IN		19	572			9621551		924	Asia/Kolkata	2018-05-26
+1277332	Bangalore Rural	Bangalore Rural	BRR,Bangalore Rural,Bengaluru,Bengaluru Rural	13.22567	77.57501	A	ADM2	IN		19	583			990923		898	Asia/Kolkata	2018-05-26
+1277400	Bānda	Banda	BAN,Banda,Banda District,Bānda,Bānda District	25.5	80.5	A	ADM2	IN		36	170			1799410		117	Asia/Kolkata	2023-07-02
+1277417	Banās Kāntha	Banas Kantha	BKT,Banas Kantha,Banaskantha,Banaskantha district,Banās Kāntha	24.25	72.5	A	ADM2	IN		09	469			3120506		239	Asia/Kolkata	2023-06-29
+1277553	Ballia	Ballia	BAL,Ballia	25.83333	84.16667	A	ADM2	IN		36	193			3239774		58	Asia/Kolkata	2018-05-26
+1277600	Bāleshwar	Baleshwar	BLW,Balasore,Balasore District,Baleshwar,Baleswar,Bāleshwar	21.5	86.75	A	ADM2	IN		21	377			2320529		37	Asia/Kolkata	2023-06-28
+1277644	Balāngīr	Balangir	BLN,Balangir,Balāngīr,Bolangir,Bolāngir	20.75	83.25	A	ADM2	IN		21	393			1648997		210	Asia/Kolkata	2018-05-26
+1277662	Bālāghāt	Balaghat	BGT,Balaghat,Balaghat District,Bālāghāt,Bālāghāt District,balaghata,बालाघाट	21.96667	80.33333	A	ADM2	IN		35	457			1701698		550	Asia/Kolkata	2023-06-30
+1277800	Bahraich	Bahraich	BHR,Bahraich,Bahraich District,Bahraich district,Bakhrajch,Distretto di Bahraich,District de Bahraich,Districte de Bahraich,Distrito de Bahraich,ba he lai qi xian,bahara'ica jila,bahara'ica jilla,baharaica jillo,baharaicamandalam,mntqt bahraysh,pakarayic mavattam,Бахрайч,بہرائچ ضلع,ضلع بہڑائچ,منطقة باهرايش,बहराइच जिला,बहराइच जिल्ला,बहरैचमण्डलम्,બહરૈચ જિલ્લો,ବହରାଇଚ ଜିଲ୍ଲା,பகராயிச் மாவட்டம்,బహ్‌రైచ్,巴赫賴奇縣	27.80021	81.51855	A	ADM2	IN		36	180			3487731		133	Asia/Kolkata	2018-05-26
+1278084	Āzamgarh	Azamgarh	AZM,Azamgarh,Azamgarh District,Āzamgarh	26	83	A	ADM2	IN		36	191			4613913		83	Asia/Kolkata	2023-07-02
+1278150	Aurangābād	Aurangabad	AGB,Aurangabad,Aurangabad(BH),Aurangābād,aurangabada,औरंगाबाद	24.75	84.5	A	ADM2	IN		34	235			2540073		112	Asia/Kolkata	2018-05-26
+1278648	South Andaman	South Andaman	Andaman Islands,SAS,South Andaman,South Andaman District,South Andamans	10.75776	92.52136	A	ADM2	IN		01	640			238142		36	Asia/Kolkata	2023-06-30
+1278668	Anantnāg	Anantnag	ATG,Ananthnag,Anantnag,Anantnāg,Kashmir South,Kashmīr South	33.83333	75.16667	A	ADM2	IN		12	014			1078692		1726	Asia/Kolkata	2018-05-26
+1278673	Anantapur	Anantapur	ANT,Anantapur,Anantapur District,Ananthapur	14.55	77.41667	A	ADM2	IN		02	553			4081148		463	Asia/Kolkata	2018-05-26
+1278711	Amritsar	Amritsar	AMT,Amritsar,Amritsar ,Amritsar District	31.67	74.84	A	ADM2	IN		23	049			2490656		229	Asia/Kolkata	2018-05-26
+1278716	Amreli	Amreli	ARL,Amreli,Amreli District,Amreli district,Amrelin piirikunta,Distretto di Amreli,District dAmreli,Districte dAmreli,Distrito de Amreli,amareli jil'ha,amareli jila,amareli jilla,amareli jillo,amarelimandalam,amreli,amreli jilla,amreli jille,amreli mavattam,an lei li xian,mntqt amraly,shhrstan amrly,Амрели,شهرستان امرلی,ضلع امریلی,منطقة امرالي,अमरेली जिला,अमरेली जिल्ला,अमरेली जिल्हा,अमरेलीमण्डलम्,અમરેલી જિલ્લો,ଅମ୍ରେଲି ଜିଲ୍ଲା,அம்ரேலி மாவட்டம்,అమ్రేలి,ಅಮ್ರೇಲಿ ಜಿಲ್ಲೆ,安雷利县	21.50789	71.18323	A	ADM2	IN		09	480			1514190		116	Asia/Kolkata	2018-07-13
+1278861	Ambāla	Ambala	AMB,Ambala,Ambala District,Ambāla,Ambāla District	30.32854	76.9422	A	ADM2	IN		10	070			1128350		277	Asia/Kolkata	2018-05-26
+1278947	Alwar	Alwar	ALW,Alwar,Alwar District	27.5	76.5	A	ADM2	IN		24	104			3674179		475	Asia/Kolkata	2018-05-26
+1278975	Almora	Almora	ALM,Almora,Almora District,Almora district,Almoran piirikunta,Distretto di Almora,District dAlmora,Districte dAlmora,Distrito de Almora,a er mo la xian,alamoda jil'ha,alamoda jillo,alamora jilla,almoda jilla,almodamandalam,almora,almora jila,almora jille,almora mavattam,mntqt almwra,shhrstan almwra,Алмора,شهرستان المورا,ضلع المورہ,منطقة المورا,अलमोडा जिल्हा,अलमोरा जिल्ला,अल्मोड़ा जिला,अल्मोडा जिल्ला,अल्मोडामण्डलम्,અલમોડા જિલ્લો,அல்மோரா மாவட்டம்,అల్మోరా,ಅಲ್ಮೋರ ಜಿಲ್ಲೆ,阿爾莫拉縣	29.69223	79.49789	A	ADM2	IN		39	064			622506		1584	Asia/Kolkata	2018-05-26
+1278986	Alappuzha	Alappuzha	ALZ,Alappuzha,Alleppey,Alleppey District,alappula,ആലപ്പുഴ	9.41667	76.5	A	ADM2	IN		13	598			2127789		2	Asia/Kolkata	2023-07-01
+1278995	Prayagraj	Prayagraj	ALB,Allahabad,Allahabad District,Allahābād,Allahābād District,Prayagraj,Prayagraj district	25.42012	81.88385	A	ADM2	IN		36	175			5954391		82	Asia/Kolkata	2023-09-22
+1279020	Alīgarh	Aligarh	ALG,Aligarh,Aligarh District,Alīgarh,Alīgarh District	27.83333	78.16667	A	ADM2	IN		36	143			3673889		182	Asia/Kolkata	2023-07-02
+1279109	Akola	Akola	AKO,Akola,Akola District,Akola district,Distretto di Akola,District dAkola,Districte dAkola,Distrito de Akola,a ke la xian,akola,akola jil'ha,akola jila,akola jilla,akola jillo,akola mavattam,akola zil'ha,akolamandalam,mntqt akwla,Акола,اکولہ ضلع,ضلع اکولا,منطقة اكولا,अकोला,अकोला जिला,अकोला जिल्ला,अकोला जिल्हा,अकोलामण्डलम्,ਅਕੋਲਾ ਜ਼ਿਲ੍ਹਾ,અકોલા જિલ્લો,ଆକୋଲା ଜିଲ୍ଲା,அகோலா மாவட்டம்,అకోలా జిల్లా,阿科拉縣	20.5	77.16667	A	ADM2	IN		16	501			1813906		330	Asia/Kolkata	2018-05-26
+1279160	Ajmer	Ajmer	AJM,Adzhmer,Ajmer,Ajmer District,Ajmer district,Distretto di Ajmer,District dAjmer,Districte dAjmer,Distrito de Ajmer,a jie mei er xian,ajamera jil'ha,ajamera jila,ajamera jilla,ajamera jillo,ajamera zil'ha,ajameramandalam,ajmir jilla,ajmir mavattam,ajumeru xian,mntqt ajmr,Аджмер,ضلع اجمیر,منطقة أجمر,अजमेर जिला,अजमेर जिल्ला,अजमेर जिल्हा,अजमेरमण्डलम्,ਅਜਮੇਰ ਜ਼ਿਲ੍ਹਾ,અજમેર જિલ્લો,ଆଜମେର ଜିଲ୍ଲା,அஜ்மீர் மாவட்டம்,అజ్మీర్ జిల్లా,അജ്മീർ ജില്ല,アジュメール県,阿傑梅爾縣	26.25	74.66667	A	ADM2	IN		24	119			2583052		433	Asia/Kolkata	2018-05-26
+1279234	Ahmadābād	Ahmadabad	AHM,Ahmadabad,Ahmadabad District,Ahmadābād,Ahmadābād District,Ahmedabad	23.03	72.58	A	ADM2	IN		09	474			7214225		53	Asia/Kolkata	2023-06-29
+1279262	Āgra	Agra	AGR,Agra,Agra District,Āgra	27.08333	77.96667	A	ADM2	IN		36	146			4418797		162	Asia/Kolkata	2023-06-30
+1279345	Ādilābād	Adilabad	ADI,Adilabad,Adilabad District,adilabad,Ādilābād,ఆదిలాబాద్	19.5	78.5	A	ADM2	IN		40	532			2741239		447	Asia/Kolkata	2018-05-26
+6640313	Namakkal	Namakkal	Distretto di Namakkal,District de Namakkal,District of Namakkal,Distrito de Namakkal,NMK,Namakkal,Namakkal   ,Namakkal district,dahyt namkl,na ma ka er xian,namakkal mavattam,namakkala jil'ha,namakkala jila,namakkala jilla,namakkalamandalam,namakkaru xian,Намаккал,ضاحية نامكل,ضلع ناماکل,نمکل ضلع,नमक्कल जिला,नमक्कल जिल्ला,नामक्कल जिल्हा,नामक्कलमण्डलम्,नामक्‍कल जिल्ला,நாமக்கல் மாவட்டம்,നാമക്കൽ ജില്ല,ナーマッカル県,納馬卡爾縣	11.3	78.13	A	ADM2	IN		25	609			1726601		190	Asia/Kolkata	2018-05-26
+6951502	Wayanad	Wayanad	Distretto di Wayanad,Distrito de Wayanad,Vajanad,WAY,Wayanad,Wayanad district,vayanad jilla,vayanada jil'ha,vayanada jila,vayanada jillo,vayanadamandalam,vayanadu,vayanat,vayanat jilla,vayanata jilla,vayanatu mavattam,wa ya na de xian,wayanad,Ваянад,واياناد,ویاناڈ ضلع,वयनाट जिल्ला,वयनाड जिला,वायनाड जिल्हा,वायनाडमण्डलम्,વયનાડ જિલ્લો,வயநாடு மாவட்டம்,వయనాడ్ జిల్లా,ವಯನಾಡು,വയനാട്,വയനാട് ജില്ല,瓦亞納德縣	11.605	76.083	A	ADM2	IN		13	590			817420		753	Asia/Kolkata	2018-05-26
+7289568	Palakkad district	Palakkad district	PLK,Palakkad,palakkat,പാലക്കാട്	10.775	76.651	A	ADM2	IN		13	593			2952254	84	86	Asia/Kolkata	2023-07-01
+7626227	Shrawasti	Shrawasti	SHV,Shravasti,Shrawasti	27.50746	82.0047	A	ADM2	IN		36	181			1117361		115	Asia/Kolkata	2018-05-26
+7626228	Siddharthnagar	Siddharthnagar	SDN,Siddharth Nagar,Siddharth Nagar district,Siddharthnagar,Siddharthnagar district	27.25797	83.01465	A	ADM2	IN		36	184			2559297		92	Asia/Kolkata	2018-07-11
+7626229	Kushinagar	Kushinagar	KBK,KSN,Kushi Nagar,Kushinagar,Kushinagar District,Kushinagara,Kusinagar,Kusinagara,Kusinagaras,Kusínagar,Kuşinagar,Kušinagara,Kušinagaras,ju shi na jie luo,kshy ngr,ku si nara,kucinakar,kushinagara,kusinagaleu,kusinagara,kusinagaram,kusinara,kwshy ngr,kwshynjar,Кушинагар,كوشينجار,کشی نگر,کوشی نگر,कुशीनगर,কুশিনগর,কুশীনগর,குசிநகர்,కుసినార,ಕುಶಿನಗರ,കുശിനഗരം,කුෂිනගර්,กุสินารา,ကုသိနာရုံပြည်,កុសិនារា,クシナガラ,拘尸那揭羅,쿠시나가르	26.74028	83.88889	A	ADM2	IN		36	189			3564544		86	Asia/Kolkata	2025-07-17
+7626531	Washim	Washim	WSH,Washim,vasima,वाशिम	20.2	77.2	A	ADM2	IN		16	502			1197160		523	Asia/Kolkata	2018-05-26
+7626532	Jalna	Jalna	Distretto di Jalna,District de Jalna,Distrito de Jalna,Dzhalna,JAL,Jalna,Jalna District,gu er na xian,jalana,jalana jil'ha,jalana jila,jalana jilla,jalana jillo,jalanamandalam,jalna jilla,jalna mavattam,mntqt jalna,Джална,جالنہ ضلع,ضلع جالنا,منطقة جالنا,जालना,जालना जिला,जालना जिल्ला,जालना जिल्हा,जालनामण्डलम्,જાલના જિલ્લો,ଜାଲନା ଜିଲ୍ଲା,ஜால்னா மாவட்டம்,జాల్నా జిల్లా,賈爾納縣	19.8	75.9	A	ADM2	IN		16	514			1959046		502	Asia/Kolkata	2018-05-26
+7626533	Hingoli	Hingoli	Distretto di Hingoli,District dHingoli,Distrito de Hingoli,HIN,Hingoli,Hingoli District,Khingoli,hingoli,hingoli jil'ha,hingoli jila,hingoli jilla,hingoli jillo,hingolimandalam,hinkoli mavattam,mntqt hynjwly,xin ge li xian,Хинголи,ضلع ہنگولی,منطقة هينجولي,ہنگولی ضلع,हिंगोली,हिंगोली जिला,हिंगोली जिल्ला,हिंगोली जिल्हा,हिङ्गोलीमण्डलम्,હિંગોલી જિલ્લો,ହିଙ୍ଗୋଳୀ ଜିଲ୍ଲା,ஹிங்கோலி மாவட்டம்,హింగోలి,辛戈利縣	19.7	77.15	A	ADM2	IN		16	512			1177345		442	Asia/Kolkata	2018-05-26
+7626534	Ahmadnagar	Ahmadnagar	AHN,Ahmadnagar,Ahmed Nagar,Ahmednagar,Ahmednagar District,ahamadanagara,ahmd nghr,ahmd ngr,ahmd njr,ahmdnajar,ahmdngr,ahmdnqr,أحمد نجر,أحمد نغر,أحمدناجار,احمد نگر,احمدنقر,احمدنگر,अहमदनगर	19.4	74.65	A	ADM2	IN		16	522			4543159		514	Asia/Kolkata	2023-12-17
+7626535	Gondiya	Gondiya	GON,Gondia,Gondiya,gondiya,गोंदीया	21.05	80.25	A	ADM2	IN		16	507			1322507		294	Asia/Kolkata	2018-05-26
+7626536	Gadchiroli	Gadchiroli	GDC,Gadchiroli,gadaciroli,गडचिरोली	19.8	80.2	A	ADM2	IN		16	508			1072942		275	Asia/Kolkata	2018-05-26
+7626537	Latur	Latur	LTR,Latur,Latur District,latura,लातूर	18.4	76.8	A	ADM2	IN		16	524			2454196		612	Asia/Kolkata	2018-05-26
+7626539	Sindhudurg	Sindhudurg	Distretto di Sindhudurg,District de Sindhudurg,Distrito de Sindhudurg,SIN,Sindhudurg,Sindhudurg District,Sindkhudurg,cintuturk mavattam,sindhudurg jilla,sindhudurga,sindhudurga jil'ha,sindhudurga jila,sindhudurga jilla,sindhudurga jillo,sindhudurgamandalam,syndhwdwrj,xin du du er ge xian,Синдхудург,Сіндхудург,سندھودرگ ضلع,سيندهودورج,ضلع سندھودرگ,सिंधुदुर्ग,सिंधुदुर्ग जिला,सिंधुदुर्ग जिल्ला,सिंधुदुर्ग जिल्हा,सिन्धुदुर्ग जिल्ला,सिन्धुदुर्गमण्डलम्,સિંધુદુર્ગ જિલ્લો,ସିନ୍ଧୁଦୁର୍ଗ ଜିଲ୍ଲା,சிந்துதுர்க் மாவட்டம்,సింధుదుర్గ్ జిల్లా,辛杜杜爾格縣	16.17	73.7	A	ADM2	IN		16	529			849651		52	Asia/Kolkata	2018-05-26
+7626540	Raigarh	Raigarh	RGD,Raigad,Raigarh,rayagada,रायगड	18.57	73.13	A	ADM2	IN		16	520			2634200		26	Asia/Kolkata	2023-12-17
+7626542	Nandurbar	Nandurbar	NNR,Nandurbar,nan du er ba er,nandarabara,nandurabara,nandurbar,nndwrbar,Нандурбар,نندوربار,नंदुरबार,नंदूरबार,नन्दुरबार,નંદરબાર,ନାନ୍ଦୁର୍ବାର୍,南杜尔巴尔	21.37	74.2	A	ADM2	IN		16	497			1648295		196	Asia/Kolkata	2023-06-30
+7626567	Supaul	Supaul	SPL,Supaul,supaula,सुपौल	26.25	86.8	A	ADM2	IN		34	208			2229076		60	Asia/Kolkata	2018-05-26
+7626568	Madhepura	Madhepura	MDP,Madhepura,madhepura,मधेपुरा	25.8	87	A	ADM2	IN		34	213			2001762		45	Asia/Kolkata	2018-05-26
+7626569	Araria	Araria	ARA,Araria,arariya,ararya,arryہ,أراريا,اراریا,ارریہ,अररिया	26.2	87.4	A	ADM2	IN		34	209			2811569		56	Asia/Kolkata	2019-05-09
+7626588	Aizawl	Aizawl	AIZ,Aidzhal,Aijal District,Aizawl,Aizawl District,Aizawl district,Distretto di Aizawl,District dAizawl,Distrito de Aizawl,a'ijola jila,a'ijola jilla,a'ijola zila,ai zao er xian,aijhavala jillo,aijhola jil'ha,aijolamandalam,aycal mavattam,mntqt ayzawl,Аиджал,ضلع ایزاول,منطقة ايزاول,आइजोल जिला,आइजोल जिल्ला,ऐजोलमण्डलम्,ऐझॉल जिल्हा,ਆਇਜੋਲ ਜ਼ਿਲਾ,ઐઝવાલ જિલ્લો,அய்சால் மாவட்டம்,艾藻爾縣	23.82411	92.76519	A	ADM2	IN		31	283			400309		721	Asia/Kolkata	2023-09-24
+7626589	Lunglei	Lunglei	Distretto di Lunglei,District de Lunglei,Distrito de Lunglei,LNG,Lunglei,Lunglei district,lin lei xian,lugale'i zila,lun'gale'i jillo,lungalaimandalam,lungale'i jila,lungale'i jilla,lungle'i jil'ha,lunley mavattam,mntqt lwnjly,Лунглеи,ضلع لنگلی,منطقة لونجلي,लुंगलेई जिला,लुंग्लेइ जिल्हा,लुङ्गलेई जिल्ला,लुङ्गलैमण्डलम्,ਲੁੰਗਲੇਈ ਜ਼ਿਲਾ,લુન્ગલેઇ જિલ્લો,லுங்லேய் மாவட்டம்,లంగ్‌లై,林雷縣	22.9	92.75	A	ADM2	IN		31	286			161428		887	Asia/Kolkata	2018-05-26
+7626856	Rangareddi	Rangareddi	K.V.Rangareddy,RNG,Ranga Reddy,Rangareddy,ranga reddi,రంగా రెడ్డి	17.27883	78.16844	A	ADM2	IN		40	537			5296741		611	Asia/Kolkata	2024-05-21
+7626859	Vizianagaram District	Vizianagaram District	VNG,Viziagram,Vizianagaram,Vizianagaram District	18.41102	83.37677	A	ADM2	IN		02	543			2344474		92	Asia/Kolkata	2018-05-26
+7627069	Thoothukkudi	Thoothukkudi	TUT,Thoothukkudi,Thoothukudi,Tuticorin,Tuticorin District	8.8375	77.963	A	ADM2	IN		25	627			1750176		39	Asia/Kolkata	2020-10-24
+7627071	Perambalur	Perambalur	PRM,Perambalur,Perambalur	11.272	78.8738	A	ADM2	IN		25	615			565223		173	Asia/Kolkata	2018-05-26
+7627073	Nagapattinam	Nagapattinam	NPM,Nagapattinam,Nagapattinam	10.85	79.74	A	ADM2	IN		25	618			1616450		7	Asia/Kolkata	2023-09-22
+7627074	Barpeta	Barpeta	BAR,Barpeta	26.30795	90.9971	A	ADM2	IN		03	303			1693622		36	Asia/Kolkata	2023-12-21
+7627076	Bongaigaon	Bongaigaon	BNG,Bongaigaon,Bongajgaon,bamga'iganva,bana'igamo,bang ge ai jia ao en,banga'igamo,banga'igamva,bona'igamo,bonga'iga'om,bonga'iganva,bwnjayjawn,Бонгайгаон,بونجايجاون,بونگائی گاؤں,बंगाईगाँव,बाँगाइगांव,बोङाइगाँओ,বঙাইগাঁও,বঙ্গাইগাঁও,બોંગાઇગાંવ,ବୋଙ୍ଗାଇଗାଓଁ,邦格艾加奥恩	26.4603	90.6464	A	ADM2	IN		03	319			738804		57	Asia/Kolkata	2018-05-26
+7627077	Dhemaji	Dhemaji	DHM,Dhemaji	27.6091	94.7942	A	ADM2	IN		03	308			686133		107	Asia/Kolkata	2018-05-26
+7627078	Dhubri	Dhubri	DHB,Dhubri,Dhuburi	26.06749	90.02238	A	ADM2	IN		03	301			1949258		26	Asia/Kolkata	2018-05-28
+7627079	Golaghat	Golaghat	GLG,Golaghat	26.4092	93.91193	A	ADM2	IN		03	313			1066888		113	Asia/Kolkata	2018-05-26
+7627080	Hailakandi	Hailakandi	HLK,Hailakandi	24.5017	92.60069	A	ADM2	IN		03	318			659296		35	Asia/Kolkata	2018-05-26
+7627081	Jorhat	Jorhat	Distretto di Jorhat,District de Jorhat,Distrito de Jorhat,Dzhorkhat,JRH,Jorhat,Jorhat (India : District),Jorhat district,Jorhatin piirikunta,Jorhāt (India : District),jor'hat,jor'hat mavattam,jorahata,jorahata jil'ha,jorahata jila,jorahata jilla,jorahata jillo,jorahatamandalam,jue la te xian,jwrhat,yorahata jela,yorahata jila,yorahata jilla,Джорхат,جورهات,ضلع جورہٹ,जोरहट जिल्ला,जोरहाट जिला,जोरहाट जिल्हा,जोरहाटमण्डलम्,योरहाट जिल्ला,জোরহাট,যোরহাট জেলা,যোৰহাট জিলা,જોરહટ જિલ્લો,ஜோர்ஹாட் மாவட்டம்,జోర్హాట్,覺拉特縣	26.8	94.26	A	ADM2	IN		03	312			1092256		95	Asia/Kolkata	2018-05-26
+7627082	Karimganj	Karimganj	Distretto di Karimganj,District de Karimganj,Distrito de Karimganj,KGJ,Karimgandzh,Karimganj,Karimganj district,Karimganjin piirikunta,ka ren gan jie xian,karaimaganja jila,karimaganja,karimaganja jela,karimaganja jil'ha,karimaganja jila,karimaganja jilla,karimaganja jillo,karimaganjamandalam,karimkancu mavattam,karinganj,Каримгандж,ضلع کریمگنج,करिमगञ्ज जिल्ला,करीमगंज जिला,करीमगंज जिल्हा,करीमगञ्ज जिल्ला,करीमगञ्जमण्डलम्,করিমগঞ্জ,করিমগঞ্জ জেলা,কৰিমগঞ্জ জিলা,કરીમગંજ જિલ્લો,கரீம்கஞ்சு மாவட்டம்,కరీంగంజ్,卡仁甘傑縣	24.6	92.4	A	ADM2	IN		03	317			1228686		21	Asia/Kolkata	2018-05-26
+7627083	Kokrajhar	Kokrajhar	KKR,Kokrajhar	26.6	90.2	A	ADM2	IN		03	300			887142		76	Asia/Kolkata	2018-05-26
+7627084	Nalbari	Nalbari	NLB,Nalbari	26.5	91.4	A	ADM2	IN		03	323			771639		56	Asia/Kolkata	2018-05-26
+7627085	Tinsukia	Tinsukia	TIN,Tinsukia	27.6	95.6	A	ADM2	IN		03	309			1327929		135	Asia/Kolkata	2018-05-26
+7627169	Korba	Korba	KRB,Korba,Korba ,koraba,कोरबा	22.5	82.6	A	ADM2	IN		37	404			1206640		322	Asia/Kolkata	2018-05-26
+7627170	Dhamtari	Dhamtari	DMT,Dhamtari,Dhamtari ,dhamatari,धमतरी	20.5	81.8	A	ADM2	IN		37	412			799781		415	Asia/Kolkata	2018-05-26
+7627172	Uttar Bastar Kanker	Uttar Bastar Kanker	KNK,Kanker,Kanker District,North Bastar Kanker,Uttar Bastar Kanker,kankera,कांकेर	20.2	81.1	A	ADM2	IN		37	413			748941		376	Asia/Kolkata	2023-06-30
+7627173	Simdega	Simdega	SMG,Simdega,simadega,सिमडेगा	22.6	84.6	A	ADM2	IN		38	367			599578		450	Asia/Kolkata	2018-05-26
+7627174	Godda	Godda	GDD,Godda,Godda District,godda,गोड्डा	24.83333	87.21667	A	ADM2	IN		38	351			1313551		94	Asia/Kolkata	2023-07-01
+7627175	Dumka	Dumka	DMK,Dumka,Dumka District,dumaka,दुमका	24.3	87.25	A	ADM2	IN		38	362			1321442		139	Asia/Kolkata	2023-07-01
+7627176	Latehar	Latehar	LTH,Latehar,latehara,लातेहार	23.75	84.4	A	ADM2	IN		38	359			726978		387	Asia/Kolkata	2018-05-26
+7627177	Lohardaga	Lohardaga	LHR,Lohardaga,Lokhardaga,loharadaga,loharadagga,luo ha er da jia,Лохардага,لوہارڈاگا,लोहरदगा,लोहरदग्गा,लोहारदगा,লোহরডগ,લોહરદગ્ગા,ଲୋହାର୍‌ଡ଼ଗା,洛哈尔达加	23.5	84.6	A	ADM2	IN		38	356			461790		779	Asia/Kolkata	2018-05-26
+7627178	Dindori	Dindori	DND,Dindori,Dindori	22.8	81.1	A	ADM2	IN		35	453			704524		874	Asia/Kolkata	2018-05-26
+7627179	Jharsuguda District	Jharsuguda District	JHR,Jharsuguda	21.85	84	A	ADM2	IN		21	371			579505		220	Asia/Kolkata	2019-03-21
+7627181	Kandhamal	Kandhamal	KNM,Kandhamal,Kandhamal district	20.3	84	A	ADM2	IN		21	390			733110		680	Asia/Kolkata	2023-06-28
+7627182	Malkangiri	Malkangiri	MLK,Malkangiri,Malkangiri	18.25	81.95	A	ADM2	IN		21	399			613192		287	Asia/Kolkata	2018-05-26
+7627183	Rayagada	Rayagada	RYG,Rayagada,Rayagada	19.4	83.5	A	ADM2	IN		21	396			967911		378	Asia/Kolkata	2018-05-26
+7627221	Anand	Anand	ANA,Anand,Anand  ,Anand DIstrict	22.4	72.75	A	ADM2	IN		09	482			2092745		22	Asia/Kolkata	2023-07-01
+7627222	Jehanabad	Jehanabad	Dzhekhanabad,JHB,Jahanabad,Jehanabad,Jehanabad ,jahanabada,jahanabadanagaram,jehanabada,jie ha na ba de,jyhan abad,Джеханабад,جيهان أباد,جہان آباد، بھارت,जहानाबाद,जहानाबादनगरम्,জেহানাবাদ,ଜେହାନାବାଦ,杰哈纳巴德	25.20701	84.99573	A	ADM2	IN		34	239			1125313		66	Asia/Kolkata	2018-05-26
+7627223	Buxar	Buxar	BUX,Buxar,baksara,बक्सर	25.5	84.1	A	ADM2	IN		34	232			1706352		74	Asia/Kolkata	2018-05-26
+7627225	Janjgir-Champa	Janjgir-Champa	JCH,Janjgir - Champa,Janjgir-Champa,janjagira - campa,जांजगीर - चाम्पा	21.9	82.7	A	ADM2	IN		37	405			1619707		235	Asia/Kolkata	2018-05-26
+7627226	Dohad	Dohad	DHD,Dahod,Dahod district,Dohad,Dohad	22.9	74	A	ADM2	IN		09	485			2127086		201	Asia/Kolkata	2019-01-23
+7627228	Jamtara	Jamtara	JMT,Jamtara,jamatara,जामताड़ा	24	86.85	A	ADM2	IN		38	363			791042		158	Asia/Kolkata	2018-05-26
+7627229	Katihar	Katihar	KTR,Katihar,Katikhar,ka di ha er,katihar,katihara,katihara jilla,kattihar,katyhar,Катихар,كاتيحار,کاتیهار,کٹیہار,कटिहार,कटिहार जिल्ला,कतिहार,কাটিহার,কাতিহার,ਕਟਿਹਾਰ,કટિહાર,କାତିହାର୍,கட்டிஹார்,卡蒂哈尔	25.5	87.6	A	ADM2	IN		34	212			3071029		30	Asia/Kolkata	2018-05-26
+7627230	Kabeerdham	Kabeerdham	KDM,Kabeerdham,Kabirdham,Kabirdham District,kabiradhama,kabiradhama jila,कबीरधाम,कबीरधाम जिला	22.1	81.2	A	ADM2	IN		37	407			822526		394	Asia/Kolkata	2023-07-01
+7627231	Khagaria	Khagaria	KGR,Khagaria,khagariya,खगड़िया	25.5	86.6	A	ADM2	IN		34	223			1666886		39	Asia/Kolkata	2018-05-26
+7627233	Kishanganj	Kishanganj	KSG,Kishanganj,kisanaganja,किशनगंज	26.3	88	A	ADM2	IN		34	210			1690400		58	Asia/Kolkata	2018-05-26
+7627234	Koppal	Koppal	KPL,Koppal,Koppal district	15.5	76.2	A	ADM2	IN		19	560			1389920		578	Asia/Kolkata	2023-06-28
+7627235	Lakhisarai	Lakhisarai	LSR,Lakhisarai,lakhisaraya,लखीसराय	25.2	86.2	A	ADM2	IN		34	227			1000912		42	Asia/Kolkata	2018-05-26
+7627236	Mahasamund	Mahasamund	MHS,Mahasamund,mahasamunda,महासमुंद	21.2	82.5	A	ADM2	IN		37	411			1032754		307	Asia/Kolkata	2018-05-26
+7627237	Murshidabad	Murshidabad	Distretto di Murshidabad,District de Murshidabad,Districte de Murshidabad,Distrito de Murshidabad,MRS,Murshidabad,Murshidabad ,Murshidabad District,mu xi da ba de xian,murcitapat mavattam,mursidabad,mursidabada jela,mursidabada jil'ha,mursidabada jila,mursidabada jilla,mursidabada jillo,mursidabadamandalam,Муршидабад,ضلع مرشدآباد,ضلع مرشداباد,मुर्शिदाबाद जिला,मुर्शिदाबाद जिल्ला,मुर्शिदाबाद जिल्हा,मुर्शिदाबादमण्डलम्,মুর্শিদাবাদ জেলা,મુર્શિદાબાદ જિલ્લો,ମୁର୍ଶିଦାବାଦ ଜିଲ୍ଲା,முர்சிதாபாத் மாவட்டம்,ముర్షిదాబాద్,穆希達巴德縣	24.1	88.25	A	ADM2	IN		28	333			7103807		26	Asia/Kolkata	2023-06-30
+7627238	Patan	Patan	PAT,Patan,Patan	23.7	71.8	A	ADM2	IN		09	470			1343734		34	Asia/Kolkata	2018-05-26
+7627239	Sheohar	Sheohar	SHH,Sheohar,Sheohar District,sivahara,शिवहर	26.5	85.3	A	ADM2	IN		34	205			656246		68	Asia/Kolkata	2023-07-01
+7627240	Sheopur	Sheopur	SHP,Sheopur,Sheopur	25.8	77	A	ADM2	IN		35	418			687861		361	Asia/Kolkata	2018-05-26
+7627241	Thiruvallur	Thiruvallur	TRV,Thiruvallur,Thiruvallur District,Tiruvallur	13.25	80	A	ADM2	IN		25	602			3728104		28	Asia/Kolkata	2023-07-01
+7644924	Bhadrak	Bhadrak	BDK,Bhadrak	21	86.6	A	ADM2	IN		21	378			1506337		10	Asia/Kolkata	2018-05-26
+7644925	Jagatsinghpur	Jagatsinghpur	JGT,Jagatsinghapur,Jagatsinghapur	20.2	86.3	A	ADM2	IN		21	380			1136971		8	Asia/Kolkata	2018-05-26
+7644926	Kendrapara	Kendrapara	KND,Kendrapara,Kendrapara ,Kendrapara District	20.5	86.5	A	ADM2	IN		21	379			1440361		5	Asia/Kolkata	2023-06-30
+7644927	Khordha	Khordha	KHD,Khorda,Khordha,Khordha ,Khurdha	20.2	85.6	A	ADM2	IN		21	386			2251673		56	Asia/Kolkata	2024-05-21
+7644928	Puri	Puri	PUR,Puri	19.9	85.6	A	ADM2	IN		21	387			1698730		6	Asia/Kolkata	2018-05-26
+7646145	Chennai	Chennai	CHE,Chennai,Chennai District,Chennai district,Chennain piirikunta,Distretto di Chennai,District de Chennai,Districte de Chennai,Distrito de Chennai,cenna'i jela,cenna'i jil'ha,cenna'i jila,cenna'i jilla,cenna'i jillo,cennai jilla,cennai mavattam,cennaimandalam,chen'nai xian,chennai gu,dahyt tshynay,jin nai xian,Ченнаи,ضاحية تشيناي,ضلع چینائ,चेन्नई जिला,चेन्नई जिल्ला,चेन्नई जिल्हा,चेन्नैमण्डलम्,চেন্নাই জেলা,ચેન્નઈ જિલ્લો,சென்னை மாவட்டம்,ചെന്നൈ ജില്ല,チェンナイ県,金奈縣,첸나이 구	13.08891	80.26483	A	ADM2	IN		25	603			4646732		10	Asia/Kolkata	2018-05-26
+7646146	Vellore	Vellore	Distretto di Vellore,District de Vellore,Distrito de Vellore,VEL,Vellore,Vellore district,Velluru,dahyt flwr,vellora jila,vellora jillo,vellura jil'ha,vellurumandalam,velur mavattam,vueruru xian,Веллуру,ضاحية فلور,ضلع ویلور,वेल्लूर जिल्हा,वेल्लूरुमण्डलम्,वेल्लोर जिला,વેલ્લોર જિલ્લો,வேலூர் மாவட்டம்,വെല്ലൂർ ജില്ല,ヴェールール県	12.86	79.035	A	ADM2	IN		25	605			1614242		267	Asia/Kolkata	2021-02-02
+7646147	Tiruvannamalai	Tiruvannamalai	TVN,Tiruvannamalai,Tiruvannamalai District	12.51	79.09	A	ADM2	IN		25	606			2464875		184	Asia/Kolkata	2023-06-30
+7646149	Kancheepuram	Kancheepuram	KCP,Kancheepuram,Kanchi,Kanchipuram	12.83359	79.78225	A	ADM2	IN		25	604			3998252		68	Asia/Kolkata	2023-09-24
+7646150	Villupuram	Villupuram	VIL,Villupuram,Viluppuram,Viluppuram District	11.99	79.37	A	ADM2	IN		25	607			3458873		75	Asia/Kolkata	2023-06-30
+7646153	Cuddalore	Cuddalore	CDL,Cuddalore	11.52	79.51	A	ADM2	IN		25	617			2605914		22	Asia/Kolkata	2018-05-26
+7646154	Sivaganga	Sivaganga	SGG,Sivaganga,Sivagangai,sivaganga jila,शिवगंगा जिला	9.92762	78.53763	A	ADM2	IN		25	622			1339101		88	Asia/Kolkata	2018-05-26
+7646155	Theni	Theni	THE,Theni,Theni District	9.85	77.42	A	ADM2	IN		25	624			1245899		533	Asia/Kolkata	2023-07-01
+7646157	Virudhunagar	Virudhunagar	VIR,Virudhunagar	9.45	77.92	A	ADM2	IN		25	625			1942288		75	Asia/Kolkata	2018-05-26
+7646980	Thiruvarur	Thiruvarur	TVV,Thiruvarur,Thiruvarur District,Tiruvarur	10.66	79.55	A	ADM2	IN		25	619			1264277		14	Asia/Kolkata	2023-07-01
+7646984	Davanagere	Davanagere	DAV,Davanagere,Davanagere District,Davangere	14.43	75.9	A	ADM2	IN		19	567			1945497		595	Asia/Kolkata	2023-06-30
+7701203	Dausa	Dausa	DAS,Dausa	26.88269	76.57053	A	ADM2	IN		24	109			1634409		302	Asia/Kolkata	2018-05-26
+7701204	Dhaulpur	Dhaulpur	DLP,Dhaulpur,Dholpur	26.71183	77.73956	A	ADM2	IN		24	106			1206516		195	Asia/Kolkata	2018-05-26
+7701209	Karauli	Karauli	KAR,Karauli	26.58	77.1	A	ADM2	IN		24	107			1458248		273	Asia/Kolkata	2018-05-26
+7701212	Baran	Baran	BRN,Baran	25.09	76.66	A	ADM2	IN		24	128			1222755		261	Asia/Kolkata	2018-05-26
+7701213	Rajsamand	Rajsamand	RJS,Rajasmand District,Rajsamand	25.23822	73.93503	A	ADM2	IN		24	123			1156597		609	Asia/Kolkata	2023-06-30
+7701379	Una	Una	UNA,Una	31.58369	76.19283	A	ADM2	IN		11	029			521173		445	Asia/Kolkata	2018-05-26
+7701426	Purba Singhbhum	Purba Singhbhum	ESM,East Singhbhum,East Singhbhum District,East Singhbum,Purbi Singhbhum,purvi singhabhuma,पूर्वी सिंघभूम	22.59238	86.48341	A	ADM2	IN		38	357			2293919		103	Asia/Kolkata	2023-07-03
+7701427	Bokaro	Bokaro	BKR,Bokaro,Bokaro district,Distretto di Bokaro,District de Bokaro,Distrito de Bokaro,bo ka luo xian,bokaro,bokaro jil'ha,bokaro jila,bokaro jilla,bokaro jillo,bokaromandalam,pokaro mavattam,Бокаро,ضلع بوکارو,बोकारो,बोकारो जिला,बोकारो जिल्ला,बोकारो जिल्हा,बोकारोमण्डलम्,ਬੋਕਾਰੋ ਜਿਲਾ,બોકારો જિલ્લો,போகாரோ மாவட்டம்,బొకారో,博卡羅縣	23.68562	85.99026	A	ADM2	IN		38	355			2062330		288	Asia/Kolkata	2018-05-26
+7701429	Gumla	Gumla	GML,Gumla,Gumla District,gumala,गुमला	23.08055	84.53834	A	ADM2	IN		38	366			1025213		603	Asia/Kolkata	2023-06-30
+7701507	Ri-Bhoi	Ri-Bhoi	RGH,Rh-Bhoi District,Ri Bhoi,RiBhoi	25.88997	91.82707	A	ADM2	IN		18	297			258840		404	Asia/Kolkata	2018-07-29
+7701511	West Khasi Hills	West Khasi Hills	WKA,West Khasi Hills,West Khasi Hills District	25.54776	91.26957	A	ADM2	IN		18	296			383461		1440	Asia/Kolkata	2018-05-26
+7701513	Bageshwar	Bageshwar	BGS,Bageshwar	29.97315	79.83224	A	ADM2	IN		39	063			259898		2342	Asia/Kolkata	2018-05-26
+7701515	Champawat	Champawat	CHP,Champawat	29.28756	80.03737	A	ADM2	IN		39	065			259648		1137	Asia/Kolkata	2018-05-26
+7701516	Udham Singh Nagar	Udham Singh Nagar	Distretto di Udham Singh Nagar,District dUdham Singh Nagar,Distrito de Udham Singh Nagar,USN,Udam Singh Nagar,Udham Singh Nagar,Udham Singh Nagar district,Udham Singh Nagarin piirikunta,Udkham-Singkh-Nagar,awdham syngh njr,uddansing nagar,udhama sinha nagara,udhama sinha nagara jila,udhamasinga nagara jillo,udhamasinha nagara janapada,udhamasinha nagara jil'ha,udhamasinhanagaramandalam,wu dan xin na jia xian,Удхам-Сингх-Нагар,Удхам-Сінґх-Наґар,ادھم سنگھ نگر ضلع,اودهام سينغ نجر,ضلع اودھم سنگھ نگر,उधम सिंह नगर,उधम सिंह नगर जिला,उधमसिंह नगर जिल्हा,ऊधमसिंह नगर जनपद,ऊधमसिंहनगरमण्डलम्,ઉધમસિંગ નગર જિલ્લો,ఉద్దంసింగ్ నగర్,烏但辛那加縣	29.02746	79.52347	A	ADM2	IN		39	067			1648902		234	Asia/Kolkata	2018-05-26
+7701598	Koriya	Koriya	Distretto di Korea,District de Koriya,Distrito de Korea,KOR,Korea,Korija,Koriya,Koriya district,ke li ya xian,koriya,koriya jil'ha,koriya jila,koriya jilla,koriya jillo,koriya mavattam,koriyamandalam,Кория,ضلع کوریا,کوریا ضلع,कोरिया,कोरिया जिला,कोरिया जिल्ला,कोरिया जिल्हा,कोरीयामण्डलम्,કોરિયા જિલ્લો,କୋରିୟା ଜିଲ୍ଲା,கோரியா மாவட்டம்,కోరియా,科里亚县	23.42993	82.51779	A	ADM2	IN		37	400			658917		707	Asia/Kolkata	2023-12-20
+7701599	Jashpur	Jashpur	JSH,Jashpur,Jashpur ,Jashpur District,jasapura,जशपुर	22.78495	83.84573	A	ADM2	IN		37	402			851669		490	Asia/Kolkata	2023-06-30
+7701601	Saraikela	Saraikela	SKH,Saraikela Kharsawan,Saraikela-Kharsawan,Seraikela-kharsawan,Seraikella District,sarayakela kharasavam,सरायकेला खरसावां	22.83906	85.89594	A	ADM2	IN		38	369			1065056		267	Asia/Kolkata	2023-07-03
+7701603	Sahibganj	Sahibganj	SGJ,Sahebganj,Sahibganj,sahebaganja,साहेबगंज	24.99354	87.67333	A	ADM2	IN		38	352			1150567		140	Asia/Kolkata	2018-05-26
+7701604	Pakur	Pakur	PKR,Pakur,pakura,पाकुर	24.57058	87.67075	A	ADM2	IN		38	353			900422		115	Asia/Kolkata	2018-05-26
+7701605	Garhwa	Garhwa	GRH,Garhwa,Garhwa ,garhava,गढ़वा	24.07494	83.71023	A	ADM2	IN		38	346			1322784		327	Asia/Kolkata	2018-05-26
+7701609	Sheikhpura	Sheikhpura	SHK,Sheikhpura,Sheikhpura District,sekhapura,शेखपुरा	25.13073	85.78176	A	ADM2	IN		34	228			636342		51	Asia/Kolkata	2023-06-30
+7729742	Hanumangarh	Hanumangarh	HGH,Hanumangarh	29.11	74.6	A	ADM2	IN		24	100			1774692		196	Asia/Kolkata	2018-05-26
+7729743	Ambedkar Nagar	Ambedkar Nagar	AMN,Ambedkar Nagar,Ambedkar Nagar District	26.40544	82.69762	A	ADM2	IN		36	178			2397888		87	Asia/Kolkata	2023-07-03
+7729744	Auraiya	Auraiya	ARY,Auraiya	26.64692	79.42858	A	ADM2	IN		36	162			1379545		143	Asia/Kolkata	2018-05-26
+7729745	Balrampur	Balrampur	BRP,Balrampur	27.43449	82.40281	A	ADM2	IN		36	182			2148665		106	Asia/Kolkata	2018-05-26
+7729747	Kanpur Dehat	Kanpur Dehat	Distretto di Kanpur Dehat,District de Kanpur Dehat,Districte de Kanpur Dehat,Distrito de Ramabai Nagar,KPD,Kanpur Dehat,Kanpur Dehat district,Ramabai Nagar,Ramabajnagar,iramapay nakar mavattam,kanapura dehata jil'ha,kanapura dehata jila,kanapura dehata jilla,kanapura dehata jillo,kanpur dehat,la ma bai na jia er xian,ramaba'i nagara jilla,ramabay njar,ramabayinagaramandalam,Рамабайнагар,راماباي نجار,کانپور دیہات ضلع,कानपुर देहात जिला,कानपुर देहात जिल्ला,कानपूर देहात जिल्हा,रमाबायीनगरमण्डलम्,કાનપુર દેહાત જિલ્લો,ରାମବାଇ ନଗର ଜିଲ୍ଲା,இராமாபாய் நகர் மாவட்டம்,కాన్పూర్ దేహత్,拉馬拜那加爾縣	26.41506	79.98957	A	ADM2	IN		36	163			1796184		131	Asia/Kolkata	2018-05-26
+7729749	Maharajganj	Maharajganj	MRG,Maharajganj,Mahrajganj	27.16945	83.50667	A	ADM2	IN		36	187			2684703		87	Asia/Kolkata	2018-05-26
+7729750	Mau	Mau	MAU,Mau	26.0294	83.50756	A	ADM2	IN		36	192			2205968		78	Asia/Kolkata	2018-05-26
+7729751	Bhadohi	Bhadohi	Bhadohi,Bhadohi district,SRD,Sant Ravidas Nagar (Bhadohi)	25.35792	82.4308	A	ADM2	IN		36	198			1578213		87	Asia/Kolkata	2023-09-22
+7874372	Pattanamtitta	Pattanamtitta	PTT,Pathanamthitta,pattanantitta,പത്തനംതിട്ട	9.28068	76.86967	A	ADM2	IN		13	599			1197412		37	Asia/Kolkata	2018-05-26
+7874380	Tirunelveli Kattabo	Tirunelveli Kattabo	TRN,Tirunelveli,Tirunelveli	8.7927	77.57409	A	ADM2	IN		25	628			3077233		91	Asia/Kolkata	2018-05-26
+7874389	Firozabad	Firozabad	FIR,Firozabad	27.20072	78.42867	A	ADM2	IN		36	147			2498156		166	Asia/Kolkata	2018-05-26
+7902634	Kannauj	Kannauj	KNJ,Kannauj	27.0177	79.67846	A	ADM2	IN		36	160			1656616		144	Asia/Kolkata	2018-05-26
+7909821	Kollam	Kollam	KLM,Kollam,keallam,കൊല്ലം	8.95687	76.85274	A	ADM2	IN		13	600			2635375		75	Asia/Kolkata	2018-05-26
+7909823	Thiruvananthapuram	Thiruvananthapuram	City of Lord Anantha,TRV,TVM,TVP,Thiruvananthapuram,Trivandrum,tiru'anantapuram,tiruvanantapuram,tiruvanantapurama,तिरुअनन्तपुरम्,तिरुवनन्तपुरम,திருவனந்தபுரம்,തിരുവനന്തപുരം	8.60399	76.98574	A	ADM2	IN		13	601			3301427		71	Asia/Kolkata	2020-05-01
+7909838	Mamit	Mamit	Distretto di Mamit,District de Mamit,Distrito de Mamit,MMT,Mamit,Mamit district,Mammit,ma mi te xian,mamit,mamit mavattam,mamita jil'ha,mamita jila,mamita jilla,mamita jillo,mamita zila,mamitamandalam,mntqt mamyt,Мамит,ضلع مامت,منطقة ماميت,ममित जिला,ममित जिल्ला,मामित जिल्हा,मामितमण्डलम्,ਮਮਿਤ ਜ਼ਿਲਾ,મમિત જિલ્લો,மாமித் மாவட்டம்,మమిట్,马米特县	23.78492	92.46939	A	ADM2	IN		31	281			86364		414	Asia/Kolkata	2018-05-26
+7909842	Haveri	Haveri	HAV,Haveri,Khaveri,averi,ha wei li,haberi,haveri,Хавери,हावेरी,হাবেরী,હાવેરી,ஆவேரி,哈韦里	14.73732	75.41062	A	ADM2	IN		19	564			1597668		580	Asia/Kolkata	2018-05-26
+7909847	Gadag	Gadag	GDG,Gadag	15.49835	75.65187	A	ADM2	IN		19	561			1064570		616	Asia/Kolkata	2018-05-26
+7909874	Fatehgarh Sahib	Fatehgarh Sahib	FTG,Fatehgarh Sahib	30.64379	76.34787	A	ADM2	IN		23	040			600163		266	Asia/Kolkata	2018-05-26
+7909875	Muktsar	Muktsar	Muktsar,SMT,Sri Muktsar Sahib,sri mukatasara sahiba,ਸ੍ਰੀ ਮੁਕਤਸਰ ਸਾਹਿਬ	30.28735	74.53489	A	ADM2	IN		23	044			901896		198	Asia/Kolkata	2018-05-28
+8131497	Amravati Division	Amravati Division	Amravati,amaravati,अमरावती	20.93483	77.75694	A	ADM2	IN		16	503			2888445		341	Asia/Kolkata	2022-01-29
+8131498	Aurangabad	Aurangabad	AUR,Aurangabad,Aurangabad District,aurangabada,awrng abad,awrng abad dlʿ,awrng‌abad,awrnk abad,bkhsh awrng‌abad,mntqt awrnk abad,أورنك آباد,اورنگ آباد,اورنگ آباد ضلع,اورنگ‌آباد,بخش اورنگ‌آباد,منطقة أورنك آباد,औरंगाबाद	19.88467	75.33986	A	ADM2	IN		16	515			3701282		587	Asia/Kolkata	2023-06-29
+8131500	Nagpur Division	Nagpur Division	NGP,Nagpur,nagapura,नागपूर	21.14911	79.10748	A	ADM2	IN		16	505			4653570		308	Asia/Kolkata	2023-12-17
+8131501	Nashik Division	Nashik Division	NSH,Nashik,nasika,नाशिक	19.98295	73.78942	A	ADM2	IN		16	516			6107187		586	Asia/Kolkata	2023-12-17
+8131502	Satara Division	Satara Division	SAT,Satara,Satara District,satara,सातारा	17.72601	74.06433	A	ADM2	IN		16	527			3003741		646	Asia/Kolkata	2023-07-01
+8133375	Pune Division	Pune Division	PUN,Pune,pune,पुणे	18.74673	73.75465	A	ADM2	IN		16	521			9429408		589	Asia/Kolkata	2023-12-13
+8133543	Thrissur District	Thrissur District	TSR,Thrissur,trssur‍,തൃശ്ശൂര്‍	10.52022	76.2204	A	ADM2	IN		13	594			3121200		16	Asia/Kolkata	2018-05-26
+8199441	Ariyalur	Ariyalur	ARI,Ariyalur,Ariyalur District	11.15	79.25	A	ADM2	IN		25	616			754894		77	Asia/Kolkata	2023-07-01
+8223993	Krishnagiri	Krishnagiri	KHN,Krishnagiri	12.58	77.96	A	ADM2	IN		25	631			1879809		733	Asia/Kolkata	2018-05-26
+8223994	Dindigul	Dindigul	DIN,Dindigul	10.4	77.8	A	ADM2	IN		25	612			2159775		338	Asia/Kolkata	2018-05-26
+8223995	Erode	Erode	ERO,Erode	11.34	77.55	A	ADM2	IN		25	610			2251744		263	Asia/Kolkata	2018-05-26
+8223996	Karur	Karur	KRR,Karur,Karur	10.88	78.19	A	ADM2	IN		25	613			1064493		142	Asia/Kolkata	2018-05-26
+8224036	Chikkaballapur	Chikkaballapur	CHB,Chikballapur,Chikballapura district,Chikkaballapur,Chikkaballapura district	13.55	77.87	A	ADM2	IN		19	582			1255104		856	Asia/Kolkata	2018-05-26
+8224037	Bagalkot	Bagalkot	BAG,Bagalkot,Bagalkot ,Bagalkot District	16.18	75.69	A	ADM2	IN		19	556			1889752		529	Asia/Kolkata	2023-06-28
+8224050	Chamrajnagar	Chamrajnagar	CHJ,Chamarajanagar	11.96	77.09	A	ADM2	IN		19	578			1020791		686	Asia/Kolkata	2018-05-26
+8224051	Udupi	Udupi	UDU,Udupi	13.5	74.87	A	ADM2	IN		19	569			1177361		20	Asia/Kolkata	2018-05-26
+8224306	Ramanagara	Ramanagara	RAM,Ramanagar,Ramanagara,Ramanagara District	12.65	77.35	A	ADM2	IN		19	584			1082636		659	Asia/Kolkata	2023-07-01
+8224605	Yadgir	Yadgir	YDG,Yadgir,Yadgir district	16.73	76.94	A	ADM2	IN		19	580			1174271		403	Asia/Kolkata	2023-06-28
+8224619	Pratapgarh	Pratapgarh	PPG,Pratapgarh,Pratapgarh District	24.03	74.78	A	ADM2	IN		24	131			867848		496	Asia/Kolkata	2023-07-01
+8261085	Kolasib district	Kolasib district	KLS,Kolasib,Kolasib District	24.22215	92.67697	A	ADM2	IN		31	282			83955		646	Asia/Kolkata	2023-07-02
+8299687	Dakshin Dinajpur	Dakshin Dinajpur	DPD,Dakshin Dinajpur,Dakshin Dinajpur district,Dinajpur Dakshin,Distretto del Dinajpur Meridionale,District de Dakshin Dinajpur,Districte de South Dinajpur,Distrito de Dakshin Dinajpur,Juzhnyj Dinadzhpur,dakshyn dynajbwr,daksina dinajapura jela,daksina dinajapura jil'ha,daksina dinajapura jila,daksina dinajapura jilla,daksinadinajapura-mandalam,nan di nai pu xian,terkut tinanpur mavattam,Южный Динаджпур,داكشين ديناجبور,ضلع دکھن دیناج پور,दक्षिण दिनाजपुर जिला,दक्षिण दिनाजपुर जिल्ला,दक्षिण दिनाजपुर जिल्हा,दक्षिणदिनाजपुर-मण्डलम्,দক্ষিণ দিনাজপুর জেলা,ଦକ୍ଷିଣ ଦିନାଜପୁର ଜିଲ୍ଲା,தெற்குத் தினஞ்பூர் மாவட்டம்,దక్షిణ దినాజ్‌పూర్,ദക്ഷിൺ ദിനജ്പൂർ,南迪奈普县	25.22	88.76	A	ADM2	IN		28	331			1676276		25	Asia/Kolkata	2018-05-26
+8335032	Peren	Peren	PER,Peren,Peren District	25.51276	93.73716	A	ADM2	IN		20	271			95219		1422	Asia/Kolkata	2023-07-01
+8335041	South 24 Parganas	South 24 Parganas	24 PGS(S),Dakshin 24 Parganas,South 24 Paraganas,South 24 Parganas District,South Twenty Four Parganas	22.16197	88.4317	A	ADM2	IN		28	343			8161961		5	Asia/Kolkata	2023-06-30
+8335137	Paschim Medinipur	Paschim Medinipur	MPW,Medinipur West,Paschim Medinipur District,West Midnapore,West Midnapore district	22.40813	87.38107	A	ADM2	IN		28	344			5913457		26	Asia/Kolkata	2023-07-01
+8335139	Purba Medinipur	Purba Medinipur	East Midnapore,MPE,Medinipur East,Purba Medinipur	21.93732	87.77633	A	ADM2	IN		28	345			5095875		5	Asia/Kolkata	2018-05-26
+8335142	Uttar Dinajpur	Uttar Dinajpur	DPU,Dinajpur Uttar,Distretto del Dinajpur Settentrionale,District du Dinajpur septentrional,Districte de North Dinajpur,Distrito de Uttar Dinajpur,North Dinajpur,Severnyj Dinadzhpur,Uttar Dinajpur,Uttar Dinajpur District,Uttar Dinajpur destrict,awtar dynajbwr,bei di nai pu xian,uttara dinajapura jela,uttara dinajapura jil'ha,uttara dinajapura jila,uttara dinajapura jilla,uttara dinajapura jillo,uttara tinajpur mavattam,uttaradinajapura-mandalam,Северный Динаджпур,اوتار ديناجبور,ضلع اتلا دیناج پور,उत्तर दिनाजपुर जिला,उत्तर दिनाजपुर जिल्ला,उत्तर दिनाजपुर जिल्हा,उत्तरदिनाजपुर-मण्डलम्,উত্তর দিনাজপুর জেলা,ઉત્તર દિનાજપુર જિલ્લો,ଉତ୍ତର ଦିନାଜପୁର ଜିଲ୍ଲା,உத்தர தினஜ்பூர் மாவட்டம்,北迪奈普县	25.614	88.126	A	ADM2	IN		28	330			3007134		37	Asia/Kolkata	2023-06-30
+8335144	North 24 Parganas	North 24 Parganas	North 24 Parganas,North 24 Parganas District,North Twenty Four Parganas,S24	22.71	88.7108	A	ADM2	IN		28	337			10009781		11	Asia/Kolkata	2023-06-30
+8335421	Central Delhi	Central Delhi	CNT,Centraal-Delhi,Central,Central'ne Deli,Central'nyj Deli,Distretto di Delhi Centro,Distrito de Delhi central,madhya dhilli,madhya dilli,madhyadehalimandalam,wst dlhy,zhong de li,Центральне Делі,Центральный Дели,وسط دلهي,मध्य दिल्ली,मध्यदेहलीमण्डलम्,మధ్య ఢిల్లీ,中德里	28.64857	77.21895	A	ADM2	IN		07	095			582320		217	Asia/Kolkata	2018-05-26
+8335422	North Delhi	North Delhi	NRD,North,North Delhi District	28.77741	77.11185	A	ADM2	IN		07	091			887978		211	Asia/Kolkata	2023-09-24
+8335423	South Delhi	South Delhi	Distretto di Delhi Sud,Distrito Sul de Deli,Distrito de Delhi sur,Juzhnyj Deli,Pivdenne Deli,SDL,South,South Delhi,Sud de Delhi,Zuid-Delhi,daksina dhilli,daksina dilli,daksina dilli jela,daksinadehalimandalam,jnwb dlhy,Південне Делі,Южный Дели,جنوب دلهي,جنوبی دہلی,दक्षिण दिल्ली,दक्षिणदेहलीमण्डलम्,দক্ষিণ দিল্লি জেলা,దక్షిణ ఢిల్లీ	28.48728	77.197	A	ADM2	IN		07	098			2731929		256	Asia/Kolkata	2023-09-24
+8335424	East Delhi	East Delhi	EST,East,Trans Yamuna	28.62255	77.29148	A	ADM2	IN		07	093			1709346		199	Asia/Kolkata	2023-09-24
+8335425	North East Delhi	North East Delhi	Distretto di Delhi Nord Est,Distrito de Delhi noreste,NED,Noordoost-Delhi,North East,Pivnichno-Skhidne Deli,Severo-Vostochnyj Deli,isan'ya dhilli,shmal shrq dlhy,uttara purva dilli,uttarapurvadehalimandalam,vatakilakku tilli mavattam,Північно-Східне Делі,Северо-Восточный Дели,شمال شرق دلهي,شمال مشرقی دہلی,उत्तर पूर्व दिल्ली,उत्तरपूर्वदेहलीमण्डलम्,வடகிழக்கு தில்லி மாவட்டம்,ఈశాన్య ఢిల్లీ	28.71512	77.26506	A	ADM2	IN		07	092			2241624		202	Asia/Kolkata	2023-09-24
+8335426	South West Delhi	South West Delhi	Distretto di Delhi Sud Ovest,Distrito de Delhi sudoeste,Jugo-Zapadnyj Deli,Pivdenno-Zakhidne Deli,SWD,South West,Sud-Ouest de Delhi,Zuidwest-Delhi,daksina pascima dilli,daksina pascima dilli jela,daksinapascimadehalimandalam,jnwb ghrb dlhy,nairuti dhilli,Південно-Західне Делі,Юго-Западный Дели,جنوب غرب دلهي,جنوب مغربی دہلی,दक्षिण पश्चिम दिल्ली,दक्षिणपश्चिमदेहलीमण्डलम्,দক্ষিণ পশ্চিম দিল্লি জেলা,నైరుతి ఢిల్లీ	28.5806	77.0672	A	ADM2	IN		07	097			2292958		217	Asia/Kolkata	2018-05-26
+8335427	North West Delhi	North West Delhi	Deli Noroeste,Distretto di Delhi Nord Ovest,Distrito de Delhi noroeste,NWD,Noordwest-Delhi,North West,North West Delhi,Pivnichno-Zakhidne Deli,Severo-Zapadnyj Deli,shmal ghrb dlhy,uttara pascima dilli,uttara pascima dilli jela,uttarapascimadehalimandalam,vayavya dhilli,Північно-Західне Делі,Северо-Западный Дели,شمال غرب دلهي,شمال مغربی دہلی,उत्तर पश्चिम दिल्ली,उत्तरपश्चिमदेहलीमण्डलम्,উত্তর পশ্চিম দিল্লি জেলা,వాయవ్య ఢిల్లీ	28.70113	77.10154	A	ADM2	IN		07	090			3656539		222	Asia/Kolkata	2019-10-31
+8335458	West Delhi	West Delhi	Distretto di Delhi Ovest,Distrito de Delhi occidental,WSD,West,West-Delhi,Zakhidne Deli,Zapadnyj Deli,ghrb dlhy,pascima dhilli,pascima dilli,pascima dilli jela,pascimadehalimandalam,Западный Дели,Західне Делі,غرب دلهي,مغربی دہلی,पश्चिम दिल्ली,पश्चिमदेहलीमण्डलम्,পশ্চিম দিল্লি জেলা,పశ్చిమ ఢిల్లీ	28.65655	77.10068	A	ADM2	IN		07	096			2543243		217	Asia/Kolkata	2018-05-26
+8347332	New Delhi	New Delhi	NDL,New Delhi,dlhy aljdydt,دلهي الجديدة	28.6177	77.20685	A	ADM2	IN		07	094			142004		213	Asia/Kolkata	2023-09-24
+8347665	Kāsaragod District	Kasaragod District	KSR,Kasaragod,Kasargod District,kasar‍kead,കാസര്‍കോഡ്	12.49246	74.99062	A	ADM2	IN		13	588			1307375	28	22	Asia/Kolkata	2023-07-02
+8402825	Panchkula	Panchkula	Distretto di Panchkula,District de Panchkula,Distrito de Panchkula,PNK,Panchkula,Panchkula District,Panchkula district,Panchkulan piirikunta,pacakula zila,pan qie ku la xian,pancakula jil'ha,pancakula jila,pancakula jilla,pancakula jillo,Панчкула,ضلع پنچکولا,पंचकुला जिला,पंचकुला जिल्ला,पंचकुला जिल्हा,ਪੰਚਕੁਲਾ ਜ਼ਿਲਾ,પંચકુલા જિલ્લો,పంచ్‌కుల,潘切庫拉縣	30.72883	76.94716	A	ADM2	IN		10	069			561293		542	Asia/Kolkata	2018-05-26
+8407027	Mansa	Mansa	MNS,Mansa,Mansa District,manasa,ਮਾਨਸਾ	29.94	75.43	A	ADM2	IN		23	047			769751		219	Asia/Kolkata	2018-05-28
+8407028	Moga	Moga	Distretto di Moga,District Moga,District de Moga,Distrito de Moga,MOG,Moga,Moga District,Moga district,Mogan piirikunta,mntqt mwja,mo jia xian,moga jil'ha,moga jila,moga jilla,moga jillo,moga zil'ha,mogamandalam,moka mavattam,Мога,ضلع موگا,منطقة موجا,मोगा जिला,मोगा जिल्ला,मोगा जिल्हा,मोगामण्डलम्,ਮੋਗਾ ਜ਼ਿਲ੍ਹਾ,મોગા જિલ્લો,ମୋଗା ଜିଲ୍ଲା,மோகா மாவட்டம்,莫加縣	30.80376	75.14938	A	ADM2	IN		23	042			995746		218	Asia/Kolkata	2018-05-26
+8407165	Barnala	Barnala	BNL,Barnala	30.38	75.5	A	ADM2	IN		23	054			595527		226	Asia/Kolkata	2018-05-26
+8407166	Fazilka	Fazilka	FAZ,Fazilka	30.37585	74.11693	A	ADM2	IN		23	651			1043280		180	Asia/Kolkata	2023-12-22
+8407426	Ajitgarh	Ajitgarh	Ajitgarh,Ajitgarh District,Mohali,Mohali District,S.A.S Nagar,SAS Nagar district,SSR,Sahibzada Ajit Singh Nagar,Sahibzada Ajit Singh Nagar District	30.65	76.7	A	ADM2	IN		23	052			994628		297	Asia/Kolkata	2018-05-26
+8407479	Shahid Bhagat Singh Nagar	Shahid Bhagat Singh Nagar	District Shahid Bhagat Singh Nagar,NWN,Nawanshahr,Nawanshahr District,Nawasahr,Shahid Bhagat Singh Nagar,Shahid Bhagat Singh Nagar ,Shahid Bhagat Singh Nagar District	31.13183	76.13328	A	ADM2	IN		23	039			612310		257	Asia/Kolkata	2018-05-26
+8408318	Pathankot	Pathankot	PTK,Pathankot,Pathankot District	32.33	75.64	A	ADM2	IN		23	662			676598		357	Asia/Kolkata	2023-12-22
+8408319	Tarn Taran	Tarn Taran	TAR,Tarn Taran,Tarn Taran District	31.32692	74.81643	A	ADM2	IN		23	050			1119627		218	Asia/Kolkata	2018-05-26
+8533697	Nuapada	Nuapada	NPD,Nuapada	20.6	82.5	A	ADM2	IN		21	394			610382		709	Asia/Kolkata	2018-05-26
+8533699	Gajapati	Gajapati	GJP,Gajapati,Gajapati District	18.91	84.2	A	ADM2	IN		21	389			577817		157	Asia/Kolkata	2023-06-30
+8739870	Rudraprayag	Rudraprayag	RPY,Rudra Prayag,Rudraprayag	30.60872	79.06517	A	ADM2	IN		39	058			242285		2181	Asia/Kolkata	2018-05-26
+8739995	Neemuch	Neemuch	NMC,Neemuch,Neemuch District	24.47	74.87	A	ADM2	IN		35	432			826067		486	Asia/Kolkata	2023-07-02
+8739996	Khargone	Khargone	KHA,Khargone,Khargone (West Nimar),Khargone district,West Nimar,West Nimar district,kharagauna,खरगौन	21.82306	75.61028	A	ADM2	IN		35	440			1873046		257	Asia/Kolkata	2019-01-23
+8739997	Sonitpur	Sonitpur	SON,Sonitpur	26.76748	92.96425	A	ADM2	IN		03	306			1924110		73	Asia/Kolkata	2018-05-26
+8740057	Haridwar	Haridwar	HRD,Hardwar,Haridwar	29.96967	78.07459	A	ADM2	IN		39	068			1890422		315	Asia/Kolkata	2023-06-30
+8740088	Barwani	Barwani	BRW,Barwani,Barwani ,Barwani District,baravani,बड़वानी	22.02485	74.91805	A	ADM2	IN		35	441			1385881		192	Asia/Kolkata	2023-06-29
+8740089	Burhanpur	Burhanpur	BRH,Barhanpur,Buranpur,Burhanpur,Burkhanpur,barhanapura,brhan bwr,brhanpwr,bu er han pu er,bur'hanpura,burahanapura,burahanapuram,burhahanapura,buruhanpuru,pur'hanpur,Буранпур,Бурханпур,برهان بور,برهانپور,برہانپور,बऱ्हाणपूर,बुढ़हानपुर,बुरहानपुर,बुरहानपुरम्,बुर्हन्पुर,বুরহানপুর,બુરહાનપુર,புர்ஹான்பூர்,ブルハーンプル,布尔汉普尔	21.31	76.23	A	ADM2	IN		35	467			757847		253	Asia/Kolkata	2018-05-26
+8740091	Baragarh	Baragarh	BRG,Bargarh	21.33333	83.61667	A	ADM2	IN		21	370			1481255		180	Asia/Kolkata	2018-05-26
+8740099	Harda	Harda	HDA,Harda,Harda	22.23406	76.96431	A	ADM2	IN		35	448			570465		289	Asia/Kolkata	2018-05-26
+8740316	Serchhip	Serchhip	Distretto di Serchhip,District de Serchhip,Distrito de Serchhip,SER,Serchhip,Serchhip district,Serchkhip,mntqt syrshyb,sai qi pu xian,serachipa jila,serachipa jilla,serachipa jillo,serachipa zila,serasipamandalam,serchip,Серчхип,ضلع سرچپ,منطقة سيرشيب,सेरछिप जिला,सेरछिप जिल्ला,सेरसिपमण्डलम्,ਸੇਰਛਿਪ ਜ਼ਿਲਾ,સેરછિપ જિલ્લો,సెర్ఛిప్,塞奇普縣	23.28172	92.90039	A	ADM2	IN		31	285			64937		525	Asia/Kolkata	2018-05-26
+8740329	Bishnupur	Bishnupur	BSH,Bishnupur,Bishnupur District	24.60769	93.77998	A	ADM2	IN		17	275			237399		775	Asia/Kolkata	2023-06-30
+8740332	Tamenglong	Tamenglong	TMN,Tamenglong,Tamenglong	24.97548	93.51563	A	ADM2	IN		17	273			140651		1389	Asia/Kolkata	2018-05-26
+8740334	Senapati	Senapati	SNT,Senapati	25.26705	94.02237	A	ADM2	IN		17	272			479148		1046	Asia/Kolkata	2018-05-26
+8740335	Thoubal	Thoubal	THB,Thoubal,Thoubal District	24.62205	94.01001	A	ADM2	IN		17	276			422168		778	Asia/Kolkata	2023-06-30
+8740338	Ukhrul	Ukhrul	UKH,Ukhrul,Ukhrul District	25.04828	94.35883	A	ADM2	IN		17	279			183998		1472	Asia/Kolkata	2018-05-26
+8740785	Ashoknagar	Ashoknagar	ANR,Ashok Nagar,Ashoknagar,Ashoknagar District,asokanagara jila,अशोकनगर जिला	24.58	77.73	A	ADM2	IN		35	459			845071		500	Asia/Kolkata	2023-07-02
+8740806	Katni	Katni	KTN,Katni,Katni	23.83555	80.39417	A	ADM2	IN		35	450			1292042		386	Asia/Kolkata	2018-05-26
+8740934	Kaimur District	Kaimur District	KMR,Kaimur (Bhabua),kaimura ( bhabhu'a ),कैमूर ( भभुआ )	25.05077	83.58261	A	ADM2	IN		34	233			1626384		84	Asia/Kolkata	2018-05-26
+8805932	Morigaon	Morigaon	MGN,Marigaon,Morigaon	26.25213	92.34238	A	ADM2	IN		03	304			957423		62	Asia/Kolkata	2018-05-26
+8805933	Chirang	Chirang	CRG,Chirang	26.52527	90.49066	A	ADM2	IN		03	320			482162		63	Asia/Kolkata	2018-05-26
+8805934	Udalguri	Udalguri	UDA,Udalguri,odalagurai jila,ওদালগুৰি জিলা	26.73359	92.0921	A	ADM2	IN		03	326			831668		107	Asia/Kolkata	2018-05-26
+8849144	Nagaon	Nagaon	Distretto di Nagaon,District de Nagaon,Districte de Nowgong,Distrito de Nagaon,NGN,Nagaon,Nagaon District,Nagaon district,Nagaonin piirikunta,nagamo,nagamo jela,nagamo jila,nagamo jilla,naganva jil'ha,nagav,nagavamandalam,najwan,nakamo mavattam,Нагаон,ضلع ناگون,ناجوان,नगाँओ जिल्ला,नगावमण्डलम्,नागांव जिल्हा,নগাঁও,নগাঁও জিলা,নগাঁও জেলা,நகாமோ மாவட்டம்,నాగావ్,നഗാവോൻ	26.35037	92.69225	A	ADM2	IN		03	305			2823768		70	Asia/Kolkata	2018-05-26
+8858071	Jamui	Jamui	JAM,Jamui,jamu'i,जमुई	24.92082	86.17538	A	ADM2	IN		34	238			1760405		79	Asia/Kolkata	2018-05-26
+8858072	Banka	Banka	BNK,Banka,banka,बांका	24.89214	86.98425	A	ADM2	IN		34	225			2034763		80	Asia/Kolkata	2018-05-26
+8908677	Nabarangpur	Nabarangpur	NBR,Nabarangapur ,Nabarangapur District,Nabarangpur,Nabarangpur District,Nawarangpur District	19.2333	82.55	A	ADM2	IN		21	397			1220946		575	Asia/Kolkata	2023-06-28
+8985782	Baksa	Baksa	BAK,Baksa	26.69804	91.15142	A	ADM2	IN		03	324			950075		54	Asia/Kolkata	2018-05-26
+8986057	Angul District	Angul District	ANU,Angul,Anugul,Anugul	20.84903	85.06079	A	ADM2	IN		21	384			1273821		132	Asia/Kolkata	2019-01-23
+8986228	West Garo Hills	West Garo Hills	WGH,West Garo Hills,West Garo Hills District	25.56794	90.22447	A	ADM2	IN		18	293			643291		418	Asia/Kolkata	2018-05-26
+8986741	Nayagarh District	Nayagarh District	NYG,Nayagarh,Nayagarh  ,Nayagarh District	20.13	85.1	A	ADM2	IN		21	385			962789		156	Asia/Kolkata	2023-07-01
+8996923	Baudh	Baudh	BDH,Bauda District,Baudh,Boudh,Boudh District	20.833	84.333	A	ADM2	IN		21	391			441162		81	Asia/Kolkata	2023-06-30
+9035761	Deogarh	Deogarh	DGH,Deoghar,devaghara,देवघर	24.44382	86.72607	A	ADM2	IN		38	350			1492073		241	Asia/Kolkata	2018-05-26
+9072745	Kaushambi District	Kaushambi District	KSB,Kaushambi,Kaushambi District	25.53074	81.37729	A	ADM2	IN		36	174			1599596		109	Asia/Kolkata	2023-07-03
+9072769	Umaria District	Umaria District	UMA,Umaria,Umaria District,umariya,उमरिया	23.52874	80.83054	A	ADM2	IN		35	431			644758		463	Asia/Kolkata	2023-07-03
+9072780	Porbandar	Porbandar	PRB,Porbandar,Porbandar	21.65332	69.77807	A	ADM2	IN		09	478			585449		12	Asia/Kolkata	2018-05-26
+9072781	Baghpat	Baghpat	BGP,Baghpat,Baghpat District,Bagpat	28.95	77.2167	A	ADM2	IN		36	139			1303048		222	Asia/Kolkata	2023-07-03
+9072783	Amroha	Amroha	AMR,Amroha,Amroha district,Distretto di Jyotiba Phule Nagar,District dAmroha,Distrito de Jyotiba Rao Phule Nagar,Dzh'otibapkhulenagar,Jyotiba Phule Nagar,a mu luo ha xian,amaroha jil'ha,amaroha jila,amaroha jilla,amaroha jillo,amroha jille,amrohamandalam,amroka mavattam,anroha,jyotiba phule nagara jilla,ywtyba fwla njar,Джьотибапхуленагар,امروہہ ضلع,ضلع جیوتیبا پھولے نگر,يوتيبا فولا نجار,अमरोहा जिला,अमरोहा जिल्ला,अमरोहा जिल्हा,अम्रोहामण्डलम्,ज्योतिबा फुले नगर जिल्ला,અમરોહા જિલ્લો,ଅମରୋହା ଜିଲ୍ଲା,அம்ரோகா மாவட்டம்,అంరోహ,ಅಮ್ರೋಹ ಜಿಲ್ಲೆ,阿姆羅哈縣	28.7716	78.33871	A	ADM2	IN		36	137			1840221		211	Asia/Kolkata	2023-09-22
+9072784	Gautam Buddha Nagar	Gautam Buddha Nagar	GBN,Gautam Buddha Nagar	28.35898	77.55076	A	ADM2	IN		36	141			1648115		196	Asia/Kolkata	2018-05-26
+9072787	Mahoba	Mahoba	MHB,Mahoba,Mahoba Quarter,Makhoba,ma huo ba,mahoba,Махоба,ماہوبا,مہوبا,महोबा,মাহোবা,મહોબા,マホーバー,马霍巴	25.2921	79.87242	A	ADM2	IN		36	169			875958		208	Asia/Kolkata	2023-07-03
+9072788	Chitrakoot	Chitrakoot	CHK,Chitrakoot	25.20511	81.08962	A	ADM2	IN		36	171			991730		134	Asia/Kolkata	2023-12-17
+9072811	Chandauli District	Chandauli District	CHN,Chandauli	25.26134	83.26408	A	ADM2	IN		36	196			1952756		79	Asia/Kolkata	2018-05-26
+9072813	Tapi	Tapi	TAP,Tapi	21.12	73.4	A	ADM2	IN		09	493			807022		97	Asia/Kolkata	2018-05-26
+9072825	Navsari	Navsari	NVS,Navsari,Navsari	20.95	72.92	A	ADM2	IN		09	490			1329672		10	Asia/Kolkata	2020-04-04
+9072830	Dehradun	Dehradun	DHR,Degradun,Deharaduna,Dehradun,Dehradunas,Dehradún,Dehradūnas,Dekhradun,Deradun,Déhrádún,d'eharaduna,d'ehradun,deharaduna,deheradoun,dehraduni,deladun,deraaduna,deraduna,dhradwn,tai la deng,teratun,Деградун,Дерадун,Дехрадун,دهرادون,ڈیرہ دون,डेहराडून,देहरादुन,देहरादून,ডেরাদুন,দেরাদুন,দেৰাডুন,ਦੇਹਰਾਦੂਨ,દેહરાદૂન,ଡେରାଡୁନ,தேராதூன்,డెహ్రాడూన్,ದೆಹರಾದೂನ್‌,ഡെറാഡൂൺ,დეჰრადუნი,デヘラードゥーン,台拉登,데라둔	30.33	78.06	A	ADM2	IN		39	060			1696694		695	Asia/Kolkata	2026-01-21
+9148988	Faridabad District	Faridabad District	FRB,Faridabad	28.46292	77.3716	A	ADM2	IN		10	088			1809733		202	Asia/Kolkata	2018-05-26
+9157653	Rewari District	Rewari District	RWR,Rewari	28.19613	76.61607	A	ADM2	IN		10	085			900332		252	Asia/Kolkata	2018-05-26
+9159091	Fatehabad District	Fatehabad District	FTB,Fatehabad	29.31	75.27	A	ADM2	IN		10	078			942011		202	Asia/Kolkata	2018-05-26
+9165869	Narmada	Narmada	NRM,Narmada	21.87377	73.49527	A	ADM2	IN		09	487			590297		21	Asia/Kolkata	2018-07-11
+9166019	Champhai	Champhai	CPH,Champhai,Champhai district,Champkhaj,Distretto di Champhai,District de Champhai,Distrito de Champhai,campai,campay mavattam,campayamandalam,campha'i jil'ha,campha'i jila,campha'i jilla,campha'i jillo,capha'i zila,chang pai xian,mntqt shamfy,Чампхай,ضلع چمفاي,منطقة شامفي,चंफाई जिल्हा,चम्पायमण्डलम्,चम्फाई जिला,चम्फाई जिल्ला,ਚੰਫਾਈ ਜ਼ਿਲਾ,ચમ્ફાઇ જિલ્લો,சாம்பாய் மாவட்டம்,చంపై,昌派縣	23.47444	93.32556	A	ADM2	IN		31	284			125745		1382	Asia/Kolkata	2018-05-26
+9166020	Churachandpur	Churachandpur	CHC,Churachandpur	24.33333	93.68333	A	ADM2	IN		17	274			274143		867	Asia/Kolkata	2018-05-26
+9166022	Lawngtlai	Lawngtlai	LWN,Lawngtlai	22.53	92.9	A	ADM2	IN		31	287			117894		754	Asia/Kolkata	2018-05-26
+9255562	North Goa	North Goa	NGO,North Goa	15.62849	73.8903	A	ADM2	IN		33	585			818008		107	Asia/Kolkata	2023-09-24
+9255567	South Goa	South Goa	SGO,South Goa	15.20425	74.16733	A	ADM2	IN		33	586			640537		40	Asia/Kolkata	2018-05-26
+9645384	Jajpur	Jajpur	JJP,Jajapur,Jajapur  ,Jajpur District	20.84149	86.31237	A	ADM2	IN		21	382			1827192		12	Asia/Kolkata	2023-06-30
+9747929	Alirajpur	Alirajpur	ALI,Alirajpur	22.31384	74.36452	A	ADM2	IN		35	465			0		278	Asia/Kolkata	2018-05-26
+9747931	Doda	Doda	DOD,Doda,Doda District	33.10081	75.6497	A	ADM2	IN		12	016			0		1807	Asia/Kolkata	2023-07-02
+9747933	Anuppur	Anuppur	ANP,Anuppur	23.05674	81.68399	A	ADM2	IN		35	461			0		528	Asia/Kolkata	2018-05-26
+9747936	Bandipore	Bandipore	BDP,Bandipora,Bandipora District,Bandipore,Bandipur	34.50404	74.82832	A	ADM2	IN		12	009			0		3284	Asia/Kolkata	2023-07-02
+9747938	Badgam	Badgam	BDG,Badgam,Budgam,badjam,bdgham,bڈgam,dlʿ bڈgam,بادجام,بدغام,بڈگام,ضلع بڈگام	33.89001	74.66297	A	ADM2	IN		12	002			0		2172	Asia/Kolkata	2019-03-16
+9747940	Kishtwar	Kishtwar	KHT,Kishtwar,Kishtwar district	33.52958	76.01462	A	ADM2	IN		12	018			0		4183	Asia/Kolkata	2023-06-29
+9747942	Bijapur	Bijapur	BIJ,Bijapur,Bijapur district,Bijapur(CGH),Birjapur,bijapura,bijapura jila,बीजापुर,बीजापुर जिला	18.84322	80.7761	A	ADM2	IN		37	417			0		317	Asia/Kolkata	2023-06-29
+9747944	Chandrapur	Chandrapur	CPR,Chandrapur,candrapura,चंद्रपूर	20.11793	79.44377	A	ADM2	IN		16	509			0		217	Asia/Kolkata	2018-05-26
+9747946	Changlang	Changlang	CHG,Changlang	27.36265	96.34518	A	ADM2	IN		30	253			0		933	Asia/Kolkata	2018-05-26
+9747948	Chatra	Chatra	CHT,Chatra,catara,चतरा	24.17354	84.8871	A	ADM2	IN		38	347			0		443	Asia/Kolkata	2018-05-26
+9747950	Anjaw	Anjaw	ANJ,Anjaw,Anjaw District	28.06549	96.82878	A	ADM2	IN		30	260			0		2701	Asia/Kolkata	2023-06-30
+9747953	Dakshin Bastar Dantewada	Dakshin Bastar Dantewada	DNT,Dakshin Bastar Dantewada,Dantewada,dantevara,दंतेवाड़ा	18.49996	81.37964	A	ADM2	IN		37	416			0		544	Asia/Kolkata	2018-05-26
+9747955	Chandel	Chandel	CHA,Chandel,Chandel District	24.23549	94.09318	A	ADM2	IN		17	280			0		893	Asia/Kolkata	2023-06-30
+9747956	Chandigarh	Chandigarh	CHD,Chandigarh,Chandigarh District	30.73006	76.78147	A	ADM2	IN		05	055			1055450		343	Asia/Kolkata	2023-07-02
+9747958	Kodarma	Kodarma	KDR,Kodarma District,Koderma,kodarama,कोडरमा	24.43704	85.5956	A	ADM2	IN		38	348			0		381	Asia/Kolkata	2023-07-02
+9747961	Dadra & Nagar Haveli	Dadra & Nagar Haveli	DNH,Dadra & Nagar Haveli,Dadra and Nagar Haveli	20.20651	73.00811	A	ADM2	IN		52	496			0		44	Asia/Kolkata	2020-05-16
+9747963	Kulgam	Kulgam	KLG,Kulgam,klgam,klgham,kwlgam,kwlgham,kwljam,كلغام,كولجام,كولغام,کلگام,کولگام	33.58819	74.86057	A	ADM2	IN		12	015			0		2625	Asia/Kolkata	2019-03-16
+9747965	Samba	Samba	SAM,Samba,Samba District	32.57523	75.10929	A	ADM2	IN		12	022			0		345	Asia/Kolkata	2023-07-02
+9747967	Sangli	Sangli	SNG,Sangli,sangali,सांगली	17.11202	74.7699	A	ADM2	IN		16	531			0		703	Asia/Kolkata	2023-12-17
+9747968	Debagarh	Debagarh	DGR,Debagarh,Deogarh	21.46594	84.80371	A	ADM2	IN		21	373			0		141	Asia/Kolkata	2018-05-26
+9747971	Dhalai	Dhalai	DHL,Dhalai,dhala'i,ধলাই	23.84307	91.92591	A	ADM2	IN		26	291			0		143	Asia/Kolkata	2018-05-28
+9747972	Dimapur	Dimapur	DMP,Dimapur,Dimapur	25.90166	93.7175	A	ADM2	IN		20	265			0		139	Asia/Kolkata	2023-12-20
+9747974	Hathras	Hathras	HTR,Hathras,Hathras district,Mahamaya Nagar,Mahamaya Nagar district	27.57759	78.16158	A	ADM2	IN		36	144			0		176	Asia/Kolkata	2018-05-26
+9747976	Imphal East	Imphal East	IME,Imphal East	24.81655	93.94212	A	ADM2	IN		17	278			0		781	Asia/Kolkata	2018-05-26
+9747977	Imphal West	Imphal West	IMW,Imphal West,Imphal West District	24.79048	93.8679	A	ADM2	IN		17	277			0		782	Asia/Kolkata	2023-09-24
+9747979	Longleng	Longleng	LLG,Longleng	26.5554	94.80031	A	ADM2	IN		20	268			0		984	Asia/Kolkata	2018-05-26
+9747981	Jhajjar	Jhajjar	JHJ,Jhajjar	28.60475	76.64941	A	ADM2	IN		10	083			0		215	Asia/Kolkata	2018-05-26
+9747983	Kaithal	Kaithal	KTL,Kaithal	29.81402	76.41823	A	ADM2	IN		10	073			0		237	Asia/Kolkata	2018-05-26
+9747984	Kamrup Metropolitan	Kamrup Metropolitan	KMT,Kamrup Metro,Kamrup Metropolitan District,kamaraupa jila,কামৰূপ জিলা	26.05375	92.00763	A	ADM2	IN		03	322			1260419		240	Asia/Kolkata	2023-07-02
+9747986	Palwal	Palwal	PWL,Palwal,Palwal District,palavala jila,पलवल जिला	28.0475	77.31835	A	ADM2	IN		10	089			0		193	Asia/Kolkata	2023-07-02
+9747988	Pulwama	Pulwama	PLW,Pulwama,blwama,bwlwama,plwama,plwamہ,pwlwama,بلواما,بولواما,پلواما,پلوامہ,پولواما	33.93295	75.03728	A	ADM2	IN		12	012			0		1920	Asia/Kolkata	2019-03-16
+9747990	Punch	Punch	PNC,Poonch,Poonch District,Punch,bwnsh,bwntsh,dlʿ pwnchھ‎,mqatʿt bwnsh,puncha,pwnchھ,بونتش,بونش,ضلع پونچھ‎,مقاطعة بونش,پونچھ,पुंछ	33.70178	74.19916	A	ADM2	IN		12	005			0		2007	Asia/Kolkata	2023-07-03
+9747992	Kasganj	Kasganj	KAS,Kanshiram Nagar,Kasganj,Kasganj District	27.77722	78.84537	A	ADM2	IN		36	202			0		170	Asia/Kolkata	2023-07-03
+9747994	Ramban	Ramban	RMB,Ramban,Ramban District	33.32301	75.1861	A	ADM2	IN		12	017			0		1343	Asia/Kolkata	2023-07-02
+9747996	Reasi	Reasi	REA,Reasi	33.20741	74.8223	A	ADM2	IN		12	020			0		519	Asia/Kolkata	2022-11-14
+9747998	Mumbai	Mumbai	MMB,Mumbai,Mumbai District,bambaے,bmbyy,mmbay,mmbyy,mumba'i,mwmbay,بمبئی,بَمبَے,ممبئي,ممبئی,ممبای,مومباى,مومباي,مومبای,मुंबई	18.95963	72.84962	A	ADM2	IN		16	519			0		-9999	Asia/Kolkata	2023-07-02
+9747999	Panipat	Panipat	PNP,Panipat,Panipat District	29.33259	76.92634	A	ADM2	IN		10	075			0		235	Asia/Kolkata	2023-07-02
+9748001	Kargil	Kargil	KRG,Kargil,Kargil district	33.9666	76.48445	A	ADM2	IN		41	004			0		4779	Asia/Kolkata	2023-06-28
+9748003	Khunti	Khunti	KNT,Khunti,Khunti District,khunti,खूंटी	22.99771	85.27455	A	ADM2	IN		38	365			0		587	Asia/Kolkata	2023-07-02
+9748005	Kiphire	Kiphire	KIP,Kiphire,Kiphire District	25.84486	94.82514	A	ADM2	IN		20	269			0		653	Asia/Kolkata	2023-07-02
+9748007	Kurung Kumey	Kurung Kumey	KKY,Kurung Kumey,Kurung Kumey District	27.99983	93.3924	A	ADM2	IN		30	256			0		2348	Asia/Kolkata	2023-06-30
+9748009	Shupiyan	Shupiyan	SPN,Shopian,Shopian District,Shopian Hil,Shupiyan,shwbyan,shwpyaں,شوبيان,شوپیاں	33.73067	74.81869	A	ADM2	IN		12	013			0		2020	Asia/Kolkata	2023-07-03
+9748010	Singrauli	Singrauli	SGL,Singrauli	24.21667	82.42073	A	ADM2	IN		35	463			0		372	Asia/Kolkata	2018-05-26
+9748012	Lower Dibang Valley	Lower Dibang Valley	LDV,Lower Dibang Valley,Lower Dibang Valley District	28.37258	95.8804	A	ADM2	IN		30	258			0		2027	Asia/Kolkata	2023-06-30
+9748013	Sonbhadra	Sonbhadra	SBD,Sonbhadra	24.40212	83.05352	A	ADM2	IN		36	200			0		251	Asia/Kolkata	2018-05-26
+9748015	South Garo Hills	South Garo Hills	SGH,South Garo Hills	25.30162	90.5853	A	ADM2	IN		18	295			0		163	Asia/Kolkata	2018-05-26
+9748016	Nuh	Nuh	Mewat,Mewat District,NUH,Nuh,mevata zila,मेवात ज़िला	27.98166	77.04656	A	ADM2	IN		10	087			0		190	Asia/Kolkata	2023-09-22
+9748018	North  & Middle Andaman	North  & Middle Andaman	NMA,North  & Middle Andaman,North and Middle Andaman	12.8379	92.86752	A	ADM2	IN		01	639			0		48	Asia/Kolkata	2018-05-26
+9748019	Lakshadweep	Lakshadweep	LKS,Lakshadweep,Lakshadweep District	10.5651	72.64564	A	ADM2	IN		14	587			0		-9999	Asia/Kolkata	2023-09-24
+9748021	Tiruppur	Tiruppur	TRR,Tiruppur,Tiruppur district	10.83813	77.40542	A	ADM2	IN		25	633			0		311	Asia/Kolkata	2023-06-29
+9748023	Narayanpur	Narayanpur	NRY,Narayanpur,narayanapura,नारायणपुर	19.60426	81.08119	A	ADM2	IN		37	415			0		610	Asia/Kolkata	2018-05-26
+9748025	Papum Pare	Papum Pare	PPM,Papum Pare,Papum Pare District	27.28879	93.59694	A	ADM2	IN		30	248			0		1903	Asia/Kolkata	2023-07-03
+9748026	Ramgarh	Ramgarh	RMG,Ramgarh,Ramgarh District,ramagarha,रामगढ़	23.63073	85.56057	A	ADM2	IN		38	361			0		327	Asia/Kolkata	2023-07-02
+9748029	Saiha	Saiha	SAI,Saiha,Saiha District	22.3767	93.01217	A	ADM2	IN		31	288			0		762	Asia/Kolkata	2023-07-02
+9748030	Sant Kabir Nagar	Sant Kabir Nagar	Distretto di Sant Kabir Nagar,District de Sant Kabir Nagar,Distrito de Sant Kabir Nagar,SKN,Sant Kabeer Nagar,Sant Kabir Nagar,Sant Kabir Nagar district,Santkabirnagar,sant kabir nagar,sant kbyr njr,santa kabira nagara jil'ha,santa kabira nagara jila,santa kabira nagara jilla,santa kabira nagara jillo,santakabiranagaramandalam,santha kabira nagara jilla,sheng ka bi er na jia er xian,Санткабирнагар,سانت كبير نجر,سنت کبیر نگر ضلع,ضلع سانت کابیر نگر,संत कबीर नगर जिला,संत कबीर नगर जिल्ला,संत कबीर नगर जिल्हा,सन्तकबीरनगरमण्डलम्,સંત કબીર નગર જિલ્લો,ସନ୍ଥ କବୀର ନଗର ଜିଲ୍ଲା,సంత్ కబీర్ నగర్,聖卡比爾那加爾縣	26.79016	83.03481	A	ADM2	IN		36	186			0		81	Asia/Kolkata	2018-05-26
+9748032	Subarnapur	Subarnapur	SNE,Sonapur District,Sonepur,Sonepur District,Subarnapur,Subarnapur District	20.93154	83.82486	A	ADM2	IN		21	392			0		111	Asia/Kolkata	2023-06-30
+9748034	Tawang	Tawang	TWN,Tawang,tavan,தவாங்	27.66186	91.95358	A	ADM2	IN		30	245			0		4112	Asia/Kolkata	2025-02-25
+9748035	Upper Siang	Upper Siang	USG,Upper Siang,Upper Siang District	28.83355	94.91806	A	ADM2	IN		30	252			0		1196	Asia/Kolkata	2023-06-30
+9748037	Yamunanagar	Yamunanagar	YMN,Yamunanagar,Yamunanagar District,yamunanagara jila,यमुनानगर जिला	30.23644	77.30498	A	ADM2	IN		10	071			0		292	Asia/Kolkata	2023-07-02
+9748038	Arwal	Arwal	ARW,Arwal,aravala,अरवल	25.16158	84.6904	A	ADM2	IN		34	240			0		77	Asia/Kolkata	2018-05-26
+9748040	Ganderbal	Ganderbal	GDR,Ganderbal,Ganderbal District	34.29467	75.19996	A	ADM2	IN		12	011			0		2421	Asia/Kolkata	2023-07-02
+9748042	Kupwara	Kupwara	KPW,Kupwara,Kupwara District	34.53193	74.26605	A	ADM2	IN		12	001			0		1630	Asia/Kolkata	2023-07-02
+11875508	Biswanath	Biswanath	Biswanath,Biswanath District	26.72464	93.14531	A	ADM2	IN		03	705			0		83	Asia/Kolkata	2023-06-30
+11875509	Namsai	Namsai	Namsai,Namsai District	27.66731	95.86178	A	ADM2	IN		30	678			0		151	Asia/Kolkata	2023-07-02
+11875510	Kra Daadi	Kra Daadi	Kra Daadi,Kra Daadi District	27.69489	93.63373	A	ADM2	IN		30	677			0		944	Asia/Kolkata	2023-07-02
+11875511	Siang	Siang	Siang,Siang District	28.21205	94.9924	A	ADM2	IN		30	679			0		434	Asia/Kolkata	2023-07-02
+11875512	Charaideo	Charaideo	Charaideo,Charaideo District	27.05602	95.03249	A	ADM2	IN		03	708			0		96	Asia/Kolkata	2023-12-21
+11875513	Hojai	Hojai	Hojai,Hojai District	26.00129	92.86092	A	ADM2	IN		03	709			0		78	Asia/Kolkata	2023-07-01
+11875514	West Karbi Anglong	West Karbi Anglong	West Karbi Anglong,West Karbi Anglong District	25.88993	92.83876	A	ADM2	IN		03	710			0		77	Asia/Kolkata	2023-07-02
+11875515	South Salmara Mancachar	South Salmara Mancachar	South Salmara Mancachar,South Salmara Mancachar District	25.70893	89.88867	A	ADM2	IN		03	707			0		27	Asia/Kolkata	2023-07-02
+11875516	Surajpur	Surajpur	SRJ,Surajpur,Surajpur District,surajapura,सूरजपुर	23.21388	82.86581	A	ADM2	IN		37	648			0		555	Asia/Kolkata	2023-07-02
+11875517	Balrampur	Balrampur	BLM,Balrampur,Balrampur district,balaramapura,बलरामपुर	23.60773	83.61414	A	ADM2	IN		37	649			0		534	Asia/Kolkata	2023-06-29
+11875518	Baloda Bazar	Baloda Bazar	BLB,Baloda Bazar,Baloda Bazar District,baloda bazara,बलोदा बाज़ार	21.65901	82.16384	A	ADM2	IN		37	644			0		256	Asia/Kolkata	2023-07-02
+11875519	Balod	Balod	BLD,Balod,Balod District,baloda,बालोद	20.7303	81.20216	A	ADM2	IN		37	646			0		330	Asia/Kolkata	2023-07-02
+11875520	Kondagaon	Kondagaon	KON,Kondagaon,Kondagaon District,kondaganva,कोंडागांव	19.59515	81.66747	A	ADM2	IN		37	643			0		598	Asia/Kolkata	2023-07-02
+11875521	Bemetara	Bemetara	BEM,Bemetara,bemetara,बेमेतरा	21.70523	81.52985	A	ADM2	IN		37	650			0		289	Asia/Kolkata	2018-05-26
+11875522	Gariyaband	Gariyaband	GRY,Gariaband district,Gariyaband,gariyabanda,गरियाबंद	20.63432	82.05879	A	ADM2	IN		37	645			0		343	Asia/Kolkata	2023-06-29
+11875523	Mungeli	Mungeli	MUN,Mungeli,mungeli,मुंगेली	22.06795	81.68182	A	ADM2	IN		37	647			0		290	Asia/Kolkata	2018-05-26
+11875524	Sukma	Sukma	SKM,Sukma,Sukma district,sukama,सुकमा	18.40043	81.66011	A	ADM2	IN		37	642			0		204	Asia/Kolkata	2023-06-29
+11875525	South East	South East	South East,South East Delhi District	28.5503	77.27095	A	ADM2	IN		07	670			0		211	Asia/Kolkata	2023-09-24
+11875526	Shahdara	Shahdara	Shahdara,Shahdara District	28.67715	77.28854	A	ADM2	IN		07	671			0		198	Asia/Kolkata	2023-12-21
+11875527	Devbhumi Dwarka	Devbhumi Dwarka	Devbhumi Dwarka	22.20253	69.65498	A	ADM2	IN		09	674			752484		50	Asia/Kolkata	2018-05-26
+11875528	Mahisagar	Mahisagar	MSG,Mahisagar,mahisagara,મહિસાગર	23.13057	73.60848	A	ADM2	IN		09	669			0		99	Asia/Kolkata	2018-05-28
+11875529	Arvalli	Arvalli	Arvalli	23.46203	73.39194	A	ADM2	IN		09	672			0		171	Asia/Kolkata	2018-07-13
+11875530	Morbi	Morbi	Morbi	22.81468	70.82289	A	ADM2	IN		09	673			960329		47	Asia/Kolkata	2018-05-26
+11875531	Gir Somnath	Gir Somnath	Gir Somnath	20.91287	70.3671	A	ADM2	IN		09	675			1217477		9	Asia/Kolkata	2018-05-26
+11875532	Botad	Botad	Botad	22.17356	71.66779	A	ADM2	IN		09	676			0		94	Asia/Kolkata	2018-05-26
+11875533	Chhotaudepur	Chhotaudepur	CUP,Chhotaudepur	22.31334	74.01521	A	ADM2	IN		09	668			0		153	Asia/Kolkata	2018-05-26
+11875534	Charki Dadri	Charki Dadri	Charki Dadri	28.59356	76.26877	A	ADM2	IN		10	701			0		219	Asia/Kolkata	2021-02-09
+11875535	Agar Malwa	Agar Malwa	AGM,Agar Malwa,Agar Malwa District	23.71592	76.00976	A	ADM2	IN		35	667			0		518	Asia/Kolkata	2023-07-02
+11875536	Palghar	Palghar	PLG,Palghar,palaghara,पालघर	19.69273	72.76672	A	ADM2	IN		16	665			0		18	Asia/Kolkata	2018-05-26
+11875537	East Jaintia Hills	East Jaintia Hills	EJH,East Jaintia Hills	25.35976	92.3668	A	ADM2	IN		18	657			122436		1167	Asia/Kolkata	2018-05-26
+11875538	North Garo Hills	North Garo Hills	NGH,North Garo Hills	25.89682	90.61602	A	ADM2	IN		18	656			0		58	Asia/Kolkata	2018-05-26
+11875539	South West Khasi Hills	South West Khasi Hills	SWK,South West Khasi Hills	25.32155	91.29462	A	ADM2	IN		18	658			0		698	Asia/Kolkata	2018-07-13
+11875540	South West Garo Hills	South West Garo Hills	SWG,South West Garo Hills	25.47245	89.93399	A	ADM2	IN		18	663			0		39	Asia/Kolkata	2018-05-26
+11875541	Suryapet	Suryapet	Suryapet,suryapeta,సూర్యాపేట	17.14156	79.62246	A	ADM2	IN		40	696			0		175	Asia/Kolkata	2018-05-26
+11875542	Vikarabad	Vikarabad	Vikarabad,vikarabad,వికారాబాద్	17.33543	77.90448	A	ADM2	IN		40	698			0		639	Asia/Kolkata	2018-05-26
+11875543	Siddipet	Siddipet	Siddipet,siddipeta,సిద్దిపేట	18.10145	78.85075	A	ADM2	IN		40	692			0		483	Asia/Kolkata	2018-05-26
+11875544	Sangareddy	Sangareddy	Sangareddy,Sangareddy District,sangareddi,సంగారెడ్డి	17.62893	78.08468	A	ADM2	IN		40	691			0		520	Asia/Kolkata	2023-06-28
+11875545	Rajanna Sircilla	Rajanna Sircilla	Rajanna Sircilla,rajanna sirisilla,రాజన్న సిరిసిల్ల	18.38629	78.8156	A	ADM2	IN		40	683			546121		325	Asia/Kolkata	2018-05-26
+11875546	Peddapalli	Peddapalli	Peddapalli,peddapalli,పెద్దపల్లి	18.61626	79.38249	A	ADM2	IN		40	682			0		230	Asia/Kolkata	2018-05-26
+11875547	Nagarkurnool	Nagarkurnool	Nagarkurnool,Nagarkurnool district,nagar karnul,నాగర్ కర్నూల్	16.48387	78.32955	A	ADM2	IN		40	694			0		450	Asia/Kolkata	2023-06-28
+11875548	Medchal Malkajgiri	Medchal Malkajgiri	Medchal Malkajgiri,medcal malkajigiri,మేడ్చల్ మల్కాజిగిరి	17.60644	78.54007	A	ADM2	IN		40	700			2542203		568	Asia/Kolkata	2018-07-13
+11875550	Mancherial	Mancherial	Mancherial,manciryal,మంచిర్యాల్	19.07359	79.4897	A	ADM2	IN		40	684			0		217	Asia/Kolkata	2018-05-26
+11875551	Mahabubabad	Mahabubabad	Mahabubabad,mahabubabad,మహబుబాబాద్	17.6004	80.00543	A	ADM2	IN		40	688			770170		198	Asia/Kolkata	2018-05-26
+11875552	Kamareddy	Kamareddy	Kamareddy,kamareddi,కామారెడ్డి	18.32567	78.33416	A	ADM2	IN		40	685			972625		528	Asia/Kolkata	2018-05-26
+11875553	Jogulamba Gadwal	Jogulamba Gadwal	Jogulamba Gadwal,jogulamba gadvala,జోగులాంబ గద్వాల	16.23401	77.80564	A	ADM2	IN		40	695			664971		319	Asia/Kolkata	2018-05-26
+11875554	Jayashankar Bhupalapally	Jayashankar Bhupalapally	Bhoopalpalli,Bhupalapally,Jayashankar,Jayashankar Bhupalapalli,Jayashankar Bhupalapally,Jayashankar Bhupalpally district,Jayashankara Bhupalapally,jayasankar bhupalapalli,జయశంకర్ భూపాలపల్లి	18.43758	79.89203	A	ADM2	IN		40	687			712257		257	Asia/Kolkata	2023-09-22
+11875555	Jangoan	Jangoan	Jangoan,janagam,జనగాం	17.72943	79.16096	A	ADM2	IN		40	689			582457		380	Asia/Kolkata	2018-05-26
+11875556	Bhadradri Kothagudem	Bhadradri Kothagudem	Bhadradri Kothagudem,Bhadradri Kothagudem district,bhadradri kottagudem,భద్రాద్రి కొత్తగూడెం	17.5546	80.61976	A	ADM2	IN		40	690			1304811		106	Asia/Kolkata	2023-06-29
+11875557	Jagitial	Jagitial	Jagitial,jagityala,జగిత్యాల	18.7938	78.91354	A	ADM2	IN		40	681			983414		283	Asia/Kolkata	2018-05-26
+11875558	Nirmal	Nirmal	Nirmal,nirmal,నిర్మల్	19.09913	78.34096	A	ADM2	IN		40	680			0		337	Asia/Kolkata	2018-05-26
+11875559	Wanaparthy	Wanaparthy	Wanaparthy,vanaparti,వనపర్తి	16.36024	78.06422	A	ADM2	IN		40	693			0		403	Asia/Kolkata	2018-05-26
+11875560	Hanamkonda	Hanamkonda	Hanamkonda,Hanamkonda district,Warangal Urban,varangal arban,వరంగల్ అర్బన్	17.99949	79.58126	A	ADM2	IN		40	686			0		258	Asia/Kolkata	2023-12-13
+11875561	Yadadri Bhuvanagiri	Yadadri Bhuvanagiri	Yadadri Bhuvanagiri,yadadri bhuvanagiri,యదాద్రి భువనగిరి	17.5129	78.88538	A	ADM2	IN		40	697			0		440	Asia/Kolkata	2018-05-26
+11875562	Gomati	Gomati	GOM,Gomati,gomati,গোমতি	23.53399	91.48122	A	ADM2	IN		26	654			436868		28	Asia/Kolkata	2018-05-28
+11875563	Unakoti	Unakoti	UNK,Unakoti,unakoti,ঊনকোটি	24.32781	92.00377	A	ADM2	IN		26	655			277335		32	Asia/Kolkata	2018-05-28
+11875564	Sepahijala	Sepahijala	SEP,Sepahijala,sipahijala,সিপাহীজলা	23.60635	91.34328	A	ADM2	IN		26	653			0		42	Asia/Kolkata	2018-05-28
+11875565	Khowai	Khowai	KHO,Khowai,khoya'i,খোয়াই	24.06702	91.60506	A	ADM2	IN		26	652			0		35	Asia/Kolkata	2018-05-28
+11875566	Shamli	Shamli	SML,Shamli,Shamli District	29.46376	77.2658	A	ADM2	IN		36	660			0		243	Asia/Kolkata	2023-07-02
+11875567	Amethi	Amethi	AME,Amethi,Amethi District	26.20814	81.69435	A	ADM2	IN		36	640			0		113	Asia/Kolkata	2023-07-02
+11875568	Hapur	Hapur	HAP,Hapur,Hapur District	28.73133	77.77305	A	ADM2	IN		36	661			0		216	Asia/Kolkata	2023-07-02
+11875569	Sambhal	Sambhal	SBL,Sambhal,Sambhal District	28.58392	78.56972	A	ADM2	IN		36	659			0		206	Asia/Kolkata	2023-07-02
+11875570	Kalimpong	Kalimpong	Kalimpong	27.05914	88.4695	A	ADM2	IN		28	702			0		1187	Asia/Kolkata	2018-05-26
+11875572	Jhargram	Jhargram	Jhargram	22.45184	86.99448	A	ADM2	IN		28	703			1136548		82	Asia/Kolkata	2018-05-26
+11875573	Alipurduar	Alipurduar	APD,Alipurduar	26.49136	89.52796	A	ADM2	IN		28	664			1700000		51	Asia/Kolkata	2018-05-26
+11875575	Longding	Longding	LDG,Longding,Longding District	26.80416	95.32292	A	ADM2	IN		30	666			0		778	Asia/Kolkata	2023-07-02
+11875577	Kumuram Bheem Asifabad	Kumuram Bheem Asifabad	Asifabad,Kumuram Bheem Asifabad,kumuram bhim asiphabad,కుమురం భీమ్ ఆసిఫాబాద్	19.35648	79.28676	A	ADM2	IN		40	699			0		213	Asia/Kolkata	2018-07-29
+11875578	Majuli	Majuli	Majuli	27.001	94.26191	A	ADM2	IN		03	706			0		87	Asia/Kolkata	2018-05-26
+11875580	Paschim Bardhaman	Paschim Bardhaman	Paschim Bardhaman	23.68127	86.97852	A	ADM2	IN		28	704			0		126	Asia/Kolkata	2018-05-26
+11875583	Jiribam	Jiribam	Jiribam,Jiribam District	24.80435	93.12085	A	ADM2	IN		17	713			0		37	Asia/Kolkata	2023-07-01
+11875584	Kangpokpi	Kangpokpi	Kangpokpi,Kangpokpi District	25.15114	93.9695	A	ADM2	IN		17	712			0		1082	Asia/Kolkata	2023-07-01
+11875585	Noney	Noney	Noney,Noney District	24.65686	93.38559	A	ADM2	IN		17	714			0		775	Asia/Kolkata	2023-07-01
+11875586	Kakching	Kakching	Kakching	24.49579	93.98461	A	ADM2	IN		17	711			0		784	Asia/Kolkata	2018-05-26
+11875587	Kamjong	Kamjong	Kamjong,Kamjong District	24.85262	94.5148	A	ADM2	IN		17	717			0		1569	Asia/Kolkata	2023-07-01
+11875590	Pherzawl	Pherzawl	Pherzawl,Pherzawl District	24.26125	93.18834	A	ADM2	IN		17	715			0		1038	Asia/Kolkata	2023-06-30
+11875595	Tengnoupal	Tengnoupal	Tengnoupal,Tengnoupal District	24.40904	94.21483	A	ADM2	IN		17	716			0		883	Asia/Kolkata	2023-09-24
+11902898	Lower Siang	Lower Siang	Lower Siang,Lower Siang district	27.72833	94.5829	A	ADM2	IN		30	720			0		775	Asia/Kolkata	2023-09-24
+12212751	Chengalpattu district	Chengalpattu district	Chengalpattu,cenkalpattu,செங்கல்பட்டு	12.68314	79.97704	A	ADM2	IN		25	730			2556423		46	Asia/Kolkata	2021-02-02
+12212752	Kallakurichi district	Kallakurichi district	Kallakurichi,kallakkuricci,கள்ளக்குறிச்சி	11.70004	78.96444	A	ADM2	IN		25	729			1682687		112	Asia/Kolkata	2021-02-02
+12212753	Ranipet district	Ranipet district	Ranipet,ranippettai,ராணிப்பேட்டை	12.92781	79.3326	A	ADM2	IN		25	731			1210277		173	Asia/Kolkata	2021-02-02
+12212754	Tenkasi district	Tenkasi district	Tenkasi,tenkaci,தென்காசி	8.95371	77.31707	A	ADM2	IN		25	733			1407627		155	Asia/Kolkata	2021-02-02
+12212767	Tirupattur district	Tirupattur district	Tirupattur,tiruppattur,திருப்பத்தூர்	12.49469	78.5645	A	ADM2	IN		25	732			1111812		390	Asia/Kolkata	2021-02-02
+12212768	Mayiladuthurai district	Mayiladuthurai district	Mayiladuthurai	11.09625	79.63604	A	ADM2	IN		25	734			918356		16	Asia/Kolkata	2021-02-02
+12572546	Shi Yomi	Shi Yomi		28.6786	94.25916	A	ADM2	IN		30	785			13310		2434	Asia/Kolkata	2023-09-22
+12572547	Pakke Kessang	Pakke Kessang		27.10528	93.03567	A	ADM2	IN		30	783			15358		699	Asia/Kolkata	2023-09-22
+12572550	Narayanpet	Narayanpet		16.64331	77.58034	A	ADM2	IN		40	781			566874		420	Asia/Kolkata	2023-09-22
+12572551	Mulugu	Mulugu		18.28913	80.33743	A	ADM2	IN		40	780			0		164	Asia/Kolkata	2023-09-22
+12572552	Niwari	Niwari		25.28498	78.74888	A	ADM2	IN		35	782			404807		249	Asia/Kolkata	2023-09-22
+12572553	Kamle	Kamle		27.72973	94.09088	A	ADM2	IN		30	778			0		1084	Asia/Kolkata	2023-09-22
+12572554	Lepa Rada	Lepa Rada		27.92641	94.73293	A	ADM2	IN		30	784			0		712	Asia/Kolkata	2023-09-22
+12572555	Saitual	Saitual		23.84861	93.09135	A	ADM2	IN		31	727			50591		1261	Asia/Kolkata	2023-12-22
+12572556	Khawzawl	Khawzawl		23.49079	93.14152	A	ADM2	IN		31	728			35655		1071	Asia/Kolkata	2023-12-22
+12572557	Hnahthial	Hnahthial		22.97644	92.96551	A	ADM2	IN		31	726			28488		695	Asia/Kolkata	2023-12-22
+12680239	Alluri Sitharama Raju	Alluri Sitharama Raju		17.88659	82.21346	A	ADM2	IN		02	745			1004047		853	Asia/Kolkata	2024-10-20
+12680240	Anakapalli	Anakapalli		17.67803	82.79109	A	ADM2	IN		02	744			1726998		228	Asia/Kolkata	2023-12-17
+12680241	Annamayya	Annamayya		13.90949	78.64818	A	ADM2	IN		02	753			1697308		519	Asia/Kolkata	2023-12-17
+12680242	Bajali	Bajali		26.52667	91.16676	A	ADM2	IN		03	739			330190		46	Asia/Kolkata	2023-12-17
+12680243	Bapatla	Bapatla		15.93276	80.3865	A	ADM2	IN		02	750			1586918		4	Asia/Kolkata	2023-12-17
+12680244	Chumoukedima	Chumoukedima		25.80944	93.71466	A	ADM2	IN		20	758			168522		166	Asia/Kolkata	2023-12-17
+12680245	Eastern West Khasi Hills	Eastern West Khasi Hills		25.60725	91.57367	A	ADM2	IN		18	740			115878		1591	Asia/Kolkata	2023-12-17
+12680246	Eluru	Eluru		17.01306	81.0842	A	ADM2	IN		02	748			2071647		124	Asia/Kolkata	2023-12-16
+12680247	Gaurella Pendra Marwahi	Gaurella Pendra Marwahi		22.83112	81.95876	A	ADM2	IN		37	734			336420		579	Asia/Kolkata	2023-12-16
+12680248	Khairgarh Chhuikhadan Gandai	Khairgarh Chhuikhadan Gandai		21.5295	80.94832	A	ADM2	IN		37	759			368444		358	Asia/Kolkata	2023-12-16
+12680249	Konaseema	Konaseema		16.6422	82.08271	A	ADM2	IN		02	747			1719093		11	Asia/Kolkata	2023-12-16
+12680250	Malerkotla	Malerkotla		30.53376	75.90824	A	ADM2	IN		23	737			429754		249	Asia/Kolkata	2023-12-16
+12680251	Manendragarh Chirimiri Bharatpur	Manendragarh Chirimiri Bharatpur		23.43164	82.1789	A	ADM2	IN		37	760			365277		666	Asia/Kolkata	2023-12-16
+12680252	Mohla Manpur Ambagarh Chouki	Mohla Manpur Ambagarh Chouki		20.49467	80.79968	A	ADM2	IN		37	761			283947		378	Asia/Kolkata	2023-12-16
+12680253	Nandyal	Nandyal		15.52459	78.41334	A	ADM2	IN		02	755			1781777		217	Asia/Kolkata	2023-12-16
+12680254	Noklak	Noklak		26.10046	95.01936	A	ADM2	IN		20	736			55606		1098	Asia/Kolkata	2023-12-16
+12680255	NTR	NTR		16.82047	80.24721	A	ADM2	IN		02	749			2218591		50	Asia/Kolkata	2023-12-18
+12680256	Pakyong	Pakyong		27.22503	88.6492	A	ADM2	IN		29	741			94344		1000	Asia/Kolkata	2023-12-16
+12680257	Palnadu	Palnadu		16.32329	79.69607	A	ADM2	IN		02	751			2041723		182	Asia/Kolkata	2023-12-16
+12680258	Parvathipuram Manyam	Parvathipuram Manyam		18.75036	83.54053	A	ADM2	IN		02	743			925340		96	Asia/Kolkata	2023-12-16
+12680259	Sakti	Sakti		21.92685	82.96507	A	ADM2	IN		37	762			653036		231	Asia/Kolkata	2023-12-16
+12680260	Sarangarh Bilaigarh	Sarangarh Bilaigarh		21.54293	83.12657	A	ADM2	IN		37	763			607434		223	Asia/Kolkata	2023-12-16
+12680261	Kakinada	Kakinada	kakkinata,காக்கிநாடா	17.11916	82.19004	A	ADM2	IN		02	746			2092374		21	Asia/Kolkata	2025-02-25
+12680262	Soreng	Soreng		27.18993	88.20187	A	ADM2	IN		29	742			64760		1804	Asia/Kolkata	2023-12-16
+12680263	Sri Sathya Sai	Sri Sathya Sai		14.16823	77.96407	A	ADM2	IN		02	754			1840043		811	Asia/Kolkata	2023-12-16
+12680264	Tirupati	Tirupati		13.78049	79.83503	A	ADM2	IN		02	752			2196984		36	Asia/Kolkata	2023-12-16
+12680265	Tseminyu	Tseminyu		25.94162	94.16007	A	ADM2	IN		20	757			56839		1182	Asia/Kolkata	2023-12-16
+12680266	Vijayanagar	Vijayanagar		14.94249	76.04406	A	ADM2	IN		19	738			1353628		616	Asia/Kolkata	2023-12-16
+12680267	Tamulpur	Tamulpur		26.67409	91.58165	A	ADM2	IN		03	756			249760		83	Asia/Kolkata	2023-12-16

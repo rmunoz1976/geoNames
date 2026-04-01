@@ -1,0 +1,58 @@
+﻿2221059	Wouri	Wouri	Departement du Wouri,Département du Wouri,Wouri	4	9.66667	A	ADM2	CM		05	2221059			0		16	Africa/Douala	2022-02-17
+2222269	Sanaga-Maritime	Sanaga-Maritime	Departement de la Sanaga-Maritime,Dipartimento di Sanaga-Maritime,Département de la Sanaga-Maritime,Sanaga-Maritim,Sanaga-Maritime,Sanaga-Maritime Koan,Sanaga-Maritime Koān,bin hai sa na jia zhou,Санага-Маритим,Սանագա-Մարիտիմ,濱海薩那加州	4	10.33333	A	ADM2	CM		05	2222269			0		247	Africa/Douala	2022-02-17
+2223327	Nyong-et-Soo	Nyong-et-Soo	Departement du Nyong-et-So,Departement du Nyong-et-Soo,Département du Nyong-et-So,Département du Nyong-et-Soo,Nyong-et-So'o,Nyong-et-Soo	3.4	11.5	A	ADM2	CM		11	2223327			0		677	Africa/Douala	2022-02-17
+2223329	Nyong-et-Mfoumou	Nyong-et-Mfoumou	Departement du Nyong-et-Mfoumou,Dipartimento di Nyong e Mfoumou,Département du Nyong-et-Mfoumou,N'jong i Mfumu,N'ong i Mfumu,Nyong-et-Mfoumou,Nyong-et-Mfoumou Koan,Nyong-et-Mfoumou Koān,ni yong-mu fu mu zhou,Ньйонг і Мфуму,Ньонг и Мфуму,尼永-姆福穆州	4	12.4	A	ADM2	CM		11	2223329			0		719	Africa/Douala	2022-02-17
+2223330	Département du Nyong-et-Kéllé	Departement du Nyong-et-Kelle	Departement du Nyong-et-Kelle,Département du Nyong-et-Kéllé,Nyong et Kele,Nyong et Kélé,Nyong-et-Kelle,Nyong-et-Kéllé	3.83333	10.83333	A	ADM2	CM		11	2223330			0		303	Africa/Douala	2026-03-10
+2224165	Nkam	Nkam	Departement du Nkam,Dipartimento di Nkam,Département du Nkam,Nkam,Nkam Koan,Nkam Koān,en kan zhou,nkamu,Нкам,ンカム,恩坎州	4.5	10.16667	A	ADM2	CM		05	2224165			0		167	Africa/Douala	2022-02-17
+2225280	Ndian Division	Ndian Division	Ndian,Ndian Division	4.83333	8.83333	A	ADM2	CM		09	2225280			0		29	Africa/Douala	2022-02-17
+2225334	Département du Ndé	Departement du Nde	Departement du Nde,Département du Ndé,Nde,Ndé	5.15	10.51667	A	ADM2	CM		08	2225334			0		1373	Africa/Douala	2026-03-10
+2225744	Département du Mungo	Departement du Mungo	Departement du Mungo,Département du Mungo,Moungo	4.67295	9.76855	A	ADM2	CM		05	2225744			0		166	Africa/Douala	2019-01-08
+2226140	Momo Division	Momo Division	Memo Division,Momo,Momo Division	5.90053	9.97445	A	ADM2	CM		07	2226140			0		1312	Africa/Douala	2019-01-08
+2226712	Mifi	Mifi	Departement de Mifi,Département de Mifi,Mifi	5.48333	10.4	A	ADM2	CM		08	2226712			0		1380	Africa/Douala	2022-02-17
+2226830	Mezam Division	Mezam Division	Bamenda Division,Mezam,Mezam Division	5.97851	10.14779	A	ADM2	CM		07	2226830			0		1229	Africa/Douala	2019-01-08
+2226947	Metchum Division	Metchum Division	Menchum,Menchum Division,Mentchoum,Metchum,Metchum Division,Wum Division	6.5	10.16667	A	ADM2	CM		07	2226947			0		1118	Africa/Douala	2022-02-17
+2227064	Département de la Ménoua	Departement de la Menoua	Departement de la Menoua,Département de la Ménoua,Menoua,Ménoua	5.45	10.06667	A	ADM2	CM		08	2227064			0		1385	Africa/Douala	2026-03-10
+2227197	Meme Division	Meme Division	Kumba Division,Meme,Meme Division	4.83333	9.33333	A	ADM2	CM		09	2227197			0		746	Africa/Douala	2022-02-17
+2228217	Département du Mayo Danaï	Departement du Mayo Danai	Departement du Mayo Danai,Département du Mayo Danaï,Mayo Danai,Mayo Danaï,Mayo-Danay	10.5	15	A	ADM2	CM		12	2228217			0		318	Africa/Douala	2026-03-10
+2228442	Manyu Division	Manyu Division	Cross River Division,Mamfe Division,Manyu,Manyu Division	5.82	9.37	A	ADM2	CM		09	2228442			0		123	Africa/Douala	2019-01-08
+2229251	Département du Lom-et-Djérem	Departement du Lom-et-Djerem	Departement du Lom-et-Djerem,Département du Lom-et-Djérem,Lom-Et-Djerem,Lom-et-Djerem,Lom-et-Djérem	5.16667	13.83333	A	ADM2	CM		04	2229251			0		739	Africa/Douala	2026-03-10
+2229291	Logone-et-Chari	Logone-et-Chari	Departement du Logone-et-Chari,Dipartimento di Logone e Chari,Département du Logone-et-Chari,Logon i Shari,Logone i Shari,Logone-Et-Chari,Logone-et-Chari,Logone-et-Chari Koan,Logone-et-Chari Koān,luo gong-sha li zhou,lwqwn wshary,Логон і Шарі,Логоне и Шари,لوقون وشاري,洛貢-沙里州	12.08333	14.83333	A	ADM2	CM		12	2229291			0		291	Africa/Douala	2022-02-17
+2229546	Département de la Lékié	Departement de la Lekie	Departement de la Lekie,Département de la Lékié,Lekie,Likie,Lékié	4.2	11.4	A	ADM2	CM		11	2229546			0		522	Africa/Douala	2026-03-10
+2229760	Département de l'Océan	Departement de l'Ocean	Departement de Kribi,Département de Kribi,Kribi,Ocean	2.75	10.25	A	ADM2	CM		14	2229760			0		85	Africa/Douala	2019-01-08
+2230606	Département de la Kadeï	Departement de la Kadei	Kadei	4.24	14.42	A	ADM2	CM		04	2230606			0		655	Africa/Douala	2019-01-08
+2230815	Departement du Haut-Nyong	Departement du Haut-Nyong	Departement du Haut-Nyong,Haut-Nyong	3.5	13.75	A	ADM2	CM		04	2230815			0		756	Africa/Douala	2026-03-10
+2230816	Haut-Nkam	Haut-Nkam	Departement du Haut-Nkam,Dipartimento di Haut-Nkam,Département du Haut-Nkam,Haut-Nkam,Haut-Nkam Koan,Haut-Nkam Koān,O-Nkam,hawt nkam,shang en kan zhou,О-Нкам,هاوت نکام,上恩坎州	5.15	10.18333	A	ADM2	CM		08	2230816			0		1144	Africa/Douala	2022-02-17
+2230817	Haute-Sanaga	Haute-Sanaga	Departement de la Haute-Sanaga,Dipartimento di Haute-Sanaga,Département de la Haute-Sanaga,Haute-Sanaga,Haute-Sanaga Koan,Haute-Sanaga Koān,Ot-Sanaga,awt-sanaga,shang sa na jia zhou,От-Санага,اوت-ساناگا,上薩納加州	4.6	12.4	A	ADM2	CM		11	2230817			0		621	Africa/Douala	2022-02-17
+2231710	Fako Division	Fako Division	Fako,Fako Division,Fano Division,Victoria Division	4.16667	9.16667	A	ADM2	CM		09	2231710			0		2833	Africa/Douala	2022-02-17
+2232640	Donga and Mantung Division	Donga and Mantung Division	Donga and Mantung,Donga and Mantung Division,Donga-Mantung,DongaandMantung,Kambe,Kambé,Nkambe Division	6.66667	10.83333	A	ADM2	CM		07	2232640			0		1295	Africa/Douala	2022-02-17
+2232969	Dja-et-Lobo	Dja-et-Lobo	Departement du Dja-et-Lobo,Dja-Et-Lobo,Dja-et-Lobo,Département du Dja-et-Lobo	2.75	12.91667	A	ADM2	CM		14	2232969			0		638	Africa/Douala	2022-02-17
+2233122	Département du Diamaré	Departement du Diamare	Departement du Diamare,Diamare,Diamaré,Département du Diamaré	10.5	14.5	A	ADM2	CM		12	2233122			0		367	Africa/Douala	2026-03-10
+2233408	Bui Division	Bui Division	Bui,Bui Division,Nso	6.25	10.75	A	ADM2	CM		07	2233408			0		2172	Africa/Douala	2022-02-17
+2233500	Boumba-Ngoko	Boumba-Ngoko	Boumba-Et-Ngoko,Boumba-Ngoko,Departement de la Boumba-Ngoko,Département de la Boumba-Ngoko	3	15	A	ADM2	CM		04	2233500			0		539	Africa/Douala	2022-02-17
+2234396	Département de la Bénoué	Departement de la Benoue	Benone,Benoue,Benue,Benué,Bénoué,Departement de la Benoue,Département de la Bénoué	9.2202	13.47663	A	ADM2	CM		13	2234396			0		265	Africa/Douala	2019-01-08
+2234988	Bamboutos	Bamboutos	Bamboutos,Bamboutos Koan,Bamboutos Koān,Bambutas,Bambutos,Departement de Bamboutos,Dipartimento di Bamboutos,Département de Bamboutos,bambwtws,ban bu tuo zhou,Бамбутас,Бамбутос,بامبوتوس,班布托州	5.63333	10.25	A	ADM2	CM		08	2234988			0		1414	Africa/Douala	2022-02-17
+7670946	Djerem	Djerem	Djerem,Djérem	6.48112	12.69703	A	ADM2	CM		10	7670946			0		844	Africa/Douala	2019-01-08
+7670947	Faro-et-Deo	Faro-et-Deo	Faro-et-Deo	7.46684	12.49612	A	ADM2	CM		10	7670947			0		737	Africa/Douala	2019-01-08
+7670948	Vina	Vina	Vina	7.16365	13.72711	A	ADM2	CM		10	7670948			247427		1198	Africa/Douala	2019-01-08
+7730793	Mbam-et-Kim	Mbam-et-Kim	Dipartimento di Mbam e Kim,Mbam i Kim,Mbam-et-Kim,Mbam-et-Kim Koan,Mbam-et-Kim Koān,mu ba mu-ji mu zhou,Мбам и Ким,Мбам і Кім,姆巴姆-基姆州	4.44157	11.64104	A	ADM2	CM		11	7730793			0		549	Africa/Douala	2019-01-08
+7731690	Méfou-et-Afamba	Mefou-et-Afamba	Mefou-et-Afamba,Méfou-et-Afamba	3.96	11.93	A	ADM2	CM		11	7731690			0		799	Africa/Douala	2019-01-08
+7932539	Departement du Mayo-Kani	Departement du Mayo-Kani	Mayo-Kani	10.22427	14.51862	A	ADM2	CM		12	7932539			0		417	Africa/Douala	2019-01-08
+8299279	Mbere Department	Mbere Department	Departement de Mbere,Département de Mbéré,Mbere	6.434	14.243	A	ADM2	CM		10	8299279			0		1051	Africa/Douala	2019-01-08
+8505106	Koupé-Manengouba	Koupe-Manengouba	Koupe-Manengouba,Koupé-Manengouba,Kupe-Manenguba	5.0856	9.78	A	ADM2	CM		09	8505106			0		1271	Africa/Douala	2019-01-08
+8693008	Mfoundi	Mfoundi	Dipartimento di Mfoundi,Mfoundi,Mfoundi Koan,Mfoundi Koān,Mfundi,mu feng di zhou,Мфоунди,Мфунди,Мфунді,姆丰迪州	3.8667	11.5167	A	ADM2	CM		11	8693008			2091171		726	Africa/Douala	2019-01-08
+8740150	Mayo-Rey	Mayo-Rey	Dipartimento di Mayo-Rey,Majo-Rej,Mayo-Rey,Mayo-Rey Koan,Mayo-Rey Koān,ma yue lei zhou,Майо-Рей,馬約雷州	8.1263	14.61456	A	ADM2	CM		13	8740150			242441		599	Africa/Douala	2019-01-08
+8740152	Mayo-Louti	Mayo-Louti	Dipartimento di Mayo-Louti,Majo-Luti,Mayo-Louti,Mayo-Louti Koan,Mayo-Louti Koān,ma yue-lu di zhou,Майо-Лути,馬約-盧蒂州	9.96577	13.72738	A	ADM2	CM		13	8740152			334312		666	Africa/Douala	2019-01-08
+9165815	Mefou-et-Akono	Mefou-et-Akono	Mefou-et-Akono,Méfou-et-Akono	3.58706	11.36089	A	ADM2	CM		11	9165815			57051		701	Africa/Douala	2019-01-08
+9224946	Mayo-Banyo	Mayo-Banyo	Dipartimento di Mayo-Banyo,Majo-Ban'jo,Majo-Ban'o,Mayo-Banyo,Mayo-Banyo Koan,Mayo-Banyo Koān,ma yue-ba ni ao zhou,Майо-Баньйо,Майо-Баньо,Маё-Баньё,馬約-巴尼奧州	6.58138	11.73522	A	ADM2	CM		10	9224946			134902		1191	Africa/Douala	2019-01-08
+9224948	Mbam-Et-Inoubou	Mbam-Et-Inoubou	Dipartimento di Mbam e Inoubou,Mbam i Inubu,Mbam-Et-Inoubou,Mbam-et-Inoubou,Mbam-et-Inoubou Koan,Mbam-et-Inoubou Koān,Mbam-ta-Inubu,mu ba mu-yi nu bu zhou,Мбам и Инубу,Мбам-та-Інубу,姆巴姆-伊努布州	4.73754	10.96972	A	ADM2	CM		11	9224948			153020		738	Africa/Douala	2019-01-08
+9224949	Mayo-Sava	Mayo-Sava	Dipartimento di Mayo-Sava,Majo-Sava,Mayo-Sava,Mayo-Sava Koan,Mayo-Sava Koān,ma yue-sa wa zhou,Майо-Сава,馬約-薩瓦州	11.10682	14.2056	A	ADM2	CM		12	9224949			348890		361	Africa/Douala	2019-01-08
+9224951	Mayo-Tsanaga	Mayo-Tsanaga	Mayo-Tsanaga	10.58221	13.79351	A	ADM2	CM		12	9224951			699971		653	Africa/Douala	2019-01-08
+9224959	Boyo	Boyo	Boyo	6.36365	10.3554	A	ADM2	CM		07	9224959			169725		1550	Africa/Douala	2019-01-08
+9224961	Hauts-Plateaux	Hauts-Plateaux	Dipartimento di Hauts-Plateaux,Hauts-Plateaux,Hauts-Plateaux Koan,Hauts-Plateaux Koān,O-Plato,aw-platw,shang gao yuan zhou,О-Плато,او-پلاتو,上高原州	5.29632	10.34314	A	ADM2	CM		08	9224961			117008		1694	Africa/Douala	2019-01-08
+9224964	Koung-Khi	Koung-Khi	Dipartimento di Koung-Khi,Koung-Khi,Koung-Khi Koan,Koung-Khi Koān,Kung-Kkhi,kong ji zhou,Кунг-Кхи,孔基州	5.33848	10.47453	A	ADM2	CM		08	9224964			121794		1490	Africa/Douala	2019-01-08
+9224965	Noun	Noun	Noun	5.64123	10.9184	A	ADM2	CM		08	9224965			434542		1007	Africa/Douala	2019-01-08
+9224975	Lebialem	Lebialem	Lebialem	5.56043	9.92316	A	ADM2	CM		09	9224975			144560		869	Africa/Douala	2019-01-08
+9228189	Faro Department	Faro Department	Faro	8.25014	12.87829	A	ADM2	CM		13	9228189			81472		288	Africa/Douala	2019-01-08
+9230015	Mvila	Mvila	Dipartimento di Mvila,Mvila,Mvila Koan,Mvila Koān,mu wei la zhou,mwyla,Мвила,Мвіла,مویلا,姆維拉州	2.79796	11.39434	A	ADM2	CM		14	9230015			163826		651	Africa/Douala	2019-01-08
+9239012	Vallée-du-Ntem	Vallee-du-Ntem	Vallee-du-Ntem	2.36667	11.26667	A	ADM2	CM		14	9239012			0		576	Africa/Douala	2019-01-08
+10289311	Ngo-Ketunjia	Ngo-Ketunjia	Ngo-ketunjia	6.00729	10.57462	A	ADM2	CM		07	10289311			0		1165	Africa/Douala	2019-01-08

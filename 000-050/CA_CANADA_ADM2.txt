@@ -1,0 +1,1641 @@
+﻿5881882	Aberdeen No. 373	Aberdeen No. 373		52.33338	-106.25118	A	ADM2	CA		11	4715018			0		516	America/Regina	2024-05-17
+5881894	Abernethy No. 186	Abernethy No. 186		50.75006	-103.50102	A	ADM2	CA		11	4706042			0		578	America/Regina	2024-05-17
+5881941	Abitibi-Témiscamingue	Abitibi-Temiscamingue	Abitibi-Teminscamingue,Abitibi-Temiskaming,Abitibi-Téminscamingue,Abitibio-Temiskamingio,a bi di bi-di mi si kan ming ge,abytyby-tmysgamyntw,Абитиби — Темискаминг,Абітібі-Теміскамінг,ابیتیبی-تمیسگامینتو,アビティビ・テミスカマング地域,阿比蒂比-蒂米斯坎明格	48.10018	-77.7828	A	ADM2	CA		10	08			147082		314	America/Toronto	2025-11-07
+5883098	Albert County	Albert County		45.83346	-64.91548	A	ADM2	CA		04	1306			0		179	America/Moncton	2014-11-06
+5883398	Alexander	Alexander		50.48331	-96.05056	A	ADM2	CA		03	5883398			0		249	America/Winnipeg	2017-08-18
+5883638	Algoma	Algoma		47.88364	-84.42406	A	ADM2	CA		08	3557			113777		415	America/Toronto	2025-11-07
+5884145	Alonsa	Alonsa		50.98332	-99.05077	A	ADM2	CA		03	5884145			0		268	America/Winnipeg	2017-08-18
+5885415	Annapolis County	Annapolis County	Annapolis,Comitatul Annapolis,Comte d'Annapolis,Comté d'Annapolis,Contea di Annapolis,Hrabstwo Annapolis,Kontea Annapolis,Siorrachd Annapolis,an na bo li si xian,shhrstan anapwlys  nwa askwshya,Аннаполис,Аннаполіс,شهرستان آناپولیس، نوا اسکوشیا,安纳波利斯县	44.58345	-65.16551	A	ADM2	CA		07	1205			0		182	America/Halifax	2024-11-09
+5886135	Antelope Park No. 322	Antelope Park No. 322		51.75012	-109.83485	A	ADM2	CA		11	4713016			0		704	America/Regina	2024-05-17
+5886183	Antigonish County	Antigonish County	Antigonish,Comte d'Antigonish,Comté d'Antigonish,Condado de Antigonish,Contae Antigonis,Contea di Antigonish,Hrabstwo Antigonish,Kontea Antigonish,Siorrachd Antigonis,an di ge ni shen xian,shhrstan antygwnysh  nwa askwshya,Антигониш,Антігоніш,شهرستان آنتیگونیش، نوا اسکوشیا,安蒂戈尼什县	45.66685	-61.91528	A	ADM2	CA		07	1214			0		11	America/Halifax	2021-02-19
+5886232	Antler No. 61	Antler No. 61		49.63332	-101.66764	A	ADM2	CA		11	4701047			0		593	America/Regina	2024-05-17
+5886560	Arborfield No. 456	Arborfield No. 456		53.00005	-103.50092	A	ADM2	CA		11	4714059			0		471	America/Regina	2024-05-17
+5886869	Argyle	Argyle		49.34642	-99.24752	A	ADM2	CA		03	5886869			0		435	America/Winnipeg	2017-08-18
+5886885	Argyle No. 1	Argyle No. 1		49.16674	-101.50089	A	ADM2	CA		11	4701001			0		500	America/Regina	2024-05-17
+5886947	Arlington No. 79	Arlington No. 79		49.66675	-108.66812	A	ADM2	CA		11	4704038			0		949	America/Regina	2024-05-17
+5887036	Arm River No. 252	Arm River No. 252		51.25006	-105.83448	A	ADM2	CA		11	4711011			0		593	America/Regina	2024-05-17
+5887047	Armstrong	Armstrong		50.66671	-97.45068	A	ADM2	CA		03	5887047			0		275	America/Winnipeg	2017-08-18
+5888450	Auvergne No. 76	Auvergne No. 76		49.66676	-107.418	A	ADM2	CA		11	4703054			0		795	America/Regina	2024-05-17
+5891625	Baildon No. 131	Baildon No. 131		50.16676	-105.50114	A	ADM2	CA		11	4707001			0		614	America/Regina	2024-05-17
+5894222	Barrier Valley No. 397	Barrier Valley No. 397		52.5	-104.00098	A	ADM2	CA		11	4714034			0		558	America/Regina	2024-05-17
+5895111	Battle River No. 438	Battle River No. 438		52.73343	-108.46808	A	ADM2	CA		11	4712078			0		527	America/Regina	2024-05-17
+5895379	Bayne No. 371	Bayne No. 371		52.25006	-105.58443	A	ADM2	CA		11	4715011			0		555	America/Regina	2024-05-17
+5896654	Beaver County	Beaver County		53.22074	-112.19764	A	ADM2	CA		01	4810016			0		689	America/Edmonton	2018-01-08
+5897145	Beaver River No. 622	Beaver River No. 622		54.36688	-109.38488	A	ADM2	CA		11	4717062			0		551	America/Regina	2024-05-17
+5898305	Bengough No. 40	Bengough No. 40		49.41676	-105.00108	A	ADM2	CA		11	4702024			0		708	America/Regina	2024-05-17
+5898552	Benson No. 35	Benson No. 35		49.41676	-103.00095	A	ADM2	CA		11	4701027			0		596	America/Regina	2024-05-17
+5899480	Big Arm No. 251	Big Arm No. 251		51.25007	-105.41786	A	ADM2	CA		11	4711006			0		492	America/Regina	2024-05-17
+5899990	Biggar No. 347	Biggar No. 347		52.0001	-108.00135	A	ADM2	CA		11	4712042			0		627	America/Regina	2024-05-17
+5900718	Big Quill No. 308	Big Quill No. 308		51.71072	-104.27366	A	ADM2	CA		11	4710046			0		630	America/Regina	2024-05-19
+5900750	Big River No. 555	Big River No. 555		53.91683	-107.26787	A	ADM2	CA		11	4716075			0		528	America/Regina	2024-05-17
+5900919	Big Stick No. 141	Big Stick No. 141		50.16679	-109.50152	A	ADM2	CA		11	4708016			0		717	America/Regina	2024-05-17
+5901449	Birch Hills County	Birch Hills County		55.72315	-118.0799	A	ADM2	CA		01	4819049			0		613	America/Edmonton	2018-01-08
+5901450	Birch Hills No. 460	Birch Hills No. 460		53.00006	-105.33432	A	ADM2	CA		11	4715067			0		448	America/Regina	2024-05-17
+5902122	Bjorkdale No. 426	Bjorkdale No. 426		52.6667	-103.50096	A	ADM2	CA		11	4714038			0		503	America/Regina	2024-05-17
+5903506	Blaine LakeNo. 434	Blaine LakeNo. 434		52.7501	-106.83448	A	ADM2	CA		11	4716013			0		516	America/Regina	2024-05-17
+5904116	Blucher No. 343	Blucher No. 343		52.00007	-106.1679	A	ADM2	CA		11	4711069			0		513	America/Regina	2024-05-17
+5905450	Bone Creek No. 108	Bone Creek No. 108		49.83336	-108.25139	A	ADM2	CA		11	4704058			0		926	America/Regina	2024-05-17
+5907982	Brant	Brant		43.1668	-80.33297	A	ADM2	CA		08	3529			0		237	America/Toronto	2018-01-20
+5908109	Bratt's Lake No. 129	Bratt's Lake No. 129		50.16678	-104.6678	A	ADM2	CA		11	4706013			0		587	America/Regina	2024-05-17
+5908165	Brazeau County	Brazeau County		53.1779	-115.22159	A	ADM2	CA		01	4811032			0		866	America/Edmonton	2018-01-08
+5908880	Brigus	Brigus		47.53319	-53.21478	A	ADM2	CA		05	1001446			0		12	America/St_Johns	2024-05-17
+5909039	Britannia No. 502	Britannia No. 502		53.41687	-109.75154	A	ADM2	CA		11	4717028			0		586	America/Edmonton	2024-05-17
+5909280	Brock No. 64	Brock No. 64		49.66674	-102.58425	A	ADM2	CA		11	4701058			0		612	America/Regina	2024-05-17
+5909350	Brokenhead	Brokenhead		50.0781	-96.49999	A	ADM2	CA		03	5909350			5414		242	America/Winnipeg	2024-03-19
+5909371	Brokenshell No. 68	Brokenshell No. 68		49.66676	-104.25109	A	ADM2	CA		11	4702051			0		599	America/Regina	2024-05-17
+5909843	Browning No. 34	Browning No. 34		49.41675	-102.58423	A	ADM2	CA		11	4701031			0		590	America/Regina	2024-05-17
+5910071	Bruce County	Bruce County		44.50009	-81.24974	A	ADM2	CA		08	3541			0		212	America/Toronto	2018-01-20
+5910483	Buchanan No. 304	Buchanan No. 304		51.74998	-102.66766	A	ADM2	CA		11	4709049			0		503	America/Regina	2024-05-17
+5910652	Buckland No. 491	Buckland No. 491		53.33338	-105.75101	A	ADM2	CA		11	4715094			0		464	America/Regina	2024-05-17
+5910854	Buffalo No. 409	Buffalo No. 409		52.50013	-108.5847	A	ADM2	CA		11	4713068			0		697	America/Regina	2024-05-17
+5913373	Calder No. 241	Calder No. 241		51.24999	-101.83423	A	ADM2	CA		11	4709001			0		524	America/Regina	2024-05-17
+5913443	Caledonia No. 99	Caledonia No. 99		49.91677	-104.58441	A	ADM2	CA		11	4702066			0		584	America/Regina	2024-05-17
+5913688	Cambria No. 6	Cambria No. 6		49.16676	-103.41765	A	ADM2	CA		11	4702001			0		580	America/Regina	2024-05-17
+5914684	Canaan No. 225	Canaan No. 225		50.91677	-107.16799	A	ADM2	CA		11	4707058			0		681	America/Regina	2024-05-17
+5914797	Cana No. 214	Cana No. 214		51	-102.66768	A	ADM2	CA		11	4705073			0		540	America/Regina	2024-05-17
+5915183	Canwood No. 494	Canwood No. 494		53.5001	-106.75112	A	ADM2	CA		11	4716051			0		527	America/Regina	2024-05-17
+5915565	Cape Breton County	Cape Breton County	Cape Breton County,Comte de Cap Breton,Comté de Cap Breton	46.00014	-60.31516	A	ADM2	CA		07	1217			147000		83	America/Glace_Bay	2019-01-25
+5916294	Cape St. George	Cape St. George		48.46673	-59.24855	A	ADM2	CA		05	1004033			0		37	America/St_Johns	2024-05-17
+5916420	Capital Regional District	Capital Regional District	Distretto regionale della Capitale,District regional de la Capitale,District régional de la Capitale,Distrikti rajonal i Kryeqytetit,Distrito regional de la Capital,Geografiko Diamerisma Kapital,Stoleczny Dystrykt Regionalny,Stołeczny Dystrykt Regionalny,bikutoria shou dou de yu,kabytl af,shou fu de qu,Γεωγραφικό Διαμέρισμα Κάπιταλ,ضلع کیپیٹل,كابيتل أف,ビクトリア首都地域,首府地區	48.41633	-123.5859	A	ADM2	CA		02	5917			0	328	154	America/Vancouver	2015-04-08
+5916822	Cardston County	Cardston County		49.27608	-113.16608	A	ADM2	CA		01	4803001			0		1145	America/Edmonton	2018-01-08
+5916918	Cariboo Regional District	Cariboo Regional District	Cariboo,Distretto regionale di Cariboo,District regional de Cariboo,District régional de Cariboo,Distrikti rajonal Cariboo,ka li bu de qu,karibu de yu,karybw a,ضلع کاریبو,كاريبو آ,カリブー地域,卡里布地区	52.33313	-123.16961	A	ADM2	CA		02	5941			62931		1344	America/Vancouver	2025-11-06
+5917147	Carleton County	Carleton County	Comte de Carleton,Comté de Carleton,Condado de Carleton,Contea di Carleton,Hrabstwo Carleton,Karlton,Kontea Carleton,karuton jun,Карлтон,کارلیٹن کاؤنٹی,カールトン郡	46.33339	-67.4156	A	ADM2	CA		04	1311			0		138	America/Moncton	2014-11-06
+5917320	Carmichael No. 109	Carmichael No. 109		49.91676	-108.66813	A	ADM2	CA		11	4704054			0		992	America/Regina	2024-05-17
+5917428	Caron No. 162	Caron No. 162		50.41677	-105.83447	A	ADM2	CA		11	4707036			0		588	America/Regina	2024-05-17
+5917773	Cartier	Cartier		49.88311	-97.67649	A	ADM2	CA		03	5917773			0		242	America/Winnipeg	2017-08-18
+5919023	Central Coast Regional District	Central Coast Regional District	Central Coast,Distretto regionale di Central Coast,District regional de Central Coast,District régional de Central Coast,Distrikti rajonal Central Coast,zhong hai an de qu,ضلع سنٹرل کوسٹ,セントラル・コースト地域,中海岸地区	52.16638	-127.00323	A	ADM2	CA		02	5945			3319		724	America/Vancouver	2025-11-06
+5919942	Chaplin No. 164	Chaplin No. 164		50.41677	-106.58453	A	ADM2	CA		11	4707029			0		658	America/Regina	2024-05-17
+5920264	Charlotte County	Charlotte County		45.16684	-66.83218	A	ADM2	CA		04	1302			0		89	America/Moncton	2014-11-06
+5920450	Chatham-Kent	Chatham-Kent	Chatam-Kent,Chatham-Kent,Municipality of Chatham-Kent,tshatam kynt  awntaryw,Чатам-Кент,تشاتام كينت، أونتاريو,کیتھم کینٹ,チャタム・ケント	42.40009	-82.1831	A	ADM2	CA		08	3536			108589		184	America/Toronto	2018-01-20
+5921051	Chesterfield No. 261	Chesterfield No. 261		51.16681	-109.50153	A	ADM2	CA		11	4708065			0		714	America/Regina	2024-05-17
+5921062	Chester No. 125	Chester No. 125		50.16674	-103.00102	A	ADM2	CA		11	4705018			0		692	America/Regina	2024-05-17
+5922074	Churchbridge No. 211	Churchbridge No. 211		50.99999	-101.83423	A	ADM2	CA		11	4705093			0		524	America/Regina	2024-05-17
+5923521	Clayton No. 333	Clayton No. 333		52.08328	-102.25093	A	ADM2	CA		11	4709067			0		542	America/Regina	2024-05-17
+5923679	Clearwater County	Clearwater County		52.27567	-115.71607	A	ADM2	CA		01	4809002			0		1417	America/Edmonton	2018-01-08
+5924053	Clinworth No. 230	Clinworth No. 230		50.8334	-109.08477	A	ADM2	CA		11	4708053			0		684	America/Regina	2024-05-17
+5924419	Coalfields No. 4	Coalfields No. 4		49.16676	-102.5842	A	ADM2	CA		11	4701016			0		570	America/Regina	2024-05-17
+5924616	Cochrane District	Cochrane District		50.00022	-82.99979	A	ADM2	CA		08	3556			0		201	America/Toronto	2018-01-20
+5924982	Colchester	Colchester	Kolchester,Колчестер	45.33345	-63.24868	A	ADM2	CA		07	1210			50000		148	America/Halifax	2019-04-12
+5925083	Coldwell	Coldwell		50.64582	-97.9026	A	ADM2	CA		03	5925083			0		263	America/Winnipeg	2017-08-18
+5926130	Colonsay No. 342	Colonsay No. 342		52.00007	-105.95118	A	ADM2	CA		11	4711076			0		531	America/Regina	2024-05-17
+5926222	Columbia-Shuswap Regional District	Columbia-Shuswap Regional District	Columbia-Shuswap,Distretto regionale di Columbia-Shuswap,District regional de Columbia-Shuswap,District régional de Columbia-Shuswap,Distrikti rajonal Kolumbia-Shuswap,ضلع کولمبیا شسواپ,コロンビア・シュスワップ地域	51.4166	-117.66895	A	ADM2	CA		02	5939			57021		2151	America/Vancouver	2025-11-07
+5926768	Connaught No. 457	Connaught No. 457		53.00005	-104.00094	A	ADM2	CA		11	4714056			0		396	America/Regina	2024-05-17
+5927911	Corman Park No. 344	Corman Park No. 344		52.00008	-106.66793	A	ADM2	CA		11	4711065			0		509	America/Regina	2024-05-17
+5928075	Cornwallis	Cornwallis		49.79722	-99.84805	A	ADM2	CA		03	5928075			0		371	America/Winnipeg	2017-08-18
+5928352	Coteau No. 255	Coteau No. 255		51.18337	-107.00128	A	ADM2	CA		11	4707067			0		622	America/Regina	2024-05-17
+5928472	Cote No. 271	Cote No. 271		51.49998	-101.83423	A	ADM2	CA		11	4709037			0		428	America/Regina	2024-05-17
+5928473	Côte-Nord	Cote-Nord	Kot-Nor,Nord-Bordio,Pet-ngan Thi-khi,Pet-ngan Thi-khî,Pivnichnij Bereg,bei an,Кот-Нор,Північний Берег,コート・ノール地域,北岸	50.86683	-65.81541	A	ADM2	CA		10	09			88525		368	America/Toronto	2025-11-06
+5928836	Coulee No. 136	Coulee No. 136		50.16676	-107.41801	A	ADM2	CA		11	4707018			0		887	America/Regina	2024-05-17
+5928928	County of Athabasca No. 12	County of Athabasca No. 12		54.73298	-113.05645	A	ADM2	CA		01	4813044			0		590	America/Edmonton	2018-01-08
+5928929	County of Barrhead No. 11	County of Barrhead No. 11		54.15235	-114.52772	A	ADM2	CA		01	4813018			0		668	America/Edmonton	2018-01-08
+5928930	County of Camrose No. 22	County of Camrose No. 22		52.90154	-112.73864	A	ADM2	CA		01	4810001			0		719	America/Edmonton	2018-01-08
+5928931	County of Forty Mile No. 8	County of Forty Mile No. 8		49.52364	-111.17308	A	ADM2	CA		01	4801008			0		860	America/Edmonton	2018-01-08
+5928932	County of Grande Prairie No. 1	County of Grande Prairie No. 1		55.27245	-119.15553	A	ADM2	CA		01	4819006			0		718	America/Edmonton	2018-01-08
+5928933	County of Lethbridge No. 26	County of Lethbridge No. 26		49.8297	-112.80406	A	ADM2	CA		01	4802011			0		892	America/Edmonton	2018-01-08
+5928934	County of Minburn No. 27	County of Minburn No. 27		53.41075	-111.65037	A	ADM2	CA		01	4810026			0		667	America/Edmonton	2018-01-08
+5928935	County of Newell No. 4	County of Newell No. 4		50.61591	-111.9449	A	ADM2	CA		01	4802031			0		756	America/Edmonton	2018-01-08
+5928936	County of Paintearth No. 18	County of Paintearth No. 18		52.21624	-111.69615	A	ADM2	CA		01	4807011			0		767	America/Edmonton	2018-01-08
+5928937	County of Stettler No. 6	County of Stettler No. 6		52.23073	-112.60079	A	ADM2	CA		01	4807019			0		835	America/Edmonton	2018-01-08
+5928938	County of St. Paul No. 19	County of St. Paul No. 19		53.93327	-111.31787	A	ADM2	CA		01	4812014			0		657	America/Edmonton	2018-01-08
+5928939	County of Thorhild No. 7	County of Thorhild No. 7		54.22436	-113.05201	A	ADM2	CA		01	4813036			0		653	America/Edmonton	2018-01-08
+5928940	County of Two Hills No. 21	County of Two Hills No. 21		53.71596	-111.52708	A	ADM2	CA		01	4810048			0		683	America/Edmonton	2018-01-08
+5928941	County of Vermilion River No. 24	County of Vermilion River No. 24		53.38156	-110.49832	A	ADM2	CA		01	4810036			0		607	America/Edmonton	2018-01-08
+5928942	County of Warner No. 5	County of Warner No. 5		49.2761	-112.11368	A	ADM2	CA		01	4802001			0		1002	America/Edmonton	2018-01-08
+5928943	County of Wetaskiwin No. 10	County of Wetaskiwin No. 10		52.97432	-114.06784	A	ADM2	CA		01	4811001			0		890	America/Edmonton	2018-01-08
+5931136	Cowichan Valley Regional District	Cowichan Valley Regional District	Cowichan Valley,Distretto regionale di Cowichan Valley,District regional de Cowichan Valley,District régional de Cowichan Valley,Distrikti rajonal Cowichan Valley,Geografiko Diamerisma Kaouison Valei,kauchinbare de yu,Γεωγραφικό Διαμέρισμα Κάουισον Βάλεϊ,ضلع کوویچن ویلی,カウチンバレー地域	48.83292	-124.21941	A	ADM2	CA		02	5919			89013		305	America/Vancouver	2025-08-21
+5931573	Craik No. 222	Craik No. 222		50.91676	-105.83448	A	ADM2	CA		11	4707091			0		604	America/Regina	2024-05-17
+5933880	Cumberland County	Cumberland County	Comte de Cumberland,Comté de Cumberland,Condado de Cumberland,Contea di Cumberland,Hrabstwo Cumberland,Kamberlend,Kontea Cumberland,Siorrachd Chumberland,shhrstan kambrlnd  nwa askwshya,Камберленд,شهرستان کامبرلند، نوا اسکوشیا	45.75015	-64.16543	A	ADM2	CA		07	1211			0		126	America/Halifax	2014-11-06
+5934034	Cupar No. 218	Cupar No. 218		50.91678	-104.25109	A	ADM2	CA		11	4706091			0		566	America/Regina	2024-05-17
+5934308	Cut Knife No. 439	Cut Knife No. 439		52.83345	-109.00144	A	ADM2	CA		11	4713096			0		598	America/Edmonton	2024-05-17
+5934399	Cymri No. 36	Cymri No. 36		49.41676	-103.4177	A	ADM2	CA		11	4702037			0		586	America/Regina	2024-05-17
+5934408	Cypress County	Cypress County		49.87316	-110.68244	A	ADM2	CA		01	4801003			7524		813	America/Edmonton	2026-03-25
+5935342	Dauphin	Dauphin		51.19581	-100.06333	A	ADM2	CA		03	5935342			0		286	America/Winnipeg	2017-08-18
+5937176	Deer Forks No. 232	Deer Forks No. 232		50.75013	-109.83489	A	ADM2	CA		11	4708061			0		716	America/Regina	2024-05-17
+5938127	De Salaberry	De Salaberry		49.39999	-97.00894	A	ADM2	CA		03	5938127			0		239	America/Winnipeg	2017-08-18
+5939237	Digby County	Digby County		44.36685	-65.69884	A	ADM2	CA		07	1203			0		139	America/Halifax	2019-01-25
+5942179	Douglas No. 436	Douglas No. 436		52.83343	-107.75128	A	ADM2	CA		11	4716023			0		607	America/Regina	2024-05-17
+5943332	Duck Lake No. 463	Duck Lake No. 463		53.00008	-106.16779	A	ADM2	CA		11	4715061			0		498	America/Regina	2024-05-17
+5943542	Dufferin County	Dufferin County		44.0834	-80.24968	A	ADM2	CA		08	3522			0		496	America/Toronto	2018-01-20
+5943543	Dufferin	Dufferin		49.5264	-98.07405	A	ADM2	CA		03	5943543			0		273	America/Winnipeg	2017-08-18
+5943557	Dufferin No. 190	Dufferin No. 190		50.66677	-105.33444	A	ADM2	CA		11	4706059			0		569	America/Regina	2024-05-17
+5944015	Dundurn No. 314	Dundurn No. 314		51.83338	-106.58453	A	ADM2	CA		11	4711061			0		522	America/Regina	2024-05-17
+5944369	Durham	Durham		44.20012	-78.99957	A	ADM2	CA		08	3518			608124		288	America/Toronto	2018-01-20
+5944716	Eagle Creek No. 376	Eagle Creek No. 376		52.25011	-107.50129	A	ADM2	CA		11	4712064			0		544	America/Regina	2024-05-17
+5946153	East St. Paul	East St. Paul		49.9772	-97.01093	A	ADM2	CA		03	5946153			0		233	America/Winnipeg	2017-08-18
+5946615	Edenwold No. 158	Edenwold No. 158		50.50008	-104.33438	A	ADM2	CA		11	4706029			0		646	America/Regina	2024-05-17
+5947419	Elcapo No. 154	Elcapo No. 154		50.41673	-102.75101	A	ADM2	CA		11	4705028			0		587	America/Regina	2024-05-17
+5947459	Eldon No. 471	Eldon No. 471		53.16687	-109.30148	A	ADM2	CA		11	4717017			0		592	America/Edmonton	2024-05-17
+5947572	Elfros No. 307	Elfros No. 307		51.75002	-103.91774	A	ADM2	CA		11	4710041			0		556	America/Regina	2024-05-17
+5947587	Elgin County	Elgin County		42.50009	-81.66647	A	ADM2	CA		08	3534			0		200	America/Toronto	2018-01-20
+5948081	Elmsthorpe No. 100	Elmsthorpe No. 100		49.91677	-105.00111	A	ADM2	CA		11	4702061			0		635	America/Regina	2024-05-17
+5948173	Elton	Elton		49.97472	-99.83586	A	ADM2	CA		03	5948173			0		435	America/Winnipeg	2017-08-18
+5948553	Emerald No. 277	Emerald No. 277		51.50005	-103.91775	A	ADM2	CA		11	4710031			0		631	America/Regina	2024-05-17
+5948808	Enfield No. 194	Enfield No. 194		50.66676	-106.58454	A	ADM2	CA		11	4707053			0		635	America/Regina	2024-05-17
+5948978	Enniskillen No. 3	Enniskillen No. 3		49.16675	-102.16759	A	ADM2	CA		11	4701011			0		552	America/Regina	2024-05-17
+5949039	Enterprise No. 142	Enterprise No. 142		50.33341	-109.83487	A	ADM2	CA		11	4708021			0		791	America/Regina	2024-05-17
+5949533	Essex County	Essex County		42.16678	-82.83313	A	ADM2	CA		08	3537			0		196	America/Toronto	2018-01-20
+5949573	Estevan No. 5	Estevan No. 5		49.16677	-103.00092	A	ADM2	CA		11	4701022			0		575	America/Regina	2024-05-17
+5949621	Estrie	Estrie	Ehstri,Estri,Estrio,ai di de qu,esutori de yu,Естрі,Эстри,エストリー地域,艾第地區	45.48338	-71.66577	A	ADM2	CA		10	05			0		191	America/Toronto	2008-03-23
+5950217	Ethelbert	Ethelbert		51.5292	-100.49397	A	ADM2	CA		03	5950217			0		390	America/Winnipeg	2019-09-17
+5950660	Excel No. 71	Excel No. 71		49.66676	-105.41781	A	ADM2	CA		11	4703029			0		720	America/Regina	2024-05-17
+5950666	Excelsior No. 166	Excelsior No. 166		50.50006	-107.50132	A	ADM2	CA		11	4707021			0		759	America/Regina	2024-05-17
+5950763	Eyebrow No. 193	Eyebrow No. 193		50.66676	-106.25121	A	ADM2	CA		11	4707047			0		604	America/Regina	2024-05-17
+5950769	Eye Hill No. 382	Eye Hill No. 382		52.25014	-109.75153	A	ADM2	CA		11	4713049			0		722	America/Regina	2024-05-17
+5952333	Fermeuse	Fermeuse		46.98319	-52.96477	A	ADM2	CA		05	1001136			0		28	America/St_Johns	2024-05-17
+5952465	Fertile Belt No. 183	Fertile Belt No. 183		50.75001	-102.16766	A	ADM2	CA		11	4705051			0		526	America/Regina	2024-05-17
+5952466	Fertile Valley No. 285	Fertile Valley No. 285		51.41678	-107.16799	A	ADM2	CA		11	4712020			0		604	America/Regina	2024-05-17
+5952705	Fillmore No. 96	Fillmore No. 96		49.91674	-103.41776	A	ADM2	CA		11	4702076			0		627	America/Regina	2024-05-17
+5953371	Fish Creek No. 402	Fish Creek No. 402		52.583	-105.912	A	ADM2	CA		11	4715036			0		511	America/Regina	2025-08-12
+5953379	Fisher	Fisher		51.07501	-97.58398	A	ADM2	CA		03	5953379			0		247	America/Winnipeg	2017-08-18
+5954111	Flagstaff County	Flagstaff County		52.66794	-111.79484	A	ADM2	CA		01	4807031			0		704	America/Edmonton	2018-01-08
+5954682	Flett's Springs No. 429	Flett's Springs No. 429		52.83333	-104.75098	A	ADM2	CA		11	4715051			0		455	America/Regina	2024-05-17
+5955087	Foam Lake No. 276	Foam Lake No. 276		51.50002	-103.50101	A	ADM2	CA		11	4710036			0		627	America/Regina	2024-05-17
+5957176	Fox Valley No. 171	Fox Valley No. 171		50.4168	-109.50152	A	ADM2	CA		11	4708024			0		708	America/Regina	2024-05-17
+5957327	Francis No. 127	Francis No. 127		50.25006	-103.83437	A	ADM2	CA		11	4706004			0		656	America/Regina	2024-05-17
+5957659	Fraser Valley Regional District	Fraser Valley Regional District	Distretto regionale di Fraser Valley,District regional de Fraser Valley,District régional de Fraser Valley,Distrikti rajonal Fraser Valley,Fraser Valley,Fraser Valley Regional District,fei sha he gu qu yu ju,fureizabare de yu,ضلع فراسر ویلی,フレイザーバレー地域,菲沙河谷區域局	49.58299	-121.83587	A	ADM2	CA		02	5909			277000		35	America/Vancouver	2013-04-22
+5957993	Frenchman Butte No. 501	Frenchman Butte No. 501		53.58348	-109.50151	A	ADM2	CA		11	4717032			0		538	America/Regina	2024-05-17
+5958506	Frontenac County	Frontenac County		44.66682	-76.74941	A	ADM2	CA		08	3510			0		203	America/Toronto	2018-01-20
+5958521	Frontier No. 19	Frontier No. 19		49.16673	-108.5847	A	ADM2	CA		11	4704011			0		899	America/Regina	2024-05-17
+5959531	Garden River No. 490	Garden River No. 490		53.33338	-105.33428	A	ADM2	CA		11	4715079			0		471	America/Regina	2024-05-17
+5959792	Garry No. 245	Garry No. 245		51.25	-103.00098	A	ADM2	CA		11	4709019			0		580	America/Regina	2024-05-17
+5961067	Gilbert Plains	Gilbert Plains		51.1833	-100.41755	A	ADM2	CA		03	5961067			0		385	America/Winnipeg	2019-09-17
+5961416	Gimli	Gimli		50.66672	-97.05066	A	ADM2	CA		03	5961416			0		238	America/Winnipeg	2017-08-18
+5961831	Glen Bain No. 105	Glen Bain No. 105		49.91676	-107.00127	A	ADM2	CA		11	4703064			0		723	America/Regina	2024-05-17
+5962008	Glen McPherson No. 46	Glen McPherson No. 46		49.41675	-107.41798	A	ADM2	CA		11	4703016			0		905	America/Regina	2024-05-17
+5962086	Glenside No. 377	Glenside No. 377		52.33341	-107.91803	A	ADM2	CA		11	4712069			0		731	America/Regina	2024-05-17
+5962652	Golden West No. 95	Golden West No. 95		49.91674	-103.00102	A	ADM2	CA		11	4701069			0		630	America/Regina	2024-05-17
+5962918	Good Lake No. 274	Good Lake No. 274		51.49999	-102.66766	A	ADM2	CA		11	4709029			0		493	America/Regina	2024-05-17
+5964094	Grahamdale	Grahamdale		51.375	-98.54244	A	ADM2	CA		03	5964094			0		249	America/Winnipeg	2017-08-18
+5964715	Grandview	Grandview		51.2	-100.81337	A	ADM2	CA		03	5964715			0		471	America/Winnipeg	2019-09-17
+5964729	Grandview No. 349	Grandview No. 349		52.00011	-108.66814	A	ADM2	CA		11	4713032			0		668	America/Regina	2024-05-17
+5964958	Grant No. 372	Grant No. 372		52.31896	-105.98645	A	ADM2	CA		11	4715014			0		554	America/Regina	2024-05-19
+5965134	Grass Lake No. 381	Grass Lake No. 381		52.25013	-109.33479	A	ADM2	CA		11	4713056			0		677	America/Regina	2024-05-17
+5965193	Grassy Creek No. 78	Grassy Creek No. 78		49.58335	-108.16807	A	ADM2	CA		11	4704034			0		949	America/Regina	2024-05-17
+5965464	Gravelbourg No. 104	Gravelbourg No. 104		49.91676	-106.58453	A	ADM2	CA		11	4703068			0		697	America/Regina	2024-05-17
+5965714	Grayson No. 184	Grayson No. 184		50.75001	-102.58429	A	ADM2	CA		11	4705057			0		536	America/Regina	2024-05-17
+5965764	Great Bend No. 405	Great Bend No. 405		52.50011	-107.16793	A	ADM2	CA		11	4716008			0		536	America/Regina	2024-05-17
+5965814	Metro Vancouver Regional District	Metro Vancouver Regional District	Greater Vancouver Regional District	49.33296	-123.00264	A	ADM2	CA		02	5915			3108926		139	America/Vancouver	2025-08-21
+5966925	Grey County	Grey County	Comte de Grey,Comté de Grey,Condado de Grey,Contea di Grey,Grej,Grey Kaundi,Hrabstwo Grey,Kontea Grey,ge lei xian,gurei jun,shhrstan gry  antaryw,Грей,شهرستان گری، انتاریو,گرے کاؤنٹی،اونٹاریو,グレイ郡,格雷縣	44.33339	-80.74972	A	ADM2	CA		08	3542			0		407	America/Toronto	2018-01-20
+5966926	Grey	Grey		49.71111	-98.07573	A	ADM2	CA		03	5966926			0		268	America/Winnipeg	2017-08-18
+5967071	Griffin No. 66	Griffin No. 66		49.66675	-103.41774	A	ADM2	CA		11	4702042			0		604	America/Regina	2024-05-17
+5967996	Gull Lake No. 139	Gull Lake No. 139		50.16677	-108.66812	A	ADM2	CA		11	4708009			0		760	America/Regina	2024-05-17
+5968620	Guysborough County	Guysborough County	Comte de Guysborough,Comté de Guysborough,Contea di Guysborough,Gajsboro,Hrabstwo Guysborough,Kontea Guysborough,Siorrachd Mainisdear,Siorrachd a Mhainisdeir,Гайсборо	45.38345	-61.49854	A	ADM2	CA		07	1213			0		22	America/Halifax	2019-01-25
+5969093	Haldimand County	Haldimand County		42.98341	-79.86633	A	ADM2	CA		08	3528			45212		188	America/Toronto	2018-01-20
+5969392	Haliburton County	Haliburton County		45.16682	-78.49955	A	ADM2	CA		08	3546			0		388	America/Toronto	2018-01-20
+5969424	Halifax Regional Municipality	Halifax Regional Municipality	Galifaks,HRM,Halifax,Halifax Regional Municipality,Siorrachd Halafacs,shhrstan halyfaks  nwa askwshya,Галифакс,شهرستان هالیفاکس، نوا اسکوشیا	44.86685	-63.71541	A	ADM2	CA		07	1209			439819		122	America/Halifax	2025-11-07
+5969719	Halton	Halton	Halton	43.50011	-79.88294	A	ADM2	CA		08	3524			500000		194	America/Toronto	2018-01-20
+5969784	Hamilton	Hamilton		43.25521	-79.93103	A	ADM2	CA		08	3525			0		104	America/Toronto	2018-01-20
+5969882	Hamiota	Hamiota		50.16501	-100.59669	A	ADM2	CA		03	5969882			0		519	America/Winnipeg	2019-09-17
+5970302	Hanover	Hanover		49.46669	-96.83392	A	ADM2	CA		03	5970302			0		261	America/Winnipeg	2017-08-18
+5970408	Hants	Hants		45.03345	-63.86542	A	ADM2	CA		07	1208			0		113	America/Halifax	2019-01-25
+5970447	Happyland No. 231	Happyland No. 231		50.75012	-109.58485	A	ADM2	CA		11	4708056			0		699	America/Regina	2024-05-17
+5970459	Happy Valley No. 10	Happy Valley No. 10		49.16676	-105.08438	A	ADM2	CA		11	4702018			0		808	America/Regina	2024-05-17
+5971347	Harris No. 316	Harris No. 316		51.75009	-107.46801	A	ADM2	CA		11	4712029			0		542	America/Regina	2024-05-17
+5971544	Hart Butte No. 11	Hart Butte No. 11		49.16676	-105.4178	A	ADM2	CA		11	4703001			0		832	America/Regina	2024-05-17
+5971841	Hastings County	Hastings County		44.75013	-77.66619	A	ADM2	CA		08	3512			0		314	America/Toronto	2018-01-20
+5972866	Hazel Dell No. 335	Hazel Dell No. 335		52.08328	-103.00097	A	ADM2	CA		11	4709060			0		605	America/Regina	2024-05-17
+5972913	Hazelwood No. 94	Hazelwood No. 94		49.91674	-102.66769	A	ADM2	CA		11	4701072			0		739	America/Regina	2024-05-17
+5972962	Headingley	Headingley		49.8697	-97.38626	A	ADM2	CA		03	5972962			0		237	America/Winnipeg	2017-08-18
+5973189	Heart's Hill No. 352	Heart's Hill No. 352		52.00013	-109.75154	A	ADM2	CA		11	4713046			0		717	America/Regina	2024-05-17
+5975305	Hillsborough No. 132	Hillsborough No. 132		50.16676	-105.83446	A	ADM2	CA		11	4707004			0		687	America/Regina	2024-05-17
+5975316	Hillsdale No. 440	Hillsdale No. 440		52.83345	-109.33477	A	ADM2	CA		11	4713092			0		659	America/Edmonton	2024-05-17
+5976616	Hoodoo No. 401	Hoodoo No. 401		52.58336	-105.58439	A	ADM2	CA		11	4715039			0		536	America/Regina	2024-05-17
+5978149	Hudson Bay No. 394	Hudson Bay No. 394		52.98335	-102.21764	A	ADM2	CA		11	4714001			0		319	America/Regina	2024-05-17
+5978409	Humboldt No. 370	Humboldt No. 370		52.25005	-105.1678	A	ADM2	CA		11	4715007			0		540	America/Regina	2024-05-17
+5978829	Huron County	Huron County		43.66679	-81.49977	A	ADM2	CA		08	3540			0		293	America/Toronto	2018-01-20
+5978840	Huron No. 223	Huron No. 223		51.00006	-106.25122	A	ADM2	CA		11	4707076			0		559	America/Regina	2024-05-17
+5982630	Improvement District No. 12	Improvement District No. 12		52.73297	-117.58667	A	ADM2	CA		01	4815037			0		2384	America/Edmonton	2018-01-16
+5982631	Improvement District No. 13	Improvement District No. 13		53.59954	-112.87756	A	ADM2	CA		01	4810068			0		712	America/Edmonton	2018-01-13
+5982632	Improvement District No. 24	Improvement District No. 24		59.03353	-113.3189	A	ADM2	CA		01	4816051			0		252	America/Edmonton	2018-01-13
+5982633	Improvement District No. 25	Improvement District No. 25		53.67503	-119.13862	A	ADM2	CA		01	4814028			0		1487	America/Edmonton	2018-01-13
+5982634	Improvement District No. 4	Improvement District No. 4		49.08685	-113.89773	A	ADM2	CA		01	4803003			0		1362	America/Edmonton	2021-11-15
+5982635	Improvement District No. 9	Improvement District No. 9		51.5681	-116.07159	A	ADM2	CA		01	4815032			0		2984	America/Edmonton	2018-01-13
+5982846	Indian Head No. 156	Indian Head No. 156		50.50006	-103.58435	A	ADM2	CA		11	4706038			0		605	America/Regina	2024-05-17
+5983521	Insinger No. 275	Insinger No. 275		51.49999	-103.00097	A	ADM2	CA		11	4709023			0		528	America/Regina	2024-05-17
+5983615	Invergordon No. 430	Invergordon No. 430		52.83335	-105.25103	A	ADM2	CA		11	4715054			0		480	America/Regina	2024-05-17
+5983625	Invermay No. 305	Invermay No. 305	Invermay No. 305,RM of Invermay	51.74999	-103.15281	A	ADM2	CA		11	4709054			379	498	541	America/Regina	2024-05-17
+5983629	Inverness County	Inverness County	Braigh na h-Aibhneadh,Bráigh na h-Aibhneadh,Comte d'Inverness,Comté d'Inverness,Contea di Inverness,Hrabstwo Inverness,Inverness,Kontea Inverness,Siorrachd Inbhir Nis,Інвернесс,Инвернесс	46.33344	-61.0818	A	ADM2	CA		07	1215			17346		20	America/Halifax	2026-02-07
+5984800	Ituna Bon Accord No. 246	Ituna Bon Accord No. 246		51.25003	-103.50103	A	ADM2	CA		11	4710003			0		670	America/Regina	2024-05-17
+5985919	Jasper	Jasper		52.89312	-118.17458	A	ADM2	CA		01	4815033			4738		1423	America/Edmonton	2022-03-10
+5989103	Kananaskis Improvement District	Kananaskis Improvement District		50.70287	-114.8792	A	ADM2	CA		01	4815013			0		1807	America/Edmonton	2018-01-13
+5989818	Kawartha Lakes	Kawartha Lakes		44.58342	-78.83288	A	ADM2	CA		08	3516			74561		265	America/Toronto	2018-01-20
+5990433	Kellross No. 247	Kellross No. 247		51.25008	-103.91777	A	ADM2	CA		11	4710008			0		666	America/Regina	2024-05-17
+5990627	Kelsey	Kelsey		54.15841	-101.37581	A	ADM2	CA		03	5990627			0		277	America/Winnipeg	2017-08-18
+5990670	Kelvington No. 366	Kelvington No. 366		52.24999	-103.50099	A	ADM2	CA		11	4714021			0		603	America/Regina	2024-05-17
+5991054	Kenora District	Kenora District	Kenora District	54.00015	-87.99992	A	ADM2	CA		08	3560			0		133	America/Toronto	2018-01-20
+5991094	Kent County	Kent County		46.58343	-65.24875	A	ADM2	CA		04	1308			0		74	America/Moncton	2014-11-06
+5991581	Keys No. 303	Keys No. 303		51.74998	-102.25094	A	ADM2	CA		11	4709046			0		480	America/Regina	2024-05-17
+5991597	Key West No. 70	Key West No. 70		49.66677	-105.0011	A	ADM2	CA		11	4702057			0		725	America/Regina	2024-05-17
+5992159	Kindersley No. 290	Kindersley No. 290		51.50011	-109.16818	A	ADM2	CA		11	4713006			0		683	America/Regina	2024-05-17
+5992278	King George No. 256	King George No. 256		51.18338	-107.41801	A	ADM2	CA		11	4707066			0		692	America/Regina	2024-05-17
+5992375	Kings County	Kings County		46.2501	-62.49864	A	ADM2	CA		09	1101			0		16	America/Halifax	2014-11-06
+5992377	Kings County	Kings County	Comte de Kings,Comté de Kings,Condado de Kings,Contea di Kings,Hrabstwo Kings,Kings,Kontea Kings,Siorrachd an Righ,Siorrachd an Rìgh,jin si xian,shhrstan kyngz  nwa askwshya,Кингс,Кінгс,شهرستان کینگز، نوا اسکوشیا,金斯县	45.03345	-64.66547	A	ADM2	CA		07	1207			0		52	America/Halifax	2014-11-06
+5992378	Kings County	Kings County	Comte de Kings,Comté de Kings,Contae Kings,Contea di Kings,Hrabstwo Kings,Kings,Kontea Kings,kingusu jun,Кингс,کنگز کاؤنٹی،نیو برونسوک,キングス郡	45.66685	-65.74884	A	ADM2	CA		04	1305			0		103	America/Moncton	2014-11-06
+5992461	Kingsley No. 124	Kingsley No. 124		50.16673	-102.5843	A	ADM2	CA		11	4705014			0		660	America/Regina	2024-05-17
+5992556	Kinistino No. 459	Kinistino No. 459		53.00004	-104.91768	A	ADM2	CA		11	4715071			0		441	America/Regina	2024-05-17
+5993556	Kneehill County	Kneehill County		51.66342	-113.26582	A	ADM2	CA		01	4805041			0		852	America/Edmonton	2018-01-08
+5994865	La Broquerie	La Broquerie		49.48923	-96.51803	A	ADM2	CA		03	5994865			0		287	America/Winnipeg	2019-09-20
+5995270	Lacadena No. 228	Lacadena No. 228		50.83338	-108.16809	A	ADM2	CA		11	4708042			0		642	America/Regina	2024-05-17
+6014442	Lac du Bonnet	Lac du Bonnet		50.25	-96.16807	A	ADM2	CA		03	6014442			0		261	America/Winnipeg	2017-08-18
+6035617	Lacombe County	Lacombe County		52.44871	-113.7245	A	ADM2	CA		01	4808022			0		846	America/Edmonton	2018-01-08
+6037001	Lac Pelletier No. 107	Lac Pelletier No. 107		49.91676	-107.83465	A	ADM2	CA		11	4704061			0		882	America/Regina	2024-05-17
+6043472	Lac Ste. Anne County	Lac Ste. Anne County		53.84654	-114.69713	A	ADM2	CA		01	4813001			0		709	America/Edmonton	2018-01-08
+6048207	Laird No. 404	Laird No. 404		52.5834	-106.66788	A	ADM2	CA		11	4715026			0		538	America/Regina	2024-05-17
+6048233	Lajord No. 128	Lajord No. 128		50.16677	-104.2511	A	ADM2	CA		11	4706011			0		575	America/Regina	2024-05-17
+6048250	Lake Alma No. 8	Lake Alma No. 8		49.16676	-104.25102	A	ADM2	CA		11	4702011			0		694	America/Regina	2024-05-17
+6048439	Lake Johnston No. 102	Lake Johnston No. 102		49.91676	-105.83445	A	ADM2	CA		11	4703093			0		705	America/Regina	2024-05-17
+6048460	Lakeland No. 521	Lakeland No. 521		53.6668	-105.9843	A	ADM2	CA		11	4715075			0		520	America/Regina	2024-05-17
+6048473	Lake Lenore No. 399	Lake Lenore No. 399		52.50003	-104.75104	A	ADM2	CA		11	4715048			0		553	America/Regina	2024-05-17
+6048581	Lake of The Rivers No. 72	Lake of The Rivers No. 72		49.66676	-105.83445	A	ADM2	CA		11	4703034			0		669	America/Regina	2024-05-17
+6048685	Lakeside No. 338	Lakeside No. 338		52.00002	-104.33436	A	ADM2	CA		11	4710061			0		516	America/Regina	2024-05-17
+6048791	Lakeview No. 337	Lakeview No. 337		52	-103.91773	A	ADM2	CA		11	4710066			0		533	America/Regina	2024-05-17
+6049019	Lambton County	Lambton County		42.75008	-82.08311	A	ADM2	CA		08	3538			0		201	America/Toronto	2018-01-20
+6049063	Lamont County	Lamont County		53.74871	-112.47803	A	ADM2	CA		01	4810058			0		673	America/Edmonton	2018-01-13
+6049130	Lanark County	Lanark County		45.08341	-76.33269	A	ADM2	CA		08	3509			0		155	America/Toronto	2018-01-20
+6049141	Lanaudière	Lanaudiere		46.76678	-73.83248	A	ADM2	CA		10	14			494796		350	America/Toronto	2025-11-07
+6049380	Langenburg No. 181	Langenburg No. 181		50.75	-101.75093	A	ADM2	CA		11	4705047			0		509	America/Regina	2024-05-17
+6050316	Last Mountain Valley No. 250	Last Mountain Valley No. 250		51.25008	-105.00115	A	ADM2	CA		11	4711003			0		532	America/Regina	2024-05-17
+6050541	Laurentides	Laurentides	Laurentidio,Laurentidit,Lavrentijskaja vozvyshennost',Laŭrentidio,Lorantidi,luo lang di,rorentiddo de yu,Лаврентийская возвышенность,Лорантиди,ローレンティッド地域,洛朗第	46.4334	-74.98257	A	ADM2	CA		10	15			0		245	America/Toronto	2008-03-23
+6050581	Laurier No. 38	Laurier No. 38		49.41676	-104.16776	A	ADM2	CA		11	4702029			0		623	America/Regina	2024-05-17
+6050612	Laval	Laval		45.58338	-73.74918	A	ADM2	CA		10	13			443893		42	America/Toronto	2025-11-07
+6050932	Lawtonia No. 135	Lawtonia No. 135		50.16676	-107.00127	A	ADM2	CA		11	4707014			0		750	America/Regina	2024-05-17
+6051186	Leask No. 464	Leask No. 464		53.0001	-106.83445	A	ADM2	CA		11	4716041			0		517	America/Regina	2024-05-17
+6051564	Leduc County	Leduc County		53.23573	-113.80643	A	ADM2	CA		01	4811012			14416		736	America/Edmonton	2022-11-08
+6052311	Lennox and Addington County	Lennox and Addington County		44.50012	-76.99944	A	ADM2	CA		08	3511			0		169	America/Toronto	2018-01-20
+6052702	Leroy No. 339	Leroy No. 339		52.00005	-104.7511	A	ADM2	CA		11	4710056			0		547	America/Regina	2024-05-17
+6054618	Lipton No. 217	Lipton No. 217		51.00008	-103.91777	A	ADM2	CA		11	4706096			0		615	America/Regina	2024-05-17
+6057909	Livingston No. 331	Livingston No. 331		52.08328	-101.91761	A	ADM2	CA		11	4709075			0		553	America/Regina	2024-05-17
+6058552	Lomond No. 37	Lomond No. 37		49.41676	-103.83435	A	ADM2	CA		11	4702033			0		587	America/Regina	2024-05-17
+6058724	Lone Tree No. 18	Lone Tree No. 18		49.16673	-108.16805	A	ADM2	CA		11	4704006			0		883	America/Regina	2024-05-17
+6059365	Longlaketon No. 219	Longlaketon No. 219		50.91678	-104.58441	A	ADM2	CA		11	4706070			0		568	America/Regina	2024-05-17
+6060164	Loon Lake No. 561	Loon Lake No. 561		53.9502	-109.35151	A	ADM2	CA		11	4717056			0		569	America/Regina	2024-05-17
+6060304	Loreburn No. 254	Loreburn No. 254		51.25007	-106.58455	A	ADM2	CA		11	4711018			0		611	America/Regina	2024-05-17
+6060360	Lorne	Lorne		49.41921	-98.74938	A	ADM2	CA		03	6060360			0		483	America/Winnipeg	2019-09-17
+6060616	Lost River No. 313	Lost River No. 313		51.75007	-106.16791	A	ADM2	CA		11	4711059			0		625	America/Regina	2024-05-17
+6060804	Louise	Louise		49.16311	-98.90141	A	ADM2	CA		03	6060804			0		463	America/Winnipeg	2019-09-17
+6061986	Lumsden No. 189	Lumsden No. 189		50.63339	-104.83443	A	ADM2	CA		11	4706053			0		553	America/Regina	2024-05-17
+6062070	Lunenburg County	Lunenburg County	Comte de Lunenburg,Comté de Lunenburg,Condado de Lunenburg,Contea di Lunenburg,Hrabstwo Lunenburg,Kontea Lunenburg,Lunenberg,Lunenburg Kaundi,Siorrachd Lunenburg,Луненберг	44.43345	-64.59877	A	ADM2	CA		07	1206			0		36	America/Halifax	2019-01-25
+6062676	Macdonald	Macdonald	Rural Municipality of Macdonald	49.66671	-97.50067	A	ADM2	CA		03	6062676			0		235	America/Winnipeg	2017-08-18
+6065216	Manitou Lake No. 442	Manitou Lake No. 442		52.83345	-109.75152	A	ADM2	CA		11	4713079			0		658	America/Edmonton	2024-05-17
+6065217	Manitoulin District	Manitoulin District		45.75007	-82.49985	A	ADM2	CA		08	3551			0		188	America/Toronto	2018-01-20
+6065272	Mankota No. 45	Mankota No. 45		49.41676	-107.00124	A	ADM2	CA		11	4703018			0		831	America/Regina	2024-05-17
+6065579	Maple Bush No. 224	Maple Bush No. 224		51.00006	-106.66795	A	ADM2	CA		11	4707071			0		583	America/Regina	2024-05-17
+6065594	Maple Creek No. 111	Maple Creek No. 111		49.91678	-109.50151	A	ADM2	CA		11	4704045			0		761	America/Regina	2024-05-17
+6066468	Mariposa No. 350	Mariposa No. 350		52.00012	-109.00147	A	ADM2	CA		11	4713038			0		665	America/Regina	2024-05-17
+6066716	Marquis No. 191	Marquis No. 191		50.66676	-105.75117	A	ADM2	CA		11	4707042			0		597	America/Regina	2024-05-17
+6066726	Marriott No. 317	Marriott No. 317		51.7501	-107.91805	A	ADM2	CA		11	4712034			0		598	America/Regina	2024-05-17
+6067187	Martin No. 122	Martin No. 122		50.20002	-101.83427	A	ADM2	CA		11	4705007			0		583	America/Regina	2024-05-17
+6067349	Maryfield No. 91	Maryfield No. 91		49.88331	-101.55096	A	ADM2	CA		11	4701094			0		578	America/Regina	2024-05-17
+6068167	Mauricie	Mauricie		47.55009	-73.41583	A	ADM2	CA		10	04			266112		274	America/Toronto	2025-11-07
+6068335	Mayfield No. 406	Mayfield No. 406		52.58342	-107.66798	A	ADM2	CA		11	4716005			0		567	America/Regina	2024-05-17
+6069070	McCraney No. 282	McCraney No. 282		51.50007	-105.91789	A	ADM2	CA		11	4711034			0		613	America/Regina	2024-05-17
+6069089	McCreary	McCreary		50.75002	-99.33409	A	ADM2	CA		03	6069089			0		302	America/Winnipeg	2019-09-17
+6070285	McKillop No. 220	McKillop No. 220		51.00008	-105.00114	A	ADM2	CA		11	4706071			0		535	America/Regina	2024-05-17
+6070692	McLeod No. 185	McLeod No. 185		50.75003	-103.08431	A	ADM2	CA		11	4705063			0		620	America/Regina	2024-05-17
+6071434	Meadow Lake No. 588	Meadow Lake No. 588		54.01688	-108.31808	A	ADM2	CA		11	4717054			0		541	America/Regina	2024-05-17
+6071661	Medstead No. 497	Medstead No. 497		53.33345	-108.0013	A	ADM2	CA		11	4716062			0		700	America/Regina	2024-05-17
+6071733	Meeting Lake No. 466	Meeting Lake No. 466		53.00011	-107.3345	A	ADM2	CA		11	4716038			0		746	America/Regina	2024-05-17
+6072151	Meota No. 468	Meota No. 468		53.00015	-108.41807	A	ADM2	CA		11	4717001			0		534	America/Regina	2024-05-17
+6072399	Mervin No. 499	Mervin No. 499		53.41688	-108.91813	A	ADM2	CA		11	4717045			0		641	America/Regina	2024-05-17
+6073256	Middlesex County	Middlesex County		43.00009	-81.41646	A	ADM2	CA		08	3539			0		278	America/Toronto	2018-01-20
+6073560	Milden No. 286	Milden No. 286		51.41679	-107.53462	A	ADM2	CA		11	4712011			0		577	America/Regina	2024-05-17
+6074393	Milton No. 292	Milton No. 292		51.50012	-109.75155	A	ADM2	CA		11	4713011			0		685	America/Regina	2024-05-17
+6075152	Miry Creek No. 229	Miry Creek No. 229		50.75009	-108.75143	A	ADM2	CA		11	4708046			0		675	America/Regina	2024-05-17
+6076237	Monet No. 257	Monet No. 257		51.2501	-108.00137	A	ADM2	CA		11	4708092			0		610	America/Regina	2024-05-17
+6076808	Montcalm	Montcalm		49.16499	-97.34008	A	ADM2	CA		03	6076808			0		240	America/Winnipeg	2017-08-18
+6076966	Montérégie	Monteregie		45.38338	-73.09915	A	ADM2	CA		10	16			1507070		46	America/Toronto	2025-11-07
+6077158	Montmartre No. 126	Montmartre No. 126		50.16674	-103.41775	A	ADM2	CA		11	4706001			0		656	America/Regina	2024-05-17
+6077246	Montréal	Montreal		45.50008	-73.68248	A	ADM2	CA		10	06			2004265		38	America/Toronto	2025-11-07
+6077302	Montrose No. 315	Montrose No. 315		51.75008	-107.00128	A	ADM2	CA		11	4712026			0		530	America/Regina	2024-05-17
+6077980	Moose Creek No. 33	Moose Creek No. 33		49.41674	-102.16762	A	ADM2	CA		11	4701036			0		560	America/Regina	2024-05-17
+6078115	Moose Jaw No. 161	Moose Jaw No. 161		50.44743	-105.5117	A	ADM2	CA		11	4707038			0		567	America/Regina	2024-05-19
+6078251	Moose Mountain No. 63	Moose Mountain No. 63		49.66673	-102.16766	A	ADM2	CA		11	4701053			0		662	America/Regina	2024-05-17
+6078303	Moose Range No. 486	Moose Range No. 486		53.33337	-103.33422	A	ADM2	CA		11	4714067			0		335	America/Regina	2024-05-17
+6078369	Moosomin No. 121	Moosomin No. 121		50.20001	-101.58425	A	ADM2	CA		11	4705001			0		530	America/Regina	2024-05-17
+6078726	Morris	Morris		49.4	-97.45898	A	ADM2	CA		03	6078726			0		233	America/Winnipeg	2017-08-18
+6078789	Morris No. 312	Morris No. 312		51.75007	-105.83449	A	ADM2	CA		11	4711052			0		543	America/Regina	2024-05-17
+6078964	Morse No. 165	Morse No. 165		50.41677	-107.00127	A	ADM2	CA		11	4707024			0		705	America/Regina	2024-05-17
+6079284	Mossey River	Mossey River		51.66671	-100.00084	A	ADM2	CA		03	6079284			0		262	America/Winnipeg	2017-08-18
+6079662	Mountain View County	Mountain View County		51.67871	-114.2387	A	ADM2	CA		01	4806028			0		1058	America/Edmonton	2018-01-08
+6079663	Mountain View No. 318	Mountain View No. 318		51.7501	-108.3347	A	ADM2	CA		11	4712038			0		651	America/Regina	2024-05-17
+6081198	Mount Hope No. 279	Mount Hope No. 279		51.50007	-104.75112	A	ADM2	CA		11	4710024			0		530	America/Regina	2024-05-17
+6082326	Mount Pleasant No. 2	Mount Pleasant No. 2		49.16674	-101.83418	A	ADM2	CA		11	4701006			0		526	America/Regina	2024-05-17
+6084201	Municipal District of Acadia No. 34	Municipal District of Acadia No. 34		51.09573	-110.21553	A	ADM2	CA		01	4804001			0		723	America/Edmonton	2018-01-08
+6084202	Municipal District of Bighorn No. 8	Municipal District of Bighorn No. 8		51.35819	-115.08094	A	ADM2	CA		01	4815015			0		1579	America/Edmonton	2018-01-08
+6084203	Municipal District of Big Lakes No. 125	Municipal District of Big Lakes No. 125		55.287	-116.00353	A	ADM2	CA		01	4817027			0		717	America/Edmonton	2018-01-08
+6084204	Municipal District of Bonnyville No. 87	Municipal District of Bonnyville No. 87		54.25154	-110.75315	A	ADM2	CA		01	4812004			0		544	America/Edmonton	2018-01-08
+6084205	Municipal District of Clear Hills No. 21	Municipal District of Clear Hills No. 21		56.76943	-119.04008	A	ADM2	CA		01	4817062			0		995	America/Edmonton	2018-01-08
+6084206	Municipal District of Fairview No. 136	Municipal District of Fairview No. 136		56.02925	-118.45496	A	ADM2	CA		01	4819066			0		611	America/Edmonton	2018-01-08
+6084207	Municipal District of Foothills No. 31	Municipal District of Foothills No. 31		50.61571	-114.02618	A	ADM2	CA		01	4806001			0		1122	America/Edmonton	2018-01-08
+6084208	Municipal District of Greenview No. 16	Municipal District of Greenview No. 16		54.62502	-118.00255	A	ADM2	CA		01	4818015			0		919	America/Edmonton	2018-01-08
+6084209	Municipal District of Lesser Slave River No. 124	Municipal District of Lesser Slave River No. 124		55.22875	-114.33691	A	ADM2	CA		01	4817033			0		594	America/Edmonton	2018-01-08
+6084210	Municipal District of Northern Lights No. 22	Municipal District of Northern Lights No. 22		57.46822	-118.00252	A	ADM2	CA		01	4817076			0		687	America/Edmonton	2018-01-08
+6084211	Municipal District of Opportunity No. 17	Municipal District of Opportunity No. 17		56.24691	-113.79469	A	ADM2	CA		01	4817031			0		552	America/Edmonton	2018-01-08
+6084212	Municipal District of Peace No. 135	Municipal District of Peace No. 135		56.13068	-117.75491	A	ADM2	CA		01	4819071			0		643	America/Edmonton	2018-01-08
+6084213	Municipal District of Pincher Creek No. 9	Municipal District of Pincher Creek No. 9		49.47999	-114.04695	A	ADM2	CA		01	4803011			0		1229	America/Edmonton	2018-01-08
+6084214	Municipal District of Provost No. 52	Municipal District of Provost No. 52		52.40483	-110.62992	A	ADM2	CA		01	4807001			0		688	America/Edmonton	2018-01-08
+6084215	Municipal District of Ranchland No. 66	Municipal District of Ranchland No. 66		49.93226	-114.41198	A	ADM2	CA		01	4815045			0		1601	America/Edmonton	2018-01-08
+6084216	Municipal District of Rocky View No. 44	Municipal District of Rocky View No. 44		51.23269	-114.25232	A	ADM2	CA		01	4806014			0		1180	America/Edmonton	2018-01-13
+6084217	Municipal District of Smoky River No. 130	Municipal District of Smoky River No. 130		55.65068	-117.18511	A	ADM2	CA		01	4819041			0		574	America/Edmonton	2018-01-08
+6084218	Municipal District of Spirit River No. 133	Municipal District of Spirit River No. 133		55.76669	-118.51665	A	ADM2	CA		01	4819054			0		575	America/Edmonton	2018-01-08
+6084219	Municipal District of Taber	Municipal District of Taber		49.93146	-112.05291	A	ADM2	CA		01	4802021			0		782	America/Edmonton	2018-01-08
+6084220	Municipal District of Wainwright No. 61	Municipal District of Wainwright No. 61		52.84325	-110.70582	A	ADM2	CA		01	4807049			0		669	America/Edmonton	2018-01-08
+6084221	Westlock County	Westlock County	Municipal District of Westlock No. 92	54.25346	-113.85146	A	ADM2	CA		01	4813028			0		639	America/Edmonton	2025-10-07
+6084222	Municipal District of Willow Creek No. 26	Municipal District of Willow Creek No. 26		49.96082	-113.64225	A	ADM2	CA		01	4803018			0		989	America/Edmonton	2018-01-08
+6084939	District Municipality of Muskoka	District Municipality of Muskoka	YQA	45.16681	-79.49964	A	ADM2	CA		08	3544			0		261	America/Toronto	2018-01-20
+6087497	Newcombe No. 260	Newcombe No. 260		51.1668	-109.16818	A	ADM2	CA		11	4708071			0		683	America/Regina	2024-05-17
+6087883	Regional Municipality of Niagara	Regional Municipality of Niagara	Municipalidade Regional de Niagara,Municipalita Regionale di Niagara,Municipalite regionale de Niagara,Municipalità Regionale di Niagara,Municipalité régionale de Niagara,Niagara,Region Niagara,naiagala,naiagala jibangjachigu,naiagara de yu,ni ya jia la qu,Ніагара,אזור ניאגרה,علاقائی بلدیہ نیاگرا,ნიაგარის რეგიონალური მუნიციპალიტეტი,ナイアガラ地域,尼亞加拉區,나이아가라,나이아가라 지방자치구	43.00012	-79.24958	A	ADM2	CA		08	3526			0		188	America/Toronto	2018-01-20
+6088473	Nipawin No. 487	Nipawin No. 487		53.25007	-104.33424	A	ADM2	CA		11	4714072			0		401	America/Regina	2024-05-17
+6088501	Nipissing District	Nipissing District		46.0001	-78.99959	A	ADM2	CA		08	3548			0		341	America/Toronto	2018-01-20
+6089405	North Battleford No. 437	North Battleford No. 437		52.83344	-108.08464	A	ADM2	CA		11	4716028			0		563	America/Regina	2024-05-17
+6089985	Northern Sunrise County	Northern Sunrise County		56.63911	-116.077	A	ADM2	CA		01	4817026			0		715	America/Edmonton	2018-01-08
+6090358	North Norfolk	North Norfolk		49.91642	-98.83998	A	ADM2	CA		03	6090358			0		312	America/Winnipeg	2019-09-17
+6090476	North Qu'Appelle No. 187	North Qu'Appelle No. 187		50.75007	-103.91774	A	ADM2	CA		11	4706048			0		580	America/Regina	2024-05-17
+6090771	Northumberland County	Northumberland County	Comte de Northumberland,Comté de Northumberland,Condado de Northumberland,Contea di Northumberland,Hrabstwo Northumberland,Kontea Northumberland,Nortamberlend,nosanbarando jun,Нортамберленд,نارتھمبرلینڈ کاؤنٹی،نیو برونسوک,ノーサンバーランド郡	46.9168	-65.99877	A	ADM2	CA		04	1309			0		69	America/Moncton	2014-11-06
+6090772	Northumberland County	Northumberland County		44.16682	-77.99951	A	ADM2	CA		08	3514			0		198	America/Toronto	2018-01-20
+6091126	Norton No. 69	Norton No. 69		49.66677	-104.58439	A	ADM2	CA		11	4702052			0		649	America/Regina	2024-05-17
+6091930	Oakdale No. 320	Oakdale No. 320		51.75012	-109.2515	A	ADM2	CA		11	4713024			0		707	America/Regina	2024-05-17
+6093329	Old Post No. 43	Old Post No. 43		49.33336	-106.16787	A	ADM2	CA		11	4703011			0		835	America/Regina	2024-05-17
+6094352	Orkney No. 244	Orkney No. 244		51.25	-102.58426	A	ADM2	CA		11	4709011			0		512	America/Regina	2024-05-17
+6095306	Outaouais	Outaouais	Gatineau,Outaouais	46.26681	-76.31606	A	ADM2	CA		10	07			405158		247	America/Toronto	2025-11-07
+6095780	Oxford County	Oxford County		43.13339	-80.83301	A	ADM2	CA		08	3532			0		321	America/Toronto	2018-01-20
+6096005	Paddockwood No. 520	Paddockwood No. 520		53.65	-105.537	A	ADM2	CA		11	4715099			0		540	America/Regina	2025-08-12
+6098407	Parkdale No. 498	Parkdale No. 498		53.41687	-108.33465	A	ADM2	CA		11	4717047			0		689	America/Regina	2024-05-17
+6098589	Parkland County	Parkland County		53.48293	-114.37148	A	ADM2	CA		01	4811034			0		718	America/Edmonton	2018-01-08
+6098746	Parry Sound District	Parry Sound District		45.75011	-79.83297	A	ADM2	CA		08	3549			0		285	America/Toronto	2018-01-20
+6100008	Paynton No. 470	Paynton No. 470		53.00016	-108.91813	A	ADM2	CA		11	4717013			0		569	America/Edmonton	2024-05-17
+6100076	Peace River Regional District	Peace River Regional District	Distretto regionale di Peace River,District regional de Peace River,District régional de Peace River,Distrikti rajonal Peace River,Peace River,he ping he de qu,pisuriba de yu,ضلع پیس رور,ピースリバー地域,和平河地區	56.6665	-122.75302	A	ADM2	CA		02	5955			61532		986	America/Dawson_Creek	2025-11-06
+6100475	Peel	Peel		43.75011	-79.78293	A	ADM2	CA		08	3521			1296814		244	America/Toronto	2018-01-20
+6100811	Pembina	Pembina		49.1672	-98.48689	A	ADM2	CA		03	6100811			0		483	America/Winnipeg	2019-09-17
+6101126	Pense No. 160	Pense No. 160		50.41678	-105.00111	A	ADM2	CA		11	4706021			0		575	America/Regina	2024-05-17
+6101305	Perdue No. 346	Perdue No. 346		52.00009	-107.5013	A	ADM2	CA		11	4712050			0		545	America/Regina	2024-05-17
+6101545	Perth County	Perth County		43.50009	-81.08303	A	ADM2	CA		08	3531			0		363	America/Toronto	2018-01-20
+6101646	Peterborough County	Peterborough County		44.55012	-78.24953	A	ADM2	CA		08	3515			0		241	America/Toronto	2018-01-20
+6103962	Piapot No. 110	Piapot No. 110		49.91677	-109.08477	A	ADM2	CA		11	4704050			0		843	America/Regina	2024-05-17
+6104222	Pictou County	Pictou County	Comte de Pictou,Comté de Pictou,Contea di Pictou,Hrabstwo Pictou,Kontea Pictou,Piktu,Siorrachd Phiogto,Пикту,Пікту	45.50015	-62.58193	A	ADM2	CA		07	1212			0		102	America/Halifax	2014-11-06
+6105291	Piney	Piney		49.22497	-95.91725	A	ADM2	CA		03	6105291			0		383	America/Winnipeg	2017-08-18
+6105439	Pinto Creek No. 75	Pinto Creek No. 75		49.66676	-107.00126	A	ADM2	CA		11	4703048			0		735	America/Regina	2024-05-17
+6105529	Pipestone	Pipestone		49.67	-101.16813	A	ADM2	CA		03	6105529			0		478	America/Winnipeg	2017-08-18
+6105836	Pittville No. 169	Pittville No. 169		50.41678	-108.66812	A	ADM2	CA		11	4708028			0		732	America/Regina	2024-05-17
+6106293	Pleasantdale No. 398	Pleasantdale No. 398		52.50002	-104.41771	A	ADM2	CA		11	4714035			0		550	America/Regina	2024-05-17
+6106366	Pleasant Valley No. 288	Pleasant Valley No. 288		51.5001	-108.25139	A	ADM2	CA		11	4712001			0		654	America/Regina	2024-05-17
+6109136	Ponass Lake No. 367	Ponass Lake No. 367		52.25	-104.00101	A	ADM2	CA		11	4714023			0		549	America/Regina	2024-05-17
+6109274	Ponoka County	Ponoka County		52.71232	-113.87452	A	ADM2	CA		01	4808038			0		867	America/Edmonton	2018-01-08
+6111042	Poplar Valley No. 12	Poplar Valley No. 12		49.16676	-105.83444	A	ADM2	CA		11	4703006			0		859	America/Regina	2024-05-17
+6111172	Porcupine No. 395	Porcupine No. 395		52.66671	-102.91765	A	ADM2	CA		11	4714006			0		426	America/Regina	2024-05-17
+6111530	Portage la Prairie	Portage la Prairie	Rural Municipality of Portage la Prairie	49.99282	-98.26993	A	ADM2	CA		03	6111530			6525		260	America/Winnipeg	2017-08-18
+6112609	Powell River Regional District	Powell River Regional District		49.99965	-124.50283	A	ADM2	CA		02	5927			0		333	America/Vancouver	2013-07-26
+6112748	Prairiedale No. 321	Prairiedale No. 321		51.75012	-109.50152	A	ADM2	CA		11	4713019			0		694	America/Regina	2024-05-17
+6112785	Prairie Rose No. 309	Prairie Rose No. 309		51.75006	-104.75111	A	ADM2	CA		11	4710052			0		524	America/Regina	2024-05-17
+6112863	Preeceville No. 334	Preeceville No. 334		52.08328	-102.66765	A	ADM2	CA		11	4709062			0		521	America/Regina	2024-05-17
+6113329	Prince County	Prince County		46.75015	-64.08203	A	ADM2	CA		09	1103			0		7	America/Halifax	2014-11-06
+6113339	Prince Albert No. 461	Prince Albert No. 461		53.08337	-105.66772	A	ADM2	CA		11	4715064			0		450	America/Regina	2024-05-17
+6113354	Prince Edward County	Prince Edward County		44.00012	-77.24946	A	ADM2	CA		08	3513			0		97	America/Toronto	2018-01-20
+6113613	Progress No. 351	Progress No. 351		52.00013	-109.2515	A	ADM2	CA		11	4713041			0		683	America/Regina	2024-05-17
+6115098	Queens County	Queens County		46.28342	-63.24869	A	ADM2	CA		09	1102			0		42	America/Halifax	2014-11-06
+6115099	Queens County	Queens County		44.23346	-64.99879	A	ADM2	CA		07	1204			10501		99	America/Halifax	2026-03-27
+6115101	Queens County	Queens County		45.83344	-65.99886	A	ADM2	CA		04	1304			0		98	America/Moncton	2014-11-30
+6116135	Rainy River District	Rainy River District		48.49981	-92.50031	A	ADM2	CA		08	3559			0		388	America/Winnipeg	2018-01-20
+6117952	Reciprocity No. 32	Reciprocity No. 32		49.41673	-101.83421	A	ADM2	CA		11	4701039			0		576	America/Regina	2024-05-17
+6118031	Redberry No. 435	Redberry No. 435		52.75011	-107.16791	A	ADM2	CA		11	4716018			0		556	America/Regina	2024-05-17
+6118074	Redburn No. 130	Redburn No. 130		50.16677	-105.08442	A	ADM2	CA		11	4706016			0		563	America/Regina	2024-05-17
+6118160	Red Deer County	Red Deer County		52.09952	-113.79089	A	ADM2	CA		01	4808001			0		931	America/Edmonton	2018-01-08
+6118974	Reford No. 379	Reford No. 379		52.25012	-108.58471	A	ADM2	CA		11	4713064			0		674	America/Regina	2024-05-17
+6119125	Regional District of Alberni-Clayoquot	Regional District of Alberni-Clayoquot		49.24962	-125.33615	A	ADM2	CA		02	5923			33521		956	America/Vancouver	2025-08-21
+6119126	Regional District of Bulkley-Nechako	Regional District of Bulkley-Nechako		54.49982	-125.67003	A	ADM2	CA		02	5951			37737		709	America/Vancouver	2025-11-07
+6119127	Regional District of Central Kootenay	Regional District of Central Kootenay		49.91655	-117.50222	A	ADM2	CA		02	5903			59517		1798	America/Vancouver	2025-11-07
+6119128	Regional District of Central Okanagan	Regional District of Central Okanagan		49.99978	-119.41908	A	ADM2	CA		02	5935			106707		567	America/Vancouver	2014-12-21
+6119130	Regional District of East Kootenay	Regional District of East Kootenay		49.91664	-115.75209	A	ADM2	CA		02	5901			65896		785	America/Edmonton	2025-11-07
+6119131	Regional District of Fraser-Fort George	Regional District of Fraser-Fort George	Distretto regionale di Fraser-Fort George,District regional de Fraser-Fort George,District régional de Fraser-Fort George,Distrikti rajonal Fraser-Fort George,Fraser-Fort George,Fraser-Fort George Regional District,fei sha-zuo zhi bao de qu,ضلع فراسر فورٹ جارج,フレイザー・フォートジョージ地域,菲沙-佐治堡地區	53.69993	-121.25281	A	ADM2	CA		02	5953			94506		925	America/Vancouver	2025-11-06
+6119132	Regional District of Kitimat-Stikine	Regional District of Kitimat-Stikine		55.33289	-129.00362	A	ADM2	CA		02	5949			37790		278	America/Vancouver	2025-11-06
+6119133	Regional District of Kootenay-Boundary	Regional District of Kootenay-Boundary		49.33309	-118.75231	A	ADM2	CA		02	5905			0		1476	America/Vancouver	2013-07-26
+6119134	Regional District of Mount Waddington	Regional District of Mount Waddington		51.28847	-126.08511	A	ADM2	CA		02	5943			10839		1156	America/Vancouver	2025-11-06
+6119135	Regional District of Nanaimo	Regional District of Nanaimo	Nanaimo	49.24959	-124.33612	A	ADM2	CA		02	5921			0		154	America/Vancouver	2017-03-16
+6119136	Regional District of North Okanagan	Regional District of North Okanagan	North Okanagan,RDNO	50.41651	-118.75232	A	ADM2	CA		02	5937			0		806	America/Vancouver	2019-02-28
+6119137	Regional District of Okanagan-Similkameen	Regional District of Okanagan-Similkameen		49.41647	-120.00245	A	ADM2	CA		02	5907			90178		1685	America/Vancouver	2025-08-21
+6119449	Renfrew County	Renfrew County		45.50011	-77.08275	A	ADM2	CA		08	3547			0		186	America/Toronto	2018-01-20
+6119491	Reno No. 51	Reno No. 51		49.41674	-109.41818	A	ADM2	CA		11	4704019			0		985	America/Regina	2024-05-17
+6121677	Reynolds	Reynolds		49.70829	-95.93384	A	ADM2	CA		03	6121677			0		295	America/Winnipeg	2017-08-18
+6121732	Rhineland	Rhineland		49.16359	-97.66292	A	ADM2	CA		03	6121732			0		247	America/Winnipeg	2019-09-17
+6122075	Richmond County	Richmond County	Abhainn Mhor,Abhainn Mhór,Comte de Richmond,Comté de Richmond,Contea di Richmond,Hrabstwo Richmond,Kontea Richmond,Richmond,Siorrachd Richmond,li shi man xian,shhrstan rychmwnd. nwa askwshya,Ричмонд,Річмонд,شهرستان ریچموند٬ نوا اسکوشیا,里士满县	45.65015	-60.76519	A	ADM2	CA		07	1216			8914		60	America/Halifax	2026-02-07
+6122576	Ritchot	Ritchot		49.7042	-97.09144	A	ADM2	CA		03	6122576			0		234	America/Winnipeg	2017-08-18
+6122732	Riverside No. 168	Riverside No. 168		50.50008	-108.25138	A	ADM2	CA		11	4708031			0		704	America/Regina	2024-05-17
+6125861	Cartwright–Roblin	Cartwright-Roblin		49.10442	-99.29022	A	ADM2	CA		03	6125861			0		465	America/Winnipeg	2019-09-17
+6125914	Rocanville No. 151	Rocanville No. 151		50.4167	-101.75094	A	ADM2	CA		11	4705037			0		513	America/Regina	2024-05-17
+6126541	Rockwood	Rockwood		50.25001	-97.33396	A	ADM2	CA		03	6126541			0		254	America/Winnipeg	2017-08-18
+6126630	Rocky Harbour	Rocky Harbour		49.60001	-57.91502	A	ADM2	CA		05	1009013			0		81	America/St_Johns	2024-05-17
+6127012	Rodgers No. 133	Rodgers No. 133		50.16676	-106.16789	A	ADM2	CA		11	4707006			0		665	America/Regina	2024-05-17
+6127181	Roland	Roland		49.3356	-97.91184	A	ADM2	CA		03	6127181			0		256	America/Winnipeg	2017-08-18
+6127585	Rosedale	Rosedale		50.32752	-99.50522	A	ADM2	CA		03	6127585			0		396	America/Winnipeg	2017-08-18
+6127593	Rosedale No. 283	Rosedale No. 283		51.58337	-106.50123	A	ADM2	CA		11	4711031			0		547	America/Regina	2024-05-17
+6127693	Rosemount No. 378	Rosemount No. 378		52.25011	-108.25138	A	ADM2	CA		11	4712072			0		659	America/Regina	2024-05-17
+6127818	Rossburn	Rossburn		50.7278	-100.74117	A	ADM2	CA		03	6127818			0		632	America/Winnipeg	2019-09-17
+6127874	Rosser	Rosser		49.98253	-97.44265	A	ADM2	CA		03	6127874			0		241	America/Winnipeg	2019-09-17
+6128010	Rosthern No. 403	Rosthern No. 403		52.63877	-106.34901	A	ADM2	CA		11	4715031			0		507	America/Regina	2024-05-19
+6128197	Round Hill No. 467	Round Hill No. 467		53.00014	-108.0013	A	ADM2	CA		11	4716033			0		587	America/Regina	2024-05-17
+6128513	Round Valley No. 410	Round Valley No. 410		52.58344	-109.16816	A	ADM2	CA		11	4713072			0		682	America/Regina	2024-05-17
+6128940	Rudy No. 284	Rudy No. 284		51.50008	-106.91797	A	ADM2	CA		11	4711026			0		545	America/Regina	2024-05-17
+6137110	Saddle Hills County	Saddle Hills County		55.85434	-119.33341	A	ADM2	CA		01	4819059			0		757	America/Edmonton	2018-01-08
+6137271	Saguenay/Lac-Saint-Jean	Saguenay/Lac-Saint-Jean		49.86681	-71.74901	A	ADM2	CA		10	02			0		400	America/Toronto	2008-03-23
+6138518	Saint John County	Saint John County	Comte de Saint-Jean,Comté de Saint-Jean,Condado de Saint John,Contea di Saint John,Hrabstwo Saint John,Kontea Saint John,Sent-Dzhon,sentojon jun,Сент-Джон,سینٹ جان کاؤنٹی,سینٹ جان کاؤنٹی، نیو برنسوک,セントジョン郡	45.33347	-65.83213	A	ADM2	CA		04	1301			0		106	America/Moncton	2015-09-09
+6139686	Saltcoats No. 213	Saltcoats No. 213		51	-102.25095	A	ADM2	CA		11	4705077			0		511	America/Regina	2024-05-17
+6141195	Sarnia No. 221	Sarnia No. 221		51.00007	-105.33444	A	ADM2	CA		11	4706063			0		502	America/Regina	2024-05-17
+6141249	Saskatchewan Landing No. 167	Saskatchewan Landing No. 167		50.50007	-107.83464	A	ADM2	CA		11	4708038			0		741	America/Regina	2024-05-17
+6141278	Sasman No. 336	Sasman No. 336		51.91669	-103.5843	A	ADM2	CA		11	4710071			0		545	America/Regina	2024-05-17
+6142605	Scott No. 98	Scott No. 98		49.91676	-104.25111	A	ADM2	CA		11	4702069			0		570	America/Regina	2024-05-17
+6144191	Senlac No. 411	Senlac No. 411		52.58345	-109.75152	A	ADM2	CA		11	4713076			0		640	America/Regina	2024-05-17
+6145097	Shamrock No. 134	Shamrock No. 134		50.16676	-106.58453	A	ADM2	CA		11	4707011			0		713	America/Regina	2024-05-17
+6145888	Shelburne County	Shelburne County	Comte de Shelburne,Comté de Shelburne,Contae Shelburne,Contea di Shelburne,Hrabstwo Shelburne,Kontea Shelburne,Shelbern,Siorrachd Shelburne,shhrstan shlbrn  nwa askwshya,Шелберн,شهرستان شلبرن، نوا اسکوشیا	43.85016	-65.28212	A	ADM2	CA		07	1201			0		73	America/Halifax	2019-01-25
+6145954	Shellbrook No. 493	Shellbrook No. 493		53.4168	-106.25105	A	ADM2	CA		11	4716046			0		452	America/Regina	2024-05-17
+6146276	Sherwood No. 159	Sherwood No. 159		50.44138	-104.83571	A	ADM2	CA		11	4706026			0		572	America/Regina	2024-05-19
+6147482	Sifton	Sifton		49.6656	-100.6628	A	ADM2	CA		03	6147482			0		431	America/Winnipeg	2017-08-18
+6147943	Silverwood No. 123	Silverwood No. 123		50.16672	-102.16769	A	ADM2	CA		11	4705011			0		617	America/Regina	2024-05-17
+6147963	Simcoe County	Simcoe County		44.41681	-79.83295	A	ADM2	CA		08	3543			0		188	America/Toronto	2018-01-20
+6148773	North Coast Regional District	North Coast Regional District	North Coast Regional District,Skeena-Queen Charlotte Regional District	53.74947	-132.00343	A	ADM2	CA		02	5947			0		23	America/Vancouver	2024-10-03
+6149496	Sliding Hills No. 273	Sliding Hills No. 273		51.49998	-102.16764	A	ADM2	CA		11	4709033			0		510	America/Regina	2024-05-17
+6150297	Smoky Lake County	Smoky Lake County		54.23908	-112.25192	A	ADM2	CA		01	4812022			0		659	America/Edmonton	2018-01-08
+6150632	Snipe Lake No. 259	Snipe Lake No. 259		51.1668	-108.58473	A	ADM2	CA		11	4708074			0		662	America/Regina	2024-05-17
+6151473	Souris Valley No. 7	Souris Valley No. 7		49.16676	-103.8343	A	ADM2	CA		11	4702006			0		614	America/Regina	2024-05-17
+6152528	South Qu'Appelle No. 157	South Qu'Appelle No. 157		50.50007	-104.00107	A	ADM2	CA		11	4706034			0		688	America/Regina	2024-05-17
+6153103	Spalding No. 368	Spalding No. 368		52.25002	-104.41774	A	ADM2	CA		11	4714026			0		572	America/Regina	2024-05-17
+6153329	Special Area No. 2	Special Area No. 2		51.0673	-111.65708	A	ADM2	CA		01	4804004			0		733	America/Edmonton	2018-01-13
+6153330	Special Area No. 3	Special Area No. 3		51.31402	-110.66195	A	ADM2	CA		01	4804012			0		778	America/Edmonton	2018-01-13
+6153331	Special Area No. 4	Special Area No. 4		51.95432	-110.64385	A	ADM2	CA		01	4804020			0		678	America/Edmonton	2018-01-13
+6153332	Mackenzie County	Mackenzie County		58.68989	-117.04606	A	ADM2	CA		01	4817095			0		366	America/Edmonton	2018-01-08
+6153771	Spiritwood No. 496	Spiritwood No. 496		53.41682	-107.3345	A	ADM2	CA		11	4716056			0		619	America/Regina	2024-05-17
+6154185	Springfield	Springfield		49.9167	-96.75061	A	ADM2	CA		03	6154185			0		239	America/Winnipeg	2017-08-18
+6154614	Spy Hill No. 152	Spy Hill No. 152		50.5833	-101.75094	A	ADM2	CA		11	4705041			0		495	America/Regina	2024-05-17
+6154640	Squamish-Lillooet Regional District	Squamish-Lillooet Regional District	Distretto regionale di Squamish-Lillooet,District regional de Squamish-Lillooet,District régional de Squamish-Lillooet,Districtul Squamish-Lillooet,Distrikti rajonal Squamish-Lillooet,Squamish-Lillooet,ضلع سکوامش لیلوئٹ,スコーミッシュ・リロエット地域	50.4997	-123.00276	A	ADM2	CA		02	5931			50496		240	America/Vancouver	2025-08-21
+6155131	St. Andrews	St. Andrews		50.25001	-97.00064	A	ADM2	CA		03	6155131			0		231	America/Winnipeg	2017-08-18
+6155145	St. Andrews No. 287	St. Andrews No. 287		51.5001	-107.91805	A	ADM2	CA		11	4712004			0		605	America/Regina	2024-05-17
+6155186	Stanley	Stanley		49.1686	-98.08656	A	ADM2	CA		03	6155186			0		302	America/Winnipeg	2017-08-18
+6155241	Stanley No. 215	Stanley No. 215		51.00001	-103.001	A	ADM2	CA		11	4705067			0		585	America/Regina	2024-05-17
+6155388	Star City No. 428	Star City No. 428		52.83332	-104.33427	A	ADM2	CA		11	4714047			0		483	America/Regina	2024-05-17
+6155475	Starland County	Starland County		51.66343	-112.55746	A	ADM2	CA		01	4805031			0		843	America/Edmonton	2018-01-08
+6155764	St. Clements	St. Clements		50.1642	-96.75121	A	ADM2	CA		03	6155764			0		230	America/Winnipeg	2017-08-18
+6155865	Ste. Anne	Ste. Anne		49.58329	-96.50059	A	ADM2	CA		03	6155865			0		277	America/Winnipeg	2017-08-18
+6156288	Ste. Rose	Ste. Rose		50.99971	-99.41719	A	ADM2	CA		03	6156288			0		275	America/Winnipeg	2019-09-17
+6156605	St. François Xavier	St. Francois Xavier		49.93123	-97.54342	A	ADM2	CA		03	6156605			0		239	America/Winnipeg	2019-09-20
+6156971	St. Laurent	St. Laurent		50.33331	-97.834	A	ADM2	CA		03	6156971			0		266	America/Winnipeg	2017-08-18
+6157008	St. Louis No. 431	St. Louis No. 431		52.83337	-105.75107	A	ADM2	CA		11	4715057			0		482	America/Regina	2024-05-17
+6157267	Stonehenge No. 73	Stonehenge No. 73		49.58336	-106.16787	A	ADM2	CA		11	4703038			0		789	America/Regina	2024-05-17
+6157705	Storthoaks No. 31	Storthoaks No. 31		49.41672	-101.50091	A	ADM2	CA		11	4701043			0		530	America/Regina	2024-05-17
+6157825	St. Peter No. 369	St. Peter No. 369		52.25004	-104.83438	A	ADM2	CA		11	4715001			0		588	America/Regina	2024-05-17
+6157853	St. Philips No. 301	St. Philips No. 301		51.74998	-101.83422	A	ADM2	CA		11	4709042			0		553	America/Regina	2024-05-17
+6157997	Strathcona County	Strathcona County	Comte de Strathcona,Comté de Strathcona,Okrug Stratkona,Округ Страткона	53.58574	-113.10009	A	ADM2	CA		01	4811052			0		737	America/Edmonton	2018-01-08
+6158376	Stuartburn	Stuartburn		49.13327	-96.51731	A	ADM2	CA		03	6158376			0		300	America/Winnipeg	2017-08-18
+6158563	Sturgeon County	Sturgeon County		53.81824	-113.52202	A	ADM2	CA		01	4811059			0		699	America/Edmonton	2018-01-08
+6158840	Sudbury	Sudbury	Sudbury District	47.16679	-81.9998	A	ADM2	CA		08	3552			22368		416	America/Toronto	2025-11-06
+6158841	Greater Sudbury	Greater Sudbury	Grand-Sudbury,Greater Sudbury	46.50008	-80.99974	A	ADM2	CA		08	3553			0		276	America/Toronto	2021-01-17
+6159368	Sunbury County	Sunbury County		45.91683	-66.33217	A	ADM2	CA		04	1303			0		2	America/Moncton	2014-11-06
+6159746	Sunshine Coast Regional District	Sunshine Coast Regional District		49.99966	-123.75279	A	ADM2	CA		02	5929			0		1766	America/Vancouver	2013-07-26
+6159900	Surprise Valley No. 9	Surprise Valley No. 9		49.16676	-104.58435	A	ADM2	CA		11	4702014			0		702	America/Regina	2024-05-17
+6160101	Sutton No. 103	Sutton No. 103		49.91676	-106.16788	A	ADM2	CA		11	4703074			0		728	America/Regina	2024-05-17
+6160610	Swift Current No. 137	Swift Current No. 137		50.25007	-107.83465	A	ADM2	CA		11	4708001			0		786	America/Swift_Current	2024-05-17
+6160992	Taché	Tache		49.75128	-96.85011	A	ADM2	CA		03	6160992			0		240	America/Winnipeg	2019-09-17
+6162422	Tecumseh No. 65	Tecumseh No. 65		49.66675	-103.00099	A	ADM2	CA		11	4701063			0		618	America/Regina	2024-05-17
+6163014	Terrell No. 101	Terrell No. 101		49.91676	-105.41782	A	ADM2	CA		11	4703096			0		736	America/Regina	2024-05-17
+6163850	The Gap No. 39	The Gap No. 39		49.41676	-104.58437	A	ADM2	CA		11	4702026			0		729	America/Regina	2024-05-17
+6165405	Thompson	Thompson		49.3347	-98.25136	A	ADM2	CA		03	6165405			0		330	America/Winnipeg	2017-08-18
+6165501	Thompson-Nicola Regional District	Thompson-Nicola Regional District	TNRD,Thompson-Nicola	50.99981	-120.50252	A	ADM2	CA		02	5933			143680		1830	America/Vancouver	2025-11-06
+6165918	Three Lakes No. 400	Three Lakes No. 400		52.50005	-105.25108	A	ADM2	CA		11	4715044			0		581	America/Regina	2024-05-17
+6166139	Thunder Bay District	Thunder Bay District		49.50011	-88.50004	A	ADM2	CA		08	3558			0		331	America/Toronto	2018-01-20
+6166724	Timiskaming District	Timiskaming District	Distretto di Timiskaming,District de Timiskaming,Distrikti Timiskaming,Distrito de Timiskaming,Dystrykt Timiskaming,Timiskaming,bkhsh tymyskymyng,di mi si ka ming qu,timisukamingu de qu,Тимискаминг,Тіміскамінг,بخش تیمیسکیمینگ,ضلع ٹیمسکامنگ,ティミスカミング地区,蒂米斯卡明區	47.75016	-80.33303	A	ADM2	CA		08	3554			0		301	America/Toronto	2018-01-20
+6166992	Tisdale No. 427	Tisdale No. 427		52.83332	-104.00096	A	ADM2	CA		11	4714043			0		461	America/Regina	2024-05-17
+6167836	Torch River No. 488	Torch River No. 488		53.50009	-104.50093	A	ADM2	CA		11	4714077			0		441	America/Regina	2024-05-17
+6168007	Touchwood No. 248	Touchwood No. 248		51.24354	-104.43467	A	ADM2	CA		11	4710014			0		666	America/Regina	2024-05-19
+6168390	Tramping Lake No. 380	Tramping Lake No. 380		52.25013	-109.00145	A	ADM2	CA		11	4713059			0		648	America/Regina	2024-05-17
+6170090	Tullymet No. 216	Tullymet No. 216		51.00004	-103.50104	A	ADM2	CA		11	4706099			0		659	America/Regina	2024-05-17
+6170648	Killarney-Turtle Mountain	Killarney-Turtle Mountain		49.16672	-99.66664	A	ADM2	CA		03	6170648			0		492	America/Winnipeg	2019-09-17
+6170664	Turtle River No. 469	Turtle River No. 469		53.16687	-108.83472	A	ADM2	CA		11	4717008			0		562	America/Regina	2024-05-17
+6170931	Twillingate	Twillingate		49.64992	-54.76486	A	ADM2	CA		05	1008035			0		3	America/St_Johns	2024-05-17
+6172001	United Counties of Leeds and Grenville	United Counties of Leeds and Grenville		44.83341	-75.66604	A	ADM2	CA		08	3507			0		99	America/Toronto	2018-01-20
+6172002	Comtés unis de Prescott et Russell	Comtes unis de Prescott et Russell	Comtes unis de Prescott et Russell,Comtés unis de Prescott et Russell,Prescott and Russell,United Counties of Prescott and Russell	45.4168	-75.24931	A	ADM2	CA		08	3502			0		63	America/Toronto	2022-07-05
+6172003	United Counties of Stormont, Dundas and Glengarry	United Counties of Stormont, Dundas and Glengarry		45.25009	-74.66597	A	ADM2	CA		08	3501			0		80	America/Toronto	2018-01-20
+6172831	Usborne No. 310	Usborne No. 310		51.75006	-105.16784	A	ADM2	CA		11	4711046			0		519	America/Regina	2024-05-17
+6173237	Val Marie No. 17	Val Marie No. 17		49.16674	-107.83461	A	ADM2	CA		11	4704003			0		872	America/Regina	2024-05-17
+6173458	Vanscoy No. 345	Vanscoy No. 345		52.00008	-107.08457	A	ADM2	CA		11	4712054			0		506	America/Regina	2024-05-17
+6174034	Victoria County	Victoria County	Comte de Victoria,Comté de Victoria,Contea di Victoria,Hrabstwo Victoria,Kontea Viktoria,Siorrachd Bhioctoria,Viktorija,shhrstan wyktwrya. nwa askwshya,Виктория,Вікторія,شهرستان ویکتوریا٬ نوا اسکوشیا	46.50014	-60.58177	A	ADM2	CA		07	1218			7441		336	America/Halifax	2026-02-07
+6174040	Victoria	Victoria		49.66421	-98.89638	A	ADM2	CA		03	6174040			0		363	America/Winnipeg	2017-08-18
+6174050	Victoria Beach	Victoria Beach		50.71196	-96.53925	A	ADM2	CA		03	6174050			0		239	America/Winnipeg	2019-09-20
+6174175	Victory No. 226	Victory No. 226		50.83337	-107.58464	A	ADM2	CA		11	4707063			0		700	America/Regina	2024-05-17
+6174521	Viscount No. 341	Viscount No. 341		51.83337	-105.58447	A	ADM2	CA		11	4711091			0		550	America/Regina	2024-05-17
+6174688	Vulcan County	Vulcan County		50.44119	-112.96108	A	ADM2	CA		01	4805001			0		928	America/Edmonton	2018-01-08
+6175464	Wallace No. 243	Wallace No. 243		51.25	-102.25094	A	ADM2	CA		11	4709006			0		520	America/Regina	2024-05-17
+6175611	Walpole No. 92	Walpole No. 92		49.88332	-101.83427	A	ADM2	CA		11	4701091			0		609	America/Regina	2024-05-17
+6176824	Regional Municipality of Waterloo	Regional Municipality of Waterloo	Waterloo	43.5001	-80.49969	A	ADM2	CA		08	3530			0		329	America/Toronto	2018-01-20
+6177161	Waverley No. 44	Waverley No. 44		49.41676	-106.5845	A	ADM2	CA		11	4703022			0		808	America/Regina	2024-05-17
+6177242	Wawken No. 93	Wawken No. 93		49.91673	-102.16768	A	ADM2	CA		11	4701076			0		669	America/Regina	2024-05-17
+6177453	Webb No. 138	Webb No. 138		50.08337	-108.25139	A	ADM2	CA		11	4708006			0		866	America/Regina	2024-05-17
+6177913	Wellington County	Wellington County		43.8334	-80.49969	A	ADM2	CA		08	3523			0		464	America/Toronto	2019-06-10
+6177928	Wellington No. 97	Wellington No. 97		49.91675	-103.8344	A	ADM2	CA		11	4702073			0		596	America/Regina	2024-05-17
+6179219	Westmorland County	Westmorland County		46.00015	-64.66546	A	ADM2	CA		04	1307			0		39	America/Moncton	2014-11-06
+6179507	West St. Paul	West St. Paul		49.9994	-97.16284	A	ADM2	CA		03	6179507			0		231	America/Winnipeg	2017-08-18
+6179654	Weyburn No. 67	Weyburn No. 67		49.66675	-103.75108	A	ADM2	CA		11	4702044			0		587	America/Regina	2024-05-17
+6179870	Wheatland County	Wheatland County		51.06702	-112.93659	A	ADM2	CA		01	4805012			0		888	America/Edmonton	2018-01-08
+6179872	Wheatlands No. 163	Wheatlands No. 163		50.41677	-106.25121	A	ADM2	CA		11	4707032			0		721	America/Regina	2024-05-17
+6180025	Whiska Creek No. 106	Whiska Creek No. 106		49.91676	-107.41802	A	ADM2	CA		11	4703059			0		759	America/Regina	2024-05-17
+6180469	Whitehead	Whitehead		49.77941	-100.23479	A	ADM2	CA		03	6180469			0		426	America/Winnipeg	2017-08-18
+6180732	Whitemouth	Whitemouth		49.97469	-95.95745	A	ADM2	CA		03	6180732			0		277	America/Winnipeg	2017-08-18
+6181173	White Valley No. 49	White Valley No. 49		49.41674	-108.66811	A	ADM2	CA		11	4704024			0		952	America/Regina	2024-05-17
+6182361	Willner No. 253	Willner No. 253		51.25006	-106.33453	A	ADM2	CA		11	4711016			0		590	America/Regina	2024-05-17
+6182392	Willow Bunch No. 42	Willow Bunch No. 42		49.41676	-105.66783	A	ADM2	CA		11	4703026			0		729	America/Regina	2024-05-17
+6182424	Willow Creek No. 458	Willow Creek No. 458		53.00003	-104.33425	A	ADM2	CA		11	4714053			0		430	America/Regina	2024-05-17
+6182429	Willowdale No. 153	Willowdale No. 153		50.41672	-102.25098	A	ADM2	CA		11	4705033			0		582	America/Regina	2024-05-17
+6182791	Wilton No. 472	Wilton No. 472		53.16686	-109.75154	A	ADM2	CA		11	4717022			0		605	America/Edmonton	2024-05-17
+6183268	Winslow No. 319	Winslow No. 319		51.75011	-108.83475	A	ADM2	CA		11	4713028			0		663	America/Regina	2024-05-17
+6183403	Wise Creek No. 77	Wise Creek No. 77		49.66675	-107.83464	A	ADM2	CA		11	4704028			0		854	America/Regina	2024-05-17
+6183890	Wolseley No. 155	Wolseley No. 155		50.41674	-103.16773	A	ADM2	CA		11	4705027			0		604	America/Regina	2024-05-17
+6183934	Wolverine No. 340	Wolverine No. 340		52.00006	-105.16783	A	ADM2	CA		11	4711096			0		545	America/Regina	2024-05-17
+6184011	Wood Buffalo	Wood Buffalo		57.66443	-112.00693	A	ADM2	CA		01	4816037			82400		744	America/Edmonton	2025-11-07
+6184074	Wood Creek No. 281	Wood Creek No. 281		51.50007	-105.50118	A	ADM2	CA		11	4711039			0		548	America/Regina	2024-05-17
+6184198	Woodlands	Woodlands		50.16671	-97.75349	A	ADM2	CA		03	6184198			0		267	America/Winnipeg	2017-08-18
+6184203	Woodlands County	Woodlands County		54.26873	-115.40193	A	ADM2	CA		01	4813029			0		770	America/Edmonton	2018-01-08
+6184282	Wood River No. 74	Wood River No. 74		49.66676	-106.58452	A	ADM2	CA		11	4703042			0		739	America/Regina	2024-05-17
+6184711	Wreford No. 280	Wreford No. 280		51.50007	-105.16786	A	ADM2	CA		11	4711042			0		490	America/Regina	2024-05-17
+6185218	Yarmouth County	Yarmouth County	Comte de Yarmouth,Comté de Yarmouth,Contae Yarmouth,Contea di Yarmouth,Hrabstwo Yarmouth,Jarmut,Kontea Yarmouth,Siorrachd Yarmouth,Yarmouth Kaundi,Ярмут,یارموتھ کاؤنٹی، نوا سکوٹیا	43.95015	-66.03216	A	ADM2	CA		07	1202			0		68	America/Halifax	2019-01-25
+6185360	Yellowhead County	Yellowhead County		53.41041	-116.71338	A	ADM2	CA		01	4814003			0		1002	America/Edmonton	2018-01-08
+6185557	York County	York County		46.1668	-66.99888	A	ADM2	CA		04	1310			0		189	America/Moncton	2014-11-06
+6185560	York	York	Regional Municipality of York,York,York Region	44.00011	-79.46632	A	ADM2	CA		08	3519			1032524		266	America/Toronto	2018-01-20
+6691318	Bas-Saint-Laurent	Bas-Saint-Laurent	Bas-Saint-Laurent,Bas-St-Laurent	48.0503	-68.02266	A	ADM2	CA		10	01			199039		317	America/Toronto	2025-11-06
+6691319	Capitale-Nationale	Capitale-Nationale	Kapital'-Nas'jonal',Kapital'-Nas'onal',Kebek-regiono,kebekku shou dou de yu,shou fu de qu,Капиталь-Насьональ,Капіталь-Насьйональ,ケベック首都地域,首府地区	47.376	-71.12337	A	ADM2	CA		10	03			70000		945	America/Toronto	2013-01-19
+6691320	Nord-du-Québec	Nord-du-Quebec		51.962	-74.8961	A	ADM2	CA		10	10			45740		393	America/Toronto	2025-11-06
+6691321	Gaspésie-Îles-de-la-Madeleine	Gaspesie-Iles-de-la-Madeleine	Gaspesie,Gaspesie-Iles-de-la-Madeleine,Gaspésie,Gaspésie-Îles-de-la-Madeleine	48.87555	-65.4071	A	ADM2	CA		10	11			89342		501	America/Toronto	2025-11-07
+6691322	Chaudière-Appalaches	Chaudiere-Appalaches		46.555	-70.8308	A	ADM2	CA		10	12			433312		220	America/Toronto	2025-11-07
+6944116	Restigouche	Restigouche		47.74137	-67.04073	A	ADM2	CA		04	1314			0		234	America/Moncton	2016-06-23
+8133394	Toronto county	Toronto county	Comte de Toronto,Comté de Toronto,Toronto	43.69655	-79.42909	A	ADM2	CA		08	3520			670000		171	America/Toronto	2018-01-20
+8449526	Centre-du-Québec	Centre-du-Quebec	Centr Kvebeku,Central'nyj Kvebek,Centre-du-Kebek,Centre-du-Quebec,Centre-du-Québec,Centro-de-Kebekio,zhong kui bei ke de qu,Центр Квебеку,Центральный Квебек,センター・デュ・ケベック地域,中魁北克地区	46.01985	-71.98242	A	ADM2	CA		10	17			234000		124	America/Toronto	2017-01-26
+8581623	Ottawa	Ottawa	Ottawa	45.41858	-75.69717	A	ADM2	CA		08	3506			0		77	America/Toronto	2018-01-20
+8593703	Comox Valley Regional District	Comox Valley Regional District		49.68696	-124.98201	A	ADM2	CA		02	5926			0		6	America/Vancouver	2013-07-26
+8593704	Northern Rockies Regional Municipality	Northern Rockies Regional Municipality		59.00196	-123.75412	A	ADM2	CA		02	5959			4478		657	America/Fort_Nelson	2025-11-07
+8593705	Stikine Region	Stikine Region		58.85922	-128.75977	A	ADM2	CA		02	5957			683		1738	America/Vancouver	2025-11-07
+8593707	Strathcona Regional District	Strathcona Regional District		50.21206	-125.51468	A	ADM2	CA		02	5924			48150		850	America/Vancouver	2025-08-21
+8593708	Gloucester County	Gloucester County		47.64966	-65.2533	A	ADM2	CA		04	1315			0		64	America/Moncton	2013-07-26
+8593709	Madawaska County	Madawaska County		47.4253	-68.20587	A	ADM2	CA		04	1313			0		166	America/Moncton	2013-07-26
+8593710	Victoria County	Victoria County		47.07293	-67.41417	A	ADM2	CA		04	1312			0		299	America/Moncton	2013-07-26
+11153049	Yellowhead	Yellowhead		50.4846	-100.48267	A	ADM2	CA		03	11153049			0		573	America/Winnipeg	2019-09-17
+11791378	Lac la Biche County	Lac la Biche County		55.04691	-111.86279	A	ADM2	CA		01	4812037			0		579	America/Edmonton	2018-01-08
+11791395	Crowsnest Pass	Crowsnest Pass		49.62339	-114.47977	A	ADM2	CA		01	4815007			0		1333	America/Edmonton	2018-01-08
+11807181	Calgary	Calgary		51.03503	-114.05201	A	ADM2	CA		01	4806016			0		1043	America/Edmonton	2018-01-13
+11807182	Edmonton	Edmonton		53.53713	-113.49488	A	ADM2	CA		01	4811061			932546	645	649	America/Edmonton	2019-01-16
+11807183	Medicine Hat	Medicine Hat		50.04581	-110.70148	A	ADM2	CA		01	4801006			0		680	America/Edmonton	2018-01-13
+11807184	Lethbridge	Lethbridge		49.68761	-112.84405	A	ADM2	CA		01	4802012			0		898	America/Edmonton	2018-01-13
+11807185	Norris Beach	Norris Beach		52.96811	-114.02007	A	ADM2	CA		01	4811007			0		858	America/Edmonton	2018-01-13
+11807186	St. Albert	St. Albert		53.64038	-113.6386	A	ADM2	CA		01	4811062			0		680	America/Edmonton	2018-01-13
+11807187	Granum	Granum		49.8701	-113.51061	A	ADM2	CA		01	4803021			0		1001	America/Edmonton	2018-01-13
+11807188	Westlock	Westlock		54.15566	-113.84424	A	ADM2	CA		01	4813031			0		652	America/Edmonton	2018-01-13
+11807189	Edson	Edson		53.5857	-116.44587	A	ADM2	CA		01	4814024			0		917	America/Edmonton	2018-01-13
+11807190	Boyle	Boyle		54.58846	-112.8071	A	ADM2	CA		01	4813046			0		634	America/Edmonton	2018-01-13
+11807191	Airdrie	Airdrie		51.28674	-114.00728	A	ADM2	CA		01	4806021			0		1094	America/Edmonton	2018-01-13
+11807192	Coaldale	Coaldale		49.72487	-112.61799	A	ADM2	CA		01	4802019			0		863	America/Edmonton	2018-01-13
+11807193	Onoway	Onoway		53.70636	-114.18914	A	ADM2	CA		01	4813014			0		708	America/Edmonton	2018-01-13
+11807194	Irricana	Irricana		51.32358	-113.60192	A	ADM2	CA		01	4806022			0		929	America/Edmonton	2018-01-13
+11807195	Crossfield	Crossfield		51.42622	-114.03366	A	ADM2	CA		01	4806026			0		1106	America/Edmonton	2018-01-13
+11807196	Elk Point	Elk Point		53.90043	-110.90144	A	ADM2	CA		01	4812016			0		604	America/Edmonton	2018-01-13
+11807197	Lloydminster	Lloydminster		53.28074	-110.03496	A	ADM2	CA		01	4810039			0		656	America/Edmonton	2018-05-11
+11807198	Czar	Czar		52.45356	-110.8253	A	ADM2	CA		01	4807004			0		684	America/Edmonton	2018-01-13
+11807199	Camrose	Camrose		53.00822	-112.83168	A	ADM2	CA		01	4810011			0		743	America/Edmonton	2018-01-13
+11807200	Lacombe	Lacombe		52.47206	-113.72745	A	ADM2	CA		01	4808031			0		849	America/Edmonton	2018-01-13
+11807201	Leduc	Leduc		53.26568	-113.54555	A	ADM2	CA		01	4811016			34094		729	America/Edmonton	2022-11-08
+11807202	Spruce Grove	Spruce Grove		53.54932	-113.90557	A	ADM2	CA		01	4811049			0		699	America/Edmonton	2018-01-13
+11807203	Brooks	Brooks		50.56484	-111.89195	A	ADM2	CA		01	4802034			0		760	America/Edmonton	2018-01-13
+11807204	Olds	Olds		51.79081	-114.11693	A	ADM2	CA		01	4806034			0		1033	America/Edmonton	2018-01-13
+11807205	St. Paul	St. Paul		53.98994	-111.28923	A	ADM2	CA		01	4812018			0		642	America/Edmonton	2018-01-13
+11807206	Viking	Viking		53.09737	-111.76449	A	ADM2	CA		01	4810022			0		682	America/Edmonton	2018-01-13
+11807207	Fort Saskatchewan	Fort Saskatchewan		53.71767	-113.1886	A	ADM2	CA		01	4811056			0		621	America/Edmonton	2018-01-13
+11807208	Grande Prairie	Grande Prairie		55.18319	-118.83305	A	ADM2	CA		01	4819012			0		661	America/Edmonton	2018-01-13
+11807209	Vauxhall	Vauxhall		50.06963	-112.10855	A	ADM2	CA		01	4802029			0		782	America/Edmonton	2018-01-13
+11807210	Red Deer	Red Deer		52.28159	-113.79735	A	ADM2	CA		01	4808011			0		851	America/Edmonton	2018-01-13
+11807211	Millet	Millet		53.08871	-113.48064	A	ADM2	CA		01	4811011			0		748	America/Edmonton	2018-01-13
+11807212	Chestermere	Chestermere		51.0337	-113.82443	A	ADM2	CA		01	4806017			0		1028	America/Edmonton	2018-01-13
+11807213	Wetaskiwin	Wetaskiwin		52.97208	-113.37838	A	ADM2	CA		01	4811002			0		760	America/Edmonton	2018-01-13
+11807214	Beaumont	Beaumont		53.35237	-113.41535	A	ADM2	CA		01	4811013			0		737	America/Edmonton	2018-01-13
+11807215	Trochu	Trochu		51.8272	-113.22949	A	ADM2	CA		01	4805049			0		878	America/Edmonton	2018-01-13
+11807216	Cowley	Cowley		49.56761	-114.07032	A	ADM2	CA		01	4803016			0		1168	America/Edmonton	2018-01-13
+11807217	Cold Lake	Cold Lake		54.42165	-110.24661	A	ADM2	CA		01	4812002			0		529	America/Edmonton	2018-01-13
+11807218	Mayerthorpe	Mayerthorpe		53.94831	-115.13456	A	ADM2	CA		01	4813002			0		717	America/Edmonton	2018-01-13
+11807219	Swan Hills	Swan Hills		54.71486	-115.39864	A	ADM2	CA		01	4817024			0		1136	America/Edmonton	2018-01-13
+11807220	Three Hills	Three Hills		51.70129	-113.2646	A	ADM2	CA		01	4805048			0		904	America/Edmonton	2018-01-13
+11807221	Vegreville	Vegreville		53.49907	-112.06621	A	ADM2	CA		01	4810028			0		636	America/Edmonton	2018-01-13
+11807222	Coronation	Coronation		52.09256	-111.4444	A	ADM2	CA		01	4807012			0		793	America/Edmonton	2018-01-13
+11807223	Redwater	Redwater		53.95291	-113.11881	A	ADM2	CA		01	4811065			0		633	America/Edmonton	2018-01-13
+11807224	Bon Accord	Bon Accord		53.83921	-113.40704	A	ADM2	CA		01	4811066			0		699	America/Edmonton	2018-01-13
+11807225	Two Hills	Two Hills		53.71184	-111.74364	A	ADM2	CA		01	4810052			0		612	America/Edmonton	2018-01-13
+11807226	Falher	Falher		55.73355	-117.1983	A	ADM2	CA		01	4819046			0		579	America/Edmonton	2018-01-13
+11807227	Picture Butte	Picture Butte		49.87387	-112.78232	A	ADM2	CA		01	4802018			0		902	America/Edmonton	2018-01-13
+11807228	Canmore	Canmore		51.06359	-115.32545	A	ADM2	CA		01	4815023			0		1302	America/Edmonton	2018-01-13
+11807229	Stony Plain	Stony Plain		53.52916	-113.99729	A	ADM2	CA		01	4811048			0		705	America/Edmonton	2018-01-13
+11807230	Nanton	Nanton		50.3483	-113.77418	A	ADM2	CA		01	4803026			0		1029	America/Edmonton	2018-01-13
+11807231	Sylvan Lake	Sylvan Lake		52.30494	-114.08848	A	ADM2	CA		01	4808012			0		943	America/Edmonton	2018-01-13
+11807232	Eckville	Eckville		52.36191	-114.36996	A	ADM2	CA		01	4808024			0		935	America/Edmonton	2018-01-13
+11807233	Bentley	Bentley		52.46702	-114.04806	A	ADM2	CA		01	4808026			0		914	America/Edmonton	2018-01-13
+11807234	Blackfalds	Blackfalds		52.38646	-113.784	A	ADM2	CA		01	4808029			0		874	America/Edmonton	2018-01-13
+11807235	Hinton	Hinton		53.3958	-117.58064	A	ADM2	CA		01	4814019			0		1061	America/Edmonton	2018-01-13
+11807236	Stavely	Stavely		50.16149	-113.63913	A	ADM2	CA		01	4803024			0		1038	America/Edmonton	2018-01-13
+11807237	Didsbury	Didsbury		51.65881	-114.13674	A	ADM2	CA		01	4806032			0		1039	America/Edmonton	2018-01-13
+11807238	South View	South View		53.65223	-114.66024	A	ADM2	CA		01	4813015			0		735	America/Edmonton	2018-01-13
+11807239	Fort Macleod	Fort Macleod		49.72044	-113.40027	A	ADM2	CA		01	4803019			0		946	America/Edmonton	2018-01-13
+11807240	Claresholm	Claresholm		50.02074	-113.5866	A	ADM2	CA		01	4803022			0		1027	America/Edmonton	2018-01-13
+11807241	Carstairs	Carstairs		51.56057	-114.09464	A	ADM2	CA		01	4806029			0		1056	America/Edmonton	2018-01-13
+11807242	Gibbons	Gibbons		53.82338	-113.33015	A	ADM2	CA		01	4811064			0		654	America/Edmonton	2018-01-13
+11807243	Stettler	Stettler		52.32181	-112.72151	A	ADM2	CA		01	4807026			0		814	America/Edmonton	2018-01-13
+11807244	Oyen	Oyen		51.34615	-110.48592	A	ADM2	CA		01	4804014			0		762	America/Edmonton	2018-01-13
+11807245	Bow Island	Bow Island		49.87334	-111.37088	A	ADM2	CA		01	4801014			0		787	America/Edmonton	2018-01-13
+11807246	Strathmore	Strathmore		51.0479	-113.39602	A	ADM2	CA		01	4805018			0		968	America/Edmonton	2018-01-13
+11807247	Barrhead	Barrhead		54.12579	-114.40452	A	ADM2	CA		01	4813019			0		646	America/Edmonton	2018-01-13
+11807248	Larkspur	Larkspur		54.43872	-113.76848	A	ADM2	CA		01	4813033			0		694	America/Edmonton	2018-01-16
+11807249	Redcliff	Redcliff		50.07337	-110.78124	A	ADM2	CA		01	4801018			0		757	America/Edmonton	2018-01-13
+11807250	Coalhurst	Coalhurst		49.74294	-112.92619	A	ADM2	CA		01	4802013			0		930	America/Edmonton	2018-01-13
+11807251	Ryley	Ryley		53.29583	-112.42528	A	ADM2	CA		01	4810019			0		686	America/Edmonton	2018-01-13
+11807252	Tofield	Tofield		53.37285	-112.67367	A	ADM2	CA		01	4810018			0		699	America/Edmonton	2018-01-13
+11807253	Beaverlodge	Beaverlodge		55.20915	-119.42273	A	ADM2	CA		01	4819009			0		727	America/Edmonton	2018-01-13
+11807254	Cochrane	Cochrane		51.18478	-114.46898	A	ADM2	CA		01	4806019			0		1145	America/Edmonton	2018-01-13
+11807255	Delia	Delia		51.63205	-112.37001	A	ADM2	CA		01	4805034			0		904	America/Edmonton	2018-01-13
+11807256	Vulcan	Vulcan		50.40153	-113.2682	A	ADM2	CA		01	4805006			0		1054	America/Edmonton	2018-01-13
+11807257	Provost	Provost		52.3544	-110.25803	A	ADM2	CA		01	4807002			0		672	America/Edmonton	2018-01-13
+11807258	Munson	Munson		51.56125	-112.73563	A	ADM2	CA		01	4805036			0		820	America/Edmonton	2018-01-13
+11807259	Bruderheim	Bruderheim		53.80416	-112.9313	A	ADM2	CA		01	4810066			0		626	America/Edmonton	2018-01-13
+11807260	Duchess	Duchess		50.73207	-111.90733	A	ADM2	CA		01	4802036			0		755	America/Edmonton	2018-01-13
+11807261	Willingdon	Willingdon		53.8283	-112.11807	A	ADM2	CA		01	4810056			0		621	America/Edmonton	2018-01-13
+11807262	Castor	Castor		52.21792	-111.90776	A	ADM2	CA		01	4807014			0		815	America/Edmonton	2018-01-13
+11807263	Wembley	Wembley		55.15662	-119.14064	A	ADM2	CA		01	4819011			0		725	America/Edmonton	2018-01-13
+11807264	Drumheller	Drumheller		51.41472	-112.63384	A	ADM2	CA		01	4805026			0		680	America/Edmonton	2018-01-13
+11807265	Smoky Lake	Smoky Lake		54.11187	-112.46996	A	ADM2	CA		01	4812029			0		622	America/Edmonton	2018-01-13
+11807266	Bashaw	Bashaw		52.58637	-112.96878	A	ADM2	CA		01	4810002			0		795	America/Edmonton	2018-01-13
+11807267	Morrin	Morrin		51.65857	-112.76402	A	ADM2	CA		01	4805038			0		832	America/Edmonton	2018-01-13
+11807268	Devon	Devon		53.35265	-113.72593	A	ADM2	CA		01	4811018			0		699	America/Edmonton	2018-01-13
+11807269	Calmar	Calmar		53.26365	-113.80717	A	ADM2	CA		01	4811019			0		727	America/Edmonton	2018-01-13
+11807270	Milk River	Milk River		49.15416	-112.08453	A	ADM2	CA		01	4802004			0		1057	America/Edmonton	2018-01-13
+11807271	Drayton Valley	Drayton Valley		53.21688	-114.97697	A	ADM2	CA		01	4811031			0		868	America/Edmonton	2018-01-13
+11807272	Vermilion	Vermilion		53.35469	-110.85019	A	ADM2	CA		01	4810042			0		617	America/Edmonton	2018-01-13
+11807273	Halkirk	Halkirk		52.28451	-112.15329	A	ADM2	CA		01	4807016			0		831	America/Edmonton	2018-01-13
+11807274	Rimbey	Rimbey		52.63883	-114.23476	A	ADM2	CA		01	4808044			0		929	America/Edmonton	2018-01-13
+11807275	Whitecourt	Whitecourt		54.13643	-115.65711	A	ADM2	CA		01	4813030			0		694	America/Edmonton	2018-01-13
+11807276	Raymond	Raymond		49.46242	-112.65632	A	ADM2	CA		01	4802008			0		958	America/Edmonton	2018-01-13
+11807277	Valleyview	Valleyview		55.06355	-117.27587	A	ADM2	CA		01	4818018			0		711	America/Edmonton	2018-01-13
+11807278	Mundare	Mundare		53.58899	-112.34643	A	ADM2	CA		01	4810061			0		681	America/Edmonton	2018-01-13
+11807279	Lamont	Lamont		53.75859	-112.77193	A	ADM2	CA		01	4810064			0		646	America/Edmonton	2018-01-13
+11807280	Parkland Beach	Parkland Beach		52.60695	-114.06515	A	ADM2	CA		01	4808042			0		911	America/Edmonton	2018-01-13
+11807281	Taber	Taber		49.7962	-112.14496	A	ADM2	CA		01	4802022			0		809	America/Edmonton	2018-01-13
+11807282	Ponoka	Ponoka		52.67436	-113.59364	A	ADM2	CA		01	4808039			0		808	America/Edmonton	2018-01-13
+11807283	Big Valley	Big Valley		52.03364	-112.75438	A	ADM2	CA		01	4807021			0		833	America/Edmonton	2018-01-13
+11807284	Morinville	Morinville		53.79821	-113.63844	A	ADM2	CA		01	4811068			0		698	America/Edmonton	2018-01-13
+11807285	Legal	Legal		53.94985	-113.5913	A	ADM2	CA		01	4811069			0		701	America/Edmonton	2018-01-13
+11807286	High Prairie	High Prairie		55.43593	-116.49043	A	ADM2	CA		01	4817021			0		592	America/Edmonton	2018-01-13
+11807287	Cremona	Cremona		51.54267	-114.47944	A	ADM2	CA		01	4806031			0		1192	America/Edmonton	2018-01-13
+11807288	Banff	Banff		51.17645	-115.56633	A	ADM2	CA		01	4815035			0		1390	America/Edmonton	2018-01-13
+11807289	Fox Creek	Fox Creek		54.40385	-116.79903	A	ADM2	CA		01	4818002			0		839	America/Edmonton	2018-01-13
+11807290	Grande Cache	Grande Cache		53.87726	-119.11991	A	ADM2	CA		01	4818005			0		1166	America/Edmonton	2018-01-13
+11807291	Athabasca	Athabasca		54.71773	-113.27981	A	ADM2	CA		01	4813048			0		528	America/Edmonton	2018-01-13
+11807292	Slave Lake	Slave Lake		55.27533	-114.77232	A	ADM2	CA		01	4817029			0		587	America/Edmonton	2018-01-13
+11807293	Manning	Manning		56.92566	-117.62554	A	ADM2	CA		01	4817078			0		467	America/Edmonton	2018-01-13
+11807294	High Level	High Level		58.51236	-117.14143	A	ADM2	CA		01	4817093			0		329	America/Edmonton	2018-01-13
+11807295	Rainbow Lake	Rainbow Lake		58.50092	-119.40094	A	ADM2	CA		01	4817097			0		547	America/Edmonton	2018-01-13
+11807296	Sexsmith	Sexsmith		55.3487	-118.78168	A	ADM2	CA		01	4819014			0		718	America/Edmonton	2018-01-13
+11807297	Fairview	Fairview		56.07117	-118.38071	A	ADM2	CA		01	4819068			0		668	America/Edmonton	2018-01-13
+11807298	Grimshaw	Grimshaw		56.19052	-117.60961	A	ADM2	CA		01	4819074			0		608	America/Edmonton	2018-01-13
+11807299	Bowden	Bowden		51.93149	-114.02816	A	ADM2	CA		01	4808006			0		998	America/Edmonton	2018-01-13
+11807300	Hanna	Hanna		51.64284	-111.92681	A	ADM2	CA		01	4804011			0		817	America/Edmonton	2018-01-13
+11807301	Warburg	Warburg		53.18518	-114.31874	A	ADM2	CA		01	4811024			0		811	America/Edmonton	2018-01-13
+11807302	Sundre	Sundre		51.79945	-114.6403	A	ADM2	CA		01	4806036			0		1093	America/Edmonton	2018-01-13
+11807303	Peace River	Peace River		56.23081	-117.31493	A	ADM2	CA		01	4819038			0		393	America/Edmonton	2018-01-13
+11807304	McLennan	McLennan		55.70809	-116.9023	A	ADM2	CA		01	4819042			0		624	America/Edmonton	2018-01-13
+11807305	Spirit River	Spirit River		55.78019	-118.83663	A	ADM2	CA		01	4819058			0		628	America/Edmonton	2018-01-13
+11807306	Arrowwood	Arrowwood		50.73743	-113.15249	A	ADM2	CA		01	4805011			0		932	America/Edmonton	2018-01-13
+11807307	Innisfail	Innisfail		52.02905	-113.95617	A	ADM2	CA		01	4808008			0		944	America/Edmonton	2018-01-13
+11807308	Penhold	Penhold		52.13609	-113.87252	A	ADM2	CA		01	4808009			0		898	America/Edmonton	2018-01-13
+11807309	High River	High River		50.5831	-113.8704	A	ADM2	CA		01	4806006			0		1035	America/Edmonton	2018-01-13
+11807310	Bonnyville	Bonnyville		54.26645	-110.74635	A	ADM2	CA		01	4812009			0		550	America/Edmonton	2018-01-13
+11807311	Cardston	Cardston		49.19238	-113.31009	A	ADM2	CA		01	4803004			0		1137	America/Edmonton	2018-01-13
+11807312	Pincher Creek	Pincher Creek		49.49121	-113.94244	A	ADM2	CA		01	4803014			0		1131	America/Edmonton	2018-01-13
+11807313	Bassano	Bassano		50.78854	-112.46871	A	ADM2	CA		01	4802039			0		792	America/Edmonton	2018-01-13
+11807314	Magrath	Magrath		49.41587	-112.86735	A	ADM2	CA		01	4803002			0		980	America/Edmonton	2018-01-13
+11807315	Turner Valley	Turner Valley		50.66998	-114.27419	A	ADM2	CA		01	4806009			0		1205	America/Edmonton	2018-01-13
+11807316	Black Diamond	Black Diamond		50.68816	-114.22999	A	ADM2	CA		01	4806011			0		1176	America/Edmonton	2018-01-13
+11807317	Gull Lake	Gull Lake		52.46464	-113.93157	A	ADM2	CA		01	4808028			0		903	America/Edmonton	2018-01-16
+11807318	Sunset Point	Sunset Point		53.69153	-114.34424	A	ADM2	CA		01	4813011			0		731	America/Edmonton	2018-01-13
+11807319	Okotoks	Okotoks		50.72399	-113.9654	A	ADM2	CA		01	4806012			0		1049	America/Edmonton	2018-01-13
+11807320	Sedgewick	Sedgewick		52.77756	-111.69312	A	ADM2	CA		01	4807044			0		667	America/Edmonton	2018-01-13
+11807321	Nakamun Park	Nakamun Park		53.88061	-114.21334	A	ADM2	CA		01	4813003			0		686	America/Edmonton	2018-01-13
+11807322	Silver Sands	Silver Sands		53.63443	-114.6605	A	ADM2	CA		01	4813010			0		740	America/Edmonton	2018-01-13
+11807323	Bonnyville Beach	Bonnyville Beach		54.22625	-110.86915	A	ADM2	CA		01	4812011			0		540	America/Edmonton	2018-01-13
+11807324	West Baptiste	West Baptiste		54.75464	-113.56542	A	ADM2	CA		01	4813057			0		581	America/Edmonton	2018-01-13
+11807325	Rocky Mountain House	Rocky Mountain House		52.37616	-114.91747	A	ADM2	CA		01	4809015			0		1008	America/Edmonton	2018-01-13
+11807326	Daysland	Daysland		52.86789	-112.2634	A	ADM2	CA		01	4807039			0		705	America/Edmonton	2018-01-13
+11807327	Killam	Killam		52.79458	-111.85201	A	ADM2	CA		01	4807042			0		678	America/Edmonton	2018-01-13
+11807328	Argentia Beach	Argentia Beach		53.05269	-114.02642	A	ADM2	CA		01	4811003			0		853	America/Edmonton	2018-01-13
+11807329	Hardisty	Hardisty		52.67115	-111.31462	A	ADM2	CA		01	4807048			0		626	America/Edmonton	2018-01-13
+11807330	Wainwright	Wainwright		52.83904	-110.85091	A	ADM2	CA		01	4807054			0		681	America/Edmonton	2018-01-13
+11807331	Ross Haven	Ross Haven		53.7343	-114.40778	A	ADM2	CA		01	4813008			0		740	America/Edmonton	2018-01-13
+11807332	Whispering Hills	Whispering Hills		54.75966	-113.54828	A	ADM2	CA		01	4813061			0		599	America/Edmonton	2018-01-13
+11807333	Castle Island	Castle Island		53.70911	-114.34114	A	ADM2	CA		01	4813009			0		723	America/Edmonton	2018-01-13
+11807334	Sunbreaker Cove	Sunbreaker Cove		52.38946	-114.19524	A	ADM2	CA		01	4808027			0		942	America/Edmonton	2018-01-16
+11807335	Rochon Sands	Rochon Sands		52.45953	-112.88695	A	ADM2	CA		01	4807028			0		791	America/Edmonton	2018-01-13
+11807336	Ma-Me-O Beach	Ma-Me-O Beach		52.97554	-113.96047	A	ADM2	CA		01	4811008			0		850	America/Edmonton	2018-01-13
+11807337	Silver Beach	Silver Beach		53.03995	-113.99005	A	ADM2	CA		01	4811009			0		856	America/Edmonton	2018-01-13
+11807338	Birch Cove	Birch Cove		53.95576	-114.36874	A	ADM2	CA		01	4813013			0		678	America/Edmonton	2018-01-13
+11807339	Horseshoe Bay	Horseshoe Bay		54.12065	-111.36898	A	ADM2	CA		01	4812020			0		646	America/Edmonton	2018-01-13
+11807340	Seba Beach	Seba Beach		53.55877	-114.73486	A	ADM2	CA		01	4811038			0		728	America/Edmonton	2018-01-16
+11807341	Betula Beach	Betula Beach		53.54248	-114.68334	A	ADM2	CA		01	4811039			0		735	America/Edmonton	2018-01-13
+11807342	Rosemary	Rosemary		50.75579	-112.08797	A	ADM2	CA		01	4802038			0		744	America/Edmonton	2018-01-13
+11807343	Point Alison	Point Alison		53.55035	-114.4887	A	ADM2	CA		01	4811041			0		735	America/Edmonton	2018-01-16
+11807344	White Sands	White Sands		52.46908	-112.81156	A	ADM2	CA		01	4807027			0		787	America/Edmonton	2018-01-13
+11807345	Ghost Lake	Ghost Lake		51.20538	-114.7652	A	ADM2	CA		01	4815027			0		1192	America/Edmonton	2018-01-13
+11807346	Norglenwold	Norglenwold		52.32118	-114.11894	A	ADM2	CA		01	4808013			0		954	America/Edmonton	2018-01-16
+11807347	Birchcliff	Birchcliff		52.3601	-114.11584	A	ADM2	CA		01	4808023			0		943	America/Edmonton	2018-01-13
+11807348	Half Moon Bay	Half Moon Bay		52.3464	-114.17419	A	ADM2	CA		01	4808025			0		938	America/Edmonton	2018-01-13
+11807349	South Baptiste	South Baptiste		54.72368	-113.56851	A	ADM2	CA		01	4813055			0		584	America/Edmonton	2018-01-16
+11807350	Yellowstone	Yellowstone		53.73376	-114.37956	A	ADM2	CA		01	4813007			0		731	America/Edmonton	2018-01-13
+11807351	Val Quentin	Val Quentin		53.6698	-114.37936	A	ADM2	CA		01	4813005			0		721	America/Edmonton	2018-01-13
+11807352	West Cove	West Cove		53.69963	-114.49434	A	ADM2	CA		01	4813006			0		734	America/Edmonton	2018-01-13
+11807353	Lakeview	Lakeview		53.55979	-114.45854	A	ADM2	CA		01	4811042			0		745	America/Edmonton	2018-01-13
+11807354	Nobleford	Nobleford		49.88465	-113.05405	A	ADM2	CA		01	4802014			0		981	America/Edmonton	2018-01-13
+11807355	Kapasiwin	Kapasiwin		53.54582	-114.44541	A	ADM2	CA		01	4811044			0		738	America/Edmonton	2018-01-13
+11807356	Sandy Beach	Sandy Beach		53.8073	-114.04035	A	ADM2	CA		01	4813016			0		704	America/Edmonton	2018-01-13
+11807357	Golden Days	Golden Days		53.05405	-114.05408	A	ADM2	CA		01	4811023			0		858	America/Edmonton	2018-01-13
+11807358	Carmangay	Carmangay		50.12812	-113.11206	A	ADM2	CA		01	4805002			0		935	America/Edmonton	2018-01-13
+11807359	Sunrise Beach	Sunrise Beach		53.78739	-114.04982	A	ADM2	CA		01	4813017			0		703	America/Edmonton	2018-01-13
+11807360	Sundance Beach	Sundance Beach		53.08222	-114.11173	A	ADM2	CA		01	4811020			0		860	America/Edmonton	2018-01-16
+11807361	Mewatha Beach	Mewatha Beach		54.61252	-112.74302	A	ADM2	CA		01	4813045			0		633	America/Edmonton	2018-01-16
+11807362	Poplar Bay	Poplar Bay		53.00463	-114.10385	A	ADM2	CA		01	4811005			0		852	America/Edmonton	2018-01-13
+11807363	Crystal Springs	Crystal Springs		52.97785	-114.04001	A	ADM2	CA		01	4811006			0		858	America/Edmonton	2018-01-13
+11807364	Itaska Beach	Itaska Beach		53.07086	-114.07824	A	ADM2	CA		01	4811022			0		855	America/Edmonton	2018-01-13
+11807365	Waiparous	Waiparous		51.28376	-114.84066	A	ADM2	CA		01	4815030			0		1281	America/Edmonton	2018-01-13
+11807366	Coutts	Coutts		49.00252	-111.96258	A	ADM2	CA		01	4802002			0		1072	America/Edmonton	2018-01-13
+11807367	Sunset Beach	Sunset Beach		54.74583	-113.54055	A	ADM2	CA		01	4813047			0		574	America/Edmonton	2018-01-13
+11807368	Island Lake	Island Lake		54.84532	-113.5561	A	ADM2	CA		01	4813049			0		617	America/Edmonton	2018-01-13
+11807369	Island Lake South	Island Lake South		54.82591	-113.53404	A	ADM2	CA		01	4813051			0		607	America/Edmonton	2018-01-13
+11807370	Bondiss	Bondiss		54.59954	-112.69526	A	ADM2	CA		01	4813053			0		630	America/Edmonton	2018-01-16
+11807371	Donalda	Donalda		52.58419	-112.57572	A	ADM2	CA		01	4807029			0		783	America/Edmonton	2018-01-13
+11807372	Jarvis Bay	Jarvis Bay		52.33929	-114.07795	A	ADM2	CA		01	4808005			0		947	America/Edmonton	2018-01-16
+11807373	Pelican Narrows	Pelican Narrows		54.26126	-110.89247	A	ADM2	CA		01	4812013			0		544	America/Edmonton	2018-01-13
+11807374	Grandview	Grandview		52.99211	-114.05873	A	ADM2	CA		01	4811004			0		852	America/Edmonton	2018-01-16
+11807375	Burnstick Lake	Burnstick Lake		51.98924	-114.89251	A	ADM2	CA		01	4809005			0		1200	America/Edmonton	2018-01-13
+11807376	Rockyford	Rockyford		51.23265	-113.13993	A	ADM2	CA		01	4805022			0		844	America/Edmonton	2018-01-13
+11807377	Carbon	Carbon		51.48504	-113.152	A	ADM2	CA		01	4805042			0		774	America/Edmonton	2018-01-13
+11807378	Acme	Acme		51.49618	-113.50927	A	ADM2	CA		01	4805044			0		906	America/Edmonton	2018-01-13
+11807379	Linden	Linden		51.59068	-113.48556	A	ADM2	CA		01	4805046			0		886	America/Edmonton	2018-01-13
+11807380	Hughenden	Hughenden		52.51017	-110.96898	A	ADM2	CA		01	4807006			0		692	America/Edmonton	2018-01-13
+11807381	Vilna	Vilna		54.11637	-111.92015	A	ADM2	CA		01	4812024			0		640	America/Edmonton	2018-01-13
+11807382	Waskatenau	Waskatenau		54.09508	-112.78286	A	ADM2	CA		01	4812026			0		633	America/Edmonton	2018-01-13
+11807383	Myrnam	Myrnam		53.66117	-111.22498	A	ADM2	CA		01	4810051			0		602	America/Edmonton	2018-01-13
+11807384	Bawlf	Bawlf		52.91903	-112.46601	A	ADM2	CA		01	4810009			0		706	America/Edmonton	2018-01-13
+11807385	Barons	Barons		49.99817	-113.08261	A	ADM2	CA		01	4802016			0		961	America/Edmonton	2018-01-13
+11807386	Lougheed	Lougheed		52.74782	-111.5382	A	ADM2	CA		01	4807046			0		659	America/Edmonton	2018-01-13
+11807387	Hussar	Hussar		51.04172	-112.67972	A	ADM2	CA		01	4805019			0		901	America/Edmonton	2018-01-13
+11807388	Alberta Beach	Alberta Beach		53.6757	-114.34776	A	ADM2	CA		01	4813012			0		728	America/Edmonton	2018-01-13
+11807389	Beiseker	Beiseker		51.38086	-113.54045	A	ADM2	CA		01	4806024			0		911	America/Edmonton	2018-01-13
+11807390	Innisfree	Innisfree		53.37795	-111.52789	A	ADM2	CA		01	4810031			0		694	America/Edmonton	2018-01-13
+11807391	Glendon	Glendon		54.2521	-111.15531	A	ADM2	CA		01	4812012			0		584	America/Edmonton	2018-01-13
+11807392	Wabamun	Wabamun		53.56155	-114.47774	A	ADM2	CA		01	4811045			0		733	America/Edmonton	2018-01-13
+11807393	Amisk	Amisk		52.56456	-111.05764	A	ADM2	CA		01	4807008			0		715	America/Edmonton	2018-01-13
+11807394	Alliance	Alliance		52.43613	-111.78511	A	ADM2	CA		01	4807032			0		714	America/Edmonton	2018-01-13
+11807395	Foremost	Foremost		49.47571	-111.44818	A	ADM2	CA		01	4801009			0		891	America/Edmonton	2018-01-13
+11807396	Mannville	Mannville		53.33764	-111.1775	A	ADM2	CA		01	4810034			828		624	America/Edmonton	2019-02-17
+11807397	Paradise Valley	Paradise Valley		53.03143	-110.29704	A	ADM2	CA		01	4810038			0		632	America/Edmonton	2018-01-13
+11807398	Stirling	Stirling		49.50175	-112.52795	A	ADM2	CA		01	4802009			0		933	America/Edmonton	2018-01-13
+11807399	Cereal	Cereal		51.41879	-110.80189	A	ADM2	CA		01	4804016			0		761	America/Edmonton	2018-01-13
+11807400	Youngstown	Youngstown		51.52849	-111.2023	A	ADM2	CA		01	4804019			0		772	America/Edmonton	2018-01-13
+11807401	Veteran	Veteran		52.00112	-111.11743	A	ADM2	CA		01	4804021			0		797	America/Edmonton	2018-01-13
+11807402	Consort	Consort		52.01133	-110.77751	A	ADM2	CA		01	4804022			0		757	America/Edmonton	2018-01-13
+11807403	Champion	Champion		50.24003	-113.14797	A	ADM2	CA		01	4805004			0		959	America/Edmonton	2018-01-13
+11807404	Standard	Standard		51.11111	-112.98487	A	ADM2	CA		01	4805021			0		897	America/Edmonton	2018-01-13
+11807405	Lomond	Lomond		50.3477	-112.64191	A	ADM2	CA		01	4805008			0		875	America/Edmonton	2018-01-13
+11807406	Milo	Milo		50.5678	-112.88306	A	ADM2	CA		01	4805009			0		893	America/Edmonton	2018-01-13
+11807407	Gadsby	Gadsby		52.29692	-112.35148	A	ADM2	CA		01	4807022			0		807	America/Edmonton	2018-01-13
+11807408	Botha	Botha		52.30789	-112.51891	A	ADM2	CA		01	4807024			0		807	America/Edmonton	2018-01-13
+11807409	Rosalind	Rosalind		52.78723	-112.44002	A	ADM2	CA		01	4810003			0		709	America/Edmonton	2018-01-13
+11807410	Ferintosh	Ferintosh		52.76411	-112.97108	A	ADM2	CA		01	4810004			0		763	America/Edmonton	2018-01-13
+11807411	Edberg	Edberg		52.78565	-112.78618	A	ADM2	CA		01	4810006			0		782	America/Edmonton	2018-01-13
+11807412	Bittern Lake	Bittern Lake		53.00486	-113.04519	A	ADM2	CA		01	4810012			0		746	America/Edmonton	2018-01-13
+11807413	Hay Lakes	Hay Lakes		53.1966	-113.05524	A	ADM2	CA		01	4810014			0		766	America/Edmonton	2018-01-13
+11807414	Breton	Breton		53.11263	-114.47305	A	ADM2	CA		01	4811026			0		844	America/Edmonton	2018-01-13
+11807415	Warner	Warner		49.28226	-112.20797	A	ADM2	CA		01	4802006			0		1010	America/Edmonton	2018-01-13
+11807416	Thorsby	Thorsby		53.22718	-114.0459	A	ADM2	CA		01	4811021			0		743	America/Edmonton	2018-01-13
+11807417	Clive	Clive		52.4786	-113.44545	A	ADM2	CA		01	4808032			0		851	America/Edmonton	2018-01-13
+11807418	Barnwell	Barnwell		49.75942	-112.26361	A	ADM2	CA		01	4802023			0		832	America/Edmonton	2018-01-13
+11807419	Alix	Alix		52.39679	-113.18801	A	ADM2	CA		01	4808034			0		791	America/Edmonton	2018-01-13
+11807420	Dewberry	Dewberry		53.58618	-110.52605	A	ADM2	CA		01	4810046			0		599	America/Edmonton	2018-01-13
+11807421	Holden	Holden		53.23107	-112.23222	A	ADM2	CA		01	4810021			0		688	America/Edmonton	2018-01-13
+11807422	Kitscoty	Kitscoty		53.34068	-110.33281	A	ADM2	CA		01	4810041			0		671	America/Edmonton	2018-01-13
+11807423	Marwayne	Marwayne		53.51417	-110.33117	A	ADM2	CA		01	4810044			0		601	America/Edmonton	2018-01-13
+11807424	Spring Lake	Spring Lake		53.51895	-114.13733	A	ADM2	CA		01	4811046			0		720	America/Edmonton	2018-01-13
+11807425	Andrew	Andrew		53.87938	-112.33581	A	ADM2	CA		01	4810059			0		629	America/Edmonton	2018-01-13
+11807426	Chipman	Chipman		53.68799	-112.63539	A	ADM2	CA		01	4810062			0		665	America/Edmonton	2018-01-13
+11807427	Clyde	Clyde		54.14875	-113.63384	A	ADM2	CA		01	4813032			0		649	America/Edmonton	2018-01-13
+11807428	Girouxville	Girouxville		55.75408	-117.3386	A	ADM2	CA		01	4819048			0		569	America/Edmonton	2018-01-13
+11807429	Berwyn	Berwyn		56.14677	-117.73403	A	ADM2	CA		01	4819072			0		651	America/Edmonton	2018-01-13
+11807430	Hythe	Hythe		55.32823	-119.55817	A	ADM2	CA		01	4819008			0		744	America/Edmonton	2018-01-13
+11807431	Donnelly	Donnelly		55.72926	-117.11093	A	ADM2	CA		01	4819044			0		591	America/Edmonton	2018-01-13
+11807432	Rycroft	Rycroft		55.75739	-118.70647	A	ADM2	CA		01	4819056			0		603	America/Edmonton	2018-01-13
+11807433	Elnora	Elnora		51.99771	-113.20154	A	ADM2	CA		01	4808002			0		929	America/Edmonton	2018-01-13
+11807434	Delburne	Delburne		52.19332	-113.22624	A	ADM2	CA		01	4808004			0		870	America/Edmonton	2018-01-13
+11807435	Empress	Empress		50.95479	-110.01639	A	ADM2	CA		01	4804006			0		611	America/Edmonton	2018-01-13
+11807436	Nampa	Nampa		56.03835	-117.13455	A	ADM2	CA		01	4817039			0		573	America/Edmonton	2018-01-13
+11807437	Hines Creek	Hines Creek		56.24738	-118.61195	A	ADM2	CA		01	4817064			0		659	America/Edmonton	2018-01-13
+11807438	Longview	Longview		50.53077	-114.23348	A	ADM2	CA		01	4806008			0		1240	America/Edmonton	2018-01-13
+11807439	Glenwood	Glenwood		49.36572	-113.51623	A	ADM2	CA		01	4803006			0		1108	America/Edmonton	2018-01-13
+11807440	Hill Spring	Hill Spring		49.29473	-113.62229	A	ADM2	CA		01	4803008			0		1175	America/Edmonton	2018-01-13
+11807441	Caroline	Caroline		52.09579	-114.73804	A	ADM2	CA		01	4809010			0		1066	America/Edmonton	2018-01-13
+11807442	Forestburg	Forestburg		52.58341	-112.06808	A	ADM2	CA		01	4807036			0		714	America/Edmonton	2018-01-13
+11807443	Heisler	Heisler		52.67085	-112.22408	A	ADM2	CA		01	4807038			0		719	America/Edmonton	2018-01-13
+11807444	Chauvin	Chauvin		52.69351	-110.14241	A	ADM2	CA		01	4807051			0		623	America/Edmonton	2018-01-13
+11807445	Edgerton	Edgerton		52.75887	-110.45308	A	ADM2	CA		01	4807052			0		643	America/Edmonton	2018-01-13
+11807446	Irma	Irma		52.91318	-111.22942	A	ADM2	CA		01	4807056			0		683	America/Edmonton	2018-01-13
+11807447	Improvement District No. 349	Improvement District No. 349		55.08199	-110.60875	A	ADM2	CA		01	4812038			0		677	America/Edmonton	2018-01-13
+11995136	Inuvik Region	Inuvik Region	Beaufort Delta Region	68.35678	-133.71409	A	ADM2	CA		13	11995136			0		22	America/Inuvik	2020-08-23
+11995137	North Slave Region	North Slave Region	Tlicho Region,Tłicho Region	62.80176	-116.04296	A	ADM2	CA		13	11995137			0		156	America/Edmonton	2025-05-01
+11995138	Sahtu Region	Sahtu Region		65.28435	-126.85213	A	ADM2	CA		13	11995138			0		50	America/Edmonton	2025-05-01
+11995139	South Slave Region	South Slave Region		60.00264	-111.8912	A	ADM2	CA		13	11995139			0		205	America/Edmonton	2025-05-01
+11995140	Dehcho Region	Dehcho Region		61.85721	-121.34961	A	ADM2	CA		13	11995140			2073		141	America/Edmonton	2025-05-01
+12088765	Ellice-Archie	Ellice-Archie		50.45969	-101.28216	A	ADM2	CA		03	12088765			0		478	America/Winnipeg	2019-09-17
+12088766	Wallace-Woodworth	Wallace-Woodworth		49.97841	-101.20058	A	ADM2	CA		03	12088766			0		498	America/Winnipeg	2019-09-17
+12088767	Lakeshore	Lakeshore		51.0832	-99.70248	A	ADM2	CA		03	12088767			0		265	America/Winnipeg	2019-09-17
+12088768	Prairie Lakes	Prairie Lakes		49.45766	-99.65741	A	ADM2	CA		03	12088768			0		470	America/Winnipeg	2019-09-20
+12088769	Oakview	Oakview		50.1505	-100.05868	A	ADM2	CA		03	12088769			0		525	America/Winnipeg	2019-09-17
+12088770	Riding Mountain West	Riding Mountain West		50.84225	-101.17269	A	ADM2	CA		03	12088770			0		595	America/Winnipeg	2019-09-17
+12746762	Terres-Cries-de-la-Baie-James	Terres-Cries-de-la-Baie-James	Eeyou Istchee	53.06482	-78.68117	A	ADM2	CA		10	18			0		21	America/Toronto	2024-02-28
+12822494	Raymore	Raymore		51.40861	-104.52749	A	ADM2	CA		11	4710027			0		620	America/Regina	2024-05-17
+12822595	Hanley	Hanley		51.62734	-106.44095	A	ADM2	CA		11	4711032			0		591	America/Regina	2024-05-17
+12822690	Kelvington	Kelvington		52.16245	-103.52846	A	ADM2	CA		11	4714022			0		598	America/Regina	2024-05-17
+12822693	Balgonie	Balgonie		50.48771	-104.27381	A	ADM2	CA		11	4706032			0		665	America/Regina	2024-05-17
+12822696	Canora	Canora		51.63445	-102.43483	A	ADM2	CA		11	4709032			0		488	America/Regina	2024-05-17
+12822698	Midale	Midale		49.39665	-103.41065	A	ADM2	CA		11	4702039			0		578	America/Regina	2024-05-17
+12822700	Qu'Appelle	Qu'Appelle		50.54249	-103.87533	A	ADM2	CA		11	4706036			0		650	America/Regina	2024-05-17
+12822702	Indian Head	Indian Head		50.534	-103.66823	A	ADM2	CA		11	4706039			0		588	America/Regina	2024-05-17
+12822704	Sintaluta	Sintaluta		50.4769	-103.44903	A	ADM2	CA		11	4706041			0		606	America/Regina	2024-05-17
+12822706	Vonda	Vonda		52.32301	-106.09458	A	ADM2	CA		11	4715017			0		527	America/Regina	2024-05-17
+12822709	Hague	Hague		52.51118	-106.41859	A	ADM2	CA		11	4715034			0		513	America/Regina	2024-05-17
+12822712	Radville	Radville		49.46029	-104.29897	A	ADM2	CA		11	4702031			0		636	America/Regina	2024-05-17
+12822715	Leader	Leader		50.88821	-109.54574	A	ADM2	CA		11	4708058			0		672	America/Regina	2024-05-17
+12822718	Burstall	Burstall		50.65592	-109.90914	A	ADM2	CA		11	4708062			0		729	America/Regina	2024-05-17
+12822721	Eatonia	Eatonia		51.22299	-109.38809	A	ADM2	CA		11	4708068			0		722	America/Regina	2024-05-17
+12822725	Eston	Eston		51.14947	-108.75448	A	ADM2	CA		11	4708076			0		680	America/Regina	2024-05-17
+12822728	Elrose	Elrose		51.20159	-108.03245	A	ADM2	CA		11	4708094			0		625	America/Regina	2024-05-17
+12822732	Springside	Springside		51.3465	-102.74287	A	ADM2	CA		11	4709016			0		516	America/Regina	2024-05-17
+12822735	Lafleche	Lafleche		49.7056	-106.575	A	ADM2	CA		11	4703044			0		736	America/Regina	2024-05-17
+12822740	Bengough	Bengough		49.39666	-105.12793	A	ADM2	CA		11	4702023			0		685	America/Regina	2024-05-17
+12822743	Blaine Lake	Blaine Lake		52.82926	-106.8792	A	ADM2	CA		11	4716016			0		517	America/Regina	2024-05-17
+12822746	Hafford	Hafford		52.7245	-107.35315	A	ADM2	CA		11	4716022			0		585	America/Regina	2024-05-17
+12822749	Ponteix	Ponteix		49.74461	-107.48854	A	ADM2	CA		11	4703058			0		751	America/Regina	2024-05-17
+12822753	Arborfield	Arborfield		53.10595	-103.65999	A	ADM2	CA		11	4714062			0		360	America/Regina	2024-05-17
+12822756	Carrot River	Carrot River		53.28024	-103.58806	A	ADM2	CA		11	4714069			0		358	America/Regina	2024-05-17
+12822759	Foam Lake	Foam Lake		51.64043	-103.53462	A	ADM2	CA		11	4710038			0		559	America/Regina	2024-05-17
+12822763	Leroy	Leroy		51.99987	-104.7387	A	ADM2	CA		11	4710058			0		549	America/Regina	2024-05-17
+12822766	Shellbrook	Shellbrook		53.21927	-106.39322	A	ADM2	CA		11	4716047			0		497	America/Regina	2024-05-17
+12822769	Spiritwood	Spiritwood		53.36454	-107.51924	A	ADM2	CA		11	4716058			0		589	America/Regina	2024-05-17
+12822772	Langham	Langham		52.3593	-106.95915	A	ADM2	CA		11	4711067			0		518	America/Regina	2024-05-17
+12822776	Wolseley	Wolseley		50.42242	-103.27255	A	ADM2	CA		11	4705024			0		595	America/Regina	2024-05-17
+12822779	Osler	Osler		52.36453	-106.53782	A	ADM2	CA		11	4711075			0		511	America/Regina	2024-05-17
+12822783	Zealandia	Zealandia		51.61647	-107.7449	A	ADM2	CA		11	4712008			0		594	America/Regina	2024-05-17
+12822786	Delisle	Delisle		51.92618	-107.13071	A	ADM2	CA		11	4712056			0		538	America/Regina	2024-05-17
+12822789	Asquith	Asquith		52.13474	-107.22589	A	ADM2	CA		11	4712059			0		518	America/Regina	2024-05-17
+12822792	Francis	Francis		50.10199	-103.86628	A	ADM2	CA		11	4706009			0		600	America/Regina	2024-05-17
+12822795	Churchbridge	Churchbridge		50.89493	-101.89306	A	ADM2	CA		11	4705094			0		531	America/Regina	2024-05-17
+12822798	Dundurn	Dundurn		51.80767	-106.5015	A	ADM2	CA		11	4711063			0		527	America/Regina	2024-05-17
+12822801	Choiceland	Choiceland		53.49201	-104.48508	A	ADM2	CA		11	4714092			0		440	America/Regina	2024-05-17
+12822804	Kinistino	Kinistino		52.94915	-105.02993	A	ADM2	CA		11	4715074			0		460	America/Regina	2024-05-17
+12822808	Maidstone	Maidstone		53.08576	-109.28641	A	ADM2	CA		11	4717018			0		593	America/Edmonton	2024-05-17
+12822810	Lashburn	Lashburn		53.12609	-109.6148	A	ADM2	CA		11	4717024			0		615	America/Edmonton	2024-05-17
+12822814	Marshall	Marshall		53.19372	-109.77818	A	ADM2	CA		11	4717026			0		615	America/Edmonton	2024-05-17
+12822817	Pense	Pense		50.41514	-104.98215	A	ADM2	CA		11	4706023			0		575	America/Regina	2024-05-17
+12822820	Allan	Allan		51.89617	-106.05536	A	ADM2	CA		11	4711072			0		522	America/Regina	2024-05-17
+12822823	Dalmeny	Dalmeny		52.34094	-106.76779	A	ADM2	CA		11	4711073			0		521	America/Regina	2024-05-17
+12822826	Colonsay	Colonsay		51.97639	-105.87201	A	ADM2	CA		11	4711079			0		534	America/Regina	2024-05-17
+12822829	Lumsden	Lumsden		50.64638	-104.86799	A	ADM2	CA		11	4706056			0		496	America/Regina	2024-05-17
+12822831	Regina Beach	Regina Beach		50.78922	-104.98106	A	ADM2	CA		11	4706058			0		524	America/Regina	2024-05-17
+12822834	Southey	Southey		50.94233	-104.50064	A	ADM2	CA		11	4706092			0		560	America/Regina	2024-05-17
+12822836	Cupar	Cupar		50.94644	-104.21185	A	ADM2	CA		11	4706094			0		572	America/Regina	2024-05-17
+12822839	Alameda	Alameda		49.26808	-102.28688	A	ADM2	CA		11	4701037			0		576	America/Regina	2024-05-17
+12822842	Herbert	Herbert		50.42658	-107.22442	A	ADM2	CA		11	4707026			0		706	America/Regina	2024-05-17
+12822844	Morse	Morse		50.41482	-107.03567	A	ADM2	CA		11	4707027			0		697	America/Regina	2024-05-17
+12822847	Central Butte	Central Butte		50.79916	-106.50429	A	ADM2	CA		11	4707054			0		622	America/Regina	2024-05-17
+12822850	Gull Lake	Gull Lake		50.09457	-108.48365	A	ADM2	CA		11	4708011			0		798	America/Regina	2024-05-17
+12822853	Yellow Grass	Yellow Grass		49.80632	-104.16328	A	ADM2	CA		11	4702072			0		577	America/Regina	2024-05-17
+12822855	Assiniboia	Assiniboia		49.63114	-105.99028	A	ADM2	CA		11	4703036			0		747	America/Regina	2024-05-17
+12822858	Gravelbourg	Gravelbourg		49.87425	-106.55588	A	ADM2	CA		11	4703071			0		698	America/Regina	2024-05-17
+12822861	Oxbow	Oxbow		49.22987	-102.1702	A	ADM2	CA		11	4701014			0		582	America/Regina	2024-05-17
+12822865	Grenfell	Grenfell		50.41058	-102.93234	A	ADM2	CA		11	4705029			0		599	America/Regina	2024-05-17
+12822868	Carnduff	Carnduff		49.17666	-101.79938	A	ADM2	CA		11	4701008			0		527	America/Regina	2024-05-17
+12822871	Aberdeen	Aberdeen		52.32649	-106.28923	A	ADM2	CA		11	4715019			0		515	America/Regina	2024-05-17
+12822874	Hepburn	Hepburn		52.52431	-106.7311	A	ADM2	CA		11	4715027			0		543	America/Regina	2024-05-17
+12822877	Waldheim	Waldheim		52.62029	-106.65446	A	ADM2	CA		11	4715028			0		545	America/Regina	2024-05-17
+12822880	Broadview	Broadview		50.3764	-102.58188	A	ADM2	CA		11	4705031			0		595	America/Regina	2024-05-17
+12822883	Whitewood	Whitewood		50.32924	-102.2656	A	ADM2	CA		11	4705034			0		602	America/Regina	2024-05-17
+12822886	Lampman	Lampman		49.38217	-102.75616	A	ADM2	CA		11	4701032			0		591	America/Regina	2024-05-17
+12822889	Carlyle	Carlyle		49.63027	-102.2713	A	ADM2	CA		11	4701056			0		624	America/Regina	2024-05-17
+12822892	Arcola	Arcola		49.63785	-102.49195	A	ADM2	CA		11	4701059			0		609	America/Regina	2024-05-17
+12822894	Stoughton	Stoughton		49.67491	-103.02423	A	ADM2	CA		11	4701066			0		623	America/Regina	2024-05-17
+12822897	Wawota	Wawota		49.90558	-102.02685	A	ADM2	CA		11	4701078			0		664	America/Regina	2024-05-17
+12822900	Rocanville	Rocanville		50.38068	-101.6904	A	ADM2	CA		11	4705038			0		523	America/Regina	2024-05-17
+12822904	Saltcoats	Saltcoats		51.04115	-102.16475	A	ADM2	CA		11	4705078			0		527	America/Regina	2024-05-17
+12822906	Bredenbury	Bredenbury		50.94191	-102.04385	A	ADM2	CA		11	4705079			0		526	America/Regina	2024-05-17
+12822909	Rosthern	Rosthern		52.66336	-106.33177	A	ADM2	CA		11	4715032			0		509	America/Regina	2024-05-17
+12822912	Coronach	Coronach		49.1104	-105.51562	A	ADM2	CA		11	4703004			0		778	America/Regina	2024-05-17
+12822915	Preeceville	Preeceville		51.95722	-102.66353	A	ADM2	CA		11	4709064			0		517	America/Regina	2024-05-17
+12822918	Sturgis	Sturgis		51.94121	-102.54155	A	ADM2	CA		11	4709066			0		504	America/Regina	2024-05-17
+12822921	Ogema	Ogema		49.57401	-104.91484	A	ADM2	CA		11	4702058			0		725	America/Regina	2024-05-17
+12822924	Milestone	Milestone		49.99348	-104.51872	A	ADM2	CA		11	4702067			0		581	America/Regina	2024-05-17
+12822927	Cudworth	Cudworth		52.49089	-105.73632	A	ADM2	CA		11	4715041			0		570	America/Regina	2024-05-17
+12822930	Nipawin	Nipawin		53.35852	-104.01556	A	ADM2	CA		11	4714076			0		364	America/Regina	2024-05-17
+12822933	Shaunavon	Shaunavon		49.6487	-108.41491	A	ADM2	CA		11	4704036			0		916	America/Regina	2024-05-17
+12822936	Wynyard	Wynyard		51.76886	-104.17916	A	ADM2	CA		11	4710047			0		555	America/Regina	2024-05-17
+12822939	Imperial	Imperial		51.34677	-105.44051	A	ADM2	CA		11	4711008			0		512	America/Regina	2024-05-17
+12822941	Balcarres	Balcarres		50.80461	-103.54523	A	ADM2	CA		11	4706047			0		592	America/Regina	2024-05-17
+12822944	Nokomis	Nokomis		51.51092	-105.00708	A	ADM2	CA		11	4711044			0		522	America/Regina	2024-05-17
+12822946	Bruno	Bruno		52.26496	-105.524	A	ADM2	CA		11	4715012			0		569	America/Regina	2024-05-17
+12822948	Lanigan	Lanigan		51.84957	-105.03125	A	ADM2	CA		11	4711049			0		534	America/Regina	2024-05-17
+12822950	Bienfait	Bienfait		49.14012	-102.79849	A	ADM2	CA		11	4701021			0		575	America/Regina	2024-05-17
+12822953	Redvers	Redvers		49.57046	-101.70208	A	ADM2	CA		11	4701049			0		594	America/Regina	2024-05-17
+12822955	Wakaw	Wakaw		52.64507	-105.73589	A	ADM2	CA		11	4715042			0		511	America/Regina	2024-05-17
+12822956	Mossbank	Mossbank		49.93954	-105.96347	A	ADM2	CA		11	4703092			0		707	America/Regina	2024-05-17
+12822958	Lemberg	Lemberg		50.73173	-103.20313	A	ADM2	CA		11	4705066			0		614	America/Regina	2024-05-17
+12822960	Rockglen	Rockglen		49.1809	-105.94535	A	ADM2	CA		11	4703009			0		855	America/Regina	2024-05-17
+12822963	Willow Bunch	Willow Bunch		49.39141	-105.6338	A	ADM2	CA		11	4703028			0		744	America/Regina	2024-05-17
+12822965	Eastend	Eastend		49.51625	-108.8205	A	ADM2	CA		11	4704026			0		912	America/Regina	2024-05-17
+12822967	Maple Creek	Maple Creek		49.90575	-109.47681	A	ADM2	CA		11	4704048			0		767	America/Regina	2024-05-17
+12822969	Fleming	Fleming		50.07242	-101.50268	A	ADM2	CA		11	4705002			0		542	America/Regina	2024-05-17
+12822971	Kipling	Kipling		50.0983	-102.63178	A	ADM2	CA		11	4705016			0		658	America/Regina	2024-05-17
+12822973	Moosomin	Moosomin		50.14516	-101.66697	A	ADM2	CA		11	4705004			0		577	America/Regina	2024-05-17
+12822975	Wapella	Wapella		50.25954	-101.97249	A	ADM2	CA		11	4705009			0		585	America/Regina	2024-05-17
+12822978	Langenburg	Langenburg		50.84393	-101.70298	A	ADM2	CA		11	4705048			0		508	America/Regina	2024-05-17
+12822980	Esterhazy	Esterhazy		50.65459	-102.07349	A	ADM2	CA		11	4705052			0		514	America/Regina	2024-05-17
+12822982	White City	White City		50.43313	-104.35632	A	ADM2	CA		11	4706030			0		608	America/Regina	2024-05-19
+12822984	Pilot Butte	Pilot Butte		50.48053	-104.41908	A	ADM2	CA		11	4706031			0		619	America/Regina	2024-05-17
+12822986	Rouleau	Rouleau		50.1898	-104.90631	A	ADM2	CA		11	4706017			0		575	America/Regina	2024-05-17
+12822988	Strasbourg	Strasbourg		51.06995	-104.95534	A	ADM2	CA		11	4706074			0		545	America/Regina	2024-05-17
+12822990	Grand Coulee	Grand Coulee		50.43569	-104.81314	A	ADM2	CA		11	4706028			0		566	America/Regina	2024-05-17
+12822992	Fort Qu'Appelle	Fort Qu'Appelle		50.76472	-103.79178	A	ADM2	CA		11	4706051			0		482	America/Regina	2024-05-17
+12822994	Craik	Craik		51.04925	-105.81829	A	ADM2	CA		11	4707092			0		582	America/Regina	2024-05-17
+12822997	Cabri	Cabri		50.61983	-108.46302	A	ADM2	CA		11	4708032			0		656	America/Regina	2024-05-17
+12822999	Kyle	Kyle		50.83182	-108.04007	A	ADM2	CA		11	4708044			0		653	America/Regina	2024-05-17
+12823003	Kamsack	Kamsack		51.56193	-101.89567	A	ADM2	CA		11	4709039			0		449	America/Regina	2024-05-17
+12823006	Watson	Watson		52.12904	-104.51982	A	ADM2	CA		11	4710062			0		543	America/Regina	2024-05-17
+12823009	Norquay	Norquay		51.88451	-102.08646	A	ADM2	CA		11	4709072			0		487	America/Regina	2024-05-17
+12823013	Govan	Govan		51.31084	-104.99498	A	ADM2	CA		11	4711004			0		538	America/Regina	2024-05-17
+12823016	Ituna	Ituna		51.16936	-103.49398	A	ADM2	CA		11	4710004			0		673	America/Regina	2024-05-17
+12823018	Wadena	Wadena		51.94557	-103.79689	A	ADM2	CA		11	4710068			0		541	America/Regina	2024-05-17
+12823021	Watrous	Watrous		51.68359	-105.46586	A	ADM2	CA		11	4711053			0		538	America/Regina	2024-05-17
+12823023	Davidson	Davidson		51.25895	-105.98255	A	ADM2	CA		11	4711014			0		614	America/Regina	2024-05-17
+12823025	Kindersley	Kindersley		51.46828	-109.15631	A	ADM2	CA		11	4713008			0		686	America/Regina	2024-05-17
+12823028	Outlook	Outlook		51.48749	-107.06556	A	ADM2	CA		11	4711027			0		532	America/Regina	2024-05-17
+12823030	Rosetown	Rosetown		51.55418	-107.99297	A	ADM2	CA		11	4712006			0		585	America/Regina	2024-05-17
+12823033	Macklin	Macklin		52.33509	-109.93853	A	ADM2	CA		11	4713051			0		673	America/Regina	2024-05-17
+12823037	Luseland	Luseland		52.07995	-109.39016	A	ADM2	CA		11	4713044			0		701	America/Regina	2024-05-17
+12823041	Biggar	Biggar		52.06358	-107.97933	A	ADM2	CA		11	4712046			0		664	America/Regina	2024-05-17
+12823044	Battleford	Battleford		52.7343	-108.31638	A	ADM2	CA		11	4712079			0		491	America/Regina	2024-05-17
+12823048	Cut Knife	Cut Knife		52.74604	-109.01804	A	ADM2	CA		11	4713098			0		636	America/Regina	2024-05-17
+12823051	Kerrobert	Kerrobert		51.92258	-109.14376	A	ADM2	CA		11	4713042			0		694	America/Regina	2024-05-17
+12823054	Hudson Bay	Hudson Bay		52.84524	-102.36766	A	ADM2	CA		11	4714004			0		362	America/Regina	2024-05-17
+12823057	Scott	Scott		52.36682	-108.83055	A	ADM2	CA		11	4713062			0		659	America/Regina	2024-05-17
+12823061	Wilkie	Wilkie		52.41024	-108.70955	A	ADM2	CA		11	4713069			0		661	America/Regina	2024-05-17
+12823065	Unity	Unity		52.44115	-109.16062	A	ADM2	CA		11	4713074			0		636	America/Regina	2024-05-17
+12823068	Tisdale	Tisdale		52.84803	-104.05313	A	ADM2	CA		11	4714044			0		449	America/Regina	2024-05-17
+12823071	Star City	Star City		52.86236	-104.3317	A	ADM2	CA		11	4714049			0		474	America/Regina	2024-05-17
+12823074	Porcupine Plain	Porcupine Plain		52.59571	-103.25442	A	ADM2	CA		11	4714007			0		500	America/Regina	2024-05-17
+12823078	Rose Valley	Rose Valley		52.29145	-103.81004	A	ADM2	CA		11	4714024			0		550	America/Regina	2024-05-17
+12823082	Naicam	Naicam		52.41739	-104.49567	A	ADM2	CA		11	4714032			0		573	America/Regina	2024-05-17
+12823085	St. Brieux	St. Brieux		52.64076	-104.88361	A	ADM2	CA		11	4715049			0		536	America/Regina	2024-05-17
+12823088	Duck Lake	Duck Lake		52.81217	-106.22556	A	ADM2	CA		11	4715062			0		502	America/Regina	2024-05-17
+12823091	Birch Hills	Birch Hills		52.98626	-105.43559	A	ADM2	CA		11	4715068			0		455	America/Regina	2024-05-17
+12823095	Radisson	Radisson		52.4627	-107.39663	A	ADM2	CA		11	4716009			0		522	America/Regina	2024-05-17
+12823099	Big River	Big River		53.8324	-107.0345	A	ADM2	CA		11	4716072			0		491	America/Regina	2024-05-17
+12823103	St. Walburg	St. Walburg		53.63025	-109.19909	A	ADM2	CA		11	4717036			0		638	America/Regina	2024-05-17
+12823107	Turtleford	Turtleford		53.38756	-108.96013	A	ADM2	CA		11	4717041			0		585	America/Regina	2024-05-17
+12823111	La Ronge	La Ronge		55.12823	-105.28246	A	ADM2	CA		11	4718041			0		377	America/Regina	2024-05-17
+12823115	Creighton	Creighton		54.76343	-101.90326	A	ADM2	CA		11	4718051			0		329	America/Winnipeg	2024-05-17
+12823335	Prince Albert	Prince Albert		53.21443	-105.69831	A	ADM2	CA		11	4715066			0		425	America/Regina	2024-05-17
+12823338	Weyburn	Weyburn		49.66474	-103.8494	A	ADM2	CA		11	4702047			0		570	America/Regina	2024-05-17
+12823342	Warman	Warman		52.32314	-106.58247	A	ADM2	CA		11	4711068			0		510	America/Regina	2024-05-17
+12823345	Martensville	Martensville		52.29169	-106.65921	A	ADM2	CA		11	4711070			0		512	America/Regina	2024-05-17
+12823349	Humboldt	Humboldt		52.20185	-105.12362	A	ADM2	CA		11	4715008			0		568	America/Regina	2024-05-17
+12823352	Estevan	Estevan		49.14272	-102.98585	A	ADM2	CA		11	4701024			0		567	America/Regina	2024-05-17
+12823355	Melville	Melville		50.93098	-102.8082	A	ADM2	CA		11	4705074			0		552	America/Regina	2024-05-17
+12823358	Regina	Regina		50.4556	-104.62779	A	ADM2	CA		11	4706027			0		578	America/Regina	2024-05-17
+12823361	Moose Jaw	Moose Jaw		50.39071	-105.53719	A	ADM2	CA		11	4707039			0		542	America/Regina	2024-05-17
+12823364	Swift Current	Swift Current		50.29087	-107.79429	A	ADM2	CA		11	4708004			0		750	America/Swift_Current	2024-05-17
+12823367	Yorkton	Yorkton		51.22034	-102.46433	A	ADM2	CA		11	4709012			0		503	America/Regina	2024-05-17
+12823371	Saskatoon	Saskatoon		52.14485	-106.64456	A	ADM2	CA		11	4711066			0		486	America/Regina	2024-05-17
+12823374	Melfort	Melfort		52.85933	-104.60385	A	ADM2	CA		11	4714051			0		463	America/Regina	2024-05-17
+12823378	North Battleford	North Battleford		52.76941	-108.28102	A	ADM2	CA		11	4716029			0		528	America/Regina	2024-05-17
+12823381	Lloydminster (Part)	Lloydminster (Part)		53.28129	-109.9857	A	ADM2	CA		11	4717029			0		637	America/Edmonton	2024-05-17
+12823385	Meadow Lake	Meadow Lake		54.12233	-108.43918	A	ADM2	CA		11	4717052			0		476	America/Regina	2024-05-17
+12823389	Flin Flon (Part)	Flin Flon (Part)		54.7569	-101.86007	A	ADM2	CA		11	4718052			0		310	America/Winnipeg	2024-05-17
+12823832	Smiley	Smiley		51.63088	-109.47115	A	ADM2	CA		11	4713022			0		696	America/Regina	2024-05-17
+12823835	Lang	Lang		49.91964	-104.37258	A	ADM2	CA		11	4702071			0		581	America/Regina	2024-05-17
+12823838	Glenside	Glenside		51.45252	-106.8065	A	ADM2	CA		11	4711029			0		573	America/Regina	2024-05-17
+12823841	Flaxcombe	Flaxcombe		51.47835	-109.60341	A	ADM2	CA		11	4713009			0		718	America/Regina	2024-05-17
+12823843	Beechy	Beechy		50.87932	-107.38437	A	ADM2	CA		11	4707062			0		681	America/Regina	2024-05-17
+12823845	Weirdale	Weirdale		53.44844	-105.24143	A	ADM2	CA		11	4715091			0		476	America/Regina	2024-05-17
+12823847	Glenavon	Glenavon		50.19309	-103.13812	A	ADM2	CA		11	4705021			0		683	America/Regina	2024-05-17
+12823849	Quinton	Quinton		51.38378	-104.40622	A	ADM2	CA		11	4710028			0		633	America/Regina	2024-05-17
+12823851	Punnichy	Punnichy		51.37123	-104.29769	A	ADM2	CA		11	4710029			0		643	America/Regina	2024-05-17
+12823853	Cadillac	Cadillac		49.72563	-107.73729	A	ADM2	CA		11	4704029			0		783	America/Regina	2024-05-17
+12823855	Briercrest	Briercrest		50.16709	-105.26568	A	ADM2	CA		11	4706018			0		583	America/Regina	2024-05-17
+12823858	Minton	Minton		49.16571	-104.58293	A	ADM2	CA		11	4702016			0		700	America/Regina	2024-05-17
+12823860	Drinkwater	Drinkwater		50.29487	-105.13363	A	ADM2	CA		11	4706019			0		569	America/Regina	2024-05-17
+12823862	Young	Young		51.76539	-105.74745	A	ADM2	CA		11	4711056			0		520	America/Regina	2024-05-17
+12823865	Zelma	Zelma		51.84191	-105.90781	A	ADM2	CA		11	4711058			0		533	America/Regina	2024-05-17
+12823866	Edenwold	Edenwold		50.63381	-104.25281	A	ADM2	CA		11	4706033			0		665	America/Regina	2024-05-17
+12823868	Prelate	Prelate		50.85339	-109.40672	A	ADM2	CA		11	4708057			0		678	America/Regina	2024-05-17
+12823870	McLean	McLean		50.51702	-104.06749	A	ADM2	CA		11	4706037			0		698	America/Regina	2024-05-17
+12823873	Lintlaw	Lintlaw		52.06747	-103.24506	A	ADM2	CA		11	4709061			0		612	America/Regina	2024-05-17
+12823875	Prud'homme	Prud'homme		52.33651	-105.89384	A	ADM2	CA		11	4715016			0		553	America/Regina	2024-05-17
+12823877	Goodsoil	Goodsoil		54.40345	-109.23487	A	ADM2	CA		11	4717066			0		528	America/Regina	2024-05-17
+12823879	Pierceland	Pierceland		54.34157	-109.78563	A	ADM2	CA		11	4717067			0		530	America/Regina	2024-05-17
+12823883	Smeaton	Smeaton		53.49123	-104.8063	A	ADM2	CA		11	4714093			0		469	America/Regina	2024-05-17
+12823885	Limerick	Limerick		49.653	-106.26597	A	ADM2	CA		11	4703041			0		756	America/Regina	2024-05-17
+12823887	Mendham	Mendham		50.77265	-109.66478	A	ADM2	CA		11	4708059			0		718	America/Regina	2024-05-17
+12823891	Calder	Calder		51.15744	-101.74911	A	ADM2	CA		11	4709002			0		527	America/Regina	2024-05-17
+12823895	Ebenezer	Ebenezer		51.36957	-102.44746	A	ADM2	CA		11	4709014			0		483	America/Regina	2024-05-17
+12823898	Ceylon	Ceylon		49.46023	-104.60177	A	ADM2	CA		11	4702028			0		708	America/Regina	2024-05-17
+12823900	Goodwater	Goodwater		49.39485	-103.70465	A	ADM2	CA		11	4702036			0		579	America/Regina	2024-05-17
+12823903	Halbrite	Halbrite		49.48799	-103.55937	A	ADM2	CA		11	4702038			0		579	America/Regina	2024-05-17
+12823905	Macoun	Macoun		49.31408	-103.26195	A	ADM2	CA		11	4702041			0		580	America/Regina	2024-05-17
+12823909	Krydor	Krydor		52.78777	-107.07708	A	ADM2	CA		11	4716019			0		513	America/Regina	2024-05-17
+12823913	Leask	Leask		53.02043	-106.74127	A	ADM2	CA		11	4716042			0		524	America/Regina	2024-05-17
+12823916	Kincaid	Kincaid		49.67025	-107.00456	A	ADM2	CA		11	4703051			0		742	America/Regina	2024-05-17
+12823919	Hazenmore	Hazenmore		49.68697	-107.14015	A	ADM2	CA		11	4703052			0		737	America/Regina	2024-05-17
+12823923	Parkside	Parkside		53.16611	-106.53376	A	ADM2	CA		11	4716044			0		512	America/Regina	2024-05-17
+12823925	Findlater	Findlater		50.78769	-105.40225	A	ADM2	CA		11	4706062			0		553	America/Regina	2024-05-17
+12823928	Waldron	Waldron		50.8519	-102.51291	A	ADM2	CA		11	4705061			0		527	America/Regina	2024-05-17
+12823931	McTaggart	McTaggart		49.72966	-104.00954	A	ADM2	CA		11	4702048			0		573	America/Regina	2024-05-17
+12823934	Zenon Park	Zenon Park		53.06542	-103.75651	A	ADM2	CA		11	4714061			0		379	America/Regina	2024-05-17
+12823937	Aylsham	Aylsham		53.19298	-103.80372	A	ADM2	CA		11	4714073			0		362	America/Regina	2024-05-17
+12823941	Codette	Codette		53.28158	-104.0301	A	ADM2	CA		11	4714074			0		368	America/Regina	2024-05-17
+12823944	Pilger	Pilger		52.42495	-105.26895	A	ADM2	CA		11	4715045			0		570	America/Regina	2024-05-17
+12823948	St. Benedict	St. Benedict		52.56752	-105.39322	A	ADM2	CA		11	4715046			0		556	America/Regina	2024-05-17
+12823952	Middle Lake	Middle Lake		52.4813	-105.30566	A	ADM2	CA		11	4715047			0		583	America/Regina	2024-05-17
+12823954	Neville	Neville		49.96398	-107.62869	A	ADM2	CA		11	4703061			0		859	America/Regina	2024-05-17
+12823957	Vanguard	Vanguard		49.90816	-107.29981	A	ADM2	CA		11	4703062			0		728	America/Regina	2024-05-17
+12823960	Storthoaks	Storthoaks		49.38974	-101.60154	A	ADM2	CA		11	4701044			0		547	America/Regina	2024-05-17
+12823964	White Fox	White Fox		53.45032	-104.08683	A	ADM2	CA		11	4714079			0		370	America/Regina	2024-05-17
+12823967	Canwood	Canwood		53.35869	-106.60104	A	ADM2	CA		11	4716052			0		516	America/Regina	2024-05-17
+12823971	Debden	Debden		53.52557	-106.88137	A	ADM2	CA		11	4716054			0		522	America/Regina	2024-05-17
+12823974	Love	Love		53.48604	-104.16634	A	ADM2	CA		11	4714091			0		384	America/Regina	2024-05-17
+12823978	Shell Lake	Shell Lake		53.30478	-107.06274	A	ADM2	CA		11	4716057			0		559	America/Regina	2024-05-17
+12823983	Coleville	Coleville		51.70952	-109.24411	A	ADM2	CA		11	4713026			0		706	America/Regina	2024-05-17
+12823986	Sedley	Sedley		50.17089	-104.01411	A	ADM2	CA		11	4706008			0		596	America/Regina	2024-05-17
+12823989	Conquest	Conquest		51.52925	-107.24354	A	ADM2	CA		11	4712022			0		573	America/Regina	2024-05-17
+12823992	Tessier	Tessier		51.80706	-107.42724	A	ADM2	CA		11	4712031			0		554	America/Regina	2024-05-17
+12823995	Harris	Harris		51.73242	-107.58028	A	ADM2	CA		11	4712032			0		578	America/Regina	2024-05-17
+12823998	Vanscoy	Vanscoy		51.9943	-106.98193	A	ADM2	CA		11	4712058			0		523	America/Regina	2024-05-17
+12824002	Weldon	Weldon		53.00797	-105.14414	A	ADM2	CA		11	4715072			0		453	America/Regina	2024-05-17
+12824004	Belle Plaine	Belle Plaine		50.39316	-105.15649	A	ADM2	CA		11	4706022			0		579	America/Regina	2024-05-17
+12824008	Dodsland	Dodsland		51.80162	-108.83897	A	ADM2	CA		11	4713029			0		648	America/Regina	2024-05-17
+12824011	Elbow	Elbow		51.12111	-106.59741	A	ADM2	CA		11	4711019			0		588	America/Regina	2024-05-17
+12824014	Brock	Brock		51.44191	-108.71647	A	ADM2	CA		11	4713002			0		684	America/Regina	2024-05-17
+12824018	Netherhill	Netherhill		51.47053	-108.85756	A	ADM2	CA		11	4713004			0		709	America/Regina	2024-05-17
+12824021	Leoville	Leoville		53.63191	-107.5508	A	ADM2	CA		11	4716061			0		597	America/Regina	2024-05-17
+12824024	Medstead	Medstead		53.29789	-108.07935	A	ADM2	CA		11	4716063			0		689	America/Regina	2024-05-17
+12824027	Plenty	Plenty		51.78345	-108.64428	A	ADM2	CA		11	4713031			0		612	America/Regina	2024-05-17
+12824031	Lake Lenore	Lake Lenore		52.39553	-104.98552	A	ADM2	CA		11	4715006			0		549	America/Regina	2024-05-17
+12824035	Bladworth	Bladworth		51.36702	-106.13953	A	ADM2	CA		11	4711038			0		632	America/Regina	2024-05-17
+12824038	Tramping Lake	Tramping Lake		52.13619	-108.94922	A	ADM2	CA		11	4713039			0		665	America/Regina	2024-05-17
+12824042	Bradwell	Bradwell		51.94711	-106.22957	A	ADM2	CA		11	4711071			0		535	America/Regina	2024-05-17
+12824044	Dilke	Dilke		50.8666	-105.25139	A	ADM2	CA		11	4706068			0		539	America/Regina	2024-05-17
+12824048	Meota	Meota		53.03544	-108.45635	A	ADM2	CA		11	4717006			0		535	America/Regina	2024-05-17
+12824051	Edam	Edam		53.18778	-108.7678	A	ADM2	CA		11	4717011			0		548	America/Regina	2024-05-17
+12824055	Paynton	Paynton		53.01297	-108.93644	A	ADM2	CA		11	4717014			0		562	America/Edmonton	2024-05-17
+12824058	Waseca	Waseca		53.1	-109.47363	A	ADM2	CA		11	4717019			0		640	America/Edmonton	2024-05-17
+12824062	Semans	Semans		51.40651	-104.73141	A	ADM2	CA		11	4710022			0		561	America/Regina	2024-05-17
+12824064	Heward	Heward		49.73692	-103.14915	A	ADM2	CA		11	4701067			0		619	America/Regina	2024-05-17
+12824068	Ridgedale	Ridgedale		53.05645	-104.15471	A	ADM2	CA		11	4714058			0		398	America/Regina	2024-05-17
+12824071	Rush Lake	Rush Lake		50.40384	-107.40136	A	ADM2	CA		11	4707023			0		719	America/Regina	2024-05-17
+12824074	Creelman	Creelman		49.82103	-103.31002	A	ADM2	CA		11	4702079			0		615	America/Regina	2024-05-17
+12824077	Drake	Drake		51.74708	-105.01105	A	ADM2	CA		11	4711048			0		533	America/Regina	2024-05-17
+12824080	Laird	Laird		52.715	-106.58874	A	ADM2	CA		11	4715029			0		524	America/Regina	2024-05-17
+12824083	Speers	Speers		52.70761	-107.55833	A	ADM2	CA		11	4716024			0		587	America/Regina	2024-05-17
+12824086	Clavet	Clavet		51.99473	-106.3704	A	ADM2	CA		11	4711077			0		522	America/Regina	2024-05-17
+12824089	Meacham	Meacham		52.10725	-105.75923	A	ADM2	CA		11	4711078			0		539	America/Regina	2024-05-17
+12824092	Disley	Disley		50.64079	-105.04944	A	ADM2	CA		11	4706054			0		558	America/Regina	2024-05-17
+12824094	Buena Vista	Buena Vista		50.78143	-104.9401	A	ADM2	CA		11	4706055			0		529	America/Regina	2024-05-17
+12824098	Denzil	Denzil		52.22755	-109.65206	A	ADM2	CA		11	4713054			0		685	America/Regina	2024-05-17
+12824101	MacNutt	MacNutt		51.08371	-101.6044	A	ADM2	CA		11	4705096			0		506	America/Regina	2024-05-17
+12824104	Consul	Consul		49.29447	-109.51991	A	ADM2	CA		11	4704021			0		927	America/Regina	2024-05-17
+12824107	Markinch	Markinch		50.93958	-104.36216	A	ADM2	CA		11	4706093			0		555	America/Regina	2024-05-17
+12824110	Lipton	Lipton		50.9027	-103.84831	A	ADM2	CA		11	4706098			0		603	America/Regina	2024-05-17
+12824112	Waldeck	Waldeck		50.35893	-107.59738	A	ADM2	CA		11	4707022			0		722	America/Regina	2024-05-17
+12824115	Ernfold	Ernfold		50.44835	-106.89239	A	ADM2	CA		11	4707028			0		720	America/Regina	2024-05-17
+12824118	Chaplin	Chaplin		50.4611	-106.65652	A	ADM2	CA		11	4707031			0		672	America/Regina	2024-05-17
+12824121	Lucky Lake	Lucky Lake		50.98526	-107.13343	A	ADM2	CA		11	4707059			0		643	America/Regina	2024-05-17
+12824124	Webb	Webb		50.18269	-108.19987	A	ADM2	CA		11	4708008			0		784	America/Regina	2024-05-17
+12824126	Tompkins	Tompkins		50.06242	-108.79175	A	ADM2	CA		11	4708012			0		803	America/Regina	2024-05-17
+12824129	Osage	Osage		49.95639	-103.5815	A	ADM2	CA		11	4702077			0		608	America/Regina	2024-05-17
+12824131	Fillmore	Fillmore		49.87952	-103.43383	A	ADM2	CA		11	4702078			0		617	America/Regina	2024-05-17
+12824135	Mankota	Mankota		49.4203	-107.07118	A	ADM2	CA		11	4703019			0		799	America/Regina	2024-05-17
+12824138	Montmartre	Montmartre		50.21951	-103.44996	A	ADM2	CA		11	4706002			0		670	America/Regina	2024-05-17
+12824140	Kendal	Kendal		50.25466	-103.61598	A	ADM2	CA		11	4706003			0		659	America/Regina	2024-05-17
+12824141	Odessa	Odessa		50.2834	-103.78338	A	ADM2	CA		11	4706006			0		657	America/Regina	2024-05-17
+12824144	Viscount	Viscount		51.94668	-105.64774	A	ADM2	CA		11	4711092			0		547	America/Regina	2024-05-17
+12824146	Plunkett	Plunkett		51.90689	-105.44602	A	ADM2	CA		11	4711094			0		559	America/Regina	2024-05-17
+12824148	Bracken	Bracken		49.17766	-108.09592	A	ADM2	CA		11	4704008			0		884	America/Regina	2024-05-17
+12824150	Climax	Climax		49.20769	-108.39034	A	ADM2	CA		11	4704009			0		933	America/Regina	2024-05-17
+12824152	Glen Ewen	Glen Ewen		49.21025	-102.01743	A	ADM2	CA		11	4701012			0		555	America/Regina	2024-05-17
+12824155	Frontier	Frontier		49.20551	-108.56259	A	ADM2	CA		11	4704012			0		899	America/Regina	2024-05-17
+12824157	Gainsborough	Gainsborough		49.17815	-101.44914	A	ADM2	CA		11	4701002			0		490	America/Regina	2024-05-17
+12824159	Carievale	Carievale		49.17347	-101.6202	A	ADM2	CA		11	4701004			0		510	America/Regina	2024-05-17
+12824161	Abbey	Abbey		50.73613	-108.75777	A	ADM2	CA		11	4708048			0		684	America/Regina	2024-05-17
+12824163	Major	Major		51.87246	-109.61301	A	ADM2	CA		11	4713021			0		726	America/Regina	2024-05-17
+12824165	Frobisher	Frobisher		49.21065	-102.4269	A	ADM2	CA		11	4701017			0		575	America/Regina	2024-05-17
+12824167	North Portal	North Portal		49.0065	-102.55491	A	ADM2	CA		11	4701018			0		593	America/Regina	2024-05-17
+12824170	Roche Percée	Roche Percee		49.06642	-102.80211	A	ADM2	CA		11	4701019			0		534	America/Regina	2024-05-17
+12824172	Val Marie	Val Marie		49.24543	-107.72971	A	ADM2	CA		11	4704002			0		795	America/Regina	2024-05-17
+12824174	Alida	Alida		49.38909	-101.87436	A	ADM2	CA		11	4701041			0		569	America/Regina	2024-05-17
+12824177	Kisbey	Kisbey		49.64628	-102.67235	A	ADM2	CA		11	4701061			0		605	America/Regina	2024-05-17
+12824180	Forget	Forget		49.65354	-102.8702	A	ADM2	CA		11	4701064			0		611	America/Regina	2024-05-17
+12824183	Kennedy	Kennedy		50.01093	-102.35205	A	ADM2	CA		11	4701077			0		666	America/Regina	2024-05-17
+12824186	Kenosee Lake	Kenosee Lake		49.83289	-102.28352	A	ADM2	CA		11	4701079			0		753	America/Regina	2024-05-17
+12824188	Tantallon	Tantallon		50.53644	-101.84149	A	ADM2	CA		11	4705042			0		420	America/Regina	2024-05-17
+12824191	Vibank	Vibank		50.33456	-103.94808	A	ADM2	CA		11	4706007			0		669	America/Regina	2024-05-17
+12824194	Jansen	Jansen		51.78734	-104.71361	A	ADM2	CA		11	4710054			0		531	America/Regina	2024-05-17
+12824197	Alvena	Alvena		52.51807	-106.02057	A	ADM2	CA		11	4715038			0		502	America/Regina	2024-05-17
+12824201	Endeavour	Endeavour		52.16089	-102.65645	A	ADM2	CA		11	4709065			0		530	America/Regina	2024-05-17
+12824205	Loreburn	Loreburn		51.22919	-106.59699	A	ADM2	CA		11	4711021			0		618	America/Regina	2024-05-19
+12824209	Bethune	Bethune		50.70948	-105.20586	A	ADM2	CA		11	4706061			0		555	America/Regina	2024-05-17
+12824212	Rhein	Rhein		51.35352	-102.1916	A	ADM2	CA		11	4709009			0		511	America/Regina	2024-05-17
+12824215	Hubbard	Hubbard		51.12895	-103.37142	A	ADM2	CA		11	4710002			0		661	America/Regina	2024-05-17
+12824219	Hawarden	Hawarden		51.41348	-106.60152	A	ADM2	CA		11	4711024			0		608	America/Regina	2024-05-17
+12824222	Kelliher	Kelliher		51.26287	-103.74015	A	ADM2	CA		11	4710009			0		672	America/Regina	2024-05-17
+12824225	Leross	Leross		51.28809	-103.87009	A	ADM2	CA		11	4710011			0		675	America/Regina	2024-05-17
+12824228	Pangman	Pangman		49.64594	-104.65992	A	ADM2	CA		11	4702054			0		692	America/Regina	2024-05-17
+12824231	Avonlea	Avonlea		50.01406	-105.05604	A	ADM2	CA		11	4702062			0		598	America/Regina	2024-05-17
+12824233	Chamberlain	Chamberlain		50.8518	-105.56901	A	ADM2	CA		11	4706064			0		571	America/Regina	2024-05-17
+12824236	Denholm	Denholm		52.65803	-108.01151	A	ADM2	CA		11	4716002			0		548	America/Regina	2024-05-17
+12824239	Holdfast	Holdfast		50.95749	-105.42068	A	ADM2	CA		11	4706067			0		542	America/Regina	2024-05-17
+12824242	Fenwood	Fenwood		51.01346	-103.04657	A	ADM2	CA		11	4705071			0		603	America/Regina	2024-05-17
+12824246	Ruddell	Ruddell		52.60488	-107.85732	A	ADM2	CA		11	4716003			0		570	America/Regina	2024-05-17
+12824250	Duval	Duval		51.15697	-104.99014	A	ADM2	CA		11	4711002			0		528	America/Regina	2024-05-17
+12824254	Liberty	Liberty		51.14131	-105.44695	A	ADM2	CA		11	4711009			0		505	America/Regina	2024-05-17
+12824256	Abernethy	Abernethy		50.74468	-103.41831	A	ADM2	CA		11	4706046			0		588	America/Regina	2024-05-17
+12824260	Maymont	Maymont		52.56261	-107.70623	A	ADM2	CA		11	4716004			0		589	America/Regina	2024-05-17
+12824263	Lebret	Lebret		50.75389	-103.70257	A	ADM2	CA		11	4706049			0		476	America/Regina	2024-05-17
+12824266	Manor	Manor		49.60256	-102.08548	A	ADM2	CA		11	4701054			0		633	America/Regina	2024-05-17
+12824269	Maryfield	Maryfield		49.83523	-101.52695	A	ADM2	CA		11	4701096			0		578	America/Regina	2024-05-17
+12824271	Fairlight	Fairlight		49.87719	-101.67969	A	ADM2	CA		11	4701098			0		592	America/Regina	2024-05-17
+12824274	Stockholm	Stockholm		50.65745	-102.3019	A	ADM2	CA		11	4705056			0		533	America/Regina	2024-05-17
+12824278	Richard	Richard		52.69243	-107.70267	A	ADM2	CA		11	4716026			0		547	America/Regina	2024-05-17
+12824281	Torquay	Torquay		49.14101	-103.4873	A	ADM2	CA		11	4702002			0		586	America/Regina	2024-05-17
+12824284	Tribune	Tribune		49.24779	-103.82572	A	ADM2	CA		11	4702008			0		609	America/Regina	2024-05-17
+12824287	Spy Hill	Spy Hill		50.60318	-101.68651	A	ADM2	CA		11	4705043			0		494	America/Regina	2024-05-17
+12824290	Gerald	Gerald		50.66609	-101.79343	A	ADM2	CA		11	4705044			0		501	America/Regina	2024-05-17
+12824293	Dubuc	Dubuc		50.683	-102.47668	A	ADM2	CA		11	4705058			0		539	America/Regina	2024-05-17
+12824296	Duff	Duff		50.87328	-103.09161	A	ADM2	CA		11	4705068			0		583	America/Regina	2024-05-17
+12824299	Goodeve	Goodeve		51.06345	-103.18824	A	ADM2	CA		11	4705069			0		641	America/Regina	2024-05-17
+12824302	Wood Mountain	Wood Mountain		49.37038	-106.38367	A	ADM2	CA		11	4703012			0		827	America/Regina	2024-05-17
+12824305	Grayson	Grayson		50.71899	-102.64362	A	ADM2	CA		11	4705059			0		540	America/Regina	2024-05-17
+12824308	Killaly	Killaly		50.75373	-102.83091	A	ADM2	CA		11	4705062			0		549	America/Regina	2024-05-17
+12824310	Neudorf	Neudorf		50.71007	-103.01368	A	ADM2	CA		11	4705064			0		603	America/Regina	2024-05-17
+12824313	Windthorst	Windthorst		50.10851	-102.83652	A	ADM2	CA		11	4705019			0		667	America/Regina	2024-05-17
+12824316	Yarbo	Yarbo		50.69822	-101.93494	A	ADM2	CA		11	4705049			0		507	America/Regina	2024-05-17
+12824319	Atwater	Atwater		50.7769	-102.22564	A	ADM2	CA		11	4705053			0		528	America/Regina	2024-05-17
+12824322	Bangor	Bangor		50.80694	-102.34157	A	ADM2	CA		11	4705054			0		531	America/Regina	2024-05-17
+12824324	Wilcox	Wilcox		50.09614	-104.7221	A	ADM2	CA		11	4706014			0		578	America/Regina	2024-05-17
+12824327	Bulyea	Bulyea		50.98645	-104.86253	A	ADM2	CA		11	4706073			0		557	America/Regina	2024-05-17
+12824330	Coderre	Coderre		50.13534	-106.38519	A	ADM2	CA		11	4707008			0		692	America/Regina	2024-05-17
+12824333	Shamrock	Shamrock		50.16018	-106.62615	A	ADM2	CA		11	4707012			0		724	America/Regina	2024-05-17
+12824335	Silton	Silton		50.8067	-104.91053	A	ADM2	CA		11	4706077			0		543	America/Regina	2024-05-17
+12824338	Craven	Craven		50.70807	-104.79982	A	ADM2	CA		11	4706078			0		516	America/Regina	2024-05-17
+12824341	Earl Grey	Earl Grey		50.93554	-104.71139	A	ADM2	CA		11	4706079			0		587	America/Regina	2024-05-17
+12824343	Dysart	Dysart		50.94294	-104.03693	A	ADM2	CA		11	4706097			0		596	America/Regina	2024-05-17
+12824346	Hodgeville	Hodgeville		50.11351	-106.96343	A	ADM2	CA		11	4707016			0		695	America/Regina	2024-05-17
+12824349	Mortlach	Mortlach		50.45577	-106.06338	A	ADM2	CA		11	4707034			0		607	America/Regina	2024-05-17
+12824352	Caronport	Caronport		50.45859	-105.81547	A	ADM2	CA		11	4707037			0		568	America/Regina	2024-05-17
+12824355	Tuxford	Tuxford		50.57532	-105.58021	A	ADM2	CA		11	4707043			0		596	America/Regina	2024-05-17
+12824358	Marquis	Marquis		50.61911	-105.71935	A	ADM2	CA		11	4707044			0		597	America/Regina	2024-05-17
+12824361	Brownlee	Brownlee		50.73946	-106.01609	A	ADM2	CA		11	4707048			0		617	America/Regina	2024-05-17
+12824363	Eyebrow	Eyebrow		50.79775	-106.15458	A	ADM2	CA		11	4707049			0		627	America/Regina	2024-05-17
+12824365	Riverhurst	Riverhurst		50.90315	-106.86742	A	ADM2	CA		11	4707072			0		596	America/Regina	2024-05-17
+12824368	Tugaske	Tugaske		50.87386	-106.28797	A	ADM2	CA		11	4707077			0		605	America/Regina	2024-05-17
+12824370	Aylesbury	Aylesbury		50.93919	-105.69406	A	ADM2	CA		11	4707093			0		577	America/Regina	2024-05-17
+12824374	Sheho	Sheho		51.58575	-103.21235	A	ADM2	CA		11	4709024			0		548	America/Regina	2024-05-17
+12824377	Theodore	Theodore		51.42437	-102.92099	A	ADM2	CA		11	4709028			0		524	America/Regina	2024-05-17
+12824381	Golden Prairie	Golden Prairie		50.22195	-109.63056	A	ADM2	CA		11	4708018			0		739	America/Regina	2024-05-17
+12824383	Richmound	Richmound		50.45486	-109.75657	A	ADM2	CA		11	4708022			0		750	America/Regina	2024-05-17
+12824386	Lancer	Lancer		50.80152	-108.87843	A	ADM2	CA		11	4708049			0		670	America/Regina	2024-05-17
+12824389	Fox Valley	Fox Valley		50.46521	-109.4787	A	ADM2	CA		11	4708026			0		717	America/Regina	2024-05-17
+12824392	Hazlet	Hazlet		50.39965	-108.59409	A	ADM2	CA		11	4708029			0		738	America/Regina	2024-05-17
+12824395	Pennant	Pennant		50.53198	-108.23299	A	ADM2	CA		11	4708034			0		715	America/Regina	2024-05-17
+12824398	Success	Success		50.45937	-108.0786	A	ADM2	CA		11	4708036			0		733	America/Regina	2024-05-17
+12824401	Stewart Valley	Stewart Valley		50.5979	-107.8056	A	ADM2	CA		11	4708039			0		724	America/Regina	2024-05-17
+12824404	Sceptre	Sceptre		50.86263	-109.26605	A	ADM2	CA		11	4708054			0		672	America/Regina	2024-05-17
+12824408	Togo	Togo		51.40197	-101.58286	A	ADM2	CA		11	4709038			0		557	America/Regina	2024-05-17
+12824411	Pelly	Pelly		51.85649	-101.92714	A	ADM2	CA		11	4709044			0		468	America/Regina	2024-05-17
+12824414	Buchanan	Buchanan		51.70194	-102.75548	A	ADM2	CA		11	4709053			0		501	America/Regina	2024-05-17
+12824417	Rama	Rama		51.75809	-103.00016	A	ADM2	CA		11	4709056			0		555	America/Regina	2024-05-17
+12824420	Invermay	Invermay		51.80616	-103.15531	A	ADM2	CA		11	4709058			0		557	America/Regina	2024-05-17
+12824423	Stenen	Stenen		51.9	-102.37966	A	ADM2	CA		11	4709069			0		506	America/Regina	2024-05-17
+12824427	Hyas	Hyas		51.895	-102.26011	A	ADM2	CA		11	4709071			0		516	America/Regina	2024-05-17
+12824429	Arran	Arran		51.88466	-101.71905	A	ADM2	CA		11	4709076			0		457	America/Regina	2024-05-17
+12824433	Elfros	Elfros		51.7431	-103.86043	A	ADM2	CA		11	4710043			0		549	America/Regina	2024-05-17
+12824436	Strongfield	Strongfield		51.33276	-106.59587	A	ADM2	CA		11	4711022			0		614	America/Regina	2024-05-17
+12824439	Margo	Margo		51.82644	-103.33599	A	ADM2	CA		11	4710072			0		546	America/Regina	2024-05-17
+12824443	Quill Lake	Quill Lake		52.07134	-104.25575	A	ADM2	CA		11	4710064			0		536	America/Regina	2024-05-17
+12824446	Kenaston	Kenaston		51.50143	-106.27006	A	ADM2	CA		11	4711036			0		617	America/Regina	2024-05-17
+12824449	Broderick	Broderick		51.48736	-106.91926	A	ADM2	CA		11	4711028			0		553	America/Regina	2024-05-17
+12824452	Simpson	Simpson		51.45272	-105.44528	A	ADM2	CA		11	4711041			0		521	America/Regina	2024-05-17
+12824454	Milden	Milden		51.48371	-107.52196	A	ADM2	CA		11	4712012			0		567	America/Regina	2024-05-17
+12824456	Wiseton	Wiseton		51.31106	-107.65017	A	ADM2	CA		11	4712014			0		572	America/Regina	2024-05-17
+12824459	Dinsmore	Dinsmore		51.3319	-107.44515	A	ADM2	CA		11	4712016			0		612	America/Regina	2024-05-17
+12824461	Macrorie	Macrorie		51.3254	-107.08742	A	ADM2	CA		11	4712019			0		592	America/Regina	2024-05-17
+12824463	Perdue	Perdue		52.05515	-107.54335	A	ADM2	CA		11	4712051			0		552	America/Regina	2024-05-17
+12824466	Kinley	Kinley		52.07112	-107.42637	A	ADM2	CA		11	4712052			0		537	America/Regina	2024-05-17
+12824468	Archerwill	Archerwill		52.43903	-103.86092	A	ADM2	CA		11	4714036			0		547	America/Regina	2024-05-17
+12824470	Primate	Primate		52.26326	-109.82352	A	ADM2	CA		11	4713053			0		674	America/Regina	2024-05-17
+12824472	Marengo	Marengo		51.47923	-109.78425	A	ADM2	CA		11	4713014			0		680	America/Regina	2024-05-17
+12824475	Neilburg	Neilburg		52.83963	-109.6261	A	ADM2	CA		11	4713094			0		679	America/Edmonton	2024-05-17
+12824477	Landis	Landis		52.19851	-108.45113	A	ADM2	CA		11	4713067			0		648	America/Regina	2024-05-17
+12824479	Valparaiso	Valparaiso		52.85237	-104.18676	A	ADM2	CA		11	4714048			0		457	America/Regina	2024-05-17
+12824482	Senlac	Senlac		52.49304	-109.70721	A	ADM2	CA		11	4713078			0		679	America/Regina	2024-05-17
+12824484	Marsden	Marsden		52.8404	-109.82433	A	ADM2	CA		11	4713091			0		648	America/Edmonton	2024-05-17
+12824486	Weekes	Weekes		52.57048	-102.87469	A	ADM2	CA		11	4714009			0		441	America/Regina	2024-05-17
+12824489	Fosston	Fosston		52.19269	-103.81228	A	ADM2	CA		11	4714025			0		552	America/Regina	2024-05-17
+12824492	Spalding	Spalding		52.32889	-104.49593	A	ADM2	CA		11	4714028			0		566	America/Regina	2024-05-17
+12824495	Pleasantdale	Pleasantdale		52.57721	-104.50756	A	ADM2	CA		11	4714030			0		534	America/Regina	2024-05-17
+12824498	Mistatim	Mistatim		52.8726	-103.36549	A	ADM2	CA		11	4714039			0		481	America/Regina	2024-05-17
+12824502	Bjorkdale	Bjorkdale		52.71054	-103.64639	A	ADM2	CA		11	4714041			0		489	America/Regina	2024-05-17
+12824505	Muenster	Muenster		52.19098	-104.99298	A	ADM2	CA		11	4715004			0		575	America/Regina	2024-05-17
+12824509	Annaheim	Annaheim		52.32163	-104.81917	A	ADM2	CA		11	4715005			0		574	America/Regina	2024-05-17
+12824513	Englefeld	Englefeld		52.16197	-104.65535	A	ADM2	CA		11	4715002			0		559	America/Regina	2024-05-17
+12824516	St. Gregor	St. Gregor		52.178	-104.828	A	ADM2	CA		11	4715003			0		579	America/Regina	2024-05-23
+12824518	Marcelin	Marcelin		52.92591	-106.79053	A	ADM2	CA		11	4716014			0		521	America/Regina	2024-05-17
+12824522	Beatty	Beatty		52.89963	-104.80495	A	ADM2	CA		11	4715052			0		451	America/Regina	2024-05-17
+12824525	St. Louis	St. Louis		52.91986	-105.80983	A	ADM2	CA		11	4715059			0		443	America/Regina	2024-05-17
+12824529	Christopher Lake	Christopher Lake		53.53876	-105.78564	A	ADM2	CA		11	4715076			0		537	America/Regina	2024-05-17
+12824532	Albertville	Albertville		53.39605	-105.53912	A	ADM2	CA		11	4715085			0		494	America/Regina	2024-05-17
+12824535	Meath Park	Meath Park		53.44171	-105.36884	A	ADM2	CA		11	4715092			0		482	America/Regina	2024-05-17
+12824538	Paddockwood	Paddockwood		53.50735	-105.5617	A	ADM2	CA		11	4715098			0		484	America/Regina	2024-05-17
+12824540	Borden	Borden		52.40495	-107.23758	A	ADM2	CA		11	4716011			0		495	America/Regina	2024-05-17
+12824545	Dorintosh	Dorintosh		54.35359	-108.62661	A	ADM2	CA		11	4717055			0		485	America/Regina	2024-05-17
+12824548	Paradise Hill	Paradise Hill		53.53978	-109.46095	A	ADM2	CA		11	4717034			0		555	America/Regina	2024-05-17
+12824550	Makwa	Makwa		54.00629	-108.90573	A	ADM2	CA		11	4717057			0		521	America/Regina	2024-05-17
+12824553	Mervin	Mervin		53.33374	-108.87438	A	ADM2	CA		11	4717039			0		582	America/Regina	2024-05-17
+12824557	Loon Lake	Loon Lake		54.02607	-109.15865	A	ADM2	CA		11	4717058			0		545	America/Regina	2024-05-17
+12824561	Glaslyn	Glaslyn		53.35856	-108.35269	A	ADM2	CA		11	4717048			0		692	America/Regina	2024-05-17
+12824859	Chorney Beach	Chorney Beach		51.80762	-103.55733	A	ADM2	CA		11	4710034			0		529	America/Regina	2024-05-17
+12824863	Pebble Baye	Pebble Baye		53.18893	-107.02168	A	ADM2	CA		11	4716043			0		563	America/Regina	2024-05-19
+12824866	Leslie Beach	Leslie Beach		51.81568	-103.56249	A	ADM2	CA		11	4710035			0		528	America/Regina	2024-05-17
+12824870	Tobin Lake	Tobin Lake		53.5168	-103.72998	A	ADM2	CA		11	4714068			0		319	America/Regina	2024-05-17
+12824873	Wakaw Lake	Wakaw Lake		52.64114	-105.64372	A	ADM2	CA		11	4715043			0		524	America/Regina	2024-05-17
+12824876	Shields	Shields		51.82236	-106.40399	A	ADM2	CA		11	4711064			0		547	America/Regina	2024-05-17
+12824880	Big Shell	Big Shell		53.19883	-107.13442	A	ADM2	CA		11	4716059			0		587	America/Regina	2024-05-17
+12824883	Echo Bay	Echo Bay		53.2115	-107.13033	A	ADM2	CA		11	4716060			0		587	America/Regina	2024-05-17
+12824886	Manitou Beach	Manitou Beach		51.71973	-105.44481	A	ADM2	CA		11	4711054			0		507	America/Regina	2024-05-17
+12824889	Thode	Thode		51.7888	-106.44285	A	ADM2	CA		11	4711060			0		557	America/Regina	2024-05-17
+12824893	Candle Lake	Candle Lake		53.7934	-105.28209	A	ADM2	CA		11	4715070			0		491	America/Regina	2024-05-17
+12824896	Cochin	Cochin		53.07895	-108.3418	A	ADM2	CA		11	4717002			0		530	America/Regina	2024-05-17
+12824899	Metinota	Metinota		53.03631	-108.40797	A	ADM2	CA		11	4717004			0		525	America/Regina	2024-05-17
+12824903	Aquadeo	Aquadeo		53.13821	-108.42051	A	ADM2	CA		11	4717005			0		531	America/Regina	2024-05-17
+12824906	North Grove	North Grove		50.69631	-105.56301	A	ADM2	CA		11	4706081			0		506	America/Regina	2024-05-17
+12824908	Pelican Pointe	Pelican Pointe		50.80391	-105.03632	A	ADM2	CA		11	4706082			0		513	America/Regina	2024-05-17
+12824911	Bird's Point	Bird's Point		50.54226	-102.34447	A	ADM2	CA		11	4705055			0		439	America/Regina	2024-05-19
+12824913	B-Say-Tah	B-Say-Tah		50.78044	-103.8355	A	ADM2	CA		11	4706052			0		481	America/Regina	2024-05-17
+12824916	West End	West End		50.55047	-102.41121	A	ADM2	CA		11	4705050			0		452	America/Regina	2024-05-17
+12824918	Lumsden Beach	Lumsden Beach		50.7644	-104.90034	A	ADM2	CA		11	4706057			0		518	America/Regina	2024-05-17
+12824920	Wee Too Beach	Wee Too Beach		50.9386	-105.17257	A	ADM2	CA		11	4706060			0		493	America/Regina	2024-05-19
+12824922	Island View	Island View		50.97271	-105.16276	A	ADM2	CA		11	4706085			0		495	America/Regina	2024-05-17
+12824923	South Lake	South Lake		50.69387	-105.58203	A	ADM2	CA		11	4707051			0		536	America/Regina	2024-05-17
+12824926	Coteau Beach	Coteau Beach		51.16489	-106.8236	A	ADM2	CA		11	4707068			0		560	America/Regina	2024-05-17
+12824928	Melville Beach	Melville Beach		50.61533	-102.72597	A	ADM2	CA		11	4705060			0		451	America/Regina	2024-05-19
+12824930	Alice Beach	Alice Beach		50.927	-105.16681	A	ADM2	CA		11	4706065			0		494	America/Regina	2024-05-17
+12824932	Etters Beach	Etters Beach		51.23777	-105.2969	A	ADM2	CA		11	4711007			0		491	America/Regina	2024-05-17
+12824934	Fort San	Fort San		50.79897	-103.81697	A	ADM2	CA		11	4706045			0		498	America/Regina	2024-05-17
+12824936	Grandview Beach	Grandview Beach		50.87315	-105.11019	A	ADM2	CA		11	4706069			0		510	America/Regina	2024-05-17
+12824938	Glen Harbour	Glen Harbour		50.88892	-105.09523	A	ADM2	CA		11	4706080			0		501	America/Regina	2024-05-17
+12824940	Saskatchewan Beach	Saskatchewan Beach		50.79722	-104.93082	A	ADM2	CA		11	4706072			0		511	America/Regina	2024-05-17
+12824942	Katepwa	Katepwa		50.69403	-103.62147	A	ADM2	CA		11	4706050			0		475	America/Regina	2024-05-19
+12824944	Kannata Valley	Kannata Valley		50.78506	-104.9048	A	ADM2	CA		11	4706075			0		503	America/Regina	2024-05-17
+12824946	Sunset Cove	Sunset Cove		50.80863	-105.00162	A	ADM2	CA		11	4706076			0		486	America/Regina	2024-05-17
+12824948	Beaver Flat	Beaver Flat		50.6612	-107.6633	A	ADM2	CA		11	4707020			0		565	America/Regina	2024-05-17
+12824950	Sun Valley	Sun Valley		50.66221	-105.54595	A	ADM2	CA		11	4707045			0		541	America/Regina	2024-05-17
+12824952	Mistusinne	Mistusinne		51.06581	-106.52764	A	ADM2	CA		11	4707074			0		563	America/Regina	2024-05-17
+12824954	Chitek Lake	Chitek Lake		53.75294	-107.73155	A	ADM2	CA		11	4716077			0		565	America/Regina	2024-05-17
+12824956	Kivimaa-Moonlight Bay	Kivimaa-Moonlight Bay		53.60979	-108.66299	A	ADM2	CA		11	4717042			0		651	America/Regina	2024-05-19
+12824959	Greig Lake	Greig Lake		54.44523	-108.69909	A	ADM2	CA		11	4717053			0		484	America/Regina	2024-05-17
+12825353	Green Lake	Green Lake		54.31528	-107.7917	A	ADM2	CA		11	4718021			0		465	America/Regina	2024-05-17
+12825355	Île-à-la-Crosse	Ile-a-la-Crosse		55.47454	-107.92068	A	ADM2	CA		11	4718067			0		419	America/Regina	2024-05-19
+12825357	Buffalo Narrows	Buffalo Narrows		55.86648	-108.61004	A	ADM2	CA		11	4718070			0		415	America/Regina	2024-05-19
+12825359	Sandy Bay	Sandy Bay		55.4855	-102.31029	A	ADM2	CA		11	4718058			0		290	America/Regina	2024-05-17
+12825362	Beauval	Beauval		55.12976	-107.65704	A	ADM2	CA		11	4718033			0		434	America/Regina	2024-05-17
+12825364	Cumberland House	Cumberland House		53.9423	-102.29755	A	ADM2	CA		11	4718005			0		265	America/Regina	2024-05-17
+12825367	Air Ronge	Air Ronge		55.08775	-105.33195	A	ADM2	CA		11	4718042			0		362	America/Regina	2024-05-17
+12825369	Pinehouse	Pinehouse		55.51705	-106.59358	A	ADM2	CA		11	4718065			0		387	America/Regina	2024-05-17
+12825371	Denare Beach	Denare Beach		54.65972	-102.07303	A	ADM2	CA		11	4718049			0		300	America/Winnipeg	2024-05-17
+12825375	Pelican Narrows	Pelican Narrows		55.19088	-102.93394	A	ADM2	CA		11	4718055			0		341	America/Regina	2024-05-19
+12825379	La Loche	La Loche		56.4875	-109.39854	A	ADM2	CA		11	4718074			0		440	America/Regina	2024-05-19
+12825526	Jans Bay	Jans Bay		55.14826	-108.10333	A	ADM2	CA		11	4718030			0		441	America/Regina	2024-05-17
+12825530	Patuanak	Patuanak		55.88949	-107.69852	A	ADM2	CA		11	4718069			0		422	America/Regina	2024-05-17
+12825533	St. George's Hill	St. George's Hill		55.87852	-108.96403	A	ADM2	CA		11	4718071			0		426	America/Regina	2024-05-17
+12825537	Michel Village	Michel Village		56.01052	-109.11743	A	ADM2	CA		11	4718072			0		429	America/Regina	2024-05-17
+12825540	Dore Lake	Dore Lake		54.62267	-107.42229	A	ADM2	CA		11	4718023			0		471	America/Regina	2024-05-17
+12825544	Timber Bay	Timber Bay		54.15691	-105.67418	A	ADM2	CA		11	4718012			0		504	America/Regina	2024-05-17
+12825548	Weyakwin	Weyakwin		54.43128	-105.80421	A	ADM2	CA		11	4718015			0		544	America/Regina	2024-05-17
+12825551	Cole Bay	Cole Bay		55.09729	-108.3263	A	ADM2	CA		11	4718028			0		437	America/Regina	2024-05-17
+12825554	Turnor Lake	Turnor Lake		56.47009	-108.71073	A	ADM2	CA		11	4718075			0		428	America/Regina	2024-05-17
+12825558	Black Point	Black Point		56.36729	-109.4453	A	ADM2	CA		11	4718089			0		452	America/Regina	2024-05-17
+12825561	Stony Rapids	Stony Rapids		59.2541	-105.84002	A	ADM2	CA		11	4718100			0		242	America/Regina	2024-05-17
+12871928	Teslin	Teslin		60.2244	-132.7668	A	ADM2	CA		12	6001057			0		1065	America/Whitehorse	2024-05-17
+12871931	Faro	Faro		62.21418	-133.35555	A	ADM2	CA		12	6001004			0		885	America/Whitehorse	2024-05-17
+12871936	Village of Teslin	Village of Teslin		60.1738	-132.71763	A	ADM2	CA		12	6001006			0		699	America/Whitehorse	2024-05-22
+12871940	Watson Lake	Watson Lake		60.07412	-128.75251	A	ADM2	CA		12	6001003			0		727	America/Whitehorse	2024-05-17
+12871943	Whitehorse	Whitehorse		60.70282	-135.06893	A	ADM2	CA		12	6001009			28201		634	America/Whitehorse	2024-05-17
+12871947	Haines Junction	Haines Junction		60.77108	-137.50931	A	ADM2	CA		12	6001018			0		617	America/Whitehorse	2024-05-17
+12871951	Carmacks	Carmacks		62.10014	-136.25677	A	ADM2	CA		12	6001012			0		533	America/Whitehorse	2024-05-17
+12871954	Mayo	Mayo		63.59654	-135.89609	A	ADM2	CA		12	6001022			0		581	America/Whitehorse	2024-05-17
+12871958	Dawson	Dawson		64.04628	-139.38887	A	ADM2	CA		12	6001029			0		342	America/Whitehorse	2024-05-17
+12873677	Portugal Cove South	Portugal Cove South		46.70984	-53.25488	A	ADM2	CA		05	1001105			0		13	America/St_Johns	2024-05-17
+12873680	Trepassey	Trepassey		46.7466	-53.36462	A	ADM2	CA		05	1001113			0		22	America/St_Johns	2024-05-17
+12873683	Renews-Cappahayden	Renews-Cappahayden		46.89013	-52.98773	A	ADM2	CA		05	1001131			0		84	America/St_Johns	2024-05-17
+12873686	St. Mary's	St. Mary's		46.9129	-53.53424	A	ADM2	CA		05	1001178			0		41	America/St_Johns	2024-05-17
+12873690	Lamaline	Lamaline		46.9077	-55.76802	A	ADM2	CA		05	1002012			0		28	America/St_Johns	2024-05-17
+12873694	Marystown	Marystown		47.15585	-55.16218	A	ADM2	CA		05	1002024			0		20	America/St_Johns	2024-05-17
+12873698	Fox Cove-Mortier	Fox Cove-Mortier		47.1021	-55.11088	A	ADM2	CA		05	1002025			0		67	America/St_Johns	2024-05-17
+12873702	Point May	Point May		46.94727	-55.93674	A	ADM2	CA		05	1002014			0		103	America/St_Johns	2024-05-17
+12873706	Hermitage-Sandyville	Hermitage-Sandyville		47.54637	-55.92413	A	ADM2	CA		05	1003011			0		16	America/St_Johns	2024-05-17
+12873709	Bay Roberts	Bay Roberts		47.58222	-53.29287	A	ADM2	CA		05	1001409			0		75	America/St_Johns	2024-05-17
+12873712	Cupids	Cupids		47.54708	-53.22608	A	ADM2	CA		05	1001437			0		12	America/St_Johns	2024-05-17
+12873715	Colliers	Colliers		47.44961	-53.24811	A	ADM2	CA		05	1001456			0		107	America/St_Johns	2024-05-17
+12873717	Mount Carmel-Mitchells Brook-St. Catherine's	Mount Carmel-Mitchells Brook-St. Catherine's		47.1862	-53.42361	A	ADM2	CA		05	1001197			0		113	America/St_Johns	2024-05-17
+12873720	Placentia	Placentia		47.26995	-53.90507	A	ADM2	CA		05	1001240			0		33	America/St_Johns	2024-05-17
+12873722	Long Harbour-Mount Arlington Heights	Long Harbour-Mount Arlington Heights		47.44312	-53.78317	A	ADM2	CA		05	1001263			0		15	America/St_Johns	2024-05-17
+12873725	Come By Chance	Come By Chance		47.83933	-53.98473	A	ADM2	CA		05	1001274			0		42	America/St_Johns	2024-05-17
+12873727	Bay Bulls	Bay Bulls		47.3249	-52.79375	A	ADM2	CA		05	1001557			1566		214	America/St_Johns	2024-09-04
+12873730	Witless Bay	Witless Bay		47.28103	-52.82016	A	ADM2	CA		05	1001559			1640		17	America/St_Johns	2024-09-04
+12873734	Burin	Burin		47.07332	-55.16848	A	ADM2	CA		05	1002005			0		62	America/St_Johns	2024-05-17
+12873737	St. Lawrence	St. Lawrence		46.90748	-55.40455	A	ADM2	CA		05	1002008			0		56	America/St_Johns	2024-05-17
+12873740	New Perlican	New Perlican		47.90674	-53.3266	A	ADM2	CA		05	1001328			0		85	America/St_Johns	2024-05-17
+12873744	Victoria	Victoria		47.77133	-53.23799	A	ADM2	CA		05	1001365			0		67	America/St_Johns	2024-05-17
+12873747	Logy Bay-Middle Cove-Outer Cove	Logy Bay-Middle Cove-Outer Cove		47.63679	-52.68711	A	ADM2	CA		05	1001511			0		61	America/St_Johns	2024-05-17
+12873751	Harbour Grace	Harbour Grace		47.67952	-53.25494	A	ADM2	CA		05	1001379			0		57	America/St_Johns	2024-05-17
+12873755	Conception Harbour	Conception Harbour		47.44015	-53.22279	A	ADM2	CA		05	1001461			0		59	America/St_Johns	2024-05-17
+12873758	Harbour Main-Chapel's Cove-Lakeview	Harbour Main-Chapel's Cove-Lakeview		47.41166	-53.17445	A	ADM2	CA		05	1001469			0		49	America/St_Johns	2024-05-17
+12873761	Holyrood	Holyrood		47.34463	-53.15262	A	ADM2	CA		05	1001472			0		194	America/St_Johns	2024-05-17
+12873764	Conception Bay South	Conception Bay South		47.49007	-52.99593	A	ADM2	CA		05	1001485			0		65	America/St_Johns	2024-05-17
+12873767	St. John's	St. John's		47.48177	-52.79716	A	ADM2	CA		05	1001519			0		148	America/St_Johns	2024-05-17
+12873770	Fortune	Fortune		47.04009	-55.86061	A	ADM2	CA		05	1002018			0		56	America/St_Johns	2024-05-17
+12873774	Parkers Cove	Parkers Cove		47.39868	-54.86049	A	ADM2	CA		05	1002034			0		60	America/St_Johns	2024-05-17
+12873777	Grand Le Pierre	Grand Le Pierre		47.77182	-54.80484	A	ADM2	CA		05	1002030			0		156	America/St_Johns	2024-05-17
+12873781	Musgrave Harbour	Musgrave Harbour		49.41671	-53.96478	A	ADM2	CA		05	1008006			0		33	America/St_Johns	2024-05-17
+12873785	Lewisporte	Lewisporte		49.24225	-55.07635	A	ADM2	CA		05	1008044			0		-9999	America/St_Johns	2024-05-19
+12873789	Harbour Breton	Harbour Breton		47.47719	-55.8238	A	ADM2	CA		05	1003008			0		7	America/St_Johns	2024-05-17
+12873793	Little Bay Islands	Little Bay Islands		49.64423	-55.79659	A	ADM2	CA		05	1008064			0		70	America/St_Johns	2024-05-17
+12873797	St. Jacques-Coomb's Cove	St. Jacques-Coomb's Cove		47.47133	-55.54198	A	ADM2	CA		05	1003003			0		97	America/St_Johns	2024-05-17
+12873801	Burgeo	Burgeo		47.63048	-57.62507	A	ADM2	CA		05	1003028			0		44	America/St_Johns	2024-05-17
+12873805	Isle aux Morts	Isle aux Morts		47.59713	-58.96654	A	ADM2	CA		05	1003032			0		14	America/St_Johns	2024-05-17
+12873810	Burnt Islands	Burnt Islands		47.61351	-58.86999	A	ADM2	CA		05	1003033			0		80	America/St_Johns	2024-05-17
+12873814	Channel-Port aux Basques	Channel-Port aux Basques		47.59904	-59.13129	A	ADM2	CA		05	1003034			0		61	America/St_Johns	2024-05-17
+12873818	St. George's	St. George's		48.41511	-58.4937	A	ADM2	CA		05	1004013			0		58	America/St_Johns	2024-05-17
+12873822	Port au Port East	Port au Port East		48.58046	-58.67087	A	ADM2	CA		05	1004021			0		341	America/St_Johns	2024-05-17
+12873826	Deer Lake	Deer Lake		49.19505	-57.39073	A	ADM2	CA		05	1005004			0		45	America/St_Johns	2024-05-17
+12873830	Jackson's Arm	Jackson's Arm		49.86753	-56.79885	A	ADM2	CA		05	1005005			0		156	America/St_Johns	2024-05-17
+12873834	Howley	Howley		49.15679	-57.09936	A	ADM2	CA		05	1005006			0		104	America/St_Johns	2024-05-17
+12873837	Cormack	Cormack		49.3176	-57.38581	A	ADM2	CA		05	1005014			0		132	America/St_Johns	2024-05-17
+12873841	Corner Brook	Corner Brook		48.92871	-57.92604	A	ADM2	CA		05	1005018			0		171	America/St_Johns	2024-05-17
+12873845	Englee	Englee		50.76493	-56.07051	A	ADM2	CA		05	1009004			0		128	America/St_Johns	2024-05-17
+12873849	Roddickton-Bide Arm	Roddickton-Bide Arm		50.83942	-56.10539	A	ADM2	CA		05	1009007			0		49	America/St_Johns	2024-05-17
+12873853	Conche	Conche		50.89468	-55.88627	A	ADM2	CA		05	1009008			0		97	America/St_Johns	2024-05-17
+12873857	Millertown	Millertown		48.81296	-56.53504	A	ADM2	CA		05	1006028			0		199	America/St_Johns	2024-05-17
+12873861	Port au Choix	Port au Choix		50.70448	-57.32553	A	ADM2	CA		05	1009022			0		25	America/St_Johns	2024-05-17
+12873865	Trinity Bay North	Trinity Bay North		48.52262	-53.07121	A	ADM2	CA		05	1007022			0		13	America/St_Johns	2024-05-17
+12873868	Bonavista	Bonavista		48.63083	-53.1042	A	ADM2	CA		05	1007023			0		59	America/St_Johns	2024-05-17
+12873872	Glovertown	Glovertown		48.69083	-54.03499	A	ADM2	CA		05	1007044			0		73	America/St_Johns	2024-05-17
+12873875	Salvage	Salvage		48.67332	-53.66326	A	ADM2	CA		05	1007046			0		137	America/St_Johns	2024-05-17
+12873878	Gambo	Gambo		48.79906	-54.21179	A	ADM2	CA		05	1007047			0		39	America/St_Johns	2024-05-17
+12873881	St. Brendan's	St. Brendan's		48.85784	-53.66768	A	ADM2	CA		05	1007048			0		38	America/St_Johns	2024-05-17
+12873883	Hare Bay	Hare Bay		48.85673	-54.03256	A	ADM2	CA		05	1007049			0		37	America/St_Johns	2024-05-17
+12873886	Centreville-Wareham-Trinity	Centreville-Wareham-Trinity		48.99842	-53.92128	A	ADM2	CA		05	1007050			0		5	America/St_Johns	2024-05-17
+12873889	Dover	Dover		48.88632	-53.95315	A	ADM2	CA		05	1007057			0		7	America/St_Johns	2024-05-17
+12873892	New-Wes-Valley	New-Wes-Valley		49.15505	-53.62634	A	ADM2	CA		05	1007060			0		23	America/St_Johns	2024-05-17
+12873896	Change Islands	Change Islands		49.66905	-54.40329	A	ADM2	CA		05	1008024			0		14	America/St_Johns	2024-05-17
+12873899	Crow Head	Crow Head		49.67975	-54.8	A	ADM2	CA		05	1008029			0		45	America/St_Johns	2024-05-17
+12873902	Cottlesville	Cottlesville		49.49518	-54.85418	A	ADM2	CA		05	1008032			0		19	America/St_Johns	2024-05-17
+12873906	Summerford	Summerford		49.49703	-54.78289	A	ADM2	CA		05	1008033			0		21	America/St_Johns	2024-05-17
+12873909	Comfort Cove-Newstead	Comfort Cove-Newstead		49.35787	-54.87555	A	ADM2	CA		05	1008039			0		23	America/St_Johns	2024-05-17
+12873913	St. Lunaire-Griquet	St. Lunaire-Griquet		51.52035	-55.47663	A	ADM2	CA		05	1009032			0		57	America/St_Johns	2024-05-17
+12873916	Embree	Embree		49.3011	-55.04377	A	ADM2	CA		05	1008043			0		28	America/St_Johns	2024-05-17
+12873920	Point of Bay	Point of Bay		49.2769	-55.26771	A	ADM2	CA		05	1008047			0		64	America/St_Johns	2024-05-17
+12873923	Leading Tickles	Leading Tickles		49.48207	-55.42702	A	ADM2	CA		05	1008048			0		153	America/St_Johns	2024-05-17
+12873927	Pilley's Island	Pilley's Island		49.52862	-55.71582	A	ADM2	CA		05	1008053			0		158	America/St_Johns	2024-05-17
+12873931	Triton	Triton		49.51865	-55.62053	A	ADM2	CA		05	1008054			0		9	America/St_Johns	2024-05-17
+12873935	Brighton	Brighton		49.54047	-55.64347	A	ADM2	CA		05	1008055			0		10	America/St_Johns	2024-05-17
+12873939	Lushes Bight-Beaumont-Beaumont North	Lushes Bight-Beaumont-Beaumont North		49.59364	-55.67787	A	ADM2	CA		05	1008056			0		67	America/St_Johns	2024-05-17
+12873943	South Brook	South Brook		49.4019	-56.09165	A	ADM2	CA		05	1008059			0		12	America/St_Johns	2024-05-17
+12873947	Springdale	Springdale		49.51249	-56.06249	A	ADM2	CA		05	1008061			0		90	America/St_Johns	2024-05-17
+12873951	Port Anson	Port Anson		49.53669	-55.85166	A	ADM2	CA		05	1008062			0		34	America/St_Johns	2024-05-17
+12873955	Burlington	Burlington		49.74992	-56.01689	A	ADM2	CA		05	1008071			0		4	America/St_Johns	2024-05-17
+12873959	Middle Arm	Middle Arm		49.70244	-56.11581	A	ADM2	CA		05	1008072			0		84	America/St_Johns	2024-05-17
+12873963	Fleur de Lys	Fleur de Lys		50.11607	-56.15736	A	ADM2	CA		05	1008075			0		26	America/St_Johns	2024-05-17
+12873966	LaScie	LaScie		49.94874	-55.61065	A	ADM2	CA		05	1008076			0		111	America/St_Johns	2024-05-17
+12873970	Pacquet	Pacquet		49.99264	-55.89729	A	ADM2	CA		05	1008078			0		76	America/St_Johns	2024-05-17
+12873973	Baie Verte	Baie Verte		49.90698	-56.19184	A	ADM2	CA		05	1008079			0		117	America/St_Johns	2024-05-17
+12873976	Coachman's Cove	Coachman's Cove		50.06792	-56.12391	A	ADM2	CA		05	1008092			0		192	America/St_Johns	2024-05-17
+12873980	Daniel's Harbour	Daniel's Harbour		50.23212	-57.58136	A	ADM2	CA		05	1009015			0		11	America/St_Johns	2024-05-17
+12873983	Cow Head	Cow Head		49.91844	-57.77095	A	ADM2	CA		05	1009016			0		14	America/St_Johns	2024-05-17
+12873987	Hawke's Bay	Hawke's Bay		50.61609	-57.15166	A	ADM2	CA		05	1009018			0		-9999	America/St_Johns	2024-05-19
+12873990	Port Saunders	Port Saunders		50.66212	-57.25383	A	ADM2	CA		05	1009019			0		54	America/St_Johns	2024-05-17
+12873995	Bird Cove	Bird Cove		51.04545	-56.93317	A	ADM2	CA		05	1009026			0		2	America/St_Johns	2024-05-17
+12873999	Main Brook	Main Brook		51.16556	-56.01156	A	ADM2	CA		05	1009028			0		1	America/St_Johns	2024-05-19
+12874003	St. Anthony	St. Anthony		51.37588	-55.6178	A	ADM2	CA		05	1009029			0		69	America/St_Johns	2024-05-17
+12874007	Raleigh	Raleigh		51.56251	-55.70775	A	ADM2	CA		05	1009035			0		1	America/St_Johns	2024-05-19
+12874011	L'Anse au Loup	L'Anse au Loup		51.52642	-56.8334	A	ADM2	CA		05	1010002			0		12	America/St_Johns	2024-05-17
+12874014	St. Lewis	St. Lewis		52.36941	-55.69161	A	ADM2	CA		05	1010010			0		9	America/St_Johns	2024-05-17
+12874017	Mary's Harbour	Mary's Harbour		52.28055	-55.84901	A	ADM2	CA		05	1010011			0		18	America/St_Johns	2024-05-17
+12874020	Postville	Postville		54.91126	-59.78092	A	ADM2	CA		05	1011015			0		49	America/Goose_Bay	2024-05-17
+12874023	Happy Valley-Goose Bay	Happy Valley-Goose Bay		53.33933	-60.44752	A	ADM2	CA		05	1010025			0		37	America/Goose_Bay	2024-05-17
+12874026	St. Shott's	St. Shott's		46.63373	-53.58465	A	ADM2	CA		05	1001120			0		32	America/St_Johns	2024-05-17
+12874029	Bishop's Cove	Bishop's Cove		47.63701	-53.23249	A	ADM2	CA		05	1001394			0		77	America/St_Johns	2024-05-17
+12874032	Nain	Nain		56.52577	-61.76228	A	ADM2	CA		05	1011035			0		233	America/Goose_Bay	2024-05-17
+12874035	Gaskiers-Point La Haye	Gaskiers-Point La Haye		46.86646	-53.60228	A	ADM2	CA		05	1001174			0		68	America/St_Johns	2024-05-17
+12874037	Riverhead	Riverhead		46.99327	-53.48371	A	ADM2	CA		05	1001181			0		128	America/St_Johns	2024-05-17
+12874039	St. Vincent's-St. Stephen's-Peter's River	St. Vincent's-St. Stephen's-Peter's River		46.78005	-53.58424	A	ADM2	CA		05	1001169			0		16	America/St_Johns	2024-05-17
+12874041	Wabana	Wabana		47.63931	-52.94791	A	ADM2	CA		05	1001494			0		87	America/St_Johns	2024-05-17
+12874044	Portugal Cove-St. Philip's	Portugal Cove-St. Philip's		47.62538	-52.83772	A	ADM2	CA		05	1001504			0		81	America/St_Johns	2024-05-17
+12874046	Pouch Cove	Pouch Cove		47.74676	-52.77759	A	ADM2	CA		05	1001505			0		130	America/St_Johns	2024-05-17
+12874048	Flatrock	Flatrock		47.70531	-52.73129	A	ADM2	CA		05	1001507			0		106	America/St_Johns	2024-05-17
+12874050	Lumsden	Lumsden		49.28745	-53.59459	A	ADM2	CA		05	1008004			0		16	America/St_Johns	2024-05-17
+12874052	Stephenville Crossing	Stephenville Crossing		48.52917	-58.45642	A	ADM2	CA		05	1004018			0		18	America/St_Johns	2024-05-17
+12874055	Stephenville	Stephenville		48.54839	-58.54857	A	ADM2	CA		05	1004019			0		14	America/St_Johns	2024-05-17
+12874058	Lark Harbour	Lark Harbour		49.10555	-58.39229	A	ADM2	CA		05	1005024			0		42	America/St_Johns	2024-05-17
+12874060	Humber Arm South	Humber Arm South		49.01595	-58.16832	A	ADM2	CA		05	1005020			0		258	America/St_Johns	2024-05-17
+12874062	Fogo Island	Fogo Island		49.6627	-54.18387	A	ADM2	CA		05	1008099			0		36	America/St_Johns	2024-05-17
+12874065	Cox's Cove	Cox's Cove		49.11175	-58.08086	A	ADM2	CA		05	1005023			0		84	America/St_Johns	2024-05-17
+12874069	Badger	Badger		48.97839	-56.04243	A	ADM2	CA		05	1006026			0		100	America/St_Johns	2024-05-17
+12874073	St. Pauls	St. Pauls		49.8535	-57.8137	A	ADM2	CA		05	1009020			0		1	America/St_Johns	2024-05-19
+12874078	Rigolet	Rigolet		54.17957	-58.44961	A	ADM2	CA		05	1011010			327		54	America/Goose_Bay	2024-10-28
+12874082	Red Bay	Red Bay		51.73755	-56.41987	A	ADM2	CA		05	1010003			0		18	America/St_Johns	2024-05-17
+12874085	Cape Broyle	Cape Broyle		47.096	-52.946	A	ADM2	CA		05	1001126			0		-9999	America/St_Johns	2024-05-23
+12874088	Colinet	Colinet		47.21938	-53.54831	A	ADM2	CA		05	1001207			0		10	America/St_Johns	2024-05-17
+12874091	Port Kirwan	Port Kirwan		46.98188	-52.9178	A	ADM2	CA		05	1001140			0		49	America/St_Johns	2024-05-17
+12874096	Seal Cove (Fortune Bay)	Seal Cove (Fortune Bay)		47.484	-56.07443	A	ADM2	CA		05	1003010			0		2	America/St_Johns	2024-05-17
+12874099	Aquaforte	Aquaforte		47.01446	-52.94594	A	ADM2	CA		05	1001144			0		50	America/St_Johns	2024-05-17
+12874102	St. Joseph's	St. Joseph's		47.09162	-53.51362	A	ADM2	CA		05	1001192			0		64	America/St_Johns	2024-05-17
+12874105	Ferryland	Ferryland		47.03012	-52.90603	A	ADM2	CA		05	1001149			0		109	America/St_Johns	2024-05-17
+12874109	Admirals Beach	Admirals Beach		47.01664	-53.59986	A	ADM2	CA		05	1001186			0		29	America/St_Johns	2024-05-17
+12874112	St. Bride's	St. Bride's		46.9253	-54.17239	A	ADM2	CA		05	1001228			0		11	America/St_Johns	2024-05-17
+12874115	Southern Harbour	Southern Harbour		47.7225	-53.95334	A	ADM2	CA		05	1001267			0		54	America/St_Johns	2024-05-17
+12874118	Branch	Branch		46.88526	-53.95903	A	ADM2	CA		05	1001219			0		1	America/St_Johns	2024-05-17
+12874121	Point Lance	Point Lance		46.82637	-54.08556	A	ADM2	CA		05	1001225			0		39	America/St_Johns	2024-05-17
+12874124	Fox Harbour	Fox Harbour		47.32105	-53.88222	A	ADM2	CA		05	1001254			0		95	America/St_Johns	2024-05-17
+12874127	Whiteway	Whiteway		47.6828	-53.4506	A	ADM2	CA		05	1001308			0		130	America/St_Johns	2024-05-17
+12874130	Winterton	Winterton		47.95282	-53.31384	A	ADM2	CA		05	1001332			0		77	America/St_Johns	2024-05-17
+12874133	Arnold's Cove	Arnold's Cove		47.77033	-53.9858	A	ADM2	CA		05	1001270			0		21	America/St_Johns	2024-05-17
+12874137	Gaultois	Gaultois		47.61313	-55.91355	A	ADM2	CA		05	1003012			0		79	America/St_Johns	2024-05-17
+12874140	Sunnyside	Sunnyside		47.87116	-53.91254	A	ADM2	CA		05	1001277			0		51	America/St_Johns	2024-05-17
+12874143	Chance Cove	Chance Cove		47.66617	-53.8308	A	ADM2	CA		05	1001281			0		39	America/St_Johns	2024-05-17
+12874146	Petty Harbour-Maddox Cove	Petty Harbour-Maddox Cove		47.47315	-52.70684	A	ADM2	CA		05	1001551			0		40	America/St_Johns	2024-05-17
+12874149	Norman's Cove-Long Cove	Norman's Cove-Long Cove		47.56262	-53.69003	A	ADM2	CA		05	1001285			0		39	America/St_Johns	2024-05-17
+12874151	Chapel Arm	Chapel Arm		47.50388	-53.6659	A	ADM2	CA		05	1001289			0		34	America/St_Johns	2024-05-17
+12874154	Whitbourne	Whitbourne		47.42512	-53.54195	A	ADM2	CA		05	1001298			0		62	America/St_Johns	2024-05-17
+12874157	Heart's Delight-Islington	Heart's Delight-Islington		47.77157	-53.44298	A	ADM2	CA		05	1001312			0		56	America/St_Johns	2024-05-17
+12874160	Heart's Desire	Heart's Desire		47.81558	-53.42633	A	ADM2	CA		05	1001316			0		95	America/St_Johns	2024-05-17
+12874164	Lewin's Cove	Lewin's Cove		47.08738	-55.21943	A	ADM2	CA		05	1002002			0		12	America/St_Johns	2024-05-17
+12874167	Heart's Content	Heart's Content		47.84977	-53.35455	A	ADM2	CA		05	1001325			0		48	America/St_Johns	2024-05-17
+12874170	Old Perlican	Old Perlican		48.0872	-52.99458	A	ADM2	CA		05	1001343			0		50	America/St_Johns	2024-05-17
+12874173	Salmon Cove	Salmon Cove		47.78054	-53.17434	A	ADM2	CA		05	1001361			0		13	America/St_Johns	2024-05-17
+12874176	Hant's Harbour	Hant's Harbour		47.99005	-53.27604	A	ADM2	CA		05	1001335			0		99	America/St_Johns	2024-05-17
+12874179	Bay de Verde	Bay de Verde		48.10065	-52.89076	A	ADM2	CA		05	1001347			0		121	America/St_Johns	2024-05-17
+12874182	Small Point-Adam's Cove-Blackhead-Broad Cove	Small Point-Adam's Cove-Blackhead-Broad Cove		47.84774	-53.12896	A	ADM2	CA		05	1001352			0		96	America/St_Johns	2024-05-17
+12874185	Carbonear	Carbonear		47.73101	-53.23298	A	ADM2	CA		05	1001370			0		22	America/St_Johns	2024-05-17
+12874188	Bryant's Cove	Bryant's Cove		47.67608	-53.1927	A	ADM2	CA		05	1001375			0		34	America/St_Johns	2024-05-17
+12874191	Upper Island Cove	Upper Island Cove		47.64985	-53.22326	A	ADM2	CA		05	1001385			0		108	America/St_Johns	2024-05-17
+12874194	Spaniard's Bay	Spaniard's Bay		47.6178	-53.33756	A	ADM2	CA		05	1001396			0		143	America/St_Johns	2024-05-17
+12874198	Point au Gaul	Point au Gaul		46.86741	-55.74815	A	ADM2	CA		05	1002015			0		45	America/St_Johns	2024-05-17
+12874201	North River	North River		47.54304	-53.31346	A	ADM2	CA		05	1001426			0		19	America/St_Johns	2024-05-17
+12874204	Mount Moriah	Mount Moriah		48.95872	-58.07167	A	ADM2	CA		05	1005033			0		303	America/St_Johns	2024-05-17
+12874208	Clarke's Beach	Clarke's Beach		47.53129	-53.30299	A	ADM2	CA		05	1001429			0		198	America/St_Johns	2024-05-17
+12874211	South River	South River		47.53145	-53.2705	A	ADM2	CA		05	1001434			0		18	America/St_Johns	2024-05-17
+12874214	Mount Pearl	Mount Pearl		47.51951	-52.81234	A	ADM2	CA		05	1001542			0		133	America/St_Johns	2024-05-17
+12874216	Avondale	Avondale		47.39883	-53.22646	A	ADM2	CA		05	1001464			0		65	America/St_Johns	2024-05-17
+12874218	Torbay	Torbay		47.65957	-52.75311	A	ADM2	CA		05	1001509			0		112	America/St_Johns	2024-05-17
+12874220	Bauline	Bauline		47.70116	-52.81955	A	ADM2	CA		05	1001512			0		168	America/St_Johns	2024-05-17
+12874223	Buchans	Buchans		48.82142	-56.851	A	ADM2	CA		05	1006031			0		265	America/St_Johns	2024-05-17
+12874225	Paradise	Paradise		47.53418	-52.88383	A	ADM2	CA		05	1001517			0		138	America/St_Johns	2024-05-17
+12874228	Lawn	Lawn		46.93563	-55.53389	A	ADM2	CA		05	1002011			0		1	America/St_Johns	2024-05-19
+12874233	Winterland	Winterland		47.15259	-55.31487	A	ADM2	CA		05	1002023			0		46	America/St_Johns	2024-05-17
+12874238	Lord's Cove	Lord's Cove		46.89863	-55.65902	A	ADM2	CA		05	1002013			0		90	America/St_Johns	2024-05-17
+12874243	Frenchman's Cove	Frenchman's Cove		47.1631	-55.41651	A	ADM2	CA		05	1002017			0		48	America/St_Johns	2024-05-17
+12874248	Grand Bank	Grand Bank		47.08964	-55.75523	A	ADM2	CA		05	1002019			0		28	America/St_Johns	2024-05-17
+12874252	Milltown-Head of Bay d'Espoir	Milltown-Head of Bay d'Espoir		47.92714	-55.74435	A	ADM2	CA		05	1003018			0		83	America/St_Johns	2024-05-17
+12874255	Garnish	Garnish		47.21671	-55.33116	A	ADM2	CA		05	1002021			0		7	America/St_Johns	2024-05-17
+12874258	Indian Bay	Indian Bay		49.06222	-53.95944	A	ADM2	CA		05	1007067			0		58	America/St_Johns	2024-05-17
+12874262	Bay L'Argent	Bay L'Argent		47.54491	-54.89165	A	ADM2	CA		05	1002027			0		22	America/St_Johns	2024-05-19
+12874265	Rushoon	Rushoon		47.35035	-54.92022	A	ADM2	CA		05	1002033			0		59	America/St_Johns	2024-05-17
+12874268	Terrenceville	Terrenceville		47.66115	-54.70516	A	ADM2	CA		05	1002036			0		165	America/St_Johns	2024-05-17
+12874271	Red Harbour	Red Harbour		47.29232	-55.00052	A	ADM2	CA		05	1002037			0		59	America/St_Johns	2024-05-17
+12874274	English Harbour East	English Harbour East		47.63927	-54.88238	A	ADM2	CA		05	1002039			0		134	America/St_Johns	2024-05-19
+12874277	Baine Harbour	Baine Harbour		47.36516	-54.89711	A	ADM2	CA		05	1002040			0		22	America/St_Johns	2024-05-17
+12874281	St. Bernard's-Jacques Fontaine	St. Bernard's-Jacques Fontaine		47.51944	-54.9054	A	ADM2	CA		05	1002041			0		6	America/St_Johns	2024-05-17
+12874284	Little Bay	Little Bay		49.59853	-55.9526	A	ADM2	CA		05	1008063			0		5	America/St_Johns	2024-05-17
+12874287	Little Bay East	Little Bay East		47.55523	-54.85987	A	ADM2	CA		05	1002055			0		30	America/St_Johns	2024-05-17
+12874291	Pool's Cove	Pool's Cove		47.68268	-55.43695	A	ADM2	CA		05	1003005			0		65	America/St_Johns	2024-05-17
+12874294	Rencontre East	Rencontre East		47.64253	-55.2186	A	ADM2	CA		05	1003002			0		96	America/St_Johns	2024-05-17
+12874298	Belleoram	Belleoram		47.5249	-55.41632	A	ADM2	CA		05	1003004			0		89	America/St_Johns	2024-05-17
+12874301	Morrisville	Morrisville		47.8846	-55.76347	A	ADM2	CA		05	1003020			0		126	America/St_Johns	2024-05-17
+12874305	Gallants	Gallants		48.70568	-58.23951	A	ADM2	CA		05	1004017			0		160	America/St_Johns	2024-05-17
+12874309	St. Alban's	St. Alban's		47.87686	-55.84889	A	ADM2	CA		05	1003019			0		19	America/St_Johns	2024-05-17
+12874312	Lourdes	Lourdes		48.64965	-58.99802	A	ADM2	CA		05	1004037			0		26	America/St_Johns	2024-05-17
+12874316	Ramea	Ramea		47.52065	-57.3947	A	ADM2	CA		05	1003026			0		12	America/St_Johns	2024-05-17
+12874319	Rose Blanche-Harbour le Cou	Rose Blanche-Harbour le Cou		47.62126	-58.69025	A	ADM2	CA		05	1003045			0		28	America/St_Johns	2024-05-17
+12874323	Kippens	Kippens		48.5584	-58.63415	A	ADM2	CA		05	1004020			0		35	America/St_Johns	2024-05-17
+12874327	Meadows	Meadows		48.99631	-58.0455	A	ADM2	CA		05	1005025			0		103	America/St_Johns	2024-05-17
+12874331	Hampden	Hampden		49.54048	-56.8814	A	ADM2	CA		05	1005008			0		208	America/St_Johns	2024-05-17
+12874335	Port au Port West-Aguathuna-Felix Cove	Port au Port West-Aguathuna-Felix Cove		48.54629	-58.77421	A	ADM2	CA		05	1004042			0		95	America/St_Johns	2024-05-17
+12874339	Hughes Brook	Hughes Brook		48.99989	-57.87959	A	ADM2	CA		05	1005028			0		56	America/St_Johns	2024-05-17
+12874343	Reidville	Reidville		49.25986	-57.36646	A	ADM2	CA		05	1005009			0		64	America/St_Johns	2024-05-17
+12874346	Steady Brook	Steady Brook		48.96218	-57.81077	A	ADM2	CA		05	1005011			0		2	America/St_Johns	2024-05-19
+12874349	Pasadena	Pasadena		49.0113	-57.57091	A	ADM2	CA		05	1005012			0		79	America/St_Johns	2024-05-17
+12874352	Glenwood	Glenwood		48.98028	-54.88197	A	ADM2	CA		05	1006012			0		30	America/St_Johns	2024-05-17
+12874356	Gillams	Gillams		49.01937	-58.06832	A	ADM2	CA		05	1005015			0		20	America/St_Johns	2024-05-17
+12874360	Massey Drive	Massey Drive		48.93654	-57.89343	A	ADM2	CA		05	1005017			0		223	America/St_Johns	2024-05-17
+12874363	Miles Cove	Miles Cove		49.54046	-55.7961	A	ADM2	CA		05	1008098			0		84	America/St_Johns	2024-05-17
+12874367	McIvers	McIvers		49.06147	-58.10988	A	ADM2	CA		05	1005022			0		42	America/St_Johns	2024-05-17
+12874371	Irishtown-Summerside	Irishtown-Summerside		48.98784	-57.95413	A	ADM2	CA		05	1005030			0		262	America/St_Johns	2024-05-17
+12874375	York Harbour	York Harbour		49.06423	-58.26805	A	ADM2	CA		05	1005035			0		-9999	America/St_Johns	2024-05-19
+12874379	Norris Arm	Norris Arm		49.07769	-55.23841	A	ADM2	CA		05	1006003			0		88	America/St_Johns	2024-05-17
+12874382	Gander	Gander		48.95766	-54.58956	A	ADM2	CA		05	1006009			0		134	America/St_Johns	2024-05-17
+12874385	Appleton	Appleton		48.98178	-54.85706	A	ADM2	CA		05	1006011			0		90	America/St_Johns	2024-05-17
+12874388	Peterview	Peterview		49.10896	-55.33843	A	ADM2	CA		05	1006021			0		39	America/St_Johns	2024-05-17
+12874391	Northern Arm	Northern Arm		49.18626	-55.38457	A	ADM2	CA		05	1006015			0		118	America/St_Johns	2024-05-17
+12874395	Grand Falls-Windsor	Grand Falls-Windsor		48.95769	-55.66317	A	ADM2	CA		05	1006017			0		95	America/St_Johns	2024-05-17
+12874399	Bishop's Falls	Bishop's Falls		49.01988	-55.48963	A	ADM2	CA		05	1006019			0		61	America/St_Johns	2024-05-17
+12874403	Woody Point, Bonne Bay	Woody Point, Bonne Bay		49.49663	-57.92702	A	ADM2	CA		05	1009011			0		101	America/St_Johns	2024-05-17
+12874407	Botwood	Botwood		49.13441	-55.37218	A	ADM2	CA		05	1006022			0		45	America/St_Johns	2024-05-17
+12874411	Clarenville	Clarenville		48.1878	-54.05527	A	ADM2	CA		05	1007013			0		253	America/St_Johns	2024-05-17
+12874414	Trinity (Trinity Bay)	Trinity (Trinity Bay)		48.37375	-53.39122	A	ADM2	CA		05	1007015			0		48	America/St_Johns	2024-05-17
+12874418	Port Rexton	Port Rexton		48.39965	-53.32466	A	ADM2	CA		05	1007016			0		19	America/St_Johns	2024-05-17
+12874420	Elliston	Elliston		48.62974	-53.04863	A	ADM2	CA		05	1007020			0		78	America/St_Johns	2024-05-17
+12874423	Traytown	Traytown		48.6607	-53.97985	A	ADM2	CA		05	1007037			0		39	America/St_Johns	2024-05-17
+12874426	Keels	Keels		48.60193	-53.40838	A	ADM2	CA		05	1007025			0		15	America/St_Johns	2024-05-17
+12874428	Duntara	Duntara		48.58648	-53.3808	A	ADM2	CA		05	1007026			0		81	America/St_Johns	2024-05-17
+12874430	King's Cove	King's Cove		48.55959	-53.37337	A	ADM2	CA		05	1007027			0		108	America/St_Johns	2024-05-17
+12874433	Musgravetown	Musgravetown		48.41451	-53.89236	A	ADM2	CA		05	1007032			0		87	America/St_Johns	2024-05-17
+12874435	Anchor Point	Anchor Point		51.23808	-56.78903	A	ADM2	CA		05	1009023			0		8	America/St_Johns	2024-05-17
+12874438	Port Blandford	Port Blandford		48.34279	-54.18048	A	ADM2	CA		05	1007036			0		73	America/St_Johns	2024-05-17
+12874439	Sandy Cove	Sandy Cove		48.64755	-53.7085	A	ADM2	CA		05	1007039			0		148	America/St_Johns	2024-05-17
+12874442	Terra Nova	Terra Nova		48.50411	-54.21236	A	ADM2	CA		05	1007040			0		96	America/St_Johns	2024-05-17
+12874444	Sandringham	Sandringham		48.65893	-53.8276	A	ADM2	CA		05	1007043			0		40	America/St_Johns	2024-05-17
+12874446	Happy Adventure	Happy Adventure		48.63499	-53.78243	A	ADM2	CA		05	1007041			0		35	America/St_Johns	2024-05-17
+12874449	Makkovik	Makkovik		55.08555	-59.18314	A	ADM2	CA		05	1011020			0		37	America/Goose_Bay	2024-05-17
+12874451	Eastport	Eastport		48.66456	-53.76803	A	ADM2	CA		05	1007042			0		51	America/St_Johns	2024-05-17
+12874456	Greenspond	Greenspond		49.07338	-53.57698	A	ADM2	CA		05	1007054			0		47	America/St_Johns	2024-05-17
+12874458	Carmanville	Carmanville		49.36703	-54.29132	A	ADM2	CA		05	1008011			0		11	America/St_Johns	2024-05-17
+12874461	Campbellton	Campbellton		49.26977	-54.93134	A	ADM2	CA		05	1008037			0		24	America/St_Johns	2024-05-17
+12874463	Glenburnie-Birchy Head-Shoal Brook	Glenburnie-Birchy Head-Shoal Brook		49.45278	-57.91206	A	ADM2	CA		05	1009030			0		168	America/St_Johns	2024-05-17
+12874466	Birchy Bay	Birchy Bay		49.32023	-54.71919	A	ADM2	CA		05	1008038			0		66	America/St_Johns	2024-05-17
+12874468	Baytona	Baytona		49.32958	-54.78346	A	ADM2	CA		05	1008040			0		35	America/St_Johns	2024-05-17
+12874470	Little Burnt Bay	Little Burnt Bay		49.33982	-55.08166	A	ADM2	CA		05	1008045			0		27	America/St_Johns	2024-05-17
+12874473	Point Leamington	Point Leamington		49.32027	-55.41558	A	ADM2	CA		05	1008049			0		11	America/St_Johns	2024-05-17
+12874476	Robert's Arm	Robert's Arm		49.47757	-55.83815	A	ADM2	CA		05	1008060			0		6	America/St_Johns	2024-05-17
+12874480	Beachside	Beachside		49.64257	-55.90003	A	ADM2	CA		05	1008066			0		23	America/St_Johns	2024-05-17
+12874483	King's Point	King's Point		49.58035	-56.20804	A	ADM2	CA		05	1008069			0		56	America/St_Johns	2024-05-17
+12874487	Nippers Harbour	Nippers Harbour		49.79267	-55.86478	A	ADM2	CA		05	1008070			0		73	America/St_Johns	2024-05-17
+12874491	Tilt Cove	Tilt Cove		49.88762	-55.62146	A	ADM2	CA		05	1008073			0		81	America/St_Johns	2024-05-17
+12874494	Brent's Cove	Brent's Cove		49.9385	-55.71677	A	ADM2	CA		05	1008077			0		112	America/St_Johns	2024-05-19
+12874497	Seal Cove (White Bay)	Seal Cove (White Bay)		49.93202	-56.37423	A	ADM2	CA		05	1008091			0		168	America/St_Johns	2024-05-17
+12874500	Trout River	Trout River		49.4726	-58.12701	A	ADM2	CA		05	1009010			0		17	America/St_Johns	2024-05-17
+12874503	Westport	Westport		49.78736	-56.61426	A	ADM2	CA		05	1008093			0		105	America/St_Johns	2024-05-17
+12874506	Ming's Bight	Ming's Bight		49.97483	-56.04155	A	ADM2	CA		05	1008095			0		11	America/St_Johns	2024-05-17
+12874509	Woodstock	Woodstock		49.96609	-55.89309	A	ADM2	CA		05	1008096			0		25	America/St_Johns	2024-05-17
+12874511	Norris Point	Norris Point		49.53169	-57.87543	A	ADM2	CA		05	1009012			0		33	America/St_Johns	2024-05-17
+12874514	Bellburns	Bellburns		50.32631	-57.52891	A	ADM2	CA		05	1009042			0		38	America/St_Johns	2024-05-17
+12874517	Parson's Pond	Parson's Pond		50.03679	-57.69735	A	ADM2	CA		05	1009017			0		-1	America/St_Johns	2024-05-17
+12874521	Flower's Cove	Flower's Cove		51.29593	-56.71961	A	ADM2	CA		05	1009024			0		7	America/St_Johns	2024-05-17
+12874524	Cook's Harbour	Cook's Harbour		51.60769	-55.86333	A	ADM2	CA		05	1009034			0		2	America/St_Johns	2024-05-17
+12874528	Sally's Cove	Sally's Cove		49.72393	-57.93106	A	ADM2	CA		05	1009037			0		14	America/St_Johns	2024-05-17
+12874532	Goose Cove East	Goose Cove East		51.30437	-55.61796	A	ADM2	CA		05	1009039			0		85	America/St_Johns	2024-05-17
+12874536	River of Ponds	River of Ponds		50.52982	-57.3837	A	ADM2	CA		05	1009048			0		15	America/St_Johns	2024-05-17
+12874541	L'Anse-au-Clair	L'Anse-au-Clair		51.46366	-57.06698	A	ADM2	CA		05	1010004			0		158	America/St_Johns	2024-05-17
+12874547	Labrador City	Labrador City		52.95912	-66.93686	A	ADM2	CA		05	1010032			0		719	America/Goose_Bay	2024-05-17
+12874552	Forteau	Forteau		51.48537	-56.95767	A	ADM2	CA		05	1010005			0		5	America/St_Johns	2024-05-19
+12874556	West St. Modeste	West St. Modeste		51.59691	-56.72158	A	ADM2	CA		05	1010006			0		96	America/St_Johns	2024-05-17
+12874559	Pinware	Pinware		51.63359	-56.70728	A	ADM2	CA		05	1010007			0		23	America/St_Johns	2024-05-17
+12874563	Port Hope Simpson	Port Hope Simpson		52.54336	-56.33541	A	ADM2	CA		05	1010009			0		65	America/St_Johns	2024-05-17
+12874568	Cartwright, Labrador	Cartwright, Labrador		53.7047	-57.0017	A	ADM2	CA		05	1010012			0		0	America/Goose_Bay	2024-05-17
+12874572	Charlottetown (Labrador)	Charlottetown (Labrador)		52.76734	-56.13888	A	ADM2	CA		05	1010013			0		17	America/St_Johns	2024-05-17
+12874577	North West River	North West River		53.53841	-60.14136	A	ADM2	CA		05	1010022			0		8	America/Goose_Bay	2024-05-17
+12874581	Wabush	Wabush		52.8755	-66.88911	A	ADM2	CA		05	1010034			0		628	America/Goose_Bay	2024-05-17
+12874586	Hopedale	Hopedale		55.44849	-60.21437	A	ADM2	CA		05	1011030			0		6	America/Goose_Bay	2024-05-19
+12877466	Tulita	Tulita		64.91863	-125.46105	A	ADM2	CA		13	6102005			0		27	America/Edmonton	2025-05-01
+12877469	Norman Wells	Norman Wells		65.29215	-126.76416	A	ADM2	CA		13	6102007			0		135	America/Edmonton	2025-05-01
+12877471	Paulatuk	Paulatuk		69.32445	-123.98721	A	ADM2	CA		13	6101014			0		28	America/Edmonton	2025-05-01
+12877474	Whatì	Whati		63.16488	-117.17706	A	ADM2	CA		13	6103034			0		261	America/Edmonton	2025-05-01
+12877477	Aklavik	Aklavik		68.22775	-135.06855	A	ADM2	CA		13	6101025			0		1	America/Edmonton	2025-05-01
+12877480	Tuktoyaktuk	Tuktoyaktuk		69.4264	-132.99805	A	ADM2	CA		13	6101036			0		11	America/Edmonton	2025-05-01
+12877483	Sachs Harbour	Sachs Harbour		72.01773	-125.23952	A	ADM2	CA		13	6101041			0		78	America/Edmonton	2025-05-01
+12877485	Fort Simpson	Fort Simpson		61.80819	-121.31994	A	ADM2	CA		13	6104038			0		162	America/Edmonton	2025-05-01
+12877488	Fort Good Hope	Fort Good Hope		66.26663	-128.57805	A	ADM2	CA		13	6102009			0		37	America/Edmonton	2025-05-01
+12877491	Tsiigehtchic	Tsiigehtchic		67.42858	-133.69258	A	ADM2	CA		13	6101010			0		61	America/Edmonton	2025-05-01
+12877493	Hay River	Hay River		60.76366	-115.88692	A	ADM2	CA		13	6105016			0		159	America/Edmonton	2025-05-01
+12877496	Fort McPherson	Fort McPherson		67.43316	-134.82671	A	ADM2	CA		13	6101015			0		19	America/Edmonton	2025-05-01
+12877500	Behchokò	Behchoko		62.81844	-115.99332	A	ADM2	CA		13	6103031			0		156	America/Edmonton	2025-05-01
+12877504	Gamètì	Gameti		64.11385	-117.31023	A	ADM2	CA		13	6103049			0		202	America/Edmonton	2025-05-01
+12877509	Yellowknife	Yellowknife		62.47086	-114.40528	A	ADM2	CA		13	6106023			0		262	America/Edmonton	2025-05-01
+12877513	Wekweètì	Wekweeti		64.1891	-114.18716	A	ADM2	CA		13	6103052			0		415	America/Edmonton	2025-05-01
+12877517	Fort Liard	Fort Liard		60.2563	-123.3826	A	ADM2	CA		13	6104009			0		306	America/Edmonton	2025-05-01
+12877521	Fort Providence	Fort Providence		61.42133	-117.61756	A	ADM2	CA		13	6104014			0		155	America/Edmonton	2025-05-01
+12877524	Fort Resolution	Fort Resolution		61.049	-113.69149	A	ADM2	CA		13	6105018			0		209	America/Edmonton	2025-05-01
+12877528	Inuvik	Inuvik		68.34035	-133.60981	A	ADM2	CA		13	6101017			0		49	America/Inuvik	2024-05-17
+12877533	Ulukhaktok	Ulukhaktok		70.76306	-117.73972	A	ADM2	CA		13	6101095			0		29	America/Edmonton	2025-05-01
+12877537	Déline	Deline		65.21146	-123.43172	A	ADM2	CA		13	6102003			0		199	America/Edmonton	2025-05-01
+12877541	Enterprise	Enterprise		60.55629	-116.20422	A	ADM2	CA		13	6105003			0		186	America/Edmonton	2025-05-01
+12877546	Fort Smith	Fort Smith		60.026	-112.08214	A	ADM2	CA		13	6105001			0		203	America/Edmonton	2025-05-01

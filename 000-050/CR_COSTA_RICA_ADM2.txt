@@ -1,0 +1,82 @@
+﻿3621119	Vázquez de Coronado	Vazquez de Coronado	Canton Vazquez de Coronado,Canton de Coronado,Cantón Vázquez de Coronado,Cantón de Coronado	10.06	-84	A	ADM2	CR		08	111			60486		1538	America/Costa_Rica	2016-09-06
+3621127	Sarchí	Sarchi	Canton Valverde Vega,Canton de Valverde Vega,Cantón Valverde Vega,Cantón de Valverde Vega	10.18721	-84.3029	A	ADM2	CR		01	212			18085		1853	America/Costa_Rica	2020-10-18
+3621152	Upala	Upala	Canton de Upala,Cantón de Upala,Upala	10.87661	-85.13611	A	ADM2	CR		01	213			43953		84	America/Costa_Rica	2020-06-10
+3621177	Turrubares	Turrubares	Canton 160 Turrubares,Canton Decimosexto Turrubares,Canton Turrubares,Canton XVI Turrubares,Canton de Turrubares,Cantón 160 Turrubares,Cantón Décimosexto Turrubares,Cantón Turrubares,Cantón XVI Turrubares,Cantón de Turrubares,Turrubares	9.73729	-84.5233	A	ADM2	CR		08	116			5512		303	America/Costa_Rica	2020-06-10
+3621183	Turrialba	Turrialba	Canton de Turrialba,Cantón de Turrialba,Turrialba	9.81406	-83.51575	A	ADM2	CR		02	305			69616		1032	America/Costa_Rica	2020-06-10
+3621277	Tilarán	Tilaran	Canton de Tilaran,Cantón de Tilarán	10.45878	-84.97513	A	ADM2	CR		03	508			19640		543	America/Costa_Rica	2016-09-07
+3621308	Tibás	Tibas	Canton de Tibas,Cantón de Tibás	9.96667	-84.08333	A	ADM2	CR		08	113			64842		1153	America/Costa_Rica	2016-09-06
+3621342	Tarrazú	Tarrazu	Canton Tarrazu,Canton de Tarrazu,Cantón Tarrazú,Cantón de Tarrazú	9.65965	-84.02138	A	ADM2	CR		08	105			16280		1441	America/Costa_Rica	2016-09-07
+3621369	Talamanca	Talamanca	Canton de Talamanca,Cantón de Talamanca,Talamanca	9.46115	-83.09844	A	ADM2	CR		06	704			30712		1140	America/Costa_Rica	2020-06-10
+3621439	Siquirres	Siquirres	Canton de Siquirres,Cantón de Siquirres,Siquirres	10.13607	-83.48275	A	ADM2	CR		06	703			56786		34	America/Costa_Rica	2020-06-10
+3621497	Sarapiquí	Sarapiqui	Canton de Sarapiqui,Cantón de Sarapiquí	10.5	-84	A	ADM2	CR		04	410			57147		37	America/Costa_Rica	2016-09-06
+3621512	Santo Domingo	Santo Domingo	Canton de Santo Domingo,Cantón de Santo Domingo,Santo Domingo	9.98333	-84.06843	A	ADM2	CR		04	403			40072		1212	America/Costa_Rica	2020-06-10
+3621604	Santa Cruz	Santa Cruz	Canton de Santa Cruz,Cantón de Santa Cruz,Santa Cruz	10.2377	-85.6737	A	ADM2	CR		03	503			55104		198	America/Costa_Rica	2020-06-10
+3621622	Santa Bárbara	Santa Barbara	Canton de Santa Barbara,Cantón de Santa Bárbara	10.08333	-84.15	A	ADM2	CR		04	404			36243		1527	America/Costa_Rica	2016-09-06
+3621626	Santa Ana	Santa Ana	Canton de Santa Ana,Cantón de Santa Ana,Santa Ana	9.92486	-84.19392	A	ADM2	CR		08	109			49123		1056	America/Costa_Rica	2020-06-10
+3621668	San Rafael	San Rafael	Canton de San Rafael,Cantón de San Rafael,San Rafael	10.04648	-84.07546	A	ADM2	CR		04	405			45965		1625	America/Costa_Rica	2020-06-10
+3621727	San Pablo	San Pablo	Canton de San Pablo,Cantón de San Pablo,San Pablo	9.9967	-84.0934	A	ADM2	CR		04	409			27671		1203	America/Costa_Rica	2020-06-10
+3621757	San Mateo	San Mateo	Canton de San Mateo,Cantón de San Mateo,San Mateo	9.95744	-84.53154	A	ADM2	CR		01	204			6136		410	America/Costa_Rica	2020-06-10
+3621840	San José	San Jose	Canton Central,Canton Central de San Jose,Canton San Jose,Cantón Central de San José,Cantón San José	9.93333	-84.08333	A	ADM2	CR		08	101			288054		1161	America/Costa_Rica	2016-09-06
+3621871	San Isidro	San Isidro	Canton de San Isidro,Cantón de San Isidro,San Isidro	10.0274	-84.0337	A	ADM2	CR		04	406			20633		1386	America/Costa_Rica	2020-06-10
+3621940	San Carlos	San Carlos	Canton San Carlos,Canton de San Carlos,Cantón San Carlos,Cantón de San Carlos,San Carlos	10.58654	-84.40198	A	ADM2	CR		01	210			163745		99	America/Costa_Rica	2020-06-10
+3622220	Puriscal	Puriscal	Canton Puriscal,Canton de Puriscal,Cantón Puriscal,Cantón de Puriscal,Puriscal	9.7267	-84.40396	A	ADM2	CR		08	104			33004		479	America/Costa_Rica	2020-06-10
+3622227	Puntarenas	Puntarenas	Canton Central de Puntarenas,Canton Puntarenas,Cantón Central de Puntarenas,Cantón Puntarenas	9.98102	-84.81342	A	ADM2	CR		07	601			115019		9	America/Costa_Rica	2016-09-07
+3622326	Pococí	Pococi	Canton de Pococi,Cantone di Pococi,Cantone di Pococí,Cantón de Pococí	10.5	-83.63333	A	ADM2	CR		06	702			125962		26	America/Costa_Rica	2018-12-21
+3622341	Poás	Poas	Canton de Poas,Cantón de Poás	10.08333	-84.23333	A	ADM2	CR		01	208			29199		1176	America/Costa_Rica	2016-09-06
+3622439	Pérez Zeledón	Perez Zeledon	Canton Perez Zeledon,Canton de Perez Zeledon,Cantón Pérez Zeledón,Cantón de Pérez Zeledón	9.35473	-83.63484	A	ADM2	CR		08	119			134534		754	America/Costa_Rica	2016-09-06
+3622535	Parrita	Parrita	Canton de Parrita,Cantón de Parrita,Parrita	9.55	-84.31751	A	ADM2	CR		07	609			16115		13	America/Costa_Rica	2020-06-10
+3622543	Paraíso	Paraiso	Canton de Paraiso,Cantón de Paraíso	9.75	-83.8	A	ADM2	CR		02	302			57743		1870	America/Costa_Rica	2016-09-06
+3622608	Palmares	Palmares	Canton de Palmares,Cantón de Palmares,Palmares	10.04036	-84.43685	A	ADM2	CR		01	207			34716		1030	America/Costa_Rica	2020-06-10
+3622657	Osa	Osa	Canton de Osa,Cantón de Osa,Osa	8.84183	-83.41932	A	ADM2	CR		07	605			29433		5	America/Costa_Rica	2020-06-10
+3622659	Orotina	Orotina	Canton Orotina,Canton de Orotina,Cantón Orotina,Cantón de Orotina,Orotina	9.88479	-84.5787	A	ADM2	CR		01	209			20341		152	America/Costa_Rica	2020-06-10
+3622669	Oreamuno	Oreamuno	Canton Oreamuno,Canton de Oreamuno,Cantón Oreamuno,Cantón de Oreamuno,Oreamuno	9.9636	-83.8523	A	ADM2	CR		02	307			45473		3134	America/Costa_Rica	2020-06-10
+3622715	Nicoya	Nicoya	Canton de Nicoya,Cantón de Nicoya,Nicoya	10.11161	-85.50808	A	ADM2	CR		03	502			50825		199	America/Costa_Rica	2020-06-10
+3622749	Naranjo	Naranjo	Canton de Naranjo,Cantón de Naranjo,Naranjo	10.10788	-84.39297	A	ADM2	CR		01	206			42713		1104	America/Costa_Rica	2020-06-10
+3622764	Nandayure	Nandayure	Canton de Nandayure,Cantón de Nandayure,Nandayure	9.89647	-85.31161	A	ADM2	CR		03	509			11121		274	America/Costa_Rica	2020-06-10
+3622800	Moravia	Moravia		10.04	-84	A	ADM2	CR		08	114			56919		1504	America/Costa_Rica	2016-09-06
+3622808	Mora	Mora	Canton de Mora,Cantón de Mora,Mora	9.88071	-84.25036	A	ADM2	CR		08	107			26294		983	America/Costa_Rica	2020-06-10
+3622813	Montes de Oro	Montes de Oro	Canton de Montes de Oro,Cantón de Montes de Oro,Montes de Oro	10.10849	-84.74151	A	ADM2	CR		07	604			12950		488	America/Costa_Rica	2020-06-10
+3622814	Montes de Oca	Montes de Oca	Canton de Montes de Oca,Cantón de Montes de Oca	9.9396	-84.03013	A	ADM2	CR		08	115			49132		1278	America/Costa_Rica	2016-09-07
+3622893	Matina	Matina	Canton de Matina,Cantón de Matina,Matina	10.01351	-83.26431	A	ADM2	CR		06	705			37721		19	America/Costa_Rica	2020-06-10
+3623007	Los Chiles	Los Chiles	Canton de Los Chiles,Cantón de Los Chiles,Los Chiles	10.87897	-84.66491	A	ADM2	CR		01	214			23735		48	America/Costa_Rica	2020-06-10
+3623065	Limón	Limon	Canton Central de Limon,Cantón Central de Limón	9.76667	-83.16667	A	ADM2	CR		06	701			94415		691	America/Costa_Rica	2016-09-06
+3623075	Liberia	Liberia	Canton Central de Liberia,Canton de Liberia,Cantón Central de Liberia,Cantón de Liberia,Liberia	10.70152	-85.47576	A	ADM2	CR		03	501			62987		127	America/Costa_Rica	2020-06-10
+3623082	León Cortés Castro	Leon Cortes Castro	Canton de Leon Cortes,Cantón de León Cortés,Leon Cortes,León Cortés	9.683	-84.04781	A	ADM2	CR		08	120			12200		1554	America/Costa_Rica	2020-10-18
+3623105	La Unión	La Union	Canton de La Union,Cantón de La Unión	9.91667	-83.98333	A	ADM2	CR		02	303			99399		1407	America/Costa_Rica	2016-09-06
+3623257	La Cruz	La Cruz	Canton de La Cruz,Cantón de La Cruz,La Cruz	10.98418	-85.59915	A	ADM2	CR		03	510			19181		247	America/Costa_Rica	2020-06-10
+3623341	Jiménez	Jimenez	Canton Jimenez,Canton de Jimenez,Cantón Jiménez,Cantón de Jiménez	9.75	-83.68333	A	ADM2	CR		02	304			14669		1062	America/Costa_Rica	2016-09-06
+3623453	Hojancha	Hojancha	Canton de Hojancha,Cantón de Hojancha,Hojancha	9.97546	-85.42018	A	ADM2	CR		03	511			7197		453	America/Costa_Rica	2020-06-10
+3623485	Heredia	Heredia	Canton Central,Canton Central de Heredia,Canton Heredia,Canton de Heredia,Cantón Central de Heredia,Cantón Heredia,Cantón de Heredia,Heredia	9.9866	-84.1315	A	ADM2	CR		04	401			123616		1114	America/Costa_Rica	2020-06-10
+3623553	Guatuso	Guatuso	Canton de Guatuso,Cantón de Guatuso,Guatuso	10.67941	-84.83689	A	ADM2	CR		01	215			15508		56	America/Costa_Rica	2020-06-10
+3623600	Guácimo	Guacimo	Canton de Guacimo,Cantón de Guácimo	10.2	-83.66667	A	ADM2	CR		06	706			41266		108	America/Costa_Rica	2016-09-06
+3623619	Grecia	Grecia	Canton de Grecia,Cantón de Grecia	10.06892	-84.31458	A	ADM2	CR		01	203			76898		984	America/Costa_Rica	2016-09-07
+3623655	Golfito	Golfito		8.6	-83.12	A	ADM2	CR		07	607			39150		11	America/Costa_Rica	2019-10-22
+3623659	Goicoechea	Goicoechea	Canton de Goicoechea,Cantón de Goicoechea	9.94848	-84.06365	A	ADM2	CR		08	108			115084		1193	America/Costa_Rica	2016-09-06
+3623725	Flores	Flores	Canton de Flores,Cantón de Flores,Flores	10.0064	-84.1549	A	ADM2	CR		04	408			20037		1040	America/Costa_Rica	2020-06-10
+3623780	Esparza	Esparza	Canton de Esparza,Cantón de Esparza,Esparta,Esparza	9.98089	-84.65817	A	ADM2	CR		07	602			28644		211	America/Costa_Rica	2025-11-15
+3623786	Escazú	Escazu	Canton de Escazu,Cantón de Escazú	9.93333	-84.13333	A	ADM2	CR		08	102			56509		1038	America/Costa_Rica	2016-09-06
+3623834	El Guarco	El Guarco	Canton de El Guarco,Cantón de El Guarco,El Guarco	9.73931	-83.92735	A	ADM2	CR		02	308			41793		2178	America/Costa_Rica	2020-06-10
+3623892	Dota	Dota	Canton Dota,Canton de Dota,Cantón Dota,Cantón de Dota,Dota	9.58858	-83.92247	A	ADM2	CR		08	117			6948		2158	America/Costa_Rica	2020-06-10
+3623933	Desamparados	Desamparados	Canton Desamparados,Canton de Desamparados,Cantón Desamparados,Cantón de Desamparados,Desamparados	9.85552	-84.04125	A	ADM2	CR		08	103			208411		1320	America/Costa_Rica	2020-06-10
+3623976	Curridabat	Curridabat	Canton de Curridabat,Cantón de Curridabat,Curridabat	9.9165	-84.0291	A	ADM2	CR		08	118			65206		1221	America/Costa_Rica	2020-06-10
+3624051	Coto Brus	Coto Brus	Canton de Coto Brus,Cantón de Coto Brus,Coto Brus	8.88546	-82.94119	A	ADM2	CR		07	608			38453		888	America/Costa_Rica	2022-09-27
+3624064	Corredores	Corredores	Canton de Corredores,Cantón de Corredores,Corredores	8.53238	-82.91879	A	ADM2	CR		07	610			41831		20	America/Costa_Rica	2020-06-10
+3624369	Cartago	Cartago	Canton Cartago,Canton Central,Canton Central de Cartago,Canton de Cartago,Cantón Cartago,Cantón Central,Cantón Central de Cartago,Cantón de Cartago,Cartago	9.81614	-83.91394	A	ADM2	CR		02	301			147898		1484	America/Costa_Rica	2020-06-10
+3624381	Carrillo	Carrillo	Canton de Carrillo,Cantón de Carrillo,Carrillo	10.41491	-85.58861	A	ADM2	CR		03	505			37122		39	America/Costa_Rica	2020-06-10
+3624467	Cañas	Canas		10.48005	-85.11349	A	ADM2	CR		03	506			26201		73	America/Costa_Rica	2016-09-06
+3624586	Buenos Aires	Buenos Aires	Buenos Aires,Canton de Buenos Aires,Cantón de Buenos Aires	9.10261	-83.25527	A	ADM2	CR		07	603			45244		316	America/Costa_Rica	2020-06-10
+3624717	Belén	Belen	Canton de Belen,Cantón de Belén	9.98333	-84.16667	A	ADM2	CR		04	407			21633		983	America/Costa_Rica	2016-09-06
+3624732	Barva	Barva	Barva,Canton de Barba,Canton de Barva,Cantón de Barba,Cantón de Barva	10.0669	-84.1085	A	ADM2	CR		04	402			40660		1662	America/Costa_Rica	2020-06-10
+3624821	Bagaces	Bagaces	Bagaces,Canton de Bagaces,Cantón de Bagaces	10.50808	-85.26212	A	ADM2	CR		03	504			19536		92	America/Costa_Rica	2020-06-10
+3624841	Atenas	Atenas	Atenas,Canton Atenas,Canton de Atenas,Cantón Atenas,Cantón de Atenas	9.97766	-84.39604	A	ADM2	CR		01	205			25460		768	America/Costa_Rica	2020-06-10
+3624847	Aserrí	Aserri	Canton de Aserri,Cantón de Aserrí	9.86667	-84.1	A	ADM2	CR		08	106			57892		1414	America/Costa_Rica	2016-09-06
+3624924	Alvarado	Alvarado	Alvarado,Canton de Alvarado,Cantón de Alvarado	9.93333	-83.80352	A	ADM2	CR		02	306			14312		1937	America/Costa_Rica	2020-06-10
+3624942	Zarcero	Zarcero	Canton de Alfaro Ruiz,Canton de Zarcero,Cantón de Alfaro Ruiz,Cantón de Zarcero,Zarcero	10.20879	-84.40879	A	ADM2	CR		01	211			12205		1782	America/Costa_Rica	2020-06-10
+3624950	Alajuelita	Alajuelita	Alajuelita,Canton de Alajuelita,Cantón de Alajuelita	9.8873	-84.1116	A	ADM2	CR		08	110			77603		1332	America/Costa_Rica	2020-06-10
+3624954	Alajuela	Alajuela	Alajuela,Canton Alajuela,Canton Central,Canton Central de Alajuela,Canton de Alajuela,Cantón Alajuela,Cantón Central de Alajuela,Cantón de Alajuela	10.02835	-84.20989	A	ADM2	CR		01	201			254886		968	America/Costa_Rica	2020-06-10
+3624970	Quepos	Quepos	Aguirre,Canton de Aguirre,Cantón de Aguirre,Quepos	9.43187	-84.16141	A	ADM2	CR		07	606			26861		7	America/Costa_Rica	2016-09-07
+3625011	Acosta	Acosta	Acosta,Canton Acosta,Canton de Acosta,Cantón Acosta,Cantón de Acosta	9.74493	-84.23601	A	ADM2	CR		08	112			20209		1015	America/Costa_Rica	2020-06-10
+3625024	Abangares	Abangares	Abangares,Canton de Abangares,Cantón de Abangares	10.24253	-84.99081	A	ADM2	CR		03	507			18039		69	America/Costa_Rica	2020-06-10
+6946040	San Ramón	San Ramon		10.08718	-84.47044	A	ADM2	CR		01	202			80566	1057	1060	America/Costa_Rica	2016-09-06
+8531802	Garabito	Garabito		9.61903	-84.62013	A	ADM2	CR		07	611			17229		21	America/Costa_Rica	2016-09-06
+12077107	Río Cuarto	Rio Cuarto		10.34489	-84.21265	A	ADM2	CR		01	216			0		396	America/Costa_Rica	2019-09-05

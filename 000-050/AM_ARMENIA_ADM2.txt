@@ -1,0 +1,82 @@
+﻿616205	Arabkir	Arabkir	Arabkir,Arabkir varch'akan shrjan,Arabkir varch’akan shrjan,Arabkir varcʻakan srjan,Արաբկիր,Արաբկիր վարչական շրջան	40.20549	44.50699	A	ADM2	AM		11	616205			119300		1153	Asia/Yerevan	2025-12-10
+13133004	Kapan Municipality	Kapan Municipality	Kapan,Kapan Community,Kapan Municipality,Kapan hamaynkʻ,Կապան համայնք	39.17157	46.41229	A	ADM2	AM		08	13133004			38400		1039	Asia/Yerevan	2026-03-04
+13133005	Goris Municipality	Goris Municipality	Goris,Goris Community,Goris Municipality,Goris hamaynkʻ,Գորիս համայնք	39.48222	46.37757	A	ADM2	AM		08	13133005			25100		1464	Asia/Yerevan	2026-03-04
+13133006	Meghri Municipality	Meghri Municipality	Meghri,Meghri Community,Meghri Municipality,Megri hamaynkʻ,Մեղրի համայնք	38.97504	46.30841	A	ADM2	AM		08	13133006			8500		1574	Asia/Yerevan	2026-03-04
+13133007	Sisian Municipality	Sisian Municipality	Sisian,Sisian Community,Sisian Municipality,Sisian hamaynkʻ,Սիսիան համայնք	39.5692	45.96927	A	ADM2	AM		08	13133007			26300		1851	Asia/Yerevan	2026-03-04
+13133008	Kajaran Municipality	Kajaran Municipality	Kajaran,Kajaran Community,Kajaran Municipality,Kʻajaran hamaynkʻ,Քաջարան համայնք	39.16835	46.16619	A	ADM2	AM		08	13133008			7700		2484	Asia/Yerevan	2026-03-04
+13133009	Tatev Municipality	Tatev Municipality	Tatev,Tatev Community,Tatev Municipality,Tatʻev hamaynkʻ,Տաթև համայնք	39.41159	46.2393	A	ADM2	AM		08	13133009			5500		1548	Asia/Yerevan	2026-03-04
+13133010	Tegh Municipality	Tegh Municipality	Teg hamaynkʻ,Tegh,Tegh Community,Tegh Municipality,Տեղ համայնք	39.56394	46.42752	A	ADM2	AM		08	13133010			5200		1556	Asia/Yerevan	2026-03-04
+13133019	Yeghegnadzor Municipality	Yeghegnadzor Municipality	Egegnajor hamaynkʻ,Yeghegnadzor,Yeghegnadzor Community,Yeghegnadzor Municipality,Եղեգնաձոր համայնք	39.76449	45.3528	A	ADM2	AM		10	13133019			17100		1247	Asia/Yerevan	2026-03-04
+13133022	Jermuk Municipality	Jermuk Municipality	Jermuk,Jermuk Community,Jermuk Municipality,Jermuk hamaynkʻ,Ջերմուկ համայնք	39.83444	45.68669	A	ADM2	AM		10	13133022			5900		2332	Asia/Yerevan	2026-03-04
+13133023	Vayk Municipality	Vayk Municipality	Vayk,Vayk Community,Vayk Municipality,Vaykʻ hamaynkʻ,Վայք համայնք	39.68581	45.51126	A	ADM2	AM		10	13133023			10800		1405	Asia/Yerevan	2026-03-04
+13133025	Areni Municipality	Areni Municipality	Areni,Areni Community,Areni Municipality,Areni hamaynkʻ,Արենի համայնք	39.7361	45.21918	A	ADM2	AM		10	13133025			9800		1112	Asia/Yerevan	2026-03-04
+13133026	Yeghegis Municipality	Yeghegis Municipality	Egegis hamaynkʻ,Yeghegis,Yeghegis Community,Yeghegis Municipality,Եղեգիս համայնք	39.90326	45.39859	A	ADM2	AM		10	13133026			5500		2545	Asia/Yerevan	2026-03-04
+13133028	Artashat Municipality	Artashat Municipality	Artasat hamaynkʻ,Artashat,Artashat Community,Artashat Municipality,Արտաշատ համայնք	39.99629	44.56063	A	ADM2	AM		02	13133028			93400		872	Asia/Yerevan	2026-03-04
+13133029	Ararat Municipality	Ararat Municipality	Ararat Municipality,Ararat hamaynkʻ,Արարատ համայնք	39.79494	44.76749	A	ADM2	AM		02	13133029			39500		822	Asia/Yerevan	2026-03-04
+13133030	Masis Municipality	Masis Municipality	Masis,Masis Community,Masis Municipality,Masis hamaynkʻ,Մասիս համայնք	40.06956	44.41739	A	ADM2	AM		02	13133030			84300		842	Asia/Yerevan	2026-03-04
+13133031	Vedi Municipality	Vedi Municipality	Vedi,Vedi Community,Vedi Municipality,Vedi hamaynkʻ,Վեդի համայնք	39.95513	44.91718	A	ADM2	AM		02	13133031			48500		1382	Asia/Yerevan	2026-03-04
+13133032	Verin Dvin Municipality	Verin Dvin Municipality	Verin Dvin,Verin Dvin Community,Verin Dvin Municipality,Verin Dvin hamaynkʻ,Վերին Դվին համայնք	40.02331	44.59087	A	ADM2	AM		02	13133032			1862		963	Asia/Yerevan	2026-03-04
+13156120	Gavar Municipality	Gavar Municipality	Gavar,Gavar Community,Gavar Municipality,Gavar hamaynkʻ,Գավառ համայնք	40.33877	45.06502	A	ADM2	AM		04	13156120			49200		2063	Asia/Yerevan	2026-03-04
+13156121	Chambarak Municipality	Chambarak Municipality	Cambarak hamaynkʻ,Chambarak,Chambarak Community,Chambarak Municipality,Ճամբարակ համայնք	40.61161	45.26727	A	ADM2	AM		04	13156121			12800		2243	Asia/Yerevan	2026-03-04
+13156122	Martuni Municipality	Martuni Municipality	Martuni,Martuni Community,Martuni Municipality,Martuni hamaynkʻ,Մարտունի համայնք	40.09252	45.27963	A	ADM2	AM		04	13156122			80300		2129	Asia/Yerevan	2026-03-04
+13156123	Sevan Municipality	Sevan Municipality	Sevan,Sevan Community,Sevan Municipality,Sevan hamaynkʻ,Սևան համայնք	40.57832	44.89466	A	ADM2	AM		04	13156123			37900		1869	Asia/Yerevan	2026-03-04
+13156124	Vardenis Municipality	Vardenis Municipality	Vardenis,Vardenis Community,Vardenis Municipality,Vardenis hamaynkʻ,Վարդենիս համայնք	40.20075	45.78453	A	ADM2	AM		04	13156124			35500		1954	Asia/Yerevan	2026-03-04
+13156180	Dilijan Municipality	Dilijan Municipality	Dilijan,Dilijan Community,Dilijan Municipality,Dilijan hamaynkʻ,Դիլիջան համայնք	40.76269	44.93042	A	ADM2	AM		09	13156180			23100		1359	Asia/Yerevan	2026-03-04
+13156181	Ijevan Municipality	Ijevan Municipality	Ijevan,Ijevan Community,Ijevan Municipality,Ijevan hamaynkʻ,Իջևան համայնք	40.89204	45.13154	A	ADM2	AM		09	13156181			45100		777	Asia/Yerevan	2026-03-04
+13156182	Berd Municipality	Berd Municipality	Berd,Berd Community,Berd Municipality,Berd hamaynkʻ,Բերդ համայնք	40.81626	45.42075	A	ADM2	AM		09	13156182			22900		1245	Asia/Yerevan	2026-03-04
+13156183	Noyemberyan Municipality	Noyemberyan Municipality	Noyemberyan,Noyemberyan Community,Noyemberyan Municipality,Noyemberyan hamaynkʻ,Նոյեմբերյան համայնք	41.18086	44.98459	A	ADM2	AM		09	13156183			26600		910	Asia/Yerevan	2026-03-04
+13156275	Alaverdi Municipality	Alaverdi Municipality	Alaverdi,Alaverdi Community,Alaverdi Municipality,Alaverdi hamaynkʻ,Ալավերդի համայնք	41.11792	44.70712	A	ADM2	AM		06	13156275			33300		837	Asia/Yerevan	2026-03-04
+13156276	Tumanyan Municipality	Tumanyan Municipality	Tumanyan,Tumanyan Community,Tumanyan Municipality,Tʻumanyan hamaynkʻ,Թումանյան համայնք	40.94459	44.73273	A	ADM2	AM		06	13156276			5700		1473	Asia/Yerevan	2026-03-04
+13156277	Pambak Municipality	Pambak Municipality	Pambak,Pambak Community,Pambak Municipality,Pʻambak hamaynkʻ,Փամբակ համայնք	40.85428	44.60638	A	ADM2	AM		06	13156277			12400		1711	Asia/Yerevan	2026-03-04
+13156278	Lermontovo Municipality	Lermontovo Municipality	Lermontovo,Lermontovo Community,Lermontovo Municipality,Lermontovo hamaynkʻ,Լերմոնտովո համայնք	40.75262	44.62671	A	ADM2	AM		06	13156278			900		1811	Asia/Yerevan	2026-03-04
+13156279	Fioletovo Municipality	Fioletovo Municipality	Fioletovo,Fioletovo Community,Fioletovo Municipality,Fioletovo hamaynkʻ,Ֆիոլետովո համայնք	40.731	44.73098	A	ADM2	AM		06	13156279			1300		1966	Asia/Yerevan	2026-03-04
+13156280	Vanadzor Municipality	Vanadzor Municipality	Vanadzor,Vanadzor Community,Vanadzor Municipality,Vanajor hamaynkʻ,Վանաձոր համայնք	40.79346	44.49393	A	ADM2	AM		06	13156280			87700		1391	Asia/Yerevan	2026-03-04
+13156281	Spitak Municipality	Spitak Municipality	Spitak,Spitak Community,Spitak Municipality,Spitak hamaynkʻ,Սպիտակ համայնք	40.85436	44.22018	A	ADM2	AM		06	13156281			39000		1590	Asia/Yerevan	2026-03-04
+13156282	Stepanavan Municipality	Stepanavan Municipality	Stepanavan,Stepanavan Community,Stepanavan Municipality,Stepʻanavan hamaynkʻ,Ստեփանավան համայնք	40.99229	44.38391	A	ADM2	AM		06	13156282			13700		1434	Asia/Yerevan	2026-03-04
+13156283	Tashir Municipality	Tashir Municipality	Tashir,Tashir Community,Tashir Municipality,Tasir hamaynkʻ,Տաշիր համայնք	41.15321	44.34969	A	ADM2	AM		06	13156283			22300		1624	Asia/Yerevan	2026-03-04
+13156284	Gyulagarak Municipality	Gyulagarak Municipality	Gyulagarak,Gyulagarak Community,Gyulagarak Municipality,Gyulagarak hamaynkʻ,Գյուլագարակ համայնք	40.96094	44.50283	A	ADM2	AM		06	13156284			7800		1375	Asia/Yerevan	2026-03-04
+13156285	Lori Berd Municipality	Lori Berd Municipality	Lori Berd,Lori Berd Community,Lori Berd Municipality,Lori Berd hamaynkʻ,Լոռի Բերդ համայնք	41.00921	44.54182	A	ADM2	AM		06	13156285			5100		1693	Asia/Yerevan	2026-03-04
+13156473	Amasia Municipality	Amasia Municipality	Amasia,Amasia Community,Amasia Municipality,Amasia hamaynkʻ,Ամասիա համայնք	41.04182	43.68597	A	ADM2	AM		07	13156473			5600		2007	Asia/Yerevan	2026-03-04
+13156474	Ashotsk Municipality	Ashotsk Municipality	Ashotsk,Ashotsk Community,Ashotsk Municipality,Asocʻkʻ hamaynkʻ,Աշոցք համայնք	41.04377	43.9463	A	ADM2	AM		07	13156474			10900		2578	Asia/Yerevan	2026-03-04
+13156475	Gyumri Municipality	Gyumri Municipality	Gyumri,Gyumri Community,Gyumri Municipality,Gyumri hamaynkʻ,Գյումրի համայնք	40.7953	43.85894	A	ADM2	AM		07	13156475			114700		1554	Asia/Yerevan	2026-03-04
+13156476	Akhuryan Municipality	Akhuryan Municipality	Akhuryan,Akhuryan Community,Akhuryan Municipality,Axuryan hamaynkʻ,Ախուրյան համայնք	40.79587	43.89287	A	ADM2	AM		07	13156476			41100		1561	Asia/Yerevan	2026-03-04
+13156477	Artik Municipality	Artik Municipality	Artik,Artik Community,Artik Municipality,Artʻik hamaynkʻ,Արթիկ համայնք	40.60136	44.00037	A	ADM2	AM		07	13156477			50300		2039	Asia/Yerevan	2026-03-04
+13156478	Ani Municipality	Ani Municipality	Ani,Ani Community,Ani Municipality,Ani hamaynkʻ,Անի համայնք	40.56084	43.75227	A	ADM2	AM		07	13156478			19800		1782	Asia/Yerevan	2026-03-04
+13156510	Tsaghkahovit Municipality	Tsaghkahovit Municipality	Cagkahovit hamaynkʻ,Tsaghkahovit,Tsaghkahovit Community,Tsaghkahovit Municipality,Ծաղկահովիտ համայնք	40.67244	44.20152	A	ADM2	AM		01	13156510			9600		2084	Asia/Yerevan	2026-03-04
+13156511	Alagyaz Municipality	Alagyaz Municipality	Alagyaz,Alagyaz Community,Alagyaz Municipality,Alagyaz hamaynkʻ,Ալագյազ համայնք	40.69149	44.36754	A	ADM2	AM		01	13156511			3500		2566	Asia/Yerevan	2026-03-04
+13156512	Aparan Municipality	Aparan Municipality	Aparan,Aparan Community,Aparan Municipality,Aparan hamaynkʻ,Ապարան համայնք	40.5154	44.35304	A	ADM2	AM		01	13156512			21800		1945	Asia/Yerevan	2026-03-04
+13156513	Ashtarak Municipality	Ashtarak Municipality	Ashtarak,Ashtarak Community,Ashtarak Municipality,Astarak hamaynkʻ,Աշտարակ համայնք	40.35997	44.26529	A	ADM2	AM		01	13156513			66100		1735	Asia/Yerevan	2026-03-04
+13156514	Talin Municipality	Talin Municipality	Talin,Talin Community,Talin Municipality,Tʻalin hamaynkʻ,Թալին համայնք	40.38795	43.85397	A	ADM2	AM		01	13156514			32000		1600	Asia/Yerevan	2026-03-04
+13156515	Arevut Municipality	Arevut Municipality	Arevut,Arevut Community,Arevut Municipality,Arevut hamaynkʻ,Արևուտ համայնք	40.39485	43.7474	A	ADM2	AM		01	13156515			800		1514	Asia/Yerevan	2026-03-04
+13156516	Metsadzor Municipality	Metsadzor Municipality	Mecajor hamaynkʻ,Metsadzor,Metsadzor Community,Metsadzor Municipality,Մեծաձոր համայնք	40.37287	44.05178	A	ADM2	AM		01	13156516			302		1845	Asia/Yerevan	2026-03-04
+13156517	Shamiram Municipality	Shamiram Municipality	Samiram hamaynkʻ,Shamiram,Shamiram Community,Shamiram Municipality,Շամիրամ համայնք	40.27257	44.10004	A	ADM2	AM		01	13156517			1400		1180	Asia/Yerevan	2026-03-04
+13156540	Nairi Municipality	Nairi Municipality	Egvard hamaynkʻ,Nairi,Nairi Community,Nairi Municipality,Nairi hamaynkʻ,Yeghvard,Yeghvard Community,Yeghvard Municipality,Եղվարդ համայնք,Նաիրի համայնք	40.35162	44.50721	A	ADM2	AM		05	13156540			37200		1439	Asia/Yerevan	2026-03-04
+13156542	Nor Hachn Municipality	Nor Hachn Municipality	Nor Hachn,Nor Hachn Community,Nor Hachn Municipality,Nor Hacn,Nor Hacən hamaynkʻ,Նոր Հաճըն համայնք,Նոր Հաճն	40.35317	44.58797	A	ADM2	AM		05	13156542			30100		1416	Asia/Yerevan	2026-03-04
+13156543	Arzni Municipality	Arzni Municipality	Arzni,Arzni Community,Arzni Municipality,Arzni hamaynkʻ,Արզնի համայնք	40.29544	44.59878	A	ADM2	AM		05	13156543			3200		1352	Asia/Yerevan	2026-03-04
+13156544	Abovyan Municipality	Abovyan Municipality	Abovyan,Abovyan Community,Abovyan Municipality,Abovyan hamaynkʻ,Աբովյան համայնք	40.23511	44.71211	A	ADM2	AM		05	13156544			79300		1627	Asia/Yerevan	2026-03-04
+13156545	Jrvezh Municipality	Jrvezh Municipality	Jrvez hamaynkʻ,Jrvezh,Jrvezh Community,Jrvezh Municipality,Ջրվեժ համայնք	40.20435	44.65262	A	ADM2	AM		05	13156545			10500		1572	Asia/Yerevan	2026-03-04
+13156546	Garni Municipality	Garni Municipality	Garni,Garni Community,Garni Municipality,Garni hamaynkʻ,Գառնի համայնք	40.14735	44.7103	A	ADM2	AM		05	13156546			13000		1657	Asia/Yerevan	2026-03-04
+13156547	Byureghavan Municipality	Byureghavan Municipality	Byuregavan hamaynkʻ,Byureghavan,Byureghavan Community,Byureghavan Municipality,Բյուրեղավան համայնք	40.33404	44.61597	A	ADM2	AM		05	13156547			12900		1597	Asia/Yerevan	2026-03-04
+13156548	Akunk Municipality	Akunk Municipality	Akunk,Akunk Community,Akunk Municipality,Akunkʻ hamaynkʻ,Ակունք համայնք	40.3376	44.77165	A	ADM2	AM		05	13156548			9000		2166	Asia/Yerevan	2026-03-04
+13156549	Charentsavan Municipality	Charentsavan Municipality	Charentsavan,Charentsavan Community,Charentsavan Municipality,Cʻarencʻavan hamaynkʻ,Չարենցավան համայնք	40.46522	44.64367	A	ADM2	AM		05	13156549			33800		1528	Asia/Yerevan	2026-03-04
+13156550	Hrazdan Municipality	Hrazdan Municipality	Hrazdan,Hrazdan Community,Hrazdan Municipality,Hrazdan hamaynkʻ,Հրազդան համայնք	40.49533	44.80473	A	ADM2	AM		05	13156550			58100		1911	Asia/Yerevan	2026-03-04
+13156551	Tsaghkadzor Municipality	Tsaghkadzor Municipality	Cagkajor hamaynkʻ,Tsaghkadzor,Tsaghkadzor Community,Tsaghkadzor Municipality,Ծաղկաձոր համայնք	40.63659	44.64337	A	ADM2	AM		05	13156551			6200		2100	Asia/Yerevan	2026-03-04
+13156552	Ferik Municipality	Ferik Municipality	Ferik,Ferik Community,Ferik Municipality,Ferik hamaynkʻ,Ֆերիկ համայնք	40.18621	44.20856	A	ADM2	AM		03	13156552			381		883	Asia/Yerevan	2026-03-04
+13156553	Vagharshapat Municipality	Vagharshapat Municipality	Ejmiacin hamaynkʻ,Ejmiatsin,Ejmiatsin Community,Ejmiatsin Municipality,Vagarsapat hamaynkʻ,Vagharshapat,Vagharshapat Community,Vagharshapat Municipality,Էջմիածին համայնք,Վաղարշապատ համայնք	40.15442	44.31336	A	ADM2	AM		03	13156553			51300		859	Asia/Yerevan	2026-03-04
+13156554	Parakar Municipality	Parakar Municipality	Parakar,Parakar Community,Parakar Municipality,Pʻarakʻar hamaynkʻ,Փարաքար համայնք	40.18035	44.37721	A	ADM2	AM		03	13156554			26600		952	Asia/Yerevan	2026-03-04
+13156555	Khoy Municipality	Khoy Municipality	Khoy,Khoy Community,Khoy Municipality,Xoy hamaynkʻ,Խոյ համայնք	40.20708	44.26033	A	ADM2	AM		03	13156555			27500		902	Asia/Yerevan	2026-03-04
+13156556	Araks Municipality	Araks Municipality	Araks,Araks Community,Araks Municipality,Arakʻs hamaynkʻ,Արաքս համայնք	40.10798	44.28593	A	ADM2	AM		03	13156556			24600		842	Asia/Yerevan	2026-03-04
+13156557	Metsamor Municipality	Metsamor Municipality	Mecamor hamaynkʻ,Metsamor,Metsamor Community,Metsamor Municipality,Մեծամոր համայնք	40.0661	44.02806	A	ADM2	AM		03	13156557			67800		866	Asia/Yerevan	2026-03-04
+13156558	Armavir Municipality	Armavir Municipality	Armavir,Armavir Community,Armavir Municipality,Armavir hamaynkʻ,Արմավիր համայնք	40.1748	43.96894	A	ADM2	AM		03	13156558			53300		875	Asia/Yerevan	2026-03-04
+13156559	Baghramyan Municipality	Baghramyan Municipality	Baghramyan,Baghramyan Community,Baghramyan Municipality,Bagramyan hamaynkʻ,Բաղրամյան համայնք	40.15927	43.80143	A	ADM2	AM		03	13156559			16400		1088	Asia/Yerevan	2026-03-04
+13156594	Ajapnyak	Ajapnyak		40.19705	44.46706	A	ADM2	AM		11	13156594			111100		1048	Asia/Yerevan	2025-01-23
+13156595	Avan	Avan		40.21261	44.57795	A	ADM2	AM		11	13156595			55094		1368	Asia/Yerevan	2025-01-23
+13156596	Davtashen	Davtashen		40.21499	44.48384	A	ADM2	AM		11	13156596			43704		1075	Asia/Yerevan	2025-01-23
+13156597	Erebuni	Erebuni		40.13317	44.52696	A	ADM2	AM		11	13156597			0		1009	Asia/Yerevan	2024-12-22
+13156598	Kanaker-Zeytun	Kanaker-Zeytun		40.22245	44.54033	A	ADM2	AM		11	13156598			73834		1300	Asia/Yerevan	2025-01-23
+13156599	Kentron District	Kentron District		40.18147	44.50312	A	ADM2	AM		11	13156599			119841		992	Asia/Yerevan	2025-01-23
+13156600	Malatia-Sebastia	Malatia-Sebastia		40.18067	44.44885	A	ADM2	AM		11	13156600			150500		967	Asia/Yerevan	2025-12-10
+13156601	Nork-Marash	Nork-Marash		40.17294	44.54264	A	ADM2	AM		11	13156601			11098		1231	Asia/Yerevan	2025-01-23
+13156602	Nor Nork	Nor Nork		40.19522	44.56583	A	ADM2	AM		11	13156602			134668		1324	Asia/Yerevan	2025-01-23
+13156603	Nubarashen	Nubarashen		40.08834	44.55139	A	ADM2	AM		11	13156603			11794		1114	Asia/Yerevan	2025-01-23
+13156604	Shengavit	Shengavit		40.15401	44.47679	A	ADM2	AM		11	13156604			140525		933	Asia/Yerevan	2024-12-22

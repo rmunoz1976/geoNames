@@ -1,0 +1,221 @@
+﻿3649913	Zaruma	Zaruma	Canton Zaruma,Cantón Zaruma,Zaruma	-3.57326	-79.5311	A	ADM2	EC		08	0713			0		2339	America/Guayaquil	2024-10-11
+3649958	Zamora	Zamora	Canton Zamora,Cantón Zamora,Zamora	-4.02162	-78.97803	A	ADM2	EC		20	1901			0		1774	America/Guayaquil	2024-10-11
+3650052	Yantzaza	Yantzaza	Canton Yantzaza,Cantón Yantzaza,Yantzaza	-3.76951	-78.71362	A	ADM2	EC		20	1905			0		909	America/Guayaquil	2024-10-11
+3650124	Cantón Yaguachi	Canton Yaguachi		-2.11677	-79.69897	A	ADM2	EC		10	0920			0		8	America/Guayaquil	2015-09-16
+3650141	Yacuambi	Yacuambi	Canton Yacuambi,Cantón Yacuambi,Yacuambi	-3.61694	-78.95716	A	ADM2	EC		20	1904			0		1492	America/Guayaquil	2024-10-11
+3650185	Vinces	Vinces	Canton Vinces,Cantón Vinces,Vinces	-1.53443	-79.73333	A	ADM2	EC		13	1208			0		38	America/Guayaquil	2024-10-11
+3650264	Ventanas	Ventanas	Canton Ventanas,Cantón Ventanas,Ventanas	-1.39006	-79.41138	A	ADM2	EC		13	1207			0		461	America/Guayaquil	2024-10-11
+3650277	Cantón Veinticuatro de Mayo	Canton Veinticuatro de Mayo	24 de Mayo,Canton Veinticuatro de Mayo,Cantón Veinticuatro de Mayo	-1.26667	-80.43333	A	ADM2	EC		14	1316			0		242	America/Guayaquil	2020-06-10
+3650339	Francisco de Orellana Canton	Francisco de Orellana Canton	Canton Francisco de Orellana,Canton Urellana,Cantón Francisco de Orellana,Cantón Urellana,Francisco de Orellana,Francisco de Orellana Canton,Francisco de Orellana Koan,Francisco de Orellana Koān,Francisco de Orellana kiti,Fransisko-de-Orel'jana,Kanton Francisco de Orellana,cantone di Francisco de Orellana,fransyskw d arllna,fu lan xi si ke de ao lei li ya na xian,kantwn fransyskw dy awrylana,Франсиско-де-Орельяна,فرانسیسکو د ارللنا,كانتون فرانسيسكو دي أوريلانا,ფრანსისკო-დე-ორელიანას კანტონი,ფრანსისკო-დე-ორლეანაშ კანტონი,弗蘭西斯科德奧雷利亞納縣	-0.46667	-76.96667	A	ADM2	EC		24	2201			42000		245	America/Guayaquil	2015-09-16
+3650340	Urdaneta	Urdaneta	Canton Urdaneta,Cantón Urdaneta,Urdaneta	-1.5613	-79.38735	A	ADM2	EC		13	1206			0		206	America/Guayaquil	2024-10-11
+3650347	Cantón Salitre	Canton Salitre	Capital montubia del Ecuador,Salitre,Urbina Jado	-1.83333	-79.8	A	ADM2	EC		10	0919			0		7	America/Guayaquil	2017-01-31
+3650471	Cantón Tulcán	Canton Tulcan	Canton Tulcan,Cantón Tulcán,Tulcan,Tulcán	0.83042	-78.02045	A	ADM2	EC		05	0401			0		3163	America/Guayaquil	2024-10-11
+3650720	Tena	Tena	Canton Napo,Canton Tena,Cantón Napo,Cantón Tena,Tena	-1.02071	-77.81044	A	ADM2	EC		23	1501			0		610	America/Guayaquil	2024-10-11
+3650954	Cantón Sucumbíos	Canton Sucumbios	Canton Sucumbios,Cantón Sucumbíos	0.36941	-77.64313	A	ADM2	EC		22	2105			0		1498	America/Guayaquil	2017-02-07
+3650955	Cantón Sucúa	Canton Sucua	Canton Sucua,Cantón Sucúa,Sucua,Sucúa	-2.48336	-78.21615	A	ADM2	EC		15	1406			0		1534	America/Guayaquil	2024-10-11
+3650958	Cantón Sucre	Canton Sucre	Canton Sucre,Cantón Sucre	-0.65367	-80.4158	A	ADM2	EC		14	1314			0		69	America/Guayaquil	2017-01-31
+3650979	Sozoranga	Sozoranga	Canton Sozoranga,Cantón Sozoranga,Sozoranga	-4.31625	-79.78645	A	ADM2	EC		12	1112			0		1436	America/Guayaquil	2024-10-11
+3651065	Sígsig	Sigsig	Canton Sigsig,Cantón Sigsig,Cantón Sígsig,Sigsig,Sígsig	-3.12109	-78.85559	A	ADM2	EC		02	0109			0		3187	America/Guayaquil	2024-10-11
+3651244	Saraguro	Saraguro	Canton Saraguro,Cantón Saraguro,Saraguro	-3.54566	-79.32086	A	ADM2	EC		12	1111			0		2076	America/Guayaquil	2024-10-11
+3651296	Santo Domingo	Santo Domingo	Canton Santo Domingo,Canton Santo Domingo de los Colorados,Cantón Santo Domingo,Cantón Santo Domingo de los Colorados,Santo Domingo	-0.2772	-79.17648	A	ADM2	EC		26	2301			0		528	America/Guayaquil	2024-10-11
+3651317	Santiago de Méndez	Santiago de Mendez		-2.71667	-78.31667	A	ADM2	EC		15	1405			0		547	America/Guayaquil	2017-02-04
+3651355	Cantón Santa Rosa	Canton Santa Rosa	Canton Santa Rosa,Cantón Santa Rosa	-3.46407	-79.95712	A	ADM2	EC		08	0712			0		11	America/Guayaquil	2017-02-07
+3651417	Santa Isabel	Santa Isabel	Canton Santa Isabel,Cantón Santa Isabel,Santa Isabel	-3.20615	-79.3585	A	ADM2	EC		02	0108			0		2772	America/Guayaquil	2024-10-11
+3651436	Santa Elena	Santa Elena	Canton Santa Elena,Cantón Santa Elena,Santa Elena	-2.16797	-80.53961	A	ADM2	EC		25	2401			0		101	America/Guayaquil	2024-10-11
+3651446	Santa Cruz	Santa Cruz	Canton Santa Cruz,Cantón Santa Cruz,Santa Cruz	-0.62958	-90.35579	A	ADM2	EC		01	2003			0		778	Pacific/Galapagos	2024-10-11
+3651484	Santa Ana	Santa Ana	Canton Santa Ana,Cantón Santa Ana,Santa Ana	-1.19896	-80.21666	A	ADM2	EC		14	1313			0		154	America/Guayaquil	2024-10-11
+3651621	San Miguel	San Miguel	Canton San Miguel,Cantón San Miguel,San Miguel	-1.78742	-79.10559	A	ADM2	EC		03	0205			0		1705	America/Guayaquil	2024-10-11
+3651686	San Lorenzo	San Lorenzo	Canton San Lorenzo,Cantón San Lorenzo,San Lorenzo	0.99765	-78.66922	A	ADM2	EC		09	0805			0		305	America/Guayaquil	2024-10-11
+3651947	Cantón San Cristóbal	Canton San Cristobal	Canton San Cristobal,Cantón San Cristóbal	-0.92233	-89.5576	A	ADM2	EC		01	2001			0		205	Pacific/Galapagos	2018-03-20
+3652064	Cantón Samborondón	Canton Samborondon	Canton Samborondon,Cantón Samborondón,Samborondon,Samborondón	-1.98188	-79.78444	A	ADM2	EC		10	0916			0		17	America/Guayaquil	2024-10-11
+3652097	Salinas	Salinas	Canton Salinas,Cantón Salinas,Salinas	-2.26594	-80.91582	A	ADM2	EC		25	2403			0		1	America/Guayaquil	2024-10-11
+3652108	Salcedo	Salcedo	Canton Salcedo,Cantón Salcedo,Salcedo	-1.06185	-78.60285	A	ADM2	EC		07	0505			0		2636	America/Guayaquil	2024-10-11
+3652228	Cantón Rumiñahui	Canton Ruminahui	Canton Ruminahui,Cantón Rumiñahui,Ruminahui,Rumiñahui	-0.40698	-78.44026	A	ADM2	EC		18	1705			0		2812	America/Guayaquil	2024-10-11
+3652312	Rocafuerte	Rocafuerte	Canton Rocafuerte,Cantón Rocafuerte,Rocafuerte	-0.90499	-80.40437	A	ADM2	EC		14	1312			0		136	America/Guayaquil	2024-10-11
+3652349	Riobamba	Riobamba	Canton Riobamba,Cantón Riobamba,Riobamba	-1.71893	-78.66661	A	ADM2	EC		06	0601			0		2734	America/Guayaquil	2024-10-11
+3652461	Quito	Quito	Canton Quito,Cantón Quito,Distrito Metropolitano de Quito,Quito	-0.15281	-78.50311	A	ADM2	EC		18	1701			0		2874	America/Guayaquil	2024-10-11
+3652499	Cantón Quinindé	Canton Quininde	Canton Quininde,Cantón Quinindé,Quininde,Quinindé	0.36568	-79.44992	A	ADM2	EC		09	0804			0		175	America/Guayaquil	2024-10-11
+3652561	Quijos	Quijos	Canton Quijos,Cantón Quijos,Quijos	-0.48954	-77.97542	A	ADM2	EC		23	1507			0		3025	America/Guayaquil	2024-10-11
+3652566	Quevedo	Quevedo	Canton Quevedo,Cantón Quevedo,Quevedo	-1.03068	-79.45218	A	ADM2	EC		13	1205			0		107	America/Guayaquil	2024-10-11
+3652572	Quero	Quero	Canton Quero,Cantón Quero,Quero	-1.43903	-78.60857	A	ADM2	EC		19	1806			0		3329	America/Guayaquil	2024-10-11
+3652587	Puyango	Puyango	Canton Puyango,Cantón Puyango,Puyango	-3.97569	-80.07216	A	ADM2	EC		12	1110			0		964	America/Guayaquil	2024-10-11
+3652592	Putumayo	Putumayo	Canton Putumayo,Cantón Putumayo,Putumayo	0.07197	-76.06492	A	ADM2	EC		22	2103			0		245	America/Guayaquil	2024-10-11
+3652683	Cantón Pujilí	Canton Pujili	Canton Pujili,Cantón Pujilí,Pujili,Pujilí	-0.98422	-78.88679	A	ADM2	EC		07	0504			0		3942	America/Guayaquil	2024-10-11
+3652785	Puebloviejo	Puebloviejo	Canton Puebloviejo,Cantón Puebloviejo,Puebloviejo	-1.55701	-79.54034	A	ADM2	EC		13	1204			0		214	America/Guayaquil	2024-10-11
+3652940	Portoviejo	Portoviejo	Canton Portoviejo,Cantón Portoviejo,Portoviejo	-1.04582	-80.36119	A	ADM2	EC		14	1301			0		141	America/Guayaquil	2024-10-11
+3652942	Portovelo	Portovelo	Canton Portovelo,Cantón Portovelo,Portovelo	-3.74228	-79.51114	A	ADM2	EC		08	0711			0		1699	America/Guayaquil	2024-10-11
+3653129	Cantón Piñas	Canton Pinas	Canton Pinas,Cantón Piñas,Pinas,Piñas	-3.68849	-79.75033	A	ADM2	EC		08	0710			0		750	America/Guayaquil	2024-10-11
+3653145	Pimampiro	Pimampiro	Canton Pimampiro,Cantón Pimampiro,Pimampiro	0.29535	-77.93409	A	ADM2	EC		11	1005			0		3676	America/Guayaquil	2024-10-11
+3653158	Santiago de Píllaro	Santiago de Pillaro	Canton Pillaro,Canton Santiago de Pillaro,Cantón Píllaro,Cantón Santiago de Píllaro,Santiago de Pillaro,Santiago de Píllaro	-1.14876	-78.45975	A	ADM2	EC		19	1808			0		3904	America/Guayaquil	2024-10-11
+3653286	San Pedro de Pelileo	San Pedro de Pelileo	Canton Pelileo,Canton San Pedro de Pelileo,Cantón Pelileo,Cantón San Pedro de Pelileo,San Pedro de Pelileo	-1.36961	-78.53333	A	ADM2	EC		19	1807			0		2535	America/Guayaquil	2024-10-11
+3653294	Pedro Moncayo	Pedro Moncayo	Canton Pedro Moncayo,Cantón Pedro Moncayo,Pedro Moncayo	0.05472	-78.27105	A	ADM2	EC		18	1704			0		2940	America/Guayaquil	2024-10-11
+3653330	Paute	Paute	Canton Paute,Cantón Paute,Paute	-2.7406	-78.75995	A	ADM2	EC		02	0105			0		2782	America/Guayaquil	2024-10-11
+3653370	Patate	Patate	Canton Patate,Cantón Patate,Patate	-1.27541	-78.4268	A	ADM2	EC		19	1805			0		2990	America/Guayaquil	2024-10-11
+3653394	Pastaza	Pastaza	Canton Pastaza,Cantón Pastaza,Pastaza	-1.90568	-76.97273	A	ADM2	EC		17	1601			0		285	America/Guayaquil	2024-10-11
+3653402	Pasaje	Pasaje	Canton Pasaje,Cantón Pasaje,Pasaje	-3.33998	-79.74251	A	ADM2	EC		08	0709			0		202	America/Guayaquil	2024-10-11
+3653474	Cantón Pangua	Canton Pangua	Canton Pangua,Cantón Pangua	-1.08209	-79.15924	A	ADM2	EC		07	0503			0		1341	America/Guayaquil	2017-02-07
+3653515	Paltas	Paltas	Canton Paltas,Cantón Paltas,Paltas	-4.0281	-79.74314	A	ADM2	EC		12	1109			0		916	America/Guayaquil	2024-10-11
+3653522	Palora	Palora	Canton Palora,Cantón Palora,Palora	-1.72179	-78.07817	A	ADM2	EC		15	1404			0		2146	America/Guayaquil	2024-10-11
+3653608	Cantón Paján	Canton Pajan	Canton Pajan,Cantón Paján,Pajan,Paján	-1.64029	-80.39284	A	ADM2	EC		14	1310			0		152	America/Guayaquil	2024-10-11
+3653692	Otavalo	Otavalo	Canton Otavalo,Cantón Otavalo,Otavalo	0.21268	-78.27048	A	ADM2	EC		11	1004			0		2696	America/Guayaquil	2024-10-11
+3653872	Naranjito	Naranjito	Canton Naranjito,Cantón Naranjito,Naranjito	-2.14962	-79.39166	A	ADM2	EC		10	0912			0		225	America/Guayaquil	2024-10-11
+3653880	Naranjal	Naranjal	Canton Naranjal,Cantón Naranjal,Naranjal	-2.56367	-79.60063	A	ADM2	EC		10	0911			0		80	America/Guayaquil	2024-10-11
+3653966	Cantón Muisne	Canton Muisne	Canton Muisne,Cantón Muisne	0.58089	-79.95438	A	ADM2	EC		09	0803			0		29	America/Guayaquil	2017-02-07
+3654006	Morona	Morona	Canton Macas,Canton Morona,Cantón Macas,Cantón Morona,Morona	-2.2626	-78.02047	A	ADM2	EC		15	1401			0		1221	America/Guayaquil	2024-10-11
+3654038	Cantón Montúfar	Canton Montufar	Canton Montufar,Cantón Montúfar,Montufar,Montúfar	0.56387	-77.81432	A	ADM2	EC		05	0405			0		2817	America/Guayaquil	2024-10-11
+3654054	Montecristi	Montecristi	Canton Montecristi,Cantón Montecristi,Montecristi	-1.1224	-80.69501	A	ADM2	EC		14	1309			0		99	America/Guayaquil	2024-10-11
+3654172	Mira	Mira	Canton Mira,Cantón Mira,Mira	0.65838	-78.13126	A	ADM2	EC		05	0404			0		2192	America/Guayaquil	2024-10-11
+3654213	Milagro	Milagro	Canton Milagro,Cantón Milagro,Milagro	-2.11916	-79.56007	A	ADM2	EC		10	0910			0		86	America/Guayaquil	2024-10-11
+3654246	Cantón Mera	Canton Mera	Canton Mera,Cantón Mera	-1.43494	-78.08327	A	ADM2	EC		17	1602			0		1371	America/Guayaquil	2017-02-07
+3654259	Cantón Mejía	Canton Mejia	Canton Mejia,Cantón Mejía,Mejia,Mejía	-0.49215	-78.64647	A	ADM2	EC		18	1703			0		3497	America/Guayaquil	2024-10-11
+3654408	Manta	Manta	Canton Manta,Cantón Manta,Manta	-1.02552	-80.80497	A	ADM2	EC		14	1308			0		261	America/Guayaquil	2024-10-11
+3654532	Machala	Machala	Canton Machala,Cantón Machala,Machala	-3.32171	-79.9443	A	ADM2	EC		08	0701			0		40	America/Guayaquil	2024-10-11
+3654544	Cantón Macará	Canton Macara	Canton Macara,Cantón Macará,Macara,Macará	-4.31423	-79.92275	A	ADM2	EC		12	1108			0		1625	America/Guayaquil	2024-10-11
+3654666	Loja	Loja	Canton Loja,Cantón Loja,Loja	-4.03728	-79.1891	A	ADM2	EC		12	1101			0		2477	America/Guayaquil	2024-10-11
+3654737	Cantón Limón Indanza	Canton Limon Indanza	Canton Limon Indanza,Cantón Limón Indanza,Limon Indanza,Limón Indanza	-3.04269	-78.33801	A	ADM2	EC		15	1403			0		893	America/Guayaquil	2024-10-11
+3654869	Latacunga	Latacunga	Canton Latacunga,Cantón Latacunga,Latacunga	-0.80785	-78.53681	A	ADM2	EC		07	0501			0		3241	America/Guayaquil	2024-10-11
+3655184	Lago Agrio	Lago Agrio	Canton Lago Agrio,Cantón Lago Agrio,Lago Agrio	0.08604	-76.78849	A	ADM2	EC		22	2101			0		360	America/Guayaquil	2024-10-11
+3655383	Cantón Junín	Canton Junin	Canton Junin,Cantón Junín,Junin,Junín	-0.93691	-80.20031	A	ADM2	EC		14	1307			0		162	America/Guayaquil	2024-10-11
+3655445	Jipijapa	Jipijapa	Canton Jipijapa,Cantón Jipijapa,Jipijapa	-1.40605	-80.57555	A	ADM2	EC		14	1306			0		366	America/Guayaquil	2024-10-11
+3655572	Isabela	Isabela	Canton Isabela,Cantón Isabela,Isabela	-0.51069	-91.05188	A	ADM2	EC		01	2002			0		341	Pacific/Galapagos	2024-10-11
+3655672	Ibarra	Ibarra	Canton Ibarra,Cantón Ibarra,Ibara,Ibarra,aybara,ibala,ibara,yi wa la,איבארה,ایبارا,ایبارا، ایکواڈور,იბარა,伊瓦拉,이바라	0.38173	-78.06743	A	ADM2	EC		11	1001			0		2706	America/Guayaquil	2024-10-11
+3655719	Huaquillas	Huaquillas	Canton Huaquillas,Cantón Huaquillas,Huaquillas	-3.46198	-80.18437	A	ADM2	EC		08	0707			0		12	America/Guayaquil	2024-10-11
+3657508	Guayaquil	Guayaquil	Canton Guayaquil,Cantón Guayaquil,Guayaquil	-2.4352	-80.10039	A	ADM2	EC		10	0901			0		1	America/Guayaquil	2024-10-11
+3657570	Guaranda	Guaranda	Canton Guaranda,Cantón Guaranda,Guaranda	-1.43467	-79.03423	A	ADM2	EC		03	0201			0		3480	America/Guayaquil	2024-10-11
+3657593	Guano	Guano	Canton Guano,Cantón Guano,Guano	-1.56959	-78.64474	A	ADM2	EC		06	0607			0		3269	America/Guayaquil	2024-10-11
+3657620	Guamote	Guamote	Canton Guamote,Cantón Guamote,Guamote	-2.03214	-78.6273	A	ADM2	EC		06	0606			0		3411	America/Guayaquil	2024-10-11
+3657660	Gualaquiza	Gualaquiza	Canton Gualaquiza,Cantón Gualaquiza,Gualaquiza	-3.36543	-78.65378	A	ADM2	EC		15	1402			0		1838	America/Guayaquil	2024-10-11
+3657669	Gualaceo	Gualaceo	Canton Gualaceo,Cantón Gualaceo,Gualaceo	-2.88671	-78.77953	A	ADM2	EC		02	0103			0		2429	America/Guayaquil	2024-10-11
+3657721	El Guabo	El Guabo	Canton El Guabo,Canton Guabo,Cantón El Guabo,Cantón Guabo,El Guabo	-3.17881	-79.7901	A	ADM2	EC		08	0706			0		190	America/Guayaquil	2024-10-11
+3657777	Cantón Gonzanamá	Canton Gonzanama	Canton Gonzanama,Cantón Gonzanamá,Gonzanama,Gonzanamá	-4.15446	-79.45279	A	ADM2	EC		12	1107			0		2007	America/Guayaquil	2024-10-11
+3657793	Cantón Girón	Canton Giron	Canton Giron,Cantón Girón,Giron,Girón	-3.18197	-79.15095	A	ADM2	EC		02	0102			0		2286	America/Guayaquil	2024-10-11
+3657967	Espíndola	Espindola	Canton Espindola,Cantón Espindola,Cantón Espíndola,Espindola,Espíndola	-4.56244	-79.41171	A	ADM2	EC		12	1106			0		2141	America/Guayaquil	2024-10-11
+3657981	Espejo	Espejo	Canton Espejo,Cantón Espejo,Espejo	0.70603	-77.99608	A	ADM2	EC		05	0403			0		3511	America/Guayaquil	2024-10-11
+3657987	Esmeraldas	Esmeraldas	Canton Esmeraldas,Cantón Esmeraldas,Esmeraldas	0.79742	-79.62458	A	ADM2	EC		09	0801			0		137	America/Guayaquil	2024-10-11
+3658191	Eloy Alfaro	Eloy Alfaro	Canton Eloy Alfaro,Cantón Eloy Alfaro,Eloy Alfaro	0.74024	-78.9718	A	ADM2	EC		09	0802			0		148	America/Guayaquil	2024-10-11
+3658266	El Empalme	El Empalme	Canton El Empalme,Cantón El Empalme,El Empalme	-0.98586	-79.66334	A	ADM2	EC		10	0908			0		102	America/Guayaquil	2024-10-11
+3658324	El Carmen	El Carmen	Canton El Carmen,Cantón El Carmen,El Carmen	-0.35709	-79.54827	A	ADM2	EC		14	1304			0		253	America/Guayaquil	2024-10-11
+3658498	Daule	Daule	Canton Daule,Cantón Daule,Daule	-1.89181	-79.93339	A	ADM2	EC		10	0906			0		21	America/Guayaquil	2024-10-11
+3658665	Cuenca	Cuenca	Canton Cuenca,Cantón Cuenca,Cuenca	-2.89241	-79.1982	A	ADM2	EC		02	0101			0		3856	America/Guayaquil	2024-10-11
+3658780	Cotacachi	Cotacachi	Canton Cotacachi,Cantón Cotacachi,Cotacachi	0.35886	-78.57759	A	ADM2	EC		11	1003			0		2260	America/Guayaquil	2024-10-11
+3658919	Colta	Colta	Canton Colta,Cantón Colta,Colta	-1.81781	-78.83937	A	ADM2	EC		06	0603			0		3716	America/Guayaquil	2024-10-11
+3659071	Chunchi	Chunchi	Canton Chunchi,Cantón Chunchi,Chunchi	-2.33748	-78.89005	A	ADM2	EC		06	0605			0		2967	America/Guayaquil	2024-10-11
+3659138	Chone	Chone	Canton Chone,Cantón Chone,Chone	-0.56863	-80.10132	A	ADM2	EC		14	1303			0		125	America/Guayaquil	2024-10-11
+3659209	Chinchipe	Chinchipe	Canton Chinchipe,Cantón Chinchipe,Chinchipe	-4.86356	-79.15514	A	ADM2	EC		20	1902			0		1248	America/Guayaquil	2024-10-11
+3659242	Cantón Chimbo	Canton Chimbo	Canton Chimbo,Cantón Chimbo	-1.68444	-79.02526	A	ADM2	EC		03	0203			0		2460	America/Guayaquil	2017-02-07
+3659255	Chillanes	Chillanes	Canton Chillanes,Cantón Chillanes,Chillanes	-2.01315	-79.1161	A	ADM2	EC		03	0202			0		1309	America/Guayaquil	2024-10-11
+3659543	Cantón Celica	Canton Celica	Canton Celica,Cantón Celica	-4.15536	-80.00725	A	ADM2	EC		12	1104			0		1143	America/Guayaquil	2017-02-07
+3659576	Cayambe	Cayambe	Canton Cayambe,Cantón Cayambe,Cayambe	0.00073	-78.05966	A	ADM2	EC		18	1702			0		4209	America/Guayaquil	2024-10-11
+3659598	Catamayo	Catamayo	Canton Catamayo,Cantón Catamayo,Catamayo	-3.98045	-79.37892	A	ADM2	EC		12	1103			0		1294	America/Guayaquil	2024-10-11
+3659851	Cantón Cañar	Canton Canar	Canar,Canton Canar,Cantón Cañar,Cañar	-2.5462	-79.04172	A	ADM2	EC		04	0303			0		3154	America/Guayaquil	2024-10-11
+3659882	Calvas	Calvas	Calvas,Canton Calvas,Cantón Calvas	-4.3353	-79.60249	A	ADM2	EC		12	1102			0		1771	America/Guayaquil	2024-10-11
+3660131	Cantón Bolívar	Canton Bolivar	Bolivar,Bolívar,Canton Bolivar,Cantón Bolívar	-0.91344	-80.03409	A	ADM2	EC		14	1302			0		158	America/Guayaquil	2024-10-11
+3660210	Cantón Biblián	Canton Biblian	Canton Biblian,Cantón Biblián	-2.70472	-78.90518	A	ADM2	EC		04	0302			0		2717	America/Guayaquil	2017-02-07
+3660343	Baños de Agua Santa	Banos de Agua Santa	Banos de Agua Santa,Baños de Agua Santa,Canton Banos,Canton Banos de Agua Santa,Cantón Baños,Cantón Baños de Agua Santa	-1.33851	-78.26156	A	ADM2	EC		19	1802			0		2991	America/Guayaquil	2024-10-11
+3660360	Balzar	Balzar	Balzar,Canton Balzar,Cantón Balzar	-1.28493	-79.90425	A	ADM2	EC		10	0904			0		59	America/Guayaquil	2024-10-11
+3660417	Babahoyo	Babahoyo	Babahoyo,Canton Babahoyo,Cantón Babahoyo	-1.81822	-79.52523	A	ADM2	EC		13	1201			0		52	America/Guayaquil	2024-10-11
+3660421	Cantón Baba	Canton Baba	Baaba,Canton Baba,Cantón Baba	-1.78333	-79.66667	A	ADM2	EC		13	1202			0		11	America/Guayaquil	2020-06-10
+3660433	Azogues	Azogues	Azogues,Canton Azogues,Cantón Azogues	-2.64976	-78.75677	A	ADM2	EC		04	0301			0		3373	America/Guayaquil	2024-10-11
+3660558	Arenillas	Arenillas	Arenillas,Canton Arenillas,Cantón Arenillas	-3.58036	-80.09139	A	ADM2	EC		08	0702			0		108	America/Guayaquil	2024-10-11
+3660572	Archidona	Archidona	Archidona,Canton Archidona,Cantón Archidona	-0.75805	-77.96713	A	ADM2	EC		23	1503			0		2168	America/Guayaquil	2024-10-11
+3660592	Cantón Antonio Ante	Canton Antonio Ante	Canton Antonio Ante,Cantón Antonio Ante	0.33989	-78.20515	A	ADM2	EC		11	1002			0		2410	America/Guayaquil	2017-02-03
+3660688	Ambato	Ambato	Ambato,Canton Ambato,Cantón Ambato	-1.27017	-78.7454	A	ADM2	EC		19	1801			0		3187	America/Guayaquil	2024-10-11
+3660797	Cantón Alausí	Canton Alausi	Alausi,Alausí,Canton Alausi,Cantón Alausí	-2.2646	-78.7207	A	ADM2	EC		06	0602			0		3382	America/Guayaquil	2024-10-11
+3660839	Cantón Aguarico	Canton Aguarico	Canton Aguarico,Cantón Aguarico	-0.90097	-75.39282	A	ADM2	EC		24	2202			0		194	America/Guayaquil	2015-09-16
+7626219	Cantón San Fernando	Canton San Fernando		-3.13349	-79.26893	A	ADM2	EC		02	0107			5000	2655	2931	America/Guayaquil	2015-09-16
+7648116	Cantón Nabón	Canton Nabon		-3.32356	-79.06517	A	ADM2	EC		02	0104			0	2773	2599	America/Guayaquil	2015-09-16
+8471961	Valencia	Valencia	Canton Valencia,Cantón Valencia,Valencia	-0.80063	-79.3276	A	ADM2	EC		13	1211			0		181	America/Guayaquil	2024-10-12
+8471975	Buena Fe	Buena Fe	Buena Fe,Canton Buena Fe,Cantón Buena Fe	-0.7188	-79.49925	A	ADM2	EC		13	1210			0		112	America/Guayaquil	2024-10-12
+8472358	El Chaco	El Chaco	Canton Chaco,Canton El Chaco,Cantón Chaco,Cantón El Chaco,El Chaco	-0.25084	-77.69435	A	ADM2	EC		23	1504			0		1573	America/Guayaquil	2024-10-12
+8522615	Sigchos	Sigchos	Canton Sigchos,Cantón Sigchos,Sigchos	-0.64694	-78.91799	A	ADM2	EC		07	0507			0		2312	America/Guayaquil	2024-10-12
+9155063	Cumanda	Cumanda		-2.20788	-79.13504	A	ADM2	EC		06	0610			0		316	America/Guayaquil	2017-02-07
+9155065	Canton Bolivar	Canton Bolivar		0.50255	-77.90246	A	ADM2	EC		05	0402			0		2607	America/Guayaquil	2015-09-16
+9155068	Canton Colimes	Canton Colimes		-1.55	-80.01666	A	ADM2	EC		10	0905			0		20	America/Guayaquil	2015-09-16
+9155070	Canton Caluma	Canton Caluma		-1.63333	-79.25	A	ADM2	EC		03	0206			0		370	America/Guayaquil	2015-09-16
+9155072	Canton Echeandia	Canton Echeandia		-1.43333	-79.26667	A	ADM2	EC		03	0204			0		335	America/Guayaquil	2015-09-16
+9155281	Canton El Tambo	Canton El Tambo		-2.5081	-78.9249	A	ADM2	EC		04	0305			0		2984	America/Guayaquil	2015-09-16
+9155660	Canton Las Naves	Canton Las Naves		-1.28333	-79.3	A	ADM2	EC		03	0207			0		387	America/Guayaquil	2015-09-16
+9155917	Canton Pedro Vicente Maldonado	Canton Pedro Vicente Maldonado		0.16667	-79	A	ADM2	EC		18	1708			0		544	America/Guayaquil	2015-09-16
+9156089	Canton Pedernales	Canton Pedernales		0.0701	-80.0536	A	ADM2	EC		14	1317			0		31	America/Guayaquil	2015-09-16
+9165820	San Miguel de Urcuqui Canton	San Miguel de Urcuqui Canton		0.4203	-78.1972	A	ADM2	EC		11	1006			0		2298	America/Guayaquil	2015-09-16
+10630521	Rio Verde	Rio Verde		1.06235	-79.39939	A	ADM2	EC		09	0807			22100		111	America/Guayaquil	2015-09-16
+10743580	Loreto Canton	Loreto Canton		-0.69487	-77.30255	A	ADM2	EC		24	2204			13500		384	America/Guayaquil	2015-09-16
+10792443	Pallatanga	Pallatanga		-2.01392	-78.92697	A	ADM2	EC		06	0608			0		1999	America/Guayaquil	2015-09-16
+10792444	Penipe	Penipe	Penipe Canton	-1.56228	-78.44812	A	ADM2	EC		06	0609			0		3786	America/Guayaquil	2015-09-16
+10792445	Atahualpa	Atahualpa	Atahualpa Canton	-3.54638	-79.71621	A	ADM2	EC		08	0703			0		1511	America/Guayaquil	2015-09-16
+10792446	Chilla	Chilla	Chilla Canton	-3.43651	-79.62857	A	ADM2	EC		08	0705			0		1706	America/Guayaquil	2015-09-16
+10792447	Marcabelí	Marcabeli	Marcabeli Canton,Marcabelí Canton	-3.77573	-79.92319	A	ADM2	EC		08	0708			0		537	America/Guayaquil	2015-09-16
+10792448	Alfredo Baquerizo Moreno (Juján)	Alfredo Baquerizo Moreno (Jujan)	Alfredo Baquerizo Moreno Canton	-1.94487	-79.54073	A	ADM2	EC		10	0902			0		12	America/Guayaquil	2015-09-16
+10792449	Balao	Balao		-2.89411	-79.70746	A	ADM2	EC		10	0903			0		41	America/Guayaquil	2015-09-16
+10792450	Atacames	Atacames	Atacames Canton	0.79194	-79.85665	A	ADM2	EC		09	0806			0		189	America/Guayaquil	2015-09-16
+10792451	Durán	Duran	Duran Canton,Durán Canton	-2.22581	-79.77477	A	ADM2	EC		10	0907			0		1	America/Guayaquil	2015-09-16
+10792452	El Triunfo	El Triunfo	El Triunfo Canton	-2.29156	-79.3623	A	ADM2	EC		10	0909			0		54	America/Guayaquil	2015-09-16
+10792453	Palestina	Palestina	Palestina Canton	-1.63364	-79.91825	A	ADM2	EC		10	0913			0		22	America/Guayaquil	2015-09-15
+10792454	Pedro Carbo	Pedro Carbo	Pedro Carbo Canton	-1.8538	-80.28787	A	ADM2	EC		10	0914			0		97	America/Guayaquil	2015-09-15
+10792455	Santa Lucía	Santa Lucia	Santa Lucia Canton,Santa Lucía Canton	-1.71317	-80.03175	A	ADM2	EC		10	0918			0		9	America/Guayaquil	2015-09-15
+10792456	Coronel Marcelino Maridueña	Coronel Marcelino Mariduena	Coronel Marcelino Mariduena Canton,Coronel Marcelino Maridueña Canton	-2.23589	-79.38137	A	ADM2	EC		10	0923			0		52	America/Guayaquil	2015-09-15
+10792457	Chaguarpamba	Chaguarpamba	Chaguarpamba Canton	-3.85595	-79.67225	A	ADM2	EC		12	1105			0		870	America/Guayaquil	2015-09-15
+10792458	Lomas De Sargentillo	Lomas De Sargentillo	Lomas de Sargentillo Canton	-1.84736	-80.07871	A	ADM2	EC		10	0924			0		18	America/Guayaquil	2015-09-15
+10792459	Playas	Playas	Playas Canton	-2.55413	-80.43465	A	ADM2	EC		10	0921			0		106	America/Guayaquil	2015-09-15
+10792460	Simón Bolívar	Simon Bolivar	Simon Bolivar Canton,Simón Bolívar Canton	-2.03624	-79.40141	A	ADM2	EC		10	0922			0		28	America/Guayaquil	2015-09-15
+10792461	Nobol	Nobol	Nobol Canton	-1.96883	-80.05292	A	ADM2	EC		10	0925			0		13	America/Guayaquil	2015-09-15
+10792462	General Antonio Elizalde	General Antonio Elizalde	General Antonio Elizalde Canton	-2.15499	-79.19854	A	ADM2	EC		10	0927			0		175	America/Guayaquil	2015-09-15
+10792463	Isidro Ayora	Isidro Ayora	Isidro Ayora Canton	-1.9631	-80.15928	A	ADM2	EC		10	0928			0		54	America/Guayaquil	2015-09-15
+10792464	Chordeleg	Chordeleg		-2.98286	-78.73462	A	ADM2	EC		02	0111			0		3104	America/Guayaquil	2015-09-14
+10792465	El Pan	El Pan	El Pan Canton	-2.86365	-78.65407	A	ADM2	EC		02	0112			0		3135	America/Guayaquil	2015-09-15
+10792466	Sevilla De Oro	Sevilla De Oro	Sevilla de Oro Canton	-2.68189	-78.57499	A	ADM2	EC		02	0113			0		3579	America/Guayaquil	2015-09-15
+10792467	Guachapala	Guachapala	Guachapala Canton	-2.77239	-78.70442	A	ADM2	EC		02	0114			0		2391	America/Guayaquil	2015-09-15
+10792468	Las Lajas	Las Lajas	Las Lajas Canton	-3.80555	-80.0585	A	ADM2	EC		08	0714			0		467	America/Guayaquil	2015-09-15
+10792469	Mocache	Mocache		-1.18683	-79.54442	A	ADM2	EC		13	1212			0		46	America/Guayaquil	2015-09-15
+10792470	Huamboya	Huamboya		-1.99019	-77.92191	A	ADM2	EC		15	1407			0		947	America/Guayaquil	2017-02-03
+10792471	Pichincha	Pichincha		-0.88292	-79.83959	A	ADM2	EC		14	1311			0		159	America/Guayaquil	2015-09-15
+10792472	Cascales	Cascales		0.15075	-77.23538	A	ADM2	EC		22	2106			0		444	America/Guayaquil	2015-09-15
+10792473	Cuyabeno	Cuyabeno		-0.26948	-75.88444	A	ADM2	EC		22	2107			0		221	America/Guayaquil	2019-03-07
+10792474	La Joya De Los Sachas	La Joya De Los Sachas	Joya de los Sachas Canton	-0.27894	-76.89039	A	ADM2	EC		24	2203			0		284	America/Guayaquil	2015-09-14
+10792475	Tosagua	Tosagua	Tosagua Canton	-0.77931	-80.27831	A	ADM2	EC		14	1315			0		61	America/Guayaquil	2015-09-14
+10792476	Olmedo	Olmedo	Olmedo Canton	-1.35249	-80.20926	A	ADM2	EC		14	1318			0		105	America/Guayaquil	2015-09-14
+10792477	Puerto López	Puerto Lopez	Puerto Lopez Canton,Puerto López Canton	-1.55725	-80.74763	A	ADM2	EC		14	1319			0		365	America/Guayaquil	2015-09-14
+10792478	Jama	Jama	Jama Canton	-0.21987	-80.22839	A	ADM2	EC		14	1320			0		97	America/Guayaquil	2015-09-14
+10792479	Jaramijó	Jaramijo	Jaramijo Canton,Jaramijó Canton	-0.97892	-80.60424	A	ADM2	EC		14	1321			0		56	America/Guayaquil	2015-09-14
+10792480	San Juan Bosco	San Juan Bosco	San Juan Bosco Canton	-3.2627	-78.38168	A	ADM2	EC		15	1408			0		1394	America/Guayaquil	2015-09-14
+10792481	Taisha	Taisha	Taisha Canton	-2.49054	-77.48315	A	ADM2	EC		15	1409			0		360	America/Guayaquil	2015-09-14
+10792482	Logroño	Logrono	Logrono Canton,Logroño Canton	-2.77682	-78.02212	A	ADM2	EC		15	1410			0		1183	America/Guayaquil	2015-09-14
+10792483	Carlos Julio Arosemena Tola	Carlos Julio Arosemena Tola	Carlos Julio Arosemena Tola Canton	-1.13969	-77.94902	A	ADM2	EC		23	1509			0		746	America/Guayaquil	2015-09-14
+10792484	Arajuno	Arajuno	Arajuno Canton	-1.34578	-76.77553	A	ADM2	EC		17	1604			0		297	America/Guayaquil	2015-09-14
+10792485	San Miguel De Los Bancos	San Miguel De Los Bancos	Los Bancos Canton	-0.03583	-78.98868	A	ADM2	EC		18	1707			0		787	America/Guayaquil	2015-09-14
+10792486	Puerto Quito	Puerto Quito	Puerto Quito Canton	0.17233	-79.23624	A	ADM2	EC		18	1709			0		257	America/Guayaquil	2015-09-14
+10792487	Cevallos	Cevallos	Cevallos Canton	-1.34814	-78.60846	A	ADM2	EC		19	1803			0		2860	America/Guayaquil	2015-09-14
+10792488	Mocha	Mocha	Mocha Canton	-1.41553	-78.6923	A	ADM2	EC		19	1804			0		3739	America/Guayaquil	2015-09-14
+10792489	Tisaleo	Tisaleo	Tisaleo Canton	-1.36606	-78.67967	A	ADM2	EC		19	1809			0		3384	America/Guayaquil	2015-09-14
+10792490	Nangaritza	Nangaritza	Nangaritza Canton	-4.32616	-78.75638	A	ADM2	EC		20	1903			0		1255	America/Guayaquil	2015-09-14
+10792491	El Pangui	El Pangui	El Pangui Canton	-3.69363	-78.5443	A	ADM2	EC		20	1906			0		821	America/Guayaquil	2015-09-14
+10792492	Centinela Del Cóndor	Centinela Del Condor	Centinela del Condor Canton,Centinela del Cóndor Canton	-3.91563	-78.74931	A	ADM2	EC		20	1907			0		984	America/Guayaquil	2017-02-07
+10792493	Palanda	Palanda	Palanda Canton	-4.55736	-79.09327	A	ADM2	EC		20	1908			0		1369	America/Guayaquil	2015-09-14
+10792494	Gonzalo Pizarro	Gonzalo Pizarro	Gonzalo Pizarro Canton	0.08459	-77.58758	A	ADM2	EC		22	2102			0		1102	America/Guayaquil	2015-09-14
+10792495	Zapotillo	Zapotillo	Zapotillo Canton	-4.22038	-80.32116	A	ADM2	EC		12	1113			0		486	America/Guayaquil	2015-09-14
+10792496	Pindal	Pindal		-4.08074	-80.10644	A	ADM2	EC		12	1114			0		661	America/Guayaquil	2015-09-14
+10792497	Quilanga	Quilanga	Quilanga Canton	-4.34159	-79.37862	A	ADM2	EC		12	1115			0		1680	America/Guayaquil	2015-09-14
+10792498	Olmedo	Olmedo	Olmedo Canton	-3.93045	-79.62508	A	ADM2	EC		12	1116			0		1391	America/Guayaquil	2015-09-14
+10792499	Montalvo	Montalvo	Montalvo Canton	-1.80295	-79.31703	A	ADM2	EC		13	1203			0		25	America/Guayaquil	2015-09-14
+10792500	Palenque	Palenque	Palenque Canton	-1.32542	-79.71102	A	ADM2	EC		13	1209			0		36	America/Guayaquil	2015-09-14
+10792501	Flavio Alfaro	Flavio Alfaro	Flavio Alfaro Canton	-0.32306	-79.8157	A	ADM2	EC		14	1305			0		155	America/Guayaquil	2015-09-14
+10792502	Pucara	Pucara	Pucara Canton,Pucará Canton	-3.14503	-79.56561	A	ADM2	EC		02	0106			0		3312	America/Guayaquil	2015-09-14
+10792503	La Troncal	La Troncal	La Troncal Canton	-2.44396	-79.37937	A	ADM2	EC		04	0304			0		63	America/Guayaquil	2015-09-14
+10792504	Déleg	Deleg	Deleg Canton,Déleg Canton	-2.77151	-78.93276	A	ADM2	EC		04	0306			0		2731	America/Guayaquil	2015-09-14
+10792505	Suscal	Suscal		-2.44012	-79.05144	A	ADM2	EC		04	0307			0		2680	America/Guayaquil	2017-02-07
+10792506	San Pedro De Huaca	San Pedro De Huaca		0.61652	-77.70866	A	ADM2	EC		05	0406			0		3110	America/Guayaquil	2015-09-14
+10792507	La Maná	La Mana	La Mana Canton,La Maná Canton	-0.7908	-79.1342	A	ADM2	EC		07	0502			0		632	America/Guayaquil	2015-09-14
+10792508	Saquisilí	Saquisili	Saquisili Canton,Saquisilí Canton	-0.82866	-78.72559	A	ADM2	EC		07	0506			0		3307	America/Guayaquil	2015-09-14
+10792509	Chambo	Chambo		-1.75149	-78.54528	A	ADM2	EC		06	0604			0		3448	America/Guayaquil	2015-09-14
+10792510	Balsas	Balsas	Balsas Canton	-3.76834	-79.83285	A	ADM2	EC		08	0704			0		712	America/Guayaquil	2015-09-14
+10792511	Oña	Ona	Ona Canton,Oña Canton	-3.48573	-79.12986	A	ADM2	EC		02	0110			0		2673	America/Guayaquil	2015-09-14
+10792512	Shushufindi	Shushufindi	Shushufindi Canton	-0.31063	-76.41662	A	ADM2	EC		22	2104			0		251	America/Guayaquil	2015-09-14
+10792543	Camilo Ponce Enríquez	Camilo Ponce Enriquez	Camilo Ponce Enriquez Canton,Camilo Ponce Enríquez Canton	-3.06281	-79.7374	A	ADM2	EC		02	0115			0		56	America/Guayaquil	2015-09-16
+10792544	Quinsaloma	Quinsaloma		-1.20726	-79.31099	A	ADM2	EC		13	1213			0		144	America/Guayaquil	2015-09-16
+10792545	San Vicente	San Vicente	San Vicente Canton	-0.60435	-80.40267	A	ADM2	EC		14	1322			20000		6	America/Guayaquil	2015-09-19
+10792546	Tiwintza	Tiwintza		-3.04841	-78.00662	A	ADM2	EC		15	1412			0		306	America/Guayaquil	2015-09-16
+10792547	Santa Clara	Santa Clara		-1.26699	-77.8965	A	ADM2	EC		17	1603			0		674	America/Guayaquil	2015-09-19
+10792548	Paquisha	Paquisha	Paquisha Canton	-3.93299	-78.67722	A	ADM2	EC		20	1909			0		822	America/Guayaquil	2015-09-16
+10792549	La Libertad	La Libertad		-2.23149	-80.8998	A	ADM2	EC		25	2402			0		38	America/Guayaquil	2015-09-16
+10792550	Pablo Sexto	Pablo Sexto		-1.85362	-78.29544	A	ADM2	EC		15	1411			0		2825	America/Guayaquil	2017-02-03
+10792565	La Concordia	La Concordia		0.00592	-79.39467	A	ADM2	EC		26	2302			0		217	America/Guayaquil	2023-09-07

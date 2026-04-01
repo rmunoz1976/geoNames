@@ -1,0 +1,39 @@
+﻿7909700	Sao Domingos	Sao Domingos	Sao Domingos	12.40194	-16.20056	A	ADM2	GW		06	7909700			0		10	Africa/Bissau	2019-01-08
+7909702	Cacheu Sector	Cacheu Sector	Cacheu,Cacheu/Calequisse	12.16667	-16.16666	A	ADM2	GW		06	7909702			0		4	Africa/Bissau	2019-01-08
+7909706	Bedanda	Bedanda	Badanda	11.35	-15.11667	A	ADM2	GW		07	7909706			0		7	Africa/Bissau	2019-01-08
+7909708	Fulacunda	Fulacunda	Fulacunda	11.8	-15.16667	A	ADM2	GW		02	7909708			0		26	Africa/Bissau	2019-01-08
+7909709	Buba	Buba	Buba	11.57555	-15	A	ADM2	GW		02	7909709			0		37	Africa/Bissau	2019-01-08
+7909710	Bubaque	Bubaque	Bubaque	11.28333	-15.83333	A	ADM2	GW		05	7909710			0		26	Africa/Bissau	2019-01-08
+7909713	Quebo	Quebo	Quebo	11.545	-14.8	A	ADM2	GW		07	7909713			0		47	Africa/Bissau	2019-01-08
+7911001	Cacine	Cacine	Cacine	11.11667	-15.01667	A	ADM2	GW		07	7911001			0		15	Africa/Bissau	2019-01-08
+7911005	Caravela	Caravela	Caravela,Uno	11.56667	-16.26667	A	ADM2	GW		05	7911005			0		31	Africa/Bissau	2019-01-08
+7932380	Bigene Sector	Bigene Sector	Bigene	12.35383	-15.75341	A	ADM2	GW		06	7932380			0		38	Africa/Bissau	2019-01-08
+8335038	Prabis Sector	Prabis Sector	Prabis	11.81493	-15.74341	A	ADM2	GW		12	8335038			12000		26	Africa/Bissau	2023-12-28
+8335043	Quinhamel Sector	Quinhamel Sector	Quinhamel	11.87743	-15.85396	A	ADM2	GW		12	8335043			0		2	Africa/Bissau	2019-01-08
+8335049	Mansaba Sector	Mansaba Sector	Mansaba	12.318	-15.15	A	ADM2	GW		04	8335049			0		32	Africa/Bissau	2019-01-08
+8335050	Bissora Sector	Bissora Sector	Bissora	12.204	-15.505	A	ADM2	GW		04	8335050			0		25	Africa/Bissau	2019-01-08
+8335051	Nhacra Sector	Nhacra Sector	Nhacra	11.969	-15.505	A	ADM2	GW		04	8335051			0		7	Africa/Bissau	2019-01-08
+8335052	Farim Sector	Farim Sector	Farim	12.561	-15.166	A	ADM2	GW		04	8335052			0		20	Africa/Bissau	2019-01-08
+8335053	Sonaco Sector	Sonaco Sector	Sonaco	12.412	-14.403	A	ADM2	GW		10	8335053			0		37	Africa/Bissau	2019-01-08
+8335054	Xitole Sector	Xitole Sector	Xitole	11.763	-14.693	A	ADM2	GW		01	8335054			0		44	Africa/Bissau	2019-01-08
+8335055	Caio Sector	Caio Sector	Caio	11.92513	-16.16364	A	ADM2	GW		06	8335055			0		18	Africa/Bissau	2019-01-08
+8335068	Canchungo Sector	Canchungo Sector	Canchungo,Canghungo	12.03	-15.983	A	ADM2	GW		06	8335068			0		4	Africa/Bissau	2019-01-08
+8335069	Bula	Bula	Bula	12.1058	-15.7077	A	ADM2	GW		06	8335069			0		21	Africa/Bissau	2019-01-08
+8335070	Mansoa	Mansoa	Mansoa	12.05487	-15.21552	A	ADM2	GW		04	8335070			0		15	Africa/Bissau	2019-01-08
+8335071	Gamamundo Sector	Gamamundo Sector	Gamamudo/Ganadu,Gamamundo,Ganadu	12.285	-14.818	A	ADM2	GW		01	8335071			0		47	Africa/Bissau	2019-01-08
+8335072	Galomaro Sector	Galomaro Sector	Cosse,Galomaro,Galomaro/Cosse	11.956	-14.571	A	ADM2	GW		01	8335072			0		46	Africa/Bissau	2019-01-08
+8335074	Bafata Sector	Bafata Sector	Bafata,Bafata Sector	12.173	-14.593	A	ADM2	GW		01	8335074			0		43	Africa/Bissau	2012-06-14
+8335075	Gabu Sector	Gabu Sector	Gabu,Gabu Sector	12.122	-14.241	A	ADM2	GW		10	8335075			0		54	Africa/Bissau	2012-06-14
+8335076	Contuboel Sector	Contuboel Sector	Contuboel	12.555	-14.641	A	ADM2	GW		01	8335076			0		64	Africa/Bissau	2019-01-08
+10376583	Empada	Empada	Empada	11.55	-15.23333	A	ADM2	GW		02	10376583			0		18	Africa/Bissau	2019-01-08
+10376960	Tite	Tite	Tite	11.78333	-15.4	A	ADM2	GW		02	10376960			0		18	Africa/Bissau	2019-01-08
+11995994	Bambadinca	Bambadinca	Bambadinca	12.02131	-14.86068	A	ADM2	GW		01	11995994			0		40	Africa/Bissau	2019-01-08
+11995995	Bolama	Bolama	Bolama	11.57769	-15.50891	A	ADM2	GW		05	11995995			0		21	Africa/Bissau	2019-01-12
+11995996	Safim	Safim	Safim	11.94544	-15.64751	A	ADM2	GW		12	11995996			0		23	Africa/Bissau	2019-01-08
+11995997	Pirada	Pirada	Pirada	12.66688	-14.15491	A	ADM2	GW		10	11995997			0		62	Africa/Bissau	2019-01-08
+11995998	Pitche	Pitche	Piche,Pitche	12.32511	-13.95215	A	ADM2	GW		10	11995998			0		73	Africa/Bissau	2019-01-08
+11995999	Boe	Boe	Boe	11.7466	-14.21126	A	ADM2	GW		10	11995999			0		71	Africa/Bissau	2019-01-08
+11996000	Uno	Uno	Uno	11.26881	-16.19086	A	ADM2	GW		05	11996000			0		31	Africa/Bissau	2019-01-08
+11996001	Catio	Catio	Catio	11.27756	-15.25649	A	ADM2	GW		07	11996001			0		6	Africa/Bissau	2019-01-08
+11996002	Komo	Komo	Komo	11.20063	-15.34123	A	ADM2	GW		07	11996002			0		12	Africa/Bissau	2019-01-08
+11996003	Sector Autonomo de Bissau	Sector Autonomo de Bissau	Sector Autonomo de Bissau	11.88976	-15.60456	A	ADM2	GW		11	11996003			0		2	Africa/Bissau	2019-01-08

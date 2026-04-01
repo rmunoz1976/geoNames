@@ -1,0 +1,514 @@
+﻿1213498	Kota Tebing Tinggi	Kota Tebing Tinggi	Kota Tebing Tinggi,Kota Tebingtinggi,Kotamadya Tebingtinggi,Kotapradja Tebingtinggi,Tebing Tinggi	3.325	99.14167	A	ADM2	ID		26	1274			177785		22	Asia/Jakarta	2023-06-27
+1213518	Kabupaten Tapanuli Tengah	Kabupaten Tapanuli Tengah	Central Tapanuli Regency,Daerah Tingkat II Tapanuli Tengah,Kabupaten Tapanuli Tengah	1.9	98.66667	A	ADM2	ID		26	1204			374734		140	Asia/Jakarta	2023-06-27
+1213519	South Tapanuli Regency	South Tapanuli Regency	Daerah Tingkat II Tapanuli Selatan,Kabupaten Tapanuli Selatan,South Tapanuli Regency	1.51667	99.25	A	ADM2	ID		26	1203			307312		1129	Asia/Jakarta	2023-06-27
+1213546	Kota Tanjung Balai	Kota Tanjung Balai	Kota Kecil Tanjung Balai,Kota Tanjung Balai,Kota Tanjungbalai,Kotamadya Tandjungbalai,Kotamadya Tanjungbalai,Kotapradja Tandjungbalai	2.95	99.8	A	ADM2	ID		26	1272			179748		8	Asia/Jakarta	2023-06-27
+1213765	Kabupaten Simalungun	Kabupaten Simalungun	Daerah Tingkat II Simelungun,Kabupaten Simalungun,Simalungun Regency	2.88333	98.96667	A	ADM2	ID		26	1209			1021615		679	Asia/Jakarta	2023-06-27
+1213854	Kota Sibolga	Kota Sibolga	Kota Sibolga,Kotamadya Sibolga,Kotapradja Sibolga	1.74333	98.78694	A	ADM2	ID		26	1271			84481		162	Asia/Jakarta	2022-04-16
+1214025	Kota Sabang	Kota Sabang		5.87944	95.33223	A	ADM2	ID		01	1172			37486		114	Asia/Jakarta	2017-12-25
+1214203	Kota Pematang Siantar	Kota Pematang Siantar	Kota Pematang Siantar,Kotamadya Pematangsiantar,Kotapradja Pematangsiantar	2.96667	99.06667	A	ADM2	ID		26	1273			234698		372	Asia/Jakarta	2022-04-16
+1214405	Kabupaten Nias	Kabupaten Nias	Daerah Tingkat II Nias,Kabupaten Nias	1.06667	97.73333	A	ADM2	ID		26	1201			138360		42	Asia/Jakarta	2022-04-16
+1214519	Kota Medan	Kota Medan	Kota Medan,Kotamadya Medan,Kotapradja Medan	3.59333	98.66944	A	ADM2	ID		26	1275			2246142		47	Asia/Jakarta	2022-04-16
+1214728	Kabupaten Langkat	Kabupaten Langkat	Daerah Tingkat II Langkat,Kabupaten Langkat,Langkat Regency	3.68528	98.21972	A	ADM2	ID		26	1213			1027258		61	Asia/Jakarta	2022-04-16
+1214801	Kabupaten Labuhan Batu	Kabupaten Labuhan Batu	Daerah Tingkat II Labuhanbatu,Kabupaten Labuhan Batu,Kabupaten Labuhanbatu,Labuhan Batu,Labuhan Batu Regency	2.26667	100.1	A	ADM2	ID		26	1207			445254		9	Asia/Jakarta	2021-05-06
+1214929	Kabupaten Karo	Kabupaten Karo	Daerah Tingkat II Karo,Kabupaten Karo,Karo Regency	3.1	98.3	A	ADM2	ID		26	1211			381603		716	Asia/Jakarta	2022-04-16
+1215200	Kabupaten Deli Serdang	Kabupaten Deli Serdang	Daerah Tingkat II Deli Serdang,Deli Serdang Regency,Kabupaten Deli Serdang	3.43333	98.7	A	ADM2	ID		26	1212			1886915		82	Asia/Jakarta	2022-04-16
+1215221	Kabupaten Dairi	Kabupaten Dairi	Daerah Tingkat II Dairi,Dairi Regency,Kabupaten Dairi	2.85	98.26667	A	ADM2	ID		26	1210			283335		608	Asia/Jakarta	2022-04-16
+1215501	Kota Banda Aceh	Kota Banda Aceh	Kota Banda Aceh,Kotamadya Banda Aceh,Kotamadya Banda Atjeh,Kotapradja Banda Atjeh	5.55556	95.32639	A	ADM2	ID		01	1171			257635		9	Asia/Jakarta	2023-06-25
+1215554	Kabupaten Asahan	Kabupaten Asahan	Asahan Regency,Daerah Tingkat II Asahan,Kabupaten Asahan	2.83333	99.56667	A	ADM2	ID		26	1208			710498		48	Asia/Jakarta	2022-04-16
+1215630	Kabupaten Aceh Utara	Kabupaten Aceh Utara	Daerah Tingkat II Atjeh Utara,Kabupaten Aceh Utara,Kabupaten Atjeh Utara,North Aceh Regency	4.97	97.14	A	ADM2	ID		01	1111			614600		139	Asia/Jakarta	2023-06-19
+1215631	Kabupaten Aceh Timur	Kabupaten Aceh Timur	East Aceh Regency,Kabupaten Aceh Timur	4.61667	97.71667	A	ADM2	ID		01	1105			379455		79	Asia/Jakarta	2023-06-17
+1215632	Kabupaten Aceh Tenggara	Kabupaten Aceh Tenggara	Kabupaten Aceh Tenggara,Southeast Aceh Regency	3.33333	97.7	A	ADM2	ID		01	1104			228308		1524	Asia/Jakarta	2023-06-19
+1215633	Kabupaten Aceh Tengah	Kabupaten Aceh Tengah	Central Aceh Regency,Daerah Tingkat II Atjeh Tengah,Kabupaten Aceh Tengah,Kabupaten Atjeh Tengah	4.51	96.855	A	ADM2	ID		01	1106			218684		1624	Asia/Jakarta	2023-06-26
+1215634	Kabupaten Aceh Selatan	Kabupaten Aceh Selatan	Daerah Tingkat II Atjeh Selatan,Kabupaten Aceh Selatan,Kabupaten Atjeh Selatan,South Aceh Regency	3.16667	97.4	A	ADM2	ID		01	1103			237376		136	Asia/Jakarta	2023-06-26
+1215635	Kabupaten Aceh Besar	Kabupaten Aceh Besar	Daerah Tingkat II Atjeh Besar,Great Aceh Regency,Kabupaten Aceh Besar,Kabupaten Atjeh Besar	5.4	95.5	A	ADM2	ID		01	1108			414490		55	Asia/Jakarta	2023-06-19
+1215636	Kabupaten Aceh Barat	Kabupaten Aceh Barat	Daerah Tingkat II Atjeh Barat,Kabupaten Aceh Barat,Kabupaten Atjeh Barat,West Aceh Regency	4.43333	96.16667	A	ADM2	ID		01	1107			202858		66	Asia/Jakarta	2023-06-19
+1621175	Kota Yogyakarta	Kota Yogyakarta	Kota Yogyakarta,Kotamadya Jogjakarta,Kotamadya Yogyakarta,Kotapradja Jogjakarta,Yogyakarta	-7.8	110.375	A	ADM2	ID		10	3471			373589		111	Asia/Jakarta	2023-06-24
+1621238	Kabupaten Waropen	Kabupaten Waropen	Kabupaten Japen Waropen,Kabupaten Yapen Waropen,Waropen Regency,Yapen Waropen	-2.73008	136.64568	A	ADM2	ID		36	9426			34414		186	Asia/Jayapura	2023-06-26
+1621430	Kabupaten Wonogiri	Kabupaten Wonogiri	Daerah Tingkat II Wonogiri,Kabupaten Wonogiri,Wonogiri,Wonogiri Regency	-7.91667	111	A	ADM2	ID		07	3312			1096138		319	Asia/Jakarta	2023-06-19
+1622267	Kabupaten Wajo	Kabupaten Wajo	Daerah Tingkat II Wadjo,Kabupaten Wadjo,Kabupaten Wajo,Wajo,Wajo Regency	-4	120.16667	A	ADM2	ID		38	7313			379706		36	Asia/Makassar	2023-06-19
+1622785	Kota Makassar	Kota Makassar	Kodya Ujungpandang,Kota Makassar,Kotamadya Makasar,Kotamadya Makassar,Kotamadya Ujungpadang,Kotamadya Ujungpandang,Kotapradja Makasar,Kotapradja Makassar,Makassar	-5.13333	119.46667	A	ADM2	ID		38	7371			1432189		16	Asia/Makassar	2023-06-28
+1623079	Kabupaten Tulungagung	Kabupaten Tulungagung	Daerah Tingkat II Tulungagung,Kabupaten Tulungagung,Tulungagung,Tulungagung Regency	-8.13333	111.91667	A	ADM2	ID		08	3504			990158		238	Asia/Jakarta	2021-07-08
+1623178	Kabupaten Tuban	Kabupaten Tuban	Daerah Tingkat II Tuban,Kabupaten Tuban,Tuban Regency	-6.95	111.89167	A	ADM2	ID		08	3523			1118464		230	Asia/Jakarta	2023-03-08
+1623250	Kabupaten Trenggalek	Kabupaten Trenggalek	Daerah Tingkat II Trenggalek,Kabupaten Trenggalek,Trenggalek,Trenggalek Regency	-8.15972	111.62639	A	ADM2	ID		08	3503			674411		628	Asia/Jakarta	2022-11-11
+1623839	Kabupaten Timor Tengah Utara	Kabupaten Timor Tengah Utara	Daerah Tingkat II Timor Tengah Utara,Kabupaten Timor Tengah Utara,North Central Timor Regency	-9.33136	124.51904	A	ADM2	ID		18	5305			268067		336	Asia/Makassar	2023-06-21
+1623840	Kabupaten Timor Tengah Selatan	Kabupaten Timor Tengah Selatan	Daerah Tingkat II Timor Tengah Selatan,Kabupaten Timor Tengah Selatan,South Central Timor Regency	-9.83333	124.4	A	ADM2	ID		18	5304			460116		681	Asia/Makassar	2023-06-21
+1624237	Kabupaten Temanggung	Kabupaten Temanggung	Daerah Tingkat II Temanggung,Kabupaten Temanggung,Temanggung,Temanggung Regency	-7.25	110.13333	A	ADM2	ID		07	3323			790174		641	Asia/Jakarta	2023-06-19
+1624493	Kabupaten Tegal	Kabupaten Tegal	Daerah Tingkat II Tegal,Kabupaten Tegal,Tegal,Tegal Regency	-7.03333	109.16667	A	ADM2	ID		07	3328			1458226		129	Asia/Jakarta	2023-06-19
+1624645	Kota Tasikmalaya	Kota Tasikmalaya	Kota Administratip Tasikmalaya,Kota Tasikmalaya,Tasikmalaya	-7.35472	108.22139	A	ADM2	ID		30	3278			669824		312	Asia/Jakarta	2022-11-11
+1624646	Kabupaten Tasikmalaya	Kabupaten Tasikmalaya	Daerah Tingkat II Tasikmalaja,Kabupaten Tasikmalaja,Kabupaten Tasikmalaya,Tasikmalaya,Tasikmalaya Regency	-7.5	108.15	A	ADM2	ID		30	3206			1752628		227	Asia/Jakarta	2021-09-07
+1624750	Kabupaten Tapin	Kabupaten Tapin	Kabupaten Tapin,Tapin Regency	-2.96667	115.03333	A	ADM2	ID		12	6305			194628		51	Asia/Makassar	2023-06-19
+1624916	Kota Bandar Lampung	Kota Bandar Lampung	Kabupaten Tanjungkarang-Telukbetung,Kodya Bandarlampung,Kota Bandar Lampung,Kotamadya Bandarlampung,Kotamadya Tanjungkarang-Telukbetung,Kotapradja Tandjungkarang-Telukbetung	-5.41667	105.26667	A	ADM2	ID		15	1871			1209937		86	Asia/Jakarta	2023-06-25
+1625083	Kabupaten Tangerang	Kabupaten Tangerang	Daerah Tingkat II Tangerang,Kabupaten Tangerang,Kota Tangerang	-6.16667	106.48333	A	ADM2	ID		33	3603			1930556		42	Asia/Jakarta	2023-06-27
+1625123	Kabupaten Tana Toraja	Kabupaten Tana Toraja	Daerah Tingkat II Tana Toradja,Kabupaten Tana Toradja,Kabupaten Tanatoraja,TTR,Tana Toraja Regency,Tanatoraja	-3.05671	119.7617	A	ADM2	ID		38	7318			291046		835	Asia/Makassar	2023-06-21
+1625166	Kabupaten Tanah Laut	Kabupaten Tanah Laut	Kabupaten Tanah Laut,Kabupaten Tanahlaut,Tanah Laut Regency	-3.85	114.83333	A	ADM2	ID		12	6301			361044		111	Asia/Makassar	2023-06-21
+1625545	Kabupaten Takalar	Kabupaten Takalar	Daerah Tingkat II Takalar,Kabupaten Takalar,Takalar,Takalar Regency,Takalor	-5.41667	119.5	A	ADM2	ID		38	7305			305077		78	Asia/Makassar	2023-06-27
+1625707	Kabupaten Tabanan	Kabupaten Tabanan	Daerah Tingkat II Tabanan,Kabupaten Tabanan,Tabanan Regency	-8.43333	115.08333	A	ADM2	ID		02	5102			461630		468	Asia/Makassar	2023-06-27
+1625714	Kabupaten Tabalong	Kabupaten Tabalong	Kabupaten Tabalong,Tabalong Regency	-1.83333	115.55	A	ADM2	ID		12	6309			261353		130	Asia/Makassar	2023-06-27
+1625811	Kota Surakarta	Kota Surakarta	Kota Surakarta,Kotamadya Surakarta,Kotapradja Surakarta,Solo,Surakarta	-7.55806	110.82333	A	ADM2	ID		07	3372			523008		98	Asia/Jakarta	2023-06-27
+1625820	Kota Surabaya	Kota Surabaya	Kota Surabaya,Kotamadya Surabaja,Kotamadya Surabaya,Kotapradja Surabaja,Surabaya	-7.275	112.71667	A	ADM2	ID		08	3578			2765487		18	Asia/Jakarta	2021-08-05
+1626102	Kabupaten Sumedang	Kabupaten Sumedang	Daerah Tingkat II Sumedang,Kabupaten Sumedang,Sumedang	-6.83333	107.98333	A	ADM2	ID		30	3211			1143500		381	Asia/Jakarta	2021-09-07
+1626190	Kabupaten Sumba Timur	Kabupaten Sumba Timur	Daerah Tingkat II Sumba Timur,Kabupaten Sumba Timur	-9.88167	120.215	A	ADM2	ID		18	5302			248776		206	Asia/Makassar	2023-06-27
+1626193	Kabupaten Sumba Barat	Kabupaten Sumba Barat	Daerah Tingkat II Sumba Barat,Kabupaten Sumba Barat,West Sumba Regency	-9.63333	119.41667	A	ADM2	ID		18	5301			110993		329	Asia/Makassar	2023-06-27
+1626271	Kabupaten Sukoharjo	Kabupaten Sukoharjo	Daerah Tingkat II Sukohardjo,Kabupaten Sukohardjo,Kabupaten Sukoharjo,Sukoharjo,Sukoharjo Regency	-7.67889	110.86389	A	ADM2	ID		07	3311			907587		132	Asia/Jakarta	2023-06-21
+1626379	Kota Sukabumi	Kota Sukabumi	Kota Sukabumi,Kotamadya Sukabumi,Kotapradja Sukabumi,Sukabumi	-6.93333	106.93333	A	ADM2	ID		30	3272			311628		580	Asia/Jakarta	2021-10-06
+1626380	Kabupaten Sukabumi	Kabupaten Sukabumi	Daerah Tingkat II Sukabumi,Kabupaten Sukabumi,Sukabumi,Sukabumi Regency	-7.07278	106.74333	A	ADM2	ID		30	3202			2442062		650	Asia/Jakarta	2021-10-06
+1626541	Kabupaten Sorong	Kabupaten Sorong	Daerah Tingkat II Manokwari,Kabupaten Sorong,Sorong Regency	-1.1	131.51667	A	ADM2	ID		PD	9107			118679		103	Asia/Jayapura	2023-06-18
+1626645	Kota Solok	Kota Solok	Kota Solok,Kotamadya Solok,Kotapradja Solok,Solok Regency	-0.77853	100.63982	A	ADM2	ID		24	1372			73438		388	Asia/Jakarta	2023-06-27
+1626646	Kabupaten Solok	Kabupaten Solok	Daerah Tingkat II Solok,Kabupaten Solok,Solok Regency	-0.96667	100.83333	A	ADM2	ID		24	1303			391497		1370	Asia/Jakarta	2023-06-27
+1626886	Kabupaten Sintang	Kabupaten Sintang	Daerah Tingkat II Sintang,Kabupaten Sintang,Sintang,Sintang Regency	-0.08333	112.08333	A	ADM2	ID		11	6107			423674		100	Asia/Pontianak	2023-06-21
+1626894	Kabupaten Sinjai	Kabupaten Sinjai	Daerah Tingkat II Sindjai,Kabupaten Sindjai,Kabupaten Sinjai,Sinjai	-5.2	120.13333	A	ADM2	ID		38	7307			263827		301	Asia/Makassar	2023-06-27
+1627182	Kabupaten Sikka	Kabupaten Sikka	Daerah Tingkat II Sika,Kabupaten Sika,Kabupaten Sikka,Sikka Regency	-8.68333	122.33333	A	ADM2	ID		18	5310			326999		671	Asia/Makassar	2023-06-19
+1627252	Kabupaten Sidoarjo	Kabupaten Sidoarjo	Daerah Tingkat II Sidoardjo,Kabupaten Sidoardjo,Kabupaten Sidoarjo,Sidoarjo,Sidoarjo Regency	-7.45	112.7	A	ADM2	ID		08	3515			1941497		7	Asia/Jakarta	2025-10-05
+1627258	Kabupaten Sidenreng Rappang	Kabupaten Sidenreng Rappang	Daerah Tingkat II Sidenreng-Rappang,Kabupaten Sidenreng Rappang,Kabupaten Sidenreng-Rapang,Kabupaten Sidenrengrappang,Sidenreng,Sidenreng Rappang,Sidenreng Rappang Regency	-3.86667	119.96667	A	ADM2	ID		38	7314			327416		91	Asia/Makassar	2023-06-21
+1627443	Kabupaten Seruyan	Kabupaten Seruyan	Kabupaten Serujan,Kabupaten Seruyan,Seruyan Regency	-2.55	112.25	A	ADM2	ID		13	6208			162906		103	Asia/Pontianak	2023-06-17
+1627545	Kabupaten Serang	Kabupaten Serang	Daerah Tingkat II Serang,Kabupaten Serang,Serang Regency	-6.15	105.96667	A	ADM2	ID		33	3604			1678915		95	Asia/Jakarta	2023-06-19
+1627893	Kota Semarang	Kota Semarang	Kota Semarang,Kotamadya Semarang,Kotapradja Semarang,Semarang	-7.025	110.385	A	ADM2	ID		07	3374			1659975		55	Asia/Jakarta	2023-06-25
+1628015	Selayar Islands Regency	Selayar Islands Regency	Daerah Tingkat II Selajar,Kabupaten Kepulauan Selayar,Kabupaten Selajar,Kabupaten Selayar,Selayar Islands Regency	-6.81667	120.8	A	ADM2	ID		38	7301			139145		20	Asia/Makassar	2023-06-25
+1628471	Kota Sawah Lunto	Kota Sawah Lunto	Kota Sawah Lunto,Kotamadya Sawahlunto,Kotapradja Sawahlunto,Sawah Lunto	-0.6	100.75	A	ADM2	ID		24	1373			65138		333	Asia/Jakarta	2023-06-25
+1628580	Kabupaten Sarolangun	Kabupaten Sarolangun	Kabupaten Sarolangun,Kabupaten Sarolangun II,Sarolangun Regency	-2.26667	102.73333	A	ADM2	ID		05	1503			290047		79	Asia/Jakarta	2023-06-17
+1628775	Kabupaten Kepulauan Sangihe	Kabupaten Kepulauan Sangihe	Daerah Tingkat II Kepulauan Sangihe dan Talaud,Daerah Tingkat II Kepulauan Sangihe-Talaud,Kabupaten Kepulauan Sangihe,Kabupaten Kepulauan Sangihe dan Talaud,Kabupaten Sangihe-Talaud,Kabupaten Sangir Talaud,Kepulauan Sangihe Talaut,Sangihe Islands Regency	3.55	125.55	A	ADM2	ID		31	7103			126100		271	Asia/Makassar	2021-11-11
+1628799	Kabupaten Sanggau	Kabupaten Sanggau	Daerah Tingkat II Sanggau,Kabupaten Sanggau,Sanggau Regency	0.21667	110.46667	A	ADM2	ID		11	6105			492989		99	Asia/Pontianak	2023-06-26
+1628896	Kabupaten Sampang	Kabupaten Sampang	Daerah Tingkat II Sampang,Kabupaten Sampang,Sampang,Sampang Regency	-7.05	113.25	A	ADM2	ID		08	3527			877772		58	Asia/Jakarta	2021-08-05
+1628978	Kabupaten Sambas	Kabupaten Sambas	Daerah Tingkat II Sambas,Kabupaten Sambas,Sambas Regency	1.43333	109.35	A	ADM2	ID		11	6101			496120		26	Asia/Pontianak	2023-06-19
+1629000	Kota Samarinda	Kota Samarinda	Kota Samarinda,Kotamadya Samarinda,Kotapradja Samarinda	-0.5	117.14	A	ADM2	ID		14	6472			834824		1	Asia/Makassar	2023-06-21
+1629746	Kabupaten Rembang	Kabupaten Rembang	Daerah Tingkat II Rembang,Kabupaten Rembang,Rembang,Rembang Regency	-6.78333	111.46667	A	ADM2	ID		07	3317			650770		55	Asia/Jakarta	2023-06-25
+1629764	Kabupaten Rejang Lebong	Kabupaten Rejang Lebong	Daerah Tingkat II Redjang Lebong,Kabupaten Redjang Lebong,Kabupaten Rejang Lebong,Kabupaten Rejanglebong,Rejang Lebong Regency	-3.41667	102.71667	A	ADM2	ID		03	1702			281281		547	Asia/Jakarta	2023-06-26
+1630210	Kabupaten Raja Ampat	Kabupaten Raja Ampat	Kabupaten Raja Ampat,Raja Ampat Regency	-1.86521	130.06648	A	ADM2	ID		PD	9108			64141		91	Asia/Jayapura	2023-06-17
+1630324	Kabupaten Purworejo	Kabupaten Purworejo	Daerah Tingkat II Purworedjo,Kabupaten Purworedjo,Kabupaten Purworejo,Purworejo,Purworejo Regency	-7.7	109.96667	A	ADM2	ID		07	3306			741866		30	Asia/Jakarta	2025-03-27
+1630340	Kabupaten Purwakarta	Kabupaten Purwakarta	Daerah Tingkat II Purwakarta,Kabupaten Purwakarta,Purwakarta,Purwakarta Regency	-6.6	107.43333	A	ADM2	ID		30	3214			873804		180	Asia/Jakarta	2021-10-06
+1630632	Kota Probolinggo	Kota Probolinggo	Kota Probolinggo,Kotamadya Probolinggo,Kotapradja Probolinggo,Probolinggo	-7.775	113.20833	A	ADM2	ID		08	3574			217062		13	Asia/Jakarta	2023-05-11
+1630633	Kabupaten Probolinggo	Kabupaten Probolinggo	Daerah Tingkat II Probolinggo,Kabupaten Probolinggo,Probolinggo,Probolinggo Regency	-7.85	113.3	A	ADM2	ID		08	3513			1096244		74	Asia/Jakarta	2021-08-05
+1630720	Kabupaten Poso	Kabupaten Poso	Daerah Tingkat II Poso,Kabupaten Poso,Poso Regency	-1.68333	120.51667	A	ADM2	ID		21	7204			252650		1281	Asia/Makassar	2023-06-21
+1630787	Kota Pontianak	Kota Pontianak	Kota Pontianak,Kotamadya Pontianak,Kotapradja Pontianak	0.00832	109.33146	A	ADM2	ID		11	6171			669795		5	Asia/Pontianak	2023-06-25
+1630788	Kabupaten Mempawah	Kabupaten Mempawah	Daerah Tingkat II Pontianak,Kabupaten Mempawah,Kabupaten Pontianak,Mempawah,Mempawah Regency	0.25	109.16667	A	ADM2	ID		11	6104			310927		21	Asia/Pontianak	2023-06-21
+1630797	Kabupaten Ponorogo	Kabupaten Ponorogo	Daerah Tingkat II Ponorogo,Kabupaten Ponorogo,Ponorogo,Ponorogo Regency	-7.93333	111.5	A	ADM2	ID		08	3502			855281		117	Asia/Jakarta	2021-07-08
+1630933	Kabupaten Polewali Mandar	Kabupaten Polewali Mandar	Daerah Tingkat II Polewali Mamasa,Kabupaten Polewali Mandar,Kabupaten Polewalimamasa,Polewali Mandar,Polewali Mandar Regency	-3.31667	119.15	A	ADM2	ID		41	7602			490493		109	Asia/Makassar	2023-06-27
+1631102	Kabupaten Pinrang	Kabupaten Pinrang	Daerah Tingkat II Pinrang,Kabupaten Pinrang,Pinrang,Pinrang Regency	-3.61667	119.6	A	ADM2	ID		38	7315			411795		308	Asia/Makassar	2023-06-19
+1631300	Kabupaten Pesisir Selatan	Kabupaten Pesisir Selatan	Daerah Tingkat II Pasisir Selatan,Kabupaten Pesisir Selatan,Pasisir,Pesisir Selatan Regency	-1.56806	100.81694	A	ADM2	ID		24	1302			516518		641	Asia/Jakarta	2023-06-19
+1631647	Kabupaten Pemalang	Kabupaten Pemalang	Daerah Tingkat II Pemalang,Kabupaten Pemalang,Pemalang,Pemalang Regency	-7.05	109.38333	A	ADM2	ID		07	3327			1500754		127	Asia/Jakarta	2023-06-19
+1631760	Kota Pekanbaru	Kota Pekanbaru	Kota Pekanbaru,Kotamadya Pakanbaru,Kotamadya Pekanbaru,Kotapradja Pakanbaru	0.55	101.48333	A	ADM2	ID		37	1471			1007540		15	Asia/Jakarta	2023-06-24
+1631763	Kota Pekalongan	Kota Pekalongan	Kota Pekalongan,Kotamadya Pekalongan,Kotapradja Pekalongan,Pekalongan	-6.89333	109.67583	A	ADM2	ID		07	3375			309742		17	Asia/Jakarta	2023-06-25
+1631789	Kabupaten Jayawijaya	Kabupaten Jayawijaya	Jayawijaya Regency,Kabupaten Djajawidjaja Timur,Kabupaten Jaya Wijaya,Kabupaten Jayawijaya,Kabupaten Jayawijaya Timur,Kabupaten Pegunungan Jayawijaya	-4.08333	138.91667	A	ADM2	ID		PE	9402			269553		1370	Asia/Jayapura	2023-06-19
+1631904	Kota Payakumbuh	Kota Payakumbuh	Kota Payakumbuh,Kotamadya Pajakumbuh,Kotamadya Payakumbuh,Kotapradja Pajakumbuh	-0.21667	100.63333	A	ADM2	ID		24	1376			139576		510	Asia/Jakarta	2023-06-25
+1631990	Kabupaten Pati	Kabupaten Pati	Daerah Tingkat II Pati,Kabupaten Pati,Pati,Pati Regency	-6.73333	111.08333	A	ADM2	ID		07	3318			1324188		9	Asia/Jakarta	2023-06-19
+1632031	Kota Pasuruan	Kota Pasuruan	Kota Pasuruan,Kotamadya Pasuruan,Kotapradja Pasuruan,Pasoeroean,Pasuruan	-7.65	112.90833	A	ADM2	ID		08	3575			186262		5	Asia/Jakarta	2023-05-11
+1632032	Kabupaten Pasuruan	Kabupaten Pasuruan	Daerah Tingkat II Pasuruan,Kabupaten Pasuruan,Pasuruan Regency	-7.75	112.83333	A	ADM2	ID		08	3514			1512468		72	Asia/Jakarta	2021-08-05
+1632352	Kota Parepare	Kota Parepare	Kota Pare-pare,Kota Parepare,Kotamadya Parepare,Kotapradja Parepare,Parepare	-4.03333	119.66667	A	ADM2	ID		38	7372			154854		148	Asia/Makassar	2023-06-25
+1632622	Kabupaten Paniai	Kabupaten Paniai	Kabupaten Djajawidjaja Barat,Kabupaten Jayawijaya Barat,Kabupaten Paniai,Paniai Regency	-3.83333	136.41667	A	ADM2	ID		PT	9410			220410		1867	Asia/Jayapura	2023-06-17
+1632653	Kota Pangkal Pinang	Kota Pangkal Pinang	Kota Pangkal Pinang,Kotamadya Pangkalpinang,Kotapraja Pangkalpinang	-2.11667	106.11667	A	ADM2	ID		35	1971			216893		44	Asia/Pontianak	2023-06-25
+1632723	Kabupaten Pangkajene Dan Kepulauan	Kabupaten Pangkajene Dan Kepulauan	Daerah Tingkat II Pangkadjene dan Kepulauan,Kabupaten Pangkadjene,Kabupaten Pangkajene,Kabupaten Pangkajene Kepulauan,Kabupaten Pangkajene dan Kepulauan,Pangkajene Islands Regency,Pangkajene dan Kepulauan	-4.7827	119.5506	A	ADM2	ID		38	7309			351426		5	Asia/Makassar	2023-06-21
+1632822	Kabupaten Pandeglang	Kabupaten Pandeglang	Daerah Tingkat II Pandeglang,Kabupaten Pandegelang,Kabupaten Pandeglang,Pandeglang	-6.49861	105.89167	A	ADM2	ID		33	3601			1324188		98	Asia/Jakarta	2023-06-19
+1632902	Kabupaten Situbondo	Kabupaten Situbondo	Daerah Tingkat II Panarukan,Kabupaten Panarukan,Kabupaten Situbondo,Situbondo,Situbondo Regency	-7.68333	114.03333	A	ADM2	ID		08	3512			647619		20	Asia/Jakarta	2023-01-11
+1632977	Kabupaten Pamekasan	Kabupaten Pamekasan	Daerah Tingkat II Pamekasan,Kabupaten Pamekasan,Pamekasan	-7.06667	113.5	A	ADM2	ID		08	3528			795918		196	Asia/Jakarta	2021-08-05
+1633033	Kota Palu	Kota Palu	Kota Palu,Kota administratip Palu,Palu	-0.86972	119.9	A	ADM2	ID		21	7271			336532		169	Asia/Makassar	2021-06-09
+1633069	Kota Palembang	Kota Palembang	Kota Palembang,Kotamadya Palembang,Kotapradja Palembang	-2.96667	104.75	A	ADM2	ID		32	1671			1511444		3	Asia/Jakarta	2022-05-20
+1633117	Kota Palangka Raya	Kota Palangka Raya	Kotamadya Palangkaraja,Kotamadya Palangkaraya	-1.76979	113.73126	A	ADM2	ID		13	6271			305907		29	Asia/Pontianak	2023-06-24
+1633373	Kabupaten Padang Pariaman	Kabupaten Padang Pariaman	Kabupaten Padang Pariaman,Padang Pariaman Regency,Pati	-0.55	100.23333	A	ADM2	ID		24	1306			432052		143	Asia/Jakarta	2023-06-19
+1633374	Kota Padang Panjang	Kota Padang Panjang	Kota Padang Panjang,Kotamadya Padangpandjang,Kotamadya Padangpanjang,Kotapradja Padangpandjang	-0.46953	100.40364	A	ADM2	ID		24	1374			56311		772	Asia/Jakarta	2023-06-25
+1633407	Kota Padang	Kota Padang	Kota Padang,Kotamadya Padang,Kotapradja Padang	-0.9	100.45	A	ADM2	ID		24	1371			1015000		328	Asia/Jakarta	2023-06-25
+1633438	Kabupaten Pacitan	Kabupaten Pacitan	Daerah Tingkat II Patjitan,Kabupaten Pacitan,Kabupaten Patjitan,Pacitan,Pacitan Regency	-8.125	111.17806	A	ADM2	ID		08	3501			542960		183	Asia/Jakarta	2022-11-11
+1633658	Kabupaten Ogan Komering Ulu	Kabupaten Ogan Komering Ulu	Daerah Tingkat II Ogan Komering Ulu,Kabupaten Ogan Komering Hulu,Kabupaten Ogan Komering Ulu,Kabupaten Ogan dan Komering Ulu,Ogan Komering Ulu Regency	-4.13333	104.06667	A	ADM2	ID		32	1601			337692		128	Asia/Jakarta	2022-05-20
+1633659	Kabupaten Ogan Komering Ilir	Kabupaten Ogan Komering Ilir	Daerah Tingkat II Ogan Komering Ilir,Kabupaten Ogan Komering Ilir,Ogan Komering Ilir Regency	-3.35	105.38333	A	ADM2	ID		32	1602			756436		5	Asia/Jakarta	2022-05-20
+1634130	Kabupaten Nganjuk	Kabupaten Nganjuk	Daerah Tingkat II Ngandjuk,Kabupaten Ngandjuk,Kabupaten Nganjuk,Nganjuk,Nganjuk Regency	-7.56667	111.95	A	ADM2	ID		08	3518			1017030		51	Asia/Jakarta	2021-07-08
+1634193	Kabupaten Ngada	Kabupaten Ngada	Daerah Tingkat II Ngada,Kabupaten Ngada,Ngada Regency	-8.66667	121	A	ADM2	ID		18	5312			170120		519	Asia/Makassar	2023-06-25
+1634643	Kabupaten Musi Rawas	Kabupaten Musi Rawas	Daerah Tingkat II Musi Rawas,Kabupaten Musi Hulu Rawas,Kabupaten Musi Rawas,Kabupaten Musirawas,Mura,Musi Rawas Regency	-3.16667	103.21667	A	ADM2	ID		32	1605			546945		47	Asia/Jakarta	2022-05-20
+1634644	Kabupaten Musi Banyuasin	Kabupaten Musi Banyuasin	Daerah Tingkat II Musi Banjuasin,Kabupaten Musi Banyuasin,Kabupaten Musi Hilir Banjuasin,Kabupaten Musi Hilir Banyuasin,Kabupaten Musibanyuasin,Musi Banyuasin Regency,Musi Ilir Banyuasin	-2.46667	103.73333	A	ADM2	ID		32	1606			588996		61	Asia/Jakarta	2022-05-20
+1634654	Kabupaten Murung Raya	Kabupaten Murung Raya	Kabupaten Murung Raja,Kabupaten Murung Raya,Murung Raya Regency	-0.03333	114.28333	A	ADM2	ID		13	6213			112445		149	Asia/Pontianak	2023-06-19
+1634727	Kabupaten Muna	Kabupaten Muna	Daerah Tingkat II Muna,Kabupaten Muna,Muna Regency	-4.96667	122.66667	A	ADM2	ID		22	7402			218956		196	Asia/Makassar	2023-06-19
+1635109	Kota Mojokerto	Kota Mojokerto	Kota Mojokerto,Kotamadya Modjokerto,Kotamadya Mojokerto,Kotapradja Modjokerto,Mojokerto	-7.47083	112.4375	A	ADM2	ID		08	3576			120196		23	Asia/Jakarta	2023-02-10
+1635110	Kabupaten Mojokerto	Kabupaten Mojokerto	Daerah Tingkat II Modjokerto,Kabupaten Modjokerto,Kabupaten Mojokerto,Mojokerto,Mojokerto Regency	-7.55	112.48333	A	ADM2	ID		08	3516			1025443		76	Asia/Jakarta	2021-07-08
+1635387	Kabupaten Merauke	Kabupaten Merauke	Daerah Tingkat II Merauke,Kabupaten Merauke,Merauke Regency	-7.69611	139.68194	A	ADM2	ID		PS	9401			231696		1	Asia/Jayapura	2023-06-18
+1635881	Kota Mataram	Kota Mataram	Kota Administratip Mataram,Kota Mataram,Kotamadya Mataram	-8.58333	116.11667	A	ADM2	ID		17	5271			429651		24	Asia/Makassar	2022-12-17
+1636028	Kabupaten Maros	Kabupaten Maros	Daerah Tingkat II Maros,Kabupaten Maros,Maros,Maros Regency	-5.05	119.68333	A	ADM2	ID		38	7308			319002		139	Asia/Makassar	2023-06-19
+1636306	Kabupaten Manokwari	Kabupaten Manokwari	Daerah Tingkat II Manokwari,Kabupaten Manokwari,Manokwari Regency	-0.9	133.73333	A	ADM2	ID		39	9105			187726		928	Asia/Jayapura	2023-06-19
+1636422	Kabupaten Manggarai	Kabupaten Manggarai	Daerah Tingkat II Manggarai,Kabupaten Manggarai,Manggarai Regency	-8.56667	120.43333	A	ADM2	ID		18	5313			317646		842	Asia/Makassar	2023-06-19
+1636543	Kota Manado	Kota Manado	Kota Manado,Kotamadya Manado,Kotapradja Manado	1.51389	124.88194	A	ADM2	ID		31	7171			410481		35	Asia/Makassar	2023-07-11
+1636555	Kabupaten Mamuju	Kabupaten Mamuju	Daerah Tingkat II Mamudju,Kabupaten Mamudju,Kabupaten Mamuju,Mamuju,Mamuju Regency	-2.46667	119.4	A	ADM2	ID		41	7604			285616		237	Asia/Makassar	2023-06-19
+1636625	Kabupaten Maluku Tenggara	Kabupaten Maluku Tenggara	Daerah Tingkat II Maluku Tengara,Kabupaten Maluku Tenggara,Southeast Maluku Regency	-5.78333	132.73333	A	ADM2	ID		28	8102			124199		1	Asia/Jayapura	2023-06-19
+1636712	Kota Malang	Kota Malang	Kota Malang,Kotamadya Malang,Kotapradja Malang,Malang	-7.98333	112.63333	A	ADM2	ID		08	3573			820243		451	Asia/Jakarta	2021-08-05
+1636713	Kabupaten Malang	Kabupaten Malang	Daerah Tingkat II Malang,Kabupaten Malang,Malang,Malang Regency	-8.2	112.66667	A	ADM2	ID		08	3507			2446218		457	Asia/Jakarta	2023-01-11
+1636805	Kabupaten Majene	Kabupaten Majene	Daerah Tingkat II Madjene,Kabupaten Madjene,Kabupaten Majene,Majene,Majene Regency	-3.13139	118.87139	A	ADM2	ID		41	7601			177390		273	Asia/Makassar	2023-06-26
+1636815	Kabupaten Majalengka	Kabupaten Majalengka	Daerah Tingkat II Madjalengka,KJT,Kabupaten Majalengka,Kapubaten Madjalengka,Majalengka,Majalengka Regency	-6.81667	108.28333	A	ADM2	ID		30	3210			1238218		151	Asia/Jakarta	2021-06-09
+1636882	Kota Magelang	Kota Magelang	Kota Magelang,Kotamadya Magelang,Kotapradja Magelang,Magelang,Magelang Regency	-7.48333	110.21667	A	ADM2	ID		07	3371			121526		342	Asia/Jakarta	2023-06-25
+1636927	Kota Madiun	Kota Madiun	Kota Madiun,Kotamadya Madiun,Madiun	-7.62778	111.52778	A	ADM2	ID		08	3577			170964		73	Asia/Jakarta	2023-03-08
+1636929	Kabupaten Madiun	Kabupaten Madiun	Daerah Tingkat II Madiun,Kabupaten Madiun,Madiun,Madiun Regency	-7.625	111.65	A	ADM2	ID		08	3519			662278		167	Asia/Jakarta	2023-03-08
+1637089	Kabupaten Lumajang	Kabupaten Lumajang	Daerah Tingkat II Lumadjang,Kabupaten Lumadjang,Kabupaten Lumajang,Lumajang	-8.13333	113.13333	A	ADM2	ID		08	3508			1006458		198	Asia/Jakarta	2021-08-05
+1637365	Kabupaten Lombok Timur	Kabupaten Lombok Timur	Daerah Tingkat II Lombok Timur,Kabupaten Lombok Timur	-8.53333	116.51667	A	ADM2	ID		17	5203			1343901		513	Asia/Makassar	2023-06-24
+1637366	Kabupaten Lombok Tengah	Kabupaten Lombok Tengah	Central Lombok Regency,Daerah Tingkat II Lombok Tengah,Kabupaten Lombok Tengah,Lombok Tengah	-8.7	116.3	A	ADM2	ID		17	5202			860209		145	Asia/Makassar	2023-06-19
+1637367	Kabupaten Lombok Barat	Kabupaten Lombok Barat	Daerah Tingkat II Lombok Barat,Kabupaten Lombok Barat,West Lombok Regency	-8.66667	116.13333	A	ADM2	ID		17	5201			731810		69	Asia/Makassar	2023-06-25
+1638238	Kabupaten Lebak	Kabupaten Lebak	Daerah Tingkat II Lebak,Kabupaten Lebak,Lebak,Lebak Regency	-6.65	106.21667	A	ADM2	ID		33	3602			1433853		333	Asia/Jakarta	2023-06-19
+1638531	Kabupaten Lampung Utara	Kabupaten Lampung Utara	Daerah Tingkat II Lampung Utara,Kabupaten Lampung Utara,North Lampung Regency	-4.81667	104.8	A	ADM2	ID		15	1806			635129		43	Asia/Jakarta	2023-06-26
+1638532	Kabupaten Lampung Tengah	Kabupaten Lampung Tengah	Central Lampung Regency,Daerah Tingkat II Lampung Tengah,Kabupaten Lampung Tengah	-4.86667	105.26667	A	ADM2	ID		15	1805			1500002		17	Asia/Jakarta	2023-06-19
+1639093	Kabupaten Kuningan	Kabupaten Kuningan	Daerah Tingkat II Kuningan,Kabupaten Kuningan,Kuningan,Kuningan Regency	-7	108.56667	A	ADM2	ID		30	3208			1096434		200	Asia/Jakarta	2021-08-05
+1639214	Kabupaten Kudus	Kabupaten Kudus	Daerah Tingkat II Kudus,Kabupaten Kudos,Kabupaten Kudus,Kudus,Kudus Regency	-6.78333	110.88333	A	ADM2	ID		07	3319			849184		78	Asia/Jakarta	2023-06-21
+1639475	Kabupaten Kotawaringin Timur	Kabupaten Kotawaringin Timur	Daerah Tingkat II Kotawaringin Timur,East Kotawaringin Regency,Kabupaten Kotawaringin Timur	-2.08333	112.76667	A	ADM2	ID		13	6202			436079		90	Asia/Pontianak	2023-06-19
+1639476	Kabupaten Kotawaringin Barat	Kabupaten Kotawaringin Barat	Daerah Tingkat II Kotawaringin Barat,Kabupaten Kotawaringin Barat,Kutawaringin Barat,West Kotawaringin Regency	-2.51667	111.7	A	ADM2	ID		13	6201			274935		23	Asia/Pontianak	2023-06-19
+1639532	Kabupaten Kota Baru	Kabupaten Kota Baru	Daerah Tingkat II Kotabaru,Kabupaten Kota Baru,Kabupaten Kotabaru,Kotabaru Regency	-2.76667	116	A	ADM2	ID		12	6302			334158		40	Asia/Makassar	2023-06-19
+1639753	Kabupaten Kolaka	Kabupaten Kolaka	Daerah Tingkat II Kolaka,Kabupaten Kolaka,Kolaka Regency	-3.96667	121.56667	A	ADM2	ID		22	7404			315232		257	Asia/Makassar	2023-06-19
+1639849	Kabupaten Klungkung	Kabupaten Klungkung	Daerah Tingkat II Klungkung,Kabupaten Klungkung,Klungkung Regency	-8.55	115.41667	A	ADM2	ID		02	5105			206925		49	Asia/Makassar	2023-06-27
+1639899	Kabupaten Klaten	Kabupaten Klaten	Daerah Tingkat II Klaten,Kabupaten Klaten,Klaten,Klaten Regency,ꦏ꧀ꦭꦛꦺꦤ꧀	-7.68333	110.63333	A	ADM2	ID		07	3310			1275850		165	Asia/Jakarta	2023-06-27
+1640126	Kabupaten Ketapang	Kabupaten Ketapang	Daerah Tingkat II Ketapang,Kabupaten Ketapang,Ketapang Regency	-1.58333	110.56667	A	ADM2	ID		11	6106			591917		83	Asia/Pontianak	2023-06-28
+1640224	Kabupaten Kerinci	Kabupaten Kerinci	Daerah Tingkat II Kerintji,KRC,Kabupaten Kerinci,Kabupaten Kerintji,Kerinci Regency	-2.01667	101.5	A	ADM2	ID		05	1501			253863		1438	Asia/Jakarta	2023-06-24
+1640342	Kota Kendari	Kota Kendari	Kota Administratip Kendari,Kota Kendari,Kotamadya Kendari	-4.01667	122.53333	A	ADM2	ID		22	7471			345107		57	Asia/Makassar	2023-06-24
+1640656	Kota Kediri	Kota Kediri	Kediri,Kota Kediri,Kotamadya Kediri,Kotapradja Kediri	-7.825	112.01667	A	ADM2	ID		08	3571			268507		96	Asia/Jakarta	2023-05-11
+1640657	Kabupaten Kediri	Kabupaten Kediri	Daerah Tingkat II Kediri,Kabupaten Kediri,Kediri,Kediri Regency	-7.78333	112.11667	A	ADM2	ID		08	3506			1499768		106	Asia/Jakarta	2021-07-08
+1640948	Kabupaten Katingan	Kabupaten Katingan	Kabupaten Katingan,Katingan Regency	-1.68333	113.21667	A	ADM2	ID		13	6209			162222		63	Asia/Pontianak	2023-06-18
+1641133	Kabupaten Karawang	Kabupaten Karawang	Daerah Tingkat II Karawang,Daerah Tingkat II Krawang,Kabupaten Karawang,Kabupaten Krawang,Karawang,Karawang Regency	-6.24972	107.41611	A	ADM2	ID		30	3215			2267233		18	Asia/Jakarta	2022-11-11
+1641395	Kabupaten Kapuas Hulu	Kabupaten Kapuas Hulu	Daerah Tingkat II Kapuas Hulu,Kabupaten Kapuas Hulu,Kapuas Hulu Regency	0.83333	112.8	A	ADM2	ID		11	6108			254995		24	Asia/Pontianak	2023-06-21
+1641398	Kabupaten Kapuas	Kabupaten Kapuas	Daerah Tingkat II Kapuas,Kabupaten Kapuas,Kapuas Regency	-1.75	114.3	A	ADM2	ID		13	6203			410400		95	Asia/Pontianak	2023-06-18
+1642413	Kabupaten Jombang	Kabupaten Jombang	Daerah Tingkat II Djombang,Jombang,Kabupaten Djombang,Kabupaten Jombang	-7.55	112.26667	A	ADM2	ID		08	3517			1202407		41	Asia/Jakarta	2021-07-08
+1642545	Kabupaten Jepara	Kabupaten Jepara	Daerah Tingkat II Djepara,Jepara,Kabupaten Djepara,Kabupaten Jepara	-6.6	110.78333	A	ADM2	ID		07	3320			1192811		245	Asia/Jakarta	2023-06-27
+1642569	Kabupaten Jeneponto	Kabupaten Jeneponto	Daerah Tingkat II Djeneponto,Jeneponto,Jeneponto Regency,Kabupaten Djeneponto,Kabupaten Jeneponto	-5.63333	119.71667	A	ADM2	ID		38	7304			410639		57	Asia/Makassar	2023-06-26
+1642584	Kabupaten Jembrana	Kabupaten Jembrana	Daerah Tingkat II Djembrana,Djembranau,Jembrana Regency,Kabupaten Djembrana,Kabupaten Jembrana	-8.31667	114.68333	A	ADM2	ID		02	5101			317064		241	Asia/Makassar	2023-06-26
+1642587	Kabupaten Jember	Kabupaten Jember	Daerah Tingkat II Djember,Jember,Jember Regency,Kabupaten Jember	-8.23333	113.66667	A	ADM2	ID		08	3509			2332726		71	Asia/Jakarta	2021-08-05
+1642655	Kabupaten Jayapura	Kabupaten Jayapura	Daerah Tingkat II Sukarnapura,Kabupaten Djajapura,Kabupaten Jayapura,Kabupaten Sukarnapura	-2.98333	139.98333	A	ADM2	ID		36	9403			168476		274	Asia/Jayapura	2022-12-18
+1642857	Kota Jambi	Kota Jambi	Kota Jambi,Kotamadja Djambi,Kotamadya Jambi,Kotapradja Djambi	-1.61694	103.60028	A	ADM2	ID		05	1571			619553		26	Asia/Jakarta	2023-06-24
+1642903	Kota Administrasi Jakarta Utara	Kota Administrasi Jakarta Utara	Kota Administrasi Jakarta Utara,Kota Jakarta Utara,Kotamadya Jakarta Utara,North Jakarta,Wilayah Djakarta Utara	-6.13611	106.90417	A	ADM2	ID		04	3175			1778981		2	Asia/Jakarta	2025-09-15
+1642904	Kota Administrasi Jakarta Timur	Kota Administrasi Jakarta Timur	East Jakarta,Kota Administrasi Jakarta Timur,Kota Jakarta Timur,Kotamadya Jakarta Timur,Wilayah Djakarta Timuar	-6.25	106.8875	A	ADM2	ID		04	3172			3037139		24	Asia/Jakarta	2025-09-15
+1642905	Kota Administrasi Jakarta Selatan	Kota Administrasi Jakarta Selatan	Kota Administrasi Jakarta Selatan,Kota Jakarta Selatan,Kotamadya Jakarta Selatan,South Jakarta,Wilayah Djakarta Selatan	-6.26667	106.80833	A	ADM2	ID		04	3171			2226812		41	Asia/Jakarta	2025-09-15
+1642908	Kota Administrasi Jakarta Pusat	Kota Administrasi Jakarta Pusat	Central Jakarta,Kota Administrasi Jakarta Pusat,Kota Jakarta Pusat,Kotamadya Jakarta Pusat,Wilayah Djakarta Pusat	-6.18333	106.83333	A	ADM2	ID		04	3173			1056896		2	Asia/Jakarta	2025-09-15
+1642909	Kota Administrasi Jakarta Barat	Kota Administrasi Jakarta Barat	Kota Administrasi Jakarta Barat,Kota Jakarta Barat,Kotamadya Jakarta Barat,West Jakarta,Wilayah Djakarta Barat	-6.16667	106.75	A	ADM2	ID		04	3174			2365502		6	Asia/Jakarta	2025-09-15
+1643077	Kabupaten Indramayu	Kabupaten Indramayu	Daerah Tingkat II Indramaju,Indramayu,Indramayu Regency,Kabupaten Indramaju,Kabupaten Indramayu	-6.45	108.16667	A	ADM2	ID		30	3212			1714184		9	Asia/Jakarta	2021-06-09
+1643081	Kabupaten Indragiri Hulu	Kabupaten Indragiri Hulu	Daerah Tingkat II Inderagiri,Daerah Tingkat II Indragiri,Indragiri Hulu Regency,Kabupaten Indragiri Hulu	-0.53333	102.33333	A	ADM2	ID		37	1402			444548		86	Asia/Jakarta	2023-06-19
+1643082	Kabupaten Indragiri Hilir	Kabupaten Indragiri Hilir	Daerah Tingkat II Inderagiri,Daerah Tingkat II Indragiri,Indragiri Hilir Regency,Kabupaten Indragiri Hilir	-0.22056	103.12167	A	ADM2	ID		37	1403			660747		2	Asia/Jakarta	2023-06-19
+1643244	Kabupaten Hulu Sungai Utara	Kabupaten Hulu Sungai Utara	Daerah Tingkat II Hulu Sungai Utara,Kabupaten Hulu Sungai Utara,North Hulu Sungai Regency	-2.43333	115.16667	A	ADM2	ID		12	6308			231290		17	Asia/Makassar	2023-06-21
+1643245	Kabupaten Hulu Sungai Tengah	Kabupaten Hulu Sungai Tengah	Central Hulu Sungai Regency,Daerah Tingkat II Hulu Sungai Tengah,Kabupaten Hulu Sungai Tengah	-2.6	115.51667	A	ADM2	ID		12	6307			263061		146	Asia/Makassar	2023-06-21
+1643246	Kabupaten Hulu Sungai Selatan	Kabupaten Hulu Sungai Selatan	Daerah Tingkat II Hulu Sungai Selatan,Kabupaten Hulu Sungai Selatan,South Hulu Sungai Regency	-2.76667	115.21667	A	ADM2	ID		12	6306			232212		40	Asia/Makassar	2023-06-21
+1643475	Kabupaten Halmahera Tengah	Kabupaten Halmahera Tengah	Central Halmahera Regency,Kabupaten Halmahera Tengah	0.55	127.91667	A	ADM2	ID		29	8202			56802		182	Asia/Jayapura	2023-06-30
+1643597	Kabupaten Gunung Mas	Kabupaten Gunung Mas	Gunung Mas Regency,Kabupaten Gunung Mas	-1.03333	113.56667	A	ADM2	ID		13	6211			135373		166	Asia/Pontianak	2023-06-18
+1643604	Kabupaten Gunungkidul	Kabupaten Gunungkidul	Daerah Tingkat II Gunungkidul,Gunung Kidul Regency,Kabupaten Gunung Kidul,Kabupaten Gunungkidul	-7.99444	110.6125	A	ADM2	ID		10	3403			697215		169	Asia/Jakarta	2023-06-18
+1643768	Kabupaten Grobogan	Kabupaten Grobogan	Daerah Tingkat II Grobogan,Grobogan,Grobogan Regency,Kabupaten Grobogan	-7.13333	110.91667	A	ADM2	ID		07	3315			1453526		54	Asia/Jakarta	2023-06-19
+1643807	Kabupaten Gowa	Kabupaten Gowa	Daerah Tingkat II Goa,Gowa,Gowa Regency,Kabupaten Gowa	-5.31667	119.71667	A	ADM2	ID		38	7306			783167		581	Asia/Makassar	2023-06-19
+1643836	Kota Gorontalo	Kota Gorontalo	Kota Gorontalo,Kotamadya Gorontalo,Kotapradja Gorontalo	0.5345	123.04312	A	ADM2	ID		34	7571			199788		71	Asia/Makassar	2022-12-16
+1644098	Kabupaten Gianyar	Kabupaten Gianyar	Daerah Tingkat II Gianjar,Gianyar Regency,Kabupaten Gianjar,Kabupaten Gianyar	-8.48333	115.28333	A	ADM2	ID		02	5104			515344		320	Asia/Makassar	2023-06-26
+1644408	Kabupaten Garut	Kabupaten Garut	Daerah Tingkat II Garut,Garut,Garut Regency,Kabupaten Garut	-7.41667	107.78333	A	ADM2	ID		30	3205			2627220		1255	Asia/Jakarta	2023-06-28
+1644743	Kabupaten Flores Timur	Kabupaten Flores Timur	Daerah Tingkat II Flores Timur,East Flores Regency,Kabupaten Flores Timur	-8.24224	122.96817	A	ADM2	ID		18	5309			288897		288	Asia/Makassar	2023-06-24
+1644905	Kabupaten Enrekang	Kabupaten Enrekang	Daerah Tingkat II Enrekang,Enrekang,Enrekang Regency,Kabupaten Enrekang	-3.5	119.86667	A	ADM2	ID		38	7316			190248		949	Asia/Makassar	2023-06-19
+1645322	Kabupaten Donggala	Kabupaten Donggala	Daerah Tingkat II Donggala,Donggala Regency,Kabupaten Donggala	-0.33333	119.85	A	ADM2	ID		21	7205			305890		572	Asia/Makassar	2023-06-21
+1645527	Kota Denpasar	Kota Denpasar	Kota Administratip Denpasar,Kota Denpasar,Kotamadya Denpasar	-8.66667	115.21667	A	ADM2	ID		02	5171			725314		22	Asia/Makassar	2023-06-24
+1646168	Kota Cirebon	Kota Cirebon	Cirebon,Kota Cirebon,Kotamadya Cirebon,Kotamadya Tjirebon,Kotapradja Tjirebon	-6.75	108.55	A	ADM2	ID		30	3274			333303		15	Asia/Jakarta	2023-06-27
+1646169	Kabupaten Cirebon	Kabupaten Cirebon	Cirebon,Cirebon Regency,Daerah Tingkat II Tjirebon,Kabupaten Cirebon,Kabupaten Tjirebon	-6.8	108.56667	A	ADM2	ID		30	3209			2175108		104	Asia/Jakarta	2023-06-27
+1646446	Kota Cimahi	Kota Cimahi	Cimahi,Kota Administratip Cimahi,Kota Cimahi	-6.88333	107.54167	A	ADM2	ID		30	3277			571632		820	Asia/Jakarta	2023-06-27
+1647148	Kabupaten Ciamis	Kabupaten Ciamis	Ciamis,Ciamis Regency,Daerah Tingkat II Tjiamis,Kabupaten Ciamis,Kabupaten Tjiamis	-7.28333	108.41667	A	ADM2	ID		30	3207			1247768		173	Asia/Jakarta	2024-04-06
+1647498	Kabupaten Buton	Kabupaten Buton	Buton Regency,Daerah Tingkat II Buton,Daerah Tingkat II Butung,Kabupaten Buton,Kabupaten Butung	-5.31667	122.93333	A	ADM2	ID		22	7401			117040		300	Asia/Makassar	2023-06-19
+1647571	Kabupaten Buol	Kabupaten Buol	Buol Regency,Daerah Tingkat II Buol Toli-toli,Kabupaten Buol,Kabupaten Buol Tolitoli,UOL	1.04656	121.36867	A	ADM2	ID		21	7207			148246		57	Asia/Makassar	2023-06-27
+1647738	Kabupaten Bulukumba	Kabupaten Bulukumba	Bulukumba,Bulukumba Regency,Daerah Tingkat II Bulukumba,Kabupaten Bulukumba	-5.43333	120.23333	A	ADM2	ID		38	7302			394560		81	Asia/Makassar	2023-06-19
+1647803	Kabupaten Buleleng	Kabupaten Buleleng	Buleleng Regency,Daerah Tingkat II Buleleng,Kabupaten Buleleng	-8.25	114.95	A	ADM2	ID		02	5108			624125		260	Asia/Makassar	2023-06-17
+1647865	Kota Bukittinggi	Kota Bukittinggi	Kota Bukittinggi,Kotamadya Bukittinggi,Kotapradja Bukittinggi	-0.29921	100.37223	A	ADM2	ID		24	1375			121028		910	Asia/Jakarta	2023-06-27
+1648064	Kabupaten Brebes	Kabupaten Brebes	Brebes,Brebes Regency,Daerah Tingkat II Brebes,Kabupaten Brebes	-7.05	108.9	A	ADM2	ID		07	3329			1817040		53	Asia/Jakarta	2023-06-19
+1648083	Kabupaten Boyolali	Kabupaten Boyolali	Bajalali,Boyolali Regency,Daerah Tingkat II Bojolali,Kabupaten Bojolali,Kabupaten Boyolali	-7.46667	110.71667	A	ADM2	ID		07	3309			1062713		152	Asia/Jakarta	2023-06-21
+1648256	Kabupaten Bone	Kabupaten Bone	Bone,Bone Regency,Daerah Tingkat II Bone,Kabupaten Bone	-4.7	120.13333	A	ADM2	ID		38	7311			717682		376	Asia/Makassar	2023-06-19
+1648339	Kabupaten Bolaang Mongondow	Kabupaten Bolaang Mongondow	Bolaang Mongondow Regency,Bolangmongando,Daerah Tingkat II Bolaang Mongondow,Kabupaten Bolaang Mongondow,Kabupaten Bolaangmongondow	0.71667	124.03333	A	ADM2	ID		31	7101			252648		868	Asia/Makassar	2023-06-27
+1648450	Kabupaten Bojonegoro	Kabupaten Bojonegoro	Bodjanegara,Bojonegoro,Bojonegoro Regency,Daerah Tingkat II Bodjonegoro,Kabupaten Bodjonegoro,Kabupaten Bojonegoro	-7.25	111.80833	A	ADM2	ID		08	3522			1209973		108	Asia/Jakarta	2023-06-27
+1648470	Kota Bogor	Kota Bogor	Bogor,Kodya Bogor,Kota Bogor,Kotamadya Bogor,Kotapradja Bogor	-6.59	106.80111	A	ADM2	ID		30	3271			1114018		210	Asia/Jakarta	2023-06-27
+1648471	Kabupaten Bogor	Kabupaten Bogor	Bogor,Bogor Regency,Daerah Tingkat II Bogor,Kabupaten Bogor	-6.55	106.71667	A	ADM2	ID		30	3201			5566838		122	Asia/Jakarta	2023-06-27
+1648567	Kabupaten Blora	Kabupaten Blora	Blora,Blora Regency,Daerah Tingkat II Blora,Kabupaten Blora	-7.08333	111.41667	A	ADM2	ID		07	3316			869931		155	Asia/Jakarta	2023-06-19
+1648578	Kota Blitar	Kota Blitar	Blitar,Kota Blitar,Kotamadya Blitar,Kotapradja Blitar	-8.1	112.16667	A	ADM2	ID		08	3572			150371		173	Asia/Jakarta	2023-06-27
+1648579	Kabupaten Blitar	Kabupaten Blitar	Blitar,Blitar Regency,Daerah Tingkat II Blitar,Kabupaten Blitar	-8.13333	112.23333	A	ADM2	ID		08	3505			1242207		172	Asia/Jakarta	2023-06-27
+1648633	Kota Bitung	Kota Bitung	Kota Administratip Bitung,Kota Bitung,Kotamadya Bitung	1.5	125.15	A	ADM2	ID		31	7172			229795		625	Asia/Makassar	2023-06-27
+1648725	Kota Binjai	Kota Binjai	Kotamadya Bindjai,Kotamadya Binjai,Kotapradja Bindjai	3.5986	98.48028	A	ADM2	ID		26	1276			300009		37	Asia/Jakarta	2023-06-27
+1648758	Kabupaten Bima	Kabupaten Bima	Bima Regency,Daerah Tingkat II Bima,Kabupaten Bima	-8.61667	118.75	A	ADM2	ID		17	5206			514105		430	Asia/Makassar	2023-06-17
+1649040	Kabupaten Berau	Kabupaten Berau	Berau Regency,Daerah Tingkat II Berau,Kabupaten Berau	2.02889	117.11833	A	ADM2	ID		14	6405			258537		192	Asia/Makassar	2023-06-21
+1649145	Kabupaten Bengkulu Utara	Kabupaten Bengkulu Utara	Daerah Tingkat II Bengkulu Utara,Kabupaten Bengkulu Utara,North Bengkulu Regency	-3.23333	102	A	ADM2	ID		03	1703			296523		152	Asia/Jakarta	2023-06-17
+1649146	Kabupaten Bengkulu Selatan	Kabupaten Bengkulu Selatan	Daerah Tingkat II Bengkulu Selatan,Kabupaten Bengkulu Selatan,South Bengkulu Regency	-4.36667	103.01667	A	ADM2	ID		03	1701			148861		135	Asia/Jakarta	2023-06-17
+1649148	Kota Bengkulu	Kota Bengkulu	Kota Bengkulu,Kotamadya Bengkulu,Kotapradja Bengkulu	-3.83333	102.31667	A	ADM2	ID		03	1771			373591		30	Asia/Jakarta	2022-12-16
+1649264	Kabupaten Belu	Kabupaten Belu	Belu Regency,Daerah Tingkat II Belu,Kabupaten Belu	-9.17581	124.91628	A	ADM2	ID		18	5306			224306		423	Asia/Makassar	2023-06-26
+1649281	Kabupaten Belitung	Kabupaten Belitung	Belitung Regency,Daerah Tingkat II Belitung,Kabupaten Belitung	-2.86667	107.68333	A	ADM2	ID		35	1902			182079		60	Asia/Pontianak	2023-06-24
+1649377	Kabupaten Bekasi	Kabupaten Bekasi	Bekasi,Bekasi Regency,Daerah Tingkat II Bekasi,Kabupaten Bekasi	-6.21611	107.15	A	ADM2	ID		30	3216			3214791		43	Asia/Jakarta	2024-04-07
+1649863	Kabupaten Batang Hari	Kabupaten Batang Hari	Batang Hari Regency,Daerah Tingkat II Batanghari,Kabupaten Batang Hari,Kabupaten Batanghari	-1.7	103.1	A	ADM2	ID		05	1504			250436		40	Asia/Jakarta	2024-02-05
+1649879	Kabupaten Batang	Kabupaten Batang	Batang,Batang Regency,Kabupaten Batang	-7.025	109.8675	A	ADM2	ID		07	3325			817100		394	Asia/Jakarta	2023-06-24
+1649975	Kabupaten Barru	Kabupaten Barru	Barru,Barru Regency,Baru,Daerah Tingkat II Barru,Kabupaten Barru	-4.45	119.695	A	ADM2	ID		38	7310			186910		151	Asia/Makassar	2023-06-24
+1649989	Kabupaten Barito Utara	Kabupaten Barito Utara	Daerah Tingkat II Barito Utara,Kabupaten Barito Utara,North Barito Regency	-0.93333	115.06667	A	ADM2	ID		13	6205			121573		48	Asia/Pontianak	2023-06-17
+1649990	Kabupaten Barito Timur	Kabupaten Barito Timur	East Barito Regency,Kabupaten Barito Timur	-1.98333	115.15	A	ADM2	ID		13	6212			97372		64	Asia/Pontianak	2023-06-17
+1649991	Kabupaten Barito Selatan	Kabupaten Barito Selatan	Daerah Tingkat II Barito Selatan,Kabupaten Barito Selatan,South Barito Regency	-1.76667	114.78333	A	ADM2	ID		13	6204			124128		1	Asia/Pontianak	2023-06-17
+1649992	Kabupaten Barito Kuala	Kabupaten Barito Kuala	Barito Kuala Regency,Daerah Tingkat II Barito Kuala,Kabupaten Barito Kuala	-3.08333	114.68333	A	ADM2	ID		12	6304			321769		1	Asia/Makassar	2023-06-21
+1650076	Kabupaten Banyuwangi	Kabupaten Banyuwangi	Banyuwangi,Banyuwangi Regency,Daerah Tingkat II Banjuwangi,Kabupaten Banjuwangi,Kabupaten Banyuwangi	-8.36667	114.16667	A	ADM2	ID		08	3510			1708114		159	Asia/Jakarta	2023-06-29
+1650094	Kabupaten Banyumas	Kabupaten Banyumas	Banyumas Regency,Daerah Tingkat II Banjumas,Kabupaten Banjumas,Kabupaten Banyumas	-7.43333	109.15	A	ADM2	ID		07	3302			1806013		152	Asia/Jakarta	2023-06-25
+1650117	Kabupaten Bantul	Kabupaten Bantul	Bantul,Bantul Regency,Daerah Tingkat II Bantul,Kabupaten Bantul	-7.9	110.3625	A	ADM2	ID		10	3402			985770		48	Asia/Jakarta	2023-06-24
+1650183	Kabupaten Bantaeng	Kabupaten Bantaeng	Bantaeng,Bantaeng Regency,Daerah Tingkat II Bantaeng,Daerah Tingkat II Bonthain,Kabupaten Bantaeng,Kabupaten Bonthain	-5.48333	119.98333	A	ADM2	ID		38	7303			199399		289	Asia/Makassar	2023-06-21
+1650211	Kota Banjarmasin	Kota Banjarmasin	Kotamadya Bandjarmasin,Kotapradja Bandjarmasin	-3.32444	114.59102	A	ADM2	ID		12	6371			667489		9	Asia/Makassar	2023-06-24
+1650216	Kota Banjar Baru	Kota Banjar Baru	Kota Administratip Banjarbaru	-3.48304	114.81162	A	ADM2	ID		12	6372			265575		26	Asia/Makassar	2023-06-24
+1650231	Kabupaten Banjar	Kabupaten Banjar	Banjar Regency,Daerah Tingkat II Bandjar,Kabupaten Bandjar,Kabupaten Banjar,Kabupaten Banjarmasin	-3.38333	115.08333	A	ADM2	ID		12	6303			579910		110	Asia/Makassar	2023-06-25
+1650263	Kabupaten Bangli	Kabupaten Bangli	Bangli Regency,Daerah Tingkat II Bangli,Kabupaten Bangli	-8.26667	115.35	A	ADM2	ID		02	5106			258721		1193	Asia/Makassar	2023-06-19
+1650297	Kabupaten Bangkalan	Kabupaten Bangkalan	Bangkalan,Bangkalan Regency,Daerah Tingkat II Bangkalan,Kabupaten Bangkalan	-7.05	112.93333	A	ADM2	ID		08	3526			1060377		136	Asia/Jakarta	2023-06-27
+1650314	Kabupaten Bangka	Kabupaten Bangka	Bangka Regency,Daerah Tingkat II Bangka,Kabupaten Bangka	-1.91667	105.96667	A	ADM2	ID		35	1901			326265		121	Asia/Pontianak	2023-06-19
+1650352	Kabupaten Bandung	Kabupaten Bandung	Bandung,Bandung District,Bandung Regency,Daerah Tingkat II Bandung,Kabupaten Bandhung,Kabupaten Bandung,Kabupaten de Bandung,Kabupatèn Bandhung,Kabupatén Bandung,Reggenza di Bandung	-7.1	107.61667	A	ADM2	ID		30	3204			3718660		1519	Asia/Jakarta	2024-04-07
+1650526	Kota Balikpapan	Kota Balikpapan	Kota Balikpapan,Kotamadya Balikpapan,Kotapradja Balikpapan	-1.15	116.86667	A	ADM2	ID		14	6471			695287		1	Asia/Makassar	2023-06-21
+1650818	Kabupaten Badung	Kabupaten Badung	Badung Regency,Kabupaten Badung	-8.56667	115.2	A	ADM2	ID		02	5103			543332		104	Asia/Makassar	2023-06-17
+1651530	Kota Ambon	Kota Ambon	Amboina,Kota Ambon,Kotamadya Ambon,Kotapradja Ambon	-3.7	128.18333	A	ADM2	ID		28	8171			348225		10	Asia/Jayapura	2023-06-24
+1651608	Kabupaten Alor	Kabupaten Alor	Alor Regency,Daerah Tingkat II Alor,Kabupaten Alor	-8.28333	124.73333	A	ADM2	ID		18	5307			216626		951	Asia/Makassar	2023-06-19
+1651856	Kabupaten Agam	Kabupaten Agam	Agam Regency,Daerah Tingkat II Agam,Kabupaten Agam	-0.23333	100.21667	A	ADM2	ID		24	1307			529138		1116	Asia/Jakarta	2023-06-27
+2057084	Kota Kupang	Kota Kupang	Kota Administratip Kupang,Kota Kupang,Kotamadya Kupang	-10.19694	123.59806	A	ADM2	ID		18	5371			468913		184	Asia/Makassar	2023-06-25
+2057086	Kabupaten Kupang	Kabupaten Kupang	Daerah Tingkat II Kupang,Kabupaten Kupang,Kupang Regency	-9.91667	123.83333	A	ADM2	ID		18	5303			304548		668	Asia/Makassar	2023-06-17
+6199035	Kabupaten Magelang	Kabupaten Magelang	Kabupaten Magelang,Magelang Regency	-7.4275	110.16194	A	ADM2	ID		07	3308			1299859		775	Asia/Jakarta	2023-06-20
+6257933	Kota Salatiga	Kota Salatiga		-7.33278	110.48333	A	ADM2	ID		07	3373			170332		554	Asia/Jakarta	2015-05-26
+6258231	Kabupaten Sleman	Kabupaten Sleman	Sleman Regency	-7.68167	110.32333	A	ADM2	ID		10	3404			1203939		251	Asia/Jakarta	2015-05-26
+6266177	Kabupaten Sragen	Kabupaten Sragen	Kabupaten Sragen,Sragen Regency	-7.41278	110.935	A	ADM2	ID		07	3314			976951		76	Asia/Jakarta	2023-06-20
+6376498	Kabupaten Kebumen	Kabupaten Kebumen	Kabupaten Kebumen,Kebumen,Kebumen Regency	-7.63917	109.66056	A	ADM2	ID		07	3305			1218169		135	Asia/Jakarta	2023-06-20
+6380795	Kabupaten Banjarnegara	Kabupaten Banjarnegara	Banjarnegara,Banjarnegara Regency,Kabupaten Banjarnegara	-7.35111	109.5875	A	ADM2	ID		07	3304			1026866		306	Asia/Jakarta	2023-06-20
+6384572	Kabupaten Cilacap	Kabupaten Cilacap	Cilacap,Cilacap Regency,Kabupaten Cilacap	-7.57417	108.98861	A	ADM2	ID		07	3301			1963824		47	Asia/Jakarta	2023-06-20
+6390578	Kabupaten Purbalingga	Kabupaten Purbalingga	Kabupaten Purbalingga,Purbalingga,Purbalingga Regency	-7.28417	109.35028	A	ADM2	ID		07	3303			890681		266	Asia/Jakarta	2023-06-19
+6405140	Kabupaten Wonosobo	Kabupaten Wonosobo	Kabupaten Wonosobo,Wonosobo,Wonosobo Regency	-7.36139	109.92667	A	ADM2	ID		07	3307			886613		808	Asia/Jakarta	2023-06-20
+6409167	Kabupaten Magetan	Kabupaten Magetan	Kabupaten Magetan,Magetan	-7.64472	111.35917	A	ADM2	ID		08	3520			620442		262	Asia/Jakarta	2014-11-18
+6410477	Kabupaten Ngawi	Kabupaten Ngawi	Kabupaten Ngawi,Ngawi,Ngawi Regency	-7.47444	111.33444	A	ADM2	ID		08	3521			817765		84	Asia/Jakarta	2015-05-28
+6410701	Kabupaten Semarang	Kabupaten Semarang	Kabupaten Semarang,Semarang,Semarang Regency	-7.20667	110.44139	A	ADM2	ID		07	3322			1053094		539	Asia/Jakarta	2023-06-20
+6559695	Kota Bandung	Kota Bandung	Bandung,Kota Bandung,Kotamadya Bandung,Kotapradja Bandung	-6.91667	107.63333	A	ADM2	ID		30	3273			2544073		694	Asia/Jakarta	2021-09-07
+6560140	Kabupaten Karanganyar	Kabupaten Karanganyar	Kabupaten Karanganyar,Karanganyar,Karanganyar Regency	-7.62806	111.0625	A	ADM2	ID		07	3313			857721		480	Asia/Jakarta	2023-06-20
+6581948	Kabupaten Subang	Kabupaten Subang	Kabupaten Subang,Subang,Subang Regency	-6.50833	107.7025	A	ADM2	ID		30	3213			1566916		92	Asia/Jakarta	2018-12-27
+6588980	Kabupaten Cianjur	Kabupaten Cianjur	Cianjur,Cianjur Regency,Kabupaten Cianjur	-6.7725	107.08306	A	ADM2	ID		30	3203			2323667		1097	Asia/Jakarta	2015-05-28
+6599302	Kota Bekasi	Kota Bekasi	Bekasi,Kota Bekasi,Kotamadya Bekasi	-6.26667	106.98333	A	ADM2	ID		30	3275			2403118		45	Asia/Jakarta	2021-10-07
+6619356	Kabupaten Fakfak	Kabupaten Fakfak	Fakfak Regency	-2.92641	132.29608	A	ADM2	ID		39	9101			87894		97	Asia/Jayapura	2023-06-17
+6698251	Kabupaten Minahasa Selatan	Kabupaten Minahasa Selatan	South Minahasa Regency	1.21291	124.59708	A	ADM2	ID		31	7105			195553	500	11	Asia/Makassar	2015-05-28
+6701575	Kabupaten Aceh Tamiang	Kabupaten Aceh Tamiang	Aceh Tamiang Regency,Kabupaten Aceh Tamiang	4.23333	97.93333	A	ADM2	ID		01	1114			297522		39	Asia/Jakarta	2023-06-20
+6701674	Kabupaten Aceh Barat Daya	Kabupaten Aceh Barat Daya	Kabupaten Aceh Barat Daya,Southwest Aceh Regency	3.81667	96.88333	A	ADM2	ID		01	1112			155046		341	Asia/Jakarta	2023-06-25
+6703019	Kabupaten Nagan Raya	Kabupaten Nagan Raya	Kabupaten Nagan Raya,Kabupaten Nagan Rayan,Nagan Raya Regency,Naganraya	4.15	96.5	A	ADM2	ID		01	1115			170591		88	Asia/Jakarta	2023-06-20
+6704825	Kabupaten Simeulue	Kabupaten Simeulue	Kabupaten Simeulue,Simeulue Regency	2.61972	96.07667	A	ADM2	ID		01	1101			94876		143	Asia/Jakarta	2023-06-19
+6705241	Kabupaten Aceh Jaya	Kabupaten Aceh Jaya	Aceh Jaya Regency,Ache Jaya,Kabupaten Ache Jaya	4.86	95.64	A	ADM2	ID		01	1116			96028		749	Asia/Jakarta	2023-06-20
+6712486	Kabupaten Bener Meriah	Kabupaten Bener Meriah	Bener Meriah,Bener Meriah Regency,Kabupaten Bener Meriah	4.73015	96.86156	A	ADM2	ID		01	1117			164522		1446	Asia/Jakarta	2023-06-20
+6713333	Kabupaten Aceh Singkil	Kabupaten Aceh Singkil	Aceh Singkil Regency,Kabupaten Aceh Singkil	2.38333	97.96667	A	ADM2	ID		01	1102			130787		34	Asia/Jakarta	2023-06-20
+6715130	Kabupaten Serdang Bedagai	Kabupaten Serdang Bedagai	Kabupaten Serdang Bedagai,Serdang Bedagai Regency	3.36667	99.08333	A	ADM2	ID		26	1218			618294		42	Asia/Jakarta	2022-04-18
+6719204	Kota Lhokseumawe	Kota Lhokseumawe	Kota Lhokseumawe	5.18271	97.12774	A	ADM2	ID		01	1174			189941		0	Asia/Jakarta	2023-06-24
+6722476	Kabupaten Rokan Hulu	Kabupaten Rokan Hulu	Kabupaten Rokan Hulu,Rokan Hulu Regency	0.88333	100.48333	A	ADM2	ID		37	1407			561385		106	Asia/Jakarta	2023-06-18
+6724202	Kabupaten Kampar	Kabupaten Kampar	Kampar Regency	0.2344	101.2131	A	ADM2	ID		37	1406			841332		106	Asia/Jakarta	2023-06-17
+6725176	Kabupaten Pakpak Bharat	Kabupaten Pakpak Bharat	Kabupaten Pakpak Bharat,Pakpak Bharat Regency	2.55444	98.24056	A	ADM2	ID		26	1216			40505		632	Asia/Jakarta	2022-04-18
+6726149	Kabupaten Tapanuli Utara	Kabupaten Tapanuli Utara	Kabupaten Tapanuli Utara,North Tapanuli Regency,Tapanuli Utara	2.0028	99.0707	A	ADM2	ID		26	1205			292797		1274	Asia/Jakarta	2015-05-28
+6729814	Kabupaten Bireuen	Kabupaten Bireuen	Bireuen Regency,Bireuën Regency,Kabupaten Bireuen	5.11667	96.6	A	ADM2	ID		01	1110			406786		82	Asia/Jakarta	2023-06-18
+6739766	Kabupaten Demak	Kabupaten Demak	Demak,Demak Regency,Kabupaten Demak	-6.8993	110.6122	A	ADM2	ID		07	3321			1203956		5	Asia/Jakarta	2023-06-20
+6745680	Kabupaten Kendal	Kabupaten Kendal	Kabupaten Kendal,Kendal,Kendal Regency	-7.0256	110.1685	A	ADM2	ID		07	3324			1018505		42	Asia/Jakarta	2023-06-20
+6751097	Kota Depok	Kota Depok	Depok,Kota Administratip Depok,Kota Depok,Kotamadya Depok	-6.39611	106.81667	A	ADM2	ID		30	3276			1876658		80	Asia/Jakarta	2022-11-12
+6755517	Kabupaten Minahasa	Kabupaten Minahasa	Kabupaten Minahasa,Minahasa,Minahasa Regency	1.2537	124.83	A	ADM2	ID		31	7102			310384		864	Asia/Makassar	2015-05-28
+6758625	Kota Cilegon	Kota Cilegon	Kota Administratif Cilegon,Kota Administratip Cilegon,Kota Cilegon,Kotamadya Cilegon	-6	106.02917	A	ADM2	ID		33	3672			450271		107	Asia/Jakarta	2023-06-25
+6769512	Kota Tegal	Kota Tegal	Kotamadya Tegal,Tegal,Tegal Regency	-6.8686	109.1129	A	ADM2	ID		07	3376			290988		0	Asia/Jakarta	2023-06-25
+6775904	Gresik Regency	Gresik Regency	Gresik,Gresik Regency,Kabupaten Gresik	-7.1933	112.553	A	ADM2	ID		08	3525			1177042		4	Asia/Jakarta	2016-06-12
+6792336	Kabupaten Pekalongan	Kabupaten Pekalongan	Kabupaten Pekalongan,Pekalongan,Pekalongan Regency	-7.0319	109.624	A	ADM2	ID		07	3326			986455		87	Asia/Jakarta	2023-06-20
+6829652	Kabupaten Bondowoso	Kabupaten Bondowoso	Bondowoso,Bondowoso Regency,Kabupaten Bondowoso	-7.9404	113.9834	A	ADM2	ID		08	3511			736772		508	Asia/Jakarta	2015-05-26
+6960133	Kabupaten Gorontalo	Kabupaten Gorontalo	Gorontalo,Gorontalo Regency,Kabupaten Gorontalo	0.70212	122.71591	A	ADM2	ID		34	7502			395635		289	Asia/Makassar	2023-06-26
+6965895	Kabupaten Luwu	Kabupaten Luwu	Kabupaten Luwu,Luwu,Luwu Regency	-3.34836	120.22127	A	ADM2	ID		38	7317			369820		187	Asia/Makassar	2023-06-20
+6974096	Kota Baubau	Kota Baubau	Baubau,Kota Administratip Baubau,Kotip Baubau	-5.477	122.6166	A	ADM2	ID		22	7472			161354		145	Asia/Makassar	2023-06-24
+6983688	Kabupaten Banggai	Kabupaten Banggai	Banggai,Banggai Regency,Kabupaten Banggai	-0.91141	122.71836	A	ADM2	ID		21	7202			323626		1157	Asia/Makassar	2023-06-21
+6984549	Kabupaten Sumbawa Barat	Kabupaten Sumbawa Barat	Kabupaten Sumbawa Barat,West Sumbawa Regency	-8.75159	116.92132	A	ADM2	ID		17	5207			148458		274	Asia/Makassar	2023-06-24
+7057508	Kabupaten Dompu	Kabupaten Dompu	Dompu Regency,Kecamatan Dompu	-8.5094	118.4816	A	ADM2	ID		17	5205			238201		132	Asia/Makassar	2023-06-24
+7063566	Kabupaten Soppeng	Kabupaten Soppeng	Kabupaten Soppeng,Soppeng,Soppeng Regency	-4.3842	119.89	A	ADM2	ID		38	7312			236049		147	Asia/Makassar	2023-06-20
+7086954	Kabupaten Karang Asem	Kabupaten Karang Asem	Kabupaten Karangasem,Karangasem,Karangasem Regency	-8.3891	115.5393	A	ADM2	ID		02	5107			492402		805	Asia/Makassar	2023-06-25
+7862296	Kabupaten Lampung Selatan	Kabupaten Lampung Selatan	Kabupaten Lampung Selatan,Lampung Selatan,South Lampung Regency	-5.53965	105.49741	A	ADM2	ID		15	1803			964504		84	Asia/Jakarta	2023-06-18
+7910336	Kabupaten Bandung Barat	Kabupaten Bandung Barat	Kab. Bandung Barat,Kabupaten Bandung Barat,Kabupaten Bandung Kulon,Kabupatén Bandung Kulon,West Bandung Regency	-6.83333	107.48333	A	ADM2	ID		30	3217			1583031		722	Asia/Jakarta	2024-04-07
+7910349	Kabupaten Bungo	Kabupaten Bungo	Bungo,Bungo Regency,Bungo Tebo	-1.50222	101.96	A	ADM2	ID		05	1509			362363		133	Asia/Jakarta	2023-06-18
+7910905	Kabupaten Kaimana	Kabupaten Kaimana	Kabupaten Kaimana,Kaimana Regency	-3.66093	133.77451	A	ADM2	ID		39	9102			62256		216	Asia/Jayapura	2023-06-17
+7910908	Kabupaten Teluk Wondama	Kabupaten Teluk Wondama	Wondama Bay Regency	-2.7	134.5	A	ADM2	ID		39	9103			41644		8	Asia/Jayapura	2023-06-17
+7910924	Kabupaten Sorong Selatan	Kabupaten Sorong Selatan	South Sorong Regency	-1.50495	132.28638	A	ADM2	ID		PD	9106			52469		77	Asia/Jayapura	2023-06-18
+7910927	Kabupaten Halmahera Selatan	Kabupaten Halmahera Selatan	Halmahera Selatan,Kabupaten Halmahera Selatan,South Halmahera Regency	-0.3955	127.90833	A	ADM2	ID		29	8204			251690		253	Asia/Jayapura	2023-06-18
+7910930	Kabupaten Kulon Progo	Kabupaten Kulon Progo	Kulon Progo Regency	-7.81256	110.15133	A	ADM2	ID		10	3401			408811		83	Asia/Jakarta	2023-06-18
+7910935	Kota Ternate	Kota Ternate	Kota Ternate	0.89618	127.31016	A	ADM2	ID		29	8271			205001		371	Asia/Jayapura	2022-12-17
+7910936	Kota Jayapura	Kota Jayapura	Jayapura Regency	-2.64647	140.77779	A	ADM2	ID		36	9471			256705		8	Asia/Jayapura	2015-08-31
+7910937	Kabupaten Nabire	Kabupaten Nabire	Kabupaten Nabire,Nabire Regency	-3.54016	135.55511	A	ADM2	ID		PT	9404			170914		111	Asia/Jayapura	2023-06-17
+7910939	Kabupaten Mamasa	Kabupaten Mamasa	Mamasa Regency	-2.96492	119.30631	A	ADM2	ID		41	7603			163383		1441	Asia/Makassar	2023-06-17
+7910943	Kabupaten Pegunungan Bintang	Kabupaten Pegunungan Bintang	Kabupaten Pegunungan Bintang,Pegunungan Bintang Regency	-4.52167	140.29541	A	ADM2	ID		PE	9417			77872		2576	Asia/Jayapura	2023-06-25
+7932494	Kota Pagar Alam	Kota Pagar Alam		-4.13055	103.26822	A	ADM2	ID		32	1673			131075		976	Asia/Jakarta	2015-05-30
+7932496	Kota Prabumulih	Kota Prabumulih		-3.46202	104.2229	A	ADM2	ID		32	1672			161984		59	Asia/Jakarta	2015-05-27
+8080464	Kabupaten Lamongan	Kabupaten Lamongan	Kabupaten Lamongan,Lamongan Regency	-7.13333	112.31667	A	ADM2	ID		08	3524			1179059		15	Asia/Jakarta	2015-11-09
+8224053	Kota Langsa	Kota Langsa		4.47	97.93	A	ADM2	ID		01	1173			185971		40	Asia/Jakarta	2023-06-24
+8224054	Kabupaten Gayo Lues	Kabupaten Gayo Lues	Gayo Lues Regency	3.95	97.39	A	ADM2	ID		01	1113			101102		1152	Asia/Jakarta	2023-06-21
+8224055	Kabupaten Pidie	Kabupaten Pidie	Pidie Regency	5.08	96.11	A	ADM2	ID		01	1109			439398		1010	Asia/Jakarta	2023-06-21
+8224057	Kabupaten Nias Selatan	Kabupaten Nias Selatan	Nias Regency	0.77	97.75	A	ADM2	ID		26	1214			305573		229	Asia/Jakarta	2015-08-31
+8521769	Kabupaten Muara Enim	Kabupaten Muara Enim	Kabupaten Muara Enim,Mara Enim,Muara Enim Regency,Muaraenim	-4.2327	103.6141	A	ADM2	ID		32	1603			754687		1805	Asia/Jakarta	2015-05-28
+8530432	Kabupaten Biak Numfor	Kabupaten Biak Numfor	Biak Numfor Regency,Kabupaten Biak,Kabupaten Biak Numfor	-0.98333	136	A	ADM2	ID		36	9409			126798		1	Asia/Jayapura	2023-06-18
+8531251	Kabupaten Sarmi	Kabupaten Sarmi	Kabupaten Sarmi,Sarmi Regency	-2.31667	139.1	A	ADM2	ID		36	9419			41515		145	Asia/Jayapura	2023-06-18
+8531252	Kabupaten Keerom	Kabupaten Keerom	Kabupaten Keerom,Keerom Regency	-3.33333	140.68333	A	ADM2	ID		36	9420			62157		291	Asia/Jayapura	2023-06-18
+8541464	Kabupaten Sumenep	Kabupaten Sumenep	Kabupaten Sumenep,Sumenep,Sumenep Regency	-6.98333	113.81667	A	ADM2	ID		08	3529			1134810		59	Asia/Jakarta	2022-07-27
+8541932	Kabupaten Sijunjung	Kabupaten Sijunjung	Kabupaten Sawahlunto Sijunjung,Kabupaten Sijunjung,Sawahlunto Sijunjung,Sijunjung Regency	-0.64866	101.06793	A	ADM2	ID		24	1304			235045		902	Asia/Jakarta	2023-06-20
+8552411	Kabupaten Mesuji	Kabupaten Mesuji	Kecamatan Mesuji Lampung,Mesuji Lampung,Mesuji Regency	-4.0439	105.4013	A	ADM2	ID		15	1811			197437		15	Asia/Jakarta	2014-11-18
+8562628	Kabupaten Lima Puluh Kota	Kabupaten Lima Puluh Kota	Kabupaten Limapuluhkota,Lima Puluh Kota Regency,Limapuluh Koto,Limapuluhkota	-0.0168	100.5872	A	ADM2	ID		24	1308			383525		1012	Asia/Jakarta	2023-06-21
+8571637	Kabupaten Pidie Jaya	Kabupaten Pidie Jaya	Kabupaten Pidie Jaya,Pidie Jaya Regency	5.15	96.21667	A	ADM2	ID		01	1118			160327		162	Asia/Jakarta	2023-06-20
+8571638	Kota Subulussalam	Kota Subulussalam	Kota Subulussalam	2.73333	97.93333	A	ADM2	ID		01	1175			95199		8	Asia/Jakarta	2023-06-24
+8594735	Kabupaten Sumbawa	Kabupaten Sumbawa	Kabupaten Sumbawa,Sumbawa,Sumbawa Regency	-8.7439	117.3324	A	ADM2	ID		17	5204			517777		368	Asia/Makassar	2023-06-18
+8594799	Kabupaten Tanah Datar	Kabupaten Tanah Datar	Kabupaten Tanahdatar,Tanah Datar Regency,Tanahdatar	-0.4555	100.5771	A	ADM2	ID		24	1305			371704		510	Asia/Jakarta	2023-06-20
+8597074	Kabupaten Bengkalis	Kabupaten Bengkalis	Bengkalis,Bengkalis Regency,Kabupaten Bengkalis	1.29882	101.54527	A	ADM2	ID		37	1408			582973		32	Asia/Jakarta	2023-06-26
+8611929	Kabupaten Labuhan Batu Selatan	Kabupaten Labuhan Batu Selatan	Kabupaten Labuanbatu,Labuanbatu,South Labuhan Batu Regency	1.983	100.0976	A	ADM2	ID		26	1222			286173		19	Asia/Jakarta	2014-11-18
+8613240	Kabupaten Bulungan	Kabupaten Bulungan	Bulungan,Bulungan Regency,Kabupaten Bulungah,Kabupaten Bulungan	3	117.16667	A	ADM2	ID		42	6502			151844		187	Asia/Makassar	2023-06-17
+8613334	Kabupaten Tarakan	Kabupaten Tarakan	Kabupaten Tarakan,Tarakan Regency	3.35	117.6	A	ADM2	ID		42	6571			242786		31	Asia/Makassar	2023-06-17
+8613353	Kabupaten Malinau	Kabupaten Malinau	Kabupaten Malinau,Malinau Regency	2.48333	115.71667	A	ADM2	ID		42	6501			83796		616	Asia/Makassar	2023-06-17
+8613360	Kabupaten Nunukan	Kabupaten Nunukan	Kabupaten Nunukan,Nunukan Regency	4.1	116.68333	A	ADM2	ID		42	6504			203220		364	Asia/Makassar	2023-06-17
+8613361	Kabupaten Tana Tidung	Kabupaten Tana Tidung	Kabupaten Tana Tidung,Tana Tidung Regency	3.55	116.96667	A	ADM2	ID		42	6503			0		44	Asia/Makassar	2023-06-18
+8659092	Kabupaten Lombok Utara	Kabupaten Lombok Utara	Kabupaten Lombok Utara,North Lombok Regency	-8.35214	116.40152	A	ADM2	ID		17	5208			251451		1509	Asia/Makassar	2023-06-24
+8659101	Kota Bima	Kota Bima	Bima City,Kotamadya Bima	-8.46728	118.75259	A	ADM2	ID		17	5272			156224		20	Asia/Makassar	2023-06-24
+8739779	Kabupaten Lingga	Kabupaten Lingga	Lingga Regency	-0.5091	104.41448	A	ADM2	ID		40	2104			98633	11	47	Asia/Pontianak	2023-06-17
+8740062	Kabupaten Landak	Kabupaten Landak	Kabupaten Landak,Landak Regency	0.42373	109.75917	A	ADM2	ID		11	6103			329649		42	Asia/Pontianak	2023-06-18
+8740064	Kabupaten Bengkayang	Kabupaten Bengkayang	Bengkayang Regency	1.06911	109.66393	A	ADM2	ID		11	6102			296855		94	Asia/Pontianak	2023-06-19
+8740093	Kabupaten Natuna	Kabupaten Natuna	Kepulauan Natuna,Natuna Regency	4.71417	107.97639	A	ADM2	ID		40	2103			81495	229	107	Asia/Jakarta	2023-06-18
+8740094	Kabupaten Kepulauan Mentawai	Kabupaten Kepulauan Mentawai	Mentawai Islands Regency	-1.35927	98.89552	A	ADM2	ID		24	1301			87623	201	183	Asia/Jakarta	2023-06-20
+8740095	Kabupaten Kepulauan Anambas	Kabupaten Kepulauan Anambas	Anambas Islands,Anambas Islands Regency,Kepulauan Anambas	2.93966	105.76071	A	ADM2	ID		40	2105			47402	154	202	Asia/Pontianak	2023-06-18
+8741175	Kabupaten Pulang Pisau	Kabupaten Pulang Pisau	Kabupaten Pulang Pisau,Pulang Pisau Regency	-3.11858	113.8623	A	ADM2	ID		13	6210			134499		6	Asia/Pontianak	2023-06-18
+9034776	Kabupaten Bintan	Kabupaten Bintan	Bintan Regency	0.95	104.61944	A	ADM2	ID		40	2102			159518		21	Asia/Jakarta	2023-06-17
+9161518	Kabupaten Mandailing Natal	Kabupaten Mandailing Natal	Mandailing Natal Regency	0.78378	99.25495	A	ADM2	ID		26	1202			426194		1339	Asia/Jakarta	2015-05-26
+9162086	Kabupaten Humbang Hasundutan	Kabupaten Humbang Hasundutan	Humbang Hasundutan Regency,Kabupaten Humbang Hasundutan	2.26551	98.50376	A	ADM2	ID		26	1215			175548		633	Asia/Jakarta	2015-05-26
+9162842	Kabupaten Samosir	Kabupaten Samosir	Samosir Regency	2.64025	98.71525	A	ADM2	ID		26	1217			123869		1077	Asia/Jakarta	2014-11-18
+9163115	Kabupaten Pasaman	Kabupaten Pasaman	Kabupaten Pasaman,Pasaman Regency	0.42503	99.94606	A	ADM2	ID		24	1309			299851		1426	Asia/Jakarta	2023-06-20
+9163116	Kabupaten Pasaman Barat	Kabupaten Pasaman Barat	Kabupaten Pasaman Barat,West Pasaman Regency	0.28152	99.51965	A	ADM2	ID		24	1312			431672		33	Asia/Jakarta	2023-06-20
+9163118	Kabupaten Kuantan Singingi	Kabupaten Kuantan Singingi	Kuantan Singingi Regency	-0.47532	101.45857	A	ADM2	ID		37	1401			345850		145	Asia/Jakarta	2023-06-25
+9163207	Kabupaten Pelalawan	Kabupaten Pelalawan	Pelalawan Regency	0.20822	102.18607	A	ADM2	ID		37	1404			410988		36	Asia/Jakarta	2023-06-25
+9163311	Kabupaten Ogan Ilir	Kabupaten Ogan Ilir	Ogan Ilir Regency	-3.43186	104.62727	A	ADM2	ID		32	1610			396384		21	Asia/Jakarta	2015-05-30
+9163828	Kabupaten Way Kanan	Kabupaten Way Kanan	Way Kanan Regency	-4.44705	104.52753	A	ADM2	ID		15	1807			429062		80	Asia/Jakarta	2023-06-18
+9164018	Kabupaten Tulangbawang	Kabupaten Tulangbawang	Tulang Bawang Regency	-4.20604	105.57999	A	ADM2	ID		15	1808			431208		21	Asia/Jakarta	2023-06-28
+9165593	Kabupaten Lembata	Kabupaten Lembata	Lembata Regency	-8.41396	123.55225	A	ADM2	ID		18	5308			139787		196	Asia/Makassar	2023-06-20
+9165681	Kabupaten Manggarai Barat	Kabupaten Manggarai Barat	West Manggarai Regency	-8.64484	119.88281	A	ADM2	ID		18	5315			263687		333	Asia/Makassar	2023-06-20
+9165684	Kabupaten Balangan	Kabupaten Balangan	Balangan Regency,Kabupaten Balangan	-2.32314	115.62922	A	ADM2	ID		12	6311			134512		68	Asia/Makassar	2023-06-20
+9165685	Kabupaten Bone Bolango	Kabupaten Bone Bolango	Bone Bolango Regency	0.50296	123.27501	A	ADM2	ID		34	7504			164277		235	Asia/Makassar	2023-06-26
+9165686	Kabupaten Boalemo	Kabupaten Boalemo	Boalemo Regency	0.62689	122.3568	A	ADM2	ID		34	7501			147038		589	Asia/Makassar	2023-06-25
+9165687	Kabupaten Pohuwato	Kabupaten Pohuwato	Kabupaten Pohuwato,Pohuwato Regency	0.7098	121.59582	A	ADM2	ID		34	7503			147689		314	Asia/Makassar	2023-06-28
+9165688	Tojo Una-Una Regency	Tojo Una-Una Regency	Kabupaten Tojo Una-Una,OJU,Tojo Una-Una Regency	-1.2036	121.48201	A	ADM2	ID		21	7209			137810		1276	Asia/Makassar	2018-09-22
+9165690	Kabupaten Parigi Moutong	Kabupaten Parigi Moutong	Kabupaten Parigi Moutong,Parigi Moutong Regency	0.3368	120.17841	A	ADM2	ID		21	7208			446712		569	Asia/Makassar	2023-06-21
+9165691	Kabupaten Banggai Kepulauan	Kabupaten Banggai Kepulauan		-1.30236	123.03726	A	ADM2	ID		21	7201			171627		241	Asia/Makassar	2019-02-05
+9165694	Morowali Regency	Morowali Regency	Kabupaten Morowali,MOH,Morowali Regency	-2.76062	121.95267	A	ADM2	ID		21	7203			176244		561	Asia/Makassar	2023-06-28
+9165704	Kabupaten Luwu Timur	Kabupaten Luwu Timur	East Luwu Regency,Kabupaten Luwu Timur	-2.5321	121.12305	A	ADM2	ID		38	7325			305521		399	Asia/Makassar	2023-06-26
+9165705	Kabupaten Kolaka Utara	Kabupaten Kolaka Utara	Kabupaten Kolaka Utara,North Kolaka Regency	-3.10452	121.12427	A	ADM2	ID		22	7408			121340		360	Asia/Makassar	2023-06-18
+9165706	Kabupaten Kepulauan Aru	Kabupaten Kepulauan Aru	Aru Islands	-6.17059	134.46991	A	ADM2	ID		28	8105			84138		49	Asia/Jayapura	2015-05-29
+9165708	Kabupaten Halmahera Barat	Kabupaten Halmahera Barat	Halmahera Barat,West Halmahera Regency	1.41709	127.55264	A	ADM2	ID		29	8201			100424		206	Asia/Jayapura	2023-06-18
+9165710	Kabupaten Mappi	Kabupaten Mappi	Kabupaten Mappi,Mappi Regency	-6.49971	139.34441	A	ADM2	ID		PS	9414			108295		5	Asia/Jayapura	2023-06-17
+9165711	Kabupaten Asmat	Kabupaten Asmat	Asmat Regency,Kabupaten Asmat	-5.3795	138.46344	A	ADM2	ID		PS	9415			110105		22	Asia/Jayapura	2023-06-17
+9165729	Kabupaten Penajam Paser Utara	Kabupaten Penajam Paser Utara	Kabupaten Penajam Paser Utara,North Penajam Paser Regency	-1.20333	116.57169	A	ADM2	ID		14	6409			183043		54	Asia/Makassar	2023-06-21
+9165769	Kabupaten Toba Samosir	Kabupaten Toba Samosir	Kabupaten Toba Samosir,Toba Samosir Regency	2.39793	99.21678	A	ADM2	ID		26	1206			181371		930	Asia/Jakarta	2015-05-26
+9165770	Kabupaten Solok Selatan	Kabupaten Solok Selatan	South Solok Regency	-1.23333	101.417	A	ADM2	ID		24	1310			182027		261	Asia/Jakarta	2023-06-20
+9165775	Kabupaten Banyu Asin	Kabupaten Banyu Asin	Banyuasin Regency	-2.88333	104.38306	A	ADM2	ID		32	1607			773587		22	Asia/Jakarta	2015-05-26
+9165778	Kabupaten Lampung Timur	Kabupaten Lampung Timur	East Lampung Regency	-5.10273	105.68003	A	ADM2	ID		15	1804			1127946		30	Asia/Jakarta	2023-06-25
+9165782	Kabupaten Rote Ndao	Kabupaten Rote Ndao	Rote Ndao Regency	-10.73617	123.12054	A	ADM2	ID		18	5314			148811		169	Asia/Makassar	2023-06-20
+9165788	Kabupaten Luwu Utara	Kabupaten Luwu Utara	Kabupaten Luwu Utara,North Luwu Regency	-2.6	120.25	A	ADM2	ID		38	7322			327820		41	Asia/Makassar	2023-06-26
+9165798	Kabupaten Halmahera Utara	Kabupaten Halmahera Utara	North Halmahera Regency	1.73194	128.00778	A	ADM2	ID		29	8205			161847		10	Asia/Jayapura	2023-06-17
+9165840	Kabupaten Ende	Kabupaten Ende	Ende Regency	-8.84056	121.66389	A	ADM2	ID		18	5311			273553		41	Asia/Makassar	2023-06-20
+9165866	Kabupaten Gorontalo Utara	Kabupaten Gorontalo Utara	North Gorontalo Regency	0.86508	123.04891	A	ADM2	ID		34	7505			104133		262	Asia/Makassar	2023-06-17
+9165868	Kabupaten Minahasa Utara	Kabupaten Minahasa Utara	North Minahasa Regency	1.4025	124.96	A	ADM2	ID		31	7106			188904		211	Asia/Makassar	2015-05-28
+9165982	Kabupaten Maluku Tengah	Kabupaten Maluku Tengah		-3.29167	128.9675	A	ADM2	ID		28	8103			427050		8	Asia/Jayapura	2023-06-24
+9165987	Kabupaten Seram Bagian Barat	Kabupaten Seram Bagian Barat	Seram Bagian Barat Regency,West Seram Regency	-3.1027	128.42996	A	ADM2	ID		28	8106			212960		732	Asia/Jayapura	2023-06-24
+9165989	Kabupaten Ogan Komering Ulu Selatan	Kabupaten Ogan Komering Ulu Selatan		-4.65728	104.00659	A	ADM2	ID		32	1608			329795		285	Asia/Jakarta	2015-08-31
+9165993	Kabupaten Lamandau	Kabupaten Lamandau	Kabupaten Lamandau,Lamandau Regency	-1.83828	111.2869	A	ADM2	ID		13	6207			63199		303	Asia/Pontianak	2023-06-17
+9165994	Kabupaten Buru	Kabupaten Buru	Buru Regency	-3.32767	126.68413	A	ADM2	ID		28	8104			137990		557	Asia/Jayapura	2023-06-26
+9165995	East Halmahera Regency	East Halmahera Regency	East Halmahera Regency,Kabupaten Halmahera Timur	1.33517	128.48627	A	ADM2	ID		29	8206			73109		927	Asia/Jayapura	2018-09-22
+9165996	Wakatobi Regency	Wakatobi Regency	Kabupaten Wakatobi,Wakatobi Regency	-5.31934	123.5948	A	ADM2	ID		22	7407			113122		103	Asia/Makassar	2023-06-24
+9165997	Kabupaten Konawe	Kabupaten Konawe	Kabupaten Konawe,Konawe Regency	-3.91717	122.08823	A	ADM2	ID		22	7403			241982		32	Asia/Makassar	2023-06-17
+9165998	Kabupaten Konawe Selatan	Kabupaten Konawe Selatan	Kabupaten Konawe Selatan,South Konawe Regency	-4.19191	122.44854	A	ADM2	ID		22	7405			312674		241	Asia/Makassar	2023-06-26
+9165999	Kabupaten Seram Bagian Timur	Kabupaten Seram Bagian Timur	East Seram Regency,Kabupaten Seram Bagian Timur	-3.39851	130.39167	A	ADM2	ID		28	8107			137972		276	Asia/Jayapura	2022-07-27
+9166001	Kabupaten Boven Digoel	Kabupaten Boven Digoel	Boven Digoel Regency,Kabupaten Boven Digoel	-5.70519	140.36349	A	ADM2	ID		PS	9413			55784		55	Asia/Jayapura	2023-06-17
+9166002	Kabupaten Teluk Bintuni	Kabupaten Teluk Bintuni	Kabupaten Teluk Bintuni,Teluk Bintuni Regency	-1.88037	133.33105	A	ADM2	ID		39	9104			52422		50	Asia/Jayapura	2023-06-17
+9166041	Kabupaten Dharmasraya	Kabupaten Dharmasraya	Dharmasraya Regency	-1.2506	101.58645	A	ADM2	ID		24	1311			228591		140	Asia/Jakarta	2023-06-20
+9166049	Lahat Regency	Lahat Regency	Kabupaten Lahat,Lahat Regency	-3.7864	103.5428	A	ADM2	ID		32	1604			382898		115	Asia/Jakarta	2016-06-12
+9166051	Kabupaten Ogan Komering Ulu Timur	Kabupaten Ogan Komering Ulu Timur	Kabupaten Ogan Komering Ulu,Ogan Komering Ulu Regency	-3.85679	104.75209	A	ADM2	ID		32	1609			628205		38	Asia/Jakarta	2015-05-27
+9166059	Kabupaten Lampung Barat	Kabupaten Lampung Barat	West Lampung Regency	-5.14904	104.19309	A	ADM2	ID		15	1801			437952		852	Asia/Jakarta	2023-06-18
+9166118	Kabupaten Sekadau	Kabupaten Sekadau	Sekadau Regency	0.03485	110.95066	A	ADM2	ID		11	6109			214429		20	Asia/Pontianak	2023-06-18
+9166125	Kabupaten Sukamara	Kabupaten Sukamara	Kabupaten Sukamara,Sukamara Regency	-2.62675	111.23681	A	ADM2	ID		13	6206			66845		22	Asia/Pontianak	2023-06-18
+9170724	Kabupaten Bombana	Kabupaten Bombana	Bombana Regency	-4.6257	121.81641	A	ADM2	ID		22	7406			139235		170	Asia/Makassar	2023-06-18
+9172043	Kabupaten Kepulauan Sula	Kabupaten Kepulauan Sula	Kepulauan Sula	-1.8646	125.69046	A	ADM2	ID		29	8203			132524		291	Asia/Jayapura	2015-05-29
+9172045	Kabupaten Kepulauan Yapen	Kabupaten Kepulauan Yapen	Menyutuning Kabupaten Kepulauan Yapen,Yapen Islands Regency	-1.78773	136.27716	A	ADM2	ID		36	9408			114210		705	Asia/Jayapura	2023-06-19
+9172047	Kabupaten Supiori	Kabupaten Supiori	Supiori Regency	-0.73881	135.61111	A	ADM2	ID		36	9427			22547		174	Asia/Jayapura	2023-06-26
+9172049	Kabupaten Mimika	Kabupaten Mimika	Kabupaten Mimika,Mimika Regency	-4.54357	136.56555	A	ADM2	ID		PT	9412			316295		27	Asia/Jayapura	2023-06-17
+9172050	Kabupaten Puncak Jaya	Kabupaten Puncak Jaya	Kabupaten Puncak Jaya,Puncak Jaya Regency	-3.48821	137.77029	A	ADM2	ID		PT	9411			101148		1896	Asia/Jayapura	2023-06-18
+9780988	Kabupaten Tanah Bumbu	Kabupaten Tanah Bumbu	Kabupaten Tanah Bumbu,Tanah Bumbu Regency	-3.45413	115.70372	A	ADM2	ID		12	6310			335079		20	Asia/Makassar	2023-06-25
+9781856	Kabupaten Sigi	Kabupaten Sigi	Kabupaten Sigi,Sigi Regency	-1.385	119.96694	A	ADM2	ID		21	7210			266812		507	Asia/Makassar	2023-06-28
+9782270	Kabupaten Muaro Jambi	Kabupaten Muaro Jambi	Muaro Jambi Regency	-1.55214	103.82163	A	ADM2	ID		05	1505			412830		6	Asia/Jakarta	2023-06-19
+9821904	Kabupaten Bangka Selatan	Kabupaten Bangka Selatan	South Bangka Regency	-2.66803	106.01257	A	ADM2	ID		35	1905			198189		15	Asia/Jakarta	2023-06-24
+9821905	Kabupaten Bangka Tengah	Kabupaten Bangka Tengah	Central Bangka Regency	-2.33989	106.1142	A	ADM2	ID		35	1904			198946		60	Asia/Jakarta	2023-06-25
+9821906	Kabupaten Bangka Barat	Kabupaten Bangka Barat	West Bangka Regency	-1.95839	105.53741	A	ADM2	ID		35	1903			204612		27	Asia/Jakarta	2023-06-25
+9821907	Kabupaten Belitung Timur	Kabupaten Belitung Timur	East Belitung Regency	-2.9627	108.15216	A	ADM2	ID		35	1906			127018		5	Asia/Jakarta	2023-06-26
+9821909	Kabupaten Karimun	Kabupaten Karimun	Karimun Regency	0.80764	103.41911	A	ADM2	ID		40	2101			266177		14	Asia/Jakarta	2023-06-24
+9821910	Kabupaten Padang Lawas Utara	Kabupaten Padang Lawas Utara	North Padang Lawas Regency	1.46011	99.67346	A	ADM2	ID		26	1220			241966		66	Asia/Jakarta	2014-11-18
+9821911	Kabupaten Batu Bara	Kabupaten Batu Bara	Batubara Regency	3.16166	99.52652	A	ADM2	ID		26	1219			401477		6	Asia/Jakarta	2014-11-18
+9821912	Kabupaten Padang Lawas	Kabupaten Padang Lawas	Padang Lawas Regency	1.15659	99.81136	A	ADM2	ID		26	1221			232215		210	Asia/Jakarta	2019-09-27
+9821913	Kabupaten Labuhan Batu Utara	Kabupaten Labuhan Batu Utara	North Labuhan Batu Regency	2.33349	99.63776	A	ADM2	ID		26	1223			354079		95	Asia/Jakarta	2014-11-18
+9821946	Kabupaten Bengkulu Tengah	Kabupaten Bengkulu Tengah	Central Bengkulu Regency	-3.67775	102.39648	A	ADM2	ID		03	1709			119814		81	Asia/Jakarta	2023-06-24
+9821949	Kabupaten Bolaang Mongondow Selatan	Kabupaten Bolaang Mongondow Selatan	South Bolaang Mongondow Regency	0.40912	123.75961	A	ADM2	ID		31	7110			57001		969	Asia/Makassar	2014-11-18
+9821950	Kabupaten Bolaang Mongondow Timur	Kabupaten Bolaang Mongondow Timur	East Bolaang Mongondow Regency	0.72073	124.50256	A	ADM2	ID		31	7111			63654		810	Asia/Makassar	2014-11-18
+9821951	Kabupaten Bolaang Mongondow Utara	Kabupaten Bolaang Mongondow Utara	North Bolaang Mongondow Regency	0.78527	123.41766	A	ADM2	ID		31	7107			70693		238	Asia/Makassar	2014-11-18
+9821952	Kota Bontang	Kota Bontang		0.12526	117.49603	A	ADM2	ID		14	6474			180843		2	Asia/Makassar	2023-06-25
+9821953	Kabupaten Buru Selatan	Kabupaten Buru Selatan	South Buru Regency	-3.52187	126.59271	A	ADM2	ID		28	8109			77287		655	Asia/Jayapura	2023-06-23
+9821954	Kabupaten Buton Utara	Kabupaten Buton Utara	North Buton Regency	-5.01457	122.93015	A	ADM2	ID		22	7409			67714		219	Asia/Makassar	2023-06-24
+9821955	Kota Dumai	Kota Dumai		1.61592	101.4917	A	ADM2	ID		37	1473			257330		4	Asia/Jakarta	2014-11-18
+9821956	Kabupaten Deiyai	Kabupaten Deiyai	Deiyai Regency	-4.15287	136.40567	A	ADM2	ID		PT	9436			99091		1063	Asia/Jayapura	2023-06-23
+9821957	Kabupaten Dogiyai	Kabupaten Dogiyai	Dogiyai Regency	-4.03186	135.43945	A	ADM2	ID		PT	9434			117818		1553	Asia/Jayapura	2023-06-23
+9821958	Kabupaten Empat Lawang	Kabupaten Empat Lawang		-3.71629	102.94511	A	ADM2	ID		32	1611			227604		358	Asia/Jakarta	2019-09-27
+9827965	Kabupaten Konawe Kepulauan	Kabupaten Konawe Kepulauan	Konawe Islands Regency	-4.11656	123.10181	A	ADM2	ID		22	7412			38383		610	Asia/Makassar	2023-06-24
+9827966	Kabupaten Mamuju Tengah	Kabupaten Mamuju Tengah	Central Mamuju Regency	-2.0216	119.54054	A	ADM2	ID		41	7606			140028		207	Asia/Makassar	2023-06-24
+9827967	Kabupaten Manokwari Selatan	Kabupaten Manokwari Selatan	South Manokwari Regency	-1.60532	134.00313	A	ADM2	ID		39	9111			35949		556	Asia/Jayapura	2023-06-26
+9827971	Kabupaten Morowali Utara	Kabupaten Morowali Utara	North Morowali Regency	-1.7207	121.24649	A	ADM2	ID		21	7212			124006		1309	Asia/Makassar	2023-06-28
+9827972	Kabupaten Musi Rawas Utara	Kabupaten Musi Rawas Utara	North Musi Rawas Regency	-2.70606	102.7632	A	ADM2	ID		32	1613			0		73	Asia/Jakarta	2019-09-27
+9827974	Kabupaten Pangandaran	Kabupaten Pangandaran	Pangandaran Regency	-7.6673	108.64037	A	ADM2	ID		30	3218			0		3	Asia/Jakarta	2014-11-13
+9828026	Kabupaten Pegunungan Arfak	Kabupaten Pegunungan Arfak	Arfak Mountains Regency	-1.20256	133.70651	A	ADM2	ID		39	9112			38941		1334	Asia/Jayapura	2023-06-26
+9828027	Kabupaten Penukal Abab Lematang Ilir	Kabupaten Penukal Abab Lematang Ilir	Penukal Abab Lematang Ilir Regency	-3.21342	104.08722	A	ADM2	ID		32	1612			0		25	Asia/Jakarta	2014-11-13
+9828028	West Pesisir Regency	West Pesisir Regency	Kabupaten Pesisir Barat,West Pesisir Regency	-5.19323	103.93976	A	ADM2	ID		15	1813			164816		31	Asia/Jakarta	2023-06-26
+9828029	Kabupaten Pulau Taliabu	Kabupaten Pulau Taliabu	Taliabu Island Regency	-1.84578	124.78992	A	ADM2	ID		29	8208			63231		287	Asia/Jayapura	2023-06-26
+9828030	Kabupaten Kaur	Kabupaten Kaur	Kaur Regency	-4.78179	103.36109	A	ADM2	ID		03	1704			129661		51	Asia/Jakarta	2023-06-24
+9828031	Kabupaten Kayong Utara	Kabupaten Kayong Utara	North Kayong Regency	-1.06023	110.10402	A	ADM2	ID		11	6111			131104		12	Asia/Pontianak	2023-06-21
+9828032	Kabupaten Kepahiang	Kabupaten Kepahiang	Kepahiang Regency	-3.60194	102.56424	A	ADM2	ID		03	1708			149737		654	Asia/Jakarta	2022-12-17
+9828033	Kabupaten Kepulauan Meranti	Kabupaten Kepulauan Meranti	Kepulauan Meranti Regency	0.97488	102.69539	A	ADM2	ID		37	1410			213532		14	Asia/Jakarta	2023-06-26
+9828034	Kabupaten Kepulauan Talaud	Kabupaten Kepulauan Talaud	Talaud Islands Regency	4.31178	126.78085	A	ADM2	ID		31	7104			83434		118	Asia/Makassar	2014-11-18
+9828035	Kabupaten Konawe Utara	Kabupaten Konawe Utara	North Konawe Regency	-3.41552	121.99081	A	ADM2	ID		22	7410			67871		249	Asia/Makassar	2022-12-17
+9828036	Kota Kotamobagu	Kota Kotamobagu		0.68915	124.32678	A	ADM2	ID		31	7174			107459		255	Asia/Makassar	2014-11-18
+9828037	Kabupaten Kubu Raya	Kabupaten Kubu Raya	Kubu Raya Regency	-0.31924	109.51865	A	ADM2	ID		11	6112			622217		20	Asia/Pontianak	2023-06-21
+9828038	Kabupaten Kutai Barat	Kabupaten Kutai Barat	West Kutai Regency	-0.59417	115.51575	A	ADM2	ID		14	6402			172288		38	Asia/Makassar	2023-06-21
+9828039	Kabupaten Kutai Kartanegara	Kabupaten Kutai Kartanegara	Kutai Kartanegara Regency	-0.44019	116.98139	A	ADM2	ID		14	6403			738189		13	Asia/Makassar	2023-06-28
+9828040	Kabupaten Lanny Jaya	Kabupaten Lanny Jaya	Lanny Jaya Regency	-3.91244	138.28766	A	ADM2	ID		PE	9430			196399		2677	Asia/Jayapura	2023-06-24
+9828041	Kabupaten Lebong	Kabupaten Lebong	Lebong Regency	-3.24278	102.3349	A	ADM2	ID		03	1707			107248		844	Asia/Jakarta	2023-06-24
+9828042	Kota Lubuklinggau	Kota Lubuklinggau		-3.29308	102.85503	A	ADM2	ID		32	1674			234166		142	Asia/Jakarta	2022-01-30
+9828043	Kabupaten Maluku Barat Daya	Kabupaten Maluku Barat Daya	Kabupaten des Moluques du Sud-Ouest,Southwest Maluku Regency,Suedwestmolukken,Südwestmolukken	-7.8296	126.17386	A	ADM2	ID		28	8108			82560		524	Asia/Jayapura	2023-06-21
+9828704	Kabupaten Maluku Tenggara Barat	Kabupaten Maluku Tenggara Barat	Western Southeast Maluku Regency	-7.61186	131.38	A	ADM2	ID		28	8101			124787		28	Asia/Jayapura	2023-06-23
+9828781	Kabupaten Mamberamo Raya	Kabupaten Mamberamo Raya	Mamberamo Raya Regency	-2.23561	137.78229	A	ADM2	ID		36	9428			36989		191	Asia/Jayapura	2022-07-27
+9828820	Kabupaten Mamberamo Tengah	Kabupaten Mamberamo Tengah	Central Mamberamo Regency	-3.62733	139.06483	A	ADM2	ID		PE	9431			51160		994	Asia/Jayapura	2023-06-23
+9828890	Kabupaten Mamuju Utara	Kabupaten Mamuju Utara	North Mamuju Regency	-1.51639	119.42139	A	ADM2	ID		41	7605			198608		26	Asia/Makassar	2023-06-24
+9828927	Kabupaten Manggarai Timur	Kabupaten Manggarai Timur	East Manggarai Regency	-8.55533	120.59761	A	ADM2	ID		18	5319			280732		1032	Asia/Makassar	2023-06-25
+9828956	Kabupaten Maybrat	Kabupaten Maybrat	Maybrat Regency	-1.2155	132.35092	A	ADM2	ID		PD	9110			43364		487	Asia/Jayapura	2022-12-26
+9828958	Kabupaten Melawi	Kabupaten Melawi	Melawi Regency	-0.33617	111.698	A	ADM2	ID		11	6110			235025		29	Asia/Pontianak	2023-06-24
+9828959	Kabupaten Merangin	Kabupaten Merangin	Merangin Regency	-2.06933	102.13303	A	ADM2	ID		05	1502			357577		127	Asia/Jakarta	2023-06-23
+9828960	Kota Metro	Kota Metro		-5.11856	105.29949	A	ADM2	ID		15	1872			168575		49	Asia/Jakarta	2022-12-17
+9828962	Kabupaten Minahasa Tenggara	Kabupaten Minahasa Tenggara	Southeast Minahasa Regency	1.05633	124.7925	A	ADM2	ID		31	7109			100443		396	Asia/Makassar	2014-11-18
+9828963	Kabupaten Mukomuko	Kabupaten Mukomuko	Mukomuko Regency	-3.07438	101.54766	A	ADM2	ID		03	1706			196571		51	Asia/Jakarta	2023-06-23
+9828965	Kabupaten Nagekeo	Kabupaten Nagekeo	Nagekeo Regency	-8.8721	121.20963	A	ADM2	ID		18	5318			166002		103	Asia/Makassar	2023-06-25
+9828977	Kabupaten Nduga	Kabupaten Nduga	Nduga Regency	-4.45093	138.10089	A	ADM2	ID		PE	9429			106533		763	Asia/Jayapura	2023-06-23
+9828978	Kabupaten Nias Barat	Kabupaten Nias Barat	West Nias Regency	1.05966	97.58606	A	ADM2	ID		26	1225			89308		262	Asia/Jakarta	2014-11-18
+9843567	Kabupaten Nias Utara	Kabupaten Nias Utara	North Nias Regency	1.33037	97.31964	A	ADM2	ID		26	1224			130335		62	Asia/Jakarta	2014-11-18
+9843575	Kota Padangsidimpuan	Kota Padangsidimpuan		1.37375	99.26843	A	ADM2	ID		26	1277			199656		303	Asia/Jakarta	2014-11-18
+9843582	Kota Palopo	Kota Palopo		-2.97841	120.11078	A	ADM2	ID		38	7373			190867		942	Asia/Makassar	2023-06-21
+9843591	Kota Pariaman	Kota Pariaman		-0.62682	100.12047	A	ADM2	ID		24	1377			94224		9	Asia/Jakarta	2023-06-21
+9843600	Kabupaten Paser	Kabupaten Paser	Paser Regency	-1.43517	116.23535	A	ADM2	ID		14	6401			230316		42	Asia/Makassar	2023-06-25
+9843606	Kabupaten Pesawaran	Kabupaten Pesawaran	Pesawaran Regency	-5.4298	105.17899	A	ADM2	ID		15	1809			487153		525	Asia/Jakarta	2023-06-24
+9844898	Kabupaten Pringsewu	Kabupaten Pringsewu	Pringsewu Regency	-5.42211	104.93454	A	ADM2	ID		15	1810			408415		105	Asia/Jakarta	2023-06-24
+9844899	Kabupaten Pulau Morotai	Kabupaten Pulau Morotai	Morotai Island Regency	2.19924	128.40546	A	ADM2	ID		29	8207			78270		678	Asia/Jayapura	2023-06-26
+9844900	Kabupaten Rokan Hilir	Kabupaten Rokan Hilir	Rokan Hilir Regency	2.16599	100.82514	A	ADM2	ID		37	1409			658407		3	Asia/Jakarta	2023-06-24
+9844901	Kabupaten Siak	Kabupaten Siak	Siak Regency	0.97453	102.01355	A	ADM2	ID		37	1405			477550		5	Asia/Jakarta	2023-06-24
+9844902	Kabupaten Sabu Raijua	Kabupaten Sabu Raijua	Sabu Raijua Regency	-10.56286	121.78894	A	ADM2	ID		18	5320			92792		210	Asia/Makassar	2023-06-25
+9845356	Kabupaten Seluma	Kabupaten Seluma	Seluma Regency	-3.96644	102.47429	A	ADM2	ID		03	1705			213755		114	Asia/Jakarta	2023-06-24
+9845383	Kota Serang	Kota Serang		-6.12563	106.14999	A	ADM2	ID		33	3673			720362		27	Asia/Jakarta	2023-06-25
+9845433	Kota Singkawang	Kota Singkawang	San Keuw Jong	0.90734	109.00103	A	ADM2	ID		11	6172			241467		2	Asia/Pontianak	2023-06-25
+9845465	Kota Sorong	Kota Sorong	Sorong City	-0.86507	131.25152	A	ADM2	ID		PD	9171			289767		6	Asia/Jayapura	2023-06-30
+9845472	Kabupaten Sumba Barat Daya	Kabupaten Sumba Barat Daya	Southwest Sumba Regency	-9.56216	119.08905	A	ADM2	ID		18	5317			308106		172	Asia/Makassar	2023-06-25
+9845473	Kabupaten Sumba Tengah	Kabupaten Sumba Tengah	Central Sumba Regency	-9.62941	119.61914	A	ADM2	ID		18	5316			90482		439	Asia/Makassar	2023-06-25
+9845476	Kota Sungai Penuh	Kota Sungai Penuh		-2.10896	101.32175	A	ADM2	ID		05	1572			99233		1334	Asia/Jakarta	2023-06-24
+9845477	Kabupaten Tambrauw	Kabupaten Tambrauw	Kabupaten Tambrauw,Tambrauw Regency	-0.60515	132.48962	A	ADM2	ID		PD	9109			31385		736	Asia/Jayapura	2023-02-11
+9845480	Kota Tangerang Selatan	Kota Tangerang Selatan	South Tangerang	-6.29373	106.71244	A	ADM2	ID		33	3674			1378466		42	Asia/Jakarta	2023-06-25
+9845482	Kabupaten Tanggamus	Kabupaten Tanggamus	Tanggamus Regency	-5.38508	104.62349	A	ADM2	ID		15	1802			652898		774	Asia/Jakarta	2023-06-24
+9845496	Kabupaten Tanjung Jabung Barat	Kabupaten Tanjung Jabung Barat	West Tanjung Jabung Regency	-1.1544	103.24402	A	ADM2	ID		05	1507			326530		46	Asia/Jakarta	2023-06-24
+9845498	Kabupaten Tanjung Jabung Timur	Kabupaten Tanjung Jabung Timur	East Tanjung Jabung Regency	-1.13198	103.61755	A	ADM2	ID		05	1506			234164		20	Asia/Jakarta	2023-06-24
+9845500	Kabupaten Tebo	Kabupaten Tebo	Tebo Regency	-1.45576	102.37473	A	ADM2	ID		05	1508			337669		52	Asia/Jakarta	2022-12-17
+9845501	Kota Tidore Kepulauan	Kota Tidore Kepulauan	City of Tidore Islands	0.60962	127.56981	A	ADM2	ID		29	8272			118247		99	Asia/Jayapura	2023-06-24
+9846653	Kabupaten Tolikara	Kabupaten Tolikara	Tolikara Regency	-3.48799	138.40039	A	ADM2	ID		PE	9418			242293		1669	Asia/Jayapura	2023-06-23
+9846654	Kabupaten Toli-Toli	Kabupaten Toli-Toli	Tolitoli Regency	1.30862	120.88643	A	ADM2	ID		21	7206			228641		25	Asia/Makassar	2023-06-28
+9846655	Kota Tomohon	Kota Tomohon		1.31307	124.83404	A	ADM2	ID		31	7173			91553		758	Asia/Makassar	2014-11-18
+9846656	Kabupaten Toraja Utara	Kabupaten Toraja Utara	North Toraja Regency	-2.92738	119.79218	A	ADM2	ID		38	7326			268198		1150	Asia/Makassar	2023-06-25
+9846657	Kota Tual	Kota Tual		-5.64301	132.74935	A	ADM2	ID		28	8172			93145		18	Asia/Jayapura	2023-06-23
+9846658	Kabupaten Tulang Bawang Barat	Kabupaten Tulang Bawang Barat	West Tulang Bawang Regency	-4.43356	105.16004	A	ADM2	ID		15	1812			289620		7	Asia/Jakarta	2023-06-24
+9846659	Kabupaten Yahukimo	Kabupaten Yahukimo	DEX,Yahukimo Regency	-4.60403	139.58405	A	ADM2	ID		PE	9416			355746		888	Asia/Jayapura	2022-12-26
+9846662	Kabupaten Yalimo	Kabupaten Yalimo	Yalimo Regency	-3.78805	139.42183	A	ADM2	ID		PE	9432			103387		466	Asia/Jayapura	2023-06-23
+9846663	Kota Gunungsitoli	Kota Gunungsitoli		1.32731	97.55018	A	ADM2	ID		26	1278			134511		93	Asia/Jakarta	2014-11-18
+9846664	Kabupaten Intan Jaya	Kabupaten Intan Jaya	Intan Jaya Regency	-3.41016	136.70837	A	ADM2	ID		PT	9435			135043		1052	Asia/Jayapura	2022-12-26
+9846665	Kabupaten Banggai Laut	Kabupaten Banggai Laut	Banggai Laut Regency	-1.61841	123.49388	A	ADM2	ID		21	7211			71350		83	Asia/Makassar	2023-06-28
+9846666	Kabupaten Kolaka Timur	Kabupaten Kolaka Timur	East Kolaka Regency	-4.01807	121.86172	A	ADM2	ID		22	7411			125311		286	Asia/Makassar	2023-06-24
+9846667	Kabupaten Malaka	Kabupaten Malaka	Malaka,Malaka Regency	-9.5632	124.89481	A	ADM2	ID		18	5321			188191		119	Asia/Makassar	2023-06-25
+9846668	Kabupaten Kutai Timur	Kabupaten Kutai Timur	East Kutai Regency	1.03769	117.83112	A	ADM2	ID		14	6404			425613		25	Asia/Makassar	2023-06-28
+9846669	Kabupaten Puncak	Kabupaten Puncak	Puncak Regency	-3.56104	137.31934	A	ADM2	ID		PT	9433			114741		330	Asia/Jayapura	2022-12-26
+9846670	Kabupaten Siau Tagulandang Biaro	Kabupaten Siau Tagulandang Biaro	Sitaro Islands Regency	2.11728	125.37512	A	ADM2	ID		31	7108			63801		18	Asia/Makassar	2014-11-18
+9849799	Kabupaten Administrasi Kepulauan Seribu	Kabupaten Administrasi Kepulauan Seribu	Thousand Islands	-5.80308	106.52257	A	ADM2	ID		04	3101			27749		5		2023-06-21
+9849812	Kota Batu	Kota Batu		-7.83272	112.53751	A	ADM2	ID		08	3579			190184		1060	Asia/Jakarta	2015-05-28
+9849855	Kabupaten Mahakam Hulu	Kabupaten Mahakam Hulu	Mahakam Ulu Regency	0.37822	115.38048	A	ADM2	ID		14	6411			33535		84	Asia/Makassar	2023-06-21
+9849891	Kota Tangerang	Kota Tangerang	Tangerang Regency	-6.17944	106.62991	A	ADM2	ID		33	3671			3352472		18	Asia/Jakarta	2023-06-21
+9849917	Kota Batam	Kota Batam		1.05211	104.02851	A	ADM2	ID		40	2171			1196396		80	Asia/Jakarta	2022-12-17
+9849940	Kota Tanjung Pinang	Kota Tanjung Pinang	Tanjung Pinang	0.91683	104.44329	A	ADM2	ID		40	2172			239854		0	Asia/Pontianak	2023-06-26
+9855467	Kota Banjar	Kota Banjar	Banjar,Banjar City,Kota Administratif Banjar,Kota Banjar,Kotif Banjar	-7.36996	108.53209	A	ADM2	ID		30	3279			185503		41	Asia/Jakarta	2024-04-07
+10924520	Kabupaten Buton Selatan	Kabupaten Buton Selatan	Kabupaten Buton Selatan,South Buton Regency	-5.56667	122.7	A	ADM2	ID		22	7415			276944		132	Asia/Makassar	2023-06-30
+10924541	Kabupaten Buton Tengah	Kabupaten Buton Tengah	Central Buton Regency,Kabupaten Buton Tengah	-5.26667	122.45	A	ADM2	ID		22	7414			116599		140	Asia/Makassar	2023-06-18
+10929337	Kabupaten Muna Barat	Kabupaten Muna Barat	Kabupaten Muna Barat,West Muna Regency	-4.83333	122.48333	A	ADM2	ID		22	7413			83362		27	Asia/Makassar	2023-06-18

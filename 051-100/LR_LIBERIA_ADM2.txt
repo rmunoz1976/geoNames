@@ -1,0 +1,224 @@
+﻿2272532	Zota	Zota	Zota,Zota District	7.30009	-9.41243	A	ADM2	LR		01	2272532			0		348	Africa/Monrovia	2015-03-09
+2272565	Zo-Ge	Zo-Ge		6.86667	-8.5	A	ADM2	LR		09	2272565			0		290	Africa/Monrovia	1994-01-06
+2272794	Yederabo	Yederabo		4.66667	-7.66667	A	ADM2	LR		13	2272794			0		70	Africa/Monrovia	1995-12-18
+2272804	Yarwein Mehnsonnoh	Yarwein Mehnsonnoh	Yarwein Mehnsonnoh,Yarwein Mehnsonnoh District,Yawein-Mesono	6.61092	-9.08237	A	ADM2	LR		09	2272804			0		216	Africa/Monrovia	2015-03-09
+2273181	Wedjah-Cabade	Wedjah-Cabade		5.5	-8.41667	A	ADM2	LR		10	2273181			0		216	Africa/Monrovia	1994-01-06
+2273186	Webbo District	Webbo District	Webbo	5.214	-7.624	A	ADM2	LR		22	2273186			0		81	Africa/Monrovia	2012-04-24
+2273190	Webado	Webado	Webado,Wedabo	4.58333	-8.08333	A	ADM2	LR		16	2273190			0		7	Africa/Monrovia	2012-01-17
+2273272	Waiglomai-Woniglomai	Waiglomai-Woniglomai		8.36528	-9.59722	A	ADM2	LR		20	2273272			0		545	Africa/Monrovia	2009-03-30
+2273404	Tuobo	Tuobo		4.75	-7.66667	A	ADM2	LR		13	2273404			0		63	Africa/Monrovia	1995-12-18
+2273443	Tuobo	Tuobo	Tuabo,Tuobo,Tuobo District	5.03885	-7.67633	A	ADM2	LR		22	2273443			0		133	Africa/Monrovia	2015-03-10
+2273473	Toto	Toto		5.33333	-9.33333	A	ADM2	LR		10	2273473			0		67	Africa/Monrovia	1994-01-06
+2273482	Topo	Topo		5	-8.31667	A	ADM2	LR		10	2273482			0		121	Africa/Monrovia	1994-01-06
+2273511	Tombe	Tombe		6.66667	-11.25	A	ADM2	LR		12	2273511			0		6	Africa/Monrovia	1995-11-15
+2273549	Todee	Todee	Todee,Todee District,Todi	6.63925	-10.4959	A	ADM2	LR		14	2273549			0		99	Africa/Monrovia	2015-03-10
+2273599	Tienpo	Tienpo		5.16667	-8.16667	A	ADM2	LR		22	2273599			0		277	Africa/Monrovia	2009-03-30
+2273621	Three B	Three B	3B,Three B	6.25	-9.33333	A	ADM2	LR		11	2273621			0		238	Africa/Monrovia	2012-01-17
+2273622	Three A	Three A	3A,Three A	6	-9.75	A	ADM2	LR		11	2273622			0		103	Africa/Monrovia	2012-01-17
+2273632	Tewor	Tewor	Tewo,Tewor,Tewor District	6.97016	-11.3242	A	ADM2	LR		12	2273632			0		23	Africa/Monrovia	2015-03-09
+2273635	Tenor	Tenor		6.33333	-10.16667	A	ADM2	LR		11	2273635			0		113	Africa/Monrovia	1994-01-06
+2273657	Tchien	Tchien	Chien,THC,Tchien	6.05828	-8.13435	A	ADM2	LR		19	2273657			0		205	Africa/Monrovia	2013-06-02
+2273679	Tasu	Tasu		5.16667	-9.16667	A	ADM2	LR		10	2273679			0		46	Africa/Monrovia	1996-03-15
+2273682	Tarjuazon	Tarjuazon		5.33333	-9	A	ADM2	LR		10	2273682			0		102	Africa/Monrovia	1994-01-06
+2273858	Sodoke	Sodoke	Newake,Sodoke	4.68333	-7.93333	A	ADM2	LR		13	2273858			0		50	Africa/Monrovia	2012-01-17
+2274043	Seedor	Seedor		5.5	-9.16667	A	ADM2	LR		10	2274043			0		59	Africa/Monrovia	1994-01-06
+2274101	Sasstown	Sasstown	Judo Sastown,Sasstown	4.83333	-8.33333	A	ADM2	LR		16	2274101			0		66	Africa/Monrovia	2012-01-17
+2274124	Sanoyeah	Sanoyeah	Sanoyeah,Sanoyeah District,Sanoyie	7.04698	-9.89776	A	ADM2	LR		01	2274124			0		211	Africa/Monrovia	2015-03-09
+2274125	Sanniquellie Mahn	Sanniquellie Mahn	Sanniquellie Mahn,Sanniquellie Mahn District,Sanokole-Ma	7.38725	-8.71792	A	ADM2	LR		09	2274125			0		445	Africa/Monrovia	2014-10-01
+2274221	Sagleipie-Ma	Sagleipie-Ma		6.91667	-8.83333	A	ADM2	LR		09	2274221			0		241	Africa/Monrovia	1994-01-06
+2274235	Sarbo	Sarbo	Sabo,Sarbo,Sarbo District	5.18565	-7.64212	A	ADM2	LR		22	2274235			0		80	Africa/Monrovia	2015-03-10
+2274269	Rock Town	Rock Town		4.41667	-7.75	A	ADM2	LR		13	2274269			0		19	Africa/Monrovia	1996-03-14
+2274273	Rock Cess	Rock Cess		5.55	-9.66667	A	ADM2	LR		18	2274273			0		33	Africa/Monrovia	1996-03-15
+2274312	Putu	Putu	Putu,Putu District	5.66854	-8.20401	A	ADM2	LR		19	2274312			0		359	Africa/Monrovia	2014-10-01
+2274336	Po River	Po River	Kpo River,Po River	4.58333	-8	A	ADM2	LR		13	2274336			0		16	Africa/Monrovia	2012-01-17
+2274351	Porkpa District	Porkpa District	Pokpa,Porkpa,Porkpa District	7.28008	-11.06562	A	ADM2	LR		12	2274351			0		112	Africa/Monrovia	2015-03-09
+2274373	Pleebo/Sodoken	Pleebo/Sodoken	Pleebo/Sodoken,Pleebo/Sodoken District,Plibo	4.54636	-7.6813	A	ADM2	LR		13	2274373			0		33	Africa/Monrovia	2014-10-01
+2274403	Picnicess	Picnicess		4.66667	-8.33333	A	ADM2	LR		13	2274403			0		18	Africa/Monrovia	1995-12-18
+2274476	Pate	Pate	Jonoya,Pate	4.56667	-7.91667	A	ADM2	LR		13	2274476			0		21	Africa/Monrovia	2012-01-17
+2274491	Panta	Panta	Panta Kpa	7.07731	-9.23319	A	ADM2	LR		01	2274491			0		272	Africa/Monrovia	2015-03-09
+2274502	Palipo	Palipo		5.28639	-7.6375	A	ADM2	LR		22	2274502			0		176	Africa/Monrovia	2009-03-30
+2274569	Nyanbo	Nyanbo	Nyanbo,Nyenbo	4.66667	-7.83333	A	ADM2	LR		13	2274569			0		47	Africa/Monrovia	2012-01-17
+2274578	Nyafokole	Nyafokole	Niafokole,Nyafokole	6.83333	-10.08333	A	ADM2	LR		01	2274578			0		191	Africa/Monrovia	2012-01-17
+2274591	Nuohn Point	Nuohn Point		4.86667	-8.78333	A	ADM2	LR		10	2274591			0		20	Africa/Monrovia	1994-01-06
+2274596	Numo	Numo		5.11694	-8.71667	A	ADM2	LR		10	2274596			0		150	Africa/Monrovia	1996-03-15
+2274719	Niabo	Niabo		6.25694	-8.08389	A	ADM2	LR		19	2274719			0		255	Africa/Monrovia	2009-03-30
+2274778	Nemea	Nemea		4.55	-7.83333	A	ADM2	LR		13	2274778			0		29	Africa/Monrovia	1995-12-18
+2274818	Nana Kru	Nana Kru		4.83333	-8.71667	A	ADM2	LR		10	2274818			0		10	Africa/Monrovia	1995-12-18
+2274827	Nake	Nake		5	-8.5	A	ADM2	LR		10	2274827			0		104	Africa/Monrovia	1996-03-15
+2275016	Suehn Mecca District	Suehn Mecca District	Mecca,Suehn Mecca,Suehn Mecca District	6.72331	-10.64097	A	ADM2	LR		15	2275016			0		80	Africa/Monrovia	2015-03-09
+2275067	Matro	Matro		5.16667	-8.91667	A	ADM2	LR		10	2275067			0		96	Africa/Monrovia	1996-03-15
+2275179	Mambah Kaba	Mambah Kaba	Kaba,Mamba,Mambah Kaba,Mambah Kaba District	6.26646	-10.51032	A	ADM2	LR		17	2275179			0		10	Africa/Monrovia	2015-03-09
+2275351	Little Wrebo	Little Wrebo		4.61667	-7.66667	A	ADM2	LR		13	2275351			0		40	Africa/Monrovia	1995-12-18
+2275592	Kulu	Kulu	Kra,Kulu	4.99972	-8.83333	A	ADM2	LR		10	2275592			0		41	Africa/Monrovia	2012-01-17
+2275644	Keaple	Keaple	Keaple,Kpeaple	6.66667	-8.5	A	ADM2	LR		09	2275644			0		252	Africa/Monrovia	2012-01-17
+2275728	Konobo	Konobo	Konobo,Konobo District,Niabo	5.85176	-7.88715	A	ADM2	LR		19	2275728			0		205	Africa/Monrovia	2015-03-09
+2275757	Kone	Kone		6.83333	-11.16667	A	ADM2	LR		12	2275757			0		21	Africa/Monrovia	1997-03-06
+2275770	Kongba District	Kongba District	Komga,Komgba,Kongba,Kongba District	7.67325	-10.51118	A	ADM2	LR		21	2275770			0		414	Africa/Monrovia	2015-03-09
+2275814	Kokoyah	Kokoyah	Kokoya,Kokoyah,Kokoyah District	6.53617	-9.56705	A	ADM2	LR		01	2275814			0		208	Africa/Monrovia	2015-03-09
+2275896	Kitabo	Kitabo		5.25	-7.63333	A	ADM2	LR		22	2275896			0		133	Africa/Monrovia	2009-03-30
+2275898	Kisi	Kisi		8.37583	-10.24528	A	ADM2	LR		20	2275898			0		435	Africa/Monrovia	2009-03-30
+2276054	Kambo Hills	Kambo Hills	Kambo Hills,Kamboi Hills	8.12556	-10.42778	A	ADM2	LR		20	2276054			0		512	Africa/Monrovia	2012-01-17
+2276087	Kakata	Kakata		6.62195	-10.19761	A	ADM2	LR		14	2276087			0		106	Africa/Monrovia	2011-02-25
+2276117	Kabor	Kabor		5.25	-9.25	A	ADM2	LR		10	2276117			0		44	Africa/Monrovia	1994-01-06
+2276156	Seekon	Seekon	Juazohn,Seekon,Seekon District,Sikohn	5.68166	-8.68212	A	ADM2	LR		10	2276156			0		176	Africa/Monrovia	2015-03-11
+2276161	Lower Jloh	Lower Jloh	Jroh,Lower Jloh,Lower Jloh District	4.87826	-8.5624	A	ADM2	LR		16	2276161			0		71	Africa/Monrovia	2014-10-01
+2276212	Jorquelleh	Jorquelleh	Jokole,Jorquelleh,Jorquelleh District	6.91126	-9.43248	A	ADM2	LR		01	2276212			80000		262	Africa/Monrovia	2021-01-17
+2276354	Jeetrah	Jeetrah		5.66667	-9	A	ADM2	LR		10	2276354			0		116	Africa/Monrovia	1994-01-06
+2276356	Jeadepo	Jeadepo	Jeadepo,Jeadepo District,Jedepo	5.37094	-8.41084	A	ADM2	LR		10	2276356			0		245	Africa/Monrovia	2014-10-01
+2276367	Jayah	Jayah		6.16667	-10.16667	A	ADM2	LR		11	2276367			0		73	Africa/Monrovia	1994-01-06
+2276555	Guma-Mendi	Guma-Mendi		8	-10.41667	A	ADM2	LR		20	2276555			0		349	Africa/Monrovia	2009-03-30
+2276614	Grawa	Grawa		4.5	-7.85	A	ADM2	LR		13	2276614			0		5	Africa/Monrovia	1995-12-18
+2276626	Grand Cess Wedabo	Grand Cess Wedabo	Grand Cess,Grand Cess Wedabo,Grand Cess Wedabo District,Webado,Wedabo	4.62337	-8.08634	A	ADM2	LR		16	2276626			0		31	Africa/Monrovia	2014-10-01
+2276661	Gola Konneh	Gola Konneh	Gola Konneh,Gola Konneh District,Golakonneh,Gota Kone,Kone	7.1654	-10.90379	A	ADM2	LR		12	2276661			0		121	Africa/Monrovia	2015-03-09
+2276737	Gola	Gola	Gola,Lofa Gola,Lofa Gola Mecca,Mecca	6.71528	-10.91333	A	ADM2	LR		15	2276737			0		39	Africa/Monrovia	2016-08-03
+2276743	Goije	Goije		7.14685	-10.86242	A	ADM2	LR		21	2276743			0		107	Africa/Monrovia	2016-08-03
+2276801	Glio-Twarbo	Glio-Twarbo	Glio-Twabo,Glio-Twarbo,Glio-Twarbo District	5.69612	-7.59527	A	ADM2	LR		19	2276801			0		196	Africa/Monrovia	2014-10-01
+2276816	Glebo	Glebo		4.51667	-7.75	A	ADM2	LR		13	2276816			0		50	Africa/Monrovia	1995-12-18
+2276820	Glarkon	Glarkon		6.16667	-9.91667	A	ADM2	LR		11	2276820			0		102	Africa/Monrovia	1994-01-06
+2276828	Gizima-Ziema	Gizima-Ziema		7.83778	-9.66694	A	ADM2	LR		20	2276828			0		421	Africa/Monrovia	2009-03-30
+2276853	Gibi	Gibi	Gibi,Gibi District	6.57676	-10.01771	A	ADM2	LR		17	2276853			0		116	Africa/Monrovia	2015-03-09
+2276908	Gedetarbo	Gedetarbo		4.56667	-7.61667	A	ADM2	LR		13	2276908			0		39	Africa/Monrovia	1995-12-18
+2276909	Gedabo	Gedabo	Gedabo,Gedebo	4.8	-7.91667	A	ADM2	LR		13	2276909			0		82	Africa/Monrovia	2012-01-17
+2276934	Glaro	Glaro	Gborra,Glaro,Glaro District	5.3947	-7.56658	A	ADM2	LR		22	2276934			0		152	Africa/Monrovia	2015-03-10
+2276973	Gbokole	Gbokole		6.8	-8.58333	A	ADM2	LR		09	2276973			0		300	Africa/Monrovia	1994-01-06
+2276983	Gbobo	Gbobo		6.16667	-8.16667	A	ADM2	LR		19	2276983			0		256	Africa/Monrovia	2009-03-30
+2277003	Gbi and Doru	Gbi and Doru	Gbi and Doru,Gbi and Doru District,Gbi-Doru	6.19349	-8.97456	A	ADM2	LR		09	2277003			0		221	Africa/Monrovia	2015-03-09
+2277011	Gbeta Klepo	Gbeta Klepo		4.7	-8.33333	A	ADM2	LR		13	2277011			0		36	Africa/Monrovia	1995-12-18
+2277028	Gbehlay-Geh	Gbehlay-Geh	Gbehlay-Geh,Gbehlay-Geh District,Gbele-Ge	7.3659	-8.48425	A	ADM2	LR		09	2277028			0		453	Africa/Monrovia	2015-03-09
+2277030	Gbelakpo	Gbelakpo		4.75	-8.08333	A	ADM2	LR		13	2277030			0		99	Africa/Monrovia	1995-12-18
+2277041	Gbeapo District	Gbeapo District	Gbeapo	5.363	-8.039	A	ADM2	LR		22	2277041			0		240	Africa/Monrovia	2012-04-24
+2277043	Gbazohn	Gbazohn	Gbarzon,Gbazohn	6.16667	-8.41667	A	ADM2	LR		19	2277043			0		243	Africa/Monrovia	2016-08-03
+2277061	Gbarlobo	Gbarlobo		4.58333	-7.56667	A	ADM2	LR		13	2277061			0		23	Africa/Monrovia	1995-12-18
+2277082	Gbandi	Gbandi		8.06667	-10.21667	A	ADM2	LR		20	2277082			0		462	Africa/Monrovia	2009-03-30
+2277102	Gbalein Faala	Gbalein Faala		7.45139	-9.58194	A	ADM2	LR		20	2277102			0		286	Africa/Monrovia	2009-03-30
+2277160	Garwula	Garwula	Garwula,Garwula District,Gawula	6.81524	-11.133	A	ADM2	LR		12	2277160			0		36	Africa/Monrovia	2015-03-09
+2277191	Garraway	Garraway	Garawe,Garraway,Garraway District	4.56398	-7.9134	A	ADM2	LR		16	2277191			0		14	Africa/Monrovia	2014-10-01
+2277288	Fuamah	Fuamah	Fuama,Fuamah,Fuamah District	6.94247	-10.274	A	ADM2	LR		01	2277288			0		137	Africa/Monrovia	2015-03-09
+2277306	Trade Town	Trade Town	4B,Four B,Trade Town	5.75056	-9.74972	A	ADM2	LR		11	2277306			0		67	Africa/Monrovia	2012-01-17
+2277359	Flenipo	Flenipo		4.76667	-8.16667	A	ADM2	LR		13	2277359			0		45	Africa/Monrovia	1995-12-18
+2277365	Mowe	Mowe	5B,Five B,Mowe	5.91667	-9.41667	A	ADM2	LR		18	2277365			0		148	Africa/Monrovia	2012-01-17
+2277366	Five A	Five A	5A,Five A	5.66667	-9.41667	A	ADM2	LR		11	2277366			0		90	Africa/Monrovia	2012-01-17
+2277383	Firestone	Firestone	Firestone	4.5	-7.58333	A	ADM2	LR		13	2277383			0		21	Africa/Monrovia	2019-02-21
+2277593	Dorobo	Dorobo		4.75	-7.83333	A	ADM2	LR		13	2277593			0		93	Africa/Monrovia	1995-12-18
+2277769	Ding	Ding		6.66667	-10.53333	A	ADM2	LR		14	2277769			0		87	Africa/Monrovia	2009-03-30
+2277849	Dei	Dei		6.53333	-10.91667	A	ADM2	LR		15	2277849			0		16	Africa/Monrovia	2009-03-30
+2277859	Dedabo	Dedabo	Biabo,Dedabo	4.8	-7.61667	A	ADM2	LR		13	2277859			0		73	Africa/Monrovia	2012-01-17
+2278019	Chedepo	Chedepo	Chedepo,Chedepo District,Chelepo	5.47832	-8.01365	A	ADM2	LR		22	2278019			0		345	Africa/Monrovia	2015-03-10
+2278062	Cavalla	Cavalla		4.38333	-7.58333	A	ADM2	LR		13	2278062			0		10	Africa/Monrovia	1995-12-18
+2278073	Careysburg	Careysburg		6.43496	-10.59056	A	ADM2	LR		14	2278073			0		46	Africa/Monrovia	2015-03-09
+2278080	Campwood	Campwood		6.5	-9.75	A	ADM2	LR		11	2278080			0		177	Africa/Monrovia	1994-01-06
+2278113	Butaw	Butaw	Butaw,Butaw District,Buto	5.13333	-9.08333	A	ADM2	LR		10	2278113			0		48	Africa/Monrovia	2015-03-10
+2278169	Buah	Buah	Bua,Buah,Buah District,Buao	4.84096	-8.16949	A	ADM2	LR		16	2278169			0		79	Africa/Monrovia	2014-10-01
+2278250	Bopolu	Bopolu	Bopolu,Bopolu District	7.14631	-10.42113	A	ADM2	LR		21	2278250			0		413	Africa/Monrovia	2015-03-09
+2278307	Bonde-Wubomai	Bonde-Wubomai	Bonde-Wubomai,Bondi-Wubomai	8.25694	-9.715	A	ADM2	LR		20	2278307			0		533	Africa/Monrovia	2012-01-17
+2278356	Bolobo	Bolobo	Bolobo,Borobo	4.61667	-7.63333	A	ADM2	LR		13	2278356			0		42	Africa/Monrovia	2012-01-17
+2278361	Bolloh District	Bolloh District	Bolloh,Bolloh District,Bolo	4.96473	-8.39801	A	ADM2	LR		16	2278361			0		103	Africa/Monrovia	2014-10-01
+2278379	Bokomu	Bokomu	Bokomu,Bokomu District	7.24136	-10.17378	A	ADM2	LR		21	2278379			0		388	Africa/Monrovia	2015-03-09
+2278611	B’hai District	B'hai District	B'hai,B'hai District,Biai,B’hai,B’hai District	6.38751	-8.48982	A	ADM2	LR		19	2278611			0		301	Africa/Monrovia	2020-06-10
+2278733	Belleh	Belleh	Bella,Belle,Belleh,Belleh District	7.54596	-9.98924	A	ADM2	LR		21	2278733			0		446	Africa/Monrovia	2015-03-09
+2278880	Barobo	Barobo	Barobo,Barrabo,Bawarobo,Bawolobo,Baworobo Chiefdom	5	-7.96667	A	ADM2	LR		13	2278880			0		161	Africa/Monrovia	2016-08-03
+2278890	Barclayville	Barclayville	Barclayville,Barclayville District	4.72704	-8.18442	A	ADM2	LR		16	2278890			0		23	Africa/Monrovia	2014-10-01
+2279133	Doe	Doe	Amalgam - Gio,Do,Doe,Doe District	6.60736	-8.84158	A	ADM2	LR		09	2279133			0		267	Africa/Monrovia	2015-03-09
+2569974	Guma	Guma		8.06139	-10.41389	A	ADM2	LR		20	2569974			0		350	Africa/Monrovia	2009-03-30
+7669284	Suakoko	Suakoko		6.9262	-9.62545	A	ADM2	LR		01	7669284			0		262	Africa/Monrovia	2015-03-09
+7669285	Salala	Salala		6.83978	-9.99623	A	ADM2	LR		01	7669285			0		324	Africa/Monrovia	2015-03-09
+7669286	Sanniquelleh- Mahn	Sanniquelleh- Mahn		7.36043	-8.74008	A	ADM2	LR		09	7669286			0		448	Africa/Monrovia	2011-02-25
+7669292	Topee	Topee	Todee	6.61867	-10.47732	A	ADM2	LR		14	7669292			0		92	Africa/Monrovia	2011-02-25
+7669297	Mambah-Kaba	Mambah-Kaba		6.25422	-10.51896	A	ADM2	LR		14	7669297			0		9	Africa/Monrovia	2011-02-25
+7669298	Greater Monrovia	Greater Monrovia		6.31418	-10.73356	A	ADM2	LR		14	7669298			0		3	Africa/Monrovia	2016-09-16
+7669299	Saclepea-Mah	Saclepea-Mah		6.99591	-8.96914	A	ADM2	LR		09	7669299			0		237	Africa/Monrovia	2011-02-25
+7669300	St. Paul River	St. Paul River		6.43287	-10.72113	A	ADM2	LR		14	7669300			0		25	Africa/Monrovia	2011-02-25
+7669301	District #1	District #1		6.24263	-10.18592	A	ADM2	LR		11	7669301			0		88	Africa/Monrovia	2015-03-09
+7669302	District #2	District #2		6.30016	-9.931	A	ADM2	LR		11	7669302			0		119	Africa/Monrovia	2015-03-09
+7669303	District #3	District #3		6.23302	-9.64126	A	ADM2	LR		11	7669303			0		148	Africa/Monrovia	2015-03-09
+7670839	Firestone	Firestone		6.37708	-10.3636	A	ADM2	LR		17	7670839			0		92	Africa/Monrovia	2015-03-09
+7911025	Robertsport District	Robertsport District		6.69598	-11.2912	A	ADM2	LR		12	7911025			0		11	Africa/Monrovia	2011-08-04
+7911028	Pyneston District	Pyneston District		5.51251	-8.73293	A	ADM2	LR		10	7911028			0		128	Africa/Monrovia	2011-08-04
+8260606	Pleebo/Sodeken District	Pleebo/Sodeken District	Pleebo/Sodeken	4.604	-7.663	A	ADM2	LR		13	8260606			0		63	Africa/Monrovia	2012-04-24
+8714531	Klay District	Klay District		6.69417	-10.87444	A	ADM2	LR		15	8714531			0		44	Africa/Monrovia	2015-03-09
+9295768	Tappita	Tappita		6.45	-8.79	A	ADM2	LR		09	9295768			0		302	Africa/Monrovia	2014-08-12
+9645004	Commonwealth District	Commonwealth District	Commonwealth,Commonwealth District	6.70237	-11.32017	A	ADM2	LR		12	9645004			0		10	Africa/Monrovia	2015-03-09
+9645005	Senjeh District	Senjeh District	Senjeh,Senjeh District	6.85254	-10.88638	A	ADM2	LR		15	9645005			0		62	Africa/Monrovia	2015-03-09
+9645006	Dowein District	Dowein District	Dowein,Dowein District	6.58879	-10.94974	A	ADM2	LR		15	9645006			0		23	Africa/Monrovia	2014-10-05
+9645007	Gounwolaila District	Gounwolaila District	Gounwolaila,Gounwolaila District	7.22691	-9.95311	A	ADM2	LR		21	9645007			0		240	Africa/Monrovia	2014-10-05
+9645008	Gbarma District	Gbarma District	Gbarma,Gbarma District	7.17688	-10.64681	A	ADM2	LR		21	9645008			0		132	Africa/Monrovia	2015-03-09
+9645009	Vahun District	Vahun District	Vahun,Vahun District	8.04665	-10.49068	A	ADM2	LR		20	9645009			0		261	Africa/Monrovia	2015-03-09
+9645106	Foya District	Foya District	Foya,Foya District	8.37031	-10.21993	A	ADM2	LR		20	9645106			0		447	Africa/Monrovia	2015-03-09
+9645107	Kolahun District	Kolahun District	Kolahun,Kolahun District	8.1036	-10.16115	A	ADM2	LR		20	9645107			0		720	Africa/Monrovia	2015-03-09
+9645108	Voinjama District	Voinjama District	Voinjama,Voinjama District	8.25615	-9.84336	A	ADM2	LR		20	9645108			0		646	Africa/Monrovia	2015-03-09
+9645110	Zorzor District	Zorzor District	Zorzor,Zorzor District	7.90228	-9.64904	A	ADM2	LR		20	9645110			0		481	Africa/Monrovia	2014-10-05
+9645111	Salayea District	Salayea District	Salayea,Salayea District	7.45629	-9.56748	A	ADM2	LR		20	9645111			0		342	Africa/Monrovia	2015-03-09
+9645112	Quardu Gboni District	Quardu Gboni District	Quardu Bondi,Quardu Gbondi,Quardu Gboni,Quardu Gboni District	8.36774	-9.61487	A	ADM2	LR		20	9645112			0		546	Africa/Monrovia	2014-10-05
+9645113	Yeallequelleh District	Yeallequelleh District	Yeallequelleh,Yeallequelleh District	6.84139	-9.6896	A	ADM2	LR		01	9645113			0		228	Africa/Monrovia	2014-10-05
+9645114	Kpaai District	Kpaai District	Kpaai,Kpaai District	6.91469	-9.23262	A	ADM2	LR		01	9645114			0		254	Africa/Monrovia	2014-10-05
+9645115	Boinsen District	Boinsen District	Boinsen,Boinsen District	6.69823	-9.23319	A	ADM2	LR		01	9645115			0		234	Africa/Monrovia	2014-10-05
+9645116	Tukpahblee District	Tukpahblee District	Tukpahblee,Tukpahblee District	6.64154	-9.4193	A	ADM2	LR		01	9645116			0		220	Africa/Monrovia	2014-10-05
+9645118	Saint Paul River District	Saint Paul River District	Saint Paul River,Saint Paul River District	6.50524	-10.7347	A	ADM2	LR		14	9645118			0		34	Africa/Monrovia	2014-10-05
+9645120	Commonwealth District	Commonwealth District	Commonwealth,Commonwealth District	6.3901	-10.66741	A	ADM2	LR		14	9645120			0		47	Africa/Monrovia	2014-10-05
+9645122	Owensgrove District	Owensgrove District	Owensgrove,Owensgrove District	6.19737	-10.28389	A	ADM2	LR		11	9645122			0		39	Africa/Monrovia	2015-03-09
+9645125	Saint John River City District	Saint John River City District	Saint John River City,Saint John River City District	6.0587	-10.03274	A	ADM2	LR		11	9645125			0		30	Africa/Monrovia	2015-03-09
+9645126	Neekreen District	Neekreen District	Neekreen,Neekreen District	5.93846	-9.92462	A	ADM2	LR		11	9645126			0		45	Africa/Monrovia	2014-10-05
+9645127	Commonwealth District	Commonwealth District	Commonwealth,Commonwealth District	5.8781	-10.04171	A	ADM2	LR		11	9645127			0		15	Africa/Monrovia	2014-10-05
+9645128	District Number One	District Number One		6.28076	-10.14741	A	ADM2	LR		11	9645128			0		76	Africa/Monrovia	2014-10-05
+9645129	District Number Two	District Number Two	District Number Two	6.40682	-9.86765	A	ADM2	LR		11	9645129			0		147	Africa/Monrovia	2019-02-23
+9645130	District Number Three	District Number Three	District Number Three	6.34282	-9.54571	A	ADM2	LR		11	9645130			0		197	Africa/Monrovia	2019-02-23
+9645131	District Number Four	District Number Four	District Number Four	5.9307	-9.73286	A	ADM2	LR		11	9645131			0		78	Africa/Monrovia	2019-02-23
+9645132	Wee-Gbehy-Mahn	Wee-Gbehy-Mahn	Wee-Gbehy-Mahn,Wee-Gbehy-Mahn District,Wee-Gbehyi-Mahn	6.90538	-8.86175	A	ADM2	LR		09	9645132			0		244	Africa/Monrovia	2015-03-09
+9645133	Kparblee District	Kparblee District	Kparblee,Kparblee District	6.66222	-8.5314	A	ADM2	LR		09	9645133			0		253	Africa/Monrovia	2015-03-09
+9645134	Boe and Quilla District	Boe and Quilla District	Boe and Quilla,Boe and Quilla District	6.80693	-8.64765	A	ADM2	LR		09	9645134			0		290	Africa/Monrovia	2015-03-09
+9645135	Buu-Yao District	Buu-Yao District	Buu-Yao,Buu-Yao District	6.92851	-8.45905	A	ADM2	LR		09	9645135			0		275	Africa/Monrovia	2015-03-09
+9645136	Zoe-Gbao District	Zoe-Gbao District	Zoe-Gbao,Zoe-Gbao District	7.03052	-8.71941	A	ADM2	LR		09	9645136			0		329	Africa/Monrovia	2015-03-09
+9645137	Gbor District	Gbor District	Gbor,Gbor District	7.11295	-8.70814	A	ADM2	LR		09	9645137			0		274	Africa/Monrovia	2015-03-09
+9645138	Leewehpea-Mahn District	Leewehpea-Mahn District	Leewehpea-Mahn,Leewehpea-Mahn District	7.07322	-8.90326	A	ADM2	LR		09	9645138			0		240	Africa/Monrovia	2015-03-09
+9645139	Meinpea-Mahn District	Meinpea-Mahn District	Meinpea-Mahn,Meinpea-Mahn District	7.01806	-9.06221	A	ADM2	LR		09	9645139			0		263	Africa/Monrovia	2015-03-09
+9645140	Garr-Bain District	Garr-Bain District	Garr-Bain,Garr-Bain District	7.21437	-8.92224	A	ADM2	LR		09	9645140			0		272	Africa/Monrovia	2015-03-09
+9645141	Twan River District	Twan River District	Twan River,Twan River District	7.14557	-8.43888	A	ADM2	LR		09	9645141			0		309	Africa/Monrovia	2015-03-09
+9645142	Yarpea Mahn District	Yarpea Mahn District	Yarpea Mahn,Yarpea Mahn District	7.22327	-8.6856	A	ADM2	LR		09	9645142			0		407	Africa/Monrovia	2015-03-09
+9645143	Yarmein District	Yarmein District	Yarmein,Yarmein District	7.572	-8.61621	A	ADM2	LR		09	9645143			0		535	Africa/Monrovia	2015-03-09
+9645144	Doedain District	Doedain District	Doedain,Doedain District	6.26194	-9.24521	A	ADM2	LR		18	9645144			0		248	Africa/Monrovia	2015-03-10
+9645145	Jo River District	Jo River District	Jo River,Jo River District	6.04958	-9.4537	A	ADM2	LR		18	9645145			0		184	Africa/Monrovia	2015-03-10
+9645146	Norwein District	Norwein District	Norwein,Norwein District	5.85079	-9.59915	A	ADM2	LR		18	9645146			0		72	Africa/Monrovia	2015-03-10
+9645147	Central River Cess District	Central River Cess District	Central River Cess,Central River Cess District,Central Rivercess	5.81006	-9.31794	A	ADM2	LR		18	9645147			0		137	Africa/Monrovia	2015-03-10
+9645148	Fen River District	Fen River District	Fen River,Fen River District	5.61806	-9.64473	A	ADM2	LR		18	9645148			0		70	Africa/Monrovia	2015-03-10
+9645149	Zarflahn District	Zarflahn District	Zarflahn,Zarflahn District	5.55697	-9.55358	A	ADM2	LR		18	9645149			0		81	Africa/Monrovia	2015-03-10
+9645150	Beawor District	Beawor District	Beawor,Beawor District	5.57346	-9.31309	A	ADM2	LR		18	9645150			0		76	Africa/Monrovia	2014-10-05
+9645151	Sam Gbalor District	Sam Gbalor District	Sam Gbalor,Sam Gbalor District	5.40861	-9.4217	A	ADM2	LR		18	9645151			0		47	Africa/Monrovia	2015-03-10
+9645153	Gboe-Ploe District	Gboe-Ploe District	Gboe-Ploe,Gboe-Ploe District	6.01709	-8.79236	A	ADM2	LR		19	9645153			0		179	Africa/Monrovia	2014-10-05
+9645154	Gbao District	Gbao District	Gbao,Gbao District	6.07333	-8.50436	A	ADM2	LR		19	9645154			0		277	Africa/Monrovia	2014-10-05
+9645155	Cavala District	Cavala District	Cavala,Cavala District	6.11018	-8.23964	A	ADM2	LR		19	9645155			0		250	Africa/Monrovia	2014-10-05
+9645156	Kulu Shaw Boe District	Kulu Shaw Boe District	Kulu Shaw Boe,Kulu Shaw Boe District	5.57144	-9.009	A	ADM2	LR		10	9645156			0		91	Africa/Monrovia	2015-03-10
+9645157	Plahn Nyarn District	Plahn Nyarn District	Plahn Nyarn,Plahn Nyarn District	5.31583	-9.02087	A	ADM2	LR		10	9645157			0		108	Africa/Monrovia	2015-03-10
+9645158	Juarzon District	Juarzon District	Juarzon,Juarzon District	5.33056	-8.91968	A	ADM2	LR		10	9645158			0		141	Africa/Monrovia	2015-03-10
+9645160	Pynes Town District	Pynes Town District	Pynes Town,Pynes Town District	5.56621	-8.55337	A	ADM2	LR		10	9645160			0		160	Africa/Monrovia	2015-03-11
+9645161	Wedjah District	Wedjah District	Wedjah,Wedjah District	5.29825	-8.81943	A	ADM2	LR		10	9645161			0		126	Africa/Monrovia	2015-03-11
+9645162	Greenville District	Greenville District	Greenville,Greenville District	5.05785	-9.04653	A	ADM2	LR		10	9645162			0		25	Africa/Monrovia	2015-03-10
+9645163	Kpayan District	Kpayan District	Kpayan,Kpayan District	5.12817	-8.82608	A	ADM2	LR		10	9645163			0		96	Africa/Monrovia	2015-03-10
+9645164	Dugbe River District	Dugbe River District	Dugbe River,Dugbe River District	4.98753	-8.72821	A	ADM2	LR		10	9645164			0		57	Africa/Monrovia	2015-03-10
+9645165	Bokon District	Bokon District	Bokon,Bokon District	5.02649	-8.4745	A	ADM2	LR		10	9645165			0		91	Africa/Monrovia	2015-03-10
+9645166	Jaedae District	Jaedae District	Jaedae,Jaedae District	5.11201	-8.51726	A	ADM2	LR		10	9645166			0		85	Africa/Monrovia	2015-03-10
+9645167	Bodae District	Bodae District	Bodae,Bodae District	5.13577	-8.33387	A	ADM2	LR		10	9645167			0		107	Africa/Monrovia	2015-03-10
+9645168	Sanquin District Number One	Sanquin District Number One	Sanquin District Number One,Sanquin One	5.50825	-9.21282	A	ADM2	LR		10	9645168			0		54	Africa/Monrovia	2015-03-11
+9645169	Sanquin District Number Two	Sanquin District Number Two	Sanquin District Number Two,Sanquin Two	5.22699	-9.17909	A	ADM2	LR		10	9645169			0		47	Africa/Monrovia	2015-03-11
+9645170	Sanquin District Number Three	Sanquin District Number Three	Sanquin District Number Three,Sanquin Three	5.31203	-9.30451	A	ADM2	LR		10	9645170			0		40	Africa/Monrovia	2015-03-11
+9645171	Karforh District	Karforh District	Karforh,Karforh District	5.28875	-8.14335	A	ADM2	LR		22	9645171			0		225	Africa/Monrovia	2015-03-10
+9645172	Nanee District	Nanee District	Nanee,Nanee District	5.17472	-8.14383	A	ADM2	LR		22	9645172			0		251	Africa/Monrovia	2015-03-10
+9645173	Nyenawliken District	Nyenawliken District	Nyenawliken,Nyenawliken District	5.14622	-7.98087	A	ADM2	LR		22	9645173			0		267	Africa/Monrovia	2015-03-10
+9645174	Potupo District	Potupo District	Potupo,Potupo District	5.35051	-7.81078	A	ADM2	LR		22	9645174			0		215	Africa/Monrovia	2015-03-10
+9645175	Nyenebo District	Nyenebo District	Nyenebo,Nyenebo District	4.92577	-7.71006	A	ADM2	LR		22	9645175			0		101	Africa/Monrovia	2015-03-10
+9645219	Forpoh District	Forpoh District	Forpoh,Forpoh District	5.11111	-8.237	A	ADM2	LR		16	9645219			0		156	Africa/Monrovia	2014-10-05
+9645220	Wlogba District	Wlogba District	Wlogba,Wlogba District	5.08166	-8.17601	A	ADM2	LR		16	9645220			0		102	Africa/Monrovia	2014-10-05
+9645221	Dweh District	Dweh District	Dweh,Dweh District	5.07072	-8.06874	A	ADM2	LR		16	9645221			0		192	Africa/Monrovia	2014-10-05
+9645222	Kpi District	Kpi District	Kpi,Kpi District	5.01309	-8.14151	A	ADM2	LR		16	9645222			0		102	Africa/Monrovia	2014-10-05
+9645223	Dorbor District	Dorbor District	Dorbor,Dorbor District	4.99377	-8.28102	A	ADM2	LR		16	9645223			0		107	Africa/Monrovia	2014-12-04
+9645224	Fenetoe District	Fenetoe District	Fenetoe,Fenetoe District	4.90498	-8.37372	A	ADM2	LR		16	9645224			0		54	Africa/Monrovia	2014-10-05
+9645225	Upper Jloh District	Upper Jloh District	Upper Jloh,Upper Jloh District	4.82	-8.46837	A	ADM2	LR		16	9645225			0		54	Africa/Monrovia	2014-10-05
+9645226	Nrokwia-Wesldow District	Nrokwia-Wesldow District	Nrokwia-Wesldow,Nrokwia-Wesldow District	4.83094	-8.32619	A	ADM2	LR		16	9645226			0		65	Africa/Monrovia	2014-10-05
+9645227	Felo-Jekwi District	Felo-Jekwi District	Felo-Jekwi,Felo-Jekwi District	4.72577	-8.3834	A	ADM2	LR		16	9645227			0		34	Africa/Monrovia	2014-10-05
+9645228	Bleebo District	Bleebo District	Bleebo,Bleebo District	4.7548	-7.95558	A	ADM2	LR		16	9645228			0		38	Africa/Monrovia	2014-10-05
+9645229	Trenbo District	Trenbo District	Trenbo,Trenbo District	4.70179	-7.87355	A	ADM2	LR		16	9645229			0		63	Africa/Monrovia	2014-10-05
+9645230	Whojah District	Whojah District	Whojah,Whojah District	4.95441	-8.01994	A	ADM2	LR		13	9645230			0		122	Africa/Monrovia	2014-10-05
+9645231	Gwelekpoken District	Gwelekpoken District	Gwelekpoken,Gwelekpoken District	4.94515	-7.93665	A	ADM2	LR		13	9645231			0		135	Africa/Monrovia	2014-10-05
+9645232	Nyorken District	Nyorken District	Nyorken,Nyorken District	5.00867	-7.86808	A	ADM2	LR		13	9645232			0		148	Africa/Monrovia	2014-10-05
+9645233	Karluway Number One District	Karluway Number One District	Karluway Number One,Karluway Number One District	4.81979	-7.7444	A	ADM2	LR		13	9645233			0		112	Africa/Monrovia	2014-10-05
+9645234	Karluway Number Two District	Karluway Number Two District	Karluway Number Two,Karluway Number Two District	4.69359	-7.69056	A	ADM2	LR		13	9645234			0		92	Africa/Monrovia	2014-10-05
+13423958	Gee District	Gee District	Gee,Gee District	4.94074	-8.15708	A	ADM2	LR		16	13423958			0		151	Africa/Monrovia	2025-07-17

@@ -1,0 +1,45 @@
+﻿1222597	Leylekskiy Rayon	Leylekskiy Rayon	Lailak Rayon,Leilek Rayon,Lejlekskij,Lejlekskij Rajon,Leylek Rayon,Leylekskiy Rayon,Leyleyskiy Rayon,Lyaylyakskiy Rayon,Лейлекский,Лейлекский Район	39.83333	69.75	A	ADM2	KG		09	1222597			146020		1518	Asia/Bishkek	2022-03-13
+1222671	Kadamjaiskiy Raion	Kadamjaiskiy Raion	Frunzenskiy Rayon,Kadamdzhayskiy Rayon,Kadamjay Rayony,Kadamzhaj rajonu,Kadamzhajskij,Kadamzhayskiy Rayon,Khalmionskiy Rayon,Кадамжай району,Кадамжайский	40	71.58333	A	ADM2	KG		09	1222671			0		1952	Asia/Bishkek	2015-06-14
+1222703	Batkenskiy Rayon	Batkenskiy Rayon	Batken Rayon,Batkenskij,Batkenskij Rajon,Batkenskiy Rayon,Баткенский,Баткенский Район	39.75	71	A	ADM2	KG		09	1222703			91983		1649	Asia/Bishkek	2022-03-13
+1527194	Toktogul District	Toktogul District	Ketmen'-Tyubinskiy Rayon,Ketmen’-Tyubinskiy Rayon,Toktogul District,Toktogul'skij,Toktogul'skij rajon,Toktogul'skiy Rayon,Toktogul’skiy Rayon,Токтогульский,Токтогульский район	41.75	73	A	ADM2	KG		03	1527194			103310		1900	Asia/Bishkek	2022-03-13
+1527296	Talasskiy Rayon	Talasskiy Rayon	Talas,Talasskij,Talasskij Rajon,Talasskij rajon,Talasskiy Rayon,Таласский,Таласский Район,Таласский район	42.18647	72.69408	A	ADM2	KG		06	1527296			70642		3022	Asia/Bishkek	2022-03-13
+1527315	Sverdlovskiy Rayon	Sverdlovskiy Rayon	Sverdlovskij,Свердловский	42.90276	74.60013	A	ADM2	KG		01	1527315			0		716	Asia/Bishkek	2015-06-14
+1527358	Sokulukskiy Rayon	Sokulukskiy Rayon	Kaganovichskiy Rayon,Sokuluk,Sokulukskij,Sokulukskij Rajon,Sokulukskiy Rayon,Сокулук,Сокулукский,Сокулукский Район	42.83333	74.33333	A	ADM2	KG		02	1527358			30540		787	Asia/Bishkek	2022-03-13
+1527506	Pervomayskiy Rayon	Pervomayskiy Rayon	Pervomajskij,Pervomajskij Rajon,Pervomajskij rajon,Pervomayskiy District,Pervomayskiy Rayon,Первомайский,Первомайский Район,Первомайский район	42.88704	74.58213	A	ADM2	KG		01	1527506			0		735	Asia/Bishkek	2015-06-14
+1527509	Panfilovskiy Rayon	Panfilovskiy Rayon	Panfilov,Panfilovskij,Panfilovskij Rajon,Panfilovskiy Rayon,Панфиловский,Панфиловский Район	42.81667	73.68333	A	ADM2	KG		02	1527509			47938		745	Asia/Bishkek	2022-03-13
+1527686	Leninskiy Rayon	Leninskiy Rayon	Leninskij,Leninskij Rajon,Leninskiy District,Leninskiy Rayon,Ленинский,Ленинский Район	42.85491	74.58405	A	ADM2	KG		01	1527686			0		791	Asia/Bishkek	2015-06-14
+1527687	Bakay-Atinskiy Rayon	Bakay-Atinskiy Rayon	Bakaj-Atinskij,Bakaj-Atinskij Rajon,Bakay-Ata,Bakay-Atinskiy Rayon,Leninpol'skiy Rayon,Leninpol’skiy Rayon,Бакай-Атинский,Бакай-Атинский Район	42.48333	71.91667	A	ADM2	KG		06	1527687			7928		1230	Asia/Bishkek	2022-03-13
+1527920	Kara-Buurinskiy Rayon	Kara-Buurinskiy Rayon	Kara-Buura,Kara-Buurinskij,Kara-Buurinskij Rajon,Kara-Buurinskiy Rayon,Kirovskiy Rayon,Кара-Бууринский,Кара-Бууринский Район	42.5	71.41667	A	ADM2	KG		06	1527920			69180		1580	Asia/Bishkek	2022-03-13
+1527974	Keminskiy Rayon	Keminskiy Rayon	Kemin,Keminskij,Keminskij Rajon,Keminskij rajon,Keminskiy Rayon,Кеминский,Кеминский Район,Кеминский район	42.83349	76.3326	A	ADM2	KG		02	1527974			48360		3333	Asia/Bishkek	2022-03-13
+1528261	Ysyk-Ata	Ysyk-Ata	Issyk-Atinskiy Rayon,Ysyk-Ata,Ysyk-Atinskiy Rayon,ysyk-Atinskij,ysyk-Atinskij Rajon,Ысык-Атинский,Ысык-Атинский Район	42.72665	75.07444	A	ADM2	KG		02	1528261			154340		1073	Asia/Bishkek	2022-03-13
+1528472	Chuyskiy Rayon	Chuyskiy Rayon	Chujskij,Chujskij Rajon,Chuy,Chuyskiy Rayon,Chüy,Чуйский,Чуйский Район	42.66667	75.33333	A	ADM2	KG		02	1528472			54622		1493	Asia/Bishkek	2022-03-13
+1528867	Alamudunskiy Rayon	Alamudunskiy Rayon	Alamedinskiy Rayon,Alamudun,Alamudunskij,Alamudunskij Rajon,Alamudunskij rajon,Alamudunskiy Rayon,Alamüdün,Аламудунский,Аламудунский Район,Аламудунский район	42.81985	74.59398	A	ADM2	KG		02	1528867			188484		883	Asia/Bishkek	2022-03-13
+7649245	Ak-Tala	Ak-Tala	Ak-Talaa,Ak-Talinskij,Ak-Talinskij rajon,Ak-talaa rajonu,Ак-Талинский,Ак-Талинский район,Ак-талаа району	41.06275	74.78052	A	ADM2	KG		04	7649245			33007		2674	Asia/Bishkek	2022-03-13
+7654212	Jumgal	Jumgal	Zhumgal'skij,Zhumgal'skij rajon,Жумгальский,Жумгальский район	41.94924	74.40566	A	ADM2	KG		04	7654212			44866		1951	Asia/Bishkek	2022-03-13
+7667441	Moskovsky Raion	Moskovsky Raion	Moskovskij,Moskovskij rajon,Московский,Московский район	42.74457	74.12591	A	ADM2	KG		02	7667441			103007		1174	Asia/Bishkek	2022-03-13
+7667445	Uzgen District	Uzgen District	OEzgoen,OEzgoen Ilcesi,OEzgoen Rayonu,Uzgen District,Uzgenskij,Uzgenskij rajon,Uzgensky Raion,Özgön,Özgön Rayonu,Özgön İlçesi,Узгенский,Узгенский район	40.55	73.3	A	ADM2	KG		08	7667445			282981		2189	Asia/Bishkek	2024-09-24
+7910403	Aravan	Aravan	Aravan,Aravanskij,Aravanskij rajon,Араван,Араванский,Араванский район	40.459	72.52	A	ADM2	KG		08	7910403			32917		977	Asia/Bishkek	2022-03-13
+7910404	Kara-Suu	Kara-Suu	Kara-Suuskij,Kara-Suuskij rajon,Кара-Сууский,Кара-Сууский район	40.37	73.08	A	ADM2	KG		08	7910404			26609		2083	Asia/Bishkek	2022-03-13
+7910405	Nookat	Nookat	Eski-Nookat,Iski-Naukat,Naukat,Nookat,Nookatskij,Nookatskij rajon,Ноокат,Ноокатский,Ноокатский район	40.07	72.68	A	ADM2	KG		08	7910405			18228		3858	Asia/Bishkek	2023-07-08
+7910407	Suzak	Suzak	Suzakskij rajon,Сузакский район	41.08	73.28	A	ADM2	KG		03	7910407			30534		1877	Asia/Bishkek	2022-03-13
+8046904	Tüp	Tuep	Tjupskij,Tүp,Tүp rajonu,Тюпский,Түп,Түп району	42.79274	78.5313	A	ADM2	KG		07	8046904			65169		1754	Asia/Bishkek	2022-03-13
+8139375	Aksy	Aksy	Aksy,Aksyjskij,Aksyjskij Rajon,Aksyyskiy Rayon,Аксыйский,Аксыйский Район	41.49634	71.9975	A	ADM2	KG		03	8139375			137103		1922	Asia/Bishkek	2022-03-13
+8139376	Chatkal	Chatkal	Chatkal,Chatkal'skij,Chatkal'skij Rajon,Chatkal'skiy Rayon,Chatkal’skiy Rayon,Чаткальский,Чаткальский Район	41.87043	71.00866	A	ADM2	KG		03	8139376			28625		3095	Asia/Bishkek	2022-03-13
+8220960	Oktyabr’skiy Rayon	Oktyabr'skiy Rayon	Oktjabr'skij,Oktjabr'skij Rajon,Oktyabr'skiy District,Oktyabr'skiy Rayon,Oktyabr’skiy District,Oktyabr’skiy Rayon,Октябрьский,Октябрьский Район	42.85961	74.62033	A	ADM2	KG		01	8220960			0		793	Asia/Bishkek	2015-06-14
+8308862	Tong	Tong	Tong,Tonskij,Тонский	42.09757	76.57973	A	ADM2	KG		07	8308862			53401		2041	Asia/Bishkek	2022-03-13
+8357767	Ysyk-Köl	Ysyk-Koel	Issyk-Kul'skij,Issyk-Kul'skij Rajon,Issyk-Kul'skiy Rayon,Issyk-Kul’skiy Rayon,Ysyk-Kol,Ysyk-Köl,Иссык-Кульский,Иссык-Кульский Район	42.70959	77.18344	A	ADM2	KG		07	8357767			84876		2031	Asia/Bishkek	2022-03-13
+8537999	Ak-Suu	Ak-Suu	Ak-Sujskij,Ak-Sujskij rajon,Ak-Suu,Ак-Суйский,Ак-Суйский район	42.19937	78.99135	A	ADM2	KG		07	8537999			69439		2862	Asia/Bishkek	2022-03-13
+8739737	Jaiyl	Jaiyl	Zhajylskij,Жайылский	42.74613	73.79485	A	ADM2	KG		02	8739737			112211		898	Asia/Bishkek	2022-03-14
+8739771	Alay District	Alay District	Alajskij,Alajskij rajon,Алайский,Алайский район	39.85863	73.55941	A	ADM2	KG		08	8739771			87398		4127	Asia/Bishkek	2022-03-13
+9165129	Kara Kulja	Kara Kulja	Kara-Kulzhinskij,Kara-Kulzhinskij rajon,Kara-kulzha rajonu,Кара-Кулжинский,Кара-Кулжинский район,Кара-кулжа району	40.64095	73.49411	A	ADM2	KG		08	9165129			100320		1529	Asia/Bishkek	2022-03-13
+9165680	Bazar-Korgon	Bazar-Korgon	Bazar-Korgonskij,Bazar-Korgonskij rajon,Bazar-Korgonskiy Raion,Базар-Коргонский,Базар-Коргонский район	41.02806	72.74361	A	ADM2	KG		03	9165680			183908		728	Asia/Bishkek	2022-03-13
+9165682	Ala-Buka	Ala-Buka	Ala-Bukinskij,Ала-Букинский	41.40806	71.46306	A	ADM2	KG		03	9165682			108647		1220	Asia/Bishkek	2022-03-13
+9165683	Nooken	Nooken	Nookenskij,Nookenskij rajon,Nookenskiy Raion,Ноокенский,Ноокенский район	41.062	72.6321	A	ADM2	KG		03	9165683			145187		692	Asia/Bishkek	2022-03-13
+9165692	Manas	Manas	Manasskij,Manasskij rajon,Манасский,Манасский район	42.72306	71.6	A	ADM2	KG		06	9165692			37505		781	Asia/Bishkek	2022-03-13
+9165773	Kochkor	Kochkor	Kochkorskij,Kochkorskij rajon,Кочкорский,Кочкорский район	42.21667	75.75	A	ADM2	KG		04	9165773			67363		1805	Asia/Bishkek	2022-03-13
+9165774	At-Bashi	At-Bashi	At-Bashynskij,At-Bashynskij rajon,Ат-Башынский,Ат-Башынский район	41.16667	75.8	A	ADM2	KG		04	9165774			14655		2048	Asia/Bishkek	2022-03-13
+9165780	Kazarman	Kazarman	Kazarman,Toguz-Torouskij,Toguz-Torouskij rajon,Казарман,Тогуз-Тороуский,Тогуз-Тороуский район	41.405	74.037	A	ADM2	KG		03	9165780			25497	1310	1273	Asia/Bishkek	2022-03-13
+9192641	Chong-Alay District	Chong-Alay District	Chon-Alajskij Rajon,Chon-Alayskiy Rayon,Chong-Alay,Chong-Alay District,Чон-Алайский Район	39.47614	72.33017	A	ADM2	KG		08	9192641			32140		2781	Asia/Bishkek	2022-03-13
+10237012	Jeti-Oguz District	Jeti-Oguz District	Jety-OEguez,Jety-Ögüz,Zheti-Oguzskij,Жети-Огузский	42.3396	78.0017	A	ADM2	KG		07	10237012			93392		1748	Asia/Bishkek	2022-03-14
+10237161	Naryn District	Naryn District	Narynskij,Narynskij rajon,Нарынский,Нарынский район	41.43333	76	A	ADM2	KG		04	10237161			0		2046	Asia/Bishkek	2015-06-14
+10291336	Tokmok District	Tokmok District		42.84199	75.2978	A	ADM2	KG		02	10291336			0		820	Asia/Bishkek	2015-05-28

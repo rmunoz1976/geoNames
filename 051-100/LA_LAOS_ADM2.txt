@@ -1,0 +1,148 @@
+﻿1651946	Muang Houayxay	Muang Houayxay	Bokeo,Houay Xay,Houay Xay District,Houei Sai,Muang Houayxay	20.38763	100.62687	A	ADM2	LA		22	0501			0		500	Asia/Vientiane	2017-06-03
+1652070	Muang Ngeun	Muang Ngeun	Muang Ngeun,Muang Xiang-Ngeun,Muang Xieng Ngeum,Muang Xieng Ngeun,Ngeun	19.72046	101.13548	A	ADM2	LA		13	0804			0		841	Asia/Vientiane	2017-06-03
+1652080	Muang Xiengkhor	Muang Xiengkhor	Muang Kho,Muang Xiangkho,Xieng Kho,Xiengkho,Xiengkho District	20.81667	104.15	A	ADM2	LA		03	0702			0		249	Asia/Vientiane	2017-06-03
+1652081	Muang Xianghon	Muang Xianghon	Muang Xianghon,Xieng Hone,Xienghone district	19.70479	100.83458	A	ADM2	LA		13	0805			0		833	Asia/Vientiane	2017-06-03
+1652095	Muang Xépôn	Muang Xepon	Muang Xepon,Muang Xépôn,Seponh,Seponh District,Tchepone	16.76113	106.33757	A	ADM2	LA		20	1305			0		425	Asia/Vientiane	2020-06-10
+1652132	Muang Xai	Muang Xai	Muang Oudomxai,Muang Oudômxai,Muang Xai,Muongsai,Say,Xay District	20.66447	101.95554	A	ADM2	LA		07	0401			0		698	Asia/Vientiane	2017-06-03
+1652209	Muang Xaignabouli	Muang Xaignabouli	Muang Xaignabouli,Muang Xaignabouri,Muang Xaiyabury,Sayaboury	19.3229	101.59536	A	ADM2	LA		13	0801			0		378	Asia/Vientiane	2017-06-03
+1652275	Muang Vapi	Muang Vapi	Muang Vapi,Vapy,Vapy District,Wapi	15.75005	105.95529	A	ADM2	LA		19	1405			0		158	Asia/Vientiane	2017-06-03
+1652280	Muang Vangviang	Muang Vangviang	Muang Vangviang,Vang Vieng	18.91292	102.45908	A	ADM2	LA		27	1005			0		238	Asia/Vientiane	2017-06-03
+1652341	Muang Thoulakhôm	Muang Thoulakhom	Muang Thoulakhom,Muang Thoulakhôm,Muang Tourakom,Thourakhom	18.36766	102.69641	A	ADM2	LA		27	1002			0		200	Asia/Vientiane	2020-06-10
+1652593	Muang Thathôm	Muang Thathom		19.0013	103.61572	A	ADM2	LA		28	1802			0		323	Asia/Vientiane	2017-06-03
+1652594	Muang Thatèng	Muang Thateng	Muang Thateng,Muang Thatèng,Tha Teng,Tha Teng District	15.42745	106.48149	A	ADM2	LA		26	1504			0		612	Asia/Vientiane	2017-06-03
+1652935	Muang Ta-Ôy	Muang Ta-Oy	Muang Ta oy,Muang Ta-Oy,Muang Ta-Ôy,Muang Tahoi,Ta Oi	16.07765	106.70304	A	ADM2	LA		19	1402			0		617	Asia/Vientiane	2020-06-10
+1653008	Muang Soukhouma	Muang Soukhouma	Muang Soukhouma,Soukhoumma,Soukhoumma District	14.6256	105.6752	A	ADM2	LA		02	1608			0		117	Asia/Vientiane	2017-06-03
+1653070	Muang Songkhon	Muang Songkhon	Muang Songkhon,Songkhone,Songkhone District	16.17116	105.30729	A	ADM2	LA		20	1308			0		139	Asia/Vientiane	2017-06-03
+1653142	Muang Sing	Muang Sing	Muang Sing,Mueang Sing,Muongsing	21.26178	101.10913	A	ADM2	LA		16	0302			0		892	Asia/Vientiane	2017-06-03
+1653304	Muang Hatxayfong	Muang Hatxayfong	Hadxaifong,Muang Hatxayfong,Muang Say Fong	17.91965	102.74388	A	ADM2	LA		24	0107			0		177	Asia/Vientiane	2017-06-06
+1653332	Muang Saravan	Muang Saravan	Muang Salavan,Muang Saravan,Saravane,Saravane District	15.71587	106.36158	A	ADM2	LA		19	1401			0		188	Asia/Vientiane	2017-06-03
+1653886	Muang Phônthong	Muang Phonthong	Muang Phonthong,Muang Phônthong,Phonthong,Phonthong District	15.10669	105.6489	A	ADM2	LA		02	1606			0		104	Asia/Vientiane	2017-06-03
+1653888	Muang Phôn-Hông	Muang Phon-Hong	Muang Na Xou,Muang Phon-Hong,Muang Phôn-Hông,Phone Hong	18.41242	102.38488	A	ADM2	LA		27	1001			0		214	Asia/Vientiane	2020-06-10
+1653892	Muang Phôngsali	Muang Phongsali	Muang Phongsali,Muang Phôngsali,Phong Saly,Phongsaly,Phongsaly District	21.86402	102.20075	A	ADM2	LA		18	0201			0		750	Asia/Vientiane	2020-06-10
+1653916	Muang Phin	Muang Phin	Muang Phin,Phine,Phine District	16.44316	106.03019	A	ADM2	LA		20	1304			0		335	Asia/Vientiane	2017-06-03
+1654248	Muang Pèk	Muang Pek	Muang Pek,Muang Pèk,Pek,Pek District	19.51372	103.27385	A	ADM2	LA		14	0901			0		1180	Asia/Vientiane	2017-06-03
+1654276	Muang Pathoumphon	Muang Pathoumphon	Muang Pathoumphon,Muang Pathoumphone,Pathouphone,Pathouphone District	14.68453	106.06357	A	ADM2	LA		02	1605			0		222	Asia/Vientiane	2017-06-03
+1654374	Muang Pakxong	Muang Pakxong	Muang Pakxong,Paksong,Paksong District	15.0981	106.43398	A	ADM2	LA		02	1604			0		987	Asia/Vientiane	2017-06-03
+1654378	Muang Pakxé	Muang Pakxe	Muang Pakse,Muang Paksé,Muang Pakxe,Muang Pakxé,Pak Se,Pak Se District,Pak Sé,Pak Sé District	15.13139	105.81612	A	ADM2	LA		02	1601			0		100	Asia/Vientiane	2017-06-03
+1654385	Muang Paktha	Muang Paktha	Muang Paktha,Pak Tha,Pak Tha District	20.09108	100.5994	A	ADM2	LA		22	0505			0		441	Asia/Vientiane	2017-12-26
+1654392	Muang Pak-Ou	Muang Pak-Ou	Muang Pak-Ou,Pak Ou,Pak Ou District	20.16711	102.326	A	ADM2	LA		17	0604			0		452	Asia/Vientiane	2017-06-03
+1654398	Muang Paklay	Muang Paklay		18.39471	101.50389	A	ADM2	LA		13	0807			0		265	Asia/Vientiane	2017-06-03
+1654415	Muang Pakkading	Muang Pakkading	Muang Pakchao,Muang Pakkading,Pakkading,Pakkading District	18.28749	104.1846	A	ADM2	LA		23	1103			0		181	Asia/Vientiane	2017-06-03
+1654418	Muang Pakbèng	Muang Pakbeng	Muang Pakbeng,Muang Pakbèng,Pak Beng,Pak Beng District	19.93573	101.06482	A	ADM2	LA		07	0407			0		552	Asia/Vientiane	2017-06-03
+1654616	Muang Nong	Muang Nong	Muang Nong,Nong,Nong District	16.38458	106.50419	A	ADM2	LA		20	1306			0		285	Asia/Vientiane	2017-06-03
+1654686	Muang Ngoy	Muang Ngoy	Muang Ngoy,Ngoi,Ngoy District	20.73393	102.7515	A	ADM2	LA		17	0606			0		625	Asia/Vientiane	2017-06-03
+1654833	Muang Nan	Muang Nan	Muang Nan,Nane,Nane District	19.40005	101.94556	A	ADM2	LA		17	0603			0		642	Asia/Vientiane	2017-06-03
+1654902	Muang Namo	Muang Namo	Muang Namo,Na Mo,Na Mo District	20.89077	101.72765	A	ADM2	LA		07	0403			0		607	Asia/Vientiane	2017-06-03
+1654981	Muang Nambak	Muang Nambak	Muang Nambak,Nam Bak,Nam Bak District	20.61018	102.39686	A	ADM2	LA		17	0605			0		584	Asia/Vientiane	2017-06-03
+1655243	Muang Mounlapamôk	Muang Mounlapamok	Mounlapamok,Mounlapamok District,Muang Mounlapamok,Muang Mounlapamôk	14.28922	105.56832	A	ADM2	LA		02	1609			0		120	Asia/Vientiane	2017-06-03
+1655320	Muang Mok	Muang Mok	Mok May District,Muang Mok-Mai	18.91667	104.01667	A	ADM2	LA		14	0905			0		1080	Asia/Vientiane	2018-06-13
+1655492	Muang Mahaxai	Muang Mahaxai	Mahaxay,Mahaxay District,Muang Mahaxai	17.36317	105.31497	A	ADM2	LA		15	1202			0		167	Asia/Vientiane	2017-06-03
+1655557	Muang Louangphabang	Muang Louangphabang	Luang Prabang,Luang Prabang District,Muang Louangphabang,Muang Louangphrabang	19.8226	102.15214	A	ADM2	LA		17	0601			0		1263	Asia/Vientiane	2017-06-03
+1655560	Muang Louang Namtha	Muang Louang Namtha	Luang Nam Tha,Luang Namtha,Muang Louang Namtha,Muang Luong Namtha	21.00424	101.44785	A	ADM2	LA		16	0301			118134		893	Asia/Vientiane	2017-06-03
+1655850	Muang Laongam	Muang Laongam	Lao Ngam,Lao Ngam District,Muang Laongam	15.47745	106.14111	A	ADM2	LA		19	1407			0		503	Asia/Vientiane	2017-06-03
+1655961	Muang Lakhonphéng	Muang Lakhonpheng	Lakhonepheng,Lakhonepheng District,Muang Lakhonpheng,Muang Lakhonphéng,Nakhonepheng	15.83308	105.59745	A	ADM2	LA		19	1404			0		207	Asia/Vientiane	2020-06-10
+1656000	Muang La	Muang La	La,La District,Muang La	20.92056	102.13268	A	ADM2	LA		07	0402			0		723	Asia/Vientiane	2017-06-03
+1656290	Muang Khoa	Muang Khoa	Muang Khoa,Muang Khoua	21.06711	102.37624	A	ADM2	LA		18	0203			0		487	Asia/Vientiane	2017-06-06
+1656324	Muang Khôngxédôn	Muang Khongxedon	Khongsedone,Khongsedone District,Muang Khongxedon,Muang Khôngxédôn	15.54626	105.77051	A	ADM2	LA		19	1406			0		130	Asia/Vientiane	2020-06-10
+1656331	Muang Không	Muang Khong	Khong,Khong District,Muang Khong,Muang Không	14.14696	105.95938	A	ADM2	LA		02	1610			0		129	Asia/Vientiane	2017-06-03
+1656537	Muang Thakhèk	Muang Thakhek	Muang Khammouan,Muang Thakhek,Muang Thakhèk,Thakhek District	17.4088	104.82639	A	ADM2	LA		15	1201			91771		161	Asia/Vientiane	2017-06-03
+1656546	Muang Khamkeut	Muang Khamkeut	Khamkeut,Khamkeut District,Muang Khamkeut	18.35234	104.92141	A	ADM2	LA		23	1105			0		671	Asia/Vientiane	2017-06-03
+1656563	Muang Kham	Muang Kham	Muang Kham	19.75768	103.65689	A	ADM2	LA		14	0902			0		1084	Asia/Vientiane	2017-06-06
+1656626	Muang Kènthao	Muang Kenthao	Kene,Kene Thao,Muang Kenthao,Muang Kènthao	17.85156	101.3167	A	ADM2	LA		13	0808			0		485	Asia/Vientiane	2020-06-10
+1656743	Muang Kasi	Muang Kasi	Kassy,Kasy,Muang Kasi	19.14207	102.1743	A	ADM2	LA		27	1004			0		525	Asia/Vientiane	2017-06-03
+1656964	Muang Houn	Muang Houn	Hoon,Houne,Houne District,Muang Houn,Muang Hun	20.07205	101.43223	A	ADM2	LA		07	0406			0		526	Asia/Vientiane	2017-06-03
+1657120	Muang Houamuang	Muang Houamuang	Houa Muong,Houameuang,Houameuang District,Huameung,Muang Houamuang	20.06257	103.84032	A	ADM2	LA		03	0705			0		1133	Asia/Vientiane	2017-06-03
+1657146	Muang Hôngsa	Muang Hongsa		19.69815	101.49796	A	ADM2	LA		13	0803			0		1166	Asia/Vientiane	2017-06-03
+1657260	Muang Hinboun	Muang Hinboun	Hinboune,Hineboune District,Muang Hinboun	17.87674	104.59526	A	ADM2	LA		15	1204			0		220	Asia/Vientiane	2017-06-03
+1657271	Muang Hiam	Muang Hiam	Hiem,Muang Hiam	20.08333	103.36667	A	ADM2	LA		03	0710			0		692	Asia/Vientiane	2017-06-03
+1657427	Muang Gnômmarat	Muang Gnommarat	Muang Gnommalat,Muang Gnommarat,Muang Gnômmalat,Muang Gnômmarat,Nhommalath,Nhommalath district,Nhommarath	17.55983	105.26487	A	ADM2	LA		15	1205			0		312	Asia/Vientiane	2020-06-10
+1657816	Muang Champhon	Muang Champhon	Champhone,Champhone District,Muang Champhon	16.49363	105.2202	A	ADM2	LA		20	1309			0		140	Asia/Vientiane	2017-06-03
+1657817	Muang Champasak	Muang Champasak	Champassack,Champassack District,Muang Champasak	14.85704	105.75334	A	ADM2	LA		02	1607			0		279	Asia/Vientiane	2017-06-03
+1657870	Muang Boun Tai	Muang Boun Tai	Boontai district,Boun Tay,Boun Tay District,Bountay,Muang Boun Tai	21.33209	101.99845	A	ADM2	LA		18	0207			0		744	Asia/Vientiane	2017-06-03
+1657896	Muang Bolikhan	Muang Bolikhan	Borikhane,Borikhane District,Muang Bolikhan,Muang Borikhan	18.71397	103.71158	A	ADM2	LA		23	1104			0		249	Asia/Vientiane	2017-06-03
+1657942	Muang Bèng	Muang Beng	Beng,Beng District,Muang Beng,Muang Bèng	20.35359	101.73128	A	ADM2	LA		07	0405			0		722	Asia/Vientiane	2017-06-03
+1904701	Muang Bachiangchaleunsook	Muang Bachiangchaleunsook	Batiengchaleunsouk,Batiengchaleunsouk District,Muang Bachang,Muang Bachiangchaleunsook	15.24426	105.96716	A	ADM2	LA		02	1603			0		289	Asia/Vientiane	2017-06-03
+1904713	Muang Dakchung	Muang Dakchung	Dak Cheung,Dak Cheung District,Muang Dakchung	15.38199	107.31847	A	ADM2	LA		26	1503			0		1307	Asia/Vientiane	2017-06-03
+1904719	Muang Toumlan	Muang Toumlan	Muang Toumlan,Toomlarn,Toumlane	16.02236	106.23837	A	ADM2	LA		19	1403			0		221	Asia/Vientiane	2017-06-03
+1904768	Muang Laman	Muang Laman	Lam Mam,Muang Laman,Muang Sekong,Muang Xekong,Muang Xékong	15.41273	106.81706	A	ADM2	LA		26	1501			0		178	Asia/Vientiane	2017-06-03
+1904769	Muang Xaiséttha	Muang Xaisettha	Muang Xaisettha,Muang Xaiséttha	14.90594	106.97894	A	ADM2	LA		01	1701			0		136	Asia/Vientiane	2017-06-03
+1904770	Muang Samakhixai	Muang Samakhixai	Muang Samakhixai,Samakkhixay,Samakkhixay District	14.80539	106.78164	A	ADM2	LA		01	1702			0		86	Asia/Vientiane	2017-06-03
+1904771	Muang Sanamxai	Muang Sanamxai	Muang Sanamxai,Sanamxay,Sanamxay District	14.73807	106.41328	A	ADM2	LA		01	1703			0		142	Asia/Vientiane	2017-06-03
+1904772	Muang Phouvong	Muang Phouvong	Muang Phouvong,Phouvong,Phouvong District	14.56821	107.01087	A	ADM2	LA		01	1705			0		654	Asia/Vientiane	2017-06-03
+1904773	Muang Sanxai	Muang Sanxai	Muang Sanxai,Sanxay,Sanxay District	15.02944	107.23158	A	ADM2	LA		01	1704			0		180	Asia/Vientiane	2017-06-03
+1904774	Muang Xanasômboun	Muang Xanasomboun	Muang Xanasomboun,Muang Xanasômboun,Sanasomboun,Sanasomboun District	15.34107	105.73703	A	ADM2	LA		02	1602			0		237	Asia/Vientiane	2017-06-03
+1904775	Muang Khaleum	Muang Khaleum	Kaleum,Kaleum District	15.79886	107.04529	A	ADM2	LA		26	1502			0		772	Asia/Vientiane	2017-06-03
+1904777	Muang Thapangthong	Muang Thapangthong	Muang Thapangthong,Thapangthong,Thapangthong District	16.09132	105.81038	A	ADM2	LA		20	1307			0		198	Asia/Vientiane	2017-06-03
+1904780	Muang Xônbouli	Muang Xonbouli	Muang Xonbouli,Muang Xônbouli,Xonbuly	16.40036	105.57388	A	ADM2	LA		20	1310			0		186	Asia/Vientiane	2017-06-03
+1904781	Muang Samouay	Muang Samouay	Muang Samouay,Sa Mouay,Sa Mouay District,Samuoi	16.35868	106.8748	A	ADM2	LA		19	1408			0		860	Asia/Vientiane	2017-06-03
+1904783	Muang Outhoumphon	Muang Outhoumphon	Muang Outhoumphon,Outhoumphone,Outhoumphone District	16.66667	105.05	A	ADM2	LA		20	1302			0		184	Asia/Vientiane	2017-06-03
+1904784	Muang Alsaphangthong	Muang Alsaphangthong	Atsaphangthong,Atsaphangthong District,Muang Alsaphangthong	16.72645	105.39326	A	ADM2	LA		20	1303			0		183	Asia/Vientiane	2017-06-03
+1904785	Muang Xaibouli	Muang Xaibouli	Muang Xaibouli,Xaybuly	16.94432	104.92312	A	ADM2	LA		20	1311			0		173	Asia/Vientiane	2017-06-03
+1904786	Muang Atsaphan	Muang Atsaphan	Atsaphone,Muang Atsaphan	16.9474	105.4029	A	ADM2	LA		20	1313			0		190	Asia/Vientiane	2017-06-03
+1904787	Muang Vilabouli	Muang Vilabouli	Muang Vilabouli,Vilabuly	16.94067	105.93677	A	ADM2	LA		20	1312			0		261	Asia/Vientiane	2017-06-03
+1904788	Muang Nongbôk	Muang Nongbok	Muang Nongbok,Muang Nongbôk,Nong Bok District	17.06133	104.8239	A	ADM2	LA		15	1203			0		151	Asia/Vientiane	2017-06-03
+1904789	Muang Xebangfai	Muang Xebangfai	Muang Xebangfai,Sebangphay,Xebangfay	17.1762	105.1259	A	ADM2	LA		15	1208			0		198	Asia/Vientiane	2017-06-03
+1904790	Muang Xaibouathong	Muang Xaibouathong	Muang Xaibouathong,Saybouathong,Saybouathong District,Xaybuathong	17.18114	105.55175	A	ADM2	LA		15	1209			0		226	Asia/Vientiane	2017-06-03
+1904791	Muang Boualapha	Muang Boualapha	Boualapha,Boualapha District,Muang Boualapha	17.30329	105.94077	A	ADM2	LA		15	1206			0		321	Asia/Vientiane	2017-06-03
+1904793	Muang Na Kay	Muang Na Kay	Muang Na Kay,Nakai,Nakai District	17.86886	105.29147	A	ADM2	LA		15	1207			0		726	Asia/Vientiane	2017-06-03
+1904795	Muang Thaphabat	Muang Thaphabat	Muang Thaphabat,Thaphabat,Thaphabat District	18.3994	103.14065	A	ADM2	LA		23	1102			0		167	Asia/Vientiane	2017-06-03
+1904796	Muang Longxan	Muang Longxan		18.61782	102.88079	A	ADM2	LA		28	1805			0		360	Asia/Vientiane	2017-06-03
+1904797	Muang Kèo-Oudôm	Muang Keo-Oudom		18.56926	102.56856	A	ADM2	LA		27	1003			0		208	Asia/Vientiane	2017-06-03
+1904798	Muang Hôm	Muang Hom		18.69246	103.29486	A	ADM2	LA		28	1804			0		743	Asia/Vientiane	2017-06-03
+1904802	Muang Fuang	Muang Fuang	Feuang,Muang Fuang	18.62355	102.07889	A	ADM2	LA		27	1006			0		236	Asia/Vientiane	2017-06-07
+1904805	Muang Phiang	Muang Phiang		18.87675	101.47001	A	ADM2	LA		13	0806			0		642	Asia/Vientiane	2017-06-03
+1904806	Muang Khop	Muang Khop	Muang Khop	19.66457	100.56103	A	ADM2	LA		13	0802			0		999	Asia/Vientiane	2017-06-03
+1904807	Muang Chomphét	Muang Chomphet	Chomphet,Chomphet District,Muang Chomphet,Muang Chomphét	19.88723	101.96167	A	ADM2	LA		17	0609			0		450	Asia/Vientiane	2017-06-03
+1904808	Muang Phou Khoun	Muang Phou Khoun	Muang Phou Khoun,Phoukhoune,Phoukhoune District	19.50724	102.59606	A	ADM2	LA		17	0611			0		868	Asia/Vientiane	2017-06-03
+1904809	Muang Phônxai	Muang Phonxai	Muang Phonxai,Muang Phônxai,Phonxay,Phonxay District	19.88818	102.73109	A	ADM2	LA		17	0608			0		1019	Asia/Vientiane	2017-06-03
+1904810	Muang Pakxèng	Muang Pakxeng	Muang Pakxeng,Muang Pakxèng,Pak Seng,Pak Seng District	20.18787	102.65544	A	ADM2	LA		17	0607			0		623	Asia/Vientiane	2017-06-03
+1904811	Muang Viangkhan	Muang Viangkhan	Muang Viangkhan,Viengkham,Viengkham District	20.49112	103.04112	A	ADM2	LA		17	0610			0		631	Asia/Vientiane	2017-06-03
+1904812	Muang Nonghèt	Muang Nonghet	Muang Nonghet,Muang Nonghèt,Nong Het,Nong Het District,Nonghed	19.56048	103.92355	A	ADM2	LA		14	0903			0		1139	Asia/Vientiane	2017-06-03
+1904813	Muang Phaxai	Muang Phaxai	Muang Phaxai,Phaxay,Phaxay District	19.25808	103.09067	A	ADM2	LA		14	0907			0		1266	Asia/Vientiane	2017-06-03
+1904814	Muang Khoun	Muang Khoun	Khoune,Khoune District,Muang Khoun	19.27979	103.50898	A	ADM2	LA		14	0904			0		1571	Asia/Vientiane	2017-06-03
+1904816	Muang Phou Kont	Muang Phou Kont	Muang Phou Kont,Phookood,Phou Kout,Phou Kout District	19.62585	103.01856	A	ADM2	LA		14	0906			0		1188	Asia/Vientiane	2017-06-03
+1904817	Muang Xam-Tai	Muang Xam-Tai	Muang Xam-Tai,Samtay,Samtay District,Xamtay	19.93248	104.54561	A	ADM2	LA		03	0706			0		1367	Asia/Vientiane	2017-06-03
+1904818	Muang Viangxai	Muang Viangxai	Muang Viangxai,Viengxay,Viengxay District	20.36113	104.38887	A	ADM2	LA		03	0704			0		491	Asia/Vientiane	2017-06-03
+1904819	Muang Viangthong	Muang Viangthong	Muang Viangthong,Viengthong,Viengthong District	18.493	104.46	A	ADM2	LA		23	1106			0		303	Asia/Vientiane	2017-12-27
+1904820	Muang Nga	Muang Nga	Muang Nga,Nga,Nga District	20.1739	101.95155	A	ADM2	LA		07	0404			0		840	Asia/Vientiane	2017-06-03
+1904821	Muang Pha Oudôm	Muang Pha Oudom	Muang Pha Oudom,Muang Pha Oudôm,Pha Oudom,Pha Oudom District	20.18744	100.926	A	ADM2	LA		22	0504			0		826	Asia/Vientiane	2017-06-03
+1904822	Muang Tônpheung	Muang Tonpheung	Muang Tonpheung,Muang Tônpheung,Ton Pheung,Ton Pheung District	20.53465	100.29624	A	ADM2	LA		22	0502			0		621	Asia/Vientiane	2017-06-03
+1904823	Muang Meung	Muang Meung	Meung,Meung District,Muang Meung	20.67585	100.52639	A	ADM2	LA		22	0503			0		518	Asia/Vientiane	2017-06-03
+1904824	Muang Nalè	Muang Nale	Na Le,Na Le District,Nalae	20.5	101.41667	A	ADM2	LA		16	0305			0		477	Asia/Vientiane	2017-06-03
+1904825	Muang Viangphoukha	Muang Viangphoukha	Muang Viangphoukha,Viengphoukha,Viengphoukha District	20.63194	101.0784	A	ADM2	LA		16	0304			0		677	Asia/Vientiane	2017-06-03
+1904826	Muang Long	Muang Long	Long,Long District,Muang Long	20.98503	100.83104	A	ADM2	LA		16	0303			0		594	Asia/Vientiane	2017-06-03
+1904828	Muang Mai	Muang Mai	May,May District,Muang Mai	21.38471	102.72594	A	ADM2	LA		18	0202			0		692	Asia/Vientiane	2017-06-03
+1904829	Muang Boun-Nua	Muang Boun-Nua	Boun Neua,Boun Neua District,Muang Boun-Nua	21.66787	101.89396	A	ADM2	LA		18	0205			0		988	Asia/Vientiane	2017-06-03
+1904830	Muang Gnot-Ou	Muang Gnot-Ou	Muang Gnot-Ou,Yot Ou,Yot Ou District	22.19586	101.874	A	ADM2	LA		18	0206			0		1133	Asia/Vientiane	2017-06-03
+1904831	Muang Chanthabouli	Muang Chanthabouli	Chanthabuly,Muang Chanthabouli	18.00659	102.61098	A	ADM2	LA		24	0101			0		170	Asia/Vientiane	2017-06-07
+1904832	Muang Sisattanak	Muang Sisattanak	Muang Sisattanak,Sisattanak	17.94057	102.63817	A	ADM2	LA		24	0104			0		164	Asia/Vientiane	2017-06-07
+1904833	Muang Xaiséttha	Muang Xaisettha	Muang Xaisettha,Muang Xaiséttha,Xaysetha	17.97575	102.70793	A	ADM2	LA		24	0103			0		165	Asia/Vientiane	2017-06-07
+1904834	Muang Sikhôttabong	Muang Sikhottabong		18.00699	102.48453	A	ADM2	LA		24	0102			0		180	Asia/Vientiane	2017-06-03
+1904836	Muang Xaithani	Muang Xaithani	Muang Xaithani,Xaythany	18.14132	102.72375	A	ADM2	LA		24	0106			0		167	Asia/Vientiane	2017-06-07
+1904837	Muang Naxaythong	Muang Naxaythong	Muang Naxaythong,Naxaithong	18.17465	102.44396	A	ADM2	LA		24	0105			0		186	Asia/Vientiane	2017-06-07
+1904838	Muang Sangthong	Muang Sangthong	Muang Sangthong,Sangthong	18.26282	102.18523	A	ADM2	LA		24	0108			0		235	Asia/Vientiane	2017-06-07
+1904839	Muang Maypakngum	Muang Maypakngum	Muang Maypakngum,Muang Pakngum,Parkngum	18.13972	102.93773	A	ADM2	LA		24	0109			0		172	Asia/Vientiane	2017-06-03
+7647987	Samphanh	Samphanh	Samphanh,Samphanh District	21.57	102.41	A	ADM2	LA		18	0204			0		821	Asia/Vientiane	2017-06-03
+7648078	Thaphalanxay	Thaphalanxay	Thaphalanxay,Thaphalanxay District	16.7	105.6	A	ADM2	LA		20	1315			0		170	Asia/Vientiane	2017-06-03
+7648342	Sopbao	Sopbao	Sop Bao,Sop Bao District	20.66	104.38	A	ADM2	LA		03	0707			0		295	Asia/Vientiane	2017-06-03
+7648343	Muang Et	Muang Et	Et,Et District	20.71	103.85	A	ADM2	LA		03	0708			0		1132	Asia/Vientiane	2017-06-03
+8739950	Botene	Botene		17.59298	101.1858	A	ADM2	LA		13	0809			0		333	Asia/Vientiane	2017-06-03
+8948687	Xam Neua	Xam Neua	Xam Neua,Xam Neua District	20.40764	104.0656	A	ADM2	LA		03	0701			0		1054	Asia/Vientiane	2017-06-03
+9170485	Paksane	Paksane	Muang Pakxan,Paksane,Paksane District,Pakxan	18.39553	103.66043	A	ADM2	LA		23	1101			0		156	Asia/Vientiane	2018-06-13
+9171951	Xanakharm	Xanakharm		18.0142	101.6943	A	ADM2	LA		27	1007			0		220	Asia/Vientiane	2017-06-03
+10375959	Muang Xayphoothong	Muang Xayphoothong		16.3737	105.02165	A	ADM2	LA		20	1314			0		145	Asia/Vientiane	2017-06-03
+10375967	Kaysone Phomvihane	Kaysone Phomvihane	Kaysone Phomvihane,Khanthabouli,Savannakhet	16.54943	104.82339	A	ADM2	LA		20	1301			0		155	Asia/Vientiane	2018-06-13
+11550446	Anouvong district	Anouvong district		18.89731	103.09274	A	ADM2	LA		28	1801			0		1148	Asia/Vientiane	2017-06-03
+11550486	Viengxon	Viengxon		20.76607	104.10988	A	ADM2	LA		03	0703			0		532	Asia/Vientiane	2017-06-03
+11550487	Kuan	Kuan	Kuan District,Muang Kuan	20.01735	103.84419	A	ADM2	LA		03	0709			0		574	Asia/Vientiane	2017-06-03
+11550488	Thongmyxay	Thongmyxay	Thongmyxay district	17.67543	101.02478	A	ADM2	LA		13	0810			0		1560	Asia/Vientiane	2017-06-03
+11550489	Xaysathan	Xaysathan	Xaysathan district	17.59052	101.021	A	ADM2	LA		13	0811			0		687	Asia/Vientiane	2017-06-03
+11550490	Mad	Mad		18.48254	102.28752	A	ADM2	LA		27	1008			0		249	Asia/Vientiane	2017-06-03
+11550491	Viengkham	Viengkham	Viengkham district	18.457	102.497	A	ADM2	LA		27	1009			0		169	Asia/Vientiane	2024-08-02
+11550492	Hinherb	Hinherb	Hinherb district,Hinhurp District	18.629	102.319	A	ADM2	LA		27	1010			0		217	Asia/Vientiane	2024-02-15
+11550493	Xaychamphone	Xaychamphone	Xaichamphon,Xaychamphone District	18.561	104.888	A	ADM2	LA		23	1107			0		1022	Asia/Vientiane	2024-02-15
+11550494	Muen	Muen		18.6379	103.42193	A	ADM2	LA		27	1013			0		1795	Asia/Vientiane	2018-06-14
+11550495	Kounkham	Kounkham	Kounkham district	17.20393	105.53123	A	ADM2	LA		15	1210			0		191	Asia/Vientiane	2017-06-03
+11550496	Longchaeng	Longchaeng		18.89394	103.14274	A	ADM2	LA		28	1803			0		1641	Asia/Vientiane	2017-06-27
+11550497	Xieng ngeun	Xieng ngeun	Xieng ngeun District	19.75859	102.18487	A	ADM2	LA		17	0602			0		311	Asia/Vientiane	2017-06-03
+11550501	Phonthong	Phonthong		20.84149	103.11218	A	ADM2	LA		17	0612			0		826	Asia/Vientiane	2018-12-21

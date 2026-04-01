@@ -1,0 +1,229 @@
+﻿1832256	Yeongwol-gun	Yeongwol-gun	Yeongwol-gun,yeong-wolgun,영월군	37.1833	128.4615	A	ADM2	KR		06	32330			0		226	Asia/Seoul	2014-01-12
+1832311	Yongsan-gu	Yongsan-gu	Yongsan,Yongsan District,Yongsan-gu,yongsan,yongsangu,용산,용산구	37.53391	126.9775	A	ADM2	KR		11	11030			205145		27	Asia/Seoul	2025-03-31
+1832426	Yongin-si	Yongin-si	Jungin,Yongin,Yongin City,Yongin-si,yong-in,yong-insi,Юнгин,용인,용인시	37.23825	127.17795	A	ADM2	KR		13	31190			1076369		109	Asia/Seoul	2025-03-31
+1832500	Yeonggwang-gun	Yeonggwang-gun	Reiko,Reiko-gun,Reikō,Reikō-gun,Yeonggwang,Yeonggwang-gun,Yonggwang-gun,Yŏnggwang-gun,yeong-gwang,yeong-gwang-gun,영광,영광군	35.28711	126.43616	A	ADM2	KR		16	36440			72780		86	Asia/Seoul	2017-01-25
+1832536	Yeongdeungpo-gu	Yeongdeungpo-gu	Yeongdeungpo District,Yeongdeungpo-gu,yeongdeungpogu,영등포구	37.52606	126.90308	A	ADM2	KR		11	11190			396243		12	Asia/Seoul	2023-11-13
+1832561	Yeongdong-gun	Yeongdong-gun	Yeongdong,Yeongdong County,Yeongdong-gun,Yongdong-gun,Yŏngdong-gun,yeongdong,yeongdong-gun,영동,영동군	36.21658	127.79374	A	ADM2	KR		05	33340			43680		236	Asia/Seoul	2025-04-01
+1832577	Yeongdeok-gun	Yeongdeok-gun	Yeongdeog Gun,Yeongdeok,Yeongdeok-gun,Yongdok-kun,Yŏngdŏk-kun,yeongdeog,yeongdeoggun,영덕,영덕군	36.48125	129.31078	A	ADM2	KR		14	37350			52697		306	Asia/Seoul	2014-01-12
+1832581	Yeongdo-gu	Yeongdo-gu	Yeongdo,Yeongdo-gu,Yongdo-gu,Yŏngdo-gu,yeongdo,yeongdogu,영도,영도구	35.07849	129.06483	A	ADM2	KR		10	21040			162961		138	Asia/Seoul	2016-04-11
+1832611	Yeongcheon-si	Yeongcheon-si	Yeongcheon,Yeongcheon-si,yeongcheon,yeongcheonsi,영천,영천시	36	129	A	ADM2	KR		14	37070			113807		130	Asia/Seoul	2014-01-08
+1832656	Yeongam-gun	Yeongam-gun	Yeongam,Yeongam-gun,Yongam-gun,Yŏngam-gun,yeong-am,yeong-amgun,영암,영암군	34.7979	126.62651	A	ADM2	KR		16	36410			65268		1	Asia/Seoul	2014-01-12
+1832697	Yeoncheon-gun	Yeoncheon-gun	Yeoncheon-County,Yeoncheon-gun,yeoncheongun,연천군	38.09404	127.07577	A	ADM2	KR		13	31350			50655		60	Asia/Seoul	2023-11-13
+1832742	Yeoju-si	Yeoju-si	Yeoju,Yeoju City,Yeoju-si,yeoju,yeojusi,여주,여주시	37.29562	127.63668	A	ADM2	KR		13	31280			104774		51	Asia/Seoul	2023-11-13
+1832757	Yeosu-si	Yeosu-si	Yeochon Gun,Yeosu,Yeosu-si,Yoch'on-gun,Yŏch’ŏn-gun,yeosu,yeosusi,여수,여수시	34.77647	127.64253	A	ADM2	KR		16	36020			0		46	Asia/Seoul	2014-01-12
+1832770	Yesan-gun	Yesan-gun	Yesan,Yesan-gun,yesan,yesangun,예산,예산군	36.68218	126.79592	A	ADM2	KR		17	34370			100602		23	Asia/Seoul	2014-01-12
+1832797	Yecheon-gun	Yecheon-gun	Yech'on-gun,Yecheon,Yecheon-gun,Yech’ŏn-gun,yecheon,yecheongun,예천,예천군	36.65272	128.43007	A	ADM2	KR		14	37400			58081		127	Asia/Seoul	2014-01-12
+1832808	Yangyang-gun	Yangyang-gun	Joyo-gun,Jōyō-gun,Yangyang,Yangyang County,Yangyang-gun,yang-yang,yang-yang-gun,양양,양양군	38.06215	128.61471	A	ADM2	KR		06	32410			27582		22	Asia/Seoul	2025-03-31
+1832824	Yangsan-si	Yangsan-si	Ryosan-gun,Ryōsan-gun,Yangsan,Yangsan-gun,Yangsan-si,yangsan,yangsansi,양산,양산시	35.39866	129.03612	A	ADM2	KR		20	38100			0		222	Asia/Seoul	2014-01-12
+1832832	Yangpyeong-gun	Yangpyeong-gun	Yangpyeong County,Yangpyeong-gun,yangpyeong-gun,양평군	37.4888	127.49222	A	ADM2	KR		13	31380			126982		42	Asia/Seoul	2025-03-31
+1832908	Yanggu-gun	Yanggu-gun	Yanggu-gun,yang-gugun,양구군	38.1016	127.98555	A	ADM2	KR		06	32380			24027		189	Asia/Seoul	2014-01-07
+1833099	Wonju-si	Wonju-si	Weonju,Wonju,Wonju-si,Wŏnju-si,wonju,wonjusi,원주,원주시	37.32104	127.92132	A	ADM2	KR		06	32020			310854		157	Asia/Seoul	2014-01-12
+1833276	Gyeongju	Gyeongju	Gyeongju,Gyeongju-si,Keishu,Keishu-gun,Keishū,Keishū-gun,Kyongju-gun,Kyŏngju-gun,Wolsong-gun,Wŏlsŏng-gun,gyeongju,gyeongjusi,경주,경주시	35.83333	129.25	A	ADM2	KR		14	37020			264091		76	Asia/Seoul	2016-03-10
+1833493	Wando-gun	Wando-gun	Kanto,Kanto-gun,Kantō,Kantō-gun,Wando,Wando County,Wando-gun,wando,wandogun,완도,완도군	34.31182	126.73845	A	ADM2	KR		16	36460			45837		45	Asia/Seoul	2025-04-01
+1833594	Eunpyeong-gu	Eunpyeong-gu	Eunpyeong District,Eunpyeong-gu,eunpyeong-gu,은평구	37.61846	126.9278	A	ADM2	KR		11	11120			450583		61	Asia/Seoul	2022-04-08
+1833704	Eumseong-gun	Eumseong-gun	Eumseong,Eumseong County,Eumseong-gun,Umsong-gun,eumseong,eumseong-gun,Ŭmsŏng-gun,음성,음성군	36.92602	127.6807	A	ADM2	KR		05	33370			90377		145	Asia/Seoul	2025-04-01
+1833753	Ulleung-gun	Ulleung-gun	Ulleung,Ulleung-gun,Ullung-do,Ullung-gun,Ullŭng-do,Ullŭng-gun,Utsuryo-to,Utsuryō-tō,ulleung,ulleung-gun,울릉,울릉군	37.50442	130.86084	A	ADM2	KR		14	37430			10426		505	Asia/Seoul	2014-01-12
+1833760	Ulju-gun	Ulju-gun	Ulju County,Ulju-gun,uljugun,울주군	35.56233	129.1269	A	ADM2	KR		21	26310			202292		74	Asia/Seoul	2023-11-13
+1833762	Uljin-gun	Uljin-gun	District de Uljin,Ichin-gun,UJN,Ul'dzhin,Ulchin,Ulchin-gun,Uljin,Uljin County,Uljin-gun,Uruchin,Uruchin-gun,Utchin,Wijin,uljin,uljingun,wei zhen jun,Ульджин,蔚珍郡,울진,울진군	36.91968	129.31966	A	ADM2	KR		14	37420			46112		412	Asia/Seoul	2025-04-01
+1833775	Uiseong-gun	Uiseong-gun	Euiseong gun,Uiseong,Uiseong-gun,Uisong-gun,uiseong,uiseong-gun,Ŭisŏng-gun,의성,의성군	36.36122	128.61517	A	ADM2	KR		14	37320			71216		226	Asia/Seoul	2014-01-12
+1833782	Uiryeong-gun	Uiryeong-gun	Euriyeong gun,Uinyong-gun,Uiryeong,Uiryeong-gun,Uiryong-gun,uilyeong,uilyeong-gun,Ŭinyŏng-gun,Ŭiryŏng-gun,의령,의령군	35.3923	128.26917	A	ADM2	KR		20	38310			32371		225	Asia/Seoul	2014-01-12
+1833787	Uijeongbu-si	Uijeongbu-si	Uijeongbu,Uijeongbu-si,uijeongbu,uijeongbusi,의정부,의정부시	37.73865	127.0477	A	ADM2	KR		13	31030			460284		46	Asia/Seoul	2025-03-31
+1834199	Dongnae-gu	Dongnae-gu	Dongnae District,Dongnae-gu,Dongrae,donglaegu,동래구	35.20447	129.078	A	ADM2	KR		10	21060			269086		17	Asia/Seoul	2025-03-31
+1834245	Dongjak-gu	Dongjak-gu	Dongjak District,Dongjak-gu,dongjaggu,동작구	37.50056	126.95149	A	ADM2	KR		11	11200			397317		59	Asia/Seoul	2023-11-11
+1834262	Donghae-si	Donghae-si	Donghae,Donghae City,Donghae-si,donghae,donghaesi,동해,동해시	37.52345	129.11357	A	ADM2	KR		06	32040			103115		22	Asia/Seoul	2023-11-13
+1834284	Dong-gu	Dong-gu	Dong District,Dong-gu,Tong-gu,dong-gu,동구	35.12468	129.03432	A	ADM2	KR		10	21030			86308		95	Asia/Seoul	2025-03-31
+1834308	Dongducheon	Dongducheon	Dongducheon,Dongducheon City,Dongducheon-si,Tongduch'on-shi,Tongduch'on-si,Tongduch’ŏn-shi,Tongduch’ŏn-si,dongducheon,dongducheonsi,동두천,동두천시	37.91889	127.06897	A	ADM2	KR		13	31080			87099		151	Asia/Seoul	2025-03-31
+1834328	Dongdaemun District	Dongdaemun District	Dongdaemun,Dongdaemun District,Dongdaemun Koo,Dongdaemun-gu,Todaimon-ku,Tongdaemun-gu,Tongdaimoon-ku,Tōdaimon-ku,dong da men qu,dongdaemun,dongdaemungu,东大门区,東大門區,동대문,동대문구	37.58189	127.05408	A	ADM2	KR		11	11060			340686		36	Asia/Seoul	2025-04-01
+1834758	Dobong-gu	Dobong-gu	Dobong District,Dobong-gu,dobong-gu,도봉구	37.65066	127.03011	A	ADM2	KR		11	11100			304255		62	Asia/Seoul	2025-03-31
+1834820	Danyang-gun	Danyang-gun	Danyang-gun,dan-yang-gun,단양군	36.98615	128.36945	A	ADM2	KR		05	33380			37320		167	Asia/Seoul	2014-01-07
+1834884	Dangjin-si	Dangjin-si	Dangjin,Dangjin-si,dangjin,dangjinsi,당진,당진시	36.91667	126.66667	A	ADM2	KR		17	34080			0		83	Asia/Seoul	2014-01-08
+1834945	Damyang-gun	Damyang-gun	Damyang,Damyang-gun,Tamyang-gun,dam-yang,dam-yang-gun,담양,담양군	35.33976	126.99125	A	ADM2	KR		16	36310			51420		65	Asia/Seoul	2016-06-04
+1834970	Dalseong-gun	Dalseong-gun	Dalseong-gun,Dalsung-gun,dalseong-gun,달성군	35.77467	128.42955	A	ADM2	KR		15	22310			264680		45	Asia/Seoul	2024-05-14
+1835409	Daedeok-gu	Daedeok-gu	Daedeog gun,Daedeok,Daedeok District,Daedeok-gu,Taedok-kun,Taedŏk-kun,daedeog,daedeoggu,대덕,대덕구	36.4059	127.44008	A	ADM2	KR		19	25050			169171		142	Asia/Seoul	2025-03-31
+1835551	Suwon-si	Suwon-si	Suwon,Suwon-si,Suwŏn-si,suwon,suwonsi,수원,수원시	37.28586	127.00993	A	ADM2	KR		13	31010			1160062		62	Asia/Seoul	2014-04-06
+1835646	Suncheon-si	Suncheon-si	Sunch'on-si,Suncheon,Suncheon-si,Sunch’ŏn-si,suncheon,suncheonsi,순천,순천시	34.97162	127.46096	A	ADM2	KR		16	36030			276375		350	Asia/Seoul	2025-04-01
+1835649	Sunchang-gun	Sunchang-gun	Sunch'ang-gun,Sunchang,Sunchang County,Sunchang-gun,Sunch’ang-gun,sunchang,sunchang-gun,순창,순창군	35.37651	127.14967	A	ADM2	KR		03	35360			26803		92	Asia/Seoul	2025-04-01
+1835889	Seosan-si	Seosan-si	Seosan,Seosan gun,Seosan-si,Sosan-gun,Susan,Sŏsan-gun,seosan,seosansi,서산,서산시	36.78518	126.46568	A	ADM2	KR		17	34050			163055		24	Asia/Seoul	2014-01-12
+1836091	Seongnam-si	Seongnam-si	Seongnam,Seongnam City,Seongnam-si,seongnam,seongnamsi,성남,성남시	37.41875	127.12877	A	ADM2	KR		13	31020			914832		40	Asia/Seoul	2025-03-31
+1836130	Seongju-gun	Seongju-gun	Seongju-gun,seongjugun,성주군	35.91888	128.28838	A	ADM2	KR		14	37380			51028		37	Asia/Seoul	2014-01-08
+1836279	Gangdong-gu	Gangdong-gu	Gangdong District,Gangdong-gu,gangdong-gu,강동구	37.55274	127.14546	A	ADM2	KR		11	11250			465807		44	Asia/Seoul	2025-03-31
+1836339	Gangbuk-gu	Gangbuk-gu	Gangbuk District,Gangbuk-gu,gangbuggu,강북구	37.6349	127.02015	A	ADM2	KR		11	11090			324413		46	Asia/Seoul	2023-11-11
+1836534	Sokcho-si	Sokcho-si	Sokcho,Sokcho-si,sogcho,sogchosi,속초,속초시	38.20725	128.59275	A	ADM2	KR		06	32060			89461		10	Asia/Seoul	2014-01-12
+1836630	Seogwipo-si	Seogwipo-si	Seogwipo,Seogwipo City,Seogwipo-si,Sogwip'o-si,Sŏgwip’o-si,seogwipo,seogwiposi,서귀포,서귀포시	33.29307	126.49748	A	ADM2	KR		01	39020			182220		477	Asia/Seoul	2025-03-31
+1836645	Seo-gu	Seo-gu	Pusansiso-gu,Pusansisŏ-gu,Seo-gu,So-gu,Sŏ-gu,seogu,서구	35.12529	129.01946	A	ADM2	KR		10	21020			103337		121	Asia/Seoul	2025-04-01
+1836701	Seodaemun-gu	Seodaemun-gu	Sei-daimommachi,Seodaemun,Seodaemun District,Seodaemun-gu,So-daemun-jong,Sodaemun-gu,Sŏ-daemun-jŏng,Sŏdaemun-gu,West Gate,seodaemun,seodaemungu,서대문,서대문구	37.57809	126.93506	A	ADM2	KR		11	11130			313814		34	Asia/Seoul	2023-11-12
+1836710	Seocheon-gun	Seocheon-gun	Seocheon,Seocheon-gun,Soch'on-gun,Sŏch’ŏn-gun,seocheon,seocheongun,서천,서천군	36.106	126.69716	A	ADM2	KR		17	34340			67651		61	Asia/Seoul	2019-03-08
+1837286	Sinan-gun	Sinan-gun	Sinan,Sinan-gun,sin-an,sin-angun,신안,신안군	34.83107	126.09872	A	ADM2	KR		16	36480			53150		105	Asia/Seoul	2014-01-12
+1837364	Siheung	Siheung	Shiko-gun,Shikō-gun,Siheung,Siheung City,Siheung gun,Siheung-si,Sihung-gun,Sihung-si,Sihŭng-gun,Sihŭng-si,Sikung,Sikŭng,siheung,siheungsi,시흥,시흥시	37.39067	126.7888	A	ADM2	KR		13	31150			518559		6	Asia/Seoul	2025-04-01
+1837700	Sangju-si	Sangju-si	Sangju,Sangju-si,sangju,sangjusi,상주,상주시	36.41667	128.16667	A	ADM2	KR		14	37080			0		57	Asia/Seoul	2014-01-08
+1837894	Sancheong-gun	Sancheong-gun	Sanch'ong-gun,Sancheong,Sancheong-gun,Sanch’ŏng-gun,sancheong,sancheong-gun,산청,산청군	35.36625	127.87065	A	ADM2	KR		20	38370			39863		829	Asia/Seoul	2014-01-12
+1838341	Pyeongtaek	Pyeongtaek	Chinwi-gun,Heitaku-gun,Heitaku-yu,Heitaku-yū,P'yongt'aeg-up,P'yongt'aek,P'yongt'aek-gun,P'yongt'aek-kun,P'yongt'aeng-up,Pyeong Taeg,Pyeongtaeg gun,Pyeongtaek,Pyeongtaek City,Pyeongtaek gun,Pyeongtaek-si,P’yongt’aek-gun,P’yŏngt’aeg-ŭp,P’yŏngt’aek,P’yŏngt’aek-kun,P’yŏngt’aeng-ŭp,Shini-gun,pyeongtaeg,pyeongtaegsi,평택,평택시	37.01372	126.98748	A	ADM2	KR		13	31070			500787		6	Asia/Seoul	2023-11-12
+1838467	Pyeongchang-gun	Pyeongchang-gun	Pyeongchang-gun,pyeongchang-gun,평창군	37.3682	128.3955	A	ADM2	KR		06	32340			43706		298	Asia/Seoul	2014-01-07
+1838507	Buyeo-gun	Buyeo-gun	Buyeo,Buyeo-gun,Fuyo-gun,Huyo,Puyo-gun,Puyŏ-gun,buyeo,buyeogun,부여,부여군	36.26257	126.85802	A	ADM2	KR		17	34330			95213		6	Asia/Seoul	2014-01-12
+1838715	Bucheon-si	Bucheon-si	Bucheon,Bucheon City,Bucheon-si,bucheon,bucheonsi,부천,부천시	37.5044	126.76625	A	ADM2	KR		13	31050			772450		17	Asia/Seoul	2025-03-31
+1838721	Buan-gun	Buan-gun	Buan,Buan-gun,Puan-gun,buan,buangun,부안,부안군	35.7	126.66667	A	ADM2	KR		03	35380			74716		37	Asia/Seoul	2014-01-12
+1838730	Boeun-gun	Boeun-gun	Bo-eun Gun,Boeun,Boeun-gun,Poun-gun,Poŭn-gun,bo-eun,bo-eungun,보은,보은군	36.49489	127.72865	A	ADM2	KR		05	33320			43245		159	Asia/Seoul	2014-01-12
+1838737	Boseong-gun	Boseong-gun	Boseong,Boseong-gun,Hojo,Hojo-gun,Hōjō,Hōjō-gun,Posong-gun,Posŏng-gun,boseong,boseong-gun,보성,보성군	34.84622	127.22189	A	ADM2	KR		16	36360			61329		356	Asia/Seoul	2018-04-06
+1838749	Boryeong-si	Boryeong-si	Boryeong,Boryeong City,Boryeong-si,Daecheon,bolyeong,bolyeongsi,보령,보령시	36.35649	126.59444	A	ADM2	KR		17	34030			94191		54	Asia/Seoul	2025-04-01
+1838893	Bonghwa-gun	Bonghwa-gun	Bonghwa-gun,bonghwagun,봉화군	36.88951	128.73573	A	ADM2	KR		14	37410			41452		192	Asia/Seoul	2014-01-12
+1839068	Pohang-si	Pohang-si	Pohang,Pohang-si,pohang,pohangsi,포항,포항시	36.08333	129.36667	A	ADM2	KR		14	37010			520305		50	Asia/Seoul	2014-01-12
+1839102	Pocheon-si	Pocheon-si	Pocheon,Pocheon City,Pocheon-si,pocheon,pocheonsi,포천,포천시	37.8937	127.20028	A	ADM2	KR		13	31270			141825		102	Asia/Seoul	2025-03-31
+1839430	Paju-si	Paju-si	Paju,Paju City,Paju-si,paju,pajusi,파주,파주시	37.75952	126.77772	A	ADM2	KR		13	31200			520803		22	Asia/Seoul	2025-03-31
+1839869	Okcheon-gun	Okcheon-gun	Ogcheon gun,Okch'on-gun,Okcheon,Okcheon-gun,Okch’ŏn-gun,ogcheon,ogcheongun,옥천,옥천군	36.26642	127.58324	A	ADM2	KR		05	33330			56634		137	Asia/Seoul	2019-09-05
+1840209	Nonsan-si	Nonsan-si	Nonsan,Nonsan City,Nonsan-si,nonsan,nonsansi,논산,논산시	36.19774	127.12143	A	ADM2	KR		17	34060			108883		10	Asia/Seoul	2025-04-01
+1840374	Namyangju-si	Namyangju-si	Namyangju,Namyangju City,Namyangju-si,nam-yangju,nam-yangjusi,남양주,남양주시	37.65217	127.2401	A	ADM2	KR		13	31130			732783		114	Asia/Seoul	2025-03-31
+1840378	Namwon	Namwon	Mangen,Namweon,Namweon gun,Namwon,Namwon-gun,Namwon-si,Namwun,Namwŏn,Namwŏn-gun,Namwŭn,Nangen,Nangen-gun,nam-won,nam-wonsi,남원,남원시	35.44821	127.38007	A	ADM2	KR		03	35050			87000		156	Asia/Seoul	2018-08-08
+1840450	Namhae-gun	Namhae-gun	Namhae,Namhae-gun,namhae,namhaegun,남해,남해군	34.80433	127.92708	A	ADM2	KR		20	38350			54392		309	Asia/Seoul	2014-01-12
+1840535	Naju-si	Naju-si	Naju,Naju City,Naju-gun,Naju-si,naju,najusi,나주,나주시	35.05683	126.67362	A	ADM2	KR		16	36040			116891		204	Asia/Seoul	2025-04-01
+1840941	Muju-gun	Muju-gun	Muju,Muju-gun,muju,mujugun,무주,무주군	35.93172	127.71118	A	ADM2	KR		03	35330			25169		319	Asia/Seoul	2014-01-12
+1840979	Muan-gun	Muan-gun	Muan,Muan-gun,muan,muangun,무안,무안군	34.95642	126.44041	A	ADM2	KR		16	36420			75718		24	Asia/Seoul	2014-01-12
+1841063	Mokpo-si	Mokpo-si	Mog Po,Mokp'o-bu,Mokp'o-pu,Mokp'o-si,Mokpo,Mokpo-si,Mokp’o-bu,Mokp’o-pu,Mokp’o-si,Moppo-fu,mogpo,mogposi,목포,목포시	34.81226	126.39179	A	ADM2	KR		16	36010			210806		48	Asia/Seoul	2025-04-01
+1841147	Miryang-si	Miryang-si	Milyang gun,Miryang,Miryang-gun,Miryang-si,Mitsuyo-gun,Mitsuyō-gun,mil-yang,mil-yangsi,밀양,밀양시	35.4975	128.7869	A	ADM2	KR		20	38080			108621		27	Asia/Seoul	2014-01-12
+1841277	Mapo-gu	Mapo-gu	Mapo District,Mapo-gu,mapogu,마포구	37.55438	126.90926	A	ADM2	KR		11	11140			381330		15	Asia/Seoul	2023-11-11
+1841596	Gyeongsan-si	Gyeongsan-si	Gyeongsan,Gyeongsan-si,gyeongsan,gyeongsansi,경산,경산시	35.83333	128.8	A	ADM2	KR		14	37100			236459		51	Asia/Seoul	2014-01-12
+1841773	Gwangyang-si	Gwangyang-si	Gwangyang,Gwangyang-gun,Gwangyang-si,Koyo,Koyo-gun,Kwangyang-gun,Kwangyang-kun,Kōyō,Kōyō-gun,gwang-yang,gwang-yangsi,광양,광양시	35.04007	127.60949	A	ADM2	KR		16	36060			138012		100	Asia/Seoul	2018-04-06
+1841791	Gwangsan-gu	Gwangsan-gu	Gwangsan District,Gwangsan-gu,gwangsangu,광산구	35.16158	126.8081	A	ADM2	KR		18	24050			392653		42	Asia/Seoul	2025-03-31
+1841809	Gwangju-si	Gwangju-si	Gwangju,Gwangju City,Gwangju-si,gwangju,gwangjusi,광주,광주시	37.40329	127.29855	A	ADM2	KR		13	31250			396055		143	Asia/Seoul	2025-03-31
+1841893	Gwanak-gu	Gwanak-gu	Gwanak District,Gwanak-gu,gwan-aggu,관악구	37.47876	126.95235	A	ADM2	KR		11	11210			520849		50	Asia/Seoul	2023-11-11
+1841975	Gurye-gun	Gurye-gun	Gurye,Gurye-gun,Kurye-gun,gulye,gulyegun,구례,구례군	35.23616	127.50129	A	ADM2	KR		16	36330			30000		310	Asia/Seoul	2014-01-12
+1841986	Guro District	Guro District	Guro District,Guro-gu,gulogu,jiu lao qu,九老区,九老區,구로구	37.49447	126.8502	A	ADM2	KR		11	11170			388823		25	Asia/Seoul	2025-03-31
+1842015	Gunwi-gun	Gunwi-gun	Gunwi,Gunwi-gun,Kunwi-gun,gun-wi,gun-wigun,군위,군위군	36.16995	128.64705	A	ADM2	KR		14	37310			34293		227	Asia/Seoul	2014-01-12
+1842023	Gunsan-si	Gunsan-si	Gunsan,Gunsan-si,Kunsan-si,gunsan,gunsansi,군산,군산시	35.93583	126.68338	A	ADM2	KR		03	35020			278289		6	Asia/Seoul	2014-01-12
+1842149	Geumsan-gun	Geumsan-gun	Geumsan,Geumsan-gun,Kumsan-gun,Kŭmsan-gun,geumsan,geumsangun,금산,금산군	36.13381	127.48062	A	ADM2	KR		17	34310			60740		171	Asia/Seoul	2014-01-12
+1842170	Gimpo-si	Gimpo-si	Gimpo,Gimpo City,Gimpo-si,gimpo,gimposi,김포,김포시	37.63637	126.6927	A	ADM2	KR		13	31230			486258		6	Asia/Seoul	2025-03-31
+1842211	Gimje-si	Gimje-si	Gimje,Gimje gun,Gimje-si,Kimje-gun,Kintei-gun,Kumje-gun,Kŭmje-gun,gimje,gimjesi,김제,김제시	35.80701	126.90755	A	ADM2	KR		03	35060			93111		13	Asia/Seoul	2014-01-12
+1842218	Gumi-si	Gumi-si	Gumi,Gumi-si,Kumi-si,gumi,gumisi,구미,구미시	36.21009	128.35442	A	ADM2	KR		14	37050			374654		32	Asia/Seoul	2014-01-12
+1842486	Goyang-si	Goyang-si	Goyang,Goyang Gun,Goyang-si,Hoyang-kun,Koyang-gun,Koyo-gun,Kōyō-gun,goyang,goyangsi,고양,고양시	37.66667	126.83333	A	ADM2	KR		13	31100			1073069		29	Asia/Seoul	2017-01-23
+1842514	Goseong-gun	Goseong-gun	Goseong-gun,goseong-gun,고성군	38.37945	128.46755	A	ADM2	KR		06	32400			62446		17	Asia/Seoul	2014-01-12
+1842515	Goseong-gun	Goseong-gun	Goseong,Goseong-gun,Kojo-gun,Kojō-gun,Kosong-gun,Kosŏng-gun,goseong,goseong-gun,고성,고성군	35.01478	128.28244	A	ADM2	KR		20	38340			62446		93	Asia/Seoul	2014-01-12
+1842555	Goryeong-gun	Goryeong-gun	Goryeong,Goryeong-gun,Koryong-gun,Koryŏng-gun,golyeong,golyeong-gun,고령,고령군	35.74959	128.29707	A	ADM2	KR		14	37370			35000		120	Asia/Seoul	2014-01-12
+1842615	Gongju-si	Gongju-si	Gongju,Gongju City,Gongju-si,gongju,gongjusi,공주,공주시	36.5	127.08333	A	ADM2	KR		17	34020			101695		84	Asia/Seoul	2025-04-01
+1842714	Gokseong-gun	Gokseong-gun	Gokseong-gun,gogseong-gun,곡성군	35.21449	127.2628	A	ADM2	KR		16	36320			37080		544	Asia/Seoul	2014-01-08
+1842752	Geoje-si	Geoje-si	Geoje,Geoje-si,geoje,geojesi,거제,거제시	34.9	128.66666	A	ADM2	KR		20	38090			229500		195	Asia/Seoul	2014-01-12
+1842780	Goheung-gun	Goheung-gun	Goheung,Goheung-gun,Kohung-gun,Kohŭng-gun,Koko-gun,Kōkō-gun,goheung,goheung-gun,고흥,고흥군	34.58333	127.33333	A	ADM2	KR		16	36350			84023		1	Asia/Seoul	2014-01-12
+1842799	Goesan-gun	Goesan-gun	Goesan,Goesan-gun,Kaisan,Kaisan-gun,Koesan County,Koesan-gun,goesan,goesangun,괴산,괴산군	36.77179	127.81426	A	ADM2	KR		05	33360			44461		244	Asia/Seoul	2014-01-12
+1842853	Geochang-gun	Geochang-gun	Geochang,Geochang-gun,Koch'ang,Koch'ang-gun,Koch’ang,Kyosho,Kyosho-gun,Kyoshō,Kyoshō-gun,Kŏch’ang-gun,geochang,geochang-gun,거창,거창군	35.73034	127.90149	A	ADM2	KR		20	38390			67224		302	Asia/Seoul	2014-01-12
+1842854	Gochang-gun	Gochang-gun	Gochang-gun,gochang-gun,고창군	35.43483	126.70047	A	ADM2	KR		03	35370			72996		47	Asia/Seoul	2014-01-12
+1842942	Gimhae-si	Gimhae-si	Gimhae,Gimhae City,Gimhae-si,gimhae,gimhaesi,김해,김해시	35.25	128.86667	A	ADM2	KR		20	38070			531966		32	Asia/Seoul	2025-03-31
+1843128	Gangseo-gu	Gangseo-gu	Gangseo District,Gangseo-gu,gangseogu,강서구	37.56227	126.81622	A	ADM2	KR		11	11160			546938		14	Asia/Seoul	2023-11-13
+1843136	Gangneung-si	Gangneung-si	Gangneung,Gangneung-si,gangleung,gangleungsi,강릉,강릉시	37.7519	128.87825	A	ADM2	KR		06	32030			229869		38	Asia/Seoul	2014-01-07
+1843140	Gangnam-gu	Gangnam-gu	Gangnam District,Gangnam-gu,gangnam,gangnamgu,강남,강남구	37.4951	127.06278	A	ADM2	KR		11	11230			508135		22	Asia/Seoul	2025-03-31
+1843154	Gangjin-gun	Gangjin-gun	Gangjin,Gangjin-gun,Kangjin-gun,gangjin,gangjingun,강진,강진군	34.61787	126.76758	A	ADM2	KR		16	36390			49254		1	Asia/Seoul	2014-01-12
+1843160	Ganghwa-gun	Ganghwa-gun	Ganghwa,Ganghwa County,Ganghwa-gun,Kanghwa-gun,Koka-gun,Kōka-gun,ganghwa,ganghwagun,강화,강화군	37.71028	126.44345	A	ADM2	KR		12	23310			68891		102	Asia/Seoul	2025-03-31
+1843543	Inje-gun	Inje-gun	Inje,Inje-gun,inje,injegun,인제,인제군	38.04416	128.27876	A	ADM2	KR		06	32390			34120		698	Asia/Seoul	2016-10-08
+1843583	Imsil-gun	Imsil-gun	Imsil,Imsil-gun,imsil,imsilgun,임실,임실군	35.6216	127.23187	A	ADM2	KR		03	35350			37514		340	Asia/Seoul	2019-01-10
+1843663	Iksan-si	Iksan-si	Ekisan-gun,Ekizan-gun,Eksan,Igsan gun,Iksan,Iksan-gun,Iksan-si,igsan,igsansi,익산,익산시	36.02443	127.0093	A	ADM2	KR		03	35030			308794		25	Asia/Seoul	2020-03-15
+1843700	Icheon-si	Icheon-si	Icheon,Icheon City,Icheon-si,icheon,icheonsi,이천,이천시	37.27642	127.43692	A	ADM2	KR		13	31210			223422		79	Asia/Seoul	2025-03-31
+1843839	Hwasun-gun	Hwasun-gun	Hwasun,Hwasun-gun,Wajun-gun,Wazyun-gun,hwasun,hwasungun,화순,화순군	35.00468	127.02648	A	ADM2	KR		16	36370			78610		199	Asia/Seoul	2018-04-06
+1844173	Hongseong-gun	Hongseong-gun	Hongseong,Hongseong County,Hongseong-gun,Hongsong-gun,Hongsŏng-gun,Kojo-gun,Kozyo gun,Kōjō-gun,Kōzyō gun,hongseong,hongseong-gun,홍성,홍성군	36.56705	126.62626	A	ADM2	KR		17	34360			98866		172	Asia/Seoul	2025-04-01
+1844190	Hongcheon-gun	Hongcheon-gun	Hongch'on-gun,Hongcheon,Hongcheon-gun,Hongch’ŏn-gun,hongcheon,hongcheongun,홍천,홍천군	37.76058	128.02823	A	ADM2	KR		06	32310			70401		351	Asia/Seoul	2014-01-12
+1844239	Hoengseong-gun	Hoengseong-gun	Hoengseong-gun,hoengseong-gun,횡성군	37.48817	127.9857	A	ADM2	KR		06	32320			47362		123	Asia/Seoul	2014-01-07
+1844410	Hapcheon-gun	Hapcheon-gun	Habcheon gun,Hapch'on-gun,Hapcheon,Hapcheon-gun,Hapch’ŏn-gun,Hyoch'on-gun,Hyŏch’ŏn-gun,habcheon,habcheongun,합천,합천군	35.5741	128.13841	A	ADM2	KR		20	38400			60160		126	Asia/Seoul	2014-01-12
+1844532	Hamyang-gun	Hamyang-gun	Hamyang,Hamyang-gun,Hayong-gun,Kanyo,Kanyo-gun,Kanyō,Kanyō-gun,ham-yang,ham-yang-gun,함양,함양군	35.55233	127.71196	A	ADM2	KR		20	38380			0		279	Asia/Seoul	2014-01-12
+1844537	Hampyeong-gun	Hampyeong-gun	Hamp'yong-gun,Hampyeong,Hampyeong-gun,Hamp’yŏng-gun,hampyeong,hampyeong-gun,함평,함평군	35.14988	126.53337	A	ADM2	KR		16	36430			45232		101	Asia/Seoul	2018-05-09
+1844557	Haman-gun	Haman-gun	Haman,Haman-gun,Kanan-gun,ham-an,ham-angun,함안,함안군	35.29117	128.4297	A	ADM2	KR		20	38320			63435		11	Asia/Seoul	2014-01-12
+1844748	Haenam-gun	Haenam-gun	Haenam,Haenam-gun,haenam,haenamgun,해남,해남군	34.54047	126.5187	A	ADM2	KR		16	36400			87956		5	Asia/Seoul	2014-01-12
+1844784	Hadong-gun	Hadong-gun	Hadong,Hadong-gun,hadong,hadong-gun,하동,하동군	35.13628	127.77291	A	ADM2	KR		20	38360			58010		335	Asia/Seoul	2014-01-12
+1844834	Yeongju-si	Yeongju-si	Eishu-gunsee,Yeongju,Yeongju-si,Yongju-gun,Yŏngju-gun,yeongju,yeongjusi,영주,영주시	36.87459	128.58631	A	ADM2	KR		14	37060			196000		203	Asia/Seoul	2014-01-12
+1845017	Tongyeong-si	Tongyeong-si	Ch'ungmu-si,Ch’ungmu-si,T'ongyong-si,T'ongyong-up,Toei,Toei-men,Toei-yu,Tongyeong,Tongyeong-si,Tōei,Tōei-men,Tōei-yū,T’ongyŏng-si,T’ongyŏng-ŭp,tong-yeong,tong-yeongsi,통영,통영시	34.8736	128.39709	A	ADM2	KR		20	38050			0		117	Asia/Seoul	2014-01-12
+1845032	Chungju-si	Chungju-si	Ch'ungju-si,Chungju,Chungju City,Chungju-si,Ch’ungju-si,chungju,chungjusi,충주,충주시	37.01791	127.87713	A	ADM2	KR		05	33020			218098		109	Asia/Seoul	2014-01-12
+1845068	Jung-gu	Jung-gu	Jung District,Jung-gu,jung-gu,중구	37.55986	126.99398	A	ADM2	KR		11	11020			121324		50	Asia/Seoul	2025-03-31
+1845069	Jung-gu	Jung-gu	Chung-gu,Jung District,Jung-gu,jung-gu,중구	35.10594	129.03331	A	ADM2	KR		10	21010			37904		61	Asia/Seoul	2025-03-31
+1845134	Chuncheon-si	Chuncheon-si	Chuncheon,Chuncheon-si,Tsountson,chuncheon,chuncheonsi,Τσούντσον,춘천,춘천시	37.88048	127.72776	A	ADM2	KR		06	32010			273130		94	Asia/Seoul	2022-09-12
+1845344	Cheorwon-gun	Cheorwon-gun	Ch'orwon-gun,Ch'owon-gun,Cheolweon gun,Cheorwon,Cheorwon-gun,Ch’ŏrwŏn-gun,Ch’ŏwŏn-gun,Gimhwa-gun,Kimhwa-gun,Tsorouon,cheol-won,cheol-wongun,Τσόρουον,철원,철원군	38.24391	127.44522	A	ADM2	KR		06	32360			54040		237	Asia/Seoul	2022-09-12
+1845453	Jeonju-si	Jeonju-si	Jeonju,Jeonju-si,jeonju,jeonjusi,전주,전주시	35.83333	127.15	A	ADM2	KR		03	35010			654040		44	Asia/Seoul	2014-01-08
+1845490	Cheongyang-gun	Cheongyang-gun	Ch'ongyang-gun,Cheongyang,Cheongyang-gun,Ch’ŏngyang-gun,Seiyo-gun,Seiyō-gun,cheong-yang,cheong-yang-gun,청양,청양군	36.41676	126.79419	A	ADM2	KR		17	34350			37194		75	Asia/Seoul	2019-07-10
+1845501	Jeongeup-si	Jeongeup-si	Jeongeup,Jeongeup-si,jeong-eub,jeong-eubsi,정읍,정읍시	35.6	126.91667	A	ADM2	KR		03	35040			139876		53	Asia/Seoul	2014-01-08
+1845515	Jeongseon-gun	Jeongseon-gun	Changson,Chongson-gun,Chŏngsŏn-gun,Jeongseon,Jeongseon-gun,Seizen-gun,jeongseon,jeongseongun,정선,정선군	37.38911	128.72995	A	ADM2	KR		06	32350			46362		676	Asia/Seoul	2014-01-12
+1845581	Jongno-gu	Jongno-gu	Jongno District,Jongno-gu,Jongro,jonglogu,종로구	37.5729	126.97928	A	ADM2	KR		11	11010			138879		46	Asia/Seoul	2025-03-31
+1845599	Cheongju-si	Cheongju-si	Ch'ongju-si,Cheongju,Cheongju-si,Cheonju,Ch’ŏngju-si,cheongju,cheongjusi,청주,청주시	36.63535	127.46781	A	ADM2	KR		05	33010			670680		81	Asia/Seoul	2014-01-12
+1845685	Cheongdo-gun	Cheongdo-gun	Ch'ongdo-gun,Cheongdo,Cheongdo County,Cheongdo-gun,Ch’ŏngdo-gun,Sedo-gun,Seido-gun,Seidō-gun,Sēdō-gun,cheongdo,cheongdogun,청도,청도군	35.67166	128.78509	A	ADM2	KR		14	37360			47099		137	Asia/Seoul	2023-11-12
+1845757	Cheonan-si	Cheonan-si	Ch'onan-si,Ch'onan-up,Cheonan,Cheonan City,Cheonan-si,Ch’ŏnan-si,Ch’ŏnan-ŭp,cheon-an,cheon-ansi,천안,천안시	36.80488	127.19431	A	ADM2	KR		17	34010			658831		221	Asia/Seoul	2025-04-01
+1846050	Jinju-si	Jinju-si	Chinju-si,Jinju,Jinju-si,jinju,jinjusi,진주,진주시	35.20445	128.12408	A	ADM2	KR		20	38030			340816		25	Asia/Seoul	2014-01-12
+1846089	Jindo-gun	Jindo-gun	Chindo-gun,Jindo,Jindo-gun,jindo,jindogun,진도,진도군	34.4175	126.17331	A	ADM2	KR		16	36470			42229		12	Asia/Seoul	2023-10-06
+1846093	Jincheon-gun	Jincheon-gun	Chinch'on-gun,Chinch’ŏn-gun,Jincheon,Jincheon-gun,jincheon,jincheongun,진천,진천군	36.88281	127.42768	A	ADM2	KR		05	33350			60964		100	Asia/Seoul	2014-01-12
+1846111	Jinan-gun	Jinan-gun	Chinan-gun,Jinan,Jinan-gun,jin-an,jin-angun,진안,진안군	35.80472	127.47579	A	ADM2	KR		03	35320			31273		407	Asia/Seoul	2019-02-21
+1846148	Chilgok-gun	Chilgok-gun	Ch'ilgok-kun,Chilgog gun,Chilgok,Chilgok-gun,Ch’ilgok-kun,Shikkoku-gun,chilgog,chilgoggun,칠곡,칠곡군	36.01512	128.46138	A	ADM2	KR		14	37390			107158		132	Asia/Seoul	2014-01-12
+1846261	Jeju-si	Jeju-si	Cheju-myon,Cheju-myŏn,Cheju-si,Cheju-up,Cheju-ŭp,Jeju,Jeju City,Jeju Si,Jeju-si,Saishu-men,Saishu-yu,Saishu-yū,Saishū-men,jeju,jejusi,제주,제주시	33.45578	126.53928	A	ADM2	KR		01	39010			488844		267	Asia/Seoul	2025-03-31
+1846277	Jecheon-si	Jecheon-si	Chech'on-gun,Chech’ŏn-gun,Jecheon,Jecheon gun,Jecheon-si,Teisen-gun,jecheon,jecheonsi,제천,제천시	37.06206	128.14065	A	ADM2	KR		05	33030			137147		342	Asia/Seoul	2014-01-12
+1846322	Changwon-si	Changwon-si	Ch'angwon-si,Changweon gun,Changwon,Changwon City,Changwon-si,Ch’angwŏn-si,Shogen-gun,Shōgen-gun,chang-won,chang-wonsi,창원,창원시	35.27533	128.65152	A	ADM2	KR		20	38110			1001902		43	Asia/Seoul	2025-04-01
+1846351	Jangsu-gun	Jangsu-gun	Changsu-gun,Chosui-gun,Chōsui-gun,Jangsu,Jangsu-gun,jangsu,jangsugun,장수,장수군	35.62504	127.56358	A	ADM2	KR		03	35340			26463		776	Asia/Seoul	2019-01-10
+1846368	Jangseong-gun	Jangseong-gun	Changsong-gun,Changsŏng-gun,Chojo-gun,Chōjō-gun,Jangseong,Jangseong-gun,jangseong,jangseong-gun,장성,장성군	35.32734	126.76817	A	ADM2	KR		16	36450			55986		100	Asia/Seoul	2014-01-12
+1846444	Changnyeong-gun	Changnyeong-gun	Ch'angnyong-gun,Changnyeong,Changnyeong-gun,Ch’angnyŏng-gun,changnyeong,changnyeong-gun,창녕,창녕군	35.50822	128.4902	A	ADM2	KR		20	38330			74668		65	Asia/Seoul	2014-01-12
+1846543	Jangheung-gun	Jangheung-gun	Changhung-gun,Changhŭng-gun,Jangheung,Jangheung-gun,jangheung,jangheung-gun,장흥,장흥군	34.70555	126.94905	A	ADM2	KR		16	36380			53392		172	Asia/Seoul	2017-08-02
+1846848	Asan-si	Asan-si	Asan,Asan-gun,Asan-kun,Asan-si,Gasan-gun,Gazan-gun,asan,asansi,아산,아산시	36.80791	126.97769	A	ADM2	KR		17	34040			242575		5	Asia/Seoul	2014-01-12
+1846894	Anyang-si	Anyang-si	Anyang,Anyang City,Anyang-si,an-yang,an-yangsi,안양,안양시	37.40282	126.92874	A	ADM2	KR		13	31040			551228		61	Asia/Seoul	2025-03-31
+1846909	Anseong	Anseong	Anseong,Anseong City,Anseong gun,Anseong-si,Ansong-gun,Ansŏng-gun,anseong,anseongsi,안성,안성시	37.03789	127.30057	A	ADM2	KR		13	31220			193220		104	Asia/Seoul	2025-03-31
+1846980	Andong-si	Andong-si	Andong,Andong-gun,Andong-si,Andong-up,Andong-ŭp,andong,andongsi,안동,안동시	36.56667	128.71667	A	ADM2	KR		14	37040			167942		98	Asia/Seoul	2016-10-08
+1979341	Saha-gu	Saha-gu	Saha,Saha District,Saha-gu,saha,sahagu,사하,사하구	35.08552	128.98725	A	ADM2	KR		10	21100			292717		17	Asia/Seoul	2025-03-31
+8349528	Seongdong-gu	Seongdong-gu	Seongdong District,Seongdong-gu,seongdong-gu,성동구	37.54784	127.02461	A	ADM2	KR		11	11040			275403		22	Asia/Seoul	2025-03-31
+8349529	Gwangjin-gu	Gwangjin-gu	Gwangjin District,Gwangjin-gu,gwangjingu,광진구	37.53913	127.08366	A	ADM2	KR		11	11050			333403		26	Asia/Seoul	2025-04-01
+8349530	Jungnang-gu	Jungnang-gu	Jungnang District,Jungnang-gu,junglang-gu,중랑구	37.60199	127.10461	A	ADM2	KR		11	11070			380353		40	Asia/Seoul	2025-04-01
+8349531	Nowon-gu	Nowon-gu	Nowon District,Nowon-gu,nowongu,노원구	37.66045	127.06718	A	ADM2	KR		11	11110			492544		41	Asia/Seoul	2025-04-01
+8349532	Seongbuk-gu	Seongbuk-gu	Seongbuk District,Seongbuk-gu,seongbuggu,성북구	37.60267	127.01448	A	ADM2	KR		11	11080			423439		50	Asia/Seoul	2025-04-01
+8349533	Yangcheon-gu	Yangcheon-gu	Yangcheon-gu,yangcheongu,양천구	37.52157	126.85827	A	ADM2	KR		11	11150			469434		16	Asia/Seoul	2017-01-25
+8349534	Geumcheon-gu	Geumcheon-gu	Geumcheon District,Geumcheon-gu,geumcheongu,금천구	37.47486	126.89106	A	ADM2	KR		11	11180			242510		21	Asia/Seoul	2023-11-11
+8349535	Seocho-gu	Seocho-gu	Seocho District,Seocho-gu,seochogu,서초구	37.49447	127.01088	A	ADM2	KR		11	11220			405126		34	Asia/Seoul	2025-04-01
+8349536	Songpa-gu	Songpa-gu	Songpa District,Songpa-gu,songpagu,송파구	37.5021	127.11113	A	ADM2	KR		11	11240			652343		27	Asia/Seoul	2025-04-01
+8393538	Hwacheon-gun	Hwacheon-gun	Hwacheon-gun,hwacheongun,화천군	38.14212	127.67615	A	ADM2	KR		06	32370			23822		167	Asia/Seoul	2014-01-07
+8393711	Taebaek-si	Taebaek-si	Taebaek,Taebaek City,Taebaek-si,taebaeg,taebaegsi,태백,태백시	37.1652	128.9857	A	ADM2	KR		06	32050			38103		706	Asia/Seoul	2025-03-31
+8393790	Hanam-si	Hanam-si	Hanam,Hanam City,Hanam-si,hanam,hanamsi,하남,하남시	37.53895	127.2125	A	ADM2	KR		13	31180			328412		29	Asia/Seoul	2025-03-31
+8393792	Ansan-si	Ansan-si	Ansan,Ansan City,Ansan-si,ansan,ansansi,안산,안산시	37.31693	126.83048	A	ADM2	KR		13	31090			623256		9	Asia/Seoul	2025-03-31
+8393793	Gunpo-si	Gunpo-si	Gunpo,Gunpo City,Gunpo-si,gunpo,gunposi,군포,군포시	37.34261	126.92149	A	ADM2	KR		13	31160			257498		130	Asia/Seoul	2025-04-01
+8393794	Gwangmyeong-si	Gwangmyeong-si	Gwangmyeong,Gwangmyeong City,Gwangmyeong-si,gwangmyeong,gwangmyeongsi,광명,광명시	37.44435	126.86499	A	ADM2	KR		13	31060			277564		148	Asia/Seoul	2025-04-01
+8393795	Osan-si	Osan-si	Osan,Osan City,Osan-si,osan,osansi,오산,오산시	37.1623	127.05246	A	ADM2	KR		13	31140			238788		33	Asia/Seoul	2025-04-01
+8393796	Uiwang-si	Uiwang-si	Uiwang,Uiwang City,Uiwang-si,uiwang,uiwangsi,의왕,의왕시	37.345	126.97575	A	ADM2	KR		13	31170			154923		68	Asia/Seoul	2025-04-01
+8393798	Gwacheon-si	Gwacheon-si	Gwacheon,Gwacheon City,Gwacheon-si,gwacheon,gwacheonsi,과천,과천시	37.43407	126.99989	A	ADM2	KR		13	31110			85397		51	Asia/Seoul	2025-04-01
+8393803	Guri-si	Guri-si	Guri,Guri City,Guri-si,guli,gulisi,구리,구리시	37.6012	127.1338	A	ADM2	KR		13	31120			211720		34	Asia/Seoul	2023-11-13
+8393804	Yangju-si	Yangju-si	Yangju,Yangju City,Yangju-si,yangju,yangjusi,양주,양주시	37.81732	127.046	A	ADM2	KR		13	31260			285930		96	Asia/Seoul	2025-04-01
+8417630	Seo-gu	Seo-gu	Seo District,Seo-gu,seogu,서구	37.55792	126.66955	A	ADM2	KR		12	23080			544465		17	Asia/Seoul	2024-06-10
+8417631	Gyeyang-gu	Gyeyang-gu	Gyeyang District,Gyeyang-gu,gyeyang,계양	37.55742	126.73688	A	ADM2	KR		12	23070			281172		37	Asia/Seoul	2025-03-31
+8417647	Bupyeong-gu	Bupyeong-gu	Bupyeong,Bupyeong District,Bupyeong-gu,bupyeong,bupyeong-gu,부평,부평구	37.49671	126.71642	A	ADM2	KR		12	23060			493253		19	Asia/Seoul	2025-03-31
+8417651	Namdong-gu	Namdong-gu	Namdong,Namdong District,Namdong-gu,namdong,namdong-gu,남동,남동구	37.43138	126.73845	A	ADM2	KR		12	23050			487569		5	Asia/Seoul	2025-03-31
+8417654	Yeonsu-gu	Yeonsu-gu	Yeonsu,Yeonsu District,Yeonsu-gu,yeonsu,yeonsugu,연수,연수구	37.39595	126.64001	A	ADM2	KR		12	23040			398972		-9999	Asia/Seoul	2025-03-31
+8417655	Dong-gu	Dong-gu	Dong,Dong District,Dong-gu,dong,dong-gu,동,동구	37.48327	126.62784	A	ADM2	KR		12	23020			75513		16	Asia/Seoul	2025-03-31
+8419249	Taean-gun	Taean-gun	Taean,Taean-gun,taean,taeangun,태안,태안군	36.70036	126.28391	A	ADM2	KR		17	34380			63930		12	Asia/Seoul	2014-01-17
+8419251	Gyeryong-si	Gyeryong-si	Gyeryong,Gyeryong-si,gyelyong,gyelyongsi,계룡,계룡시	36.29304	127.22575	A	ADM2	KR		17	34070			43269		229	Asia/Seoul	2015-11-09
+8419683	Jeungpyeong-gun	Jeungpyeong-gun	Jeungpyeong,Jeungpyeong-gun,jeungpyeong,jeungpyeong-gun,증평,증평군	36.78377	127.59858	A	ADM2	KR		05	33390			31276		57	Asia/Seoul	2014-01-17
+8419684	Yuseong-gu	Yuseong-gu	Yoosung-Gu,Yu Sung Gu,Yusanggu,Yuseong District,Yuseong-gu,Yusung gu,yuseong-gu,유성구	36.36685	127.327	A	ADM2	KR		19	25040			369405		56	Asia/Seoul	2025-03-31
+8419685	Seo-gu	Seo-gu	Seo,Seo District,Seo-gu,seo,seogu,서,서구	36.27211	127.331	A	ADM2	KR		19	25030			506070		152	Asia/Seoul	2025-03-31
+8419686	Jung-gu	Jung-gu	Jung,Jung District,Jung-gu,jung,jung-gu,중,중구	36.2737	127.41769	A	ADM2	KR		19	25020			265467		196	Asia/Seoul	2025-03-31
+8419687	Dong-gu	Dong-gu	Dong District,Dong-gu,dong-gu,동구	36.32938	127.44313	A	ADM2	KR		19	25010			218640		60	Asia/Seoul	2025-03-31
+8419823	Yeongyang-gun	Yeongyang-gun	Yeongyang,Yeongyang-gun,yeong-yang,yeong-yang-gun,영양,영양군	36.69592	129.14196	A	ADM2	KR		14	37340			21385		543	Asia/Seoul	2014-01-17
+8419824	Dalseo-gu	Dalseo-gu	Dalseo,Dalseo District,Dalseo-gu,dalseo,dalseogu,달서,달서구	35.82569	128.52403	A	ADM2	KR		15	22070			523712		31	Asia/Seoul	2025-04-01
+8419825	Seo-gu	Seo-gu	Seo District,Seo-gu,seogu,서구	35.87465	128.55109	A	ADM2	KR		15	22030			163463		45	Asia/Seoul	2025-04-01
+8419826	Nam-gu	Nam-gu	Nam District,Nam-gu,namgu,남구	35.84119	128.588	A	ADM2	KR		15	22040			135957		73	Asia/Seoul	2025-04-01
+8419827	Jung-gu	Jung-gu	Jung-gu,jung-gu,중구	35.86678	128.59538	A	ADM2	KR		15	22010			94808		50	Asia/Seoul	2025-04-01
+8419828	Buk-gu	Buk-gu	Buk District,Buk-gu,buggu,북구	35.9	128.59175	A	ADM2	KR		15	22050			414883		30	Asia/Seoul	2025-04-01
+8419829	Dong-gu	Dong-gu	Dong District,Dong-gu,dong-gu,동구	35.88566	128.63296	A	ADM2	KR		15	22020			343398		37	Asia/Seoul	2025-04-01
+8419830	Suseong-gu	Suseong-gu	Suseong District,Suseong-gu,suseong-gu,수성구	35.85905	128.62625	A	ADM2	KR		15	22060			408477		54	Asia/Seoul	2025-04-01
+8462134	Seo-gu	Seo-gu	Seo District,Seo-gu,seogu,서구	35.15248	126.89106	A	ADM2	KR		18	24020			280045		51	Asia/Seoul	2025-03-31
+8462135	Nam-gu	Nam-gu	Nam District,Nam-gu,namgu,남구	35.12159	126.90943	A	ADM2	KR		18	24030			207363		80	Asia/Seoul	2025-03-31
+8462136	Buk-gu	Buk-gu	Buk District,Buk-gu,buggu,북구	35.19232	126.92439	A	ADM2	KR		18	24040			424942		90	Asia/Seoul	2025-03-31
+8462137	Dong-gu	Dong-gu	Dong District,Dong-gu,dong-gu,동구	35.14592	126.9232	A	ADM2	KR		18	24010			106354		59	Asia/Seoul	2025-03-31
+8462803	Sasang-gu	Sasang-gu	Sasang,Sasang Districte,Sasang-gu,sasang,sasang-gu,사상,사상구	35.14479	128.97986	A	ADM2	KR		10	21150			199406		4	Asia/Seoul	2025-03-31
+8462807	Yeonje-gu	Yeonje-gu	Yeonje,Yeonje District,Yeonje-gu,yeonje,yeonjegu,연제,연제구	35.18206	129.08285	A	ADM2	KR		10	21130			212400		24	Asia/Seoul	2025-03-31
+8462808	Haeundae-gu	Haeundae-gu	Haeundae District,Haeundae-gu,haeundaegu,해운대구	35.16665	129.16792	A	ADM2	KR		10	21090			376621		12	Asia/Seoul	2025-03-31
+8462812	Gangseo District	Gangseo District	Gangseo District,Gangseo-gu,gangseogu,jiang xi qu,江西区,江西區,강서구	35.1593	128.933	A	ADM2	KR		10	21120			142902		3	Asia/Seoul	2025-03-31
+8462814	Geumjeong-gu	Geumjeong-gu	Geumjeong District,Geumjeong-gu,geumjeong-gu,금정구	35.25863	129.0901	A	ADM2	KR		10	21110			210905		47	Asia/Seoul	2025-03-31
+8462815	Gijang-gun	Gijang-gun	Gijang,Gijang-gun,gijang,gijang-gun,기장,기장군	35.29721	129.20076	A	ADM2	KR		10	21310			103784		91	Asia/Seoul	2014-01-17
+8541499	Ongjin-gun	Ongjin-gun	Ongjin,Ongjin County,Ongjin-gun,ongjin,ongjingun,옹진,옹진군	37.23361	126.12305	A	ADM2	KR		12	23320			20456		202	Asia/Seoul	2023-11-11
+8541971	Suyeong-gu	Suyeong-gu	Suyeong,Suyeong District,Suyeong-gu,suyeong,suyeong-gu,수영,수영구	35.15627	129.11253	A	ADM2	KR		10	21140			172329		18	Asia/Seoul	2025-03-31
+8604733	Gimcheon-si	Gimcheon-si	Gimcheon,Gimcheon City,Gimcheon-si,gimcheon,gimcheonsi,김천,김천시	36.14481	128.11157	A	ADM2	KR		14	37030			150000		196	Asia/Seoul	2023-11-12
+8604734	Hwaseong-si	Hwaseong-si	Hwaseong,Hwaseong City,Hwaseong-si,hwaseong,hwaseongsi,화성,화성시	37.20025	126.82909	A	ADM2	KR		13	31240			904267		44	Asia/Seoul	2025-03-31
+8604735	Mungyeong-si	Mungyeong-si	Mungyeong,Mungyeong-si,mungyeong,mungyeongsi,문경,문경시	36.58755	128.18624	A	ADM2	KR		14	37090			77304		88	Asia/Seoul	2014-01-08
+8604736	Sacheon-si	Sacheon-si	Sacheon,Sacheon-si,sacheon,sacheonsi,사천,사천시	35.00385	128.06857	A	ADM2	KR		20	38060			114556		117	Asia/Seoul	2014-01-08
+8604737	Samcheok-si	Samcheok-si	Samcheok,Samcheok-si,Samchkhok,samcheog,samcheogsi,Самчхок,삼척,삼척시	37.45013	129.16626	A	ADM2	KR		06	32070			72368		26	Asia/Seoul	2015-06-14
+8604787	Wanju-gun	Wanju-gun	Wanju-gun,wanjugun,완주군	35.88724	127.25859	A	ADM2	KR		03	35310			84009		123	Asia/Seoul	2014-01-12
+8604789	Cheongsong-gun	Cheongsong-gun	Cheongsong-gun,cheongsong-gun,청송군	36.43288	129.05159	A	ADM2	KR		14	37330			31313		202	Asia/Seoul	2014-01-08
+8604790	Gapyeong-gun	Gapyeong-gun	Gapyeong-gun,gapyeong-gun,가평군	37.8308	127.51522	A	ADM2	KR		13	31370			55415		62	Asia/Seoul	2014-01-06
+8604807	Busanjin-gu	Busanjin-gu	Busanjin-gu,busanjingu,부산진구	35.16293	129.05133	A	ADM2	KR		10	21050			0		30	Asia/Seoul	2014-01-07
+8604981	Jung-gu	Jung-gu	Jung District,Jung-gu,jung-gu,중구	37.47353	126.62151	A	ADM2	KR		12	23010			136879		23	Asia/Seoul	2023-11-11
+8604983	Michuhol	Michuhol	Michuhol,Michuhol District,Nam-gu,mi zou hu qu,michuholgu,namgu,彌鄒忽區,남구,미추홀구	37.46362	126.65	A	ADM2	KR		12	23030			410913		24	Asia/Seoul	2025-03-31
+8605089	Nam-gu	Nam-gu	Nam District,Nam-gu,namgu,남구	35.54382	129.32917	A	ADM2	KR		21	26020			314301		6	Asia/Seoul	2025-03-31
+8605090	Dong-gu	Dong-gu	Dong District,Dong-gu,dong-gu,동구	35.5047	129.4186	A	ADM2	KR		21	26030			151067		48	Asia/Seoul	2025-03-31
+8605097	Jung-gu	Jung-gu	Jung District,Jung-gu,jung-gu,중구	35.5684	129.33226	A	ADM2	KR		21	26010			208568		44	Asia/Seoul	2025-03-31
+8605100	Buk-gu	Buk-gu	Buk District,Buk-gu,buggu,북구	35.58243	129.36049	A	ADM2	KR		21	26040			216561		13	Asia/Seoul	2025-03-31
+8616848	Buk-gu	Buk-gu	Buk District,Buk-gu,buggu,북구	35.19724	128.99134	A	ADM2	KR		10	21080			275773		8	Asia/Seoul	2025-03-31
+8616850	Nam-gu	Nam-gu	Nam District,Nam-gu,namgu,남구	35.13648	129.08266	A	ADM2	KR		10	21070			255387		44	Asia/Seoul	2025-03-31
+8659242	Sejong-Si	Sejong-Si		36.59313	127.29661	A	ADM2	KR		22	29010			0		34	Asia/Seoul	2014-01-12

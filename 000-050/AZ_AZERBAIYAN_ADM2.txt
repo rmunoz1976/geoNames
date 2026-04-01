@@ -1,0 +1,21 @@
+﻿147212	Shahbuz Rayon	Shahbuz Rayon	Sahbuz Rayonu,Shahbuz Rayonu,Shakhbuzskiy Rayon,Şahbuz Rayonu	39.41667	45.58333	A	ADM2	AZ		35	147212			25400		1263	Asia/Baku	2025-08-10
+147365	Ordubad Rayon	Ordubad Rayon	Ordubad Rayonu,Ordubadskiy Rayon	39.08333	45.91667	A	ADM2	AZ		35	147365			50700		1895	Asia/Baku	2025-08-10
+147997	Sharur Rayon	Sharur Rayon	Il'ichevskiy Rayon,Ilich Rayonu,Il’ichëvskiy Rayon,Norashenskiy Rayon,Sarur Rayonu,Şərur Rayonu	39.5	45.08333	A	ADM2	AZ		35	147997			113000		952	Asia/Baku	2025-08-10
+148132	Julfa Rayon	Julfa Rayon	Culfa Rayonu,Culfa rayonu,Dzhul'finskiy Rayon,Dzhul’finskiy Rayon,Julfa Rayonu	39.16667	45.66667	A	ADM2	AZ		35	148132			48000		1290	Asia/Baku	2025-08-10
+148412	Nakhchivan City	Nakhchivan City	Nakhchivan City,Naxçıvan Şəhər	39.20938	45.41748	A	ADM2	AZ		35	148412			0		876	Asia/Baku	2011-08-30
+409387	Sadarak Rayon	Sadarak Rayon		39.7	44.86667	A	ADM2	AZ		35	409387			23000		833	Asia/Baku	2025-08-10
+585038	Shaumyan Rayon	Shaumyan Rayon	Shaumyan Rayonu,Shaumyanovskiy Rayon	40.41667	46.5	A	ADM2	AZ		21	585038			0		1412	Asia/Baku	2014-03-18
+585039	Shaumyanovskiy Rayon	Shaumyanovskiy Rayon		40.38333	49.91667	A	ADM2	AZ		09	585039			0		5	Asia/Baku	2007-05-30
+585320	Ordzhonikidzevskiy Rayon))	Ordzhonikidzevskiy Rayon		40.4	50.03333	A	ADM2	AZ		09	585320			0		30	Asia/Baku	2007-05-30
+585328	Oktyabr'skiy Rayon	Oktyabr'skiy Rayon		40.38333	49.8	A	ADM2	AZ		09	585328			0		125	Asia/Baku	2007-05-30
+585358	Nizaminskiy Rayon	Nizaminskiy Rayon	Nasiminskiy Rayon	40.38333	49.83333	A	ADM2	AZ		09	585358			0		11	Asia/Baku	2007-05-30
+585509	Mirbǝşir Rayonu	Mirbasir Rayonu	Mir-Bashirskiy Rayon,Mirbashir Rayonu,Mirbäshir Rayonu,Terterskiy Rayon	40.33333	47	A	ADM2	AZ		57	585509			0		174	Asia/Baku	2014-03-18
+585638	Leninskiy Rayon	Leninskiy Rayon		40.5	49.91667	A	ADM2	AZ		01	585638			0		23	Asia/Baku	2007-05-30
+585882	Kirovskiy Rayon	Kirovskiy Rayon		40.5	49.78333	A	ADM2	AZ		01	585882			0		0	Asia/Baku	2007-05-30
+586209	Garadagh region	Garadagh region	Azizbekovskiy Rayon,Garadagh region,Karadagskiy Rayon,Molotovskiy Rayon,Qaradag rayonu,Qaradağ rayonu	40.33333	49.66667	A	ADM2	AZ		09	586209			0		72	Asia/Baku	2021-06-01
+586342	Imeni Dvadtsati Shesti Bakinskikh Komissarov Rayon	Imeni Dvadtsati Shesti Bakinskikh Komissarov Rayon	Stalinskiy Rayon	40.33333	49.8	A	ADM2	AZ		09	586342			0		192	Asia/Baku	2007-05-30
+7669114	Babek Rayon	Babek Rayon		39.29	45.39	A	ADM2	AZ		35	7669114			77800		986	Asia/Baku	2025-08-10
+7669203	Khatai raion	Khatai raion	Khatai raion,Xətai Rayonu	40.37852	49.9451	A	ADM2	AZ		09	7669203			0		27	Asia/Baku	2014-09-11
+8014931	Kangarli Rayon	Kangarli Rayon	Kangarli,Kəngərli	39.42081	45.13527	A	ADM2	AZ		35	8014931			33500		965	Asia/Baku	2025-08-10
+8411069	Nakhchivan	Nakhchivan	Nakhchivan,Naxcivan,Naxcivan Sahari,Naxçıvan,Naxçıvan Şəhəri	39.2	45.41667	A	ADM2	AZ		35	8411069			97200		876	Asia/Baku	2025-08-10
+8572651	Nizami Rayonu	Nizami Rayonu	Nizami Rayonu	40.4097	49.91926	A	ADM2	AZ		09	8572651			0		32	Asia/Baku	2013-07-08

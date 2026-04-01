@@ -1,0 +1,2 @@
+﻿6942862	Hopelchén	Hopelchen		17.8	-89.1	A	ADM2	BZ		04	6942862			34687		159	America/Belize	2009-07-02
+9252696	Dangriga	Dangriga		16.9642	-88.2439	A	ADM2	BZ		05	9252696			0		15	America/Belize	2014-09-06

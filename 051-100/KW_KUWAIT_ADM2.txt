@@ -1,0 +1,109 @@
+﻿12216231	Ad Du‘ayyah	Ad Du`ayyah	Ad Du`ayyah,Ad Du‘ayyah,الدعية	29.36016	48.01206	A	ADM2	KW		02	12216231			0		4	Asia/Kuwait	2021-02-11
+12216232	Ad Dasmah	Ad Dasmah	Ad Dasmah,aldsmt,الدسمة	29.36434	48.00081	A	ADM2	KW		02	12216232			0		8	Asia/Kuwait	2021-02-11
+12216233	Ash Sharq	Ash Sharq	Ash Sharq,alshrq,الشرق	29.38053	47.98271	A	ADM2	KW		02	12216233			0		17	Asia/Kuwait	2021-02-11
+12216234	Murqāb	Murqab	Murqab,Murqāb,mrqab,مرقاب	29.36601	47.98277	A	ADM2	KW		02	12216234			0		14	Asia/Kuwait	2021-02-11
+12216235	Qiblah	Qiblah	Qiblah,qblt,قبلة	29.37076	47.97035	A	ADM2	KW		02	12216235			0		11	Asia/Kuwait	2021-02-11
+12216236	Al Fayḩā’	Al Fayha'	Al Fayha',Al Fayḩā’,الفيحاء	29.33709	47.98136	A	ADM2	KW		02	12216236			0		21	Asia/Kuwait	2021-02-11
+12216237	Ash Shuwaykh aş Şinā‘īyah Wāḩid	AshShuwaykhasSina`iyahWahid	Ash Shuwaykh aş Şinā‘īyah Wāḩid,AshShuwaykhasSina`iyahWahid,الشويخ الصناعية واحد	29.33718	47.93922	A	ADM2	KW		02	12216237			0		7	Asia/Kuwait	2021-04-17
+12216238	Ash Shuwaykh aş Şinā‘īyah Ithnān	AshShuwaykhasSina`iyahIthnan	Ash Shuwaykh aş Şinā‘īyah Ithnān,AshShuwaykhasSina`iyahIthnan,الشويخ الصناعية إثنان	29.32338	47.95055	A	ADM2	KW		02	12216238			0		11	Asia/Kuwait	2021-04-17
+12216239	Ash Shuwaykh aş Şinā‘īyah Thalāthah	AshShuwaykhasSina`iyahThalathah	Ash Shuwaykh aş Şinā‘īyah Thalāthah,AshShuwaykhasSina`iyahThalathah,الشويخ الصناعية ثلاثة	29.32091	47.93098	A	ADM2	KW		02	12216239			0		12	Asia/Kuwait	2021-04-17
+12216240	Ash Shuwaykh at Ta‘līmīyah	Ash Shuwaykh at Ta`limiyah	Ash Shuwaykh at Ta`limiyah,Ash Shuwaykh at Ta‘līmīyah,الشويخ التعليمية	29.33695	47.91897	A	ADM2	KW		02	12216240			0		4	Asia/Kuwait	2021-02-11
+12216323	Ar Rawḑah	Ar Rawdah	Ar Rawdah,Ar Rawḑah,alrwdt,الروضة	29.33047	47.99075	A	ADM2	KW		02	12216323			0		15	Asia/Kuwait	2021-02-11
+12216328	Mīnā’ ash Shuwaykh	Mina' ash Shuwaykh	Mina' ash Shuwaykh,Mīnā’ ash Shuwaykh,ميناء الشويخ	29.35125	47.91333	A	ADM2	KW		02	12216328			0		1	Asia/Kuwait	2021-02-11
+12216329	Mu‘askarāt al Mubārakīyah	Mu`askarat al Mubarakiyah	Mu`askarat al Mubarakiyah,Mu‘askarāt al Mubārakīyah,معسكرة المباركية	29.31574	47.91332	A	ADM2	KW		02	12216329			0		11	Asia/Kuwait	2021-02-11
+12216330	Mīnā’ ad Dawḩah	Mina' ad Dawhah	Mina' ad Dawhah,Mīnā’ ad Dawḩah,ميناء الدوحة	29.35243	47.78131	A	ADM2	KW		02	12216330			0		4	Asia/Kuwait	2021-02-11
+12216331	Jazīrat Umm an Namal	Jazirat Umm an Namal	Jazirat Umm an Namal,Jazīrat Umm an Namal,jzyrt am alnml,جزيرة أم النمل	29.38289	47.86789	A	ADM2	KW		02	12216331			0		5	Asia/Kuwait	2021-02-11
+12216332	Al Maqwa‘	Al Maqwa`	Al Maqwa`,Al Maqwa‘,المقوع	29.14045	48.04426	A	ADM2	KW		04	12216332			0		100	Asia/Kuwait	2021-02-11
+12216333	Janūb aş Şabāḩīyah	Janub as Sabahiyah	Janub as Sabahiyah,Janūb aş Şabāḩīyah,jnwb alsbahyt,جنوب الصباحية	29.08279	48.1079	A	ADM2	KW		04	12216333			0		44	Asia/Kuwait	2021-02-11
+12216334	Shamāl ash Shu‘aybah	Shamal ash Shu`aybah	Shamal ash Shu`aybah,Shamāl ash Shu‘aybah,شمال الشعيبة	29.05925	48.1155	A	ADM2	KW		04	12216334			0		33	Asia/Kuwait	2021-02-11
+12216335	Janūb ash Shu‘aybah	Janub ash Shu`aybah	Janub ash Shu`aybah,Janūb ash Shu‘aybah,جنوب الشعيبة	29.0205	48.12817	A	ADM2	KW		04	12216335			0		35	Asia/Kuwait	2021-02-11
+12216336	Mīnā’ ‘Abd Allāh	Mina' `Abd Allah	Mina' `Abd Allah,Mīnā’ ‘Abd Allāh,ميناء عبد الله	29.00208	48.1524	A	ADM2	KW		04	12216336			0		18	Asia/Kuwait	2021-02-11
+12216337	Mu‘askarāt al Jahrā’	Mu`askarat al Jahra'	Mu`askarat al Jahra',Mu‘askarāt al Jahrā’,معسكرة الجهراء	29.35612	47.70226	A	ADM2	KW		05	12216337			0		1	Asia/Kuwait	2021-02-11
+12216338	Al Jahrā’ al Gharbīyah	Al Jahra' al Gharbiyah	Al Jahra' al Gharbiyah,Al Jahrā’ al Gharbīyah,الجهراء الغربية	29.3591	47.65078	A	ADM2	KW		05	12216338			0		33	Asia/Kuwait	2021-02-11
+12216339	Al Jahrā’ aş Şinā‘īyah	Al Jahra' as Sina`iyah	Al Jahra' as Sina`iyah,Al Jahrā’ aş Şinā‘īyah,الجهراء الصناعية	29.31513	47.65721	A	ADM2	KW		05	12216339			0		56	Asia/Kuwait	2021-02-11
+12216340	Al Maqbarah	Al Maqbarah	Al Maqbarah,almqbrt,المقبرة	29.30258	47.83252	A	ADM2	KW		05	12216340			0		9	Asia/Kuwait	2021-02-11
+12216341	Aş Şulaybīyah	As Sulaybiyah	As Sulaybiyah,Aş Şulaybīyah,alslybyt,الصليبية	29.28545	47.82631	A	ADM2	KW		05	12216341			0		21	Asia/Kuwait	2021-02-11
+12216342	Aş Şulaybīyah az Zirā‘īyah	As Sulaybiyah az Zira`iyah	As Sulaybiyah az Zira`iyah,Aş Şulaybīyah az Zirā‘īyah,الصليبية الزراعية	29.28398	47.8082	A	ADM2	KW		05	12216342			0		24	Asia/Kuwait	2021-02-11
+12216343	Aş Şulaybīyah aş Şinā‘īyah Wāḩid	AsSulaybiyahasSina`iyahWahid	AsSulaybiyahasSina`iyahWahid,Aş Şulaybīyah aş Şinā‘īyah Wāḩid,الصليبية الصناعية واحد	29.28848	47.84187	A	ADM2	KW		05	12216343			0		21	Asia/Kuwait	2021-04-17
+12216344	Aş Şulaybīyah aş Şinā‘īyah Ithnān	AsSulaybiyahasSina`iyahIthnan	AsSulaybiyahasSina`iyahIthnan,Aş Şulaybīyah aş Şinā‘īyah Ithnān,الصليبية الصناعية إثنان	29.28711	47.85632	A	ADM2	KW		05	12216344			0		15	Asia/Kuwait	2021-04-17
+12216345	Al ‘Āriḑīyah Takhzīn wa Isti‘mālāt al Ḩukūmīyah	Al `Aridiyah Takhzin wa Isti`malat al Hukumiyah	Al `Aridiyah Takhzin wa Isti`malat al Hukumiyah,Al ‘Āriḑīyah Takhzīn wa Isti‘mālāt al Ḩukūmīyah,العارضية تخزين و استعمالات الحكومية	29.2791	47.91486	A	ADM2	KW		07	12216345			0		24	Asia/Kuwait	2021-02-11
+12216346	Al ‘Āriḑīyah	Al `Aridiyah	Al `Aridiyah,Al ‘Āriḑīyah,العارضية	29.28285	47.89428	A	ADM2	KW		07	12216346			0		22	Asia/Kuwait	2021-02-11
+12216347	Al Maţār	Al Matar	Al Matar,Al Maţār,almtar,المطار	29.23818	47.97349	A	ADM2	KW		07	12216347			0		48	Asia/Kuwait	2021-02-11
+12216348	Ḍāḩiyat Mubārak al ‘Abd Allāh	Dahiyat Mubarak al `Abd Allah	Dahiyat Mubarak al `Abd Allah,ضاحية مبارك العبد الله,Ḍāḩiyat Mubārak al ‘Abd Allāh	29.27556	48.04841	A	ADM2	KW		08	12216348			0		22	Asia/Kuwait	2021-02-11
+12216349	Ḑāḩiyat Abū Fuţayrah	Dahiyat Abu Futayrah	Dahiyat Abu Futayrah,dahyt abw ftyrt,ضاحية أبو فطيرة,Ḑāḩiyat Abū Fuţayrah	29.19756	48.10301	A	ADM2	KW		09	12216349			0		8	Asia/Kuwait	2021-02-11
+12216350	Dasmān	Dasman	Dasman,Dasmān,dsman,دسمان	29.36569	48.00013	A	ADM2	KW		02	12216350			0		9	Asia/Kuwait	2021-02-11
+12216351	Bunayd al Qār	Bunayd al Qar	Bunayd al Qar,Bunayd al Qār,bnyd alqar,بنيد القار	29.37501	48.00233	A	ADM2	KW		02	12216351			0		9	Asia/Kuwait	2021-02-11
+12216352	Al Manşūrīyah	Al Mansuriyah	Al Mansuriyah,Al Manşūrīyah,almnswryt,المنصورية	29.35568	47.99527	A	ADM2	KW		02	12216352			0		15	Asia/Kuwait	2021-02-11
+12216353	Al Qādisīyah	Al Qadisiyah	Al Qadisiyah,Al Qādisīyah,alqadsyt,القادسية	29.34888	48.00586	A	ADM2	KW		02	12216353			0		13	Asia/Kuwait	2021-02-11
+12216354	Ḑāḩiyat ‘Abd Allāh as Sālim	Dahiyat `Abd Allah as Salim	Dahiyat `Abd Allah as Salim,ضاحية عبد الله السالم,Ḑāḩiyat ‘Abd Allāh as Sālim	29.35304	47.9834	A	ADM2	KW		02	12216354			0		20	Asia/Kuwait	2021-02-11
+12216355	An Nuzhah	An Nuzhah	An Nuzhah,alnzht,النزهة	29.3427	47.99159	A	ADM2	KW		02	12216355			0		21	Asia/Kuwait	2021-02-11
+12216356	Al ‘Udaylīyah	Al `Udayliyah	Al `Udayliyah,Al ‘Udaylīyah,العديلية	29.32636	47.98148	A	ADM2	KW		02	12216356			0		24	Asia/Kuwait	2021-02-11
+12216357	Qurţubah	Qurtubah	Qurtubah,Qurţubah,qrtbt,قرطبة	29.31109	47.98681	A	ADM2	KW		02	12216357			0		27	Asia/Kuwait	2021-02-11
+12216358	Al Yarmūk	Al Yarmuk	Al Yarmuk,Al Yarmūk,alyrmwk,اليرموك	29.31118	47.96946	A	ADM2	KW		02	12216358			0		26	Asia/Kuwait	2021-02-11
+12216359	Al Khālidīyah	Al Khalidiyah	Al Khalidiyah,Al Khālidīyah,alkhaldyt,الخالدية	29.3266	47.96261	A	ADM2	KW		02	12216359			0		17	Asia/Kuwait	2021-02-11
+12216360	Kayfān	Kayfan	Kayfan,Kayfān,kyfan,كيفان	29.3386	47.9618	A	ADM2	KW		02	12216360			0		14	Asia/Kuwait	2021-02-11
+12216361	Ash Shāmīyah	Ash Shamiyah	Ash Shamiyah,Ash Shāmīyah,alshamyt,الشامية	29.34902	47.96785	A	ADM2	KW		02	12216361			0		14	Asia/Kuwait	2021-02-11
+12216362	Ash Shuwaykh	Ash Shuwaykh	Ash Shuwaykh,alshwykh,الشويخ	29.35202	47.95075	A	ADM2	KW		02	12216362			0		2	Asia/Kuwait	2021-02-11
+12216363	Ash Shuwaykh aş Şiḩḩīyah	Ash Shuwaykh as Sihhiyah	Ash Shuwaykh as Sihhiyah,Ash Shuwaykh aş Şiḩḩīyah,alshwykh alshyt,الشويخ الصحية	29.3254	47.8942	A	ADM2	KW		02	12216363			0		3	Asia/Kuwait	2021-02-11
+12216364	Gharnāţah	Gharnatah	Gharnatah,Gharnāţah,ghrnatt,غرناطة	29.31538	47.87289	A	ADM2	KW		02	12216364			0		47	Asia/Kuwait	2021-02-11
+12216365	Aş Şulaybikhāt	As Sulaybikhat	As Sulaybikhat,Aş Şulaybikhāt,alslybkhat,الصليبخات	29.31479	47.84514	A	ADM2	KW		02	12216365			0		8	Asia/Kuwait	2021-02-11
+12216366	Ad Dawḩah	Ad Dawhah	Ad Dawhah,Ad Dawḩah,aldwht,الدوحة	29.32001	47.80345	A	ADM2	KW		02	12216366			0		7	Asia/Kuwait	2021-02-11
+12216367	As Surrah	As Surrah	As Surrah,alsrt,السرة	29.31376	48.00741	A	ADM2	KW		02	12216367			0		35	Asia/Kuwait	2021-02-11
+12216368	Al Finţās	Al Fintas	Al Fintas,Al Finţās,alfntas,الفنطاس	29.17045	48.11907	A	ADM2	KW		04	12216368			0		10	Asia/Kuwait	2021-02-11
+12216369	Al ‘Uqaylah	Al `Uqaylah	Al `Uqaylah,Al ‘Uqaylah,العقيلة	29.16872	48.1009	A	ADM2	KW		04	12216369			0		26	Asia/Kuwait	2021-02-11
+12216370	Jābir al ‘Alī	Jabir al `Ali	Jabir al `Ali,Jābir al ‘Alī,جابر العلى	29.17001	48.08211	A	ADM2	KW		04	12216370			0		47	Asia/Kuwait	2021-02-11
+12216371	Az̧ Z̧ahr	Az Zahr	Az Zahr,Az̧ Z̧ahr,alzhr,الظهر	29.16591	48.06463	A	ADM2	KW		04	12216371			0		73	Asia/Kuwait	2021-02-11
+12216372	Al Mahbūlah	Al Mahbulah	Al Mahbulah,Al Mahbūlah,almhbwlt,المهبولة	29.15017	48.11867	A	ADM2	KW		04	12216372			0		4	Asia/Kuwait	2021-02-11
+12216373	Ar Riqqah	Ar Riqqah	Ar Riqqah,alrqt,الرقة	29.15037	48.1053	A	ADM2	KW		04	12216373			0		28	Asia/Kuwait	2021-02-11
+12216374	Hadīyah	Hadiyah	Hadiyah,Hadīyah,hdyt,هدية	29.15009	48.09017	A	ADM2	KW		04	12216374			0		45	Asia/Kuwait	2021-02-11
+12216375	Abū Ḩalīfah	Abu Halifah	Abu Halifah,Abū Ḩalīfah,abw hlyft,أبو حليفة	29.13106	48.12766	A	ADM2	KW		04	12216375			0		10	Asia/Kuwait	2021-02-11
+12216376	Fahd al Aḩmad	Fahd al Ahmad	Fahd al Ahmad,Fahd al Aḩmad,fhd alahmd,فهد الأحمد	29.12726	48.1062	A	ADM2	KW		04	12216376			0		30	Asia/Kuwait	2021-02-11
+12216377	Al Manqaf	Al Manqaf	Al Manqaf,almnqf,المنقف	29.10716	48.12582	A	ADM2	KW		04	12216377			0		19	Asia/Kuwait	2021-02-11
+12216378	Aş Şabāḩīyah	As Sabahiyah	As Sabahiyah,Aş Şabāḩīyah,alsbahyt,الصباحية	29.10494	48.10532	A	ADM2	KW		04	12216378			0		46	Asia/Kuwait	2021-02-11
+12216379	Al Faḩaḩīl	Al Fahahil	Al Fahahil,Al Faḩaḩīl,alfhahyl,الفحاحيل	29.08318	48.1336	A	ADM2	KW		04	12216379			0		10	Asia/Kuwait	2021-02-11
+12216380	Madīnat al Aḩmadī	Madinat al Ahmadi	Madinat al Ahmadi,Madīnat al Aḩmadī,mdynt alahmdy,مدينة الأحمدي	29.08348	48.07371	A	ADM2	KW		04	12216380			0		86	Asia/Kuwait	2021-02-11
+12216381	Amgharah	Amgharah	Amgharah,amghrt,أمغرة	29.31568	47.74634	A	ADM2	KW		05	12216381			0		14	Asia/Kuwait	2021-02-11
+12216382	An Na‘īm	An Na`im	An Na`im,An Na‘īm,النعيم	29.33548	47.69677	A	ADM2	KW		05	12216382			0		12	Asia/Kuwait	2021-02-11
+12216383	Al Qaşr	Al Qasr	Al Qasr,Al Qaşr,alqsr,القصر	29.34519	47.68575	A	ADM2	KW		05	12216383			0		13	Asia/Kuwait	2021-02-11
+12216384	Al Wāḩah	Al Wahah	Al Wahah,Al Wāḩah,alwaht,الواحة	29.34244	47.6583	A	ADM2	KW		05	12216384			0		36	Asia/Kuwait	2021-02-11
+12216385	Taymā’	Tayma'	Tayma',Taymā’,تيماء	29.32891	47.68154	A	ADM2	KW		05	12216385			0		25	Asia/Kuwait	2021-02-11
+12216386	An Nasīm	An Nasim	An Nasim,An Nasīm,alnsym,النسيم	29.32438	47.68024	A	ADM2	KW		05	12216386			0		32	Asia/Kuwait	2021-02-11
+12216387	Al ‘Uyūn	Al `Uyun	Al `Uyun,Al ‘Uyūn,العيون	29.32975	47.65729	A	ADM2	KW		05	12216387			0		31	Asia/Kuwait	2021-02-11
+12216388	Al Jahrā’	Al Jahra'	Al Jahra',Al Jahrā’,الجهراء	29.34889	47.67339	A	ADM2	KW		05	12216388			0		14	Asia/Kuwait	2021-02-11
+12216389	Ar Rayy	Ar Rayy	Ar Rayy,alry,الري	29.30902	47.94357	A	ADM2	KW		07	12216389			0		16	Asia/Kuwait	2021-02-11
+12216390	Ar Raq‘ī	Ar Raq`i	Ar Raq`i,Ar Raq‘ī,الرقعي	29.3052	47.91495	A	ADM2	KW		07	12216390			0		18	Asia/Kuwait	2021-02-11
+12216391	Al Andalus	Al Andalus	Al Andalus,alandls,الاندلس	29.30302	47.8732	A	ADM2	KW		07	12216391			0		14	Asia/Kuwait	2021-02-11
+12216392	Abraq Khayţān	Abraq Khaytan	Abraq Khaytan,Abraq Khayţān,abrq khytan,أبرق خيطان	29.29053	47.97268	A	ADM2	KW		07	12216392			0		30	Asia/Kuwait	2021-02-11
+12216393	Al ‘Umarīyah	Al `Umariyah	Al `Umariyah,Al ‘Umarīyah,العمرية	29.29734	47.95335	A	ADM2	KW		07	12216393			0		27	Asia/Kuwait	2021-02-11
+12216394	Ar Rābiyah	Ar Rabiyah	Ar Rabiyah,Ar Rābiyah,alrabyt,الرابية	29.29715	47.93885	A	ADM2	KW		07	12216394			0		19	Asia/Kuwait	2021-02-11
+12216395	Al Firdaws	Al Firdaws	Al Firdaws,alfrdws,الفردوس	29.2833	47.87481	A	ADM2	KW		07	12216395			0		19	Asia/Kuwait	2021-02-11
+12216396	Şabāḩ an Nāşir	Sabah an Nasir	Sabah an Nasir,sbah alnasr,Şabāḩ an Nāşir,صباح الناصر	29.27081	47.88296	A	ADM2	KW		07	12216396			0		27	Asia/Kuwait	2021-02-11
+12216397	Ar Riḩāb	Ar Rihab	Ar Rihab,Ar Riḩāb,alrhab,الرحاب	29.28485	47.9383	A	ADM2	KW		07	12216397			0		26	Asia/Kuwait	2021-02-11
+12216398	Ishbīliyah	Ishbiliyah	Ishbiliyah,Ishbīliyah,ashbylyt,إشبيلية	29.27402	47.93925	A	ADM2	KW		07	12216398			0		30	Asia/Kuwait	2021-02-11
+12216399	Al Farwānīyah	Al Farwaniyah	Al Farwaniyah,Al Farwānīyah,alfrwanyt,الفروانية	29.28023	47.95745	A	ADM2	KW		07	12216399			0		38	Asia/Kuwait	2021-02-11
+12216400	Aḑ Ḑajīj	Ad Dajij	Ad Dajij,Aḑ Ḑajīj,aldjyj,الضجيج	29.26313	47.96305	A	ADM2	KW		07	12216400			0		41	Asia/Kuwait	2021-02-11
+12216401	Jalīb ash Shuyūkh	Jalib ash Shuyukh	Jalib ash Shuyukh,Jalīb ash Shuyūkh,jlyb alshywkh,جليب الشيوخ	29.25962	47.93363	A	ADM2	KW		07	12216401			0		41	Asia/Kuwait	2021-02-11
+12216402	Khayţān al Janūbī	Khaytan al Janubi	Khaytan al Janubi,Khayţān al Janūbī,khytan,خيطان	29.27685	47.97786	A	ADM2	KW		07	12216402			0		43	Asia/Kuwait	2021-02-11
+12216403	As Sālimīyah	As Salimiyah	As Salimiyah,As Sālimīyah,alsalmyt,السالمية	29.33483	48.06775	A	ADM2	KW		08	12216403			0		10	Asia/Kuwait	2021-02-11
+12216404	Ar Rumaythīyah	Ar Rumaythiyah	Ar Rumaythiyah,Ar Rumaythīyah,alrmythyt,الرميثية	29.31613	48.07388	A	ADM2	KW		08	12216404			0		11	Asia/Kuwait	2021-02-11
+12216405	Salwá	Salwa	Salwa,Salwá,slwy,سلوى	29.29428	48.07929	A	ADM2	KW		08	12216405			0		10	Asia/Kuwait	2021-02-11
+12216406	Mushrif	Mushrif	Mushrif,mshrf,مشرف	29.27964	48.06258	A	ADM2	KW		08	12216406			0		14	Asia/Kuwait	2021-02-11
+12216407	Bayān	Bayan	Bayan,Bayān,byan,بيان	29.29794	48.05126	A	ADM2	KW		08	12216407			0		21	Asia/Kuwait	2021-02-11
+12216408	Al Jābirīyah	Al Jabiriyah	Al Jabiriyah,Al Jabriya,Al Jābirīyah,Jabriya,aljabryt,الجابرية	29.32002	48.02563	A	ADM2	KW		08	12216408			0		23	Asia/Kuwait	2024-05-30
+12216409	Ḩawallī	Hawalli	Hawalli,hwly,حولي,Ḩawallī	29.33783	48.02354	A	ADM2	KW		08	12216409			0		14	Asia/Kuwait	2021-02-11
+12216410	Ash Shuhadā’	Ash Shuhada'	Ash Shuhada',Ash Shuhadā’,الشهداء	29.2714	48.03364	A	ADM2	KW		08	12216410			0		40	Asia/Kuwait	2021-02-11
+12216411	Ḩaţţīn	Hattin	Hattin,htyn,حطين,Ḩaţţīn	29.28388	48.01995	A	ADM2	KW		08	12216411			0		24	Asia/Kuwait	2021-02-11
+12216412	As Salām	As Salam	As Salam,As Salām,alslam,السلام	29.29327	48.01669	A	ADM2	KW		08	12216412			0		31	Asia/Kuwait	2021-02-11
+12216413	Aş Şadīq	As Sadiq	As Sadiq,Aş Şadīq,alsdyq,الصديق	29.29443	47.99195	A	ADM2	KW		08	12216413			0		28	Asia/Kuwait	2021-02-11
+12216414	Ash Sha‘b	Ash Sha`b	Ash Sha`b,Ash Sha‘b,الشعب	29.34855	48.0276	A	ADM2	KW		08	12216414			0		7	Asia/Kuwait	2021-02-11
+12216415	Az Zahrā’	Az Zahra'	Az Zahra',Az Zahrā’,الزهراء	29.27524	47.99567	A	ADM2	KW		08	12216415			0		48	Asia/Kuwait	2021-02-11
+12216416	Şabāḩ as Sālim	Sabah as Salim	Sabah as Salim,sbah alsalm,Şabāḩ as Sālim,صباح السالم	29.25423	48.06678	A	ADM2	KW		09	12216416			0		18	Asia/Kuwait	2021-02-11
+12216417	Al Masīlah	Al Masilah	Al Masilah,Al Masīlah,almsylt,المسيلة	29.2372	48.08749	A	ADM2	KW		09	12216417			0		7	Asia/Kuwait	2021-02-11
+12216418	Al ‘Adān	Al `Adan	Al `Adan,Al ‘Adān,العدان	29.23401	48.06756	A	ADM2	KW		09	12216418			0		33	Asia/Kuwait	2021-02-11
+12216419	Al Funayţīs	Al Funaytis	Al Funaytis,Al Funayţīs,alfnytys,الفنيطيس	29.2201	48.09294	A	ADM2	KW		09	12216419			0		9	Asia/Kuwait	2021-02-11
+12216420	Al Quşūr	Al Qusur	Al Qusur,Al Quşūr,alqswr,القصور	29.21604	48.07345	A	ADM2	KW		09	12216420			0		33	Asia/Kuwait	2021-02-11
+12216421	Mubārak al Kabīr	Mubarak al Kabir	Mubarak al Kabir,Mubārak al Kabīr,mbark alkbyr,مبارك الكبير	29.18865	48.08048	A	ADM2	KW		09	12216421			0		47	Asia/Kuwait	2021-02-11
+12216422	Janūb al Wusţá	Janub al Wusta	Janub al Wusta,Janūb al Wusţá,jnwb alwsty,جنوب الوسطى	29.18704	48.03645	A	ADM2	KW		09	12216422			0		89	Asia/Kuwait	2021-02-11
+12216423	Al Wusţá	Al Wusta	Al Wusta,Al Wusţá,alwsty,الوسطى	29.23887	48.03154	A	ADM2	KW		09	12216423			0		66	Asia/Kuwait	2021-02-11
+12216424	Şabḩan	Sabhan	Sabhan,sbhan,Şabḩan,صبحان	29.23376	48.00937	A	ADM2	KW		09	12216424			0		55	Asia/Kuwait	2021-02-11
+12216425	Al Qurayn	Al Qurayn	Al Qurayn,alqryn,القرين	29.20105	48.07865	A	ADM2	KW		09	12216425			0		40	Asia/Kuwait	2021-02-11

@@ -1,0 +1,31 @@
+﻿2960935	Wicklow	Wicklow	Cill Mhantain,Cill Mhantáin,Contae Chill Mhantain,Contae Chill Mhantáin,County Wicklow,Wicklow	53	-6.41667	A	ADM2	IE		L	31			142425		516	Europe/Dublin	2022-03-13
+2960963	Wexford	Wexford	Contae Loch Garman,County Wexford,Wexford	52.5	-6.66667	A	ADM2	IE		L	30			149722		94	Europe/Dublin	2022-03-13
+2960972	Westmeath	Westmeath	Contae na hIarmhi,Contae na hIarmhí,County Westmeath,Westmeath	53.5	-7.5	A	ADM2	IE		L	29			88770		124	Europe/Dublin	2022-03-13
+2961191	County Tipperary	County Tipperary	Contae Thiobraid Arann,Contae Thiobraid Árann,County Tipperary,Tiobraid Arann,Tiobraid Árann,Tipperary	52.66667	-7.83333	A	ADM2	IE		M	26			159553		98	Europe/Dublin	2022-03-13
+2961422	Sligo	Sligo	Contae Shligigh,County Sligo,Sligeach,Sligo	54.25	-8.66667	A	ADM2	IE		C	25			65535		27	Europe/Dublin	2022-03-13
+2961731	Roscommon	Roscommon	Contae Ros Comain,Contae Ros Comáin,County Roscommon,Ros Comain,Ros Comáin,Roscommon	53.75	-8.25	A	ADM2	IE		C	24			64544		88	Europe/Dublin	2022-07-30
+2962187	Uíbh Fhailí	Uibh Fhaili	Contae Uibh Fhaili,Contae Uíbh Fhailí,County Offaly,King's County,Offally,Offaly	53.25	-7.5	A	ADM2	IE		L	23			77961		69	Europe/Dublin	2022-03-13
+2962567	County Monaghan	County Monaghan	Contae Mhuineachain,Contae Mhuineacháin,Monaghan,Muineachan,Muineachán	54.25	-7	A	ADM2	IE		U	22			61386		58	Europe/Dublin	2022-03-13
+2962661	Meath	Meath	Co Meath,Contae na Mi,Contae na Mí,County Meath,Meath	53.66667	-6.66667	A	ADM2	IE		L	21			220296		47	Europe/Dublin	2022-07-30
+2962666	Mayo County	Mayo County	Contae Mhaigh Eo,County Mayo,Mayo	53.9	-9.25	A	ADM2	IE		C	20			130507		63	Europe/Dublin	2022-03-13
+2962793	Louth	Louth	Co Louth,Contae Lu,Contae Lú,County Louth,Louth	53.83333	-6.5	A	ADM2	IE		L	19			139100		135	Europe/Dublin	2022-07-30
+2962839	An Longfort	An Longfort	Co Longford,Contae an Longfoirt,County Longford,Longford	53.66667	-7.75	A	ADM2	IE		L	18			40873		101	Europe/Dublin	2022-03-13
+2962975	County Leitrim	County Leitrim	Comitatul Leitrim,Comitatus Letrimensis,Comtat de Leitrim,Comte de Leitrim,Comté de Leitrim,Condado de Leitrim,Condau de Leitrim,Condáu de Leitrim,Contae Liatroma,Contea di Leitrim,Coontae Lheeahtrim,Coonty Leitrim,Graflando Leitrim,Hrabstvi Leitrim,Hrabství Leitrim,Kontelezh Liatroim,Leitrim,Leitrim konderria,Leitrimin kreivikunta,Leitrimo grafyste,Leitrimo grafystė,Liatroim,Lijtrim,Litrim,Swydd Leitrim,Vilojati Lijtrim,Wilaya ya Leitrim,li te li mu jun,liteulim ju,lytrym,ritorimu zhou,Вилояти Лийтрим,Лийтрим,Литрим,Літрім,ליטרים,لیٹرم,مقاطعة ليتريم,کاؤنٹی لیٹریم,ლიტრიმის საგრაფო,リートリム州,利特里姆郡,리트림 주	54.11667	-8	A	ADM2	IE		C	14			32044		186	Europe/Dublin	2022-03-13
+2963031	Laois	Laois	Contae Laoighise,Contae Laoise,County Laois,Laoighis,Laois,Leix,Queen's County	53	-7.4	A	ADM2	IE		L	15			84697		105	Europe/Dublin	2022-03-13
+2963397	Kilkenny	Kilkenny	Canicopolis,Cantae Chill Chainnigh,Cill Chainnigh,County Kilkenny,Keeill Chennee,Kilkeni,Kilkenis,Kilkenni,Kilkenny,ji er ken ni,kilkeni,kirukeni,klkyny,kylkny,Килкени,Килкенни,Кілкенні,کلکینی,کیلکنی,კილკენი,キルケニー,基尔肯尼,킬케니	52.58333	-7.25	A	ADM2	IE		L	13			99232		73	Europe/Dublin	2022-03-13
+2963435	Kildare	Kildare	Cill Dara,Co Kildare,Contae Chill Dara,County Kildare,Kildare	53.16667	-6.75	A	ADM2	IE		L	12			222504		90	Europe/Dublin	2022-03-13
+2963517	Kerry	Kerry	Co Kerry,Contae Chiarrai,Contae Chiarraí,County Kerry,KIR,Kerry	52.16667	-9.75	A	ADM2	IE		M	11			155258		1	Europe/Dublin	2022-07-30
+2964179	County Galway	County Galway	Contae na Gaillimhe,County Galway,Gaillimh,Galway	53.33333	-9	A	ADM2	IE		C	10			276451		8	Europe/Dublin	2022-12-15
+2964751	County Donegal	County Donegal	Contae Dhun na nGall,Contae Dhún na nGall,County Donegal,Donegal,Dun na nGall,Dún na nGall,Tirconaill	54.91667	-8	A	ADM2	IE		U	06			159192		261	Europe/Dublin	2022-03-13
+2965139	County Cork	County Cork	Contae Chorcai,Contae Chorcaí,Corcaigh,Cork,Cork County,County Cork	51.96667	-8.58333	A	ADM2	IE		M	04			399802		93	Europe/Dublin	2022-07-30
+2965479	Clare	Clare	Clare,Co Clare,Contae an Chlair,Contae an Chláir,County Clare	52.83333	-9	A	ADM2	IE		M	03			118817		21	Europe/Dublin	2022-03-13
+2965534	An Cabhán	An Cabhan	Cavan,Co Cavan,Contae an Chabhain,Contae an Chabháin,County Cavan	53.91667	-7.25	A	ADM2	IE		U	02			76176		142	Europe/Dublin	2022-03-13
+2965767	County Carlow	County Carlow	Carlow,Ceatharlach,Contae Cheatharlach,County Carlow	52.66667	-6.83333	A	ADM2	IE		L	01			56932		162	Europe/Dublin	2022-03-13
+6693220	Fingal County	Fingal County	Fingal	53.45909	-6.21942	A	ADM2	IE		L	35			296214		20	Europe/Dublin	2022-03-13
+6941716	Dún Laoghaire-Rathdown	Dun Laoghaire-Rathdown		53.29436	-6.13489	A	ADM2	IE		L	34			218018		17	Europe/Dublin	2022-03-13
+7288565	South Dublin	South Dublin		53.28595	-6.37739	A	ADM2	IE		L	39			278749		102	Europe/Dublin	2022-03-13
+7778676	Galway City	Galway City	Cathair na Gaillimhe,City of Galway,Gaillimh	53.2877	-9.05004	A	ADM2	IE		C	36			83456		9	Europe/Dublin	2022-07-30
+7778677	Dublin City	Dublin City	Baile Atha Cliath,Baile Átha Cliath	53.35512	-6.24922	A	ADM2	IE		L	33			554554		6	Europe/Dublin	2022-03-13
+7778678	Cork City	Cork City	Corcaigh	51.89755	-8.46773	A	ADM2	IE		M	32			210000		5	Europe/Dublin	2022-03-13
+11611445	Limerick City and County Council	Limerick City and County Council	Limerick	52.6464	-8.63663	A	ADM2	IE		M	42			205444		7	Europe/Dublin	2023-05-16
+11611446	County Waterford	County Waterford	Waterford	52.23999	-7.14386	A	ADM2	IE		M	44			116176		26	Europe/Dublin	2022-03-13

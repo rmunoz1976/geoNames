@@ -1,0 +1,615 @@
+﻿10182655	Ágios Dométios	Agios Dometios	1010,Agios Dometios,Ágios Dométios,Άγιος Δομέτιος	35.17955	33.32176	A	ADM2	CY		04	1010			0		153	Asia/Nicosia	2021-01-09
+10182743	Égkomi	Egkomi	1011,Egkomi,Enkomi,Égkomi,Έγκωμη	35.15572	33.31416	A	ADM2	CY		04	1011			0		173	Asia/Nicosia	2021-01-09
+10182744	Stróvolos	Strovolos	1012,Strovolos,Stróvolos,Στρόβολος	35.13347	33.34766	A	ADM2	CY		04	1012			0		204	Asia/Nicosia	2021-01-09
+10182745	Aglantziá	Aglantzia	1013,Aglantzia,Aglantziá,Αγλαντζιά	35.14429	33.41688	A	ADM2	CY		04	1013			0		131	Asia/Nicosia	2021-01-09
+10182746	Ortákioi	Ortakioi	1014,Ortakioi,Ortákioi,Ορτάκιοι	35.19967	33.33471	A	ADM2	CY		04	1014			0		127	Asia/Nicosia	2021-01-09
+10190038	Tráchonas	Trachonas	1015,Trachonas,Tráchonas,Τράχωνας	35.20801	33.35037	A	ADM2	CY		04	1015			0		128	Asia/Nicosia	2021-01-09
+10190040	Lakatámia	Lakatamia	1021,Lakatamia,Lakatámia,Λακατάμια	35.11499	33.30759	A	ADM2	CY		04	1021			0		222	Asia/Nicosia	2021-01-09
+10190049	Synoikismós Anthoúpolis	Synoikismos Anthoupolis	1022,Synoikismos Anthoupolis,Synoikismós Anthoúpolis,Συνοικισμός Ανθούπολης	35.1045	33.28998	A	ADM2	CY		04	1022			0		245	Asia/Nicosia	2015-04-10
+10190059	Latsiá	Latsia	1023,Latsia,Latsiá,Λατσιά	35.09466	33.37445	A	ADM2	CY		04	1023			0		207	Asia/Nicosia	2021-01-09
+10190060	Géri	Geri	1024,Geri,Géri,Γέρι	35.10711	33.42867	A	ADM2	CY		04	1024			0		144	Asia/Nicosia	2021-01-09
+10190061	Siá	Sia	1100,Sia,Siá,Σιά	34.95306	33.39006	A	ADM2	CY		04	1100			0		279	Asia/Nicosia	2021-01-09
+10190555	Mathiátis	Mathiatis	1101,Mathiatis,Mathiátis,Μαθιάτης	34.96368	33.33991	A	ADM2	CY		04	1101			0		369	Asia/Nicosia	2021-01-09
+10190556	Alámpra	Alampra	1102,Alampra,Alámpra,Αλάμπρα	34.98905	33.40663	A	ADM2	CY		04	1102			0		232	Asia/Nicosia	2021-01-09
+10190575	Agía Varvára	Agia Varvara	1103,Agia Varvara,Agía Varvára,Αγία Βαρβάρα	34.99256	33.36582	A	ADM2	CY		04	1103			0		300	Asia/Nicosia	2021-01-09
+10190576	Kotsiátis	Kotsiatis	1104,Kotsiatis,Kotsiátis,Κοτσιάτης	35.01204	33.34216	A	ADM2	CY		04	1104			0		287	Asia/Nicosia	2021-01-09
+10190577	Nísou	Nisou	1105,Nisou,Nísou,Νήσου	35.03459	33.3872	A	ADM2	CY		04	1105			0		258	Asia/Nicosia	2021-01-09
+10190578	Péra Chorió	Pera Chorio	1106,Pera Chorio,Péra Chorió,Πέρα Χωριό	35.02103	33.3693	A	ADM2	CY		04	1106			0		262	Asia/Nicosia	2021-01-09
+10190579	Dáli	Dali	1107,Dali,Dáli,Δάλι	35.04527	33.41291	A	ADM2	CY		04	1107			0		230	Asia/Nicosia	2021-01-09
+10190580	Lýmpia	Lympia	1108,Lympia,Lýmpia,Λύμπια	34.98531	33.46176	A	ADM2	CY		04	1108			0		308	Asia/Nicosia	2021-01-09
+10190581	Lythrodóntas	Lythrodontas	1109,Lythrodontas,Lythrodóntas,Λυθροδόντας	34.94341	33.28619	A	ADM2	CY		04	1109			0		448	Asia/Nicosia	2021-01-09
+10190582	Louroukína	Louroukina	1110,Louroukina,Louroukína,Λουρουκίνα	35.02043	33.48195	A	ADM2	CY		04	1110			0		198	Asia/Nicosia	2021-01-09
+10190583	Potamiá	Potamia	1120,Potamia,Potamiá,Ποταμιά	35.05074	33.45699	A	ADM2	CY		04	1120			0		182	Asia/Nicosia	2021-01-09
+10190584	Ágios Sozómenos	Agios Sozomenos	1121,Agios Sozomenos,Ágios Sozómenos,Άγιος Σωζόμενος	35.06997	33.44347	A	ADM2	CY		04	1121			0		197	Asia/Nicosia	2021-01-09
+10190585	Pyrógi	Pyrogi	1122,Pyrogi,Pyrógi,Πυρόγι	35.06857	33.48385	A	ADM2	CY		04	1122			0		157	Asia/Nicosia	2021-01-09
+10190586	Margó	Margo	1123,Margo,Margó,Μαργό	35.10583	33.48488	A	ADM2	CY		04	1123			0		139	Asia/Nicosia	2021-01-09
+10190587	Agiá	Agia	1124,Agia,Agiá,Αγιά	35.11085	33.56527	A	ADM2	CY		04	1124			0		100	Asia/Nicosia	2021-01-09
+10190588	Týmvou	Tymvou	1125,Tymvou,Týmvou,Τύμβου	35.13454	33.5101	A	ADM2	CY		04	1125			0		111	Asia/Nicosia	2021-01-09
+10190589	Móra	Mora	1130,Mora,Móra,Μόρα	35.16999	33.5385	A	ADM2	CY		04	1130			0		97	Asia/Nicosia	2021-01-09
+10190590	Mia Miliá	Mia Milia	1131,Mia Milia,Mia Miliá,Μια Μηλιά	35.22019	33.4203	A	ADM2	CY		04	1131			0		126	Asia/Nicosia	2021-01-09
+10190591	Mándres	Mandres	1132,Mandres,Mándres,Μάνδρες	35.22493	33.38453	A	ADM2	CY		04	1132			0		144	Asia/Nicosia	2021-01-09
+10190592	Palaíkythro	Palaikythro	1133,Palaikythro,Palaíkythro,Παλαίκυθρο	35.18462	33.4906	A	ADM2	CY		04	1133			0		82	Asia/Nicosia	2021-01-09
+10190593	Éxo Metóchi	Exo Metochi	1134,Exo Metochi,Éxo Metóchi,Έξω Μετόχι	35.20713	33.53554	A	ADM2	CY		04	1134			0		79	Asia/Nicosia	2021-01-09
+10190594	Epichó	Epicho	1135,Epicho,Epichó,Επιχό	35.2315	33.52126	A	ADM2	CY		04	1135			0		106	Asia/Nicosia	2021-01-09
+10191329	Vóni	Voni	1136,Voni,Vóni,Βώνη	35.21022	33.50531	A	ADM2	CY		04	1136			0		89	Asia/Nicosia	2021-01-09
+10191956	Trachóni	Trachoni	1137,Trachoni,Trachóni,Τραχώνι	35.21473	33.47945	A	ADM2	CY		04	1137			0		99	Asia/Nicosia	2021-01-09
+10191957	Néo Chorió	Neo Chorio	1138,Neo Chorio,Néo Chorió,Νέο Χωριό	35.21871	33.45719	A	ADM2	CY		04	1138			0		107	Asia/Nicosia	2021-01-09
+10191958	Kythréa	Kythrea	1139,Kythrea,Kythréa,Κυθρέα	35.25926	33.47972	A	ADM2	CY		04	1139			0		206	Asia/Nicosia	2021-01-09
+10191959	Béïkioï	Beikioi	1141,Beikioi,Béïkioï,Μπέϊκιοϊ	35.24787	33.51006	A	ADM2	CY		04	1141			0		159	Asia/Nicosia	2021-01-09
+10191962	Pétra tou Digení	Petra tou Digeni	1142,Petra tou Digeni,Pétra tou Digení,Πέτρα του Διγενή	35.23705	33.55233	A	ADM2	CY		04	1142			0		122	Asia/Nicosia	2021-01-09
+10191964	Kalyvákia	Kalyvakia	1143,Kalyvakia,Kalyvákia,Καλυβάκια	35.26262	33.54161	A	ADM2	CY		04	1143			0		199	Asia/Nicosia	2021-01-09
+10191966	Kouroú Monastíri	Kourou Monastiri	1144,Kourou Monastiri,Kouroú Monastíri,Κουρού Μοναστήρι	35.2231	33.55199	A	ADM2	CY		04	1144			0		90	Asia/Nicosia	2021-01-09
+10191968	Kampí	Kampi	1200,Kampi,Kampí,Καμπί	34.90557	33.12543	A	ADM2	CY		04	1200			0		836	Asia/Nicosia	2021-01-09
+10191970	Farmakás	Farmakas	1201,Farmakas,Farmakás,Φαρμακάς	34.92482	33.14493	A	ADM2	CY		04	1201			0		913	Asia/Nicosia	2021-01-09
+10192043	Aplíki	Apliki	1202,Apliki,Aplíki,Απλίκι	34.91869	33.11473	A	ADM2	CY		04	1202			0		776	Asia/Nicosia	2021-01-09
+10192045	Lazaniás	Lazanias	1203,Lazanias,Lazaniás,Λαζανιάς	34.93402	33.21111	A	ADM2	CY		04	1203			0		943	Asia/Nicosia	2021-01-09
+10192046	Goúrri	Gourri	1204,Gourri,Goúrri,Γούρρη	34.95795	33.15728	A	ADM2	CY		04	1204			0		727	Asia/Nicosia	2021-01-09
+10192050	Fikárdou	Fikardou	1205,Fikardou,Fikárdou,Φικάρδου	34.97545	33.18277	A	ADM2	CY		04	1205			0		692	Asia/Nicosia	2021-01-09
+10192083	Agios Epifanios (Oreinis)	Agios Epifanios (Oreinis)	1206,Agios Epifanios,Agios Epifanios (Oreinis),Ágios Epifánios,Άγιος Επιφάνιος	34.99883	33.11443	A	ADM2	CY		04	1206			0		605	Asia/Nicosia	2021-01-10
+10192085	Kalo Chorio (Oreinis)	Kalo Chorio (Oreinis)	1207,Kalo Chorio,Kalo Chorio (Oreinis),Kaló Chorió,Καλό Χωριό	35.00478	33.15618	A	ADM2	CY		04	1207			0		490	Asia/Nicosia	2021-01-10
+10192087	Maloúnta	Malounta	1208,Malounta,Maloúnta,Μαλούντα	35.04473	33.17906	A	ADM2	CY		04	1208			0		372	Asia/Nicosia	2021-01-09
+10192089	Klírou	Klirou	1209,Klirou,Klírou,Κλήρου	35.01209	33.18234	A	ADM2	CY		04	1209			0		469	Asia/Nicosia	2021-01-09
+10192091	Aredioú	Arediou	1210,Arediou,Aredioú,Αρεδιού	35.05277	33.20484	A	ADM2	CY		04	1210			0		342	Asia/Nicosia	2021-01-09
+10192092	Ágios Ioánnis	Agios Ioannis	1211,Agios Ioannis,Ágios Ioánnis,Άγιος Ιωάννης	35.07535	33.17805	A	ADM2	CY		04	1211			0		311	Asia/Nicosia	2021-01-09
+10192096	Agrokipiá	Agrokipia	1212,Agrokipia,Agrokipiá,Αγροκηπιά	35.04922	33.15271	A	ADM2	CY		04	1212			0		455	Asia/Nicosia	2021-01-09
+10192097	Mitseró	Mitsero	1213,Mitsero,Mitseró,Μιτσερό	35.03845	33.1213	A	ADM2	CY		04	1213			0		407	Asia/Nicosia	2021-01-09
+10192099	Kapédes	Kapedes	1220,Kapedes,Kapédes,Καπέδες	34.96904	33.2527	A	ADM2	CY		04	1220			0		551	Asia/Nicosia	2021-01-09
+10192119	Katalióntas	Kataliontas	1221,Kataliontas,Katalióntas,Καταλιόντας	34.99135	33.30496	A	ADM2	CY		04	1221			0		346	Asia/Nicosia	2021-01-09
+10192121	Analióntas	Analiontas	1222,Analiontas,Analióntas,Αναλιόντας	35.01095	33.29402	A	ADM2	CY		04	1222			0		346	Asia/Nicosia	2021-01-09
+10192261	Kampiá	Kampia	1223,Kampia,Kampiá,Καμπιά	34.98969	33.23783	A	ADM2	CY		04	1223			0		517	Asia/Nicosia	2021-01-09
+10192262	Margí	Margi	1224,Margi,Margí,Μαργί	35.02379	33.32406	A	ADM2	CY		04	1224			0		309	Asia/Nicosia	2021-01-09
+10192264	Tséri	Tseri	1225,Tseri,Tséri,Τσέρι	35.06629	33.33344	A	ADM2	CY		04	1225			0		261	Asia/Nicosia	2021-01-09
+10192265	Politikó	Politiko	1226,Politiko,Politikó,Πολιτικό	35.00712	33.22176	A	ADM2	CY		04	1226			0		483	Asia/Nicosia	2021-01-09
+10192266	Péra	Pera	1227,Pera,Péra,Πέρα	35.03194	33.27418	A	ADM2	CY		04	1227			0		354	Asia/Nicosia	2021-01-09
+10192267	Episkopeió	Episkopeio	1228,Episkopeio,Episkopeió,Επισκοπειό	35.04206	33.23125	A	ADM2	CY		04	1228			0		357	Asia/Nicosia	2021-01-09
+10192514	Psimolófou	Psimolofou	1229,Psimolofou,Psimolófou,Ψιμολόφου	35.05991	33.27899	A	ADM2	CY		04	1229			0		326	Asia/Nicosia	2021-01-09
+10192516	Ergátes	Ergates	1230,Ergates,Ergátes,Εργάτες	35.06568	33.2306	A	ADM2	CY		04	1230			0		335	Asia/Nicosia	2021-01-09
+10192517	Anágeia	Anageia	1231,Anageia,Anágeia,Ανάγεια	35.07797	33.24389	A	ADM2	CY		04	1231			0		325	Asia/Nicosia	2021-01-09
+10192519	Páno Defterá	Pano Deftera	1232,Pano Deftera,Páno Defterá,Πάνω Δευτερά	35.08573	33.26359	A	ADM2	CY		04	1232			0		275	Asia/Nicosia	2021-01-09
+10192520	Káto Defterá	Kato Deftera	1233,Kato Deftera,Káto Defterá,Κάτω Δευτερά	35.09145	33.28652	A	ADM2	CY		04	1233			0		253	Asia/Nicosia	2021-01-09
+10192524	Ágioi Trimithiás	Agioi Trimithias	1240,Agioi Trimithias,Ágioi Trimithiás,Άγιοι Τριμιθιάς	35.11632	33.23569	A	ADM2	CY		04	1240			0		266	Asia/Nicosia	2021-01-09
+10192525	Palaiométocho	Palaiometocho	1241,Palaiometocho,Palaiométocho,Παλαιομέτοχο	35.12973	33.20671	A	ADM2	CY		04	1241			0		248	Asia/Nicosia	2021-01-09
+10192529	Déneia	Deneia	1242,Deneia,Déneia,Δένεια	35.18202	33.14754	A	ADM2	CY		04	1242			0		122	Asia/Nicosia	2021-01-09
+10192531	Kokkinotrimithiá	Kokkinotrimithia	1243,Kokkinotrimithia,Kokkinotrimithiá,Κοκκινοτριμιθιά	35.15267	33.20104	A	ADM2	CY		04	1243			0		219	Asia/Nicosia	2021-01-09
+10193037	Ágioi Iliófotoi	Agioi Iliofotoi	1325,Agioi Iliofotoi,Ágioi Iliófotoi,Άγιοι Ηλιόφωτοι	35.06582	33.11283	A	ADM2	CY		04	1325			0		369	Asia/Nicosia	2021-01-09
+10193038	Káto Moní	Kato Moni	1326,Kato Moni,Káto Moní,Κάτω Μονή	35.05801	33.08926	A	ADM2	CY		04	1326			0		384	Asia/Nicosia	2021-01-09
+10193039	Oroúnta	Orounta	1327,Orounta,Oroúnta,Ορούντα	35.09296	33.08214	A	ADM2	CY		04	1327			0		329	Asia/Nicosia	2021-01-09
+10193040	Páno Koutrafás	Pano Koutrafas	1328,Pano Koutrafas,Páno Koutrafás,Πάνω Κουτραφάς	35.09823	32.99586	A	ADM2	CY		04	1328			0		255	Asia/Nicosia	2021-01-09
+10193041	Káto Koutrafás	Kato Koutrafas	1329,Kato Koutrafas,Káto Koutrafás,Κάτω Κουτραφάς	35.09633	32.96577	A	ADM2	CY		04	1329			0		222	Asia/Nicosia	2021-01-09
+10193042	Potámi	Potami	1330,Potami,Potámi,Ποτάμι	35.10063	33.03353	A	ADM2	CY		04	1330			0		235	Asia/Nicosia	2021-01-09
+10193043	Mórfou	Morfou	1340,Morfou,Mórfou,Μόρφου	35.21916	32.97649	A	ADM2	CY		04	1340			0		27	Asia/Nicosia	2021-01-09
+10193044	Páno Zódeia	Pano Zodeia	1350,Pano Zodeia,Páno Zódeia,Πάνω Ζώδεια	35.14488	33.00207	A	ADM2	CY		04	1350			0		123	Asia/Nicosia	2021-01-09
+10193217	Mámmari	Mammari	1244,Mammari,Mámmari,Μάμμαρη	35.18667	33.20389	A	ADM2	CY		04	1244			0		144	Asia/Nicosia	2021-01-09
+10193219	Gerólakkos	Gerolakkos	1245,Gerolakkos,Gerólakkos,Γερόλακκος	35.19531	33.25305	A	ADM2	CY		04	1245			0		161	Asia/Nicosia	2021-01-09
+10193226	Agia Marina (Skylloura)	Agia Marina (Skylloura)	1246,Agia Marina,Agia Marina (Skylloura),Agía Marína,Αγία Μαρίνα	35.22645	33.12985	A	ADM2	CY		04	1246			0		236	Asia/Nicosia	2021-01-09
+10193228	Skylloúra	Skylloura	1247,Skylloura,Skylloúra,Σκυλλούρα	35.23547	33.16533	A	ADM2	CY		04	1247			0		161	Asia/Nicosia	2021-01-09
+10193232	Ágios Vasíleios	Agios Vasileios	1248,Agios Vasileios,Ágios Vasíleios,Άγιος Βασίλειος	35.2145	33.19185	A	ADM2	CY		04	1248			0		156	Asia/Nicosia	2021-01-09
+10193234	Dýo Potamoí	Dyo Potamoi	1249,Dyo Potamoi,Dýo Potamoí,Δύο Ποταμοί	35.24289	33.08694	A	ADM2	CY		04	1249			0		159	Asia/Nicosia	2021-01-09
+10193242	Kanlí	Kanli	1250,Kanli,Kanlí,Κανλί	35.23239	33.25653	A	ADM2	CY		04	1250			0		172	Asia/Nicosia	2021-01-09
+10193244	Kióneli	Kioneli	1251,Kioneli,Kióneli,Κιόνελι	35.22207	33.29551	A	ADM2	CY		04	1251			0		147	Asia/Nicosia	2021-01-09
+10193249	Palaichóri Mórfou	Palaichori Morfou	1300,Palaichori Morfou,Palaichóri Mórfou,Παλαιχώρι Μόρφου	34.9461	33.09996	A	ADM2	CY		04	1300			0		734	Asia/Nicosia	2021-01-09
+10193250	Askás	Askas	1301,Askas,Askás,Ασκάς	34.93768	33.07954	A	ADM2	CY		04	1301			0		925	Asia/Nicosia	2021-01-09
+10193253	Álona	Alona	1302,Alona,Álona,Άλωνα	34.92958	33.04449	A	ADM2	CY		04	1302			0		1157	Asia/Nicosia	2021-01-09
+10193254	Fterikoúdi	Fterikoudi	1303,Fterikoudi,Fterikoúdi,Φτερικούδι	34.96662	33.07565	A	ADM2	CY		04	1303			0		676	Asia/Nicosia	2021-01-09
+10193255	Polýstypos	Polystypos	1304,Polystypos,Polýstypos,Πολύστυπος	34.93965	33.01556	A	ADM2	CY		04	1304			0		1154	Asia/Nicosia	2021-01-09
+10193623	Lagouderá	Lagoudera	1305,Lagoudera,Lagouderá,Λαγουδερά	34.97398	33.02441	A	ADM2	CY		04	1305			0		947	Asia/Nicosia	2021-01-09
+10193624	Saránti	Saranti	1306,Saranti,Saránti,Σαράντι	34.97913	33.0074	A	ADM2	CY		04	1306			0		1131	Asia/Nicosia	2021-01-09
+10193625	Livádia	Livadia	1307,Livadia,Livádia,Λιβάδια	34.95215	33.01388	A	ADM2	CY		04	1307			0		1224	Asia/Nicosia	2021-01-09
+10193626	Alithinoú	Alithinou	1308,Alithinou,Alithinoú,Αληθινού	34.95788	33.03221	A	ADM2	CY		04	1308			0		1033	Asia/Nicosia	2021-01-09
+10193627	Platanistása	Platanistasa	1309,Platanistasa,Platanistása,Πλατανιστάσα	34.98527	33.06079	A	ADM2	CY		04	1309			0		656	Asia/Nicosia	2021-01-09
+10193628	Palaichóri	Palaichori	1310,Palaichori,Palaichóri,Παλαιχώρι	34.93764	33.11389	A	ADM2	CY		04	1310			0		825	Asia/Nicosia	2021-01-09
+10193629	Xyliátos	Xyliatos	1320,Xyliatos,Xyliátos,Ξυλιάτος	35.01888	33.03548	A	ADM2	CY		04	1320			0		508	Asia/Nicosia	2021-01-09
+10193630	Agios Georgios Kafkallou	Agios Georgios Kafkallou	1321,Agios Georgios,Agios Georgios Kafkallou,Ágios Geórgios,Άγιος Γεώργιος	35.03486	33.00101	A	ADM2	CY		04	1321			0		566	Asia/Nicosia	2021-01-10
+10193632	Nikitári	Nikitari	1322,Nikitari,Nikitári,Νικητάρι	35.05131	32.97529	A	ADM2	CY		04	1322			0		539	Asia/Nicosia	2021-01-09
+10193633	Vyzakiá	Vyzakia	1323,Vyzakia,Vyzakiá,Βυζακιά	35.0745	33.02116	A	ADM2	CY		04	1323			0		363	Asia/Nicosia	2021-01-09
+10193946	Agía Marína	Agia Marina	1324,Agia Marina,Agía Marína,Αγία Μαρίνα	35.04174	33.06131	A	ADM2	CY		04	1324			0		476	Asia/Nicosia	2021-01-09
+10194035	Káto Zódeia	Kato Zodeia	1351,Kato Zodeia,Káto Zódeia,Κάτω Ζώδεια	35.16163	32.98222	A	ADM2	CY		04	1351			0		73	Asia/Nicosia	2021-01-09
+10194862	Kaló Chorió Kapoúti	Kalo Chorio Kapouti	1357,Kalo Chorio Kapouti,Kaló Chorió Kapoúti,Καλό Χωριό Καπούτη	35.24137	33.03115	A	ADM2	CY		04	1357			0		87	Asia/Nicosia	2021-01-09
+10194863	Akáki	Akaki	1360,Akaki,Akáki,Ακάκι	35.13893	33.13042	A	ADM2	CY		04	1360			0		202	Asia/Nicosia	2021-01-09
+10194864	Peristeróna	Peristerona	1361,Peristerona,Peristeróna,Περιστερώνα	35.13049	33.07606	A	ADM2	CY		04	1361			0		226	Asia/Nicosia	2021-01-09
+10194865	Astromerítis	Astromeritis	1362,Astromeritis,Astromerítis,Αστρομερίτης	35.13352	33.03249	A	ADM2	CY		04	1362			0		170	Asia/Nicosia	2021-01-09
+10194866	Avlóna	Avlona	1363,Avlona,Avlóna,Αυλώνα	35.16519	33.1036	A	ADM2	CY		04	1363			0		153	Asia/Nicosia	2021-01-09
+10194867	Katokopiá	Katokopia	1364,Katokopia,Katokopiá,Κατωκοπιά	35.16899	33.0596	A	ADM2	CY		04	1364			0		133	Asia/Nicosia	2021-01-09
+10194868	Argáki	Argaki	1365,Argaki,Argáki,Αργάκι	35.18941	33.03541	A	ADM2	CY		04	1365			0		79	Asia/Nicosia	2021-01-09
+10194869	Másari	Masari	1366,Masari,Másari,Μάσαρη	35.18393	33.07665	A	ADM2	CY		04	1366			0		122	Asia/Nicosia	2021-01-09
+10194870	Fylliá	Fyllia	1367,Fyllia,Fylliá,Φυλλιά	35.1963	33.10504	A	ADM2	CY		04	1367			0		113	Asia/Nicosia	2021-01-09
+10194871	Méniko	Meniko	1368,Meniko,Méniko,Μένικο	35.09887	33.14355	A	ADM2	CY		04	1368			0		254	Asia/Nicosia	2021-01-09
+10194872	Kyrá	Kyra	1369,Kyra,Kyrá,Κυρά	35.21468	33.06915	A	ADM2	CY		04	1369			0		111	Asia/Nicosia	2021-01-09
+10194873	Spília	Spilia	1400,Spilia,Spília,Σπήλια	34.97074	32.94643	A	ADM2	CY		04	1400			0		1044	Asia/Nicosia	2021-01-09
+10194874	Agía Eiríni	Agia Eirini	1402,Agia Eirini,Agía Eiríni,Αγία Ειρήνη	34.98542	32.96493	A	ADM2	CY		04	1402			0		881	Asia/Nicosia	2021-01-09
+10194875	Kannávia	Kannavia	1403,Kannavia,Kannávia,Καννάβια	34.98944	32.98829	A	ADM2	CY		04	1403			0		738	Asia/Nicosia	2021-01-09
+10194894	Kaziverá	Kazivera	1352,Kazivera,Kaziverá,Καζιβερά	35.17393	32.91289	A	ADM2	CY		04	1352			0		14	Asia/Nicosia	2021-01-09
+10194895	Prastió	Prastio	1353,Prastio,Prastió,Πραστιό	35.17731	32.93417	A	ADM2	CY		04	1353			0		20	Asia/Nicosia	2021-01-09
+10194896	Nikítas	Nikitas	1354,Nikitas,Nikítas,Νικήτας	35.17231	32.95427	A	ADM2	CY		04	1354			0		44	Asia/Nicosia	2021-01-09
+10194897	Syrianochóri	Syrianochori	1355,Syrianochori,Syrianochóri,Συριανοχώρι	35.21908	32.93378	A	ADM2	CY		04	1355			0		10	Asia/Nicosia	2021-01-09
+10194915	Kakopetriá	Kakopetria	1404,Kakopetria,Kakopetriá,Κακοπετριά	34.96341	32.89774	A	ADM2	CY		04	1404			0		1205	Asia/Nicosia	2021-01-09
+10194916	Agios Theodoros (Soleas)	Agios Theodoros (Soleas)	1405,Agios Theodoros,Agios Theodoros (Soleas),Ágios Theódoros,Άγιος Θεόδωρος	35.02909	32.93397	A	ADM2	CY		04	1405			0		537	Asia/Nicosia	2021-01-10
+10194917	Galáta	Galata	1406,Galata,Galáta,Γαλάτα	34.99152	32.88475	A	ADM2	CY		04	1406			0		825	Asia/Nicosia	2021-01-09
+10194918	Sináoros	Sinaoros	1407,Sinaoros,Sináoros,Σινάορος	35.01085	32.9102	A	ADM2	CY		04	1407			0		707	Asia/Nicosia	2021-01-09
+10194919	Kaliána	Kaliana	1408,Kaliana,Kaliána,Καλιάνα	35.00623	32.87152	A	ADM2	CY		04	1408			0		769	Asia/Nicosia	2021-01-09
+10195114	Temvriá	Temvria	1409,Temvria,Temvriá,Τεμβριά	35.02536	32.88658	A	ADM2	CY		04	1409			0		528	Asia/Nicosia	2021-01-09
+10195115	Korákou	Korakou	1410,Korakou,Korákou,Κοράκου	35.03995	32.872	A	ADM2	CY		04	1410			0		475	Asia/Nicosia	2021-01-09
+10195116	Evrýchou	Evrychou	1411,Evrychou,Evrýchou,Ευρύχου	35.0573	32.91697	A	ADM2	CY		04	1411			0		365	Asia/Nicosia	2021-01-09
+10195118	Flásou	Flasou	1412,Flasou,Flásou,Φλάσου	35.06287	32.90359	A	ADM2	CY		04	1412			0		391	Asia/Nicosia	2021-01-09
+10195120	Agios Epifanios (Soleas)	Agios Epifanios (Soleas)	1414,Agios Epifanios,Agios Epifanios (Soleas),Ágios Epifánios,Άγιος Επιφάνιος	35.06177	32.86724	A	ADM2	CY		04	1414			0		320	Asia/Nicosia	2021-01-10
+10195121	Linoú	Linou	1415,Linou,Linoú,Ληνού	35.07856	32.9047	A	ADM2	CY		04	1415			0		266	Asia/Nicosia	2021-01-09
+10195122	Katýdata	Katydata	1416,Katydata,Katýdata,Κατύδατα	35.08499	32.87872	A	ADM2	CY		04	1416			0		236	Asia/Nicosia	2021-01-09
+10195124	Skouriótissa	Skouriotissa	1417,Skouriotissa,Skouriótissa,Σκουριώτισσα	35.09416	32.88476	A	ADM2	CY		04	1417			0		217	Asia/Nicosia	2021-01-09
+10195125	Pedoulás	Pedoulas	1420,Pedoulas,Pedoulás,Πεδουλάς	34.96372	32.83205	A	ADM2	CY		04	1420			0		1121	Asia/Nicosia	2021-01-09
+10195126	Mylikoúri	Mylikouri	1421,Mylikouri,Mylikoúri,Μυλικούρι	34.94927	32.72744	A	ADM2	CY		04	1421			0		865	Asia/Nicosia	2021-01-09
+10195127	Moutoutllás	Moutoutllas	1422,Moutoullas,Moutoutllas,Moutoutllás,Μουτουλλάς	34.98228	32.83348	A	ADM2	CY		04	1422			0		878	Asia/Nicosia	2021-01-09
+10195128	Oíkos	Oikos	1423,Oikos,Oíkos,Οίκος	35.00356	32.84064	A	ADM2	CY		04	1423			0		857	Asia/Nicosia	2021-01-09
+10195129	Kalopanagiótis	Kalopanagiotis	1424,Kalopanagiotis,Kalopanagiótis,Καλοπαναγιώτης	35.03277	32.834	A	ADM2	CY		04	1424			0		648	Asia/Nicosia	2021-01-09
+10195130	Gerakiés	Gerakies	1425,Gerakies,Gerakiés,Γερακιές	35.0159	32.78817	A	ADM2	CY		04	1425			0		828	Asia/Nicosia	2021-01-09
+10195156	Tsakístra	Tsakistra	1426,Tsakistra,Tsakístra,Τσακίστρα	35.01245	32.74117	A	ADM2	CY		04	1426			0		795	Asia/Nicosia	2021-01-09
+10195157	Kámpos	Kampos	1427,Kampos,Kámpos,Κάμπος	35.05541	32.73045	A	ADM2	CY		04	1427			0		690	Asia/Nicosia	2021-01-09
+10195158	Ágios Nikólaos	Agios Nikolaos	1430,Agios Nikolaos,Ágios Nikólaos,Άγιος Νικόλαος	35.1007	32.87331	A	ADM2	CY		04	1430			0		234	Asia/Nicosia	2021-01-09
+10195159	Agios Georgios (Lefkas)	Agios Georgios (Lefkas)	1431,Agios Georgios,Agios Georgios (Lefkas),Ágios Geórgios,Άγιος Γεώργιος	35.10529	32.88965	A	ADM2	CY		04	1431			0		213	Asia/Nicosia	2021-01-10
+10195160	Pétra	Petra	1432,Petra,Pétra,Πέτρα	35.108	32.91152	A	ADM2	CY		04	1432			0		180	Asia/Nicosia	2021-01-09
+10195161	Kalo Chorio (Lefkas)	Kalo Chorio (Lefkas)	1433,Kalo Chorio,Kalo Chorio (Lefkas),Kaló Chorió,Καλό Χωριό	35.11813	32.87332	A	ADM2	CY		04	1433			0		105	Asia/Nicosia	2021-01-10
+10195162	Léfka	Lefka	1435,Lefka,Léfka,Λεύκα	35.09452	32.83388	A	ADM2	CY		04	1435			0		161	Asia/Nicosia	2021-01-09
+10195163	Ampelikoú	Ampelikou	1436,Ampelikou,Ampelikoú,Αμπελικού	35.10363	32.80224	A	ADM2	CY		04	1436			0		280	Asia/Nicosia	2021-01-09
+10195164	Peristeronári	Peristeronari	1437,Peristeronari,Peristeronári,Περιστερωνάρι	35.13983	32.86251	A	ADM2	CY		04	1437			0		35	Asia/Nicosia	2021-01-09
+10195165	Eliá	Elia	1438,Elia,Eliá,Ελιά	35.14243	32.92222	A	ADM2	CY		04	1438			0		61	Asia/Nicosia	2021-01-09
+10195166	Karavostási	Karavostasi	1439,Karavostasi,Karavostási,Καραβοστάσι	35.13934	32.8238	A	ADM2	CY		04	1439			0		11	Asia/Nicosia	2021-01-09
+10195167	Pentágeia	Pentageia	1441,Pentageia,Pentágeia,Πεντάγεια	35.15089	32.88581	A	ADM2	CY		04	1441			0		33	Asia/Nicosia	2021-01-09
+10195168	Angolémi	Angolemi	1443,Angolemi,Angolémi,Αγγολέμι	35.11689	32.94712	A	ADM2	CY		04	1443			0		140	Asia/Nicosia	2021-01-09
+10195169	Varíseia	Variseia	1450,Variseia,Varíseia,Βαρίσεια	35.11406	32.74562	A	ADM2	CY		04	1450			0		335	Asia/Nicosia	2021-01-09
+10195171	Galiní	Galini	1451,Galini,Galiní,Γαληνή	35.13206	32.78095	A	ADM2	CY		04	1451			0		138	Asia/Nicosia	2021-01-09
+10195172	Xeróvounos	Xerovounos	1452,Xerovounos,Xeróvounos,Ξερόβουνος	35.12924	32.72478	A	ADM2	CY		04	1452			0		320	Asia/Nicosia	2021-01-09
+10195173	Loutrós	Loutros	1453,Loutros,Loutrós,Λουτρός	35.15561	32.76067	A	ADM2	CY		04	1453			0		169	Asia/Nicosia	2021-01-09
+10195174	Ágios Ioánnis Selémani	Agios Ioannis Selemani	1454,Agios Ioannis Selemani,Ágios Ioánnis Selémani,Άγιος Ιωάννης Σελέμανη	35.13231	32.69429	A	ADM2	CY		04	1454			0		134	Asia/Nicosia	2021-01-09
+10195175	Ammadiés	Ammadies	1455,Ammadies,Ammadiés,Αμμαδιές	35.1671	32.7122	A	ADM2	CY		04	1455			0		173	Asia/Nicosia	2021-01-09
+10195176	Páno Pýrgos	Pano Pyrgos	1456,Pano Pyrgos,Páno Pýrgos,Πάνω Πύργος	35.13194	32.67003	A	ADM2	CY		04	1456			0		359	Asia/Nicosia	2021-01-09
+10195177	Káto Pýrgos	Kato Pyrgos	1457,Kato Pyrgos,Káto Pýrgos,Κάτω Πύργος	35.17824	32.68492	A	ADM2	CY		04	1457			0		21	Asia/Nicosia	2023-12-05
+10195178	Selládi tou Áppi kai Ágio Georgoúdi	Selladi tou Appi kai Agio Georgoudi	1458,Selladi tou Appi kai Agio Georgoudi,Selládi tou Áppi kai Ágio Georgoúdi,Σελλάδι του Άππη και Άγιο Γεωργούδι	35.15242	32.62027	A	ADM2	CY		04	1458			0		279	Asia/Nicosia	2021-01-09
+10195179	Alévga	Alevga	1459,Alevga,Alévga,Αλεύγα	35.15129	32.6076	A	ADM2	CY		04	1459			0		324	Asia/Nicosia	2021-01-09
+10195180	Pigénia	Pigenia	1460,Pigenia,Pigénia,Πηγένια	35.1549	32.65076	A	ADM2	CY		04	1460			0		246	Asia/Nicosia	2021-01-09
+10195181	Pachýammos	Pachyammos	1461,Pachyammos,Pachýammos,Παχύαμμος	35.16498	32.58509	A	ADM2	CY		04	1461			0		158	Asia/Nicosia	2021-01-09
+10195182	Kókkina	Kokkina	1464,Kokkina,Kókkina,Κόκκινα	35.16729	32.60327	A	ADM2	CY		04	1464			0		170	Asia/Nicosia	2021-01-09
+10195183	Fródisia	Frodisia	1465,Frodisia,Fródisia,Φρόδισια	35.07362	32.66703	A	ADM2	CY		04	1465			0		644	Asia/Nicosia	2021-01-09
+10195184	Agios Theodoros (Tillirias)	Agios Theodoros (Tillirias)	1466,Agios Theodoros,Agios Theodoros (Tillirias),Ágios Theódoros,Άγιος Θεόδωρος	35.16295	32.63413	A	ADM2	CY		04	1466			0		99	Asia/Nicosia	2021-01-10
+10195185	Mansoúra	Mansoura	1467,Mansoura,Mansoúra,Μανσούρα	35.18708	32.63689	A	ADM2	CY		04	1467			0		14	Asia/Nicosia	2015-04-10
+10195186	Mosfíli	Mosfili	1468,Mosfili,Mosfíli,Μοσφίλι	35.17797	32.62589	A	ADM2	CY		04	1468			0		223	Asia/Nicosia	2015-04-10
+10197997	Kerýneia	Keryneia	2000,Keryneia,Kerýneia,Κερύνεια	35.3286	33.31392	A	ADM2	CY		02	2000			0		59	Asia/Famagusta	2021-01-09
+10197998	Páno Díkomo	Pano Dikomo	2100,Pano Dikomo,Páno Díkomo,Πάνω Δίκωμο	35.28482	33.32031	A	ADM2	CY		02	2100			0		336	Asia/Famagusta	2021-01-09
+10197999	Káto Díkomo	Kato Dikomo	2101,Kato Dikomo,Káto Díkomo,Κάτω Δίκωμο	35.25737	33.31526	A	ADM2	CY		02	2101			0		206	Asia/Famagusta	2021-01-09
+10198000	Koutsovéntis	Koutsoventis	2102,Koutsoventis,Koutsovéntis,Κουτσοβέντης	35.26547	33.42376	A	ADM2	CY		02	2102			0		317	Asia/Famagusta	2021-01-09
+10198001	Vounó	Vouno	2103,Vouno,Vounó,Βουνό	35.26185	33.39442	A	ADM2	CY		02	2103			0		266	Asia/Famagusta	2021-01-09
+10198002	Sicharí	Sichari	2104,Sichari,Sicharí,Σιχαρί	35.25202	33.37082	A	ADM2	CY		02	2104			0		206	Asia/Famagusta	2021-01-09
+10198003	Fóta	Fota	2110,Fota,Fóta,Φότα	35.25538	33.22301	A	ADM2	CY		02	2110			0		239	Asia/Famagusta	2021-01-09
+10198004	Kriní	Krini	2111,Krini,Kriní,Κρηνί	35.2761	33.24692	A	ADM2	CY		02	2111			0		251	Asia/Famagusta	2021-01-09
+10198005	Pilerí	Pileri	2112,Pileri,Pilerí,Πιλερί	35.29039	33.2122	A	ADM2	CY		02	2112			0		314	Asia/Famagusta	2021-01-09
+10198006	Kiomourtzoú	Kiomourtzou	2113,Kiomourtzou,Kiomourtzoú,Κιομουρτζού	35.28991	33.25779	A	ADM2	CY		02	2113			0		331	Asia/Famagusta	2021-01-09
+10200789	Agírda	Agirda	2114,Agirda,Agírda,Αγίρδα	35.29426	33.27936	A	ADM2	CY		02	2114			0		290	Asia/Famagusta	2021-01-09
+10200790	Ágios Ermólaos	Agios Ermolaos	2120,Agios Ermolaos,Ágios Ermólaos,Άγιος Ερμόλαος	35.26863	33.17679	A	ADM2	CY		02	2120			0		233	Asia/Famagusta	2021-01-09
+10200791	Sýsklipos	Sysklipos	2121,Sysklipos,Sýsklipos,Σύσκληπος	35.29704	33.1798	A	ADM2	CY		02	2121			0		332	Asia/Famagusta	2021-01-09
+10200792	Konteménos	Kontemenos	2122,Kontemenos,Konteménos,Κοντεμένος	35.26586	33.13346	A	ADM2	CY		02	2122			0		228	Asia/Famagusta	2021-01-09
+10200793	Asómatos	Asomatos	2123,Asomatos,Asómatos,Ασώματος	35.26898	33.08461	A	ADM2	CY		02	2123			0		195	Asia/Famagusta	2021-01-09
+10200794	Kampylí	Kampyli	2124,Kampyli,Kampylí,Καμπυλή	35.30449	33.10348	A	ADM2	CY		02	2124			0		248	Asia/Famagusta	2021-01-09
+10200795	Karpáseia	Karpaseia	2125,Karpaseia,Karpáseia,Καρπάσεια	35.28786	33.06859	A	ADM2	CY		02	2125			0		279	Asia/Famagusta	2021-01-09
+10200796	Mýrtou	Myrtou	2126,Myrtou,Mýrtou,Μύρτου	35.32189	33.07624	A	ADM2	CY		02	2126			0		139	Asia/Famagusta	2021-01-09
+10200797	Diórios	Diorios	2127,Diorios,Diórios,Διόριος	35.29608	33.02947	A	ADM2	CY		02	2127			0		221	Asia/Famagusta	2021-01-09
+10200798	Agía Eiríni	Agia Eirini	2128,Agia Eirini,Agía Eiríni,Αγία Ειρήνη	35.29094	32.97368	A	ADM2	CY		02	2128			0		62	Asia/Famagusta	2021-01-09
+10200799	Kormakítis	Kormakitis	2129,Kormakitis,Kormakítis,Κορμακίτης	35.3424	32.9785	A	ADM2	CY		02	2129			0		102	Asia/Famagusta	2021-01-09
+10200800	Liverá	Livera	2130,Livera,Liverá,Λιβερά	35.37958	32.95	A	ADM2	CY		02	2130			0		121	Asia/Famagusta	2021-01-09
+10200801	Kalograía	Kalograia	2200,Kalograia,Kalograía,Καλογραία	35.34047	33.6316	A	ADM2	CY		02	2200			0		102	Asia/Famagusta	2021-01-09
+10200802	Ágios Amvrósios	Agios Amvrosios	2201,Agios Amvrosios,Ágios Amvrósios,Άγιος Αμβρόσιος	35.32982	33.58383	A	ADM2	CY		02	2201			0		250	Asia/Famagusta	2021-01-09
+10200803	Chárkeia	Charkeia	2202,Charkeia,Chárkeia,Χάρκεια	35.30795	33.5338	A	ADM2	CY		02	2202			0		299	Asia/Famagusta	2021-01-09
+10201371	Trápeza	Trapeza	2203,Trapeza,Trápeza,Τράπεζα	35.302	33.47513	A	ADM2	CY		02	2203			0		185	Asia/Famagusta	2021-01-09
+10201372	Klepíni	Klepini	2204,Klepini,Klepíni,Κλεπίνη	35.30675	33.43414	A	ADM2	CY		02	2204			0		219	Asia/Famagusta	2021-01-09
+10201373	Ágios Epíktitos	Agios Epiktitos	2205,Agios Epiktitos,Ágios Epíktitos,Άγιος Επίκτητος	35.32917	33.4375	A	ADM2	CY		02	2205			0		16	Asia/Famagusta	2021-01-09
+10201374	Bélapaïs	Belapais	2206,Belapais,Bélapaïs,Μπέλαπαϊς	35.30149	33.35145	A	ADM2	CY		02	2206			0		372	Asia/Famagusta	2021-01-09
+10201375	Kazáfani	Kazafani	2207,Kazafani,Kazáfani,Καζάφανι	35.31854	33.35323	A	ADM2	CY		02	2207			0		75	Asia/Famagusta	2021-01-09
+10201376	Thérmeia	Thermeia	2208,Thermeia,Thérmeia,Θέρμεια	35.32582	33.33261	A	ADM2	CY		02	2208			0		53	Asia/Famagusta	2021-01-09
+10201377	Karákoumi	Karakoumi	2209,Karakoumi,Karákoumi,Καράκουμι	35.33461	33.3421	A	ADM2	CY		02	2209			0		15	Asia/Famagusta	2021-01-09
+10201378	Témplos	Templos	2210,Templos,Témplos,Τέμπλος	35.32944	33.29151	A	ADM2	CY		02	2210			0		73	Asia/Famagusta	2021-01-09
+10201379	Kármi	Karmi	2211,Karmi,Kármi,Κάρμι	35.3169	33.26354	A	ADM2	CY		02	2211			0		343	Asia/Famagusta	2021-01-09
+10201380	Ftéricha	Ftericha	2212,Ftericha,Ftéricha,Φτέριχα	35.31788	33.22605	A	ADM2	CY		02	2212			0		451	Asia/Famagusta	2021-01-09
+10201381	Trimíthi	Trimithi	2213,Trimithi,Trimíthi,Τριμίθι	35.33598	33.25687	A	ADM2	CY		02	2213			0		63	Asia/Famagusta	2021-01-09
+10201382	Palaiósofos	Palaiosofos	2214,Palaiosofos,Palaiósofos,Παλαιόσοφος	35.3173	33.20941	A	ADM2	CY		02	2214			0		437	Asia/Famagusta	2021-01-09
+10201383	Motídes	Motides	2215,Motides,Motídes,Μοτήδες	35.33135	33.21095	A	ADM2	CY		02	2215			0		186	Asia/Famagusta	2021-01-09
+10201384	Eliá	Elia	2216,Elia,Eliá,Ελιά	35.33537	33.21737	A	ADM2	CY		02	2216			0		123	Asia/Famagusta	2021-01-09
+10201385	Karavás	Karavas	2217,Karavas,Karavás,Καραβάς	35.34346	33.23001	A	ADM2	CY		02	2217			0		40	Asia/Famagusta	2021-01-09
+10201386	Ágios Geórgios	Agios Georgios	2218,Agios Georgios,Ágios Geórgios,Άγιος Γεώργιος	35.34337	33.26982	A	ADM2	CY		02	2218			0		17	Asia/Famagusta	2021-01-09
+10201387	Agridáki	Agridaki	2220,Agridaki,Agridáki,Αγριδάκι	35.30103	33.15401	A	ADM2	CY		02	2220			0		344	Asia/Famagusta	2021-01-09
+10201388	Lárnakas Lapíthou	Larnakas Lapithou	2221,Larnakas Lapithou,Lárnakas Lapíthou,Λάρνακας Λαπήθου	35.30743	33.13135	A	ADM2	CY		02	2221			0		213	Asia/Famagusta	2021-01-09
+10201389	Lápithos	Lapithos	2222,Lapithos,Lápithos,Λάπηθος	35.33561	33.16675	A	ADM2	CY		02	2222			0		181	Asia/Famagusta	2021-01-09
+10201390	Vasíleia	Vasileia	2223,Vasileia,Vasíleia,Βασίλεια	35.34522	33.10525	A	ADM2	CY		02	2223			0		136	Asia/Famagusta	2021-01-09
+10201391	Pánagra	Panagra	2224,Panagra,Pánagra,Πάναγρα	35.34307	33.06791	A	ADM2	CY		02	2224			0		186	Asia/Famagusta	2021-01-09
+10201392	Órga	Orga	2226,Orga,Órga,Όργα	35.35935	33.03151	A	ADM2	CY		02	2226			0		99	Asia/Famagusta	2021-01-09
+10201393	Ammóchostos	Ammochostos	3000,Ammochostos,Ammóchostos,Αμμόχωστος	35.11711	33.92744	A	ADM2	CY		01	3000			0		12	Asia/Famagusta	2021-01-09
+10201394	Agía Nápa	Agia Napa	3100,Agia Napa,Agía Nápa,Αγία Νάπα	34.99455	34.01088	A	ADM2	CY		01	3100			0		87	Asia/Famagusta	2021-01-09
+10201395	Paralímni	Paralimni	3101,Paralimni,Paralímni,Παραλίμνι	35.025	34.0125	A	ADM2	CY		01	3101			0		89	Asia/Famagusta	2021-01-09
+10201396	Derýneia	Deryneia	3102,Deryneia,Derýneia,Δερύνεια	35.06425	33.94203	A	ADM2	CY		01	3102			0		61	Asia/Famagusta	2021-01-09
+10201397	Sotíra	Sotira	3103,Sotira,Sotíra,Σωτήρα	35.00782	33.93366	A	ADM2	CY		01	3103			0		44	Asia/Famagusta	2021-01-09
+10201398	Liopétri	Liopetri	3104,Liopetri,Liopétri,Λιοπέτρι	35.00254	33.88855	A	ADM2	CY		01	3104			0		36	Asia/Famagusta	2021-01-09
+10201399	Frénaros	Frenaros	3105,Frenaros,Frénaros,Φρέναρος	35.05136	33.90032	A	ADM2	CY		01	3105			0		52	Asia/Famagusta	2021-01-09
+10201436	Avgórou	Avgorou	3110,Avgorou,Avgórou,Αυγόρου	35.03418	33.84217	A	ADM2	CY		01	3110			0		40	Asia/Famagusta	2021-01-09
+10201437	Áchna	Achna	3111,Achna,Áchna,Άχνα	35.04754	33.79005	A	ADM2	CY		01	3111			0		46	Asia/Nicosia	2023-11-20
+10201438	Makrásyka	Makrasyka	3112,Makrasyka,Makrásyka,Μακράσυκα	35.0721	33.75449	A	ADM2	CY		01	3112			0		45	Asia/Famagusta	2021-01-09
+10201439	Kalopsída	Kalopsida	3113,Kalopsida,Kalopsída,Καλοψίδα	35.10457	33.79928	A	ADM2	CY		01	3113			0		10	Asia/Famagusta	2021-01-09
+10201531	Acherítou	Acheritou	3114,Acheritou,Acherítou,Αχερίτου	35.10522	33.85761	A	ADM2	CY		01	3114			0		9	Asia/Famagusta	2021-01-09
+10201532	Égkomi	Egkomi	3120,Egkomi,Enkomi,Égkomi,Έγκωμη	35.15906	33.88388	A	ADM2	CY		01	3120			0		2	Asia/Famagusta	2021-01-09
+10201533	Ágios Sérgios	Agios Sergios	3121,Agios Sergios,Ágios Sérgios,Άγιος Σέργιος	35.20022	33.88803	A	ADM2	CY		01	3121			0		6	Asia/Famagusta	2021-01-09
+10201534	Stýlloi	Stylloi	3122,Stylloi,Stýlloi,Στύλλοι	35.16442	33.82934	A	ADM2	CY		01	3122			0		11	Asia/Famagusta	2021-01-09
+10201535	Limniá	Limnia	3123,Limnia,Limniá,Λιμνιά	35.1927	33.85149	A	ADM2	CY		01	3123			0		18	Asia/Famagusta	2021-01-09
+10201536	Alóda	Aloda	3124,Aloda,Alóda,Αλόδα	35.2169	33.83117	A	ADM2	CY		01	3124			0		24	Asia/Famagusta	2021-01-09
+10201537	Spatharikó	Spathariko	3130,Spathariko,Spatharikó,Σπαθαρικό	35.23458	33.88152	A	ADM2	CY		01	3130			0		7	Asia/Famagusta	2021-01-09
+10201538	Arnadí	Arnadi	3131,Arnadi,Arnadí,Αρναδί	35.23559	33.84974	A	ADM2	CY		01	3131			0		20	Asia/Famagusta	2021-01-09
+10201539	Ágios Geórgios	Agios Georgios	3132,Agios Georgios,Ágios Geórgios,Άγιος Γεώργιος	35.25331	33.86643	A	ADM2	CY		01	3132			0		13	Asia/Famagusta	2021-01-09
+10201540	Perivólia	Perivolia	3133,Perivolia,Perivólia,Περιβόλια	35.28308	33.9125	A	ADM2	CY		01	3133			0		10	Asia/Famagusta	2021-01-09
+10201541	Sýgkrasi	Sygkrasi	3134,Sygkrasi,Synkrasi,Sýgkrasi,Σύγκραση	35.28662	33.84952	A	ADM2	CY		01	3134			0		39	Asia/Famagusta	2021-01-09
+10201542	Lápathos	Lapathos	3135,Lapathos,Lápathos,Λάπαθος	35.27431	33.82706	A	ADM2	CY		01	3135			0		46	Asia/Famagusta	2021-01-09
+10201543	Tríkomo	Trikomo	3136,Trikomo,Tríkomo,Τρίκωμο	35.29112	33.89281	A	ADM2	CY		01	3136			0		36	Asia/Famagusta	2021-01-09
+10201544	Koúklia	Kouklia	3200,Kouklia,Koúklia,Κούκλια	35.11469	33.75666	A	ADM2	CY		01	3200			0		20	Asia/Famagusta	2021-01-09
+10201545	Kontéa	Kontea	3201,Kontea,Kontéa,Κοντέα	35.10267	33.72561	A	ADM2	CY		01	3201			0		38	Asia/Famagusta	2021-01-09
+10201546	Lýsi	Lysi	3202,Lysi,Lýsi,Λύση	35.08844	33.6755	A	ADM2	CY		01	3202			0		90	Asia/Famagusta	2021-01-09
+10201547	Vatilí	Vatili	3203,Vatili,Vatilí,Βατιλή	35.13999	33.66015	A	ADM2	CY		01	3203			0		47	Asia/Famagusta	2021-01-09
+10201548	Strongylós	Strongylos	3204,Strongylos,Strongylós,Στρογγυλός	35.17254	33.64703	A	ADM2	CY		01	3204			0		42	Asia/Famagusta	2021-01-09
+10201549	Sínta	Sinta	3205,Sinta,Sínta,Σίντα	35.15972	33.7019	A	ADM2	CY		01	3205			0		31	Asia/Famagusta	2021-01-09
+10201550	Gaïdourás	Gaidouras	3210,Gaidouras,Gaïdourás,Γαϊδουράς	35.15471	33.79581	A	ADM2	CY		01	3210			0		16	Asia/Famagusta	2021-01-09
+10201551	Prastió	Prastio	3211,Prastio,Prastió,Πραστιό	35.163	33.76169	A	ADM2	CY		01	3211			0		18	Asia/Famagusta	2021-01-09
+10201552	Pyrgá	Pyrga	3212,Pyrga,Pyrgá,Πυργά	35.18764	33.72175	A	ADM2	CY		01	3212			0		29	Asia/Famagusta	2021-01-09
+10201553	Mousoulíta	Mousoulita	3213,Mousoulita,Mousoulíta,Μουσουλίτα	35.19164	33.64348	A	ADM2	CY		01	3213			0		47	Asia/Famagusta	2021-01-09
+10201554	Santaláris	Santalaris	3214,Santalaris,Santaláris,Σανταλάρης	35.18855	33.80742	A	ADM2	CY		01	3214			0		17	Asia/Famagusta	2021-01-09
+10201555	Marátha	Maratha	3215,Maratha,Marátha,Μαράθα	35.2073	33.77781	A	ADM2	CY		01	3215			0		23	Asia/Famagusta	2021-01-09
+10201556	Peristeróna	Peristerona	3216,Peristerona,Peristeróna,Περιστερώνα	35.20298	33.75712	A	ADM2	CY		01	3216			0		23	Asia/Famagusta	2021-01-09
+10201557	Pigí	Pigi	3217,Pigi,Pigí,Πηγή	35.21259	33.78405	A	ADM2	CY		01	3217			0		33	Asia/Famagusta	2021-01-09
+10201558	Génagra	Genagra	3218,Genagra,Génagra,Γέναγρα	35.21099	33.69165	A	ADM2	CY		01	3218			0		38	Asia/Famagusta	2021-01-09
+10201559	Miliá	Milia	3219,Milia,Miliá,Μηλιά	35.23674	33.7972	A	ADM2	CY		01	3219			0		43	Asia/Famagusta	2021-01-09
+10201560	Gýpsou	Gypsou	3220,Gypsou,Gýpsou,Γύψου	35.27838	33.79032	A	ADM2	CY		01	3220			0		67	Asia/Famagusta	2021-01-09
+10201561	Lefkónoiko	Lefkonoiko	3221,Lefkonoiko,Lefkónoiko,Λευκόνοικο	35.26571	33.73281	A	ADM2	CY		01	3221			0		73	Asia/Famagusta	2021-01-09
+10201562	Psyllátos	Psyllatos	3222,Psyllatos,Psyllátos,Ψυλλάτος	35.24739	33.68724	A	ADM2	CY		01	3222			0		54	Asia/Famagusta	2021-01-09
+10201563	Knódara	Knodara	3223,Knodara,Knódara,Κνώδαρα	35.26919	33.65505	A	ADM2	CY		01	3223			0		80	Asia/Famagusta	2021-01-09
+10201564	Goúfes	Goufes	3224,Goufes,Goúfes,Γούφες	35.28386	33.69322	A	ADM2	CY		01	3224			0		92	Asia/Famagusta	2021-01-09
+10201565	Áskeia	Askeia	3231,Askeia,Áskeia,Άσκεια	35.1518	33.61095	A	ADM2	CY		01	3231			0		72	Asia/Famagusta	2021-01-09
+10201566	Afánteia	Afanteia	3232,Afanteia,Afánteia,Αφάντεια	35.15003	33.57109	A	ADM2	CY		01	3232			0		74	Asia/Famagusta	2021-01-09
+10201567	Angastína	Angastina	3233,Angastina,Angastína,Αγγαστίνα	35.20628	33.58531	A	ADM2	CY		01	3233			0		75	Asia/Famagusta	2021-01-09
+10201568	Marathóvounos	Marathovounos	3234,Marathovounos,Marathóvounos,Μαραθόβουνος	35.21568	33.63178	A	ADM2	CY		01	3234			0		50	Asia/Famagusta	2021-01-09
+10201569	Vitsáda	Vitsada	3235,Vitsada,Vitsáda,Βιτσάδα	35.23686	33.65023	A	ADM2	CY		01	3235			0		56	Asia/Famagusta	2021-01-09
+10201570	Kíados	Kiados	3236,Kiados,Kíados,Κίαδος	35.25663	33.6045	A	ADM2	CY		01	3236			0		111	Asia/Famagusta	2021-01-09
+10201571	Kornókipos	Kornokipos	3237,Kornokipos,Kornókipos,Κορνόκηπος	35.27413	33.5724	A	ADM2	CY		01	3237			0		193	Asia/Famagusta	2021-01-09
+10201572	Ágios Charíton	Agios Chariton	3238,Agios Chariton,Ágios Charíton,Άγιος Χαρίτων	35.29915	33.60066	A	ADM2	CY		01	3238			0		264	Asia/Famagusta	2021-01-09
+10201573	Trypiméni	Trypimeni	3239,Trypimeni,Trypiméni,Τρυπημένη	35.30499	33.63795	A	ADM2	CY		01	3239			0		188	Asia/Famagusta	2021-01-09
+10201574	Ártemi	Artemi	3300,Artemi,Ártemi,Άρτεμι	35.3148	33.71441	A	ADM2	CY		01	3300			0		168	Asia/Famagusta	2021-01-09
+10201575	Ágios Nikólaos	Agios Nikolaos	3301,Agios Nikolaos,Ágios Nikólaos,Άγιος Νικόλαος	35.32205	33.67594	A	ADM2	CY		01	3301			0		249	Asia/Famagusta	2021-01-09
+10201576	Platáni	Platani	3303,Platani,Platáni,Πλατάνι	35.33331	33.76232	A	ADM2	CY		01	3303			0		257	Asia/Famagusta	2021-01-09
+10201577	Akanthoú	Akanthou	3304,Akanthou,Akanthoú,Ακανθού	35.37678	33.76125	A	ADM2	CY		01	3304			0		188	Asia/Famagusta	2021-01-09
+10201578	Meloúnta	Melounta	3305,Melounta,Meloúnta,Μελούντα	35.3258	33.68989	A	ADM2	CY		01	3305			0		265	Asia/Famagusta	2021-01-09
+10201579	Ágios Iákovos	Agios Iakovos	3310,Agios Iakovos,Ágios Iákovos,Άγιος Ιάκωβος	35.31962	33.81847	A	ADM2	CY		01	3310			0		164	Asia/Famagusta	2021-01-09
+10201580	Agios Andronikos (Trikomou)	Agios Andronikos (Trikomou)	3311,Agios Andronikos,Agios Andronikos (Trikomou),Ágios Andrónikos,Άγιος Ανδρόνικος	35.33932	33.858	A	ADM2	CY		01	3311			0		155	Asia/Famagusta	2021-01-10
+10201581	Mándres	Mandres	3312,Mandres,Mándres,Μάνδρες	35.35263	33.81222	A	ADM2	CY		01	3312			0		314	Asia/Famagusta	2021-01-09
+10201582	Árdana	Ardana	3313,Ardana,Árdana,Άρδανα	35.35393	33.88976	A	ADM2	CY		01	3313			0		185	Asia/Famagusta	2021-01-09
+10201583	Flamoúdi	Flamoudi	3314,Flamoudi,Flamoúdi,Φλαμούδι	35.39436	33.85926	A	ADM2	CY		01	3314			0		197	Asia/Famagusta	2021-01-09
+10201584	Bogázi	Bogazi	3320,Bogazi,Bogázi,Μπογάζι	35.31471	33.95039	A	ADM2	CY		01	3320			0		28	Asia/Famagusta	2021-01-09
+10201585	Monargá	Monarga	3321,Monarga,Monargá,Μοναργά	35.31567	33.94259	A	ADM2	CY		01	3321			0		41	Asia/Famagusta	2021-01-09
+10201586	Ágios Ilías	Agios Ilias	3322,Agios Ilias,Ágios Ilías,Άγιος Ηλίας	35.32686	33.93236	A	ADM2	CY		01	3322			0		36	Asia/Famagusta	2021-01-09
+10201587	Gastriá	Gastria	3323,Gastria,Gastriá,Γαστριά	35.33579	33.99005	A	ADM2	CY		01	3323			0		10	Asia/Famagusta	2021-01-09
+10201588	Avgolída	Avgolida	3324,Avgolida,Avgolída,Αυγολίδα	35.3531	33.95705	A	ADM2	CY		01	3324			0		49	Asia/Famagusta	2021-01-09
+10201589	Patríki	Patriki	3325,Patriki,Patríki,Πατρίκι	35.36153	33.98495	A	ADM2	CY		01	3325			0		48	Asia/Famagusta	2021-01-09
+10201590	Geráni	Gerani	3326,Gerani,Geráni,Γεράνι	35.36279	33.91883	A	ADM2	CY		01	3326			0		111	Asia/Famagusta	2021-01-09
+10201591	Óvgoros	Ovgoros	3327,Ovgoros,Óvgoros,Όβγορος	35.37959	33.9355	A	ADM2	CY		01	3327			0		142	Asia/Famagusta	2021-01-09
+10201592	Davlós	Davlos	3328,Davlos,Davlós,Δαυλός	35.41608	33.91343	A	ADM2	CY		01	3328			0		203	Asia/Famagusta	2021-01-09
+10201593	Ágios Theódoros	Agios Theodoros	3330,Agios Theodoros,Ágios Theódoros,Άγιος Θεόδωρος	35.35273	34.03761	A	ADM2	CY		01	3330			0		49	Asia/Famagusta	2021-01-09
+10201594	Vokolída	Vokolida	3331,Vokolida,Vokolída,Βοκολίδα	35.37091	34.06836	A	ADM2	CY		01	3331			0		5	Asia/Famagusta	2021-01-09
+10201595	Távrou	Tavrou	3332,Tavrou,Távrou,Ταύρου	35.394	34.0762	A	ADM2	CY		01	3332			0		24	Asia/Famagusta	2021-01-09
+10201596	Ágios Efstáthios	Agios Efstathios	3333,Agios Efstathios,Ágios Efstáthios,Άγιος Ευστάθιος	35.38723	34.01802	A	ADM2	CY		01	3333			0		45	Asia/Famagusta	2021-01-09
+10201597	Livádia	Livadia	3334,Livadia,Livádia,Λιβάδια	35.39741	34.0346	A	ADM2	CY		01	3334			0		45	Asia/Famagusta	2021-01-09
+10201598	Krídeia	Krideia	3335,Krideia,Krídeia,Κρίδεια	35.39399	33.95619	A	ADM2	CY		01	3335			0		128	Asia/Famagusta	2021-01-09
+10201599	Kómi	Komi	3336,Komi,Kómi,Κώμη	35.41251	33.98835	A	ADM2	CY		01	3336			0		113	Asia/Famagusta	2021-01-09
+10201600	Galáteia	Galateia	3337,Galateia,Galáteia,Γαλάτεια	35.42364	34.07415	A	ADM2	CY		01	3337			0		88	Asia/Famagusta	2021-01-09
+10201601	Eptakómi	Eptakomi	3338,Eptakomi,Eptakómi,Επτακώμη	35.449	34.0345	A	ADM2	CY		01	3338			0		176	Asia/Famagusta	2021-01-09
+10201602	Kóma tou Gialoú	Koma tou Gialou	3340,Koma tou Gialou,Kóma tou Gialoú,Κώμα του Γιαλού	35.42512	34.12399	A	ADM2	CY		01	3340			0		59	Asia/Famagusta	2021-01-09
+10201603	Néta	Neta	3341,Neta,Néta,Νέτα	35.46827	34.2203	A	ADM2	CY		01	3341			0		79	Asia/Famagusta	2021-01-09
+10201604	Vothýlakas	Vothylakas	3342,Vothylakas,Vothýlakas,Βοθύλακας	35.47155	34.19267	A	ADM2	CY		01	3342			0		154	Asia/Famagusta	2021-01-09
+10201605	Lythrágkomi	Lythragkomi	3343,Lythragkomi,Lythrankomi,Lythrágkomi,Λυθράγκωμη	35.46791	34.17241	A	ADM2	CY		01	3343			0		109	Asia/Famagusta	2021-01-09
+10201606	Vasíli	Vasili	3344,Vasili,Vasíli,Βασίλι	35.45193	34.16219	A	ADM2	CY		01	3344			0		95	Asia/Famagusta	2021-01-09
+10201607	Leonárisso	Leonarisso	3345,Leonarisso,Leonárisso,Λεονάρισσο	35.46177	34.12397	A	ADM2	CY		01	3345			0		125	Asia/Famagusta	2021-01-09
+10201608	Platanissós	Platanissos	3346,Platanissos,Platanissós,Πλατανισσός	35.47998	34.09166	A	ADM2	CY		01	3346			0		81	Asia/Famagusta	2021-01-09
+10201609	Koilánemos	Koilanemos	3347,Koilanemos,Koilánemos,Κοιλάνεμος	35.4919	34.13391	A	ADM2	CY		01	3347			0		110	Asia/Famagusta	2021-01-09
+10201610	Ágios Andrónikos	Agios Andronikos	3348,Agios Andronikos,Ágios Andrónikos,Άγιος Ανδρόνικος	35.5025	34.15621	A	ADM2	CY		01	3348			0		149	Asia/Famagusta	2021-01-09
+10201611	Ágios Symeón	Agios Symeon	3350,Agios Symeon,Ágios Symeón,Άγιος Συμεών	35.4865	34.23248	A	ADM2	CY		01	3350			0		125	Asia/Famagusta	2021-01-09
+10201612	Melánarga	Melanarga	3351,Melanarga,Melánarga,Μελάναργα	35.50806	34.20278	A	ADM2	CY		01	3351			0		187	Asia/Famagusta	2021-01-09
+10201613	Aigialoúsa	Aigialousa	3352,Aigialousa,Aigialoúsa,Αιγιαλούσα	35.55335	34.24498	A	ADM2	CY		01	3352			0		114	Asia/Famagusta	2021-01-09
+10201614	Agía Triás	Agia Trias	3353,Agia Trias,Agía Triás,Αγία Τριάς	35.53847	34.22464	A	ADM2	CY		01	3353			0		172	Asia/Famagusta	2015-04-10
+10201616	Koróveia	Koroveia	3354,Koroveia,Koróveia,Κορόβεια	35.50558	34.27454	A	ADM2	CY		01	3354			0		41	Asia/Famagusta	2021-01-09
+10201617	Galinóporni	Galinoporni	3355,Galinoporni,Galinóporni,Γαληνόπορνη	35.52831	34.30854	A	ADM2	CY		01	3355			0		188	Asia/Famagusta	2021-01-09
+10201618	Rizokárpaso	Rizokarpaso	3356,Rizokarpaso,Rizokárpaso,Ριζοκάρπασο	35.62305	34.43301	A	ADM2	CY		01	3356			0		154	Asia/Famagusta	2021-01-09
+10346885	Lárnaka	Larnaka	4000,Larnaka,Lárnaka,Λάρνακα	34.90388	33.62153	A	ADM2	CY		03	4000			0		-2	Asia/Nicosia	2021-01-09
+10346886	Aradíppou	Aradippou	4010,Aradippou,Aradíppou,Αραδίππου	34.95574	33.57655	A	ADM2	CY		03	4010			0		75	Asia/Nicosia	2021-01-09
+10346889	Kelliá	Kellia	4100,Kellia,Kelliá,Κελλιά	34.98683	33.62256	A	ADM2	CY		03	4100			0		52	Asia/Nicosia	2021-01-09
+10346890	Troúlloi	Troulloi	4101,Troulloi,Troúlloi,Τρούλλοι	35.02586	33.62233	A	ADM2	CY		03	4101			0		130	Asia/Nicosia	2021-01-09
+10346891	Voróklini	Voroklini	4102,Voroklini,Voróklini,Βορόκληνη	34.98721	33.65749	A	ADM2	CY		03	4102			0		33	Asia/Nicosia	2021-01-09
+10346892	Avdelleró	Avdellero	4103,Avdellero,Avdelleró,Αβδελλερό	35.00993	33.56984	A	ADM2	CY		03	4103			0		137	Asia/Nicosia	2021-01-09
+10346893	Pýla	Pyla	4104,Pyla,Pýla,Πύλα	35.00243	33.69381	A	ADM2	CY		03	4104			0		52	Asia/Nicosia	2021-01-09
+10346894	Xylotýmvou	Xylotymvou	4105,Xylotymvou,Xylotýmvou,Ξυλοτύμβου	35.01867	33.7424	A	ADM2	CY		03	4105			0		63	Asia/Nicosia	2021-01-09
+10346895	Ormídeia	Ormideia	4106,Ormideia,Ormídeia,Ορμίδεια	34.99131	33.7815	A	ADM2	CY		03	4106			0		18	Asia/Nicosia	2021-01-09
+10346896	Xylofágou	Xylofagou	4107,Xylofagou,Xylofágou,Ξυλοφάγου	34.97593	33.84844	A	ADM2	CY		03	4107			0		51	Asia/Nicosia	2021-01-09
+10346897	Pérgamos	Pergamos	4108,Pergamos,Pérgamos,Πέργαμος	35.04469	33.69527	A	ADM2	CY		03	4108			0		122	Asia/Nicosia	2023-11-20
+10346898	Kíti	Kiti	4110,Kiti,Kíti,Κίτι	34.84689	33.57481	A	ADM2	CY		03	4110			0		25	Asia/Nicosia	2021-01-09
+10346899	Tersefánou	Tersefanou	4112,Tersefanou,Tersefánou,Τερσεφάνου	34.85937	33.54592	A	ADM2	CY		03	4112			0		67	Asia/Nicosia	2021-01-09
+10346900	Softádes	Softades	4113,Softades,Softádes,Σοφτάδες	34.82277	33.54253	A	ADM2	CY		03	4113			0		7	Asia/Nicosia	2021-01-09
+10346901	Mazotós	Mazotos	4120,Mazotos,Mazotós,Μαζωτός	34.79861	33.49354	A	ADM2	CY		03	4120			0		16	Asia/Nicosia	2021-01-09
+10346902	Alaminós	Alaminos	4121,Alaminos,Alaminós,Αλαμινός	34.80043	33.44563	A	ADM2	CY		03	4121			0		46	Asia/Nicosia	2021-01-09
+10346903	Anafotída	Anafotida	4122,Anafotida,Anafotída,Αναφωτίδα	34.81414	33.46174	A	ADM2	CY		03	4122			0		55	Asia/Nicosia	2021-01-09
+10346904	Kórnos	Kornos	4215,Kornos,Kórnos,Κόρνος	34.9052	33.3872	A	ADM2	CY		03	4215			0		367	Asia/Nicosia	2021-01-09
+10346905	Aplánta	Aplanta	4123,Aplanta,Aplánta,Απλάντα	34.82859	33.48075	A	ADM2	CY		03	4123			0		130	Asia/Nicosia	2021-01-09
+10346907	Kivisíli	Kivisili	4124,Kivisili,Kivisíli,Κιβισίλι	34.82789	33.51285	A	ADM2	CY		03	4124			0		50	Asia/Nicosia	2021-01-09
+10346908	Alethrikó	Alethriko	4125,Alethriko,Alethrikó,Αλεθρικό	34.86445	33.49376	A	ADM2	CY		03	4125			0		126	Asia/Nicosia	2021-01-09
+10346909	Klavdiá	Klavdia	4126,Klavdia,Klavdiá,Κλαυδιά	34.89185	33.51507	A	ADM2	CY		03	4126			0		105	Asia/Nicosia	2021-01-09
+10346910	Anglisídes	Anglisides	4127,Anglisides,Anglisídes,Αγγλισίδες	34.85669	33.45983	A	ADM2	CY		03	4127			0		158	Asia/Nicosia	2021-01-09
+10346911	Menógeia	Menogeia	4128,Menogeia,Menógeia,Μενόγεια	34.84718	33.4342	A	ADM2	CY		03	4128			0		155	Asia/Nicosia	2021-01-09
+10346912	Petrofáni	Petrofani	4201,Petrofani,Petrofáni,Πετροφάνι	35.03681	33.50652	A	ADM2	CY		03	4201			0		185	Asia/Nicosia	2021-01-09
+10346913	Athiénou	Athienou	4202,Athienou,Athiénou,Αθιένου	35.05949	33.54254	A	ADM2	CY		03	4202			0		151	Asia/Nicosia	2021-01-09
+10346914	Meloúseia	Melouseia	4203,Melouseia,Meloúseia,Μελούσεια	35.07795	33.58668	A	ADM2	CY		03	4203			0		125	Asia/Nicosia	2021-01-09
+10346915	Tremetousiá	Tremetousia	4204,Tremetousia,Tremetousiá,Τρεμετουσιά	35.08398	33.60575	A	ADM2	CY		03	4204			0		104	Asia/Nicosia	2021-01-09
+10346916	Ársos	Arsos	4205,Arsos,Ársos,Άρσος	35.07747	33.6347	A	ADM2	CY		03	4205			0		140	Asia/Nicosia	2021-01-09
+10346917	Agía Ánna	Agia Anna	4211,Agia Anna,Agía Ánna,Αγία Άννα	34.93872	33.48995	A	ADM2	CY		03	4211			0		137	Asia/Nicosia	2021-01-09
+10346918	Mosfilotí	Mosfiloti	4212,Mosfiloti,Mosfilotí,Μοσφιλωτή	34.95255	33.43076	A	ADM2	CY		03	4212			0		250	Asia/Nicosia	2021-01-09
+10346919	Psevdás	Psevdas	4213,Psevdas,Psevdás,Ψευδάς	34.95363	33.46956	A	ADM2	CY		03	4213			0		177	Asia/Nicosia	2021-01-09
+10346920	Delíkipos	Delikipos	4216,Delikipos,Delíkipos,Δελίκηπος	34.92443	33.3391	A	ADM2	CY		03	4216			0		320	Asia/Nicosia	2021-01-09
+10346921	Kóchi	Kochi	4217,Kochi,Kóchi,Κόχη	34.97312	33.51616	A	ADM2	CY		03	4217			0		180	Asia/Nicosia	2021-01-09
+10346922	Zýgi	Zygi	4300,Zygi,Zýgi,Ζύγι	34.73315	33.33831	A	ADM2	CY		03	4300			0		16	Asia/Nicosia	2021-01-09
+10346923	Marí	Mari	4301,Mari,Marí,Μαρί	34.73406	33.29112	A	ADM2	CY		03	4301			0		36	Asia/Nicosia	2021-01-09
+10346924	Kalavasós	Kalavasos	4302,Kalavasos,Kalavasós,Καλαβασός	34.76709	33.2927	A	ADM2	CY		03	4302			0		130	Asia/Nicosia	2021-01-09
+10346925	Tóchni	Tochni	4303,Tochni,Tóchni,Τόχνη	34.76926	33.31957	A	ADM2	CY		03	4303			0		119	Asia/Nicosia	2021-01-09
+10346926	Choirokoitía	Choirokoitia	4304,Choirokoitia,Choirokoitía,Χοιροκοιτία	34.79891	33.33893	A	ADM2	CY		03	4304			0		192	Asia/Nicosia	2021-01-09
+10346927	Psematisménos	Psematismenos	4305,Psematismenos,Psematisménos,Ψεματισμένος	34.76378	33.3426	A	ADM2	CY		03	4305			0		95	Asia/Nicosia	2021-01-09
+10346928	Maróni	Maroni	4306,Maroni,Maróni,Μαρώνι	34.7531	33.36701	A	ADM2	CY		03	4306			0		65	Asia/Nicosia	2021-01-09
+10346929	Skarínou	Skarinou	4308,Skarinou,Skarínou,Σκαρίνου	34.82073	33.35391	A	ADM2	CY		03	4308			0		178	Asia/Nicosia	2021-01-09
+10346930	Kofínou	Kofinou	4309,Kofinou,Kofínou,Κοφίνου	34.83855	33.40004	A	ADM2	CY		03	4309			0		157	Asia/Nicosia	2021-01-09
+10346931	Káto Léfkara	Kato Lefkara	4310,Kato Lefkara,Káto Léfkara,Κάτω Λεύκαρα	34.87001	33.34814	A	ADM2	CY		03	4310			0		248	Asia/Nicosia	2021-01-09
+10346932	Páno Léfkara	Pano Lefkara	4311,Pano Lefkara,Páno Léfkara,Πάνω Λεύκαρα	34.86372	33.30568	A	ADM2	CY		03	4311			0		620	Asia/Nicosia	2021-01-09
+10346933	Káto Drys	Kato Drys	4312,Kato Drys,Káto Drys,Κάτω Δρυς	34.84013	33.29834	A	ADM2	CY		03	4312			0		399	Asia/Nicosia	2021-01-09
+10346934	Vávla	Vavla	4313,Vavla,Vávla,Βάβλα	34.83698	33.2737	A	ADM2	CY		03	4313			0		496	Asia/Nicosia	2021-01-09
+10346935	Lágeia	Lageia	4314,Lageia,Lágeia,Λάγεια	34.8417	33.24224	A	ADM2	CY		03	4314			0		350	Asia/Nicosia	2021-01-09
+10346936	Orá	Ora	4315,Ora,Orá,Ορά	34.86057	33.2024	A	ADM2	CY		03	4315			0		549	Asia/Nicosia	2021-01-09
+10346937	Melíni	Melini	4316,Melini,Melíni,Μελίνη	34.86601	33.15223	A	ADM2	CY		03	4316			0		584	Asia/Nicosia	2021-01-09
+10346938	Odoú	Odou	4317,Odou,Odoú,Οδού	34.89111	33.15767	A	ADM2	CY		03	4317			0		997	Asia/Nicosia	2021-01-09
+10346939	Ágioi Vavatsiniás	Agioi Vavatsinias	4318,Agioi Vavatsinias,Ágioi Vavatsiniás,Άγιοι Βαβατσινιάς	34.88901	33.19175	A	ADM2	CY		03	4318			0		1020	Asia/Nicosia	2021-01-09
+10346940	Vavatsiniá	Vavatsinia	4319,Vavatsinia,Vavatsiniá,Βαβατσινιά	34.88901	33.23316	A	ADM2	CY		03	4319			0		855	Asia/Nicosia	2021-01-09
+10346941	Lemesós	Lemesos	5000,Dimos Lemesou,Lemesos,Lemesós,Limassol Municipality,Δήμος Λεμεσού,Λεμεσός	34.69218	33.02854	A	ADM2	CY		05	5000			0		43	Asia/Nicosia	2021-01-09
+10346942	Mésa Geitoniá	Mesa Geitonia	5011,Mesa Geitonia,Mésa Geitoniá,Μέσα Γειτονιά	34.70057	33.04374	A	ADM2	CY		05	5011			0		68	Asia/Nicosia	2021-01-09
+10346943	Ágios Athanásios	Agios Athanasios	5012,Agios Athanasios,Ágios Athanásios,Άγιος Αθανάσιος	34.72207	33.05528	A	ADM2	CY		05	5012			0		170	Asia/Nicosia	2021-01-09
+10346944	Germasógeia	Germasogeia	5013,Germasogeia,Germasógeia,Yermasoyia,Yermasoyia Municipality,Γερμασόγεια	34.72207	33.08254	A	ADM2	CY		05	5013			0		58	Asia/Nicosia	2021-01-09
+10346945	Páno Polemídia	Pano Polemidia	5020,Pano Polemidia,Páno Polemídia,Πάνω Πολεμίδια	34.71106	32.99184	A	ADM2	CY		05	5020			0		139	Asia/Nicosia	2021-01-09
+10346946	Ýpsonas	Ypsonas	5021,Ypsonas,Ýpsonas,Ύψωνας	34.70424	32.9499	A	ADM2	CY		05	5021			0		165	Asia/Nicosia	2021-01-09
+10346947	Káto Polemídia	Kato Polemidia	5022,Kato Polemidia,Káto Polemídia,Κάτω Πολεμίδια	34.70319	32.97769	A	ADM2	CY		05	5022			0		115	Asia/Nicosia	2021-01-09
+10346948	Palódeia	Palodeia	5100,Palodeia,Palódeia,Παλόδεια	34.74408	32.98922	A	ADM2	CY		05	5100			0		228	Asia/Nicosia	2021-01-09
+10346949	Paramýtha	Paramytha	5101,Paramytha,Paramýtha,Παραμύθα	34.75614	32.97245	A	ADM2	CY		05	5101			0		204	Asia/Nicosia	2021-01-09
+10346950	Spitáli	Spitali	5102,Spitali,Spitáli,Σπιτάλι	34.76505	33.00809	A	ADM2	CY		05	5102			0		310	Asia/Nicosia	2021-01-09
+10346951	Fasoúla	Fasoula	5103,Fasoula,Fasoúla,Φασούλα	34.75719	33.02959	A	ADM2	CY		05	5103			0		366	Asia/Nicosia	2021-01-09
+10346952	Mathikolóni	Mathikoloni	5104,Mathikoloni,Mathikolóni,Μαθικολώνη	34.78235	33.06052	A	ADM2	CY		05	5104			0		210	Asia/Nicosia	2021-01-09
+10346953	Gerása	Gerasa	5105,Gerasa,Gerása,Γεράσα	34.81014	32.99551	A	ADM2	CY		05	5105			0		536	Asia/Nicosia	2021-01-09
+10346954	Apsioú	Apsiou	5106,Apsiou,Apsioú,Αψιού	34.8007	33.03011	A	ADM2	CY		05	5106			0		597	Asia/Nicosia	2021-01-09
+10346955	Apesiá	Apesia	5107,Apesia,Apesiá,Απεσιά	34.78288	32.97612	A	ADM2	CY		05	5107			0		437	Asia/Nicosia	2021-01-09
+10346956	Korfí	Korfi	5108,Korfi,Korfí,Κορφή	34.79232	32.95934	A	ADM2	CY		05	5108			0		531	Asia/Nicosia	2021-01-09
+10346957	Limnátis	Limnatis	5109,Limnatis,Limnátis,Λιμνάτης	34.79756	32.94519	A	ADM2	CY		05	5109			0		391	Asia/Nicosia	2021-01-09
+10346958	Kapileió	Kapileio	5110,Kapileio,Kapileió,Καπηλειό	34.83111	32.96563	A	ADM2	CY		05	5110			0		456	Asia/Nicosia	2021-01-09
+10346959	Mouttagiáka	Mouttagiaka	5120,Mouttagiaka,Mouttagiáka,Μουτταγιάκα	34.72207	33.10508	A	ADM2	CY		05	5120			0		71	Asia/Nicosia	2021-01-09
+10346960	Armenochóri	Armenochori	5121,Armenochori,Armenochóri,Αρμενοχώρι	34.75195	33.12448	A	ADM2	CY		05	5121			0		234	Asia/Nicosia	2021-01-09
+10346961	Foinikária	Foinikaria	5122,Foinikaria,Foinikária,Φοινικάρια	34.76034	33.10613	A	ADM2	CY		05	5122			0		164	Asia/Nicosia	2021-01-09
+10346962	Akroúnta	Akrounta	5123,Akrounta,Akroúnta,Ακρούντα	34.76977	33.08411	A	ADM2	CY		05	5123			0		236	Asia/Nicosia	2021-01-09
+10346963	Ágios Týchon	Agios Tychon	5124,Agios Tychon,Ágios Týchon,Άγιος Τύχων	34.72154	33.13391	A	ADM2	CY		05	5124			0		69	Asia/Nicosia	2021-01-09
+10346964	Parekklisiá	Parekklisia	5125,Parekklisia,Parekklisiá,Παρεκκλησιά	34.75771	33.15436	A	ADM2	CY		05	5125			0		168	Asia/Nicosia	2021-01-09
+10346965	Pentákomo	Pentakomo	5126,Pentakomo,Pentákomo,Πεντάκωμο	34.7315	33.2503	A	ADM2	CY		05	5126			0		108	Asia/Nicosia	2021-01-09
+10346966	Monagroúlli	Monagroulli	5127,Monagroulli,Monagroúlli,Μοναγρούλλι	34.74723	33.2157	A	ADM2	CY		05	5127			0		83	Asia/Nicosia	2021-01-09
+10346967	Asgáta	Asgata	5130,Asgata,Asgáta,Ασγάτα	34.77711	33.2503	A	ADM2	CY		05	5130			0		230	Asia/Nicosia	2021-01-09
+10346968	Vasa (Kellakiou)	Vasa (Kellakiou)	5131,Vasa,Vasa (Kellakiou),Vása,Βάσα	34.80332	33.22251	A	ADM2	CY		05	5131			0		341	Asia/Nicosia	2021-01-10
+10346969	Sanída	Sanida	5132,Sanida,Sanída,Σανίδα	34.8028	33.19053	A	ADM2	CY		05	5132			0		569	Asia/Nicosia	2021-01-09
+10346970	Klonári	Klonari	5134,Klonari,Klonári,Κλωνάρι	34.82901	33.17847	A	ADM2	CY		05	5134			0		483	Asia/Nicosia	2021-01-09
+10346971	Víkla	Vikla	5135,Vikla,Víkla,Βίκλα	34.82796	33.20102	A	ADM2	CY		05	5135			0		424	Asia/Nicosia	2021-01-09
+10346972	Kelláki	Kellaki	5136,Kellaki,Kelláki,Κελλάκι	34.81329	33.16065	A	ADM2	CY		05	5136			0		663	Asia/Nicosia	2021-01-09
+10346973	Akapnoú	Akapnou	5137,Akapnou,Akapnoú,Ακαπνού	34.84317	33.19892	A	ADM2	CY		05	5137			0		412	Asia/Nicosia	2021-01-09
+10346974	Eptagóneia	Eptagoneia	5138,Eptagoneia,Eptagóneia,Επταγώνεια	34.84474	33.14912	A	ADM2	CY		05	5138			0		507	Asia/Nicosia	2021-01-09
+10346975	Dieróna	Dierona	5140,Dierona,Dieróna,Διερώνα	34.81905	33.09774	A	ADM2	CY		05	5140			0		656	Asia/Nicosia	2021-01-09
+10346976	Arakapás	Arakapas	5141,Arakapas,Arakapás,Αρακαπάς	34.85208	33.1056	A	ADM2	CY		05	5141			0		536	Asia/Nicosia	2021-01-09
+10346977	Ágios Pávlos	Agios Pavlos	5142,Agios Pavlos,Ágios Pávlos,Άγιος Παύλος	34.87148	33.04899	A	ADM2	CY		05	5142			0		752	Asia/Nicosia	2021-01-09
+10346978	Ágios Konstantínos	Agios Konstantinos	5143,Agios Konstantinos,Ágios Konstantínos,Άγιος Κωνσταντίνος	34.87357	33.07467	A	ADM2	CY		05	5143			0		861	Asia/Nicosia	2021-01-09
+10346979	Sykópetra	Sykopetra	5144,Sykopetra,Sykópetra,Συκόπετρα	34.88196	33.1056	A	ADM2	CY		05	5144			0		870	Asia/Nicosia	2021-01-09
+10346980	Louvarás	Louvaras	5145,Louvaras,Louvarás,Λουβαράς	34.83111	33.04165	A	ADM2	CY		05	5145			0		772	Asia/Nicosia	2021-01-09
+10346981	Zoopigí	Zoopigi	5147,Zoopigi,Zoopigí,Ζωοπηγή	34.86623	33.00285	A	ADM2	CY		05	5147			0		852	Asia/Nicosia	2021-01-09
+10346982	Akrotíri	Akrotiri	5200,Akrotiri,Akrotíri,Ακρωτήρι	34.60044	32.96563	A	ADM2	CY		05	5200			0		1	Asia/Nicosia	2023-11-20
+10346983	Tserkézoi	Tserkezoi	5202,Tserkezoi,Tserkézoi,Τσερκέζοι	34.64867	32.99027	A	ADM2	CY		05	5202			0		5	Asia/Nicosia	2021-01-09
+10346984	Kolóssi	Kolossi	5210,Kolossi,Kolóssi,Κολόσσι	34.66807	32.93313	A	ADM2	CY		05	5210			0		59	Asia/Nicosia	2021-01-09
+10346985	Erími	Erimi	5211,Erimi,Erími,Ερήμη	34.69009	32.92002	A	ADM2	CY		05	5211			0		114	Asia/Nicosia	2021-01-09
+10346986	Episkopí	Episkopi	5212,Episkopi,Episkopí,Επισκοπή	34.67383	32.8828	A	ADM2	CY		05	5212			0		58	Asia/Nicosia	2021-01-09
+10346987	Kantoú	Kantou	5213,Kantou,Kantoú,Καντού	34.70057	32.90325	A	ADM2	CY		05	5213			0		144	Asia/Nicosia	2021-01-09
+10346988	Sotíra	Sotira	5214,Sotira,Sotíra,Σωτήρα	34.70319	32.84086	A	ADM2	CY		05	5214			0		308	Asia/Nicosia	2023-11-20
+10346989	Paramáli	Paramali	5221,Paramali,Paramáli,Παραμάλι	34.68694	32.79787	A	ADM2	CY		05	5221			0		70	Asia/Nicosia	2021-01-09
+10346990	Avdímou	Avdimou	5222,Avdimou,Avdímou,Αυδήμου	34.68484	32.76065	A	ADM2	CY		05	5222			0		66	Asia/Nicosia	2021-01-09
+10346991	Platanísteia	Platanisteia	5223,Platanisteia,Platanísteia,Πλατανίστεια	34.71001	32.71085	A	ADM2	CY		05	5223			0		349	Asia/Nicosia	2021-01-09
+10346992	Ágios Tomás	Agios Tomas	5224,Agios Thomas,Agios Tomas,Ágios Tomás,Άγιος Θωμάς	34.71158	32.73129	A	ADM2	CY		05	5224			0		259	Asia/Nicosia	2021-01-09
+10346993	Aléktora	Alektora	5225,Alektora,Aléktora,Αλέκτορα	34.70319	32.66891	A	ADM2	CY		05	5225			0		197	Asia/Nicosia	2021-01-09
+10346994	Anógyra	Anogyra	5226,Anogyra,Anógyra,Ανώγυρα	34.74041	32.73391	A	ADM2	CY		05	5226			0		471	Asia/Nicosia	2021-01-09
+10346995	Pissoúri	Pissouri	5227,Pissouri,Pissoúri,Πισσούρι	34.67016	32.70141	A	ADM2	CY		05	5227			0		235	Asia/Nicosia	2021-01-09
+10346996	Soúni-Zanakiá	Souni-Zanakia	5300,Souni-Zanakia,Soúni-Zanakiá,Σούνι-Ζανακιά	34.7357	32.88437	A	ADM2	CY		05	5300			0		419	Asia/Nicosia	2021-01-09
+10346997	Álassa	Alassa	5302,Alassa,Álassa,Άλασσα	34.75876	32.92369	A	ADM2	CY		05	5302			0		264	Asia/Nicosia	2021-01-09
+10346998	Káto Kivídes	Kato Kivides	5303,Kato Kivides,Káto Kivídes,Κάτω Κιβίδες	34.76558	32.87022	A	ADM2	CY		05	5303			0		390	Asia/Nicosia	2021-01-09
+10346999	Páno Kivídes	Pano Kivides	5304,Pano Kivides,Páno Kivídes,Πάνω Κιβίδες	34.7509	32.84191	A	ADM2	CY		05	5304			0		518	Asia/Nicosia	2021-01-09
+10347000	Ágios Therápon	Agios Therapon	5306,Agios Therapon,Ágios Therápon,Άγιος Θεράπων	34.78235	32.87441	A	ADM2	CY		05	5306			0		458	Asia/Nicosia	2021-01-09
+10347001	Lófou	Lofou	5307,Lofou,Lófou,Λόφου	34.80332	32.87913	A	ADM2	CY		05	5307			0		633	Asia/Nicosia	2021-01-09
+10347002	Páchna	Pachna	5308,Pachna,Páchna,Πάχνα	34.76925	32.78529	A	ADM2	CY		05	5308			0		667	Asia/Nicosia	2021-01-09
+10347003	Dorós	Doros	5311,Doros,Dorós,Δωρός	34.79756	32.92421	A	ADM2	CY		05	5311			0		589	Asia/Nicosia	2021-01-09
+10347004	Láneia	Laneia	5312,Laneia,Láneia,Λάνεια	34.83006	32.91845	A	ADM2	CY		05	5312			0		548	Asia/Nicosia	2021-01-09
+10347005	Silíkou	Silikou	5313,Silikou,Silíkou,Σιλίκου	34.83373	32.88594	A	ADM2	CY		05	5313			0		657	Asia/Nicosia	2021-01-09
+10347006	Monágri	Monagri	5314,Monagri,Monágri,Μονάγρι	34.79336	32.91321	A	ADM2	CY		05	5314			0		440	Asia/Nicosia	2021-01-09
+10347007	Trimíklini	Trimiklini	5315,Trimiklini,Trimíklini,Τριμήκληνη	34.85103	32.91268	A	ADM2	CY		05	5315			0		561	Asia/Nicosia	2021-01-09
+10347008	Ágios Mámas	Agios Mamas	5316,Agios Mamas,Ágios Mámas,Άγιος Μάμας	34.8526	32.94571	A	ADM2	CY		05	5316			0		566	Asia/Nicosia	2021-01-09
+10347009	Kouká	Kouka	5317,Kouka,Kouká,Κουκά	34.85522	32.89276	A	ADM2	CY		05	5317			0		668	Asia/Nicosia	2021-01-09
+10347010	Moniátis	Moniatis	5318,Moniatis,Moniátis,Μονιάτης	34.88301	32.90639	A	ADM2	CY		05	5318			0		858	Asia/Nicosia	2021-01-09
+10347011	Dorá	Dora	5320,Dora,Dorá,Δωρά	34.78131	32.73129	A	ADM2	CY		05	5320			0		573	Asia/Nicosia	2021-01-09
+10347012	Gerovása	Gerovasa	5321,Gerovasa,Gerovása,Γεροβάσα	34.81538	32.73549	A	ADM2	CY		05	5321			0		412	Asia/Nicosia	2021-01-09
+10347013	Ársos	Arsos	5322,Arsos,Ársos,Άρσος	34.84055	32.7638	A	ADM2	CY		05	5322			0		777	Asia/Nicosia	2021-01-09
+10347014	Kissoúsa	Kissousa	5323,Kissousa,Kissoúsa,Κισσούσα	34.80804	32.79682	A	ADM2	CY		05	5323			0		643	Asia/Nicosia	2021-01-09
+10347015	Maliá	Malia	5324,Malia,Maliá,Μαλιά	34.80647	32.76537	A	ADM2	CY		05	5324			0		682	Asia/Nicosia	2021-01-09
+10347016	Vasa (Koilaniou)	Vasa (Koilaniou)	5325,Vasa,Vasa (Koilaniou),Vása,Βάσα	34.8374	32.78686	A	ADM2	CY		05	5325			0		858	Asia/Nicosia	2021-01-10
+10347017	Vouní	Vouni	5326,Vouni,Vouní,Βουνί	34.81591	32.82723	A	ADM2	CY		05	5326			0		728	Asia/Nicosia	2021-01-09
+10347018	Péra Pedí	Pera Pedi	5327,Pera Pedi,Péra Pedí,Πέρα Πεδί	34.86466	32.87074	A	ADM2	CY		05	5327			0		831	Asia/Nicosia	2021-01-09
+10347019	Mandriá	Mandria	5328,Mandria,Mandriá,Μανδριά	34.86781	32.83667	A	ADM2	CY		05	5328			0		835	Asia/Nicosia	2021-01-09
+10347020	Potamioú	Potamiou	5329,Potamiou,Potamioú,Ποταμιού	34.82429	32.80574	A	ADM2	CY		05	5329			0		679	Asia/Nicosia	2021-01-09
+10347021	Ómodos	Omodos	5330,Omodos,Ómodos,Όμοδος	34.8526	32.80678	A	ADM2	CY		05	5330			0		853	Asia/Nicosia	2021-01-09
+10347022	Koiláni	Koilani	5331,Koilani,Koiláni,Κοιλάνι	34.84212	32.85449	A	ADM2	CY		05	5331			0		903	Asia/Nicosia	2021-01-09
+10347023	Ágios Dimítrios	Agios Dimitrios	5340,Agios Dimitrios,Ágios Dimítrios,Άγιος Δημήτριος	34.92023	32.8115	A	ADM2	CY		05	5340			0		990	Asia/Nicosia	2021-01-09
+10347024	Palaiómylos	Palaiomylos	5341,Palaiomylos,Palaiómylos,Παλαιόμυλος	34.92914	32.82566	A	ADM2	CY		05	5341			0		1202	Asia/Nicosia	2021-01-09
+10347025	Pródromos	Prodromos	5342,Prodromos,Pródromos,Πρόδρομος	34.9412	32.83929	A	ADM2	CY		05	5342			0		1359	Asia/Nicosia	2021-01-09
+10347026	Kaminária	Kaminaria	5343,Kaminaria,Kaminária,Καμινάρια	34.92285	32.78057	A	ADM2	CY		05	5343			0		763	Asia/Nicosia	2021-01-09
+10347027	Treis Eliés	Treis Elies	5344,Treis Elies,Treis Eliés,Τρεις Ελιές	34.93334	32.79525	A	ADM2	CY		05	5344			0		797	Asia/Nicosia	2021-01-09
+10347028	Lemíthou	Lemithou	5345,Lemithou,Lemíthou,Λεμίθου	34.95011	32.80678	A	ADM2	CY		05	5345			0		1036	Asia/Nicosia	2021-01-09
+10347029	Káto Plátres	Kato Platres	5350,Kato Platres,Káto Plátres,Κάτω Πλάτρες	34.88039	32.82828	A	ADM2	CY		05	5350			0		929	Asia/Nicosia	2021-01-09
+10347030	Páno Plátres	Pano Platres	Pano Platres,Páno Plátres,Πάνω Πλάτρες	34.91132	32.87913	A	ADM2	CY		05	5351			0		1693	Asia/Nicosia	2021-01-09
+10347031	Foiní	Foini	5352,Foini,Foiní,Φοινί	34.90398	32.82041	A	ADM2	CY		05	5352			0		1070	Asia/Nicosia	2021-01-09
+10347032	Amíantos	Amiantos	5355,Amiantos,Amíantos,Αμίαντος	34.92809	32.92421	A	ADM2	CY		05	5355			0		1271	Asia/Nicosia	2021-01-09
+10347033	Káto Mýlos	Kato Mylos	5362,Kato Mylos,Káto Mýlos,Κάτω Μύλος	34.89769	33.00233	A	ADM2	CY		05	5362			0		822	Asia/Nicosia	2021-01-09
+10347034	Potamítissa	Potamitissa	5363,Potamitissa,Potamítissa,Ποταμίτισσα	34.90398	32.98765	A	ADM2	CY		05	5363			0		845	Asia/Nicosia	2021-01-09
+10347035	Dýmes	Dymes	5364,Dymes,Dýmes,Δύμες	34.92757	32.96878	A	ADM2	CY		05	5364			0		1216	Asia/Nicosia	2021-01-09
+10347036	Peléndri	Pelendri	5365,Pelendri,Peléndri,Πελένδρι	34.89402	32.952	A	ADM2	CY		05	5365			0		1075	Asia/Nicosia	2021-01-09
+10347037	Agrós	Agros	5366,Agros,Agrós,Αγρός	34.91866	33.01858	A	ADM2	CY		05	5366			0		1020	Asia/Nicosia	2021-01-09
+10347038	Agrídia	Agridia	5367,Agridia,Agrídia,Αγρίδια	34.93124	32.99446	A	ADM2	CY		05	5367			0		1127	Asia/Nicosia	2021-01-09
+10347039	Chandriá	Chandria	5368,Chandria,Chandriá,Χανδριά	34.94697	32.99132	A	ADM2	CY		05	5368			0		1250	Asia/Nicosia	2021-01-09
+10347040	Kyperoúnta	Kyperounta	5369,Kyperounta,Kyperoúnta,Κυπερούντα	34.94539	32.96406	A	ADM2	CY		05	5369			0		1284	Asia/Nicosia	2021-01-09
+10347041	Páfos	Pafos	6000,Pafos,Páfos,Πάφος	34.77659	32.42828	A	ADM2	CY		06	6000			0		87	Asia/Nicosia	2021-01-09
+10347042	Geroskípou Municipality	Geroskipou Municipality	6010,Dimos Geroskipou,Geroskipou,Geroskipou Municipality,Geroskípou,Γεροσκήπου,Δήμος Γεροσκήπου	34.76091	32.44844	A	ADM2	CY		06	6010			0		73	Asia/Nicosia	2021-01-09
+10347043	Koniá	Konia	6011,Konia,Koniá,Κονιά	34.78078	32.4634	A	ADM2	CY		06	6011			0		200	Asia/Nicosia	2021-01-09
+10347044	Agía Marinoúda	Agia Marinouda	6012,Agia Marinouda,Agía Marinoúda,Αγία Μαρινούδα	34.76243	32.47913	A	ADM2	CY		06	6012			0		161	Asia/Nicosia	2021-01-09
+10347045	Achéleia	Acheleia	6014,Acheleia,Achéleia,Αχέλεια	34.73045	32.4807	A	ADM2	CY		06	6014			0		25	Asia/Nicosia	2021-01-09
+10347046	Chlórakas	Chlorakas	6020,Chlorakas,Chlórakas,Χλώρακας	34.79808	32.40574	A	ADM2	CY		06	6020			0		57	Asia/Nicosia	2021-01-09
+10347047	Lémpa	Lempa	6021,Lempa,Lémpa,Λέμπα	34.81276	32.40678	A	ADM2	CY		06	6021			0		69	Asia/Nicosia	2021-01-09
+10347048	Émpa	Empa	6022,Empa,Émpa,Έμπα	34.80758	32.42416	A	ADM2	CY		06	6022			0		139	Asia/Nicosia	2021-01-09
+10347049	Tremithoúsa	Tremithousa	6023,Tremithousa,Tremithoúsa,Τρεμιθούσα	34.82115	32.44505	A	ADM2	CY		06	6023			0		294	Asia/Nicosia	2021-01-09
+10347050	Mésa Chorió	Mesa Chorio	6024,Mesa Chorio,Mésa Chorió,Μέσα Χωριό	34.81014	32.46865	A	ADM2	CY		06	6024			0	371	364	Asia/Nicosia	2021-01-09
+10347051	Mesógi	Mesogi	6025,Mesogi,Mesógi,Μεσόγη	34.818	32.45869	A	ADM2	CY		06	6025			0		329	Asia/Nicosia	2021-01-09
+10347052	Tála	Tala	6026,Tala,Tála,Τάλα	34.84324	32.43807	A	ADM2	CY		06	6026			0		377	Asia/Nicosia	2021-01-09
+10347053	Kissónerga	Kissonerga	6027,Kissonerga,Kissónerga,Κισσόνεργα	34.83425	32.40102	A	ADM2	CY		06	6027			0		95	Asia/Nicosia	2021-01-09
+10347054	Koúklia	Kouklia	6100,Kouklia,Koúklia,Κούκλια	34.69743	32.606	A	ADM2	CY		06	6100			0		73	Asia/Nicosia	2021-01-09
+10347055	Mandriá	Mandria	6101,Mandria,Mandriá,Μανδριά	34.71211	32.53732	A	ADM2	CY		06	6101			0		17	Asia/Nicosia	2021-01-09
+10347056	Nikókleia	Nikokleia	6102,Nikokleia,Nikókleia,Νικόκλεια	34.72993	32.57245	A	ADM2	CY		06	6102			0		134	Asia/Nicosia	2021-01-09
+10347057	Souskioú	Souskiou	6103,Souskiou,Souskioú,Σουσκιού	34.7357	32.606	A	ADM2	CY		06	6103			0		112	Asia/Nicosia	2021-01-09
+10347058	Tími	Timi	6104,Timi,Tími,Τίμη	34.72521	32.50849	A	ADM2	CY		06	6104			0		30	Asia/Nicosia	2021-01-09
+10347059	Anaríta	Anarita	6107,Anarita,Anaríta,Αναρίτα	34.74566	32.54099	A	ADM2	CY		06	6107			0		142	Asia/Nicosia	2021-01-09
+10347060	Foínikas	Foinikas	6108,Foinikas,Foínikas,Φοίνικας	34.74618	32.56983	A	ADM2	CY		06	6108			0		97	Asia/Nicosia	2021-01-09
+10347061	Marathoúnta	Marathounta	6110,Marathounta,Marathoúnta,Μαραθούντα	34.77921	32.49695	A	ADM2	CY		06	6110			0		266	Asia/Nicosia	2021-01-09
+10347062	Ármou	Armou	6111,Armou,Ármou,Άρμου	34.80018	32.48228	A	ADM2	CY		06	6111			0		394	Asia/Nicosia	2021-01-09
+10347064	Episkopí	Episkopi	6112,Episkopi,Episkopí,Επισκοπή	34.79336	32.53051	A	ADM2	CY		06	6112			0		131	Asia/Nicosia	2021-01-09
+10347065	Natá	Nata	6113,Nata,Natá,Νατά	34.77764	32.56458	A	ADM2	CY		06	6113			0		207	Asia/Nicosia	2021-01-09
+10347066	Cholétria	Choletria	6114,Choletria,Cholétria,Χολέτρια	34.76872	32.59237	A	ADM2	CY		06	6114			0		246	Asia/Nicosia	2021-01-09
+10347067	Axýlou	Axylou	6115,Axylou,Axýlou,Αξύλου	34.80699	32.55567	A	ADM2	CY		06	6115			0		454	Asia/Nicosia	2021-01-09
+10347068	Eledió	Eledio	6116,Eledio,Eledió,Ελεδιό	34.81538	32.56616	A	ADM2	CY		06	6116			0		351	Asia/Nicosia	2021-01-09
+10347069	Tsáda	Tsada	6120,Tsada,Tsáda,Τσάδα	34.83216	32.48437	A	ADM2	CY		06	6120			0	592	606	Asia/Nicosia	2021-01-09
+10347070	Koíli	Koili	6121,Koili,Koíli,Κοίλη	34.86623	32.44872	A	ADM2	CY		06	6121			0	492	486	Asia/Nicosia	2021-01-09
+10347071	Stroumpí	Stroumpi	6122,Stroumpi,Stroumpí,Στρουμπί	34.8914	32.47861	A	ADM2	CY		06	6122			0		500	Asia/Nicosia	2021-01-09
+10347072	Polémi	Polemi	6123,Polemi,Polémi,Πολέμι	34.88458	32.51268	A	ADM2	CY		06	6123			0		477	Asia/Nicosia	2021-01-09
+10347073	Kallépeia	Kallepeia	6124,Kallepeia,Kallépeia,Καλλέπεια	34.8395	32.50744	A	ADM2	CY		06	6124			0		445	Asia/Nicosia	2021-01-09
+10347074	Letýmvou	Letymvou	6125,Letymvou,Letýmvou,Λετύμβου	34.85418	32.52264	A	ADM2	CY		06	6125			0		386	Asia/Nicosia	2021-01-09
+10347075	Pitargoú	Pitargou	6126,Pitargou,Pitargoú,Πιταργού	34.83373	32.54361	A	ADM2	CY		06	6126			0		246	Asia/Nicosia	2021-01-09
+10347076	Koúrdaka	Kourdaka	6127,Kourdaka,Koúrdaka,Κούρδακα	34.86099	32.53837	A	ADM2	CY		06	6127			0		254	Asia/Nicosia	2021-01-09
+10347077	Lemóna	Lemona	6128,Lemona,Lemóna,Λεμώνα	34.85313	32.56301	A	ADM2	CY		06	6128			0		297	Asia/Nicosia	2021-01-09
+10347078	Choúlou	Choulou	6129,Choulou,Choúlou,Χούλου	34.87882	32.55829	A	ADM2	CY		06	6129			0		348	Asia/Nicosia	2021-01-09
+10347079	Akoursós	Akoursos	6130,Akoursos,Akoursós,Ακουρσός	34.88301	32.42513	A	ADM2	CY		06	6130			0		525	Asia/Nicosia	2021-01-09
+10347080	Káthikas	Kathikas	6132,Kathikas,Káthikas,Κάθικας	34.90975	32.41255	A	ADM2	CY		06	6132			0		583	Asia/Nicosia	2021-01-09
+10347081	Pégeia	Pegeia	6133,Pegeia,Pégeia,Πέγεια	34.87829	32.36432	A	ADM2	CY		06	6133			0		100	Asia/Nicosia	2021-01-09
+10347082	Páno Archimandríta	Pano Archimandrita	6200,Pano Archimandrita,Páno Archimandríta,Πάνω Αρχιμανδρίτα	34.74041	32.66681	A	ADM2	CY		06	6200			0		325	Asia/Nicosia	2021-01-09
+10347083	Fasoúla	Fasoula	6201,Fasoula,Fasoúla,Φασούλα	34.74985	32.63483	A	ADM2	CY		06	6201			0		315	Asia/Nicosia	2021-01-09
+10347084	Moúsere	Mousere	6202,Mousere,Moúsere,Μούσερε	34.76505	32.70823	A	ADM2	CY		06	6202			0		618	Asia/Nicosia	2021-01-09
+10347085	Máronas	Maronas	6203,Maronas,Máronas,Μάρωνας	34.7703	32.66786	A	ADM2	CY		06	6203			0		351	Asia/Nicosia	2021-01-09
+10347086	Mamónia	Mamonia	6204,Mamonia,Mamónia,Μαμώνια	34.7682	32.62697	A	ADM2	CY		06	6204			0		252	Asia/Nicosia	2021-01-09
+10347087	Stavrokónnou	Stavrokonnou	6206,Stavrokonnou,Stavrokónnou,Σταυροκόννου	34.78812	32.61596	A	ADM2	CY		06	6206			0		326	Asia/Nicosia	2021-01-09
+10347088	Trachypédoula	Trachypedoula	6208,Trachypedoula,Trachypédoula,Τραχυπέδουλα	34.79808	32.6773	A	ADM2	CY		06	6208			0		464	Asia/Nicosia	2021-01-09
+10347089	Kelokédara	Kelokedara	6210,Kelokedara,Kelokédara,Κελοκέδαρα	34.81276	32.64427	A	ADM2	CY		06	6210			0		409	Asia/Nicosia	2021-01-09
+10347090	Salamioú	Salamiou	6211,Salamiou,Salamioú,Σαλαμιού	34.83425	32.68044	A	ADM2	CY		06	6211			0		580	Asia/Nicosia	2021-01-09
+10347091	Kidási	Kidasi	6212,Kidasi,Kidási,Κιδάσι	34.81433	32.7098	A	ADM2	CY		06	6212			0		374	Asia/Nicosia	2021-01-09
+10347092	Kédares	Kedares	6213,Kedares,Kédares,Κέδαρες	34.83163	32.72762	A	ADM2	CY		06	6213			0		432	Asia/Nicosia	2021-01-09
+10347093	Mésana	Mesana	6214,Mesana,Mésana,Μέσανα	34.84684	32.7119	A	ADM2	CY		06	6214			0		521	Asia/Nicosia	2021-01-09
+10347094	Praitóri	Praitori	6215,Praitori,Praitóri,Πραιτώρι	34.84526	32.74545	A	ADM2	CY		06	6215			0		672	Asia/Nicosia	2021-01-09
+10347095	Filousa (Kelokedaron)	Filousa (Kelokedaron)	6216,Filousa,Filousa (Kelokedaron),Filoúsa,Φιλούσα	34.85522	32.73601	A	ADM2	CY		06	6216			0		528	Asia/Nicosia	2021-01-10
+10347096	Armínou	Arminou	6217,Arminou,Armínou,Αρμίνου	34.8699	32.72081	A	ADM2	CY		06	6217			0		591	Asia/Nicosia	2021-01-09
+10347097	Amargéti	Amargeti	6220,Amargeti,Amargéti,Αμαργέτη	34.81905	32.58398	A	ADM2	CY		06	6220			0		401	Asia/Nicosia	2021-01-09
+10347098	Pentaliá	Pentalia	6222,Pentalia,Pentaliá,Πενταλιά	34.85365	32.62015	A	ADM2	CY		06	6222			0		658	Asia/Nicosia	2021-01-09
+10347099	Fáleia	Faleia	6223,Faleia,Fáleia,Φάλεια	34.85837	32.58713	A	ADM2	CY		06	6223			0		552	Asia/Nicosia	2021-01-09
+10347100	Galatariá	Galataria	6224,Galataria,Galatariá,Γαλαταριά	34.86676	32.64217	A	ADM2	CY		06	6224			0		461	Asia/Nicosia	2021-01-09
+10347101	Koilíneia	Koilineia	6225,Koilineia,Koilíneia,Κοιλίνεια	34.88196	32.64794	A	ADM2	CY		06	6225			0		529	Asia/Nicosia	2021-01-09
+10347102	Vrétsia	Vretsia	6226,Vretsia,Vrétsia,Βρέτσια	34.89454	32.66419	A	ADM2	CY		06	6226			0		466	Asia/Nicosia	2021-01-09
+10347103	Statós-Ágios Fótios	Statos-Agios Fotios	6227,Statos-Agios Fotios,Statós-Ágios Fótios,Στατός-Άγιος Φώτιος	34.88249	32.60338	A	ADM2	CY		06	6227			0		646	Asia/Nicosia	2021-01-09
+10347104	Lapithioú	Lapithiou	6228,Lapithiou,Lapithioú,Λαπηθιού	34.9045	32.59289	A	ADM2	CY		06	6228			0		477	Asia/Nicosia	2021-01-09
+10347105	Mamoúntali	Mamountali	6229,Mamountali,Mamoúntali,Μαμούνταλη	34.91394	32.6039	A	ADM2	CY		06	6229			0		492	Asia/Nicosia	2021-01-09
+10347106	Páno Panagiá	Pano Panagia	6230,Pano Panagia,Páno Panagiá,Πάνω Παναγιά	34.95169	32.64479	A	ADM2	CY		06	6230			0		879	Asia/Nicosia	2021-01-09
+10347107	Asprogiá	Asprogia	6231,Asprogia,Asprogiá,Ασπρογιά	34.93229	32.60285	A	ADM2	CY		06	6231			0		525	Asia/Nicosia	2021-01-09
+10347108	Psathí	Psathi	6300,Psathi,Psathí,Ψαθί	34.89349	32.53418	A	ADM2	CY		06	6300			0		365	Asia/Nicosia	2021-01-09
+10347109	Ágios Dimitrianós	Agios Dimitrianos	6301,Agios Dimitrianos,Ágios Dimitrianós,Άγιος Δημητριανός	34.90241	32.55095	A	ADM2	CY		06	6301			0		529	Asia/Nicosia	2021-01-09
+10347110	Kannavioú-Melamioú	Kannaviou-Melamiou	6302,Kannaviou-Melamiou,Kannavioú-Melamioú,Κανναβιού-Μελαμιού	34.90765	32.5735	A	ADM2	CY		06	6302			0		339	Asia/Nicosia	2021-01-09
+10347111	Thriniá	Thrinia	6303,Thrinia,Thriniá,Θρινιά	34.91132	32.52107	A	ADM2	CY		06	6303			0		463	Asia/Nicosia	2021-01-09
+10347112	Krítou Maróttou	Kritou Marottou	6305,Kritou Marottou,Krítou Maróttou,Κρίτου Μαρόττου	34.94487	32.58136	A	ADM2	CY		06	6305			0		473	Asia/Nicosia	2021-01-09
+10347113	Fýti	Fyti	6306,Fyti,Fýti,Φύτη	34.93281	32.54414	A	ADM2	CY		06	6306			0		662	Asia/Nicosia	2021-01-09
+10347114	Lása	Lasa	6307,Lasa,Lása,Λάσα	34.93753	32.52526	A	ADM2	CY		06	6307			0		382	Asia/Nicosia	2021-01-09
+10347115	Drýmou	Drymou	6308,Drymou,Drýmou,Δρύμου	34.92442	32.50534	A	ADM2	CY		06	6308			0		394	Asia/Nicosia	2021-01-09
+10347116	Símou	Simou	6310,Simou,Símou,Σίμου	34.94592	32.50167	A	ADM2	CY		06	6310			0		364	Asia/Nicosia	2021-01-09
+10347117	Anadioú	Anadiou	6311,Anadiou,Anadioú,Αναδιού	34.9564	32.55934	A	ADM2	CY		06	6311			0		348	Asia/Nicosia	2021-01-09
+10347118	Sárama	Sarama	6312,Sarama,Sárama,Σάραμα	34.96106	32.53765	A	ADM2	CY		06	6312			0		265	Asia/Nicosia	2021-01-09
+10347119	Evrétou	Evretou	6313,Evretou,Evrétou,Ευρέτου	34.96204	32.48359	A	ADM2	CY		06	6313			0		204	Asia/Nicosia	2021-01-09
+10347120	Trimithoúsa	Trimithousa	6314,Trimithousa,Trimithoúsa,Τριμιθούσα	34.97514	32.48463	A	ADM2	CY		06	6314			0		271	Asia/Nicosia	2021-01-09
+10347121	Filousa (Chrysoxous)	Filousa (Chrysoxous)	6315,Filousa,Filousa (Chrysoxous),Filoúsa,Φιλούσα	34.96885	32.50508	A	ADM2	CY		06	6315			0		387	Asia/Nicosia	2021-01-10
+10347122	Kiós	Kios	6316,Kios,Kiós,Κιός	34.97095	32.53182	A	ADM2	CY		06	6316			0		359	Asia/Nicosia	2021-01-09
+10347123	Zachariá	Zacharia	6317,Zacharia,Zachariá,Ζαχαριά	34.98353	32.55016	A	ADM2	CY		06	6317			0		427	Asia/Nicosia	2021-01-09
+10347124	Meládeia	Meladeia	6318,Meladeia,Meládeia,Μελάδεια	34.98668	32.50665	A	ADM2	CY		06	6318			0		561	Asia/Nicosia	2021-01-09
+10347125	Mélandra	Melandra	6319,Melandra,Mélandra,Μέλανδρα	34.98982	32.53811	A	ADM2	CY		06	6319			0		455	Asia/Nicosia	2021-01-09
+10347126	Lysós	Lysos	6320,Lysos,Lysós,Λυσός	35.01604	32.58214	A	ADM2	CY		06	6320			0		781	Asia/Nicosia	2021-01-09
+10347127	Thelétra	Theletra	6330,Theletra,Thelétra,Θελέτρα	34.91643	32.4558	A	ADM2	CY		06	6330			0		344	Asia/Nicosia	2021-01-09
+10347128	Giólou	Giolou	6331,Giolou,Giólou,Γιόλου	34.92954	32.47887	A	ADM2	CY		06	6331			0		206	Asia/Nicosia	2021-01-09
+10347129	Páno Akourdáleia	Pano Akourdaleia	6332,Pano Akourdaleia,Páno Akourdáleia,Πάνω Ακουρδάλεια	34.94317	32.44689	A	ADM2	CY		06	6332			0		437	Asia/Nicosia	2021-01-09
+10347130	Milioú	Miliou	6333,Miliou,Milioú,Μηλιού	34.94002	32.46104	A	ADM2	CY		06	6333			0		255	Asia/Nicosia	2021-01-09
+10347131	Káto Akourdáleia	Kato Akourdaleia	6334,Kato Akourdaleia,Káto Akourdáleia,Κάτω Ακουρδάλεια	34.96204	32.45632	A	ADM2	CY		06	6334			0		145	Asia/Nicosia	2021-01-09
+10347132	Téra	Tera	6335,Tera,Téra,Τέρα	34.97934	32.42697	A	ADM2	CY		06	6335			0		301	Asia/Nicosia	2021-01-09
+10347133	Krítou Téra	Kritou Tera	6336,Kritou Tera,Krítou Téra,Κρίτου Τέρα	34.95313	32.43326	A	ADM2	CY		06	6336			0		410	Asia/Nicosia	2021-01-09
+10347134	Skoúlli	Skoulli	6337,Skoulli,Skoúlli,Σκούλλη	34.97619	32.46104	A	ADM2	CY		06	6337			0		135	Asia/Nicosia	2021-01-09
+10347135	Chóli	Choli	Choli,Chóli,Χόλη	34.98353	32.4579	A	ADM2	CY		06	6338			0		129	Asia/Nicosia	2021-01-09
+10347136	Loukroúnou	Loukrounou	6339,Loukrounou,Loukroúnou,Λουκρούνου	34.95768	32.47241	A	ADM2	CY		06	6339			0		212	Asia/Nicosia	2021-01-09
+10347137	Karamoullídes	Karamoullides	6340,Karamoullides,Karamoullídes,Καραμουλλήδες	35.00014	32.44358	A	ADM2	CY		06	6340			0		72	Asia/Nicosia	2021-01-09
+10347138	Chrysochoú	Chrysochou	6341,Chrysochou,Chrysochoú,Χρυσοχού	35.00722	32.43624	A	ADM2	CY		06	6341			0		53	Asia/Nicosia	2021-01-09
+10347139	Pólis	Polis	6343,Polis,Pólis,Πόλις	35.03343	32.43021	A	ADM2	CY		06	6343			0		27	Asia/Nicosia	2021-01-09
+10347140	Néo Chorió	Neo Chorio	6344,Neo Chorio,Néo Chorió,Νέο Χωριό	35.04916	32.33768	A	ADM2	CY		06	6344			0		180	Asia/Nicosia	2021-01-09
+10347141	Goudí	Goudi	6345,Goudi,Goudí,Γουδί	34.99333	32.44672	A	ADM2	CY		06	6345			0		75	Asia/Nicosia	2021-01-09
+10347142	Káto Aródes	Kato Arodes	6350,Kato Arodes,Káto Aródes,Κάτω Αρόδες	34.93304	32.3749	A	ADM2	CY		06	6350			0		331	Asia/Nicosia	2021-01-09
+10347143	Páno Aródes	Pano Arodes	6351,Pano Arodes,Páno Aródes,Πάνω Αρόδες	34.92832	32.38958	A	ADM2	CY		06	6351			0		495	Asia/Nicosia	2021-01-09
+10347144	Íneia	Ineia	6352,Ineia,Íneia,Ίνεια	34.96397	32.34869	A	ADM2	CY		06	6352			0		255	Asia/Nicosia	2021-01-09
+10347145	Droúseia	Drouseia	6353,Drouseia,Droúseia,Δρούσεια	34.96289	32.39958	A	ADM2	CY		06	6353			0		659	Asia/Nicosia	2024-05-23
+10347146	Fásli	Fasli	6354,Fasli,Fásli,Φάσλι	34.98861	32.36599	A	ADM2	CY		06	6354			0		369	Asia/Nicosia	2021-01-09
+10347147	Androlíkou	Androlikou	6355,Androlikou,Androlíkou,Ανδρολίκου	35.00276	32.35184	A	ADM2	CY		06	6355			0		339	Asia/Nicosia	2021-01-09
+10347148	Pelathoúsa	Pelathousa	6360,Pelathousa,Pelathoúsa,Πελαθούσα	35.03055	32.47451	A	ADM2	CY		06	6360			0		224	Asia/Nicosia	2021-01-09
+10347149	Kynoúsa	Kynousa	6361,Kynousa,Kynoúsa,Κυνούσα	35.03527	32.51068	A	ADM2	CY		06	6361			0		407	Asia/Nicosia	2021-01-09
+10347150	Makoúnta	Makounta	6362,Makounta,Makoúnta,Μακούντα	35.04942	32.48552	A	ADM2	CY		06	6362			0		157	Asia/Nicosia	2021-01-09
+10347151	Argáka	Argaka	6363,Argaka,Argáka,Αργάκα	35.06777	32.50701	A	ADM2	CY		06	6363			0		197	Asia/Nicosia	2021-01-09
+10347152	Gialiá	Gialia	6364,Gialia,Gialiá,Γιαλιά	35.0835	32.54528	A	ADM2	CY		06	6364			0		331	Asia/Nicosia	2021-01-09
+10347153	Néa Dímmata	Nea Dimmata	6366,Nea Dimmata,Néa Dímmata,Νέα Δήμματα	35.13697	32.53952	A	ADM2	CY		06	6366			0		335	Asia/Nicosia	2021-01-09
+10347154	Pomós	Pomos	6367,Pomos,Pomós,Πομός	35.14746	32.56206	A	ADM2	CY		06	6367			0		373	Asia/Nicosia	2021-01-09
+10347155	Stení	Steni	6368,Steni,Stení,Στενή	34.99857	32.46769	A	ADM2	CY		06	6368			0		172	Asia/Nicosia	2021-01-09
+10347156	Ágios Isídoros	Agios Isidoros	6369,Agios Isidoros,Ágios Isídoros,Άγιος Ισίδωρος	35.00748	32.47556	A	ADM2	CY		06	6369			0		286	Asia/Nicosia	2021-01-09
+10347157	Livádi	Livadi	6370,Livadi,Livádi,Λιβάδι	35.09818	32.60295	A	ADM2	CY		06	6370			0		492	Asia/Nicosia	2021-01-09
+11920109	Nicosia Municipality	Nicosia Municipality	1000,Bardas Nicosia,Bwrdeistref Nicosia,Dimos Lefkosias,Lefkosa Belediyesi,Lefkoşa Belediyesi,Nicosia,Nicosia Municipality,Nicosia kommun,Nicosia kommune,Nicòsia,Nikasija,Nikosija,Nikozia,Nikózia,municipalite de Nicosie,municipalité de Nicosie,nyqwsyh,shhrdary nykwzya,Δήμος Λευκωσίας,Никосия,Нікасія,Нікосія,Նիկոսիա մունիցիպալիտետ,ניקוסיה,بلدیہ نکوسیا,شهرداری نیکوزیا	35.16944	33.36081	A	ADM2	CY		04	1000			0		153	Asia/Nicosia	2018-12-08
+12207060	Agia Varvara (Pafou)	Agia Varvara (Pafou)	6106	34.75719	32.50956	A	ADM2	CY		06	6106			0		70	Asia/Nicosia	2021-01-09
+12207061	Trachoni (Lemesou)	Trachoni (Lemesou)	5203	34.65649	32.95875	A	ADM2	CY		05	5203			0		12	Asia/Nicosia	2023-11-20
+12207062	Asomatos (Lemesou)	Asomatos (Lemesou)	5201	34.63069	32.97316	A	ADM2	CY		05	5201			0		1	Asia/Nicosia	2023-11-20
+12207063	Milia Pafou	Milia Pafou	6304	34.92087	32.54171	A	ADM2	CY		06	6304			0		661	Asia/Nicosia	2021-01-12
+12207064	Pyrga (Larnakas)	Pyrga (Larnakas)	4214	34.90132	33.44061	A	ADM2	CY		03	4214			0		246	Asia/Nicosia	2021-01-09
+12207065	Agia Marina (Chrysoxous)	Agia Marina (Chrysoxous)	6365	35.11758	32.5365	A	ADM2	CY		06	6365			0		125	Asia/Nicosia	2021-01-09
+12207066	Agios Theodoros (Lemesou)	Agios Theodoros (Lemesou)	5360	34.89231	33.04318	A	ADM2	CY		05	5360			0		1196	Asia/Nicosia	2021-01-09
+12207067	Agios Ioannis (Lemesou)	Agios Ioannis (Lemesou)	5361	34.89065	33.01318	A	ADM2	CY		05	5361			0		909	Asia/Nicosia	2021-01-09
+12207068	Prastio (Kellakiou)	Prastio (Kellakiou)	5133	34.80072	33.1348	A	ADM2	CY		05	5133			0		554	Asia/Nicosia	2021-01-09
+12207069	Pyrgos	Pyrgos	5129	34.73793	33.18277	A	ADM2	CY		05	5129			0		72	Asia/Nicosia	2021-01-09
+12207070	Perivolia (Larnakas)	Perivolia (Larnakas)	4111	34.83013	33.59005	A	ADM2	CY		03	4111			0		6	Asia/Nicosia	2021-01-09
+12207071	Agios Amvrosios (Lemesou)	Agios Amvrosios (Lemesou)	5305	34.75528	32.8167	A	ADM2	CY		05	5305			0		576	Asia/Nicosia	2021-01-09
+12207072	Agios Georgios (Lemesou)	Agios Georgios (Lemesou)	5310	34.79972	32.89804	A	ADM2	CY		05	5310			0		518	Asia/Nicosia	2021-01-09
+12207073	Prastio (Pafou)	Prastio (Pafou)	6207	34.78432	32.69486	A	ADM2	CY		06	6207			0		271	Asia/Nicosia	2021-01-09
+12207074	Peristerona (Pafou)	Peristerona (Pafou)	6321	34.99317	32.48759	A	ADM2	CY		06	6321			0		350	Asia/Nicosia	2021-01-09
+12207075	Agios Ioannis (Pafou)	Agios Ioannis (Pafou)	6219	34.87487	32.69067	A	ADM2	CY		06	6219			0		697	Asia/Nicosia	2021-01-09
+12207076	Agios Georgios (Pafou)	Agios Georgios (Pafou)	6205	34.78451	32.65314	A	ADM2	CY		06	6205			0		276	Asia/Nicosia	2021-01-09
+12207077	Agia Marina (Kelokedaron)	Agia Marina (Kelokedaron)	6221	34.82427	32.61604	A	ADM2	CY		06	6221			0		465	Asia/Nicosia	2021-01-09
+12207078	Kalo Chorio (Lemesou)	Kalo Chorio (Lemesou)	5146	34.84557	33.02746	A	ADM2	CY		05	5146			0		713	Asia/Nicosia	2021-01-09
+12207079	Agios Theodoros (Larnakas)	Agios Theodoros (Larnakas)	4307	34.78344	33.40841	A	ADM2	CY		03	4307			0		230	Asia/Nicosia	2021-01-09
+12207080	Livadia (Larnakas)	Livadia (Larnakas)	4011	34.95571	33.63414	A	ADM2	CY		03	4011			0		10	Asia/Nicosia	2021-01-09
+12207081	Prastio (Avdimou)	Prastio (Avdimou)	5220	34.72378	32.776	A	ADM2	CY		05	5220			0		332	Asia/Nicosia	2021-01-09
+12207082	Kalo Chorio (Larnakas)	Kalo Chorio (Larnakas)	4210	34.92352	33.53248	A	ADM2	CY		03	4210			0		78	Asia/Nicosia	2021-01-09
+12207083	Agios Nikolaos (Pafou)	Agios Nikolaos (Pafou)	6218	34.88581	32.75751	A	ADM2	CY		06	6218			0		507	Asia/Nicosia	2021-01-09
+12207084	Moni	Moni	5128	34.72747	33.20335	A	ADM2	CY		05	5128			0		46	Asia/Nicosia	2021-01-09
+12207085	Dromolaxia-Meneou	Dromolaxia-Meneou	4014	34.8765	33.59232	A	ADM2	CY		03	4014			0		24	Asia/Nicosia	2021-01-09
+12207087	Troodos	Troodos	5356	34.92461	32.87629	A	ADM2	CY		05	5356			0		1729	Asia/Nicosia	2021-01-10

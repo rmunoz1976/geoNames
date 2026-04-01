@@ -1,0 +1,15 @@
+﻿2197820	Cakaudrove Province	Cakaudrove Province	Cakaudrove,Cakaudrove Province,Thakaundrove Province	-16.66667	179.41667	A	ADM2	FJ		03	03			49344		493	Pacific/Fiji	2019-04-27
+2198131	Tailevu Province	Tailevu Province	Tailevu Province	-17.83333	178.5	A	ADM2	FJ		01	14			55692		82	Pacific/Fiji	2019-04-27
+2198411	Serua Province	Serua Province	Serua Province	-18.16667	178	A	ADM2	FJ		01	13			18249		173	Pacific/Fiji	2019-04-27
+2198876	Rewa Province	Rewa Province	Rewa Province	-18.08333	178.33333	A	ADM2	FJ		01	12			100787		326	Pacific/Fiji	2019-04-27
+2198946	Ra Province	Ra Province	Ra Province	-17.5	178.16667	A	ADM2	FJ		05	11			29464		89	Pacific/Fiji	2019-04-27
+2201984	Nandronga and Navosa Province	Nandronga and Navosa Province	Nadroga-Navosa,Nandronga and Navosa Province	-18	177.66667	A	ADM2	FJ		05	08			58387		203	Pacific/Fiji	2019-04-27
+2202182	Namosi Province	Namosi Province	Namosi Province,Nimosi District	-18.05	178.13333	A	ADM2	FJ		01	10			6898		327	Pacific/Fiji	2019-04-27
+2203150	Naitasiri Province	Naitasiri Province	Naitasiri Province	-17.83333	178.25	A	ADM2	FJ		01	09			160760		407	Pacific/Fiji	2019-04-27
+2203651	Bua Province	Bua Province	BVF,Bua Province	-16.83333	178.75	A	ADM2	FJ		03	02			14176		646	Pacific/Fiji	2019-04-27
+2203798	Ba Province	Ba Province	Ba,Mba Province	-17.66667	177.66667	A	ADM2	FJ		05	01			231760		307	Pacific/Fiji	2019-04-27
+2203875	Macuata Province	Macuata Province	Macuata,Macuata Province,Mathuata Province,Muthuata	-16.5	179.25	A	ADM2	FJ		03	07			72441		180	Pacific/Fiji	2019-04-27
+2204318	Lomaiviti Province	Lomaiviti Province	Lomaiviti Province	-17.66667	178.8	A	ADM2	FJ		02	06			16461		403	Pacific/Fiji	2019-04-27
+4036132	Lau Province	Lau Province	Lau,Lau Province	-18.20488	-178.79251	A	ADM2	FJ		02	05			10683		151	Pacific/Fiji	2019-04-30
+8594939	Rotuma	Rotuma		-12.5	177.08	A	ADM2	FJ		04	15			0		100	Pacific/Fiji	2019-04-27
+8617786	Kadavu Province	Kadavu Province	Kadavu,Province de Kadavu	-18.99331	178.22021	A	ADM2	FJ		02	04			10167		317	Pacific/Fiji	2019-04-27

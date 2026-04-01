@@ -1,0 +1,79 @@
+﻿862989	Kohtla-Järve linn	Kohtla-Jaerve linn	0321	59.39535	27.28111	A	ADM2	EE		03	0321			0		67	Europe/Tallinn	2017-11-23
+862990	Narva linn	Narva linn	0511	59.36955	28.11022	A	ADM2	EE		03	0511			0		33	Europe/Tallinn	2016-08-06
+862993	Pärnu linn	Paernu linn	0624,Pernau,Pernava,Pērnava	58.37901	24.52784	A	ADM2	EE		11	0624			0		9	Europe/Tallinn	2017-11-23
+862994	Sillamäe linn	Sillamaee linn	0735,Sillamaeggi,Sillamaegi,Sillamäggi,Sillamägi	59.39562	27.76417	A	ADM2	EE		03	0735			0		27	Europe/Tallinn	2014-08-03
+862995	Tallinn	Tallinn	0784	59.43437	24.76456	A	ADM2	EE		01	0784			437811		17	Europe/Tallinn	2023-01-04
+7522269	Haapsalu linn	Haapsalu linn	0184,Hapsal	58.9358	23.53005	A	ADM2	EE		07	0184			0		6	Europe/Tallinn	2020-07-12
+7522272	Haljala vald	Haljala vald	0191	59.45427	26.22015	A	ADM2	EE		08	0191			0		95	Europe/Tallinn	2017-11-23
+7522275	Harku vald	Harku vald	0198,Harku Parish,Harku vald	59.39157	24.46206	A	ADM2	EE		01	0198			16973		31	Europe/Tallinn	2023-01-04
+7522278	Häädemeeste vald	Haeaedemeeste vald	0214,Haeaedemeeste Parish,Häädemeeste Parish	58.05004	24.53832	A	ADM2	EE		11	0214			4821		26	Europe/Tallinn	2022-03-08
+7522283	Jõelähtme vald	Joelaehtme vald	0245,Joelaehtme Parish,Jõelähtme Parish	59.43996	25.13535	A	ADM2	EE		01	0245			6547		37	Europe/Tallinn	2022-03-08
+7522284	Jõgeva vald	Jogeva vald	0247,Jogeva Parish,Jõgeva Parish	58.78732	26.38122	A	ADM2	EE		05	0247			13513		75	Europe/Tallinn	2022-03-08
+7522286	Jõhvi vald	Johvi vald	0251,Johvi Parish,Jõhvi Parish	59.35653	27.39304	A	ADM2	EE		03	0251			0		67	Europe/Tallinn	2014-08-03
+7522290	Kadrina vald	Kadrina vald	0272	59.37463	26.0415	A	ADM2	EE		08	0272			0		89	Europe/Tallinn	2010-09-02
+7522294	Kambja vald	Kambja vald	0283,Kambja Parish	58.20255	26.68996	A	ADM2	EE		18	0283			11452		86	Europe/Tallinn	2022-03-08
+7522295	Kanepi vald	Kanepi vald	0284,Kanepi Parish	57.98058	26.76151	A	ADM2	EE		12	0284			4662		142	Europe/Tallinn	2022-03-08
+7522298	Kehtna vald	Kehtna vald	0293,Kehtna Parish	58.84274	24.89002	A	ADM2	EE		13	0293			5469		72	Europe/Tallinn	2022-03-08
+7522300	Keila linn	Keila linn	0296	59.31135	24.38651	A	ADM2	EE		01	0296			0		50	Europe/Tallinn	2016-08-06
+7522303	Kihnu vald	Kihnu vald	0303,Kihnu Parish,Kynoe,Kynö	58.13	23.99002	A	ADM2	EE		11	0303			687		6	Europe/Tallinn	2022-03-08
+7522304	Kiili vald	Kiili vald	0305,Kiili Parish	59.29672	24.85292	A	ADM2	EE		01	0304			5461		47	Europe/Tallinn	2024-06-18
+7522307	Kohila vald	Kohila vald	0317,Kohila Parish	59.15283	24.73337	A	ADM2	EE		13	0317			5925		67	Europe/Tallinn	2022-03-08
+7522317	Kose vald	Kose vald	0338	59.18589	25.11143	A	ADM2	EE		01	0338			7183		61	Europe/Tallinn	2022-03-08
+7522333	Loksa linn	Loksa linn	0424	59.57844	25.71667	A	ADM2	EE		01	0424			2576		11	Europe/Tallinn	2022-03-08
+7522334	Luunja vald	Luunja vald	0432,Luunja Parish	58.39178	26.95574	A	ADM2	EE		18	0432			0		45	Europe/Tallinn	2016-08-08
+7522335	Lüganuse vald	Lueganuse vald	0442,Lueganuse Parish,Lüganuse Parish	59.39262	27.07641	A	ADM2	EE		03	0442			8552		47	Europe/Tallinn	2022-03-08
+7522337	Maardu linn	Maardu linn	0446	59.46385	24.9735	A	ADM2	EE		01	0446			16512		25	Europe/Tallinn	2015-05-25
+7522345	Muhu vald	Muhu vald	0478,Moon kommun	58.58486	23.25609	A	ADM2	EE		14	0478			1968		17	Europe/Tallinn	2022-03-08
+7522357	Märjamaa vald	Maerjamaa vald	0503,Maerjamaa Parish,Märjamaa Parish	58.90262	24.39423	A	ADM2	EE		13	0503			7535		39	Europe/Tallinn	2022-03-08
+7522358	Narva-Jõesuu linn	Narva-Joesuu linn	0514	59.44127	28.02142	A	ADM2	EE		03	0514			0		23	Europe/Tallinn	2017-11-23
+7522361	Nõo vald	Noo vald	0528,Noo Parish,Nõo Parish	58.24199	26.52499	A	ADM2	EE		18	0528			0		77	Europe/Tallinn	2016-08-08
+7522368	Paide linn	Paide linn	0567	58.88504	25.56021	A	ADM2	EE		04	0567			0		65	Europe/Tallinn	2017-11-23
+7522376	Peipsiääre vald	Peipsiaeaere vald	0586,Peipsiaeaere Parish,Peipsiääre Parish	58.51559	27.18444	A	ADM2	EE		18	0586			5458		45	Europe/Tallinn	2022-03-08
+7522384	Põltsamaa vald	Poltsamaa vald	0618	58.64067	26.00957	A	ADM2	EE		05	0618			0		58	Europe/Tallinn	2017-11-23
+7522388	Otepää vald	Otepaeae vald	0557,Otepaeae Parish,Otepää Parish	58.02177	26.45306	A	ADM2	EE		19	0557			6456		116	Europe/Tallinn	2022-03-08
+7522390	Tapa vald	Tapa vald	0792,Tapa,Tapa Parish,Taps,Тапа,Тапс	59.23821	25.84572	A	ADM2	EE		08	0792			11049		92	Europe/Tallinn	2023-03-23
+7522391	Tartu vald	Tartu vald	0796	58.478	26.74956	A	ADM2	EE		18	0796			10810		40	Europe/Tallinn	2022-03-08
+7522394	Tori vald	Tori vald	0809,Tori Parish	58.48663	24.88961	A	ADM2	EE		11	0809			0		23	Europe/Tallinn	2017-11-23
+7522401	Rapla vald	Rapla vald	0668,Rapla Parish	59.03309	24.71793	A	ADM2	EE		13	0668			13193		67	Europe/Tallinn	2022-03-08
+7522405	Ruhnu vald	Ruhnu vald	0689	57.80309	23.2425	A	ADM2	EE		14	0689			0		11	Europe/Tallinn	2016-08-08
+7522407	Rõuge vald	Rouge vald	0698	57.7278	26.88033	A	ADM2	EE		21	0698			0		128	Europe/Tallinn	2017-11-23
+7522409	Räpina vald	Raepina vald	0708	58.10777	27.3858	A	ADM2	EE		12	0708			0		42	Europe/Tallinn	2017-11-23
+7522410	Saarde vald	Saarde vald	0712,Saarde Parish	58.13802	24.95564	A	ADM2	EE		11	0712			0		67	Europe/Tallinn	2017-11-23
+7522413	Saku vald	Saku vald	0719,Saku Parish	59.28069	24.71649	A	ADM2	EE		01	0718			0		47	Europe/Tallinn	2024-06-18
+7522417	Raasiku vald	Raasiku vald	0651,Raasiku Parish	59.3235	25.14727	A	ADM2	EE		01	0651			5161		48	Europe/Tallinn	2022-03-08
+7522418	Rae vald	Rae vald	0653,Rae Parish	59.33202	24.93932	A	ADM2	EE		01	0653			18326		43	Europe/Tallinn	2022-03-08
+7522422	Rakvere vald	Rakvere vald	0661	59.32457	26.29757	A	ADM2	EE		08	0661			5619		95	Europe/Tallinn	2022-03-08
+7522423	Rakvere linn	Rakvere linn	0663	59.34529	26.36157	A	ADM2	EE		08	0663			0		85	Europe/Tallinn	2020-07-12
+7522425	Saue vald	Saue vald	0726	59.29255	24.52503	A	ADM2	EE		01	0726			22050		38	Europe/Tallinn	2022-03-08
+7522428	Kuusalu vald	Kuusalu vald	0353,Kuusalu Parish	59.47855	25.59644	A	ADM2	EE		01	0353			6464		44	Europe/Tallinn	2022-03-08
+7522434	Tartu linn	Tartu linn	0793	58.37498	26.73256	A	ADM2	EE		18	0793			0		43	Europe/Tallinn	2017-11-23
+7522443	Anija vald	Anija vald	0141	59.27644	25.48168	A	ADM2	EE		01	0141			0		60	Europe/Tallinn	2017-11-23
+7522444	Antsla vald	Antsla vald	0142	57.77738	26.5952	A	ADM2	EE		21	0142			4478		96	Europe/Tallinn	2022-03-08
+7522460	Viimsi vald	Viimsi vald	0890,Viimsi Parish	59.50204	24.84833	A	ADM2	EE		01	0890			20580		44	Europe/Tallinn	2022-03-08
+7522467	Põlva vald	Polva vald	0622,Commune de Polva,Commune de Põlva,Comuna Polva,Comuna Põlva,Gmina Polva,Gmina Põlva,Pilva,Polva,Polva Pairish,Polva Parish,Polva kommune,Pylva,Põlva,Põlva Pairish,Põlva Parish,Põlva kommune,dhstan pwlwa,Пилва,Пылва,Պիլվա,دهستان پولوا	58.08368	26.98242	A	ADM2	EE		12	0622			14600		85	Europe/Tallinn	2022-03-08
+7522469	Toila vald	Toila vald	0803,Toila Parish	59.34821	27.56263	A	ADM2	EE		03	0803			4735		47	Europe/Tallinn	2022-03-08
+7522474	Türi vald	Tueri vald	0834,Tueri Parish,Türi Parish	58.74143	25.46443	A	ADM2	EE		04	0834			10918		58	Europe/Tallinn	2022-03-08
+7522477	Viljandi linn	Viljandi linn	0897,Vilande,Vīlande	58.35631	25.59368	A	ADM2	EE		20	0897			17407		56	Europe/Tallinn	2022-03-08
+7522478	Vinni vald	Vinni vald	0901	59.23744	26.62261	A	ADM2	EE		08	0901			0		90	Europe/Tallinn	2017-11-23
+7522479	Viru-Nigula vald	Viru-Nigula vald	0903	59.46387	26.58585	A	ADM2	EE		08	0903			0		69	Europe/Tallinn	2017-11-23
+7522480	Vormsi vald	Vormsi vald	0907,Vormsi Parish	58.99986	23.23408	A	ADM2	EE		07	0907			231		19	Europe/Tallinn	2022-03-08
+7522483	Võru vald	Voru vald	0917,Voru Parish,Võru Parish	57.86618	26.97418	A	ADM2	EE		21	0917			10738		72	Europe/Tallinn	2022-03-08
+7522484	Võru linn	Voru linn	0919	57.83553	27.00119	A	ADM2	EE		21	0919			12367		67	Europe/Tallinn	2022-03-08
+7522485	Väike-Maarja vald	Vaeike-Maarja vald	0928	59.06556	26.31417	A	ADM2	EE		08	0928			0		109	Europe/Tallinn	2017-11-23
+11054708	Viljandi vald	Viljandi vald	0899	58.36392	25.49103	A	ADM2	EE		20	0899			13569		67	Europe/Tallinn	2022-03-08
+11054712	Lääne-Nigula vald	Laeaene-Nigula vald	0441	58.96045	23.74489	A	ADM2	EE		07	0441			7041		10	Europe/Tallinn	2022-03-08
+11776869	Mulgi vald	Mulgi vald	0480,Mulgi Parish,Mulgi vald	58.12823	25.42437	A	ADM2	EE		20	0480			7436		70	Europe/Tallinn	2022-03-08
+11776870	Valga vald	Valga vald	0855	57.77908	26.27151	A	ADM2	EE		19	0855			15785		58	Europe/Tallinn	2022-03-08
+11776871	Setomaa vald	Setomaa vald	0732,Setomaa Parish,Setomaa vald	57.8842	27.61963	A	ADM2	EE		21	0732			3369		87	Europe/Tallinn	2022-03-08
+11776872	Hiiumaa vald	Hiiumaa vald	0205,Hiiumaa Parish	58.88804	22.63612	A	ADM2	EE		02	0205			9550		34	Europe/Tallinn	2022-03-08
+11776873	Elva vald	Elva vald	0171,Elva Parish	58.24564	26.27258	A	ADM2	EE		18	0171			14241		69	Europe/Tallinn	2022-03-08
+11776874	Saaremaa vald	Saaremaa vald	0714,Saaremaa Municipality,Saaremaa Parish,Saaremaa vald	58.37814	22.49354	A	ADM2	EE		14	0714			31413		27	Europe/Tallinn	2022-03-08
+11776875	Järva vald	Jaerva vald	0255,Jaerva Parish,Jaerva vald,Järva Parish,Järva vald	58.98405	25.82298	A	ADM2	EE		04	0255			8984		91	Europe/Tallinn	2022-03-08
+11776876	Mustvee vald	Mustvee vald	0486,Mustvee Parish,Mustvee vald	58.85613	26.87444	A	ADM2	EE		05	0486			5643		49	Europe/Tallinn	2022-03-08
+11776877	Kastre vald	Kastre vald	0291,Kastre Parish,Kastre vald	58.31259	27.07713	A	ADM2	EE		18	0291			0		38	Europe/Tallinn	2020-07-19
+11776878	Tõrva vald	Torva vald	0824,Torma Parish,Torma vald	57.98419	25.88741	A	ADM2	EE		19	0824			2472		77	Europe/Tallinn	2022-03-08
+11776879	Alutaguse vald	Alutaguse vald	0130	59.13787	27.3839	A	ADM2	EE		03	0130			0		54	Europe/Tallinn	2020-07-23
+11776880	Lääneranna vald	Laeaeneranna vald	0430,Laeaeneranna Parish,Laeaeneranna vald,Lääneranna Parish,Lääneranna vald	58.58909	23.89627	A	ADM2	EE		11	0430			5494		18	Europe/Tallinn	2022-03-08
+11776881	Lääne-Harju vald	Laeaene-Harju vald	0431,Laeaene-Harju Parish,Laeaene-Harju vald,Lääne-Harju Parish,Lääne-Harju vald	59.25933	24.08886	A	ADM2	EE		01	0431			12865		9	Europe/Tallinn	2022-03-08
+11776882	Põhja-Sakala vald	Pohja-Sakala vald	0615,Pohja-Sakala Parish,Pohja-Sakala vald,Põhja-Sakala Parish,Põhja-Sakala vald	58.48547	25.38037	A	ADM2	EE		20	0615			7959		62	Europe/Tallinn	2022-03-08
+11776883	Põhja-Pärnumaa vald	Pohja-Paernumaa vald	0638,Pohja-Paernumaa Parish,Pohja-Paernumaa vald,Põhja-Pärnumaa Parish,Põhja-Pärnumaa vald	58.6346	24.79186	A	ADM2	EE		11	0638			8435		43	Europe/Tallinn	2022-03-08

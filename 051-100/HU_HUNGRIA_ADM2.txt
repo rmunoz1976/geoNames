@@ -1,0 +1,197 @@
+﻿9644140	Soproni Járás	Soproni Jaras	Soproni Jaras,Soproni Járás	47.60385	16.75654	A	ADM2	HU		09	091			0		148	Europe/Budapest	2022-12-20
+9644148	Kapuvári Járás	Kapuvari Jaras	Kapuvari Jaras,Kapuvári Járás	47.56705	17.04056	A	ADM2	HU		09	088			0		120	Europe/Budapest	2022-12-20
+9644149	Csornai Járás	Csornai Jaras	Csornai Jaras,Csornai Járás	47.58403	17.26041	A	ADM2	HU		09	086			0		115	Europe/Budapest	2022-12-20
+9644150	Mosonmagyaróvári járás	Mosonmagyarovari jaras	Mosonmagyarovar District,Mosonmagyarovari jaras,Mosonmagyaróvár District,Mosonmagyaróvári járás	47.85767	17.28212	A	ADM2	HU		09	089			0		121	Europe/Budapest	2020-10-02
+9644151	Győri Járás	Gyori Jaras	Gyori Jaras,Győri Járás	47.67273	17.67936	A	ADM2	HU		09	087			0		116	Europe/Budapest	2022-12-20
+9644152	Téti Járás	Teti Jaras	Teti Jaras,Téti Járás	47.51515	17.51612	A	ADM2	HU		09	092			0		134	Europe/Budapest	2022-12-20
+9644153	Pannonhalmi Járás	Pannonhalmi Jaras	Pannonhalmi Jaras,Pannonhalmi Járás	47.45571	17.81335	A	ADM2	HU		09	090			0		173	Europe/Budapest	2019-06-10
+9644154	Kőszegi Járás	Koszegi Jaras	Koszegi Jaras,Kőszegi Járás	47.375	16.6565	A	ADM2	HU		22	178			0		256	Europe/Budapest	2022-12-20
+9644155	Szombathelyi Járás	Szombathelyi Jaras	Szombathelyi Jaras,Szombathelyi Járás	47.21037	16.63954	A	ADM2	HU		22	181			0		204	Europe/Budapest	2022-12-20
+9644156	Szentgotthárdi Járás	Szentgotthardi Jaras	Szentgotthardi Jaras,Szentgotthárdi Járás	46.93674	16.30362	A	ADM2	HU		22	180			0		290	Europe/Budapest	2022-12-20
+9644157	Körmendi Járás	Koermendi Jaras	Kormendi Jaras,Körmendi Járás	46.92164	16.53291	A	ADM2	HU		22	177			0		249	Europe/Budapest	2022-12-20
+9644158	Vasvári Járás	Vasvari Jaras	Vasvari Jaras,Vasvári Járás	47.03487	16.85939	A	ADM2	HU		22	182			0		177	Europe/Budapest	2019-06-10
+9644159	Sárvári Járás	Sarvari Jaras	Sarvari Jaras,Sárvári Járás	47.23868	16.93299	A	ADM2	HU		22	179			0		162	Europe/Budapest	2022-12-20
+9644160	Celldömölki Járás	Celldoemoelki Jaras	Celldomolki Jaras,Celldömölki Járás	47.25001	17.13209	A	ADM2	HU		22	176			0		128	Europe/Budapest	2022-12-20
+9644167	Zalaegerszegi Járás	Zalaegerszegi Jaras	Zalaegerszegi Jaras,Zalaegerszegi Járás	46.8	16.83	A	ADM2	HU		24	197			0		202	Europe/Budapest	2022-12-20
+9644168	Lenti Járás	Lenti Jaras	Lenti Jaras,Lenti Járás	46.65649	16.57443	A	ADM2	HU		24	194			0		165	Europe/Budapest	2019-06-10
+9644169	Letenyei Járás	Letenyei Jaras	Letenyei Jaras,Letenyei Járás	46.50552	16.76503	A	ADM2	HU		24	195			0		226	Europe/Budapest	2022-12-20
+9644170	Zalaszentgróti Járás	Zalaszentgroti Jaras	Zalaszentgroti Jaras,Zalaszentgróti Járás	46.9207	17.10095	A	ADM2	HU		24	198			0		124	Europe/Budapest	2019-06-10
+9644171	Keszthelyi Járás	Keszthelyi Jaras	Keszthelyi Jaras,Keszthelyi Járás	46.78356	17.22381	A	ADM2	HU		24	193			0		156	Europe/Budapest	2022-12-20
+9644172	Nagykanizsai Járás	Nagykanizsai Jaras	Nagykanizsai Jaras,Nagykanizsai Járás	46.51873	17.04433	A	ADM2	HU		24	196			0		235	Europe/Budapest	2022-12-20
+9644177	Barcsi Járás	Barcsi Jaras	Barcsi Jaras,Barcsi Járás	46.03687	17.47434	A	ADM2	HU		17	140			10667		141	Europe/Budapest	2022-12-20
+9644178	Nagyatádi Járás	Nagyatadi Jaras	Nagyatadi Jaras,Nagyatádi Járás	46.252	17.3752	A	ADM2	HU		17	145			0		127	Europe/Budapest	2022-12-19
+9644179	Csurgói Járás	Csurgoi Jaras	Csurgoi Jaras,Csurgói Járás	46.29502	17.10021	A	ADM2	HU		17	141			0		151	Europe/Budapest	2022-12-19
+9644180	Kaposvári Járás	Kaposvari Jaras	Kaposvar,Kaposvari Jaras,Kaposvári Járás,Kapošvar,Kopisch,Rupertgrad,Ruppertsburg	46.39791	17.7699	A	ADM2	HU		17	143			0		148	Europe/Budapest	2022-12-20
+9644181	Marcali Járás	Marcali Jaras	Marcali Jaras,Marcali Járás,Martzal	46.54382	17.39203	A	ADM2	HU		17	144			0		152	Europe/Budapest	2022-12-19
+9644182	Fonyódi Járás	Fonyodi Jaras	Fonjod,Fonyodi Jaras,Fonyódi Járás	46.67289	17.7	A	ADM2	HU		17	142			0		245	Europe/Budapest	2022-12-19
+9644187	Siófoki Járás	Siofoki Jaras	Siofoki Jaras,Siófoki Járás	46.8506	17.99625	A	ADM2	HU		17	146			0		158	Europe/Budapest	2022-12-19
+9644188	Tabi Járás	Tabi Jaras	Tabi Jaras,Tabi Járás	46.68037	18.0056	A	ADM2	HU		17	147			0		172	Europe/Budapest	2022-12-19
+9644189	Siklósi Járás	Siklosi Jaras	Siklosi Jaras,Siklósi Járás	45.84981	18.31052	A	ADM2	HU		02	031			0		95	Europe/Budapest	2019-06-10
+9644190	Pécsi Járás	Pecsi Jaras	Pecsi Jaras,Pécsi Járás	46.0799	18.25253	A	ADM2	HU		02	028			0		150	Europe/Budapest	2019-06-10
+9644191	Mohácsi Járás	Mohacsi Jaras	Mohacsi Jaras,Mohácsi Járás	46.02004	18.68	A	ADM2	HU		02	027			0		88	Europe/Budapest	2019-06-10
+9644192	Bólyi Járás	Bolyi Jaras	Bolyi Jaras,Bólyi Járás	45.98075	18.48449	A	ADM2	HU		02	024			3819		142	Europe/Budapest	2022-12-19
+9644193	Pécsváradi Járás	Pecsvaradi Jaras	Pecsvaradi Jaras,Pécsváradi Járás	46.16782	18.45456	A	ADM2	HU		02	029			0		253	Europe/Budapest	2019-06-10
+9644194	Komlói Járás	Komloi Jaras	Komloi Jaras,Komlói Járás	46.22019	18.2862	A	ADM2	HU		02	026			0		269	Europe/Budapest	2019-06-10
+9644195	Hegyháti Járás	Hegyhati Jaras	Hegyhati Jaras,Hegyháti Járás	46.27247	18.13758	A	ADM2	HU		02	025			0		238	Europe/Budapest	2019-06-10
+9644260	Sellyei Járás	Sellyei Jaras	Sellyei Jaras,Sellyei Járás	45.86955	17.89827	A	ADM2	HU		02	030			0		97	Europe/Budapest	2022-12-19
+9644261	Szigetvári Járás	Szigetvari Jaras	Szigetvari Jaras,Szigetvári Járás	46.07336	17.80391	A	ADM2	HU		02	033			0		114	Europe/Budapest	2022-12-19
+9644262	Szentlőrinci Járás	Szentlorinci Jaras	Szentlorinci Jaras,Szentlőrinci Járás	46.04694	18.01528	A	ADM2	HU		02	032			0		128	Europe/Budapest	2022-12-19
+9644263	Bajai Járás	Bajai Jaras	Bajai Jaras,Bajai Járás	46.14507	19.01359	A	ADM2	HU		01	035			0		106	Europe/Budapest	2022-12-20
+9644264	Bácsalmási Járás	Bacsalmasi Jaras	Bacsalmasi Jaras,Bácsalmási Járás	46.10167	19.33063	A	ADM2	HU		01	034			0		115	Europe/Budapest	2022-12-20
+9644265	Jánoshalmai Járás	Janoshalmai Jaras	Janoshalmai Jaras,Jánoshalmai Járás	46.28283	19.31742	A	ADM2	HU		01	036			0		126	Europe/Budapest	2022-12-20
+9644266	Kiskunhalasi Járás	Kiskunhalasi Jaras	Kiskunhalasi Jaras,Kiskunhalasi Járás	46.35832	19.53067	A	ADM2	HU		01	041			0		124	Europe/Budapest	2022-12-20
+9644267	Kiskunmajsai Járás	Kiskunmajsai Jaras	Kiskunmajsai Jaras,Kiskunmajsai Járás	46.49608	19.72316	A	ADM2	HU		01	042			0		102	Europe/Budapest	2019-06-10
+9644268	Kalocsai Járás	Kalocsai Jaras	Kalocsai Jaras,Kalocsai Járás	46.55646	19.04211	A	ADM2	HU		01	037			0		90	Europe/Budapest	2022-12-20
+9644269	Kiskőrösi Járás	Kiskoroesi Jaras	Kiskorosi Jaras,Kiskőrösi Járás	46.63309	19.33726	A	ADM2	HU		01	039			0		102	Europe/Budapest	2019-06-10
+9644270	Kunszentmiklósi Járás	Kunszentmiklosi Jaras	Kunszentmiklosi Jaras,Kunszentmiklósi Járás	46.9481	19.15563	A	ADM2	HU		01	043			0		94	Europe/Budapest	2022-12-20
+9644271	Kecskeméti Járás	Kecskemeti Jaras	Kecskemeti Jaras,Kecskeméti Járás	46.88283	19.58701	A	ADM2	HU		01	038			0		120	Europe/Budapest	2022-12-20
+9644272	Tiszakécskei Járás	Tiszakecskei Jaras	Tiszakecskei Jaras,Tiszakécskei Járás	46.86013	19.97298	A	ADM2	HU		01	044			0		102	Europe/Budapest	2022-12-20
+9644273	Kiskunfélegyházi Járás	Kiskunfelegyhazi Jaras	Kiskunfelegyhazi Jaras,Kiskunfélegyházi Járás	46.65721	19.77006	A	ADM2	HU		01	040			0		99	Europe/Budapest	2022-12-20
+9644274	Mórahalmi Járás	Morahalmi Jaras	Morahalmi Jaras,Mórahalmi Járás	46.2684	19.82256	A	ADM2	HU		06	074			0		102	Europe/Budapest	2022-12-19
+9644275	Szegedi Járás	Szegedi Jaras	Szegedi Jaras,Szegedi Járás	46.29536	20.13758	A	ADM2	HU		06	075			197615		74	Europe/Budapest	2025-01-23
+9644276	Makói Járás	Makoi Jaras	Makoi Jaras,Makói Járás	46.26698	20.542	A	ADM2	HU		06	073			0		82	Europe/Budapest	2022-12-19
+9644277	Kisteleki Járás	Kisteleki Jaras	Kisteleki Jaras,Kisteleki Járás	46.48835	19.99568	A	ADM2	HU		06	072			0		84	Europe/Budapest	2022-12-19
+9644278	Hódmezővásárhelyi Járás	Hodmezovasarhelyi Jaras	Hodmezovasarhelyi Jaras,Hódmezővásárhelyi Járás	46.43301	20.37598	A	ADM2	HU		06	071			0		77	Europe/Budapest	2022-12-19
+9644279	Csongrádi Járás	Csongradi Jaras	Csongradi Jaras,Csongrádi Járás	46.66146	20.08792	A	ADM2	HU		06	070			0		79	Europe/Budapest	2022-12-19
+9644280	Szentesi Járás	Szentesi Jaras	Szentesi Jaras,Szentesi Járás	46.66005	20.37314	A	ADM2	HU		06	076			0		78	Europe/Budapest	2022-12-19
+9644281	Szeghalmi Járás	Szeghalmi Jaras	Szeghalmi Jaras,Szeghalmi Járás	47	21.17	A	ADM2	HU		03	053			0		82	Europe/Budapest	2022-12-20
+9644282	Sarkadi Járás	Sarkadi Jaras	Sarkadi Jaras,Sarkadi Járás	46.86154	21.44875	A	ADM2	HU		03	051			0		87	Europe/Budapest	2019-06-10
+9644283	Gyulai Járás	Gyulai Jaras	Gyulai Jaras,Gyulai Járás	46.58626	21.22454	A	ADM2	HU		03	048			0		90	Europe/Budapest	2022-12-20
+9644284	Mezőkovácsházai Járás	Mezokovacshazai Jaras	Mezokovacshazai Jaras,Mezőkovácsházai Járás	46.40888	21.00318	A	ADM2	HU		03	049			0		94	Europe/Budapest	2022-12-20
+9644285	Orosházi járás	Oroshazi jaras	Oroshazi jaras,Orosházi járás	46.56355	20.73357	A	ADM2	HU		03	050			0		87	Europe/Budapest	2022-12-21
+9644286	Szarvasi Járás	Szarvasi Jaras	Szarvasi Jaras,Szarvasi Járás	46.82891	20.63707	A	ADM2	HU		03	052			0		79	Europe/Budapest	2022-12-21
+9644287	Békési Járás	Bekesi Jaras	Bekesi Jaras,Békési Járás	46.83317	21.1	A	ADM2	HU		03	045			0		80	Europe/Budapest	2019-06-10
+9644288	Békéscsabai Járás	Bekescsabai Jaras	Bekescsabai Jaras,Békéscsabai Járás	46.68133	21.07413	A	ADM2	HU		03	046			0		84	Europe/Budapest	2019-06-10
+9644289	Gyomaendrődi Járás	Gyomaendrodi Jaras	Gyomaendrodi Jaras,Gyomaendrődi Járás	46.98216	20.84851	A	ADM2	HU		03	047			0		80	Europe/Budapest	2019-06-10
+9644291	Hajdúhadházi Járás	Hajduhadhazi Jaras	Hajduhadhazi Jaras,Hajdúhadházi Járás	47.67	21.7	A	ADM2	HU		10	098			0		149	Europe/Budapest	2022-12-20
+9644292	Debreceni Járás	Debreceni Jaras	Debreceni Jaras,Debreceni Járás	47.52706	21.66869	A	ADM2	HU		10	095			0		119	Europe/Budapest	2022-12-20
+9644293	Püspökladányi Járás	Puespoekladanyi Jaras	Puspokladanyi Jaras,Püspökladányi Járás	47.31279	21.21177	A	ADM2	HU		10	102			0		84	Europe/Budapest	2022-12-20
+9644294	Berettyóújfalui Járás	Berettyoujfalui Jaras	Berettyoujfalui Jaras,Berettyóújfalui Járás	47.14109	21.55233	A	ADM2	HU		10	094			0		91	Europe/Budapest	2022-12-20
+9644295	Hadjúszoboszlói Járás	Hadjuszoboszloi Jaras	Hadjuszoboszloi Jaras,Hadjúszoboszlói Járás	47.4811	21.31	A	ADM2	HU		10	100			0		88	Europe/Budapest	2022-12-20
+9644296	Balmazújvárosi Járás	Balmazujvarosi Jaras	Balmazujvarosi Jaras,Balmazújvárosi Járás	47.6184	21.14882	A	ADM2	HU		10	093			0		85	Europe/Budapest	2022-12-20
+9644297	Hajdúböszörményi Járás	Hajduboeszoermenyi Jaras	Hajduboszormenyi Jaras,Hajdúböszörményi Járás	47.74	21.5	A	ADM2	HU		10	097			0		104	Europe/Budapest	2022-12-20
+9644298	Derecskei Járás	Derecskei Jaras	Derecskei Jaras,Derecskei Járás	47.38194	21.74836	A	ADM2	HU		10	096			0		98	Europe/Budapest	2022-12-20
+9644299	Hajdúnánási Járás	Hajdunanasi Jaras	Hajdunanasi Jaras,Hajdúnánási Járás	47.8335	21.25256	A	ADM2	HU		10	099			0		89	Europe/Budapest	2022-12-20
+9644300	Nyíradonyi Járás	Nyiradonyi Jaras	Nyiradonyi Jaras,Nyíradonyi Járás	47.57873	22.01381	A	ADM2	HU		10	101			0		153	Europe/Budapest	2022-12-20
+9644302	Tiszavasvári Járás	Tiszavasvari Jaras	Tiszavasvari Jaras,Tiszavasvári Járás	47.98606	21.36545	A	ADM2	HU		18	158			0		96	Europe/Budapest	2019-06-10
+9644303	Nyíregyházi Járás	Nyiregyhazi Jaras	Nyiregyhazi Jaras,Nyíregyházi Járás	47.97691	21.64463	A	ADM2	HU		18	157			0		105	Europe/Budapest	2022-12-20
+9644304	Nagykállói Járás	Nagykalloi Jaras	Nagykallo District,Nagykalloi Jaras,Nagykálló District,Nagykállói Járás	47.79994	21.84753	A	ADM2	HU		18	155			0		136	Europe/Budapest	2022-12-20
+9644305	Nyírbátori Járás	Nyirbatori Jaras	Nyirbatori Jaras,Nyírbátori Járás	47.77553	22.11755	A	ADM2	HU		18	156			0		158	Europe/Budapest	2022-12-20
+9644306	Mátészalkai Járás	Mateszalkai Jaras	Mateszalkai Jaras,Mátészalkai Járás	47.92961	22.31892	A	ADM2	HU		18	154			0		127	Europe/Budapest	2022-12-20
+9644307	Baktalórántházai Járás	Baktaloranthazai Jaras	Baktaloranthazai Jaras,Baktalórántházai Járás	48.00436	22.02449	A	ADM2	HU		18	148			0		130	Europe/Budapest	2022-12-20
+9644308	Kemecsei Járás	Kemecsei Jaras	Kemecsei Jaras,Kemecsei Járás	48.10048	21.88414	A	ADM2	HU		18	152			0		98	Europe/Budapest	2019-06-10
+9644309	Kisvárdai Járás	Kisvardai Jaras	Kisvardai Jaras,Kisvárdai Járás	48.221	22.06415	A	ADM2	HU		18	153			0		96	Europe/Budapest	2022-12-20
+9644310	Záhonyi Járás	Zahonyi Jaras	Zahonyi Jaras,Záhonyi Járás	48.34914	22.18925	A	ADM2	HU		18	160			0		111	Europe/Budapest	2019-06-10
+9644311	Vásárosnaményi Járás	Vasarosnamenyi Jaras	Vasarosnamenyi Jaras,Vásárosnaményi Járás	48.17981	22.35859	A	ADM2	HU		18	159			0		103	Europe/Budapest	2019-06-10
+9644312	Fehérgyarmati Járás	Fehergyarmati Jaras	Fehergyarmati Jaras,Fehérgyarmati Járás	48.00436	22.63014	A	ADM2	HU		18	150			0		110	Europe/Budapest	2022-12-20
+9644313	Csengeri Járás	Csengeri Jaras	Csengeri Jaras,Csengeri Járás	47.83045	22.5981	A	ADM2	HU		18	149			0		111	Europe/Budapest	2022-12-20
+9644314	Ibrányi Járás	Ibranyi Jaras	Ibranyi Jaras,Ibrányi Járás	48.12794	21.69344	A	ADM2	HU		18	151			0		94	Europe/Budapest	2022-12-20
+9644316	Cigándi Járás	Cigandi Jaras	Cigandi Jaras,Cigándi Járás	48.30338	21.87651	A	ADM2	HU		04	054			0		92	Europe/Budapest	2022-12-20
+9644317	Edelényi Járás	Edelenyi Jaras	Edelenyi Jaras,Edelényi Járás	48.40864	20.77506	A	ADM2	HU		04	055			0		199	Europe/Budapest	2019-06-10
+9644318	Encsi Járás	Encsi Jaras	Encsi Jaras,Encsi Járás	48.39948	21.08169	A	ADM2	HU		04	056			0		219	Europe/Budapest	2022-12-20
+9644320	Gönci Járás	Goenci Jaras	Gonci Jaras,Gönci Járás	48.39948	21.28307	A	ADM2	HU		04	057			0		243	Europe/Budapest	2022-12-20
+9644321	Kazincbarcikai Járás	Kazincbarcikai Jaras	Kazincbarcikai Jaras,Kazincbarcikai Járás	48.26371	20.57978	A	ADM2	HU		04	058			0		165	Europe/Budapest	2022-12-20
+9644322	Mezőcsáti Járás	Mezocsati Jaras	Mezocsati Jaras,Mezőcsáti Járás	47.79841	20.91693	A	ADM2	HU		04	059			0		91	Europe/Budapest	2022-12-20
+9644323	Mezőkövesdi Járás	Mezokoevesdi Jaras	Mezokovesdi Jaras,Mezőkövesdi Járás	47.84876	20.63623	A	ADM2	HU		04	060			0		122	Europe/Budapest	2022-12-20
+9644324	Miskolci Járás	Miskolci Jaras	Miskolci Jaras,Miskolci Járás	48.08675	20.77353	A	ADM2	HU		04	061			0		206	Europe/Budapest	2022-12-20
+9644325	Ózdi Járás	Ozdi Jaras	Ozdi Jaras,Ózdi Járás	48.18133	20.24874	A	ADM2	HU		04	062			0		209	Europe/Budapest	2019-06-10
+9644326	Putnoki Járás	Putnoki Jaras	Putnoki Jaras,Putnoki Járás	48.33694	20.46384	A	ADM2	HU		04	063			0		426	Europe/Budapest	2019-06-10
+9644327	Sárospataki Járás	Sarospataki Jaras	Sarospataki Jaras,Sárospataki Járás	48.29575	21.52716	A	ADM2	HU		04	064			0		110	Europe/Budapest	2019-06-10
+9644328	Sátoraljaújhelyi járás	Satoraljaujhelyi jaras	Satoraljaujhely District,Satoraljaujhelyi jaras,Sátoraljaújhely District,Sátoraljaújhelyi járás	48.45898	21.54394	A	ADM2	HU		04	065			0		240	Europe/Budapest	2020-09-19
+9644329	Szerencsi Járás	Szerencsi Jaras	Szerencsi Jaras,Szerencsi Járás	48.14929	21.16865	A	ADM2	HU		04	066			0		96	Europe/Budapest	2019-06-10
+9644330	Szikszói Járás	Szikszoi Jaras	Szikszoi Jaras,Szikszói Járás	48.30032	20.95507	A	ADM2	HU		04	067			0		220	Europe/Budapest	2019-06-10
+9644331	Tiszaújvárosi Járás	Tiszaujvarosi Jaras	Tiszaujvarosi Jaras,Tiszaújvárosi Járás	47.92656	20.99321	A	ADM2	HU		04	068			0		91	Europe/Budapest	2019-06-10
+9644332	Tokaji Járás	Tokaji Jaras	Tokaji Jaras,Tokaji Járás	48.14014	21.37002	A	ADM2	HU		04	069			0		145	Europe/Budapest	2019-06-10
+9644333	Bélapátfalvai Járás	Belapatfalvai Jaras	Belapatfalvai Jaras,Bélapátfalvai Járás	48.06386	20.36163	A	ADM2	HU		11	103			0		349	Europe/Budapest	2022-12-19
+9644334	Egri járás	Egri jaras	Eger District,Egri jaras,Egri járás	47.92961	20.37383	A	ADM2	HU		11	104			0		186	Europe/Budapest	2022-12-19
+9644335	Füzesabonyi járás	Fuezesabonyi jaras	Fuezesabonyi jaras,Füzesabonyi járás	47.72671	20.42875	A	ADM2	HU		11	105			0		107	Europe/Budapest	2020-10-13
+9644336	Gyöngyösi Járás	Gyoengyoesi Jaras	Gyongyosi Jaras,Gyöngyösi Járás	47.79079	19.9543	A	ADM2	HU		11	106			0		241	Europe/Budapest	2022-12-19
+9644337	Hatvani Járás	Hatvani Jaras	Hatvani Jaras,Hatvani Járás	47.69468	19.72852	A	ADM2	HU		11	107			0		143	Europe/Budapest	2022-12-19
+9644338	Hevesi Járás	Hevesi Jaras	Hevesi Jaras,Hevesi Járás	47.61535	20.31739	A	ADM2	HU		11	108			0		94	Europe/Budapest	2022-12-19
+9644339	Pétervásárai Járás	Petervasarai Jaras	Petervasarai Jaras,Pétervásárai Járás	48.00589	20.09466	A	ADM2	HU		11	109			0		211	Europe/Budapest	2019-06-10
+9644340	Balassagyarmati Járás	Balassagyarmati Jaras	Balassagyarmati Jaras,Balassagyarmati Járás	48.01657	19.30594	A	ADM2	HU		14	116			0		198	Europe/Budapest	2022-12-19
+9644341	Bátonyterenyei Járás	Batonyterenyei Jaras	Batonyterenyei Jaras,Bátonyterenyei Járás	47.97691	19.87345	A	ADM2	HU		14	117			0		299	Europe/Budapest	2022-12-19
+9644343	Pásztói Járás	Pasztoi Jaras	Pasztoi Jaras,Pásztói Járás	47.87012	19.60648	A	ADM2	HU		14	118			0		166	Europe/Budapest	2022-12-19
+9644344	Rétsági Járás	Retsagi Jaras	Retsagi Jaras,Rétsági Járás	47.91741	19.16101	A	ADM2	HU		14	119			0		215	Europe/Budapest	2022-12-19
+9644345	Salgótarjáni Járás	Salgotarjani Jaras	Salgotarjani Jaras,Salgótarjáni Járás	48.10048	19.81548	A	ADM2	HU		14	120			0		283	Europe/Budapest	2022-12-19
+9644346	Szécsényi Járás	Szecsenyi Jaras	Szecsenyi Jaras,Szécsényi Járás	48.07301	19.55156	A	ADM2	HU		14	121			0		159	Europe/Budapest	2022-12-19
+9644347	Váci Járás	Vaci Jaras	Vaci Jaras,Váci Járás	47.78316	19.23882	A	ADM2	HU		16	138			0		152	Europe/Budapest	2022-12-19
+9644348	Aszódi Járás	Aszodi Jaras	Aszodi Jaras,Aszódi Járás	47.64738	19.5424	A	ADM2	HU		16	122			0		146	Europe/Budapest	2022-12-20
+9644349	Budakeszi Járás	Budakeszi Jaras	Budakeszi Jaras,Budakeszi Járás	47.49788	18.8498	A	ADM2	HU		16	123			0		278	Europe/Budapest	2019-06-10
+9644350	Ceglédi Járás	Cegledi Jaras	Cegledi Jaras,Ceglédi Járás	47.2	19.82463	A	ADM2	HU		16	124			0		94	Europe/Budapest	2022-12-20
+9644351	Dabasi Járás	Dabasi Jaras	Dabasi Jaras,Dabasi Járás	47.19	19.33	A	ADM2	HU		16	125			0		108	Europe/Budapest	2022-12-20
+9644352	Dunakeszi Járás	Dunakeszi Jaras	Dunakeszi Jaras,Dunakeszi Járás	47.63365	19.16254	A	ADM2	HU		16	126			0		143	Europe/Budapest	2022-12-20
+9644353	Érdi Járás	Erdi Jaras	Erdi Jaras,Érdi Járás	47.356	18.90167	A	ADM2	HU		16	127			0		119	Europe/Budapest	2022-12-20
+9644354	Gödöllői Járás	Goedoelloi Jaras	Godolloi Jaras,Gödöllői Járás	47.55127	19.39595	A	ADM2	HU		16	128			0		198	Europe/Budapest	2022-12-20
+9644355	Gyáli Járás	Gyali Jaras	Gyali Jaras,Gyáli Járás	47.36821	19.27543	A	ADM2	HU		16	129			0		110	Europe/Budapest	2022-12-20
+9644356	Monori Járás	Monori Jaras	Monori Jaras,Monori Járás	47.3499	19.4768	A	ADM2	HU		16	130			0		157	Europe/Budapest	2019-06-10
+9644735	Nagykátai Járás	Nagykatai Jaras	Nagykatai Jaras,Nagykátai Járás	47.39109	19.7392	A	ADM2	HU		16	131			0		117	Europe/Budapest	2019-06-10
+9644736	Szigetszentmiklósi Járás	Szigetszentmiklosi Jaras	Szigetszentmiklosi Jaras,Szigetszentmiklósi Járás	47.30566	19.02829	A	ADM2	HU		16	136			0		95	Europe/Budapest	2019-06-10
+9644737	Ráckevei Járás	Rackevei Jaras	Rackevei Jaras,Ráckevei Járás	47.15158	19.01456	A	ADM2	HU		16	134			0		96	Europe/Budapest	2019-06-10
+9644738	Szentendrei Járás	Szentendrei Jaras	Szentendrei Jaras,Szentendrei Járás	47.71146	19.02524	A	ADM2	HU		16	135			0		404	Europe/Budapest	2022-12-20
+9644739	Pilisvörösvári Járás	Pilisvoeroesvari Jaras	Pilisvorosvari Jaras,Pilisvörösvári Járás	47.60925	18.86658	A	ADM2	HU		16	133			0		277	Europe/Budapest	2022-12-21
+9644740	Szobi Járás	Szobi Jaras	Szobi Jaras,Szobi Járás	47.93419	18.85438	A	ADM2	HU		16	137			0		400	Europe/Budapest	2022-12-21
+9644741	Vecsési Járás	Vecsesi Jaras	Vecsesi Jaras,Vecsési Járás	47.42923	19.30136	A	ADM2	HU		16	139			0		126	Europe/Budapest	2019-06-10
+9644742	Nagykőrösi Járás	Nagykoroesi Jaras	Nagykorosi Jaras,Nagykőrösi Járás	47.03563	19.79259	A	ADM2	HU		16	132			0		108	Europe/Budapest	2022-12-20
+9644744	Esztergomi Járás	Esztergomi Jaras	Esztergomi Jaras,Esztergomi Járás	47.70535	18.70334	A	ADM2	HU		12	110			0		305	Europe/Budapest	2022-12-20
+9644745	Tatabányai Járás	Tatabanyai Jaras	Tatabanyai Jaras,Tatabányai Járás	47.57568	18.47451	A	ADM2	HU		12	115			0		204	Europe/Budapest	2022-12-20
+9644746	Tatai Járás	Tatai Jaras	Tatai Jaras,Tatai Járás	47.66874	18.33721	A	ADM2	HU		12	114			0		157	Europe/Budapest	2019-06-10
+9644747	Komáromi Járás	Komaromi Jaras	Komaromi Jaras,Komáromi Járás	47.68552	18.06413	A	ADM2	HU		12	112			0		129	Europe/Budapest	2019-06-10
+9644748	Kisbéri Járás	Kisberi Jaras	Kisberi Jaras,Kisbéri Járás	47.4872	18.02142	A	ADM2	HU		12	111			0		191	Europe/Budapest	2022-12-20
+9644749	Oroszlányi Járás	Oroszlanyi Jaras	Oroszlanyi Jaras,Oroszlányi Járás	47.50245	18.25635	A	ADM2	HU		12	113			0		182	Europe/Budapest	2022-12-20
+9644750	Pápai Járás	Papai Jaras	Papai Jaras,Pápai Járás	47.33769	17.49663	A	ADM2	HU		23	187			0		147	Europe/Budapest	2022-12-20
+9644751	Zirci Járás	Zirci Jaras	Zirci Jaras,Zirci Járás	47.28583	17.88412	A	ADM2	HU		23	192			0		417	Europe/Budapest	2019-06-10
+9644752	Várpalotai Járás	Varpalotai Jaras	Varpalotai Jaras,Várpalotai Járás	47.18514	18.12211	A	ADM2	HU		23	190			0		147	Europe/Budapest	2019-06-10
+9644753	Balatonalmádi Járás	Balatonalmadi Jaras	Balatonalmadi Jaras,Balatonalmádi Járás	47.04174	18.09617	A	ADM2	HU		23	184			0		162	Europe/Budapest	2022-12-20
+9644754	Balatonfüredi Járás	Balatonfueredi Jaras	Balatonfuredi Jaras,Balatonfüredi Járás	46.93952	17.79411	A	ADM2	HU		23	185			0		164	Europe/Budapest	2022-12-20
+9644755	Tapolcai Járás	Tapolcai Jaras	Tapolcai Jaras,Tapolcai Járás	46.89833	17.4951	A	ADM2	HU		23	189			0		149	Europe/Budapest	2019-06-10
+9644756	Sümegi Járás	Suemegi Jaras	Sumegi Jaras,Sümegi Járás	47.02648	17.26779	A	ADM2	HU		23	188			0		144	Europe/Budapest	2022-12-20
+9644757	Ajkai Járás	Ajkai Jaras	Ajkai Jaras,Ajkai Járás	47.07988	17.56375	A	ADM2	HU		23	183			0		334	Europe/Budapest	2022-12-20
+9644758	Devecseri Járás	Devecseri Jaras	Devecseri Jaras,Devecseri Járás	47.16836	17.32271	A	ADM2	HU		23	186			0		160	Europe/Budapest	2022-12-20
+9644759	Veszprémi Járás	Veszpremi Jaras	Veszpremi Jaras,Veszprémi Járás	47.09666	17.82157	A	ADM2	HU		23	191			0		329	Europe/Budapest	2022-12-20
+9644763	Bicskei Járás	Bicskei Jaras	Bicskei Jaras,Bicskei Járás	47.4338	18.56757	A	ADM2	HU		08	077			0		171	Europe/Budapest	2019-06-10
+9644764	Martonvásári Járás	Martonvasari Jaras	Martonvasari Jaras,Martonvásári Járás	47.2904	18.79945	A	ADM2	HU		08	081			0		110	Europe/Budapest	2022-12-20
+9644765	Gárdonyi Járás	Gardonyi Jaras	Gardonyi Jaras,Gárdonyi Járás	47.22785	18.63622	A	ADM2	HU		08	080			0		102	Europe/Budapest	2022-12-20
+9644766	Dunaújvárosi Járás	Dunaujvarosi Jaras	Dunaujvarosi Jaras,Dunaújvárosi Járás	47.02801	18.82997	A	ADM2	HU		08	078			0		175	Europe/Budapest	2022-12-20
+9644767	Székesfehérvári Járás	Szekesfehervari Jaras	Szekesfehervari Jaras,Székesfehérvári Járás	47.16531	18.41349	A	ADM2	HU		08	085			0		109	Europe/Budapest	2022-12-20
+9644768	Sárbogárdi Járás	Sarbogardi Jaras	Sarbogardi Jaras,Sárbogárdi Járás	46.84036	18.60723	A	ADM2	HU		08	084			0		108	Europe/Budapest	2022-12-20
+9644770	Enyingi Járás	Enyingi Jaras	Enyingi Jaras,Enyingi Járás	46.8724	18.30975	A	ADM2	HU		08	079			0		148	Europe/Budapest	2022-12-20
+9644771	Móri Járás	Mori Jaras	Mori Jaras,Móri Járás	47.34685	18.19838	A	ADM2	HU		08	082			0		166	Europe/Budapest	2022-12-20
+9644772	Tamási Járás	Tamasi Jaras	Tamasi Jaras,Tamási Járás	46.65424	18.35857	A	ADM2	HU		21	174			0		141	Europe/Budapest	2022-12-20
+9644773	Dombóvári járás	Dombovari jaras	Dombovar District,Dombovari jaras,Dombóvár District,Dombóvári járás	46.45592	18.19076	A	ADM2	HU		21	171			0		123	Europe/Budapest	2022-12-20
+9644774	Bonyhádi járás	Bonyhadi jaras	Bonyhadi Jaras,Bonyhádi Járás	46.33998	18.49739	A	ADM2	HU		21	170			0		152	Europe/Budapest	2022-12-20
+9644775	Tolnai járás	Tolnai jaras	Tolnai Jaras,Tolnai Járás	46.42541	18.82691	A	ADM2	HU		21	175			0		86	Europe/Budapest	2022-12-20
+9644776	Szekszárdi járás	Szekszardi jaras	Szekszardi Jaras,Szekszárdi Járás	46.33998	18.67893	A	ADM2	HU		21	173			0		175	Europe/Budapest	2020-09-02
+9644777	Paksi járás	Paksi jaras	Paksi Jaras,Paksi Járás	46.66035	18.78572	A	ADM2	HU		21	172			0		139	Europe/Budapest	2020-09-02
+9644779	Jászberényi Járás	Jaszberenyi Jaras	Jaszberenyi Jaras,Jászberényi Járás	47.565	19.86887	A	ADM2	HU		20	162			0		97	Europe/Budapest	2022-12-20
+9644780	Jászapáti Járás	Jaszapati Jaras	Jaszapati Jaras,Jászapáti Járás	47.46126	20.06567	A	ADM2	HU		20	161			0		87	Europe/Budapest	2022-12-20
+9644781	Szolnoki Járás	Szolnoki Jaras	Szolnoki Jaras,Szolnoki Járás	47.2248	20.19839	A	ADM2	HU		20	167			0		82	Europe/Budapest	2022-12-20
+9644782	Törökszentmiklósi Járás	Toeroekszentmiklosi Jaras	Torokszentmiklosi Jaras,Törökszentmiklósi Járás	47.18209	20.44859	A	ADM2	HU		20	169			0		82	Europe/Budapest	2022-12-20
+9644783	Kunszentmártoni Járás	Kunszentmartoni Jaras	Kunszentmartoni Jaras,Kunszentmártoni Járás	46.87698	20.25179	A	ADM2	HU		20	165			0		82	Europe/Budapest	2022-12-20
+9644784	Mezőtúri Járás	Mezoturi Jaras	Mezoturi Jaras,Mezőtúri Járás	47.02495	20.59046	A	ADM2	HU		20	166			0		80	Europe/Budapest	2022-12-20
+9644785	Karcagi Járás	Karcagi Jaras	Karcagi Jaras,Karcagi Járás	47.28583	20.84218	A	ADM2	HU		20	163			0		82	Europe/Budapest	2022-12-20
+9644786	Tiszafüredi Járás	Tiszafueredi Jaras	Tiszafuredi Jaras,Tiszafüredi Járás	47.53907	20.78879	A	ADM2	HU		20	168			0		89	Europe/Budapest	2022-12-20
+9644787	Kunhegyesi Járás	Kunhegyesi Jaras	Kunhegyes District,Kunhegyesi Jaras,Kunhegyesi Járás	47.40329	20.59199	A	ADM2	HU		20	164			0		84	Europe/Budapest	2023-08-03
+12059754	Budapest II.	Budapest II.	Budapest 02. Kerulet,Budapest 02. Kerület,Budapest 2nd District,Budapest II. Kerulet,Budapest II. Kerület,Budapest Masodik Keruelet,Budapest Masodik Kerulet,Budapest Második Kerület	47.51722	19.02218	A	ADM2	HU		05	002			0		183	Europe/Budapest	2020-12-31
+12059755	Budapest X.	Budapest X.	Kobanya,Kőbánya	47.47639	19.15835	A	ADM2	HU		05	010			78414		140	Europe/Budapest	2020-03-16
+12059756	Budapest XIX.	Budapest XIX.	Kispest	47.45	19.14943	A	ADM2	HU		05	019			60731		116	Europe/Budapest	2020-03-16
+12059757	Budapest V.	Budapest V.	Belvaros-Lipotvaros,Belváros-Lipótváros	47.5	19.05115	A	ADM2	HU		05	005			26284		117	Europe/Budapest	2020-03-16
+12059758	Budapest XII.	Budapest XII.	Bergland,Hegyvidek,Hegyvidék	47.5	19.01493	A	ADM2	HU		05	012			58171		195	Europe/Budapest	2020-03-16
+12059759	Budapest IV.	Budapest IV.	Ujpest,Újpest	47.56667	19.08909	A	ADM2	HU		05	004			100694		108	Europe/Budapest	2020-03-16
+12059760	Budapest XI.	Budapest XI.	Budapest 11. Kerulet,Budapest 11. Kerület,Budapest 11th District,Budapest Tizenegyedik Kerulet,Budapest Tizenegyedik Kerület,Budapest XI. Kerulet,Budapest XI. Kerület,New Buda,Ujbuda,Újbuda	47.475	19.03605	A	ADM2	HU		05	011			151812		109	Europe/Budapest	2020-03-16
+12059761	Budapest VIII.	Budapest VIII.	Budapest 08. Kerulet,Budapest 08. Kerület,Budapest 8th District,Budapest Nyolcadik Kerulet,Budapest Nyolcadik Kerület,Budapest VIII. Kerulet,Budapest VIII. Kerület,Josefstadt,Joseph Town,Jozsefvaros,Józsefváros	47.48944	19.07012	A	ADM2	HU		05	008			76811		115	Europe/Budapest	2024-10-09
+12059762	Budapest XVI.	Budapest XVI.	Budapest 16. Kerulet,Budapest 16. Kerület,Budapest 16th District,Budapest Tizenhatodik Kerulet,Budapest Tizenhatodik Kerület,Budapest XVI. Kerulet,Budapest XVI. Kerület	47.5154	19.17028	A	ADM2	HU		05	016			0		146	Europe/Budapest	2020-12-31
+12059763	Budapest III.	Budapest III.	Obuda-Bekasmegyer,Óbuda-Békásmegyer	47.5674	19.04501	A	ADM2	HU		05	003			130415		101	Europe/Budapest	2020-03-16
+12059764	Budapest XV.	Budapest XV.	Budapest 15. Kerulet,Budapest 15. Kerület,Budapest 15th District,Budapest Tizenotodik Kerulet,Budapest Tizenötödik Kerület,Budapest XV. Kerulet,Budapest XV. Kerület	47.56667	19.11681	A	ADM2	HU		05	015			0		111	Europe/Budapest	2020-12-31
+12059765	Budapest XVIII.	Budapest XVIII.	Pestszentlorinc-Pestszentimre,Pestszentlőrinc-Pestszentimre,Sankt Lorenz-Sankt Emmerich	47.43333	19.17595	A	ADM2	HU		05	018			101738		120	Europe/Budapest	2021-05-28
+12059766	Budapest XXIII.	Budapest XXIII.	Markt,Soroksar,Soroksár	47.3964	19.11492	A	ADM2	HU		05	023			23641		105	Europe/Budapest	2020-03-16
+12059767	Budapest XXII.	Budapest XXII.	Budafok-Teteny,Budafok-Tétény	47.425	19.04016	A	ADM2	HU		05	022			54611		108	Europe/Budapest	2020-03-16
+12059768	Budapest XXI.	Budapest XXI.	Csepel,Tschepele	47.41667	19.07098	A	ADM2	HU		05	021			76911		100	Europe/Budapest	2020-03-16
+12059769	Budapest XX.	Budapest XX.	Pesterzsebet,Pesterzsébet	47.43333	19.10093	A	ADM2	HU		05	020			65321		112	Europe/Budapest	2020-03-16
+12059770	Budapest XVII.	Budapest XVII.	Rakosmente,Rákosmente	47.4803	19.25388	A	ADM2	HU		05	017			87793		137	Europe/Budapest	2020-03-16
+12059771	Budapest I.	Budapest I.	Varkeruelet,Várkerület	47.4975	19.03961	A	ADM2	HU		05	001			25196		123	Europe/Budapest	2020-03-16
+12059772	Budapest VI.	Budapest VI.	Terezvaros,Terézváros,Theresa Town,Theresienstadt	47.50972	19.06583	A	ADM2	HU		05	006			38504		115	Europe/Budapest	2020-03-16
+12059773	Budapest XIII.	Budapest XIII.	Budapest 13. Kerulet,Budapest 13. Kerület,Budapest 13th District,Budapest Tizenharmadik Kerulet,Budapest Tizenharmadik Kerület,Budapest XIII. Kerulet,Budapest XIII. Kerület	47.5186	19.06976	A	ADM2	HU		05	013			0		105	Europe/Budapest	2020-12-31
+12059774	Budapest XIV.	Budapest XIV.	Bergland,Budapest 14. Kerulet,Budapest 14. Kerület,Budapest 14th District,Budapest Tizennegyedik Kerulet,Budapest Tizennegyedik Kerület,Budapest XIV. Kerulet,Budapest XIV. Kerület,Hegyvidek,Hegyvidék,Lerchenfeld,Zuglo,Zugló	47.5	19.10549	A	ADM2	HU		05	014			58171		114	Europe/Budapest	2023-08-03
+12059775	Budapest VII.	Budapest VII.	Elisabethstadt,Elizabethtown,Erzsebetvaros,Erzsébetváros	47.50056	19.07218	A	ADM2	HU		05	007			53381		113	Europe/Budapest	2020-03-16
+12059776	Budapest IX.	Budapest IX.	Ferencvaros,Ferencváros	47.466	19.09081	A	ADM2	HU		05	009			59056		112	Europe/Budapest	2020-03-16

@@ -1,0 +1,33 @@
+﻿7521581	Abaiang	Abaiang	Abaiang,atoll Abaiang,Абаианг,атолл Абаианг	1.85293	172.94369	A	ADM2	KI		01	AG			5502		-9999	Pacific/Tarawa	2020-06-12
+7521582	Abemama	Abemama	AEA,Abemama,Ampemama,Atol Abemama,a bei ma ma huan jiao,abemama,abmama,Αμπεμάμα,Абемама,Աբեմամա,אבמאמה,آبماما,აბემამა,阿貝馬馬環礁,아베마마	0.4	173.86667	A	ADM2	KI		01	AM			3404		-9999	Pacific/Tarawa	2016-12-17
+7521583	Aranuka	Aranuka		0.16428	173.60579	A	ADM2	KI		01	AK			1158		-9999	Pacific/Tarawa	2010-10-29
+7521584	Arorae	Arorae	Arorai,Arurai,Hope Island,Hurd	-2.63493	176.82229	A	ADM2	KI		01	AO			1256		8	Pacific/Tarawa	2013-12-19
+7521585	Banaba	Banaba	Ocean Island	-0.855	169.538	A	ADM2	KI		01	BA			335		69	Pacific/Tarawa	2013-12-20
+7521586	Beru	Beru	Eliza,Francis Island,Maria,Peroat,Peru Island	-1.32957	175.98072	A	ADM2	KI		01	BE			2169		-9999	Pacific/Tarawa	2013-12-20
+7521587	Birnie	Birnie		-3.58333	-171.51667	A	ADM2	KI		03	BI			0		0	Pacific/Kanton	2021-10-02
+7521588	Butaritari	Butaritari		3.17205	172.79675	A	ADM2	KI		01	BT			3280		-9999	Pacific/Tarawa	2013-12-20
+7521589	Caroline	Caroline	Beccisa Island,Caroline Atoll,Millennium Island	-9.95871	-150.20748	A	ADM2	KI		02	CA			0		-9999	Pacific/Kiritimati	2013-12-20
+7521590	Enderbury	Enderbury	Guano Island	-3.13333	-171.08333	A	ADM2	KI		03	EN			0		2	Pacific/Kanton	2021-10-02
+7521591	Flint	Flint		-11.43149	-151.81852	A	ADM2	KI		02	FL			0		23	Pacific/Kiritimati	2013-12-20
+7521592	Kanton	Kanton	Abariringa Island,Canton Island,Mary Balcout's Island,Mary Island,Swallow Island	-2.81	-171.678	A	ADM2	KI		03	KA			41		-9999	Pacific/Kanton	2021-10-02
+7521593	Kiritimati	Kiritimati	Christmas Island	1.94	-157.475	A	ADM2	KI		02	KT			5115		-9999	Pacific/Kiritimati	2013-12-20
+7521594	Kuria	Kuria		0.26522	173.38881	A	ADM2	KI		01	KU			1082		11	Pacific/Tarawa	2013-12-20
+7521595	Maiana	Maiana		0.91869	172.99759	A	ADM2	KI		01	MI			1908		-9999	Pacific/Tarawa	2010-11-01
+7521596	Makin	Makin		3.38816	172.99656	A	ADM2	KI		01	MN			2385		12	Pacific/Tarawa	2013-12-20
+7521597	Malden	Malden	Independence Island	-4.01873	-154.92954	A	ADM2	KI		02	ML			0		1	Pacific/Kiritimati	2013-12-20
+7521598	Manra	Manra	Sydney Island	-4.45561	-171.24415	A	ADM2	KI		03	MA			0		0	Pacific/Kanton	2021-10-02
+7521599	Marakei	Marakei		2.01077	173.27637	A	ADM2	KI		01	ME			2741		0	Pacific/Tarawa	2010-11-01
+7521600	McKean	McKean		-3.59562	-174.12292	A	ADM2	KI		03	MK			0		3	Pacific/Kanton	2021-10-02
+7521601	Nikumaroro	Nikumaroro	Gardner Island	-4.67412	-174.52246	A	ADM2	KI		03	NK			0		1	Pacific/Kanton	2021-10-02
+7521602	Nikunau	Nikunau	Nikounaou,Nikunau,ni ku nao dao,nikunau seom,nykwnaw,Νικουνάου,Никунау,ניקונאו,نیکوناو,尼庫瑙島,니쿠나우 섬	-1.36567	176.46412	A	ADM2	KI		01	NI			1912		12	Pacific/Tarawa	2013-12-21
+7521603	Nonouti	Nonouti	NON	-0.66667	174.35	A	ADM2	KI		01	NO			2792		-9999	Pacific/Tarawa	2023-02-06
+7521604	Onotoa	Onotoa		-1.88587	175.56393	A	ADM2	KI		01	ON			1644		-9999	Pacific/Tarawa	2010-10-22
+7521605	Orona	Orona		-4.51667	-172.18333	A	ADM2	KI		03	OR			0		-9999	Pacific/Kanton	2021-10-02
+7521606	Rawaki	Rawaki		-3.71667	-170.71667	A	ADM2	KI		03	RA			0		8	Pacific/Kanton	2021-10-02
+7521607	Starbuck	Starbuck	Volunteer Island	-5.63632	-155.89531	A	ADM2	KI		02	SB			0		7	Pacific/Kiritimati	2013-12-21
+7521608	Tabiteuea	Tabiteuea		-1.42241	174.89805	A	ADM2	KI		01	TR			4898		-9999	Pacific/Tarawa	2013-12-21
+7521609	Tabuaeran	Tabuaeran	Atol Tabuaehran,Atol Tabuaeran,Fanninginsaari,TNV,Tabuaehran,Tabuaeran,Tampouaeran,ta bu a ai lan huan jiao,tabua-elan seom,tabuaeran dao,Ταμπουαεράν,Атол Табуаэран,Табуаеран,Табуаэран,טבואאראן,ടാബീറൻ,タブアエラン島,塔布阿埃蘭環礁,타부아에란 섬	3.86667	-159.33333	A	ADM2	KI		02	TU			2539		-9999	Pacific/Kiritimati	2017-06-02
+7521610	Tamana	Tamana	TMN	-2.50113	175.98621	A	ADM2	KI		01	TM			875		9	Pacific/Tarawa	2017-06-02
+7521611	Tarawa	Tarawa		1.419	172.984	A	ADM2	KI		01	TW			45989		-9999	Pacific/Tarawa	2013-12-21
+7521612	Teraina	Teraina	Washington Island	4.68764	-160.38803	A	ADM2	KI		02	TE			1155		24	Pacific/Kiritimati	2013-12-21
+7521613	Vostok	Vostok	Anne Island,Bostock Island,Staver Island,Wostock Island,Wostok Island	-10.06318	-152.31068	A	ADM2	KI		02	VO			0		-9999	Pacific/Kiritimati	2013-12-21

@@ -1,0 +1,167 @@
+﻿3533721	Municipio de Yateras	Municipio de Yateras	Municipio de Yateras,Yateras	20.3913	-74.91967	A	ADM2	CU		10	3503			0		651	America/Havana	2018-07-04
+3533822	Municipio de Yaguajay	Municipio de Yaguajay	Municipio de Yaguajay,Yaguajay	22.31667	-79.23333	A	ADM2	CU		14	2801			0		24	America/Havana	2018-07-04
+3534093	Municipio de Viñales	Municipio de Vinales	Municipio de Vinales,Municipio de Viñales	22.61773	-83.72196	A	ADM2	CU		01	2104			0		164	America/Havana	2016-11-21
+3534760	Municipio de Unión de Reyes	Municipio de Union de Reyes	Municipio de Union de Reyes,Municipio de Unión de Reyes,Union de Reyes,Unión de Reyes	22.6811	-81.51592	A	ADM2	CU		03	2509			0		18	America/Havana	2018-07-04
+3534905	Municipio de Trinidad	Municipio de Trinidad	Municipio de Trinidad,Trinidad	21.83195	-79.88362	A	ADM2	CU		14	2806			0		57	America/Havana	2018-07-04
+3536629	Municipio de Santo Domingo	Municipio de Santo Domingo	Municipio de Santo Domingo,Santo Domingo	22.60862	-80.37201	A	ADM2	CU		16	2611			0		74	America/Havana	2018-07-04
+3536726	Municipio de Santiago de Cuba	Municipio de Santiago de Cuba	Municipio de Santiago de Cuba,Santiago de Cuba	20.00617	-75.70816	A	ADM2	CU		15	3406			0		229	America/Havana	2018-07-04
+3537524	Municipio de Santa Isabel de las Lajas	Municipio de Santa Isabel de las Lajas	Lajas,Municipio de Santa Isabel de las Lajas,Municipio de Santo Isabel de las Lajas	22.41667	-80.3	A	ADM2	CU		08	2704			0		69	America/Havana	2016-11-21
+3537839	Municipio de Santa Cruz del Sur	Municipio de Santa Cruz del Sur	Municipio de Santa Cruz del Sur,Santa Cruz del Sur	20.82135	-78.03738	A	ADM2	CU		05	3013			0		14	America/Havana	2018-07-04
+3537843	Municipio de Santa Cruz del Norte	Municipio de Santa Cruz del Norte	Municipio de Santa Cruz del Norte,Santa Cruz del Norte	23.11883	-81.86326	A	ADM2	CU		MA	2404			0		47	America/Havana	2018-07-04
+3537891	Municipio de Santa Clara	Municipio de Santa Clara	Municipio de Santa Clara,Santa Clara	22.4	-79.96667	A	ADM2	CU		16	2609			0		122	America/Havana	2018-07-04
+3538748	Municipio de San Nicolás	Municipio de San Nicolas	Municipio de San Nicolas,Municipio de San Nicolás,San Nicolas,San Nicolas de Bari,San Nicolás,San Nicolás de Bari	22.75108	-81.89299	A	ADM2	CU		MA	2407			0		15	America/Havana	2018-07-04
+3539072	Municipio de San Luis	Municipio de San Luis	Municipio de San Luis,San Luis,San Luis Pinar del Rio,San Luis Pinar del Río	22.25773	-83.68446	A	ADM2	CU		01	2109			0		12	America/Havana	2018-07-04
+3539073	Municipio de San Luis	Municipio de San Luis	Municipio de San Luis,San Luis,San Luis Oriente	20.26856	-75.82735	A	ADM2	CU		15	3403			0		149	America/Havana	2018-07-04
+3539257	Municipio de San Juan y Martínez	Municipio de San Juan y Martinez	Municipio de San Juan y Martinez,Municipio de San Juan y Martínez,San Juan y Martinez,San Juan y Martínez	22.30213	-83.8366	A	ADM2	CU		01	2110			0		54	America/Havana	2018-07-04
+3539285	Remedios	Remedios	Municipio de Remedios,Municipio de San Juan de los Remedios,Remedios,lei mei di ao si,remediosi,remedjiosu,rmdyws,Ρεμέδιος,Ремедиос,Ремедіос,רמדיוס,რემედიოსი,レメヂオス,雷梅迪奥斯,雷梅迪奧斯	22.3041	-79.53037	A	ADM2	CU		16	2607			0		152	America/Havana	2018-07-04
+3539559	Municipio de San José de las Lajas	Municipio de San Jose de las Lajas	Municipio de San Jose de las Lajas,Municipio de San José de las Lajas,San Jose de las Lajas,San José de las Lajas	22.96667	-82.15	A	ADM2	CU		MA	2402			0		137	America/Havana	2018-07-04
+3540666	Municipio de Sancti Spíritus	Municipio de Sancti Spiritus	Municipio de Sancti Spiritus,Municipio de Sancti Spíritus,Sancti Spiritus,Sancti Spíritus	21.82176	-79.51036	A	ADM2	CU		14	2807			0		80	America/Havana	2018-07-04
+3540673	Municipio de San Cristóbal	Municipio de San Cristobal	Municipio de San Cristobal,Municipio de San Cristóbal	22.71446	-83.04561	A	ADM2	CU		AR	2211			0		54	America/Havana	2017-12-25
+3540884	Municipio de San Antonio de los Baños	Municipio de San Antonio de los Banos	Municipio de San Antonio de los Banos,Municipio de San Antonio de los Baños,San Antonio de los Banos,San Antonio de los Baños	22.86214	-82.49661	A	ADM2	CU		AR	2206			0		36	America/Havana	2018-07-04
+3541437	Municipio de Sagua la Grande	Municipio de Sagua la Grande	Municipio de Sagua la Grande,Sagua la Grande	22.82571	-80.06507	A	ADM2	CU		16	2603			0		10	America/Havana	2018-07-04
+3541444	Municipio de Sagua de Tánamo	Municipio de Sagua de Tanamo	Municipio de Sagua de Tanamo,Municipio de Sagua de Tánamo,Sagua de Tanamo,Sagua de Tánamo	20.58333	-75.23333	A	ADM2	CU		12	3213			0		16	America/Havana	2018-07-04
+3541997	Municipio de Rodas	Municipio de Rodas	Municipio de Rodas,Rodas	22.36362	-80.56521	A	ADM2	CU		08	2702			0		25	America/Havana	2018-07-04
+3542500	Municipio de Regla	Municipio de Regla	Municipio de Regla,Regla	23.10994	-82.3211	A	ADM2	CU		02	2305			0		15	America/Havana	2018-07-04
+3542741	Municipio de Ranchuelo	Municipio de Ranchuelo	Municipio de Ranchuelo,Ranchuelo	22.38333	-80.15	A	ADM2	CU		16	2612			0		105	America/Havana	2018-07-04
+3542963	Municipio de Quivicán	Municipio de Quivican	Municipio de Quivican,Municipio de Quivicán,Quivican,Quivicán	22.79358	-82.38456	A	ADM2	CU		MA	2411			0		28	America/Havana	2018-07-04
+3543076	Municipio de Quemado de Güines	Municipio de Quemado de Gueines	Municipio de Quemado de Guines,Municipio de Quemado de Güines,Quemado de Guines,Quemado de Güines	22.7811	-80.28885	A	ADM2	CU		16	2602			0		78	America/Havana	2018-07-04
+3543297	Municipio de Puerto Padre	Municipio de Puerto Padre	Municipio de Puerto Padre,Puerto Padre	21.16925	-76.74863	A	ADM2	CU		13	3102			0		30	America/Havana	2018-07-04
+3543960	Municipio de Placetas	Municipio de Placetas	Municipio de Placetas,Placetas	22.22248	-79.74268	A	ADM2	CU		16	2608			0		166	America/Havana	2018-07-04
+3544089	Municipio de Pinar del Río	Municipio de Pinar del Rio	Municipio de Pinar del Rio,Municipio de Pinar del Río,Pinar del Rio,Pinar del Río	22.36969	-83.58488	A	ADM2	CU		01	2108			0		34	America/Havana	2018-07-04
+3544391	Municipio de Perico	Municipio de Perico	Municipio de Perico,Perico	22.78849	-80.99623	A	ADM2	CU		03	2505			0		42	America/Havana	2018-07-04
+3544606	Municipio de Pedro Betancourt	Municipio de Pedro Betancourt	Municipio de Pedro Betancourt,Pedro Betancourt	22.6926	-81.31818	A	ADM2	CU		03	2507			0		13	America/Havana	2018-07-04
+3545037	Municipio de Palmira	Municipio de Palmira	Municipio de Palmira,Palmira	22.2821	-80.44067	A	ADM2	CU		08	2703			0		39	America/Havana	2018-07-04
+3545062	Municipio de Palma Soriano	Municipio de Palma Soriano	Municipio de Palma Soriano,Palma Soriano	20.20897	-76.05776	A	ADM2	CU		15	3407			0		213	America/Havana	2018-07-04
+3545838	Municipio de Nuevitas	Municipio de Nuevitas	Municipio de Nuevitas,Nuevitas	21.55	-77.26667	A	ADM2	CU		05	3005			0		24	America/Havana	2018-07-04
+3545853	Municipio de Nueva Paz	Municipio de Nueva Paz	Municipio de Nueva Paz,Nueva Paz	22.76667	-81.75	A	ADM2	CU		MA	2406			0		19	America/Havana	2018-07-04
+3545978	Municipio de Niquero	Municipio de Niquero	Municipio de Niquero,Niquero	19.93912	-77.57085	A	ADM2	CU		09	3309			0		99	America/Havana	2018-07-04
+3546433	Municipio de Morón	Municipio de Moron	Moron,Morón,Municipio de Moron,Municipio de Morón	22.2998	-78.56875	A	ADM2	CU		07	2902			0		0	America/Havana	2018-07-04
+3547180	Municipio de Melena del Sur	Municipio de Melena del Sur		22.78821	-82.15113	A	ADM2	CU		MA	2409			20646		33	America/Havana	2016-11-21
+3547315	Municipio de Mayarí	Municipio de Mayari	Mayari,Mayarí,Municipio de Mayari,Municipio de Mayarí	20.65	-75.68333	A	ADM2	CU		12	3211			0		18	America/Havana	2018-07-04
+3547395	Municipio de Matanzas	Municipio de Matanzas	Matanzas,Municipio de Matanzas	23.05	-81.58333	A	ADM2	CU		03	2501			0		33	America/Havana	2018-07-04
+3547517	Municipio de Martí	Municipio de Marti	Marti,Martí,Municipio de Marti,Municipio de Martí	22.98591	-80.85038	A	ADM2	CU		03	2503			0		13	America/Havana	2018-07-04
+3547597	Municipio de Mariel	Municipio de Mariel	Mariel,Municipio de Mariel	22.96515	-82.80324	A	ADM2	CU		AR	2202			0		26	America/Havana	2018-07-04
+3547639	Municipio de Marianao	Municipio de Marianao	Marianao,Municipio de Marianao	23.07005	-82.38406	A	ADM2	CU		02	2311			0		42	America/Havana	2018-07-04
+3547864	Municipio de Manzanillo	Municipio de Manzanillo	Manzanillo,Municipio de Manzanillo	20.24732	-77.10273	A	ADM2	CU		09	3306			0		20	America/Havana	2018-07-04
+3547929	Municipio de Mantua	Municipio de Mantua	Mantua,Municipio de Mantua	22.32832	-84.23986	A	ADM2	CU		01	2102			0		55	America/Havana	2018-07-04
+3548528	Municipio de Madruga	Municipio de Madruga	Madruga,Municipio de Madruga	22.9207	-81.80804	A	ADM2	CU		MA	2405			0		259	America/Havana	2018-07-04
+3548992	Municipio de Los Palacios	Municipio de Los Palacios	Los Palacios,Municipio de Los Palacios	22.58333	-83.25	A	ADM2	CU		01	2106			0		43	America/Havana	2018-07-04
+3549462	Municipio de Los Arabos	Municipio de Los Arabos	Los Arabos,Municipio de Los Arabos	22.61684	-80.66338	A	ADM2	CU		03	2513			0		75	America/Havana	2018-07-04
+3549839	Limonar	Limonar	Limonar,Municipio Cidra,Municipio de Limonar,Santa Ana,Santa Ana-Cidra,li mo na er,limonari,lymwnar,lymwnr,rimona,Лимонар,לימונר,ليمونار,ლიმონარი,リモナー,利莫納爾,利莫纳尔	22.90508	-81.49162	A	ADM2	CU		03	2508			0		92	America/Havana	2018-07-04
+3550596	Municipio de Las Tunas	Municipio de Las Tunas	Las Tunas,Municipio de Las Tunas,Municipio de Victoria de las Tunas	20.94178	-77.02354	A	ADM2	CU		13	3105			0		89	America/Havana	2018-07-04
+3552311	Municipio de La Palma	Municipio de La Palma	La Palma,Municipio de Consolacion del Norte,Municipio de Consolación del Norte,Municipio de La Palma	22.75	-83.55	A	ADM2	CU		01	2105			0		50	America/Havana	2018-07-04
+3555906	Municipio de Jovellanos	Municipio de Jovellanos	Jovellanos,Municipio de Jovellanos	22.8	-81.2	A	ADM2	CU		03	2506			0		40	America/Havana	2018-07-04
+3556166	Municipio de Jiguaní	Municipio de Jiguani	Jiguani,Jiguaní,Municipio de Jiguani,Municipio de Jiguaní	20.42234	-76.38612	A	ADM2	CU		09	3303			0		97	America/Havana	2018-07-04
+3556333	Municipio de Jatibonico	Municipio de Jatibonico	Jatibonico,Municipio de Jatibonico	21.93333	-79.16667	A	ADM2	CU		14	2802			0		75	America/Havana	2018-07-04
+3556347	Municipio de Jaruco	Municipio de Jaruco	Jaruco,Municipio de Jaruco	23.0592	-81.97195	A	ADM2	CU		MA	2403			0		121	America/Havana	2018-07-04
+3556436	Municipio de Jagüey Grande	Municipio de Jagueey Grande	Municipio de Jaguey Grande,Municipio de Jagüey Grande	22.53333	-81.11667	A	ADM2	CU		03	2511			0		12	America/Havana	2016-11-21
+3556966	Municipio de Holguín	Municipio de Holguin	Holguin,Holguín,Municipio de Holguin,Municipio de Holguín	20.91192	-76.27057	A	ADM2	CU		12	3206			0		169	America/Havana	2018-07-04
+3557346	Municipio de Güira de Melena	Municipio de Gueira de Melena	Guira de Melena,Güira de Melena,Municipio de Guira de Melena,Municipio de Güira de Melena	22.75415	-82.48573	A	ADM2	CU		AR	2207			0		10	America/Havana	2018-07-04
+3557376	Municipio de Güines	Municipio de Gueines	Guines,Güines,Municipio de Guines,Municipio de Güines	22.78712	-82.01602	A	ADM2	CU		MA	2408			0		33	America/Havana	2018-07-04
+3557686	Municipio de Guantánamo	Municipio de Guantanamo	Guantanamo,Guantánamo,Municipio de Guantanamo,Municipio de Guantánamo	20.26723	-75.15546	A	ADM2	CU		10	3509			0		389	America/Havana	2018-07-04
+3557756	Municipio de Guane	Municipio de Guane	Guane,Municipio de Guane	22.24591	-84.0366	A	ADM2	CU		01	2111			0		79	America/Havana	2018-07-04
+3557800	Municipio de Guanajay	Municipio de Guanajay	Guanajay,Municipio de Guanajay	22.89215	-82.70873	A	ADM2	CU		AR	2203			0		105	America/Havana	2018-07-04
+3557845	Municipio de Guanabacoa	Municipio de Guanabacoa	Guanabacoa,Municipio de Guanabacoa	23.07549	-82.29205	A	ADM2	CU		02	2307			0		62	America/Havana	2023-05-31
+3557921	Municipio de Guáimaro	Municipio de Guaimaro	Guaimaro,Guáimaro,Municipio de Guaimaro,Municipio de Guáimaro	21.26454	-77.31442	A	ADM2	CU		05	3006			0		38	America/Havana	2018-07-04
+3558314	Municipio de Gibara	Municipio de Gibara	Gibara,Municipio de Gibara	21.09515	-76.29089	A	ADM2	CU		12	3201			0		98	America/Havana	2018-07-04
+3558742	Municipio de Fomento	Municipio de Fomento	Fomento,Municipio de Fomento	21.98156	-79.6945	A	ADM2	CU		14	2805			0		330	America/Havana	2018-07-04
+3558766	Municipio de Florida	Municipio de Florida	Florida,Municipio de Florida	21.46582	-78.34848	A	ADM2	CU		05	3009			0		35	America/Havana	2018-07-04
+3559316	Municipio de Esmeralda	Municipio de Esmeralda	Esmeralda,Municipio de Esmeralda	21.84439	-78.02536	A	ADM2	CU		05	3002			0		19	America/Havana	2018-07-04
+3559414	Municipio de Encrucijada	Municipio de Encrucijada	Encrucijada,Municipio de Encrucijada	22.67176	-79.81836	A	ADM2	CU		16	2604			0		12	America/Havana	2018-07-04
+3563143	Municipio de Cruces	Municipio de Cruces	Cruces,Municipio de Cruces	22.23881	-80.21248	A	ADM2	CU		08	2705			0		110	America/Havana	2018-07-04
+3563312	Municipio de Corralillo	Municipio de Corralillo	Corralillo,Municipio de Corralillo	22.87862	-80.51187	A	ADM2	CU		16	2601			0		81	America/Havana	2018-07-04
+3563558	Municipio de Consolación del Sur	Municipio de Consolacion del Sur	Consolacion del Sur,Consolación del Sur,Municipio de Consolacion del Sur,Municipio de Consolación del Sur	22.44095	-83.41985	A	ADM2	CU		01	2107			0		24	America/Havana	2018-07-04
+3563841	Municipio de Colón	Municipio de Colon	Colon,Colón,Municipio de Colon,Municipio de Colón	22.73107	-80.85035	A	ADM2	CU		03	2504			0		74	America/Havana	2018-07-04
+3564113	Municipio de Cifuentes	Municipio de Cifuentes	Municipio de Cifuentes	22.64	-80.1	A	ADM2	CU		16	2610			0		62	America/Havana	2016-11-21
+3564121	Municipio de Cienfuegos	Municipio de Cienfuegos	Cienfuegos,Municipio de Cienfuegos	22.15	-80.45	A	ADM2	CU		08	2707			0		6	America/Havana	2018-07-04
+3564176	Municipio de Ciego de Ávila	Municipio de Ciego de Avila	Ciego de Avila,Ciego de Ávila,Municipio de Ciego de Avila,Municipio de Ciego de Ávila	21.85	-78.76667	A	ADM2	CU		07	2908			0		50	America/Havana	2018-07-04
+3565430	Municipio de Cárdenas	Municipio de Cardenas	Cardenas,Cárdenas,Municipio de Cardenas,Municipio de Cárdenas	22.98978	-81.2352	A	ADM2	CU		03	2502			0		61	America/Havana	2018-07-04
+3565758	Municipio de Candelaria	Municipio de Candelaria	Candelaria,Municipio de Candelaria	22.7531	-82.96084	A	ADM2	CU		AR	2210			0		51	America/Havana	2018-07-04
+3565950	Municipio de Campechuela	Municipio de Campechuela	Campechuela,Municipio de Campechuela	20.11843	-77.24198	A	ADM2	CU		09	3307			0		38	America/Havana	2018-07-04
+3566053	Municipio de Camajuaní	Municipio de Camajuani	Camajuani,Camajuaní,Municipio de Camajuani,Municipio de Camajuaní	22.46667	-79.73333	A	ADM2	CU		16	2605			0		103	America/Havana	2018-07-04
+3566063	Municipio de Camagüey	Municipio de Camagueey	Camaguey,Camagüey,Municipality of Camagueey,Municipality of Camagüey,Municipio de Camaguey,Municipio de Camagüey	21.43728	-77.96172	A	ADM2	CU		05	3008			0		109	America/Havana	2018-07-04
+3566283	Municipio de Caimito	Municipio de Caimito	Caimito,Municipio de Caimito,Municipio de Caimito del Guayabal	22.95	-82.6	A	ADM2	CU		AR	2204			0		74	America/Havana	2016-11-21
+3566354	Municipio de Caibarién	Municipio de Caibarien	Caibarien,Caibarién,Municipio de Caibarien,Municipio de Caibarién	22.51996	-79.46599	A	ADM2	CU		16	2606			0		3	America/Havana	2018-07-04
+3566602	Municipio de Cabaiguán	Municipio de Cabaiguan	Cabaiguan,Cabaiguán,Municipio de Cabaiguan,Municipio de Cabaiguán	22.08333	-79.5	A	ADM2	CU		14	2804			0		134	America/Havana	2018-07-04
+3567544	Municipio de Bejucal	Municipio de Bejucal	Bejucal,Municipio de Bejucal	22.90647	-82.33723	A	ADM2	CU		MA	2401			0		120	America/Havana	2018-07-04
+3567595	Municipio de Bayamo	Municipio de Bayamo	Bayamo,Municipio de Bayamo	20.42511	-76.68614	A	ADM2	CU		09	3304			0		41	America/Havana	2018-07-04
+3567611	Municipio de Bauta	Municipio de Bauta	Bauta,Municipio de Bauta	22.96957	-82.49997	A	ADM2	CU		AR	2205			0		87	America/Havana	2018-07-04
+3567653	Municipio de Batabanó	Municipio de Batabano	Batabano,Batabanó,Municipio de Batabano,Municipio de Batabanó	22.71667	-82.28333	A	ADM2	CU		MA	2410			0		7	America/Havana	2018-07-04
+3567831	Municipio de Baracoa	Municipio de Baracoa	Baracoa,Municipio de Baracoa	20.36823	-74.58483	A	ADM2	CU		10	3504			0		163	America/Havana	2018-07-04
+3567863	Municipio de Banes	Municipio de Banes	Banes,Municipio de Banes	20.98008	-75.74933	A	ADM2	CU		12	3203			0		43	America/Havana	2018-07-04
+3568311	Municipio de Artemisa	Municipio de Artemisa	Artemisa,Municipio de Artemisa	22.77383	-82.80419	A	ADM2	CU		AR	2209			0		25	America/Havana	2018-07-04
+3568725	Municipio de Antilla	Municipio de Antilla	Antilla,Municipio de Antilla	20.83333	-75.73333	A	ADM2	CU		12	3204			0		22	America/Havana	2018-07-04
+3569135	Municipio de Alquízar	Municipio de Alquizar	Alquizar,Alquízar,Municipio de Alquizar,Municipio de Alquízar	22.75239	-82.60085	A	ADM2	CU		AR	2208			0		9	America/Havana	2018-07-04
+3569544	Municipio de Aguada de Pasajeros	Municipio de Aguada de Pasajeros	Municipio de Aguada de Pasajeros	22.39698	-80.84702	A	ADM2	CU		08	2701			0		25	America/Havana	2016-11-21
+3569740	Municipio de Abreus	Municipio de Abreus	Abreus,Municipio de Abreus	22.19229	-80.71465	A	ADM2	CU		08	2708			0		22	America/Havana	2018-07-04
+9347806	Municipio de Calixto Garcia	Municipio de Calixto Garcia		20.84321	-76.59093	A	ADM2	CU		12	3207			0		94	America/Havana	2016-11-21
+11287605	Sandino	Sandino		22.08031	-84.20602	A	ADM2	CU		01	2101			0		12	America/Havana	2016-11-21
+11287700	Municipio de Jobabo	Municipio de Jobabo		20.90778	-77.28306	A	ADM2	CU		13	3106			0		52	America/Havana	2016-11-21
+11287705	Municipio de Manatí	Municipio de Manati		21.31444	-76.93778	A	ADM2	CU		13	3101			0		8	America/Havana	2016-11-21
+11287706	Municipio de Jesús Menéndez	Municipio de Jesus Menendez		21.16333	-76.4775	A	ADM2	CU		13	3103			0		15	America/Havana	2016-11-21
+11287707	Municipio de Baraguá	Municipio de Baragua		21.68194	-78.62444	A	ADM2	CU		07	2910			0		7	America/Havana	2016-11-21
+11287708	Municipio de Ciro Redondo	Municipio de Ciro Redondo		22.01889	-78.70306	A	ADM2	CU		07	2905			0		44	America/Havana	2016-11-21
+11287709	Municipio de Chambas	Municipio de Chambas		22.19667	-78.91333	A	ADM2	CU		07	2901			0		42	America/Havana	2023-05-30
+11287710	Municipio de Río Cauto	Municipio de Rio Cauto		20.56361	-76.91722	A	ADM2	CU		09	3301			0		14	America/Havana	2016-11-21
+11288064	Minas De Matahambre	Minas De Matahambre		22.58452	-83.94692	A	ADM2	CU		01	2103			0		125	America/Havana	2016-11-21
+11288065	Arroyo Naranjo	Arroyo Naranjo		23.01775	-82.32648	A	ADM2	CU		02	2314			0		72	America/Havana	2023-05-31
+11288067	Boyeros	Boyeros		23.00429	-82.39433	A	ADM2	CU		02	2313			0		72	America/Havana	2016-11-21
+11288068	Centro Habana	Centro Habana		23.13798	-82.36184	A	ADM2	CU		02	2303			0		14	America/Havana	2016-11-21
+11288069	Cerro	Cerro		23.11035	-82.37987	A	ADM2	CU		02	2310			0		34	America/Havana	2016-11-21
+11288070	Cotorro	Cotorro		23.01457	-82.23914	A	ADM2	CU		02	2315			0		91	America/Havana	2023-05-31
+11288071	Diez De Octubre	Diez De Octubre		23.08041	-82.3518	A	ADM2	CU		02	2309			0		39	America/Havana	2023-05-31
+11288072	La Habana Del Este	La Habana Del Este		23.15822	-82.32553	A	ADM2	CU		02	2306			0		20	America/Havana	2016-11-21
+11288073	La Habana Vieja	La Habana Vieja		23.12981	-82.35171	A	ADM2	CU		02	2304			0		13	America/Havana	2016-11-21
+11288074	La Lisa	La Lisa		23.03195	-82.46149	A	ADM2	CU		02	2312			0		63	America/Havana	2023-05-30
+11288075	Plaza De La Revolucion	Plaza De La Revolucion		23.11832	-82.39377	A	ADM2	CU		02	2302			0		35	America/Havana	2016-11-21
+11288076	San Miguel Del Padron	San Miguel Del Padron		23.07997	-82.23399	A	ADM2	CU		02	2308			0		66	America/Havana	2023-05-31
+11288077	Calimete	Calimete		22.53355	-80.90959	A	ADM2	CU		03	2512			0		25	America/Havana	2016-11-21
+11288078	Cienaga De Zapata	Cienaga De Zapata		22.39934	-81.57392	A	ADM2	CU		03	2510			0		7	America/Havana	2016-11-21
+11288079	Jimaguayu	Jimaguayu		21.24273	-77.82436	A	ADM2	CU		05	3011			0		111	America/Havana	2016-11-21
+11288080	Minas	Minas		21.48752	-77.6103	A	ADM2	CU		05	3004			0		67	America/Havana	2016-11-21
+11288081	Sibanicu	Sibanicu		21.23569	-77.52408	A	ADM2	CU		05	3007			0		90	America/Havana	2016-11-21
+11288082	Sierra De Cubitas	Sierra De Cubitas		21.70454	-77.78918	A	ADM2	CU		05	3003			0		61	America/Havana	2023-05-31
+11288083	Vertientes	Vertientes		21.26317	-78.15125	A	ADM2	CU		05	3010			0		66	America/Havana	2016-11-21
+11288185	Bolivia	Bolivia		22.07755	-78.34419	A	ADM2	CU		07	2903			0		13	America/Havana	2016-11-21
+11288186	Florencia	Florencia	Florencia,Florensija,flwransya,fu luo lun xi ya,furorenshia,plorentsia,Флоренсия,فلورانسیا,ფლორენცია,フロレンシア,弗洛伦西亚,弗洛倫西亞	22.14518	-78.97325	A	ADM2	CU		07	2906			0		98	America/Havana	2016-11-21
+11288187	Majagua	Majagua		21.87853	-78.97814	A	ADM2	CU		07	2907			0		80	America/Havana	2016-11-21
+11288188	Primero De Enero	Primero De Enero		21.94502	-78.43307	A	ADM2	CU		07	2904			0		23	America/Havana	2016-11-21
+11288190	Venezuela	Venezuela		21.70814	-78.80328	A	ADM2	CU		07	2909			0		14	America/Havana	2023-05-30
+11288191	Cumanayagua	Cumanayagua	Cumanayagua,Kumanajagua,Kumanayagua,ku ma na ya gua,kwmanayagwa,Куманаягуа,کومانایاگوا,კუმანაიაგუა,库马纳亚瓜,庫馬納亞瓜	22.14979	-80.19908	A	ADM2	CU		08	2706			0		64	America/Havana	2016-11-21
+11288196	Bartolome Maso	Bartolome Maso		20.16615	-76.94584	A	ADM2	CU		09	3311			0		66	America/Havana	2017-08-14
+11288210	Buey Arriba	Buey Arriba	Buey Arriba,bu ai yi a li wa,buei-ariba,bwwy aryba,بووی آریبا,ბუეი-არიბა,布埃伊阿里瓦	20.17363	-76.75899	A	ADM2	CU		09	3312			0		131	America/Havana	2016-11-21
+11288211	Cauto Cristo	Cauto Cristo	Cauto Cristo,Kauto Kristo,kao tuo ke li si tuo,kawtw krystw,کاوتو کریستو,კაუტო-კრისტო,カウト・クリスト,考托克里斯托	20.55608	-76.47055	A	ADM2	CU		09	3302			0		51	America/Havana	2016-11-21
+11288218	Guisa	Guisa	Guisa,gaysa,guisa,ji sa,Гуиса,گایسا,გუისა,吉萨,吉薩	20.25425	-76.53956	A	ADM2	CU		09	3313			0		200	America/Havana	2016-11-21
+11288219	Media Luna	Media Luna	Media Luna,Medija-Luna,mdya lwna,media-luna,mei di ya lu na,Медія-Луна,مدیا لونا,მედია-ლუნა,梅迪亚卢纳,梅迪亞盧納	20.14257	-77.43194	A	ADM2	CU		09	3308			0		13	America/Havana	2016-11-21
+11288220	Pilon	Pilon		19.90342	-77.32487	A	ADM2	CU		09	3310			0		11	America/Havana	2016-11-21
+11288221	Yara	Yara	Jara,Yara,iara,ya la,yara,yara  kywba,Яра,יארה,يارا,یارا,یارا، کیوبا,იარა,ヤラ,亚拉,亞拉	20.27329	-76.95425	A	ADM2	CU		09	3305			0		33	America/Havana	2016-11-21
+11288222	Caimanera	Caimanera	Caimanera,Kajmanera,kai ma nei la,kaymanra,kymanra,Кайманера,کایمانرا,کیمانرا,კაიმანერა,凯马内拉,凱馬內拉	19.98967	-75.15181	A	ADM2	CU		10	3508			0		10	America/Havana	2016-11-21
+11288223	El Salvador	El Salvador		20.21894	-75.22987	A	ADM2	CU		10	3501			0		105	America/Havana	2016-11-21
+11288224	Imias	Imias		20.06854	-74.62747	A	ADM2	CU		10	3506			0		22	America/Havana	2016-11-21
+11288225	Maisi	Maisi		20.24733	-74.1487	A	ADM2	CU		10	3505			0		12	America/Havana	2016-11-21
+11288226	Manuel Tames	Manuel Tames	Manuehl'-Tames,Manuel Tames,man nu ai er ta mei si,manwyl tams,Мануэль-Тамес,مانوئل تامس,მანუელ-ტამესი,曼努埃尔塔梅斯,曼努埃爾塔梅斯	20.1787	-75.0552	A	ADM2	CU		10	3502			0		163	America/Havana	2016-11-21
+11288227	Niceto Perez	Niceto Perez		20.08635	-75.30643	A	ADM2	CU		10	3510			0		55	America/Havana	2016-11-21
+11288229	San Antonio Del Sur	San Antonio Del Sur		20.05564	-74.8075	A	ADM2	CU		10	3507			26509		15	America/Havana	2017-12-14
+11288230	Baguanos	Baguanos		20.7504	-76.02668	A	ADM2	CU		12	3205			0		88	America/Havana	2016-11-21
+11288231	Cacocum	Cacocum		20.74097	-76.45191	A	ADM2	CU		12	3208			0		51	America/Havana	2023-05-30
+11288232	Frank Pais	Frank Pais		20.65586	-75.26236	A	ADM2	CU		12	3212			0		31	America/Havana	2016-11-21
+11288233	Moa	Moa	Moa,mo,mo xab,mo ya,mo'a,moa,mova,moya,mwa,mwa  kywba,Μόα,Моа,موا,موا، کیوبا,मोआ,মোয়া,મોઆ,மோ,మోఆ,ಮೋವಾ,මොආ,โมอับ,მოა,モア,莫亚,莫亞,모아	20.65779	-74.94822	A	ADM2	CU		12	3214			0		26	America/Havana	2016-11-21
+11288234	Amancio	Amancio	Amancio,Amancio Rodriguez,Amancio Rodríguez,Amansio,a man xi ao,amansio,amansyw  kwba,Амансио,Амансіо,אמנסיו,امانسیو، کوبا,ამანსიო,阿曼西奥,阿曼西奧	20.81989	-77.57592	A	ADM2	CU		13	3108			0		36	America/Havana	2016-11-21
+11288235	Colombia	Colombia	Colombia,Kolumbiya,ge lun bi ya,klmbya,kwlmbya  kywba,کلمبیا,کولمبیا، کیوبا,კოლუმბია,哥伦比亚,哥倫比亞	20.98623	-77.42314	A	ADM2	CU		13	3107			0		62	America/Havana	2016-11-21
+11288240	Majibacoa	Majibacoa	Majibacoa,Majibakoa,ma xi wa ke a,makhybakwa,ماخیباکوا,მახიბაკოა,馬希瓦科阿,马希瓦科阿	20.94189	-76.71783	A	ADM2	CU		13	3104			0		107	America/Havana	2016-11-21
+11288241	La Sierpe	La Sierpe		21.77112	-79.26807	A	ADM2	CU		14	2808			0		40	America/Havana	2016-11-21
+11288242	Taguasco	Taguasco	Taguasco,Taguasko,ta gua si ke,tagwaskw,Тагуаско,تاگواسکو,ტაგუასკო,塔瓜斯科	22.04212	-79.28764	A	ADM2	CU		14	2803			0		121	America/Havana	2023-05-31
+11288243	Contramaestre	Contramaestre	Contramaestre,Kontramaestre,Kontramestr,kong te la ma ai si te lei,Контрамаестре,کونترامیسترے,კონტრამაესტრე,孔特拉馬埃斯特雷,孔特拉马埃斯特雷	20.29157	-76.23881	A	ADM2	CU		15	3401			0		102	America/Havana	2016-11-21
+11288244	Guama	Guama		19.96958	-76.43828	A	ADM2	CU		15	3409			0		19	America/Havana	2016-11-21
+11288245	Mella	Mella		20.3636	-75.906	A	ADM2	CU		15	3402			0		113	America/Havana	2016-11-21
+11288246	Segundo Frente	Segundo Frente	Secundo Frente,Segundo Frente,Segundo-Frente,sai gong duo fu lun te,Сегундо-Френте,სეკუნდო-ფრენტე,塞貢多弗倫特,塞贡多弗伦特	20.41284	-75.49646	A	ADM2	CU		15	3404			0		224	America/Havana	2016-11-21
+11288247	Tercer Frente	Tercer Frente	Tercer Frente,Terser Frente,Terser-Frente,te er sai er fu lun te,Терсер-Френте,ტერსერ-ფრენტე,特尔塞尔弗伦特,特爾塞爾弗倫特	20.159	-76.30975	A	ADM2	CU		15	3408			0		265	America/Havana	2016-11-21
+11288248	Manicaragua	Manicaragua		22.14642	-79.97583	A	ADM2	CU		16	2613			0		156	America/Havana	2016-11-21
+11288249	Bahia Honda	Bahia Honda		22.90459	-83.16603	A	ADM2	CU		AR	2201			0		18	America/Havana	2016-11-21
+11288250	Urbano Noris	Urbano Noris	Urbano Noris,awrbanw nwrys,urbano-norisi,wu er wa nuo nuo li si,اوربانو نوریس,ურბანო-ნორისი,乌尔瓦诺诺里斯,烏爾瓦諾諾里斯	20.59746	-76.13826	A	ADM2	CU		12	3209			0		88	America/Havana	2016-11-21
+11288251	Rafael Freyre	Rafael Freyre	Rafael Freyre,la fei er fu li er,rafayl fryry,rapael-preiere,رافائل فریری,რაფაელ-ფრეიერე,拉斐尔弗里尔,拉斐爾弗里爾	21.02934	-75.99887	A	ADM2	CU		12	3202			0		23	America/Havana	2016-11-21
+11288252	Carlos Manuel De Cespedes	Carlos Manuel De Cespedes		21.67046	-78.28233	A	ADM2	CU		05	3001			0		77	America/Havana	2023-05-30
+11288253	Playa	Playa		23.09934	-82.44844	A	ADM2	CU		02	2301			0		9	America/Havana	2016-11-21
+11288254	Songo - La Maya	Songo - La Maya		20.16392	-75.69769	A	ADM2	CU		15	3405			0		226	America/Havana	2016-11-21
+11288300	Cueto	Cueto	Cueto,ku ai tuo,კუეტო,库埃托,庫埃托	20.64763	-75.93269	A	ADM2	CU		12	3210			0		54	America/Havana	2016-11-21
+11288301	Najasa	Najasa		21.07211	-77.74681	A	ADM2	CU		05	3012			0		107	America/Havana	2016-11-21

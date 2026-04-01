@@ -1,0 +1,298 @@
+﻿3600166	Yuscarán	Yuscaran	Municipio de Yuscaran,Municipio de Yuscarán,Yuscaran,Yuscarán	13.95708	-86.8317	A	ADM2	HN		07	0701			11384		853	America/Tegucigalpa	2018-08-08
+3600197	Yoro	Yoro	Yoro	15.23	-87.23	A	ADM2	HN		18	1801			98561		670	America/Tegucigalpa	2022-07-26
+3600200	Yorito	Yorito		15.06	-87.33	A	ADM2	HN		18	1811			13122		1651	America/Tegucigalpa	2015-05-21
+3600213	Yocón	Yocon	Yocon,Yocón	14.95	-86.82	A	ADM2	HN		15	1522			9153		989	America/Tegucigalpa	2015-05-20
+3600223	Yauyupe	Yauyupe	Municipio de Yauyupe,Yauyupe	13.74867	-87.0761	A	ADM2	HN		07	0718			1339		889	America/Tegucigalpa	2018-08-08
+3600234	Yarula	Yarula	Yarula	14.1	-88.08	A	ADM2	HN		12	1219			5638		1769	America/Tegucigalpa	2015-05-20
+3600255	Yamaranguila	Yamaranguila	Municipio de Yamaranguila,Yamaranguila	14.26826	-88.24652	A	ADM2	HN		10	1016			15761		1725	America/Tegucigalpa	2018-08-08
+3600295	Wampusirpi	Wampusirpi		15.18333	-84.61667	A	ADM2	HN		09	0906			3897		47	America/Tegucigalpa	2011-11-08
+3600316	Virginia	Virginia	Municipio de Virginia,Virginia	14.00522	-88.56193	A	ADM2	HN		13	1327			2666		228	America/Tegucigalpa	2018-08-08
+3600329	Villanueva	Villanueva	Municipio de Villanueva,Villanueva	15.32456	-88.04359	A	ADM2	HN		06	0511			80662		271	America/Tegucigalpa	2018-08-08
+3600339	Villa de San Francisco	Villa de San Francisco	Municipio de Villa de San Francisco,Villa de San Francisco	14.18681	-86.9535	A	ADM2	HN		08	0827			7745		643	America/Tegucigalpa	2018-08-08
+3600341	Villa de San Antonio	Villa de San Antonio	Municipio de Villa de San Antonio,Villa de San Antonio	14.30702	-87.54801	A	ADM2	HN		04	0319			16758		908	America/Tegucigalpa	2018-08-08
+3600360	Victoria	Victoria	Municipio de Victoria,Victoria	15.10012	-87.5302	A	ADM2	HN		18	1810			25584		705	America/Tegucigalpa	2018-08-08
+3600387	Veracruz	Veracruz	Municipio de Veracruz,Veracruz	14.88343	-88.7857	A	ADM2	HN		05	0423			2624		814	America/Tegucigalpa	2018-08-08
+3600424	Valle de Ángeles	Valle de Angeles	Municipio de Valle de Angeles,Municipio de Valle de Ángeles,Valle de Angeles,Valle de Ángeles	14.15438	-87.01844	A	ADM2	HN		08	0826			10454		1555	America/Tegucigalpa	2018-08-08
+3600459	Valladolid	Valladolid	Municipio de Valladolid,Valladolid	14.1471	-88.7084	A	ADM2	HN		13	1326			3553		730	America/Tegucigalpa	2018-08-08
+3600470	Vado Ancho	Vado Ancho	Municipio de Vado Ancho,Vado Ancho	13.64355	-86.95546	A	ADM2	HN		07	0717			3596		567	America/Tegucigalpa	2018-08-08
+3600485	Utila	Utila	Municipio de Utila,Utila	16.10026	-86.9307	A	ADM2	HN		11	1104			1979		5	America/Tegucigalpa	2018-08-08
+3600592	Trujillo	Trujillo	Municipio de Trujillo,Trujillo	15.8263	-85.94644	A	ADM2	HN		03	0201			43454		124	America/Tegucigalpa	2018-08-08
+3600606	Trinidad de Copán	Trinidad de Copan	Municipio de Trinidad de Copan,Municipio de Trinidad de Copán,Trinidad de Copan,Trinidad de Copán	14.94921	-88.77131	A	ADM2	HN		05	0422			5661		768	America/Tegucigalpa	2024-04-29
+3600610	Trinidad	Trinidad		15.14	-88.27	A	ADM2	HN		16	1626			15897		705	America/Tegucigalpa	2015-05-20
+3600687	Tomalá	Tomala	Municipio de Tomala,Municipio de Tomalá,Tomala,Tomalá	14.2433	-88.7314	A	ADM2	HN		13	1325			5176		705	America/Tegucigalpa	2018-08-08
+3600705	Tocoa	Tocoa	Municipio de Tocoa,Tocoa	15.58904	-85.95057	A	ADM2	HN		03	0209			53191		1141	America/Tegucigalpa	2018-08-08
+3600839	Municipio de Texiguat	Municipio de Texiguat	Municipio de Texiguat,Texiguat,Texíguat	13.66372	-87.03479	A	ADM2	HN		07	0716			8108		333	America/Tegucigalpa	2018-08-08
+3600842	Teupasenti	Teupasenti	Teupasenti	14.29	-86.7	A	ADM2	HN		07	0715			29519		1147	America/Tegucigalpa	2015-05-19
+3600932	Tela	Tela		15.7	-87.58	A	ADM2	HN		01	0107			77031		37	America/Tegucigalpa	2015-05-19
+3600972	Tatumbla	Tatumbla	Municipio de Tatumbla,Tatumbla	13.98467	-87.06977	A	ADM2	HN		08	0825			4702		1443	America/Tegucigalpa	2018-08-08
+3601031	Tambla	Tambla	Municipio de Tambla,Tambla	14.21276	-88.76768	A	ADM2	HN		13	1324			2257		1081	America/Tegucigalpa	2018-08-08
+3601064	Talgua	Talgua	Municipio de Talgua,Talgua	14.6811	-88.728	A	ADM2	HN		13	1323			8200		828	America/Tegucigalpa	2018-08-08
+3601073	Talanga	Talanga	Municipio de Talanga,Talanga	14.41393	-87.06941	A	ADM2	HN		08	0824			26876		782	America/Tegucigalpa	2018-08-08
+3601160	Sulaco	Sulaco		14.95	-87.3	A	ADM2	HN		18	1809			13292		486	America/Tegucigalpa	2015-05-21
+3601212	Sonaguera	Sonaguera	Sonaguera	15.64	-86.26	A	ADM2	HN		03	0208			34271		81	America/Tegucigalpa	2012-03-05
+3601239	Soledad	Soledad	Soledad	13.58333	-87.11667	A	ADM2	HN		07	0714			9542		374	America/Tegucigalpa	2014-07-10
+3601283	Sinuapa	Sinuapa	Municipio de Sinuapa,Sinuapa	14.46572	-89.12121	A	ADM2	HN		14	1416			5820		1769	America/Tegucigalpa	2018-08-08
+3601303	Silca	Silca	Municipio de Silca,Silca	14.76205	-86.51521	A	ADM2	HN		15	1521			6882		708	America/Tegucigalpa	2018-08-08
+3601312	Siguatepeque	Siguatepeque	Municipio de Siguatepeque,Siguatepeque	14.63438	-87.84551	A	ADM2	HN		04	0318			60155		1190	America/Tegucigalpa	2018-08-08
+3601368	Sensenti	Sensenti		14.48	-88.9	A	ADM2	HN		14	1415			8259		1001	America/Tegucigalpa	2015-05-20
+3601404	Municipio de Sabá	Municipio de Saba	Municipio de Saba,Municipio de Sabá,Saba,Sabá,Sava,Savá	15.48654	-86.16322	A	ADM2	HN		03	0205			19266		1011	America/Tegucigalpa	2020-06-10
+3601437	San Vicente Centenario	San Vicente Centenario	Municipio de San Vicente Centenario,San Vicente Centenario	14.88254	-88.30218	A	ADM2	HN		16	1625			3147		367	America/Tegucigalpa	2018-08-08
+3601463	Santiago Puringla	Santiago Puringla		14.32	-87.86	A	ADM2	HN		12	1218			13064		1234	America/Tegucigalpa	2015-05-20
+3601495	Santa Rosa de Copán	Santa Rosa de Copan	Municipio de Santa Rosa de Copan,Municipio de Santa Rosa de Copán,Santa Rosa de Copan,Santa Rosa de Copán	14.76903	-88.79044	A	ADM2	HN		05	0401			37311		1164	America/Tegucigalpa	2018-08-08
+3601497	Santa Rosa de Aguán	Santa Rosa de Aguan	Municipio de Santa Rosa de Aguan,Municipio de Santa Rosa de Aguán,Santa Rosa de Aguan,Santa Rosa de Aguán	15.90051	-85.68663	A	ADM2	HN		03	0207			3787		5	America/Tegucigalpa	2018-08-08
+3601530	Santa Rita	Santa Rita		15.18	-87.81	A	ADM2	HN		18	1808			17165		459	America/Tegucigalpa	2015-05-20
+3601531	Santa Rita	Santa Rita		14.88	-89.01	A	ADM2	HN		05	0421			23773		790	America/Tegucigalpa	2012-03-03
+3601532	Santa Rita	Santa Rita	Municipio de Santa Rita,Santa Rita	14.76015	-88.26782	A	ADM2	HN		16	1624			2567		779	America/Tegucigalpa	2018-08-08
+3601544	Santa María del Real	Santa Maria del Real	Municipio de Santa Maria del Real,Municipio de Santa María del Real,Santa Maria del Real,Santa María del Real	14.7981	-85.94284	A	ADM2	HN		15	1520			8931		355	America/Tegucigalpa	2018-08-08
+3601557	Santa María	Santa Maria	Municipio de Santa Maria,Municipio de Santa María,Santa Maria,Santa María	14.26904	-87.91164	A	ADM2	HN		12	1217			8005		1155	America/Tegucigalpa	2018-08-08
+3601571	Santa Lucía	Santa Lucia	Municipio de Santa Lucia,Municipio de Santa Lucía,Santa Lucia,Santa Lucía	14.12595	-87.09175	A	ADM2	HN		08	0823			6692		1452	America/Tegucigalpa	2018-08-08
+3601572	Santa Lucía	Santa Lucia	Municipio de Santa Lucia,Municipio de Santa Lucía,Santa Lucia,Santa Lucía	13.90812	-88.41566	A	ADM2	HN		10	1015			5020		404	America/Tegucigalpa	2018-08-08
+3601601	Santa Fe	Santa Fe	Municipio de Santa Fe,Santa Fe	15.85424	-86.11083	A	ADM2	HN		03	0206			5603		732	America/Tegucigalpa	2018-08-08
+3601602	Santa Fe	Santa Fe	Municipio de Santa Fe,Santa Fe	14.50038	-89.2732	A	ADM2	HN		14	1414			3679		1040	America/Tegucigalpa	2018-08-08
+3601624	Santa Elena	Santa Elena	Municipio de Santa Elena,Santa Elena	14.07149	-88.15445	A	ADM2	HN		12	1216			6829		1225	America/Tegucigalpa	2018-08-08
+3601628	Santa Cruz de Yojoa	Santa Cruz de Yojoa	Municipio de Santa Cruz de Yojoa,Santa Cruz de Yojoa	15.01086	-87.82888	A	ADM2	HN		06	0510			61461		551	America/Tegucigalpa	2018-08-08
+3601674	Santa Cruz	Santa Cruz	Municipio de Santa Cruz,Santa Cruz	14.34427	-88.52684	A	ADM2	HN		13	1322			4815		1411	America/Tegucigalpa	2018-08-08
+3601695	Santa Bárbara	Santa Barbara	Santa Barbara,Santa Bárbara	14.9	-88.16	A	ADM2	HN		16	1601			29272		1312	America/Tegucigalpa	2013-05-25
+3601703	Santa Ana de Yusguare	Santa Ana de Yusguare	Municipio de Santa Ana de Yusguare,Santa Ana de Yusguare	13.29923	-87.10351	A	ADM2	HN		02	0616			10186		67	America/Tegucigalpa	2018-08-08
+3601724	Santa Ana	Santa Ana	Municipio de Santa Ana,Santa Ana	14.00011	-87.94107	A	ADM2	HN		12	1215			9309		1002	America/Tegucigalpa	2018-08-08
+3601725	Santa Ana	Santa Ana		13.94	-87.21	A	ADM2	HN		08	0822			8549		1540	America/Tegucigalpa	2012-03-03
+3601741	San Sebastián	San Sebastian	Municipio de San Sebastian,Municipio de San Sebastián,San Sebastian,San Sebastián	14.34594	-88.73487	A	ADM2	HN		13	1321			7835		1752	America/Tegucigalpa	2018-08-08
+3601742	San Sebastián	San Sebastian	Municipio de San Sebastian,Municipio de San Sebastián,San Sebastian,San Sebastián	14.23687	-87.63215	A	ADM2	HN		04	0317			2710		677	America/Tegucigalpa	2018-08-08
+3601778	San Rafael	San Rafael		14.73333	-88.41667	A	ADM2	HN		13	1320			10222		1021	America/Tegucigalpa	2015-05-20
+3601781	San Pedro Zacapa	San Pedro Zacapa	Municipio de San Pedro Zacapa,San Pedro Zacapa	14.74617	-88.10938	A	ADM2	HN		16	1623			8373		324	America/Tegucigalpa	2018-08-08
+3601783	San Pedro Sula	San Pedro Sula	Municipio de San Pedro Sula,San Pedro Sula	15.5142	-88.07891	A	ADM2	HN		06	0501			515458		1141	America/Tegucigalpa	2018-08-08
+3601785	San Pedro de Tutule	San Pedro de Tutule	Municipio de San Pedro de Tutule,San Pedro de Tutule	14.24536	-87.85139	A	ADM2	HN		12	1214			5177		1296	America/Tegucigalpa	2018-08-08
+3601815	San Pedro de Copán	San Pedro de Copan		14.61667	-88.8	A	ADM2	HN		05	0420			5107		1424	America/Tegucigalpa	2014-06-01
+3601846	San Nicolás	San Nicolas		14.98	-88.73	A	ADM2	HN		05	0419			5740		876	America/Tegucigalpa	2012-03-03
+3601847	San Nicolás	San Nicolas	Municipio de San Nicolas,Municipio de San Nicolás,San Nicolas,San Nicolás	14.91913	-88.3791	A	ADM2	HN		16	1622			10740		1171	America/Tegucigalpa	2018-08-08
+3601857	San Miguelito	San Miguelito	Municipio de San Miguelito,San Miguelito	14.34875	-88.33983	A	ADM2	HN		10	1014			4837		1327	America/Tegucigalpa	2018-08-08
+3601858	San Miguelito	San Miguelito	Municipio de San Miguelito,San Miguelito	13.74572	-87.49233	A	ADM2	HN		08	0821			1904		348	America/Tegucigalpa	2018-08-08
+3601876	San Matías	San Matias	Municipio de San Matias,Municipio de San Matías,San Matias,San Matías	13.95966	-86.64032	A	ADM2	HN		07	0713			4100		803	America/Tegucigalpa	2018-08-08
+3601886	San Marcos de la Sierra	San Marcos de la Sierra	Municipio de San Marcos de Sierra,Municipio de San Marcos de la Sierra,San Marcos de Sierra,San Marcos de la Sierra	14.13236	-88.2469	A	ADM2	HN		10	1013			6477		1430	America/Tegucigalpa	2018-08-08
+3601889	San Marcos de Colón	San Marcos de Colon	Municipio de San Marcos de Colon,Municipio de San Marcos de Colón,San Marcos de Colon,San Marcos de Colón	13.41512	-86.82095	A	ADM2	HN		02	0615			20493		1191	America/Tegucigalpa	2018-08-08
+3601916	San Marcos	San Marcos		15.24	-88.39	A	ADM2	HN		16	1621			12347		678	America/Tegucigalpa	2012-03-05
+3601917	San Marcos	San Marcos		14.38	-88.92	A	ADM2	HN		14	1413			14029		1141	America/Tegucigalpa	2012-03-03
+3601920	San Manuel Colohete	San Manuel Colohete	Municipio de San Manuel Colohete,San Manuel Colohete,San Manuel de Colohete	14.44435	-88.6705	A	ADM2	HN		13	1319			10655		1512	America/Tegucigalpa	2018-08-08
+3601923	San Manuel	San Manuel	Municipio de San Manuel,San Manuel	15.37279	-87.90167	A	ADM2	HN		06	0509			30740		76	America/Tegucigalpa	2018-08-08
+3601942	San Luis	San Luis		15.09	-88.47	A	ADM2	HN		16	1620			23229		761	America/Tegucigalpa	2015-05-20
+3601943	San Luis	San Luis	San Luis	14.75	-87.41667	A	ADM2	HN		04	0316			7201		719	America/Tegucigalpa	2014-09-03
+3601952	San Lucas	San Lucas	Municipio de San Lucas,San Lucas	13.74586	-86.95163	A	ADM2	HN		07	0712			6849		1276	America/Tegucigalpa	2018-08-08
+3601978	San Lorenzo	San Lorenzo	Municipio de San Lorenzo,San Lorenzo	13.45149	-87.40743	A	ADM2	HN		17	1709			28586		72	America/Tegucigalpa	2018-08-08
+3601990	San Juan Guarita	San Juan Guarita	Municipio de San Juan Guarita,San Juan Guarita	14.15492	-88.77477	A	ADM2	HN		13	1318			2771		626	America/Tegucigalpa	2018-08-08
+3601994	San Juan de Opoa	San Juan de Opoa	Municipio de San Juan de Opoa,San Juan de Opoa	14.80148	-88.71016	A	ADM2	HN		05	0418			7407		587	America/Tegucigalpa	2018-08-08
+3602000	San Juan de Flores	San Juan de Flores	Municipio de San Juan de Flores,San Juan de Flores	14.29294	-86.96354	A	ADM2	HN		08	0820			10364		696	America/Tegucigalpa	2018-08-08
+3602062	San Juan	San Juan	Municipio de San Juan,San Juan	14.42127	-88.41953	A	ADM2	HN		10	1012			8879		1241	America/Tegucigalpa	2018-08-08
+3602063	San Juan	San Juan	Municipio de San Juan,San Juan	13.95428	-87.72948	A	ADM2	HN		12	1213			1990		505	America/Tegucigalpa	2018-08-08
+3602072	San José del Potrero	San Jose del Potrero	Municipio de San Jose del Potrero,Municipio de San José del Potrero,San Jose del Potrero,San José del Potrero	14.86203	-87.29049	A	ADM2	HN		04	0315			5298		789	America/Tegucigalpa	2018-08-08
+3602093	San José	San Jose	Municipio de San Jose,Municipio de San José,San Jose,San Jose de Copan,San José,San José de Copán	14.91184	-88.71667	A	ADM2	HN		05	0417			5255		842	America/Tegucigalpa	2018-08-08
+3602095	San José de Comayagua	San Jose de Comayagua	Municipio de San Jose de Comayagua,Municipio de San José de Comayagua,San Jose de Comayagua,San José de Comayagua	14.70977	-88.04831	A	ADM2	HN		04	0314			5944		516	America/Tegucigalpa	2018-08-08
+3602098	San José de Colinas	San Jose de Colinas	Municipio de San Jose de Colinas,Municipio de San José de Colinas,San Jose de Colinas,San José de Colinas	15.06569	-88.3221	A	ADM2	HN		16	1619			15871		601	America/Tegucigalpa	2018-08-08
+3602160	San José	San Jose	Municipio de San Jose,Municipio de San José,San Jose,San José	14.22642	-87.96238	A	ADM2	HN		12	1212			7242		1213	America/Tegucigalpa	2018-08-08
+3602161	San José	San Jose	Municipio de San Jose,Municipio de San José,San Jose,San José	13.71415	-87.42256	A	ADM2	HN		02	0614			3397		370	America/Tegucigalpa	2018-08-08
+3602165	San Jorge	San Jorge	Municipio de San Jorge,San Jorge	14.63697	-89.1186	A	ADM2	HN		14	1412			3915		940	America/Tegucigalpa	2018-08-08
+3602207	San Jerónimo	San Jeronimo	Municipio de San Jeronimo,Municipio de San Jerónimo,San Jeronimo,San Jerónimo	14.96207	-88.9027	A	ADM2	HN		05	0416			4529		1101	America/Tegucigalpa	2018-08-08
+3602208	San Jerónimo	San Jeronimo	Municipio de San Jeronimo,Municipio de San Jerónimo,San Jeronimo,San Jerónimo	14.64043	-87.56768	A	ADM2	HN		04	0313			14611		729	America/Tegucigalpa	2018-08-08
+3602249	San Isidro	San Isidro	Municipio de San Isidro,San Isidro	14.56763	-88.11743	A	ADM2	HN		10	1011			3062		1087	America/Tegucigalpa	2018-08-08
+3602250	San Isidro	San Isidro	Municipio de San Isidro,San Isidro	13.64454	-87.26093	A	ADM2	HN		02	0613			3384		419	America/Tegucigalpa	2018-08-08
+3602259	San Ignacio	San Ignacio	Municipio de San Ignacio,San Ignacio	14.73795	-87.04759	A	ADM2	HN		08	0819			7114		762	America/Tegucigalpa	2018-08-08
+3602273	San Francisco de Yojoa	San Francisco de Yojoa	Municipio de San Francisco de Yojoa,San Francisco de Yojoa	15.01825	-87.98185	A	ADM2	HN		06	0508			13968		272	America/Tegucigalpa	2018-08-08
+3602276	San Francisco de Ojuera	San Francisco de Ojuera	San Francisco de Ojuera	14.67	-88.21	A	ADM2	HN		16	1618			5364		885	America/Tegucigalpa	2015-05-20
+3602278	San Francisco del Valle	San Francisco del Valle		14.41	-88.99	A	ADM2	HN		14	1411			6115		1061	America/Tegucigalpa	2015-05-20
+3602282	Municipio de San Francisco de La Paz	Municipio de San Francisco de La Paz	Municipio de San Francisco de La Paz,San Francisco de La Paz,San Francisco de la Paz	14.84183	-86.11819	A	ADM2	HN		15	1519			15520		973	America/Tegucigalpa	2018-08-08
+3602285	San Francisco de Coray	San Francisco de Coray	Municipio de San Francisco de Coray,San Francisco de Coray	13.6612	-87.54807	A	ADM2	HN		17	1708			8551		117	America/Tegucigalpa	2018-08-08
+3602288	San Francisco de Becerra	San Francisco de Becerra	Municipio de San Francisco de Becerra,San Francisco de Becerra	14.60679	-86.03537	A	ADM2	HN		15	1518			6861		513	America/Tegucigalpa	2018-08-08
+3602332	San Francisco	San Francisco	Municipio de San Francisco,San Francisco	15.65246	-87.01736	A	ADM2	HN		01	0106			10683		62	America/Tegucigalpa	2018-08-08
+3602333	San Francisco	San Francisco	Municipio de San Francisco,San Francisco	14.12435	-88.37189	A	ADM2	HN		13	1317			7895		607	America/Tegucigalpa	2018-08-08
+3602340	San Fernando	San Fernando	Municipio de San Fernando,San Fernando	14.68793	-89.10153	A	ADM2	HN		14	1410			4988		1194	America/Tegucigalpa	2018-08-08
+3602357	San Esteban	San Esteban	Municipio de San Esteban,San Esteban	15.29467	-85.69487	A	ADM2	HN		15	1517			20010		532	America/Tegucigalpa	2018-08-08
+3602398	San Buenaventura	San Buenaventura	Municipio de San Buenaventura,San Buenaventura	13.891	-87.18554	A	ADM2	HN		08	0818			1946		1204	America/Tegucigalpa	2018-08-08
+3602424	San Antonio de Oriente	San Antonio de Oriente	Municipio de San Antonio de Oriente,San Antonio de Oriente	14.03859	-86.98951	A	ADM2	HN		08	0817			12063		781	America/Tegucigalpa	2018-08-08
+3602429	San Antonio del Norte	San Antonio del Norte	San Antonio del Norte	13.88	-87.72	A	ADM2	HN		12	1211			2845		387	America/Tegucigalpa	2012-03-06
+3602441	San Antonio de Flores	San Antonio de Flores	Municipio de San Antonio de Flores,San Antonio de Flores	13.71089	-86.84226	A	ADM2	HN		07	0711			4776		628	America/Tegucigalpa	2018-08-08
+3602442	San Antonio de Flores	San Antonio de Flores	Municipio de San Antonio de Flores,San Antonio de Flores	13.64152	-87.34075	A	ADM2	HN		02	0612			5350		226	America/Tegucigalpa	2018-08-08
+3602445	San Antonio de Cortés	San Antonio de Cortes	Municipio de San Antonio de Cortes,Municipio de San Antonio de Cortés,San Antonio de Cortes,San Antonio de Cortés	15.13008	-88.03176	A	ADM2	HN		06	0507			19158		554	America/Tegucigalpa	2018-08-08
+3602522	San Antonio	San Antonio		15.04	-88.88	A	ADM2	HN		05	0415			9465		659	America/Tegucigalpa	2012-03-03
+3602523	San Antonio	San Antonio	Municipio de San Antonio,San Antonio	13.95043	-88.46493	A	ADM2	HN		10	1010			5066		270	America/Tegucigalpa	2018-08-08
+3602538	San Andrés	San Andres	San Andres,San Andrés	14.21968	-88.54981	A	ADM2	HN		13	1316			10224		1684	America/Tegucigalpa	2015-05-20
+3602550	San Agustín	San Agustin	Municipio de San Agustin,Municipio de San Agustín,San Agustin,San Agustín	14.81973	-88.93027	A	ADM2	HN		05	0414			3399		1177	America/Tegucigalpa	2018-08-08
+3602604	Salamá	Salama	Municipio de Salama,Municipio de Salamá,Salama,Salamá	14.81052	-86.61996	A	ADM2	HN		15	1516			6306		768	America/Tegucigalpa	2018-08-08
+3602682	Sabanagrande	Sabanagrande	Municipio de Sabanagrande,Sabanagrande	13.80251	-87.2559	A	ADM2	HN		08	0816			15442		998	America/Tegucigalpa	2018-08-08
+3602737	Roatán	Roatan		16.34098	-86.53763	A	ADM2	HN		11	1101			17425		75	America/Tegucigalpa	2015-05-20
+3602853	Reitoca	Reitoca	Municipio de Reitoca,Reitoca	13.84277	-87.42713	A	ADM2	HN		08	0815			9468		538	America/Tegucigalpa	2018-08-08
+3602953	Quimistán	Quimistan	Municipio de Quimistan,Municipio de Quimistán,Quimistan,Quimistán	15.41707	-88.34713	A	ADM2	HN		16	1617			29761		526	America/Tegucigalpa	2018-08-08
+3603158	Puerto Lempira	Puerto Lempira	Municipio de Puerto Lempira,Puerto Lempira	15.1145	-83.93056	A	ADM2	HN		09	0901			23332		47	America/Tegucigalpa	2018-08-08
+3603258	Protección	Proteccion	Municipio de Proteccion,Municipio de Protección,Proteccion,Protección	15.06717	-88.60423	A	ADM2	HN		16	1616			13321		651	America/Tegucigalpa	2018-08-08
+3603366	Potrerillos	Potrerillos		15.21	-87.95	A	ADM2	HN		06	0505			17728		38	America/Tegucigalpa	2011-11-08
+3603367	Potrerillos	Potrerillos	Municipio de Potrerillos,Potrerillos	14.04478	-86.76201	A	ADM2	HN		07	0710			3044		1021	America/Tegucigalpa	2018-08-08
+3603605	Piraera	Piraera	Municipio de Piraera,Piraera	14.06261	-88.46319	A	ADM2	HN		13	1315			11145		721	America/Tegucigalpa	2018-08-08
+3603657	Pimienta	Pimienta		15.265	-87.96667	A	ADM2	HN		06	0504			12461		74	America/Tegucigalpa	2011-11-08
+3603800	Petoa	Petoa		15.26	-88.24	A	ADM2	HN		16	1615			9521		416	America/Tegucigalpa	2015-05-20
+3603806	Pespire	Pespire	Municipio de Pespire,Pespire	13.56572	-87.31573	A	ADM2	HN		02	0611			23332		140	America/Tegucigalpa	2018-08-08
+3604182	Oropolí	Oropoli	Municipio de Oropoli,Municipio de Oropolí,Oropoli,Oropolí	13.81089	-86.83213	A	ADM2	HN		07	0709			5275		557	America/Tegucigalpa	2018-08-08
+3604190	Orocuina	Orocuina	Municipio de Orocuina,Orocuina	13.49221	-87.13173	A	ADM2	HN		02	0610			15949		352	America/Tegucigalpa	2018-08-08
+3604204	Orica	Orica	Municipio de Orica,Orica	14.80645	-86.9576	A	ADM2	HN		08	0814			10575		963	America/Tegucigalpa	2018-08-08
+3604214	Opatoro	Opatoro	Municipio de Opatoro,Opatoro	14.02451	-87.87982	A	ADM2	HN		12	1210			7392		1180	America/Tegucigalpa	2018-08-08
+3604231	Omoa	Omoa	Municipio de Omoa,Omoa	15.65873	-88.12868	A	ADM2	HN		06	0503			30148		203	America/Tegucigalpa	2018-08-08
+3604253	Olanchito	Olanchito	Municipio de Olanchito,Olanchito	15.47368	-86.62377	A	ADM2	HN		18	1807			78776		147	America/Tegucigalpa	2018-08-08
+3604269	Ojos de Agua	Ojos de Agua	Municipio de Ojo de Agua,Municipio de Ojos de Agua,Ojo de Agua,Ojos de Agua	14.79498	-87.6501	A	ADM2	HN		04	0312			8417		449	America/Tegucigalpa	2018-08-08
+3604271	Ojojona	Ojojona	Municipio de Ojojona,Ojojona	13.93113	-87.33982	A	ADM2	HN		08	0813			8064		1516	America/Tegucigalpa	2018-08-08
+3604377	Nuevo Celilac	Nuevo Celilac	Municipio de Nuevo Celilac,Nuevo Celilac	14.97554	-88.36726	A	ADM2	HN		16	1614			6475		378	America/Tegucigalpa	2018-08-08
+3604385	Nueva Ocotepeque	Nueva Ocotepeque		14.43333	-89.18333	A	ADM2	HN		14	1401			15884		808	America/Tegucigalpa	2014-10-10
+3604398	Nueva Armenia	Nueva Armenia	Municipio de Nueva Armenia,Nueva Armenia	13.75	-87.15307	A	ADM2	HN		08	0812			2365		629	America/Tegucigalpa	2018-08-08
+3604400	Nueva Arcadia	Nueva Arcadia		15.08	-88.69	A	ADM2	HN		05	0413			27561		600	America/Tegucigalpa	2012-03-03
+3604480	Naranjito	Naranjito		14.96	-88.6	A	ADM2	HN		16	1613			10204		352	America/Tegucigalpa	2015-05-20
+3604504	Namasigüe	Namasigue	Municipio de Namasigue,Municipio de Namasigüe,Namasigue,Namasigüe	13.16589	-87.13565	A	ADM2	HN		02	0609			25144		41	America/Tegucigalpa	2018-08-08
+3604523	Nacaome	Nacaome	Municipio de Nacaome,Nacaome	13.52209	-87.52477	A	ADM2	HN		17	1701			46780		61	America/Tegucigalpa	2018-08-08
+3604577	Morolica	Morolica	Morolica,Municipio de Morolica	13.568	-86.88821	A	ADM2	HN		02	0608			5035		232	America/Tegucigalpa	2018-08-08
+3604580	Morocelí	Moroceli	Moroceli,Morocelí,Municipio de Moroceli,Municipio de Morocelí	14.13594	-86.83333	A	ADM2	HN		07	0708			11969		771	America/Tegucigalpa	2018-08-08
+3604586	Morazán	Morazan	Morazan,Morazán,Municipio de Morazan,Municipio de Morazán	15.33087	-87.55177	A	ADM2	HN		18	1806			32592		214	America/Tegucigalpa	2018-08-08
+3604796	Minas de Oro	Minas de Oro		14.79878	-87.34835	A	ADM2	HN		04	0311			10574		982	America/Tegucigalpa	2015-05-19
+3604853	Mercedes de Oriente	Mercedes de Oriente	Mercedes de Oriente,Municipio de Mercedes de Oriente	13.90937	-87.77795	A	ADM2	HN		12	1209			1047		1073	America/Tegucigalpa	2018-08-08
+3604857	Mercedes	Mercedes	Mercedes	14.31667	-88.98333	A	ADM2	HN		14	1409			6000		1278	America/Tegucigalpa	2014-07-14
+3604895	Meámbar	Meambar	Meambar,Meámbar,Municipio de Meambar,Municipio de Meámbar	14.82047	-87.78424	A	ADM2	HN		04	0310			9908		531	America/Tegucigalpa	2018-08-08
+3604977	Masaguara	Masaguara	Masaguara,Municipio de Masaguara	14.40428	-87.98247	A	ADM2	HN		10	1009			12450		784	America/Tegucigalpa	2018-08-08
+3605001	Marcovia	Marcovia		13.25	-87.35	A	ADM2	HN		02	0607			37824		15	America/Tegucigalpa	2015-05-19
+3605006	Marcala	Marcala	Marcala,Municipio de Marcala	14.14845	-88.02405	A	ADM2	HN		12	1208			20434		1275	America/Tegucigalpa	2018-08-08
+3605019	Marale	Marale	Marale,Municipio de Marale	14.94113	-87.09892	A	ADM2	HN		08	0811			6956		1685	America/Tegucigalpa	2018-08-08
+3605022	Maraita	Maraita	Maraita,Municipio de Maraita	13.87197	-87.05633	A	ADM2	HN		08	0810			5513		956	America/Tegucigalpa	2018-08-08
+3605032	Mapulaca	Mapulaca	Mapulaca,Municipio de Mapulaca	14.04293	-88.6244	A	ADM2	HN		13	1314			3772		224	America/Tegucigalpa	2018-08-08
+3605043	Manto	Manto	Manto,Municipio de Manto	14.86965	-86.42275	A	ADM2	HN		15	1515			10189		587	America/Tegucigalpa	2018-08-08
+3605054	Mangulile	Mangulile	Mangulile,Municipio de Mangulile	15.08326	-86.82997	A	ADM2	HN		15	1514			7618		922	America/Tegucigalpa	2018-08-08
+3605180	Magdalena	Magdalena	Magdalena,Municipio de Magdalena	13.92452	-88.36675	A	ADM2	HN		10	1008			4079		242	America/Tegucigalpa	2018-08-08
+3605192	Macuelizo	Macuelizo		15.29775	-88.54168	A	ADM2	HN		16	1612			25614		247	America/Tegucigalpa	2024-09-12
+3605223	Lucerna	Lucerna	Lucerna,Municipio de Lucerna	14.60597	-88.96344	A	ADM2	HN		14	1408			3577		1290	America/Tegucigalpa	2018-08-08
+3605951	Liure	Liure	Liure,Municipio de Liure	13.54489	-87.06089	A	ADM2	HN		07	0707			9707		370	America/Tegucigalpa	2018-08-08
+3606014	Limón	Limon	Limon,Limón,Municipio de Limon,Municipio de Limón	15.79664	-85.50805	A	ADM2	HN		03	0204			8331		97	America/Tegucigalpa	2018-08-08
+3606036	Lepaterique	Lepaterique	Lepaterique,Municipio de Lepaterique	14.0559	-87.47908	A	ADM2	HN		08	0809			13411		1393	America/Tegucigalpa	2018-08-08
+3606049	Lepaera	Lepaera	Lepaera,Municipio de Lepaera	14.8149	-88.5928	A	ADM2	HN		13	1313			28448		895	America/Tegucigalpa	2018-08-08
+3606070	Lejamaní	Lejamani		14.36	-87.69	A	ADM2	HN		04	0309			4028		622	America/Tegucigalpa	2015-05-19
+3606098	La Virtud	La Virtud	La Virtud,Municipio de La Virtud	14.07156	-88.68584	A	ADM2	HN		13	1312			5978		400	America/Tegucigalpa	2018-08-08
+3606124	La Venta	La Venta	La Venta,Municipio de La Venta	13.73113	-87.32874	A	ADM2	HN		08	0808			5721		663	America/Tegucigalpa	2018-08-08
+3606156	Lauterique	Lauterique	Lauterique,Municipio de Lauterique	13.86425	-87.65792	A	ADM2	HN		12	1207			2818		467	America/Tegucigalpa	2018-08-08
+3606177	La Unión	La Union	La Union,La Unión,Municipio de La Union,Municipio de La Unión	15.09759	-86.6891	A	ADM2	HN		15	1513			6326		1590	America/Tegucigalpa	2018-08-08
+3606178	La Unión	La Union	La Union,La Unión,Municipio de La Union,Municipio de La Unión	14.79931	-88.42446	A	ADM2	HN		13	1311			9565		1049	America/Tegucigalpa	2018-08-08
+3606179	La Unión	La Union	La Union,La Unión,Municipio de La Union,Municipio de La Unión	14.6935	-88.94734	A	ADM2	HN		05	0412			11401		1152	America/Tegucigalpa	2018-08-08
+3606192	La Trinidad	La Trinidad	La Trinidad,Municipio de La Trinidad	14.7	-87.66286	A	ADM2	HN		04	0308			3659		444	America/Tegucigalpa	2018-08-08
+3606787	Las Flores	Las Flores	Las Flores,Municipio de Las Flores	14.6793	-88.6504	A	ADM2	HN		13	1310			7335		707	America/Tegucigalpa	2018-08-08
+3607256	La Paz	La Paz	Departament de La Paz,Departamento La Paz,Departamento de La Paz,Departemen La Paz,Departement de La Paz,Departemento La Paz,Dipartimento di La Paz,Département de La Paz,La Pas,La Paso departamentas,La Paz,La Paz Depairtment,La Paz Department,La Paz megye,La-Pas,Municipio de La Paz,Tlalxeliuhcayotl La Paz,Tlālxeliuhcāyōtl La Paz,astan lapaz,la ba si sheng,lapaseu ju,rapasu xian,Ла Пас,Ла-Пас,לה פאס,استان لاپاز,ლა-პასის დეპარტამენტი,ラパス県,拉巴斯省,라파스 주	14.31762	-87.74571	A	ADM2	HN		12	1201			29027		1477	America/Tegucigalpa	2018-08-08
+3607295	Langue	Langue	Langue,Municipio de Langue	13.6603	-87.63274	A	ADM2	HN		17	1707			18445		172	America/Tegucigalpa	2018-08-08
+3607421	La Masica	La Masica	La Masica,Municipio de La Masica	15.59865	-87.135	A	ADM2	HN		01	0105			22682		115	America/Tegucigalpa	2018-08-08
+3607437	Lamaní	Lamani	Lamani,Lamaní,Municipio de Lamani,Municipio de Lamaní	14.16328	-87.62787	A	ADM2	HN		04	0307			4959		882	America/Tegucigalpa	2018-08-08
+3607545	La Libertad	La Libertad		14.88	-87.55	A	ADM2	HN		04	0306			17651		1021	America/Tegucigalpa	2012-03-03
+3607546	La Libertad	La Libertad	La Libertad,Municipio de La Libertad	13.70662	-87.50421	A	ADM2	HN		08	0807			2682		276	America/Tegucigalpa	2018-08-08
+3607645	La Labor	La Labor	La Labor,Municipio de La Labor	14.4956	-89.02684	A	ADM2	HN		14	1407			6420		1088	America/Tegucigalpa	2018-08-08
+3607680	La Jigua	La Jigua		15.1	-88.76	A	ADM2	HN		05	0411			7807		547	America/Tegucigalpa	2012-03-03
+3607729	La Iguala	La Iguala	La Iguala,Municipio de La Iguala	14.66441	-88.4636	A	ADM2	HN		13	1309			17618		1285	America/Tegucigalpa	2018-08-08
+3607831	Guata	Guata	Guata,La Guata,Municipio de Guata	15.15133	-86.37624	A	ADM2	HN		15	1510			9446		658	America/Tegucigalpa	2018-08-08
+3607973	La Esperanza	La Esperanza	La Esperanza,Municipio de La Esperanza	14.25172	-88.12187	A	ADM2	HN		10	1001			7411		1636	America/Tegucigalpa	2018-08-08
+3607994	La Encarnación	La Encarnacion	La Encarnacion,La Encarnación,Municipio de La Encarnacion,Municipio de La Encarnación	14.66667	-89.04742	A	ADM2	HN		14	1406			3841		1536	America/Tegucigalpa	2018-08-08
+3608268	La Ceiba	La Ceiba		15.67	-86.76	A	ADM2	HN		01	0101			127590		1161	America/Tegucigalpa	2015-05-19
+3608337	La Campa	La Campa	La Campa,Municipio de La Campa	14.4728	-88.5609	A	ADM2	HN		13	1308			4139		1122	America/Tegucigalpa	2018-08-08
+3608504	Juticalpa	Juticalpa		14.55	-86.3	A	ADM2	HN		15	1501			142711		429	America/Tegucigalpa	2023-02-09
+3608523	Jutiapa	Jutiapa	Jutiapa,Municipio de Jutiapa	15.69586	-86.50414	A	ADM2	HN		01	0104			27472		105	America/Tegucigalpa	2018-08-08
+3608605	José Santos Guardiola	Jose Santos Guardiola	Jose Santos Guardiola,José Santos Guardiola,Municipio de Jose Santos Guardiola,Municipio de José Santos Guardiola	16.41765	-86.30631	A	ADM2	HN		11	1103			7613		106	America/Tegucigalpa	2018-08-08
+3608636	Jocón	Jocon	Jocon,Jocón,Municipio de Jocon,Municipio de Jocón	15.29895	-86.95354	A	ADM2	HN		18	1805			7449		964	America/Tegucigalpa	2018-08-08
+3608716	Jesús de Otoro	Jesus de Otoro	Jesus de Otoro,Jesús de Otoro,Municipio de Jesus de Otoro,Municipio de Jesús de Otoro	14.52696	-88.01115	A	ADM2	HN		10	1007			21041		573	America/Tegucigalpa	2018-08-08
+3608736	Jano	Jano	Jano,Municipio de Jano	15.07902	-86.51521	A	ADM2	HN		15	1512			3032		1008	America/Tegucigalpa	2018-08-08
+3608799	Jacaleapa	Jacaleapa	Jacaleapa,Municipio de Jacaleapa	14.03156	-86.67893	A	ADM2	HN		07	0706			3259		857	America/Tegucigalpa	2018-08-08
+3608823	Iriona	Iriona	Iriona,Municipio de Iriona	15.59079	-85.20549	A	ADM2	HN		03	0203			16644		169	America/Tegucigalpa	2018-08-08
+3608835	Intibucá	Intibuca	Departamento Intibuca,Departamento Intibucá,Departamento de Intibuca,Departamento de Intibucá,Departemen Intibuca,Departemen Intibucá,Departement dIntibuca,Departemento Intibuca,Departemento Intibucá,Dipartimento di Intibuca,Dipartimento di Intibucá,Département dIntibucá,Intibuca,Intibuca Department,Intibuca megye,Intibuca suyu,Intibucá,Intibucá Department,Intibucá megye,Intibucá suyu,Intibuka,Intibukos departamentas,astan ayntybwka,intibuka ju,intibuka xian,yin di bu ka sheng,Интибука,استان اینتیبوکا,انتیپوکا محکمہ,ინტიბუკის დეპარტამენტი,インティブカ県,因蒂布卡省,인티부카 주	14.43	-88.17	A	ADM2	HN		10	1006			38792		1926	America/Tegucigalpa	2012-03-03
+3608861	Ilama	Ilama		15.03	-88.11	A	ADM2	HN		16	1611			8189		646	America/Tegucigalpa	2015-05-20
+3608880	Humuya	Humuya	Humuya	14.24679	-87.68831	A	ADM2	HN		04	0305			1045		706	America/Tegucigalpa	2024-09-12
+3609113	Güinope	Guinope	Guinope,Güinope,Municipio de Guinope,Municipio de Güinope	13.87779	-86.93614	A	ADM2	HN		07	0705			6936		1329	America/Tegucigalpa	2018-08-08
+3609153	Guayape	Guayape	Guayape	14.79	-86.85	A	ADM2	HN		15	1511			11348		779	America/Tegucigalpa	2015-05-20
+3609232	Guarizama	Guarizama	Guarizama,Municipio de Guarizama	14.90431	-86.28764	A	ADM2	HN		15	1509			6658		591	America/Tegucigalpa	2018-08-08
+3609234	Guarita	Guarita	Guarita,Municipio de Guarita	14.20784	-88.85161	A	ADM2	HN		13	1307			7769		635	America/Tegucigalpa	2018-08-08
+3609294	Guanaja	Guanaja	Guanaja,Municipio de Guanaja	16.4771	-85.87574	A	ADM2	HN		11	1102			4535		303	America/Tegucigalpa	2018-08-08
+3609371	Gualcince	Gualcince	Gualcince,Municipio de Gualcince	14.12869	-88.56812	A	ADM2	HN		13	1306			9308		1232	America/Tegucigalpa	2018-08-08
+3609387	Gualala	Gualala	Gualala	14.98	-88.17	A	ADM2	HN		16	1610			4509		1435	America/Tegucigalpa	2015-05-20
+3609390	Gualaco	Gualaco	Gualaco,Municipio de Gualaco	15.17299	-86.09315	A	ADM2	HN		15	1508			17271		713	America/Tegucigalpa	2018-08-08
+3609396	Guajiquiro	Guajiquiro	Guajiquiro,Municipio de Guajiquiro	14.06982	-87.77451	A	ADM2	HN		12	1206			11969		877	America/Tegucigalpa	2018-08-08
+3609419	Guaimaca	Guaimaca	Guaimaca,Municipio de Guaimaca	14.5178	-86.85431	A	ADM2	HN		08	0806			20791		857	America/Tegucigalpa	2018-08-08
+3609587	Gracias	Gracias	Gracias,Municipio de Gracias	14.60749	-88.61554	A	ADM2	HN		13	1301			31422		807	America/Tegucigalpa	2018-08-08
+3609609	Goascorán	Goascoran		13.59	-87.7	A	ADM2	HN		17	1706			13262		134	America/Tegucigalpa	2015-05-20
+3609671	Fraternidad	Fraternidad	Fraternidad,Municipio de Fraternidad	14.58087	-89.0774	A	ADM2	HN		14	1405			2239		1200	America/Tegucigalpa	2018-08-08
+3609683	Florida	Florida		15.17	-88.81	A	ADM2	HN		05	0410			24983		769	America/Tegucigalpa	2015-05-19
+3609735	Esquipulas del Norte	Esquipulas del Norte	Esquipulas del Norte,Municipio de Esquipulas del Norte	15.27763	-86.5576	A	ADM2	HN		15	1507			6425		531	America/Tegucigalpa	2018-08-08
+3609743	Esquías	Esquias		14.65	-87.41	A	ADM2	HN		04	0304			14342		1002	America/Tegucigalpa	2015-05-19
+3609754	Esparta	Esparta	Esparta,Municipio de Esparta	15.66291	-87.25622	A	ADM2	HN		01	0103			15486		133	America/Tegucigalpa	2018-08-08
+3609776	Erandique	Erandique	Erandique,Municipio de Erandique	14.23043	-88.46044	A	ADM2	HN		13	1305			11426		1228	America/Tegucigalpa	2018-08-08
+3610061	El Triunfo	El Triunfo	El Triunfo,Municipio de El Triunfo	13.08024	-87.0178	A	ADM2	HN		02	0606			35830		56	America/Tegucigalpa	2018-08-08
+3610388	El Rosario	El Rosario	El Rosario,Municipio de El Rosario	14.8872	-86.68764	A	ADM2	HN		15	1506			3765		881	America/Tegucigalpa	2018-08-08
+3610389	El Rosario	El Rosario	El Rosario	14.575	-87.74306	A	ADM2	HN		04	0303			20613		959	America/Tegucigalpa	2014-09-03
+3610615	El Progreso	El Progreso	El Progreso,Municipio de El Progreso	15.42762	-87.77396	A	ADM2	HN		18	1804			147369		116	America/Tegucigalpa	2018-08-08
+3610697	El Porvenir	El Porvenir	El Porvenir,Municipio de El Porvenir	15.66598	-86.91046	A	ADM2	HN		01	0102			14437		332	America/Tegucigalpa	2018-08-08
+3610698	El Porvenir	El Porvenir	El Porvenir,Municipio de El Porvenir	14.72009	-87.21039	A	ADM2	HN		08	0805			14185		545	America/Tegucigalpa	2018-08-08
+3610966	El Paraíso	El Paraiso	El Paraiso,El Paraíso,Municipio de El Paraiso,Municipio de El Paraíso	15.04217	-88.98045	A	ADM2	HN		05	0409			18054		597	America/Tegucigalpa	2018-08-08
+3610967	El Paraíso	El Paraiso	El Paraiso,El Paraíso,Municipio de El Paraiso,Municipio de El Paraíso	13.85381	-86.53094	A	ADM2	HN		07	0704			34653		1012	America/Tegucigalpa	2018-08-08
+3611147	El Níspero	El Nispero	El Nispero,El Níspero,Municipio de El Nispero,Municipio de El Níspero	14.75957	-88.34438	A	ADM2	HN		16	1609			6422		1026	America/Tegucigalpa	2018-08-08
+3611153	El Negrito	El Negrito		15.42	-87.68	A	ADM2	HN		18	1803			35651		523	America/Tegucigalpa	2015-05-20
+3611988	El Corpus	El Corpus	El Corpus,Municipio de El Corpus	13.30464	-87.0097	A	ADM2	HN		02	0605			21856		647	America/Tegucigalpa	2018-08-08
+3612802	Duyure	Duyure	Duyure,Municipio de Duyure	13.641	-86.80369	A	ADM2	HN		02	0604			2753		772	America/Tegucigalpa	2018-08-08
+3612811	Dulce Nombre de Culmí	Dulce Nombre de Culmi	Dulce Nombre de Culmi,Dulce Nombre de Culmí	15.05	-85.27	A	ADM2	HN		15	1505			22599		433	America/Tegucigalpa	2015-05-20
+3612816	Dulce Nombre	Dulce Nombre	Dulce Nombre,Municipio de Dulce Nombre	14.85552	-88.83856	A	ADM2	HN		05	0408			4481		1129	America/Tegucigalpa	2018-08-08
+3612833	Dolores Merendón	Dolores Merendon	Dolores Merendon,Dolores Merendón,Municipio de Dolores Merendon,Municipio de Dolores Merendón	14.55095	-89.12493	A	ADM2	HN		14	1404			2272		1559	America/Tegucigalpa	2018-08-08
+3612844	Dolores	Dolores	Dolores,Municipio de Dolores	14.90148	-88.83087	A	ADM2	HN		05	0407			4906		891	America/Tegucigalpa	2018-08-08
+3612845	Dolores	Dolores	Dolores,Municipio de Dolores	14.26188	-88.35787	A	ADM2	HN		10	1005			3797		1364	America/Tegucigalpa	2018-08-08
+3612908	Danlí	Danli		14.09	-86.37	A	ADM2	HN		07	0703			135136		446	America/Tegucigalpa	2015-05-19
+3612967	Curarén	Curaren		13.83	-87.57	A	ADM2	HN		08	0804			17064		644	America/Tegucigalpa	2012-03-03
+3613016	Cucuyagua	Cucuyagua	Cucuyagua,Municipio de Cucuyagua	14.6868	-88.84023	A	ADM2	HN		05	0406			11398		990	America/Tegucigalpa	2018-08-08
+3613172	Corquín	Corquin		14.55	-88.84	A	ADM2	HN		05	0405			10675		1182	America/Tegucigalpa	2015-05-19
+3613227	Copán Ruinas	Copan Ruinas	Copan Ruinas,Copán Ruinas	14.92	-89.15	A	ADM2	HN		05	0404			29378		1019	America/Tegucigalpa	2012-03-05
+3613265	Concordia	Concordia	Concordia,Municipio de Concordia	14.64671	-86.72224	A	ADM2	HN		15	1504			6267		803	America/Tegucigalpa	2018-08-08
+3613280	Concepción de María	Concepcion de Maria	Concepcion de Maria,Concepción de María,Municipio de Concepcion de Maria,Municipio de Concepción de María	13.22363	-86.96244	A	ADM2	HN		02	0603			24406		402	America/Tegucigalpa	2018-08-08
+3613282	Concepción del Sur	Concepcion del Sur	Concepcion Sur,Concepcion del Sur,Concepción del Sur,Municipio de Concepcion del Sur,Municipio de Concepción del Sur	14.81263	-88.15316	A	ADM2	HN		16	1607			5342		681	America/Tegucigalpa	2020-06-10
+3613284	Concepción del Norte	Concepcion del Norte	Concepcion del Norte,Concepción del Norte,Municipio de Concepcion del Norte,Municipio de Concepción del Norte	15.20227	-88.13728	A	ADM2	HN		16	1606			7740		647	America/Tegucigalpa	2018-08-08
+3613299	Concepción	Concepcion	Concepcion,Concepción,Municipio de Concepcion,Municipio de Concepción	14.88077	-88.87919	A	ADM2	HN		05	0403			5406		1305	America/Tegucigalpa	2018-08-08
+3613300	Concepción	Concepcion	Concepcion,Concepción,Municipio de Concepcion,Municipio de Concepción	14.52383	-89.19371	A	ADM2	HN		14	1403			3793		1250	America/Tegucigalpa	2018-08-08
+3613301	Concepción	Concepcion	Concepcion,Concepción,Municipio de Concepcion,Municipio de Concepción	14.04725	-88.31942	A	ADM2	HN		10	1004			9496		410	America/Tegucigalpa	2018-08-08
+3613322	Comayagua	Comayagua	Ciudad de Comayagua,Comayagua,Komagiagoua,Komajagua,Komajagva,Municipio de Comayagua,ke ma ya gua,komayagua,komayagwa,kwmayaghwa,Κομαγιάγουα,Комаягуа,קומאיאגואה,كوماياغوا,کومایاغوا,კომაიაგუა,コマヤグア,科马亚瓜,코마야과	14.48412	-87.6006	A	ADM2	HN		04	0301			87474		835	America/Tegucigalpa	2018-08-08
+3613362	Colomoncagua	Colomoncagua	Colomoncagua,Municipio de Colomoncagua	13.97245	-88.27673	A	ADM2	HN		10	1003			15531		1017	America/Tegucigalpa	2018-08-08
+3613372	Cololaca	Cololaca	Cololaca,Municipio de Cololaca	14.31189	-88.8772	A	ADM2	HN		13	1304			5401		793	America/Tegucigalpa	2018-08-08
+3613529	Choluteca	Choluteca	Choluteca,Municipio de Choluteca	13.28261	-87.20119	A	ADM2	HN		02	0601			120791		39	America/Tegucigalpa	2018-08-08
+3613536	Choloma	Choloma	Choloma	15.64	-87.92	A	ADM2	HN		06	0502			151999		19	America/Tegucigalpa	2012-03-05
+3613602	Chinda	Chinda	Chinda	15.11667	-88.2	A	ADM2	HN		16	1608			3969		112	America/Tegucigalpa	2015-05-20
+3613613	Chinacla	Chinacla	Chinacla,Municipio de Chinacla	14.18289	-87.95395	A	ADM2	HN		12	1205			5823		1569	America/Tegucigalpa	2018-08-08
+3613870	Distrito Central	Distrito Central	D.C. Tegucigalpa,Distrito Central,Municipio de Distrito Central	14.14975	-87.24806	A	ADM2	HN		08	0801			850227		1349	America/Tegucigalpa	2018-08-08
+3613901	Ceguaca	Ceguaca	Ceguaca,Municipio de Ceguaca	14.81578	-88.20552	A	ADM2	HN		16	1605			3833		452	America/Tegucigalpa	2018-08-08
+3613909	Cedros	Cedros	Cedros,Municipio de Cedros	14.50464	-87.2168	A	ADM2	HN		08	0803			17721		858	America/Tegucigalpa	2018-08-08
+3613975	Catacamas	Catacamas	Catacamas,Municipio de Catacamas	14.60384	-85.54261	A	ADM2	HN		15	1503			79184		309	America/Tegucigalpa	2018-08-08
+3614096	Caridad	Caridad	Caridad,Municipio de Caridad	13.81562	-87.68121	A	ADM2	HN		17	1705			3542		305	America/Tegucigalpa	2018-08-08
+3614219	Cane	Cane	Cane,Municipio de Cane	14.28224	-87.67476	A	ADM2	HN		12	1204			2244		671	America/Tegucigalpa	2018-08-08
+3614239	Candelaria	Candelaria	Candelaria,Municipio de Candelaria	14.06072	-88.55913	A	ADM2	HN		13	1303			5992		546	America/Tegucigalpa	2018-08-08
+3614321	Campamento	Campamento	Campamento,Municipio de Campamento	14.49659	-86.64472	A	ADM2	HN		15	1502			14774		825	America/Tegucigalpa	2018-08-08
+3614329	Camasca	Camasca	Camasca,Municipio de Camasca	13.99855	-88.38609	A	ADM2	HN		10	1002			6382		865	America/Tegucigalpa	2018-08-08
+3614539	Cabañas	Cabanas		14.76	-89.06	A	ADM2	HN		05	0402			9762		1018	America/Tegucigalpa	2012-03-05
+3614540	Cabañas	Cabanas	Cabanas,Cabañas,Municipio de Cabanas,Municipio de Cabañas	13.99419	-88.02864	A	ADM2	HN		12	1203			2291		1111	America/Tegucigalpa	2018-08-08
+3614664	Brus Laguna	Brus Laguna	Brus Laguna,Municipio de Brus Laguna	15.48509	-84.69939	A	ADM2	HN		09	0902			9470		88	America/Tegucigalpa	2018-08-08
+3614798	Belén Gualcho	Belen Gualcho	Belen Gualcho,Belén Gualcho,Municipio de Belen Gualcho,Municipio de Belén Gualcho	14.4795	-88.78333	A	ADM2	HN		14	1402			11345		1480	America/Tegucigalpa	2018-08-08
+3614802	Belén	Belen	Belen,Belén,Municipio de Belen,Municipio de Belén	14.50834	-88.42819	A	ADM2	HN		13	1302			4344		1367	America/Tegucigalpa	2018-08-08
+3614905	Balfate	Balfate	Balfate,Municipio de Balfate	15.75709	-86.29048	A	ADM2	HN		03	0202			10582		527	America/Tegucigalpa	2018-08-08
+3614991	Azacualpa	Azacualpa	Azacualpa,Municipio de Azacualpa	15.36509	-88.57131	A	ADM2	HN		16	1604			16152		496	America/Tegucigalpa	2018-08-08
+3615029	Atima	Atima	Atima,Municipio de Atima	14.92229	-88.49921	A	ADM2	HN		16	1603			11976		776	America/Tegucigalpa	2018-08-08
+3615092	Arenal	Arenal	Arenal,Municipio de Arenal	15.35529	-86.81575	A	ADM2	HN		18	1802			4806		510	America/Tegucigalpa	2018-08-08
+3615116	Aramecina	Aramecina	Aramecina,Municipio de Aramecina	13.73604	-87.69302	A	ADM2	HN		17	1704			6035		183	America/Tegucigalpa	2018-08-08
+3615127	Arada	Arada	Arada,La Arada,Municipio de Arada	14.84201	-88.3434	A	ADM2	HN		16	1602			7953		810	America/Tegucigalpa	2018-08-08
+3615162	Apacilagua	Apacilagua	Apacilagua,Municipio de Apacilagua	13.45821	-87.01122	A	ADM2	HN		02	0602			8954		611	America/Tegucigalpa	2018-08-08
+3615214	Amapala	Amapala	Amapala,Municipio de Amapala	13.32513	-87.61863	A	ADM2	HN		17	1703			9687		289	America/Tegucigalpa	2018-08-08
+3615227	Alubarén	Alubaren	Alubaren,Alubarén,Municipio de Alubaren,Municipio de Alubarén	13.78226	-87.4699	A	ADM2	HN		08	0802			4953		356	America/Tegucigalpa	2018-08-08
+3615252	Alianza	Alianza	Alianza,Municipio de Alianza	13.44815	-87.68643	A	ADM2	HN		17	1702			6923		5	America/Tegucigalpa	2018-08-08
+3615267	Alauca	Alauca	Alauca,Municipio de Alauca	13.8402	-86.69526	A	ADM2	HN		07	0702			7880		555	America/Tegucigalpa	2018-08-08
+3615280	Ajuterique	Ajuterique	Ajuterique,Municipio de Ajuterique	14.39508	-87.71577	A	ADM2	HN		04	0302			8966		736	America/Tegucigalpa	2018-08-08
+3615353	Aguanqueterique	Aguanqueterique	Aguanqueterique,Municipio de Aguanqueterique	13.98606	-87.64622	A	ADM2	HN		12	1202			4643		480	America/Tegucigalpa	2018-08-08
+7910435	La Lima	La Lima		15.46	-87.88	A	ADM2	HN		06	0512			53594		24	America/Tegucigalpa	2015-05-19
+7910436	Puerto Cortés	Puerto Cortes		15.79	-87.849	A	ADM2	HN		06	0506			90161		19	America/Tegucigalpa	2015-05-19
+8062432	San Francisco de Opalaca	San Francisco de Opalaca		14.58441	-88.30253	A	ADM2	HN		10	1017			7026		1626	America/Tegucigalpa	2011-11-08
+8062433	San Marcos de Caiquin	San Marcos de Caiquin		14.41614	-88.60126	A	ADM2	HN		13	1328			4040		1337	America/Tegucigalpa	2011-11-08
+8062434	Patuca	Patuca		14.36	-85.97	A	ADM2	HN		15	1523			21675		475	America/Tegucigalpa	2012-03-05
+8062435	Juan Francisco Bulnes	Juan Francisco Bulnes		15.91676	-84.9099	A	ADM2	HN		09	0904			5340		8	America/Tegucigalpa	2011-11-08
+8062436	Villeda Morales	Villeda Morales	Ramon Villeda Morales,Ramón Villeda Morales	15.08472	-83.35361	A	ADM2	HN		09	0905			8601		3	America/Tegucigalpa	2014-10-31
+8062437	Ahuas	Ahuas	AHS	15.46923	-84.34479	A	ADM2	HN		09	0903			6039		19	America/Tegucigalpa	2017-05-01
+8062438	Nueva Frontera	Nueva Frontera		15.27594	-88.67234	A	ADM2	HN		16	1628			12059		598	America/Tegucigalpa	2024-09-12
+8062439	Las Vegas	Las Vegas		14.86636	-88.07233	A	ADM2	HN		16	1627			17496		887	America/Tegucigalpa	2011-11-08
+8062440	Vallecillo	Vallecillo		14.51313	-87.40242	A	ADM2	HN		08	0828			6353		1037	America/Tegucigalpa	2011-11-08
+8062441	Trojes	Trojes		14.05966	-86.00166	A	ADM2	HN		07	0719			34279		685	America/Tegucigalpa	2011-11-08
+8062442	Las Lajas	Las Lajas		14.9	-87.58333	A	ADM2	HN		04	0320			8540		1018	America/Tegucigalpa	2014-09-03
+8062522	Arizona	Arizona		15.68333	-87.33333	A	ADM2	HN		01	0108			19660		29	America/Tegucigalpa	2014-10-09
+8062523	Bonito Oriental	Bonito Oriental		15.74641	-85.7361	A	ADM2	HN		03	0210			23307		34	America/Tegucigalpa	2011-11-08
+8062524	Taulabé	Taulabe	Taulabe	14.67145	-87.98693	A	ADM2	HN		04	0321			19461		794	America/Tegucigalpa	2011-11-08

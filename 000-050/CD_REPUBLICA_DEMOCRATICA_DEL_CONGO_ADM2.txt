@@ -1,0 +1,195 @@
+﻿209226	Mbuji-Mayi City	Mbuji-Mayi City	Mbuji-Mayi,Ville de Mbuji-Mayi	-6.15	23.6	A	ADM2	CD		04	01			0		583	Africa/Lubumbashi	2021-09-08
+211067	Lubero	Lubero		-0.16667	29.23333	A	ADM2	CD		11	05			0		1916	Africa/Lubumbashi	2021-09-08
+212726	Ville de Kisangani	Ville de Kisangani	Kisangani,Ville de Kisangani	0.5	25.2	A	ADM2	CD		30	01			0		385	Africa/Lubumbashi	2026-03-10
+215523	Kabinda	Kabinda		-6.13333	24.48333	A	ADM2	CD		21	02			0		856	Africa/Lubumbashi	2021-09-08
+216279	Goma	Goma		-1.68333	29.23333	A	ADM2	CD		11	01			0		1504	Africa/Lubumbashi	2021-09-08
+219056	Beni	Beni	Beni,Beni Territory	0.5	29.46667	A	ADM2	CD		11	09			0		1143	Africa/Lubumbashi	2021-09-08
+220287	Ango	Ango		4.03333	25.86667	A	ADM2	CD		13	07			0		596	Africa/Lubumbashi	2021-09-08
+2310762	Ville de Zongo	Ville de Zongo	Ville de Zongo	4.35	18.6	A	ADM2	CD		28	06			0		373	Africa/Kinshasa	2021-09-08
+2317497	Bagata	Bagata		-3.73333	17.95	A	ADM2	CD		20	02			0		314	Africa/Kinshasa	2021-09-08
+7731984	Boma (city)	Boma (city)	Boma	-5.8016	13.06896	A	ADM2	CD		08	02			0		94	Africa/Kinshasa	2021-09-08
+8051180	Kolwezi	Kolwezi		-10.73166	25.47699	A	ADM2	CD		22	01			0		1474	Africa/Lubumbashi	2021-09-17
+8260567	Kinshasa rural	Kinshasa rural		-4.38396	15.59516	A	ADM2	CD		06	22			0		425	Africa/Kinshasa	2012-05-31
+8260568	Kinshasa Urban	Kinshasa Urban		-4.44028	15.41344	A	ADM2	CD		06	21			0		354	Africa/Kinshasa	2012-05-31
+8260598	Nyirangongo	Nyirangongo		-1.55515	29.286	A	ADM2	CD		11	02			0		2030	Africa/Lubumbashi	2021-09-08
+8260604	Butembo	Butembo		0.14231	29.28185	A	ADM2	CD		11	10			0		1795	Africa/Lubumbashi	2021-09-08
+8260605	Oicha	Oicha		0.41849	29.55072	A	ADM2	CD		11	07			0		873	Africa/Lubumbashi	2021-09-08
+8335010	Kananga City	Kananga City	Kananga	-5.872	22.505	A	ADM2	CD		23	01			0		595	Africa/Lubumbashi	2021-09-08
+8335011	Tshikapa City	Tshikapa City	Tshikapa	-6.409	20.823	A	ADM2	CD		18	01			0		477	Africa/Lubumbashi	2021-09-08
+9165800	Lubumbashi (city)	Lubumbashi (city)		-11.72207	27.5173	A	ADM2	CD		14	01			0		1201	Africa/Lubumbashi	2021-09-08
+9166122	Lukunga District	Lukunga District		-4.3054	15.3032	A	ADM2	CD		06	9166122			0		289	Africa/Kinshasa	2014-06-16
+9166123	Tshangu District	Tshangu District		-4.42035	15.38549	A	ADM2	CD		06	9166123			0		306	Africa/Kinshasa	2014-06-16
+9179186	Kalemie Ville	Kalemie Ville		-5.94749	29.19471	A	ADM2	CD		29	02			0		787	Africa/Lubumbashi	2021-09-08
+9179188	Kipushi Ville	Kipushi Ville		-11.7665	27.2335	A	ADM2	CD		14	02			0		1330	Africa/Lubumbashi	2021-09-08
+9179189	Kongolo Ville	Kongolo Ville		-5.38335	27	A	ADM2	CD		29	09			0		562	Africa/Lubumbashi	2021-09-08
+9179191	Kambove Ville	Kambove Ville		-10.8666	26.6333	A	ADM2	CD		14	05			0		1394	Africa/Lubumbashi	2021-09-08
+9179195	Likasi	Likasi		-10.98333	26.73333	A	ADM2	CD		14	06			0		1293	Africa/Lubumbashi	2021-09-08
+9179197	Bukavu	Bukavu		-2.5	28.86667	A	ADM2	CD		12	01			0		1525	Africa/Kigali	2021-09-08
+9179463	Kalehe	Kalehe		-2.1	28.91667	A	ADM2	CD		12	05			0		1582	Africa/Lubumbashi	2021-09-08
+9179476	Mwenga	Mwenga		-3.03333	28.43333	A	ADM2	CD		12	12			0		1277	Africa/Lubumbashi	2021-09-08
+9179483	Fizi	Fizi		-4.30111	28.94417	A	ADM2	CD		12	10			0		1321	Africa/Lubumbashi	2021-09-08
+9179531	Kabare	Kabare		-2.48333	28.8	A	ADM2	CD		12	02			0		1825	Africa/Lubumbashi	2021-09-08
+9179534	Masisi Territory	Masisi Territory	Masisi,Masisi Territory	-1.4	28.81667	A	ADM2	CD		11	03			0		1552	Africa/Lubumbashi	2021-09-08
+9179537	Rutshuru Territory	Rutshuru Territory	Rutshuru,Rutshuru Territory	-1.18727	29.446	A	ADM2	CD		11	11			0		1236	Africa/Lubumbashi	2021-09-08
+9179562	Kasaji	Kasaji		-10.36667	23.45	A	ADM2	CD		22	04			0		1094	Africa/Lubumbashi	2021-09-08
+9179907	Manono	Manono		-7.2947	27.45449	A	ADM2	CD		29	06			0		644	Africa/Lubumbashi	2021-09-08
+10400552	Funa	Funa		-4.3575	15.2971	A	ADM2	CD		06	10400552			0		299	Africa/Kinshasa	2015-07-29
+10861174	Mont Amba District	Mont Amba District		-4.36276	15.33674	A	ADM2	CD		06	10861174			0		291	Africa/Kinshasa	2015-11-08
+12278014	Niangara	Niangara		3.51247	27.90168	A	ADM2	CD		16	03			0		732	Africa/Lubumbashi	2021-09-08
+12278015	Malemba-Nkulu	Malemba-Nkulu		-7.92047	26.86826	A	ADM2	CD		15	05			0		586	Africa/Lubumbashi	2021-09-08
+12278016	Basankusu	Basankusu		1.0873	20.00086	A	ADM2	CD		02	07			0		347	Africa/Kinshasa	2021-09-08
+12278017	Kenge	Kenge		-5.02334	17.0216	A	ADM2	CD		19	02			0		543	Africa/Kinshasa	2021-09-08
+12278018	Businga	Businga		3.39307	20.93042	A	ADM2	CD		26	05			0		373	Africa/Kinshasa	2021-09-08
+12278019	Kole	Kole		-3.62124	22.60714	A	ADM2	CD		27	06			0		597	Africa/Lubumbashi	2021-09-08
+12278020	Mbanza-Ngungu	Mbanza-Ngungu		-5.34012	14.78749	A	ADM2	CD		08	13			0		504	Africa/Kinshasa	2021-09-08
+12278021	Popokabaka	Popokabaka		-5.64729	16.57929	A	ADM2	CD		19	08			0		449	Africa/Kinshasa	2021-09-08
+12278022	Punia	Punia		-1.71055	26.78805	A	ADM2	CD		10	03			0		579	Africa/Lubumbashi	2021-09-08
+12278023	Shabunda	Shabunda		-2.91001	27.57828	A	ADM2	CD		12	03			0		687	Africa/Lubumbashi	2021-09-08
+12278024	Ariwara	Ariwara		3.13686	30.70698	A	ADM2	CD		17	10			0		1269	Africa/Lubumbashi	2021-09-08
+12278025	Mambasa	Mambasa		1.49354	28.7824	A	ADM2	CD		17	03			0		891	Africa/Lubumbashi	2021-09-08
+12278026	Ingende	Ingende		-0.60218	19.39848	A	ADM2	CD		02	09			0		340	Africa/Kinshasa	2021-09-08
+12278027	Songololo	Songololo		-5.53369	14.0674	A	ADM2	CD		08	11			0		284	Africa/Kinshasa	2021-09-08
+12278028	Yahuma	Yahuma		0.84104	23.1432	A	ADM2	CD		30	07			0		507	Africa/Lubumbashi	2021-09-08
+12278030	Bangu	Bangu		-5.55387	14.45238	A	ADM2	CD		08	12			0		333	Africa/Kinshasa	2021-09-08
+12278031	Bafwasende	Bafwasende		0.73551	26.99689	A	ADM2	CD		30	11			0		612	Africa/Lubumbashi	2021-09-08
+12278032	Bambesa	Bambesa		3.09211	25.9727	A	ADM2	CD		13	09			0		627	Africa/Lubumbashi	2021-09-08
+12278033	Banalia	Banalia		1.58373	25.45824	A	ADM2	CD		30	10			0		453	Africa/Lubumbashi	2021-09-08
+12278034	Boende	Boende		-0.49464	20.99943	A	ADM2	CD		31	02			0		383	Africa/Kinshasa	2021-09-08
+12278035	Bokungu	Bokungu		-0.85251	22.19679	A	ADM2	CD		31	06			0		439	Africa/Kinshasa	2021-09-08
+12278036	Dekese	Dekese		-3.28824	21.37314	A	ADM2	CD		18	08			0		462	Africa/Lubumbashi	2021-09-08
+12278037	Demba	Demba		-5.34287	22.25815	A	ADM2	CD		23	06			0		490	Africa/Lubumbashi	2021-09-08
+12278038	Dibaya	Dibaya		-6.37967	22.77881	A	ADM2	CD		23	02			0		798	Africa/Lubumbashi	2021-09-08
+12278039	Dibaya-Lubwe	Dibaya-Lubwe		-4.1553	19.86196	A	ADM2	CD		20	09			0		375	Africa/Kinshasa	2021-09-08
+12278040	Bolomba	Bolomba		0.402	19.24488	A	ADM2	CD		02	08			0		345	Africa/Kinshasa	2021-09-08
+12278041	Bomongo	Bomongo		1.05015	18.29607	A	ADM2	CD		02	04			0		332	Africa/Kinshasa	2021-09-08
+12278042	Bondo	Bondo		4.1946	24.09862	A	ADM2	CD		13	06			0		569	Africa/Lubumbashi	2021-09-08
+12278043	Bongandanga	Bongandanga		1.57792	21.19659	A	ADM2	CD		25	05			0		381	Africa/Kinshasa	2021-09-08
+12278044	Bosobolo	Bosobolo		4.54933	19.79066	A	ADM2	CD		26	06			0		479	Africa/Kinshasa	2021-09-08
+12278045	Budjala	Budjala		2.53344	19.96028	A	ADM2	CD		28	03			0		410	Africa/Kinshasa	2021-09-08
+12278046	Bukama	Bukama		-8.84885	26.12786	A	ADM2	CD		15	06			0		569	Africa/Lubumbashi	2021-09-08
+12278047	Bulungu	Bulungu		-4.65916	18.69124	A	ADM2	CD		20	04			0		356	Africa/Kinshasa	2021-09-08
+12278048	Bumba	Bumba		2.54923	22.53122	A	ADM2	CD		25	04			0		472	Africa/Kinshasa	2021-09-08
+12278049	Gemena	Gemena		3.39963	19.69331	A	ADM2	CD		28	02			0		401	Africa/Kinshasa	2021-09-08
+12278050	Gungu	Gungu		-5.7703	19.27522	A	ADM2	CD		20	10			0		772	Africa/Kinshasa	2021-09-08
+12278051	Idiofa	Idiofa		-4.67522	19.52724	A	ADM2	CD		20	06			0		429	Africa/Kinshasa	2021-09-08
+12278052	Luilu	Luilu		-7.34409	23.60274	A	ADM2	CD		21	04			0		854	Africa/Lubumbashi	2021-09-08
+12278053	Luiza	Luiza		-7.3384	22.55592	A	ADM2	CD		23	04			0		853	Africa/Lubumbashi	2021-09-08
+12278054	Ikela	Ikela		-1.18656	23.25969	A	ADM2	CD		31	05			0		433	Africa/Kinshasa	2021-09-08
+12278055	Ilebo	Ilebo		-5.04121	20.55964	A	ADM2	CD		18	05			0		669	Africa/Lubumbashi	2021-09-08
+12278056	Ingbokolo	Ingbokolo		3.39957	30.76904	A	ADM2	CD		17	11			0		1223	Africa/Lubumbashi	2021-09-08
+12278057	Isiro	Isiro		2.7672	27.63699	A	ADM2	CD		16	01			0		754	Africa/Lubumbashi	2021-09-08
+12278058	Kabalo	Kabalo		-6.2541	26.89195	A	ADM2	CD		29	07			0		567	Africa/Lubumbashi	2021-09-08
+12278059	Kabambare	Kabambare		-4.54768	27.72639	A	ADM2	CD		10	09			0		748	Africa/Lubumbashi	2021-09-08
+12278060	Kabeya-Kamwanga	Kabeya-Kamwanga		-5.96558	23.17809	A	ADM2	CD		04	07			0		533	Africa/Lubumbashi	2021-09-08
+12278061	Kamina	Kamina		-8.77022	24.92189	A	ADM2	CD		15	02			0		1042	Africa/Lubumbashi	2021-09-08
+12278062	Kamituga	Kamituga		-3.06139	28.19279	A	ADM2	CD		12	13			0		1019	Africa/Lubumbashi	2021-09-08
+12278063	Kamonia	Kamonia		-6.54504	20.71611	A	ADM2	CD		18	02			0		528	Africa/Lubumbashi	2021-09-08
+12278064	Kaniama	Kaniama		-7.8675	24.1546	A	ADM2	CD		15	03			0		983	Africa/Lubumbashi	2021-09-08
+12278065	Kaoze	Kaoze		-7.04586	29.77815	A	ADM2	CD		29	03			0		776	Africa/Lubumbashi	2021-09-08
+12278066	Kapanga	Kapanga		-8.41178	22.79795	A	ADM2	CD		22	07			0		921	Africa/Lubumbashi	2021-09-08
+12278067	Kasangulu	Kasangulu		-4.78379	15.34642	A	ADM2	CD		08	15			0		430	Africa/Kinshasa	2021-09-08
+12278068	Kasenga	Kasenga		-10.44769	27.97096	A	ADM2	CD		14	07			0		1683	Africa/Lubumbashi	2021-09-08
+12278069	Kasongo	Kasongo		-4.36451	26.45951	A	ADM2	CD		10	11			0		553	Africa/Lubumbashi	2021-09-08
+12278070	Kasongo-Lunda	Kasongo-Lunda		-7.04828	17.58902	A	ADM2	CD		19	07			0		656	Africa/Kinshasa	2021-09-08
+12278071	Katako-Kombe	Katako-Kombe		-3.28891	24.39813	A	ADM2	CD		27	08			0		570	Africa/Lubumbashi	2021-09-08
+12278072	Katanda	Katanda		-6.08977	23.892	A	ADM2	CD		04	09			0		547	Africa/Lubumbashi	2021-09-08
+12278073	Kazumba	Kazumba		-6.43377	21.97957	A	ADM2	CD		23	05			0		756	Africa/Lubumbashi	2021-09-08
+12278074	Kibombo	Kibombo		-4.07057	25.42804	A	ADM2	CD		10	13			0		518	Africa/Lubumbashi	2021-09-08
+12278075	Walikale	Walikale		-1.11856	28.16357	A	ADM2	CD		11	04			0		1007	Africa/Lubumbashi	2021-09-08
+12278076	Walungu	Walungu		-2.72565	28.67992	A	ADM2	CD		12	07			0		1681	Africa/Lubumbashi	2021-09-08
+12278077	Wamba	Wamba		2.10723	27.83886	A	ADM2	CD		16	11			0		779	Africa/Lubumbashi	2021-09-08
+12278078	Yakoma	Yakoma		3.643	22.22948	A	ADM2	CD		26	04			0		411	Africa/Kinshasa	2021-09-08
+12278079	Yangambi	Yangambi		0.78815	24.48168	A	ADM2	CD		30	06			0		453	Africa/Lubumbashi	2021-09-08
+12278080	Ngandajika	Ngandajika		-6.72119	24.25955	A	ADM2	CD		21	06			0		615	Africa/Lubumbashi	2021-09-08
+12278081	Kinshasa	Kinshasa		-4.43981	15.91173	A	ADM2	CD		06	00			0		577	Africa/Kinshasa	2021-09-08
+12278082	Basoko	Basoko		1.74087	23.97175	A	ADM2	CD		30	09			0		428	Africa/Lubumbashi	2021-09-08
+12278083	Befale	Befale		0.50175	21.15381	A	ADM2	CD		31	03			0		381	Africa/Kinshasa	2021-09-08
+12278084	Bena-Dibele	Bena-Dibele		-4.22625	22.90896	A	ADM2	CD		27	05			0		525	Africa/Lubumbashi	2021-09-08
+12278085	Dingila	Dingila		3.65052	26.0742	A	ADM2	CD		13	10			0		609	Africa/Lubumbashi	2021-09-08
+12278086	Djolu	Djolu		0.70227	22.4519	A	ADM2	CD		31	04			0		439	Africa/Kinshasa	2021-09-08
+12278087	Djugu	Djugu		1.90072	30.38186	A	ADM2	CD		17	05			0		1565	Africa/Lubumbashi	2021-09-08
+12278088	Dungu	Dungu		4.07223	28.41857	A	ADM2	CD		16	05			0		724	Africa/Lubumbashi	2021-09-08
+12278089	Faradje	Faradje		3.53789	29.9764	A	ADM2	CD		16	07			0		872	Africa/Lubumbashi	2021-09-08
+12278090	Feshi	Feshi		-6.29713	18.31992	A	ADM2	CD		19	03			0		877	Africa/Kinshasa	2021-09-08
+12278091	Pangi	Pangi		-3.19425	26.56625	A	ADM2	CD		10	07			0		554	Africa/Lubumbashi	2021-09-08
+12278092	Poko	Poko		3.0169	26.82253	A	ADM2	CD		13	08			0		707	Africa/Lubumbashi	2021-09-08
+12278093	Kungu	Kungu		2.47967	18.75076	A	ADM2	CD		28	04			0		350	Africa/Kinshasa	2021-09-08
+12278094	Kutu	Kutu		-2.98169	18.23389	A	ADM2	CD		24	06			0		327	Africa/Kinshasa	2021-09-08
+12278095	Kwamouth	Kwamouth		-3.57943	16.67796	A	ADM2	CD		24	07			0		445	Africa/Kinshasa	2021-09-08
+12278096	Libenge	Libenge		3.87572	18.98389	A	ADM2	CD		28	05			0		367	Africa/Kinshasa	2021-09-08
+12278097	Lisala	Lisala		2.43334	20.98218	A	ADM2	CD		25	02			0		390	Africa/Kinshasa	2021-09-08
+12278098	Matadi	Matadi		-5.84592	13.46917	A	ADM2	CD		08	01			0		235	Africa/Kinshasa	2021-09-08
+12278099	Bandundu	Bandundu		-3.31634	17.44519	A	ADM2	CD		20	01			0		319	Africa/Kinshasa	2021-09-08
+12278100	Lomela	Lomela		-2.332	23.30315	A	ADM2	CD		27	07			0		462	Africa/Lubumbashi	2021-09-08
+12278101	Lubao	Lubao		-5.55868	25.4333	A	ADM2	CD		21	08			0		660	Africa/Lubumbashi	2021-09-08
+12278102	Lubefu	Lubefu		-4.68606	24.32277	A	ADM2	CD		27	09			0		551	Africa/Lubumbashi	2021-09-08
+12278103	Lubudi	Lubudi		-10.2253	26.13706	A	ADM2	CD		22	03			0		1619	Africa/Lubumbashi	2021-09-08
+12278104	Lubutu	Lubutu		-0.78364	26.80872	A	ADM2	CD		10	05			0		586	Africa/Lubumbashi	2021-09-08
+12278105	Luebo	Luebo		-5.66021	21.37546	A	ADM2	CD		18	04			0		604	Africa/Lubumbashi	2021-09-08
+12278106	Mongwalu	Mongwalu		1.81781	30.23505	A	ADM2	CD		17	04			0		1316	Africa/Lubumbashi	2021-09-08
+12278107	Namoya	Namoya		-4.01055	27.57528	A	ADM2	CD		10	10			0		775	Africa/Lubumbashi	2021-09-08
+12278108	Luozi	Luozi		-4.81463	13.95453	A	ADM2	CD		08	10			0		327	Africa/Kinshasa	2021-09-08
+12278109	Lupatapata	Lupatapata		-5.97527	23.55786	A	ADM2	CD		04	08			0		688	Africa/Lubumbashi	2021-09-08
+12278110	Lusambo	Lusambo		-5.00298	23.57836	A	ADM2	CD		27	02			0		573	Africa/Lubumbashi	2021-09-08
+12278111	Madimba	Madimba		-5.39724	15.50814	A	ADM2	CD		08	17			0		572	Africa/Kinshasa	2021-09-08
+12278112	Moanda	Moanda		-5.7833	12.80777	A	ADM2	CD		08	03			0		21	Africa/Kinshasa	2021-09-08
+12278113	Moba	Moba		-7.49606	29.68241	A	ADM2	CD		29	04			0		1888	Africa/Lubumbashi	2021-09-08
+12278114	Mobayi-Mbongo	Mobayi-Mbongo		4.07912	21.0314	A	ADM2	CD		26	02			0		500	Africa/Kinshasa	2021-09-08
+12278115	Monkoto	Monkoto		-1.64309	20.92844	A	ADM2	CD		31	07			0		428	Africa/Kinshasa	2021-09-08
+12278116	Mushie	Mushie		-2.51831	17.18244	A	ADM2	CD		24	11			0		329	Africa/Kinshasa	2021-09-08
+12278117	Mutshatsha	Mutshatsha		-10.76973	25.05707	A	ADM2	CD		22	02			0		1178	Africa/Lubumbashi	2021-09-08
+12278118	Mweka	Mweka		-4.53713	21.62778	A	ADM2	CD		18	07			0		594	Africa/Lubumbashi	2021-09-08
+12278119	Baraka	Baraka		-4.08973	29.09151	A	ADM2	CD		12	11			0		780	Africa/Lubumbashi	2021-09-08
+12278120	Buta	Buta		2.81775	25.17205	A	ADM2	CD		13	02			0		480	Africa/Lubumbashi	2021-09-08
+12278121	Dilolo	Dilolo		-10.54325	23.23145	A	ADM2	CD		22	05			0		1020	Africa/Lubumbashi	2021-09-08
+12278122	Dimbelenge	Dimbelenge		-5.13285	22.94848	A	ADM2	CD		23	07			0		580	Africa/Lubumbashi	2021-09-08
+12278123	Kailo	Kailo		-2.5042	25.6863	A	ADM2	CD		10	02			0		507	Africa/Lubumbashi	2021-09-08
+12278124	Aba	Aba		3.85842	30.23818	A	ADM2	CD		16	06			0		898	Africa/Lubumbashi	2021-09-08
+12278125	Aketi	Aketi		2.98007	23.75461	A	ADM2	CD		13	04			0		450	Africa/Lubumbashi	2021-09-08
+12278126	Mbandaka	Mbandaka		-0.0976	18.25856	A	ADM2	CD		02	01			0		331	Africa/Kinshasa	2021-09-08
+12278127	Mangai	Mangai		-4.0594	19.53196	A	ADM2	CD		20	08			0		387	Africa/Kinshasa	2021-09-08
+12278128	Masi-Manimba	Masi-Manimba		-5.10707	17.98007	A	ADM2	CD		20	12			0		439	Africa/Kinshasa	2021-09-08
+12278129	Nyunzu	Nyunzu		-5.73131	27.93471	A	ADM2	CD		29	10			0		672	Africa/Lubumbashi	2021-09-08
+12278130	Mitwaba	Mitwaba		-9.20272	27.1939	A	ADM2	CD		14	08			0		1066	Africa/Lubumbashi	2021-09-08
+12278131	Oshwe	Oshwe		-3.10103	19.96643	A	ADM2	CD		24	04			0		368	Africa/Kinshasa	2021-09-08
+12278132	Tshimbulu	Tshimbulu		-6.47883	22.86012	A	ADM2	CD		23	03			0		865	Africa/Lubumbashi	2021-09-08
+12278133	Kindu	Kindu		-2.96988	25.9125	A	ADM2	CD		10	01			0		470	Africa/Lubumbashi	2021-09-08
+12278134	Yumbi	Yumbi		-2.10559	16.52003	A	ADM2	CD		24	10			0		316	Africa/Kinshasa	2021-09-08
+12278135	Inkisi	Inkisi		-5.1392	15.09689	A	ADM2	CD		08	18			0		564	Africa/Kinshasa	2021-09-08
+12278136	Inongo	Inongo		-1.92217	18.15821	A	ADM2	CD		24	02			0		298	Africa/Kinshasa	2021-09-08
+12278137	Irumu	Irumu		1.2277	29.92487	A	ADM2	CD		17	02			0		1129	Africa/Lubumbashi	2021-09-08
+12278138	Kabongo	Kabongo		-7.0815	25.58964	A	ADM2	CD		15	04			0		849	Africa/Lubumbashi	2021-09-08
+12278139	Kahemba	Kahemba		-7.30386	19.00485	A	ADM2	CD		19	05			0		1021	Africa/Kinshasa	2021-09-08
+12278140	Lukalaba	Lukalaba		-6.48232	23.65598	A	ADM2	CD		04	04			0		714	Africa/Lubumbashi	2021-09-08
+12278141	Pweto	Pweto		-8.64674	28.51075	A	ADM2	CD		14	09			0		1068	Africa/Lubumbashi	2021-09-08
+12278142	Rungu	Rungu		2.66687	27.649	A	ADM2	CD		16	02			0		733	Africa/Lubumbashi	2021-09-08
+12278143	Sakania	Sakania		-12.56976	28.92348	A	ADM2	CD		14	04			0		1276	Africa/Lubumbashi	2021-09-08
+12278144	Sandoa	Sandoa		-9.44489	23.0274	A	ADM2	CD		22	06			0		1000	Africa/Lubumbashi	2021-09-08
+12278145	Kiri	Kiri		-1.61623	19.20741	A	ADM2	CD		24	03			0		322	Africa/Kinshasa	2021-09-08
+12278146	Nioki	Nioki		-2.70245	17.68267	A	ADM2	CD		24	05			0		338	Africa/Kinshasa	2021-09-08
+12278147	Tshumbe	Tshumbe		-4.04604	22.6968	A	ADM2	CD		27	11			0		497	Africa/Lubumbashi	2021-09-08
+12278148	Ubundu	Ubundu		-0.54808	25.56973	A	ADM2	CD		30	02			0		469	Africa/Lubumbashi	2021-09-08
+12278149	Uvira	Uvira		-3.21468	29.01462	A	ADM2	CD		12	08			0		2300	Africa/Lubumbashi	2021-09-08
+12278150	Bunia	Bunia		1.54607	30.25782	A	ADM2	CD		17	01			0		1285	Africa/Lubumbashi	2021-09-08
+12278151	Mwene-Ditu	Mwene-Ditu		-6.98663	23.47658	A	ADM2	CD		21	03			0		961	Africa/Lubumbashi	2021-09-08
+12278152	Makanza	Makanza		1.40149	18.93251	A	ADM2	CD		02	05			0		318	Africa/Kinshasa	2021-09-08
+12278153	Kalima	Kalima		-2.5122	26.55754	A	ADM2	CD		10	08			0		828	Africa/Lubumbashi	2021-09-08
+12278154	Gbadolite	Gbadolite		4.2826	20.87605	A	ADM2	CD		26	01			0		424	Africa/Kinshasa	2021-09-08
+12278155	Lukula	Lukula		-5.39328	12.82908	A	ADM2	CD		08	05			0		147	Africa/Kinshasa	2021-09-08
+12278156	Tshilenge	Tshilenge		-6.48049	23.63915	A	ADM2	CD		04	02			0		740	Africa/Lubumbashi	2021-09-08
+12278157	Aru	Aru		3.06541	30.53246	A	ADM2	CD		17	09			0		1142	Africa/Lubumbashi	2021-09-08
+12278158	Kikwit	Kikwit		-5.05785	18.80286	A	ADM2	CD		20	03			0		484	Africa/Kinshasa	2021-09-08
+12278159	Watsa	Watsa		2.73792	29.25972	A	ADM2	CD		16	09			0		901	Africa/Lubumbashi	2021-09-08
+12278160	Bikoro	Bikoro		-0.81048	18.18664	A	ADM2	CD		02	02			0		316	Africa/Kinshasa	2021-09-08
+12278161	Bolobo	Bolobo		-2.68258	16.38079	A	ADM2	CD		24	08			0		476	Africa/Kinshasa	2021-09-08
+12278162	Idjwi	Idjwi		-2.00917	29.09262	A	ADM2	CD		12	06			0		1703	Africa/Lubumbashi	2021-09-08
+12278163	Isangi	Isangi		0.53005	24.20316	A	ADM2	CD		30	05			0		394	Africa/Lubumbashi	2021-09-08
+12278164	Kamiji	Kamiji		-6.7026	23.22703	A	ADM2	CD		21	05			0		855	Africa/Lubumbashi	2021-09-08
+12278165	Mahagi	Mahagi		2.30552	30.76175	A	ADM2	CD		17	07			0		1712	Africa/Lubumbashi	2021-09-08
+12278166	Seke-Banza	Seke-Banza		-5.34265	13.38253	A	ADM2	CD		08	09			0		442	Africa/Kinshasa	2021-09-08
+12278167	Kimvula	Kimvula		-5.45373	16.03836	A	ADM2	CD		08	19			0		725	Africa/Kinshasa	2021-09-08
+12278168	Lodja	Lodja		-3.5622	23.45213	A	ADM2	CD		27	03			0		483	Africa/Lubumbashi	2021-09-08
+12278169	Lukolela	Lukolela		-1.3673	17.16974	A	ADM2	CD		02	03			0		325	Africa/Kinshasa	2021-09-08
+12278170	Miabi	Miabi		-6.32974	23.29673	A	ADM2	CD		04	05			0		746	Africa/Lubumbashi	2021-09-08
+12278171	Opala	Opala		-0.75776	24.36787	A	ADM2	CD		30	03			0		430	Africa/Lubumbashi	2021-09-08
+12278172	Tshela	Tshela		-4.95224	12.98208	A	ADM2	CD		08	07			0		241	Africa/Kinshasa	2021-09-08

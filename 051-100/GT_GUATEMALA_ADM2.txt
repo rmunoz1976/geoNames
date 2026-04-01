@@ -1,0 +1,340 @@
+﻿3587505	Municipio de Zunilito	Municipio de Zunilito		14.63028	-91.49863	A	ADM2	GT		20	1018			0		962	America/Guatemala	2020-07-12
+3587508	Municipio de Zunil	Municipio de Zunil	Municipio de Zunil,Zunil	14.74362	-91.49152	A	ADM2	GT		13	916			14118		2365	America/Guatemala	2022-07-26
+3587541	Municipio de Zaragoza	Municipio de Zaragoza	Municipio de Zaragoza,Zaragoza	14.67989	-90.88292	A	ADM2	GT		03	415			24022		2000	America/Guatemala	2022-07-26
+3587545	Municipio de Zapotitlán	Municipio de Zapotitlan	Municipio de Zapotitlan,Municipio de Zapotitlán,Zapotitlan,Zapotitlán	14.11122	-89.81736	A	ADM2	GT		11	2210			0		896	America/Guatemala	2020-07-12
+3587585	Municipio de Zacapa	Municipio de Zacapa	Municipio de Zacapa,Zacapa	14.97138	-89.46475	A	ADM2	GT		22	1901			60424		762	America/Guatemala	2022-07-26
+3587591	Municipio de Yupiltepeque	Municipio de Yupiltepeque	Municipio de Yupiltepeque,Yupiltepeque	14.15742	-89.77555	A	ADM2	GT		11	2206			0		848	America/Guatemala	2020-07-12
+3587635	Municipio de Yepocapa	Municipio de Yepocapa	Municipio de San Pedro Yepocapa,Municipio de Yepocapa,Yepocapa	14.46725	-90.97416	A	ADM2	GT		03	412			34948		1137	America/Guatemala	2022-07-26
+3587901	Municipio de Villa Nueva	Municipio de Villa Nueva	Municipio de Villa Nueva,Villa Nueva	14.53608	-90.60337	A	ADM2	GT		07	115			618397		1409	America/Guatemala	2022-07-26
+3587922	Municipio de Villa Canales	Municipio de Villa Canales	Municipio de Villa Canales,Villa Canales	14.3863	-90.51409	A	ADM2	GT		07	116			155423		1276	America/Guatemala	2022-07-26
+3588039	Municipio de Usumatlán	Municipio de Usumatlan	Municipio de Usumatlan,Municipio de Usumatlán,Municipio de Uzumatlan,Municipio de Uzumatlán,Usumatlan,Usumatlán	14.98905	-89.78831	A	ADM2	GT		22	1906			0		309	America/Guatemala	2020-07-12
+3588042	Municipio de Uspantán	Municipio de Uspantan	Municipio de San Miguel Uspantan,Municipio de San Miguel Uspantán,Municipio de Uspantan,Municipio de Uspantán,Uspantan,Uspantán	15.44393	-90.84398	A	ADM2	GT		14	1415			65872		1683	America/Guatemala	2022-07-30
+3588205	Municipio de Tucurú	Municipio de Tucuru	Municipio de San Miguel Tucuru,Municipio de San Miguel Tucurú,Municipio de Tucuru,Municipio de Tucurú,Tucuru,Tucurú	15.30082	-90.0724	A	ADM2	GT		01	1606			43473		402	America/Guatemala	2022-07-30
+3588255	Municipio de Totonicapán	Municipio de Totonicapan	Municipio de Totonicapan,Municipio de Totonicapán,Totonicapan,Totonicapán	14.90193	-91.31999	A	ADM2	GT		21	801			103952		3183	America/Guatemala	2022-07-28
+3588307	Municipio de Todos Santos Cuchumatán	Municipio de Todos Santos Cuchumatan	Municipio de Todos Santos Cuchumatan,Municipio de Todos Santos Cuchumatán,Todos Santos Cuchumatan,Todos Santos Cuchumatanes,Todos Santos Cuchumatán	15.52634	-91.60518	A	ADM2	GT		08	1315			0		2960	America/Guatemala	2020-07-12
+3588341	Município de Tiquisate	Municipio de Tiquisate	Municipality of Tiquisate,Municipio de Tiquisate,Município de Tiquisate	14.28356	-91.3681	A	ADM2	GT		06	506			57292		71	America/Guatemala	2022-07-26
+3588459	Municipio de Tejutla	Municipio de Tejutla	Municipio de Tejutla,Tejutla	15.15638	-91.82457	A	ADM2	GT		17	1210			24242		2727	America/Guatemala	2020-07-12
+3588468	Municipio de Teculután	Municipio de Teculutan	Municipio de Teculutan,Municipio de Teculután,Teculutan,Teculután	15.05422	-89.75475	A	ADM2	GT		22	1905			17602		840	America/Guatemala	2022-07-26
+3588473	Municipio de Tectitán	Municipio de Tectitan	Municipio de Tectitan,Municipio de Tectitán,Tectitan,Tectitán	15.31143	-92.04845	A	ADM2	GT		08	1321			0		1745	America/Guatemala	2020-07-12
+3588475	Municipio de Tecpán Guatemala	Municipio de Tecpan Guatemala	Municipio de Tecpan Guatemala,Municipio de Tecpán Guatemala,Tecpan Guatemala,Tecpán Guatemala	14.7986	-91.01515	A	ADM2	GT		03	406			91927		2828	America/Guatemala	2022-07-28
+3588490	Municipio de Taxisco	Municipio de Taxisco		14.07897	-90.46177	A	ADM2	GT		18	609			0		283	America/Guatemala	2020-07-12
+3588553	Municipio de Tamahú	Municipio de Tamahu		15.30223	-90.24167	A	ADM2	GT		01	1605			0		1173	America/Guatemala	2020-07-12
+3588587	Municipio de Tajumulco	Municipio de Tajumulco	Municipio de Tajumulco,Tajumulco	15.06163	-91.96972	A	ADM2	GT		17	1209			0		2007	America/Guatemala	2020-07-12
+3588602	Municipio de Tactic	Municipio de Tactic		15.32028	-90.34817	A	ADM2	GT		01	1604			0		1469	America/Guatemala	2020-07-12
+3588609	Municipio de Tacaná	Municipio de Tacana	Municipio de Tacana,Municipio de Tacaná,Tacana,Tacaná	15.25503	-92.12264	A	ADM2	GT		17	1207			75788		3003	America/Guatemala	2022-07-28
+3588652	Municipio de Sumpango	Municipio de Sumpango	Municipio de Sumpango,Sumpango	14.65573	-90.74623	A	ADM2	GT		16	304			0		1956	America/Guatemala	2020-07-12
+3588693	San Pedro Soloma	San Pedro Soloma	Municipio de San Pedro Soloma,Municipio de Soloma,San Pedro Soloma	15.67124	-91.43606	A	ADM2	GT		08	1308			49030		2329	America/Guatemala	2022-07-28
+3588695	Municipio de Sololá	Municipio de Solola	Municipio de Solola,Municipio de Sololá,Solola,Sololá	14.81785	-91.18251	A	ADM2	GT		19	701			0		2395	America/Guatemala	2020-07-12
+3588719	Municipio de Siquinalá	Municipio de Siquinala	Municipio de Siquinala,Municipio de Siquinalá,Siquinala,Siquinalá	14.34913	-90.94169	A	ADM2	GT		06	504			0		629	America/Guatemala	2020-07-12
+3588725	Municipio de Sipacapa	Municipio de Sipacapa	Municipio de Sipacapa,Sipacapa	15.19243	-91.65541	A	ADM2	GT		17	1226			14043		2072	America/Guatemala	2020-07-12
+3588759	Municipio de Sibinal	Municipio de Sibinal	Municipio de Sibinal,Sibinal	15.13579	-92.05532	A	ADM2	GT		17	1208			0		2871	America/Guatemala	2020-07-12
+3588761	Municipio de Sibilia	Municipio de Sibilia	Municipio de Sibilia,Sibilia	14.98935	-91.64144	A	ADM2	GT		13	905			0		2798	America/Guatemala	2020-07-12
+3588857	Municipio de Senahú	Municipio de Senahu	Municipio de Senahu,Municipio de Senahú,Senahu,Senahú	15.40246	-89.83988	A	ADM2	GT		01	1608			91974		1240	America/Guatemala	2022-07-28
+3588983	Municipio de Sayaxché	Municipio de Sayaxche	Municipio de Sayaxche,Municipio de Sayaxché,Sayaxche,Sayaxché	16.3316	-90.16339	A	ADM2	GT		12	1710			47693		176	America/Guatemala	2020-07-12
+3589034	Municipio de San Vicente Pacaya	Municipio de San Vicente Pacaya	Municipio de San Vicente Pacaya,San Vicente Pacaya	14.33253	-90.6448	A	ADM2	GT		06	512			16705		809	America/Guatemala	2022-07-28
+3589061	Municipio de Santo Tomás La Unión	Municipio de Santo Tomas La Union		14.62273	-91.41209	A	ADM2	GT		20	1017			0		806	America/Guatemala	2020-07-12
+3589071	Municipio de Santo Domingo Xenacoj	Municipio de Santo Domingo Xenacoj	Municipio de Santo Domingo Xenacoj,Santo Domingo Xenacoj	14.67832	-90.70138	A	ADM2	GT		16	305			12402		1836	America/Guatemala	2022-07-28
+3589073	Municipio de Santo Domingo Suchitepéquez	Municipio de Santo Domingo Suchitepequez	Municipio de Santo Domingo Suchitepequez,Municipio de Santo Domingo Suchitepéquez,Santo Domingo Suchitepequez,Santo Domingo Suchitepéquez	14.30003	-91.50032	A	ADM2	GT		20	1006			42291		62	America/Guatemala	2022-07-29
+3589100	Municipio de Santiago Sacatepéquez	Municipio de Santiago Sacatepequez	Municipio de Santiago Sacatepequez,Municipio de Santiago Sacatepéquez,Santiago Sacatepequez,Santiago Sacatepéquez	14.63784	-90.68067	A	ADM2	GT		16	306			29238		2006	America/Guatemala	2022-07-29
+3589102	Municipio de Santiago Chimaltenango	Municipio de Santiago Chimaltenango		15.50739	-91.68519	A	ADM2	GT		08	1330			0		1846	America/Guatemala	2020-07-12
+3589104	Municipio de Santiago Atitlán	Municipio de Santiago Atitlan		14.60308	-91.22768	A	ADM2	GT		19	719			0		1785	America/Guatemala	2020-07-12
+3589158	Municipio de Santa Rosa de Lima	Municipio de Santa Rosa de Lima	Municipio de Santa Rosa de Lima,Santa Rosa de Lima	14.43951	-90.33664	A	ADM2	GT		18	603			0		1148	America/Guatemala	2020-07-12
+3589246	Municipio de Santa María Visitación	Municipio de Santa Maria Visitacion	Municipio de Santa Maria Visitacion,Municipio de Santa María Visitación,Santa Maria Visitacion,Santa María Visitación	14.7009	-91.33212	A	ADM2	GT		19	703			0		2170	America/Guatemala	2020-07-12
+3589248	Municipio de Santa María Ixhuatán	Municipio de Santa Maria Ixhuatan	Municipio de Santa Maria Ixhuatan,Municipio de Santa María Ixhuatán,Santa Maria Ixhuatan,Santa María Ixhuatán	14.14157	-90.26053	A	ADM2	GT		18	610			0		993	America/Guatemala	2020-07-12
+3589251	Municipio de Santa María de Jesús	Municipio de Santa Maria de Jesus	Municipio de Santa Maria de Jesus,Municipio de Santa María de Jesús,Santa Maria de Jesus,Santa María de Jesús	14.47849	-90.69989	A	ADM2	GT		16	311			21938		1947	America/Guatemala	2022-07-30
+3589255	Municipio de Santa María Chiquimula	Municipio de Santa Maria Chiquimula		15.02886	-91.32917	A	ADM2	GT		21	806			55013		2082	America/Guatemala	2022-07-29
+3589281	Municipio de Santa Lucía Utatlán	Municipio de Santa Lucia Utatlan	Municipio de Santa Lucia Utatlan,Municipio de Santa Lucía Utatlán,Santa Lucia Utatlan,Santa Lucía Utatlán	14.77588	-91.27097	A	ADM2	GT		19	704			0		2531	America/Guatemala	2020-07-12
+3589284	Municipio de Santa Lucía Milpas Altas	Municipio de Santa Lucia Milpas Altas		14.56753	-90.67551	A	ADM2	GT		16	309			15570		1945	America/Guatemala	2022-07-29
+3589286	Municipio de Santa Lucía La Reforma	Municipio de Santa Lucia La Reforma		15.1503	-91.2785	A	ADM2	GT		21	807			0		1785	America/Guatemala	2020-07-12
+3589288	Municipio de Santa Lucía Cotzumalguapa	Municipio de Santa Lucia Cotzumalguapa	Municipio de Santa Lucia Cotzulmalguapa,Municipio de Santa Lucia Cotzumalguapa,Municipio de Santa Lucía Cotzulmalguapa,Municipio de Santa Lucía Cotzumalguapa,Santa Lucia Cotzulmalguapa,Santa Lucia Cotzumalguapa,Santa Lucía Cotzulmalguapa,Santa Lucía Cotzumalguapa	14.29116	-91.07071	A	ADM2	GT		06	502			112780		211	America/Guatemala	2022-07-29
+3589354	Municipio de Santa Eulalia	Municipio de Santa Eulalia		15.74978	-91.32537	A	ADM2	GT		08	1317			0		1186	America/Guatemala	2020-07-12
+3589394	Municipio de Santa Cruz Verapaz	Municipio de Santa Cruz Verapaz		15.33854	-90.41399	A	ADM2	GT		01	1602			0		1498	America/Guatemala	2020-07-12
+3589397	Municipio de Santa Cruz Naranjo	Municipio de Santa Cruz Naranjo	Municipio de Santa Cruz Naranjo,Santa Cruz Naranjo	14.38313	-90.36902	A	ADM2	GT		18	612			0		1183	America/Guatemala	2020-07-12
+3589399	Municipio de Santa Cruz Muluá	Municipio de Santa Cruz Mulua	Municipio de Santa Cruz Mulua,Municipio de Santa Cruz Muluá,Santa Cruz Mulua,Santa Cruz Muluá	14.46449	-91.65362	A	ADM2	GT		15	1103			0		161	America/Guatemala	2020-07-12
+3589401	Municipio de Santa Cruz La Laguna	Municipio de Santa Cruz La Laguna	Municipio de Santa Cruz La Laguna,Santa Cruz La Laguna	14.74324	-91.22178	A	ADM2	GT		19	714			6000		1833	America/Guatemala	2020-07-12
+3589403	Municipio de Santa Cruz del Quiché	Municipio de Santa Cruz del Quiche	Municipio de Santa Cruz del Quiche,Municipio de Santa Cruz del Quiché,Santa Cruz del Quiche,Santa Cruz del Quiché	15.03722	-91.12596	A	ADM2	GT		14	1401			78279		2018	America/Guatemala	2022-07-30
+3589407	Municipio de Santa Cruz Balanyá	Municipio de Santa Cruz Balanya	Municipio de Santa Cruz Balanya,Municipio de Santa Cruz Balanyá,Santa Cruz Balanya,Santa Cruz Balanyá	14.69408	-90.93264	A	ADM2	GT		03	410			0		2087	America/Guatemala	2020-07-12
+3589432	Municipio de Santa Clara La Laguna	Municipio de Santa Clara La Laguna	Municipio de Santa Clara La Laguna,Santa Clara La Laguna	14.72445	-91.29744	A	ADM2	GT		19	707			0		2272	America/Guatemala	2020-07-12
+3589451	Municipio de Santa Catarina Pinula	Municipio de Santa Catarina Pinula	Municipio de Santa Catarina Pinula,Santa Catarina Pinula	14.56053	-90.46336	A	ADM2	GT		07	102			80582		1866	America/Guatemala	2022-07-29
+3589453	Municipio de Santa Catarina Palopó	Municipio de Santa Catarina Palopo		14.71794	-91.1306	A	ADM2	GT		19	711			5000		1665	America/Guatemala	2020-07-12
+3589455	Municipio de Santa Catarina Mita	Municipio de Santa Catarina Mita	Municipio de Santa Catarina Mita,Santa Catarina Mita	14.43547	-89.77129	A	ADM2	GT		11	2203			14520		1081	America/Guatemala	2022-07-29
+3589457	Municipio de Santa Catarina Ixtahuacán	Municipio de Santa Catarina Ixtahuacan	Municipio de Santa Catarina Ixtahuacan,Municipio de Santa Catarina Ixtahuacán,Santa Catarina Ixtahuacan,Santa Catarina Ixtahuacán	14.72016	-91.37977	A	ADM2	GT		19	706			0		1739	America/Guatemala	2020-07-12
+3589459	Municipio de Santa Catarina Barahona	Municipio de Santa Catarina Barahona	Municipio de Santa Catarina Barahona,Santa Catarina Barahona	14.55512	-90.80595	A	ADM2	GT		16	316			0		1698	America/Guatemala	2020-07-12
+3589464	Municipio de Santa Bárbara	Municipio de Santa Barbara	Municipio de Santa Barbara,Municipio de Santa Bárbara,Santa Barbara,Santa Bárbara	15.32997	-91.63407	A	ADM2	GT		08	1310			0		2232	America/Guatemala	2020-07-12
+3589465	Municipio de Santa Bárbara	Municipio de Santa Barbara	Municipio de Santa Barbara,Municipio de Santa Bárbara,Santa Barbara,Santa Bárbara	14.47317	-91.24688	A	ADM2	GT		20	1015			26346		559	America/Guatemala	2022-07-29
+3589479	Municipio de Santa Apolonia	Municipio de Santa Apolonia	Municipio de Santa Apolonia,Santa Apolonia	14.81957	-90.95664	A	ADM2	GT		03	405			0		2360	America/Guatemala	2020-07-12
+3589497	Municipio de Santa Ana Huista	Municipio de Santa Ana Huista	Municipio de Santa Ana Huista,Santa Ana Huista	15.71033	-91.86509	A	ADM2	GT		08	1331			0		784	America/Guatemala	2020-07-12
+3589501	Municipio de Santa Ana	Municipio de Santa Ana	Municipio de Santa Ana,Santa Ana	16.77305	-89.66878	A	ADM2	GT		12	1707			7792		348	America/Guatemala	2020-07-12
+3589540	Municipio de San Sebastián Huehuetenango	Municipio de San Sebastian Huehuetenango	Municipio de San Sebastian Huehuetenango,Municipio de San Sebastián Huehuetenango,San Sebastian Huehuetenango,San Sebastián Huehuetenango	15.40712	-91.57413	A	ADM2	GT		08	1320			0		2129	America/Guatemala	2020-07-12
+3589542	Municipio de San Sebastián Coatán	Municipio de San Sebastian Coatan	Municipio de San Sebastian Coatan,Municipio de San Sebastián Coatán,San Sebastian Coatan,San Sebastián Coatán	15.78574	-91.61907	A	ADM2	GT		08	1325			0		1935	America/Guatemala	2020-07-12
+3589545	Municipio de San Sebastián	Municipio de San Sebastian	Municipio de San Sebastian,Municipio de San Sebastián,San Sebastian,San Sebastián	14.56595	-91.64959	A	ADM2	GT		15	1102			29167		324	America/Guatemala	2022-07-29
+3589553	Municipio de Sansare	Municipio de Sansare	Municipio de Sansare,Sansare	14.75307	-90.09824	A	ADM2	GT		05	207			0		831	America/Guatemala	2020-07-12
+3589568	Municipio de San Raymundo	Municipio de San Raymundo	Municipio de San Raimundo,Municipio de San Raymundo,San Raymundo	14.77752	-90.55783	A	ADM2	GT		07	111			0		1559	America/Guatemala	2020-07-12
+3589576	Municipio de San Rafael Pie de la Cuesta	Municipio de San Rafael Pie de la Cuesta	Municipio de San Rafael Pie de La Cuesta,Municipio de San Rafael Pie de la Cuesta,San Rafael Pie de la Cuesta	14.92719	-91.90971	A	ADM2	GT		17	1211			0		1031	America/Guatemala	2020-07-12
+3589578	Municipio de San Rafael Petzal	Municipio de San Rafael Petzal		15.40536	-91.66357	A	ADM2	GT		08	1328			0		1728	America/Guatemala	2020-07-12
+3589588	Municipio de San Rafael Las Flores	Municipio de San Rafael Las Flores	Municipio de San Rafael Las Flores,San Rafael Las Flores	14.45445	-90.16121	A	ADM2	GT		18	605			13620		1365	America/Guatemala	2022-07-29
+3589594	Municipio de San Rafael La Independencia	Municipio de San Rafael La Independencia	Municipio de San Rafael La Independencia,San Rafael La Independencia	15.70656	-91.5333	A	ADM2	GT		08	1314			0		2544	America/Guatemala	2020-07-15
+3589624	Municipio de San Pedro Sacatepéquez	Municipio de San Pedro Sacatepequez	Municipio de San Pedro Sacatepequez,Municipio de San Pedro Sacatepéquez,San Pedro Sacatepequez,San Pedro Sacatepéquez	14.96196	-91.76687	A	ADM2	GT		17	1202			79158		2251	America/Guatemala	2022-07-29
+3589625	Municipio de San Pedro Sacatepéquez	Municipio de San Pedro Sacatepequez	Municipio de San Pedro Sacatepequez,Municipio de San Pedro Sacatepéquez,San Pedro Sacatepequez,San Pedro Sacatepéquez	14.67576	-90.62973	A	ADM2	GT		07	109			51292		2052	America/Guatemala	2022-07-29
+3589628	Municipio de San Pedro Pinula	Municipio de San Pedro Pinula	Municipio de San Pedro Pinula,San Pedro Pinula	14.70629	-89.84878	A	ADM2	GT		10	2102			61908		1200	America/Guatemala	2022-07-29
+3589631	Municipio de San Pedro Necta	Municipio de San Pedro Necta	Municipio de San Pedro Necta,Municipio de San Pedro Nectá,Municipio de San Pedro Nécta,San Pedro Necta,San Pedro Nectá,San Pedro Nécta	15.52393	-91.77816	A	ADM2	GT		08	1306			0		2609	America/Guatemala	2020-07-12
+3589636	Municipio de San Pedro La Laguna	Municipio de San Pedro La Laguna	Municipio de San Pedro La Laguna,San Pedro,San Pedro La Laguna	14.64382	-91.27608	A	ADM2	GT		19	718			0		2147	America/Guatemala	2020-07-12
+3589639	Municipio de San Pedro Jocopilas	Municipio de San Pedro Jocopilas	Municipio de San Pedro Jocopilas,San Pedro Jocopilas	15.15472	-91.1561	A	ADM2	GT		14	1409			21782		1907	America/Guatemala	2020-07-12
+3589642	Municipio de San Pedro Carchá	Municipio de San Pedro Carcha	Municipio de San Pedro Carcha,Municipio de San Pedro Carchá,San Pedro Carcha,San Pedro Carchá	15.56768	-90.18151	A	ADM2	GT		01	1609			235275		1434	America/Guatemala	2022-07-29
+3589645	Municipio de San Pedro Ayampuc	Municipio de San Pedro Ayampuc	Municipio de San Pedro Ayampuc,San Pedro Ayampuc	14.77269	-90.44099	A	ADM2	GT		07	107			58609		1285	America/Guatemala	2022-07-29
+3589668	Municipio de San Pablo La Laguna	Municipio de San Pablo La Laguna		14.72891	-91.28066	A	ADM2	GT		19	715			0		1882	America/Guatemala	2020-07-12
+3589670	Municipio de San Pablo Jocopilas	Municipio de San Pablo Jocopilas	Municipio de San Pablo Jocopila,Municipio de San Pablo Jocopilas,San Pablo Jocopila,San Pablo Jocopilas	14.58966	-91.42849	A	ADM2	GT		20	1009			20433		651	America/Guatemala	2022-07-29
+3589673	Municipio de San Pablo	Municipio de San Pablo	Municipio de San Pablo,San Pablo	14.95385	-91.97075	A	ADM2	GT		17	1219			48937		815	America/Guatemala	2022-07-29
+3589705	Municipio de San Miguel Sigüilá	Municipio de San Miguel Sigueila	Municipio de San Miguel Siguila,Municipio de San Miguel Sigüila,Municipio de San Miguel Sigüilá,San Miguel Siguila,San Miguel Sigüila,San Miguel Sigüilá	14.90061	-91.60213	A	ADM2	GT		13	908			0		2463	America/Guatemala	2020-07-12
+3589708	Municipio de San Miguel Panán	Municipio de San Miguel Panan		14.50525	-91.35956	A	ADM2	GT		20	1011			15000		278	America/Guatemala	2020-07-12
+3589719	Municipio de San Miguel Ixtahuacán	Municipio de San Miguel Ixtahuacan	Municipio de San Miguel Ixtahuacan,Municipio de San Miguel Ixtahuacán,San Miguel Ixtahuacan,San Miguel Ixtahuacán	15.26351	-91.73342	A	ADM2	GT		17	1205			0		2280	America/Guatemala	2020-07-12
+3589726	Municipio de San Miguel Dueñas	Municipio de San Miguel Duenas	Municipio de San Miguel Duenas,Municipio de San Miguel Dueñas,San Miguel Duenas,San Miguel Dueñas	14.52608	-90.83194	A	ADM2	GT		16	313			12696		1771	America/Guatemala	2022-07-29
+3589729	Municipio de San Miguel Chicaj	Municipio de San Miguel Chicaj		15.15981	-90.41303	A	ADM2	GT		02	1502			0		979	America/Guatemala	2020-07-12
+3589733	Municipio de San Miguel Acatán	Municipio de San Miguel Acatan	Municipio de San Miguel Acatan,Municipio de San Miguel Acatán,San Miguel Acatan,San Miguel Acatán	15.70409	-91.6226	A	ADM2	GT		08	1313			0		1877	America/Guatemala	2020-07-12
+3589769	Municipio de San Mateo Ixtatán	Municipio de San Mateo Ixtatan	Municipio de San Mateo Ixtatan,Municipio de San Mateo Ixtatán,San Mateo Ixtatan,San Mateo Ixtatán	15.92095	-91.49316	A	ADM2	GT		08	1318			43810		2666	America/Guatemala	2022-07-29
+3589772	Municipio de San Mateo	Municipio de San Mateo		14.84363	-91.5855	A	ADM2	GT		13	910			0		2771	America/Guatemala	2020-07-12
+3589775	Municipio de San Martín Zapotitlán	Municipio de San Martin Zapotitlan		14.61282	-91.59388	A	ADM2	GT		15	1104			0		588	America/Guatemala	2020-07-12
+3589777	Municipio de San Martín Sacatepéquez	Municipio de San Martin Sacatepequez	Municipio de San Martin Sacatepequez,Municipio de San Martín Sacatepéquez,San Martin Sacatepequez,San Martín Sacatepéquez	14.79742	-91.66269	A	ADM2	GT		13	912			0		2433	America/Guatemala	2020-07-12
+3589779	Municipio de San Martín Jilotepeque	Municipio de San Martin Jilotepeque	Municipio de San Martin Jilotepeque,Municipio de San Martín Jilotepeque,San Martin Jilotepeque,San Martín Jilotepeque	14.83206	-90.77842	A	ADM2	GT		03	403			0		1947	America/Guatemala	2020-07-12
+3589794	Municipio de San Marcos La Laguna	Municipio de San Marcos La Laguna		14.73509	-91.25984	A	ADM2	GT		19	716			0		1752	America/Guatemala	2020-07-12
+3589799	Municipio de San Marcos	Municipio de San Marcos	Municipio de San Marcos,San Marcos	14.98919	-91.83398	A	ADM2	GT		17	1201			0		2541	America/Guatemala	2020-07-12
+3589811	Municipio de San Manuel Chaparrón	Municipio de San Manuel Chaparron	Municipio de San Manuel Chaparron,Municipio de San Manuel Chaparrón,San Manuel Chaparron,San Manuel Chaparrón	14.5226	-89.76339	A	ADM2	GT		10	2104			0		936	America/Guatemala	2020-07-12
+3589821	Municipio de San Luis Jilotepeque	Municipio de San Luis Jilotepeque	Municipio de San Luis Jilotepeque,San Luis Jilotepeque	14.65034	-89.71319	A	ADM2	GT		10	2103			0		797	America/Guatemala	2020-07-12
+3589835	Municipio de San Luis	Municipio de San Luis	Municipio de San Luis,San Luis	16.13671	-89.47948	A	ADM2	GT		12	1709			0		313	America/Guatemala	2020-07-12
+3589849	Municipio de San Lucas Tolimán	Municipio de San Lucas Toliman		14.59471	-91.14659	A	ADM2	GT		19	713			0		1576	America/Guatemala	2020-07-12
+3589851	Municipio de San Lucas Sacatepéquez	Municipio de San Lucas Sacatepequez	Municipio de San Lucas Sacatepequez,Municipio de San Lucas Sacatepéquez,San Lucas Sacatepequez,San Lucas Sacatepéquez	14.59763	-90.64968	A	ADM2	GT		16	308			23369		2029	America/Guatemala	2022-07-29
+3589860	Municipio de San Lorenzo	Municipio de San Lorenzo	Municipio de San Lorenzo,San Lorenzo	15.02699	-91.74521	A	ADM2	GT		17	1229			0		2896	America/Guatemala	2020-07-12
+3589861	Municipio de San Lorenzo	Municipio de San Lorenzo	Municipio de San Lorenzo,San Lorenzo	14.25221	-91.52555	A	ADM2	GT		20	1007			0		47	America/Guatemala	2020-07-12
+3589879	Municipio de San Juan Tecuaco	Municipio de San Juan Tecuaco	Municipio de San Juan Tecuaco,San Juan Tecuaco	14.07228	-90.26851	A	ADM2	GT		18	607			0		357	America/Guatemala	2020-07-12
+3589884	Municipio de San Juan Sacatepéquez	Municipio de San Juan Sacatepequez	Municipio de San Juan Sacatepequez,Municipio de San Juan Sacatepéquez,San Juan Sacatepequez,San Juan Sacatepéquez	14.76785	-90.65614	A	ADM2	GT		07	110			218156		1564	America/Guatemala	2022-07-29
+3589895	Municipio de San Juan La Laguna	Municipio de San Juan La Laguna		14.66666	-91.31468	A	ADM2	GT		19	717			0		2051	America/Guatemala	2020-07-12
+3589899	Municipio de San Juan Ixcoy	Municipio de San Juan Ixcoy	Municipio de San Juan Ixcoy,San Juan Ixcoy	15.60622	-91.44891	A	ADM2	GT		08	1323			0		2248	America/Guatemala	2020-07-15
+3589902	Municipio de San Juan la Ermita	Municipio de San Juan la Ermita	Municipio de San Juan Ermita,Municipio de San Juan la Ermita,San Juan la Ermita	14.7376	-89.42821	A	ADM2	GT		04	2003			16418		829	America/Guatemala	2022-07-29
+3589912	Municipio de San Juan Cotzal	Municipio de San Juan Cotzal	Municipio de Cotzal,Municipio de San Juan Cotzal,San Juan Cotzal	15.42699	-91.02097	A	ADM2	GT		14	1411			31532		1938	America/Guatemala	2022-07-29
+3589916	Municipio de San Juan Chamelco	Municipio de San Juan Chamelco	Municipio de San Juan Chamelco,San Juan Chamelco	15.39374	-90.2304	A	ADM2	GT		01	1610			0		1524	America/Guatemala	2020-07-12
+3589920	Municipio de San Juan Bautista	Municipio de San Juan Bautista	Municipio de San Juan Bautista,San Juan Bautista	14.42608	-91.19889	A	ADM2	GT		20	1016			0		391	America/Guatemala	2020-07-12
+3589924	Municipio de San Juan Atitán	Municipio de San Juan Atitan	Municipio de San Juan Atitan,Municipio de San Juan Atitán,San Juan Atitan,San Juan Atitán	15.44787	-91.6448	A	ADM2	GT		08	1316			0		2283	America/Guatemala	2020-07-12
+3589974	Municipio de San José Poaquil	Municipio de San Jose Poaquil	Municipio de San Jose Poaquil,Municipio de San José Poaquil,San Jose Poaquil,San José Poaquil	14.85393	-90.9052	A	ADM2	GT		03	402			26845		2029	America/Guatemala	2022-07-30
+3589976	Municipio de San José Pinula	Municipio de San Jose Pinula	Municipio de San Jose Pinula,Municipio de San José Pinula,San Jose Pinula,San José Pinula	14.55181	-90.34718	A	ADM2	GT		07	103			79844		2184	America/Guatemala	2022-07-30
+3589984	Municipio de San José Ojetenam	Municipio de San Jose Ojetenam	Municipio de San Jose Ojetenam,Municipio de San Jose Ojetenan,Municipio de San José Ojetenam,Municipio de San José Ojetenán,San Jose Ojetenam,San José Ojetenam	15.23182	-91.95848	A	ADM2	GT		17	1224			0		2982	America/Guatemala	2020-07-12
+3590016	Municipio de San José La Arada	Municipio de San Jose La Arada	Municipio de San Jose La Arada,Municipio de San José La Arada,San Jose La Arada,San José La Arada	14.71697	-89.6081	A	ADM2	GT		04	2002			8756		622	America/Guatemala	2022-07-30
+3590028	Municipio de San José El Ídolo	Municipio de San Jose El Idolo	Municipio de San Jose El Idolo,Municipio de San José El Ídolo,San Jose El Idolo,San José El Ídolo	14.3851	-91.43345	A	ADM2	GT		20	1005			0		103	America/Guatemala	2020-07-12
+3590033	Municipio de San José del Golfo	Municipio de San Jose del Golfo	Municipio de San Jose del Golfo,Municipio de San José del Golfo,San Jose del Golfo,San José del Golfo	14.78755	-90.36767	A	ADM2	GT		07	104			0		944	America/Guatemala	2020-07-12
+3590040	Municipio de San José Chacayá	Municipio de San Jose Chacaya	Municipio de San Jose Chacaya,Municipio de San José Chacayá,San Jose Chacaya,San José Chacayá	14.76871	-91.22762	A	ADM2	GT		19	702			0		2313	America/Guatemala	2020-07-12
+3590052	Municipio de San José Acatempa	Municipio de San Jose Acatempa	Municipio de San Jose Acatempa,Municipio de San José Acatempa,San Jose Acatempa,San José Acatempa	14.26535	-90.14787	A	ADM2	GT		11	2216			0		1377	America/Guatemala	2020-07-12
+3590058	Municipio de San José	Municipio de San Jose		16.98661	-89.90499	A	ADM2	GT		12	1702			0		215	America/Guatemala	2020-07-12
+3590059	Municipio de San José	Municipio de San Jose		13.95797	-90.88326	A	ADM2	GT		06	509			0		13	America/Guatemala	2020-07-12
+3590106	Municipio de San Jerónimo	Municipio de San Jeronimo	Municipio de San Jeronimo,Municipio de San Jerónimo,San Jeronimo,San Jerónimo	15.06515	-90.18997	A	ADM2	GT		02	1507			25459		1502	America/Guatemala	2022-07-29
+3590124	Municipio de San Jacinto	Municipio de San Jacinto	Municipio de San Jacinto,San Jacinto	14.67465	-89.51699	A	ADM2	GT		04	2010			0		606	America/Guatemala	2020-07-12
+3590187	Municipio de San Gaspar Ixchil	Municipio de San Gaspar Ixchil	Municipio de San Gaspar Ixchil,San Gaspar Ixchil	15.39038	-91.72925	A	ADM2	GT		08	1329			0		1404	America/Guatemala	2020-07-15
+3590192	Municipio de San Gabriel	Municipio de San Gabriel	Municipio de San Gabriel,San Gabriel	14.50664	-91.51319	A	ADM2	GT		20	1012			7383		277	America/Guatemala	2022-07-29
+3590196	Municipio de San Francisco Zapotitlán	Municipio de San Francisco Zapotitlan	Municipio de San Francisco Zapotitlan,Municipio de San Francisco Zapotitlán,San Francisco Zapotitlan,San Francisco Zapotitlán	14.60996	-91.53058	A	ADM2	GT		20	1003			22533		751	America/Guatemala	2022-07-29
+3590210	Municipio de San Francisco La Unión	Municipio de San Francisco La Union	Municipio de San Francisco La Union,Municipio de San Francisco La Unión,Municipio de San Francisco la Union,Municipio de San Francisco la Unión,San Francisco la Union,San Francisco la Unión	14.92383	-91.54398	A	ADM2	GT		13	918			0		2768	America/Guatemala	2026-03-10
+3590218	Municipio de San Francisco El Alto	Municipio de San Francisco El Alto	Municipio de San Francisco El Alto,San Francisco El Alto	14.96617	-91.47457	A	ADM2	GT		21	803			57894		2593	America/Guatemala	2022-07-30
+3590233	Municipio de San Francisco	Municipio de San Francisco	Municipio de San Francisco,San Francisco	16.72425	-89.90877	A	ADM2	GT		12	1706			8066		156	America/Guatemala	2020-07-12
+3590281	Municipio de San Felipe	Municipio de San Felipe		14.62303	-91.59889	A	ADM2	GT		15	1105			17268		611	America/Guatemala	2020-07-15
+3590305	Municipio de San Diego	Municipio de San Diego	Municipio de San Diego,San Diego	14.79398	-89.75549	A	ADM2	GT		22	1908			0		746	America/Guatemala	2020-07-12
+3590315	Municipio de San Cristóbal Verapaz	Municipio de San Cristobal Verapaz	Municipio de San Cristobal Verapaz,Municipio de San Cristóbal Verapaz,San Cristobal Verapaz,San Cristóbal Verapaz	15.39644	-90.55968	A	ADM2	GT		01	1603			68819		2111	America/Guatemala	2022-07-30
+3590317	Municipio de San Cristóbal Totonicapán	Municipio de San Cristobal Totonicapan	Municipio de San Cristobal Totonicapan,Municipio de San Cristóbal Totonicapán,San Cristobal Totonicapan,San Cristóbal Totonicapán	14.92813	-91.47469	A	ADM2	GT		21	802			36119		2667	America/Guatemala	2022-07-30
+3590322	Municipio de San Cristóbal Cucho	Municipio de San Cristobal Cucho	Municipio de San Cristobal Cucho,Municipio de San Cristóbal Cucho,San Cristobal Cucho,San Cristóbal Cucho	14.88976	-91.76778	A	ADM2	GT		17	1225			16619		1729	America/Guatemala	2022-07-30
+3590324	Municipio de San Cristóbal Acasaguastlán	Municipio de San Cristobal Acasaguastlan	Municipio de San Cristobal Acasaguastlan,Municipio de San Cristóbal Acasaguastlán,San Cristobal Acasaguastlan,San Cristóbal Acasaguastlán	14.9961	-89.8862	A	ADM2	GT		05	204			0		821	America/Guatemala	2020-07-12
+3590346	Municipio de San Carlos Sija	Municipio de San Carlos Sija	Municipio de San Carlos Sija,San Carlos Sija	15.05048	-91.56351	A	ADM2	GT		13	904			0		3060	America/Guatemala	2020-07-12
+3590354	Municipio de San Carlos Alzatate	Municipio de San Carlos Alzatate	Municipio de San Carlos Alzatate,San Carlos Alzatate	14.48014	-90.07702	A	ADM2	GT		10	2105			18977		1927	America/Guatemala	2022-07-29
+3590382	Municipio de San Bernardino	Municipio de San Bernardino	Municipio de San Bernardino,San Bernardino	14.53078	-91.45598	A	ADM2	GT		20	1004			0		378	America/Guatemala	2020-07-12
+3590386	Municipio de San Benito	Municipio de San Benito		16.91289	-89.90979	A	ADM2	GT		12	1703			23752		138	America/Guatemala	2020-07-12
+3590392	Municipio de San Bartolomé Milpas Altas	Municipio de San Bartolome Milpas Altas	Municipio de San Bartolome Milpas Altas,Municipio de San Bartolomé Milpas Altas,San Bartolome Milpas Altas,San Bartolomé Milpas Altas	14.59964	-90.68369	A	ADM2	GT		16	307			7816		2183	America/Guatemala	2022-07-30
+3590394	Municipio de San Bartolomé Jocotenango	Municipio de San Bartolome Jocotenango		15.18359	-91.03361	A	ADM2	GT		14	1417			0		1776	America/Guatemala	2020-07-12
+3590397	Municipio de San Bartolo Aguas Calientes	Municipio de San Bartolo Aguas Calientes	Municipio de San Bartolo,Municipio de San Bartolo Aguas Calientes,San Bartolo Aguas Calientes	15.11491	-91.45771	A	ADM2	GT		21	808			0		2038	America/Guatemala	2020-07-12
+3590405	Municipio de Sanarate	Municipio de Sanarate	Municipio de Sanarate,Sanarate	14.82141	-90.21269	A	ADM2	GT		05	206			0		1002	America/Guatemala	2020-07-12
+3590411	Municipio de San Antonio Suchitepéquez	Municipio de San Antonio Suchitepequez	Municipio de San Antonio Suchitepequez,Municipio de San Antonio Suchitepéquez,San Antonio Suchitepequez,San Antonio Suchitepéquez	14.51839	-91.40438	A	ADM2	GT		20	1010			37857		329	America/Guatemala	2020-07-12
+3590418	Municipio de San Antonio Sacatepéquez	Municipio de San Antonio Sacatepequez	Municipio de San Antonio Sacatepequez,Municipio de San Antonio Sacatepéquez,San Antonio Sacatepequez,San Antonio Sacatepéquez	14.95868	-91.70426	A	ADM2	GT		17	1203			0		2723	America/Guatemala	2020-07-12
+3590423	Municipio de San Antonio Palopó	Municipio de San Antonio Palopo	Municipio de San Antonio Palopo,Municipio de San Antonio Palopó,San Antonio Palopo,San Antonio Palopó	14.6652	-91.105	A	ADM2	GT		19	712			0		1953	America/Guatemala	2020-07-12
+3590447	Municipio de San Antonio La Paz	Municipio de San Antonio La Paz	Municipio de San Antonio La Paz,San Antonio La Paz	14.7449	-90.2709	A	ADM2	GT		05	208			20957		1389	America/Guatemala	2022-07-30
+3590455	Municipio de San Antonio Ilotenango	Municipio de San Antonio Ilotenango	Municipio de San Antonio Ilotenango,San Antonio Ilotenango	15.04898	-91.20872	A	ADM2	GT		14	1408			17204		1938	America/Guatemala	2020-07-12
+3590457	Municipio de San Antonio Huista	Municipio de San Antonio Huista	Municipio de San Antonio Huista,San Antonio Huista	15.64391	-91.78705	A	ADM2	GT		08	1324			16697		938	America/Guatemala	2022-07-29
+3590474	Municipio de San Antonio Aguas Calientes	Municipio de San Antonio Aguas Calientes		14.54562	-90.77803	A	ADM2	GT		16	315			0		1484	America/Guatemala	2020-07-15
+3590519	Municipio de San Andrés Xecul	Municipio de San Andres Xecul	Municipio de San Andres Xecul,Municipio de San Andrés Xecul,San Andres Xecul,San Andrés Xecul	14.90778	-91.49623	A	ADM2	GT		21	804			26984		2829	America/Guatemala	2022-07-30
+3590521	Municipio de San Andrés Villa Seca	Municipio de San Andres Villa Seca	Municipio de San Andres Villa Seca,Municipio de San Andrés Villa Seca,San Andres Villa Seca,San Andrés Villa Seca	14.33882	-91.64045	A	ADM2	GT		15	1106			47820		71	America/Guatemala	2022-07-30
+3590523	Municipio de San Andrés Semetabaj	Municipio de San Andres Semetabaj	Municipio de San Andres Semetabaj,Municipio de San Andrés Semetabaj,San Andres Semetabaj,San Andrés Semetabaj	14.74386	-91.10467	A	ADM2	GT		19	709			0		2146	America/Guatemala	2020-07-12
+3590525	Municipio de San Andrés Sajcabajá	Municipio de San Andres Sajcabaja	Municipio de San Andres Sajcabaja,Municipio de San Andrés Sajcabajá,San Andres Sajcabaja,San Andrés Sajcabajá	15.22527	-90.93018	A	ADM2	GT		14	1414			19035		1110	America/Guatemala	2020-07-12
+3590528	Municipio de San Andrés Itzapa	Municipio de San Andres Itzapa	Municipio de San Andres Itzapa,Municipio de San Andrés Itzapa,San Andres Itzapa,San Andrés Itzapa	14.61014	-90.86905	A	ADM2	GT		03	413			32083		2083	America/Guatemala	2022-07-30
+3590534	Municipio de San Andrés	Municipio de San Andres	Municipio de San Andres,Municipio de San Andrés,San Andres,San Andrés	17.49541	-90.39883	A	ADM2	GT		12	1704			20295		120	America/Guatemala	2020-07-12
+3590546	Municipio de San Agustín Acasaguastlán	Municipio de San Agustin Acasaguastlan	Municipio de San Agustin Acasaguastlan,Municipio de San Agustín Acasaguastlán,San Agustin Acasaguastlan,San Agustín Acasaguastlán	15.01498	-89.98934	A	ADM2	GT		05	203			17728		791	America/Guatemala	2022-07-30
+3590566	Municipio de Samayac	Municipio de Samayac	Municipio de Samayac,Samayac	14.57438	-91.4707	A	ADM2	GT		20	1008			0		580	America/Guatemala	2020-07-12
+3590604	Municipio de Salcajá	Municipio de Salcaja	Municipio de Salcaja,Municipio de Salcajá,Salcaja,Salcajá	14.87636	-91.46182	A	ADM2	GT		13	902			19434		2326	America/Guatemala	2022-07-29
+3590615	Municipio de Salamá	Municipio de Salama	Municipio de Salama,Municipio de Salamá,Salama,Salamá	15.08094	-90.3227	A	ADM2	GT		02	1501			65275		1154	America/Guatemala	2022-07-29
+3590689	Municipio de Sacapulas	Municipio de Sacapulas		15.26318	-91.11288	A	ADM2	GT		14	1416			0		1548	America/Guatemala	2020-07-12
+3590786	Municipio de Río Hondo	Municipio de Rio Hondo	Municipio de Rio Hondo,Municipio de Río Hondo,Rio Hondo,Río Hondo	15.09526	-89.58998	A	ADM2	GT		22	1903			0		1358	America/Guatemala	2020-07-12
+3590802	Municipio de Río Bravo	Municipio de Rio Bravo		14.4	-91.32	A	ADM2	GT		20	1020			27606		157	America/Guatemala	2022-07-29
+3590807	Municipio de Río Blanco	Municipio de Rio Blanco	Municipio de Rio Blanco,Municipio de Río Blanco,Rio Blanco,Río Blanco	15.03738	-91.68463	A	ADM2	GT		17	1228			0		2638	America/Guatemala	2020-07-12
+3590856	Municipio de Retalhuleu	Municipio de Retalhuleu		14.53386	-91.68623	A	ADM2	GT		15	1101			0		233	America/Guatemala	2020-07-12
+3590923	Municipio de Rabinal	Municipio de Rabinal		15.11238	-90.50706	A	ADM2	GT		02	1503			0		985	America/Guatemala	2020-07-12
+3590972	Municipio de Quezaltepeque	Municipio de Quezaltepeque	Municipio de Quezaltepeque,Quezaltepeque	14.61832	-89.45318	A	ADM2	GT		04	2009			0		619	America/Guatemala	2020-07-12
+3590977	Municipio de Quetzaltenango	Municipio de Quetzaltenango	Municipio de Quetzaltenango,Quetzaltenango	14.81839	-91.53632	A	ADM2	GT		13	901			0		2407	America/Guatemala	2020-07-12
+3590986	Municipio de Quesada	Municipio de Quesada	Municipio de Quesada,Municipio de Quezada,Quesada	14.27995	-90.05866	A	ADM2	GT		11	2217			0		1078	America/Guatemala	2020-07-12
+3591027	Municipio de Purulhá	Municipio de Purulha	Municipio de Purulha,Municipio de Purulhá,Municipio de San Antonio Purulha	15.21518	-90.03844	A	ADM2	GT		02	1508			56822		593	America/Guatemala	2022-07-30
+3591061	Municipio de Puerto Barrios	Municipio de Puerto Barrios		15.71754	-88.58517	A	ADM2	GT		09	1801			40900		15	America/Guatemala	2020-07-12
+3591091	Municipio de Pueblo Nuevo Viñas	Municipio de Pueblo Nuevo Vinas	Municipio de Pueblo Nuevo Vinas,Municipio de Pueblo Nuevo Viñas,Pueblo Nuevo Vinas,Pueblo Nuevo Viñas	14.22958	-90.49142	A	ADM2	GT		18	613			0		1620	America/Guatemala	2020-07-12
+3591096	Municipio de Pueblo Nuevo	Municipio de Pueblo Nuevo	Municipio de Pueblo Nuevo,Pueblo Nuevo	14.65683	-91.53129	A	ADM2	GT		20	1019			0		1081	America/Guatemala	2020-07-12
+3591180	Municipio de Poptún	Municipio de Poptun	Municipio de Poptun,Municipio de Poptún,Poptun,Poptún	16.35687	-89.58912	A	ADM2	GT		12	1712			30386		456	America/Guatemala	2020-07-12
+3591209	Municipio de Pochuta	Municipio de Pochuta	Municipio de Pochuta,Pochuta	14.53556	-91.07496	A	ADM2	GT		03	408			0		1200	America/Guatemala	2020-07-12
+3591414	Municipio de Petapa	Municipio de Petapa	Municipio de Petapa,Petapa,San Miguel Petapa	14.50788	-90.55553	A	ADM2	GT		07	117			0		1269	America/Guatemala	2020-07-12
+3591511	Municipio de Patzún	Municipio de Patzun		14.64616	-91.03436	A	ADM2	GT		03	407			0		2402	America/Guatemala	2020-07-12
+3591516	Municipio de Patzité	Municipio de Patzite	Municipio de Patzite,Municipio de Patzité,Patzite,Patzité	14.97097	-91.19722	A	ADM2	GT		14	1407			4695		2236	America/Guatemala	2020-07-12
+3591521	Municipio de Patzicía	Municipio de Patzicia	Municipio de Patzicia,Municipio de Patzicía,Patzicia,Patzicía	14.63882	-90.93564	A	ADM2	GT		03	409			0		2126	America/Guatemala	2020-07-12
+3591540	Municipio de Patulul	Municipio de Patulul	Municipio de Patulul,Patulul	14.37176	-91.17605	A	ADM2	GT		20	1014			0		244	America/Guatemala	2020-07-12
+3591573	Municipio de Pastores	Municipio de Pastores	Municipio de Pastores,Pastores	14.59581	-90.77036	A	ADM2	GT		16	303			12621		1828	America/Guatemala	2022-07-26
+3591617	Municipio de Pasaco	Municipio de Pasaco	Municipio de Pasaco,Pasaco	13.92817	-90.21184	A	ADM2	GT		11	2215			0		28	America/Guatemala	2020-07-12
+3591628	Municipio de Parramos	Municipio de Parramos	Municipio de Parramos,Parramos	14.5875	-90.81978	A	ADM2	GT		03	414			15924		1946	America/Guatemala	2022-07-26
+3591675	Municipio de Panzós	Municipio de Panzos		15.30866	-89.65564	A	ADM2	GT		01	1607			71846		28	America/Guatemala	2022-07-26
+3591748	Municipio de Panajachel	Municipio de Panajachel	Municipio de Panajachel,Panajachel	14.74676	-91.14935	A	ADM2	GT		19	710			11142		1604	America/Guatemala	2020-07-12
+3591830	Municipio de Palín	Municipio de Palin	Municipio de Palin,Municipio de Palín,Palin,Palín	14.39134	-90.70029	A	ADM2	GT		06	511			65873		1090	America/Guatemala	2022-07-26
+3591840	Municipio de Palestina de los Altos	Municipio de Palestina de los Altos		14.93229	-91.67591	A	ADM2	GT		13	924			0		2765	America/Guatemala	2020-07-12
+3591849	Municipio de Palencia	Municipio de Palencia	Municipio de Palencia,Palencia	14.66118	-90.32314	A	ADM2	GT		07	105			70973		1837	America/Guatemala	2022-07-26
+3591884	Municipio de Pajapita	Municipio de Pajapita	Municipio de Pajapita,Pajapita	14.73388	-92.04957	A	ADM2	GT		17	1222			21725		61	America/Guatemala	2022-07-26
+3591996	Municipio de San Juan Ostuncalco	Municipio de San Juan Ostuncalco	Municipio de Ostuncalco,Municipio de San Juan Ostuncalco,San Juan Ostuncalco	14.87477	-91.68842	A	ADM2	GT		13	909			51828		2796	America/Guatemala	2022-07-29
+3592017	Municipio de Oratorio	Municipio de Oratorio	Municipio de Oratorio,Oratorio	14.11348	-90.11901	A	ADM2	GT		18	606			24954		431	America/Guatemala	2022-07-26
+3592034	Municipio de Olopa	Municipio de Olopa	Municipio de Olopa,Olopa	14.69788	-89.32035	A	ADM2	GT		04	2006			0		1347	America/Guatemala	2020-07-12
+3592040	Municipio de Olintepeque	Municipio de Olintepeque	Municipio de Olintepeque,Olintepeque	14.89255	-91.53489	A	ADM2	GT		13	903			35060		2483	America/Guatemala	2022-07-26
+3592084	Municipio de Ocós	Municipio de Ocos	Municipio de Ocos,Municipio de Ocós,Ocos,Ocós	14.55297	-92.17743	A	ADM2	GT		17	1218			10841		13	America/Guatemala	2022-07-29
+3592104	Municipio de Nuevo San Carlos	Municipio de Nuevo San Carlos	Municipio de Nuevo San Carlos,Nuevo San Carlos	14.6182	-91.69134	A	ADM2	GT		15	1108			39565		457	America/Guatemala	2022-07-29
+3592107	Municipio de Nuevo Progreso	Municipio de Nuevo Progreso	Municipio de Nuevo Progreso,Nuevo Progreso	14.79386	-91.90438	A	ADM2	GT		17	1212			0		654	America/Guatemala	2020-07-12
+3592125	Municipio de Nueva Santa Rosa	Municipio de Nueva Santa Rosa	Municipio de Nueva Santa Rosa,Nueva Santa Rosa	14.36452	-90.26627	A	ADM2	GT		18	614			0		1173	America/Guatemala	2020-07-12
+3592142	Municipio de Nueva Concepción	Municipio de Nueva Concepcion	Municipio de Nueva Concepcion,Municipio de Nueva Concepción,Nueva Concepcion,Nueva Concepción	14.12491	-91.29249	A	ADM2	GT		06	513			72909		36	America/Guatemala	2022-07-29
+3592216	Municipio de Nentón	Municipio de Nenton	Municipio de Nenton,Municipio de Nentón,Nenton,Nentón	15.92353	-91.72189	A	ADM2	GT		08	1305			45679		1218	America/Guatemala	2022-07-26
+3592236	Municipio de Nebaj	Municipio de Nebaj	Municipio de Nebaj,Municipio de Santa Maria Nebaj,Municipio de Santa María Nebaj	15.56143	-91.17326	A	ADM2	GT		14	1413			72686		1738	America/Guatemala	2022-07-30
+3592285	Municipio de Nahualá	Municipio de Nahuala	Municipio de Nahuala,Municipio de Nahualá,Nahuala,Nahualá	14.77548	-91.41616	A	ADM2	GT		19	705			51939		3224	America/Guatemala	2020-07-12
+3592320	Municipio de Moyuta	Municipio de Moyuta	Moyuta,Municipio de Moyuta	13.9051	-90.12665	A	ADM2	GT		11	2214			0		107	America/Guatemala	2020-07-12
+3592348	Municipio de Morazán	Municipio de Morazan	Morazan,Morazán,Municipio de Morazan,Municipio de Morazán	14.96626	-90.15693	A	ADM2	GT		05	202			0		978	America/Guatemala	2020-07-12
+3592361	Municipio de Morales	Municipio de Morales	Morales,Municipio de Morales	15.44494	-88.76646	A	ADM2	GT		09	1804			100361		47	America/Guatemala	2022-07-27
+3592476	Municipio de Monjas	Municipio de Monjas	Monjas,Municipio de Monjas	14.51271	-89.89555	A	ADM2	GT		10	2106			27354		981	America/Guatemala	2022-07-27
+3592482	Municipio de Momostenango	Municipio de Momostenango		15.04726	-91.40625	A	ADM2	GT		21	805			105617		2206	America/Guatemala	2022-07-27
+3592517	Municipio de Mixco	Municipio de Mixco	Mixco,Municipio de Mixco	14.63911	-90.59422	A	ADM2	GT		07	108			465773		1652	America/Guatemala	2022-07-27
+3592595	Municipio de Melchor de Mencos	Municipio de Melchor de Mencos	Melchor de Mencos,Municipio de Melchor de Mencos	17.21338	-89.24753	A	ADM2	GT		12	1711			0		231	America/Guatemala	2020-07-12
+3592608	Municipio de Mazatenango	Municipio de Mazatenango	Mazatenango,Municipio de Mazatenango	14.52727	-91.52917	A	ADM2	GT		20	1001			77431		345	America/Guatemala	2022-07-27
+3592634	Municipio de Mataquescuintla	Municipio de Mataquescuintla	Mataquescuintla,Municipio de Mataquescuintla	14.54777	-90.20008	A	ADM2	GT		10	2107			41848		1492	America/Guatemala	2022-07-27
+3592641	Municipio de Masagua	Municipio de Masagua	Masagua,Municipio de Masagua	14.08505	-90.80899	A	ADM2	GT		06	505			45323		33	America/Guatemala	2022-07-27
+3592750	Municipio de Malacatancito	Municipio de Malacatancito	Malacatancito,Municipio de Malacatancito,Santa Ana Malacatan,Santa Ana Malacatán	15.21551	-91.47046	A	ADM2	GT		08	1303			0		1701	America/Guatemala	2020-07-12
+3592752	Municipio de Malacatán	Municipio de Malacatan		14.91829	-92.10548	A	ADM2	GT		17	1215			92816		272	America/Guatemala	2022-07-27
+3592769	Municipio de Magdalena Milpas Altas	Municipio de Magdalena Milpas Altas	Magdalena Milpas Altas,Municipio de Magdalena Milpas Altas	14.54206	-90.67553	A	ADM2	GT		16	310			11856		2126	America/Guatemala	2022-07-29
+3593233	Municipio de Los Amates	Municipio de Los Amates		15.25744	-89.10092	A	ADM2	GT		09	1805			60914		93	America/Guatemala	2022-07-27
+3593375	Municipio de Lívingston	Municipio de Livingston		15.82783	-88.75352	A	ADM2	GT		09	1802			0		19	America/Guatemala	2020-07-12
+3593488	Municipio de La Unión	Municipio de La Union	La Union,La Union Zacapa,La Unión,Municipio de La Union,Municipio de La Unión	14.95771	-89.27496	A	ADM2	GT		22	1909			0		1399	America/Guatemala	2020-07-12
+3594137	Municipio de La Reforma	Municipio de La Reforma	La Reforma,Municipio de La Reforma	14.80492	-91.82821	A	ADM2	GT		17	1221			0		1072	America/Guatemala	2020-07-12
+3594314	Municipio de Lanquín	Municipio de Lanquin	Lanquin,Lanquín,Municipio de Lanquin,Municipio de Lanquín	15.56436	-89.99064	A	ADM2	GT		01	1611			0		789	America/Guatemala	2020-07-12
+3594418	Municipio de La Libertad	Municipio de La Libertad	La Libertad,Municipio de La Libertad	17.00399	-90.58223	A	ADM2	GT		12	1705			0		166	America/Guatemala	2020-07-12
+3594419	Municipio de La Libertad	Municipio de La Libertad	Municipio de La Libertad,Trapichillo	15.56327	-91.91099	A	ADM2	GT		08	1311			38234		2486	America/Guatemala	2022-07-30
+3594574	Municipio de La Gomera	Municipio de La Gomera	La Gomera,Municipio de La Gomera	14.07871	-91.10949	A	ADM2	GT		06	507			46666		31	America/Guatemala	2022-07-27
+3594666	Municipio de La Esperanza	Municipio de La Esperanza	La Esperanza,Municipio de La Esperanza	14.87678	-91.57591	A	ADM2	GT		13	923			22166		2400	America/Guatemala	2022-07-29
+3594749	Municipio de La Democracia	Municipio de La Democracia	La Democracia,Municipio de La Democracia	15.63309	-91.88342	A	ADM2	GT		08	1312			0		1115	America/Guatemala	2020-07-12
+3594750	Municipio de La Democracia	Municipio de La Democracia	La Democracia,Municipio de La Democracia	14.13052	-90.94711	A	ADM2	GT		06	503			23017		67	America/Guatemala	2022-07-27
+3595065	Municipio de Jutiapa	Municipio de Jutiapa	Jutiapa,Municipio de Jutiapa	14.30355	-89.92888	A	ADM2	GT		11	2201			145880		937	America/Guatemala	2022-07-27
+3595147	Municipio de Joyabaj	Municipio de Joyabaj	Joyabaj,Municipio de Joyabaj	14.98073	-90.82079	A	ADM2	GT		14	1412			82369		1477	America/Guatemala	2022-07-29
+3595170	Municipio de Jocotenango	Municipio de Jocotenango	Jocotenango,Municipio de Jocotenango	14.58658	-90.73579	A	ADM2	GT		16	302			21657		1829	America/Guatemala	2022-07-27
+3595180	Municipio de Jocotán	Municipio de Jocotan	Jocotan,Jocotán,Municipio de Jocotan,Municipio de Jocotán	14.7745	-89.38044	A	ADM2	GT		04	2004			66379		993	America/Guatemala	2022-07-27
+3595222	Municipio de Jerez	Municipio de Jerez	Jerez,Municipio de Jerez	14.07949	-89.7604	A	ADM2	GT		11	2208			0		866	America/Guatemala	2020-07-12
+3595231	Municipio de Jalpatagua	Municipio de Jalpatagua	Jalpatagua,Municipio de Jalpatagua	14.11629	-90.01811	A	ADM2	GT		11	2212			28832		579	America/Guatemala	2022-07-28
+3595235	Municipio de Jalapa	Municipio de Jalapa	Jalapa,Municipio de Jalapa	14.63275	-90.03301	A	ADM2	GT		10	2101			159840		1684	America/Guatemala	2022-07-28
+3595247	Municipio de Jacaltenango	Municipio de Jacaltenango		15.75212	-91.73316	A	ADM2	GT		08	1307			37171		1015	America/Guatemala	2022-07-28
+3595254	Municipio de Iztapa	Municipio de Iztapa	Iztapa,Municipio de Iztapa	13.95326	-90.69241	A	ADM2	GT		06	510			0		10	America/Guatemala	2020-07-12
+3595281	San Ildefonso Ixtahuacán	San Ildefonso Ixtahuacan	Municipio de Ixtahuacan,Municipio de Ixtahuacán,Municipio de San Idelfonso Ixtahuacan,Municipio de San Ildefonso Ixtahuacan,Municipio de San Ildefonso Ixtahuacán,San Idelfonso Ixtahuacan,San Idelfonso Ixtahuacán,San Ildefonso Ixtahuacan,San Ildefonso Ixtahuacán	15.41605	-91.81293	A	ADM2	GT		08	1309			44424		1831	America/Guatemala	2022-07-30
+3595328	Municipio de Ixchiguán	Municipio de Ixchiguan		15.14291	-91.91546	A	ADM2	GT		17	1223			0		3255	America/Guatemala	2020-07-12
+3595363	Municipio de Ipala	Municipio de Ipala	Ipala,Municipio de Ipala	14.5823	-89.60483	A	ADM2	GT		04	2011			22413		882	America/Guatemala	2022-07-28
+3595402	Municipio de Huité	Municipio de Huite	Huite,Huité,Municipio de Huite,Municipio de Huité	14.92172	-89.692	A	ADM2	GT		22	1910			0		731	America/Guatemala	2020-07-12
+3595404	Municipio de Huitán	Municipio de Huitan		15.04523	-91.62765	A	ADM2	GT		13	915			0		2764	America/Guatemala	2020-07-12
+3595414	Municipio de Huehuetenango	Municipio de Huehuetenango		15.31403	-91.38761	A	ADM2	GT		08	1301			0		2135	America/Guatemala	2020-07-12
+3595502	Municipio de Guazacapán	Municipio de Guazacapan	Guazacapan,Guazacapán,Municipio de Guazacapan,Municipio de Guazacapán	14.01786	-90.434	A	ADM2	GT		18	611			18855		54	America/Guatemala	2022-07-29
+3595529	Municipio de Guatemala	Municipio de Guatemala		14.61382	-90.5409	A	ADM2	GT		07	101			0		1529	America/Guatemala	2020-07-12
+3595553	Municipio de Guanagazapa	Municipio de Guanagazapa	Guanagazapa,Municipio de Guanagazapa	14.14149	-90.66213	A	ADM2	GT		06	508			0		43	America/Guatemala	2020-07-12
+3595559	Municipio de Gualán	Municipio de Gualan		15.13	-89.37	A	ADM2	GT		22	1904			0		126	America/Guatemala	2020-07-12
+3595630	Municipio de Granados	Municipio de Granados	Granados,Municipio de Granados	14.9314	-90.57559	A	ADM2	GT		02	1505			0		1440	America/Guatemala	2020-07-12
+3595670	Municipio de Génova	Municipio de Genova	Genova,Génova,Municipio de Genova,Municipio de Genova Costa Cuca,Municipio de Génova,Municipio de Génova Costa Cuca	14.5589	-91.83622	A	ADM2	GT		13	921			0		170	America/Guatemala	2020-07-12
+3595713	Municipio de Fraijanes	Municipio de Fraijanes	Fraijanes,Municipio de Fraijanes	14.47187	-90.44402	A	ADM2	GT		07	113			0		1593	America/Guatemala	2020-07-12
+3595720	Municipio de Flores Costa Cuca	Municipio de Flores Costa Cuca		14.63238	-91.86341	A	ADM2	GT		13	922			21630		316	America/Guatemala	2022-07-29
+3595722	Municipio de Flores	Municipio de Flores	Municipio de Ciudad Flores,Municipio de Flores	16.92381	-89.89709	A	ADM2	GT		12	1701			13700		120	America/Guatemala	2020-07-12
+3595755	Municipio de Estanzuela	Municipio de Estanzuela	Estanzuela,Municipio de Estanzuela	14.98354	-89.61374	A	ADM2	GT		22	1902			0		206	America/Guatemala	2020-07-12
+3595777	Municipio de Esquipulas Palo Gordo	Municipio de Esquipulas Palo Gordo	Esquipulas Palo Gordo,Municipio de Esquipulas Palo Gordo	14.92698	-91.84237	A	ADM2	GT		17	1227			12892		2386	America/Guatemala	2022-07-29
+3595780	Municipio de Esquipulas	Municipio de Esquipulas	Esquipulas,Municipio de Esquipulas	14.61403	-89.26971	A	ADM2	GT		04	2007			0		1026	America/Guatemala	2020-07-12
+3595801	Municipio de Escuintla	Municipio de Escuintla	Escuintla,Municipio de Escuintla	14.30289	-90.78911	A	ADM2	GT		06	501			0		340	America/Guatemala	2020-07-12
+3595928	Municipio de El Tumbador	Municipio de El Tumbador	El Tumbador,Municipio de El Tumbador	14.84986	-91.94836	A	ADM2	GT		17	1213			44395		765	America/Guatemala	2022-07-29
+3596040	Municipio de El Tejar	Municipio de El Tejar	El Tejar,Municipio de El Tejar	14.67064	-90.78988	A	ADM2	GT		03	416			0		1775	America/Guatemala	2020-07-12
+3596243	Municipio de El Rodeo	Municipio de El Rodeo	El Rodeo,Municipio de El Rodeo,Municipio de San Jose El Rodeo,San Jose el Rodeo	14.89616	-91.99757	A	ADM2	GT		17	1214			0		568	America/Guatemala	2022-07-29
+3596386	Municipio de El Quetzal	Municipio de El Quetzal	El Quetzal,Municipio de El Quetzal	14.75643	-91.81175	A	ADM2	GT		17	1220			23511		865	America/Guatemala	2022-07-29
+3596411	Municipio de El Progreso	Municipio de El Progreso	El Progreso,Municipio de El Progreso	14.37397	-89.84856	A	ADM2	GT		11	2202			22114		970	America/Guatemala	2022-07-29
+3596634	Municipio de El Palmar	Municipio de El Palmar	El Palmar,Municipio de El Palmar	14.69563	-91.6099	A	ADM2	GT		13	919			29132		982	America/Guatemala	2022-07-29
+3596938	Municipio de El Jícaro	Municipio de El Jicaro		14.88752	-89.91598	A	ADM2	GT		05	205			13128		395	America/Guatemala	2022-07-29
+3597077	Municipio de El Estor	Municipio de El Estor	El Estor,Municipio de El Estor	15.42821	-89.44877	A	ADM2	GT		09	1803			73328		9	America/Guatemala	2022-12-23
+3597300	Municipio de El Chol	Municipio de El Chol	Municipio de El Chol,Municipio de Santa Cruz El Chol	14.95266	-90.48728	A	ADM2	GT		02	1506			0		985	America/Guatemala	2020-07-12
+3597586	Municipio de El Asintal	Municipio de El Asintal	El Asintal,Municipio de El Asintal	14.56708	-91.74864	A	ADM2	GT		15	1109			36882		232	America/Guatemala	2022-07-26
+3597674	Municipio de El Adelanto	Municipio de El Adelanto	El Adelanto,Municipio de El Adelanto	14.17355	-89.84892	A	ADM2	GT		11	2209			0		754	America/Guatemala	2020-07-12
+3597716	Municipio de Dolores	Municipio de Dolores	Dolores,Municipio de Dolores	16.58136	-89.35197	A	ADM2	GT		12	1708			0		439	America/Guatemala	2020-07-12
+3597749	Municipio de Cuyotenango	Municipio de Cuyotenango	Cuyotenango,Municipio de Cuyotenango	14.49243	-91.56627	A	ADM2	GT		20	1002			33436		224	America/Guatemala	2022-07-26
+3597771	Municipio de Cunén	Municipio de Cunen	Cunen,Cunén,Municipio de Cunen,Municipio de Cunén	15.36312	-91.01889	A	ADM2	GT		14	1410			41455		2789	America/Guatemala	2022-07-28
+3597800	Municipio de Cuilco	Municipio de Cuilco	Cuilco,Municipio de Cuilco,San Andres Cuilco,San Andrés Cuilco	15.41617	-91.99208	A	ADM2	GT		08	1304			0		1457	America/Guatemala	2020-07-12
+3597803	Municipio de Cuilapa	Municipio de Cuilapa	Cuilapa,Municipio de Cuilapa,Santa Rosa Cuilapa	14.26544	-90.27398	A	ADM2	GT		18	601			41359		811	America/Guatemala	2022-12-23
+3597836	Municipio de Cubulco	Municipio de Cubulco		15.15445	-90.67126	A	ADM2	GT		02	1504			54869		1352	America/Guatemala	2022-07-26
+3597965	Municipio de Conguaco	Municipio de Conguaco	Conguaco,Municipio de Conguaco	14.01217	-90.01658	A	ADM2	GT		11	2213			0		647	America/Guatemala	2020-07-12
+3597975	Municipio de Concepción Tutuapa	Municipio de Concepcion Tutuapa	Concepcion Tutuapa,Concepción Tutuapa,Municipio de Concepcion Tutuapa,Municipio de Concepción Tutuapa	15.28795	-91.86738	A	ADM2	GT		17	1206			68148		2791	America/Guatemala	2022-07-28
+3597984	Municipio de Concepción Las Minas	Municipio de Concepcion Las Minas	Concepcion Las Minas,Concepción Las Minas,Municipio de Concepcion Las Minas,Municipio de Concepción Las Minas	14.49067	-89.44913	A	ADM2	GT		04	2008			11693		1032	America/Guatemala	2022-07-30
+3597992	Municipio de Concepción Chiquirichapa	Municipio de Concepcion Chiquirichapa	Concepcion Chiquirichapa,Concepción Chiquirichapa,Municipio de Concepcion Chiquirichapa,Municipio de Concepción Chiquirichapa	14.84624	-91.61854	A	ADM2	GT		13	911			17342		2662	America/Guatemala	2022-07-28
+3598001	Municipio de Concepción Huista	Municipio de Concepcion Huista	Concepcion Huista,Concepción Huista,Municipio de Concepcion,Municipio de Concepcion Huista,Municipio de Concepción,Municipio de Concepción Huista	15.62974	-91.66564	A	ADM2	GT		08	1322			18915		2175	America/Guatemala	2022-07-30
+3598002	Municipio de Concepción	Municipio de Concepcion	Concepcion,Concepción,Municipio de Concepcion,Municipio de Concepción	14.78232	-91.13469	A	ADM2	GT		19	708			0		1860	America/Guatemala	2020-07-12
+3598023	Municipio de Comitancillo	Municipio de Comitancillo	Comitancillo,Municipio de Comitancillo	15.10817	-91.74107	A	ADM2	GT		17	1204			59489		2097	America/Guatemala	2022-07-26
+3598030	Municipio de Comapa	Municipio de Comapa	Comapa,Municipio de Comapa	14.11407	-89.90078	A	ADM2	GT		11	2211			31784		1108	America/Guatemala	2022-07-26
+3598032	Municipio de Comalapa	Municipio de Comalapa	Comalapa,Municipio de Comalapa,Municipio de San Juan Comalapa	14.74602	-90.89787	A	ADM2	GT		03	404			48597		2169	America/Guatemala	2022-07-26
+3598040	Municipio de Colotenango	Municipio de Colotenango		15.40718	-91.71438	A	ADM2	GT		08	1319			34834		1562	America/Guatemala	2022-07-26
+3598072	Municipio de Colomba	Municipio de Colomba	Colomba,Municipio de Colomba,Municipio de Colomba Costa Cuca	14.71002	-91.74691	A	ADM2	GT		13	917			47544		974	America/Guatemala	2022-07-28
+3598116	Municipio de Cobán	Municipio de Coban		15.70983	-90.54026	A	ADM2	GT		01	1601			212047		341	America/Guatemala	2022-07-26
+3598121	Municipio de Coatepeque	Municipio de Coatepeque	Coatepeque,Municipio de Coatepeque,Village of Gardenias	14.64309	-91.97926	A	ADM2	GT		13	920			41294		94	America/Guatemala	2022-07-26
+3598127	Municipio de Ciudad Vieja	Municipio de Ciudad Vieja	Ciudad Vieja,Municipio de Ciudad Vieja	14.508	-90.77028	A	ADM2	GT		16	312			33405		1678	America/Guatemala	2022-07-28
+3598276	Municipio de Chuarrancho	Municipio de Chuarrancho	Chuarrancho,Municipio de Chuarrancho	14.85017	-90.47487	A	ADM2	GT		07	112			10101		861	America/Guatemala	2022-07-26
+3598414	Municipio de Chisec	Municipio de Chisec	Chisec,Municipio de Chisec	15.86981	-90.31915	A	ADM2	GT		01	1613			84553		293	America/Guatemala	2022-07-26
+3598459	Municipio de Chiquimulilla	Municipio de Chiquimulilla		14.09716	-90.37903	A	ADM2	GT		18	608			53727		324	America/Guatemala	2022-07-26
+3598463	Municipio de Chiquimula	Municipio de Chiquimula	Chiquimula,Municipio de Chiquimula	14.80376	-89.5809	A	ADM2	GT		04	2001			111505		826	America/Guatemala	2022-07-26
+3598512	Municipio de Chinique	Municipio de Chinique	Chinique,Municipio de Chinique	15.06947	-91.01803	A	ADM2	GT		14	1403			8009		2142	America/Guatemala	2020-07-12
+3598528	Municipio de Chinautla	Municipio de Chinautla	Chinautla,Municipio de Chinautla	14.73061	-90.49567	A	ADM2	GT		07	106			114752		1187	America/Guatemala	2022-07-26
+3598570	Municipio de Chimaltenango	Municipio de Chimaltenango	Chimaltenango,Municipio de Chimaltenango	14.68443	-90.82836	A	ADM2	GT		03	401			96985		1836	America/Guatemala	2022-07-26
+3598654	Municipio de Chichicastenango	Municipio de Chichicastenango	Chichicastenango,Municipio de Chichicastenango,Municipio de Santo Tomas Chichicastenango	14.89203	-91.08808	A	ADM2	GT		14	1406			141567		2188	America/Guatemala	2022-07-28
+3598658	Municipio de Chiché	Municipio de Chiche	Chiche,Chiché,Municipio de Chiche,Municipio de Chiché	15.01196	-91.03836	A	ADM2	GT		14	1402			19762		1959	America/Guatemala	2020-07-12
+3598677	Municipio de Chicacao	Municipio de Chicacao	Chicacao,Municipio de Chicacao	14.53382	-91.30057	A	ADM2	GT		20	1013			60735		564	America/Guatemala	2022-07-26
+3598691	Municipio de Chiantla	Municipio de Chiantla	Chiantla,Municipio de Chiantla	15.44869	-91.42863	A	ADM2	GT		08	1302			87447		3220	America/Guatemala	2022-07-26
+3598786	Municipio de Champerico	Municipio de Champerico	Champerico,Municipio de Champerico	14.34274	-91.88085	A	ADM2	GT		15	1107			32815		19	America/Guatemala	2022-07-26
+3598803	Municipio de Chajul	Municipio de Chajul		15.4871	-91.03786	A	ADM2	GT		14	1405			46658		2061	America/Guatemala	2022-07-26
+3598824	Municipio de Chahal	Municipio de Chahal	Chahal,Municipio de Chahal	15.72863	-89.56493	A	ADM2	GT		01	1614			0		398	America/Guatemala	2020-07-12
+3598956	Municipio de Catarina	Municipio de Catarina	Catarina,Municipio de Catarina	14.85181	-92.07018	A	ADM2	GT		17	1216			0		230	America/Guatemala	2020-07-12
+3598967	Municipio de Casillas	Municipio de Casillas	Casillas,Municipio de Casillas	14.37854	-90.1726	A	ADM2	GT		18	604			24956		1424	America/Guatemala	2022-07-26
+3599066	Municipio de Cantel	Municipio de Cantel	Cantel,Municipio de Cantel	14.81659	-91.43781	A	ADM2	GT		13	914			42142		2431	America/Guatemala	2022-07-26
+3599093	Municipio de Canillá	Municipio de Canilla	Canilla,Canillá,Municipio de Canilla,Municipio de Canillá	15.19546	-90.8597	A	ADM2	GT		14	1418			15053		1238	America/Guatemala	2020-07-12
+3599180	Municipio de Camotán	Municipio de Camotan	Camotan,Camotán,Municipio de Camotan,Municipio de Camotán	14.8467	-89.28464	A	ADM2	GT		04	2005			56138		940	America/Guatemala	2022-07-26
+3599252	Municipio de Cajolá	Municipio de Cajola		14.93416	-91.61295	A	ADM2	GT		13	907			14948		2575	America/Guatemala	2022-07-26
+3599264	Municipio de Cahabón	Municipio de Cahabon	Cahabon,Cahabón,Municipio de Cahabon,Municipio de Cahabón,Municipio de Santa Maria Cahabon	15.58468	-89.78964	A	ADM2	GT		01	1612			0		165	America/Guatemala	2020-07-12
+3599286	Municipio de Cabricán	Municipio de Cabrican		15.10305	-91.64918	A	ADM2	GT		13	906			23033		2536	America/Guatemala	2022-07-26
+3599294	Municipio de Cabañas	Municipio de Cabanas	Cabanas,Cabañas,Municipio de Cabanas,Municipio de Cabañas	14.88857	-89.77603	A	ADM2	GT		22	1907			10000		591	America/Guatemala	2020-07-12
+3599574	Municipio de Barillas	Municipio de Barillas	Municipio de Barillas,Santa Cruz Barillas,Santa Cruz Yalmox	15.93155	-91.22119	A	ADM2	GT		08	1326			100849		609	America/Guatemala	2022-07-28
+3599580	Municipio de Barberena	Municipio de Barberena	Barberena,Municipio de Barberena	14.30722	-90.40797	A	ADM2	GT		18	602			0		995	America/Guatemala	2020-07-12
+3599614	Municipio de Ayutla	Municipio de Ayutla	Municipio de Ayutla,Tecun Uman,Tecún Umán	14.7272	-92.13013	A	ADM2	GT		17	1217			37049		39	America/Guatemala	2022-07-30
+3599631	Municipio de Atescatempa	Municipio de Atescatempa	Atescatempa,Municipio de Atescatempa	14.1712	-89.72929	A	ADM2	GT		11	2207			0		654	America/Guatemala	2020-07-12
+3599638	Municipio de Asunción Mita	Municipio de Asuncion Mita	Asuncion Mita,Asunción Mita,Municipio de Asuncion Mita,Municipio de Asunción Mita	14.3033	-89.67623	A	ADM2	GT		11	2205			48297		457	America/Guatemala	2022-07-28
+3599698	Municipio de Antigua Guatemala	Municipio de Antigua Guatemala	Antigua Guatemala,Municipio de Antigua,Municipio de Antigua Guatemala	14.54313	-90.72683	A	ADM2	GT		16	301			46054		1543	America/Guatemala	2022-07-28
+3599732	Municipio de Amatitlán	Municipio de Amatitlan	Amatitlan,Amatitlán,Municipio de Amatitlan,Municipio de Amatitlán	14.45849	-90.621	A	ADM2	GT		07	114			116711		1358	America/Guatemala	2022-07-26
+3599786	Municipio de Alotenango	Municipio de Alotenango	Alotenango,Municipio de Alotenango	14.46485	-90.82773	A	ADM2	GT		16	314			23986		1485	America/Guatemala	2022-07-26
+3599791	Municipio de Almolonga	Municipio de Almolonga	Almolonga,Municipio de Almolonga	14.81118	-91.48354	A	ADM2	GT		13	913			15724		2217	America/Guatemala	2022-07-26
+3599911	Municipio de Aguacatán	Municipio de Aguacatan	Aguacatan,Aguacatán,Municipio de Aguacatan,Municipio de Aguacatán	15.35202	-91.2948	A	ADM2	GT		08	1327			49607		1632	America/Guatemala	2022-07-26
+3599963	Municipio de Agua Blanca	Municipio de Agua Blanca	Agua Blanca,Municipio de Agua Blanca	14.45148	-89.60032	A	ADM2	GT		11	2204			0		969	America/Guatemala	2020-07-12
+3600007	Municipio de Acatenango	Municipio de Acatenango	Acatenango,Municipio de Acatenango	14.55159	-90.95173	A	ADM2	GT		03	411			23228		1466	America/Guatemala	2022-07-26
+9166134	Municipio de Fray Bartolome de las Casas	Municipio de Fray Bartolome de las Casas		15.86646	-89.73702	A	ADM2	GT		01	1615			0		178	America/Guatemala	2020-07-12
+9166161	Municipio de Ixcan	Municipio de Ixcan		15.98333	-90.76667	A	ADM2	GT		14	1420			61448		187	America/Guatemala	2020-07-12
+9166182	Municipio de Chicaman	Municipio de Chicaman		15.34833	-90.79944	A	ADM2	GT		14	1419			25280		1461	America/Guatemala	2020-07-12
+9253725	Raxruhá	Raxruha	Municipio de Raxruha,Municipio de Raxruhá	15.8915	-90.08192	A	ADM2	GT		01	1617			0		169	America/Guatemala	2021-11-02
+9253733	Municipio de Zacualpa	Municipio de Zacualpa		15.09239	-90.88514	A	ADM2	GT		14	1404			22846		2110	America/Guatemala	2020-07-12
+9253735	Municipio de Pachalum	Municipio de Pachalum		14.91798	-90.65443	A	ADM2	GT		14	1421			7037		1252	America/Guatemala	2020-07-12
+9253762	Santa Catarina La Tinta	Santa Catarina La Tinta		15.25362	-89.83396	A	ADM2	GT		01	1616			0		560	America/Guatemala	2020-07-12
+9253768	Municipio de Guastatoya	Municipio de Guastatoya		14.85043	-90.06359	A	ADM2	GT		05	201			0		545	America/Guatemala	2020-07-12
+9253824	Las Cruces	Las Cruces		16.63611	-90.18389	A	ADM2	GT		12	1713			0		125	America/Guatemala	2014-07-24
+9975174	Municipio de Unión Cantinil	Municipio de Union Cantinil	Municipio de Union Cantinil,Municipio de Unión Cantinil,Union Cantinil,Unión Cantinil	15.58685	-91.73567	A	ADM2	GT		08	1332			0		1657	America/Guatemala	2020-07-12
+9975225	La Máquina	La Maquina	La Maquina,La Máquina,Municipio de La Maquina,Municipio de La Máquina,Municipio de San Jose La Maquina,Municipio de San José La Máquina	14.28087	-91.58038	A	ADM2	GT		20	1021			0		48	America/Guatemala	2019-01-12
+9975227	Municipio de La Blanca	Municipio de La Blanca	La Blanca,Municipio de La Blanca	14.54559	-92.12098	A	ADM2	GT		17	1230			0		11	America/Guatemala	2020-07-12
+9975228	Municipio de San Jorge	Municipio de San Jorge	Municipio de San Jorge,San Jorge	14.90688	-89.59645	A	ADM2	GT		22	1911			0		409	America/Guatemala	2020-07-12
+9975229	Municipio de El Chal	Municipio de El Chal	El Chal,Municipio de El Chal	16.53025	-89.72731	A	ADM2	GT		12	1714			0		222	America/Guatemala	2019-01-12
+12017928	Sipacate	Sipacate	Municipio de Sipacate,Sipacate	13.95808	-91.14772	A	ADM2	GT		06	514			0		7	America/Guatemala	2019-01-12
+12017929	Petatán	Petatan	Municipio de Petatan,Municipio de Petatán,Petatan,Petatán	15.62352	-91.72707	A	ADM2	GT		08	1333			0		1396	America/Guatemala	2019-01-12

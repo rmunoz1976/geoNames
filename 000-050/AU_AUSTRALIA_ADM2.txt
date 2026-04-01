@@ -1,0 +1,540 @@
+﻿2058592	West Torrens	West Torrens	Citta di West Torrens,Città di West Torrens,City of West Torrens,West Torrens,West Torrens City	-34.93133	138.5509	A	ADM2	AU		05	48410			58158		12	Australia/Adelaide	2026-02-20
+2063213	Plantagenet	Plantagenet	Comte de Plantagenet,Comté de Plantagenet,Contea di Plantagenet,Shire of Plantagenet	-34.62508	117.59753	A	ADM2	AU		08	57210			5182		203	Australia/Perth	2026-02-20
+2063522	Perth	Perth	Belt ta' Perth,City of Perth,Ciutat de Perth,Grad Perth,Pert,Perth,Perth City,bo si shi,cite de Perth,citta di Perth,città di Perth,cité de Perth,pasu,tzitade de Perth,Перт,パース,伯斯市	-31.94978	115.85383	A	ADM2	AU		08	57080			20285		19	Australia/Perth	2026-02-20
+2068570	Kent	Kent		-33.53881	118.66993	A	ADM2	AU		08	54480			528		336	Australia/Perth	2026-02-20
+2071858	Esperance	Esperance	Comte d'Esperance,Comté d'Esperance,Contea di Esperance,Ehsperans,Esperance-Distrikto,Hrabstwo Esperance,Shire of Esperance,Эсперанс	-33.5197	122.15586	A	ADM2	AU		08	53290			14242		170	Australia/Perth	2026-02-20
+2072463	Dumbleyung	Dumbleyung		-33.2178	117.9875	A	ADM2	AU		08	53010			608		344	Australia/Perth	2026-02-20
+2075316	Burnside	Burnside		-34.94	138.665	A	ADM2	AU		05	40700			44500		227	Australia/Adelaide	2024-02-15
+2077473	Augusta Margaret River	Augusta Margaret River		-34.1152	115.32277	A	ADM2	AU		08	50280			13168		42	Australia/Perth	2026-02-20
+2142478	Yarra	Yarra	Jarra,Ярра	-37.80178	144.99593	A	ADM2	AU		07	27350			83593		24	Australia/Melbourne	2019-09-07
+2144547	Warren	Warren	Warren,Warren Shire,comte de Warren,comté de Warren,contea de Warren,contea di Warren,warn shayr,wo lun jun,وارن شایر,ウォーレン・シャイア,沃倫郡	-31.29549	147.72853	A	ADM2	AU		02	17950			2910		171	Australia/Sydney	2026-02-20
+2147083	Tenterfield	Tenterfield		-29.06897	152.04803	A	ADM2	AU		02	17400			6973		930	Australia/Sydney	2026-02-20
+2147149	Temora	Temora		-34.38314	147.47917	A	ADM2	AU		02	17350			5995		277	Australia/Sydney	2026-02-20
+2147495	Tamworth	Tamworth		-30.92204	150.81526	A	ADM2	AU		02	17310			59743		369	Australia/Sydney	2026-02-20
+2149594	Shoalhaven	Shoalhaven		-35.14162	150.41295	A	ADM2	AU		02	16950			97694		186	Australia/Sydney	2026-02-20
+2152124	Randwick	Randwick		-33.91667	151.25	A	ADM2	AU		02	16550			142310		27	Australia/Sydney	2014-07-26
+2152652	Port Stephens	Port Stephens		-32.72855	151.89952	A	ADM2	AU		02	16400			68935		34	Australia/Sydney	2026-02-20
+2153469	Penrith	Penrith		-33.75	150.7	A	ADM2	AU		02	16350			190428		31	Australia/Sydney	2026-02-20
+2154212	Orange	Orange		-33.32834	149.12294	A	ADM2	AU		02	16150			40869		926	Australia/Sydney	2026-02-20
+2155855	Nambucca Valley	Nambucca Valley	Comte de Nambucca,Comté de Nambucca,Contea di Nambucca,Nambucca Shire,Nambucca Shire Council	-30.70829	152.71024	A	ADM2	AU		02	15700			19529		389	Australia/Sydney	2026-02-20
+2157697	Mildura	Mildura	Mild'jura,Милдьюра	-34.79707	141.76098	A	ADM2	AU		07	24780			56972		104	Australia/Melbourne	2023-05-03
+2159040	Maitland	Maitland		-32.73333	151.55	A	ADM2	AU		02	15050			73447		4	Australia/Sydney	2026-02-20
+2160061	Lismore	Lismore		-28.8	153.26667	A	ADM2	AU		02	14850			44637		11	Australia/Sydney	2026-02-20
+2160746	Lake Macquarie	Lake Macquarie	Lake Macquarie Shire	-33.03756	151.5347	A	ADM2	AU		02	14650			200796		54	Australia/Sydney	2026-02-20
+2163136	Hornsby	Hornsby	Comte de Hornsby,Comté de Hornsby,Contea di Hornsby,Hornsby Shire,Hrabstwo Hornsby,honzubi・shaia,kang shi bi jun,ホーンズビー・シャイア,康士比郡	-33.58315	151.10953	A	ADM2	AU		02	14000			166855		13	Australia/Sydney	2026-02-20
+2169409	Darebin	Darebin	Darebin,Даребин	-37.75153	145.02193	A	ADM2	AU		07	21890			146797		59	Australia/Melbourne	2019-09-07
+2172583	Campbelltown (NSW)	Campbelltown (NSW)		-34.08333	150.83333	A	ADM2	AU		02	11500			154538		142	Australia/Sydney	2026-02-20
+2172879	Byron	Byron	Byron Shire,Byron Shire Council,bai lun jun,comte de Byron,comté de Byron,contea de Byron,contea di Byron,バイロン・シャイア,拜倫郡	-28.61667	153.51667	A	ADM2	AU		02	11350			31612		7	Australia/Sydney	2026-02-20
+2173910	Broken Hill	Broken Hill		-31.95	141.43333	A	ADM2	AU		02	11250			19048		312	Australia/Broken_Hill	2026-02-20
+2175228	Blue Mountains	Blue Mountains		-33.63203	150.41293	A	ADM2	AU		02	10900			79225		780	Australia/Sydney	2026-02-20
+2177036	Balonne	Balonne	Balonn,Comte de Balonne,Comté de Balonne,Contea di Balonne,Shire of Balonne,ba long jun zheng fu,Балонн,巴隆郡政府	-28.28481	148.17933	A	ADM2	AU		04	30300			4379		189	Australia/Brisbane	2026-02-20
+2177089	Ballarat	Ballarat	City of Ballarat	-37.51884	143.77284	A	ADM2	AU		07	20570			98684		438	Australia/Melbourne	2020-12-23
+2178173	Albury	Albury		-36.01494	146.95684	A	ADM2	AU		02	10050			50243		329	Australia/Sydney	2026-02-20
+6619279	Sydney	Sydney	Cidade de Sydney,Cite de Sydney,Citta di Sydney,Città di Sydney,Cité de Sydney,Kota Sydney,Sidnej,Sydney,sidniy,xi ni shi,Сидней,ซิดนีย์,シティ・オブ・シドニー,悉尼市	-33.86778	151.20844	A	ADM2	AU		02	17200			191918		69	Australia/Sydney	2026-02-20
+7839346	Maranoa	Maranoa		-26.39289	148.43098	A	ADM2	AU		04	34860			12825		402	Australia/Brisbane	2025-11-10
+7839347	Broome	Broome	Broome	-17.94041	122.64038	A	ADM2	AU		08	50980			16959		7	Australia/Perth	2025-11-09
+7839348	Broomehill-Tambellup	Broomehill-Tambellup		-34.0132	117.65297	A	ADM2	AU		08	51080			1167		296	Australia/Perth	2017-02-04
+7839349	Bruce Rock	Bruce Rock		-31.96651	118.02385	A	ADM2	AU		08	51120			996		249	Australia/Perth	2017-02-04
+7839350	Cassowary Coast	Cassowary Coast		-17.96785	145.96561	A	ADM2	AU		04	32260			29157		40	Australia/Brisbane	2025-11-10
+7839351	Brighton	Brighton	Brighton Council,Brighton Municipality,Conseil de Brighton,Gmina Brighton,Municipalita di Brighton,Municipalità di Brighton,bu lai dun zi zhi shi,布赖顿自治市	-42.72673	147.24233	A	ADM2	AU		06	60410			15813		48	Australia/Hobart	2014-07-26
+7839352	Burnie	Burnie		-41.1965	145.81136	A	ADM2	AU		06	60610			19986		355	Australia/Hobart	2017-02-03
+7839353	Central Coast (Tas.)	Central Coast (Tas.)		-41.26999	146.05916	A	ADM2	AU		06	60810			22347		251	Australia/Hobart	2026-02-20
+7839354	Central Highlands (Tas.)	Central Highlands (Tas.)		-42.19653	146.63934	A	ADM2	AU		06	61010			2355		840	Australia/Hobart	2026-02-20
+7839355	Circular Head	Circular Head	Circular Head,Circular Head Council,Circular Head Municipality,Conseil de Circular Head,municipalita de Circular Head,municipalita di Circular Head,municipalità de Circular Head,municipalità di Circular Head,サーキュラー・ヘッド	-41.01991	145.08366	A	ADM2	AU		06	61210			8287		172	Australia/Hobart	2014-10-31
+7839356	Clarence	Clarence		-42.87369	147.44725	A	ADM2	AU		06	61410			53582		174	Australia/Hobart	2017-02-03
+7839357	Derwent Valley	Derwent Valley		-42.80383	146.5297	A	ADM2	AU		06	61510			9886		591	Australia/Hobart	2017-02-04
+7839358	Dungog	Dungog		-32.34619	151.61122	A	ADM2	AU		02	12700			8884		128	Australia/Sydney	2017-02-04
+7839359	Eurobodalla	Eurobodalla		-35.93307	149.9278	A	ADM2	AU		02	12750			37234		305	Australia/Sydney	2017-02-04
+7839360	Fairfield	Fairfield		-33.86742	150.90105	A	ADM2	AU		02	12850			201427		33	Australia/Sydney	2014-07-26
+7839361	Forbes	Forbes		-33.37898	147.86448	A	ADM2	AU		02	12900			9664		228	Australia/Sydney	2017-02-04
+7839362	Gilgandra	Gilgandra		-31.63297	148.70354	A	ADM2	AU		02	12950			4488		292	Australia/Sydney	2017-02-04
+7839363	Glen Innes Severn	Glen Innes Severn	Conseil de Glen Innes Severn,Glen Innes Severn,Glen Innes Severn Council,municipalita de Glen Innes Severn,municipalita di Glen Innes Severn,municipalità de Glen Innes Severn,municipalità di Glen Innes Severn,グレン・イネス・セバーン・カウンシル	-29.63116	151.93957	A	ADM2	AU		02	13010			8905		1120	Australia/Sydney	2014-07-26
+7839364	Goulburn Mulwaree	Goulburn Mulwaree		-34.9025	149.902	A	ADM2	AU		02	13310			29230		638	Australia/Sydney	2017-02-04
+7839366	Greater Hume	Greater Hume	Greater Hume Shire,Greater Hume Shire Council,comte de Grand Hume,comté de Grand Hume,contea de Greater Hume,contea di Greater Hume,グレーター・ヒューム・シャイア	-35.75837	147.19731	A	ADM2	AU		02	13340			0		269	Australia/Sydney	2026-02-20
+7839369	Tweed	Tweed		-28.34991	153.34652	A	ADM2	AU		02	17550			90114		11	Australia/Sydney	2017-02-04
+7839370	Upper Hunter	Upper Hunter	Upper Hunter Shire,Upper Hunter Shire Council,comte du Haut-Hunter,comté du Haut-Hunter,contea de Upper Hunter,contea di Upper Hunter,アッパーハンター・シャイア	-31.98126	150.69282	A	ADM2	AU		02	17620			14650		602	Australia/Sydney	2026-02-20
+7839371	Waratah-Wynyard	Waratah-Wynyard		-41.30709	145.45831	A	ADM2	AU		06	65410			14291		558	Australia/Hobart	2026-02-20
+7839372	West Coast	West Coast		-42.45246	145.52264	A	ADM2	AU		06	65610			4707		101	Australia/Hobart	2017-02-03
+7839373	West Tamar	West Tamar		-41.26441	146.89123	A	ADM2	AU		06	65810			23012		135	Australia/Hobart	2017-02-04
+7839374	Belyuen	Belyuen	DLV	-12.53819	130.68317	A	ADM2	AU		03	70540			213		27	Australia/Darwin	2017-02-19
+7839375	Coomalie	Coomalie		-13.04322	131.08427	A	ADM2	AU		03	70700			1310		77	Australia/Darwin	2017-02-07
+7839376	Moreton Bay	Moreton Bay		-27.10731	152.92937	A	ADM2	AU		04	35010			476340		20	Australia/Brisbane	2025-11-10
+7839377	Mornington	Mornington		-16.68436	139.46682	A	ADM2	AU		04	35250			1025		10	Australia/Lindeman	2025-11-10
+7839378	Mount Isa	Mount Isa		-19.74831	139.01443	A	ADM2	AU		04	35300			22779		311	Australia/Brisbane	2017-02-08
+7839379	Murweh	Murweh		-26.13609	146.6041	A	ADM2	AU		04	35600			3971		380	Australia/Brisbane	2025-11-09
+7839380	Napranum	Napranum		-12.55322	142.06558	A	ADM2	AU		04	35670			883		8	Australia/Brisbane	2025-11-10
+7839381	North Burnett	North Burnett		-25.24444	151.32301	A	ADM2	AU		04	35760			10068		260	Australia/Brisbane	2025-11-10
+7839382	Northern Peninsula Area	Northern Peninsula Area		-10.9719	142.35364	A	ADM2	AU		04	35780			2560		37	Australia/Brisbane	2014-07-26
+7839383	Palm Island	Palm Island		-18.74893	146.60379	A	ADM2	AU		04	35790			2098		228	Australia/Brisbane	2025-11-10
+7839384	Paroo	Paroo		-27.98742	145.71755	A	ADM2	AU		04	35800			1903		195	Australia/Brisbane	2017-02-03
+7839385	Pormpuraaw	Pormpuraaw		-14.65705	141.83354	A	ADM2	AU		04	36070			611		20	Australia/Brisbane	2025-11-10
+7839386	Quilpie	Quilpie		-26.15057	143.57936	A	ADM2	AU		04	36150			530		168	Australia/Brisbane	2025-11-10
+7839387	Redland	Redland		-27.53791	153.24829	A	ADM2	AU		04	36250			159222		37	Australia/Brisbane	2025-11-10
+7839388	Richmond	Richmond	Grafstvo Richmond,Графство Ричмонд	-20.56967	142.91384	A	ADM2	AU		04	36300			845		196	Australia/Brisbane	2019-06-05
+7839390	Scenic Rim	Scenic Rim		-28.04021	152.80688	A	ADM2	AU		04	36510			42984		374	Australia/Brisbane	2025-11-10
+7839391	Somerset	Somerset		-27.01133	152.41521	A	ADM2	AU		04	36580			23287		287	Australia/Brisbane	2017-02-03
+7839392	South Burnett	South Burnett		-26.40077	151.60166	A	ADM2	AU		04	36630			32996		439	Australia/Brisbane	2025-11-10
+7839393	Southern Downs	Southern Downs		-28.50265	151.92165	A	ADM2	AU		04	36660			36290		917	Australia/Brisbane	2025-11-10
+7839394	Sunshine Coast	Sunshine Coast		-26.56098	152.85113	A	ADM2	AU		04	36720			342541		138	Australia/Brisbane	2025-11-10
+7839396	Toowoomba	Toowoomba		-27.47958	151.47705	A	ADM2	AU		04	36910			160251		381	Australia/Brisbane	2017-02-07
+7839397	Torres	Torres		-10.57928	142.22059	A	ADM2	AU		04	36950			3421		19	Australia/Brisbane	2025-11-09
+7839398	Torres Strait Island	Torres Strait Island		-10.20141	142.27295	A	ADM2	AU		04	36960			4567		24	Australia/Brisbane	2026-02-20
+7839399	Townsville	Townsville	Townsville	-19.352	146.63223	A	ADM2	AU		04	37010			192768		48	Australia/Brisbane	2025-11-10
+7839400	Weipa	Weipa		-12.63671	141.87555	A	ADM2	AU		04	37300			4097		16	Australia/Brisbane	2025-11-10
+7839401	Western Downs	Western Downs		-26.80665	150.3859	A	ADM2	AU		04	37310			33494		312	Australia/Brisbane	2017-02-03
+7839402	Darwin	Darwin	Darwin	-12.40189	130.87684	A	ADM2	AU		03	71000			81670		16	Australia/Darwin	2014-07-26
+7839403	East Arnhem	East Arnhem		-12.66175	135.82281	A	ADM2	AU		03	71300			10345		84	Australia/Darwin	2025-11-08
+7839404	Katherine	Katherine		-14.65012	132.17414	A	ADM2	AU		03	72200			10928		176	Australia/Darwin	2014-07-26
+7839405	Litchfield	Litchfield		-12.50228	131.12785	A	ADM2	AU		03	72300			21380		37	Australia/Darwin	2017-02-07
+7839406	MacDonnell	MacDonnell		-24.42671	133.49982	A	ADM2	AU		03	72330			6863		480	Australia/Darwin	2022-03-10
+7839407	Palmerston	Palmerston	Palmerston,pa mo si dun,palmrstwn,Палмерстон,پالمرستون,پالمرسٹون,پالمێرستن,პალმერსტონი,帕默斯頓	-12.4962	130.97797	A	ADM2	AU		03	72800			32088		31	Australia/Darwin	2014-07-26
+7839408	Roper Gulf	Roper Gulf		-15.30564	134.97356	A	ADM2	AU		03	73600			7397		93	Australia/Darwin	2022-03-10
+7839409	Tiwi Islands	Tiwi Islands		-11.55324	130.78178	A	ADM2	AU		03	74050			3094		36	Australia/Darwin	2014-07-26
+7839410	Victoria Daly	Victoria Daly		-15.9292	130.76166	A	ADM2	AU		03	74550			3138		326	Australia/Darwin	2025-11-08
+7839411	Wagait	Wagait		-12.44161	130.7537	A	ADM2	AU		03	74560			434		19	Australia/Darwin	2017-02-07
+7839412	West Arnhem	West Arnhem		-12.38723	133.37935	A	ADM2	AU		03	74660			6902		256	Australia/Darwin	2025-11-08
+7839413	Whitsunday	Whitsunday		-20.6978	148.01349	A	ADM2	AU		04	37340			37152		429	Australia/Brisbane	2025-11-09
+7839414	Winton	Winton		-22.50749	142.66199	A	ADM2	AU		04	37400			1129		200	Australia/Brisbane	2025-11-10
+7839415	Woorabinda	Woorabinda		-24.1501	149.44977	A	ADM2	AU		04	37550			1019		162	Australia/Brisbane	2025-11-10
+7839416	Wujal Wujal	Wujal Wujal		-15.96904	145.3152	A	ADM2	AU		04	37570			276		190	Australia/Brisbane	2025-11-10
+7839417	Yarrabah	Yarrabah		-16.99463	145.88058	A	ADM2	AU		04	37600			2505		68	Australia/Brisbane	2025-11-10
+7839418	Coober Pedy	Coober Pedy	Kuber Pedi,Kuber Pidi,Kuber-Pedi,ku bo pei de,kubapedi,kubara pedi,kubeopedi,kwbr pdy,qwbr pydy,Кубер Педи,Кубер Пиди,Кубер-Педи,Кубер-Педі,קובר פידי,کوبر پدی,কুবার পেডি,కూబర్‌ పెడీ,クーバーペディ,库伯佩地,쿠버페디	-29.01137	134.75189	A	ADM2	AU		05	41330			1787		220	Australia/Adelaide	2014-07-26
+7839419	Elliston	Elliston		-33.53931	135.09514	A	ADM2	AU		05	41750			1068		35	Australia/Adelaide	2017-02-06
+7839420	Flinders Ranges	Flinders Ranges		-32.13341	138.33882	A	ADM2	AU		05	41830			1649		296	Australia/Adelaide	2017-02-04
+7839421	Franklin Harbour	Franklin Harbour		-33.60164	136.94148	A	ADM2	AU		05	41960			1297		20	Australia/Adelaide	2017-02-04
+7839422	Gawler	Gawler		-34.62109	138.73228	A	ADM2	AU		05	42030			21590		53	Australia/Adelaide	2017-02-04
+7839423	Goyder	Goyder		-33.7164	139.01655	A	ADM2	AU		05	42110			4239		418	Australia/Adelaide	2014-07-26
+7839424	Grant	Grant		-37.83642	140.63316	A	ADM2	AU		05	42250			8012		30	Australia/Adelaide	2017-02-04
+7839425	Holdfast Bay	Holdfast Bay		-35.00244	138.52318	A	ADM2	AU		05	42600			36763		15	Australia/Adelaide	2017-02-04
+7839426	Kangaroo Island	Kangaroo Island	Kenguru,Кенгуру	-35.8239	137.33392	A	ADM2	AU		05	42750			4553		131	Australia/Adelaide	2017-02-04
+7839427	Karoonda East Murray	Karoonda East Murray		-34.92846	140.02484	A	ADM2	AU		05	43080			1016		73	Australia/Adelaide	2014-07-26
+7839428	Kimba	Kimba		-33.04817	136.31797	A	ADM2	AU		05	43220			1103		281	Australia/Adelaide	2016-11-13
+7839429	Kingston (SA)	Kingston (SA)		-36.64083	140.05093	A	ADM2	AU		05	43360			2407		20	Australia/Adelaide	2026-02-20
+7839430	Wudinna	Wudinna		-32.97747	135.3917	A	ADM2	AU		05	48640			0		155	Australia/Adelaide	2019-05-19
+7839431	Light	Light		-34.40981	138.84367	A	ADM2	AU		05	43650			14459		235	Australia/Adelaide	2017-02-07
+7839432	Lower Eyre	Lower Eyre		-34.48806	135.70114	A	ADM2	AU		05	43710			4997		94	Australia/Adelaide	2026-02-20
+7839433	Loxton Waikerie	Loxton Waikerie		-34.48161	140.28346	A	ADM2	AU		05	43790			11454		65	Australia/Adelaide	2017-02-06
+7839434	Adelaide Plains	Adelaide Plains		-34.51035	138.42783	A	ADM2	AU		05	43920			8611		16	Australia/Adelaide	2026-02-20
+7839435	Maralinga Tjarutja	Maralinga Tjarutja		-29.60092	130.84442	A	ADM2	AU		05	44000			96		226	Australia/Adelaide	2025-11-08
+7839436	Marion	Marion		-35.01322	138.55339	A	ADM2	AU		05	44060			87574		32	Australia/Adelaide	2017-02-04
+7839437	Mid Murray	Mid Murray		-34.41566	139.41639	A	ADM2	AU		05	44210			8281		73	Australia/Adelaide	2014-07-26
+7839438	Mitcham	Mitcham		-35.0069	138.62218	A	ADM2	AU		05	44340			65720		273	Australia/Adelaide	2017-02-05
+7839439	Mount Barker	Mount Barker		-35.06907	138.86936	A	ADM2	AU		05	44550			31325		314	Australia/Adelaide	2017-02-05
+7839440	Mount Gambier	Mount Gambier	Maunt Gamb'er,Maunt Gambir,Maunt-Gambir,mang te gan bi er,maunteugaembieo,mauntoganbia,Маунт Гамбир,Маунт Гамб’єр,Маунт-Гамбир,ماؤنٹ گیمبیر,მაუნტ-გამბირი,マウントガンビア,芒特甘比尔,마운트갬비어	-37.82469	140.78191	A	ADM2	AU		05	44620			26092		42	Australia/Adelaide	2014-07-26
+7839441	Mount Remarkable	Mount Remarkable		-32.71813	138.1713	A	ADM2	AU		05	44830			2785		310	Australia/Adelaide	2014-07-26
+7839442	Murray Bridge	Murray Bridge		-35.2002	139.3209	A	ADM2	AU		05	45040			20579		22	Australia/Adelaide	2017-02-05
+7839443	Naracoorte Lucindale	Naracoorte Lucindale		-36.99542	140.52791	A	ADM2	AU		05	45090			8441		45	Australia/Adelaide	2026-02-20
+7839444	Northern Areas	Northern Areas		-33.30074	138.47745	A	ADM2	AU		05	45120			4508		402	Australia/Adelaide	2017-02-05
+7839445	Norwood Payneham and St Peters	Norwood Payneham and St Peters		-34.908	138.63556	A	ADM2	AU		05	45290			36868		61	Australia/Adelaide	2026-02-20
+7839446	Onkaparinga	Onkaparinga		-35.1868	138.57776	A	ADM2	AU		05	45340			166435		149	Australia/Adelaide	2017-02-05
+7839447	Orroroo Carrieton	Orroroo Carrieton		-32.53181	138.6647	A	ADM2	AU		05	45400			860		400	Australia/Adelaide	2026-02-20
+7839448	Peterborough	Peterborough		-32.84787	139.02608	A	ADM2	AU		05	45540			1785		545	Australia/Adelaide	2017-02-05
+7839449	Playford	Playford		-34.69419	138.6421	A	ADM2	AU		05	45680			85069		26	Australia/Adelaide	2017-02-08
+7839450	Port Adelaide Enfield	Port Adelaide Enfield		-34.84803	138.50773	A	ADM2	AU		05	45890			120427		12	Australia/Adelaide	2014-08-02
+7839451	Port Augusta	Port Augusta		-32.5553	137.71362	A	ADM2	AU		05	46090			14605		81	Australia/Adelaide	2014-08-03
+7839452	Port Lincoln	Port Lincoln		-34.72854	135.85748	A	ADM2	AU		05	46300			14732		11	Australia/Adelaide	2017-02-07
+7839453	Port Pirie	Port Pirie		-33.36513	138.10706	A	ADM2	AU		05	46450			17625		48	Australia/Adelaide	2026-02-20
+7839454	Prospect	Prospect		-34.88457	138.60038	A	ADM2	AU		05	46510			21133		53	Australia/Adelaide	2017-02-07
+7839455	Renmark Paringa	Renmark Paringa		-34.17485	140.7486	A	ADM2	AU		05	46670			9346		23	Australia/Adelaide	2017-02-07
+7839456	Robe	Robe		-37.18616	139.99003	A	ADM2	AU		05	46860			1387		10	Australia/Adelaide	2017-02-07
+7839457	Roxby Downs	Roxby Downs		-30.54892	136.88377	A	ADM2	AU		05	46970			5031		103	Australia/Adelaide	2017-02-07
+7839458	Salisbury	Salisbury		-34.76827	138.60831	A	ADM2	AU		05	47140			135922		22	Australia/Adelaide	2017-02-07
+7839459	Southern Mallee	Southern Mallee		-35.36733	140.5203	A	ADM2	AU		05	47290			2076		100	Australia/Adelaide	2017-02-07
+7839460	Streaky Bay	Streaky Bay		-32.73808	134.55116	A	ADM2	AU		05	47490			2245		54	Australia/Adelaide	2017-02-06
+7839461	Tatiara	Tatiara		-36.22232	140.50748	A	ADM2	AU		05	47630			6695		55	Australia/Adelaide	2017-02-07
+7839462	Tea Tree Gully	Tea Tree Gully		-34.80171	138.71994	A	ADM2	AU		05	47700			98378		212	Australia/Adelaide	2014-07-26
+7839463	Coorong	Coorong		-35.71844	139.70329	A	ADM2	AU		05	47800			5586		29	Australia/Adelaide	2026-02-20
+7839464	Tumby Bay	Tumby Bay		-34.19697	136.13649	A	ADM2	AU		05	47910			2706		94	Australia/Adelaide	2017-02-06
+7839465	Unley	Unley		-34.95392	138.60798	A	ADM2	AU		05	47980			38695		52	Australia/Adelaide	2017-02-06
+7839466	Victor Harbor	Victor Harbor		-35.51605	138.5461	A	ADM2	AU		05	48050			14639		98	Australia/Adelaide	2017-02-06
+7839467	Wakefield	Wakefield		-34.00743	138.39455	A	ADM2	AU		05	48130			6826		80	Australia/Adelaide	2017-02-06
+7839468	Walkerville	Walkerville		-34.89443	138.61626	A	ADM2	AU		05	48260			7368		44	Australia/Adelaide	2014-07-26
+7839469	Wattle Range	Wattle Range		-37.427	140.543	A	ADM2	AU		05	48340			11669		48	Australia/Adelaide	2024-02-15
+7839470	Whyalla	Whyalla		-33.04569	137.54468	A	ADM2	AU		05	48540			22562		7	Australia/Adelaide	2014-07-26
+7839471	Yankalilla	Yankalilla		-35.4939	138.34225	A	ADM2	AU		05	48750			4556		135	Australia/Adelaide	2017-02-07
+7839472	Yorke Peninsula	Yorke Peninsula		-34.70549	137.58179	A	ADM2	AU		05	48830			11119		79	Australia/Adelaide	2014-08-05
+7839473	Boyup Brook	Boyup Brook		-33.88555	116.51885	A	ADM2	AU		08	50770			1738		257	Australia/Perth	2017-02-07
+7839474	Bridgetown-Greenbushes	Bridgetown-Greenbushes		-33.99234	116.22502	A	ADM2	AU		08	50840			4513		184	Australia/Perth	2014-07-26
+7839475	Brookton	Brookton		-32.35533	116.99994	A	ADM2	AU		08	50910			992		237	Australia/Perth	2017-02-07
+7839476	Bunbury	Bunbury		-33.35487	115.66214	A	ADM2	AU		08	51190			33623		14	Australia/Perth	2017-02-08
+7839477	Busselton	Busselton		-33.68477	115.3708	A	ADM2	AU		08	51260			34290		13	Australia/Perth	2017-02-07
+7839478	Cambridge	Cambridge		-31.93542	115.79887	A	ADM2	AU		08	51310			27997		27	Australia/Perth	2014-07-26
+7839479	Canning	Canning	Canning City,Cite de Canning,Citta di Canning,Città di Canning,City of Canning,Cité de Canning,Ciudad de Canning,kan ning shi,კენინგი,坎寧市	-32.04923	115.91943	A	ADM2	AU		08	51330			96356		16	Australia/Perth	2014-07-26
+7839480	Capel	Capel		-33.52704	115.61813	A	ADM2	AU		08	51400			16447		31	Australia/Perth	2017-02-07
+7839481	Carnamah	Carnamah		-29.80411	115.59402	A	ADM2	AU		08	51470			550		267	Australia/Perth	2014-08-03
+7839482	Carnarvon	Carnarvon		-24.4668	114.33685	A	ADM2	AU		08	51540			5251		60	Australia/Perth	2025-11-08
+7839483	Chapman Valley	Chapman Valley		-28.27249	115.02794	A	ADM2	AU		08	51610			1214		276	Australia/Perth	2017-02-05
+7839484	Chittering	Chittering		-31.35829	116.05131	A	ADM2	AU		08	51680			4996		219	Australia/Perth	2017-02-05
+7839485	Claremont	Claremont		-31.98127	115.77942	A	ADM2	AU		08	51750			10359		19	Australia/Perth	2017-02-05
+7839486	Cockburn	Cockburn	City of Cockburn,Cockburn,Cockburn City,cite de Cockburn,citta di Cockburn,città di Cockburn,cité de Cockburn,ke ke ben shi,koban,que ben cheng,tzitade de Cockburn,კოკბარნი,コーバーン,確本城,科克本市	-32.10264	115.84431	A	ADM2	AU		08	51820			103351		38	Australia/Perth	2026-02-20
+7839487	Collie	Collie	Koles,Kolės,ke li,柯利	-33.27353	116.16558	A	ADM2	AU		08	51890			9692		251	Australia/Perth	2014-07-26
+7839488	Coolgardie	Coolgardie		-31.01438	121.20462	A	ADM2	AU		08	51960			4324		377	Australia/Perth	2017-02-03
+7839489	Coorow	Coorow		-29.97865	115.65613	A	ADM2	AU		08	52030			1085		287	Australia/Perth	2017-02-15
+7839490	Corrigin	Corrigin		-32.37599	117.81023	A	ADM2	AU		08	52100			1099		337	Australia/Perth	2017-02-05
+7839491	Cottesloe	Cottesloe		-31.99905	115.76089	A	ADM2	AU		08	52170			8572		12	Australia/Perth	2017-02-05
+7839492	Cranbrook	Cranbrook		-34.33414	117.32898	A	ADM2	AU		08	52240			1101		266	Australia/Perth	2017-02-05
+7839493	Cuballing	Cuballing		-32.74026	117.15497	A	ADM2	AU		08	52310			878		325	Australia/Perth	2017-02-05
+7839494	Cue	Cue		-27.22633	118.00496	A	ADM2	AU		08	52380			298		434	Australia/Perth	2017-02-06
+7839495	Cunderdin	Cunderdin		-31.61259	117.11803	A	ADM2	AU		08	52450			1302		205	Australia/Perth	2017-02-05
+7839496	Dalwallinu	Dalwallinu		-30.12998	116.98401	A	ADM2	AU		08	52520			1295		300	Australia/Perth	2017-02-06
+7839497	Dandaragan	Dandaragan		-30.54142	115.46132	A	ADM2	AU		08	52590			3325		160	Australia/Perth	2017-02-05
+7839498	Dardanup	Dardanup		-33.41611	115.8741	A	ADM2	AU		08	52660			13791		258	Australia/Perth	2017-02-05
+7839499	Denmark	Denmark		-34.93473	117.37518	A	ADM2	AU		08	52730			5748		33	Australia/Perth	2017-02-06
+7839500	Derby-West Kimberley	Derby-West Kimberley		-17.50447	125.28014	A	ADM2	AU		08	52800			7075		184	Australia/Perth	2025-11-08
+7839501	Donnybrook-Balingup	Donnybrook-Balingup		-33.70217	115.97778	A	ADM2	AU		08	52870			5753		304	Australia/Perth	2017-02-05
+7839502	Dowerin	Dowerin		-31.11328	117.10566	A	ADM2	AU		08	52940			672		312	Australia/Perth	2017-02-05
+7839503	Dundas	Dundas		-32.12502	124.50582	A	ADM2	AU		08	53080			677		149	Australia/Perth	2025-11-09
+7839504	East Fremantle	East Fremantle		-32.03654	115.76714	A	ADM2	AU		08	53150			7736		41	Australia/Perth	2017-02-05
+7839505	East Pilbara	East Pilbara		-21.61331	123.71368	A	ADM2	AU		08	53220			9760		267	Australia/Perth	2025-11-10
+7839506	Exmouth	Exmouth		-22.03643	114.04358	A	ADM2	AU		08	53360			2570		105	Australia/Perth	2014-08-03
+7839507	Fremantle	Fremantle	City of Fremantle	-32.05165	115.76379	A	ADM2	AU		08	53430			30321		26	Australia/Perth	2023-11-02
+7839509	Gingin	Gingin		-31.18435	115.65944	A	ADM2	AU		08	53570			5248		60	Australia/Perth	2017-02-06
+7839510	Gnowangerup	Gnowangerup		-34.08658	118.29832	A	ADM2	AU		08	53640			1303		264	Australia/Perth	2017-02-08
+7839511	Goomalling	Goomalling		-31.23457	116.79142	A	ADM2	AU		08	53710			976		231	Australia/Perth	2017-02-08
+7839512	Gosnells	Gosnells		-32.06763	116.00203	A	ADM2	AU		08	53780			121252		21	Australia/Perth	2017-02-06
+7839513	Halls Creek	Halls Creek		-19.00069	127.45204	A	ADM2	AU		08	53920			1605		413	Australia/Perth	2025-11-09
+7839514	Harvey	Harvey		-33.14976	115.93376	A	ADM2	AU		08	53990			25924		222	Australia/Perth	2017-02-06
+7839515	Irwin	Irwin		-29.34192	115.04561	A	ADM2	AU		08	54060			3780		75	Australia/Perth	2017-02-06
+7839516	Jerramungup	Jerramungup		-34.0305	119.11369	A	ADM2	AU		08	54130			1085		218	Australia/Perth	2017-02-06
+7839517	Joondalup	Joondalup		-31.77962	115.76498	A	ADM2	AU		08	54170			167623		32	Australia/Perth	2017-02-08
+7839518	Kalamunda	Kalamunda		-32.00398	116.13292	A	ADM2	AU		08	54200			59716		368	Australia/Perth	2017-02-06
+7839519	Kalgoorlie-Boulder	Kalgoorlie-Boulder		-30.77632	124.92347	A	ADM2	AU		08	54280			33763		201	Australia/Perth	2026-02-20
+7839520	Katanning	Katanning		-33.62476	117.63965	A	ADM2	AU		08	54340			4407		286	Australia/Perth	2017-02-06
+7839521	Kellerberrin	Kellerberrin		-31.57709	117.80561	A	ADM2	AU		08	54410			1227		290	Australia/Perth	2017-02-06
+7839522	Kojonup	Kojonup		-33.92546	117.03982	A	ADM2	AU		08	54550			2022		322	Australia/Perth	2017-02-06
+7839523	Kondinin	Kondinin		-32.48431	119.0242	A	ADM2	AU		08	54620			1042		314	Australia/Perth	2017-02-03
+7839524	Koorda	Koorda		-30.60412	117.40736	A	ADM2	AU		08	54690			431		337	Australia/Perth	2017-02-06
+7839525	Alpine	Alpine	Alpajn,Алпайн	-36.83412	146.97936	A	ADM2	AU		07	20110			12044		520	Australia/Melbourne	2019-09-07
+7839526	Ararat	Ararat		-37.48925	142.82239	A	ADM2	AU		07	20260			11207		238	Australia/Melbourne	2017-02-03
+7839527	Banyule	Banyule	Ban'jul,Баньюл	-37.73386	145.08576	A	ADM2	AU		07	20660			124475		74	Australia/Melbourne	2019-09-07
+7839528	Bass Coast	Bass Coast	Bass-Kost,Басс-Кост	-38.48507	145.4639	A	ADM2	AU		07	20740			31010		8	Australia/Melbourne	2019-09-07
+7839529	Baw Baw	Baw Baw	Bo-Bo,Бо-Бо	-37.96998	146.14404	A	ADM2	AU		07	20830			45205		306	Australia/Melbourne	2019-09-07
+7839530	Bayside (Vic.)	Bayside (Vic.)	Bejsajd,Бейсайд	-37.93986	145.01932	A	ADM2	AU		07	20910			98368		28	Australia/Melbourne	2026-02-20
+7839531	Benalla	Benalla		-36.59041	146.02812	A	ADM2	AU		07	21010			13719		177	Australia/Melbourne	2017-02-03
+7839532	Boroondara	Boroondara	Borundara,Борундара	-37.8264	145.05299	A	ADM2	AU		07	21110			170553		52	Australia/Melbourne	2019-09-07
+7839533	Brimbank	Brimbank	Brimbank,Brimbank City,Citta di Brimbank,Città di Brimbank,City of Brimbank,Ville de Brimbank,Бримбанк	-37.74287	144.81644	A	ADM2	AU		07	21180			195469		64	Australia/Melbourne	2019-09-07
+7839534	Buloke	Buloke	Bulok,Булок	-35.84638	143.05201	A	ADM2	AU		07	21270			6221		92	Australia/Melbourne	2024-03-28
+7839535	Campaspe	Campaspe	Campaspe Shire,Comte de Campaspe,Comté de Campaspe,Contea di Campaspe,Hrabstwo Campaspe,Kampaspe,Shire of Campaspe,Кампаспе	-36.32338	144.70844	A	ADM2	AU		07	21370			36919		120	Australia/Melbourne	2024-03-28
+7839536	Cardinia	Cardinia	Kardinija,Кардиния	-38.09508	145.56455	A	ADM2	AU		07	21450			84065		27	Australia/Melbourne	2019-09-07
+7839537	Casey	Casey	Kejsi,Кейси	-38.09519	145.32279	A	ADM2	AU		07	21610			275116		36	Australia/Melbourne	2019-09-07
+7839538	Central Goldfields	Central Goldfields	Sentral-Goldfilds,Сентрал-Голдфилдс	-36.97889	143.73857	A	ADM2	AU		07	21670			12602		211	Australia/Melbourne	2024-03-28
+7839539	Colac Otway	Colac Otway	Kolak-Otuehj,Колак-Отуэй	-38.43873	143.59669	A	ADM2	AU		07	21750			20694		236	Australia/Melbourne	2019-09-07
+7839540	Corangamite	Corangamite	Korangamajt,Корангамайт	-38.21596	143.23542	A	ADM2	AU		07	21830			16137		148	Australia/Melbourne	2019-09-06
+7839541	East Gippsland	East Gippsland	Ist-Gipslend,Ист-Гипсленд	-37.34564	148.58295	A	ADM2	AU		07	22110			43413		583	Australia/Melbourne	2019-09-07
+7839542	Frankston	Frankston	Frankston,Франкстон	-38.13402	145.16875	A	ADM2	AU		07	22170			133560		57	Australia/Melbourne	2019-09-07
+7839543	Gannawarra	Gannawarra	Gannavarra,Ганнаварра	-35.73211	143.85316	A	ADM2	AU		07	22250			10326		78	Australia/Melbourne	2024-03-28
+7839544	Glen Eira	Glen Eira	Glen-Ehjra,Глен-Эйра	-37.89949	145.04099	A	ADM2	AU		07	22310			141519		42	Australia/Melbourne	2019-09-07
+7839545	Glenelg	Glenelg	Glenelg,Гленелг	-37.89083	141.44238	A	ADM2	AU		07	22410			19521		143	Australia/Melbourne	2019-09-06
+7839546	Golden Plains	Golden Plains	Golden-Plejns,Голден-Плейнс	-37.85231	143.86352	A	ADM2	AU		07	22490			20151		296	Australia/Melbourne	2019-09-07
+7839547	Greater Bendigo	Greater Bendigo	Grejter-Bendigo,Грейтер-Бендиго	-36.72278	144.43974	A	ADM2	AU		07	22620			105332		215	Australia/Melbourne	2024-03-28
+7839548	Greater Dandenong	Greater Dandenong	Grejter-Dandenong,Грейтер-Данденонг	-38.00112	145.19073	A	ADM2	AU		07	22670			146727		20	Australia/Melbourne	2019-09-07
+7839549	Greater Geelong	Greater Geelong	Grejter-Dzhelong,Грейтер-Джелонг	-38.05182	144.46137	A	ADM2	AU		07	22750			221515		10	Australia/Melbourne	2019-09-07
+7839550	Greater Shepparton	Greater Shepparton	Grejter-Shepparton,Грейтер-Шеппартон	-36.42742	145.41519	A	ADM2	AU		07	22830			62784		114	Australia/Melbourne	2019-09-07
+7839551	Hepburn	Hepburn	Khepbern,Хепберн	-37.31707	144.03355	A	ADM2	AU		07	22910			14843		467	Australia/Melbourne	2019-09-07
+7839552	Hindmarsh	Hindmarsh	Khajndmarsh,Хайндмарш	-36.03293	141.73282	A	ADM2	AU		07	22980			5695		92	Australia/Melbourne	2019-09-06
+7839553	Hobsons Bay	Hobsons Bay	Khobsons-Bej,Хобсонс-Бей	-37.85694	144.83347	A	ADM2	AU		07	23110			89111		1	Australia/Melbourne	2019-09-07
+7839554	Horsham	Horsham	Khorshem,Хоршем	-36.82857	142.11448	A	ADM2	AU		07	23190			19687		150	Australia/Melbourne	2019-09-06
+7839555	Hume	Hume	Kh'jum,Хьюм	-37.59717	144.80511	A	ADM2	AU		07	23270			183263		159	Australia/Melbourne	2019-09-07
+7839556	Aurukun	Aurukun		-13.51263	141.82435	A	ADM2	AU		04	30250			1401		25	Australia/Brisbane	2014-07-26
+7839557	Banana	Banana		-24.80653	149.89838	A	ADM2	AU		04	30370			15200		137	Australia/Brisbane	2017-02-03
+7839558	Barcaldine	Barcaldine		-23.05203	145.4349	A	ADM2	AU		04	30410			2849		253	Australia/Brisbane	2025-11-09
+7839559	Barcoo	Barcoo		-25.17292	142.46481	A	ADM2	AU		04	30450			308		142	Australia/Brisbane	2025-11-09
+7839560	Blackall Tambo	Blackall Tambo		-24.78795	145.97279	A	ADM2	AU		04	30760			2319		378	Australia/Brisbane	2017-02-03
+7839561	Boulia	Boulia		-22.27908	139.62534	A	ADM2	AU		04	30900			458		279	Australia/Brisbane	2025-11-09
+7839562	Brisbane	Brisbane	Brisbane	-27.44573	153.02994	A	ADM2	AU		04	31000			1242825		8	Australia/Brisbane	2025-11-10
+7839563	Bulloo	Bulloo		-27.83079	142.9128	A	ADM2	AU		04	31750			337		128	Australia/Brisbane	2025-11-10
+7839564	Bundaberg	Bundaberg		-24.97305	151.98442	A	ADM2	AU		04	31820			93976		79	Australia/Brisbane	2017-02-03
+7839565	Burdekin	Burdekin		-19.84934	147.27239	A	ADM2	AU		04	31900			16692		33	Australia/Brisbane	2025-11-10
+7839566	Burke	Burke		-18.06461	139.03748	A	ADM2	AU		04	31950			419		30	Australia/Brisbane	2025-11-09
+7839567	Cairns	Cairns	Cairns	-16.90268	145.75287	A	ADM2	AU		04	32080			178104		11	Australia/Brisbane	2025-11-10
+7839568	Carpentaria	Carpentaria		-17.32216	141.3531	A	ADM2	AU		04	32250			2090		19	Australia/Brisbane	2025-11-10
+7839569	Central Highlands (Qld)	Central Highlands (Qld)		-24.06336	148.31958	A	ADM2	AU		04	32270			31289		218	Australia/Brisbane	2026-02-20
+7839570	Charters Towers	Charters Towers		-20.20927	145.81645	A	ADM2	AU		04	32310			12491		354	Australia/Brisbane	2014-07-26
+7839571	Cherbourg	Cherbourg		-26.2875	151.93279	A	ADM2	AU		04	32330			1194		352	Australia/Brisbane	2025-11-10
+7839572	Cloncurry	Cloncurry		-20.69889	140.27115	A	ADM2	AU		04	32450			3167		278	Australia/Brisbane	2025-11-09
+7839573	Cook	Cook		-13.68149	143.53156	A	ADM2	AU		04	32500			4511		8	Australia/Brisbane	2026-02-20
+7839574	Croydon	Croydon		-18.5136	142.32249	A	ADM2	AU		04	32600			215		121	Australia/Brisbane	2025-11-09
+7839575	Diamantina	Diamantina		-24.57676	140.07163	A	ADM2	AU		04	32750			266		114	Australia/Brisbane	2025-11-08
+7839576	Doomadgee	Doomadgee		-17.63879	138.74359	A	ADM2	AU		04	32770			1387		53	Australia/Brisbane	2025-11-10
+7839577	Etheridge	Etheridge		-18.56276	143.53832	A	ADM2	AU		04	33100			714		401	Australia/Brisbane	2025-11-09
+7839578	Flinders (Qld)	Flinders (Qld)		-20.8903	144.38814	A	ADM2	AU		04	33200			1500		388	Australia/Brisbane	2026-02-20
+7839579	Fraser Coast	Fraser Coast		-25.34145	152.67024	A	ADM2	AU		04	33220			111032		41	Australia/Brisbane	2025-11-10
+7839580	Gladstone	Gladstone		-24.01869	151.65818	A	ADM2	AU		04	33360			45185		36	Australia/Brisbane	2025-11-10
+7839581	Gold Coast	Gold Coast	Gold Coast i Queensland,Gold Koast,Gold Kostas,Gold-Kost,Goldkosta,Gorad Gold-Kost,Goudkus,Gould Koust,Ora Marbordo,ghwld kwst,gld kwst,gold kost,golda kosta,goldeukoseuteu,gorudokosuto,huang jin hai an,hwp hzhb,kolt kost,Голд Коаст,Голд-Кост,Горад Голд-Кост,Гоулд Коуст,חוף הזהב,غولد كوست,گلد کوست,گولڈکاسٹ,गोल्ड कोस्ट,கோல்ட் கோஸ்ட்,గోల్డ్ కోస్ట్,გოლდ-კოსტი,ゴールドコースト,黃金海岸,黄金海岸,골드코스트	-27.97851	153.36055	A	ADM2	AU		04	33430			537844		25	Australia/Brisbane	2014-07-26
+7839582	Goondiwindi	Goondiwindi		-28.46221	150.31345	A	ADM2	AU		04	33610			6230		216	Australia/Brisbane	2025-11-09
+7839583	Gympie	Gympie		-26.18881	152.65868	A	ADM2	AU		04	33620			48145		71	Australia/Brisbane	2026-02-20
+7839584	Hinchinbrook	Hinchinbrook		-18.6584	146.12296	A	ADM2	AU		04	33800			10920		18	Australia/Brisbane	2025-11-10
+7839585	Hope Vale	Hope Vale		-15.13588	145.19248	A	ADM2	AU		04	33830			1004		21	Australia/Brisbane	2025-11-10
+7839586	Ipswich	Ipswich		-27.6779	152.66188	A	ADM2	AU		04	33960			229208		35	Australia/Brisbane	2025-11-10
+7839587	Isaac	Isaac		-22.24346	148.23672	A	ADM2	AU		04	33980			24275		211	Australia/Brisbane	2014-07-26
+7839588	Kowanyama	Kowanyama		-15.27882	141.81287	A	ADM2	AU		04	34420			1079		7	Australia/Brisbane	2025-11-10
+7839589	Lockhart River	Lockhart River		-13.01876	143.25024	A	ADM2	AU		04	34570			640		275	Australia/Brisbane	2025-11-10
+7839590	Lockyer Valley	Lockyer Valley		-27.68139	152.23036	A	ADM2	AU		04	34580			41011		164	Australia/Brisbane	2025-11-10
+7839591	Logan	Logan		-27.76294	153.04492	A	ADM2	AU		04	34590			345098		29	Australia/Brisbane	2025-11-10
+7839592	Longreach	Longreach		-23.876	143.86708	A	ADM2	AU		04	34710			3647		210	Australia/Brisbane	2025-11-09
+7839593	Mackay	Mackay		-21.08189	149.04265	A	ADM2	AU		04	34770			121691		45	Australia/Brisbane	2025-11-10
+7839594	McKinlay	McKinlay		-20.59413	141.67448	A	ADM2	AU		04	34800			162		120	Australia/Brisbane	2025-11-09
+7839595	Mapoon	Mapoon	AGW,Mapoon	-12.1096	141.90216	A	ADM2	AU		04	34830			469		15	Australia/Brisbane	2025-11-10
+7839596	Kulin	Kulin		-32.66096	118.57544	A	ADM2	AU		08	54760			834		373	Australia/Perth	2014-08-03
+7839597	Kwinana	Kwinana		-32.23391	115.82785	A	ADM2	AU		08	54830			34413		44	Australia/Perth	2014-07-26
+7839598	Lake Grace	Lake Grace		-33.1291	119.42041	A	ADM2	AU		08	54900			1370		364	Australia/Perth	2017-02-06
+7839599	Laverton	Laverton		-27.93793	125.27127	A	ADM2	AU		08	54970			1333		381	Australia/Perth	2025-11-09
+7839600	Leonora	Leonora		-28.39424	121.2596	A	ADM2	AU		08	55040			2764		473	Australia/Perth	2017-02-03
+7839601	Mandurah	Mandurah		-32.57845	115.66544	A	ADM2	AU		08	55110			80683		6	Australia/Perth	2014-08-03
+7839602	Manjimup	Manjimup		-34.59789	116.26566	A	ADM2	AU		08	55180			9427		160	Australia/Perth	2017-02-04
+7839603	Meekatharra	Meekatharra		-25.3033	118.99974	A	ADM2	AU		08	55250			675		520	Australia/Perth	2025-11-09
+7839604	Melville	Melville		-32.04325	115.83408	A	ADM2	AU		08	55320			106335		32	Australia/Perth	2017-02-07
+7839605	Menzies	Menzies		-29.39176	123.71878	A	ADM2	AU		08	55390			524		470	Australia/Perth	2025-11-09
+7839606	Merredin	Merredin		-31.46054	118.38509	A	ADM2	AU		08	55460			3300		381	Australia/Perth	2017-02-07
+7839607	Mingenew	Mingenew		-29.14515	115.50123	A	ADM2	AU		08	55530			486		162	Australia/Perth	2017-02-07
+7839608	Moora	Moora		-30.51218	116.2098	A	ADM2	AU		08	55600			2535		249	Australia/Perth	2017-02-07
+7839609	Morawa	Morawa		-29.03545	116.05643	A	ADM2	AU		08	55670			906		313	Australia/Perth	2017-02-07
+7839610	Mosman Park	Mosman Park		-32.01421	115.76613	A	ADM2	AU		08	55740			9508		27	Australia/Perth	2017-02-07
+7839611	Mount Magnet	Mount Magnet		-28.29082	117.96655	A	ADM2	AU		08	55810			711		422	Australia/Perth	2017-02-08
+7839612	Mount Marshall	Mount Marshall		-30.29376	118.00063	A	ADM2	AU		08	55880			471		417	Australia/Perth	2017-02-08
+7839613	Mukinbudin	Mukinbudin		-30.63684	118.28648	A	ADM2	AU		08	55950			491		404	Australia/Perth	2017-02-07
+7839615	Mundaring	Mundaring		-31.88456	116.21551	A	ADM2	AU		08	56090			39796		290	Australia/Perth	2017-02-07
+7839616	Murchison	Murchison		-27.00893	116.41205	A	ADM2	AU		08	56160			127		314	Australia/Perth	2017-02-03
+7839617	Murray	Murray		-32.62391	115.96538	A	ADM2	AU		08	56230			16304		83	Australia/Perth	2017-02-07
+7839618	Nannup	Nannup		-34.13466	115.67375	A	ADM2	AU		08	56300			1316		108	Australia/Perth	2017-02-07
+7839619	Narembeen	Narembeen		-32.02206	118.6899	A	ADM2	AU		08	56370			810		312	Australia/Perth	2017-02-07
+7839621	Narrogin	Narrogin		-32.99696	117.26366	A	ADM2	AU		08	56460			0		307	Australia/Perth	2019-05-19
+7839622	Nedlands	Nedlands		-31.97994	115.79942	A	ADM2	AU		08	56580			22918		23	Australia/Perth	2017-02-07
+7839623	Ngaanyatjarraku	Ngaanyatjarraku		-25.08871	126.83494	A	ADM2	AU		08	56620			1358		436	Australia/Perth	2025-11-09
+7839624	Northam	Northam		-31.69898	116.64964	A	ADM2	AU		08	56730			11730		168	Australia/Perth	2017-02-07
+7839625	Northampton	Northampton	Northampton	-28.04956	114.49589	A	ADM2	AU		08	56790			3379		221	Australia/Perth	2026-02-20
+7839626	Nungarin	Nungarin		-31.13714	118.21768	A	ADM2	AU		08	56860			228		330	Australia/Perth	2017-02-07
+7839627	Peppermint Grove	Peppermint Grove		-31.99885	115.76697	A	ADM2	AU		08	56930			1681		23	Australia/Perth	2017-02-07
+7839628	Perenjori	Perenjori		-29.39784	116.53543	A	ADM2	AU		08	57000			924		310	Australia/Perth	2017-02-04
+7839629	Pingelly	Pingelly		-32.53174	117.20004	A	ADM2	AU		08	57140			1195		353	Australia/Perth	2017-02-07
+7839630	Port Hedland	Port Hedland		-20.79258	118.63264	A	ADM2	AU		08	57280			16472		78	Australia/Perth	2017-02-03
+7839631	Quairading	Quairading		-32.01462	117.39835	A	ADM2	AU		08	57350			1094		257	Australia/Perth	2017-02-07
+7839632	Ravensthorpe	Ravensthorpe		-33.68375	120.15338	A	ADM2	AU		08	57420			2288		162	Australia/Perth	2017-02-04
+7839633	Rockingham	Rockingham	Cite de Rockingham,Citta di Rockingham,Città di Rockingham,City of Rockingham,Cité de Rockingham,Rockingham City,luo jin han shi,როკინგჰემი,洛金漢市	-32.28239	115.73238	A	ADM2	AU		08	57490			120859		4	Australia/Perth	2014-07-26
+7839635	Sandstone	Sandstone		-28.42189	118.98846	A	ADM2	AU		08	57630			116		440	Australia/Perth	2017-02-03
+7839636	Serpentine-Jarrahdale	Serpentine-Jarrahdale		-32.32452	116.04507	A	ADM2	AU		08	57700			21162		263	Australia/Perth	2017-02-07
+7839637	Shark Bay	Shark Bay		-26.38916	114.21845	A	ADM2	AU		08	57770			928		23	Australia/Perth	2017-02-03
+7839638	South Perth	South Perth		-31.99884	115.87222	A	ADM2	AU		08	57840			46113		20	Australia/Perth	2017-02-07
+7839639	Stirling	Stirling		-31.8794	115.80929	A	ADM2	AU		08	57910			223317		20	Australia/Perth	2017-02-07
+7839640	Subiaco	Subiaco		-31.95964	115.81564	A	ADM2	AU		08	57980			19693		21	Australia/Perth	2014-08-02
+7839641	Swan	Swan		-31.77039	116.08746	A	ADM2	AU		08	58050			124782		251	Australia/Perth	2014-07-26
+7839642	Tammin	Tammin		-31.60512	117.48306	A	ADM2	AU		08	58190			401		263	Australia/Perth	2017-02-06
+7839643	Three Springs	Three Springs		-29.51386	115.63158	A	ADM2	AU		08	58260			632		254	Australia/Perth	2017-02-06
+7839644	Adelaide	Adelaide		-34.92845	138.59528	A	ADM2	AU		05	40070			22200		50	Australia/Adelaide	2017-02-06
+7839645	Adelaide Hills	Adelaide Hills		-34.90103	138.85457	A	ADM2	AU		05	40120			39832		472	Australia/Adelaide	2014-07-26
+7839646	Alexandrina	Alexandrina		-35.33769	138.83704	A	ADM2	AU		05	40220			24824		79	Australia/Adelaide	2017-02-06
+7839647	Anangu Pitjantjatjara Yankunytjatjara	Anangu Pitjantjatjara Yankunytjatjara		-27.05797	131.37314	A	ADM2	AU		05	40250			2333		509	Australia/Adelaide	2026-02-20
+7839648	Barossa	Barossa		-34.61351	138.96169	A	ADM2	AU		05	40310			22808		490	Australia/Adelaide	2017-02-08
+7839649	Barunga West	Barunga West		-33.79484	137.92311	A	ADM2	AU		05	40430			2452		83	Australia/Adelaide	2017-02-06
+7839650	Berri Barmera	Berri Barmera		-34.28788	140.49358	A	ADM2	AU		05	40520			10611		40	Australia/Adelaide	2026-02-20
+7839651	Campbelltown (SA)	Campbelltown (SA)		-34.88545	138.68546	A	ADM2	AU		05	40910			50893		108	Australia/Adelaide	2026-02-20
+7839652	Ceduna	Ceduna		-32.14736	133.86288	A	ADM2	AU		05	41010			2290		43	Australia/Adelaide	2025-11-10
+7839653	Charles Sturt	Charles Sturt		-34.90067	138.53182	A	ADM2	AU		05	41060			111236		12	Australia/Adelaide	2017-02-06
+7839654	Clare and Gilbert Valleys	Clare and Gilbert Valleys		-34.01462	138.7534	A	ADM2	AU		05	41140			8994		370	Australia/Adelaide	2017-02-06
+7839655	Cleve	Cleve		-33.66078	136.28893	A	ADM2	AU		05	41190			1751		144	Australia/Adelaide	2017-02-06
+7839656	Copper Coast	Copper Coast		-33.94287	137.71329	A	ADM2	AU		05	41560			13687		37	Australia/Adelaide	2017-02-06
+7839657	Albany	Albany		-34.7099	118.12345	A	ADM2	AU		08	50080			36262		123	Australia/Perth	2017-02-04
+7839658	Armadale	Armadale	Armadale City,Cite dArmadale,Citta di Armadale,Città di Armadale,City of Armadale,Cité dArmadale,a ma dai er shi,armadale,არმადალე,阿瑪代爾市	-32.17887	116.1275	A	ADM2	AU		08	50210			73725		311	Australia/Perth	2014-07-26
+7839659	Ashburton	Ashburton		-22.27674	116.90057	A	ADM2	AU		08	50250			7391		617	Australia/Perth	2025-11-09
+7839660	Bassendean	Bassendean		-31.90584	115.94501	A	ADM2	AU		08	50350			15923		21	Australia/Perth	2017-02-06
+7839661	Bayswater	Bayswater		-31.91181	115.9087	A	ADM2	AU		08	50420			69493		23	Australia/Perth	2017-02-06
+7839662	Belmont	Belmont		-31.95458	115.94218	A	ADM2	AU		08	50490			40083		21	Australia/Perth	2017-02-06
+7839663	Beverley	Beverley		-32.15983	116.76363	A	ADM2	AU		08	50560			1566		267	Australia/Perth	2017-02-06
+7839664	Boddington	Boddington		-32.79195	116.41883	A	ADM2	AU		08	50630			2471		218	Australia/Perth	2017-02-06
+7839665	Break O'Day	Break O'Day		-41.39069	147.97477	A	ADM2	AU		06	60210			6430		509	Australia/Hobart	2017-02-06
+7839666	Devonport	Devonport		-41.21296	146.32401	A	ADM2	AU		06	61610			25628		246	Australia/Hobart	2017-02-04
+7839667	Dorset	Dorset		-41.04789	147.73167	A	ADM2	AU		06	61810			7158		218	Australia/Hobart	2017-02-04
+7839668	Flinders (Tas.)	Flinders (Tas.)		-40.03799	148.13965	A	ADM2	AU		06	62010			784		32	Australia/Hobart	2026-02-20
+7839669	George Town	George Town		-41.11982	147.01731	A	ADM2	AU		06	62210			6828		135	Australia/Hobart	2017-02-06
+7839670	Glamorgan-Spring Bay	Glamorgan-Spring Bay		-42.27832	147.96675	A	ADM2	AU		06	62410			4437		52	Australia/Hobart	2026-02-20
+7839671	Glenorchy	Glenorchy		-42.83188	147.22954	A	ADM2	AU		06	62610			45537		550	Australia/Hobart	2014-07-26
+7839672	Hobart	Hobart	Hobart	-42.89387	147.27886	A	ADM2	AU		06	62810			50473		170	Australia/Hobart	2021-08-17
+7839673	Huon Valley	Huon Valley		-43.29385	146.56555	A	ADM2	AU		06	63010			16159		475	Australia/Hobart	2017-02-04
+7839674	Kentish	Kentish		-41.46341	146.17726	A	ADM2	AU		06	63210			6495		567	Australia/Hobart	2017-02-04
+7839675	King Island	King Island		-39.87215	143.99153	A	ADM2	AU		06	63410			1605		61	Australia/Hobart	2021-10-17
+7839676	Kingborough	Kingborough		-42.97451	147.25113	A	ADM2	AU		06	63610			35201		281	Australia/Hobart	2017-02-04
+7839677	Latrobe (Tas.)	Latrobe (Tas.)		-41.21551	146.40656	A	ADM2	AU		06	63810			10655		68	Australia/Hobart	2026-02-20
+7839678	Launceston	Launceston	Launceston	-41.321	147.31236	A	ADM2	AU		06	64010			67035		383	Australia/Hobart	2017-02-04
+7839679	Meander Valley	Meander Valley		-41.64952	146.54572	A	ADM2	AU		06	64210			19543		666	Australia/Hobart	2017-02-06
+7839680	Northern Midlands	Northern Midlands		-41.87988	147.45776	A	ADM2	AU		06	64610			12754		201	Australia/Hobart	2014-07-26
+7839681	Alice Springs	Alice Springs	Alice Springs	-23.731	133.83321	A	ADM2	AU		03	70200			28720		580	Australia/Darwin	2014-07-26
+7839682	Barkly	Barkly		-19.54154	134.82364	A	ADM2	AU		03	70420			7392		265	Australia/Darwin	2022-03-10
+7839685	Central Desert	Central Desert		-21.07203	133.49949	A	ADM2	AU		03	70620			4208		402	Australia/Darwin	2025-11-10
+7839686	Ballina	Ballina		-28.85273	153.48568	A	ADM2	AU		02	10250			41335		3	Australia/Sydney	2017-02-06
+7839687	Balranald	Balranald		-34.67839	143.56384	A	ADM2	AU		02	10300			2371		66	Australia/Sydney	2014-07-26
+7839689	Bathurst	Bathurst		-33.4731	149.51956	A	ADM2	AU		02	10470			41051		735	Australia/Sydney	2026-02-20
+7839690	The Hills	The Hills	Hills,Hills Shire,Hrabstwo The Hills,The Hills Shire,comte des Hills,comté des Hills,contea de The Hills,contea di The Hills,xi er si jun,دی ہلز شائر,ザ・ヒルズ・シャー,希尔斯郡,希爾斯郡	-33.59118	150.961	A	ADM2	AU		02	17420			176487		116	Australia/Sydney	2026-02-20
+7839691	Bega Valley	Bega Valley		-36.81646	149.7206	A	ADM2	AU		02	10550			33313		143	Australia/Sydney	2017-02-06
+7839692	Bellingen	Bellingen		-30.37394	152.72492	A	ADM2	AU		02	10600			12854		774	Australia/Sydney	2017-02-06
+7839693	Berrigan	Berrigan		-35.75192	145.66984	A	ADM2	AU		02	10650			8365		111	Australia/Sydney	2017-02-06
+7839694	Blacktown	Blacktown	City of Blacktown	-33.74016	150.86253	A	ADM2	AU		02	10750			325185		29	Australia/Sydney	2014-07-26
+7839695	Bland	Bland		-33.91904	146.92718	A	ADM2	AU		02	10800			6010		317	Australia/Sydney	2014-07-26
+7839696	Blayney	Blayney		-33.61653	149.13046	A	ADM2	AU		02	10850			7330		731	Australia/Sydney	2017-02-06
+7839697	Bogan	Bogan		-31.57012	146.90617	A	ADM2	AU		02	10950			3037		192	Australia/Sydney	2017-02-06
+7839701	Bourke	Bourke		-29.99584	145.3616	A	ADM2	AU		02	11150			2996		110	Australia/Sydney	2017-02-03
+7839702	Brewarrina	Brewarrina		-29.95055	147.1476	A	ADM2	AU		02	11200			1940		118	Australia/Sydney	2017-02-06
+7839703	Burwood	Burwood		-33.88536	151.10481	A	ADM2	AU		02	11300			35298		35	Australia/Sydney	2014-07-26
+7839704	Cabonne	Cabonne		-33.11076	148.82694	A	ADM2	AU		02	11400			13695		595	Australia/Sydney	2017-02-07
+7839705	Camden	Camden	Camden Council,Conseil de Camden,Dewan Camden,Municipalita di Camden,Municipalità di Camden,kang dun yi hui,カムデン・カウンシル,康頓議會	-34.0161	150.72521	A	ADM2	AU		02	11450			63248		104	Australia/Sydney	2014-07-26
+7839706	Canada Bay	Canada Bay		-33.8659	151.11591	A	ADM2	AU		02	11520			84906		12	Australia/Sydney	2014-08-02
+7839708	Carrathool	Carrathool		-33.62571	145.42523	A	ADM2	AU		02	11600			2792		110	Australia/Sydney	2017-02-03
+7839709	Central Darling	Central Darling		-31.77155	143.62569	A	ADM2	AU		02	11700			1725		94	Australia/Sydney	2025-11-08
+7839710	Cessnock	Cessnock		-32.89391	151.21234	A	ADM2	AU		02	11720			54313		350	Australia/Sydney	2017-02-07
+7839711	Clarence Valley	Clarence Valley		-29.69444	152.78156	A	ADM2	AU		02	11730			51043		53	Australia/Sydney	2017-02-08
+7839712	Cobar	Cobar		-31.96613	145.36063	A	ADM2	AU		02	11750			5024		187	Australia/Sydney	2017-02-03
+7839713	Coffs Harbour	Coffs Harbour		-30.17294	153.03262	A	ADM2	AU		02	11800			71798		160	Australia/Sydney	2017-02-07
+7839715	Coolamon	Coolamon		-34.60046	147.13707	A	ADM2	AU		02	12000			4276		226	Australia/Sydney	2017-02-07
+7839717	Coonamble	Coonamble		-30.86714	148.29053	A	ADM2	AU		02	12150			4279		165	Australia/Sydney	2017-02-08
+7839720	Cowra	Cowra		-33.81138	148.78346	A	ADM2	AU		02	12350			12551		347	Australia/Sydney	2017-02-08
+7839723	Griffith	Griffith		-34.33448	146.02295	A	ADM2	AU		02	13450			25425		122	Australia/Sydney	2017-02-08
+7839724	Cootamundra-Gundagai	Cootamundra-Gundagai		-35.02623	148.13457	A	ADM2	AU		02	13510			3747		222	Australia/Sydney	2026-02-20
+7839725	Gunnedah	Gunnedah		-31.02404	150.11548	A	ADM2	AU		02	13550			12688		404	Australia/Sydney	2017-02-08
+7839727	Gwydir	Gwydir		-29.49806	150.53813	A	ADM2	AU		02	13660			5104		370	Australia/Sydney	2017-02-08
+7839729	Hawkesbury	Hawkesbury		-33.34078	150.783	A	ADM2	AU		02	13800			65114		250	Australia/Sydney	2017-02-08
+7839730	Hay	Hay		-34.54276	144.83826	A	ADM2	AU		02	13850			2962	91	91	Australia/Sydney	2017-02-08
+7839732	Hunters Hill	Hunters Hill		-33.83437	151.1451	A	ADM2	AU		02	14100			14491		40	Australia/Sydney	2014-08-02
+7839734	Inverell	Inverell	Inverell	-29.31526	151.04187	A	ADM2	AU		02	14200			16727		494	Australia/Sydney	2024-05-17
+7839736	Junee	Junee	Junee Shire	-34.81518	147.63131	A	ADM2	AU		02	14300			6227		319	Australia/Sydney	2023-11-02
+7839737	Kempsey	Kempsey		-30.90553	152.68608	A	ADM2	AU		02	14350			29361		71	Australia/Sydney	2017-02-08
+7839738	Kiama	Kiama		-34.67124	150.84572	A	ADM2	AU		02	14400			21047		60	Australia/Sydney	2014-07-26
+7839740	Ku-ring-gai	Ku-ring-gai	Conseil de Ku-ring-gai,Dewan Ku-ring-gai,Ku-ring-gai Council,Municipalita di Ku-Ring-Gai,Municipalità di Ku-Ring-Gai,gu lin kai yi hui,クー＝リン＝ガイ・カウンシル,顾林凯议会	-33.72701	151.14877	A	ADM2	AU		02	14500			119027		135	Australia/Sydney	2014-07-26
+7839741	Kyogle	Kyogle		-28.64643	152.77871	A	ADM2	AU		02	14550			9538		222	Australia/Sydney	2017-02-08
+7839742	Lachlan	Lachlan		-32.79999	146.87556	A	ADM2	AU		02	14600			6748		204	Australia/Sydney	2017-02-08
+7839743	Lane Cove	Lane Cove		-33.82321	151.17028	A	ADM2	AU		02	14700			33996		51	Australia/Sydney	2014-07-26
+7839744	Leeton	Leeton		-34.52967	146.26918	A	ADM2	AU		02	14750			11539		132	Australia/Sydney	2017-02-08
+7839746	Lithgow	Lithgow		-33.32025	150.18584	A	ADM2	AU		02	14870			21118		1098	Australia/Sydney	2017-02-08
+7839747	Liverpool	Liverpool		-33.92418	150.91232	A	ADM2	AU		02	14900			195355		15	Australia/Sydney	2014-08-02
+7839748	Liverpool Plains	Liverpool Plains		-31.47024	150.42001	A	ADM2	AU		02	14920			7763		329	Australia/Sydney	2017-02-08
+7839749	Lockhart	Lockhart		-35.32193	146.79354	A	ADM2	AU		02	14950			3021		214	Australia/Sydney	2017-02-07
+7839751	Mid-Western	Mid-Western		-32.60202	149.76748	A	ADM2	AU		02	15270			23843		520	Australia/Sydney	2026-02-20
+7839752	Moree Plains	Moree Plains		-29.32131	149.58121	A	ADM2	AU		02	15300			14250		186	Australia/Sydney	2017-02-08
+7839753	Mosman	Mosman		-33.82845	151.24866	A	ADM2	AU		02	15350			29983		31	Australia/Sydney	2014-07-26
+7839754	Muswellbrook	Muswellbrook		-32.48935	150.69839	A	ADM2	AU		02	15650			16851		307	Australia/Sydney	2017-02-07
+7839755	Narrabri	Narrabri		-30.32779	149.60242	A	ADM2	AU		02	15750			13685		222	Australia/Sydney	2017-02-07
+7839756	Narrandera	Narrandera		-34.59107	146.53197	A	ADM2	AU		02	15800			6030		154	Australia/Sydney	2017-02-07
+7839757	Narromine	Narromine		-32.23174	147.97591	A	ADM2	AU		02	15850			6872		225	Australia/Sydney	2017-02-07
+7839758	Newcastle	Newcastle		-32.87628	151.70843	A	ADM2	AU		02	15900			158553		16	Australia/Sydney	2017-02-08
+7839759	North Sydney	North Sydney	Conseil de Sydney Nord,Dewan Sydney Utara,Municipalita di North Sydney,Municipalità di North Sydney,North Sydney Council,bei xue li yi hui,ノース・シドニー・カウンシル,北雪梨議會	-33.83422	151.21019	A	ADM2	AU		02	15950			69248		84	Australia/Sydney	2014-07-26
+7839760	Oberon	Oberon		-33.84531	149.81795	A	ADM2	AU		02	16100			5270		1162	Australia/Sydney	2017-02-07
+7839762	Parkes	Parkes		-32.82318	148.02514	A	ADM2	AU		02	16200			15087		265	Australia/Sydney	2017-02-07
+7839763	Parramatta	Parramatta		-33.81248	151.00262	A	ADM2	AU		02	16260			184622		17	Australia/Sydney	2021-08-28
+7839765	Port Macquarie-Hastings	Port Macquarie-Hastings		-31.42106	152.51916	A	ADM2	AU		02	16380			76563		365	Australia/Sydney	2017-02-08
+7839767	Richmond Valley	Richmond Valley		-29.02684	153.08625	A	ADM2	AU		02	16610			22749		58	Australia/Sydney	2014-07-26
+7839769	Ryde	Ryde		-33.80149	151.11205	A	ADM2	AU		02	16700			112545		84	Australia/Sydney	2014-07-26
+7839770	Shellharbour	Shellharbour		-34.59028	150.77119	A	ADM2	AU		02	16900			67797		125	Australia/Sydney	2017-02-07
+7839771	Singleton	Singleton		-32.60547	150.91872	A	ADM2	AU		02	17000			23751		480	Australia/Sydney	2017-02-07
+7839773	Strathfield	Strathfield	Gmina Strathfield,Municipalita di Strathfield,Municipalite de Strathfield,Municipality of Strathfield,Municipalità di Strathfield,Municipalité de Strathfield,Munisipalitas Strathfield,Strathfield Municipality,shi zhuo fei zi zhi shi,ミュニシパリティ・オブ・ストラスフィールド,史卓菲自治市	-33.87978	151.07561	A	ADM2	AU		02	17100			38358		35	Australia/Sydney	2014-07-26
+7839774	Sutherland	Sutherland	Comtat de Sutherland,Hrabstwo Sutherland,Sutherland,Sutherland Shire,comtat de Sutherland,comte de Sutherland,comté de Sutherland,contea de Sutherland,contea di Sutherland,sa se lan jun,satrlnd shayr,sazarando・shaia,seodeollaendeusi,ساترلند شایر,سدرلینڈ شائر,サザランド・シャイア,萨瑟兰郡,薩瑟蘭郡,서덜랜드시	-34.07202	151.07712	A	ADM2	AU		02	17150			223192		61	Australia/Sydney	2026-02-20
+7839775	Upper Lachlan	Upper Lachlan	Comtat del Naut Lachlan,Upper Lachlan Shire,Upper Lachlan Shire Council,comte du Haut Lachlan,comté du Haut Lachlan,contea de Upper Lachlan,contea di Upper Lachlan,shang la ke lan jun,アッパーランクラン・シャイア,上拉克蘭郡	-34.41867	149.53061	A	ADM2	AU		02	17640			7586		908	Australia/Sydney	2026-02-20
+7839776	Uralla	Uralla		-30.48548	151.35451	A	ADM2	AU		02	17650			6370		759	Australia/Sydney	2017-02-07
+7839778	Wagga Wagga	Wagga Wagga	City of Wagga Wagga	-35.18587	147.35509	A	ADM2	AU		02	17750			62149		220	Australia/Sydney	2023-11-02
+7839780	Walcha	Walcha		-31.19757	151.81854	A	ADM2	AU		02	17850			3087		1065	Australia/Sydney	2017-02-07
+7839781	Walgett	Walgett		-29.79031	148.13393	A	ADM2	AU		02	17900			6785		138	Australia/Sydney	2017-02-07
+7839783	Warrumbungle	Warrumbungle	Warrumbungle Shire,Warrumbungle Shire Council,comte de Warrumbungle,comté de Warrumbungle,contea de Warrumbungle,contea di Warrumbungle,ワールンバングル・シャイア	-31.45519	149.45377	A	ADM2	AU		02	18020			9778		568	Australia/Sydney	2026-02-20
+7839784	Waverley	Waverley	Conseil de Waverley,Dewan Waverley,Municipalita di Waverley,Municipalità di Waverley,Waverley Council,Waverley Municipal Council,wei fu li yi hui,ウェイヴァリー・ミュニシパル・カウンシル,韋佛利議會	-33.90181	151.25599	A	ADM2	AU		02	18050			70706		93	Australia/Sydney	2014-08-02
+7839785	Weddin	Weddin		-33.87903	148.01125	A	ADM2	AU		02	18100			3711		345	Australia/Sydney	2017-02-07
+7839787	Wentworth	Wentworth		-33.67106	142.33675	A	ADM2	AU		02	18200			6832		49	Australia/Sydney	2019-09-27
+7839788	Willoughby	Willoughby		-33.80167	151.18782	A	ADM2	AU		02	18250			73155		108	Australia/Sydney	2014-07-26
+7839789	Wingecarribee	Wingecarribee		-34.49091	150.35486	A	ADM2	AU		02	18350			47054		704	Australia/Sydney	2017-02-07
+7839790	Wollondilly	Wollondilly		-34.06958	150.46265	A	ADM2	AU		02	18400			46295		435	Australia/Sydney	2017-02-07
+7839791	Wollongong	Wollongong		-34.34237	150.85062	A	ADM2	AU		02	18450			205231		367	Australia/Sydney	2017-02-07
+7839792	Woollahra	Woollahra	Gmina Woollahra,Municipalita di Woollahra,Municipalite de Woollahra,Municipality of Woollahra,Municipalità di Woollahra,Municipalité de Woollahra,Munisipalitas Woollahra,Woollahra Municipality,hu la lei zi zhi shi,ミュニシパリティ・オブ・ウラーラ,胡拉勒自治市	-33.87901	151.24706	A	ADM2	AU		02	18500			57677		13	Australia/Sydney	2014-08-03
+7839793	Yass Valley	Yass Valley		-34.9263	148.9724	A	ADM2	AU		02	18710			16270		561	Australia/Sydney	2014-07-26
+7839795	Indigo	Indigo	Indigo,Индиго	-36.20854	146.68628	A	ADM2	AU		07	23350			15372		308	Australia/Melbourne	2019-09-07
+7839796	Kingston (Vic.)	Kingston (Vic.)	Kingston,Кингстон	-38.0045	145.09531	A	ADM2	AU		07	23430			151686		7	Australia/Melbourne	2026-02-20
+7839797	Knox	Knox	Noks,Нокс	-37.89895	145.26923	A	ADM2	AU		07	23670			154909		76	Australia/Melbourne	2019-09-07
+7839798	Latrobe (Vic.)	Latrobe (Vic.)	Latrob,Латроб	-38.25379	146.46124	A	ADM2	AU		07	23810			73846		94	Australia/Melbourne	2026-02-20
+7839799	Loddon	Loddon	Loddon,Лоддон	-36.40406	143.82964	A	ADM2	AU		07	23940			7443		122	Australia/Melbourne	2024-03-28
+7839800	Macedon Ranges	Macedon Ranges	Masedon-Rejndzhes,Маседон-Рейнджес	-37.33343	144.61581	A	ADM2	AU		07	24130			44098		633	Australia/Melbourne	2024-03-28
+7839801	Manningham	Manningham	Manningem,Маннингем	-37.7571	145.18053	A	ADM2	AU		07	24210			117537		49	Australia/Melbourne	2019-09-07
+7839802	Mansfield	Mansfield	Mansfild,Мансфилд	-37.2413	146.14803	A	ADM2	AU		07	24250			8185		475	Australia/Melbourne	2019-09-06
+7839803	Maribyrnong	Maribyrnong	Mehribernong,Мэрибернонг	-37.79141	144.87786	A	ADM2	AU		07	24330			79302		39	Australia/Melbourne	2019-09-07
+7839804	Maroondah	Maroondah	City of Maroondah,Maroondah,Maroondah City,Marunda,Марунда	-37.80679	145.2632	A	ADM2	AU		07	24410			115043		154	Australia/Melbourne	2024-10-25
+7839805	Melbourne	Melbourne	Mel'burn,Melbourne,Мельбурн	-37.81306	144.94422	A	ADM2	AU		07	24600			116447		4	Australia/Melbourne	2023-04-16
+7839806	Melton	Melton	Melton,Мелтон	-37.68144	144.62292	A	ADM2	AU		07	24650			122909		144	Australia/Melbourne	2019-09-07
+7839807	Mitchell	Mitchell	Mitchell,Митчелл	-37.17535	144.97999	A	ADM2	AU		07	24850			37366		256	Australia/Melbourne	2019-09-06
+7839808	Moira	Moira	Mojra,Мойра	-36.0506	145.53815	A	ADM2	AU		07	24900			28675		113	Australia/Melbourne	2019-09-07
+7839809	Monash	Monash	Monash,Монаш	-37.89675	145.14714	A	ADM2	AU		07	24970			182485		111	Australia/Melbourne	2019-09-07
+7839810	Moonee Valley	Moonee Valley	Muni-Valli,Муни-Валли	-37.74941	144.89325	A	ADM2	AU		07	25060			115097		38	Australia/Melbourne	2019-09-07
+7839811	Moorabool	Moorabool	Murabul,Мурабул	-37.63338	144.21946	A	ADM2	AU		07	25150			30320		505	Australia/Melbourne	2019-09-07
+7839812	Merri-bek	Merri-bek	Moreland,Morlend,Морленд	-37.73557	144.93745	A	ADM2	AU		07	25250			160029		72	Australia/Melbourne	2026-02-20
+7839813	Mornington Peninsula	Mornington Peninsula	Mornington,Mornington-Halbinsel,Mornington-Peninsula,Peninsula de Mornington,Peninsule de Mornington,Península de Mornington,Péninsule de Mornington,mao ning tun ban dao,mo ning dun ban dao,Морнингтон-Пенинсула,Морнінгтон,毛宁吞半岛,莫宁顿半岛	-38.34004	145.05455	A	ADM2	AU		07	25340			152260		180	Australia/Melbourne	2019-09-07
+7839814	Mount Alexander	Mount Alexander	Maunt-Alegzander,Маунт-Алегзандер	-37.07607	144.18825	A	ADM2	AU		07	25430			17994		301	Australia/Melbourne	2024-03-28
+7839815	Moyne	Moyne	Mojn,Мойн	-38.18785	142.46217	A	ADM2	AU		07	25490			16277		80	Australia/Melbourne	2019-09-07
+7839816	Murrindindi	Murrindindi	Murrindindi,Мурриндинди	-37.28104	145.67437	A	ADM2	AU		07	25620			15197		231	Australia/Melbourne	2023-04-18
+7839817	Nillumbik	Nillumbik	Comte de Nillumbik,Comté de Nillumbik,Contea di Nillumbik,Hrabstwo Nillumbik,Nillumbik,Nillumbik Shire,Shire of Nillumbik,Ниллумбик	-37.61474	145.21706	A	ADM2	AU		07	25710			62724		116	Australia/Melbourne	2019-09-07
+7839818	Northern Grampians	Northern Grampians	Nortern-Grampians,Нортерн-Грампианс	-36.84962	142.87303	A	ADM2	AU		07	25810			11799		199	Australia/Melbourne	2019-09-07
+7839819	Port Phillip	Port Phillip	Port-Fillip,Порт-Филлип	-37.85159	144.96992	A	ADM2	AU		07	25900			102501		10	Australia/Melbourne	2019-09-06
+7839820	Pyrenees	Pyrenees	Pirenis,Пиренис	-37.32756	143.36472	A	ADM2	AU		07	25990			6770		430	Australia/Melbourne	2019-09-07
+7839821	Queenscliffe	Queenscliffe	Kuinskliff,Куинсклифф	-38.26896	144.66248	A	ADM2	AU		07	26080			3058		15	Australia/Melbourne	2019-09-06
+7839822	South Gippsland	South Gippsland	Saut-Gipslend,Саут-Гипсленд	-38.69897	146.06702	A	ADM2	AU		07	26170			27930		44	Australia/Melbourne	2019-09-07
+7839823	Southern Grampians	Southern Grampians	Sautern-Grampians,Саутерн-Грампианс	-37.52989	142.02533	A	ADM2	AU		07	26260			16145		200	Australia/Melbourne	2019-09-07
+7839824	Stonnington	Stonnington	Stonnington,Стоннингтон	-37.8613	145.03776	A	ADM2	AU		07	26350			103187		49	Australia/Melbourne	2019-09-07
+7839825	Strathbogie	Strathbogie	Stratbogi,Стратбоги	-36.72402	145.32938	A	ADM2	AU		07	26430			9706		131	Australia/Melbourne	2019-09-07
+7839826	Surf Coast	Surf Coast	Serf-Kost,Серф-Кост	-38.33997	144.1153	A	ADM2	AU		07	26490			28282		124	Australia/Melbourne	2019-09-07
+7839827	Swan Hill	Swan Hill	Suon-Khill,Суон-Хилл	-35.10061	143.1681	A	ADM2	AU		07	26610			20867		58	Australia/Melbourne	2024-03-28
+7839828	Towong	Towong	Tovong,Товонг	-36.36587	147.62717	A	ADM2	AU		07	26670			5889		791	Australia/Melbourne	2019-09-07
+7839829	Wangaratta	Wangaratta	Uangaratta,Уангаратта	-36.61599	146.42839	A	ADM2	AU		07	26700			27197		220	Australia/Melbourne	2019-09-06
+7839830	Warrnambool	Warrnambool	Uornambul,Уорнамбул	-38.37819	142.52165	A	ADM2	AU		07	26730			33300		34	Australia/Melbourne	2019-09-06
+7839831	Wellington	Wellington	Uehllington,Уэллингтон	-38.03765	147.01697	A	ADM2	AU		07	26810			42319		20	Australia/Melbourne	2019-09-07
+7839832	West Wimmera	West Wimmera	Uehst-Uimmera,Уэст-Уиммера	-36.59921	141.40038	A	ADM2	AU		07	26890			4089		162	Australia/Melbourne	2019-09-07
+7839833	Whitehorse	Whitehorse	Uajtkhors,Уайтхорс	-37.82868	145.15432	A	ADM2	AU		07	26980			161724		95	Australia/Melbourne	2019-09-07
+7839834	Whittlesea	Whittlesea		-37.55087	145.09375	A	ADM2	AU		07	27070			179261		187	Australia/Melbourne	2017-02-06
+7839835	Wodonga	Wodonga	Uodonga,Уодонга	-36.14469	146.88818	A	ADM2	AU		07	27170			37345		226	Australia/Melbourne	2019-09-06
+7839836	Wyndham	Wyndham	Uindem,Уиндем	-37.8928	144.63573	A	ADM2	AU		07	27260			189618		29	Australia/Melbourne	2019-09-07
+7839837	Yarra Ranges	Yarra Ranges	Jarra-Rejndzhes,Ярра-Рейнджес	-37.75006	145.73708	A	ADM2	AU		07	27450			156068		189	Australia/Melbourne	2023-04-17
+7839838	Yarriambiack	Yarriambiack	Jarriambiak,Ярриамбиак	-36.02618	142.40452	A	ADM2	AU		07	27630			7018		95	Australia/Melbourne	2019-09-07
+7839839	Toodyay	Toodyay		-31.46991	116.38804	A	ADM2	AU		08	58330			4686		322	Australia/Perth	2017-02-08
+7839840	Trayning	Trayning		-31.16681	117.83812	A	ADM2	AU		08	58400			342		286	Australia/Perth	2017-02-07
+7839841	Upper Gascoyne	Upper Gascoyne		-24.71935	116.33876	A	ADM2	AU		08	58470			262		313	Australia/Perth	2017-02-03
+7839842	Victoria Park	Victoria Park		-31.97651	115.90592	A	ADM2	AU		08	58510			37682		16	Australia/Perth	2014-07-26
+7839843	Victoria Plains	Victoria Plains		-31.01632	116.28546	A	ADM2	AU		08	58540			921		243	Australia/Perth	2017-02-08
+7839844	Vincent	Vincent		-31.93138	115.85412	A	ADM2	AU		08	58570			36692		35	Australia/Perth	2017-02-08
+7839845	Wagin	Wagin		-33.27501	117.38554	A	ADM2	AU		08	58610			1975		298	Australia/Perth	2017-02-08
+7839846	Wandering	Wandering		-32.52589	116.56668	A	ADM2	AU		08	58680			438		356	Australia/Perth	2017-02-08
+7839847	Wanneroo	Wanneroo		-31.65293	115.72211	A	ADM2	AU		08	58760			178438		50	Australia/Perth	2017-02-08
+7839848	Waroona	Waroona		-32.84916	115.90429	A	ADM2	AU		08	58820			3843		31	Australia/Perth	2017-02-08
+7839849	West Arthur	West Arthur		-33.44057	116.68597	A	ADM2	AU		08	58890			887		288	Australia/Perth	2017-02-08
+7839850	Westonia	Westonia		-30.88436	118.72974	A	ADM2	AU		08	59030			272		410	Australia/Perth	2017-02-08
+7839851	Wickepin	Wickepin		-32.82211	117.63996	A	ADM2	AU		08	59100			750		318	Australia/Perth	2017-02-08
+7839852	Williams	Williams		-33.05217	116.70943	A	ADM2	AU		08	59170			928		335	Australia/Perth	2017-02-08
+7839853	Wiluna	Wiluna		-25.3663	121.93243	A	ADM2	AU		08	59250			240		529	Australia/Perth	2025-11-09
+7839854	Wongan-Ballidu	Wongan-Ballidu		-30.73138	116.84854	A	ADM2	AU		08	59310			1586		304	Australia/Perth	2017-02-08
+7839855	Woodanilling	Woodanilling		-33.51937	117.3358	A	ADM2	AU		08	59320			0		333	Australia/Perth	2019-05-19
+7839856	Wyalkatchem	Wyalkatchem		-31.19528	117.44682	A	ADM2	AU		08	59330			0		306	Australia/Perth	2019-05-19
+7839857	Wyndham-East Kimberley	Wyndham-East Kimberley		-15.51291	126.58779	A	ADM2	AU		08	59340			0		385	Australia/Perth	2019-05-19
+7839858	Yalgoo	Yalgoo		-28.48787	117.15818	A	ADM2	AU		08	59350			0		351	Australia/Perth	2019-05-19
+7839859	Yilgarn	Yilgarn		-30.90938	119.25881	A	ADM2	AU		08	59360			0		412	Australia/Perth	2019-05-19
+7839860	York	York		-31.91703	116.72162	A	ADM2	AU		08	59370			0		291	Australia/Perth	2019-05-19
+7839861	Sorell	Sorell		-42.78908	147.69488	A	ADM2	AU		06	64810			13537		197	Australia/Hobart	2017-02-08
+7839862	Southern Midlands	Southern Midlands		-42.41785	147.43414	A	ADM2	AU		06	65010			6271		520	Australia/Hobart	2014-07-26
+7839863	Tasman	Tasman		-43.16245	147.94739	A	ADM2	AU		06	65210			2363		178	Australia/Hobart	2026-02-20
+12047262	Snowy Monaro	Snowy Monaro		-36.42124	148.89311	A	ADM2	AU		02	17040			0		896		2026-02-20
+12047263	Douglas	Douglas		-16.30965	145.28906	A	ADM2	AU		04	32810			0		173		2019-05-19
+12047264	Karratha	Karratha		-21.12388	116.95837	A	ADM2	AU		08	54310			0		127		2019-05-19
+12047265	Queanbeyan-Palerang	Queanbeyan-Palerang		-35.45558	149.57025	A	ADM2	AU		02	16490			0		930		2026-02-20
+12047266	Mareeba	Mareeba		-17.12937	143.92422	A	ADM2	AU		04	34880			0		270		2019-05-19
+12047267	Noosa	Noosa		-26.31818	152.93082	A	ADM2	AU		04	35740			0		58		2019-05-19
+12047268	Rockhampton	Rockhampton		-23.41718	150.16814	A	ADM2	AU		04	36370			0		215		2019-05-19
+12047269	Tablelands	Tablelands		-17.83358	145.27532	A	ADM2	AU		04	36820			0		677		2019-05-19
+12047270	Armidale	Armidale		-30.41247	151.94013	A	ADM2	AU		02	10130			0		1097		2026-02-20
+12047271	Snowy Valleys	Snowy Valleys		-35.94302	148.09386	A	ADM2	AU		02	17080			0		381		2019-05-19
+12047272	Dubbo	Dubbo		-32.47452	148.83672	A	ADM2	AU		02	18230			0		282		2026-02-20
+12047273	Greater Geraldton	Greater Geraldton		-28.43972	115.75659	A	ADM2	AU		08	53800			0		336		2019-05-23
+12047274	Hilltops	Hilltops		-34.41563	148.56343	A	ADM2	AU		02	13910			0		562		2019-05-19
+12047275	Inner West	Inner West		-33.88999	151.1454	A	ADM2	AU		02	14170			0		13		2019-05-19
+12047276	Mid-Coast	Mid-Coast		-32.07214	152.04467	A	ADM2	AU		02	15240			0		201		2019-05-19
+12047277	Murray River	Murray River		-35.23037	144.00543	A	ADM2	AU		02	15520			0		73		2019-05-19
+12047278	Murrumbidgee	Murrumbidgee		-35.0103	145.81256	A	ADM2	AU		02	15560			0		115		2019-05-19
+12047279	Northern Beaches	Northern Beaches	Conseil de Northern Beaches,Conselho de Praias do Norte,Consell de Northern Beaches,Municipalita delle Spiagge Settentrionali,Municipalità delle Spiagge Settentrionali,Nortern-Bichez,Northern Beaches,Northern Beaches Council,bei bu hai tan yi hui,shmaly sahl kwnsl,Нортерн-Бичез,شمالی ساحل کونسل,ノーザン・ビーチズ・カウンシル,北部海灘議會	-33.69789	151.24358	A	ADM2	AU		02	15990			0		58		2019-05-19
+12047280	Canterbury-Bankstown	Canterbury-Bankstown		-33.9239	151.06556	A	ADM2	AU		02	11570			0		32		2019-05-19
+12047281	Central Coast (NSW)	Central Coast (NSW)		-33.30718	151.26683	A	ADM2	AU		02	11650			0		256		2026-02-20
+12047282	Cumberland	Cumberland		-33.83665	150.96703	A	ADM2	AU		02	12380			0		51		2019-05-19
+12047283	Edward River	Edward River		-35.23373	144.98411	A	ADM2	AU		02	12730			0		88		2019-05-19
+12047284	Federation	Federation		-35.46093	146.22946	A	ADM2	AU		02	12870			0		124		2019-05-19
+12047285	Georges River	Georges River		-33.97265	151.09006	A	ADM2	AU		02	12930			0		42		2019-05-19
+12047286	Livingstone	Livingstone		-22.82162	150.11663	A	ADM2	AU		04	34530			0		28		2019-05-19
+12047287	West Daly	West Daly		-14.08668	130.00359	A	ADM2	AU		03	74680			0		15		2019-05-19
+13589357	Bayside (NSW)	Bayside (NSW)		-33.94952	151.16712	A	ADM2	AU		02	10500			0		1	Australia/Sydney	2026-02-20
+13589358	Darwin Waterfront Precinct	Darwin Waterfront Precinct		-12.46926	130.84672	A	ADM2	AU		03	71150			0		10	Australia/Darwin	2026-02-20
+13589359	Groote Archipelago	Groote Archipelago		-13.9885	136.5979	A	ADM2	AU		03	71700			0		118	Australia/Darwin	2026-02-20

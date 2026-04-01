@@ -1,0 +1,199 @@
+﻿1821743	Srŏk Thmâ Pôk	Srok Thma Pok	Srok Banteay Chhmar,Srok Thma Pok,Srok Thmar Puok,Srok de Thmar-Pork,Srŏk Thmâ Pôk,Thma Puok,Thmar Pouk,ថមពក,ថ្មពួក	13.95	103	A	ADM2	KH		25	0107			0		43	Asia/Phnom_Penh	2020-12-30
+1821789	Srŏk Tbong Khmŭm	Srok Tbong Khmum	Srok Tbaung Khmum,Srok Tbong Khmum,Srok Tboung Khmum,Srok de Thbaung-Khmum,Srŏk Tbong Khmŭm,Tboung Khmum,Tboung Khmum District,តបងឃម,ត្បូងឃ្មុំ	11.99978	105.55926	A	ADM2	KH		31	2507			215000		15	Asia/Phnom_Penh	2021-01-01
+1822025	Srŏk Stoŭng	Srok Stoung	Srok Staung,Srok Stoung,Srŏk Stoŭng,Stoung,សទោង,ស្ទោង	12.89922	104.48777	A	ADM2	KH		05	0608			94119		12	Asia/Phnom_Penh	2020-12-30
+1822319	Srŏk Sâmraông	Srok Samraong	Krong Samraong,Samraong,Samrong,Srok Samraong,Srŏk Sâmraông,សរោង,សំរោង	14.25039	103.62739	A	ADM2	KH		27	2204			22361		60	Asia/Phnom_Penh	2020-12-30
+1822320	Samraong	Samraong	Samraong,Srok Samraong,Srok Samrong,Srŏk Sâmraông,សរោង,សំរោង	11.16667	104.75	A	ADM2	KH		19	2107			0		9	Asia/Phnom_Penh	2020-12-30
+1822431	Srŏk Rôviĕng	Srok Rovieng	Rovieng,Srok Rovieng,Srŏk Rôviĕng,រវៀង	13.35105	105.09956	A	ADM2	KH		13	1305			26552		65	Asia/Phnom_Penh	2020-12-30
+1822579	Srŏk Puŏk	Srok Puok	Puok,Srok Puok,Srŏk Puŏk,ពក,ពួក	13.44443	103.65917	A	ADM2	KH		24	1707			0		9	Asia/Phnom_Penh	2020-12-30
+1830230	Srŏk Ŏdŏngk	Srok Odongk	Odongk,Srok Odong,Srok Odongk,Srok Oudong,Srŏk Ŏdŏngk,ឧដងគ,ឧដុង្គ	11.66845	104.61224	A	ADM2	KH		04	0505			99773		46	Asia/Phnom_Penh	2020-12-30
+1830336	Srŏk Mémót	Srok Memot	Memot,Memot District,Mimot,Srok Memot,Srok Memut,Srŏk Mémót,Srŏk Mémŭt,មេមត,មេមត់	11.88219	106.20277	A	ADM2	KH		31	2503			152082		67	Asia/Phnom_Penh	2025-11-08
+1830473	Srŏk Kroch Chhmar	Srok Kroch Chhmar	Krauchmar,Krouch Chhmar,Krouch Chhmar District,Srok Krauch Chhmar,Srok Krauchhmar,Srok Kroch Chhmar,Srok Krouch Chhmar,Srŏk Kroch Chhmar,ករចឆមារ,ក្រូចឆ្មារ	12.19567	105.67602	A	ADM2	KH		31	2502			100000		15	Asia/Phnom_Penh	2020-12-30
+1830613	Srŏk Kông Pĭsei	Srok Kong Pisei	Kong Pisei,Kong Pisey,Srok Kong Pisei,Srok Kong-Pissey,Srŏk Kông Pĭsei,គងពស,គងពិសី	11.31648	104.65992	A	ADM2	KH		04	0503			97006		40	Asia/Phnom_Penh	2020-12-30
+1831034	Koh Kong	Koh Kong	Kas Kong,Koh Kong,Kâs Kong,Srok Kaoh Kong,Srok Koh Kong,Srŏk Kaôh Kŏng,កោះកង,កោះកុង	11.5	103.16667	A	ADM2	KH		08	0903			0		50	Asia/Phnom_Penh	2020-12-30
+1831045	Kaoh Andaet	Kaoh Andaet	Kaoh Andaet,Kas Andeth,Kâs Andeth,Srok Kaoh Andet,Srok Koh Andet,Srŏk Kaôh Ândêt,កោះអណដែត,កោះអណ្ដែត	10.75	105	A	ADM2	KH		19	2105			0		3	Asia/Phnom_Penh	2020-12-30
+1831091	Kandal Stueng	Kandal Stueng	Kandal Stueng,Srok Kandal Stoeng,Srok Kandal Stung,Srok Kandal Stuno,Srŏk Kândal Stœ̆ng,កណដាលសទង,កណ្ដាលស្ទឹង	11.41667	104.86667	A	ADM2	KH		07	0801			0		11	Asia/Phnom_Penh	2020-12-30
+1831130	Srŏk Kâmpóng Svay	Srok Kampong Svay	Kampong Svay,Srok Kampong Svay,Srok Kompong Svay,Srŏk Kâmpóng Svay,កពងសវាយ,កំពង់ស្វាយ	12.74245	104.71999	A	ADM2	KH		05	0602			74843		9	Asia/Phnom_Penh	2020-12-30
+1831603	Srŏk Chhêb	Srok Chheb	Chhaeb,Srok Chhaeb,Srok Chheb,Srok Chhep,Srŏk Chhêb,ឆែប	13.91077	105.4618	A	ADM2	KH		13	1302			12450		103	Asia/Phnom_Penh	2020-12-30
+1831788	Srŏk Batum Sakôr	Srok Batum Sakor	Botum Sakor,Srok Batum Sakor,Srok Botum Sakor,Srŏk Batum Sakôr,បទមសាគរ,បុទុមសាគរ	11.11465	103.38993	A	ADM2	KH		08	0901			18822		17	Asia/Phnom_Penh	2020-12-30
+1831796	Krong Battambang	Krong Battambang	Krong Battambang,Srok Batdambang,Srok Battambang,Srŏk Bătdâmbâng,បាតដបង,បាត់ដំបង	13.08333	103.08333	A	ADM2	KH		29	0203			0		13	Asia/Phnom_Penh	2020-12-30
+1831825	Srŏk Bântéay Âmpĭl	Srok Banteay Ampil	Banteay Ampil,Srok Banteay Ampil,Srŏk Bântéay Âmpĭl,បនទាយអពល,បន្ទាយអំពិល	14.1859	103.25925	A	ADM2	KH		27	2202			27075		52	Asia/Phnom_Penh	2020-12-30
+7647209	Kampong Chhnang	Kampong Chhnang	Krong Kampong Chhnang,កពងឆនាង,កំពង់ឆ្នាំង	12.26	104.67	A	ADM2	KH		03	0403			45354		11	Asia/Phnom_Penh	2020-12-30
+7647211	Stueng Saen	Stueng Saen	Krong Stueng Saen,សទងសែន,ស្ទឹងសែន	12.63	104.87	A	ADM2	KH		05	0603			53118		13	Asia/Phnom_Penh	2025-05-28
+7647213	Sangkae	Sangkae	Sangkae,សងកែ,សង្កែ	13.06	103.42	A	ADM2	KH		29	0208			0		11	Asia/Phnom_Penh	2020-12-30
+7647214	Moung Ruessei	Moung Ruessei	Moung Ruessei,មោងឫសស,មោងឫស្សី	12.78	103.42	A	ADM2	KH		29	0206			0		17	Asia/Phnom_Penh	2020-12-30
+7647215	Bakan	Bakan	Bakan,បាកាន	12.78	103.79	A	ADM2	KH		12	1501			121229		12	Asia/Phnom_Penh	2020-12-30
+7647216	Pursat	Pursat	Krong Pursat,Pursat Municipality,Sampov Meas,ករងពោធសាត,ក្រុងពោធិ៍សាត់,ពោធសាត,ពោធិ៍សាត់	12.47055	103.91817	A	ADM2	KH		12	1505			57523		37	Asia/Phnom_Penh	2020-12-30
+7647217	Krakor	Krakor	Krakor,ករគរ,ក្រគរ	12.48	104.19	A	ADM2	KH		12	1503			74222		31	Asia/Phnom_Penh	2020-12-30
+7647218	Baribour	Baribour	Baribour,បរបណ,បរិបូណ៌	12.43	104.47	A	ADM2	KH		03	0401			51516		18	Asia/Phnom_Penh	2020-12-30
+7647219	Rolea B'ier	Rolea B'ier	Rolea B'ier,រលាបអៀរ,រលាប្អៀរ	12.21	104.61	A	ADM2	KH		03	0406			81134		41	Asia/Phnom_Penh	2020-12-30
+7647220	Kracheh	Kracheh	Kratie,Kratié,Krong Kracheh,ករចេះ,ក្រចេះ	12.49962	106.03957	A	ADM2	KH		09	1002			79123		31	Asia/Phnom_Penh	2021-01-01
+7647221	Cheung Prey	Cheung Prey	Cheung Prey,ជើងពរៃ,ជើងព្រៃ	12.1	105.07	A	ADM2	KH		02	0303			74859		22	Asia/Phnom_Penh	2020-12-30
+7647222	Baray	Baray	Baray,បារាយណ,បារាយណ៍	12.42	105.06	A	ADM2	KH		05	0601			159586		11	Asia/Phnom_Penh	2020-12-30
+7647223	Santuk	Santuk	Santuk,សនទក,សន្ទុក	12.64	105.32	A	ADM2	KH		05	0607			0		39	Asia/Phnom_Penh	2020-12-30
+7647224	Siem Reap	Siem Reap	Krong Siem Reab,សៀមរាប	13.31	103.85	A	ADM2	KH		24	1710			119528		18	Asia/Phnom_Penh	2020-12-30
+7647526	Kampong Cham	Kampong Cham	Krong Kampong Cham,កពងចាម,កំពង់ចាម	11.98	105.445	A	ADM2	KH		02	0305			99056		18	Asia/Phnom_Penh	2020-12-30
+7647528	Stueng Traeng	Stueng Traeng	Krong Stueng Traeng,សទងតរែង,ស្ទឹងត្រែង	13.65	106.07	A	ADM2	KH		17	1904			29665		73	Asia/Phnom_Penh	2020-12-30
+7873944	Angkor Chum	Angkor Chum	Angkor Chum,អងគរជ,អង្គរជុំ	13.72133	103.71695	A	ADM2	KH		24	1701			48476		36	Asia/Phnom_Penh	2025-11-08
+7873945	Varin	Varin	Varin,វារន,វ៉ារិន	13.83574	103.89968	A	ADM2	KH		24	1714			19818		66	Asia/Phnom_Penh	2020-12-30
+7873947	Svay Leu	Svay Leu	Svay Leu,សវាយលើ,ស្វាយលើ	13.69168	104.27446	A	ADM2	KH		24	1713			12869		98	Asia/Phnom_Penh	2020-12-30
+7873979	Prasat Balangk	Prasat Balangk	Prasat Ballangk,បរាសាទបលលងគ,ប្រាសាទបល្ល័ង្គ	13.07137	104.84491	A	ADM2	KH		05	0604			40516		43	Asia/Phnom_Penh	2020-12-30
+7873990	Sangkom Thmei	Sangkom Thmei	Sangkum Thmei,សងគមថម,សង្គមថ្មី	13.47395	104.77051	A	ADM2	KH		13	1306			13773		64	Asia/Phnom_Penh	2020-12-30
+8403503	Srŏk Svay Chrŭm	Srok Svay Chrum	Srok Svay Chrum,Srŏk Svay Chrŭm,Svay Chrum,សវាយជរ,ស្វាយជ្រំ	11.1116	105.69814	A	ADM2	KH		18	2005			129573		3	Asia/Phnom_Penh	2020-12-30
+8403556	Srŏk Svay Chék	Srok Svay Chek	Srok Svay Chek,Srŏk Svay Chék,Svay Chek,សវាយចេក,ស្វាយចេក	13.81305	102.95269	A	ADM2	KH		25	0108			47960		27	Asia/Phnom_Penh	2020-12-30
+8403557	Srŏk Malai	Srok Malai	Malai,Srok Malai,Srŏk Malai,មាឡៃ,ម៉ាឡៃ	13.49902	102.60164	A	ADM2	KH		25	0109			22724		55	Asia/Phnom_Penh	2020-12-30
+8403559	Srŏk Thmâ Koŭl	Srok Thma Koul	Srok Thma Koul,Srŏk Thmâ Koŭl,Thma Koul,ថមគោល,ថ្មគោល	13.27774	103.09541	A	ADM2	KH		29	0202			0		14	Asia/Phnom_Penh	2020-12-30
+8403576	Srŏk Bâvĭl	Srok Bavil	Bavel,Srok Bavel,Srok Bavil,Srŏk Bâvĭl,បវេល	13.23601	102.8291	A	ADM2	KH		29	0204			79035		28	Asia/Phnom_Penh	2020-12-30
+8403582	Srŏk Rotanak Mondol	Srok Rotanak Mondol	Rotanak Mondol,Rotonak Mondol,Srok Rotanak Mondol,Srŏk Rotanak Mondol,រតនមណឌល,រតនមណ្ឌល	12.84048	102.887	A	ADM2	KH		29	0207			23919		58	Asia/Phnom_Penh	2020-12-30
+8403643	Srŏk Sâmlot	Srok Samlot	Samlout,Srok Samlot,Srok Samlout,Srŏk Sâmlot,សឡត,សំឡូត	12.58293	102.85997	A	ADM2	KH		29	0209			0		125	Asia/Phnom_Penh	2020-12-30
+8403850	Srŏk Sâmpŏu Lun	Srok Sampou Lun	Sampov Lun,Srok Sampou Lun,Srok Sampov Loun,Srok Sampov Lun,Srŏk Sâmpŏu Lun,សពៅលន,សំពៅលូន	13.3842	102.55135	A	ADM2	KH		29	0210			0		109	Asia/Phnom_Penh	2020-12-30
+8403852	Srŏk Kâmriĕng	Srok Kamrieng	Kamrieng,Srok Kamrieng,Srŏk Kâmriĕng,ករៀង,កំរៀង	13.13399	102.56976	A	ADM2	KH		29	0212			0		88	Asia/Phnom_Penh	2020-12-30
+8403854	Srŏk Koăs Krâlâ	Srok Koas Krala	Koas Krala,Srok Koas Krala,Srŏk Koăs Krâlâ,គាសករឡ,គាស់ក្រឡ	12.7248	103.24437	A	ADM2	KH		29	0213			0		37	Asia/Phnom_Penh	2020-12-30
+8403855	Srŏk Rukh Kiri	Srok Rukh Kiri	Rukhak Kiri,Srok Rukak Kiri,Srok Rukh Kiri,Srŏk Rukh Kiri,រកខគរ,រុក្ខគិរី	12.66037	103.40407	A	ADM2	KH		29	0214			0		31	Asia/Phnom_Penh	2020-12-30
+8403856	Khan Sala Krau	Khan Sala Krau	Khan Sala Krau,Sala Krau,សាលាករៅ,សាលាក្រៅ	12.97984	102.63957	A	ADM2	KH		30	2402			7106		99	Asia/Phnom_Penh	2020-12-30
+8403884	Khan Pailĭn	Khan Pailin	Khan Pailin,Khan Pailĭn,Krong Pailin,បៃលន,ប៉ៃលិន	12.7869	102.6285	A	ADM2	KH		30	2401			0		496	Asia/Phnom_Penh	2020-12-30
+8403885	Srŏk Bathéay	Srok Batheay	Batheay,Srok Batheay,Srŏk Bathéay,បាធាយ	12.02986	104.93171	A	ADM2	KH		02	0301			90920		12	Asia/Phnom_Penh	2020-12-30
+8403886	Srŏk Dâmbê	Srok Dambe	Dambae,Dambae District,Srok Dambae,Srok Dambe,Srŏk Dâmbê,តបែរ,តំបែរ	12.03682	105.89976	A	ADM2	KH		31	2501			0		47	Asia/Phnom_Penh	2020-12-30
+8403887	Srŏk O Reăng Âu	Srok O Reang Au	Ou Reang Ov,Ou Reang Ov District,Srok O Reang Au,Srok Ou Reang Ov,Srŏk O Reăng Âu,អររាងឪ,អូររាំងឪ	11.81278	105.53875	A	ADM2	KH		31	2504			83000		44	Asia/Phnom_Penh	2020-12-30
+8403888	Srŏk Pônhê Krêk	Srok Ponhe Krek	Ponhea Kraek,Ponhea Kraek District,Srok Ponhe Krek,Srok Ponhea Kraek,Srŏk Pônhê Krêk,ពញាករែក,ពញាក្រែក	11.76001	105.85994	A	ADM2	KH		31	2505			125000		24	Asia/Phnom_Penh	2020-12-30
+8403889	Krŏng Suŏng	Krong Suong	Krong Suong,Krong Suong District,Krŏng Suŏng,សង,សួង	11.90735	105.65883	A	ADM2	KH		31	2506			0		19	Asia/Phnom_Penh	2020-12-30
+8403890	Krŏng Paôy Pêt	Krong Paoy Pet	Krong Paoy Paet,Krong Paoy Pet,Krŏng Paôy Pêt,បោយបែត,ប៉ោយប៉ែត	13.65685	102.59921	A	ADM2	KH		25	0110			0		41	Asia/Phnom_Penh	2020-12-30
+8403891	Srŏk Prasat Bakong	Srok Prasat Bakong	Prasat Bakong,Srok Prasat Bakong,Srŏk Prasat Bakong,បរាសាទបាគង,ប្រាសាទបាគង	13.21031	103.97689	A	ADM2	KH		24	1709			54129		10	Asia/Phnom_Penh	2020-12-30
+8403981	Srŏk Ânlóng Vêng	Srok Anlong Veng	Anlong Veaeng,Srok Anlong Veaeng,Srok Anlong Veng,Srŏk Ânlóng Vêng,អនលងវែង,អន្លង់វែង	14.24393	103.98657	A	ADM2	KH		27	2201			56927		61	Asia/Phnom_Penh	2025-05-31
+8403982	Srŏk Trâpeăng Prasat	Srok Trapeang Prasat	Srok Trapeang Prasat,Srŏk Trâpeăng Prasat,Trapeang Prasat,តរពាងបរាសាទ,ត្រពាំងប្រាសាទ	14.25809	104.30835	A	ADM2	KH		27	2205			25533		90	Asia/Phnom_Penh	2020-12-30
+8403983	Srŏk Ch’êh Sên	Srok Ch'eh Sen	Chey Saen,Srok Ch'eh Sen,Srok Chey Saen,Srŏk Ch’êh Sên,ជយសែន,ជ័យសែន	13.58215	105.34533	A	ADM2	KH		13	1301			15004		99	Asia/Phnom_Penh	2020-12-30
+8403984	Srŏk Kulén	Srok Kulen	Kuleaen,Srok Kuleaen,Srok Kulen,Srŏk Kulén,គលែន,គូលែន	13.78597	104.61052	A	ADM2	KH		13	1304			13829		80	Asia/Phnom_Penh	2020-12-30
+8403986	Srŏk Tbêng Méanchey	Srok Tbeng Meanchey	Srok Tbaeng Mean Chey,Srok Tbeng Meanchey,Srŏk Tbêng Méanchey,Tbaeng Mean Chey,តបែងមានជយ,ត្បែងមានជ័យ	13.82756	105.06826	A	ADM2	KH		13	1307			21580		76	Asia/Phnom_Penh	2021-01-01
+8403987	Krŏng Preăh Vĭhéar	Krong Preah Vihear	Krong Preah Vihear,Krŏng Preăh Vĭhéar,ពរះវហារ,ព្រះវិហារ	13.74259	104.98472	A	ADM2	KH		13	1308			0		116	Asia/Phnom_Penh	2020-12-30
+8404435	Srŏk Srêsén	Srok Sresen	Sesan,Srok Sesan,Srok Sresen,Srŏk Srêsén,សេសាន	13.6053	106.35819	A	ADM2	KH		17	1901			11252		67	Asia/Phnom_Penh	2020-12-30
+8405025	Srŏk Ândong Méas	Srok Andong Meas	Andoung Meas,Srok Andong Meas,Srok Andoung Meas,Srŏk Ândong Méas,អណដងមាស,អណ្ដូងមាស	13.93352	107.31155	A	ADM2	KH		23	1601			6896		232	Asia/Phnom_Penh	2020-12-30
+8405026	Srŏk Ban Lŭng	Srok Ban Lung	Krong Ban Lung,Srok Ban Lung,Srŏk Ban Lŭng,បានលង,បានលុង	13.682	107.03025	A	ADM2	KH		23	1602			16999		275	Asia/Phnom_Penh	2020-12-30
+8405027	Srŏk Bâ Kêv	Srok Ba Kev	Bar Kaev,Srok Ba Kev,Srok Bar Kaev,Srŏk Bâ Kêv,បរកែវ	13.70749	107.19442	A	ADM2	KH		23	1603			11758		321	Asia/Phnom_Penh	2020-12-30
+8405028	Srŏk Koun Mom	Srok Koun Mom	Koun Mom,Srok Koun Mom,Srŏk Koun Mom,កនម,កូនមុំ	13.51772	106.75142	A	ADM2	KH		23	1604			8814		98	Asia/Phnom_Penh	2020-12-30
+8405029	Srŏk Ou Chum	Srok Ou Chum	Ou Chum,Srok Ou Chum,Srŏk Ou Chum,អរជ,អូរជុំ	13.84069	107.03469	A	ADM2	KH		23	1606			11863		301	Asia/Phnom_Penh	2020-12-30
+8405030	Srŏk Ou Ya Dav	Srok Ou Ya Dav	Ou Ya Dav,Srok Ou Ya Dav,Srŏk Ou Ya Dav,អរយាដាវ,អូរយ៉ាដាវ	13.54328	107.44636	A	ADM2	KH		23	1607			10898		147	Asia/Phnom_Penh	2020-12-30
+8405031	Srŏk Ta Vêng	Srok Ta Veng	Srok Ta Veaeng,Srok Ta Veng,Srŏk Ta Vêng,Ta Veaeng,តាវែង	14.29192	107.24031	A	ADM2	KH		23	1608			2399		643	Asia/Phnom_Penh	2020-12-30
+8405032	Srŏk Kaev Seima	Srok Kaev Seima	Kaev Seima,Srok Kaev Seima,Srŏk Kaev Seima,កែវសមា,កែវសីមា	12.41722	106.77025	A	ADM2	KH		10	1101			8854		142	Asia/Phnom_Penh	2020-12-30
+8405033	Srŏk Pech Chreada	Srok Pech Chreada	Pech Chreada,Pechr Chenda,Srok Pech Chreada,Srŏk Pech Chreada,ពេជរាដា,ពេជ្រាដា	12.7278	107.0948	A	ADM2	KH		10	1104			5129		278	Asia/Phnom_Penh	2020-12-30
+8405034	Krŏng Sênmônoŭrôm	Krong Senmonourom	Krong Saen Monourom,Krong Sean Monourom,Krong Senmonourom,Krŏng Sênmônoŭrôm,សែនមនោរមយ,សែនមនោរម្យ	12.5048	107.15525	A	ADM2	KH		10	1105			7032		727	Asia/Phnom_Penh	2020-12-30
+8405250	Srŏk Chĕt Bŭri	Srok Chet Buri	Chitr Borie,Srok Chet Buri,Srok Chetr Borei,Srŏk Chĕt Bŭri,ចតរបរ,ចិត្របុរី	12.56698	106.19426	A	ADM2	KH		09	1006			0		58	Asia/Phnom_Penh	2020-12-30
+8405251	Srŏk Kândiĕng	Srok Kandieng	Kandieng,Srok Kandieng,Srŏk Kândiĕng,កណដៀង,កណ្ដៀង	12.71245	104.02592	A	ADM2	KH		12	1502			53335		10	Asia/Phnom_Penh	2020-12-30
+8405253	Srŏk Véal Vêng	Srok Veal Veng	Srok Veal Veaeng,Srok Veal Veng,Srŏk Véal Vêng,Veal Veaeng,វាលវែង	12.2423	103.13444	A	ADM2	KH		12	1506			57523		261	Asia/Phnom_Penh	2020-12-30
+8405254	Krŏng Khémârâ Phumĭn	Krong Khemara Phumin	Krong Khemara Phoumin,Krong Khemara Phumin,Krong Khemarak Phoumin,Krŏng Khémârâ Phumĭn,ខេមរភមនទ,ខេមរភូមិន្ទ	11.60356	103.0201	A	ADM2	KH		08	0904			0		5	Asia/Phnom_Penh	2020-12-30
+8405255	Srŏk Môndôl Seima	Srok Mondol Seima	Mondol Seima,Srok Mondol Seima,Srŏk Môndôl Seima,មណឌលសមា,មណ្ឌលសីមា	11.81292	103.01159	A	ADM2	KH		08	0905			12569		354	Asia/Phnom_Penh	2020-12-30
+8405256	Srŏk Stœ̆ng Hav	Srok Stoeng Hav	Srok Stoeng Hav,Srok Stueng Hav,Srŏk Stœ̆ng Hav,Stueng Hav,សទងហាវ,ស្ទឹងហាវ	10.85249	103.74016	A	ADM2	KH		28	1803			13108		48	Asia/Phnom_Penh	2021-10-07
+8405257	Srŏk Basedth	Srok Basedth	Basedth,Srok Basedth,Srŏk Basedth,បរសេដឋ,បរសេដ្ឋ	11.18432	104.53584	A	ADM2	KH		04	0501			108648		46	Asia/Phnom_Penh	2020-12-30
+8405258	Krŏng Chbar Mon	Krong Chbar Mon	Chbar Mon,Krong Chbar Mon,Krŏng Chbar Mon,ចបារមន,ច្បារមន	11.47091	104.50655	A	ADM2	KH		04	0502			41478		39	Asia/Phnom_Penh	2020-12-30
+8405259	Srŏk Chol Kiri	Srok Chol Kiri	Chol Kiri,Srok Chol Kiri,Srŏk Chol Kiri,ជលគរ,ជលគីរី	12.15861	104.82287	A	ADM2	KH		03	0402			28300		8	Asia/Phnom_Penh	2020-12-30
+8405260	Srŏk Sameakki Mean Chey	Srok Sameakki Mean Chey	Sameakki Mean Chey,Srok Sameakki Mean Chey,Srŏk Sameakki Mean Chey,សាមគគមានជយ,សាមគ្គីមានជ័យ	11.86788	104.55549	A	ADM2	KH		03	0407			57170		56	Asia/Phnom_Penh	2020-12-30
+8405261	Srŏk Ângkôr Borei	Srok Angkor Borei	Angkor Borei,Srok Angkor Borei,Srŏk Ângkôr Borei,អងគរបរ,អង្គរបូរី	10.99291	104.95177	A	ADM2	KH		19	2101			44980		5	Asia/Phnom_Penh	2020-12-30
+8405262	Srŏk Borei Cholsar	Srok Borei Cholsar	Borei Cholsar,Srok Borei Cholsar,Srok Bourei Cholsar,Srŏk Borei Cholsar,បរជលសារ,បូរីជលសារ	10.82223	105.03403	A	ADM2	KH		19	2103			24460		3	Asia/Phnom_Penh	2021-01-01
+8405707	Krŏng Doun Kaev	Krong Doun Kaev	Doun Kaev,Krong Doun Kaev,Krŏng Doun Kaev,ដនកែវ,ដូនកែវ	10.99459	104.7955	A	ADM2	KH		19	2108			39186		4	Asia/Phnom_Penh	2020-12-30
+8405987	Srŏk Dâmnăk Châng’aeur	Srok Damnak Chang'aeur	Damnak Chang'aeur,Srok Damnak Chang'aeur,Srŏk Dâmnăk Châng’aeur,ដណាកចងអើរ,ដំណាក់ចង្អើរ	10.53394	104.34855	A	ADM2	KH		26	2301			18341		22	Asia/Phnom_Penh	2020-12-30
+8405988	Srŏk Chŭm Kiri	Srok Chum Kiri	Chum Kiri,Srok Chum Kiri,Srŏk Chŭm Kiri,ជគរ,ជុំគិរី	11.0054	104.44207	A	ADM2	KH		21	0704			39320		61	Asia/Phnom_Penh	2020-12-30
+8405989	Srŏk Dângtóng	Srok Dangtong	Dang Tong,Srok Dangtong,Srŏk Dângtóng,ដងទង,ដងទង់	10.70733	104.42229	A	ADM2	KH		21	0705			50167		29	Asia/Phnom_Penh	2020-12-30
+8405990	Srŏk Tœ̆k Chhu	Srok Toek Chhu	Srok Toek Chhu,Srok Tuek Chhou,Srŏk Tœ̆k Chhu,Tuek Chhou,ទកឈ,ទឹកឈូ	10.74557	104.11013	A	ADM2	KH		21	0707			89779		139	Asia/Phnom_Penh	2021-10-07
+8405991	Srŏk Khsăch Kândal	Srok Khsach Kandal	Khsach Kandal,Srok Khsach Kandal,Srŏk Khsăch Kândal,ខសាចកណដាល,ខ្សាច់កណ្ដាល	11.69224	105.03732	A	ADM2	KH		07	0803			105345		11	Asia/Phnom_Penh	2020-12-30
+8405992	Krŏng Ta Khmau	Krong Ta Khmau	Krong Ta Khmau,Krŏng Ta Khmau,តាខមៅ,តាខ្មៅ	11.45474	104.9435	A	ADM2	KH		07	0811			195898		11	Asia/Phnom_Penh	2020-12-30
+8405993	Khan Rœssei Kêv	Khan Roessei Kev	Khan Roessei Kev,Khan Ruessei Kaev,Khan Russey Keo,Khan Rœssei Kêv,Roessei Kev,Ruessei Kaev,Rœssei Kêv,ឫសសកែវ,ឫស្សីកែវ	11.61946	104.9099	A	ADM2	KH		22	1207			180076		9	Asia/Phnom_Penh	2021-10-07
+8405994	Khan Duŏn Pénh	Khan Duon Penh	Doun Penh,Khan Doun Penh,Khan Duon Penh,Khan Duŏn Pénh,ដនពេញ,ដូនពេញ	11.57561	104.92025	A	ADM2	KH		22	1202			126550		21	Asia/Phnom_Penh	2020-12-30
+8405995	Khan Tuŏl Koŭk	Khan Tuol Kouk	Khan Toui Kouk,Khan Tuol Kouk,Khan Tuŏl Koŭk,Tuol Kouk,ទលគោក,ទួលគោក	11.56712	104.89964	A	ADM2	KH		22	1204			0		16	Asia/Phnom_Penh	2020-12-30
+8405996	Khan 7 Makara	Khan 7 Makara	Khan 7 Makara,Prampir Meakkakra,៧មករា	11.56254	104.91405	A	ADM2	KH		22	1203			96192		17	Asia/Phnom_Penh	2020-12-30
+8405998	Khan Châmkar Mon	Khan Chamkar Mon	Chamkar Mon,Khan Chamkar Mon,Khan Châmkar Mon,ចការមន,ចំការមន	11.5439	104.92175	A	ADM2	KH		22	1201			187082		17	Asia/Phnom_Penh	2020-12-30
+8405999	Khan Saen Sokh	Khan Saen Sokh	Khan Saen Sokh,Saensokh,សែនសខ,សែនសុខ	11.61289	104.86078	A	ADM2	KH		22	1208			147967		12	Asia/Phnom_Penh	2020-12-30
+8406000	Khan Méan Chey	Khan Mean Chey	Khan Mean Chey,Khan Méan Chey,Mean Chey,មានជយ,មានជ័យ	11.53137	104.90294	A	ADM2	KH		22	1206			157112		6	Asia/Phnom_Penh	2021-01-05
+8406003	Khan Chey Por Senchey	Khan Chey Por Senchey	Khan Chey Por Senchey	11.56309	104.78906	A	ADM2	KH		22	1209			0		15	Asia/Phnom_Penh	2020-12-29
+8406190	Khan Dângkaô	Khan Dangkao	Dangkao,Khan Dangkao,Khan Dângkaô,ដងកោ,ដង្កោ	11.49345	104.87722	A	ADM2	KH		22	1205			92461		7	Asia/Phnom_Penh	2021-01-05
+8406192	Srŏk Mésang	Srok Mesang	Me Sang,Srok Mesang,Srŏk Mésang,មេសាង	11.35528	105.57235	A	ADM2	KH		14	1405			92359		10	Asia/Phnom_Penh	2020-12-30
+8406195	Srŏk Preăh Sdéch	Srok Preah Sdech	Preah Sdach,Srok Preah Sdach,Srok Preah Sdech,Srŏk Preăh Sdéch,ពរះសដេច,ព្រះស្ដេច	11.0869	105.37497	A	ADM2	KH		14	1409			106459		5	Asia/Phnom_Penh	2020-12-30
+8406197	Srŏk Kâmpóng Léav	Srok Kampong Leav	Kampong Leav,Srok Kampong Leav,Srŏk Kâmpóng Léav,ពោធរៀង,ពោធិ៍រៀង	11.53234	105.26274	A	ADM2	KH		14	1411			55054		6	Asia/Phnom_Penh	2021-01-01
+8406203	Srŏk Svay Ântôr	Srok Svay Antor	Srok Svay Antor,Srŏk Svay Ântôr,Svay Antor,សវាយអនទរ,ស្វាយអន្ទរ	11.53837	105.43765	A	ADM2	KH		14	1413			0		12	Asia/Phnom_Penh	2020-12-30
+8406206	Krŏng Bavĕt	Krong Bavet	Krong Bavet,Krŏng Bavĕt,បាវត,បាវិត	11.06499	106.09188	A	ADM2	KH		18	2008			43783		7	Asia/Phnom_Penh	2025-06-10
+8541388	Srŏk Banăn	Srok Banan	Banan,Srok Banan,Srŏk Banăn,បាណន,បាណន់	12.97067	103.04742	A	ADM2	KH		29	0201			85277		16	Asia/Phnom_Penh	2020-12-30
+8541389	Srŏk Âk Phnŭm	Srok Ak Phnum	Aek Phnum,Srok Aek Phnum,Srok Ak Phnum,Srŏk Âk Phnŭm,ឯកភន,ឯកភ្នំ	13.23621	103.45894	A	ADM2	KH		29	0205			65408		9	Asia/Phnom_Penh	2020-12-30
+8541391	Srok Phnum Proek	Srok Phnum Proek	Phnom Proek,Srok Phnum Proek,Srok Phnum Proeks,Srŏk Phnŭm Prœ̆ks,ភនពរក,ភ្នំព្រឹក	13.29294	102.51023	A	ADM2	KH		29	0211			0		96	Asia/Phnom_Penh	2020-12-30
+8541392	Srŏk Ângkôr Thum	Srok Angkor Thum	Angkor Thum,Srok Angkor Thum,Srŏk Ângkôr Thum,អងគរធ,អង្គរធំ	13.57881	103.85645	A	ADM2	KH		24	1702			17750		44	Asia/Phnom_Penh	2020-12-30
+8541396	Srŏk Prâsat Sâmbor	Srok Prasat Sambor	Prasat Sambour,Prasat Sambour District,Srok Prasat Sambor,Srok Prasat Sambour,Srŏk Prâsat Sâmbor,បរាសាទសបរ,ប្រាសាទសំបូរ	12.86413	105.1416	A	ADM2	KH		05	0605			36983		16	Asia/Phnom_Penh	2020-12-30
+8740317	Ou Chrov District	Ou Chrov District	Ou Chrov,អរជរៅ,អូរជ្រៅ	13.66724	102.82004	A	ADM2	KH		25	0105			0		22	Asia/Phnom_Penh	2021-01-01
+8740319	Srae Ambel	Srae Ambel	Srae Ambel,សរែ អបល,ស្រែ អំបិល	11.10968	103.76226	A	ADM2	KH		08	0906			38435		2	Asia/Phnom_Penh	2020-12-30
+8740323	Serei Saophoan	Serei Saophoan	Krong Serei Saophoan,សរសោភណ,សិរីសោភ័ណ	13.62114	102.96327	A	ADM2	KH		25	0106			0		19	Asia/Phnom_Penh	2021-01-01
+8740325	Krong Preah Sihanouk	Krong Preah Sihanouk	Krong Preah Sihanouk,Mittakpheap,ពរះសហន,ព្រះសីហនុ	10.62483	103.53108	A	ADM2	KH		28	1801			0		31	Asia/Phnom_Penh	2020-12-30
+9034950	Kampong Bay	Kampong Bay	Krong Kampot,កពត,កំពត	10.59554	104.17136	A	ADM2	KH		21	0708			33126		0	Asia/Phnom_Penh	2020-12-30
+9034991	Kampong Tranch	Kampong Tranch	Kampong Trach,កពងតរាច,កំពង់ត្រាច	10.55	104.46667	A	ADM2	KH		21	0706			83061		3	Asia/Phnom_Penh	2020-12-30
+9034994	Banteay Meas	Banteay Meas	Banteay Meas,បនទាយមាស,បន្ទាយមាស	10.61667	104.53333	A	ADM2	KH		21	0702			81542		6	Asia/Phnom_Penh	2020-12-30
+9072881	Angkor Chey	Angkor Chey	Angkor Chey,អងគរជយ,អង្គរជ័យ	10.76667	104.65	A	ADM2	KH		21	0701			72459		18	Asia/Phnom_Penh	2020-12-30
+9072882	Chhouk District	Chhouk District	Chhuk,ឈក,ឈូក	10.81667	104.45	A	ADM2	KH		21	0703			78951		25	Asia/Phnom_Penh	2020-12-30
+9253711	Mongkol Borei	Mongkol Borei	Mongkol Borei,មងគលបរ,មង្គលបូរី	13.45531	102.99186	A	ADM2	KH		25	0102			138190		15	Asia/Phnom_Penh	2020-12-30
+9253715	Phnom Srok	Phnom Srok	Phnum Srok,ភនសរក,ភ្នំស្រុក	13.82046	103.32064	A	ADM2	KH		25	0103			0		16	Asia/Phnom_Penh	2020-12-30
+9253716	Preah Netr Preah	Preah Netr Preah	Preah Netr Preah,ពរះនេតរពរះ,ព្រះនេត្រព្រះ	13.57271	103.24747	A	ADM2	KH		25	0104			0		9	Asia/Phnom_Penh	2020-12-30
+9253736	Chamkar Leu	Chamkar Leu	Chamkar Leu,ចការលើ,ចំការលើ	12.26607	105.29095	A	ADM2	KH		02	0302			0		80	Asia/Phnom_Penh	2020-12-30
+9253738	Kampong Siem	Kampong Siem	Kampong Siem,កពងសៀម,កំពង់សៀម	12.05753	105.43746	A	ADM2	KH		02	0306			0		41	Asia/Phnom_Penh	2020-12-30
+9253739	Kang Meas	Kang Meas	Kang Meas,កងមាស	11.93676	105.15154	A	ADM2	KH		02	0307			0		12	Asia/Phnom_Penh	2020-12-30
+9253741	Kaoh Soutin	Kaoh Soutin	Kaoh Soutin,កោះសទន,កោះសូទិន	11.88585	105.37223	A	ADM2	KH		02	0308			0		8	Asia/Phnom_Penh	2020-12-30
+9253743	Prey Chhor	Prey Chhor	Prey Chhor,ពរៃឈរ,ព្រៃឈរ	12.08575	105.23048	A	ADM2	KH		02	0313			0		26	Asia/Phnom_Penh	2020-12-30
+9253747	Srei Santhor	Srei Santhor	Srei Santhor,សរសនធរ,ស្រីសន្ធរ	11.83416	105.1693	A	ADM2	KH		02	0314			0		7	Asia/Phnom_Penh	2020-12-30
+9253748	Steung Trang	Steung Trang	Stueng Trang,សទងតរង,ស្ទឹងត្រង់	12.35582	105.56123	A	ADM2	KH		02	0315			0		137	Asia/Phnom_Penh	2020-12-30
+9253749	Kampong Leaeng	Kampong Leaeng	Kampong Leaeng,កពងលែង,កំពង់លែង	12.42687	104.7167	A	ADM2	KH		03	0404			0		9	Asia/Phnom_Penh	2020-12-30
+9253752	Kampong Tralach	Kampong Tralach	Kampong Tralach,កពងតរឡាច,កំពង់ត្រឡាច	11.97453	104.75689	A	ADM2	KH		03	0405			0		15	Asia/Phnom_Penh	2020-12-30
+9253753	Tuek Phos	Tuek Phos	Tuek Phos,ទកផស,ទឹកផុស	12.08165	104.38031	A	ADM2	KH		03	0408			0		107	Asia/Phnom_Penh	2020-12-30
+9253754	Aoral	Aoral	Aoral,ឱរាល,ឱរ៉ាល់	11.73667	104.06105	A	ADM2	KH		04	0504			39544		173	Asia/Phnom_Penh	2025-05-31
+9253755	Phnum Sruoch	Phnum Sruoch	Phnum Sruoch,ភនសរច,ភ្នំស្រួច	11.30891	104.23974	A	ADM2	KH		04	0506			0		85	Asia/Phnom_Penh	2020-12-30
+9253758	Samraong Tong	Samraong Tong	Samraong Tong,សរោងទង,សំរោងទង	11.48096	104.59806	A	ADM2	KH		04	0507			0		28	Asia/Phnom_Penh	2021-01-01
+9253759	Thpong	Thpong	Thpong,ថពង,ថ្ពង	11.71561	104.37975	A	ADM2	KH		04	0508			0		88	Asia/Phnom_Penh	2020-12-30
+9253760	Sandan	Sandan	Sandan,សណដាន,សណ្ដាន់	13.06888	105.41378	A	ADM2	KH		05	0606			0		116	Asia/Phnom_Penh	2020-12-30
+9253763	Kaoh Thum	Kaoh Thum	Kaoh Thum,កោះធ,កោះធំ	11.08679	105.087	A	ADM2	KH		07	0804			0		5	Asia/Phnom_Penh	2020-12-30
+9253767	Kien Svay	Kien Svay	Kien Svay,កៀនសវាយ,កៀនស្វាយ	11.43189	105.12096	A	ADM2	KH		07	0802			0		6	Asia/Phnom_Penh	2020-12-30
+9253769	Leuk Daek	Leuk Daek	Leuk Daek,លើកដែក	11.15984	105.20148	A	ADM2	KH		07	0805			0		4	Asia/Phnom_Penh	2020-12-30
+9253770	Lvea Aem	Lvea Aem	Lvea Aem,Lvea Aem District,Srok Lvea Em,Srŏk Lvéa Êm,លវាឯម,ល្វាឯម	11.52196	105.1248	A	ADM2	KH		07	0806			0		6	Asia/Phnom_Penh	2020-12-30
+9253771	Mukh Kampul	Mukh Kampul	Mukh Kampul,មខកពល,មុខកំពូល	11.75438	104.94091	A	ADM2	KH		07	0807			0		8	Asia/Phnom_Penh	2020-12-30
+9253772	Popnhea Lueu	Popnhea Lueu	Popnhea Lueu,ពញាឮ	11.75233	104.80573	A	ADM2	KH		07	0809			0		8	Asia/Phnom_Penh	2020-12-30
+9253773	S'ang	S'ang	S'ang,សអាង,ស្អាង	11.3183	105.04019	A	ADM2	KH		07	0810			0		7	Asia/Phnom_Penh	2020-12-30
+9253774	Kampong Seila	Kampong Seila	Kampong Seila,កពងសលា,កំពង់សីលា	11.14059	103.9499	A	ADM2	KH		28	1804			0		17	Asia/Phnom_Penh	2020-12-30
+9253775	Kiri Sakor	Kiri Sakor	Kiri Sakor,គរសាគរ,គិរីសាគរ	11.11047	103.17313	A	ADM2	KH		08	0902			0		19	Asia/Phnom_Penh	2020-12-30
+9253776	Thma Bang	Thma Bang	Thma Bang,ថមបាង,ថ្មបាំង	11.75027	103.49605	A	ADM2	KH		08	0907			0		457	Asia/Phnom_Penh	2020-12-30
+9253777	Chhloung	Chhloung	Chhloung,ឆលង,ឆ្លូង	12.17723	106.11558	A	ADM2	KH		09	1001			0		67	Asia/Phnom_Penh	2020-12-30
+9253778	Preaek Prasab	Preaek Prasab	Preaek Prasab,ពរែកបរសពវ,ព្រែកប្រសព្វ	12.47201	105.87831	A	ADM2	KH		09	1003			0		49	Asia/Phnom_Penh	2020-12-30
+9253779	Sambour	Sambour	Sambour,សបរ,សំបូរ	12.98255	106.09257	A	ADM2	KH		09	1004			0		57	Asia/Phnom_Penh	2020-12-30
+9253780	Snuol	Snuol	Snuol,សនល,ស្នួល	12.19373	106.47361	A	ADM2	KH		09	1005			0		73	Asia/Phnom_Penh	2020-12-30
+9253783	Khaoh Neaek	Khaoh Neaek	Kaoh Nheaek,កោះញែក	13.10159	106.96917	A	ADM2	KH		10	1102			0		140	Asia/Phnom_Penh	2020-12-29
+9253785	Ou Reang	Ou Reang	Ou Reang,អររាង,អូររាំង	12.39555	107.32439	A	ADM2	KH		10	1103			0		863	Asia/Phnom_Penh	2020-12-30
+9253786	Chong Kal	Chong Kal	Chong Kal,Chong Kal District,ចងកាល,ចុងកាល់	14.01766	103.58211	A	ADM2	KH		27	2203			18843		32	Asia/Phnom_Penh	2025-11-08
+9253787	Prey Nob	Prey Nob	Prey Nob,ពរៃនប,ព្រៃនប់	10.68704	103.78853	A	ADM2	KH		28	1802			0		34	Asia/Phnom_Penh	2020-12-30
+9253788	Choam Khsant	Choam Khsant	Choam Khsant,ជាកសានដ,ជាំក្សាន្ដ	14.15889	104.86166	A	ADM2	KH		13	1303			0		83	Asia/Phnom_Penh	2020-12-30
+9253789	Ba Phnum	Ba Phnum	Ba Phnum,បាភន,បាភ្នំ	11.28017	105.42449	A	ADM2	KH		14	1401			80940		9	Asia/Phnom_Penh	2025-06-04
+9253790	Kamchay Mear	Kamchay Mear	Kamchay Mear,កចាយមារ,កំចាយមារ	11.58697	105.64457	A	ADM2	KH		14	1402			0		8	Asia/Phnom_Penh	2020-12-30
+9253791	Kampong Trabaek	Kampong Trabaek	Kampong Trabaek,កពងតរបែក,កំពង់ត្របែក	11.09467	105.53777	A	ADM2	KH		14	1403			0		5	Asia/Phnom_Penh	2020-12-30
+9253792	Kanhchriech	Kanhchriech	Kanhchriech,កញជរៀច,កញ្ជ្រៀច	11.68399	105.5624	A	ADM2	KH		14	1404			0		16	Asia/Phnom_Penh	2020-12-30
+9253793	Pea Reang	Pea Reang	Pea Reang,ពារាង,ពារាំង	11.65194	105.23903	A	ADM2	KH		14	1408			0		10	Asia/Phnom_Penh	2020-12-30
+9253795	Peam Chor	Peam Chor	Peam Chor,ពាមជរ	11.01048	105.27102	A	ADM2	KH		14	1406			0		3	Asia/Phnom_Penh	2020-12-30
+9253796	Peam Ro	Peam Ro	Peam Ro,ពាមរក,ពាមរក៍	11.35055	105.31969	A	ADM2	KH		14	1407			0		11	Asia/Phnom_Penh	2020-12-30
+9253797	Sithor Kandal	Sithor Kandal	Sithor Kandal,សធរកណដាល,ស៊ីធរកណ្ដាល	11.77119	105.36548	A	ADM2	KH		14	1412			0		13	Asia/Phnom_Penh	2020-12-30
+9253798	Phnum Kravanh	Phnum Kravanh	Phnum Kravanh,ភនករវាញ,ភ្នំក្រវ៉ាញ	12.17632	103.82614	A	ADM2	KH		12	1504			0		127	Asia/Phnom_Penh	2020-12-30
+9253799	Lumphat	Lumphat	Lumphat,លផាត,លំផាត់	13.42306	107.08465	A	ADM2	KH		23	1605			27839		123	Asia/Phnom_Penh	2025-06-06
+9253800	Veun Sai	Veun Sai	Veun Sai,វើនសៃ	14.0502	106.85891	A	ADM2	KH		23	1609			22910		105	Asia/Phnom_Penh	2025-06-07
+9253801	Banteay Srei	Banteay Srei	Banteay Srei,បនទាយសរ,បន្ទាយស្រី	13.57248	104.01763	A	ADM2	KH		24	1703			43738		70	Asia/Phnom_Penh	2025-06-04
+9253803	Chi Kraeng	Chi Kraeng	Chi Kraeng,ជករែង,ជីក្រែង	13.20771	104.37154	A	ADM2	KH		24	1704			0		25	Asia/Phnom_Penh	2020-12-30
+9253804	Kralanh	Kralanh	Kralanh,ករឡាញ,ក្រឡាញ់	13.57414	103.48818	A	ADM2	KH		24	1706			0		14	Asia/Phnom_Penh	2020-12-30
+9253806	Soutr Nkom	Soutr Nkom	Soutr Nikom,សទរនគម,សូទ្រនិគម	13.23223	104.12952	A	ADM2	KH		24	1711			0		15	Asia/Phnom_Penh	2020-12-30
+9253807	Srei Snam	Srei Snam	Srei Snam,សរសន,ស្រីស្នំ	13.83515	103.56622	A	ADM2	KH		24	1712			0		28	Asia/Phnom_Penh	2020-12-30
+9253808	Siem Bouk	Siem Bouk	Siem Bouk,សៀមបក,សៀមបូក	13.30424	105.81812	A	ADM2	KH		17	1902			0		107	Asia/Phnom_Penh	2020-12-30
+9253809	Siem Pang	Siem Pang	Siem Pang,សៀមបាង,សៀមប៉ាង	14.17608	106.42437	A	ADM2	KH		17	1903			25390		64	Asia/Phnom_Penh	2025-06-10
+9253810	Thala Barivat	Thala Barivat	Thala Barivat,ថាឡាបរវាត,ថាឡាបរិវ៉ាត់	13.67228	105.79132	A	ADM2	KH		17	1905			0		103	Asia/Phnom_Penh	2020-12-30
+9253811	Chantrea	Chantrea	Chantrea,ចនទរា,ចន្ទ្រា	10.94563	106.11459	A	ADM2	KH		18	2001			30481		3	Asia/Phnom_Penh	2025-06-10
+9253812	Romeas Haek	Romeas Haek	Romeas Haek,រមាសហែក	11.42326	105.77231	A	ADM2	KH		18	2004			0		10	Asia/Phnom_Penh	2020-12-30
+9253813	Rumduol	Rumduol	Rumduol,រដល,រំដួល	11.22161	105.82978	A	ADM2	KH		18	2003			0		7	Asia/Phnom_Penh	2020-12-30
+9253814	Bati	Bati	Bati,បាទ,បាទី	11.2729	104.82224	A	ADM2	KH		19	2102			0		14	Asia/Phnom_Penh	2020-12-30
+9253815	Kiri Vong	Kiri Vong	Kiri Vong,គរវង,គីរីវង់	10.63881	104.79836	A	ADM2	KH		19	2104			0		15	Asia/Phnom_Penh	2020-12-30
+9253816	Prey Kabbas	Prey Kabbas	Prey Kabbas,ពរៃកបបាស,ព្រៃកប្បាស	11.14364	104.93264	A	ADM2	KH		19	2106			0		10	Asia/Phnom_Penh	2020-12-30
+9253818	Tram Kak	Tram Kak	Tram Kak,តរាកក,ត្រាំកក់	11.00998	104.60821	A	ADM2	KH		19	2109			0		24	Asia/Phnom_Penh	2020-12-30
+9253819	Treang	Treang	Treang,ទរាង,ទ្រាំង	10.88134	104.80508	A	ADM2	KH		19	2110			0		8	Asia/Phnom_Penh	2020-12-30
+9253820	Kampong Rou	Kampong Rou	Kampong Rou,កពងរោទ,កំពង់រោទិ៍	10.94305	105.94126	A	ADM2	KH		18	2002			66584		6	Asia/Phnom_Penh	2025-06-10
+12205130	Svay Teab	Svay Teab	Svay Teab,សវាយទាប,ស្វាយទាប	11.1082	105.94186	A	ADM2	KH		18	2007			59767		5	Asia/Phnom_Penh	2025-06-12
+12205131	Krong Prey Veng	Krong Prey Veng	Krong Prey Veng,ពរៃវែង,ព្រៃវែង	11.47763	105.3354	A	ADM2	KH		14	1410			0		5	Asia/Phnom_Penh	2020-12-30
+12205132	Angk Snuol	Angk Snuol	Angk Snuol,អងគសនល,អង្គស្នួល	11.53257	104.70756	A	ADM2	KH		07	0808			110378		23	Asia/Phnom_Penh	2025-05-31
+12205133	Krong Svay Rieng	Krong Svay Rieng	Krong Svay Rieng,សវាយរៀង,ស្វាយរៀង	11.0955	105.8101	A	ADM2	KH		18	2006			0		2	Asia/Phnom_Penh	2020-12-30
+12205134	Krong Kaeb	Krong Kaeb	Krong Kaeb,កែប	10.5227	104.317	A	ADM2	KH		26	2302			0		91	Asia/Phnom_Penh	2020-12-30
+12206773	Khan Kamboul	Khan Kamboul		11.53944	104.77159	A	ADM2	KH		22	1214			0		17	Asia/Phnom_Penh	2020-12-31
+12206799	Chraoy Chongvar	Chraoy Chongvar		11.60316	104.92551	A	ADM2	KH		22	1210			0		9	Asia/Phnom_Penh	2021-01-01
+12206800	Praek Pnov	Praek Pnov		11.66298	104.85752	A	ADM2	KH		22	1211			0		7	Asia/Phnom_Penh	2021-01-02
+12206801	Chbar Ampov	Chbar Ampov		11.53098	104.93637	A	ADM2	KH		22	1212			0		17	Asia/Phnom_Penh	2021-01-01
+12206802	Boeng Keng Kang	Boeng Keng Kang		11.55148	104.92225	A	ADM2	KH		22	1213			0		14	Asia/Phnom_Penh	2021-01-01

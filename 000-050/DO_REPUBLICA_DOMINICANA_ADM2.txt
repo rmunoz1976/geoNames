@@ -1,0 +1,155 @@
+﻿3491797	Yamasá	Yamasa	Yamasa,Yamasá	18.78333	-70.05	A	ADM2	DO		32	2904			38094		99	America/Santo_Domingo	2016-06-04
+3491808	Yaguate	Yaguate	Yaguate	18.33333	-70.18333	A	ADM2	DO		33	2106			42324		59	America/Santo_Domingo	2017-02-09
+3491906	Villa Vásquez	Villa Vasquez	Villa Vasquez,Villa Vazquez,Villa Vásquez,Villa Vázquez	19.80791	-71.44	A	ADM2	DO		15	1506			15379		130	America/Santo_Domingo	2016-06-23
+3491909	Villa Tapia	Villa Tapia	Villa Tapia	19.3	-70.4	A	ADM2	DO		19	1903			24856		103	America/Santo_Domingo	2016-06-04
+3491917	Villa Riva	Villa Riva	Villa Riva,li wa zhen,ビージャ・リバ,里瓦鎮,里瓦镇	19.15051	-69.8837	A	ADM2	DO		06	0605			18343		13	America/Santo_Domingo	2017-02-09
+3491928	Villa Jaragua	Villa Jaragua	Jaragua,Villa Jaragua	18.58333	-71.53333	A	ADM2	DO		02	0304			11308		1297	America/Santo_Domingo	2016-06-04
+3491930	Villa Isabela	Villa Isabela	La Isabela,Villa Isabela,yi sha bei la zhen,ビージャ・イサベラ,伊莎貝拉鎮,伊莎贝拉镇	19.8	-71.08333	A	ADM2	DO		18	1808			14525		125	America/Santo_Domingo	2016-06-04
+3491953	Villa Altagracia	Villa Altagracia	Villa Altagracia	18.63333	-70.25	A	ADM2	DO		33	2105			83918		724	America/Santo_Domingo	2017-02-09
+3492031	Vicente Noble	Vicente Noble	Vicente Noble,wen sen te nuo fu lai,ビセンテ・ノブレ,文森特諾弗萊,文森特诺弗莱	18.38333	-71.08333	A	ADM2	DO		03	0405			17099		557	America/Santo_Domingo	2016-06-04
+3492124	Vallejuelo	Vallejuelo	Vallejuelo,ba lie hu ai luo,bajefuero,バジェフエロ,巴列胡埃洛	18.66667	-71.28333	A	ADM2	DO		23	2206			11545		784	America/Santo_Domingo	2016-06-04
+3492478	Tenares	Tenares	Tenares	19.38333	-70.33333	A	ADM2	DO		19	1902			24536		229	America/Santo_Domingo	2016-06-04
+3492518	Tamboril	Tamboril	Pena,Peña,Tamboril	19.5	-70.6	A	ADM2	DO		25	2506			53380		375	America/Santo_Domingo	2016-06-04
+3492521	Tamayo	Tamayo	Kristianna Toler,Tamayo,ta ma yue,tamayo,Кристианна Толер,タマヨ,塔馬約,塔马约	18.5	-71.16667	A	ADM2	DO		02	0303			9782		176	America/Santo_Domingo	2016-06-04
+3492630	Sosúa	Sosua	Sosua,Sosúa	19.71667	-70.46667	A	ADM2	DO		18	1807			47193		260	America/Santo_Domingo	2016-06-04
+3492909	Santo Domingo Norte	Santo Domingo Norte	Santo Domingo,Santo Domingo Norte,bei sheng duo ming ge,サントドミンゴ・ノルテ,北圣多明哥,北聖多明哥	18.58333	-69.83333	A	ADM2	DO		37	3203			0		14	America/Santo_Domingo	2016-06-04
+3492915	Santiago de los Caballeros	Santiago de los Caballeros	Sant'jago deh los Kabal'eros,Sant'jago-de-los-Kabal'eros,Sant'jago-de-los-Trejnta-Kabal'eros,Santiago,Santiago de los Caballeros,Santiago nte los Kampageros,Santjago de los Kabajeros,Santjago de los Kabaljerosa,Santjago de los Kabaljerosas,Santyago de los Treynta Kabalieros,cantiyako te las kepalleros,saintiyago de losa kabalerosa,san teiy ko delo ska baye ros,santiagodeloseukabayeloseu,santiyago de las kabaleros,santiyago de losa kaba'iyerosa,santiyago di losa kebelarosa,santyaghw dy lws kabalyrws,santyagw dh lws kabayrws,santyajw dy lws kabalyrws,sentiyago de losa kebalerosa,sheng de ya ge,syantiyago di las kaballaros,Σαντιάγο ντε λος Καμπαγέρος,Сантьяго дэ лос Кабальерос,Сантьяго-де-лос-Кабальерос,Сантьяго-де-лос-Трейнта-Кабальерос,Сантьяго-де-лос-Трейнта-Кабальєрос,Сантяго де лос Кабайерос,Սանտյագո դե լոս Տրեյնտա Կաբալիերոս,סנטיאגו דה לוס קביירוס,سانتياجو دى لوس كاباليروس,سانتياغو دي لوس كاباليروس,سانتیاغو دے لوس کابائیروس,سانتیاگو ده لوس کابایروس,सांतियागो डी लॉस कॅबेलरॉस,सैंटियागो दे लॉस काबलेरोस,সান্তিয়াগো দে লোস কাবাইয়েরোস,સેન્ટિયાગો ડે લોસ કેબાલેરૉસ,சான்டியாகோ டே லாஸ் கேபாள்ளேரோஸ்,శాన్టియాగొ దే లాస్ కాబలెరోస్,ಸ್ಯಾಂಟಿಯಾಗೊ ಡಿ ಲಾಸ್ ಕಬಲ್ಲರೋಸ್,සැන්ටියාගෝ ඩි ලොස් කැබැල්ලෙරෝස්,ซานเตียโกเดโลสกาบาเยโรส,サンティアゴ・デ・ロス・カバリェロス,圣地亚哥,聖地牙哥,산티아고데로스카바예로스	19.41667	-70.7	A	ADM2	DO		25	2501			0		210	America/Santo_Domingo	2016-06-04
+3493023	San Rafael del Yuma	San Rafael del Yuma	San Rafael del Yuma,sheng la fei er de er you ma,サン・ラファエル・デル・ユマ,圣拉斐尔德尔尤马,聖拉斐爾德爾尤馬	18.38333	-68.66667	A	ADM2	DO		10	1102			18387		89	America/Santo_Domingo	2016-06-04
+3493033	San Pedro de Macorís	San Pedro de Macoris		18.46919	-69.2894	A	ADM2	DO		24	2301			195037		20	America/Santo_Domingo	2016-06-05
+3493083	San Juan de la Maguana	San Juan de la Maguana	San Chouan nte la Magouana,San Chuan de la Maguana,San Huan de la Maguana,San Juan,San Juan de la Maguana,San-Khuan-de-la-Maguana,Sanhuana de la Maguana,can juvan ti la makuvana,saina hu'ana de la magu'ana,san hwn de la maka wna,san juyan di la magu'ana,san khwan dy la maghwana,sana huyana de la maguyana,sana ju'ana de la magu'ana,sana ju'ana de la megu'ana,sanhuandelamagwana,sheng hu an de la ma gua na,sn khwan dh la magwana,syan juvan de la maguvana,Σαν Χουάν ντε λα Μαγουάνα,Сан-Хуан-де-ла-Магуана,סן חואן דה לה מגואנה,سان خوان دي لا ماغوانا,سان خوان دے لا ماغوانا,سن خوان ده لا ماگوانا,सान जुआन दे ला मॅगुआना,सैन हुआन दे ला मगुआना,সান হুয়ান দে লা মাগুয়ানা,સાન જુઆન દે લા મગુઆના,சான் ஜுவான் டீ லா மகுவானா,శాన్ జుయాన్ డి ల మగుఆన,ಸ್ಯಾನ್ ಜುವಾನ್ ಡೆ ಲಾ ಮಗುವಾನಾ,ශාන්ත ජුවන් ඩි ලා මගුආනා,ซานฮวนเดลามากัวนา,サン・フアン・デ・ラ・マグアーナ,圣胡安德拉马瓜纳,聖胡安德拉馬瓜納,산후안데라마과나	18.83333	-71.16667	A	ADM2	DO		23	2201			169032		492	America/Santo_Domingo	2016-06-04
+3493101	San José de Ocoa	San Jose de Ocoa	San Jose de Ocoa,San José de Ocoa	18.63333	-70.5	A	ADM2	DO		36	3101			0		1109	America/Santo_Domingo	2017-02-09
+3493104	San José de Las Matas	San Jose de Las Matas		19.33333	-71.08333	A	ADM2	DO		25	2505			37967		632	America/Santo_Domingo	2016-06-04
+3493147	San Francisco de Macorís	San Francisco de Macoris	San Francisco de Macoris,San Francisco de Macorís	19.3	-70.2	A	ADM2	DO		06	0601			155511		164	America/Santo_Domingo	2016-06-04
+3493190	San Cristóbal	San Cristobal	San Cristobal,San Cristóbal,San Felipe de Puerto Plata,San Kristobal,San Kristobalis,San-Kristobal',sankeuliseutobal,sheng ke li si tuo wa er,sn qrystwbl,Сан Кристобал,Сан-Кристобаль,Сан-Крістобаль,סן קריסטובל,سان کریستوبال، جمہوریہ ڈومینیکن,サン・クリストバル,聖克里斯托瓦爾,산크리스토발	18.41667	-70.13333	A	ADM2	DO		33	2101			0		64	America/Santo_Domingo	2016-06-04
+3493201	Sánchez	Sanchez	Sanchez,Sánchez	19.16953	-69.64648	A	ADM2	DO		20	2002			0		8	America/Santo_Domingo	2016-06-23
+3493236	Samaná Municipality	Samana Municipality	EPS,Samana,Samana Municipality,Samaná,Samaná Municipality,Santa Barbara de Samana,Santa Bárbara de Samaná,Xamana,Xamaná,Самана	19.23333	-69.33333	A	ADM2	DO		20	2001			0		53	America/Santo_Domingo	2016-06-04
+3493284	Salcedo	Salcedo	Salcedo	19.41667	-70.38333	A	ADM2	DO		19	1901			0		382	America/Santo_Domingo	2016-06-04
+3493405	San Ignacio de Sabaneta	San Ignacio de Sabaneta	Sabaneta,San Ignacio de Sabaneta,Santiago Rodriguez,Santiago Rodríguez	19.38333	-71.35	A	ADM2	DO		26	2601			34960		424	America/Santo_Domingo	2016-06-04
+3493483	Sabana Grande de Boyá	Sabana Grande de Boya	Sabana Grande de Boya,Sabana Grande de Boyá	19	-69.83333	A	ADM2	DO		32	2903			24773		251	America/Santo_Domingo	2016-06-04
+3493569	Sabana de La Mar	Sabana de La Mar	Sabana de La Mar,Sabana de la Mar,sa wa na de la ma er,سبانہ دے لا مر,サバナ・デ・ラ・マール,萨瓦纳德拉马尔,薩瓦納德拉馬爾	19.03333	-69.41667	A	ADM2	DO		29	3002			14994		26	America/Santo_Domingo	2016-06-04
+3493745	Río San Juan	Rio San Juan	Rio San Juan,Río San Juan	19.55022	-70.07703	A	ADM2	DO		14	1404			15383		32	America/Santo_Domingo	2017-02-09
+3493888	Restauración	Restauracion		19.3	-71.58333	A	ADM2	DO		04	0504			6948		886	America/Santo_Domingo	2016-06-04
+3494065	Ramón Santana	Ramon Santana	Ramon Santana,Ramón Santana	18.5	-69.16667	A	ADM2	DO		24	2303			10267		41	America/Santo_Domingo	2016-06-04
+3494269	Puerto Plata	Puerto Plata	Puerto Plata	19.75119	-70.70251	A	ADM2	DO		18	1801			0		390	America/Santo_Domingo	2016-06-05
+3494510	Postrer Río	Postrer Rio	Postrer Rio,Postrer Río	18.56667	-71.61667	A	ADM2	DO		09	1004			4018		218	America/Santo_Domingo	2016-06-04
+3494769	Pimentel	Pimentel	Pimentel	19.21667	-70.16667	A	ADM2	DO		06	0604			18192		59	America/Santo_Domingo	2016-06-04
+3495021	Peralta	Peralta		18.61667	-70.8	A	ADM2	DO		01	0205			11543		929	America/Santo_Domingo	2016-06-04
+3495025	Pepillo Salcedo	Pepillo Salcedo	Pepillo Salcedo	19.66667	-71.66667	A	ADM2	DO		15	1505			9618		10	America/Santo_Domingo	2016-06-04
+3495099	Pedro Santana	Pedro Santana		19.16667	-71.55	A	ADM2	DO		11	0705			4875		609	America/Santo_Domingo	2016-06-04
+3495139	Pedernales	Pedernales		18.08333	-71.6	A	ADM2	DO		16	1601			27955		560	America/Santo_Domingo	2016-06-04
+3495273	Paraíso	Paraiso	Paraiso,Paraíso	18.02652	-71.20889	A	ADM2	DO		03	0404			13580		512	America/Santo_Domingo	2017-02-09
+3495665	Padre Las Casas	Padre Las Casas	Padre Las Casas	18.75	-70.88333	A	ADM2	DO		01	0204			22527		1030	America/Santo_Domingo	2016-06-04
+3495685	Oviedo	Oviedo		17.83333	-71.5	A	ADM2	DO		16	1602			4153		150	America/Santo_Domingo	2016-06-04
+3495812	Nizao	Nizao	Nizao	18.25	-70.21667	A	ADM2	DO		35	1702			12320		40	America/Santo_Domingo	2016-06-04
+3495858	Neiba	Neiba	Neiba,Neimpa,Nejba,Neyba,ne ba,ne'iba,nei ba,neiba,neypa,ni'iba,niba,nyba,nyyba,Νέιμπα,Нейба,نئیبا,نيبا,نیبا,नीबा,নিইবা,નેઇબા,நெய்பா,నీబ,ನೀಬಾ,නෙයිබා,เนบา,ネイバ,內巴,内巴,네이바	18.5	-71.41667	A	ADM2	DO		02	0301			25131		116	America/Santo_Domingo	2016-06-04
+3496022	Nagua	Nagua		19.36667	-70	A	ADM2	DO		14	1401			57348		49	America/Santo_Domingo	2016-06-04
+3496135	Monte Plata	Monte Plata	Monte Plata	18.75	-69.85	A	ADM2	DO		32	2901			0		39	America/Santo_Domingo	2016-06-04
+3496204	Monte Cristi	Monte Cristi	Monte Cristi,Monte Cristy	19.83333	-71.61667	A	ADM2	DO		15	1501			0		37	America/Santo_Domingo	2016-06-04
+3496285	Monción	Moncion	Moncion,Monción	19.46667	-71.16667	A	ADM2	DO		26	2603			11436		355	America/Santo_Domingo	2017-02-09
+3496332	Moca	Moca		19.5	-70.5	A	ADM2	DO		08	0901			135253		810	America/Santo_Domingo	2016-06-04
+3496397	Miches	Miches	Miches	18.91667	-69	A	ADM2	DO		28	0802			20530		109	America/Santo_Domingo	2016-06-04
+3496832	Mao	Mao	Maa,Mao,Santa Cruz de Mao,Valverde,ma ao,ma xo,ma'o,mao,mavo,maw,mayw,Μάο,Маа,Мао,ماؤ,مائو,ماو,माओ,মাও,માઓ,மாவோ,మాఓ,ಮಾವೋ,මාඕ,มาโอ,マオ,馬奧,马奥,마오	19.58333	-71.08333	A	ADM2	DO		27	2701			49740		56	America/Santo_Domingo	2017-02-09
+3497224	Maimón	Maimon		18.88333	-70.3	A	ADM2	DO		31	2802			17957		128	America/Santo_Domingo	2016-06-04
+3497351	Luperón	Luperon		19.85668	-70.97439	A	ADM2	DO		18	1806			18535		78	America/Santo_Domingo	2016-06-23
+3498193	Los Llanos	Los Llanos		18.63333	-69.5	A	ADM2	DO		24	2302			23198		39	America/Santo_Domingo	2017-02-09
+3498419	Los Hidalgos	Los Hidalgos	Los Hidalgos,luo si yi da er ge si,ロス・イダルゴス,洛斯伊达尔戈斯,洛斯伊達爾戈斯	19.75	-71.03333	A	ADM2	DO		18	1805			14250		148	America/Santo_Domingo	2016-06-04
+3499604	Loma de Cabrera	Loma de Cabrera	Loma de Cabrera	19.41667	-71.58333	A	ADM2	DO		04	0502			14700		327	America/Santo_Domingo	2016-06-04
+3499750	Licey al Medio	Licey al Medio	Licey al Medio,li sai a er mei di ao,リセイ・アル・メディオ,利塞阿尔梅迪奥,利塞阿爾梅迪奧	19.45	-70.6	A	ADM2	DO		25	2504			28651		203	America/Santo_Domingo	2016-06-04
+3499980	La Vega	La Vega	La Vega	19.25	-70.5	A	ADM2	DO		30	1301			0		89	America/Santo_Domingo	2016-06-04
+3500369	Las Matas de Santa Cruz	Las Matas de Santa Cruz	Las Matas de Santa Cruz,la si ma ta si de sheng ke lu si,ラス・マタス・デ・サンタ・クルス,拉斯馬塔斯德聖克魯斯,拉斯马塔斯德圣克鲁斯	19.63333	-71.5	A	ADM2	DO		15	1504			17836		51	America/Santo_Domingo	2016-06-04
+3500371	Las Matas de Farfán	Las Matas de Farfan	Las Matas de Farfan,Las Matas de Farfán	18.91667	-71.5	A	ADM2	DO		23	2205			37366		415	America/Santo_Domingo	2016-06-04
+3500959	La Romana	La Romana	La Romana	18.15621	-68.67902	A	ADM2	DO		12	1201			130426		3	America/Santo_Domingo	2016-06-23
+3502374	Laguna Salada	Laguna Salada	Laguna Salada,la gu na sa la da,ラグナ・サラダ,拉古納薩拉達,拉古纳萨拉达	19.7	-71.13333	A	ADM2	DO		27	2703			14802		145	America/Santo_Domingo	2017-02-09
+3502787	La Descubierta	La Descubierta	La Descubierta,la de si ku wei ye er ta,la dyskwbyrta,لا دیسکوبیرتا,ラ・デスクビエルタ,拉德斯库维耶尔塔,拉德斯庫維耶爾塔	18.60796	-71.75162	A	ADM2	DO		09	1003			7455		606	America/Santo_Domingo	2016-06-23
+3504078	Jimaní	Jimani	Jimani,Jimaní	18.46667	-71.83333	A	ADM2	DO		09	1001			12262		190	America/Santo_Domingo	2016-06-04
+3504159	Jarabacoa	Jarabacoa	Jarabacoa	19.13333	-70.66667	A	ADM2	DO		30	1303			58528		698	America/Santo_Domingo	2016-06-04
+3504164	Jánico	Janico	Janico,Jánico,Santo Tomas de Janico,Santo Tomás de Jánico	19.23528	-70.79515	A	ADM2	DO		25	2503			15988		833	America/Santo_Domingo	2021-10-25
+3504333	Imbert	Imbert	Imbert	19.75	-70.86667	A	ADM2	DO		18	1804			25283		137	America/Santo_Domingo	2016-06-04
+3504468	Hondo Valle	Hondo Valle	Hondo Valle	18.70765	-71.69745	A	ADM2	DO		11	0704			10536		912	America/Santo_Domingo	2016-06-23
+3504569	Higüey	Higueey	Higuey,Higüey	18.7	-68.66667	A	ADM2	DO		10	1101			162138		176	America/Santo_Domingo	2017-02-09
+3504769	Hato Mayor	Hato Mayor	Hato Mayor	18.7	-69.33333	A	ADM2	DO		29	3001			0		65	America/Santo_Domingo	2016-06-04
+3504946	Guayubín	Guayubin	Guayubin,Guayubín	19.61667	-71.33333	A	ADM2	DO		15	1503			7673		145	America/Santo_Domingo	2016-06-04
+3504952	Guaymate	Guaymate	Guaimate,Guaymate,gua yi ma te,guaimate,gwymth,گویمته,グアイマテ,瓜伊馬特	18.58333	-68.95	A	ADM2	DO		12	1202			18762		94	America/Santo_Domingo	2016-06-04
+3505489	Gaspar Hernández	Gaspar Hernandez		19.58333	-70.16667	A	ADM2	DO		08	0903			19741		174	America/Santo_Domingo	2016-06-04
+3505779	Fantino	Fantino	Fantino	19.11667	-70.3	A	ADM2	DO		21	2403			21989		57	America/Santo_Domingo	2016-06-04
+3505860	Esperanza	Esperanza	Esperanza	19.62379	-70.97141	A	ADM2	DO		27	2702			47785		95	America/Santo_Domingo	2017-02-09
+3505949	Enriquillo	Enriquillo	Enriquillo	17.91667	-71.25	A	ADM2	DO		03	0403			13521		198	America/Santo_Domingo	2016-06-04
+3506042	El Valle	El Valle	El Valle	18.93333	-69.38333	A	ADM2	DO		29	3003			8138		65	America/Santo_Domingo	2016-06-04
+3506190	El Seibo	El Seibo	El Seibo	18.75	-69	A	ADM2	DO		28	0801			0		219	America/Santo_Domingo	2016-06-04
+3507124	El Llano	El Llano	El Llano	18.76667	-71.66667	A	ADM2	DO		11	0703			8066		1456	America/Santo_Domingo	2016-06-04
+3507629	El Factor	El Factor	El Factor	19.28333	-69.91667	A	ADM2	DO		14	1403			14246		28	America/Santo_Domingo	2016-06-04
+3508017	El Cercado	El Cercado	El Cercado,ai er sai er ka duo,al srkadw,ال سرکادو,エル・セルカド,埃尔塞尔卡多,埃爾塞爾卡多	18.7	-71.46667	A	ADM2	DO		23	2203			23656		1017	America/Santo_Domingo	2016-06-04
+3508696	Duvergé	Duverge		18.31634	-71.59451	A	ADM2	DO		09	1002			18607		438	America/Santo_Domingo	2016-06-23
+3508954	Dajabón	Dajabon	Dajabon,Dajabón	19.58333	-71.58333	A	ADM2	DO		04	0501			0		70	America/Santo_Domingo	2016-06-04
+3509208	Cotuí	Cotui	Cotui,Cotuí	19	-70.16667	A	ADM2	DO		21	2401			71814		178	America/Santo_Domingo	2016-06-04
+3509366	Constanza	Constanza	Constanza	18.86667	-70.7	A	ADM2	DO		30	1302			43606		1497	America/Santo_Domingo	2016-06-04
+3509387	Comendador	Comendador	Comendador,Elias Pina,Elías Piña	18.88333	-71.66667	A	ADM2	DO		11	0701			25211		396	America/Santo_Domingo	2016-06-04
+3509824	Cevicos	Cevicos	Cevicos	19	-69.96667	A	ADM2	DO		21	2402			9188		100	America/Santo_Domingo	2016-06-04
+3509990	Cayetano Germosén	Cayetano Germosen	Cayetano Germosen,Cayetano Germosén	19.34285	-70.47573	A	ADM2	DO		08	0902			7180		147	America/Santo_Domingo	2016-06-23
+3510068	Castillo	Castillo	Castillo,ka si di e,kasutiryo,shhrstan kastylw,شهرستان کاستیلو,カスティリョ,卡斯蒂略	19.25	-70	A	ADM2	DO		06	0603			16373		213	America/Santo_Domingo	2017-02-09
+3510084	Castañuelas	Castanuelas		19.71667	-71.48333	A	ADM2	DO		15	1502			14303		24	America/Santo_Domingo	2016-06-04
+3510638	Cambita Garabitos	Cambita Garabitos	Cambita Garabito,Cambita Garabitos	18.5	-70.23333	A	ADM2	DO		33	2104			31529		310	America/Santo_Domingo	2017-02-09
+3510875	Cabrera	Cabrera	Cabrera	19.58333	-69.96667	A	ADM2	DO		14	1402			0		334	America/Santo_Domingo	2016-06-04
+3510886	Cabral	Cabral	Cabral,Kabral,ka fu la er,kabral,kaburaru,Кабрал,کابرال,カブラル,卡弗拉尔,卡弗拉爾	18.19991	-71.2466	A	ADM2	DO		03	0402			14179		279	America/Santo_Domingo	2016-08-01
+3511235	Bonao	Bonao	Bonao,Monsenor Nouel,Monseñor Nouel	18.91667	-70.46667	A	ADM2	DO		31	2801			119182		731	America/Santo_Domingo	2016-06-04
+3511263	Bohechío	Bohechio	Bohechio,Bohechío	18.83333	-71	A	ADM2	DO		23	2202			8771		865	America/Santo_Domingo	2016-06-04
+3511462	Bisonó	Bisono	Bisono,Bisonó,Jose E. Bisono,José E. Bisonó,Villa Bisono,Villa Bisonó	19.58333	-70.86667	A	ADM2	DO		25	2502			45235		189	America/Santo_Domingo	2016-06-04
+3511627	Bayaguana	Bayaguana	Bajaguana,Bayaguana,ba ya gua na,bayaguana,bayagwana,Баягуана,ביאגואנה,بایاگوانا,バヤグアナ,巴亚瓜纳,巴亞瓜納	18.78333	-69.6	A	ADM2	DO		32	2902			33688		76	America/Santo_Domingo	2017-02-09
+3512046	Barahona	Barahona		18.21337	-71.0994	A	ADM2	DO		03	0401			0		33	America/Santo_Domingo	2016-06-05
+3512065	Bánica	Banica	Banica,Bánica	19.03333	-71.61667	A	ADM2	DO		11	0702			7197		396	America/Santo_Domingo	2016-06-04
+3512069	Baní	Bani	Bani,Baní	18.33333	-70.38333	A	ADM2	DO		35	1701			145595		202	America/Santo_Domingo	2016-06-04
+3512129	Bajos de Haina	Bajos de Haina	Bajos de Haina	18.41667	-70.03333	A	ADM2	DO		33	2103			86406		41	America/Santo_Domingo	2017-02-09
+3512211	Azua	Azua		18.5	-70.75	A	ADM2	DO		01	0201			0		221	America/Santo_Domingo	2016-06-04
+3512798	Altamira	Altamira	Altamira	19.7	-70.83333	A	ADM2	DO		18	1802			24137		256	America/Santo_Domingo	2016-06-04
+11154532	Tábara Arriba	Tabara Arriba		18.49603	-70.91511	A	ADM2	DO		01	0208			0		191	America/Santo_Domingo	2017-02-09
+11154533	Guayabal	Guayabal	El Guayabal,Guayabal,gua ya wa er,guayabaru,グアヤバル,瓜亚瓦尔,瓜亞瓦爾	18.71744	-70.76501	A	ADM2	DO		01	0209			0		1826	America/Santo_Domingo	2016-08-03
+11154534	Estebanía	Estebania		18.53466	-70.64853	A	ADM2	DO		01	0210			0		1272	America/Santo_Domingo	2017-02-09
+11154535	Galván	Galvan		18.48974	-71.32798	A	ADM2	DO		02	0302			0		5	America/Santo_Domingo	2016-06-04
+11154536	Las Salinas	Las Salinas	Las Salinas,Salinas,la si sa li na si,las salynas,لاس سالیناس,ラス・サリーナス,拉斯萨利纳斯,拉斯薩利納斯	18.23245	-71.34442	A	ADM2	DO		03	0409			0		120	America/Santo_Domingo	2017-02-09
+11154537	Polo	Polo	Polo,bo luo,poro,پولو، باراہونا,ポロ,波洛	18.12061	-71.31797	A	ADM2	DO		03	0410			0		910	America/Santo_Domingo	2017-02-09
+11154538	Jaquimeyes	Jaquimeyes	Jaquimeyes,ha ji mei ye si,hakimeiesu,jakymyz,jqymys,جاکیمیز,جقیمیس,ハキメイェス,哈基梅耶斯	18.30292	-71.12364	A	ADM2	DO		03	0411			0		5	America/Santo_Domingo	2017-02-09
+11154539	Partido	Partido		19.50119	-71.5181	A	ADM2	DO		04	0503			0		146	America/Santo_Domingo	2017-02-09
+11154540	El Pino	El Pino		19.40619	-71.49764	A	ADM2	DO		04	0505			0		255	America/Santo_Domingo	2017-02-09
+11154541	Arenoso	Arenoso	Arenoso,a lei nuo suo,arenoso,arnwsw,آرنوسو,アレノソ,阿雷諾索	19.19101	-69.76818	A	ADM2	DO		06	0602			0		6	America/Santo_Domingo	2017-02-09
+11154542	Las Guáranas	Las Guaranas		19.20098	-70.22393	A	ADM2	DO		06	0606			0		51	America/Santo_Domingo	2017-02-09
+11154543	Eugenio María De Hostos	Eugenio Maria De Hostos		19.14028	-70.02199	A	ADM2	DO		06	0607			0		26	America/Santo_Domingo	2017-02-09
+11154544	Mella	Mella		18.30999	-71.44476	A	ADM2	DO		09	1006			0		73	America/Santo_Domingo	2017-02-09
+11154545	El Peñón	El Penon		18.29759	-71.20934	A	ADM2	DO		03	0406			0		8	America/Santo_Domingo	2017-02-09
+11154546	La Ciénaga	La Cienaga		18.09254	-71.13377	A	ADM2	DO		03	0407			0		217	America/Santo_Domingo	2017-02-09
+11154547	Santo Domingo De Guzmán	Santo Domingo De Guzman		18.48491	-69.94175	A	ADM2	DO		34	0101			0		58	America/Santo_Domingo	2017-02-09
+11154548	Las Charcas	Las Charcas		18.39181	-70.54609	A	ADM2	DO		01	0202			0		70	America/Santo_Domingo	2017-02-09
+11154549	Las Yayas De Viajama	Las Yayas De Viajama		18.604	-70.99966	A	ADM2	DO		01	0203			0		226	America/Santo_Domingo	2017-02-09
+11154550	Sabana Yegua	Sabana Yegua	Sabana Yegua,sa wa na ye gua,سبانہ یگا,サバナ・ジェグア,薩瓦納耶瓜	18.41379	-70.8881	A	ADM2	DO		01	0206			0		76	America/Santo_Domingo	2017-02-09
+11154551	Pueblo Viejo	Pueblo Viejo	Pueblo Viejo,pu ai fu luo wei huo,プエブロ・ビエホ,普埃弗洛維霍	18.39314	-70.78028	A	ADM2	DO		01	0207			0		18	America/Santo_Domingo	2017-02-09
+11154552	Cristóbal	Cristobal		18.33972	-71.29867	A	ADM2	DO		09	1005			0		11	America/Santo_Domingo	2017-02-09
+11154553	Villa Hermosa	Villa Hermosa	Villa Hermosa,ai er mo sa zhen,biyaerumosa,ビヤエルモサ,埃爾莫薩鎮	18.45136	-69.04332	A	ADM2	DO		12	1203			0		71	America/Santo_Domingo	2017-02-09
+11154554	Villa Montellano	Villa Montellano	Villa Montellano,meng te li ya nuo zhen,ビージャ・モンテジャーノ,蒙特利亚诺镇,蒙特利亞諾鎮	19.70826	-70.59261	A	ADM2	DO		18	1809			0		24	America/Santo_Domingo	2017-02-09
+11154555	Las Terrenas	Las Terrenas	Las Terrenas,Las-Terrenas,la si te lei na si,Лас-Терренас,לאס טרנאס,ラス・テレナス,拉斯特雷納斯,拉斯特雷纳斯	19.28578	-69.55459	A	ADM2	DO		20	2003			0		224	America/Santo_Domingo	2017-02-09
+11154556	Sabana Grande De Palenque	Sabana Grande De Palenque		18.25931	-70.16149	A	ADM2	DO		33	2102			0		56	America/Santo_Domingo	2017-02-09
+11154557	San Gregorio De Nigua	San Gregorio De Nigua		18.35934	-70.08223	A	ADM2	DO		33	2107			0		75	America/Santo_Domingo	2017-02-09
+11154558	Los Cacaos	Los Cacaos		18.59313	-70.32508	A	ADM2	DO		33	2108			0		656	America/Santo_Domingo	2017-02-09
+11154559	Juan De Herrera	Juan De Herrera		18.87439	-71.20271	A	ADM2	DO		23	2204			0		621	America/Santo_Domingo	2017-02-09
+11154560	Consuelo	Consuelo		18.58446	-69.2571	A	ADM2	DO		24	2304			0		45	America/Santo_Domingo	2017-02-09
+11154561	Quisqueya	Quisqueya		18.53884	-69.4204	A	ADM2	DO		24	2305			0		31	America/Santo_Domingo	2017-02-09
+11154562	Guayacanes	Guayacanes	Guayacanes,gua ya ka nei si,guayakanesu,グアヤカネス,瓜亞卡內斯	18.45063	-69.43347	A	ADM2	DO		24	2306			0		24	America/Santo_Domingo	2017-02-09
+11154563	La Mata	La Mata		19.08981	-70.20859	A	ADM2	DO		21	2404			0		48	America/Santo_Domingo	2017-02-09
+11154564	Villa González	Villa Gonzalez		19.56422	-70.78712	A	ADM2	DO		25	2507			0		287	America/Santo_Domingo	2017-02-09
+11154565	Puñal	Punal		19.39186	-70.65643	A	ADM2	DO		25	2508			0		226	America/Santo_Domingo	2017-02-09
+11154566	Sabana Iglesia	Sabana Iglesia	Sabana Iglesia,sa wa na yi ge lai xi ya,سبانہ اگلسیہ,サバナ・イグレシア,萨瓦纳伊格莱西亚,薩瓦納伊格萊西亞	19.34238	-70.74019	A	ADM2	DO		25	2509			0		306	America/Santo_Domingo	2017-02-09
+11154567	Villa Los Almácigos	Villa Los Almacigos		19.32289	-71.44224	A	ADM2	DO		26	2602			0		468	America/Santo_Domingo	2017-02-09
+11154568	Santo Domingo Este	Santo Domingo Este		18.51252	-69.79404	A	ADM2	DO		37	3201			0		31	America/Santo_Domingo	2017-02-09
+11154569	Santo Domingo Oeste	Santo Domingo Oeste	Santo Domingo Oeste,xi sheng duo ming ge,サント・ドミンゴ・オエステ,西圣多明哥,西聖多明哥	18.48388	-70.00656	A	ADM2	DO		37	3202			700000		17	America/Santo_Domingo	2019-09-09
+11154570	Boca Chica	Boca Chica	Boca Chica,Boka-Chika,bo ka qi ka,bwka chyka,bwka tshyka,bwqh z'yqh,Бока-Чика,בוקה צ'יקה,بوكا تشيكا,بوکا چیکا,博卡奇卡	18.45717	-69.61405	A	ADM2	DO		37	3204			0		12	America/Santo_Domingo	2017-02-09
+11154571	San Antonio De Guerra	San Antonio De Guerra	Guerra,San Antonio de Guerra,San Cristobal,San Cristóbal,sheng an dong ni ao de ge la,サン・アントニオ・デ・ゲラ,圣安东尼奥德格拉,聖安東尼奧德格拉	18.579	-69.66304	A	ADM2	DO		37	3205			0		26	America/Santo_Domingo	2017-02-09
+11154572	Los Alcarrizos	Los Alcarrizos	Los Alcarrizos,luo si a er ka li suo si,ロス・アルカリソス,洛斯阿尔卡里索斯,洛斯阿爾卡里索斯	18.52789	-70.03636	A	ADM2	DO		37	3206			0		51	America/Santo_Domingo	2017-02-09
+11154573	Pedro Brand	Pedro Brand	Pedro Brand,pei de luo bu lan de,ペドロ・ブランー,佩德罗布兰德,佩德羅布蘭德	18.61968	-70.09076	A	ADM2	DO		37	3207			0		330	America/Santo_Domingo	2017-02-09
+11154574	Juan Santiago	Juan Santiago		18.73283	-71.6071	A	ADM2	DO		11	0706			0		868	America/Santo_Domingo	2017-02-09
+11154575	Jamao Al Norte	Jamao Al Norte		19.60864	-70.4503	A	ADM2	DO		08	0904			0		182	America/Santo_Domingo	2017-02-09
+11154576	Jima Abajo	Jima Abajo		19.12891	-70.39553	A	ADM2	DO		30	1304			0		70	America/Santo_Domingo	2017-02-09
+11154577	Guananico	Guananico	Guananico,Guananiko,gua na ni ke,guananiko,gwananykw,Гуананико,گوانانیکو,グアナニコ,瓜納尼科,瓜纳尼科	19.6992	-70.92124	A	ADM2	DO		18	1803			0		274	America/Santo_Domingo	2016-08-03
+11154578	Piedra Blanca	Piedra Blanca		18.81217	-70.34031	A	ADM2	DO		31	2803			0		291	America/Santo_Domingo	2017-02-09
+11154579	Peralvillo	Peralvillo	Esperalvillo,Esperalvilo,Peralvillo,pei la er wei e,perarubiryo,Еспералвило,ペラルビリョ,佩拉尔维略,佩拉爾維略	18.85025	-70.05637	A	ADM2	DO		32	2905			0		149	America/Santo_Domingo	2017-02-09
+11154580	Sabana Larga	Sabana Larga		18.64138	-70.54513	A	ADM2	DO		36	3102			0		961	America/Santo_Domingo	2017-02-09
+11154581	Rancho Arriba	Rancho Arriba		18.71542	-70.44823	A	ADM2	DO		36	3103			0		699	America/Santo_Domingo	2017-02-09
+11154582	Los Ríos	Los Rios		18.56388	-71.57517	A	ADM2	DO		02	0305			0		469	America/Santo_Domingo	2016-06-04
+11154583	Fundación	Fundacion		18.2631	-71.15332	A	ADM2	DO		03	0408			0		12	America/Santo_Domingo	2017-02-09

@@ -1,0 +1,122 @@
+﻿326423	Wolayita Zone	Wolayita Zone	Welayita Awraja,Welayita Āwraja,Wolaita,Wolaita Zone,Wolayita,Wolayita Zone,Wolaytta,Wolaytta Moottaa,welayita,wolayita,wolayita ʿeውraja,ወላይታ,ዎላይታ,ዎላይታ አውራጃ	6.84312	37.70051	A	ADM2	ET		56	326423			1501112		1899	Africa/Addis_Ababa	2025-05-01
+330790	Metekel Āwraja	Metekel Awraja		11	36	A	ADM2	ET		47	330790			0		915	Africa/Addis_Ababa	2011-06-08
+331677	Bench Maji Zone	Bench Maji Zone	Bench Maji,Bench Maji Zone,Benchi	6.45994	35.30549	A	ADM2	ET		SW	331677			652531		747	Africa/Addis_Ababa	2024-06-06
+333384	Hadiya Zone	Hadiya Zone	Hadiya,Hadiya Zone	7.5	37.75	A	ADM2	ET		55	333384			1231196		2106	Africa/Addis_Ababa	2024-06-03
+333465	Kaffa Zone	Kaffa Zone	Caffa,Caffa Jimma,Gimma,Gomara,Jima,Jimma,Jimā,Kafa,Kaffa,Kaffa Zone,Kaffa-Jimma,Kafā,Kefa,Kefa Kifle Hager,Kefa Kifle Hāger,Keffa	7.17966	36.0479	A	ADM2	ET		SW	333465			0		1795	Africa/Addis_Ababa	2024-06-06
+333766	Jimma Zone	Jimma Zone	Jima,Jima Awraja,Jima Zone,Jimma,Jimma Zone,Jīma Āwraja	7.66667	37	A	ADM2	ET		51	333766			2486155		1744	Africa/Addis_Ababa	2011-04-06
+338829	Dire Dawa Zone	Dire Dawa Zone	Dire Dawa	9.567	42.014	A	ADM2	ET		48	338829			0		1559	Africa/Addis_Ababa	2024-06-06
+341021	Guraghe Zone	Guraghe Zone	Ch'ebo na Gurage Awraja,Chebo and Gurage,Ch’ēbo na Guragē Āwraja,Gurage,Guraghe,Guraghe Zone	8.25	38	A	ADM2	ET		55	341021			1279646		1982	Africa/Addis_Ababa	2024-06-06
+343291	Asosa	Asosa		10	34.5	A	ADM2	ET		47	343291			100000		1475	Africa/Addis_Ababa	2013-05-27
+343450	Arsi Zone	Arsi Zone	Arsi,Arsi Kifle Hager,Arssi Administrative Region,Arusi,Arussi,Arussi-Bale,Ārsī,Ārsī Kifle Hāger,Ārusī	7.5	39.5	A	ADM2	ET		51	343450			2637000		2313	Africa/Addis_Ababa	2014-10-21
+7646394	Pemba District	Pemba District		12.57	40.3	A	ADM2	ET		45	7646394			0		356	Africa/Addis_Ababa	2014-09-13
+7648477	Misraq Shewa	Misraq Shewa		8	38.66667	A	ADM2	ET		51	7648477			0		1694	Africa/Addis_Ababa	2014-09-13
+7667868	Southern Tigray Zone	Southern Tigray Zone	Debubawi,Debubawi Tigray,South Tigray,Southern,Southern Tigray,Southern Tigray Zone	12.96033	39.52831	A	ADM2	ET		53	7667868			1239988		2664	Africa/Addis_Ababa	2013-12-16
+7667869	Alaba Special Wereda	Alaba Special Wereda	Alaba,Alaba Special Wereda	7.45347	38.21189	A	ADM2	ET		55	7667869			232325		2029	Africa/Addis_Ababa	2024-06-06
+7667870	Kembata Alaba Tembaro Zone	Kembata Alaba Tembaro Zone	Kembata,Kembata Alaba Tembaro,Kembata Alaba Tembaro Zone,Kembata Tembaro,Tembaro	7.27039	37.77887	A	ADM2	ET		55	7667870			680837		2365	Africa/Addis_Ababa	2024-06-06
+7670680	Yem	Yem	Yem,Yem special woreda	7.83333	37.5	A	ADM2	ET		55	7670680			80687		2653	Africa/Addis_Ababa	2024-06-06
+7670714	North Shewa Zone	North Shewa Zone	North Shewa,North Shewa Zone,Semien Shewa	9.66915	38.8124	A	ADM2	ET		51	7670714			1431305		2628	Africa/Addis_Ababa	2011-10-28
+7670715	West Shewa Zone	West Shewa Zone	Mirab Shewa,West Shewa	9.13948	37.85016	A	ADM2	ET		51	7670715			0		1788	Africa/Addis_Ababa	2011-10-29
+7670717	South West Shewa	South West Shewa	Southwest Shewa	8.60917	38.23534	A	ADM2	ET		51	7670717			0		2227	Africa/Addis_Ababa	2011-03-03
+7670720	East Shewa Zone	East Shewa Zone	East Shewa,East Shewa Zone,Misraq Shewa	8.21353	38.84809	A	ADM2	ET		51	7670720			1356342		1707	Africa/Addis_Ababa	2011-04-06
+7670721	East Wellega Zone	East Wellega Zone	East Welega,East Wellega Zone,East Wollega,Misraq Welega	9.51928	36.75762	A	ADM2	ET		51	7670721			1213503		1365	Africa/Addis_Ababa	2011-04-06
+7670722	West Gojjam Zone	West Gojjam Zone	Mirab Gojjam,West Gojjam	11.12001	37.17504	A	ADM2	ET		46	7670722			0		2466	Africa/Addis_Ababa	2011-10-29
+7670724	East Gojjam Zone	East Gojjam Zone	East Gojjam,Misraq Gojjam	10.52907	37.85282	A	ADM2	ET		46	7670724			0		2769	Africa/Addis_Ababa	2011-10-29
+7670725	Awi	Awi	Agew Awi	10.96059	36.69687	A	ADM2	ET		46	7670725			1077144		2178	Africa/Addis_Ababa	2023-01-04
+7670726	North Gondar Zone	North Gondar Zone	North Gondar,Semien Gondar	12.65807	37.08837	A	ADM2	ET		46	7670726			0		1422	Africa/Addis_Ababa	2011-10-29
+7670728	Siltie Zone	Siltie Zone	Silte,Silti,Siltie,Siltie Zone	7.83219	38.26872	A	ADM2	ET		55	7670728			0		1967	Africa/Addis_Ababa	2024-06-06
+7670729	Dawuro	Dawuro		6.96985	37.10862	A	ADM2	ET		SW	7670729			0		1735	Africa/Addis_Ababa	2024-06-06
+7670732	Gedeo Zone	Gedeo Zone	Gedeo	6.12727	38.27716	A	ADM2	ET		56	7670732			847434		2435	Africa/Addis_Ababa	2024-06-06
+7729829	South Omo	South Omo		5.46208	36.40148	A	ADM2	ET		56	7729829			0		769	Africa/Addis_Ababa	2024-06-06
+7732039	Borena Zone	Borena Zone	Borana,Borena	4.94952	38.20915	A	ADM2	ET		51	7732039			0		1516	Africa/Addis_Ababa	2013-12-16
+7732961	South Wollo Zone	South Wollo Zone	Debub Wollo,South Wollo,South Wollo Zone	11	39.25	A	ADM2	ET		46	7732961			2518862		3295	Africa/Addis_Ababa	2013-12-16
+7732965	Illubabor Zone	Illubabor Zone	Illubabor,Illubabor Zone	8.27526	35.75596	A	ADM2	ET		51	7732965			1271609		1817	Africa/Addis_Ababa	2011-04-06
+7732966	West Wellega Zone	West Wellega Zone	Mirab Welega,Mirab Wellega,West Welaga,West Wellaga,West Wellaga Zone	9.17283	35.05279	A	ADM2	ET		51	7732966			1350415		1453	Africa/Addis_Ababa	2011-04-06
+7732967	Administrative Zone 1	Administrative Zone 1	Administrative Zone 1,Gambela,Zone 1	8.14699	33.97335	A	ADM2	ET		49	7732967			67042		418	Africa/Addis_Ababa	2013-12-03
+7732968	Administrative Zone 3	Administrative Zone 3	Administrative Zone 3,Afar,Afar Zone 3,Zone 3	10.00902	40.47394	A	ADM2	ET		45	7732968			194635		572	Africa/Addis_Ababa	2011-04-06
+7732969	West Harerghe Zone	West Harerghe Zone	Mirab Hararghe,West Harerghe,West Harerghe Zone	8.67245	40.84885	A	ADM2	ET		51	7732969			1871706		1353	Africa/Addis_Ababa	2011-04-06
+7732970	East Harerghe Zone	East Harerghe Zone	East Harerghe,East Harerghe Zone,Misraq Hararghe	8.70114	42.00241	A	ADM2	ET		51	7732970			2723850		1278	Africa/Addis_Ababa	2011-04-06
+7732971	Shinile Zone	Shinile Zone	Shinile,Shinile Zone	10.17097	41.83748	A	ADM2	ET		52	7732971			452112		682	Africa/Addis_Ababa	2011-04-06
+7733020	Addis Ababa Zone 1	Addis Ababa Zone 1		9.02047	38.74457	A	ADM2	ET		44	7733020			0		2374	Africa/Addis_Ababa	2011-10-28
+7733021	Addis Ababa Zone 2	Addis Ababa Zone 2		8.99496	38.74844	A	ADM2	ET		44	7733021			0		2306	Africa/Addis_Ababa	2011-10-28
+7733022	Addis Ababa Zone 3	Addis Ababa Zone 3		8.9797	38.77058	A	ADM2	ET		44	7733022			0		2303	Africa/Addis_Ababa	2011-10-28
+7733023	Addis Ababa Zone 6	Addis Ababa Zone 6		8.89338	38.78157	A	ADM2	ET		44	7733023			0		2162	Africa/Addis_Ababa	2011-10-28
+7839144	Bale	Bale		6.92193	40.45258	A	ADM2	ET		51	7839144			0		2139	Africa/Addis_Ababa	2015-06-08
+7869861	South Gondar Zone	South Gondar Zone	Debub Gondar,South Gondar	11.8385	38.09954	A	ADM2	ET		46	7869861			2051738		2717	Africa/Addis_Ababa	2013-12-16
+7869862	North Wollo Zone	North Wollo Zone	North Wollo,Semien Wollo	11.92	39.1	A	ADM2	ET		46	7869862			1500303		2208	Africa/Addis_Ababa	2013-12-16
+7869875	Central Tigray Zone	Central Tigray Zone	Central,Central Tigray,Mehakelegnaw	13.78507	38.82055	A	ADM2	ET		53	7869875			0		1197	Africa/Addis_Ababa	2011-10-29
+7869879	Eastern Tigray Zone	Eastern Tigray Zone	Eastern,Eastern Tigray,Misraqawi	14.1154	39.58699	A	ADM2	ET		53	7869879			0		2581	Africa/Addis_Ababa	2013-12-16
+7869945	North Western Tigray	North Western Tigray	North Western Tigray,Semien Mi'irabawi Zone	14.02038	38.1639	A	ADM2	ET		53	7869945			0		1899	Africa/Addis_Ababa	2015-05-31
+7874607	Metekel	Metekel		10.42673	35.71975	A	ADM2	ET		47	7874607			276367		1519	Africa/Addis_Ababa	2013-12-16
+8051207	North Shewa Zone	North Shewa Zone	North Shewa,Semien Shewa	9.769	39.668	A	ADM2	ET		46	8051207			1837490		3009	Africa/Addis_Ababa	2011-10-28
+8051209	Wag Hemra Zone	Wag Hemra Zone	Wag Hemra	12.765	38.843	A	ADM2	ET		46	8051209			426213		1498	Africa/Addis_Ababa	2013-12-16
+8051210	Addis Ababa Zone 5	Addis Ababa Zone 5		9.059	38.718	A	ADM2	ET		44	8051210			0		2559	Africa/Addis_Ababa	2011-10-29
+8260659	Keficho Shekicho Zone	Keficho Shekicho Zone		7.25	36	A	ADM2	ET		SW	8260659			0		1672	Africa/Addis_Ababa	2024-06-06
+8299785	Guji Zone	Guji Zone	Guji	5.588	39.067	A	ADM2	ET		51	8299785			1389800		1711	Africa/Addis_Ababa	2013-12-16
+8606578	Gimbichu	Gimbichu	Gimbichu	9.0679	39.25945	A	ADM2	ET		51	8606578			0		2502	Africa/Addis_Ababa	2014-03-11
+8643576	Administrative Zone 1	Administrative Zone 1		12	41.16667	A	ADM2	ET		45	8643576			0		385	Africa/Addis_Ababa	2015-06-07
+8643579	Mekelle	Mekelle		13.49781	39.54391	A	ADM2	ET		53	8643579			0		2149	Africa/Addis_Ababa	2015-06-08
+8643583	Administrative Zone 2	Administrative Zone 2		13.68513	40.05615	A	ADM2	ET		45	8643583			48084		668	Africa/Addis_Ababa	2015-06-08
+8643588	Administrative Zone 4	Administrative Zone 4		12.33333	40.16667	A	ADM2	ET		45	8643588			0		703	Africa/Addis_Ababa	2015-06-08
+8643592	Administrative Zone 5	Administrative Zone 5		10.5	40.25	A	ADM2	ET		45	8643592			0		762	Africa/Addis_Ababa	2015-06-08
+8643822	Liben zone	Liben zone		4.75	40.5	A	ADM2	ET		52	8643822			0		887	Africa/Addis_Ababa	2013-12-05
+8643826	Mi'irabawi Zone	Mi'irabawi Zone		13.75	37	A	ADM2	ET		53	8643826			0		825	Africa/Addis_Ababa	2014-03-18
+9159975	Gamo Gofa Zone	Gamo Gofa Zone		6.25	37	A	ADM2	ET		56	9159975			0		1622	Africa/Addis_Ababa	2024-06-06
+9165721	Oromia Zone	Oromia Zone		10.66667	40	A	ADM2	ET		46	9165721			0		1612	Africa/Addis_Ababa	2014-09-13
+9410038	Afder Zone	Afder Zone		5.25	43	A	ADM2	ET		52	9410038			0		546	Africa/Addis_Ababa	2015-06-08
+9410112	Basketo Special Woreda	Basketo Special Woreda		6.25	36.58333	A	ADM2	ET		56	9410112			0		1320	Africa/Addis_Ababa	2024-06-06
+9410266	Amaro Special Woreda	Amaro Special Woreda		5.83333	37.83333	A	ADM2	ET		56	9410266			0		2815	Africa/Addis_Ababa	2024-06-06
+9410393	Dirashe Special Woreda	Dirashe Special Woreda		5.66667	37.33333	A	ADM2	ET		56	9410393			0		2198	Africa/Addis_Ababa	2024-06-06
+9410442	Konso Special Woreda	Konso Special Woreda		5.33333	37.33333	A	ADM2	ET		56	9410442			0		1540	Africa/Addis_Ababa	2024-06-06
+9410501	Burji Special Woreda	Burji Special Woreda		5.5	37.83333	A	ADM2	ET		56	9410501			0		2057	Africa/Addis_Ababa	2024-06-06
+10303651	Kamashi Zone	Kamashi Zone		9.75	35.83333	A	ADM2	ET		47	10303651			0		1416	Africa/Addis_Ababa	2015-07-31
+10376670	Dollo	Dollo		7.25	46	A	ADM2	ET		52	10376670			0		526	Africa/Addis_Ababa	2024-06-06
+10376725	Awasa Zuria	Awasa Zuria		7	38.5	A	ADM2	ET		SI	10376725			0		1704	Africa/Addis_Ababa	2024-06-05
+10377041	South Omo Zone	South Omo Zone		5.5	36.5	A	ADM2	ET		56	10377041			0		794	Africa/Addis_Ababa	2024-06-06
+10395468	Gode Zone	Gode Zone	Gode,Godey	6	43.75	A	ADM2	ET		52	10395468			0		572	Africa/Addis_Ababa	2015-07-27
+10399848	Degehabur Zone	Degehabur Zone	Gobolka Jarar,Jarar Zone	8.25	43.75	A	ADM2	ET		52	10399848			0		1160	Africa/Addis_Ababa	2015-07-27
+10400171	Fafan	Fafan	Faafan,Jijiga Zone	9.25	43	A	ADM2	ET		52	10400171			0		1681	Africa/Addis_Ababa	2024-06-06
+11153778	Southeastern Tigray Zone	Southeastern Tigray Zone	Debub Misraqawi,Zoba Enderta	13.24797	39.53156	A	ADM2	ET		53	11153778			400000		2112	Africa/Addis_Ababa	2016-05-28
+11750806	Western	Western		13.85681	37.10707	A	ADM2	ET		53	11750806			0		1495	Africa/Addis_Ababa	2017-11-10
+11750812	Oromiya	Oromiya		10.70057	40.02405	A	ADM2	ET		46	11750812			0		1504	Africa/Addis_Ababa	2017-11-10
+11750813	Kemashi	Kemashi		9.84	35.78035	A	ADM2	ET		47	11750813			0		848	Africa/Addis_Ababa	2017-11-10
+11750817	Nuer Zone	Nuer Zone		8.3343	33.44354	A	ADM2	ET		49	11750817			0		409	Africa/Addis_Ababa	2024-06-06
+11750818	Anywaa Zone	Anywaa Zone	Anuak Zone,Anywaa Zone	7.6529	34.44645	A	ADM2	ET		49	11750818			100000		490	Africa/Addis_Ababa	2020-10-31
+11750819	Majang Zone	Majang Zone		7.34579	35.12785	A	ADM2	ET		49	11750819			60000		913	Africa/Addis_Ababa	2020-10-31
+11750820	Sheka Zone	Sheka Zone		7.56166	35.40174	A	ADM2	ET		SW	11750820			199314		2046	Africa/Addis_Ababa	2024-06-06
+11750821	Konta	Konta	Konta	6.87066	36.5726	A	ADM2	ET		SW	11750821			0		1377	Africa/Addis_Ababa	2025-02-18
+11750822	Dawro	Dawro		6.95704	37.10044	A	ADM2	ET		SW	11750822			0		2156	Africa/Addis_Ababa	2024-06-06
+11750824	Segen Peoples	Segen Peoples		5.54625	37.55151	A	ADM2	ET		56	11750824			0		1730	Africa/Addis_Ababa	2024-06-06
+11750826	Selti	Selti		7.79199	38.23291	A	ADM2	ET		55	11750826			0		1944	Africa/Addis_Ababa	2024-06-06
+11750827	Kellem Wellega	Kellem Wellega		8.78133	34.76878	A	ADM2	ET		51	11750827			0		2153	Africa/Addis_Ababa	2017-11-10
+11750828	Ilubabor	Ilubabor		8.35905	35.74769	A	ADM2	ET		51	11750828			0		1555	Africa/Addis_Ababa	2017-11-10
+11750829	Horo Guduru	Horo Guduru		9.71226	37.24486	A	ADM2	ET		51	11750829			0		2217	Africa/Addis_Ababa	2017-11-10
+11750832	Siti	Siti		10.28236	41.85563	A	ADM2	ET		52	11750832			0		658	Africa/Addis_Ababa	2017-11-10
+11750833	Nogob	Nogob	Fik,Nogob	7.7679	42.39308	A	ADM2	ET		52	11750833			0		933	Africa/Addis_Ababa	2024-06-06
+11750835	Korahe	Korahe	Korahe	6.66422	44.34131	A	ADM2	ET		52	11750835			0		489	Africa/Addis_Ababa	2019-02-23
+11750836	Shabelle	Shabelle		6.11718	43.49676	A	ADM2	ET		52	11750836			0		339	Africa/Addis_Ababa	2017-11-10
+11750838	Harari	Harari		9.29869	42.16953	A	ADM2	ET		50	11750838			0		1679	Africa/Addis_Ababa	2017-11-10
+11750840	Kolife Keraniyo	Kolife Keraniyo	Kolfe K'eraniyo,Kolfe K'eraniyo Kifle Ketema,Kolfe Keranyo,Kolfe-K'eraniyo,Kolfē K’eranīyo,Kolfē K’eranīyo Kifle Ketema,Kolfē-K’eranīyo,Kolife Keraniyo,Kolife Keraniyo Sub-City,ኮልፌ ቀራኒዮ,ኮልፌ ቀራኒዮ ክፍለ ከተማ,ኮልፌ-ቀራኒዮ	8.99773	38.68622	A	ADM2	ET		44	11750840			0		2329	Africa/Addis_Ababa	2026-02-11
+11750841	Akaki Kaliti	Akaki Kaliti	Ak'ak'i K'aliti,Ak'ak'i K'aliti Kifle Ketema,Akaki Kaliti,Akaki Kaliti Sub-City,Āk’ak’ī K’alītī,Āk’ak’ī K’alītī Kifle Ketema,አቃቂ ቃሊቲ,አቃቂ ቃሊቲ ክፍለ ከተማ	8.89855	38.80237	A	ADM2	ET		44	11750841			0		2151	Africa/Addis_Ababa	2026-02-11
+11750842	Nifas Silk Lafto	Nifas Silk Lafto	Nefas Silk Lafto,Nifas Silik Lafto,Nifas Silik Lafto Sub-City,Nifas Silk Lafto,Nifas Silk Lafto Kifle Ketema,ንፋስ ስልክ ላፍቶ,ንፋስ ስልክ ላፍቶ ክፍለ ከተማ	8.95077	38.73041	A	ADM2	ET		44	11750842			0		2206	Africa/Addis_Ababa	2026-02-11
+11750843	Bole	Bole	Bole,Bole Kifle Ketema,Bole Sub-City,Bolē,Bolē Kifle Ketema,ቦሌ,ቦሌ ክፍለ ከተማ	8.9804	38.80751	A	ADM2	ET		44	11750843			0		2234	Africa/Addis_Ababa	2026-02-11
+11750844	Yeka	Yeka	Yeka,Yeka Kifle Ketema,Yeka Sub-City,የካ,የካ ክፍለ ከተማ	9.04929	38.81074	A	ADM2	ET		44	11750844			0		2699	Africa/Addis_Ababa	2026-02-11
+11750845	Kirkos	Kirkos	K'irk'os,K'irk'os Kifle Ketema,Kirkos,Kirkos Sub-City,K’īrk’os,K’īrk’os Kifle Ketema,ቂርቆስ,ቂርቆስ ክፍለ ከተማ	9.00203	38.75975	A	ADM2	ET		44	11750845			0		2348	Africa/Addis_Ababa	2026-02-11
+11750846	Gullele	Gullele	Gulele,Gulele Kifle Ketema,Gulelē,Gulelē Kifle Ketema,Gullele,Gullele Sub-City,ጉለሌ,ጉለሌ ክፍለ ከተማ	9.07112	38.73671	A	ADM2	ET		44	11750846			0		2605	Africa/Addis_Ababa	2026-02-11
+11750847	Arada	Arada	Arada,Arada Kifle Ketema,Arada Sub-City,Ārada,Ārada Kifle Ketema,አራዳ,አራዳ ክፍለ ከተማ	9.03569	38.75562	A	ADM2	ET		44	11750847			0		2432	Africa/Addis_Ababa	2026-02-11
+11750848	Addis Ketema	Addis Ketema	Addis Ketema,Addis Ketema Sub-City,Adis Ketema,Adis Ketema Kifle Ketema,Ādīs Ketema,Ādīs Ketema Kifle Ketema,አዲስ ከተማ,አዲስ ከተማ ክፍለ ከተማ	9.04462	38.71128	A	ADM2	ET		44	11750848			0		2426	Africa/Addis_Ababa	2026-02-11
+11750849	Lideta	Lideta	Lideta,Lideta Kifle Ketema,Lideta Sub-City,ልደታ,ልደታ ክፍለ ከተማ	9.00361	38.73014	A	ADM2	ET		44	11750849			0		2300	Africa/Addis_Ababa	2026-02-11
+11750850	West Arsi	West Arsi		7.08686	38.91134	A	ADM2	ET		51	11750850			0		2658	Africa/Addis_Ababa	2017-11-10
+13439328	North Western	North Western		14.11114	38.07159	A	ADM2	ET		53	13439328			0		1370	Africa/Addis_Ababa	2025-07-18
+13439329	Zone 5	Zone 5		10.49848	40.26339	A	ADM2	ET		45	13439329			0		681	Africa/Addis_Ababa	2025-07-18
+13439330	Zone 1	Zone 1		11.78041	41.22762	A	ADM2	ET		45	13439330			0		368	Africa/Addis_Ababa	2025-07-18
+13439331	Zone 4	Zone 4		12.35074	40.2538	A	ADM2	ET		45	13439331			0		658	Africa/Addis_Ababa	2025-07-18
+13439332	Zone 2	Zone 2		13.42267	40.67645	A	ADM2	ET		45	13439332			0		108	Africa/Addis_Ababa	2025-07-18
+13439548	West Wellega	West Wellega		9.39555	35.35421	A	ADM2	ET		51	13439548			0		1530	Africa/Addis_Ababa	2025-07-18
+13439549	East Wellega	East Wellega		9.42434	36.63064	A	ADM2	ET		51	13439549			0		1385	Africa/Addis_Ababa	2025-07-18
+13439550	East Shewa	East Shewa		8.5414	39.08752	A	ADM2	ET		51	13439550			0		1683	Africa/Addis_Ababa	2025-07-18
+13439551	Arsi	Arsi		7.92718	39.65375	A	ADM2	ET		51	13439551			0		2508	Africa/Addis_Ababa	2025-07-18
+13439552	Borena	Borena		4.65453	38.29095	A	ADM2	ET		51	13439552			0		1695	Africa/Addis_Ababa	2025-07-18
+13439553	Jarar	Jarar		8.25735	43.94782	A	ADM2	ET		52	13439553			0		1234	Africa/Addis_Ababa	2025-07-18
+13439554	Afder	Afder		5.28222	42.33549	A	ADM2	ET		52	13439554			0		387	Africa/Addis_Ababa	2025-07-18
+13439555	Liben	Liben		4.72558	40.67518	A	ADM2	ET		52	13439555			0		835	Africa/Addis_Ababa	2025-07-18
+13587203	Lemi Kura Sub-City	Lemi Kura Sub-City	Lemi Kura,Lemi Kura Kifle Ketema,Lemi Kura Sub-City,Lemī Kura,Lemī Kura Kifle Ketema,ለሚ ኩራ,ለሚ ኩራ ክፍለ ከተማ	9.00996	38.87032	A	ADM2	ET		44	13587203			0		2388	Africa/Addis_Ababa	2026-02-12

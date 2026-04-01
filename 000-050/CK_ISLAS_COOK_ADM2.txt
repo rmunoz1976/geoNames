@@ -1,0 +1,8 @@
+﻿4035518	Tautu District	Tautu District	Tautu,Tautu District	-18.87409	-159.78747	A	ADM2	CK		11695124	4035518			0		34	Pacific/Rarotonga	2019-10-09
+4035726	Arorangi District	Arorangi District	Arorangi	-21.2395	-159.81807	A	ADM2	CK		11695425	4035726			2701		136	Pacific/Rarotonga	2025-09-29
+4036514	Vaitupa District	Vaitupa District	Vaitupa,Vaitupa District	-18.83333	-159.775	A	ADM2	CK		11695124	4036514			0		37	Pacific/Rarotonga	2019-10-09
+4036515	Anaunga District	Anaunga District	Anaunga,Anaunga District	-18.84222	-159.7875	A	ADM2	CK		11695124	4036515			0		14	Pacific/Rarotonga	2019-10-09
+4036516	Avanui District	Avanui District	Avanui,Avanui District	-18.85066	-159.77772	A	ADM2	CK		11695124	4036516			0		19	Pacific/Rarotonga	2019-10-09
+4036517	Amuri District	Amuri District	Amuri,Amuri District	-18.85333	-159.79306	A	ADM2	CK		11695124	4036517			0		12	Pacific/Rarotonga	2019-10-09
+4036518	Arutanga District	Arutanga District	Arutanga,Arutanga District	-18.86333	-159.79222	A	ADM2	CK		11695124	4036518			0		40	Pacific/Rarotonga	2019-10-09
+4036519	Vaipae District	Vaipae District		-18.86806	-159.78333	A	ADM2	CK		11695124	4036519			0		36	Pacific/Rarotonga	2019-10-09

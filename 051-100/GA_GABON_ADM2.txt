@@ -1,0 +1,48 @@
+﻿7870325	Basse-Banio Department	Basse-Banio Department	Basse-Banio	-3.17	10.679	A	ADM2	GA		05	7870325			0		120	Africa/Libreville	2019-01-09
+7870326	Mougoutsi Department	Mougoutsi Department	Mougoutsi	-2.974	11.237	A	ADM2	GA		05	7870326			0		250	Africa/Libreville	2019-01-09
+7870327	Ndougou Department	Ndougou Department	Ndougou	-2.372	10.111	A	ADM2	GA		08	7870327			0		31	Africa/Libreville	2019-01-09
+7870328	Douya-Onoye Department	Douya-Onoye Department	Douya-Onoye	-1.69	11.105	A	ADM2	GA		04	7870328			0		273	Africa/Libreville	2012-04-25
+7870330	Ndolou Department	Ndolou Department	Ndolou	-1.526	10.266	A	ADM2	GA		04	7870330			0		132	Africa/Libreville	2019-01-09
+7870331	Étimboué Department	Etimboue Department	Etimboue	-1.631	9.707	A	ADM2	GA		08	7870331			0		32	Africa/Libreville	2019-01-09
+7870333	Plateaux Department	Plateaux Department	Plateaux	-1.608	14.243	A	ADM2	GA		02	7870333			0		497	Africa/Libreville	2019-01-09
+7870395	Mpassa Department	Mpassa Department	Passa	-1.711	13.61	A	ADM2	GA		02	7870395			0		385	Africa/Libreville	2019-01-09
+7870411	Haute-Banio Department	Haute-Banio Department	Haute-Banio	-3.805	11.104	A	ADM2	GA		05	7870411			0		58	Africa/Libreville	2019-01-09
+7870425	Abanga-Bigné Department	Abanga-Bigne Department	Abanga-Bigne	-0.196	10.984	A	ADM2	GA		03	7870425			0		246	Africa/Libreville	2019-01-09
+7870426	Lope Department	Lope Department	Lope	-0.148	11.893	A	ADM2	GA		06	7870426			0		334	Africa/Libreville	2019-01-09
+7870427	Lolo Bouenguidi Department	Lolo Bouenguidi Department	Lolo-Bouenguidi,Lolo-Bouenguidi Department	-0.89432	12.27587	A	ADM2	GA		07	7870427			0		381	Africa/Libreville	2019-01-12
+7870428	Ogoulou Department	Ogoulou Department	Ogoulou	-1.407	11.517	A	ADM2	GA		04	7870428			0		781	Africa/Libreville	2019-01-09
+8224678	Bendje	Bendje	Bendje	-0.75803	8.77533	A	ADM2	GA		08	8224678			0		5	Africa/Libreville	2019-01-09
+8260610	Tsamba-Magotsi Department	Tsamba-Magotsi Department	Tsamba-Magotsi	-1.16	10.71	A	ADM2	GA		04	8260610			0		150	Africa/Libreville	2012-04-25
+8260626	Mouloundou Department	Mouloundou Department	Mouloundou	-0.541	13.009	A	ADM2	GA		07	8260626			0		366	Africa/Libreville	2012-04-25
+8260627	Leboumbi-Leyou Department	Leboumbi-Leyou Department	Lebombi-Leyou,Leboumbi-Leyou	-1.481	13.181	A	ADM2	GA		02	8260627			0		411	Africa/Libreville	2019-01-09
+8260628	Dola Department	Dola Department	Dola	-2.349	11.362	A	ADM2	GA		04	8260628			0		135	Africa/Libreville	2012-04-25
+8260629	Louetsi-Wano Department	Louetsi-Wano Department	Louetsi-Wano	-2.18	11.516	A	ADM2	GA		04	8260629			0		280	Africa/Libreville	2012-04-25
+8260630	Commune of Libreville	Commune of Libreville	Libreville	0.385	9.51	A	ADM2	GA		01	8260630			0		21	Africa/Libreville	2012-04-25
+8260631	Komo-Mondah Department	Komo-Mondah Department	Komo-Mondah,Komo-Moudah	0.124	9.634	A	ADM2	GA		01	8260631			0		35	Africa/Libreville	2019-01-09
+8260632	Komo Department	Komo Department	Komo	0.246	10.351	A	ADM2	GA		01	8260632			0		223	Africa/Libreville	2012-04-25
+8260634	Lekoko Department	Lekoko Department	Lekoko	-1.974	13.097	A	ADM2	GA		02	8260634			0		563	Africa/Libreville	2012-04-25
+11204018	Ogooue et des Lacs	Ogooue et des Lacs	Ogooue et Lacs	-0.7	10.21667	A	ADM2	GA		03	11204018			0		39	Africa/Libreville	2019-01-09
+11204107	Zadie	Zadie	Zadie	0.92582	13.90813	A	ADM2	GA		06	11204107			15204		539	Africa/Libreville	2019-01-09
+11204310	Woleu	Woleu	Woleu	1.37273	11.79305	A	ADM2	GA		09	11204310			0		688	Africa/Libreville	2019-01-09
+11204504	Okano Department	Okano Department	Okano	0.78333	11.56667	A	ADM2	GA		09	11204504			0		545	Africa/Libreville	2019-01-09
+11204591	Ntem Department	Ntem Department	Ntem	2.07778	11.48889	A	ADM2	GA		09	11204591			0		595	Africa/Libreville	2019-01-09
+11996061	Douigni	Douigni	Douigni	-2.43053	10.83845	A	ADM2	GA		05	11996061			0		226	Africa/Libreville	2019-01-09
+11996062	Ogooue-Letili	Ogooue-Letili	Ogooue-Letili	-2.20937	13.46731	A	ADM2	GA		02	11996062			0		553	Africa/Libreville	2019-01-09
+11996063	Djouori-Agnili	Djouori-Agnili	Djouori-Agnili	-1.48717	13.97556	A	ADM2	GA		02	11996063			0		500	Africa/Libreville	2019-01-09
+11996064	Louetsi-Bibaka	Louetsi-Bibaka	Louetsi-Bibaka	-2.17333	12.28667	A	ADM2	GA		04	11996064			0		711	Africa/Libreville	2019-01-09
+11996065	Boumi-Louetsi	Boumi-Louetsi	Boumi-Louetsi	-1.9923	11.85407	A	ADM2	GA		04	11996065			0		639	Africa/Libreville	2019-01-09
+11996066	Lombo-Bouenguidi	Lombo-Bouenguidi	Lombo-Bouenguidi	-1.45125	12.63905	A	ADM2	GA		07	11996066			0		553	Africa/Libreville	2019-01-09
+11996067	Lekoni-Lekori	Lekoni-Lekori	Lekoni-Lekori	-1.11184	13.90301	A	ADM2	GA		02	11996067			0		524	Africa/Libreville	2019-01-09
+11996068	Offoue-Onoye	Offoue-Onoye	Offoue-Onoye	-0.99857	11.83426	A	ADM2	GA		07	11996068			0		698	Africa/Libreville	2019-01-09
+11996069	Djoue	Djoue	Djoue	-0.80072	14.26669	A	ADM2	GA		02	11996069			0		502	Africa/Libreville	2019-01-09
+11996070	Bayi-Brikolo	Bayi-Brikolo	Bayi-Brikolo	-0.46351	14.09475	A	ADM2	GA		02	11996070			0		478	Africa/Libreville	2019-01-09
+11996071	Mvoung	Mvoung	Mvoung	0.37675	12.14626	A	ADM2	GA		06	11996071			0		474	Africa/Libreville	2019-01-09
+11996072	Haut-Komo	Haut-Komo	Haut-Komo	0.82789	10.63556	A	ADM2	GA		09	11996072			0		637	Africa/Libreville	2019-01-09
+11996073	Haut-Ntem	Haut-Ntem	Haut-Ntem	1.8157	12.59123	A	ADM2	GA		09	11996073			0		572	Africa/Libreville	2019-01-09
+11996074	Mongo	Mongo	Mongo	-3.37751	11.67583	A	ADM2	GA		05	11996074			0		106	Africa/Libreville	2019-01-09
+11996075	Lekabi-Lewolo	Lekabi-Lewolo	Lekabi-Lewolo	-1.31041	13.70953	A	ADM2	GA		02	11996075			0		472	Africa/Libreville	2019-01-09
+11996076	Mougalaba	Mougalaba	Mougalaba	-2.07753	10.74991	A	ADM2	GA		04	11996076			0		327	Africa/Libreville	2019-01-09
+11996077	Doutsila	Doutsila	Doutsila	-2.85301	11.54032	A	ADM2	GA		05	11996077			0		186	Africa/Libreville	2019-01-09
+11996078	Sebe-Brikolo	Sebe-Brikolo	Sebe-Brikolo	-0.54263	13.67345	A	ADM2	GA		02	11996078			0		343	Africa/Libreville	2019-01-09
+11996079	Noya	Noya	Noya	0.78015	10.00416	A	ADM2	GA		01	11996079			0		101	Africa/Libreville	2019-01-09
+11996080	Ivindo	Ivindo	Ivindo	0.66543	13.03386	A	ADM2	GA		06	11996080			0		536	Africa/Libreville	2019-01-09

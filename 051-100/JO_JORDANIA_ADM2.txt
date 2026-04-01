@@ -1,0 +1,53 @@
+﻿7910931	Qasabat As Salt	Qasabat As Salt	Salt	32.03917	35.7	A	ADM2	JO		02	7910931			107874		951	Asia/Amman	2022-07-30
+7910933	Qasabat Az Zarqa	Qasabat Az Zarqa	Zarqa	32.079	36.2	A	ADM2	JO		17	7910933			635160		621	Asia/Amman	2022-07-30
+8621599	Liwa’ Banī Kinānah	Liwa' Bani Kinanah	Liwa' Bani Kinanah,Liwa’ Banī Kinānah,lwaʾ bny knant,لواء بني كنانة	32.67787	35.78872	A	ADM2	JO		18	8621599			0		472	Asia/Amman	2015-11-09
+8621601	Liwā’ ar Ramthā	Liwa' ar Ramtha	Liwa' ar Ramtha,Liwā’ ar Ramthā,lwaʾ alrmtha,لواء الرمثا	32.58498	35.99482	A	ADM2	JO		18	8621601			0		485	Asia/Amman	2015-11-09
+8621602	Liwā’ Qaşabat Irbid	Liwa' Qasabat Irbid	Liwa' Qasabat Irbid,Liwā’ Qaşabat Irbid,lwaʾ qsbt arbd,لواء قصبة إربد	32.5707	35.84824	A	ADM2	JO		18	8621602			0		499	Asia/Amman	2015-11-09
+8621603	Liwā’ al Kūrah	Liwa' al Kurah	Al Kurah,Al Kūrah,Liwa' al Kurah,Liwā’ al Kūrah,alkwrt,lwaʾ alkwrt,الكورة,لواء الكورة	32.46625	35.68763	A	ADM2	JO		18	8621603			0		387	Asia/Amman	2017-09-06
+8621604	Liwā’ al Aghwār ash Shamālīyah	Liwa' al Aghwar ash Shamaliyah	Liwa' al Aghwar ash Shamaliyah,Liwā’ al Aghwār ash Shamālīyah,lwaʾ alaghwar alshmalyt,لواء الأغوار الشمالية	32.47091	35.59546	A	ADM2	JO		18	8621604			0		-207	Asia/Amman	2022-07-30
+8621605	Liwā’ Banī ‘Ubayd	Liwa' Bani `Ubayd	Bani `Ubayd,Banī ‘Ubayd,Liwa' Bani `Ubayd,Liwā’ Banī ‘Ubayd,lwaʾ bny ʿbyd,بني عبيد,لواء بني عبيد	32.45387	35.91733	A	ADM2	JO		18	8621605			0		706	Asia/Amman	2022-07-30
+8621606	Liwā’ al Mazār ash Shamālī	Liwa' al Mazar ash Shamali	Liwa' al Mazar ash Shamali,Liwā’ al Mazār ash Shamālī,lwaʾ almzar alshmaly,لواء المزار الشمالي	32.45804	35.79699	A	ADM2	JO		18	8621606			0		859	Asia/Amman	2015-11-09
+8621607	Liwā’ aţ Ţayyibah	Liwa' at Tayyibah	Liwa' at Tayyibah,Liwa' at Tibah,Liwā’ aţ Ţayyibah,Liwā’ aţ Ţībah,lwaʾ altybt,لواء الطيبة	32.55376	35.69296	A	ADM2	JO		18	8621607			0		355	Asia/Amman	2015-11-09
+8621630	Liwā’ al Wasaţīyah	Liwa' al Wasatiyah	Al Wasatiyah,Al Wasaţīyah,Liwa' al Wasatiyah,Liwā’ al Wasaţīyah,alwstyt,lwaʾ alwstyt,الوسطية,لواء الوسطية	32.58805	35.70469	A	ADM2	JO		18	8621630			0		317	Asia/Amman	2017-09-06
+8621631	Liwā’ Qaşabat ‘Ajlūn	Liwa' Qasabat `Ajlun	Liwa' Qasabat `Ajlun,Liwā’ Qaşabat ‘Ajlūn,lwaʾ qsbt ʿjlwn,لواء قصبة عجلون	32.34461	35.75327	A	ADM2	JO		20	8621631			0		993	Asia/Amman	2015-11-09
+8621632	Liwā’ Kufrinjah	Liwa' Kufrinjah	Liwa' Kufranjah,Liwa' Kufrinjah,Liwā’ Kufranjah,Liwā’ Kufrinjah,Qada' Kufinjah,Qaḑā’ Kufinjah,lwaʾ kfrnjt,قضاء كفرنجة,لواء كفرنجة	32.2496	35.67658	A	ADM2	JO		20	8621632			0		270	Asia/Amman	2020-03-10
+8621633	Liwā’ Qaşabat Jarash	Liwa' Qasabat Jarash	Liwa' Qasabat Jarash,Liwā’ Qaşabat Jarash,lwaʾ qsbt jrsh,لواء قصبة جرش	32.25189	35.8705	A	ADM2	JO		22	8621633			0		510	Asia/Amman	2015-11-09
+8621634	Liwā’ Qaşabat al Mafraq	Liwa' Qasabat al Mafraq	Liwa' Qasabat al Mafraq,Liwā’ Qaşabat al Mafraq,lwaʾ qsbt almfrq,لواء قصبة المفرق	32.28525	36.12857	A	ADM2	JO		15	8621634			0		822	Asia/Amman	2015-11-09
+8621635	Liwā’ al Bādiyah ash Shamālīyah	Liwa' al Badiyah ash Shamaliyah	Liwa' al Badiyah ash Shamaliyah,Liwā’ al Bādiyah ash Shamālīyah,lwaʾ albadyt alshmalyt,لواء البادية الشمالية	32.17937	36.77792	A	ADM2	JO		15	8621635			0		867	Asia/Amman	2015-11-09
+8621683	Liwā’ al Bādiyah ash Shamālīyah al Gharbīyah	Liwa' al Badiyah ash Shamaliyah al Gharbiyah	Liwa' al Badiyah ash Shamaliyah al Gharbiyah,Liwā’ al Bādiyah ash Shamālīyah al Gharbīyah,lwaʾ albadyt alshmalyt alghrbyt,لواء البادية الشمالية الغربية	32.36457	36.28986	A	ADM2	JO		15	8621683			0		682	Asia/Amman	2015-11-09
+8621684	Liwā’ ar Ruwayshid	Liwa' ar Ruwayshid	Liwa' ar Ruwayshid,Liwā’ ar Ruwayshid,lwaʾ alrwyshd,لواء الرويشد	32.36117	38.17177	A	ADM2	JO		15	8621684			0		691	Asia/Amman	2015-11-09
+8621685	Liwā’ ash Shūnah al Janūbīyah	Liwa' ash Shunah al Janubiyah	Liwa' ash Shunah al Janubiyah,Liwā’ ash Shūnah al Janūbīyah,lwaʾ alshwnt aljnwbyt,لواء الشونة الجنوبية	31.8555	35.62074	A	ADM2	JO		02	8621685			0		-258	Asia/Amman	2015-11-09
+8621686	Liwā’ Dayr ‘Allā	Liwa' Dayr `Alla	Liwa' Dayr `Alla,Liwā’ Dayr ‘Allā,lwaʾ dyr ʿla,لواء دير علا	32.10725	35.59696	A	ADM2	JO		02	8621686			0		-272	Asia/Amman	2015-11-09
+8621687	Liwā’ ‘Ayn al Bāshā	Liwa' `Ayn al Basha	Liwa' `Ayn al Basha,Liwā’ ‘Ayn al Bāshā,lwaʾ ʿyn albasha,لواء عين الباشا	32.10604	35.8447	A	ADM2	JO		02	8621687			0		573	Asia/Amman	2015-11-09
+8621688	Liwa Mahis wa-al-Fuhays	Liwa Mahis wa-al-Fuhays	Liwa' Mahis wa al Fuhays,Liwā’ Māhiş wa al Fuḩayş,Liwā’ Māḩiş wa al Fuḩayş,lwaʾ mahs walfhys,لواء ماحص والفحيص	31.9979	35.77994	A	ADM2	JO		02	8621688			0		894	Asia/Amman	2025-01-10
+8621689	Liwā’ Qaşabat az Zarqā’	Liwa' Qasabat az Zarqa'	Liwa' Qasabat az Zarqa',Liwā’ Qaşabat az Zarqā’,lwaʾ qsbt alzrqaʾ,لواء قصبة الزرقاء	31.81924	36.57762	A	ADM2	JO		17	8621689			0		588	Asia/Amman	2015-11-09
+8621690	Liwā’ ar Ruşayfah	Liwa' ar Rusayfah	Liwa' ar Rusayfah,Liwā’ ar Ruşayfah,lwaʾ alrsyft,لواء الرصيفة	32.01304	36.04878	A	ADM2	JO		17	8621690			0		633	Asia/Amman	2015-11-09
+8621691	Liwā’ al Hāshimīyah	Liwa' al Hashimiyah	Liwa' al Hashimiyah,Liwā’ al Hāshimīyah,lwaʾ alhashmyt,لواء الهاشمية	32.13858	36.10968	A	ADM2	JO		17	8621691			0		535	Asia/Amman	2015-11-09
+8621692	Liwā’ Qaşabat Mādabā	Liwa' Qasabat Madaba	Liwa' Qasabat Ma'daba,Liwa' Qasabat Madaba,Liwā’ Qaşabat Ma’dabā,Liwā’ Qaşabat Mādabā,lwaʾ qsbt madba,لواء قصبة مأدبا,لواء قصبة مادبا	31.70578	35.71624	A	ADM2	JO		23	8621692			0		629	Asia/Amman	2017-10-05
+8621693	Liwā’ Dhībān	Liwa' Dhiban	Liwa' Dhiban,Liwā’ Dhībān,lwaʾ dhyban,لواء ذيبان	31.53855	35.71033	A	ADM2	JO		23	8621693			0		709	Asia/Amman	2024-07-14
+8621694	Liwā’ Fuqū‘	Liwa' Fuqu`	Liwa' Faqqu`,Liwa' Fuqu`,Liwā’ Faqqū‘,Liwā’ Fuqū‘,lwaʾ fqwʿ,لواء فقوع	31.36539	35.69498	A	ADM2	JO		09	8621694			0		846	Asia/Amman	2015-11-09
+8621695	Liwā’ al Qaşr	Liwa' al Qasr	Liwa' al Qasr,Liwā’ al Qaşr,lwaʾ alqsr,لواء القصر	31.35553	35.78007	A	ADM2	JO		09	8621695			0		851	Asia/Amman	2015-11-09
+8621696	Liwā’ ‘Ayy	Liwa' `Ayy	Liwa' `Ayy,Liwā’ ‘Ayy,lwaʾ ʿy,لواء عي	31.14093	35.62951	A	ADM2	JO		09	8621696			0		803	Asia/Amman	2015-09-07
+8621697	Liwā’ Qaşabat al Karak	Liwa' Qasabat al Karak	Liwa' Qasabat al Karak,Liwā’ Qaşabat al Karak,lwaʾ qsbt alkrk,لواء قصبة الكرك	31.16121	35.82527	A	ADM2	JO		09	8621697			0		863	Asia/Amman	2015-11-09
+8621719	Liwā’ al Qaţrānah	Liwa' al Qatranah	Liwa' al Qatranah,Liwā’ al Qaţrānah,lwaʾ alqtrant,لواء القطرانة	31.1407	36.04509	A	ADM2	JO		09	8621719			0		888	Asia/Amman	2015-11-09
+8621720	Liwā’ al Mazār al Janūbī	Liwa' al Mazar al Janubi	Liwa' al Mazar al Janubi,Liwā’ al Mazār al Janūbī,lwaʾ almzar aljnwby,لواء المزار الجنوبي	31.00813	35.75605	A	ADM2	JO		09	8621720			0		1125	Asia/Amman	2015-11-09
+8621721	Liwā’ al Aghwār al Janūbīyah	Liwa' al Aghwar al Janubiyah	Liwa' al Aghwar al Janubiyah,Liwā’ al Aghwār al Janūbīyah,lwaʾ alaghwar aljnwbyt,لواء الأغوار الجنوبية	31.11919	35.54262	A	ADM2	JO		09	8621721			0		-49	Asia/Amman	2015-11-09
+8621722	Liwā’ Qaşabat Ma‘ān	Liwa' Qasabat Ma`an	Liwa' Qasabat Ma`an,Liwā’ Qaşabat Ma‘ān,lwaʾ qsbt mʿan,لواء قصبة معان	30.33105	36.63777	A	ADM2	JO		19	8621722			0		875	Asia/Amman	2015-11-09
+8621727	Liwā’ ash Shawbak	Liwa' ash Shawbak	Liwa' ash Shawbak,Liwa' ash Shubak,Liwā’ ash Shawbak,Liwā’ ash Shūbak,lwaʾ alshwbk,لواء الشوبك	30.50776	35.55697	A	ADM2	JO		19	8621727			0		1392	Asia/Amman	2015-11-09
+8621728	Liwā’ al Batrā’	Liwa' al Batra'	Liwa' al Batra',Liwā’ al Batrā’,lwaʾ albtraʾ,لواء البتراء	30.27565	35.46726	A	ADM2	JO		19	8621728			0		1582	Asia/Amman	2015-11-09
+8621729	Liwā’ al Quwayrah	Liwa' al Quwayrah	Liwa' al Quwayrah,Liwā’ al Quwayrah,lwaʾ alqwyrt,لواء القويرة	29.59174	35.51562	A	ADM2	JO		21	8621729			0		866	Asia/Amman	2015-11-09
+8621730	Liwā’ al Ḩasā	Liwa' al Hasa	Liwa' al Hasa,Liwā’ al Ḩasā,lwaʾ alhsa,لواء الحسا	30.77057	35.87614	A	ADM2	JO		12	8621730			0		940	Asia/Amman	2015-11-09
+8621737	Liwā’ al Ḩusaynīyah	Liwa' al Husayniyah	Liwa' al Husayniyah,Liwā’ al Ḩusaynīyah,lwaʾ alhsynyt,لواء الحسينية	30.53357	35.7953	A	ADM2	JO		19	8621737			0		1058	Asia/Amman	2015-11-09
+8621738	Liwā’ Qaşabat al ‘Aqabah	Liwa' Qasabat al `Aqabah	Liwa' Qasabat al `Aqabah,Liwā’ Qaşabat al ‘Aqabah,lwaʾ qsbt alʿqbt,لواء قصبة العقبة	29.98236	35.22858	A	ADM2	JO		21	8621738			0		426	Asia/Amman	2015-11-09
+8621739	Liwā’ Qaşabat aţ Ţafīlah	Liwa' Qasabat at Tafilah	Liwa' Qasabat at Tafilah,Liwā’ Qaşabat aţ Ţafīlah,lwaʾ qsbt altfylt,لواء قصبة الطفيلة	30.82788	35.54781	A	ADM2	JO		12	8621739			0		1043	Asia/Amman	2015-11-09
+8621740	Liwā’ Saḩāb	Liwa' Sahab	Liwa' Sahab,Liwā’ Saḩāb,lwaʾ shab,لواء سحاب	31.91582	36.23194	A	ADM2	JO		16	8621740			0		824	Asia/Amman	2015-11-09
+8621741	Liwā’ Buşayrā	Liwa' Busayra	Liwa' Busayra,Liwā’ Buşayrā,lwaʾ bsyra,لواء بصيرا	30.67979	35.61525	A	ADM2	JO		12	8621741			0		1344	Asia/Amman	2015-11-09
+8621742	Liwā’ Qaşabat ‘Ammān	Liwa' Qasabat `Amman	Liwa' Qasabat `Amman,Liwā’ Qaşabat ‘Ammān,lwaʾ qsbt ʿman,لواء قصبة عمان	31.94528	35.9119	A	ADM2	JO		16	8621742			0		840	Asia/Amman	2015-11-09
+8621743	Liwā’ Mārkā	Liwa' Marka	Liwa' Marika,Liwa' Marka,Liwā’ Mārikā,Liwā’ Mārkā,lwaʾ marka,لواء ماركا	31.94546	36.06845	A	ADM2	JO		16	8621743			0		850	Asia/Amman	2024-07-14
+8621761	Liwā’ al Jāmi‘ah	Liwa' al Jami`ah	Liwa' al Jami`ah,Liwā’ al Jāmi‘ah,lwaʾ aljamʿt,لواء الجامعة	32.02521	35.89474	A	ADM2	JO		16	8621761			0		976	Asia/Amman	2015-11-09
+8621762	Liwā’ Wādī as Sīr	Liwa' Wadi as Sir	Liwa' Wadi as Sayr,Liwa' Wadi as Sir,Liwā’ Wādī as Sayr,Liwā’ Wādī as Sīr,lwaʾ wady alsyr,لواء وادي السير	31.92171	35.79083	A	ADM2	JO		16	8621762			0		840	Asia/Amman	2015-11-09
+8621763	Liwā’ al Muwaqqar	Liwa' al Muwaqqar	Liwa' al Muwaqqar,Liwā’ al Muwaqqar,lwaʾ almwqr,لواء الموقر	31.79519	36.24755	A	ADM2	JO		16	8621763			0		763	Asia/Amman	2015-11-09
+8621764	Liwā’ Nā‘ūr	Liwa' Na`ur	Liwa' Na`ur,Liwā’ Nā‘ūr,lwaʾ naʿwr,لواء ناعور	31.82608	35.81375	A	ADM2	JO		16	8621764			0		915	Asia/Amman	2015-11-09
+8621765	Liwā’ al Jīzah	Liwa' al Jizah	Liwa' al Jizah,Liwā’ al Jīzah,lwaʾ aljyzt,لواء الجيزة	31.50644	36.33754	A	ADM2	JO		16	8621765			0		883	Asia/Amman	2015-11-09
+9915282	Liwā’ al Quwaysimah	Liwa' al Quwaysimah	Liwa' al Quwaysimah,Liwā’ al Quwaysimah,lwaʾ alqwysmt,لواء القويسمة	31.88935	35.9512	A	ADM2	JO		16	9915282			0		888	Asia/Amman	2015-11-10
+11189149	Shoubak	Shoubak		30.53139	35.56083	A	ADM2	JO		19	11189149			4275		1371	Asia/Amman	2022-07-30

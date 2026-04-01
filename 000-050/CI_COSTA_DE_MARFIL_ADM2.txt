@@ -1,0 +1,33 @@
+﻿2597334	Bafing	Bafing	Bafing,Bafing Region,Region du Baffing,Region du Bafing,Région du Baffing,Région du Bafing	8.40611	-7.58048	A	ADM2	CI		97	2597334			205339		419	Africa/Abidjan	2016-12-03
+11153075	Gbôklé	Gbokle	Gbokle	4.95712	-6.09372	A	ADM2	CI		76	11153075			460980		38	Africa/Abidjan	2022-12-12
+11153076	Nawa	Nawa	Nawa	5.80112	-6.60313	A	ADM2	CI		76	11153076			1165472		143	Africa/Abidjan	2022-12-12
+11153077	San-Pédro	San-Pedro	San Pedro	4.76768	-6.65033	A	ADM2	CI		76	11153077			826666		10	Africa/Abidjan	2019-01-10
+11153078	Indénié-Djuablin	Indenie-Djuablin	Indenie-Djuablin,Region de l'Indenie-Djuablin,Région de l'Indénié-Djuablin	6.74434	-3.494	A	ADM2	CI		94	11153078			716443		204	Africa/Abidjan	2022-12-12
+11153079	Sud-Comoé	Sud-Comoe	Region du Sud-Comoe,Région du Sud-Comoé,Sud-Comoe	5.49961	-3.2408	A	ADM2	CI		94	11153079			784893		79	Africa/Abidjan	2022-12-12
+11153080	Folon	Folon	Folon	9.81241	-7.51894	A	ADM2	CI		77	11153080			146209		383	Africa/Abidjan	2022-12-12
+11153082	Kabadougou	Kabadougou	Kabadougou	9.60571	-7.43774	A	ADM2	CI		77	11153082			289806		419	Africa/Abidjan	2022-12-12
+11153083	Gôh	Goh	Goh	6.14459	-5.92644	A	ADM2	CI		95	11153083			985282		203	Africa/Abidjan	2022-12-12
+11153153	Lôh-Djiboua	Loh-Djiboua	Loh-Djiboua,Region du Loh-Djibou,Région du Lôh-Djibou	5.82483	-5.47668	A	ADM2	CI		95	11153153			1103158		182	Africa/Abidjan	2022-12-12
+11153154	Bélier	Belier	Belier,Bélier	7.02582	-5.06744	A	ADM2	CI		81	11153154			415593		159	Africa/Abidjan	2022-12-12
+11153155	Iffou	Iffou	Iffou	7.11509	-3.95027	A	ADM2	CI		81	11153155			378560		203	Africa/Abidjan	2022-12-12
+11153156	Moronou	Moronou	Moronou	6.6683	-4.13155	A	ADM2	CI		81	11153156			439755		189	Africa/Abidjan	2022-12-12
+11153158	N'Zi	N'Zi	N'Zi	6.82803	-4.5813	A	ADM2	CI		81	11153158			254623		151	Africa/Abidjan	2022-12-12
+11153160	Agnéby-Tiassa	Agneby-Tiassa	Agneby-Tiassa,Region de l'Agneby-Tiassa,Région de l'Agnéby-Tiassa	5.79488	-4.37187	A	ADM2	CI		82	11153160			865951		55	Africa/Abidjan	2022-12-12
+11153161	Grands-Ponts	Grands-Ponts	Grands Ponts,Region des Grands-Ponts,Région des Grands-Ponts	5.30487	-4.39247	A	ADM2	CI		82	11153161			450007		1	Africa/Abidjan	2022-12-12
+11153163	Cavally	Cavally	Cavally	6.56343	-7.92526	A	ADM2	CI		78	11153163			708241		246	Africa/Abidjan	2022-12-12
+11153164	Guémon	Guemon	Guemon,Region du Guemon,Région du Guémon,Yemahin Region,Yémahin Region	7.093	-7.17785	A	ADM2	CI		78	11153164			930893		385	Africa/Abidjan	2022-12-12
+11153165	Tonkpi	Tonkpi	Tonkpi	7.56785	-7.60941	A	ADM2	CI		78	11153165			1387909		630	Africa/Abidjan	2022-12-12
+11153166	Haut-Sassandra	Haut-Sassandra	Haut-Sassandra	6.66961	-6.50116	A	ADM2	CI		96	11153166			1739697		214	Africa/Abidjan	2022-12-12
+11153167	Marahoué	Marahoue	Marahoue,Region de la Marahoue,Région de la Marahoué	7.03252	-5.80215	A	ADM2	CI		96	11153167			981180		173	Africa/Abidjan	2022-12-12
+11153168	Bagoué	Bagoue	Bagoue	9.93594	-6.40778	A	ADM2	CI		87	11153168			515890		369	Africa/Abidjan	2022-12-12
+11153169	Poro	Poro	Poro	9.30499	-5.71838	A	ADM2	CI		87	11153169			1040461		326	Africa/Abidjan	2022-12-12
+11153170	Gbêkê	Gbeke	Gbeke	7.70271	-5.28511	A	ADM2	CI		90	11153170			1010849		303	Africa/Abidjan	2019-01-10
+11153171	Hambol	Hambol	Hambol	8.30368	-5.15396	A	ADM2	CI		90	11153171			429977		293	Africa/Abidjan	2019-01-10
+11153172	Béré	Bere	Bere,Koyadougou Region	8.18952	-6.17157	A	ADM2	CI		97	11153172			492151		344	Africa/Abidjan	2022-12-12
+11153174	Worodougou	Worodougou	Region du Worodougou,Région du Worodougou,Worodougou	8.16482	-6.66595	A	ADM2	CI		97	11153174			429812		307	Africa/Abidjan	2022-12-12
+11153175	Bounkani	Bounkani	Bounkani	9.47841	-3.31238	A	ADM2	CI		92	11153175			427037		379	Africa/Abidjan	2022-12-12
+11153176	Gontougo	Gontougo	Gontougo,Region du Gontougo,Région du Gontougo	7.87132	-3.07068	A	ADM2	CI		92	11153176			917828		270	Africa/Abidjan	2022-12-12
+11153177	Tchologo	Tchologo	Tchologo	9.52717	-4.89716	A	ADM2	CI		87	11153177			603084		341	Africa/Abidjan	2022-12-12
+11362033	Région de La Mé	Region de La Me	La Me,La Me Region,La Mé,La Mé Region,Massan Region,Me,Mé,Region de La Me,Région de La Mé	6	-3.70833	A	ADM2	CI		82	11362033			0		79	Africa/Abidjan	2019-01-10
+11996435	Yamoussoukro	Yamoussoukro		6.81448	-5.25312	A	ADM2	CI		98	11153154			0		240	Africa/Abidjan	2019-01-10
+11996449	Abidjan	Abidjan	District Autonome D'Abidjan	5.34199	-3.9884	A	ADM2	CI		93	11996449			0		45	Africa/Abidjan	2019-01-10

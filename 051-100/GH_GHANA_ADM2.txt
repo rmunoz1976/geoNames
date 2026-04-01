@@ -1,0 +1,216 @@
+﻿2299646	Keta	Keta		5.905	0.877	A	ADM2	GH		08	402			182409		1	Africa/Accra	2019-12-05
+7647177	Nadowli	Nadowli		10.28835	-2.60889	A	ADM2	GH		11	1005			0		309	Africa/Accra	2019-12-10
+7647179	Sissala West	Sissala West		10.80768	-2.2785	A	ADM2	GH		11	1007			0		284	Africa/Accra	2019-12-05
+7647181	Wa East	Wa East		9.92933	-1.86848	A	ADM2	GH		11	1003			87197		199	Africa/Accra	2019-12-05
+7647182	Wa West	Wa West		9.96559	-2.63098	A	ADM2	GH		11	1001			98193		269	Africa/Accra	2019-12-05
+7647380	Sissala East	Sissala East		10.70489	-1.75388	A	ADM2	GH		11	1004			68578		299	Africa/Accra	2019-12-05
+7647383	Talensi-Nabdam	Talensi-Nabdam		10.71667	-0.8	A	ADM2	GH		10	905			0		192	Africa/Accra	2019-12-05
+7647384	Garu-Tempane	Garu-Tempane		10.85	-0.18333	A	ADM2	GH		10	908			0		236	Africa/Accra	2019-12-05
+7647385	North Builsa District	North Builsa District		10.73472	-1.29056	A	ADM2	GH		10	901			0		176	Africa/Accra	2019-12-05
+7647386	Bongo District	Bongo District		10.90778	-0.80806	A	ADM2	GH		10	906			0		231	Africa/Accra	2019-12-05
+7647387	Nanumba South	Nanumba South		8.79217	0.11207	A	ADM2	GH		06	807			0		151	Africa/Accra	2019-12-05
+7647388	Nanumba North	Nanumba North		8.92453	-0.07468	A	ADM2	GH		06	808			0		156	Africa/Accra	2019-12-05
+7647389	Sawla-Tuna-Kalba	Sawla-Tuna-Kalba		9.27324	-2.41346	A	ADM2	GH		17	802			0		316	Africa/Accra	2019-12-08
+7647390	Bawku West	Bawku West		10.91667	-0.51667	A	ADM2	GH		10	907			0		224	Africa/Accra	2019-12-05
+7647391	Bunkpurugu-Yunyoo	Bunkpurugu-Yunyoo		10.4846	-0.11207	A	ADM2	GH		15	818			0		261	Africa/Accra	2019-12-08
+7647392	Lawra	Lawra		10.72454	-2.79977	A	ADM2	GH		11	1009			66033		257	Africa/Accra	2019-12-05
+7647393	Jirapa	Jirapa		10.53333	-2.7	A	ADM2	GH		11	1006			106670		315	Africa/Accra	2019-12-05
+7647394	Karaga	Karaga		9.90568	-0.53521	A	ADM2	GH		06	814			0		170	Africa/Accra	2019-12-05
+7647396	Gushiegu	Gushiegu	Gushegu District	9.97027	-0.18772	A	ADM2	GH		06	815			0		174	Africa/Accra	2019-12-05
+7647453	Bole	Bole		8.5927	-2.06783	A	ADM2	GH		17	801			115800		160	Africa/Accra	2022-03-21
+7647454	Kpandai	Kpandai		8.46667	-0.01667	A	ADM2	GH		06	806			0		184	Africa/Accra	2019-12-05
+7647456	East Gonja	East Gonja		8.57151	-0.67731	A	ADM2	GH		17	805			0		111	Africa/Accra	2019-12-08
+7647497	Nkwanta North	Nkwanta North		8.60922	0.30625	A	ADM2	GH		16	418			78179		165	Africa/Accra	2019-12-08
+7647498	Nkwanta South	Nkwanta South		8.25379	0.51633	A	ADM2	GH		16	417			145935		259	Africa/Accra	2019-12-08
+7647499	Pru	Pru		8.04451	-1.2891	A	ADM2	GH		14	720			159942		148	Africa/Accra	2019-12-08
+7647500	Sene	Sene		7.61119	-0.45024	A	ADM2	GH		14	719			0		79	Africa/Accra	2019-12-08
+7647501	Krachi East	Krachi East		7.69817	0.22447	A	ADM2	GH		16	415			143323		75	Africa/Accra	2019-12-08
+7647502	Krachi West	Krachi West		7.8	-0.01667	A	ADM2	GH		16	416			59930		102	Africa/Accra	2019-12-08
+7647503	Nkoranza North District	Nkoranza North District	Nkoranza,Nkoranza North	7.685	-1.6618	A	ADM2	GH		14	717			82836		313	Africa/Accra	2019-12-08
+7647504	Assin South	Assin South		5.4764	-1.2891	A	ADM2	GH		04	213			124333		167	Africa/Accra	2019-12-05
+7647505	Twifo Hemang Lower Denkyira	Twifo Hemang Lower Denkyira		5.42081	-1.43459	A	ADM2	GH		04	218			0		136	Africa/Accra	2019-12-10
+7647506	Sekyere Afram Plains	Sekyere Afram Plains		6.9	-1.28333	A	ADM2	GH		02	624			34902		427	Africa/Accra	2019-12-05
+7647527	Ellembelle	Ellembelle		4.96389	-2.32222	A	ADM2	GH		09	102			114441		13	Africa/Accra	2019-12-05
+7647530	Atiwa	Atiwa		6.2797	-0.63937	A	ADM2	GH		05	517			136560		192	Africa/Accra	2019-12-05
+7647638	Saboba	Saboba	Saboba Chereponi	9.70176	0.32364	A	ADM2	GH		06	816			0		114	Africa/Accra	2019-12-05
+7647639	Chereponi	Chereponi		10.13417	0.28806	A	ADM2	GH		15	817			87176		170	Africa/Accra	2023-02-12
+7647658	Lambussie Karni	Lambussie Karni		10.83333	-2.7	A	ADM2	GH		11	1008			62647		291	Africa/Accra	2019-12-05
+7648921	Abura/Asebu/Kwamankese	Abura/Asebu/Kwamankese		5.33333	-1.16667	A	ADM2	GH		04	203			0		105	Africa/Accra	2019-12-05
+7648922	Accra	Accra	AMA,Accra Metropolis District,Accra Metropolitan District	5.586	-0.186	A	ADM2	GH		01	304			2087668		62	Africa/Accra	2019-12-05
+7648924	Adansi North	Adansi North		6.28333	-1.51667	A	ADM2	GH		02	606			127952		263	Africa/Accra	2019-12-05
+7648925	Adansi South	Adansi South		6.06667	-1.4	A	ADM2	GH		02	604			139591		146	Africa/Accra	2019-12-05
+7648926	Adenta	Adenta		5.71417	-0.15418	A	ADM2	GH		01	305			93158		58	Africa/Accra	2021-06-09
+7648927	Afigya-Kwabre District	Afigya-Kwabre District	Afigya-Kwabre	6.89647	-1.60826	A	ADM2	GH		02	619			162848		280	Africa/Accra	2019-12-05
+7648928	Agona East	Agona East		5.65	-0.75	A	ADM2	GH		04	210			103172		128	Africa/Accra	2019-12-05
+7648929	Agona West	Agona West		5.53333	-0.7	A	ADM2	GH		04	211			137568		54	Africa/Accra	2019-12-05
+7648930	Ahafo Ano North	Ahafo Ano North		7	-2.16667	A	ADM2	GH		02	617			0		243	Africa/Accra	2019-12-05
+7648931	Ahafo Ano South	Ahafo Ano South		6.91784	-1.95763	A	ADM2	GH		02	616			145403		298	Africa/Accra	2019-12-05
+7648932	Ahanta West	Ahanta West		4.84952	-2.00979	A	ADM2	GH		09	104			139188		70	Africa/Accra	2019-12-05
+7648933	Ajumako/Enyan/Essiam	Ajumako/Enyan/Essiam		5.41667	-0.95	A	ADM2	GH		04	205			0		79	Africa/Accra	2019-12-05
+7648934	Akatsi District	Akatsi District	Akatsi	6.197	0.799	A	ADM2	GH		08	420			117263		34	Africa/Accra	2019-12-05
+7648935	Akuapim North	Akuapim North		5.96667	-0.08333	A	ADM2	GH		05	506			169061		363	Africa/Accra	2019-12-05
+7648936	Akuapim South	Akuapim South		5.86634	-0.23356	A	ADM2	GH		05	523			0		313	Africa/Accra	2019-12-10
+7648937	Akyemansa	Akyemansa		6.16667	-1.15	A	ADM2	GH		05	515			120301		134	Africa/Accra	2019-12-05
+7648938	Amansie Central	Amansie Central		6.25421	-1.75069	A	ADM2	GH		02	603			110667		180	Africa/Accra	2019-12-05
+7648939	Amansie West	Amansie West		6.46667	-1.88333	A	ADM2	GH		02	602			162855		217	Africa/Accra	2019-12-05
+7648941	Aowin/Suaman	Aowin/Suaman		5.81667	-2.81667	A	ADM2	GH		18	112			0		91	Africa/Accra	2019-12-08
+7648942	Asante Akim North	Asante Akim North		6.8758	-0.96173	A	ADM2	GH		02	629			0		181	Africa/Accra	2019-12-10
+7648943	Asante Akim South District	Asante Akim South District	Asante Akim,Asante Akim South	6.478	-1.084	A	ADM2	GH		02	609			145396		176	Africa/Accra	2019-12-05
+7648944	Ashaiman	Ashaiman		5.7	-0.03333	A	ADM2	GH		01	307			231096		28	Africa/Accra	2019-12-05
+7648945	Asikuma/Odoben/Brakwa	Asikuma/Odoben/Brakwa		5.58333	-1	A	ADM2	GH		04	212			0		82	Africa/Accra	2019-12-05
+7648946	Assin North	Assin North		5.7	-1.28333	A	ADM2	GH		04	214			0		151	Africa/Accra	2019-12-05
+7648947	Asunafo North	Asunafo North		6.81568	-2.69478	A	ADM2	GH		12	702			0		226	Africa/Accra	2019-12-08
+7648948	Asunafo South	Asunafo South		6.68333	-2.45	A	ADM2	GH		12	701			91693		217	Africa/Accra	2023-02-12
+7648949	Asuogyaman	Asuogyaman		6.20308	0.08167	A	ADM2	GH		05	510			120299		53	Africa/Accra	2019-12-05
+7648950	Asutifi	Asutifi		6.96667	-2.38333	A	ADM2	GH		12	703			0		216	Africa/Accra	2019-12-08
+7648951	Atwima Kwanwoma	Atwima Kwanwoma		6.65	-1.73333	A	ADM2	GH		02	613			110503		249	Africa/Accra	2019-12-05
+7648952	Atwima Mponua	Atwima Mponua		6.6	-2.11667	A	ADM2	GH		02	601			145406		194	Africa/Accra	2019-12-05
+7648953	Atwima Nwabiagya	Atwima Nwabiagya		6.66667	-1.81667	A	ADM2	GH		02	615			180296		228	Africa/Accra	2019-12-05
+7648955	Awutu Senya	Awutu Senya		5.5514	-0.51523	A	ADM2	GH		04	209			103175		78	Africa/Accra	2019-12-05
+7648957	Bekwai	Bekwai	Amansie East District	6.45	-1.58333	A	ADM2	GH		02	607			0		210	Africa/Accra	2019-12-05
+7648958	Berekum	Berekum		7.45	-2.58333	A	ADM2	GH		13	710			159950		327	Africa/Accra	2019-12-08
+7648959	Bia	Bia		6.73664	-3.04404	A	ADM2	GH		18	117			0		216	Africa/Accra	2019-12-08
+7648960	Biakoye	Biakoye		7.11667	0.31667	A	ADM2	GH		16	412			71827		106	Africa/Accra	2022-03-21
+7648962	Bibiani/Ahwiaso/Bekwai	Bibiani/Ahwiaso/Bekwai		6.46667	-2.33333	A	ADM2	GH		18	115			0		284	Africa/Accra	2019-12-08
+7648963	Birim Central	Birim Central		5.91667	-0.98333	A	ADM2	GH		05	502			178830		127	Africa/Accra	2019-12-05
+7648964	Birim North	Birim North		6.33856	-0.99564	A	ADM2	GH		05	516			97534		154	Africa/Accra	2019-12-05
+7648965	Birim South	Birim South		5.9	-1.01667	A	ADM2	GH		05	501			146313		117	Africa/Accra	2019-12-05
+7648966	Bolgatanga Municipal District	Bolgatanga Municipal District		10.78556	-0.85139	A	ADM2	GH		10	904			0		191	Africa/Accra	2019-12-05
+7648967	Bosome Freho	Bosome Freho		6.41667	-1.33333	A	ADM2	GH		02	608			75607		192	Africa/Accra	2019-12-05
+7648968	Bosomtwe	Bosomtwe		6.53333	-1.48333	A	ADM2	GH		02	612			0		264	Africa/Accra	2019-12-05
+7648969	Cape Coast	Cape Coast		5.10535	-1.2466	A	ADM2	GH		04	202			0		21	Africa/Accra	2019-12-05
+7648970	Central Gonja	Central Gonja		8.9242	-1.32349	A	ADM2	GH		17	804			0		114	Africa/Accra	2019-12-08
+7648971	Shai Osudoku District	Shai Osudoku District	Dangme West,Shai Osudoku District	5.895	0.155	A	ADM2	GH		01	309			0		49	Africa/Accra	2019-12-05
+7648972	Dormaa	Dormaa		7.28333	-2.88333	A	ADM2	GH		13	704			139955		258	Africa/Accra	2019-12-08
+7648973	Dormaa East	Dormaa East		7.3	-2.7	A	ADM2	GH		13	705			0		282	Africa/Accra	2019-12-08
+7648974	East Akim	East Akim		6.21587	-0.44367	A	ADM2	GH		05	513			208091		214	Africa/Accra	2019-12-05
+7648975	East Mamprusi	East Mamprusi		10.53056	-0.44222	A	ADM2	GH		15	819			0		387	Africa/Accra	2019-12-08
+7648976	Effutu	Effutu		5.35113	-0.62313	A	ADM2	GH		04	207			0		25	Africa/Accra	2019-12-05
+7648977	Ejisu Juaben	Ejisu Juaben		6.68	-1.379	A	ADM2	GH		02	611			0		210	Africa/Accra	2019-12-05
+7648978	Ejura Sekyedumase	Ejura Sekyedumase		7.375	-1.432	A	ADM2	GH		02	626			0		182	Africa/Accra	2019-12-05
+7648979	Fanteakwa	Fanteakwa		6.38333	-0.38333	A	ADM2	GH		05	512			0		446	Africa/Accra	2019-12-05
+7648980	Ga East	Ga East		5.73333	-0.2	A	ADM2	GH		01	303			179107		70	Africa/Accra	2019-12-05
+7648981	Ga West	Ga West		5.67252	-0.31516	A	ADM2	GH		01	302			268557		37	Africa/Accra	2019-12-05
+7648982	Gomoa East	Gomoa East		5.51667	-0.75	A	ADM2	GH		04	208			0		90	Africa/Accra	2019-12-05
+7648983	Gomoa West	Gomoa West		5.28333	-0.73333	A	ADM2	GH		04	206			0		54	Africa/Accra	2019-12-05
+7648984	Ho	Ho		6.6	0.46667	A	ADM2	GH		08	408			218948		165	Africa/Accra	2019-12-05
+7648985	Hohoe	Hohoe		7.15	0.46667	A	ADM2	GH		08	411			205870		167	Africa/Accra	2019-12-05
+7648986	Jaman North	Jaman North		7.95	-2.7	A	ADM2	GH		13	712			102829		331	Africa/Accra	2019-12-08
+7648987	Jaman South	Jaman South		7.58365	-2.78684	A	ADM2	GH		13	711			114257		267	Africa/Accra	2019-12-08
+7648988	Jasikan	Jasikan		7.42111	0.46868	A	ADM2	GH		16	413			72970		185	Africa/Accra	2019-12-08
+7648989	Jomoro	Jomoro		5.133	-2.62	A	ADM2	GH		09	101			194808		42	Africa/Accra	2019-12-05
+7648990	Juaboso	Juaboso	Juabeso	6.33333	-2.83333	A	ADM2	GH		18	116			77329		172	Africa/Accra	2019-12-08
+7648991	Kadjebi	Kadjebi		7.53333	0.46667	A	ADM2	GH		16	414			72960		202	Africa/Accra	2019-12-08
+7648992	Kassena Nankana	Kassena Nankana	Kasena Nankana East	10.895	-1.09389	A	ADM2	GH		10	903			0		196	Africa/Accra	2019-12-05
+7648994	Ketu North District	Ketu North District	Ketu,Ketu North	6.213	0.971	A	ADM2	GH		08	404			122546		36	Africa/Accra	2019-12-05
+7648995	Ketu South District	Ketu South District	Ketu,Ketu South	6.086	1.047	A	ADM2	GH		08	403			198051		9	Africa/Accra	2019-12-05
+7648996	Kintampo North Municipal District	Kintampo North Municipal District	Kintampo,Kintampo North,Kintampo North District	8.303	-1.567	A	ADM2	GH		14	722			117118		128	Africa/Accra	2019-12-08
+7648997	Kintampo South District	Kintampo South District	Kintampo,Kintampo South	7.9	-1.76667	A	ADM2	GH		14	721			99969		368	Africa/Accra	2019-12-08
+7648998	Komenda/Edina/Eguafo/Abirem	Komenda/Edina/Eguafo/Abirem		5.08333	-1.35	A	ADM2	GH		04	201			0		4	Africa/Accra	2019-12-05
+7648999	Kpando	Kpando		7	0.3	A	ADM2	GH		08	410			0		149	Africa/Accra	2019-12-05
+7649000	Kumasi	Kumasi	KMA,Kumasi Metropolitan District	6.68333	-1.61667	A	ADM2	GH		02	614			2105382		265	Africa/Accra	2019-12-05
+7649001	Kwabre District	Kwabre District	Kwabre	6.78333	-1.56667	A	ADM2	GH		02	620			0		297	Africa/Accra	2019-12-05
+7649002	Kwaebibirem	Kwaebibirem		6.08333	-0.83333	A	ADM2	GH		05	514			139808		131	Africa/Accra	2019-12-05
+7649003	Kwahu East	Kwahu East		6.66667	-0.75	A	ADM2	GH		05	520			94293		601	Africa/Accra	2019-12-05
+7649004	Kwahu North	Kwahu North		7.04446	-0.07935	A	ADM2	GH		05	521			0		189	Africa/Accra	2019-12-05
+7649005	Kwahu West	Kwahu West		6.55	-0.76667	A	ADM2	GH		05	518			117051		230	Africa/Accra	2019-12-05
+7649009	Kwahu South	Kwahu South		6.64378	-0.64804	A	ADM2	GH		05	519			84536		462	Africa/Accra	2019-12-05
+7649010	Ledzekuku-Krowor	Ledzekuku-Krowor		5.6	-0.06667	A	ADM2	GH		01	306			275239		23	Africa/Accra	2019-12-05
+7649011	Lower Manya Krobo	Lower Manya Krobo		6.16682	0.01484	A	ADM2	GH		05	509			110548		183	Africa/Accra	2019-12-05
+7649012	Mampong	Mampong	Sekyere West District	7.06667	-1.4	A	ADM2	GH		02	622			104691		390	Africa/Accra	2019-12-05
+7649013	Mfatseman	Mfatseman	Mfantseman Municipal,Mfantsiman Municipal District	5.2	-1.06667	A	ADM2	GH		04	204			159573		16	Africa/Accra	2019-12-05
+7649014	Mpohor/Wassa East	Mpohor/Wassa East		5.13333	-1.65	A	ADM2	GH		09	107			0		9	Africa/Accra	2019-12-05
+7649015	New Juaben	New Juaben		6.08333	-0.25	A	ADM2	GH		05	507			227573		215	Africa/Accra	2019-12-05
+7649018	Nkoranza South	Nkoranza South		7.56667	-1.7	A	ADM2	GH		14	716			114244		317	Africa/Accra	2019-12-08
+7649019	North Tongu	North Tongu		6.10297	0.35401	A	ADM2	GH		08	419			109454		32	Africa/Accra	2019-12-10
+7649021	Nzema East	Nzema East		5.124	-2.299	A	ADM2	GH		09	103			80480		38	Africa/Accra	2019-12-05
+7649023	Obuasi	Obuasi		6.21128	-1.66581	A	ADM2	GH		02	605			203554		217	Africa/Accra	2019-12-05
+7649025	Offinso North	Offinso North		7.4	-1.95	A	ADM2	GH		02	627			69790		389	Africa/Accra	2019-12-05
+7649028	Prestea-Huni Valley	Prestea-Huni Valley		5.56667	-2.01667	A	ADM2	GH		09	109			0		90	Africa/Accra	2019-12-05
+7649029	Savelugu/Nanton	Savelugu/Nanton		9.62472	-0.82778	A	ADM2	GH		06	813			0		169	Africa/Accra	2019-12-05
+7649030	Secondi Takoradi	Secondi Takoradi	Sekondi/Takoradi Metropolis	4.93473	-1.71378	A	ADM2	GH		09	105			726905		7	Africa/Accra	2019-12-05
+7649031	Sefwi Akontobra	Sefwi Akontobra		6.04183	-2.87517	A	ADM2	GH		18	113			108266		179	Africa/Accra	2019-12-08
+7649032	Sefwi-Wiawso	Sefwi-Wiawso		6.2	-2.48333	A	ADM2	GH		18	114			182510		204	Africa/Accra	2019-12-08
+7649033	Sekyere Central	Sekyere Central		7.01667	-1.38333	A	ADM2	GH		02	625			0		415	Africa/Accra	2019-12-05
+7649035	Sekyere East	Sekyere East		6.84684	-1.39612	A	ADM2	GH		02	623			75601		328	Africa/Accra	2019-12-05
+7649037	Sekyere South	Sekyere South	Afigya-Sekyere District	6.93333	-1.48333	A	ADM2	GH		02	621			116322		297	Africa/Accra	2019-12-05
+7649040	Shama	Shama		5.01667	-1.63333	A	ADM2	GH		09	106			105173		8	Africa/Accra	2019-12-05
+7649041	South Dayi	South Dayi		6.56463	0.21404	A	ADM2	GH		08	409			57337		162	Africa/Accra	2019-12-05
+7649043	South Tongu District	South Tongu District	South Tongu	5.977	0.647	A	ADM2	GH		08	401			109442		1	Africa/Accra	2019-12-05
+7649045	Suhum/Kraboa/Coaltar	Suhum/Kraboa/Coaltar		6.03333	-0.45	A	ADM2	GH		05	504			0		190	Africa/Accra	2019-12-05
+7649046	Sunyani	Sunyani		7.33333	-2.33333	A	ADM2	GH		13	708			151378		290	Africa/Accra	2019-12-08
+7649047	Sunyani West	Sunyani West		7.36667	-2.31667	A	ADM2	GH		13	709			105680		299	Africa/Accra	2019-12-08
+7649049	Tain	Tain		7.86667	-2.31667	A	ADM2	GH		13	713			108532		272	Africa/Accra	2019-12-08
+7649051	Tamale	Tamale	Gorad Tamale,Tamale,Tamalė,ta ma li,tamalle,tamaly,tamare,Горад Тамале,Тамале,تامالي,تامالی,タマレ,塔马利,타말레	9.4	-0.83333	A	ADM2	GH		06	811			0		179	Africa/Accra	2019-12-05
+7649052	Tano North	Tano North		7.201	-2.18265	A	ADM2	GH		12	707			99969		285	Africa/Accra	2019-12-08
+7649053	Tano South	Tano South		7.08333	-2.03333	A	ADM2	GH		12	706			97110		263	Africa/Accra	2019-12-08
+7649054	Tarkwa Nsuaem	Tarkwa Nsuaem		5.3	-1.98333	A	ADM2	GH		09	108			117550		73	Africa/Accra	2019-12-05
+7649056	Techiman Municipal District	Techiman Municipal District	Techiman,Techiman District	7.612	-1.955	A	ADM2	GH		14	725			182810		390	Africa/Accra	2019-12-08
+7649057	Tema Metropolitan District	Tema Metropolitan District	Tema,Tema District	5.6424	-0.03477	A	ADM2	GH		01	308			353086		3	Africa/Accra	2019-12-10
+7649058	Tolon/Kumbungu	Tolon/Kumbungu		9.43333	-1.06667	A	ADM2	GH		06	812			0		156	Africa/Accra	2019-12-05
+7649059	Upper Denkyira East	Upper Denkyira East		5.96981	-1.7831	A	ADM2	GH		04	216			0		111	Africa/Accra	2019-12-05
+7649060	Upper Denkyira West	Upper Denkyira West		6.15	-2.15	A	ADM2	GH		04	217			71425		109	Africa/Accra	2019-12-05
+7649061	Upper Manya Krobo	Upper Manya Krobo		6.38333	-0.13333	A	ADM2	GH		05	511			87789		312	Africa/Accra	2019-12-05
+7649063	Wa	Wa		10.05	-2.48333	A	ADM2	GH		11	1002			129546		339	Africa/Accra	2019-12-05
+7649064	Wassa Amenfi East	Wassa Amenfi East		5.79755	-2.00958	A	ADM2	GH		09	110			108272		165	Africa/Accra	2019-12-05
+7649065	Wassa Amenfi West	Wassa Amenfi West		5.8	-2.43333	A	ADM2	GH		09	111			120643		101	Africa/Accra	2019-12-05
+7649067	Wenchi	Wenchi		7.73333	-2.1	A	ADM2	GH		13	714			111387		291	Africa/Accra	2019-12-08
+7649068	West Akim	West Akim		5.86667	-0.66667	A	ADM2	GH		05	503			133301		142	Africa/Accra	2019-12-05
+7649070	West Gonja	West Gonja		9.08333	-1.81667	A	ADM2	GH		17	803			0		217	Africa/Accra	2019-12-08
+7649071	West Mamprusi	West Mamprusi		10.35	-0.8	A	ADM2	GH		15	820			0		166	Africa/Accra	2019-12-08
+7649072	Yendi	Yendi	Yendi Municipal District	9.43333	-0.01667	A	ADM2	GH		06	810			0		192	Africa/Accra	2019-12-05
+7649073	Yilo Krobo	Yilo Krobo		6.17737	-0.1765	A	ADM2	GH		05	508			107301		293	Africa/Accra	2019-12-05
+7649074	Zabzugu/Tatale	Zabzugu/Tatale		9.28333	0.36667	A	ADM2	GH		06	809			0		151	Africa/Accra	2019-12-05
+9781875	Atebubu-Amantin District	Atebubu-Amantin District		7.633	-1.067	A	ADM2	GH		14	718			131400		161	Africa/Accra	2019-12-08
+9782064	Kassena Nankana West	Kassena Nankana West		10.9589	-1.1133	A	ADM2	GH		10	902			0		229	Africa/Accra	2019-12-05
+10303430	Bawku Municipal District	Bawku Municipal District		11.05	-0.2333	A	ADM2	GH		10	909			0		232	Africa/Accra	2019-12-05
+10303443	Binduri District	Binduri District		10.97214	-0.30837	A	ADM2	GH		10	912			0		216	Africa/Accra	2019-12-05
+10303481	Daffiama Bussie Issa District	Daffiama Bussie Issa District		10.39158	-2.33412	A	ADM2	GH		11	1010			0		303	Africa/Accra	2019-12-05
+10303516	Mamprugo Moaduri District	Mamprugo Moaduri District		10.23304	-1.28184	A	ADM2	GH		15	826			0		143	Africa/Accra	2019-12-08
+10375752	Ga South	Ga South		5.55774	-0.30343	A	ADM2	GH		01	301			521162		22	Africa/Accra	2019-12-05
+10375753	Ga Central Municipal Assembly	Ga Central Municipal Assembly		5.62518	-0.28475	A	ADM2	GH		01	311			0		86	Africa/Accra	2019-12-05
+11205009	Offinso Municipal District	Offinso Municipal District		6.989	-1.69	A	ADM2	GH		02	618			0		307	Africa/Accra	2019-12-05
+12076867	North Dayi	North Dayi		6.86508	0.32547	A	ADM2	GH		08	424			49510		91	Africa/Accra	2019-12-05
+12105079	Wassa Amenfi Central	Wassa Amenfi Central		5.74205	-2.28642	A	ADM2	GH		09	119			0		131	Africa/Accra	2019-12-03
+12105080	Techiman Municipal	Techiman Municipal		7.53416	-1.96387	A	ADM2	GH		14	715			0		380	Africa/Accra	2019-12-03
+12105081	North Gonja	North Gonja		9.70555	-1.53777	A	ADM2	GH		17	821			0		210	Africa/Accra	2019-12-03
+12105082	Kumbumgu	Kumbumgu		9.78997	-1.05845	A	ADM2	GH		06	822			0		134	Africa/Accra	2019-12-03
+12105083	Asante Akim Central Municipal	Asante Akim Central Municipal		6.58691	-1.23026	A	ADM2	GH		02	610			0		198	Africa/Accra	2019-12-03
+12105084	Sekyere Afram Plains North	Sekyere Afram Plains North		7.21673	-0.74083	A	ADM2	GH		02	630			0		109	Africa/Accra	2019-12-03
+12105085	Ada East	Ada East		5.84916	0.55671	A	ADM2	GH		01	310			0		0	Africa/Accra	2019-12-03
+12105086	Upper West Akim	Upper West Akim		5.80029	-0.55998	A	ADM2	GH		05	522			0		123	Africa/Accra	2019-12-03
+12105087	La Dade Kotopon	La Dade Kotopon		5.58682	-0.15916	A	ADM2	GH		01	312			0		37	Africa/Accra	2019-12-03
+12105088	Asokore Mampong Municipal	Asokore Mampong Municipal		6.71148	-1.5729	A	ADM2	GH		02	628			0		265	Africa/Accra	2019-12-03
+12105089	La Nkwantanang Madina	La Nkwantanang Madina		5.74508	-0.16625	A	ADM2	GH		01	313			0		85	Africa/Accra	2019-12-03
+12105090	Kpone Katamanso	Kpone Katamanso		5.7568	-0.05937	A	ADM2	GH		01	314			0		49	Africa/Accra	2019-12-03
+12105091	Twifo Ati-Morkwa	Twifo Ati-Morkwa		5.67532	-1.59847	A	ADM2	GH		04	215			0		102	Africa/Accra	2019-12-03
+12105092	Ekumfi	Ekumfi		5.2617	-0.90869	A	ADM2	GH		04	219			0		10	Africa/Accra	2019-12-03
+12105093	Adaklu	Adaklu		6.42881	0.54592	A	ADM2	GH		08	421			0		65	Africa/Accra	2019-12-03
+12105094	Ho West	Ho West		6.5599	0.36638	A	ADM2	GH		08	422			0		114	Africa/Accra	2019-12-03
+12105095	Afadzato South	Afadzato South		6.90854	0.41421	A	ADM2	GH		08	423			0		151	Africa/Accra	2019-12-03
+12105096	Krachi Nchumuru	Krachi Nchumuru		8.17531	-0.08519	A	ADM2	GH		16	425			0		134	Africa/Accra	2019-12-03
+12105097	Ningo Prampram	Ningo Prampram		5.81262	0.17136	A	ADM2	GH		01	315			0		21	Africa/Accra	2019-12-03
+12105098	Nsawam Adoagyiri	Nsawam Adoagyiri		5.82736	-0.34685	A	ADM2	GH		05	505			0		40	Africa/Accra	2019-12-03
+12105099	Mpohor	Mpohor		5.06143	-1.85393	A	ADM2	GH		09	118			0		105	Africa/Accra	2019-12-03
+12105100	Suaman	Suaman		6.1157	-3.02484	A	ADM2	GH		18	120			0		159	Africa/Accra	2019-12-03
+12105101	Bodi	Bodi		6.25109	-2.82035	A	ADM2	GH		18	121			0		143	Africa/Accra	2019-12-03
+12105102	Bia East	Bia East		6.83537	-3.00772	A	ADM2	GH		18	122			0		251	Africa/Accra	2019-12-03
+12105103	Asutifi South	Asutifi South		6.87937	-2.45963	A	ADM2	GH		12	723			0		197	Africa/Accra	2019-12-10
+12105104	Dormaa West	Dormaa West		6.98465	-2.96329	A	ADM2	GH		13	724			0		225	Africa/Accra	2019-12-03
+12105105	Banda	Banda		8.2615	-2.38095	A	ADM2	GH		13	726			0		219	Africa/Accra	2019-12-03
+12105106	Sene East	Sene East		7.58976	-0.17857	A	ADM2	GH		14	727			0		105	Africa/Accra	2019-12-03
+12105107	Ayensuano	Ayensuano		5.94454	-0.47516	A	ADM2	GH		05	524			0		96	Africa/Accra	2019-12-03
+12105108	Denkyembour	Denkyembour		6.05424	-0.84444	A	ADM2	GH		05	525			0		138	Africa/Accra	2019-12-03
+12105109	Kwahu Afram Plains South	Kwahu Afram Plains South		6.89557	-0.36528	A	ADM2	GH		05	526			0		86	Africa/Accra	2019-12-03
+12105110	Mion	Mion		9.40345	-0.26593	A	ADM2	GH		06	824			0		241	Africa/Accra	2019-12-03
+12105111	Awutu Senya East Municipal	Awutu Senya East Municipal		5.5719	-0.44497	A	ADM2	GH		04	220			0		56	Africa/Accra	2019-12-03
+12105112	Sagnerigu	Sagnerigu		9.46872	-0.86544	A	ADM2	GH		06	823			0		189	Africa/Accra	2019-12-03
+12105113	Tatale	Tatale		9.21697	0.43152	A	ADM2	GH		06	825			0		124	Africa/Accra	2019-12-03
+12105114	Builsa South	Builsa South		10.53815	-1.33445	A	ADM2	GH		10	910			0		184	Africa/Accra	2019-12-03
+12105115	Nabdam	Nabdam		10.83607	-0.65207	A	ADM2	GH		10	911			0		238	Africa/Accra	2019-12-03
+12105116	Pusiga	Pusiga		11.06872	-0.10522	A	ADM2	GH		10	913			0		241	Africa/Accra	2019-12-03
+12105117	Nandom	Nandom		10.85396	-2.79315	A	ADM2	GH		11	1011			0		274	Africa/Accra	2019-12-03
+12105118	Ada West	Ada West		5.8891	0.42096	A	ADM2	GH		01	316			0		23	Africa/Accra	2019-12-03
+12105119	Akatsi South	Akatsi South		6.14739	0.78154	A	ADM2	GH		08	405			0		28	Africa/Accra	2019-12-03
+12105120	Central Tongu	Central Tongu		6.18042	0.57336	A	ADM2	GH		08	406			0		34	Africa/Accra	2019-12-03
+12105121	Agotime Ziope	Agotime Ziope		6.48477	0.69358	A	ADM2	GH		08	407			0		78	Africa/Accra	2019-12-03

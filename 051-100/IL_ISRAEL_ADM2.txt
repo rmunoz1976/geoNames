@@ -1,0 +1,17 @@
+﻿294798	H̱efa	Hefa	Haifa Sub-district,Hefa,H̱efa,Nafat Hefa,Nafat H̱efa,Nefat Hefa,Nefat Heifa,Nefat H̱efa,hyph,npt hyph,חיפה,נפת חיפה	32.76667	35.06667	A	ADM2	IL		04	294798			0		5	Asia/Jerusalem	2020-06-10
+295618	Ashqelon	Ashqelon	Ashkelon Sub-district,Ashqelon,Ashqelon Sub-district,Nafat Ashqelon,Nefat Ashqelon,אשקלון,נפת אשקלון	31.63333	34.71667	A	ADM2	IL		01	295618			0		80	Asia/Jerusalem	2020-01-08
+295719	‘Akko	`Akko	Acre Sub-district,Nafat `Akko,Nafat ‘Akko,Nefat `Akko,Nefat ‘Akko,`Akko,נפת עכו,עכו,‘Akko	32.95	35.23333	A	ADM2	IL		03	295719			0		315	Asia/Jerusalem	2020-06-10
+7870269	Gaza	Gaza	ghzt,qtaʿ ghzt,غزة,قطاع غزة	31.25857	34.45591	A	ADM2	IL		01	7870269			0		127	Asia/Jerusalem	2019-03-31
+11821182	Mateh Binyamin Regional Council	Mateh Binyamin Regional Council		31.89832	35.22476	A	ADM2	IL		WE	11821182			0		901	Asia/Jerusalem	2018-02-25
+12046836	Nefat Be’er Sheva‘	Nefat Be'er Sheva`	Be'er Sheva Sub-district,Be'er Sheva`,Be’er Sheva Sub-district,Be’er Sheva‘,Nefat Be'er Sheva`,Nefat Be’er Sheva‘,באר שבע,נפת באר שבע	30.68333	34.85	A	ADM2	IL		01	12046836			0		764	Asia/Jerusalem	2019-05-11
+12046838	Nefat Yerushalayim	Nefat Yerushalayim	Jerusalem Sub-district,Nefat Yerushalayim,Yerushalayim,npt yrwslym,yrwslym,ירושלים,נפת ירושלים	31.75	35.03333	A	ADM2	IL		06	12046838			0		573	Asia/Jerusalem	2019-05-11
+12046845	Nefat Reẖovot	Nefat Rehovot	Nefat Rehovot,Nefat Reẖovot,Rehovot,Rehovot Sub-district,Reẖovot,npt rhwbwt,rhwbwt,נפת רחובות,רחובות	31.9	34.76667	A	ADM2	IL		02	12046845			0		23	Asia/Jerusalem	2019-05-11
+12046847	Nefat Ramla	Nefat Ramla	Nefat Ramla,Ramla,Ramla Sub-district,npt rmlh,rmlh,נפת רמלה,רמלה	31.93333	34.91667	A	ADM2	IL		02	12046847			0		71	Asia/Jerusalem	2019-05-11
+12046848	Nefat Petaẖ Tiqvva	Nefat Petah Tiqvva	Nefat Petah Tiqvva,Nefat Petah Tiqwwa,Nefat Petaẖ Tiqvva,Nefat Petaẖ Tiqwwa,Petah Tiqvva,Petaẖ Tiqvva,Sub-District Petah Tiqwa,npt pth tqwwh,pth tqwwh,נפת פתח תקווה,פתח תקווה	32.11667	34.91667	A	ADM2	IL		02	12046848			0		24	Asia/Jerusalem	2019-05-11
+12046849	Nefat HaSharon	Nefat HaSharon	HaSharon,Nefat HaSharon,Sharon Sub-district,hsrwn,npt hsrwn,השרון,נפת השרון	32.31667	34.91667	A	ADM2	IL		02	12046849			0		44	Asia/Jerusalem	2019-05-11
+12046850	Nefat Tel Aviv	Nefat Tel Aviv	Nefat Tel Aviv,Tel Aviv,Tel Aviv Sub-district,נפת תל אביב,תל אביב	32.1	34.8	A	ADM2	IL		05	12046850			0		6	Asia/Jerusalem	2019-05-11
+12046851	Nefat H̱adera	Nefat Hadera	Hadera,Hadera Sub-district,H̱adera,Nefat Hadera,Nefat H̱adera,hdrh,npt hdrh,חדרה,נפת חדרה	32.51667	34.98333	A	ADM2	IL		04	12046851			0		41	Asia/Jerusalem	2019-05-11
+12046852	Nefat Yizre‘el	Nefat Yizre`el	Nefat Yizre`el,Nefat Yizre‘el,Sub-district Yizre`el,Sub-district Yizre‘el,Yizre`el,Yizre‘el,יזרעאל,נפת יזרעאל	32.61667	35.33333	A	ADM2	IL		03	12046852			0		226	Asia/Jerusalem	2019-05-11
+12046853	Nefat Tsefat	Nefat Tsefat	Nefat Tsefat,Nefat Zefat,Nefat Ẕefat,Tsefat,Zefat Sub-district,npt zpt,zpt,נפת צפת,צפת	33.05	35.55	A	ADM2	IL		03	12046853			0		301	Asia/Jerusalem	2019-05-11
+12046854	Nafat HaGolan	Nafat HaGolan	Golan,Golan Sub-district,Nafat HaGolan,gwln,npt hgwln,גולן,נפת הגולן	33.03333	35.75	A	ADM2	IL		03	12046854			0		665	Asia/Jerusalem	2020-01-11
+12046855	Nefat Kinneret	Nefat Kinneret	Kinneret,Kinneret Sub-district,Nefat Kinneret,knrt,npt knrt,כנרת,נפת כנרת	32.76667	35.53333	A	ADM2	IL		03	12046855			0		213	Asia/Jerusalem	2019-05-11

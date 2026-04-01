@@ -1,0 +1,28 @@
+﻿12047239	Abu Dhabi Municipality	Abu Dhabi Municipality	Abu Dhabi,Abu Dhabi Metropolitan Area,Abu Dhabi Region,abwzby,أبوظبي	24.41361	54.43295	A	ADM2	AE		01	101			1797294		5	Asia/Dubai	2024-03-11
+12047240	Al Ain Municipality	Al Ain Municipality	Al Ain,Al Ain Region,Eastern Region,alʿyn,العين	24.15223	55.8204	A	ADM2	AE		01	102			776935		318	Asia/Dubai	2024-03-11
+12047241	Al Dhafra	Al Dhafra	Al Dhafra,Al Dhafra Municipality,Al Dhafra Region,Al Gharbia,WRM,Western Region,mntqt alzfrt,منطقة الظفرة	23.65745	53.72225	A	ADM2	AE		01	103			319433		114	Asia/Dubai	2024-03-11
+12047242	Al Fujairah Municipality	Al Fujairah Municipality		25.13557	56.33279	A	ADM2	AE		04	701			168822		12	Asia/Dubai	2019-06-26
+12047243	Dibba Al Fujairah Municipality	Dibba Al Fujairah Municipality		25.5858	56.24792	A	ADM2	AE		04	702			67989		29	Asia/Dubai	2019-06-26
+12060391	Dhaid	Dhaid		25.26951	55.92024	A	ADM2	AE		06	302			20957		135	Asia/Dubai	2019-06-26
+12060392	Ajman	Ajman		25.40328	55.52341	A	ADM2	AE		02	401			490035		17	Asia/Dubai	2019-06-26
+12060393	Khor Fakkan	Khor Fakkan		25.33966	56.3028	A	ADM2	AE		06	304			40677		253	Asia/Dubai	2019-06-26
+12060394	Dibba Al Hesn	Dibba Al Hesn		25.61593	56.26899	A	ADM2	AE		06	307			13076		2	Asia/Dubai	2019-06-26
+12060395	Kalba	Kalba		24.99816	56.27207	A	ADM2	AE		06	305			27376		262	Asia/Dubai	2019-06-26
+12060396	Ras Al Khaimah	Ras Al Khaimah		25.46116	56.04058	A	ADM2	AE		05	601			351943		376	Asia/Dubai	2019-06-26
+12060397	Umm AL Quwain	Umm AL Quwain		25.49326	55.7352	A	ADM2	AE		07	501			93411		36	Asia/Dubai	2019-06-26
+12060398	Milehah	Milehah		25.10097	55.91282	A	ADM2	AE		06	309			4956		174	Asia/Dubai	2019-06-26
+12060399	Al Madam	Al Madam	Madam,Sha'biyyat Al Madam,Sha'biyyāt Al Madām	24.95536	55.7682	A	ADM2	AE		06	306			11560		182	Asia/Dubai	2024-10-18
+12060400	Sharjah	Sharjah		25.33446	55.50852	A	ADM2	AE		06	301			1324473		32	Asia/Dubai	2020-03-23
+12060401	Al Hamriyah	Al Hamriyah		25.46121	55.54813	A	ADM2	AE		06	303			3430		12	Asia/Dubai	2019-06-26
+12060402	Manama	Manama		25.32568	56.00259	A	ADM2	AE		02	402			5823		191	Asia/Dubai	2019-06-26
+12060403	Masfut	Masfut	Masfout,Masfut,Maşfūt,Sha'biyyat Masfut,Sha'biyyāt Maşfūt,Sha'biyyāt Maṣfūt	24.83982	56.05158	A	ADM2	AE		02	403			8988		373	Asia/Dubai	2025-03-25
+12060404	Al Batayih	Al Batayih		25.22317	55.74272	A	ADM2	AE		06	308			4116		105	Asia/Dubai	2019-06-26
+13060544	Sector 6	Sector 6	Central	25.09277	55.3003	A	ADM2	AE		03	600			0		17	Asia/Dubai	2024-09-03
+13060545	Sector 2	Sector 2	North	25.23909	55.44523	A	ADM2	AE		03	200			0		15	Asia/Dubai	2024-09-03
+13060546	Sector 8	Sector 8	East	24.9283	55.66193	A	ADM2	AE		03	800			0		190	Asia/Dubai	2024-09-03
+13060547	Sector 9	Sector 9	South	24.82036	55.36488	A	ADM2	AE		03	900			0		98	Asia/Dubai	2024-09-03
+13060548	Sector 1	Sector 1	Northwest	25.32721	55.2766	A	ADM2	AE		03	100			0		-9999	Asia/Dubai	2024-09-03
+13060549	Sector 5	Sector 5	Southwest	25.00985	55.01205	A	ADM2	AE		03	500			0		-9999	Asia/Dubai	2024-09-03
+13060550	Sector 4	Sector 4	North Central	25.19242	55.40649	A	ADM2	AE		03	400			0		18	Asia/Dubai	2024-09-03
+13060551	Sector 7	Sector 7	Northeast	25.12481	55.59517	A	ADM2	AE		03	700			0		103	Asia/Dubai	2024-09-03
+13060552	Sector 3	Sector 3	West	25.22984	55.16069	A	ADM2	AE		03	300			0		-9999	Asia/Dubai	2024-09-03

@@ -1,0 +1,32 @@
+﻿7669150	Nossa Senhora da Luz	Nossa Senhora da Luz	Nossa Senhora da Luz	15.21529	-23.16055	A	ADM2	CV		04	7669150			0		86	Atlantic/Cape_Verde	2019-01-09
+11429194	Nossa Senhora da Conceicao	Nossa Senhora da Conceicao	Nossa Senhora da Conceicao	14.89	-24.43	A	ADM2	CV		18	11429194			0		681	Atlantic/Cape_Verde	2019-01-09
+11429279	São João Baptista	Sao Joao Baptista	Sao Joao Baptista	14.84525	-24.67941	A	ADM2	CV		02	11429279			0		314	Atlantic/Cape_Verde	2019-01-09
+11468013	Nossa Senhora do Rosário	Nossa Senhora do Rosario	Nossa Senhora do Rosario	17.16	-25.06	A	ADM2	CV		07	11468013			0		582	Atlantic/Cape_Verde	2019-01-09
+11468093	Nossa Senhora do Monte	Nossa Senhora do Monte	Nossa Senhora do Monte	14.86168	-24.72336	A	ADM2	CV		02	11468093			0		444	Atlantic/Cape_Verde	2019-01-09
+11468611	Sao Nicolau Tolentino	Sao Nicolau Tolentino	Sao Nicolau Tolentino	15.01279	-23.57054	A	ADM2	CV		17	11468611			0		584	Atlantic/Cape_Verde	2019-01-09
+11468615	Santo Crucifixo	Santo Crucifixo	Santo Crucifixo	17.12931	-25.12075	A	ADM2	CV		07	11468615			0		767	Atlantic/Cape_Verde	2019-01-09
+11996035	Nossa Senhora da Lapa	Nossa Senhora da Lapa	Nossa Senhora da Lapa	16.65639	-24.32906	A	ADM2	CV		22	11996035			0		389	Atlantic/Cape_Verde	2019-01-09
+11996036	Nossa Senhora das Dores	Nossa Senhora das Dores	Nossa Senhora das Dores	16.73695	-22.93153	A	ADM2	CV		08	11996036			0		54	Atlantic/Cape_Verde	2019-01-09
+11996037	Nossa Senhora da Ajuda	Nossa Senhora da Ajuda	Nossa Senhora da Ajuda	15.00038	-24.33893	A	ADM2	CV		13	11996037			0		1283	Atlantic/Cape_Verde	2019-01-09
+11996038	Nossa Senhora do Livramento	Nossa Senhora do Livramento	Nossa Senhora do Livramento	17.18228	-25.11019	A	ADM2	CV		07	11996038			0		398	Atlantic/Cape_Verde	2019-01-09
+11996039	Nossa Senhora do Rosario	Nossa Senhora do Rosario	Nossa Senhora do Rosario	16.59538	-24.1919	A	ADM2	CV		22	11996039			0		53	Atlantic/Cape_Verde	2019-01-09
+11996040	Santa Catarina do Fogo	Santa Catarina do Fogo	Santa Catarina do Fogo	14.89571	-24.33851	A	ADM2	CV		24	11996040			0		1332	Atlantic/Cape_Verde	2019-01-09
+11996041	Santa Isabel	Santa Isabel	Santa Isabel	16.08661	-22.85858	A	ADM2	CV		01	11996041			0		29	Atlantic/Cape_Verde	2019-01-09
+11996042	Santo Andre	Santo Andre	Santo Andre	17.07671	-25.27536	A	ADM2	CV		21	11996042			0		1048	Atlantic/Cape_Verde	2019-01-09
+11996043	Santo Antonio das Pombas	Santo Antonio das Pombas	Santo Antonio das Pombas	17.11152	-25.01255	A	ADM2	CV		05	11996043			0		657	Atlantic/Cape_Verde	2019-01-09
+11996044	Sao Salvador do Mundo	Sao Salvador do Mundo	Sao Salvador do Mundo	15.09073	-23.62957	A	ADM2	CV		26	11996044			0		291	Atlantic/Cape_Verde	2019-01-09
+11996045	Sao Pedro Apostolo	Sao Pedro Apostolo	Sao Pedro Apostolo	17.12925	-25.1769	A	ADM2	CV		07	11996045			0		601	Atlantic/Cape_Verde	2019-01-09
+11996046	Nossa Senhora da Luz	Nossa Senhora da Luz	Nossa Senhora da Luz	15.02266	-23.47796	A	ADM2	CV		17	11996046			0		86	Atlantic/Cape_Verde	2019-01-09
+11996047	Nossa Senhora da Luz	Nossa Senhora da Luz	Nossa Senhora da Luz	16.82832	-24.92807	A	ADM2	CV		11	11996047			0		117	Atlantic/Cape_Verde	2019-01-09
+11996048	Sao Francisco de Assis	Sao Francisco de Assis	Sao Francisco de Assis	16.59522	-24.35862	A	ADM2	CV		27	11996048			0		537	Atlantic/Cape_Verde	2019-01-09
+11996049	Sao Joao Baptista	Sao Joao Baptista	Sao Joao Baptista	16.11525	-22.741	A	ADM2	CV		01	11996049			0		50	Atlantic/Cape_Verde	2019-01-09
+11996050	Sao Joao Baptista	Sao Joao Baptista	Sao Joao Baptista	17.01202	-25.17769	A	ADM2	CV		21	11996050			0		532	Atlantic/Cape_Verde	2019-01-09
+11996051	Sao Lourenco	Sao Lourenco	Sao Lourenco	14.97426	-24.43615	A	ADM2	CV		18	11996051			0		1011	Atlantic/Cape_Verde	2019-01-09
+11996052	Santa Catarina	Santa Catarina	Santa Catarina	15.10547	-23.7082	A	ADM2	CV		15	11996052			0		395	Atlantic/Cape_Verde	2019-01-09
+11996053	Santiago Maior	Santiago Maior	Santiago Maior	15.11122	-23.55217	A	ADM2	CV		16	11996053			0		78	Atlantic/Cape_Verde	2019-01-09
+11996054	Santo Amaro Abade	Santo Amaro Abade	Santo Amaro Abade	15.2645	-23.71772	A	ADM2	CV		20	11996054			0		169	Atlantic/Cape_Verde	2019-01-09
+11996055	Sao Lourenco Dos Orgaos	Sao Lourenco Dos Orgaos	Sao Lourenco Dos Orgaos	15.06491	-23.59348	A	ADM2	CV		25	11996055			0		214	Atlantic/Cape_Verde	2019-01-09
+11996056	Sao Miguel Arcanjo	Sao Miguel Arcanjo	Sao Miguel Arcanjo	15.19327	-23.63913	A	ADM2	CV		19	11996056			0		360	Atlantic/Cape_Verde	2019-01-09
+11996057	Nossa Senhora da Graca	Nossa Senhora da Graca	Nossa Senhora da Graca	14.9501	-23.52092	A	ADM2	CV		14	11996057			0		130	Atlantic/Cape_Verde	2019-01-09
+11996058	Santissimo Nome de Jesus	Santissimo Nome de Jesus	Santissimo Nome de Jesus	14.9421	-23.59872	A	ADM2	CV		23	11996058			0		214	Atlantic/Cape_Verde	2019-01-09
+11996059	Sao Joao Baptista	Sao Joao Baptista	Sao Joao Baptista	14.98977	-23.6564	A	ADM2	CV		23	11996059			0		377	Atlantic/Cape_Verde	2019-01-09

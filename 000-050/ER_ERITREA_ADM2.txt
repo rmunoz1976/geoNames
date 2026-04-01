@@ -1,0 +1,58 @@
+﻿9165816	Af'abet	Af'abet		16.18333	38.68333	A	ADM2	ER		06	307			0		992	Africa/Asmara	2021-03-07
+9165822	Dghe	Dghe		15.66237	37.54646	A	ADM2	ER		04	504			0		502	Africa/Asmara	2021-03-07
+9166015	Berikh	Berikh		15.3321	38.76714	A	ADM2	ER		05	202			0		2315	Africa/Asmara	2021-03-07
+9166018	Ghala Nefhi	Ghala Nefhi		15.24944	38.78417	A	ADM2	ER		05	203			0		2199	Africa/Asmara	2021-03-07
+9166024	Serejaka	Serejaka		15.49709	38.84374	A	ADM2	ER		05	201			0		2365	Africa/Asmara	2021-03-10
+9166027	South Eastern Subregion	South Eastern Subregion		15.32449	38.94417	A	ADM2	ER		05	205			0		2361	Africa/Asmara	2021-03-10
+9166028	South Western Subregion	South Western Subregion		15.31487	38.90925	A	ADM2	ER		05	206			0		2325	Africa/Asmara	2021-03-10
+9166029	Adi Tekelezan Subregion	Adi Tekelezan Subregion	mntqt frʿyt ʿdy tklyzan,منطقة فرعية عدي تكليزان	15.56931	38.77615	A	ADM2	ER		01	401			0		2245	Africa/Asmara	2021-03-07
+9166032	Asmat	Asmat	asmat,mntqt frʿyt asmat,أسماط,منطقة فرعية أسماط	16.2498	38.0331	A	ADM2	ER		01	408			0		904	Africa/Asmara	2021-03-07
+9166033	Elabered Subregion	Elabered Subregion	mntqt frʿyt ʿlabrʿd‎‎,منطقة فرعية علابرعد‎‎	15.7106	38.6286	A	ADM2	ER		01	402			0		1552	Africa/Asmara	2021-03-07
+9166034	North Eastern Subregion	North Eastern Subregion		15.37314	38.9338	A	ADM2	ER		05	207			0		2378	Africa/Asmara	2021-03-10
+9166038	Hagaz Subregion	Hagaz Subregion	hqaz,mntqt frʿyt hqaz,حقاز,حقّاز,منطقة فرعية حقاز	15.70923	38.26874	A	ADM2	ER		01	405			0		857	Africa/Asmara	2021-03-07
+9166039	Halhal Subregion	Halhal Subregion		15.993	38.229	A	ADM2	ER		01	406			0		1953	Africa/Asmara	2021-03-07
+9166040	Habero Subregion	Habero Subregion		16.275	38.4	A	ADM2	ER		01	407			0		1340	Africa/Asmara	2021-03-07
+9166042	Kerkebet	Kerkebet		16.1	37.41667	A	ADM2	ER		01	409			0		412	Africa/Asmara	2021-03-07
+9166043	Keren Subregion	Keren Subregion	aqlym krn,krn,kyryn dhyly ʿlaqہ,إقليم كرن,كرن,کیرین ذیلی علاقہ	15.78333	38.45	A	ADM2	ER		01	404			0		1400	Africa/Asmara	2021-03-07
+9166044	Sela Subregion	Sela Subregion		16.88	37.44	A	ADM2	ER		01	410			0		307	Africa/Asmara	2021-03-07
+9166045	Akurdet Subregion	Akurdet Subregion		15.55	37.88333	A	ADM2	ER		04	503			0		616	Africa/Asmara	2021-03-07
+9166046	Barentu Subregion	Barentu Subregion	aqlym barntw,barntw,إقليم بارنتو,بارنتو	15.112	37.586	A	ADM2	ER		04	507			0		998	Africa/Asmara	2021-03-07
+9166047	Dahlak Subregion	Dahlak Subregion		15.73422	40.07429	A	ADM2	ER		06	303			0		29	Africa/Asmara	2021-03-11
+9166048	Ghinda Subregion	Ghinda Subregion		15.44454	39.09586	A	ADM2	ER		06	305			0		920	Africa/Asmara	2021-03-07
+9166050	Massawa Subregion	Massawa Subregion		15.60917	39.44528	A	ADM2	ER		06	304			0		9	Africa/Asmara	2021-03-07
+9166052	Nakfa Subregion	Nakfa Subregion	aqalym nqfa,aqalym nqft‎,أقاليم نقفا,أقاليم نقفة‎	16.66667	38.46667	A	ADM2	ER		06	308			0		1750	Africa/Asmara	2021-03-07
+9166054	Dekemhare Subregion	Dekemhare Subregion	mntqt frʿyt dqmhry,منطقة فرعية دقمحري	15.06667	39.03333	A	ADM2	ER		02	604			0		2039	Africa/Asmara	2021-03-07
+9166055	Mendefera Subregion	Mendefera Subregion		14.88333	38.81667	A	ADM2	ER		02	603			0		1968	Africa/Asmara	2021-03-07
+9166056	Senafe Subregion	Senafe Subregion		14.7	39.41667	A	ADM2	ER		02	607			0		2431	Africa/Asmara	2021-03-07
+9166057	Southern Denkalya Subregion	Southern Denkalya Subregion		13.06777	42.5105	A	ADM2	ER		03	103			0		210	Africa/Asmara	2021-03-10
+10114297	Mai-Mne Subregion	Mai-Mne Subregion		14.55195	38.50076	A	ADM2	ER		02	611			0		1833	Africa/Asmara	2021-03-07
+10172859	Logo Anseba	Logo Anseba		15.36423	38.6372	A	ADM2	ER		04	501			0		1283	Africa/Asmara	2021-03-07
+10177504	Teseney Subregion	Teseney Subregion	aqlym tsny,tsny,tsny dhyly ʿlaqہ,إقليم تسني,تسني,تسنی ذیلی علاقہ	15.11066	36.65957	A	ADM2	ER		04	513			0		597	Africa/Asmara	2021-03-07
+10177509	Haykota Subregion	Haykota Subregion		15.18696	37.0786	A	ADM2	ER		04	510			0		695	Africa/Asmara	2021-03-07
+10177510	Gogne Subregion	Gogne Subregion		15.09831	37.3645	A	ADM2	ER		04	508			0		793	Africa/Asmara	2021-03-07
+10177511	Mogolo Subregion	Mogolo Subregion		15.26696	37.58423	A	ADM2	ER		04	505			0		742	Africa/Asmara	2021-03-07
+10177512	Mensura Subregion	Mensura Subregion		15.53044	38.21594	A	ADM2	ER		04	502			0		827	Africa/Asmara	2021-03-07
+10177513	Shambuko Subregion	Shambuko Subregion		14.92463	37.8376	A	ADM2	ER		04	506			0		920	Africa/Asmara	2021-03-07
+10177514	Areza Subregion	Areza Subregion		14.91825	38.58021	A	ADM2	ER		02	602			0		1843	Africa/Asmara	2021-03-07
+10375723	Central Denkalya Subregion	Central Denkalya Subregion		13.9333	41.7	A	ADM2	ER		03	102			0		5	Africa/Asmara	2021-03-07
+10627798	Geleb Subregion	Geleb Subregion		15.79262	38.79581	A	ADM2	ER		01	403			0		1972	Africa/Asmara	2021-03-07
+10628668	Ghelaelo	Ghelaelo		14.74626	40.16226	A	ADM2	ER		06	301			0		8	Africa/Asmara	2021-03-07
+10628671	Foro Subregion	Foro Subregion		15.20934	39.519	A	ADM2	ER		06	302			0		306	Africa/Asmara	2021-03-07
+12217604	Adi Keyh	Adi Keyh		14.87824	39.40434	A	ADM2	ER		02	606			0		2415	Africa/Asmara	2021-03-07
+12217605	Adi Quala	Adi Quala		14.59673	38.84797	A	ADM2	ER		02	609			0		1821	Africa/Asmara	2021-03-07
+12217606	Adobha	Adobha		17.22257	38.08252	A	ADM2	ER		06	310			0		1225	Africa/Asmara	2021-03-07
+12217607	Araeta	Araeta		14.37334	40.95664	A	ADM2	ER		03	101			0		498	Africa/Asmara	2021-03-07
+12217608	Dbarwa	Dbarwa		15.10702	38.70992	A	ADM2	ER		02	601			0		2159	Africa/Asmara	2021-03-07
+12217609	Hamelmalo	Hamelmalo		15.90344	38.43387	A	ADM2	ER		01	411			0		1252	Africa/Asmara	2021-03-07
+12217610	Karura	Karura		17.33952	38.62668	A	ADM2	ER		06	309			0		301	Africa/Asmara	2021-03-07
+12217611	Emni Haili	Emni Haili		14.7284	38.71253	A	ADM2	ER		02	610			0		1940	Africa/Asmara	2021-03-07
+12217612	Forto	Forto		15.80732	36.96117	A	ADM2	ER		04	509			0		598	Africa/Asmara	2021-03-07
+12217613	Lalay Gash	Lalay Gash		14.63374	37.40098	A	ADM2	ER		04	511			0		1017	Africa/Asmara	2021-03-07
+12217614	May Aini	May Aini		14.81024	39.06998	A	ADM2	ER		02	612			0		1535	Africa/Asmara	2021-03-07
+12217615	Shieb	Shieb		15.83189	39.0946	A	ADM2	ER		06	306			0		163	Africa/Asmara	2021-03-07
+12217616	Tsorona	Tsorona		14.65088	39.24213	A	ADM2	ER		02	608			0		1596	Africa/Asmara	2021-03-07
+12217617	Asseb	Asseb		12.96151	42.67131	A	ADM2	ER		03	104			0		32	Africa/Asmara	2021-03-07
+12217618	Molqi	Molqi		14.99496	38.28009	A	ADM2	ER		04	514			0		1719	Africa/Asmara	2021-03-07
+12217619	Omhajer	Omhajer		14.65466	36.78925	A	ADM2	ER		04	512			0		692	Africa/Asmara	2021-03-07
+12217620	Segeneity	Segeneity		15.03333	39.22186	A	ADM2	ER		02	605			0		2161	Africa/Asmara	2021-03-07
+12217621	Semienawi Mibrak	Semienawi Mibrak		15.3521	38.95545	A	ADM2	ER		05	204			0		2422	Africa/Asmara	2021-03-07

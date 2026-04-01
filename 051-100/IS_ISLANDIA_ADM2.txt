@@ -1,0 +1,64 @@
+﻿2625192	Vopnafjarðarhreppur	Vopnafjardarhreppur	7502,Vopnafjardarhreppur,Vopnafjarðarhreppur,Vopnafjoerdur,Vopnafjörður	65.67733	-15.01619	A	ADM2	IS		38	7502			0		151	Atlantic/Reykjavik	2016-12-03
+2625781	Tjörneshreppur	Tjoerneshreppur	6611,Tjorneshreppur,Tjörneshreppur	66.11667	-17.2	A	ADM2	IS		40	6611			0		182	Atlantic/Reykjavik	2016-12-03
+2626312	Svalbarðsstrandarhreppur	Svalbardsstrandarhreppur	6601,Svalbardhsstrandarhreppur,Svalbarðsstrandarhreppur	65.74138	-18.03513	A	ADM2	IS		40	6601			0		394	Atlantic/Reykjavik	2019-04-15
+2627072	Skaftárhreppur	Skaftarhreppur	8509,Skaftarhreppur,Skaftartunguhreppur,Skaftárhreppur,Skaftártunguhreppur	63.95948	-18.14491	A	ADM2	IS		42	8509			0		558	Atlantic/Reykjavik	2016-12-03
+2631018	Grýtubakkahreppur	Grytubakkahreppur	6602,Grytubakkahreppur,Grýtubakkahreppur	65.98333	-18.11667	A	ADM2	IS		40	6602			0		541	Atlantic/Reykjavik	2016-12-03
+2631712	Fljótsdalshreppur	Fljotsdalshreppur	7505,Fljotsdalshreppur,Fljótsdalshreppur	64.85275	-15.2568	A	ADM2	IS		38	7505			0		642	Atlantic/Reykjavik	2016-12-03
+2632286	Dalvíkurbyggð	Dalvikurbyggd	6400,Dalvikurbyggdh,Dalvikurhreppur,Dalvíkurbyggð,Dalvíkurhreppur	65.87318	-18.60844	A	ADM2	IS		40	6400			0		38	Atlantic/Reykjavik	2016-12-03
+2633275	Akureyrarkaupstaður	Akureyrarkaupstadur	6000,Akureyrarkaupstadhur,Akureyrarkaupstaður,Akureyri	65.6457	-18.20646	A	ADM2	IS		40	6000			0		326	Atlantic/Reykjavik	2016-12-03
+3345263	Sveitarfélagið Skagafjörður	Sveitarfelagid Skagafjoerdur	5200,Skagafjoerdur,Skagafjörður,Sveitarfelagid Skagafjoerdur,Sveitarfélagið Skagafjörður	65.50018	-19.44566	A	ADM2	IS		41	5200			0		161	Atlantic/Reykjavik	2016-12-03
+3345264	Eyjafjarðarsveit	Eyjafjardarsveit	6513,Eyjafjardarsveit,Eyjafjarðarsveit	65.33333	-18.16667	A	ADM2	IS		40	6513			0		665	Atlantic/Reykjavik	2016-12-03
+3345266	Þingeyjarsveit	THingeyjarsveit	6612,THingeyjarsveit,Þingeyjarsveit	65.37229	-17.59927	A	ADM2	IS		40	6612			1323		814	Atlantic/Reykjavik	2022-12-18
+3345270	Fjarðabyggð	Fjardabyggd	7300,Fjardabyggd,Fjarðabyggð	65.08333	-14	A	ADM2	IS		38	7300			5070		419	Atlantic/Reykjavik	2023-01-13
+3345272	Sveitarfélagið Hornafjörður	Sveitarfelagid Hornafjoerdur	7708	64.26772	-16.0204	A	ADM2	IS		38	7708			0		1163	Atlantic/Reykjavik	2019-04-15
+3345273	Mýrdalshreppur	Myrdalshreppur	8508,Myrdalshreppur,Mýrdalshreppur	63.5	-19	A	ADM2	IS		42	8508			0		411	Atlantic/Reykjavik	2016-12-03
+3345274	Rangárþing Eystra	Rangarthing Eystra	8613,Rangarthing Eystra,Rangárþing Eystra	63.66667	-19.83333	A	ADM2	IS		42	8613			0		236	Atlantic/Reykjavik	2016-12-03
+3345275	Rangárþing Ytra	Rangarthing Ytra	8614,Rangarthing Ytra,Rangárþing Ytra	63.94741	-19.66031	A	ADM2	IS		42	8614			0		708	Atlantic/Reykjavik	2016-12-03
+3345276	Skeiða- og Gnúpverjahreppur	Skeida- og Gnupverjahreppur	8720,Skeida- og Gnupverjahreppur,Skeiða- og Gnúpverjahreppur	64.34738	-19.37757	A	ADM2	IS		42	8720			0		637	Atlantic/Reykjavik	2016-12-03
+3412095	Vestmannaeyjabær	Vestmannaeyjabaer	8000,Iles Vestmann,Vaestmannaoearna,Vestmannaeyjar,Vestmannasaaret,Västmannaöarna,vuesutoman zhu dao,Îles Vestmann,ヴェストマン諸島	63.43877	-20.269	A	ADM2	IS		42	8000			0		27	Atlantic/Reykjavik	2016-12-03
+3412697	Tálknafjarðarhreppur	Talknafjardarhreppur	4604,Talknafjardarhreppur,Tálknafjarðarhreppur	65.61667	-23.88333	A	ADM2	IS		44	4604			0		-9999	Atlantic/Reykjavik	2016-12-03
+3412885	Súðavíkurhreppur	Sudavikurhreppur	4803,Sudhavikurhreppur,Súðavíkurhreppur	65.87801	-22.82642	A	ADM2	IS		44	4803			0		391	Atlantic/Reykjavik	2016-12-03
+3413282	Skorradalshreppur	Skorradalshreppur	3506,Skorradalshreppur	64.51667	-21.5	A	ADM2	IS		45	3506			0		59	Atlantic/Reykjavik	2016-12-03
+3413488	Skagabyggð	Skagabyggd	5611,Skagabyggdh,Skagabyggð,Skagahreppur	65.95	-20.25	A	ADM2	IS		41	5611			0		219	Atlantic/Reykjavik	2016-12-03
+3413544	Seltjarnarneskaupstaður	Seltjarnarneskaupstadur	1100,Seltjarnarnes,Seltjarnarneshreppur,Seltjarnarneskaupstadhur,Seltjarnarneskaupstaður	64.15541	-22.00294	A	ADM2	IS		39	1100			0		17	Atlantic/Reykjavik	2016-12-03
+3413831	Reykjavíkurborg	Reykjavikurborg	0000,Reykjavik,Reykjavikurborg,Reykjavík,Reykjavíkurborg	64.12109	-21.8264	A	ADM2	IS		39	0000			0		49	Atlantic/Reykjavik	2016-12-07
+3413878	Reykhólahreppur	Reykholahreppur	4502,Reykholahreppur,Reykhólahreppur	65.6099	-22.33324	A	ADM2	IS		44	4502			0		139	Atlantic/Reykjavik	2016-12-03
+3414073	Sveitarfélagið Ölfus	Sveitarfelagid OElfus	8717,Olfushreppur,Sveitarfelagidh Olfus,Sveitarfélagið Ölfus,Ölfushreppur	63.97443	-21.40008	A	ADM2	IS		42	8717			0		240	Atlantic/Reykjavik	2016-12-03
+3414383	Mosfellsbaer	Mosfellsbaer	1604,Mosfellsbaer,Mosfellsbær,Mosfellshreppur	64.15	-21.65	A	ADM2	IS		39	1604			0		193	Atlantic/Reykjavik	2016-12-07
+3415215	Kópavogsbær	Kopavogsbaer	1000,Kopavogsbaer,Kopavogur,Kópavogsbær,Kópavogur,koupavogjur,Коупавогюр	64.09844	-21.86795	A	ADM2	IS		39	1000			0		69	Atlantic/Reykjavik	2016-12-03
+3415359	Kjósarhreppur	Kjosarhreppur	1606,Kjosarhreppur,Kjósarhreppur	64.30644	-21.49919	A	ADM2	IS		39	1606			0		79	Atlantic/Reykjavik	2016-12-03
+3415588	Kaldrananeshreppur	Kaldrananeshreppur	4902,Kaldrananeshreppur	65.78333	-21.56667	A	ADM2	IS		44	4902			0		16	Atlantic/Reykjavik	2016-12-03
+3415669	Ísafjarðarbær	Isafjardarbaer	4200,Isafjardharbaer,Isafjordur,Ísafjarðarbær,Ísafjörđur	66.07586	-23.12794	A	ADM2	IS		44	4200			0		1	Atlantic/Reykjavik	2016-12-07
+3415760	Hveragerðisbær	Hveragerdisbaer	8716,Hveragerdhisbaer,Hveragerdishreppur,Hveragerðisbær,Hveragerðishreppur	64	-21.2	A	ADM2	IS		42	8716			0		30	Atlantic/Reykjavik	2016-12-03
+3415916	Hrunamannahreppur	Hrunamannahreppur	8710,Hrunamannahreppur	64.40944	-19.72237	A	ADM2	IS		42	8710			0		504	Atlantic/Reykjavik	2016-12-03
+3416708	Hafnarfjarðarkaupstaður	Hafnarfjardarkaupstadur	1400,Hafnarfjardharkaupstadhur,Hafnarfjarðarkaupstaður,Hafnarfjordur,Hafnarfjörður	64.02235	-21.9606	A	ADM2	IS		39	1400			0		57	Atlantic/Reykjavik	2016-12-03
+3417190	Garðabær	Gardabaer	1300,Gardabair,Gardabairas,Gardabajr,Gardabayr,Gardahreppur,Gardhabaer,Garðabær,Garðahreppur,Gorad Gardabajr,galeudabaileu,gardhabayr,garuzabairu,ghardhabayr,hardabairi,jia er zha bai er,Гардабайр,Гардабајр,Горад Гардабайр,Ґардабаїр,Գարդաբայր,גארדבאיר,غارذاباير,گارذابایر,ჰარდაბაირი,ガルザバイル,加尔扎拜尔,가르다바이르	64.05365	-21.8569	A	ADM2	IS		39	1300			0		134	Atlantic/Reykjavik	2016-12-03
+3417538	Eyja- og Miklaholtshreppur	Eyja- og Miklaholtshreppur	3713,Eyja- og Miklaholtshreppur,Eyjahreppur	64.85846	-22.54557	A	ADM2	IS		45	3713			0		165	Atlantic/Reykjavik	2016-12-03
+3418080	Borgarbyggð	Borgarbyggd	3609,Borgarbyggdh,Borgarbyggð,Borgarhreppur	64.71446	-21.23788	A	ADM2	IS		45	3609			0		124	Atlantic/Reykjavik	2016-12-03
+3418486	Ásahreppur	Asahreppur	8610,Asahreppur,Ásahreppur	63.87589	-20.59484	A	ADM2	IS		42	8610			0		17	Atlantic/Reykjavik	2016-12-03
+3418510	Árneshreppur	Arneshreppur	4901,Arneshreppur,Árneshreppur	66.06667	-21.75	A	ADM2	IS		44	4901			0		10	Atlantic/Reykjavik	2016-12-03
+3418655	Akraneskaupstaður	Akraneskaupstadur	3000,Akranes,Akraneskaupstadhur,Akraneskaupstaður	64.3241	-22.04373	A	ADM2	IS		45	3000			0		17	Atlantic/Reykjavik	2016-12-03
+3426188	Bolungarvíkurkaupstaður	Bolungarvikurkaupstadur	4100,Bolungarvik,Bolungarvikurkaupstadhur,Bolungarvík,Bolungarvíkurkaupstaður	66.14447	-23.33024	A	ADM2	IS		44	4100			0		184	Atlantic/Reykjavik	2016-12-03
+3426206	Dalabyggð	Dalabyggd	3811,Dalabyggdh,Dalabyggð	65.10121	-21.72871	A	ADM2	IS		45	3811			0		35	Atlantic/Reykjavik	2016-12-03
+3426207	Grundarfjarðarbær	Grundarfjardarbaer	3709,Grundarfjardharbaer,Grundarfjarðarbær	64.92164	-23.19501	A	ADM2	IS		45	3709			0		306	Atlantic/Reykjavik	2016-12-03
+3426209	Snæfellsbær	Snaefellsbaer	3714,Snaefellsbaer,Snæfellsbær	64.86667	-23.5	A	ADM2	IS		45	3714			0		573	Atlantic/Reykjavik	2016-12-03
+3426210	Húnaþing Vestra	Hunathing Vestra	5508,Hunathing Vestra,Húnaþing Vestra	65.25	-20.91667	A	ADM2	IS		41	5508			0		167	Atlantic/Reykjavik	2016-12-03
+3426211	Reykjanesbær	Reykjanesbaer	2000,Reykjanesbaer,Reykjanesbær	63.92397	-22.59951	A	ADM2	IS		43	2000			0		47	Atlantic/Reykjavik	2016-12-03
+3426215	Vesturbyggð	Vesturbyggd	4607,Vesturbyggdh,Vesturbyggð	65.55404	-23.4652	A	ADM2	IS		44	4607			0		300	Atlantic/Reykjavik	2016-12-03
+3426216	Bláskógabyggð	Blaskogabyggd	8721,Blaskogabyggd,Bláskógabyggð	64.41667	-20.33333	A	ADM2	IS		42	8721			0		380	Atlantic/Reykjavik	2016-12-03
+3426217	Grímsnes- og Grafningshreppur	Grimsnes- og Grafningshreppur	8719,Grimsnes- og Grafningshreppur,Grímsnes- og Grafningshreppur	64.08533	-20.9671	A	ADM2	IS		42	8719			0		200	Atlantic/Reykjavik	2016-12-03
+3426218	Sveitarfélagið Árborg	Sveitarfelagid Arborg	8200,Sveitarfelagidh Arborg,Sveitarfélagið Árborg	63.88707	-21.04554	A	ADM2	IS		42	8200			0		13	Atlantic/Reykjavik	2016-12-03
+9192036	Langanesbyggð	Langanesbyggd	6709,Langanesbyggdh,Langanesbyggð	66.05186	-15.18969	A	ADM2	IS		40	6709			0		131	Atlantic/Reykjavik	2016-12-03
+9192054	Norðurþing	Nordurthing	6100,Nordhurthing,Norðurþing	66.02432	-16.43541	A	ADM2	IS		40	6100			0		63	Atlantic/Reykjavik	2016-12-03
+9192070	Hörgársveit	Hoergarsveit	6515,Horgarsveit,Hörgársveit	65.64828	-18.49599	A	ADM2	IS		40	6515			0		517	Atlantic/Reykjavik	2016-12-03
+9192468	Fjallabyggð	Fjallabyggd	6250,Fjallabyggdh,Fjallabyggð	66.05962	-18.7822	A	ADM2	IS		40	6250			0		316	Atlantic/Reykjavik	2016-12-03
+9192469	Sveitarfélagið Skagaströnd	Sveitarfelagid Skagastroend	5609,Skagafjoerdur,Skagafjörður,Sveitarfelagidh Skagastrond,Sveitarfélagið Skagaströnd	65.85811	-20.1633	A	ADM2	IS		41	5609			0		478	Atlantic/Reykjavik	2016-12-03
+9192470	Strandabyggð	Strandabyggd	4911,Strandabyggdh,Strandabyggð	65.77455	-21.95725	A	ADM2	IS		44	4911			0		380	Atlantic/Reykjavik	2016-12-03
+9192471	Hvalfjarðarsveit	Hvalfjardarsveit	3511,Hvalfjardharsveit,Hvalfjarðarsveit	64.44265	-21.61086	A	ADM2	IS		45	3511			0		177	Atlantic/Reykjavik	2016-12-03
+9192632	Sveitarfélagið Vogar	Sveitarfelagid Vogar	2506,Sveitarfelagidh Vogar,Sveitarfélagið Vogar,Vogar	63.97228	-22.23826	A	ADM2	IS		43	2506			0		87	Atlantic/Reykjavik	2016-12-03
+9192633	Grindavíkurbær	Grindavikurbaer	2300,Grindavik,Grindavikurbaer,Grindavík,Grindavíkurbær	63.88425	-22.21786	A	ADM2	IS		43	2300			0		167	Atlantic/Reykjavik	2016-12-03
+9192636	Flóahreppur	Floahreppur	8722,Floahreppur,Flóahreppur	63.89569	-20.80159	A	ADM2	IS		42	8722			0		39	Atlantic/Reykjavik	2016-12-03
+12200082	Suðurnesjabær	Sudurnesjabaer		64.0166	-22.65656	A	ADM2	IS		43	2507			0		32	Atlantic/Reykjavik	2020-11-28
+12504066	Húnabyggð	Hunabyggd		65.6082	-20.24619	A	ADM2	IS		41	5613			1322		90	Atlantic/Reykjavik	2023-01-12
+12504084	Múlaþing	Mulathing		65.28664	-14.52352	A	ADM2	IS		38	7400			5020		105	Atlantic/Reykjavik	2023-01-13
+12508725	Stykkishólmur-Helgafellssveit	Stykkisholmur-Helgafellssveit	3716	65.00068	-22.72056	A	ADM2	IS		45	3716			1290		29	Atlantic/Reykjavik	2023-01-13

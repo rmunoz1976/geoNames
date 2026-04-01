@@ -1,0 +1,77 @@
+﻿2391090	Dogbo Tota	Dogbo Tota	Dogbo,Dogbo-Tota,Tota	6.79925	1.78413	A	ADM2	BJ		12	2391090			0		64	Africa/Porto-Novo	2019-01-08
+7668892	Commune of Adjohoun	Commune of Adjohoun	Adjohoun	6.71182	2.49399	A	ADM2	BJ		16	7668892			0		73	Africa/Porto-Novo	2019-01-08
+7668898	Bonou	Bonou	Bonou,Bonu,bo nu,shhrstan bwnw,Μπονού,شهرستان بونو,博努	6.86938	2.47934	A	ADM2	BJ		16	7668898			0		89	Africa/Porto-Novo	2019-01-08
+7668900	Dangbo	Dangbo	Dangbo	6.58039	2.49927	A	ADM2	BJ		16	7668900			0		1	Africa/Porto-Novo	2019-01-08
+7668907	Commune of Cove	Commune of Cove	Cove,Cové	7.345	2.273	A	ADM2	BJ		18	7668907			0		56	Africa/Porto-Novo	2019-01-08
+7668908	Commune of Ouinhi	Commune of Ouinhi	Ouinhi	7.068	2.468	A	ADM2	BJ		18	7668908			0		36	Africa/Porto-Novo	2019-01-08
+7668909	Commune of Zangnanado	Commune of Zangnanado	Zagnanado,Zangnanado	7.254	2.392	A	ADM2	BJ		18	7668909			0		84	Africa/Porto-Novo	2019-01-08
+7668910	Kouande	Kouande	Kouande	10.42486	1.71466	A	ADM2	BJ		08	7668910			0		398	Africa/Porto-Novo	2019-01-08
+7668916	Pehonko	Pehonko	Pehunco	10.27069	2.03744	A	ADM2	BJ		08	7668916			0		357	Africa/Porto-Novo	2019-01-08
+7668918	Kerou	Kerou	Kerou	10.91433	1.99153	A	ADM2	BJ		08	7668918			0		352	Africa/Porto-Novo	2019-01-08
+7668924	Lokossa	Lokossa	Lokossa	6.69802	1.74161	A	ADM2	BJ		15	7668924			0		77	Africa/Porto-Novo	2019-01-08
+7668926	Commune of Athieme	Commune of Athieme	Athieme	6.56924	1.70259	A	ADM2	BJ		15	7668926			0		13	Africa/Porto-Novo	2019-01-08
+7668931	Commune of Bohicon	Commune of Bohicon	Bohicon	7.163	2.094	A	ADM2	BJ		18	7668931			0		143	Africa/Porto-Novo	2019-01-08
+7668932	Commune of Za-Kpota	Commune of Za-Kpota	Za-Kpota	7.228	2.201	A	ADM2	BJ		18	7668932			0		121	Africa/Porto-Novo	2019-01-08
+7668934	Commune of Zogbodome	Commune of Zogbodome	Zogbodome,Zogbodomey	7.018	2.183	A	ADM2	BJ		18	7668934			0		35	Africa/Porto-Novo	2019-01-08
+7668935	Commune of Banikoara	Commune of Banikoara	Banikoara	11.33966	2.45915	A	ADM2	BJ		07	7668935			0		305	Africa/Porto-Novo	2019-01-08
+7668936	Commune of Ouidah	Commune of Ouidah	Ouidah,Whydah	6.371	2.113	A	ADM2	BJ		09	7668936			0		17	Africa/Porto-Novo	2018-06-01
+7668937	Commune of Kpomasse	Commune of Kpomasse	Kpomasse	6.461	2.021	A	ADM2	BJ		09	7668937			0		40	Africa/Porto-Novo	2019-01-08
+7668938	Commune of Tori-Bossito	Commune of Tori-Bossito	Tori-Bossito	6.538	2.143	A	ADM2	BJ		09	7668938			0		53	Africa/Porto-Novo	2019-01-08
+7668939	Porto-Novo	Porto-Novo	Porto-Novo	6.48047	2.62129	A	ADM2	BJ		16	7668939			0		20	Africa/Porto-Novo	2019-01-08
+7668940	Aguégués	Aguegues	Aguegues	6.462	2.51945	A	ADM2	BJ		16	7668940			0		0	Africa/Porto-Novo	2019-01-08
+7668941	Seme-Kpodji	Seme-Kpodji	Seme-Kpodji	6.39468	2.58172	A	ADM2	BJ		16	7668941			0		6	Africa/Porto-Novo	2019-01-08
+7669263	Ouake	Ouake	Ouake	9.59959	1.43707	A	ADM2	BJ		13	7669263			0		415	Africa/Porto-Novo	2019-01-08
+7669265	Commune of Tchaourou	Commune of Tchaourou	Tchaourou	9.0349	2.5169	A	ADM2	BJ		10	7669265			0		347	Africa/Porto-Novo	2019-01-08
+7669268	Commune of Parakou	Commune of Parakou	Parakou	9.34991	2.62262	A	ADM2	BJ		10	7669268			0		372	Africa/Porto-Novo	2019-01-08
+7669269	Ndali	Ndali	N'dali	9.73027	2.45032	A	ADM2	BJ		10	7669269			0		324	Africa/Porto-Novo	2019-01-08
+7669270	Bembereke	Bembereke	Bembereke	10.26755	2.77158	A	ADM2	BJ		10	7669270			0		321	Africa/Porto-Novo	2019-01-08
+7669273	Natitingou	Natitingou	Natitingou	10.25746	1.41397	A	ADM2	BJ		08	7669273			0		542	Africa/Porto-Novo	2019-01-08
+7669275	Copargo	Copargo	Copargo,Kopago,Kopargo,Koparnko,ke pa er ge,kwpargw,kwparqw,Κοπαργκό,Копарго,کوپارقو,کوپارگو,科帕爾戈	9.8375	1.54806	A	ADM2	BJ		13	7669275			0		518	Africa/Porto-Novo	2019-01-08
+7669349	Kalalè	Kalale	Kalale	10.36097	3.42087	A	ADM2	BJ		10	7669349			0		414	Africa/Porto-Novo	2019-01-08
+7669352	Pèrèrè	Perere	Perere	9.58703	2.99607	A	ADM2	BJ		10	7669352			0		403	Africa/Porto-Novo	2019-01-08
+7669355	Nikki	Nikki	Nikki	9.95336	3.15601	A	ADM2	BJ		10	7669355			0		392	Africa/Porto-Novo	2019-01-08
+7669357	Sinendé	Sinende	Sinende	10.21558	2.33527	A	ADM2	BJ		10	7669357			0		339	Africa/Porto-Novo	2019-01-08
+7670840	Commune of Ketou	Commune of Ketou	Ketou	7.45	2.626	A	ADM2	BJ		17	7670840			0		186	Africa/Porto-Novo	2019-01-08
+7670841	Commune of Pobe	Commune of Pobe	Pobe	7.097	2.698	A	ADM2	BJ		17	7670841			0		52	Africa/Porto-Novo	2019-01-08
+7874113	Cotonou	Cotonou	Cotonou	6.36736	2.4225	A	ADM2	BJ		14	7874113			0		8	Africa/Porto-Novo	2019-01-08
+7874152	Commune of Abomey-Calavi	Commune of Abomey-Calavi	Abomey-Calavi	6.508	2.325	A	ADM2	BJ		09	7874152			0		37	Africa/Porto-Novo	2019-01-08
+7874154	Commune of So-Ava	Commune of So-Ava	So-Ava,Sô-Ava	6.50159	2.42707	A	ADM2	BJ		09	7874154			0		0	Africa/Porto-Novo	2019-01-08
+7874155	Karimama	Karimama	Karimama	11.93816	2.75703	A	ADM2	BJ		07	7874155			0		231	Africa/Porto-Novo	2019-01-08
+7874156	Tanguieta	Tanguieta	Tanguieta	11.03621	1.41757	A	ADM2	BJ		08	7874156			0		276	Africa/Porto-Novo	2019-01-08
+7874157	Toucountouna	Toucountouna	Toucountouna	10.51424	1.45527	A	ADM2	BJ		08	7874157			0		411	Africa/Porto-Novo	2021-08-05
+7874158	Materi	Materi	Materi	10.7986	1.02756	A	ADM2	BJ		08	7874158			0		219	Africa/Porto-Novo	2019-01-08
+7874167	Commune of Glazoue	Commune of Glazoue	Glazoue,Glazoué	8.174	2.233	A	ADM2	BJ		11	7874167			0		163	Africa/Porto-Novo	2019-01-08
+7874170	Malanville	Malanville	Malanville	11.66636	3.26373	A	ADM2	BJ		07	7874170			0		187	Africa/Porto-Novo	2019-01-08
+7911056	Kandi	Kandi	Kandi	11.0706	2.86743	A	ADM2	BJ		07	7911056			0		284	Africa/Porto-Novo	2019-01-08
+8260647	Commune of Bante	Commune of Bante	Bante,Bantè	8.34	1.872	A	ADM2	BJ		11	8260647			0		227	Africa/Porto-Novo	2019-01-08
+8260648	Commune of Dassa-Zoume	Commune of Dassa-Zoume	Dassa,Dassa-Zoume,Dassa-Zoumé	7.696	2.278	A	ADM2	BJ		11	8260648			0		122	Africa/Porto-Novo	2019-01-08
+8260649	Commune of Ouesse	Commune of Ouesse	Ouesse,Ouèssè	8.561	2.523	A	ADM2	BJ		11	8260649			0		253	Africa/Porto-Novo	2019-01-08
+8260650	Commune of Savalou	Commune of Savalou	Savalou	7.862	1.849	A	ADM2	BJ		11	8260650			0		179	Africa/Porto-Novo	2019-01-08
+8260651	Commune of Save	Commune of Save	Save,Savé	7.959	2.567	A	ADM2	BJ		11	8260651			0		201	Africa/Porto-Novo	2019-01-08
+8260652	Commune of Abomey	Commune of Abomey	Abomey	7.188	1.973	A	ADM2	BJ		18	8260652			0		242	Africa/Porto-Novo	2019-01-08
+8260653	Commune of Agbangnizoun	Commune of Agbangnizoun	Agbangnizoun	7.076	1.961	A	ADM2	BJ		18	8260653			55001		146	Africa/Porto-Novo	2019-01-08
+8260654	Commune of Djidja	Commune of Djidja	Djidja	7.431	1.938	A	ADM2	BJ		18	8260654			0		148	Africa/Porto-Novo	2019-01-08
+8260655	Commune of Allada	Commune of Allada	Allada	6.682	2.128	A	ADM2	BJ		09	8260655			0		110	Africa/Porto-Novo	2019-01-08
+8260656	Commune of Toffo	Commune of Toffo	Toffo	6.856	2.181	A	ADM2	BJ		09	8260656			0		166	Africa/Porto-Novo	2019-01-08
+8260657	Commune of Ze	Commune of Ze	Ze,Zè	6.765	2.336	A	ADM2	BJ		09	8260657			0		58	Africa/Porto-Novo	2019-01-08
+8260658	Commune of Djougou	Commune of Djougou	Djougou	9.643	1.896	A	ADM2	BJ		13	8260658			237040		364	Africa/Porto-Novo	2019-01-08
+8334580	Commune of Sakete	Commune of Sakete	Sakete	6.766	2.661	A	ADM2	BJ		17	8334580			0		87	Africa/Porto-Novo	2019-01-08
+8335018	Commune of Houeyogbe	Commune of Houeyogbe	Houeyogbe	6.544	1.852	A	ADM2	BJ		15	8335018			0		50	Africa/Porto-Novo	2019-01-08
+8335019	Commune of Bopa	Commune of Bopa	Bopa	6.657	1.945	A	ADM2	BJ		15	8335019			0		10	Africa/Porto-Novo	2019-01-08
+8335162	Adjaouere	Adjaouere	Adja-Ouere	6.968	2.587	A	ADM2	BJ		17	8335162			0		91	Africa/Porto-Novo	2015-08-17
+8693304	Adjara	Adjara	Adjarra	6.49135	2.68101	A	ADM2	BJ		16	8693304			0		15	Africa/Porto-Novo	2019-01-08
+9063965	Akpro-Misserete	Akpro-Misserete	Akpro-Misserete	6.5625	2.58528	A	ADM2	BJ		16	9063965			0		34	Africa/Porto-Novo	2019-01-08
+9063966	Avrankou	Avrankou	Avrankou	6.55	2.66667	A	ADM2	BJ		16	9063966			0		27	Africa/Porto-Novo	2019-01-08
+9063970	Ifangni	Ifangni	Ifan'nkni,Ifangni,ayfangny,ifani,yi fang ni,Ιφανγκνί,Ифангни,ایفانگنی,イファニ,伊芳尼	6.66667	2.71667	A	ADM2	BJ		17	9063970			0		49	Africa/Porto-Novo	2019-01-08
+9166075	Grand-Popo	Grand-Popo	Gran-Popo,Grand Popas,Grand Popo,Grand-Popo,Nkran-Popo,da bo bo,grand pwpw  bnyn,qrand pwpw  bnyn,Γκραν-Ποπό,Гран-Попо,قراند پوپو، بنین,گراند پوپو، بنین,グラン・ポポ,大波波	6.28333	1.83333	A	ADM2	BJ		15	9166075			0		1	Africa/Porto-Novo	2019-01-08
+9166076	Comé	Come	Come	6.4	1.88333	A	ADM2	BJ		15	9166076			0		30	Africa/Porto-Novo	2019-01-08
+10344466	Cobly	Cobly	Cobly,Kobli,Kompli,Kɔbli,ke bu li,kwbly,Κομπλί,کوبلی,克布里	10.49222	0.99972	A	ADM2	BJ		08	10344466			0		247	Africa/Porto-Novo	2019-01-08
+10344467	Boukoumbé	Boukoumbe	Boukombe	10.18333	1.1	A	ADM2	BJ		08	10344467			0		237	Africa/Porto-Novo	2019-01-08
+10344468	Ségbana	Segbana	Segbana	10.92778	3.69444	A	ADM2	BJ		07	10344468			0		272	Africa/Porto-Novo	2019-01-08
+10344469	Gogounou	Gogounou	Gogounou	10.83861	2.83611	A	ADM2	BJ		07	10344469			0		319	Africa/Porto-Novo	2019-01-08
+10344470	Bassila	Bassila	Bassila	9.01667	1.66667	A	ADM2	BJ		13	10344470			0		386	Africa/Porto-Novo	2019-01-08
+10344472	Aplahoué	Aplahoue	Aplahoue	6.93333	1.68333	A	ADM2	BJ		12	10344472			0		124	Africa/Porto-Novo	2019-01-08
+10344473	Djakotomey	Djakotomey	Djakotomey,Jakotomɛ,Ntzakotome,gu ke tuo mei,jakwtwmy,Ντζακοτομέ,جاکوتومی,賈科托美	6.9	1.71667	A	ADM2	BJ		12	10344473			134000		137	Africa/Porto-Novo	2019-01-08
+10344474	Klouékanmè	Klouekanme	Klouekanme	6.98028	1.84222	A	ADM2	BJ		12	10344474			0		184	Africa/Porto-Novo	2019-01-08
+10344475	Lalo	Lalo	Lalo	6.91667	1.88333	A	ADM2	BJ		12	10344475			0		111	Africa/Porto-Novo	2019-01-08
+10344476	Toviklin	Toviklin	Toviklin	6.88796	1.80739	A	ADM2	BJ		12	10344476			0		129	Africa/Porto-Novo	2019-01-11

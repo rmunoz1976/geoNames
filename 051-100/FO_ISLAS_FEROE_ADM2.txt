@@ -1,0 +1,29 @@
+﻿2610303	Viðareiði	Vidareidi	Viderejde,Vidhareidhi,Viðareiði	62.36299	-6.53	A	ADM2	FO		NO	3			0		123	Atlantic/Faroe	2017-12-22
+2610344	Vestmanna	Vestmanna	Vestmanhavn,Vestmanna,Vestmanna Municipality	62.16422	-7.16927	A	ADM2	FO		ST	28			0		217	Atlantic/Faroe	2017-01-03
+2610808	Vágur	Vagur	Vag,Vagur,Vagur Municipality,Vágur,Vágur Municipality,Våg	61.46764	-6.80878	A	ADM2	FO		SU	49			0		144	Atlantic/Faroe	2017-01-03
+2611397	Tórshavn	Torshavn	Kalbak,Thorshavn,Torshavn,Torshavnar Municipality,Tórshavn,Tórshavnar Municipality	62.01927	-6.77444	A	ADM2	FO		ST	29			19266		15	Atlantic/Faroe	2017-01-03
+2612088	Sunnbøur	Sunnbour	Sumba,Sumba Municipality,Sumbo,Sumbø,Sunnbour,Sunnbøur	61.42498	-6.71883	A	ADM2	FO		SU	50			0		235	Atlantic/Faroe	2017-01-04
+2612891	Sørvágur	Sorvagur	Sorvag,Sorvagur,Sørvágur,Sørvåg	62.06917	-7.30247	A	ADM2	FO		VG	36			0		79	Atlantic/Faroe	2017-12-22
+2613479	Skúvoy	Skuvoy	Skuo,Skuvoy,Skuø,Skúvoy	61.76825	-6.82457	A	ADM2	FO		SA	43			0		147	Atlantic/Faroe	2017-12-22
+2613661	Skopun	Skopun	Skopen,Skopun,Skopun Municipality	61.90372	-6.88671	A	ADM2	FO	DK	SA	40			0		72	Atlantic/Faroe	2020-11-02
+2613922	Skálavík	Skalavik	Skalavik,Skalevig,Skálavík,Skålevig	61.83055	-6.67557	A	ADM2	FO		SA	41			0		55	Atlantic/Faroe	2017-12-22
+2614213	Sandur	Sandur	Sand,Sandur	61.84449	-6.80603	A	ADM2	FO		SA	39			0		113	Atlantic/Faroe	2017-12-26
+2614403	Runavík	Runavik		62.10677	-6.7202	A	ADM2	FO	DK	OS	14			3979		112	Atlantic/Faroe	2022-03-13
+2615133	Porkeri	Porkeri	Porkere,Porkeri,Porkeri Municipality	61.49158	-6.7717	A	ADM2	FO		SU	48			0		101	Atlantic/Faroe	2017-01-04
+2616501	Nes	Nes	Naes,Nes,Næs	62.09553	-6.72089	A	ADM2	FO		OS	15			0		102	Atlantic/Faroe	2017-01-03
+2618086	Kvívík	Kvivik	Kvivig,Kvivik,Kvivik Municipality,Kvívík,Kvívík Municipality	62.13005	-7.04636	A	ADM2	FO		ST	27			0		111	Atlantic/Faroe	2017-01-04
+2618121	Kunoy	Kunoy	Kuno,Kunoy,Kunø	62.31964	-6.67419	A	ADM2	FO		NO	6			0		611	Atlantic/Faroe	2017-01-03
+2618796	Klaksvik	Klaksvik	Klaksvig,Klaksvik,Klaksvikar,Klaksvikar kommuna,Klaksvíkar,Klaksvíkar kommuna	62.22636	-6.54922	A	ADM2	FO		NO	5			5268		399	Atlantic/Faroe	2017-01-03
+2619569	Hvannasund	Hvannasund	Hvannasund,Kvannesund	62.29667	-6.55334	A	ADM2	FO		NO	4			0		285	Atlantic/Faroe	2017-01-03
+2619592	Hvalbøur	Hvalbour	Hvalba,Hvalba Municipality,Hvalbour,Hvalbøur,Kvalbo,Kvalbø	61.59987	-6.96739	A	ADM2	FO		SU	44			0		134	Atlantic/Faroe	2017-01-04
+2619613	Húsavík	Husavik	Husavik,Husavikar,Husavikar kommuna,Husevig,Húsavík,Húsavíkar,Húsavíkar kommuna	61.81207	-6.68037	A	ADM2	FO		SA	42			0		88	Atlantic/Faroe	2017-12-22
+2619738	Hov	Hov	Hov,Hov Municipality,Hove	61.51582	-6.76895	A	ADM2	FO		SU	47			0		46	Atlantic/Faroe	2017-01-04
+2621795	Fugloy	Fugloy	Founkloi,Fugley,Fuglo,Fugloj,Fuglojus,Fugloy,Fuglø,Vostrau Fuglaj,fuguroi dao,niao dao,pwglwy,Φούγκλοϊ,Востраў Фуглай,Фуглой,פוגלוי,フグロイ島,鸟岛	62.33686	-6.29791	A	ADM2	FO		NO	1			37		71	Atlantic/Faroe	2019-04-15
+2621810	Fuglafjørður	Fuglafjordur	Fuglafjordhur,Fuglafjørður,Fuglefjord	62.25322	-6.80054	A	ADM2	FO		ST	11			0		117	Atlantic/Faroe	2017-01-04
+2622349	Fámjin	Famjin	Famien,Famjin,Famjin Municipality,Fámjin,Fámjin Municipality	61.52106	-6.86852	A	ADM2	FO		SU	46			0		249	Atlantic/Faroe	2017-01-04
+2622677	Eiði	Eidi	Aji,Eidhi,Eidi Municipality,Eidis,Eidis kommuna,Eiði,Eiði Municipality,Eiðis,Eiðis kommuna,Ejde,Айи	62.30086	-7.08541	A	ADM2	FO		OS	19			0		17	Atlantic/Faroe	2017-01-03
+7798679	Eystur	Eystur	Eystur Municipality	62.20747	-6.79367	A	ADM2	FO		OS	12			0		243	Atlantic/Faroe	2017-01-03
+7798680	Vága Municipality	Vaga Municipality	FAE,Vaga,Vaga Municipality,Vága,Vága Municipality	62.08267	-7.16171	A	ADM2	FO	DK	VG	34			0		75	Atlantic/Faroe	2017-01-03
+7798684	Tvøroyri	Tvoroyri	Tvoroyrar Kommuna,Tvøroyrar Kommuna	61.56457	-6.78543	A	ADM2	FO		SU	45			0		192	Atlantic/Faroe	2019-02-28
+7798685	Sunda	Sunda	Sunda Municipality	62.20523	-6.98181	A	ADM2	FO		ST	18			0		136	Atlantic/Faroe	2017-01-05
+7798686	Sjóvar	Sjovar	Sjovar Municipality,Sjóvar Municipality	62.13471	-6.79916	A	ADM2	FO		OS	17			0		323	Atlantic/Faroe	2017-01-03
