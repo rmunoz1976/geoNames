@@ -1,0 +1,3 @@
+﻿10629069	Commune of Azaguié	Commune of Azaguie		5.63333	-4.08333	A	ADM5	CI		06	10629069		10629069	22000		73	Africa/Abidjan	2016-05-16
+11205495	Commune de Zuénoula	Commune de Zuenoula		7.43333	-6.05	A	ADM5	CI		96	11153167	2279171		0		204	Africa/Abidjan	2016-08-01
+11205547	Commune de Ferkessédougou	Commune de Ferkessedougou	Ferekesedugu	9.58333	-5.2	A	ADM5	CI		87	11153177	2289048		0		339	Africa/Abidjan	2021-03-08

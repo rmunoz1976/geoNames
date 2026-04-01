@@ -1,0 +1,4 @@
+﻿7608805	Paquillao	Paquillao	Pakilyaw	15.49042	120.51639	A	ADM5	PH		03	63	036916000	7608807	0		82	Asia/Manila	2025-04-12
+11185681	Sultan Mastura	Sultan Mastura		7.28333	124.3	A	ADM5	PH		12				0		38	Asia/Manila	2016-06-23
+11185682	Datu Abdullah Sangki	Datu Abdullah Sangki		6.81934	124.53487	A	ADM5	PH		12				0		22	Asia/Manila	2016-06-23
+11185683	Mamasapano	Mamasapano		6.93843	124.51466	A	ADM5	PH		12				0		14	Asia/Manila	2016-06-23

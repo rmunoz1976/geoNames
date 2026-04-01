@@ -1,0 +1,78 @@
+﻿6618607	Paris 01	Paris 01	Paris  1er,Paris 01	48.8592	2.3417	A	ADM5	FR		11	75	751	75056	15114		50	Europe/Paris	2026-03-17
+6618608	Paris 02	Paris 02	2nd arrondissement,Paris  2e,Paris 02	48.8679	2.34411	A	ADM5	FR		11	75	751	75056	19847		49	Europe/Paris	2026-03-17
+6618609	Paris 03	Paris 03	IIIe,Paris  3e,Paris 03	48.8637	2.3615	A	ADM5	FR		11	75	751	75056	32179		43	Europe/Paris	2026-03-17
+6618610	Paris 04	Paris 04	IVe,Paris  4e,Paris 04	48.8601	2.3507	A	ADM5	FR		11	75	751	75056	27332		44	Europe/Paris	2026-03-17
+6618611	Paris 05	Paris 05	5eme arrondissement,5ème arrondissement,Paris  5e,Paris 05	48.8448	2.3471	A	ADM5	FR		11	75	751	75056	55252		62	Europe/Paris	2026-03-17
+6618612	Paris 06	Paris 06	Paris  6e,Paris 06,VIe	48.8493	2.33	A	ADM5	FR		11	75	751	75056	40389		47	Europe/Paris	2026-03-17
+6618613	Paris 07	Paris 07	Paris  7e,Paris 07,VIIe	48.8565	2.321	A	ADM5	FR		11	75	751	75056	48015		46	Europe/Paris	2026-03-17
+6618614	Paris 08	Paris 08	Paris  8e,Paris 08,VIIIe	48.8763	2.3183	A	ADM5	FR		11	75	751	75056	35317		49	Europe/Paris	2026-03-17
+6618615	Paris 09	Paris 09	IXe,Paris  9e,Paris 09	48.8757	2.33813	A	ADM5	FR		11	75	751	75056	57271		44	Europe/Paris	2026-03-17
+6618616	Paris 10	Paris 10	Paris 10,Paris 10e,Xe	48.8709	2.3561	A	ADM5	FR		11	75	751	75056	83873		48	Europe/Paris	2026-03-17
+6618617	Paris 11	Paris 11	Paris 11,Paris 11e,XIe	48.8574	2.3795	A	ADM5	FR		11	75	751	75056	138170		43	Europe/Paris	2026-03-17
+6618618	Paris 12	Paris 12	Paris 12,Paris 12e,XIIe	48.8412	2.3876	A	ADM5	FR		11	75	751	75056	138024		46	Europe/Paris	2026-03-17
+6618619	Paris 13	Paris 13	Paris 13,Paris 13e,XIIIe	48.8322	2.3561	A	ADM5	FR		11	75	751	75056	181271		63	Europe/Paris	2026-03-17
+6618620	Paris 14	Paris 14	Paris 14,Paris 14e,Paris 14eme,Paris 14ème,Paris XIV,XIVe	48.8331	2.3264	A	ADM5	FR		11	75	751	75056	136455		70	Europe/Paris	2026-03-17
+6618621	Paris 15	Paris 15	Paris 15,Paris 15e,Paris 15eme,Paris 15ème,Paris XV,XVe	48.8412	2.3003	A	ADM5	FR		11	75	751	75056	229713		47	Europe/Paris	2026-03-17
+6618622	Paris 16	Paris 16	Paris 16,Paris 16e,XVIe	48.8637	2.2769	A	ADM5	FR		11	75	751	75056	159386		67	Europe/Paris	2026-03-17
+6618623	Paris 17	Paris 17	Paris 17,Paris 17e,XVIIe	48.8835	2.3219	A	ADM5	FR		11	75	751	75056	159212		61	Europe/Paris	2026-03-17
+6618624	Paris 18	Paris 18	Paris 18,Paris 18e,XVIIIe	48.8925	2.3444	A	ADM5	FR		11	75	751	75056	183127		66	Europe/Paris	2026-03-17
+6618625	Paris 19	Paris 19	Paris 19,Paris 19e,XIXe	48.8817	2.3822	A	ADM5	FR		11	75	751	75056	178691		60	Europe/Paris	2026-03-17
+6618626	Paris 20	Paris 20	Paris 20,Paris 20e,XXe	48.8646	2.3984	A	ADM5	FR		11	75	751	75056	185140		96	Europe/Paris	2026-03-17
+8285495	Lyon 01	Lyon 01	Lyon 1er Arrondissement,Lyon Premier Arrondissement	45.76758	4.8345	A	ADM5	FR		84	69	691	69123	28717		180	Europe/Paris	2026-03-17
+8285496	Lyon 02	Lyon 02	Lyon 2e Arrondissement,Lyon Deuxieme Arrondissement,Lyon Deuxième Arrondissement	45.75423	4.83089	A	ADM5	FR		84	69	691	69123	29981		180	Europe/Paris	2026-03-17
+8285497	Lyon 03	Lyon 03	Lyon 3e Arrondissement,Lyon Troisieme Arrondissement,Lyon Troisième Arrondissement	45.76124	4.85184	A	ADM5	FR		84	69	691	69123	100679		171	Europe/Paris	2026-03-17
+8285498	Lyon 04	Lyon 04	Lyon 4e Arrondissement,Lyon Quatrieme Arrondissement,Lyon Quatrième Arrondissement	45.77507	4.82712	A	ADM5	FR		84	69	691	69123	34752		259	Europe/Paris	2026-03-17
+8285499	Lyon 05	Lyon 05	Lyon 5e Arrondissement,Lyon Cinquieme Arrondissement,Lyon Cinquième Arrondissement	45.76106	4.82677	A	ADM5	FR		84	69	691	69123	47777		179	Europe/Paris	2026-03-17
+8285500	Lyon 06	Lyon 06	Lyon 6e Arrondissement,Lyon Sixieme Arrondissement,Lyon Sixième Arrondissement	45.76788	4.85064	A	ADM5	FR		84	69	691	69123	49385		173	Europe/Paris	2026-03-17
+8285501	Lyon 07	Lyon 07	Lyon 7e Arrondissement,Lyon Septieme Arrondissement,Lyon Septième Arrondissement	45.74525	4.84197	A	ADM5	FR		84	69	691	69123	88326		170	Europe/Paris	2026-03-17
+8285502	Lyon 08	Lyon 08	Lyon 8e Arrondissement,Lyon Huitieme Arrondissement,Lyon Huitième Arrondissement	45.73626	4.86866	A	ADM5	FR		84	69	691	69123	85943		178	Europe/Paris	2026-03-17
+8285503	Lyon 09	Lyon 09	Lyon 9e Arrondissement,Lyon Neuvieme Arrondissement,Lyon Neuvième Arrondissement	45.77255	4.80326	A	ADM5	FR		84	69	691	69123	53567		173	Europe/Paris	2026-03-17
+8285504	Marseille 01	Marseille 01		43.29814	5.38407	A	ADM5	FR		93	13	133	13055	37599		32	Europe/Paris	2026-03-17
+8285505	Marseille 02	Marseille 02		43.29664	5.37034	A	ADM5	FR		93	13	133	13055	24378		6	Europe/Paris	2026-03-17
+8285506	Marseille 03	Marseille 03		43.30257	5.37583	A	ADM5	FR		93	13	133	13055	58029		32	Europe/Paris	2026-03-17
+8285507	Marseille 04	Marseille 04		43.30213	5.40141	A	ADM5	FR		93	13	133	13055	49363		49	Europe/Paris	2026-03-17
+8285508	Marseille 05	Marseille 05		43.29551	5.40055	A	ADM5	FR		93	13	133	13055	45702		39	Europe/Paris	2026-03-17
+8285509	Marseille 06	Marseille 06		43.29114	5.38244	A	ADM5	FR		93	13	133	13055	38476		32	Europe/Paris	2026-03-17
+8285510	Marseille 07	Marseille 07		43.28889	5.36485	A	ADM5	FR		93	13	133	13055	35173		30	Europe/Paris	2026-03-17
+8285511	Marseille 08	Marseille 08		43.27083	5.3821	A	ADM5	FR		93	13	133	13055	84683		24	Europe/Paris	2026-03-17
+8285512	Marseille 09	Marseille 09		43.25433	5.4057	A	ADM5	FR		93	13	133	13055	77406		31	Europe/Paris	2026-03-17
+8285513	Marseille 10	Marseille 10		43.27889	5.41523	A	ADM5	FR		93	13	133	13055	60317		24	Europe/Paris	2026-03-18
+8285514	Marseille 11	Marseille 11		43.2907	5.4384	A	ADM5	FR		93	13	133	13055	59883		49	Europe/Paris	2026-03-17
+8285515	Marseille 12	Marseille 12	Marseille Douzieme Arrondissement,Marseille Douzième Arrondissement	43.29614	5.43617	A	ADM5	FR		93	13	133	13055	64399		89	Europe/Paris	2026-03-18
+8285516	Marseille 13	Marseille 13		43.31856	5.40836	A	ADM5	FR		93	13	133	13055	95112		64	Europe/Paris	2026-03-18
+8285517	Marseille 14	Marseille 14		43.34447	5.38004	A	ADM5	FR		93	13	133	13055	60505		72	Europe/Paris	2026-03-18
+8285518	Marseille 15	Marseille 15		43.37224	5.35386	A	ADM5	FR		93	13	133	13055	79161		153	Europe/Paris	2026-03-18
+8285519	Marseille 16	Marseille 16		43.35982	5.33421	A	ADM5	FR		93	13	133	13055	15854		34	Europe/Paris	2026-03-18
+11876537	Bastide	Bastide		44.84595	-0.54983	A	ADM5	FR		75	33	332	33063	0		4	Europe/Paris	2018-06-10
+11876538	Chartrons - Grand Parc - Jardin Public	Chartrons - Grand Parc - Jardin Public		44.85528	-0.5776	A	ADM5	FR		75	33	332	33063	0		8	Europe/Paris	2018-06-10
+11876539	Centre ville	Centre ville		44.84236	-0.58332	A	ADM5	FR		75	33	332	33063	0		17	Europe/Paris	2018-06-10
+11876540	Nansouty - Saint Genès	Nansouty - Saint Genes		44.82161	-0.57487	A	ADM5	FR		75	33	332	33063	0		14	Europe/Paris	2018-06-10
+11876541	Bordeaux Sud	Bordeaux Sud		44.82537	-0.5584	A	ADM5	FR		75	33	332	33063	0		12	Europe/Paris	2018-06-10
+11876542	Saint Augustin - Tauzin - Alphonse Dupeux	Saint Augustin - Tauzin - Alphonse Dupeux		44.82926	-0.59803	A	ADM5	FR		75	33	332	33063	0		16	Europe/Paris	2018-06-10
+11876543	Bordeaux Maritime	Bordeaux Maritime		44.88646	-0.55823	A	ADM5	FR		75	33	332	33063	0		1	Europe/Paris	2025-10-15
+11876544	Caudéran	Cauderan		44.85149	-0.61753	A	ADM5	FR		75	33	332	33063	0		26	Europe/Paris	2018-06-10
+11919823	Koenigshoffen	Koenigshoffen		48.57909	7.71057	A	ADM5	FR		44	67	678	67482	0		147	Europe/Paris	2018-08-22
+11919824	Centre-ville	Centre-ville		48.58166	7.74794	A	ADM5	FR		44	67	678	67482	0		152	Europe/Paris	2018-08-22
+11919825	Hautepierre-Poteries	Hautepierre-Poteries		48.59144	7.7004	A	ADM5	FR		44	67	678	67482	0		144	Europe/Paris	2018-08-22
+11919826	Bourse-Esplanade-Krutenau	Bourse-Esplanade-Krutenau		48.57814	7.76548	A	ADM5	FR		44	67	678	67482	0		139	Europe/Paris	2018-08-22
+11919827	Port-du-Rhin	Port-du-Rhin		48.57384	7.79431	A	ADM5	FR		44	67	678	67482	0		140	Europe/Paris	2018-08-22
+11919828	Orangerie-Conseil-des-XV	Orangerie-Conseil-des-XV		48.58798	7.77265	A	ADM5	FR		44	67	678	67482	0		140	Europe/Paris	2018-08-22
+11919829	Gare-Tribunal	Gare-Tribunal		48.58753	7.74095	A	ADM5	FR		44	67	678	67482	0		140	Europe/Paris	2018-08-22
+11919830	Meinau	Meinau		48.55582	7.74717	A	ADM5	FR		44	67	678	67482	0		141	Europe/Paris	2018-08-22
+11919831	Elsau	Elsau		48.56551	7.72626	A	ADM5	FR		44	67	678	67482	0		138	Europe/Paris	2018-08-22
+11919832	Robertsau-Wacken	Robertsau-Wacken		48.61403	7.79884	A	ADM5	FR		44	67	678	67482	0		135	Europe/Paris	2018-08-22
+11919833	Montagne-Verte	Montagne-Verte		48.5676	7.71089	A	ADM5	FR		44	67	678	67482	0		143	Europe/Paris	2018-08-22
+11919834	Cronenbourg	Cronenbourg		48.59573	7.72221	A	ADM5	FR		44	67	678	67482	0		146	Europe/Paris	2018-08-22
+11919835	Neuhof	Neuhof		48.53991	7.76693	A	ADM5	FR		44	67	678	67482	0		140	Europe/Paris	2018-08-22
+11919836	Neudorf	Neudorf		48.56696	7.76809	A	ADM5	FR		44	67	678	67482	0		142	Europe/Paris	2018-08-22
+11919837	Neuhof2	Neuhof2		48.52521	7.78445	A	ADM5	FR		44	67	678	67482	0		140	Europe/Paris	2018-08-22
+12048453	Vieux-Pont - Sainte-Geneviève	Vieux-Pont - Sainte-Genevieve		48.88885	2.1893	A	ADM5	FR		11	92	922	92050	0		28	Europe/Paris	2019-06-07
+12048454	Parc Nord	Parc Nord		48.89718	2.22487	A	ADM5	FR		11	92	922	92050	0		53	Europe/Paris	2019-06-07
+12048455	Petit Nanterre	Petit Nanterre		48.91118	2.21893	A	ADM5	FR		11	92	922	92050	0		31	Europe/Paris	2019-06-07
+12048456	Plateau - Mont-Valérien	Plateau - Mont-Valerien		48.88193	2.20871	A	ADM5	FR		11	92	922	92050	0		69	Europe/Paris	2019-06-07
+12048457	Centre	Centre		48.89272	2.20074	A	ADM5	FR		11	92	922	92050	0		36	Europe/Paris	2019-06-07
+12048458	Chemin de l'Ile	Chemin de l'Ile		48.89838	2.1868	A	ADM5	FR		11	92	922	92050	0		27	Europe/Paris	2019-06-07
+12048459	Université	Universite		48.90027	2.21409	A	ADM5	FR		11	92	922	92050	0		35	Europe/Paris	2019-06-07
+12048460	République	Republique		48.90391	2.20491	A	ADM5	FR		11	92	922	92050	0		30	Europe/Paris	2019-06-07
+12048461	Parc Sud	Parc Sud		48.88852	2.22214	A	ADM5	FR		11	92	922	92050	0		60	Europe/Paris	2019-06-07
+12048462	La Boule - Champs Pierreux	La Boule - Champs Pierreux		48.88949	2.21049	A	ADM5	FR		11	92	922	92050	0		59	Europe/Paris	2019-06-07

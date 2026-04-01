@@ -1,0 +1,3 @@
+﻿11205022	Kouoptamo	Kouoptamo		5.65	10.6	A	ADM5	CM		08				0		1147	Africa/Douala	2016-07-26
+11205575	Darak	Darak		10.6316	14.6588	A	ADM5	CM		12				0		333	Africa/Douala	2016-08-02
+11205748	Bangangté	Bangangte		5.25	10.83333	A	ADM5	CM		08				0		908	Africa/Douala	2016-08-04

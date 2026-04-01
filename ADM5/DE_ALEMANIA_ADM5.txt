@@ -1,0 +1,237 @@
+﻿2830841	Bezirk Spandau	Bezirk Spandau	Arrondissement de Spandau,Bezirk Spandau,Distretto di Spandau,Spandau,שפנדאו	52.53333	13.16667	A	ADM5	DE		16	00	11000	11000000	220645		31	Europe/Berlin	2012-06-09
+2833019	Senne	Senne	Senne 1,Senne Eins	51.95823	8.52187	A	ADM5	DE		07	057	05711	05711000	0		118	Europe/Berlin	2013-03-22
+2846032	Köln Rodenkirchen	Koeln Rodenkirchen	Koeln-Rodenkirchen,Köln-Rodenkirchen,Rodenkirchen,Rodenkirchen  Cologne	50.87748	6.96928	A	ADM5	DE		07	053	05315	05315000	101421		52	Europe/Berlin	2014-05-15
+2848755	Bezirk Reinickendorf	Bezirk Reinickendorf	Arrondissement de Reinickendorf,Bezirk Reinickendorf,Distretto di Reinickendorf,Reinickendorf,ryynyqndwrp,רייניקנדורף	52.56667	13.35	A	ADM5	DE		16	00	11000	11000000	266408		42	Europe/Berlin	2022-04-13
+2855597	Bezirk Pankow	Bezirk Pankow	Arrondissement de Pankow,Berlin-Pankow,Bezirk Pankow,Bezirk Prenzlauer Berg,Bezirk Weissensee,Bezirk Weißensee,Distretto di Pankow,Pancovium,Pankov,Pankow,pnqw,Панков,פנקו	52.6	13.43333	A	ADM5	DE		16	00	11000	11000000	365021		48	Europe/Berlin	2012-09-19
+2864694	Bezirk Neukölln	Bezirk Neukolln	Berlin-Neukoelln,Berlin-Neukölln,Bezirk Neukoelln,Bezirk Neukölln,Neukoelln,Neukölln,Nova Colonia,nwyqln,נויקלן	52.48333	13.45	A	ADM5	DE		16	00	11000	11000000	313245		34	Europe/Berlin	2012-09-19
+2870912	Bezirk Mitte	Bezirk Mitte	Berlin-Mitte,Bezirk Tiergarten,Bezirk Wedding,Mitte,Verwaltungsbezirk Mitte	52.51667	13.36667	A	ADM5	DE		16	00	11000	11000000	333152		36	Europe/Berlin	2012-06-09
+2878100	Bezirk Lichtenberg	Bezirk Lichtenberg	Bezirk Hohenschonhausen,Bezirk Hohenschönhausen,Bezirk Lichtenberg,Lichtenberg,Montechiaro,Verwaltungsbezirk Lichtenberg	52.53333	13.5	A	ADM5	DE		16	00	11000	11000000	256280		56	Europe/Berlin	2012-06-09
+2923414	Gadderbaum	Gadderbaum		52.00182	8.51536	A	ADM5	DE		07	057	05711	05711000	0		173	Europe/Berlin	2012-11-22
+3336293	Bezirk Steglitz-Zehlendorf	Bezirk Steglitz-Zehlendorf	Bezirk Steglitz,Bezirk Zehlendorf	52.43333	13.25	A	ADM5	DE		16	00	11000	11000000	293692		46	Europe/Berlin	2012-06-08
+3336294	Bezirk Charlottenburg-Wilmersdorf	Bezirk Charlottenburg-Wilmersdorf	Bezirk Charlottenburg,Bezirk Charlottenburg-Wilmersdorf,Bezirk Wilmersdorf,Carolaeburgum-Wilmersdorfium,Charlottenburg-Wilmersdorf,Distretto di Charlottenburg-Wilmersdorf,შარლოტენბურგ-ვილმერსდორფი	52.5	13.28333	A	ADM5	DE		16	00	11000	11000000	314911		44	Europe/Berlin	2012-06-08
+3336295	Bezirk Friedrichshain-Kreuzberg	Bezirk Friedrichshain-Kreuzberg	Bezirk Friedrichshain,Bezirk Friedrichshain-Kreuzberg,Bezirk Kreuzberg,Distretto di Friedrichshain-Kreuzberg,Friedrichshain-Kreuzberg,Lucus Fridericianus-Mons Crucis,ფრიდრიხსჰაინ-კროიცბერგი	52.5	13.45	A	ADM5	DE		16	00	11000	11000000	265361		37	Europe/Berlin	2017-09-19
+3336296	Bezirk Marzahn-Hellersdorf	Bezirk Marzahn-Hellersdorf	Berlin Marzahn-Hellersdorf,Bezirk Hellersdorf,Bezirk Marzahn,Bezirk Marzahn-Hellersdorf,Marzahn-Hellersdorf	52.51667	13.58333	A	ADM5	DE		16	00	11000	11000000	249232		59	Europe/Berlin	2012-06-08
+3336297	Bezirk Tempelhof-Schöneberg	Bezirk Tempelhof-Schoneberg	Bezirk Schoneberg,Bezirk Schöneberg,Bezirk Tempelhof	52.46667	13.38333	A	ADM5	DE		16	00	11000	11000000	329361		49	Europe/Berlin	2017-09-19
+3336298	Bezirk Treptow-Köpenick	Bezirk Treptow-Kopenick	Bezirk Kopenick,Bezirk Köpenick,Bezirk Treptow	52.43333	13.6	A	ADM5	DE		16	00	11000	11000000	241487		40	Europe/Berlin	2012-06-08
+6946131	Allach-Untermenzing	Allach-Untermenzing		48.1887	11.4607	A	ADM5	DE		02	091	09162	09162000	29161		510	Europe/Berlin	2017-09-22
+6946139	Altstadt-Lehel	Altstadt-Lehel		48.1411	11.5865	A	ADM5	DE		02	091	09162	09162000	19207		515	Europe/Berlin	2017-07-11
+6946140	Au-Haidhausen	Au-Haidhausen		48.1326	11.5913	A	ADM5	DE		02	091	09162	09162000	56322		532	Europe/Berlin	2017-09-22
+6946141	Aubing-Lochhausen-Langwied	Aubing-Lochhausen-Langwied		48.1616	11.4141	A	ADM5	DE		02	091	09162	09162000	37352		522	Europe/Berlin	2025-03-12
+6946143	Feldmoching-Hasenbergl	Feldmoching-Hasenbergl		48.2147	11.5345	A	ADM5	DE		02	091	09162	09162000	56130		492	Europe/Berlin	2017-07-11
+6946144	Hadern	Hadern		48.1106	11.4653	A	ADM5	DE		02	091	09162	09162000	43981		547	Europe/Berlin	2017-09-22
+6946146	Ludwigsvorstadt-Isarvorstadt	Ludwigsvorstadt-Isarvorstadt		48.13012	11.56337	A	ADM5	DE		02	091	09162	09162000	47357		525	Europe/Berlin	2018-01-20
+6946147	Milbertshofen-Am Hart	Milbertshofen-Am Hart		48.2012	11.5736	A	ADM5	DE		02	091	09162	09162000	63970		499	Europe/Berlin	2017-07-11
+6946148	Neuhausen-Nymphenburg	Neuhausen-Nymphenburg		48.1556	11.5112	A	ADM5	DE		02	091	09162	09162000	87043		521	Europe/Berlin	2017-09-22
+6946149	Obergiesing-Fasangarten	Obergiesing-Fasangarten		48.1107	11.5927	A	ADM5	DE		02	091	09162	09162000	60000		539	Europe/Berlin	2017-09-22
+6946150	Pasing-Obermenzing	Pasing-Obermenzing		48.1468	11.4595	A	ADM5	DE		02	091	09162	09162000	66244		532	Europe/Berlin	2017-07-11
+6946151	Ramersdorf-Perlach	Ramersdorf-Perlach		48.1085	11.6041	A	ADM5	DE		02	091	09162	09162000	104737		538	Europe/Berlin	2017-09-22
+6946153	Schwabing-West	Schwabing-West		48.17055	11.58259	A	ADM5	DE		02	091	09162	09162000	62856		514	Europe/Berlin	2017-07-12
+6946154	Schwanthalerhöhe	Schwanthalerhoehe		48.1397	11.5388	A	ADM5	DE		02	091	09162	09162000	28004		524	Europe/Berlin	2017-07-11
+6946155	Sendling-Westpark	Sendling-Westpark		48.1132	11.5175	A	ADM5	DE		02	091	09162	09162000	52495		545	Europe/Berlin	2017-07-11
+6946156	Sendling	Sendling		48.12027	11.54079	A	ADM5	DE		02	091	09162	09162000	38567		536	Europe/Berlin	2017-09-22
+6946157	Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln	Thalkirchen-Obersendling-Forstenried-Fuerstenried-Solln		48.0888	11.5084	A	ADM5	DE		02	091	09162	09162000	83584		559	Europe/Berlin	2017-09-22
+6946158	Trudering-Riem	Trudering-Riem		48.113	11.6665	A	ADM5	DE		02	091	09162	09162000	62756		532	Europe/Berlin	2017-09-22
+6946179	Untergiesing-Harlaching	Untergiesing-Harlaching		48.0949	11.5735	A	ADM5	DE		02	091	09162	09162000	49502		550	Europe/Berlin	2017-07-11
+6946221	Frankfurt-Mitte-West	Frankfurt-Mitte-West		50.1341	8.61654	A	ADM5	DE		05	064	06412	06412000	0		104	Europe/Berlin	2018-01-19
+6946222	Frankfurt-Nord-Ost	Frankfurt-Nord-Ost		50.1639	8.68817	A	ADM5	DE		05	064	06412	06412000	0		138	Europe/Berlin	2018-01-19
+6946223	Frankfurt-Süd	Frankfurt-Sued		50.0819	8.67222	A	ADM5	DE		05	064	06412	06412000	0		108	Europe/Berlin	2018-01-19
+6946225	Innenstadt I	Innenstadt I		50.1039	8.64917	A	ADM5	DE		05	064	06412	06412000	0		100	Europe/Berlin	2018-01-19
+6946226	Innenstadt II	Innenstadt II		50.12173	8.65088	A	ADM5	DE		05	064	06412	06412000	0		107	Europe/Berlin	2018-01-25
+6946227	Innenstadt III	Innenstadt III		50.1233	8.69278	A	ADM5	DE		05	064	06412	06412000	0		118	Europe/Berlin	2018-01-19
+6946228	Bornheim/Ostend	Bornheim/Ostend		50.1239	8.71333	A	ADM5	DE		05	064	06412	06412000	0		120	Europe/Berlin	2018-01-19
+6946229	Kalbach/Riedberg	Kalbach/Riedberg		50.1846	8.63937	A	ADM5	DE		05	064	06412	06412000	0		132	Europe/Berlin	2018-01-19
+6947478	Köln-Chorweiler	Koeln-Chorweiler	Chorweiler,Chorweiler  Cologne,Koeln-Chorweiler,Köln-Chorweiler	51.0287	6.89475	A	ADM5	DE		07	053	05315	05315000	13418		46	Europe/Berlin	2014-05-15
+6947479	Köln-Ehrenfeld	Koeln-Ehrenfeld	Ehrenfeld  Cologne,Koeln-Ehrenfeld,Köln-Ehrenfeld	50.9456	6.92059	A	ADM5	DE		07	053	05315	05315000	103621		54	Europe/Berlin	2018-02-03
+6947480	Köln-Kalk	Koeln-Kalk	Kalk,Kalk  Cologne,Koeln-Kalk,Köln-Kalk	50.9426	7.00678	A	ADM5	DE		07	053	05315	05315000	21769		51	Europe/Berlin	2018-02-03
+6947481	Köln-Lindenthal	Koeln-Lindenthal	Koeln-Lindenthal,Köln-Lindenthal,Lindenthal,Lindenthal  Cologne	50.9263	6.91012	A	ADM5	DE		07	053	05315	05315000	28811		53	Europe/Berlin	2018-02-03
+6947482	Köln-Mülheim	Koeln-Muelheim	Koeln-Muelheim,Köln-Mülheim,Muelheim,Muelheim  Cologne,Mülheim,Mülheim  Cologne	50.9631	7.00488	A	ADM5	DE		07	053	05315	05315000	144625		51	Europe/Berlin	2018-02-03
+6947483	Köln-Nippes	Koeln-Nippes	Koeln-Nippes,Köln-Nippes,Nippes,Nippes  Cologne	50.963	6.9541	A	ADM5	DE		07	053	05315	05315000	110140		52	Europe/Berlin	2018-02-03
+6947513	Köln-Porz	Koeln-Porz	Koeln-Porz,Köln-Porz,Porz,Porz  Cologne	50.8888	7.05707	A	ADM5	DE		07	053	05315	05315000	106520		60	Europe/Berlin	2018-02-03
+6947544	Köln-Innenstadt	Koeln-Innenstadt	Innenstadt  Cologne,Koeln-Innenstadt,Köln-Innenstadt	50.9367	6.96028	A	ADM5	DE		07	053	05315	05315000	127033		51	Europe/Berlin	2018-02-03
+8351444	Berg am Laim	Berg am Laim		48.12812	11.62783	A	ADM5	DE		02	091	09162	09162000	0		538	Europe/Berlin	2017-07-11
+8351445	Bogenhausen	Bogenhausen		48.14856	11.61856	A	ADM5	DE		02	091	09162	09162000	0		528	Europe/Berlin	2017-07-11
+8351446	Maxvorstadt	Maxvorstadt		48.14476	11.56929	A	ADM5	DE		02	091	09162	09162000	0		521	Europe/Berlin	2017-07-11
+8351447	Moosach	Moosach		48.18085	11.52037	A	ADM5	DE		02	091	09162	09162000	0		508	Europe/Berlin	2017-07-11
+8351448	Schwabing-Freimann	Schwabing-Freimann		48.18165	11.59761	A	ADM5	DE		02	091	09162	09162000	0		503	Europe/Berlin	2017-07-12
+8351449	Laim	Laim		48.14072	11.49633	A	ADM5	DE		02	091	09162	09162000	0		528	Europe/Berlin	2017-07-11
+8504773	Brackwede	Brackwede		51.9889	8.5096	A	ADM5	DE		07	057	05711	05711000	0		154	Europe/Berlin	2014-05-20
+8504774	Dornberg	Dornberg		52.04288	8.48213	A	ADM5	DE		07	057	05711	05711000	0		122	Europe/Berlin	2014-05-20
+8504776	Heepen	Heepen		52.02937	8.60573	A	ADM5	DE		07	057	05711	05711000	0		90	Europe/Berlin	2014-05-20
+8504778	Jöllenbeck	Joellenbeck		52.0958	8.51166	A	ADM5	DE		07	057	05711	05711000	0		153	Europe/Berlin	2014-05-20
+8504780	Mitte	Mitte		52.02313	8.54393	A	ADM5	DE		07	057	05711	05711000	0		108	Europe/Berlin	2014-05-20
+8504781	Schildesche	Schildesche		52.05497	8.55183	A	ADM5	DE		07	057	05711	05711000	0		98	Europe/Berlin	2014-05-20
+8504782	Sennestadt	Sennestadt		51.95008	8.58376	A	ADM5	DE		07	057	05711	05711000	0		139	Europe/Berlin	2014-05-20
+8504783	Stieghorst	Stieghorst		52.00644	8.57552	A	ADM5	DE		07	057	05711	05711000	0		119	Europe/Berlin	2014-05-20
+11524045	Mitte	Mitte		51.34022	12.37157	A	ADM5	DE		13	00	14713	14713000	0		116	Europe/Berlin	2017-04-24
+11524046	Nordost	Nordost		51.38021	12.4316	A	ADM5	DE		13	00	14713	14713000	0		113	Europe/Berlin	2017-04-24
+11524047	Ost	Ost		51.33666	12.47578	A	ADM5	DE		13	00	14713	14713000	0		133	Europe/Berlin	2017-04-24
+11524048	Südost	Suedost		51.29879	12.45419	A	ADM5	DE		13	00	14713	14713000	0		141	Europe/Berlin	2017-04-24
+11524049	Süd	Sued		51.3026	12.38022	A	ADM5	DE		13	00	14713	14713000	0		125	Europe/Berlin	2017-04-24
+11524050	Südwest	Suedwest		51.28301	12.30299	A	ADM5	DE		13	00	14713	14713000	0		123	Europe/Berlin	2017-04-24
+11524051	West	West		51.31895	12.27331	A	ADM5	DE		13	00	14713	14713000	0		124	Europe/Berlin	2017-04-24
+11524052	Alt-West	Alt-West		51.34928	12.2908	A	ADM5	DE		13	00	14713	14713000	0		111	Europe/Berlin	2017-04-24
+11524053	Nordwest	Nordwest		51.39056	12.31094	A	ADM5	DE		13	00	14713	14713000	0		131	Europe/Berlin	2017-04-24
+11524054	Nord	Nord		51.40287	12.40595	A	ADM5	DE		13	00	14713	14713000	0		128	Europe/Berlin	2017-04-24
+11669483	Hamburg-Mitte	Hamburg-Mitte		53.51725	10.00683	A	ADM5	DE		04	00	02000	02000000	301550		2	Europe/Berlin	2017-08-16
+11669484	Altona	Altona		53.57358	9.84241	A	ADM5	DE		04	00	02000	02000000	270263		29	Europe/Berlin	2017-08-16
+11669485	Eimsbüttel	Eimsbuettel		53.60961	9.93976	A	ADM5	DE		04	00	02000	02000000	262130		11	Europe/Berlin	2017-08-16
+11669486	Hamburg-Nord	Hamburg-Nord		53.61757	10.01653	A	ADM5	DE		04	00	02000	02000000	306732		9	Europe/Berlin	2017-08-16
+11669487	Wandsbek	Wandsbek		53.64171	10.11924	A	ADM5	DE		04	00	02000	02000000	429918		29	Europe/Berlin	2017-08-16
+11669488	Bergedorf	Bergedorf		53.46124	10.17443	A	ADM5	DE		04	00	02000	02000000	126395		0	Europe/Berlin	2017-08-16
+11669489	Harburg	Harburg		53.47524	9.90153	A	ADM5	DE		04	00	02000	02000000	163771		3	Europe/Berlin	2017-08-16
+11790939	Stadtbremisches Überseehafengebiet Bremerhaven	Stadtbremisches UEberseehafengebiet Bremerhaven		53.57814	8.54633	A	ADM5	DE		03	00	04011	04011000	0		3	Europe/Berlin	2018-01-05
+11807539	Vaihingen	Vaihingen		48.73765	9.0935	A	ADM5	DE		01	081	08111	08111000	45835		456	Europe/Berlin	2024-09-10
+11807540	Süd	Sued		48.7578	9.15494	A	ADM5	DE		01	081	08111	08111000	0		337	Europe/Berlin	2018-01-15
+11807541	West	West		48.77624	9.11674	A	ADM5	DE		01	081	08111	08111000	0		400	Europe/Berlin	2018-01-15
+11807542	Untertürkheim	Untertuerkheim		48.78567	9.26022	A	ADM5	DE		01	081	08111	08111000	0		269	Europe/Berlin	2018-01-15
+11807543	Birkach	Birkach		48.72682	9.20562	A	ADM5	DE		01	081	08111	08111000	0		384	Europe/Berlin	2018-01-15
+11807544	Nord	Nord		48.79716	9.1751	A	ADM5	DE		01	081	08111	08111000	0		350	Europe/Berlin	2018-01-15
+11807545	Münster	Muenster		48.82488	9.21054	A	ADM5	DE		01	081	08111	08111000	0		222	Europe/Berlin	2018-01-15
+11807546	Plieningen	Plieningen		48.70831	9.20616	A	ADM5	DE		01	081	08111	08111000	0		376	Europe/Berlin	2018-01-15
+11807547	Obertürkheim	Obertuerkheim		48.77551	9.28442	A	ADM5	DE		01	081	08111	08111000	0		305	Europe/Berlin	2018-01-15
+11807548	Mühlhausen	Muehlhausen		48.84524	9.22215	A	ADM5	DE		01	081	08111	08111000	0		253	Europe/Berlin	2018-01-15
+11807549	Stammheim	Stammheim		48.85049	9.15338	A	ADM5	DE		01	081	08111	08111000	0		311	Europe/Berlin	2018-01-15
+11807550	Sillenbuch	Sillenbuch		48.74568	9.22191	A	ADM5	DE		01	081	08111	08111000	7828		363	Europe/Berlin	2025-08-25
+11807551	Mitte	Mitte		48.78013	9.1824	A	ADM5	DE		01	081	08111	08111000	0		246	Europe/Berlin	2018-01-15
+11807552	Mähringen	Maehringen		48.72555	9.15042	A	ADM5	DE		01	081	08111	08111000	0		419	Europe/Berlin	2018-01-15
+11807553	Degerloch	Degerloch		48.74565	9.17688	A	ADM5	DE		01	081	08111	08111000	0		443	Europe/Berlin	2018-01-15
+11807554	Botnang	Botnang		48.78011	9.12713	A	ADM5	DE		01	081	08111	08111000	13165		354	Europe/Berlin	2025-08-25
+11807555	Ost	Ost		48.77936	9.20958	A	ADM5	DE		01	081	08111	08111000	0		273	Europe/Berlin	2018-01-15
+11807556	Wangen	Wangen		48.77323	9.23906	A	ADM5	DE		01	081	08111	08111000	0		231	Europe/Berlin	2018-01-15
+11807557	Hedelfingen	Hedelfingen		48.7584	9.24354	A	ADM5	DE		01	081	08111	08111000	0		265	Europe/Berlin	2018-01-15
+11807558	Weilimdorf	Weilimdorf		48.81426	9.10886	A	ADM5	DE		01	081	08111	08111000	0		325	Europe/Berlin	2018-01-15
+11807559	Feuerbach	Feuerbach		48.80616	9.14738	A	ADM5	DE		01	081	08111	08111000	0		330	Europe/Berlin	2018-01-15
+11807560	Bad Cannstatt	Bad Cannstatt		48.80972	9.22409	A	ADM5	DE		01	081	08111	08111000	0		242	Europe/Berlin	2018-01-15
+11807561	Zuffenhausen	Zuffenhausen		48.83542	9.1743	A	ADM5	DE		01	081	08111	08111000	0		269	Europe/Berlin	2018-01-15
+11808372	Mitte	Mitte		52.37819	9.75367	A	ADM5	DE		06	00	03241	03241001	36998		61	Europe/Berlin	2025-12-16
+11808373	Bothfeld-Vahrenheide	Bothfeld-Vahrenheide		52.42367	9.7999	A	ADM5	DE		06	00	03241	03241001	50026		56	Europe/Berlin	2025-12-16
+11808374	Buchholz-Kleefeld	Buchholz-Kleefeld		52.38522	9.80545	A	ADM5	DE		06	00	03241	03241001	46290		59	Europe/Berlin	2025-12-16
+11808375	Misburg-Anderten	Misburg-Anderten		52.38255	9.86404	A	ADM5	DE		06	00	03241	03241001	33969		61	Europe/Berlin	2025-12-16
+11808376	Ahlem-Badenstedt-Davenstedt	Ahlem-Badenstedt-Davenstedt		52.36707	9.66682	A	ADM5	DE		06	00	03241	03241001	33992		65	Europe/Berlin	2025-12-16
+11808377	Herrenhausen-Stöcken	Herrenhausen-Stoecken		52.41054	9.66177	A	ADM5	DE		06	00	03241	03241001	37375		56	Europe/Berlin	2025-12-16
+11808378	Kirchrode-Bemerode-Wülferode	Kirchrode-Bemerode-Wuelferode		52.3382	9.83785	A	ADM5	DE		06	00	03241	03241001	32579		87	Europe/Berlin	2025-12-16
+11808379	Döhren-Wülfel	Doehren-Wuelfel		52.33485	9.78529	A	ADM5	DE		06	00	03241	03241001	34733		65	Europe/Berlin	2025-12-16
+11808380	Ricklingen	Ricklingen		52.33747	9.70647	A	ADM5	DE		06	00	03241	03241001	45463		64	Europe/Berlin	2025-12-16
+11808381	Vahrenwald-List	Vahrenwald-List		52.39873	9.74759	A	ADM5	DE		06	00	03241	03241001	0		57	Europe/Berlin	2018-01-19
+11808382	Linden-Limmer	Linden-Limmer		52.36811	9.70041	A	ADM5	DE		06	00	03241	03241001	44567		61	Europe/Berlin	2025-12-16
+11808383	Nord	Nord		52.40588	9.71151	A	ADM5	DE		06	00	03241	03241001	32269		52	Europe/Berlin	2025-12-16
+11808384	Südstadt-Bult	Suedstadt-Bult		52.35969	9.75831	A	ADM5	DE		06	00	03241	03241001	43766		60	Europe/Berlin	2025-12-16
+11808558	Bergen-Enkheim	Bergen-Enkheim		50.15056	8.75258	A	ADM5	DE		05	064	06412	06412000	0		124	Europe/Berlin	2018-01-22
+11808559	Nieder-Eschbach	Nieder-Eschbach		50.19976	8.6722	A	ADM5	DE		05	064	06412	06412000	0		127	Europe/Berlin	2018-01-22
+11808560	Harheim	Harheim		50.1833	8.68933	A	ADM5	DE		05	064	06412	06412000	0		112	Europe/Berlin	2018-01-22
+11808561	Nieder-Erlenbach	Nieder-Erlenbach		50.20679	8.7028	A	ADM5	DE		05	064	06412	06412000	0		131	Europe/Berlin	2018-01-22
+11808562	Frankfurt-Ost	Frankfurt-Ost		50.13576	8.7431	A	ADM5	DE		05	064	06412	06412000	0		103	Europe/Berlin	2018-01-22
+11808567	Frankfurt-Mitte-Nord	Frankfurt-Mitte-Nord		50.15755	8.66169	A	ADM5	DE		05	064	06412	06412000	0		117	Europe/Berlin	2018-01-22
+11808569	Frankfurt-Nord-West	Frankfurt-Nord-West		50.16535	8.6298	A	ADM5	DE		05	064	06412	06412000	0		121	Europe/Berlin	2018-01-22
+11808570	Frankfurt-West	Frankfurt-West		50.10451	8.55324	A	ADM5	DE		05	064	06412	06412000	0		100	Europe/Berlin	2018-01-22
+11856166	Bonn	Bonn		50.70289	7.07833	A	ADM5	DE		07	053	05314	05314000	0		150	Europe/Berlin	2018-04-12
+11856167	Bad Godesberg	Bad Godesberg		50.67677	7.15256	A	ADM5	DE		07	053	05314	05314000	0		99	Europe/Berlin	2018-04-12
+11856168	Hardtberg	Hardtberg		50.7057	7.05141	A	ADM5	DE		07	053	05314	05314000	0		147	Europe/Berlin	2018-04-12
+11856169	Beuel	Beuel		50.73945	7.14999	A	ADM5	DE		07	053	05314	05314000	0		80	Europe/Berlin	2018-04-12
+12047199	Rödergrund-Egelmes	Roedergrund-Egelmes	Roedergrund/Egelmes,Rödergrund/Egelmes	50.59621	9.85858	A	ADM5	DE		05	066	06631	06631013	0		435	Europe/Berlin	2019-05-14
+12110910	Wabe-Schunter-Beberbach	Wabe-Schunter-Beberbach		52.30543	10.5705	A	ADM5	DE		06	00	03101	03101000	0		83	Europe/Berlin	2020-01-02
+12110911	Lehndorf-Watenbüttel	Lehndorf-Watenbuettel		52.29153	10.45578	A	ADM5	DE		06	00	03101	03101000	0		80	Europe/Berlin	2020-01-02
+12110912	Hondelage	Hondelage		52.32159	10.6037	A	ADM5	DE		06	00	03101	03101000	0		78	Europe/Berlin	2020-01-02
+12110913	Nordstadt	Nordstadt		52.28545	10.52614	A	ADM5	DE		06	00	03101	03101000	0		75	Europe/Berlin	2020-01-02
+12110914	Östliches Ringgebiet	OEstliches Ringgebiet		52.26722	10.55164	A	ADM5	DE		06	00	03101	03101000	0		86	Europe/Berlin	2020-01-02
+12110915	Timmerlah-Geitelde-Stiddien	Timmerlah-Geitelde-Stiddien		52.22482	10.45559	A	ADM5	DE		06	00	03101	03101000	0		84	Europe/Berlin	2020-01-02
+12110916	Weststadt	Weststadt		52.24977	10.48063	A	ADM5	DE		06	00	03101	03101000	0		88	Europe/Berlin	2023-09-28
+12110917	Westliches Ringgebiet	Westliches Ringgebiet		52.25909	10.5026	A	ADM5	DE		06	00	03101	03101000	0		80	Europe/Berlin	2020-01-02
+12110918	Broitzem	Broitzem		52.23048	10.4777	A	ADM5	DE		06	00	03101	03101000	0		98	Europe/Berlin	2020-01-02
+12110919	Innenstadt	Innenstadt		52.26488	10.52235	A	ADM5	DE		06	00	03101	03101000	0		77	Europe/Berlin	2020-01-02
+12110920	Heidberg-Melverode	Heidberg-Melverode		52.23092	10.5295	A	ADM5	DE		06	00	03101	03101000	0		80	Europe/Berlin	2020-01-02
+12110921	Viewegs Garten-Bebelhof	Viewegs Garten-Bebelhof		52.25115	10.54602	A	ADM5	DE		06	00	03101	03101000	0		79	Europe/Berlin	2020-01-02
+12110922	Schunteraue	Schunteraue		52.30359	10.53908	A	ADM5	DE		06	00	03101	03101000	0		74	Europe/Berlin	2020-01-02
+12110923	Volkmarode	Volkmarode		52.28893	10.60979	A	ADM5	DE		06	00	03101	03101000	0		84	Europe/Berlin	2020-01-02
+12110924	Veltenhof-Rühme	Veltenhof-Ruehme		52.31054	10.49172	A	ADM5	DE		06	00	03101	03101000	0		68	Europe/Berlin	2020-01-02
+12110925	Stöckheim-Leiferde	Stoeckheim-Leiferde		52.20533	10.51939	A	ADM5	DE		06	00	03101	03101000	0		73	Europe/Berlin	2020-01-02
+12110926	Rüningen	Rueningen		52.21987	10.49893	A	ADM5	DE		06	00	03101	03101000	0		77	Europe/Berlin	2020-01-02
+12110927	Wenden-Thune-Harxbüttel	Wenden-Thune-Harxbuettel		52.33698	10.50671	A	ADM5	DE		06	00	03101	03101000	0		65	Europe/Berlin	2020-01-02
+12110928	Südstadt-Rautheim-Mascherode	Suedstadt-Rautheim-Mascherode		52.22938	10.56982	A	ADM5	DE		06	00	03101	03101000	0		94	Europe/Berlin	2020-01-02
+12136228	Stadtbezirk Mitte	Stadtbezirk Mitte	Mitte,Stadtbezirk Mitte	53.14209	8.68327	A	ADM5	DE		03	00			0		4	Europe/Berlin	2021-03-04
+12136230	Stadtbezirk Süd	Stadtbezirk Sued	Stadtbezirk Sud,Stadtbezirk Süd,Sud,Süd	53.06431	8.77022	A	ADM5	DE		03	00	04011	04011000	0		5	Europe/Berlin	2020-03-29
+12136231	Stadtbezirk Ost	Stadtbezirk Ost	Ost,Stadtbezirk Ost	53.08402	8.91288	A	ADM5	DE		03	00	04011	04011000	0		3	Europe/Berlin	2020-03-29
+12136232	Stadtbezirk West	Stadtbezirk West	Stadtbezirk West,West	53.13632	8.79434	A	ADM5	DE		03	00	04011	04011000	0		-1	Europe/Berlin	2020-03-29
+12136233	Stadtbezirk Nord	Stadtbezirk Nord	Nord,Stadtbezirk Nord	53.18116	8.6201	A	ADM5	DE		03	00	04011	04011000	0		22	Europe/Berlin	2020-03-29
+12144768	Burglesum	Burglesum	Borgleessem,Burglesum,Stadtteil Burglesum	53.15379	8.66026	A	ADM5	DE		03	00	04011	04011000	0		-1	Europe/Berlin	2020-03-22
+12144769	Findorff	Findorff	Findorff,Stadtteil Findorff	53.09448	8.81442	A	ADM5	DE		03	00	04011	04011000	0		5	Europe/Berlin	2020-03-22
+12144770	Häfen	Haefen	Hafen,Häfen,Stadtteil Hafen,Stadtteil Häfen	53.10737	8.74252	A	ADM5	DE		03	00	04011	04011000	0		2	Europe/Berlin	2020-03-22
+12144771	Mitte	Mitte	Mitte,Stadtteil Mitte	53.08449	8.81308	A	ADM5	DE		03	00	04011	04011000	0		8	Europe/Berlin	2020-03-22
+12144772	Obervieland	Obervieland	Obervieland,Stadtteil Obervieland	53.04025	8.83776	A	ADM5	DE		03	00	04011	04011000	0		6	Europe/Berlin	2020-03-22
+12144773	Östliche Vorstadt	OEstliche Vorstadt	Ostliche Vorstadt,Stadtteil Ostliche Vorstadt,Stadtteil Östliche Vorstadt,Östliche Vorstadt	53.07383	8.8416	A	ADM5	DE		03	00	04011	04011000	0		7	Europe/Berlin	2020-03-22
+12144784	Mitte	Mitte	Mitte,Stadtteil Mitte	53.54748	8.57376	A	ADM5	DE		03	00	04012	04012000	0		2	Europe/Berlin	2020-03-22
+12144785	Schiffdorferdamm	Schiffdorferdamm	Schiffdorferdamm,Stadtteil Schiffdorferdamm	53.5421	8.63589	A	ADM5	DE		03	00	04012	04012000	0		4	Europe/Berlin	2020-03-22
+12144787	Fischereihafen	Fischereihafen	Fischereihafen,Stadtteil Fischereihafen	53.51137	8.5829	A	ADM5	DE		03	00	04012	04012000	0		-2	Europe/Berlin	2020-03-22
+12144791	Stadtbezirk Nord	Stadtbezirk Nord	Nord,Stadtbezirk Nord	53.57108	8.59	A	ADM5	DE		03	00	04012	04012000	0		2	Europe/Berlin	2020-03-29
+12144792	Stadtbezirk Süd	Stadtbezirk Sued	Stadtbezirk Sud,Stadtbezirk Süd,Sud,Süd	53.51435	8.59904	A	ADM5	DE		03	00	04012	04012000	0		9	Europe/Berlin	2020-03-22
+12358878	Modau	Modau		49.79632	8.73909	A	ADM5	DE		05	064	06432	06432016	2695	229	249	Europe/Berlin	2021-11-04
+12358900	Stellberg	Stellberg		50.43339	9.79096	A	ADM5	DE		05	066	06631	06631004	0	440	477	Europe/Berlin	2021-11-04
+12402223	Mitte	Mitte		51.48929	7.20798	A	ADM5	DE		07	059	05911	05911000	0		82	Europe/Berlin	2021-12-25
+12402224	Süd	Sued		51.43949	7.24377	A	ADM5	DE		07	059	05911	05911000	0		131	Europe/Berlin	2021-12-25
+12402225	Ost	Ost		51.47548	7.30587	A	ADM5	DE		07	059	05911	05911000	53648		94	Europe/Berlin	2025-12-16
+12402226	Wattenscheid	Wattenscheid		51.46898	7.14496	A	ADM5	DE		07	059	05911	05911000	0		72	Europe/Berlin	2021-12-25
+12402227	Südwest	Suedwest		51.43747	7.17854	A	ADM5	DE		07	059	05911	05911000	0		115	Europe/Berlin	2021-12-25
+12402228	Nord	Nord		51.50761	7.27287	A	ADM5	DE		07	059	05911	05911000	35864		124	Europe/Berlin	2025-12-16
+12402229	Langerfeld-Beyenburg	Langerfeld-Beyenburg		51.266	7.238	A	ADM5	DE		07	051	05124	05124000	0		282	Europe/Berlin	2025-01-22
+12402230	Uellendahl-Katernberg	Uellendahl-Katernberg		51.28539	7.13096	A	ADM5	DE		07	051	05124	05124000	0		271	Europe/Berlin	2021-12-25
+12402231	Cronenberg	Cronenberg		51.20584	7.13378	A	ADM5	DE		07	051	05124	05124000	0		299	Europe/Berlin	2021-12-25
+12402232	Vohwinkel	Vohwinkel		51.23766	7.06408	A	ADM5	DE		07	051	05124	05124000	0		197	Europe/Berlin	2021-12-25
+12402233	Ronsdorf	Ronsdorf		51.23044	7.20509	A	ADM5	DE		07	051	05124	05124000	0		307	Europe/Berlin	2021-12-25
+12402234	Barmen	Barmen		51.26755	7.18486	A	ADM5	DE		07	051	05124	05124000	0		158	Europe/Berlin	2021-12-25
+12402235	Oberbarmen	Oberbarmen		51.2951	7.23179	A	ADM5	DE		07	051	05124	05124000	0		229	Europe/Berlin	2021-12-25
+12402236	Elberfeld	Elberfeld		51.24721	7.14859	A	ADM5	DE		07	051	05124	05124000	0		217	Europe/Berlin	2021-12-25
+12402237	Elberfeld West	Elberfeld West		51.24755	7.10859	A	ADM5	DE		07	051	05124	05124000	0		141	Europe/Berlin	2021-12-25
+12402238	Heckinghausen	Heckinghausen		51.26112	7.21606	A	ADM5	DE		07	051	05124	05124000	0		294	Europe/Berlin	2021-12-25
+12500807	Loschwitz	Loschwitz		51.0781	13.84522	A	ADM5	DE		13	00	14612	14612000	0		270	Europe/Berlin	2022-11-30
+12500808	Schönfeld-Weißig	Schoenfeld-Weissig		51.04216	13.9076	A	ADM5	DE		13	00	14612	14612000	0		309	Europe/Berlin	2022-11-30
+12500809	Oberwartha	Oberwartha		51.07704	13.59942	A	ADM5	DE		13	00	14612	14612000	0		250	Europe/Berlin	2022-11-30
+12500810	Altstadt	Altstadt		51.05272	13.73703	A	ADM5	DE		13	00	14612	14612000	0		122	Europe/Berlin	2022-11-30
+12500811	Langebrück	Langebrueck		51.13334	13.84156	A	ADM5	DE		13	00	14612	14612000	0		208	Europe/Berlin	2022-11-30
+12500812	Prohlis	Prohlis		51.00135	13.79252	A	ADM5	DE		13	00	14612	14612000	0		138	Europe/Berlin	2022-11-30
+12500813	Cossebaude	Cossebaude		51.08972	13.62558	A	ADM5	DE		13	00	14612	14612000	0		106	Europe/Berlin	2022-11-30
+12500814	Neustadt	Neustadt		51.07553	13.76259	A	ADM5	DE		13	00	14612	14612000	0		129	Europe/Berlin	2022-11-30
+12500815	Klotzsche	Klotzsche		51.11749	13.75287	A	ADM5	DE		13	00	14612	14612000	0		212	Europe/Berlin	2022-11-30
+12500816	Pieschen	Pieschen		51.08556	13.70266	A	ADM5	DE		13	00	14612	14612000	0		112	Europe/Berlin	2022-11-30
+12500817	Cotta	Cotta		51.04808	13.67509	A	ADM5	DE		13	00	14612	14612000	0		145	Europe/Berlin	2022-11-30
+12500818	Gompitz	Gompitz		51.04934	13.61405	A	ADM5	DE		13	00	14612	14612000	0		276	Europe/Berlin	2022-11-30
+12500819	Mobschatz	Mobschatz		51.06775	13.62906	A	ADM5	DE		13	00	14612	14612000	0		248	Europe/Berlin	2022-11-30
+12500820	Plauen	Plauen		51.02054	13.7215	A	ADM5	DE		13	00	14612	14612000	0		196	Europe/Berlin	2022-11-30
+12500821	Leuben	Leuben		51.00649	13.84477	A	ADM5	DE		13	00	14612	14612000	0		114	Europe/Berlin	2022-11-30
+12500822	Weixdorf	Weixdorf		51.15356	13.78593	A	ADM5	DE		13	00	14612	14612000	0		213	Europe/Berlin	2022-11-30
+12500823	Blasewitz	Blasewitz		51.03727	13.79846	A	ADM5	DE		13	00	14612	14612000	0		117	Europe/Berlin	2022-11-30
+12500824	Schönborn	Schoenborn		51.14669	13.86536	A	ADM5	DE		13	00	14612	14612000	0		219	Europe/Berlin	2022-11-30
+12500825	Altfranken	Altfranken		51.0346	13.64342	A	ADM5	DE		13	00	14612	14612000	0		277	Europe/Berlin	2022-11-30
+12500827	Stadtbezirk I	Stadtbezirk I		51.4572	7.02235	A	ADM5	DE		07	051	05113	05113000	0		78	Europe/Berlin	2022-11-30
+12500828	Stadtbezirk II	Stadtbezirk II		51.42839	7.0267	A	ADM5	DE		07	051	05113	05113000	0		89	Europe/Berlin	2022-11-30
+12500829	Stadtbezirk III	Stadtbezirk III		51.43654	6.96974	A	ADM5	DE		07	051	05113	05113000	0		81	Europe/Berlin	2022-11-30
+12500830	Stadtbezirk IV	Stadtbezirk IV		51.47767	6.94254	A	ADM5	DE		07	051	05113	05113000	0		64	Europe/Berlin	2022-11-30
+12500831	Stadtbezirk V	Stadtbezirk V		51.50039	7.00556	A	ADM5	DE		07	051	05113	05113000	0		52	Europe/Berlin	2022-11-30
+12500832	Stadtbezirk VI	Stadtbezirk VI		51.48702	7.04613	A	ADM5	DE		07	051	05113	05113000	0		50	Europe/Berlin	2022-11-30
+12500833	Stadtbezirk VII	Stadtbezirk VII		51.45501	7.09228	A	ADM5	DE		07	051	05113	05113000	0		90	Europe/Berlin	2022-11-30
+12500834	Stadtbezirk VIII	Stadtbezirk VIII		51.40436	7.08587	A	ADM5	DE		07	051	05113	05113000	0		75	Europe/Berlin	2022-11-30
+12500835	Stadtbezirk IX	Stadtbezirk IX		51.38306	6.98781	A	ADM5	DE		07	051	05113	05113000	0		63	Europe/Berlin	2022-11-30
+12500850	Luetgendortmund	Luetgendortmund		51.50179	7.35549	A	ADM5	DE		07	059	05913	05913000	48870		92	Europe/Berlin	2025-12-16
+12500851	Schanhorst	Schanhorst		51.56121	7.55006	A	ADM5	DE		07	059	05913	05913000	47290		74	Europe/Berlin	2025-12-16
+12500852	Innenstadt Ost	Innenstadt Ost		51.50644	7.49013	A	ADM5	DE		07	059	05913	05913000	59065		106	Europe/Berlin	2025-12-16
+12500853	Huckarde	Huckarde		51.5319	7.39847	A	ADM5	DE		07	059	05913	05913000	36550		77	Europe/Berlin	2025-12-16
+12500854	Hoerde	Hoerde		51.45699	7.50185	A	ADM5	DE		07	059	05913	05913000	57555		204	Europe/Berlin	2025-12-16
+12500855	Eving	Eving		51.56477	7.46602	A	ADM5	DE		07	059	05913	05913000	39555		100	Europe/Berlin	2025-12-16
+12500856	Innenstadt West	Innenstadt West		51.50728	7.43254	A	ADM5	DE		07	059	05913	05913000	54360		85	Europe/Berlin	2025-12-16
+12500857	Mengede	Mengede		51.56573	7.38779	A	ADM5	DE		07	059	05913	05913000	39475		72	Europe/Berlin	2025-12-16
+12500858	Aplerbeck	Aplerbeck		51.48702	7.5599	A	ADM5	DE		07	059	05913	05913000	55670		118	Europe/Berlin	2025-12-16
+12500859	Innenstadt Nord	Innenstadt Nord	Nordstadt	51.53218	7.47185	A	ADM5	DE		07	059	05913	05913000	61660		76	Europe/Berlin	2025-12-16
+12500860	Brackel	Brackel		51.52685	7.57538	A	ADM5	DE		07	059	05913	05913000	56585		87	Europe/Berlin	2025-12-16
+12500861	Hombruch	Hombruch		51.46494	7.43849	A	ADM5	DE		07	059	05913	05913000	56955		96	Europe/Berlin	2022-12-01
+12501503	Münster-Südost	Muenster-Suedost		51.92639	7.71025	A	ADM5	DE		07	055	05515	05515000	31052		53	Europe/Berlin	2022-12-21
+12501504	Münster-Hiltrup	Muenster-Hiltrup		51.88937	7.614	A	ADM5	DE		07	055	05515	05515000	38217		56	Europe/Berlin	2022-12-21
+12501505	Münster-Ost	Muenster-Ost		51.99113	7.69521	A	ADM5	DE		07	055	05515	05515000	21430		48	Europe/Berlin	2022-12-21
+12501506	Münster-Nord	Muenster-Nord		52.01733	7.61846	A	ADM5	DE		07	055	05515	05515000	28851		58	Europe/Berlin	2022-12-21
+12501507	Münster-West	Muenster-West		51.96764	7.54888	A	ADM5	DE		07	055	05515	05515000	62134		64	Europe/Berlin	2024-02-10
+12501508	Mitte	Mitte	Mitte,Muenster-Mitte,Münster-Mitte	51.96059	7.62657	A	ADM5	DE		07	055	05515	05515000	128863		67	Europe/Berlin	2024-02-10
+13580539	Homberg/Ruhrort/Baerl	Homberg/Ruhrort/Baerl		51.46679	6.69192	A	ADM5	DE		07	051	05112	05112000	0		30	Europe/Berlin	2026-02-25
+13580540	Mitte	Mitte		51.42318	6.77216	A	ADM5	DE		07	051	05112	05112000	0		37	Europe/Berlin	2026-02-06
+13580541	Rheinhausen	Rheinhausen		51.40341	6.69093	A	ADM5	DE		07	051	05112	05112000	0		29	Europe/Berlin	2026-02-06
+13580542	Süd	Sued		51.36553	6.74857	A	ADM5	DE		07	051	05112	05112000	0		32	Europe/Berlin	2026-02-06
+13580543	Walsum	Walsum		51.53303	6.72397	A	ADM5	DE		07	051	05112	05112000	0		27	Europe/Berlin	2026-02-06
+13580544	Hamborn	Hamborn		51.50133	6.77321	A	ADM5	DE		07	051	05112	05112000	0		28	Europe/Berlin	2026-02-06
+13580545	Meiderich/Beeck	Meiderich/Beeck		51.4735	6.75475	A	ADM5	DE		07	051	05112	05112000	0		24	Europe/Berlin	2026-02-06

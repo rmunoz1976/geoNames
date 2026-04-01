@@ -1,0 +1,2 @@
+﻿1276299	Bhāgalpur	Bhagalpur		26.17168	83.86855	A	ADM5	IN		36	190			0		71	Asia/Kolkata	2017-12-12
+10227517	Pachalloor	Pachalloor		8.4388	76.96386	A	ADM5	IN		13	601			0		70	Asia/Kolkata	2015-04-17
