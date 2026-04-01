@@ -1,0 +1,210 @@
+## Objetivo
+Procesar el archivo TSV adjunto e insertar los datos en la tabla MySQL `t076t_states`.
+
+## Estructura de la tabla destino: `t076t_states`
+
+ Campo  Tipo  Obligatorio  Valor / Regla 
+-----------------------------------------
+ `id`  int AUTO_INCREMENT  NO  Lo genera la BD 
+ `geo_id`  int  SÍ  Columna 1 (geonameid) 
+ `id_country`  int  SÍ  Usar valor de `id_country_origen` (ver datos al final) 
+ `code`  varchar(64)  SÍ  `{code_pais}-{admin1_code}` (Columna 11) 
+ `code_dane`  varchar(16)  NO  NULL 
+ `code_dian`  varchar(16)  NO  NULL 
+ `code_iso_3166_2_alpha2`  varchar(16)  SÍ  Mismo valor que `code` 
+ `code_iso_3166_2_alpha3`  varchar(16)  SÍ  Mismo valor que `code` 
+ `phone_code`  varchar(16)  SÍ  Usar según `code_pais` (ver datos al final) 
+ `code_postal`  varchar(16)  SÍ  'NULO' 
+ `id_division_type`  int  SÍ  Usar valor de `id_division_type_origen` (ver datos al final) 
+ `name_spanish`  varchar(128)  SÍ  Columna 4 (alternatenames): buscar variante en español → si no, usar Columna 2 (name) 
+ `name_english`  varchar(128)  SÍ  Columna 3 (asciiname) 
+ `name_iso`  varchar(128)  SÍ  Columna 2 (name) 
+ `name_original`  varchar(128)  SÍ  Columna 2 (name) 
+ `name_transcribed`  varchar(128)  SÍ  Columna 3 (asciiname) 
+ `status`  int  NO  1 (activo) 
+ `created_at`  datetime(6)  SÍ  NOW(6) 
+ `updated_at`  datetime(6)  SÍ  NOW(6) 
+ `created_by`  int  SÍ  1 
+ `updated_by`  int  SÍ  1 
+
+## Estructura del archivo TSV
+
+ Columna  Nombre  Uso 
+----------------------
+ 1  geonameid  `geo_id` 
+ 2  name  `name_iso`, `name_original`, respaldo para `name_spanish` 
+ 3  asciiname  `name_english`, `name_transcribed` 
+ 4  alternatenames  Fuente principal para `name_spanish` 
+ 5-10  latitude, longitude, feature_class, feature_code, country_code, cc2  No se usan 
+ 11  admin1_code  Para construir `code` 
+ 12-19  admin2_code, admin3_code, admin4_code, population, elevation, dem, timezone, modification_date  No se usan 
+
+## Reglas específicas
+- Usa utf8mb4; escapa comillas simples DENTRO de valores de texto
+duplicándolas (''), NO con barra invertida (\').
+Ejemplos de nombres que requieren escape:
+  M'sila      → 'M''sila'
+  Aïn N'Sour  → 'Aïn N''Sour'
+  Oum el Bouaghi → sin apóstrofe, no requiere escape
+Aplica a TODOS los campos varchar: name_spanish, name_english,
+name_iso, name_original, name_transcribed, code, etc.
+Antes de generar el SQL, revisar todos los valores en busca de
+apóstrofes o comillas simples embebidas y duplicarlas.
+- NULL sin comillas para valores nulos
+- name_spanish en minúsculas con tilde si aplica
+- name_english siempre en inglés sin caracteres especiales
+- name_iso: nombre oficial exacto según ISO 3166-2
+- No inventes geo_id; si no encuentras el dato real de geonames.org, indícalo
+- Si el país tiene subdivisiones de distinto tipo (ej: regiones + provincias),
+agrupa por tipo y genera un INSERT de division_type por cada uno
+
+
+### Para `name_spanish`
+- Buscar en `alternatenames` (columna 4) palabras con:
+  - Tildes (á, é, í, ó, ú, ñ)
+  - Formas españolas como "San", "Santa", "Ciudad", "Provincia"
+- Si se encuentra una variante en español, usarla
+- Si no, usar `name` (columna 2)
+- Si `name` no es legible, usar `asciiname` (columna 3)
+
+### 2. Para campos de auditoría
+- `created_at` y `updated_at`: Siempre `NOW(6)`
+- `created_by` y `updated_by`: Siempre `1`
+
+## Formato de salida
+
+Generar un script SQL con el siguiente formato, con contenido listo para DESCARGAR:
+
+1. **Primera línea**: `-- {nombre_archivo_origen}_INS` (donde nombre_archivo_origen es el nombre del archivo TSV sin extensión)
+2. **Línea siguiente**: `-- DETALLE DE name_spanish POR REGISTRO:`
+3. **Por cada registro**: una línea con `-- - {name_original}: {explicación de cómo se obtuvo name_spanish}`
+4. **Sentencia INSERT** con todos los registros
+5. **Total de registros a insertar
+
+## Ejemplo de salida esperada
+
+sql
+-- AD_ANDORRA_ADM1_INS
+-- DETALLE DE name_spanish POR REGISTRO:
+-- - Sant Julià de Lòria: se encontró "San Julián de Loria" en alternatenames
+-- - Ordino: sin variante en español, se usa "Ordino"
+-- - La Massana: sin variante en español, se usa "La Massana"
+
+INSERT INTO t076t_states (
+    geo_id, id_country, code, code_dane, code_dian,
+    code_iso_3166_2_alpha2, code_iso_3166_2_alpha3,
+    phone_code, code_postal, id_division_type,
+    name_spanish, name_english, name_iso, name_original, name_transcribed,
+    status, created_at, updated_at, created_by, updated_by
+) VALUES
+(3039162, 6, 'AD-06', NULL, NULL, 'AD-06', 'AD-06', '+376', 'NULO', 1, 'San Julián de Loria', 'Sant Julia de Loria', 'Sant Julià de Lòria', 'Sant Julià de Lòria', 'Sant Julia de Loria', 1, NOW(6), NOW(6), 1, 1),
+(3039676, 6, 'AD-05', NULL, NULL, 'AD-05', 'AD-05', '+376', 'NULO', 1, 'Ordino', 'Ordino', 'Ordino', 'Ordino', 'Ordino', 1, NOW(6), NOW(6), 1, 1);
+
+otros ejemplos de datos:
+
+# id, geo_id, id_country, code, code_dane, code_dian, code_iso_3166_2_alpha2, code_iso_3166_2_alpha3, phone_code, code_postal, id_division_type, name_spanish, name_english, name_iso, name_original, name_transcribed, status, created_at, updated_at, created_by, updated_by
+1453, 1853904, 112, JP-27, , , JP-27, JP-27, +81, NULO, 95, Osaka, Osaka, Osaka, Ōsaka-fu, Osaka-fu, 1, 2026-03-26 06:56:47.608669, 2026-03-26 06:56:47.608669, 1, 1
+1456, 1854484, 112, JP-44, , , JP-44, JP-44, +81, NULO, 95, Oita, Oita, Oita, Oita Prefecture, Oita Prefecture, 1, 2026-03-26 06:56:47.608669, 2026-03-26 06:56:47.608669, 1, 1
+807, 146398, 57, CY-02, , , CY-02, CY-02, +357, NULO, 49, larnaca, Larnaca, Larnaka, Επαρχία Λάρνακας, Eparchia Larnakas, 1, 2026-03-25 14:26:23.890237, 2026-03-25 14:26:23.890237, 1, 1
+808, 146267, 57, CY-01, , , CY-01, CY-01, +357, NULO, 49, nicosia, Nicosia, Lefkosia, Λευκωσία, Lefkosia, 1, 2026-03-25 14:26:23.890237, 2026-03-25 14:26:23.890237, 1, 1
+4601, 1819852, 99, HK-KT, , , HK-KT, HK-KT, +852, NULO, 231, kwun tong, Kwun Tong, Kwun Tong District, 觀塘區, Kwun Tong, 1, 2026-03-26 14:34:27.773487, 2026-03-26 14:34:27.773487, 1, 1
+4602, 1819859, 99, HK-SS, , , HK-SS, HK-SS, +852, NULO, 231, sham shui po, Sham Shui Po, Sham Shui Po District, 深水埗區, Sham Shui Po, 1, 2026-03-26 14:34:27.773487, 2026-03-26 14:34:27.773487, 1, 1
+22, 1131257, 1, AF-PIA, , , AF-PIA, AF-PIA, +93, NULO, 3, Paktiyā, Paktia, Paktiyā, Wilāyat-e Paktiyā, Paktiyā, 1, 2026-03-25 07:27:27.502963, 2026-03-25 07:27:27.502963, 1, 1
+23, 1131461, 1, AF-URU, , , AF-URU, AF-URU, +93, NULO, 3, Uruzgān, Uruzgan, Uruzgān, Uruzgān, Uruzgān, 1, 2026-03-25 07:27:27.502963, 2026-03-25 07:27:27.502963, 1, 1
+
+
+**** GENERA EL SCRIPT SQL COMPLETO PARA PARA PORDER DESCARGARLO, COPIARLO Y GUARDARLO COMO ARCHIVO  ****
+
+# id_country_origen, code_pais, name_pais, phone_code, id_division_type_origen, name_division_type
+158, NE, NIGER, +227, 135, REGION
+
+--ramz
+
+
+161, NF, NORFOLK ISLAND, +672, 243, AUSTRALIAN EXTERNAL TERRITORY
+159, NG, NIGERIA, +234, 136, STATE
+157, NI, NICARAGUA, +505, 137, DEPARTMENT
+222, NL, THE NETHERLANDS, +31, 138, PROVINCE
+165, NO, NORWAY, +47, 139, COUNTY
+154, NP, NEPAL, +977, 140, PROVINCE
+153, NR, NAURU, +674, 141, DISTRICT
+160, NU, NIUE, +683, 244, VILLAGE
+156, NZ, NEW ZEALAND, +64, 142, REGION
+166, OM, OMAN, +968, 143, GOVERNORATE
+170, PA, PANAMA, +507, 144, PROVINCE
+173, PE, PERU, +51, 145, DEPARTMENT
+78, PF, FRENCH POLYNESIA, +689, 245, SUBDIVISION
+171, PG, PAPUA NEW GUINEA, +675, 146, PROVINCE
+174, PH, PHILIPPINES, +63, 147, REGION
+167, PK, PAKISTAN, +92, 148, PROVINCE
+176, PL, POLAND, +48, 149, VOIVODESHIP
+190, PM, SAINT PIERRE AND MIQUELON, +508, 246, OVERSEAS COLLECTIVITY
+175, PN, PITCAIRN, +870, 247, BRITISH OVERSEAS TERRITORY
+177, PT, PORTUGAL, +351, 150, DISTRICT
+168, PW, PALAU, +680, 151, STATE
+172, PY, PARAGUAY, +595, 152, DEPARTMENT
+179, QA, QATAR, +974, 153, MUNICIPALITY
+181, RE, REUNION, +262, 248, OVERSEAS DEPARTMENT
+182, RO, ROMANIA, +40, 154, COUNTY
+197, RS, SERBIA, +381, 155, PROVINCE
+183, RU, RUSSIA, +7, 156, OBLAST
+184, RW, RWANDA, +250, 157, PROVINCE
+195, SA, SAUDI ARABIA, +966, 158, REGION
+204, SB, SOLOMON ISLANDS, +677, 159, PROVINCE
+198, SC, SEYCHELLES, +248, 160, DISTRICT
+212, SD, SUDAN, +249, 162, STATE
+215, SE, SWEDEN, +46, 163, COUNTY
+186, SH, SAINT HELENA, +290, 249, ADMINISTRATIVE AREA
+203, SI, SLOVENIA, +386, 172, MUNICIPALITY
+214, SJ, SVALBARD AND JAN MAYEN, +47, 250, UNINCORPORATED TERRITORY
+202, SK, SLOVAKIA, +421, 168, REGION
+199, SL, SIERRA LEONE, +232, 169, PROVINCE
+193, SM, SAN MARINO, +378, 170, CASTLE
+196, SN, SENEGAL, +221, 173, REGION
+205, SO, SOMALIA, +252, 174, REGION
+213, SR, SURINAME, +597, 175, DISTRICT
+209, SS, SOUTH SUDAN, +211, 176, STATE
+194, ST, SAO TOME AND PRINCIPE, +239, 177, PROVINCE
+66, SV, EL SALVADOR, +503, 178, DEPARTMENT
+201, SX, SINT MAARTEN, +599, 251, CONSTITUENT COUNTRY
+217, SY, SYRIA, +963, 179, GOVERNORATE
+70, SZ, ESWATINI, +268, 180, DISTRICT
+231, TC, TURKS AND CAICOS ISLANDS, +1-649, 252, BRITISH OVERSEAS TERRITORY
+45, TD, CHAD, +235, 183, REGION
+79, TF, FRENCH SOUTHERN TERRITORIES, +262, 253, DISTRICT
+224, TG, TOGO, +228, 184, REGION
+221, TH, THAILAND, +66, 185, PROVINCE
+219, TJ, TAJIKISTAN, +992, 186, PROVINCE
+225, TK, TOKELAU, +690, 254, ATOLL
+223, TL, TIMOR LESTE, +670, 187, MUNICIPALITY
+230, TM, TURKMENISTAN, +993, 188, PROVINCE
+228, TN, TUNISIA, +216, 189, GOVERNORATE
+226, TO, TONGA, +676, 190, DIVISION
+229, TR, TURKEY, +90, 191, PROVINCE
+227, TT, TRINIDAD AND TOBAGO, +1-868, 192, REGION
+232, TV, TUVALU, +688, 193, ISLAND
+220, TZ, TANZANIA, +255, 194, REGION
+235, UA, UKRAINE, +380, 195, OBLAST
+234, UG, UGANDA, +256, 196, REGION
+239, UM, UNITED STATES MINOR OUTLYING ISLANDS, +1, 255, ISLAND
+238, US, UNITED STATES, +1, 197, STATE
+240, UY, URUGUAY, +598, 199, DEPARTMENT
+241, UZ, UZBEKISTAN, +998, 200, REGION
+243, VA, VATICAN, +379, 256, INDEPENDENT STATE
+191, VC, SAINT VINCENT AND THE GRENADINES, +1-784, 201, PARISH
+244, VE, VENEZUELA, +58, 202, STATE
+34, VG, BRITISH VIRGIN ISLANDS, +1-284, 257, BRITISH OVERSEAS TERRITORY
+233, VI, U.S. VIRGIN ISLANDS, +1-340, 258, DISTRICT
+245, VN, VIETNAM, +84, 204, PROVINCE
+242, VU, VANUATU, +678, 205, PROVINCE
+246, WF, WALLIS AND FUTUNA, +681, 259, KINGDOM
+192, WS, SAMOA, +685, 206, DISTRICT
+118, XK, KOSOVO, , 207, DISTRICT
+248, YE, YEMEN, +967, 208, GOVERNORATE
+141, YT, MAYOTTE, +262, 260, OVERSEAS DEPARTMENT
+206, ZA, SOUTH AFRICA, +27, 212, PROVINCE
+249, ZM, ZAMBIA, +260, 213, PROVINCE
+250, ZW, ZIMBABWE, +263, 214, PROVINCE
+
+
+-- NO TIENE DIVISON ADM1

@@ -1,0 +1,42 @@
+INVESTIGA el país:
+  - Identifica el tipo de división administrativa de primer nivel
+    (departamento, estado, provincia, región, cantón, gobernación, etc.)
+  - Obtén el código ISO 3166-1 alpha-2 del país (ej: CO, MX, ES)
+  - Obtén los datos de geonames.org para cada división (geo_id)
+    readme.txt https://download.geonames.org/export/dump/readme.txt
+    GeoNames Data https://www.geonames.org/export/
+    Country Codes https://www.geonames.org/countries/
+    Download server https://download.geonames.org/export/dump/
+    Postal codes https://www.geonames.org/postal-codes/
+    Postal codes are available as a separate download. https://download.geonames.org/export/zip/?C=N;O=A
+    GeoNames WebServices overview https://www.geonames.org/export/ws-overview.html  
+	Ejemplo de AF afghanistan
+    https://www.geonames.org/countries/AF/afghanistan.html
+	https://www.geonames.org/AF/administrative-division-afghanistan.html
+  - Ten en cuenta esas otras fuentes de consulta (en orden de confiabilidad)
+	countries-states-cities-database (GitHub) https://github.com/dr5hn/countries-states-cities-database
+	CountryStateCity API (REST/GraphQL) https://countrystatecity.in
+	GeoDB Cities API http://geodb-cities-api.wirefreethought.com
+	OpenStreetMap / Geoapify (para barrios y límites administrativos) https://www.geoapify.com/boundaries-api/
+	Geoapify – Descarga de ciudades/pueblos/barrios https://www.geoapify.com/download-all-the-cities-towns-villages/
+
+
+REGLAS
+  - Usa utf8mb4; escapa comillas simples DENTRO de valores de texto
+    duplicándolas (''), NO con barra invertida (\').
+    Ejemplos de nombres que requieren escape:
+      M'sila      → 'M''sila'
+      Aïn N'Sour  → 'Aïn N''Sour'
+      Oum el Bouaghi → sin apóstrofe, no requiere escape
+    Aplica a TODOS los campos varchar: name_spanish, name_english,
+    name_iso, name_original, name_transcribed, code, etc.
+    Antes de generar el SQL, revisar todos los valores en busca de
+    apóstrofes o comillas simples embebidas y duplicarlas.
+  - NULL sin comillas para valores nulos
+  - name_spanish en minúsculas con tilde si aplica
+  - name_english siempre en inglés sin caracteres especiales
+  - name_iso: nombre oficial exacto según ISO 3166-2
+  - No inventes geo_id; si no encuentras el dato real de geonames.org, indícalo
+  - Si el país tiene subdivisiones de distinto tipo (ej: regiones + provincias),
+    agrupa por tipo y genera un INSERT de division_type por cada uno
+
