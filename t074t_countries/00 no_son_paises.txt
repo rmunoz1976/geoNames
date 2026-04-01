@@ -1,0 +1,86 @@
+TERRITORIOS, REGIONES Y ENTIDADES QUE NO SON PAÍSES INDEPENDIENTES
+===================================================================
+
+ID  | NOMBRE
+----|-------------------------------------------------------
+9   | ANTÁRTIDA (continente sin soberanía nacional)
+8   | ANGUILA (territorio británico de ultramar)
+13  | ARUBA (país constituyente del Reino de los Países Bajos)
+25  | BERMUDAS (territorio británico de ultramar)
+28  | BONAIRE, SAN EUSTAQUIO Y SABA (municipios especiales de los Países Bajos)
+31  | ISLA BOUVET (territorio dependiente de Noruega)
+34  | ISLAS VÍRGENES BRITÁNICAS (territorio británico de ultramar)
+33  | TERRITORIO BRITÁNICO DEL OCÉANO ÍNDICO (territorio británico de ultramar)
+43  | ISLAS CAIMÁN (territorio británico de ultramar)
+48  | ISLA DE NAVIDAD (territorio australiano)
+49  | ISLAS COCOS (territorio australiano)
+52  | ISLAS COOK (estado en libre asociación con Nueva Zelanda)
+56  | CURAZAO (país constituyente del Reino de los Países Bajos)
+5   | SAMOA AMERICANA (territorio no incorporado de EE.UU.)
+72  | ISLAS MALVINAS (territorio británico de ultramar, reclamado por Argentina)
+73  | ISLAS FEROE (territorio autónomo de Dinamarca)
+77  | GUAYANA FRANCESA (departamento de ultramar de Francia)
+78  | POLINESIA FRANCESA (colectividad de ultramar de Francia)
+79  | TIERRAS AUSTRALES FRANCESAS (territorio de ultramar de Francia)
+85  | GIBRALTAR (territorio británico de ultramar)
+87  | GROENLANDIA (territorio autónomo de Dinamarca)
+89  | GUADALUPE (departamento de ultramar de Francia)
+90  | GUAM (territorio no incorporado de EE.UU.)
+92  | GUERNSEY (dependencia de la Corona Británica)
+97  | ISLAS HEARD Y MCDONALD (territorio australiano)
+99  | HONG KONG (región administrativa especial de China)
+101 | ISLANDIA → SÍ es país (error posible de clasificación, se mantiene)
+107 | ISLA DE MAN (dependencia de la Corona Británica)
+113 | JERSEY (dependencia de la Corona Británica)
+118 | KOSOVO (reconocimiento internacional parcial)
+130 | MACAO (región administrativa especial de China)
+137 | ISLAS MARSHALL (estado en libre asociación con EE.UU.)
+138 | MARTINICA (departamento de ultramar de Francia)
+139 | MAURITANIA → SÍ es país
+141 | MAYOTTE (departamento de ultramar de Francia)
+143 | MICRONESIA (estado en libre asociación con EE.UU.)
+148 | MONTSERRAT (territorio británico de ultramar)
+155 | NUEVA CALEDONIA (colectividad especial de Francia)
+160 | NIUE (estado en libre asociación con Nueva Zelanda)
+161 | ISLA NORFOLK (territorio australiano)
+164 | ISLAS MARIANAS DEL NORTE (mancomunidad de EE.UU.)
+169 | PALESTINA (estado con reconocimiento parcial)
+175 | ISLAS PITCAIRN (territorio británico de ultramar)
+178 | PUERTO RICO (estado libre asociado de EE.UU.)
+181 | REUNIÓN (departamento de ultramar de Francia)
+185 | SAN BARTOLOMÉ (colectividad de ultramar de Francia)
+186 | SANTA ELENA (territorio británico de ultramar)
+189 | SAN MARTÍN (colectividad de ultramar de Francia)
+190 | SAN PEDRO Y MIQUELÓN (colectividad de ultramar de Francia)
+201 | SAN MARTÍN (PARTE NEERLANDESA) (país constituyente del Reino de los Países Bajos)
+204 | ISLAS SALOMÓN → SÍ es país independiente
+207 | GEORGIA DEL SUR E ISLAS SANDWICH DEL SUR (territorio británico de ultramar)
+214 | SVALBARD Y JAN MAYEN (territorios de Noruega)
+218 | TAIWÁN (reconocimiento internacional limitado)
+225 | TOKELAU (territorio de Nueva Zelanda)
+231 | ISLAS TURCAS Y CAICOS (territorio británico de ultramar)
+233 | ISLAS VÍRGENES DE LOS ESTADOS UNIDOS (territorio de EE.UU.)
+239 | ISLAS ULTRAMARINAS MENORES DE LOS EE.UU. (territorios de EE.UU.)
+246 | WALLIS Y FUTUNA (colectividad de ultramar de Francia)
+247 | SAHARA OCCIDENTAL (territorio en disputa, no reconocido como estado independiente)
+2   | ISLAS ÅLAND (región autónoma de Finlandia)
+
+===================================================================
+NOTA: Algunos casos como Kosovo, Palestina y Taiwán son debatidos
+geopolíticamente — tienen gobierno propio pero reconocimiento
+internacional parcial o en disputa.
+
+
+-- País:      Aruba
+en t076t_states
+( 3577154, (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'AW'), 'AW-OE', NULL, NULL, 0, 'AW-OE', 'ABW-OE', '+297', (SELECT id FROM t070t_division_type WHERE code = 'REG'), 'oranjestad east', 'Oranjestad East', 'Oranjestad East', 'Oranjestad East', 'Oranjestad East', 1, NOW(6), NOW(6), 1, 1),
+( 3577154, (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'AW'), 'AW-OW', NULL, NULL, 0, 'AW-OW', 'ABW-OW', '+297', (SELECT id FROM t070t_division_type WHERE code = 'REG'), 'oranjestad west', 'Oranjestad West', 'Oranjestad West', 'Oranjestad West', 'Oranjestad West', 1, NOW(6), NOW(6), 1, 1),
+
+( 3577154, (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'AW'), 'AW-OE', NULL, NULL, 0, 'AW-OE', 'ABW-OE', '+297', (SELECT id FROM t070t_division_type WHERE code = 'REG'), 'oranjestad east', 'Oranjestad East', 'Oranjestad East', 'Oranjestad East', 'Oranjestad East', 1, NOW(6), NOW(6), 1, 1),
+( 993577154, (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'AW'), 'AW-OW', NULL, NULL, 0, 'AW-OW', 'ABW-OW', '+297', (SELECT id FROM t070t_division_type WHERE code = 'REG'), 'oranjestad west', 'Oranjestad West', 'Oranjestad West', 'Oranjestad West', 'Oranjestad West', 1, NOW(6), NOW(6), 1, 1),
+
+( 3577089, (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'AW'), 'AW-SNN', NULL, NULL, 0, 'AW-SNN', 'ABW-SNN', '+297', (SELECT id FROM t070t_division_type WHERE code = 'REG'), 'san nicolas north', 'San Nicolas North', 'San Nicolas North', 'San Nicolas North', 'San Nicolas North', 1, NOW(6), NOW(6), 1, 1),
+( 3577089, (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'AW'), 'AW-SNS', NULL, NULL, 0, 'AW-SNS', 'ABW-SNS', '+297', (SELECT id FROM t070t_division_type WHERE code = 'REG'), 'san nicolas south', 'San Nicolas South', 'San Nicolas South', 'San Nicolas South', 'San Nicolas South', 1, NOW(6), NOW(6), 1, 1),
+
+( 3577089, (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'AW'), 'AW-SNN', NULL, NULL, 0, 'AW-SNN', 'ABW-SNN', '+297', (SELECT id FROM t070t_division_type WHERE code = 'REG'), 'san nicolas north', 'San Nicolas North', 'San Nicolas North', 'San Nicolas North', 'San Nicolas North', 1, NOW(6), NOW(6), 1, 1),
+( 993577089, (SELECT id FROM t074t_countries WHERE code_iso_alpha2 = 'AW'), 'AW-SNS', NULL, NULL, 0, 'AW-SNS', 'ABW-SNS', '+297', (SELECT id FROM t070t_division_type WHERE code = 'REG'), 'san nicolas south', 'San Nicolas South', 'San Nicolas South', 'San Nicolas South', 'San Nicolas South', 1, NOW(6), NOW(6), 1, 1),

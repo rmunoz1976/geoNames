@@ -1,0 +1,356 @@
+# ============================================================
+# filtrar_geonames_por_nivel.ps1
+# Separa archivos GeoNames por nivel administrativo
+# Formato de salida: CO_colombia_ADM1.txt
+# Países: 253 (incluyendo AN, CS, YU históricos)
+# ============================================================
+
+$inputFolder    = "C:\dev\idg\intermediary\docs\Claude\schema\2_Proyecto_Insertar_Tablas_Geográficas\t076t_states_copia_2\paises"
+$baseOutputFolder = "C:\dev\idg\intermediary\docs\Claude\schema\2_Proyecto_Insertar_Tablas_Geográficas\t076t_states_copia_2\niveles"
+
+# ============================================================
+# Mapa código ISO alpha2 → nombre del país
+# ============================================================
+$countryNames = @{
+    "AD" = "ANDORRA"
+    "AE" = "EMIRATOS_ARABES_UNIDOS"
+    "AF" = "AFGANISTAN"
+    "AG" = "ANTIGUA_Y_BARBUDA"
+    "AI" = "ANGUILA"
+    "AL" = "ALBANIA"
+    "AM" = "ARMENIA"
+    "AN" = "ANTILLAS_NEERLANDESAS"
+    "AO" = "ANGOLA"
+    "AQ" = "ANTARTIDA"
+    "AR" = "ARGENTINA"
+    "AS" = "SAMOA_AMERICANA"
+    "AT" = "AUSTRIA"
+    "AU" = "AUSTRALIA"
+    "AW" = "ARUBA"
+    "AX" = "ISLAS_ALAND"
+    "AZ" = "AZERBAIYAN"
+    "BA" = "BOSNIA_Y_HERZEGOVINA"
+    "BB" = "BARBADOS"
+    "BD" = "BANGLADESH"
+    "BE" = "BELGICA"
+    "BF" = "BURKINA_FASO"
+    "BG" = "BULGARIA"
+    "BH" = "BAREIN"
+    "BI" = "BURUNDI"
+    "BJ" = "BENIN"
+    "BL" = "SAN_BARTOLOME"
+    "BM" = "BERMUDAS"
+    "BN" = "BRUNEI"
+    "BO" = "BOLIVIA"
+    "BQ" = "BONAIRE_SAN_EUSTAQUIO_Y_SABA"
+    "BR" = "BRASIL"
+    "BS" = "BAHAMAS"
+    "BT" = "BUTAN"
+    "BV" = "ISLA_BOUVET"
+    "BW" = "BOTSUANA"
+    "BY" = "BIELORRUSIA"
+    "BZ" = "BELICE"
+    "CA" = "CANADA"
+    "CC" = "ISLAS_COCOS"
+    "CD" = "REPUBLICA_DEMOCRATICA_DEL_CONGO"
+    "CF" = "REPUBLICA_CENTROAFRICANA"
+    "CG" = "REPUBLICA_DEL_CONGO"
+    "CH" = "SUIZA"
+    "CI" = "COSTA_DE_MARFIL"
+    "CK" = "ISLAS_COOK"
+    "CL" = "CHILE"
+    "CM" = "CAMERUN"
+    "CN" = "CHINA"
+    "CO" = "COLOMBIA"
+    "CR" = "COSTA_RICA"
+    "CS" = "SERBIA_Y_MONTENEGRO"
+    "CU" = "CUBA"
+    "CV" = "CABO_VERDE"
+    "CW" = "CURAZAO"
+    "CX" = "ISLA_DE_NAVIDAD"
+    "CY" = "CHIPRE"
+    "CZ" = "CHEQUIA"
+    "DE" = "ALEMANIA"
+    "DJ" = "YIBUTI"
+    "DK" = "DINAMARCA"
+    "DM" = "DOMINICA"
+    "DO" = "REPUBLICA_DOMINICANA"
+    "DZ" = "ARGELIA"
+    "EC" = "ECUADOR"
+    "EE" = "ESTONIA"
+    "EG" = "EGIPTO"
+    "EH" = "SAHARA_OCCIDENTAL"
+    "ER" = "ERITREA"
+    "ES" = "ESPANA"
+    "ET" = "ETIOPIA"
+    "FI" = "FINLANDIA"
+    "FJ" = "FIYI"
+    "FK" = "ISLAS_MALVINAS"
+    "FM" = "MICRONESIA"
+    "FO" = "ISLAS_FEROE"
+    "FR" = "FRANCIA"
+    "GA" = "GABON"
+    "GB" = "REINO_UNIDO"
+    "GD" = "GRANADA"
+    "GE" = "GEORGIA"
+    "GF" = "GUAYANA_FRANCESA"
+    "GG" = "GUERNSEY"
+    "GH" = "GHANA"
+    "GI" = "GIBRALTAR"
+    "GL" = "GROENLANDIA"
+    "GM" = "GAMBIA"
+    "GN" = "GUINEA"
+    "GP" = "GUADALUPE"
+    "GQ" = "GUINEA_ECUATORIAL"
+    "GR" = "GRECIA"
+    "GS" = "GEORGIA_DEL_SUR_E_ISLAS_SANDWICH_DEL_SUR"
+    "GT" = "GUATEMALA"
+    "GU" = "GUAM"
+    "GW" = "GUINEA_BISAU"
+    "GY" = "GUYANA"
+    "HK" = "HONG_KONG"
+    "HM" = "ISLAS_HEARD_Y_MCDONALD"
+    "HN" = "HONDURAS"
+    "HR" = "CROACIA"
+    "HT" = "HAITI"
+    "HU" = "HUNGRIA"
+    "ID" = "INDONESIA"
+    "IE" = "IRLANDA"
+    "IL" = "ISRAEL"
+    "IM" = "ISLA_DE_MAN"
+    "IN" = "INDIA"
+    "IO" = "TERRITORIO_BRITANICO_OCEANO_INDICO"
+    "IQ" = "IRAK"
+    "IR" = "IRAN"
+    "IS" = "ISLANDIA"
+    "IT" = "ITALIA"
+    "JE" = "JERSEY"
+    "JM" = "JAMAICA"
+    "JO" = "JORDANIA"
+    "JP" = "JAPON"
+    "KE" = "KENIA"
+    "KG" = "KIRGUISTAN"
+    "KH" = "CAMBOYA"
+    "KI" = "KIRIBATI"
+    "KM" = "COMORAS"
+    "KN" = "SAN_CRISTOBAL_Y_NIEVES"
+    "KP" = "COREA_DEL_NORTE"
+    "KR" = "COREA_DEL_SUR"
+    "KW" = "KUWAIT"
+    "KY" = "ISLAS_CAIMAN"
+    "KZ" = "KAZAJISTAN"
+    "LA" = "LAOS"
+    "LB" = "LIBANO"
+    "LC" = "SANTA_LUCIA"
+    "LI" = "LIECHTENSTEIN"
+    "LK" = "SRI_LANKA"
+    "LR" = "LIBERIA"
+    "LS" = "LESOTO"
+    "LT" = "LITUANIA"
+    "LU" = "LUXEMBURGO"
+    "LV" = "LETONIA"
+    "LY" = "LIBIA"
+    "MA" = "MARRUECOS"
+    "MC" = "MONACO"
+    "MD" = "MOLDAVIA"
+    "ME" = "MONTENEGRO"
+    "MF" = "SAN_MARTIN"
+    "MG" = "MADAGASCAR"
+    "MH" = "ISLAS_MARSHALL"
+    "MK" = "MACEDONIA_DEL_NORTE"
+    "ML" = "MALI"
+    "MM" = "MYANMAR"
+    "MN" = "MONGOLIA"
+    "MO" = "MACAO"
+    "MP" = "ISLAS_MARIANAS_DEL_NORTE"
+    "MQ" = "MARTINICA"
+    "MR" = "MAURITANIA"
+    "MS" = "MONTSERRAT"
+    "MT" = "MALTA"
+    "MU" = "MAURICIO"
+    "MV" = "MALDIVAS"
+    "MW" = "MALAUI"
+    "MX" = "MEXICO"
+    "MY" = "MALASIA"
+    "MZ" = "MOZAMBIQUE"
+    "NA" = "NAMIBIA"
+    "NC" = "NUEVA_CALEDONIA"
+    "NE" = "NIGER"
+    "NF" = "ISLA_NORFOLK"
+    "NG" = "NIGERIA"
+    "NI" = "NICARAGUA"
+    "NL" = "PAISES_BAJOS"
+    "NO" = "NORUEGA"
+    "NP" = "NEPAL"
+    "NR" = "NAURU"
+    "NU" = "NIUE"
+    "NZ" = "NUEVA_ZELANDA"
+    "OM" = "OMAN"
+    "PA" = "PANAMA"
+    "PE" = "PERU"
+    "PF" = "POLINESIA_FRANCESA"
+    "PG" = "PAPUA_NUEVA_GUINEA"
+    "PH" = "FILIPINAS"
+    "PK" = "PAKISTAN"
+    "PL" = "POLONIA"
+    "PM" = "SAN_PEDRO_Y_MIQUELON"
+    "PN" = "ISLAS_PITCAIRN"
+    "PR" = "PUERTO_RICO"
+    "PS" = "PALESTINA"
+    "PT" = "PORTUGAL"
+    "PW" = "PALAOS"
+    "PY" = "PARAGUAY"
+    "QA" = "CATAR"
+    "RE" = "REUNION"
+    "RO" = "RUMANIA"
+    "RS" = "SERBIA"
+    "RU" = "RUSIA"
+    "RW" = "RUANDA"
+    "SA" = "ARABIA_SAUDITA"
+    "SB" = "ISLAS_SALOMON"
+    "SC" = "SEYCHELLES"
+    "SD" = "SUDAN"
+    "SE" = "SUECIA"
+    "SG" = "SINGAPUR"
+    "SH" = "SANTA_ELENA"
+    "SI" = "ESLOVENIA"
+    "SJ" = "SVALBARD_Y_JAN_MAYEN"
+    "SK" = "ESLOVAQUIA"
+    "SL" = "SIERRA_LEONA"
+    "SM" = "SAN_MARINO"
+    "SN" = "SENEGAL"
+    "SO" = "SOMALIA"
+    "SR" = "SURINAM"
+    "SS" = "SUDAN_DEL_SUR"
+    "ST" = "SANTO_TOME_Y_PRINCIPE"
+    "SV" = "EL_SALVADOR"
+    "SX" = "SAN_MARTIN_NEERLANDES"
+    "SY" = "SIRIA"
+    "SZ" = "ESUATINI"
+    "TC" = "ISLAS_TURCAS_Y_CAICOS"
+    "TD" = "CHAD"
+    "TF" = "TIERRAS_AUSTRALES_FRANCESAS"
+    "TG" = "TOGO"
+    "TH" = "TAILANDIA"
+    "TJ" = "TAYIKISTAN"
+    "TK" = "TOKELAU"
+    "TL" = "TIMOR_ORIENTAL"
+    "TM" = "TURKMENISTAN"
+    "TN" = "TUNEZ"
+    "TO" = "TONGA"
+    "TR" = "TURQUIA"
+    "TT" = "TRINIDAD_Y_TOBAGO"
+    "TV" = "TUVALU"
+    "TW" = "TAIWAN"
+    "TZ" = "TANZANIA"
+    "UA" = "UCRANIA"
+    "UG" = "UGANDA"
+    "UM" = "ISLAS_ULTRAMARINAS_MENORES_EEUU"
+    "US" = "ESTADOS_UNIDOS"
+    "UY" = "URUGUAY"
+    "UZ" = "UZBEKISTAN"
+    "VA" = "VATICANO"
+    "VC" = "SAN_VICENTE_Y_LAS_GRANADINAS"
+    "VE" = "VENEZUELA"
+    "VG" = "ISLAS_VIRGENES_BRITANICAS"
+    "VI" = "ISLAS_VIRGENES_EEUU"
+    "VN" = "VIETNAM"
+    "VU" = "VANUATU"
+    "WF" = "WALLIS_Y_FUTUNA"
+    "WS" = "SAMOA"
+    "XK" = "KOSOVO"
+    "YE" = "YEMEN"
+    "YT" = "MAYOTTE"
+    "YU" = "YUGOSLAVIA"
+    "ZA" = "SUDAFRICA"
+    "ZM" = "ZAMBIA"
+    "ZW" = "ZIMBABUE"
+}
+
+# ============================================================
+# Todos los códigos de nivel a procesar
+# ============================================================
+$allCodes = @(
+    "ADM1","ADM2","ADM3","ADM4","ADM5",
+    "ADM1H","ADM2H","ADM3H","ADM4H","ADM5H",
+    "ADMD","ADMDH","PRSH","ZN","TERR",
+    "PCLI","PCLD","PCLIX","PCLF","PCLH","PCLS"
+)
+
+# ============================================================
+# Crear todas las carpetas de antemano
+# ============================================================
+foreach ($code in $allCodes) {
+    New-Item -ItemType Directory -Force -Path (Join-Path $baseOutputFolder $code) | Out-Null
+}
+Write-Host "Carpetas creadas: $($allCodes.Count)"
+Write-Host ""
+
+# ============================================================
+# Procesar cada archivo .txt de la carpeta ORIGINAL
+# ============================================================
+$totalFiles   = 0
+$totalRecords = 0
+$skipped      = 0
+
+Get-ChildItem -Path $inputFolder -Filter "*.txt" | Sort-Object Name | ForEach-Object {
+    $countryCode = $_.BaseName
+
+    # Obtener nombre del país
+    if ($countryNames.ContainsKey($countryCode)) {
+        $countryName = $countryNames[$countryCode]
+    } else {
+        $countryName = $countryCode.ToLower()
+        Write-Host "  AVISO: $countryCode no está en el mapa de países — usando código como nombre" -ForegroundColor Yellow
+    }
+
+    $reader = [System.IO.StreamReader]::new($_.FullName, [System.Text.Encoding]::UTF8)
+
+    # Agrupar líneas por feature_code
+    $grupos = @{}
+    while (($line = $reader.ReadLine()) -ne $null) {
+        $cols = $line -split "`t"
+        if ($cols.Count -ge 9 -and $cols[6] -eq "A" -and $cols[8] -eq $countryCode) {
+            $featureCode = $cols[7]
+            if ($allCodes -contains $featureCode) {
+                if (-not $grupos.ContainsKey($featureCode)) {
+                    $grupos[$featureCode] = [System.Collections.Generic.List[string]]::new()
+                }
+                $grupos[$featureCode].Add($line)
+            }
+        }
+    }
+    $reader.Close()
+
+    if ($grupos.Count -eq 0) {
+        Write-Host "$countryCode : sin registros" -ForegroundColor DarkGray
+        $skipped++
+    } else {
+        # Escribir cada grupo en su carpeta
+        foreach ($featureCode in ($grupos.Keys | Sort-Object)) {
+            $outputFolder = Join-Path $baseOutputFolder $featureCode
+            $fileName     = $countryCode + "_" + $countryName + "_" + $featureCode + ".txt"
+            $outputFile   = Join-Path $outputFolder $fileName
+            $writer = [System.IO.StreamWriter]::new($outputFile, $false, [System.Text.Encoding]::UTF8)
+            foreach ($line in $grupos[$featureCode]) {
+                $writer.WriteLine($line)
+            }
+            $writer.Close()
+            $count = $grupos[$featureCode].Count
+            $totalRecords += $count
+            Write-Host "  $fileName : $count registros"
+        }
+    }
+    $totalFiles++
+}
+
+# ============================================================
+# Resumen final
+# ============================================================
+Write-Host ""
+Write-Host "================================================" -ForegroundColor Cyan
+Write-Host "Proceso completado" -ForegroundColor Cyan
+Write-Host "Archivos procesados : $totalFiles"
+Write-Host "Sin registros       : $skipped"
+Write-Host "Registros totales   : $totalRecords"
+Write-Host "================================================" -ForegroundColor Cyan

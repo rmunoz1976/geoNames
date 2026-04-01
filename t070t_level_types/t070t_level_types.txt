@@ -1,0 +1,39 @@
+CREATE TABLE `t070t_level_types` (
+  `id` int NOT NULL AUTO_INCREMENT COMMENT 'Consecutivo único del registro',
+  `code` varchar(16) NOT NULL COMMENT 'Código interno del nivel de división',
+  `name` varchar(128) NOT NULL COMMENT 'Nombre del nivel de división',
+  `status` int NOT NULL DEFAULT '1' COMMENT 'Estado del registro: 1=activo, 0=inactivo',
+  `created_at` datetime(6) NOT NULL COMMENT 'Fecha y hora de creación del registro',
+  `updated_at` datetime(6) NOT NULL COMMENT 'Fecha y hora de última actualización del registro',
+  `created_by` int NOT NULL COMMENT 'Usuario que creó el registro',
+  `updated_by` int NOT NULL COMMENT 'Usuario que realizó la última actualización del registro',
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `UK_t070t_code` (`code`),
+  CONSTRAINT `CHK_NE_t070t_code` CHECK ((`code` <> _utf8mb4'')),
+  CONSTRAINT `CHK_NE_t070t_name` CHECK ((`name` <> _utf8mb4''))
+) ENGINE=InnoDB AUTO_INCREMENT=175 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci COMMENT='Nivel de divisiones geográficas';
+
+
+
+# id, code, name, status, created_at, updated_at, created_by, updated_by
+'154', 'PCLI', 'País Independiente', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'155', 'PCLD', 'Territorio Dependiente', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'156', 'PCLIX', 'Sección de Territorio Dependiente', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'157', 'PCLF', 'Territorio en Disputa', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'158', 'PCLH', 'Entidad Política Histórica', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'159', 'PCLS', 'Estado Semiindependiente', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'160', 'TERR', 'Territorio', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'161', 'ADM1', 'División Administrativa de Primer Nivel', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'162', 'ADM2', 'División Administrativa de Segundo Nivel', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'163', 'ADM3', 'División Administrativa de Tercer Nivel', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'164', 'ADM4', 'División Administrativa de Cuarto Nivel', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'165', 'ADM5', 'División Administrativa de Quinto Nivel', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'166', 'ADMD', 'División Administrativa Sin Nivel Definido', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'167', 'ADM1H', 'División Administrativa de Primer Nivel Histórica', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'168', 'ADM2H', 'División Administrativa de Segundo Nivel Histórica', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'169', 'ADM3H', 'División Administrativa de Tercer Nivel Histórica', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'170', 'ADM4H', 'División Administrativa de Cuarto Nivel Histórica', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'171', 'ADM5H', 'División Administrativa de Quinto Nivel Histórica', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'172', 'ADMDH', 'División Administrativa Sin Nivel Definido Histórica', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'173', 'PRSH', 'Parroquia', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'
+'174', 'ZN', 'Zona', '1', '2026-03-20 13:56:00.001987', '2026-03-20 13:56:00.001987', '1', '1'

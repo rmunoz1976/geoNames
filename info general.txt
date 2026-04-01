@@ -1,0 +1,212 @@
+¿En qué está trabajando?
+Poblar la tabla de  
+en MySQL Workbench para los 
+
+¿Qué está tratando de lograr?
+El objetivo es que los scripts .sql resultantes sean ejecutables directamente en Workbench sin errores.
+
+Instrucciones:
+Tu rol es ser un DBA de la base de datos de MySql.
+Recibirás los siguientes archivos:
+
+Las instrucciones de como crear las tablas estás en el archivo adjunto "instrucciones_tablas.txt"
+En ninguna parte de las respuesta uses emojis, iconos o símbolos especiales, los comentarios deben usar texto plano, por ejemplo: 
+-- ADVERTENCIA:  
+-- CORRECTO: 
+-- ERROR: 
+-- NOTA:
+-- IMPORTANTE:
+
+
+
+Usa estos medios de consulta más confiables :
+1. countries-states-cities-database (GitHub) https://github.com/dr5hn/countries-states-cities-database
+2. CountryStateCity API (REST/GraphQL) https://countrystatecity.in
+3. GeoDB Cities API http://geodb-cities-api.wirefreethought.com
+4. OpenStreetMap / Geoapify (para barrios y límites administrativos) https://www.geoapify.com/boundaries-api/
+5. Geoapify – Descarga de ciudades/pueblos/barrios https://www.geoapify.com/download-all-the-cities-towns-villages/
+
+
+
+NOTA: Los campos name_original corresponden en realidad a nombres 
+transcritos a alfabeto latino legible, usar una versión sin diacríticos y consistente;
+Reglas:
+- Usa solo caracteres ASCII (a-z, 0-9 y espacios)
+- No uses diacríticos (ej: ā → a, ñ → n)
+- Mantén números como están
+- Convierte todo a minúsculas
+
+
+
+    pais: Japón
+    ciudades: 
+        name_spanish: Distrito de Shibuya Tokio
+        name_english: Shibuya District Tokyo
+        name_original: 東京都渋谷区
+        name_transcribed: tokyo-to shibuya-ku
+      
+        name_spanish: Distrito de Minato Tokio
+        name_english: Minato District Tokyo
+        name_original: 東京都港区
+        name_transcribed: tokyo-to minato-ku
+  
+    pais: China
+    ciudades: 
+        name_spanish: Distrito de Chaoyang Pekín
+        name_english: Chaoyang District Beijing
+        name_original: 北京市朝阳区
+        name_transcribed: beijing shi chaoyang qu
+      
+      
+        name_spanish: Distrito de Pudong Shanghái
+        name_english: Pudong District Shanghai
+        name_original: 上海市浦东新区
+        name_transcribed: shanghai shi pudong xin qu
+  
+    pais: Rusia
+    ciudades: 
+        name_spanish: Moscú
+        name_english: Moscow
+        name_original: Москва
+        name_transcribed: moskva
+      
+        name_spanish: San Petersburgo
+        name_english: Saint Petersburg
+        name_original: Санкт-Петербург
+        name_transcribed: sankt-peterburg
+  
+    pais: Arabia Saudita
+    ciudades: 
+        name_spanish: Riad
+        name_english: Riyadh
+        name_original: الرياض
+        name_transcribed: al riyadh
+      
+        name_spanish: Yeda
+        name_english: Jeddah
+        name_original: جدة
+        name_transcribed: jeddah
+      
+    pais: Afganistán
+    ciudades: 
+        name_spanish: Kabul
+        name_english: Kabul
+        name_original: کابل
+        name_transcribed: kabul
+      
+        name_spanish: Herat
+        name_english: Herat
+        name_original: هرات
+        name_transcribed: herat
+		
+		
+
+
+
+INSTRUCCIONES PASO A PASO 
+
+PASO 1 — INVESTIGA el país:
+  - Busca el nombre oficial del país en español, inglés e ISO
+  - Identifica el tipo de división administrativa de primer nivel
+    (departamento, estado, provincia, región, cantón, gobernación, etc.)
+  - Obtén el código ISO 3166-1 alpha-2 del país (ej: CO, MX, ES)
+  - Obtén los datos de geonames.org para cada división (geo_id)
+    readme.txt https://download.geonames.org/export/dump/readme.txt
+    GeoNames Data https://www.geonames.org/export/
+    Country Codes https://www.geonames.org/countries/
+    Download server https://download.geonames.org/export/dump/
+    Postal codes https://www.geonames.org/postal-codes/
+    Postal codes are available as a separate download. https://download.geonames.org/export/zip/?C=N;O=A
+    GeoNames WebServices overview https://www.geonames.org/export/ws-overview.html  
+  - Ten en cuenta esas otras fuentes de consulta (en orden de confiabilidad)
+	countries-states-cities-database (GitHub) https://github.com/dr5hn/countries-states-cities-database
+	CountryStateCity API (REST/GraphQL) https://countrystatecity.in
+	GeoDB Cities API http://geodb-cities-api.wirefreethought.com
+	OpenStreetMap / Geoapify (para barrios y límites administrativos) https://www.geoapify.com/boundaries-api/
+	Geoapify – Descarga de ciudades/pueblos/barrios https://www.geoapify.com/download-all-the-cities-towns-villages/
+	https://www.geonames.org/countries/AF/afghanistan.html
+	https://www.geonames.org/AF/administrative-division-afghanistan.html
+
+
+
+REGLAS 
+
+  - Usa utf8mb4; escapa comillas simples DENTRO de valores de texto
+    duplicándolas (''), NO con barra invertida (\').
+    Ejemplos de nombres que requieren escape:
+      M'sila      → 'M''sila'
+      Aïn N'Sour  → 'Aïn N''Sour'
+      Oum el Bouaghi → sin apóstrofe, no requiere escape
+    Aplica a TODOS los campos varchar: name_spanish, name_english,
+    name_iso, name_original, name_transcribed, code, etc.
+    Antes de generar el SQL, revisar todos los valores en busca de
+    apóstrofes o comillas simples embebidas y duplicarlas.
+  - NULL sin comillas para valores nulos
+  - name_spanish en minúsculas con tilde si aplica
+  - name_english siempre en inglés sin caracteres especiales
+  - name_iso: nombre oficial exacto según ISO 3166-2
+  - No inventes geo_id; si no encuentras el dato real de geonames.org, indícalo
+  - Si el país tiene subdivisiones de distinto tipo (ej: regiones + provincias),
+    agrupa por tipo y genera un INSERT de division_type por cada uno
+  - si no obtienes los valores de code_iso_alpha2, code_iso_alpha3, code_iso_numeric y phone_code, déjalos con cero (0)
+
+
+
+
+INSTRUCCIONES PASO A PASO
+
+PASO 1 — INVESTIGA el país:
+  - Identifica el tipo de división administrativa de primer nivel
+    (departamento, estado, provincia, región, cantón, gobernación, etc.)
+  - Obtén el código ISO 3166-1 alpha-2 del país (ej: CO, MX, ES)
+  - Obtén los datos de geonames.org para cada división (geo_id)
+    readme.txt https://download.geonames.org/export/dump/readme.txt
+    GeoNames Data https://www.geonames.org/export/
+    Country Codes https://www.geonames.org/countries/
+    Download server https://download.geonames.org/export/dump/
+    Postal codes https://www.geonames.org/postal-codes/
+    Postal codes are available as a separate download. https://download.geonames.org/export/zip/?C=N;O=A
+    GeoNames WebServices overview https://www.geonames.org/export/ws-overview.html  
+	Ejemplo de AF afghanistan
+    https://www.geonames.org/countries/AF/afghanistan.html
+	https://www.geonames.org/AF/administrative-division-afghanistan.html
+  - Ten en cuenta esas otras fuentes de consulta (en orden de confiabilidad)
+	countries-states-cities-database (GitHub) https://github.com/dr5hn/countries-states-cities-database
+	CountryStateCity API (REST/GraphQL) https://countrystatecity.in
+	GeoDB Cities API http://geodb-cities-api.wirefreethought.com
+	OpenStreetMap / Geoapify (para barrios y límites administrativos) https://www.geoapify.com/boundaries-api/
+	Geoapify – Descarga de ciudades/pueblos/barrios https://www.geoapify.com/download-all-the-cities-towns-villages/
+
+REGLAS
+
+  - Usa utf8mb4; escapa comillas simples DENTRO de valores de texto
+    duplicándolas (''), NO con barra invertida (\').
+    Ejemplos de nombres que requieren escape:
+      M'sila      → 'M''sila'
+      Aïn N'Sour  → 'Aïn N''Sour'
+      Oum el Bouaghi → sin apóstrofe, no requiere escape
+    Aplica a TODOS los campos varchar: name_spanish, name_english,
+    name_iso, name_original, name_transcribed, code, etc.
+    Antes de generar el SQL, revisar todos los valores en busca de
+    apóstrofes o comillas simples embebidas y duplicarlas.
+  - NULL sin comillas para valores nulos
+  - name_spanish en minúsculas con tilde si aplica
+  - name_english siempre en inglés sin caracteres especiales
+  - name_iso: nombre oficial exacto según ISO 3166-2
+  - No inventes geo_id; si no encuentras el dato real de geonames.org, indícalo
+  - Si el país tiene subdivisiones de distinto tipo (ej: regiones + provincias),
+    agrupa por tipo y genera un INSERT de division_type por cada uno
+
+NOTAS: 
+Dame las observaciones mas criticas.
+Dame la información de forma que pueda descargarla
+
+═══════════════════════════════════════════════════════════════════════════════
+INSTRUCCIÓN FINAL OBLIGATORIA:
+Genera el SQL completo con la información validada para MAYOTTE
+Incluye los 16 municipios como divisiones ADM1 con id_level_type = 8.
+el campo code_iso_numeric  : código numérico ISO 3166-2 de la división NO PUEDE SER NULO
+genera el  Nombre: Ejemplo:   AF_AFGANISTÁN_ADM1_ins
+Usa los geo_ids reales de geonames.org.
+Incluye las observaciones críticas como comentarios al final del SQL.
+═══════════════════════════════════════════════════════════════════════════════

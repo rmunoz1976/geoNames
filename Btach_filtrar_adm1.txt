@@ -1,0 +1,29 @@
+
+N
+$inputFolder = "C:\dev\idg\docs\Claude\states\ORIGINAL"
+$outputFolder = "C:\dev\idg\docs\Claude\states\ADM1"
+
+New-Item -ItemType Directory -Force -Path $outputFolder | Out-Null
+
+Get-ChildItem -Path $inputFolder -Filter "*.txt" | ForEach-Object {
+    $countryCode = $_.BaseName
+    $outputFile = Join-Path $outputFolder ($countryCode + "_ADM5.txt")
+    
+    $reader = [System.IO.StreamReader]::new($_.FullName)
+    $writer = [System.IO.StreamWriter]::new($outputFile)
+    $count = 0
+    
+    while (($line = $reader.ReadLine()) -ne $null) {
+        $cols = $line -split "`t"
+        if ($cols.Count -ge 9 -and $cols[6] -eq "A" -and $cols[7] -eq "ADM1" -and $cols[8] -eq $countryCode) {
+            $writer.WriteLine($line)
+            $count++
+        }
+    }
+    $reader.Close()
+    $writer.Close()
+    
+    Write-Host "$countryCode : $count registros ADM1"
+}
+
+Write-Host "Proceso completado"
